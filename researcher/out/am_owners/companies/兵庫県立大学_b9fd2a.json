@@ -1,0 +1,1317 @@
+{
+ "name": "兵庫県立大学",
+ "aliases": [],
+ "context": "PBF=unknown 装置= 出典=https://events.malvernpanalytical.com/AM_Hyogo2025",
+ "researched_at": "2026-11-10T19:32:03.743996+00:00",
+ "official_url": "https://www.u-hyogo.ac.jp/",
+ "identified_by": "search:ddgs:google:兵庫県立大学",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "大学設置/創立",
+    "value": "大学設置/創立：2004年",
+    "url": "https://ja.wikipedia.org/wiki/%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "label": "設立年月日",
+    "value": "設立年月日：2013年 4月1日",
+    "url": "https://ja.wikipedia.org/wiki/%E5%85%B5%E5%BA%AB%E7%9C%8C%E5%85%AC%E7%AB%8B%E5%A4%A7%E5%AD%A6%E6%B3%95%E4%BA%BA",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本部所在地",
+    "value": "〒 651-2197 兵庫県 神戸市 西区 学園西町8丁目2番地1 北緯34度40分41.7秒 東経135度03分7.6秒 ﻿ / ﻿ 北緯34.678250度 東経135.052111度 ﻿ / 34.678250; 135.052111 座標 : 北緯34度40分41.7秒 東経135度03分7.6秒 ﻿ / ﻿ 北緯34.678250度 東経135.052111度 ﻿ / 34.678250; 135.052111",
+    "url": "https://ja.wikipedia.org/wiki/%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "日本 〒 651-2197 兵庫県 神戸市 西区 学園西町8丁目2番地1",
+    "url": "https://ja.wikipedia.org/wiki/%E5%85%B5%E5%BA%AB%E7%9C%8C%E5%85%AC%E7%AB%8B%E5%A4%A7%E5%AD%A6%E6%B3%95%E4%BA%BA",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "492億1013万2500円 （2022年3月31日時点） [ 2 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E5%85%B5%E5%BA%AB%E7%9C%8C%E5%85%AC%E7%AB%8B%E5%A4%A7%E5%AD%A6%E6%B3%95%E4%BA%BA",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "用途・客の産業": [
+   {
+    "quote": "私たちが当たり前のように消費している資源やエネルギーは有限であり、持続可能性が課題です",
+    "url": "https://www.u-hyogo.ac.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "限りある資源の循環利用、エネルギーの効率的な生成と再利用、そして環境に優しい新素材開発など、サステイナブルな社会の実現に向けた兵庫県立大学の研究の最前線をご紹介します",
+    "url": "https://www.u-hyogo.ac.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "兵庫県立大学自動車競技部がフォーミュラジムカーナ2026全国大会で優勝",
+    "url": "https://www.u-hyogo.ac.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "兵庫県立大学自動車競技部がフォーミュラジムカーナ2026全国大会で優勝 | 兵庫県立大学",
+    "url": "https://www.u-hyogo.ac.jp/news/news/20261109oshirase.html",
+    "pass": 1
+   },
+   {
+    "quote": "兵庫県立大学自動車競技部がフォーミュラジムカーナ2026全国大会で優勝",
+    "url": "https://www.u-hyogo.ac.jp/news/news/20261109oshirase.html",
+    "pass": 1
+   },
+   {
+    "quote": "兵庫県立大学自動車競技部が、2026年11月7日・8日に富士スピードウェイで開催された「フォーミュラジムカーナ2026 全国大会」において優勝を果たしました",
+    "url": "https://www.u-hyogo.ac.jp/news/news/20261109oshirase.html",
+    "pass": 1
+   },
+   {
+    "quote": "フォーミュラジムカーナは、全国の大学自動車部が同一条件の車両を使用し、ドライビングスキルとチームワークを競うモータースポーツ大会です",
+    "url": "https://www.u-hyogo.ac.jp/news/news/20261109oshirase.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動車競技部の皆さん、優勝おめでとうございます",
+    "url": "https://www.u-hyogo.ac.jp/news/news/20261109oshirase.html",
+    "pass": 1
+   },
+   {
+    "quote": "播磨自動車道新宮IC（山陽自動車道播磨JCT経由）から約3分",
+    "url": "https://www.u-hyogo.ac.jp/about/access/",
+    "pass": 1
+   },
+   {
+    "quote": "中国自動車道山崎ICから約35分、佐用ICから約20分",
+    "url": "https://www.u-hyogo.ac.jp/about/access/",
+    "pass": 1
+   },
+   {
+    "quote": "阪神高速道路又は山陽自動車道－明石海峡大橋－淡路IC下車、すぐの交差点を直進、県道佐野仁井岩屋線経由で約15分",
+    "url": "https://www.u-hyogo.ac.jp/about/access/",
+    "pass": 1
+   },
+   {
+    "quote": "山陽自動車道－明石海峡大橋－淡路IC下車、すぐの交差点を直進、県道佐野仁井岩屋線経由で約15分",
+    "url": "https://www.u-hyogo.ac.jp/about/access/",
+    "pass": 1
+   },
+   {
+    "quote": "神戸淡路鳴門自動車－東浦IC下車、すぐの三叉路を右折、県道島浦線経由で約15分",
+    "url": "https://www.u-hyogo.ac.jp/about/access/",
+    "pass": 1
+   },
+   {
+    "quote": "中国自動車道または山陽自動車道－播但連絡道路－和田山ICまたは八鹿ICへ",
+    "url": "https://www.u-hyogo.ac.jp/about/access/",
+    "pass": 1
+   },
+   {
+    "quote": "舞鶴若狭自動車道－北近畿豊岡自動車道－和田山ICまたは八鹿ICへ",
+    "url": "https://www.u-hyogo.ac.jp/about/access/",
+    "pass": 1
+   },
+   {
+    "quote": "中国自動車道－神戸三田IC（六甲北有料道路終点）から約10分",
+    "url": "https://www.u-hyogo.ac.jp/about/access/",
+    "pass": 1
+   },
+   {
+    "quote": "（大阪・京都方面より）中国自動車道・佐用インターから約10分",
+    "url": "https://www.u-hyogo.ac.jp/about/access/",
+    "pass": 1
+   },
+   {
+    "quote": "（明石・加古川・神戸方面より）第2神明道路－加古川－姫路バイパス－播但連絡道－中国自動車道・佐用インターから約10分",
+    "url": "https://www.u-hyogo.ac.jp/about/access/",
+    "pass": 1
+   },
+   {
+    "quote": "〒670-0836 姫路市神屋町3-264 兵庫県立はりま姫路総合医療センター教育研修棟3階",
+    "url": "https://www.u-hyogo.ac.jp/about/access/",
+    "pass": 1
+   },
+   {
+    "quote": "JR「姫路駅」北口バスターミナル５番乗り場26系統（東姫路駅行き、または阿保車庫行き）に乗車、「県立はりま姫路総合医療センター前」バス停（病院北側）で下車",
+    "url": "https://www.u-hyogo.ac.jp/about/access/",
+    "pass": 1
+   },
+   {
+    "quote": "兵庫県立大学自動車競技部がフォーミュラジムカーナ2026全国大会で優勝",
+    "url": "https://www.u-hyogo.ac.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "高エネルギーガンマ線ビーム生成を世界初観測",
+    "url": "https://www.u-hyogo.ac.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "【ケンダイツウシン】「臨床現場・生活の場に直接届くことを意識した研究を」兵庫県立大学先端医療工学研究所 第22回医療工学連携セミナーを開催しました",
+    "url": "https://www.u-hyogo.ac.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "兵庫県立大学の教員公募情報を更新しました（社会科学研究科経営専門職専攻 教授または准教授（医療マネジメント））",
+    "url": "https://www.u-hyogo.ac.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "医療的ケアを必要とする方の声を聴いてみよう――地域で共に暮らすために――",
+    "url": "https://www.u-hyogo.ac.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "惑星磁気圏における未知の熱緩和メカニズムを発見〜宇宙プラズマの自己組織化状態の解明に貢献〜",
+    "url": "https://www.u-hyogo.ac.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "先端医療工学研究所の八木直美准教授がサンテレビ「はりまサタデー9」に出演します（1/25放送）",
+    "url": "https://www.u-hyogo.ac.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "【ケンダイツウシン】「革新的な画像AI技術を使って、判断が難しい骨盤骨折の診断性能を向上」 先端医療工学研究所が兵庫県立はりま姫路総合医療センターとの共同研究成果を発表",
+    "url": "https://www.u-hyogo.ac.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "【ケンダイツウシン】「半導体微細加工技術が切り拓く世界」高度産業科学技術研究所 渡邊 健夫教授",
+    "url": "https://www.u-hyogo.ac.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用錠剤の投与時認証用プラズモニックナノタグの開発",
+    "url": "https://www.u-hyogo.ac.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "シリーズ・ビッグヒストリー講座 宇宙創生から文明形成まで",
+    "url": "https://www.u-hyogo.ac.jp/news/socialcontributions/openlecture2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、自然・環境科学研究所に新たな研究部門として宇宙天文系が設けられた）",
+    "url": "https://ja.wikipedia.org/wiki/%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "交通の便の悪さや県外出身者も多いことから、一人暮らしや自動車を所有する学生が多く、兵庫県立大学のキャンパスの中で唯一近接区域に学生寮が設置されている",
+    "url": "https://ja.wikipedia.org/wiki/%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立大学と兵庫県立はりま姫路総合医療センターとの包括連携協定の締結について",
+    "url": "https://ja.wikipedia.org/wiki/%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "「令和4年4月に県立はりま姫路総合医療センター内に医療工学の研究開発、医産学連携を推進する拠点として兵庫県立大学が開設した「先端医療工学研究所」」",
+    "url": "https://ja.wikipedia.org/wiki/%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "環境技術研究所先制医療工学研究センター / 計測・分析センター",
+    "url": "https://ja.wikipedia.org/wiki/%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "一般財団法人近畿高エネルギー加工技術研究所（AMPI）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%82%87%E3%81%86%E3%81%94%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%99%E3%83%AB%E3%83%88%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B7%E3%82%A2%E3%83%A0",
+    "pass": 3
+   },
+   {
+    "quote": "実費負担のみによる試作対応で中小企業の利用を推進",
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "pass": 3
+   },
+   {
+    "quote": "チタン製の人工関節など、先端医療デバイスの研究開発",
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "pass": 3
+   },
+   {
+    "quote": "（*1）本研究機は、国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）の助成事業の成果を活用しています",
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "pass": 3
+   },
+   {
+    "quote": "健康モニタリングデバイス、健康管理システム並びにセンサネットワーク及びシステム分野にかかわる研究、設計、開発、試作、販売及びコンサルティング",
+    "url": "https://uh-sangaku.jp/venture/",
+    "pass": 3
+   },
+   {
+    "quote": "学部時代の専攻が経営学でなくても出願でき、企業の管理職・経営者から、医療機関・介護施設の運営者、行政・経済団体の職員まで、幅広い社会人を受け入れています",
+    "url": "https://note.com/mba_yasabi/n/n7dd778b5daf7",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立大学では正式には「経営管理修士（専門職）」、医療・介護系のコースでは「ヘルスケア・マネジメント修士（専門職）」と表記されます",
+    "url": "https://note.com/mba_yasabi/n/n7dd778b5daf7",
+    "pass": 3
+   },
+   {
+    "quote": "：病院・診療所など医療機関の運営管理者、これから経営側に回る医師・看護師・事務長など",
+    "url": "https://note.com/mba_yasabi/n/n7dd778b5daf7",
+    "pass": 3
+   },
+   {
+    "quote": "：日本の経営専門職大学院では初めて設置された医療経営の専門コースとされています",
+    "url": "https://note.com/mba_yasabi/n/n7dd778b5daf7",
+    "pass": 3
+   },
+   {
+    "quote": "医療の現場知識と経営理論を橋渡しし、医療機関を「組織として」マネジメントできる人材を育てます",
+    "url": "https://note.com/mba_yasabi/n/n7dd778b5daf7",
+    "pass": 3
+   },
+   {
+    "quote": "自分の関心領域（地域・医療・介護それぞれの経営課題）に応じて専門性を伸ばします",
+    "url": "https://note.com/mba_yasabi/n/n7dd778b5daf7",
+    "pass": 3
+   },
+   {
+    "quote": "：自分の関心領域（地域経営／医療経営／介護経営）を深掘りする時期",
+    "url": "https://note.com/mba_yasabi/n/n7dd778b5daf7",
+    "pass": 3
+   },
+   {
+    "quote": "：企業・地方公共団体・経済団体・医療機関などからの推薦を受けて出願する方式",
+    "url": "https://note.com/mba_yasabi/n/n7dd778b5daf7",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば医療・介護マネジメントコースは推薦入試が「募集なし」の回があり、中小企業診断士登録養成課程は一般入試のみの実施で、原則1回限りの履修となります",
+    "url": "https://note.com/mba_yasabi/n/n7dd778b5daf7",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立大学MBAは「地域経済の活性化」「医療・介護経営の高度化」といった、社会的な課題解決を掲げています",
+    "url": "https://note.com/mba_yasabi/n/n7dd778b5daf7",
+    "pass": 3
+   },
+   {
+    "quote": "：地域イノベーション／医療マネジメント／介護マネジメントのどれを選ぶのか、その選択が自分のキャリアと問題意識から自然に導かれることを示します",
+    "url": "https://note.com/mba_yasabi/n/n7dd778b5daf7",
+    "pass": 3
+   },
+   {
+    "quote": "：国公立で学費が抑えられること、土曜中心で働きながら通えること、地域・医療・介護に特化したコース設計、中小企業診断士登録養成課程の存在など、兵庫県立大学固有の魅力と自分の目的を結びつけて言語化しておきます",
+    "url": "https://note.com/mba_yasabi/n/n7dd778b5daf7",
+    "pass": 3
+   },
+   {
+    "quote": "とくに医療マネジメントコース（募集規模が小さい）と地域イノベーションコース（中核で枠が大きい）では、体感的な入りやすさが変わる可能性があります",
+    "url": "https://note.com/mba_yasabi/n/n7dd778b5daf7",
+    "pass": 3
+   },
+   {
+    "quote": "実際の傾向として、MBAサクセスコーチングで兵庫県立大学MBAを目指す方にも、「関西で働きながら、診断士登録とMBAを同時に狙いたい」「医療・介護の現場から経営側に回るために学びたい」というタイプが目立ちます",
+    "url": "https://note.com/mba_yasabi/n/n7dd778b5daf7",
+    "pass": 3
+   },
+   {
+    "quote": "：医療マネジメント・介護マネジメントコースの修了生は、所属する病院・施設の運営管理者・経営幹部として、学んだ経営理論を現場改善に活かすケースが王道です",
+    "url": "https://note.com/mba_yasabi/n/n7dd778b5daf7",
+    "pass": 3
+   }
+  ],
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "公立大学初、兵庫県立大学が公認OB/OG訪問サービスとして「ビズリーチ・キャンパス」を導入～多様なキャリアを歩む卒業生との交流により、将来の可能性を広げる",
+    "url": "https://www.u-hyogo.ac.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "再導入コウノトリの放鳥後の分散を最小限に抑える手法の組み合わせを解明",
+    "url": "https://www.u-hyogo.ac.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "兵庫県立大学内に設立された『金属新素材研究センター』では実際に導入された金属",
+    "url": "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%82%87%E3%81%86%E3%81%94%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%99%E3%83%AB%E3%83%88%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B7%E3%82%A2%E3%83%A0",
+    "pass": 3
+   },
+   {
+    "quote": "を使った試験造形を受け付けるほか、技術習得セミナーや金属3Dプリンターに関する展示会の視察報告会、会員企業間の技術シーズの成果報告などの共有会を行っている",
+    "url": "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%82%87%E3%81%86%E3%81%94%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%99%E3%83%AB%E3%83%88%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B7%E3%82%A2%E3%83%A0",
+    "pass": 3
+   },
+   {
+    "quote": "会員企業/団体には金属3Dプリンター開発企業、サービスビューロ（3Dプリンターによる受託加工業者）、金属材料メーカー、金属加工業者などがある",
+    "url": "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%82%87%E3%81%86%E3%81%94%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%99%E3%83%AB%E3%83%88%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B7%E3%82%A2%E3%83%A0",
+    "pass": 3
+   },
+   {
+    "quote": "電子ビーム型金属用3Dプリンタ＜多田電機株式会社開発の",
+    "url": "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%82%87%E3%81%86%E3%81%94%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%99%E3%83%AB%E3%83%88%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B7%E3%82%A2%E3%83%A0",
+    "pass": 3
+   },
+   {
+    "quote": "製のLUMEX Avance-25",
+    "url": "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%82%87%E3%81%86%E3%81%94%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%99%E3%83%AB%E3%83%88%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B7%E3%82%A2%E3%83%A0",
+    "pass": 3
+   },
+   {
+    "quote": "本研究センターの特徴として、現在、世界中で注目されている金属3D積層造形技術に注目し、 電子ビーム型とレーザービーム型の2種類の「金属用3Dプリンタ」を導入しました",
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "pass": 3
+   },
+   {
+    "quote": "電子ビーム型は、高真空雰囲気が必要であるなど操作に制限がありますが、チタン系合金のように活性で高融点の金属粉末でも3D造形が可能です",
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "pass": 3
+   },
+   {
+    "quote": "電子ビーム型金属用3Dプリンタを用いた先導的研究",
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "pass": 3
+   },
+   {
+    "quote": "1. 電子ビーム型金属用3Dプリンタ＜県内企業と共に世界最先端を目指す＞",
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "pass": 3
+   },
+   {
+    "quote": "電子ビーム出力を6ｋＷまで可変",
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "pass": 3
+   },
+   {
+    "quote": "《株式会社松浦機械製作所製 LUMEX Avance-25》",
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "pass": 3
+   },
+   {
+    "quote": "フィールドエミッション型電子プローブマイクロアナライザ《日本電子株式会社製》FE-EPMA JXA-8530FPlus",
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "』94巻36号（通巻4147号）「出世できる大学」と題された特集の出世力ランキング（日本の全上場企業3,800社余の代表取締役を全調査",
+    "url": "https://ja.wikipedia.org/wiki/%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業もあれば、設立100年を超える老舗企業もあります",
+    "url": "https://note.com/sanyo_industry/n/n03b4316dfac8",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "兵庫県公立大学法人 - Wikipedia — 2021年 からは、兵庫県立大学のほかに同年に開学した芸術文化観光専門職大学の設置者ともなり、名称を 兵庫県公立大学法人 に改めて当該2大学を設置・管理している。",
+    "url": "https://ja.wikipedia.org/wiki/兵庫県公立大学法人",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立大学 - Wikipedia — 兵庫県立大学 （ひょうごけんりつだいがく、 英語: University of Hyogo）は、 兵庫県 神戸市 西区 に本部を置く 日本 の 公立大学 である。 2004年 大学設置。 設置者 は 兵庫県公立大学法人 [注釈 2]。 略称 は 県大。",
+    "url": "https://ja.wikipedia.org/wiki/兵庫県立大学",
+    "pass": 3
+   },
+   {
+    "quote": "沿革｜兵庫県立大学 University of Hyogo — 社会環境の変化や大学改革の必要性、さらに県立大学としての地域社会発展への貢献に対する一層の期待といった状況変化の中で、2004年4月に、それぞれに歴史と伝統を持つ「神戸商科大学」「姫路工業大学」「兵庫県立看護大学」の県立3大学が統合し、兵庫県立大学は開学し（本部：神戸ハーバーランド）、4月7日に第1回入学式が執り行われました。",
+    "url": "https://www.u-hyogo.ac.jp/about/history/",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立大学 University of Hyogo — Aug 7, 2026 · 学生生活支援 教育研究審議会 教学マネジメント 大学院における学位授与の状況（2024年度） 生成AIガイドライン（学生向け） 大学院における学位授与の状況（2025年度）",
+    "url": "https://www.u-hyogo.ac.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県公立大学法人 - 百科事典 - ja.wikid.org — 兵庫県公立大学法人（ひょうごけんこうりつだいがくほうじん、英: Hyogo Public University Corporation）は日本の公立大学法人。 兵庫県立大学および芸術文化観光専門職大学の設置者である。",
+    "url": "https://ja.wikid.org/兵庫県公立大学法人",
+    "pass": 3
+   },
+   {
+    "quote": "ひょうごメタルベルトコンソーシアム - Wikipedia — 兵庫県立大学内に設立された『金属新素材研究センター』では実際に導入された金属 3Dプリンター を使った試験造形を受け付けるほか、技術習得セミナーや金属3Dプリンターに関する展示会の視察報告会、会員企業間の技術シーズの成果報告などの共有会を ...",
+    "url": "https://ja.wikipedia.org/wiki/ひょうごメタルベルトコンソーシアム",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタ - 兵庫県立工業技術センターなぜ県立大がレーザービーム型の国産3Dプリンターを導入したの？｜ニ...金属新素材研究センター | 兵庫県ひょうごメタルベルトコンソーシアム - Wikipedia — 機器利用 HOME > 機器利用 > 金属3Dプリンタ 機器情報 一覧へ戻る 金属3Dプリンタ ... 機器利用に関するお問い合わせ 金属3Dプリンター SLM L-PBF 金属積層造形 PROX200 Sep 30, 2019 · 兵庫県立大学は4月、姫路工学キャンパス（兵庫県姫路市）に「金属新素材研究センター」を開設した。 金属3Dプリンターや合金を作製する高周波溶解炉などの設備を導入し、産学官連携による共同研究を推進する。 Oct 21, 2026 · ひょうごメタルベルトコンソーシアム 先進技術を持つ企業・研究機関と兵庫県立大学の産学連携により、研究・開発、技術支援・普",
+    "url": "https://www.hyogo-kg.jp/kiki/3011906",
+    "pass": 3
+   },
+   {
+    "quote": "金属新素材研究センター - 兵庫県立大学 社会価値創造機構 — 本研究センターの特徴として、現在、世界中で注目されている金属3D積層造形技術に注目し、 電子ビーム型とレーザービーム型の2種類の「金属用3Dプリンタ」を導入しました。",
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "pass": 3
+   },
+   {
+    "quote": "金属新素材研究センター 兵庫県 | 兵庫県立大学 3Dプリンター — Nov 1, 2025 · 本ウェビナーでは、粉末冶金および金属AM（Additive Manufacturing、以下AM）の分野で長年にわたり第一線を走り続けてこられた、兵庫県立大学 金属新素材研究センター 特任教授金属粉末を専門とし、現在は主に金属3D積層造形技術を（Additive Manufacturing：金属AM ...",
+    "url": "https://hecansa.org/金属新素材研究センター-兵庫県-兵庫県立大学-3dフ/",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立大学 金属新素材研究センター見学会 — 本研究センターは、世界中が注目する金属3D積層造形技術に着目して導入した、電子ビーム型・レーザービーム型の2種類の金属用3Dプリンタをはじめ、アーク溶解装置、高周波溶解装置、ガスアトマイズ装置、電子線マイクロアナライザなど、金属新素材 ...",
+    "url": "https://www.ama-in.or.jp/industrial/labhyogoR1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金属新素材研究センター | 兵庫県 — Oct 21, 2026 · ひょうごメタルベルトコンソーシアム 先進技術を持つ企業・研究機関と兵庫県立大学の産学連携により、研究・開発、技術支援・普及活動に取り組む「ひょうごメタルベルトコンソーシアム」を設立しました。",
+    "url": "https://web.pref.hyogo.lg.jp/sr09/metaruberuto.html",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立大学発ベンチャー企業 - 兵庫県立大学 社会価値創造機構 — ベンチャー企業 兵庫県立大学発ベンチャー認定制度 兵庫県立大学における大学発ベンチャーの円滑かつ適正な支援を行うため、認定制度を設けています。 本学における大学発ベンチャーとは次のいずれかに該当する企業（個人事業所を含む）です。",
+    "url": "https://uh-sangaku.jp/venture/",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県公立大学法人 — 兵庫県立大学の教員公募情報を更新しました（看護学部 助教または助手（生涯広域健康看護講座Ⅰ（成人看護学）） 2026.09.28 採用情報 兵庫県立大学の教員公募情報を更新しました（看護学部 教授または准教授（看護基礎講座（基礎看護学）） 2026.09.28 採用 ...",
+    "url": "https://puc-hyogo.ac.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "教職員数｜兵庫県立大学 University of Hyogo — 平成16年に県内3大学が統合し開学した全国屈指の総合大学です。兵庫県立大学における学びや取り組みの情報を紹介してい ...",
+    "url": "https://www.u-hyogo.ac.jp/about/number-of-staff/",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県公立大学法人（兵庫県）の企業情報・売上・従業員数 | Omakase ... — 業界 教育・学習支援業 › 高等教育機関 本社 〒651-2103 兵庫県 神戸市西区学園西町8丁目2番地1 主な製品・サービス 兵庫県立大学の運営（教育・研究） ／ 芸術文化観光専門職大学の運営 ／ 兵庫県立大学附属高等学校・附属中学校の運営",
+    "url": "https://customers.omakasebiz.jp/companies/4140005021197-兵庫県公立大学法人",
+    "pass": 3
+   },
+   {
+    "quote": "データで知る兵庫県立大学 | 兵庫県立大学 — UNIVERSITY OF HYOGO in Numbers データで知る兵庫県立大学 図書 （2025年度卒業者） ※全国平均 98.0% （大学ランキング2027朝日新聞出版） ※医・歯・薬学部を有する大学は除く",
+    "url": "https://www.u-hyogo.ac.jp/about/data/",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "で、硬度・耐熱性・微細加工性に優れた金属粉末や",
+    "url": "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%82%87%E3%81%86%E3%81%94%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%99%E3%83%AB%E3%83%88%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B7%E3%82%A2%E3%83%A0",
+    "pass": 3
+   },
+   {
+    "quote": "電子ビーム型は、高真空雰囲気が必要であるなど操作に制限がありますが、チタン系合金のように活性で高融点の金属粉末でも3D造形が可能です",
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "pass": 3
+   },
+   {
+    "quote": "ニッケル、チタン、銅などの高融点、高熱伝導の金属に対応",
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "pass": 3
+   },
+   {
+    "quote": "チタン製の人工関節など、先端医療デバイスの研究開発",
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "pass": 3
+   },
+   {
+    "quote": "マルエージング鋼、ステンレス鋼の他、コバルトクロム、アルミニウムの造形が可能",
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "pass": 3
+   },
+   {
+    "quote": "3. 合金作製装置／粉末作製装置",
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "pass": 3
+   },
+   {
+    "quote": "ガスアトマイズ装置：高周波溶解した金属溶湯に高圧ガスを吹き付け粉末を作製",
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "pass": 3
+   },
+   {
+    "quote": "特異な性状を有する酸化チタンナノ材料（nanoZX）の開発、製造、および販売製品の製造技術ノウハウの指導と技術ライセンス販売",
+    "url": "https://uh-sangaku.jp/venture/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "兵庫県立大学を推す理由｜国公立大学紹介27 Jul 1, 2025 · 「兵庫県民学費無償化」でかなり話題になり、人気大学と化しています。 しかし、「公立大学」はどうしても全国区で考えると知名度が微妙です。 そこで今回は、関西以外の人にも知ってもらえるように、兵庫県立大学の魅力に迫ります！",
+    "url": "https://note.com/brisk_kalmia5772/n/n18c75d01e9b0",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立大学の授業料等無償化、誰でも無料ではない――令和8年度から全... Aug 10, 2026 · 兵庫県立大学では、要件を満たす県内在住者について、入学料28万2,000円と授業料年53万5,800円が全額免除されます。 令和8年度（2026年度）からは、段階的に広がってきた支援が全学年対象になりました。",
+    "url": "https://note.com/poliplus/n/n850ed2d4f155",
+    "pass": 3
+   },
+   {
+    "quote": "【2027年度（令和9年度）最新】兵庫県立大学MBA（社会科学研究科 経営... Jun 30, 2026 · この記事では、兵庫県立大学MBAを「受験するかどうか」「どう対策するか」を判断するために必要な情報を、兵庫県立大学の公式ページと2027年度募集要項という一次情報をもとに、プログラム内容・学費・試験方式・研究計画書（志望理由）・小論文・面接 ...",
+    "url": "https://note.com/mba_yasabi/n/n7dd778b5daf7",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立大学の小論文対策──学校推薦型選抜入試で問われるテーマと、... May 19, 2026 · その熱い思いと論理的な思考力を、ぜひ兵庫県立大学の小論文で存分に示してください。 スカイ予備校は、あなたのその情熱を合格へと導くために、全力を尽くします。 共に「自分の人生を自分で切り拓く」一歩を踏み出しましょう。",
+    "url": "https://note.com/skyyobiko/n/neb790bbba61b",
+    "pass": 3
+   },
+   {
+    "quote": "【627球目】兵庫県立大学講座｜井上社長｜三陽工業株式会社 Oct 2, 2023 · 2023年11月17日金曜日に兵庫県立大学にてお話をさせていただきます。 今日はそのお話です。 前回は 前回も一度お話をさせて頂いたことがあります。 このnoteの【16球目】【17球目】にもその内容を書いています。",
+    "url": "https://note.com/sanyo_industry/n/n83727650bdda",
+    "pass": 3
+   },
+   {
+    "quote": "【677球目】兵庫県立大学講義レポート｜三陽工業株式会社公式 代表取... Dec 15, 2023 · 正確に言うとさよりんの擬人化バージョンです。 前回は、この大学に落ちた経営者の話というタイトルで三陽工業についてお話をさせて頂きました。 その時点ではまだTikTokはやっていません。",
+    "url": "https://note.com/sanyo_industry/n/n03b4316dfac8",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "兵庫県立大学を推す理由｜国公立大学紹介27｜大学受験コンサルティング｜国公立大学／フォロバ100%",
+    "url": "https://note.com/brisk_kalmia5772/n/n18c75d01e9b0",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立大学を推す理由｜国公立大学紹介27",
+    "url": "https://note.com/brisk_kalmia5772/n/n18c75d01e9b0",
+    "pass": 3
+   },
+   {
+    "quote": "大学受験コンサルティング｜国公立大学／フォロバ100%",
+    "url": "https://note.com/brisk_kalmia5772/n/n18c75d01e9b0",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは。【大学受験コンサルティング｜国公立】の記事をお読みいただき、ありがとうございます。今回は、国公立大学紹介第２６段ということで、",
+    "url": "https://note.com/brisk_kalmia5772/n/n18c75d01e9b0",
+    "pass": 3
+   },
+   {
+    "quote": "を紹介します。関西の方にとってはかなり身近な大学なのではないでしょうか。「",
+    "url": "https://note.com/brisk_kalmia5772/n/n18c75d01e9b0",
+    "pass": 3
+   },
+   {
+    "quote": "」でかなり話題になり、人気大学と化しています。",
+    "url": "https://note.com/brisk_kalmia5772/n/n18c75d01e9b0",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、「公立大学」はどうしても全国区で考えると知名度が微妙です。そこで今回は、関西以外の人にも知ってもらえるように、兵庫県立大学の魅力に迫ります！",
+    "url": "https://note.com/brisk_kalmia5772/n/n18c75d01e9b0",
+    "pass": 3
+   },
+   {
+    "quote": "「学費無償化！」は誰もが望むことでしょう。国公立の１年間の学費は約５０万円。４年間となると約２００万円です。その分が無償化されると考えると、かなりメリットが大きいですよね！",
+    "url": "https://note.com/brisk_kalmia5772/n/n18c75d01e9b0",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立大学の授業料等無償化、誰でも無料ではない――令和8年度から全学年対象になる制度の条件｜カネさん（政経プラスチャンネル）",
+    "url": "https://note.com/poliplus/n/n850ed2d4f155",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立大学の授業料等無償化、誰でも無料ではない――令和8年度から全学年対象になる制度の条件",
+    "url": "https://note.com/poliplus/n/n850ed2d4f155",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立大学では、要件を満たす県内在住者について、入学料28万2,000円と授業料年53万5,800円が全額免除されます。令和8年度（2026年度）からは、段階的に広がってきた支援が全学年対象になりました。",
+    "url": "https://note.com/poliplus/n/n850ed2d4f155",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、「兵庫県に住んでいれば誰でも無料」という制度ではありません。学生本人と生計維持者の住所、入学までの期間、学業成績、申請手続きなど、確認すべき条件があります。",
+    "url": "https://note.com/poliplus/n/n850ed2d4f155",
+    "pass": 3
+   },
+   {
+    "quote": "図1｜対象条件・費用・申請を分けて確認。出典：兵庫県・兵庫県立大学。2026年9月4日確認。",
+    "url": "https://note.com/poliplus/n/n850ed2d4f155",
+    "pass": 3
+   },
+   {
+    "quote": "対象条件を満たすか、何の費用が対象か、どの申請が必要かを分けて確認します。図は確認項目の案内であり、個別の支援認定を保証するものではありません。",
+    "url": "https://note.com/poliplus/n/n850ed2d4f155",
+    "pass": 3
+   },
+   {
+    "quote": "入学料は、申請年度に入学した新入生が対象です。入学後に申請し、対象者として認定されると、入学時に納めた入学料が還付されます。",
+    "url": "https://note.com/poliplus/n/n850ed2d4f155",
+    "pass": 3
+   },
+   {
+    "quote": "一方、入学時の諸費用、教科書代、実習費、住居費、通学費、生活費まで免除されるわけではありません。学費の大きな部分は軽くなっても、大学生活に必要な支出がゼロになる制度ではありません。",
+    "url": "https://note.com/poliplus/n/n850ed2d4f155",
+    "pass": 3
+   },
+   {
+    "quote": "【2027年度（令和9年度）最新】兵庫県立大学MBA（社会科学研究科 経営専門職専攻）を徹底解説｜プログラム・学費・試験方式・研究計画書・面接・難易度・倍率まで完全網羅｜国内MBA受験情報局",
+    "url": "https://note.com/mba_yasabi/n/n7dd778b5daf7",
+    "pass": 3
+   },
+   {
+    "quote": "【2027年度（令和9年度）最新】兵庫県立大学MBA（社会科学研究科 経営専門職専攻）を徹底解説｜プログラム・学費・試験方式・研究計画書・面接・難易度・倍率まで完全網羅",
+    "url": "https://note.com/mba_yasabi/n/n7dd778b5daf7",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立大学大学院 社会科学研究科 経営専門職専攻（＝以下「兵庫県立大学MBA」「経営専門職専攻」）は、神戸市西区の神戸商科キャンパスを拠点に、土曜日を中心に学べる社会人向けのMBA（＝経営の専門知識と実践力を身につける大学院プログラム）です。働きながら最短1年6か月で「経営管理修士（専門職）＝MBA」を取得でき、しかも国公立大学ならではの学費の安さを兼ね備えているのが、私立MBAにはない大きな魅力です。さらに、国公立大学として初めて「中小企業診断士登録養成課程（＝所定の課程を修了すると国家資格・中小企業診断士の登録ができる仕組み）」を併設しているのも、この学校ならではの特色です。",
+    "url": "https://note.com/mba_yasabi/n/n7dd778b5daf7",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、兵庫県立大学MBAを「受験するかどうか」「どう対策するか」を判断するために必要な情報を、兵庫県立大学の公式ページと2027年度募集要項という一次情報をもとに、プログラム内容・学費・試験方式・研究計画書（志望理由）・小論文・面接・難易度・倍率・再受験戦略まで、ほかの解説記事より一段深く・正確にまとめます。社会人がMBAを検討するとき、ネット上には古い情報や断片的な情報が散らばっていて「結局どこが本当の一次情報なのか」が分かりにくいものです。本記事は兵庫県立大学の公式情報を出典として明示し、推計が混じる部分は「推計」とはっきり区別しています。読み終えるころには、兵庫県立大学MBAの実像と、合格に向けて今日から何をすべきかが具体的に見えているはずです。",
+    "url": "https://note.com/mba_yasabi/n/n7dd778b5daf7",
+    "pass": 3
+   },
+   {
+    "quote": "：社会科学研究科 経営専門職専攻（専門職学位課程／通称・兵庫県立大学MBA）。取得学位は「経営管理修士（専門職）」または「ヘルスケア・マネジメント修士（専門職）」、標準修業年限は1年6か月〜2年。",
+    "url": "https://note.com/mba_yasabi/n/n7dd778b5daf7",
+    "pass": 3
+   },
+   {
+    "quote": "：2年以上の実務経験を持つ社会人。授業は神戸商科キャンパスで土曜日を中心に開講され、働きながら通える設計。",
+    "url": "https://note.com/mba_yasabi/n/n7dd778b5daf7",
+    "pass": 3
+   },
+   {
+    "quote": "：入学料282,000円＋授業料535,800円／年（国公立水準で私立MBAの半額以下）。1年6か月の標準コースで総額おおむね100万円台前半。",
+    "url": "https://note.com/mba_yasabi/n/n7dd778b5daf7",
+    "pass": 3
+   },
+   {
+    "quote": "：筆記の専門科目はなく、「推薦入試＝口述試験」または「一般入試＝小論文＋面接」＋出願書類を総合して判定。年3回（11月・1月・2月）の選考あり。",
+    "url": "https://note.com/mba_yasabi/n/n7dd778b5daf7",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立大学の小論文対策──学校推薦型選抜入試で問われるテーマと、私が27年で培った解法｜スカイ予備校 五十嵐",
+    "url": "https://note.com/skyyobiko/n/neb790bbba61b",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立大学の小論文対策──学校推薦型選抜入試で問われるテーマと、私が27年で培った解法",
+    "url": "https://note.com/skyyobiko/n/neb790bbba61b",
+    "pass": 3
+   },
+   {
+    "quote": "スカイ予備校では、大学受験で最短合格するための裏技などを無料で公開しています。多くの受験生が知らない情報等を動画20本以上で公開している「最短合格戦略室」にご興味がある方は、↓ 以下をクリックしてLINE登録してください（無料）。",
+    "url": "https://note.com/skyyobiko/n/neb790bbba61b",
+    "pass": 3
+   },
+   {
+    "quote": "https://sky-yobiko.net/",
+    "url": "https://note.com/skyyobiko/n/neb790bbba61b",
+    "pass": 3
+   },
+   {
+    "quote": "）のオリジナル記事をnote向けに再構成したものです。",
+    "url": "https://note.com/skyyobiko/n/neb790bbba61b",
+    "pass": 3
+   },
+   {
+    "quote": "皆さん、こんにちは。スカイ予備校校長の五十嵐弓益です。27年間、小論文指導の最前線に立ち、4000名以上の生徒を指導してきました。今日は、兵庫県立大学の学校推薦型選抜入試に焦点を当て、「なぜあのテーマが出題されるのか」という大学の深層にある意図と、それにどう応えるべきかについて、私の経験とSKYメソッドを交えてお話しします。",
+    "url": "https://note.com/skyyobiko/n/neb790bbba61b",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立大学が求める人物像を一言で言うならば",
+    "url": "https://note.com/skyyobiko/n/neb790bbba61b",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立大学が学校推薦型選抜で求める人物像は、一言で「地域と国際社会の課題に対し、多角的な視点から深く考察し、自らの言葉で解決策を提言できる、行動力と知性を兼ね備えたリーダーの卵」です。",
+    "url": "https://note.com/skyyobiko/n/neb790bbba61b",
+    "pass": 3
+   },
+   {
+    "quote": "【627球目】兵庫県立大学講座｜井上社長｜三陽工業株式会社",
+    "url": "https://note.com/sanyo_industry/n/n83727650bdda",
+    "pass": 3
+   },
+   {
+    "quote": "前回も一度お話をさせて頂いたことがあります。",
+    "url": "https://note.com/sanyo_industry/n/n83727650bdda",
+    "pass": 3
+   },
+   {
+    "quote": "2021年のお話ですので、2年前、コロナ禍真っただ中でのお話になります。",
+    "url": "https://note.com/sanyo_industry/n/n83727650bdda",
+    "pass": 3
+   },
+   {
+    "quote": "16球目を見返すと、緊張したと書いていましたね。あまり緊張したイメージを持っていませんでしたが、少し緊張感が出てきました（笑）",
+    "url": "https://note.com/sanyo_industry/n/n83727650bdda",
+    "pass": 3
+   },
+   {
+    "quote": "を聞きたいのかという疑問はありましたが、それを許して頂いた関係者の皆様には感謝申し上げます。",
+    "url": "https://note.com/sanyo_industry/n/n83727650bdda",
+    "pass": 3
+   },
+   {
+    "quote": "まだ表題は発表になっていないのかもしれませんが、兵庫県内の経営者による真面目な話です。ですので私も真面目に話をします。真面目に話をしようと考えて出てきたタイトルが",
+    "url": "https://note.com/sanyo_industry/n/n83727650bdda",
+    "pass": 3
+   },
+   {
+    "quote": "大学生対象ですからね。もちろん、先日のこのnoteでも紹介させて頂いた",
+    "url": "https://note.com/sanyo_industry/n/n83727650bdda",
+    "pass": 3
+   },
+   {
+    "quote": "ではこんなタイトルは付けません。どんな人に対して話をするのかを真面目に考えた結果、こういうタイトルになっただけです。ちなみに前回の",
+    "url": "https://note.com/sanyo_industry/n/n83727650bdda",
+    "pass": 3
+   },
+   {
+    "quote": "【677球目】兵庫県立大学講義レポート｜井上社長｜三陽工業株式会社",
+    "url": "https://note.com/sanyo_industry/n/n03b4316dfac8",
+    "pass": 3
+   },
+   {
+    "quote": "総勢123枚ありました。大学2年生、3年生からの生の声です。",
+    "url": "https://note.com/sanyo_industry/n/n03b4316dfac8",
+    "pass": 3
+   },
+   {
+    "quote": "講義の表紙はTikTokの画面とさよりんです。正確に言うと",
+    "url": "https://note.com/sanyo_industry/n/n03b4316dfac8",
+    "pass": 3
+   },
+   {
+    "quote": "というタイトルで三陽工業についてお話をさせて頂きました。その時点ではまだTikTokはやっていません。SNSの話を一部させて頂きましたが、その大半は三陽工業は日本の製造現場を元気にする会社であり、その為にやっていることについての内容でした。",
+    "url": "https://note.com/sanyo_industry/n/n03b4316dfac8",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造現場を元気にするという言葉は今回の講義でも連発しています。",
+    "url": "https://note.com/sanyo_industry/n/n03b4316dfac8",
+    "pass": 3
+   },
+   {
+    "quote": "それだけ覚えて帰ってください、そんなテンションで連発しました。前回の反省は、こちらが考えていることを一方的に話したこと。前回は3年前です。まだ新卒採用も始まっていません。新卒採用を通じて、大学生に対して伝えたい事、その伝え方を試行錯誤していましたので、今回の様な話の内容になっています。",
+    "url": "https://note.com/sanyo_industry/n/n03b4316dfac8",
+    "pass": 3
+   },
+   {
+    "quote": "レポートを確認させて頂いての気付き、学びがありました。",
+    "url": "https://note.com/sanyo_industry/n/n03b4316dfac8",
+    "pass": 3
+   },
+   {
+    "quote": "まずは、大学生がどこに関心を寄せてくれたのか。もちろん、TikTokやボカロ社歌については表題にもなっていますので、関心を持ってくれた人は多かったです。",
+    "url": "https://note.com/sanyo_industry/n/n03b4316dfac8",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "兵庫県立大学 広報チーム (@UOH_kohou) / X 兵庫県立大学公式X（旧Twitter）アカウントです。 大学イベントやNEWSなど様々な情報を発信していきます。 個別のご質問等にはお答えできませんのでご了承ください。 本部経営戦略課が管理運営しています。 instagram:https://t.co/TiRMTYJoCt",
+    "url": "https://x.com/UOH_kohou",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立大学 広報チーム on X: \"令和8年度兵庫県立大学入学宣誓式を... 兵庫県立大学公式X（旧Twitter）アカウントです。大学イベントやNEWSなど様々な情報を発信していきます。 個別のご質問等にはお答えできませんのでご了承ください。本部経営戦略課が管理運営しています。 instagram:instagram ...",
+    "url": "https://x.com/UOH_kohou/status/2033815982301712483",
+    "pass": 3
+   },
+   {
+    "quote": "環境人間学部広報P／兵庫県立大学 (@UOH_kankyou) / X shse-maga.com 環境人間学研究科の大学院生が兵庫県立大学「価値共創シンポジウム2026」でポスター発表| かんなび【兵庫県立大学 環境人間学部】 1 1 510",
+    "url": "https://x.com/UOH_kankyou",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立大学 広報チーム on X: \"兵庫県立大学大学院 情報科学研究科 ... 兵庫県立大学大学院 情報科学研究科 入試説明会開📢 🗓 2026年6月6日 (土) 13:30〜16:00（受付13:00） 研究科・各コースの紹介や入試説明に加え、個別面談では教員に直接相談できます！",
+    "url": "https://x.com/UOH_kohou/status/2055089485814308866",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "兵庫県立大学の社員、場所、同窓生 | LinkedIn ウェブサイト http://www.u-hyogo.ac.jp/ 兵庫県立大学の外部リンク 業種 高等教育 会社規模 社員 501 - 1,000名 本社 神戸市、兵庫県 種類 教育機関 創立 2004",
+    "url": "https://jp.linkedin.com/school/兵庫県立大学/",
+    "pass": 3
+   },
+   {
+    "quote": "濱田 洋 - 兵庫県立大学 - 准教授 | LinkedInNatthanicha Kamdee (Aom) - カムディ- | 兵庫県立大学| Tax speciali...Minato Inoue - コムネット株式会社 - プロジェクトマネージャー | Li...頼文祥 - 株式会社ファインテック - 役員 | LinkedIn100+ \"Kimitaka\" profiles | LinkedIn永松 信二 - 兵庫県立大学 - 特任教授 | LinkedIn 兵庫県立大学 - 准教授 · 職歴: 兵庫県立大学 · 場所: 日本 · LinkedInのつながり27人。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで濱田 洋さんのプロフィールを閲覧しましょう。 カムディ- | 兵庫県立大学| Tax specialist | assistant acc",
+    "url": "https://jp.linkedin.com/in/洋-濱田-12278094",
+    "pass": 3
+   },
+   {
+    "quote": "Natthanicha Kamdee (Aom) - カムディ- | 兵庫県立大学| Tax speciali... カムディ- | 兵庫県立大学| Tax specialist | assistant accountant · Detail-oriented and bilingual accounting professional with hands-on experience in tax advisory, corporate and personal tax compliance, and...",
+    "url": "https://th.linkedin.com/in/natthanicha-kamdee-aom-3bbb83253",
+    "pass": 3
+   },
+   {
+    "quote": "頼文祥 - 株式会社ファインテック - 役員 | LinkedIn100+ \"Kimitaka\" profiles | LinkedIn永松 信二 - 兵庫県立大学 - 特任教授 | LinkedIn 株式会社ファインテック - 役員 · 工作經歷：株式会社ファインテック · 教育背景：兵庫県立大学 · 地點：臺北市。 上 LinkedIn 查看頼文祥的個人檔案，LinkedIn 是擁有 10 億會員的專業社群。 View the profiles of professionals named \"Kimitaka\" on LinkedIn. There are 100+ professionals named \"Kimitaka\", who use LinkedIn to exchange information, ideas, and opportunities. 兵庫県立大学 - 特任",
+    "url": "https://tw.linkedin.com/in/文祥-頼-64346497",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "兵庫県立大学 - Facebook兵庫県立大学 - Facebook兵庫県立大学 - . 第11回防災推進 ... - Facebook兵庫県立大学 - . 地域資源マネジメント研究科｜キャンパス風景... | ...淡路景観園芸学校／兵庫県立大学大学院 緑環境景観マネジメント研究科...兵庫県立大学 - . 2024年3月22日 令和5年度兵庫県立大学学位記授与式 .... 令和5年度兵庫県立大学学位記授与式 (2024年3月22日挙行) 令和5年度... 兵庫県立大学. 159 followers · 4 talking about this · 125 were here. 兵庫県立大学公式facebookページです。 大学イベントやNEWSなど様々な情報を発信していきます。 個別のご質問等にはお答えできませんのでご了承ください。 本部経営戦略課が管理運営します。 概要兵庫県立大学は",
+    "url": "https://www.facebook.com/universityofhyogo2004/",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立大学 - Facebook 概要兵庫県立大学は2004年に誕生した大学である。かつて兵庫県に存在した、旧神戸商科大学・旧姫路工業大学・旧兵庫県立看護大学の3大学が統合された。前身校はそれぞれ関西ではよく知られた大学であったが、戦後は伝統を異にして発展した経緯から、大学としての一体感は醸成途上にある ...",
+    "url": "https://www.facebook.com/pages/兵庫県立大学/113869032027194/",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立大学 - . 第11回防災推進 ... - Facebook Oct 28, 2026 · 兵庫県立大学大学院地域資源マネジメント研究科は、 2026年10月17日・18日に鳥取県倉吉市で開催された 「第11回防災推進国民大会（ぼうさいこくたい2026 in 倉吉）」に、「北近畿地方における防災教育研究の普 及と実践」をテーマとして出展しました。",
+    "url": "https://www.facebook.com/universityofhyogo2004/posts/第11回防災推進国民大会ぼうさいこくたい2026-in-倉吉に出展しました兵庫県立大学大学院地域資源マネジメント研究科は2026年10月17日18日に鳥取県倉吉/1137472172546735/",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立大学 - . 地域資源マネジメント研究科｜キャンパス風景... | ... Oct 28, 2026 · 兵庫県立大学大学院地域資源マネジメント研究科は、2 026年10月17日・18日に鳥取県倉吉市で開催された「 第11回防災推進国民大会（ぼうさいこくたい2026 in 倉吉）」に、「北近畿地方における防災教育研究の普 及と実践」をテーマとして出展しました。",
+    "url": "https://www.facebook.com/universityofhyogo2004/posts/-地域資源マネジメント研究科キャンパス風景秋の恒例行事として地域のお祭りに学生や教職員が参加しました当日はだんじり一行の皆さまがキャンパス前までお越しくださりわ/1137470655880220/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.u-hyogo.ac.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.u-hyogo.ac.jp/news/news/oshirase20260722.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.u-hyogo.ac.jp/news/news/20261109oshirase.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.u-hyogo.ac.jp/news/news/20261104gakutyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.u-hyogo.ac.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.u-hyogo.ac.jp/about/access/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.u-hyogo.ac.jp/news/social/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.u-hyogo.ac.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.u-hyogo.ac.jp/hyogoon/news/info/20261020oshirase.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.u-hyogo.ac.jp/news/socialcontributions/openlecture2026.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.u-hyogo.ac.jp/news/socialcontributions/openlecture2025.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.u-hyogo.ac.jp/news/socialcontributions/20260330oshirase.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.u-hyogo.ac.jp/news/pressrelease/20261102press.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.u-hyogo.ac.jp/about/president-selection/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%85%B5%E5%BA%AB%E7%9C%8C%E5%85%AC%E7%AB%8B%E5%A4%A7%E5%AD%A6%E6%B3%95%E4%BA%BA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E5%A4%A7%E5%AD%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%82%87%E3%81%86%E3%81%94%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%99%E3%83%AB%E3%83%88%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B7%E3%82%A2%E3%83%A0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyogo-kg.jp/kiki/3011906",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hecansa.org/%E9%87%91%E5%B1%9E%E6%96%B0%E7%B4%A0%E6%9D%90%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E5%85%B5%E5%BA%AB%E7%9C%8C-%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E5%A4%A7%E5%AD%A6-3d%E3%83%95/",
+    "status": "http_520",
+    "method": "http"
+   },
+   {
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ama-in.or.jp/industrial/labhyogoR1.pdf",
+    "status": "network_error:ConnectTimeout",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E5%A4%A7%E5%AD%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%85%B5%E5%BA%AB%E7%9C%8C%E5%85%AC%E7%AB%8B%E5%A4%A7%E5%AD%A6%E6%B3%95%E4%BA%BA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uh-sangaku.jp/venture/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E5%A4%A7%E5%AD%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%85%B5%E5%BA%AB%E7%9C%8C%E5%85%AC%E7%AB%8B%E5%A4%A7%E5%AD%A6%E6%B3%95%E4%BA%BA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/brisk_kalmia5772/n/n18c75d01e9b0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/poliplus/n/n850ed2d4f155",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mba_yasabi/n/n7dd778b5daf7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/skyyobiko/n/neb790bbba61b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/UOH_kohou",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/UOH_kohou/status/2033815982301712483",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/UOH_kankyou",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/UOH_kohou/status/2055089485814308866",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/school/兵庫県立大学/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/洋-濱田-12278094",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://th.linkedin.com/in/natthanicha-kamdee-aom-3bbb83253",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tw.linkedin.com/in/文祥-頼-64346497",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/universityofhyogo2004/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/兵庫県立大学/113869032027194/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/universityofhyogo2004/posts/第11回防災推進国民大会ぼうさいこくたい2026-in-倉吉に出展しました兵庫県立大学大学院地域資源マネジメント研究科は2026年10月17日18日に鳥取県倉吉/1137472172546735/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/universityofhyogo2004/posts/-地域資源マネジメント研究科キャンパス風景秋の恒例行事として地域のお祭りに学生や教職員が参加しました当日はだんじり一行の皆さまがキャンパス前までお越しくださりわ/1137470655880220/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/sanyo_industry/n/n83727650bdda",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sanyo_industry/n/n03b4316dfac8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/UOH_kohou",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "兵庫県立大学",
+   "results": [
+    "https://ja.wikipedia.org/wiki/兵庫県立大学",
+    "https://www.u-hyogo.ac.jp/",
+    "https://www.u-hyogo.ac.jp/academics/",
+    "https://www.eng.u-hyogo.ac.jp/",
+    "https://www.minkou.jp/university/school/20575/",
+    "https://passnavi.obunsha.co.jp/univ/1235/top/",
+    "https://grokipedia.com/page/university_of_hyogo",
+    "http://puc-hyogo.ac.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "兵庫県立大学 会社概要 資本金 設立",
+   "results": [
+    "https://ja.wikipedia.org/wiki/兵庫県公立大学法人",
+    "https://ja.wikipedia.org/wiki/兵庫県立大学",
+    "https://www.u-hyogo.ac.jp/about/history/",
+    "https://www.u-hyogo.ac.jp/about/",
+    "https://ja.wikid.org/兵庫県公立大学法人",
+    "https://puc-hyogo.ac.jp/about/",
+    "https://web.pref.hyogo.lg.jp/gikai/iinkai/index/joniniinkai/bunkyo/documents/06-1bunshiryo060917.pdf"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "兵庫県立大学 金属3Dプリンタ 導入",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ひょうごメタルベルトコンソーシアム",
+    "https://www.hyogo-kg.jp/kiki/3011906",
+    "https://uh-sangaku.jp/new-metal-material/",
+    "https://www.jstage.jst.go.jp/article/jfeskouen/180/0/180_119/_pdf/-char/ja",
+    "https://uh-sangaku.jp/2026/11/10/【開催予告】〔会員無料、非会員有料〕技術セミ/",
+    "https://newswitch.jp/p/19436",
+    "https://web.pref.hyogo.lg.jp/sr09/metaruberuto.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "兵庫県立大学 金属積層造形 設備",
+   "results": [
+    "https://hecansa.org/金属新素材研究センター-兵庫県-兵庫県立大学-3dフ/",
+    "https://uh-sangaku.jp/new-metal-material/",
+    "https://www.ama-in.or.jp/industrial/labhyogoR1.pdf",
+    "https://web.pref.hyogo.lg.jp/sr09/metaruberuto.html",
+    "https://www.hyogo-kg.jp/about/kinzoku",
+    "https://uh-sangaku.jp/wp-content/uploads/2023/09/009-11-22-takeuchi_akira.pdf",
+    "http://www.rc-epack.org/information/main2/main2-2.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "兵庫県立大学 株主 出資 親会社",
+   "results": [
+    "https://ja.wikipedia.org/wiki/兵庫県立大学",
+    "https://ja.wikipedia.org/wiki/兵庫県公立大学法人",
+    "https://uh-sangaku.jp/venture/",
+    "https://www.u-hyogo.ac.jp/about/",
+    "https://puc-hyogo.ac.jp/",
+    "https://web.pref.hyogo.lg.jp/gikai/iinkai/index/joniniinkai/bunkyo/documents/06-1bunshiryo060917.pdf",
+    "https://puc-hyogo.ac.jp/public/zaimu/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "兵庫県立大学 売上高 従業員数",
+   "results": [
+    "https://ja.wikipedia.org/wiki/兵庫県立大学",
+    "https://ja.wikipedia.org/wiki/兵庫県公立大学法人",
+    "https://www.u-hyogo.ac.jp/about/number-of-staff/",
+    "https://customers.omakasebiz.jp/companies/4140005021197-兵庫県公立大学法人",
+    "https://www.u-hyogo.ac.jp/about/data/",
+    "https://puc-hyogo.ac.jp/public/zaimu/",
+    "https://puc-hyogo.ac.jp/cms/wp-content/uploads/2025/02/R5_3_jigyou.pdf"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 兵庫県立大学",
+   "results": [
+    "https://note.com/brisk_kalmia5772/n/n18c75d01e9b0",
+    "https://note.com/poliplus/n/n850ed2d4f155",
+    "https://note.com/mba_yasabi/n/n7dd778b5daf7",
+    "https://note.com/skyyobiko/n/neb790bbba61b",
+    "https://note.com/iseki_lab/n/n7130bd33792a",
+    "https://note.com/rtutptmt/n/n7206165b9565",
+    "https://note.com/online_hennyu/n/n893595a1ff5b"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 兵庫県立大学",
+   "results": [
+    "https://x.com/UOH_kohou",
+    "https://x.com/UOH_kohou/status/2033815982301712483",
+    "https://x.com/UOH_kankyou",
+    "https://x.com/UOH_kohou/status/2055089485814308866",
+    "https://x.com/UOH_kohou/status/2036724947079549279",
+    "https://x.com/univhyogointl",
+    "https://x.com/harimarigaku"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 兵庫県立大学",
+   "results": [
+    "https://jp.linkedin.com/school/兵庫県立大学/",
+    "https://jp.linkedin.com/in/洋-濱田-12278094",
+    "https://th.linkedin.com/in/natthanicha-kamdee-aom-3bbb83253",
+    "https://tw.linkedin.com/in/文祥-頼-64346497",
+    "https://www.linkedin.com/pub/dir/Kimitaka/+/",
+    "https://jp.linkedin.com/in/信二-永松-58a565381",
+    "https://www.linkedin.com/pub/dir/Minato/Inoue"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 兵庫県立大学",
+   "results": [
+    "https://www.facebook.com/universityofhyogo2004/",
+    "https://www.facebook.com/pages/兵庫県立大学/113869032027194/",
+    "https://www.facebook.com/universityofhyogo2004/posts/第11回防災推進国民大会ぼうさいこくたい2026-in-倉吉に出展しました兵庫県立大学大学院地域資源マネジメント研究科は2026年10月17日18日に鳥取県倉吉/1137472172546735/",
+    "https://www.facebook.com/universityofhyogo2004/posts/-地域資源マネジメント研究科キャンパス風景秋の恒例行事として地域のお祭りに学生や教職員が参加しました当日はだんじり一行の皆さまがキャンパス前までお越しくださりわ/1137470655880220/",
+    "https://www.facebook.com/p/淡路景観園芸学校兵庫県立大学大学院-緑環境景観マネジメント研究科-100034332192983/",
+    "https://www.facebook.com/universityofhyogo2004/posts/2024年3月22日令和5年度兵庫県立大学学位記授与式終了いたしました卒業生の皆さまおめでとうございます一人一人新しい道に進まれるかとおもいますが兵庫県立大学-/382481681379125/",
+    "https://www.facebook.com/兵庫県立大学/videos/956218555527133/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "兵庫県立大学 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/兵庫県立大学の人物一覧",
+    "https://note.com/sanyo_industry/n/n83727650bdda",
+    "https://www.minkou.jp/university/school/senior/20575/se=5/",
+    "https://note.com/sanyo_industry/n/n03b4316dfac8",
+    "https://www.u-hyogo.ac.jp/about/president/",
+    "https://www.u-hyogo.ac.jp/about/chancellor/",
+    "https://puc-hyogo.ac.jp/press/22/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "兵庫県立大学 X 投稿",
+   "results": [
+    "https://x.com/UOH_kohou",
+    "https://search.yahoo.co.jp/realtime/search/兵庫県立大学/",
+    "https://www.u-hyogo.ac.jp/news/",
+    "https://www.u-hyogo.ac.jp/",
+    "https://x.com/UOH_kohou/status/2037387817886908424",
+    "https://u-hyogo.repo.nii.ac.jp/",
+    "https://news.livedoor.com/topics/detail/32517378/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部32頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部32頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部32頁・検索12回）"
+ }
+}

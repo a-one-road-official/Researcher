@@ -1,0 +1,1400 @@
+{
+ "name": "出光興産株式会社",
+ "aliases": [],
+ "context": "PBF=yes 装置=Sapphire 出典=https://prtimes.jp/main/html/rd/p/000000058.000028822.html",
+ "researched_at": "2026-11-10T19:12:06.655749+00:00",
+ "official_url": "https://www.idemitsu.com/",
+ "identified_by": "search:yahoo_jp:出光興産",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "〒100-8321 東京都千代田区大手町一丁目2番1号 アクセスマップはこちら",
+    "url": "https://www.idemitsu.com/jp/company/profile/index.html",
+    "pass": 1
+   },
+   {
+    "label": "本社 所在地",
+    "value": "日本 〒 100-8321 東京都 千代田区 大手町 一丁目2番1号 Otemachi One タワー 北緯35度41分16.0秒 東経139度45分44.0秒 ﻿ / ﻿ 北緯35.687778度 東経139.762222度 ﻿ / 35.687778; 139.762222 座標 : 北緯35度41分16.0秒 東経139度45分44.0秒 ﻿ / ﻿ 北緯35.687778度 東経139.762222度 ﻿ / 35.687778; 139.762222",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立年月日",
+    "value": "設立年月日：1940年3月30日（創業1911年6月20日）",
+    "url": "https://www.idemitsu.com/jp/company/profile/index.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1940年 （ 昭和 15年） 3月30日",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1,683億円",
+    "url": "https://www.idemitsu.com/jp/company/profile/index.html",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "1,683億円",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "8.1兆円",
+    "url": "https://www.idemitsu.com/jp/company/profile/index.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "連結：6兆6,867億61百万円 単体：5兆640億29百万円 （2022年3月期） [ 3 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "石油製品 ・ 石油化学 製品・ 電子材料 の製造・販売",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結：13,814名 単体：5,060名 （2025年3月31日現在）",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "主要 株主",
+    "value": "日本マスタートラスト信託銀行 （信託口）10.77% 日章興産 10.39% アラムコ・オーバーシーズ・カンパニー・ビー・ヴィ 9.41% 公益財団法人出光美術館 8.30% 日本カストディ銀行 （信託口）3.24% 正和興産 2.03% （2025年3月31日現在）",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "label": "政府出資企業 国有企業",
+    "value": "Eni エクイノール ネステ OMV オルレン ガスプロム ロスネフチ サウジアラムコ カタール・ペトロリアム ウズベクネフテガス CNOOC CNPC シノペック 台湾中油 韓国石油公社 ペトロナス BSP プルタミナ ペメックス PDVSA ペトロブラス INPEX",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "用途・客の産業": [
+   {
+    "quote": "バイオマス・風力・太陽光などの再生可能エネルギーや高効率で環境負荷の低い天然ガス火力発電所など、多様な発電所を所有しています",
+    "url": "https://www.idemitsu.com/jp/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "燃料油、基礎化学品、高機能材、電力・再生可能エネルギー、資源の各分野において、様々な分野のパートナー・顧客との信頼関係をベースに、多様なエネルギーと素材の開発・製造・販売を手掛けています",
+    "url": "https://www.idemitsu.com/jp/company/profile/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "アポロは尽きることのないエネルギーに満ちあふれ、高い志と未来を見通すまなざしを持つ者と言われています",
+    "url": "https://www.idemitsu.com/jp/company/profile/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "あるべき未来の実現のために、エネルギーを注ぎ込むアポロのような存在でありたい",
+    "url": "https://www.idemitsu.com/jp/company/profile/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2050年CN実現とともに、中長期的なエネルギー安全保障への貢献を見据え、時間軸を見極めながら、低/脱炭素事業へ挑戦していきます",
+    "url": "https://www.idemitsu.com/jp/company/managementplan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "エネルギーをつくり、素材をつくり、未来を興す",
+    "url": "https://www.idemitsu.com/jp/company/brandstory/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "エネルギーと素材の分野で独自の強みを築いてきた",
+    "url": "https://www.idemitsu.com/jp/company/brandstory/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "エネルギーと素材の安定供給を粘り強くやり抜くとともに、将来のカーボンニュートラル・循環型社会を",
+    "url": "https://www.idemitsu.com/jp/company/brandstory/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "コア技術をベースに活躍の場をAI、データセンター、xEV、宇宙空間と拡大させ、多様化するお客様のニーズに常に耳を傾け、製品を開発し新しいソリューションを提案し続ける",
+    "url": "https://www.idemitsu.com/jp/company/brandstory/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "安定供給をベースとしながら、お客様の低炭素ニーズに確実に応えるエネルギーソリューションを提供し続ける",
+    "url": "https://www.idemitsu.com/jp/company/brandstory/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「出光興産がなぜ？」と驚かれるかもしれませんが、エネルギーと同じく生活に欠かせない「食」にも関係する化学農薬・生物農薬・機能性飼料などの研究開発・製造・販売も行っています",
+    "url": "https://www.idemitsu.com/jp/company/introduction/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "持続可能な航空燃料であるSAFの供給に向けた取り組みも、着実に進めています",
+    "url": "https://www.idemitsu.com/jp/company/introduction/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "太陽光、バイオマス、風力、地熱といった再生可能エネルギーの開発、国内外での普及・拡大にも取り組んでいます",
+    "url": "https://www.idemitsu.com/jp/company/introduction/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "米国に宇宙用CIGS太陽電池の開発ラボを開設 米国市場との連携を強化し、事業化を加速",
+    "url": "https://www.idemitsu.com/jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "JAXA「宇宙戦略基金」の補助金交付が決定 宇宙用CIGS太陽電池の量産技術開発を加速",
+    "url": "https://www.idemitsu.com/jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "出光興産は約20の国と地域にて強固なネットワークを活用し、多様なエネルギーと素材の開発・製造・販売を手掛けています",
+    "url": "https://www.idemitsu.com/jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "各事業所・製油所における安全・安定操業を通じて、足元で必要とされるエネルギーと素材の安定供給に努めると同時に、当社の技術力、国内外ネットワークを活かした成長事業を創出してまいります",
+    "url": "https://www.idemitsu.com/jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "エネルギーをつくり、",
+    "url": "https://www.idemitsu.com/jp/company/message/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "出光グループはエネルギーと素材の安定供給という責任を果たすと同時に、カーボンニュートラル・循環型社会の実現に貢献すべくエネルギートランジションに取り組んでいます",
+    "url": "https://www.idemitsu.com/jp/company/message/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "現在、エネルギー業界を取り巻く環境は大きく変化しています",
+    "url": "https://www.idemitsu.com/jp/company/message/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "世界では地政学リスクの高まりによるエネルギー安全保障の重要性が再認識されるとともに、国や地域ごとの特性に応じた多様なアプローチによる現実的なエネルギートランジションが求められています",
+    "url": "https://www.idemitsu.com/jp/company/message/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "日々の生活を支える既存のエネルギー拠点とネットワークを維持しながら、時代や地域の変化に合わせた改革を力強く推進する、それが当社グループの使命です",
+    "url": "https://www.idemitsu.com/jp/company/message/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "各事業所・製油所における安全・安定操業を通じて、足元で必要とされるエネルギーと素材の安定供給に努めると同時に、当社の技術力、国内外ネットワークを活かした成長事業を創出してまいります",
+    "url": "https://www.idemitsu.com/jp/company/message/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、エネルギートランジションに向けては、中長期的な脱炭素の潮流を見据え、経済的・技術的な課題に向き合いながら、社会ニーズに即した低/脱炭素事業へ挑戦いたします",
+    "url": "https://www.idemitsu.com/jp/company/message/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "国内外のお取引先や特約販売店の皆様、物流や保全を担う協力会社、資源国や海外サプライヤーといったビジネスパートナー、そして多様なバックグラウンドを持つ社員一人ひとりとともに、人が持つ無限の可能性を信じ、エネルギーと素材の安定供給を粘り強くやり抜くとともに、新たな事業を切り拓きます",
+    "url": "https://www.idemitsu.com/jp/company/message/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "出光興産はこれからも、「エネルギーをつくり、素材をつくり、未来を興す」挑戦を続けてまいります",
+    "url": "https://www.idemitsu.com/jp/company/message/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "は2種類存在し、燃油および自動車高級潤滑剤には",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "「ダフニーマーク」は1953年から1964年まで自動車用高級潤滑剤のマークで使用していたため、誕生から70年で姿を消すこととなった",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "は「人は、無限のエネルギー」で、現在は「つくり出せ光を、興せ産業を」を用いられている",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "・「ニッポンに、エネルギーを」・「NEXT IDEMITSU!」・「人と人がつながるエネルギー」を使用していた",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "- 自動車用潤滑油「アポロイル」シリーズ販売開始",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "10月 - 自動車用新潤滑油「出光ゼプロ」シリーズ発売",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "10月1日 - 自動車関連商品や店舗備品を取り扱う子会社を統合",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "- 住友商事・コスモエネルギーホールディングスとのLPG合弁事業（元売）",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "」を省略し「ニッポンに、エネルギーを",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "からは、「人と人がつながるエネルギー」のキャッチコピーを使用したCMシリーズを放映していた",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "“千葉事業所に次世代電池向け固体電解質の小型量産設備を新設 全固体リチウムイオン電池の実用化を加速”",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "当社の責務は、エネルギーの安定供給とともに社会課題の解決に貢献していくこと",
+    "url": "https://job.mynavi.jp/27/pc/search/corp222/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "■電力・再生可能エネルギー：風力、太陽光、バイオマス、地熱、LNG火力など",
+    "url": "https://job.mynavi.jp/27/pc/search/corp222/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "環境調和型社会・低炭素社会の実現に向け、風力、太陽光、バイオマス、地熱発電といった再生可能エネルギーや、二酸化炭素の排出が少ないLNG火力を自社電源の基盤として電力事業を展開",
+    "url": "https://job.mynavi.jp/27/pc/search/corp222/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、海外におけるガス火力発電事業への参画に加えて、マイクログリッドといった次世代のエネルギーマネジメント事業の開発に着手",
+    "url": "https://job.mynavi.jp/27/pc/search/corp222/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界的なエネルギー需要拡大と、日本のエネルギーセキュリティやアジアの経済発展に貢献するため、既存の石油・石炭資源の資産価値の維持・向上とアジア圏でのガス田開発に着手",
+    "url": "https://job.mynavi.jp/27/pc/search/corp222/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "石炭については、安定かつ低廉なエネルギー源として資源開発を継続するとともに、環境負荷低減を図るため高効率燃焼技術の提案や石炭への混焼比率を高めることができるバイオマス燃料を開発",
+    "url": "https://job.mynavi.jp/27/pc/search/corp222/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "石油元売りから次世代素材への転換を進める総合エネルギー企業です",
+    "url": "https://note.com/tag/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月6日レポート：日経平均3,643円安、なぜ「半導体の下げ」は1日で98％の銘柄に広がったのか？",
+    "url": "https://note.com/tag/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙用ペロブスカイト太陽電池が実現に近づいてる",
+    "url": "https://note.com/tag/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "ドラマ「VIVANT」を見て思う、次の市場テーマは「核融合」か",
+    "url": "https://note.com/tag/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "全固体電池の電解質、出光の特許は「量産の工程」に入った｜特許ウォッチ #22",
+    "url": "https://note.com/tag/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "出光興産・三井金属で全固体電池の2027年量産を先回り: 368万円で+5.4%を出す全手順(2026/10版)",
+    "url": "https://note.com/tag/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "【平和とエネルギー】 ＃１０・２０２６年５月１日号",
+    "url": "https://note.com/tag/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "【毎日偉人特集 #17】出光佐三 — 「人間尊重」と日章丸事件：石油メジャーの支配を破りエネルギー自立を拓いた産業報国の覚悟",
+    "url": "https://note.com/tag/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "事業は「燃料油」「基礎化学品」「高機能材」「電力・再生可能エネルギー」「資源」の5分野に展開",
+    "url": "https://note.com/fisco_jp/n/nbfa994c0e025",
+    "pass": 3
+   },
+   {
+    "quote": "基礎化学品ではナフサからエチレンやプロピレンを生産し、高機能材では自動車・産業機械向け潤滑油や電子材料をグローバルに展開する",
+    "url": "https://note.com/fisco_jp/n/nbfa994c0e025",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画では「一歩先のエネルギー」「省資源・資源循環ソリューション」「スマートよろずや」の進化を掲げ、2050年のカーボンニュートラル実現を目指す",
+    "url": "https://note.com/fisco_jp/n/nbfa994c0e025",
+    "pass": 3
+   },
+   {
+    "quote": "電力・再生可能エネルギーセグメントは売上高237億円（同14.1%減）、セグメント損益は4億円の赤字となった",
+    "url": "https://note.com/fisco_jp/n/nbfa994c0e025",
+    "pass": 3
+   },
+   {
+    "quote": "2023年10月に公表したトヨタ自動車との協業では、2027年～28年に全固体電池を搭載した電気自動車の実用化",
+    "url": "https://note.com/fisco_jp/n/nbfa994c0e025",
+    "pass": 3
+   },
+   {
+    "quote": "世界のエネルギー産業は、化石燃料依存からの脱却と温室効果ガス排出実質ゼロを目指すカーボンニュートラル社会の実現という、産業革命以来の地殻変動に直面しています",
+    "url": "https://note.com/better_equation/n/n8ed6facb677f",
+    "pass": 3
+   },
+   {
+    "quote": "国内市場における人口動態の不可逆的な減少、ハイブリッド車や電気自動車の普及に伴う燃費向上や電化の加速により、内需の燃料油需要は年率数パーセントのペースで縮小を続けています",
+    "url": "https://note.com/better_equation/n/n8ed6facb677f",
+    "pass": 3
+   },
+   {
+    "quote": "こうした構造的逆風の中、同社は従来の石油元売りという枠組みを脱却し、次世代エネルギーの安定供給者、そして高度な循環型社会を支えるマテリアル企業への変革を強力に推し進めています",
+    "url": "https://note.com/better_equation/n/n8ed6facb677f",
+    "pass": 3
+   },
+   {
+    "quote": "欧米の巨大石油メジャーや国際的なエネルギーコングロマリットは、数千億円から兆円規模の資本力を駆使し、バイオ燃料、バイオガス、ケミカルリサイクル、次世代電池素材といった脱炭素先端領域において、大規模な企業買収（M&A）やベンチャー投資を矢継ぎ早に実行しています",
+    "url": "https://note.com/better_equation/n/n8ed6facb677f",
+    "pass": 3
+   }
+  ],
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "油化ケミカルリサイクル設備2号機の基本設計を開始",
+    "url": "https://www.idemitsu.com/jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "の主要材料となる固体電解質の研究開発にも力を入れ数多くの特許を保有している",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "制が無かったことでも知られていたが、それらの慣習が上場に際しての障害となる可能性があったため上場に先立ち、一般的な企業と同様に勤務時間管理および定年制を導入している",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "北浜地区は2022年10月1日にENEOS知多製造所のパラキシレン製造装置をはじめとする石油化学製品製造設備を譲受したもの",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "10月1日 - ENEOSから同社知多事業所の石油化学製品製造設備を譲受し、愛知製油所を愛知事業所に改称",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "（日本テレビ系列） ※2011年からは同業者のENEOSに交代",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "がENEOSブランドのエンジンオイルと併売化されたというものがある（ただし、こちらは2022年（令和4年）3月31日で終了しカー用品店向けに一本化）",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "“出光、新SSブランド「アポロステーション」導入…今後の具体的施策を発表”",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "“新SSブランド「apollostation」導入に伴い、SS塗装等に新VIデザインを展開”",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "2021年4月、出光興産の新SSブランド「apollostation」で「Ponta」導入 「出光SS」「シェルSS」合わせ、約6,400か所でPontaがたまる・つかえる",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "楽天ペイメント、「シェルサービスステーション」「apollostation」 への共通ポイントサービス「楽天ポイントカード」導入について出光興産と合意",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "国内では、1製油所・3事業所を保有し、安定供給と最適稼働を実現",
+    "url": "https://job.mynavi.jp/27/pc/search/corp222/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "石油9社の構造分析｜一人あたり3億円を稼ぐ会社より、ENEOSの30歳が高い【2027年最新】",
+    "url": "https://note.com/tag/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "【保有銘柄30】出光興産を持っている理由と、調べてわかったこと",
+    "url": "https://note.com/tag/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "【構造批評】-ENEOSダイレクトMCH編-1.2MWの実証設備に200億円を投じる理由‼️",
+    "url": "https://note.com/tag/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "【28卒】出光興産の面接対策｜「なぜENEOSやコスモではなく出光か」「ガソリンが減るのに、なぜ石油の会社か」に答える想定63問と追い質問",
+    "url": "https://note.com/tag/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、それらのギャップを埋める買収候補先として、プライベートエクイティ（PE）ファンドが保有する有力企業15社、先端技術を保有するベンチャーキャピタル（VC）出資先スタートアップ企業5社、そして同社のノンコア資産の売却先として有望な海外事業会社3社を詳細に分析し、出光興産が描くべき未来の成長シナジーを提示します",
+    "url": "https://note.com/better_equation/n/n8ed6facb677f",
+    "pass": 3
+   },
+   {
+    "quote": "既存の石油精製所や油槽所が保有する広大な敷地、深水バース（専用桟橋）、大規模タンクヤードなどのインフラ資産を活用し、低炭素燃料の受入・貯蔵・配送ハブへと転換する「カーボンニュートラル・トランスフォーメーション（CNX）センター構想」を展開しています",
+    "url": "https://note.com/better_equation/n/n8ed6facb677f",
+    "pass": 3
+   },
+   {
+    "quote": "プライベートエクイティが保有する企業リスト",
+    "url": "https://note.com/better_equation/n/n8ed6facb677f",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "連結子会社からの配当金受領に関するお知らせ",
+    "url": "https://www.idemitsu.com/jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "第111回定時株主総会決議ご通知",
+    "url": "https://www.idemitsu.com/jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主総会の模様（当日来場の株主様からの質疑の受付と回答は省略しております",
+    "url": "https://www.idemitsu.com/jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "※株主様からいただいたご質問のうち、次の事項に関する当社回答も掲載しています",
+    "url": "https://www.idemitsu.com/jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「第111回 定時株主総会招集ご通知」の一部訂正について",
+    "url": "https://www.idemitsu.com/jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "第111回定時株主総会招集ご通知",
+    "url": "https://www.idemitsu.com/jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "第111回定時株主総会招集通知に際しての電子提供措置事項",
+    "url": "https://www.idemitsu.com/jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "LNG事業への本格参入に向けMidOcean Energyへ出資を決定",
+    "url": "https://www.idemitsu.com/jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2006年10月24日上場",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "を経営統合により完全子会社化した後には、トレードネーム（通称）として「",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "などとともに“非上場の大企業”として知られていた",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "制が無かったことでも知られていたが、それらの慣習が上場に際しての障害となる可能性があったため上場に先立ち、一般的な企業と同様に勤務時間管理および定年制を導入している",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "10月 - 出光クレジットにクレディセゾンが出資",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "」が出資し、初めて両社に資本関係が生じる",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "上場に伴い、創業家は経営から完全に撤退し、かつ関与しない体制が確立",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "上場会社にふさわしい強靭な体制を目指し、急ピッチな組織再編を推進",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "）から昭和シェル石油株式の33.3%を1691億円で取得し、筆頭株主となることを発表",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "- ロイヤル・ダッチ・シェルから昭和シェル石油株式の31.3%を取得し、筆頭株主となる",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "同時に株式交換により昭和シェル石油を完全子会社化することを発表",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "同時に株式交換により昭和シェルを完全子会社化",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "10月1日 - 自動車関連商品や店舗備品を取り扱う子会社を統合",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "の合弁企業である出光ライオンコンポジットの合弁契約を解消し、完全子会社化",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "10月1日 - ともに燃料油・潤滑油製品を販売する子会社のリーフエナジー株式会社（旧昭和シェル系列）とエスアイエナジー株式会社（旧出光系列）を合併、出光エナジーソリューションズ株式会社を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "7月1日 - 完全子会社であるRSエナジー（旧 昭和シェル石油）に対して吸収合併を実施",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "出光、昭和シェルと経営統合へ 33.3%出資、筆頭株主に",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "当社大株主との間の合意書の締結に関するお知らせ",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "株主構成ならびに社名（商号）変更に関するお知らせ",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "出光興産株式会社による株式会社エス・ディー・エス バイオテックの完全子会社化に関する株式交換契約締結（簡易株式交換）のお知らせ",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "出光興産株式会社による当社株式に係る株式売渡請求を行うことの決定、当該株式売渡請求に係る承認及び当社株式の上場廃止に関するお知らせ",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "2006年上場の企業",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "東建コーポレーション(株)(ホームメイト)【東証プライム・名証プレミア上場】",
+    "url": "https://job.mynavi.jp/27/pc/search/corp222/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "出光興産<5019>は1911年に出光佐三が創業した出光商会を起源とし、現在は連結子会社150社を擁する",
+    "url": "https://note.com/fisco_jp/n/nbfa994c0e025",
+    "pass": 3
+   },
+   {
+    "quote": "東証プライム市場に上場し、日経平均株価やJPX日経インデックス400の構成銘柄となっている",
+    "url": "https://note.com/fisco_jp/n/nbfa994c0e025",
+    "pass": 3
+   },
+   {
+    "quote": "同社の2026年3月期第1四半期連結業績は、売上高18,430億円（前期比18.5％減）、営業損益は210億円の赤字、経常損益137億円の赤字、親会社株主に帰属する四半期純利益52億円（同94.5％減）となった",
+    "url": "https://note.com/fisco_jp/n/nbfa994c0e025",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、それらのギャップを埋める買収候補先として、プライベートエクイティ（PE）ファンドが保有する有力企業15社、先端技術を保有するベンチャーキャピタル（VC）出資先スタートアップ企業5社、そして同社のノンコア資産の売却先として有望な海外事業会社3社を詳細に分析し、出光興産が描くべき未来の成長シナジーを提示します",
+    "url": "https://note.com/better_equation/n/n8ed6facb677f",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 | 会社情報 - 出光興産 — 会社概要 | 会社情報 - 出光興産 出光興産 https://www.idemitsu.com > company > profile",
+    "url": "https://www.idemitsu.com/jp/company/profile/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 会社情報 | 出光リテール販売 - 出光興産 — 会社概要 | 会社情報 | 出光リテール販売 - 出光興産 出光興産 https://www.idemitsu.com > company > profile",
+    "url": "https://www.idemitsu.com/jp/idemitsu-rh/company/profile/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "出光興産 - Wikipedia — 出光興産 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 出光興産",
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 - 出光興産 — 会社情報 - 出光興産 出光興産 https://www.idemitsu.com > company",
+    "url": "https://www.idemitsu.com/jp/company/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "出光興産 — 出光興産 出光興産 https://www.idemitsu.com > ...",
+    "url": "https://www.idemitsu.com/jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式基本情報 | IR情報 - 出光興産 — 株式基本情報 | IR情報 - 出光興産 出光興産 https://www.idemitsu.com > stock > data",
+    "url": "https://www.idemitsu.com/jp/ir/stock/data/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "グループ会社 | 会社情報 - 出光興産 — グループ会社 | 会社情報 - 出光興産 出光興産 https://www.idemitsu.com > company > group",
+    "url": "https://www.idemitsu.com/jp/company/group/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "出光興産 (株)の新卒採用・会社概要 | マイナビ2027 — 出光興産 (株)の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp222 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp222/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント情報 | IR情報 - 出光興産 — セグメント情報 | IR情報 - 出光興産 出光興産 https://www.idemitsu.com > finance > segmentinformation",
+    "url": "https://www.idemitsu.com/jp/ir/finance/segmentinformation/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "出光興産 （5019）の 従業員数 の推移 - IRBANK — 出光興産 （5019）の 従業員数 の推移 - IRBANK IRBANK https://irbank.net > 石油・石炭製品 > 出光興産",
+    "url": "https://irbank.net/E01084/worker",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "出光興産 の人気・新着記事まとめ - note 出光興産 の人気・新着記事まとめ - note note https://note.com > tag > 出光興産",
+    "url": "https://note.com/tag/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "【取材レポート】 出光興産 ：変革をカタチにする取り組みに再 ... 【取材レポート】 出光興産 ：変革をカタチにする取り組みに再 ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/fisco_jp/n/nbfa994c0e025",
+    "pass": 3
+   },
+   {
+    "quote": "もしあなたが 出光興産 の役員だったら検討したいM&A候補 - note もしあなたが 出光興産 の役員だったら検討したいM&A候補 - note note https://note.com > ビジネス > 戦略・組織論",
+    "url": "https://note.com/better_equation/n/n8ed6facb677f",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "石油元売りから次世代素材への転換を進める総合エネルギー企業です。",
+    "url": "https://note.com/tag/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "全固体電池の開発や投資戦略、創業者の経営哲学に関する記事が集まっています。",
+    "url": "https://note.com/tag/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "石油元売りから次世代素材への転換を進める総合エネルギー企業です。全固体電池の…",
+    "url": "https://note.com/tag/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "北海道の灯油は、なぜ今年こんなに高いのか。苫小牧の製油所を疑って調べてみた",
+    "url": "https://note.com/tag/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】出光興産 書類選考＆適性検査 完全対策ガイド｜公式の選考フローは3ステップ、適性検査は含まれていない｜職務経歴書OK/NG例",
+    "url": "https://note.com/tag/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月6日レポート：日経平均3,643円安、なぜ「半導体の下げ」は1日で98％の銘柄に広がったのか？",
+    "url": "https://note.com/tag/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "朝株〜夜の部〜 今日の振り返り 2026/11/02（月）",
+    "url": "https://note.com/tag/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙用ペロブスカイト太陽電池が実現に近づいてる。仕組みと関連銘柄を全部解説する",
+    "url": "https://note.com/tag/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "【取材レポート】出光興産：変革をカタチにする取り組みに再評価機運高まる｜FISCO",
+    "url": "https://note.com/fisco_jp/n/nbfa994c0e025",
+    "pass": 3
+   },
+   {
+    "quote": "【取材レポート】出光興産：変革をカタチにする取り組みに再評価機運高まる",
+    "url": "https://note.com/fisco_jp/n/nbfa994c0e025",
+    "pass": 3
+   },
+   {
+    "quote": "出光興産<5019>は1911年に出光佐三が創業した出光商会を起源とし、現在は連結子会社150社を擁する",
+    "url": "https://note.com/fisco_jp/n/nbfa994c0e025",
+    "pass": 3
+   },
+   {
+    "quote": "である。東証プライム市場に上場し、日経平均株価やJPX日経インデックス400の構成銘柄となっている。事業は「燃料油」「基礎化学品」「高機能材」「電力・再生可能エネルギー」「資源」の5分野に展開。燃料油では全国約6,000か所のサービスステーションを拠点に「スマートよろずや」としての機能強化を推進。基礎化学品ではナフサからエチレンやプロピレンを生産し、高機能材では自動車・産業機械向け潤滑油や電子材料をグローバルに展開する。電力・再エネでは太陽光や風力、天然ガス火力などを手がけ、資源分野では油・ガス田や石炭、地熱・バイオマスに取り組む。2019年には昭和シェル石油との経営統合を完了し、国内の石油精製・流通基盤強化を図っている。中期経営計画では「一歩先のエネルギー」「省資源・資源循環ソリューション」「スマートよろずや」の進化を掲げ、2050年のカーボンニュートラル実現を目指す。",
+    "url": "https://note.com/fisco_jp/n/nbfa994c0e025",
+    "pass": 3
+   },
+   {
+    "quote": "出典：同社HP 3分でわかるIdemitsu",
+    "url": "https://note.com/fisco_jp/n/nbfa994c0e025",
+    "pass": 3
+   },
+   {
+    "quote": "同社の2026年3月期第1四半期連結業績は、売上高18,430億円（前期比18.5％減）、営業損益は210億円の赤字、経常損益137億円の赤字、親会社株主に帰属する四半期純利益52億円（同94.5％減）となった。原油価格の下落に伴う在庫評価影響及び販売タイムラグの一過性のマイナス影響が響き、大幅な減益決算となった。セグメント別では、燃料油セグメントは原油安により売上高15,188億円（同19.0％減）、堅調な国内マージンも在庫影響等の一過性要因によりセグメント損益298億円の赤字となった。基礎化学品セグメントも市況悪化で売上高1,217億円（同23.6％減）、損益45億円の赤字と悪化した。一方、高機能材セグメントは売上高1,242億円（同2.5%減）となるも、潤滑油事業の販売タイムラグ影響や新規連結の寄与で93億円（同19.1％増）と増益となった。電力・再生可能エネルギーセグメントは売上高",
+    "url": "https://note.com/fisco_jp/n/nbfa994c0e025",
+    "pass": 3
+   },
+   {
+    "quote": "通期業績見通しについては、売上高79,000億円（前期比14.0％減）、営業利益370億円（同77.2％減）、経常利益560億円（同73.9％減）、当期純利益500億円（同51.9％減）と従来予想を据え置いた。同社の業績は原油等のコモディティ価格の市況に大きく影響を受ける。こうした構造を踏まえ、同社ではトランプ関税の影響が間接的にコモディティ価格の下落につながるものと見ている。通期業績予想はこうした影響を400億円の減益要因として織り込んでいるが、概ね第1四半期で発現し、第２四半期以降はやや反転傾向にあると捉えている模様。一方で、今後はドバイ原油価格が１バレル65ドルを大きく下回ると下方修正リスクにつながる。",
+    "url": "https://note.com/fisco_jp/n/nbfa994c0e025",
+    "pass": 3
+   },
+   {
+    "quote": "出典：同社「2025年第1四半期 決算説明資料」",
+    "url": "https://note.com/fisco_jp/n/nbfa994c0e025",
+    "pass": 3
+   },
+   {
+    "quote": "もしあなたが出光興産の役員だったら検討したいM&A候補｜Better Equation Research",
+    "url": "https://note.com/better_equation/n/n8ed6facb677f",
+    "pass": 3
+   },
+   {
+    "quote": "もしあなたが出光興産の役員だったら検討したいM&A候補",
+    "url": "https://note.com/better_equation/n/n8ed6facb677f",
+    "pass": 3
+   },
+   {
+    "quote": "Better Equation Research",
+    "url": "https://note.com/better_equation/n/n8ed6facb677f",
+    "pass": 3
+   },
+   {
+    "quote": "世界のエネルギー産業は、化石燃料依存からの脱却と温室効果ガス排出実質ゼロを目指すカーボンニュートラル社会の実現という、産業革命以来の地殻変動に直面しています。石油精製および燃料油元売り事業を主力として日本の経済発展を支え続けてきた出光興産株式会社にとっても、この構造変化への適応は企業の持続可能性と中長期的な企業価値を左右する重大な分岐点となっています。国内市場における人口動態の不可逆的な減少、ハイブリッド車や電気自動車の普及に伴う燃費向上や電化の加速により、内需の燃料油需要は年率数パーセントのペースで縮小を続けています。こうした構造的逆風の中、同社は従来の石油元売りという枠組みを脱却し、次世代エネルギーの安定供給者、そして高度な循環型社会を支えるマテリアル企業への変革を強力に推し進めています。",
+    "url": "https://note.com/better_equation/n/n8ed6facb677f",
+    "pass": 3
+   },
+   {
+    "quote": "しかしながら、このような抜本的な事業構造改革は、自社の経営資源や基礎研究のみに依存する有機的成長（オーガニック・グロース）のみでは達成が極めて困難です。欧米の巨大石油メジャーや国際的なエネルギーコングロマリットは、数千億円から兆円規模の資本力を駆使し、バイオ燃料、バイオガス、ケミカルリサイクル、次世代電池素材といった脱炭素先端領域において、大規模な企業買収（M&A）やベンチャー投資を矢継ぎ早に実行しています。出光興産がこれらの世界的な競合企業に対抗し、国内外で確固たる競争優位を確立するためには、自社に不足しているサプライチェーン、現場技術、操業ライセンス、海外物流拠点を迅速に取り込むインオーガニックな買収戦略が極めて重要となります。",
+    "url": "https://note.com/better_equation/n/n8ed6facb677f",
+    "pass": 3
+   },
+   {
+    "quote": "本ノートでは、出光興産の最新の中期経営計画および統合レポートに示された経営戦略を精査し、同社の過去25年間にわたる事業再編とM&Aの歩みを振り返ります。その上で、欧米メジャーを中心とするグローバル競合他社の投資動向を比較分析し、出光興産が抱える機能的・地理的なギャップを抽出します。さらに、それらのギャップを埋める買収候補先として、プライベートエクイティ（PE）ファンドが保有する有力企業15社、先端技術を保有するベンチャーキャピタル（VC）出資先スタートアップ企業5社、そして同社のノンコア資産の売却先として有望な海外事業会社3社を詳細に分析し、出光興産が描くべき未来の成長シナジーを提示します。",
+    "url": "https://note.com/better_equation/n/n8ed6facb677f",
+    "pass": 3
+   },
+   {
+    "quote": "2050年ビジョンと2030年に向けた事業ポートフォリオの再定義",
+    "url": "https://note.com/better_equation/n/n8ed6facb677f",
+    "pass": 3
+   },
+   {
+    "quote": "出光興産は、長期的な経営の羅針盤として「2050年ビジョン：変革を差配する」を掲げています。このビジョンにおいて同社は、地球環境の保全と人々の健やかな暮らしの両立を企業の究極のパーパスと位置付けています。さらに、その中間通過点である2030年に向けて、同社は「人々の健やかな暮らし」と「未来の地球環境」を守る責任を果たすべく、事業ポートフォリオを3つの柱へと再編する戦略を明確に打ち出しています。",
+    "url": "https://note.com/better_equation/n/n8ed6facb677f",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "出光興産 【公式】 (@Idemitsu_Kosan) / X 出光興産 【公式】 (@Idemitsu_Kosan) / X X https://x.com > Idemitsu_Kosan",
+    "url": "https://x.com/Idemitsu_Kosan",
+    "pass": 3
+   },
+   {
+    "quote": "# 出光興産 - Search / X # 出光興産 - Search / X X https://x.com > Search",
+    "url": "https://x.com/hashtag/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "pass": 3
+   },
+   {
+    "quote": "出光興産 【公式】 on X 出光興産 【公式】 on X X https://x.com > @Idemitsu_Kosan",
+    "url": "https://x.com/Idemitsu_Kosan/status/2112816159183819170",
+    "pass": 3
+   },
+   {
+    "quote": "出光興産 【公式】 on X 出光興産 【公式】 on X X https://x.com > @Idemitsu_Kosan",
+    "url": "https://x.com/Idemitsu_Kosan/status/2026779237274017925",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "出光興産 （株） - LinkedIn 出光興産 （株） - LinkedIn LinkedIn https://www.linkedin.com > company > 出光興産（株）",
+    "url": "https://www.linkedin.com/company/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "出光興産 （株） - LinkedIn 出光興産 （株） - LinkedIn LinkedIn https://jp.linkedin.com > company > 出光興産（株）",
+    "url": "https://jp.linkedin.com/company/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "出光興産 （株） | LinkedIn 出光興産 （株） | LinkedIn LinkedIn Guatemala https://gt.linkedin.com > company > 出光興産（株）",
+    "url": "https://gt.linkedin.com/company/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "出光興産 小型EV事業に参入 - LinkedIn 出光興産 小型EV事業に参入 - LinkedIn LinkedIn https://www.linkedin.com > news > story > 出光興産-小...",
+    "url": "https://www.linkedin.com/news/story/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3-%E5%B0%8F%E5%9E%8Bev%E4%BA%8B%E6%A5%AD%E3%81%AB%E5%8F%82%E5%85%A5-4314457/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "出光興産 株式会社 - Facebook 出光興産 株式会社 - Facebook Facebook https://www.facebook.com > Pages > Other > Community",
+    "url": "https://www.facebook.com/p/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-100071966718245/",
+    "pass": 3
+   },
+   {
+    "quote": "アポロステーション（ 出光興産 ） - Facebook アポロステーション（ 出光興産 ） - Facebook Facebook https://www.facebook.com > ... > Gas Station",
+    "url": "https://www.facebook.com/p/%E3%82%A2%E3%83%9D%E3%83%AD%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3-100076560032467/",
+    "pass": 3
+   },
+   {
+    "quote": "出光興産 - Home - Facebook 出光興産 - Home - Facebook Facebook https://www.facebook.com > ...",
+    "url": "https://www.facebook.com/112733882118479",
+    "pass": 3
+   },
+   {
+    "quote": "出光興産 株式会社 - Home | Facebook 出光興産 株式会社 - Home | Facebook Facebook https://www.facebook.com > pages > 出光興産株式会社",
+    "url": "https://www.facebook.com/pages/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/670757442954535",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.idemitsu.com/jp/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idemitsu.com/jp/company/profile/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idemitsu.com/jp/company/interview/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idemitsu.com/jp/company/managementplan/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idemitsu.com/jp/company/brandstory/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idemitsu.com/jp/company/introduction/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idemitsu.com/jp/news/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idemitsu.com/jp/ir/news/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.idemitsu.com/jp/company/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idemitsu.com/jp/company/message/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idemitsu.com/jp/company/managementplan/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idemitsu.com/jp/company/philosophy/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idemitsu.com/jp/company/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idemitsu.com/jp/company/profile/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.idemitsu.com/jp/assets/img/front-page/img-company_profile@2x.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=teF6HEZhdlo",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubeni-idigio.com/insight-hub/metal3dprinter_desktopmetal_case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=KZaXU_KnoEY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp222/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fisco_jp/n/nbfa994c0e025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/better_equation/n/n8ed6facb677f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Idemitsu_Kosan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Idemitsu_Kosan/status/2112816159183819170",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Idemitsu_Kosan/status/2026779237274017925",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://gt.linkedin.com/company/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/news/story/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3-%E5%B0%8F%E5%9E%8Bev%E4%BA%8B%E6%A5%AD%E3%81%AB%E5%8F%82%E5%85%A5-4314457/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-100071966718245/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/%E3%82%A2%E3%83%9D%E3%83%AD%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3-100076560032467/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/112733882118479",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/670757442954535",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/better_equation/n/n8ed6facb677f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fisco_jp/n/nbfa994c0e025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Idemitsu_Kosan",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "出光興産",
+   "results": [
+    "https://www.idemitsu.com/jp/index.html",
+    "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "https://x.com/Idemitsu_Kosan",
+    "https://www.nikkei.com/nkd/company/?scode=5019",
+    "https://www.linkedin.com/company/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://ja.wikipedia.org/wiki/出光興産",
+    "https://www.idemitsu.com/jp/company/index.html",
+    "https://finance.yahoo.co.jp/quote/5019.T",
+    "https://finance.yahoo.co.jp/quote/5019.T/profile",
+    "https://shikiho.toyokeizai.net/stocks/5019/corporate"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "出光興産 会社概要 資本金 設立",
+   "results": [
+    "https://www.idemitsu.com/jp/company/profile/index.html",
+    "https://www.idemitsu.com/jp/idemitsu-rh/company/profile/index.html",
+    "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "https://www.idemitsu.com/jp/company/index.html",
+    "https://www.idemitsu.com/jp/index.html",
+    "https://job.mynavi.jp/27/pc/search/corp222/outline.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=5019",
+    "https://www.idemitsu.com/jp/company/history/index.html",
+    "https://baike.baidu.com/ja/item/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/1142136",
+    "https://ja.wikipedia.org/wiki/出光興産"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "出光興産 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.youtube.com/watch?v=teF6HEZhdlo",
+    "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "https://www.marubeni-idigio.com/insight-hub/metal3dprinter_desktopmetal_case/",
+    "https://www.mitsubishielectric.co.jp/fa/products/mecha/am/pr/zoukei/index.html",
+    "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "https://news.sharelab.jp/category/3dp-news/metal-3dprinter/",
+    "https://partners.solize.com/manufacturing/technology/3dp-metal",
+    "https://www.ricoh.co.jp/3dp/metal/column01",
+    "https://www.manufacturing-world.jp/hub/ja-jp/blog/article11.html",
+    "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "出光興産 金属積層造形 設備",
+   "results": [
+    "https://jampt.jp/",
+    "https://www.youtube.com/watch?v=KZaXU_KnoEY",
+    "https://chuokatan.co.jp/products/3dp/",
+    "https://ja.3dsystems.com/semiconductor",
+    "https://partners.solize.com/manufacturing/technology/3dp-metal",
+    "https://www.aichi-sangyo.co.jp/products/additive_manufact/index.html",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "https://www.idemitsu.com/jp/company/rd/engineering/index.html",
+    "https://www.idemitsu.com/jp/index.html"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "出光興産 株主 出資 親会社",
+   "results": [
+    "https://www.idemitsu.com/jp/ir/stock/data/index.html",
+    "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "https://www.idemitsu.com/jp/company/group/index.html",
+    "https://www.idemitsu.com/jp/index.html",
+    "https://idemitsu.premium-yutaiclub.jp/",
+    "https://kabutan.jp/stock/holder?code=5019",
+    "https://www.idemitsu.com/jp/ir/individual_investors/index.html",
+    "https://www.reuters.com/article/opinion/194-idUSKBN1K0059/",
+    "https://www.idemitsu.com/jp/contact/faq/ir/index.html",
+    "https://ja.wikipedia.org/wiki/出光興産"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "出光興産 売上高 従業員数",
+   "results": [
+    "https://www.idemitsu.com/jp/company/profile/index.html",
+    "https://job.mynavi.jp/27/pc/search/corp222/outline.html",
+    "https://www.idemitsu.com/jp/ir/finance/segmentinformation/index.html",
+    "https://irbank.net/E01084/worker",
+    "https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=5019",
+    "https://www.idemitsu.com/jp/apollolink/recruit/company/number.html",
+    "https://fact-board.co.jp/company/d-idemitsu/",
+    "https://hrview.jp/company/5019",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=5019"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com 出光興産",
+   "results": [
+    "https://note.com/tag/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "https://note.com/open_azalea2045/n/n055a339341f3",
+    "https://note.com/fisco_jp/n/nbfa994c0e025",
+    "https://note.com/better_equation/n/n8ed6facb677f",
+    "https://note.com/lucid_quokka6797/n/n52840b3ee544",
+    "https://note.com/wellnesstherapy/n/nea5305be5b1d",
+    "https://note.com/moto_jinji_note/n/n476b0f436955",
+    "https://note.com/open_azalea2045/n/n02efab3b92a8",
+    "https://note.com/satoshi_umeki/n/n7f198e2783f1",
+    "https://note.com/china_case/n/nb381576a844a"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com 出光興産",
+   "results": [
+    "https://x.com/Idemitsu_Kosan",
+    "https://x.com/hashtag/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "https://x.com/Idemitsu_Kosan/status/2112816159183819170",
+    "https://x.com/Idemitsu_Kosan/status/2026779237274017925",
+    "https://x.com/i/trending/2048738477483667731",
+    "https://x.com/Idemitsu_Kosan/status/2110286992072421750",
+    "https://x.com/Idemitsu_Kosan/status/1980906978190008375",
+    "https://x.com/Idemitsu_Kosan/status/2117164814581526731",
+    "https://x.com/Idemitsu_Kosan/status/2118251984704749997",
+    "https://x.com/Idemitsu_Kosan/status/2096750297536188648"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com 出光興産",
+   "results": [
+    "https://www.linkedin.com/company/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://jp.linkedin.com/company/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://gt.linkedin.com/company/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://www.linkedin.com/news/story/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3-%E5%B0%8F%E5%9E%8Bev%E4%BA%8B%E6%A5%AD%E3%81%AB%E5%8F%82%E5%85%A5-4314457/",
+    "https://jp.linkedin.com/in/yosuke-funaki-b6a12b273",
+    "https://jp.linkedin.com/in/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3-%E5%92%8C%E6%B3%89%E6%A7%98-ba079b21",
+    "https://jp.linkedin.com/in/oda-hiroshi-1080b842",
+    "https://jp.linkedin.com/in/koji-onishi-73453886",
+    "https://jp.linkedin.com/in/minoru-fujino-93a5182a9",
+    "https://jp.linkedin.com/company/出光興産（株）"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com 出光興産",
+   "results": [
+    "https://www.facebook.com/p/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-100071966718245/",
+    "https://www.facebook.com/p/%E3%82%A2%E3%83%9D%E3%83%AD%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3-100076560032467/",
+    "https://www.facebook.com/112733882118479",
+    "https://www.facebook.com/pages/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/670757442954535",
+    "https://www.facebook.com/idemitsucp/?locale=ja_JP",
+    "https://www.facebook.com/cognitejapan/posts/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3%E3%81%8C%E7%99%BB%E5%A3%87%E3%81%99%E3%82%8B%E6%9C%80%E6%96%B0%E8%A3%BD%E5%93%81%E3%83%84%E3%82%A2%E3%83%BC%E3%82%92%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%AD%97%E5%B9%95%E4%BB%98%E3%81%8D%E3%81%A7%E9%85%8D%E4%BF%A1%E9%96%8B%E5%A7%8Bcognite-product-tour%E3%81%A7%E3%81%AF%E6%9C%80%E6%96%B0%E8%A3%BD%E5%93%81%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E3%82%84%E3%81%8A%E5%AE%A2%E6%A7%98%E4%BC%81%E6%A5%AD%E3%81%AB%E3%82%88%E3%82%8B%E4%BA%8B%E4%BE%8B%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E3%82%A6%E3%82%A7/1148550947272995/",
+    "https://www.facebook.com/groups/7436590736362952/posts/28881630474765668/",
+    "https://www.facebook.com/Response.since1999/posts/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3%E3%81%AF%E5%85%A8%E5%9B%BD%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3apollostation%E3%82%A2%E3%83%9D%E3%83%AD%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A7%E6%8F%90%E4%BE%9B%E3%81%99%E3%82%8B%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E4%BD%93%E7%B3%BB%E3%82%92%E5%86%8D%E7%B7%A8%E3%81%9710%E6%9C%881%E6%97%A5%E3%81%8B%E3%82%89idemitsu%E3%81%BE%E3%81%9F%E3%81%AFap/1501308325361527/",
+    "https://www.facebook.com/events/466-0064-%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82-japan%E6%84%9B%E7%9F%A5%E7%9C%8C%E6%98%AD%E5%92%8C%E5%8C%BA%E9%B6%B4%E8%88%9E%EF%BC%91%E4%B8%81%E7%9B%AE%EF%BC%92%EF%BC%93%EF%BC%92/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3%E8%A5%BF%E9%83%A8%E7%9F%B3%E6%B2%B9%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B9%E3%83%94%E3%83%83%E3%83%81%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%BF%E3%81%9A%E3%81%BB%E9%8A%80%E8%A1%8C%E4%B8%BB%E5%82%AC/1672320107582481/",
+    "https://www.facebook.com/p/アポロステーション出光興産-100076560032467/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "出光興産 note 社長",
+   "results": [
+    "https://note.com/better_equation/n/n8ed6facb677f",
+    "https://note.com/tag/%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3",
+    "https://www.idemitsu.com/jp/company/director/index.html",
+    "https://note.com/fisco_jp/n/nbfa994c0e025",
+    "https://www.idemitsu.com/jp/sustainability/message/index.html",
+    "https://diamond.jp/articles/-/394110",
+    "https://note.com/tisobro/n/n9b94b4ff088e",
+    "https://www.nikkei.com/article/DGXZQOUC2450H0U5A120C2000000/",
+    "https://the-shashi.com/tse/5019/ceo/",
+    "https://the-shashi.com/tse/5019/executives/ceo/sakai-noriaki/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "出光興産 X 投稿",
+   "results": [
+    "https://x.com/Idemitsu_Kosan",
+    "https://www.idemitsu.com/jp/index.html",
+    "https://www.idemitsu.com/jp/news/index.html",
+    "https://www.idemitsu.com/jp/socialmediapolicy/index.html",
+    "https://www.idemitsu.com/jp/recruit/future/index.html",
+    "https://x.com/Idemitsu_Kosan/status/2112816159183819170",
+    "https://www.youtube.com/@idemitsujapan8440",
+    "https://www.idemitsu.com/jp/contact/index.html",
+    "https://x.com/Idemitsu_Kosan/status/2096750297536188648",
+    "https://search.yahoo.co.jp/realtime/search/出光興産/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部28頁・検索12回）",
+  "使っている金属粉（材質）": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部28頁・検索12回）"
+ }
+}

@@ -8,109 +8,15 @@
  ],
  "context": "同一性",
  "kind": "market",
- "researched_at": "2026-11-09T08:06:47.986714+00:00",
+ "researched_at": "2026-11-10T19:08:50.710170+00:00",
  "evidence": {
-  "一次情報の探し方": [
-   {
-    "quote": "Never write a field from a source that only identifies something adjacent. An address on a trademark filing is the address the filer had when they filed, not the company's registered address, and folding it in silently competes against a register whose job is to be current.",
-    "url": "https://entitybind.com/guides/survivorship-and-golden-records",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "2. Data Profiling and Standardization",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Matching records across heterogeneous datasets (e.g., SQL and NoSQL databases, spreadsheets, PDFs) can be exceptionally difficult due to different types of entities, encoding, formatting, languages, and schemas. Converting all this different type of data into a pre-defined schema through schema-matching and data exchange is a risky process and can result in the loss of valuable information.",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For example, a government institution performing ER to identify (and prevent) fraudulent tax filings would find manual ER approaches and algorithms severely restricting and overwhelming. The sheer volume of the data in government databases (they have millions, if not trillions, of records) and the complexity of blocking techniques would make the efforts futile.",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2. Scalable Data Profiling and Cleansing",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "3. Linking and profiling",
-    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "PDF and DOCX manifestations of one document;",
-    "url": "https://edukatesingapore.com/2026/09/10/data-deduplication-and-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A repository contains five identical copies of a PDF and one later corrected edition. Checksums collapse the exact copies into one storage identity, while the corrected edition remains a distinct version linked to the same logical document.",
-    "url": "https://edukatesingapore.com/2026/09/10/data-deduplication-and-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Combines profiling, cleansing, matching, deduplication and golden-record creation in a code-free workflow",
-    "url": "https://dataladder.com/best-entity-resolution-software/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "SNS・note（LinkedIn・検索結果の抜粋）": [
-   {
-    "quote": "Megha Sharma - AI Product Manager | B2B SaaS ... - LinkedInPiyush Kumar - Product @zomato || Ex TCS || Ex bettercoach ...Senior Product Manager, Data at CertifyOS — Bengaluru ...The Quiet Violence of Survivorship Rules - LinkedIn 🔍 GOLDEN ENTITY RESOLUTION Architected a production Golden Entity Resolution engine applying deterministic + probabilistic matching to canonicalize master records across ",
-    "url": "https://ca.linkedin.com/in/megha-sharma-21713080",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Megha Sharma - AI Product Manager | B2B SaaS ... - LinkedInPiyush Kumar - Product @zomato || Ex TCS || Ex bettercoach ...What Are Survivorship Rules and Why Do They Matter? A Real ...The Quiet Violence of Survivorship Rules - LinkedIn 🔍 GOLDEN ENTITY RESOLUTION Architected a production Golden Entity Resolution engine applying deterministic + probabilistic matching to canonicalize master records ac",
-    "url": "https://ca.linkedin.com/in/megha-sharma-21713080",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "#informaticamdm #goldenrecord #datasurvivorship # ... 🔍 Mastering Survivorship Rules in Informatica MDM: How a Golden Record Is Created Step by Step One of the most powerful features of Informatica MDM is its ability to apply intelligent Survivorship Rules to consolidate conflicting data from multiple sources into a single, trusted Golden Record. 📊 In the example in the below image, records from M",
-    "url": "https://pe.linkedin.com/posts/alisherif98_informaticamdm-goldenrecord-datasurvivorship-activity-7312932733381492739-Glrp",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "What Are Survivorship Rules and Why Do They Matter? A Real ... Jul 16, 2026 · What Are Survivorship Rules? Survivorship Rules are business-defined policies that determine which attribute value becomes part of the Golden Record when multiple source systems provide different ...",
-    "url": "https://www.linkedin.com/pulse/what-survivorship-rules-why-do-matter-real-world-guide-reltio-422bf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "What Are Survivorship Rules and Why Do They Matter? A Real ... Jul 16, 2026 · Survivorship Rules are business-defined policies that determine which attribute value becomes part of the Golden Record when multiple source systems provide different values.",
-    "url": "https://www.linkedin.com/pulse/what-survivorship-rules-why-do-matter-real-world-guide-reltio-422bf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "#informaticamdm #goldenrecord #datasurvivorship # ... To determine the most accurate values, Informatica MDM applies survivorship rules in a defined sequence.",
-    "url": "https://pe.linkedin.com/posts/alisherif98_informaticamdm-goldenrecord-datasurvivorship-activity-7312932733381492739-Glrp",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Megha Sharma - AI Product Manager | B2B SaaS ... - LinkedInPiyush Kumar - Product @zomato || Ex TCS || Ex bettercoach ...Giriraj Gupta - Grade A Officer at NABARD (Govt of India ...Entity Resolution with Clear Survivorship Rules and ... 🔍 GOLDEN ENTITY RESOLUTION Architected a production Golden Entity Resolution engine applying deterministic + probabilistic matching to canonicalize master records ",
-    "url": "https://ca.linkedin.com/in/megha-sharma-21713080",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "失敗・落とし穴": [
+   {
+    "quote": "One mistake in the matching criteria can hide many true matches.",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
    {
     "quote": "Conflating them is the commonest architectural mistake in this area, and it produces bugs that are very hard to diagnose because they present as matching errors.",
     "url": "https://entitybind.com/guides/survivorship-and-golden-records",
@@ -124,7 +30,555 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "手順・やり方": [
+   {
+    "quote": "What entity resolution is, how it works step by step, how to measure it, and where enterprises use it, with a worked example, primary sources and the challenges to plan for.",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "The comparison step inside entity resolution",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "Pairwise decisions must become entities. The simplest approach takes connected components of the link graph. That has a known danger: if A matches B and B matches C, all three merge even if A and C are clearly different, and one wrong link can chain two large clusters together. More careful methods use cluster-level scoring, constraints (“these two must never merge”) or correlation clustering.",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "We made performance a first-class concern early with a learned blocking model, which learns from the fields in your data and your labels how to group records efficiently (",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "When we open sourced Zingg we didn’t expect platform-native runs to be so well loved. Enterprises are increasingly wary of sending their most valuable data to a third party, and they want to use the tooling and frameworks they already have (",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "It depends on the data, the method and where you set the threshold. Measure precision and recall on a labelled sample, and expect to trade one against the other. The right balance differs by use case: sanctions screening and patient matching tolerate errors very differently from marketing.",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "Merging and survivorship are different steps",
+    "url": "https://entitybind.com/guides/survivorship-and-golden-records",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Merging decides which records belong together. Survivorship decides what the resulting entity looks like. A wrong merge shows up as a golden record containing two companies' addresses; a survivorship bug shows up as a correctly merged entity displaying a stale address. Those need different fixes, and a system that assembles the record inside the merge step cannot tell you which one happened.",
+    "url": "https://entitybind.com/guides/survivorship-and-golden-records",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The recency step needs a timestamp, and there are several available. Choosing the wrong one is a quiet, persistent source of stale golden records.",
+    "url": "https://entitybind.com/guides/survivorship-and-golden-records",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Merging and survivorship are separate steps with separate failure modes, and keeping them separate is what makes an unmerge possible.",
+    "url": "https://entitybind.com/guides/survivorship-and-golden-records",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "7 pages name this method as the working behind what they claim.",
+    "url": "https://entitybind.com/guides/survivorship-and-golden-records",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "; the gate figures come from the stub-adjudicated continuous-integration run and are a floor rather than a ceiling. The two are never averaged. Entity Bind holds no SOC 2, no ISO 27001 and no other certification, and claims none. Every figure, with the population it was measured over and the method behind both recordings, is set out on",
+    "url": "https://entitybind.com/guides/survivorship-and-golden-records",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The precision/recall/F-score framework above is the stable, vendor-neutral way to score matching quality. What has sharpened since 2026 is how teams turn those scores into an operational",
+    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "how to evaluate entity resolution systems (Binette et al., 2024)",
+    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pairwise metrics alone can misrepresent how well records are grouped into correct entities.",
+    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Measure both. The classic pairwise approach scores each candidate pair, but research on evaluating entity resolution systems argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pair-based metrics alone can misrepresent how well records are grouped into correct entities.",
+    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Agentic simulation: when the AI chooses how to simulate",
+    "url": "https://prolyz.com/blog/master-data-management-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "No single matching method wins",
+    "url": "https://performalytic.com/blog/entity-resolution-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Entity resolution is the step in the",
+    "url": "https://performalytic.com/blog/entity-resolution-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "practical Entity Resolution / Deduplication framework on Databricks",
+    "url": "https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "show how to compute multi‑field similarity scores (string distance, embeddings, etc.) and assemble a single match score per pair.",
+    "url": "https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "tart with multiple composite keys (e.g. phonetic last name + postcode, email username + domain, etc.), plus a semantic/vector‑based candidate retrieval step for messy text.",
+    "url": "https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "and then adapting each notebook step to your domain instead of rebuilding the framework from scratch.",
+    "url": "https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Explore the best unified data analytics platforms, their architecture, features, benefits, use cases, and how to choose the right solution for your business.",
+    "url": "https://www.puppygraph.com/learn/best-entity-resolution-software",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "offer managed matching services or customizable frameworks for teams that want to build entity resolution within an existing data platform.",
+    "url": "https://dataladder.com/best-entity-resolution-software/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Entity Resolution for Enterprise Data: How It Works, Where It Fails, and How to Choose the Right Tool",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Deduplication is often one step within entity resolution. Deduplication generally identifies duplicate records within a dataset, whereas entity resolution can connect related records across multiple sources and determine which records collectively represent the same real-world entity.",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "What Is an Entity Resolution Framework?",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "An entity resolution framework is the end-to-end process used to identify which records refer to the same real-world entity. It defines how data is prepared, how potential matches are generated and evaluated, how related records are grouped, and how uncertain decisions are reviewed and monitored.",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A complete enterprise entity resolution framework generally includes the following stages:",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Candidate records are compared across relevant attributes. Different fields may require different comparison methods.",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The right approach depends on the entity type, data quality, available identifiers, acceptable error rates, and the consequences of an incorrect decision. Exact or deterministic methods may be sufficient for clean data with dependable identifiers, while inconsistent and incomplete enterprise data generally requires a hybrid approach.",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "No single customer identifier is shared across all three systems, and the organization name, address, and email address differ between the records. An entity resolution framework could process them as follows:",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Entity resolution tools offer significant advantages over traditional manual or rule-based ER methods. These include:",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Measure Entity Resolution Quality",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Choose the Right Entity Resolution Software",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "No. Some implementations only identify and group records belonging to the same entity while preserving every source record. Creating a golden record is a separate canonicalization step that applies survivorship rules to select the preferred values for the resolved entity.",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "What Are Entity Graphs and How to Build One You Can Trust",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The precision/recall/F-score framework above is the stable, vendor-neutral way to score matching quality. What has sharpened since 2026 is how teams turn those scores into an operational",
+    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "how to evaluate entity resolution systems (Binette et al., 2024)",
+    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pairwise metrics alone can misrepresent how well records are grouped into correct entities.",
+    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Measure both. The classic pairwise approach scores each candidate pair, but research on evaluating entity resolution systems argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pair-based metrics alone can misrepresent how well records are grouped into correct entities.",
+    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How does entity resolution work? Three key steps",
+    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "follows three main steps to connect and unify records across disparate data sources.",
+    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A best practice for entity resolution is to combine deterministic and probabilistic methods rather than relying on one alone.",
+    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Layer probabilistic methods:",
+    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Entity resolution techniques include deterministic matching using exact identifiers, fuzzy matching for similar records, and probabilistic methods that calculate match likelihood based on multiple attributes.",
+    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This guide compares Senzing, Quantexa, Tamr, Informatica, and IBM Match 360 for different enterprise requirements. It explains how resolution works, where each product fits, and how to evaluate candidates using your own data. The shortlist covers embedded matching, investigation platforms, and master data management rather than treating them as interchangeable purchases.",
+    "url": "https://www.puppygraph.com/learn/best-entity-resolution-software",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Office for National Statistics' data linkage methodology",
+    "url": "https://www.puppygraph.com/learn/best-entity-resolution-software",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Consider Quantexa when the deliverable includes investigation or network analysis, such as understanding connections among customers, businesses, and transactions. In a hypothetical fraud investigation, matching company records is only the first step. The analyst also needs to examine ownership and payment relationships without collapsing every connected organization into a single entity.",
+    "url": "https://www.puppygraph.com/learn/best-entity-resolution-software",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to choose the right entity resolution software",
+    "url": "https://www.puppygraph.com/learn/best-entity-resolution-software",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Accelerate every step of your MDM workflow with an AI assistant",
+    "url": "https://profisee.com/solutions/initiatives/entity-resolution-software/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Entity resolution tools handle data by putting it into a common format, then comparing records on several fields at once to decide which ones describe the same entity. This process allows an entity resolution platform to match records even when there’s no shared ID, a name has a typo or an address uses an abbreviation. Most tools combine four matching methods:",
+    "url": "https://profisee.com/solutions/initiatives/entity-resolution-software/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Profisee adds AI Similarity Matching, which compares what values mean instead of how they look, so “30” and “Thirty” count as a match. See how we combine these methods in our",
+    "url": "https://profisee.com/solutions/initiatives/entity-resolution-software/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ": the foundation of effective entity data management. Steps include:",
+    "url": "https://profisee.com/solutions/initiatives/entity-resolution-software/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Follow these steps to implement entity resolution within an MDM solution:",
+    "url": "https://profisee.com/solutions/initiatives/entity-resolution-software/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Using an MDM solution like Profisee, integrate the source systems you identified in step 2 to match records and remove duplicates. Prioritize survivorship capabilities so you keep only the most accurate, up-to-date information about each entity, then standardize those records against your governance policies to produce trusted golden records.",
+    "url": "https://profisee.com/solutions/initiatives/entity-resolution-software/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The foundational computational methods used to determine whether two or more disparate data records refer to the same real-world entity, enabling the construction of a unified, non-redundant canonical view.",
+    "url": "https://inferensys.com/glossary/algorithmic-trust-and-authority-signals/canonicalization-strategies/entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ". This method relies on unique, high-quality keys such as Social Security Numbers, email addresses, or composite business keys.",
+    "url": "https://inferensys.com/glossary/algorithmic-trust-and-authority-signals/canonicalization-strategies/entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "that two records refer to the same entity, even when data contains errors, omissions, or inconsistencies. The Fellegi-Sunter model is the classic framework, assigning agreement and disagreement weights to each field.",
+    "url": "https://inferensys.com/glossary/algorithmic-trust-and-authority-signals/canonicalization-strategies/entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Keep each match as a record with score, method, reviewer, and time; merge only in the system of record.",
+    "url": "https://atlan.com/know/ai-agent/ontology/what-is-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "record the source, method, reviewer, time, and run behind every match.",
+    "url": "https://atlan.com/know/ai-agent/ontology/what-is-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The database, semantic Web, and machine learning communities have each proposed entity resolution methods, according to a",
+    "url": "https://atlan.com/know/ai-agent/ontology/what-is-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A typical entity resolution pipeline runs five steps: standardize the records, block them into candidate groups, score pairs, cluster the matches, and decide whether to link or merge. Standardizing makes “ACME HOLDINGS LIMITED” and “Acme Holdings Ltd” compare cleanly.",
+    "url": "https://atlan.com/know/ai-agent/ontology/what-is-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Clustering is where errors compound. If A matches B and B matches C, a simple clustering step puts A and C together, with no OWL anywhere in the stack. Cap cluster size, and review any record that bridges two clusters.",
+    "url": "https://atlan.com/know/ai-agent/ontology/what-is-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ex:method \"normalized name + phone\" ;",
+    "url": "https://atlan.com/know/ai-agent/ontology/what-is-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ex:method \"fuzzy name + phone\" ;",
+    "url": "https://atlan.com/know/ai-agent/ontology/what-is-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "with score, method, status, reviewer, time,",
+    "url": "https://atlan.com/know/ai-agent/ontology/what-is-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to choose survivorship rules and keep provenance",
+    "url": "https://atlan.com/know/ai-agent/ontology/what-is-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "from each surviving value to its source, and keep match records with method and reviewer",
+    "url": "https://atlan.com/know/ai-agent/ontology/what-is-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Probabilistic methods combine several pieces of evidence and estimate how strongly a pair resembles a true match versus a non-match.",
+    "url": "https://edukatesingapore.com/2026/09/10/data-deduplication-and-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Fuzzy string methods measure similarity between names, addresses or text values.",
+    "url": "https://edukatesingapore.com/2026/09/10/data-deduplication-and-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The same learning habit can travel across subjects, while each subject keeps its own methods. These routes help you notice a difficulty, understand one part of it, and return to something you can do.",
+    "url": "https://edukatesingapore.com/2026/09/10/data-deduplication-and-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For a Secondary 4 A-Math question you have attempted, locate the first uncertain line. Repair that step, then try a comparable question without the worked answer.",
+    "url": "https://edukatesingapore.com/2026/09/10/data-deduplication-and-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Choose one small task the child has practised. Agree on a calm, brief attempt without prompts. Use what happens to choose one next step, then stop.",
+    "url": "https://edukatesingapore.com/2026/09/10/data-deduplication-and-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ", rather than in a step somebody remembers to run before the monthly load.",
+    "url": "https://prolyz.com/blog/master-data-management-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Prolyz runs standardisation and enrichment as steps inside the ingestion pipeline, before records land in the common data model, so matching operates on normalised values rather than raw ones.",
+    "url": "https://prolyz.com/blog/master-data-management-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Offers a Spark-based framework for engineering-led implementations",
+    "url": "https://dataladder.com/best-entity-resolution-software/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "We selected platforms that offer entity resolution as a documented capability and represent distinct implementation categories, including data quality software, embedded ER engines, graph-based investigation platforms, master data management systems, managed cloud services and open-source frameworks.",
+    "url": "https://dataladder.com/best-entity-resolution-software/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Exact, fuzzy, rule-based, probabilistic, machine-learning, graph-based or hybrid methods",
+    "url": "https://dataladder.com/best-entity-resolution-software/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "10-million-record benchmark methodology",
+    "url": "https://dataladder.com/best-entity-resolution-software/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Reltio supports configurable match rules, match-level cleansing, fuzzy comparison methods and AI-powered entity resolution. Records identified as representing the same entity can be consolidated into profiles with persistent identifiers, source crosswalks and dynamically calculated survivorship values.",
+    "url": "https://dataladder.com/best-entity-resolution-software/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Data engineering teams that want an open-source, machine-learning-based entity resolution framework they can configure and run within their own data infrastructure.",
+    "url": "https://dataladder.com/best-entity-resolution-software/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Open-source entity resolution framework with commercial enterprise editions",
+    "url": "https://dataladder.com/best-entity-resolution-software/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Public 10M-record performance methodology, comparative studies and customer reviews",
+    "url": "https://dataladder.com/best-entity-resolution-software/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Evaluate Entity Resolution Software",
+    "url": "https://dataladder.com/best-entity-resolution-software/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "No. Entity resolution can use deterministic rules, exact matching, fuzzy comparisons, probabilistic methods, machine learning or a combination of techniques. Machine learning can reduce manual rule creation in some cases, but it may introduce requirements for training data, feedback, monitoring and model explainability.",
+    "url": "https://dataladder.com/best-entity-resolution-software/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "What Are Entity Graphs and How to Build One You Can Trust",
+    "url": "https://dataladder.com/best-entity-resolution-software/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "突き合わせ・推定": [
+   {
+    "quote": "Principled, interpretable, can estimate without labels",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "For each field, estimate two probabilities:",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "You rarely have a labelled answer key, and Pew found the same in healthcare. Estimate precision by reviewing a random sample of declared matches, and estimate recall by sampling across score bands or seeding known duplicates.",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
    {
     "quote": "argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pairwise metrics alone can misrepresent how well records are grouped into correct entities.",
     "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution",
@@ -180,7 +634,179 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Survivorship Rules and Golden Records | Entity Bind — Oct 12, 2026 · Modelled as a field, survivorship can drop pass-through facts before assembling a record that will be stored, and an export can be filtered to what is genuinely redistributable. Per-field provenance also makes disagreement legible instead of embarrassing.",
+    "url": "https://entitybind.com/guides/survivorship-and-golden-records",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Golden records: what entity resolution actually decides — Aug 29, 2026 · Entity resolution decides which records are the same thing; survivorship decides which value survives into the golden record. Deterministic rules resolve the clean majority, probabilistic scoring handles the residue, and the threshold you choose is a business decision about whether a false merge or a missed duplicate costs mo",
+    "url": "https://prolyz.com/blog/master-data-management-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Solved: Blueprint: Entity Resolution (Dedup & Golden Record ... — Mar 14, 2026 · Clustering --> They then group matched pairs into clusters/entities (e.g., using graph‑style connected‑components logic) to get from pairwise to entity‑level views. Golden‑record selection --> Each accelerator includes examples of deterministic survivorship rules (recency, completeness, source priority) to pick the be",
+    "url": "https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "What entity resolution is, how it works step by step, how to measure it, and where enterprises use it, with a worked example, primary sources and the challenges to plan for.",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "Never write a field from a source that only identifies something adjacent. An address on a trademark filing is the address the filer had when they filed, not the company's registered address, and folding it in silently competes against a register whose job is to be current.",
+    "url": "https://entitybind.com/guides/survivorship-and-golden-records",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2. Data Profiling and Standardization",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Matching records across heterogeneous datasets (e.g., SQL and NoSQL databases, spreadsheets, PDFs) can be exceptionally difficult due to different types of entities, encoding, formatting, languages, and schemas. Converting all this different type of data into a pre-defined schema through schema-matching and data exchange is a risky process and can result in the loss of valuable information.",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example, a government institution performing ER to identify (and prevent) fraudulent tax filings would find manual ER approaches and algorithms severely restricting and overwhelming. The sheer volume of the data in government databases (they have millions, if not trillions, of records) and the complexity of blocking techniques would make the efforts futile.",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2. Scalable Data Profiling and Cleansing",
+    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "3. Linking and profiling",
+    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "PDF and DOCX manifestations of one document;",
+    "url": "https://edukatesingapore.com/2026/09/10/data-deduplication-and-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A repository contains five identical copies of a PDF and one later corrected edition. Checksums collapse the exact copies into one storage identity, while the corrected edition remains a distinct version linked to the same logical document.",
+    "url": "https://edukatesingapore.com/2026/09/10/data-deduplication-and-entity-resolution/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Combines profiling, cleansing, matching, deduplication and golden-record creation in a code-free workflow",
+    "url": "https://dataladder.com/best-entity-resolution-software/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "実例": [
+   {
+    "quote": "What entity resolution is, how it works step by step, how to measure it, and where enterprises use it, with a worked example, primary sources and the challenges to plan for.",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "The two errors, false merges and missed matches, are not equally costly, so the right threshold depends on the use case.",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "jon.smith@example.net",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "Case, spacing and punctuation",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "The “1–10–100 rule” is often used to argue the cost case: roughly $1 to prevent a bad record, $10 to fix it later, $100 to live with it (",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "Profile the sources, then standardise: parse names and addresses into components, normalise case and punctuation, convert phones to one format, expand abbreviations and map nicknames (“Jon” to “Jonathan”). Preparation raises match quality, but don’t destroy the originals, which you need for display and audit.",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "Resolves cases attributes alone cannot",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "A worked example (illustrative)",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "Precision is the share of declared matches that are correct (TP/(TP+FP)). Recall is the share of true matches you found (TP/(TP+FN)). F1 is their harmonic mean. Example: a run declares 1,000 matching pairs and 950 are right, while there were 1,250 true pairs. Precision is 95%, recall is 76% and F1 is about 0.84.",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "Pew found healthcare institutions tend to err toward avoiding false merges, so failure to link a patient’s own records is the more common problem. In sanctions screening a missed match is the costly error, while false positives burden analysts. In marketing a missed duplicate is usually minor. Set thresholds per use case.",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "resolves a record as it arrives, for example at sign-up or transaction time. Most organisations need a batch-resolved base plus incremental or real-time updates against it. See",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "Entity resolution use cases",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "The number of rules grows without bound. New sources, formats and volumes force constant updates, and corner cases still slip through.",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "Set thresholds per use case, not globally.",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "It depends on the data, the method and where you set the threshold. Measure precision and recall on a labelled sample, and expect to trade one against the other. The right balance differs by use case: sanctions screening and patient matching tolerate errors very differently from marketing.",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
    {
     "quote": "By use case and by industry.",
     "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution",
@@ -896,516 +1522,46 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "検索結果の抜粋": [
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
    {
-    "quote": "Survivorship Rules and Golden Records | Entity Bind — Oct 12, 2026 · Modelled as a field, survivorship can drop pass-through facts before assembling a record that will be stored, and an export can be filtered to what is genuinely redistributable. Per-field provenance also makes disagreement legible instead of embarrassing.",
-    "url": "https://entitybind.com/guides/survivorship-and-golden-records",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Golden records: what entity resolution actually decides — Aug 29, 2026 · Entity resolution decides which records are the same thing; survivorship decides which value survives into the golden record. Deterministic rules resolve the clean majority, probabilistic scoring handles the residue, and the threshold you choose is a business decision about whether a false merge or a missed duplicate costs mo",
-    "url": "https://prolyz.com/blog/master-data-management-entity-resolution",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Solved: Blueprint: Entity Resolution (Dedup & Golden Record ... — Mar 14, 2026 · Clustering --> They then group matched pairs into clusters/entities (e.g., using graph‑style connected‑components logic) to get from pairwise to entity‑level views. Golden‑record selection --> Each accelerator includes examples of deterministic survivorship rules (recency, completeness, source priority) to pick the be",
-    "url": "https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "Merging and survivorship are different steps",
-    "url": "https://entitybind.com/guides/survivorship-and-golden-records",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Merging decides which records belong together. Survivorship decides what the resulting entity looks like. A wrong merge shows up as a golden record containing two companies' addresses; a survivorship bug shows up as a correctly merged entity displaying a stale address. Those need different fixes, and a system that assembles the record inside the merge step cannot tell you which one happened.",
-    "url": "https://entitybind.com/guides/survivorship-and-golden-records",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "The recency step needs a timestamp, and there are several available. Choosing the wrong one is a quiet, persistent source of stale golden records.",
-    "url": "https://entitybind.com/guides/survivorship-and-golden-records",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Merging and survivorship are separate steps with separate failure modes, and keeping them separate is what makes an unmerge possible.",
-    "url": "https://entitybind.com/guides/survivorship-and-golden-records",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "7 pages name this method as the working behind what they claim.",
-    "url": "https://entitybind.com/guides/survivorship-and-golden-records",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "; the gate figures come from the stub-adjudicated continuous-integration run and are a floor rather than a ceiling. The two are never averaged. Entity Bind holds no SOC 2, no ISO 27001 and no other certification, and claims none. Every figure, with the population it was measured over and the method behind both recordings, is set out on",
-    "url": "https://entitybind.com/guides/survivorship-and-golden-records",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "The precision/recall/F-score framework above is the stable, vendor-neutral way to score matching quality. What has sharpened since 2026 is how teams turn those scores into an operational",
-    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution",
+    "quote": "Megha Sharma - AI Product Manager | B2B SaaS ... - LinkedInPiyush Kumar - Product @zomato || Ex TCS || Ex bettercoach ...Senior Product Manager, Data at CertifyOS — Bengaluru ...The Quiet Violence of Survivorship Rules - LinkedIn 🔍 GOLDEN ENTITY RESOLUTION Architected a production Golden Entity Resolution engine applying deterministic + probabilistic matching to canonicalize master records across ",
+    "url": "https://ca.linkedin.com/in/megha-sharma-21713080",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "how to evaluate entity resolution systems (Binette et al., 2024)",
-    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pairwise metrics alone can misrepresent how well records are grouped into correct entities.",
-    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Measure both. The classic pairwise approach scores each candidate pair, but research on evaluating entity resolution systems argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pair-based metrics alone can misrepresent how well records are grouped into correct entities.",
-    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Agentic simulation: when the AI chooses how to simulate",
-    "url": "https://prolyz.com/blog/master-data-management-entity-resolution",
+    "quote": "Megha Sharma - AI Product Manager | B2B SaaS ... - LinkedInPiyush Kumar - Product @zomato || Ex TCS || Ex bettercoach ...What Are Survivorship Rules and Why Do They Matter? A Real ...The Quiet Violence of Survivorship Rules - LinkedIn 🔍 GOLDEN ENTITY RESOLUTION Architected a production Golden Entity Resolution engine applying deterministic + probabilistic matching to canonicalize master records ac",
+    "url": "https://ca.linkedin.com/in/megha-sharma-21713080",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "No single matching method wins",
-    "url": "https://performalytic.com/blog/entity-resolution-ai/",
+    "quote": "#informaticamdm #goldenrecord #datasurvivorship # ... 🔍 Mastering Survivorship Rules in Informatica MDM: How a Golden Record Is Created Step by Step One of the most powerful features of Informatica MDM is its ability to apply intelligent Survivorship Rules to consolidate conflicting data from multiple sources into a single, trusted Golden Record. 📊 In the example in the below image, records from M",
+    "url": "https://pe.linkedin.com/posts/alisherif98_informaticamdm-goldenrecord-datasurvivorship-activity-7312932733381492739-Glrp",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Entity resolution is the step in the",
-    "url": "https://performalytic.com/blog/entity-resolution-ai/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "practical Entity Resolution / Deduplication framework on Databricks",
-    "url": "https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "show how to compute multi‑field similarity scores (string distance, embeddings, etc.) and assemble a single match score per pair.",
-    "url": "https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "tart with multiple composite keys (e.g. phonetic last name + postcode, email username + domain, etc.), plus a semantic/vector‑based candidate retrieval step for messy text.",
-    "url": "https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "and then adapting each notebook step to your domain instead of rebuilding the framework from scratch.",
-    "url": "https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Explore the best unified data analytics platforms, their architecture, features, benefits, use cases, and how to choose the right solution for your business.",
-    "url": "https://www.puppygraph.com/learn/best-entity-resolution-software",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "offer managed matching services or customizable frameworks for teams that want to build entity resolution within an existing data platform.",
-    "url": "https://dataladder.com/best-entity-resolution-software/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Entity Resolution for Enterprise Data: How It Works, Where It Fails, and How to Choose the Right Tool",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "quote": "What Are Survivorship Rules and Why Do They Matter? A Real ... Jul 16, 2026 · What Are Survivorship Rules? Survivorship Rules are business-defined policies that determine which attribute value becomes part of the Golden Record when multiple source systems provide different ...",
+    "url": "https://www.linkedin.com/pulse/what-survivorship-rules-why-do-matter-real-world-guide-reltio-422bf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Deduplication is often one step within entity resolution. Deduplication generally identifies duplicate records within a dataset, whereas entity resolution can connect related records across multiple sources and determine which records collectively represent the same real-world entity.",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "quote": "What Are Survivorship Rules and Why Do They Matter? A Real ... Jul 16, 2026 · Survivorship Rules are business-defined policies that determine which attribute value becomes part of the Golden Record when multiple source systems provide different values.",
+    "url": "https://www.linkedin.com/pulse/what-survivorship-rules-why-do-matter-real-world-guide-reltio-422bf",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "What Is an Entity Resolution Framework?",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
+    "quote": "#informaticamdm #goldenrecord #datasurvivorship # ... To determine the most accurate values, Informatica MDM applies survivorship rules in a defined sequence.",
+    "url": "https://pe.linkedin.com/posts/alisherif98_informaticamdm-goldenrecord-datasurvivorship-activity-7312932733381492739-Glrp",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "An entity resolution framework is the end-to-end process used to identify which records refer to the same real-world entity. It defines how data is prepared, how potential matches are generated and evaluated, how related records are grouped, and how uncertain decisions are reviewed and monitored.",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A complete enterprise entity resolution framework generally includes the following stages:",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Candidate records are compared across relevant attributes. Different fields may require different comparison methods.",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The right approach depends on the entity type, data quality, available identifiers, acceptable error rates, and the consequences of an incorrect decision. Exact or deterministic methods may be sufficient for clean data with dependable identifiers, while inconsistent and incomplete enterprise data generally requires a hybrid approach.",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "No single customer identifier is shared across all three systems, and the organization name, address, and email address differ between the records. An entity resolution framework could process them as follows:",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Entity resolution tools offer significant advantages over traditional manual or rule-based ER methods. These include:",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Measure Entity Resolution Quality",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Choose the Right Entity Resolution Software",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "No. Some implementations only identify and group records belonging to the same entity while preserving every source record. Creating a golden record is a separate canonicalization step that applies survivorship rules to select the preferred values for the resolved entity.",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "What Are Entity Graphs and How to Build One You Can Trust",
-    "url": "https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The precision/recall/F-score framework above is the stable, vendor-neutral way to score matching quality. What has sharpened since 2026 is how teams turn those scores into an operational",
-    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "how to evaluate entity resolution systems (Binette et al., 2024)",
-    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pairwise metrics alone can misrepresent how well records are grouped into correct entities.",
-    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Measure both. The classic pairwise approach scores each candidate pair, but research on evaluating entity resolution systems argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pair-based metrics alone can misrepresent how well records are grouped into correct entities.",
-    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How does entity resolution work? Three key steps",
-    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "follows three main steps to connect and unify records across disparate data sources.",
-    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A best practice for entity resolution is to combine deterministic and probabilistic methods rather than relying on one alone.",
-    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Layer probabilistic methods:",
-    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Entity resolution techniques include deterministic matching using exact identifiers, fuzzy matching for similar records, and probabilistic methods that calculate match likelihood based on multiple attributes.",
-    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This guide compares Senzing, Quantexa, Tamr, Informatica, and IBM Match 360 for different enterprise requirements. It explains how resolution works, where each product fits, and how to evaluate candidates using your own data. The shortlist covers embedded matching, investigation platforms, and master data management rather than treating them as interchangeable purchases.",
-    "url": "https://www.puppygraph.com/learn/best-entity-resolution-software",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Office for National Statistics' data linkage methodology",
-    "url": "https://www.puppygraph.com/learn/best-entity-resolution-software",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Consider Quantexa when the deliverable includes investigation or network analysis, such as understanding connections among customers, businesses, and transactions. In a hypothetical fraud investigation, matching company records is only the first step. The analyst also needs to examine ownership and payment relationships without collapsing every connected organization into a single entity.",
-    "url": "https://www.puppygraph.com/learn/best-entity-resolution-software",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to choose the right entity resolution software",
-    "url": "https://www.puppygraph.com/learn/best-entity-resolution-software",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Accelerate every step of your MDM workflow with an AI assistant",
-    "url": "https://profisee.com/solutions/initiatives/entity-resolution-software/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Entity resolution tools handle data by putting it into a common format, then comparing records on several fields at once to decide which ones describe the same entity. This process allows an entity resolution platform to match records even when there’s no shared ID, a name has a typo or an address uses an abbreviation. Most tools combine four matching methods:",
-    "url": "https://profisee.com/solutions/initiatives/entity-resolution-software/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Profisee adds AI Similarity Matching, which compares what values mean instead of how they look, so “30” and “Thirty” count as a match. See how we combine these methods in our",
-    "url": "https://profisee.com/solutions/initiatives/entity-resolution-software/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ": the foundation of effective entity data management. Steps include:",
-    "url": "https://profisee.com/solutions/initiatives/entity-resolution-software/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Follow these steps to implement entity resolution within an MDM solution:",
-    "url": "https://profisee.com/solutions/initiatives/entity-resolution-software/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Using an MDM solution like Profisee, integrate the source systems you identified in step 2 to match records and remove duplicates. Prioritize survivorship capabilities so you keep only the most accurate, up-to-date information about each entity, then standardize those records against your governance policies to produce trusted golden records.",
-    "url": "https://profisee.com/solutions/initiatives/entity-resolution-software/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The foundational computational methods used to determine whether two or more disparate data records refer to the same real-world entity, enabling the construction of a unified, non-redundant canonical view.",
-    "url": "https://inferensys.com/glossary/algorithmic-trust-and-authority-signals/canonicalization-strategies/entity-resolution",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ". This method relies on unique, high-quality keys such as Social Security Numbers, email addresses, or composite business keys.",
-    "url": "https://inferensys.com/glossary/algorithmic-trust-and-authority-signals/canonicalization-strategies/entity-resolution",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "that two records refer to the same entity, even when data contains errors, omissions, or inconsistencies. The Fellegi-Sunter model is the classic framework, assigning agreement and disagreement weights to each field.",
-    "url": "https://inferensys.com/glossary/algorithmic-trust-and-authority-signals/canonicalization-strategies/entity-resolution",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Keep each match as a record with score, method, reviewer, and time; merge only in the system of record.",
-    "url": "https://atlan.com/know/ai-agent/ontology/what-is-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "record the source, method, reviewer, time, and run behind every match.",
-    "url": "https://atlan.com/know/ai-agent/ontology/what-is-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The database, semantic Web, and machine learning communities have each proposed entity resolution methods, according to a",
-    "url": "https://atlan.com/know/ai-agent/ontology/what-is-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A typical entity resolution pipeline runs five steps: standardize the records, block them into candidate groups, score pairs, cluster the matches, and decide whether to link or merge. Standardizing makes “ACME HOLDINGS LIMITED” and “Acme Holdings Ltd” compare cleanly.",
-    "url": "https://atlan.com/know/ai-agent/ontology/what-is-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Clustering is where errors compound. If A matches B and B matches C, a simple clustering step puts A and C together, with no OWL anywhere in the stack. Cap cluster size, and review any record that bridges two clusters.",
-    "url": "https://atlan.com/know/ai-agent/ontology/what-is-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ex:method \"normalized name + phone\" ;",
-    "url": "https://atlan.com/know/ai-agent/ontology/what-is-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ex:method \"fuzzy name + phone\" ;",
-    "url": "https://atlan.com/know/ai-agent/ontology/what-is-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "with score, method, status, reviewer, time,",
-    "url": "https://atlan.com/know/ai-agent/ontology/what-is-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to choose survivorship rules and keep provenance",
-    "url": "https://atlan.com/know/ai-agent/ontology/what-is-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "from each surviving value to its source, and keep match records with method and reviewer",
-    "url": "https://atlan.com/know/ai-agent/ontology/what-is-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Probabilistic methods combine several pieces of evidence and estimate how strongly a pair resembles a true match versus a non-match.",
-    "url": "https://edukatesingapore.com/2026/09/10/data-deduplication-and-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Fuzzy string methods measure similarity between names, addresses or text values.",
-    "url": "https://edukatesingapore.com/2026/09/10/data-deduplication-and-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The same learning habit can travel across subjects, while each subject keeps its own methods. These routes help you notice a difficulty, understand one part of it, and return to something you can do.",
-    "url": "https://edukatesingapore.com/2026/09/10/data-deduplication-and-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For a Secondary 4 A-Math question you have attempted, locate the first uncertain line. Repair that step, then try a comparable question without the worked answer.",
-    "url": "https://edukatesingapore.com/2026/09/10/data-deduplication-and-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Choose one small task the child has practised. Agree on a calm, brief attempt without prompts. Use what happens to choose one next step, then stop.",
-    "url": "https://edukatesingapore.com/2026/09/10/data-deduplication-and-entity-resolution/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ", rather than in a step somebody remembers to run before the monthly load.",
-    "url": "https://prolyz.com/blog/master-data-management-entity-resolution",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Prolyz runs standardisation and enrichment as steps inside the ingestion pipeline, before records land in the common data model, so matching operates on normalised values rather than raw ones.",
-    "url": "https://prolyz.com/blog/master-data-management-entity-resolution",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Offers a Spark-based framework for engineering-led implementations",
-    "url": "https://dataladder.com/best-entity-resolution-software/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "We selected platforms that offer entity resolution as a documented capability and represent distinct implementation categories, including data quality software, embedded ER engines, graph-based investigation platforms, master data management systems, managed cloud services and open-source frameworks.",
-    "url": "https://dataladder.com/best-entity-resolution-software/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Exact, fuzzy, rule-based, probabilistic, machine-learning, graph-based or hybrid methods",
-    "url": "https://dataladder.com/best-entity-resolution-software/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "10-million-record benchmark methodology",
-    "url": "https://dataladder.com/best-entity-resolution-software/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Reltio supports configurable match rules, match-level cleansing, fuzzy comparison methods and AI-powered entity resolution. Records identified as representing the same entity can be consolidated into profiles with persistent identifiers, source crosswalks and dynamically calculated survivorship values.",
-    "url": "https://dataladder.com/best-entity-resolution-software/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Data engineering teams that want an open-source, machine-learning-based entity resolution framework they can configure and run within their own data infrastructure.",
-    "url": "https://dataladder.com/best-entity-resolution-software/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Open-source entity resolution framework with commercial enterprise editions",
-    "url": "https://dataladder.com/best-entity-resolution-software/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Public 10M-record performance methodology, comparative studies and customer reviews",
-    "url": "https://dataladder.com/best-entity-resolution-software/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Evaluate Entity Resolution Software",
-    "url": "https://dataladder.com/best-entity-resolution-software/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "No. Entity resolution can use deterministic rules, exact matching, fuzzy comparisons, probabilistic methods, machine learning or a combination of techniques. Machine learning can reduce manual rule creation in some cases, but it may introduce requirements for training data, feedback, monitoring and model explainability.",
-    "url": "https://dataladder.com/best-entity-resolution-software/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "What Are Entity Graphs and How to Build One You Can Trust",
-    "url": "https://dataladder.com/best-entity-resolution-software/",
+    "quote": "Megha Sharma - AI Product Manager | B2B SaaS ... - LinkedInPiyush Kumar - Product @zomato || Ex TCS || Ex bettercoach ...Giriraj Gupta - Grade A Officer at NABARD (Govt of India ...Entity Resolution with Clear Survivorship Rules and ... 🔍 GOLDEN ENTITY RESOLUTION Architected a production Golden Entity Resolution engine applying deterministic + probabilistic matching to canonicalize master records ",
+    "url": "https://ca.linkedin.com/in/megha-sharma-21713080",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -1425,27 +1581,47 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/hiroshi_gomi/n/n4445143e5cbc",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/daikidomon/n/n3a746d0a5c61",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/nowready/n/nb595718f9b4d",
+    "url": "https://note.com/kabumayuge/n/n73afe9d075b9",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/hiro_forge_mfg/n/n0f83f69a7901",
+    "url": "https://note.com/itso_/n/n6115daec7620",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://qiita.com/kenken38/items/25a78d5e0041ca2f1cd2",
+    "url": "https://note.com/hiroshi_gomi/n/n4445143e5cbc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://since2020.jp/media/f1-precision-recall/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://datastudydock.com/precision-recall-f1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ultralytics.com/ja/blog/accuracy-precision-recall",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://app.testgorilla.com/preview/825639?language=ja-jp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://siguniang.wordpress.com/2016/01/10/notes-on-information-retrieval-precision-recall-f1-score/",
     "status": "ok",
     "method": "http"
    },
@@ -1455,59 +1631,94 @@
     "method": "http"
    },
    {
-    "url": "https://awsi.click/ja/articles/customer-identity-resolution/",
+    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vKmlVoOyXGPB_mHPsrAoPcelYEhxyQqgkjkIaA8XCc2r60OF9Tk",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://otsumu.co.jp/knowledge/glossary/terms/precision-recall.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.tech-tldr.com/aws/analytics/entity-resolution/",
+    "url": "https://cryptul.co.jp/insights/articles/236-precision-recall-threshold-design",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://dev.classmethod.jp/articles/aws-entity-resolution-ml-base-matching/",
+    "url": "https://note.com/kikaben/n/nc457443773b7",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://aibr.jp/archives/480042",
+    "url": "https://techsword.co.jp/column/how-to-evaluate-ai",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://performalytic.com/blog/entity-resolution-ai/",
+    "url": "https://www.nrm.jp/denshi/denshi015",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://entitybind.com/guides/survivorship-and-golden-records",
+    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://edukatesingapore.com/2026/09/10/data-deduplication-and-entity-resolution/",
+    "url": "https://hybrid-analysis.com/sample/8e04d6fa10f00c1156d860013ba07d5e3e337f420b8f663f01fc5c904c44babb/5c0f94bd7ca3e1729514a743",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://prolyz.com/blog/master-data-management-entity-resolution",
+    "url": "https://researchmap.jp/blogs/blog_entries/view/143851/cf29de114fa73c109536ac188d7e0345?lang=en",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
-    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution",
+    "url": "https://www.synapsesocial.com/ja/papers/69b6068883145bc643d1c873",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
-    "url": "https://atlan.com/know/ai-agent/ontology/what-is-entity-resolution/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://pe.linkedin.com/posts/alisherif98_informaticamdm-goldenrecord-datasurvivorship-activity-7312932733381492739-Glrp",
+    "url": "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20181001-00000053-impress-sci&lang=ja",
     "status": "robots_disallowed",
     "method": ""
+   },
+   {
+    "url": "https://imis.igaku-shoin.co.jp/journal/contents/_internal/916e4697-8258-43ff-90a5-1107eb44906e/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://dataladder.com/best-entity-resolution-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rudderstack.com/blog/what-is-entity-resolution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arxiv.org/html/2607.26298v1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://profisee.com/solutions/initiatives/entity-resolution-software/",
+    "status": "ok",
+    "method": "http"
    }
   ]
  },
@@ -1517,80 +1728,94 @@
    "results": [
     "https://note.com/newvillage/n/n116ed3b4c104",
     "https://note.com/ishikawa_dx/n/n6f4b5ae59351",
-    "https://note.com/hiroshi_gomi/n/n4445143e5cbc",
     "https://note.com/daikidomon/n/n3a746d0a5c61",
-    "https://note.com/nowready/n/nb595718f9b4d",
-    "https://note.com/hiro_forge_mfg/n/n0f83f69a7901",
-    "https://note.com/suhahide/n/n288a3e1ba34a"
+    "https://note.com/kabumayuge/n/n73afe9d075b9",
+    "https://note.com/itso_/n/n6115daec7620",
+    "https://note.com/hiroshi_gomi/n/n4445143e5cbc",
+    "https://note.com/kompas_note_2025/n/n5470c016c292"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
   {
    "query": "代表値の採り方と照合の品質（entity resolution の survivorship・精度と再現率） note",
    "results": [
-    "https://aws.amazon.com/jp/blogs/news/aws-entity-resolution-for-health-data/",
-    "https://qiita.com/kenken38/items/25a78d5e0041ca2f1cd2",
+    "https://since2020.jp/media/f1-precision-recall/",
+    "https://datastudydock.com/precision-recall-f1/",
+    "https://www.ultralytics.com/ja/blog/accuracy-precision-recall",
+    "https://app.testgorilla.com/preview/825639?language=ja-jp",
+    "https://siguniang.wordpress.com/2016/01/10/notes-on-information-retrieval-precision-recall-f1-score/",
     "https://zenn.dev/data_and_ai/articles/2f6fffbd6ab45d",
-    "https://awsi.click/ja/articles/customer-identity-resolution/",
-    "https://note.com/newvillage/n/n116ed3b4c104",
-    "https://aws.amazon.com/jp/blogs/news/measuring-the-accuracy-of-rule-or-ml-based-matching-in-aws-entity-resolution/",
-    "https://docs.aws.amazon.com/ja_jp/entityresolution/latest/userguide/create-matching-workflow.html"
+    "https://note.com/zono_data/n/n620b48d2b49f",
+    "https://lab.ludashi.com/evaluation/article/59",
+    "https://hybrid-analysis.com/sample/b63d5b8585089b9b5b828eaa356e22e6d772c60ed5f041fb20aa5ecb12701e83/6a1c162eccf95c43a00287f6"
    ],
    "engines": [
-    "ddgs:google"
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 9
   },
   {
    "query": "代表値の採り方と照合の品質（entity resolution の survivorship・精度と再現率） やり方",
    "results": [
-    "https://www.tech-tldr.com/aws/analytics/entity-resolution/",
-    "https://zenn.dev/data_and_ai/articles/2f6fffbd6ab45d",
-    "https://dev.classmethod.jp/articles/aws-entity-resolution-ml-base-matching/",
-    "https://aws.amazon.com/jp/blogs/news/measuring-the-accuracy-of-rule-or-ml-based-matching-in-aws-entity-resolution/",
-    "https://docs.aws.amazon.com/ja_jp/entityresolution/latest/userguide/create-matching-workflow.html",
-    "https://qiita.com/kenken38/items/25a78d5e0041ca2f1cd2",
-    "https://aws.amazon.com/jp/blogs/news/aws-entity-resolution-for-health-data/"
+    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vKmlVoOyXGPB_mHPsrAoPcelYEhxyQqgkjkIaA8XCc2r60OF9Tk",
+    "https://otsumu.co.jp/knowledge/glossary/terms/precision-recall.html",
+    "https://since2020.jp/media/f1-precision-recall/",
+    "https://cryptul.co.jp/insights/articles/236-precision-recall-threshold-design",
+    "https://note.com/kikaben/n/nc457443773b7",
+    "https://techsword.co.jp/column/how-to-evaluate-ai",
+    "https://www.ultralytics.com/ja/blog/accuracy-precision-recall",
+    "https://www.nrm.jp/denshi/denshi015",
+    "https://siguniang.wordpress.com/2016/01/10/notes-on-information-retrieval-precision-recall-f1-score/",
+    "https://www.tech-tldr.com/aws/analytics/entity-resolution/"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "代表値の採り方と照合の品質（entity resolution の survivorship・精度と再現率） 事例",
    "results": [
-    "https://aws.amazon.com/jp/blogs/news/aws-entity-resolution-for-health-data/",
+    "https://since2020.jp/media/f1-precision-recall/",
     "https://zenn.dev/data_and_ai/articles/2f6fffbd6ab45d",
-    "https://qiita.com/kenken38/items/25a78d5e0041ca2f1cd2",
-    "https://aws.amazon.com/jp/blogs/news/measuring-the-accuracy-of-rule-or-ml-based-matching-in-aws-entity-resolution/",
-    "https://docs.aws.amazon.com/ja_jp/entityresolution/latest/userguide/create-matching-workflow.html",
-    "https://note.com/newvillage/n/n116ed3b4c104",
-    "https://aibr.jp/archives/480042"
+    "https://app.testgorilla.com/preview/825639?language=ja-jp",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://hybrid-analysis.com/sample/8e04d6fa10f00c1156d860013ba07d5e3e337f420b8f663f01fc5c904c44babb/5c0f94bd7ca3e1729514a743",
+    "https://researchmap.jp/blogs/blog_entries/view/143851/cf29de114fa73c109536ac188d7e0345?lang=en",
+    "https://www.synapsesocial.com/ja/papers/69b6068883145bc643d1c873",
+    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20181001-00000053-impress-sci&lang=ja",
+    "https://imis.igaku-shoin.co.jp/journal/contents/_internal/916e4697-8258-43ff-90a5-1107eb44906e/",
+    "https://aws.amazon.com/jp/blogs/news/aws-entity-resolution-for-health-data/"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 15
   },
   {
    "query": "entity resolution survivorship rules precision recall human review",
    "results": [
-    "https://performalytic.com/blog/entity-resolution-ai/",
-    "https://entitybind.com/guides/survivorship-and-golden-records",
-    "https://edukatesingapore.com/2026/09/10/data-deduplication-and-entity-resolution/",
-    "https://prolyz.com/blog/master-data-management-entity-resolution",
-    "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution",
-    "https://atlan.com/know/ai-agent/ontology/what-is-entity-resolution/",
-    "https://inferensys.com/glossary/algorithmic-trust-and-authority-signals/canonicalization-strategies/entity-resolution"
+    "https://dataladder.com/best-entity-resolution-software/",
+    "https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/",
+    "https://www.rudderstack.com/blog/what-is-entity-resolution/",
+    "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "https://arxiv.org/html/2607.26298v1",
+    "https://profisee.com/solutions/initiatives/entity-resolution-software/",
+    "https://www.puppygraph.com/learn/best-entity-resolution-software",
+    "https://www.dataiku.com/blog/accelerating-entity-resolution",
+    "https://www.sanity.io/glossary/entity-resolution",
+    "https://performalytic.com/blog/entity-resolution-ai/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 15
   },
   {
    "query": "site:note.com 代表値の採り方と照合の品質（entity resolution の survivorship・精度と再現率）",
@@ -1599,9 +1824,9 @@
     "https://note.com/ishikawa_dx/n/n6f4b5ae59351",
     "https://note.com/kabumayuge/n/n73afe9d075b9",
     "https://note.com/hiroshi_gomi/n/n4445143e5cbc",
-    "https://note.com/daikidomon/n/n3a746d0a5c61",
-    "https://note.com/ayonix/n/ndc49bf877c84",
-    "https://note.com/statistics_ai/n/n4467dbe61c30"
+    "https://note.com/statistics_ai/n/n4467dbe61c30",
+    "https://note.com/nowready/n/nb595718f9b4d",
+    "https://note.com/daikidomon/n/n3a746d0a5c61"
    ],
    "engines": [
     "ddgs:google"
@@ -1613,11 +1838,11 @@
    "results": [
     "https://x.com/awswhatsnew_jp/status/1816564260983701935",
     "https://x.com/PLTR_Dog/status/2087879526164697552",
-    "https://x.com/maes_data/status/2081334657648562333",
     "https://x.com/hiruandon_0/status/2104139240292667471",
+    "https://x.com/maes_data/status/2081334657648562333",
     "https://x.com/chemi384/status/2102520816432726221",
     "https://x.com/learning1029/status/2108857703754010836",
-    "https://x.com/hashtag/代表値"
+    "https://x.com/nayuta_office/status/2103016691198222738"
    ],
    "engines": [
     "ddgs:google"
@@ -1626,20 +1851,30 @@
   },
   {
    "query": "site:linkedin.com 代表値の採り方と照合の品質（entity resolution の survivorship・精度と再現率）",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.linkedin.com/posts/elia-bloch_entity-resolution-gets-difficult-when-identifiers-activity-7508541017940209664-2xZW",
+    "https://www.linkedin.com/pulse/unlocking-power-golden-records-comprehensive-note-data-nguyen",
+    "https://www.linkedin.com/pulse/mpi-survivorship-rules-probabilistic-matching-strategies-enterprise-gwpqc",
+    "https://www.linkedin.com/pulse/what-entity-resolution-how-works-why-matter-midhun-mathew-iuulc",
+    "https://www.linkedin.com/pulse/building-scalable-entity-resolution-pipeline-under-pressure-singhal-kcfrc/",
+    "https://jp.linkedin.com/pulse/what-entity-resolution-why-its-foundational-dr-gurpinder-s-dhillon-mehfc?tl=ja",
+    "https://jp.linkedin.com/pulse/what-entity-resolution-how-works-why-matter-midhun-mathew-iuulc?tl=ja"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com 代表値の採り方と照合の品質（entity resolution の survivorship・精度と再現率）",
    "results": [
-    "https://www.facebook.com/imakarasuugaku/videos/この動画では代表値①-平均と中央値統計学をやさしく解説の内容を-notebooklm-を使ってわかりやすくダイジェストでご紹介しますaiはたまに日本語を間違える/1391052656003206/",
-    "https://www.facebook.com/researcherjp/posts/注目プレスリリース未知の合金特性を高精度に予測する新手法を開発aiが計算値と実験値のずれを学習-大阪公立大学/1541354718035665/",
     "https://www.facebook.com/mastercontroljapan/posts/無限の-データ-を照合し-品質傾向-分析-からより良い結果を得るためにはまず次の3つの重要な質問をすることが必要ですhttpswwwmastercontrolc/2731854490279634/",
     "https://www.facebook.com/nliresearch/posts/平均-と-代表値-の概念平均や代表値の概念がいくつかあることについてはこれまでも数多くの書籍等で紹介されてきたのでご存じの方も多いと思われるが今回改めてこの話題/4548797478555715/",
-    "https://www.facebook.com/JMPjpn/videos/gauge-rr-による計量値の測定システム分析/363486928490163/",
+    "https://www.facebook.com/imakarasuugaku/videos/この動画では代表値①-平均と中央値統計学をやさしく解説の内容を-notebooklm-を使ってわかりやすくダイジェストでご紹介しますaiはたまに日本語を間違える/1391052656003206/",
     "https://www.facebook.com/JMPjpn/videos/品質と工程/1886824991490340/",
-    "https://www.facebook.com/TSMGE/posts/理論與實務應用篇-量測儀器的精度與準度雖然不是新名詞但這個議題需要好好被說明跟釐清量測設備商會根據量測儀器的機型定位會提供客戶accuracy準確度這個數值做為/692427869574230/"
+    "https://www.facebook.com/JMPjpn/videos/gauge-rr-による計量値の測定システム分析/363486928490163/",
+    "https://www.facebook.com/JMPjpn/posts/品質と工程emp法による計量値の測定システム分析今回はdonald-j-wheeler氏の書籍emp-iii-imperfect-data-2006で紹介されて/3166025376838593/",
+    "https://www.facebook.com/MitsubishiElectricFA.JP/posts/便利機能紹介gx-works3-照合機能シーケンサとパソコンにバックアップしている-gxworks3-のプロジェクトが不一致となって困ったことはありませんかその/595314109421130/"
    ],
    "engines": [
     "ddgs:google"
@@ -1649,117 +1884,233 @@
   {
    "query": "代表値の採り方と照合の品質（entity resolution の survivorship・精度と再現率） note 社長",
    "results": [
-    "https://aws.amazon.com/jp/blogs/news/aws-entity-resolution-match-and-link-related-records-from-multiple-applications-and-data-stores/",
-    "https://awsi.click/ja/articles/customer-identity-resolution/",
-    "https://www.tech-tldr.com/aws/analytics/entity-resolution/",
-    "https://note.com/newvillage/n/n116ed3b4c104",
-    "https://aws.amazon.com/jp/blogs/news/measuring-the-accuracy-of-rule-or-ml-based-matching-in-aws-entity-resolution/",
-    "https://docs.aws.amazon.com/ja_jp/entityresolution/latest/userguide/create-matching-workflow.html",
-    "https://qiita.com/kenken38/items/25a78d5e0041ca2f1cd2"
+    "https://since2020.jp/media/f1-precision-recall/",
+    "https://datastudydock.com/precision-recall-f1/",
+    "https://www.ultralytics.com/ja/blog/accuracy-precision-recall",
+    "https://www.worldoftest.com/ja/node/7036",
+    "https://app.testgorilla.com/preview/825639?language=ja-jp",
+    "https://siguniang.wordpress.com/2016/01/10/notes-on-information-retrieval-precision-recall-f1-score/",
+    "https://zenn.dev/data_and_ai/articles/2f6fffbd6ab45d",
+    "https://note.com/zono_data/n/n620b48d2b49f",
+    "https://lab.ludashi.com/evaluation/article/59",
+    "https://www.tech-tldr.com/aws/analytics/entity-resolution/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 15
   },
   {
    "query": "代表値の採り方と照合の品質（entity resolution の survivorship・精度と再現率） X 投稿",
    "results": [
-    "https://dev.classmethod.jp/articles/aws-entity-resolution-ml-base-matching/",
-    "https://awsi.click/ja/articles/customer-identity-resolution/",
-    "https://aws.amazon.com/jp/blogs/news/measuring-the-accuracy-of-rule-or-ml-based-matching-in-aws-entity-resolution/",
-    "https://docs.aws.amazon.com/ja_jp/entityresolution/latest/userguide/create-matching-workflow.html",
-    "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/entity-resolution-record-confidence/",
-    "https://qiita.com/kenken38/items/25a78d5e0041ca2f1cd2",
-    "https://note.com/newvillage/n/n116ed3b4c104"
+    "https://since2020.jp/media/f1-precision-recall/",
+    "https://www.worldoftest.com/ja/node/7036",
+    "https://zenn.dev/data_and_ai/articles/2f6fffbd6ab45d",
+    "https://siguniang.wordpress.com/2016/01/10/notes-on-information-retrieval-precision-recall-f1-score/",
+    "https://app.testgorilla.com/preview/825639?language=ja-jp",
+    "https://lab.ludashi.com/evaluation/article/59",
+    "https://hybrid-analysis.com/sample/b63d5b8585089b9b5b828eaa356e22e6d772c60ed5f041fb20aa5ecb12701e83/6a1c162eccf95c43a00287f6",
+    "https://researchmap.jp/blogs/blog_entries/view/143851/cf29de114fa73c109536ac188d7e0345?lang=en",
+    "https://www.synapsesocial.com/ja/papers/69b6068883145bc643d1c873",
+    "https://dev.classmethod.jp/articles/aws-entity-resolution-ml-base-matching/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 15
   },
   {
    "query": "entity resolution survivorship rules precision recall human review site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/mpi-survivorship-rules-probabilistic-matching-strategies-enterprise-gwpqc",
-    "https://www.linkedin.com/posts/elia-bloch_entity-resolution-gets-difficult-when-identifiers-activity-7508541017940209664-2xZW",
-    "https://pe.linkedin.com/posts/alisherif98_informaticamdm-goldenrecord-datasurvivorship-activity-7312932733381492739-Glrp",
-    "https://www.linkedin.com/pulse/f1-score-ner-metric-evaluate-precision-recall-named-entity-banik-8xmjc",
-    "https://www.linkedin.com/pulse/building-scalable-entity-resolution-pipeline-under-pressure-singhal-kcfrc/",
-    "https://in.linkedin.com/jobs/view/senior-product-manager-data-at-certifyos-4488142193",
-    "https://www.linkedin.com/pulse/ai-driven-deduplication-master-data-management-agentic-banerjee-yaxkf"
+    "https://www.linkedin.com/jobs/view/principal-product-manager-person-data-and-ai-evaluations-at-zoominfo-4467219246",
+    "https://www.linkedin.com/pulse/ai-driven-deduplication-master-data-management-agentic-banerjee-yaxkf",
+    "https://www.linkedin.com/pulse/mater-data-management-mdm-framework-architecture-roshan-kumar-1rd8f",
+    "https://ca.linkedin.com/in/megha-sharma-21713080",
+    "https://www.linkedin.com/in/somnath-b-959307",
+    "https://uk.linkedin.com/in/archit-date-983a2911a",
+    "https://in.linkedin.com/in/shrutiiparmar",
+    "https://in.linkedin.com/in/tanvi-gupta-369444242",
+    "https://www.linkedin.com/in/mishrasonal",
+    "https://in.linkedin.com/jobs/view/senior-product-manager-data-at-certifyos-4486980155"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   }
  ],
  "missing": {},
  "new_this_run": {
-  "一次情報の探し方": [
-   {
-    "quote": "Never write a field from a source that only identifies something adjacent. An address on a trademark filing is the address the filer had when they filed, not the company's registered address, and folding it in silently competes against a register whose job is to be current.",
-    "url": "https://entitybind.com/guides/survivorship-and-golden-records",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
   "失敗・落とし穴": [
    {
-    "quote": "Conflating them is the commonest architectural mistake in this area, and it produces bugs that are very hard to diagnose because they present as matching errors.",
-    "url": "https://entitybind.com/guides/survivorship-and-golden-records",
+    "quote": "One mistake in the matching criteria can hide many true matches.",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
     "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "検索結果の抜粋": [
-   {
-    "quote": "Survivorship Rules and Golden Records | Entity Bind — Oct 12, 2026 · Modelled as a field, survivorship can drop pass-through facts before assembling a record that will be stored, and an export can be filtered to what is genuinely redistributable. Per-field provenance also makes disagreement legible instead of embarrassing.",
-    "url": "https://entitybind.com/guides/survivorship-and-golden-records",
-    "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-10"
    }
   ],
   "手順・やり方": [
    {
-    "quote": "Merging and survivorship are different steps",
-    "url": "https://entitybind.com/guides/survivorship-and-golden-records",
+    "quote": "What entity resolution is, how it works step by step, how to measure it, and where enterprises use it, with a worked example, primary sources and the challenges to plan for.",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-10"
    },
    {
-    "quote": "Merging decides which records belong together. Survivorship decides what the resulting entity looks like. A wrong merge shows up as a golden record containing two companies' addresses; a survivorship bug shows up as a correctly merged entity displaying a stale address. Those need different fixes, and a system that assembles the record inside the merge step cannot tell you which one happened.",
-    "url": "https://entitybind.com/guides/survivorship-and-golden-records",
+    "quote": "The comparison step inside entity resolution",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-10"
    },
    {
-    "quote": "The recency step needs a timestamp, and there are several available. Choosing the wrong one is a quiet, persistent source of stale golden records.",
-    "url": "https://entitybind.com/guides/survivorship-and-golden-records",
+    "quote": "Pairwise decisions must become entities. The simplest approach takes connected components of the link graph. That has a known danger: if A matches B and B matches C, all three merge even if A and C are clearly different, and one wrong link can chain two large clusters together. More careful methods use cluster-level scoring, constraints (“these two must never merge”) or correlation clustering.",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-10"
    },
    {
-    "quote": "Merging and survivorship are separate steps with separate failure modes, and keeping them separate is what makes an unmerge possible.",
-    "url": "https://entitybind.com/guides/survivorship-and-golden-records",
+    "quote": "We made performance a first-class concern early with a learned blocking model, which learns from the fields in your data and your labels how to group records efficiently (",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-10"
    },
    {
-    "quote": "7 pages name this method as the working behind what they claim.",
-    "url": "https://entitybind.com/guides/survivorship-and-golden-records",
+    "quote": "When we open sourced Zingg we didn’t expect platform-native runs to be so well loved. Enterprises are increasingly wary of sending their most valuable data to a third party, and they want to use the tooling and frameworks they already have (",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-10"
    },
    {
-    "quote": "; the gate figures come from the stub-adjudicated continuous-integration run and are a floor rather than a ceiling. The two are never averaged. Entity Bind holds no SOC 2, no ISO 27001 and no other certification, and claims none. Every figure, with the population it was measured over and the method behind both recordings, is set out on",
-    "url": "https://entitybind.com/guides/survivorship-and-golden-records",
+    "quote": "It depends on the data, the method and where you set the threshold. Measure precision and recall on a labelled sample, and expect to trade one against the other. The right balance differs by use case: sanctions screening and patient matching tolerate errors very differently from marketing.",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-10"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "Principled, interpretable, can estimate without labels",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "For each field, estimate two probabilities:",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "You rarely have a labelled answer key, and Pew found the same in healthcare. Estimate precision by reviewing a random sample of declared matches, and estimate recall by sampling across score bands or seeding known duplicates.",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "What entity resolution is, how it works step by step, how to measure it, and where enterprises use it, with a worked example, primary sources and the challenges to plan for.",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "What entity resolution is, how it works step by step, how to measure it, and where enterprises use it, with a worked example, primary sources and the challenges to plan for.",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "The two errors, false merges and missed matches, are not equally costly, so the right threshold depends on the use case.",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "jon.smith@example.net",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "Case, spacing and punctuation",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "The “1–10–100 rule” is often used to argue the cost case: roughly $1 to prevent a bad record, $10 to fix it later, $100 to live with it (",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "Profile the sources, then standardise: parse names and addresses into components, normalise case and punctuation, convert phones to one format, expand abbreviations and map nicknames (“Jon” to “Jonathan”). Preparation raises match quality, but don’t destroy the originals, which you need for display and audit.",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "Resolves cases attributes alone cannot",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "A worked example (illustrative)",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "Precision is the share of declared matches that are correct (TP/(TP+FP)). Recall is the share of true matches you found (TP/(TP+FN)). F1 is their harmonic mean. Example: a run declares 1,000 matching pairs and 950 are right, while there were 1,250 true pairs. Precision is 95%, recall is 76% and F1 is about 0.84.",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "Pew found healthcare institutions tend to err toward avoiding false merges, so failure to link a patient’s own records is the more common problem. In sanctions screening a missed match is the costly error, while false positives burden analysts. In marketing a missed duplicate is usually minor. Set thresholds per use case.",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "resolves a record as it arrives, for example at sign-up or transaction time. Most organisations need a batch-resolved base plus incremental or real-time updates against it. See",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "Entity resolution use cases",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "The number of rules grows without bound. New sources, formats and volumes force constant updates, and corner cases still slip through.",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "Set thresholds per use case, not globally.",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "It depends on the data, the method and where you set the threshold. Measure precision and recall on a labelled sample, and expect to trade one against the other. The right balance differs by use case: sanctions screening and patient matching tolerate errors very differently from marketing.",
+    "url": "https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution",
+    "pass": 3,
+    "first_seen": "2026-11-10"
    }
   ]
  },
- "runs": 24,
+ "runs": 25,
  "first_researched_at": "2026-11-05T04:44:48.784753+00:00"
 }

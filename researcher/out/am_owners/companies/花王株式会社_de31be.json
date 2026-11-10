@@ -1,0 +1,1229 @@
+{
+ "name": "花王株式会社",
+ "aliases": [],
+ "context": "PBF=yes 装置=Sapphire 出典=https://sapphire.miletos.tech/case-study/0002",
+ "researched_at": "2026-11-10T19:08:59.538370+00:00",
+ "official_url": "https://www.kao-kirei.com/",
+ "identified_by": "search:yahoo_jp:花王",
+ "profile": {},
+ "evidence": {
+  "用途・客の産業": [
+   {
+    "quote": "蒸気が出る温熱シート（一般医療機器）の商品一覧 | 花王公式通販 【My Kao Mall】",
+    "url": "https://www.kao-kirei.com/ja/category/thermalproducts/steamsheet/",
+    "pass": 1
+   },
+   {
+    "quote": "昨今、原材料価格や物流費、エネルギーコスト等は大きく上昇しており、これまで生産性向上や効率化など、さまざまな企業努力により影響の吸収に努めてまいりましたが、足元の状況はこうした取り組みの範囲を超える水準に達しつつあります",
+    "url": "https://www.kao-kirei.com/ja/news/information/2026/20260701-01/",
+    "pass": 1
+   },
+   {
+    "quote": "次の半導体大国、インド",
+    "url": "https://www.nikkei.com/article/DGXZQOUB039BF0T00C26A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "インド半導体の業界地図 タタ経済圏に450社、日本の突破口明らかに",
+    "url": "https://www.nikkei.com/article/DGXZQOUB039BF0T00C26A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "洗剤や化粧品などの日用品から、半導体製造向けの精密洗浄剤まで幅広い事業を展開しています",
+    "url": "https://note.com/tag/%E8%8A%B1%E7%8E%8B",
+    "pass": 3
+   },
+   {
+    "quote": "洗剤や化粧品などの日用品から、半導体製造向けの精密洗浄剤まで幅広い事業を展開…",
+    "url": "https://note.com/tag/%E8%8A%B1%E7%8E%8B",
+    "pass": 3
+   },
+   {
+    "quote": "花王が半導体銘柄？！ 〜マネーセミナー報告・中編〜",
+    "url": "https://note.com/tag/%E8%8A%B1%E7%8E%8B",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "会社所在地、資本金、株主構成、業績など、花王グループの基本情報をご覧いただけます",
+    "url": "https://www.kao.com/jp/corporate/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "【花王】[4452]企業概要 社員数や役員報酬・資本金 | 日経電子版",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=4452",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業の決算発表日程や株主総会の日程を事前に確認することができます",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=4452",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、株主の皆さまの日頃の応援への感謝をお示しするとともに、当社の企業理念や事業活動、製品・ブランドへのご理解を深めていただくことを目的に株主優待を実施いたします",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "安定的で継続的な配当を軸とし、資本効率の向上を企図した機動的な自己株式の取得を組み合わせる従来の株主還元方針に変更はなく、本優待制度はこれを補完するものと位置づけております",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "基準日（毎年12月31日）の当社株主名簿に記載または記録された、半年以上",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "にわたり、当社普通株式を100株以上保有する株主さまを対象といたします",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、初回実施に限り、2026年12月31日現在の株主名簿に記載または記録されていることを条件とします",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "1 半年以上の保有とは、同一株主番号にて毎年6月30日及び12月31日時点の当社株主名簿に連続して記載または記録されていること（以下「連続保有要件」といいます",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "毎年6月30日及び12月31日のいずれかの当社株主名簿に記載または記録された保有株式数のうち、少ない方の株式数が属する区分の優待が対象となります",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "初回実施に限り、2026年12月31日現在の株主名簿に記載または記録されている保有株式数のみを条件とします",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月31日現在の株主名簿に記載または記録された、当社普通株式100株以上",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "を保有されている株主さまを対象に開始いたします",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月下旬に開催いたします当社定時株主総会後に、対象となる株主さまへ初回株主優待のお申し込みについてご案内予定です",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "初回実施時の保有株式数は、2026年12月31日の当社株主名簿に記載または記録された株式分割後の保有株式数に基づき判定いたします",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "以下の保有株式数区分に従い、株主優待を進呈いたします",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "セット品のセット内容や抽選制優待の当選人数につきましては、あらためて本ウェブサイト上または株主さまへ書面にてご案内する予定です",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "上記に加え、基準日に当社普通株式を100株以上保有されている株主さま向けに、抽選で当社が開催するイベントにご参加いただける優待企画を実施いたします",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "当社の株主優待における連続保有期間は、当社株主名簿に同一の株主番号で連続して記載された期間に基づき判定いたします",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "株主番号が変更された場合、それまでの連続保有期間は引き継がれず、株主優待の対象外となります",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "以下の事項に該当する場合、当社の株主名簿に記載されている株主番号が変更となる可能性がございますので、ご注意ください",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "婚姻や転居などにより株主名簿に記載の氏名・かな・住所が変更となった場合",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "株主の親権者および後見人等の法定代理人、常任代理人の変更・解除があった場合",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "株主名簿の登録から外れた後、再度登録された場合",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "「株主優待制度の新設に関するお知らせ」（2026年8月5日）",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "決算:花王、株主優待制度を新設 個人株主の長期保有促す - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUB039BF0T00C26A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "は5日、株主優待制度を新設すると発表した",
+    "url": "https://www.nikkei.com/article/DGXZQOUB039BF0T00C26A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "400〜999株を保有する株主には6000円相当の化粧品か日用品のセットを贈る",
+    "url": "https://www.nikkei.com/article/DGXZQOUB039BF0T00C26A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "半年以上にわたって100株以上保有する株主が対象だ",
+    "url": "https://www.nikkei.com/article/DGXZQOUB039BF0T00C26A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "毎年12月末に株主名簿に記載されている株主を対象とする",
+    "url": "https://www.nikkei.com/article/DGXZQOUB039BF0T00C26A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "このほか保有期間にかかわらず100株以上保有する株主を対象に優待企画のイベントを開く",
+    "url": "https://www.nikkei.com/article/DGXZQOUB039BF0T00C26A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "海外勢も見直す株主優待、導入比率7年ぶり最高 侮れない個人の力",
+    "url": "https://www.nikkei.com/article/DGXZQOUB039BF0T00C26A8000000/",
+    "pass": 3
+   }
+  ],
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "保有している株式、投資信託、現預金を5フォルダに分けて登録しておくことで、効率よく資産管理ができます",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=4452",
+    "pass": 3
+   },
+   {
+    "quote": "にわたり、当社普通株式を100株以上保有する株主さまを対象といたします",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "1 半年以上の保有とは、同一株主番号にて毎年6月30日及び12月31日時点の当社株主名簿に連続して記載または記録されていること（以下「連続保有要件」といいます",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "抽選式の当社現地開催イベントのご応募につきましては、連続保有要件は適用いたしません",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "毎年6月30日及び12月31日のいずれかの当社株主名簿に記載または記録された保有株式数のうち、少ない方の株式数が属する区分の優待が対象となります",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、2027年6月30日に400株を保有し、同年12月31日の保有株式数が200株であるときは、保有株式数200株の区分での優待が対象となります（パターン②のイメージ）",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "初回実施に限り、2026年12月31日現在の株主名簿に記載または記録されている保有株式数のみを条件とします",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "（2026年6月30日の保有株式数は条件といたしません",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "を保有されている株主さまを対象に開始いたします",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "初回実施時の保有株式数は、2026年12月31日の当社株主名簿に記載または記録された株式分割後の保有株式数に基づき判定いたします",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "以下の保有株式数区分に従い、株主優待を進呈いたします",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "上記に加え、基準日に当社普通株式を100株以上保有されている株主さま向けに、抽選で当社が開催するイベントにご参加いただける優待企画を実施いたします",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "当社の株主優待における連続保有期間は、当社株主名簿に同一の株主番号で連続して記載された期間に基づき判定いたします",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "株主番号が変更された場合、それまでの連続保有期間は引き継がれず、株主優待の対象外となります",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "保有株式をすべて売却し、権利付最終日までに同じ銘柄の株式を買い戻した場合",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "お預けの証券会社で保有株式をすべて売却し、別の証券会社で同じ銘柄の株式を購入した場合",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "保有株式を一般口座・特定口座からNISA口座に切り替えた場合、またはその逆の切り替えをした場合",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "決算:花王、株主優待制度を新設 個人株主の長期保有促す - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUB039BF0T00C26A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "保有株数に応じて化粧品や日用品のセットを送る",
+    "url": "https://www.nikkei.com/article/DGXZQOUB039BF0T00C26A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "400〜999株を保有する株主には6000円相当の化粧品か日用品のセットを贈る",
+    "url": "https://www.nikkei.com/article/DGXZQOUB039BF0T00C26A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "半年以上にわたって100株以上保有する株主が対象だ",
+    "url": "https://www.nikkei.com/article/DGXZQOUB039BF0T00C26A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "このほか保有期間にかかわらず100株以上保有する株主を対象に優待企画のイベントを開く",
+    "url": "https://www.nikkei.com/article/DGXZQOUB039BF0T00C26A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "海外勢も見直す株主優待、導入比率7年ぶり最高 侮れない個人の力",
+    "url": "https://www.nikkei.com/article/DGXZQOUB039BF0T00C26A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "旧村上ファンド系、名鉄系のREITを5%超保有 買い増しを示唆",
+    "url": "https://www.nikkei.com/article/DGXZQOUB039BF0T00C26A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "【5銘柄】連続増配が期待できる日本株5選｜配当金が増え続ける企業には理由がある！長期保有で注目したい日本株を徹底解説",
+    "url": "https://note.com/tag/%E8%8A%B1%E7%8E%8B",
+    "pass": 3
+   },
+   {
+    "quote": "note proを導入し、自社の魅力を発信するツールとして活用している企業にお話をうかがうインタビューシリーズ「法人noteのはじめ方」",
+    "url": "https://note.com/events/n/n0bba16228fb7",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "花王 | 会社概要 — 花王 | 会社概要 Kao https://www.kao.com > corporate > outline > profile",
+    "url": "https://www.kao.com/jp/corporate/outline/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "花王 | 会社 案内 — 花王 | 会社 案内 Kao https://www.kao.com > corporate > outline",
+    "url": "https://www.kao.com/jp/corporate/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "【 花王 】[4452]企業 概要 社員数や役員報酬・ 資本金 | 日経電子版 — 【 花王 】[4452]企業 概要 社員数や役員報酬・ 資本金 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=4452",
+    "pass": 3
+   },
+   {
+    "quote": "花王 の企業データ - 高専プラス — 花王 の企業データ - 高専プラス 高専プラス https://kosen-plus.com > 企業をさがす > 花王",
+    "url": "https://kosen-plus.com/company/b3b014e2-f293-409b-8cbe-9decfc186480/info/",
+    "pass": 3
+   },
+   {
+    "quote": "花王 株式会社の 会社概要 - マイナビ転職 — 花王 株式会社の 会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company",
+    "url": "https://tenshoku.mynavi.jp/company/383709/",
+    "pass": 3
+   },
+   {
+    "quote": "花王 | 投資家情報 — 花王 | 投資家情報 Kao https://www.kao.com > investor-relations",
+    "url": "https://www.kao.com/jp/investor-relations/",
+    "pass": 3
+   },
+   {
+    "quote": "株主 優待 - 花王 — 株主 優待 - 花王 Kao https://www.kao.com > shareholder-benefits",
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "決算: 花王 、 株主 優待制度を新設 個人 株主 の長期保有促す — 決算: 花王 、 株主 優待制度を新設 個人 株主 の長期保有促す 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXZQOUB039BF0T00C26A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "花王 【4452】の大 株主 情報 - 株探 — 花王 【4452】の大 株主 情報 - 株探 株探 https://kabutan.jp > stock > holder",
+    "url": "https://kabutan.jp/stock/holder?code=4452",
+    "pass": 3
+   },
+   {
+    "quote": "数字で見る 花王 — 数字で見る 花王 Kao https://www.kao.com > corporate > data",
+    "url": "https://www.kao.com/jp/corporate/data/",
+    "pass": 3
+   },
+   {
+    "quote": "花王 （4452）の 従業員数 の推移 - IRBANK — 花王 （4452）の 従業員数 の推移 - IRBANK IRBANK https://irbank.net > 化学 > 花王",
+    "url": "https://irbank.net/E00883/worker",
+    "pass": 3
+   },
+   {
+    "quote": "花王 | 連結経営成績 — 花王 | 連結経営成績 Kao https://www.kao.com > investor-relations > financial",
+    "url": "https://www.kao.com/jp/investor-relations/financial/pl/",
+    "pass": 3
+   },
+   {
+    "quote": "花王 グループカスタマーマーケティング(株)の会社概要 — 花王 グループカスタマーマーケティング(株)の会社概要 マイナビ https://job.mynavi.jp > search > corp66683 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp66683/outline.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "花王 公式note編集部 花王 公式note編集部 note.com https://note.com > kao_pr",
+    "url": "https://note.com/kao_pr",
+    "pass": 3
+   },
+   {
+    "quote": "花王 の「弱みだった」高価格帯ヘアケアを大化けさせた44歳の ... 花王 の「弱みだった」高価格帯ヘアケアを大化けさせた44歳の ... note.com https://note.com > sunmarkweb",
+    "url": "https://note.com/sunmarkweb/n/n7ab19bcf3ce8",
+    "pass": 3
+   },
+   {
+    "quote": "花王 の企業紹介｜メータ@連続増配 - note 花王 の企業紹介｜メータ@連続増配 - note note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/dear_meter/n/nab2debd2201a",
+    "pass": 3
+   },
+   {
+    "quote": "花王 の人気・新着記事まとめ - note 花王 の人気・新着記事まとめ - note note https://note.com > tag > 花王",
+    "url": "https://note.com/tag/%E8%8A%B1%E7%8E%8B",
+    "pass": 3
+   },
+   {
+    "quote": "【終了しました】 花王 は、どうやって note をはじめた？ note ... 【終了しました】 花王 は、どうやって note をはじめた？ note ... note https://note.com > インタビュー・対談 > インタビュー・対談",
+    "url": "https://note.com/events/n/n0bba16228fb7",
+    "pass": 3
+   },
+   {
+    "quote": "花王 デザイン - note 花王 デザイン - note note https://note.com > kao_creative_pkg",
+    "url": "https://note.com/kao_creative_pkg",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "私たちがめざしている“志”を伝えていくことをコンセプトに、これまでお伝えしきれていなかった「花王の取り組みや開発の裏側」「社員の想い」などを、試行錯誤しながらお届けします。",
+    "url": "https://note.kao.co.jp/?gs=07ae4607b85ae4e81272b4685e575237",
+    "pass": 3
+   },
+   {
+    "quote": "私たちがめざしている“志”を伝えていくことをコンセプトに、これまで…",
+    "url": "https://note.kao.co.jp/?gs=07ae4607b85ae4e81272b4685e575237",
+    "pass": 3
+   },
+   {
+    "quote": "花王の「弱みだった」高価格帯ヘアケアを大化けさせた44歳の流儀｜SUNMARK WEB",
+    "url": "https://sunmarkweb.com/n/n7ab19bcf3ce8?gs=06d59cd29e18effe35bcef83e92e1ae6",
+    "pass": 3
+   },
+   {
+    "quote": "花王の「弱みだった」高価格帯ヘアケアを大化けさせた44歳の流儀",
+    "url": "https://sunmarkweb.com/n/n7ab19bcf3ce8?gs=06d59cd29e18effe35bcef83e92e1ae6",
+    "pass": 3
+   },
+   {
+    "quote": "100年以上前の1921年に“髪をきれいにする”ヘアケア研究をスタートし、シャンプー、トリートメントで「メリット」や「エッセンシャル」という中価格帯のロングセラーブランドを持つ花王。ただ、高価格帯商品には弱く、競合メーカーに押されていました。それが近年、一気にシェアを回復させます。",
+    "url": "https://sunmarkweb.com/n/n7ab19bcf3ce8?gs=06d59cd29e18effe35bcef83e92e1ae6",
+    "pass": 3
+   },
+   {
+    "quote": "私たちが何気なく見ているヒット商品の裏には、必ずそんな「気づいた人」がいます。本連載「マーケターの“違和感”」では、商品やサービスを動かしたマーケターの人となりに迫ります。",
+    "url": "https://sunmarkweb.com/n/n7ab19bcf3ce8?gs=06d59cd29e18effe35bcef83e92e1ae6",
+    "pass": 3
+   },
+   {
+    "quote": "今回（第3回）登場するのは、ブランドマネージャー（BM）として日本を代表するトイレタリーメーカーのヘアケア事業を刷新した立役者。若手社員時代から「異端の視点」を持ち続けました。どんな人物なのか。前編・後編に分けてその素顔に迫ります。",
+    "url": "https://sunmarkweb.com/n/n7ab19bcf3ce8?gs=06d59cd29e18effe35bcef83e92e1ae6",
+    "pass": 3
+   },
+   {
+    "quote": "（取材・執筆：高井尚之／経済ジャーナリスト）",
+    "url": "https://sunmarkweb.com/n/n7ab19bcf3ce8?gs=06d59cd29e18effe35bcef83e92e1ae6",
+    "pass": 3
+   },
+   {
+    "quote": "花王株式会社 ヘルスビューティーケア スキンケア事業部 ブランドダイレクター",
+    "url": "https://sunmarkweb.com/n/n7ab19bcf3ce8?gs=06d59cd29e18effe35bcef83e92e1ae6",
+    "pass": 3
+   },
+   {
+    "quote": "1981年11月生まれ、福岡県出身。自らの意思で中学受験し、鹿児島県のラ・サール学園に進学。ラ・サール高校から東京理科大学に進み卒業。2006年、新卒で花王に入社してハウスホールド事業部（当時）に配属。衣料用洗剤を担当し、プロジェクトメンバーとして2009年に発売した「アタックNeo（ネオ）」に携わる。その後、営業部門に異動し、ファブリックケア（衣料用洗剤や柔軟剤）のトレードマーケティングを担当。中国に駐在して（現地法人の花王上海産品服務）マーケティングとデジタルトランスフォーメーション業務に従事。日本帰国後はヘアケア第1事業部のBM（ブランドマネージャー）として同事業を刷新。2024～2025年にかけてヘアケアブランド「メルト（melt）」「ジアンサー（THE ANSWER）」「ミーミーミー（MEMEME）」を発売、大ヒットとなりヘアケアのシェアを回復させた。2026年1月、スキンケア事",
+    "url": "https://sunmarkweb.com/n/n7ab19bcf3ce8?gs=06d59cd29e18effe35bcef83e92e1ae6",
+    "pass": 3
+   },
+   {
+    "quote": "花王は1887年に創業し、135年余りの歴史を有する企業です。",
+    "url": "https://note.com/dear_meter/n/nab2debd2201a",
+    "pass": 3
+   },
+   {
+    "quote": "1890（明治23）年に高級化粧石鹸「花王石鹸」を発売し、日本のトイレタリー市場のパイオニアとして、人々の生活を豊かにすることに貢献し続けてきました。",
+    "url": "https://note.com/dear_meter/n/nab2debd2201a",
+    "pass": 3
+   },
+   {
+    "quote": "花王のモットーは、消費者起点の良きモノづくりです。",
+    "url": "https://note.com/dear_meter/n/nab2debd2201a",
+    "pass": 3
+   },
+   {
+    "quote": "1890年に生まれた花王のシンボルマークでもある「月のマーク」は、いつの日も人に社会に地球に寄り添い、すべての命を優しく見守る月をロゴのコンセプトにしています。",
+    "url": "https://note.com/dear_meter/n/nab2debd2201a",
+    "pass": 3
+   },
+   {
+    "quote": "時には道を明るく照らしながら、豊かな未来を希望で満たしていく、そんな製品を開発、製造し続けることが花王の使命とするところです。",
+    "url": "https://note.com/dear_meter/n/nab2debd2201a",
+    "pass": 3
+   },
+   {
+    "quote": "花王の事業は大きく分けて化粧品、ヘルス＆ビューティケア、ハイジーン＆リビングケア、ライフケア事業があり、BtoB向けにケミカル事業も実績を伸ばしています。",
+    "url": "https://note.com/dear_meter/n/nab2debd2201a",
+    "pass": 3
+   },
+   {
+    "quote": "いずれの事業においても、多くの人が認知している老舗ブランドや長年親しまれてきた変わらぬ製品があります。",
+    "url": "https://note.com/dear_meter/n/nab2debd2201a",
+    "pass": 3
+   },
+   {
+    "quote": "一人ひとりに希望ときれいを提供すべく、スキンケア製品やメイクアップ製品を開発、製造している事業部門です。",
+    "url": "https://note.com/dear_meter/n/nab2debd2201a",
+    "pass": 3
+   },
+   {
+    "quote": "洗剤や化粧品などの日用品から、半導体製造向けの精密洗浄剤まで幅広い事業を展開しています。",
+    "url": "https://note.com/tag/%E8%8A%B1%E7%8E%8B",
+    "pass": 3
+   },
+   {
+    "quote": "製品の使用感や掃除のコツ、投資家による財務分析や採用対策など様々な記事が集まっています。",
+    "url": "https://note.com/tag/%E8%8A%B1%E7%8E%8B",
+    "pass": 3
+   },
+   {
+    "quote": "洗剤や化粧品などの日用品から、半導体製造向けの精密洗浄剤まで幅広い事業を展開…",
+    "url": "https://note.com/tag/%E8%8A%B1%E7%8E%8B",
+    "pass": 3
+   },
+   {
+    "quote": "子育ての最終回は、気づかないうちに終わっていく",
+    "url": "https://note.com/tag/%E8%8A%B1%E7%8E%8B",
+    "pass": 3
+   },
+   {
+    "quote": "きょうの気になる企業ニュース（2026/10/5）",
+    "url": "https://note.com/tag/%E8%8A%B1%E7%8E%8B",
+    "pass": 3
+   },
+   {
+    "quote": "配当金をいただきました💰 少額でも投資を実感！",
+    "url": "https://note.com/tag/%E8%8A%B1%E7%8E%8B",
+    "pass": 3
+   },
+   {
+    "quote": "【5銘柄】連続増配が期待できる日本株5選｜配当金が増え続ける企業には理由がある！長期保有で注目したい日本株を徹底解説",
+    "url": "https://note.com/tag/%E8%8A%B1%E7%8E%8B",
+    "pass": 3
+   },
+   {
+    "quote": "詰め替え用、どう入れてる？｜容器は「洗う・洗わない」が商品で違う",
+    "url": "https://note.com/tag/%E8%8A%B1%E7%8E%8B",
+    "pass": 3
+   },
+   {
+    "quote": "【終了しました】花王は、どうやってnoteをはじめた？ note pro事例セミナー｜noteイベント情報",
+    "url": "https://note.com/events/n/n0bba16228fb7",
+    "pass": 3
+   },
+   {
+    "quote": "【終了しました】花王は、どうやってnoteをはじめた？ note pro事例セミナー",
+    "url": "https://note.com/events/n/n0bba16228fb7",
+    "pass": 3
+   },
+   {
+    "quote": "※当セミナーは終了しました。当日の様子は、本記事の後半にて公開中のイベント概要をご覧ください。",
+    "url": "https://note.com/events/n/n0bba16228fb7",
+    "pass": 3
+   },
+   {
+    "quote": "note proを導入し、自社の魅力を発信するツールとして活用している企業にお話をうかがうインタビューシリーズ「法人noteのはじめ方」。noteプロデューサーの",
+    "url": "https://note.com/events/n/n0bba16228fb7",
+    "pass": 3
+   },
+   {
+    "quote": "をモデレーターに、企業がnoteでの発信をはじめるにあたっての心構えや立ち上げのポイント、継続するにあたっての課題や乗り越え方などをお話しいただいています。",
+    "url": "https://note.com/events/n/n0bba16228fb7",
+    "pass": 3
+   },
+   {
+    "quote": "3月9日に開催された第1回目は、花王株式会社さん（以下、花王）にご登壇いただきました。",
+    "url": "https://note.com/events/n/n0bba16228fb7",
+    "pass": 3
+   },
+   {
+    "quote": "花王 公式noteは、2022年3月に「商品開発の裏側や社員の熱い想いなど、花王が大切にしている志を発信する」というコンセプトで開設されたnoteです。",
+    "url": "https://note.com/events/n/n0bba16228fb7",
+    "pass": 3
+   },
+   {
+    "quote": "開設時にプレスリリースも展開していただいたことで、ご存じの方も多いかもしれません。",
+    "url": "https://note.com/events/n/n0bba16228fb7",
+    "pass": 3
+   },
+   {
+    "quote": "どうしてないの？ デザイナーの疑問から生まれた暮らしに備えるものづくり",
+    "url": "https://note.com/kao_creative_pkg",
+    "pass": 3
+   },
+   {
+    "quote": "花王株式会社 作成センター パッケージ（商品） デザイナー募集！",
+    "url": "https://note.com/kao_creative_pkg",
+    "pass": 3
+   },
+   {
+    "quote": "【理系からデザイナーになりました】 花王のデザイナー、２年目のリアル",
+    "url": "https://note.com/kao_creative_pkg",
+    "pass": 3
+   },
+   {
+    "quote": "【ビオレキッズスタンプUV開発秘話①】あしあとを腕にスタンプ！？「やりたくなる」を追求したプロダクトデザイン編",
+    "url": "https://note.com/kao_creative_pkg",
+    "pass": 3
+   },
+   {
+    "quote": "生活の美 ~The Beauty in Daily Life~ vol.05",
+    "url": "https://note.com/kao_creative_pkg",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "衣料用洗剤も粉末か液体かという選択を迫られる転換期を迎えていた",
+    "url": "https://sunmarkweb.com/n/n7ab19bcf3ce8?gs=06d59cd29e18effe35bcef83e92e1ae6",
+    "pass": 3
+   },
+   {
+    "quote": "『アタック』は粉末洗剤の革命を世に生み出した立場であり、粉末洗剤による利益も膨大でした",
+    "url": "https://sunmarkweb.com/n/n7ab19bcf3ce8?gs=06d59cd29e18effe35bcef83e92e1ae6",
+    "pass": 3
+   },
+   {
+    "quote": "マンパワー＝洗剤事業にかける人数も、ベテランのスキルを持つ先輩方といった質も、すべて、粉末中心に向けられていたと思います",
+    "url": "https://sunmarkweb.com/n/n7ab19bcf3ce8?gs=06d59cd29e18effe35bcef83e92e1ae6",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、競合のP＆Gは粉末ではなく液体を重視した訴求で、生活者の心を動かしていました",
+    "url": "https://sunmarkweb.com/n/n7ab19bcf3ce8?gs=06d59cd29e18effe35bcef83e92e1ae6",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "花王 株式会社 (@KaoCorporate_jp) / X 花王 株式会社 (@KaoCorporate_jp) / X X https://x.com > KaoCorporate_jp",
+    "url": "https://x.com/KaoCorporate_jp",
+    "pass": 3
+   },
+   {
+    "quote": "花王 株式会社 (@KaoCorporate_jp) / X 花王 株式会社 (@KaoCorporate_jp) / X X https://x.com > KaoCorporate_jp > all",
+    "url": "https://x.com/KaoCorporate_jp/all",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by 花王 株式会社 (@KaoCorporate_jp) / X Replies by 花王 株式会社 (@KaoCorporate_jp) / X X https://x.com > KaoCorporate_jp > with_replies",
+    "url": "https://x.com/KaoCorporate_jp/with_replies",
+    "pass": 3
+   },
+   {
+    "quote": "花王 メリット 公式 Kao Merit Shampoo (@merit_jp) / X 花王 メリット 公式 Kao Merit Shampoo (@merit_jp) / X X https://x.com > merit_jp",
+    "url": "https://x.com/merit_jp",
+    "pass": 3
+   },
+   {
+    "quote": "花王 株式会社 - X 花王 株式会社 - X X https://x.com > @KaoCorporate_jp",
+    "url": "https://x.com/KaoCorporate_jp/status/1924950034770219164",
+    "pass": 3
+   },
+   {
+    "quote": "花王 マジックリン（お掃除全般） (@magiclean_jp) / X 花王 マジックリン（お掃除全般） (@magiclean_jp) / X X https://x.com > magiclean_jp",
+    "url": "https://x.com/magiclean_jp",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "花王 グループカスタマーマーケティング（株） | LinkedIn 花王 グループカスタマーマーケティング（株） | LinkedIn LinkedIn https://jp.linkedin.com > company > 花王グループカスタ...",
+    "url": "https://jp.linkedin.com/company/%E8%8A%B1%E7%8E%8B%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "Syed Ragib Safi, 工学博士, MBA - 花王 株式会社研究開発部門 ... Syed Ragib Safi, 工学博士, MBA - 花王 株式会社研究開発部門 ... LinkedIn https://jp.linkedin.com > srsafi",
+    "url": "https://jp.linkedin.com/in/srsafi/ja",
+    "pass": 3
+   },
+   {
+    "quote": "DANDAN LI - 花王 株式会社 - 社員 - LinkedIn DANDAN LI - 花王 株式会社 - 社員 - LinkedIn LinkedIn https://jp.linkedin.com > ...",
+    "url": "https://jp.linkedin.com/in/dandan-li-4a4851aa",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "花王 （Kao Corporation） | Chuo-ku Tokyo - Facebook 花王 （Kao Corporation） | Chuo-ku Tokyo - Facebook Facebook https://www.facebook.com > corp",
+    "url": "https://www.facebook.com/corp.kao/",
+    "pass": 3
+   },
+   {
+    "quote": "花王 （Kao Corporation） (@corp.kao) - Videos | Facebook 花王 （Kao Corporation） (@corp.kao) - Videos | Facebook Facebook https://www.facebook.com > corp.kao > videos",
+    "url": "https://www.facebook.com/corp.kao/videos/",
+    "pass": 3
+   },
+   {
+    "quote": "花王 （Kao Corporation） (@corp.kao) - Mentions | Facebook 花王 （Kao Corporation） (@corp.kao) - Mentions | Facebook Facebook https://www.facebook.com > corp.kao > mentions",
+    "url": "https://www.facebook.com/corp.kao/mentions/",
+    "pass": 3
+   },
+   {
+    "quote": "花王 （Kao Corporation） (@corp.kao) Reels - Facebook 花王 （Kao Corporation） (@corp.kao) Reels - Facebook Facebook https://www.facebook.com > corp.kao > reels",
+    "url": "https://www.facebook.com/corp.kao/reels/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.kao-kirei.com/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kao-kirei.com/ja/category/beautyequipment/beautyequipmentproducts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kao-kirei.com/ja/news/information/2026/20261102-01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kao-kirei.com/ja/news/information/2026/20260918-01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kao-kirei.com/ja/news/information/2026/20260731-01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kao-kirei.com/ja/news/information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kao-kirei.com/ja/category/thermalproducts/steamsheet/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kao-kirei.com/ja/news/information/2026/20260909-01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kao-kirei.com/ja/news/information/2026/20260728-01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kao-kirei.com/ja/category/beautyequipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kao-kirei.com/ja/news/information/2026/20260706-01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kao-kirei.com/ja/news/information/2026/20260701-01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kao-kirei.com/ja/news/information/2026/20260420-01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kao-kirei.com/ja/news/information/2026/20260220-01/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.kao.com/jp/corporate/outline/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kao.com/jp/corporate/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=4452",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubeni-idigio.com/insight-hub/metal3dprinter_desktopmetal_case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/the-future-of-metal-3d-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Ew517KG1bOI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jampt.jp/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.3dsystems.com/semiconductor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kao.com/jp/investor-relations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUB039BF0T00C26A8000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kao.com/jp/corporate/outline/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kao.com/jp/corporate/data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://irbank.net/E00883/worker",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.kao.co.jp/?gs=07ae4607b85ae4e81272b4685e575237",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sunmarkweb.com/n/n7ab19bcf3ce8?gs=06d59cd29e18effe35bcef83e92e1ae6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/dear_meter/n/nab2debd2201a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E8%8A%B1%E7%8E%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/KaoCorporate_jp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/KaoCorporate_jp/all",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/KaoCorporate_jp/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/merit_jp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/%E8%8A%B1%E7%8E%8B%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/srsafi/ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/dandan-li-4a4851aa",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/corp.kao/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/corp.kao/videos/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/corp.kao/mentions/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/corp.kao/reels/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/events/n/n0bba16228fb7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/KaoCorporate_jp/status/1924950034770219164",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/kao_creative_pkg",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/KaoCorporate_jp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/magiclean_jp",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "花王",
+   "results": [
+    "https://www.kao.com/jp/",
+    "https://ja.wikipedia.org/wiki/%E8%8A%B1%E7%8E%8B",
+    "https://www.instagram.com/kao_official_jp/",
+    "https://www.kao-kirei.com/ja/khg/",
+    "https://www.facebook.com/corp.kao/?locale=ja_JP"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 5
+  },
+  {
+   "query": "花王 会社概要 資本金 設立",
+   "results": [
+    "https://www.kao.com/jp/corporate/outline/profile/",
+    "https://www.kao.com/jp/corporate/outline/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=4452",
+    "https://kosen-plus.com/company/b3b014e2-f293-409b-8cbe-9decfc186480/info/",
+    "https://tenshoku.mynavi.jp/company/383709/",
+    "https://ja.wikipedia.org/wiki/%E8%8A%B1%E7%8E%8B",
+    "https://www.kao.com/jp/corporate/history/company-history/",
+    "https://baike.baidu.com/ja/item/%E6%97%A5%E6%9C%AC%E8%8A%B1%E7%8E%8B%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/7506269",
+    "https://ja.wikipedia.org/wiki/花王",
+    "https://companydata.tsujigawa.com/company/4010001034760/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "花王 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.marubeni-idigio.com/insight-hub/metal3dprinter_desktopmetal_case/",
+    "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/the-future-of-metal-3d-printing",
+    "https://www.youtube.com/watch?v=Ew517KG1bOI",
+    "https://www.ricoh.co.jp/3dp/metal/what",
+    "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "https://j3d.co.jp/column/09df60f3-f8cd-4343-89e4-bea3559722fd",
+    "https://metoree.com/categories/5523/",
+    "https://kk-ariga.co.jp/metal_3d_printer/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B/",
+    "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "花王 金属積層造形 設備",
+   "results": [
+    "https://jampt.jp/equipment/",
+    "https://ja.3dsystems.com/semiconductor",
+    "https://chuokatan.co.jp/products/3dp/",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://www.youtube.com/watch?v=sT3lR9R98hc",
+    "https://www.nims.go.jp/cccenter/ismg/equipments.html",
+    "https://partners.solize.com/manufacturing/technology/3dp-metal",
+    "https://www.mazak.com/jp-ja/products/am/",
+    "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "https://www.jfe-steel.co.jp/products/solution/metal-3d-printing/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "花王 株主 出資 親会社",
+   "results": [
+    "https://www.kao.com/jp/investor-relations/",
+    "https://www.kao.com/jp/investor-relations/stock-information/shareholder-benefits/",
+    "https://www.nikkei.com/article/DGXZQOUB039BF0T00C26A8000000/",
+    "https://www.kao.com/jp/corporate/outline/profile/",
+    "https://kabutan.jp/stock/holder?code=4452",
+    "https://www.youtube.com/watch?v=4BcuLmphNA0",
+    "https://www.marr.jp/news/entry/68301",
+    "https://www.kao.com/jp/investor-relations/individual/",
+    "https://www.kabutore.biz/genzaikabuka/oyagaisya.html?code=4452",
+    "https://irbank.net/E00883/ac"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "花王 売上高 従業員数",
+   "results": [
+    "https://www.kao.com/jp/corporate/outline/profile/",
+    "https://www.kao.com/jp/corporate/data/",
+    "https://irbank.net/E00883/worker",
+    "https://www.kao.com/jp/investor-relations/financial/pl/",
+    "https://job.mynavi.jp/27/pc/search/corp66683/outline.html",
+    "https://www.kao-recruit.jp/about/",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=4452",
+    "https://kigyo-scope.jp/company/4452/",
+    "https://fact-board.co.jp/company/d-kao/",
+    "https://customers.omakasebiz.jp/companies/4010001034760-花王株式会社"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 花王",
+   "results": [
+    "https://note.com/kao_pr",
+    "https://note.com/sunmarkweb/n/n7ab19bcf3ce8",
+    "https://note.com/dear_meter/n/nab2debd2201a",
+    "https://note.com/tag/%E8%8A%B1%E7%8E%8B",
+    "https://note.com/magic_swift2546/n/nfd8e471402ce",
+    "https://note.com/kao_creative_pkg",
+    "https://note.com/tisobro/n/nc7e52cbd68c3",
+    "https://note.com/open_azalea2045/n/n7462a5a50895",
+    "https://note.com/shyuukatu_gy/n/n9dd04c66135c",
+    "https://note.com/mozoz35/n/ne03b5494ce38"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:x.com 花王",
+   "results": [
+    "https://x.com/KaoCorporate_jp",
+    "https://x.com/KaoCorporate_jp/all",
+    "https://x.com/KaoCorporate_jp/with_replies",
+    "https://x.com/merit_jp",
+    "https://x.com/magiclean_jp",
+    "https://x.com/success_kao_jp",
+    "https://marketing.x.com/ja/success-stories/kao-essential",
+    "https://x.com/KaoHamigaki",
+    "https://x.com/KaoCorporate_jp/status/1838761598376382732",
+    "https://x.com/KaoCorporate_jp/status/2039244404922417209"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:linkedin.com 花王",
+   "results": [
+    "https://jp.linkedin.com/company/kao-group",
+    "https://jp.linkedin.com/company/%E8%8A%B1%E7%8E%8B%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://jp.linkedin.com/in/srsafi/ja",
+    "https://jp.linkedin.com/in/dandan-li-4a4851aa",
+    "https://www.linkedin.com/posts/st%C3%A9phane-grenier-52716112_%E7%82%B9%E3%81%AE%E6%96%BD%E7%AD%96%E3%82%92%E3%81%B2%E3%81%A8%E3%81%A4%E3%81%AA%E3%81%8E%E3%81%AB%E8%8A%B1%E7%8E%8B%E3%81%8C%E8%80%83%E3%81%88%E3%82%8B-ai-%E6%99%82%E4%BB%A3%E3%81%AE%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E6%88%A6%E7%95%A5-activity-7501051561800851456-a6Pc",
+    "https://jp.linkedin.com/in/shingo-sakai-b6182ab2",
+    "https://www.linkedin.com/news/story/%E7%92%B0%E5%A2%83%E7%AD%96-%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD74%E7%A4%BE%E3%81%8Ca%E8%A9%95%E4%BE%A1-4603169/",
+    "https://jp.linkedin.com/in/isao-nagaosa-80b19410/ja",
+    "https://jp.linkedin.com/in/yuki-sano-56600287",
+    "https://cn.linkedin.com/in/ritsuko律子-yamazaki山崎-225891148"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com 花王",
+   "results": [
+    "https://www.facebook.com/corp.kao/",
+    "https://www.facebook.com/corp.kao/videos/",
+    "https://www.facebook.com/corp.kao/mentions/",
+    "https://www.facebook.com/corp.kao/reels/",
+    "https://www.facebook.com/corp.kao/photos/1533491728820786/",
+    "https://www.facebook.com/corp.kao/posts/%E3%82%B3%E3%82%B9%E3%83%A1%E3%83%90%E3%83%B3%E3%82%AF%E3%81%AB%E5%8C%96%E7%B2%A7%E5%93%81%E3%82%92%E5%AF%84%E8%B4%88%E8%8A%B1%E7%8E%8B%E3%81%AF%E4%B8%80%E8%88%AC%E7%A4%BE%E5%9B%A3%E6%B3%95%E4%BA%BA%E3%83%90%E3%83%B3%E3%82%AF%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AB%E3%82%BA%E3%81%8C%E9%81%8B%E5%96%B6%E3%81%99%E3%82%8B%E3%82%B3%E3%82%B9%E3%83%A1%E3%83%90%E3%83%B3%E3%82%AF-%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AB%E5%8F%82%E7%94%BB%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%93%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AF%E7%B5%8C%E6%B8%88%E7%9A%84%E3%81%AA%E7%90%86%E7%94%B1%E3%81%AA%E3%81%A9%E3%81%A7%E5%8C%96%E7%B2%A7%E5%93%81/1106452821524681/",
+    "https://www.facebook.com/corp.kao/photos/",
+    "https://www.facebook.com/corp.kao/videos/%E8%8A%B1%E7%8E%8B%E5%85%AC%E5%BC%8F%E3%81%AE%E8%A6%8B%E8%A7%A3%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC/1991355808012000/",
+    "https://www.facebook.com/corp.kao/posts/%E7%A4%BE%E4%BC%9A%E4%BA%BA%E3%81%A8%E3%81%97%E3%81%A6%E6%96%B0%E3%81%97%E3%81%84%E4%B8%80%E6%AD%A9%E3%82%92%E8%B8%8F%E3%81%BF%E5%87%BA%E3%81%95%E3%82%8C%E3%81%9F%E3%81%BF%E3%81%AA%E3%81%95%E3%82%93%E3%81%94%E5%AE%B6%E6%97%8F%E3%81%AE%E3%81%BF%E3%81%AA%E3%81%95%E3%82%93%E3%81%8A%E3%82%81%E3%81%A7%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99%E8%8A%B1%E7%8E%8B%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%A7%E3%82%82498%E5%90%8D%E3%81%AE%E6%96%B0%E3%81%9F%E3%81%AA%E4%BB%B2%E9%96%93%E3%82%92%E8%BF%8E%E3%81%88%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E5%90%88%E5%90%8C%E3%81%AE%E5%85%A5%E7%A4%BE%E3%82%BB%E3%83%AC%E3%83%A2%E3%83%8B%E3%83%BCwelco/1370728475097113/",
+    "https://www.facebook.com/kao.smilelife/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "花王 note 社長",
+   "results": [
+    "https://note.kao.co.jp/all",
+    "https://note.com/events/n/n0bba16228fb7",
+    "https://x.com/KaoCorporate_jp/status/1924950034770219164",
+    "https://note.com/kao_creative_pkg",
+    "https://note.com/tag/%E8%8A%B1%E7%8E%8B",
+    "https://note.kao.co.jp/",
+    "https://www.kao.com/jp/newsroom/news/release/2022/20220316-002/",
+    "https://note.com/kao_creative_pkg/n/n5a54b9b86f26",
+    "https://ja.wikipedia.org/wiki/長谷部佳宏",
+    "https://www.kao.com/jp/corporate/outline/officers/yoshihiro_hasebe/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "花王 X 投稿",
+   "results": [
+    "https://x.com/KaoCorporate_jp",
+    "https://www.kao.com/jp/",
+    "https://x.com/magiclean_jp",
+    "https://www.kao.com/jp/campaign-agreement/",
+    "https://koubo.jp/contest/265868",
+    "https://my.kao-kirei.com/",
+    "https://www.kao.com/jp/support/",
+    "https://www.facebook.com/corp.kao/?locale=ja_JP",
+    "https://x.com/kao_attackjp",
+    "https://x.com/est_kao_jp/status/2070311082657493218"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部35頁・検索12回）",
+  "資本金": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部35頁・検索12回）",
+  "創業年度": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部35頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部35頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部35頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部35頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部35頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部35頁・検索12回）"
+ }
+}

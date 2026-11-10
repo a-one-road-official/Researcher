@@ -1,0 +1,350 @@
+{
+ "name": "Tummers Staffing & Facilities B.V.",
+ "aliases": [],
+ "context": "旧営業リスト｜Non-AUMS｜AUMS不適合",
+ "researched_at": "2026-11-10T19:26:55.914332+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {},
+ "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "Tummers Staffing & Facilities BV - Company Profile and News — Tummers Staffing & Facilities B.V. was founded in 2006. The company's line of business includes holding and owning securities of companies other than banks.",
+    "url": "https://www.bloomberg.com/profile/company/2377370D:NA",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://tummers.nl/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bloomberg.com/profile/company/2377370D:NA",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.potatobusiness.com/business-news/kiremko-idaho-steel-reyco-group-acquires-tummers-and-van-der-giessen/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.freshplaza.com/north-america/article/9257168/tummers-expansion-project-starts-with-excavation-works/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%BC%E3%83%A1%E3%83%B3%E3%82%B9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://companyinformation.jp/articles/foreign-company-japan-presence/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://japan-company.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.houjin-bangou.nta.go.jp/en/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Tummers Staffing & Facilities B.V.",
+   "results": [
+    "https://www.bloomberg.com/profile/company/2377370D:NA",
+    "https://www.fme.nl/onze-leden/tummers-staffing-facilities-bv",
+    "https://companyinfo.nl/organisatieprofiel/concerndiensten-binnen-eigen-concern/tummers-staffing-facilities-b-v-hoogerheide-22048402-000017355184",
+    "https://www.creditsafe.com/business-index/en-gb/company/tummers-staffing-facilities-bv-nl01131069",
+    "https://tummers.nl/en/",
+    "https://tummers.nl/",
+    "https://gr.kompass.com/c/tummers-staffing-facilities-b-v/nl396822/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "株式会社Tummers Staffing & Facilities B.V.",
+   "results": [
+    "https://www.bloomberg.com/profile/company/2377370D:NA",
+    "https://www.creditsafe.com/business-index/en-gb/company/tummers-staffing-facilities-bv-nl01131069",
+    "https://sg.kompass.com/c/tummers-staffing-facilities-b-v/nl396822/",
+    "https://www.fme.nl/onze-leden/tummers-staffing-facilities-bv",
+    "https://gr.kompass.com/c/tummers-staffing-facilities-b-v/nl396822/",
+    "https://tummers.nl/en/",
+    "https://tummers.nl/en/about-us/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tummers Staffing & Facilities B.V. 株式会社",
+   "results": [
+    "https://www.bloomberg.com/profile/company/2377370D:NA",
+    "https://www.creditsafe.com/business-index/en-gb/company/tummers-staffing-facilities-bv-nl01131069",
+    "https://hk.kompass.com/c/tummers-staffing-facilities-b-v/nl396822/",
+    "https://tummers.nl/en/",
+    "https://tummers.nl/en/nieuws/tummers-group-unveils-new-organizational-structure-to-drive-future-growth-and-flexibility/",
+    "https://gb.kompass.com/c/tummers-staffing-facilities-b-v/nl396822/",
+    "https://sg.kompass.com/c/tummers-staffing-facilities-b-v/nl396822/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ｔｕｍｍｅｒｓ　Ｓｔａｆｆｉｎｇ　＆　Ｆａｃｉｌｉｔｉｅｓ　Ｂ．Ｖ．",
+   "results": [
+    "https://tummers.nl/en/",
+    "https://tummers.nl/",
+    "https://www.fme.nl/onze-leden/tummers-staffing-facilities-bv",
+    "https://companyinfo.nl/organisatieprofiel/concerndiensten-binnen-eigen-concern/tummers-staffing-facilities-b-v-hoogerheide-22048402-000017355184",
+    "https://www.bloomberg.com/profile/company/2377370D:NA",
+    "https://www.creditsafe.com/business-index/en-gb/company/tummers-staffing-facilities-bv-nl01131069",
+    "https://drimble.nl/bedrijf/hoogerheide/17355184/ebutech-holding-bv.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "TummersStaffing&FacilitiesB.V.",
+   "results": [
+    "https://www.bloomberg.com/profile/company/2377370D:NA",
+    "https://www.creditsafe.com/business-index/en-gb/company/tummers-staffing-facilities-bv-nl01131069",
+    "https://tummers.nl/en/",
+    "https://www.fme.nl/onze-leden/tummers-staffing-facilities-bv",
+    "https://companyinfo.nl/organisatieprofiel/concerndiensten-binnen-eigen-concern/tummers-staffing-facilities-b-v-hoogerheide-22048402-000017355184",
+    "https://gb.kompass.com/c/tummers-staffing-facilities-b-v/nl396822/",
+    "https://www.oozo.nl/bedrijven/woensdrecht/hoogerheide-en-woensdrecht/industrieterrein-de-kooy/3837248/tummers-staffing-facilities-b-v"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tummers Staffing & Facilities B.V. Japan",
+   "results": [
+    "https://tummers.nl/en/",
+    "https://www.bloomberg.com/profile/company/2377370D:NA",
+    "https://www.creditsafe.com/business-index/en-gb/company/tummers-staffing-facilities-bv-nl01131069",
+    "https://tummers.nl/en/about-us/",
+    "https://hk.kompass.com/c/tummers-staffing-facilities-b-v/nl396822/",
+    "https://www.linkedin.com/posts/simon-dryers_tummers-tummerssimondryerstechnology-foomajapan-activity-7468193131184812032-31hx",
+    "https://sg.kompass.com/c/tummers-staffing-facilities-b-v/nl396822/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tummers Staffing & Facilities B.V. 日本",
+   "results": [
+    "https://tummers.nl/en/",
+    "https://www.bloomberg.com/profile/company/2377370D:NA",
+    "https://www.creditsafe.com/business-index/en-gb/company/tummers-staffing-facilities-bv-nl01131069",
+    "https://hk.kompass.com/c/tummers-staffing-facilities-b-v/nl396822/",
+    "https://www.fme.nl/onze-leden/tummers-staffing-facilities-bv",
+    "https://sg.kompass.com/c/tummers-staffing-facilities-b-v/nl396822/",
+    "https://tummers.nl/nieuws/industrial-group-joins-forces-tummers/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tummers Staffing & Facilities B.V. K.K.",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Tummers Staffing & Facilities B.V. 日本 導入",
+   "results": [
+    "https://tummers.nl/en/",
+    "https://www.bloomberg.com/profile/company/2377370D:NA",
+    "https://www.potatobusiness.com/business-news/kiremko-idaho-steel-reyco-group-acquires-tummers-and-van-der-giessen/",
+    "https://www.freshplaza.com/north-america/article/9257168/tummers-expansion-project-starts-with-excavation-works/",
+    "https://tummers.nl/nieuws/industrial-group-joins-forces-tummers/",
+    "https://www.potatopro.com/news/2026/investindustrial-kiremko-idaho-steel-and-reyco-acquires-tummers-and-van-der-giessen",
+    "https://www.potatonewstoday.com/2026/06/22/kiremko-idaho-steel-and-reyco-brands-announce-the-acquisition-of-tummers-and-van-der-giessen/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tummers Staffing & Facilities B.V. 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/シーメンス",
+    "https://companyinformation.jp/articles/foreign-company-japan-presence/",
+    "https://japan-company.net/",
+    "https://www.houjin-bangou.nta.go.jp/en/index.html",
+    "https://biz.toyokeizai.net/data/service/detail/id=418",
+    "https://ja.namescan.io/companysinglescan",
+    "https://www.grop.co.jp/global/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tummers Staffing & Facilities B.V. Japan",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Tummers Staffing & Facilities B.V. manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Tummers Staffing & Facilities B.V. white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Tummers Staffing & Facilities B.V. founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Tummers Staffing & Facilities B.V.",
+   "results": [
+    "https://note.com/tag/赤青ルーシー",
+    "https://note.com/tag/肉球人狼",
+    "https://note.com/tag/積読美術館",
+    "https://note.com/tag/わたしの知らない子どもたち",
+    "https://note.com/tag/MMX",
+    "https://note.com/boxing_square/n/n2d6f68940014",
+    "https://note.com/sinya9585/n/nfe22769812f1"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Tummers Staffing & Facilities B.V.",
+   "results": [
+    "https://x.com/reputablegirl/status/1876633415140962800",
+    "https://jf.x.com/images/media-preview/2114701839212191876",
+    "https://x.com/abdykeen/status/2117175866232868947",
+    "https://x.com/Howlingmutant0/status/2115570165723340923",
+    "https://x.com/is3oluwa/status/2114230926062338076",
+    "https://x.com/AdamSchefter/status/2115541451031355872",
+    "https://x.com/Vanlenciacf/status/2115571969827668368"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Tummers Staffing & Facilities B.V.",
+   "results": [
+    "https://www.linkedin.com/company/tummers-group",
+    "https://www.linkedin.com/company/tummers-machinebouw-b-v-",
+    "https://nl.linkedin.com/in/p-h-a-tummers-96253229",
+    "https://nl.linkedin.com/in/alfons-tummers-9a098043",
+    "https://cn.linkedin.com/company/tummers-machinebouw-b-v-",
+    "https://uk.linkedin.com/company/tummers-machinebouw-b-v-",
+    "https://be.linkedin.com/in/ptummers"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Tummers Staffing & Facilities B.V.",
+   "results": [
+    "https://www.facebook.com/TummersFPS/photos/heb-jij-je-al-ingeschreven-voor-een-bedrijfsbezoek-bij-tummers-via-kijk-binnen-b/841486384517869/",
+    "https://www.facebook.com/TummersFPS/",
+    "https://www.facebook.com/TummersFPS/photos/𝗧𝘂𝗺𝗺𝗲𝗿𝘀-𝗚𝗿𝗼𝘂𝗽-𝗲𝗻-𝗩𝗮𝗻-𝗱𝗲𝗿-𝗚𝗶𝗲𝘀𝘀𝗲𝗻-𝗸𝗼𝗻𝗱𝗶𝗴𝗲𝗻-𝘃𝗼𝗼𝗿𝗻𝗲𝗺𝗲𝗻-𝗮𝗮𝗻-𝗼𝗺-𝘀𝗮𝗺𝗲𝗻𝘄𝗲𝗿𝗸𝗶𝗻𝗴-𝘃𝗲𝗿𝗱𝗲𝗿-𝘁/1458355232830978/",
+    "https://www.facebook.com/kiremkobv/posts/𝐀-𝐧𝐞𝐰-𝐜𝐡𝐚𝐩𝐭𝐞𝐫-𝐛𝐞𝐠𝐢𝐧𝐬tummers-food-processing-solutions-tummers-group-and-van-der-/1619673403498875/",
+    "https://www.facebook.com/PotatoPro/posts/tummers-machinebouw-bv-now-officially-tummers-food-processing-solutions-bv-as-of/972598714876942/",
+    "https://www.facebook.com/TummersMetalSolutions/",
+    "https://www.facebook.com/TummersInvest/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tummers Staffing & Facilities B.V. note 社長",
+   "results": [
+    "https://companyinfo.nl/organisatieprofiel/concerndiensten-binnen-eigen-concern/tummers-staffing-facilities-b-v-hoogerheide-22048402-000017355184",
+    "https://gr.kompass.com/c/tummers-staffing-facilities-b-v/nl396822/",
+    "https://www.bloomberg.com/profile/company/2377370D:NA",
+    "https://tummers.nl/nieuws/50-years-of-tummers/",
+    "https://gb.kompass.com/c/tummers-staffing-facilities-b-v/nl396822/",
+    "https://tummers.nl/en/nieuws/tummers-group-unveils-new-organizational-structure-to-drive-future-growth-and-flexibility/",
+    "https://sg.kompass.com/c/tummers-staffing-facilities-b-v/nl396822/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tummers Staffing & Facilities B.V. X 投稿",
+   "results": [
+    "https://www.bloomberg.com/profile/company/2377370D:NA",
+    "https://tummers.nl/en/news/",
+    "https://tummers.nl/en/",
+    "https://www.fme.nl/onze-leden/tummers-staffing-facilities-bv",
+    "https://x.com/LGTummers",
+    "https://www.instagram.com/tummers.fps/",
+    "https://companyinfo.nl/organisatieprofiel/concerndiensten-binnen-eigen-concern/tummers-staffing-facilities-b-v-hoogerheide-22048402-000017355184"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索20回）",
+  "株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索20回）",
+  "従業員数": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索20回）",
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索20回）",
+  "所在地": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索20回）",
+  "料金": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索20回）",
+  "連絡先": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索20回）",
+  "採用・広告の製品": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索20回）",
+  "製造業の実績": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索20回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索20回）",
+  "日本の担い手": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索20回）",
+  "規模・親会社": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索20回）"
+ }
+}

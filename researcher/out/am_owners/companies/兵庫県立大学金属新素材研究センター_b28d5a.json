@@ -1,0 +1,325 @@
+{
+ "name": "兵庫県立大学金属新素材研究センター",
+ "aliases": [],
+ "context": "PBF=unknown 装置= 出典=https://events.malvernpanalytical.com/AM_Hyogo2025",
+ "researched_at": "2026-11-10T19:19:21.311702+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {},
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "兵庫県立大学内に設立された『金属新素材研究センター』では実際に導入された金属",
+    "url": "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%82%87%E3%81%86%E3%81%94%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%99%E3%83%AB%E3%83%88%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B7%E3%82%A2%E3%83%A0",
+    "pass": 3
+   },
+   {
+    "quote": "を使った試験造形を受け付けるほか、技術習得セミナーや金属3Dプリンターに関する展示会の視察報告会、会員企業間の技術シーズの成果報告などの共有会を行っている",
+    "url": "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%82%87%E3%81%86%E3%81%94%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%99%E3%83%AB%E3%83%88%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B7%E3%82%A2%E3%83%A0",
+    "pass": 3
+   },
+   {
+    "quote": "会員企業/団体には金属3Dプリンター開発企業、サービスビューロ（3Dプリンターによる受託加工業者）、金属材料メーカー、金属加工業者などがある",
+    "url": "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%82%87%E3%81%86%E3%81%94%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%99%E3%83%AB%E3%83%88%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B7%E3%82%A2%E3%83%A0",
+    "pass": 3
+   },
+   {
+    "quote": "電子ビーム型金属用3Dプリンタ＜多田電機株式会社開発の",
+    "url": "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%82%87%E3%81%86%E3%81%94%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%99%E3%83%AB%E3%83%88%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B7%E3%82%A2%E3%83%A0",
+    "pass": 3
+   },
+   {
+    "quote": "製のLUMEX Avance-25",
+    "url": "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%82%87%E3%81%86%E3%81%94%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%99%E3%83%AB%E3%83%88%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B7%E3%82%A2%E3%83%A0",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "で、硬度・耐熱性・微細加工性に優れた金属粉末や",
+    "url": "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%82%87%E3%81%86%E3%81%94%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%99%E3%83%AB%E3%83%88%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B7%E3%82%A2%E3%83%A0",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "一般財団法人近畿高エネルギー加工技術研究所（AMPI）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%82%87%E3%81%86%E3%81%94%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%99%E3%83%AB%E3%83%88%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B7%E3%82%A2%E3%83%A0",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.jstage.jst.go.jp/article/jfeskouen/180/0/180_119/_pdf/-char/ja",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.u-hyogo.ac.jp/close_up/852430a0f3e01314d0f526d5446a1298293abe70.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/sr09/metaruberuto.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyogo-kg.jp/about/kinzoku",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%82%87%E3%81%86%E3%81%94%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%99%E3%83%AB%E3%83%88%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B7%E3%82%A2%E3%83%A0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyogo-kg.jp/about/kinzoku",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%82%87%E3%81%86%E3%81%94%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%99%E3%83%AB%E3%83%88%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B7%E3%82%A2%E3%83%A0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyogo-kg.jp/about/kinzoku",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/sr09/metaruberuto.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "兵庫県立大学金属新素材研究センター",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "株式会社兵庫県立大学金属新素材研究センター",
+   "results": [
+    "https://www.hyogo-kg.jp/about/kinzoku",
+    "https://uh-sangaku.jp/new-metal-material/",
+    "https://web.pref.hyogo.lg.jp/sr09/metaruberuto.html",
+    "https://www.u-hyogo.ac.jp/close_up/852430a0f3e01314d0f526d5446a1298293abe70.html",
+    "https://uh-sangaku.jp/metalbelt-consortium2/",
+    "https://web.pref.hyogo.lg.jp/sr09/documents/pamphlet.pdf",
+    "https://u-hyogo-webmag.com/archives/article/20251113jushou"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "兵庫県立大学金属新素材研究センター 株式会社",
+   "results": [
+    "https://www.hyogo-kg.jp/about/kinzoku",
+    "https://uh-sangaku.jp/new-metal-material/",
+    "https://web.pref.hyogo.lg.jp/sr09/metaruberuto.html",
+    "https://uh-sangaku.jp/metalbelt-consortium2/",
+    "https://www.u-hyogo.ac.jp/close_up/852430a0f3e01314d0f526d5446a1298293abe70.html",
+    "https://web.pref.hyogo.lg.jp/sr09/documents/pamphlet.pdf",
+    "https://u-hyogo-webmag.com/archives/article/20251113jushou"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "兵庫県立大学金属新素材研究センター 会社概要 資本金 設立",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "兵庫県立大学金属新素材研究センター 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.jstage.jst.go.jp/article/jfeskouen/180/0/180_119/_pdf/-char/ja",
+    "https://www.u-hyogo.ac.jp/close_up/852430a0f3e01314d0f526d5446a1298293abe70.html",
+    "https://uh-sangaku.jp/new-metal-material/",
+    "https://web.pref.hyogo.lg.jp/sr09/metaruberuto.html",
+    "https://www.hyogo-kg.jp/about/kinzoku",
+    "https://newswitch.jp/p/19436",
+    "https://web.pref.hyogo.lg.jp/sr09/documents/pamphlet.pdf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "兵庫県立大学金属新素材研究センター 金属積層造形 設備",
+   "results": [
+    "https://uh-sangaku.jp/new-metal-material/",
+    "https://web.pref.hyogo.lg.jp/sr09/metaruberuto.html",
+    "https://www.hyogo-kg.jp/about/kinzoku",
+    "https://web.pref.hyogo.lg.jp/sr09/documents/pamphlet.pdf",
+    "https://uh-sangaku.jp/wp-content/uploads/2023/09/009-11-22-takeuchi_akira.pdf",
+    "https://www.u-hyogo.ac.jp/close_up/852430a0f3e01314d0f526d5446a1298293abe70.html",
+    "https://www.ama-in.or.jp/industrial/labhyogoR1.pdf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "兵庫県立大学金属新素材研究センター 株主 出資 親会社",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ひょうごメタルベルトコンソーシアム",
+    "https://www.hyogo-kg.jp/about/kinzoku",
+    "https://uh-sangaku.jp/new-metal-material/",
+    "https://web.pref.hyogo.lg.jp/sr09/metaruberuto.html",
+    "https://uh-sangaku.jp/metalbelt-consortium2/",
+    "https://www.u-hyogo.ac.jp/close_up/852430a0f3e01314d0f526d5446a1298293abe70.html",
+    "https://web.pref.hyogo.lg.jp/gikai/iinkai/index/joniniinkai/bunkyo/documents/06-1bunshiryo060917.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "兵庫県立大学金属新素材研究センター 売上高 従業員数",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ひょうごメタルベルトコンソーシアム",
+    "https://www.hyogo-kg.jp/about/kinzoku",
+    "https://web.pref.hyogo.lg.jp/sr09/metaruberuto.html",
+    "https://uh-sangaku.jp/new-metal-material/",
+    "https://www.u-hyogo.ac.jp/close_up/852430a0f3e01314d0f526d5446a1298293abe70.html",
+    "https://uh-sangaku.jp/metalbelt-consortium2/",
+    "https://web.pref.hyogo.lg.jp/sr09/documents/pamphlet.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 兵庫県立大学金属新素材研究センター",
+   "results": [
+    "https://note.com/iseki_lab/n/nc47e63324ba5",
+    "https://note.com/hyogo_kg",
+    "https://note.com/fast_poppy8050/n/nc713eb94d163",
+    "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "https://note.com/hyogo_kg/n/ne60530295516",
+    "https://note.com/brisk_kalmia5772/n/n18c75d01e9b0",
+    "https://note.com/mba_yasabi/n/n7dd778b5daf7"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 兵庫県立大学金属新素材研究センター",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com 兵庫県立大学金属新素材研究センター",
+   "results": [
+    "https://jp.linkedin.com/in/洋-濱田-12278094",
+    "https://jp.linkedin.com/in/yosuke-shibahara-11b30880",
+    "https://www.linkedin.com/pub/dir/Damodaram/Pothala",
+    "https://www.linkedin.com/posts/formnext-forum-tokyo_金属新素材研究センター様へお伺いさせていただきました-さすが大学の研究施設とのこともあり-activity-7157535327098724353-9iPA",
+    "https://ca.linkedin.com/jobs/view/研究職（機械-材料-制御-化学-電気電子など）（オープンポジション-二卒・ポスドク歓迎-兵庫）-at-kobe-steel-ltd-4481685554",
+    "https://cn.linkedin.com/in/小春-刘-43928b141",
+    "https://cn.linkedin.com/in/莉-王-51806ba7"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 兵庫県立大学金属新素材研究センター",
+   "results": [
+    "https://www.facebook.com/universityofhyogo2004/",
+    "https://www.facebook.com/TeamStressStrainCurve/",
+    "https://www.facebook.com/hyogo.sangyo/posts/2416061485103855/",
+    "https://www.facebook.com/lpicbook/posts/兵庫県立大学は４月姫路工学キャンパスに金属新素材研究センターを開設造形品は航空機や医療機器の部品として適用が見込まれるが強度など安全性の検証も必要だ企業間の協力/2490012391033791/",
+    "https://www.facebook.com/soft3dconsortium/posts/兵庫県立大学は４月姫路工学キャンパスに金属新素材研究センターを開設造形品は航空機や医療機器の部品として適用が見込まれるが強度など安全性の検証も必要だ企業間の協力/2366425410247266/",
+    "https://www.facebook.com/SoftmatterRobotics/posts/兵庫県立大学は４月姫路工学キャンパスに金属新素材研究センターを開設造形品は航空機や医療機器の部品として適用が見込まれるが強度など安全性の検証も必要だ企業間の協力/2590010577773055/",
+    "https://www.facebook.com/events/兵庫県立大学書写キャンパス/兵庫県立大学金属新素材研究センター開設記念式典セミナー/400514933871080/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "兵庫県立大学金属新素材研究センター note 社長",
+   "results": [
+    "https://www.hyogo-kg.jp/about/kinzoku",
+    "https://uh-sangaku.jp/new-metal-material/",
+    "https://u-hyogo-webmag.com/archives/article/20251113jushou",
+    "https://u-fino.com/program/isk7/exhibit/detail26.html",
+    "https://web.pref.hyogo.lg.jp/sr09/metaruberuto.html",
+    "https://hecansa.org/金属新素材研究センター-兵庫県-兵庫県立大学-3dフ/",
+    "https://uh-sangaku.jp/metalbelt-consortium2/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "兵庫県立大学金属新素材研究センター X 投稿",
+   "results": [
+    "https://www.jstage.jst.go.jp/article/amfuture/1/1/1_33/_pdf/-char/en",
+    "https://www.hyogo-kg.jp/about/kinzoku",
+    "https://web.pref.hyogo.lg.jp/sr09/metaruberuto.html",
+    "https://uh-sangaku.jp/new-metal-material/",
+    "https://uh-sangaku.jp/metalbelt-consortium2/",
+    "https://www.u-hyogo.ac.jp/close_up/852430a0f3e01314d0f526d5446a1298293abe70.html",
+    "https://hecansa.org/金属新素材研究センター-兵庫県-兵庫県立大学-3dフ/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索14回）",
+  "資本金": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索14回）",
+  "創業年度": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索14回）",
+  "従業員数": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索14回）",
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索14回）",
+  "株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索14回）",
+  "所在地": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索14回）",
+  "保有設備": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索14回）",
+  "資本金・株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索14回）"
+ }
+}

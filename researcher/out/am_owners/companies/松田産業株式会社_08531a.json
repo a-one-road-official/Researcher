@@ -1,0 +1,1549 @@
+{
+ "name": "松田産業株式会社",
+ "aliases": [],
+ "context": "PBF=yes 装置=Sapphire 出典=https://prtimes.jp/main/html/rd/p/000000070.000028822.html",
+ "researched_at": "2026-11-10T19:22:07.849828+00:00",
+ "official_url": "https://www.matsuda-sangyo.co.jp/",
+ "identified_by": "search:yahoo_jp:松田産業",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "〒163-0558 新宿区西新宿1-26-2 新宿野村ビル6F 電話03(3345)6025（代表）",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/company/group-company.html",
+    "pass": 1
+   },
+   {
+    "label": "本社",
+    "value": "〒163-0558 新宿区西新宿1-26-2 新宿野村ビル6F 電話03(5322)9080（代表）",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/company/group-company.html",
+    "pass": 1
+   },
+   {
+    "label": "本社",
+    "value": "〒163-0558 新宿区西新宿1-26-2 新宿野村ビル6F 電話03(6758)0089（代表）",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/company/group-company.html",
+    "pass": 1
+   },
+   {
+    "label": "本社",
+    "value": "〒003-0029 札幌市白石区平和通 10丁目北6-17 電話011(862)6161（代表）",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/company/group-company.html",
+    "pass": 1
+   },
+   {
+    "label": "本社",
+    "value": "〒163-0558 新宿区西新宿1-26-2 新宿野村ビル6F",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/company/group-company.html",
+    "pass": 1
+   },
+   {
+    "label": "本社",
+    "value": "〒104-0045 中央区築地4-1-9 電話03(5565)3126（代表）",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/company/group-company.html",
+    "pass": 1
+   },
+   {
+    "label": "本社",
+    "value": "〒731-0202 広島市安佐北区大林町字人甲6-1 電話082(818)8002（代表）",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/company/group-company.html",
+    "pass": 1
+   },
+   {
+    "label": "本社",
+    "value": "〒731-0202 広島市安佐北区大林町字人甲59-1 電話082(818)8010（代表）",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/company/group-company.html",
+    "pass": 1
+   },
+   {
+    "label": "本社",
+    "value": "〒358-0032 入間市大字狭山ケ原158-1 電話04(2934)6101（代表）",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/company/group-company.html",
+    "pass": 1
+   },
+   {
+    "label": "本社",
+    "value": "Hi-Tech Industrial Estate 148 Moo1, T.Banlen, A.Bangpa-in Ayutthaya 13160, Thailand Tel:66-35-729-001",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/company/overseas-base.html",
+    "pass": 1
+   },
+   {
+    "label": "松田産業株式会社（本社",
+    "value": "東京都新宿区 代表取締役社長 松田芳明）は、機関投資家様・証券アナリスト",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news/COPY-COPY-COPY-auto_20261023/main/0/link/kessansetumeikai_261125.pdf",
+    "pass": 2
+   },
+   {
+    "label": "本社住所",
+    "value": "〒163-0558 東京都新宿区西新宿１－２６－２ 地図",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7456",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立年月日",
+    "value": "設立年月日：1978年9月1日",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7456",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "3,559(百万円) \n                                            (2026/3現在) \n                                            日本基準",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7456",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "1,238 人",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7456",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "役員退職慰労金制度の廃止及び株式報酬制度の導入に関するお知らせ",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "執行役員制度導入後の新体制に関するお知らせ",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "執行役員制度導入および定款一部変更のお知らせ",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "松田産業の産業廃棄物処理技術及び収集運搬ネットワークとゼロ・ジャパンの保有技術を融合し廃棄物のリサイクル化を実現しております",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/company/group-company.html",
+    "pass": 1
+   },
+   {
+    "quote": "保有している株式、投資信託、現預金を5フォルダに分けて登録しておくことで、効率よく資産管理ができます",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7456",
+    "pass": 3
+   },
+   {
+    "quote": "棚卸資産の評価方法は確認できていて、通常の販売目的で保有する棚卸資産は原価法（収益性低下による簿価切下げ）を採用",
+    "url": "https://note.com/kabu_memo911/n/ndd55146d290d",
+    "pass": 3
+   },
+   {
+    "quote": "ここは自分でも定点観測できる数字なので、保有するなら週次でチェックする価値があります",
+    "url": "https://note.com/tatsuya_sabato/n/nfc1303fb9ce2",
+    "pass": 3
+   },
+   {
+    "quote": "大型プラントを保有し、電子基板や産業廃棄物から化学的に貴金属を抽出する「装置産業型」",
+    "url": "https://note.com/witty_panda721/n/n82c5b7c06745",
+    "pass": 3
+   },
+   {
+    "quote": "松田産業のビジネスは貴金属を取り扱うため、価格が高騰すれば、当然に保有している在庫（棚卸資産）の金額的価値や、取引先に対する売掛金の額も膨張します",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "統合報告書2025において、同社は「PBR1倍超えへの取り組み」として、ROIC（投下資本利益率）を指標とした経営管理を本格的に導入する方針を明確に打ち出しました3",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "そしてそれに代わり、新たに「役員報酬BIP（Board Incentive Plan）信託」という業績・株価連動型の株式報酬制度を導入しました8",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "私が好む「経営者が自社の株を大量に保有し、株主と同じ船に乗っている企業」という条件を、制度的にも満たすことになりました",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "▼ 政策保有株式の縮減と堅牢な監査体制 ガバナンスの透明性という観点でも、松田産業は近代的な水準をクリアしています",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "また、日本の株式市場で長年「PBR低迷の元凶」「資本の死蔵」と批判されてきた「政策保有株式（持ち合い株）」についても、極めて合理的な姿勢を見せています",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "毎期、保有する全銘柄について、取引による定量的な効果と定性的なシナジーを厳格に検証し、保有目的が達成されないと判断した場合は速やかに処分・縮減を進める方針を明文化し、実行に移しています8",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "資本コスト（WACC）を強く意識したROIC経営の導入、株主との対話を重視するIR体制の強化、そして経営陣自らが株主と同じ目線を持つ報酬体系",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "・これに、同社が保有する現預金等の非事業資産を加え、有利子負債を差し引いた「株主価値（本質的価値）」は、いかに厳格にストレスをかけた前提を用いても、約2,000億円〜2,500億円のレンジに収斂します",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "売上高・利益ともに力強い2桁成長を記録し、ROEも約10%という健全な水準を維持し、ROIC経営の導入や株式報酬（BIP信託）によるガバナンス強化まで進めている、極めて前向きで健全な成長企業です",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "：中期経営計画の目標を大幅に超過達成する実行力と、業績連動型の株式報酬（BIP信託）導入による、株主との強固な利害の一致",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "2026年定時株主総会招集通知",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "「第76回定時株主総会招集ご通知」の一部訂正について",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年定時株主総会招集通知",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "「第75回定時株主総会招集ご通知」の一部訂正について",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年定時株主総会招集通知",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "（開示事項の経過）海外子会社設立完了に関するお知らせ",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "ゼロ･ジャパン株式会社（連結子会社）が「低濃度ポリ塩化ビフェニル廃棄物の無害化処理」に係る環境大臣認定を取得しました",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年定時株主総会招集通知",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年定時株主総会招集通知に際してのインターネット開示事項",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年定時株主総会招集通知",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "ゼロ・ジャパン株式会社（連結子会社）が2022 NEW環境展（N-EXPO 2022）に出展します",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年定時株主総会招集ご通知に際してのインターネット開示事項",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年定時株主総会招集通知",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年定時株主総会招集通知に際してのインターネット開示事項",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年定時株主総会招集通知",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年定時株主総会招集通知に際してのインターネット開示事項",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年定時株主総会招集通知",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年定時株主総会招集通知に際してのインターネット開示事項",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年定時株主総会招集通知",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "ゼロ・ジャパン株式会社（連結子会社）が2018 NEW環境展（N-EXPO",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年定時株主総会招集通知に際してのインターネット開示事項",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年定時株主総会招集通知",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年5月23日～26日 ゼロ・ジャパン株式会社（連結子会社）が2017NEW環境展（N-EXPO 2017 TOKYO)に出展します",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年定時株主総会招集通知",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年定時株主総会招集通知に際してのインターネット開示事項",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "松田産業の100パーセント子会社",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/company/group-company.html",
+    "pass": 1
+   },
+   {
+    "quote": "もったいない精神とチャレンジ精神から生まれた 『食品・貴金属・環境』3つの異なるビジネスを展開する東証プライム上場企業！★創意・挑戦で持続可能な社会を追求★",
+    "url": "https://job.mynavi.jp/28/pc/search/corp27490/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "【資本金】35億5,920万円",
+    "url": "https://www.bizreach.jp/companies/13978/",
+    "pass": 3
+   },
+   {
+    "quote": "【松田産業】[7456]企業概要 社員数や役員報酬・資本金 | 日経電子版",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7456",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業の決算発表日程や株主総会の日程を事前に確認することができます",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7456",
+    "pass": 3
+   },
+   {
+    "quote": "もったいない精神とチャレンジ精神から生まれた 『食品・貴金属・環境』3つの異なるビジネスを展開する東証プライム上場企業！★創意・挑戦で持続可能な社会を追求★",
+    "url": "https://job.mynavi.jp/27/pc/search/corp27490/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "株主還元に関しては、DOE1.5%を目安とした安定配当を掲げ、上場以来一度も減配することなく累進配当を継続している",
+    "url": "https://note.com/fisco_jp/n/ne83e9fcdfa68",
+    "pass": 3
+   },
+   {
+    "quote": "財務健全性・成長投資・株主還元の3本の柱のバランスを取りながら、今後も安定的かつ少しずつ、還元を実施することとしている",
+    "url": "https://note.com/fisco_jp/n/ne83e9fcdfa68",
+    "pass": 3
+   },
+   {
+    "quote": "松田産業を調べていくと、同じ都市鉱山・貴金属リサイクルという領域に、あまり名前の知られていない上場企業が何社もあることに気づきます",
+    "url": "https://note.com/tatsuya_sabato/n/nfc1303fb9ce2",
+    "pass": 3
+   },
+   {
+    "quote": "福島県郡山市に本社を置く、東証スタンダード上場の貴金属リサイクル企業です",
+    "url": "https://note.com/tatsuya_sabato/n/nfc1303fb9ce2",
+    "pass": 3
+   },
+   {
+    "quote": "旧アサヒホールディングス、東証プライム上場の純粋持株会社です",
+    "url": "https://note.com/tatsuya_sabato/n/nfc1303fb9ce2",
+    "pass": 3
+   },
+   {
+    "quote": "東証プライム上場で、プラチナグループメタルのなかでもイリジウムとルテニウムという、極端に希少で加工の難しい2つの金属に特化した工業用貴金属メーカーです",
+    "url": "https://note.com/tatsuya_sabato/n/nfc1303fb9ce2",
+    "pass": 3
+   },
+   {
+    "quote": "静岡県富士宮市に本社を置く、東証スタンダード上場の資源リサイクル企業です",
+    "url": "https://note.com/tatsuya_sabato/n/nfc1303fb9ce2",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県たつの市に本社を置く、東証スタンダード上場の企業です",
+    "url": "https://note.com/tatsuya_sabato/n/nfc1303fb9ce2",
+    "pass": 3
+   },
+   {
+    "quote": "「解体して、処理して、金属を売る」という川上から川下までを自社で押さえている点が特徴で、上場企業としてはかなり珍しい業態です",
+    "url": "https://note.com/tatsuya_sabato/n/nfc1303fb9ce2",
+    "pass": 3
+   },
+   {
+    "quote": "しているのを背景にAREホールディングスや松田産業が、子会社を通じた歯科医院や宝飾店への直接アプローチを強化",
+    "url": "https://note.com/witty_panda721/n/n82c5b7c06745",
+    "pass": 3
+   },
+   {
+    "quote": "本日は、日本の株式市場に上場する松田産業株式会社（銘柄コード：7456）を取り上げます",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "企業が長期的に高い資本収益率を維持し、株主に莫大な富をもたらすためには、城（企業）を守る深く、そしてワニが泳ぐような「経済的な堀（Moat）」が不可欠です",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "▼ ROEの推移とデュポン分解の洞察 次に、株主の持ち分である自己資本に対していかに効率よく利益を稼いでいるかを示す自己資本利益率（ROE）の推移を見てみましょう",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "真の投資家が見るべきは、その利益がどれだけの資本を投下して生み出されたものか（資本効率）、そして最終的にどれだけの自由な現金（フリーキャッシュフロー：FCF）を株主のポケットにもたらすかです",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "▼ 株主還元政策：配当の持続的な成長 資本効率の向上は、最終的に株主還元へと直結しなければ意味がありません",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "同社は「DOE（株主資本配当率）1.5%以上」を目安とする、安定かつ持続的な配当方針を掲げています3",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "利益の多寡にかかわらず、積み上げた自己資本に対して一定の現金を還元するという、株主にとって非常に予測可能性の高い優れた基準です",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "事業の長期的な成長に必要なインフラ投資の資金（内部留保）をしっかりと確保しつつ、現在の株主への現金還元も忘れない",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、深い堀を持つ城であっても、城主（経営陣）が無能であったり、株主の利益を軽視するようであれば、その価値は内部から毀損されていきます",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "▼ 有言実行の強烈なトラックレコード 松田産業の経営陣は、株主に対して提示した目標を確実に達成する（あるいは大幅に凌駕する）という、極めて優れたトラックレコード（実績）を持っています",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "▼ 報酬設計と株主との強固な利害の一致 2025年6月に開催された株主総会において、松田産業はコーポレートガバナンスの観点から極めて前向きで決定的な改革を実行しました",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "それは、長らく日本企業の悪しき慣習であり、株主価値の毀損要因とされてきた役員に対する「退職慰労金制度」を廃止したことです",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "経営陣の財布と、私たち一般株主の財布が、同じ太い紐で結ばれたのです",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "私が好む「経営者が自社の株を大量に保有し、株主と同じ船に乗っている企業」という条件を、制度的にも満たすことになりました",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "資本コスト（WACC）を強く意識したROIC経営の導入、株主との対話を重視するIR体制の強化、そして経営陣自らが株主と同じ目線を持つ報酬体系",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "金ボンディングワイヤの生産を通じ、各種半導体デバイスのニーズに応えております",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/company/group-company.html",
+    "pass": 1
+   },
+   {
+    "quote": "例えば、貴金属リサイクル事業では、現在、環境に配慮したエネルギーが注目を集めているなか、蓄電池やリチウムイオンバッテリーなどから様々な貴金属や元素のリサイクルに注力",
+    "url": "https://job.mynavi.jp/28/pc/search/corp27490/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "金、銀、プラチナ、パラジウムといった貴金属資源のリサイクルを中心に、半導体電子材料・めっき薬品などの化学製品の開発・販売まで一貫して行い、モノづくりの世界を支える静脈ビジネスが当社のフィールドです",
+    "url": "https://job.mynavi.jp/28/pc/search/corp27490/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、貴金属リサイクル事業では、現在、環境に配慮したエネルギーが注目を集めているなか、蓄電池やリチウムイオンバッテリーなどから様々な貴金属や元素のリサイクルに注力",
+    "url": "https://job.mynavi.jp/27/pc/search/corp27490/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "金、銀、プラチナ、パラジウムといった貴金属資源のリサイクルを中心に、半導体電子材料・めっき薬品などの化学製品の開発・販売まで一貫して行い、モノづくりの世界を支える静脈ビジネスが当社のフィールドです",
+    "url": "https://job.mynavi.jp/27/pc/search/corp27490/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "貴金属関連事業では、資源の回収から精製・加工、販売、さらには廃棄物処理まで一貫した体制を構築し、電子機器、自動車、化学産業に向けた高機能材料を提供する",
+    "url": "https://note.com/fisco_jp/n/ne83e9fcdfa68",
+    "pass": 3
+   },
+   {
+    "quote": "特に半導体や精密機器の製造ラインは年々複雑化しており、それに伴い工程が増えるリサイクル処理をまとめて担える同社への信頼は一層高まっている",
+    "url": "https://note.com/fisco_jp/n/ne83e9fcdfa68",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別では、貴金属関連事業が売上高115,526百万円（同34.7％増）、営業利益2,782百万円（同15.2％増）と金相場上昇や電子部品・半導体関連需要の拡大を背景に好調だった",
+    "url": "https://note.com/fisco_jp/n/ne83e9fcdfa68",
+    "pass": 3
+   },
+   {
+    "quote": "通期予想では売上高490,000百万円（前期比4.5％増）、営業利益13,500百万円（同6.5％増）としており、上期の好調に加えて下期以降の電子部品・半導体製造に関連した需要の回復を想定している",
+    "url": "https://note.com/fisco_jp/n/ne83e9fcdfa68",
+    "pass": 3
+   },
+   {
+    "quote": "国内外問わず、引き続き電子部品・半導体製造に関する資源循環ビジネスがメインターゲットであり、今後も製造工程が増加・高度化していく中で少量多品種のリサイクルを柔軟に行える強みを存分に発揮し、EVシフトやAIデータセンター増設といったグローバルニーズの拡大に応じて取引量と付加価値をともに向上させていく",
+    "url": "https://note.com/fisco_jp/n/ne83e9fcdfa68",
+    "pass": 3
+   },
+   {
+    "quote": "松田産業は、半導体・電子部品スクラップや自動車触媒などから金・銀・白金・パラジウム・ロジウムなどを回収し、精製・販売する貴金属リサイクル会社",
+    "url": "https://note.com/kabu_memo911/n/ndd55146d290d",
+    "pass": 3
+   },
+   {
+    "quote": "沿革上は1951年設立で、半導体・電子部品業界向けの貴金属リサイクル事業には1978年に本格進出している",
+    "url": "https://note.com/kabu_memo911/n/ndd55146d290d",
+    "pass": 3
+   },
+   {
+    "quote": "半導体・電子部品スクラップ由来の回収は同社の歴史的な事業領域で、AI・半導体投資拡大が続くなら、関連スクラップの発生量増加が原料面の追い風になる可能性はある",
+    "url": "https://note.com/kabu_memo911/n/ndd55146d290d",
+    "pass": 3
+   },
+   {
+    "quote": "自動車触媒由来のパラジウムなどは、EV化が進むほど構造的に減る可能性があり、同社の原料ポートフォリオにも中長期では影響しうる",
+    "url": "https://note.com/kabu_memo911/n/ndd55146d290d",
+    "pass": 3
+   },
+   {
+    "quote": "対して電子デバイス分野、いわゆるEスクラップは、半導体や電子部品の製造工程で出る廃液や治具、基板などから貴金属を回収するもので、高度な技術と設備を要するぶんマージンが厚い領域です",
+    "url": "https://note.com/tatsuya_sabato/n/nfc1303fb9ce2",
+    "pass": 3
+   },
+   {
+    "quote": "加えてリチウムイオン電池の再生事業にも取り組んでおり、量産工場の建設を進めています",
+    "url": "https://note.com/tatsuya_sabato/n/nfc1303fb9ce2",
+    "pass": 3
+   },
+   {
+    "quote": "電子材料分野、歯科材料分野、宝飾流通・製造分野、自動車触媒分野からスクラップを集荷し、回収・分離・精錬して高純度の地金にする",
+    "url": "https://note.com/tatsuya_sabato/n/nfc1303fb9ce2",
+    "pass": 3
+   },
+   {
+    "quote": "有機ELディスプレイの発光材料、ハードディスクの記録層向け薄膜、半導体製造装置向けの温度センサー、人工結晶を育成するルツボなどに使われます",
+    "url": "https://note.com/tatsuya_sabato/n/nfc1303fb9ce2",
+    "pass": 3
+   },
+   {
+    "quote": "これは松田産業に限らず、海運、鉄鋼、非鉄、資源、半導体シリコンウェハーなど、市況に業績が連動するあらゆる業種に共通する話です",
+    "url": "https://note.com/tatsuya_sabato/n/nfc1303fb9ce2",
+    "pass": 3
+   },
+   {
+    "quote": "半導体、電子部品、そして電気自動車（EV）に不可欠な「貴金属（金、銀、パラジウム、プラチナなど）」の需要は構造的に拡大し続けています",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "彼らの主要な顧客は、エレクトロニクスメーカー、半導体製造装置メーカー、そして各種電子部品メーカーです",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "貴金属関連事業は、半導体市況や金価格といったマクロ経済の波に大きく影響されるシクリカル（景気敏感）な性質を持ちます",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "現代のエレクトロニクスメーカーや半導体メーカーにとって、自社の製造ラインで発生した貴金属スクラップの処理は、単なる廃棄物の処分ではありません",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、半導体市場の長期的な拡大や、社会の電動化（EVシフトによるリチウムイオン電池需要）といったメガトレンドの恩恵を最も直接的に、かつ高い資本効率で享受できるポジショニングにあります",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "金価格の絶対水準が下がったとしても、半導体や電子部品が世の中から消え去るわけではなく、彼らのビジネスモデル自体が崩壊するわけではありません",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "朝株 11/05（木） 原油急落で米株高、半導体は続落か？｜村田製作所・ファーストリテイリング・オークマほか全13銘柄",
+    "url": "https://note.com/tag/%E6%9D%BE%E7%94%B0%E7%94%A3%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "経済安保の急所！ パワー半導体に不可欠なレアメタルを「都市鉱山」から救い出す日本の神業",
+    "url": "https://note.com/tag/%E6%9D%BE%E7%94%B0%E7%94%A3%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "ウェーハラ先輩 ｜ やさしいAI半導体ニュースナビ",
+    "url": "https://note.com/tag/%E6%9D%BE%E7%94%B0%E7%94%A3%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "AI半導体の大量廃棄を金脈に変える都市鉱山と貴金属リサイクル",
+    "url": "https://note.com/tag/%E6%9D%BE%E7%94%B0%E7%94%A3%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 | 企業情報 | 松田産業 株式会社 — 会社概要 | 企業情報 | 松田産業 株式会社 松田産業株式会社 https://www.matsuda-sangyo.co.jp > company > outline",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "松田産業 (株)の 会社概要 | マイナビ2028 — 松田産業 (株)の 会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp27490 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp27490/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "松田産業 株式 会社 の求人・採用 情報 - ビズリーチ — 松田産業 株式 会社 の求人・採用 情報 - ビズリーチ ビズリーチ https://www.bizreach.jp > companies",
+    "url": "https://www.bizreach.jp/companies/13978/",
+    "pass": 3
+   },
+   {
+    "quote": "【 松田産業 】[7456]企業 概要 社員数や役員報酬・ 資本金 | 日経 ... — 【 松田産業 】[7456]企業 概要 社員数や役員報酬・ 資本金 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7456",
+    "pass": 3
+   },
+   {
+    "quote": "松田産業 株式 会社 の企業 情報 - 転職はアンドプロ — 松田産業 株式 会社 の企業 情報 - 転職はアンドプロ アンドプロ https://and-pro.jp > company-info-7235",
+    "url": "https://and-pro.jp/company-info-7235/",
+    "pass": 3
+   },
+   {
+    "quote": "株主 ・株式情報 | 投資家情報 | 松田産業 株式会社 — 株主 ・株式情報 | 投資家情報 | 松田産業 株式会社 松田産業株式会社 https://www.matsuda-sangyo.co.jp > stock > basic",
+    "url": "https://www.matsuda-sangyo.co.jp/ja/ir/stock/basic.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 松田産業 】[7456]企業概要 社員数や役員報酬・資本金 | 日経 ... — 【 松田産業 】[7456]企業概要 社員数や役員報酬・資本金 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7456",
+    "pass": 3
+   },
+   {
+    "quote": "松田産業 【7456】の大 株主 情報 - 株探 — 松田産業 【7456】の大 株主 情報 - 株探 株探 https://kabutan.jp > stock > holder",
+    "url": "https://kabutan.jp/stock/holder?code=7456",
+    "pass": 3
+   },
+   {
+    "quote": "松田産業 株式会社 — 松田産業 株式会社 data.swcms.net PDF https://data.swcms.net > file > news > pdfFile",
+    "url": "https://data.swcms.net/file/matsuda-sangyo/ja/news/auto_20260610567695/pdfFile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "松田産業 (株)の新卒採用・会社概要 | マイナビ2027 — 松田産業 (株)の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp27490 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp27490/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "松田産業 株式会社の求人・採用情報 - ビズリーチ — 松田産業 株式会社の求人・採用情報 - ビズリーチ ビズリーチ https://www.bizreach.jp > companies",
+    "url": "https://www.bizreach.jp/companies/13978/",
+    "pass": 3
+   },
+   {
+    "quote": "松田産業 （7456）の記事・開示 | Tokyo Brief 日本語版 — 松田産業 （7456）の記事・開示 | Tokyo Brief 日本語版 Tokyo Brief https://tokyobrief.com > 7456-matsuda-sangyo-co-ltd",
+    "url": "https://tokyobrief.com/jp/companies/7456-matsuda-sangyo-co-ltd",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【取材レポート】 松田産業 ：高まる資源循環需要を追い風に ... 【取材レポート】 松田産業 ：高まる資源循環需要を追い風に ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/fisco_jp/n/ne83e9fcdfa68",
+    "pass": 3
+   },
+   {
+    "quote": "個別株メモ 松田産業 （7456） - note 個別株メモ 松田産業 （7456） - note note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/kabu_memo911/n/ndd55146d290d",
+    "pass": 3
+   },
+   {
+    "quote": "松田産業 （7456）はなぜ急騰したのか。株価が動いた本当の ... 松田産業 （7456）はなぜ急騰したのか。株価が動いた本当の ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/tatsuya_sabato/n/nfc1303fb9ce2",
+    "pass": 3
+   },
+   {
+    "quote": "ARE・ 松田産業 と何が違う？中外鉱業“商社型”貴金属戦略の ... ARE・ 松田産業 と何が違う？中外鉱業“商社型”貴金属戦略の ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/witty_panda721/n/n82c5b7c06745",
+    "pass": 3
+   },
+   {
+    "quote": "【バフェットの視点】 松田産業 は『買い』か？ - note 【バフェットの視点】 松田産業 は『買い』か？ - note note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "松田産業 の人気・新着記事まとめ - note 松田産業 の人気・新着記事まとめ - note note https://note.com > tag > 松田産業",
+    "url": "https://note.com/tag/%E6%9D%BE%E7%94%B0%E7%94%A3%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【取材レポート】松田産業：高まる資源循環需要を追い風に持続的成長を続ける総合商社型企業｜FISCO",
+    "url": "https://note.com/fisco_jp/n/ne83e9fcdfa68",
+    "pass": 3
+   },
+   {
+    "quote": "【取材レポート】松田産業：高まる資源循環需要を追い風に持続的成長を続ける総合商社型企業",
+    "url": "https://note.com/fisco_jp/n/ne83e9fcdfa68",
+    "pass": 3
+   },
+   {
+    "quote": "貴金属リサイクルと食品原材料の2事業を軸に展開する企業",
+    "url": "https://note.com/fisco_jp/n/ne83e9fcdfa68",
+    "pass": 3
+   },
+   {
+    "quote": "である。創業90年を迎え、祖業である「資源の有効活用」をソリューションとした事業を多角的に展開している。貴金属関連事業では、資源の回収から精製・加工、販売、さらには廃棄物処理まで一貫した体制を構築し、電子機器、自動車、化学産業に向けた高機能材料を提供する。また、食品関連事業では水産品、畜産品、農産品を世界各地から調達し、品質保証を徹底した上で国内外の顧客に安定供給する体制を確立している。これらの事業は社会的課題の解決と顧客ニーズへの対応を同時に実現しており、同社の成長は持続的なものとなっている。",
+    "url": "https://note.com/fisco_jp/n/ne83e9fcdfa68",
+    "pass": 3
+   },
+   {
+    "quote": "貴金属リサイクルをはじめとする資源循環の技術力",
+    "url": "https://note.com/fisco_jp/n/ne83e9fcdfa68",
+    "pass": 3
+   },
+   {
+    "quote": "である。貴金属関連事業においては、高度な剥離・洗浄技術や高純度素材の供給、広域的な収集ネットワークにより、多様なリサイクル需要に応え、環境負荷低減と付加価値創出を両立している。これは早期から設備投資と研究開発を進めてきたことによることが大きく、特に技術的ハードルが高いとされる少量多品種の不良品・廃棄物に強みを持つ。第二に、",
+    "url": "https://note.com/fisco_jp/n/ne83e9fcdfa68",
+    "pass": 3
+   },
+   {
+    "quote": "原料の回収・加工・産業処理といった資源循環に関する処理をワンストップで担うことができる点",
+    "url": "https://note.com/fisco_jp/n/ne83e9fcdfa68",
+    "pass": 3
+   },
+   {
+    "quote": "である。特に半導体や精密機器の製造ラインは年々複雑化しており、それに伴い工程が増えるリサイクル処理をまとめて担える同社への信頼は一層高まっている。製造過程に関する機密を保持するという観点でも同社の信頼性は高く、一括で依頼できることの価値は大きい。第三に、",
+    "url": "https://note.com/fisco_jp/n/ne83e9fcdfa68",
+    "pass": 3
+   },
+   {
+    "quote": "個別株メモ 松田産業（7456）｜かぶメモ",
+    "url": "https://note.com/kabu_memo911/n/ndd55146d290d",
+    "pass": 3
+   },
+   {
+    "quote": "松田産業は、半導体・電子部品スクラップや自動車触媒などから金・銀・白金・パラジウム・ロジウムなどを回収し、精製・販売する貴金属リサイクル会社。沿革上は1951年設立で、半導体・電子部品業界向けの貴金属リサイクル事業には1978年に本格進出している。2026年3月期Q3累計では、貴金属関連事業が売上3,867億円、営業利益122.43億円で、全社売上の約81%、営業利益の約82%を占めている。食品関連事業も持つが、利益の中心は引き続き貴金属関連。",
+    "url": "https://note.com/kabu_memo911/n/ndd55146d290d",
+    "pass": 3
+   },
+   {
+    "quote": "リサイクル企業という見え方だけでは少し足りない。松田産業は、当社製の白金地金・パラジウム地金についてLPPM指定ブランド認可、金地金・銀地金についてLBMA認定を受けており、OSE受渡供用品としての登録実績もある。単なる回収業というより、精製品質まで含めて信用を積み上げてきた会社として見たほうが実態に近い。",
+    "url": "https://note.com/kabu_memo911/n/ndd55146d290d",
+    "pass": 3
+   },
+   {
+    "quote": "今期業績の押し上げ要因はかなり明確。会社は2026年2月13日に通期業績予想を上方修正し、売上高6,500億円、営業利益200億円、経常利益210億円、純利益147億円を見込むとした。修正理由として、貴金属関連事業では「貴金属価格の大幅な上昇に伴う売上高及び営業利益の増加」が顕著になったと明記している。ここは金属価格上昇と今期業績の接点を事実として置ける。",
+    "url": "https://note.com/kabu_memo911/n/ndd55146d290d",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、「金高の直接受益者」と言い切るのは少し危ない。有報では、通常の営業活動で生じる地金価格変動リスクに対し商品先渡取引を使ってヘッジしていることが確認でき、2025年3月末時点の商品関連デリバティブ契約額は217.49億円だった。全量を回避できるとまでは書かれていないが、少なくとも金価格上昇がそのままフルで利益に乗る単純な構造ではない。恩恵を受けやすいのは事実でも、価格連動株のように見るのはやや雑。",
+    "url": "https://note.com/kabu_memo911/n/ndd55146d290d",
+    "pass": 3
+   },
+   {
+    "quote": "金価格についても、表現は少し慎重にしたい。2026年1月には金現物が初めて4,700ドルを超え、2月初旬には5,594.82ドル近辺まで上昇したが、その後は大きく調整し、3月末には2008年以来の大幅月間下落と報じられている。4月1日時点でも4,784ドル前後まで戻す場面はあったものの、4月2日には4,670ドル近辺まで下落した報道もある。つまり「高止まり」というより、依然高水準ではあるが、年初高値からはかなり振れている局面として見たほうが実態に近い。",
+    "url": "https://note.com/kabu_memo911/n/ndd55146d290d",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期Q3累計は、売上高4,779.27億円、営業利益149.69億円、経常利益158.04億円、四半期純利益111.24億円。前年同期比ではそれぞれ37.1%、37.9%、37.3%、37.6%の増加となっている。会社計画に対する進捗は悪くなく、今期最高益予想自体には一定の現実味がある。",
+    "url": "https://note.com/kabu_memo911/n/ndd55146d290d",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、利益の質は少し丁寧に見たい。Q3末の総資産は2,063.28億円まで膨らみ、流動資産では商品及び製品が414.01億円、原材料及び貯蔵品が366.63億円まで増えている。営業CFはQ3累計で140.57億円のマイナスで、会社も売上債権・棚卸資産の増加が主因と説明している。金属価格上昇局面では在庫や運転資金が膨らみやすく、見た目の利益ほど資金繰りが軽いとは限らない。",
+    "url": "https://note.com/kabu_memo911/n/ndd55146d290d",
+    "pass": 3
+   },
+   {
+    "quote": "松田産業（7456）はなぜ急騰したのか。株価が動いた本当の理由と、ここから追いかけていいのかの判断基準｜日本個別株デューデリジェンスセンター",
+    "url": "https://note.com/tatsuya_sabato/n/nfc1303fb9ce2",
+    "pass": 3
+   },
+   {
+    "quote": "松田産業（7456）はなぜ急騰したのか。株価が動いた本当の理由と、ここから追いかけていいのかの判断基準",
+    "url": "https://note.com/tatsuya_sabato/n/nfc1303fb9ce2",
+    "pass": 3
+   },
+   {
+    "quote": "株価が短期間で大きく動いたとき、多くの個人投資家がまずやることは「ニュースの見出しを読む」ことです。今回の松田産業であれば、「上方修正」「ストップ高」「レアアース関連」といった単語が並びます。",
+    "url": "https://note.com/tatsuya_sabato/n/nfc1303fb9ce2",
+    "pass": 3
+   },
+   {
+    "quote": "しかし見出しだけを見て買うと、たいてい高いところを掴みます。なぜなら見出しは「何が起きたか」しか教えてくれず、「なぜ起きたか」と「それがいつまで続くか」を教えてくれないからです。",
+    "url": "https://note.com/tatsuya_sabato/n/nfc1303fb9ce2",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、松田産業の急騰を題材にして、決算短信と会社の開示資料まで実際に降りていき、株価を動かした要因を数字で分解していきます。そのうえで、こうした急騰銘柄に対して「ここから追いかけていいのか」を判断するための考え方を整理します。松田産業を買うかどうかという話以上に、他の銘柄にも使える読み方を持ち帰っていただくことが目的です。",
+    "url": "https://note.com/tatsuya_sabato/n/nfc1303fb9ce2",
+    "pass": 3
+   },
+   {
+    "quote": "第1章 そもそも松田産業とは何をしている会社か",
+    "url": "https://note.com/tatsuya_sabato/n/nfc1303fb9ce2",
+    "pass": 3
+   },
+   {
+    "quote": "株価の話に入る前に、この会社の中身を押さえておきます。ここを理解していないと、後の数字の意味がまったく頭に入ってきません。",
+    "url": "https://note.com/tatsuya_sabato/n/nfc1303fb9ce2",
+    "pass": 3
+   },
+   {
+    "quote": "松田産業の事業は、貴金属関連事業と食品関連事業の2つのセグメントに分かれています。会社としては、貴金属・環境・食品の三分野を通じて地球資源の有効活用に貢献する、という掲げ方をしています。",
+    "url": "https://note.com/tatsuya_sabato/n/nfc1303fb9ce2",
+    "pass": 3
+   },
+   {
+    "quote": "【企業分析】中外鉱業の貴金属事業（1491)--ARE・松田産業と何が違う？中外鉱業“商社型”貴金属戦略の強みと弱み｜Thinker",
+    "url": "https://note.com/witty_panda721/n/n82c5b7c06745",
+    "pass": 3
+   },
+   {
+    "quote": "【企業分析】中外鉱業の貴金属事業（1491)--ARE・松田産業と何が違う？中外鉱業“商社型”貴金属戦略の強みと弱み",
+    "url": "https://note.com/witty_panda721/n/n82c5b7c06745",
+    "pass": 3
+   },
+   {
+    "quote": "——そんなニュースが世間を賑わせる中、投資家の視線は貴金属リサイクル企業へと注がれています。業界大手のAREホールディングス（旧アサヒホールディングス）や松田産業とは異なる",
+    "url": "https://note.com/witty_panda721/n/n82c5b7c06745",
+    "pass": 3
+   },
+   {
+    "quote": "中外鉱業は、貴金属のリサイクル業者の一社ですが、その実態は商社に近いビジネスモデルです。本記事では、競合他社との徹底比較を通じて、中外鉱業のビジネスモデルと、投資家が注視すべきリスク・機会を解き明かします。",
+    "url": "https://note.com/witty_panda721/n/n82c5b7c06745",
+    "pass": 3
+   },
+   {
+    "quote": "1. 企業概要：100年の歴史を持つ「貴金属のプロフ」",
+    "url": "https://note.com/witty_panda721/n/n82c5b7c06745",
+    "pass": 3
+   },
+   {
+    "quote": "まずは中外鉱業の立ち位置を整理しましょう。同社は1932年設立、かつては鉱山開発を主業としていましたが、現在は",
+    "url": "https://note.com/witty_panda721/n/n82c5b7c06745",
+    "pass": 3
+   },
+   {
+    "quote": "を柱に、アニメ等のコンテンツ事業、不動産事業を展開する多角化企業です。",
+    "url": "https://note.com/witty_panda721/n/n82c5b7c06745",
+    "pass": 3
+   },
+   {
+    "quote": "売上高の9割以上を占める貴金属事業では、金・プラチナ・銀・パラジウムなどの「回収・精錬・加工・販売」を一気通貫で行っています。特筆すべきは、大阪取引所から金・銀・白金の「公認メルト（認定ブランド）」として登録されている点です。これは、同社の精錬技術と信頼性が国際水準にあることを証明しています。",
+    "url": "https://note.com/witty_panda721/n/n82c5b7c06745",
+    "pass": 3
+   },
+   {
+    "quote": "【バフェットの視点】松田産業は『買い』か？ — サーキュラーエコノミーの隠れた金脈と圧倒的モート｜AIバフェット研究所 所長",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "【バフェットの視点】松田産業は『買い』か？ — サーキュラーエコノミーの隠れた金脈と圧倒的モート",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "株式投資の世界において、多くの投資家は日々画面上で明滅するティッカーシンボルや、マクロ経済のノイズ、あるいは中央銀行の政策金利のわずかな変動に心を奪われがちです。しかし、私たちが長年にわたり証明してきた投資の真理は極めてシンプルです。それは「株式投資の本質とは、チャート上の点ではなく、優れたビジネスの一部を所有することである」という事実です。画面の向こう側には、毎日汗を流して働く従業員がおり、顧客に不可欠な価値を提供する製品やサービスが存在し、そして長期にわたって現金を創出し続ける強固な経済的仕組みがあります。",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "本日は、日本の株式市場に上場する松田産業株式会社（銘柄コード：7456）を取り上げます。",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "松田産業は、エレクトロニクス産業の製造工程や使用済み製品から貴金属を回収する「貴金属関連事業」と、世界中から安全な食材を調達して国内に供給する「食品関連事業」という、一見すると全く接点のない2つの事業を展開しています。しかし、この企業の深層には「限られた資源を有効に活用し、社会の基盤に安定をもたらす」という、極めて強力で一貫した哲学が存在しています。",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "現在、世界はインフレーションの波、金をはじめとするコモディティ価格の歴史的な高騰、そして地政学的なサプライチェーンの分断という激動の最中にあります。このような「ミスター・マーケット」が極端な悲観と熱狂を繰り返す局面においてこそ、真に深い経済的な堀（モート）を持つ企業を冷静に評価し、適正な価格、あるいはそれ以下の魅力的な価格でポートフォリオに組み入れる絶好の機会が生まれるのです。",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "本稿では、松田産業のビジネスモデル、競争優位性の源泉、財務の健全性、経営陣の資本配置の巧みさ、そして本質的価値（内在価値）を徹底的に解剖し、長期的な視点から同社が投資対象として「買い」に値するかどうかを検証していきます。",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "▼ 現在株価とメタ情報 分析の前提として、現在の市場価格のステータスを明記します。株式投資において、我々が支払う「価格」と手に入れる「価値」の差額こそが安全余裕を生み出すからです。 ・取得日時：2026年4月24日 05:40 (Asia/Tokyo) ・情報ソース：Google FinanceへのAIスクレイピング検索 ・取得ステータス：データプロバイダー側のアクセス制限により、リアルタイム株価の直接取得エラーが発生1。 ・現在株価の取り扱い方針：本分析では過去の推測データを使用せず、最新の公式開示である「2026年3月期 第3四半期決算短信（2026年2月13日発表）」における通期EPS予想（568.84円）2や、過去のバリュエーション水準から推計される実勢ベンチマーク価格帯（約4,000円〜4,500円水準）を便宜上の参照価格としてマージン・オブ・セーフティの検証に用います。 ・通貨",
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "pass": 3
+   },
+   {
+    "quote": "金が上がれば、リサイクル株も儲かる？ARE・松田産業・エンビプロを比較",
+    "url": "https://note.com/tag/%E6%9D%BE%E7%94%B0%E7%94%A3%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "朝株 11/05（木） 原油急落で米株高、半導体は続落か？｜村田製作所・ファーストリテイリング・オークマほか全13銘柄",
+    "url": "https://note.com/tag/%E6%9D%BE%E7%94%B0%E7%94%A3%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "日経841円安・AI債務不安で続落、水産17銘柄の平均は約-0.8% 松田産業-6.22%【10月20日終値】",
+    "url": "https://note.com/tag/%E6%9D%BE%E7%94%B0%E7%94%A3%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "【金が208トン流出】鉱山なき日本が金の輸出大国になった理由と、財務省の差し止めで潤う製錬の本命4銘柄",
+    "url": "https://note.com/tag/%E6%9D%BE%E7%94%B0%E7%94%A3%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "松田産業の年収｜30歳で627万は妥当か【2026年最新】",
+    "url": "https://note.com/tag/%E6%9D%BE%E7%94%B0%E7%94%A3%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "松田産業（7456）はなぜ急騰したのか。株価が動いた本当の理由と、ここから追いかけていいのかの判断基準",
+    "url": "https://note.com/tag/%E6%9D%BE%E7%94%B0%E7%94%A3%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "松田産業(7456)含み損10万円から、含み益4万円へ。それでも「成功」とはまだ言わない",
+    "url": "https://note.com/tag/%E6%9D%BE%E7%94%B0%E7%94%A3%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "かふん | AIと伴走する少額投資@実践記録",
+    "url": "https://note.com/tag/%E6%9D%BE%E7%94%B0%E7%94%A3%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "1969年の創業で、エッチング技術を核として都市鉱山から希少金属を取り出す貴金属事業と、エッチング廃液を再生して銅を回収する環境事業を柱としています",
+    "url": "https://note.com/tatsuya_sabato/n/nfc1303fb9ce2",
+    "pass": 3
+   },
+   {
+    "quote": "金価格が上がると、どの日本株が本当に儲かるのか？ 金・銀・銅の感応度と財務で6社を比較",
+    "url": "https://note.com/tag/%E6%9D%BE%E7%94%B0%E7%94%A3%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "東大阪の工場の嫁@ 松田産業 株式会社 (@koubano_yome) / X 東大阪の工場の嫁@ 松田産業 株式会社 (@koubano_yome) / X X https://x.com > koubano_yome",
+    "url": "https://x.com/koubano_yome",
+    "pass": 3
+   },
+   {
+    "quote": "# 松田産業 - Search / X # 松田産業 - Search / X X https://x.com > Search",
+    "url": "https://x.com/hashtag/%E6%9D%BE%E7%94%B0%E7%94%A3%E6%A5%AD?src=hashtag_click",
+    "pass": 3
+   },
+   {
+    "quote": "【お知らせ】Anker Japanは、埼玉県および 松田産業 株式会社 ... 【お知らせ】Anker Japanは、埼玉県および 松田産業 株式会社 ... X https://x.com > @Anker_JP",
+    "url": "https://x.com/Anker_JP/status/2094718193105535063",
+    "pass": 3
+   },
+   {
+    "quote": "東大阪の工場の嫁@ 松田産業 株式会社 on X 東大阪の工場の嫁@ 松田産業 株式会社 on X X https://x.com > @koubano_yome",
+    "url": "https://x.com/koubano_yome/status/2112373320415133814",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "松田産業 （株） - LinkedIn 松田産業 （株） - LinkedIn LinkedIn https://www.linkedin.com > company > 松田産業（株）",
+    "url": "https://www.linkedin.com/company/%E6%9D%BE%E7%94%B0%E7%94%A3%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "松田産業 （株） - LinkedIn 松田産業 （株） - LinkedIn LinkedIn https://jp.linkedin.com > company > 松田産業（株）",
+    "url": "https://jp.linkedin.com/company/%E6%9D%BE%E7%94%B0%E7%94%A3%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "松田 卓弥 - 松田産業 - 代表 - LinkedIn 松田 卓弥 - 松田産業 - 代表 - LinkedIn LinkedIn https://jp.linkedin.com > 卓弥-松田-976485155",
+    "url": "https://jp.linkedin.com/in/%E5%8D%93%E5%BC%A5-%E6%9D%BE%E7%94%B0-976485155",
+    "pass": 3
+   },
+   {
+    "quote": "西根 真梨 - 松田産業 株式会社の人事・採用担当者 | LinkedIn 西根 真梨 - 松田産業 株式会社の人事・採用担当者 | LinkedIn LinkedIn https://jp.linkedin.com > 真梨-西根-a544b0392",
+    "url": "https://jp.linkedin.com/in/%E7%9C%9F%E6%A2%A8-%E8%A5%BF%E6%A0%B9-a544b0392",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "松田産業 株式会社 | Hirado-shi Nagasaki - Facebook 松田産業 株式会社 | Hirado-shi Nagasaki - Facebook Facebook https://www.facebook.com > ... > Construction Company",
+    "url": "https://www.facebook.com/matudasangyo/",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社 松田産業 | Yatsushiro-shi Kumamoto - Facebook 有限会社 松田産業 | Yatsushiro-shi Kumamoto - Facebook Facebook https://www.facebook.com > ... > ビジネスサービス",
+    "url": "https://www.facebook.com/matsuda3gyou/?locale=ja_JP",
+    "pass": 3
+   },
+   {
+    "quote": "松田産業 観光まつり、『MYあしがら』番組スタッフが全力 ... 松田産業 観光まつり、『MYあしがら』番組スタッフが全力 ... Facebook https://www.facebook.com > shonan.cable.network > posts",
+    "url": "https://www.facebook.com/shonan.cable.network/posts/%E6%9D%BE%E7%94%B0%E7%94%A3%E6%A5%AD%E8%A6%B3%E5%85%89%E3%81%BE%E3%81%A4%E3%82%8Amy%E3%81%82%E3%81%97%E3%81%8C%E3%82%89%E7%95%AA%E7%B5%84%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E3%81%8C%E5%85%A8%E5%8A%9B%E5%8F%96%E6%9D%90%E4%B8%ADmy%E3%81%82%E3%81%97%E3%81%8C%E3%82%89/1913804176620224/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.matsuda-sangyo.co.jp/ja/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsuda-sangyo.co.jp/ja/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsuda-sangyo.co.jp/ja/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsuda-sangyo.co.jp/ja/company/group-company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsuda-sangyo.co.jp/ja/company/overseas-base.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsuda-sangyo.co.jp/ja/ir/library/result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news/PressRelease-5502852054106743665.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news/PressRelease1838363322912366976.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news/PressRelease2396215471004027552.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news/PressRelease540498903610415597.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news/PressRelease7918423500842945197.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news/PressRelease7794650316707585970.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news/PressRelease-1922592745825124075.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news/COPY-COPY-COPY-auto_20261023/main/0/link/kessansetumeikai_261125.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.matsuda-sangyo.co.jp/ja/news/news_report_2609/main/0/link/report_260918.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.matsuda-sangyo.co.jp/ja/company/main/0/teaserItems1/08/binaryNodeName/001_2.jpeg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp27490/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bizreach.jp/companies/13978/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=teF6HEZhdlo",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aichi-sangyo.co.jp/products/additive_manufact/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7456",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kabutan.jp/stock/holder?code=7456",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp27490/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bizreach.jp/companies/13978/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fisco_jp/n/ne83e9fcdfa68",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kabu_memo911/n/ndd55146d290d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/nfc1303fb9ce2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/witty_panda721/n/n82c5b7c06745",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/koubano_yome",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/%E6%9D%BE%E7%94%B0%E7%94%A3%E6%A5%AD?src=hashtag_click",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Anker_JP/status/2094718193105535063",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/koubano_yome/status/2112373320415133814",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/%E6%9D%BE%E7%94%B0%E7%94%A3%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/%E6%9D%BE%E7%94%B0%E7%94%A3%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E5%8D%93%E5%BC%A5-%E6%9D%BE%E7%94%B0-976485155",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E7%9C%9F%E6%A2%A8-%E8%A5%BF%E6%A0%B9-a544b0392",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/matudasangyo/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/matsuda3gyou/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/shonan.cable.network/posts/%E6%9D%BE%E7%94%B0%E7%94%A3%E6%A5%AD%E8%A6%B3%E5%85%89%E3%81%BE%E3%81%A4%E3%82%8Amy%E3%81%82%E3%81%97%E3%81%8C%E3%82%89%E7%95%AA%E7%B5%84%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E3%81%8C%E5%85%A8%E5%8A%9B%E5%8F%96%E6%9D%90%E4%B8%ADmy%E3%81%82%E3%81%97%E3%81%8C%E3%82%89/1913804176620224/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/nfc1303fb9ce2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/open_azalea2045/n/n7e820946446b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kabu_memo911/n/ndd55146d290d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E6%9D%BE%E7%94%B0%E7%94%A3%E6%A5%AD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/koubano_yome",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/%E6%9D%BE%E7%94%B0%E7%94%A3%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "松田産業",
+   "results": [
+    "https://www.matsuda-sangyo.co.jp/ja/index.html",
+    "https://service.matsuda-sangyo.co.jp/company/",
+    "https://www.nikkei.com/nkd/company/?scode=7456",
+    "https://job.mynavi.jp/28/pc/search/corp27490/outline.html",
+    "https://matsuda-industry.com/",
+    "https://ja.wikipedia.org/wiki/松屋産業",
+    "https://www.matsuda-sangyo.co.jp/ja/company/outline.html",
+    "https://shikiho.toyokeizai.net/stocks/7456/corporate",
+    "https://shikiho.toyokeizai.net/stocks/7456",
+    "https://finance.yahoo.co.jp/quote/7456.T"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "松田産業 会社概要 資本金 設立",
+   "results": [
+    "https://www.matsuda-sangyo.co.jp/ja/company/outline.html",
+    "https://job.mynavi.jp/28/pc/search/corp27490/outline.html",
+    "https://www.bizreach.jp/companies/13978/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=7456",
+    "https://and-pro.jp/company-info-7235/",
+    "https://kitaishihon.com/company/7456/story",
+    "https://www.matsuda-sangyo.co.jp/ja/company/history.html",
+    "https://doda.jp/DodaFront/View/Company/j_id__00001276852/",
+    "https://metoree.com/companies/45245/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "松田産業 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.youtube.com/watch?v=teF6HEZhdlo",
+    "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/the-future-of-metal-3d-printing",
+    "https://jampt.jp/column/column_1216/",
+    "https://www.datadesign.co.jp/markforged/news/6501/",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "https://www.matsuda-sangyo.co.jp/ja/index.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "松田産業 金属積層造形 設備",
+   "results": [
+    "https://jampt.jp/",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "https://www.aichi-sangyo.co.jp/products/additive_manufact/index.html",
+    "https://www.youtube.com/watch?v=KZaXU_KnoEY",
+    "https://ja.3dsystems.com/semiconductor",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://chuokatan.co.jp/products/3dp/",
+    "https://www.kinzoku.co.jp/media/seminar/webinar-2025-01",
+    "https://www.mazak.com/jp-ja/products/am/",
+    "https://www.jfe-steel.co.jp/products/solution/metal-3d-printing/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "松田産業 株主 出資 親会社",
+   "results": [
+    "https://www.matsuda-sangyo.co.jp/ja/ir/stock/basic.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=7456",
+    "https://kabutan.jp/stock/holder?code=7456",
+    "https://data.swcms.net/file/matsuda-sangyo/ja/news/auto_20260610567695/pdfFile.pdf",
+    "https://www.matsuda-sangyo.co.jp/ja/company/outline.html",
+    "https://www.nomura-ir.co.jp/ja/qnresearch/report_7456/main/00/teaserItems1/00/link/qnresearch_7456.pdf",
+    "https://shikiho.toyokeizai.net/stocks/7456/corporate",
+    "https://job.mynavi.jp/28/pc/search/corp27490/outline.html",
+    "https://japanclimate.org/member/matsuda-sangyo/",
+    "https://www.matsuda-sangyo.co.jp/ja/ir/stock.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "松田産業 売上高 従業員数",
+   "results": [
+    "https://www.matsuda-sangyo.co.jp/ja/company/outline.html",
+    "https://job.mynavi.jp/27/pc/search/corp27490/outline.html",
+    "https://www.bizreach.jp/companies/13978/",
+    "https://tokyobrief.com/jp/companies/7456-matsuda-sangyo-co-ltd",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=7456",
+    "https://kitaishihon.com/company/7456/business",
+    "https://www.nomura-ir.co.jp/ja/qnresearch/report_7456/main/00/teaserItems1/00/link/qnresearch_7456.pdf",
+    "https://the-shashi.com/tse/7456/segment/",
+    "https://www.buffett-code.com/company/7456/",
+    "https://techstudywork.jp/company/matsuda-sangyo"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 松田産業",
+   "results": [
+    "https://note.com/fisco_jp/n/ne83e9fcdfa68",
+    "https://note.com/kabu_memo911/n/ndd55146d290d",
+    "https://note.com/tatsuya_sabato/n/nfc1303fb9ce2",
+    "https://note.com/witty_panda721/n/n82c5b7c06745",
+    "https://note.com/tatsuya_sabato/n/nd67dfb2c3492",
+    "https://note.com/company_scope/n/n3d03077fa51e",
+    "https://note.com/tag/%E6%9D%BE%E7%94%B0%E7%94%A3%E6%A5%AD",
+    "https://note.com/open_azalea2045/n/n7e820946446b",
+    "https://note.com/tatsuya_sabato/n/n5b6eb9e484ed",
+    "https://note.com/lucid_quokka6797/n/ndfa94729f91c"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:x.com 松田産業",
+   "results": [
+    "https://x.com/koubano_yome",
+    "https://x.com/hashtag/%E6%9D%BE%E7%94%B0%E7%94%A3%E6%A5%AD?src=hashtag_click",
+    "https://x.com/Anker_JP/status/2094718193105535063",
+    "https://x.com/koubano_yome/status/2112373320415133814",
+    "https://x.com/koubano_yome/status/2117785762875973926",
+    "https://x.com/koubano_yome/status/2116470989559312676",
+    "https://x.com/koubano_yome/status/2117083497349468371",
+    "https://x.com/endoayumu/status/2094722017685844285",
+    "https://x.com/kyouhan1960/status/2116420134428701134",
+    "https://x.com/koubano_yome/status/2043867921848644001"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:linkedin.com 松田産業",
+   "results": [
+    "https://www.linkedin.com/company/%E6%9D%BE%E7%94%B0%E7%94%A3%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://jp.linkedin.com/company/%E6%9D%BE%E7%94%B0%E7%94%A3%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://jp.linkedin.com/in/%E5%8D%93%E5%BC%A5-%E6%9D%BE%E7%94%B0-976485155",
+    "https://jp.linkedin.com/in/%E7%9C%9F%E6%A2%A8-%E8%A5%BF%E6%A0%B9-a544b0392",
+    "https://jp.linkedin.com/in/shigeyuki-adachi-441850185",
+    "https://jp.linkedin.com/in/ryosuke-obata-6a7a21142",
+    "https://jp.linkedin.com/in/%E5%85%85-%E7%9B%9B%E5%B1%B1-941995226",
+    "https://jp.linkedin.com/in/%E6%80%9C%E5%8F%B8-%E5%A4%A7%E5%A1%9A-3b542155",
+    "https://jp.linkedin.com/in/%E7%BF%94-%E8%97%A4%E4%B9%85%E4%BF%9D-56423b342",
+    "https://www.linkedin.com/company/松田産業（株）/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com 松田産業",
+   "results": [
+    "https://www.facebook.com/matudasangyo/",
+    "https://www.facebook.com/lets.go.matsuda/posts/%E7%AC%AC27%E5%9B%9E%E3%81%BE%E3%81%A4%E3%81%A0%E7%94%A3%E6%A5%AD%E8%A6%B3%E5%85%89%E3%81%BE%E3%81%A4%E3%82%8A%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E9%96%8B%E5%82%AC%E6%97%A5-2026%E5%B9%B411%E6%9C%888%E6%97%A5%E6%97%A5%E6%99%82%E9%96%93-10%E6%99%8215%E6%99%8230%E5%88%86%E5%B0%8F%E9%9B%A8%E6%B1%BA%E8%A1%8C%E5%A4%A7%E5%90%8D%E8%A1%8C%E5%88%97%E3%83%91%E3%83%AC%E3%83%BC%E3%83%8913%E6%99%8210%E5%88%86-%E6%9D%BE%E7%94%B0%E5%B0%8F%E5%AD%A6%E6%A0%A1%E5%89%8D%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E9%96%8B%E5%82%AC%E5%A0%B4/1416529540606823/",
+    "https://www.facebook.com/matsuda3gyou/?locale=ja_JP",
+    "https://www.facebook.com/shonan.cable.network/posts/%E6%9D%BE%E7%94%B0%E7%94%A3%E6%A5%AD%E8%A6%B3%E5%85%89%E3%81%BE%E3%81%A4%E3%82%8Amy%E3%81%82%E3%81%97%E3%81%8C%E3%82%89%E7%95%AA%E7%B5%84%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E3%81%8C%E5%85%A8%E5%8A%9B%E5%8F%96%E6%9D%90%E4%B8%ADmy%E3%81%82%E3%81%97%E3%81%8C%E3%82%89/1913804176620224/",
+    "https://www.facebook.com/lets.go.matsuda/posts/%E7%AC%AC27%E5%9B%9E%E3%81%BE%E3%81%A4%E3%81%A0%E7%94%A3%E6%A5%AD%E8%A6%B3%E5%85%89%E3%81%BE%E3%81%A4%E3%82%8A%E6%9C%AC%E6%97%A5%E9%96%8B%E5%82%AC%E8%87%B4%E3%81%97%E3%81%BE%E3%81%99%EF%B8%8F-%E3%81%9C%E3%81%B2%E7%9A%86%E6%A7%98%E3%81%A7%E3%81%8A%E3%81%A7%E3%81%8B%E3%81%91%E4%B8%8B%E3%81%95%E3%81%84%E9%96%8B%E5%82%AC%E6%99%82%E9%96%9310%E6%99%8215%E6%99%8230%E5%88%86%E4%BC%9A%E5%A0%B4jr%E6%9D%BE%E7%94%B0%E9%A7%85%E5%8C%97%E5%8F%A3%E5%BA%83%E5%A0%B4%E6%9D%BE%E7%94%B0%E7%94%BA%E5%96%B6%E8%87%A8%E6%99%82%E9%A7%90%E8%BB%8A%E5%A0%B4%E4%BB%B2%E7%94%BA%E5%95%86%E5%BA%97%E8%A1%97%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B9%E9%80%9A%E3%82%8A/1466089892317454/",
+    "https://www.facebook.com/unionkitakyushu/posts/%E6%9D%BE%E7%94%B0%E7%94%A3%E6%A5%AD%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%90%B5%E9%96%A2%E9%80%A3%E4%BC%9A%E7%A4%BE%E6%9A%B4%E5%8A%9B%E4%B8%8A%E5%8F%B8%E3%81%AE%E8%B2%AC%E4%BB%BB%E3%82%92%E3%81%97%E3%81%A3%E3%81%8B%E3%82%8A%E3%81%A8%E5%95%8F%E3%82%8F%E3%81%AA%E3%81%84%E6%9D%BE%E7%94%B0%E7%94%A3%E6%A5%AD%E6%9D%BE%E7%94%B0%E7%94%A3%E6%A5%AD%E3%81%AF%E6%9A%B4%E5%8A%9B%E3%81%AE%E8%B2%AC%E4%BB%BB%E3%82%92%E5%8F%96%E3%82%8C%E6%9A%B4%E5%8A%9B%E4%B8%8A%E5%8F%B8m%E3%81%AF%E6%9A%B4%E8%A1%8C%E3%81%97%E3%81%9F%E4%BA%8B%E5%AE%9F%E3%82%92%E8%AA%8D%E3%82%81%E8%AC%9D%E7%BD%AA%E3%81%97%E3%82%8D%E5%8A%B4%E7%81%BD%E3%81%8C%E8%AA%8D%E5%AE%9A%E3%81%95%E3%82%8C%E3%81%9F%E3%81%9E10%E6%9C%8824%E6%97%A5/1055844343004104/",
+    "https://www.facebook.com/lets.go.matsuda/posts/%E3%81%BE%E3%81%A4%E3%81%A0%E7%94%A3%E6%A5%AD%E8%A6%B3%E5%85%89%E3%81%BE%E3%81%A4%E3%82%8A%E6%83%85%E5%A0%B1%E6%AF%8E%E5%B9%B4%E5%A4%A7%E4%BA%BA%E6%B0%97%E3%81%AE%E6%9D%BE%E7%94%B0%E5%95%86%E5%B7%A5%E6%8C%AF%E8%88%88%E4%BC%9A%E3%82%AC%E3%83%A9%E3%82%AC%E3%83%A9%E5%A4%A7%E6%8A%BD%E9%81%B8%E4%BC%9A%E3%81%8C%E4%BB%8A%E5%B9%B4%E3%82%82%E7%AC%AC27%E5%9B%9E%E3%81%BE%E3%81%A4%E3%81%A0%E7%94%A3%E6%A5%AD%E8%A6%B3%E5%85%89%E3%81%BE%E3%81%A4%E3%82%8A%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%81%BE%E3%81%99%E6%9D%BE%E7%94%B0%E7%94%BA%E5%86%85%E3%81%A7%E3%81%8A%E8%B2%B7%E3%81%84%E7%89%A9%E3%82%92%E3%81%97%E3%81%A6%E8%B1%AA%E8%8F%AF%E6%99%AF%E5%93%81%E3%81%8C%E5%BD%93%E3%81%9F%E3%82%8B%E3%82%AC%E3%83%A9/1455141280078982/",
+    "https://www.facebook.com/kojo.sankanbi.seki/posts/%E5%8F%82%E5%8A%A0%E4%BA%8B%E6%A5%AD%E6%89%80no27%E6%9D%BE%E7%94%B0%E7%94%A3%E6%A5%AD%E6%A0%AA%E9%96%A2%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%81%9E%E3%81%BF%E3%83%B6%E4%B8%98%E3%82%92%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99%E6%9D%BE%E7%94%B0%E7%94%A3%E6%A5%AD%E3%81%AE%E5%BC%B7%E3%81%BF%E3%81%A8%E3%81%97%E3%81%A6%E8%B3%87%E6%BA%90%E3%81%AE%E6%9C%89%E5%8A%B9%E6%B4%BB%E7%94%A8%E3%81%8C%E5%8F%AF%E8%83%BD%E3%81%AA%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%A8%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E7%94%A3%E6%A5%AD%E5%BB%83%E6%A3%84%E7%89%A9%E3%81%AE%E7%84%A1%E5%AE%B3%E5%8C%96%E5%87%A6%E7%90%86%E3%81%8C/2220061808227928/",
+    "https://www.facebook.com/lets.go.matsuda/posts/%E7%AC%AC26%E5%9B%9E%E3%81%BE%E3%81%A4%E3%81%A0%E7%94%A3%E6%A5%AD%E8%A6%B3%E5%85%89%E3%81%BE%E3%81%A4%E3%82%8A%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E9%96%8B%E5%82%AC%E6%97%A5%E4%BB%A4%E5%92%8C7%E5%B9%B411%E6%9C%889%E6%97%A5%E6%97%A5%E6%99%82%E9%96%9310%E6%99%8215%E6%99%8230%E5%88%86%E5%B0%8F%E9%9B%A8%E6%B1%BA%E8%A1%8C%E5%A4%A7%E5%90%8D%E8%A1%8C%E5%88%97%E3%83%91%E3%83%AC%E3%83%BC%E3%83%8913%E6%99%82%E6%9D%BE%E7%94%B0%E5%B0%8F%E5%AD%A6%E6%A0%A1%E5%89%8D%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E9%96%8B%E5%82%AC%E5%A0%B4%E6%89%80jr%E6%9D%BE%E7%94%B0%E9%A7%85%E5%8C%97/1125152069744573/",
+    "https://www.facebook.com/kojo.sankanbi.seki/posts/工場紹介-松田産業株式会社-関工場貴金属事業食品事業環境事業を通じ地球環境の限りある資源を有効に活用する事業を幅広く展開する松田産業株式会社その中でも2017年/1291307778918596/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "松田産業 note 社長",
+   "results": [
+    "https://note.com/tatsuya_sabato/n/nfc1303fb9ce2",
+    "https://note.com/open_azalea2045/n/n7e820946446b",
+    "https://note.com/kabu_memo911/n/ndd55146d290d",
+    "https://note.com/tag/%E6%9D%BE%E7%94%B0%E7%94%A3%E6%A5%AD",
+    "https://note.com/company_scope/n/n3d03077fa51e",
+    "https://www.matsuda-sangyo.co.jp/ja/company/message.html",
+    "https://note.com/tatsuya_sabato/n/n5b6eb9e484ed",
+    "https://note.com/fisco_jp/n/ne83e9fcdfa68",
+    "https://the-shashi.com/tse/7456/executives/ceo/matsuda-yoshiaki/",
+    "https://kigyo-scope.jp/company/7456/ceo/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "松田産業 X 投稿",
+   "results": [
+    "https://x.com/koubano_yome",
+    "https://www.matsuda-sangyo.co.jp/ja/index.html",
+    "https://syukatsu-kaigi.jp/companies/117708/jobhunt_prompt_reports",
+    "https://www.linkedin.com/company/%E6%9D%BE%E7%94%B0%E7%94%A3%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://japanclimate.org/member/matsuda-sangyo/",
+    "https://kabutan.jp/news/?b=k202608070653",
+    "https://data.swcms.net/file/matsuda-sangyo/ja/news/auto_20260513528351/pdfFile.pdf",
+    "https://finance.yahoo.co.jp/quote/7456.T/forum",
+    "https://www.instagram.com/matsuda_sangyo/",
+    "https://www.instagram.com/p/DGN4cCNTcHK/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式14頁／PDF・画像3件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像3件／外部33頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像3件／外部33頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像3件／外部33頁・検索12回）"
+ }
+}

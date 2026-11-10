@@ -1,0 +1,830 @@
+{
+ "name": "佳秀工業株式会社",
+ "aliases": [],
+ "context": "PBF=yes 装置=DMLS 出典=https://eishin1.jp/pages/13/",
+ "researched_at": "2026-11-10T19:11:52.091659+00:00",
+ "official_url": "https://kasyu-kogyo.com/",
+ "identified_by": "search:yahoo_jp:佳秀工業",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "創業",
+    "value": "創業：1969年4月",
+    "url": "https://kasyu-kogyo.com/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1969年4月",
+    "url": "https://shokuhin-oem.jp/maker/kasyu-kogyo/",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "5,000万円",
+    "url": "https://kasyu-kogyo.com/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "5,000万円",
+    "url": "https://kasyu-biochemistry.com/company/outline/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "5,000万円",
+    "url": "https://shokuhin-oem.jp/maker/kasyu-kogyo/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "〒808-0109 福岡県北九州市若松区南二島2丁目24-10",
+    "url": "https://kasyu-kogyo.com/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "佳秀工業株式会社（本社",
+    "value": "福岡県北九州市 代表取締役社長：寺本麓人）は、宇佐事業所（大分県宇佐市）敷地内に２棟目の製缶工場を増設することを決定し、令和8年7月29日（水）に大分県庁にて大分県 佐藤知事と宇佐市 後藤市長へ増…",
+    "url": "https://kasyu-kogyo.com/category/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "〒808-0109 福岡県北九州市若松区南二島2-24-10",
+    "url": "https://kasyu-biochemistry.com/company/outline/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "【本社工場】 〒808-0109 福岡県北九州市若松区南二島2-24-10 TEL：093-701-3131 FAX：093-701-2111 【二島第二工場（ヘルスケア事業部）】 〒808-0109 福岡県北九州市若松区南二島2-5-3 TEL：093-701-1021 FAX：093-701-1022 【二島第三事業所（ヘルスケア事業部）】 〒808-0109 福岡県北九州市若松区南二島2-14-10 TEL：093-772-1235 FAX：093-772-2021",
+    "url": "https://shokuhin-oem.jp/maker/kasyu-kogyo/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "254名（2026年4月現在/グループ会社含む）",
+    "url": "https://kasyu-kogyo.com/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "130名",
+    "url": "https://mono.ipros.com/company/detail/2029545/",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "254名（2026年4月現在/グループ会社含む）",
+    "url": "https://kasyu-biochemistry.com/company/outline/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "機械金属事業・ヘルスケア事業・ウェルネス事業",
+    "url": "https://kasyu-kogyo.com/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "機械金属事業・ヘルスケア事業・ウェルネス事業",
+    "url": "https://shokuhin-oem.jp/maker/kasyu-kogyo/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "2026年10月2日【プレスリリース】最新型形鋼専用３次元ファイバーレーザー加工機を導入",
+    "url": "https://kasyu-kogyo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "レーザー無人運転システムを導入、レーザー切断加工部門を大幅に増強",
+    "url": "https://kasyu-kogyo.com/company/history-2/",
+    "pass": 1
+   },
+   {
+    "quote": "設備導入に伴い、設置面積確保のため大分県宇佐市にテント倉庫(約176㎡)を増設",
+    "url": "https://kasyu-kogyo.com/company/history-2/",
+    "pass": 1
+   },
+   {
+    "quote": "【プレスリリース】パイプ・形鋼専用３次元ファイバーレーザー加工機を導入",
+    "url": "https://kasyu-kogyo.com/category/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "pass": 1
+   },
+   {
+    "quote": "佳秀工業株式会社は令和8年9月に、ヤマザキマザック社製の長尺パイプ・形鋼用3次元レーザー加工機（FG-400 NEO）を導入しました",
+    "url": "https://kasyu-kogyo.com/category/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "pass": 1
+   },
+   {
+    "quote": "●金属加工部門ではC02を発生させないウォータージェット工法を約20年前から導入している",
+    "url": "https://kasyu-kogyo.com/company/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "ファイバーレーザー、ファブリギアなどの最新鋭の設備を多数保有し、鉄鋼材を中心としたあらゆる材質（非鉄金属含）の切断に対応",
+    "url": "https://kasyu-kogyo.com/company/organization-chart/",
+    "pass": 1
+   },
+   {
+    "quote": "ウォータージェット加工機を4台保有し、国内最大級の生産能力を有しています",
+    "url": "https://kasyu-kogyo.com/company/organization-chart/",
+    "pass": 1
+   },
+   {
+    "quote": "【プレスリリース】パイプ・形鋼専用３次元ファイバーレーザー加工機を導入",
+    "url": "https://kasyu-kogyo.com/tag/%E8%A8%AD%E5%82%99%E5%B0%8E%E5%85%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "佳秀工業株式会社は令和8年9月に、ヤマザキマザック社製の長尺パイプ・形鋼用3次元レーザー加工機（FG-400 NEO）を導入しました",
+    "url": "https://kasyu-kogyo.com/tag/%E8%A8%AD%E5%82%99%E5%B0%8E%E5%85%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "【本社工場】トルンプ社製 ファイバーレーザー加工機導入",
+    "url": "https://kasyu-kogyo.com/tag/%E8%A8%AD%E5%82%99%E5%B0%8E%E5%85%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "佳秀工業株式会社（福岡県北九州市若松区）は従来機の炭酸ガスレーザー加工機の老朽化に伴い、2024年9月14日(土)にトルンプ社製のファイバーレーザー加工機（TruLaser 1030 fiber ）の4kWを導入しました…",
+    "url": "https://kasyu-kogyo.com/tag/%E8%A8%AD%E5%82%99%E5%B0%8E%E5%85%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "【本社工場】立型マシングセンタを導入しました",
+    "url": "https://kasyu-kogyo.com/tag/%E8%A8%AD%E5%82%99%E5%B0%8E%E5%85%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "佳秀工業（福岡県北九州市若松区）は従来機の立型マシニングセンタの老朽化に伴い、2023年1月26日(木)にブラザー社製のワイドストローク コンパクトマシニングセンタ（W1000Xd1）を導入・入れ替え作業を行いました",
+    "url": "https://kasyu-kogyo.com/tag/%E8%A8%AD%E5%82%99%E5%B0%8E%E5%85%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "宇佐工場に同時５軸加工機を導入しました",
+    "url": "https://kasyu-kogyo.com/tag/%E8%A8%AD%E5%82%99%E5%B0%8E%E5%85%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "宇佐工場にファイバーレーザー加工機を導入しました",
+    "url": "https://kasyu-kogyo.com/tag/%E8%A8%AD%E5%82%99%E5%B0%8E%E5%85%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "ウォータージェット加工機（７号機）を導入しました！",
+    "url": "https://kasyu-kogyo.com/tag/%E8%A8%AD%E5%82%99%E5%B0%8E%E5%85%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "佳秀工業（福岡県北九州市若松区、寺本麓人（ろくじん）社長、０９３・７９１・０５９５）の本社工場では、２０１９年９月３日に７号機目となるウォータージェット加工機「Mach３００シリーズ３０１５」（フロージャパン社製）を導入…",
+    "url": "https://kasyu-kogyo.com/tag/%E8%A8%AD%E5%82%99%E5%B0%8E%E5%85%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "ATC（自動金型交換）機能付きのプレス機械を導入",
+    "url": "https://kasyu-kogyo.com/tag/%E8%A8%AD%E5%82%99%E5%B0%8E%E5%85%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "佳秀工業（福岡県北九州市若松区、寺本麓人（ろくじん）社長、０９３・７９１・０５９５）の本社工場では、２０１９年３月２８日にATC（自動金型交換装置）機能付きのプレス機械「HG -１００３ATC」（アマダ製）を導入しました…",
+    "url": "https://kasyu-kogyo.com/tag/%E8%A8%AD%E5%82%99%E5%B0%8E%E5%85%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "国内最大の３次元ウォータージェット加工機を導入",
+    "url": "https://kasyu-kogyo.com/tag/%E8%A8%AD%E5%82%99%E5%B0%8E%E5%85%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "パンチレーザ複合加工機を導入しました | 佳秀工業株式会社",
+    "url": "https://kasyu-kogyo.com/2021/04/27/news-22-2/",
+    "pass": 1
+   },
+   {
+    "quote": "佳秀工業（福岡県北九州市若松区、寺本麓人(ろくじん)社長、093・791・0595）の本社工場では、2005年より稼働していたターレットパンチプレスの老朽化に伴い、作業効率と生産力の向上を図る目的で2021年3月22日(月)にパンチレーザ複合加工機「TruMatic 7000」を導入しました",
+    "url": "https://kasyu-kogyo.com/2021/04/27/news-22-2/",
+    "pass": 1
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "100t / 自動金型交換システム付き",
+    "url": "https://kasyu-kogyo.com/service/metalworking/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "●若松本社工場内で、小型のソーラーパネルによるハウス野菜を栽培中(将来的に社員の昼食に活用するための試作ハウス)",
+    "url": "https://kasyu-kogyo.com/company/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "●工場の屋根内側に断熱・遮熱シートを取り付け省エネルギー化を実施",
+    "url": "https://kasyu-kogyo.com/company/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "後工程の少ない切断は納期短縮し、手のひらに乗るサイズの単品から大型の量産品まで多くの品種に対応しています",
+    "url": "https://kasyu-kogyo.com/company/organization-chart/",
+    "pass": 1
+   },
+   {
+    "quote": "近年需要が高まっているステンレス・アルミ加工を中心に、食品・医療関連の機器・装置等を製造",
+    "url": "https://kasyu-kogyo.com/company/organization-chart/",
+    "pass": 1
+   },
+   {
+    "quote": "近年では電気自動車関連機器等の省エネルギー化を可能とする機器部品などにも注力しており、海外製品においても確かな実績を重ねています",
+    "url": "https://kasyu-kogyo.com/company/organization-chart/",
+    "pass": 1
+   },
+   {
+    "quote": "ATC（自動金型交換）機能付きのプレス機械を導入",
+    "url": "https://kasyu-kogyo.com/tag/%E8%A8%AD%E5%82%99%E5%B0%8E%E5%85%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "佳秀工業（福岡県北九州市若松区、寺本麓人（ろくじん）社長、０９３・７９１・０５９５）の本社工場では、２０１９年３月２８日にATC（自動金型交換装置）機能付きのプレス機械「HG -１００３ATC」（アマダ製）を導入しました…",
+    "url": "https://kasyu-kogyo.com/tag/%E8%A8%AD%E5%82%99%E5%B0%8E%E5%85%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年末にはJISQ9100（航空宇宙産業の品質マネジメント規格）を取得する予定です",
+    "url": "https://mono.ipros.com/company/detail/2029545/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は機械装置から部品の試作品まで、多様なニーズに対応する機械金属事業のほか、化粧品や健康食品のOEM製造、プラセンタエキスなどの原料開発といったヘルスケア事業を展開しています",
+    "url": "https://ritti-oita.jp/news/detail/7aef0f0e-cc9d-4a08-b221-ea6a3d6950f4",
+    "pass": 3
+   },
+   {
+    "quote": "今回の投資では、半導体関連の需要増加に対応するため、新たに製缶工場を増設いたします",
+    "url": "https://ritti-oita.jp/news/detail/7aef0f0e-cc9d-4a08-b221-ea6a3d6950f4",
+    "pass": 3
+   },
+   {
+    "quote": "機械装置から部品の試作品まで、お客様の多様なニーズに対応",
+    "url": "https://ritti-oita.jp/news/detail/7aef0f0e-cc9d-4a08-b221-ea6a3d6950f4",
+    "pass": 3
+   },
+   {
+    "quote": "リコピンやβ-カロテンだけではない！トマトには消化吸収エネルギーとして使われるグルタミン酸も豊富に含まれている",
+    "url": "https://kasyu-biochemistry.com/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "佳秀工業は最新鋭のウォータージェット加工・レーザー加工の設備と技術力を武器に、金属やその他の素材の設計から試作片の製作まで多様なニーズに対応",
+    "url": "https://kasyu-biochemistry.com/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "作っている物は、食品・医薬品関連の装置、電気自動車関連、高速鉄",
+    "url": "https://www.hellowork.mhlw.go.jp/kensaku/GECA110010.do?screenId=GECA110010&action=kyujinhyoBtn&kJNo=4004000070168&kJKbn=2&iNFTeikyoRiyoDtiID=&kSNo=",
+    "pass": 3
+   },
+   {
+    "quote": "レーザー切断加工機、ウォータージェット切断加工機等による精密切断加工、精密板金加工、精密切削加工（五面加工機・ＮＣフライス・ＭＣ・ＮＣ旋盤等）架台製作（半導体、液晶製造装置、太陽光発電関連等）焼付け塗装全般",
+    "url": "https://www.shigotomarugoto.info/JobOffers/view-c?company_id=PYL018334",
+    "pass": 3
+   },
+   {
+    "quote": "図書館司書、学芸員、カウンセラー（医療・福祉施設を除く）",
+    "url": "https://www.shigotomarugoto.info/JobOffers/view-c?company_id=PYL018334",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "資本金900万円",
+    "url": "https://kasyu-kogyo.com/company/history-2/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金1350万円",
+    "url": "https://kasyu-kogyo.com/company/history-2/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金5000万円",
+    "url": "https://kasyu-kogyo.com/company/history-2/",
+    "pass": 1
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "近年需要が高まっているステンレス・アルミ加工を中心に、食品・医療関連の機器・装置等を製造",
+    "url": "https://kasyu-kogyo.com/company/organization-chart/",
+    "pass": 1
+   },
+   {
+    "quote": "近年需要が増えているアルミ・ステンレスの板金加工（切断・曲げ・溶接・機械加工・研磨加工）に対応しています",
+    "url": "https://kasyu-kogyo.com/company/organization-chart/",
+    "pass": 1
+   },
+   {
+    "quote": "装置類の部品（鉄、ステンレス、製缶） etc.",
+    "url": "https://kasyu-kogyo.com/company/organization-chart/",
+    "pass": 1
+   },
+   {
+    "quote": "当加工機の設置工事は既に完了しており、現在ステンレス専用機として稼働しています",
+    "url": "https://kasyu-kogyo.com/2021/04/27/news-22-2/",
+    "pass": 1
+   },
+   {
+    "quote": "◆精密板金 （アルミ、ステンレス、鉄）",
+    "url": "https://mono.ipros.com/company/detail/2029545/",
+    "pass": 3
+   },
+   {
+    "quote": "鉄やアルミ、ステンレス等、色々な材料を使",
+    "url": "https://www.hellowork.mhlw.go.jp/kensaku/GECA110010.do?screenId=GECA110010&action=kyujinhyoBtn&kJNo=4004000070168&kJKbn=2&iNFTeikyoRiyoDtiID=&kSNo=",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "佳秀工業 | 企業情報 | イプロスものづくり — 佳秀工業 | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/2029545/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 佳秀工業株式会社 — 会社概要 - 佳秀工業株式会社 佳秀工業株式会社 https://kasyu-kogyo.com > 企業情報",
+    "url": "https://kasyu-kogyo.com/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "佳秀工業 株式 会社 が増設表明式を行いました！ | お知らせ — 佳秀工業 株式 会社 が増設表明式を行いました！ | お知らせ 大分県企業立地ガイド https://ritti-oita.jp > news > detail",
+    "url": "https://ritti-oita.jp/news/detail/7aef0f0e-cc9d-4a08-b221-ea6a3d6950f4",
+    "pass": 3
+   },
+   {
+    "quote": "佳秀工業 株式 会社 の企業情報・財務データ - FUMA（フーマ） — 佳秀工業 株式 会社 の企業情報・財務データ - FUMA（フーマ） FUMA（フーマ） https://fumadata.com > 企業検索",
+    "url": "https://fumadata.com/search/detail/1222595",
+    "pass": 3
+   },
+   {
+    "quote": "佳秀工業 株式会社(福岡県)の 会社概要 ・製品情報 | Metoree — 佳秀工業 株式会社(福岡県)の 会社概要 ・製品情報 | Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/56038/",
+    "pass": 3
+   },
+   {
+    "quote": "佳秀工業 株式会社 | 金属加工・切断・板金加工の ... — 佳秀工業 株式会社 | 金属加工・切断・板金加工の ... 佳秀工業株式会社 https://kasyu-kogyo.com",
+    "url": "https://kasyu-kogyo.com/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜ 佳秀工業 株式会社ヘルスケア事業部 - 佳秀バイオケム — 会社概要｜ 佳秀工業 株式会社ヘルスケア事業部 - 佳秀バイオケム 佳秀バイオケム https://kasyu-biochemistry.com > 会社案内",
+    "url": "https://kasyu-biochemistry.com/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "佳秀工業 株式会社 ヘルスケア事業部 | 食品開発OEM.jp — 佳秀工業 株式会社 ヘルスケア事業部 | 食品開発OEM.jp 食品開発OEM.jp https://shokuhin-oem.jp > maker > kasyu-kogyo",
+    "url": "https://shokuhin-oem.jp/maker/kasyu-kogyo/",
+    "pass": 3
+   },
+   {
+    "quote": "佳秀工業 株式会社（北九州オンリーワン企業2019） - YouTube — 佳秀工業 株式会社（北九州オンリーワン企業2019） - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=7KE2Ab-kAlQ",
+    "pass": 3
+   },
+   {
+    "quote": "佳秀工業 株式会社が増設表明式を行いました！ | お知らせ — 佳秀工業 株式会社が増設表明式を行いました！ | お知らせ 大分県企業立地ガイド https://ritti-oita.jp > news > detail",
+    "url": "https://ritti-oita.jp/news/detail/7aef0f0e-cc9d-4a08-b221-ea6a3d6950f4",
+    "pass": 3
+   },
+   {
+    "quote": "佳秀工業 株式会社 - 北九州しごとまるごと情報局 — 佳秀工業 株式会社 - 北九州しごとまるごと情報局 北九州しごとまるごと情報局 https://www.shigotomarugoto.info > JobOffers > view-c",
+    "url": "https://www.shigotomarugoto.info/JobOffers/view-c?company_id=PYL018334",
+    "pass": 3
+   },
+   {
+    "quote": "佳秀工業 株式会社の企業情報・財務データ - FUMA（フーマ） — 佳秀工業 株式会社の企業情報・財務データ - FUMA（フーマ） FUMA（フーマ） https://fumadata.com > 企業検索",
+    "url": "https://fumadata.com/search/detail/1222595",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "オートメーション新聞/編集長 剱持知久 on X: \" 佳秀工業 、大分 ... オートメーション新聞/編集長 剱持知久 on X: \" 佳秀工業 、大分 ... X https://x.com > @MonodzukuriJP",
+    "url": "https://x.com/MonodzukuriJP/status/2119560596014178461",
+    "pass": 3
+   },
+   {
+    "quote": "オートメーション新聞/編集長 剱持知久 on X : \" 佳秀工業 、大分 ... オートメーション新聞/編集長 剱持知久 on X : \" 佳秀工業 、大分 ... X https://x.com > @MonodzukuriJP",
+    "url": "https://x.com/MonodzukuriJP/status/2119560596014178461",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://kasyu-kogyo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kasyu-kogyo.com/service/metalworking/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kasyu-kogyo.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kasyu-kogyo.com/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kasyu-kogyo.com/company/history-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kasyu-kogyo.com/category/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kasyu-kogyo.com/company/sustainability/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kasyu-kogyo.com/company/organization-chart/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kasyu-kogyo.com/company/access/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kasyu-kogyo.com/2026/02/04/honors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kasyu-kogyo.com/tag/%E8%A8%AD%E5%82%99%E5%B0%8E%E5%85%A5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kasyu-kogyo.com/2026/07/21/temporarily-closed2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kasyu-kogyo.com/2026/04/06/gw2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kasyu-kogyo.com/2021/04/27/news-22-2/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/company/detail/2029545/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ritti-oita.jp/news/detail/7aef0f0e-cc9d-4a08-b221-ea6a3d6950f4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=teF6HEZhdlo",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubeni-idigio.com/insight-hub/metal3dprinter_desktopmetal_case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=KZaXU_KnoEY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kasyu-biochemistry.com/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shokuhin-oem.jp/maker/kasyu-kogyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hellowork.mhlw.go.jp/kensaku/GECA110010.do?screenId=GECA110010&action=kyujinhyoBtn&kJNo=4004000070168&kJKbn=2&iNFTeikyoRiyoDtiID=&kSNo=",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2029545/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shigotomarugoto.info/JobOffers/view-c?company_id=PYL018334",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/MonodzukuriJP/status/2119560596014178461",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MonodzukuriJP/status/2119560596014178461",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "佳秀工業",
+   "results": [
+    "https://kasyu-kogyo.com/",
+    "https://kasyu-biochemistry.com/company/outline/",
+    "https://usa-sjcp.com/?p=4547",
+    "https://www.youtube.com/watch?v=7KE2Ab-kAlQ",
+    "https://shokuhin-oem.jp/maker/kasyu-kogyo/",
+    "https://kasyu-kogyo.com/company/outline/",
+    "https://waterjet-kakou.com/",
+    "https://www.waterjet-navi.com/contractor/kasyu.html",
+    "https://www.automation-news.jp/2026/11/110234/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "佳秀工業 会社概要 資本金 設立",
+   "results": [
+    "https://mono.ipros.com/company/detail/2029545/",
+    "https://kasyu-kogyo.com/company/outline/",
+    "https://ritti-oita.jp/news/detail/7aef0f0e-cc9d-4a08-b221-ea6a3d6950f4",
+    "https://fumadata.com/search/detail/1222595",
+    "https://metoree.com/companies/56038/",
+    "https://waterjet-kakou.com/company/",
+    "https://kasyu-biochemistry.com/company/outline/",
+    "https://jobtalk.jp/companies/355277",
+    "https://shokuhin-oem.jp/maker/kasyu-kogyo/",
+    "https://kasyu-kogyo.com/company/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "佳秀工業 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.youtube.com/watch?v=teF6HEZhdlo",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://www.marubeni-idigio.com/insight-hub/metal3dprinter_desktopmetal_case/",
+    "https://kk-ariga.co.jp/metal_3d_printer/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B/",
+    "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "https://www.manufacturing-world.jp/hub/ja-jp/blog/article11.html",
+    "https://www.ricoh.co.jp/3dp/metal/case_jzhc",
+    "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/the-future-of-metal-3d-printing",
+    "https://j3d.co.jp/column/09df60f3-f8cd-4343-89e4-bea3559722fd",
+    "https://kasyu-kogyo.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "佳秀工業 金属積層造形 設備",
+   "results": [
+    "https://jampt.jp/",
+    "https://chuokatan.co.jp/products/3dp/",
+    "https://www.youtube.com/watch?v=KZaXU_KnoEY",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://ja.3dsystems.com/advancing-semiconductor-executive-brief",
+    "https://www.gitc.pref.nagano.lg.jp/zairyo/3Ddigital/setsubi/1_3Dprinter.html",
+    "https://www.nims.go.jp/cccenter/ismg/equipments.html",
+    "https://j3d.co.jp/blog/knowledge/index37/",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://kasyu-kogyo.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "佳秀工業 株主 出資 親会社",
+   "results": [
+    "https://kasyu-kogyo.com/",
+    "https://kasyu-biochemistry.com/company/outline/",
+    "https://shokuhin-oem.jp/maker/kasyu-kogyo/",
+    "https://www.youtube.com/watch?v=7KE2Ab-kAlQ",
+    "https://ritti-oita.jp/news/detail/7aef0f0e-cc9d-4a08-b221-ea6a3d6950f4",
+    "https://usa-sjcp.com/?p=4547",
+    "https://wakamatsu-atsumaru.jp/member/%E4%BD%B3%E7%A7%80%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/",
+    "https://waterjet-kakou.com/company/",
+    "https://mono.ipros.com/company/detail/2029545/",
+    "https://kasyu-kogyo.com/company/outline/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "佳秀工業 売上高 従業員数",
+   "results": [
+    "https://www.hellowork.mhlw.go.jp/kensaku/GECA110010.do?screenId=GECA110010&action=kyujinhyoBtn&kJNo=4004000070168&kJKbn=2&iNFTeikyoRiyoDtiID=&kSNo=",
+    "https://mono.ipros.com/company/detail/2029545/",
+    "https://www.shigotomarugoto.info/JobOffers/view-c?company_id=PYL018334",
+    "https://kasyu-kogyo.com/company/outline/",
+    "https://fumadata.com/search/detail/1222595",
+    "https://corekara.co.jp/contents/customer-interview/kasyukogyo/",
+    "https://metoree.com/companies/56038/",
+    "https://baseconnect.in/companies/a0a96389-7042-44c8-b494-b2dc7804da0c",
+    "https://clip-corporation.com/company-matching/company-details/?corporate_number=7290801012092",
+    "https://catr.jp/companies/8e0d0/157448"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 佳秀工業",
+   "results": [
+    "https://note.com/nucky2000/n/n12c166d5f3ec",
+    "https://note.com/koneta_/n/n5b955bf7043e",
+    "https://note.com/gokaku_inshi0320/n/ne747a78c35a1",
+    "https://note.com/confluence/n/necd5b842bb8a",
+    "https://note.com/parks_off/n/n3b2973339dc7",
+    "https://note.com/appaz/n/nf0b8fb6feb38",
+    "https://note.com/clipcorporation/n/n80048570d7a1",
+    "https://note.com/",
+    "https://note.com/kashiu_3362",
+    "https://note.com/yoshihide358/all"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:x.com 佳秀工業",
+   "results": [
+    "https://x.com/MonodzukuriJP/status/2119560596014178461",
+    "https://x.com/kenichiromogi/status/1912264505721254055",
+    "https://x.com/kenichiromogi/status/1912264505721254055?lang=ca",
+    "https://x.com/jinsei_1128/status/2006300597738488086",
+    "https://x.com/Jinken_Center/status/1506811965058215940",
+    "https://x.com/VarealMan",
+    "https://x.com/Jinken_Center/status/1493407173262872576",
+    "https://x.com/Jinken_Center/status/1422445945258606596",
+    "https://x.com/dengekionline/status/2013547152228917347",
+    "https://x.com/hashtag/佳秀"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com 佳秀工業",
+   "results": [
+    "https://www.linkedin.com/pub/dir/+/%E7%95%94",
+    "https://www.linkedin.com/pub/dir/Yoshihide/+/jp-7671-Chiba,-Japan",
+    "https://www.linkedin.com/pub/dir/%E4%BD%B3%E7%A7%80/+",
+    "https://jp.linkedin.com/in/%E4%BD%B3%E7%A7%80-%E7%9C%9E%E5%A3%81-a65050164",
+    "https://jp.linkedin.com/in/%E4%BF%A1%E4%B8%80-%E8%8F%8A%E6%B1%A0-396364168",
+    "https://www.linkedin.com/pub/dir/%E3%82%88%E3%81%97/%E3%81%8B%E3%82%8F",
+    "https://www.linkedin.com/pub/dir/+/%E6%97%A9%E9%87%8E",
+    "https://jp.linkedin.com/pub/dir/+/%E3%81%A6/jp-7645-%E7%A6%8F%E5%B2%A1%E9%83%BD%E5%B8%82%E5%9C%8F",
+    "https://www.linkedin.com/pub/dir/+/%E7%A5%9E%E8%B0%B7"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com 佳秀工業",
+   "results": [
+    "https://www.facebook.com/mirai.odagiri/posts/%E7%A6%8F%E5%B2%A1%E7%9C%8C%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E3%82%92%E6%9C%AC%E7%A4%BE%E3%81%A8%E3%81%99%E3%82%8B%E4%BD%B3%E7%A7%80%E3%81%8B%E3%81%97%E3%82%85%E3%81%86%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%AF%BA%E6%9C%AC%E9%BA%93%E4%BA%BA%E7%A4%BE%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E9%95%B7%E4%BB%96%E9%96%A2%E4%BF%82%E8%80%85%E3%81%8C%E3%81%93%E3%81%AE%E5%BA%A6%E5%A4%A7%E5%88%86%E7%9C%8C%E5%AE%87%E4%BD%90%E3%81%AB%E6%BA%B6%E6%8E%A5%E5%B7%A5%E5%A0%B4%E8%A3%BD%E7%BC%B6%E5%B7%A5%E5%A0%B4%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A2%97%E8%A8%AD%E8%A1%A8%E6%98%8E%E3%81%AB%E5%90%88%E3%82%8F%E3%81%9B%E4%BD%90%E8%97%A4%E6%A8%B9%E4%B8%80%E9%83%8E%E5%A4%A7%E5%88%86%E7%9C%8C%E7%9F%A5/27612923445037096/",
+    "https://www.facebook.com/foodbeast/posts/street-fighter-cards-that-are-also-drinkable-energy-drinks-is-the-weirdest-sente/1356815943136803/",
+    "https://www.facebook.com/p/%E5%9C%8B%E6%9C%AC%E4%BD%B3%E7%A7%80-100006076118709/",
+    "https://www.facebook.com/kumiai.chemical/",
+    "https://www.facebook.com/media/set/?set=a.835956883103898.1073742018.777174608982126&type=3",
+    "https://www.facebook.com/omukyoryoken/posts/%E6%A7%8B%E9%80%A0%E5%B7%A5%E5%AD%A6%E8%AB%96%E6%96%87%E9%9B%86vol60a%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E8%AB%96%E6%96%87%E5%90%8D%E6%8B%A1%E5%A4%A7%E5%AD%94%E3%82%92%E6%9C%89%E3%81%99%E3%82%8B%E7%9A%BF%E5%9E%8B%E9%AB%98%E5%8A%9B%E3%83%9C%E3%83%AB%E3%83%88%E6%91%A9%E6%93%A6%E6%8E%A5%E5%90%88%E7%B6%99%E6%89%8B%E3%81%AE%E3%81%99%E3%81%B9%E3%82%8A%E8%80%90%E5%8A%9B%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%A0%94%E7%A9%B6%E8%91%97%E8%80%85%E7%94%B0%E7%95%91%E6%99%B6%E5%AD%90%E9%BB%92%E9%87%8E%E4%BD%B3%E7%A7%80%E9%87%91%E6%B2%BB%E8%8B%B1%E8%B2%9E%E5%B1%B1%E5%8F%A3%E9%9A%86%E5%8F%B8%E3%81%8C%E6%A7%8B%E9%80%A0%E5%B7%A5%E5%AD%A6%E3%82%B7%E3%83%B3%E3%83%9D%E3%82%B8%E3%82%A6/705189546195788/",
+    "https://www.facebook.com/photowaterpolo/albums/796600007039586/",
+    "https://www.facebook.com/groups/1548527965455430/posts/3561131617528378/",
+    "https://www.facebook.com/kumiai.chemical/photos/1101232022657783/",
+    "https://www.facebook.com/佳秀工業株式会社-309112902494713/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "佳秀工業 note 社長",
+   "results": [
+    "https://note.com/takumigiken/n/n13ef654f4d9c",
+    "https://www.instagram.com/p/B5JmPUaHsVh/",
+    "https://syukatsu-kaigi.jp/companies/14552/word_mouths/employee/job_small_categories/1",
+    "https://note.com/tutti0425",
+    "https://kasyu-kogyo.com/2024/06/13/202406award/",
+    "https://note.com/tag/%E6%A9%9F%E6%A2%B0%E4%BA%8B%E6%A5%AD",
+    "https://jobtalk.jp/companies/355277",
+    "https://ritti-oita.jp/news/detail/7aef0f0e-cc9d-4a08-b221-ea6a3d6950f4",
+    "https://kasyu-kogyo.com/company/outline/",
+    "https://compalyze.co.jp/company/7290801012092"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "佳秀工業 X 投稿",
+   "results": [
+    "https://kasyu-kogyo.com/2022/08/02/installed/",
+    "https://x.com/MonodzukuriJP/status/2119560596014178461",
+    "https://www.youtube.com/watch?v=7KE2Ab-kAlQ",
+    "https://rkb.jp/article/9063/",
+    "https://ritti-oita.jp/news/detail/7aef0f0e-cc9d-4a08-b221-ea6a3d6950f4",
+    "https://syukatsu-kaigi.jp/companies/14552/post_items/3/word_mouths",
+    "https://en-hyouban.com/company/10105745896/",
+    "https://kasyu-kogyo.com/",
+    "https://kasyu-kogyo.com/category/ニュース/",
+    "https://kasyu-kogyo.com/company/outline/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部15頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部15頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部15頁・検索12回）"
+ }
+}

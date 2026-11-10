@@ -1,0 +1,1299 @@
+{
+ "name": "近畿大学",
+ "aliases": [],
+ "context": "PBF=unknown 装置= 出典=https://kuring.hiro.kindai.ac.jp/annai/hokoku/data06/179.pdf",
+ "researched_at": "2026-11-10T19:18:48.306470+00:00",
+ "official_url": "https://www.kindai-sc.jp/",
+ "identified_by": "search:ddgs:google:近畿大学",
+ "profile": {},
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "近大経済学部の新井ゼミが自動運転バス導入に向け調査を実施 東大阪市内の駅や実証実験バス車内でニーズを調査し政策提言へ",
+    "url": "https://www.kindai-sc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "、Ai）システムを導入したと発表した",
+    "url": "https://ja.wikipedia.org/wiki/%E8%BF%91%E7%95%BF%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "定量解析システム」が導入され、本格的な稼働を開始した",
+    "url": "https://ja.wikipedia.org/wiki/%E8%BF%91%E7%95%BF%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "的研究に用いられているが、法医学分野での活用を主目的とする導入例としては、国内で初と言うことである",
+    "url": "https://ja.wikipedia.org/wiki/%E8%BF%91%E7%95%BF%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "同学では紙の出願の件数を減少させるべく、2008年よりインターネットを利用した出願方式を導入してきたが、受験生の「出願は紙の願書で」という意識の強さからか、2012年度までの",
+    "url": "https://ja.wikipedia.org/wiki/%E8%BF%91%E7%95%BF%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "近畿大学（学長：細井美彦）、島津製作所の子会社である島津産機システムズ株式会社（本社：滋賀県大津市、社長：中西典顕）およびエス．ラボ株式会社（本社：京都市、代表：柚山精一）、第一セラモ株式会社（本社：滋賀県東近江市、社長：川北晃司）は、「MEX方式（材料押出積層法、Material EXtrusion）の金属3Dプリンターによる金属・セラミックス部品の開発技術の革新」を目的にした共同研究に取り組みます",
+    "url": "https://kuring.hiro.kindai.ac.jp/topics/2021/12/005088.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの業界では、海外製の装置・原材料が多く流通しているため「導入・利用コストが高い」「アフターサービスが十分ではない」「日本メーカーの需要に即した製品が少ない」といった課題があります",
+    "url": "https://kuring.hiro.kindai.ac.jp/topics/2021/12/005088.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在、金属3Dプリンターを製造するメーカーの多くは、敷き詰めた金属粉末をレーザーで溶かしながら造形する「PBF方式」（粉末床融解結合方式＝Powder Bed Fusion）を採用しています",
+    "url": "https://kuring.hiro.kindai.ac.jp/topics/2021/12/005088.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、樹脂で主流の「MEX方式」を金属3Dプリンターでも採用する動きが出ています",
+    "url": "https://kuring.hiro.kindai.ac.jp/topics/2021/12/005088.html",
+    "pass": 3
+   },
+   {
+    "quote": "4者が実現を目指す金属3Ｄプリンターの加工工程では、第一セラモの3Dプリンター用コンパウンド材料（ペレット状）を、エス．ラボの金属3Dプリンター「GEM200DG」で造形して、島津産機システムズの小型真空脱脂焼結炉「VHS-CUBE」で焼結します",
+    "url": "https://kuring.hiro.kindai.ac.jp/topics/2021/12/005088.html",
+    "pass": 3
+   },
+   {
+    "quote": "島津製作所の子会社である島津産機システムズ株式会社（本社：滋賀県大津市、社長：中西典顕）およびエス．ラボ株式会社（本社：京都市、代表：柚山精一）、第一セラモ株式会社（本社：滋賀県東近江市、社長：川北晃司）、近畿大学（学長：細井美彦）は、「MEX方式（材料押出積層法、Material EXtrusion）の金属3Dプリンターによる金属・セラミックス部品の開発技術の革新」を目的にした共同研究に取り組みます",
+    "url": "https://www.shimadzu.co.jp/news/press/p-49w-etrc-ym9g5.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの業界では、海外製の装置・原材料が多く流通しているため「導入・利用コストが高い」「アフターサービスが十分ではない」「日本メーカーの需要に即した製品が少ない」といった課題があります",
+    "url": "https://www.shimadzu.co.jp/news/press/p-49w-etrc-ym9g5.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在、金属3Dプリンターを製造するメーカーの多くは、敷き詰めた金属粉末をレーザーで溶かしながら造形する「PBF方式」（粉末床融解結合方式＝Powder Bed Fusion）を採用しています",
+    "url": "https://www.shimadzu.co.jp/news/press/p-49w-etrc-ym9g5.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、樹脂で主流の「MEX方式」を金属3Dプリンターでも採用する動きが出ています",
+    "url": "https://www.shimadzu.co.jp/news/press/p-49w-etrc-ym9g5.html",
+    "pass": 3
+   },
+   {
+    "quote": "4者が実現を目指す金属3Ｄプリンターの加工工程では、第一セラモの3Dプリンター用コンパウンド材料（ペレット状）を、エス．ラボの金属3Dプリンター「GEM200DG」で造形して、島津産機システムズの小型真空脱脂焼結炉「VHS-CUBE」で焼結します",
+    "url": "https://www.shimadzu.co.jp/news/press/p-49w-etrc-ym9g5.html",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアルズ・インフォマティクス（情報科学を用いた効率的な新材料の探索・研究開発、＝MI）やプロセス・インフォマティクス（MIによる探索で得た新材料の製造法の探索・最適化、＝PI）を金属3Dプリンター関連の研究開発に用いて、製造業や研究機関による画期的な新材料の開発業務を支援してまいります",
+    "url": "https://www.shimadzu.co.jp/news/press/p-49w-etrc-ym9g5.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの勝ち筋、「日本メーカーは専用機で勝負すべし」近大京極教授 | 日経クロステック（xTECH）",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/08521/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの勝ち筋、「日本メーカーは専用機で勝負すべし」近大京極教授",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/08521/",
+    "pass": 3
+   },
+   {
+    "quote": "海外に比べて日本企業の導入・活用が遅れているとされる金属3Dプリンター",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/08521/",
+    "pass": 3
+   },
+   {
+    "quote": "それでも2023年7月に三菱電機と広島大学がアルミニウム（Al）合金とステンレス合金（SUS）を金属3Dプリンターで接合する技術を「世界で初めて」（三菱電機）開発したと発表したり、島津製作所の子会社らが「純国産」の金属3Dプリンターの発売を発表したり、国内でも新しい動きが出始めた",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/08521/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業は今後、金属3Dプリンターとどのように付き合っていくべきか、近畿大学次世代基盤技術研究所の京極秀樹特任教授に聞いた",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/08521/",
+    "pass": 3
+   },
+   {
+    "quote": "あらためて金属3Dプリンターはどういった特徴があるのでしょうか",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/08521/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターは、従来工法である鍛造や鋳造では造れない複雑な形を造れる点が大きな特徴だ",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/08521/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば金型に水管を通して熱冷却効率を上げるなど、従来工法ではできなかった設計が金属3Dプリンターではできる（",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/08521/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターでの造形を前提に設計したもので、日本ミシュランタイヤらが2023年7月に発表した",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/08521/",
+    "pass": 3
+   },
+   {
+    "quote": "便利な金属3Dプリンターですが、日本ではなぜ導入が進んでいないのでしょうか",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/08521/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターはあくまで新しい技術の1つであり、万能ではない",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/08521/",
+    "pass": 3
+   },
+   {
+    "quote": "導入するには、切削や鍛造、鋳造といった既存の加工技術を前提にしていた設計方法を変える必要がある",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/08521/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターは機械自体が高額なため、“あくまで技術の1つ”という点をきちんと理解しないと活用が難しくメリットを享受できない",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/08521/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、金属3Dプリンターは3D-CADデータがあれば造形できるので、オンサイトで補修用の金属部品を造れる",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/08521/",
+    "pass": 3
+   },
+   {
+    "quote": "米国では鍛造や鋳造といった技術を扱える企業が減ってきており、金属3Dプリンターを導入せざるを得ない状況になっているという点も大きい",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/08521/",
+    "pass": 3
+   },
+   {
+    "quote": "中国は鍛造、鋳造の技術がもともと乏しく、すんなり金属3Dプリンターを導入できたという経緯がある",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/08521/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、あと20～30年ほどたつと鋳造や鍛造をこなせる現場が減り、大きな転換が進んで当たり前のように金属3Dプリンターを使う時代が来る可能性はある",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/08521/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターが生きる場面を教えてください",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/08521/",
+    "pass": 3
+   },
+   {
+    "quote": "#金属3Dプリンター",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/08521/",
+    "pass": 3
+   },
+   {
+    "quote": "NICEイノベーションセミナー「３Ｄ金属積層造形技術の最新動向」近畿大学：京極先生講演のお知らせ – 公益財団法人 長野県産業振興機構",
+    "url": "https://www.nice-o.or.jp/info/info-40345/",
+    "pass": 3
+   },
+   {
+    "quote": "NICEイノベーションセミナー「３Ｄ金属積層造形技術の最新動向」近畿大学：京極先生講演のお知らせ",
+    "url": "https://www.nice-o.or.jp/info/info-40345/",
+    "pass": 3
+   },
+   {
+    "quote": "近年、金属積層造形法は、金属加工において困難とされていた「一体化」「軽量化」「中空化」が実現可能な 工法として、注目されており、医療、航空宇宙、自動車分野において、実用化に向けた技術開発が盛んになって",
+    "url": "https://www.nice-o.or.jp/info/info-40345/",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形法を導入し、生産技術の確立を検討されている各社におかれましては、ぜひともご参加いただき、事業拡大にお役立てください",
+    "url": "https://www.nice-o.or.jp/info/info-40345/",
+    "pass": 3
+   },
+   {
+    "quote": "ⅲ）さかき金属3Dプリンタ研究会の紹介",
+    "url": "https://www.nice-o.or.jp/info/info-40345/",
+    "pass": 3
+   },
+   {
+    "quote": "「３Ｄ金属積層造形技術の最新動向」",
+    "url": "https://www.nice-o.or.jp/info/info-40345/",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "近畿大学生物理工学部が第5回公開講座を橋本市で開催 「柿って機能性食品？」と「医療におけるレーザー技術」を解説",
+    "url": "https://www.kindai-sc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "」を教育の目的として教育、研究、医療活動に邁進し、現在では、16の学部と13の研究科・1学位プログラム、および水産研究所等の様々な研究施設をはじめ、2つの大学病院、2つの短期大学、工業高等専門学校、看護専門学校、16の附属校園を有する日本屈指の学校法人に成長しました",
+    "url": "https://www.kindai-sc.jp/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "本学園は、今後も社会に必要とされる学校法人として、独自性の高い特色ある教育・研究活動を行うとともに、地域医療を支える機関として安全で質の高い先進医療を提供してまいります",
+    "url": "https://www.kindai-sc.jp/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "\"医療分野における研究の質\"の項目では国内1位であり、世界順位282位である",
+    "url": "https://ja.wikipedia.org/wiki/%E8%BF%91%E7%95%BF%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "医学部附属病院に近畿大学高度先端総合医療センターを開設",
+    "url": "https://ja.wikipedia.org/wiki/%E8%BF%91%E7%95%BF%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "薬学教育6年制移行により、薬学部医療薬学科を6年制に移行、4年制学科の創薬科学科設置",
+    "url": "https://ja.wikipedia.org/wiki/%E8%BF%91%E7%95%BF%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "：2005年、同学原子力研究所を中心に、放射線計測機器や医療機器等の開発と販売を行う",
+    "url": "https://ja.wikipedia.org/wiki/%E8%BF%91%E7%95%BF%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "原子力・放射能の平和利用の推進を旨とし、各種サンプル試料の放射能、化学成分、細菌等の測定・分析業務や、医療、健康、環境、エネルギー関連分野の調査やコンサルティング業務を行っている",
+    "url": "https://ja.wikipedia.org/wiki/%E8%BF%91%E7%95%BF%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "）を量産するための装置を、",
+    "url": "https://ja.wikipedia.org/wiki/%E8%BF%91%E7%95%BF%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "の近畿大学資源再生研究所内に、実証実験などを行う研究施設「近畿大学バイオコークス量産実証実験センター」が新設された",
+    "url": "https://ja.wikipedia.org/wiki/%E8%BF%91%E7%95%BF%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "環境にやさしい新エネルギー、バイオコークス：近畿大学",
+    "url": "https://ja.wikipedia.org/wiki/%E8%BF%91%E7%95%BF%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "東知多工場内の自動車部品鋳造用大型炉の燃料の一部に試験的に使用し、石炭コークスの使用を約11.4%削減させる効果を確認した",
+    "url": "https://ja.wikipedia.org/wiki/%E8%BF%91%E7%95%BF%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "「私立大学戦略的研究基盤形成支援事業」に採択された、広島キャンパス内の「次世代基盤技術研究所」を拠点とする「地域連携による次世代自動車技術に関する研究」が行われており、今回の包括協定に基づき、マツダを中心とする広島地区の自動車関連産業において、産学連携による最先端の共同研究開発・教育を通じての人材育成を進めるとしている",
+    "url": "https://ja.wikipedia.org/wiki/%E8%BF%91%E7%95%BF%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "“完全養殖マグロ 量産へ 近大と豊田通商 提携拡大”",
+    "url": "https://ja.wikipedia.org/wiki/%E8%BF%91%E7%95%BF%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "“「近大マグロ」量産化計画…長崎に稚魚養殖施設”",
+    "url": "https://ja.wikipedia.org/wiki/%E8%BF%91%E7%95%BF%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "大学宇宙工学コンソーシアム (UNISEC)",
+    "url": "https://ja.wikipedia.org/wiki/%E8%BF%91%E7%95%BF%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "この方式は設備がシンプルで、造形が速く、大きな造形物にも対応できるため、試作品だけでなく実部品の製造にも適しています",
+    "url": "https://kuring.hiro.kindai.ac.jp/topics/2021/12/005088.html",
+    "pass": 3
+   },
+   {
+    "quote": "この方式は設備がシンプルで、造形が速く、大きな造形物にも対応できるため、試作品だけでなく実部品の製造にも適しています",
+    "url": "https://www.shimadzu.co.jp/news/press/p-49w-etrc-ym9g5.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば金型に水管を通して熱冷却効率を上げるなど、従来工法ではできなかった設計が金属3Dプリンターではできる（",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/08521/",
+    "pass": 3
+   },
+   {
+    "quote": "図1 日本ミシュランタイヤのコンフォーマル冷却金型のイメージ",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/08521/",
+    "pass": 3
+   },
+   {
+    "quote": "冷却水路を最適化した樹脂成形向けの「コンフォーマル冷却金型」",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/08521/",
+    "pass": 3
+   },
+   {
+    "quote": "冷却水路を金型の内部に最適に形成することができる",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/08521/",
+    "pass": 3
+   },
+   {
+    "quote": "次の半導体大国、インド",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/08521/",
+    "pass": 3
+   },
+   {
+    "quote": "緊急総点検 例外なき標的の時代、AIサイバー攻撃防衛策12項目",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/08521/",
+    "pass": 3
+   },
+   {
+    "quote": "インド半導体の業界地図 タタ経済圏に450社、日本の突破口明らかに",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/08521/",
+    "pass": 3
+   },
+   {
+    "quote": "動き出すインド半導体、狙うは「世界の工場」 ラピダスも参戦",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/08521/",
+    "pass": 3
+   },
+   {
+    "quote": "ルネサス、半導体設計全体をAIエージェント化 全製品に適用へ",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/08521/",
+    "pass": 3
+   },
+   {
+    "quote": "近年、金属積層造形法は、金属加工において困難とされていた「一体化」「軽量化」「中空化」が実現可能な 工法として、注目されており、医療、航空宇宙、自動車分野において、実用化に向けた技術開発が盛んになって",
+    "url": "https://www.nice-o.or.jp/info/info-40345/",
+    "pass": 3
+   },
+   {
+    "quote": "今回の講演会では、３Ｄプリンターの第一人者である京極先生をお招きし、造形品の品質を左右する粉体の前 処理技術、３Ｄプリンターを用いた医療機器などの最新の事例を紹介します",
+    "url": "https://www.nice-o.or.jp/info/info-40345/",
+    "pass": 3
+   },
+   {
+    "quote": "研究室の概要 本研究室では，医療器具や輸送機器に利用されるチタン合金を中心に，化学組成・製造プロセ",
+    "url": "https://www.jstage.jst.go.jp/article/jfes/94/7/94_395/_pdf/-char/ja",
+    "pass": 3
+   },
+   {
+    "quote": "・積層造形を用いた金属（チタン合金・ステンレス錮）製医療器具の開発",
+    "url": "https://www.jstage.jst.go.jp/article/jfes/94/7/94_395/_pdf/-char/ja",
+    "pass": 3
+   },
+   {
+    "quote": "分野 ／連携可能な分野 の最適化，医療器具開発",
+    "url": "https://www.jstage.jst.go.jp/article/jfes/94/7/94_395/_pdf/-char/ja",
+    "pass": 3
+   },
+   {
+    "quote": "設備・装置の使用の可 設備・装置の使用： 要相談 ／ 依頼試験： 要相談否／依頼試験の可否",
+    "url": "https://www.jstage.jst.go.jp/article/jfes/94/7/94_395/_pdf/-char/ja",
+    "pass": 3
+   },
+   {
+    "quote": "教育・研究・医療の向上に貢献する為に、",
+    "url": "https://kindai-a.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "￼また、「THE世界大学ランキング2024」では、西日本の私立大学で1位、「医療分野における研究の質」で国内1位と評価されています",
+    "url": "https://note.com/liberjapan/n/nbe275a2e0a47",
+    "pass": 3
+   },
+   {
+    "quote": "といった多様な教育機関・医療機関を運営しています",
+    "url": "https://note.com/liberjapan/n/nbe275a2e0a47",
+    "pass": 3
+   },
+   {
+    "quote": "特に附属病院の存在は大きく、（詳しくは有料パートで解説しますが）医療収入が法人の事業規模を押し上げています",
+    "url": "https://note.com/liberjapan/n/nbe275a2e0a47",
+    "pass": 3
+   },
+   {
+    "quote": "学生数の多さと医療収入の存在によって、本業の収益基盤が揺らぎにくい構造になっています！",
+    "url": "https://note.com/liberjapan/n/nbe275a2e0a47",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "校友会が存在しており、Kindaiサミットという「日本を変える」を大きなテーマとし、社長、上場企業の役員、アスリート、起業家、議員、卒業生が来場する完全招待制のイベントも行っている(2020年～2022年は",
+    "url": "https://ja.wikipedia.org/wiki/%E8%BF%91%E7%95%BF%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "」だが、海外の子会社では「",
+    "url": "https://ja.wikipedia.org/wiki/%E8%BF%91%E7%95%BF%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "近畿大学（学長：細井美彦）、島津製作所の子会社である島津産機システムズ株式会社（本社：滋賀県大津市、社長：中西典顕）およびエス．ラボ株式会社（本社：京都市、代表：柚山精一）、第一セラモ株式会社（本社：滋賀県東近江市、社長：川北晃司）は、「MEX方式（材料押出積層法、Material EXtrusion）の金属3Dプリンターによる金属・セラミックス部品の開発技術の革新」を目的にした共同研究に取り組みます",
+    "url": "https://kuring.hiro.kindai.ac.jp/topics/2021/12/005088.html",
+    "pass": 3
+   },
+   {
+    "quote": "島津製作所の子会社である島津産機システムズ株式会社（本社：滋賀県大津市、社長：中西典顕）およびエス．ラボ株式会社（本社：京都市、代表：柚山精一）、第一セラモ株式会社（本社：滋賀県東近江市、社長：川北晃司）、近畿大学（学長：細井美彦）は、「MEX方式（材料押出積層法、Material EXtrusion）の金属3Dプリンターによる金属・セラミックス部品の開発技術の革新」を目的にした共同研究に取り組みます",
+    "url": "https://www.shimadzu.co.jp/news/press/p-49w-etrc-ym9g5.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金：5,000万円",
+    "url": "https://www.shimadzu.co.jp/news/press/p-49w-etrc-ym9g5.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金：1億円",
+    "url": "https://www.shimadzu.co.jp/news/press/p-49w-etrc-ym9g5.html",
+    "pass": 3
+   },
+   {
+    "quote": "それでも2023年7月に三菱電機と広島大学がアルミニウム（Al）合金とステンレス合金（SUS）を金属3Dプリンターで接合する技術を「世界で初めて」（三菱電機）開発したと発表したり、島津製作所の子会社らが「純国産」の金属3Dプリンターの発売を発表したり、国内でも新しい動きが出始めた",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/08521/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "近畿大学 - Wikipedia — 近畿大学は1925年に 財団法人日本大学 が設立した日本大学専門学校を淵源とし（初代校長・ 市村光恵）、1939年に日本大学大阪専門学校と改称し、翌年には日大から経営分離した。 太平洋戦争 下の1943年に 大阪理工科大学 を開学 [10]。",
+    "url": "https://ja.wikipedia.org/wiki/近畿大学",
+    "pass": 3
+   },
+   {
+    "quote": "法人に関する情報公開 | 近畿大学について | 近畿大学 — 保護者向け情報 卒業生向けサービス 教職員向け情報 社会連携推進センター 校舎貸出（東大阪キャンパス） このサイトについて 個人情報の取り扱い サイトマップ 近畿大学（東大阪キャンパス） 〒577-8502 大阪府東大阪市 小若江3-4-1 TEL (06)6721-2332 KINDAI ...",
+    "url": "https://www.kindai.ac.jp/about-kindai/corporate-information/",
+    "pass": 3
+   },
+   {
+    "quote": "大学の概要 | 近畿大学について | 近畿大学 — 保護者向け情報 卒業生向けサービス 教職員向け情報 社会連携推進センター 校舎貸出（東大阪キャンパス） このサイトについて 個人情報の取り扱い サイトマップ 近畿大学（東大阪キャンパス） 〒577-8502 大阪府東大阪市 小若江3-4-1 TEL (06)6721-2332 KINDAI ...",
+    "url": "https://www.kindai.ac.jp/about-kindai/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "学校法人近畿大学の2027年度会社概要 | マイナビ2028近畿大学 - 会社概要近畿大学 - Wikipedia学校法人近畿大学（大阪府）の会社概要・役員 | Compalyze学校法人近畿大学の新卒採用・会社概要 | マイナビ2027 — 学校法人近畿大学の前年度会社概要ページです。マイナビ2028は、インターンシップ＆キャリア、前年の採用データ、エントリー情報を公開しており、自己分析や企業研究、皆さんの就職活動をサポートします。 近畿大学の事業概要 近畿大学は大正14年（1925）創立の大阪専門学校と昭和18年創立の大阪理工科大学を母体として、昭和24年、新学制により近畿大学として設立されました。当時は理工学部、商学部（のちに商経学部、さらに平成15年度に経済学部、経営学部へ改組）の2学部でスタートしました ... 近畿大学は1925年に 財団法人日本大学 が設立した日本大学専門学校",
+    "url": "https://job.mynavi.jp/28/pc/search/corp109460/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "近畿大学 - 会社概要 — 近畿大学の事業概要 近畿大学は大正14年（1925）創立の大阪専門学校と昭和18年創立の大阪理工科大学を母体として、昭和24年、新学制により近畿大学として設立されました。当時は理工学部、商学部（のちに商経学部、さらに平成15年度に経済学部、経営学部へ改組）の2学部でスタートしました ...",
+    "url": "https://www.atengineer.com/pr/kindai/company",
+    "pass": 3
+   },
+   {
+    "quote": "純国産の金属3Dプリンター技術体系の確立へ 装置・部材メーカー3社お...金属3Dプリンターの勝ち筋、「日本メーカーは専用機で勝負すべし」近...純国産金属3Dプリンタ技術体系の確立へ | 3DP id.arts金属3Dプリンターの普及拡大を目指し、国内3社と近大が共同研究を開始...純国産金属3Dプリンタの技術体系の確立に向けて産学4者が共同研究を始...「巻けるコンパウンド」と100万円台のMEX方式金属3Dプリンタを開発：3... — 社名：第一セラモ株式会社 所在地：〒529-1403 滋賀県東近江市五個荘日吉町 432番地 代表取締役社長：川北晃司 設立：1988年 資本金：5,000万円 株主：第一工業製薬株式会社 主な事業：粉末射出成形用コンパウンド材料の製造・販売 URL：https://www.dai-ichi-ceramo.co.jp/ See full list on",
+    "url": "https://www.shimadzu.co.jp/news/press/p-49w-etrc-ym9g5.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの勝ち筋、「日本メーカーは専用機で勝負すべし」近... — Oct 18, 2023 · 海外に比べて日本企業の導入・活用が遅れているとされる金属3Dプリンター。 日本の製造業は今後、金属3Dプリンターとどのように付き合っていくべきか、近畿大学次世代基盤技術研究所の京極秀樹特任教授に聞いた。",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/08521/",
+    "pass": 3
+   },
+   {
+    "quote": "純国産金属3Dプリンタ技術体系の確立へ | 3DP id.arts — Dec 30, 2021 · 純国産の金属3Dプリンタ技術体系の確立へ国内メーカー3社および近畿大学が共同研究を開始 島津製作所の子会社であ",
+    "url": "https://idarts.co.jp/3dp/japanese-metal-3d-printer-gem200dg/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの普及拡大を目指し、国内3社と近大が共同研究を開始... — Jan 31, 2022 · 島津製作所の子会社である島津産機システムズ（大津市）、エス.ラボ（京都市）、第一セラモ（滋賀県東近江市）、近畿大学が、金属3Dプリンター（アディティブ製造装置）の共同研究を開始した。「導入・利用コストが高い」「アフターサービスが十分ではない」「日本メーカーの需要に即し ...",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00011/00154/",
+    "pass": 3
+   },
+   {
+    "quote": "研究室紹介 近畿大学 - J-STAGE — 近畿大学理工学部機械工学科機械材料工学研究室 図1 擬似体液中におけるチタン合金製脊椎固定器具の疲労試験の様子 図2 ウサギの骨のCT画像を基に作製した金属積層造形体",
+    "url": "https://www.jstage.jst.go.jp/article/jfes/94/7/94_395/_pdf/-char/ja",
+    "pass": 3
+   },
+   {
+    "quote": "3D造形技術研究センターを新設しました | TOPICS | 近畿大学 次世代基... — Apr 1, 2014 · 〈英文〉Advanced Additive Manufacturing Research Center 【目的】 3D造形技術研究センターでは、次世代の\"ものづくり\"に欠かせない金属系材料を中心とした3D積層造形技術に関する技術開発を行うとともに、新たなマルチマテリアル3D積層造形装置の開発もめざしてい ...",
+    "url": "https://kuring.hiro.kindai.ac.jp/topics/2014/04/000024.html",
+    "pass": 3
+   },
+   {
+    "quote": "近畿大学が出資する事業会社 | 情報公開 | 学校法人近畿大学 — 学校・施設 情報公開 News Release お問い合わせ 採用情報 教職員向け情報 アクセス 検索 近畿大学（東大阪キャンパス） 〒577-8502 東大阪市小若江3-4-1 TEL (06)6721-2332 Googleマップ 100周年記念サイト このサイトについて 個人情報の取り扱い 近畿大学 公式サイト ...",
+    "url": "https://www.kindai-sc.jp/disclosure/investment/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社近大アシスト - 学校法人近畿大学をトータルにサポート — 株式会社近大アシストは学校法人近畿大学が100％出資する会社です。学校法人近畿大学の目指す、教育・研究・医療の向上に貢献することを目的に、領域にとらわれず多岐の事業活動を行います。",
+    "url": "https://kindai-a.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "財務・事業報告 | 情報公開 | 学校法人近畿大学 — 財務・事業報告 近畿大学の財務状況についてご紹介いたします。（全てPDFファイルです） 令和7年度 事業報告書（PDF：23.1 MB） 計算関係書類及び財産目録（PDF：356 KB） 会計監査人監査報告書（PDF：126 KB） 監事監査報告書（PDF：332 KB） 学校法人会計と計算書類等の概要について（PDF：438 KB ...",
+    "url": "https://www.kindai-sc.jp/disclosure/financial-report/",
+    "pass": 3
+   },
+   {
+    "quote": "学校法人近畿大学の新卒採用・会社概要 | マイナビ2027財務・事業報告 | 情報公開 | 学校法人近畿大学法人に関する情報公開 | 近畿大学について | 近畿大学教職員数 | 学校法人近畿大学について | 学校法人近畿大学学校法人近畿大学の2027年度会社概要 | マイナビ2028学校法人近畿大学の企業情報 | インターンシップ・新卒採用情報からES...学校法人近畿大学の企業概要・売上・業績など｜Yahoo!しごとカタログ — 学校法人近畿大学の会社概要ページです。マイナビ2027は、採用情報や企業情報で、就職活動をサポートします。 財務・事業報告 近畿大学の財務状況についてご紹介いたします。（全てPDFファイルです） 令和7年度 事業報告書（PDF：23.1 MB） 計算関係書類及び財産目録（PDF：356 KB） 会計監査人監査報告書（PDF：126 KB） 監事監査報告書（PDF",
+    "url": "https://job.mynavi.jp/27/pc/search/corp109460/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "教職員数 | 学校法人近畿大学について | 学校法人近畿大学 — 学校・施設 情報公開 News Release お問い合わせ 採用情報 教職員向け情報 アクセス 検索 近畿大学（東大阪キャンパス） 〒577-8502 東大阪市小若江3-4-1 TEL (06)6721-2332 Googleマップ 100周年記念サイト このサイトについて 個人情報の取り扱い 近畿大学 公式サイト ...",
+    "url": "https://www.kindai-sc.jp/about/teachers/",
+    "pass": 3
+   },
+   {
+    "quote": "学校法人近畿大学の2027年度会社概要 | マイナビ2028学校法人近畿大学の企業情報 | インターンシップ・新卒採用情報からES...学校法人近畿大学の企業概要・売上・業績など｜Yahoo!しごとカタログ — 学校法人近畿大学の前年度会社概要ページです。マイナビ2028は、インターンシップ＆キャリア、前年の採用データ、エントリー情報を公開しており、自己分析や企業研究、皆さんの就職活動をサポートします。 学校法人近畿大学の企業情報ページです。就活のクチコミなど様々な情報を掲載しています。 学校法人近畿大学の 会社概要 代表者名 細井美彦 業界 教育・研究 本店所在地 大阪府東大阪市小若江3丁目4番1号 従業員数 5,233人 企業URL https://www.kindai.ac.jp/",
+    "url": "https://job.mynavi.jp/28/pc/search/corp109460/outline.html",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "現在、金属3Dプリンターを製造するメーカーの多くは、敷き詰めた金属粉末をレーザーで溶かしながら造形する「PBF方式」（粉末床融解結合方式＝Powder Bed Fusion）を採用しています",
+    "url": "https://kuring.hiro.kindai.ac.jp/topics/2021/12/005088.html",
+    "pass": 3
+   },
+   {
+    "quote": "その場合、金属粉末を混ぜた樹脂材料を熱で溶かしながら造形した後に樹脂を除き金属焼結体（造形物）を得ます",
+    "url": "https://kuring.hiro.kindai.ac.jp/topics/2021/12/005088.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在、金属3Dプリンターを製造するメーカーの多くは、敷き詰めた金属粉末をレーザーで溶かしながら造形する「PBF方式」（粉末床融解結合方式＝Powder Bed Fusion）を採用しています",
+    "url": "https://www.shimadzu.co.jp/news/press/p-49w-etrc-ym9g5.html",
+    "pass": 3
+   },
+   {
+    "quote": "その場合、金属粉末を混ぜた樹脂材料を熱で溶かしながら造形した後に樹脂を除き金属焼結体（造形物）を得ます",
+    "url": "https://www.shimadzu.co.jp/news/press/p-49w-etrc-ym9g5.html",
+    "pass": 3
+   },
+   {
+    "quote": "主な事業：粉末射出成形用コンパウンド材料の製造・販売",
+    "url": "https://www.shimadzu.co.jp/news/press/p-49w-etrc-ym9g5.html",
+    "pass": 3
+   },
+   {
+    "quote": "それでも2023年7月に三菱電機と広島大学がアルミニウム（Al）合金とステンレス合金（SUS）を金属3Dプリンターで接合する技術を「世界で初めて」（三菱電機）開発したと発表したり、島津製作所の子会社らが「純国産」の金属3Dプリンターの発売を発表したり、国内でも新しい動きが出始めた",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/08521/",
+    "pass": 3
+   },
+   {
+    "quote": "チタン合金，生体材料",
+    "url": "https://www.jstage.jst.go.jp/article/jfes/94/7/94_395/_pdf/-char/ja",
+    "pass": 3
+   },
+   {
+    "quote": "図 1 擬似体液中におけるチタン合金製脊椎固定器具の疲",
+    "url": "https://www.jstage.jst.go.jp/article/jfes/94/7/94_395/_pdf/-char/ja",
+    "pass": 3
+   },
+   {
+    "quote": "研究室の概要 本研究室では，医療器具や輸送機器に利用されるチタン合金を中心に，化学組成・製造プロセ",
+    "url": "https://www.jstage.jst.go.jp/article/jfes/94/7/94_395/_pdf/-char/ja",
+    "pass": 3
+   },
+   {
+    "quote": "キ ワ ド チタン合金，生体材料",
+    "url": "https://www.jstage.jst.go.jp/article/jfes/94/7/94_395/_pdf/-char/ja",
+    "pass": 3
+   },
+   {
+    "quote": "鋳造技術関連の主な研 •新規チタン合金の開発",
+    "url": "https://www.jstage.jst.go.jp/article/jfes/94/7/94_395/_pdf/-char/ja",
+    "pass": 3
+   },
+   {
+    "quote": "究テーマ ・高融点金属を多量に含むチタン合金の凝固特性評価",
+    "url": "https://www.jstage.jst.go.jp/article/jfes/94/7/94_395/_pdf/-char/ja",
+    "pass": 3
+   },
+   {
+    "quote": "・積層造形を用いた金属（チタン合金・ステンレス錮）製医療器具の開発",
+    "url": "https://www.jstage.jst.go.jp/article/jfes/94/7/94_395/_pdf/-char/ja",
+    "pass": 3
+   },
+   {
+    "quote": "•金属（チタン合金・鉄鋼）の窒化処理法の開発",
+    "url": "https://www.jstage.jst.go.jp/article/jfes/94/7/94_395/_pdf/-char/ja",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "近畿大学公式note 近畿大学公式note 医学から芸術まで網羅する近畿大学の公式noteです。 最新のトピックスや研究成果をはじめ、これまでの記事をギュッとまとめた要約コンテンツなど、近大の魅力を幅広くお届けします！ 公式HP https://www.kindai.ac.jp/",
+    "url": "https://note.com/kindai_koushiki",
+    "pass": 3
+   },
+   {
+    "quote": "近畿大学の英文表記は、なぜ「Kindai University」なのか？ Aug 28, 2026 · すると、近畿大学は10年前の2016年4月から、英文名称を「KINDAI UNIVERSITY」に変更していた。青い案内板もよくみれば訂正されているのがわかる。 では、なぜ「Kinki University」ではなく「Kindai University」なのか。 大学のニュースリリース には、その理由がこう説明されている。 英語で「Kinki」と発音 ...",
+    "url": "https://note.com/super_socket7/n/n38d8b5ade0bc",
+    "pass": 3
+   },
+   {
+    "quote": "【近畿大学】西のマンモス私大は資産総額も4,960億とマンモス級！「志... Dec 9, 2025 · 近畿大学東大阪キャンパス西門（近畿大学ホームページより） 西日本の超マンモス総合大学！ 「近畿大学」ってどんな学校？ “志願者数日本一”の座に11年君臨し続けた近畿大学。世界で初めてマグロの完全養殖を成功させ「近大マグロ」で一躍有名となったこの大学を、今や「知らない」と ...",
+    "url": "https://note.com/liberjapan/n/nbe275a2e0a47",
+    "pass": 3
+   },
+   {
+    "quote": "近畿大学はなぜここまで人気なのか｜選ばれ続ける理由を徹底解説 Dec 8, 2025 · 近畿大学は長年にわたり全国トップクラスの志願者数を誇り、私立大学の中でも圧倒的な存在感を示してきました。 2025年の全国志願者数ランキングでは、千葉工業大学が躍進し、近畿大学は2位となりましたが、それでもなお人気の高さは揺らいでいません。",
+    "url": "https://note.com/kkdr2026/n/n7b00fe5b4983",
+    "pass": 3
+   },
+   {
+    "quote": "近畿大学 峰滝ゼミ9期生の記事一覧｜note 近畿大学 峰滝ゼミ9期生 近畿大学 経営学部 コミュニケーション関連の科目を専門とするゼミです。 生徒主体で様々な活動に取り組んでおり、企業の社長さんにインタビューに行った経験を公開しています！",
+    "url": "https://note.com/minetaki9/all",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "「ケントハウスに行けば、新しいスイーツに出会える」――近大卒パティシエが貫く、挑戦とワクワクのものづくり",
+    "url": "https://note.com/kindai_koushiki",
+    "pass": 3
+   },
+   {
+    "quote": "ショートスリーパーは本当に目指せる？ 睡眠時間を削る前に知っておきたいこと",
+    "url": "https://note.com/kindai_koushiki",
+    "pass": 3
+   },
+   {
+    "quote": "【世界のポテト事情】ケチャップだけじゃない！5カ国の留学生に聞いたフライドポテトの奥深い食べ方",
+    "url": "https://note.com/kindai_koushiki",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ、ぶつけた「あざ」は赤や青、黄色に変わる？ 医師に聞いてみた",
+    "url": "https://note.com/kindai_koushiki",
+    "pass": 3
+   },
+   {
+    "quote": "卒業式に欠かせない「袴（はかま）」の歴史とトレンドを調査！「はいからさん」から現代のレトロモダンまで",
+    "url": "https://note.com/kindai_koushiki",
+    "pass": 3
+   },
+   {
+    "quote": "空き家を国際シェアハウスに再生！父の急逝を機に起業を志した学生と、近大OBメンターの挑戦の軌跡",
+    "url": "https://note.com/kindai_koushiki",
+    "pass": 3
+   },
+   {
+    "quote": "近畿大学の英文表記は、なぜ「Kindai University」なのか？｜あなろぐ",
+    "url": "https://note.com/super_socket7/n/n38d8b5ade0bc",
+    "pass": 3
+   },
+   {
+    "quote": "近畿大学の英文表記は、なぜ「Kindai University」なのか？",
+    "url": "https://note.com/super_socket7/n/n38d8b5ade0bc",
+    "pass": 3
+   },
+   {
+    "quote": "和歌山をドライブしているとき、気になる案内板を見つけた。",
+    "url": "https://note.com/super_socket7/n/n38d8b5ade0bc",
+    "pass": 3
+   },
+   {
+    "quote": "「0.9km 近畿大学 Kindai University」",
+    "url": "https://note.com/super_socket7/n/n38d8b5ade0bc",
+    "pass": 3
+   },
+   {
+    "quote": "近畿大学といえば、2026年度入試で約17万人の志願者を集め、志願者数全国1位となった人気大学だ。ここ10年、2025年を除いてずっと1位を続けているというから、その人気ぶりはすごい。",
+    "url": "https://note.com/super_socket7/n/n38d8b5ade0bc",
+    "pass": 3
+   },
+   {
+    "quote": "そんな近畿大学の案内板を見て、私が気になったのは英文表記の「Kindai University」だった。",
+    "url": "https://note.com/super_socket7/n/n38d8b5ade0bc",
+    "pass": 3
+   },
+   {
+    "quote": "「あれ？ 近畿大学なら、Kinki Universityじゃないの？」",
+    "url": "https://note.com/super_socket7/n/n38d8b5ade0bc",
+    "pass": 3
+   },
+   {
+    "quote": "私は近畿大学の英語名は普通に「Kinki University」だとに思い込んでいた。",
+    "url": "https://note.com/super_socket7/n/n38d8b5ade0bc",
+    "pass": 3
+   },
+   {
+    "quote": "【近畿大学】西のマンモス私大は資産総額も4,960億とマンモス級！「志願者数11年連続日本一」は大学の経営努力の結晶だった｜りばちゃん｜大学分析🏫🔍",
+    "url": "https://note.com/liberjapan/n/nbe275a2e0a47",
+    "pass": 3
+   },
+   {
+    "quote": "【近畿大学】西のマンモス私大は資産総額も4,960億とマンモス級！「志願者数11年連続日本一」は大学の経営努力の結晶だった",
+    "url": "https://note.com/liberjapan/n/nbe275a2e0a47",
+    "pass": 3
+   },
+   {
+    "quote": "近畿大学が公開している直近6年の決算資料から財務状況を分析し、",
+    "url": "https://note.com/liberjapan/n/nbe275a2e0a47",
+    "pass": 3
+   },
+   {
+    "quote": "を判断していきます。（偏差値や受験対策についての記述はしておりませんので、ご了承ください。）",
+    "url": "https://note.com/liberjapan/n/nbe275a2e0a47",
+    "pass": 3
+   },
+   {
+    "quote": "付属校含め近大への受験・進学を検討している中高校生と親御さんにとって良い判断材料となるように、しっかり書いていきます！",
+    "url": "https://note.com/liberjapan/n/nbe275a2e0a47",
+    "pass": 3
+   },
+   {
+    "quote": "近畿大学東大阪キャンパス西門（近畿大学ホームページより）",
+    "url": "https://note.com/liberjapan/n/nbe275a2e0a47",
+    "pass": 3
+   },
+   {
+    "quote": "“志願者数日本一”の座に11年君臨し続けた近畿大学。世界で初めてマグロの完全養殖を成功させ「近大マグロ」で一躍有名となったこの大学を、今や「知らない」という学生は居ないのではないでしょうか？",
+    "url": "https://note.com/liberjapan/n/nbe275a2e0a47",
+    "pass": 3
+   },
+   {
+    "quote": "近畿大学は2022年に情報学部を新規開設し、今では6つのキャンパスで15学部49学科を持つ日本屈指の総合大学となりました。 さらに2026年4月には、医学部と大学病院が移転した堺市の「おおさかメディカルキャンパス」に、16番目の学部として看護学部（看護学科）が新設されます。",
+    "url": "https://note.com/liberjapan/n/nbe275a2e0a47",
+    "pass": 3
+   },
+   {
+    "quote": "近畿大学はなぜここまで人気なのか｜選ばれ続ける理由を徹底解説｜関関同立コーチング《オンライン》",
+    "url": "https://note.com/kkdr2026/n/n7b00fe5b4983",
+    "pass": 3
+   },
+   {
+    "quote": "近畿大学はなぜここまで人気なのか｜選ばれ続ける理由を徹底解説",
+    "url": "https://note.com/kkdr2026/n/n7b00fe5b4983",
+    "pass": 3
+   },
+   {
+    "quote": "近畿大学は長年にわたり全国トップクラスの志願者数を誇り、私立大学の中でも圧倒的な存在感を示してきました。",
+    "url": "https://note.com/kkdr2026/n/n7b00fe5b4983",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の全国志願者数ランキングでは、千葉工業大学が躍進し、近畿大学は2位となりましたが、それでもなお人気の高さは揺らいでいません。",
+    "url": "https://note.com/kkdr2026/n/n7b00fe5b4983",
+    "pass": 3
+   },
+   {
+    "quote": "むしろ、「志願者数1位の座を譲っても、大学としての総合的な魅力は依然として国内トップクラス」という評価が定着しつつあります。",
+    "url": "https://note.com/kkdr2026/n/n7b00fe5b4983",
+    "pass": 3
+   },
+   {
+    "quote": "1. 近畿大学の志願者数は全国トップクラスを維持",
+    "url": "https://note.com/kkdr2026/n/n7b00fe5b4983",
+    "pass": 3
+   },
+   {
+    "quote": "近畿大学は2020年代に入り、私立大学で志願者数全国1位の常連となりました。",
+    "url": "https://note.com/kkdr2026/n/n7b00fe5b4983",
+    "pass": 3
+   },
+   {
+    "quote": "2025年は千葉工業大学が急伸したことで2位になったものの、依然として全国上位の定位置にあります。",
+    "url": "https://note.com/kkdr2026/n/n7b00fe5b4983",
+    "pass": 3
+   },
+   {
+    "quote": "近畿大学 峰滝ゼミ9期生の記事一覧｜note",
+    "url": "https://note.com/minetaki9/all",
+    "pass": 3
+   },
+   {
+    "quote": "プチサミット 社長室へご招待～今日、キミの未来が変わる～",
+    "url": "https://note.com/minetaki9/all",
+    "pass": 3
+   },
+   {
+    "quote": "学生起業家のSRCグループの代表へインタビュー",
+    "url": "https://note.com/minetaki9/all",
+    "pass": 3
+   },
+   {
+    "quote": "世界初だけに挑戦する会社の社長にインタビュー",
+    "url": "https://note.com/minetaki9/all",
+    "pass": 3
+   },
+   {
+    "quote": "常に走り続ける自転車ウェアメーカーの社長にインタビュー",
+    "url": "https://note.com/minetaki9/all",
+    "pass": 3
+   },
+   {
+    "quote": "働き方をKaeru！女性社長にインタビュー",
+    "url": "https://note.com/minetaki9/all",
+    "pass": 3
+   },
+   {
+    "quote": "全世界へビジネスチャットサービスを提供する会社の社長へのインタビュー",
+    "url": "https://note.com/minetaki9/all",
+    "pass": 3
+   },
+   {
+    "quote": "化粧品を通じて世界へ！常に考え続ける社長にインタビュー",
+    "url": "https://note.com/minetaki9/all",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "近畿大学 (@kinkidaigakuPR) / X 近畿大学病院の予約確認や診察の呼び出し、会計やお薬に関する案内など、患者様の通院を支援する「通院支援アプリ」 その機能改善＆普及策を提案するアイデアコンテストで、ファイナリスト10組が様々なアイデアを披露する最終審査会なう。 Show more",
+    "url": "https://x.com/kinkidaigakuPR",
+    "pass": 3
+   },
+   {
+    "quote": "近畿大学新聞会 (@kindai_shinbun) / X 公認団体近畿大学新聞会です！！！ 見学希望は質問はDMまで！！ 2025年度結成！新部員募集中！ #近畿大学 #春から近大 #近大 ↓インスタグラム",
+    "url": "https://x.com/kindai_shinbun",
+    "pass": 3
+   },
+   {
+    "quote": "近畿大学中央図書館 (@Kindai_Clib) / X 【#近畿大学貴重資料デジタルアーカイブ 公開資料】 11月10日は、ドイツの劇作家フリードリヒ・シラーの生誕日。 20代前半のシラーが1781年に匿名で刊行した戯曲『群盗』は、翌年マンハイムで初演され、大きな反響を呼びました。その後も版を重ねた初期の代表作です。 #近大 adeac.jp/clib-kindai/de…",
+    "url": "https://x.com/Kindai_Clib",
+    "pass": 3
+   },
+   {
+    "quote": "近畿大学 情報学部（KDIX）公式アカウント (@Kindai_KDIX) / X 近畿大学情報学部は、令和8年度後期授業より、日本の大学で初めて「Swift」を学部必修科目として設定します。 実践的なスキルを身につけ、学生が自らのアイデアを実際のアプリとして形にできる教育を展開してまいります。",
+    "url": "https://x.com/Kindai_KDIX",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Kinki University Employees, Location, Alumni | LinkedIn Kinki University | 7,037 followers on LinkedIn. 近畿大学 is a 高等教育 company based out of Osaka, Japan.",
+    "url": "https://www.linkedin.com/school/近畿大学/",
+    "pass": 3
+   },
+   {
+    "quote": "島崎 敢 - 近畿大学 - 教授 | LinkedIn高作 圭汰 - 近畿大学農学部 | LinkedInFusae Nara（奈良 房永） - US-licensed Native Japanese Litigator ....東 健太郎 - 近畿大学 - 事務職員 | LinkedIn辰巳 陽一 - 近畿大学医学部血液内科・近畿大学医学部附属病院安全管...大原 太司 - 近畿大学の管理部長 | LinkedIn · 職歴: 近畿大学 · 学歴: 早稲田大学大学院 · 場所: 広域東京エリア · LinkedInのつながり3人。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで島崎 敢さんのプロフィールを閲覧しましょう。 近畿大学農学部 · 学歴: 近畿大学 · 場所: 吹田市。10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedI",
+    "url": "https://jp.linkedin.com/in/shimazakikan",
+    "pass": 3
+   },
+   {
+    "quote": "高作 圭汰 - 近畿大学農学部 | LinkedInFusae Nara（奈良 房永） - US-licensed Native Japanese Litigator ....東 健太郎 - 近畿大学 - 事務職員 | LinkedIn辰巳 陽一 - 近畿大学医学部血液内科・近畿大学医学部附属病院安全管...大原 太司 - 近畿大学の管理部長 | LinkedIn 近畿大学農学部 · 学歴: 近畿大学 · 場所: 吹田市。10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで高作 圭汰さんのプロフィールを閲覧しましょう。 US-licensed Native Japanese Litigator · I am a native Japanese practicing in New York as a litigator. I have significant ex",
+    "url": "https://jp.linkedin.com/in/圭汰-高作-010070211",
+    "pass": 3
+   },
+   {
+    "quote": "Fusae Nara（奈良 房永） - US-licensed Native Japanese Litigator ....東 健太郎 - 近畿大学 - 事務職員 | LinkedIn辰巳 陽一 - 近畿大学医学部血液内科・近畿大学医学部附属病院安全管...大原 太司 - 近畿大学の管理部長 | LinkedIn US-licensed Native Japanese Litigator · I am a native Japanese practicing in New York as a litigator. I have significant experience in complex matters, including antitrust investigations, class ... 近畿大学 - 事務職員 · 職歴: 近畿大学 · 場所: 広域大阪エリア · Linke",
+    "url": "https://www.linkedin.com/in/fusaenara",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "近畿大学 / Kindai University | Higashiosaka-shi Osaka近畿大学理工学部（近大 理工）/大学院 総合理工学研究科 | Higashios...近畿大学情報学部 | Higashiosaka-shi Osaka - Facebook近畿大学医学部内科学腫瘍内科部門 - FacebookKindai Univ Medical・Hospital - Facebook近畿大学応援部 | Higashiosaka-shi Osaka - Facebook近畿大学医学部皮膚科学教室 | Osakasayama-shi Osaka 近畿大学 / Kindai University, Higashiosaka. 852 followers · 23 talking about this · 2,736 were here. 学校法人近畿大学の公式フェイスブックです",
+    "url": "https://www.facebook.com/kindaiuniversity/",
+    "pass": 3
+   },
+   {
+    "quote": "近畿大学理工学部（近大 理工）/大学院 総合理工学研究科 | Higashios... Sep 14, 2026 · 近畿大学理工学部（近大 理工）/大学院 総合理工学研究科, Higashiosaka. 45 followers · 1 talking about this. 近畿大学理工学部と、大学院 総合理工学研究科の公式Facebookページです。",
+    "url": "https://www.facebook.com/p/近畿大学理工学部近大-理工大学院-総合理工学研究科-100083377320609/",
+    "pass": 3
+   },
+   {
+    "quote": "近畿大学情報学部 | Higashiosaka-shi Osaka - Facebook近畿大学医学部内科学腫瘍内科部門 - FacebookKindai Univ Medical・Hospital - Facebook近畿大学応援部 | Higashiosaka-shi Osaka - Facebook近畿大学医学部皮膚科学教室 | Osakasayama-shi Osaka Jun 10, 2026 · 近畿大学情報学研究所のシンポジウム「人間とAIが共 創する未来をデザインする情報学」が9月5日に実施さ れ、大阪大学栄誉教授で大阪･関西万博テーマ事業プ ロデューサーの石黒浩先生、近畿大学情報学研究所所 長の夏野剛先生、情報学部学部長の ... Sep 14, 2026 · 今日は、原発不明がんの診療・研究にご尽力いただい ている林秀敏先生（近畿大学医学部 内科学教室腫瘍 内科部門 教",
+    "url": "https://www.facebook.com/Kindai.KDIX/",
+    "pass": 3
+   },
+   {
+    "quote": "近畿大学医学部内科学腫瘍内科部門 - FacebookKindai Univ Medical・Hospital - Facebook近畿大学応援部 | Higashiosaka-shi Osaka - Facebook近畿大学医学部皮膚科学教室 | Osakasayama-shi Osaka Sep 14, 2026 · 今日は、原発不明がんの診療・研究にご尽力いただい ている林秀敏先生（近畿大学医学部 内科学教室腫瘍 内科部門 教授）、東えりかさんと横浜市で開催され ている「第23回日本臨床腫瘍学会学術集会 （JSMO2026）」の会場で対面、セミナーなどのご協 力を ... Kindai Univ Medical・Hospital. 1,377 likes · 85 talking about this · 4 were here. 近畿大学医学部・近畿大学病院の公式アカウントです。 ",
+    "url": "https://www.facebook.com/kindaisyuyounaika/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.kindai-sc.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kindai-sc.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kindai-sc.jp/about/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kindai-sc.jp/about/founding-principle/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kindai-sc.jp/about/organizational-chart/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kindai-sc.jp/about/number-of-students/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kindai-sc.jp/about/new-students/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kindai-sc.jp/about/teachers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kindai-sc.jp/important/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.kindai-sc.jp/assets/pdf/about/organizational-chart/organizational-office04.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E8%BF%91%E7%95%BF%E5%A4%A7%E5%AD%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kindai.ac.jp/about-kindai/corporate-information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kindai.ac.jp/about-kindai/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kuring.hiro.kindai.ac.jp/topics/2021/12/005088.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shimadzu.co.jp/news/press/p-49w-etrc-ym9g5.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/08521/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nice-o.or.jp/info/info-40345/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-steel.co.jp/products/solution/metal-3d-printing/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jstage.jst.go.jp/article/jfes/94/7/94_395/_pdf/-char/ja",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E8%BF%91%E7%95%BF%E5%A4%A7%E5%AD%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kindai-a.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp109460/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kindai.ac.jp/about-kindai/corporate-information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kindai_koushiki",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/super_socket7/n/n38d8b5ade0bc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/liberjapan/n/nbe275a2e0a47",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kkdr2026/n/n7b00fe5b4983",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/kinkidaigakuPR",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/kindai_shinbun",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Kindai_Clib",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Kindai_KDIX",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/school/近畿大学/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/shimazakikan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/圭汰-高作-010070211",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/fusaenara",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/kindaiuniversity/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/近畿大学理工学部近大-理工大学院-総合理工学研究科-100083377320609/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Kindai.KDIX/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/kindaisyuyounaika/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/kindai_koushiki",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/minetaki9/all",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "近畿大学",
+   "results": [
+    "https://ja.wikipedia.org/wiki/近畿大学",
+    "https://en.wikipedia.org/wiki/Kindai_University",
+    "https://www.kindai-sc.jp/",
+    "https://kindai.jp/",
+    "https://www.kindai.ac.jp/about-kindai/",
+    "https://www.kindai.ac.jp/",
+    "https://kindai.jp/exam/admissions/",
+    "https://grokipedia.com/page/kinki_university_seito_junior_college"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "近畿大学 会社概要 資本金 設立",
+   "results": [
+    "https://ja.wikipedia.org/wiki/近畿大学",
+    "https://www.kindai.ac.jp/about-kindai/corporate-information/",
+    "https://www.kindai.ac.jp/about-kindai/overview/",
+    "https://job.mynavi.jp/28/pc/search/corp109460/outline.html",
+    "https://www.atengineer.com/pr/kindai/company",
+    "https://compalyze.co.jp/company/2122005000036",
+    "https://job.mynavi.jp/27/pc/search/corp109460/outline.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "近畿大学 金属3Dプリンタ 導入",
+   "results": [
+    "https://kuring.hiro.kindai.ac.jp/topics/2021/12/005088.html",
+    "https://www.shimadzu.co.jp/news/press/p-49w-etrc-ym9g5.html",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/00001/08521/",
+    "https://idarts.co.jp/3dp/japanese-metal-3d-printer-gem200dg/",
+    "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00011/00154/",
+    "https://monoist.itmedia.co.jp/mn/articles/2201/06/news017.html",
+    "https://monoist.itmedia.co.jp/mn/articles/2307/11/news032_2.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "近畿大学 金属積層造形 設備",
+   "results": [
+    "https://www.nice-o.or.jp/info/info-40345/",
+    "https://www.jfe-steel.co.jp/products/solution/metal-3d-printing/index.html",
+    "https://www.jstage.jst.go.jp/article/jfes/94/7/94_395/_pdf/-char/ja",
+    "https://www.jstage.jst.go.jp/article/jjspm/71/12/71_23-00084/_pdf",
+    "https://kuring.hiro.kindai.ac.jp/topics/2014/04/000024.html",
+    "https://kindai.repo.nii.ac.jp/records/17717",
+    "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data14/3D.pdf"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "近畿大学 株主 出資 親会社",
+   "results": [
+    "https://ja.wikipedia.org/wiki/近畿大学",
+    "https://www.kindai-sc.jp/disclosure/investment/",
+    "https://kindai-a.co.jp/",
+    "https://www.kindai.ac.jp/about-kindai/corporate-information/",
+    "https://www.kindai-sc.jp/disclosure/financial-report/",
+    "https://www.kindai.ac.jp/kincuba/",
+    "https://kindai-a.co.jp/company/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "近畿大学 売上高 従業員数",
+   "results": [
+    "https://job.mynavi.jp/27/pc/search/corp109460/outline.html",
+    "https://www.kindai-sc.jp/disclosure/financial-report/",
+    "https://www.kindai.ac.jp/about-kindai/corporate-information/",
+    "https://www.kindai-sc.jp/about/teachers/",
+    "https://job.mynavi.jp/28/pc/search/corp109460/outline.html",
+    "https://job.career-tasu.jp/corp/00211304/detail-uc/",
+    "https://jobcatalog.yahoo.co.jp/company/1000008168/information/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 近畿大学",
+   "results": [
+    "https://note.com/kindai_koushiki",
+    "https://note.com/super_socket7/n/n38d8b5ade0bc",
+    "https://note.com/liberjapan/n/nbe275a2e0a47",
+    "https://note.com/kkdr2026/n/n7b00fe5b4983",
+    "https://note.com/nankanshidai/n/n4ba7239e36b7",
+    "https://note.com/kindai_zemi",
+    "https://note.com/matayoshiyota/n/n644af549743e"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 近畿大学",
+   "results": [
+    "https://x.com/kinkidaigakuPR",
+    "https://x.com/kindai_shinbun",
+    "https://x.com/Kindai_Clib",
+    "https://x.com/Kindai_KDIX",
+    "https://x.com/kindaiformula",
+    "https://x.com/KindaiAgri",
+    "https://x.com/kinrik_TaF"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 近畿大学",
+   "results": [
+    "https://www.linkedin.com/school/近畿大学/",
+    "https://jp.linkedin.com/in/shimazakikan",
+    "https://jp.linkedin.com/in/圭汰-高作-010070211",
+    "https://www.linkedin.com/in/fusaenara",
+    "https://jp.linkedin.com/in/健太郎-東-1b9820382",
+    "https://jp.linkedin.com/in/陽一-辰巳-15180562",
+    "https://jp.linkedin.com/in/太司-大原-a41a763b2"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 近畿大学",
+   "results": [
+    "https://www.facebook.com/kindaiuniversity/",
+    "https://www.facebook.com/p/近畿大学理工学部近大-理工大学院-総合理工学研究科-100083377320609/",
+    "https://www.facebook.com/Kindai.KDIX/",
+    "https://www.facebook.com/kindaisyuyounaika/",
+    "https://www.facebook.com/kindai.medicine/",
+    "https://www.facebook.com/p/近畿大学応援部-100054466599074/",
+    "https://www.facebook.com/kindaiderma/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "近畿大学 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.com/kindai_koushiki",
+    "https://note.com/minetaki9/all",
+    "https://the-shashi.com/university/kindai/",
+    "https://www.minkou.jp/university/school/senior/20553/se=5/",
+    "https://www.kindai.ac.jp/kincuba/entrepreneur/",
+    "https://kstartup.info/archives/2716"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "近畿大学 X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式9頁／PDF・画像1件／外部31頁・検索12回）",
+  "資本金": "記載なし（3回確認済み：公式9頁／PDF・画像1件／外部31頁・検索12回）",
+  "創業年度": "記載なし（3回確認済み：公式9頁／PDF・画像1件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式9頁／PDF・画像1件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式9頁／PDF・画像1件／外部31頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式9頁／PDF・画像1件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式9頁／PDF・画像1件／外部31頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式9頁／PDF・画像1件／外部31頁・検索12回）"
+ }
+}

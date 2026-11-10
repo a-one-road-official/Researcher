@@ -1,0 +1,903 @@
+{
+ "name": "ペンシルベニア州立大学",
+ "aliases": [],
+ "context": "PBF=unknown 装置= 出典=https://www.spee3d.com/ja/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%90%E3%83%8B%E3%82%A2%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6%E3%81%8C%E4%B8%96%E7%95%8C%E3%82%92%E3%83%AA%E3%83%BC%E3%83%89%E3%81%99%E3%82%8Bspee3d%E9%87%91/",
+ "researched_at": "2026-11-10T19:29:13.688617+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {},
+ "evidence": {
+  "使っている金属粉（材質）": [
+   {
+    "quote": "レスリングフリースタイルフェザー級銅メダル獲得",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%99%E3%83%8B%E3%82%A2%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "誌の大学ランキングでは、同校は全米の公立大学の中で第14位にランクされており、さらに同誌の2016年版専攻別ランキングでは工学部全体で全米18位、航空宇宙工学で全米16位、物質工学で全米10位、生産技術(経営工学)では全米9位と、アメリカ屈指の名門工科大学の1つとされる",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%99%E3%83%8B%E3%82%A2%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー技術研究所 (NETL) に長年勤務し、様々なシニアポストに就任した",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%99%E3%83%8B%E3%82%A2%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "についで、国立予防衛生研究所(NIH)から第2位の額の研究費が与えられており、国家最大級の研究計画を担っている",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%99%E3%83%8B%E3%82%A2%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "US NEWSの大学院ランキングでは、MBAは常に世界第1位から3位、医学/医療系大学院は常に全米トップ2位から5位にランキングされている",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%99%E3%83%8B%E3%82%A2%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "シリコンカーバイド（SiC）は、電気自動車（EV）、EV充電、エネルギーインフラの効率向上を可能にし、世界経済の脱炭素化に貢献します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000258.000035474.html",
+    "pass": 3
+   },
+   {
+    "quote": "ペンシルベニア州立大学とオンセミは、SiC3でのSiC研究に加え、半導体産業における技術職の需要増加に対する関心を高めるつもりです",
+    "url": "https://prtimes.jp/main/html/rd/p/000000258.000035474.html",
+    "pass": 3
+   },
+   {
+    "quote": "これは米国の半導体製造業のシェア拡大を目指す両者の取り組みの一環です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000258.000035474.html",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは、半導体やその他の技術に使用される薄膜、シリコンカーバイド、その他の材料の研究をサポートする世界クラスのナノファブや特性評価施設を所有しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000258.000035474.html",
+    "pass": 3
+   },
+   {
+    "quote": "「今後10年間で、この連携によりペンシルベニア州立大学は、半導体結晶科学と人材育成の分野で、全米屈指のリソースになり得るでしょう",
+    "url": "https://prtimes.jp/main/html/rd/p/000000258.000035474.html",
+    "pass": 3
+   },
+   {
+    "quote": "「SiCとワイドバンドギャップ技術の専門コースを提供するペンシルベニア州立大学のカリキュラムの拡張は、オンセミの戦略的ワークフォース開発目標を満たす上で重要な役割を果たし、また最近成立したCHIPS法（CHIPS and Science Act）で示された米国の半導体労働力目標の達成にも貢献するでしょう」",
+    "url": "https://prtimes.jp/main/html/rd/p/000000258.000035474.html",
+    "pass": 3
+   },
+   {
+    "quote": "オンセミは、自動車と産業用エンドマーケットに注力し、自動車の電動化と安全性、持続可能なエネルギーグリッド、産業オートメーション、5Gおよびクラウドインフラなどのメガトレンドにおける変化を加速させています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000258.000035474.html",
+    "pass": 3
+   },
+   {
+    "quote": "これは前年度比で8％（約1億1,000万ドル）の増加であり、人工知能（AI）、国防、エネルギー・レジリエンス、公衆衛生、そして農業といった重要な領域における戦略的な投資の結果である 1",
+    "url": "https://note.com/tagtag/n/n3baef4c5e4ca",
+    "pass": 3
+   },
+   {
+    "quote": "特に「光（Light）」を基盤とした技術革新、すなわち光コンピューティング、ナノフォトニクス、そして生物模倣型のスマート材料における進展は、現代社会が直面するエネルギー危機や計算能力の限界を打破する鍵として注目されている",
+    "url": "https://note.com/tagtag/n/n3baef4c5e4ca",
+    "pass": 3
+   },
+   {
+    "quote": "光コンピューティングによるAIエネルギー問題の抜本的解決",
+    "url": "https://note.com/tagtag/n/n3baef4c5e4ca",
+    "pass": 3
+   },
+   {
+    "quote": "むしろ、AIモデルのコストとエネルギー消費の大部分を占める「重い数学演算（行列・ベクトル乗算等）」を特化した光学モジュールが担当し、制御やメモリ管理を従来の電子回路が行うハイブリッドな加速器としての役割が期待されている 2",
+    "url": "https://note.com/tagtag/n/n3baef4c5e4ca",
+    "pass": 3
+   },
+   {
+    "quote": "この技術が産業化されれば、AIのハードウェアを小型化・省電力化し、カメラ、センサー、ドローン、ロボット、医療機器などの「エッジ」に知能を直接組み込むことが可能になる 2",
+    "url": "https://note.com/tagtag/n/n3baef4c5e4ca",
+    "pass": 3
+   },
+   {
+    "quote": "Ni氏は、業界標準のプロトタイプが2年から5年以内に登場すると予測しており、データセンターのエネルギー不足というボトルネックを緩和する持続可能なAIサービスへの道筋を示している 2",
+    "url": "https://note.com/tagtag/n/n3baef4c5e4ca",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、モーターや電子機器を使わずに自律的に動き、環境に適応するソフトロボットや、体内で剛性や形状を変える医療用インプラント、さらには物理的な物体自体に暗号データを保存するセキュリティ技術への道が開かれた 9",
+    "url": "https://note.com/tagtag/n/n3baef4c5e4ca",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、デカルト座標系の画像を「牛の目（Bullseye）」のような分布に変換することで、AIが異なるカメラからの同じ車両を認識したり、衛星から航空機を追跡したりする際の計算負荷とデータ帯域幅を最小限に抑えることができる 14",
+    "url": "https://note.com/tagtag/n/n3baef4c5e4ca",
+    "pass": 3
+   },
+   {
+    "quote": "これは、エネルギーを消費しない受動的な光学素子によって、AIの演算を大幅に簡略化する革新的な試みである",
+    "url": "https://note.com/tagtag/n/n3baef4c5e4ca",
+    "pass": 3
+   },
+   {
+    "quote": "この理論によれば、材料の内部構造を小さな「原子ユニット」に分解することで、分極の変化に必要なエネルギー障壁が低くなり、光の速さに匹敵する極めて高速な応答が可能になる 15",
+    "url": "https://note.com/tagtag/n/n3baef4c5e4ca",
+    "pass": 3
+   },
+   {
+    "quote": "ガラスは化学的に安定でコスト効率が高く、過酷な環境にも耐えられるため、将来のフィールドシステムや宇宙ベースの量子通信ミッションへの適用が期待されている 16",
+    "url": "https://note.com/tagtag/n/n3baef4c5e4ca",
+    "pass": 3
+   },
+   {
+    "quote": "半導体ファウンドリのような複雑なプロセスを介さず、レーザーによる直接描画で回路を構築できる点は、プロトタイピングの迅速化とコスト削減において大きな利点となる",
+    "url": "https://note.com/tagtag/n/n3baef4c5e4ca",
+    "pass": 3
+   },
+   {
+    "quote": "防衛、エネルギー、健康におけるAI活用",
+    "url": "https://note.com/tagtag/n/n3baef4c5e4ca",
+    "pass": 3
+   },
+   {
+    "quote": ": 米国エネルギー省（DOE）からの4,540万ドルの資金提供により、電力網の信頼性と手頃な価格を向上させるためのグリッド・レジリエンス技術を推進している 1",
+    "url": "https://note.com/tagtag/n/n3baef4c5e4ca",
+    "pass": 3
+   },
+   {
+    "quote": "これらは、ウェアラブルな健康モニターや埋め込み型医療センサーのための安全で環境に優しいバッテリーとして、従来の電池のリスクを軽減する可能性を秘めている 17",
+    "url": "https://note.com/tagtag/n/n3baef4c5e4ca",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ペンシルベニア州立大学 - Wikipedia — ペンシルバニア州立大学で英文学を専攻し、1962年に卒業した。 同年ジョーと結婚し、知的発達障害のある人の為の同州のスぺッシャルオリンピックの開催、the Paterno Library と the Pasquerilla Spiritual Center の建設プロジェクトなどの慈善活動に注力し、2004年 ...",
+    "url": "https://ja.wikipedia.org/wiki/ペンシルベニア州立大学",
+    "pass": 3
+   },
+   {
+    "quote": "ペンシルベニア州立大学 - 百度百科 — ペンシルベニア州立大学（The Pennsylvania State University、略称：Penn State、略語：PSU）は、1855年に創立され、アメリカ合衆国ペンシルベニア州のステートカレッジに位置し、「 パブリック・アイビーズ 」と称される。 1",
+    "url": "https://baike.baidu.com/ja/item/ペンシルベニア州立大学/1129712",
+    "pass": 3
+   },
+   {
+    "quote": "DARPAがペンシルベニア州立大学の3Dプリンティングによる金属部品の耐... — Sep 8, 2025 · 今日まで、印刷された金属部品は機械ごとに試験されなければならず、その結果コストが高くなり、大規模な導入が遅れている。 . そこで、ペンシルベニア州立大学が進めている「One Part And Life」（OPAL）サブプロジェクトの出番である。",
+    "url": "https://3druck.com/ja/産業/darpa、3d印刷による金属部品の耐用年数に関するペン/",
+    "pass": 3
+   },
+   {
+    "quote": "ペンシルバニア州立大学が3Dプリント金属部品の「超仕上げラボ」を計... — Jun 11, 2018 · このプロジェクトには3つの主眼がある。 第一に、ペンシルベニア州立大学は、完成した3Dプリント・オブジェクトが複雑なアセンブリに取り付けられたときにどのように反応するかについて、より多くの知識を得たいと考えている。",
+    "url": "https://3druck.com/ja/リサーチ/ペンシルバニア州立工場-3dプリント金属部品用超/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタで異なる金属を一体成形 | 3DP id.arts — Apr 9, 2025 · ペンシルベニア州立大学が 3D Systems と共同で運営する CIMP-3D （革新的材料プロセスセンター）」の研究チームは、3Dプリンターによって異なる2種の金属（ステンレス鋼とブロンズ）を一体構造で造形する新技術を発表した。",
+    "url": "https://idarts.co.jp/3dp/two-types-metal-molded-together-using-3d-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "ペンシルベニア州立大学 - Wikipedia — アメリカの州立大学屈指の名門校として「パブリック・アイビー」の一つに数えられるが、アメリカの私立大学屈指の名門校として「アイビー・リーグ」の一つに数えられている ペンシルベニア大学 （University of Pennsylvania）とは異なる。",
+    "url": "https://ja.wikipedia.org/wiki/ペンシルベニア州立大学",
+    "pass": 3
+   },
+   {
+    "quote": "ペンシルバニア州立大学が3Dプリント金属部品の「超仕上げラボ」を計... — Jun 11, 2018 · この研究の中で、ペンシルベニア州立大学のチームは、複雑な工程を簡略化し、滑らかにすることができるかどうか、また、どのようにすることができるかを見つけたいと考えている。",
+    "url": "https://3druck.com/ja/リサーチ/ペンシルバニア州立工場-3dプリント金属部品用超/",
+    "pass": 3
+   },
+   {
+    "quote": "ペンシルベニア大学 - Wikipedia — 州内には似た名称の大学として ペンシルベニア州立大学 が存在するが、この大学も米国の州立大学有数の難関大学である。 モットー は 「良識のない法は無益である:（Leges Sine Moribus Vanae）」。",
+    "url": "https://ja.wikipedia.org/wiki/ペンシルベニア大学",
+    "pass": 3
+   },
+   {
+    "quote": "ペンシルベニア州立大学とオンセミ、米国でのシリコンカーバイド研究... — May 18, 2023 · ペンシルベニア州立大学は、複数のキャンパスを有するランドグラントの公立研究大学で、世界中から集まった学生を教育し、教育、研究 ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000258.000035474.html",
+    "pass": 3
+   },
+   {
+    "quote": "ペンシルベニア州立大学留学ガイド｜偏差値やランキングは？学部・学... — Oct 17, 2026 · NBA選手を複数輩出している大学で、 アメフトの強豪校 としても知られています。 ここではペンシルベニア州立大学に興味がある人に向けて、大学の特徴や偏差値、世界ランキング、合格率、学費、入学方法などを紹介します。 ぜひ参考にしてください！",
+    "url": "https://www.ryugakupress.com/penn-state/",
+    "pass": 3
+   },
+   {
+    "quote": "ペンシルベニア州立大学留学ガイド｜偏差値やランキングは？学部・学...宾夕法尼亚州立大学 - 维基百科，自由的百科全书宾夕法尼亚州立大学 - 维基百科，自由的百科全书ペンシルベニア州立大学 - 百度百科ペンシルベニア州立大学 - jmedia.wikiペンシルベニア州立大学（Penn State）特集 — Nittany Lions、Beaver ... — ペンシルベニア州立大学には、ペンシルベニア州内に合計24のキャンパスがあります。メインキャンパスは州の中心部、ユニバーシティ・パークです。 キャンパス近くにはコーヒーショップやレストラン、ショップ、バーなどが並び、ほとんどが学生で占められているにぎやかで小さな町です。 「アメリカで最も住みやすい街」として選出されたフィラデルフィア郊外から、北西に車で約3時間の距離です。 山が近いため、冬はスキーやスノーボード、夏はハイキングも楽しめま",
+    "url": "https://www.ryugakupress.com/penn-state/",
+    "pass": 3
+   }
+  ],
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "ペンシルベニア州立大学は、LightSPEE3Dコールドスプレー金属3Dプリンターへの最新の投資により、アディティブ・マニュファクチャリング（AM）能力の向上を図る",
+    "url": "https://www.spee3d.com/ja/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%90%E3%83%8B%E3%82%A2%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6%E3%81%8C%E4%B8%96%E7%95%8C%E3%82%92%E3%83%AA%E3%83%BC%E3%83%89%E3%81%99%E3%82%8Bspee3d%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "「SPEE3Dとの協力は、金属積層造形とコールドスプレーにおける当社の現在の能力に加えられる素晴らしいものです",
+    "url": "https://www.spee3d.com/ja/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%90%E3%83%8B%E3%82%A2%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6%E3%81%8C%E4%B8%96%E7%95%8C%E3%82%92%E3%83%AA%E3%83%BC%E3%83%89%E3%81%99%E3%82%8Bspee3d%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "SPEE3Dのハイテク金属3Dプリンターは、従来の金属3Dプリンティング手法の100倍から1000倍の超音速で動作します",
+    "url": "https://www.spee3d.com/ja/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%90%E3%83%8B%E3%82%A2%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6%E3%81%8C%E4%B8%96%E7%95%8C%E3%82%92%E3%83%AA%E3%83%BC%E3%83%89%E3%81%99%E3%82%8Bspee3d%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの金属3Dプリンターはコールドスプレー技術を活用し、工業用品質の金属部品を数日または数週間ではなく、わずか数分で製造することができます",
+    "url": "https://www.spee3d.com/ja/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%90%E3%83%8B%E3%82%A2%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6%E3%81%8C%E4%B8%96%E7%95%8C%E3%82%92%E3%83%AA%E3%83%BC%E3%83%89%E3%81%99%E3%82%8Bspee3d%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "SPEE3Dの金属3Dプリンターは、世界最速かつ最も経済的な積層造形が可能です",
+    "url": "https://www.spee3d.com/ja/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%90%E3%83%8B%E3%82%A2%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6%E3%81%8C%E4%B8%96%E7%95%8C%E3%82%92%E3%83%AA%E3%83%BC%E3%83%89%E3%81%99%E3%82%8Bspee3d%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "「NAVSEAは、コールドスプレーと金属積層造形のギャップを埋めるSPEE3D技術の可能性に興奮しています",
+    "url": "https://www.spee3d.com/ja/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%90%E3%83%8B%E3%82%A2%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6%E3%81%8C%E4%B8%96%E7%95%8C%E3%82%92%E3%83%AA%E3%83%BC%E3%83%89%E3%81%99%E3%82%8Bspee3d%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "「当社のLightSPEE3D金属3Dプリンターがペンシルバニア州立大学の応用研究所に設置されることは、SPEE3Dにとって非常にエキサイティングなことです",
+    "url": "https://www.spee3d.com/ja/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%90%E3%83%8B%E3%82%A2%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6%E3%81%8C%E4%B8%96%E7%95%8C%E3%82%92%E3%83%AA%E3%83%BC%E3%83%89%E3%81%99%E3%82%8Bspee3d%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "SPEE3DのLightSPEE3D金属3Dプリンタがペンシルバニア州立大学の新しいツールになる",
+    "url": "https://www.spee3d.com/ja/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%90%E3%83%8B%E3%82%A2%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6%E3%81%8C%E4%B8%96%E7%95%8C%E3%82%92%E3%83%AA%E3%83%BC%E3%83%89%E3%81%99%E3%82%8Bspee3d%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の金属積層造形アプリケーションを実現するお手伝いをする準備が整っています",
+    "url": "https://www.spee3d.com/ja/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%90%E3%83%8B%E3%82%A2%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6%E3%81%8C%E4%B8%96%E7%95%8C%E3%82%92%E3%83%AA%E3%83%BC%E3%83%89%E3%81%99%E3%82%8Bspee3d%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "また保有資産が3000万ドル（約46億円）を超す富裕層となった卒業生数も、2022年の時点で7500人超と米国内の大学で第3位である",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%99%E3%83%8B%E3%82%A2%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月11日に『Science Advances』誌に発表されたこの研究は、「データ反響（Data Reverberation）」という独自の概念を導入している 2",
+    "url": "https://note.com/tagtag/n/n3baef4c5e4ca",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、ペンシルベニア州立大学の研究グループは、大規模言語モデル（LLM）を設計プロセスに統合することで、この設計時間をミリ秒単位に短縮する手法を導入した 12",
+    "url": "https://note.com/tagtag/n/n3baef4c5e4ca",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "オンセミは今後10年間にわたり、SiC3に対して年間80万ドルを出資します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000258.000035474.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "NCAA2025チーム戦力分析（ペンシルベニア州立大学） Aug 3, 2025 · 今回は、NCAA2025チーム戦力分析・注目選手の第2回目としてペンシルベニア州立大学をご紹介します。 ・所属カンファレンス：BIG10 ・2024成績：13勝3敗 ランキング：5位 トーナメント：ベスト4 ・監督：ジェームズ・フランクリン",
+    "url": "https://note.com/kind_quokka9252/n/n20c504cd4630",
+    "pass": 3
+   },
+   {
+    "quote": "ペンシルベニア州立大学における光技術と生物模倣材料の革新：2024-20... Feb 13, 2026 · 総括と展望 ペンシルベニア州立大学の研究チームが2024年から2026年にかけて発表した一連の成果は、光、材料、知能の三者がかつてないほど密接に融合していることを示している。",
+    "url": "https://note.com/tagtag/n/n3baef4c5e4ca",
+    "pass": 3
+   },
+   {
+    "quote": "ペンシルベニア州立大学（米国を代表する州立大学）の研究で判明：4つ... Mar 14, 2024 · あなたはどれ？ ペンシルベニア州立大学（The Pennsylvania State University、アメリカ合衆国の名門大学）のSoomi Lee（スーミ・リー）准教授が率いるチームによる最新の研究では、私たちの睡眠習慣が将来の健康にどのように影響を与えるかが明らかになりました。",
+    "url": "https://note.com/s_monster/n/n2bdb5018b8d8",
+    "pass": 3
+   },
+   {
+    "quote": "【緊急事態】2026年ドラフト最大の目玉が消えた理由と佐藤幻瑛投手のM... Apr 13, 2026 · 本来、2026年NPBドラフトの「超目玉」と目されていましたが、2025年12月、MLB挑戦を見据えてアメリカのペンシルベニア州立大学へ編入することが発表され、日米の球界に大きな衝撃を与えました。",
+    "url": "https://note.com/moral_sloth6678/n/n213deddfd463",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "NCAA2025チーム戦力分析（ペンシルベニア州立大学）｜hiro",
+    "url": "https://note.com/kind_quokka9252/n/n20c504cd4630",
+    "pass": 3
+   },
+   {
+    "quote": "NCAA2025チーム戦力分析（ペンシルベニア州立大学）",
+    "url": "https://note.com/kind_quokka9252/n/n20c504cd4630",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、NCAA2025チーム戦力分析・注目選手の第２回目としてペンシルベニア州立大学をご紹介します。",
+    "url": "https://note.com/kind_quokka9252/n/n20c504cd4630",
+    "pass": 3
+   },
+   {
+    "quote": "・２０２４成績：１３勝３敗 ランキング：５位 トーナメント：ベスト４",
+    "url": "https://note.com/kind_quokka9252/n/n20c504cd4630",
+    "pass": 3
+   },
+   {
+    "quote": "今年、NFLにプロ入りした主な選手はEDGE アドゥル・カーター、TEタイラーウォーレンです。",
+    "url": "https://note.com/kind_quokka9252/n/n20c504cd4630",
+    "pass": 3
+   },
+   {
+    "quote": "LBアマーレ・キャンベル#24（ノース・カロライナ、2024シーズン成績 76タックル、6.5サック）になります。",
+    "url": "https://note.com/kind_quokka9252/n/n20c504cd4630",
+    "pass": 3
+   },
+   {
+    "quote": "RBニコラス・シングルトン＃10（2024シーズン、ラッシングヤード1,099ヤード、12タッチダウン）、QBドリュー・アラー＃15（2024シーズン、パスヤード3,327ヤード、24タッチダウン）",
+    "url": "https://note.com/kind_quokka9252/n/n20c504cd4630",
+    "pass": 3
+   },
+   {
+    "quote": "ランニングバックのケイトロン・アレンとニコラス・シングルトンの２人による2024シーズンのランは2,200ヤードで、今シーズンもランがオフェンスの中心になると思われます。",
+    "url": "https://note.com/kind_quokka9252/n/n20c504cd4630",
+    "pass": 3
+   },
+   {
+    "quote": "ペンシルベニア州立大学における光技術と生物模倣材料の革新：2024-2026年度研究報告書｜tagtag",
+    "url": "https://note.com/tagtag/n/n3baef4c5e4ca",
+    "pass": 3
+   },
+   {
+    "quote": "ペンシルベニア州立大学における光技術と生物模倣材料の革新：2024-2026年度研究報告書",
+    "url": "https://note.com/tagtag/n/n3baef4c5e4ca",
+    "pass": 3
+   },
+   {
+    "quote": "Gemini Pro 3.0 Deep ResearchにまとめてもらってNoteBookLMに映像化してもらいました。",
+    "url": "https://note.com/tagtag/n/n3baef4c5e4ca",
+    "pass": 3
+   },
+   {
+    "quote": "ペンシルベニア州立大学（Penn State）の研究エンタープライズは、2024年から2025会計年度にかけて、その歴史の中で極めて重要な転換点を迎えている。同大学の総研究費は、連邦政府、民間企業、および学術機関からの投資を背景に、過去最高の14億4,000万ドルに達した 1。これは前年度比で8％（約1億1,000万ドル）の増加であり、人工知能（AI）、国防、エネルギー・レジリエンス、公衆衛生、そして農業といった重要な領域における戦略的な投資の結果である 1。特に「光（Light）」を基盤とした技術革新、すなわち光コンピューティング、ナノフォトニクス、そして生物模倣型のスマート材料における進展は、現代社会が直面するエネルギー危機や計算能力の限界を打破する鍵として注目されている。",
+    "url": "https://note.com/tagtag/n/n3baef4c5e4ca",
+    "pass": 3
+   },
+   {
+    "quote": "光コンピューティングによるAIエネルギー問題の抜本的解決",
+    "url": "https://note.com/tagtag/n/n3baef4c5e4ca",
+    "pass": 3
+   },
+   {
+    "quote": "人工知能の急速な普及に伴い、データセンターの電力消費量は爆発的に増加しており、一部の専門家は2028年までに世界の総電力消費の13％以上をAIが占めると予測している 2。ペンシルベニア州立大学の電気工学・コンピュータサイエンス学部のXingjie Ni准教授が率いる研究チームは、この課題に対する解決策として、従来の電子回路ではなく「光」で駆動するコンピュータプロトタイプを開発した 2。",
+    "url": "https://note.com/tagtag/n/n3baef4c5e4ca",
+    "pass": 3
+   },
+   {
+    "quote": "データ反響型光学極限学習器（Optical Extreme Learner）のメカニズム",
+    "url": "https://note.com/tagtag/n/n3baef4c5e4ca",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月11日に『Science Advances』誌に発表されたこの研究は、「データ反響（Data Reverberation）」という独自の概念を導入している 2。このシステムは、コヒーレントなレーザー光ではなく、低コストなLEDやLCDディスプレイで使用される非コヒーレント光を利用する点が特徴である 3。",
+    "url": "https://note.com/tagtag/n/n3baef4c5e4ca",
+    "pass": 3
+   },
+   {
+    "quote": "ペンシルベニア州立大学（米国を代表する州立大学）の研究で判明：４つの睡眠パターンの長期的な健康状態への影響が特定！予測可能に！｜気づきの種｜心理学・研究・AI活用",
+    "url": "https://note.com/s_monster/n/n2bdb5018b8d8",
+    "pass": 3
+   },
+   {
+    "quote": "ペンシルベニア州立大学（米国を代表する州立大学）の研究で判明：４つの睡眠パターンの長期的な健康状態への影響が特定！予測可能に！",
+    "url": "https://note.com/s_monster/n/n2bdb5018b8d8",
+    "pass": 3
+   },
+   {
+    "quote": "記事で紹介している「１」の睡眠パターンを維持しないと、将来的に健康を害する可能性が非常に高い！「２」「３」「４」の睡眠パターンは、長期にわたる慢性的な悪い健康状態と強く関連していると研究者は言います。１０年先の健康を害さないよう「１」の睡眠パターンを目指しましょう！",
+    "url": "https://note.com/s_monster/n/n2bdb5018b8d8",
+    "pass": 3
+   },
+   {
+    "quote": "ペンシルベニア州立大学（The Pennsylvania State University、アメリカ合衆国の名門大学）のSoomi Lee（スーミ・リー）准教授が率いるチームによる最新の研究では、私たちの睡眠習慣が将来の健康にどのように影響を与えるかが明らかになりました。この研究は、心身医学の分野で公開され、人々の睡眠パターンを４つに分類し、それぞれが長期的な健康にどう影響するかを探求しました。",
+    "url": "https://note.com/s_monster/n/n2bdb5018b8d8",
+    "pass": 3
+   },
+   {
+    "quote": "【緊急事態】2026年ドラフト最大の目玉が消えた理由と佐藤幻瑛投手のMLB直接挑戦が示す「新時代」｜ガミ",
+    "url": "https://note.com/moral_sloth6678/n/n213deddfd463",
+    "pass": 3
+   },
+   {
+    "quote": "【緊急事態】2026年ドラフト最大の目玉が消えた理由と佐藤幻瑛投手のMLB直接挑戦が示す「新時代」",
+    "url": "https://note.com/moral_sloth6678/n/n213deddfd463",
+    "pass": 3
+   },
+   {
+    "quote": "仙台大学の佐藤幻瑛（さとう・げんえい）投手は、最速159キロ、平均でも150キロ台中盤を誇るアマチュア屈指の剛腕。140キロを超えるカットボールやスプリットも決め球となります。",
+    "url": "https://note.com/moral_sloth6678/n/n213deddfd463",
+    "pass": 3
+   },
+   {
+    "quote": "本来、2026年NPBドラフトの「超目玉」と目されていましたが、2025年12月、MLB挑戦を見据えてアメリカのペンシルベニア州立大学へ編入することが発表され、日米の球界に大きな衝撃を与えました。",
+    "url": "https://note.com/moral_sloth6678/n/n213deddfd463",
+    "pass": 3
+   },
+   {
+    "quote": "アマチュア界トップクラスの「爆速ストレート」",
+    "url": "https://note.com/moral_sloth6678/n/n213deddfd463",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月の日米大学野球選手権で、侍ジャパン大学日本代表として登板し、自己最速の159キロを計測しました。",
+    "url": "https://note.com/moral_sloth6678/n/n213deddfd463",
+    "pass": 3
+   },
+   {
+    "quote": "常に150キロ台中盤をマークし、アメリカの強打者を力でねじ伏せる圧倒的な球威を持っています。",
+    "url": "https://note.com/moral_sloth6678/n/n213deddfd463",
+    "pass": 3
+   },
+   {
+    "quote": "高校時代（青森・柏木農）の最速146キロから、大学の3年間で13キロ以上もスピードアップさせています。",
+    "url": "https://note.com/moral_sloth6678/n/n213deddfd463",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "cwb.jp on X: \"ペンシルベニア州立大学の学生寮で起きたコカイン摘発... cwb.jp @cwb_jp ペンシルベニア州立大学の学生寮で起きたコカイン摘発事件が、大学キャンパス内外に広がる覚醒剤の蔓延の実態を浮き彫りにした センター郡の薬物対策担当官によると、若者たちはメタンフェタミンや処方薬、合成薬物に手を出しているという",
+    "url": "https://x.com/cwb_jp/status/2099096205804585121",
+    "pass": 3
+   },
+   {
+    "quote": "\"#ペンシルベニア州立大学\" - Results on X | Live Posts & Updates Results for \"#ペンシルベニア州立大学\" on X (Twitter). Find the latest posts, discussions, and updates about #ペンシルベニア州立大学. 19 results found.",
+    "url": "https://x.com/hashtag/ペンシルベニア州立大学",
+    "pass": 3
+   },
+   {
+    "quote": "ペンシルベニア州立大学の研究でキノコをよく食べるとうつ病リスクが... ペンシルベニア州立大学（PSU）の研究によると、キノコをよく食べる人はそうでない人に比べてうつ病発症率が半減していることが明らかになった。 この研究結果がX上で共有された。 ...",
+    "url": "https://x.com/i/trending/2071450419373711733",
+    "pass": 3
+   },
+   {
+    "quote": "きんぎょ on X: \"米国 ペンシルベニア州立大学の男子学生社交クラブ（... 🌺きんぎょ🌺 on X: \"米国 ペンシルベニア州立大学の男子学生社交クラブ（フラタニティ）のメンバー13人が、大規模なコカイン密売組織を運営していたとして起訴されました。",
+    "url": "https://x.com/KingyoJigoku/status/2089841554139808018",
+    "pass": 3
+   },
+   {
+    "quote": "ちーな on X: \"ペンシルベニア州立大学？？？？？\" / X ちーな on X: \"ペンシルベニア州立大学？？？？？\" / X ペンシルベニア州立大学？？？？？ 22 Oct 2026 10:14:32",
+    "url": "https://x.com/ichi7koba/status/2113212400497516845",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "芹澤 粧乃介 - 経済学専攻、ビジネスファイナンスの証明書取得中 | イ...大原 大和 - --こんにちは、私は大原大和と申します。現在、パデュー...清宮 大翔 - ソフトウェア工学＠ペンシルベニア州立大学 | セールスイ...柳井 栄司 - 米国ペンシルバニア州立大学経営大学院卒 | LinkedIn倉田 慎介 - Sumitomo Mitsui Banking Corporation – SMBC Group ...Chun Chen - FrieslandCampina | 领英 - 领英 (中国)Bosheng Chen - PM at JPT | 领英 - 领英 (中国) Feel free to reach out to me at sms10361@psu.edu or via LinkedIn. · 職歴: HITOSUKE · 学歴: ペンシルベニア州立大学 · 場所",
+    "url": "https://www.linkedin.com/in/shonosuke-serizawa-a86412325/ja",
+    "pass": 3
+   },
+   {
+    "quote": "清宮 大翔 - ソフトウェア工学＠ペンシルベニア州立大学 | セールスイ... ソフトウェア工学＠ペンシルベニア州立大学 | セールスインターン＠ValorizeAI | 志望：クラウドエンジニア · 現在はペンシルベニア州立大学（PSU）ワールドキャンパスにて、東京からオンラインでソフトウェア工学を専攻しています。",
+    "url": "https://jp.linkedin.com/in/hiroto-kiyomiya/ja",
+    "pass": 3
+   },
+   {
+    "quote": "大原 大和 - --こんにちは、私は大原大和と申します。現在、パデュー... --こんにちは、私は大原大和と申します。現在、パデュー大学の修士課程で航空・宇宙工学を専攻しています。2026年5月にペンシルベニア州立大学 ...",
+    "url": "https://www.linkedin.com/in/yamato-ohara-248644308/ja",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Penn State | University Park PA - Facebookアメリカペンシルバニア州立ペンシルバニア大学ペンシルバニア州立大学大学院 - Facebook「1974 Penn State University」には、1974年6月29日にKing Crimsonが...カレッジ施設見学シリーズ【ペンシルベニア州立大学編】... - Athlete...1974年6月29日にKing Crimsonがペンシルベニア州立大学で行ったライブ... 6 days ago · Penn State The official Facebook page of The Pennsylvania State University. News: http://news.psu.edu アメリカペンシルバニア州立ペンシルバニア大学 ペンシルバニア州立大学大学院 Jun 24, 2026",
+    "url": "https://www.facebook.com/pennstate/",
+    "pass": 3
+   },
+   {
+    "quote": "カレッジ施設見学シリーズ【ペンシルベニア州立大学編】... - Athlete... Oct 3, 2023 · 🇺🇸カレッジ施設見学シリーズ【ペンシルベニア州立大学編】 今回は中でもアメフト専用施設のご紹介🏈 ペンシルベニア州立大学とは ペン ステート (PENN STATE)の愛称で親しまれペンシルベニア州ステートカレッジに位置する州立総合大学。 ...",
+    "url": "https://www.facebook.com/a.d.e.official2014/posts/カレッジ施設見学シリーズペンシルベニア州立大学編今回は中でもアメフト専用施設のご紹介ペンシルベニア州立大学とはペン-ステートpenn-stateの愛称で親しまれ/839810211293425/",
+    "pass": 3
+   },
+   {
+    "quote": "1974年6月29日にKing Crimsonがペンシルベニア州立大学で行ったライブ... Jun 24, 2026 · 1974年6月29日にKing Crimsonがペンシルベニア州立大学で行ったライブの記録「1974 Penn State University」。 メンバーは、Robert Fripp、David Cross、John Wetton、Bill...",
+    "url": "https://www.facebook.com/groups/1050157999162279/permalink/2182383732606361/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%99%E3%83%8B%E3%82%A2%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Pennsylvania_State_University",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zh.wikipedia.org/wiki/%E5%AE%BE%E5%A4%95%E6%B3%95%E5%B0%BC%E4%BA%9A%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/darpa%E3%80%813d%E5%8D%B0%E5%88%B7%E3%81%AB%E3%82%88%E3%82%8B%E9%87%91%E5%B1%9E%E9%83%A8%E5%93%81%E3%81%AE%E8%80%90%E7%94%A8%E5%B9%B4%E6%95%B0%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%83%9A%E3%83%B3/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spee3d.com/ja/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%90%E3%83%8B%E3%82%A2%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6%E3%81%8C%E4%B8%96%E7%95%8C%E3%82%92%E3%83%AA%E3%83%BC%E3%83%89%E3%81%99%E3%82%8Bspee3d%E9%87%91/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/ja/%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%90%E3%83%8B%E3%82%A2%E5%B7%9E%E7%AB%8B%E5%B7%A5%E5%A0%B4-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E9%87%91%E5%B1%9E%E9%83%A8%E5%93%81%E7%94%A8%E8%B6%85/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%99%E3%83%8B%E3%82%A2%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/darpa%E3%80%813d%E5%8D%B0%E5%88%B7%E3%81%AB%E3%82%88%E3%82%8B%E9%87%91%E5%B1%9E%E9%83%A8%E5%93%81%E3%81%AE%E8%80%90%E7%94%A8%E5%B9%B4%E6%95%B0%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%83%9A%E3%83%B3/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/ja/%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%90%E3%83%8B%E3%82%A2%E5%B7%9E%E7%AB%8B%E5%B7%A5%E5%A0%B4-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E9%87%91%E5%B1%9E%E9%83%A8%E5%93%81%E7%94%A8%E8%B6%85/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%99%E3%83%8B%E3%82%A2%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%99%E3%83%8B%E3%82%A2%E5%A4%A7%E5%AD%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000258.000035474.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%99%E3%83%8B%E3%82%A2%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zh.wikipedia.org/wiki/%E5%AE%BE%E5%A4%95%E6%B3%95%E5%B0%BC%E4%BA%9A%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zh.wikipedia.org/zh-sg/%E5%AE%BE%E5%A4%95%E6%B3%95%E5%B0%BC%E4%BA%9A%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kind_quokka9252/n/n20c504cd4630",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tagtag/n/n3baef4c5e4ca",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/s_monster/n/n2bdb5018b8d8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/moral_sloth6678/n/n213deddfd463",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/cwb_jp/status/2099096205804585121",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/ペンシルベニア州立大学",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/i/trending/2071450419373711733",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/KingyoJigoku/status/2089841554139808018",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/shonosuke-serizawa-a86412325/ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/hiroto-kiyomiya/ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/yamato-ohara-248644308/ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pennstate/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/a.d.e.official2014/posts/カレッジ施設見学シリーズペンシルベニア州立大学編今回は中でもアメフト専用施設のご紹介ペンシルベニア州立大学とはペン-ステートpenn-stateの愛称で親しまれ/839810211293425/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/1050157999162279/permalink/2182383732606361/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tagtag/n/n3baef4c5e4ca",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/ペンシルベニア州立大学",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ichi7koba/status/2113212400497516845",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ペンシルベニア州立大学",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ペンシルベニア州立大学",
+    "https://ja.wikipedia.org/wiki/ペンシルベニア大学",
+    "https://www.ryugakupress.com/penn-state/",
+    "https://www.ryupass.com/universities/Penn-State-Main-campus",
+    "https://www.psu.edu/",
+    "https://www.worldcampus.psu.edu/",
+    "https://www.upenn.edu/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "株式会社ペンシルベニア州立大学",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ペンシルベニア州立大学",
+    "https://www.ryugakupress.com/penn-state/",
+    "https://www.tuj.ac.jp/jp/about/main-campus",
+    "https://jmedia.wiki/サムはペンシルバニア州立大学/Penn_State_University",
+    "https://ja.namu.wiki/w/펜실베이니아+주립대학교",
+    "https://www.tuj.ac.jp/jp/about/main-campus/facts",
+    "https://baike.baidu.com/ja/item/ペンシルベニア州立大学/1129712"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ペンシルベニア州立大学 株式会社",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ペンシルベニア州立大学",
+    "https://www.ryugakupress.com/penn-state/",
+    "https://jmedia.wiki/サムはペンシルバニア州立大学/Penn_State_University",
+    "https://baike.baidu.com/ja/item/ペンシルベニア州立大学/1129712",
+    "https://ja.namu.wiki/w/펜실베이니아+주립대학교",
+    "https://www.kyodo.co.jp/pr/2026-04-13_4005166/",
+    "https://www.tuj.ac.jp/jp/about/main-campus"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ペンシルベニア州立大学 会社概要 資本金 設立",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ペンシルベニア州立大学",
+    "https://en.wikipedia.org/wiki/Pennsylvania_State_University",
+    "https://zh.wikipedia.org/wiki/宾夕法尼亚州立大学",
+    "https://zh.wikipedia.org/zh-cn/宾夕法尼亚州立大学",
+    "https://baike.baidu.com/ja/item/ペンシルベニア州立大学/1129712",
+    "https://newikis.com/ja/ペンシルベニア州立大学",
+    "https://jmediawiki.org/ペンシルベニア州立大学の/Penn_State"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ペンシルベニア州立大学 金属3Dプリンタ 導入",
+   "results": [
+    "https://3druck.com/ja/産業/darpa、3d印刷による金属部品の耐用年数に関するペン/",
+    "https://www.spee3d.com/ja/ペンシルバニア州立大学が世界をリードするspee3d金/",
+    "https://3druck.com/ja/リサーチ/ペンシルバニア州立工場-3dプリント金属部品用超/",
+    "https://idarts.co.jp/3dp/two-types-metal-molded-together-using-3d-printer/",
+    "https://cimp3d.org/",
+    "https://sekapri.com/3dprinter/20210626-12793/",
+    "http://sczcxh.com/NewsView.asp?ID=2164"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ペンシルベニア州立大学 金属積層造形 設備",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ペンシルベニア州立大学",
+    "https://3druck.com/ja/産業/darpa、3d印刷による金属部品の耐用年数に関するペン/",
+    "https://3druck.com/ja/リサーチ/ペンシルバニア州立工場-3dプリント金属部品用超/",
+    "https://www.spee3d.com/ja/ペンシルバニア州立大学が世界をリードするspee3d金/",
+    "https://seisan-navi.com/global-manufacturing-news-20260706-399b832197a5/",
+    "https://seisan-navi.com/global-manufacturing-news-20260919-b9134874430a/",
+    "https://ja.3dsystems.com/sites/default/files/2025-11/jp-06-03-2025-3d-systems-additive-manufacturing-solutions-enable-pioneering-research-on-advanced-thermal-control-systems-for-next-generation-space-missions.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ペンシルベニア州立大学 株主 出資 親会社",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ペンシルベニア州立大学",
+    "https://ja.wikipedia.org/wiki/ペンシルベニア大学",
+    "https://prtimes.jp/main/html/rd/p/000000258.000035474.html",
+    "https://baike.baidu.com/ja/item/ペンシルベニア州立大学/1129712",
+    "https://www.ryugakupress.com/penn-state/",
+    "https://www.kyodo.co.jp/pr/2026-04-13_4005166/",
+    "https://budgetandfinance.psu.edu/public-reports"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ペンシルベニア州立大学 売上高 従業員数",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ペンシルベニア州立大学",
+    "https://zh.wikipedia.org/wiki/宾夕法尼亚州立大学",
+    "https://zh.wikipedia.org/zh-sg/宾夕法尼亚州立大学",
+    "https://www.ryugakupress.com/penn-state/",
+    "https://baike.baidu.com/ja/item/ペンシルベニア州立大学/1129712",
+    "https://jmedia.wiki/サムはペンシルバニア州立大学/Penn_State_University",
+    "https://college-spark.com/p/penn-state"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com ペンシルベニア州立大学",
+   "results": [
+    "https://note.com/kind_quokka9252/n/n20c504cd4630",
+    "https://note.com/tagtag/n/n3baef4c5e4ca",
+    "https://note.com/s_monster/n/n2bdb5018b8d8",
+    "https://note.com/moral_sloth6678/n/n213deddfd463",
+    "https://note.com/nice_loris2711/n/ncc78eca7f780",
+    "https://note.com/hirokazumineral/n/n43b905bcf67b",
+    "https://note.com/draft_hakkutsu/n/nea427958d703"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ペンシルベニア州立大学",
+   "results": [
+    "https://x.com/cwb_jp/status/2099096205804585121",
+    "https://x.com/hashtag/ペンシルベニア州立大学",
+    "https://x.com/i/trending/2071450419373711733",
+    "https://x.com/KingyoJigoku/status/2089841554139808018",
+    "https://x.com/ichi7koba/status/2113212400497516845",
+    "https://x.com/eiken_wisdom/status/2113212661056102548",
+    "https://x.com/i/trending/2108322966786167033"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com ペンシルベニア州立大学",
+   "results": [
+    "https://www.linkedin.com/in/shonosuke-serizawa-a86412325/ja",
+    "https://jp.linkedin.com/in/hiroto-kiyomiya/ja",
+    "https://jp.linkedin.com/in/eiji-yanai-a25b3035b",
+    "https://www.linkedin.com/in/yamato-ohara-248644308/ja",
+    "https://sg.linkedin.com/in/shinsuke-kurata-28b4a11b/ja",
+    "https://cn.linkedin.com/in/chun-chen-17b8a731",
+    "https://cn.linkedin.com/in/bosheng-chen"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com ペンシルベニア州立大学",
+   "results": [
+    "https://www.facebook.com/pennstate/",
+    "https://www.facebook.com/a.d.e.official2014/posts/カレッジ施設見学シリーズペンシルベニア州立大学編今回は中でもアメフト専用施設のご紹介ペンシルベニア州立大学とはペン-ステートpenn-stateの愛称で親しまれ/839810211293425/",
+    "https://www.facebook.com/groups/1050157999162279/permalink/2182383732606361/",
+    "https://www.facebook.com/ペンシルバニア州立大学-304117319693428/",
+    "https://www.facebook.com/ペンシルバニア州立大学大学院-259380490785474/",
+    "https://www.facebook.com/groups/523115344416599/posts/27612428118391955/",
+    "https://www.facebook.com/アメリカペンシルバニア州立ペンシルバニア大学-185445148918642/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ペンシルベニア州立大学 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ペンシルベニア州立大学",
+    "https://ja.wikipedia.org/wiki/内野研二",
+    "https://note.com/tagtag/n/n3baef4c5e4ca",
+    "https://www.ryugakupress.com/penn-state/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://students.isct.ac.jp/ja/news/x7xeopiq85im",
+    "https://note.com/draft_hakkutsu/n/nea427958d703"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ペンシルベニア州立大学 X 投稿",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ペンシルベニア州立大学",
+    "https://x.com/hashtag/ペンシルベニア州立大学",
+    "https://x.com/ichi7koba/status/2113212400497516845",
+    "https://www.ryugakupress.com/penn-state/",
+    "https://www.instagram.com/p/DSkTxFLiTVj/",
+    "https://sites.google.com/site/kensukesuzuki04/gradapp",
+    "https://tobitate-mext.jasso.go.jp/zukan/detail-1384"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部32頁・検索14回）",
+  "資本金": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部32頁・検索14回）",
+  "創業年度": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部32頁・検索14回）",
+  "従業員数": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部32頁・検索14回）",
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部32頁・検索14回）",
+  "株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部32頁・検索14回）",
+  "所在地": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部32頁・検索14回）",
+  "保有設備": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部32頁・検索14回）"
+ }
+}

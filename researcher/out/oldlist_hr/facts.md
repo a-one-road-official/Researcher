@@ -1,4 +1,4 @@
-# 旧営業リスト全社 採用・広告・現場研修のサービス×製造業の実績×日本の担い手×再販条件（事実のみ・718社）
+# 旧営業リスト全社 採用・広告・現場研修のサービス×製造業の実績×日本の担い手×再販条件（事実のみ・787社）
 
 ## 1Stcollab
 - 公式URL：https://1stcollab.com/（given）
@@ -529,6 +529,196 @@
 - 料金：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部25頁・検索12回）
 - 連絡先：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部25頁・検索12回）
 
+## AERO-LIFT Vakuumtechnik GmbH
+- 公式URL：https://www.aero-lift.de/（given）
+- 採用・広告の製品：
+  - 「Profitieren Sie von gesteigerter Produktivität, reduzierten Kosten und weniger krankheitsbedingten Ausfällen!」（https://www.aero-lift.de/・1回目）
+  - 「Bis zu 500 Picks/h, intuitiv bedienbar und maximal flexibel – unsere Schlauchheber ermöglichen eine enorme Erhöhung der Produktivität und Effizienz.」（https://www.aero-lift.de/・1回目）
+  - 「Sicher, langlebig und absolut prozesssicher – unsere starken und robusten Hebegeräte eignen sich für das Bewegen großer Lasten und Formate.」（https://www.aero-lift.de/・1回目）
+  - 「für Ihre spezifische Handling-Herausforderung. Gerne beraten wir Sie direkt vor Ort und optimieren gemeinsam mit Ihnen Ihre Produktionsabläufe.」（https://www.aero-lift.de/・1回目）
+  - 「Inbetriebnahmen, Wartungen, Fehlerdiagnosen, UVV-Prüfungen und Ersatzteilservices zählen selbstverständlich ebenfalls zum Portfolio von AERO-LIFT.」（https://www.aero-lift.de/・1回目）
+  - 「Unser Ziel ist es, Menschen und Unternehmen die Arbeit zu erleichtern. Unsere ergonomischen Vakuumhebegeräte steigern die Produktivität, senken die Kosten und verhindern krankheitsbedingte Ausfälle.」（https://www.aero-lift.de/・1回目）
+  - 「Finden Sie hier den richtigen Ansprechpartner in Ihrer Region. Geben Sie dazu Ihr Land und Ihre Postleitzahl ein, und wir zeigen Ihnen die zuständigen Vertriebspartner.」（https://www.aero-lift.de/unternehmen/vertriebspartner/・1回目）
+  - 「São Tomé und Príncipe」（https://www.aero-lift.de/unternehmen/vertriebspartner/・1回目）
+  - 「Taiwan, Chinesische Provinz」（https://www.aero-lift.de/unternehmen/vertriebspartner/・1回目）
+  - 「Leighton Buzzard Bedfordshire」（https://www.aero-lift.de/unternehmen/vertriebspartner/・1回目）
+  - 「PRO-LIFT SOLUTIONS s.r.o.」（https://www.aero-lift.de/unternehmen/vertriebspartner/・1回目）
+  - 「professionelle Vakuumhebetechnik」（https://www.aero-lift.de/unternehmen/vertriebspartner/vertriebspartner-werden/・1回目）
+- 製造業の実績：
+  - 「FLUIDPOWER - AUTOMAÇÃO INDUSTRIAL」（https://www.aero-lift.de/unternehmen/vertriebspartner/・1回目）
+  - 「63 Tampines Industrial Ave 5, T5@Tampines」（https://www.aero-lift.de/unternehmen/vertriebspartner/・1回目）
+  - 「FLUIDPOWER - AUTOMAÇÃO INDUSTRIAL」（https://www.aero-lift.de/nl/company/verkooppartner/・1回目）
+  - 「63 Tampines Industrial Ave 5, T5@Tampines」（https://www.aero-lift.de/nl/company/verkooppartner/・1回目）
+- 規模・親会社：
+  - 「260 rue des Barronnières」（https://www.aero-lift.de/unternehmen/vertriebspartner/・1回目）
+  - 「260 rue des Barronnières」（https://www.aero-lift.de/nl/company/verkooppartner/・1回目）
+- 連絡先：
+  - 「info@mennensbelgium.be」（https://www.aero-lift.de/unternehmen/vertriebspartner/・1回目）
+  - 「info@biehl-systemtechnik.de」（https://www.aero-lift.de/unternehmen/vertriebspartner/・1回目）
+  - 「info@mauersberger-vertrieb.de」（https://www.aero-lift.de/unternehmen/vertriebspartner/・1回目）
+  - 「info@scholz-vertrieb.de」（https://www.aero-lift.de/unternehmen/vertriebspartner/・1回目）
+  - 「info@whmachinetool.co.za」（https://www.aero-lift.de/unternehmen/vertriebspartner/・1回目）
+  - 「info@mennensbelgium.be」（https://www.aero-lift.de/nl/company/verkooppartner/・1回目）
+  - 「info@biehl-systemtechnik.de」（https://www.aero-lift.de/nl/company/verkooppartner/・1回目）
+  - 「info@mauersberger-vertrieb.de」（https://www.aero-lift.de/nl/company/verkooppartner/・1回目）
+  - 「info@scholz-vertrieb.de」（https://www.aero-lift.de/nl/company/verkooppartner/・1回目）
+  - 「info@whmachinetool.co.za」（https://www.aero-lift.de/nl/company/verkooppartner/・1回目）
+- 検索結果の抜粋：
+  - 「Aero-Lift Vakuumtechnik GmbH | ソーラーコンポーネント | ドイツ — ソーラーリフトメーカーAero-Lift Vakuumtechnik GmbHのプロファイル会社の連絡先の詳細および製造した製品を示します」（https://jp.enfsolar.com/aero-lift・3回目）
+  - 「AERO-LIFT Vakuumtechnik GmbH - LinkedIn 日本 — AERO-LIFT Vakuumtechnik GmbH ist spezialisiert auf die Lösung Ihrer Handlingprobleme. Wir schaffen Effizienz durch innovative Systemlösungen mit Vakuumtechnik und steigern die Ergonomie Ihrer Arbeitsumgebung mit praktischen Vakuumhebern und Vakuumsystemen.」（https://jp.linkedin.com/company/aero-lift-vakuumtechnik-gmbh・3回目）
+  - 「AERO-LIFT Vakuumtechnik - kuehntec.de — AERO-LIFT Vakuumtechnik Die AERO-LIFT Vakuumtechnik GmbH ist ein international anerkannter Spezialist für innovative Handhabungslösungen mit Vakuumtechnologie. Das familiengeführte Unternehmen wurde 1992 gegründet und hat seinen Produktionssitz in Geislingen-Binsdorf, Baden-Württemberg. Die Überzeugung des Unternehmens ist, dass Menschen gesünder und effizie」（https://www.kuehntec.de/unternehmen/premium-partner/aerolift/・3回目）
+  - 「AERO-LIFT Vakuumtechnik GmbH | LinkedIn — AERO-LIFT Vakuumtechnik GmbH ist spezialisiert auf die Lösung Ihrer Handlingprobleme. Wir schaffen Effizienz durch innovative Systemlösungen mit Vakuumtechnik und steigern die Ergonomie Ihrer Arbeitsumgebung mit praktischen Vakuumhebern und Vakuumsystemen.」（https://jp.linkedin.com/company/aero-lift-vakuumtechnik-gmbh・3回目）
+  - 「AERO-LIFT Vakuumtechnik GmbH | Company - fachpack.de — With several strategic business areas, AERO-LIFT is broadly positioned: From tube lifters, vacuum lifters, area grippers for automation technology to components, crane systems and services, the customer gets everything from a single source. This broad spectrum requires great innovative strength and flexibility.」（https://www.fachpack.de/en/exhibitors/aero-lift-vakuumtechnik-gmbh-2648727・3回目）
+  - 「Beitrag von AERO-LIFT Vakuumtechnik GmbH - LinkedIn — AERO-LIFT has developed an innovative handling solution to make producers' work easier! 💡 👉 Find out more in our new case study! 📖 Read now: https://lnkd.in/eKdC_rBV #AEROLIFT # ...」（https://www.linkedin.com/posts/aero-lift-vakuumtechnik-gmbh_aerolift-vakuumtechnik-casestudy-activity-7294992326551089152-4ftP・3回目）
+  - 「AERO-LIFT Vakuumtechnik GmbH | Zimmerer-Treffpunkt — Genau hier spielt der Vakuumheber CLAD-BOY von AERO-LIFT Vakuumtechnik seine Stärken aus – mehr Fläche, weniger Aufwand, mehr Sicherheit. Wie das in der Praxis aussieht, zeigt die Zimmerei Markus Haller GmbH & Co. KG, die den CLAD-BOY bei der Montage von Dachelementen einsetzt.」（https://zimmerer-treff.com/unternehmen/aero-lift-vakuumtechnik・3回目）
+  - 「AERO-LIFT, INCREASE PRODUCTIVITY AND REDUCE COSTS — May 30, 2024 · M.M: The market for vacuum handling technology, in which AERO-LIFT Vakuumtechnik GmbH operates, is experiencing steady growth. This demand is fueled by increasing needs for efficiency, safety, and ergonomic solutions across various industries, including automotive, logistics, construction, and manufacturing.」（https://fineeng.eu/aero-lift-increase-productivity-and-reduce-costs/・3回目）
+  - 「AERO-LIFT Vakuumtechnik GmbH Information - RocketReach — AERO-LIFT Vakuumtechnik GmbH is an Industrial Machinery Manufacturing company located in Baden-Württemberg, DE with $18.4 million in revenue and 35 employees. Find top employees, contact details and business statistics at RocketReach.」（https://rocketreach.co/aero-lift-vakuumtechnik-gmbh-profile_b4514796fc7123da・3回目）
+  - 「AERO-LIFT Vakuumtechnik GmbH, Geislingen - CompanyHouseAERO-LIFT - Crunchbase Company Profile & FundingAERO-LIFT Vakuumtechnik GmbH, Geislingen, GermanyAERO LIFT Vakuumtechnik GmbH Company Profile by CMRFactoryMore | Aero-Lift Vakuumtechnik GmbH — Jul 24, 2026 · AERO-LIFT Vakuumtechnik GmbH ist ein Spezialist für Vakuumhebetechnik und transportiert Materialien wie Blech, Holz, Glas und mehr. Das U」（https://www.companyhouse.de/AERO-LIFT-Vakuumtechnik-GmbH-Geislingen・3回目）
+  - 「AERO-LIFT Vakuumtechnik GmbH, Geislingen, Germany — Dec 3, 2024 · AERO-LIFT Vakuumtechnik GmbH, Geislingen, Germany, District Court of Stuttgart HRB 410724: Network, Financial information」（https://www.northdata.com/AERO-LIFT+Vakuumtechnik+GmbH,+Geislingen/Amtsgericht+Stuttgart+HRB+410724・3回目）
+- 創業年度：記載なし（3回確認済み：公式6頁／PDF・画像3件／外部28頁・検索12回）
+- 株主：記載なし（3回確認済み：公式6頁／PDF・画像3件／外部28頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式6頁／PDF・画像3件／外部28頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式6頁／PDF・画像3件／外部28頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式6頁／PDF・画像3件／外部28頁・検索12回）
+- 料金：記載なし（3回確認済み：公式6頁／PDF・画像3件／外部28頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式6頁／PDF・画像3件／外部28頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式6頁／PDF・画像3件／外部28頁・検索12回）
+
+## AFOTEK GmbH Anlagen für die Oberflächentechnik
+- 公式URL：https://www.afotek.de/（given）
+- 採用・広告の製品：
+  - 「Zum Hauptinhalt springen」（https://www.afotek.de/・1回目）
+  - 「Anlagenplanung und Prozessoptimierung」（https://www.afotek.de/・1回目）
+  - 「Bleiben Sie informiert! Aktuelle News rund um Produkte und Lösungen für unsere Kunden haben wir hier für Sie zusammengetragen.」（https://www.afotek.de/・1回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 製造業の実績：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+
+## AGCO GmbH
+- 公式URL：https://www.fendt.com/us/（given）
+- 採用・広告の製品：
+  - 「Farm Progress 2026」（https://www.fendt.com/us/・1回目）
+  - 「Climate-friendly and resource-efficient production」（https://www.fendt.com/us/・1回目）
+  - 「High-quality & innovative products」（https://www.fendt.com/us/・1回目）
+  - 「No excuses. No compromises.」（https://www.fendt.com/us/・1回目）
+  - 「We care about your bottom line. That’s why every new Fendt machine comes standard with coverage designed to protect your investment, reduce unexpected costs and keep you working.」（https://www.fendt.com/us/・1回目）
+  - 「- Loaner provided if your tractor can’t be repaired within 48 hours」（https://www.fendt.com/us/・1回目）
+  - 「Every farm is different, and we’d like to learn what matters most to yours. Fill out the form below to connect with a local Fendt representative who can help you find the right solutions to improve efficiency, performance, and profitability on your operation.」（https://www.fendt.com/us/・1回目）
+  - 「Fendt News & Press Releases」（https://www.fendt.com/us/・1回目）
+  - 「Stay up-to-date on Fendt industry awards and new product introductions.」（https://www.fendt.com/us/・1回目）
+  - 「Impressions from the Fendt Sustainability Panel On October 27th 2022. The panel took place under the motto "Agriculture in transition: Is Germany up to the challenges?"」（https://www.fendt.com/us/sustainability-at-fendt/cooperative-partnership・1回目）
+  - 「The first “Smart Production” Technology Conference at the Fendt Forum in Marktoberdorf on 13 February 2020.」（https://www.fendt.com/us/sustainability-at-fendt/cooperative-partnership・1回目）
+  - 「“Smart Production” technology conference」（https://www.fendt.com/us/sustainability-at-fendt/cooperative-partnership・1回目）
+- 製造業の実績：
+  - 「Fendt North America | The agricultural machinery Manufacturer」（https://www.fendt.com/us/・1回目）
+  - 「Fendt Factory-Installed Loaders」（https://www.fendt.com/us/・1回目）
+  - 「Fendt Momentum Planter.」（https://www.fendt.com/us/・1回目）
+  - 「- Factory-recommended maintenance included」（https://www.fendt.com/us/・1回目）
+  - 「OutRun™ Tillage streamlines operations during both fall and spring tillage, enabling teams to concentrate their efforts on the two most vital phases of the crop cycle: harvest and planting.」（https://www.fendt.com/us/technologies/autonomous-solutions・1回目）
+  - 「In the fall, having the flexibility of autonomy means tillage can be performed right after the combine pass, maximizing the period for nutrients to return to the soil before spring planting.」（https://www.fendt.com/us/technologies/autonomous-solutions・1回目）
+  - 「In the spring, autonomy allows for maximizing the ideal window for fertilizer application and spring tillage, minimizing nutrient loss, and giving the team added capacity to keep the planter running at all times.」（https://www.fendt.com/us/technologies/autonomous-solutions・1回目）
+  - 「It's made us one of the fastest-growing agricultural manufacturers in North America, and it'll make your operation second to none.」（https://www.fendt.com/us/about-us/fendt・1回目）
+  - 「Revolution in transmission manufacturing」（https://www.fendt.com/us/about-us/fendt・1回目）
+  - 「The 3-tonne VarioDrive-transmission of the Fendt 1000 Vario is built at the transmission plant in Marktoberdorf.」（https://www.fendt.com/us/about-us/fendt・1回目）
+  - 「Our team of product and technology experts will be ready to answer your questions and conduct personal walkarounds of our award-winning tractors, planters, sprayers, and the Fendt IDEAL combine.」（https://www.fendt.com/us/about-us/farm-progress-show-2026・1回目）
+  - 「The globally active US agricultural equipment corporation AGCO acquires the tractor manufacturer Xaver Fendt GmbH & Co.」（https://www.fendt.com/us/about-us/history・1回目）
+- 規模・親会社：
+  - 「- 3-Year or 3,000-hour full-machine warranty with $0 deductible」（https://www.fendt.com/us/・1回目）
+  - 「On the basis of a strong corporate culture, we offer our employees a safe and attractive workplace in all situations and phases of life. We secure our future success through consistent training and further education as well as company health management.」（https://www.fendt.com/us/sustainability-at-fendt/cooperative-partnership・1回目）
+  - 「“That's part of what makes America have some of the best farmers in the world — we can make our own choices. What works for me may not work for my neighbor. And neither one of us is wrong.”」（https://www.fendt.com/us/about-us/legacies-of-the-land・1回目）
+  - 「Through Legacies of the Land, Fendt honors the generations who built this country — and stands ready to support those carrying that legacy forward.」（https://www.fendt.com/us/about-us/legacies-of-the-land・1回目）
+  - 「Is your family part of America's farming story? Share it with the world.」（https://www.fendt.com/us/about-us/legacies-of-the-land・1回目）
+  - 「Every story shared through Legacies of the Land is more than content. It is a record. Our goal is to preserve these stories in partnership with the Library of Congress — ensuring that the oral histories of American farming families become part of the nation's permanent archive, alongside the voices of veterans, civil rights leaders, and the people who shaped this country.」（https://www.fendt.com/us/about-us/legacies-of-the-land・1回目）
+  - 「In this first part, Farmworld_TV tells the exciting history of steplessly variable transmission technology at Fendt – from the pioneering days with the legendary “Silver Arrow” Farmer 3 Hydrostat to the development of the Fendt Evo. A look back at the innovations that paved the way for modern Vario technology.」（https://www.fendt.com/us/about-us/30-years-of-vario・1回目）
+  - 「After successful test bench trials, a top-secret test was initially carried out at a large-scale company in the Czech Republic, until 1995 at AGRITECHNICA the 260 hp Fendt Favorit 926 Vario was presented as the first series tractor with the ML 200 stepless transmission.」（https://www.fendt.com/us/about-us/30-years-of-vario・1回目）
+  - 「Arrive early for an up-close look at the newest machines and learn how Fendt helps farmers improve ROI with lower fuel consumption, precision technology and performance built to maximize productivity in the field.」（https://www.fendt.com/us/about-us/farm-progress-show-2026・1回目）
+  - 「The 12 hp Fendt tool carrier with four mounting areas is presented for the first time. 1959 Fendt received the highest award of the German Agricultural Society for its ingenious one-man system.」（https://www.fendt.com/us/about-us/history・1回目）
+  - 「Arrival in Brazil with big machines」（https://www.fendt.com/us/about-us/history・1回目）
+  - 「The Fendt brand has been part of the US global player since 1997. Fendt, however, is no longer just a tractor manufacturer, but rather an agricultural equipment company with a full line of products. What distinguishes Fendt within the AGCO Corporation? The claim to develop the best technical solutions and to deliver the highest quality.」（https://www.fendt.com/us/about-us/agco・1回目）
+- 連絡先：
+  - 「If you put a company on your watch list, we'll notify you on your email」（https://www.northdata.com/AGCO+GmbH,+Marktoberdorf/Amtsgericht+Kempten+HRB+10327・3回目）
+- 検索結果の抜粋：
+  - 「+ Agco GMBH: Case Study | PDF | Agriculture | Arable FarmingAGCO Case Study - cdn.featuredcustomers.comSuccess Story - cdn.featuredcustomers.comB2B Case Studies Featuring AGCO Corporation as the CustomerEndless production from coil – efficiency boost for manufacturingAGCO Case Study: We Help Put Enough Food on the TableSuccess Story AGCO - 4flow — Automatic contact genera- preparation times to dec」（https://www.scribd.com/document/495200664/AGCO-Fendt-Case-Study・3回目）
+  - 「AGCO GmbH Number of Employees 2026 | Employee Count ... — About AGCO GmbH ’s Workforce AGCO GmbH is an Automotive Services company that employs 751 people worldwide as of June 2026. It is the 11th-largest by headcount among its peers. Founded in 1930, the company is headquartered in Marktoberdorf, Germany. AGCO GmbH's workforce has grown 2.6% from 2023 to 2026, up 6.5% year over year in 2026.」（https://www.reveliolabs.com/companies/agco-gmbh/employees・3回目）
+  - 「AGCO GmbH, Marktoberdorf, Germany - North Data — AGCO GmbH, Marktoberdorf, Germany, District Court of Kempten HRB 10327: Earnings, Revenue, Public funding, Employees, Network, Financial information」（https://www.northdata.com/AGCO+GmbH,+Marktoberdorf/Amtsgericht+Kempten+HRB+10327・3回目）
+- 創業年度：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部28頁・検索12回）
+- 株主：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部28頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部28頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部28頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部28頁・検索12回）
+- 料金：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部28頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部28頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部28頁・検索12回）
+
+## AIT Goehner GmbH
+- 公式URL：https://www.ait.de/（given）
+- 採用・広告の製品：
+  - 「Egal ob im Inland oder weltweiten Ausland, unsere mehrsprachigen Techniker unterstützen Sie dabei gerne.」（https://www.ait.de/・1回目）
+  - 「Unsere erfahrenen Teams hören genau hin, verstehen Ihre Prozesse und finden pragmatische Antworten, auch wenn es schnell gehen muss. Schon während der Integration und darüber hinaus im After Sales sind wir Ihr Partner.」（https://www.ait.de/・1回目）
+  - 「Wir verifizieren Ihre geprüften 1D/2D-Codes schnell und zuverlässig!」（https://www.ait.de/・1回目）
+  - 「So sichern wir gemeinsam den reibungslosen Ablauf Ihrer Prozesse, verlässlich, effizient und mit dauerhaftem Mehrwert.」（https://www.ait.de/・1回目）
+  - 「AIT Orbit Glasdrehteller Prüfystem」（https://www.ait.de/・1回目）
+  - 「Cognex trevista für präzise Inspektionen」（https://www.ait.de/・1回目）
+  - 「Primary type & automation activities this supplier delivers:」（https://robottoday.com/suppliers-discovery/ait-goehner-gmbh・3回目）
+  - 「Robotic Integration Enhances Precision Manufacturing for Midmarket Producers」（https://robottoday.com/suppliers-discovery/ait-goehner-gmbh・3回目）
+  - 「Hyundai Motor's Ownership of Boston Dynamics and Future Atlas Robot Production Plans」（https://robottoday.com/suppliers-discovery/ait-goehner-gmbh・3回目）
+  - 「GenRobot AI Secures $100 Million to Enhance Robot Training Data Infrastructure」（https://robottoday.com/suppliers-discovery/ait-goehner-gmbh・3回目）
+  - 「ABB Robotics Introduces AI Robot Trainer to Enhance Robot Vision Programming Efficiency」（https://robottoday.com/suppliers-discovery/ait-goehner-gmbh・3回目）
+  - 「SYNCERE Raises $11M Pre-Seed Led by a16z Speedrun」（https://robottoday.com/suppliers-discovery/ait-goehner-gmbh・3回目）
+- 製造業の実績：
+  - 「Industrial Physical AI」（https://robottoday.com/suppliers-discovery/ait-goehner-gmbh・3回目）
+  - 「Machine-vision area lighting for consistent illumination in industrial inspection tasks.」（https://robottoday.com/suppliers-discovery/ait-goehner-gmbh・3回目）
+  - 「Wing Allocates $125 Million for Expansion of U.S. Manufacturing Facility」（https://robottoday.com/suppliers-discovery/ait-goehner-gmbh・3回目）
+  - 「Samsung Hosts Hyundai Motor Executives to Strengthen Ties in Automotive Technology」（https://robottoday.com/suppliers-discovery/ait-goehner-gmbh・3回目）
+  - 「Robotic Integration Enhances Precision Manufacturing for Midmarket Producers」（https://robottoday.com/suppliers-discovery/ait-goehner-gmbh・3回目）
+  - 「RobotBank Initiates Development of Physical AI-Based Quadruped Robot for Industrial Use」（https://robottoday.com/suppliers-discovery/ait-goehner-gmbh・3回目）
+  - 「Industrial Manufacturing」（https://robottoday.com/suppliers-discovery/ait-goehner-gmbh・3回目）
+  - 「Your appointment request will be sent to the manufacturer with your name and e-mail address. You will receive your appointment confirmation by e-mail from AIT Goehner GmbH.」（https://www.motek-messe.de/en/Exhibitor-Index/92464-ait-goehner-gmbh/・3回目）
+  - 「AIT Aivios | The New Framework for Industrial Machine Vision」（https://www.motek-messe.de/en/Exhibitor-Index/92464-ait-goehner-gmbh/・3回目）
+  - 「AIT Aivios is the new high-performance framework for industrial machine vision and automated quality inspection. Machine vision, sensor technology, PLCs, HMIs, and production processes converge on a single, AI-powered platform. This creates the foundation for efficient, flexible, and」（https://www.motek-messe.de/en/Exhibitor-Index/92464-ait-goehner-gmbh/・3回目）
+  - 「Omnidirectional Auto-ID system identifies incoming pallets in the writing instruments warehouse」（https://www.youtube.com/watch?v=uvEGuYzCm8k・3回目）
+- 規模・親会社：
+  - 「AIT Goehner GmbH is a family-owned machine vision and AutoID system integrator headquartered in Stuttgart, Germany, founded in 1989. The company remains owned by the Goehner and Gauch families and operates additional offices in Karlsruhe, Loehne and St. Ingbert alongside its Track and Trace subsidiary logFOX, co-located in St. Ingbert.」（https://robottoday.com/suppliers-discovery/ait-goehner-gmbh・3回目）
+  - 「The company holds ISO 9001:2015 and AIA certification and is a member of VDMA Robotics + Automation and the Bundesvereinigung Logistik. It established Smart Vision, Advanced and Deep Learning divisions in 2019 and opened its Karlsruhe location in 2022, following a 2013 acquisition of the logFOX track-and-trace business.」（https://robottoday.com/suppliers-discovery/ait-goehner-gmbh・3回目）
+  - 「In this company's full profile: email address, revenue estimate, multi-year financial figures, VAT ID, and 4 more. A free account opens 20 full profiles to start with and 5 every month.」（https://app.implisense.com/en/companies/ait-goehner-gmbh-stuttgart--DEX5Z4AGM103・3回目）
+  - 「Revenue, result, equity and the multi-year history are in the full profile.」（https://app.implisense.com/en/companies/ait-goehner-gmbh-stuttgart--DEX5Z4AGM103・3回目）
+  - 「A revenue estimate is on file for this company — in the full profile.」（https://app.implisense.com/en/companies/ait-goehner-gmbh-stuttgart--DEX5Z4AGM103・3回目）
+  - 「Revenue, result and equity across every available year」（https://app.implisense.com/en/companies/ait-goehner-gmbh-stuttgart--DEX5Z4AGM103・3回目）
+- 連絡先：
+  - 「In this company's full profile: email address, revenue estimate, multi-year financial figures, VAT ID, and 4 more. A free account opens 20 full profiles to start with and 5 every month.」（https://app.implisense.com/en/companies/ait-goehner-gmbh-stuttgart--DEX5Z4AGM103・3回目）
+  - 「AI-powered research for publicly available contacts: name, role, phone, email, LinkedIn.」（https://app.implisense.com/en/companies/ait-goehner-gmbh-stuttgart--DEX5Z4AGM103・3回目）
+  - 「Your appointment request will be sent to the manufacturer with your name and e-mail address. You will receive your appointment confirmation by e-mail from AIT Goehner GmbH.」（https://www.motek-messe.de/en/Exhibitor-Index/92464-ait-goehner-gmbh/・3回目）
+  - 「Ihre Terminanfrage wird mit Ihrem Namen und Ihrer E-Mail-Adresse an der Hersteller gesendet. Sie erhalten Ihre Terminbestätigung per E-Mail von AIT Goehner GmbH.」（https://www.motek-messe.de/Ausstellerverzeichnis/92464-ait-goehner-gmbh/・3回目）
+- 検索結果の抜粋：
+  - 「AIT Goehner GmbH - LinkedIn 日本 — AIT Goehner GmbH | LinkedInのフォロワー数940人。Industrielle Bildverarbeitung 1D/2D/3D & AutoID | AIT Goehner GmbH integriert und vertreibt seit über 35 Jahren optische Prüf- und Identifizierungssysteme. Inzwischen findet man über 50.000 produktionssicher installierte AIT-Systeme weltweit in den unterschiedlichsten Branchen. Dazu gehören die Automobilbranche, Maschinenbau- 」（https://jp.linkedin.com/company/ait-goehner-gmbh・3回目）
+  - 「30 years of AIT Goehner - inVISION NEWS — Sep 20, 2019 · Newsarchiv 30 years of AIT Goehner The owner-managed company AIT Goehner, known as a distributor and system integrator for manufacturer-independent components and solutions, is celebrating its 30th anniversary this year. In 1989 Michael Göhner (r.) founded AIT Goehner GmbH together with a friend in a single room in Esslingen. Image: AIT ...」（https://invision-news.com/allgemein/30-years-of-ait-goehner/・3回目）
+  - 「AIT Goehner GmbH - RobotToday — AIT Goehner GmbH is a family-owned machine vision and AutoID system integrator headquartered in Stuttgart, Germany, founded in 1989. The company remains owned by the Goehner and Gauch families and operates additional offices in Karlsruhe, Loehne and St. Ingbert alongside its Track and Trace subsidiary logFOX, co-located in St. Ingbert. AIT Goehner designs machine vi」（https://robottoday.com/suppliers-discovery/ait-goehner-gmbh・3回目）
+  - 「AIT Goehner GmbH Company Profile | Stuttgart, Baden ...AIT Goehner | DeepHub Alliance PartnerAit Goehner GmbH Revonect Business ProfileAIT Goehner GmbH Company Profile | Löhne, Nordrhein-Westfalen ... — Find company research, competitor information, contact details & financial data for AIT Goehner GmbH of Stuttgart, Baden-Württemberg. Get the latest business insights from Dun & Bradstreet. Sep 24,」（https://www.dnb.com/business-directory/company-profiles.ait_goehner_gmbh.e72d9cb992a064c2f31167ad07b99150.html・3回目）
+  - 「Ait Goehner GmbH Revonect Business Profile — Since 1989 AIT Goehner GmbH has been developing, distributing and implementing vision systems for a countless variety of industrial applications. From simple controlling tasks, such as checking completeness with intelligent cameras, to highend pc-based multi-camera networked systems. With thousands of professionally installed systems, presently in use, 」（https://revonect.com/business/Ait+Goehner+GmbH/id/9831054679・3回目）
+  - 「AIT Goehner GmbH | LinkedIn — AIT Goehner GmbH | LinkedInのフォロワー数897人。Industrielle Bildverarbeitung 1D/2D/3D & AutoID | AIT Goehner GmbH integriert und vertreibt seit über 35 Jahren optische Prüf- und Identifizierungssysteme. Inzwischen findet man über 50.000 produktionssicher installierte AIT-Systeme weltweit in den unterschiedlichsten Branchen. Dazu gehören die Automobilbranche, Maschinenbau- und」（https://jp.linkedin.com/company/ait-goehner-gmbh・3回目）
+  - 「AIT Goehner GmbH — GmbH (Limited Liability Company ... — Sep 4, 2026 · Die AIT Goehner GmbH ist spezialisiert auf die Entwicklung von Software bis zur Anwendungsreife sowie auf die Bereitstellung notwendiger Komponenten und Beratung im Bereich industrielle Bildverarbeitung. Das Unternehmen bietet maßgeschneiderte Prüf- und Identifikationslösungen, darunter Machine Vision, AutoID, Deep Learning, so」（https://app.implisense.com/en/companies/ait-goehner-gmbh-stuttgart--DEX5Z4AGM103・3回目）
+  - 「AIT Goehner GmbH Company Profile | Stuttgart, Baden ...AIT Goehner | DeepHub Alliance PartnerAIT Goehner GmbH • automation, image processing, and light ... — Find company research, competitor information, contact details & financial data for AIT Goehner GmbH of Stuttgart, Baden-Württemberg. Get the latest business insights from Dun & Bradstreet. Sep 24, 2024 · ← Back AIT Goehner GmbH For over 35 y」（https://www.dnb.com/business-directory/company-profiles.ait_goehner_gmbh.e72d9cb992a064c2f31167ad07b99150.html・3回目）
+  - 「Exhibitor details of: AIT Goehner GmbH - motek-messe.de — Sep 10, 2026 · Dieser Vortrag gibt Ihnen fundierte Einblicke in die zahlreichen Use-Cases der Firma AIT Goehner. Im Fokus stehen die Vorstellung unserer performanten Softwareumgebung sowie der gezielte Einsatz von KI-Methoden zur Defekterkennung auf kritischen Funktionsflächen.」（https://www.motek-messe.de/en/Exhibitor-Index/92464-ait-goehner-gmbh/・3回目）
+  - 「Ausstellerdetails von: AIT Goehner GmbH - motek-messe.de — Sep 10, 2026 · Dieser Vortrag gibt Ihnen fundierte Einblicke in die zahlreichen Use-Cases der Firma AIT Goehner. Im Fokus stehen die Vorstellung unserer performanten Softwareumgebung sowie der gezielte Einsatz von KI-Methoden zur Defekterkennung auf kritischen Funktionsflächen.」（https://www.motek-messe.de/Ausstellerverzeichnis/92464-ait-goehner-gmbh/・3回目）
+  - 「Palettenkontrolle - STAEDTLER - AIT Goehner - Pallet Check — Dec 13, 2018 · This is because valuable resources remain unused due to varying plant utilisation. The writing instrument manufacturer STAEDTLER relies on an Auto-ID solution from AIT Goehner GmbH.」（https://www.youtube.com/watch?v=uvEGuYzCm8k・3回目）
+  - 「AIT Goehner GmbH’s Post - LinkedIn — We’re excited to be part of the VDMA Guided Tours “AI in Machine Vision Products and Applications”! Our experts Fernando Schneider and Nico Goehner have plenty of exciting innovations and ...」（https://www.linkedin.com/posts/ait-goehner-gmbh_were-excited-to-be-part-of-the-vdma-guided-activity-7511031358568185858-KbU7・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）
+
 ## ALKA MAKİNA OTO İNŞ. ELK. İTH. İHR. SAN. VE DIŞ TİC. LTD. ŞTİ.
 - 公式URL：https://www.alkamakina.com/（given）
 - 採用・広告の製品：
@@ -555,6 +745,224 @@
 - 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索12回）
 - 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索12回）
 - 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索12回）
+
+## AMMANN Asphalt GmbH
+- 公式URL：https://www.ammann.com/en-US/（given）
+- 採用・広告の製品：
+  - 「Get in touch with us to meet a sales representative near you」（https://www.ammann.com/en-US/・1回目）
+  - 「The system enhances quality and efficiency, reduces material waste and energy consumption, and provides valuable data insights for further optimisation.」（https://www.ammann.com/en-US/technology/plants-technology/automation-software/・1回目）
+  - 「Le système pour les centrales à béton garantit une qualité optimale, maximise l'efficacité et minimise les pertes, en tirant parti d'une grande expérience en matière de technologie des procédés.」（https://www.ammann.com/en-US/technology/plants-technology/automation-software/・1回目）
+  - 「The system for gravel plants integrates seamlessly to enhance productivity, quality, and energy efficiency while reducing operational costs.」（https://www.ammann.com/en-US/technology/plants-technology/automation-software/・1回目）
+  - 「Retrofit your existing plant with the as1 Control System to improve efficiency, productivity, and sustainability, regardless of the original manufacturer.」（https://www.ammann.com/en-US/technology/plants-technology/automation-software/・1回目）
+  - 「Comprehensive training programs ensure the proper use of the advanced control systems, thereby maximising plant performance and efficiency.」（https://www.ammann.com/en-US/technology/plants-technology/automation-software/・1回目）
+  - 「Get in touch with us to meet a sales representative near you」（https://www.ammann.com/en-US/technology/plants-technology/automation-software/・1回目）
+  - 「Hans-Christian became deputy CEO in January 2012 and CEO in January 2013. His tenure has already been marked by significant growth and an even stronger global presence.」（https://www.ammann.com/en-US/about-ammann/・1回目）
+  - 「Ulrich Meyer, a former division head, took over to bridge the gap until Hans-Christian was fully prepared. The focus continued to be on international development, with several more international dealers coming on board.」（https://www.ammann.com/en-US/about-ammann/・1回目）
+  - 「That same year, the holding company Ammann-Enterprises was established to create a board and ensure continuity between generations and that all appropriate business opportunities were pursued.」（https://www.ammann.com/en-US/about-ammann/・1回目）
+  - 「By 1924 Arthur ran the organization. His tenure saw considerable exporting of products to the East as well as France, Belgium and Holland. Swiss infrastructure also was being developed at this time and provided additional opportunities.」（https://www.ammann.com/en-US/about-ammann/・1回目）
+  - 「In 1946, shortly after World War II, Arthur’s son Ulrich Ammann came on board and was responsible for products and organization.」（https://www.ammann.com/en-US/about-ammann/・1回目）
+- 製造業の実績：
+  - 「Ammann: Swiss supplier of mixing plants and machines」（https://www.ammann.com/en-US/・1回目）
+  - 「Alpine Drum Mix Plant」（https://www.ammann.com/en-US/・1回目）
+  - 「Ammann: Driving innovation in mixing plants and compaction」（https://www.ammann.com/en-US/・1回目）
+  - 「The Brains of the Plant」（https://www.ammann.com/en-US/technology/plants-technology/automation-software/・1回目）
+  - 「The system for gravel plants integrates seamlessly to enhance productivity, quality, and energy efficiency while reducing operational costs.」（https://www.ammann.com/en-US/technology/plants-technology/automation-software/・1回目）
+  - 「Retrofit your existing plant with the as1 Control System to improve efficiency, productivity, and sustainability, regardless of the original manufacturer.」（https://www.ammann.com/en-US/technology/plants-technology/automation-software/・1回目）
+  - 「Comprehensive training programs ensure the proper use of the advanced control systems, thereby maximising plant performance and efficiency.」（https://www.ammann.com/en-US/technology/plants-technology/automation-software/・1回目）
+  - 「Dedicated support ensures the plant operates smoothly, with expert assistance available for troubleshooting and optimisation.」（https://www.ammann.com/en-US/technology/plants-technology/automation-software/・1回目）
+  - 「Plant Guard Digital Solutions and Services」（https://www.ammann.com/en-US/technology/plants-technology/automation-software/・1回目）
+  - 「Manufacture of core components for asphalt mixing plants」（https://www.ammann.com/en-US/about-ammann/・1回目）
+  - 「Three significant mergers and acquisitions took place during his first two years as CEO: The opening of a manufacturing facility in Gravatai, Brazíl; entering a joint venture with Apollo in Ahmedabad, India; and the acquisition of Elba-Werk in Ettlingen, Germany.」（https://www.ammann.com/en-US/about-ammann/・1回目）
+  - 「Business opportunities in China were pursued, including the opening of a manufacturing facility in Shanghai. In addition, many international dealers and distributors signed on at this time.」（https://www.ammann.com/en-US/about-ammann/・1回目）
+- 規模・親会社：
+  - 「Three significant mergers and acquisitions took place during his first two years as CEO: The opening of a manufacturing facility in Gravatai, Brazíl; entering a joint venture with Apollo in Ahmedabad, India; and the acquisition of Elba-Werk in Ettlingen, Germany.」（https://www.ammann.com/en-US/about-ammann/・1回目）
+  - 「Johann Niklaus’ tenure was marked by an emphasis on international expansion, including the acquisition of Rammax in Metzingen, Germany, in 1995, and Stavostroj in Nové Město, Czech Republic, in 2005.」（https://www.ammann.com/en-US/about-ammann/・1回目）
+  - 「Also at this time, a new generation was coming of age. They arrived with crucial experience gained at multinational businesses. Andreas Ulrich Ammann, Ulrich’s son, joined the company in 1972. Johann Niklaus Schneider, Ulrich’s son-in-law, came on board in 1981. Both successfully ran Ammann subsidiaries.」（https://www.ammann.com/en-US/about-ammann/・1回目）
+  - 「Arthur saw that efficiencies could be gained by opening an office and workshop in France, and he did so by 1930. Crisis soon engulfed Europe and World War II arrived, a challenging time for the business to navigate.」（https://www.ammann.com/en-US/about-ammann/・1回目）
+  - 「He learned at the arm of his father, but his on-the-job education was interrupted when the first World War arrived, and both Ulrich and Arthur were called to duty.」（https://www.ammann.com/en-US/about-ammann/・1回目）
+- 創業年度：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部20頁・検索12回）
+- 株主：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部20頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部20頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部20頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部20頁・検索12回）
+- 料金：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部20頁・検索12回）
+- 連絡先：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部20頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部20頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部20頁・検索12回）
+
+## ANDRITZ Schuler Pressen GmbH
+- 公式URL：https://www.schulergroup.com/（given）
+- 採用・広告の製品：
+  - 「Technologien & Produkte」（https://www.schulergroup.com/・1回目）
+  - 「Automotive Press Technology」（https://www.schulergroup.com/・1回目）
+  - 「Hydraulic Press Technology」（https://www.schulergroup.com/・1回目）
+  - 「Weitere Produkte und Lösungen」（https://www.schulergroup.com/・1回目）
+  - 「Digitalisierung im Presswerk」（https://www.schulergroup.com/・1回目）
+  - 「Unser aktuellen Pressemitteilungen finden Sie ab sofort bei unserem Mutterunternehmen ANDRITZ.」（https://www.schulergroup.com/・1回目）
+  - 「Bisher erschienene Pressemitteilungen sind weiterhin」（https://www.schulergroup.com/・1回目）
+  - 「TRITON: Das modulare Pressenkonzept der Zukunft」（https://www.schulergroup.com/・1回目）
+  - 「Ob Heizkörper, Wärmetauscher, Duschwannen oder Spülbecken aus Edelstahl: Das Design und damit die Vielzahl der Formen nimmt auch in der Hausgeräteindustrie einen immer größeren Stellenwert ein. Pressen- und Automationssysteme von Schuler liefern Ihnen die notwendige Flexibilität und Effizienz. So können Sie - in Form und Funktion - mit hochwertigen Blechteilen überzeugen.」（https://www.schulergroup.com/・1回目）
+  - 「Rechnen Sie mit Schuler: Unsere Schneidanlagen, Schnellläuferpressen und Nutanlagen bieten Ihnen maßgeschneiderte Systemlösungen für die Herstellung von Elektroblechen, wirtschaftlich einsetzbar sowohl in der Großserien- als auch in der Einzelfertigung.」（https://www.schulergroup.com/・1回目）
+  - 「Die Blech- und Massivumformung sind heute Schlüsseltechnologien im Rahmen vieler industrieller Anwendungen. Als weltweiter Technologieführer in der Umformtechnik liefert Schuler dafür innovative Pressen- und Automationslösungen, Werkzeuge, Prozess-Know-how und erstklassigen Service.」（https://www.schulergroup.com/・1回目）
+  - 「Nutzen Sie die Vorteile der Digitalisierung im Presswerk. Die digitalen Lösungen von Schuler sorgen dafür, dass in Ihrer Produktion alles rund läuft.」（https://www.schulergroup.com/・1回目）
+- 製造業の実績：
+  - 「Automotive Press Technology」（https://www.schulergroup.com/・1回目）
+  - 「Industrial Applications」（https://www.schulergroup.com/・1回目）
+  - 「Automotive Press Technology」（https://www.schulergroup.com/digitalsuite/index.html・1回目）
+  - 「Industrial Applications」（https://www.schulergroup.com/digitalsuite/index.html・1回目）
+  - 「Fraccionamiento Industrial Santa Elena Col. Parque Industrial Chachapa,」（https://service.schulergroup.com/en/contact/05-contacts-worldwide/index.html・3回目）
+  - 「Anillo Industrial II int. 14,」（https://service.schulergroup.com/en/contact/05-contacts-worldwide/index.html・3回目）
+  - 「Condominio Industrial Quadrum,」（https://service.schulergroup.com/en/contact/05-contacts-worldwide/index.html・3回目）
+  - 「Parque Industrial Saltillo-Ramos,」（https://service.schulergroup.com/en/contact/05-contacts-worldwide/index.html・3回目）
+  - 「Planta 2a, Puerto 4a」（https://service.schulergroup.com/en/contact/05-contacts-worldwide/index.html・3回目）
+  - 「ANDRITZ Schuler sets global standards in metal forming technology. With a particular focus on automotive applications, Schuler provides unmatched expertise and technologies enabling versatile, efficient, and premium-quality component production.」（https://www.andritz.com/metals-en/locations/schuler-pressen-gp・3回目）
+  - 「Boost efficiency, gain real‑time data transparency, and optimize OEE—your straightforward path to digitalized, reliable, and future‑ready manufacturing.」（https://www.andritz.com/metals-en/locations/schuler-pressen-gp・3回目）
+  - 「The first Schuler body panel press is delivered to Adam Opel AG. The mass production of body panel blanks in the automotive industry opens up new sales markets for Schuler in the 1920s.」（https://www.andritz.com/metals-en/locations/schuler-pressen-gp・3回目）
+- 日本の担い手：
+  - 「ANDRITZ Schuler Pressen GmbH / メカニカルプレス - 鍛圧機械・塑性加工機 | 株式会社シーケービー」（https://www.ckb.co.jp/product/2411/・3回目）
+- 規模・親会社：
+  - 「Schuler develops the Laser Blanking Line. Instead of cutting blanks with dies, the new system uses a laser beam to cut blanks right from the sheet metal coil. Schuler also becomes part of the Austrian ANDRITZ Group.」（https://www.andritz.com/metals-en/locations/schuler-pressen-gp・3回目）
+  - 「With the acquisition of the Italian machine manufacturer」（https://www.andritz.com/metals-en/locations/schuler-pressen-gp・3回目）
+  - 「Explore who we are, our benefits for employees and more」（https://www.andritz.com/metals-en/locations/schuler-pressen-gp・3回目）
+- 検索結果の抜粋：
+  - 「ANDRITZ Schuler Pressen GmbH / メカニカルプレス - 鍛圧機械・塑性... — ANDRITZ Schuler / メカニカルプレス ... A part of me. Forging with Schuler. / Ein Teil von mir. Massivumformung mit Schuler. ANDRITZ Schuler」（https://www.ckb.co.jp/product/2411/・3回目）
+  - 「ANDRITZ Schuler Pressen GmbH — ANDRITZ Schuler Pressen GmbH Göppingen, Baden-Württemberg, Germany ANDRITZ Schuler sets global standards in metal forming technology. With a particular focus on automotive applications, Schuler provides unmatched expertise and technologies enabling versatile, efficient, and premium-quality component production.」（https://www.andritz.com/metals-en/locations/schuler-pressen-gp・3回目）
+  - 「ANDRITZ Schuler Pressen GmbH Hessdorf, Germany — ANDRITZ Schuler Pressen GmbH Hessdorf, Germany Mailing address ANDRITZ Schuler Pressen GmbH Louis-Schuler-Straße 1 91093 Heßdorf Tel.: +49 (0) 91 35 715-0 Fax: +49 (0) 91 35 715-103 E-Mail: andritz-schuler@andritz.com Web: www.schulergroup.com Distribution Tel.: +49 (0) 91 35 715-160 Fax: +49 (0) 91 35 715-109 Service Tel.: +49 (0) 91 35 715-358 Fax」（https://www.schulergroup.com/major/us/unternehmen/standorte/europa/deutschland/schuler_pressen_hessdorf/index.html・3回目）
+  - 「ANDRITZ Schuler Pressen GmbH, Hessdorf, Germany — Plant description of ANDRITZ Schuler Pressen in Hessdorf, Germany」（https://www.schulergroup.com/en/unternehmen/standorte/europa/deutschland/schuler_pressen_hessdorf/index.html・3回目）
+  - 「Andritz Schuler Pressen GmbH | Exhibitor Automechanika ... — ANDRITZ Schuler offers customized cutting-edge technology in all areas of forming – from the networked press to press shop planning. In addition to presses, our products include automation, dies, process know-how and service for the entire metalworking industry. Within the ANDRITZ Metris platform, we combine digital solutions for network」（https://automechanika-jakarta.hk.messefrankfurt.com/jakarta/en/exhibitor-search.detail.html/andritz-schuler-pressen-gmbh.html・3回目）
+  - 「ANDRITZ Schuler Pressen GmbH — ANDRITZ Schuler sets global standards in metal forming. Its expertise and cutting-edge technology enable versatile, efficient, and high-quality component manufacturing.」（https://www.andritz.com/metals-en/locations/schuler-pressen-gp・3回目）
+  - 「Financial reports - AndritzANDRITZ Annual ReportANDRITZ Schuler 2026 Company Profile: Valuation, Investors ...Gmbh Schuler Pressen Revenue, Funding & ValuationSchuler Group - WikipediaANDRITZ Schuler Pressen GmbH - Implisense — Annual, financial and sustainability reports Annual reports and financial reports can be downloaded below The strong response to this year’s employee engagement survey refl」（https://www.andritz.com/group-en/investors/investors-downloads/financial-reports・3回目）
+  - 「ANDRITZ Schuler 2026 Company Profile: Valuation, Investors ...Gmbh Schuler Pressen Revenue, Funding & ValuationSchuler Group - WikipediaANDRITZ Schuler Pressen GmbH - Implisense — Information on acquisition, funding, investors, and executives for ANDRITZ Schuler. Use the PitchBook Platform to explore the full profile. Gmbh Schuler Pressen has revenue of $6,331,070, estimated valuation of $20,300,0」（https://pitchbook.com/profiles/company/108254-80・3回目）
+- 創業年度：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部19頁・検索12回）
+- 株主：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部19頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部19頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部19頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部19頁・検索12回）
+- 料金：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部19頁・検索12回）
+- 連絡先：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部19頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部19頁・検索12回）
+
+## ASSERVIMENTIPRESSE
+- 公式URL：https://asservimentipresse.it（given）
+- 採用・広告の製品：
+  - 「Macchine lavorazione lamiera, Impianti automazione presse, aspi, raddrizzatrici - Asservimenti Presse」（https://www.asservimentipresse.it/・1回目）
+  - 「info@asservimentipresse.it」（https://www.asservimentipresse.it/・1回目）
+  - 「Impianti per servopressa」（https://www.asservimentipresse.it/・1回目）
+  - 「ASSERVIMENTIPRESSE S.R.L.」（https://www.asservimentipresse.it/・1回目）
+  - 「Produzione di impianti per l’automazione di presse」（https://www.asservimentipresse.it/・1回目）
+  - 「Lunga esperienza nella progettazione di macchine di qualità」（https://www.asservimentipresse.it/・1回目）
+  - 「Produzione Made in Italy」（https://www.asservimentipresse.it/・1回目）
+  - 「Impianti per Servopresse, compatti e tradizionali, svolgitori, raddrizzatrici, alimentatori」（https://www.asservimentipresse.it/・1回目）
+  - 「Asservimentipresse S.R.L.」（https://www.asservimentipresse.it/・1回目）
+  - 「impianti per l’automazione di presse」（https://www.asservimentipresse.it/・1回目）
+  - 「Nata dall’esperienza trentennale dei suoi fondatori nel settore, attualmente l’azienda esporta la propria tecnologia in」（https://www.asservimentipresse.it/・1回目）
+  - 「Attraverso l’ottimizzazione del nostro ciclo produttivo e la nostra」（https://www.asservimentipresse.it/・1回目）
+- 製造業の実績：
+  - 「” per: Automotive, Particolari per macchinari agricoli, Generatori Eolici, Serramenti, Elettrodomestici, Piani e Cappe per Cucine, Posaterie.」（https://www.asservimentipresse.it/・1回目）
+- 連絡先：
+  - 「info@asservimentipresse.it」（https://www.asservimentipresse.it/・1回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）
+
+## ASS Maschinenbau GmbH
+- 公式URL：https://www.ass-automation.com/de/（given）
+- 採用・広告の製品：
+  - 「Mit über 40 Jahren Erfahrung ist die ASS Ihr verlässlicher Ansprechpartner für Greiferteile, Roboterhände und Automationsanlagen.」（https://www.ass-automation.com/de/・1回目）
+  - 「Klimaneutraler Standort seit 2021 durch strategische sowie nachhaltige Unternehmensplanung und Einbindung aller Prozesse zur Reduktion des CO2-Fußabdrucks.」（https://www.ass-automation.com/de/・1回目）
+  - 「Es ist unser tägliches Ziel, die stetig steigenden Anforderungen unserer Kunden zu erfüllen. Dabei orientieren wir uns stehts am Kundennutzen und stehen mit unseren langlebigen Produkten und schnellem Service für Qualität und Zuverlässigkeit.」（https://www.ass-automation.com/de/・1回目）
+  - 「Um bestehende Infrastrukturen und Anlagentechnik beim Kunden weiter nutzen zu können, kombinieren wir gezielt unser gesamtes Repertoire, für eine leichte und ressourcenschonende Handhabungslösung. Auch bei der Planung von energieeffizienten Neuanlagen leistet ein reduziertes Greifergewicht einen entscheidenden Beitrag. Dies entspricht voll unserem konsequenten Ansatz im Sinne der Nachhaltigkeit.」（https://www.ass-automation.com/de/・1回目）
+  - 「Wir werden den Prozess zur Steigerung der Nachhaltigkeit weiter geplant und sinnvoll weiterführen. Eines unserer Ziele ist es, den CO2-Fußabdruck weiter zu reduzieren, die Qualität zu verbessern und dies bei konstanten Preisen umzusetzen. Unsere Kunden erfahren so einen Mehrwert ohne zusätzliche Belastungen.」（https://www.ass-automation.com/de/・1回目）
+  - 「ASS steht für technologische Kompetenz und innovative Lösungen. In der aktuellen weltwirtschaftlichen Situation treibt unser Team den kontinuierlichen Verbesserungsprozess intensiv voran, um unseren Kunden die nötige Verlässlichkeit für Projektdurchführungen zu geben, den Materialbedarf an Greiferkomponenten ab Lager zu decken und zugleich neue Produktinnovationen voranzutreiben.」（https://www.ass-automation.com/de/・1回目）
+  - 「zur Finanzierung zerttclerer Projekte im al 2026,」（https://www.ass-automation.com/images/logos/Primaklima_800.png・2回目）
+- 製造業の実績：
+  - 「Wir werden den Prozess zur Steigerung der Nachhaltigkeit weiter geplant und sinnvoll weiterführen. Eines unserer Ziele ist es, den CO2-Fußabdruck weiter zu reduzieren, die Qualität zu verbessern und dies bei konstanten Preisen umzusetzen. Unsere Kunden erfahren so einen Mehrwert ohne zusätzliche Belastungen.」（https://www.ass-automation.com/de/・1回目）
+- 連絡先：
+  - 「info@ass-maschinenbau.de」（https://www.ass-automation.com/de/・1回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像4件／外部24頁・検索12回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像4件／外部24頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像4件／外部24頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像4件／外部24頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像4件／外部24頁・検索12回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像4件／外部24頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像4件／外部24頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像4件／外部24頁・検索12回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像4件／外部24頁・検索12回）
+
+## ATLANTA Antriebssysteme GmbH
+- 公式URL：https://www.atlantagmbh.de/（given）
+- 連絡先：info@atlantadrives.com（https://atlantadrives.com/contact_captcha.php・3回目）
+- 連絡先：info@atlantagmbh.de（https://atlantadrives.com/contact_captcha.php・3回目）
+- 連絡先：info@eie.fi（https://atlantadrives.com/contact_captcha.php・3回目）
+- 採用・広告の製品：
+  - 「Innovative Antriebssysteme für höchste Ansprüche」（https://www.atlantagmbh.de/・1回目）
+  - 「bieten wir innovative Lösungen, die den stetig wachsenden Anforderungen moderner Produktionstechnologien gerecht werden. An unseren Standorten in Bietigheim-Bissingen und Korntal-Münchingen fertigen wir」（https://www.atlantagmbh.de/・1回目）
+  - 「. Dank kontinuierlicher Weiterentwicklung reagieren wir flexibel auf die komplexen Herausforderungen der Antriebstechnik und bieten neben unserem breiten Katalogprogramm auch maßgeschneiderte, kundenspezifische Lösungen im Bereich」（https://www.atlantagmbh.de/・1回目）
+  - 「Sonderteile und Sonder-Präzisionsgetriebe」（https://www.atlantagmbh.de/・1回目）
+  - 「Unser Produktportfolio」（https://www.atlantagmbh.de/・1回目）
+  - 「ATLANTA Antriebssysteme ist Ihr erfahrener Partner für die Fertigung hochwertiger, geradverzahnter Kegelräder. Seit über 60 Jahren produzieren wir präzise und belastbare Kegelräder für anspruchsvolle industrielle Anwendungen.」（https://www.atlantagmbh.de/・1回目）
+  - 「Nachhaltige Entformung im Kunststoffspritzguss」（https://www.atlantagmbh.de/・1回目）
+  - 「Innovativ, umweltschonend, wartungsarm - Die nachhaltige Entformungslösung für die Spritzgusstechnik.」（https://www.atlantagmbh.de/・1回目）
+  - 「HS-Hubgetriebe für Kunststoffspritzguss」（https://www.atlantagmbh.de/・1回目）
+  - 「Mit unserem innovativen, webbasierten Tool haben Sie jederzeit und von jedem Endgerät aus Zugriff auf umfassende technische Produktdaten der ATLANTA Zahnstangen.」（https://www.atlantagmbh.de/・1回目）
+  - 「Kundenspezifische Getriebelösungen für höchste Ansprüche」（https://www.atlantagmbh.de/・1回目）
+  - 「Wir bieten Ihnen maßgeschneiderte Getriebelösungen, die speziell nach Ihren individuellen Anforderungen entwickelt und produziert werden.」（https://www.atlantagmbh.de/・1回目）
+- 製造業の実績：
+  - 「Germany (Main Factory)」（https://atlantadrives.com/contact_captcha.php・3回目）
+  - 「ma.in.a. s.r.l. (Macchine Industriali Accessori)」（https://atlantadrives.com/contact_captcha.php・3回目）
+  - 「2 Yishun Industrial Street 1 #04-04」（https://atlantadrives.com/contact_captcha.php・3回目）
+  - 「ATLANTA IS NOT JUST A MANUFACTURER, BUT IS THE MOST INNOVATIVE PLAYER IN THE DESIGN AND CREATION OF HIGH-PERFORMANCE DRIVE SYSTEMS」（https://www.mainasrl.it/en/atlanta-en/・3回目）
+  - 「ATLANTA is not a mere third-party supplier nor a mass manufacturer, but a high-tech partner for those facing market challenges, guaranteeing value, innovation, and concrete results.」（https://www.mainasrl.it/en/atlanta-en/・3回目）
+- 規模・親会社：
+  - 「Revenue, result, equity and the multi-year history are in the full profile.」（https://app.implisense.com/en/companies/atlanta-antriebssysteme-gmbh-korntal-muenchingen--DEXG3YZB2K26・3回目）
+  - 「Revenue, result and equity across every available year」（https://app.implisense.com/en/companies/atlanta-antriebssysteme-gmbh-korntal-muenchingen--DEXG3YZB2K26・3回目）
+- 連絡先：
+  - 「info@atlantadrives.com」（https://atlantadrives.com/contact_captcha.php・3回目）
+  - 「info@automotion.com.br」（https://atlantadrives.com/contact_captcha.php・3回目）
+  - 「info@atlanta-drive.fr」（https://atlantadrives.com/contact_captcha.php・3回目）
+  - 「Email: sales@fluroengg.com」（https://atlantadrives.com/contact_captcha.php・3回目）
+  - 「info@reich-aandrijftechniek.nl」（https://atlantadrives.com/contact_captcha.php・3回目）
+  - 「info@eksimmuhendislik.com」（https://atlantadrives.com/contact_captcha.php・3回目）
+  - 「Would you like to know more? Contact us or explore the other pages dedicated to ATLANTA」（https://www.mainasrl.it/en/atlanta-en/・3回目）
+  - 「info@mainasrl.it - maina@pec.mainasrl.it」（https://www.mainasrl.it/en/atlanta-en/・3回目）
+  - 「AI-powered research for publicly available contacts: name, role, phone, email, LinkedIn.」（https://app.implisense.com/en/companies/atlanta-antriebssysteme-gmbh-korntal-muenchingen--DEXG3YZB2K26・3回目）
+- 検索結果の抜粋：
+  - 「ATLANTA Drive Systems: Gearboxes, Rack and Pinions & Special ... — Innovative Drive Systems for the highest demands Welcome to ATLANTA Antriebssysteme GmbH For almost 100 years, we have been your reliable partner for high-quality drive solutions as a medium-sized family business. With our focus on the development, design, and manufacturing of high-quality drive systems, we offer innovative solutio」（https://www.atlantagmbh.de/en/・3回目）
+  - 「Vertretungen Ausland – ATLANTA Antriebssysteme GmbH — Antriebstechnik von ATLANTA: Ihr Experte für Zahnstangen, Schnecken- & Spindelhubgetriebe sowie Sonderanfertigungen im Maschinenbau – Made in Germany.」（https://www.atlantagmbh.de/pages/vertretungen-ausland・3回目）
+  - 「ATLANTA Antriebssysteme: Getriebe, Zahnstangen ... — Innovative Antriebssysteme für höchste Ansprüche Herzlich Willkommen bei ATLANTA Antriebssysteme GmbH Seit fast 100 Jahren sind wir als mittelständisches Familienunternehmen Ihr verlässlicher Partner für hochwertige Antriebslösungen. Mit unserem Fokus auf die Entwicklung, Konstruktion und Herstellung von hochqualitativen Antriebssystemen bieten 」（https://atlanta-service.de/・3回目）
+  - 「Atlanta Antriebssysteme GmbH, Korntal-Münchingen — Sep 28, 2026 · Atlanta Antriebssysteme GmbH in Korntal-Münchingen Gegründet 2006 Gewinn Umsatz Jahresabschluss Bonität Management: Ralf-Thomas Schmidt u.a」（https://www.companyhouse.de/Atlanta-Antriebssysteme-GmbH-Korntal-Muenchingen・3回目）
+  - 「ATLANTA Antriebssysteme: Getriebe, Zahnstangen ... — Innovative Antriebssysteme für höchste Ansprüche Herzlich Willkommen bei ATLANTA Antriebssysteme GmbH Seit fast 100 Jahren sind wir als mittelständisches Familienunternehmen Ihr verlässlicher Partner für hochwertige Antriebslösungen. Mit unserem Fokus auf die Entwicklung, Konstruktion und Herstellung von hochqualitativen Antriebssystemen bieten 」（https://www.atlantagmbh.de/・3回目）
+  - 「Atlanta - ma.in.a. srl — ATLANTA Antriebssysteme GmbH CONSULTANT AND SALES REPRESENTATIVE FOR ITALY ATLANTA IS NOT JUST A MANUFACTURER, BUT IS THE MOST INNOVATIVE PLAYER IN THE DESIGN AND CREATION OF HIGH-PERFORMANCE DRIVE SYSTEMS The German company, founded in 1929, has always invested in research, quality, and process.」（https://www.mainasrl.it/en/atlanta-en/・3回目）
+  - 「Atlanta Antriebssysteme GmbH - Implisense — The key figures on balance sheet total, revenue, profit and number of employees were generated by a fully automatic extraction from published annual financial statements. The last published balance sheet total of the Atlanta Antriebssysteme GmbH is 2023 at 20 M €. The difference compared to the previous year is -10.2%. See all 2 entries」（https://implisense.com/en/companies/atlanta-antriebssysteme-gmbh-korntal-muenchingen-DEXG3YZB2K26・3回目）
+- 創業年度：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部19頁・検索12回）
+- 株主：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部19頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部19頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部19頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部19頁・検索12回）
+- 料金：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部19頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部19頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部19頁・検索12回）
+
+## ATLAS İTHALAT İHR.TİC.LTD.ŞTİ.
+- 公式URL：https://www.atlasithalat.com.tr/（given）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 採用・広告の製品：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 製造業の実績：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
 
 ## Acciojob
 - 公式URL：http://www.acciojob.com（given）
@@ -621,6 +1029,136 @@
 - 料金：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部35頁・検索12回）
 - 再販・ホワイトラベル：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部35頁・検索12回）
 
+## Adcreative
+- 公式URL：https://adcreative.ai（given）
+- 採用・広告の製品：
+  - 「AI Ad Creative Generator for High-Converting Ads | AdCreative.ai」（https://www.adcreative.ai/・1回目）
+  - 「I struggle to make video ads」（https://www.adcreative.ai/・1回目）
+  - 「I’m spending money, but ads aren’t working well」（https://www.adcreative.ai/・1回目）
+  - 「Easily create video ads for every use case」（https://www.adcreative.ai/・1回目）
+  - 「Create high-performing video ads for any use case: UGC-style content, product videos, stock visuals, or fashion clips. Just upload an image — we handle the rest.」（https://www.adcreative.ai/・1回目）
+  - 「Understand why your ads underperform」（https://www.adcreative.ai/・1回目）
+  - 「+ create new ads built on what works」（https://www.adcreative.ai/・1回目）
+  - 「Analyze your creative performance and generate high-performing new ads trained on patterns learned from」（https://www.adcreative.ai/・1回目）
+  - 「Choose from our countless ready-made templates or create your own, then generate unlimited on-brand ads for every format and platform.」（https://www.adcreative.ai/・1回目）
+  - 「Generate multiple ad versions, A/B test them easily, and keep running only the ads that perform best.」（https://www.adcreative.ai/・1回目）
+  - 「AI tool for advertising」（https://www.adcreative.ai/・1回目）
+  - 「Create ads, texts, photos, and videos that outperform.」（https://www.adcreative.ai/・1回目）
+- 製造業の実績：
+  - 「Trusted by 4M+ Marketers Using」（https://www.adcreative.ai/・1回目）
+- 再販・ホワイトラベル：
+  - 「Import your brand in seconds」（https://www.adcreative.ai/・1回目）
+  - 「Pick the perfect format for your campaign and our AI will adapt your brand into any ad style you need in seconds.」（https://www.adcreative.ai/・1回目）
+  - 「The major advantage of using AdCreative is that you can customize your brands on both fonts and colors. The AI recommendation works like a charm for us and we have been taking help from it non-stop. It is super easy with very attractive interface to use and delivers the expected output even for people who have less design knowledge.」（https://www.adcreative.ai/・1回目）
+  - 「Unlock Pro Features to transform your brands into conversion powerhouses」（https://www.adcreative.ai/・1回目）
+  - 「Brands are the foundation of your creatives on AdCreative.ai. By creating a brand, you can upload your logo, brand colors, brand descriptions, and connect your ad accounts. This allows our machine-learning model to tailor your creative designs and predictions to your brand, ensuring the highest quality output.」（https://www.adcreative.ai/・1回目）
+  - 「By connecting your ad accounts, our AI can analyze your creatives and provide you with insights that you won’t find anywhere else. These insights can include your average CTR in your brand category, your best-performing colors and creatives, and much more.」（https://www.adcreative.ai/・1回目）
+  - 「Integrations allow you to connect your ad accounts to your brands on AdCreative.ai. This helps to fine-tune our machine-learning model for you, ensuring that the creative designs and predictions you see are specifically tailored to your brand.」（https://www.adcreative.ai/・1回目）
+  - 「AI-Driven Ad Solutions for Agencies: Scale & Impress」（https://www.adcreative.ai/use-case/agencies・1回目）
+  - 「AdCreative.ai sets itself apart by offering unparalleled flexibility with our Creative Studio. Unlike any other platform, our AI-generated ad creatives are fully customizable. This means you can tweak, refine, and personalize each creative to ensure it perfectly aligns with your brand’s identity and goals.」（https://www.adcreative.ai/use-case/agencies・1回目）
+  - 「Agency partnership program」（https://www.adcreative.ai/use-case/agencies・1回目）
+  - 「Join our agency partnership program and refer your customers to AdCreative.ai to earn 30% of their monthly recurring revenue forever. Platinum members also receive numerous leads from our program, connecting you with users who are actively seeking agency services.」（https://www.adcreative.ai/use-case/agencies・1回目）
+  - 「Unlock Pro Features to transform your brands into conversion powerhouses」（https://www.adcreative.ai/use-case/agencies・1回目）
+- 日本の担い手：
+  - 「AdCreative.aiは日本語対応？UI・広告コピー・サポートを実機検証 | AIツールアイ」（https://aitool-eye.com/adcreativeai-nihongo-taiou/・3回目）
+  - 「AdCreative.aiは日本語対応？UI・広告コピー・サポートを実機検証」（https://aitool-eye.com/adcreativeai-nihongo-taiou/・3回目）
+  - 「「海外のAI広告ツールは便利そうだけど、英語UIでつまずきそう」「日本語の広告コピーがちゃんと作れるのか不安」と感じていませんか」（https://aitool-eye.com/adcreativeai-nihongo-taiou/・3回目）
+  - 「AdCreative.aiは海外発のAI広告生成ツールで、日本語対応は「部分対応」というのが正直なところです」（https://aitool-eye.com/adcreativeai-nihongo-taiou/・3回目）
+  - 「この記事では、AdCreative.aiの日本語対応をUI・広告コピー生成・カスタマーサポート・ドキュメントの4観点で詳しく検証します」（https://aitool-eye.com/adcreativeai-nihongo-taiou/・3回目）
+  - 「日本人ユーザーが快適に使うコツも合わせて解説します」（https://aitool-eye.com/adcreativeai-nihongo-taiou/・3回目）
+  - 「4つの観点で日本語対応がどこまで進んでいるか」（https://aitool-eye.com/adcreativeai-nihongo-taiou/・3回目）
+  - 「AdCreative.aiの日本語対応 まとめ表」（https://aitool-eye.com/adcreativeai-nihongo-taiou/・3回目）
+  - 「1. UI（操作画面）の日本語対応」（https://aitool-eye.com/adcreativeai-nihongo-taiou/・3回目）
+  - 「2. 広告コピー生成の日本語対応」（https://aitool-eye.com/adcreativeai-nihongo-taiou/・3回目）
+  - 「日本人ユーザーが快適に使うためのチェックリスト」（https://aitool-eye.com/adcreativeai-nihongo-taiou/・3回目）
+  - 「総合的には「英語UIに慣れれば実用範囲」ですが、「完全に日本語化されていることを期待すると裏切られる」という温度感です」（https://aitool-eye.com/adcreativeai-nihongo-taiou/・3回目）
+- 規模・親会社：
+  - 「Invite customers, generate revenue」（https://www.adcreative.ai/use-case/agencies・1回目）
+  - 「Join our agency partnership program and refer your customers to AdCreative.ai to earn 30% of their monthly recurring revenue forever. Platinum members also receive numerous leads from our program, connecting you with users who are actively seeking agency services.」（https://www.adcreative.ai/use-case/agencies・1回目）
+  - 「Track time saved and revenue generated with ease.」（https://www.adcreative.ai/enterprise・1回目）
+  - 「Effortlessly track the time saved across your creative processes and monitor revenue generated from your campaigns with detailed, easy-to-read reports. Our platform allows you to measure the impact on your bottom line while optimizing for greater efficiency.」（https://www.adcreative.ai/enterprise・1回目）
+  - 「1-99 employees」（https://www.adcreative.ai/enterprise・1回目）
+  - 「100+ employees」（https://www.adcreative.ai/enterprise・1回目）
+  - 「AdCreative.aiの親会社は、東京証券取引所に上場しているAppier Group（エイピア）です」（https://aitool-eye.com/adcreativeai-nihongo-taiou/・3回目）
+  - 「東京証券取引所、プライム市場上場 (証券コード: 4180)」（https://www.appier.com/ja-jp/press-media/adcreative-ai-product-launch・3回目）
+  - 「2025年5月には、東京証券取引所に上場するAppier Group（エイピア）が主力AI製品として正式統合」（https://aitool-eye.com/adcreativeai-kanzen-guide/・3回目）
+  - 「Appier Group（東京証券取引所上場）」（https://aitool-eye.com/adcreativeai-kanzen-guide/・3回目）
+  - 「4. 親会社が東証上場で信頼性が高い」（https://aitool-eye.com/adcreativeai-kanzen-guide/・3回目）
+  - 「親会社のAppier Groupは東京証券取引所に上場している企業です」（https://aitool-eye.com/adcreativeai-kanzen-guide/・3回目）
+- 連絡先：
+  - 「We offer refunds within 7 days for monthly plans and 30 days for yearly plans, provided the platform hasn’t been used (e.g., generating creatives, downloading assets). To request a refund, reach out via live chat or email us at」（https://www.adcreative.ai/・1回目）
+  - 「contact@adcreative.ai」（https://www.adcreative.ai/・1回目）
+  - 「We offer refunds within 7 days for monthly plans and 30 days for yearly plans, provided the platform hasn’t been used (e.g., generating creatives, downloading assets). To request a refund, reach out via live chat or email us at」（https://www.adcreative.ai/use-case/agencies・1回目）
+  - 「contact@adcreative.ai」（https://www.adcreative.ai/use-case/agencies・1回目）
+  - 「We offer refunds within 7 days for monthly plans and 30 days for yearly plans, provided the platform hasn’t been used (e.g., generating creatives, downloading assets). To request a refund, reach out via live chat or email us at」（https://www.adcreative.ai/enterprise・1回目）
+  - 「contact@adcreative.ai」（https://www.adcreative.ai/enterprise・1回目）
+  - 「Quick help when you need it, through email, chat, or phone.」（https://www.quickads.ai/blog/ai-white-label-transforming-ad-creation・3回目）
+  - 「B2B email lists」（https://growjo.com/company/AdCreative.ai・3回目）
+  - 「B2B Email Finder」（https://growjo.com/company/AdCreative.ai・3回目）
+- 検索結果の抜粋：
+  - 「AdCreative .aiとは？料金・活用方法・ 導入 支援 | クラレボ — AdCreative .aiとは？料金・活用方法・ 導入 支援 | クラレボ クラレボ https://kurarebo.jp > adcreative-ai」（https://kurarebo.jp/adcreative-ai/・3回目）
+  - 「AdCreative .aiは 日本 語対応？UI・広告コピー・サポートを実機 ... — AdCreative .aiは 日本 語対応？UI・広告コピー・サポートを実機 ... aitool-eye.com https://aitool-eye.com > AdCreative.ai」（https://aitool-eye.com/adcreativeai-nihongo-taiou/・3回目）
+  - 「SOMINと AdCreative .ai、Smartly、Meta Advantage+の比較。 — SOMINと AdCreative .ai、Smartly、Meta Advantage+の比較。 SoMin.ai https://somin.ai > ホーム > ペイドメディア」（https://somin.ai/ja/somin-vs-paid-media-tools/・3回目）
+  - 「Appier (エイピア) 主力AI製品に『 AdCreative .ai』を統合 — Appier (エイピア) 主力AI製品に『 AdCreative .ai』を統合 Appier https://www.appier.com > adcreative-ai-product-launch」（https://www.appier.com/ja-jp/press-media/adcreative-ai-product-launch・3回目）
+  - 「AdCreative .ai: AI Ad Creative Generator for High-Converting Ads — AdCreative .ai: AI Ad Creative Generator for High-Converting Ads AdCreative.ai https://www.adcreative.ai」（https://www.adcreative.ai/・3回目）
+  - 「Septeni Ad Creative 株式会社(SAC/サック)｜広告 ... — Septeni Ad Creative 株式会社(SAC/サック)｜広告 ... Septeni Ad Creative株式会社 https://www.septeni-adcreative.co.jp」（https://www.septeni-adcreative.co.jp/・3回目）
+  - 「DECA Ad Creative ｜AIで広告クリエイティブの制作・検証を ... — DECA Ad Creative ｜AIで広告クリエイティブの制作・検証を ... deca.marketing https://deca.marketing > service > marketing > creative」（https://deca.marketing/service/marketing/ad/creative/・3回目）
+  - 「AdCreative .aiの使い方完全ガイド【2026年最新・日本語対応】 — AdCreative .aiの使い方完全ガイド【2026年最新・日本語対応】 aitool-eye.com https://aitool-eye.com > AdCreative.ai」（https://aitool-eye.com/adcreativeai-kanzen-guide/・3回目）
+  - 「AdCreative .aiとは？評判・料金・機能【無料あり】 | AI PICKS — AdCreative .aiとは？評判・料金・機能【無料あり】 | AI PICKS aipicks.jp https://aipicks.jp > AIマーケティング」（https://aipicks.jp/tool/adcreative-ai・3回目）
+  - 「AdCreative .ai (@adcreativeai) - Facebook — AdCreative .ai (@adcreativeai) - Facebook Facebook https://www.facebook.com > ... > Computer Company」（https://www.facebook.com/adcreativeai/・3回目）
+  - 「Appier Launches AdCreative .ai in Vietnam to Accelerate ... — Appier Launches AdCreative .ai in Vietnam to Accelerate ... Appier https://www.appier.com > press-media」（https://www.appier.com/en/press-media/appier-launches-adcreative.ai-in-vietnam-to-accelerate-genai-powered-creatives-transformation-for-brands・3回目）
+  - 「AdCreative .ai - LinkedIn — AdCreative .ai - LinkedIn LinkedIn https://www.linkedin.com > company」（https://www.linkedin.com/company/adcreativeaiofficial/・3回目）
+- 創業年度：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部38頁・検索12回）
+- 株主：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部38頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部38頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部38頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部38頁・検索12回）
+- 料金：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部38頁・検索12回）
+
+## Additive Marking GmbH
+- 公式URL：https://additive-marking.de/（given）
+- 採用・広告の製品：
+  - 「Industrielle Prozesse.」（https://additive-marking.de/・1回目）
+  - 「Wir bereiten den Weg zum digitalen Produktpass. Mit unseren Kunden. Von der Datenanalyse und -migration bis zur Produktkennzeichnung.」（https://additive-marking.de/・1回目）
+  - 「+ Digitaler Produktpass」（https://additive-marking.de/・1回目）
+  - 「Kostenloses Erstgespräch」（https://additive-marking.de/・1回目）
+  - 「DIGITALER PRODUKTPASS」（https://additive-marking.de/・1回目）
+  - 「Wir machen Ihre Produkte smart und verknüpfen Sie mit ihrem individuellen digitalen Produktpass. Einfach und sicher!」（https://additive-marking.de/・1回目）
+  - 「Wir schaffen Mehrwerte anstatt "nur" Regulatorik zu erfüllen: ESPR, Battery Passport, GPSR, MDR etc.」（https://additive-marking.de/・1回目）
+  - 「Mit unserer DPM Scan Pro Technologie erfassen wir jeden Code! Unabhängig vom Material. Unabhängig vom Kontrast.」（https://additive-marking.de/・1回目）
+  - 「PRODUKT-KENNZEICHNUNG」（https://additive-marking.de/・1回目）
+  - 「Wir automatisieren Produktkennzeichnung:」（https://additive-marking.de/・1回目）
+  - 「Im 3D-Druck, per Laser, per Label, per Nadelprägung.」（https://additive-marking.de/・1回目）
+  - 「Wir kennzeichnen Ihre Produkte nach Ihren Vorgaben! Unabhängig von der Größe. Unabhängig vom Material!」（https://additive-marking.de/・1回目）
+- 製造業の実績：
+  - 「Direct Manufacturing Research Center (DMRC) e.V.」（https://additive-marking.de/・1回目）
+  - 「Design for Additive Manufacturing (AM)」（https://additive-marking.de/・1回目）
+  - 「Mit unserer Technologie im Backend des digital Warehouses bietet Replique nun ein Alleinstellungsmerkmal: Sicher und individuell rückverfolgbare Bauteile mit direkter Verknüpfung zum Replique-Qualitätsreport.」（https://additive-marking.de/・1回目）
+  - 「Patent: Additive manufacturing process for a component with at least one individual marking」（https://www.northdata.com/Additive+Marking+GmbH,+Paderborn/HRB+13636・3回目）
+- 規模・親会社：
+  - 「For this company, Revenue numbers are only available to」（https://www.northdata.com/Additive+Marking+GmbH,+Paderborn/HRB+13636・3回目）
+  - 「For this company, Employees numbers are only available to」（https://www.northdata.com/Additive+Marking+GmbH,+Paderborn/HRB+13636・3回目）
+- 連絡先：
+  - 「If you put a company on your watch list, we'll notify you on your email」（https://www.northdata.com/Additive+Marking+GmbH,+Paderborn/HRB+13636・3回目）
+- 検索結果の抜粋：
+  - 「Homepage der Additive Marking GmbH - End-2-End Traceability ... — Wir sind die Additive Marking GmbH! Schon vor der Ausgründung aus dem DMRC der Universität Paderborn spezialisierten wir uns auf innovative Lösungen im Dreiklang aus Additiver Fertigung, Softwareentwicklung und Traceability.」（https://additive-marking.de/・3回目）
+  - 「Additive Marking GmbH - End-2-End Traceability Solutions — We have fully digitized the laser marking of products and tools and thus raised process reliability to a new level! The marking of small diameter spindles was a challenge even for us. But challenge accepted and delivered.」（https://additive-marking.de/en/home-en/・3回目）
+  - 「ソフトウェア新興企業Additive Markingが資金調達ラウンドを成功裏に... — Mar 31, 2022 · 産業用3Dプリンティングにおいて、Additive Marking GmbHは、積層造形プロセス中に、堅牢で機械読み取り可能なコードを製品上に直接、分離不可能に作成できる特許出願中のプロセスを持つ世界で唯一のプロバイダーです。」（https://3druck.com/ja/産業/ソフトウェア・スタートアップ-添加マーキング-44107201/・3回目）
+  - 「Additive Marking GmbH, Paderborn, Germany - North Data — Additive Marking GmbH, Paderborn, Germany, District Court of Paderborn HRB 13636: Earnings, Public funding, Patents, Revenue, Network, Financial information」（https://www.northdata.com/Additive+Marking+GmbH,+Paderborn/HRB+13636・3回目）
+  - 「Additive Marking GmbH - LinkedIn — With over 39+ years of combined experience in the Additive Manufacturing field, we are specialists in the application of this rapidly advancing technology for supply chain optimisation and...」（https://www.linkedin.com/company/additivemarking・3回目）
+  - 「Projekte - English - Additive Marking GmbH — Additive Marking advised on the development of traceability for the manufacture of spindles for helicoils, which could not be conventionally marked due to their small and curved surfaces. A project was carried out to integrate direct markings to improve traceability.」（https://additive-marking.de/en/projects/・3回目）
+  - 「Additive Marking GmbH - End-2-End Traceability Solutions — We have fully digitized the laser marking of products and tools and thus raised process reliability to a new level! The marking of small diameter spindles was a challenge even for us.」（https://additive-marking.de/en/home-en/・3回目）
+  - 「Additive Marking 2026 Company Profile: Valuation, Funding ...Additive Marking - 2025 Company Profile, Team, Funding ...Additive Marking Revenue, Funding & Valuation - prospeo.ioAdditive Marking - Crunchbase Company Profile & FundingAdditive Marking - Overview, News & Similar companies ...Additive Marking GmbH, Paderborn, Germany - North DataAdditive Marking - Products, Competitors, Financials ... 」（https://pitchbook.com/profiles/company/435079-72・3回目）
+  - 「Additive Marking - 2025 Company Profile, Team, Funding ...Additive Marking Revenue, Funding & Valuation - prospeo.ioAdditive Marking - Crunchbase Company Profile & FundingAdditive Marking - Overview, News & Similar companies ...Additive Marking GmbH, Paderborn, Germany - North DataAdditive Marking - Products, Competitors, Financials ... — Sep 14, 2025 · Additive Marking is a funded company based i」（https://tracxn.com/d/companies/additive-marking/__ABhw789IQdXzs--0gu4nJOHytBdflVQHB6yl5KkbE6g・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）
+
 ## Alephee
 - 公式URL：https://www.alephee.com（given）
 - 採用・広告の製品：
@@ -680,6 +1218,67 @@
 - 料金：記載なし（3回確認済み：公式1頁／PDF・画像4件／外部26頁・検索12回）
 - 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像4件／外部26頁・検索12回）
 - 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像4件／外部26頁・検索12回）
+
+## Alexanderwerk AG
+- 公式URL：https://www.alexanderwerk.com/de/（given）
+- 採用・広告の製品：
+  - 「Alexanderwerk ist der Premium-Maschinen­bauer für Kompaktier- und Granulier­anlagen weltweit.」（https://www.alexanderwerk.com/de/・1回目）
+  - 「Gesamtprozess im Fokus」（https://www.alexanderwerk.com/de/・1回目）
+  - 「Wir sind der Lösungspartner für technisch anspruchsvolle Anlagen und Prozesse.」（https://www.alexanderwerk.com/de/・1回目）
+  - 「Prozess- und Verfahrens­versuche in unseren internationalen Test­einrich­tungen.」（https://www.alexanderwerk.com/de/・1回目）
+  - 「Anlagen, die wir produzieren」（https://www.alexanderwerk.com/de/・1回目）
+  - 「Google reCAPTCHA Enterprise (Prüfung der natürlichen Person)」（https://www.alexanderwerk.com/de/・1回目）
+  - 「Klicken Sie hier, um auf allen Domains des verarbeitenden Unternehmens zu widersprechen.」（https://www.alexanderwerk.com/de/・1回目）
+  - 「Google reCAPTCHA Enterprise (Prüfung der natürlichen Person)」（https://www.alexanderwerk.com/de/de/service/partnerschaften/・1回目）
+  - 「Klicken Sie hier, um auf allen Domains des verarbeitenden Unternehmens zu widersprechen.」（https://www.alexanderwerk.com/de/de/service/partnerschaften/・1回目）
+  - 「Google reCAPTCHA Enterprise (Prüfung der natürlichen Person)」（https://www.alexanderwerk.com/de/de/service/partnerschaften/assets/images/7/alexanderwerk-logo-b47dcbc7.svg・2回目）
+  - 「Klicken Sie hier, um auf allen Domains des verarbeitenden Unternehmens zu widersprechen.」（https://www.alexanderwerk.com/de/de/service/partnerschaften/assets/images/7/alexanderwerk-logo-b47dcbc7.svg・2回目）
+  - 「Google reCAPTCHA Enterprise (Prüfung der natürlichen Person)」（https://www.alexanderwerk.com/de/de/service/partnerschaften/assets/images/2/alexanderwerk-logo-11bbef0d.svg・2回目）
+- 製造業の実績：
+  - 「Modern machines from Alexanderwerk can help you improve your manufacturing processes, increase your throughput and efficiency, and eliminate problems and bottlenecks. Our experienced staff can help you explore how our technology can work for you.」（https://alexanderwerkinc.com/・3回目）
+  - 「Today, the Alexanderwerk Group is a leading manufacturer of high-technology compaction and granulation machines for the chemical, food, life science, nuclear and pharmaceutical industries. For decades, companies all over the world have been using solutions supplied by Alexanderwerk.」（https://alexanderwerkinc.com/・3回目）
+  - 「With our global footprint and offices in USA, Germany, India, P.R. China and Colombia we are next door to your plant or R&D site.」（https://alexanderwerkinc.com/・3回目）
+  - 「Case Study – Alexanderwerk AG – Terra Solutions AG」（https://terrasolutions.com/customers/case-studies/case-study-alexanderwerk-ag/・3回目）
+  - 「Case Study – Alexanderwerk AG」（https://terrasolutions.com/customers/case-studies/case-study-alexanderwerk-ag/・3回目）
+  - 「“TeamViewer Pilot has been a very good option for our organization. We already use the TeamViewer remote support products so we are very comfortable with the dashboard. It is extremely user-friendly to have our support technicians utilize the same platform for support sessions on the Epson glasses as well as Android and Apple smartphones.”」（https://terrasolutions.com/customers/case-studies/case-study-alexanderwerk-ag/・3回目）
+  - 「Terra Solutions provides the full spectrum of services to realize a successful transition to state-of-the-art Industrial Internet of Things (IIoT) operations.」（https://terrasolutions.com/customers/case-studies/case-study-alexanderwerk-ag/・3回目）
+  - 「Alexanderwerk AG is a Germany-based company. The Company is a manufacturer of high-technology compaction and granulation machines for the chemical, food, life science, nuclear, and pharmaceutical industries and it is a manufacturer of compacting and shredding machines for the chemical, pharmaceutical, and food industries. Its products and applications include Roller compaction, Moist granulation,」（https://markets.ft.com/data/equities/tearsheet/profile?s=ALXA:FRA・3回目）
+- 日本の担い手：
+  - 「世界的な経済危機、世界大戦、そして厳しい投資にもかかわらず、彼らはパン用スライサー、おろし器、ジューサー、クリスマスツリースタンド、量り器などの家庭用機械設備を資産として成功させ、Alexanderwerk社を株式会社へと変貌させました」（https://www.correns.co.jp/supplier/alexanderwerk/・3回目）
+  - 「そのため子会社や海外の代理店を設立しただけではなく、常に機械の向上に努めています」（https://www.correns.co.jp/supplier/alexanderwerk/・3回目）
+  - 「東京都 港区六本木 1-8-7」（https://www.correns.co.jp/supplier/alexanderwerk/・3回目）
+- 規模・親会社：
+  - 「Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Ireland」（https://www.alexanderwerk.com/de/・1回目）
+  - 「Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Ireland」（https://www.alexanderwerk.com/de/de/service/partnerschaften/・1回目）
+  - 「Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Ireland」（https://www.alexanderwerk.com/de/de/service/partnerschaften/assets/images/7/alexanderwerk-logo-b47dcbc7.svg・2回目）
+  - 「Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Ireland」（https://www.alexanderwerk.com/de/de/service/partnerschaften/assets/images/2/alexanderwerk-logo-11bbef0d.svg・2回目）
+  - 「そのため子会社や海外の代理店を設立しただけではなく、常に機械の向上に努めています」（https://www.correns.co.jp/supplier/alexanderwerk/・3回目）
+  - 「ドイツ・Remscheid市にある本社には親会社のAlexanderwerk AG社だけではなく、子会社のAlexanderwerk」（https://www.correns.co.jp/supplier/alexanderwerk/・3回目）
+  - 「Furthermore, Alexanderwerk demonstrates new machines to its customers in their technical center and also carries out machine acceptance tests there, a second application for the smart glasses.」（https://terrasolutions.com/customers/case-studies/case-study-alexanderwerk-ag/・3回目）
+  - 「Revenue per share (TTM)」（https://markets.ft.com/data/equities/tearsheet/profile?s=ALXA:FRA・3回目）
+  - 「Revenues per employee (TTM)」（https://markets.ft.com/data/equities/tearsheet/profile?s=ALXA:FRA・3回目）
+  - 「All content on FT.com is for your general information and use only and is not intended to address your particular requirements. In particular, the content does not constitute any form of advice, recommendation, representation, endorsement or arrangement by FT and is not intended to be relied upon by users in making (or refraining from making) any specific investment or other decisions.」（https://markets.ft.com/data/equities/tearsheet/profile?s=ALXA:FRA・3回目）
+- 連絡先：
+  - 「contact@alexanderwerk.com」（https://www.alexanderwerk.com/de/・1回目）
+  - 「contact@alexanderwerk.com」（https://www.alexanderwerk.com/de/de/service/partnerschaften/・1回目）
+  - 「contact@alexanderwerk.com」（https://www.alexanderwerk.com/de/de/service/partnerschaften/assets/images/7/alexanderwerk-logo-b47dcbc7.svg・2回目）
+  - 「contact@alexanderwerk.com」（https://www.alexanderwerk.com/de/de/service/partnerschaften/assets/images/2/alexanderwerk-logo-11bbef0d.svg・2回目）
+- 検索結果の抜粋：
+  - 「Alexanderwerk – Wikipedia — Nach dem Tod des Firmengründers im Jahr 1888 übernahmen die Söhne Wilhelm und Adolf die Führung des Werks und brachten 1899 die Firma Alexanderwerk AG an die Börse. Zahlreiche Handelsvertretungen wurden im Ausland gegründet, um den Vertrieb auch außerhalb Deutschlands zu gewährleisten.」（https://de.wikipedia.org/wiki/Alexanderwerk・3回目）
+  - 「Locations - Alexanderwerk — Locations Germany (Headquarter) Company: Alexanderwerk AG und Alexanderwerk GmbH Address: Kippdorfstraße 6-24, 42857 Remscheid Phone: +49 2191 795-0 Fax: +49 2191 795-202 E-Mail: contact@alexanderwerk.com」（https://www.alexanderwerk.com/en/company/locations/・3回目）
+  - 「Alexanderwerk – Wikipedia — Im Zuge einer Sanierung während einer schweren Unternehmenskrise Ende der 2000er-Jahre wurde das operative Geschäft in verschiedene Gesellschaften ausgegliedert. Die Alexanderwerk AG ist seitdem eine reine Holdinggesellschaft. Entwicklung, Montage und Vertrieb der Maschinen sind in der Tochtergesellschaft Alexanderwerk GmbH gebündelt. Davon ausgenommen ist der Vertrieb 」（https://de.wikipedia.org/wiki/Alexanderwerk・3回目）
+  - 「Progress does not stand still and neither does Alexanderwerk — Global Leader in Dry Powder Process Technology Our parent company, Alexanderwerk AG, was founded in 1885 by Alexander von der Nahmer and began its business by selling manually operated meat grinders. After his death, his two sons navigated the company through challenging times including global economic crisis’s and world wars and were 」（https://alexanderwerkinc.com/・3回目）
+  - 「Case Study – Alexanderwerk AG – Terra Solutions AG — Thanks to Terra Solutions’ involvement and support, Alexanderwerk can now easily perform initial fault analysis remotely using smart glasses.」（https://terrasolutions.com/customers/case-studies/case-study-alexanderwerk-ag/・3回目）
+  - 「Alexanderwerk AG — Funding, Investors & Team | Seedtable — Aug 12, 2026 · Alexanderwerk Aktiengesellschaft engages in the development, production, and sale of dry compaction and granulation machines for the chemical, food, life science, nuclear, and pharmaceutical industries worldwide.」（https://seedtable.com/companies/alexanderwerk-ag・3回目）
+  - 「Alexanderwerk AG, ALXA:FRA profile - FT.com — 4 days ago · Alexanderwerk AG (ALXA:FRA) company profile with history, revenue, mergers & acquisitions, peer analysis, institutional shareholders and more.」（https://markets.ft.com/data/equities/tearsheet/profile?s=ALXA:FRA・3回目）
+  - 「Alexanderwerk AG Investor Relations — Annual Reports ... — Alexanderwerk AG is a global manufacturer of high-technology compaction and granulation machines. The company specializes in solutions for dry, moist, and paste-like raw materials, with a product portfolio that includes roller compactors, moist granulators, and rotor fine granulators.」（https://financialfilings.com/companies/alexanderwerk-ag/・3回目）
+- 創業年度：記載なし（3回確認済み：公式2頁／PDF・画像4件／外部21頁・検索12回）
+- 株主：記載なし（3回確認済み：公式2頁／PDF・画像4件／外部21頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式2頁／PDF・画像4件／外部21頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式2頁／PDF・画像4件／外部21頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式2頁／PDF・画像4件／外部21頁・検索12回）
+- 料金：記載なし（3回確認済み：公式2頁／PDF・画像4件／外部21頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式2頁／PDF・画像4件／外部21頁・検索12回）
 
 ## Alloyenterprises
 - 公式URL：https://alloyenterprises.co（given）
@@ -1583,6 +2182,93 @@
 - 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）
 - 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）
 
+## Awesomic
+- 公式URL：https://www.awesomic.com/?ref=yc（given）
+- 料金：publish real numbers wherever you can, define what a seat or a credit means, and make the upgrade path visible.（https://www.awesomic.com/blog/saas-web-design-agencies・1回目）
+- 採用・広告の製品：
+  - 「Switch models or bring in an expert without starting over. Your brief, files, and project history stay together.」（https://www.awesomic.com/?ref=yc・1回目）
+  - 「Every project runs on its own cloud computer with up to 1 TB of storage, so agents build real sites and apps, and keep working after you close your laptop.」（https://www.awesomic.com/?ref=yc・1回目）
+  - 「Work with a vetted designer, developer or marketer for a second opinion, a specific task or the whole project.」（https://www.awesomic.com/?ref=yc・1回目）
+  - 「Approve it, or ask for changes in the same thread.」（https://www.awesomic.com/?ref=yc・1回目）
+  - 「of applicants are accepted」（https://www.awesomic.com/?ref=yc・1回目）
+  - 「Share a project by link and work in the same chat with your team, agents and experts.」（https://www.awesomic.com/?ref=yc・1回目）
+  - 「Set spending limits and approved models for each person on the team.」（https://www.awesomic.com/?ref=yc・1回目）
+  - 「Done. Two directions are in the preview.」（https://www.awesomic.com/?ref=yc・1回目）
+  - 「Websites, landing pages, product design, mobile apps, and live experiences—from concept to production-ready build.」（https://www.awesomic.com/?ref=yc・1回目）
+  - 「Graphic design & marketing」（https://www.awesomic.com/?ref=yc・1回目）
+  - 「Campaigns, social creative, ads, decks, email, packaging, merch, and the everyday assets that keep marketing moving.」（https://www.awesomic.com/?ref=yc・1回目）
+  - 「AI video, editing, animation, product demos, social cuts, and full motion systems.」（https://www.awesomic.com/?ref=yc・1回目）
+- 製造業の実績：
+  - 「Trusted by 4,000+ companies」（https://www.awesomic.com/agencies・1回目）
+  - 「Finofo case study: dashboard and product design with a streamlined UX」（https://www.awesomic.com/case-study/finofo・1回目）
+  - 「Activity Feed Case Study」（https://www.awesomic.com/case-study/finofo・1回目）
+  - 「Toothy case study: branding, landing page design and Webflow development」（https://www.awesomic.com/case-study/toothy-redesign・1回目）
+  - 「Yerbaé case study: illustrations and branding for a vibrant visual identity」（https://www.awesomic.com/case-study/yerbae・1回目）
+  - 「Case Study - Playhouse - Awesomic Design」（https://www.awesomic.com/case-study/playhouse・1回目）
+  - 「Playhouse case study: landing pages and app design for a YC real-estate startup」（https://www.awesomic.com/case-study/playhouse・1回目）
+  - 「Denario’s Success Story (Now PandaDoc) | FinTech Case Study」（https://www.awesomic.com/case-study/denario・1回目）
+  - 「Case Study - Hegel - Awesomic Design」（https://www.awesomic.com/case-study/hegel・1回目）
+  - 「Hegel AI case study: homepage design and branding for a YC developer-tools startup」（https://www.awesomic.com/case-study/hegel・1回目）
+  - 「Parcha + Awesomic: Cinematic AI Launch Video | Case Study」（https://www.awesomic.com/case-study/parcha・1回目）
+  - 「Trusted by 4,000+ companies」（https://www.awesomic.com/pricing・1回目）
+- 再販・ホワイトラベル：
+  - 「11 Best SaaS Web Design Agencies in 2026」（https://www.awesomic.com/?ref=yc・1回目）
+  - 「Top Hubspot Website Design Agencies to Know in 2026」（https://www.awesomic.com/?ref=yc・1回目）
+  - 「The Best Creative Design Agencies in 2026 (Reviewed by Experts)」（https://www.awesomic.com/?ref=yc・1回目）
+  - 「Awesomic For Agencies: Scale Revenue, Not Overhead」（https://www.awesomic.com/agencies・1回目）
+  - 「Plug our 200+ senior, white-label specialists」（https://www.awesomic.com/agencies・1回目）
+  - 「How we help agencies drive revenue」（https://www.awesomic.com/agencies・1回目）
+  - 「We deliver weekly assets and adapt them for each market. White-label in your tools.」（https://www.awesomic.com/agencies・1回目）
+  - 「Creative, performance, and design agencies who need to scale their identity or their ideas into more assets」（https://www.awesomic.com/agencies・1回目）
+  - 「Design studios and web agencies expanding into landing pages, Webflow builds, and brand/motion add-ons」（https://www.awesomic.com/agencies・1回目）
+  - 「Agencies expanding into content, SEO, social, and email marketing to win larger clients — without adding headcount」（https://www.awesomic.com/agencies・1回目）
+  - 「White-label by default」（https://www.awesomic.com/agencies・1回目）
+  - 「Your brand in front. NDA and」（https://www.awesomic.com/agencies・1回目）
+- 規模・親会社：
+  - 「Agents including Claude Code, Codex, Cursor and OpenCode, with models from Anthropic, OpenAI, Google and xAI. Open-source models such as GLM and Kimi. Image and video models such as Nano Banana, GPT Image, FLUX, Veo, Kling and Seedance. The list grows as better models arrive.」（https://www.awesomic.com/?ref=yc・1回目）
+  - 「Explore shows projects people have built with Awesomic. Remix any of them to start your own version from the same setup instead of a blank page. Skills are saved instructions and workflows your agents reuse, so your team’s way of working carries into every project.」（https://www.awesomic.com/?ref=yc・1回目）
+  - 「Awesomic For Agencies: Scale Revenue, Not Overhead」（https://www.awesomic.com/agencies・1回目）
+  - 「Your hidden revenue engine」（https://www.awesomic.com/agencies・1回目）
+  - 「How we help agencies drive revenue」（https://www.awesomic.com/agencies・1回目）
+  - 「Add a new revenue stream」（https://www.awesomic.com/agencies・1回目）
+  - 「“Absolutely phenomenal! Awesomic has become a big part of everything design at our startup. The team is so passionate about doing great work and such a delight to collaborate with.”」（https://www.awesomic.com/agencies・1回目）
+  - 「How does Awesomic help agencies grow revenue?」（https://www.awesomic.com/agencies・1回目）
+  - 「Toothy.ai transforms dental practices by automating back-office tasks and streamlining Revenue Cycle Management (RCM), cutting costs and boosting efficiency.」（https://www.awesomic.com/case-study/toothy-redesign・1回目）
+  - 「By presenting accurate internal and external data with a compelling visual narrative, Willow demonstrated its expertise and proved the case for its application solution—leveraging modern, voice-first AI technology to outperform current typing products over the next decades.」（https://www.awesomic.com/case-study/willow・1回目）
+  - 「Willow recently received over $4 million in funding to build the future of its growth machine. Awesomic is stoked to be a part of this journey.」（https://www.awesomic.com/case-study/willow・1回目）
+  - 「Denario was a Berlin-based fintech company acquired by PandaDoc in 2023. They offered a subscription-based service to help small and mid-sized businesses streamline their cash flow.」（https://www.awesomic.com/case-study/denario・1回目）
+- 連絡先：
+  - 「Campaigns, social creative, ads, decks, email, packaging, merch, and the everyday assets that keep marketing moving.」（https://www.awesomic.com/?ref=yc・1回目）
+  - 「Promo email · Illustrated」（https://www.awesomic.com/?ref=yc・1回目）
+  - 「Email templates · Dark & light」（https://www.awesomic.com/?ref=yc・1回目）
+  - 「Onboarding email series」（https://www.awesomic.com/?ref=yc・1回目）
+  - 「Digital & email marketing」（https://www.awesomic.com/agencies・1回目）
+  - 「Agencies expanding into content, SEO, social, and email marketing to win larger clients — without adding headcount」（https://www.awesomic.com/agencies・1回目）
+  - 「, social media management, digital & email marketing, and light marketing automation—so you can win larger retainers.」（https://www.awesomic.com/agencies・1回目）
+  - 「. Content writing (landing pages, blogs, case studies), on-page SEO support, social media management, and email/digital marketing.」（https://www.awesomic.com/agencies・1回目）
+  - 「Website, emails, and illustrations for Perfekto in 17 days」（https://www.awesomic.com/case-study・1回目）
+  - 「Just imagine giving simple prompts like "Send an email", "Book a call", or "Create a task in Awesomic", and having everything done for you. This app captures your prompt, feeds it to ChatGPT, and the AI not only plans the next steps but also takes action—saving you time and freeing you to focus on what matters most.」（https://www.awesomic.com/case-study/gpt-a-case・1回目）
+  - 「(Branding, packaging, print, banners, landing pages, emails, and social media designs)」（https://www.awesomic.com/case-study/yerbae・1回目）
+  - 「With a milestone-based idea from Willow’s founders, Awesomic redesigned email templates to celebrate each new achievement of their users. This brought on reposts and expanded the brand's reach on LinkedIn.」（https://www.awesomic.com/case-study/willow・1回目）
+- 検索結果の抜粋：
+  - 「Awesomic | AI Agents & Vetted Experts in One App — Awesomic | AI Agents & Vetted Experts in One App Awesomic https://www.awesomic.com」（https://www.awesomic.com/・3回目）
+  - 「Awesomic - LinkedIn — Awesomic - LinkedIn LinkedIn https://www.linkedin.com > awesomic」（https://www.linkedin.com/company/awesomic・3回目）
+  - 「Awesomic | San Francisco CA - Facebook — Awesomic | San Francisco CA - Facebook Facebook https://www.facebook.com > ... > Internet company」（https://www.facebook.com/awesomicinc/・3回目）
+  - 「Awesomic - Wikipedia — Awesomic - Wikipedia Wikipedia https://en.wikipedia.org > Awesomic」（https://en.wikipedia.org/wiki/Awesomic・3回目）
+  - 「Read Customer Service Reviews of awesomic .com - Trustpilot — Read Customer Service Reviews of awesomic .com - Trustpilot Trustpilot https://www.trustpilot.com > awesomic」（https://www.trustpilot.com/review/awesomic.com・3回目）
+  - 「Client Success Stories - Awesomic — Client Success Stories - Awesomic Awesomic https://www.awesomic.com > case-stu...」（https://www.awesomic.com/case-study・3回目）
+  - 「Best White Label Web Design Services in 2026: How to Choose — Best White Label Web Design Services in 2026: How to Choose Awesomic https://www.awesomic.com > blog」（https://www.awesomic.com/blog/white-label-web-design-services・3回目）
+  - 「Awesomic Joined Y Combinator (S 21) — Awesomic Joined Y Combinator (S 21) Awesomic https://www.awesomic.com > blog > a...」（https://www.awesomic.com/blog/awesomic-backed-by-y-combinator・3回目）
+  - 「Awesomic - Crunchbase Company Profile & Funding — Awesomic - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > aweso...」（https://www.crunchbase.com/organization/awesomic・3回目）
+  - 「Awesomic - Valuation, Funding & Investors - PitchBook — Awesomic - Valuation, Funding & Investors - PitchBook PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/463619-80・3回目）
+  - 「Awesomic - 2026 Company Profile & Team - Tracxn — Awesomic - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/awesomic/__0BqtUfPVTbFw1SpLcRnKDPMy39gQjIG9vuuuGGjniyo・3回目）
+- 創業年度：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部27頁・検索12回）
+- 株主：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部27頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部27頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部27頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部27頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部27頁・検索12回）
+
 ## Axlehealth
 - 公式URL：https://www.axlehealth.com（given）
 - 創業年度：・創業の原体験：2020年の新型コロナウイルス感染拡大期に病院が在宅医療の導入を急ぐ中、ギグエコノミー分野の運行技術を医療へ導入することを目指して設立されました（https://www.firstcvc.jp/global/axlehealth.com・3回目）
@@ -1715,6 +2401,136 @@
 - 売上高：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部30頁・検索12回）
 - 所在地：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部30頁・検索12回）
 - 料金：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部30頁・検索12回）
+
+## BARIŞ POLİMER SAN. İTH. İHR. END. VE TİC. LTD. ŞTİ.
+- 公式URL：http://www.barisithalat.com/（given）
+- 採用・広告の製品：
+  - 「HAM - TOOLS Präzision」（http://www.barisithalat.com/・1回目）
+  - 「Exhibitors & Products」（https://www.maktekfuari.com/en/brand/baris-polimer-san-ith-ihr-end-ve-tic-ltd-sti・3回目）
+  - 「With 40 years of experience and knowledge, Baris Polimer provides products for Machine, Automotive, Aviation, Defense, White Goods, Mold and Dies Industries as the exclusive distributor of leading companies.」（https://www.maktekfuari.com/en/brand/baris-polimer-san-ith-ihr-end-ve-tic-ltd-sti・3回目）
+  - 「Protection of Personal Data」（https://www.maktekfuari.com/en/brand/baris-polimer-san-ith-ihr-end-ve-tic-ltd-sti・3回目）
+  - 「The post show report is being prepared and will be available very soon.」（https://www.maktekfuari.com/en/brand/baris-polimer-san-ith-ihr-end-ve-tic-ltd-sti・3回目）
+- 製造業の実績：
+  - 「With 40 years of experience and knowledge, Baris Polimer provides products for Machine, Automotive, Aviation, Defense, White Goods, Mold and Dies Industries as the exclusive distributor of leading companies.」（https://www.maktekfuari.com/en/brand/baris-polimer-san-ith-ihr-end-ve-tic-ltd-sti・3回目）
+- 検索結果の抜粋：
+  - 「BARIŞ POLİMER SAN. İTH. İHR. END. VE TİC. LTD. ŞTİ. — With 40 years of experience and knowledge, Baris Polimer provides products for Machine, Automotive, Aviation, Defense, White Goods, Mold and Dies Industries as the exclusive distributor of leading companies.」（https://www.maktekfuari.com/en/brand/baris-polimer-san-ith-ihr-end-ve-tic-ltd-sti・3回目）
+  - 「Barış Polimer San. İth. İhr. End. Tic. Ltd. Şti. — IstanbulBaris Polimer Sanayi Ithalat Ihracat Endustri Ve Ticaret Ltd ...BARIŞ POLİMER SAN. İTH. İHR. END. VE TİC. LTD. ŞTİ.Barış Polimer San. İth. İhr. End. Tic. Ltd. Şti.BARIŞ POLİMER SANAYİ İTHALAT İHRACAT ENDÜSTRİ VE TİCARET ... — Türkiye otomotiv ana ve yan sanayi tedarikçilerini, kalıp ve parça üretici firmalarını, sektörel iş ve makina ilanl」（https://www.otomotivsanayi.com/tr/firmalar/baris-polimer-san-ith-ihr-end-tic-ltd-sti・3回目）
+  - 「BARIŞ POLİMER SAN. İTH. İHR. END. VE TİC. LTD. ŞTİ. — Barış Polimer , 40 senelik tecrübesiyle kesici takım , takım tutucu ve parça bağlama sistemleri konusunda hizmet vermektedir.」（https://www.maktekfuari.com/brand/baris-polimer-san-ith-ihr-end-ve-tic-ltd-sti・3回目）
+  - 「Barış Polimer San. İth. İhr. End. Tic. Ltd. Şti. — IstanbulBarış Polimer San. İth. İhr. End. Tic. Ltd. Şti.Baris Polimer Sanayi Ithalat Ihracat Endustri Ve Ticaret Ltd ...BARIŞ POLİMER SAN. İTH. İHR. END. VE TİC. LTD. ŞTİ.Baris Polimer Sanayi Ith Ihr End Ve Ticaret Limited Sirketi — Türkiye otomotiv ana ve yan sanayi tedarikçilerini, kalıp ve parça üretici firmalarını, sektörel iş ve makina ilanla」（https://www.otomotivsanayi.com/tr/firmalar/baris-polimer-san-ith-ihr-end-tic-ltd-sti・3回目）
+  - 「Barış Polimer San. İth. İhr. End. Tic. Ltd. Şti.Baris Polimer Sanayi Ithalat Ihracat Endustri Ve Ticaret Ltd ...BARIŞ POLİMER SAN. İTH. İHR. END. VE TİC. LTD. ŞTİ.Baris Polimer Sanayi Ith Ihr End Ve Ticaret Limited Sirketi — Adress : Şakacı Sk. Şafak Apt. No:148 P.K.: 34742. Henüz resim yüklenmedi! Henüz video yüklenmedi! Oct 2, 2026 · Baris Polimer Sanayi Ithalat Ihracat Endustri Ve Ticaret Ltd. 」（https://www.otomotivsanayi.com/en/companies/baris-polimer-san-ith-ihr-end-tic-ltd-sti・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部16頁・検索12回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部16頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部16頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部16頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部16頁・検索12回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部16頁・検索12回）
+- 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部16頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部16頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部16頁・検索12回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部16頁・検索12回）
+
+## BRAND AUTOMATION
+- 公式URL：https://brandautomation.co.in/（search:ddgs:bing:BRAND AUTOMATION）
+- 採用・広告の製品：
+  - 「At Brand Automation, Automation solutions In Chennai, we are an authorised distributor and service provider for leading industrial automation products and deliver reliable technical solutions to diverse industries. With a satisfied customer base of 1500+ across Tamil Nadu and other states, we have earned a strong reputation for trust, quality, and innovation.」（https://brandautomation.co.in/・1回目）
+  - 「We specialise in the sale and service of automation products from global brands such as」（https://brandautomation.co.in/・1回目）
+  - 「Smart Automation Products for Modern Industries」（https://brandautomation.co.in/・1回目）
+  - 「Panasonic boasts of strong reputation for quality and technically advanced products namely sensors, AC Servo motors, Brushless Motors and Compact AC Geared Motor.」（https://brandautomation.co.in/・1回目）
+  - 「Its core products include programmable controllers (PLC), human-machine interfaces (HMI), servo systems, variable frequency drives, information solutions, machine vision, and robots.」（https://brandautomation.co.in/・1回目）
+  - 「INVT has been concentrating on industry automation and energy power since its foundation in 2002 and is committed to “Providing Excellent Products and Services, Empowering Customers to be More Competitive」（https://brandautomation.co.in/・1回目）
+  - 「We provide complete industrial automation and engineering solutions, from retrofitting and system integration to customised panel design」（https://brandautomation.co.in/・1回目）
+  - 「and project execution, delivering enhanced productivity, reliable operations, & sustainable efficiency tailored to your business needs.」（https://brandautomation.co.in/・1回目）
+  - 「We deliver end-to-end automation projects that boost productivity, cut costs, & ensure long-term efficiency.」（https://brandautomation.co.in/・1回目）
+  - 「We integrate systems seamlessly to unify processes, boost efficiency, and enhance performance.」（https://brandautomation.co.in/・1回目）
+  - 「We modernise machines using retrofitting solutions to improve performance, reliability, & efficiency.」（https://brandautomation.co.in/・1回目）
+  - 「Expert programming support to optimize automation and ensure seamless operations.」（https://brandautomation.co.in/・1回目）
+- 製造業の実績：
+  - 「At Brand Automation, Automation solutions In Chennai, we are an authorised distributor and service provider for leading industrial automation products and deliver reliable technical solutions to diverse industries. With a satisfied customer base of 1500+ across Tamil Nadu and other states, we have earned a strong reputation for trust, quality, and innovation.」（https://brandautomation.co.in/・1回目）
+  - 「. Along with this, we design and manufacture customised electrical control panels tailored to unique industrial needs.」（https://brandautomation.co.in/・1回目）
+  - 「We drive transformation toward smart factories」（https://brandautomation.co.in/・1回目）
+  - 「We provide complete industrial automation and engineering solutions, from retrofitting and system integration to customised panel design」（https://brandautomation.co.in/・1回目）
+  - 「Leading provider of industrial automation」（https://brandautomation.co.in/・1回目）
+  - 「Industrial Automation Company In Chennai,Industrial Supplier In Coimbatore」（https://brandautomation.co.in/about-us/・1回目）
+  - 「, ensuring close customer reach across Tamil Nadu and beyond. industrial automation company in Coimbatore, Our 30+ professionals deliver reliable automation solutions, service, and exceptional customer support.Founded by」（https://brandautomation.co.in/about-us/・1回目）
+  - 「in industrial automation, Brand Automation bridges global technologies with India’s industrial needs.With a focus on innovation, collaboration, and on-time project execution, we empower our team with continuous training to maintain our leadership in automation excellence.Today, the company proudly serves」（https://brandautomation.co.in/about-us/・1回目）
+  - 「To become the most trusted and innovative industrial automation partner in India and South Asia, driving the transformation towards smart factories, digital manufacturing, and Industry 4.0 excellence. We envision a future where cutting-edge automation, robotics, and intelligent control systems empower businesses to achieve unmatched efficiency, reliability, and global competitiveness.」（https://brandautomation.co.in/about-us/・1回目）
+  - 「Spearheaded the plantation of over 1,00,000 saplings with student participation.」（https://brandautomation.co.in/about-us/・1回目）
+  - 「Leading provider of industrial automation」（https://brandautomation.co.in/about-us/・1回目）
+  - 「Industrial Ethernet & IIoT Solution」（https://brandautomation.co.in/delta/・1回目）
+- 再販・ホワイトラベル：
+  - 「Are you looking for the best automated dropshipping tools in 2026? We compare traditional formats with the latest automation and introduce how BuckyDrop enables Chinese sourcing, low-MOQ private labeling, and automated order processing for Shopify stores. Scale your brand now with zero inventory!」（https://note.com/buckydrop/n/n6adf9e9be450?hl=en・3回目）
+  - 「Customers in 2026 have a very critical eye for mistakes. Automation eliminates "careless errors" in shipping addresses and pricing, protecting your brand's reputation.」（https://note.com/buckydrop/n/n6adf9e9be450?hl=en・3回目）
+  - 「Private Label & POD Automation」（https://note.com/buckydrop/n/n6adf9e9be450?hl=en・3回目）
+  - 「Based on customization requests submitted by customers (such as specific patterns, logos, or names), the system automatically matches production instructions to ensure every product carries your brand's unique mark.」（https://note.com/buckydrop/n/n6adf9e9be450?hl=en・3回目）
+  - 「When an order is placed, the warehouse team follows your Standard Operating Procedures (SOP) to perform secondary inspections, replace labels, and pack using dedicated packaging materials. The package that reaches the customer contains no information about the Chinese supplier, only the soul of your brand.」（https://note.com/buckydrop/n/n6adf9e9be450?hl=en・3回目）
+  - 「Click here for more details on private label dropshipping」（https://note.com/buckydrop/n/n6adf9e9be450?hl=en・3回目）
+  - 「Q: What is the minimum order quantity for BuckyDrop's private label customization?」（https://note.com/buckydrop/n/n6adf9e9be450?hl=en・3回目）
+  - 「🚀 Start your brand automation journey」（https://note.com/buckydrop/n/n6adf9e9be450?hl=en・3回目）
+  - 「Want to learn more advanced strategies for private label dropshipping?」（https://note.com/buckydrop/n/n6adf9e9be450?hl=en・3回目）
+- 規模・親会社：
+  - 「Dropshipping has long been widely chosen as a business model with a low barrier to entry for e-commerce beginners. However, as of 2026, global market standards for shipping speed and brand value are higher than ever. The traditional "manual order" model has become the biggest bottleneck to growth. Today, true competitiveness lies not in "what you sell," but in "how automated you are."」（https://note.com/buckydrop/n/n6adf9e9be450?hl=en・3回目）
+  - 「Based on customization requests submitted by customers (such as specific patterns, logos, or names), the system automatically matches production instructions to ensure every product carries your brand's unique mark.」（https://note.com/buckydrop/n/n6adf9e9be450?hl=en・3回目）
+  - 「This model breaks down the high Minimum Order Quantity (MOQ) barriers set by traditional factories. With automated production scheduling, even small-batch customization requests can be processed efficiently.」（https://note.com/buckydrop/n/n6adf9e9be450?hl=en・3回目）
+  - 「BuckyDrop has completely broken down the barriers of the Chinese supply chain.」（https://note.com/buckydrop/n/n6adf9e9be450?hl=en・3回目）
+- 連絡先：
+  - 「info@brandautomation.co.in.」（https://brandautomation.co.in/・1回目）
+  - 「info@brandautomation.co.in」（https://brandautomation.co.in/・1回目）
+  - 「info@brandautomation.co.in.」（https://brandautomation.co.in/about-us/・1回目）
+  - 「info@brandautomation.co.in」（https://brandautomation.co.in/about-us/・1回目）
+  - 「info@brandautomation.co.in.」（https://brandautomation.co.in/delta/・1回目）
+  - 「info@brandautomation.co.in」（https://brandautomation.co.in/delta/・1回目）
+  - 「After the product is shipped, the system automatically retrieves the tracking number, synchronizes it to your store's backend, and triggers an automated shipping notification email. This allows buyers to stay informed about their order status at all times, dramatically reducing the burden on customer service.」（https://note.com/buckydrop/n/n6adf9e9be450?hl=en・3回目）
+- 検索結果の抜粋：
+  - 「Brand Automation - Overview, News & Competitors | ZoomInfo.com — View Brand Automation (www.brandautomation.com) location , revenue, industry and description. Find related and similar companies as well as employees by title and much more.」（https://www.zoominfo.com/c/brand-automation/465418858・3回目）
+  - 「Brand Automation - Crunchbase Company Profile & FundingCompany Revenue Lookup | Search Any Company's RevenueAnthropic - WikipediaBrand Automation - 2026 Company Profile - TracxnCrunchbase | Private Company Data & Predictive IntelligenceCorpDigest: Company Profiles, Revenue & Business History — Brand Automation is an engineering sales and services company specializing in industrial automation and m」（https://www.crunchbase.com/organization/brand-automation・3回目）
+  - 「Brand Automation - 2026 Company Profile - Tracxn — Brand Automation - About the company Brand Automation is an unfunded company based in India. It operates as a Provider of industrial automation solutions, engineering sales, and related services. Brand Automation has not raised any funding yet. The company has 3180 active competitors, including 37 funded and 281 that have exited. Its top competito」（https://tracxn.com/d/companies/brand-automation/__TOUmZZSRqbnIv03PVXnGq8gBp6ACJ3T5Cc7FWysVg1k・3回目）
+- 創業年度：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部37頁・検索13回）
+- 株主：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部37頁・検索13回）
+- 従業員数：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部37頁・検索13回）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部37頁・検索13回）
+- 所在地：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部37頁・検索13回）
+- 料金：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部37頁・検索13回）
+- 日本の担い手：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部37頁・検索13回）
+
+## Beijing Xihao Technology Co., Ltd.
+- 公式URL：特定できず（not_found）
+- 採用・広告の製品：
+  - 「Technology & Products」（https://www.ampulse.online/company/beijing-xihao-technology-co-ltd・3回目）
+  - 「Pro series powder cleaning machines (Pro-400 to Pro-1500; large-format Pro-1500: 1500×1500×1700 mm, up to 4t); channel/internal water cleaning systems; microwave plasma metal powder spheroidization equipment」（https://www.ampulse.online/company/beijing-xihao-technology-co-ltd・3回目）
+  - 「Provides a closed-loop powder recovery solution that minimizes material waste and environmental contamination in industrial metal AM workflows.」（https://www.ampulse.online/company/beijing-xihao-technology-co-ltd・3回目）
+  - 「Reduces material costs and environmental impact by enabling the recovery of residual metal powders from complex printed parts through a pollution-free vibration process.」（https://www.ampulse.online/company/beijing-xihao-technology-co-ltd・3回目）
+  - 「Industrial additive manufacturing service providers and OEMs using powder-based metal 3D printing processes.」（https://www.ampulse.online/company/beijing-xihao-technology-co-ltd・3回目）
+  - 「Solukon Maschinenbau GmbH; PostProcess Technologies; AM Solutions (Rösler Oberflächentechnik GmbH)」（https://www.ampulse.online/company/beijing-xihao-technology-co-ltd・3回目）
+  - 「Registry founded 2018, Beijing (Tianyancha via press). Pro series powder cleaners Pro-400–Pro-1500 for metal AM post-processing; ATEX/CE; domestic installs >50 (南极熊 2026-01). Also microwave plasma metal powder spheroidization equipment (TCT listing).」（https://www.ampulse.online/company/beijing-xihao-technology-co-ltd・3回目）
+  - 「Exhibited Pro-1500/Pro-800 at TCT Asia 2026; domestic Pro-series install base >50 units (Jan 2026); ATEX+CE certification and export to JP/KR/EU; Formnext Asia Shenzhen 2026 booth B102 (post-processing pavilion, announced Jun 2026)」（https://www.ampulse.online/company/beijing-xihao-technology-co-ltd・3回目）
+  - 「Leading commercial aerospace companies (unnamed in press releases); Aerospace and automotive manufacturing enterprises; Medical device manufacturers」（https://www.ampulse.online/company/beijing-xihao-technology-co-ltd・3回目）
+  - 「process (3), equipment (2), material (2)」（https://www.ampulse.online/company/beijing-xihao-technology-co-ltd・3回目）
+  - 「Complex flow channel negative pressure type ultrasonic cleaning equipment and cleaning method」（https://www.ampulse.online/company/beijing-xihao-technology-co-ltd・3回目）
+  - 「Metal printing complex runner powder cleaning system」（https://www.ampulse.online/company/beijing-xihao-technology-co-ltd・3回目）
+- 製造業の実績：
+  - 「Beijing Xihao Technology | Additive Manufacturing Company - AMPulse」（https://www.ampulse.online/company/beijing-xihao-technology-co-ltd・3回目）
+  - 「Develops industrial powder cleaning and recovery systems for metal additive manufacturing, featuring vibration-based removal for complex geometries.」（https://www.ampulse.online/company/beijing-xihao-technology-co-ltd・3回目）
+  - 「Provides a closed-loop powder recovery solution that minimizes material waste and environmental contamination in industrial metal AM workflows.」（https://www.ampulse.online/company/beijing-xihao-technology-co-ltd・3回目）
+  - 「Industrial additive manufacturing service providers and OEMs using powder-based metal 3D printing processes.」（https://www.ampulse.online/company/beijing-xihao-technology-co-ltd・3回目）
+  - 「Leading commercial aerospace companies (unnamed in press releases); Aerospace and automotive manufacturing enterprises; Medical device manufacturers」（https://www.ampulse.online/company/beijing-xihao-technology-co-ltd・3回目）
+- 再販・ホワイトラベル：
+  - 「Industrial additive manufacturing service providers and OEMs using powder-based metal 3D printing processes.」（https://www.ampulse.online/company/beijing-xihao-technology-co-ltd・3回目）
+- 連絡先：
+  - 「Please contact us for any questions」（https://online.tctasia.cn/en/showroom-2026/institutions/b6ecnl/related-products・3回目）
+- 検索結果の抜粋：
+  - 「Beijing Xihao Technology | Additive Manufacturing Company ... — Differentiation Beijing Xihao Technology Co., Ltd. differentiates itself through its focus on large-scale, cost-effective automated powder removal systems for metal additive manufacturing. Compared to competitors like Solukon and PostProcess Technologies, Xihao offers an industry-leading build volume with its Pro-1500 model (1500 x 15」（https://www.ampulse.online/company/beijing-xihao-technology-co-ltd・3回目）
+  - 「About | Beijing Xihao Technology Co., Ltd. | TCT Asia Showroom — Beijing Xihao Technology Co., Ltd. was founded in 2018, with its R&D center located in Beijing and production center in Jingbin Industrial Park, Wuqing District, Tianjin. The company is mainly engaged in post-processing of 3D printing, as well as the R&D and manufacturing of 3D printing powder cleaning equipment, 3D printing runner w」（https://online.tctasia.cn/en/showroom-2026/institutions/b6ecnl・3回目）
+  - 「Beijing Xihao Technology Co., Ltd. | Exhibitor Formnext Asia ... — Beijing Xihao Technology Co., Ltd. was established in 2018. Its R&D center is located in Beijing, and the production center is in Jingbin Industrial Park, Wuqing District, Tianjin. The company mainly engages in: post-processing processing of 3D printing, as well as 3D printing cleaning equipment, 3D printing flow channel water clea」（https://formnext-sz.hk.messefrankfurt.com/shenzhen/en/exhibitor-search.detail.html/beijing-xihao-technology-co-ltd.html・3回目）
+  - 「Products & Services | Beijing Xihao Technology Co., Ltd ... — Beijing Xihao Technology Co., Ltd. was founded in 2018, with its R&D center located in Beijing and production center in Jingbin Industrial Park, Wuqing District, Tianjin. The company is mainly engaged in post-processing of 3D printing, as well as the R&D and manufacturing of 3D printing powder cleaning equipment, 3D printing runner wate」（https://online.tctasia.cn/en/showroom-2026/institutions/b6ecnl/related-products・3回目）
+  - 「Beijing Xihao Technology | Additive Manufacturing Company ... — How They Differentiate Beijing Xihao Technology Co., Ltd. differentiates itself through its focus on large-scale, cost-effective automated powder removal systems for metal additive manufacturing.」（https://www.ampulse.online/company/beijing-xihao-technology-co-ltd・3回目）
+- 創業年度：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 所在地：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 料金：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 日本の担い手：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 規模・親会社：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
 
 ## Bemlo
 - 公式URL：https://www.bemlo.com/en（given）
@@ -1908,6 +2724,71 @@
 - 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）
 - 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）
 
+## Boge Kompressoren
+- 公式URL：https://www.boge.com/de-de/（given）
+- 採用・広告の製品：
+  - 「BOGE entwickelt Druckluftlösungen, die Technik mit Verantwortung verbinden. Effizient, nachhaltig und partnerschaftlich – von leistungsstarken Kompressoren über bedarfsgerechtes Zubehör bis zum kompletten Rundum-Service.」（https://www.boge.com/de-de/・1回目）
+  - 「Aktuelles: Produktneuheiten, News & Events」（https://www.boge.com/de-de/・1回目）
+  - 「Die neue Preis-Leistungs-Klasse für Druckluft」（https://www.boge.com/de-de/・1回目）
+  - 「Mehr Effizienz. Mehr Wirtschaftlichkeit. Ohne Kompromisse bei Qualität und Zuverlässigkeit. Die neue E-Baureihe macht bewährte BOGE Performance für noch mehr Anwendungen zugänglich – Made in Germany, mit 3 Jahren Garantie und 24/7 Support.」（https://www.boge.com/de-de/・1回目）
+  - 「Jetzt Produktdetails ansehen」（https://www.boge.com/de-de/・1回目）
+  - 「Pressemitteilung lesen」（https://www.boge.com/de-de/・1回目）
+  - 「100 Jahre Druckluft. Geprägt von Generationen.」（https://www.boge.com/de-de/・1回目）
+  - 「Wir bauen Kompressoren seit 1926.」（https://www.boge.com/de-de/・1回目）
+  - 「1926 stellt Otto Boge den ersten BOGE Kompressor vor und legt damit den Grundstein für unsere Zukunft als Druckluftspezialist. Sein Gespür für neue Chancen, sein Erfindergeist und der Mut, neue Wege zu gehen, prägen BOGE bis heute.」（https://www.boge.com/de-de/・1回目）
+  - 「1938 übernimmt Ernst Thomas nach dem Tod seines Schwiegervaters Otto Boge die Unternehmensleitung. Er führt BOGE durch schwierige Zeiten und schafft mit der industriellen Serienproduktion von Kolbenkompressoren die Basis für neues Wachstum in den Wirtschaftswunderjahren – auch über Deutschlands Grenzen hinaus.」（https://www.boge.com/de-de/・1回目）
+  - 「1949 tritt Wolfgang Meier-Scheuven, Enkel von Otto Boge, in das Unternehmen ein und führt es von 1975 bis 1995 als Geschäftsführer. Mit der Einführung der Schraubenkompressor-Technologie prägt er das Portfolio neu und entwickelt BOGE zu einem der führenden Kompressorhersteller Europas.」（https://www.boge.com/de-de/・1回目）
+  - 「Von 1995 bis 2020 führt Wolf-D. Meier-Scheuven, Urenkel von Otto Boge, das Familienunternehmen in die nächste Phase der Internationalisierung. Neue Tochtergesellschaften und Märkte machen BOGE zu einem globalen Premiumanbieter für Druckluftsysteme – fest verwurzelt in Bielefeld und weltweit präsent.」（https://www.boge.com/de-de/・1回目）
+- 製造業の実績：
+  - 「Industrial application」（https://www.ktb-europe.com/en/manufacturer/boge/・3回目）
+  - 「BOGE 580001831P plate heat exchanger for industrial applications. High-efficiency heat transfer. Request spare part now.」（https://www.ktb-europe.com/en/manufacturer/boge/・3回目）
+  - 「BOGE SKV 26 GA piston compressor with flywheel (100125296EP). Reliable compressed air generation for industrial applications. Inquire now.」（https://www.ktb-europe.com/en/manufacturer/boge/・3回目）
+  - 「BOGE SRHV 250-5 piston pre-compressor with 40 bar maximum pressure and 1150 l/min. Robust compressed air technology for industrial applications....」（https://www.ktb-europe.com/en/manufacturer/boge/・3回目）
+  - 「Manufacturer-independent」（https://www.ktb-europe.com/en/manufacturer/boge/・3回目）
+  - 「KTB is a manufacturer-independent procurement service provider. Looking for parts from」（https://www.ktb-europe.com/en/manufacturer/boge/・3回目）
+  - 「? We will gladly send an enquiry to our sources of supply worldwide on your behalf – for this and many other manufacturers, since 1976.」（https://www.ktb-europe.com/en/manufacturer/boge/・3回目）
+  - 「You name the manufacturer, type and quantity.」（https://www.ktb-europe.com/en/manufacturer/boge/・3回目）
+  - 「KTB Europe sources spare parts and MRO materials worldwide – including hard-to-find parts. Send us the manufacturer and part number and we will take care of the sourcing.」（https://www.ktb-europe.com/en/manufacturer/boge/・3回目）
+  - 「All brand names, manufacturer designations and part numbers mentioned are the property of their respective owners and serve solely to identify the products offered. Such reference does not establish any partner or authorised-dealer status beyond any business relationship that actually exists.」（https://www.ktb-europe.com/en/manufacturer/boge/・3回目）
+  - 「KTB is a manufacturer-independent procurement service provider. Upon your inquiry, we identify suitable sources of supply, obtain quotations and handle the process through to delivery. Availability, lead time and terms are clarified on a case-by-case basis.」（https://www.ktb-europe.com/en/manufacturer/boge/・3回目）
+  - 「KTB Europe – Your Global Partner for MRO Procurement and Industrial Automation:」（https://www.ktb-europe.com/en/manufacturer/boge/・3回目）
+- 日本の担い手：
+  - 「エアコンプレッサの世界市場：メーカー、地域、タイプ、アプリケーション別、2026-2032年の予測 - ZDNET Japan」（https://japan.zdnet.com/release/31166502/・3回目）
+  - 「Continue to ZDNET Japan」（https://japan.zdnet.com/release/31166502/・3回目）
+  - 「Global Info Research（所在地：東京都中央区）はこのたび、エアコンプレッサ市場の産業構造転換を捉えた最新調査レポートを発表しました」（https://japan.zdnet.com/release/31166502/・3回目）
+  - 「Global Info Research（本社：東京都中央区）は、グローバル業界情報を深掘りし、企業の戦略計画・IPOコンサルティング・産業チェーン調査を支援する市場情報コンサルティング会社です」（https://japan.zdnet.com/release/31166502/・3回目）
+  - 「電話：03-4563-9129（日本）／ 0081-34 563 9129（グローバル）／ 0086-176 6505 2062」（https://japan.zdnet.com/release/31166502/・3回目）
+  - 「Google検索の「AIモード」、日本で飲食店の空席検索に対応 複数サイトを横断」（https://japan.zdnet.com/release/31166502/・3回目）
+  - 「東京で27年無人タクシー運行、既存の運転手はどうなる？--失業懸念に川鍋会長が回答」（https://japan.zdnet.com/release/31166502/・3回目）
+  - 「「便利だけど手応えがない」のはなぜ？ データから見る日本企業のAI活用と課題」（https://japan.zdnet.com/release/31166502/・3回目）
+  - 「ZDNET Japanは、CIOとITマネージャーを対象に、ビジネス課題の解決とITを活用した新たな価値創造を支援します」（https://japan.zdnet.com/release/31166502/・3回目）
+  - 「Japan (+81)」（https://www.hhmglobal.com/clients/boge-kompressoren-asia-pacific・3回目）
+- 規模・親会社：
+  - 「Global Info Research（本社：東京都中央区）は、グローバル業界情報を深掘りし、企業の戦略計画・IPOコンサルティング・産業チェーン調査を支援する市場情報コンサルティング会社です」（https://japan.zdnet.com/release/31166502/・3回目）
+  - 「The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.」（https://www.ktb-europe.com/en/manufacturer/boge/・3回目）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.ktb-europe.com/en/manufacturer/boge/・3回目）
+  - 「Oracle Health Unveils AI-Powered Revenue Cycle Management Capabilities to Strengthen Healthcare…」（https://www.hhmglobal.com/clients/boge-kompressoren-asia-pacific・3回目）
+- 連絡先：
+  - 「電子メール：info@globalinforesearch.com」（https://japan.zdnet.com/release/31166502/・3回目）
+  - 「A password will be e-mailed to you.」（https://www.hhmglobal.com/clients/boge-kompressoren-asia-pacific・3回目）
+- 検索結果の抜粋：
+  - 「BOGE KOMPRESSOREN ASIA PACIFIC PTE LTD | LinkedIn — BOGE KOMPRESSOREN ASIA PACIFIC PTE LTD | LinkedIn LinkedIn Singapore https://sg.linkedin.com > company」（https://sg.linkedin.com/company/boge-kompressoren-asia-pacific-pte-ltd・3回目）
+  - 「BOGE Kompressoren Spare Parts - KTB Europe — BOGE Kompressoren Spare Parts - KTB Europe KTB Europe https://www.ktb-europe.com > boge」（https://www.ktb-europe.com/en/manufacturer/boge/・3回目）
+  - 「BOGE Kompressoren Asia Pacific | HHM Global — BOGE Kompressoren Asia Pacific | HHM Global Hospital & Healthcare Management https://www.hhmglobal.com > clients」（https://www.hhmglobal.com/clients/boge-kompressoren-asia-pacific・3回目）
+  - 「BOGE America - Compressed Air Systems — BOGE Kompressoren has been a manufacturer of industrial compressors and compressed air systems in Germany for more than 100 years.」（https://zh.boge.com/en-us/case-studies/・3回目）
+  - 「BOGE Compressors International — BOGE Kompressoren has been a manufacturer of industrial compressors and compressed air systems in Germany for more than 100 years.」（https://zh.boge.com/en/case-studies/ksi/・3回目）
+  - 「boge kompressoren - Crunchbase Company Profile & Funding — BOGE Kompressoren manufactures industrial compressors and compressed air systems for industrial and commercial applications. Its portfolio includes screw, piston, and turbo compressors, as well as compressed air dryers, filters, storage equipment, and other treatment components.」（https://www.crunchbase.com/organization/boge-kompressoren・3回目）
+  - 「Boge - Crunchbase Company Profile & FundingBOGE Compressors Ltd Information - RocketReachBOGE Compressed Air Systems GmbH & Co. KG InformationBOGE Kompressoren GmbH, Hirschbach im Mühlkreis, AustriaBOGE’s Competitors, Revenue, Number of Employees, Funding ... — Boge is an industrial engineering company that manufactures and distributes compressor and compressed air solutions. BOGE Compressors Ltd 」（https://www.crunchbase.com/organization/boge・3回目）
+  - 「BOGE Compressors Ltd Information - RocketReachBOGE Compressed Air Systems GmbH & Co. KG InformationBOGE Kompressoren GmbH, Hirschbach im Mühlkreis, AustriaBOGE’s Competitors, Revenue, Number of Employees, Funding ... — BOGE Compressors Ltd is a Hand, Power And Lawn-Care Tools, Consumer Goods, and Manufacturing company located in Bielefeld with $187.9 million in revenue and 0 employees. Find top em」（https://rocketreach.co/boge-compressors-ltd-profile_b446825cfaead513・3回目）
+  - 「BOGE Compressed Air Systems GmbH & Co. KG InformationBOGE Kompressoren GmbH, Hirschbach im Mühlkreis, AustriaBOGE’s Competitors, Revenue, Number of Employees, Funding ... — BOGE Compressed Air Systems GmbH & Co. KG is a Machinery Manufacturing company located in Bielefeld, North Rhine-Westphalia with $187.9 million in revenue and 29 employees. Find top employees, contact details and business stati」（https://rocketreach.co/boge-compressed-air-systems-gmbh-co-kg-profile_b7463495c53a4533・3回目）
+- 創業年度：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部22頁・検索12回）
+- 株主：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部22頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部22頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部22頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部22頁・検索12回）
+- 料金：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部22頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部22頁・検索12回）
+
 ## Boostable
 - 公式URL：http://boostable.com（given）
 - 採用・広告の製品：
@@ -2056,6 +2937,21 @@
 - 料金：記載なし（3回確認済み：公式20頁／PDF・画像1件／外部30頁・検索12回）
 - 日本の担い手：記載なし（3回確認済み：公式20頁／PDF・画像1件／外部30頁・検索12回）
 
+## Brandenburger Isoliertechnik GmbH & Co. KG
+- 公式URL：特定できず（not_found）
+- 創業年度：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部20頁・検索20回）
+- 株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部20頁・検索20回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部20頁・検索20回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部20頁・検索20回）
+- 所在地：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部20頁・検索20回）
+- 料金：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部20頁・検索20回）
+- 連絡先：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部20頁・検索20回）
+- 採用・広告の製品：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部20頁・検索20回）
+- 製造業の実績：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部20頁・検索20回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部20頁・検索20回）
+- 日本の担い手：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部20頁・検索20回）
+- 規模・親会社：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部20頁・検索20回）
+
 ## Bulletin
 - 公式URL：https://bulletin.co（given）
 - 創業年度：Founded：2015（https://prospeo.io/c/bulletin-revenue・3回目）
@@ -2139,6 +3035,96 @@
 - 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）
 - 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）
 
+## Burckhardt Compression
+- 公式URL：https://www.burckhardtcompression.com/（given）
+- 創業年度：Founded：1844（https://en.wikipedia.org/wiki/Burckhardt_Compression・3回目）
+- 創業年度：Founded：2014（https://prospeo.io/c/burckhardt-compression-us-revenue・3回目）
+- 株主：No funding（https://prospeo.io/c/burckhardt-compression-us-revenue・3回目）
+- 売上高：$593,000（https://prospeo.io/c/burckhardt-compression-us-revenue・3回目）
+- 所在地：Kondhapuri, Pune, India（https://resources.sw.siemens.com/en-US/case-study-burckhardt-compression/・3回目）
+- 所在地：Winterthur , Switzerland（https://en.wikipedia.org/wiki/Burckhardt_Compression・3回目）
+- 所在地：19750 FM 362 Rd, Suite 100, Waller, TX 77484, US（https://prospeo.io/c/burckhardt-compression-us-revenue・3回目）
+- 採用・広告の製品：
+  - 「Home - Burckhardt Compression」（https://www.burckhardtcompression.com/・1回目）
+  - 「Discover how our advanced compressor solutions can enhance your petrochemical and chemical operations. From ethylene and propylene production to ammonia synthesis, our products ensure optimal performance, reliability, and efficiency. Learn more about our services and success stories that highlight reduced maintenance costs, increased reliability, and extended compressor lifetimes.」（https://www.burckhardtcompression.com/・1回目）
+  - 「Polyolefins production」（https://www.burckhardtcompression.com/・1回目）
+  - 「Hydrogen offshore production」（https://www.burckhardtcompression.com/・1回目）
+  - 「Refinery compression solutions」（https://www.burckhardtcompression.com/・1回目）
+  - 「Gas gathering and processing」（https://www.burckhardtcompression.com/・1回目）
+  - 「Gas processing plants」（https://www.burckhardtcompression.com/・1回目）
+  - 「Gas gathering and processing service solutions」（https://www.burckhardtcompression.com/・1回目）
+  - 「Laby K / D compressors」（https://www.burckhardtcompression.com/・1回目）
+  - 「BCM FGI 350-1.0 compressors」（https://www.burckhardtcompression.com/・1回目）
+  - 「Laby 2K70 compressors」（https://www.burckhardtcompression.com/・1回目）
+  - 「Process gas compressors」（https://www.burckhardtcompression.com/・1回目）
+- 製造業の実績：
+  - 「Industrial gas service solutions」（https://www.burckhardtcompression.com/・1回目）
+  - 「Gas processing plants」（https://www.burckhardtcompression.com/・1回目）
+  - 「With over nine Service Centers in Europe and additional locations worldwide, we ensure rapid response times. Our global support network is available 24/7 and is backed by a team of highly skilled technicians.」（https://www.burckhardtcompression.com/about/news-stories-and-whitepapers/article/partnership-driven-excellence-in-hydrogen-compression/・1回目）
+  - 「Industrial gas service solutions」（https://www.burckhardtcompression.com/services/partnership-solutions/・1回目）
+  - 「Gas processing plants」（https://www.burckhardtcompression.com/services/partnership-solutions/・1回目）
+  - 「Industrial gas service solutions」（https://www.burckhardtcompression.com/services/partnership-solutions/strategic-agreements/・1回目）
+  - 「Gas processing plants」（https://www.burckhardtcompression.com/services/partnership-solutions/strategic-agreements/・1回目）
+  - 「Get responsive on-site support from our localized technicians.」（https://www.burckhardtcompression.com/services/partnership-solutions/strategic-agreements/・1回目）
+  - 「Industrial gas service solutions」（https://www.burckhardtcompression.com/services/partnership-solutions/compressor-technology-trainings/・1回目）
+  - 「Gas processing plants」（https://www.burckhardtcompression.com/services/partnership-solutions/compressor-technology-trainings/・1回目）
+  - 「Industrial gas service solutions」（https://www.burckhardtcompression.com/services/partnership-solutions/voice-of-customer-satisfaction-survey/・1回目）
+  - 「Gas processing plants」（https://www.burckhardtcompression.com/services/partnership-solutions/voice-of-customer-satisfaction-survey/・1回目）
+- 再販・ホワイトラベル：
+  - 「Recruitment agencies - Burckhardt Compression」（https://www.burckhardtcompression.com/about/careers/recruitment-agencies/・1回目）
+  - 「Are you a recruitment agency and would like to work with us? In general, we are open to onboarding new external recruitment partners. To build a successful collaboration, we first evaluate whether your services match our current recruiting needs and regional coverage. Therefore, we follow a clear onboarding process for recruitment agencies.」（https://www.burckhardtcompression.com/about/careers/recruitment-agencies/・1回目）
+  - 「We only accept candidate profiles from recruitment agencies」（https://www.burckhardtcompression.com/about/careers/recruitment-agencies/・1回目）
+  - 「We accept candidate profiles through recruitment agencies」（https://www.burckhardtcompression.com/about/careers/recruitment-agencies/・1回目）
+  - 「Vacancy posting guidelines for registered agencies」（https://www.burckhardtcompression.com/about/careers/recruitment-agencies/・1回目）
+  - 「All vacancies, open for recruitment agencies are posted in our portal. Please use your respective login to access the portal and oversee our vacancies. For special requirements where we require your support to fill the position, we may notify you separately.」（https://www.burckhardtcompression.com/about/careers/recruitment-agencies/・1回目）
+  - 「Some roles are not open for profiles provided by recruitment agencies. Kindly refer to our」（https://www.burckhardtcompression.com/about/careers/recruitment-agencies/・1回目）
+  - 「No matter what compressor model or brand, as your trusted service partner, we can draw on decades of experience as an OEM to solve all challenges that you might face.」（https://www.burckhardtcompression.com/applications/petrochemical-and-chemical/service-solutions-for-the-petrochemical-and-chemical-industry/・1回目）
+- 日本の担い手：
+  - 「Burckhardt Compression has acquired global compressor business from The Japan Steel Works - Lincoln International LLC」（https://www.lincolninternational.com/transactions/burckhardt-compression-has-acquired-global-compressor-business-from-the-japan-steel-works/・3回目）
+  - 「Burckhardt Compression has acquired global compressor business from The Japan Steel Works」（https://www.lincolninternational.com/transactions/burckhardt-compression-has-acquired-global-compressor-business-from-the-japan-steel-works/・3回目）
+  - 「About The Japan Steel Works Ltd.」（https://www.lincolninternational.com/transactions/burckhardt-compression-has-acquired-global-compressor-business-from-the-japan-steel-works/・3回目）
+  - 「JPX Japan Exchange Group: 56310」（https://www.lincolninternational.com/transactions/burckhardt-compression-has-acquired-global-compressor-business-from-the-japan-steel-works/・3回目）
+  - 「Managing Director & Head of Japan」（https://www.lincolninternational.com/transactions/burckhardt-compression-has-acquired-global-compressor-business-from-the-japan-steel-works/・3回目）
+  - 「JSW Announces the Transfer of Compressor Business to Burckhardt Compression (Japan) Ltd | News | The Japan Steel Works, LTD.」（https://www.jsw.co.jp/en/news/details/20200305001000.html・3回目）
+  - 「Compliance Policy for The Japan Steel Works Group」（https://www.jsw.co.jp/en/news/details/20200305001000.html・3回目）
+  - 「The Japan Steel Works Group Basic Sustainability Policy」（https://www.jsw.co.jp/en/news/details/20200305001000.html・3回目）
+  - 「JSW Announces the Transfer of Compressor Business to Burckhardt Compression (Japan) Ltd」（https://www.jsw.co.jp/en/news/details/20200305001000.html・3回目）
+  - 「The Japan Steel Works, Ltd. (hereinafter JSW) announced that JSW agreed with Burckhardt Compression (Japan) Ltd (hereinafter BCJP, CEO Kenichi Yamamoto, Headquartered in Yokohama Japan), a subsidiary company of Burckhardt Compression AG in Winterthur, Switzerland, to transfer JSW Compressor Business to BCJP.」（https://www.jsw.co.jp/en/news/details/20200305001000.html・3回目）
+  - 「Click here to contact The Japan Steel Works, Ltd.」（https://www.jsw.co.jp/en/news/details/20200305001000.html・3回目）
+  - 「© The Japan Steel Works, LTD.」（https://www.jsw.co.jp/en/news/details/20200305001000.html・3回目）
+- 規模・親会社：
+  - 「Marine LPG and ammonia carriers」（https://www.burckhardtcompression.com/・1回目）
+  - 「Explore Burckhardt Compression and learn more about our organization and our mission, values, innovative products and services. We are looking for long-term partnerships with our employees, customers, suppliers, media and investors.」（https://www.burckhardtcompression.com/・1回目）
+  - 「Sustainability is an integrated part of our strategy, and a key to creating leading compression solutions for a sustainable energy future.」（https://www.burckhardtcompression.com/・1回目）
+  - 「Marine LPG and ammonia carriers」（https://www.burckhardtcompression.com/services/partnership-solutions/・1回目）
+  - 「Explore Burckhardt Compression and learn more about our organization and our mission, values, innovative products and services. We are looking for long-term partnerships with our employees, customers, suppliers, media and investors.」（https://www.burckhardtcompression.com/services/partnership-solutions/・1回目）
+  - 「Marine LPG and ammonia carriers」（https://www.burckhardtcompression.com/services/partnership-solutions/strategic-agreements/・1回目）
+  - 「Explore Burckhardt Compression and learn more about our organization and our mission, values, innovative products and services. We are looking for long-term partnerships with our employees, customers, suppliers, media and investors.」（https://www.burckhardtcompression.com/services/partnership-solutions/strategic-agreements/・1回目）
+  - 「(MSA: Master Service Agreements, FWA: Framework Agreements, LTSA: Long-Term Service Agreements, SLA: Service Level Agreement, SSA: Service Subscription Agreement, WEA: Warranty Extension Agreement)」（https://www.burckhardtcompression.com/services/partnership-solutions/strategic-agreements/・1回目）
+  - 「Marine LPG and ammonia carriers」（https://www.burckhardtcompression.com/services/partnership-solutions/compressor-technology-trainings/・1回目）
+  - 「Explore Burckhardt Compression and learn more about our organization and our mission, values, innovative products and services. We are looking for long-term partnerships with our employees, customers, suppliers, media and investors.」（https://www.burckhardtcompression.com/services/partnership-solutions/compressor-technology-trainings/・1回目）
+  - 「Marine LPG and ammonia carriers」（https://www.burckhardtcompression.com/services/partnership-solutions/voice-of-customer-satisfaction-survey/・1回目）
+  - 「Explore Burckhardt Compression and learn more about our organization and our mission, values, innovative products and services. We are looking for long-term partnerships with our employees, customers, suppliers, media and investors.」（https://www.burckhardtcompression.com/services/partnership-solutions/voice-of-customer-satisfaction-survey/・1回目）
+- 連絡先：
+  - 「Our training programs are available worldwide. Selected courses are offered through our network of locations. Contact us to discover your training options.」（https://www.burckhardtcompression.com/services/partnership-solutions/compressor-technology-trainings/・1回目）
+  - 「To avoid misunderstandings, we do not accept unsolicited CVs sent outside our defined process (e.g., directly to hiring managers or via email without prior agreement). This approach is consistent with common market practice and helps protect candidate data and ensure a fair, transparent recruitment process.」（https://www.burckhardtcompression.com/about/careers/recruitment-agencies/・1回目）
+  - 「Build leads list with verified emails & mobiles」（https://prospeo.io/c/burckhardt-compression-us-revenue・3回目）
+- 検索結果の抜粋：
+  - 「Burckhardt Compression (Japan) Ltd. — Burckhardt Compression (Japan) Ltd. Burckhardt Compression https://www.burckhardtcompression.com > ...」（https://www.burckhardtcompression.com/about/contact-us/your-local-contact/location/burckhardt-compression-japan-ltd-hiroshima/・3回目）
+  - 「Burckhardt Compression has acquired global compressor ... — Burckhardt Compression has acquired global compressor ... Lincoln International https://www.lincolninternational.com > ...」（https://www.lincolninternational.com/transactions/burckhardt-compression-has-acquired-global-compressor-business-from-the-japan-steel-works/・3回目）
+  - 「Burckhardt Compression - 出展社詳細 — Burckhardt Compression - 出展社詳細 スマートエネルギーWeek https://www.wsew.jp > spring > ja-jp > search > directory」（https://www.wsew.jp/spring/ja-jp/search/2026/directory/directory-details.org-f348a7e0-ea16-487c-999e-4e449dbc139d.html・3回目）
+  - 「Your local contact - Burckhardt Compression — Your local contact - Burckhardt Compression Burckhardt Compression https://www.burckhardtcompression.com > ...」（https://www.burckhardtcompression.com/about/contact-us/your-local-contact/3/・3回目）
+  - 「Burckhardt Compression AGのすべてのカタログと技術 ... — Burckhardt Compression AGのすべてのカタログと技術 ... DirectIndustry https://pdf.directindustry.com > pdf > burckhardt-compre...」（https://pdf.directindustry.com/ja/pdf/burckhardt-compression-ag-29022.html・3回目）
+  - 「Burckhardt Compression ( Japan ) Ltd. — Burckhardt Compression ( Japan ) Ltd. Burckhardt Compression https://www.burckhardtcompression.com > ...」（https://www.burckhardtcompression.com/about/contact-us/your-local-contact/location/burckhardt-compression-japan-ltd-kanagawa/・3回目）
+  - 「Burckhardt Compression Japan has officially opened a new ... — Burckhardt Compression Japan has officially opened a new ... Facebook https://www.facebook.com > posts > burckhardt-compress...」（https://www.facebook.com/burckhardt.compression/posts/burckhardt-compression-japan-has-officially-opened-a-new-dedicated-service-cente/724859367073353/・3回目）
+  - 「Case Study: Burckhardt Compression boosts plant design growth ... — Burckhardt Compression - Customer Case Study Burckhardt Compression, a global leader in reciprocating compressor technology, faced the challenge of modernizing its plant design and engineering processes to support its rapid growth and complex global projects.」（https://www.casestudies.com/company/cad-schroer/case-study/burckhardt-compression-customer-case-study・3回目）
+  - 「Burckhardt Compression Case Study | Siemens — Burckhardt Compression Burckhardt Compression India Pvt. Ltd. (BCIN) is a wholly owned subsidiary of Burckhardt Compression AG of Switzerland, one of the leading manufacturers of reciprocating compressor systems. The company’s products enjoy the reputation of high quality and minimal lifecycle costs and are backed by a full range of services.」（https://resources.sw.siemens.com/en-US/case-study-burckhardt-compression/・3回目）
+  - 「SUCCESS STORY - burckhardtcompression.com — The customer contacted Burckhardt Compression to revamp and overhaul the compressor to efficiently meet the new operating parameters. A detailed inspection and engineering study were required to identify the optimal approach to modification and revamp.」（https://www.burckhardtcompression.com/fileadmin/uploads/burckhardt/documents/articles/2022/compressor-optimization-meets-new-process-220202-en.pdf・3回目）
+  - 「B2B Case Studies: How Burckhardt Compression Uses Software ... — Explore case studies featuring Burckhardt Compression as the customer — learn how vendors and partners helped Burckhardt Compression solve real business challenges.」（https://www.casestudies.com/customer/burckhardt-compression・3回目）
+  - 「Burckhardt Compression transforms its service portfolio — Burckhardt Compression is the only global manufacturer that covers a full range of reciprocating compressor technologies and services. The organisation’s compressor systems are used in petrochemical, gas transport & storage, hydrogen mobility & energy and other sectors. The company aimed to transform its service portfolio to meet the growin」（https://www.zuehlke.com/en/case-studies/burckhardt-compression-embarks-on-a-service-portfolio-transformation-journey-for・3回目）
+- 従業員数：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部29頁・検索12回）
+- 料金：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部29頁・検索12回）
+
 ## Buywith
 - 公式URL：https://buywith.com（given）
 - 創業年度：Founded：2018（https://prospeo.io/c/buywith-revenue・3回目）
@@ -2220,6 +3206,23 @@
   - 「buywith - 2026 Company Profile, Team, Funding & Competitors ...buywith — Company Profile | The Company Checkbuywith Company Profile: Financials, Valuation, and Growth — Mar 24, 2026 · buywith is a seed company based in New York City (United States), founded in 2018 by Adi Ronen and Eyal Sinai. It operates as a Provider of video commerce platform offering live and on-demand shopping. buywith has ra」（https://tracxn.com/d/companies/buywith/__nbn2UEVzNHjrrSNizboLML1z8MN1ONSYkZ_3JAbBeVk・3回目）
 - 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索12回）
 - 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索12回）
+
+## CSM TURKEY MAKİNA SAN. İTH.İHR. DAN. TİC. LTD. ŞTİ.
+- 公式URL：https://ilanvermakina.com/（given）
+- 採用・広告の製品：
+  - 「Tezgah Takımları / Yedek Parça / Aksesuar / Sport / Matkap Sportu / Tabla Sportu / Çapraz Sport」（https://ilanvermakina.com/・1回目）
+  - 「CSM (CHIAO SHENG MACHINERY CO LTD) firmamızın temelleri 1980 yılında Tayvan da atılmış olup CNC, NC ve Konvansiyonel Tip Boru Bükme makinaları, CNC Tel Büküm makinası, Boru Ucu Form Verme makinaları, NC ve Konvansiyonel Tip Boru-Profil Kesim makinalarının üretimi, satışı ve satış sonrası hizmet veren uluslararası bir firmadır.」（https://www.maktekfuari.com/brand/csm-turkey-makina-san-ithihr-dan-tic-ltd-sti・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 製造業の実績：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
 
 ## Calltree
 - 公式URL：https://calltree.ai（given）
@@ -6763,6 +7766,40 @@ USA（https://prtimes.jp/main/html/rd/p/000000141.000043150.html・3回目）
 - 料金：記載なし（3回確認済み：公式20頁／PDF・画像2件／外部32頁・検索12回）
 - 日本の担い手：記載なし（3回確認済み：公式20頁／PDF・画像2件／外部32頁・検索12回）
 
+## DG press ServiceS B.V.
+- 公式URL：https://dgpress.nl/（given）
+- 採用・広告の製品：
+  - 「Hybrid Web Offset Printing | DG press」（https://dgpress.nl/・1回目）
+  - 「Training and production support」（https://dgpress.nl/・1回目）
+  - 「We provide high-quality hybrid web offset machines and service to assist our customers in reaching their full production potential.」（https://dgpress.nl/・1回目）
+  - 「DG press offers more than just machines.」（https://dgpress.nl/・1回目）
+  - 「Did you know that we have been in the printing industry for over 50 years?」（https://dgpress.nl/・1回目）
+  - 「DG press provides reliable, flexible, and high-quality printing.」（https://dgpress.nl/・1回目）
+  - 「Learn more about the different printing technologies.」（https://dgpress.nl/・1回目）
+  - 「Used equipment proves to be a good alternative to new machinery」（https://dgpress.nl/・1回目）
+  - 「The base of your products」（https://dgpress.nl/・1回目）
+  - 「Our hybrid web offset presses are built for high-quality packaging printing & can combine multiple printing techniques in-line.」（https://dgpress.nl/・1回目）
+  - 「Print with DG press to meet the high-quality demands of the market and stay ahead of the counterfeits.」（https://dgpress.nl/・1回目）
+  - 「The DG-Vision and the DG-AUXO are highly suitable for the production of medical inserts/leaflets or prescriptions.」（https://dgpress.nl/・1回目）
+- 製造業の実績：
+  - 「About Us | Printing Press Manufacturer | DG press」（https://dgpress.nl/about-us/・1回目）
+- 規模・親会社：
+  - 「, as well as young enthusiastic employees with the drive and commitment to carry on the tradition.」（https://dgpress.nl/career/・1回目）
+  - 「DG press was founded in August 2009 with 12 employees (all former Drent Goebel employees). Initially, the emphasis was primarily on services, such as maintenance and the sale of spare parts.」（https://dgpress.nl/about-us/・1回目）
+- 検索結果の抜粋：
+  - 「DG Press Services BV - Company Profile and News — Dg Press Services B.V. was founded in 2011. The company's line of business includes the wholesale distribution of industrial machinery and equipment.」（https://www.bloomberg.com/profile/company/2386716D:NA・3回目）
+  - 「Dg Press Services B.V. full company profile on Creditsafe — Dg Press Services B.V. operates within the Intermediation of machines, devices, tools used in the industry as well as in ships and aircraft industry. It was incorporated in 2011. Its headquarters are located at Hallseweg 21, 6964 AJ, Hall. The company number for Dg Press Services B.V. is 52887898, with a safe number NL02880569.」（https://www.creditsafe.com/business-index/en-gb/company/dg-press-services-bv-nl02880569・3回目）
+  - 「DG press ServiceS B.V. ♦ Netherlands, Hall - paper-world.com — Suppliers • DG press ServiceS B.V. • Hall, Netherlands Products List of suppliers' products 63 - Machines and plants, misc. and printing machines 63.08 - Machines and plants, misc. 63.08.26 - Used machinery 63.11 - Printing machines 63.11.09 - Printing machines, misc.; Printing presses, printing systems, printers」（https://www.paper-world.com/en/company/dg-press-services-bv-hall-1359606・3回目）
+- 創業年度：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部20頁・検索12回）
+- 株主：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部20頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部20頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部20頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部20頁・検索12回）
+- 料金：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部20頁・検索12回）
+- 連絡先：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部20頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部20頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部20頁・検索12回）
+
 ## Daedalus
 - 公式URL：https://www.daedalus.de/（given）
 - 創業年度：Founded：2020（https://prospeo.io/c/daedalus-revenue・3回目）
@@ -8135,6 +9172,120 @@ USA（https://prtimes.jp/main/html/rd/p/000000141.000043150.html・3回目）
 - 料金：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部23頁・検索12回）
 - 日本の担い手：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部23頁・検索12回）
 
+## EDM Network Inc
+- 公式URL：https://www.edmnetwork.com/（given）
+- 採用・広告の製品：
+  - 「EDM Network, Inc - We offer “Everything in EDM” affordably priced!」（https://www.edmnetwork.com/・1回目）
+  - 「New & Refurbished Machines · On-Site Training · Full Warranty」（https://www.edmnetwork.com/・1回目）
+  - 「We offer the largest selection of CHMER Wires, Sinkers, Drillers and High-Speed Mills. We also offer ZNC and CNC Drillers, Vertical and Horizontal Fast-Wire EDMs and our new Abrasive Saws for graphite and composite materials. As aways, sold complete with on-site setup and training since 1992.」（https://www.edmnetwork.com/・1回目）
+  - 「Horizontal Fast Wire - Upright」（https://www.edmnetwork.com/・1回目）
+  - 「AMS Tech AW9SL High Precision Linear Motor Wire EDM」（https://www.edmnetwork.com/・1回目）
+  - 「CHMER AD4L High Precision EDM Drill」（https://www.edmnetwork.com/・1回目）
+  - 「EDMMax 865S Abrasive Reciprocating Saw」（https://www.edmnetwork.com/・1回目）
+  - 「EDM Network is an American-owned exclusive EDM sales and service company, selling only EDM products. All of our new and refurbished EDMs are sold complete with on-site setup and training at your facility (typically 3–4 days) included. Warranties are provided with all new and refurbished EDMs.」（https://www.edmnetwork.com/・1回目）
+  - 「We offer CHMER EDMs from Taiwan with over 65 different models of Wire, Sinker, and Small Hole Drillers, plus their exclusive Dust-Free Graphite High-Speed Mills for electrodes. NSD EDM Drillers from South Korea for affordable CNC EDM Drillers in 3–6 axes. And multiple models of EDMMax Fast Wire EDMs for 3D metal printing cut-off and other hard-to-flush wire EDM applications.」（https://www.edmnetwork.com/・1回目）
+  - 「affordably priced, including applications consulting, turnkey EDM solutions, EDM consumables, EDM tooling, and spare parts for various older EDM models.」（https://www.edmnetwork.com/・1回目）
+  - 「Latest EDM inventory & promotions」（https://www.edmnetwork.com/・1回目）
+  - 「From design review to final delivery, we provide everything」（https://www.edmnetwork.com/pages/turn-key-edm-solutions・1回目）
+- 規模・親会社：
+  - 「New & Refurbished Machines · On-Site Training · Full Warranty」（https://www.edmnetwork.com/・1回目）
+  - 「EDM Network is an American-owned exclusive EDM sales and service company, selling only EDM products. All of our new and refurbished EDMs are sold complete with on-site setup and training at your facility (typically 3–4 days) included. Warranties are provided with all new and refurbished EDMs.」（https://www.edmnetwork.com/・1回目）
+- 創業年度：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索12回）
+- 株主：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索12回）
+- 料金：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索12回）
+- 連絡先：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索12回）
+- 製造業の実績：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索12回）
+
+## EGE TEKNİK CNC MAK. İTH. İHR. TİC. SAN. LTD. ŞTİ.
+- 公式URL：https://egeteknikcnc.com.tr/（given）
+- 採用・広告の製品：
+  - 「Değerli müşterilerimiz, Egeteknikcnc olarak sizlere daha iyi hizmet sunmak ve Proseiki ürünlerimiz hakkında daha kapsamlı bilgi sağlayabilmek adına yeni web」（https://egeteknikcnc.com.tr/・1回目）
+  - 「PRO315」（https://www.maktekfuari.com/katilimci-listesi/ege-teknik-cnc-mak-ith-ihr-tic-san-ltd-sti-116528-2768・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像2件／外部20頁・検索12回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像2件／外部20頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像2件／外部20頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像2件／外部20頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像2件／外部20頁・検索12回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像2件／外部20頁・検索12回）
+- 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像2件／外部20頁・検索12回）
+- 製造業の実績：記載なし（3回確認済み：公式1頁／PDF・画像2件／外部20頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像2件／外部20頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像2件／外部20頁・検索12回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像2件／外部20頁・検索12回）
+
+## ERDAL ÖZKAN MAKİNA MÜH. GIDA İNŞ. İM. İHR. İTH. A.Ş.
+- 公式URL：https://erdalozkan.com（given）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 採用・広告の製品：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 製造業の実績：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+
+## EYC-TECH
+- 公式URL：https://www.eyc-tech.com/（given）
+- 採用・広告の製品：
+  - 「Please review the privacy policy」（https://www.eyc-tech.com/・1回目）
+  - 「Please enter product name」（https://www.eyc-tech.com/・1回目）
+  - 「As a leading measurement specialist in Taiwan, eyc-tech integrates robust R&D, in-house production, and a TAF-accredited laboratory (ISO/IEC 17025). We deliver stable, traceable monitoring solutions—from sensing technology to system integration—for industrial clients worldwide.」（https://www.eyc-tech.com/・1回目）
+  - 「To validate our products, we established a calibration laboratory traced back to the international standards. We follow these standards to evaluate sensor accuracy, and to ensure our product meets customer’s high requirements.」（https://www.eyc-tech.com/・1回目）
+  - 「Operating pressure : Standard type : Max. 10 bar / High-temp. type : Max. 4 bar」（https://www.eyc-tech.com/・1回目）
+  - 「Features : Utilizes a unique Venturi tube structure, the Inline type air flow sensor designed for compressed air system」（https://www.eyc-tech.com/・1回目）
+  - 「Features : Designed for industrial application. Air flow measurement up to 120 m/s. Resistant to high temperature, high pressure, dust, and corrosion.」（https://www.eyc-tech.com/・1回目）
+  - 「IP rating : IP67(Probe) / IP65(Housing)」（https://www.eyc-tech.com/・1回目）
+  - 「eyc-tech air flow transmitter, ranging from 0.1 m/s to 200 m/s, with corresponding products available for all your needs. Our industrial models are built to withstand high temperatures, dust, and mildly corrosive air, making them ideal for a wide range of applications including HVAC, air compression systems, and industrial settings.」（https://www.eyc-tech.com/・1回目）
+  - 「eyc-tech dew point transmitter, with a measurement range reaching as low as -60 dp&deg;C, is specially designed for measuring dew points in compressed dry air systems (CDA) and industrial drying systems.」（https://www.eyc-tech.com/・1回目）
+  - 「Differential Pressure」（https://www.eyc-tech.com/・1回目）
+  - 「eyc-tech differential pressure transmitter is designed for measuring the air pressure difference between two points. When paired with a Pitot tube, it measures the air flow rate in pipelines. They fulfill the requirements for differential pressure measurement in various environments, including HVAC, clean rooms, environmental monitoring, and industrial processes.」（https://www.eyc-tech.com/・1回目）
+- 製造業の実績：
+  - 「As a leading measurement specialist in Taiwan, eyc-tech integrates robust R&D, in-house production, and a TAF-accredited laboratory (ISO/IEC 17025). We deliver stable, traceable monitoring solutions—from sensing technology to system integration—for industrial clients worldwide.」（https://www.eyc-tech.com/・1回目）
+  - 「FTM94/95 Industrial High Accuracy Thermal Mass Flow Transmitter」（https://www.eyc-tech.com/・1回目）
+  - 「Features : Designed for industrial application. Air flow measurement up to 120 m/s. Resistant to high temperature, high pressure, dust, and corrosion.」（https://www.eyc-tech.com/・1回目）
+  - 「eyc-tech air flow transmitter, ranging from 0.1 m/s to 200 m/s, with corresponding products available for all your needs. Our industrial models are built to withstand high temperatures, dust, and mildly corrosive air, making them ideal for a wide range of applications including HVAC, air compression systems, and industrial settings.」（https://www.eyc-tech.com/・1回目）
+  - 「eyc-tech's humidity measurement instruments, integrated with temperature transmitters, feature a wide temperature range and excellent long-term stability. Its industrial-grade type can withstand high temperatures,&nbsp; dust, and mildly corrosive gases, meeting various environmental monitoring needs, including HVAC and various industrial applications.」（https://www.eyc-tech.com/・1回目）
+  - 「eyc-tech dew point transmitter, with a measurement range reaching as low as -60 dp&deg;C, is specially designed for measuring dew points in compressed dry air systems (CDA) and industrial drying systems.」（https://www.eyc-tech.com/・1回目）
+  - 「eyc-tech differential pressure transmitter is designed for measuring the air pressure difference between two points. When paired with a Pitot tube, it measures the air flow rate in pipelines. They fulfill the requirements for differential pressure measurement in various environments, including HVAC, clean rooms, environmental monitoring, and industrial processes.」（https://www.eyc-tech.com/・1回目）
+  - 「eyc-tech temperature transmitter, we also provides a series of products with RTD Head-Mounting type, thermocouples, and thermal resistors(RTD/TC Series), meeting diverse industrial requirements.」（https://www.eyc-tech.com/・1回目）
+  - 「eyc-tech level transmitter, with its submersible sensing capability and excellent waterproof performance, is suitable for environment monitoring and industrial applications.」（https://www.eyc-tech.com/・1回目）
+  - 「About eyc-tech | Industrial Sensors & Transmitters」（https://www.eyc-tech.com/about-eyc-tech・1回目）
+  - 「Industrial Environmental and Process Measurement Experts」（https://www.eyc-tech.com/about-eyc-tech・1回目）
+  - 「From Advanced Manufacturing to Industrial Environmental Control」（https://www.eyc-tech.com/about-eyc-tech・1回目）
+- 規模・親会社：
+  - 「After leaving the CDU, coolant is distributed through the main supply to different areas and server racks. After absorbing heat, the coolant returns to the CDU through the return main. Because these mains carry the primary coolant flow throughout the liquid cooling system, monitoring main flow is an important method for understanding overall circulation conditions.」（https://www.eyc-tech.com/ai-server-and-data-center-liquid-cooling-measurement-solutions・1回目）
+  - 「In the event of abnormal data from transmitters, HMI can promptly display such information, assisting operators in taking immediate measures to prevent faults or carry out rapid maintenance.」（https://www.eyc-tech.com/eyc-tech-transmitters-paired-with-hmi-precision-compressed-air-system-monitoring・1回目）
+- 検索結果の抜粋：
+  - 「eyc-tech — Pressure eyc-tech pressure transmitter, measurement relative or absolute pressures, reaching up to 1,000 bar, suitable for measuring liquid or gas pressures in mechanical equipment.」（https://www.eyc-tech.com/・3回目）
+  - 「eyc-tech — 關於 eyc-tech 卓越技術，源自對精準的責任 作為台灣領先的量測專家，eyc-tech 不僅擁有強大的研發團隊與自主生產線，更具備符合 ISO/IEC 17025 標準的 TAF 國家級校正實驗室。 我們從感知技術到系統整合通訊，為全球工業客戶提供最穩定、可追溯的監控方案。」（https://zh-tw.eyc-tech.com/・3回目）
+  - 「About eyc-tech | Industrial Sensors & Transmitters — Discover eyc-tech, YUDEN-TECH's industrial measurement brand, offering sensors and transmitters for semiconductor, cleanroom, HVAC, and AI data center applications.」（https://www.eyc-tech.com/about-eyc-tech・3回目）
+  - 「About eyc-tech | Industrial Sensors & Transmitters — eyc-tech is an industrial measurement brand of YUDEN-TECH CO., LTD., specializing in the research, development, and manufacturing of industrial sensors and precision measurement instruments. Supported by an experienced R&D team, manufacturing expertise, and quality management systems, eyc-tech develops accurate, stable, and reliable products for」（https://www.eyc-tech.com/about-eyc-tech・3回目）
+  - 「eyc-tech — eyc-tech's humidity measurement instruments, integrated with temperature transmitters, feature a wide temperature range and excellent long-term stability. Its industrial-grade type can withstand high temperatures, dust, and mildly corrosive gases, meeting various environmental monitoring needs, including HVAC and various industrial applications.」（https://www.eyc-tech.com/・3回目）
+  - 「eyc-tech | LinkedIn — eyc-tech | 463 followers on LinkedIn. Measuring Specialist | Measuring Specialis Enhance your capability with sensor technology Products introduction： Air flow, Humidity, Dew point, Differential ...」（https://www.linkedin.com/company/eyc-tech・3回目）
+  - 「Automation Measuring Instrument and Meter Manufacturer ... — Driven by precision, reliability, and innovation, YUDEN-tech Control Technology goes beyond supplying instruments. Backed by an ISO 17025 accredited laboratory, we deliver trusted measurement solutions through our eyc-tech brand and leading global technologies.」（https://en.yuden.com.tw/・3回目）
+  - 「Success Story - eyc-techeyc-techeyc-tech Measurement Success Story | CleanroomsEYC-Tech - Charter Controls#semiconductormanufacturing #processenvironmentalcontrol # ...EY Case studies | EY - Globaleyc-tech | LinkedIn — Precise Environmental Monitoring in Cleanrooms; eyc-tech Transmitter A cleanroom is an environment designed to control the levels of microscopic particles and microorganisms in the 」（https://www.eyc-tech.com/list/successstory.htm・3回目）
+  - 「eyc-tech — Level eyc-tech level transmitter, with its submersible sensing capability and excellent waterproof performance, is suitable for environment monitoring and industrial applications.」（https://www.eyc-tech.com/・3回目）
+  - 「eyc-tech Measurement Success Story | Cleanrooms — eyc-tech possesses a variety of transmitters designed for precise measurement and monitoring of cleanroom environments, aiding in the maintenance of cleanliness and ensuring a reliable manufacturing environment. It serves as an indispensable tool for measuring cleanroom environments accurately.」（https://en.yuden.com.tw/precise-environmental-monitoring-in-cleanrooms-eyc-tech-transmitter・3回目）
+  - 「EYC-Tech - Charter Controls — EYC-tech is dedicated to manufacturing measurement products. With professional R&D team, certificated factory and decades of experience in field, eyc-tech keeps bringing innovation to sensor technology and measurement technology.」（https://www.charter-controls.com/Blog/Manufacturers/EYC-Tech/EYC-Tech・3回目）
+- 創業年度：記載なし（3回確認済み：公式12頁／PDF・画像1件／外部26頁・検索12回）
+- 株主：記載なし（3回確認済み：公式12頁／PDF・画像1件／外部26頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式12頁／PDF・画像1件／外部26頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式12頁／PDF・画像1件／外部26頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式12頁／PDF・画像1件／外部26頁・検索12回）
+- 料金：記載なし（3回確認済み：公式12頁／PDF・画像1件／外部26頁・検索12回）
+- 連絡先：記載なし（3回確認済み：公式12頁／PDF・画像1件／外部26頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式12頁／PDF・画像1件／外部26頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式12頁／PDF・画像1件／外部26頁・検索12回）
+
 ## Ecoplant
 - 公式URL：https://www.ecoplant.tech/（given）
 - 採用・広告の製品：
@@ -8971,6 +10122,62 @@ USA（https://prtimes.jp/main/html/rd/p/000000141.000043150.html・3回目）
 - 売上高：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部38頁・検索12回）
 - 料金：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部38頁・検索12回）
 - 日本の担い手：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部38頁・検索12回）
+
+## Elpress B.V.
+- 公式URL：https://www.elpress.com/（given）
+- 採用・広告の製品：
+  - 「Leading manufacturer in the field of industrial hygiene | Elpress」（https://www.elpress.com/・1回目）
+  - 「Your one-stop provider for smart industrial hygiene systems. A partner to the global manufacturing industry for 50 years.」（https://www.elpress.com/・1回目）
+  - 「Check out our products」（https://www.elpress.com/・1回目）
+  - 「We are specialists in industrial hygiene and have been helping companies worldwide to optimise their hygiene processes for 50 years. We design and manufacture everything in-house, so you can always count on top quality.」（https://www.elpress.com/・1回目）
+  - 「Ensure safe access to your production area with state-of-the-art Hygienic Entrances.」（https://www.elpress.com/・1回目）
+  - 「High-quality pressure-boosting systems and service points for your entire facility.」（https://www.elpress.com/・1回目）
+  - 「Curious about the rest of our product line? Discover all our solutions.」（https://www.elpress.com/・1回目）
+  - 「Driven by innovation, proven in practice」（https://www.elpress.com/・1回目）
+  - 「Represented in more than 65 countries」（https://www.elpress.com/・1回目）
+  - 「Your process is in safe hands with Elpress. A leader in industrial hygiene for over 50 years.」（https://www.elpress.com/・1回目）
+  - 「innovative in-house products」（https://www.elpress.com/・1回目）
+  - 「Find out how we put hygiene into practice」（https://www.elpress.com/・1回目）
+- 製造業の実績：
+  - 「Leading manufacturer in the field of industrial hygiene | Elpress」（https://www.elpress.com/・1回目）
+  - 「Your one-stop provider for smart industrial hygiene systems. A partner to the global manufacturing industry for 50 years.」（https://www.elpress.com/・1回目）
+  - 「We are specialists in industrial hygiene and have been helping companies worldwide to optimise their hygiene processes for 50 years. We design and manufacture everything in-house, so you can always count on top quality.」（https://www.elpress.com/・1回目）
+  - 「Industrial Washing Systems」（https://www.elpress.com/・1回目）
+  - 「High-quality industrial washing systems clean load carriers, crates, pallets or boxes.」（https://www.elpress.com/・1回目）
+  - 「Your process is in safe hands with Elpress. A leader in industrial hygiene for over 50 years.」（https://www.elpress.com/・1回目）
+  - 「Elpress is active in all branches within the food industry: from meat and fish processing and the dairy industry to bread, confectionery and potato, vegetable and fruit processing. It is also involved in farms, greenhouse construction and packaging plants. Our products and services play an active role in improving hygiene processes within your company.」（https://www.elpress.com/・1回目）
+  - 「Hygiene plays a crucial role within the non-food sector, where strict hygiene protocols are of great importance. With over 50 years of experience, Elpress is a leading manufacturer of hygiene solutions. We are therefore proud to say that the personal hygiene equipment from Elpress is HACCP International certified. Elpress is the only producer to have been awarded this certificate.」（https://www.elpress.com/・1回目）
+  - 「Hygiene holds a crucial position within the pharmaceutical sector, where strict hygiene protocols are enforced. With over 50 years of expertise, Elpress is the leading manufacturer of hygiene solutions. We are therefore proud to say that the personal hygiene equipment from Elpress is HACCP International certified. Elpress is the only producer to have been awarded this certificate.」（https://www.elpress.com/・1回目）
+  - 「Cucumber and tomato growers. Rose and plant growers. For both food and non-food, hygiene is a crucial part of the production process. Legally, these risks are controlled as much as possible by HACCP analyses, hygiene codes and/or overarching quality certificates.」（https://www.elpress.com/・1回目）
+  - 「Although our product ranges have been developed specifically for the market, Elpress does occasionally receive requests for bespoke solutions. We have over 50 years’ experience in industrial hygiene and are therefore well versed in bespoke projects.」（https://www.elpress.com/・1回目）
+  - 「Industrial washing systems」（https://www.elpress.com/about-us/resellers/・1回目）
+- 再販・ホワイトラベル：
+  - 「Elpress offers global hygiene solutions. Our qualitive reseller network reaches out from our neighbours Germany to all the way to New Zealand.」（https://www.elpress.com/about-us/resellers/・1回目）
+  - 「Elpress offers global hygiene solutions. Our qualitive reseller network reaches out from our neighbours Germany to all the way to New Zealand. Our resellers are selected on quality and experience. Mutual trust and a professional look at hygiene are key requirements for our selections.」（https://www.elpress.com/about-us/resellers/・1回目）
+  - 「Read more about our resellers」（https://www.elpress.com/about-us/・1回目）
+- 規模・親会社：
+  - 「High-quality industrial washing systems clean load carriers, crates, pallets or boxes.」（https://www.elpress.com/・1回目）
+  - 「Using hygiene entrances, a barrier and washbasins with hand dryers, Elpress ensures that everyone entering the production area has followed a careful hygiene protocol.」（https://www.elpress.com/・1回目）
+  - 「Cucumber and tomato growers. Rose and plant growers. For both food and non-food, hygiene is a crucial part of the production process. Legally, these risks are controlled as much as possible by HACCP analyses, hygiene codes and/or overarching quality certificates.」（https://www.elpress.com/・1回目）
+  - 「Our Employees | Elpress」（https://www.elpress.com/about-us/our-employees/・1回目）
+  - 「Health and safety are top priorities at Elpress. The VCA certification underscores this. All Elpress employees involved in hands-on work have completed basic safety training so that everyone is aware of potential (hidden) health and safety risks in the workplace.」（https://www.elpress.com/about-us/certifications/・1回目）
+  - 「Corporate social responsibility is very important to Elpress. Through our sustainable approach we make our company future-proof. We consciously deal with energy and we invest in our employees.」（https://www.elpress.com/about-us/about-us-corporate-social-responsibility/・1回目）
+  - 「As part of our commitment to our people and the environment, Elpress BV conducts a comprehensive annual evaluation of its sustainability initiatives through EcoVadis, the globally recognized authority on business sustainability assessments. The EcoVadis appraisal encompasses」（https://www.elpress.com/about-us/about-us-corporate-social-responsibility/・1回目）
+  - 「At Elpress, sustainable entrepreneurship has also been integrated into personnel policy. In this way, we work on the employability, loyalty, vitality and commitment of our employees.」（https://www.elpress.com/about-us/about-us-corporate-social-responsibility/・1回目）
+  - 「Elpress employees are given the opportunity to follow courses and trainings. This can be general training such as VCA and BHV, obtaining a forklift truck certificate, learning an (extra) language or subject-specific and deepening studies.」（https://www.elpress.com/about-us/about-us-corporate-social-responsibility/・1回目）
+  - 「We care about the hapiness of our employees. There is an informal atmosphere and the combination of a top-down and bottom-up strategy gives our employees the opportunity to think along with us.」（https://www.elpress.com/about-us/about-us-corporate-social-responsibility/・1回目）
+  - 「Healthy workplaces with a sit/stand option and offering fresh fruit contributes to the health of our employees. At Elpress, we believe it is important that our employees remain healthy and vital. In case of health problems Elpress provides a direct and short communication line with physiotherapists and company doctors.」（https://www.elpress.com/about-us/about-us-corporate-social-responsibility/・1回目）
+  - 「All packaging of Elpress products have the FSC label. FRC stands for the Forest Stewardship Council and is an international organisation that works on preserving and maintaining forests worldwide. In this way, Elpress takes account of the ecological, social and economical aspects that form part of forestry management.」（https://www.elpress.com/about-us/about-us-corporate-social-responsibility/・1回目）
+- 検索結果の抜粋：
+  - 「Elpress B.V. Information - RocketReach — Elpress B.V. is a Food Production, Industrial Machinery & Equipment, and Manufacturing company located in Boxmeer, North Brabant with $9 million in revenue and 1 employees.」（https://rocketreach.co/elpress-bv-profile_b450ed13fc7c428d・3回目）
+- 創業年度：記載なし（3回確認済み：公式16頁／PDF・画像0件／外部16頁・検索12回）
+- 株主：記載なし（3回確認済み：公式16頁／PDF・画像0件／外部16頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式16頁／PDF・画像0件／外部16頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式16頁／PDF・画像0件／外部16頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式16頁／PDF・画像0件／外部16頁・検索12回）
+- 料金：記載なし（3回確認済み：公式16頁／PDF・画像0件／外部16頁・検索12回）
+- 連絡先：記載なし（3回確認済み：公式16頁／PDF・画像0件／外部16頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式16頁／PDF・画像0件／外部16頁・検索12回）
 
 ## Encord
 - 公式URL：https://encord.com（given）
@@ -11345,6 +12552,73 @@ USA（https://prtimes.jp/main/html/rd/p/000000141.000043150.html・3回目）
 - 再販・ホワイトラベル：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部26頁・検索12回）
 - 日本の担い手：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部26頁・検索12回）
 
+## Florian Bauer Sondermaschinen GmbH
+- 公式URL：https://www.florianbauergmbh.de/（given）
+- 採用・広告の製品：
+  - 「Seit der Gründung im Jahr 1921 hat die Florian Bauer Sondermaschinen GmbH viele Wandlungen vollzogen. Immer geblieben ist jedoch unser Anspruch, unsere Kunden mit höchster Qualität und Flexibilität bei der Planung und Realisierung der Problemlösungen zu unterstützen.」（https://www.florianbauergmbh.de/・1回目）
+  - 「Angefangen bei der Entwicklung von Prozessen für Fertigungsabläufe, über die Konstruktion, die Fertigung komplexer Einzelteile und Baugruppen, bis hin zur Realisierung und Inbetriebnahme ganzer Automatisierungsanlagen; wir sind der richtige Partner für Sie – aus Tradition! Und mit der Erfahrung von mehr als 90 Jahren Firmengeschichte eines Familienunternehmens!」（https://www.florianbauergmbh.de/・1回目）
+  - 「Gemeinsam mit Ihren Spezialisten erarbeiten wir Lösungen für Ihren Fertigungsprozess.」（https://www.florianbauergmbh.de/・1回目）
+  - 「Ob Voll- oder Teilautomatisierung, wir finden den sinnvollsten und wirtschaftlichsten Weg für Ihre Produktion.」（https://www.florianbauergmbh.de/・1回目）
+  - 「Wir bieten Ihnen umfassende Kenntnisse in der Roboter-Programmierung und -Integration – in bereits bei Ihnen vorhandene Prozesse, oder als Teil unserer für Sie entwickelten Anlagen.」（https://www.florianbauergmbh.de/・1回目）
+  - 「Wir entwickeln, konstruieren und bauen für Sie individuell die Maschinen und Vorrichtungen zur Lösung der Herausforderungen in ihrer Produktion oder für neue Produktionsprozesse – stets alles aus einer Hand.」（https://www.florianbauergmbh.de/・1回目）
+  - 「Prototypen, Einzellösungen & Prozessentwicklung」（https://www.florianbauergmbh.de/・1回目）
+  - 「This report provides a detailed company analysis of Florian Bauer Sondermaschinen GmbH, based on publicly available information. It also includes recommendations for reliable suppliers in related industrial categories as requested.」（https://www.accio.com/business/florian-bauer-sondermaschinen-gmbh・3回目）
+  - 「The company's primary focus is on designing and building custom machines and devices to address specific production challenges」（https://www.accio.com/business/florian-bauer-sondermaschinen-gmbh・3回目）
+  - 「Florian Bauer Sondermaschinen GmbH provides repair and maintenance services for machine parts, assemblies, and complete machines, regardless of the original manufacturer or year of construction」（https://www.accio.com/business/florian-bauer-sondermaschinen-gmbh・3回目）
+  - 「The company is listed as a provider for services related to weighing technology and robot systems, indicating involvement in industrial automation and precision measurement sectors」（https://www.accio.com/business/florian-bauer-sondermaschinen-gmbh・3回目）
+  - 「CNC Machining and Precision Parts」（https://www.accio.com/business/florian-bauer-sondermaschinen-gmbh・3回目）
+- 製造業の実績：
+  - 「This report provides a detailed company analysis of Florian Bauer Sondermaschinen GmbH, based on publicly available information. It also includes recommendations for reliable suppliers in related industrial categories as requested.」（https://www.accio.com/business/florian-bauer-sondermaschinen-gmbh・3回目）
+  - 「Florian Bauer Sondermaschinen GmbH is a German company specializing in the development and manufacturing of special-purpose machinery. The company has a long history, having been founded in 1921」（https://www.accio.com/business/florian-bauer-sondermaschinen-gmbh・3回目）
+  - 「. Its service offerings are diverse and span several industrial areas:」（https://www.accio.com/business/florian-bauer-sondermaschinen-gmbh・3回目）
+  - 「Custom Manufacturing:」（https://www.accio.com/business/florian-bauer-sondermaschinen-gmbh・3回目）
+  - 「Florian Bauer Sondermaschinen GmbH provides repair and maintenance services for machine parts, assemblies, and complete machines, regardless of the original manufacturer or year of construction」（https://www.accio.com/business/florian-bauer-sondermaschinen-gmbh・3回目）
+  - 「The company is listed as a provider for services related to weighing technology and robot systems, indicating involvement in industrial automation and precision measurement sectors」（https://www.accio.com/business/florian-bauer-sondermaschinen-gmbh・3回目）
+  - 「The following are verified suppliers in categories related to Florian Bauer Sondermaschinen GmbH's business, such as CNC machining, custom machinery, and industrial repair. Suppliers are selected based on their experience, certifications, and customization capabilities.」（https://www.accio.com/business/florian-bauer-sondermaschinen-gmbh・3回目）
+  - 「Shenzhen JC Rapid MFG Industrial CO.. LTD」（https://www.accio.com/business/florian-bauer-sondermaschinen-gmbh・3回目）
+  - 「Custom Machinery and Industrial Automation」（https://www.accio.com/business/florian-bauer-sondermaschinen-gmbh・3回目）
+  - 「These suppliers provide services for building custom machinery, industrial automation solutions, and complete production lines, similar to the "Sondermaschinen" focus of Florian Bauer GmbH.」（https://www.accio.com/business/florian-bauer-sondermaschinen-gmbh・3回目）
+  - 「industrial electric fryer line」（https://www.accio.com/business/florian-bauer-sondermaschinen-gmbh・3回目）
+  - 「custom machinery manufacturer, industrial automation, specialized machines」（https://www.accio.com/business/florian-bauer-sondermaschinen-gmbh・3回目）
+- 再販・ホワイトラベル：
+  - 「Offers extensive customization (OEM, model number, packaging). Holds multiple certifications including」（https://www.accio.com/business/florian-bauer-sondermaschinen-gmbh・3回目）
+- 規模・親会社：
+  - 「The company is listed as a provider for services related to weighing technology and robot systems, indicating involvement in industrial automation and precision measurement sectors」（https://www.accio.com/business/florian-bauer-sondermaschinen-gmbh・3回目）
+  - 「Florian Bauer Sondermaschinen GmbH should not be confused with BAUER AG, a separate and much larger publicly-traded corporation. Financial data pertaining to BAUER AG, such as its group revenues exceeding €1.8 billion, is not associated with Florian Bauer Sondermaschinen GmbH」（https://www.accio.com/business/florian-bauer-sondermaschinen-gmbh・3回目）
+  - 「. Provides both drawing-based and sample-based customization. Has capabilities for raw material traceability and finished product inspection. High revenue and order volume. -」（https://www.accio.com/business/florian-bauer-sondermaschinen-gmbh・3回目）
+  - 「Florian Bauer Sondermaschinen is listed in the VDMA (Verband Deutscher Maschinen- und Anlagenbau) product database, reflecting its standing within the German mechanical engineering sector. The company is registered at the Amtsgericht Köln under HRB 44682. It is a member of the AWH business community in Hürth.」（https://robottoday.com/suppliers-discovery/florian-bauer-sondermaschinen-gmbh・3回目）
+  - 「In this company's full profile: email address, revenue estimate, multi-year financial figures, VAT ID, and 4 more. A free account opens 20 full profiles to start with and 5 every month.」（https://app.implisense.com/en/companies/florian-bauer-sondermaschinen-gmbh-huerth--DEVCLR3JM305・3回目）
+  - 「Revenue, result, equity and the multi-year history are in the full profile.」（https://app.implisense.com/en/companies/florian-bauer-sondermaschinen-gmbh-huerth--DEVCLR3JM305・3回目）
+  - 「A revenue estimate is on file for this company — in the full profile.」（https://app.implisense.com/en/companies/florian-bauer-sondermaschinen-gmbh-huerth--DEVCLR3JM305・3回目）
+  - 「Revenue, result and equity across every available year」（https://app.implisense.com/en/companies/florian-bauer-sondermaschinen-gmbh-huerth--DEVCLR3JM305・3回目）
+  - 「For this company, Revenue numbers are only available to」（https://www.northdata.com/Florian+Bauer+Sondermaschinen+GmbH,+H%C3%BCrth/Amtsgericht+K%C3%B6ln+HRB+44682・3回目）
+  - 「For this company, Employees numbers are only available to」（https://www.northdata.com/Florian+Bauer+Sondermaschinen+GmbH,+H%C3%BCrth/Amtsgericht+K%C3%B6ln+HRB+44682・3回目）
+- 連絡先：
+  - 「Phone contact is (+49 2233) 974 77-0 and the company email is」（https://robottoday.com/suppliers-discovery/florian-bauer-sondermaschinen-gmbh・3回目）
+  - 「In this company's full profile: email address, revenue estimate, multi-year financial figures, VAT ID, and 4 more. A free account opens 20 full profiles to start with and 5 every month.」（https://app.implisense.com/en/companies/florian-bauer-sondermaschinen-gmbh-huerth--DEVCLR3JM305・3回目）
+  - 「AI-powered research for publicly available contacts: name, role, phone, email, LinkedIn.」（https://app.implisense.com/en/companies/florian-bauer-sondermaschinen-gmbh-huerth--DEVCLR3JM305・3回目）
+  - 「If you put a company on your watch list, we'll notify you on your email」（https://www.northdata.com/Florian+Bauer+Sondermaschinen+GmbH,+H%C3%BCrth/Amtsgericht+K%C3%B6ln+HRB+44682・3回目）
+- 検索結果の抜粋：
+  - 「Florian Bauer Sondermaschinen GmbH — Sondermaschinen Wir entwickeln, konstruieren und bauen für Sie individuell die Maschinen und Vorrichtungen zur Lösung der Herausforderungen in ihrer Produktion oder für neue Produktionsprozesse – stets alles aus einer Hand.」（https://www.florianbauergmbh.de/・3回目）
+  - 「Florian Bauer Sondermaschinen GmbH — Am heutigen Standort arbeiten etwa 20 Spezialisten der verschiedensten Fachrichtungen an der Entwicklung und Fertigung von Sondermaschinen und Anlagen. Flexible Teamarbeit in den einzelnen Projekten, wirtschaftliche und umweltverträgliche Lösungen, Zuverlässigkeit in der Ausführung und termingerechte Fertigstellung sind die Basis unserer Firmenphilosophie – aus」（https://www.florianbauergmbh.de/ueberuns.php・3回目）
+  - 「Florian Bauer Sondermaschinen GmbH: Custom Machinery Experts — Jan 10, 2026 · Discover Florian Bauer Sondermaschinen GmbH's expertise in custom machinery and industrial automation. Click to explore detailed company analysis and top supplier recommendations for precision manufacturing needs.」（https://www.accio.com/business/florian-bauer-sondermaschinen-gmbh・3回目）
+  - 「Company Overview - Florian Bauer Sondermaschinen GmbH — Florian Bauer Sondermaschinen GmbH Products:null」（https://de1574814887ibmx.trustpass.alibaba.com/company_profile.html・3回目）
+  - 「Florian Bauer Sondermaschinen GmbH - RobotToday — Florian Bauer Sondermaschinen GmbH is a family-owned German manufacturer of custom special machines and automated assembly systems, located at Wegelinstrasse 4, 50354 Hürth, near Cologne. The company traces its origins to 1921 and has been operating under its current form as a GmbH with managing director Ulrich Bauer. The company first integrated a」（https://robottoday.com/suppliers-discovery/florian-bauer-sondermaschinen-gmbh・3回目）
+  - 「Florian Bauer Sondermaschinen GmbH — In bester Tradition, innovativ und unabhängig. Seit der Gründung im Jahr 1921 hat die Florian Bauer Sondermaschinen GmbH viele Wandlungen vollzogen. Immer geblieben ist jedoch unser Anspruch, unsere Kunden mit höchster Qualität und Flexibilität bei der Planung und Realisierung der Problemlösungen zu unterstützen. Dabei hilft uns das über die vielen Jahre angesa」（https://www.florianbauergmbh.de/・3回目）
+  - 「Florian Bauer Sondermaschinen GmbH in Hürth on europages — Development, design, and manufacturing of custom machines and devices to solve problems in your production. Individual part manufacturing, assembly manufacturing, contract processing, repairs. Since its founding in 1921, Florian Bauer Sondermaschinen GmbH has undergone many transformations. However, our commitment to supporting our custome」（https://www.europages.co.uk/en/company/florian-bauer-sondermaschinen-gmbh-480462・3回目）
+  - 「Florian Bauer Sondermaschinen GmbH - LinkedIn — Florian Bauer Sondermaschinen GmbH | 46 followers on LinkedIn. Die Florian Bauer Sondermaschinen GmbH ist spezialisiert auf die Entwicklung und Fertigung von Sondermaschinen, unter anderem zur ...」（https://www.linkedin.com/company/florian-bauer-sondermaschinen-gmbh・3回目）
+  - 「Florian Bauer Sondermaschinen GmbH — Sondermaschinen und Vorrichtungen nach Kundenwunsch Die individuell auf einen speziellen Anwendungsfall zugeschnittene Maschine oder Vorrichtung ist oftmals die einzige Lösung, um eine Produktion erfolgversprechend und rationell aufzubauen. Wir bieten Ihnen die ganze, auf Ihre Bedürfnisse zugeschnittene Lösung Ihres Fertigungsproblems.」（https://www.florianbauergmbh.de/sondermaschinen.php・3回目）
+  - 「Florian Bauer Sondermaschinen GmbH - Implisense — Discover Florian Bauer Sondermaschinen GmbH on Implisense, the B2B company information portal. Profile, contact details, news - everything at a glance!」（https://implisense.com/en/companies/florian-bauer-sondermaschinen-gmbh-huerth-DEVCLR3JM305・3回目）
+  - 「Florian Bauer Sondermaschinen GmbH - RobotToday — The company also provides individual parts manufacturing as a contract machining service and offers repair, assembly, and service work. Florian Bauer Sondermaschinen is listed in the VDMA (Verband Deutscher Maschinen- und Anlagenbau) product database, reflecting its standing within the German mechanical engineering sector.」（https://robottoday.com/suppliers-discovery/florian-bauer-sondermaschinen-gmbh・3回目）
+  - 「Florian Bauer Sondermaschinen GmbH - LinkedIn — Die Florian Bauer Sondermaschinen GmbH ist spezialisiert auf die Entwicklung und Fertigung von Sondermaschinen, unter anderem zur Optimierung oder Automatisierung von Herstellungsprozessen für ...」（https://www.linkedin.com/company/florian-bauer-sondermaschinen-gmbh・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）
+
 ## Foreplay
 - 公式URL：https://foreplay.co（given）
 - 創業年度：Founded：2021（https://prospeo.io/c/foreplay-co-revenue・3回目）
@@ -12317,6 +13591,46 @@ USA（https://prtimes.jp/main/html/rd/p/000000141.000043150.html・3回目）
   - 「Eric has quite the resume himself as a “reformed researcher” in several fields I can barely pronounce. He has always had a deep appreciation for the skilled trades with several of his friends and family pursuing these important careers.」（https://www.youtube.com/watch?v=bbJx6mXfF7A・3回目）
 - 検索結果の抜粋：
   - 「Fynn Credit's Creative Financing for Trade School Success — Fynn Credit's Creative Financing for Trade School Success YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=bbJx6mXfF7A・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+
+## GEHR Plastics, Inc.
+- 公式URL：特定できず（not_found）
+- 創業年度：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部17頁・検索20回）
+- 株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部17頁・検索20回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部17頁・検索20回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部17頁・検索20回）
+- 所在地：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部17頁・検索20回）
+- 料金：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部17頁・検索20回）
+- 連絡先：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部17頁・検索20回）
+- 採用・広告の製品：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部17頁・検索20回）
+- 製造業の実績：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部17頁・検索20回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部17頁・検索20回）
+- 日本の担い手：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部17頁・検索20回）
+- 規模・親会社：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部17頁・検索20回）
+
+## GHIRINGHELLI
+- 公式URL：https://ghiringhelli.it（given）
+- 採用・広告の製品：
+  - 「Rettificatrici senza centri Ghiringhelli - Innovazione e precisione dal 1921」（https://ghiringhelli.it/it・1回目）
+  - 「Rettificatrici Ghiringhelli S.p.a. è un'azienda leader nella progettazione e costruzione di rettificatrici senza centri ad alta tecnologia e affidabilità.」（https://ghiringhelli.it/it・1回目）
+  - 「Rettificatrici Ghiringhelli è leader nella progettazione e costruzione di rettificatrici senza centri:」（https://ghiringhelli.it/it・1回目）
+  - 「Ad altissima precisione」（https://ghiringhelli.it/it・1回目）
+  - 「Da oltre 100 anni, si propone come partner di co-ingegneria e problem solver per le esigenze di rettifica senza centri dei propri clienti.」（https://ghiringhelli.it/it・1回目）
+  - 「Chi sceglie una rettificatrice senza centri Ghiringhelli cerca qualità assoluta e affidabilità personalizzata.」（https://ghiringhelli.it/it・1回目）
+  - 「Ma non solo: la nostra tecnologia è sempre più conforme ai principi di eco-compatibilità e minor impatto energetico.」（https://ghiringhelli.it/it・1回目）
+  - 「Sfide automotive: la soluzione integrata di Ghiringhelli che aumenta la produttività del 25%」（https://ghiringhelli.it/it・1回目）
+  - 「Il nostro team ti ricontatterà al più presto.」（https://ghiringhelli.it/it・1回目）
+- 製造業の実績：
+  - 「Sfide automotive: la soluzione integrata di Ghiringhelli che aumenta la produttività del 25%」（https://ghiringhelli.it/it・1回目）
 - 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
 - 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
 - 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
@@ -14918,6 +16232,70 @@ USA（https://prtimes.jp/main/html/rd/p/000000141.000043150.html・3回目）
 - 従業員数：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部38頁・検索12回）
 - 再販・ホワイトラベル：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部38頁・検索12回）
 
+## HERMAKİNA CNC TAK.TEZ.VE BİL.SİS.İTH.İHR.SA.Tİ.LTD.ŞTİ.
+- 公式URL：特定できず（not_found）
+- 検索結果の抜粋：
+  - 「HERMAKİNA CNC TAK . TEZ . VE BİL . SİS . İTH . İHR . SA . Tİ . LTD . ŞTİ . — HERMAKİNA CNC TAK . TEZ . VE BİL . SİS . İTH . İHR . SA . Tİ . LTD . ŞTİ . sektorelajanda.com https://www.sektorelajanda.com > firma」（https://www.sektorelajanda.com/firma/hermakina-cnc-tak-tez-ve-bil-sis-ith-ihr-sa-ti-ltd-sti・3回目）
+- 創業年度：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 所在地：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 料金：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 連絡先：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 採用・広告の製品：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 製造業の実績：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 日本の担い手：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 規模・親会社：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+
+## HUITONGXINDA AIR COMPRESSOR (JINAN) CO., LTD
+- 公式URL：https://htxdaircompressor.en.made-in-china.com/（search:yahoo_jp:HUITONGXINDA AIR COMPRESSOR (JINAN) CO., LTD）
+- 採用・広告の製品：
+  - 「Air Compressor Manufacturer, Screw Air Compressor, Rotary Air Compressor Supplier - Qingdao Huitong Xinda Air Compressor Co., Ltd.」（https://htxdaircompressor.en.made-in-china.com/・1回目）
+  - 「Qingdao Huitong Xinda Air Compressor Co., Ltd.」（https://htxdaircompressor.en.made-in-china.com/・1回目）
+  - 「Industrial Equipment & Components, Manufacturing & Processing Machinery, Metallurgy, Mineral & Energy, Packaging & Printing, Textile, Tools & Hardware」（https://htxdaircompressor.en.made-in-china.com/・1回目）
+  - 「Air Compressor, Screw Air Compressor, Rotary Air Compressor, All in One Compressor, Air Compressor Accessories, Air Tank」（https://htxdaircompressor.en.made-in-china.com/・1回目）
+  - 「Qingdao Huitong Xinda Compressor Co., Ltd. is a modern enterprise specializing in the research and development, design, production, and sales of screw air compressors.」（https://htxdaircompressor.en.made-in-china.com/・1回目）
+  - 「As one of the largest air compressor manufacturers and air system experts in Northern China, Huitong Xinda has a complete mechanical manufacturing system and well-equipped facilities. The company's products fully integrate the ...」（https://htxdaircompressor.en.made-in-china.com/・1回目）
+  - 「Huitong Xinda is committed to building a professional modern air compressor production base, adhering to the service concept of people-oriented, reputation-first, and customer-oriented. We are loyal to working with partners and colleagues in the industry to promote the progress and development of the air compressor manufacturing industry.」（https://htxdaircompressor.en.made-in-china.com/・1回目）
+  - 「No. of Production Lines:」（https://htxdaircompressor.en.made-in-china.com/・1回目）
+  - 「Ever Annual Output of Main Products:」（https://htxdaircompressor.en.made-in-china.com/・1回目）
+  - 「Units Produced (Previous Year)」（https://htxdaircompressor.en.made-in-china.com/・1回目）
+  - 「Huitong Xinda 3kw/4HP 5.5kw/7.5HP Convenient Movable Screw Air Compressor」（https://htxdaircompressor.en.made-in-china.com/・1回目）
+  - 「Huitong Xinda 3kw 5.5kw 7.5kw Portable Convenient to Use Air Compressor」（https://htxdaircompressor.en.made-in-china.com/・1回目）
+- 製造業の実績：
+  - 「Air Compressor Manufacturer, Screw Air Compressor, Rotary Air Compressor Supplier - Qingdao Huitong Xinda Air Compressor Co., Ltd.」（https://htxdaircompressor.en.made-in-china.com/・1回目）
+  - 「Manufacturers/Suppliers」（https://htxdaircompressor.en.made-in-china.com/・1回目）
+  - 「Industrial Equipment & Components, Manufacturing & Processing Machinery, Metallurgy, Mineral & Energy, Packaging & Printing, Textile, Tools & Hardware」（https://htxdaircompressor.en.made-in-china.com/・1回目）
+  - 「As one of the largest air compressor manufacturers and air system experts in Northern China, Huitong Xinda has a complete mechanical manufacturing system and well-equipped facilities. The company's products fully integrate the ...」（https://htxdaircompressor.en.made-in-china.com/・1回目）
+  - 「Huitong Xinda is committed to building a professional modern air compressor production base, adhering to the service concept of people-oriented, reputation-first, and customer-oriented. We are loyal to working with partners and colleagues in the industry to promote the progress and development of the air compressor manufacturing industry.」（https://htxdaircompressor.en.made-in-china.com/・1回目）
+  - 「No. of Production Lines:」（https://htxdaircompressor.en.made-in-china.com/・1回目）
+  - 「Huitong Xinda 3kw/4HP Factory Direct Sales Movable Screw Air Compressor」（https://htxdaircompressor.en.made-in-china.com/・1回目）
+  - 「Huitongxinda High Efficiency Energy Saving Portable Screw Air Compressor with Factory Price」（https://htxdaircompressor.en.made-in-china.com/・1回目）
+  - 「Huitong Xinda Factory Direct Sales High Quaility Source Saving Screw Air Compressor」（https://htxdaircompressor.en.made-in-china.com/・1回目）
+  - 「Huitong Xinda All in One Industrial Laser Cutting Screw Air Compressor」（https://htxdaircompressor.en.made-in-china.com/・1回目）
+  - 「Manufacturer/Factory & Trading Company」（https://htxdaircompressor.en.made-in-china.com/・1回目）
+  - 「About HT Compressor | Leading Screw Air Compressor Factory」（https://www.htcompressor.com/about/・3回目）
+- 再販・ホワイトラベル：
+  - 「OEM, Own Brand(HUITING XINDA)」（https://htxdaircompressor.en.made-in-china.com/・1回目）
+  - 「Equipped with a comprehensive, modern manufacturing infrastructure and sophisticated testing technology, we maintain strict quality control at every stage of production. This solid industrial foundation allows us to deliver highly efficient, reliable, and customized (OEM/ODM) rotary screw air compressor solutions directly from our factory to your facility.」（https://www.htcompressor.com/about/・3回目）
+  - 「By adhering to a customer-centric, integrity-driven philosophy, HT Compressor is dedicated to helping our global partners reduce operational costs, maximize energy efficiency, and achieve sustainable growth. From product customization (OEM/ODM) to lifelong technical support, we are your trusted partner in compressed air technology.」（https://www.htcompressor.com/about/・3回目）
+- 連絡先：
+  - 「Email: ht09@htcompressor.com」（https://www.htcompressor.com/about/・3回目）
+- 検索結果の抜粋：
+  - 「Huitongxinda Air Compressor ( Jinan ) Co ., Ltd .: Company ... — Huitongxinda Air Compressor ( Jinan ) Co ., Ltd .: Company ... Alibaba https://huitongxinda.en.alibaba.com」（https://huitongxinda.en.alibaba.com/・3回目）
+  - 「Qingdao Huitong Xinda Air Compressor Co ., Ltd .: Company ... — Qingdao Huitong Xinda Air Compressor Co ., Ltd .: Company ... Alibaba.com https://qdhtxdkyj.en.alibaba.com」（https://qdhtxdkyj.en.alibaba.com/・3回目）
+  - 「Qingdao Huitong Xinda Air Compressor Co ., Ltd . — Qingdao Huitong Xinda Air Compressor Co ., Ltd . Made-in-China.com https://htxdaircompressor.en.made-in-china.com」（https://htxdaircompressor.en.made-in-china.com/・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索13回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索13回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索13回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索13回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索13回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索13回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索13回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索13回）
+
 ## Haddock
 - 公式URL：https://haddock.app（given）
 - 創業年度：Founded：2020（https://startupintros.com/orgs/haddock・3回目）
@@ -15071,6 +16449,43 @@ USA（https://prtimes.jp/main/html/rd/p/000000141.000043150.html・3回目）
 - 売上高：記載なし（3回確認済み：公式16頁／PDF・画像3件／外部29頁・検索12回）
 - 所在地：記載なし（3回確認済み：公式16頁／PDF・画像3件／外部29頁・検索12回）
 - 料金：記載なし（3回確認済み：公式16頁／PDF・画像3件／外部29頁・検索12回）
+
+## Hangzhou Zhuopu New Materials Technology Co., Ltd.
+- 公式URL：https://en.cc3dchina.com（given）
+- 採用・広告の製品：
+  - 「Hangzhou Zhuopu New Materials Technology Co.,Ltd. -Professional 3D printing consumables」（https://en.cc3dchina.com/・1回目）
+  - 「3d Printing Materials」（https://en.cc3dchina.com/・1回目）
+  - 「PROFESSIONAL PRODUCTION OF VARIOUS」（https://en.cc3dchina.com/・1回目）
+  - 「3D PRINTING」（https://en.cc3dchina.com/・1回目）
+  - 「We specialize in producing all kinds of 3D printer materials such as PLA\ABS\PETG\PC,etc.」（https://en.cc3dchina.com/・1回目）
+  - 「Research and development, production, and sales of 3D printing materials and biodegradable materials.」（https://en.cc3dchina.com/・1回目）
+  - 「The production capacity and export sales of biodegradable 3D printing materials still rank among the top in the country.」（https://en.cc3dchina.com/・1回目）
+  - 「Long term research on biodegradable modified materials and their products, is a senior expert in the new materials industry.」（https://en.cc3dchina.com/・1回目）
+  - 「The customer-first service concept provides you with personalized customized services.」（https://en.cc3dchina.com/・1回目）
+  - 「National key supported high-tech enterprises engaged in research and development, production, and sales of 3D printing materials and biodegradable materials.」（https://en.cc3dchina.com/・1回目）
+  - 「Product Characteristics」（https://en.cc3dchina.com/・1回目）
+  - 「Extracted, purified, and polymerized from renewable plant resources such as corn and cassava, it can be completely degraded to produce carbon dioxide and water.」（https://en.cc3dchina.com/・1回目）
+- 製造業の実績：
+  - 「Extracted, purified, and polymerized from renewable plant resources such as corn and cassava, it can be completely degraded to produce carbon dioxide and water.」（https://en.cc3dchina.com/・1回目）
+  - 「Hangzhou Zhuopu New Materials Technology Co.,Ltd. (brand:CC3D)is a factory which specialized in Polymer Materials(PLA/PBAT and other biodegradable materials)，3D printer materials and 3D pen.」（https://en.cc3dchina.com/・1回目）
+  - 「We specialize in producing various 3D printing materials such as PLA, ABS, PETG, and PC. We have ten automatic production lines and an annual production capacity of over 700000 rolls.」（https://en.cc3dchina.com/・1回目）
+- 検索結果の抜粋：
+  - 「Hangzhou Zhuopu New Materials Technology Co.,Ltd. — Hangzhou Zhuopu New Material Technology Co., Ltd. is an enterprise engaged in the research and development, production, and sales of 3D printing consumables and biodegradable materials.」（https://en.cc3dchina.com/・3回目）
+  - 「Hangzhou Zhuopu New Materials Technology - Crunchbase — Hangzhou Zhuopu New Materials Technology is a technology-based manufacturer that focuses on research, development, production, and sales of polymer materials for 3D printing.」（https://www.crunchbase.com/organization/hangzhou-zhuopu-new-materials-technology-co-ltd・3回目）
+  - 「Contact-Hangzhou Zhuopu New Materials Technology Co.,Ltd. — Hangzhou Zhuopu New Materials Technology Co.,Ltd. Contact Hangzhou Zhuopu New Material Technology Co., Ltd. is an enterprise engaged in the research and development, production, and sales of 3D printing consumables and biodegradable materials.」（https://en.cc3dchina.com/contact.html・3回目）
+  - 「Hangzhou Zhuopu New Materials Technology Co.,Ltd ... — Hangzhou Zhuopu New Material Technology Co., Ltd. is an enterprise engaged in the research and development, production, and sales of 3D printing consumables and biodegradable materials.」（https://en.cc3dchina.com/・3回目）
+  - 「HANGZHOU ZHUOPU NEW MATERIALS TECHNOLOGY CO.,LTD Import ... — Access complete export records of HANGZHOU ZHUOPU NEW MATERIALS TECHNOLOGY CO.,LTD, including supplier details, product categories, countries of origin, and shipping ports. Essential for competitive analysis and market trend research.」（https://www.tradeindata.com/exporter/cn/hangzhou-zhuopu-new-materials-technology-co.,ltd/・3回目）
+  - 「Products-Hangzhou Zhuopu New Materials Technology Co.,Ltd. — Hangzhou Zhuopu New Materials Technology Co.,Ltd. Products Hangzhou Zhuopu New Material Technology Co., Ltd. is an enterprise engaged in the research and development, production, and sales of 3D printing consumables and biodegradable materials.」（https://en.cc3dchina.com/products.html・3回目）
+- 創業年度：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部19頁・検索12回）
+- 株主：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部19頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部19頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部19頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部19頁・検索12回）
+- 料金：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部19頁・検索12回）
+- 連絡先：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部19頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部19頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部19頁・検索12回）
+- 規模・親会社：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部19頁・検索12回）
 
 ## Happl
 - 公式URL：https://happl.com/（given）
@@ -16262,6 +17677,23 @@ JPタワー14F（https://prtimes.jp/main/html/rd/p/000000010.000041324.html・3�
 - 従業員数：記載なし（3回確認済み：公式17頁／PDF・画像0件／外部34頁・検索12回）
 - 料金：記載なし（3回確認済み：公式17頁／PDF・画像0件／外部34頁・検索12回）
 
+## Hiperbaric SA
+- 公式URL：https://formnext.mesago.com/frankfurt/en/exhibitor-search.html（given）
+- 採用・広告の製品：
+  - 「Formnext preparations」（https://formnext.mesago.com/frankfurt/en/exhibitor-search.html・1回目）
+- 製造業の実績：
+  - 「AM Directory – Additive Manufacturing Suppliers & Exhibitors」（https://formnext.mesago.com/frankfurt/en/exhibitor-search.html・1回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部20頁・検索12回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部20頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部20頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部20頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部20頁・検索12回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部20頁・検索12回）
+- 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部20頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部20頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部20頁・検索12回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部20頁・検索12回）
+
 ## Hirebotics
 - 公式URL：https://hirebotics.com/（given）
 - 創業年度：Founded：2015（https://prospeo.io/c/hirebotics-revenue・3回目）
@@ -16789,6 +18221,64 @@ JPタワー14F（https://prtimes.jp/main/html/rd/p/000000010.000041324.html・3�
 - 売上高：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部40頁・検索12回）
 - 所在地：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部40頁・検索12回）
 - 料金：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部40頁・検索12回）
+
+## ITALMATIC PRESSE STAMPI
+- 公式URL：https://www.miaccatalog.com/（search:ddgs:yahoo:株式会社ITALMATIC PRESSE STAMPI）
+- 採用・広告の製品：
+  - 「BFG RAPPRESENTANZE INDUSTRIALI」（https://www.miaccatalog.com/・1回目）
+  - 「CENTRO ARIA COMPRESSA」（https://www.miaccatalog.com/・1回目）
+  - 「ITALMATIC PRESSE STAMPI」（https://www.miaccatalog.com/・1回目）
+  - 「PROXITALIA PRODOTTI CHIMICI」（https://www.miaccatalog.com/・1回目）
+  - 「SPRAYING SYSTEMS EUROPE」（https://www.miaccatalog.com/・1回目）
+  - 「UNIMATEC PRÄGESYSTEME」（https://www.miaccatalog.com/・1回目）
+  - 「Agenti protettivi per feltri e tele」（https://www.miaccatalog.com/・1回目）
+  - 「Process laboratory analysis」（https://www.miaccatalog.com/・1回目）
+  - 「Analisi di laboratorio del processo」（https://www.miaccatalog.com/・1回目）
+  - 「QCS – DCS process computers」（https://www.miaccatalog.com/・1回目）
+  - 「Calcolatori di processo QCS – DCS」（https://www.miaccatalog.com/・1回目）
+  - 「Componenti, attrezzature e sezioni delle macchine per produrre la carta」（https://www.miaccatalog.com/・1回目）
+- 製造業の実績：
+  - 「BFG RAPPRESENTANZE INDUSTRIALI」（https://www.miaccatalog.com/・1回目）
+  - 「C. G. BRETTING MANUFACTURING」（https://www.miaccatalog.com/・1回目）
+  - 「GRUPPO MARTINELLI INDUSTRIALE」（https://www.miaccatalog.com/・1回目）
+  - 「RÖCHLING INDUSTRIAL OEPPING」（https://www.miaccatalog.com/・1回目）
+  - 「ROLLMAC INDUSTRIAL (SHANGHAI)」（https://www.miaccatalog.com/・1回目）
+  - 「TOSCANA SPAZZOLE INDUSTRIALI」（https://www.miaccatalog.com/・1回目）
+  - 「Industrial adhesives / glues」（https://www.miaccatalog.com/・1回目）
+  - 「Adesivi / Colle industriali」（https://www.miaccatalog.com/・1回目）
+  - 「Logistics automation – automated warehouses」（https://www.miaccatalog.com/・1回目）
+  - 「Industrial steam boilers」（https://www.miaccatalog.com/・1回目）
+  - 「Dust filters – industrial air filters」（https://www.miaccatalog.com/・1回目）
+  - 「Filtri per polveri – filtri aria industriali」（https://www.miaccatalog.com/・1回目）
+- 規模・親会社：
+  - 「Arrotolatori e avvolgitori per macchine continue」（https://www.miaccatalog.com/・1回目）
+  - 「Carrelli elevatori – attrezzature ausiliarie」（https://www.miaccatalog.com/・1回目）
+  - 「Carrelli elevatori – pinze per bobine di carta」（https://www.miaccatalog.com/・1回目）
+  - 「IIoT Data Acquisition Systems」（https://www.miaccatalog.com/・1回目）
+  - 「Industrial Data Acquisition Systems (DAQ)」（https://www.miaccatalog.com/・1回目）
+  - 「MACCHINARI RICOSTRUZIONE PNEUMATICI VETTURA-AUTOCARRO」（https://www.italmatic.group/・3回目）
+  - 「Via del Blocco, 61 Carraia (Lucca)」（https://interjacm.wordpress.com/wp-content/uploads/2012/09/italmatic-presentation.pdf・3回目）
+  - 「supervision (Supervisory Control And Data Acquisition ), static and dynamic,」（https://interjacm.wordpress.com/wp-content/uploads/2012/09/italmatic-presentation.pdf・3回目）
+  - 「two in Lucca and one in Milan. Today Italmatic has more of 100 employees. Besides its」（https://interjacm.wordpress.com/wp-content/uploads/2012/09/italmatic-presentation.pdf・3回目）
+  - 「Our insulation is positioned all inside the autocla ve; a supporting frame is carried out」（https://interjacm.wordpress.com/wp-content/uploads/2012/09/italmatic-presentation.pdf・3回目）
+  - 「And Data Acquisition ) or DCS (Distributed Control System) and it is one of the points of」（https://interjacm.wordpress.com/wp-content/uploads/2012/09/italmatic-presentation.pdf・3回目）
+  - 「carried out in compliance with rules and certification in force, and that autoclaves are」（https://interjacm.wordpress.com/wp-content/uploads/2012/09/italmatic-presentation.pdf・3回目）
+- 連絡先：
+  - 「to consider also the possibility of a meeting. In this aim we invite You to contact us, we」（https://interjacm.wordpress.com/wp-content/uploads/2012/09/italmatic-presentation.pdf・3回目）
+- 検索結果の抜粋：
+  - 「Italmatic Presse Stampi S.r.l. of Cassina de' Pecchi (MI) at ...ITALMATIC PRESSE E STAMPI SRL company information Italy ...Italmatic Presse e Stampi Srl - Company Profile and NewsITALMATIC PRESSE STAMPI - MIAC 2026Italmatic Presse Stampi S.r.l. Exp data And Contact-Great ... — Visit Italmatic Presse Stampi S.r.l. from Cassina de' Pecchi (MI) at glasstec 2026 in Düsseldorf in Hall 15 / G36 ITALMATI」（https://www.glasstec-online.com/vis/v1/en/exhprofiles/dHPlzOyVRTeokQNmTvTgHQ・3回目）
+  - 「Italmatic Presse Stampi S.r.l. of Cassina de' Pecchi (MI) at ...ITALMATIC PRESSE STAMPI - MIAC 2026ITALMATIC PRESSE E STAMPI SRL - Dun & BradstreetItalmatic Presse Stampi s.r.l. Archives - Papnews — Visit Italmatic Presse Stampi S.r.l. from Cassina de' Pecchi (MI) at glasstec 2026 in Düsseldorf in Hall 15 / G36 Italmatic is an Italian company located in Toscany specialized in the production of rol」（https://www.glasstec-online.com/vis/v1/en/exhprofiles/dHPlzOyVRTeokQNmTvTgHQ・3回目）
+  - 「ITALMATIC PRESSE STAMPI - MIAC 2026 — Italmatic is an Italian company located in Toscany specialized in the production of rolls and rolls covering for the paper industry and the converting industry. we can produce roll coverings with different materials like rubber, polyurethane, composite materials, ceramic and we can make metalization and chroming.」（https://www.miaccatalog.com/en/company/italmatic-presse-stampi/・3回目）
+  - 「ITALMATIC PRESENTATION - interjacm.files.wordpress.com — Introduction to our Company We wish to take this opportunity to introduce You Italmatic Presse Stampi s.r.l. with special reference to the field of production of AUTOCLAVES with quick closure complete with auxiliary services.」（https://interjacm.files.wordpress.com/2012/09/italmatic-presentation.pdf・3回目）
+  - 「Italmatic Presse Stampi S.r.l. of Cassina de' Pecchi (MI) at ... — Today Italmatic is an organization unique in its kind, diversified in three industries, on their turn split in sectors, each of them distinguished by specific products and technologies, different markets and models of business so specific to make them different sharing “companies”.」（https://www.glasstec-online.com/vis/v1/en/exhprofiles/dHPlzOyVRTeokQNmTvTgHQ/details・3回目）
+- 創業年度：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索14回）
+- 株主：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索14回）
+- 従業員数：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索14回）
+- 売上高：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索14回）
+- 所在地：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索14回）
+- 料金：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索14回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索14回）
+- 日本の担い手：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索14回）
 
 ## Icon
 - 公式URL：https://icon.com（given）
@@ -18047,6 +19537,21 @@ JPタワー14F（https://prtimes.jp/main/html/rd/p/000000010.000041324.html・3�
 - 料金：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部33頁・検索12回）
 - 日本の担い手：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部33頁・検索12回）
 
+## JOBS S.p.A.
+- 公式URL：特定できず（not_found）
+- 創業年度：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 所在地：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 料金：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 連絡先：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 採用・広告の製品：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 製造業の実績：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 日本の担い手：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 規模・親会社：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+
 ## Jetpack CRM
 - 公式URL：https://jetpackcrm.com/（given）
 - 採用・広告の製品：
@@ -18772,6 +20277,51 @@ JPタワー14F（https://prtimes.jp/main/html/rd/p/000000010.000041324.html・3�
 - 製造業の実績：記載なし（3回確認済み：公式4頁／PDF・画像4件／外部28頁・検索12回）
 - 再販・ホワイトラベル：記載なし（3回確認済み：公式4頁／PDF・画像4件／外部28頁・検索12回）
 - 日本の担い手：記載なし（3回確認済み：公式4頁／PDF・画像4件／外部28頁・検索12回）
+
+## KELİTE CNC TEKNOLOJİLERİ İTH. İHR. VE SAN. TİC. LTD. ŞTİ.
+- 公式URL：特定できず（not_found）
+- 採用・広告の製品：
+  - 「Zhuzhou Kerno Advanced Materials Co. Ltd. (KELITE) is located in Zhuzhou, Hunan Province, China, known as the hometown of Tungsten Carbide.」（https://maktekkonya.com/en/exhibitor-list/kelite-cnc-teknolojileri-ith-ihr-ve-san-tic-ltd-sti-165094-3264・3回目）
+  - 「Production of High-Quality Tools:」（https://maktekkonya.com/en/exhibitor-list/kelite-cnc-teknolojileri-ith-ihr-ve-san-tic-ltd-sti-165094-3264・3回目）
+  - 「KELITE also manufactures custom-made products tailored to customer needs and specifications. Actively expanding its domestic market, the company also exports a significant number of products to Europe, the Middle East, South America, and Southeast Asia.」（https://maktekkonya.com/en/exhibitor-list/kelite-cnc-teknolojileri-ith-ihr-ve-san-tic-ltd-sti-165094-3264・3回目）
+  - 「The post show report is being prepared and will be available very soon.」（https://maktekkonya.com/en/exhibitor-list/kelite-cnc-teknolojileri-ith-ihr-ve-san-tic-ltd-sti-165094-3264・3回目）
+  - 「Exhibitors & Products」（https://www.maktekfuari.com/en/product-detail/brand/kelite-cnc-teknolojileri-ith-ihr-ve-san-tic-ltd-sti・3回目）
+  - 「Protection of Personal Data」（https://www.maktekfuari.com/en/product-detail/brand/kelite-cnc-teknolojileri-ith-ihr-ve-san-tic-ltd-sti・3回目）
+  - 「The post show report is being prepared and will be available very soon.」（https://www.maktekfuari.com/en/product-detail/brand/kelite-cnc-teknolojileri-ith-ihr-ve-san-tic-ltd-sti・3回目）
+- 検索結果の抜粋：
+  - 「Maktek Konya — KELİTE CNC TEKNOLOJİLERİ İTH. İHR. VE SAN. TİC. LTD. ŞTİ.」（https://maktekkonya.com/en/exhibitor-list/kelite-cnc-teknolojileri-ith-ihr-ve-san-tic-ltd-sti-165094-3264・3回目）
+  - 「KELİTE CNC TEKNOLOJİLERİ İTH. İHR. VE SAN. TİC. LTD. ŞTİ. — KELITE also manufactures custom-made products tailored to customer needs and specifications. Actively expanding its domestic market, the company also exports a significant number of products to Europe, the Middle East, South America, and Southeast Asia.」（https://maktekkonya.com/en/exhibitor-list/kelite-cnc-teknolojileri-ith-ihr-ve-san-tic-ltd-sti-165094-3264・3回目）
+  - 「KELİTE CNC TEKNOLOJİLERİ İTH. İHR. VE SAN. TİC. LTD. ŞTİ. — Uluslararası Takım Tezgahları, Metal - Sac İşleme Makineleri, Tutucular - Kesici Takımlar, Kalite Kontrol - Ölçüm Sistemleri, CAD/CAM, PLM Yazılımları ve Üretim Teknolojileri Fuarı.」（https://www.maktekfuari.com/product-detail/brand/kelite-cnc-teknolojileri-ith-ihr-ve-san-tic-ltd-sti・3回目）
+  - 「KELİTE CNC TEKNOLOJİLERİ İTH. İHR. VE SAN. TİC. LTD. ŞTİ. — MAKTEK Eurasia 2026 9th International Machine Tools, Metal – Sheet Metal Processing Machines, Tool Holders – Cutting Tools, Quality Control – Measurement Systems, CAD/CAM, PLM Software and Manufacturing Technologies Fair.」（https://www.maktekfuari.com/en/product-detail/brand/kelite-cnc-teknolojileri-ith-ihr-ve-san-tic-ltd-sti・3回目）
+  - 「KELİTE CNC TEKNOLOJİLERİ İTH. İHR. VE SAN. TİC. LTD. ŞTİ. — Uluslararası Takım Tezgahları, Metal - Sac İşleme Makineleri, Tutucular - Kesici Takımlar, Kalite Kontrol - Ölçüm Sistemleri, CAD/CAM, PLM Yazılımları ve Üretim Teknolojileri Fuarı.」（https://www.maktekfuari.com/brand/kelite-cnc-teknolojileri-ith-ihr-ve-san-tic-ltd-sti・3回目）
+  - 「KELİTE CNC TEKNOLOJİLERİ İTH. İHR. VE SAN. TİC. LTD. ŞTİ. — Yurtiçi pazarını aktif olarak genişleten şirket aynı zamanda Avrupa, Orta Doğu, Güney Amerika, Güneydoğu Asya 'ya vb. yüklü miktarda ürün ihraç ediyor. Türkiye 'de de KELİTE markasının yetkili Distribütörü olarak " KELİTE CNC TEKNOLOJİLERİ İTH.İHR. VE SAN. TİC.LTD.ŞTİ. olarak biz hizmet vermekteyiz. Daha Fazla Göster」（https://maktekkonya.com/katilimci-listesi/kelite-cnc-teknolojileri-ith-ihr-ve-san-tic-ltd-sti-165094-3264・3回目）
+  - 「KELİTE CNC TEKNOLOJİLERİ İTH. İHR. VE SAN. TİC. LTD. ŞTİ. — Production of High-Quality Tools: * Hard alloy turning, milling, and drilling plates, * Carbide saw blades, * Carbide welding and clamping plates, * Body tools and holders for indexable inserts. KELITE also manufactures custom-made products tailored to customer needs and specifications.」（https://maktekkonya.com/en/exhibitor-list/kelite-cnc-teknolojileri-ith-ihr-ve-san-tic-ltd-sti-165094-3264・3回目）
+- 創業年度：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部20頁・検索20回）
+- 株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部20頁・検索20回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部20頁・検索20回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部20頁・検索20回）
+- 所在地：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部20頁・検索20回）
+- 料金：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部20頁・検索20回）
+- 連絡先：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部20頁・検索20回）
+- 製造業の実績：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部20頁・検索20回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部20頁・検索20回）
+- 日本の担い手：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部20頁・検索20回）
+- 規模・親会社：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部20頁・検索20回）
+
+## KISEONG CABLE, INC.
+- 公式URL：特定できず（not_found）
+- 創業年度：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 所在地：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 料金：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 連絡先：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 採用・広告の製品：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 製造業の実績：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 日本の担い手：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 規模・親会社：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
 
 ## Kaipodlearning
 - 公式URL：http://www.kaipodlearning.com（given）
@@ -19582,6 +21132,44 @@ JPタワー14F（https://prtimes.jp/main/html/rd/p/000000010.000041324.html・3�
 - 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）
 - 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）
 - 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）
+
+## Kraft & Bauer Brandschutzsysteme GmbH
+- 公式URL：https://kraft-bauer.com/（search:ddgs:google:Kraft & Bauer Brandschutzsysteme GmbH）
+- 採用・広告の製品：
+  - 「Entdecken Sie die innovative Welt der Brandvermeidung und -bekämpfung für die Sicherheit Ihrer Unternehmens- und Produktionsbereiche...」（https://kraft-bauer.com/・1回目）
+  - 「Zukunftsweisende Technologie, höchster Qualitätsanspruch und fundierte Kompetenz – KRAFT & BAUER steht für ausgereifte Brandschutztechnologie, die ein Optimum an Funktionalität, Effizienz und Zuverlässigkeit garantiert.」（https://kraft-bauer.com/・1回目）
+  - 「Mit unseren Dienstleistungen und Lösungenn sind wir auf der ganzen Welt für Sie da. Nutzen Sie Ihren lokalen Ansprechpartner um für ihr Unternehmen eine individuelle Lösung zu erarbeiten oder einfach nur Ihre Anlage in optimalem Zustand zu」（https://kraft-bauer.com/・1回目）
+  - 「Kraft& Bauer is a leading manufacturer and supplier of object protection fire extinguishing systems. With decades of experience in the development and manufacture of fire protection systems, we have achieved international success」（https://ccmt.german-pavilion.com/en/sites/exhibitors/134685・3回目）
+  - 「Establish as a system supplier. We are both a factory equipment supplier to leading machine manufacturers and a partner of world-renowned industrial companies-from comprehensive consultation, timely installation to reliable service. Kraft's object protection fire extinguishing system; Bauer meets valid standards, such as. ISO EN 19353, DIN 14497 or DGUV 205-026 for fire Protection of machinery.」（https://ccmt.german-pavilion.com/en/sites/exhibitors/134685・3回目）
+  - 「Our microprocessor-controlled fire extinguishing system has a wide range of applications and meets the most personalized customer requirements through its versatility. In short, where flammable liquids or oils are used for cooling, where machinery at risk of fire is operated, and where failure occurs (e.g. When there is a fire, our system ensures fire safety. Kraft and; Bauer suggested」（https://ccmt.german-pavilion.com/en/sites/exhibitors/134685・3回目）
+  - 「It is project-based and provides comprehensive safety package and system guarantee for all fire risks.」（https://ccmt.german-pavilion.com/en/sites/exhibitors/134685・3回目）
+  - 「Manage your personal profile here and enter your desired business contacts to German companies」（https://ccmt.german-pavilion.com/en/sites/exhibitors/134685・3回目）
+  - 「Keep an eye on the trade fairs, German exhibitors and products that are of interest to you」（https://ccmt.german-pavilion.com/en/sites/exhibitors/134685・3回目）
+  - 「Receive an e-mail notification on relevant upcoming German trade fair presentations」（https://ccmt.german-pavilion.com/en/sites/exhibitors/134685・3回目）
+- 製造業の実績：
+  - 「Kraft& Bauer is a leading manufacturer and supplier of object protection fire extinguishing systems. With decades of experience in the development and manufacture of fire protection systems, we have achieved international success」（https://ccmt.german-pavilion.com/en/sites/exhibitors/134685・3回目）
+  - 「Establish as a system supplier. We are both a factory equipment supplier to leading machine manufacturers and a partner of world-renowned industrial companies-from comprehensive consultation, timely installation to reliable service. Kraft's object protection fire extinguishing system; Bauer meets valid standards, such as. ISO EN 19353, DIN 14497 or DGUV 205-026 for fire Protection of machinery.」（https://ccmt.german-pavilion.com/en/sites/exhibitors/134685・3回目）
+- 連絡先：
+  - 「Receive an e-mail notification on relevant upcoming German trade fair presentations」（https://ccmt.german-pavilion.com/en/sites/exhibitors/134685・3回目）
+- 検索結果の抜粋：
+  - 「Kraft & Bauer Brandschutzsysteme GmbH — Herzlich willkommen bei Kraft & Bauer Brandschutzsysteme GmbH. Die Bekämpfung von Feuer ist eine Kunst, es zu vermeiden unsere Leidenschaft. Sekundenbruchteile entscheiden über Verlust oder Erhalt von Werten und Wissen. Diese Zeitspanne ist für uns eine aktive Herausforderung.」（https://kraft-bauer.com/・3回目）
+  - 「Standorte Weltweit - Kraft-Bauer — Standorte Weltweit Kraft & Bauer Brandschutzsysteme GmbH Max-Eyth-Str. 43 71088 Holzgerlingen Telefon +49 (0) 70 31 / 4 10 36 - 0 Telefax: +49 (0) 70 31 / 4 10 36 - 11 E-Mail: info@kraft-bauer. com Kraft & Bauer Schweiz AG Neufeldweg 11 CH-4913 Bannwil」（https://kraft-bauer.com/?page_id=676・3回目）
+  - 「CONTACT - Kraft and Bauer — Kraft & Bauer Brandschutzsysteme GmbH Max-Eyth-Str. 43 71088 Holzgerlingen」（https://www.kraftandbauer.com/contact・3回目）
+  - 「Global deployment » Kraft & Bauer Brandschutzsysteme GmbH ... — BATEC extinguishing systems – global deployment. We go to any lengths necessary – you can reach our service technicians in the furthest corners of the world. We also offer on-site services in several countries, such as France, Switzerland, China and India. In Europe, our extinguishing systems can be found in Germany, Austria, Switzerl」（https://www.batec-sicherheitsanlagen.de/en/portfolio/global-deployment/・3回目）
+  - 「Kraft & Bauer Brandschutzsysteme GmbH — Löschanlagen und Feuerlöscher zur Brandvermeidung und -bekämpfung. Für die Sicherheit Ihrer Unternehmens- und Produktionsbereiche. Wir beraten Sie gerne info@kraft-bauer.com」（https://kraft-bauer.com/・3回目）
+  - 「Kraft & Bauer Brandschutzsysteme GmbH / CCMT 2026 — About us Kraft& Bauer is a leading manufacturer and supplier of object protection fire extinguishing systems. With decades of experience in the development and manufacture of fire protection systems, we have achieved international success Establish as a system supplier. We are both a factory equipment supplier to leading machine manufacturers and」（https://ccmt.german-pavilion.com/en/sites/exhibitors/134685・3回目）
+  - 「Standorte Weltweit - Kraft-Bauer — Kraft & Bauer Brandschutzsysteme GmbH Max-Eyth-Str. 43 71088 Holzgerlingen」（https://kraft-bauer.com/?page_id=676・3回目）
+  - 「Kraft & Bauer Brandschutzsysteme GmbH / CCMT 2026 — Kraft's object protection fire extinguishing system; Bauer meets valid standards, such as. ISO EN 19353, DIN 14497 or DGUV 205-026 for fire Protection of machinery. Our microprocessor-controlled fire extinguishing system has a wide range of applications and meets the most personalized customer requirements through its versatility.」（https://ccmt.german-pavilion.com/en/sites/exhibitors/134685・3回目）
+  - 「CONTACT - Kraft and Bauer — Our Address Call Us Kraft & Bauer Brandschutzsysteme GmbH Max-Eyth-Str. 43 71088 Holzgerlingen Mobile: 00-972-52-3307209 Telephone: 00-972-4-8493712 Fax: 00-972-4-8493711 E-Mail: international@kraftandbauer.com」（https://www.kraftandbauer.com/contact・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索13回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索13回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索13回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索13回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索13回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索13回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索13回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索13回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索13回）
 
 ## Lagrowthmachine
 - 公式URL：https://www.lagrowthmachine.com（given）
@@ -22324,6 +23912,99 @@ JPタワー14F（https://prtimes.jp/main/html/rd/p/000000010.000041324.html・3�
 - 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）
 - 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）
 
+## MAANSHAN FANGWEI PRESS BRAKE TOOLING CO., LTD.
+- 公式URL：https://gmk.goldsupplier.com/（search:yahoo_jp:MAANSHAN FANGWEI PRESS BRAKE TOOLING CO., LTD.）
+- 採用・広告の製品：
+  - 「Chinese Moulds supplier | Maanshan Fangwei Press Brake Tooling Co., Ltd.」（https://gmk.suppliergo.com/・1回目）
+  - 「Maanshan Fangwei Press Brake Tooling Co., Ltd.」（https://gmk.suppliergo.com/・1回目）
+  - 「Main Products: Moulds」（https://gmk.suppliergo.com/・1回目）
+  - 「Hydralic press brake/bending machine」（https://gmk.suppliergo.com/・1回目）
+  - 「CNC/hydralic press brake」（https://gmk.suppliergo.com/・1回目）
+  - 「One of the largest press brake tooling manufacturers in China.」（https://gmk.suppliergo.com/・1回目）
+  - 「Special forming tools producer.」（https://gmk.suppliergo.com/・1回目）
+  - 「CNC precision sheet metal mould enterprise.」（https://gmk.suppliergo.com/・1回目）
+  - 「Amada Press Brake Tooling」（https://gmk.suppliergo.com/・1回目）
+  - 「Cheap Price Custom Best Quality Bending Machine Punch Mould」（https://gmk.suppliergo.com/・1回目）
+  - 「Wholesale Cheap Hotsell Hydraulic Metal Sheet Press Brake Tools」（https://gmk.suppliergo.com/・1回目）
+  - 「Bottom Price Best Quality Multi v Prism Die」（https://gmk.suppliergo.com/・1回目）
+- 製造業の実績：
+  - 「One of the largest press brake tooling manufacturers in China.」（https://gmk.suppliergo.com/・1回目）
+  - 「Large bending tools manufacturer.」（https://gmk.suppliergo.com/・1回目）
+  - 「Manufacturer, Trading Company」（https://gmk.suppliergo.com/・1回目）
+  - 「Anhui Factory Best-Selling Used Bending Machine Tooling」（https://gmk.suppliergo.com/・1回目）
+  - 「Factory in Anhui China Hot Sale Promotion Round Angle Press Brake Tooling」（https://gmk.suppliergo.com/・1回目）
+  - 「China Gold Manufacturer Top Sell 5 Meter Bend Machinery Tooling」（https://gmk.suppliergo.com/・1回目）
+  - 「This conversation is AI-generated. Contact manufacturer before transaction to confirm info.」（https://gmk.suppliergo.com/・1回目）
+  - 「ITES China Shenzhen International Industrial Manufacturing Technology and Equipment Exhibition」（https://global.iteschina.com/en/exhibitor-list/details/13203/maanshan-fangwei-press-brake-tooling・3回目）
+  - 「CNC/Sheet Metal/Stamping/Casting and Other Manufacturing Processing」（https://global.iteschina.com/en/exhibitor-list/details/13203/maanshan-fangwei-press-brake-tooling・3回目）
+  - 「Die & Mold Design and Manufacturing」（https://global.iteschina.com/en/exhibitor-list/details/13203/maanshan-fangwei-press-brake-tooling・3回目）
+  - 「A-8#, Dahe Industrial park, Bowang Town, Bowang District, Ma'anshan City」（https://customtoolscn.com/contact-us.html・3回目）
+- 規模・親会社：
+  - 「New Arrival Customized Cnc Press Brake Steel Bending Tools」（https://gmk.suppliergo.com/・1回目）
+- 検索結果の抜粋：
+  - 「Maanshan Fangwei Press Brake Tooling Co ., Ltd .: Company ... — Maanshan Fangwei Press Brake Tooling Co ., Ltd .: Company ... Maanshan Fangwei Press Brake Tooling Co., Ltd. https://chn-fw.en.alibaba.com」（https://chn-fw.en.alibaba.com/・3回目）
+  - 「Maanshan Fangwei Press Brake Tooling Co ., Ltd .: Chinese ... — Maanshan Fangwei Press Brake Tooling Co ., Ltd .: Chinese ... gmk.goldsupplier.com https://gmk.goldsupplier.com」（https://gmk.goldsupplier.com/・3回目）
+  - 「Maanshan Fangwei Press Brake Tooling Co ., Ltd . — Maanshan Fangwei Press Brake Tooling Co ., Ltd . ITES China https://global.iteschina.com > details」（https://global.iteschina.com/en/exhibitor-list/details/13203/maanshan-fangwei-press-brake-tooling・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索13回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索13回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索13回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索13回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索13回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索13回）
+- 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索13回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索13回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索13回）
+
+## MAANSHAN GOLIN PRESS BRAKE TOOLING CO., LTD.
+- 公式URL：http://www.golintools.com/（search:yahoo_jp:MAANSHAN GOLIN PRESS BRAKE TOOLING CO., LTD.）
+- 採用・広告の製品：
+  - 「Company Overview - Maanshan Golin Press Brake Tooling Co., Ltd.」（http://www.golintools.com/・1回目）
+  - 「Maanshan Golin Press Brake Tooling Co., Ltd.」（http://www.golintools.com/・1回目）
+  - 「Custom Press Brake Dies TOP.SP134-24-8 Flatting Hemming Punches」（http://www.golintools.com/・1回目）
+  - 「Flatting lower dies of TOP.SM134-28-8 promecam hemming dies with 8mm width」（http://www.golintools.com/・1回目）
+  - 「Golin-WT hemming dies TPR.SM195-24-12 WILA flatting lower press brake dies with opening vee 12mm」（http://www.golintools.com/・1回目）
+  - 「European Amada Press Brake Gooseneck Punch 120mm Tooling with Best Price and Quality」（http://www.golintools.com/・1回目）
+  - 「Multi V Bending Machine Tools and Dies, Standard CNC Press Brake Dies」（http://www.golintools.com/・1回目）
+  - 「Single Vee T Type of LFK CNC High Quality Press Brake Tooling and Dies Components」（http://www.golintools.com/・1回目）
+  - 「CNC Golin Press Brake Tooling and Die with Standard Hunger Part」（http://www.golintools.com/・1回目）
+  - 「GOLIN Manufacturer 42CrMo Steel Cnc Amada Metal Press Brake Tooling」（http://www.golintools.com/・1回目）
+  - 「Golin Standard Type Punches of LP180-76-R1-B LVD Gooesneck Punches ,LVD Mold for Press Brake Machines」（http://www.golintools.com/・1回目）
+  - 「Golin Die Table of Press Brake Crowning Tables for Adjustment Components」（http://www.golintools.com/・1回目）
+- 製造業の実績：
+  - 「GOLIN Manufacturer 42CrMo Steel Cnc Amada Metal Press Brake Tooling」（http://www.golintools.com/・1回目）
+  - 「we put great importance into our precision- grinding for promise the production precision of the tools and get the approval from the domestic and foreign machine manufacturers and dealer. We all body heat treatment HRC47+/-3 and induction harden HRC52-60 to get the best result for your upper tools and lower dies.」（https://www.cngolin.com/・3回目）
+  - 「Whether you need standard catalog models or custom-engineered press brake tooling, Golin supports both OEM and wholesale orders with factory-direct pricing.」（https://www.cngolin.com/・3回目）
+  - 「Contact us today for professional technical solutions and quick factory quotations!」（https://www.cngolin.com/・3回目）
+  - 「To protect your operators and speed up tool changes, our tooling system uses two different safety designs based on tool weight:」（https://www.cngolin.com/・3回目）
+  - 「Integrated Quick Locking (< 12kg): For segmented tools and lightweight standard lengths. Operators can click tools vertically into the clamp from the front. This speeds up daily tool changeovers.」（https://www.cngolin.com/・3回目）
+  - 「Maanshan Golin Press Brake Tooling Co., Ltd. was founded in 2003 and is located in Bowang Town-China’s leading town for cutting tools and dies. The company has over 120 employees, 23 years of manufacturing experience, and covers 12,000 square meters, including 8,000 square meters of modern workshops.」（https://www.cngolin.com/・3回目）
+  - 「With multiple national patents, Golin has built a strong reputation for quality and service. Its products are exported to over 40 countries across Europe, America, and the Middle East, and the company continues improving its manufacturing and service capabilities.」（https://www.cngolin.com/・3回目）
+  - 「China leading press brake tooling manufacturer and exporter」（https://www.cngolin.com/・3回目）
+  - 「GOLIN Press Brake Tooling Co., Ltd. will exhibit at HIMTEX 2026, held in Hyderabad, India, from August 20 to 24, 2026. As a professional manufacturer ...」（https://www.cngolin.com/・3回目）
+  - 「The 4th Xuzhou International Construction Machinery Exhibition 2026 has come to a successful conclusion. As a professional manufacturer in the ...」（https://www.cngolin.com/・3回目）
+  - 「News | Hydraulic Press Brake Tooling Manufacturer -Maanshan Golin Press Brake Tooling Co.,Ltd.」（https://www.cngolin.com/news_nc2・3回目）
+- 再販・ホワイトラベル：
+  - 「OEM & Wholesale Custom Solutions」（https://www.cngolin.com/・3回目）
+  - 「Whether you need standard catalog models or custom-engineered press brake tooling, Golin supports both OEM and wholesale orders with factory-direct pricing.」（https://www.cngolin.com/・3回目）
+- 規模・親会社：
+  - 「More than 120 employees」（https://www.cngolin.com/・3回目）
+  - 「Maanshan Golin Press Brake Tooling Co., Ltd. was founded in 2003 and is located in Bowang Town-China’s leading town for cutting tools and dies. The company has over 120 employees, 23 years of manufacturing experience, and covers 12,000 square meters, including 8,000 square meters of modern workshops.」（https://www.cngolin.com/・3回目）
+- 連絡先：
+  - 「Contact us today for professional technical solutions and quick factory quotations!」（https://www.cngolin.com/・3回目）
+- 検索結果の抜粋：
+  - 「Maanshan Golin Press Brake Tooling Co ., Ltd . — Maanshan Golin Press Brake Tooling Co ., Ltd . Maanshan Golin Press Brake Tooling Co., Ltd. https://www.cngolin.com」（https://www.cngolin.com/・3回目）
+  - 「Maanshan Golin Press Brake Tooling Co ., Ltd .: Company ... — Maanshan Golin Press Brake Tooling Co ., Ltd .: Company ... Alibaba.com https://cngolin.en.alibaba.com」（https://cngolin.en.alibaba.com/・3回目）
+  - 「Maanshan Golin Press Brake Tooling Co ., Ltd .: Company ... — Maanshan Golin Press Brake Tooling Co ., Ltd .: Company ... golintools.com http://www.golintools.com」（http://www.golintools.com/・3回目）
+  - 「Maanshan Golin Press Brake Tooling Co ., Ltd .: Company ... — Maanshan Golin Press Brake Tooling Co ., Ltd .: Company ... Alibaba.com https://cngolin.en.alibaba.com」（https://cngolin.en.alibaba.com/index.html・3回目）
+  - 「News | Hydraulic Press Brake Tooling Manufacturer — News | Hydraulic Press Brake Tooling Manufacturer Maanshan Golin Press Brake Tooling Co., Ltd. https://www.cngolin.com > news_nc2」（https://www.cngolin.com/news_nc2・3回目）
+- 創業年度：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部21頁・検索13回）
+- 株主：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部21頁・検索13回）
+- 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部21頁・検索13回）
+- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部21頁・検索13回）
+- 所在地：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部21頁・検索13回）
+- 料金：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部21頁・検索13回）
+- 日本の担い手：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部21頁・検索13回）
+
 ## MIND
 - 公式URL：https://www.mimbi.io（given）
 - 採用・広告の製品：
@@ -22583,6 +24264,157 @@ JPタワー14F（https://prtimes.jp/main/html/rd/p/000000010.000041324.html・3�
 - 連絡先：記載なし（3回確認済み：公式10頁／PDF・画像0件／外部30頁・検索12回）
 - 製造業の実績：記載なし（3回確認済み：公式10頁／PDF・画像0件／外部30頁・検索12回）
 - 日本の担い手：記載なし（3回確認済み：公式10頁／PDF・画像0件／外部30頁・検索12回）
+
+## Mahr Metering Systems
+- 公式URL：https://cochranandcompany.com/mahr-metering-systems/（given）
+- 採用・広告の製品：
+  - 「Precision That Drives Performance」（https://cochranandcompany.com/mahr-metering-systems/・1回目）
+  - 「At Cochran and Company, we proudly bring you the industry-leading technology of Mahr Metering Systems — engineered for ultimate precision in metering, mixing, and dispensing applications. Whether you're working with adhesives, silicones, polyurethanes, or coatings, Mahr systems deliver consistent and accurate flow every time.」（https://cochranandcompany.com/mahr-metering-systems/・1回目）
+  - 「Mahr’s gear pump technology is trusted in industries like automotive, aerospace, medical device manufacturing, and electronics, where precision is non-negotiable.」（https://cochranandcompany.com/mahr-metering-systems/・1回目）
+  - 「High-precision Dispensing」（https://cochranandcompany.com/mahr-metering-systems/・1回目）
+  - 「Continuous Metering for Production Lines」（https://cochranandcompany.com/mahr-metering-systems/・1回目）
+  - 「In process and manufacturing for hazardous areas, special precautions should be taken to avoid equipment being a source of ignition.」（https://cochranandcompany.com/mahr-metering-systems/・1回目）
+  - 「Mahr’s meter mix dispensing equipment can integrate any number of mix valves, mix heads, and motionless (or “static”) mixers from a complete line of valves and mixers.」（https://cochranandcompany.com/mahr-metering-systems/・1回目）
+  - 「Cannabis Processing & Dispensing」（https://cochranandcompany.com/mahr-metering-systems/・1回目）
+  - 「Upgrade your metering. Enhance your productivity. Partner with the pros.」（https://cochranandcompany.com/mahr-metering-systems/・1回目）
+  - 「Cochran and Company has been the preferred MRO supplier in Southern California for precision manufacturers, machine shops, aerospace, and OEM industries.」（https://cochranandcompany.com/mahr-metering-systems/・1回目）
+  - 「Pi Tape Precision Measurement」（https://cochranandcompany.com/mahr-metering-systems/・1回目）
+  - 「Precision Starts Here:」（https://cochranandcompany.com/carr-lane-manufacturing/・1回目）
+- 製造業の実績：
+  - 「Mahr’s gear pump technology is trusted in industries like automotive, aerospace, medical device manufacturing, and electronics, where precision is non-negotiable.」（https://cochranandcompany.com/mahr-metering-systems/・1回目）
+  - 「Every drop matters. That’s why leading manufacturers trust Mahr Metering Systems for:」（https://cochranandcompany.com/mahr-metering-systems/・1回目）
+  - 「Continuous Metering for Production Lines」（https://cochranandcompany.com/mahr-metering-systems/・1回目）
+  - 「In process and manufacturing for hazardous areas, special precautions should be taken to avoid equipment being a source of ignition.」（https://cochranandcompany.com/mahr-metering-systems/・1回目）
+  - 「Cochran and Company has been the preferred MRO supplier in Southern California for precision manufacturers, machine shops, aerospace, and OEM industries.」（https://cochranandcompany.com/mahr-metering-systems/・1回目）
+  - 「Carr Lane Manufacturing」（https://cochranandcompany.com/mahr-metering-systems/・1回目）
+  - 「Carr Lane Manufacturing Tooling & Fixture Components - Cochran and Company」（https://cochranandcompany.com/carr-lane-manufacturing/・1回目）
+  - 「Premium Workholding Solutions from Carr Lane Manufacturing, Delivered by Experts」（https://cochranandcompany.com/carr-lane-manufacturing/・1回目）
+  - 「Your success demands reliability, precision, and performance. That’s exactly what we deliver — as your trusted, authorized source for Carr Lane Manufacturing’s world-class tools and fixtures.」（https://cochranandcompany.com/carr-lane-manufacturing/・1回目）
+  - 「As official distributors of Carr Lane Manufacturing, Cochran and Company delivers the gold standard in workholding and fixturing products. From modular tooling systems to precision locating components, our solutions are designed for speed, strength, and repeatability — every single time.」（https://cochranandcompany.com/carr-lane-manufacturing/・1回目）
+  - 「Trusted by Industry Leaders Nationwide」（https://cochranandcompany.com/carr-lane-manufacturing/・1回目）
+  - 「Our clients include aerospace, automotive, medical device, and industrial manufacturers who demand the best. They rely on Carr Lane quality — and our dedication to fast, responsive service.」（https://cochranandcompany.com/carr-lane-manufacturing/・1回目）
+- 再販・ホワイトラベル：
+  - 「Cochran and Company has been the preferred MRO supplier in Southern California for precision manufacturers, machine shops, aerospace, and OEM industries.」（https://cochranandcompany.com/mahr-metering-systems/・1回目）
+  - 「ROEMHELD Power Workholding」（https://cochranandcompany.com/carr-lane-manufacturing/・1回目）
+  - 「ROEMHELD power workholding devices allow users faster clamping and faster machining with increased quality.」（https://cochranandcompany.com/carr-lane-manufacturing/・1回目）
+  - 「ROEMHELD Precision Vises」（https://cochranandcompany.com/carr-lane-manufacturing/・1回目）
+  - 「ROEMHELD vise workholding systems include the MCP series, SCS series, NC series, and ZH series.」（https://cochranandcompany.com/carr-lane-manufacturing/・1回目）
+  - 「Zero-Point Mounting Systems offered by Carr Lane Roemheld include Quintus Quick-Change risers.」（https://cochranandcompany.com/carr-lane-manufacturing/・1回目）
+  - 「ROEMHELD Assembly & Lifting」（https://cochranandcompany.com/carr-lane-manufacturing/・1回目）
+  - 「ROEMHELD ergonomic handling system is designed to improve efficiency, safety, and comfort in industrial environments through functional modules engineered.」（https://cochranandcompany.com/carr-lane-manufacturing/・1回目）
+  - 「Fast, Accurate CNC Setup with Carr Lock® System and ROEMHELD Hilma NC-Series Hydro-Mechanical Vise」（https://cochranandcompany.com/carr-lane-manufacturing/・1回目）
+  - 「Cochran and Company has been the preferred MRO supplier in Southern California for precision manufacturers, machine shops, aerospace, and OEM industries.」（https://cochranandcompany.com/carr-lane-manufacturing/・1回目）
+  - 「Cochran and Company has been the preferred MRO supplier in Southern California for precision manufacturers, machine shops, aerospace, and OEM industries.」（https://cochranandcompany.com/starrett-gage-block-calibration-solutions/・1回目）
+  - 「Cochran and Company has been the preferred MRO supplier in Southern California for precision manufacturers, machine shops, aerospace, and OEM industries.」（https://cochranandcompany.com/actek-manufacturing/・1回目）
+- 規模・親会社：
+  - 「Mahr Metering Systems offers a wide array of pumps for dispensing botanical, cannabis, and hemp distillate.」（https://cochranandcompany.com/mahr-metering-systems/・1回目）
+  - 「Carr Lane Manufacturing」（https://cochranandcompany.com/mahr-metering-systems/・1回目）
+  - 「Carr Lane Manufacturing Tooling & Fixture Components - Cochran and Company」（https://cochranandcompany.com/carr-lane-manufacturing/・1回目）
+  - 「Premium Workholding Solutions from Carr Lane Manufacturing, Delivered by Experts」（https://cochranandcompany.com/carr-lane-manufacturing/・1回目）
+  - 「Your success demands reliability, precision, and performance. That’s exactly what we deliver — as your trusted, authorized source for Carr Lane Manufacturing’s world-class tools and fixtures.」（https://cochranandcompany.com/carr-lane-manufacturing/・1回目）
+  - 「Engineered to Perform. Built to Last. Backed by Carr Lane.」（https://cochranandcompany.com/carr-lane-manufacturing/・1回目）
+  - 「As official distributors of Carr Lane Manufacturing, Cochran and Company delivers the gold standard in workholding and fixturing products. From modular tooling systems to precision locating components, our solutions are designed for speed, strength, and repeatability — every single time.」（https://cochranandcompany.com/carr-lane-manufacturing/・1回目）
+  - 「Our clients include aerospace, automotive, medical device, and industrial manufacturers who demand the best. They rely on Carr Lane quality — and our dedication to fast, responsive service.」（https://cochranandcompany.com/carr-lane-manufacturing/・1回目）
+  - 「“Cochran and Company helped us streamline our fixturing with Carr Lane components. Precision improved, and so did our bottom line.”」（https://cochranandcompany.com/carr-lane-manufacturing/・1回目）
+  - 「“Switching to Carr Lane components through Cochran and Company was a game-changer. Our fixture changeover time dropped by 40%, and their team made the transition seamless.”」（https://cochranandcompany.com/carr-lane-manufacturing/・1回目）
+  - 「“Exceptional service and product knowledge. Cochran and Company not only supplied us with top-quality Carr Lane parts but also helped us choose the right components for our lean manufacturing initiative.”」（https://cochranandcompany.com/carr-lane-manufacturing/・1回目）
+  - 「Every product is backed by Carr Lane’s legacy of American manufacturing excellence — and our commitment to your success.」（https://cochranandcompany.com/carr-lane-manufacturing/・1回目）
+- 連絡先：
+  - 「info@cochranandcompany.com」（https://cochranandcompany.com/mahr-metering-systems/・1回目）
+  - 「Need help choosing the right insert? Contact us for personalized assistance.」（https://cochranandcompany.com/mahr-metering-systems/・1回目）
+  - 「Info@cochranandcompany.com」（https://cochranandcompany.com/mahr-metering-systems/・1回目）
+  - 「Request a quote or contact us today!」（https://cochranandcompany.com/mahr-metering-systems/・1回目）
+  - 「info@cochranandcompany.com」（https://cochranandcompany.com/carr-lane-manufacturing/・1回目）
+  - 「Info@cochranandcompany.com」（https://cochranandcompany.com/carr-lane-manufacturing/・1回目）
+  - 「Request a quote or contact us today!」（https://cochranandcompany.com/carr-lane-manufacturing/・1回目）
+  - 「info@cochranandcompany.com」（https://cochranandcompany.com/starrett-gage-block-calibration-solutions/・1回目）
+  - 「Info@cochranandcompany.com」（https://cochranandcompany.com/starrett-gage-block-calibration-solutions/・1回目）
+  - 「Request a quote or contact us today!」（https://cochranandcompany.com/starrett-gage-block-calibration-solutions/・1回目）
+  - 「info@cochranandcompany.com」（https://cochranandcompany.com/actek-manufacturing/・1回目）
+  - 「Info@cochranandcompany.com」（https://cochranandcompany.com/actek-manufacturing/・1回目）
+- 検索結果の抜粋：
+  - 「Mahr Metering Systems | Dosing Solutions for Liquids — Mahr Unipre develops custom-designed meter mix dispense technology for the precise processing of liquids and pastes. From material preparation through mixing and dispensing to application, we create solutions that are precisely tailored to your process.」（https://metering.mahr.com/en-int/・3回目）
+  - 「Mahr Metering Systems Corp | Dosing Solutions for Liquids — Mahr Metering Systems GmbH, formerly Mahr GmbH – Feinpruef Spinning Pumps division – is part of the Mahr Group with headquarters in Goettingen, Germany. Mahr was founded in 1861 in Esslingen by Carl Mahr, who developed the first dimensional metrology.」（https://metering.mahr.com/en-us/・3回目）
+  - 「Contact - Mahr — Mahr Metering Systems Corporation 1415 Cross Beam Drive Charlotte, NC 28217 +1 704 525 7128 metering.usa@mahr.com」（https://metering.mahr.com/en-us/company/contact・3回目）
+  - 「Mahr Metering Systems | Dosing Solutions for Liquids — Our systems help you reduce material consumption, reliably meet quality requirements, and sustainably optimize production processes. This enables you to produce more efficiently, faster, and at higher capacity.」（https://metering.mahr.com/en-int/・3回目）
+  - 「Mahr Metering Systems | Dosing Solutions for Liquids — This is how we lay the foundation for consistent product quality, stable production processes, and cost-effective manufacturing. From consultation and the design of the optimal metering solution to customized development by our engineering team, we support our customers throughout the entire product lifecycle.」（https://metering.mahr.com/en-int/・3回目）
+  - 「Mahr Metering Systems - Financials, Funding, Investors ... — Dive into Mahr Metering Systems’ funding data, including significant investment rounds, funding trends, total capital raised, and key backers, to understand Mahr Metering Systems’ investor confidence and growth trajectory.」（https://www.zoominfo.com/financial/mahr-metering-systems-corp/113886266・3回目）
+  - 「Mahr Metering Systems Information - RocketReach — Mahr Metering Systems is a Machinery Manufacturing company located in Göttingen, Lower Saxony with $516 million in revenue and 54 employees. Find top employees, contact details and business statistics at RocketReach.」（https://rocketreach.co/mahr-metering-systems-profile_b6a5aab8c87e5efd・3回目）
+  - 「Mahr Metering Systems Corporation – Estimated Net Worth, Growt… — Discover Mahr Metering Systems Corporation's estimated revenue, valuation, funding history, employee data, and top competitors.」（https://compworth.com/company/mahr-metering-systems-corporation・3回目）
+  - 「Mahr Metering Systems Corporation Information - RocketReachMahr Metering Systems - Overview, News & Similar companies ...Mahr Metering Systems Corp Overview - Salary.comMahr - Crunchbase Company Profile & Funding — Mahr Metering Systems Corporation is a Machinery Manufacturing, Metals & Mining General, and Manufacturing company located in Göttingen, Lower Saxony with $516 million in revenue and 44」（https://rocketreach.co/mahr-metering-systems-corporation-profile_b5c9eb2df42e3116・3回目）
+  - 「Mahr Metering Systems - Overview, News & Similar companies ... — Gather financial insights about Mahr Metering Systems, including details on funding rounds, investors, total funding, and acquisitions, to gain a comprehensive understanding of their financial strategy.」（https://www.zoominfo.com/c/mahr-metering-systems-corp/113886266・3回目）
+- 創業年度：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部37頁・検索12回）
+- 株主：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部37頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部37頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部37頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部37頁・検索12回）
+- 料金：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部37頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部37頁・検索12回）
+
+## Mahr
+- 公式URL：https://mahr.ai（given）
+- 採用・広告の製品：
+  - 「粗さ測定機・輪郭形状測定機「MarSurf」、光学式3D表面形状測定機「MarSurf3D」、シャフト測定機「MarShaft」、ゲージ校正向け測長機「Precimar」、ハイトゲージ「Digimar」を主力製品としています」（https://pr.mono.ipros.com/mahr/information/・3回目）
+  - 「◇ゲージ校正用標準万能測長機（Precimar）」（https://pr.mono.ipros.com/mahr/information/・3回目）
+  - 「From manual calipers to fully automated measuring stations, explore our comprehensive product range and see how Mahr can elevate your quality assurance!」（https://marketing.mahr.com/mahr-product-catalog・3回目）
+  - 「** Click here to browse Mahr's online product catalog in a detailed overview.」（https://marketing.mahr.com/mahr-product-catalog・3回目）
+  - 「Request a printed version of our catalog!」（https://marketing.mahr.com/mahr-product-catalog・3回目）
+  - 「Download a PDF of our product catalog!」（https://marketing.mahr.com/mahr-product-catalog・3回目）
+  - 「Providence, RI 02905」（https://marketing.mahr.com/mahr-product-catalog・3回目）
+  - 「Case Study: Mahr GmbH improves production control and warehouse efficiency with PSIwms from PSI Software | CaseStudies.com」（https://www.casestudies.com/company/psi-software/case-study/mahr-gmbh-customer-case-study・3回目）
+  - 「Case Study: Mahr GmbH improves production control and warehouse efficiency with PSIwms from PSI Software」（https://www.casestudies.com/company/psi-software/case-study/mahr-gmbh-customer-case-study・3回目）
+  - 「Efficient production control at mahr」（https://www.psi.de/en/success-stories/case-studies/efficient-production-control-at-mahr・3回目）
+  - 「Mahr GmbH, a leading manufacturer of production measurement technology based in Göttingen, relies on the PSIwms warehouse management system to optimize its warehouse and production processes.」（https://www.psi.de/en/success-stories/case-studies/efficient-production-control-at-mahr・3回目）
+  - 「Improve transparency in the material flow」（https://www.psi.de/en/success-stories/case-studies/efficient-production-control-at-mahr・3回目）
+- 製造業の実績：
+  - 「Case Study: Mahr GmbH improves production control and warehouse efficiency with PSIwms from PSI Software | CaseStudies.com」（https://www.casestudies.com/company/psi-software/case-study/mahr-gmbh-customer-case-study・3回目）
+  - 「Case Study: Mahr GmbH improves production control and warehouse efficiency with PSIwms from PSI Software」（https://www.casestudies.com/company/psi-software/case-study/mahr-gmbh-customer-case-study・3回目）
+  - 「Mahr GmbH - Customer Case Study」（https://www.casestudies.com/company/psi-software/case-study/mahr-gmbh-customer-case-study・3回目）
+  - 「View this case study…」（https://www.casestudies.com/company/psi-software/case-study/mahr-gmbh-customer-case-study・3回目）
+  - 「Was it helpful? Rate this case study:」（https://www.casestudies.com/company/psi-software/case-study/mahr-gmbh-customer-case-study・3回目）
+  - 「Mahr GmbH, a leading manufacturer of production measurement technology based in Göttingen, relies on the PSIwms warehouse management system to optimize its warehouse and production processes.」（https://www.psi.de/en/success-stories/case-studies/efficient-production-control-at-mahr・3回目）
+  - 「Pallet warehouse with approx. 300 storing positions」（https://www.psi.de/en/success-stories/case-studies/efficient-production-control-at-mahr・3回目）
+  - 「Connection of automatic small parts warehouse with two workstations for order picking and inventory (approx. 2,700 storing positions)」（https://www.psi.de/en/success-stories/case-studies/efficient-production-control-at-mahr・3回目）
+  - 「Customer Stories: Carl Mahr—Manufacturing|Science/Engineering」（https://cdn.quantum.com/customerstories/carlmahr/index.aspx・3回目）
+  - 「MANUFACTURING | SCIENCE / ENGINEERING」（https://cdn.quantum.com/customerstories/carlmahr/index.aspx・3回目）
+  - 「Growing manufacturer needed to increase backup performance and reduce capacity for a variety of rapidly growing data types and VMs」（https://cdn.quantum.com/customerstories/carlmahr/index.aspx・3回目）
+  - 「Having a good backup solution is not enough if the manufacturer fails to provide effective support, and the IT team of The Mahr Group is enthusiastic about the after-sale service they receive from Quantum.」（https://cdn.quantum.com/customerstories/carlmahr/index.aspx・3回目）
+- 日本の担い手：
+  - 「導入前のご相談からアフターケアまで、日本国内で迅速かつ一貫して対応いたします」（https://mahr-japan.com/・3回目）
+- 規模・親会社：
+  - 「A leader in the production of precision measuring instruments for 150 years, The Mahr Group and its 1,700 employees rely on a complex, data-intensive working environment that includes a variety of different CAD systems and databases, along with Windows applications such as Office and SharePoint.」（https://cdn.quantum.com/customerstories/carlmahr/index.aspx・3回目）
+  - 「Annual Revenue, Growth & Competitor Analysis Report for Mahr - IncFact」（https://incfact.com/company/mahr-providence-ri/・3回目）
+  - 「Mahr Revenue, Growth & Competitor Profile」（https://incfact.com/company/mahr-providence-ri/・3回目）
+  - 「See Exact Annual Revenue」（https://incfact.com/company/mahr-providence-ri/・3回目）
+  - 「Note: Revenues for privately held companies are statistical evaluations.」（https://incfact.com/company/mahr-providence-ri/・3回目）
+  - 「What is the company's size? (Annual sales and employees)」（https://incfact.com/company/mahr-providence-ri/・3回目）
+  - 「Mahr's annual revenues are $10 - $100 million」（https://incfact.com/company/mahr-providence-ri/・3回目）
+  - 「(see exact revenue data)」（https://incfact.com/company/mahr-providence-ri/・3回目）
+  - 「Mahr Annual Revenue and Growth Rate」（https://incfact.com/company/mahr-providence-ri/・3回目）
+  - 「Note: Mahr's revenues are gauged from an analysis of company filings.」（https://incfact.com/company/mahr-providence-ri/・3回目）
+  - 「These are the largest companies by revenue. However, they may not have the largest market share in this industry if they have diversified into other business lines.」（https://incfact.com/company/mahr-providence-ri/・3回目）
+  - 「While some companies compete with neighboring businesses for customers, other companies may compete to attract skilled employees.」（https://incfact.com/company/mahr-providence-ri/・3回目）
+- 検索結果の抜粋：
+  - 「精密測定機・測定工具ならMahr（マール）｜マール・ジャパン — Mahr（マール）は160年以上の歴史を持つドイツ発の精密測定機器メーカー。粗さ・輪郭、真円度、シャフト、光学式3D測定、万能測長機から各種測定工具まで、製造現場の品質向上・検査効率化・自動化を支援します。実機デモ・テスト測定、展示会・Webセミナー情報もご案内しています。」（https://mahr-japan.com/・3回目）
+  - 「Mahr測定技術 — Mahrの新しいオンラインショールーム 今すぐオンラインでご覧ください Mahrの新しいオンラインショールームで測定技術を仮想体験してください。 革新的なソリューションであふれた2つのブースとインフォメーションカウンターをご用意してお待ちしてい ...」（https://metrology.mahr.com/ja/・3回目）
+  - 「Mahr Group — Welcome to Mahr One company, a variety of products, passionate employees: that is Mahr. As a global supplier of production metrology, rotary stroke bearings and gear metering pumps as well as meter mix dispense technology, the Mahr Group has the right solution for a wide range of applications.」（https://www.mahr.com/ja・3回目）
+  - 「企業情報 | マール・ジャパン - Powered by イプロスものづくり — マール・ジャパン の企業情報や製品・サービス、関連カタログをご紹介。 輪郭形状測定機・粗さ測定機・シャフト測定機・光学式3D表面形状測定機・測長機・測定工具のドイツ精密測定機器メーカー Mahr」（https://pr.mono.ipros.com/mahr/information/・3回目）
+  - 「マール・ジャパン | 企業情報 | イプロスものづくりマール・ジャパン株式会社 - 会社概要すべての製品・サービス 一覧 | マール・ジャパン - Powered by イプ... — Oct 19, 2026 · マール・ジャパンの企業情報や製品・サービス、関連カタログをご紹介。 輪郭形状測定機・粗さ測定機・シャフト測定機・光学式3D表面形状測定機・測長機・測定工具のドイツ精密測定機器メーカー Mahr イプロスものづくりでは、試験・分析・測定など製造業向けの情報を多数掲載。 2000年にマール社は、日本において独自の販売会社、マール・マルチセンサー・ジャパン株式会社を設立いたしました。 そして昨年、社名をマール・ジャパン株式会社と改め、三次元測定機に加えてあらゆる測定機を販売しております。 Jan 20, 2026 · Marhのワイヤレス送信機内蔵測定機器ー外付け送信機は購入不要！ 」（https://mono.ipros.com/company/detail/2069010/・3回目）
+  - 「Mahr Product Catalog — When customers are faced with a metrology need, they turn to Mahr Inc. for unmatched industry expertise.」（https://marketing.mahr.com/mahr-product-catalog・3回目）
+  - 「Mahr Japan - LinkedIn — Mahr Japan | 92 followers on LinkedIn. We are the Japanese subsidiary of Mahr GmbH. Mahr has over 150 years of experience in manufacturing a wide variety of dimensional metrology equipment from ...」（https://www.linkedin.com/company/mahr-japan・3回目）
+  - 「Case Study: Mahr GmbH improves production control and ... — Mahr GmbH - Customer Case Study Mahr GmbH, a leading manufacturer of production measurement technology, faced challenges with inefficient manual order picking, a non-transparent material flow, and long throughput times in its warehouse and production processes.」（https://www.casestudies.com/company/psi-software/case-study/mahr-gmbh-customer-case-study・3回目）
+  - 「Efficient production control at mahr - PSI — Case Study Efficient production control at mahr Optimization of warehouse management and production control through the introduction of PSIwms.」（https://www.psi.de/en/success-stories/case-studies/efficient-production-control-at-mahr・3回目）
+  - 「Customer Stories: Carl Mahr—Manufacturing|Science/Engineering — The Mahr Group is the world’s third-largest manufacturer of a complete range of production-measuring technology. Carl Mahr Group has subsidiaries in Europe, the Americas, and Asia with a total of 1,700 employees.」（https://cdn.quantum.com/customerstories/carlmahr/index.aspx・3回目）
+  - 「Customer Stories: Carl Mahr—Manufacturing|Science/Engineering ... — The Mahr Group is the world’s third-largest manufacturer of a complete range of production-measuring technology. Carl Mahr Group has subsidiaries in Europe, the Americas, and Asia with a total of 1,700 employees. Founded in 1861 in Esslingen, Germany, this consortium of companies is today the world leader in precision length metro」（https://www.quantum.com/en/resources/customer-success/carl-mahr-group/・3回目）
+  - 「Mahr Federal – Overview – Funding, Revenue & Growth – 2026 — Mahr Federal drives value with estimated revenue of $29.5M, team of around 200+ employees, operating from Providence, staying aligned with industry needs.」（https://compworth.com/company/mahr-federal・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）
+- 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）
 
 ## Makipeople
 - 公式URL：https://www.makipeople.com/（given）
@@ -24165,6 +25997,21 @@ JPタワー14F（https://prtimes.jp/main/html/rd/p/000000010.000041324.html・3�
 - 従業員数：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部39頁・検索12回）
 - 売上高：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部39頁・検索12回）
 - 料金：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部39頁・検索12回）
+
+## Metal Additive Manufacturing magazine
+- 公式URL：特定できず（not_found）
+- 創業年度：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 所在地：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 料金：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 連絡先：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 採用・広告の製品：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 製造業の実績：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 日本の担い手：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 規模・親会社：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
 
 ## Metaview
 - 公式URL：https://www.metaview.ai/（given）
@@ -27487,6 +29334,21 @@ JPタワー14F（https://prtimes.jp/main/html/rd/p/000000010.000041324.html・3�
 - 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）
 - 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）
 
+## ONUR TEKNİK HIRDAVAT İTH. İHR. SAN. TİC. LTD. ŞTİ
+- 公式URL：特定できず（not_found）
+- 創業年度：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 所在地：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 料金：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 連絡先：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 採用・広告の製品：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 製造業の実績：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 日本の担い手：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 規模・親会社：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+
 ## Ocean
 - 公式URL：https://www.ocean.io（given）
 - 売上高：$ 15 M（https://www.ocean.io/・1回目）
@@ -28935,6 +30797,34 @@ JPタワー14F（https://prtimes.jp/main/html/rd/p/000000010.000041324.html・3�
 - 再販・ホワイトラベル：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部28頁・検索12回）
 - 日本の担い手：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部28頁・検索12回）
 
+## Oti Presse
+- 公式URL：https://www.otipresse.it/（search:yahoo_jp:Oti Presse）
+- 採用・広告の製品：
+  - 「Presse meccaniche | Presse transfer | Presse rallentate | Presse servo」（https://www.otipresse.it/・1回目）
+  - 「PRESSE CON RALLENTAMENTO」（https://www.otipresse.it/・1回目）
+  - 「I progetti più interessanti」（https://www.otipresse.it/・1回目）
+  - 「che Oti Presse realizza per i propri clienti.」（https://www.otipresse.it/・1回目）
+  - 「Gli articoli più recenti che presentano le caratteristiche delle nostre migliori macchine.」（https://www.otipresse.it/・1回目）
+  - 「Saremo presenti a MSV 2026」（https://www.otipresse.it/・1回目）
+  - 「Saremo presenti a EuroBLECH 2024」（https://www.otipresse.it/・1回目）
+  - 「Saremo presenti a Blechexpo 2023」（https://www.otipresse.it/・1回目）
+  - 「SEMPRE AL VOSTRO FIANCO」（https://www.otipresse.it/・1回目）
+  - 「Servizi pre e post vendita」（https://www.otipresse.it/・1回目）
+  - 「Presse con Rallentamento」（https://www.otipresse.it/・1回目）
+- 検索結果の抜粋：
+  - 「HOW WE WORK - Oti Presse — HOW WE WORK - Oti Presse Oti Presse https://www.otipresse.it > how-we-work」（https://www.otipresse.it/en/how-we-work/・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索13回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索13回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索13回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索13回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索13回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索13回）
+- 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索13回）
+- 製造業の実績：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索13回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索13回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索13回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索13回）
+
 ## Otterly.ai
 - 公式URL：https://otterly.ai（given）
 - 所在地：$990K 9 2024（https://getlatka.com/companies/otterly.ai・3回目）
@@ -29253,6 +31143,36 @@ JPタワー14F（https://prtimes.jp/main/html/rd/p/000000010.000041324.html・3�
 - 料金：記載なし（3回確認済み：公式1頁／PDF・画像4件／外部33頁・検索12回）
 - 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像4件／外部33頁・検索12回）
 - 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像4件／外部33頁・検索12回）
+
+## PINETTE PEI
+- 公式URL：https://www.pinetteemidecau.eu/（given）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 採用・広告の製品：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 製造業の実績：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+
+## POWERPRESS ENDÜSTRİ MAKİNALARI İTH. İHR. SAN. VE TİC. A.Ş.
+- 公式URL：特定できず（not_found）
+- 創業年度：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 所在地：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 料金：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 連絡先：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 採用・広告の製品：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 製造業の実績：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 日本の担い手：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 規模・親会社：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
 
 ## Pachyderm
 - 公式URL：https://www.hpe.com/us/en/solutions/ai-machine-learning/machine-learning-development-system.html（given）
@@ -32579,6 +34499,55 @@ JPタワー14F（https://prtimes.jp/main/html/rd/p/000000010.000041324.html・3�
 - 再販・ホワイトラベル：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部37頁・検索12回）
 - 日本の担い手：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部37頁・検索12回）
 
+## Pressure Technology, Inc.
+- 公式URL：https://www.pressuretechnology.com/（given）
+- 採用・広告の製品：
+  - 「Hot Isostatic Pressing - PTI」（https://www.pressuretechnology.com/・1回目）
+  - 「Hot Isostatic Pressing Services」（https://www.pressuretechnology.com/・1回目）
+  - 「Pressures to 30,000 psi and Temperatures to 2550° F...」（https://www.pressuretechnology.com/・1回目）
+  - 「Comprehensive Quality Control Program Meeting」（https://www.pressuretechnology.com/・1回目）
+  - 「PTI Hot Isostatic Pressing Services」（https://www.pressuretechnology.com/・1回目）
+  - 「Precise Process Control」（https://www.pressuretechnology.com/・1回目）
+  - 「PTI provides hot isostatic pressing to a wide range of industries including aerospace, medical, space, oil and gas, automotive and electronics. We are experts in the densification of many materials from investment castings to advanced alloys.」（https://www.pressuretechnology.com/・1回目）
+  - 「Pressures to 30,000 psi (207 MPa)」（https://www.pressuretechnology.com/・1回目）
+  - 「Approved by P&W, GE, RR, Lockheed...」（https://www.pressuretechnology.com/・1回目）
+  - 「PTI offers a broad range of hot isostatic processing capabilities from small low pressure to large high pressure production units. Our equipment features enhanced cool capabilities and is exceptionally reliable.」（https://www.pressuretechnology.com/・1回目）
+  - 「PTI processes parts for a wide range of industries with applications to include densification of castings, metal powders, 3D printed parts and MIM parts. The HIP process is also used for producing diffusion bonds in solid/solid, powder solid for both similar and dissimilar materials.」（https://www.pressuretechnology.com/・1回目）
+  - 「About Hot Isostatic Pressing (HIP)」（https://www.pressuretechnology.com/・1回目）
+- 製造業の実績：
+  - 「Applications Include Aerospace, Biomedical,」（https://www.pressuretechnology.com/・1回目）
+  - 「Industrial and Power Generation...」（https://www.pressuretechnology.com/・1回目）
+  - 「PTI provides hot isostatic pressing to a wide range of industries including aerospace, medical, space, oil and gas, automotive and electronics. We are experts in the densification of many materials from investment castings to advanced alloys.」（https://www.pressuretechnology.com/・1回目）
+  - 「Additive Manufacturing」（https://www.pressuretechnology.com/・1回目）
+  - 「When incorporated as an integral part of the manufacturing process reduces scrap and improves yield.」（https://www.pressuretechnology.com/about-hip.php・1回目）
+  - 「Additive Manufacturing & 3D Printing of Metal Parts - PTI」（https://www.pressuretechnology.com/hip-applications-additive.php・1回目）
+  - 「Additive Manufacturing & 3D Printing (Metal)」（https://www.pressuretechnology.com/hip-applications-additive.php・1回目）
+  - 「Medical & Dental Implants」（https://www.pressuretechnology.com/hip-applications-additive.php・1回目）
+  - 「Additive Manufacturing combined with hot isostatic pressing offers the possibility to produce parts from metal powders with qualities that are comparable to those resulting from conventional manufacturing methods. With the application of pressure and temperature, the parts printed from metal powders can be given longer creep life, greater fatigue resistance and enhanced toughness.」（https://www.pressuretechnology.com/hip-applications-additive.php・1回目）
+  - 「Materials that typically can be produced using additive manufacturing and densified using HIP:」（https://www.pressuretechnology.com/hip-applications-additive.php・1回目）
+  - 「Additive Manufacturing & 3D Printing」（https://www.pressuretechnology.com/hip-applications-additive.php・1回目）
+- 規模・親会社：
+  - 「When incorporated as an integral part of the manufacturing process reduces scrap and improves yield.」（https://www.pressuretechnology.com/about-hip.php・1回目）
+- 検索結果の抜粋：
+  - 「Company Profile - Pressure Technology — Company Profile Pressure Technology... Pioneers in HIPing A History of Innovation Pressure Technology, Inc. was founded in 1977 to design and manufacture Hot Isostatic Pressing (HIP) equipment. The founder of Pressure Technology, Inc. had designed and installed a variety of high pressure equipment throughout the United States, Europe, and Japan. Pressure Tec」（https://www.pressuretechnology.com/profile.php・3回目）
+  - 「Hot Isostatic Pressing - PTI — About PTI Pressure Technology is a leading provider of high quality hot isostatic pressing (HIPing) to the aerospace, medical, ceramics, electronics, precision casting, powder metallurgy, additive manufacturing and a variety of other industries.」（https://www.pressuretechnology.com/・3回目）
+  - 「Company Profile - Pressure Technology — Pressure Technology, Inc. was founded in 1977 to design and manufacture Hot Isostatic Pressing (HIP) equipment. The founder of Pressure Technology, Inc. had designed and installed a variety of high pressure equipment throughout the United States, Europe, and Japan.」（https://www.pressuretechnology.com/profile.php・3回目）
+  - 「Hot Isostatic Pressing - PTI — Pressure Technology is a leading provider of high quality hot isostatic pressing (HIPing) to the aerospace, medical, ceramics, electronics, precision casting, powder metallurgy, additive manufacturing and a variety of other industries.」（https://www.pressuretechnology.com/・3回目）
+  - 「Pressure Technology - Overview, News & Similar companies ... — View Pressure Technology (www.pressuretechnology.com) location in Pennsylvania, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.」（https://www.zoominfo.com/c/pressure-technology-inc/43254658・3回目）
+  - 「Pressure Technology Inc - $7.9 M Revenue, Employees & Growth ... — Dec 19, 2024 · Pressure Technology Inc has an estimated annual revenue of $7.9 M, 34 employees, headquartered in Warminster, PA, founded in 1986. Explore Pressure Technology Inc revenue history, growth rate, competitors, and more in the Metal Heat Treating Service industry.」（https://www.konaequity.com/company/pressure-technology-inc-4395669152/・3回目）
+  - 「Pressure Technology Inc: Contact Details and Business Profile — Pressure Technology Inc is a Manufacturing, Renewable Energy Semiconductor Manufacturing, and Metals & Minerals company located in Warminster, Pennsylvania with $9.00 Million in revenue and 14 employees. Find top employees, contact details and business statistics at RocketReach.」（https://rocketreach.co/pressure-technology-inc-profile_b467e530fc5d74db・3回目）
+  - 「Pressure Technology - Crunchbase Company Profile & Funding — Pressure Technology is an industrial supplier and engineering service provider focused on compressed air and gas applications. The company distributes and integrates piston and screw compressors, medium and high pressure air and gas systems, and oil free breathing air packages for sectors such as oil and gas, marine, diving, and power ge」（https://www.crunchbase.com/organization/pressure-technology-5a23・3回目）
+  - 「Pressure Technology, Inc. - LinkedIn — Pressure Technology, Inc. | 202 followers on LinkedIn. Hot Isostatic Pressing | Pressure Technology, Inc. is a leader in providing high-quality, responsive toll HIP service to aerospace, medical ...」（https://www.linkedin.com/company/pressure-technology-inc・3回目）
+- 創業年度：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部26頁・検索12回）
+- 株主：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部26頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部26頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部26頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部26頁・検索12回）
+- 料金：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部26頁・検索12回）
+- 連絡先：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部26頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部26頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部26頁・検索12回）
+
 ## Presti
 - 公式URL：https://www.presti.ai/（given）
 - 採用・広告の製品：
@@ -33999,6 +35968,76 @@ JPタワー14F（https://prtimes.jp/main/html/rd/p/000000010.000041324.html・3�
 - 売上高：記載なし（3回確認済み：公式18頁／PDF・画像0件／外部37頁・検索12回）
 - 所在地：記載なし（3回確認済み：公式18頁／PDF・画像0件／外部37頁・検索12回）
 - 料金：記載なし（3回確認済み：公式18頁／PDF・画像0件／外部37頁・検索12回）
+
+## Quintus Technologies AB
+- 公式URL：https://formnext.mesago.com/frankfurt/en/exhibitor-search.html（given）
+- 採用・広告の製品：
+  - 「Formnext preparations」（https://formnext.mesago.com/frankfurt/en/exhibitor-search.html・1回目）
+  - 「等方圧加圧装置（Isostatic Press）は被処理体の全ての部位を均等に加圧するプレスの一種で、均質性、強度、耐久性などに優れた高品質の製品を作ることができる」（https://www.kobelco.co.jp/releases/1196792_15541.html・3回目）
+  - 「（以下、クインタス社）が製造する熱間等方圧加圧装置（HIP装置：Hot Isostatic Pressing ）、及び金属薄板の成形を行うプレス装置（SMF装置：Sheet Metal Forming）を導入し、運転を開始しました」（https://www.kobelco.co.jp/notices/1210610_15586.html・3回目）
+  - 「HIP装置を含むIP装置（Isostatic Pressing）とは、金属やセラミック、カーボンなどの素材を高圧・高温又は常温環境下において、等方圧で加圧焼結または成形する事で、均質性、強度、耐久性などに優れた高品質な製品の製造を可能とするものです」（https://www.kobelco.co.jp/notices/1210610_15586.html・3回目）
+  - 「Hot Isostatic Presses」（https://quintustechnologies.com/contact/・3回目）
+  - 「Warm Isostatic Presses」（https://quintustechnologies.com/contact/・3回目）
+  - 「Cold Isostatic Presses」（https://quintustechnologies.com/contact/・3回目）
+  - 「Flexform™ Fluid Cell Presses」（https://quintustechnologies.com/contact/・3回目）
+  - 「Flexform™ Deep Draw Presses」（https://quintustechnologies.com/contact/・3回目）
+  - 「Battery Processing Systems」（https://quintustechnologies.com/contact/・3回目）
+  - 「High Pressure Processing」（https://quintustechnologies.com/contact/・3回目）
+  - 「High Pressure Processing Presses」（https://quintustechnologies.com/contact/・3回目）
+- 製造業の実績：
+  - 「AM Directory – Additive Manufacturing Suppliers & Exhibitors」（https://formnext.mesago.com/frankfurt/en/exhibitor-search.html・1回目）
+  - 「Medical Implants and Tools」（https://quintustechnologies.com/contact/・3回目）
+  - 「Material densification is a critical process for many manufacturing and materials processing applications. By using high-pressure techniques, materials such as metals, ceramics, and composites can be compressed to higher densities, resulting in increased mechanical properties and performance.」（https://quintustechnologies.com/contact/・3回目）
+  - 「All-solid-state battery (ASSB) technology has been under development for years, offering significant improvements in safety, charging times, and energy density. Quintus has been at the forefront of this innovation, providing advanced isostatic pressing solutions to support all-solid-state battery production from the lab to full-scale manufacturing.」（https://quintustechnologies.com/contact/・3回目）
+  - 「Medical Implants and Tools」（https://quintustechnologies.com/about-us/・3回目）
+  - 「Material densification is a critical process for many manufacturing and materials processing applications. By using high-pressure techniques, materials such as metals, ceramics, and composites can be compressed to higher densities, resulting in increased mechanical properties and performance.」（https://quintustechnologies.com/about-us/・3回目）
+  - 「All-solid-state battery (ASSB) technology has been under development for years, offering significant improvements in safety, charging times, and energy density. Quintus has been at the forefront of this innovation, providing advanced isostatic pressing solutions to support all-solid-state battery production from the lab to full-scale manufacturing.」（https://quintustechnologies.com/about-us/・3回目）
+  - 「Quintus has delivered systems to customers within industries from energy, medical implants, space, aerospace, automotive and food processing. The company is headquartered in Västerås, Sweden, with a presence in 45 countries worldwide.」（https://quintustechnologies.com/about-us/・3回目）
+  - 「Our solutions to technical challenges are driven by our mission to specialize in the design, manufacturing, installation, and support of high pressure systems for sheet metal forming, densification of advanced materials, and microbiological reduction in food, and our vision to be the leading solution provider, we will advance high pressure as a preferred manufacturing technology.」（https://quintustechnologies.com/about-us/・3回目）
+  - 「We specialize in the design, manufacturing, installation, and support of high pressure systems for sheet metal forming, densification of advanced materials, battery processing systems, and microbiological reduction in food.」（https://quintustechnologies.com/about-us/・3回目）
+  - 「Key industries we serve across the globe include aerospace, automotive, energy, food, and medical implants.」（https://quintustechnologies.com/about-us/・3回目）
+  - 「To be the leading solution provider, we will advance high pressure as a preferred manufacturing technology.」（https://quintustechnologies.com/about-us/・3回目）
+- 再販・ホワイトラベル：
+  - 「KIC LLCrsquos main product lines top row include aftermarket brake drums and brake rotors OEM hub and drum assemblies and hub and rotor assemblies and steel and aluminum wheels Accuridersquos Gunite division top row casts finishes and assembles brake drums disc wheel hubs spoke wheels rotors and slack adjusters for the heavyduty and mediumduty truck offhighway and bus OEMs and aftermarkets」（https://www.foundrymag.com/finishing/article/21930715/kobe-steel-buys-quintus-technologies-for-115m・3回目）
+- 日本の担い手：
+  - 「当社IP装置事業は、産業機械事業部のメニューの中では、比較的高収益な事業ですが、日本を始めアジア市場を中心に直近5ヵ年で平均約30億円の売上高に留まっており、更なる市場拡大が課題となっていました」（https://www.kobelco.co.jp/releases/1196792_15541.html・3回目）
+  - 「当社は買収して以降、日本でのクインタス社製装置の販売代理店となり、営業面での連携を強化してきた」（https://www.kobelco.co.jp/notices/1210610_15586.html・3回目）
+  - 「クインタス社製CIP装置の国内企業（京セラ株式会社）への初納入について（2020年9月29日）」（https://www.kobelco.co.jp/notices/1210610_15586.html・3回目）
+  - 「Tokyo 108-8688 Japan」（https://quintustechnologies.com/contact/・3回目）
+  - 「The Japanese company is a portfolio of heavy industrial holdings, which includes steel, aluminum, copper, and titanium products, welding robots and systems, cranes, and」（https://www.foundrymag.com/finishing/article/21930715/kobe-steel-buys-quintus-technologies-for-115m・3回目）
+  - 「Kobe Steel explained it is seeking to increase the profitability of its Industrial Machinery Division, including the IP business, which it describes now as “a relatively high-profit business,” though its sales over in recent years have been centered in Japan and Asia market. Market expansion has been an issue, the buyer reported.」（https://www.foundrymag.com/finishing/article/21930715/kobe-steel-buys-quintus-technologies-for-115m・3回目）
+- 規模・親会社：
+  - 「買収額は、US$115million（約130億円）であり、当社100%出資の完全子会社と致します」（https://www.kobelco.co.jp/releases/1196792_15541.html・3回目）
+  - 「当社はこの度、高砂製作所（兵庫県高砂市）内のテクニカルセンターに、子会社のQuintus Technologies AB」（https://www.kobelco.co.jp/notices/1210610_15586.html・3回目）
+  - 「当社が2017年4月に買収し、完全子会社とした」（https://www.kobelco.co.jp/notices/1210610_15586.html・3回目）
+  - 「To work with us is to work with the leading high pressure technology brand. It is also to be part of a reputation that has been earned for 70 years. It is our responsibility to honor that heritage and build an even stronger future for our company. Each of our individual actions collectively define who we are as a company and how the world sees us. Our company values help guide us on that journey.」（https://quintustechnologies.com/about-us/・3回目）
+  - 「We focus on health, safety, empowerment, business ethics, and respect for human rights. Social sustainability is a part of the foundation of our business and covers a broad range of topics across the value chain.」（https://quintustechnologies.com/about-us/・3回目）
+  - 「This environmental policy is an integral part of our commitment to sustainability and is embedded in our strategies, processes, and day-to-day work.」（https://quintustechnologies.com/about-us/・3回目）
+  - 「Kobe Steel Ltd. acquired isostatic press designer and manufacturer Quintus Technologies AB for a reported $115 million. The seller was Milestone Partners, a private-equity firm that established Quintus in 2015, separating it from another holding, Avure Technologies.」（https://www.foundrymag.com/finishing/article/21930715/kobe-steel-buys-quintus-technologies-for-115m・3回目）
+  - 「“I have a lot of confidence that Quintus stands by its products, which is reinforced by Quintus Care. So many companies have transferred the cost and risk of maintenance onto their customers by carrying little to no inventory.」（https://quintustechnologies.com/・3回目）
+  - 「“When we decided to enter the HIP market, we knew we needed a partner. Quintus worked with us on a business plan and offered a full turnkey solution to bring this capacity to market. Having Quintus as a partner carried a lot of weight with our clients. The reputation as a global leader in high-pressure solutions gave our customers confidence.」（https://quintustechnologies.com/・3回目）
+  - 「“Acquiring the Quintus HIP allows Fraunhofer IFAM researchers to strengthen their technological expertise in the field of pressure-supported heat treatment of the Branch Lab. The new system is not only used for R&D projects but is also available as a service for carrying out predefined HIP cycles.”」（https://quintustechnologies.com/・3回目）
+- 連絡先：
+  - 「Do not hesitate to contact us. We are always ready to answer your questions.」（https://quintustechnologies.com/contact/・3回目）
+  - 「Do not hesitate to contact us. We are always ready to answer your questions.」（https://quintustechnologies.com/about-us/・3回目）
+  - 「Do not hesitate to contact us. We are always ready to answer your questions.」（https://quintustechnologies.com/・3回目）
+- 検索結果の抜粋：
+  - 「スウェーデン Quintus社の買収について｜KOBELCO 神戸製鋼 — Apr 13, 2017 · 当社は、等方圧加圧装置 ※1 （略称：IP装置）の世界トップメーカーであるスウェーデンのQuintus Technologies AB（略称：Quintus社）をその親会社である米国ファンドのMilestone Partners社から4月5日に買収いたしました。買収額は、US$115million（約130億円）であり、当社100%出資の完全子会社と致します。」（https://www.kobelco.co.jp/releases/1196792_15541.html・3回目）
+  - 「神戸製鋼所がQuintus社を130億円で買収 - M&A HACK — Apr 26, 2025 · 神戸製鋼の戦略的買収が示す未来の産業革命 神戸製鋼所がスウェーデンのQuintus Technologies ABを130億円で買収したことは、鉄鋼業界における新たなビジネスチャンスを示しています。」（https://sfs-inc.jp/ma/17729/・3回目）
+  - 「Kobe Steel acquires Quintus Technologies - metal-powder.tech — Apr 14, 2017 · Kobe Steel, Ltd., Tokyo, Japan, has announced its acquisition of Swedish-based Quintus Technologies AB from private shareholders led by US private equity firm Milestone Partners on April 5, 2017. The total purchase price was reported at $115 million. Quintus is now a wholly owned subsidiary of Kobe Steel. Quintus manufac」（https://www.metal-powder.tech/kobe-steel-acquires-quintus-technologies/・3回目）
+  - 「クインタス社製HIP及びSMF装置の導入・運転開始について — Jul 28, 2022 · 当社はこの度、高砂製作所（兵庫県高砂市）内のテクニカルセンターに、子会社のQuintus Technologies AB ※1 （以下、クインタス社）が製造する熱間等方圧加圧装置（HIP装置：Hot Isostatic Pressing ）、及び金属薄板の成形を行うプレス装置（SMF装置：Sheet Metal Forming）を導入し、運転を開始しました ...」（https://www.kobelco.co.jp/notices/1210610_15586.html・3回目）
+  - 「Kobe Steel acquires Quintus Technologies - metal-powder.tech — Apr 14, 2017 · Kobe Steel, Ltd., Tokyo, Japan, has announced its acquisition of Swedish-based Quintus Technologies AB from private shareholders led by US private equity firm Milestone Partners on April 5, 2017. The total purchase price was reported at $115 million. Quintus is now a wholly owned subsidiary of Kobe Steel.」（https://www.metal-powder.tech/kobe-steel-acquires-quintus-technologies/・3回目）
+  - 「スウェーデン Quintus社の買収について｜KOBELCO 神戸製鋼 — Apr 13, 2017 · 当社は、等方圧加圧装置 ※1 （略称：IP装置）の世界トップメーカーであるスウェーデンのQuintus Technologies AB（略称：Quintus社）をその親会社である米国ファンドのMilestone Partners社から4月5日に買収いたしました。」（https://www.kobelco.co.jp/releases/1196792_15541.html・3回目）
+  - 「Kobe Steel Buys Quintus Technologies for $115M | Foundry ... — Apr 18, 2017 · Kobe Steel Ltd. acquired isostatic press designer and manufacturer Quintus Technologies AB for a reported $115 million. The seller was Milestone Partners, a private-equity firm that established Quintus in 2015, separating it from another holding, Avure Technologies. The Japanese company is a portfolio of heavy industrial」（https://www.foundrymag.com/finishing/article/21930715/kobe-steel-buys-quintus-technologies-for-115m・3回目）
+  - 「Quintus Technologies Revenue, Funding & ValuationQuintus Technologies 2026 Company Profile: Valuation ...Quintus Technologies – Competitor List & Expansion Signals – 2026Quintus Technologies - Overview, News & Similar companies ...Quintus Technologies Information - RocketReachQuintus Technologies Revenue, Growth & Competitor ProfileQuintus Number of Employees 2026 | Employee Count & Headcount ... 」（https://prospeo.io/c/quintus-technologies-revenue・3回目）
+  - 「Quintus Technologies 2026 Company Profile: Valuation ...Quintus Technologies – Competitor List & Expansion Signals – 2026Quintus Technologies - Overview, News & Similar companies ...Quintus Technologies Information - RocketReachQuintus Technologies Revenue, Growth & Competitor ProfileQuintus Number of Employees 2026 | Employee Count & Headcount ... — Information on acquisition, funding, investors,」（https://pitchbook.com/profiles/company/10650-70・3回目）
+  - 「Quintus Technologies Information - RocketReachQuintus Technologies Revenue, Growth & Competitor ProfileQuintus Number of Employees 2026 | Employee Count & Headcount ... — Quintus Technologies is a Manufacturing, Industrial Machinery Manufacturing, and Industrial Machinery & Equipment company located in SE with $81.5 million in revenue and 277 employees. Find top employees, contact details and busi」（https://rocketreach.co/quintus-technologies-profile_b55d46eef68721d9・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部28頁・検索12回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部28頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部28頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部28頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部28頁・検索12回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部28頁・検索12回）
 
 ## ROEQ
 - 公式URL：https://roeq.dk/（given）
@@ -37813,6 +39852,244 @@ JPタワー14F（https://prtimes.jp/main/html/rd/p/000000010.000041324.html・3�
 - 料金：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部21頁・検索12回）
 - 日本の担い手：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部21頁・検索12回）
 
+## SANES PRESSES CO. LTD.
+- 公式URL：特定できず（not_found）
+- 検索結果の抜粋：
+  - 「Company - SANES PRESSES Co., Ltd.SANES PRESSES CO., LTD.| Company Profile | CENS.comSANES PRESSES CO., LTD. | CENS.comwww.sanespress.comPrecision Stamping Equipment Company | SENSESANES PRESSES CO. LTD. - maktekfuari.com — SANES Presses Co., Ltd. Sanes Presses established in 1980. As a professional presses maker, Sanes Presses focuses on the developing of various presses and related equipment, suc」（https://www.sanes-press.com/en/company・3回目）
+  - 「SANES PRESSES CO., LTD. | CENS.comwww.sanespress.comPrecision Stamping Equipment Company | SENSESANES PRESSES CO. LTD. - maktekfuari.com — SANES had successfully developed the Japan market in 1985. Asahi Forge Co., Ltd. A famous forging factory in Japan, imported our forging press nine years ago, reassure our quality. SANES successfully developed the first link press set in Taiwan in 1991, which o」（https://www.cens.com/cens/html/en/supplier/supplier_home_1072.html・3回目）
+  - 「SANES PRESSES CO. LTD. - maktekfuari.com — Sanes Presses is a leading manufacturer specializing in high-performance press machinery and integrated manufacturing solutions. We provide comprehensive, customized equipment tailored to meet specific customer requirements, including production line design, factory automation systems, and precision tooling. Fully aware of our responsibility as an industr」（https://www.maktekfuari.com/en/brand/sanes-presses-co-ltd・3回目）
+  - 「SANES PRESSES CO. LTD. - maktekfuari.com — Sanes Presses is a leading manufacturer specializing in high-performance press machinery and integrated manufacturing solutions. We provide comprehensive, customized equipment tailored to meet specific customer requirements, including production line design, factory automation systems, and precision tooling.」（https://www.maktekfuari.com/en/brand/sanes-presses-co-ltd・3回目）
+- 創業年度：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部25頁・検索20回）
+- 株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部25頁・検索20回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部25頁・検索20回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部25頁・検索20回）
+- 所在地：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部25頁・検索20回）
+- 料金：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部25頁・検索20回）
+- 連絡先：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部25頁・検索20回）
+- 採用・広告の製品：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部25頁・検索20回）
+- 製造業の実績：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部25頁・検索20回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部25頁・検索20回）
+- 日本の担い手：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部25頁・検索20回）
+- 規模・親会社：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部25頁・検索20回）
+
+## SARIGÖL KONVEYÖR SİST. MAK. YEDEK PARÇA NAK. İTH. İHR. SAN. VE TİC. LTD. ŞTİ.
+- 公式URL：特定できず（not_found）
+- 採用・広告の製品：
+  - 「Exhibitors & Products」（https://maktekkonya.com/en/exhibitor-list/sarigol-konveyor-sist-mak-yedek-parca-nak-ith-ihr-san-ve-tic-ltd-sti-163113-3264・3回目）
+  - 「4th MAKTEK Konya – Machine Tools, Metal – Sheet Metal Processing Machines, Tool Holders – Cutting Tools, Quality Control – Measurement Systems, CAD/CAM, PLM Software and Manufacturing Technologies Fair」（https://maktekkonya.com/en/exhibitor-list/sarigol-konveyor-sist-mak-yedek-parca-nak-ith-ihr-san-ve-tic-ltd-sti-163113-3264・3回目）
+  - 「Protection of Personal Data」（https://maktekkonya.com/en/exhibitor-list/sarigol-konveyor-sist-mak-yedek-parca-nak-ith-ihr-san-ve-tic-ltd-sti-163113-3264・3回目）
+  - 「The post show report is being prepared and will be available very soon.」（https://maktekkonya.com/en/exhibitor-list/sarigol-konveyor-sist-mak-yedek-parca-nak-ith-ihr-san-ve-tic-ltd-sti-163113-3264・3回目）
+  - 「With nearly 20 years of experience, our company holds a strong position in the machinery industry. In addition to our solid presence in the domestic market, we contribute to the national economy through our exports, primarily to European Union countries.」（https://www.maktekfuari.com/en/exhibitor-list/sarigol-konveyor-sist-mak-yedek-parca-nak-ith-ihr-san-ve-tic-ltd-sti-146805-3162・3回目）
+  - 「Through our chip recycling systems, we reduce environmental impact by converting hazardous waste into reusable materials. At the same time, we help businesses achieve significant cost savings by recovering and reusing coolant fluids used in machining processes.」（https://www.maktekfuari.com/en/exhibitor-list/sarigol-konveyor-sist-mak-yedek-parca-nak-ith-ihr-san-ve-tic-ltd-sti-146805-3162・3回目）
+  - 「With our commitment to quality production, strong focus on customer satisfaction, and dedication to R&D and design, we stand out in the industry. We further differentiate ourselves through our continuous after-sales technical support, while maintaining our commitment to ongoing investments with confidence in Turkey’s future.」（https://www.maktekfuari.com/en/exhibitor-list/sarigol-konveyor-sist-mak-yedek-parca-nak-ith-ihr-san-ve-tic-ltd-sti-146805-3162・3回目）
+  - 「The post show report is being prepared and will be available very soon.」（https://www.maktekfuari.com/en/exhibitor-list/sarigol-konveyor-sist-mak-yedek-parca-nak-ith-ihr-san-ve-tic-ltd-sti-146805-3162・3回目）
+- 製造業の実績：
+  - 「TURKISH AUTOMOTIVE DIRECTORY · 4,255 REGISTERED COMPANIES」（https://www.otomotivsanayi.com/en/firmalar/sarigol-konveyor-sist-mak-yedek-parca-nak-ith-ihr-san-ve-tic-ltd-sti・3回目）
+  - 「4th MAKTEK Konya – Machine Tools, Metal – Sheet Metal Processing Machines, Tool Holders – Cutting Tools, Quality Control – Measurement Systems, CAD/CAM, PLM Software and Manufacturing Technologies Fair」（https://maktekkonya.com/en/exhibitor-list/sarigol-konveyor-sist-mak-yedek-parca-nak-ith-ihr-san-ve-tic-ltd-sti-163113-3264・3回目）
+- 規模・親会社：
+  - 「No capabilities listed.」（https://www.otomotivsanayi.com/en/firmalar/sarigol-konveyor-sist-mak-yedek-parca-nak-ith-ihr-san-ve-tic-ltd-sti・3回目）
+- 検索結果の抜粋：
+  - 「SARIGÖL KONVEYÖR SİST. MAK. YEDEK PARÇA NAK. İTH. İHR. SAN ...Sarigol Konveyor Sistemleri Makina Yedek Parca Nakliyat Ith ...SARIGÖL KONVEYÖR SİST. MAK. YEDEK PARÇA NAK. İTH. İHR. SAN ...SARIGÖL KONVEYÖR SİST. MAK. YEDEK PARÇA NAK. İTH. İHR. SAN ... — Türkiye otomotiv ana ve yan sanayi tedarikçilerini, kalıp ve parça üretici firmalarını, sektörel iş ve makina ilanlarını bir araya getiren bağımsız 」（https://www.otomotivsanayi.com/tr/firmalar/sarigol-konveyor-sist-mak-yedek-parca-nak-ith-ihr-san-ve-tic-ltd-sti・3回目）
+  - 「SARIGÖL KONVEYÖR SİST. MAK. YEDEK PARÇA NAK. İTH. İHR. SAN ... — Home Companies Bursa SARIGÖL KONVEYÖR SİST. MAK. YEDEK PARÇA NAK. İTH. İHR. SAN. VE TİC. LTD. ŞTİ.」（https://www.otomotivsanayi.com/en/companies/sarigol-konveyor-sist-mak-yedek-parca-nak-ith-ihr-san-ve-tic-ltd-sti・3回目）
+  - 「Maktek Konya — SARIGÖL KONVEYÖR SİST. MAK. YEDEK PARÇA NAK. İTH. İHR. SAN. VE TİC. LTD. ŞTİ.」（https://maktekkonya.com/en/exhibitor-list/sarigol-konveyor-sist-mak-yedek-parca-nak-ith-ihr-san-ve-tic-ltd-sti-163113-3264・3回目）
+  - 「Maktek Konya — SARIGÖL KONVEYÖR SİST. MAK. YEDEK PARÇA NAK. İTH. İHR. SAN. VE TİC. LTD. ŞTİ.」（https://maktekkonya.com/brand/sarigol-konveyor-sist-mak-yedek-parca-nak-ith-ihr-san-ve-tic-ltd-sti・3回目）
+  - 「SARIGÖL KONVEYÖR SİST. MAK. YEDEK PARÇA NAK. İTH. İHR. SAN ... — SARIGÖL KONVEYÖR SİST. MAK. YEDEK PARÇA NAK. İTH. İHR. SAN. VE TİC. LTD. ŞTİ. Türki̇ye」（https://maktekkonya.com/en/exhibitor-list/sarigol-konveyor-sist-mak-yedek-parca-nak-ith-ihr-san-ve-tic-ltd-sti-163113-3264・3回目）
+  - 「SARIGÖL KONVEYÖR SİST. MAK. YEDEK PARÇA NAK. İTH. İHR. SAN ...MAKTEK Eurasia 2026Maktek KonyaSARIGÖL KONVEYÖR - SARIGÖL KONVEYÖR SİSTEMLERİ MAKİNA YEDEK ...Partner ProgramReseller PortalReseller Program - MyCompanyWorks — Ana Sayfa Firmalar Konveyörler - İletim ve Aktarma Sistemleri SARIGÖL KONVEYÖR SİST. MAK. YEDEK PARÇA NAK. İTH. İHR. SAN. VE TİC. LTD. ŞTİ. MAKTEK Eurasia 2026 9th International 」（https://www.otomotivsanayi.com/tr/firmalar/sarigol-konveyor-sist-mak-yedek-parca-nak-ith-ihr-san-ve-tic-ltd-sti・3回目）
+- 創業年度：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部16頁・検索20回）
+- 株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部16頁・検索20回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部16頁・検索20回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部16頁・検索20回）
+- 所在地：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部16頁・検索20回）
+- 料金：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部16頁・検索20回）
+- 連絡先：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部16頁・検索20回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部16頁・検索20回）
+- 日本の担い手：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部16頁・検索20回）
+
+## SBO Precision Technology
+- 公式URL：https://www.sbot.co.at（given）
+- 採用・広告の製品：
+  - 「Home – SBPT | Schoeller-Bleckmann Precision Technology」（https://sbot.co.at/・1回目）
+  - 「Prototyping / Rapid Prototyping」（https://sbot.co.at/・1回目）
+  - 「ERSTER VELO3D SAPPHIRE XC DRUCKER IN EUROPA」（https://sbot.co.at/・1回目）
+  - 「als auch zerstörungsfreie Prüfverfahren」（https://sbot.co.at/・1回目）
+  - 「stellen Hochpräzisionsteile」（https://sbot.co.at/・1回目）
+  - 「Profitieren Sie von unserer jahrzehntelangen」（https://sbot.co.at/・1回目）
+  - 「Erfahrung in der Verarbeitung von Präzisionsteilen.」（https://sbot.co.at/・1回目）
+  - 「Schoeller-Bleckmann Precision Technology」（https://sbot.co.at/・1回目）
+  - 「Wir sind spezialisiert auf die Herstellung für unternehmenskritische Komponenten in anspruchsvollen Geschäftsfeldern, wie beispielsweise der Öl- und Gasindustrie. Ständig entwickeln wir unsere Präzisions-Technologien weiter, um den höchsten Kundenansprüchen gerecht zu werden.」（https://sbot.co.at/・1回目）
+  - 「Alle notwendigen Produktionsschritte werden an unserem Standort Ternitz auf mehr als 100 CNC Maschinen durchgeführt.」（https://sbot.co.at/・1回目）
+  - 「Auf Basis unserer hohen technischen Kompetenz bieten wir Prototyping bis Erstfertigung mit allen Technologien unseres one-stop-shops in 8 – 10 Wochen, sowie Rapid Prototyping.」（https://sbot.co.at/・1回目）
+  - 「Schoeller-Bleckmann Precision Technology ist Weltmarktführer in der Herstellung von amagnetischen, hochfesten und korrosionsbeständigen Stählen für die Ölfeld Industrie.」（https://sbot.co.at/・1回目）
+- 連絡先：
+  - 「info@sbsaleshouston.com」（https://sbot.co.at/・1回目）
+- 検索結果の抜粋：
+  - 「#sbo #advancedmanufacturing #precisiontechnology #innovation ... — At SBO Precision Technology, we understand that every operation comes with unique challenges. That’s why we work closely with our customers to deliver solutions that are tailored to their ...」（https://www.linkedin.com/posts/sbo-ag_sbo-advancedmanufacturing-precisiontechnology-activity-7460252529952636928-KEAe・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）
+- 製造業の実績：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）
+
+## SEOIL ELECTRONICS
+- 公式URL：http://www.seoil.co.kr/（search:ddgs:google:株式会社SEOIL ELECTRONICS）
+- 連絡先：kjlee@seoil.co.kr（http://www.seoil.co.kr/・1回目）
+- 採用・広告の製品：
+  - 「Seoil Electronics Co., Ltd. Company Profile - South Korea | Financials & Key Executives | EMIS」（https://www.emis.com/php/company-profile/KR/Seoil_Electronics_Co_Ltd_en_14626234.html・3回目）
+  - 「Seoil Electronics Co., Ltd. is an enterprise in South Korea, with the main office in Namyangju. The company operates in the Switchgear and Switchboard Apparatus Manufacturing industry. The company was established on 2000. There are currently 18 (2024) people employed by Seoil Electronics Co., Ltd..」（https://www.emis.com/php/company-profile/KR/Seoil_Electronics_Co_Ltd_en_14626234.html・3回目）
+  - 「EMIS company profiles are part of a larger information service which combines company, industry and country data and analysis for over 145 emerging markets.」（https://www.emis.com/php/company-profile/KR/Seoil_Electronics_Co_Ltd_en_14626234.html・3回目）
+  - 「Module Case by SEOIL ELECTRONICS - Komachine Supplier Profile and Product List」（https://www.komachine.com/en/companies/seoil-electronics/products/40360・3回目）
+  - 「Problem with product info?」（https://www.komachine.com/en/companies/seoil-electronics/products/40360・3回目）
+  - 「We have been developing and manufacturing electronic components professionally since our business in 1977, Based on unique technology, according to customer's individual requirements Based on our unique technology, we have been striving to provide the best products to the individual needs of our customers.」（https://www.komachine.com/en/companies/seoil-electronics/products/40360・3回目）
+  - 「We promise to provide the best service to you based on our differentiated operational know-how, high quality and professionalism. Thank you for using our products, Seoil Electronics will be provide」（https://www.komachine.com/en/companies/seoil-electronics/products/40360・3回目）
+  - 「Seoil Electronics Co.,Ltd. Company Profile - South Korea | Contacts & Key Executives | EMIS」（https://www.emis.com/php/company-profile/KR/Seoil_Electronics_CoLtd_en_23315434.html・3回目）
+  - 「Computer and Electronic Product Manufacturing」（https://www.emis.com/php/company-profile/KR/Seoil_Electronics_CoLtd_en_23315434.html・3回目）
+  - 「EMIS company profiles are part of a larger information service which combines company, industry and country data and analysis for over 145 emerging markets.」（https://www.emis.com/php/company-profile/KR/Seoil_Electronics_CoLtd_en_23315434.html・3回目）
+- 製造業の実績：
+  - 「Electrical Equipment, Appliance, and Component Manufacturing」（https://www.emis.com/php/company-profile/KR/Seoil_Electronics_Co_Ltd_en_14626234.html・3回目）
+  - 「Switchgear and Switchboard Apparatus Manufacturing」（https://www.emis.com/php/company-profile/KR/Seoil_Electronics_Co_Ltd_en_14626234.html・3回目）
+  - 「Seoil Electronics Co., Ltd. is an enterprise in South Korea, with the main office in Namyangju. The company operates in the Switchgear and Switchboard Apparatus Manufacturing industry. The company was established on 2000. There are currently 18 (2024) people employed by Seoil Electronics Co., Ltd..」（https://www.emis.com/php/company-profile/KR/Seoil_Electronics_Co_Ltd_en_14626234.html・3回目）
+  - 「Dae-Gyoung Industrial Electric Company」（https://www.emis.com/php/company-profile/KR/Seoil_Electronics_Co_Ltd_en_14626234.html・3回目）
+  - 「Manufacturer information」（https://www.komachine.com/en/companies/seoil-electronics/products/40360・3回目）
+  - 「Connection component manufacturer, One touch DIN rail terminal, PCB terminal, Screw type terminal, Module device and more」（https://www.komachine.com/en/companies/seoil-electronics/products/40360・3回目）
+  - 「We have been developing and manufacturing electronic components professionally since our business in 1977, Based on unique technology, according to customer's individual requirements Based on our unique technology, we have been striving to provide the best products to the individual needs of our customers.」（https://www.komachine.com/en/companies/seoil-electronics/products/40360・3回目）
+  - 「Computer and Electronic Product Manufacturing」（https://www.emis.com/php/company-profile/KR/Seoil_Electronics_CoLtd_en_23315434.html・3回目）
+  - 「Other Electronic Component Manufacturing」（https://www.emis.com/php/company-profile/KR/Seoil_Electronics_CoLtd_en_23315434.html・3回目）
+  - 「Seoil Electronics Co.,Ltd. is based in South Korea. The head office is in Seoul. It operates in the Other Electronic Component Manufacturing sector. The company was established on 2001.」（https://www.emis.com/php/company-profile/KR/Seoil_Electronics_CoLtd_en_23315434.html・3回目）
+- 規模・親会社：
+  - 「EMIS company profiles are part of a larger information service which combines company, industry and country data and analysis for over 145 emerging markets.」（https://www.emis.com/php/company-profile/KR/Seoil_Electronics_Co_Ltd_en_14626234.html・3回目）
+  - 「Total Operating Revenue」（https://www.emis.com/php/company-profile/KR/Seoil_Electronics_Co_Ltd_en_14626234.html・3回目）
+  - 「EMIS company profiles are part of a larger information service which combines company, industry and country data and analysis for over 145 emerging markets.」（https://www.emis.com/php/company-profile/KR/Seoil_Electronics_CoLtd_en_23315434.html・3回目）
+- 検索結果の抜粋：
+  - 「Seoil Electronics — Application Seoil Electronics focuses on improving customer value. We will do our best to supply the best products to meet the ever-changing consumer demands.」（http://www.seoil.co.kr/en/・3回目）
+  - 「Seoil Electronics — Seoil Electronics, Acquired ISO 9001 through a strict screening process by TUV Rheinland of Germany, and maintain a quality management system according to ISO regulations.」（http://www.seoil.co.kr/en/sub/intro/intro.asp・3回目）
+  - 「Seoil Electronics — 국내산 단자대 및 전기접속 기구물 전문기업 서일전자 입니다. 신속한 납기와 합리적인 가격으로 고객을 만족시키기 위해 끊임없이 노력하겠습니다.」（http://www.seoil.co.kr/en/sub/cs/agency.asp・3回目）
+  - 「Seoil Electronics — Seoil Electronics goes along with you We have been professionally developing and manufacturing electronic components since 1977. Based on our inovative technology, we have constantly been improving our products to guarantee each need of our consumers.」（http://www.seoil.co.kr/en/sub/intro/intro.asp・3回目）
+  - 「Seoil Electronics Co., Ltd. (South Korea) - EMIS — Oct 19, 2026 · Seoil Electronics Co., Ltd. is an enterprise in South Korea, with the main office in Namyangju. The company operates in the Switchgear and Switchboard Apparatus Manufacturing industry. The company was established on October 27, 2026. There are currently 18 (2024) people employed by Seoil Electronics Co., Ltd..」（https://www.emis.com/php/company-profile/KR/Seoil_Electronics_Co_Ltd_en_14626234.html・3回目）
+  - 「SEOIL ELECTRONICS Co., Ltd. — SEOIL ELECTRONICS Co., Ltd. - © 1996~2020 Korea SMEs and Startups Agency, All Rights Reserved」（https://seoil.gobizkorea.com/・3回目）
+  - 「Module Case by SEOIL ELECTRONICS - Komachine Supplier Profile ... — A Company with your future, Seoil Electronics. We have been developing and manufacturing electronic components professionally since our business in 1977, Based on unique technology, according to customer's individual requirements Based on our unique technology, we have been striving to provide the best products to the individual n」（https://www.komachine.com/en/companies/seoil-electronics/products/40360・3回目）
+  - 「SEOIL ELECTRONICS CO., LTD. Company Profile | Namyangju ...Seoil Electronics Co.,Ltd. (South Korea) - EMISSEOIL ELECTRONICS CO.,LTD. (2026) | Korean Company Credit ReportSeoil E&C 2026 Company Profile - representatives, employees ...Seoil - Overview, News & Similar companies | ZoomInfo.comSeoil Electronics — Find company research, competitor information, contact details & financial data for SEOIL 」（https://www.dnb.com/business-directory/company-profiles.seoil_electronics_co_ltd.ac08f4a7ee4a4ef68da2d8f4a5786407.html・3回目）
+  - 「Seoil Electronics Co.,Ltd. (South Korea) - EMIS — Jul 24, 2026 · Report with contact information, company activities and ownership details for Seoil Electronics Co.,Ltd. in South Korea. Report is available for immediate purchase & download from EMIS.」（https://www.emis.com/php/company-profile/KR/Seoil_Electronics_CoLtd_en_23315434.html・3回目）
+  - 「SEOIL ELECTRONICS CO.,LTD. (2026) | Korean Company Credit Report — Company Name : SEOIL ELECTRONICS CO.,LTD. , CEO : Sim,U Jin , Address : 58, Janggogae-ro 117beon-gil Seo-gu Incheon, Industry : Manufacture of Other Electronic Valves ...」（https://en.nicebizinfo.com/p01/A0101M002.nice?kiscode=G83171・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索14回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索14回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索14回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索14回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索14回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索14回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索14回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索14回）
+
+## SEON Technologies Kft.
+- 公式URL：特定できず（not_found）
+- 採用・広告の製品：
+  - 「SEON Technologies Kft. Company Profile - Hungary | Financials & Key Executives | EMIS」（https://www.emis.com/php/company-profile/HU/SEON_Technologies_Kft_en_13168035.html・3回目）
+  - 「EMIS company profiles are part of a larger information service which combines company, industry and country data and analysis for over 145 emerging markets.」（https://www.emis.com/php/company-profile/HU/SEON_Technologies_Kft_en_13168035.html・3回目）
+  - 「Net Profit/Loss for the Period」（https://www.emis.com/php/company-profile/HU/SEON_Technologies_Kft_en_13168035.html・3回目）
+  - 「Operating Profit Margin」（https://www.emis.com/php/company-profile/HU/SEON_Technologies_Kft_en_13168035.html・3回目）
+  - 「Eaton Enterprises (Hungary) Kft.」（https://www.emis.com/php/company-profile/HU/SEON_Technologies_Kft_en_13168035.html・3回目）
+  - 「Promise Enterprise Hungary Kft.」（https://www.emis.com/php/company-profile/HU/SEON_Technologies_Kft_en_13168035.html・3回目）
+  - 「Seon Technologies Kft. | International Fairs Directory | Software, Hardware, IT Information Technologies,Security Products, Security Equipment,Business Establishment, Acquisitions, Franchising,Business Management, Business to Business, CRM, Consulting,Advertising, Marketing, Sales Promotion, Market Research」（https://inter-fair.com/Announcement/Announcement?strPath=SEONTECHNOLOGIES・3回目）
+  - 「Every superhero has an origin story. For the fraud fighters at SEON, it all started when Tamas and Bence met at university in 2016, and bonded over their interest in cryptocurrencies. Their first project together, in fact, was a crypto exchange for the CEE region. Unfortunately, they were soon the target of constant attacks from fraudsters.」（https://inter-fair.com/Announcement/Announcement?strPath=SEONTECHNOLOGIES・3回目）
+  - 「After trying several fraud prevention solutions, they came to the conclusion that they could build a better one themselves. And it worked: their tool was so efficient that other crypto platforms and high-risk merchants soon asked if they could use it too. The rest, as they say, is history...」（https://inter-fair.com/Announcement/Announcement?strPath=SEONTECHNOLOGIES・3回目）
+- 規模・親会社：
+  - 「EMIS company profiles are part of a larger information service which combines company, industry and country data and analysis for over 145 emerging markets.」（https://www.emis.com/php/company-profile/HU/SEON_Technologies_Kft_en_13168035.html・3回目）
+  - 「Total Operating Revenue」（https://www.emis.com/php/company-profile/HU/SEON_Technologies_Kft_en_13168035.html・3回目）
+  - 「Seon Technologies Kft. | International Fairs Directory | Software, Hardware, IT Information Technologies,Security Products, Security Equipment,Business Establishment, Acquisitions, Franchising,Business Management, Business to Business, CRM, Consulting,Advertising, Marketing, Sales Promotion, Market Research」（https://inter-fair.com/Announcement/Announcement?strPath=SEONTECHNOLOGIES・3回目）
+- 検索結果の抜粋：
+  - 「SEON Technologies Kft. Company Profile - Hungary - EMIS — Jun 5, 2026 · Report with financial data, key executives contacts, ownership details & and more for SEON Technologies Kft. in Hungary. Report is available for immediate purchase & download from EMIS.」（https://www.emis.com/php/company-profile/HU/SEON_Technologies_Kft_en_13168035.html・3回目）
+  - 「Seon Technologies Kft. | International Fairs Directory ... — Seon Technologies Kft. | At SEON, we strive to help online businesses reduce the cost, time, and challenges faced due to fraud. Whether you are a global financial leader or a small eCommerce startup, our solution simplifies fraud man | International Fairs Directory」（https://inter-fair.com/Announcement/Announcement?strPath=SEONTECHNOLOGIES・3回目）
+  - 「SEON Technologies Kft. — Jan 25, 2017 · SEON Technologies Korlátolt Felelősségű Társaság, Adószám 25854071-2-41, Category Számítógépes programozás, Income 15 094 433 000,00, Expenses 15 702 565 000,00」（https://www.companywall.hu/vállalat/seon-technologies-kft/MMLWGe7Y・3回目）
+  - 「SEON Technologies Kft. Company Profile - Hungary - EMIS — Jun 5, 2026 · SEON Technologies Kft. is an enterprise located in Hungary, with the main office in Budapest. The enterprise currently operates in the Software Publishers sector. It was established on January 10, 2017. SEON Technologies Kft. currently employs 177 (2025) people.」（https://www.emis.com/php/company-profile/HU/SEON_Technologies_Kft_en_13168035.html・3回目）
+  - 「SEON Technologies Kft. – company information — Key company data for SEON Technologies Kft. (01-09-292732): tax number, registered address, founding year, revenue and headcount range – free, no…」（https://www.creditonline.hu/en/seon-technologies-kft/0109292732b・3回目）
+  - 「SEON - 2026 Company Profile, Team, Funding, Competitors ...SEON Revenue 2025: $34.8M Est., $29.3M RaisedSEON Technologies Kft. Company Profile - Hungary | Financials ...SEON (Network Management Software) 2026 Company Profile ...SEON 2026 Company Profile: Valuation, Funding & Investors ...SEON - Overview, News & Similar companies | ZoomInfo.comSEON - Products, Competitors, Financials, Employees ...」（https://tracxn.com/d/companies/seon/__XX9gJBOrnKi_U527Or0hGsnVj2ivM2SwtgE34ahHgMo・3回目）
+  - 「SEON Technologies Kft. Company Profile - Hungary | Financials ... — Jun 5, 2026 · SEON Technologies Kft. is an enterprise located in Hungary, with the main office in Budapest. The enterprise currently operates in the Software Publishers sector. It was established on January 10, 2017. SEON Technologies Kft. currently employs 177 (2025) people. From the latest financial highlights, SEON Technologies」（https://www.emis.com/php/company-profile/HU/SEON_Technologies_Kft_en_13168035.html・3回目）
+- 創業年度：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 所在地：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 料金：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 連絡先：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 製造業の実績：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 日本の担い手：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+
+## SHD Composites
+- 公式URL：https://shdcomposites.com/（given）
+- 採用・広告の製品：
+  - 「suitable for autoclave, press and oven curing. Using our product selector guide you can browse our products by process, type and resin system to find the right product for your needs.」（https://shdcomposites.com/・1回目）
+  - 「“Striving to meet the demands of the present without compromising the ability of future generations to meet theirs”」（https://shdcomposites.com/・1回目）
+  - 「Continued development in the use of bio-based materials is enabling our customers to reduce the environmental impact of their product offering. We believe that sustainability shouldn’t be a compromise to performance. Instead, our materials enable innovative design solutions to support the composites supply chain on its route to Net Zero.」（https://shdcomposites.com/・1回目）
+  - 「SHD Composites is the advanced prepreg partner behind winning race teams」（https://shdcomposites.com/・1回目）
+  - 「World-class performance with unmatched premium aesthetics for prestigious supercar and hypercar brands」（https://shdcomposites.com/・1回目）
+  - 「SHD Composites is actively working on many defence programs with customers around the world」（https://shdcomposites.com/・1回目）
+  - 「Our enhanced sustainability product range has applications in all our key sectors including Aerospace, Automotive, Motorsport, Marine and Sport & Leisure.」（https://shdcomposites.com/・1回目）
+  - 「Our products can be applied to a variety of markets, and this range of applications will always remain important for SHD.」（https://shdcomposites.com/・1回目）
+  - 「SHD Composites is the advanced prepreg partner behind the next generation of marine performance」（https://shdcomposites.com/・1回目）
+  - 「Manufacturers and developers of advanced composite prepreg materials」（https://shdcomposites.com/・1回目）
+  - 「ADVANCED PREPREG TECHNOLOGY」（https://shdcomposites.com/・1回目）
+  - 「With a dedicated technical centre to facilitate the development of new and innovative products, our team work closely with our customers to ensure you have the optimum materials for your requirements.」（https://shdcomposites.com/・1回目）
+- 製造業の実績：
+  - 「Our enhanced sustainability product range has applications in all our key sectors including Aerospace, Automotive, Motorsport, Marine and Sport & Leisure.」（https://shdcomposites.com/・1回目）
+  - 「Manufacturers and developers of advanced composite prepreg materials」（https://shdcomposites.com/・1回目）
+  - 「Dissident’s Hand-Built Automotive Component Parts Elevated by SHD’s Advanced Materials」（https://shdcomposites.com/・1回目）
+  - 「can be supplied on a range of reinforcements depending on what your application requires. Working to an average of 2-weeks lead time, we supply high quality, high performance materials all over the world from our manufacturing sites in the UK, Europe and the USA.」（https://shdcomposites.com/about-us・1回目）
+  - 「SHD Composites is strategically positioned to be able to service the global composites market with our range of high-performance prepreg materials from multiple manufacturing bases.」（https://shdcomposites.com/about-us・1回目）
+  - 「Cambium is SHD's innovation accelerator. AI-driven molecular design advances SHD's materials, while the Cambium platform enables faster, scaled production and delivery. SHD brings two decades of formulation expertise and qualified production, giving Cambium's innovation engine a proven manufacturing and application base to build from.」（https://shdcomposites.com/about-us・1回目）
+  - 「Our original site in Sleaford, Lincolnshire, is the Head Office and manufacturing base of SHD Composites. It is also the global centre for」（https://shdcomposites.com/about-us・1回目）
+  - 「and Technical Support. From our Sleaford manufacturing site, we have the capability of servicing all of our UK and Rest of World customers with our fabric and uni-directional prepreg machines.」（https://shdcomposites.com/about-us・1回目）
+  - 「To support strong growth in the European markets, SHD Composite Materials Europe d.o.o. opened its factory in Krško in early 2018 and expanded into a new 1500m」（https://shdcomposites.com/about-us・1回目）
+  - 「SHD Composite Materials Inc was incorporated in 2018 to service the America's composite industry. Our North American HQ is located in Mooresville, North Carolina, with a second manufacturing facility in Tulsa, Oklahoma. From our two factories we can ensure continuity and consistency of supply to our customers with our fabric and uni-directional machines.」（https://shdcomposites.com/about-us・1回目）
+  - 「Founded in 2019, Cambium is building the advanced materials base for those building the future. The next materials inflection point will be defined by whoever moves fastest, and the biggest obstacle to that speed is a legacy industrial base. Cambium's operating system, from discovery through qualified production, exists to solve that problem: faster to launch, faster to scale. Visit」（https://shdcomposites.com/about-us・1回目）
+  - 「Certified to EN9100:2018 Aerospace Standard, quality is an integral part of our business principles. We are committed to」（https://shdcomposites.com/about-us・1回目）
+- 再販・ホワイトラベル：
+  - 「Datum’s three decades of quality, trusted work designing and providing metal and composite tooling will support Corvero’s aim of end-to-end integration for global aerospace and defense OEMs and Tier 1s.」（https://www.compositesworld.com/news/cambium-acquires-global-composites-manufacturer-shd-group・3回目）
+  - 「Datum’s three decades of quality, trusted work designing and providing metal and composite tooling will support Corvero’s aim of end-to-end integration for global aerospace and defense OEMs and Tier 1s.」（https://www.compositesworld.com/・3回目）
+- 規模・親会社：
+  - 「The service that you receive is a fundamental part of your customer experience. That is why we offer unrivalled flexibility and technical support from our team of」（https://shdcomposites.com/・1回目）
+  - 「Certified to EN9100:2018 Aerospace Standard, quality is an integral part of our business principles. We are committed to」（https://shdcomposites.com/about-us・1回目）
+  - 「SHD Composites acquired by Cambium」（https://shdcomposites.com/about-us・1回目）
+  - 「SHD Composites has been acquired by」（https://shdcomposites.com/about-us・1回目）
+  - 「We are proud of our reputation as one of the best places to work and understand our success depends on happy, engaged employees.」（https://shdcomposites.com/careers・1回目）
+  - 「Corvero Welcomes Third Strategic Acquisition, Tooling Specialist Datum Design」（https://www.compositesworld.com/news/cambium-acquires-global-composites-manufacturer-shd-group・3回目）
+  - 「Arris Composites demonstrates advantages of natural fibers applied with Additive Molding」（https://www.compositesworld.com/news/cambium-acquires-global-composites-manufacturer-shd-group・3回目）
+  - 「Arris presents mechanical testing results of an Arris-designed natural fiber thermoplastic composite in comparison to similarly produced glass and carbon fiber-based materials.」（https://www.compositesworld.com/news/cambium-acquires-global-composites-manufacturer-shd-group・3回目）
+  - 「(El Segundo, Calif., U.S.), a company developing advanced materials like carbon/carbon (C/C) composites for high-performance sectors, has acquired composites company」（https://www.compositesworld.com/news/cambium-acquires-global-composites-manufacturer-shd-group・3回目）
+  - 「Specific key factors behind the acquisition include:」（https://www.compositesworld.com/news/cambium-acquires-global-composites-manufacturer-shd-group・3回目）
+  - 「EL SEGUNDO, Calif., Dec. 2, 2025 — Cambium, a pioneer in advanced materials for high-performance sectors, announced the acquisition of Sleaford, U.K.-based SHD Group, a global advanced composites manufacturer with production sites in the U.S., the U.K., and the EU, and a long-standing customer base across high-performance aerospace and industrial markets.」（https://cambiumglobal.com/newsroom/cambium-acquires-shd・3回目）
+  - 「The acquisition creates a global advanced-materials leader, combining AI-driven materials innovation with scalable, qualified manufacturing to serve aerospace, defense, energy, high-performance automotive, motorsport, marine, and other advanced industrial markets.」（https://cambiumglobal.com/newsroom/cambium-acquires-shd・3回目）
+- 連絡先：
+  - 「Enter your email and password below to sign in.」（https://www.compositesworld.com/news/cambium-acquires-global-composites-manufacturer-shd-group・3回目）
+  - 「Please enter your email below to sign up or sign in」（https://www.compositesworld.com/news/cambium-acquires-global-composites-manufacturer-shd-group・3回目）
+  - 「Enter your email and password below to sign in.」（https://www.compositesworld.com/・3回目）
+  - 「Please enter your email below to sign up or sign in」（https://www.compositesworld.com/・3回目）
+  - 「Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.」（https://pitchbook.com/profiles/company/515652-31・3回目）
+- 検索結果の抜粋：
+  - 「Cambium, SHD Composites Reimagine a New Future for Composites — Sep 9, 2026 · Cambium, SHD Composites Reimagine a New Future for Composites CW’s interview with Cambium chief informatics officer Tim Gardner discusses the company’s background and bio-enabled approach, inverse design and SHD Composites’ role as it seeks broader markets, growth and changing what’s possible with composites.」（https://www.compositesworld.com/articles/cambium-shd-composites-reimagining-a-new-future-for-composites・3回目）
+  - 「SHD Composites opens new wide format lines - JEC — Feb 18, 2026 · SHD Composites, which was acquired by Cambium in December 2025, is commissioning new wide format UD prepreg and advanced film coating lines. These investments, based on SHD’s internal manufacturing machine designs, will enable the company to scale both the width of the high-performance composite materials it builds and the deliverie」（https://www.jeccomposites.com/news/by-jec/shd-composites-opens-new-wide-format-lines/?news_type=announcement,process-manufacturing&end_use_application=aerospace,automotive-road-transportation,defence-security-ballistics,marine-transportation-shipbuilding,sports-leisure-recreation&tax_product=gelcoats-coatings,prepreg・3回目）
+  - 「Contact SHD Composites for technical advice and guidance — We specialise in solving challenging problems through innovations in advanced composite materials. Get in touch to discuss your project…」（https://shdcomposites.com/contact/・3回目）
+  - 「SHD COMPOSITES — SHD Composites manufactures advanced composite tooling and component prepreg materials for a wide range of applications with sites in the UK, Europe and the USA. Suitable for press, oven or autoclave curing, our prepreg resin systems can be supplied on a range of reinforcements depending on what your application requires. Working to an average of 2-weeks lead time, we supply high 」（https://shdcomposites.com/about-us・3回目）
+  - 「The latest news, innovations & case studies | SHD Composites — Keep up to date with the latest product innovations, R&D and industry case studies from SHD Composites, specialists in advanced composite materials」（https://shdcomposites.com/us/insights・3回目）
+  - 「B2B Case Studies Featuring SHD Composites as the Customer — Explore case studies featuring SHD Composites as the customer — learn how vendors and partners helped SHD Composites solve real business challenges.」（https://www.casestudies.com/customer/shd-composites・3回目）
+  - 「SHD Composites - Customer Case Study — SHD Composites partnered with Root Studio (Graphic Design) to solve key challenges. "SHD Composites - Customer Case Study" is their real-world success story.」（https://www.casestudies.com/company/root-studio/case-study/shd-composites-customer-case-study・3回目）
+  - 「Composite Materials Suppliers USA | SHD Composites ... — Sustainability & Bio-Based Composite Materials Sustainable manufacturing is becoming a critical priority across US industries. SHD’s bio-based composite materials offer a practical, lower-impact alternative to traditional systems while maintaining the performance and processing behavior manufacturers expect.」（https://shdcomposites.com/shd-usa-suppliers-of-advanced-composite-materials・3回目）
+  - 「Cambium, SHD Composites Reimagine a New Future for Composites — Sep 9, 2026 · With SHD Composites, Cambium has now established a global innovation and manufacturing supply chain, and in 2026, SHD Composites announced a slate of new developments: Wide-format UD prepreg, film coating lines, accelerating development cycles and supporting more ambitious composite designs.」（https://www.compositesworld.com/articles/cambium-shd-composites-reimagining-a-new-future-for-composites・3回目）
+  - 「SHD Composites 2026 Company Profile: Valuation, Investors ... — Information on acquisition, funding, investors, and executives for SHD Composites. Use the PitchBook Platform to explore the full profile.」（https://pitchbook.com/profiles/company/515652-31・3回目）
+  - 「SHD Composite Materials Ltd Information - RocketReachSHD Composites - 2025 Company Profile & Team - TracxnSHD Composite Materials Number of Employees 2026 | Employee ...SHD Composites - Crunchbase Company Profile & FundingSHD Composites - Products, Competitors, Financials, Employees ...SHD Composite Materials - Overview, News & Similar companies ... — SHD Composite Materials Ltd is a Manufacturing」（https://rocketreach.co/shd-composite-materials-ltd-profile_b5dc550ef42e4a42・3回目）
+  - 「SHD Composites - 2025 Company Profile & Team - Tracxn — Dec 4, 2025 · SHD Composites is an unfunded company based in Sleaford (United Kingdom), founded in 2010. It operates as a Provider of advanced composite solutions. SHD Composites has not raised any funding yet. The company has 52 active competitors, including 7 funded and 5 that have exited. Its top competitor s include companies like Kineco,」（https://tracxn.com/d/companies/shd-composites/__mNRD-Ht_EZ79p0puQ4p_UI6GRjTRIcliOHbxip6O8-k・3回目）
+- 創業年度：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部29頁・検索12回）
+- 株主：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部29頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部29頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部29頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部29頁・検索12回）
+- 料金：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部29頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部29頁・検索12回）
+
 ## SWELLEnterprise
 - 公式URL：https://swellsystem.com/（given）
 - 連絡先：（https://swellsystem.com/pricing/・1回目）
@@ -39261,6 +41538,77 @@ JPタワー14F（https://prtimes.jp/main/html/rd/p/000000010.000041324.html・3�
 - 料金：記載なし（3回確認済み：公式20頁／PDF・画像0件／外部28頁・検索12回）
 - 再販・ホワイトラベル：記載なし（3回確認済み：公式20頁／PDF・画像0件／外部28頁・検索12回）
 - 日本の担い手：記載なし（3回確認済み：公式20頁／PDF・画像0件／外部28頁・検索12回）
+
+## Senvol
+- 公式URL：https://senvol.com/（given）
+- 採用・広告の製品：
+  - 「Analyze data from any AM machine, any AM material, or any AM process」（https://senvol.com/・1回目）
+  - 「Senvol provides data to help companies implement additive manufacturing. Senvol’s various products and services allow companies to Access AM Data, Generate AM Data, and Analyze AM Data.」（https://senvol.com/・1回目）
+  - 「Harrisburg, PA – August 28, 2026 – Senvol provided live demos of Senvol ML, its machine learning software for additive manufacturing, at the J-DAMMIT event earlier this...」（https://senvol.com/・1回目）
+  - 「Boston, MA – April 6, 2026 – Senvol will exhibit at the upcoming 2026 RAPID + TCT Conference next week. At the event Senvol will showcase Senvol ML, its machine...」（https://senvol.com/・1回目）
+  - 「Senvol President Receives Prestigious DINO Award」（https://senvol.com/・1回目）
+  - 「Reno, NV – March 30, 2026 – Senvol President Annie Wang recently received the Distinguished INnovator Operators Award (DINO) by the Additive Manufacturing Users Group...」（https://senvol.com/・1回目）
+  - 「Senvol Leads U.S. Navy Program on AM Sensor Fusion」（https://senvol.com/・1回目）
+  - 「Philadelphia, PA – January 12, 2026 – Senvol has received funding from the U.S. Navy to lead a project focused on demonstrating that based on in-situ monitoring data,...」（https://senvol.com/・1回目）
+  - 「Senvol’s products and」（https://senvol.com/about-us/・1回目）
+  - 「have been used by a variety of Fortune 500 companies and government agencies in industries such as aerospace, oil & gas, consumer products, medical, and automotive.」（https://senvol.com/about-us/・1回目）
+  - 「Senvol’s various products and services allow companies to Access AM Data, Generate AM Data, and Analyze AM Data.」（https://senvol.com/about-us/・1回目）
+  - 「Comprehensive database of industrial AM machines and materials.」（https://senvol.com/about-us/・1回目）
+- 製造業の実績：
+  - 「Senvol | Leader in Additive Manufacturing Data」（https://senvol.com/・1回目）
+  - 「Machine learning software specifically for additive manufacturing」（https://senvol.com/・1回目）
+  - 「Senvol provides data to help companies implement additive manufacturing. Senvol’s various products and services allow companies to Access AM Data, Generate AM Data, and Analyze AM Data.」（https://senvol.com/・1回目）
+  - 「Harrisburg, PA – August 28, 2026 – Senvol provided live demos of Senvol ML, its machine learning software for additive manufacturing, at the J-DAMMIT event earlier this...」（https://senvol.com/・1回目）
+  - 「Reno, NV – March 30, 2026 – Senvol President Annie Wang recently received the Distinguished INnovator Operators Award (DINO) by the Additive Manufacturing Users Group...」（https://senvol.com/・1回目）
+  - 「Reno, NV – March 1, 2026 – Senvol will exhibit at the upcoming 2026 Annual Additive Manufacturing Users Group (AMUG) Conference in two weeks. At the event Senvol will...」（https://senvol.com/・1回目）
+  - 「Senvol to Exhibit at Military Additive Manufacturing Summit」（https://senvol.com/・1回目）
+  - 「Tampa, FL – January 26, 2026 – Senvol will exhibit at the upcoming 2026 Military Additive Manufacturing (MILAM) Summit next week. At the event, Senvol will highlight...」（https://senvol.com/・1回目）
+  - 「Data to help companies implement additive manufacturing」（https://senvol.com/about-us/・1回目）
+  - 「Senvol is the global leader in additive manufacturing data」（https://senvol.com/about-us/・1回目）
+  - 「have been used by a variety of Fortune 500 companies and government agencies in industries such as aerospace, oil & gas, consumer products, medical, and automotive.」（https://senvol.com/about-us/・1回目）
+  - 「Comprehensive database of industrial AM machines and materials.」（https://senvol.com/about-us/・1回目）
+- 再販・ホワイトラベル：
+  - 「have been used by a variety of Fortune 500 companies and government agencies in industries such as aerospace, oil & gas, consumer products, medical, and automotive.」（https://senvol.com/about-us/・1回目）
+  - 「, large companies, government agencies were all interested to learn more and crunch the numbers and the only place to get them was from Senvol. Brilliant business idea and excellent execution gave us a valuable resource for 3D printing. We spoke to Senvol President Annie Wang to find out more about the firm.」（https://3dprint.com/249162/interview-with-senvols-annie-wang-on-data-for-3d-printing/・3回目）
+  - 「Senvol’s products and services have been used by a variety of Fortune 500 companies and government agencies in industries such as aerospace, oil & gas, consumer products, and automotive.」（https://3dprint.com/249162/interview-with-senvols-annie-wang-on-data-for-3d-printing/・3回目）
+- 規模・親会社：
+  - 「Harrisburg, PA – August 28, 2026 – Senvol provided live demos of Senvol ML, its machine learning software for additive manufacturing, at the J-DAMMIT event earlier this...」（https://senvol.com/・1回目）
+  - 「have been used by a variety of Fortune 500 companies and government agencies in industries such as aerospace, oil & gas, consumer products, medical, and automotive.」（https://senvol.com/about-us/・1回目）
+  - 「The Military Additive Manufacturing Summit & Technology Showcase remains the premier event in North America for military, aerospace, and defense 3D printing. It features high-level discussions on Department of Defense acquisition priorities, international initiatives in 3D printing, and presentations on cutting-edge technological advancements in AM.」（https://senvol.com/senvol-to-exhibit-at-military-additive-manufacturing-summit-2/・1回目）
+  - 「The work was done as part of a contract that Senvol had been awarded by America Makes, the national additive manufacturing institute, and funded by the U.S. Air Force, to apply its machine learning software,」（https://www.americamakes.us/37923-2/・3回目）
+  - 「The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.」（https://www.americamakes.us/37923-2/・3回目）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.americamakes.us/37923-2/・3回目）
+  - 「Senvol’s products and services have been used by a variety of Fortune 500 companies and government agencies in industries such as aerospace, oil & gas, consumer products, and automotive.」（https://3dprint.com/249162/interview-with-senvols-annie-wang-on-data-for-3d-printing/・3回目）
+  - 「3D Printing Financials: Tekna’s Revenue Up 61 Percent YOY」（https://3dprint.com/249162/interview-with-senvols-annie-wang-on-data-for-3d-printing/・3回目）
+  - 「3D Printing Financials: Nikon’s Digital Manufacturing Revenue Grows 77% as Sam O’Leary Moves to Supervisory Board」（https://3dprint.com/249162/interview-with-senvols-annie-wang-on-data-for-3d-printing/・3回目）
+  - 「Nikon (TYO: 7731) just announced its earnings for Q2 (fiscal year ending March ’27), and we learned that the digital manufacturing business grew revenue by 77 percent to ¥17.4 billion...」（https://3dprint.com/249162/interview-with-senvols-annie-wang-on-data-for-3d-printing/・3回目）
+  - 「Senvol - Products, Competitors, Financials, Employees, Headquarters Locations」（https://www.cbinsights.com/company/senvol・3回目）
+- 連絡先：
+  - 「The software under development will be made commercially available to any company looking to qualify AM parts. If your company is interested in potentially gaining beta access to the software, you can contact Senvol at info@senvol.com for more details.」（https://senvol.com/senvol-developing-machine-learning-software-u-s-navy-additive-manufacturing/・1回目）
+  - 「To book Senvol for a speaking engagement, contact us.」（https://senvol.com/senvol-speaks-at-rapid-tct-on-case-study-with-bmw/・1回目）
+  - 「{{ errors.first('email') }}」（https://en.industryarena.com/senvol・3回目）
+  - 「Subscribe to Our Email Newsletter」（https://3dprint.com/249162/interview-with-senvols-annie-wang-on-data-for-3d-printing/・3回目）
+  - 「info@3dprint.com」（https://3dprint.com/249162/interview-with-senvols-annie-wang-on-data-for-3d-printing/・3回目）
+- 検索結果の抜粋：
+  - 「Senvol | Leader in Additive Manufacturing Data — Senvol’s Products Senvol provides data to help companies implement additive manufacturing. Senvol’s various products and services allow companies to Access AM Data, Generate AM Data, and Analyze AM Data.」（https://senvol.com/・3回目）
+  - 「About Us | Senvol — Senvol is the global leader in additive manufacturing data Senvol’s products and services have been used by a variety of Fortune 500 companies and government agencies in industries such as aerospace, oil & gas, consumer products, medical, and automotive. Senvol’s various products and services allow companies to Access AM Data, Generate AM Data, and Analyze AM Data.」（https://senvol.com/about-us/・3回目）
+  - 「Senvol が Siemens Energy AM データを商用化 | 株式会社ワイズワーズ... — 各 Senvol Index データ セットは個別に販売されており、開発に数か月かかる AM データ セットへの即時アクセスを提供します。 同社によれば、すべての Senvol Indexes と同様に、Siemens Energy データベースも開発コストの数分の一の価格で提供されています。」（https://ja.pijusc.com/blog/senvol-commercialises-siemens-energy-am-data・3回目）
+  - 「Senvol、積層造形一貫性で米陸軍の助成金を獲得 — May 19, 2023 · レッドイット 電子メール 写真：センヴォル Senvolは、アメリカ軍からの助成金を受け取り、異なる場所のさまざまな機械で一貫した性能を発揮できることを証明するために、アディティブマニュファクチャリングされた部品の性能を示すことを発表しました。」（https://3druck.com/ja/産業/senvolは米軍の補助金を受けてアディティブ製造の一-2/・3回目）
+  - 「Senvol、機械学習を用いた材料承認方法を発表 — Jul 11, 2023 · Senvolのプログラムは、機械学習を活用した付加製造のための承認開発の新しいアプローチを実証することに非常に成功しました。 AMMPプログラムの技術的アプローチと試験結果を検討したヘクター・サンドバルは、次のように付け加えている。」（https://3druck.com/ja/産業/senvol、機械学習を用いた材料承認方法を発表-44119686/・3回目）
+  - 「Senvol Database™ Material Search — We’re always looking for ways to make the database even better and would love to hear from you! Email us at database@senvol.com with any comments, suggestions, or ideas. Click here to sign up for our newsletter to receive updates on the Senvol Database™.」（https://senvol.com/senvol-database-material-search/・3回目）
+  - 「Senvol - LinkedIn — Senvol’s executives have been published in various additive manufacturing industry journals and have been featured speakers at numerous industry conferences. Senvol is a Gold Member of America ...」（https://www.linkedin.com/company/senvol・3回目）
+  - 「Home - SENVOL — Senvol ML includes a data-driven machine learning algorithm that analyzes the relationships between AM process parameters and material performance. Senvol Services: The consulting division of Senvol. Senvol Services provides both business and technical expertise in AM, with a particular focus on projects that are data-related.」（https://en.industryarena.com/senvol・3回目）
+  - 「Locations - SENVOL — SENVOL Locations - Purpose of processing We process your personal data concerning the use of the contact form and the communication with the company of the newsroom as well as the transmission of your data to this company in accordance to Art. 6 (1a) GDPR. This constitutes a legitimate interest for us in accordance to Art. 6 (1f) GDPR.」（https://en.industryarena.com/senvol/locations・3回目）
+  - 「Additive Manufacturing - Senvol — Additive manufacturing (AM) – also known as 3D printing – has made tremendous technological progress. Final production parts, such as jet engine fuel nozzles, custom hearing aids, and impellers, can now be printed in materials ranging from polymers to metals.」（https://senvol.com/additive-manufacturing/・3回目）
+  - 「Senvol ML enables new approach to material allowables ... — Senvol recently demonstrated a machine learning approach to material property allowables development that was shown to be more flexible, more cost-effective, more time-effective, and just as accurate as the conventional (in this case, CMH-17) approach to allowables development.」（https://www.americamakes.us/37923-2/・3回目）
+  - 「Interview with Senvol’s Annie Wang on Data for 3D Printing — Jul 22, 2019 · Senvol Services provides both business and technical expertise in AM, with a particular focus on projects that are data-related. You seem to be working a lot for the defense industry?」（https://3dprint.com/249162/interview-with-senvols-annie-wang-on-data-for-3d-printing/・3回目）
+- 創業年度：記載なし（3回確認済み：公式6頁／PDF・画像1件／外部27頁・検索12回）
+- 株主：記載なし（3回確認済み：公式6頁／PDF・画像1件／外部27頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式6頁／PDF・画像1件／外部27頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式6頁／PDF・画像1件／外部27頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式6頁／PDF・画像1件／外部27頁・検索12回）
+- 料金：記載なし（3回確認済み：公式6頁／PDF・画像1件／外部27頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式6頁／PDF・画像1件／外部27頁・検索12回）
 
 ## Sereact
 - 公式URL：https://sereact.ai/（given）
@@ -41740,6 +44088,65 @@ JPタワー14F（https://prtimes.jp/main/html/rd/p/000000010.000041324.html・3�
 - 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）
 - 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）
 
+## Squint
+- 公式URL：https://squint.ai（given）
+- 採用・広告の製品：
+  - 「Maintain enterprise-wide standards and complete auditability」（https://www.squint.ai/・1回目）
+  - 「Deliver media-rich work instructions to ramp teams faster and reduce time-to-proficiency」（https://www.squint.ai/・1回目）
+  - 「Industrial AI that reduces downtime and improves quality.」（https://www.squint.ai/・1回目）
+  - 「Activate your organization’s knowledge, improve procedures, and make every operator an expert.」（https://www.squint.ai/・1回目）
+  - 「CERTIFICATION PROGRAMS」（https://www.squint.ai/・1回目）
+  - 「Squint’s Lean Manufacturing agent watches video from the floor to automate time and motion studies, identify and classify waste, and generate Yamazumi charts to plot work against takt. Your industrial engineer will get instant, actionable analysis to improve the line.」（https://www.squint.ai/・1回目）
+  - 「Make sure work is done the right way, every time. Squint helps teams follow the process and catch problems early.」（https://www.squint.ai/・1回目）
+  - 「In the classroom or on the floor, give your frontline instant, expert guidance to do the job right the first time.」（https://www.squint.ai/・1回目）
+  - 「Fix problems fast using AI to empower your frontline to solve issues like your best technician would.」（https://www.squint.ai/・1回目）
+  - 「Turn frontline execution into competitive advantage」（https://www.squint.ai/・1回目）
+  - 「Scale content and analyze usage」（https://www.squint.ai/・1回目）
+  - 「Analyze performance across teams and locations, apply improvements instantly」（https://www.squint.ai/・1回目）
+- 製造業の実績：
+  - 「Industrial Intelligence | AI for Industrial Operations | Squint」（https://www.squint.ai/・1回目）
+  - 「Industrial AI that reduces downtime and improves quality.」（https://www.squint.ai/・1回目）
+  - 「From veteran know-how to manuals to live system data, Squint captures it all and keeps it current. Operators get the right information at the right moment, and AI finally has the context to automate work in your operation.」（https://www.squint.ai/・1回目）
+  - 「Purpose-built Industrial Agents」（https://www.squint.ai/・1回目）
+  - 「Squint’s Lean Manufacturing agent watches video from the floor to automate time and motion studies, identify and classify waste, and generate Yamazumi charts to plot work against takt. Your industrial engineer will get instant, actionable analysis to improve the line.」（https://www.squint.ai/・1回目）
+  - 「Industrial agents accelerate insight, augment SME coverage, and offload coordination between systems」（https://www.squint.ai/・1回目）
+  - 「faster digitization of frontline procedures, reducing a 10-year factory digitization roadmap to just 1 year」（https://www.squint.ai/・1回目）
+  - 「→ Fortune Global 500 Automotive Manufacturer」（https://www.squint.ai/・1回目）
+  - 「Industrial AI used by leading global organizations」（https://www.squint.ai/・1回目）
+  - 「→ AI for industrial operations」（https://www.squint.ai/・1回目）
+  - 「Ready to put Industrial AI to work?」（https://www.squint.ai/・1回目）
+  - 「Squint is the leading Industrial AI company, helping the world's most advanced organizations lower downtime and improve quality at scale.」（https://www.squint.ai/・1回目）
+- 再販・ホワイトラベル：
+  - 「Mid-job or mid-breakdown, technicians describe the fault in plain language and Squint’s Assistant answers with model-specific steps, cited from your OEM manuals and approved procedures, never the public internet.」（https://www.squint.ai/solutions/maintenance-uptime・1回目）
+  - 「Record a veteran’s fix or an OEM visit once. It becomes a guided workflow with the diagnostic logic included, ready for whoever handles the next incident.」（https://www.squint.ai/solutions/maintenance-uptime・1回目）
+  - 「OEM commissioning knowledge captured, reusable for every future line」（https://www.squint.ai/customers/new-line-ramp-up・1回目）
+- 規模・親会社：
+  - 「Transform every part of your operations」（https://www.squint.ai/・1回目）
+  - 「Chief Revenue Officer」（https://www.squint.ai/about・1回目）
+  - 「A Fortune 500 environmental services company gave techs at remote sites answers on the spot and avoided $5M a year in specialist costs.」（https://www.squint.ai/industries/oil-and-gas・1回目）
+  - 「We’ve grown through acquisitions. Does every site have to work the same way?」（https://www.squint.ai/industries/oil-and-gas・1回目）
+  - 「A Fortune 500 environmental services company gave techs at remote sites answers on the spot and avoided $5M a year in specialist costs.」（https://www.squint.ai/industries/power-and-utilities・1回目）
+  - 「Defining agentic manufacturing for Fortune 500 companies.」（https://www.squint.ai/careers・1回目）
+  - 「We hold ourselves accountable to breaking through barriers and making the impossible possible. We’re tenacious in our pursuit of making every operator an expert. We ask “why not?” and challenge the status quo—never shying away from doing the inconceivable!」（https://www.squint.ai/careers・1回目）
+  - 「Generous parental, caregiving, and family benefits that ensure your Squintlings are part of the journey too.」（https://www.squint.ai/careers・1回目）
+  - 「Head of Workforce Development, Global Fortune 500 Tire & Automotive Manufacturer」（https://www.squint.ai/customers/operator-retraining-optimization・1回目）
+  - 「Fortune 500 Environmental Services」（https://www.squint.ai/customers/specialist-dependency-reduction・1回目）
+  - 「Site Manager, Fortune 500 Environmental Services Company」（https://www.squint.ai/customers/specialist-dependency-reduction・1回目）
+- 検索結果の抜粋：
+  - 「Squint - Wikipedia — Squinting is most often practiced by people who suffer from refractive errors of the eye who either do not have or are not using their glasses. Squinting helps momentarily improve their eyesight by slightly changing the shape of the eye to make it rounder, which helps light properly reach the fovea.」（https://en.wikipedia.org/wiki/Squint・3回目）
+  - 「Industrial Intelligence | AI for Industrial Operations | Squint — Squint is the leading Industrial AI company, helping the world's most advanced organizations lower downtime and improve quality at scale.」（https://www.squint.ai/・3回目）
+  - 「About - Squint — Squint is The Industrial AI Platform purpose-built for your operations. By activating organizational knowledge across people, processes, and systems, we help some of the world's most impactful companies reduce downtime and scrap, boost operations, and maximize operator performance.」（https://www.squint.ai/about・3回目）
+  - 「SQUINT Definition & Meaning - Merriam-Webster — 6 days ago · The meaning of SQUINT is looking or tending to look obliquely or askance (as with envy or disdain). How to use squint in a sentence.」（https://www.merriam-webster.com/dictionary/squint・3回目）
+  - 「SQUINT | English meaning - Cambridge Dictionary — SQUINT definition: 1. to partly close your eyes in order to see more clearly: 2. If a person or an eye squints, the…. Learn more.」（https://dictionary.cambridge.org/dictionary/english/squint・3回目）
+- 創業年度：記載なし（3回確認済み：公式19頁／PDF・画像1件／外部20頁・検索12回）
+- 株主：記載なし（3回確認済み：公式19頁／PDF・画像1件／外部20頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式19頁／PDF・画像1件／外部20頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式19頁／PDF・画像1件／外部20頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式19頁／PDF・画像1件／外部20頁・検索12回）
+- 料金：記載なし（3回確認済み：公式19頁／PDF・画像1件／外部20頁・検索12回）
+- 連絡先：記載なし（3回確認済み：公式19頁／PDF・画像1件／外部20頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式19頁／PDF・画像1件／外部20頁・検索12回）
+
 ## Squirro
 - 公式URL：https://squirro.com/（given）
 - 株主：$11.5M（https://getlatka.com/companies/squirro・3回目）
@@ -43099,6 +45506,43 @@ JPタワー14F（https://prtimes.jp/main/html/rd/p/000000010.000041324.html・3�
 - 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）
 - 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）
 
+## TOOLSPRESS
+- 公式URL：https://toolspress.com/（search:yahoo_jp:TOOLSPRESS）
+- 採用・広告の製品：
+  - 「Toolspress – Press Brake Tooling」（https://toolspress.com/・1回目）
+  - 「per presse piegatrici」（https://toolspress.com/・1回目）
+  - 「1450 products」（https://toolspress.com/・1回目）
+  - 「89 products」（https://toolspress.com/・1回目）
+  - 「0 products」（https://toolspress.com/・1回目）
+  - 「ToolsPress Wila Style」（https://toolspress.com/・1回目）
+  - 「ToolsPress Trumpf Style」（https://toolspress.com/・1回目）
+  - 「ToolsPress European Style」（https://toolspress.com/・1回目）
+  - 「ToolsPress Bystronic Style」（https://toolspress.com/・1回目）
+  - 「LPR15W 26° R 3」（https://toolspress.com/・1回目）
+  - 「Toolspress è un’azienda internazionale, leader nella progettazione e produzione di utensili e sistemi di bloccaggio di alta qualità per presse piegatrici. Offriamo una vasta gamma di modelli standard e assistenza tecnica per lo studio di utensili speciali.」（https://toolspress.com/・1回目）
+  - 「Acciaio e trattamenti premium」（https://toolspress.com/・1回目）
+- 製造業の実績：
+  - 「Additive Manufacturing」（https://www.thefabricator.com/directory/showroom/toolspress-usa-llc・3回目）
+  - 「Manufacturing Software」（https://www.thefabricator.com/directory/showroom/toolspress-usa-llc・3回目）
+  - 「Fabricators and Manufacturers Association」（https://www.thefabricator.com/directory/showroom/toolspress-usa-llc・3回目）
+  - 「Automated production lines」（https://www.italianmachines.eu/en/members/toolspress・3回目）
+  - 「Automated warehouse systems (VLM)」（https://www.italianmachines.eu/en/members/toolspress・3回目）
+  - 「ToolsPress is a world-class designer and manufacturer of high-quality press brake tools and clamping systems. We can guide your choice toward the best bending solution thanks to a great manufacturing program with a wide range of standard and special models.」（https://www.italianmachines.eu/en/members/toolspress・3回目）
+- 検索結果の抜粋：
+  - 「Toolspress – Press Braking Tooling — Toolspress – Press Braking Tooling Toolspress https://toolspress.com > ...」（https://toolspress.com/en/・3回目）
+  - 「Toolspress USA LLC - The Fabricator — Toolspress USA LLC - The Fabricator The Fabricator https://www.thefabricator.com > tools...」（https://www.thefabricator.com/directory/showroom/toolspress-usa-llc・3回目）
+  - 「Toolspress — machines and catalogues — Toolspress — machines and catalogues Italian Machinery Association https://www.italianmachines.eu > tool...」（https://www.italianmachines.eu/en/members/toolspress・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索13回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索13回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索13回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索13回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索13回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索13回）
+- 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索13回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索13回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索13回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索13回）
+
 ## Tagsafe
 - 公式URL：https://www.tagsafe.io（given）
 - 採用・広告の製品：
@@ -44183,6 +46627,95 @@ JPタワー14F（https://prtimes.jp/main/html/rd/p/000000010.000041324.html・3�
 - 料金：記載なし（3回確認済み：公式13頁／PDF・画像1件／外部34頁・検索12回）
 - 再販・ホワイトラベル：記載なし（3回確認済み：公式13頁／PDF・画像1件／外部34頁・検索12回）
 
+## Tempress Engineering B.V.
+- 公式URL：https://www.tempress.nl/（given）
+- 連絡先：Mr. Maarten IJzerman（https://tempress.nl/company・1回目）
+- 連絡先：Mr. Rob de Jong（https://tempress.nl/company・1回目）
+- 連絡先：Mr. Pascal Guerche（https://tempress.nl/company・1回目）
+- 採用・広告の製品：
+  - 「Our process portfolio」（https://tempress.nl/・1回目）
+  - 「Designed around your process, built for your reality.」（https://tempress.nl/・1回目）
+  - 「diffusion and deposition processes」（https://tempress.nl/・1回目）
+  - 「60 years of thermal processing expertise」（https://tempress.nl/・1回目）
+  - 「From power devices and MEMS to photonics, advanced packaging and LED, our diffusion and deposition solutions are qualified in production and pilot lines worldwide.」（https://tempress.nl/・1回目）
+  - 「Modular horizontal stacks and vertical batch processors, configured around your process, footprint and throughput.」（https://tempress.nl/・1回目）
+  - 「Complete thermal processes developed over six decades and proven in production fabs worldwide.」（https://tempress.nl/・1回目）
+  - 「Diffusion processes modify the electrical properties of wafer material by introducing dopant atoms from a chemical vapor source or by annealing crystal defects. Tempress offers high-temperature annealing up to 1365°C, wet and dry oxidation, phosphorus and boron doping with POCl3 and BBr3, plus lower-temperature sintering, alloying and annealing with up to 100% H2.」（https://tempress.nl/・1回目）
+  - 「Deposition processes produce thin films of high-quality solid materials on a wafer. Tempress offers Low Pressure CVD (LPCVD) for improved uniformity, Plasma Enhanced CVD (PECVD) for lower-temperature processing with higher deposition rates, and Atomic Layer Deposition (ALD) for ultra-thin, conformal films with atomic-level thickness control.」（https://tempress.nl/・1回目）
+  - 「One portfolio. Horizontal and vertical thermal processing.」（https://tempress.nl/solutions・1回目）
+  - 「From flexible multi-stack horizontal furnaces to high-productivity 300mm vertical batch processors — engineered for uniformity, uptime and the lowest cost of ownership.」（https://tempress.nl/solutions・1回目）
+  - 「Optimized for flexibility, multiple simultaneous processes and efficient use of cleanroom space.」（https://tempress.nl/solutions・1回目）
+- 製造業の実績：
+  - 「Service, spare parts, retrofits and upgrades — including factory-certified support for legacy platforms」（https://tempress.nl/・1回目）
+  - 「High-volume, flexible manufacturing」（https://tempress.nl/solutions・1回目）
+  - 「Tempress furnace platforms for medium and high-volume semiconductor manufacturing can be equipped with integrated boat handler and storage and fully automated cassette-to-cassette wafer handling systems. This reduces reliance on manual operator intervention while delivering a more stable and reliable process yield.」（https://tempress.nl/solutions・1回目）
+  - 「Factory-certified spares and upgrades are available for the Watkins-Johnson atmospheric CVD platforms: WJ-999 (3 process chambers for TEOS and hydride processes), WJ-1000 (4 process chambers for TEOS and hydride processes) and WJ-1500 (4 chambers for TEOS processes only).」（https://tempress.nl/solutions・1回目）
+  - 「The Watkins-Johnson systems are legacy platforms. They are not offered as new tools — we supply factory-certified spares, upgrades and service for the installed base.」（https://tempress.nl/solutions・1回目）
+  - 「High-volume, flexible manufacturing」（https://tempress.nl/solutions/ts-6-8-series・1回目）
+  - 「In 2026, Tempress and SPT Microtechnologies joined together to form a global thermal processing solutions provider. The collaboration is backed by Jolt Capital, serving pioneers in semiconductor manufacturing.」（https://tempress.nl/company・1回目）
+  - 「Join a global team of engineers, technicians and specialists who equip leading semiconductor fabs worldwide.」（https://tempress.nl/careers・1回目）
+  - 「Our Vaassen headquarters is home to engineering, manufacturing and global support. We are looking for motivated individuals to contribute to advanced technology in a highly specialized environment. Current openings are listed below.」（https://tempress.nl/careers・1回目）
+  - 「Diffusion, oxidation and annealing processes used in silicon wafer manufacturing and epitaxial layer preparation.」（https://tempress.nl/markets・1回目）
+  - 「Thermal processing for bio-MEMS, diagnostic sensors, implantable devices and advanced medical substrates.」（https://tempress.nl/markets・1回目）
+  - 「High-temperature processes for LED manufacturing, including sapphire and compound semiconductor substrates.」（https://tempress.nl/markets・1回目）
+- 日本の担い手：
+  - 「Tokyo 194-0001」（https://tempress.nl/company・1回目）
+- 規模・親会社：
+  - 「Communicate with and educate all employees to have the skills and knowledge to help reduce environmental impact」（https://tempress.nl/company・1回目）
+  - 「Acquired by Amtech. Designed new vertical diffusion furnace.」（https://tempress.nl/company・1回目）
+  - 「Acquisition R2D.」（https://tempress.nl/company・1回目）
+  - 「Our Vaassen headquarters is home to engineering, manufacturing and global support. We are looking for motivated individuals to contribute to advanced technology in a highly specialized environment. Current openings are listed below.」（https://tempress.nl/careers・1回目）
+  - 「Don't see your market listed?」（https://tempress.nl/markets・1回目）
+- 連絡先：
+  - 「sales@tempress-systems.com」（https://tempress.nl/solutions/ts-6-8-series・1回目）
+  - 「sales@tempress-systems.com」（https://tempress.nl/solutions/ts-12-series・1回目）
+  - 「sales@tempress-systems.com」（https://tempress.nl/solutions/vs200-a-m・1回目）
+  - 「sales@tempress-systems.com」（https://tempress.nl/solutions/vs300-c・1回目）
+  - 「sales@tempress-systems.com」（https://tempress.nl/solutions/avp-ace・1回目）
+  - 「sales@tempress-systems.com」（https://tempress.nl/solutions/rvp-ace・1回目）
+  - 「sales@tempress-systems.com」（https://tempress.nl/solutions/avp-8000-rvp-9000・1回目）
+  - 「sales@tempress-systems.com」（https://tempress.nl/solutions/rvp-300plus-rvp-550・1回目）
+  - 「sales@tempress-systems.com」（https://tempress.nl/company・1回目）
+- 検索結果の抜粋：
+  - 「Tempress Engineering B.V. Company Profile | Vaassen ... — Find company research, competitor information, contact details & financial data for Tempress Engineering B.V. of Vaassen, Gelderland. Get the latest business insights from Dun & Bradstreet.」（https://www.dnb.com/business-directory/company-profiles.tempress_engineering_bv.4cf0707d6c7bd793685ec478cb01e997.html・3回目）
+- 創業年度：記載なし（3回確認済み：公式13頁／PDF・画像1件／外部22頁・検索12回）
+- 株主：記載なし（3回確認済み：公式13頁／PDF・画像1件／外部22頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式13頁／PDF・画像1件／外部22頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式13頁／PDF・画像1件／外部22頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式13頁／PDF・画像1件／外部22頁・検索12回）
+- 料金：記載なし（3回確認済み：公式13頁／PDF・画像1件／外部22頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式13頁／PDF・画像1件／外部22頁・検索12回）
+
+## Tempress Holding B.V.
+- 公式URL：特定できず（not_found）
+- 採用・広告の製品：
+  - 「SPP Technologies to Divest SPT Microtechnologies USA to Tempress | SPT」（https://www.sptcorp.com/en/media-center/divest-spt-microtechnologies-usa-to-tempress/・3回目）
+  - 「07.15.2026 Press Releases」（https://www.sptcorp.com/en/media-center/divest-spt-microtechnologies-usa-to-tempress/・3回目）
+  - 「SPP Technologies to Divest SPT Microtechnologies USA to Tempress」（https://www.sptcorp.com/en/media-center/divest-spt-microtechnologies-usa-to-tempress/・3回目）
+  - 「The Company will transfer all shares of SPT-USA that it holds to Tempress-USA. As a result, SPT-USA, together with its subsidiaries in Germany and Taiwan, will become part of the Tempress group, and operational continuity of SPT-USA’s business is expected to be maintained.」（https://www.sptcorp.com/en/media-center/divest-spt-microtechnologies-usa-to-tempress/・3回目）
+  - 「Toward a smooth transition following the share transfer, both companies will cooperate as necessary to move to the new structure, while ensuring that customers continue to receive equipment and services without disruption. Should any matters requiring disclosure arise in the future, the Company will provide notice promptly.」（https://www.sptcorp.com/en/media-center/divest-spt-microtechnologies-usa-to-tempress/・3回目）
+  - 「Press release by Jolt Capital SAS」（https://www.sptcorp.com/en/media-center/divest-spt-microtechnologies-usa-to-tempress/・3回目）
+  - 「Jolt Capital invests €20M in Tempress and Tempress to acquire SPT Microtechnologies USA as double consolidation play in high-end semiconductor equipment」（https://www.sptcorp.com/en/media-center/divest-spt-microtechnologies-usa-to-tempress/・3回目）
+  - 「Sumitomo Precision Products Co., Ltd.」（https://www.sptcorp.com/en/media-center/divest-spt-microtechnologies-usa-to-tempress/・3回目）
+- 製造業の実績：
+  - 「Development, manufacturing, sales, and servicing of vertical furnaces」（https://www.sptcorp.com/en/media-center/divest-spt-microtechnologies-usa-to-tempress/・3回目）
+- 規模・親会社：
+  - 「The Company will transfer all shares of SPT-USA that it holds to Tempress-USA. As a result, SPT-USA, together with its subsidiaries in Germany and Taiwan, will become part of the Tempress group, and operational continuity of SPT-USA’s business is expected to be maintained.」（https://www.sptcorp.com/en/media-center/divest-spt-microtechnologies-usa-to-tempress/・3回目）
+  - 「Wholly owned subsidiary of SPP Technologies」（https://www.sptcorp.com/en/media-center/divest-spt-microtechnologies-usa-to-tempress/・3回目）
+- 検索結果の抜粋：
+  - 「SPP Technologies to Divest SPT Microtechnologies USA to Tempress — Jul 15, 2026 · SPP Technologies Co., Ltd. (Tokyo, Japan; the “Company”) hereby announces that it has decided to divest its wholly owned subsidiary, SPT Microtechnologies USA, Inc. (San Jose, California, USA; “SPT-USA”), by transferring all of its shares to Tempress Holding North America Inc. (Delaware, the USA; “Tempress-USA”), a s」（https://www.sptcorp.com/en/media-center/divest-spt-microtechnologies-usa-to-tempress/・3回目）
+  - 「当社完全子会社 SPT Microtechnologies USA, Inc. の株式譲渡に関する... — Jul 15, 2026 · SPPテクノロジーズ株式会社は、当社の完全子会社であるSPT Microtechnologies USA, Inc. の全株式を、Tempress Holding B.V. へ譲渡することを決定いたしました。」（https://www.sptcorp.com/ja/media-center/divest-spt-microtechnologies-usa-to-tempress/・3回目）
+  - 「Tempress Holding B.V. | Creditsafe — Tempress Holding B.V. operates within the Production of ovens and burners industry. It was incorporated in 2011. Its headquarters are located at Radeweg 31, 8171 MD, Vaassen. The company number for Tempress Holding B.V. is 51736101, with a safe number NL02754220.」（https://www.creditsafe.com/business-index/en-ie/company/tempress-holding-bv-nl02754220・3回目）
+- 創業年度：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 所在地：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 料金：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 連絡先：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 日本の担い手：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+
 ## Tenjin
 - 公式URL：https://www.tenjin.com（given）
 - 連絡先：（https://tenjin.com/pricing/・1回目）
@@ -44340,6 +46873,21 @@ JPタワー14F（https://prtimes.jp/main/html/rd/p/000000010.000041324.html・3�
 - 料金：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部28頁・検索12回）
 - 再販・ホワイトラベル：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部28頁・検索12回）
 - 日本の担い手：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部28頁・検索12回）
+
+## Test Industry S.r.l. - Bimal Brand
+- 公式URL：特定できず（not_found）
+- 創業年度：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部16頁・検索20回）
+- 株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部16頁・検索20回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部16頁・検索20回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部16頁・検索20回）
+- 所在地：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部16頁・検索20回）
+- 料金：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部16頁・検索20回）
+- 連絡先：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部16頁・検索20回）
+- 採用・広告の製品：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部16頁・検索20回）
+- 製造業の実績：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部16頁・検索20回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部16頁・検索20回）
+- 日本の担い手：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部16頁・検索20回）
+- 規模・親会社：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部16頁・検索20回）
 
 ## Testgorilla
 - 公式URL：https://www.testgorilla.com/（given）
@@ -46415,6 +48963,23 @@ JPタワー14F（https://prtimes.jp/main/html/rd/p/000000010.000041324.html・3�
 - 売上高：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部39頁・検索12回）
 - 所在地：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部39頁・検索12回）
 - 料金：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部39頁・検索12回）
+
+## Tummers Staffing & Facilities B.V.
+- 公式URL：特定できず（not_found）
+- 検索結果の抜粋：
+  - 「Tummers Staffing & Facilities BV - Company Profile and News — Tummers Staffing & Facilities B.V. was founded in 2006. The company's line of business includes holding and owning securities of companies other than banks.」（https://www.bloomberg.com/profile/company/2377370D:NA・3回目）
+- 創業年度：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索20回）
+- 株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索20回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索20回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索20回）
+- 所在地：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索20回）
+- 料金：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索20回）
+- 連絡先：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索20回）
+- 採用・広告の製品：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索20回）
+- 製造業の実績：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索20回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索20回）
+- 日本の担い手：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索20回）
+- 規模・親会社：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索20回）
 
 ## Turingcollege
 - 公式URL：https://www.turingcollege.com/（given）
@@ -50323,6 +52888,33 @@ JPタワー14F（https://prtimes.jp/main/html/rd/p/000000010.000041324.html・3�
 - 所在地：記載なし（3回確認済み：公式16頁／PDF・画像4件／外部31頁・検索12回）
 - 料金：記載なし（3回確認済み：公式16頁／PDF・画像4件／外部31頁・検索12回）
 
+## WÖHR Autoparksysteme
+- 公式URL：https://woehr.de/en/（given）
+- 採用・広告の製品：
+  - 「https://policies.google.com/privacy」（https://woehr.de/en/・1回目）
+  - 「Used to unlock Youtube content.」（https://woehr.de/en/・1回目）
+  - 「We are experts in the development, production and installation of intelligent and technologically high-end parking systems for cars and bicycles. Our projects with mechanical, semi-automatic and fully-automatic parking systems are unique and located in the most beautiful cities in the world, wherever space is rare and compact parking solutions are required.」（https://woehr.de/en/・1回目）
+  - 「operate on the same principle. These systems are located underground, leaving the driveway at the surface free for vehicles.」（https://woehr.de/en/・1回目）
+  - 「make possible up-to-date problem solutions and compact parking in dense city centres. In fully automatic systems, such as the」（https://woehr.de/en/・1回目）
+  - 「stores bikes and E-bikes both securely and compactly in a tower, shaft or mix version. All Stackparkers and Liftparkers can be used in single, pre-fabricated, underground and surface garages as well as in garage systems.」（https://woehr.de/en/・1回目）
+  - 「Compare application scenarios directly in the virtual urban environment and discover the right solutions for your project.」（https://woehr.de/en/・1回目）
+  - 「Sustainable parking densification for a superlative redevelopment project.」（https://woehr.de/en/・1回目）
+  - 「Compared to many similar new-build neighbourhoods in Berlin, the square in the new AM TACHELES district has its own unique quality thanks to its shape, opening, façade design and planting. As a small highlight, there is a mirrored cylinder in the centre that provides space for bicycles.」（https://woehr.de/en/・1回目）
+- 製造業の実績：
+  - 「WÖHR Autoparksysteme GmbH – One of the international leading manufacturers of space saving car parking systems」（https://woehr.de/en/・1回目）
+  - 「Compared to many similar new-build neighbourhoods in Berlin, the square in the new AM TACHELES district has its own unique quality thanks to its shape, opening, façade design and planting. As a small highlight, there is a mirrored cylinder in the centre that provides space for bicycles.」（https://woehr.de/en/・1回目）
+- 規模・親会社：
+  - 「The Multiparker 740 is particularly suited to narrow and long floor plan areas and features a fully automatic space saving high rack storage parking arrangement.」（https://woehr.de/en/・1回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）
+- 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）
+
 ## Xelix
 - 公式URL：特定できず（not_found）
 - 採用・広告の製品：
@@ -50802,6 +53394,111 @@ JPタワー14F（https://prtimes.jp/main/html/rd/p/000000010.000041324.html・3�
 - 料金：記載なし（3回確認済み：公式1頁／PDF・画像3件／外部40頁・検索12回）
 - 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像3件／外部40頁・検索12回）
 
+## ZHEJIANG CHR INTELLIGENT EQUIPMENT CO. LTD.
+- 公式URL：特定できず（not_found）
+- 採用・広告の製品：
+  - 「As a machine tool equipment supplier for globally renowned automotive parts companies (such as Continental, ZF, etc.), we provide complete equipment for the precision machining of core automotive parts for BMW, Mercedes-Benz, Audi, and other brands.」（https://www.maktekfuari.com/en/brand/zhejiang-chr-intelligent-equipment-co-ltd・3回目）
+  - 「In the home appliance sector, we provide automated machining equipment for companies like Midea.」（https://www.maktekfuari.com/en/brand/zhejiang-chr-intelligent-equipment-co-ltd・3回目）
+  - 「In the field of aircraft engines and gas turbines, we have developed high-performance five-axis and six-axis CNC horizontal and vertical broaching machines for machining compressor discs and turbine discs; and we have designed highly efficient CNC vertical broaching machines for machining blade tenons.」（https://www.maktekfuari.com/en/brand/zhejiang-chr-intelligent-equipment-co-ltd・3回目）
+  - 「The post show report is being prepared and will be available very soon.」（https://www.maktekfuari.com/en/brand/zhejiang-chr-intelligent-equipment-co-ltd・3回目）
+- 製造業の実績：
+  - 「As a machine tool equipment supplier for globally renowned automotive parts companies (such as Continental, ZF, etc.), we provide complete equipment for the precision machining of core automotive parts for BMW, Mercedes-Benz, Audi, and other brands.」（https://www.maktekfuari.com/en/brand/zhejiang-chr-intelligent-equipment-co-ltd・3回目）
+- 検索結果の抜粋：
+  - 「ZHEJIANG CHR INTELLIGENT EQUIPMENT CO. LTD. — Zhejiang CHR Intelligent Equipment Co., Ltd. was established in 2000 and is dedicated to the development of high-end broaching machines, CNC special-purpose machine tools, robotic integration automation, and flexible complete equipment. It is a leading supplier of machine tool equipment in China and internationally advanced.」（https://www.maktekfuari.com/en/brand/zhejiang-chr-intelligent-equipment-co-ltd・3回目）
+  - 「Zhejiang CHR Intelligent Equipment Co.,Ltd. Company Profile ...Broaching machine|Vertical broaching machine|Zhejiang CHR ...会社概要 – CHRオフィシャルWEBサイトHome - ZHEJIANG CHRZHEJIANG CHR INTELLIGENT EQUIPMENT CO. LTD. — Find company research, competitor information, contact details & financial data for Zhejiang CHR Intelligent Equipment Co.,Ltd. of Lishui, Zhejiang. Get the latest business insights from Du」（https://www.dnb.com/business-directory/company-profiles.zhejiang_chr_intelligent_equipment_coltd.c4c40aa62e12a69fe1946d0e4138249c.html・3回目）
+- 創業年度：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 所在地：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 料金：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 連絡先：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 日本の担い手：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+- 規模・親会社：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）
+
+## ZOLTEK
+- 公式URL：https://zoltek.com/（given）
+- 採用・広告の製品：
+  - 「3D Printing Applications」（https://zoltek.com/・1回目）
+  - 「CNG Storage / Pressure Vessels Applications」（https://zoltek.com/・1回目）
+  - 「Engineered for Progress.」（https://zoltek.com/・1回目）
+  - 「In the realm of materials, carbon fiber has emerged as a powerhouse collaborator, known for its ability to enhance other materials and propel them to new heights of performance. At ZOLTEK, we see ourselves embracing a similar role.」（https://zoltek.com/・1回目）
+  - 「Oxidized PAN fibers, known for their exceptional properties.」（https://zoltek.com/・1回目）
+  - 「Pultruded carbon fiber blades are prevalent in wind turbines, providing strength and durability while maintaining lightweight characteristics.」（https://zoltek.com/・1回目）
+  - 「Carbon fiber composites are used in aircraft components, including airplane brakes, providing lightweight solutions that improve fuel efficiency and performance.」（https://zoltek.com/・1回目）
+  - 「Carbon fiber reinforced polymers (CFRP) are utilized in infrastructure projects for strengthening bridges, buildings, and other structures, providing lightweight and durable solutions.」（https://zoltek.com/・1回目）
+  - 「Carbon fiber is commonly found in sporting goods such as tennis rackets, golf clubs, and bicycles, offering enhanced performance through its lightweight and stiff properties.」（https://zoltek.com/・1回目）
+  - 「Enhances physical properties in thermoplastic compounds, allowing applications to expand into new areas, including replacing traditional cast aluminum and magnesium applications.」（https://zoltek.com/・1回目）
+  - 「3D Printing Filament」（https://zoltek.com/・1回目）
+  - 「Compounded for use in 3D printing materials, allowing the creation of strong, lightweight, and durable parts.」（https://zoltek.com/・1回目）
+- 製造業の実績：
+  - 「ZOLTEK Corporation – The world's trusted cost-efficient carbon fiber manufacturer.」（https://zoltek.com/・1回目）
+  - 「Zoltek Post-Industrial Carbon Fiber」（https://zoltek.com/・1回目）
+  - 「Automotive Applications」（https://zoltek.com/・1回目）
+  - 「Our commercial-grade carbon fibers, ideal for a wide range of industrial uses.」（https://zoltek.com/・1回目）
+  - 「Zoltek Post-Industrial Fiber」（https://zoltek.com/・1回目）
+  - 「A line dedicated to efficiency and sustainability, utilizing post-industrial carbon fibers.」（https://zoltek.com/・1回目）
+  - 「Carbon fiber is commonly used in automotive applications, from exterior components like hoods and spoilers to structural elements such as battery storage units in electric vehicles and passenger cells.」（https://zoltek.com/・1回目）
+  - 「Integral in a variety of composite applications, providing enhanced strength, durability, and performance in products ranging from consumer goods to industrial components.x」（https://zoltek.com/・1回目）
+  - 「Post-Industrial Fiber」（https://zoltek.com/・1回目）
+  - 「Zoltek Post-Industrial Carbon Fiber」（https://zoltek.com/about-us/・1回目）
+  - 「Automotive Applications」（https://zoltek.com/about-us/・1回目）
+  - 「One of carbon fiber’s standout features is its versatility. It seamlessly integrates with a diverse array of materials, including various fibers, plastics, metals, wood, and concrete. This versatility fuels endless possibilities for enhancing performance and reducing life-cycle costs across a broad spectrum of consumer and industrial applications, as well as in construction projects.」（https://zoltek.com/about-us/・1回目）
+- 日本の担い手：
+  - 「東レ、米子会社Zoltekにおいてラージトウ炭素繊維の生産設備を増強 - 日本経済新聞」（https://www.nikkei.com/article/DGXLRSP622038_Y1A111C2000000/・3回目）
+  - 「株式会社（本社:東京都中央区、代表取締役社長:日覺昭廣、以下「東レ」）は、この度、米国の子会社Zoltek Companies, Inc.（本社:ミズーリ州セントルイス、社長:安藤伸哉、以下「Zoltek」）において、ラージトウ（※1）炭素繊維の生産設備増強を決定しました」（https://www.nikkei.com/article/DGXLRSP622038_Y1A111C2000000/・3回目）
+  - 「インド半導体の業界地図 タタ経済圏に450社、日本の突破口明らかに」（https://www.nikkei.com/article/DGXLRSP622038_Y1A111C2000000/・3回目）
+  - 「日本経済新聞の編集者が選んだ押さえておきたい「ニュース５本」をお届けします」（https://www.nikkei.com/article/DGXLRSP622038_Y1A111C2000000/・3回目）
+  - 「東レ株式会社が米国のラージトウ炭素繊維メーカーZoltek Companies, Inc.の全株式を取得することに合意したとのニュースは、業界に大きなインパクトを与えました」（https://sfs-inc.jp/ma/20790/・3回目）
+  - 「Tag - The Japan Times」（https://www.japantimes.co.jp/tag/zoltek/・3回目）
+  - 「Foreign community in Japan」（https://www.japantimes.co.jp/tag/zoltek/・3回目）
+  - 「Man arrested over operation of rogue cellular base station in Tokyo」（https://www.japantimes.co.jp/tag/zoltek/・3回目）
+  - 「Japan works to shield Takaichi from any Xi snub at China summit」（https://www.japantimes.co.jp/tag/zoltek/・3回目）
+  - 「Magnitude 5.7 quake injures dozens in central Japan」（https://www.japantimes.co.jp/tag/zoltek/・3回目）
+  - 「Few signs of thaw in Japan-China relations one year after Takaichi’s Taiwan remarks」（https://www.japantimes.co.jp/tag/zoltek/・3回目）
+  - 「Kabukicho: Tokyo’s ‘stadium of desire’」（https://www.japantimes.co.jp/tag/zoltek/・3回目）
+- 規模・親会社：
+  - 「ZOLTEK's carbonized felts and fabrics are utilized in Redox Flow Battery (RFB) electrodes and Runaway Thermal Barrier (RTB) covers for Plug-in Hybrid Electric Vehicles (PHEVs), offering cost-efficient solutions for energy storage.」（https://zoltek.com/・1回目）
+  - 「Applied in fire protection coatings that expand when exposed to heat, providing an effective thermal barrier.」（https://zoltek.com/・1回目）
+  - 「The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.」（https://zoltek.com/・1回目）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://zoltek.com/・1回目）
+  - 「One of carbon fiber’s standout features is its versatility. It seamlessly integrates with a diverse array of materials, including various fibers, plastics, metals, wood, and concrete. This versatility fuels endless possibilities for enhancing performance and reducing life-cycle costs across a broad spectrum of consumer and industrial applications, as well as in construction projects.」（https://zoltek.com/about-us/・1回目）
+  - 「ZOLTEK enters the carbon fiber business with an acquisition in 1988, focusing on high-priced, low volume aerospace applications.」（https://zoltek.com/about-us/・1回目）
+  - 「ZOLTEK's initial public offering occurred in 1992. Our IPO raised $4 million, and we used most of that to build our first continuous carbonization line for the textile-type precursor.」（https://zoltek.com/about-us/・1回目）
+  - 「As the demand for commercial carbon fibers increased, ZOLTEK acquired a facility in Guadalajara, Mexico.」（https://zoltek.com/about-us/・1回目）
+  - 「In 2014, ZOLTEK was acquired by the Toray Group.」（https://zoltek.com/about-us/・1回目）
+  - 「KM. 3 Carretera a El Salto」（https://zoltek.com/about-us/・1回目）
+  - 「At Zoltek, our employees are our greatest asset.」（https://zoltek.com/about-us/・1回目）
+  - 「Zoltek champions work-life balance for all employees, ensuring everyone can thrive both professionally and personally.」（https://zoltek.com/about-us/・1回目）
+- 連絡先：
+  - 「europe-sales@ZOLTEK.com」（https://zoltek.com/about-us/・1回目）
+  - 「The power to change the world is just one quick email away.」（https://zoltek.com/about-us/・1回目）
+  - 「If you are an applicant with a disability and require assistance in the job application process, we invite you to request a reasonable accommodation. Please provide us with your name and contact information by email (」（https://zoltek.com/careers/united-states-careers/・1回目）
+  - 「email címen keresztül」（https://zoltek.com/careers/hungary-careers/・1回目）
+  - 「We prioritize confidentiality by using secure data encryption, access controls, and strict privacy policies. Apart from an email, we don't collect any information from the client. So there is almost zero risk of breach at our end. Our financial transactions are done by Paypal on their website so all your information is very secure.」（https://fernfortuniversity.com/essay/strategy_case/zoltek-649・3回目）
+  - 「Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.」（https://pitchbook.com/profiles/company/41244-31・3回目）
+- 検索結果の抜粋：
+  - 「東レ、米子会社Zoltekにおいてラージトウ炭素繊維の生産設備を増強 - ... — Nov 18, 2021 · 今回の設備増強では、Zoltekのメキシコ工場（所在地:メキシコ、ハリスコ州）の生産能力を現行の年産1万3千トンから2万トンに増強する計画であり ...」（https://www.nikkei.com/article/DGXLRSP622038_Y1A111C2000000/・3回目）
+  - 「東レ、ラージトウ炭素繊維メーカーの米Zoltek（ゾルテック）を575億円... — Sep 27, 2013 · 東レは27日、米国のラージトウ炭素繊維メーカーZoltek Companies（ゾルテック）との間で、同社の全株式を買収すると発表した。買収総額は5億8,500万 ...」（https://www.sbbit.jp/article/cont1/26946・3回目）
+  - 「東レ、米ゾルテック社を子会社化で新展開 - M&A HACK — Apr 27, 2025 · 東レのZoltek買収は、この成長市場への戦略的な投資であり、競争優位性を確保するための重要なステップとなります。 東レのM&A戦略とその背景 東レは、繊維産業での強固な基盤を活かし、M&Aを通じて新たな市場への進出を積極的に進めています。」（https://sfs-inc.jp/ma/20790/・3回目）
+  - 「Tag - The Japan Times — Sep 3, 2026 · Toray Industries Inc., which makes the carbon fiber used in Boeing Co.’s 787 Dreamliner, has agreed to buy Zoltek Companies Inc. for $584 million (about ¥57.6 billion) to expand into markets ...」（https://www.japantimes.co.jp/tag/zoltek/・3回目）
+  - 「国外大丝束碳纤维三巨头格局生变：产能扩张停滞，市场遇深度调整 — Dec 21, 2025 · 近年来，全球大丝束碳纤维市场格局正经历显著震荡。随着 下游风电等行业需求波动、全球产能阶段性过剩以及竞争加剧，国外传统的大丝束碳纤维三巨头——日本东丽旗下卓尔泰克（Zoltek）、德国西格里（SGL）以及日本三菱化学（Mitsubishi Chemical）——均面临不同程度的挑战，产能扩张趋于停滞 ...」（https://www.toutiao.com/article/7585965552707977778/・3回目）
+  - 「Zoltek - Wikipedia — Zoltek (Nasdaq: ZOLT until 2014) is a materials company headquartered in St. Louis, MO that engages in the development, manufacture, and marketing of commercial carbon fiber for various applications. Their primary customers are in the sectors of wind energy, alternative energy, lightweight automobiles, construction and infrastructure, and oil exploration. Zoltek sells commerci」（https://en.wikipedia.org/wiki/Zoltek・3回目）
+  - 「ZOLTEK Corporation – The world's trusted cost-efficient ... — ZOLTEK offers a range of carbonfiber solutions for various applications, ensuring durability and performance in automotive, marine, and civil engineering.」（https://zoltek.com/・3回目）
+  - 「About Us – ZOLTEK Corporation — ZOLTEK's partner, a globe expert in filament winding, composite solutions and a complete service provider for the filament winding industry. Our joint capabilities allow us to drive innovations and stay ahead of customers' needs.」（https://zoltek.com/about-us/・3回目）
+  - 「Zoltek Corporation | Toray Group US | TORAY United States — Zoltek Corporation is the world’s most trusted and customer-centric manufacturer of cost-efficient industrial-grade carbon fiber (large tow). Zoltek Corporation is the world’s most trusted and customer-centric manufacturer of cost-efficient industrial-grade carbon fiber used for automotive parts, wind turbine blades, thermoplastic compoun」（https://www.toray.us/group/zoltek/・3回目）
+  - 「SETTLEMENT AGREEMENT - ofac.treasury.gov — On February 27, 2015, the General Manager for Procurement at Zoltek's parent company — a corporate entity organized under the laws of Japan that acquired Zoltek in February 2014 — received an email from an employee at a non-U.S. company regarding that company's potential transportation of ACN from Naftan in Belarus to Zoltek ZRT in Hungary.」（https://ofac.treasury.gov/media/13916/download?inline・3回目）
+  - 「[7 Steps] Zoltek Case Study Solution - fernfortuniversity.com — Sep 3, 2026 · Zoltek's customers: The aerospace, industrial, and emerging markets represented key customer segments that Zoltek needed to serve effectively. Zoltek's competitors: The case study mentions several competitors, including Toray Industries, Hexcel, and Mitsubishi Rayon, all vying for market share in the carbon fiber and com」（https://fernfortuniversity.com/essay/strategy_case/zoltek-649・3回目）
+  - 「Case Study: Zoltek Zrt. raises the bar for compliance ... — Zoltek Zrt - Customer Case Study Zoltek Zrt., the Hungarian subsidiary of a global chemical manufacturing group, needed to improve its compliance training and make online learning more engaging across 1,500 employees and multiple production sites. With shift-based operations and complex safety requirements, the team struggled to schedule 」（https://www.casestudies.com/company/ispring/case-study/zoltek-zrt-customer-case-study・3回目）
+- 創業年度：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部25頁・検索12回）
+- 株主：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部25頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部25頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部25頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部25頁・検索12回）
+- 料金：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部25頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部25頁・検索12回）
+
 ## Ziffyhomes
 - 公式URL：https://www.ziffyhomes.com/（given）
 - 創業年度：Founded：2016（https://startupintros.com/orgs/ziffyhomes・3回目）
@@ -51194,6 +53891,96 @@ JPタワー14F（https://prtimes.jp/main/html/rd/p/000000010.000041324.html・3�
 - 料金：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部36頁・検索12回）
 - 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部36頁・検索12回）
 
+## ads-tec Industrial IT GmbH
+- 公式URL：https://www.ads-tec-iit.com/（given）
+- 採用・広告の製品：
+  - 「Industrie Computer- und IT-Systeme - ADS-TEC IIT」（https://www.ads-tec-iit.com/・1回目）
+  - 「Wir produzieren nachhaltige Computer- und IT-Systeme für eine vernetzte Zukunft.」（https://www.ads-tec-iit.com/・1回目）
+  - 「Link zu:/produkte/industrie-panelpcs-terminals/logistik-und-fahrzeugterminals/vmt9000/」（https://www.ads-tec-iit.com/・1回目）
+  - 「Link zu:/produkte/industrie-panelpcs-terminals/shopfloor-und-fabrik/mes9000/」（https://www.ads-tec-iit.com/・1回目）
+  - 「Edelstahl Panel PCs für maximale Effizienz in hygienesensitiven Produktionsumgebungen」（https://www.ads-tec-iit.com/・1回目）
+  - 「Der neue Smart Hygienic Panel PC SHP900 vereint eine eleganten Formsprache mit innovativen technischen Funktionen in hygienesensiblen Umgebungen.」（https://www.ads-tec-iit.com/・1回目）
+  - 「Industrie Box PCs, Industrie Monitore, Industrie Panel PCs – Entdecken Sie die ADS-TEC Industrial IT-Serien und erfahren Sie mehr über die Modellvarianten für den professionellen Einsatz in Industrieumgebungen.」（https://www.ads-tec-iit.com/・1回目）
+  - 「"Advanced System Technologie" – Wir glauben, dass eine vernetzte Zukunft gelingt, wenn Menschen mit Maschinen einfach und sicher interagieren. Dafür sorgen wir mit unseren IIoT-Lösungen, die für den professionellen Einsatz in Industrieumgebungen gemacht sind. Made in Germany, mit langjährigem und innovativem Digital-Know-how und 100% Prozent Entwicklungstiefe.」（https://www.ads-tec-iit.com/・1回目）
+  - 「Professionelle Bediengeräte aus Edelstahl für hygienesensible Bereiche」（https://www.ads-tec-iit.com/・1回目）
+  - 「ADS-TEC Industrial IT präsentiert neue…」（https://www.ads-tec-iit.com/・1回目）
+  - 「2004 gewinnt der „Compact³" den Gold Preis」（https://www.ads-tec-iit.com/・1回目）
+  - 「Duales Studium bei ADS-TEC」（https://www.ads-tec-iit.com/・1回目）
+- 製造業の実績：
+  - 「Industrie Box PCs, Industrie Monitore, Industrie Panel PCs – Entdecken Sie die ADS-TEC Industrial IT-Serien und erfahren Sie mehr über die Modellvarianten für den professionellen Einsatz in Industrieumgebungen.」（https://www.ads-tec-iit.com/・1回目）
+  - 「ADS-TEC Industrial IT präsentiert neue…」（https://www.ads-tec-iit.com/・1回目）
+  - 「NEU! Series 9000 Industrial」（https://www.ads-tec-iit.com/・1回目）
+  - 「Whitepaper Industrial IoT-Cloud-Lösung」（https://www.ads-tec-iit.com/・1回目）
+  - 「Der neue Edelstahl Panel PC SHP9000 von ADS-TEC Industrial IT…」（https://www.ads-tec-iit.com/・1回目）
+  - 「Die innovative Industrial Security Plattform…」（https://www.ads-tec-iit.com/・1回目）
+  - 「ADS-TEC Industrial IT zeigt auf der Hannover Messe seine…」（https://www.ads-tec-iit.com/・1回目）
+  - 「ADS-TEC Industrial IT kooperiert mit der…」（https://www.ads-tec-iit.com/・1回目）
+  - 「ADS-TEC Industrial IT präsentiert neue Industrial Firewall Serie…」（https://www.ads-tec-iit.com/・1回目）
+  - 「Presse - Industrial IT」（https://www.ads-tec-iit.com/unternehmen/pressemitteilungen/article/strategische-partnerschaft-staerkt-ot-security-fuer-kritische-infrastrukturen/・1回目）
+  - 「Die caplon© NDR-/IDS-Probe läuft als Docker-Container direkt auf der Industrial Router Firewall der IRF-Serie. Die Appliance bindet den Standort über LTE und VPN an die zentrale caplon© Instanz an, filtert vor Ort auf Layer-3-Ebene und trennt das Netz in bis zu acht Segmente – ein separates Monitoring-Gerät entfällt.」（https://www.ads-tec-iit.com/unternehmen/pressemitteilungen/article/strategische-partnerschaft-staerkt-ot-security-fuer-kritische-infrastrukturen/・1回目）
+- 創業年度：記載なし（3回確認済み：公式2頁／PDF・画像1件／外部24頁・検索12回）
+- 株主：記載なし（3回確認済み：公式2頁／PDF・画像1件／外部24頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式2頁／PDF・画像1件／外部24頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式2頁／PDF・画像1件／外部24頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式2頁／PDF・画像1件／外部24頁・検索12回）
+- 料金：記載なし（3回確認済み：公式2頁／PDF・画像1件／外部24頁・検索12回）
+- 連絡先：記載なし（3回確認済み：公式2頁／PDF・画像1件／外部24頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式2頁／PDF・画像1件／外部24頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式2頁／PDF・画像1件／外部24頁・検索12回）
+- 規模・親会社：記載なし（3回確認済み：公式2頁／PDF・画像1件／外部24頁・検索12回）
+
+## b+m surface systems GmbH
+- 公式URL：https://www.bm-systems.com/de/（given）
+- 採用・広告の製品：
+  - 「Lackieranlagen für anspruchsvolle Oberflächenqualitäten - b+m surface systems GmbH | DE」（https://www.bm-systems.com/de/・1回目）
+  - 「Zu unseren Produkten & Lösungen」（https://www.bm-systems.com/de/・1回目）
+  - 「Unser Kundendienst unterstützt Sie dabei, die Produktivität und Verfügbarkeit Ihrer Anlagen zu erhalten.」（https://www.bm-systems.com/de/・1回目）
+  - 「Starten Sie Ihre berufliche Zukunft bei b+m. Ausbildung, Studium oder Professional – wir fördern Ihr Talent und Ihren Erfolg.」（https://www.bm-systems.com/de/・1回目）
+  - 「Paint Shop Construction: Simulation Supports Projects from Planning Through Commissioning」（https://www.simplan.de/en/fallstudien/bm-surface-systems-gmbh-digital-factory/・3回目）
+  - 「b+m surface systems GmbH builds paint shops and automated application systems for virtually any painting task. This medium-sized, internationally active company primarily serves the automotive and supplier industries. Manufacturers of commercial vehicles, agricultural machinery, and rail vehicles also use b+m systems for painting.」（https://www.simplan.de/en/fallstudien/bm-surface-systems-gmbh-digital-factory/・3回目）
+  - 「Initial Situation: Increasing Complexity and Time Pressure」（https://www.simplan.de/en/fallstudien/bm-surface-systems-gmbh-digital-factory/・3回目）
+  - 「Customers’ processes are becoming more complex, while project timelines are shrinking. As a result, b+m decided to invest in the digital factory. The goal: higher-quality planning and lower follow-up costs.」（https://www.simplan.de/en/fallstudien/bm-surface-systems-gmbh-digital-factory/・3回目）
+  - 「Together with SimPlan, b+m evaluated and implemented the Plant Simulation program. The goal was to gradually apply event-driven simulation across the entire value chain: from the initial planning steps through detailed planning and commissioning to advising the end customer during ongoing operations.」（https://www.simplan.de/en/fallstudien/bm-surface-systems-gmbh-digital-factory/・3回目）
+  - 「Solution: Material flow simulation from preliminary planning to stress testing」（https://www.simplan.de/en/fallstudien/bm-surface-systems-gmbh-digital-factory/・3回目）
+  - 「Plant Simulation also offers a wide range of options for animating material flow. This provided b+m with an effective tool for presenting and discussing different solution options with the customer.」（https://www.simplan.de/en/fallstudien/bm-surface-systems-gmbh-digital-factory/・3回目）
+  - 「HUGO BOSS: Objectively comparing supplier proposals for a new distribution centre」（https://www.simplan.de/en/fallstudien/bm-surface-systems-gmbh-digital-factory/・3回目）
+- 製造業の実績：
+  - 「Modernisierungen, Ersatzteillieferungen, geplante Wartungseinsätze oder Unterstützung bei Störungen an Ihrer Lackieranlage – das b+m Support-Team steht Ihnen gerne zur Seite.」（https://www.bm-systems.com/de/・1回目）
+  - 「b+m surface systems GmbH: Digital factory - SimPlan AG」（https://www.simplan.de/en/fallstudien/bm-surface-systems-gmbh-digital-factory/・3回目）
+  - 「b+m surface systems GmbH: Digital factory」（https://www.simplan.de/en/fallstudien/bm-surface-systems-gmbh-digital-factory/・3回目）
+  - 「Go to Plant simulation page」（https://www.simplan.de/en/fallstudien/bm-surface-systems-gmbh-digital-factory/・3回目）
+  - 「b+m surface systems GmbH builds paint shops and automated application systems for virtually any painting task. This medium-sized, internationally active company primarily serves the automotive and supplier industries. Manufacturers of commercial vehicles, agricultural machinery, and rail vehicles also use b+m systems for painting.」（https://www.simplan.de/en/fallstudien/bm-surface-systems-gmbh-digital-factory/・3回目）
+  - 「Customers’ processes are becoming more complex, while project timelines are shrinking. As a result, b+m decided to invest in the digital factory. The goal: higher-quality planning and lower follow-up costs.」（https://www.simplan.de/en/fallstudien/bm-surface-systems-gmbh-digital-factory/・3回目）
+  - 「Together with SimPlan, b+m evaluated and implemented the Plant Simulation program. The goal was to gradually apply event-driven simulation across the entire value chain: from the initial planning steps through detailed planning and commissioning to advising the end customer during ongoing operations.」（https://www.simplan.de/en/fallstudien/bm-surface-systems-gmbh-digital-factory/・3回目）
+  - 「Plant Simulation also offers a wide range of options for animating material flow. This provided b+m with an effective tool for presenting and discussing different solution options with the customer.」（https://www.simplan.de/en/fallstudien/bm-surface-systems-gmbh-digital-factory/・3回目）
+  - 「The Digital Factory as a Path to Greater Planning Reliability」（https://www.simplan.de/en/fallstudien/bm-surface-systems-gmbh-digital-factory/・3回目）
+  - 「EDEKA Südwest Fleisch GmbH: warehouse simulation」（https://www.simplan.de/en/fallstudien/bm-surface-systems-gmbh-digital-factory/・3回目）
+  - 「Automotive industry: Validating the detailed planning of a logistics centre through simulation」（https://www.simplan.de/en/fallstudien/bm-surface-systems-gmbh-digital-factory/・3回目）
+  - 「Johann HAY: Simulating the construction of a new plant for large rings in the wind power industry」（https://www.simplan.de/en/fallstudien/bm-surface-systems-gmbh-digital-factory/・3回目）
+- 規模・親会社：
+  - 「Zu unseren Karriereseiten」（https://www.bm-systems.com/de/・1回目）
+- 検索結果の抜粋：
+  - 「b+m surface systems GmbH Eiterfeld (ドイツ) — b+m surface systems GmbH DIN EN ISO 9001:2008 所在地 Meininger Weg 10 36132 Eiterfeld Hessen ドイツ 製造元 グローバル」（https://exportpages.jp/comp/138203・3回目）
+  - 「b+m surface systems GmbH - LinkedIn 日本 — b+m surface systems GmbH | LinkedInのフォロワー数1,817人。We are a leading supplier of fully automated painting plants and paint application systems for surfaces with very high quality standards. We are focussed in special surface quality, coating thickness and the development of specific dosing and application processes. To meet these high quality standards, we dev」（https://jp.linkedin.com/company/bm-surface-systems・3回目）
+  - 「b+m surface systems GmbH | D&B Business Directory | DE — Explore the company profile for b+m surface systems GmbH, including overview, industry, competitors, and key business details from the D&B Business Directory.」（https://www.dnb.com/business-directory/company-profiles/bm-surface-systems-gmbh.89e7d8cdc4c9749238a83083afdfafcf・3回目）
+  - 「b+m surface systems gmbh - Company Profile and Newsb+m surface systems GmbH | LinkedInb+m surface systems GmbH Eiterfeld (ドイツ)b+m surface systems GmbH - RobotToday — b+m surface systems GmbH manufactures automated painting plants and paint application systems. The Company offers pretreatment and cleaning, application, automation, and other related technology ... b+m surface systems GmbH | LinkedIn」（https://www.bloomberg.com/profile/company/0683399D:GR・3回目）
+  - 「b+m surface systems GmbH | LinkedIn — b+m surface systems GmbH | LinkedInのフォロワー数1,790人。We are a leading supplier of fully automated painting plants and paint application systems for surfaces with very high quality standards. We are focussed in special surface quality, coating thickness and the development of specific dosing and application processes. To meet these high quality standards, we develo」（https://jp.linkedin.com/company/bm-surface-systems・3回目）
+  - 「Company Portrait - b+m surface systems GmbH | EN — We design and deliver fully automated paint lines for high-quality surfaces. Collaborating closely with our customers, we optimize design and master engineering to provide turnkey solutions tailored to their needs. As one of the few manufacturers worldwide, our corporate group offers a complete range of in-house technologies for paint application,」（https://www.bm-systems.com/en/company/portrait・3回目）
+  - 「Blusm Surface Systems | Watcob+m surface systems GmbH: Digital factory - SimPlan AGb+m surface systems GmbH: Digital Factory - TOPS Prob+m surface vertraut auf Simulation: Digital Factory - SimPlan AGBlusm Surface Systems - Watco UK — Fresh Paint with Watco The client The B+M Surface Systems GmbH, a supplier of industrial painting installations and automatic application systems, renovated their pr」（https://www.watco.co.uk/help-advice/watco-case-studies/bplusm-surface-systems・3回目）
+  - 「b+m surface systems GmbH: Digital factory - SimPlan AG — b+m surface systems GmbH builds paint shops and automated application systems for virtually any painting task. This medium-sized, internationally active company primarily serves the automotive and supplier industries. Manufacturers of commercial vehicles, agricultural machinery, and rail vehicles also use b+m systems for painting.」（https://www.simplan.de/en/fallstudien/bm-surface-systems-gmbh-digital-factory/・3回目）
+  - 「b+m surface systems GmbH: Digital Factory - TOPS Pro — b+m Surface Systems relies on the digital factory b+m surface systems GmbH is a manufacturer of painting plants and paint application systems for surfaces, and offers customized solutions for almost all requirements. Most customers of this medium-sized, internationally active company are from the automotive and automotive supply industry, but 」（https://www.tops-pro.de/fallstudien/bm-digital-factory/・3回目）
+  - 「b+m surface systems GmbH Information - RocketReachb and m surface system – Company Profile & Market Insights – 2026Company Portrait - b+m surface systems GmbH | ENb+m surface system - Crunchbase Company Profile & Fundingb+m surface - 2026 Company Profile & Competitors - Tracxnb+m surface systems GmbH: Contact Details and Business Profile — b+m surface systems GmbH is a Machinery Manufacturing, Mot」（https://rocketreach.co/bm-surface-systems-gmbh-profile_b6b254eac849b333・3回目）
+  - 「b+m surface system - Crunchbase Company Profile & Fundingb+m surface - 2026 Company Profile & Competitors - Tracxnb+m surface systems GmbH: Contact Details and Business Profile — b+m surface system provides pretreatment, cleaning, painting, application, automation, energy, and environmental technology products. b+m surface - About the company b+m surface is an unfunded company based in Germany, fo」（https://www.crunchbase.com/organization/b-m-surface-system・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像3件／外部26頁・検索12回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像3件／外部26頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像3件／外部26頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像3件／外部26頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像3件／外部26頁・検索12回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像3件／外部26頁・検索12回）
+- 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像3件／外部26頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像3件／外部26頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像3件／外部26頁・検索12回）
+
 ## enginy.ai
 - 公式URL：https://enginy.ai（given）
 - 採用・広告の製品：
@@ -51494,6 +54281,30 @@ JPタワー14F（https://prtimes.jp/main/html/rd/p/000000010.000041324.html・3�
 - 連絡先：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部21頁・検索12回）
 - 製造業の実績：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部21頁・検索12回）
 - 再販・ホワイトラベル：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部21頁・検索12回）
+
+## seolimautomation Co., Ltd.
+- 公式URL：http://www.seolim-auto.com/（search:ddgs:yahoo:seolimautomation）
+- 採用・広告の製品：
+  - 「so properous will your future be.」（http://www.seolim-auto.com/pages/company/intro.php・1回目）
+- 日本の担い手：
+  - 「CANADA SPAIN JAPAN CHINA TAIWAN VIETNAM THAILAND INDIA」（http://www.seolim-auto.com/pages/company/intro.php・1回目）
+- 連絡先：
+  - 「sales@seolim-auto.com」（http://www.seolim-auto.com/・1回目）
+- 検索結果の抜粋：
+  - 「서림오토메이션 SEOLIM AUTOMATION — 서림오토메이션은 정밀 기계 부품과 자동화 솔루션을 제공하며, 고객 맞춤 설계를 지원하는 전문 기업입니다.」（http://www.seolim-auto.com/・3回目）
+  - 「SeolimAutomation — 3D CAD models and 2D drawings download service for Catia Inventor Solidworks SolidEdge ProE NX」（https://seolimautomation.partcommunity.com/・3回目）
+  - 「서림오토메이션 SEOLIM AUTOMATION — FASCO JAPAN 일본 로봇 재킷 메이커 / 기타 FUJI SEIMITSU 일본 유너트 파인유너트 전문 메이커 / 체결부품 그룹 GRAINGER 미국 종합 공구 유통 / 공구 HARD LOCK 일본 풀림 방지 너트 / 체결 그룹 [한국공식대리점] IMAO 일본 지그 하드웨어 / 클램핑 시스템」（http://www.seolim-auto.com/・3回目）
+  - 「SEOLIM AUTOMATION INTRODUCE — COMPANY INTRODUCE CONTACT US, ANYTIME, ANYWHERE ENGLISH trade3@seolim-auto.com 日本語 trade@seolim-auto.com 中國語 trade2@seolim-auto.com www.seolim-auto.com SEOUL Head Office #302, Gi-im Bidg, 228, Gurojungang-ro, Guro-gu, Seoul, Republic of Korea 08205 TEL +82-2-2635-0902 FAX +82-2-2635-0802 ANYANG Branch 1F, 141-2, LS-ro, Dongan-gu, Anyang-si, Gyeonggi-do, Republic of Ko」（https://www.seolim-auto.com/pages/company/english.php・3回目）
+  - 「Seolim Automation Co., Ltd. Company Profile - South Korea ... — 6 days ago · Seolim Automation Co., Ltd. is an enterprise based in South Korea. Its main office is in Seoul. The enterprise currently operates in the Industrial Machinery and Equipment Merchant Wholesalers sector. The company was established on November 04, 2026. It currently has a total number of 21 (estimated) employees. Headquarter」（https://www.emis.cn/php/company-profile/KR/Seolim_Automation_Co_Ltd_en_21672620.html・3回目）
+- 創業年度：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部27頁・検索13回）
+- 株主：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部27頁・検索13回）
+- 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部27頁・検索13回）
+- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部27頁・検索13回）
+- 所在地：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部27頁・検索13回）
+- 料金：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部27頁・検索13回）
+- 製造業の実績：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部27頁・検索13回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部27頁・検索13回）
+- 規模・親会社：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部27頁・検索13回）
 
 ## voiceOne
 - 公式URL：https://voice-one.ai/（given）

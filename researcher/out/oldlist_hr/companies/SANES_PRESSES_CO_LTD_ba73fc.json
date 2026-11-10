@@ -1,0 +1,491 @@
+{
+ "name": "SANES PRESSES CO. LTD.",
+ "aliases": [],
+ "context": "旧営業リスト｜Machine Tools / Production Equipment｜未接触",
+ "researched_at": "2026-11-10T19:16:54.871520+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {},
+ "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "Company - SANES PRESSES Co., Ltd.SANES PRESSES CO., LTD.| Company Profile | CENS.comSANES PRESSES CO., LTD. | CENS.comwww.sanespress.comPrecision Stamping Equipment Company | SENSESANES PRESSES CO. LTD. - maktekfuari.com — SANES Presses Co., Ltd. Sanes Presses established in 1980. As a professional presses maker, Sanes Presses focuses on the developing of various presses and related equipment, suc",
+    "url": "https://www.sanes-press.com/en/company",
+    "pass": 3
+   },
+   {
+    "quote": "SANES PRESSES CO., LTD. | CENS.comwww.sanespress.comPrecision Stamping Equipment Company | SENSESANES PRESSES CO. LTD. - maktekfuari.com — SANES had successfully developed the Japan market in 1985. Asahi Forge Co., Ltd. A famous forging factory in Japan, imported our forging press nine years ago, reassure our quality. SANES successfully developed the first link press set in Taiwan in 1991, which o",
+    "url": "https://www.cens.com/cens/html/en/supplier/supplier_home_1072.html",
+    "pass": 3
+   },
+   {
+    "quote": "SANES PRESSES CO. LTD. - maktekfuari.com — Sanes Presses is a leading manufacturer specializing in high-performance press machinery and integrated manufacturing solutions. We provide comprehensive, customized equipment tailored to meet specific customer requirements, including production line design, factory automation systems, and precision tooling. Fully aware of our responsibility as an industr",
+    "url": "https://www.maktekfuari.com/en/brand/sanes-presses-co-ltd",
+    "pass": 3
+   },
+   {
+    "quote": "SANES PRESSES CO. LTD. - maktekfuari.com — Sanes Presses is a leading manufacturer specializing in high-performance press machinery and integrated manufacturing solutions. We provide comprehensive, customized equipment tailored to meet specific customer requirements, including production line design, factory automation systems, and precision tooling.",
+    "url": "https://www.maktekfuari.com/en/brand/sanes-presses-co-ltd",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "บริษัท ซันไชน์เพรส จำกัด - รับผลิตสิ่งพิมพ์ครบวงจรHTP PRESS Co.,ltd - FacebookZhongshan Shenglong Presses Co., Ltd. - FacebookSunshine Press 1994 Co., Ltd. บริษัท แสงตะวันการพิมพ์ 1994 จำกัดIvan Sanes - FacebookSpeed Press โรงพิมพ์ ผู้ผลิตกล่องกระดาษพิมพ์แบรนด์และสิ่ง ...โรงพิมพ์พีเค PK Press Center | Bangkok Sep 1, 2026 · บริษัท ซันไชน์เพรส จำกัด - รับผลิตสิ่งพิมพ์ครบวงจร รับผลิตงานพิมพ์ กล่องกระ",
+    "url": "https://www.facebook.com/sunshinepress/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.sanes-press.com/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanes-press.com/ja/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2026092/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cens.com/censv1/en/company_profile.jsp?SUP_ID=1072",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanes-press.com/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanes-press.com/en/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mtb2b.tw/en/exhibitors/2062/product",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mtb2b.tw/en/exhibitors/2062/catalog",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanes-press.com/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanes-press.com/en/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cens.com/censv1/en/company_profile.jsp?SUP_ID=1072",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cens.com/cens/html/en/supplier/supplier_home_1072.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanes-press.com/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanes-press.com/en/products/forging-presses",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.abrams.wiki/Sanes-Presses-Co-Ltd/3-wuqSdZZETZtO2EHi_35ldQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mono.ipros.com/en/company/detail/2026092/category/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Value-added_reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanes-press.com/en/products/customization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanes-press.com/en/products/one-point-presses",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dnb.com/business-directory/company-profiles.sanes_presses_co_ltd.a2751fcd9c90ecdc3a2d72bfeaac6dbe.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.emis.com/php/company-profile/TW/Sanes_Presses_Co_Ltd__Sanes_Presses_Co_Ltd__en_7263570.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cens.com/censv1/en/company_profile.jsp?SUP_ID=1072",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanes-press.com/en/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/sunshinepress/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "SANES PRESSES CO. LTD.",
+   "results": [
+    "https://www.sanes-press.com/",
+    "https://www.cens.com/cens/html/en/supplier/supplier_home_1072.html",
+    "https://www.ezb2b.com/eng/c4706-sanes-presses-co-ltd",
+    "https://www.taiwanpavilion-twmt.tw/company/190/sanes-presses-co-ltd",
+    "https://mono.ipros.com/en/company/detail/2026092/",
+    "https://www.sanes-press.com/en/company",
+    "https://www.dnb.com/business-directory/company-profiles.sanes_presses_co_ltd.a2751fcd9c90ecdc3a2d72bfeaac6dbe.html",
+    "https://www.emis.com/php/company-profile/TW/Sanes_Presses_Co_Ltd__Sanes_Presses_Co_Ltd__en_7263570.html",
+    "https://www.findcompany.com.tw/en/SANES+PRESSES+CO.,+LTD."
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "株式会社SANES PRESSES CO. LTD.",
+   "results": [
+    "https://www.sanes-press.com/",
+    "https://mono.ipros.com/en/company/detail/2026092/",
+    "https://www.cens.com/cens/html/en/supplier/supplier_home_1072.html",
+    "https://www.sanes-press.com/ja/company",
+    "https://www.ezb2b.com/eng/c4706-sanes-presses-co-ltd",
+    "https://www.industrysourcing.com/showroom/suppliers/info/105641",
+    "https://www.youtube.com/watch?v=j9txCRUxc9o",
+    "https://sanesu-s.co.jp/",
+    "https://prtimes.jp/main/html/searchrlp/company_id/120345",
+    "https://www.sanes-press.com/en/company"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "SANES PRESSES CO. LTD. 株式会社",
+   "results": [
+    "https://www.sanes-press.com/",
+    "https://mono.ipros.com/en/company/detail/2026092/",
+    "https://www.ezb2b.com/eng/c4706-sanes-presses-co-ltd",
+    "https://www.sanes-press.com/ja/company",
+    "https://www.cens.com/cens/html/en/supplier/supplier_home_1072.html",
+    "https://mono.ipros.com/company/detail/2026092/",
+    "https://www.sanes-press.com/en/privacy",
+    "https://www.shinohara-press.co.jp/",
+    "https://bg.kompass.com/en/c/sanes-presses-co-ltd/tw108677/",
+    "https://www.sanes-press.com/en/company"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "ＳＡＮＥＳ　ＰＲＥＳＳＥＳ　ＣＯ．　ＬＴＤ．",
+   "results": [
+    "https://www.sanes-press.com/",
+    "https://www.cens.com/cens/html/en/supplier/supplier_home_1072.html",
+    "https://www.ezb2b.com/eng/c4706-sanes-presses-co-ltd",
+    "https://www.taiwanpavilion-twmt.tw/company/190/sanes-presses-co-ltd",
+    "https://mono.ipros.com/en/company/detail/2026092/",
+    "https://www.sanes-press.com/en/products",
+    "https://www.findcompany.com.tw/en/SANES+PRESSES+CO.,+LTD.",
+    "https://www.dnb.com/business-directory/company-profiles.sanes_presses_co_ltd.a2751fcd9c90ecdc3a2d72bfeaac6dbe.html",
+    "https://mono.ipros.com/en/company/detail/2026092/category/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "SANESPRESSESCO.LTD.",
+   "results": [
+    "https://www.dnb.com/business-directory/company-profiles.sanes_presses_co_ltd.a2751fcd9c90ecdc3a2d72bfeaac6dbe.html",
+    "https://www.sanes-press.com/",
+    "https://www.sanes-press.com/en/products",
+    "https://www.findcompany.com.tw/en/SANES+PRESSES+CO.,+LTD.",
+    "https://www.sanespress.com/multi-language.html",
+    "https://www.sanespress.com/contact.html",
+    "https://sanes-press.e-book.video/en/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SANES PRESSES CO. LTD. Japan",
+   "results": [
+    "https://www.sanes-press.com/",
+    "https://www.sanes-press.com/en/company",
+    "https://www.cens.com/censv1/en/company_profile.jsp?SUP_ID=1072",
+    "https://www.cens.com/cens/html/en/supplier/supplier_home_1072.html",
+    "https://www.maktekfuari.com/en/brand/sanes-presses-co-ltd",
+    "https://www.sanespress.com/multi-language.html",
+    "https://www.sanespress.com/about-us.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SANES PRESSES CO. LTD. 日本",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "SANES PRESSES CO. LTD. K.K.",
+   "results": [
+    "https://www.sanes-press.com/",
+    "https://www.sanes-press.com/en/company",
+    "https://www.dnb.com/business-directory/company-profiles.sanes_presses_co_ltd.a2751fcd9c90ecdc3a2d72bfeaac6dbe.html",
+    "https://mono.ipros.com/en/company/detail/2026092/",
+    "https://www.emis.com/php/company-profile/TW/Sanes_Presses_Co_Ltd__Sanes_Presses_Co_Ltd__en_7263570.html",
+    "https://mono.ipros.com/en/company/detail/2026092/category/",
+    "https://www.findcompany.com.tw/en/SANES+PRESSES+CO.,+LTD."
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SANES PRESSES CO. LTD. 日本 導入",
+   "results": [
+    "https://www.sanes-press.com/",
+    "https://www.sanes-press.com/ja/company",
+    "https://mono.ipros.com/company/detail/2026092/",
+    "https://www.cens.com/censv1/en/company_profile.jsp?SUP_ID=1072",
+    "https://mono.ipros.com/product/detail/2000064991/",
+    "http://www.sanesu-j.co.jp/facility/",
+    "https://www.sanespress.com/about-us.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SANES PRESSES CO. LTD. 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.sanes-press.com/",
+    "https://www.sanes-press.com/en/contact",
+    "https://www.mtb2b.tw/en/exhibitors/2062/product",
+    "https://www.mtb2b.tw/en/exhibitors/2062/catalog",
+    "https://www.dnb.com/business-directory/company-profiles.sanes_presses_co_ltd.a2751fcd9c90ecdc3a2d72bfeaac6dbe.html",
+    "https://www.sanespress.com/multi-language.html",
+    "https://www.sanespress.com/contact.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SANES PRESSES CO. LTD. Japan",
+   "results": [
+    "https://www.sanes-press.com/",
+    "https://www.sanes-press.com/en/company",
+    "https://www.cens.com/censv1/en/company_profile.jsp?SUP_ID=1072",
+    "https://www.cens.com/cens/html/en/supplier/supplier_home_1072.html",
+    "https://www.maktekfuari.com/en/brand/sanes-presses-co-ltd",
+    "https://www.sanespress.com/multi-language.html",
+    "https://www.sanespress.com/about-us.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SANES PRESSES CO. LTD. manufacturing customer case study",
+   "results": [
+    "https://www.sanes-press.com/",
+    "https://www.sanes-press.com/en/products/forging-presses",
+    "https://en.abrams.wiki/Sanes-Presses-Co-Ltd/3-wuqSdZZETZtO2EHi_35ldQ",
+    "https://mono.ipros.com/en/company/detail/2026092/category/",
+    "https://www.maktekfuari.com/en/brand/sanes-presses-co-ltd",
+    "https://www.sanespress.com/precision-stamping-equipment-manufacturer.html",
+    "https://www.sanespress.com/mechanical-press-technology.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SANES PRESSES CO. LTD. white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://en.wikipedia.org/wiki/Value-added_reseller",
+    "https://www.sanes-press.com/en/products/customization",
+    "https://www.sanes-press.com/en/products/one-point-presses",
+    "https://learn.g2.com/what-is-a-partner-program",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.maktekfuari.com/en/brand/sanes-presses-co-ltd"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SANES PRESSES CO. LTD. founded funding employees revenue",
+   "results": [
+    "https://www.dnb.com/business-directory/company-profiles.sanes_presses_co_ltd.a2751fcd9c90ecdc3a2d72bfeaac6dbe.html",
+    "https://www.emis.com/php/company-profile/TW/Sanes_Presses_Co_Ltd__Sanes_Presses_Co_Ltd__en_7263570.html",
+    "https://www.cens.com/censv1/en/company_profile.jsp?SUP_ID=1072",
+    "https://www.sanes-press.com/en/company",
+    "https://www.sanes-press.com/",
+    "https://www.cens.com/censv1/en/supplier_news.jsp?SUP_ID=1072",
+    "https://www.findcompany.com.tw/en/SANES+PRESSES+CO.,+LTD."
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com SANES PRESSES CO. LTD.",
+   "results": [
+    "https://note.com/asahikigyou/n/nfb0e88093aec?hl=en",
+    "https://note.com/kenhori2",
+    "https://note.com/sitake1010/n/ndc808e9980ce",
+    "https://note.com/kannsou_dustbox/n/n560c8384d4bf",
+    "https://note.com/modern_ferret431/n/n37965c97c3d3",
+    "https://note.com/sanai_bikkuri/n/n57e8e19c4a91",
+    "https://note.com/hardp"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com SANES PRESSES CO. LTD.",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com SANES PRESSES CO. LTD.",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com SANES PRESSES CO. LTD.",
+   "results": [
+    "https://www.facebook.com/sunshinepress/",
+    "https://www.facebook.com/p/HTP-PRESS-Coltd-100064233871656/",
+    "https://www.facebook.com/p/Zhongshan-Shenglong-Presses-Co-Ltd-61577929599889/",
+    "https://www.facebook.com/sunshinepress1994/",
+    "https://www.facebook.com/ivanjsanes/",
+    "https://www.facebook.com/speedpresscompany/",
+    "https://www.facebook.com/pkpresscenter/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SANES PRESSES CO. LTD. note 社長",
+   "results": [
+    "https://www.twincn.com/item.aspx?no=06031395",
+    "https://www.sanes-press.com/",
+    "https://twn.mingluji.com/node/14219",
+    "https://mono.ipros.com/company/detail/2026092/",
+    "https://www.sanes-press.com/ja/company",
+    "https://in.marketscreener.com/insider/SHIH-CHI-CHANG-A1OH6E/",
+    "https://ae.marketscreener.com/insider/SHIH-CHI-CHANG-A1OH6E/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SANES PRESSES CO. LTD. X 投稿",
+   "results": [
+    "https://www.sanes-press.com/",
+    "https://www.sanes-press.com/ja/company",
+    "https://www.timtos.com.tw/en/exhibitor/03C6C65169CF8B976C077895B466B67A7E2C60E7F2CA960E/info.html?vt=company-name&cr=7&cate=S",
+    "https://www.mtb2b.tw/en/exhibitors/2062/catalog",
+    "https://www.dnb.com/business-directory/company-profiles.sanes_presses_co_ltd.a2751fcd9c90ecdc3a2d72bfeaac6dbe.html",
+    "https://www.emis.com/php/company-profile/TW/Sanes_Presses_Co_Ltd__Sanes_Presses_Co_Ltd__en_7263570.html",
+    "https://www.sanespress.com/multi-language.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部25頁・検索20回）",
+  "株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部25頁・検索20回）",
+  "従業員数": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部25頁・検索20回）",
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部25頁・検索20回）",
+  "所在地": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部25頁・検索20回）",
+  "料金": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部25頁・検索20回）",
+  "連絡先": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部25頁・検索20回）",
+  "採用・広告の製品": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部25頁・検索20回）",
+  "製造業の実績": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部25頁・検索20回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部25頁・検索20回）",
+  "日本の担い手": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部25頁・検索20回）",
+  "規模・親会社": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部25頁・検索20回）"
+ }
+}

@@ -1,0 +1,509 @@
+{
+ "name": "ZHEJIANG CHR INTELLIGENT EQUIPMENT CO. LTD.",
+ "aliases": [],
+ "context": "旧営業リスト｜Machine Tools / Production Equipment｜未接触",
+ "researched_at": "2026-11-10T19:21:25.608736+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "As a machine tool equipment supplier for globally renowned automotive parts companies (such as Continental, ZF, etc.), we provide complete equipment for the precision machining of core automotive parts for BMW, Mercedes-Benz, Audi, and other brands.",
+    "url": "https://www.maktekfuari.com/en/brand/zhejiang-chr-intelligent-equipment-co-ltd",
+    "pass": 3
+   },
+   {
+    "quote": "In the home appliance sector, we provide automated machining equipment for companies like Midea.",
+    "url": "https://www.maktekfuari.com/en/brand/zhejiang-chr-intelligent-equipment-co-ltd",
+    "pass": 3
+   },
+   {
+    "quote": "In the field of aircraft engines and gas turbines, we have developed high-performance five-axis and six-axis CNC horizontal and vertical broaching machines for machining compressor discs and turbine discs; and we have designed highly efficient CNC vertical broaching machines for machining blade tenons.",
+    "url": "https://www.maktekfuari.com/en/brand/zhejiang-chr-intelligent-equipment-co-ltd",
+    "pass": 3
+   },
+   {
+    "quote": "The post show report is being prepared and will be available very soon.",
+    "url": "https://www.maktekfuari.com/en/brand/zhejiang-chr-intelligent-equipment-co-ltd",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "As a machine tool equipment supplier for globally renowned automotive parts companies (such as Continental, ZF, etc.), we provide complete equipment for the precision machining of core automotive parts for BMW, Mercedes-Benz, Audi, and other brands.",
+    "url": "https://www.maktekfuari.com/en/brand/zhejiang-chr-intelligent-equipment-co-ltd",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ZHEJIANG CHR INTELLIGENT EQUIPMENT CO. LTD. — Zhejiang CHR Intelligent Equipment Co., Ltd. was established in 2000 and is dedicated to the development of high-end broaching machines, CNC special-purpose machine tools, robotic integration automation, and flexible complete equipment. It is a leading supplier of machine tool equipment in China and internationally advanced.",
+    "url": "https://www.maktekfuari.com/en/brand/zhejiang-chr-intelligent-equipment-co-ltd",
+    "pass": 3
+   },
+   {
+    "quote": "Zhejiang CHR Intelligent Equipment Co.,Ltd. Company Profile ...Broaching machine|Vertical broaching machine|Zhejiang CHR ...会社概要 – CHRオフィシャルWEBサイトHome - ZHEJIANG CHRZHEJIANG CHR INTELLIGENT EQUIPMENT CO. LTD. — Find company research, competitor information, contact details & financial data for Zhejiang CHR Intelligent Equipment Co.,Ltd. of Lishui, Zhejiang. Get the latest business insights from Du",
+    "url": "https://www.dnb.com/business-directory/company-profiles.zhejiang_chr_intelligent_equipment_coltd.c4c40aa62e12a69fe1946d0e4138249c.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.chrmachine.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chrmachine.com/aboutus.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.chrmachine.cn/index.php?lang=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maktekfuari.com/en/brand/zhejiang-chr-intelligent-equipment-co-ltd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chrmachine.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chrmachine.com/aboutus.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.chrmachine.cn/index.php?lang=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dnb.com/business-directory/company-profiles.zhejiang_chr_intelligent_equipment_coltd.c4c40aa62e12a69fe1946d0e4138249c.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chrmachine.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chrmachine.com/aboutus.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dnb.com/business-directory/company-profiles.zhejiang_chr_intelligent_equipment_coltd.c4c40aa62e12a69fe1946d0e4138249c.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "http://www.chrmachine.cn/index.php?lang=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chrmachine.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.chrmachine.cn/index.php?lang=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chrmachine.com/aboutus.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://static.machinetools.com/uploads/4094570/____2020305.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resellercph.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/zhejiang-chr-intelligent-equipment-co-ltd/447950412",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/zhejiang-chr-intelligent-equipment-co-ltd",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chrmachine.com/aboutus.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chrmachine.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ZHEJIANG CHR INTELLIGENT EQUIPMENT CO. LTD.",
+   "results": [
+    "https://www.chr-group.cn/",
+    "http://www.chrmachine.cn/index.php?lang=en",
+    "https://www.machinetools.com/en/companies/422120-zhejiang-chr-intelligent-equipment-co-dot-ltd",
+    "http://www.chrmachine.cn/service/index-en.html",
+    "https://www.zjtxzz.com/",
+    "https://www.chrmachine.com/",
+    "https://www.chrmachine.com/aboutus.html",
+    "https://www.cnverify.com/company/Zhejiang-Chr-Intelligent-Equipment-Co-Ltd",
+    "https://www.dnb.com/business-directory/company-profiles.zhejiang_chr_intelligent_equipment_coltd.c4c40aa62e12a69fe1946d0e4138249c.html",
+    "http://www.chrmachine.cn/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "株式会社ZHEJIANG CHR INTELLIGENT EQUIPMENT CO. LTD.",
+   "results": [
+    "https://www.chr-group.cn/",
+    "https://www.chrmachine.com/prolist-9.html",
+    "https://www.facebook.com/HordaIntelligentEquipment/",
+    "https://www.zjzyd.net/en/",
+    "https://chr-japan.co.jp/about-2/",
+    "https://baike.baidu.com/en/item/Zhejiang%20Jack%20Intelligent%20Equipment%20Co.%2C%20Ltd./7492833",
+    "https://www.kintn.com/en/mobile/aboutus.html",
+    "https://www.rich-sys.com/en/",
+    "https://zoyochair.en.alibaba.com/company_profile.html",
+    "https://www.chrmachine.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "ZHEJIANG CHR INTELLIGENT EQUIPMENT CO. LTD. 株式会社",
+   "results": [
+    "https://www.chr-group.cn/",
+    "https://www.chrmachine.com/prolist-9.html",
+    "https://en.yhjg.com/",
+    "https://www.kintn.com/en/mobile/aboutus.html",
+    "https://www.zjzyd.net/en/",
+    "https://www.rich-sys.com/en/",
+    "https://baike.baidu.com/en/item/Zhejiang%20Jack%20Intelligent%20Equipment%20Co.%2C%20Ltd./7492833",
+    "https://zoyochair.en.alibaba.com/company_profile.html",
+    "http://www.hnzwfj.com/EnAbout.asp?Smenu=About%20Us",
+    "https://www.chrmachine.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "ＺＨＥＪＩＡＮＧ　ＣＨＲ　ＩＮＴＥＬＬＩＧＥＮＴ　ＥＱＵＩＰＭＥＮＴ　ＣＯ．　ＬＴＤ．",
+   "results": [
+    "https://www.chr-group.cn/",
+    "http://www.chrmachine.cn/index.php?lang=en",
+    "https://www.machinetools.com/en/companies/422120-zhejiang-chr-intelligent-equipment-co-dot-ltd",
+    "http://www.chrmachine.cn/service/index-en.html",
+    "https://www.zjtxzz.com/",
+    "https://en.zjmrjc.com/",
+    "https://www.chrmachine.com/",
+    "https://www.chrmachine.com/aboutus.html",
+    "https://www.dnb.com/business-directory/company-profiles.zhejiang_chr_intelligent_equipment_coltd.c4c40aa62e12a69fe1946d0e4138249c.html",
+    "http://www.chrmachine.cn/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "ZHEJIANGCHRINTELLIGENTEQUIPMENTCO.LTD.",
+   "results": [
+    "https://www.chrmachine.com/",
+    "https://www.chrmachine.com/aboutus.html",
+    "https://www.dnb.com/business-directory/company-profiles.zhejiang_chr_intelligent_equipment_coltd.c4c40aa62e12a69fe1946d0e4138249c.html",
+    "https://www.cnverify.com/company/Zhejiang-Chr-Intelligent-Equipment-Co-Ltd",
+    "http://www.ervtour.org/contact.html",
+    "http://www.chrmachine.cn/index-en.html",
+    "https://hs.bianmachaxun.com/qcc_company/details/861690"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ZHEJIANG CHR INTELLIGENT EQUIPMENT CO. LTD. Japan",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "ZHEJIANG CHR INTELLIGENT EQUIPMENT CO. LTD. 日本",
+   "results": [
+    "https://www.chrmachine.com/",
+    "https://www.chrmachine.com/aboutus.html",
+    "http://www.chrmachine.cn/index.php?lang=en",
+    "https://www.maktekfuari.com/en/brand/zhejiang-chr-intelligent-equipment-co-ltd",
+    "https://www.dnb.com/business-directory/company-profiles.zhejiang_chr_intelligent_equipment_coltd.c4c40aa62e12a69fe1946d0e4138249c.html",
+    "https://chr-japan.co.jp/about-2/",
+    "http://www.chrmachine.cn/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ZHEJIANG CHR INTELLIGENT EQUIPMENT CO. LTD. K.K.",
+   "results": [
+    "https://www.chrmachine.com/",
+    "http://www.chrmachine.cn/index.php?lang=en",
+    "https://www.chrmachine.com/aboutus.html",
+    "https://www.dnb.com/business-directory/company-profiles.zhejiang_chr_intelligent_equipment_coltd.c4c40aa62e12a69fe1946d0e4138249c.html",
+    "https://en.industryarena.com/chr-intelligent-equipment",
+    "https://www.cnverify.com/company/Zhejiang-Chr-Intelligent-Equipment-Co-Ltd",
+    "http://www.chrmachine.cn/contact/index-en.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ZHEJIANG CHR INTELLIGENT EQUIPMENT CO. LTD. 日本 導入",
+   "results": [
+    "https://www.chrmachine.com/",
+    "https://www.chrmachine.com/aboutus.html",
+    "http://www.chrmachine.cn/index.php?lang=en",
+    "https://www.maktekfuari.com/en/brand/zhejiang-chr-intelligent-equipment-co-ltd",
+    "https://chr-japan.co.jp/about-2/",
+    "https://chr-japan.co.jp/",
+    "http://www.chrmachine.cn/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ZHEJIANG CHR INTELLIGENT EQUIPMENT CO. LTD. 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.chrmachine.com/",
+    "https://www.chrmachine.com/aboutus.html",
+    "http://www.chrmachine.cn/index.php?lang=en",
+    "https://www.dnb.com/business-directory/company-profiles.zhejiang_chr_intelligent_equipment_coltd.c4c40aa62e12a69fe1946d0e4138249c.html",
+    "https://www.cnverify.com/company/Zhejiang-Chr-Intelligent-Equipment-Co-Ltd",
+    "https://tppgodo.net/set-up-company-for-foreigner-in-japan/",
+    "https://us.metoree.com/companies/146834/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ZHEJIANG CHR INTELLIGENT EQUIPMENT CO. LTD. Japan",
+   "results": [
+    "https://www.chrmachine.com/",
+    "https://www.chrmachine.com/aboutus.html",
+    "https://www.dnb.com/business-directory/company-profiles.zhejiang_chr_intelligent_equipment_coltd.c4c40aa62e12a69fe1946d0e4138249c.html",
+    "http://www.chrmachine.cn/index.php?lang=en",
+    "https://en.industryarena.com/chr-intelligent-equipment",
+    "https://www.maktekfuari.com/en/brand/zhejiang-chr-intelligent-equipment-co-ltd",
+    "https://chr-japan.co.jp/about-2/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ZHEJIANG CHR INTELLIGENT EQUIPMENT CO. LTD. manufacturing customer case study",
+   "results": [
+    "https://www.chrmachine.com/",
+    "http://www.chrmachine.cn/index.php?lang=en",
+    "https://www.chrmachine.com/aboutus.html",
+    "https://static.machinetools.com/uploads/4094570/____2020305.pdf",
+    "https://www.machinetools.com/en/companies/422120-zhejiang-chr-intelligent-equipment-co-dot-ltd",
+    "http://www.chrmachine.cn/about/238-en.html",
+    "http://www.ezhejiang.gov.cn/lishui/2020-09/16/c_537315.htm"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ZHEJIANG CHR INTELLIGENT EQUIPMENT CO. LTD. white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://resellercph.com/",
+    "https://reseller.amazon.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.superantispyware.com/reseller-program"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ZHEJIANG CHR INTELLIGENT EQUIPMENT CO. LTD. founded funding employees revenue",
+   "results": [
+    "https://www.zoominfo.com/c/zhejiang-chr-intelligent-equipment-co-ltd/447950412",
+    "https://www.crunchbase.com/organization/zhejiang-chr-intelligent-equipment-co-ltd",
+    "https://www.chrmachine.com/aboutus.html",
+    "https://www.chrmachine.com/",
+    "https://www.dnb.com/business-directory/company-profiles.zhejiang_chr_intelligent_equipment_coltd.c4c40aa62e12a69fe1946d0e4138249c.html",
+    "https://www.info-clipper.com/en/company/china/zhejiang-chr-intelligent-equipment-coltd.cnd8zxus2.html",
+    "https://www.qcc.com/firm/6a1ed931dce5ff9533537a712e317dfb.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com ZHEJIANG CHR INTELLIGENT EQUIPMENT CO. LTD.",
+   "results": [
+    "https://note.com/tag/有明高校",
+    "https://note.com/y121516/n/nf90b26e957ab",
+    "https://note.com/tag/ゴジラ‑0.0",
+    "https://note.com/actress_list",
+    "https://note.com/feles_nigra/n/n7e48044b4b45",
+    "https://note.com/beloved_tomoka/n/ndb74805fb7e7",
+    "https://note.com/cool_lilac7428/n/n0ce7705a5fc6"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ZHEJIANG CHR INTELLIGENT EQUIPMENT CO. LTD.",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com ZHEJIANG CHR INTELLIGENT EQUIPMENT CO. LTD.",
+   "results": [
+    "https://cn.linkedin.com/company/zhejiang-changxing-heliang-intelligent-equipment-co-ltd",
+    "https://www.linkedin.com/company/zhejiang-kintn-intelligent-equipment-co-ltd",
+    "https://cn.linkedin.com/company/zhejiang-new-yuhong-intelligent-equipment-co-ltd",
+    "https://www.linkedin.com/company/浙江众舟智能装备有限公司",
+    "https://hk.linkedin.com/in/ying-ji-6a36852a8",
+    "https://uk.linkedin.com/in/paul-neville-06b70312",
+    "https://sg.linkedin.com/company/damonroller"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com ZHEJIANG CHR INTELLIGENT EQUIPMENT CO. LTD.",
+   "results": [
+    "https://www.facebook.com/p/Zhejiang-Changxing-Heliang-Intelligent-Equipment-CoLtd-100084485234851/",
+    "https://www.facebook.com/p/Zhejiang-Shengyu-Intelligent-Equipment-Co-Ltd-61559230414495/",
+    "https://www.facebook.com/profile.php/?id=61556858057172",
+    "https://www.facebook.com/p/Zhejiang-Dinuo-Intelligent-Equipment-Co-LTD-100088104183003/",
+    "https://www.facebook.com/61558677903640/",
+    "https://www.facebook.com/zihongpriting/",
+    "https://www.facebook.com/p/Zhejiang-Junyao-Intelligent-Equipment-CoLTD-100087996295763/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ZHEJIANG CHR INTELLIGENT EQUIPMENT CO. LTD. note 社長",
+   "results": [
+    "https://www.dnb.com/business-directory/company-profiles.zhejiang_chr_intelligent_equipment_coltd.c4c40aa62e12a69fe1946d0e4138249c.html",
+    "https://www.cnverify.com/company/Zhejiang-Chr-Intelligent-Equipment-Co-Ltd",
+    "https://www.chrmachine.com/",
+    "https://www.chrmachine.com/aboutus.html",
+    "https://www.info-clipper.com/en/company/china/zhejiang-chr-intelligent-equipment-coltd.cnd8zxus2.html",
+    "https://hs.bianmachaxun.com/qcc_company/details/861690",
+    "https://www.qcc.com/firm/6a1ed931dce5ff9533537a712e317dfb.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ZHEJIANG CHR INTELLIGENT EQUIPMENT CO. LTD. X 投稿",
+   "results": [
+    "https://www.chrmachine.com/",
+    "http://www.chrmachine.cn/index.php?lang=en",
+    "https://chrmachine.com/03/index.html",
+    "https://www.dnb.com/business-directory/company-profiles.zhejiang_chr_intelligent_equipment_coltd.c4c40aa62e12a69fe1946d0e4138249c.html",
+    "https://www.maktekfuari.com/en/brand/zhejiang-chr-intelligent-equipment-co-ltd",
+    "http://www.chrmachine.cn/",
+    "https://www.qcc.com/firm/6a1ed931dce5ff9533537a712e317dfb.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "従業員数": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "所在地": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "料金": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "連絡先": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "日本の担い手": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "規模・親会社": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）"
+ }
+}

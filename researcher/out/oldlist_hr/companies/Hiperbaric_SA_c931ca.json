@@ -1,0 +1,362 @@
+{
+ "name": "Hiperbaric SA",
+ "aliases": [],
+ "context": "旧営業リスト｜High-pressure processing｜未接触",
+ "researched_at": "2026-11-10T19:49:38.973239+00:00",
+ "official_url": "https://formnext.mesago.com/frankfurt/en/exhibitor-search.html",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Formnext preparations",
+    "url": "https://formnext.mesago.com/frankfurt/en/exhibitor-search.html",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "AM Directory – Additive Manufacturing Suppliers & Exhibitors",
+    "url": "https://formnext.mesago.com/frankfurt/en/exhibitor-search.html",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://formnext.mesago.com/frankfurt/en/exhibitor-search.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://formnext.mesago.com/content/dam/messefrankfurt-mesago/general/logos/Mesago-Logo200_200.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.scamadviser.com/articles/state-farm-dividend-check-payment-scam-or-legit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nolo.com/legal-encyclopedia/is-your-state-farm-dividend-email-or-check-legitimate.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://malwaretips.com/blogs/state-farm-dividend-scam-fake-payout-portal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aol.com/articles/state-farm-dividend-email-legit-162152000.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.hotelpuntaleona.com/perfil-socio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.hotelpuntaleona.com/welcome",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://guest.hotelpuntaleona.com/es/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://guest.hotelpuntaleona.com/es/home?p_p_id=com_liferay_login_web_portlet_LoginPortlet&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&saveLastPath=false&_com_liferay_login_web_portlet_LoginPortlet_mvcRenderCommandName=%2Flogin%2Flogin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tripadvisor.com/HotelsNear-g55229-d23568931-First_Horizon_Park-Nashville_Davidson_County_Tennessee.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hotels.com/de1646789/hotels-near-greensboro-coliseum-greensboro-united-states-of-america/",
+    "status": "http_429",
+    "method": "http"
+   },
+   {
+    "url": "https://www.expedia.com/First-Horizon-Coliseum-Hotels.0-l6066227-0.Travel-Guide-Filter-Hotels",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://hotelguides.com/tennessee/first-horizon-park-hotels.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.homes.com/real-estate-agents/ka-zoua-vang/51qjsyn/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.findglocal.com/US/White-Bear-Lake/161374914559014/Home-Guide-Realty",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://hmong.network/biz/home-guide-realty-real-estate-broker-minnesota",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.facebook.com/maitherealtor/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/cumsluts/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/18nsfw/about/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/nsfw2/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/nsfw/top/?t=all",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Hiperbaric SA 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Hiperbaric SA 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.scamadviser.com/articles/state-farm-dividend-check-payment-scam-or-legit",
+    "https://www.nolo.com/legal-encyclopedia/is-your-state-farm-dividend-email-or-check-legitimate.html",
+    "https://malwaretips.com/blogs/state-farm-dividend-scam-fake-payout-portal/",
+    "https://www.aol.com/articles/state-farm-dividend-email-legit-162152000.html",
+    "https://getcarefull.com/articles/state-farm-dividend-emails-real-or-fake-both",
+    "https://newsroom.statefarm.com/state-farm-mutual-begins-issuing-dividend-payments/",
+    "https://www.techtimes.com/articles/325036/20260819/state-farm-dividend-checks-now-arriving-how-claim-yours-before-scammers-do.htm"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hiperbaric SA Japan",
+   "results": [
+    "https://partners.hotelpuntaleona.com/perfil-socio",
+    "https://partners.hotelpuntaleona.com/welcome",
+    "https://guest.hotelpuntaleona.com/es/",
+    "https://guest.hotelpuntaleona.com/es/c/portal/login",
+    "https://landing.hotelpuntaleona.com/es/promoarrecifes-abril2022",
+    "https://landing.hotelpuntaleona.com/es/promohomerental-feb2022",
+    "https://concierge.hotelpuntaleona.com/home",
+    "https://concierge.hotelpuntaleona.com/es/actualizar-invitacion",
+    "https://partners.hotelpuntaleona.com/tutorial-portal-de-socios",
+    "https://guest.hotelpuntaleona.com/es/online-check-in"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "Hiperbaric SA manufacturing customer case study",
+   "results": [
+    "https://www.tripadvisor.com/HotelsNear-g55229-d23568931-First_Horizon_Park-Nashville_Davidson_County_Tennessee.html",
+    "https://www.hotels.com/de1646789/hotels-near-greensboro-coliseum-greensboro-united-states-of-america/",
+    "https://www.expedia.com/First-Horizon-Coliseum-Hotels.0-l6066227-0.Travel-Guide-Filter-Hotels",
+    "https://hotelguides.com/tennessee/first-horizon-park-hotels.html",
+    "https://www.tripadvisor.com/HotelsNear-g60845-d3905564-Greensboro_Complex-Greensboro_North_Carolina.html",
+    "https://www.expedia.com/First-Horizon-Park-Hotels.0-l685748247875239936-0.Travel-Guide-Filter-Hotels",
+    "https://ms.hotels.com/en/de1646789/hotels-near-greensboro-coliseum-greensboro-united-states-of-america/",
+    "https://www.proximityhotel.com/sports-and-coliseum-events/",
+    "https://www.horizonhotelgroup.com/",
+    "https://www.concerthotels.com/venue-hotels/first-horizon-park-hotels/332934"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "Hiperbaric SA white label OR reseller OR partner program",
+   "results": [
+    "https://www.homes.com/real-estate-agents/ka-zoua-vang/51qjsyn/",
+    "https://www.findglocal.com/US/White-Bear-Lake/161374914559014/Home-Guide-Realty",
+    "https://hmong.network/biz/home-guide-realty-real-estate-broker-minnesota",
+    "https://www.facebook.com/maitherealtor/",
+    "https://www.homeguiderealty.com/fine/real/estate/contact",
+    "https://www.realty.com/office/802895/home_guide_realty_llc",
+    "https://www.homeguiderealty.com/fine/real/estate/saved",
+    "https://www.microsoft.com/en-us/",
+    "https://support.microsoft.com/fr-be/contactus/",
+    "https://support.microsoft.com/en-us/sharepoint/platform/what-is-sharepoint"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 23
+  },
+  {
+   "query": "Hiperbaric SA founded funding employees revenue",
+   "results": [
+    "https://www.reddit.com/r/cumsluts/",
+    "https://www.reddit.com/r/18nsfw/about/",
+    "https://www.reddit.com/r/nsfw2/",
+    "https://www.reddit.com/r/nsfw/top/?t=all",
+    "https://www.reddit.com/r/WatchItForThePlot/",
+    "https://www.reddit.com/r/OldSchoolCoolNSFW/",
+    "https://www.reddit.com/r/copypasta/comments/brypgf/a_list_of_nsfw_subreddits_for_all_of_you/",
+    "https://www.reddit.com/r/omgbeckylookathiscock/",
+    "https://www.reddit.com/r/celebsnaked/",
+    "https://www.reddit.com/r/NSFW_WIKI/about/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "site:note.com Hiperbaric SA",
+   "results": [
+    "https://www.city-data.com/forum/connecticut/2834187-bobs-furniture-ct-2.html",
+    "https://www.city-data.com/forum/connecticut/2834187-bobs-furniture-ct.html",
+    "https://www.city-data.com/forum/long-island/1003904-how-does-furniture-bobs-discount-furniture.html",
+    "https://www.city-data.com/forum/home-interior-design-decorating/1213144-bobs-furniture.html",
+    "https://www.city-data.com/city/Foley-Alabama.html",
+    "https://www.city-data.com/city/Orlando-Florida.html",
+    "https://www.city-data.com/forum/long-island/1003904-how-does-furniture-bobs-discount-furniture-8.html",
+    "https://www.city-data.com/city/Chanute-Kansas.html",
+    "https://www.city-data.com/city/Kennewick-Washington.html",
+    "https://www.city-data.com/city/Akron-Ohio.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "site:x.com Hiperbaric SA",
+   "results": [
+    "https://stackoverflow.com/questions/9187419/how-to-embed-a-facebook-pages-feed-into-my-website",
+    "https://stackoverflow.com/questions/20301025/facebook-key-hash-does-not-match-any-stored-key-hashes",
+    "https://www.facebook.com/",
+    "https://stackoverflow.com/questions/5023602/facebook-share-link-can-you-customize-the-message-body-text",
+    "https://stackoverflow.com/questions/31399122/how-to-access-storage-emulated-0",
+    "https://stackoverflow.com/questions/5234651/find-facebook-user-url-to-profile-page-by-known-email-address",
+    "https://stackoverflow.com/questions/4810803/open-facebook-page-from-android-app",
+    "https://stackoverflow.com/questions/29429296/responsive-width-facebook-page-plugin",
+    "https://stackoverflow.com/questions/2289712/where-do-i-find-api-key-and-api-secret-for-facebook",
+    "https://stackoverflow.com/questions/23674131/android-facebook-integration-with-invalid-key-hash"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "site:linkedin.com Hiperbaric SA",
+   "results": [
+    "https://www.canva.com/login/",
+    "https://www.canva.com/pt_br/login/",
+    "https://www.canva.com/it_it/login/",
+    "https://www.canva.com/de_de/login/",
+    "https://www.canva.com/",
+    "https://www.canva.com/fi_fi/login/",
+    "https://www.canva.com/sv_se/login/",
+    "https://www.canva.com/th_th/login/",
+    "https://www.canva.com/id_id/login/",
+    "https://www.canva.com/ja_jp/login/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "site:facebook.com Hiperbaric SA",
+   "results": [
+    "https://www.google.com/chrome/index.html",
+    "https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform=Desktop",
+    "https://support.google.com/chrome/answer/95346?hl=nl&co=GENIE.Platform=Desktop",
+    "https://support.google.com/chrome/answer/95346?hl=tr&co=GENIE.Platform=Desktop",
+    "https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform=Android",
+    "https://support.google.com/chrome/answer/95346?hl=ja&co=GENIE.Platform=Desktop",
+    "https://support.google.com/",
+    "https://support.google.com/chrome/answer/95346?hl=es&co=GENIE.Platform=Desktop",
+    "https://support.google.com/chrome/?hl=ar",
+    "https://support.google.com/chrome/answer/95346?hl=pt&co=GENIE.Platform=Desktop"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "Hiperbaric SA note 社長",
+   "results": [
+    "https://translate.google.com/",
+    "https://translate.google.com/details",
+    "https://translate.google.com/about/",
+    "https://translate.google.com/websitetranslationui",
+    "https://translate.google.com/intl/es-419/about/",
+    "https://translate.google.com/intl/es/about/",
+    "https://translate.google.com/intl/am/about/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hiperbaric SA X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部20頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部20頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部20頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部20頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部20頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部20頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部20頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部20頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部20頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部20頁・検索12回）"
+ }
+}

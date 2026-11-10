@@ -1,0 +1,1140 @@
+{
+ "name": "株式会社エクサ",
+ "aliases": [],
+ "context": "PBF=yes 装置=日本電子 出典=https://digital-business.exa-corp.co.jp/cases/pim-jeol.html",
+ "researched_at": "2026-11-10T19:11:48.694441+00:00",
+ "official_url": "https://www.exa-corp.co.jp/",
+ "identified_by": "search:yahoo_jp:エクサ",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒220-8560 神奈川県横浜市西区みなとみらい4-4-5 横浜アイマークプレイス2階 アクセス情報はこちら",
+    "url": "https://www.exa-corp.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒060-0001　札幌市中央区北1条西7丁目1　CARP札幌ビル4F",
+    "url": "https://www.exa-corp.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "本社 所在地",
+    "value": "日本 〒 220-8560 神奈川県 横浜市 西区 みなとみらい 4-4-5 横浜アイマークプレイス 2階",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%B5_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "label": "本社郵便番号",
+    "value": "220-8560",
+    "url": "https://job.mynavi.jp/27/pc/search/corp38995/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "神奈川県横浜市西区みなとみらい4丁目4番5号　横浜アイマークプレイス2階",
+    "url": "https://job.mynavi.jp/27/pc/search/corp38995/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社電話番号",
+    "value": "0120-314-195（応募者専用フリーダイヤル）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp38995/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "神奈川県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp38995/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "新潟県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp38995/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "愛知県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp38995/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都",
+    "url": "https://job.mynavi.jp/27/pc/search/corp38995/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "神奈川県、静岡県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp38995/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都、福井県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp38995/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "岡山県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp38995/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "熊本県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp38995/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社郵便番号",
+    "value": "220-8560",
+    "url": "https://www.onecareer.jp/companies/52072",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "神奈川県横浜市西区みなとみらい4-4-5 　横浜アイマークプレイス2階",
+    "url": "https://www.onecareer.jp/companies/52072",
+    "pass": 3
+   },
+   {
+    "label": "本社電話番号",
+    "value": "045-212-5180",
+    "url": "https://www.onecareer.jp/companies/52072",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "神奈川県",
+    "url": "https://www.onecareer.jp/companies/52072",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立年月日",
+    "value": "設立年月日：1987年（昭和62年）10月1日",
+    "url": "https://www.exa-corp.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1974年（昭和49年）7月",
+    "url": "https://www.exa-corp.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1987年 10月1日",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%B5_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1987年10月",
+    "url": "https://job.mynavi.jp/27/pc/search/corp38995/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1987年10月1日",
+    "url": "https://www.onecareer.jp/companies/52072",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1,250百万円",
+    "url": "https://www.exa-corp.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "10百万円（100%（株）エクサ出資）",
+    "url": "https://www.exa-corp.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "12億5,000万円",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%B5_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "12億5,000万円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp38995/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "1,250百万円",
+    "url": "https://www.onecareer.jp/companies/52072",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "株主",
+    "value": "キンドリルジャパン 51％　JFEスチール 49％",
+    "url": "https://www.exa-corp.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "主要 株主",
+    "value": "キンドリルジャパン (51%) JFEスチール (49%)",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%B5_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "label": "株主構成",
+    "value": "■キンドリルジャパン(株)　51% ■JFEスチール(株)　49%",
+    "url": "https://job.mynavi.jp/27/pc/search/corp38995/outline.html",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "34,403百万円（2026年3月期）",
+    "url": "https://www.exa-corp.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "344億300万円 （2026年3月期） [ 1 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%B5_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "340億4200万円　（2025年3月期）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp38995/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "340億4200万円（2025年3月期）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp38995/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "340億4200万円　（2025年3月期）",
+    "url": "https://www.onecareer.jp/companies/52072",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "340億4200万円 （2025年3月期）",
+    "url": "https://www.onecareer.jp/companies/52072",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "1,311名（2026/4/1時点）",
+    "url": "https://www.exa-corp.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "1,256名 （ 2022年 4月 ）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%B5_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "label": "従業員",
+    "value": "1272名（男977名 女295名）(2025年12月1日現在)",
+    "url": "https://job.mynavi.jp/27/pc/search/corp38995/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "1,311名（2026/4/1時点）",
+    "url": "https://www.onecareer.jp/companies/52072",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "業務改善、構想策定等のシステム全般に関するコンサルティング 情報システムに関する企画・設計・開発・構築・運用・保守 ソフトウェア及びハードウェアの開発、販売及びサービス提供 情報システムに関するアウトソーシング及びクラウドサービスの提供",
+    "url": "https://www.exa-corp.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "ソフトウェア、システムの開発・販売",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%B5_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "○業務改善、構想策定等のシステム全般に関するコンサルティング ○情報システムに関する企画・設計・開発・構築・運用・保守 ○ソフトウェア及びハードウェアの開発、販売及びサービス提供 ○情報システムに関するアウトソーシング及びクラウドサービスの提供 ◇主なフィールド ■金融業界（銀行・証券・生命保険・損害保険・カード　等） ■製造業界（各メーカー：鉄鋼・プラント・造船・自動車・家電・自動車部品・食品　等） ■流通・運輸・サービス業界（百貨店・物流・旅行・交通航空・ポータルサイト業　等） ■公共分野（中央官庁・地方自治体） ■公益分野（電気・通信・ガス・医療等） ◇ソリューション＆サービス ■クラウドサービス ■統合決済ソリューション ■セキュリティソリューション ■ERPソリューション ■PLMソリューション ■SCMソリューション ■デジタルマーケティングソリューション ■基盤（ICT）ソリューション ■海洋・環境エンジニアリング ■設備／資産管理（環境）、保守サービス管理　等 私たちは、長年にわたるSIerとしての経験で培った5つの力で、お客様のビジネス課題と目的にジャストフィットする",
+    "url": "https://job.mynavi.jp/27/pc/search/corp38995/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "事業概要",
+    "value": "業務改善、構想策定等のシステム全般に関するコンサルティング/情報システムに関する企画・設計・開発・構築・運用・保守/ソフト及びハードウェアの開発、販売及びサービス提供/情報システムに関するアウトソーシング及びクラウドサービスの提供",
+    "url": "https://www.onecareer.jp/companies/52072",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "IDaaS（Identity as a Service）導入のベストプラクティス",
+    "url": "https://www.exa-corp.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "日立ハイテク、グローバルでのCX向上と事業拡大を見据え、「Centric PXM」の導入パートナーにエクサを選定",
+    "url": "https://www.exa-corp.co.jp/news/2026/",
+    "pass": 1
+   },
+   {
+    "quote": "エクサ、中堅製造業向けにSAP S/4HANA® Cloudのライセンス販売から導入・活用までを一体で提供開始",
+    "url": "https://www.exa-corp.co.jp/news/2026/",
+    "pass": 1
+   },
+   {
+    "quote": "日本アイ・ビー・エム株式会社保有の株式（51％）をキンドリルジャパン株式会社に譲渡・異動",
+    "url": "https://www.exa-corp.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "IDaaS（Identity as a Service）導入のベストプラクティス",
+    "url": "https://www.exa-corp.co.jp/solutions/index.html?search-tag=%E8%A8%AD%E5%82%99%E3%83%BB%E8%B3%87%E7%94%A3%E7%AE%A1%E7%90%86",
+    "pass": 1
+   },
+   {
+    "quote": "会計や人事などのERPに関わるソリューションと個別原価管理を提供し、経営の意思決定スピードを向上させるため、導入から導入後のフォローまで幅広くご支援しています",
+    "url": "https://www.exa-corp.co.jp/company/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "エクサは、旧NKK（日本鋼管）造船部門の流れを汲む共創型サービスインテグレータとして深い造船設計知識を保有しています",
+    "url": "https://www.exa-corp.co.jp/company/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "先進的なIT活用の企画から導入、運用・保守に至る、情報システムのライフサイクル全般をご支援しています",
+    "url": "https://www.exa-corp.co.jp/company/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "その一環として、社員が異業種の現場で実際の課題解決に挑戦する「複業留学」を導入しています",
+    "url": "https://www.exa-corp.co.jp/news/004670.html",
+    "pass": 1
+   },
+   {
+    "quote": "（平成15年）4月 - NKK保有株（49%）をJFEスチールが承継",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%B5_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "4年）2月 - 日本アイ・ビー・エム株式会社の保有株式（51%）を",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%B5_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "コンピュータシステムの導入及び運営・管理の受託",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%B5_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "エクサの筆頭株主はキンドリルジャパンに ～日本IBMの全保有株式（51％）を譲受",
+    "url": "https://www.imagazine.co.jp/exa-kyndryl/",
+    "pass": 3
+   },
+   {
+    "quote": "エクサ、キンドリルジャパン、JFEスチール、日本IBMの4社は2月1日、日本IBMが保有するエクサの株式51％のすべてをキンドリルジャパンに譲渡したことを発表した",
+    "url": "https://www.imagazine.co.jp/exa-kyndryl/",
+    "pass": 3
+   },
+   {
+    "quote": "49％を保有するJFEスチールの位置づけに変更はない",
+    "url": "https://www.imagazine.co.jp/exa-kyndryl/",
+    "pass": 3
+   },
+   {
+    "quote": "エクサ株をキンドリルジャパンに譲渡した日本IBMは、エクサのほかに、以下の共同出資会社の株式を50％以上保有する",
+    "url": "https://www.imagazine.co.jp/exa-kyndryl/",
+    "pass": 3
+   },
+   {
+    "quote": "NTTインテグレーション、IBM Spyreを活用したAI導入検証サービス「Spyreトライアルサービス」を提供開始 ～実機環境でのAI推論・RAG検証を通じ、Power環境におけるAI導入を支援～",
+    "url": "https://www.imagazine.co.jp/exa-kyndryl/",
+    "pass": 3
+   },
+   {
+    "quote": "NKK保有株（49％）をJFEスチールが承継",
+    "url": "https://job.mynavi.jp/27/pc/search/corp38995/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本アイ・ビー・エム(株)保有の株式（51％）をキンドリルジャパン(株)に譲渡・異動",
+    "url": "https://job.mynavi.jp/27/pc/search/corp38995/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIの導入支援やプロダクト開発を通じて、企業の業務変革を推進しています",
+    "url": "https://note.com/tag/%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%A6%E3%82%A3%E3%82%B6%E3%83%BC%E3%82%BA",
+    "pass": 3
+   },
+   {
+    "quote": "✨企業専用の閉じた環境で動く「クローズドAIエージェント」の導入を検討して🏭見えてきた機密情報の取り扱いルールと安全に使うための勘所",
+    "url": "https://note.com/tag/%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%A6%E3%82%A3%E3%82%B6%E3%83%BC%E3%82%BA",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "エクサ、ハイテク・産業機械・素材／自動車サプライヤー／工事・プラントエンジニアリングの3業種に対応したSAP® Cloud ERP テンプレート「EMSA™（エムサ）」を提供開始",
+    "url": "https://www.exa-corp.co.jp/news/2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年の本社移転の際、移転先選定の重要事項として環境配慮をあげ、100%再生エネルギーで運営する現本社ビルへの移転を決めました",
+    "url": "https://www.exa-corp.co.jp/company/number.html",
+    "pass": 1
+   },
+   {
+    "quote": "■製造業界（各メーカー：鉄鋼・プラント・造船・自動車・家電・自動車部品・食品 等）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp38995/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "■流通・運輸・サービス業界（百貨店・物流・旅行・交通航空・ポータルサイト業 等）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp38995/outline.html",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "10百万円（100%（株）エクサ出資）",
+    "url": "https://www.exa-corp.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ブリッジを完全子会社化（株式100%取得）",
+    "url": "https://www.exa-corp.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "（平成13年）7月 - 日本IBMが出資比率をアップ （51%）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%B5_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "【資本金】12億5,000万円",
+    "url": "https://www.bizreach.jp/companies/22448/",
+    "pass": 3
+   },
+   {
+    "quote": "エクサの筆頭株主はキンドリルジャパンに ～日本IBMの全保有株式（51％）を譲受",
+    "url": "https://www.imagazine.co.jp/exa-kyndryl/",
+    "pass": 3
+   },
+   {
+    "quote": "エクサは現在、資本金12億5000万円、売上高312億3400万円（2020年度）、従業員1234名（2022年1月）",
+    "url": "https://www.imagazine.co.jp/exa-kyndryl/",
+    "pass": 3
+   },
+   {
+    "quote": "エクサ株をキンドリルジャパンに譲渡した日本IBMは、エクサのほかに、以下の共同出資会社の株式を50％以上保有する",
+    "url": "https://www.imagazine.co.jp/exa-kyndryl/",
+    "pass": 3
+   },
+   {
+    "quote": "また、日本IBMが100％出資する子会社のうち、以下の4社のインフラ事業担当部門は、すでにキンドリルジャパンの100％子会社であるキンドリルジャパン・テクノロジーサービスへ移管済み",
+    "url": "https://www.imagazine.co.jp/exa-kyndryl/",
+    "pass": 3
+   },
+   {
+    "quote": "日本アイ・ビー・エム(株)が出資比率をアップ（51％）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp38995/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "エクシオグループ(株)【東証プライム市場上場】",
+    "url": "https://job.mynavi.jp/27/pc/search/corp38995/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金：1,250百万円",
+    "url": "https://www.onecareer.jp/companies/52072",
+    "pass": 3
+   },
+   {
+    "quote": "エクサは、鉄鋼メーカー「JFEスチール」を出身母体とし、キンドリルジャパンを親会社に持ち、顧客本意のビジネスマインドと高い技術力を武器に、現在は鉄鋼以外にも多くの分野で飛躍するSIer(システムインテグレータ)企業です",
+    "url": "https://www.onecareer.jp/companies/52072",
+    "pass": 3
+   },
+   {
+    "quote": "AIサービスを提供する株式会社エクサウィザーズが現場伴走型コンサルティングを展開する株式会社ele&companyの株式を取得し子会社化",
+    "url": "https://note.com/tag/%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%A6%E3%82%A3%E3%82%B6%E3%83%BC%E3%82%BA",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 - 株式会社エクサ — 会社概要 - 株式会社エクサ 株式会社エクサ https://www.exa-corp.co.jp > 企業情報",
+    "url": "https://www.exa-corp.co.jp/company/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "エクサ (企業) - Wikipedia — エクサ (企業) - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > エクサ_(企業)",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%B5_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社エクサ の求人・採用情報 - ビズリーチ — 株式 会社エクサ の求人・採用情報 - ビズリーチ ビズリーチ https://www.bizreach.jp > companies",
+    "url": "https://www.bizreach.jp/companies/22448/",
+    "pass": 3
+   },
+   {
+    "quote": "(株) エクサ 【福山事業所】の新卒採用・ 会社概要 | マイナビ2027 — (株) エクサ 【福山事業所】の新卒採用・ 会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp269881 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp269881/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "エクサ | 企業情報 | イプロスものづくり — エクサ | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > IT・情報通信",
+    "url": "https://mono.ipros.com/company/detail/2045114/",
+    "pass": 3
+   },
+   {
+    "quote": "エクサ の筆頭 株主 はキンドリルジャパンに ～日本IBMの全保有 ... — エクサ の筆頭 株主 はキンドリルジャパンに ～日本IBMの全保有 ... アイマガジン https://www.imagazine.co.jp > exa-kyndryl",
+    "url": "https://www.imagazine.co.jp/exa-kyndryl/",
+    "pass": 3
+   },
+   {
+    "quote": "エクサ親会社 の異動について — エクサ親会社 の異動について 株式会社エクサ https://www.exa-corp.co.jp > news",
+    "url": "https://www.exa-corp.co.jp/news/003889.html",
+    "pass": 3
+   },
+   {
+    "quote": "エクサ親会社 の異動について | Kyndryl — エクサ親会社 の異動について | Kyndryl Kyndryl https://www.kyndryl.com > about-us > news > 2022/02",
+    "url": "https://www.kyndryl.com/jp/ja/about-us/news/2022/02/2022-2-1-change-in-the-parent-company-for-exa-corporation",
+    "pass": 3
+   },
+   {
+    "quote": "エクサ親会社 の異動について - IBM Japan Newsroom — エクサ親会社 の異動について - IBM Japan Newsroom IBM Japan Newsroom https://jp.newsroom.ibm.com > 2022-02-01-EXA-Kyndry...",
+    "url": "https://jp.newsroom.ibm.com/2022-02-01-EXA-Kyndryl-JEF",
+    "pass": 3
+   },
+   {
+    "quote": "数字で見る エクサ — 数字で見る エクサ 株式会社エクサ https://www.exa-corp.co.jp > 企業情報 > 数字で見るエクサ",
+    "url": "https://www.exa-corp.co.jp/company/number.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株) エクサ の新卒採用・会社概要 | マイナビ2027 — (株) エクサ の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp38995 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp38995/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "エクサ の新卒採用・就職・会社概要とクチコミ - ワンキャリア — エクサ の新卒採用・就職・会社概要とクチコミ - ワンキャリア ワンキャリア https://www.onecareer.jp > companies",
+    "url": "https://www.onecareer.jp/companies/52072",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 エクサ の求人・採用情報 - ビズリーチ — 株式会社 エクサ の求人・採用情報 - ビズリーチ ビズリーチ https://www.bizreach.jp > companies",
+    "url": "https://www.bizreach.jp/companies/22448/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "エクサ ウィザーズ HR note エクサ ウィザーズ HR note note.com https://note.com > exawizards",
+    "url": "https://note.com/exawizards",
+    "pass": 3
+   },
+   {
+    "quote": "エクサ ウィザーズの人気・新着記事まとめ - note エクサ ウィザーズの人気・新着記事まとめ - note note https://note.com > tag > エクサウィザーズ",
+    "url": "https://note.com/tag/%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%A6%E3%82%A3%E3%82%B6%E3%83%BC%E3%82%BA",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【AI業界でのキャリアに興味がある方へ】カジュアル面談してみませんか？",
+    "url": "https://note.exawizards.com/?gs=ae5056a7e8b6d850a92644d8f0dfbb7f",
+    "pass": 3
+   },
+   {
+    "quote": "要件定義から実装、評価まで。学生8人が、15万人の利用する実プロダクトに挑んだサマーインターン",
+    "url": "https://note.exawizards.com/?gs=ae5056a7e8b6d850a92644d8f0dfbb7f",
+    "pass": 3
+   },
+   {
+    "quote": "2027年度内定式レポート~AI社会実装の最前線へ~",
+    "url": "https://note.exawizards.com/?gs=ae5056a7e8b6d850a92644d8f0dfbb7f",
+    "pass": 3
+   },
+   {
+    "quote": "多くの企業が抱える「仕様が分からない」を、解き方ごと「型」に――「Living Spec」から見るAI駆動エンジニアの仕事",
+    "url": "https://note.exawizards.com/?gs=ae5056a7e8b6d850a92644d8f0dfbb7f",
+    "pass": 3
+   },
+   {
+    "quote": "エクサウィザーズの人気・新着記事まとめ｜note",
+    "url": "https://note.com/tag/%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%A6%E3%82%A3%E3%82%B6%E3%83%BC%E3%82%BA",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIの導入支援やプロダクト開発を通じて、企業の業務変革を推進しています。",
+    "url": "https://note.com/tag/%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%A6%E3%82%A3%E3%82%B6%E3%83%BC%E3%82%BA",
+    "pass": 3
+   },
+   {
+    "quote": "事業成長への期待から投資家による分析や、現場での活用事例、社員のキャリアに関する記事が集まっています。",
+    "url": "https://note.com/tag/%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%A6%E3%82%A3%E3%82%B6%E3%83%BC%E3%82%BA",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIの導入支援やプロダクト開発を通じて、企業の業務変革を推進しています。事…",
+    "url": "https://note.com/tag/%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%A6%E3%82%A3%E3%82%B6%E3%83%BC%E3%82%BA",
+    "pass": 3
+   },
+   {
+    "quote": "【FDEは本当に来ている？コンサルがAIに必要な理由と日本の関連銘柄】",
+    "url": "https://note.com/tag/%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%A6%E3%82%A3%E3%82%B6%E3%83%BC%E3%82%BA",
+    "pass": 3
+   },
+   {
+    "quote": "9.30（➕9277）全部後場で売ればよかった。。🥹そして9月トレード結果‼️",
+    "url": "https://note.com/tag/%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%A6%E3%82%A3%E3%82%B6%E3%83%BC%E3%82%BA",
+    "pass": 3
+   },
+   {
+    "quote": "いま経営マターでHOTな話題は何か―企業のリアルな課題から考える、押し目を狙う監視銘柄",
+    "url": "https://note.com/tag/%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%A6%E3%82%A3%E3%82%B6%E3%83%BC%E3%82%BA",
+    "pass": 3
+   },
+   {
+    "quote": "株タック（かぶちゃん） @kabutakkuchan",
+    "url": "https://note.com/tag/%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%A6%E3%82%A3%E3%82%B6%E3%83%BC%E3%82%BA",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ExaWizards／ エクサ ウィザーズ ExaWizards／ エクサ ウィザーズ X https://x.com > ExaWizards",
+    "url": "https://x.com/ExaWizards",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 エクサ 新卒採用チーム (@exa_recruit) / X 株式会社 エクサ 新卒採用チーム (@exa_recruit) / X X https://x.com > exa_recruit",
+    "url": "https://x.com/exa_recruit",
+    "pass": 3
+   },
+   {
+    "quote": "大植択真@ エクサ ウィザーズ常務取締役COO - X 大植択真@ エクサ ウィザーズ常務取締役COO - X X https://x.com > exa_ouetakuma",
+    "url": "https://x.com/exa_ouetakuma",
+    "pass": 3
+   },
+   {
+    "quote": "ExaWizards／ エクサ ウィザーズ ExaWizards／ エクサ ウィザーズ X https://x.com > @ExaWizards",
+    "url": "https://x.com/ExaWizards/status/2018670857284182346",
+    "pass": 3
+   },
+   {
+    "quote": "エクサ (@EXA_AXE) / X エクサ (@EXA_AXE) / X X https://x.com > EXA_AXE",
+    "url": "https://x.com/EXA_AXE",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "（株） エクサ - LinkedIn （株） エクサ - LinkedIn LinkedIn https://jp.linkedin.com > company > （株）エクサ",
+    "url": "https://jp.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%82%A8%E3%82%AF%E3%82%B5",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 エクサ ウィザーズ/ExaWizards Inc. - LinkedIn 株式会社 エクサ ウィザーズ/ExaWizards Inc. - LinkedIn LinkedIn https://jp.linkedin.com > company > exawizards-inc",
+    "url": "https://jp.linkedin.com/company/exawizards-inc",
+    "pass": 3
+   },
+   {
+    "quote": "（株） エクサ - LinkedIn （株） エクサ - LinkedIn LinkedIn New Zealand https://nz.linkedin.com > company > （株）エクサ",
+    "url": "https://nz.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%82%A8%E3%82%AF%E3%82%B5",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 エクサ (@EXACORPORATION) - Facebook 株式会社 エクサ (@EXACORPORATION) - Facebook Facebook https://www.facebook.com > ... > Computer Company",
+    "url": "https://www.facebook.com/EXACORPORATION/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 エクサ ウィザーズ（ExaWizards Inc.） | Minato Tokyo 株式会社 エクサ ウィザーズ（ExaWizards Inc.） | Minato Tokyo Facebook https://www.facebook.com > ExaWizards",
+    "url": "https://www.facebook.com/ExaWizards/",
+    "pass": 3
+   },
+   {
+    "quote": "エクサ インターナショナル (@EXAINTERNATIONAL) エクサ インターナショナル (@EXAINTERNATIONAL) Facebook https://www.facebook.com > EXAINTERNATIONAL",
+    "url": "https://www.facebook.com/EXAINTERNATIONAL/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.exa-corp.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exa-corp.co.jp/news/2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exa-corp.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exa-corp.co.jp/company/profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exa-corp.co.jp/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exa-corp.co.jp/news/2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exa-corp.co.jp/company/office.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exa-corp.co.jp/solutions/index.html?search-tag=%E8%A8%AD%E5%82%99%E3%83%BB%E8%B3%87%E7%94%A3%E7%AE%A1%E7%90%86",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exa-corp.co.jp/technews/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exa-corp.co.jp/company/number.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exa-corp.co.jp/company/message.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exa-corp.co.jp/company/philosophy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exa-corp.co.jp/company/business.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exa-corp.co.jp/news/004670.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%B5_(%E4%BC%81%E6%A5%AD)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bizreach.jp/companies/22448/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubeni-idigio.com/insight-hub/metal3dprinter_desktopmetal_case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/the-future-of-metal-3d-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Ew517KG1bOI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jampt.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.3dsystems.com/advancing-semiconductor-executive-brief",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imagazine.co.jp/exa-kyndryl/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%B5_(%E4%BC%81%E6%A5%AD)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp38995/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onecareer.jp/companies/52072",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.exawizards.com/?gs=ae5056a7e8b6d850a92644d8f0dfbb7f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ExaWizards",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/exa_recruit",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/exa_ouetakuma",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%82%A8%E3%82%AF%E3%82%B5",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/exawizards-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://nz.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%82%A8%E3%82%AF%E3%82%B5",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/EXACORPORATION/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ExaWizards/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/EXAINTERNATIONAL/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ExaWizards/status/2018670857284182346",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tag/%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%A6%E3%82%A3%E3%82%B6%E3%83%BC%E3%82%BA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/EXA_AXE",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "エクサ",
+   "results": [
+    "https://www.exa-corp.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%B5",
+    "https://exawizards.com/",
+    "https://www.openwork.jp/company.php?m_id=a0910000000G0i7",
+    "https://ja.wikipedia.org/wiki/エクサ",
+    "https://ja.wikipedia.org/wiki/エクサ_(企業)",
+    "https://www.exa-corp.co.jp/company/index.html",
+    "https://www.ibm.com/partnerplus/directory/company/5279",
+    "https://exasys.jp/",
+    "https://prtimes.jp/main/html/rd/p/000000417.000001318.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "エクサ 会社概要 資本金 設立",
+   "results": [
+    "https://www.exa-corp.co.jp/company/profile.html",
+    "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%B5_(%E4%BC%81%E6%A5%AD)",
+    "https://www.bizreach.jp/companies/22448/",
+    "https://job.mynavi.jp/27/pc/search/corp269881/outline.html",
+    "https://mono.ipros.com/company/detail/2045114/",
+    "https://adv.tokyo-np.co.jp/prtimes/article128906/",
+    "https://prtimes.jp/main/html/rd/p/000000175.000001318.html",
+    "https://www.ibm.com/partnerplus/directory/company/5279",
+    "https://www.biz.ne.jp/corporation/66956/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "エクサ 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.marubeni-idigio.com/insight-hub/metal3dprinter_desktopmetal_case/",
+    "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/the-future-of-metal-3d-printing",
+    "https://www.youtube.com/watch?v=Ew517KG1bOI",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://www.ricoh.co.jp/3dp/metal/what",
+    "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "https://www.nttdata-xam.com/eos-m/",
+    "https://www.eos.info/ja/about-us/what-we-do/industrial-3d-printer",
+    "https://jampt.jp/column/column_453/",
+    "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "エクサ 金属積層造形 設備",
+   "results": [
+    "https://jampt.jp/",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://ja.3dsystems.com/advancing-semiconductor-executive-brief",
+    "https://www.youtube.com/watch?v=sT3lR9R98hc",
+    "https://www.nttdata-xam.com/eos-m/",
+    "https://www.nims.go.jp/cccenter/ismg/equipments.html",
+    "https://chuokatan.co.jp/products/3dp/",
+    "https://www.itc.pref.toyama.jp/equipment/e_data/1333h263dmr.html",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "https://mitsu-ri.net/articles/metal-laminated-modeling"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "エクサ 株主 出資 親会社",
+   "results": [
+    "https://www.imagazine.co.jp/exa-kyndryl/",
+    "https://www.exa-corp.co.jp/news/003889.html",
+    "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%B5_(%E4%BC%81%E6%A5%AD)",
+    "https://www.kyndryl.com/jp/ja/about-us/news/2022/02/2022-2-1-change-in-the-parent-company-for-exa-corporation",
+    "https://jp.newsroom.ibm.com/2022-02-01-EXA-Kyndryl-JEF",
+    "https://kabutan.jp/stock/holder?code=4259",
+    "https://www.nikkei.com/nkd/company/disclose/?scode=4259",
+    "https://www.ndensan.co.jp/information/3149.html",
+    "https://prtimes.jp/main/html/rd/p/000000302.000001318.html",
+    "https://ja.wikipedia.org/wiki/エクサ_(企業)"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "エクサ 売上高 従業員数",
+   "results": [
+    "https://www.exa-corp.co.jp/company/number.html",
+    "https://job.mynavi.jp/27/pc/search/corp38995/outline.html",
+    "https://www.onecareer.jp/companies/52072",
+    "https://www.exa-corp.co.jp/company/profile.html",
+    "https://www.bizreach.jp/companies/22448/",
+    "https://hrmos.co/pages/exa",
+    "https://fumadata.com/search/detail/1313794",
+    "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%B5_(%E4%BC%81%E6%A5%AD)",
+    "https://ja.wikipedia.org/wiki/エクサ_(企業)",
+    "https://job.mynavi.jp/28/pc/search/corp38995/outline.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:note.com エクサ",
+   "results": [
+    "https://note.com/exawizards",
+    "https://note.com/ai_curator/n/n281e98b90e69",
+    "https://note.com/exawizards/n/nc3419736cdfd",
+    "https://note.com/gen_ai/n/nb3187c94332d",
+    "https://note.com/holy_viper7334/n/n3d837b61a97d",
+    "https://note.com/30carrier/n/n8064d5b87e9d",
+    "https://note.com/exa_pf_note",
+    "https://note.com/exawizards/n/n7e4b7156841a",
+    "https://note.com/exawizards/n/n09855ece22d7",
+    "https://note.com/exawizards/n/nf75ced22324b"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com エクサ",
+   "results": [
+    "https://x.com/ExaWizards",
+    "https://x.com/exa_recruit",
+    "https://x.com/exa_ouetakuma",
+    "https://x.com/exaarcadia",
+    "https://x.com/NorahSandoleh/status/1947973573429338325",
+    "https://x.com/ExaWizards/status/2018670857284182346",
+    "https://x.com/EXA_AXE/status/2022543414026461547?lang=hu",
+    "https://x.com/ExaAILabs",
+    "https://x.com/Yoritaka21",
+    "https://x.com/EXA_uyou"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com エクサ",
+   "results": [
+    "https://www.linkedin.com/company/exa-ai",
+    "https://jp.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%82%A8%E3%82%AF%E3%82%B5",
+    "https://jp.linkedin.com/company/exawizards-inc",
+    "https://nz.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%82%A8%E3%82%AF%E3%82%B5",
+    "https://www.linkedin.com/products/exa-ag-exa-otp-operational-transfer-pricing/",
+    "https://jp.linkedin.com/company/exa-corporation",
+    "https://www.linkedin.com/in/exakutler",
+    "https://sg.linkedin.com/jobs/view/people-operations-generalist-at-exa-4428198485",
+    "https://sg.linkedin.com/jobs/view/forward-deployed-engineer-singapore-at-exa-4462152175",
+    "https://jp.linkedin.com/in/yuta-hayashi0104"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com エクサ",
+   "results": [
+    "https://www.facebook.com/EXACORPORATION/",
+    "https://www.facebook.com/ExaWizards/",
+    "https://www.facebook.com/EXAthrashofficial/",
+    "https://www.facebook.com/EXAINTERNATIONAL/",
+    "https://www.facebook.com/EXACORPORATION/posts/sap%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E6%A7%98%E3%81%A8%E3%81%AE%E6%88%A6%E7%95%A5%E7%9A%84%E5%AF%BE%E8%AB%87%E3%82%A8%E3%82%AF%E3%82%B5-%E5%9F%B7%E8%A1%8C%E5%BD%B9%E5%93%A1-sap%E4%BA%8B%E6%A5%AD%E6%8E%A8%E9%80%B2%E6%8B%85%E5%BD%93-%E7%B4%B0-%E5%92%8C%E4%B9%85%E3%81%8Csap%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3-chief-partner-officer-%E6%9C%8D%E9%83%A8-%E8%B2%B4%E5%BF%97%E6%B1%9F-%E7%B5%B1%E6%8B%AC%E6%9C%AC%E9%83%A8/1248429527265343/",
+    "https://www.facebook.com/ExaWizards/photos/",
+    "https://www.facebook.com/EXACORPORATION/posts/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B%E3%82%B3%E3%82%AF%E3%83%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%A7%98%E3%82%A8%E3%82%AF%E3%82%B5%E3%81%AE%E6%8F%90%E4%BE%9B%E3%81%99%E3%82%8Bbom%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E5%B0%8E%E5%85%A5%E3%82%A8%E3%82%AF%E3%82%B5%E3%81%8C%E6%8F%90%E4%BE%9B%E3%81%99%E3%82%8Bbom%E9%83%A8%E5%93%81%E8%A1%A8%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3spbom-suite%E3%81%8C%E3%82%B3%E3%82%AF%E3%83%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A/1285308973577398/",
+    "https://www.facebook.com/EXACORPORATION/posts/-%E6%96%B0%E3%81%97%E3%81%84%E4%BB%B2%E9%96%93%E3%81%8C%E5%8A%A0%E3%82%8F%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F-4%E6%9C%881%E6%97%A5%E3%82%A8%E3%82%AF%E3%82%B5%E3%81%AB%E6%96%B0%E3%81%9F%E3%81%AA%E4%BB%B2%E9%96%93%E3%81%A8%E3%81%97%E3%81%A643%E5%90%8D%E3%81%AE%E6%96%B0%E5%85%A5%E7%A4%BE%E5%93%A1%E3%81%8C%E5%85%A5%E7%A4%BE%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%9C%AA%E6%9D%A5%E3%82%92%E6%8B%85%E3%81%86%E8%8B%A5%E3%81%84%E5%8A%9B%E3%82%92%E8%BF%8E%E3%81%88%E6%96%B0%E3%81%97%E3%81%84%E9%96%80%E5%87%BA%E3%82%92%E7%A4%BE%E5%93%A1%E3%81%BF%E3%82%93%E3%81%AA%E3%81%A7%E3%81%8A%E7%A5%9D%E3%81%84%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E3%82%82/1155871576521139/",
+    "https://www.facebook.com/EXACORPORATION/posts/happy-birthday-exa-%E3%81%9D%E3%81%97%E3%81%A6%E6%96%B0%E5%85%A5%E7%A4%BE%E5%93%A1%E3%81%8C%E6%9C%AC%E6%97%A510%E6%9C%881%E6%97%A5%E3%81%AF%E3%82%A8%E3%82%AF%E3%82%B5%E3%81%AE%E5%89%B5%E7%AB%8B%E8%A8%98%E5%BF%B5%E6%97%A5%E3%81%A7%E3%81%99%E6%9D%B1%E6%B5%B7%E9%81%93%E6%96%B0%E5%B9%B9%E7%B7%9A%E9%96%8B%E6%A5%AD%E8%A8%98%E5%BF%B5%E6%97%A5%E3%81%A8%E5%90%8C%E3%81%98%E6%97%A5%E3%81%AA%E3%82%93%E3%81%A7%E3%81%99%E3%82%88%E3%81%82%E3%81%A1%E3%82%89%E3%81%AF50%E6%AD%B3%E3%82%A8%E3%82%AF%E3%82%B5%E3%81%AF27%E6%AD%B3/870885682924441/",
+    "https://www.facebook.com/EXACORPORATION/posts/-代表取締役社長に関するお知らせ-2025年4月1日エクサの代表取締役-社長執行役員に林-勇太-が就任しました林-社長からのメッセージはよりぜひご覧ください/1141255317982765/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "エクサ note 社長",
+   "results": [
+    "https://note.exawizards.com/",
+    "https://x.com/ExaWizards/status/2018670857284182346",
+    "https://note.com/tag/%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%A6%E3%82%A3%E3%82%B6%E3%83%BC%E3%82%BA",
+    "https://note.com/raditz21/n/n218b086bcc8a",
+    "https://note.com/gaishi_consul/n/n45bb11c9fbd7",
+    "https://note.exawizards.com/n/n700a09cbbdf0",
+    "https://x.com/ExaWizards/status/2018818073323835807",
+    "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%A6%E3%82%A3%E3%82%B6%E3%83%BC%E3%82%BA",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://shachomeikan.jp/industry_article/5460"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "エクサ X 投稿",
+   "results": [
+    "https://x.com/EXA_AXE",
+    "https://x.com/EXA_AXE/status/1741293317042950647",
+    "https://www.exa-corp.co.jp/",
+    "https://www.youtube.com/watch?v=Ju0w7JxgMc8",
+    "https://note.com/odayakanushi/n/n5a4228414cbf",
+    "https://www.openwork.jp/company.php?m_id=a0C10000018dpsz",
+    "https://www.youtube.com/watch?v=BDw5m9ydYuk",
+    "https://x.com/EXA_uyou",
+    "https://x.com/EXA_uyou/status/2116500444768030973",
+    "https://x.com/Exa_ruve/status/2115375889345368535"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部25頁・検索12回）",
+  "使っている金属粉（材質）": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部25頁・検索12回）"
+ }
+}

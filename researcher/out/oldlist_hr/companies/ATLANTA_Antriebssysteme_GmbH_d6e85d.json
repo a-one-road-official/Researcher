@@ -1,0 +1,784 @@
+{
+ "name": "ATLANTA Antriebssysteme GmbH",
+ "aliases": [],
+ "context": "旧営業リスト｜robotics_automation｜未接触",
+ "researched_at": "2026-11-10T19:42:19.055752+00:00",
+ "official_url": "https://www.atlantagmbh.de/",
+ "identified_by": "given",
+ "profile": {
+  "連絡先": [
+   {
+    "label": "Email:",
+    "value": "info@atlantadrives.com",
+    "url": "https://atlantadrives.com/contact_captcha.php",
+    "pass": 3
+   },
+   {
+    "label": "Email:",
+    "value": "info@atlantagmbh.de",
+    "url": "https://atlantadrives.com/contact_captcha.php",
+    "pass": 3
+   },
+   {
+    "label": "Email",
+    "value": "info@eie.fi",
+    "url": "https://atlantadrives.com/contact_captcha.php",
+    "pass": 3
+   },
+   {
+    "label": "Email",
+    "value": "sales@fluroengg.com",
+    "url": "https://atlantadrives.com/contact_captcha.php",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Innovative Antriebssysteme für höchste Ansprüche",
+    "url": "https://www.atlantagmbh.de/",
+    "pass": 1
+   },
+   {
+    "quote": "bieten wir innovative Lösungen, die den stetig wachsenden Anforderungen moderner Produktionstechnologien gerecht werden. An unseren Standorten in Bietigheim-Bissingen und Korntal-Münchingen fertigen wir",
+    "url": "https://www.atlantagmbh.de/",
+    "pass": 1
+   },
+   {
+    "quote": ". Dank kontinuierlicher Weiterentwicklung reagieren wir flexibel auf die komplexen Herausforderungen der Antriebstechnik und bieten neben unserem breiten Katalogprogramm auch maßgeschneiderte, kundenspezifische Lösungen im Bereich",
+    "url": "https://www.atlantagmbh.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Sonderteile und Sonder-Präzisionsgetriebe",
+    "url": "https://www.atlantagmbh.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Unser Produktportfolio",
+    "url": "https://www.atlantagmbh.de/",
+    "pass": 1
+   },
+   {
+    "quote": "ATLANTA Antriebssysteme ist Ihr erfahrener Partner für die Fertigung hochwertiger, geradverzahnter Kegelräder. Seit über 60 Jahren produzieren wir präzise und belastbare Kegelräder für anspruchsvolle industrielle Anwendungen.",
+    "url": "https://www.atlantagmbh.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Nachhaltige Entformung im Kunststoffspritzguss",
+    "url": "https://www.atlantagmbh.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Innovativ, umweltschonend, wartungsarm - Die nachhaltige Entformungslösung für die Spritzgusstechnik.",
+    "url": "https://www.atlantagmbh.de/",
+    "pass": 1
+   },
+   {
+    "quote": "HS-Hubgetriebe für Kunststoffspritzguss",
+    "url": "https://www.atlantagmbh.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Mit unserem innovativen, webbasierten Tool haben Sie jederzeit und von jedem Endgerät aus Zugriff auf umfassende technische Produktdaten der ATLANTA Zahnstangen.",
+    "url": "https://www.atlantagmbh.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Kundenspezifische Getriebelösungen für höchste Ansprüche",
+    "url": "https://www.atlantagmbh.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Wir bieten Ihnen maßgeschneiderte Getriebelösungen, die speziell nach Ihren individuellen Anforderungen entwickelt und produziert werden.",
+    "url": "https://www.atlantagmbh.de/",
+    "pass": 1
+   },
+   {
+    "quote": ", die uns in Korntal-Münchingen besucht haben, um unsere Produkte kennenzulernen und persönliche Kontakte zu knüpfen.",
+    "url": "https://www.atlantagmbh.de/blogs/news/atlanta-begrusst-ma-in-a-als-neuen-partner-fur-den-italienischen-markt",
+    "pass": 1
+   },
+   {
+    "quote": "steht den italienischen Kunden als kompetenter Ansprechpartner rund um unsere Produkte zur Seite.",
+    "url": "https://www.atlantagmbh.de/blogs/news/atlanta-begrusst-ma-in-a-als-neuen-partner-fur-den-italienischen-markt",
+    "pass": 1
+   },
+   {
+    "quote": "Ansprechpartner Innendienst",
+    "url": "https://www.atlantagmbh.de/pages/ansprechpartner-innendienst",
+    "pass": 1
+   },
+   {
+    "quote": "Ihre Ansprechpartner im Innendienst",
+    "url": "https://www.atlantagmbh.de/pages/ansprechpartner-innendienst",
+    "pass": 1
+   },
+   {
+    "quote": "Manager Marketing & Kommunikation",
+    "url": "https://www.atlantagmbh.de/pages/ansprechpartner-innendienst",
+    "pass": 1
+   },
+   {
+    "quote": "Ansprechpartner Aussendienst",
+    "url": "https://www.atlantagmbh.de/pages/ansprechpartner-aussendienst",
+    "pass": 1
+   },
+   {
+    "quote": "Ihre Ansprechpartner im Außendienst",
+    "url": "https://www.atlantagmbh.de/pages/ansprechpartner-aussendienst",
+    "pass": 1
+   },
+   {
+    "quote": "In allen Projektphasen setzen wir auf eine enge Zusammenarbeit, um gemeinsam die Grundlage für Effizienz und Erfolg zu schaffen.",
+    "url": "https://www.atlantagmbh.de/pages/ansprechpartner-aussendienst",
+    "pass": 1
+   },
+   {
+    "quote": "Unsere Spezialisten vor Ort bieten Ihnen kompetente Beratung und unterstützen Sie schnell und zuverlässig bei allen Fragen rund um die ATLANTA Produktwelt. So gewährleisten wir, dass Ihre Projekte reibungslos verlaufen und Ihre individuellen Anforderungen optimal erfüllt werden.",
+    "url": "https://www.atlantagmbh.de/pages/ansprechpartner-aussendienst",
+    "pass": 1
+   },
+   {
+    "quote": "Medium-Soft Precision",
+    "url": "https://atlantadrives.com/contact_captcha.php",
+    "pass": 3
+   },
+   {
+    "quote": "Tianjin Ace Pillar Enterprise Co., Ltd",
+    "url": "https://atlantadrives.com/contact_captcha.php",
+    "pass": 3
+   },
+   {
+    "quote": "Cheshire, CW12 1QJ",
+    "url": "https://atlantadrives.com/contact_captcha.php",
+    "pass": 3
+   },
+   {
+    "quote": "Izmailovsky prospect 2 A",
+    "url": "https://atlantadrives.com/contact_captcha.php",
+    "pass": 3
+   },
+   {
+    "quote": "Precision servo gearboxes",
+    "url": "https://www.mainasrl.it/en/atlanta-en/",
+    "pass": 3
+   },
+   {
+    "quote": "Pressure Transducers ESI",
+    "url": "https://www.mainasrl.it/en/atlanta-en/",
+    "pass": 3
+   },
+   {
+    "quote": "Mechanical Pressure Switches",
+    "url": "https://www.mainasrl.it/en/atlanta-en/",
+    "pass": 3
+   },
+   {
+    "quote": "ELECTRONIC PRESSURE SWITCHES",
+    "url": "https://www.mainasrl.it/en/atlanta-en/",
+    "pass": 3
+   },
+   {
+    "quote": "PRESSURE TRANSMITTERS",
+    "url": "https://www.mainasrl.it/en/atlanta-en/",
+    "pass": 3
+   },
+   {
+    "quote": "SILICON-ON-SAPPHIRE SENSOR TECHNOLOGY",
+    "url": "https://www.mainasrl.it/en/atlanta-en/",
+    "pass": 3
+   },
+   {
+    "quote": "CONSULTANT AND SALES REPRESENTATIVE FOR ITALY",
+    "url": "https://www.mainasrl.it/en/atlanta-en/",
+    "pass": 3
+   },
+   {
+    "quote": "The German company, founded in 1929, has always invested in research, quality, and process.",
+    "url": "https://www.mainasrl.it/en/atlanta-en/",
+    "pass": 3
+   },
+   {
+    "quote": "Whether you manage single- or multi-axis linear systems, with extreme loads or exceptionally long strokes, the success of your project depends on fundamental constraints/factors:",
+    "url": "https://www.mainasrl.it/en/atlanta-en/",
+    "pass": 3
+   },
+   {
+    "quote": "reliability, precision, and performance",
+    "url": "https://www.mainasrl.it/en/atlanta-en/",
+    "pass": 3
+   },
+   {
+    "quote": "For us, genuine innovation means addressing these requirements with a consulting approach centered on your specific needs.",
+    "url": "https://www.mainasrl.it/en/atlanta-en/",
+    "pass": 3
+   },
+   {
+    "quote": "We specialize in providing a systemic approach that ranges from:",
+    "url": "https://www.mainasrl.it/en/atlanta-en/",
+    "pass": 3
+   },
+   {
+    "quote": "All 3D models of ATLANTA standard products are available on the",
+    "url": "https://www.mainasrl.it/en/atlanta-en/",
+    "pass": 3
+   },
+   {
+    "quote": "Informativa sulla privacy",
+    "url": "https://www.mainasrl.it/en/atlanta-en/",
+    "pass": 3
+   },
+   {
+    "quote": "In this company's full profile: multi-year financial figures, representation rules, LEI, 7 more similar companies, and 1 more. A free account opens 20 full profiles to start with and 5 every month.",
+    "url": "https://app.implisense.com/en/companies/atlanta-antriebssysteme-gmbh-korntal-muenchingen--DEXG3YZB2K26",
+    "pass": 3
+   },
+   {
+    "quote": "Stability assessment in the full profile",
+    "url": "https://app.implisense.com/en/companies/atlanta-antriebssysteme-gmbh-korntal-muenchingen--DEXG3YZB2K26",
+    "pass": 3
+   },
+   {
+    "quote": "Financial figures, signals and the complete history are in the full profile.",
+    "url": "https://app.implisense.com/en/companies/atlanta-antriebssysteme-gmbh-korntal-muenchingen--DEXG3YZB2K26",
+    "pass": 3
+   },
+   {
+    "quote": "Available in the full profile",
+    "url": "https://app.implisense.com/en/companies/atlanta-antriebssysteme-gmbh-korntal-muenchingen--DEXG3YZB2K26",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue, result, equity and the multi-year history are in the full profile.",
+    "url": "https://app.implisense.com/en/companies/atlanta-antriebssysteme-gmbh-korntal-muenchingen--DEXG3YZB2K26",
+    "pass": 3
+   },
+   {
+    "quote": "Four dimensions from hard data — age, financials, register events, compliance. The ratings themselves are in the full profile.",
+    "url": "https://app.implisense.com/en/companies/atlanta-antriebssysteme-gmbh-korntal-muenchingen--DEXG3YZB2K26",
+    "pass": 3
+   },
+   {
+    "quote": "AI-powered research across press, social media and job postings from the last six months.",
+    "url": "https://app.implisense.com/en/companies/atlanta-antriebssysteme-gmbh-korntal-muenchingen--DEXG3YZB2K26",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with a similar profile",
+    "url": "https://app.implisense.com/en/companies/atlanta-antriebssysteme-gmbh-korntal-muenchingen--DEXG3YZB2K26",
+    "pass": 3
+   },
+   {
+    "quote": "7 more similar companies in the full profile",
+    "url": "https://app.implisense.com/en/companies/atlanta-antriebssysteme-gmbh-korntal-muenchingen--DEXG3YZB2K26",
+    "pass": 3
+   },
+   {
+    "quote": "3 more companies nearby in the full profile",
+    "url": "https://app.implisense.com/en/companies/atlanta-antriebssysteme-gmbh-korntal-muenchingen--DEXG3YZB2K26",
+    "pass": 3
+   },
+   {
+    "quote": "Three ways to access this company's data programmatically:",
+    "url": "https://app.implisense.com/en/companies/atlanta-antriebssysteme-gmbh-korntal-muenchingen--DEXG3YZB2K26",
+    "pass": 3
+   },
+   {
+    "quote": "company_profile(name=\"Atlanta Antriebssysteme GmbH\")",
+    "url": "https://app.implisense.com/en/companies/atlanta-antriebssysteme-gmbh-korntal-muenchingen--DEXG3YZB2K26",
+    "pass": 3
+   },
+   {
+    "quote": "Plus opens every profile",
+    "url": "https://app.implisense.com/en/companies/atlanta-antriebssysteme-gmbh-korntal-muenchingen--DEXG3YZB2K26",
+    "pass": 3
+   },
+   {
+    "quote": "Every company profile in full, without spending Implicents on it — plus wider search reach, unlimited lists and the enriched export.",
+    "url": "https://app.implisense.com/en/companies/atlanta-antriebssysteme-gmbh-korntal-muenchingen--DEXG3YZB2K26",
+    "pass": 3
+   },
+   {
+    "quote": "The full commercial register history — on every profile",
+    "url": "https://app.implisense.com/en/companies/atlanta-antriebssysteme-gmbh-korntal-muenchingen--DEXG3YZB2K26",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Germany (Main Factory)",
+    "url": "https://atlantadrives.com/contact_captcha.php",
+    "pass": 3
+   },
+   {
+    "quote": "ma.in.a. s.r.l. (Macchine Industriali Accessori)",
+    "url": "https://atlantadrives.com/contact_captcha.php",
+    "pass": 3
+   },
+   {
+    "quote": "2 Yishun Industrial Street 1 #04-04",
+    "url": "https://atlantadrives.com/contact_captcha.php",
+    "pass": 3
+   },
+   {
+    "quote": "ATLANTA IS NOT JUST A MANUFACTURER, BUT IS THE MOST INNOVATIVE PLAYER IN THE DESIGN AND CREATION OF HIGH-PERFORMANCE DRIVE SYSTEMS",
+    "url": "https://www.mainasrl.it/en/atlanta-en/",
+    "pass": 3
+   },
+   {
+    "quote": "ATLANTA is not a mere third-party supplier nor a mass manufacturer, but a high-tech partner for those facing market challenges, guaranteeing value, innovation, and concrete results.",
+    "url": "https://www.mainasrl.it/en/atlanta-en/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "info@atlantadrives.com",
+    "url": "https://atlantadrives.com/contact_captcha.php",
+    "pass": 3
+   },
+   {
+    "quote": "info@automotion.com.br",
+    "url": "https://atlantadrives.com/contact_captcha.php",
+    "pass": 3
+   },
+   {
+    "quote": "info@atlanta-drive.fr",
+    "url": "https://atlantadrives.com/contact_captcha.php",
+    "pass": 3
+   },
+   {
+    "quote": "Email: sales@fluroengg.com",
+    "url": "https://atlantadrives.com/contact_captcha.php",
+    "pass": 3
+   },
+   {
+    "quote": "info@reich-aandrijftechniek.nl",
+    "url": "https://atlantadrives.com/contact_captcha.php",
+    "pass": 3
+   },
+   {
+    "quote": "info@eksimmuhendislik.com",
+    "url": "https://atlantadrives.com/contact_captcha.php",
+    "pass": 3
+   },
+   {
+    "quote": "Would you like to know more? Contact us or explore the other pages dedicated to ATLANTA",
+    "url": "https://www.mainasrl.it/en/atlanta-en/",
+    "pass": 3
+   },
+   {
+    "quote": "info@mainasrl.it - maina@pec.mainasrl.it",
+    "url": "https://www.mainasrl.it/en/atlanta-en/",
+    "pass": 3
+   },
+   {
+    "quote": "AI-powered research for publicly available contacts: name, role, phone, email, LinkedIn.",
+    "url": "https://app.implisense.com/en/companies/atlanta-antriebssysteme-gmbh-korntal-muenchingen--DEXG3YZB2K26",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ATLANTA Drive Systems: Gearboxes, Rack and Pinions & Special ... — Innovative Drive Systems for the highest demands Welcome to ATLANTA Antriebssysteme GmbH For almost 100 years, we have been your reliable partner for high-quality drive solutions as a medium-sized family business. With our focus on the development, design, and manufacturing of high-quality drive systems, we offer innovative solutio",
+    "url": "https://www.atlantagmbh.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Vertretungen Ausland – ATLANTA Antriebssysteme GmbH — Antriebstechnik von ATLANTA: Ihr Experte für Zahnstangen, Schnecken- & Spindelhubgetriebe sowie Sonderanfertigungen im Maschinenbau – Made in Germany.",
+    "url": "https://www.atlantagmbh.de/pages/vertretungen-ausland",
+    "pass": 3
+   },
+   {
+    "quote": "ATLANTA Antriebssysteme: Getriebe, Zahnstangen ... — Innovative Antriebssysteme für höchste Ansprüche Herzlich Willkommen bei ATLANTA Antriebssysteme GmbH Seit fast 100 Jahren sind wir als mittelständisches Familienunternehmen Ihr verlässlicher Partner für hochwertige Antriebslösungen. Mit unserem Fokus auf die Entwicklung, Konstruktion und Herstellung von hochqualitativen Antriebssystemen bieten ",
+    "url": "https://atlanta-service.de/",
+    "pass": 3
+   },
+   {
+    "quote": "Atlanta Antriebssysteme GmbH, Korntal-Münchingen — Sep 28, 2026 · Atlanta Antriebssysteme GmbH in Korntal-Münchingen Gegründet 2006 Gewinn Umsatz Jahresabschluss Bonität Management: Ralf-Thomas Schmidt u.a",
+    "url": "https://www.companyhouse.de/Atlanta-Antriebssysteme-GmbH-Korntal-Muenchingen",
+    "pass": 3
+   },
+   {
+    "quote": "ATLANTA Antriebssysteme: Getriebe, Zahnstangen ... — Innovative Antriebssysteme für höchste Ansprüche Herzlich Willkommen bei ATLANTA Antriebssysteme GmbH Seit fast 100 Jahren sind wir als mittelständisches Familienunternehmen Ihr verlässlicher Partner für hochwertige Antriebslösungen. Mit unserem Fokus auf die Entwicklung, Konstruktion und Herstellung von hochqualitativen Antriebssystemen bieten ",
+    "url": "https://www.atlantagmbh.de/",
+    "pass": 3
+   },
+   {
+    "quote": "Atlanta - ma.in.a. srl — ATLANTA Antriebssysteme GmbH CONSULTANT AND SALES REPRESENTATIVE FOR ITALY ATLANTA IS NOT JUST A MANUFACTURER, BUT IS THE MOST INNOVATIVE PLAYER IN THE DESIGN AND CREATION OF HIGH-PERFORMANCE DRIVE SYSTEMS The German company, founded in 1929, has always invested in research, quality, and process.",
+    "url": "https://www.mainasrl.it/en/atlanta-en/",
+    "pass": 3
+   },
+   {
+    "quote": "Atlanta Antriebssysteme GmbH - Implisense — The key figures on balance sheet total, revenue, profit and number of employees were generated by a fully automatic extraction from published annual financial statements. The last published balance sheet total of the Atlanta Antriebssysteme GmbH is 2023 at 20 M €. The difference compared to the previous year is -10.2%. See all 2 entries",
+    "url": "https://implisense.com/en/companies/atlanta-antriebssysteme-gmbh-korntal-muenchingen-DEXG3YZB2K26",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Revenue, result, equity and the multi-year history are in the full profile.",
+    "url": "https://app.implisense.com/en/companies/atlanta-antriebssysteme-gmbh-korntal-muenchingen--DEXG3YZB2K26",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue, result and equity across every available year",
+    "url": "https://app.implisense.com/en/companies/atlanta-antriebssysteme-gmbh-korntal-muenchingen--DEXG3YZB2K26",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "ATLANTA Antriebssysteme GmbH - LinkedIn ATLANTA Antriebssysteme GmbH | 1,071 followers on LinkedIn. Innovative Lösungen von Standard bis Individuell | Willkommen bei ATLANTA Antriebssysteme GmbH Seit über 90 Jahren überzeugen wir als ...",
+    "url": "https://www.linkedin.com/company/atlanta-antriebssysteme-gmbh",
+    "pass": 3
+   },
+   {
+    "quote": "ATLANTA Antriebssysteme GmbH auf LinkedIn: Innovative ... \"Innovative Antriebssysteme für höchste Ansprüche\" finden Sie in der neuesten Broschüre von ATLANTA Antriebssysteme GmbH. Neben der Übersicht unseres Produktportfolios erhalten Sie einen kleinen Einblick in das Unternehmen aus Bietigheim-Bissingen. www.atlantagmbh.de #atlanta #atlantaantriebssysteme #atlantagmbh #bietigheimbissingen",
+    "url": "https://at.linkedin.com/posts/atlanta-antriebssysteme-gmbh_innovative-antriebssysteme-für-höchste-ansprüche-activity-7006251178090971137-CxHS",
+    "pass": 3
+   },
+   {
+    "quote": "Beitrag von ATLANTA Antriebssysteme GmbH Beitrag von ATLANTA Antriebssysteme GmbH ATLANTA Antriebssysteme GmbH 1.065 Follower:innen 3 Wochen Diesen Beitrag melden",
+    "url": "https://de.linkedin.com/posts/atlanta-antriebssysteme-gmbh_atlantaantriebssysteme-vertrieb-export-activity-7497572451615227905-5j9I",
+    "pass": 3
+   },
+   {
+    "quote": "Herzlich willkommen bei ATLANTA Antriebssysteme GmbH ... Herzlich willkommen bei ATLANTA Antriebssysteme GmbH. Wir freuen uns sehr Ihnen unseren neuen Außendienst-Mitarbeiter für das Bundesland Bayern vorzustellen. Zum 1. Januar verstärkt Herr Markus Wiesert-Friedrich den ATLANTA Vertrieb bei unseren Nachbarn im Süddeutschland. Herr Wiesert-Friedrich besitzt über 15 Jahre Erfahrung im Vertrieb von",
+    "url": "https://at.linkedin.com/posts/atlanta-antriebssysteme-gmbh_atlanta-atlantagmbh-atlantaantriebssysteme-activity-7025744154508845056-9bAj",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ATLANTA Antriebssysteme GmbH & Co.KG - Facebook ATLANTA Antriebssysteme GmbH & Co.KG",
+    "url": "https://www.facebook.com/ATLANTA-Antriebssysteme-GmbH-CoKG-105291569509217/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.atlantagmbh.de/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atlantagmbh.de/blogs/news/atlanta-begrusst-ma-in-a-als-neuen-partner-fur-den-italienischen-markt",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atlantagmbh.de/pages/ansprechpartner-innendienst",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atlantagmbh.de/pages/ansprechpartner-aussendienst",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://atlantadrives.com/contact_captcha.php",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.celiss.com/brand/5744.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.companyhouse.de/Atlanta-Antriebssysteme-GmbH-Korntal-Muenchingen",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/atlanta-antriebssysteme-e-seidenspinner-gmbh--co-kg/457204135",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://atlantadrives.com/contact_captcha.php",
+    "status": "network_error:SSLError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mainasrl.it/en/atlanta-en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://app.implisense.com/en/companies/atlanta-antriebssysteme-gmbh-korntal-muenchingen--DEXG3YZB2K26",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/atlanta-antriebssysteme-e-seidenspinner-gmbh--co-kg/457204135",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://rocketreach.co/atlanta-antriebssysteme-e-seidenspinner-gmbh-co-kg-profile_b45fa561fc686278",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/atlanta-bv/459122885",
+    "status": "http_429",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/atlanta-antriebssysteme-gmbh",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://at.linkedin.com/posts/atlanta-antriebssysteme-gmbh_innovative-antriebssysteme-für-höchste-ansprüche-activity-7006251178090971137-CxHS",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/posts/atlanta-antriebssysteme-gmbh_atlantaantriebssysteme-vertrieb-export-activity-7497572451615227905-5j9I",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://at.linkedin.com/posts/atlanta-antriebssysteme-gmbh_atlanta-atlantagmbh-atlantaantriebssysteme-activity-7025744154508845056-9bAj",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ATLANTA-Antriebssysteme-GmbH-CoKG-105291569509217/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ATLANTA Antriebssysteme GmbH 日本 導入",
+   "results": [
+    "https://www.atlantagmbh.de/en/",
+    "https://www.atlantagmbh.de/pages/vertretungen-ausland",
+    "https://atlantadrives.com/contact_captcha.php",
+    "https://www.celiss.com/brand/5744.html",
+    "https://atlanta-service.de/",
+    "https://www.linhorn.com/brand/16098.html",
+    "https://www.atlanta-drives.cn/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ATLANTA Antriebssysteme GmbH 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.atlantagmbh.de/en/",
+    "https://www.atlantagmbh.de/pages/vertretungen-ausland",
+    "https://www.companyhouse.de/Atlanta-Antriebssysteme-GmbH-Korntal-Muenchingen",
+    "https://www.zoominfo.com/c/atlanta-antriebssysteme-e-seidenspinner-gmbh--co-kg/457204135",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://automotive.panasonic.com/newsroom/20251216-01",
+    "https://www.atr.de/",
+    "https://distymap.com/distributors",
+    "https://mo.globalsmi.com/",
+    "https://www.se.com/jp/ja/work/support/locator/map/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "ATLANTA Antriebssysteme GmbH Japan",
+   "results": [
+    "https://www.atlantagmbh.de/en/",
+    "https://www.atlantagmbh.de/",
+    "https://atlantadrives.com/contact_captcha.php",
+    "https://www.mainasrl.it/en/atlanta-en/",
+    "https://en.industryarena.com/atlantagmbh",
+    "https://www.linkedin.com/company/atlanta-antriebssysteme-gmbh",
+    "https://atlantadrives.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ATLANTA Antriebssysteme GmbH manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "ATLANTA Antriebssysteme GmbH white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.mycompanyworks.com/reseller",
+    "https://reseller.amazon.com/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://retailers.bossrevolution.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ATLANTA Antriebssysteme GmbH founded funding employees revenue",
+   "results": [
+    "https://implisense.com/en/companies/atlanta-antriebssysteme-gmbh-korntal-muenchingen-DEXG3YZB2K26",
+    "https://www.zoominfo.com/c/atlanta-antriebssysteme-e-seidenspinner-gmbh--co-kg/457204135",
+    "https://rocketreach.co/atlanta-antriebssysteme-e-seidenspinner-gmbh-co-kg-profile_b45fa561fc686278",
+    "https://www.zoominfo.com/c/atlanta-bv/459122885",
+    "https://www.northdata.com/Atlanta+Antriebssysteme+E.+Seidenspinner+GmbH+&+Co.+KG,+Bietigheim-Bissingen/Amtsgericht+Stuttgart+HRA+300581",
+    "https://www.crunchbase.com/organization/atlanta-drive-systems-e-seidenspinner",
+    "https://die-deutsche-wirtschaft.de/unternehmen/atlanta-antriebssysteme-gmbh-bietigheim-bissingen/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com ATLANTA Antriebssysteme GmbH",
+   "results": [
+    "https://note.com/contest/創作大賞2026",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/seigo77",
+    "https://note.com/naru797574",
+    "https://note.com/tag/ポケカ",
+    "https://note.com/tag/ディガー",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ATLANTA Antriebssysteme GmbH",
+   "results": [
+    "https://x.com/Atlantas_Marine",
+    "https://x.com/achieshiii/status/2114499039941271702",
+    "https://x.com/jocelynseip/status/2118260591680983528",
+    "https://help.x.com/zh-tw/using-x",
+    "https://x.com/AlexZarkage/status/2113754409410674975",
+    "https://x.com/chillestwoman/status/2116669325868400644",
+    "https://x.com/nhk_utacon/status/2111019316921659829",
+    "https://x.com/BismarkNineSix/status/2110441463599542506"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:linkedin.com ATLANTA Antriebssysteme GmbH",
+   "results": [
+    "https://www.linkedin.com/company/atlanta-antriebssysteme-gmbh",
+    "https://at.linkedin.com/posts/atlanta-antriebssysteme-gmbh_innovative-antriebssysteme-für-höchste-ansprüche-activity-7006251178090971137-CxHS",
+    "https://de.linkedin.com/posts/atlanta-antriebssysteme-gmbh_atlantaantriebssysteme-vertrieb-export-activity-7497572451615227905-5j9I",
+    "https://at.linkedin.com/posts/atlanta-antriebssysteme-gmbh_atlanta-atlantagmbh-atlantaantriebssysteme-activity-7025744154508845056-9bAj",
+    "https://www.linkedin.com/posts/atlanta-antriebssysteme-gmbh_atlantaantriebssysteme-ausbildung-karriere-activity-7510964787745566720-YMeH",
+    "https://www.linkedin.com/posts/atlanta-antriebssysteme-gmbh_atlanta-atlantaantriebssysteme-kegelrad-activity-7472991255476592641-RbIx",
+    "https://de.linkedin.com/posts/atlanta-antriebssysteme-gmbh_atlantaantriebssysteme-teamatlanta-jubiläum-activity-7522998390968909825-HnLf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com ATLANTA Antriebssysteme GmbH",
+   "results": [
+    "https://www.facebook.com/Atlanta-Antriebssysteme-109716009057005/",
+    "https://www.facebook.com/ATLANTA-Antriebssysteme-GmbH-CoKG-105291569509217/",
+    "https://www.facebook.com/Atlanta-GmbH-CoKG-411889532273499/",
+    "https://www.facebook.com/pages/Firma-Atlanta-GmbH-CoKG/204442642908334/",
+    "https://www.facebook.com/palettenwickler/",
+    "https://www.facebook.com/pages/Atlanta-GmbH-CoKG/411889532273499/",
+    "https://www.facebook.com/palettenwickler/posts/arya-system-marks-a-breakthrough-innovation-in-the-panorama-of-semi-automatic-st/727805235712461/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ATLANTA Antriebssysteme GmbH note 社長",
+   "results": [
+    "https://www.atlantagmbh.de/en/",
+    "https://www.atlantagmbh.de/",
+    "https://www.companyhouse.de/en/Atlanta-Antriebssysteme-GmbH-Korntal-Muenchingen",
+    "https://www.companyhouse.de/Atlanta-Antriebssysteme-GmbH-Korntal-Muenchingen",
+    "https://www.registercheck.de/companies/atlanta-antriebssysteme-gmbh",
+    "https://www.marketscreener.com/insider/SABINE-SEIDENSPINNER-A2JVXB/",
+    "https://uk.marketscreener.com/insider/JAN-METZNER-A3F9NE/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ATLANTA Antriebssysteme GmbH X 投稿",
+   "results": [
+    "https://www.atlantagmbh.de/",
+    "https://www.atlantagmbh.de/en/",
+    "https://atlanta-service.de/",
+    "https://atlantadrives.com/contact_captcha.php",
+    "https://www.youtube.com/ATLANTAGmbH",
+    "https://www.linkedin.com/company/atlanta-antriebssysteme-gmbh",
+    "https://www.linkedin.com/posts/atlanta-antriebssysteme-gmbh_atlanta-atlantaantriebssysteme-partnership-activity-7401258898911023104-PNxP"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部19頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部19頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部19頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部19頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部19頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部19頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部19頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部19頁・検索12回）"
+ }
+}

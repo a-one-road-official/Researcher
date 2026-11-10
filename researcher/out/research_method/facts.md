@@ -5,6 +5,11 @@
 ## デスクリサーチで書かれていない数字を推定する方法（desk research estimating unpublished numbers）
 - 文脈：推定
 - 手順・やり方：
+  - 「フェルミ推定の考え方5ステップ」（https://www.onecareer.jp/articles/1056）
+  - 「ここでは、架空のカフェの売上を例に、解き方を5つのステップで紹介します」（https://www.onecareer.jp/articles/1056）
+  - 「「会社の強み」面接でどう伝える？独自調査で見えた他の就活生と差別化する方法を解説」（https://unistyleinc.com/techniques/1459）
+  - 「また、6業界300人以上のESを調査してわかった会社の強みを効果的に伝える方法を解説していきます」（https://unistyleinc.com/techniques/1459）
+  - 「【就活】面接でのキャリアプランの答え方！職種別例文6選と作成のコツ」（https://unistyleinc.com/techniques/1459）
   - 「嘘をつかずに誠実さを伝えるコツから、留年期間を強みに変えるアピール術まで、面接における「留年理由」の対策をまとめました」（https://unistyleinc.com/techniques/1459）
   - 「地鳴らしにジョインした超大型巨人の数をフェルミ推定してみた！」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「集団面接の完全対策|流れ・入退室マナーから頻出質問、受かるコツまで網羅」（https://unistyleinc.com/techniques/1459）
@@ -15,12 +20,12 @@
   - 「東大生が書いた 問題を解く力を鍛えるケース問題ノート 50の厳選フレームワークで、どんな難問もスッキリ「地図化」」（https://www.onecareer.jp/articles/1056）
   - 「【デロイト新卒 完全攻略マニュアル】ES・TG-WEB・人物面接・ケース・3日間Job・最終面接まで全ステップ｜元Big4面接官が「合否を分ける一語」を特定」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「デロイトのケース面接過去問6選｜新卒向けの練習方法と解説」（https://unistyleinc.com/techniques/1459）
-  - 「「WEB面接の特徴・必要な準備・場所や服装などのマナー・流れ・対策方法」を詳細に説明しています」（https://unistyleinc.com/techniques/1459）
-  - 「都度計算するのではなく、要素分解がすべて完了してからまとめて数値を当てはめるのが効率的なやり方です」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「ステップ4：妥当性の検証・結論の提示」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「前のステップでの推定値は約70万トンでしたが、実際の日本の年間コーヒー消費量（約43万トン）と比較すると、大きなズレがあることがわかります」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
-  - 「そのような場面では、デザイン思考やSWOT分析など、別のフレームワークや思考法を取り入れることが必要です」（https://www.cross-m.co.jp/column/marketing/mkc20260925）
 - 突き合わせ・推定：
+  - 「フェルミ推定とは？例題・企業の出題例13選！考え方と解答例も紹介｜就活サイト【ワンキャリア】」（https://www.onecareer.jp/articles/1056）
+  - 「フェルミ推定とは？例題・企業の出題例13選！考え方と解...」（https://www.onecareer.jp/articles/1056）
+  - 「そこで今回はフェルミ推定って何？という方でも解きやすい簡単な例題から実際の選考で出題された例題を用いて、フェルミ推定のノウハウをお伝えしたいと思います」（https://www.onecareer.jp/articles/1056）
+  - 「フェルミ推定の考え方5ステップ」（https://www.onecareer.jp/articles/1056）
+  - 「そんな中で実際に商品をモノにするには「わけの分からない数字も論理的思考力だけで推定する」力が求められました」（https://www.onecareer.jp/articles/1056）
   - 「フェルミ推定とは、実際に調査することが難しい数量や規模を、最低限の知識と論理的思考力を使って短時間で推定する手法です」（https://www.onecareer.jp/articles/1056）
   - 「例えば「日本にある電柱の数」など一見予想がつかない数値を、国土面積や身近にある電柱の数などから論理的に推定します」（https://www.onecareer.jp/articles/1056）
   - 「正直に申し上げますと、筆者が初めてフェルミ推定のお題を見たときの感想は「知るかそんなもん」でした」（https://www.onecareer.jp/articles/1056）
@@ -31,11 +36,6 @@
   - 「以下、フェルミ推定を出題する企業をご紹介します」（https://www.onecareer.jp/articles/1056）
   - 「地鳴らしにジョインした超大型巨人の数をフェルミ推定してみた！」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「「日本にコンビニは何店舗？」正解を知らなくても概数を出せるフェルミ推定の考え方」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
-  - 「【フェルミ推定】例題・出題例13選！考え方と解答例も紹介｜就活サイト【ワンキャリア】」（https://www.onecareer.jp/articles/1056）
-  - 「【フェルミ推定】例題・出題例13選！考え方と解答例も紹介」（https://www.onecareer.jp/articles/1056）
-  - 「外資系企業の選考が進むにつれ「フェルミ推定」という聞きなれない単語を耳にされた方も多いかと思います」（https://www.onecareer.jp/articles/1056）
-  - 「フェルミ推定は訓練すればするほどスラスラ解けるようになる一方で、未経験者にはまるでやり方が思いつかない特殊な課題」（https://www.onecareer.jp/articles/1056）
-  - 「にはフェルミ推定の利用を求められるため、対策せねば散ることとなります」（https://www.onecareer.jp/articles/1056）
 - 一次情報の探し方：
   - 「【回答例付】面接で「あなたを採用するメリットは何か」と聞かれた際の答え方」（https://unistyleinc.com/techniques/1459）
   - 「面接では「あなたを採用するメリットは何か」と聞かれることがあります」（https://unistyleinc.com/techniques/1459）
@@ -69,6 +69,10 @@
   - 「具体的な数字やエピソードがない具体的な数字やエピソードがなければ、あなたの成果を正しく伝えられない可能性が高いので注意しましょう」（https://unistyleinc.com/techniques/1459）
   - 「​​また、よくある志望動機の作成パターンとして、(6)の同業比較から考え始めてしまうことが挙げられますが、狭い視点から1社1社考えることは難しく、また論理性に欠けるケースも多いため注意しましょう」（https://unistyleinc.com/techniques/1459）
 - 実例：
+  - 「例えば新しい経営企画や戦略を立てる際、すべてのデータがそろうことはまれ」（https://www.onecareer.jp/articles/1056）
+  - 「例えば、「カフェの売上はいくらか」という問いでは、1店舗かチェーン全体か、1日分か1年分かによって答えが変わります」（https://www.onecareer.jp/articles/1056）
+  - 「最後に、計算結果に無理がないか確認しましょう」（https://www.onecareer.jp/articles/1056）
+  - 「例えば、10席が10時間ずっと満席だった場合、来客数は「10席 × 2人／時間 × 10時間＝200人」です」（https://www.onecareer.jp/articles/1056）
   - 「【完全版】ケース面接必勝法｜元面接官が「受かる考え方」を全部書きました（例題6問・小技15個・1.3万字）」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「ケース面接ニキ / コンサル転職とキャリアの話」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
   - 「元外コン面接官が書類からケース面接まで全部まとめた【コンサル転職の参考書】」（https://note.com/tag/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A）
@@ -80,10 +84,6 @@
   - 「加えて、実際のケース問題と組み合わせることで、より実践的なスキルを身につけることができます」（https://www.onecareer.jp/articles/1056）
   - 「例えば、企業が新市場に参入する際の売上予測をフェルミ推定の手法で試算してみることで、ビジネス視点も養うことが可能です」（https://www.onecareer.jp/articles/1056）
   - 「例えば、戦略コンサルティングファームでは「ロジックの一貫性」が特に重視される一方、IT企業では「データ活用力」や「ビジネスモデルの理解」が求められることが多いです」（https://www.onecareer.jp/articles/1056）
-  - 「また、同じ企業でも年ごとに出題傾向が変わることがあるため、複数年分の事例に目を通し、出題傾向の変化も意識するとより深い準備ができます」（https://www.onecareer.jp/articles/1056）
-  - 「EYストラテジー・アンド・コンサルティング｜テクノロジーコンサルタント2025年卒本選考のケース面接」（https://www.onecareer.jp/articles/1056）
-  - 「ケース面接、人物面接ともに結論ファーストで答えることに気をつけました」（https://www.onecareer.jp/articles/1056）
-  - 「東大生が書いた 問題を解く力を鍛えるケース問題ノート 50の厳選フレームワークで、どんな難問もスッキリ「地図化」」（https://www.onecareer.jp/articles/1056）
 - 検索結果の抜粋：
   - 「What Is Desk Research? Meaning, Methodology, ExamplesDesk Research: A Step-by-Step Method | MI ToolsDesk Research: What It Is, Methods & When to Use It | PRSScope and financial impact of unpublished data and unused ...Desk Research: Step-by-Step Guide & Tips | UXAtlasDesk research: finding and evaluating sources you can rely onDesk Research: What It Is, 12 Sources, and Steps (2026) — Jun 24, 2026 」（https://www.meltwater.com/en/blog/desk-research）
   - 「What Is Desk Research? Meaning, Methodology, ExamplesDesk Research: A Step-by-Step Method | MI ToolsDesk Research: What It Is, Methods & When to Use It | PRSDesk Research: Step-by-Step Guide & Tips | UXAtlasScope and financial impact of unpublished data and unused ...Desk research: finding and evaluating sources you can rely onDesk Research: What It Is, 12 Sources, and Steps (2026) — Jun 24, 2026 」（https://www.meltwater.com/en/blog/desk-research）
@@ -2687,6 +2687,12 @@
 ## 代表値の採り方と照合の品質（entity resolution の survivorship・精度と再現率）（entity resolution survivorship rules precision recall human review）
 - 文脈：同一性
 - 手順・やり方：
+  - 「What entity resolution is, how it works step by step, how to measure it, and where enterprises use it, with a worked example, primary sources and the challenges to plan for.」（https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution）
+  - 「The comparison step inside entity resolution」（https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution）
+  - 「Pairwise decisions must become entities. The simplest approach takes connected components of the link graph. That has a known danger: if A matches B and B matches C, all three merge even if A and C are clearly different, and one wrong link can chain two large clusters together. More careful methods use cluster-level scoring, constraints (“these two must never merge”) or correlation clustering.」（https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution）
+  - 「We made performance a first-class concern early with a learned blocking model, which learns from the fields in your data and your labels how to group records efficiently (」（https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution）
+  - 「When we open sourced Zingg we didn’t expect platform-native runs to be so well loved. Enterprises are increasingly wary of sending their most valuable data to a third party, and they want to use the tooling and frameworks they already have (」（https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution）
+  - 「It depends on the data, the method and where you set the threshold. Measure precision and recall on a labelled sample, and expect to trade one against the other. The right balance differs by use case: sanctions screening and patient matching tolerate errors very differently from marketing.」（https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution）
   - 「Merging and survivorship are different steps」（https://entitybind.com/guides/survivorship-and-golden-records）
   - 「Merging decides which records belong together. Survivorship decides what the resulting entity looks like. A wrong merge shows up as a golden record containing two companies' addresses; a survivorship bug shows up as a correctly merged entity displaying a stale address. Those need different fixes, and a system that assembles the record inside the merge step cannot tell you which one happened.」（https://entitybind.com/guides/survivorship-and-golden-records）
   - 「The recency step needs a timestamp, and there are several available. Choosing the wrong one is a quiet, persistent source of stale golden records.」（https://entitybind.com/guides/survivorship-and-golden-records）
@@ -2696,13 +2702,10 @@
   - 「The precision/recall/F-score framework above is the stable, vendor-neutral way to score matching quality. What has sharpened since 2026 is how teams turn those scores into an operational」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution）
   - 「how to evaluate entity resolution systems (Binette et al., 2024)」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution）
   - 「argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pairwise metrics alone can misrepresent how well records are grouped into correct entities.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution）
-  - 「Measure both. The classic pairwise approach scores each candidate pair, but research on evaluating entity resolution systems argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pair-based metrics alone can misrepresent how well records are grouped into correct entities.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution）
-  - 「Agentic simulation: when the AI chooses how to simulate」（https://prolyz.com/blog/master-data-management-entity-resolution）
-  - 「No single matching method wins」（https://performalytic.com/blog/entity-resolution-ai/）
-  - 「Entity resolution is the step in the」（https://performalytic.com/blog/entity-resolution-ai/）
-  - 「practical Entity Resolution / Deduplication framework on Databricks」（https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885）
-  - 「show how to compute multi‑field similarity scores (string distance, embeddings, etc.) and assemble a single match score per pair.」（https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885）
 - 突き合わせ・推定：
+  - 「Principled, interpretable, can estimate without labels」（https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution）
+  - 「For each field, estimate two probabilities:」（https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution）
+  - 「You rarely have a labelled answer key, and Pew found the same in healthcare. Estimate precision by reviewing a random sample of declared matches, and estimate recall by sampling across score bands or seeding known duplicates.」（https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution）
   - 「argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pairwise metrics alone can misrepresent how well records are grouped into correct entities.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution）
   - 「Measure both. The classic pairwise approach scores each candidate pair, but research on evaluating entity resolution systems argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pair-based metrics alone can misrepresent how well records are grouped into correct entities.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution）
   - 「techniques to compare attributes and estimate whether records belong to the same entity.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
@@ -2713,6 +2716,7 @@
   - 「Probabilistic methods combine several pieces of evidence and estimate how strongly a pair resembles a true match versus a non-match.」（https://edukatesingapore.com/2026/09/10/data-deduplication-and-entity-resolution/）
   - 「9. Estimate implementation and maintenance effort」（https://dataladder.com/best-entity-resolution-software/）
 - 一次情報の探し方：
+  - 「What entity resolution is, how it works step by step, how to measure it, and where enterprises use it, with a worked example, primary sources and the challenges to plan for.」（https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution）
   - 「Never write a field from a source that only identifies something adjacent. An address on a trademark filing is the address the filer had when they filed, not the company's registered address, and folding it in silently competes against a register whose job is to be current.」（https://entitybind.com/guides/survivorship-and-golden-records）
   - 「2. Data Profiling and Standardization」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
   - 「Matching records across heterogeneous datasets (e.g., SQL and NoSQL databases, spreadsheets, PDFs) can be exceptionally difficult due to different types of entities, encoding, formatting, languages, and schemas. Converting all this different type of data into a pre-defined schema through schema-matching and data exchange is a risky process and can result in the loss of valuable information.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
@@ -2723,24 +2727,25 @@
   - 「A repository contains five identical copies of a PDF and one later corrected edition. Checksums collapse the exact copies into one storage identity, while the corrected edition remains a distinct version linked to the same logical document.」（https://edukatesingapore.com/2026/09/10/data-deduplication-and-entity-resolution/）
   - 「Combines profiling, cleansing, matching, deduplication and golden-record creation in a code-free workflow」（https://dataladder.com/best-entity-resolution-software/）
 - 失敗・落とし穴：
+  - 「One mistake in the matching criteria can hide many true matches.」（https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution）
   - 「Conflating them is the commonest architectural mistake in this area, and it produces bugs that are very hard to diagnose because they present as matching errors.」（https://entitybind.com/guides/survivorship-and-golden-records）
   - 「High-consequence identity systems should generally bias toward review when evidence is ambiguous.」（https://edukatesingapore.com/2026/09/10/data-deduplication-and-entity-resolution/）
 - 実例：
-  - 「By use case and by industry.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution）
-  - 「Data showcases and customer case studies.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution）
-  - 「tied to your use case rather than a single universal cutoff, and a real-time API such as」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution）
-  - 「The two error types pull in opposite directions, so a confidence threshold is a deliberate trade-off. The table summarises that trade-off; every formula and use-case below is carried verbatim from the full explanation that follows.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution）
-  - 「Missing matches is costly — e.g. customer database deduplication, or identifying potential fraud where missing a case is worse」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution）
-  - 「When developing an entity resolution system, you might tune your matching thresholds or rules based on whether precision or recall is more important for your use case. For instance:」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution）
-  - 「Example use case: Identifying potential fraud cases where missing a fraudulent transaction is worse than flagging a legitimate one for review」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution）
-  - 「Example use case: Automated merging of patient medical records where incorrect matches could cause serious problems」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution）
-  - 「Using our previous example: With precision = 89% and recall = 80%:」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution）
-  - 「A common production pattern scores each candidate pair and routes it by confidence: pairs above an accept threshold auto-merge, pairs below a reject threshold are auto-dismissed, and the ambiguous middle band goes to a human review queue — which preserves precision on hard cases while keeping throughput high.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution）
-  - 「Can you give a worked precision, recall and F1 example?」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution）
-  - 「Mergers, subsidiaries, name changes, and re-registrations create cases where two records are related but not identical — or identical but with conflicting attributes. Resolution needs a policy for near-boundary cases, not just a threshold slider.」（https://performalytic.com/blog/entity-resolution-ai/）
-  - 「ML models learn similarity directly from examples — accepted and rejected pairs from stewards, historical merges, or labeled samples. They shine on the fields that defeat rules:」（https://performalytic.com/blog/entity-resolution-ai/）
-  - 「Case, units,」（https://performalytic.com/blog/entity-resolution-ai/）
-  - 「Normalize formats — case, whitespace, punctuation, address structure, units — so comparison is fair. AI-assisted standardization learns patterns rules miss.」（https://performalytic.com/blog/entity-resolution-ai/）
+  - 「What entity resolution is, how it works step by step, how to measure it, and where enterprises use it, with a worked example, primary sources and the challenges to plan for.」（https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution）
+  - 「The two errors, false merges and missed matches, are not equally costly, so the right threshold depends on the use case.」（https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution）
+  - 「jon.smith@example.net」（https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution）
+  - 「Case, spacing and punctuation」（https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution）
+  - 「The “1–10–100 rule” is often used to argue the cost case: roughly $1 to prevent a bad record, $10 to fix it later, $100 to live with it (」（https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution）
+  - 「Profile the sources, then standardise: parse names and addresses into components, normalise case and punctuation, convert phones to one format, expand abbreviations and map nicknames (“Jon” to “Jonathan”). Preparation raises match quality, but don’t destroy the originals, which you need for display and audit.」（https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution）
+  - 「Resolves cases attributes alone cannot」（https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution）
+  - 「A worked example (illustrative)」（https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution）
+  - 「Precision is the share of declared matches that are correct (TP/(TP+FP)). Recall is the share of true matches you found (TP/(TP+FN)). F1 is their harmonic mean. Example: a run declares 1,000 matching pairs and 950 are right, while there were 1,250 true pairs. Precision is 95%, recall is 76% and F1 is about 0.84.」（https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution）
+  - 「Pew found healthcare institutions tend to err toward avoiding false merges, so failure to link a patient’s own records is the more common problem. In sanctions screening a missed match is the costly error, while false positives burden analysts. In marketing a missed duplicate is usually minor. Set thresholds per use case.」（https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution）
+  - 「resolves a record as it arrives, for example at sign-up or transaction time. Most organisations need a batch-resolved base plus incremental or real-time updates against it. See」（https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution）
+  - 「Entity resolution use cases」（https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution）
+  - 「The number of rules grows without bound. New sources, formats and volumes force constant updates, and corner cases still slip through.」（https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution）
+  - 「Set thresholds per use case, not globally.」（https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution）
+  - 「It depends on the data, the method and where you set the threshold. Measure precision and recall on a labelled sample, and expect to trade one against the other. The right balance differs by use case: sanctions screening and patient matching tolerate errors very differently from marketing.」（https://www.zingg.ai/deep-dives/the-what-and-why-of-entity-resolution）
 - 検索結果の抜粋：
   - 「Survivorship Rules and Golden Records | Entity Bind — Oct 12, 2026 · Modelled as a field, survivorship can drop pass-through facts before assembling a record that will be stored, and an export can be filtered to what is genuinely redistributable. Per-field provenance also makes disagreement legible instead of embarrassing.」（https://entitybind.com/guides/survivorship-and-golden-records）
   - 「Golden records: what entity resolution actually decides — Aug 29, 2026 · Entity resolution decides which records are the same thing; survivorship decides which value survives into the golden record. Deterministic rules resolve the clean majority, probabilistic scoring handles the residue, and the threshold you choose is a business decision about whether a false merge or a missed duplicate costs mo」（https://prolyz.com/blog/master-data-management-entity-resolution）
@@ -10743,11 +10748,11 @@
 
 ## 名寄せの前の標準化の実務（異体字・機種依存文字・表記ゆれ辞書・標準化してから照合・法人番号では事業所・拠点を区別できない粒度の違い）-求人 -就活（entity resolution standardization before matching variant kanji normalization establishment vs legal entity granularity）
 - 文脈：名寄せ
-- 手順・やり方：記載なし（読んだ6頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ6頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ6頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ6頁・検索12回）
-- 実例：記載なし（読んだ6頁・検索12回）
+- 手順・やり方：記載なし（読んだ15頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
+- 実例：記載なし（読んだ15頁・検索12回）
 
 ## 相手国の言語と政府ドメイン・ファイル形式で一次文書を探す逆方向の検索と、専門の書き手を推薦リストでたどる方法（調査報道・OSINT・GIJN）-求人 -就活（find hidden documents foreign language government domain filetype reverse search find experts newsletter recommendations OSINT）
 - 文脈：一次情報の探し方
@@ -10768,41 +10773,42 @@
 ## 決算公告を公告の方法（官報・日刊新聞・電子公告）から探す手順と、電子公告の掲載期間・官報だけの検索の網羅の穴（登記の公告をする方法の欄を先に見る）-求人 -就活（find company financial statement public notice by publication method electronic public notice Japan coverage gap）
 - 文脈：method
 - 手順・やり方：
-  - 「電子公告の公告期間の4類型」（https://corporate-a-lawoffice.com/companiesact940/）
-  - 「電子公告とは、会社法上、電磁的方法により不特定多数の者が公告すべき内容の情報の提供を受けることができる状態に置く措置であって、インターネットに接続された自動公衆送信装置を使用するものをいいます」（https://corporate-a-lawoffice.com/companiesact940/）
-  - 「電子公告を採用するかどうかは、公告方法を定める会社法939条の問題です」（https://corporate-a-lawoffice.com/companiesact940/）
-  - 「電子公告を公告方法として採用するかは939条、電子公告調査を受ける必要があるかは941条以下を合わせて確認します」（https://corporate-a-lawoffice.com/companiesact940/）
-  - 「会社法940条1項は、電子公告の公告期間を4類型に分けています」（https://corporate-a-lawoffice.com/companiesact940/）
-  - 「前3類型に当たらない公告の原則的な受け皿です」（https://corporate-a-lawoffice.com/companiesact940/）
-  - 「この類型では、「公告開始日から何日」ではなく、条文上予定されている特定の日が終期になります」（https://corporate-a-lawoffice.com/companiesact940/）
-  - 「法務省も、決算公告については電子公告調査を受ける必要がない一方、電子公告を公告方法とする会社等が決算公告をする場合には要旨の公告ではなく全文公告が必要になると案内しています」（https://corporate-a-lawoffice.com/companiesact940/）
-  - 「典型的には、債権者保護手続で、債権者が一定期間内に異議を述べることができる旨を公告する場面が問題になります」（https://corporate-a-lawoffice.com/companiesact940/）
-  - 「追加公告の文面、掲載時刻、掲載方法、調査機関への連絡を確認します」（https://corporate-a-lawoffice.com/companiesact940/）
-  - 「官報・日刊新聞紙・電子公告のどれを公告方法とするか、定款・登記をどう整えるか」（https://corporate-a-lawoffice.com/companiesact940/）
-  - 「公告が940条1項のどの類型に該当するか整理しているか」（https://corporate-a-lawoffice.com/companiesact940/）
-  - 「中断時の連絡先、対応責任者、追加公告文面の作成手順を決めているか」（https://corporate-a-lawoffice.com/companiesact940/）
-  - 「会社法940条1項は、特定の日まで継続する公告、決算公告、異議申述期間付き公告、その他の公告の4類型に分けています」（https://corporate-a-lawoffice.com/companiesact940/）
-  - 「電子公告を公告方法とするための定款・登記は939条、電子公告調査の要否や調査機関の制度は941条以下、決算公告や債権者保護公告の具体的な内容は個別手続条文を確認する必要があります」（https://corporate-a-lawoffice.com/companiesact940/）
+  - 「公告方法の変更登記とは？決算公告の公開範囲で比べる官報・日刊新聞紙・電子公告と、手続・費用｜大阪の司法書士法人LSO」（https://office-lso.com/venture-support/change/koukoku-houhou-henko-toki/）
+  - 「公告方法の変更登記とは？決算公告の公開範囲で比べる官報・日刊新聞紙・電子公告と、手続・費用」（https://office-lso.com/venture-support/change/koukoku-houhou-henko-toki/）
+  - 「公告方法の変更登記は、会社が決算などを広く知らせる方法（官報・日刊新聞紙・電子公告）を変えたときに、法務局に登記されている内容を新しい方法に改める登記です」（https://office-lso.com/venture-support/change/koukoku-houhou-henko-toki/）
+  - 「公告方法は会社が定款（会社の基本ルール）で定め、定めがなければ官報になります（」（https://office-lso.com/venture-support/change/koukoku-houhou-henko-toki/）
+  - 「3つの方法のどれを選ぶかで、毎年の決算公告で貸借対照表がどこまで公開されるかが変わります」（https://office-lso.com/venture-support/change/koukoku-houhou-henko-toki/）
+  - 「公告方法を変えるには、株主総会の特別決議（通常の決議より出席や賛成の要件が重い決議）で定款を変更し、変わった日から2週間以内に変更登記を申請します（」（https://office-lso.com/venture-support/change/koukoku-houhou-henko-toki/）
+  - 「1．公告方法の変更登記とは？定款で定めた公告方法を変えたときの登記」（https://office-lso.com/venture-support/change/koukoku-houhou-henko-toki/）
+  - 「公告方法の変更登記は、」（https://office-lso.com/venture-support/change/koukoku-houhou-henko-toki/）
+  - 「で定めた公告方法を変えたときに、登記されている公告方法を新しいものに改める登記です」（https://office-lso.com/venture-support/change/koukoku-houhou-henko-toki/）
+  - 「まずは、公告方法がどのように定められるのかを、会社法939条で確認してみましょう」（https://office-lso.com/venture-support/change/koukoku-houhou-henko-toki/）
+  - 「会社法939条（会社の公告方法）〔抜粋〕」（https://office-lso.com/venture-support/change/koukoku-houhou-henko-toki/）
+  - 「1 会社は、公告方法として、」（https://office-lso.com/venture-support/change/koukoku-houhou-henko-toki/）
+  - 「次に掲げる方法のいずれかを定款で定めることができる」（https://office-lso.com/venture-support/change/koukoku-houhou-henko-toki/）
+  - 「二 時事に関する事項を掲載する日刊新聞紙に掲載する方法」（https://office-lso.com/venture-support/change/koukoku-houhou-henko-toki/）
+  - 「3 会社又は外国会社が第一項第三号に掲げる方法を公告方法とする旨を定める場合には、」（https://office-lso.com/venture-support/change/koukoku-houhou-henko-toki/）
 - 突き合わせ・推定：
   - 「特に、効力発生日が決まっている手続では、公告開始日、公告終了日、異議申述期間、登記申請予定日を逆算して管理します」（https://corporate-a-lawoffice.com/companiesact940/）
   - 「合併や解散の手続きに入る前に、総勘定元帳、買掛金・未払金の補助簿、借入金一覧、契約台帳、係争案件などを照合し、債権者名、住所、債権の内容および金額を一覧にしておく必要があります」（https://www.koueki.jp/blog/ippan-shadan-koukoku-houhou/）
 - 一次情報の探し方：
-  - 「電子公告は、官報や新聞公告と異なり、1回掲載して終わりではありません」（https://corporate-a-lawoffice.com/companiesact940/）
-  - 「決算公告は、定時株主総会の終結の日後5年を経過する日まで継続掲載する必要があります」（https://corporate-a-lawoffice.com/companiesact940/）
-  - 「電子公告を採用するかどうかは、公告方法を定める会社法939条の問題です」（https://corporate-a-lawoffice.com/companiesact940/）
-  - 「電子公告を公告方法として採用するかは939条、電子公告調査を受ける必要があるかは941条以下を合わせて確認します」（https://corporate-a-lawoffice.com/companiesact940/）
-  - 「会社法が「一定期間前までに公告」としている公告、決算公告、異議申述期間を定める公告、その他の公告で、それぞれ終期が異なります」（https://corporate-a-lawoffice.com/companiesact940/）
-  - 「外国会社の日本における登記や公告は、国内会社と同じように扱えない部分があります」（https://corporate-a-lawoffice.com/companiesact940/）
-  - 「外国会社の登記前取引禁止や公告・代表者退任は、」（https://corporate-a-lawoffice.com/companiesact940/）
-  - 「【会社法818条・819条・820条】外国会社の登記前取引禁止・公告・代表者退任｜条文の要点と実務ポイント」（https://corporate-a-lawoffice.com/companiesact940/）
-  - 「会社法440条1項の決算公告」（https://corporate-a-lawoffice.com/companiesact940/）
-  - 「公告期間を誤ると、公告の効力や登記申請、手続スケジュールに影響するおそれがあります」（https://corporate-a-lawoffice.com/companiesact940/）
-  - 「特に、効力発生日が決まっている手続では、公告開始日、公告終了日、異議申述期間、登記申請予定日を逆算して管理します」（https://corporate-a-lawoffice.com/companiesact940/）
-  - 「決算公告は5年間継続する」（https://corporate-a-lawoffice.com/companiesact940/）
-  - 「決算公告を電子公告で行う場合、電子公告調査機関の調査を受ける必要はありません」（https://corporate-a-lawoffice.com/companiesact940/）
-  - 「法務省も、決算公告については電子公告調査を受ける必要がない一方、電子公告を公告方法とする会社等が決算公告をする場合には要旨の公告ではなく全文公告が必要になると案内しています」（https://corporate-a-lawoffice.com/companiesact940/）
-  - 「決算公告は調査不要という点だけに注目すると、5年間掲載の管理を見落としがちです」（https://corporate-a-lawoffice.com/companiesact940/）
+  - 「公告方法の変更登記とは？決算公告の公開範囲で比べる官報・日刊新聞紙・電子公告と、手続・費用｜大阪の司法書士法人LSO」（https://office-lso.com/venture-support/change/koukoku-houhou-henko-toki/）
+  - 「公告方法の変更登記とは？決算公告の公開範囲で比べる官報・日刊新聞紙・電子公告と、手続・費用」（https://office-lso.com/venture-support/change/koukoku-houhou-henko-toki/）
+  - 「公告方法の変更登記は、会社が決算などを広く知らせる方法（官報・日刊新聞紙・電子公告）を変えたときに、法務局に登記されている内容を新しい方法に改める登記です」（https://office-lso.com/venture-support/change/koukoku-houhou-henko-toki/）
+  - 「公告方法は会社が定款（会社の基本ルール）で定め、定めがなければ官報になります（」（https://office-lso.com/venture-support/change/koukoku-houhou-henko-toki/）
+  - 「また、登記事項でもあるため、変えたときは変更登記が必要です」（https://office-lso.com/venture-support/change/koukoku-houhou-henko-toki/）
+  - 「3つの方法のどれを選ぶかで、毎年の決算公告で貸借対照表がどこまで公開されるかが変わります」（https://office-lso.com/venture-support/change/koukoku-houhou-henko-toki/）
+  - 「電子公告では貸借対照表の全文を5年間掲載し続け、官報・日刊新聞紙では要旨の公告で足ります（」（https://office-lso.com/venture-support/change/koukoku-houhou-henko-toki/）
+  - 「官報は令和7年（2025年）4月から電子化され、官報に載せた決算公告も、インターネットで閲覧できる形で発行されています」（https://office-lso.com/venture-support/change/koukoku-houhou-henko-toki/）
+  - 「公告方法を変えるには、株主総会の特別決議（通常の決議より出席や賛成の要件が重い決議）で定款を変更し、変わった日から2週間以内に変更登記を申請します（」（https://office-lso.com/venture-support/change/koukoku-houhou-henko-toki/）
+  - 「1．公告方法の変更登記とは？定款で定めた公告方法を変えたときの登記」（https://office-lso.com/venture-support/change/koukoku-houhou-henko-toki/）
+  - 「公告方法の変更登記は、」（https://office-lso.com/venture-support/change/koukoku-houhou-henko-toki/）
+  - 「で定めた公告方法を変えたときに、登記されている公告方法を新しいものに改める登記です」（https://office-lso.com/venture-support/change/koukoku-houhou-henko-toki/）
+  - 「「第一項第一号の方法」は官報に掲載する方法のことです」（https://office-lso.com/venture-support/change/koukoku-houhou-henko-toki/）
+  - 「条文のとおり、定款に公告方法の定めがない会社の公告方法は、官報になります（4項）」（https://office-lso.com/venture-support/change/koukoku-houhou-henko-toki/）
+  - 「決算公告を除き、電子公告で公告をするときは、調査機関による電子公告調査を受ける必要があり、その費用もかかります（」（https://office-lso.com/venture-support/change/koukoku-houhou-henko-toki/）
 - 失敗・落とし穴：
+  - 「また、例えば公告方法を官報から日刊新聞紙に変える場合は、次の点にも注意が必要です」（https://office-lso.com/venture-support/change/koukoku-houhou-henko-toki/）
   - 「決算公告を電子公告に変更する定款変更の手順｜費用・書類・注意点まとめ」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/）
   - 「株主総会の特別決議から登記完了まで全手順と費用（登録免許税3万円）・注意点を完全解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/）
   - 「公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/）
@@ -10817,8 +10823,9 @@
   - 「メリットが多い電子公告ですが、以下の点に注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/）
   - 「実際にこの制度を利用している企業の担当者からは「サーバーのメンテナンスや移転の際にURLが変わらないよう注意が必要」「年度ごとにページが増えていくので整理が大変」といった声が聞かれます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/）
   - 「注意点は「全文掲載」「5年間継続」「URL登記（3万円）」の3つ」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/）
-  - 「中小企業基盤整備機構 J-Net21「ホームページで決算公告を行いたいのですが、注意点があったら教えてください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/）
 - 実例：
+  - 「また、例えば公告方法を官報から日刊新聞紙に変える場合は、次の点にも注意が必要です」（https://office-lso.com/venture-support/change/koukoku-houhou-henko-toki/）
+  - 「定款を変更すると登記が必要？必要・不要なケース」（https://office-lso.com/venture-support/change/koukoku-houhou-henko-toki/）
   - 「15.8万社調査で判明した債務超過企業の実態や、合併に伴う決算公告で話題のオリパ大手の事例を紹介」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-denshi-koukoku/）
   - 「電子公告調査が必要か、調査機関に何を依頼するか、調査結果をどう使うか」（https://corporate-a-lawoffice.com/companiesact940/）
   - 「また、電子公告調査機関の調査結果通知は、商業・法人登記の申請書に「公告をしたことを証する書面」として添付できるとされています」（https://corporate-a-lawoffice.com/companiesact940/）
@@ -13061,8 +13068,8 @@
   - 「Journalists, human rights workers and others are constantly making use of open data, user-generated content and other open source information to produce critically important investigations of everything from conflict zones to human rights abuse cases and international corruption.」（https://datajournalism.com/read/handbook/verification-2/1-the-opportunity-for-using-open-source-information-and-user-generated-content-in-investigative-work）
   - 「It’s all thanks to open source information and user-generated content. As chapters and case studies in this Handbook detail, this same material is being used by investigative journalists in Africa and by groups such as Amnesty International and WITNESS to expose fraud, document war crimes and to help the wrongly accused defend themselves in court.」（https://datajournalism.com/read/handbook/verification-2/1-the-opportunity-for-using-open-source-information-and-user-generated-content-in-investigative-work）
   - 「This companion to the original Verification Handbook offers detailed guidance and illustrative case studies to help journalists, human rights workers and others verify and use open source information and user-generated content in service of investigative projects.」（https://datajournalism.com/read/handbook/verification-2/1-the-opportunity-for-using-open-source-information-and-user-generated-content-in-investigative-work）
-- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ27頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ6頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ6頁・検索12回）
 
 ## AIで作った業界分析・訂正の窓口の無い記事の見分け方と扱い（生成物を一次で取り直す）（how to identify AI-generated research reports and handle sources without corrections policy）
 - 文脈：突き合わせ
@@ -14637,6 +14644,7 @@
 ## 実質の持ち主（UBO）と名義役員・秘匿法域のたどり方（EBU Spotlight・OCCRP の手引き・登記の原本で確かめる・暫定の印）（beneficial ownership tracing nominee directors secrecy jurisdictions OSINT tutorial EBU Spotlight OCCRP）
 - 文脈：同一性・所有
 - 手順・やり方：
+  - 「STEP4：」（https://www.tdb.co.jp/services/lineup/ubo/）
   - 「STEP3：」（https://www.tdb.co.jp/services/lineup/ubo/）
   - 「確認の方法は、顧客の代表者等から申告を受ける方法です（施行規則の定め）」（https://note.com/amlcftmukudori/n/ne95e558ca244）
   - 「犯収法令で定められた確認の方法は、顧客の代表者等から申告を受ける方法です」（https://note.com/amlcftmukudori/n/ne95e558ca244）
@@ -14651,7 +14659,6 @@
   - 「掛け算で28%と出しても、足し算で110%と出しても、規則の方法とは合いません」（https://note.com/amlcftmukudori/n/nf1f7c8491c0e）
   - 「現地の登録代理人や専門家への照会を検討する方法もありますが、時間と費用がかかります」（https://note.com/amlcftmukudori/n/nf1f7c8491c0e）
   - 「これまで「名義人を立てて実際の出資者を伏せる」というやり方で進出していた場合、今後は当局に対して実質的所有者の情報を正確に提出・管理しなければならず、」（https://note.com/vnhr/n/n62aa660f36ef）
-  - 「UBO（実質的支配者）とは？重要性や確認方法・注意点も解説 | ビジネスコンシェルジュ powered by お名前.com」（https://www.onamae.com/business/article/242733/）
 - 突き合わせ・推定：
   - 「間接保有は「掛け算」ではなく「合算」で判定すること（施行規則の定め）」（https://note.com/amlcftmukudori/n/ne95e558ca244）
   - 「図解5：間接保有の例：掛け算ではなく合算」（https://note.com/amlcftmukudori/n/ne95e558ca244）
@@ -14701,6 +14708,10 @@
   - 「資源が豊富な企業であっても、UBOコンプライアンスに取り組む際に同じような罠にはまることがあります」（https://jinjibu.jp/spcl/goglobal/cl/detl/6206/）
   - 「問題：国ごとに「実質的所有者」の定義が異なるため、誤りが生じやすくなります」（https://jinjibu.jp/spcl/goglobal/cl/detl/6206/）
 - 実例：
+  - 「When the OECD reviewed 400-plus bribery cases」（https://www.lexisnexis.com/pdf/The-Hidden-World-of-Beneficial-Ownership.pdf）
+  - 「200 cases of grand corruption. The New York Times」（https://www.lexisnexis.com/pdf/The-Hidden-World-of-Beneficial-Ownership.pdf）
+  - 「Below is an example showing how beneficial」（https://www.lexisnexis.com/pdf/The-Hidden-World-of-Beneficial-Ownership.pdf）
+  - 「THE UK – A CASE STUDY OF PROGRESS?」（https://www.lexisnexis.com/pdf/The-Hidden-World-of-Beneficial-Ownership.pdf）
   - 「審査結果を踏まえ、日本は重点フォローアップ国となりました」（https://note.com/amlcftmukudori/n/ne95e558ca244）
   - 「迷いやすい4つのケースと、「見当たらない」と言われたときの考え方」（https://note.com/amlcftmukudori/n/n5fc3c39bb120）
   - 「→ 代表取締役をUBO扱いするケースが一般的」（https://note.com/argentroi/n/n20e6a3206229）
@@ -14712,10 +14723,6 @@
   - 「なお、企業取引において実質的支配者リストの開示義務はないため、開示拒否されるケースもあります」（https://www.onamae.com/business/article/242733/）
   - 「例えば、少数株主で経営に影響を与えられない立場の株主はUBOには該当しません」（https://www.onamae.com/business/article/242733/）
   - 「例えば、米国・EU圏では25％が標準的な閾値ですが、インドでは10％、南アフリカでは金融機関に対して5％を閾値するなど、国によって違いがあります」（https://www.onamae.com/business/article/242733/）
-  - 「ただし、正体不明の投資組合が急激に株を買い占めているようなケースでは、実質的な支配権が不透明な人物に移っている可能性があります」（https://www.onamae.com/business/article/242733/）
-  - 「、その結果も誤っている可能性が高い」（https://www.onamae.com/business/article/242733/）
-  - 「そのため、専門機関の調査を経ることで、複数の情報源をもとにした詳細な調査が行われ、調査結果の正誤を確認できます」（https://www.onamae.com/business/article/242733/）
-  - 「例えば、確認したい取引先の」（https://www.onamae.com/business/article/242733/）
 - 検索結果の抜粋：
   - 「【03顧客管理-完全版#5】法人UBO特定 25%ルールの実務適用と境界線｜A... — May 6, 2026 · 最新の改正情報は警察庁・金融庁ホームページ等でご確認ください。 本章の要旨（120〜160字）：法人顧客の実質的支配者（UBO）特定は犯収法施行規則第11条第2項の4パターン（25%超→支配的影響力→収益分配権→代表者フォールバック）で完結します。」（https://note.com/amlcftmukudori/n/n5fc3c39bb120）
   - 「【顧客管理：実務①】KYB実務ガイド──UBO特定の判断フローと外国法人対... — Apr 4, 2026 · 最新の改正情報は金融庁ホームページ等でご確認ください。 この記事では、法人顧客の確認（KYB）で中心になる実質的支配者（UBO）の特定を取り上げます。 判定の順序、間接保有の数え方、外国法人で情報が取れないときの考え方を整理します。」（https://note.com/amlcftmukudori/n/nf1f7c8491c0e）

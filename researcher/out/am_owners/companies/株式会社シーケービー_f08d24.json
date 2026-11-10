@@ -1,0 +1,693 @@
+{
+ "name": "株式会社シーケービー",
+ "aliases": [],
+ "context": "PBF=unknown 装置= 出典=https://www.ckb.co.jp/manufacturer/ai/",
+ "researched_at": "2026-11-10T19:14:22.022584+00:00",
+ "official_url": "https://www.ckb.co.jp/",
+ "identified_by": "search:yahoo_jp:シーケービー",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "〒150-0002 東京都渋谷区渋谷2-10-6 山田青山ビル2階4階 Google Maps TEL：03-3498-2131 FAX：03-3498-2366",
+    "url": "https://www.ckb.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "〒150-0002\n東京都渋谷区渋谷2-10-6　山田青山ビル",
+    "url": "https://tenshoku.mynavi.jp/company/419526/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "創業",
+    "value": "創業：昭和28年1月21日（1953年）",
+    "url": "https://www.ckb.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1953年1月21日",
+    "url": "https://mid-tenshoku.com/agency/a-8647/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1953年 （昭和28年）1月",
+    "url": "https://tenshoku.mynavi.jp/company/419526/",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1億円",
+    "url": "https://www.ckb.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "100百万円",
+    "url": "https://mid-tenshoku.com/agency/a-8647/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "10,000万円",
+    "url": "https://tenshoku.mynavi.jp/company/419526/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "年間売上高",
+    "value": "100億円",
+    "url": "https://www.ckb.co.jp/company/outline/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "70名",
+    "url": "https://www.ckb.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "54名",
+    "url": "https://mid-tenshoku.com/agency/a-8647/",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "70名",
+    "url": "https://tenshoku.mynavi.jp/company/419526/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "当社は1953年の創業以来、主にドイツやスイスなどのヨーロッパをはじめとした海外及び国内メーカの工作機械や精密測定機器などを取り扱う専門商社です。 「主として工作機械等の輸入販売を通じて、良心と法に従い、日本の社会と産業に貢献すること」を理念とし、日本を代表する大手メーカーをはじめ数多くの企業に高精度、高性能、高品質の製品をご提供し、日本のものづくりと密接に関わっております。 知識と経験の豊富な営業スタッフがお客様の相談を受け、最適な機械をオファーし、高度なトレーニングを受け豊かな経験を持つ技術スタッフが海外製品でありながら、国内製品と同等のレベルで技術サポートをご提供しており、お客様より信頼をいただいております。",
+    "url": "https://mid-tenshoku.com/agency/a-8647/",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "工作機械、鍛圧機械、製缶設備、精密測定機器、その他",
+    "url": "https://tenshoku.mynavi.jp/company/419526/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "使っている金属粉（材質）": [
+   {
+    "quote": "欧⽶を中⼼とした海外及び我が国の⼀流メーカー製の⼯作機械、鍛圧機械、アルミ⽸製造設備、測定機器等を取り扱う専⾨商社です",
+    "url": "https://www.ckb.co.jp/",
+    "pass": 1
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "製「ヘアピン式ステーター（EV＝電気自動車）用製造ライン」",
+    "url": "https://www.ckb.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "製「航空機加工機、AFP・ATL複合材自動積層装置」",
+    "url": "https://www.ckb.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "航空・発電分野と自動車分野にフォーカスし、 航空機エンジン部品や発電設備の難削材・高精度加工、 EV化や次世代モビリティに対応した生産効率化技術など、 最新技術を展示します",
+    "url": "https://www.ckb.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "製「ヘアピン式ステーター（EV＝電気自動車）用製造ライン」",
+    "url": "https://www.ckb.co.jp/news/?post=news_11728",
+    "pass": 1
+   },
+   {
+    "quote": "製「航空機加工機、AFP・ATL複合材自動積層装置」",
+    "url": "https://www.ckb.co.jp/news/?post=news_11728",
+    "pass": 1
+   },
+   {
+    "quote": "航空・発電分野と自動車分野にフォーカスし、 航空機エンジン部品や発電設備の難削材・高精度加工、 EV化や次世代モビリティに対応した生産効率化技術など、 最新技術を展示します",
+    "url": "https://www.ckb.co.jp/news/?post=news_11728",
+    "pass": 1
+   },
+   {
+    "quote": "製「ヘアピン式ステーター（EV＝電気自動車）用製造ライン」",
+    "url": "https://www.ckb.co.jp/news/?post=news_11274",
+    "pass": 1
+   },
+   {
+    "quote": "製「航空機加工機、AFP・ATL複合材自動積層装置」",
+    "url": "https://www.ckb.co.jp/news/?post=news_11274",
+    "pass": 1
+   },
+   {
+    "quote": "航空・発電分野と自動車分野にフォーカスし、 航空機エンジン部品や発電設備の難削材・高精度加工、 EV化や次世代モビリティに対応した生産効率化技術など、 最新技術を展示します",
+    "url": "https://www.ckb.co.jp/news/?post=news_11274",
+    "pass": 1
+   },
+   {
+    "quote": "製「ヘアピン式ステーター（EV＝電気自動車）用製造ライン」",
+    "url": "https://www.ckb.co.jp/news/?post=news_11074",
+    "pass": 1
+   },
+   {
+    "quote": "製「航空機加工機、AFP・ATL複合材自動積層装置」",
+    "url": "https://www.ckb.co.jp/news/?post=news_11074",
+    "pass": 1
+   },
+   {
+    "quote": "航空・発電分野と自動車分野にフォーカスし、 航空機エンジン部品や発電設備の難削材・高精度加工、 EV化や次世代モビリティに対応した生産効率化技術など、 最新技術を展示します",
+    "url": "https://www.ckb.co.jp/news/?post=news_11074",
+    "pass": 1
+   },
+   {
+    "quote": "製「ヘアピン式ステーター（EV＝電気自動車）用製造ライン」",
+    "url": "https://www.ckb.co.jp/news/?post=news_10764",
+    "pass": 1
+   },
+   {
+    "quote": "製「航空機加工機、AFP・ATL複合材自動積層装置」",
+    "url": "https://www.ckb.co.jp/news/?post=news_10764",
+    "pass": 1
+   },
+   {
+    "quote": "航空・発電分野と自動車分野にフォーカスし、 航空機エンジン部品や発電設備の難削材・高精度加工、 EV化や次世代モビリティに対応した生産効率化技術など、 最新技術を展示します",
+    "url": "https://www.ckb.co.jp/news/?post=news_10764",
+    "pass": 1
+   },
+   {
+    "quote": "製「ヘアピン式ステーター（EV＝電気自動車）用製造ライン」",
+    "url": "https://www.ckb.co.jp/news/?post=news_10755",
+    "pass": 1
+   },
+   {
+    "quote": "製「航空機加工機、AFP・ATL複合材自動積層装置」",
+    "url": "https://www.ckb.co.jp/news/?post=news_10755",
+    "pass": 1
+   },
+   {
+    "quote": "航空・発電分野と自動車分野にフォーカスし、 航空機エンジン部品や発電設備の難削材・高精度加工、 EV化や次世代モビリティに対応した生産効率化技術など、 最新技術を展示します",
+    "url": "https://www.ckb.co.jp/news/?post=news_10755",
+    "pass": 1
+   },
+   {
+    "quote": "量産向け電解研磨装置 EF-Performance",
+    "url": "https://www.ckb.co.jp/field/others/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerofoce™は特殊な内部構造を持ち、「エアー」の力でクーラントの運動エネルギーを飛躍的に向…",
+    "url": "https://www.ckb.co.jp/field/others/",
+    "pass": 1
+   },
+   {
+    "quote": "試作から量産対応まで可能なオランダ製 大型金属３Dプリンタ",
+    "url": "https://www.ckb.co.jp/field/others/",
+    "pass": 1
+   },
+   {
+    "quote": "特に大型ワークを生産されている、航空・宇宙 / エネルギー …",
+    "url": "https://www.ckb.co.jp/field/others/",
+    "pass": 1
+   },
+   {
+    "quote": "完全自動化も容易に構築でき、大規模な量産ラインに対応させることも可能…",
+    "url": "https://www.ckb.co.jp/field/others/",
+    "pass": 1
+   }
+  ],
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "大型金属3Dプリンタ",
+    "url": "https://www.ckb.co.jp/field/others/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 - 株式会社シーケービー — 会社概要 - 株式会社シーケービー 株式会社シーケービー https://www.ckb.co.jp > company > outline",
+    "url": "https://www.ckb.co.jp/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 | シーケービー - Powered by イプロスものづくり — 企業情報 | シーケービー - Powered by イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://pr.mono.ipros.com > ckb > information",
+    "url": "https://pr.mono.ipros.com/ckb/information/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社シーケービー - ミドルの転職 — 株式 会社シーケービー - ミドルの転職 ミドルの転職 https://mid-tenshoku.com > 掲載企業一覧",
+    "url": "https://mid-tenshoku.com/agency/a-8647/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社シーケービー | 浜松就職・転職ナビ JOBはま！ — 株式 会社シーケービー | 浜松就職・転職ナビ JOBはま！ 浜松就職・転職ナビ JOBはま！ https://www.shigoto-hamamatsu.com > company",
+    "url": "https://www.shigoto-hamamatsu.com/company/3310/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社シーケービー - 東京都・商社業界の企業情報 — 株式 会社シーケービー - 東京都・商社業界の企業情報 Baseconnect https://baseconnect.in > companies",
+    "url": "https://baseconnect.in/companies/ad6b541d-73e7-4188-9fd3-207afb1af246",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 シーケービー の会社概要 - マイナビ転職 — 株式会社 シーケービー の会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company",
+    "url": "https://tenshoku.mynavi.jp/company/419526/",
+    "pass": 3
+   },
+   {
+    "quote": "サービスエンジニア（輸入工作機械）／年休125日／未経験 ... — サービスエンジニア（輸入工作機械）／年休125日／未経験 ... doda https://doda.jp > ... > 株式会社シーケービーの求人情報",
+    "url": "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3015976049/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 シーケービー | 浜松就職・転職ナビ JOBはま！ — 株式会社 シーケービー | 浜松就職・転職ナビ JOBはま！ 浜松就職・転職ナビ JOBはま！ https://www.shigoto-hamamatsu.com > company",
+    "url": "https://www.shigoto-hamamatsu.com/company/3310/",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "定時株主総会 毎年3月31日",
+    "url": "https://www.j-eng.co.jp/investors/shareholder/information.html",
+    "pass": 3
+   },
+   {
+    "quote": "大株主一覧（上位10名）",
+    "url": "https://www.j-eng.co.jp/investors/shareholder/information.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ckb.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/field/precision-measuring-equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/news/?post=news_11728",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/news/?post=news_11274",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/news/?post=news_11074",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/news/?post=news_10764",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/news/?post=news_10755",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/product/11578/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/product/11553/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/field/others/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2021/09/ckb0014_2.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/07/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%89%88%E5%9C%B0%E5%9B%B3ckb_map_%E5%8C%97%E4%B9%9D%E5%B7%9E%E9%96%89%E9%8E%96-1024x820.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://pr.mono.ipros.com/ckb/information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mid-tenshoku.com/agency/a-8647/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubeni-idigio.com/insight-hub/metal3dprinter_desktopmetal_case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/the-future-of-metal-3d-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricoh.co.jp/3dp/metal/what",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.3dsystems.com/semiconductor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ci-flavors.com/news/ci-flavors%E3%80%81kkr%E3%82%92%E6%96%B0%E3%81%9F%E3%81%AA%E6%A0%AA%E4%B8%BB%E3%81%AB%E8%BF%8E%E3%81%88%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AB%E5%90%88%E6%84%8F-%E5%9B%BD%E5%86%85%E5%A4%96/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.j-eng.co.jp/investors/shareholder/information.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cj-fund.co.jp/about/stockholder.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/company/419526/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/ckb/information/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "シーケービー",
+   "results": [
+    "https://www.ckb.co.jp/",
+    "https://metoree.com/companies/16129/",
+    "https://search.rakuten.co.jp/search/mall/%E3%82%AB%E3%83%AB%E3%83%90%E3%83%B3%E3%83%BB%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%B3+%E3%82%B7%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%93%E3%83%BC/",
+    "https://kakaku.com/item/51802610334/",
+    "https://mid-tenshoku.com/agency/a-8647/",
+    "https://coloria.jp/magazine/articles/lcX6m",
+    "https://www.celes-perfume.com/product/calvin-klein-ck-be/",
+    "https://ja.wikipedia.org/wiki/シービークロス",
+    "https://www.ckb.co.jp/company/outline/",
+    "https://www.cosme.net/products/4373/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "シーケービー 会社概要 資本金 設立",
+   "results": [
+    "https://www.ckb.co.jp/company/outline/",
+    "https://pr.mono.ipros.com/ckb/information/",
+    "https://mid-tenshoku.com/agency/a-8647/",
+    "https://www.shigoto-hamamatsu.com/company/3310/",
+    "https://baseconnect.in/companies/ad6b541d-73e7-4188-9fd3-207afb1af246",
+    "https://metoree.com/companies/16129/",
+    "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3015976049/",
+    "https://salesnow.jp/db/companies/jcbbydg3vr57cpmed",
+    "https://suwa.monozukuri.or.jp/detail/02406/",
+    "https://mono.ipros.com/company/detail/226617/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "シーケービー 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.marubeni-idigio.com/insight-hub/metal3dprinter_desktopmetal_case/",
+    "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/the-future-of-metal-3d-printing",
+    "https://www.ricoh.co.jp/3dp/metal/what",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://jampt.jp/column/column_453/",
+    "https://www.youtube.com/watch?v=karP2ZyHbM4",
+    "https://www.ckb.co.jp/product/3669/",
+    "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://www.ckb.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "シーケービー 金属積層造形 設備",
+   "results": [
+    "https://jampt.jp/equipment/",
+    "https://chuokatan.co.jp/products/3dp/",
+    "https://ja.3dsystems.com/semiconductor",
+    "https://www.youtube.com/watch?v=sT3lR9R98hc",
+    "https://www.sodick.co.jp/products/tool/metal-3d-printer/",
+    "https://www.nims.go.jp/cccenter/ismg/equipments.html",
+    "https://partners.solize.com/manufacturing/technology/3dp-metal",
+    "https://kyowa-industrial.jp/am",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://www.ckb.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "シーケービー 株主 出資 親会社",
+   "results": [
+    "https://www.ci-flavors.com/news/ci-flavors%E3%80%81kkr%E3%82%92%E6%96%B0%E3%81%9F%E3%81%AA%E6%A0%AA%E4%B8%BB%E3%81%AB%E8%BF%8E%E3%81%88%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AB%E5%90%88%E6%84%8F-%E5%9B%BD%E5%86%85%E5%A4%96/",
+    "https://www.j-eng.co.jp/investors/shareholder/information.html",
+    "https://www.cj-fund.co.jp/about/stockholder.html",
+    "https://www.wwdjapan.com/articles/2480399",
+    "https://www.nikkei.com/article/DGXZQOUB254IQ0V20C26A8000000/",
+    "https://www.mhlw.go.jp/content/001027596.pdf",
+    "https://media.monex.co.jp/articles/-/16948",
+    "https://links.zeiken.co.jp/mauseful/4432",
+    "https://www.ckb.co.jp/company/outline/",
+    "https://www.ckb.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "シーケービー 売上高 従業員数",
+   "results": [
+    "https://tenshoku.mynavi.jp/company/419526/",
+    "https://pr.mono.ipros.com/ckb/information/",
+    "https://www.ckb.co.jp/company/outline/",
+    "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3015976049/",
+    "https://www.shigoto-hamamatsu.com/company/3310/",
+    "https://metoree.com/companies/16129/",
+    "https://www.ckd.co.jp/company/profile/",
+    "https://www.takiron-ci.co.jp/corporate/",
+    "https://www.kurabo.co.jp/company/number.html",
+    "https://mono.ipros.com/company/detail/226617/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com シーケービー",
+   "results": [
+    "https://note.com/yuukishishido/n/n44b6d278bb7c",
+    "https://note.com/ibara_kuromori/n/n5e4fa3ae5396",
+    "https://note.com/gotohirosi/n/n0f1fb9a9c4b0",
+    "https://note.com/junjunpa/n/n878fefb64824",
+    "https://note.com/kousui365/n/necde5303d091",
+    "https://note.com/nice_curlew617/n/n8ef2b8b29c72",
+    "https://note.com/theckb/n/n0ca9a9429f69",
+    "https://note.com/gotohirosi/n/n85cf6f373b31",
+    "https://note.com/gotohirosi/n/nda5253ccb6af",
+    "https://note.com/gotohirosi/n/ndda884c5f583"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com シーケービー",
+   "results": [
+    "https://x.com/ckbdidit",
+    "https://x.com/CKBEcoFund",
+    "https://x.com/miku1596",
+    "https://x.com/arielhelwani/status/2107556861725819186",
+    "https://x.com/NervosNetwork",
+    "https://x.com/search?q=%23ckb",
+    "https://x.com/Theckb_official",
+    "https://x.com/ufc/status/1588625167898783744",
+    "https://x.com/miku5325",
+    "https://x.com/search?q=%24ckb"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com シーケービー",
+   "results": [
+    "https://www.linkedin.com/showcase/cancer-knowledgebase-ckb/",
+    "https://ca.linkedin.com/company/ckb-construction",
+    "https://www.linkedin.com/company/ckb-group",
+    "https://bs.linkedin.com/jobs/%E5%BC%80%E6%88%BF%E6%9F%A5%E8%BA%AB%E4%BB%BD%E8%AF%81%E3%80%96%E7%BD%91%E5%9D%80chadang.top%E3%80%97.ckb-jobs",
+    "https://jp.linkedin.com/company/ckb-corporation",
+    "https://www.linkedin.com/products/genomenon-ckb-cancer-knowledgebase/",
+    "https://in.linkedin.com/in/seshadri-sriramulu-a9870b66",
+    "https://www.linkedin.com/company/ckb-ventures-llc",
+    "https://www.linkedin.com/company/ckb-vienna-llp",
+    "https://jp.linkedin.com/in/隆-日高-b70636233"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com シーケービー",
+   "results": [
+    "https://www.facebook.com/camkabe/",
+    "https://www.facebook.com/p/CKB-Equestrian-100093047425387/",
+    "https://www.facebook.com/events/ckb-friends-family-motocross/ckb-friends-and-family-ride/1090110508559904/",
+    "https://www.facebook.com/DoubleDeckerPainting/",
+    "https://www.facebook.com/wboy12news/posts/the-north-central-west-virginia-airport-ckb-has-announced-the-selection-of-skywe/1311061877722998/",
+    "https://www.facebook.com/p/CKB-Performance-Horses-100093402516929/",
+    "https://www.facebook.com/ckbviennallp/",
+    "https://www.facebook.com/CKBauto/",
+    "https://www.facebook.com/ckbsports/",
+    "https://www.facebook.com/ckbphotographyandphotobooth/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "シーケービー note 社長",
+   "results": [
+    "https://diamond.jp/articles/-/388572",
+    "https://note.com/shacho_homon/m/m1bd972cc202e",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/",
+    "https://note.com/sadaaki",
+    "https://x.com/sadaaki",
+    "https://www.ckb.co.jp/news/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "シーケービー X 投稿",
+   "results": [
+    "https://x.com/search?q=%23ckb",
+    "https://syukatsu-kaigi.jp/companies/66245/word_mouths",
+    "https://www.ryutsuu.biz/ec/p111749.html",
+    "https://s.theckb.com/ja/user/usercenter",
+    "https://x-sell.onlineshop.x-sell.jp/c/0000000513/00912365?srsltid=AYCX9vLKQpvLNrlKNy3gnMWoFTC1S_YgQYuhDLePIp2NnRwHVl9iLLZu",
+    "https://x.com/CKB_official/status/2012155871439228986",
+    "https://flyteam.jp/registration/PH-CKB",
+    "https://coloria.jp/magazine/articles/lcX6m",
+    "https://www.ckb.co.jp/",
+    "https://www.ckb.co.jp/news/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部13頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部13頁・検索12回）"
+ }
+}

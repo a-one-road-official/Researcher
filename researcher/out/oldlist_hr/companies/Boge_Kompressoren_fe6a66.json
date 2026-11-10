@@ -1,0 +1,852 @@
+{
+ "name": "Boge Kompressoren",
+ "aliases": [],
+ "context": "旧営業リスト｜Machine Tools / Production Equipment｜AI送信済み",
+ "researched_at": "2026-11-10T19:17:15.519307+00:00",
+ "official_url": "https://www.boge.com/de-de/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "BOGE entwickelt Druckluftlösungen, die Technik mit Verantwortung verbinden. Effizient, nachhaltig und partnerschaftlich – von leistungsstarken Kompressoren über bedarfsgerechtes Zubehör bis zum kompletten Rundum-Service.",
+    "url": "https://www.boge.com/de-de/",
+    "pass": 1
+   },
+   {
+    "quote": "Aktuelles: Produktneuheiten, News & Events",
+    "url": "https://www.boge.com/de-de/",
+    "pass": 1
+   },
+   {
+    "quote": "Die neue Preis-Leistungs-Klasse für Druckluft",
+    "url": "https://www.boge.com/de-de/",
+    "pass": 1
+   },
+   {
+    "quote": "Mehr Effizienz. Mehr Wirtschaftlichkeit. Ohne Kompromisse bei Qualität und Zuverlässigkeit. Die neue E-Baureihe macht bewährte BOGE Performance für noch mehr Anwendungen zugänglich – Made in Germany, mit 3 Jahren Garantie und 24/7 Support.",
+    "url": "https://www.boge.com/de-de/",
+    "pass": 1
+   },
+   {
+    "quote": "Jetzt Produktdetails ansehen",
+    "url": "https://www.boge.com/de-de/",
+    "pass": 1
+   },
+   {
+    "quote": "Pressemitteilung lesen",
+    "url": "https://www.boge.com/de-de/",
+    "pass": 1
+   },
+   {
+    "quote": "100 Jahre Druckluft. Geprägt von Generationen.",
+    "url": "https://www.boge.com/de-de/",
+    "pass": 1
+   },
+   {
+    "quote": "Wir bauen Kompressoren seit 1926.",
+    "url": "https://www.boge.com/de-de/",
+    "pass": 1
+   },
+   {
+    "quote": "1926 stellt Otto Boge den ersten BOGE Kompressor vor und legt damit den Grundstein für unsere Zukunft als Druckluftspezialist. Sein Gespür für neue Chancen, sein Erfindergeist und der Mut, neue Wege zu gehen, prägen BOGE bis heute.",
+    "url": "https://www.boge.com/de-de/",
+    "pass": 1
+   },
+   {
+    "quote": "1938 übernimmt Ernst Thomas nach dem Tod seines Schwiegervaters Otto Boge die Unternehmensleitung. Er führt BOGE durch schwierige Zeiten und schafft mit der industriellen Serienproduktion von Kolbenkompressoren die Basis für neues Wachstum in den Wirtschaftswunderjahren – auch über Deutschlands Grenzen hinaus.",
+    "url": "https://www.boge.com/de-de/",
+    "pass": 1
+   },
+   {
+    "quote": "1949 tritt Wolfgang Meier-Scheuven, Enkel von Otto Boge, in das Unternehmen ein und führt es von 1975 bis 1995 als Geschäftsführer. Mit der Einführung der Schraubenkompressor-Technologie prägt er das Portfolio neu und entwickelt BOGE zu einem der führenden Kompressorhersteller Europas.",
+    "url": "https://www.boge.com/de-de/",
+    "pass": 1
+   },
+   {
+    "quote": "Von 1995 bis 2020 führt Wolf-D. Meier-Scheuven, Urenkel von Otto Boge, das Familienunternehmen in die nächste Phase der Internationalisierung. Neue Tochtergesellschaften und Märkte machen BOGE zu einem globalen Premiumanbieter für Druckluftsysteme – fest verwurzelt in Bielefeld und weltweit präsent.",
+    "url": "https://www.boge.com/de-de/",
+    "pass": 1
+   },
+   {
+    "quote": "BOGE Produkte – systemisch, modular, zukunftsfähig",
+    "url": "https://www.boge.com/de-de/",
+    "pass": 1
+   },
+   {
+    "quote": "Produktgruppen entdecken",
+    "url": "https://www.boge.com/de-de/",
+    "pass": 1
+   },
+   {
+    "quote": "Bei Meerwasserentsalzungsanlagen sind BOGE Schraubenkompressoren eine bekannte Größe. Ob zur Steuerung pneumatischer Ventile, zur Säuberung der Wasserkessel oder als Arbeitsluft – erst durch Druckluft werden all die Prozesse ermöglicht, die aus Meerwasser Trinkwasser machen. Doch auch generell gilt: Wo immer in",
+    "url": "https://www.boge.com/de-de/",
+    "pass": 1
+   },
+   {
+    "quote": "Handwerk und Industrie die zuverlässige Versorgung mit Druckluft entscheidend ist, besinnt man sich auf unsere langjährige Expertise. Denn mit unseren hochwertigen Aufbereitungsprodukten lassen sich die Qualitätsansprüche jeder Branche zuverlässig erfüllen – bei optimalen Effizienzwerten.",
+    "url": "https://www.boge.com/de-de/",
+    "pass": 1
+   },
+   {
+    "quote": "Jederzeit ansprechbar. Nehmen Sie uns ruhig beim Wort.",
+    "url": "https://www.boge.com/de-de/",
+    "pass": 1
+   },
+   {
+    "quote": "Traditionell ist Bielefeld unser Hauptsitz und größter Produktionsstandort, doch als weltweit operierender Anbieter von Kompressoren und Druckluftsystemen verfügt BOGE über weitere Standorte in über 120 Ländern. Ein dichtes Servicenetz garantiert, dass BOGE Luft jederzeit und an jedem Ort verfügbar ist.",
+    "url": "https://www.boge.com/de-de/",
+    "pass": 1
+   },
+   {
+    "quote": "Ansprechpartner in der Nähe finden",
+    "url": "https://www.boge.com/de-de/",
+    "pass": 1
+   },
+   {
+    "quote": "Schraubenkompressor Montage",
+    "url": "https://www.boge.com/de-de/",
+    "pass": 1
+   },
+   {
+    "quote": "Aftermarket & Produktmanagement",
+    "url": "https://www.boge.com/de-de/",
+    "pass": 1
+   },
+   {
+    "quote": "Ob technische Fragen, Serviceanliegen oder persönliche Beratung: Wir bringen Sie direkt mit dem richtigen Ansprechpartner in Verbindung.",
+    "url": "https://www.boge.com/de-de/",
+    "pass": 1
+   },
+   {
+    "quote": "Rundum Service Optionen prüfen",
+    "url": "https://www.boge.com/de-de/",
+    "pass": 1
+   },
+   {
+    "quote": "News und Presseberichten",
+    "url": "https://www.boge.com/de-de/",
+    "pass": 1
+   },
+   {
+    "quote": "halten wir Sie auf dem Laufenden – über Produktneuheiten, Innovationen und Ereignisse rund um unser Unternehmen. Schauen Sie regelmäßig vorbei und entdecken Sie, was uns bewegt!",
+    "url": "https://www.boge.com/de-de/",
+    "pass": 1
+   },
+   {
+    "quote": "Ansprechpartner vor Ort",
+    "url": "https://www.boge.com/de-de/service-und-hilfe/unterstuetzung/kontakt/",
+    "pass": 1
+   },
+   {
+    "quote": "Über unser Kontaktformular erreichen Sie uns schnell und unkompliziert. Wählen Sie Ihr Thema aus (Angebot, Service, Ersatzteil) damit wir Ihre Anfrage direkt an die richtigen Ansprechpartner weiterleiten können.",
+    "url": "https://www.boge.com/de-de/service-und-hilfe/unterstuetzung/kontakt/",
+    "pass": 1
+   },
+   {
+    "quote": "BOGE Kompressoren in Deutschland",
+    "url": "https://www.boge.com/de-de/service-und-hilfe/unterstuetzung/kontakt/",
+    "pass": 1
+   },
+   {
+    "quote": "BOGE KOMPRESSOREN Otto Boge GmbH & Co. KG",
+    "url": "https://www.boge.com/de-de/service-und-hilfe/unterstuetzung/kontakt/",
+    "pass": 1
+   },
+   {
+    "quote": "BOGE Kompressoren Spare Parts | KTB Europe",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "BOGE Compressors develops and manufactures energy-efficient compressed air systems. The company is headquartered in Germany.",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "Compressed air systems",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "12 products",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "BOGE Multitronic 4 control board; part number 5756660454P. Replacement part for BOGE compressors for regulation and monitoring. Order your replacement...",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "BOGE 5750001013P Compressor Spare Part",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "BOGE 5750001013P spare part for air compressors. Ensures operation and performance of your BOGE system. Request spare part now.",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "BOGE SKV 26 GA Piston Compressor",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "BOGE SKV 26 GA piston compressor with flywheel (100125296EP). Reliable compressed air generation for industrial applications. Inquire now.",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "BOGE emergency stop switch; item 185022300. Essential safety component for BOGE compressors and compressed air systems. Immediate shutdown in emergencies....",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "BOGE silencer 568700300P for SRH V 250-5 compressors. Effectively reduces noise and improves the work environment. Rubber material, robust. Order...",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "BOGE 644009801 Repair Kit for Piston Compressors",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "BOGE 644009801 repair kit for piston compressors. Includes wear parts for maintenance and performance assurance. Request replacement part now.",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "BOGE intake filter cartridge 5690034661P for piston compressors. Efficient dust protection and machine longevity. Availability and delivery time on request....",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "BOGE SRHV 250-5 Pre-compressor - Compressed Air 1150 l/min",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "BOGE SRHV 250-5 piston pre-compressor with 40 bar maximum pressure and 1150 l/min. Robust compressed air technology for industrial applications....",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "BOGE inset for suction regulator (2420088671P) as a spare part for compressors. Important for airflow control and machine performance. Order...",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "BOGE 227004313P Pulley for Compressor",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "BOGE pulley (227004313P) for compressed air systems. Optimal power transmission; for piston/screw compressors. Order your spare part now.",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "BOGE 5690000726P intake filter for BOGE compressors and silencers. Efficient air filtration for optimal performance. Order replacement part now.",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "We source. You keep producing.",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "KTB is a manufacturer-independent procurement service provider. Looking for parts from",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "All brand names, manufacturer designations and part numbers mentioned are the property of their respective owners and serve solely to identify the products offered. Such reference does not establish any partner or authorised-dealer status beyond any business relationship that actually exists.",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "KTB is a manufacturer-independent procurement service provider. Upon your inquiry, we identify suitable sources of supply, obtain quotations and handle the process through to delivery. Availability, lead time and terms are clarified on a case-by-case basis.",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "KTB DO BRASIL - IMPORTAÇÃO, EXPORTAÇÃO E REPRESENTAÇÕES LTDA.",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "BOGE Kompressoren Asia Pacific | HHM Global | B2B Online Platform & Magazine",
+    "url": "https://www.hhmglobal.com/clients/boge-kompressoren-asia-pacific",
+    "pass": 3
+   },
+   {
+    "quote": "WHO Expands Prequalification Programme for Medical Devices",
+    "url": "https://www.hhmglobal.com/clients/boge-kompressoren-asia-pacific",
+    "pass": 3
+   },
+   {
+    "quote": "Protecting Our Nurses: Smart room technology can improve nurse safety, mental…",
+    "url": "https://www.hhmglobal.com/clients/boge-kompressoren-asia-pacific",
+    "pass": 3
+   },
+   {
+    "quote": "A Guide to Healthcare AI Certification: Third-Party Organizations and Programs",
+    "url": "https://www.hhmglobal.com/clients/boge-kompressoren-asia-pacific",
+    "pass": 3
+   },
+   {
+    "quote": "Privacy Expert Advocates Protection of Healthcare Executives and Their Families",
+    "url": "https://www.hhmglobal.com/clients/boge-kompressoren-asia-pacific",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Fair China 2026 Wraps Up: Overseas Professional Visitors Double, Marking…",
+    "url": "https://www.hhmglobal.com/clients/boge-kompressoren-asia-pacific",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "エアコンプレッサの世界市場：メーカー、地域、タイプ、アプリケーション別、2026-2032年の予測 - ZDNET Japan",
+    "url": "https://japan.zdnet.com/release/31166502/",
+    "pass": 3
+   },
+   {
+    "quote": "Continue to ZDNET Japan",
+    "url": "https://japan.zdnet.com/release/31166502/",
+    "pass": 3
+   },
+   {
+    "quote": "Global Info Research（所在地：東京都中央区）はこのたび、エアコンプレッサ市場の産業構造転換を捉えた最新調査レポートを発表しました",
+    "url": "https://japan.zdnet.com/release/31166502/",
+    "pass": 3
+   },
+   {
+    "quote": "Global Info Research（本社：東京都中央区）は、グローバル業界情報を深掘りし、企業の戦略計画・IPOコンサルティング・産業チェーン調査を支援する市場情報コンサルティング会社です",
+    "url": "https://japan.zdnet.com/release/31166502/",
+    "pass": 3
+   },
+   {
+    "quote": "電話：03-4563-9129（日本）／ 0081-34 563 9129（グローバル）／ 0086-176 6505 2062",
+    "url": "https://japan.zdnet.com/release/31166502/",
+    "pass": 3
+   },
+   {
+    "quote": "Google検索の「AIモード」、日本で飲食店の空席検索に対応 複数サイトを横断",
+    "url": "https://japan.zdnet.com/release/31166502/",
+    "pass": 3
+   },
+   {
+    "quote": "東京で27年無人タクシー運行、既存の運転手はどうなる？--失業懸念に川鍋会長が回答",
+    "url": "https://japan.zdnet.com/release/31166502/",
+    "pass": 3
+   },
+   {
+    "quote": "「便利だけど手応えがない」のはなぜ？ データから見る日本企業のAI活用と課題",
+    "url": "https://japan.zdnet.com/release/31166502/",
+    "pass": 3
+   },
+   {
+    "quote": "ZDNET Japanは、CIOとITマネージャーを対象に、ビジネス課題の解決とITを活用した新たな価値創造を支援します",
+    "url": "https://japan.zdnet.com/release/31166502/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan (+81)",
+    "url": "https://www.hhmglobal.com/clients/boge-kompressoren-asia-pacific",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Global Info Research（本社：東京都中央区）は、グローバル業界情報を深掘りし、企業の戦略計画・IPOコンサルティング・産業チェーン調査を支援する市場情報コンサルティング会社です",
+    "url": "https://japan.zdnet.com/release/31166502/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "Oracle Health Unveils AI-Powered Revenue Cycle Management Capabilities to Strengthen Healthcare…",
+    "url": "https://www.hhmglobal.com/clients/boge-kompressoren-asia-pacific",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "電子メール：info@globalinforesearch.com",
+    "url": "https://japan.zdnet.com/release/31166502/",
+    "pass": 3
+   },
+   {
+    "quote": "A password will be e-mailed to you.",
+    "url": "https://www.hhmglobal.com/clients/boge-kompressoren-asia-pacific",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Industrial application",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "BOGE 580001831P plate heat exchanger for industrial applications. High-efficiency heat transfer. Request spare part now.",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "BOGE SKV 26 GA piston compressor with flywheel (100125296EP). Reliable compressed air generation for industrial applications. Inquire now.",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "BOGE SRHV 250-5 piston pre-compressor with 40 bar maximum pressure and 1150 l/min. Robust compressed air technology for industrial applications....",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer-independent",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "KTB is a manufacturer-independent procurement service provider. Looking for parts from",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "? We will gladly send an enquiry to our sources of supply worldwide on your behalf – for this and many other manufacturers, since 1976.",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "You name the manufacturer, type and quantity.",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "KTB Europe sources spare parts and MRO materials worldwide – including hard-to-find parts. Send us the manufacturer and part number and we will take care of the sourcing.",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "All brand names, manufacturer designations and part numbers mentioned are the property of their respective owners and serve solely to identify the products offered. Such reference does not establish any partner or authorised-dealer status beyond any business relationship that actually exists.",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "KTB is a manufacturer-independent procurement service provider. Upon your inquiry, we identify suitable sources of supply, obtain quotations and handle the process through to delivery. Availability, lead time and terms are clarified on a case-by-case basis.",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "KTB Europe – Your Global Partner for MRO Procurement and Industrial Automation:",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "Total Industrial Air | Boge Industrial Air Compressors",
+    "url": "https://www.totalindustrialair.com/pages/boge",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "BOGE KOMPRESSOREN ASIA PACIFIC PTE LTD | LinkedIn — BOGE KOMPRESSOREN ASIA PACIFIC PTE LTD | LinkedIn LinkedIn Singapore https://sg.linkedin.com > company",
+    "url": "https://sg.linkedin.com/company/boge-kompressoren-asia-pacific-pte-ltd",
+    "pass": 3
+   },
+   {
+    "quote": "BOGE Kompressoren Spare Parts - KTB Europe — BOGE Kompressoren Spare Parts - KTB Europe KTB Europe https://www.ktb-europe.com > boge",
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "pass": 3
+   },
+   {
+    "quote": "BOGE Kompressoren Asia Pacific | HHM Global — BOGE Kompressoren Asia Pacific | HHM Global Hospital & Healthcare Management https://www.hhmglobal.com > clients",
+    "url": "https://www.hhmglobal.com/clients/boge-kompressoren-asia-pacific",
+    "pass": 3
+   },
+   {
+    "quote": "BOGE America - Compressed Air Systems — BOGE Kompressoren has been a manufacturer of industrial compressors and compressed air systems in Germany for more than 100 years.",
+    "url": "https://zh.boge.com/en-us/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "BOGE Compressors International — BOGE Kompressoren has been a manufacturer of industrial compressors and compressed air systems in Germany for more than 100 years.",
+    "url": "https://zh.boge.com/en/case-studies/ksi/",
+    "pass": 3
+   },
+   {
+    "quote": "boge kompressoren - Crunchbase Company Profile & Funding — BOGE Kompressoren manufactures industrial compressors and compressed air systems for industrial and commercial applications. Its portfolio includes screw, piston, and turbo compressors, as well as compressed air dryers, filters, storage equipment, and other treatment components.",
+    "url": "https://www.crunchbase.com/organization/boge-kompressoren",
+    "pass": 3
+   },
+   {
+    "quote": "Boge - Crunchbase Company Profile & FundingBOGE Compressors Ltd Information - RocketReachBOGE Compressed Air Systems GmbH & Co. KG InformationBOGE Kompressoren GmbH, Hirschbach im Mühlkreis, AustriaBOGE’s Competitors, Revenue, Number of Employees, Funding ... — Boge is an industrial engineering company that manufactures and distributes compressor and compressed air solutions. BOGE Compressors Ltd ",
+    "url": "https://www.crunchbase.com/organization/boge",
+    "pass": 3
+   },
+   {
+    "quote": "BOGE Compressors Ltd Information - RocketReachBOGE Compressed Air Systems GmbH & Co. KG InformationBOGE Kompressoren GmbH, Hirschbach im Mühlkreis, AustriaBOGE’s Competitors, Revenue, Number of Employees, Funding ... — BOGE Compressors Ltd is a Hand, Power And Lawn-Care Tools, Consumer Goods, and Manufacturing company located in Bielefeld with $187.9 million in revenue and 0 employees. Find top em",
+    "url": "https://rocketreach.co/boge-compressors-ltd-profile_b446825cfaead513",
+    "pass": 3
+   },
+   {
+    "quote": "BOGE Compressed Air Systems GmbH & Co. KG InformationBOGE Kompressoren GmbH, Hirschbach im Mühlkreis, AustriaBOGE’s Competitors, Revenue, Number of Employees, Funding ... — BOGE Compressed Air Systems GmbH & Co. KG is a Machinery Manufacturing company located in Bielefeld, North Rhine-Westphalia with $187.9 million in revenue and 29 employees. Find top employees, contact details and business stati",
+    "url": "https://rocketreach.co/boge-compressed-air-systems-gmbh-co-kg-profile_b7463495c53a4533",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "BOGE Compressors Germany - LinkedIn BOGE Compressors Germany | 6,442 followers on LinkedIn. BOGE: Best Of German Engineering | Mit der Erfahrung von mehr als 115 Jahren gehört die BOGE KOMPRESSOREN Otto Boge GmbH & Co. KG zu den ...",
+    "url": "https://www.linkedin.com/company/boge-kompressoren-germany/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.boge.com/de-de/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boge.com/de-de/service-und-hilfe/unterstuetzung/kontakt/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://japan.zdnet.com/release/31166502/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hoerbiger.com/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gu-global.com/jp/ja/special-feature/press-release",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.bosch.co.jp/press/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sg.linkedin.com/company/boge-kompressoren-asia-pacific-pte-ltd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hhmglobal.com/clients/boge-kompressoren-asia-pacific",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sg.linkedin.com/company/boge-kompressoren-asia-pacific-pte-ltd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.totalindustrialair.com/pages/boge",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaeser.com/int-en/company/about-us/kaeser-worldwide/japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/4cm/case-study/boge-compressors-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zh.boge.com/en-us/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zh.boge.com/en/case-studies/ksi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/boge-kompressoren",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/boge-compressors-ltd/10850679",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/boge",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://rocketreach.co/boge-compressors-ltd-profile_b446825cfaead513",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/boge-kompressoren-germany/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Boge Kompressoren 日本 導入",
+   "results": [
+    "https://japan.zdnet.com/release/31166502/",
+    "https://www.hoerbiger.com/ja",
+    "https://www.gu-japan.com/jp/corp/company/pressrelease/pdf/190107_pumps.pdf",
+    "https://www.bosch.co.jp/press/",
+    "https://www.mordorintelligence.com/ja/industry-reports/air-compressor-market",
+    "https://jp.linkedin.com/pulse/%E9%AB%98%E5%9C%A7%E3%83%96%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4%E3%81%AE%E8%A9%95%E4%BE%A1%E7%8F%BE%E5%9C%A8%E3%81%AE%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E3%81%A8%E5%B0%86%E6%9D%A5%E3%81%AE%E6%88%90%E9%95%B7%E8%A6%8B%E9%80%9A%E3%81%972026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr-7515407973150765056-4mnte",
+    "https://news.nicovideo.jp/watch/nw19257424?from=a_newslist_4167903",
+    "https://www.researchnester.com/ja/reports/industrial-air-compressor-market/5149",
+    "https://prtimes.jp/main/html/rd/p/000000623.000067400.html",
+    "https://www.boge.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Boge Kompressoren 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.boge.com/en-de/",
+    "https://sg.linkedin.com/company/boge-kompressoren-asia-pacific-pte-ltd",
+    "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "https://www.hhmglobal.com/clients/boge-kompressoren-asia-pacific",
+    "https://www.boge.com/en-sg/the-company/",
+    "https://de.wikipedia.org/wiki/Boge_Kompressoren",
+    "https://chemanager-online.com/en/companies/boge-kompressoren-otto-boge-gmbh-co-kg/",
+    "https://bogesales.com/",
+    "https://processtechnology.wiley.com/de/firmen/duplicate-673d018f3a206-boge-kompressoren-otto-boge-gmbh-co-kg/",
+    "https://ja.wikipedia.org/wiki/秦英之"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Boge Kompressoren Japan",
+   "results": [
+    "https://www.boge.com/en-de/",
+    "https://sg.linkedin.com/company/boge-kompressoren-asia-pacific-pte-ltd",
+    "https://www.totalindustrialair.com/pages/boge",
+    "https://www.kaeser.com/int-en/company/about-us/kaeser-worldwide/japan",
+    "https://www.hhmglobal.com/clients/boge-kompressoren-asia-pacific",
+    "https://www.facebook.com/AsiaFoodJournal/posts/boge-kompressoren-is-bringing-energy-efficient-industrial-solutions-to-allpack-i/1138376235367209/",
+    "https://asiafoodjournal.com/boge-kompressoren-to-showcase-energy-efficient-compressed-air-and-on-site-nitrogen-gas-solutions-at-allpack-indonesia-2026/",
+    "https://compressornow.com/online-store/air-end-rebuild/boge-kompressoren-air-end-rebuilding/",
+    "https://www.ktb-europe.com/en/manufacturer/boge/",
+    "https://www.boge.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Boge Kompressoren manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/4cm/case-study/boge-compressors-customer-case-study",
+    "https://www.boge.com/en-us/case-studies-and-insights/",
+    "https://zh.boge.com/en-us/case-studies/",
+    "https://zh.boge.com/en/case-studies/ksi/",
+    "https://www.casestudies.com/company/brash/case-study/boge-customer-case-study",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/4cm_boge-compressors_0.pdf",
+    "https://4cm.co.uk/boge-case-study/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Boge Kompressoren white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partner.vw.com/partner",
+    "https://upcloud.com/partner-program/",
+    "https://www.vizrt.com/partner-program/",
+    "https://reseller.amazon.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Boge Kompressoren founded funding employees revenue",
+   "results": [
+    "https://www.crunchbase.com/organization/boge-kompressoren",
+    "https://www.zoominfo.com/c/boge-compressors-ltd/10850679",
+    "https://www.crunchbase.com/organization/boge",
+    "https://rocketreach.co/boge-compressors-ltd-profile_b446825cfaead513",
+    "https://rocketreach.co/boge-compressed-air-systems-gmbh-co-kg-profile_b7463495c53a4533",
+    "https://www.northdata.com/BOGE+Kompressoren+GmbH,+Hirschbach+im+Mühlkreis/359534b",
+    "https://www.owler.com/company/boge"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Boge Kompressoren",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/seigo77",
+    "https://note.com/wise_turtle184",
+    "https://note.com/diparururun",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Boge Kompressoren",
+   "results": [
+    "https://x.com/bogeuk",
+    "https://x.com/",
+    "https://x.com/itscelyunique/status/2117839228826521620",
+    "https://x.com/RyanAFournier/status/2117296789443240367",
+    "https://x.com/evadentz/status/2115896420809216184",
+    "https://x.com/Vanlenciacf/status/2115571969827668368",
+    "https://x.com/jocelynseip/status/2118260591680983528"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Boge Kompressoren",
+   "results": [
+    "https://www.linkedin.com/company/boge-kompressoren-germany/",
+    "https://www.linkedin.com/company/boge-compressed-air-systems-gmbh-co-kg",
+    "https://be.linkedin.com/company/boge-kompressoren",
+    "https://nl.linkedin.com/company/boge-kompressoren",
+    "https://de.linkedin.com/in/michael-pollhans-0551081aa",
+    "https://at.linkedin.com/company/boge-oesterreich",
+    "https://sg.linkedin.com/company/boge-kompressoren-asia-pacific-pte-ltd"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Boge Kompressoren",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Boge Kompressoren note 社長",
+   "results": [
+    "https://moproweb.de/personen/bohe-erweitert-geschaeftsleitung/",
+    "https://www.vdi-nachrichten.com/technik/produktion/neuer-boge-geschaeftsfuehrer-will-eher-coach-als-chef-sein/",
+    "https://www.airbestpractices.com/industry-news/boge-announces-dr-bjorn-six-as-managing-director-market",
+    "https://www.theofficialboard.com/org-chart/boge-compressors",
+    "https://www.boge.com/en-de/",
+    "https://zh.boge.com/de/presseinformationen/neuer-geschaeftsfuehrer-markt/",
+    "https://www.verfahrenstechnik.de/dr-sebastian-goebel-neuer-technischer-geschaeftsfuehrer/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Boge Kompressoren X 投稿",
+   "results": [
+    "https://www.instagram.com/bogekompressoren/",
+    "https://www.boge.com/en-de/",
+    "https://www.xing.com/pages/boge",
+    "https://shop.boge.com/en/Compressors/Compressors/",
+    "https://www.boge.com/de-de/",
+    "https://www.xing.com/pages/boge/employees",
+    "https://shop.boge.com/en/Compressors/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部22頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部22頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部22頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部22頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部22頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部22頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部22頁・検索12回）"
+ }
+}

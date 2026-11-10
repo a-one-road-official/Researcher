@@ -1,0 +1,763 @@
+{
+ "name": "金属新素材研究センター",
+ "aliases": [],
+ "context": "PBF=unknown 装置= 出典=https://events.malvernpanalytical.com/AM_Hyogo2025",
+ "researched_at": "2026-11-10T19:17:21.038880+00:00",
+ "official_url": "https://www.hyogo-kg.jp/",
+ "identified_by": "search:ddgs:google:金属新素材研究センター",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒677-0054 兵庫県西脇市野村町1790-496 地図・アクセスはこちら",
+    "url": "https://www.hyogo-kg.jp/guide/seni",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒670-0811 兵庫県姫路市野里3 地図・アクセスはこちら",
+    "url": "https://www.hyogo-kg.jp/guide/hikaku",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒654-0037 神戸市須磨区行平町３丁目1-12（兵庫県立工業技術センター内） 地図・アクセスはこちら",
+    "url": "https://www.hyogo-kg.jp/koku",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒671-2280 姫路市書写2167 姫路工学キャンパス内 地図・アクセスはこちら",
+    "url": "https://www.hyogo-kg.jp/about/kinzoku",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "ローカル5Gを活用したスマート工場導入支援セミナー＆デモンストレーション会",
+    "url": "https://www.hyogo-kg.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "神戸大学研究基盤センター機器分析部門で保有の機器もご参照下さい",
+    "url": "https://www.hyogo-kg.jp/kiki",
+    "pass": 1
+   },
+   {
+    "quote": "のこぎり発注の解消には、受注者側が非破壊検査技術を保有することが必要不可欠です",
+    "url": "https://www.hyogo-kg.jp/koku",
+    "pass": 1
+   },
+   {
+    "quote": "ローカル5Gを活用したスマート工場導入支援セミナー＆デモンストレーション会",
+    "url": "https://www.hyogo-kg.jp/topics",
+    "pass": 1
+   },
+   {
+    "quote": "ローカル5Gを活用したスマート工場導入支援セミナー＆デモンストレーション会（令和8年度第2回）",
+    "url": "https://www.hyogo-kg.jp/topics",
+    "pass": 1
+   },
+   {
+    "quote": "JKA補助の導入機器 36 件",
+    "url": "https://www.hyogo-kg.jp/kiki?meta_key=itemcat&meta_value=JKA%E8%A3%9C%E5%8A%A9",
+    "pass": 1
+   },
+   {
+    "quote": "神戸大学研究基盤センター機器分析部門で保有の機器もご参照下さい",
+    "url": "https://www.hyogo-kg.jp/kiki?meta_key=itemcat&meta_value=JKA%E8%A3%9C%E5%8A%A9",
+    "pass": 1
+   },
+   {
+    "quote": "この設備は、公益財団法人JKAの2025年度「公設工業試験研究所等における機械設備拡充補助事業」によって導入されました",
+    "url": "https://www.hyogo-kg.jp/kiki/item3541",
+    "pass": 1
+   },
+   {
+    "quote": "工業技術センターが保有する機器・設備を時間貸しでご利用いただけます",
+    "url": "https://www.hyogo-kg.jp/guide/usage",
+    "pass": 1
+   },
+   {
+    "quote": "当センターが保有する試験分析機器や設備は企業の技術者の皆様にご利用いただけます",
+    "url": "https://www.hyogo-kg.jp/guide/usage",
+    "pass": 1
+   },
+   {
+    "quote": "を導入し、４月から開放機器としてご利用いただく予定にしております",
+    "url": "https://www.hyogo-kg.jp/apparatus/item3076",
+    "pass": 1
+   },
+   {
+    "quote": "）に新規導入する機器の設置スペースを確保するため、施設内の既設試験・加工機器等の移設および廃",
+    "url": "https://www.hyogo-kg.jp/download/topics/public_tender/public_tender_20260929.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（ 3）契約書は ２ 通作成し、双方各 1 通保有する",
+    "url": "https://www.hyogo-kg.jp/download/topics/public_tender/public_tender_20260929.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "する電子署名を行い、各自その電磁的記録を保有する",
+    "url": "https://www.hyogo-kg.jp/download/topics/public_tender/public_tender_20260929.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第５ 乙は、この契約による事務に関して知ることのできた個人情報について、保有する必要がなくなった",
+    "url": "https://www.hyogo-kg.jp/download/topics/public_tender/public_tender_20260929.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金属3Dプリンタ",
+    "url": "https://www.hyogo-kg.jp/download/kiki/Ryoukin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本研究センターの特徴として、現在、世界中で注目されている金属3D積層造形技術に注目し、 電子ビーム型とレーザービーム型の2種類の「金属用3Dプリンタ」を導入しました",
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "pass": 3
+   },
+   {
+    "quote": "電子ビーム型は、高真空雰囲気が必要であるなど操作に制限がありますが、チタン系合金のように活性で高融点の金属粉末でも3D造形が可能です",
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "pass": 3
+   },
+   {
+    "quote": "電子ビーム型金属用3Dプリンタを用いた先導的研究",
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "pass": 3
+   },
+   {
+    "quote": "1. 電子ビーム型金属用3Dプリンタ＜県内企業と共に世界最先端を目指す＞",
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "pass": 3
+   },
+   {
+    "quote": "電子ビーム出力を6ｋＷまで可変",
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "pass": 3
+   },
+   {
+    "quote": "《株式会社松浦機械製作所製 LUMEX Avance-25》",
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "pass": 3
+   },
+   {
+    "quote": "フィールドエミッション型電子プローブマイクロアナライザ《日本電子株式会社製》FE-EPMA JXA-8530FPlus",
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "pass": 3
+   },
+   {
+    "quote": "金属用3Dプリンタの導入・活用が困難な中小企業を支援するため、先進技術を持つ企業とも連携し、産学連携による技術支援に取り組みます",
+    "url": "https://web.pref.hyogo.lg.jp/sr09/metaruberuto.html",
+    "pass": 3
+   },
+   {
+    "quote": "電子ビーム式金属用3Dプリンタ",
+    "url": "https://web.pref.hyogo.lg.jp/sr09/metaruberuto.html",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県ものづくり企業のDX実践・人材育成支援（IoT・AI・ロボットの導入支援）",
+    "url": "https://web.pref.hyogo.lg.jp/sr09/metaruberuto.html",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "（1）試作実験館１F機械材料試験室Ⅰ",
+    "url": "https://www.hyogo-kg.jp/notice/item3646",
+    "pass": 1
+   },
+   {
+    "quote": "（2）試作実験館１F 貨物試験室",
+    "url": "https://www.hyogo-kg.jp/notice/item3646",
+    "pass": 1
+   },
+   {
+    "quote": "（3）試作実験館１F 機械材料試験室Ⅱ",
+    "url": "https://www.hyogo-kg.jp/notice/item3646",
+    "pass": 1
+   },
+   {
+    "quote": "機器活用セミナー「全自動無縫製横編試作支援システム」",
+    "url": "https://www.hyogo-kg.jp/guide/seni",
+    "pass": 1
+   },
+   {
+    "quote": "航空産業非破壊検査トレーニングセンター - 兵庫県立工業技術センター",
+    "url": "https://www.hyogo-kg.jp/koku",
+    "pass": 1
+   },
+   {
+    "quote": "「航空産業非破壊検査トレーニングセンター」再訓練・リフレッシュ訓練（ＰＴ・ＭＴ）受講者募集のお知らせ 募集期間：4月21日（月）～5月2日（金）",
+    "url": "https://www.hyogo-kg.jp/koku",
+    "pass": 1
+   },
+   {
+    "quote": "航空機の需要拡大に伴い、航空機部品の増産が見込まれています",
+    "url": "https://www.hyogo-kg.jp/koku",
+    "pass": 1
+   },
+   {
+    "quote": "このため、検査員の育成を目的として、国際認証規格（NAS410）に準拠した国内初の訓練機関「航空産業非破壊検査トレーニングセンター」を設立しました",
+    "url": "https://www.hyogo-kg.jp/koku",
+    "pass": 1
+   },
+   {
+    "quote": "航空機産業における非破壊検査員を養成することを目的として、2017年11月1日に航空産業非破壊検査トレーニングセンターを開設しました",
+    "url": "https://www.hyogo-kg.jp/koku",
+    "pass": 1
+   },
+   {
+    "quote": "（硬質樹脂、透明樹脂、ゴムライク樹脂、ABSライク樹脂、生体適合クリア樹脂、低コスト試作用樹脂など）",
+    "url": "https://www.hyogo-kg.jp/kiki/item3541",
+    "pass": 1
+   },
+   {
+    "quote": "デザイン確認、試作、治具製作など",
+    "url": "https://www.hyogo-kg.jp/kiki/item3541",
+    "pass": 1
+   },
+   {
+    "quote": "特に、ゴムライク材料（Elastico）による柔軟部品の試作が可能です",
+    "url": "https://www.hyogo-kg.jp/kiki/item3541",
+    "pass": 1
+   },
+   {
+    "quote": "透明・部分透明モデルの試作（マルチマテリアル）",
+    "url": "https://www.hyogo-kg.jp/kiki/item3541",
+    "pass": 1
+   },
+   {
+    "quote": "一方、企業が独力では困難なアイデア段階での試作や、今後研究するかどうかを見極めるための実験などであれば、試料をこちらでお預かりしてのご利用（テクノトライアル、受託研究）も可能です",
+    "url": "https://www.hyogo-kg.jp/guide/usage",
+    "pass": 1
+   },
+   {
+    "quote": "機器活用セミナー「全自動無縫製横編試作支援システム」 - 兵庫県立工業技術センター",
+    "url": "https://www.hyogo-kg.jp/apparatus/item3076",
+    "pass": 1
+   },
+   {
+    "quote": "機器活用セミナー「全自動無縫製横編試作支援システム」",
+    "url": "https://www.hyogo-kg.jp/apparatus/item3076",
+    "pass": 1
+   },
+   {
+    "quote": "– ホールガーメント横編機を使った簡単な試作実演",
+    "url": "https://www.hyogo-kg.jp/apparatus/item3076",
+    "pass": 1
+   },
+   {
+    "quote": "本設備を利用したい方、無縫製ニットに興味のある方、既に設備をお持ちの方、 綿残糸を使って試作を行いたい方など、興味がある方どなたでも参加ＯＫ",
+    "url": "https://www.hyogo-kg.jp/apparatus/item3076",
+    "pass": 1
+   },
+   {
+    "quote": "全自動無縫製横編試作支援システム 活用セミナー",
+    "url": "https://www.hyogo-kg.jp/apparatus/item3076",
+    "pass": 1
+   },
+   {
+    "quote": "全自動無縫製横編試作支援システム 活用セミナー 申し込みフォーム",
+    "url": "https://www.hyogo-kg.jp/apparatus/item3076",
+    "pass": 1
+   },
+   {
+    "quote": "移設 拡散接合装置 試作実験館１F 機械加工室Ⅰ 大型重量物、油圧機器 ＨＡランク",
+    "url": "https://www.hyogo-kg.jp/download/topics/public_tender/public_tender_20260929.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "移設 ミニ旋盤 試作実験館１F 3Dものづくりｾﾝﾀｰ 小型重量物 Ｃランク",
+    "url": "https://www.hyogo-kg.jp/download/topics/public_tender/public_tender_20260929.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "移設 ミニボール盤 試作実験館１F 3Dものづくりｾﾝﾀｰ 小型重量物 Ｃランク",
+    "url": "https://www.hyogo-kg.jp/download/topics/public_tender/public_tender_20260929.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "移設 作業机、等 試作実験館１F 3Dものづくりｾﾝﾀｰ 小型重量物 Ｃランク",
+    "url": "https://www.hyogo-kg.jp/download/topics/public_tender/public_tender_20260929.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "試作実験館１F 機械材料試験室Ⅱ",
+    "url": "https://www.hyogo-kg.jp/download/topics/public_tender/public_tender_20260929.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "試作実験館１F 機械材料試験室Ⅰ",
+    "url": "https://www.hyogo-kg.jp/download/topics/public_tender/public_tender_20260929.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■兵庫県立工業技術センター（神戸） 依頼試験・依頼加工",
+    "url": "https://www.hyogo-kg.jp/download/kiki/Ryoukin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■繊維工業技術支援センター（西脇） 依頼試験・依頼加工",
+    "url": "https://www.hyogo-kg.jp/download/kiki/Ryoukin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■皮革工業技術支援センター（姫路） 依頼試験・依頼加工",
+    "url": "https://www.hyogo-kg.jp/download/kiki/Ryoukin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "実費負担のみによる試作対応で中小企業の利用を推進",
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "pass": 3
+   },
+   {
+    "quote": "チタン製の人工関節など、先端医療デバイスの研究開発",
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "pass": 3
+   },
+   {
+    "quote": "（*1）本研究機は、国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）の助成事業の成果を活用しています",
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "第 11 乙は委託事務の一部を第三者（乙の子会社を含む",
+    "url": "https://www.hyogo-kg.jp/download/topics/public_tender/public_tender_20260929.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "金属新素材研究センター - 兵庫県立工業技術センター — 金属新素材研究センターは、次世代産業で必要となる 硬度・耐熱性・微細加工性に優れた金属粉末や3D造形技術の確立をめざすとともに、兵庫県立工業技術センターのサテライトとして、産学連携による中小企業の技術支援に積極的に取り組んでいきます。",
+    "url": "https://www.hyogo-kg.jp/about/kinzoku",
+    "pass": 3
+   },
+   {
+    "quote": "金属新素材研究センター 兵庫県 | 兵庫県立大学 3Dプリンター — Nov 1, 2025 · 本ウェビナーでは、粉末冶金および金属AM（Additive Manufacturing、以下AM）の分野で長年にわたり第一線を走り続けてこられた、兵庫県立大学 金属新素材研究センター 特任教授金属粉末を専門とし、現在は主に金属3D積層造形技術を（Additive Manufacturing：金属AM ...",
+    "url": "https://hecansa.org/金属新素材研究センター-兵庫県-兵庫県立大学-3dフ/",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫における金属3Dプリンタの活用事例紹介 — 「金属新素材研究センター」では, 3D CAD の入門セミナーや自己提案型による造形可能性の検討プロジェクト, 3D プリンタの実体験学習を積極的に実施しており, 金属 3D プリンタを活用できる企業・人材の裾野を広げる取り組みを行っている.",
+    "url": "https://www.jstage.jst.go.jp/article/jfeskouen/180/0/180_119/_pdf/-char/ja",
+    "pass": 3
+   },
+   {
+    "quote": "金属新素材研究センター | 兵庫県 — Oct 21, 2026 · 金属用3Dプリンタの導入・活用が困難な中小企業を支援するため、先進技術を持つ企業とも連携し、産学連携による技術支援に取り組みます。 施設概要 電子ビーム式金属用3Dプリンタ レーザービーム式金属用3Dプリンタ 合金作製装置／粉末作製装置 分析装置",
+    "url": "https://web.pref.hyogo.lg.jp/sr09/metaruberuto.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属新素材研究センター - 兵庫県立大学 社会価値創造機構 — 本研究センターの特徴として、現在、世界中で注目されている金属3D積層造形技術に注目し、 電子ビーム型とレーザービーム型の2種類の「金属用3Dプリンタ」を導入しました。",
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3D積層造形技術@金属新素材研究センター — 応用分野 電子ビーム型金属用3Dプリンタを用いた先導的研究、レーザービーム型金属用3Dプリンタを用いた中小企業支援、兵庫の強みを活かした新素材の研究、医療用などの先端材料・デバイス開発など応用分野として期待されています。",
+    "url": "https://uh-sangaku.jp/wp-content/uploads/2023/09/009-11-22-takeuchi_akira.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金属新素材研究センター | 兵庫県 — Oct 21, 2026 · ひょうごメタルベルトコンソーシアム 先進技術を持つ企業・研究機関と兵庫県立大学の産学連携により、研究・開発、技術支援・普及活動に取り組む「ひょうごメタルベルトコンソーシアム」を設立しました。",
+    "url": "https://web.pref.hyogo.lg.jp/sr09/metaruberuto.html",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立大学 金属新素材研究センター見学会 — 本研究センターは、世界中が注目する金属3D積層造形技術に着目して導入した、電子ビーム型・レーザービーム型の2種類の金属用3Dプリンタをはじめ、アーク溶解装置、高周波溶解装置、ガスアトマイズ装置、電子線マイクロアナライザなど、金属新素材 ...",
+    "url": "https://www.ama-in.or.jp/industrial/labhyogoR1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "UH金属新素材研究Cパンフレット2022-4 — この地方創生事業は、6年間の時限プロジェクトの役目を2025年3月で終えますが、2024年12月からは、後継プロジェクトがスタートしており、金属新素材研究センターの研究開発を継続しております。",
+    "url": "https://web.pref.hyogo.lg.jp/sr09/documents/pamphlet.pdf",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "電子ビーム型は、高真空雰囲気が必要であるなど操作に制限がありますが、チタン系合金のように活性で高融点の金属粉末でも3D造形が可能です",
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "pass": 3
+   },
+   {
+    "quote": "ニッケル、チタン、銅などの高融点、高熱伝導の金属に対応",
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "pass": 3
+   },
+   {
+    "quote": "チタン製の人工関節など、先端医療デバイスの研究開発",
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "pass": 3
+   },
+   {
+    "quote": "マルエージング鋼、ステンレス鋼の他、コバルトクロム、アルミニウムの造形が可能",
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "pass": 3
+   },
+   {
+    "quote": "3. 合金作製装置／粉末作製装置",
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "pass": 3
+   },
+   {
+    "quote": "ガスアトマイズ装置：高周波溶解した金属溶湯に高圧ガスを吹き付け粉末を作製",
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "金属新素材研究センター様へお伺いさせていただきました。 さすが大学... 金属新素材研究センター様へお伺いさせていただきました。 さすが大学の研究施設とのこともあり、粉末自体を製造する機械もありました！ 5 70 ...",
+    "url": "https://www.linkedin.com/posts/formnext-forum-tokyo_金属新素材研究センター様へお伺いさせていただきました-さすが大学の研究施設とのこともあり-activity-7157535327098724353-9iPA",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "兵庫県立大学は4月、姫路工学キャンパスに「金属新素材研究センター」... Sep 30, 2019 · 兵庫県立大学は4月、姫路工学キャンパスに「金属新素材研究センター」を開設。 『造形品は航空機や医療機器の部品として適用が見込まれるが、強度など安全性の検証も必要だ。 企業間の協力を促し、全体として技術向上を目指す』",
+    "url": "https://www.facebook.com/lpicbook/posts/兵庫県立大学は４月姫路工学キャンパスに金属新素材研究センターを開設造形品は航空機や医療機器の部品として適用が見込まれるが強度など安全性の検証も必要だ企業間の協力/2490012391033791/",
+    "pass": 3
+   },
+   {
+    "quote": "兵庫県立大学「金属新素材研究センター開設記念式典・セミナー」開催.... Jun 16, 2019 · 国産品として全国で初導入となる電子ビーム式金属用3Dプリンタをはじめ、合金作製装置・粉末作製装置の集約配置によるワンストップでの材料開発など、金属素材製造・加工に関する高付価値化・産業支援の拠点としての機能を果たしていきます。",
+    "url": "https://www.facebook.com/hyogo.sangyo/posts/兵庫県立大学金属新素材研究センター開設記念式典セミナー開催兵庫県立大学は本年4月兵庫県立大学姫路工学キャンパス内に金属新素材研究センターを開設しました国産品とし/2416061485103855/",
+    "pass": 3
+   },
+   {
+    "quote": "[兵庫県立大学]金属新素材研究センター開設記念式典・セミナー Event in Himeji, Hyogo, Japan by 行司 高博 on Friday, July 5 2019",
+    "url": "https://www.facebook.com/events/兵庫県立大学書写キャンパス/兵庫県立大学金属新素材研究センター開設記念式典セミナー/400514933871080/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.hyogo-kg.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyogo-kg.jp/kiki",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyogo-kg.jp/notice/item3646",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyogo-kg.jp/guide/seni",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyogo-kg.jp/guide/hikaku",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyogo-kg.jp/koku",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyogo-kg.jp/about/kinzoku",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyogo-kg.jp/topics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyogo-kg.jp/kiki?meta_key=itemcat&meta_value=JKA%E8%A3%9C%E5%8A%A9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyogo-kg.jp/kiki/item3541",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyogo-kg.jp/category/apparatus",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyogo-kg.jp/guide/usage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyogo-kg.jp/apparatus/item3076",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyogo-kg.jp/notice/item3615",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.hyogo-kg.jp/download/topics/public_tender/public_tender_20260929.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hyogo-kg.jp/download/kiki/Ryoukin.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://hecansa.org/%E9%87%91%E5%B1%9E%E6%96%B0%E7%B4%A0%E6%9D%90%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E5%85%B5%E5%BA%AB%E7%9C%8C-%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E5%A4%A7%E5%AD%A6-3d%E3%83%95/",
+    "status": "http_520",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jstage.jst.go.jp/article/jfeskouen/180/0/180_119/_pdf/-char/ja",
+    "status": "http_502",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/sr09/metaruberuto.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uh-sangaku.jp/new-metal-material/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/formnext-forum-tokyo_金属新素材研究センター様へお伺いさせていただきました-さすが大学の研究施設とのこともあり-activity-7157535327098724353-9iPA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/lpicbook/posts/兵庫県立大学は４月姫路工学キャンパスに金属新素材研究センターを開設造形品は航空機や医療機器の部品として適用が見込まれるが強度など安全性の検証も必要だ企業間の協力/2490012391033791/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hyogo.sangyo/posts/兵庫県立大学金属新素材研究センター開設記念式典セミナー開催兵庫県立大学は本年4月兵庫県立大学姫路工学キャンパス内に金属新素材研究センターを開設しました国産品とし/2416061485103855/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/events/兵庫県立大学書写キャンパス/兵庫県立大学金属新素材研究センター開設記念式典セミナー/400514933871080/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金属新素材研究センター",
+   "results": [
+    "https://www.hyogo-kg.jp/about/kinzoku",
+    "https://web.pref.hyogo.lg.jp/sr09/metaruberuto.html",
+    "https://uh-sangaku.jp/new-metal-material/",
+    "https://web.pref.hyogo.lg.jp/sr09/documents/pamphlet.pdf",
+    "https://www.u-hyogo.ac.jp/close_up/852430a0f3e01314d0f526d5446a1298293abe70.html",
+    "https://www.crdam.imr.tohoku.ac.jp/",
+    "https://www.imr.tohoku.ac.jp/ja/about/divisions-and-centers/facilities/02.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "金属新素材研究センター 会社概要 資本金 設立",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "金属新素材研究センター 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.hyogo-kg.jp/about/kinzoku",
+    "https://hecansa.org/金属新素材研究センター-兵庫県-兵庫県立大学-3dフ/",
+    "https://www.jstage.jst.go.jp/article/jfeskouen/180/0/180_119/_pdf/-char/ja",
+    "https://web.pref.hyogo.lg.jp/sr09/metaruberuto.html",
+    "https://uh-sangaku.jp/new-metal-material/",
+    "https://www.u-hyogo.ac.jp/close_up/852430a0f3e01314d0f526d5446a1298293abe70.html",
+    "https://web.pref.hyogo.lg.jp/sr09/documents/pamphlet.pdf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "金属新素材研究センター 金属積層造形 設備",
+   "results": [
+    "https://www.hyogo-kg.jp/about/kinzoku",
+    "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "https://uh-sangaku.jp/new-metal-material/",
+    "https://web.pref.hyogo.lg.jp/sr09/metaruberuto.html",
+    "https://uh-sangaku.jp/wp-content/uploads/2023/09/009-11-22-takeuchi_akira.pdf",
+    "https://www.ama-in.or.jp/industrial/labhyogoR1.pdf",
+    "https://web.pref.hyogo.lg.jp/sr09/documents/pamphlet.pdf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "金属新素材研究センター 株主 出資 親会社",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "金属新素材研究センター 売上高 従業員数",
+   "results": [
+    "https://www.hyogo-kg.jp/about/kinzoku",
+    "https://web.pref.hyogo.lg.jp/sr09/metaruberuto.html",
+    "https://uh-sangaku.jp/new-metal-material/",
+    "https://www.ama-in.or.jp/industrial/labhyogoR1.pdf",
+    "https://web.pref.hyogo.lg.jp/sr09/documents/pamphlet.pdf",
+    "https://www.nipponsteel.com/ir/library/annual_report/pdf/nsc_jp_ir_2025_databook.pdf",
+    "https://www.kri-inc.jp/company/profile.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 金属新素材研究センター",
+   "results": [
+    "https://tales.note.com/famous_cosmos822",
+    "https://note.com/tatsuya_sabato/n/n4c72f64adcd2",
+    "https://note.com/tatsuya_sabato/n/n677a6db105db",
+    "https://note.com/grand_avocet8055/n/n3b0e249a9377",
+    "https://note.com/nao71/n/nea432b1084df",
+    "https://note.com/crisp_moraea843/n/nadf530c3c239",
+    "https://note.com/otakaragold/n/ne8db17def2a6"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 金属新素材研究センター",
+   "results": [
+    "https://x.com/Kinpro5",
+    "https://x.com/JAEA_msrc",
+    "https://x.com/joetsu_note/status/2120072830977233177",
+    "https://x.com/hashtag/新素材研究所",
+    "https://x.com/i/status/2079432903285690755",
+    "https://x.com/KasadaLab_IMR",
+    "https://x.com/Nikola_pn2501/status/2119739502617120912"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 金属新素材研究センター",
+   "results": [
+    "https://www.linkedin.com/posts/formnext-forum-tokyo_金属新素材研究センター様へお伺いさせていただきました-さすが大学の研究施設とのこともあり-activity-7157535327098724353-9iPA",
+    "https://jp.linkedin.com/in/seungkyun-yim-64084227b",
+    "https://au.linkedin.com/in/vsyrakis",
+    "https://www.linkedin.com/company/京都大学イノベーションキャピタル株式会社",
+    "https://www.linkedin.com/posts/tracy-patts-39a30a5_it-has-been-a-privilege-to-work-with-talented-share-7518324940023050240-Yfb6/?rcm=ACoAABbukT4BvqdKdpxvl6nkuCV6SVXREEE_69M",
+    "https://in.linkedin.com/in/sanumon-mb-🐦-55018b245",
+    "https://jp.linkedin.com/posts/tlo-kyoto_産学連携-オープンイノベーション-新素材-activity-7483704301807161346-MQDJ"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 金属新素材研究センター",
+   "results": [
+    "https://www.facebook.com/lpicbook/posts/兵庫県立大学は４月姫路工学キャンパスに金属新素材研究センターを開設造形品は航空機や医療機器の部品として適用が見込まれるが強度など安全性の検証も必要だ企業間の協力/2490012391033791/",
+    "https://www.facebook.com/hyogo.sangyo/posts/兵庫県立大学金属新素材研究センター開設記念式典セミナー開催兵庫県立大学は本年4月兵庫県立大学姫路工学キャンパス内に金属新素材研究センターを開設しました国産品とし/2416061485103855/",
+    "https://www.facebook.com/events/兵庫県立大学書写キャンパス/兵庫県立大学金属新素材研究センター開設記念式典セミナー/400514933871080/",
+    "https://www.facebook.com/TeamStressStrainCurve/",
+    "https://www.facebook.com/okutani.kenichi29/posts/兵庫県立大学姫路工学キャンパス内に金属素材製造加工産業の高付加価値化を図り新素材の研究開発を行う拠点として金属新素材研究センターが開設されました開設記念式典セミ/2312668662147159/",
+    "https://www.facebook.com/soft3dconsortium/posts/兵庫県立大学は４月姫路工学キャンパスに金属新素材研究センターを開設造形品は航空機や医療機器の部品として適用が見込まれるが強度など安全性の検証も必要だ企業間の協力/2366425410247266/",
+    "https://www.facebook.com/SoftmatterRobotics/posts/2590010577773055/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "金属新素材研究センター note 社長",
+   "results": [
+    "https://www.hyogo-kg.jp/about/kinzoku",
+    "https://uh-sangaku.jp/new-metal-material/",
+    "https://web.pref.hyogo.lg.jp/sr09/metaruberuto.html",
+    "https://u-hyogo-webmag.com/archives/article/20251113jushou",
+    "https://www.himejikgclub.org/club-newsletter/姫路工業倶楽部報　第32号/",
+    "https://www.imr.tohoku.ac.jp/ja/about/divisions-and-centers/facilities/02.html",
+    "https://smepprd-kansai-meti-gov.note.jp/n/n416c55523341"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "金属新素材研究センター X 投稿",
+   "results": [
+    "https://www.hyogo-kg.jp/about/kinzoku",
+    "https://hecansa.org/金属新素材研究センター-兵庫県-兵庫県立大学-3dフ/",
+    "https://web.pref.hyogo.lg.jp/sr09/metaruberuto.html",
+    "https://uh-sangaku.jp/new-metal-material/",
+    "https://www.instagram.com/p/DSRdq5gkzX2/",
+    "https://www.crdam.imr.tohoku.ac.jp/",
+    "https://www.imr.tohoku.ac.jp/ja/about/divisions-and-centers/facilities/02.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部10頁・検索12回）",
+  "資本金": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部10頁・検索12回）",
+  "創業年度": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部10頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部10頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部10頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部10頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部10頁・検索12回）"
+ }
+}

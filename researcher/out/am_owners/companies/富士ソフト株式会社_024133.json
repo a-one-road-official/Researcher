@@ -1,0 +1,1445 @@
+{
+ "name": "富士ソフト株式会社",
+ "aliases": [],
+ "context": "PBF=yes 装置=Sapphire 出典=https://www.fsi.co.jp/accounting-dx/sapphire/index.html",
+ "researched_at": "2026-11-10T19:09:04.718762+00:00",
+ "official_url": "https://www.fsi.co.jp/",
+ "identified_by": "search:yahoo_jp:富士ソフト",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "〒231-8008　神奈川県横浜市中区桜木町1-1 Google Map TEL：045-650-8811（大代表） FAX：045-650-8810 国内外の拠点一覧はこちら お客様総合問い合わせ窓口 0120-593-111（フリーダイヤル）",
+    "url": "https://www.fsi.co.jp/company/about.html",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "創業",
+    "value": "創業：1970年（昭和45年）5月15日 富士ソフトのあゆみはこちら",
+    "url": "https://www.fsi.co.jp/company/about.html",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1億円",
+    "url": "https://www.fsi.co.jp/company/about.html",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "連結：3,340億円(2025年度実績）",
+    "url": "https://www.fsi.co.jp/company/about.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "単体：10,153名(2025年12月末現在） 連結：20,678名(2025年12月末現在）",
+    "url": "https://www.fsi.co.jp/company/about.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "クラウドERP「BizSaaS」の開発および販売",
+    "url": "https://www.fsi.co.jp/company/news/20261029.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "コンサルティング、開発、システム構築、サポートまでのトータルソリューション",
+    "url": "https://www.fsi.co.jp/company/news/20261029.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "資本金・株主": [
+   {
+    "quote": "当社株式は、2025年5月16日付で、株式会社東京証券取引所プライム市場において上場廃止となりました",
+    "url": "https://www.fsi.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式併合並びに単元株式数の定めの廃止及び定款一部変更に関する臨時株主総会開催のお知らせ",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "臨時株主総会招集のための基準日設定に関するお知らせ",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "FK株式会社による当社株券等に対する第２回公開買付けの結果並びに親会社及びその他の関係会社の異動に関するお知らせ",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "（変更）「2024年12月期配当予想の修正（無配）及び株主優待制度の廃止に関するお知らせ」の一部変更に関するお知らせ",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "臨時株主総会招集のための基準日の取消しに関するお知らせ",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "FK株式会社による当社株券等に対する公開買付けの結果並びにその他の関係会社及び主要株主である筆頭株主の異動に関するお知らせ",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "富士ソフト、ポケトーク株式会社への追加出資に関するお知らせ",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月期末配当予想の修正（無配）及び株主優待制度の廃止に関するお知らせ",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "富士ソフト、ポケトーク株式会社への出資に関するお知らせ",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "第54回定時株主総会決議の結果に関するお知らせ",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "議決権行使助言会社グラス・ルイス社による第54回定時株主総会議案に対する賛否推奨レポートについて",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主による株主総会検査役の選任の申立てに関するお知らせ",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "議決権行使助言会社ISS社による第54回定時株主総会議案に対する賛否推奨レポートについて",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主提案に対する当社取締役会の意見に関するお知らせ",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "上場子会社４社の完全子会社化について",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "子会社における通期業績予想及び配当予想の修正に関するお知らせ",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "臨時株主総会の開催日時等の決定並びに臨時株主総会の付議議案及び株主提案に対する当社取締役会の意見に関するお知らせ",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "臨時株主総会の開催時期の変更に関するお知らせ",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主による臨時株主総会招集請求及び株主提案に関する補足説明",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主による臨時株主総会の招集請求に関するお知らせ",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "子会社における業績予想の修正に関するお知らせ",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "主要株主および主要株主である筆頭株主の異動に関するお知らせ",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "富士ソフト、令和3年度なでしこ銘柄の「準なでしこ」を取得 女性活躍推進に優れた上場企業として、経済産業省より認定",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "第52回定時株主総会決議の結果に関するお知らせ",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主提案等に対する当社取締役意見に関する補足説明",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月22日（火）、汐留オフィスにて当社の特例子会社である富士ソフト企画株式会社「西会津しいたけファーム」による「西会津企業マルシェ」を開催いたしました",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "とは、健経済産業省は、東京証券取引所と共同で、平成24年度より「女性活躍推進」に優れた上場企業を「なでしこ銘柄」として選定しています",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月21日（木）、当社の特例子会社である",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年1月23日（火）、当社の特例子会社である",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年11月15日（水）、令和5年度 神奈川県技能者等表彰式※が神奈川県立音楽堂で行われ、当社の特例子会社である",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "神奈川障害者職業能力開発校(模原市)で開催された、神奈川県障害者技能競技大会（アビリンピック神奈川2023※において、当社の特例子会社である",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年10月21日（土）、福島県森林・林業・緑化協会が主催する「福島県きのこ品評会※」で、当社の特例子会社である",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年12月13日（火）、当社の特例子会社である",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年10月21日（金）、当社の特例子会社である",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年9月13日（火）、当社の特例子会社である",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年5月26日（木）、当社の特例子会社である",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月22日(火)、当社は経済産業省より、女性活躍推進に優れた上場企業を「中長期の企業価値向上」を重視する投資家にとって魅力ある銘柄として“準なでしこ”に認定されました",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ハイブリッド型バーチャル株主総会を行いました",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月11日(金)、新型コロナウイルスが収束しない中、株主さまが会場でもご自宅でも出席できるハイブリッド型バーチャル株主総会が行われました",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "今年で3回目となるハイブリッド型バーチャル株主総会は、システムを通して、「資料の同期閲覧、ライブ映像表示、テキストによるコメント送信」を1画面で利用することができ、リアルタイムで画面から議決権を行使できるシステムを搭載しています",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ご来場いただいた株主様の感染症防止対策として、受付にはPALROと非接触によるmoreReceptionを設置、密集を避けるため座席間隔を空けてお座り頂き、複数の会場で音声と映像を同時中継するなどの対策を徹底いたしました",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "※1：富士ソフトグループの特例子会社として、身体・知的・精神など様々な障がいを持った社員が就労し、多様な職域で活躍しています",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "特例子会社として全国初、富士ソフト企画が“予備自衛官等協力事業所”に認定されました",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年12月10日(金)、当社特例子会社の",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ハイブリッドバーチャル出席型株主総会を開催",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月12日(金)に第51回定時株主総会を開催しました",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年、国内初のハイブリッド出席型バーチャル株主総会を実施しましたが、2021年は緊急事態宣言が延長される中で、より多くの株主様にインターネット経由でご参加頂けるよう、自社開発のバーチャル株主総会システムの機能を増強し、マルチデバイスかつワンストップで快適に決議に参加できるシステムを構築し、株主様にご参加いただきました",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "バーチャル株主総会システムを通して、“資料の同期閲覧”、“議決権行使”、“ライブ映像視聴”、“テキストによるコメント送信”を1画面でご利用頂きました",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "また、ご来場頂いただいた株主様への感染症防止対策として、受付にPALROとmoreReceptionを設置したり、密集を避けるため、座席の間隔を空けてお座り頂き、複数の会場で音声映像を同時中継するなど、感染症防止を徹底的に行いました",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "てを取得する自己株式取得を行い、これに伴い、当社の株主を FK 株式会社のみとする一",
+    "url": "https://www.fsi.co.jp/company/news/2025/20250611_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【構造批評】-株主提案権会社法改正編-成長投資を守るには、資本抜き取り提案と企業価値向上を分けるしかない‼️",
+    "url": "https://note.com/tag/%E5%AF%8C%E5%A3%AB%E3%82%BD%E3%83%95%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "上場廃止後の大変革を人財から支える—島村忠祥・富士ソフト常務執行役員の役割",
+    "url": "https://note.com/tag/%E5%AF%8C%E5%A3%AB%E3%82%BD%E3%83%95%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "、神奈川県横浜市旭区左近山の野澤氏自宅の一室をオフィスとして、資本金300万円で「株式会社富士ソフトウエア研究所」を設立 (",
+    "url": "https://note.com/soneo/n/n466c21294f47",
+    "pass": 3
+   },
+   {
+    "quote": "富士ソフト｢物言う株主｣に翻弄された数奇な運命 ファンドの争奪戦で創業家と会社が対立構図に | 経営 | 東洋経済オンライン",
+    "url": "https://note.com/soneo/n/n466c21294f47",
+    "pass": 3
+   },
+   {
+    "quote": "企業成長の転機と主要な節目（上場・事業拡大など）",
+    "url": "https://note.com/soneo/n/n466c21294f47",
+    "pass": 3
+   },
+   {
+    "quote": "には東京証券取引所市場第二部に上場し、続いて",
+    "url": "https://note.com/soneo/n/n466c21294f47",
+    "pass": 3
+   },
+   {
+    "quote": ")（同時にOA研究所の買収や関連子会社化も実施）",
+    "url": "https://note.com/soneo/n/n466c21294f47",
+    "pass": 3
+   },
+   {
+    "quote": "その後も1990年代後半には複数のソフトウェア企業を子会社化しグループ体制を強化、2000年代には本社社屋の新築や海外進出など拡大路線を邁進しました",
+    "url": "https://note.com/soneo/n/n466c21294f47",
+    "pass": 3
+   },
+   {
+    "quote": "グループ会社は30社以上におよび、そのうち4社は上場企業、関連会社も含めた企業グループへ発展しました (",
+    "url": "https://note.com/soneo/n/n466c21294f47",
+    "pass": 3
+   }
+  ],
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "富士ソフト、LTE USB ドングル「＋F FS040U」とSORACOM IoT SIM をセットにしたスターターキットをSORACOM IoTストアで提供開始 通信サービスと端末の一括調達でIoT 導入を後押し",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "富士ソフト、Anthropicと「Claude in Amazon Bedrock, powered by Anthropic」の再販契約を締結 Amazon Bedrockを通じたClaudeの販売と、システム連携・導入サービスを開始",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "富士ソフト、「Google Cloud Next Tokyo 26」に出展 -AIエージェント導入を成功に導く“5つのロードマップ”を公開、伴走型支援を提案",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "富士ソフト、AIソリューションサイトで「現場で動かすAI」の実現を支援 AI戦略・オファリング・導入事例を体系化し、AI導入支援の無償アセスメントも提供",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "富士ソフト、ビジネスユニット制とCxO制を導入 – 業界変革に先手、デジタルの力でお客様の未来を創造するデジタルイノベーションカンパニーへ進化",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "富士ソフト、SalesforceのAIエージェントプラットフォーム「Agentforce」の導入支援ソリューションを提供開始 最大90％の工数削減効果を実現！ 社内検証で培った知見やノウハウを活かし、お客様の営業DX化に貢献",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "富士ソフト、病気療養や健康診断受診に特化した「ヘルスケア休暇」を導入従来の休暇・休業を「ライフサポート休暇・休業」へ統合社員の健康管理とライフイベントに応じた働き方を支援",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "【導入事例】14システムの大規模一括移行を実現富士ソフト、消費者庁のガバメントクラウド移行とガバメントソリューションサービスへのネットワーク切り替えを実施",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "富士ソフト、GitHub Galaxy Tokyoに登壇GitHub Copilotの導入効果を最大化するためのプロセス変革をご紹介します",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "生成AIをより身近に！富士ソフト、「Copilot for Microsoft 365 向け導入支援サービス」の提供を開始",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "業績連動型株式報酬制度の導入に関するお知らせ",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "アマゾン ウェブ サービスの生成系AIサービスである「Amazon Bedrock」の活用を促進する「Amazon Bedrock 導入ソリューション」を提供開始限定プレビューからの検証にて培った技術力でお客様のAI活用に貢献します",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「Azure OpenAI Service導入支援 powered by ChatGPT」提供開始社内導入で実証済の富士ソフト独自の技術でお客様専用のセキュアなChatGPT環境を実現",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "役員退職慰労金制度の廃止及び譲渡制限付株式報酬制度の導入に関するお知らせ",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "富士ソフト、「Blue Prism World Virtual 2021 Japan」で導入事例を紹介 ジョンソンコントロールズ様がBlue Prism導入で年間約40,000時間の工数削減！",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "これは、メールセキュリティ強化ソリューション「Harmony Email & Collaboration(HEC)」の導入において、2025年度に最も顕著な貢献を果たしたパートナーとして評価されたものです",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「Google Cloud Partner Top Engineer」は、グーグル・クラウド・ジャパン合同会社がパートナー企業に所属するエンジニア個人の活躍を表彰するアワードプログラムで、Google Cloud認定資格の保有数や Google Cloudプロジェクトへの貢献、技術情報の発信や普及活動などの実績が評価されます",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "今回の表彰では、民間・公共領域での導入実績やお客様の事業の将来を見据えたビジョナリー導入、公共領域のマーケット拡大に向けたプロジェクト活動を高く評価いただきました",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "今後もコンカーとの強力なパートナーシップにより、民間、公共領域のお客様へSAP Concur導入を支援し、お客様のビジネス革新に貢献してまいります",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "Microsoft Corporation関連サービスの導入実績や先進的な技術の導入、マイクロソフトテクノロジーの普及への貢献を評価していただき「AI、Azure、Modern",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の多くのイントラマート認定技術者が、intra-mart製品・サービスを活用してお客様に最適なソリューションを提供し、インフラ構築やクラウド導入から、システム開発、運用／保守までをワンストップでご支援し、お客様のDXを推進しています",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "Invoiceを導入した実績と、大学マーケット深耕に向けた営業活動など、コンカーのパブリックビジネスをパートナーとしてリードしたことを評価いただき、2024年2月27日（火）に開催された「Concur",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年6月3日（金）、栃木県立佐野松桜高等学校より「介護福祉士のキャリア教育の一環で、PALRO（パルロ）について紹介してほしい」と依頼があり、リモートでPALROの機能や導入事例を説明しました",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "PALROの導入事例については、",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "」と言葉をいただき、富士ソフト企画須藤社長は「当社社員は障がい者手帳を9割保有していますが、予備自衛官・退職自衛官と一体となって精勤しています",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「介護施設でのPALRO（パルロ）導入について」をテーマとして、PALRO（パルロ）のコミュニケーション機能の特徴であるハイブリッドAIの構造や、開発にあたって大事にしている相手を傷つけない会話の仕方、介護施設への導入する際に苦労した点などを説明しました",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "従来のERP導入では、既存の業務要件に合わせて過度なカスタマイズを行うことで、開発期間やコストが増大するだけでなく、導入後の機能改善や保守が難しくなるという課題がありました",
+    "url": "https://www.fsi.co.jp/company/news/20261029.html",
+    "pass": 1
+   },
+   {
+    "quote": "「BizSaaS」は、業務の専門家である利用者とFDE（現場で要件を整理する技術者）がAIを活用し、「動く画面」で要件を確かめながら、必要な機能をノーコードで実装する「Live Fit Development」を採用しています",
+    "url": "https://www.fsi.co.jp/company/news/20261029.html",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、認識のずれや過度なカスタマイズを抑え、導入後も業務や事業環境の変化に合わせて機能を柔軟に改善・拡張できます",
+    "url": "https://www.fsi.co.jp/company/news/20261029.html",
+    "pass": 1
+   },
+   {
+    "quote": "富士ソフトはこれまで、ERPソリューション「GRANDIT」の提案・導入支援をはじめ、基幹業務分野におけるシステム開発を幅広く展開してきました",
+    "url": "https://www.fsi.co.jp/company/news/20261029.html",
+    "pass": 1
+   },
+   {
+    "quote": "富士ソフトは今回、これまで培ってきた技術力とノウハウを活かし、BizSaaS社が提供するクラウドサービスの実装パートナーとして販売・マーケティングからFDEによる導入支援までを担います",
+    "url": "https://www.fsi.co.jp/company/news/20261029.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、当社は、2025 年 6 月 10 日付で、有限会社エヌエフシーが保有する当社普通株式の全",
+    "url": "https://www.fsi.co.jp/company/news/2025/20250611_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "“ITソリューションベンダーとして、ソフト開発、システム開発・導入・保守・運用、コンサルティングなど幅広く提供",
+    "url": "https://job.mynavi.jp/28/pc/search/corp61526/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "テレワーク、フレックス制度も早くから導入",
+    "url": "https://job.mynavi.jp/28/pc/search/corp61526/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社でもこの「moreNOTE」を導入しており、自社製品を用いた働き方改革の事例を、クライアントに展開していることも当社の特徴です",
+    "url": "https://job.mynavi.jp/28/pc/search/corp61526/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "30分単位での有給休暇（フレキシブル休暇）の取得や、業務中のリフレッシュを10分単位で認める（リフレッシュタイム）など、従来のコアタイムを設けない「スーパーフレックス」を超える「ウルトラフレックス制度」も導入",
+    "url": "https://job.mynavi.jp/28/pc/search/corp61526/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、2013年1月に全社員を対象としたテレワーク制度を本格導入",
+    "url": "https://job.mynavi.jp/28/pc/search/corp61526/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、クラウドPBXの導入によって、会社支給のスマートフォンで自宅にいながら内線電話を使用できる環境も構築しています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp61526/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "“ITソリューションベンダーとして、ソフト開発、システム開発・導入・保守・運用、コンサルティングなど幅広く提供",
+    "url": "https://job.mynavi.jp/27/pc/search/corp61526/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "テレワーク、フレックス制度も早くから導入",
+    "url": "https://job.mynavi.jp/27/pc/search/corp61526/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社でもこの「moreNOTE」を導入しており、自社製品を用いた働き方改革の事例を、クライアントに展開していることも当社の特徴です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp61526/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "30分単位での有給休暇（フレキシブル休暇）の取得や、業務中のリフレッシュを10分単位で認める（リフレッシュタイム）など、従来のコアタイムを設けない「スーパーフレックス」を超える「ウルトラフレックス制度」も導入",
+    "url": "https://job.mynavi.jp/27/pc/search/corp61526/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、2013年1月に全社員を対象としたテレワーク制度を本格導入",
+    "url": "https://job.mynavi.jp/27/pc/search/corp61526/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、クラウドPBXの導入によって、会社支給のスマートフォンで自宅にいながら内線電話を使用できる環境も構築しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp61526/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "1970年前後の日本は高度経済成長の最中で、企業へのコンピュータ導入が始まった黎明期でした",
+    "url": "https://note.com/soneo/n/n466c21294f47",
+    "pass": 3
+   },
+   {
+    "quote": "– 事業本部制・本社本部制の導入、プライバシーマーク取得など経営基盤を整備 (",
+    "url": "https://note.com/soneo/n/n466c21294f47",
+    "pass": 3
+   },
+   {
+    "quote": "– 執行役員制度の導入（2009年）、台湾・台北オフィス開設（2010年）、韓国・ソウルオフィス開設（2012年）、在宅勤務制度の施行（2013年）など経営の高度化とグローバル展開、働き方改革を推進 (",
+    "url": "https://note.com/soneo/n/n466c21294f47",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "富士ソフト、5G RedCap対応USBドングル「＋F FS045U」を販売開始 -産業機器や監視カメラ、医療・ヘルスケア機器など、幅広いIoT／M2M用途に対応",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "富士ソフト、SOM販売事業を拡大し、AI・エッジ開発支援を強化 -台湾企業2社と販売店契約、半導体大手MediaTek製チップを搭載したSOMを国内展開",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "富士ソフト、3省2ガイドラインに対応したマイクロソフトクラウドの「医療機関向けクラウドサービス対応セキュリティリファレンス」を改訂",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "3月6日（水）、緊急開催！「もうすぐ規制化！医療機器サイバーセキュリティ対策セミナー」販売済み医療機器も3月末までにサイバーセキュリティ対応が必須",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "富士ソフトとナビコムアビエーションが協業開始航空機の安全な運航を支援するサービス開発や基盤整備を共同推進",
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "横浜みなとみらい21様の主催で開催されており、横浜市が再生可能エネルギーに関する連携協定を締結した茨城県神栖市の風力発電所および太陽光発電所で作られた電力のFIT非化石証書を購入し、環境に配慮して開催されています",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の本社社ビルも、100%再生可能エネルギー由来の電力を使用しています",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "また、当社の本社ビルは、11月より100%再生可能エネルギー由来の電力に切り替えています",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、今後も輸血を必要とする患者や医療関係者に対するサポートとして、献血に協力してまいります",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "本イベントに使用される電力は、横浜市が再生可能エネルギーによる電力のトラッキング付非化石証書購入することにより、環境に配慮した取り組みとなっています",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "は、予備自衛官＊の雇用を通じて社会貢献を果たしていることから、防衛省より“予備自衛官等協力事業所”に認定されました",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "富士ソフト企画は、予備自衛官1名と元自衛官3名を雇用しており、防衛省からは「障がい者と自衛官が一緒に活動しているということはとても珍しい",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "1970年の創業以来、組込・制御技術と各産業に最適化されたソリューションで実績を築き、組込／制御分野では自動車やロボットなどの先端領域、ソリューション分野では業務系開発や官公庁・電力など社会インフラを支えてきました",
+    "url": "https://www.fsi.co.jp/company/news/20261029.html",
+    "pass": 1
+   },
+   {
+    "quote": "富士ソフトのOT事業は、研究開発から量産までお客様の製品開発に深く関わり、現場に寄り添った開発スタイルで信頼関係を築いてきました",
+    "url": "https://job.mynavi.jp/28/pc/search/corp61526/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造、通信、銀行、証券、生損保、流通、医療、商社、電力、サービス、官庁、地方自治体、各種団体など",
+    "url": "https://job.mynavi.jp/28/pc/search/corp61526/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "流通業、金融業、サービス業、製造業、ネットビジネス、社会インフラ、教育、文教、医療、公共機関など、あらゆるニーズに「お客様にとってのベストは何か」を徹底的に追及",
+    "url": "https://job.mynavi.jp/27/pc/search/corp61526/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "自動車制御やモバイル、社会インフラ、ファクトリーオートメーション、OA機器、デジタルリビング、組込プラットフォーム開発、医療機器など、日常生活の中で手にする多くの情報家電製品に、富士ソフトの技術とノウハウが活かされている",
+    "url": "https://job.mynavi.jp/27/pc/search/corp61526/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造、通信、銀行、証券、生損保、流通、医療、商社、電力、サービス、官庁、地方自治体、各種団体など",
+    "url": "https://job.mynavi.jp/27/pc/search/corp61526/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "金融（銀行・証券・保険）や製造、医療、文教",
+    "url": "https://note.com/soneo/n/n466c21294f47",
+    "pass": 3
+   },
+   {
+    "quote": "同社は金融機関向けや製造業向けをはじめ官公庁、医療、教育分野などの",
+    "url": "https://note.com/soneo/n/n466c21294f47",
+    "pass": 3
+   },
+   {
+    "quote": "また、自動車や機械、家電等の",
+    "url": "https://note.com/soneo/n/n466c21294f47",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "富士ソフト企画㈱「西会津しいたけファーム」菌床椎茸品評会で「銅賞」を受賞",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「西会津しいたけファーム」（福島県耶麻郡西会津町）は、栃木県にて開催された全国サンマッシュ生産協議会が主催する、国内最大級の規模を誇る椎茸品評会「全国サンマッシュ生産協議会※ 第34回品評会」に出品し、「銅賞」を受賞いたしました",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "・「パソコン組立（金賞）」「ホームページ（銅賞）」「表計算（銅賞）」",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   },
+   {
+    "quote": "銅賞1名 「ワードプロセッサ部門」",
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 ／役員一覧 - 富士ソフト — 会社概要 ／役員一覧 - 富士ソフト 富士ソフト https://www.fsi.co.jp > company > about",
+    "url": "https://www.fsi.co.jp/company/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 - 富士ソフト — 会社情報 - 富士ソフト 富士ソフト https://www.fsi.co.jp > company",
+    "url": "https://www.fsi.co.jp/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "富士ソフト (株)の 会社概要 | マイナビ2028 — 富士ソフト (株)の 会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp61526 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp61526/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "富士ソフト - Wikipedia — 富士ソフト - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 富士ソフト",
+    "url": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%A3%AB%E3%82%BD%E3%83%95%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 企業情報 - 富士ソフトサービスビューロ — 会社概要 | 企業情報 - 富士ソフトサービスビューロ 富士ソフトサービスビューロ https://www.fsisb.co.jp > corporate > outline",
+    "url": "https://www.fsisb.co.jp/corporate/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算関連情報 ｜ 富士ソフト 株式会社 — 決算関連情報 ｜ 富士ソフト 株式会社 富士ソフト https://www.fsi.co.jp > ...",
+    "url": "https://www.fsi.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "主要 株主 および主要 株主 である筆頭 株主 の異動に関するお知らせ — 主要 株主 および主要 株主 である筆頭 株主 の異動に関するお知らせ 富士ソフト https://www.fsi.co.jp > company > news",
+    "url": "https://www.fsi.co.jp/company/news/20220408.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式のお手続き・当社株式の公開買付けについて - 富士ソフト — 株式のお手続き・当社株式の公開買付けについて - 富士ソフト 富士ソフト https://www.fsi.co.jp > stocks",
+    "url": "https://www.fsi.co.jp/ir/stocks/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "富士ソフト 、 株主 総会で株式併合可決 ファンド争奪戦に幕 — 富士ソフト 、 株主 総会で株式併合可決 ファンド争奪戦に幕 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXZQOUC24C3U0U5A420C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "3分でわかる 富士ソフト — 3分でわかる 富士ソフト 富士ソフト https://www.fsi.co.jp > special",
+    "url": "https://www.fsi.co.jp/special/3min.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要／役員一覧 - 富士ソフト — 会社概要／役員一覧 - 富士ソフト 富士ソフト https://www.fsi.co.jp > company > about",
+    "url": "https://www.fsi.co.jp/company/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "富士ソフト (株)の新卒採用・会社概要 | マイナビ2027 — 富士ソフト (株)の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp61526 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp61526/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月期 決算説明資料 - 富士ソフト — 2024年12月期 決算説明資料 - 富士ソフト 富士ソフト PDF https://www.fsi.co.jp > library > docs > presentation",
+    "url": "https://www.fsi.co.jp/ir/library/docs/presentation/2024_12_4Q_setsumei.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "富士ソフト 株式会社の求人・採用情報 - ビズリーチ — 富士ソフト 株式会社の求人・採用情報 - ビズリーチ ビズリーチ https://www.bizreach.jp > companies",
+    "url": "https://www.bizreach.jp/companies/5415/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "富士ソフト の人気・新着記事まとめ - note 富士ソフト の人気・新着記事まとめ - note note https://note.com > tag > 富士ソフト",
+    "url": "https://note.com/tag/%E5%AF%8C%E5%A3%AB%E3%82%BD%E3%83%95%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "富士ソフト 株式会社の創業から現在までの歩み｜大曽根宏幸 富士ソフト 株式会社の創業から現在までの歩み｜大曽根宏幸 note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/soneo/n/n466c21294f47",
+    "pass": 3
+   },
+   {
+    "quote": "富士ソフト の変革note 富士ソフト の変革note note https://note.com > fujisoft",
+    "url": "https://note.com/fujisoft/m/m5cf2f3f93e7c",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "富士ソフトの人気・新着記事まとめ｜note",
+    "url": "https://note.com/tag/%E5%AF%8C%E5%A3%AB%E3%82%BD%E3%83%95%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "独立系SIerとしての歩みや、米投資ファンドによる買収を巡る動向が注目を集めています。",
+    "url": "https://note.com/tag/%E5%AF%8C%E5%A3%AB%E3%82%BD%E3%83%95%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "採用対策や製品レビュー、最新の経営戦略に関する記事が集まっています。",
+    "url": "https://note.com/tag/%E5%AF%8C%E5%A3%AB%E3%82%BD%E3%83%95%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "独立系SIerとしての歩みや、米投資ファンドによる買収を巡る動向が注目を集めてい…",
+    "url": "https://note.com/tag/%E5%AF%8C%E5%A3%AB%E3%82%BD%E3%83%95%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】KKRジャパン ケース面接対策100選｜LBOモデリング・PE投資判断・PMIケースの回答プロセスとOK/NG回答を徹底解説",
+    "url": "https://note.com/tag/%E5%AF%8C%E5%A3%AB%E3%82%BD%E3%83%95%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "【富士ソフト】 転職対策 100ページ｜中途面接 書類選考 面接 企業分析 志望動機",
+    "url": "https://note.com/tag/%E5%AF%8C%E5%A3%AB%E3%82%BD%E3%83%95%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "【富士ソフト企業研究】ES・面接対策・聞かれることは？｜就職難易度・インターン・GD・最終面接＋想定質問100問 内定直結",
+    "url": "https://note.com/tag/%E5%AF%8C%E5%A3%AB%E3%82%BD%E3%83%95%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "ベインキャピタル×富士ソフト争奪戦｜高い価格を出した側が負けた理由",
+    "url": "https://note.com/tag/%E5%AF%8C%E5%A3%AB%E3%82%BD%E3%83%95%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "富士ソフト株式会社の創業から現在までの歩み｜大曽根宏幸",
+    "url": "https://note.com/soneo/n/n466c21294f47",
+    "pass": 3
+   },
+   {
+    "quote": "富士ソフト株式会社の創業から現在までの歩み",
+    "url": "https://note.com/soneo/n/n466c21294f47",
+    "pass": 3
+   },
+   {
+    "quote": "富士ソフト株式会社の創業者である野澤宏（のざわ ひろし）氏は1942年生まれで、",
+    "url": "https://note.com/soneo/n/n466c21294f47",
+    "pass": 3
+   },
+   {
+    "quote": "システムインテグレーターとして業界トップクラスの企業へ富士ソフトを一代で育て上げた重鎮",
+    "url": "https://note.com/soneo/n/n466c21294f47",
+    "pass": 3
+   },
+   {
+    "quote": "富士ソフト、創業者の野澤宏会長が代表取締役に復帰へ、ツートップで経営 - 週刊BCN+",
+    "url": "https://note.com/soneo/n/n466c21294f47",
+    "pass": 3
+   },
+   {
+    "quote": "。野澤氏は起業前、東京都蒲田にあった「電子工学院」（現：日本工学院専門学校の前身）というコンピュータ専門学校で講師を務めていました (",
+    "url": "https://note.com/soneo/n/n466c21294f47",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー:野澤宏富士ソフト（株）代表取締役会長 - 文化通信.com",
+    "url": "https://note.com/soneo/n/n466c21294f47",
+    "pass": 3
+   },
+   {
+    "quote": ")。当時から「いずれ自分で独立する」という意識を持っており、講師として教鞭を執る傍ら起業のチャンスを模索していたといいます (",
+    "url": "https://note.com/soneo/n/n466c21294f47",
+    "pass": 3
+   },
+   {
+    "quote": "富士ソフトの変革note｜富士ソフト公式note｜note",
+    "url": "https://note.com/fujisoft/m/m5cf2f3f93e7c",
+    "pass": 3
+   },
+   {
+    "quote": "AI戦略を発表して、あらためて見えた富士ソフトらしさ",
+    "url": "https://note.com/fujisoft/m/m5cf2f3f93e7c",
+    "pass": 3
+   },
+   {
+    "quote": "経営が「聞く」ということ ― ラウンドテーブルで見えた、対話の始まり",
+    "url": "https://note.com/fujisoft/m/m5cf2f3f93e7c",
+    "pass": 3
+   },
+   {
+    "quote": "戦略はどう伝わるのか――沈黙から始まったタウンホールの現場で感じたこと",
+    "url": "https://note.com/fujisoft/m/m5cf2f3f93e7c",
+    "pass": 3
+   },
+   {
+    "quote": "富士ソフトGen.2は何を変え、何を残すのか",
+    "url": "https://note.com/fujisoft/m/m5cf2f3f93e7c",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "富士ソフト 株式会社 (@FSI_official_X) / X 富士ソフト 株式会社 (@FSI_official_X) / X X https://x.com > FSI_official_X",
+    "url": "https://x.com/FSI_official_X",
+    "pass": 3
+   },
+   {
+    "quote": "富士ソフト 株式会社 (@FSI_official_X) / X 富士ソフト 株式会社 (@FSI_official_X) / X X https://x.com > FSI_official_X > all",
+    "url": "https://x.com/FSI_official_X/all",
+    "pass": 3
+   },
+   {
+    "quote": "富士ソフト 株式会社 - X 富士ソフト 株式会社 - X X https://x.com > @FSI_official_X",
+    "url": "https://x.com/FSI_official_X/status/2115994357442703668",
+    "pass": 3
+   },
+   {
+    "quote": "富士ソフト 株式会社 - X 富士ソフト 株式会社 - X X https://x.com > @FSI_official_X",
+    "url": "https://x.com/FSI_official_X/status/2105587987832877121",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "富士ソフト 株式会社 - LinkedIn 富士ソフト 株式会社 - LinkedIn LinkedIn https://jp.linkedin.com > company > fujisoft-incorporated",
+    "url": "https://jp.linkedin.com/company/fujisoft-incorporated",
+    "pass": 3
+   },
+   {
+    "quote": "私がこの note を書く理由｜吉田 亜美 | 富士ソフト 株式会社 私がこの note を書く理由｜吉田 亜美 | 富士ソフト 株式会社 LinkedIn https://jp.linkedin.com > posts > fujisoft-incorporated_私...",
+    "url": "https://jp.linkedin.com/posts/fujisoft-incorporated_%E7%A7%81%E3%81%8C%E3%81%93%E3%81%AEnote%E3%82%92%E6%9B%B8%E3%81%8F%E7%90%86%E7%94%B1%E5%90%89%E7%94%B0-%E4%BA%9C%E7%BE%8E-activity-7459422029956587520-46h_",
+    "pass": 3
+   },
+   {
+    "quote": "富士ソフト 株式会社 (@FSI_official_X) on X - LinkedIn 富士ソフト 株式会社 (@FSI_official_X) on X - LinkedIn LinkedIn https://jp.linkedin.com > posts > fujisoft-incorporated_富...",
+    "url": "https://jp.linkedin.com/posts/fujisoft-incorporated_%E5%AF%8C%E5%A3%AB%E3%82%BD%E3%83%95%E3%83%88%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-fsiofficialx-on-x-activity-7364567036477313024-KPoJ",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "富士ソフト 株式会社 | Yokohama Kanagawa - Facebook 富士ソフト 株式会社 | Yokohama Kanagawa - Facebook Facebook https://www.facebook.com > ... > Software Company",
+    "url": "https://www.facebook.com/FUJISOFT.japan/",
+    "pass": 3
+   },
+   {
+    "quote": "富士ソフト 株式会社 (@FUJISOFT.japan) - About - Facebook 富士ソフト 株式会社 (@FUJISOFT.japan) - About - Facebook Facebook https://www.facebook.com > ... > 富士ソフト株式会社",
+    "url": "https://www.facebook.com/FUJISOFT.japan/about/",
+    "pass": 3
+   },
+   {
+    "quote": "富士ソフト 株式会社 (@FUJISOFT.japan) - Mentions | Facebook 富士ソフト 株式会社 (@FUJISOFT.japan) - Mentions | Facebook Facebook https://www.facebook.com > ... > 富士ソフト株式会社",
+    "url": "https://www.facebook.com/FUJISOFT.japan/mentions/",
+    "pass": 3
+   },
+   {
+    "quote": "富士ソフト 株式会社 (@FUJISOFT.japan) - Photos - Facebook 富士ソフト 株式会社 (@FUJISOFT.japan) - Photos - Facebook Facebook https://www.facebook.com > ... > 富士ソフト株式会社",
+    "url": "https://www.facebook.com/FUJISOFT.japan/photos/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.fsi.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fsi.co.jp/company/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fsi.co.jp/company/news/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fsi.co.jp/company/news/20261030.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fsi.co.jp/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fsi.co.jp/sustainability/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fsi.co.jp/company/news/20261105.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fsi.co.jp/company/news/20261029.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fsi.co.jp/company/message.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fsi.co.jp/company/vision.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fsi.co.jp/company/network.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fsi.co.jp/company/group/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fsi.co.jp/company/registration.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fsi.co.jp/company/news/20261005.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.fsi.co.jp/company/news/2025/20250611_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fsi.co.jp/company/news/2025/20250611_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp61526/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubeni-idigio.com/insight-hub/metal3dprinter_desktopmetal_case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=teF6HEZhdlo",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp61526/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E5%AF%8C%E5%A3%AB%E3%82%BD%E3%83%95%E3%83%88",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/soneo/n/n466c21294f47",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fujisoft/m/m5cf2f3f93e7c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/FSI_official_X",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/FSI_official_X/all",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/FSI_official_X/status/2115994357442703668",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/FSI_official_X/status/2105587987832877121",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/fujisoft-incorporated",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/FUJISOFT.japan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/FUJISOFT.japan/about/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/FUJISOFT.japan/mentions/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/FUJISOFT.japan/photos/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/posts/fujisoft-incorporated_%E7%A7%81%E3%81%8C%E3%81%93%E3%81%AEnote%E3%82%92%E6%9B%B8%E3%81%8F%E7%90%86%E7%94%B1%E5%90%89%E7%94%B0-%E4%BA%9C%E7%BE%8E-activity-7459422029956587520-46h_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tag/%E5%AF%8C%E5%A3%AB%E3%82%BD%E3%83%95%E3%83%88",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/FSI_official_X",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/posts/fujisoft-incorporated_%E5%AF%8C%E5%A3%AB%E3%82%BD%E3%83%95%E3%83%88%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-fsiofficialx-on-x-activity-7364567036477313024-KPoJ",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "富士ソフト",
+   "results": [
+    "https://www.fsi.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%A3%AB%E3%82%BD%E3%83%95%E3%83%88",
+    "https://x.com/FSI_official_X",
+    "https://www.openwork.jp/company.php?m_id=a0910000000Fs07",
+    "https://www.facebook.com/FUJISOFT.japan/?locale=ja_JP",
+    "https://ja.wikipedia.org/wiki/富士ソフト",
+    "https://ja.wikipedia.org/wiki/野澤宏",
+    "https://fsi-plusf.jp/",
+    "https://www.fsisb.co.jp/",
+    "https://www.fsi.co.jp/e/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "富士ソフト 会社概要 資本金 設立",
+   "results": [
+    "https://www.fsi.co.jp/company/about.html",
+    "https://www.fsi.co.jp/company.html",
+    "https://job.mynavi.jp/28/pc/search/corp61526/outline.html",
+    "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%A3%AB%E3%82%BD%E3%83%95%E3%83%88",
+    "https://www.fsisb.co.jp/corporate/outline.html",
+    "https://www.fsi.co.jp/special/history.html",
+    "https://note.com/soneo/n/n466c21294f47",
+    "https://www.openwork.jp/a0910000000Fs07/analysis/",
+    "https://www.fsi.co.jp/ir/library/docs/securities_report/55yuuka.pdf",
+    "https://ja.wikipedia.org/wiki/富士ソフト"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "富士ソフト 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.marubeni-idigio.com/insight-hub/metal3dprinter_desktopmetal_case/",
+    "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "https://www.youtube.com/watch?v=teF6HEZhdlo",
+    "https://www.ricoh.co.jp/3dp/metal/what",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://www.datadesign.co.jp/markforged/news/6501/",
+    "https://www.iri.pref.shizuoka.jp/printer/",
+    "https://flashforge.jp/benefit_list/metal/",
+    "https://jampt.jp/column/column_453/",
+    "https://3dprinter.co.jp/news/13985/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "富士ソフト 金属積層造形 設備",
+   "results": [
+    "https://chuokatan.co.jp/products/3dp/",
+    "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "https://jampt.jp/equipment/",
+    "https://ja.3dsystems.com/semiconductor",
+    "https://www.meti.go.jp/meti_lib/report/2021FY/000098.pdf",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://partners.solize.com/manufacturing/technology/3dp-metal",
+    "https://www.fsi.co.jp/smartfactory/",
+    "https://www.ricoh.co.jp/3dp/metal/what",
+    "https://mitsu-ri.net/articles/metal-laminated-modeling"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "富士ソフト 株主 出資 親会社",
+   "results": [
+    "https://www.fsi.co.jp/ir/",
+    "https://www.fsi.co.jp/company/news/20220408.html",
+    "https://www.fsi.co.jp/ir/stocks/index.html",
+    "https://www.nikkei.com/article/DGXZQOUC24C3U0U5A420C2000000/",
+    "https://www.youtube.com/watch?v=osmW2lQwb-E&vl=ja",
+    "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%A3%AB%E3%82%BD%E3%83%95%E3%83%88",
+    "https://www.reuters.com/jp/markets/japan/XMRNA2RABJO5XIZTRSQNMTTXEI-2025-02-20/",
+    "https://www.bloomberg.co.jp/news/articles/2023-11-08/S3QFJDDWRGG001",
+    "https://www.fsi.co.jp/company/about.html",
+    "https://ja.wikipedia.org/wiki/富士ソフト"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "富士ソフト 売上高 従業員数",
+   "results": [
+    "https://www.fsi.co.jp/special/3min.html",
+    "https://www.fsi.co.jp/company/about.html",
+    "https://job.mynavi.jp/27/pc/search/corp61526/outline.html",
+    "https://www.fsi.co.jp/ir/library/docs/presentation/2024_12_4Q_setsumei.pdf",
+    "https://www.bizreach.jp/companies/5415/",
+    "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%A3%AB%E3%82%BD%E3%83%95%E3%83%88",
+    "https://fact-board.co.jp/company/d-fsi/",
+    "https://irbank.net/E04810/worker",
+    "https://www.fsi.co.jp/ir/",
+    "https://ja.wikipedia.org/wiki/富士ソフト"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 富士ソフト",
+   "results": [
+    "https://note.com/tag/%E5%AF%8C%E5%A3%AB%E3%82%BD%E3%83%95%E3%83%88",
+    "https://note.com/soneo/n/n466c21294f47",
+    "https://note.com/fujisoft/m/m5cf2f3f93e7c",
+    "https://note.com/yoshida_fsi/n/n7a862da4b9e7",
+    "https://note.com/company_scope/n/nb16d0071d34c",
+    "https://note.com/yoshida_fsi/n/n12d38e689b8b",
+    "https://note.com/kanata_group/n/ne83e6756063d",
+    "https://note.com/company_scope/n/n6978c0d5e809",
+    "https://note.com/apt_hyssop3318/n/n7651fdd9fc5e",
+    "https://note.com/yoshida_fsi/n/n30f301381482"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:x.com 富士ソフト",
+   "results": [
+    "https://x.com/FSI_official_X",
+    "https://x.com/FSI_official_X/all",
+    "https://x.com/FSI_official_X/status/2115994357442703668",
+    "https://x.com/FSI_official_X/status/2105587987832877121",
+    "https://x.com/FSI_official_X/status/2110258309533987077",
+    "https://x.com/FSK_syu_yobi",
+    "https://x.com/FSI_official_X/status/2112112851708239885",
+    "https://x.com/nhk_news/status/1830935531678744762",
+    "https://x.com/Nikkan_BizLine/status/1933371551799214231",
+    "https://x.com/FSI_official_X/status/2089285300464046496"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com 富士ソフト",
+   "results": [
+    "https://jp.linkedin.com/company/fujisoft-incorporated",
+    "https://www.linkedin.com/company/fujisoft-america-inc-",
+    "https://jp.linkedin.com/in/hkomeno",
+    "https://jp.linkedin.com/in/%E5%81%A5%E4%BA%8C-%E5%B0%8F%E9%87%8E-1ba00ab8",
+    "https://sg.linkedin.com/company/fujisoft-incorporated?trk=ppro_cprof",
+    "https://jp.linkedin.com/in/osamu-mita-b4495bb9",
+    "https://www.linkedin.com/jobs/doit-jobs-worldwide",
+    "https://jp.linkedin.com/in/jun-shiomi",
+    "https://jp.linkedin.com/in/tadaaki-shimamura-b73031112",
+    "https://jp.linkedin.com/posts/fujisoft-incorporated_富士ソフト脱ppapソリューションulexitを提供開始情報システム部門の-activity-7349346737049739265-Dm-4"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com 富士ソフト",
+   "results": [
+    "https://www.facebook.com/FUJISOFT.japan/",
+    "https://www.facebook.com/FUJISOFT.japan/about/",
+    "https://www.facebook.com/FUJISOFT.japan/mentions/",
+    "https://www.facebook.com/FUJISOFT.japan/photos/",
+    "https://www.facebook.com/FUJISOFT.japan/posts/%E5%AF%8C%E5%A3%AB%E3%82%BD%E3%83%95%E3%83%88%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AF1029%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%8D%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96erpbizsaas%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%B3%E3%83%81%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%A8%98%E8%80%85%E8%AA%AC%E6%98%8E%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%9712%E6%9C%88%E3%81%8B%E3%82%89%E3%81%AE%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%BE%E3%81%97%E3%81%9Fbi/1613997033858297/",
+    "https://www.facebook.com/FUJISOFT.japan/posts/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E5%AF%8C%E5%A3%AB%E3%82%BD%E3%83%95%E3%83%88%E3%81%AEf%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA4%E8%A3%BD%E5%93%81%E3%81%8Cjc-star%E9%81%A9%E5%90%88%E3%83%A9%E3%83%99%E3%83%AB%E3%82%92%E5%8F%96%E5%BE%97-%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%82%92%E5%8F%AF%E8%A6%96%E5%8C%96%E3%81%97%E5%AE%89%E5%BF%83%E3%81%97%E3%81%A6%E9%81%B8%E3%81%B9%E3%82%8Biot%E6%A9%9F%E5%99%A8%E3%81%B8%E5%AF%8C%E5%A3%AB%E3%82%BD%E3%83%95%E3%83%88%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9-%E7%A4%BE%E9%95%B7/1493566559234679/",
+    "https://www.facebook.com/FUJISOFT.japan/posts/%E6%96%B0%E8%A8%AD%E3%81%97%E3%81%9F%E5%AF%8C%E5%A3%AB%E3%82%BD%E3%83%95%E3%83%88%E5%88%9D%E3%81%AE%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E9%96%8B%E7%99%BA%E5%AE%9F%E8%A8%BC%E3%81%AE%E5%B0%82%E7%94%A8%E6%8B%A0%E7%82%B9%E5%90%8D%E5%8F%A4%E5%B1%8Blab%E3%82%921014%E3%81%AB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AE%E7%9A%86%E3%81%95%E3%81%BE%E3%81%AB%E5%88%9D%E5%85%AC%E9%96%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E5%90%8D%E5%8F%A4%E5%B1%8Blab%E3%81%AF%E8%A4%87%E6%95%B0%E3%81%AE%E5%A4%A7%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E9%96%8B%E7%99%BA%E5%AE%9F%E6%A9%9F%E6%A4%9C%E8%A8%BC%E3%81%AE/1599190172005650/",
+    "https://www.facebook.com/FUJISOFT.japan/posts/%E5%AF%8C%E5%A3%AB%E3%82%BD%E3%83%95%E3%83%88%E3%81%AF99%E3%81%AB%E7%84%A1%E6%96%99%E3%82%A6%E3%82%A7%E3%83%93%E3%83%8A%E3%83%BCeu-cyber-resilience-act%E5%AF%BE%E5%BF%9C%E5%BE%85%E3%81%A3%E3%81%9F%E3%81%AA%E3%81%97eu-cra%E5%AF%BE%E5%BF%9C%E3%81%AB%E4%BB%8A%E3%81%99%E3%81%90%E7%9D%80%E6%89%8B%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E5%AE%9F%E5%8B%99%E3%83%AD%E3%83%BC%E3%83%89%E3%83%9E%E3%83%83%E3%83%97%E3%82%92%E8%A7%A3%E8%AA%AC%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97/1556326516292016/",
+    "https://www.facebook.com/FUJISOFT.japan/posts/%E5%AF%8C%E5%A3%AB%E3%82%BD%E3%83%95%E3%83%88%E3%81%AF1022%E3%81%AB%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%82%8Bopen-house-japan-2026%E3%81%AB%E5%87%BA%E5%B1%95%E3%81%97%E3%81%BE%E3%81%99%E5%BD%93%E7%A4%BE%E3%83%96%E3%83%BC%E3%82%B9%E3%81%A7%E3%81%AF%E3%81%BF%E3%81%AA%E3%81%A8%E3%81%BF%E3%82%89%E3%81%84%E3%81%A7%E3%81%AE%E8%87%AA%E8%B5%B0%E3%83%87%E3%83%A2%E3%82%92%E9%80%9A%E3%81%98%E3%81%A6%E7%82%B9%E7%BE%A4%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E6%99%AF%E8%A6%B3%E8%87%AA%E5%8B%95/1595310079060326/",
+    "https://www.facebook.com/FUJISOFT.japan/posts/ダイドーロボット館-十年祭に出展中です当社ブースでは音声指示で協働ロボットが動くフィジカルaiスタートパッケージの実機デモを公開しますぜひお立ち寄りください-日/1592380486019952/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "富士ソフト note 社長",
+   "results": [
+    "https://note.com/yoshida_fsi/n/n7a862da4b9e7",
+    "https://jp.linkedin.com/posts/fujisoft-incorporated_%E7%A7%81%E3%81%8C%E3%81%93%E3%81%AEnote%E3%82%92%E6%9B%B8%E3%81%8F%E7%90%86%E7%94%B1%E5%90%89%E7%94%B0-%E4%BA%9C%E7%BE%8E-activity-7459422029956587520-46h_",
+    "https://note.com/tag/%E5%AF%8C%E5%A3%AB%E3%82%BD%E3%83%95%E3%83%88",
+    "https://note.com/yoshida_fsi/n/n12d38e689b8b",
+    "https://www.fsi.co.jp/company/about.html",
+    "https://japan.zdnet.com/article/35030671/",
+    "https://note.com/soneo/n/n466c21294f47",
+    "https://www.fsi.co.jp/hr_ga/index.html",
+    "https://www.fsi.co.jp/sustainability/message.html",
+    "https://ja.wikipedia.org/wiki/富士ソフト"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "富士ソフト X 投稿",
+   "results": [
+    "https://x.com/FSI_official_X",
+    "https://www.fsi.co.jp/guide_sm.html",
+    "https://jp.linkedin.com/posts/fujisoft-incorporated_%E5%AF%8C%E5%A3%AB%E3%82%BD%E3%83%95%E3%83%88%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-fsiofficialx-on-x-activity-7364567036477313024-KPoJ",
+    "https://www.fsi.co.jp/products.html",
+    "https://www.fsi.co.jp/company/news/20260918.html",
+    "https://www.fsi.co.jp/",
+    "https://www.facebook.com/FUJISOFT.japan/?locale=ja_JP",
+    "https://www.fsi.co.jp/company/news/index.html",
+    "https://www.fsi.co.jp/blog/",
+    "https://www.facebook.com/FUJISOFT.japan/posts/富士ソフト公式xアカウント開設のお知らせ富士ソフトはこのたび公式x旧twitterアカウントfsi_official_xを開設しましたaiを用いて楽をテーマに身/1257760619481942/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部24頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部24頁・検索12回）"
+ }
+}

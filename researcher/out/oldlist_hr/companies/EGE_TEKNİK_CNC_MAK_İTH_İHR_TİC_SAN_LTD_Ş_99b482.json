@@ -1,0 +1,393 @@
+{
+ "name": "EGE TEKNİK CNC MAK. İTH. İHR. TİC. SAN. LTD. ŞTİ.",
+ "aliases": [],
+ "context": "旧営業リスト｜Machine Tools / Production Equipment｜未接触",
+ "researched_at": "2026-11-10T19:09:18.379909+00:00",
+ "official_url": "https://egeteknikcnc.com.tr/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Değerli müşterilerimiz, Egeteknikcnc olarak sizlere daha iyi hizmet sunmak ve Proseiki ürünlerimiz hakkında daha kapsamlı bilgi sağlayabilmek adına yeni web",
+    "url": "https://egeteknikcnc.com.tr/",
+    "pass": 1
+   },
+   {
+    "quote": "PRO315",
+    "url": "https://www.maktekfuari.com/katilimci-listesi/ege-teknik-cnc-mak-ith-ihr-tic-san-ltd-sti-116528-2768",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://egeteknikcnc.com.tr/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://egeteknikcnc.com.tr/wp-content/uploads/2024/06/Group-12partners.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://egeteknikcnc.com.tr/wp-content/uploads/2024/06/Group-11partners.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.cnc-lathe.com/worldwide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://egeteknik-makina.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/egeteknikcncmakina/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.egecnc.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/egeteknikcncmakina/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jtektmachinery.com/about-jtektmachinery/brand-partnerships",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tr.linkedin.com/in/zekeriya-%C5%9F%C3%BCm%C3%BCr-89026ab8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.instagram.com/egeteknikcncmakina/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/egeteknikcncmakine/?locale=tr_TR",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.okuma.com/knowledge-center/case-studies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tth.com/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rugomachineshop.com/rmss-machining-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLMLAW-IQSgZbuQoeoE2eNvhWgt6WhLgqy_ZO_kKWN305GARehu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maktekfuari.com/katilimci-listesi/ege-teknik-cnc-mak-ith-ihr-tic-san-ltd-sti-116528-2768",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.machworld.com.tr/en/katilimci/2026-katilimcilar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tr.linkedin.com/in/sibel-elibol-251b11110",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/List_of_largest_technology_companies_by_revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/in/ege-ozgirin",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://revenuebase.ai/companies/cnc-machine-manufacturers/united-states",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.deceuninck.com/en/investors-home/financial-results/ege-profil.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "EGE TEKNİK CNC MAK. İTH. İHR. TİC. SAN. LTD. ŞTİ. 日本 導入",
+   "results": [
+    "https://egeteknikcnc.com.tr/",
+    "https://www.cnc-lathe.com/worldwide",
+    "http://egeteknik-makina.com/",
+    "https://www.instagram.com/egeteknikcncmakina/",
+    "https://www.facebook.com/egeteknikcncmakine/?locale=tr_TR",
+    "https://www.egecnc.com/",
+    "https://jtektmachinery.com/about-jtektmachinery/brand-partnerships",
+    "https://www.gtc.edu/programs/technical-diplomas/cnc-programmer",
+    "https://www.kern-microtechnik.com/en",
+    "https://en.wikipedia.org/wiki/Eagle_County_Regional_Airport"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "EGE TEKNİK CNC MAK. İTH. İHR. TİC. SAN. LTD. ŞTİ. 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://egeteknikcnc.com.tr/",
+    "https://www.egecnc.com/",
+    "https://www.instagram.com/egeteknikcncmakina/",
+    "https://jtektmachinery.com/about-jtektmachinery/brand-partnerships",
+    "https://www.ccm-comork.com/en/distributor.html",
+    "https://egeteknikcnc.com.tr/iletisim/",
+    "https://yandex.com.tr/maps/org/ege_teknik_cnc/88563699992/",
+    "https://www.arigatocorp.jp/",
+    "https://www.aokitech.co.jp/company_network_sales_agencies",
+    "https://en.wikipedia.org/wiki/Eagle_County_Regional_Airport"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "EGE TEKNİK CNC MAK. İTH. İHR. TİC. SAN. LTD. ŞTİ. Japan",
+   "results": [
+    "https://egeteknikcnc.com.tr/",
+    "https://tr.linkedin.com/in/zekeriya-%C5%9F%C3%BCm%C3%BCr-89026ab8",
+    "https://www.instagram.com/egeteknikcncmakina/",
+    "https://www.facebook.com/egeteknikcncmakine/?locale=tr_TR",
+    "https://www.egecnc.com/",
+    "https://www.maktekfuari.com/katilimci-listesi/ege-teknik-cnc-mak-ith-ihr-tic-san-ltd-sti-116528-2768",
+    "http://egeteknik-makina.com/",
+    "https://leweiprecision.com/top-cnc-machining-companies-in-japan/",
+    "https://yandex.com.tr/maps/org/ege_teknik_cnc/88563699992/",
+    "https://en.wikipedia.org/wiki/Eagle_County_Regional_Airport"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "EGE TEKNİK CNC MAK. İTH. İHR. TİC. SAN. LTD. ŞTİ. manufacturing customer case study",
+   "results": [
+    "https://www.okuma.com/knowledge-center/case-studies",
+    "https://www.tth.com/resources/case-studies",
+    "https://rugomachineshop.com/rmss-machining-case-studies/",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLMLAW-IQSgZbuQoeoE2eNvhWgt6WhLgqy_ZO_kKWN305GARehu",
+    "https://www.eos.info/industries/customer-success-stories",
+    "https://www.datron.com/resources/case-studies/",
+    "https://vericut.com/case-studies",
+    "https://prototek.com/article/exploring-the-benefits-of-cnc-machining/",
+    "https://cncmachines.com/successful-cnc-implementation-in-small-businesses?srsltid=AYCX9vI8q8l6KlXfdvRiHHtze1Kro9YgX4cA3kWF3YuodjWJ2yJvxlW0",
+    "https://en.wikipedia.org/wiki/Eagle_County_Regional_Airport"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "EGE TEKNİK CNC MAK. İTH. İHR. TİC. SAN. LTD. ŞTİ. white label OR reseller OR partner program",
+   "results": [
+    "https://egeteknikcnc.com.tr/",
+    "https://www.maktekfuari.com/katilimci-listesi/ege-teknik-cnc-mak-ith-ihr-tic-san-ltd-sti-116528-2768",
+    "https://www.machworld.com.tr/en/katilimci/2026-katilimcilar/",
+    "https://tr.linkedin.com/in/sibel-elibol-251b11110",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://www.mastercard.com/europe/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.tekyaz.com/",
+    "https://www.ethercat.org/en/vendor_id_list.html",
+    "https://en.wikipedia.org/wiki/Eagle_County_Regional_Airport"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "EGE TEKNİK CNC MAK. İTH. İHR. TİC. SAN. LTD. ŞTİ. founded funding employees revenue",
+   "results": [
+    "https://en.wikipedia.org/wiki/List_of_largest_technology_companies_by_revenue",
+    "https://www.linkedin.com/in/ege-ozgirin",
+    "https://revenuebase.ai/companies/cnc-machine-manufacturers/united-states",
+    "https://www.deceuninck.com/investors/financial-result-of-ege-profil/",
+    "https://www.zoominfo.com/c/cnc-engineering-inc/26546591",
+    "https://www.inven.ai/company-lists/top-26-metalworking-machinery-companies",
+    "https://www.reportprime.com/cnc-machine-r7505/company",
+    "https://ecoreprap.com/blog/top-10-global-cnc-machine-manufacturer-brand/",
+    "https://egeteknikcnc.com.tr/",
+    "https://en.wikipedia.org/wiki/Eagle_County_Regional_Airport"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com EGE TEKNİK CNC MAK. İTH. İHR. TİC. SAN. LTD. ŞTİ.",
+   "results": [
+    "https://en.wikipedia.org/wiki/Eagle_County_Regional_Airport",
+    "https://flyege.com/",
+    "https://www.egecarpets.com/",
+    "https://www.egebio.com/",
+    "https://slicelife.com/restaurants/pa/pittsburgh/15213/ege-mediterranean-pittsburgh/menu",
+    "https://explore.microsoft.com/en-us/edge/download",
+    "https://www.microsoft.com/en-us/edge"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com EGE TEKNİK CNC MAK. İTH. İHR. TİC. SAN. LTD. ŞTİ.",
+   "results": [
+    "https://en.wikipedia.org/wiki/Eagle_County_Regional_Airport",
+    "https://flyege.com/",
+    "https://www.egecarpets.com/",
+    "https://www.egebio.com/",
+    "https://slicelife.com/restaurants/pa/pittsburgh/15213/ege-mediterranean-pittsburgh/menu",
+    "https://explore.microsoft.com/en-us/edge/download",
+    "https://www.microsoft.com/en-us/edge"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com EGE TEKNİK CNC MAK. İTH. İHR. TİC. SAN. LTD. ŞTİ.",
+   "results": [
+    "https://tr.linkedin.com/in/egerobotics/tr",
+    "https://tr.linkedin.com/in/burak-bagci-",
+    "https://uk.linkedin.com/in/sinantasci",
+    "https://www.linkedin.com/in/tolga-metin-347a22214",
+    "https://tr.linkedin.com/in/asuman-kacar-a7a8a2130",
+    "https://tr.linkedin.com/directory/companies/e-1",
+    "https://tr.linkedin.com/company/art-makina-kesici-takimlar-san-tic-ltd-sti-",
+    "https://tr.linkedin.com/company/anet-machining",
+    "https://tr.linkedin.com/in/ibrahim-etem-saklakoglu-78066039",
+    "https://en.wikipedia.org/wiki/Eagle_County_Regional_Airport"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com EGE TEKNİK CNC MAK. İTH. İHR. TİC. SAN. LTD. ŞTİ.",
+   "results": [
+    "https://www.facebook.com/egemobilyamakinalari/videos/2017-model-aes-sirius-950m-frezeli-cnc-delik-makinasi-izmir-karaba%C4%9Flar-ege-makin/1625525645922567/",
+    "https://www.facebook.com/egemobilyamakinalari/videos/ege-makina-g%C3%BCvencesiyle-sifir-ve-ikinci-el-garantili-kenar-bantlama-makinalari-i/1507863264131313/",
+    "https://www.facebook.com/mizrakmak/videos/advantage-pm-xsmall-plc-kontrol-plc-control-kenar-bantlama-makinasi-edge-banding/760432775482767/",
+    "https://www.facebook.com/upvcprocessingmachine/posts/you-can-get-this-perfect-double-head-cutting-machine-for-your-pvc-and-aluminium-/1684448480354066/",
+    "https://www.facebook.com/tezmaksanrobotics/posts/the-countdown-to-maktek-2026-has-begun-final-preparations-at-our-stand-are-in-fu/122278456178143942/",
+    "https://www.facebook.com/ozgencmachine/videos/-t%C3%BCyap-fair-and-congress-center-istanbul%EF%B8%8F-hall-8-stand-802a-2225-october-2026whe/1662557722026232/",
+    "https://www.facebook.com/egemobilyamakinalari/",
+    "https://www.facebook.com/groups/1433250893581952/posts/3859624844277866/",
+    "https://www.facebook.com/egemobilyamakinalari/videos/05548445500-05385644540wwwege-makinacomwwwyoutubecomegemakinat%C3%BCm-t%C3%BCrkiyeye-ve-yu/944609098725395/",
+    "https://en.wikipedia.org/wiki/Eagle_County_Regional_Airport"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "EGE TEKNİK CNC MAK. İTH. İHR. TİC. SAN. LTD. ŞTİ. note 社長",
+   "results": [
+    "http://egeteknik-makina.com/",
+    "https://egesengoz.com/pages/about.html",
+    "https://tr.linkedin.com/in/zekeriya-%C5%9F%C3%BCm%C3%BCr-89026ab8",
+    "https://www.egeendustri.com.tr/en/stat/about-us",
+    "https://jtektmachinery.com/about-jtektmachinery/brand-partnerships",
+    "https://www.etechtw.com/company-history",
+    "https://www.cncileriteknoloji.com/about-us/",
+    "https://www.instagram.com/egeteknikcncmakina/",
+    "https://www.facebook.com/egeteknikcncmakine/",
+    "https://en.wikipedia.org/wiki/Eagle_County_Regional_Airport"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "EGE TEKNİK CNC MAK. İTH. İHR. TİC. SAN. LTD. ŞTİ. X 投稿",
+   "results": [
+    "https://www.youtube.com/watch?v=ksBDxYyP8C0",
+    "https://egeteknikcnc.com.tr/",
+    "https://www.maktekfuari.com/katilimci-listesi/ege-teknik-cnc-mak-ith-ihr-tic-san-ltd-sti-116528-2768",
+    "http://egeteknik-makina.com/",
+    "https://www.egefikstur.com.tr/en/",
+    "https://www.facebook.com/egeteknikcncmakine/",
+    "https://www.instagram.com/egeteknikcncmakina/",
+    "https://www.kern-microtechnik.com/en",
+    "https://www.egecnc.com/",
+    "https://en.wikipedia.org/wiki/Eagle_County_Regional_Airport"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部20頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部20頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部20頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部20頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部20頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部20頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部20頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部20頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部20頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部20頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部20頁・検索12回）"
+ }
+}

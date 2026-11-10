@@ -1,0 +1,783 @@
+{
+ "name": "実装研究センター",
+ "aliases": [],
+ "context": "PBF=unknown 装置= 出典=https://www.aist.go.jp/aist_j/magazine/20260311.html",
+ "researched_at": "2026-11-10T19:14:29.251465+00:00",
+ "official_url": "https://crants.opric.gunma-u.ac.jp/",
+ "identified_by": "search:yahoo_jp:株式会社実装研究センター",
+ "profile": {},
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "完全自動運転は地域のニーズによって適切なモビリティを導入することが重要であると考えています",
+    "url": "https://crants.opric.gunma-u.ac.jp/center-facility/",
+    "pass": 1
+   },
+   {
+    "quote": "【スローモビリティプロジェクト】 低速電動バスを用いた産学官民連携による地域活性化の取り組み 【NNCプロジェクト】 ナローモビリティの地域導入に関 […]",
+    "url": "https://crants.opric.gunma-u.ac.jp/info/",
+    "pass": 1
+   },
+   {
+    "quote": "また、無人で走行できるような完全自動運転は、維持管理の観点や利用者受容性の観点から、「あらゆる所」で一度に導入することは社会的にもハードルが高いと考えます",
+    "url": "https://crants.opric.gunma-u.ac.jp/automatic/",
+    "pass": 1
+   },
+   {
+    "quote": "【スローモビリティプロジェクト】 低速電動バスを用いた産学官民連携による地域活性化の取り組み 【NNCプロジェクト】 ナローモビリティの地域導入に関 […]",
+    "url": "https://crants.opric.gunma-u.ac.jp/info-cat/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "pass": 1
+   },
+   {
+    "quote": "2050年カーボンニュートラルの実現には、再生可能エネルギーなどカーボンフリーのエネルギーを最大限導入することと、CO",
+    "url": "https://www.aist.go.jp/aist_j/business/aboutus/irc.html",
+    "pass": 3
+   },
+   {
+    "quote": "（民間資金報奨金、アシスタント報奨金）を導入報奨金",
+    "url": "https://www.f-rei.go.jp/assets/contents/2_AdvisoryBoard_5.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターとは？",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターは、3Dのデジタルデータをもとに、金属材料を用いて部品を造形する工作機械です",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターは、金属加工の新たな手段として、デジタルデータを活用した次世代ものづくりや、資源を循環的に利用するサーキュラーエコノミーの実現に寄与するものとして期待されています",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターとは",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターとは何か",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   },
+   {
+    "quote": "これに対して、金属の薄い層を1枚ずつ積み重ねて形をつくるのが「付加加工（積層造形）」で、金属3Dプリンターの名称で知られています",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターは、はじめに3D CADと呼ばれる設計支援ツールを使用して形状データを作成します",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   },
+   {
+    "quote": "粉末状の材料を薄く敷き、固めたい部分に熱源（レーザー、電子ビーム）を走査して溶融・凝固または焼結させて層を形成し、これを積み重ねて造形する方式",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターのメリットとしては、複雑な形状の部品を一体成形することにより、耐久性の向上、部品数の減少、人件費の削減などが可能になる点があげられます",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   },
+   {
+    "quote": "これらのメリットが生かされているのが、金属3Dプリンターの活用が特に進んでいる航空宇宙産業です",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   },
+   {
+    "quote": "特性を生かせるところに導入することで、効率よく普及が進むと考えています",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターが導入されている分野",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙産業では、金属3Dプリンターで製造したエンジン部品の実機搭載がすでに進んでいます",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   },
+   {
+    "quote": "自動車産業では、生産台数の少ない高級車の部品や、交換用部品の製造で実用化されています",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツのメルセデス・ベンツではトラック用のスペアパーツを2017年から製造、ポルシェではエンジンに金属3Dプリンター製のピストンを2020年から採用しています",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の日産自動車では、エンジン部品の試作に金属3Dプリンターを採用し、試作期間を短縮する効果を上げています",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   },
+   {
+    "quote": "複数メーカーの金属3Dプリンターを保有して、造形を受託するサービスビューローもできており、ノウハウが蓄積されています",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   },
+   {
+    "quote": "産総研では、製造基盤技術研究部門および次世代ものづくり実装研究センター、北陸デジタルものづくりセンターを中心に、金属3Dプリンターを取り扱い、基盤的なテーマから実装・評価技術まで幅広く金属3Dプリンターに関わる研究を行っています",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、資源の廃棄を最小限にするサーキュラーエコノミー実現に欠かせない「リマニュファクチャリングプロセス（略称：リマンプロセス）」の確立にも、金属3Dプリンターによる積層造形を生かす研究を進めています",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   },
+   {
+    "quote": "ある部材が使用によって欠けた場合などに、部材をすべて廃棄して交換するのではなく、使える部分は残し、その上に粉末床溶融（Powder Bed Fusion、PBF）結合方式・指向性エネルギー堆積（Directed Energy Deposition、DED）方式で元の形に補修する技術や、母材の微細組織との整合性を担保する積層組織の微細構造制御に係る技術の開発を行っています",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、北陸デジタルものづくりセンターでは国内ではまだ活用事例の少ないバインダージェット方式の金属3Dプリンターを公的機関として初めて導入しました",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターは装置自体の価格が高く、材料の保管や搬送などのハンドリングに係る安全性の課題もあり、BtoBでの活用が中心となります",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのなかで、従来生産方法の置き換えではなく、3次元設計やリマニュファクチャリングに向けた易解体設計などの付加価値をもった部材をいかに製造、そして実機に導入していくかが普及に向けた1つのかぎとなります",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのためには、金属3Dプリンターのユーザーニーズを満足するための課題解決、例えば、装置自体の機能向上（造形精度や造形速度など）、材料の低コスト化や利用可能な材料の拡充などに取り組む必要があります",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "乗用車はもとよりバスやトラックから一人乗りの小型車両まで、自動運転に対応した多種多様な自動車を取り揃えております",
+    "url": "https://crants.opric.gunma-u.ac.jp/center-facility/",
+    "pass": 1
+   },
+   {
+    "quote": "国土交通省では，「交通運輸技術開発推進制度」において実施した研究課題の成果報告と，自動車及び鉄道分野の自動運転の実現に資する最新技術や国際標準の推進・普及を目的として，２０２５年２月２６日（水）に第９回「交通運輸技術フォ […]",
+    "url": "https://crants.opric.gunma-u.ac.jp/info/",
+    "pass": 1
+   },
+   {
+    "quote": "超小型電気自動車の走行試験と電力消費量およびCO2排出量評価",
+    "url": "https://crants.opric.gunma-u.ac.jp/info/",
+    "pass": 1
+   },
+   {
+    "quote": "国土交通省では，「交通運輸技術開発推進制度」において実施した研究課題の成果報告と，自動車及び鉄道分野の自動運転の実現に資する最新技術や国際標準の推進・普及を目的として，２０２５年２月２６日（水）に第９回「交通運輸技術フォ […]",
+    "url": "https://crants.opric.gunma-u.ac.jp/info-cat/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "pass": 1
+   },
+   {
+    "quote": "超小型電気自動車の走行試験と電力消費量およびCO2排出量評価",
+    "url": "https://crants.opric.gunma-u.ac.jp/info-cat/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "pass": 1
+   },
+   {
+    "quote": "エネルギー・環境・資源制約への対応は、産業や社会の持続可能な発展に必要不可欠です",
+    "url": "https://www.aist.go.jp/aist_j/business/aboutus/irc.html",
+    "pass": 3
+   },
+   {
+    "quote": "2050年カーボンニュートラルの実現には、再生可能エネルギーなどカーボンフリーのエネルギーを最大限導入することと、CO",
+    "url": "https://www.aist.go.jp/aist_j/business/aboutus/irc.html",
+    "pass": 3
+   },
+   {
+    "quote": "超高齢社会、過疎化、医療関係者不足などにより、十分な医療が受けられないことが懸念されています",
+    "url": "https://www.aist.go.jp/aist_j/business/aboutus/irc.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのために、医療データ、日常生活データおよび生活環境データを統合して、AIを活用した健康度評価モデルを構築し、効果の高いコーチングによるセルフケアシステムの基盤技術の整備と社会実装を進めます",
+    "url": "https://www.aist.go.jp/aist_j/business/aboutus/irc.html",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂材料では実現できない強度や耐熱性の高い部品を造形でき、航空宇宙、医療などの産業で活用が進みつつあります",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   },
+   {
+    "quote": "これらのメリットが生かされているのが、金属3Dプリンターの活用が特に進んでいる航空宇宙産業です",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   },
+   {
+    "quote": "従来、数百点の部品を溶接やネジ止めで組み立てていた航空機エンジン部品を一体成形できるようになると、弱い接合部がなくなることによる耐久性の向上、小型化・軽量化、材料を必要最小限まで抑制、組み立ての時間と人件費の削減といったこの技術の強みを生かせます",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙産業では、金属3Dプリンターで製造したエンジン部品の実機搭載がすでに進んでいます",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   },
+   {
+    "quote": "自動車産業では、生産台数の少ない高級車の部品や、交換用部品の製造で実用化されています",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の日産自動車では、エンジン部品の試作に金属3Dプリンターを採用し、試作期間を短縮する効果を上げています",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   },
+   {
+    "quote": "ヘルスケア産業では患者に合わせたインプラントの製作も行われています",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   },
+   {
+    "quote": "ある部材が使用によって欠けた場合などに、部材をすべて廃棄して交換するのではなく、使える部分は残し、その上に粉末床溶融（Powder Bed Fusion、PBF）結合方式・指向性エネルギー堆積（Directed Energy Deposition、DED）方式で元の形に補修する技術や、母材の微細組織との整合性を担保する積層組織の微細構造制御に係る技術の開発を行っています",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、軽量化が課題となっている電気自動車において、金属3Dプリンターによる部品の一体成形が活用されることも考えられます",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   },
+   {
+    "quote": "「微細化する半導体プロセス」を支えるCNTペリクル",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "特にアルミニウムおよびプラスチックを対象とし、産総研が独自に開発を進めてきた、高度物理選別・不純物除去技術、リサイクル技術、指標構築・評価技術などを融合し、課題に取り組みます",
+    "url": "https://www.aist.go.jp/aist_j/business/aboutus/irc.html",
+    "pass": 3
+   },
+   {
+    "quote": "粉末状の材料を薄く敷き、固めたい部分に結合剤を吹きつけて結合させて層を形成し、これを積み重ねて造形する方式",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   },
+   {
+    "quote": "粉末状の材料を薄く敷き、固めたい部分に熱源（レーザー、電子ビーム）を走査して溶融・凝固または焼結させて層を形成し、これを積み重ねて造形する方式",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   },
+   {
+    "quote": "粉末やワイヤー状の材料を熱源（レーザー、アークなど）の焦点位置に供給し、溶融させながら走査して層を形成し、層を積み重ねて造形する方式",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   },
+   {
+    "quote": "ある部材が使用によって欠けた場合などに、部材をすべて廃棄して交換するのではなく、使える部分は残し、その上に粉末床溶融（Powder Bed Fusion、PBF）結合方式・指向性エネルギー堆積（Directed Energy Deposition、DED）方式で元の形に補修する技術や、母材の微細組織との整合性を担保する積層組織の微細構造制御に係る技術の開発を行っています",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   },
+   {
+    "quote": "面内でのマルチマテリアル化は、積層方向のマルチマテリアル化と比べて高度な粉末制御や熱源制御が求められます",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、複数種の材料が混ざり合った粉末をいかに分離・回収するかも資源循環性を高めていくうえで非常に重要です",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "産総研： 実装研究センター — 産総研： 実装研究センター AIST： 産業技術総合研究所 https://www.aist.go.jp > aist_j > business > aboutus > irc",
+    "url": "https://www.aist.go.jp/aist_j/business/aboutus/irc.html",
+    "pass": 3
+   },
+   {
+    "quote": "産総研：実装研究センター — MISSION 課題に向き合い、社会実装を加速する 持続可能な未来を切り拓く産総研の総合力 私たちの社会には、解決を急がねばならない多くの課題が存在しています。産総研はこれらの社会課題に正面から取り組み、長年にわたり培ってきた独自の技術を実社会で役立つ形へと発展させ、広く普及 ...",
+    "url": "https://www.aist.go.jp/aist_j/business/aboutus/irc.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "2026年度 ラボの新規体制｜保高 徹生(Tetsuo Yasutaka) Apr 4, 2026 · ネイチャーポジティブ技術実装研究センター 新規入所で、ネイチャーポジティブ技術実装研究センターに主務の方が1名、兼務の方が1名加入されました。 微生物やサンゴが専門の方、ECO-DDRやGISが専門の方で、一緒に仕事をするのがとても楽しみです。",
+    "url": "https://note.com/leal_viola1221/n/n96f339c78257",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "2026年度 ラボの新規体制｜保高 徹生(Tetsuo Yasutaka)",
+    "url": "https://note.com/leal_viola1221/n/n96f339c78257",
+    "pass": 3
+   },
+   {
+    "quote": "保高 徹生(Tetsuo Yasutaka)",
+    "url": "https://note.com/leal_viola1221/n/n96f339c78257",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度になりました。産総研は道が桜色になっています。",
+    "url": "https://note.com/leal_viola1221/n/n96f339c78257",
+    "pass": 3
+   },
+   {
+    "quote": "さて、ネイチャーポジティブ技術実装研究センター及び地圏サステナビリティ評価研究グループ、北海道大学 環境リスク評価学講座にも新規メンバーがたくさん入ってきました。（今年は退職される方はいませんでした。）",
+    "url": "https://note.com/leal_viola1221/n/n96f339c78257",
+    "pass": 3
+   },
+   {
+    "quote": "地圏サステナビリティ評価研究グループ・北大研究室で、合計22名となりました。皆様、これから、よろしくお願いします。",
+    "url": "https://note.com/leal_viola1221/n/n96f339c78257",
+    "pass": 3
+   },
+   {
+    "quote": "新規入所で、ネイチャーポジティブ技術実装研究センターに主務の方が1名、兼務の方が1名加入されました。微生物やサンゴが専門の方、ECO-DDRやGISが専門の方で、一緒に仕事をするのがとても楽しみです。",
+    "url": "https://note.com/leal_viola1221/n/n96f339c78257",
+    "pass": 3
+   },
+   {
+    "quote": "https://unit.aist.go.jp/irc-npt/npt/index.html",
+    "url": "https://note.com/leal_viola1221/n/n96f339c78257",
+    "pass": 3
+   },
+   {
+    "quote": "地圏資源環境研究部門 地圏サステナビリティ評価研究グループには、4月に6名が加入しました。",
+    "url": "https://note.com/leal_viola1221/n/n96f339c78257",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "太田 直哉 - 群馬大学 - 教授 | LinkedIn公益資本主義 研究・実装センター 設立発足式 -格差の拡大と社会の分...国立がん研究センター東病院 NEXT医療機器開発センター | LinkedInJoao Martins - IT Support Engineer at Mitsui Knowledge ...エクシオグループ株式会社 | LinkedInIchiro Hashimoto - Ph.d. Candidate | LinkedIn研究職（機械/材料/制御/化学/電気電子など）（オープンポジション/二... 2016/12 - 現在 : 次世代モビリティ社会実装研究センター センター長 / Director, Center for Research on Adoption of NextGen Transportation Sysntems 1999/1 - 200",
+    "url": "https://jp.linkedin.com/in/直哉-太田-b0b1a470",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://crants.opric.gunma-u.ac.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://crants.opric.gunma-u.ac.jp/center-facility/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://crants.opric.gunma-u.ac.jp/facilities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://crants.opric.gunma-u.ac.jp/facilities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://crants.opric.gunma-u.ac.jp/info/jstnews-2025%E5%B9%B47%E6%9C%88%E5%8F%B7%E3%81%AB%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%83%A2%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3%E7%A4%BE%E4%BC%9A%E5%AE%9F%E8%A3%85%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://crants.opric.gunma-u.ac.jp/info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://crants.opric.gunma-u.ac.jp/automatic/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://crants.opric.gunma-u.ac.jp/info/jstnews-2025%E5%B9%B47%E6%9C%88%E5%8F%B7%E3%81%AB%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%83%A2%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3%E7%A4%BE%E4%BC%9A%E5%AE%9F%E8%A3%85%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://crants.opric.gunma-u.ac.jp/info-cat/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://crants.opric.gunma-u.ac.jp/automatic/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://crants.opric.gunma-u.ac.jp/info-cat/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://crants.opric.gunma-u.ac.jp/info/%E7%BE%A4%E9%A6%AC%E3%83%86%E3%83%AC%E3%83%93%E3%80%8Cnews-eye8%E3%80%8D%E3%81%A7%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%83%A2%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3%E7%A4%BE%E4%BC%9A%E5%AE%9F%E8%A3%85%E7%A0%94/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://crants.opric.gunma-u.ac.jp/info/%E7%BE%A4%E9%A6%AC%E3%83%86%E3%83%AC%E3%83%93%E3%80%8Cnews-eye8%E3%80%8D%E3%81%A7%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%83%A2%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3%E7%A4%BE%E4%BC%9A%E5%AE%9F%E8%A3%85%E7%A0%94/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://crants.opric.gunma-u.ac.jp/info/%E9%A7%90%E6%97%A5%E3%83%9C%E3%82%B9%E3%83%8B%E3%82%A2%E3%83%BB%E3%83%98%E3%83%AB%E3%83%84%E3%82%A7%E3%82%B4%E3%83%93%E3%83%8A%E5%85%B1%E5%92%8C%E5%9B%BD%E7%89%B9%E5%91%BD%E5%85%A8%E6%A8%A9%E5%A4%A7/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://crants.opric.gunma-u.ac.jp/wp/wp-content/uploads/2018/12/3pr_02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.aist.go.jp/aist_j/business/aboutus/irc.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp100220/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.f-rei.go.jp/assets/contents/2_AdvisoryBoard_5.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-sankoushiryousyu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-sankoushiryousyu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.gitc.pref.nagano.lg.jp/zairyo/3Ddigital/setsubi/1_3Dprinter.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aist.go.jp/aist_j/business/aboutus/irc.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.f-rei.go.jp/assets/contents/2_AdvisoryBoard_5.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/innovation/pdf/012_04_03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/lithe_poppy8924/n/nfbf51965587a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aist.go.jp/aist_j/business/aboutus/irc.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pasco.co.jp/corporate/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/leal_viola1221/n/n96f339c78257",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/直哉-太田-b0b1a470",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "実装研究センター",
+   "results": [
+    "https://www.aist.go.jp/aist_j/business/aboutus/irc.html",
+    "https://www.aist.go.jp/aist_j/news/au20250401_2.html",
+    "https://www.aist-solutions.co.jp/areas-of-expertise/wellbeing/",
+    "https://unit.aist.go.jp/ircam/organization/",
+    "https://lushbooklife.com/2025/05/10/news-of-aist-establishes-new-packaging-research-center/",
+    "https://x.com/AIST_JP/status/2117814148004274617",
+    "https://web.tuat.ac.jp/~jcsri/",
+    "https://www.instagram.com/aist_nature_positive_rc_field/",
+    "https://unit.aist.go.jp/ccus/index.html",
+    "https://unit.aist.go.jp/irci/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "株式会社実装研究センター",
+   "results": [
+    "https://www.aist.go.jp/aist_j/business/aboutus/irc.html",
+    "https://www.aist-solutions.co.jp/events_webinars/page000435/",
+    "https://plasticjournal.net/backnumber/companies-and-people/21029.html",
+    "https://www.aist.go.jp/aist_j/humanres/02kenkyu/task/9_IRC.html",
+    "https://www.nikkan.co.jp/articles/view/782752",
+    "https://crants.opric.gunma-u.ac.jp/",
+    "https://www.gsj.jp/information/organization/index.html",
+    "https://www.aist-solutions.co.jp/areas-of-expertise/wellbeing/",
+    "https://ja.wikipedia.org/wiki/%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80",
+    "https://unit.aist.go.jp/ircam/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "実装研究センター 会社概要 資本金 設立",
+   "results": [
+    "https://www.aist.go.jp/aist_j/business/aboutus/irc.html",
+    "https://job.mynavi.jp/28/pc/search/corp100220/outline.html",
+    "https://www.f-rei.go.jp/assets/contents/2_AdvisoryBoard_5.pdf",
+    "https://www.sbic.co.jp/useful/detail220/",
+    "https://www.aist-solutions.co.jp/areas-of-expertise/wellbeing/",
+    "https://project.nikkeibp.co.jp/mirakoto/atcl/design/012900108/",
+    "https://www.aist.go.jp/aist_j/humanres/02kenkyu/task/9_IRC.html",
+    "https://ja.wikipedia.org/wiki/%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80",
+    "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/innovation/pdf/012_04_03.pdf",
+    "https://unit.aist.go.jp/ircam/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "実装研究センター 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-sankoushiryousyu.pdf",
+    "https://www.youtube.com/watch?v=Byfy7tsLawE",
+    "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/the-future-of-metal-3d-printing",
+    "https://www.iri.pref.shizuoka.jp/printer/",
+    "https://3dprinter.co.jp/cms3d/wp-content/themes/3dprinter-wp_new/images/product/markforged/metal-x/Metal-3dprinter.pdf",
+    "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://iamrd.shimane-u.ac.jp/docs/2026031900018/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "実装研究センター 金属積層造形 設備",
+   "results": [
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-sankoushiryousyu.pdf",
+    "https://www.gitc.pref.nagano.lg.jp/zairyo/3Ddigital/setsubi/1_3Dprinter.html",
+    "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://jampt.jp/",
+    "https://orist.jp/gaiyou/facility_izumi/tri3d/",
+    "https://www.youtube.com/watch?v=5KVb69CSTXU",
+    "https://info.shiga-irc.go.jp/public/115m00_bihin.php?kinou=list&KNO=X42&SCD=1&RtKbn=1-c",
+    "https://www.mit.pref.miyagi.jp/services/voice/jampt_interview/",
+    "https://www8.cao.go.jp/cstp/anzen_anshin/02-08_20231020_meti_6.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "実装研究センター 株主 出資 親会社",
+   "results": [
+    "https://www.aist.go.jp/aist_j/business/aboutus/irc.html",
+    "https://www.f-rei.go.jp/assets/contents/2_AdvisoryBoard_5.pdf",
+    "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/innovation/pdf/012_04_03.pdf",
+    "https://www.sbic.co.jp/useful/detail220/",
+    "https://www.aist-solutions.co.jp/news/release20260706-01/",
+    "https://www.aist.go.jp/aist_j/news/au20250401_2.html",
+    "https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC141QF0U3A410C2000000",
+    "https://lushbooklife.com/2025/05/10/news-of-aist-establishes-new-packaging-research-center/",
+    "https://monoist.itmedia.co.jp/mn/articles/2305/29/news064.html",
+    "https://www.aist.go.jp/Portals/0/resource_images/aist_j/aistinfo/pamph/dep_irc_pamphlet.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "実装研究センター 売上高 従業員数",
+   "results": [
+    "https://note.com/lithe_poppy8924/n/nfbf51965587a",
+    "https://www.aist.go.jp/aist_j/business/aboutus/irc.html",
+    "https://www.pasco.co.jp/corporate/about/",
+    "https://alarmbox.jp/companyinfo/entities/8011105011832",
+    "https://job.mynavi.jp/28/pc/search/corp100220/outline.html",
+    "https://www.e-stat.go.jp/dbview?sid=0004029520",
+    "https://job.mynavi.jp/27/pc/search/corp100220/outline.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 実装研究センター",
+   "results": [
+    "https://note.com/leal_viola1221/n/n96f339c78257",
+    "https://note.com/sankituushin/n/nfb3b51f15079",
+    "https://note.com/masamasa11_12/n/nac442bd52904",
+    "https://note.com/hgrx/n/nacb45e091b3c",
+    "https://note.com/tenjo_kanazawa/n/nec0fd771a401",
+    "https://note.com/tetsugaku_cloud/n/n6c3c068e70ae",
+    "https://note.com/brave_yucca4780/n/n449a99eaf60f"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 実装研究センター",
+   "results": [
+    "https://x.com/JIEPx19980401/status/2066699154550870161",
+    "https://x.com/HGRX_jp",
+    "https://x.com/Rits_ResearchPR/status/2022106401938743356",
+    "https://x.com/nit_awil",
+    "https://x.com/nitechofficial/status/2036669428453265874",
+    "https://x.com/KSU_kenkyu/status/2038493473423376874",
+    "https://x.com/AIST_JP/status/2046066371050524747"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 実装研究センター",
+   "results": [
+    "https://jp.linkedin.com/in/直哉-太田-b0b1a470",
+    "https://www.linkedin.com/in/joaomartinsny",
+    "https://ph.linkedin.com/company/exeo-group",
+    "https://www.linkedin.com/company/ncc-east-next/",
+    "https://ca.linkedin.com/in/ichiro-hashimoto-34a451a1",
+    "https://jp.linkedin.com/posts/yasuhiro-hayashi-b7914871_公益資本主義-研究実装センター-設立発足式-格差の拡大と社会の分断に立ち向かう-activity-7400116005651378176-ftFm",
+    "https://ca.linkedin.com/jobs/view/研究職（機械-材料-制御-化学-電気電子など）（オープンポジション-二卒・ポスドク歓迎-兵庫）-at-kobe-steel-ltd-4481685554"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 実装研究センター",
+   "results": [
+    "https://www.facebook.com/jsupportHO/photos/2026年度-第3回-実装科学セミナー開催のお知らせj-supportでは研究支援グループ連携によるリソースの共有を進めています連携している研究支援グループ-n/1503320404918994/",
+    "https://www.facebook.com/jsupportHO/posts/令和7年度-第7回-実装科学セミナー-開催のお知らせj-supportでは研究支援グループ連携によるリソースの共有を進めています連携している研究支援グループ-n/1352569629994073/",
+    "https://www.facebook.com/jsupportHO/posts/令和7年度-第8回-実装科学セミナー-開催のお知らせj-supportでは研究支援グループ連携によるリソースの共有を進めています連携している研究支援グループ-n/1384384383479264/",
+    "https://www.facebook.com/jsupportHO/posts/令和7年度-第5回-実装科学セミナー-開催のお知らせj-supportでは研究支援グループ連携によるリソースの共有を進めています連携している研究支援グループ-n/1300360808548289/",
+    "https://www.facebook.com/jsupportHO/photos/令和7年度-第7回-実装科学セミナー-開催のお知らせj-supportでは研究支援グループ連携によるリソースの共有を進めています連携している研究支援グループ-n/1352569139994122/",
+    "https://www.facebook.com/nccgojp/posts/ひと目でわかる実装科学がん対策実践家のためのガイドを公開しています国立がん研究センターがん対策研究所を中心とする6つのナショナルセンターの研究チームは国立高度専/2370640109738853/",
+    "https://www.facebook.com/jsupportHO/photos/令和7年度-第5回-実装科学セミナー-開催のお知らせj-supportでは研究支援グループ連携によるリソースの共有を進めています連携している研究支援グループ-n/1300360718548298/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "実装研究センター note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://yokotablog.com/sadaaki-kato-profile/",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://note.com/yuta_hamada/n/n86fdf3eb0d7b",
+    "https://www.wantedly.com/companies/noteinc/members"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "実装研究センター X 投稿",
+   "results": [
+    "https://unit.aist.go.jp/ircam/",
+    "https://unit.aist.go.jp/ccus/index.html",
+    "https://www.aist.go.jp/aist_j/business/aboutus/irc.html",
+    "https://help.x.com/ja",
+    "https://x.com/dansanburu/status/2118461331984859166",
+    "https://x.com/JIEPx19980401",
+    "https://archive.jisso.jp/submit.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部17頁・検索13回）",
+  "資本金": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部17頁・検索13回）",
+  "創業年度": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部17頁・検索13回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部17頁・検索13回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部17頁・検索13回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部17頁・検索13回）",
+  "所在地": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部17頁・検索13回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部17頁・検索13回）",
+  "資本金・株主": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部17頁・検索13回）"
+ }
+}

@@ -1,0 +1,428 @@
+{
+ "name": "WÖHR Autoparksysteme",
+ "aliases": [],
+ "context": "旧営業リスト｜Advanced Manufacturing / Industrial Technology｜AI送信済み",
+ "researched_at": "2026-11-10T19:26:35.499397+00:00",
+ "official_url": "https://woehr.de/en/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "https://policies.google.com/privacy",
+    "url": "https://woehr.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Used to unlock Youtube content.",
+    "url": "https://woehr.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "We are experts in the development, production and installation of intelligent and technologically high-end parking systems for cars and bicycles. Our projects with mechanical, semi-automatic and fully-automatic parking systems are unique and located in the most beautiful cities in the world, wherever space is rare and compact parking solutions are required.",
+    "url": "https://woehr.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "operate on the same principle. These systems are located underground, leaving the driveway at the surface free for vehicles.",
+    "url": "https://woehr.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "make possible up-to-date problem solutions and compact parking in dense city centres. In fully automatic systems, such as the",
+    "url": "https://woehr.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "stores bikes and E-bikes both securely and compactly in a tower, shaft or mix version. All Stackparkers and Liftparkers can be used in single, pre-fabricated, underground and surface garages as well as in garage systems.",
+    "url": "https://woehr.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Compare application scenarios directly in the virtual urban environment and discover the right solutions for your project.",
+    "url": "https://woehr.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Sustainable parking densification for a superlative redevelopment project.",
+    "url": "https://woehr.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Compared to many similar new-build neighbourhoods in Berlin, the square in the new AM TACHELES district has its own unique quality thanks to its shape, opening, façade design and planting. As a small highlight, there is a mirrored cylinder in the centre that provides space for bicycles.",
+    "url": "https://woehr.de/en/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "WÖHR Autoparksysteme GmbH – One of the international leading manufacturers of space saving car parking systems",
+    "url": "https://woehr.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Compared to many similar new-build neighbourhoods in Berlin, the square in the new AM TACHELES district has its own unique quality thanks to its shape, opening, façade design and planting. As a small highlight, there is a mirrored cylinder in the centre that provides space for bicycles.",
+    "url": "https://woehr.de/en/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The Multiparker 740 is particularly suited to narrow and long floor plan areas and features a fully automatic space saving high rack storage parking arrangement.",
+    "url": "https://woehr.de/en/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://woehr.de/en/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.reddit.com/r/LetsTalkMusic/comments/18kiauv/why_has_christmas_music_become_stagnant/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/mylittlepony/comments/vswqbd/difficult_mlp_quiz_questions/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/trivia/comments/gulqy2/translated_lyrics_quiz_i_took_20_songs_and_put/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/trivia/comments/bixngn/music_round_category_ideas_a_trade/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/National_Hockey_League",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nhl.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nhl.com/scores",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.espn.com/nhl/",
+    "status": "http_202",
+    "method": "http"
+   },
+   {
+    "url": "https://www.foodservicedirect.com/veggies-made-great-loaded-breakfast-potato-bakes--12-oz----8-per-case-352560.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.veggiesmadegreat.com/breakfast-potato-bakes/p/loaded",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.veggiesmadegreat.com/food-service-products/p/loaded-breakfast-potato-bake",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sameday.costco.com/store/costco/products/82784069-veggies-made-great-loaded-breakfast-potato-bakes-18count",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.purebarre.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.purebarre.com/location/downtown-indianapolis-in",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lp.purebarre.com/teacherinquiry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://members.purebarre.com/auth/login",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tradingview.com/symbols/NASDAQ-MSFT/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.financecharts.com/stocks/MSFT/summary/volume",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coinglass.com/volume/MSFT",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/quote/MSFT/?fr=sycsrp_catchall",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "WÖHR Autoparksysteme 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "WÖHR Autoparksysteme 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.reddit.com/r/LetsTalkMusic/comments/18kiauv/why_has_christmas_music_become_stagnant/",
+    "https://www.reddit.com/r/mylittlepony/comments/vswqbd/difficult_mlp_quiz_questions/",
+    "https://www.reddit.com/r/trivia/comments/gulqy2/translated_lyrics_quiz_i_took_20_songs_and_put/",
+    "https://www.reddit.com/r/trivia/comments/bixngn/music_round_category_ideas_a_trade/",
+    "https://www.reddit.com/r/trivia/comments/ztavb9/30_question_christmas_picture_quiz_this_weeks/",
+    "https://www.reddit.com/r/BlackCountryNewRoad/comments/rktek0/i_made_a_bcnr_song_sporcle_quiz_see_how_many/",
+    "https://www.reddit.com/r/Music/comments/4b2daz/did_you_steal_system_of_a_downs_steal_this_album/",
+    "https://www.reddit.com/r/languagelearning/comments/gkxos2/is_beelinguapp_good/",
+    "https://www.reddit.com/r/CasualUK/comments/rb0qdj/christmas_quiz_round_ideas/",
+    "https://www.reddit.com/r/trivia/comments/18pru89/bumper_christmas_quiz_70_questions/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "WÖHR Autoparksysteme Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/National_Hockey_League",
+    "https://www.nhl.com/",
+    "https://www.nhl.com/scores",
+    "https://www.espn.com/nhl/",
+    "https://www.espn.com/nhl/scoreboard",
+    "https://www.nhl.com/standings",
+    "https://www.nhl.com/news/",
+    "https://www.espn.com/nhl/standings",
+    "https://www.cbssports.com/nhl/scoreboard/",
+    "https://www.tsn.ca/nhl/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "WÖHR Autoparksysteme manufacturing customer case study",
+   "results": [
+    "https://www.foodservicedirect.com/veggies-made-great-loaded-breakfast-potato-bakes--12-oz----8-per-case-352560.html",
+    "https://www.veggiesmadegreat.com/breakfast-potato-bakes/p/loaded",
+    "https://www.veggiesmadegreat.com/food-service-products/p/loaded-breakfast-potato-bake",
+    "https://sameday.costco.com/store/costco/products/82784069-veggies-made-great-loaded-breakfast-potato-bakes-18count",
+    "https://www.amazon.com/Veggies-Loaded-Breakfast-Zucchini-Cheddar/dp/B0GNHWH3BH",
+    "https://www.kroger.com/p/veggies-made-great-loaded-breakfast-potato-bakes/0070486303001",
+    "https://www.walmart.com/ip/Veggies-Made-Great-Loaded-Breakfast-Potato-Bakes-12-Ounce-6-Count-Box-Frozen/5732921935",
+    "https://support.google.com/maps/answer/11270845?hl=en",
+    "https://maps.google.com/",
+    "https://support.google.com/maps/answer/3131570?hl=en&co=GENIE.Platform=Android"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 27
+  },
+  {
+   "query": "WÖHR Autoparksysteme white label OR reseller OR partner program",
+   "results": [
+    "https://www.purebarre.com/",
+    "https://www.purebarre.com/location/downtown-indianapolis-in",
+    "https://lp.purebarre.com/teacherinquiry",
+    "https://members.purebarre.com/auth/login",
+    "https://lp.purebarre.com/try",
+    "https://members.purebarre.com/auth/register",
+    "https://blog.purebarre.com/",
+    "https://blog.purebarre.com/four-class-formats",
+    "https://help.purebarre.com/hc/en-us/sections/19849865709079-Memberships",
+    "https://help.purebarre.com/hc/en-us/articles/22083805629079-How-Do-I-Contact-My-Local-Studio"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "WÖHR Autoparksysteme founded funding employees revenue",
+   "results": [
+    "https://www.tradingview.com/symbols/NASDAQ-MSFT/",
+    "https://www.financecharts.com/stocks/MSFT/summary/volume",
+    "https://www.coinglass.com/volume/MSFT",
+    "https://finance.yahoo.com/quote/MSFT/?fr=sycsrp_catchall",
+    "https://finance.yahoo.com/quote/MSFT/key-statistics/?fr=sycsrp_catchall",
+    "https://ycharts.com/companies/MSFT/average_volume_30",
+    "https://www.coinboss.com/volume/MSFT",
+    "https://www.coinglass.com/stocks/MSFT",
+    "https://trendspider.com/markets/symbols/MSFT/",
+    "https://www.financecharts.com/compare/MSFT,SCREENERFILTER=INVESTORPLACE/summary/volume"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 30
+  },
+  {
+   "query": "site:note.com WÖHR Autoparksysteme",
+   "results": [
+    "https://kahoot.it/",
+    "https://www.reddit.com/r/teenagers/comments/c2w595/inappropriate_kahoot_names/",
+    "https://www.reddit.com/r/teachingresources/comments/7stjdu/i_have_made_dozens_of_fun_semieducational_kahoots/",
+    "https://www.reddit.com/r/teaching/comments/z1saje/what_good_alternative_to_kahoot/",
+    "https://www.reddit.com/r/kahoot/",
+    "https://hypixel.net/threads/guide-how-to-break-your-kahoot-name.4573860/",
+    "https://hypixel.net/threads/how-to-reduce-ping-guide-step-by-step.388092/",
+    "https://www.reddit.com/r/teenagers/comments/eqknou/script_to_join_random_kahoot_games/",
+    "https://www.reddit.com/r/teaching/comments/yxyt8b/how_do_i_make_a_kahoot_thats_more_than_5/",
+    "https://www.reddit.com/r/selfhosted/comments/ug1vfn/selfhosted_kahootalternative/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "site:x.com WÖHR Autoparksysteme",
+   "results": [
+    "https://bridge.braskem.com/",
+    "https://bridge.braskem.com/edge/",
+    "https://www.braskem.com/products",
+    "https://www.braskem.com/productsearch",
+    "https://www.braskem.com/Principal/home-en",
+    "https://www.braskem.com/home-es",
+    "https://workspace.braskem.com/logon/LogonPoint/index.html",
+    "https://easyapp.braskem.com/",
+    "https://stomp.braskem.com/",
+    "https://vpn.braskem.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "site:linkedin.com WÖHR Autoparksysteme",
+   "results": [
+    "https://www.linkedin.com/in/peter-sonderby-77a03313",
+    "https://www.linkedin.com/pub/dir/peter/sonderby",
+    "https://prabook.com/web/peter_r.sonderby/2631476",
+    "https://www.spokeo.com/Peter-Sonderby",
+    "https://www.chicagotribune.com/2016/09/28/peter-sonderby-securities-attorney-and-court-historian-dies-at-75/",
+    "https://www.legacy.com/us/obituaries/chicagotribune/name/peter-sonderby-obituary?id=2823145",
+    "https://www.facebook.com/public/Peter-Sonderby/",
+    "https://www.tributearchive.com/obituaries/4256183/peter-r.-sonderby",
+    "https://www.zoominfo.com/p/Peter-Sonderby/289786150",
+    "https://www.anywho.com/people/peter+sonderby"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "site:facebook.com WÖHR Autoparksysteme",
+   "results": [
+    "https://www.espn.com/",
+    "https://www.reddit.com/r/stream2watch/comments/wqv2f0/stream2watch_alternatives_17_best_sites_to_watch/",
+    "https://www.reddit.com/r/chrome/comments/8cxw6u/espn_scoreboard_malfunction_in_chrome/",
+    "https://www.reddit.com/r/fantasyfootball/comments/7drcfy/espns_trading_block_feature/",
+    "https://www.reddit.com/r/ESPN/comments/17t1zi0/espn_is_terrible/",
+    "https://www.reddit.com/r/fantasyfootball/comments/3kocky/how_to_enable_espn_fractional_scoring/",
+    "https://www.reddit.com/r/espnplus/",
+    "https://www.reddit.com/r/fantasyfootball/comments/a4ogxf/how_does_the_consolation_ladder_work_for_espn/",
+    "https://www.reddit.com/r/fantasyfootball/comments/5i75h8/how_do_waiver_priorities_work_for_multiple_claims/",
+    "https://www.reddit.com/r/wnba/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "WÖHR Autoparksysteme note 社長",
+   "results": [
+    "https://support.apple.com/en-us/148354",
+    "https://www.macobserver.com/news/watchos-27-3-adds-siri-recap-and-live-rewind/",
+    "https://mashable.com/tech/apple-siri-ai-conversation-recap-iphone-event-2026",
+    "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+    "https://www.macrumors.com/2026/09/10/apple-watch-siri-recap/",
+    "https://www.forbes.com/sites/prakharkhanna/2026/11/03/apples-new-always-on-audio-intelligence-features-are-now-available-in-beta/",
+    "https://www.igeeksblog.com/apple-watch-siri-recap/",
+    "https://9to5mac.com/2026/11/06/watchos-27-3-adds-new-apple-watch-feature-that-i-absolutely-love/",
+    "https://www.zdnet.com/tech/apple-watch-siri-recap-live-rewind-available-beta-how-to-try/",
+    "https://9to5mac.com/2026/10/28/apple-watch-series-12-ultra-4-adding-two-new-features-soon/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "WÖHR Autoparksysteme X 投稿",
+   "results": [
+    "https://blackfriday.com/ads/black-friday",
+    "https://www.amazon.com/blackfriday",
+    "https://blackfriday.com/ads",
+    "https://blackfriday.com/deals",
+    "https://www.theblackfriday.com/",
+    "https://www.nytimes.com/wirecutter/money/best-early-black-friday-deals-2026/",
+    "https://blackfriday.com/ads/black-friday/walmart",
+    "https://www.forbes.com/sites/forbes-personal-shopper/2026/11/03/black-friday-deals/",
+    "https://www.bradsdeals.com/black-friday",
+    "https://www.pcmag.com/deals/black-friday-2026-everything-you-need-to-know-about-best-deals-sales"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）"
+ }
+}

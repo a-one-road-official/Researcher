@@ -1,0 +1,538 @@
+{
+ "name": "Tempress Holding B.V.",
+ "aliases": [],
+ "context": "旧営業リスト｜Machine Tools / Production Equipment｜未接触",
+ "researched_at": "2026-11-10T19:29:31.180299+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "SPP Technologies to Divest SPT Microtechnologies USA to Tempress | SPT",
+    "url": "https://www.sptcorp.com/en/media-center/divest-spt-microtechnologies-usa-to-tempress/",
+    "pass": 3
+   },
+   {
+    "quote": "07.15.2026 Press Releases",
+    "url": "https://www.sptcorp.com/en/media-center/divest-spt-microtechnologies-usa-to-tempress/",
+    "pass": 3
+   },
+   {
+    "quote": "SPP Technologies to Divest SPT Microtechnologies USA to Tempress",
+    "url": "https://www.sptcorp.com/en/media-center/divest-spt-microtechnologies-usa-to-tempress/",
+    "pass": 3
+   },
+   {
+    "quote": "The Company will transfer all shares of SPT-USA that it holds to Tempress-USA. As a result, SPT-USA, together with its subsidiaries in Germany and Taiwan, will become part of the Tempress group, and operational continuity of SPT-USA’s business is expected to be maintained.",
+    "url": "https://www.sptcorp.com/en/media-center/divest-spt-microtechnologies-usa-to-tempress/",
+    "pass": 3
+   },
+   {
+    "quote": "Toward a smooth transition following the share transfer, both companies will cooperate as necessary to move to the new structure, while ensuring that customers continue to receive equipment and services without disruption. Should any matters requiring disclosure arise in the future, the Company will provide notice promptly.",
+    "url": "https://www.sptcorp.com/en/media-center/divest-spt-microtechnologies-usa-to-tempress/",
+    "pass": 3
+   },
+   {
+    "quote": "Press release by Jolt Capital SAS",
+    "url": "https://www.sptcorp.com/en/media-center/divest-spt-microtechnologies-usa-to-tempress/",
+    "pass": 3
+   },
+   {
+    "quote": "Jolt Capital invests €20M in Tempress and Tempress to acquire SPT Microtechnologies USA as double consolidation play in high-end semiconductor equipment",
+    "url": "https://www.sptcorp.com/en/media-center/divest-spt-microtechnologies-usa-to-tempress/",
+    "pass": 3
+   },
+   {
+    "quote": "Sumitomo Precision Products Co., Ltd.",
+    "url": "https://www.sptcorp.com/en/media-center/divest-spt-microtechnologies-usa-to-tempress/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Development, manufacturing, sales, and servicing of vertical furnaces",
+    "url": "https://www.sptcorp.com/en/media-center/divest-spt-microtechnologies-usa-to-tempress/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The Company will transfer all shares of SPT-USA that it holds to Tempress-USA. As a result, SPT-USA, together with its subsidiaries in Germany and Taiwan, will become part of the Tempress group, and operational continuity of SPT-USA’s business is expected to be maintained.",
+    "url": "https://www.sptcorp.com/en/media-center/divest-spt-microtechnologies-usa-to-tempress/",
+    "pass": 3
+   },
+   {
+    "quote": "Wholly owned subsidiary of SPP Technologies",
+    "url": "https://www.sptcorp.com/en/media-center/divest-spt-microtechnologies-usa-to-tempress/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "SPP Technologies to Divest SPT Microtechnologies USA to Tempress — Jul 15, 2026 · SPP Technologies Co., Ltd. (Tokyo, Japan; the “Company”) hereby announces that it has decided to divest its wholly owned subsidiary, SPT Microtechnologies USA, Inc. (San Jose, California, USA; “SPT-USA”), by transferring all of its shares to Tempress Holding North America Inc. (Delaware, the USA; “Tempress-USA”), a s",
+    "url": "https://www.sptcorp.com/en/media-center/divest-spt-microtechnologies-usa-to-tempress/",
+    "pass": 3
+   },
+   {
+    "quote": "当社完全子会社 SPT Microtechnologies USA, Inc. の株式譲渡に関する... — Jul 15, 2026 · SPPテクノロジーズ株式会社は、当社の完全子会社であるSPT Microtechnologies USA, Inc. の全株式を、Tempress Holding B.V. へ譲渡することを決定いたしました。",
+    "url": "https://www.sptcorp.com/ja/media-center/divest-spt-microtechnologies-usa-to-tempress/",
+    "pass": 3
+   },
+   {
+    "quote": "Tempress Holding B.V. | Creditsafe — Tempress Holding B.V. operates within the Production of ovens and burners industry. It was incorporated in 2011. Its headquarters are located at Radeweg 31, 8171 MD, Vaassen. The company number for Tempress Holding B.V. is 51736101, with a safe number NL02754220.",
+    "url": "https://www.creditsafe.com/business-index/en-ie/company/tempress-holding-bv-nl02754220",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.sptcorp.com/en/media-center/divest-spt-microtechnologies-usa-to-tempress/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://expo.semi.org/japan2025/Public/eBooth.aspx?BoothID=663181",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tempress.nl/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tempress.nl/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lifestyle.assist-all.co.jp/temu-company-overview-japan-details/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://okaimonotokutoku.com/temu%E3%81%A9%E3%81%93%E3%81%AE%E4%BC%9A%E7%A4%BE%EF%BC%9Fpdd-holdings%E3%81%AE%E8%83%8C%E6%99%AF%E3%81%A8%E6%88%A6%E7%95%A5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.houjin-bangou.nta.go.jp/en/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan-company.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tempress.nl/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tempress.nl/category/company/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/tempress-systems",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.sptcorp.com/en/media-center/divest-spt-microtechnologies-usa-to-tempress/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tempresstech.com/resources/category/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tempress.nl/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tempresstech.com/resources/case-histories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/sage-lion-media/case-study/boat-seat-manufacturer-increases-e-commerce-sales-by-140",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.livechat.com/blog/best-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.text.com/blog/saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://scrupp.com/white-label-vs-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/tempress/431619406",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/tempress-systems-tempress-nl-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/tempress",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://rocketreach.co/tempress-profile_b5c18ac3f42e08c6",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Tempress Holding B.V.",
+   "results": [
+    "https://www.tempress.nl/company/",
+    "https://www.info-clipper.com/en/company/netherlands/tempress-holding-bv.nld83rm41.html",
+    "https://www.creditsafe.com/business-index/en-gb/company/tempress-holding-bv-nl02754220",
+    "https://www.fme.nl/onze-leden/tempress-holding-bv",
+    "https://companyinfo.nl/organisatieprofiel/vervaardiging-van-ovens-en-branders-en-van-permanente-verwarmingstoestellen-voor-huishoudelijk-gebruik/tempress-holding-b-v-vaassen-51736101-000021725691",
+    "https://www.creditsafe.com/business-index/en-ie/company/tempress-holding-bv-nl02754220",
+    "https://tempress.nl/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "株式会社Tempress Holding B.V.",
+   "results": [
+    "https://www.creditsafe.com/business-index/en-gb/company/tempress-holding-bv-nl02754220",
+    "https://www.info-clipper.com/en/company/netherlands/tempress-holding-bv.nld83rm41.html",
+    "https://www.creditsafe.com/business-index/en-ie/company/tempress-holding-bv-nl02754220",
+    "https://www.sptcorp.com/ja/media-center/divest-spt-microtechnologies-usa-to-tempress/",
+    "https://www.ruminatus.com/",
+    "https://www.tempress.nl/company/",
+    "https://tempress.nl/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tempress Holding B.V. 株式会社",
+   "results": [
+    "https://tempress.nl/",
+    "https://www.tempress.nl/company/",
+    "https://www.ruminatus.com/",
+    "https://www.info-clipper.com/en/company/netherlands/tempress-holding-bv.nld83rm41.html",
+    "https://cn.linkedin.com/company/tempress-systems",
+    "https://www.privco.com/company/tempress-group-holding-bv",
+    "https://www.sptcorp.com/ja/media-center/divest-spt-microtechnologies-usa-to-tempress/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ｔｅｍｐｒｅｓｓ　Ｈｏｌｄｉｎｇ　Ｂ．Ｖ．",
+   "results": [
+    "https://tempress.nl/",
+    "https://www.tempress.nl/company/",
+    "https://www.info-clipper.com/en/company/netherlands/tempress-holding-bv.nld83rm41.html",
+    "https://www.liza.nl/nl/51736101/tempress-holding",
+    "https://www.datocapital.nl/companies/Tempress-Holding-Bv.html",
+    "https://www.creditsafe.com/business-index/en-gb/company/tempress-holding-bv-nl02754220",
+    "https://companyinfo.nl/organisatieprofiel/vervaardiging-van-ovens-en-branders-en-van-permanente-verwarmingstoestellen-voor-huishoudelijk-gebruik/tempress-holding-b-v-vaassen-51736101-000021725691"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "TempressHoldingB.V.",
+   "results": [
+    "https://www.tempress.nl/company/",
+    "https://tempress.nl/",
+    "https://www.creditsafe.com/business-index/en-gb/company/tempress-holding-bv-nl02754220",
+    "https://www.info-clipper.com/en/company/netherlands/tempress-holding-bv.nld83rm41.html",
+    "https://www.temppress.com/",
+    "https://in.linkedin.com/company/tempress-systems",
+    "https://www.privco.com/company/tempress-group-holding-bv"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tempress Holding B.V. Japan",
+   "results": [
+    "https://www.tempress.nl/company/",
+    "https://www.tempress.nl/category/company/",
+    "https://jp.linkedin.com/company/tempress-systems",
+    "https://www.sptcorp.com/en/media-center/divest-spt-microtechnologies-usa-to-tempress/",
+    "https://www.creditsafe.com/business-index/en-ie/company/tempress-holding-bv-nl02754220",
+    "https://www.ruminatus.com/",
+    "https://www.sptcorp.com/ja/media-center/divest-spt-microtechnologies-usa-to-tempress/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tempress Holding B.V. 日本",
+   "results": [
+    "https://tempress.nl/",
+    "https://www.tempress.nl/company/",
+    "https://www.sptcorp.com/en/media-center/divest-spt-microtechnologies-usa-to-tempress/",
+    "https://jp.linkedin.com/company/tempress-systems",
+    "https://www.privco.com/company/tempress-group-holding-bv",
+    "https://www.info-clipper.com/en/company/netherlands/tempress-holding-bv.nld83rm41.html",
+    "https://www.sptcorp.com/ja/media-center/divest-spt-microtechnologies-usa-to-tempress/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tempress Holding B.V. K.K.",
+   "results": [
+    "https://tempress.nl/",
+    "https://www.tempress.nl/company/",
+    "https://www.liza.nl/nl/51736101/tempress-holding",
+    "https://www.datocapital.nl/companies/Tempress-Holding-Bv.html",
+    "https://www.info-clipper.com/en/company/netherlands/tempress-holding-bv.nld83rm41.html",
+    "https://www.creditsafe.com/business-index/en-gb/company/tempress-holding-bv-nl02754220",
+    "https://www.creditsafe.com/business-index/en-ie/company/tempress-holding-bv-nl02754220"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tempress Holding B.V. 日本 導入",
+   "results": [
+    "https://www.sptcorp.com/en/media-center/divest-spt-microtechnologies-usa-to-tempress/",
+    "https://expo.semi.org/japan2025/Public/eBooth.aspx?BoothID=663181",
+    "https://tempress.nl/",
+    "https://www.tempress.nl/news/",
+    "https://www.sptcorp.com/ja/media-center/divest-spt-microtechnologies-usa-to-tempress/",
+    "https://www.hightechnl.nl/wp-content/uploads/2023/06/tempress-semicon-japan-2022.pdf",
+    "http://astjapan.com/japan/products/tempress.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tempress Holding B.V. 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://lifestyle.assist-all.co.jp/temu-company-overview-japan-details/",
+    "https://okaimonotokutoku.com/temuどこの会社？pdd-holdingsの背景と戦略/",
+    "https://www.houjin-bangou.nta.go.jp/en/index.html",
+    "https://japan-company.net/",
+    "https://www.wantedly.com/companies/company_6315576",
+    "https://www.smith-nephew.com/ja-JP/contact-us/CompanyInfo",
+    "https://www.ipsen.com/japan/会社/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tempress Holding B.V. Japan",
+   "results": [
+    "https://www.tempress.nl/company/",
+    "https://www.tempress.nl/category/company/",
+    "https://jp.linkedin.com/company/tempress-systems",
+    "https://www.sptcorp.com/en/media-center/divest-spt-microtechnologies-usa-to-tempress/",
+    "https://www.creditsafe.com/business-index/en-ie/company/tempress-holding-bv-nl02754220",
+    "https://www.ruminatus.com/",
+    "https://www.sptcorp.com/ja/media-center/divest-spt-microtechnologies-usa-to-tempress/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tempress Holding B.V. manufacturing customer case study",
+   "results": [
+    "https://tempresstech.com/resources/category/case-studies/",
+    "https://tempress.nl/",
+    "https://tempresstech.com/resources/case-histories/",
+    "https://www.casestudies.com/company/sage-lion-media/case-study/boat-seat-manufacturer-increases-e-commerce-sales-by-140",
+    "https://vuestar.com/projects/",
+    "https://tempress.com/about-us/",
+    "https://www.tempress.nl/customer-case/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tempress Holding B.V. white label OR reseller OR partner program",
+   "results": [
+    "https://partners.livechat.com/blog/best-reseller-programs/",
+    "https://www.text.com/blog/saas-reseller-programs/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://scrupp.com/white-label-vs-reseller",
+    "https://www.jetbrains.com/company/resellers/",
+    "https://botpenguin.com/blogs/best-saas-reseller-programs",
+    "https://www.pcmag.com/picks/the-best-reseller-web-hosting-services"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tempress Holding B.V. founded funding employees revenue",
+   "results": [
+    "https://www.zoominfo.com/c/tempress/431619406",
+    "https://fundediq.co/tempress-systems-tempress-nl-funding/",
+    "https://compworth.com/company/tempress",
+    "https://rocketreach.co/tempress-profile_b5c18ac3f42e08c6",
+    "https://pitchbook.com/profiles/company/266559-31",
+    "https://www.privco.com/company/tempress-group-holding-bv",
+    "https://prospeo.io/c/tempress-systems-revenue"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Tempress Holding B.V.",
+   "results": [
+    "https://note.com/tag/クレイフェイス",
+    "https://note.com/tag/千葉雄喜",
+    "https://note.com/sim/n/n2c6fe6688de8",
+    "https://note.com/tag/CVE-2026-109618",
+    "https://note.com/ogikubo/n/nf616c0b6685a",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/kansou_blog/n/n6baa05eb4d7d"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Tempress Holding B.V.",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Tempress Holding B.V.",
+   "results": [
+    "https://nl.linkedin.com/company/tempress-systems",
+    "https://www.linkedin.com/company/tempress-solution",
+    "https://in.linkedin.com/company/tempress-as",
+    "https://www.linkedin.com/company/tempress",
+    "https://nl.linkedin.com/in/pdegroot/nl",
+    "https://in.linkedin.com/company/spt-microtechnologies-usa-inc.",
+    "https://dk.linkedin.com/in/soren-kruhoffer"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Tempress Holding B.V.",
+   "results": [
+    "https://www.facebook.com/Tempress-systems-BV-191344690883211/",
+    "https://www.facebook.com/tempress.marine/",
+    "https://www.facebook.com/Tempress-BV-te-Vaassen-234366300023441/",
+    "https://www.facebook.com/tempress.combs/",
+    "https://www.facebook.com/tempress.ridley/about/",
+    "https://www.facebook.com/",
+    "https://www.facebook.com/Tempress-Research-104282518515711/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tempress Holding B.V. note 社長",
+   "results": [
+    "https://www.tempress.nl/news/tempress-under-new-ownership/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://linkmagazine.nl/tempress-bouwt-aan-europees-semiconplatform-met-amerikaanse-overname/",
+    "https://www.datocapital.nl/companies/Tempress-Holding-Bv.html",
+    "https://rocketreach.co/tempress-management_b5c18ac3f42e08c6",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://tempress.nl/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tempress Holding B.V. X 投稿",
+   "results": [
+    "https://x.com/tempressmarine",
+    "https://www.tempress.nl/news/tempress-under-new-ownership/",
+    "https://www.sptcorp.com/en/media-center/divest-spt-microtechnologies-usa-to-tempress/",
+    "https://cn.linkedin.com/company/tempress-systems",
+    "https://x.com/Tempressxd",
+    "https://tempress.nl/",
+    "https://www.sptcorp.com/ja/media-center/divest-spt-microtechnologies-usa-to-tempress/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "従業員数": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "所在地": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "料金": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "連絡先": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "日本の担い手": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）"
+ }
+}

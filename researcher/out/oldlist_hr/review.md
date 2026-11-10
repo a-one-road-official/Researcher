@@ -1104,3 +1104,8 @@
 
 ## 7Learnings（https://7learnings.com）
 - 「この記事はAIツールを使用して日本語に翻訳されました」（https://fashionunited.jp/news/business/tamarisshe-aiwohuo-yong-sitajia-ge-yu-ce-deshou-yi-xiang-shang-7learningsshe-henointabiyu-nrf-retail-big-showyori/20250918529773）
+
+## Boge Kompressoren（https://www.boge.com/de-de/）
+- 「エアコンプレッサの世界市場：メーカー、地域、タイプ、アプリケーション別、2026-2032年の予測 - ZDNET Japan」（https://japan.zdnet.com/release/31166502/）
+- 「Continue to ZDNET Japan」（https://japan.zdnet.com/release/31166502/）
+- 「電話：03-4563-9129（日本）／ 0081-34 563 9129（グローバル）／ 0086-176 6505 2062」（https://japan.zdnet.com/release/31166502/）

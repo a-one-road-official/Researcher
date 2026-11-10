@@ -1,0 +1,1130 @@
+{
+ "name": "Mahr",
+ "aliases": [],
+ "context": "旧営業リスト｜Advanced Manufacturing / Industrial Technology｜未接触",
+ "researched_at": "2026-11-10T19:22:46.315867+00:00",
+ "official_url": "https://mahr.ai",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "日本の担い手": [
+   {
+    "quote": "導入前のご相談からアフターケアまで、日本国内で迅速かつ一貫して対応いたします",
+    "url": "https://mahr-japan.com/",
+    "pass": 3
+   }
+  ],
+  "採用・広告の製品": [
+   {
+    "quote": "粗さ測定機・輪郭形状測定機「MarSurf」、光学式3D表面形状測定機「MarSurf3D」、シャフト測定機「MarShaft」、ゲージ校正向け測長機「Precimar」、ハイトゲージ「Digimar」を主力製品としています",
+    "url": "https://pr.mono.ipros.com/mahr/information/",
+    "pass": 3
+   },
+   {
+    "quote": "◇ゲージ校正用標準万能測長機（Precimar）",
+    "url": "https://pr.mono.ipros.com/mahr/information/",
+    "pass": 3
+   },
+   {
+    "quote": "From manual calipers to fully automated measuring stations, explore our comprehensive product range and see how Mahr can elevate your quality assurance!",
+    "url": "https://marketing.mahr.com/mahr-product-catalog",
+    "pass": 3
+   },
+   {
+    "quote": "** Click here to browse Mahr's online product catalog in a detailed overview.",
+    "url": "https://marketing.mahr.com/mahr-product-catalog",
+    "pass": 3
+   },
+   {
+    "quote": "Request a printed version of our catalog!",
+    "url": "https://marketing.mahr.com/mahr-product-catalog",
+    "pass": 3
+   },
+   {
+    "quote": "Download a PDF of our product catalog!",
+    "url": "https://marketing.mahr.com/mahr-product-catalog",
+    "pass": 3
+   },
+   {
+    "quote": "Providence, RI 02905",
+    "url": "https://marketing.mahr.com/mahr-product-catalog",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Mahr GmbH improves production control and warehouse efficiency with PSIwms from PSI Software | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/psi-software/case-study/mahr-gmbh-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Mahr GmbH improves production control and warehouse efficiency with PSIwms from PSI Software",
+    "url": "https://www.casestudies.com/company/psi-software/case-study/mahr-gmbh-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Efficient production control at mahr",
+    "url": "https://www.psi.de/en/success-stories/case-studies/efficient-production-control-at-mahr",
+    "pass": 3
+   },
+   {
+    "quote": "Mahr GmbH, a leading manufacturer of production measurement technology based in Göttingen, relies on the PSIwms warehouse management system to optimize its warehouse and production processes.",
+    "url": "https://www.psi.de/en/success-stories/case-studies/efficient-production-control-at-mahr",
+    "pass": 3
+   },
+   {
+    "quote": "Improve transparency in the material flow",
+    "url": "https://www.psi.de/en/success-stories/case-studies/efficient-production-control-at-mahr",
+    "pass": 3
+   },
+   {
+    "quote": "Shortening throughput times in production and shipping",
+    "url": "https://www.psi.de/en/success-stories/case-studies/efficient-production-control-at-mahr",
+    "pass": 3
+   },
+   {
+    "quote": "Ensuring on-time picking and production supply",
+    "url": "https://www.psi.de/en/success-stories/case-studies/efficient-production-control-at-mahr",
+    "pass": 3
+   },
+   {
+    "quote": "Production supply by route train with approx. 80 production areas",
+    "url": "https://www.psi.de/en/success-stories/case-studies/efficient-production-control-at-mahr",
+    "pass": 3
+   },
+   {
+    "quote": "Approx. 3,500 picking orders or 5,500 items per month",
+    "url": "https://www.psi.de/en/success-stories/case-studies/efficient-production-control-at-mahr",
+    "pass": 3
+   },
+   {
+    "quote": "Approx. 7,500 picks (pickingwithdrawals) per month",
+    "url": "https://www.psi.de/en/success-stories/case-studies/efficient-production-control-at-mahr",
+    "pass": 3
+   },
+   {
+    "quote": "Pallet warehouse with approx. 300 storing positions",
+    "url": "https://www.psi.de/en/success-stories/case-studies/efficient-production-control-at-mahr",
+    "pass": 3
+   },
+   {
+    "quote": "Modular shelving system with approx. 1,100 storing positions",
+    "url": "https://www.psi.de/en/success-stories/case-studies/efficient-production-control-at-mahr",
+    "pass": 3
+   },
+   {
+    "quote": "Connection of automatic small parts warehouse with two workstations for order picking and inventory (approx. 2,700 storing positions)",
+    "url": "https://www.psi.de/en/success-stories/case-studies/efficient-production-control-at-mahr",
+    "pass": 3
+   },
+   {
+    "quote": "Production supply and disposal",
+    "url": "https://www.psi.de/en/success-stories/case-studies/efficient-production-control-at-mahr",
+    "pass": 3
+   },
+   {
+    "quote": "A leader in the production of precision measuring instruments for 150 years, The Mahr Group and its 1,700 employees rely on a complex, data-intensive working environment that includes a variety of different CAD systems and databases, along with Windows applications such as Office and SharePoint.",
+    "url": "https://cdn.quantum.com/customerstories/carlmahr/index.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "The IT team went to Quantum, this time selecting a DXi6700 Series deduplication appliance. It, along with the company’s Scalar i500 tape library, has become the foundation for the backup operation, providing fast performance and low overhead.",
+    "url": "https://cdn.quantum.com/customerstories/carlmahr/index.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "“Quantum has impressed us every time we have implemented a new solution because they have what we need and the installations have always been completed in just one day,” attests Wiechers.",
+    "url": "https://cdn.quantum.com/customerstories/carlmahr/index.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Having a good backup solution is not enough if the manufacturer fails to provide effective support, and the IT team of The Mahr Group is enthusiastic about the after-sale service they receive from Quantum.",
+    "url": "https://cdn.quantum.com/customerstories/carlmahr/index.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "“We have been building on Quantum for more than a decade. When it comes to personal contact and technical support, our team can think of nothing better,” says Wiechers. “Quantum easily provides the best quality in terms of service.”",
+    "url": "https://cdn.quantum.com/customerstories/carlmahr/index.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "33% reduction of backup time from 72 to 48 hours ensures that data protection does not impact production.",
+    "url": "https://cdn.quantum.com/customerstories/carlmahr/index.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Mahr Revenue, Growth & Competitor Profile",
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Company Profile & Annual Report for Mahr",
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Access the complete profile.",
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "334513 Instruments Manufacturing for Measuring, Displaying & Controlling Industrial Process Variables",
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Providence, RI 02905",
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Note: Revenues for privately held companies are statistical evaluations.",
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Mahr's Annual Report & Profile shows critical firmographic facts:",
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Details in Premium Report",
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Trademark applications show the products and services that Mahr is developing and marketing.",
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "its existing business rather than expanding into new products and markets.",
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Trademarks may include brand names, product names, logos and slogans.",
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "software for controlling precision measuring instruments",
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Precision measuring instruments, namely, gauges for measuring the form and position of an object's geometry for use by machinists, tool makers, and manufacturers of mechanical parts",
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Precision measuring instruments, namely, electronic height gages",
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive advantage comes from offering better pricing or superior products/service.",
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Providence, RI",
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "East Providence, RI",
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "These companies are in the same general field as Mahr and are rapidly expanding. Companies may grow organically or through acquisition. In some cases apparently high growth rates may be caused by data that weren't available in previous years.",
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Mahr Revenue, Growth & Competitor Profile",
+    "url": "https://incfact.com/company/mahrfederal-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Company Profile & Annual Report for Mahr",
+    "url": "https://incfact.com/company/mahrfederal-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Access the complete profile.",
+    "url": "https://incfact.com/company/mahrfederal-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Providence, RI 02905",
+    "url": "https://incfact.com/company/mahrfederal-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Note: Revenues for privately held companies are statistical evaluations.",
+    "url": "https://incfact.com/company/mahrfederal-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Mahr's Annual Report & Profile shows critical firmographic facts:",
+    "url": "https://incfact.com/company/mahrfederal-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Details in Premium Report",
+    "url": "https://incfact.com/company/mahrfederal-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Trademark applications show the products and services that Mahr is developing and marketing.",
+    "url": "https://incfact.com/company/mahrfederal-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "its existing business rather than expanding into new products and markets.",
+    "url": "https://incfact.com/company/mahrfederal-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Trademarks may include brand names, product names, logos and slogans.",
+    "url": "https://incfact.com/company/mahrfederal-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "software for controlling precision measuring instruments",
+    "url": "https://incfact.com/company/mahrfederal-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Precision measuring instruments, namely, gauges for measuring the form and position of an object's geometry for use by machinists, tool makers, and manufacturers of mechanical parts",
+    "url": "https://incfact.com/company/mahrfederal-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Precision measuring instruments, namely, electronic height gages",
+    "url": "https://incfact.com/company/mahrfederal-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive advantage comes from offering better pricing or superior products/service.",
+    "url": "https://incfact.com/company/mahrfederal-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "PRECISION METALS GROUP",
+    "url": "https://incfact.com/company/mahrfederal-providence-ri/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "精密測定機・測定工具ならMahr（マール）｜マール・ジャパン — Mahr（マール）は160年以上の歴史を持つドイツ発の精密測定機器メーカー。粗さ・輪郭、真円度、シャフト、光学式3D測定、万能測長機から各種測定工具まで、製造現場の品質向上・検査効率化・自動化を支援します。実機デモ・テスト測定、展示会・Webセミナー情報もご案内しています。",
+    "url": "https://mahr-japan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Mahr測定技術 — Mahrの新しいオンラインショールーム 今すぐオンラインでご覧ください Mahrの新しいオンラインショールームで測定技術を仮想体験してください。 革新的なソリューションであふれた2つのブースとインフォメーションカウンターをご用意してお待ちしてい ...",
+    "url": "https://metrology.mahr.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "Mahr Group — Welcome to Mahr One company, a variety of products, passionate employees: that is Mahr. As a global supplier of production metrology, rotary stroke bearings and gear metering pumps as well as meter mix dispense technology, the Mahr Group has the right solution for a wide range of applications.",
+    "url": "https://www.mahr.com/ja",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 | マール・ジャパン - Powered by イプロスものづくり — マール・ジャパン の企業情報や製品・サービス、関連カタログをご紹介。 輪郭形状測定機・粗さ測定機・シャフト測定機・光学式3D表面形状測定機・測長機・測定工具のドイツ精密測定機器メーカー Mahr",
+    "url": "https://pr.mono.ipros.com/mahr/information/",
+    "pass": 3
+   },
+   {
+    "quote": "マール・ジャパン | 企業情報 | イプロスものづくりマール・ジャパン株式会社 - 会社概要すべての製品・サービス 一覧 | マール・ジャパン - Powered by イプ... — Oct 19, 2026 · マール・ジャパンの企業情報や製品・サービス、関連カタログをご紹介。 輪郭形状測定機・粗さ測定機・シャフト測定機・光学式3D表面形状測定機・測長機・測定工具のドイツ精密測定機器メーカー Mahr イプロスものづくりでは、試験・分析・測定など製造業向けの情報を多数掲載。 2000年にマール社は、日本において独自の販売会社、マール・マルチセンサー・ジャパン株式会社を設立いたしました。 そして昨年、社名をマール・ジャパン株式会社と改め、三次元測定機に加えてあらゆる測定機を販売しております。 Jan 20, 2026 · Marhのワイヤレス送信機内蔵測定機器ー外付け送信機は購入不要！ ",
+    "url": "https://mono.ipros.com/company/detail/2069010/",
+    "pass": 3
+   },
+   {
+    "quote": "Mahr Product Catalog — When customers are faced with a metrology need, they turn to Mahr Inc. for unmatched industry expertise.",
+    "url": "https://marketing.mahr.com/mahr-product-catalog",
+    "pass": 3
+   },
+   {
+    "quote": "Mahr Japan - LinkedIn — Mahr Japan | 92 followers on LinkedIn. We are the Japanese subsidiary of Mahr GmbH. Mahr has over 150 years of experience in manufacturing a wide variety of dimensional metrology equipment from ...",
+    "url": "https://www.linkedin.com/company/mahr-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Mahr GmbH improves production control and ... — Mahr GmbH - Customer Case Study Mahr GmbH, a leading manufacturer of production measurement technology, faced challenges with inefficient manual order picking, a non-transparent material flow, and long throughput times in its warehouse and production processes.",
+    "url": "https://www.casestudies.com/company/psi-software/case-study/mahr-gmbh-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Efficient production control at mahr - PSI — Case Study Efficient production control at mahr Optimization of warehouse management and production control through the introduction of PSIwms.",
+    "url": "https://www.psi.de/en/success-stories/case-studies/efficient-production-control-at-mahr",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories: Carl Mahr—Manufacturing|Science/Engineering — The Mahr Group is the world’s third-largest manufacturer of a complete range of production-measuring technology. Carl Mahr Group has subsidiaries in Europe, the Americas, and Asia with a total of 1,700 employees.",
+    "url": "https://cdn.quantum.com/customerstories/carlmahr/index.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories: Carl Mahr—Manufacturing|Science/Engineering ... — The Mahr Group is the world’s third-largest manufacturer of a complete range of production-measuring technology. Carl Mahr Group has subsidiaries in Europe, the Americas, and Asia with a total of 1,700 employees. Founded in 1861 in Esslingen, Germany, this consortium of companies is today the world leader in precision length metro",
+    "url": "https://www.quantum.com/en/resources/customer-success/carl-mahr-group/",
+    "pass": 3
+   },
+   {
+    "quote": "Mahr Federal – Overview – Funding, Revenue & Growth – 2026 — Mahr Federal drives value with estimated revenue of $29.5M, team of around 200+ employees, operating from Providence, staying aligned with industry needs.",
+    "url": "https://compworth.com/company/mahr-federal",
+    "pass": 3
+   },
+   {
+    "quote": "Annual Revenue, Growth & Competitor Analysis Report for Mahr ...Annual Revenue, Growth & Competitor Analysis Report for Mahr ...Mahr - Overview, News & Similar companies | ZoomInfo.comMahr Federal — Company Profile, 1 Acquisitions & FundingMahr Inc. Information - RocketReachHistory - Mahr — Oct 5, 2026 · (Annual sales and employees) Mahr's annual revenues are $10 - $100 million (see exact revenue ",
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Annual Revenue, Growth & Competitor Analysis Report for Mahr ...Mahr - Overview, News & Similar companies | ZoomInfo.comMahr Federal — Company Profile, 1 Acquisitions & FundingMahr Inc. Information - RocketReachHistory - Mahr — Sep 28, 2026 · Mahr's Annual Report & Profile shows critical firmographic facts: What is the company's size? (Annual sales and employees) Mahr's annual revenues are $10 - $",
+    "url": "https://incfact.com/company/mahrfederal-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Mahr - Overview, News & Similar companies | ZoomInfo.com — View Mahr (www.mahr.com) location in Lower Saxony, Germany , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+    "url": "https://www.zoominfo.com/c/mahr-federal-inc/23527680",
+    "pass": 3
+   },
+   {
+    "quote": "Mahr Federal — Company Profile, 1 Acquisitions & Funding — Mahr Federal company profile with 1 acquisitions, HQ in Providence, United States, founded 1861. Explore its acquisitions, funding rounds, investors, key people and contacts on Acquirezy — updated 2026.",
+    "url": "https://acquirezy.com/organization/mahr-federal",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Case Study: Mahr GmbH improves production control and warehouse efficiency with PSIwms from PSI Software | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/psi-software/case-study/mahr-gmbh-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Mahr GmbH improves production control and warehouse efficiency with PSIwms from PSI Software",
+    "url": "https://www.casestudies.com/company/psi-software/case-study/mahr-gmbh-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Mahr GmbH - Customer Case Study",
+    "url": "https://www.casestudies.com/company/psi-software/case-study/mahr-gmbh-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/psi-software/case-study/mahr-gmbh-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/psi-software/case-study/mahr-gmbh-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Mahr GmbH, a leading manufacturer of production measurement technology based in Göttingen, relies on the PSIwms warehouse management system to optimize its warehouse and production processes.",
+    "url": "https://www.psi.de/en/success-stories/case-studies/efficient-production-control-at-mahr",
+    "pass": 3
+   },
+   {
+    "quote": "Pallet warehouse with approx. 300 storing positions",
+    "url": "https://www.psi.de/en/success-stories/case-studies/efficient-production-control-at-mahr",
+    "pass": 3
+   },
+   {
+    "quote": "Connection of automatic small parts warehouse with two workstations for order picking and inventory (approx. 2,700 storing positions)",
+    "url": "https://www.psi.de/en/success-stories/case-studies/efficient-production-control-at-mahr",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories: Carl Mahr—Manufacturing|Science/Engineering",
+    "url": "https://cdn.quantum.com/customerstories/carlmahr/index.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "MANUFACTURING | SCIENCE / ENGINEERING",
+    "url": "https://cdn.quantum.com/customerstories/carlmahr/index.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Growing manufacturer needed to increase backup performance and reduce capacity for a variety of rapidly growing data types and VMs",
+    "url": "https://cdn.quantum.com/customerstories/carlmahr/index.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Having a good backup solution is not enough if the manufacturer fails to provide effective support, and the IT team of The Mahr Group is enthusiastic about the after-sale service they receive from Quantum.",
+    "url": "https://cdn.quantum.com/customerstories/carlmahr/index.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Download the case study",
+    "url": "https://cdn.quantum.com/customerstories/carlmahr/index.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "333517 Machine Tool Manufacturing",
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "333 Machinery Manufacturing",
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "334513 Instruments Manufacturing for Measuring, Displaying & Controlling Industrial Process Variables",
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Mahr is classified as operating in the Machine Tool Manufacturing industry, NAICS Code 333517.",
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Precision measuring instruments, namely, gauges for measuring the form and position of an object's geometry for use by machinists, tool makers, and manufacturers of mechanical parts",
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "P & L DEVELOPMENT & MANUFACTURING",
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "These companies are in the same general field as Mahr and are rapidly expanding. Companies may grow organically or through acquisition. In some cases apparently high growth rates may be caused by data that weren't available in previous years.",
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "332216 Saw Blade & Handtool Manufacturing",
+    "url": "https://incfact.com/company/mahrfederal-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Mahr is classified as operating in the Saw Blade & Handtool Manufacturing industry, NAICS Code 332216.",
+    "url": "https://incfact.com/company/mahrfederal-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Precision measuring instruments, namely, gauges for measuring the form and position of an object's geometry for use by machinists, tool makers, and manufacturers of mechanical parts",
+    "url": "https://incfact.com/company/mahrfederal-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "These companies are in the same general field as Mahr and are rapidly expanding. Companies may grow organically or through acquisition. In some cases apparently high growth rates may be caused by data that weren't available in previous years.",
+    "url": "https://incfact.com/company/mahrfederal-providence-ri/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "A leader in the production of precision measuring instruments for 150 years, The Mahr Group and its 1,700 employees rely on a complex, data-intensive working environment that includes a variety of different CAD systems and databases, along with Windows applications such as Office and SharePoint.",
+    "url": "https://cdn.quantum.com/customerstories/carlmahr/index.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Annual Revenue, Growth & Competitor Analysis Report for Mahr - IncFact",
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Mahr Revenue, Growth & Competitor Profile",
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "See Exact Annual Revenue",
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Note: Revenues for privately held companies are statistical evaluations.",
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "What is the company's size? (Annual sales and employees)",
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Mahr's annual revenues are $10 - $100 million",
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "(see exact revenue data)",
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Mahr Annual Revenue and Growth Rate",
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Note: Mahr's revenues are gauged from an analysis of company filings.",
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "These are the largest companies by revenue. However, they may not have the largest market share in this industry if they have diversified into other business lines.",
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "While some companies compete with neighboring businesses for customers, other companies may compete to attract skilled employees.",
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "These companies are in the same general field as Mahr and are rapidly expanding. Companies may grow organically or through acquisition. In some cases apparently high growth rates may be caused by data that weren't available in previous years.",
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Annual Revenue, Growth & Competitor Analysis Report for Mahr - IncFact",
+    "url": "https://incfact.com/company/mahrfederal-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Mahr Revenue, Growth & Competitor Profile",
+    "url": "https://incfact.com/company/mahrfederal-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "See Exact Annual Revenue",
+    "url": "https://incfact.com/company/mahrfederal-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Note: Revenues for privately held companies are statistical evaluations.",
+    "url": "https://incfact.com/company/mahrfederal-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "What is the company's size? (Annual sales and employees)",
+    "url": "https://incfact.com/company/mahrfederal-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Mahr's annual revenues are $10 - $100 million",
+    "url": "https://incfact.com/company/mahrfederal-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "(see exact revenue data)",
+    "url": "https://incfact.com/company/mahrfederal-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Mahr Annual Revenue and Growth Rate",
+    "url": "https://incfact.com/company/mahrfederal-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Note: Mahr's revenues are gauged from an analysis of company filings.",
+    "url": "https://incfact.com/company/mahrfederal-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "These are the largest companies by revenue. However, they may not have the largest market share in this industry if they have diversified into other business lines.",
+    "url": "https://incfact.com/company/mahrfederal-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "Warren, ME",
+    "url": "https://incfact.com/company/mahrfederal-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "While some companies compete with neighboring businesses for customers, other companies may compete to attract skilled employees.",
+    "url": "https://incfact.com/company/mahrfederal-providence-ri/",
+    "pass": 3
+   },
+   {
+    "quote": "These companies are in the same general field as Mahr and are rapidly expanding. Companies may grow organically or through acquisition. In some cases apparently high growth rates may be caused by data that weren't available in previous years.",
+    "url": "https://incfact.com/company/mahrfederal-providence-ri/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Mahr Metering Systems Corporation (@MahrMeteringUSA) / Posts / X Mahr Metering Systems Corporation (@MahrMeteringUSA) - Posts - Dispensing custom solutions with a mix of precision engineering, ingenuity, and your unique producti... | X (formerly Twitter)",
+    "url": "https://x.com/mahrmeteringusa",
+    "pass": 3
+   },
+   {
+    "quote": "Mahr (@Mahr54449209) / X 3521 followers · 3065 following. Joined Feb 2022. See the latest conversations with @Mahr54449209",
+    "url": "https://x.com/Mahr54449209",
+    "pass": 3
+   },
+   {
+    "quote": "Bismillah! The mahr (bridal gift). The Qur’an tells a husband ... AllahGreatQuran (Allah Islam Quran). 20 likes 0 replies. Bismillah! The mahr (bridal gift). The Qur’an tells a husband to give his wife this gift at marriage. It ...",
+    "url": "https://x.com/AllahGreatQuran/status/2120123865988813188",
+    "pass": 3
+   },
+   {
+    "quote": "The Mahr is a divine right of the bride. It is a gift. A ... The Mahr is a divine right of the bride. It is a gift. A token of sincerity. It belongs entirely to her, not her father or family. It can be money, property, gold, or even a beneficial service. The best Mahr is the one that is easy and free of burden.",
+    "url": "https://x.com/aiishadahir/status/2114990591536669115",
+    "pass": 3
+   },
+   {
+    "quote": "mahr (@mahr1017) / X 12 followers · 219 following. Joined Mar 2026. See the latest conversations with @mahr1017",
+    "url": "https://x.com/mahr1017",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Mahr - LinkedIn Mahr | 8,146 followers on LinkedIn. EXACTLY. | Highest precision, modern technologies and international presence - that's what Mahr stands for. As a manufacturer of innovative metrology, we ...",
+    "url": "https://www.linkedin.com/company/mahr/",
+    "pass": 3
+   },
+   {
+    "quote": "Mahr Inc. - LinkedIn When customers are faced with a metrology need, they turn to Mahr Inc., for unmatched industry expertise. Mahr Inc.’s knowledgeable, experienced team has made the company a leader in precision ...",
+    "url": "https://www.linkedin.com/company/mahr-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Mahr | LinkedIn Mahr | 8,194 followers on LinkedIn. EXACTLY. | Highest precision, modern technologies and international presence - that's what Mahr stands for. As a manufacturer of innovative metrology, we have been supporting our customers in the measuring room and in production for 160 years. This experience makes us experts in quality assurance for the automotive industry, mechanical engineerin",
+    "url": "https://in.linkedin.com/company/mahr",
+    "pass": 3
+   },
+   {
+    "quote": "Mahr | LinkedIn Mahr | 8150 seguidores en LinkedIn. EXACTLY. | Highest precision, modern technologies and international presence - that's what Mahr stands for. As a manufacturer of innovative metrology, we have been supporting our customers in the measuring room and in production for 160 years. This experience makes us experts in quality assurance for the automotive industry, mechanical engineerin",
+    "url": "https://mx.linkedin.com/company/mahr",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Mahr Inc. | Providence RI - FacebookMahr | Göttingen - Facebook40 Jahre Steinbruch Theater | FacebookUnderstanding Mahr in Islamic Marriage - FacebookMahr is a mandatory marriage gift that a Muslim husband gives ...Kristina Mahr - FacebookIba MaHr - Facebook Dec 30, 2024 · Mahr Inc., Providence. 602 likes · 18 were here. When customers are faced with a metrology need, they turn to Mahr Inc., for u",
+    "url": "https://www.facebook.com/MahrInc/",
+    "pass": 3
+   },
+   {
+    "quote": "Mahr | Göttingen - Facebook40 Jahre Steinbruch Theater | FacebookUnderstanding Mahr in Islamic Marriage - FacebookMahr is a mandatory marriage gift that a Muslim husband gives ...Kristina Mahr - FacebookIba MaHr - Facebook Mahr, Göttingen. 1,509 followers · 2 talking about this · 82 were here. As a fifth-generation family business and manufacturer of innovative measurement technology, we have been",
+    "url": "https://www.facebook.com/MahrMetrology/",
+    "pass": 3
+   },
+   {
+    "quote": "40 Jahre Steinbruch Theater | Facebook Herr Mahr wird anbieten, ab 15 Uhr auf dem Weierhof eine Führung durch die neuen Gebäude vorzunehmen. Ich habe für den Nachmittag ab 13 Uhr und den Abend schon den Raum in der Gaststätte zum Schillerhain gebucht. Dort kann dann jeder selber Speis und Trank bestellen und zahlen, da unsere Klassenkasse schon seit vielen Jahren leer ist.\"",
+    "url": "https://business.facebook.com/groups/350668072273142/",
+    "pass": 3
+   },
+   {
+    "quote": "Understanding Mahr in Islamic Marriage - Facebook Mahr is a mandatory gift given by a groom to his bride at the time of marriage, serving as a symbol of honor, respect, and financial security. It's the exclusive property of the wife, and she has...",
+    "url": "https://www.facebook.com/fb-answers/what-is-mahr/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://mahr.ai/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://mahr-japan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metrology.mahr.com/ja/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mahr.com/ja",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/mahr/information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketing.mahr.com/mahr-product-catalog",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/MAX_JAPAN",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mahr-japan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metrology.mahr.com/ja/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mahr.com/ja",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/psi-software/case-study/mahr-gmbh-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.psi.de/en/success-stories/case-studies/efficient-production-control-at-mahr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cdn.quantum.com/customerstories/carlmahr/index.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metrology.mahr.com/en-us/news-events/newsroom/item/case-study-turned-part-testing-in-the-measuring-cell/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.t-mobile.com/business/partner-recruitment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/mahr-federal",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://incfact.com/company/mahr-providence-ri/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://incfact.com/company/mahrfederal-providence-ri/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/mahr-federal-inc/23527680",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/mahrmeteringusa",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Mahr54449209",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AllahGreatQuran/status/2120123865988813188",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/aiishadahir/status/2114990591536669115",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/mahr/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/mahr-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/mahr",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mx.linkedin.com/company/mahr",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MahrInc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MahrMetrology/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://business.facebook.com/groups/350668072273142/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fb-answers/what-is-mahr/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mahr1017",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Mahr 日本 導入",
+   "results": [
+    "https://mahr-japan.com/",
+    "https://metrology.mahr.com/ja/",
+    "https://www.mahr.com/ja",
+    "https://pr.mono.ipros.com/mahr/information/",
+    "https://mono.ipros.com/company/detail/2069010/",
+    "https://www.atengineer.com/pr/mahr-japan/company",
+    "https://pr.mono.ipros.com/mahr/product/category/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mahr 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://marketing.mahr.com/mahr-product-catalog",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://metrology.mahr.com/ja/製品/article/5313180-induktiver-messtaster-millimar-1318"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mahr Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/MAX_JAPAN",
+    "https://mahr-japan.com/",
+    "https://metrology.mahr.com/ja/",
+    "https://www.mahr.com/ja",
+    "https://www.linkedin.com/company/mahr-japan",
+    "https://www.mahr.com/ja/company",
+    "https://metrology.mahr.com/ja/company/contact",
+    "https://www.youtube.com/channel/UCrElq4xgY-QE8OXJ2SvJbhQ"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Mahr manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/psi-software/case-study/mahr-gmbh-customer-case-study",
+    "https://www.psi.de/en/success-stories/case-studies/efficient-production-control-at-mahr",
+    "https://cdn.quantum.com/customerstories/carlmahr/index.aspx",
+    "https://metrology.mahr.com/en-us/news-events/newsroom/item/case-study-turned-part-testing-in-the-measuring-cell/",
+    "https://www.quantum.com/en/resources/customer-success/carl-mahr-group/",
+    "https://marketingmanaged.agency/mahr-case-study/",
+    "https://marketing.mahr.com/hubfs/CaseStudy-TechMetCarbides-2021.pdf?hsLang=en"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mahr white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.t-mobile.com/business/partner-recruitment",
+    "https://www.facebook.com/groups/1390590848697838/",
+    "https://www.facebook.com/groups/796523762150777/",
+    "https://www.namesilo.com/reseller"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mahr founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/mahr-federal",
+    "https://incfact.com/company/mahr-providence-ri/",
+    "https://incfact.com/company/mahrfederal-providence-ri/",
+    "https://www.zoominfo.com/c/mahr-federal-inc/23527680",
+    "https://acquirezy.com/organization/mahr-federal",
+    "https://rocketreach.co/mahr-inc-profile_b6a47807c878a5af",
+    "https://www.mahr.com/en-us/company/about-mahr/history"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Mahr",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/lively_pika8336/n/n5adf36c23e7b",
+    "https://note.com/tag/ジュディノート",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/osirius3150/n/n164c9a6f7cf8",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/hunter_5160/n/n05a6b0815fb8"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Mahr",
+   "results": [
+    "https://x.com/mahrmeteringusa",
+    "https://x.com/Mahr54449209",
+    "https://x.com/AllahGreatQuran/status/2120123865988813188",
+    "https://x.com/aiishadahir/status/2114990591536669115",
+    "https://x.com/grok/status/2120041438058516943",
+    "https://x.com/billmaher",
+    "https://x.com/mAHr004wpn3aXQD/status/2115247747691602411"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Mahr",
+   "results": [
+    "https://www.linkedin.com/company/mahr/",
+    "https://www.linkedin.com/company/mahr-inc",
+    "https://in.linkedin.com/company/mahr",
+    "https://mx.linkedin.com/company/mahr",
+    "https://br.linkedin.com/company/mahr",
+    "https://de.linkedin.com/company/mahr",
+    "https://pl.linkedin.com/company/mahr"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Mahr",
+   "results": [
+    "https://www.facebook.com/MahrInc/",
+    "https://www.facebook.com/MahrMetrology/",
+    "https://business.facebook.com/groups/350668072273142/",
+    "https://www.facebook.com/fb-answers/what-is-mahr/",
+    "https://www.facebook.com/kristinataraskina/videos/mahr-is-a-mandatory-marriage-gift-that-a-muslim-husband-gives-to-his-wife-as-par/1115939124115819/",
+    "https://www.facebook.com/AuthorKristinaMahr/",
+    "https://www.facebook.com/ibamahrofficial/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mahr note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ノート:マヒト",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.com/maroceo",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mahr X 投稿",
+   "results": [
+    "https://x.com/mahr1017",
+    "https://www.youtube.com/@mahr_x_x",
+    "https://www.instagram.com/mahr.x3/",
+    "https://www.instagram.com/x._.mahr._.x/",
+    "https://x.com/Ayu_0x4b4/status/2116859291575754936",
+    "https://x.com/Ayu_0x4b4/status/2097496141852205159",
+    "https://x.com/ma_torihikiy/status/2118675383096914235"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）"
+ }
+}

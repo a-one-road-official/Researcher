@@ -1,0 +1,381 @@
+{
+ "name": "AFOTEK GmbH Anlagen für die Oberflächentechnik",
+ "aliases": [],
+ "context": "旧営業リスト｜industrial_data｜AI送信済み",
+ "researched_at": "2026-11-10T19:34:54.047660+00:00",
+ "official_url": "https://www.afotek.de/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Zum Hauptinhalt springen",
+    "url": "https://www.afotek.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Anlagenplanung und Prozessoptimierung",
+    "url": "https://www.afotek.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Bleiben Sie informiert! Aktuelle News rund um Produkte und Lösungen für unsere Kunden haben wir hier für Sie zusammengetragen.",
+    "url": "https://www.afotek.de/",
+    "pass": 1
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "AFOTEK Anlagen für Oberflächentechnik GmbH - LinkedIn About us Seit 1992 plant und baut AFOTEK als mittelständisches Unternehmen innovative, individuelle, auf den Kunden zugeschnittene Anlagen für die Veredelung von Metall, Kunststoff und Holz.",
+    "url": "https://www.linkedin.com/company/afotek-gmbh",
+    "pass": 3
+   },
+   {
+    "quote": "Katrin Sinning – Prokuristin bei AFOTEK Anlagen für ...Metallbauer im Bereich der Vor- und Endmontage von ...Technischer Mitarbeiter im Bereich Ersatzteilmanagement ...WIG- und MAG Edelstahlschweißer im Bereich der Vor- und ...How to Check Your Claude Token Usage Before Your Thread DiesLehrling Oberflächentechnik (m/w/d) bei Collini Group — Wien ... Prokuristin bei AFOTEK Anlagen für Oberflächente",
+    "url": "https://de.linkedin.com/in/katrin-sinning-a3011b68",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "AFOTEK GmbH | Bad Hersfeld - FacebookAfotek Anlagen für Oberflächentechnik GmbH - FacebookAFOTEK Anlagen für Oberflächentechnik GmbH - FacebookAFOTEK GmbH - AFOTEK stellt als Generalunternehmer die...AFOTEK GmbH - Wir suchen Verstärkung für unser Team der ...AFOTEK GmbH - AFOTEK Dashboard - die wichtigsten Daten ...AFOTEK GmbH - Willkommen im Team! Wir begrüßen stolz ... AFOTEK GmbH, Bad Hersfeld.",
+    "url": "https://www.facebook.com/afotekgmbh/",
+    "pass": 3
+   },
+   {
+    "quote": "AFOTEK GmbH - AFOTEK stellt als Generalunternehmer die... AFOTEK - individueller Anlagenbau in der Oberflächentechnik für Kunststofflackierung, Lackierung, Tauchlackierung, Pulverbeschichtung, Reinigung, Beflämmen und Nasslackierung.",
+    "url": "https://www.facebook.com/afotekgmbh/posts/afotek-stellt-als-generalunternehmer-die-gesamte-beschichtungstechnik-für-das-ta/1900657219989829/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.afotek.de/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://afotek.de/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/afotek-gmbh",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://afotek-services.de/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.paintexpo.de/exhibitors-products/exhibitor/paintexpo/afotek-anlagen-fuer-oberflaechentechnik-gmbh/2613",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://afotek.de/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.paintexpo.de/exhibitors-products/exhibitor/paintexpo/afotek-anlagen-fuer-oberflaechentechnik-gmbh/2613",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.northdata.com/AFOTEK+Anlagen+f%C3%BCr+Oberfl%C3%A4chentechnik+GmbH,+Bad+Hersfeld/HRB+511",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://de.linkedin.com/company/afotek-gmbh",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://afotek.de/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/afotek-gmbh",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://afotek-services.de/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dnb.com/business-directory/company-profiles.afotek_anlagen_f%C3%BCr_oberfl%C3%A4chentechnik_gmbh.78353b521a276d1b6f92ac75c010f297.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Value-added_reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unifyr.com/blog/the-reseller-channel-how-and-why-to-use-it",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://firmendata.com/en/company/bad-hersfeld/HRB511/afotek-anlagen-fuer-oberflaechentechnik-gmbh",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://app.implisense.com/de/companies/afotek-anlagen-fuer-oberflaechentechnik-gmbh-bad-hersfeld--DETVSAPKY587",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/afotek",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://firmendata.com/de/unternehmen/bad-hersfeld/HRB511/afotek-anlagen-fuer-oberflaechentechnik-gmbh",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/afotek-gmbh",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/katrin-sinning-a3011b68",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/afotekgmbh/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/afotekgmbh/posts/afotek-stellt-als-generalunternehmer-die-gesamte-beschichtungstechnik-für-das-ta/1900657219989829/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "AFOTEK GmbH Anlagen für die Oberflächentechnik 日本 導入",
+   "results": [
+    "https://afotek.de/",
+    "https://jp.linkedin.com/company/afotek-gmbh",
+    "https://www.afotek-services.de/de/",
+    "http://www.paintexpo.de/exhibitors-products/exhibitor/paintexpo/afotek-anlagen-fuer-oberflaechentechnik-gmbh/2613",
+    "http://www.paintexpo.de/aussteller-produkte/aussteller/paintexpo/afotek-anlagen-fuer-oberflaechentechnik-gmbh/423874",
+    "https://www.dnb.com/business-directory/company-profiles.afotek_anlagen_für_oberflächentechnik_gmbh.78353b521a276d1b6f92ac75c010f297.html",
+    "https://afotek.de/en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "AFOTEK GmbH Anlagen für die Oberflächentechnik 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://afotek.de/",
+    "http://www.paintexpo.de/exhibitors-products/exhibitor/paintexpo/afotek-anlagen-fuer-oberflaechentechnik-gmbh/2613",
+    "https://www.northdata.com/AFOTEK+Anlagen+für+Oberflächentechnik+GmbH,+Bad+Hersfeld/HRB+511",
+    "https://de.linkedin.com/company/afotek-gmbh",
+    "https://afotek.de/?layout=en-GB",
+    "https://afotek.de/en/specialisations/powder-coating-systems",
+    "https://afotek.de/en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "AFOTEK GmbH Anlagen für die Oberflächentechnik Japan",
+   "results": [
+    "https://afotek.de/",
+    "https://jp.linkedin.com/company/afotek-gmbh",
+    "https://www.afotek-services.de/de/",
+    "https://www.dnb.com/business-directory/company-profiles.afotek_anlagen_für_oberflächentechnik_gmbh.78353b521a276d1b6f92ac75c010f297.html",
+    "http://www.paintexpo.de/exhibitors-products/exhibitor/paintexpo/afotek-anlagen-fuer-oberflaechentechnik-gmbh/2613",
+    "https://www.companyhouse.de/AFOTEK-Anlagen-fuer-Oberflaechentechnik-GmbH-Bad-Hersfeld",
+    "https://afotek.de/en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "AFOTEK GmbH Anlagen für die Oberflächentechnik manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "AFOTEK GmbH Anlagen für die Oberflächentechnik white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://en.wikipedia.org/wiki/Value-added_reseller",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.unifyr.com/blog/the-reseller-channel-how-and-why-to-use-it",
+    "https://www.godaddy.com/help/get-started-with-basic-and-pro-reseller-7454",
+    "https://www.techtarget.com/searchitchannel/definition/reseller",
+    "https://retailers.bossrevolution.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "AFOTEK GmbH Anlagen für die Oberflächentechnik founded funding employees revenue",
+   "results": [
+    "https://firmendata.com/en/company/bad-hersfeld/HRB511/afotek-anlagen-fuer-oberflaechentechnik-gmbh",
+    "https://implisense.com/de/companies/afotek-anlagen-fuer-oberflaechentechnik-gmbh-bad-hersfeld-DETVSAPKY587",
+    "https://www.crunchbase.com/organization/afotek",
+    "https://firmendata.com/de/unternehmen/bad-hersfeld/HRB511/afotek-anlagen-fuer-oberflaechentechnik-gmbh",
+    "https://www.dnb.com/business-directory/company-profiles.afotek_anlagen_für_oberflächentechnik_gmbh.78353b521a276d1b6f92ac75c010f297.html",
+    "https://www.wer-zu-wem.de/firma/afotek.html",
+    "https://www.northdata.de/AFOTEK+Anlagen+für+Oberflächentechnik+GmbH,+Bad+Hersfeld/HRB+511"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com AFOTEK GmbH Anlagen für die Oberflächentechnik",
+   "results": [
+    "https://note.com/kentabright",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/tag/クジラに落ちた男",
+    "https://note.com/urumaicizhi/n/n924688c85453",
+    "https://note.com/zoeyoshi/n/n5603d939450c",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/clean_ixora696/n/n5a518cac2482"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com AFOTEK GmbH Anlagen für die Oberflächentechnik",
+   "results": [
+    "https://x.com/buserot",
+    "https://jf.x.com/images/media-preview/2111072393414521083",
+    "https://x.com/SrLinguicaVIVE/status/2118063873102127124",
+    "https://x.com/jocelynseip/status/2118260591680983528",
+    "https://help.x.com/zh-tw/using-x",
+    "https://x.com/DemocraticWins/status/2117994783016685719",
+    "https://x.com/RepJeffries/status/2117800972810330242"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com AFOTEK GmbH Anlagen für die Oberflächentechnik",
+   "results": [
+    "https://www.linkedin.com/company/afotek-gmbh",
+    "https://de.linkedin.com/in/katrin-sinning-a3011b68",
+    "https://at.linkedin.com/jobs/view/lehrling-oberflächentechnik-m-w-d-at-collini-group-4469155945",
+    "https://www.linkedin.com/pulse/how-check-your-claude-token-usage-before-thread-dies-traylor-ed-m--joawc",
+    "https://de.linkedin.com/jobs/view/metallbauer-im-bereich-der-vor-und-endmontage-von-lackieranlagen-m-w-d-at-afotek-anlagen-für-oberflächentechnik-gmbh-4487733359",
+    "https://de.linkedin.com/jobs/view/technischer-mitarbeiter-im-bereich-ersatzteilmanagement-servicekoordination-m-w-d-at-afotek-anlagen-für-oberflächentechnik-gmbh-4488804436",
+    "https://de.linkedin.com/jobs/view/wig-und-mag-edelstahlschweißer-im-bereich-der-vor-und-endmontage-von-lackieranlagen-m-w-d-at-afotek-anlagen-für-oberflächentechnik-gmbh-4488814185"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com AFOTEK GmbH Anlagen für die Oberflächentechnik",
+   "results": [
+    "https://www.facebook.com/afotekgmbh/",
+    "https://www.facebook.com/Afotek-Anlagen-für-Oberflächentechnik-GmbH-1418899824988403/",
+    "https://www.facebook.com/AFOTEK-Anlagen-für-Oberflächentechnik-GmbH-516053798784940/",
+    "https://www.facebook.com/afotekgmbh/posts/afotek-stellt-als-generalunternehmer-die-gesamte-beschichtungstechnik-für-das-ta/1900657219989829/",
+    "https://www.facebook.com/afotekgmbh/posts/-wir-suchen-verstärkung-für-unser-team-der-elektrotechnik-wer-wir-sind-afotek-pl/1010671184395311/",
+    "https://www.facebook.com/afotekgmbh/posts/afotek-dashboard-die-wichtigsten-daten-ihrer-lackieranlage-immer-und-überall-im-/2865644653491076/",
+    "https://www.facebook.com/afotekgmbh/posts/-willkommen-im-team-wir-begrüßen-stolz-unsere-drei-neuen-auszubildenden-bei-afot/1331109842351442/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "AFOTEK GmbH Anlagen für die Oberflächentechnik note 社長",
+   "results": [
+    "https://afotek.de/",
+    "https://www.dnb.com/business-directory/company-profiles.afotek_anlagen_für_oberflächentechnik_gmbh.78353b521a276d1b6f92ac75c010f297.html",
+    "https://www.afotek-services.de/de/",
+    "https://de.globaldatabase.com/company/afotek-anlagen-fur-oberflachentechnik-gmbh",
+    "https://mr.linkedin.com/company/afotek-gmbh",
+    "https://www.northdata.de/AFOTEK+Anlagen+für+Oberflächentechnik+GmbH,+Bad+Hersfeld/HRB+511",
+    "https://afotek.de/en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "AFOTEK GmbH Anlagen für die Oberflächentechnik X 投稿",
+   "results": [
+    "https://afotek.de/",
+    "https://www.afotek-services.de/de/",
+    "https://www.afotek-services.de/de/start.html?view=category&id=2",
+    "https://www.dnb.com/business-directory/company-profiles.afotek_anlagen_für_oberflächentechnik_gmbh.78353b521a276d1b6f92ac75c010f297.html",
+    "https://de.globaldatabase.com/company/afotek-anlagen-fur-oberflachentechnik-gmbh",
+    "https://ga.linkedin.com/company/afotek-gmbh",
+    "https://afotek.de/en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）"
+ }
+}

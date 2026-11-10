@@ -1,0 +1,1328 @@
+{
+ "name": "株式会社コイワイ",
+ "aliases": [],
+ "context": "PBF=unknown 装置= 出典=https://mono.ipros.com/product/detail/2000688054/",
+ "researched_at": "2026-11-10T19:25:09.080415+00:00",
+ "official_url": "https://www.tc-koiwai.co.jp/",
+ "identified_by": "search:yahoo_jp:コイワイ",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "0465-44-2015",
+    "url": "https://www.tc-koiwai.co.jp/info/%E3%80%90%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%80%91%E3%83%A1%E3%83%BC%E3%83%AB%E9%80%81%E5%8F%97%E4%BF%A1%E9%9A%9C%E5%AE%B3%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B-2/",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "〒2560804 神奈川県小田原市羽根尾244-6",
+    "url": "https://miyagi-ijuguide.pref.miyagi.jp/company/36746",
+    "pass": 3
+   },
+   {
+    "label": "県内事業所所在地",
+    "value": "〒9891224 宮城県柴田郡大河原町金ケ瀬宇川根69-1　宮城工場",
+    "url": "https://miyagi-ijuguide.pref.miyagi.jp/company/36746",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "試作・量産鋳物製品の製造販売",
+    "url": "https://miyagi-ijuguide.pref.miyagi.jp/company/36746",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設　立",
+    "value": "設　立：1973年",
+    "url": "https://miyagi-ijuguide.pref.miyagi.jp/company/36746",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "35,000,000円",
+    "url": "https://miyagi-ijuguide.pref.miyagi.jp/company/36746",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "Arcam A2X 電子ビーム積層装置*",
+    "url": "https://www.tc-koiwai.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "Arcam Q20 電子ビーム積層装置*",
+    "url": "https://www.tc-koiwai.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "EOSINT M-280 レーザービーム積層装置",
+    "url": "https://www.tc-koiwai.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "ATOS TripleScan レーザー積層形状測定器",
+    "url": "https://www.tc-koiwai.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "又、この新工場には、大型金属３Ｄプリンターも導入して最先端のモノ造りも行っています",
+    "url": "https://miyagi-ijuguide.pref.miyagi.jp/company/36746",
+    "pass": 3
+   },
+   {
+    "quote": "・３ＤＣＡＤ導入デジタル物造り開始",
+    "url": "https://koiwai-miyagi.jimdofree.com/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85/",
+    "pass": 3
+   },
+   {
+    "quote": "『電子ビーム積層造形法と精密切削加工技術の融合によるJAXA衛星用スラスタ部品の開発』",
+    "url": "https://koiwai-miyagi.jimdofree.com/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙事業を新たな柱に…コイワイ、金属3Dプリンターで技術に磨きかける｜ニュースイッチ by 日刊工業新聞社",
+    "url": "https://newswitch.jp/p/42007",
+    "pass": 3
+   },
+   {
+    "quote": "# 金属3Dプリンター",
+    "url": "https://newswitch.jp/p/42007",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙事業を新たな柱に…コイワイ、金属3Dプリンターで技術に磨きかける",
+    "url": "https://newswitch.jp/p/42007",
+    "pass": 3
+   },
+   {
+    "quote": "コイワイが宇宙事業に関わるきっかけになったのは、１２年にスウェーデンのアーカム製の金属３Ｄプリンターを導入したことだ",
+    "url": "https://newswitch.jp/p/42007",
+    "pass": 3
+   },
+   {
+    "quote": "導入時の参考情報として、欧州の航空宇宙や防衛分野で同装置が使用された事例があることは知っていたものの、「新しいビジネスを狙うことが第一ではなかった」（小岩井社長）という",
+    "url": "https://newswitch.jp/p/42007",
+    "pass": 3
+   },
+   {
+    "quote": "コイワイは０７年に砂型３Ｄプリンターを導入しており、データを立体物に置き換えるノウハウを積み重ねていたため、金属３Ｄプリンターを使用した生産の立ち上げは円滑に進んだ",
+    "url": "https://newswitch.jp/p/42007",
+    "pass": 3
+   },
+   {
+    "quote": "一連の設備導入の狙いは、鋳物を扱う現場の労働環境の改善を想定したもので、小岩井社長は「鋳物を金属プリンターの技術に置き換えたかった」と語る",
+    "url": "https://newswitch.jp/p/42007",
+    "pass": 3
+   },
+   {
+    "quote": "金属３Ｄプリンターを導入して間もない時期、ＪＡＸＡから機体が月面着陸する際に脚部に必要な衝撃吸収材の開発の相談が来た",
+    "url": "https://newswitch.jp/p/42007",
+    "pass": 3
+   },
+   {
+    "quote": "【関連記事】 金属積層造形の技術はここまで進化している！",
+    "url": "https://newswitch.jp/p/42007",
+    "pass": 3
+   },
+   {
+    "quote": "コイワイが金属3Dプリンター技術の向上を狙う！宇宙事業への活用や将来性を解説 | キャド研",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "コイワイが金属3Dプリンター技術の向上を狙う！宇宙事業への活用や将来性を解説",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター技術を向上を宇宙事業に活用する",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "コイワイは、金属3Dプリンターを活用してどのように貢献するのでしょうか",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "今回はコイワイが導入している金属3Dプリンターの宇宙事業活用のニュースをもとに、企業情報や事業内容、3Dプリンターを活用した事業事例を詳しく深掘りします",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターを使った新技術情報も解説しているので、金属3Dプリンターの最新動向を知る参考にしてください",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "1.コイワイが金属3Dプリンターの技術を宇宙事業に展開",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "2.コイワイが導入した金属3Dプリンターとは？",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "3.コイワイが提供する金属3Dプリンターの活用事例",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "4.コイワイの金属3Dプリンターに期待されること",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "5.金属3Dプリンターを活用する業種",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "6.コイワイが提供する金属3Dプリンター技術についてまとめ",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "コイワイが金属3Dプリンターの技術を宇宙事業に展開",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "鋳物（金属などの液体を流し込んで固めるための型）の製造を提供している株式会社コイワイ（以下、コイワイ）が、所有する金属3Dプリンター技術を活用した事業展開に向けて準備をスタートしました",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "コイワイは宇宙事業でも活用できる製品製造に取り組むため、自社導入している金属3Dプリンターの技術向上を目指して、将来の宇宙関連市場への参入に備えだしました",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "「アーカム」の金属3Dプリンターを導入したのがきっかけ",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "当初、金属3Dプリンターは、以下に示すコイワイの社長コメントの通り、自社で提供している鋳物試作の効率化を図るために導入されました",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "設備導入の狙いは、鋳物を扱う現場の労働環境の改善を想定したもので、小岩井社長は「鋳物を金属プリンターの技術に置き換えたかった」と語る",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "引用：ニュースイッチ「宇宙事業を新たな柱に…コイワイ、金属3Dプリンターで技術に磨きかける」",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし後から、欧州の宇宙事業で同じ金属3Dプリンターが活用されていると聞き、偶然に近い理由からコイワイによる宇宙事業への参画がスタートしました",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "実際にJAXA（宇宙航空研究開発機構）から依頼を受けるなど、コイワイは徐々に金属3Dプリンターの技術を向上させています",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "コイワイが導入した金属3Dプリンターとは？",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "コイワイが導入した金属3Dプリンターは、スウェーデンで3Dプリンターの機器製造を提供する「アーカム社」の製品です",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "一般的な樹脂材料の3Dprinterとは違い本体価格が高額ですが、その分超精密な造形にも対応できるのが金属3Dプリンターの魅力です",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "従来人の手でつくられていた鋳物を自動で製造できることから、コイワイでは鋳物製造を完全に金属3Dプリンターに置き換える目的で導入されました",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "日本積層造形株式会社 / JAMPT（ジャンプ）は前身のコイワイ時代も含めると、日本でいち早く金属3Dプリンター受託造形サービスを開始しました",
+    "url": "https://jampt.jp/technology/",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、金属3Dプリンティング技術（金属積層造形技術）に関する豊富な経験とノウハウを蓄積しています",
+    "url": "https://jampt.jp/technology/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターはスイッチを押せば誰でも同じモノが作れる魔法の装置ではなく、運用にあたっては専門的な知識・ノウハウが欠かせません",
+    "url": "https://jampt.jp/technology/",
+    "pass": 3
+   },
+   {
+    "quote": "レーザーのほか電子ビームの造形機を保有しており、多様な材料へも対応可能",
+    "url": "https://jampt.jp/technology/",
+    "pass": 3
+   },
+   {
+    "quote": "アルミ合金で金属3Dプリンターならではの超微細ラティス構造物を造形、現状最小線形を実現しています",
+    "url": "https://jampt.jp/technology/",
+    "pass": 3
+   },
+   {
+    "quote": "JAMPTでは、東洋アルミニウム株式会社、九州大学、千葉工業大学が開発した新しい金属3Dプリンター用アルミニウム合金粉末に関し、特許実施契約に基づいて、金属積層造形による新たな用途への活用に取り組んでいます",
+    "url": "https://jampt.jp/technology/",
+    "pass": 3
+   },
+   {
+    "quote": "電子ビーム方式金属3Dプリンターによる純銅の造形ができるのはJAMPTだけです",
+    "url": "https://jampt.jp/technology/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター用PREP粉末について",
+    "url": "https://jampt.jp/technology/",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、東北大学金属材料研究所/千葉研究室との共同研究を通じて、金属3Dプリンター用PREP粉末の実用商業化開発を進めています",
+    "url": "https://jampt.jp/technology/",
+    "pass": 3
+   },
+   {
+    "quote": "新しい金属3Dプリンター用アルミニウム合金",
+    "url": "https://jampt.jp/technology/new-aluminum-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター総合技術サービスを提供する当社では、（株）コイワイ、東洋アルミニウム（株）、九州大学、千葉工業大学が開発した新しい金属積層用アルミニウム合金粉末に関し、特許実施契約に基づいて、3D造形による新たな用途への活用に取り組んでいます",
+    "url": "https://jampt.jp/technology/new-aluminum-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターで使用されるアルミニウム合金においては、Al-10%Si-0.4%Mg合金が広く知られています",
+    "url": "https://jampt.jp/technology/new-aluminum-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、同合金を金属3Dプリンターで造形すると、むしろ従来知られている高温強度が得られません",
+    "url": "https://jampt.jp/technology/new-aluminum-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "造形に際しては、レーザー方式の金属3Dプリンターを用い、従来行われるT6処理（510℃溶体化処理⇒水焼き入れ⇒焼き戻し）を行う必要はありません",
+    "url": "https://jampt.jp/technology/new-aluminum-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "#3 日本初上陸！世界最大級 金属3Dプリンター【X Line 2000R】がコイワイにやってきた！ - YouTube",
+    "url": "https://www.youtube.com/watch?v=FW9Pz0sEsQU",
+    "pass": 3
+   },
+   {
+    "quote": "#3 日本初上陸！世界最大級 金属3Dプリンター【X Line 2000R】がコイワイにやってきた！",
+    "url": "https://www.youtube.com/watch?v=FW9Pz0sEsQU",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタ「Meltio」紹介",
+    "url": "https://www.youtube.com/watch?v=FW9Pz0sEsQU",
+    "pass": 3
+   },
+   {
+    "quote": "ー 株式会社コイワイ、国内初、世界最大級の大型金属３Dプリンター導入",
+    "url": "https://www.youtube.com/watch?v=FW9Pz0sEsQU",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社コイワイは、2019年2月宮城工場隣地に竣工の「スタートアップファクトリーみやぎ」に、日本初導入となる大型金属3Dプリンタ【X LINE 2000R】を導入しました",
+    "url": "https://www.youtube.com/watch?v=FW9Pz0sEsQU",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "SPECTROMAX 発光分析器（アルミ用）",
+    "url": "https://www.tc-koiwai.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "３Dプリンタ金属粉末積層",
+    "url": "https://www.tc-koiwai.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ溶解保持炉 500kg",
+    "url": "https://www.tc-koiwai.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "SPECTROMAXx The Metal Analyzer 発光分析器（アルミ用）",
+    "url": "https://www.tc-koiwai.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "『超軽量・高剛性アルミニウム合金製中空薄肉一体構造大型足回り部品製造技術実証評価』",
+    "url": "https://koiwai-miyagi.jimdofree.com/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85/",
+    "pass": 3
+   },
+   {
+    "quote": "『3Ｄチタンプリンターを用いた革新的脊椎制動インプラントの開発』",
+    "url": "https://koiwai-miyagi.jimdofree.com/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85/",
+    "pass": 3
+   },
+   {
+    "quote": "造形品の変形や割れを抑える熱処理を施すなど、アルミニウムや鉄などの鋳物製品を生産する中で培ってきた経験やノウハウも生かした",
+    "url": "https://newswitch.jp/p/42007",
+    "pass": 3
+   },
+   {
+    "quote": "ステンレス鋼や銅、チタン合金などを設計したデータのとおりに造形してくれます",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "そこでコイワイは軽量かつ高強度のアルミニウムや鉄を活用した鋳物製品の製造に乗り出しました",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "JAMPTではチタン合金の薄肉パイプ形状の造形が可能です",
+    "url": "https://jampt.jp/technology/",
+    "pass": 3
+   },
+   {
+    "quote": "アルミ合金で金属3Dプリンターならではの超微細ラティス構造物を造形、現状最小線形を実現しています",
+    "url": "https://jampt.jp/technology/",
+    "pass": 3
+   },
+   {
+    "quote": "JAMPTでは、東洋アルミニウム株式会社、九州大学、千葉工業大学が開発した新しい金属3Dプリンター用アルミニウム合金粉末に関し、特許実施契約に基づいて、金属積層造形による新たな用途への活用に取り組んでいます",
+    "url": "https://jampt.jp/technology/",
+    "pass": 3
+   },
+   {
+    "quote": "電子ビーム方式金属3Dプリンターによる純銅の造形ができるのはJAMPTだけです",
+    "url": "https://jampt.jp/technology/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター用PREP粉末について",
+    "url": "https://jampt.jp/technology/",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、東北大学金属材料研究所/千葉研究室との共同研究を通じて、金属3Dプリンター用PREP粉末の実用商業化開発を進めています",
+    "url": "https://jampt.jp/technology/",
+    "pass": 3
+   },
+   {
+    "quote": "新アルミ合金について | 日本積層造形株式会社",
+    "url": "https://jampt.jp/technology/new-aluminum-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "新しい金属3Dプリンター用アルミニウム合金",
+    "url": "https://jampt.jp/technology/new-aluminum-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター総合技術サービスを提供する当社では、（株）コイワイ、東洋アルミニウム（株）、九州大学、千葉工業大学が開発した新しい金属積層用アルミニウム合金粉末に関し、特許実施契約に基づいて、3D造形による新たな用途への活用に取り組んでいます",
+    "url": "https://jampt.jp/technology/new-aluminum-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "1.高強度アルミ合金(Al-Si-Mg-Mn系)＜日本特許 6393008、中国特許、米国特許＞",
+    "url": "https://jampt.jp/technology/new-aluminum-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターで使用されるアルミニウム合金においては、Al-10%Si-0.4%Mg合金が広く知られています",
+    "url": "https://jampt.jp/technology/new-aluminum-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "2.高強度アルミ合金(Al-Si-Cu-Mg-Mn系) ＜日本特許 6393008、中国特許＞",
+    "url": "https://jampt.jp/technology/new-aluminum-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "鋳造用の耐熱アルミ合金としてJIS AC8A合金（Al-12%Si-1%Cu-1%Mg-1%Ni）が良く知られています",
+    "url": "https://jampt.jp/technology/new-aluminum-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "アルミやチタンなどの反応性材料にも対応し、1,000ワットのレーザーを2台備えているため最大１時間あたり120ccもの高い造形スピードを可能にします",
+    "url": "https://www.youtube.com/watch?v=FW9Pz0sEsQU",
+    "pass": 3
+   },
+   {
+    "quote": "試作・量産鋳物・金属粉末積層部品の製造販売を手掛ける",
+    "url": "https://www.macnica.co.jp/business/ai/case/142097/",
+    "pass": 3
+   },
+   {
+    "quote": "職人の世界である鋳造業において、基本を忠実に堅持しながら新たな技術を柔軟に取り入れることで業容を拡大してきた、試作・量産鋳物・金属粉末積層部品の製造販売を手掛ける株式会社コイワイ",
+    "url": "https://www.macnica.co.jp/business/ai/case/142097/",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "【展示会】「2026年度 神奈川県自動車関連技術 展示商談会 in 刈谷」に出展します",
+    "url": "https://www.tc-koiwai.co.jp/info/",
+    "pass": 1
+   },
+   {
+    "quote": "本展示会は、自動車産業をはじめ、さまざまな産業・領域の垣根を越え、新たな価値や共創を生み出すビジネスイベントです",
+    "url": "https://www.tc-koiwai.co.jp/info/%E3%80%90%E5%B1%95%E7%A4%BA%E4%BC%9A%E3%80%91%E3%80%8Cjapan-mobility-show-bizweek-2026%E3%80%8D%E5%87%BA%E5%B1%95%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "pass": 1
+   },
+   {
+    "quote": "豊田賞は、日本鋳造工学会がトヨタ自動車株式会社とその関連企業の協力を得て制定した賞で、鋳造に関する技術の開発・改善や、鋳造品の用途開発などにおいて、顕著な業績と大きな成果を上げた団体・グループに贈られます",
+    "url": "https://www.tc-koiwai.co.jp/info/%E3%80%90%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%80%91%E4%BB%A4%E5%92%8C8%E5%B9%B4%E5%BA%A6-%E6%97%A5%E6%9C%AC%E9%8B%B3%E9%80%A0%E5%B7%A5%E5%AD%A6%E4%BC%9A%E3%80%8C%E8%B1%8A%E7%94%B0%E8%B3%9E%E3%80%8D/",
+    "pass": 1
+   },
+   {
+    "quote": "・株式会社ＴＣＫ設立 砂型試作工場長野県飯田市",
+    "url": "https://koiwai-miyagi.jimdofree.com/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85/",
+    "pass": 3
+   },
+   {
+    "quote": "・Next-K1 宮城工場開設／金型量産工場 宮城県大河原町",
+    "url": "https://koiwai-miyagi.jimdofree.com/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85/",
+    "pass": 3
+   },
+   {
+    "quote": "・Next-K2 横浜工場開設／鋳造金型設計製造工場 神奈川県横浜市戸塚区",
+    "url": "https://koiwai-miyagi.jimdofree.com/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85/",
+    "pass": 3
+   },
+   {
+    "quote": "『3Ｄチタンプリンターを用いた革新的脊椎制動インプラントの開発』",
+    "url": "https://koiwai-miyagi.jimdofree.com/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙事業を新たな柱に…コイワイ、金属3Dプリンターで技術に磨きかける｜ニュースイッチ by 日刊工業新聞社",
+    "url": "https://newswitch.jp/p/42007",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙事業を新たな柱に…コイワイ、金属3Dプリンターで技術に磨きかける",
+    "url": "https://newswitch.jp/p/42007",
+    "pass": 3
+   },
+   {
+    "quote": "コイワイ（神奈川県小田原市、小岩井豊己社長）は、自動車メーカーや自動車部品メーカー向けの鋳物試作などを手がける",
+    "url": "https://newswitch.jp/p/42007",
+    "pass": 3
+   },
+   {
+    "quote": "金属３Ｄプリンターでのモノづくりの技術に磨きをかけ、将来の宇宙関連市場の拡大に備える",
+    "url": "https://newswitch.jp/p/42007",
+    "pass": 3
+   },
+   {
+    "quote": "コイワイが宇宙事業に関わるきっかけになったのは、１２年にスウェーデンのアーカム製の金属３Ｄプリンターを導入したことだ",
+    "url": "https://newswitch.jp/p/42007",
+    "pass": 3
+   },
+   {
+    "quote": "導入時の参考情報として、欧州の航空宇宙や防衛分野で同装置が使用された事例があることは知っていたものの、「新しいビジネスを狙うことが第一ではなかった」（小岩井社長）という",
+    "url": "https://newswitch.jp/p/42007",
+    "pass": 3
+   },
+   {
+    "quote": "小岩井社長はＪＡＸＡなどとの宇宙事業に取り組む意義について「技術的な（信頼性の）裏付けになる」と語る",
+    "url": "https://newswitch.jp/p/42007",
+    "pass": 3
+   },
+   {
+    "quote": "ＪＡＸＡとの事例を元に、宇宙分野の民間企業から引き合いがあり、試験用部品の納入につながった事例もあるという",
+    "url": "https://newswitch.jp/p/42007",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙開発に携われる点を魅力と捉える若年層の採用面接受験が増加",
+    "url": "https://newswitch.jp/p/42007",
+    "pass": 3
+   },
+   {
+    "quote": "金属３Ｄプリンターを使ったモノづくりでは、自動車補用部品の鋳型保管コストを削減できる点や複雑形状製品の生産などのメリットを生かし、今後も使用を拡大していく考え",
+    "url": "https://newswitch.jp/p/42007",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙向けでの活用について、小岩井社長は「（金属３Ｄプリンターによる）生産技術が宇宙開発の発展とともに進歩していくと捉えている」",
+    "url": "https://newswitch.jp/p/42007",
+    "pass": 3
+   },
+   {
+    "quote": "将来はロケットの構造体などの生産ができるまで技術を高め、宇宙事業を新たな柱とすることを目指している",
+    "url": "https://newswitch.jp/p/42007",
+    "pass": 3
+   },
+   {
+    "quote": "コイワイが金属3Dプリンター技術の向上を狙う！宇宙事業への活用や将来性を解説 | キャド研",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "コイワイが金属3Dプリンター技術の向上を狙う！宇宙事業への活用や将来性を解説",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター技術を向上を宇宙事業に活用する",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "今回はコイワイが導入している金属3Dプリンターの宇宙事業活用のニュースをもとに、企業情報や事業内容、3Dプリンターを活用した事業事例を詳しく深掘りします",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "1.コイワイが金属3Dプリンターの技術を宇宙事業に展開",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "コイワイが金属3Dプリンターの技術を宇宙事業に展開",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "従来、コイワイは自動車メーカー向けの鋳物試作を手掛ける企業ですが、",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙事業では、精密かつ耐久性に優れる金属製品の製造が欠かせません",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "コイワイは宇宙事業でも活用できる製品製造に取り組むため、自社導入している金属3Dプリンターの技術向上を目指して、将来の宇宙関連市場への参入に備えだしました",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車メーカーを対象にサービスを提供しているコイワイが新しく宇宙事業への参画に動き出したのは、スウェーデンの3Dプリンター事業を展開する",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "当初、金属3Dプリンターは、以下に示すコイワイの社長コメントの通り、自社で提供している鋳物試作の効率化を図るために導入されました",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "引用：ニュースイッチ「宇宙事業を新たな柱に…コイワイ、金属3Dプリンターで技術に磨きかける」",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし後から、欧州の宇宙事業で同じ金属3Dプリンターが活用されていると聞き、偶然に近い理由からコイワイによる宇宙事業への参画がスタートしました",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "実際にJAXA（宇宙航空研究開発機構）から依頼を受けるなど、コイワイは徐々に金属3Dプリンターの技術を向上させています",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "主に自動車メーカーを対象とした鋳物製造を手掛けており、長い歴史と技術継承により、コイワイでしかつくれない高精密な複雑な鋳物を製造しています",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "コイワイは金属3Dプリンターを導入してすぐに、JAXA（宇宙航空研究開発機構）から、",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙探査機の月面着陸時に利用する衝撃吸収材の開発",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "コイワイは自動車業界のアフターマーケット（交換部品等）の市場参入を目的に、金属3Dプリンターを用いて自動車用のブレーキキャリパーの製造に対応しました",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車には複雑な形状の金属製品が数多く使用されており、それぞれのパーツを複数の製造工場に依頼して自動車を構築しています",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "コイワイを含め、そういった自動車部品の製造を担う自動車部品メーカーでは、金属3Dプリンターを導入して、",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "コイワイが導入している金属3Dプリンターの技術は、医療業界で次のような使われ方をしています",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "人によって骨格やサイズが異なるインプラントや義手等を自動で製造できる",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "また、設計図通りに製品をつくり出せるため、人の体に馴染みやすいインプラントを用意しやすくなるほか、製造コストを抑えやすくなるのが魅力です",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "コイワイが鋳物事業の効率化のために導入した金属3Dプリンターは、自動車メーカーへの提供という枠を超え、宇宙事業にまで発展しようとしています",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "すでにJAXAからも依頼を受け、宇宙探査機の一部として導入されている状況です",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "日本積層造形株式会社 / JAMPT（ジャンプ）は前身のコイワイ時代も含めると、日本でいち早く金属3Dプリンター受託造形サービスを開始しました",
+    "url": "https://jampt.jp/technology/",
+    "pass": 3
+   },
+   {
+    "quote": "この技術で製造したエンジンオイル配管は、世界最高峰の自動車レース・F1のレーシングカー(実機) に採用されています",
+    "url": "https://jampt.jp/technology/",
+    "pass": 3
+   },
+   {
+    "quote": "金属製品の試作から多品種少量量産品まで生産対応へ ー",
+    "url": "https://www.youtube.com/watch?v=FW9Pz0sEsQU",
+    "pass": 3
+   },
+   {
+    "quote": "本装置の導入により、従来の小型・中型機では困難であった大型金属積層部品の生産を可能とし、多品種少量品等の試作から量産まで対応可能な｢至近未来の鋳物工場｣と位置づけ、金属3Dプリンタで先行する欧米勢キャッチアップをも図っています",
+    "url": "https://www.youtube.com/watch?v=FW9Pz0sEsQU",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、小型・中型機では難しい航空宇宙や自動車産業などの大型部品の試作から量産までが可能となります",
+    "url": "https://www.youtube.com/watch?v=FW9Pz0sEsQU",
+    "pass": 3
+   },
+   {
+    "quote": "新工場には、X LINE 2000Rを核に、金型鋳造設備、熱処理装置、レーザー非接触測定機などの検査機器を導入",
+    "url": "https://www.youtube.com/watch?v=FW9Pz0sEsQU",
+    "pass": 3
+   },
+   {
+    "quote": "日本積層造形株式会社（コイワイ、双日株式会社出資のJV、宮城県多賀城市）、東北大学、宮城県、宮城県産業技術センターなどとも連携して、試作製品や多品種少量の量産の製造をめざす国内外のスタートアップ企業家や企業からの技術相談、あるいは、工場、設備の貸与、製造請負などを行い、東北から世界に向けて３Dプリンターを使った事業を展開中です",
+    "url": "https://www.youtube.com/watch?v=FW9Pz0sEsQU",
+    "pass": 3
+   },
+   {
+    "quote": "試作・量産鋳物・金属粉末積層部品の製造販売を手掛ける",
+    "url": "https://www.macnica.co.jp/business/ai/case/142097/",
+    "pass": 3
+   },
+   {
+    "quote": "試作や研究開発用、量産の鋳物事業や機械加工事業を展開",
+    "url": "https://www.macnica.co.jp/business/ai/case/142097/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタでの試作製造による工数削減に業界先駆けで取り組むなど、DXにつながる挑戦を積極的に行う",
+    "url": "https://www.macnica.co.jp/business/ai/case/142097/",
+    "pass": 3
+   },
+   {
+    "quote": "累計1万点超えの試作時3Dデータから類似検索できるシステムを構築",
+    "url": "https://www.macnica.co.jp/business/ai/case/142097/",
+    "pass": 3
+   },
+   {
+    "quote": "職人の世界である鋳造業において、基本を忠実に堅持しながら新たな技術を柔軟に取り入れることで業容を拡大してきた、試作・量産鋳物・金属粉末積層部品の製造販売を手掛ける株式会社コイワイ",
+    "url": "https://www.macnica.co.jp/business/ai/case/142097/",
+    "pass": 3
+   },
+   {
+    "quote": "起業当初は試作品や研究開発用の一品ものの鋳物を中心に事業を展開し、今では量産の鋳物分野や資本出資による機械加工も含めた事業を展開している",
+    "url": "https://www.macnica.co.jp/business/ai/case/142097/",
+    "pass": 3
+   },
+   {
+    "quote": "なかでも鋳物事業では、業界に先駆けて3Dプリンタによる試作の鋳物製造に取り組み、従来必要とされてきた木型（きがた）制作プロセスを一気に省略し、工程を大幅に削減するなど、今日のDXにつながる革新的な挑戦を積極的に行っている",
+    "url": "https://www.macnica.co.jp/business/ai/case/142097/",
+    "pass": 3
+   },
+   {
+    "quote": "同社と取引のある顧客は、先代の創業者が自動車業界に在籍していたこともあり、現在も自動車やその部品を取り扱うメーカーが中心だが、近年は建設機械やロボット、医療機械などさまざまな業界へ販路拡大を図っている",
+    "url": "https://www.macnica.co.jp/business/ai/case/142097/",
+    "pass": 3
+   },
+   {
+    "quote": "そんな同社が手掛ける試作事業においては、コロナ禍以前は毎月40～50点ほどのアイテムを試作品として作り上げてきた経緯があり、引き合いベースではその倍の規模を誇る相談が寄せられていたという",
+    "url": "https://www.macnica.co.jp/business/ai/case/142097/",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "・株式会社青木製作所へ資本出資 鋳物製造から機械加工完成へと業容拡大",
+    "url": "https://koiwai-miyagi.jimdofree.com/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85/",
+    "pass": 3
+   },
+   {
+    "quote": "日本積層造形株式会社（コイワイ、双日株式会社出資のJV、宮城県多賀城市）、東北大学、宮城県、宮城県産業技術センターなどとも連携して、試作製品や多品種少量の量産の製造をめざす国内外のスタートアップ企業家や企業からの技術相談、あるいは、工場、設備の貸与、製造請負などを行い、東北から世界に向けて３Dプリンターを使った事業を展開中です",
+    "url": "https://www.youtube.com/watch?v=FW9Pz0sEsQU",
+    "pass": 3
+   },
+   {
+    "quote": "起業当初は試作品や研究開発用の一品ものの鋳物を中心に事業を展開し、今では量産の鋳物分野や資本出資による機械加工も含めた事業を展開している",
+    "url": "https://www.macnica.co.jp/business/ai/case/142097/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 - 株式会社コイワイ — 会社概要 - 株式会社コイワイ 株式会社コイワイ https://www.tc-koiwai.co.jp > corporate-information",
+    "url": "https://www.tc-koiwai.co.jp/company/corporate-information/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社コイワイ | みやぎ移住・交流ガイド - 宮城県 — 株式 会社コイワイ | みやぎ移住・交流ガイド - 宮城県 みやぎ移住・交流ガイド https://miyagi-ijuguide.pref.miyagi.jp > company",
+    "url": "https://miyagi-ijuguide.pref.miyagi.jp/company/36746",
+    "pass": 3
+   },
+   {
+    "quote": "会社 案内 - 鋳造 株式 会社コイワイ 宮城工場 — 会社 案内 - 鋳造 株式 会社コイワイ 宮城工場 Jimdo https://koiwai-miyagi.jimdofree.com > 会社案内",
+    "url": "https://koiwai-miyagi.jimdofree.com/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙事業を新たな柱に… コイワイ 、 金属3Dプリンター で技術 ... — 宇宙事業を新たな柱に… コイワイ 、 金属3Dプリンター で技術 ... ニュースイッチ by 日刊工業新聞社 https://newswitch.jp > ...",
+    "url": "https://newswitch.jp/p/42007",
+    "pass": 3
+   },
+   {
+    "quote": "コイワイ が 金属3Dプリンター 技術の向上を狙う！宇宙事業へ ... — コイワイ が 金属3Dプリンター 技術の向上を狙う！宇宙事業へ ... キャド研 https://cad-kenkyujo.com > koiwai-kinzoku-printer",
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "[プレスリリース] コイワイ /JAMPTの 3Dプリント 技術、日本初 ... — [プレスリリース] コイワイ /JAMPTの 3Dプリント 技術、日本初 ... 株式会社コイワイ https://www.tc-koiwai.co.jp > info > プレスリリースコイワ...",
+    "url": "https://www.tc-koiwai.co.jp/info/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%B3%E3%82%A4%E3%83%AF%E3%82%A4-jampt%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E6%8A%80%E8%A1%93%E3%80%81%E6%97%A5%E6%9C%AC-2/",
+    "pass": 3
+   },
+   {
+    "quote": "主要 設備 | 株式会社 コイワイ — 主要 設備 | 株式会社 コイワイ 株式会社コイワイ https://www.tc-koiwai.co.jp > facility",
+    "url": "https://www.tc-koiwai.co.jp/facility/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 コイワイ | 型にはまらない鋳物屋 — 株式会社 コイワイ | 型にはまらない鋳物屋 株式会社コイワイ https://www.tc-koiwai.co.jp",
+    "url": "https://www.tc-koiwai.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 コイワイ | みやぎ移住・交流ガイド - 宮城県 — 株式会社 コイワイ | みやぎ移住・交流ガイド - 宮城県 みやぎ移住・交流ガイド https://miyagi-ijuguide.pref.miyagi.jp > company",
+    "url": "https://miyagi-ijuguide.pref.miyagi.jp/company/36746",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 コイワイ 様事例：高度な3Dデータ類似検索 ... - マクニカ — 株式会社 コイワイ 様事例：高度な3Dデータ類似検索 ... - マクニカ 株式会社マクニカ https://www.macnica.co.jp > ... > AI事業 > 導入事例",
+    "url": "https://www.macnica.co.jp/business/ai/case/142097/",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 - 鋳造 株式会社 コイワイ 宮城工場 — 会社案内 - 鋳造 株式会社 コイワイ 宮城工場 Jimdo https://koiwai-miyagi.jimdofree.com > 会社案内",
+    "url": "https://koiwai-miyagi.jimdofree.com/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 コイワイ ／【小田原・生産技術】 車通勤可/3D ... — 株式会社 コイワイ ／【小田原・生産技術】 車通勤可/3D ... リクルートエージェント https://www.r-agent.com > 神奈川県 > 小田原市",
+    "url": "https://www.r-agent.com/viewjob/jkaf1dd92b2e60136b/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 コイワイ \"型にはまらない鋳物屋 (IMONOYA)\" - X 株式会社 コイワイ \"型にはまらない鋳物屋 (IMONOYA)\" - X X https://x.com > tc_koiwai",
+    "url": "https://x.com/tc_koiwai",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 コイワイ \"型にはまらない鋳物屋 (IMONOYA)\" - X 株式会社 コイワイ \"型にはまらない鋳物屋 (IMONOYA)\" - X X https://x.com > @tc_koiwai",
+    "url": "https://x.com/tc_koiwai/status/2118157489103593887",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 コイワイ \"型にはまらない鋳物屋 (IMONOYA)\" on X 株式会社 コイワイ \"型にはまらない鋳物屋 (IMONOYA)\" on X X https://x.com > @tc_koiwai",
+    "url": "https://x.com/tc_koiwai/status/2059499844033466506",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 コイワイ \"型にはまらない鋳物屋 (IMONOYA)\" - X 株式会社 コイワイ \"型にはまらない鋳物屋 (IMONOYA)\" - X X https://x.com > @tc_koiwai",
+    "url": "https://x.com/tc_koiwai/status/2108470557067055403",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Miki Koiwai - Director, Corporate Communications Office ...Kosuke Koiwai - Identity Enthusiast / KDDI / OpenID ...砂型3Dプリンターで自動車向けギガキャスト用アルミフレームを試作 ― ...LinkedIn: Log In or Sign UpMarie Paule Kayihura Twizihirwe, MSc, PMP - LinkedInIsabel Marifons Martínez - Encargado de redes sociales en El ...Ashish Sahu - Engineer - Planning @ KALPATARU PROJECTS ... Director, Corporate Communications Office - Mi",
+    "url": "https://jp.linkedin.com/in/miki-koiwai-53255390",
+    "pass": 3
+   },
+   {
+    "quote": "Kosuke Koiwai - Identity Enthusiast / KDDI / OpenID ...砂型3Dプリンターで自動車向けギガキャスト用アルミフレームを試作 ― ...LinkedIn: Log In or Sign UpMarie Paule Kayihura Twizihirwe, MSc, PMP - LinkedInIsabel Marifons Martínez - Encargado de redes sociales en El ...Ashish Sahu - Engineer - Planning @ KALPATARU PROJECTS ... Identity Enthusiast / KDDI / OpenID Foundation · I'm a big fan of new technologies in any kind. Especiall",
+    "url": "https://jp.linkedin.com/in/koiwai",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "オートショップ コイワイ (@autoshop.koiwai) - Facebook オートショップ コイワイ (@autoshop.koiwai) - Facebook Facebook https://www.facebook.com > ... > Motor vehicle company",
+    "url": "https://www.facebook.com/autoshop.koiwai/",
+    "pass": 3
+   },
+   {
+    "quote": "メゾン・ コイワイ -無農薬無肥料野菜 - Facebook メゾン・ コイワイ -無農薬無肥料野菜 - Facebook Facebook https://www.facebook.com > ... > Marko > Varo aŭ servo",
+    "url": "https://www.facebook.com/p/%E3%83%A1%E3%82%BE%E3%83%B3%E3%82%B3%E3%82%A4%E3%83%AF%E3%82%A4-%E7%84%A1%E8%BE%B2%E8%96%AC%E7%84%A1%E8%82%A5%E6%96%99%E9%87%8E%E8%8F%9C-100032431131904/?locale=eo_EO",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tc-koiwai.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tc-koiwai.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tc-koiwai.co.jp/facility/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tc-koiwai.co.jp/info/%E3%80%90%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%80%91%E5%A5%B3%E6%80%A7%E6%B4%BB%E8%BA%8D%E6%8E%A8%E9%80%B2%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E4%B8%80%E8%88%AC%E4%BA%8B%E6%A5%AD%E4%B8%BB/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tc-koiwai.co.jp/info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tc-koiwai.co.jp/info/%E3%80%90%E5%B1%95%E7%A4%BA%E4%BC%9A%E3%80%91%E3%80%8Cjapan-mobility-show-bizweek-2026%E3%80%8D%E5%87%BA%E5%B1%95%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tc-koiwai.co.jp/info/%E3%80%90%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%80%91%E3%83%A1%E3%83%BC%E3%83%AB%E9%80%81%E5%8F%97%E4%BF%A1%E9%9A%9C%E5%AE%B3%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tc-koiwai.co.jp/info/%E3%80%90%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%80%91%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%BE%A9%E6%97%A7%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tc-koiwai.co.jp/info/%E3%80%90%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%80%91%E3%83%A1%E3%83%BC%E3%83%AB%E9%80%81%E5%8F%97%E4%BF%A1%E9%9A%9C%E5%AE%B3%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tc-koiwai.co.jp/info/%EF%BC%BB%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%EF%BC%BD%E5%A4%8F%E5%AD%A3%E4%BC%91%E6%A5%AD-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tc-koiwai.co.jp/info/%E3%80%90%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%80%91%E4%BB%A4%E5%92%8C8%E5%B9%B4%E5%BA%A6-%E6%97%A5%E6%9C%AC%E9%8B%B3%E9%80%A0%E5%B7%A5%E5%AD%A6%E4%BC%9A%E3%80%8C%E8%B1%8A%E7%94%B0%E8%B3%9E%E3%80%8D/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tc-koiwai.co.jp/info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tc-koiwai.co.jp/info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tc-koiwai.co.jp/info/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://miyagi-ijuguide.pref.miyagi.jp/company/36746",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://koiwai-miyagi.jimdofree.com/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newswitch.jp/p/42007",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/technology/new-aluminum-alloy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=FW9Pz0sEsQU",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://miyagi-ijuguide.pref.miyagi.jp/company/36746",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macnica.co.jp/business/ai/case/142097/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://miyagi-ijuguide.pref.miyagi.jp/company/36746",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.koiwaimilk.com/company/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/tc_koiwai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tc_koiwai/status/2118157489103593887",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tc_koiwai/status/2059499844033466506",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tc_koiwai/status/2108470557067055403",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/miki-koiwai-53255390",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/koiwai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/autoshop.koiwai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/%E3%83%A1%E3%82%BE%E3%83%B3%E3%82%B3%E3%82%A4%E3%83%AF%E3%82%A4-%E7%84%A1%E8%BE%B2%E8%96%AC%E7%84%A1%E8%82%A5%E6%96%99%E9%87%8E%E8%8F%9C-100032431131904/?locale=eo_EO",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "コイワイ",
+   "results": [
+    "https://www.tc-koiwai.co.jp/",
+    "https://miyagi-ijuguide.pref.miyagi.jp/company/36746",
+    "https://koiwai-miyagi.jimdofree.com/",
+    "https://www.macnica.co.jp/business/ai/case/142097/",
+    "https://ja.nc-net.or.jp/company/84179/",
+    "https://www.facebook.com/KOIWAIjapan/",
+    "https://ja.wikipedia.org/wiki/コロワイド",
+    "http://www.tc-koiwai.co.jp/",
+    "https://www.tc-koiwai.co.jp/company/corporate-information/",
+    "https://koiwai-miyagi.jimdofree.com/会社案内/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "コイワイ 会社概要 資本金 設立",
+   "results": [
+    "https://www.tc-koiwai.co.jp/company/corporate-information/",
+    "https://miyagi-ijuguide.pref.miyagi.jp/company/36746",
+    "https://koiwai-miyagi.jimdofree.com/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85/",
+    "https://www.koiwai.co.jp/company",
+    "https://www.koiwaimilk.com/company/profile/",
+    "https://www.r-agent.com/company/d6487/",
+    "https://initial.inc/investors/V11889",
+    "https://lawplayer.com/jp/company/2013101004544",
+    "https://mono.ipros.com/company/detail/2006182/",
+    "https://compalyze.co.jp/company/6021001022513"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "コイワイ 金属3Dプリンタ 導入",
+   "results": [
+    "https://newswitch.jp/p/42007",
+    "https://cad-kenkyujo.com/koiwai-kinzoku-printer/",
+    "https://jampt.jp/technology/",
+    "https://www.nikkan.co.jp/articles/view/715669",
+    "https://www.tc-koiwai.co.jp/info/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%B3%E3%82%A4%E3%83%AF%E3%82%A4-jampt%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E6%8A%80%E8%A1%93%E3%80%81%E6%97%A5%E6%9C%AC-2/",
+    "https://kk-ariga.co.jp/metal_3d_printer/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B/",
+    "https://www.macnica.co.jp/business/ai/case/142097/",
+    "https://miyagi-ijuguide.pref.miyagi.jp/company/36746",
+    "https://www.ge.com/news/press-releases/ge-additive-accepts-the-worlds-largest-metal-3d-printers/jp",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am03-05.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "コイワイ 金属積層造形 設備",
+   "results": [
+    "https://jampt.jp/technology/new-aluminum-alloy/",
+    "https://www.youtube.com/watch?v=FW9Pz0sEsQU",
+    "https://www.tc-koiwai.co.jp/facility/",
+    "https://chuokatan.co.jp/products/3dp/",
+    "https://jampt.jp/technology/",
+    "https://www.nikkei.com/article/DGXLRSP463089_T11C17A1000000/",
+    "https://www.koeitool.com/business/3d-modeling.html",
+    "https://www.joyobank.co.jp/enterpri/monozukuri/2018/2-03-05.html",
+    "https://koiwai-miyagi.jimdofree.com/%E8%A8%AD%E5%82%99/",
+    "https://www.tc-koiwai.co.jp/business-content/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "コイワイ 株主 出資 親会社",
+   "results": [
+    "https://www.tc-koiwai.co.jp/",
+    "https://miyagi-ijuguide.pref.miyagi.jp/company/36746",
+    "https://www.macnica.co.jp/business/ai/case/142097/",
+    "https://koiwai-miyagi.jimdofree.com/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85/",
+    "https://www.facebook.com/KOIWAIjapan/",
+    "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B2%A9%E4%BA%95%E4%B9%B3%E6%A5%AD",
+    "https://www.tvk-yokohama.com/business/1709.php",
+    "https://www.youtube.com/watch?v=Vd-HFaEE1Gg",
+    "https://www.tc-koiwai.co.jp/company/corporate-information/",
+    "https://ja.wikipedia.org/wiki/小岩井乳業"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "コイワイ 売上高 従業員数",
+   "results": [
+    "https://www.tc-koiwai.co.jp/company/corporate-information/",
+    "https://miyagi-ijuguide.pref.miyagi.jp/company/36746",
+    "https://www.koiwaimilk.com/company/profile/",
+    "https://www.r-agent.com/viewjob/jkaf1dd92b2e60136b/",
+    "https://koiwai-miyagi.jimdofree.com/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85/",
+    "https://job.mynavi.jp/27/pc/search/corp55401/outline.html",
+    "https://toranet.jp/viewjob/af1dd92b2e60136b/",
+    "https://compalyze.co.jp/company/6021001022513",
+    "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%A4%E3%83%AF%E3%82%A4",
+    "https://jobcatalog.yahoo.co.jp/company/1500138224/information/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com コイワイ",
+   "results": [
+    "https://note.com/howtokabaddi/n/nc79ad743ae30",
+    "https://note.com/techsta_miyagi/n/n2372fde2b66d",
+    "https://note.com/howtokabaddi/n/n0d9c2a7bc941",
+    "https://note.com/howtokabaddi/n/n4ca1f9cf2571",
+    "https://note.com/howtokabaddi/n/nfc3eaec9b1d8",
+    "https://note.com/howtokabaddi/n/n2e643d6471e6",
+    "https://note.com/howtokabaddi/n/nc695d1b443bd",
+    "https://note.com/yukino_diary/n/n9a4ca8792dfd",
+    "https://note.com/modern_lotus226/n/n73d20d778c39",
+    "https://note.com/hanakoiwai"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:x.com コイワイ",
+   "results": [
+    "https://x.com/tc_koiwai",
+    "https://x.com/tc_koiwai/status/2118157489103593887",
+    "https://x.com/tc_koiwai/status/2059499844033466506",
+    "https://x.com/tc_koiwai/status/2108470557067055403",
+    "https://x.com/tc_koiwai/status/2059115789173813624",
+    "https://x.com/MITSUBA_KOIWAI",
+    "https://x.com/tc_koiwai/status/1927990856554008814?lang=cs",
+    "https://x.com/tc_koiwai/status/2060250961940287646",
+    "https://x.com/tc_koiwai/status/2013443688547143826",
+    "https://x.com/tc_koiwai/status/2100756528475373740"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:linkedin.com コイワイ",
+   "results": [
+    "https://jp.linkedin.com/in/%E7%BE%8E%E8%8A%B1-%E5%B1%B1%E5%92%B2-846b042b7",
+    "https://jp.linkedin.com/in/miki-koiwai-53255390",
+    "https://jp.linkedin.com/in/koiwai",
+    "https://ca.linkedin.com/in/mariepauletwizihirwekayihura",
+    "https://www.linkedin.com/",
+    "https://www.linkedin.com/posts/sharelab-jp_砂型3dプリンターで自動車向けギガキャスト用アルミフレームを試作-コイワイ-activity-7151369767990251520-MnLz",
+    "https://es.linkedin.com/in/isabel-marifons-martínez-257a213b3",
+    "https://in.linkedin.com/in/ashishsahu10"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:facebook.com コイワイ",
+   "results": [
+    "https://www.facebook.com/KOIWAIjapan/",
+    "https://www.facebook.com/autoshop.koiwai/",
+    "https://www.facebook.com/mireisk8/videos/%E5%9E%8B%E3%81%AB%E3%81%AF%E3%81%BE%E3%82%89%E3%81%AA%E3%81%84%E9%8B%B3%E7%89%A9%E5%B1%8Bimonoya%E3%81%95%E3%82%93%E6%A0%AA%E3%82%B3%E3%82%A4%E3%83%AF%E3%82%A4%E6%A0%AA%E9%9D%92%E6%9C%A8%E8%A3%BD%E4%BD%9C%E6%89%80%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%88%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97gekko%E3%81%AE%E3%82%B3%E3%83%A9%E3%83%9C%E3%81%A7%E6%97%A5%E6%9C%AC%E8%BB%8A%E9%83%A8%E5%93%81%E3%82%92%E8%A3%BD%E4%BD%9C%E3%81%99%E3%82%8B%E6%8A%80%E8%A1%93%E3%81%A7%E7%B4%94%E5%9B%BD%E7%94%A3%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E3%82%92%E9%96%8B%E5%82%AC%E4%B8%AD%E6%9D%B1%E4%BA%AC%E3%83%93%E3%83%83%E3%82%B0%E3%82%B5%E3%82%A4%E3%83%88/1620979372994054/",
+    "https://www.facebook.com/p/%E3%83%A1%E3%82%BE%E3%83%B3%E3%82%B3%E3%82%A4%E3%83%AF%E3%82%A4-%E7%84%A1%E8%BE%B2%E8%96%AC%E7%84%A1%E8%82%A5%E6%96%99%E9%87%8E%E8%8F%9C-100032431131904/?locale=eo_EO",
+    "https://www.facebook.com/100032431131904/?locale=km_KH",
+    "https://www.facebook.com/groups/484945947661277/posts/1120350590787473/",
+    "https://www.facebook.com/tamayouiku/videos/%E7%A6%8F%E7%A5%89%E3%81%BE%E3%81%A4%E3%82%8A2025%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%882025%E5%B9%B411%E6%9C%889%E6%97%A5%E9%96%8B%E5%82%AC%E3%81%AE%E5%A4%9A%E6%91%A9%E9%A4%8A%E8%82%B2%E5%9C%92%E7%A6%8F%E7%A5%89%E3%81%BE%E3%81%A4%E3%82%8A2025%E3%81%AE%E6%A7%98%E5%AD%90%E3%82%92%E3%81%8A%E5%B1%8A%E3%81%91%E3%81%97%E3%81%BE%E3%81%99%E3%81%9F%E3%81%8F%E3%81%95%E3%82%93%E3%81%AE%E3%81%94%E6%94%AF%E6%8F%B4%E3%81%94%E5%8D%94%E5%8A%9B%E3%82%92%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E5%A4%9A%E6%91%A9/1928565837724515/",
+    "https://www.facebook.com/100032431131904/?locale=mt_MT",
+    "https://www.facebook.com/khb5ch/mentions/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "コイワイ note 社長",
+   "results": [
+    "https://www.tc-koiwai.co.jp/company/corporate-information/",
+    "https://www.facebook.com/KOIWAIjapan/",
+    "https://www.tvk-yokohama.com/business/1709.php",
+    "https://miyagi-ijuguide.pref.miyagi.jp/company/36746",
+    "https://www.macnica.co.jp/business/ai/case/142097/",
+    "https://www.nikkan.co.jp/articles/view/715669",
+    "https://www.nttd-es.co.jp/magazine/backnumber/no48/no48-koiwai.html",
+    "https://www.youtube.com/watch?v=Vd-HFaEE1Gg",
+    "https://www.nikkei.com/article/DGXZRSP628056_Q2A310C2000000/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "コイワイ X 投稿",
+   "results": [
+    "https://x.com/KOIWAioy",
+    "https://www.tc-koiwai.co.jp/quality-management/",
+    "https://www.facebook.com/KOIWAIjapan/",
+    "https://www.youtube.com/channel/UCqCnLUNp11sdiN_qJ1d5_FA",
+    "https://x.com/koiwai_kotori/status/1541607806553403393",
+    "https://www.youtube.com/watch?v=Vd-HFaEE1Gg",
+    "https://miyagi-ijuguide.pref.miyagi.jp/company/36746",
+    "https://syukatsu-kaigi.jp/companies/117221/word_mouths",
+    "https://x.com/MITSUBA_KOIWAI/status/2100607043086569728",
+    "https://x.com/koiwaiiii/status/2120121408948998211"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部19頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部19頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部19頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部19頁・検索12回）"
+ }
+}

@@ -1,0 +1,394 @@
+{
+ "name": "HeyVoice.ai",
+ "aliases": [],
+ "context": "旧営業リスト｜Education / Childcare｜未接触",
+ "researched_at": "2026-11-10T19:08:47.357566+00:00",
+ "official_url": "https://hivox.tech/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {},
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://hivox.tech/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://leadsia.ai/blog/domestic-vs-overseas-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.advanced-media.co.jp/newsrelease/12288/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://elevenlabs.io/ja/text-to-speech/japanese",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://readspeaker.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bizresearch.net/prod/472",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://product.hiway.app/features/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/business/product/aiit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.miraiai.jp/agent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://elevenlabs.io/text-to-speech/japanese",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japantoday.com/category/tech/japan-sets-voice-rights-guideline-to-target-unauthorized-ai-use",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.camb.ai/ja/text-to-speech/japanese",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://play.google.com/store/apps/details?id=com.tombuildsai.expopractice",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/ai-use-in-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://f7i.ai/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automate.org/ai/industry-insights/case-studies-ai-advanced-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0164121225002286",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://botpenguin.com/partners/white-label-ai-voice-agents",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1rf9jok/best_white_label_voice_ai_for_marketing_agencies/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://stammer.ai/post/best-white-label-ai-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=gtFt5exyCaI&vl=ja",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/haiper.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newmarketpitch.com/blogs/news/ai-infrastructure-growing-without-burning-billions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.companieshistory.com/heygen-ai-statistics/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "HeyVoice.ai 日本 導入",
+   "results": [
+    "https://leadsia.ai/blog/domestic-vs-overseas-ai",
+    "https://www.advanced-media.co.jp/newsrelease/12288/",
+    "https://elevenlabs.io/ja/text-to-speech/japanese",
+    "https://readspeaker.jp/",
+    "https://onecapital.jp/perspectives/voice-ai-2025",
+    "https://xtech.nikkei.com/atcl/nxt/news/18/00519/",
+    "https://aismiley.co.jp/ai-news_category/voice-recognition/",
+    "https://www.youtube.com/watch?v=femLcLNsqiY",
+    "https://aipicks.jp/tool/voice-ai/japanese",
+    "https://note.com/lucky_hornet941/n/n30e4f9e0d292"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "HeyVoice.ai 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://bizresearch.net/prod/472",
+    "https://product.hiway.app/features/",
+    "https://b-seeds.com/business/product/aiit",
+    "https://www.miraiai.jp/agent/",
+    "https://www.knowleful.ai/partner/",
+    "https://ai-gage.com/partner/",
+    "https://note.com/dapper_clover965/n/nc42d96f63788",
+    "https://prtimes.jp/main/html/rd/p/000000048.000046872.html",
+    "https://exawizards.com/exabase/gpt/agent/",
+    "https://ja.wikipedia.org/wiki/ByteDance"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "HeyVoice.ai Japan",
+   "results": [
+    "https://elevenlabs.io/text-to-speech/japanese",
+    "https://japantoday.com/category/tech/japan-sets-voice-rights-guideline-to-target-unauthorized-ai-use",
+    "https://www.camb.ai/text-to-speech/japanese",
+    "https://play.google.com/store/apps/details?id=com.tombuildsai.expopractice",
+    "https://www.jdsupra.com/legalnews/japan-finds-its-voice-protecting-the-3798964/",
+    "https://fliki.ai/voices/japanese",
+    "https://mainichi.jp/english/articles/20241115/p2a/00m/0et/032000c",
+    "https://www.voiceoverherald.com/japan-free-voice-consultation-desk-ai-voice-copies-voicence/",
+    "https://english.kyodonews.net/articles/-/79833",
+    "https://www.heygen.com/text-to-speech/japanese"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "HeyVoice.ai manufacturing customer case study",
+   "results": [
+    "https://digitaldefynd.com/IQ/ai-use-in-manufacturing-case-studies/",
+    "https://f7i.ai/case-studies",
+    "https://www.automate.org/ai/industry-insights/case-studies-ai-advanced-manufacturing",
+    "https://www.sciencedirect.com/science/article/pii/S0164121225002286",
+    "https://www.crescendo.ai/blog/automated-customer-service-examples",
+    "https://eightgen.ai/case-studies/case-study-4",
+    "https://www.vktr.com/ai-disruption/5-ai-case-studies-in-manufacturing/",
+    "https://www.leewayhertz.com/case-studies/",
+    "https://www.capellasolutions.com/blog/case-studies-successful-ai-implementations-in-various-industries",
+    "https://mfgsoftwarelab.com/case-studies/ai-voice-assistant-manufacturing-customer-support/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "HeyVoice.ai white label OR reseller OR partner program",
+   "results": [
+    "https://botpenguin.com/partners/white-label-ai-voice-agents",
+    "https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies",
+    "https://www.reddit.com/r/AI_Agents/comments/1rf9jok/best_white_label_voice_ai_for_marketing_agencies/",
+    "https://stammer.ai/post/best-white-label-ai-software",
+    "https://www.myaifrontdesk.com/blogs/exploring-white-label-ai-voice-agents-what-you-need-to-know",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://trillet.ai/blogs/whitelabel-guide",
+    "https://www.ringlyn.com/blog/white-label-voice-ai-marketing-agencies/",
+    "https://www.voicy.ai/reseller-program/",
+    "https://www.fusioncalling.com/whitelabel/reseller-program"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "HeyVoice.ai founded funding employees revenue",
+   "results": [
+    "https://www.youtube.com/watch?v=gtFt5exyCaI&vl=ja",
+    "https://getlatka.com/companies/haiper.ai",
+    "https://newmarketpitch.com/blogs/news/ai-infrastructure-growing-without-burning-billions",
+    "https://www.companieshistory.com/heygen-ai-statistics/",
+    "https://news.crunchbase.com/venture/voice-ai-startups-global-investment/",
+    "https://fortune.com/2025/11/11/beside-ai-voice-startup-raises-32-million-ai-receptionist-for-small-business/",
+    "https://finance.yahoo.com/technology/ai/articles/london-ai-founders-line-5bn-191129275.html",
+    "https://tracxn.com/d/companies/voicing-ai/__3D83rSza6XuMkGSFDUS43xZvmK7mqMC7foVsga8cdu0",
+    "https://www.fiercehealthcare.com/health-tech/hello-patient-secures-225m-investors-bet-ai-voice-agent-growth",
+    "https://www.crunchbase.com/organization/hey-voice"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "site:note.com HeyVoice.ai",
+   "results": [
+    "https://note.com/izunohiranari/n/n42c6351ecec0?hl=en",
+    "https://note.com/smassan/n/nc386860b32cf?hl=en",
+    "https://note.com/modern_dill3027/n/n19a21fe489e3?hl=en",
+    "https://note.com/alam_2076/n/n3625ba9abbcb?hl=en",
+    "https://note.com/andmin061/n/n69f04499f5ce?hl=en",
+    "https://note.com/ikuseikonanai_/n/n7666a37f3b34?hl=en",
+    "https://note.com/aizuna/n/n5011d805ea3a?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/viitornohito/n/n63676108ace5?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:x.com HeyVoice.ai",
+   "results": [
+    "https://x.com/ItsNotMika/status/1898391303131390256",
+    "https://x.com/BigBenVa1/status/2100728140301815912",
+    "https://x.com/BigBenVa1/status/2094843125613379876",
+    "https://x.com/Jonbi_88/status/2021674033721352463",
+    "https://x.com/BigBenVa1/status/2110912900751831068",
+    "https://x.com/BigBenVa1/status/2094491996908085589",
+    "https://x.com/BigBenVa1/status/2101424344354422999",
+    "https://x.com/BigBenVa1/status/2114511897584357545",
+    "https://x.com/BigBenVa1/status/2100794870961168839",
+    "https://x.com/BigBenVa1/status/1957493565250236441/video/1"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com HeyVoice.ai",
+   "results": [
+    "https://www.linkedin.com/in/vickilvandehey",
+    "https://au.linkedin.com/in/chitrang89",
+    "https://www.linkedin.com/in/ben-kramer-b6b2371aa",
+    "https://www.linkedin.com/in/lisafostervoice",
+    "https://de.linkedin.com/in/natalia-szymczyk-1b8484261",
+    "https://in.linkedin.com/in/gauravkarnataki",
+    "https://www.linkedin.com/in/alexmitts"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com HeyVoice.ai",
+   "results": [
+    "https://www.facebook.com/avatarlegends/posts/hey-voice-actor-kimberly-woods-just-one-question-wheres-uki-and-a-follow-up-ques/1608447871322523/",
+    "https://www.facebook.com/NBCTheVoice/posts/hey-voice-fans-nows-your-chance-to-win-a-trip-for-four-to-experience-universal-o/1121680925980355/",
+    "https://www.facebook.com/NBCTheVoice/posts/hey-voice-fans-todays-the-last-day-to-enter-to-win-a-trip-for-four-to-experience/1241262664022180/",
+    "https://www.facebook.com/NBCTheVoice/posts/hey-voice-fans-nows-your-chance-to-win-a-trip-for-four-to-experience-universal-o/1235323271282786/",
+    "https://www.facebook.com/voiceinthevalley/posts/hey-voice-in-the-valley-fam-our-vocal-showcase-is-only-1-week-away-if-you-are-pl/1598016009000279/",
+    "https://www.facebook.com/BoBarkerVO/posts/hey-voice-talentthere-are-95-days-left-in-2026-as-of-today-sunday-september-27-2/1790150218811874/",
+    "https://www.facebook.com/groups/3352834581472587/posts/28209661045363263/",
+    "https://www.facebook.com/heyvoiceinc/",
+    "https://www.facebook.com/heyvoice/",
+    "https://business.facebook.com/groups/bedtimestoryco/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "HeyVoice.ai note 社長",
+   "results": [
+    "https://note.com/ai_shacho",
+    "https://note.jp/n/n61ffb9f9bf8f",
+    "https://note.com/dai0303/n/n8c8a67ecb44d",
+    "https://www.heyreach.io/blog/voice-notes-are-live",
+    "https://www.youtube.com/watch?v=LTksRRZCT38",
+    "https://note.com/hennge/n/n02be46228ac5",
+    "https://x.com/sadaaki",
+    "https://hutzper.com/news/notice/n261025/",
+    "https://prtimes.jp/main/html/rd/p/000000113.000124536.html",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "HeyVoice.ai X 投稿",
+   "results": [
+    "https://digirise.ai/chaen-ai-lab/x/",
+    "https://tech-lab.sios.jp/archives/54667",
+    "https://debono.co.jp/media/x-toko-ai-sakusei/",
+    "https://x.ai/voice/text-to-speech",
+    "https://www.heygen.com/",
+    "http://www.kobe-np.co.jp/news/society/202609/0020790642.shtml",
+    "https://www.youtube.com/watch?v=Sqxf9YqWqIU",
+    "https://www.reddit.com/r/n8n/comments/1prxv82/built_an_ai_agent_that_autoposts_to_xtwitter/?tl=ja",
+    "https://note.com/machimachijapan/n/n08c2e055ee40"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "採用・広告の製品": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）"
+ }
+}

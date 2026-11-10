@@ -1,0 +1,1616 @@
+{
+ "name": "多田電機株式会社",
+ "aliases": [],
+ "context": "PBF=yes 装置=粉末床溶融結合;電子ビーム金属3D 出典=http://www.tadadenki.jp/welding_machines/metal_3d_printer/ez300.html",
+ "researched_at": "2026-11-10T19:11:37.905344+00:00",
+ "official_url": "http://www.tadadenki.jp/",
+ "identified_by": "search:yahoo_jp:多田電機",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "創立",
+    "value": "創立：1963年11月1日",
+    "url": "http://www.tadadenki.jp/about_tada/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1963年11月1日",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1963/11/01",
+    "url": "https://www.careermap.jp/corporations/99450",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1963年11月01日",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1963年11月",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "label": "設立日",
+    "value": "設立日：1963年10月",
+    "url": "https://syukatsu-kaigi.jp/companies/4339",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "3億円",
+    "url": "http://www.tadadenki.jp/about_tada/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "3億円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "300,000,000円 (3億円)",
+    "url": "https://www.careermap.jp/corporations/99450",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "300百万円",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "3億円",
+    "url": "https://syukatsu-kaigi.jp/companies/4339",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "134.4億円（2025年度実績）",
+    "url": "http://www.tadadenki.jp/about_tada/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "2024年度実績：125.7億円 2025年度実績：134.4億円 2026年度計画：123.4億円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "2024年度実績：125.7億円\n2025年度実績：134.4億円\n2026年度計画：123.4億円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "年商",
+    "value": "7,450百万円 (74億5000万円（2023年度）)",
+    "url": "https://www.careermap.jp/corporations/99450",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "125億6886万9000円",
+    "url": "https://syukatsu-kaigi.jp/companies/4339",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "125億6886万円",
+    "url": "https://syukatsu-kaigi.jp/companies/4339",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "兵庫県尼崎市塚口本町8丁目1番1号 三菱電機（株）伊丹製作所内",
+    "url": "http://www.tadadenki.jp/about_tada/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "兵庫県川西市",
+    "url": "http://www.tadadenki.jp/about_tada/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "本社郵便番号",
+    "value": "661-0001",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "兵庫県尼崎市塚口本町8丁目1番1号 三菱電機(株)伊丹製作所内",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社電話番号",
+    "value": "06-6496-2291（代表）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "兵庫県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "群馬県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "愛知県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "大阪府",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "京都府",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "埼玉県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "神奈川県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "岡山県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "静岡県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "兵庫県川西市",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "〒661-0001  兵庫県尼崎市塚口本町8-1-1",
+    "url": "https://www.careermap.jp/corporations/99450",
+    "pass": 3
+   },
+   {
+    "label": "本社へのアクセス",
+    "value": "JR塚口駅より徒歩10分～、\n阪急塚口駅より徒歩20分～",
+    "url": "https://www.careermap.jp/corporations/99450",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都、香川県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "富山県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "広島県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "北海道",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "和歌山県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "兵庫県 、 広島県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "661-0001兵庫県尼崎市塚口本町８－１－１",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "label": "本社以外の事業所",
+    "value": "■応用機工場(兵庫)　■熱交換器工場(岡山)　■東京営業所(東京) ■東京サービス室(東京)　■中部サービス室(愛知)",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "〒100-6640 東京都千代田区丸の内1-9-2 グラントウキョウサウスタワー",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "兵庫県 尼崎市 塚口本町8丁目1番1号（三菱電機(株) 伊丹製作所内）",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "〒661-0001 兵庫県尼崎市 塚口本町８－１－１ 三菱電機(株)内",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "label": "本社以外の事業所",
+    "value": "■応用機工場(兵庫) ■熱交換器工場(岡山) ■東京営業所(東京)",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "福井県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "山梨県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "〒661-0001 兵庫県尼崎市塚口本町8丁目1番1号",
+    "url": "https://syukatsu-kaigi.jp/companies/4339",
+    "pass": 3
+   },
+   {
+    "label": "本社：",
+    "value": "東京都",
+    "url": "https://syukatsu-kaigi.jp/companies/4339",
+    "pass": 3
+   },
+   {
+    "label": "本社：",
+    "value": "宮城県",
+    "url": "https://syukatsu-kaigi.jp/companies/4339",
+    "pass": 3
+   },
+   {
+    "label": "本社：",
+    "value": "兵庫県",
+    "url": "https://syukatsu-kaigi.jp/companies/4339",
+    "pass": 3
+   },
+   {
+    "label": "本社：",
+    "value": "大阪府",
+    "url": "https://syukatsu-kaigi.jp/companies/4339",
+    "pass": 3
+   },
+   {
+    "label": "本社：",
+    "value": "京都府",
+    "url": "https://syukatsu-kaigi.jp/companies/4339",
+    "pass": 3
+   },
+   {
+    "label": "本社：",
+    "value": "神奈川県",
+    "url": "https://syukatsu-kaigi.jp/companies/4339",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "■鉄鋼用溶接機、電子ビーム加工機の製造並びに販売 鉄鋼の加工プロセスに使用される鉄鋼用溶接機や、自動車部品などを溶接する電子ビーム加工機などを開発・製造・販売しています。 ■各種熱交換器の製造並びに販売 純水冷却器、変圧器用風冷式冷却機、粉体乾燥用ヒータなど、それぞれの用途に合わせた熱交換器を開発・製造・販売しています。 ■オゾン発生装置の製造並びに販売 オゾンの酸化力を利用した強力な殺菌・脱色・脱臭効果を幅広い用途に適用して開発・製造・販売しています。 ＃多田電機を表すキーワード 三菱電機グループ、兵庫県、尼崎市、岡山県、瀬戸内市、東京都、港区、千代田区、愛知県、三河安城市、製造業、メーカー、インフラ、電子ビーム、溶接、レーザー、３Dプリンタ、熱交換器、精密機器、BtoB、研究、開発、設計、技術、エンジニア、品質管理、品質保証、営業、文理不問、理系歓迎、電気電子、機械、ハードウェア、ソフトウェア、回路、CAD、PLC、組み込み、ライフワークバランス、完全週休二日、年間休日120日以上、125日、有休20日以上、半休、時間休、世界トップクラスシェア、研修充実、フレックスタイム、家賃補助",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "電子ビーム加工機・鉄鋼プロセス用溶接機・電力・産業用の各種熱交換器・オゾン発生装置及びこれらの部品の製造",
+    "url": "https://www.careermap.jp/corporations/99450",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "■電子ビーム加工機、鉄鋼用溶接機の製造並びに販売\n■各種熱交換器及び同部品の製造並びに販売\n■オゾン発生装置及び同部品の製造並びに販売",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "職業紹介",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "■電子ビーム加工機、鉄鋼用溶接機の製造並びに販売",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "347人",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "324人 (324人（2024年2月現在）)",
+    "url": "https://www.careermap.jp/corporations/99450",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "347人",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "337人",
+    "url": "https://syukatsu-kaigi.jp/companies/4339",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "株主構成",
+    "value": "三菱電機(株)100％",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "主な株主",
+    "value": "三菱電機株式会社 100.0％",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "金属3Dプリンタ",
+    "url": "http://www.tadadenki.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ファインプロセスコントロール電子ビーム加工機",
+    "url": "http://www.tadadenki.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "JIMTOF2026第33回日本国際工作機械見本市の三菱電機ブースに電子ビーム加工機のサンプルを出展します",
+    "url": "http://www.tadadenki.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "JIMTOF2024第32回日本国際工作機械見本市の三菱電機ブースに電子ビーム加工機、電子ビーム金属3Dプリンタのサンプルを出展します",
+    "url": "http://www.tadadenki.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "三菱電機メカトロニクス情報誌「MECHATRO+」で電子ビーム加工機が紹介されました",
+    "url": "http://www.tadadenki.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2024国際ウェルディングショーの三菱電機ブースに電子ビーム加工機、電子ビーム金属3Dプリンタのサンプルを出展します",
+    "url": "http://www.tadadenki.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "真空ジャーナル（日本真空工業会発行) '23年7月号で電子ビーム加工機が紹介されました",
+    "url": "http://www.tadadenki.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム加工機事業「サービス拠点」を開所しました",
+    "url": "http://www.tadadenki.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム加工機による受託加工を始めました",
+    "url": "http://www.tadadenki.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム金属3Dプリンタ [EZ300]が2020年度グッドデザイン賞を受賞しました",
+    "url": "http://www.tadadenki.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタ製品",
+    "url": "http://www.tadadenki.jp/welding_machines/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム金属3Dプリンタ",
+    "url": "http://www.tadadenki.jp/welding_machines/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "ファインプロセスコントロール電子ビーム加工機",
+    "url": "http://www.tadadenki.jp/welding_machines/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動車産業をはじめ航空・宇宙分野、研究機関などで活躍するTADAの電子ビーム加工機",
+    "url": "http://www.tadadenki.jp/welding_machines/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム金属3Dプリンタ｜金属3Dプリンタ製品｜溶接機｜多田電機株式会社",
+    "url": "http://www.tadadenki.jp/welding_machines/metal_3d_printer/ez300.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタ製品",
+    "url": "http://www.tadadenki.jp/welding_machines/metal_3d_printer/ez300.html",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム金属3Dプリンタ",
+    "url": "http://www.tadadenki.jp/welding_machines/metal_3d_printer/ez300.html",
+    "pass": 1
+   },
+   {
+    "quote": "ファインプロセスコントロール電子ビーム加工機",
+    "url": "http://www.tadadenki.jp/welding_machines/metal_3d_printer/ez300.html",
+    "pass": 1
+   },
+   {
+    "quote": "国産初の電子ビームを熱源とする粉末床溶融結合方式の金属3Dプリンタ「EZ300」を製品化しました",
+    "url": "http://www.tadadenki.jp/welding_machines/metal_3d_printer/ez300.html",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム方式は、高いエネルギー吸収率、酸化低減、低歪みといった特長を持ち、高融点・高反射材料の造形に優位な方式です",
+    "url": "http://www.tadadenki.jp/welding_machines/metal_3d_printer/ez300.html",
+    "pass": 1
+   },
+   {
+    "quote": "造形サイズ：220×220×300mm 加速電圧60kV 電子ビーム出力6kW",
+    "url": "http://www.tadadenki.jp/welding_machines/metal_3d_printer/ez300.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉄鋼用溶接機、電子ビーム加工機及び同部品の製造並びに販売",
+    "url": "http://www.tadadenki.jp/about_tada/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム加工機 アフターサービス事業開始",
+    "url": "http://www.tadadenki.jp/about_tada/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタ製品｜溶接機｜多田電機株式会社",
+    "url": "http://www.tadadenki.jp/welding_machines/metal_3d_printer/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタ製品",
+    "url": "http://www.tadadenki.jp/welding_machines/metal_3d_printer/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム金属3Dプリンタ",
+    "url": "http://www.tadadenki.jp/welding_machines/metal_3d_printer/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ファインプロセスコントロール電子ビーム加工機",
+    "url": "http://www.tadadenki.jp/welding_machines/metal_3d_printer/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタ製品",
+    "url": "http://www.tadadenki.jp/welding_machines/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム金属3Dプリンタ",
+    "url": "http://www.tadadenki.jp/welding_machines/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ファインプロセスコントロール電子ビーム加工機",
+    "url": "http://www.tadadenki.jp/welding_machines/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "世界最大出力電子ビーム加工機（120kW）納入",
+    "url": "http://www.tadadenki.jp/welding_machines/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "パッケージ型（全装可搬タイプ）電子ビーム加工機を納入",
+    "url": "http://www.tadadenki.jp/welding_machines/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ムービングガン式大出力電子ビーム加工機完成",
+    "url": "http://www.tadadenki.jp/welding_machines/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "世界最大出力ムービングガン式電子ビーム加工機（150kW）完成",
+    "url": "http://www.tadadenki.jp/welding_machines/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "連続排気方式（カセット）EBM第1号機を納入",
+    "url": "http://www.tadadenki.jp/welding_machines/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "微細接合用300WEBM第1号機を納入",
+    "url": "http://www.tadadenki.jp/welding_machines/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "微細接合用300W量産型EBMをはじめて水晶振動子へ適用",
+    "url": "http://www.tadadenki.jp/welding_machines/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "A/T用大型カセット式EBMを受注開発し、納入",
+    "url": "http://www.tadadenki.jp/welding_machines/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ハイブリッド車搭載2次電池用EBMシステムを納入",
+    "url": "http://www.tadadenki.jp/welding_machines/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ファインプロセスコントロール電子ビーム加工機（FPC-EBM）開発",
+    "url": "http://www.tadadenki.jp/welding_machines/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "新型150kV高電圧EBM開発",
+    "url": "http://www.tadadenki.jp/welding_machines/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "国産初の電子ビーム金属3DプリンタEZ300を製品化",
+    "url": "http://www.tadadenki.jp/welding_machines/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "j したワイヤ・レーザ人金属3Dプリンタ",
+    "url": "http://www.tadadenki.jp/news/JIM2024_Invitation.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「電子ビーム」 が創り出す 「造形」 「切断」 「溶接」 「孔あけ」",
+    "url": "http://www.tadadenki.jp/news/2024WeldingShow_Invitation.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "国内メーカーとして初めて開発に成功した電子ビーム方式の金属3Dプリンタ",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "1963年に三菱電機の100％出資により設立された多田電機は、電子ビーム加工機・鉄鋼プロセス用溶接機・熱交換器などの開発・製造・販売を手掛ける産業装置メーカーです",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "熱交換器・溶接機・電子ビーム加工機すべての分野で世界トップクラスのシェアを誇っています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "【国内初！電子ビーム方式の金属3Dプリンタを開発】",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本のものづくり産業がグローバルでも競争力を発揮するため、政府主導で立ち上げられたTRAFAM（技術研究組合次世代3D積層造形技術総合開発機構）をご存知でしょうか？当社はこの団体に名を連ね、国内メーカーとして初めて（※）電子ビーム方式の金属3Dプリンタの開発に成功しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "同製品は2019年9月から三菱電機を通じて発売され、まずは工業試験場や大学への導入を図り、将来的には航空機や自動車、医療分野などへの拡販を目指しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "電子ビーム加工機：自動車、航空・宇宙などの高精度な溶接・加工に活躍",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "電子ビーム加工機、鉄鋼用溶接機、熱交換器のいずれも、世界トップクラスのシェアを誇る分野です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "■鉄鋼用溶接機、電子ビーム加工機の製造並びに販売",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼の加工プロセスに使用される鉄鋼用溶接機や、自動車部品などを溶接する電子ビーム加工機などを開発・製造・販売しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機グループ、兵庫県、尼崎市、岡山県、瀬戸内市、東京都、港区、千代田区、愛知県、三河安城市、製造業、メーカー、インフラ、電子ビーム、溶接、レーザー、３Dプリンタ、熱交換器、精密機器、BtoB、研究、開発、設計、技術、エンジニア、品質管理、品質保証、営業、文理不問、理系歓迎、電気電子、機械、ハードウェア、ソフトウェア、回路、CAD、PLC、組み込み、ライフワークバランス、完全週休二日、年間休日120日以上、125日、有休20日以上、半休、時間休、世界トップクラスシェア、研修充実、フレックスタイム、家賃補助、住宅手当、奨学金支援、土日祝休み、優良企業、ものづくり、最先端、技術力、グローバル、安定、成長企業、働き方改革、中小企業、健康経営、健康経営優良法人、健康優良企業、WEB会社説明会、工場見学",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "電子ビーム加工機 アフターサービス事業開始",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "電子ビーム加工機・鉄鋼プロセス用溶接機・電力・産業用の各種熱交換器・オゾン発生装置及びこれらの部品の製造",
+    "url": "https://www.careermap.jp/corporations/99450",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタ×金属 シリーズ・バーチャルラボ見学 その1～なぜ電子ビームは、あらゆる金属を造形できるのか？｜三菱電機 Biz Timeline",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタ",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年に三菱電機が発売した「電子ビーム方式」の",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "自動車産業をはじめ航空・宇宙分野、研究機関などで活躍するTADAの電子ビーム加工機",
+    "url": "http://www.tadadenki.jp/welding_machines/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム方式は、高いエネルギー吸収率、酸化低減、低歪みといった特長を持ち、高融点・高反射材料の造形に優位な方式です",
+    "url": "http://www.tadadenki.jp/welding_machines/metal_3d_printer/ez300.html",
+    "pass": 1
+   },
+   {
+    "quote": "半導体試験事業開始（三菱電機（株）/北伊丹製作所より事業移管）",
+    "url": "http://www.tadadenki.jp/about_tada/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "微細接合用300W量産型EBMをはじめて水晶振動子へ適用",
+    "url": "http://www.tadadenki.jp/welding_machines/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "高精度形彫放電加工機SV12P 半導体パッケージ",
+    "url": "http://www.tadadenki.jp/news/JIM2024_Invitation.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は、新開発の高品位梨地仕上回路により、半導体",
+    "url": "http://www.tadadenki.jp/news/JIM2024_Invitation.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "封止金型で求められる高品位梨地面を実現します",
+    "url": "http://www.tadadenki.jp/news/JIM2024_Invitation.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "i 指向性エネルギー堆積方式(DED) を採用 1",
+    "url": "http://www.tadadenki.jp/news/JIM2024_Invitation.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "同製品は2019年9月から三菱電機を通じて発売され、まずは工業試験場や大学への導入を図り、将来的には航空機や自動車、医療分野などへの拡販を目指しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "電子ビーム加工機：自動車、航空・宇宙などの高精度な溶接・加工に活躍",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼の加工プロセスに使用される鉄鋼用溶接機や、自動車部品などを溶接する電子ビーム加工機などを開発・製造・販売しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "半導体試験事業開始（三菱電機(株)／北伊丹製作所より事業移管）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタによる精巧な試作品を公開",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタでの量産を視野に",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   },
+   {
+    "quote": "これまでは、試作品を1つ作るだけでもわざわざ金型を起こすなどコストがかかりましたが、",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   },
+   {
+    "quote": "を使えば、3Dデータを変更するだけで前後工程の変更を極力省いて試作品を作れるのです",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   },
+   {
+    "quote": "では電子の運動エネルギーを熱エネルギーに変換して、金属素材を加熱して溶かす",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   },
+   {
+    "quote": "ここで熱エネルギーを作り出し、金属を溶かして造形しています",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   },
+   {
+    "quote": "一般的に、光は銅などのピカピカした金属に当たると反射するため、投射した光エネルギーのうち7〜8割は飛び散って無駄になってしまいます",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方の電子ビームは、金属に当たっても反射しにくく、投射したエネルギーの8〜9割は金属に吸収されます",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、エネルギーロスが少なく、造形速度が非常に速いのです",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   },
+   {
+    "quote": "医療や航空宇宙など、最先端の分野でよく利用されます",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、医療の世界なら、アレルギーを起こしにくい金属素材を使い、個々の体に合わせてカスタマイズした人工骨や歯のインプラントを作るといったことにも向いていると思います",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   },
+   {
+    "quote": "先ほどお話しした医療や航空宇宙分野はもちろんですが、輸送機器、一般工業、重工業など、より身近な分野でもお使いいただきたいです",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   },
+   {
+    "quote": "これを使えば試作品や治具なども簡単に作れます",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、試作品だけではなく、少量から中量生産にも十分に対応できると考えています",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   },
+   {
+    "quote": "食やヘルスケア、医療・介護から最前線のビジネスフィールドまで幅広いジャンルにわたり、Webメディア、雑誌、新聞、また単行本の企画・構成などを手がける",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   },
+   {
+    "quote": "将来的には航空機や自動車、医療分野などへの拡販を狙う",
+    "url": "https://www.kobe-np.co.jp/news/keizai/201912/0012956409.shtml",
+    "pass": 3
+   },
+   {
+    "quote": "新エネルギー・産業技術総合開発機構（ＮＥＤＯ）は、１７年に約１２００億円だった装置の市場が３０年には５倍に拡大すると予測する",
+    "url": "https://www.kobe-np.co.jp/news/keizai/201912/0012956409.shtml",
+    "pass": 3
+   },
+   {
+    "quote": "自動車や鉄鋼産業向けの電子ビーム加工機、金属3Dプリンタなどの最先端の「溶接機事業」と、発電所や鉄道、化学プラント等で広く活躍する「熱交換器事業」の2本柱を展開しています",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "quote": "■受診者や医療機関との電話・メールによる予約調整 ■予約内容のシステム入力や請求書等の確認・事務処理 ■クライアントからの問い合わせ対応や課題整理、関係者調整 ■Excelや最新ツールを活用した業務フロー見直し・効率化実行 ■期待する役割：進捗管理、メンバー支援・育成、関係者調整、業務改善など 定型業務にとどまらず、より良いセンターづくりに主体的に関わり組織全体を牽引！ 募集職種 【中野/健康診断予約代行センター】事務・業務改善/リーダー候補/年間休日125日",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "quote": "【制度運用(事務)】安定性 /再生可能エネルギーの普及に貢献/残業月20h程度 一般事務",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 電力広域的運営推進機関 求人名 【制度運用（事務）】安定性◎/再生可能エネルギーの普及に貢献/残業月20h程度 仕事の内容 法律で定められた再生可能エネルギー関係の交付金等の授受に関する受付や、算定等の事務処理をお任せします",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "quote": "まずは、再生可能エネルギー制度（FIP制度）に基づき、以下の対応をお任せします",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "quote": "募集職種 【制度運用（事務）】安定性◎/再生可能エネルギーの普及に貢献/残業月20h程度",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "quote": "【事務管理・会議運営】NEDOプロジェクトにおける事務局・管理業務/半導体 一般事務",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 株式会社ウェーブ 求人名 【事務管理・会議運営】NEDOプロジェクトにおける事務局・管理業務/半導体 仕事の内容 半導体関連のプロジェクトに参加し、会議体の運営やNEDO(新エネルギー・産業技術総合開発機構)の監査対応等、事務方の管理業務をお任せします",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "quote": "プロジェクト期間：最短2029年3月末迄(更新の可能性あり) ■国プロ関連業務・予算管理・証憑管理・年間1回実施されるNEDO査察への対応（正担当者と同行）■国プロ運営体対応・技術研究組合（法人相当）の運営支援・理事会および運営委員会の定例会合に向けた資料作成、情報取りまとめ・会議運営および関係者との調整■発注・検収業務・国プロ関連案件の発注、検収対応・各種申請書類作成■管理部門対応・本社（日進）経理、管理部門向け報告資料作成・予算、契約関連の報告および調整 募集職種 【事務管理・会議運営】NEDOプロジェクトにおける事務局・管理業務/半導体",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "quote": "オゾン水の濃度を測定するための手法を確立する研究とCAD、電子回路、半導体や光学の幅広い知識は貴社でのオゾナイザの設計を行う上で強みになると考えています",
+    "url": "https://syukatsu-kaigi.jp/companies/4339",
+    "pass": 3
+   },
+   {
+    "quote": "機械・機構設計、金型設計（機械）",
+    "url": "https://syukatsu-kaigi.jp/companies/4339",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "独自の製造技術により、異種金属はもちろん抵抗溶接が困難な銅系材料の溶接も可能",
+    "url": "http://www.tadadenki.jp/heat_exchangers/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "国産初の電子ビームを熱源とする粉末床溶融結合方式の金属3Dプリンタ「EZ300」を製品化しました",
+    "url": "http://www.tadadenki.jp/welding_machines/metal_3d_printer/ez300.html",
+    "pass": 1
+   },
+   {
+    "quote": "この電子銃から電子ビーム（※1）を発射し、造形ボックスの中で金属の粉末を溶かして3Dプリンティングを行います",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   },
+   {
+    "quote": "一般的に、光は銅などのピカピカした金属に当たると反射するため、投射した光エネルギーのうち7〜8割は飛び散って無駄になってしまいます",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   },
+   {
+    "quote": "チタニウム合金のような特殊な金属だけでなく、反射率の高い銅でも、鉄やステンレス、アルミニウムなどの身近な金属でも、あらゆる金属に対応できる可能性を",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   },
+   {
+    "quote": "真空中で層状に敷き詰めた金属粉末を、高速度の電子ビームで１層ずつ溶かす工程を繰り返しながら造形物をつくるのが特徴",
+    "url": "https://www.kobe-np.co.jp/news/keizai/201912/0012956409.shtml",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "多田電機株式会社設立（資本金4千万円、三菱電機（株）100％出資）",
+    "url": "http://www.tadadenki.jp/about_tada/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "岡山工場竣工（資本金1億5千万円へ増資、三菱電機（株）100％出資）",
+    "url": "http://www.tadadenki.jp/about_tada/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "資本金3億円へ増資（三菱電機（株）100％出資）",
+    "url": "http://www.tadadenki.jp/about_tada/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "★三菱電機100％出資子会社",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "★無借金経営★三菱電機100％出資のグループ会社で、世界約70カ国で製品が稼働しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "【溶接と熱交換の技術を核とする三菱電機100％出資のグループ会社】",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "1963年に三菱電機の100％出資により設立された多田電機は、電子ビーム加工機・鉄鋼プロセス用溶接機・熱交換器などの開発・製造・販売を手掛ける産業装置メーカーです",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "多田電機は、三菱電機100％出資のグループ会社で「溶接」と「熱交換」の技術を強みに、ものづくりを支えるさまざまな製品・ソリューションを世界へ届けています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "多田電機(株)設立（資本金4,000万円、三菱電機(株)100％出資）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "岡山工場竣工（資本金1億5,000万円へ増資、三菱電機(株)100％出資）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金3億円へ増資（三菱電機(株)100％出資）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "アイカ工業(株)【東証プライム市場上場・名証プレミア市場上場】",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "アイダエンジニアリング(株)【東証プライム上場】",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "最初にご案内するのは、三菱電機の100％出資関連会社である多田電機です",
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "pass": 3
+   },
+   {
+    "quote": "親会社の三菱電機が販売を担い、当面は工業試験場や大学に納入する",
+    "url": "https://www.kobe-np.co.jp/news/keizai/201912/0012956409.shtml",
+    "pass": 3
+   },
+   {
+    "quote": "多田電機株式会社／【尼崎】海外フィールドエンジニア支援 三菱電機100%子会社/休日充実 その他フィールド/サポートエンジニア(機械/電気/電子製品専門職)の中途採用・転職・求人情報｜求人・転職エージェントならリクルートエージェント",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "quote": "【尼崎】海外フィールドエンジニア支援 三菱電機100%子会社/休日充実 その他フィールド/サポートエンジニア(機械/電気/電子製品専門職)",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "quote": "【尼崎】海外フィールドエンジニア支援★三菱電機100％子会社/休日充実",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "quote": "出張手配や調整業務を通じて、世界各地の現場を支えるやりがいを感じられます■三菱電機100％出資のグループ会社であり、充実した福利厚生のもとで安心してキャリアを築くことができます",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金：300百万円",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "quote": "主な株主：三菱電機株式会社 100.0％",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "quote": "★三菱電機100％出資のグループ会社でありながら自社ブランドで世界に勝負する企業★三菱電機Grならではの充実した福利厚生■将来的には需要が高まっているローコードツールを使った業務改善スキルを身につけ未経験からDX人材へ挑戦可能",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 楽天グループ株式会社 求人名 【総務・ガバナンス】職種未経験大歓迎★バックオフィスへの転身可能 1039240 仕事の内容 会社として必要な取締役会・株主総会の運営、ならびに職務権限表の改訂などグループのルールを遵守するための準備と、それを組織内に周知・展開する役割を担う、総務並びにガバナンス関連業務全般をお任せします",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "quote": "＜具体的な業務内容＞ ■取締役会、株主総会運営 ■朝会、締会、（Ｑ毎開催）戦略共有会準備運営 ■サプライヤー選定から支払いまでの調達オペレーションの整備並びに監査 ■ファシリティ関連 ■接待贈答、インシデント報告のとりまとめ ■許認可手続き ■上記業務に関するマニュアルやオペレーションの整備 募集職種 【総務・ガバナンス】職種未経験大歓迎★バックオフィスへの転身可能 1039240",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "quote": "■人事総務:採用・人財育成・労務・総務 ■広報IR:株主や投資家対応・広報活動 ■財務経理:予算編成・管理・決算業務 ■経営企画:経営戦略や事業計画策定・推進・事業分析 ■法務コンプライアンス:契約審査・法務相談・コンプライアンス推進 【育成】基礎から着実に業務を修得し、将来は部門横断の課題解決や業務改善を主導する存在へ成長できます",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "quote": "経理(上場経理・業務改善)*フルリモート可* 財務会計",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 さくらインターネット株式会社 求人名 経理（上場経理・業務改善)＊フルリモート可＊ 仕事の内容 単体・連結決算、開示、税務等の上場企業経理全般をお任せします",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "quote": "・月次・四半期・年次の単体決算および連結決算、各種法定開示資料の作成業務全般 ・新規サービスや事業スキーム等に関する複雑な会計論点整理および会計処理の検討 ・属人化している経理業務の徹底した棚卸しと可視化、業務フローやルールの再整備 ・経理業務におけるAI・自動化技術の活用検討、システムを用いた業務改善企画推進 ・事業部門からの専門的な会計相談対応、監査法人や顧問税理士等との高度な折衝業務 募集職種 経理（上場経理・業務改善)＊フルリモート可＊",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "quote": "【大阪】営業事務 日立製作所100%出資/年休126日/安定基盤で長く働く 機械/電気/電子製品法人営業",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 関西日立株式会社 求人名 【大阪】営業事務◆日立製作所100％出資/年休126日/安定基盤で長く働く 仕事の内容 営業担当者のサポート業務を中心に、受発注管理や見積書作成などの事務業務をお任せします",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "quote": "・見積書、提案資料の作成補助 ・受発注処理 ・売上、請求関連業務 ・納期確認、調整 ・営業担当者のスケジュール管理 ・顧客情報や案件情報の管理 ・社内関係部署との連携 募集職種 【大阪】営業事務◆日立製作所100％出資/年休126日/安定基盤で長く働く",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "quote": "●総務／株主総会、秘書業務、広報、サステナビリティ推進、リスク・コンプライアンスなど●経理／決算、会計・税務業務など ●経営企画／経営企画関連業務、予算管理、所有物件の再開発業務など●人事／採用、労務、給与、人財育成など●営業／オフィス・倉庫の新規テナント誘致、契約更新、月極駐車場管理業務など●運営管理／所有物件のAM・PM業務など●イベント事業／展示場・貸し会議室の運営、時間貸し駐車場管理業務など●PM事業／他社物件のPM業務 募集職種 第2新卒歓迎【三菱地所Gr/総合職】転勤無/新卒大手入社者の次のキャリアに",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 株式会社関東合人社 求人名 【目黒】未経験・ベテラン歓迎!マンション管理事務◎転勤無【契約社員】 仕事の内容 【契約社員採用の求人です】★異業界からの転職者が多数活躍中！ ■マンション管理組合の運営サポート及び管理員の指導 ■担当物件における修繕工事等受注業務 ■事務所内での事務業務等 【年収補足】532万円 ＋別途インセンティヴで平均約100万円/年（昨年度実績） ＋管理業務主任者資格手当50,000円/月 ★親会社である株式会社合人社計画研究所社のグループ会社として、質の高いサービスと適性価格を武器に約20年受託戸数増加中です",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "quote": "【東京/営業アシスタント】東証プライム上場企業グループ/年間休日124日 営業事務",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 ｎｍｓホールディングス株式会社 求人名 【東京/営業アシスタント】東証プライム上場企業グループ/年間休日124日 仕事の内容 製造受託や人材派遣などをグローバルに展開する当社にて、事業推進部における営業サポートや顧客対応、グループ横断の案件進行管理など、営業組織の生産性向上を支えるアシスタント業務全般を担当いただきます",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "quote": "【具体的には】 《1,営業サポート業務》■見積書・契約書・請求書作成■提案資料作成補助■マーケット分析■受発注管理■顧客情報管理(Salesforce等)■営業実績データ集計■営業会議資料作成(会議資料及び議事等)■ホールディング事業会社営業進捗管理■稟議等申請対応及び管理■営業同行有 《2,顧客対応》■電話・メール対応■顧客からの問い合わせ対応■スケジュール調整■グループ会社間を含む社内関連部門との調整 募集職種 【東京/営業アシスタント】東証プライム上場企業グループ/年間休日124日",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "quote": "【商品企画】新規オーガニックブランド立ち上げ/上場企業/在宅・フレックス有 商品企画",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 株式会社ミルボン 求人名 【商品企画】新規オーガニックブランド立ち上げ/上場企業/在宅・フレックス有 仕事の内容 オーガニック事業部にて、美容室向けの新たなオーガニック・ナチュラル系ブランド（20～30代向け）の立ち上げに伴う商品企画をお任せします",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "quote": "募集職種 【商品企画】新規オーガニックブランド立ち上げ/上場企業/在宅・フレックス有",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 株式会社大阪合人社 求人名 【大阪/転勤無】マンション管理事務/年休123日/働き方◎【経験を武器に！】 仕事の内容 ■マンション管理組合の運営サポート及び管理員の指導 ■担当物件における修繕工事等受注業務 ■事務所内での事務業務等 ★異業界からの転職者が多数活躍しています 【年収補足】504万円 ＋賞与・別途インセンティヴで平均約100万円/年（昨年度実績） ＋管理業務主任者資格手当50,000円/月 ★親会社である株式会社合人社計画研究所社のグループ会社として、質の高いサービスと適性価格を武器に約20年受託戸数増加中です",
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 ・沿革｜会社案内｜ 多田電機 株式会社 — 会社概要 ・沿革｜会社案内｜ 多田電機 株式会社 多田電機 http://www.tadadenki.jp > 会社案内",
+    "url": "http://www.tadadenki.jp/about_tada/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "多田電機 (株)【三菱電機グループ】の 会社概要 | マイナビ2027 — 多田電機 (株)【三菱電機グループ】の 会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp15954 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "多田電機 | 専門学校の就活No.1サイト キャリアマップ — 多田電機 | 専門学校の就活No.1サイト キャリアマップ Careermap https://www.careermap.jp > corporations",
+    "url": "https://www.careermap.jp/corporations/99450",
+    "pass": 3
+   },
+   {
+    "quote": "多田電機 株式 会社 | 加工 会社 ナビ - 営業製作所 — 多田電機 株式 会社 | 加工 会社 ナビ - 営業製作所 営業製作所株式会社 https://eigyo-mfg.com > TOP > 兵庫県の加工会社",
+    "url": "https://eigyo-mfg.com/service/navi/company/q1SHs5kZkCHP",
+    "pass": 3
+   },
+   {
+    "quote": "多田電機 - 企業Wiki — 多田電機 - 企業Wiki corp.wiki.fc2.com https://corp.wiki.fc2.com > wiki > 多田電機",
+    "url": "https://corp.wiki.fc2.com/wiki/%E5%A4%9A%E7%94%B0%E9%9B%BB%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "電子ビーム 金属3Dプリンタ - 多田電機 — 電子ビーム 金属3Dプリンタ - 多田電機 多田電機 http://www.tadadenki.jp > 溶接機 > 金属3Dプリンタ製品",
+    "url": "http://www.tadadenki.jp/welding_machines/metal_3d_printer/ez300.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内初、電子ビーム方式 金属3Dプリンタ 開発 多田電機 — 国内初、電子ビーム方式 金属3Dプリンタ 開発 多田電機 神戸新聞 https://www.kobe-np.co.jp > news > keizai",
+    "url": "https://www.kobe-np.co.jp/news/keizai/201912/0012956409.shtml",
+    "pass": 3
+   },
+   {
+    "quote": "いよいよ本番！ 3Dプリンター 活用（44） 多田電機 — いよいよ本番！ 3Dプリンター 活用（44） 多田電機 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/567115",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタ 製品｜溶接機｜ 多田電機 株式会社 — 金属3Dプリンタ 製品｜溶接機｜ 多田電機 株式会社 多田電機 http://www.tadadenki.jp > 溶接機",
+    "url": "http://www.tadadenki.jp/welding_machines/metal_3d_printer/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "電子ビーム 金属 3Dプリンタ - 多田電機 — 電子ビーム 金属 3Dプリンタ - 多田電機 多田電機 http://www.tadadenki.jp > 溶接機 > 金属3Dプリンタ製品",
+    "url": "http://www.tadadenki.jp/welding_machines/metal_3d_printer/ez300.html",
+    "pass": 3
+   },
+   {
+    "quote": "Electron Beam Metal 3D Printer - Welding Machines — Electron Beam Metal 3D Printer - Welding Machines 多田電機 http://www.tadadenki.jp > english > w...",
+    "url": "http://www.tadadenki.jp/english/welding_machines/metal_3d_printer/ez300.html",
+    "pass": 3
+   },
+   {
+    "quote": "多田電機 (株)【三菱電機グループ】の会社概要 | マイナビ2027 — 多田電機 (株)【三菱電機グループ】の会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp15954 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要・沿革｜会社案内｜ 多田電機 株式会社 — 会社概要・沿革｜会社案内｜ 多田電機 株式会社 多田電機 http://www.tadadenki.jp > 会社案内",
+    "url": "http://www.tadadenki.jp/about_tada/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "多田電機 の 新卒採用・就職・企業情報 - 就活会議 — 多田電機 の 新卒採用・就職・企業情報 - 就活会議 就活会議 https://syukatsu-kaigi.jp > companies",
+    "url": "https://syukatsu-kaigi.jp/companies/4339",
+    "pass": 3
+   },
+   {
+    "quote": "多田電機 (株)【三菱電機グループ】の会社概要 | マイナビ2028 — 多田電機 (株)【三菱電機グループ】の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp15954 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp15954/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "多田電機 株式会社の企業情報・財務データ | FUMA（フーマ） — 多田電機 株式会社の企業情報・財務データ | FUMA（フーマ） FUMA（フーマ） https://fumadata.com > 企業検索",
+    "url": "https://fumadata.com/search/detail/2284968",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://www.tadadenki.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.tadadenki.jp/about_tada/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.tadadenki.jp/about_tada/philosophy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.tadadenki.jp/welding_machines/news.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.tadadenki.jp/heat_exchangers/news.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.tadadenki.jp/welding_machines/metal_3d_printer/ez300.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.tadadenki.jp/about_tada/executives.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.tadadenki.jp/news/paintingfactory.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.tadadenki.jp/about_tada/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.tadadenki.jp/welding_machines/metal_3d_printer/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.tadadenki.jp/welding_machines/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.tadadenki.jp/heat_exchangers/history.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "http://www.tadadenki.jp/news/JIM2024_Invitation.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.tadadenki.jp/news/2024WeldingShow_Invitation.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.careermap.jp/corporations/99450",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kobe-np.co.jp/news/keizai/201912/0012956409.shtml",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://syukatsu-kaigi.jp/companies/4339",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "多田電機",
+   "results": [
+    "http://www.tadadenki.jp/",
+    "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "https://www.r-agent.com/company/42857/",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000zWwP9",
+    "https://metoree.com/companies/20184/",
+    "https://eigyo-mfg.com/service/navi/company/q1SHs5kZkCHP",
+    "https://job.mynavi.jp/28/pc/search/corp15954/outline.html",
+    "https://www.shinbu.com.tw/jp/brands/tada-ja/",
+    "http://www.tadadenki.jp/about_tada/",
+    "http://www.tadadenki.jp/english/index.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "多田電機 会社概要 資本金 設立",
+   "results": [
+    "http://www.tadadenki.jp/about_tada/outline.html",
+    "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "https://www.careermap.jp/corporations/99450",
+    "https://eigyo-mfg.com/service/navi/company/q1SHs5kZkCHP",
+    "https://corp.wiki.fc2.com/wiki/%E5%A4%9A%E7%94%B0%E9%9B%BB%E6%A9%9F",
+    "https://job.mynavi.jp/28/pc/search/corp15954/outline.html",
+    "https://www.onecareer.jp/companies/5691",
+    "https://metoree.com/companies/20184/",
+    "http://www.tadadenki.jp/about_tada/",
+    "https://compalyze.co.jp/company/4140001054052"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "多田電機 金属3Dプリンタ 導入",
+   "results": [
+    "http://www.tadadenki.jp/welding_machines/metal_3d_printer/ez300.html",
+    "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "https://www.kobe-np.co.jp/news/keizai/201912/0012956409.shtml",
+    "https://www.nikkan.co.jp/articles/view/567115",
+    "http://www.tadadenki.jp/welding_machines/metal_3d_printer/index.html",
+    "https://www.r-agent.com/viewjob/jk2b82c71a734d092c/",
+    "https://www.g-mark.org/gallery/winners/9e2c1b4d-803d-11ed-af7e-0242ac130002",
+    "https://xtech.nikkei.com/atcl/nxt/news/18/05778/",
+    "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "https://news.sharelab.jp/tag/多田電機/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "多田電機 金属積層造形 設備",
+   "results": [
+    "http://www.tadadenki.jp/welding_machines/metal_3d_printer/ez300.html",
+    "https://www.mitsubishielectric.co.jp/business/biz-t/contents/synergy/metal3dprinter001.html",
+    "http://www.tadadenki.jp/english/welding_machines/metal_3d_printer/ez300.html",
+    "https://xtech.nikkei.com/atcl/nxt/news/18/05778/",
+    "https://jampt.jp/column/column_489/",
+    "https://www.g-mark.org/gallery/winners/9e2c1b4d-803d-11ed-af7e-0242ac130002",
+    "https://www.nikkan.co.jp/articles/view/403785",
+    "https://www.nedo.go.jp/content/100902509.pdf",
+    "https://mitsu-ri.net/articles/metal-laminated-modeling",
+    "https://www.jfe-steel.co.jp/products/solution/metal-3d-printing/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "多田電機 株主 出資 親会社",
+   "results": [
+    "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "http://www.tadadenki.jp/about_tada/outline.html",
+    "https://www.r-agent.com/viewjob/jk1198bbcd325e33e3/",
+    "https://corp.wiki.fc2.com/wiki/%E5%A4%9A%E7%94%B0%E9%9B%BB%E6%A9%9F",
+    "https://irbank.net/E01739/ac?m=%E5%A4%9A%E7%94%B0%E9%9B%BB%E6%A9%9F%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE",
+    "https://jp.indeed.com/viewjob?jk=b62ebca9f6dd4334",
+    "https://job.mynavi.jp/28/pc/search/corp15954/outline.html",
+    "https://eigyo-mfg.com/service/navi/company/q1SHs5kZkCHP",
+    "https://www.nikkei.com/nkd/company/?nik_code=0008376",
+    "https://ja.wikipedia.org/wiki/三菱電機グループ"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "多田電機 売上高 従業員数",
+   "results": [
+    "http://www.tadadenki.jp/about_tada/outline.html",
+    "https://job.mynavi.jp/27/pc/search/corp15954/outline.html",
+    "https://syukatsu-kaigi.jp/companies/4339",
+    "https://job.mynavi.jp/28/pc/search/corp15954/outline.html",
+    "https://fumadata.com/search/detail/2284968",
+    "https://www.r-agent.com/company/42857/",
+    "https://doda.jp/DodaFront/View/Company/j_id__00004939815/",
+    "https://catr.jp/companies/af958/57184",
+    "https://compalyze.co.jp/company/4140001054052",
+    "https://kaijiwire.jp/companies/4140001054052"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:note.com 多田電機",
+   "results": [
+    "https://note.com/tomiriki_2026/n/nf901865424d4",
+    "https://note.com/nagoya_ura/n/nea85472a2af9",
+    "https://note.com/goodaction/n/ncc96ad75ee2c",
+    "https://note.com/nikkankogyo/n/ndea15638bb52",
+    "https://note.com/tatsuya_sabato/n/n00b46db940fc",
+    "https://note.com/gokaku_inshi0320/n/n8f4747a455e1",
+    "https://note.com/_____noma/n/n89669e749600",
+    "https://note.com/quando/n/n90b295e92a47",
+    "https://note.com/yanotomoaki/n/nab8d8f65de76",
+    "https://note.com/tadafumiaki"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com 多田電機",
+   "results": [
+    "https://x.com/KoutaHirado/status/1901897052382212568",
+    "https://x.com/KoutaHirado/status/1901896415368081583",
+    "https://x.com/yamada_tf2004",
+    "https://x.com/wasabi_ekiden/status/1876288671420428482",
+    "https://x.com/GAMBA_BOY_0_",
+    "https://x.com/mitsubishilions/all",
+    "https://x.com/M39883237",
+    "https://x.com/Fumiya071619",
+    "https://x.com/KenjiroToyohara",
+    "https://x.com/iwate3d/status/1205734767850741760"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com 多田電機",
+   "results": [
+    "https://www.linkedin.com/pub/dir/Daisuke/Yoshida/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://jp.linkedin.com/pub/dir/Daisuke/Yoshida",
+    "https://hk.linkedin.com/in/xiaoxuan-ma-8824701a",
+    "https://jp.linkedin.com/in/naoki-matsumoto-b2b5831b0",
+    "https://jp.linkedin.com/pulse/%E8%87%AA%E5%8B%95%E9%85%B8%E7%B4%A0%E9%9B%BB%E8%8D%B7%E3%81%A8%E6%94%BE%E9%9B%BB%E3%83%A1%E3%83%BC%E3%82%BF%E3%83%BC%E5%B8%82%E5%A0%B4%E3%81%AE138-cagr-2026-2033%E3%81%B8%E3%81%AE%E9%81%93%E3%81%AE%E3%82%8A%E3%81%9D%E3%81%AE%E6%88%90%E5%8A%9F%E3%82%92%E7%89%BD%E5%BC%95%E3%81%99%E3%82%8B%E3%82%82%E3%81%AE%E3%81%AF%E4%BD%95%E3%81%8B-brixelox-rb2le",
+    "https://www.linkedin.com/in/%E5%8F%B2%E9%83%8E-%E5%B2%A9%E5%B4%8E-1860ba114",
+    "https://jp.linkedin.com/in/shinichi-mitsugi-912610a5",
+    "https://jp.linkedin.com/in/kenshi-sato-5a2025352/ja",
+    "https://jp.linkedin.com/in/tets-yamamoto",
+    "https://jp.linkedin.com/in/daisuke-yoshida-028546358"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com 多田電機",
+   "results": [
+    "https://www.facebook.com/yuuta.tada/",
+    "https://www.facebook.com/yusuke.mitazono/?locale=ja_JP",
+    "https://www.facebook.com/mitsubishidenki/posts/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%A2%E3%83%A1%E3%83%95%E3%83%88%E3%82%AA%E3%83%BC%E3%83%AB%E4%B8%89%E8%8F%B1%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA-%E8%A9%A6%E5%90%88%E6%99%82%E9%96%93%E6%AE%8B%E3%82%8A11%E7%A7%92%E3%81%A7%E3%81%AE%E5%A4%A7%E9%80%86%E8%BB%A2%E5%BC%B7%E8%B1%AA%E3%82%A2%E3%82%B5%E3%83%92%E3%83%93%E3%83%BC%E3%83%AB%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%81%AB%E5%8B%9D%E5%88%A9%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA%E3%81%AF610%E5%9C%9F%E6%98%A5%E3%82%B7%E3%83%BC%E3%82%BA%E3%83%B3%E6%9C%80%E7%B5%82%E6%88%A6%E3%81%A7%E6%98%A8%E5%B9%B4%E3%81%AF%E5%AE%8C%E5%B0%81%E3%81%95%E3%82%8C%E3%81%9F%E3%82%A2%E3%82%B5/1426756680714433/",
+    "https://www.facebook.com/mitsubishidenki/posts/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%A2%E3%83%A1%E3%83%95%E3%83%88%E3%82%AA%E3%83%BC%E3%83%AB%E4%B8%89%E8%8F%B1%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA-%E7%AC%AC2%E6%88%A6%E9%9B%BB%E9%80%9A%E3%82%AD%E3%83%A3%E3%82%BF%E3%83%94%E3%83%A9%E3%83%BC%E3%82%BA%E3%81%AB37-7%E3%81%A7%E5%BF%AB%E5%8B%9D%E3%81%97%E3%83%AC%E3%82%AE%E3%83%A5%E3%83%A9%E3%83%BC%E3%82%B7%E3%83%BC%E3%82%BA%E3%83%B32%E9%80%A3%E5%8B%9Dk%E3%82%AD%E3%83%83%E3%82%AB%E3%83%BC-41%E8%B0%B7%E6%BE%A4%E9%8A%80%E8%A1%8C%E6%B3%95%E6%94%BF%E3%81%AE%E3%82%AD%E3%83%83%E3%82%AF%E3%81%AB%E3%82%88%E3%82%8A%E8%A9%A6%E5%90%88%E9%96%8B%E5%A7%8B%E3%83%A9%E3%82%A4%E3%82%AA/1914847685238661/",
+    "https://www.facebook.com/OkayamawineFes/posts/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%8A%E3%81%8B%E3%82%84%E3%81%BE%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E5%B1%95otex2026-%E7%B2%BE%E9%8B%AD%E4%BC%81%E6%A5%AD%E3%81%A8%E5%87%BA%E4%BC%9A%E3%81%86%E6%8A%80%E8%A1%93%E5%B1%95%E7%A4%BA%E5%95%86%E8%AB%87%E4%BC%9A%E6%97%A5%E6%99%822026%E5%B9%B411%E6%9C%8811%E6%97%A5%E6%B0%B412%E6%97%A5%E6%9C%A8-10%E6%99%8217%E6%99%82-%E6%9C%80%E7%B5%82%E6%97%A5%E3%81%AF-16%E6%99%8230%E5%88%86-/1940432317294631/",
+    "https://www.facebook.com/kimuraasako/posts/%E7%B4%84200%E5%90%8D-%E6%BA%80%E5%93%A1%E5%BE%A1%E7%A4%BC%E5%9B%9B%E5%9B%BD%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E8%82%B2%E6%88%90%E3%83%AC%E3%82%B8%E3%83%AA%E3%82%A8%E3%83%B3%E3%82%B9%E5%9C%B0%E5%9F%9F%E6%9C%AA%E6%9D%A5%E5%85%B1%E5%89%B5%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E7%AC%AC1%E5%9B%9E%E5%9B%9B%E5%9B%BD%E3%81%93%E3%81%A9%E3%82%82%E3%83%AC%E3%82%B8%E3%83%AA%E3%82%A8%E3%83%B3%E3%82%B9%E6%9C%AA%E6%9D%A5%E5%85%B1%E5%89%B5%E3%82%B5%E3%83%9F%E3%83%83%E3%83%88%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%94%E5%A0%B1%E5%91%8A%E3%81%93%E3%81%AE%E5%BA%A6%E5%9B%9B%E5%9B%BD%E3%81%AE%E6%9C%AA%E6%9D%A5%E3%82%92%E6%8B%85%E3%81%86%E5%AD%90%E3%81%A9/28660180613622035/",
+    "https://www.facebook.com/motoyasu.yamada.7/posts/%E8%87%AA%E6%B0%91%E5%85%9A%E5%A7%AB%E8%B7%AF%E6%94%AF%E9%83%A8%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E3%81%A8%E3%81%AE%E4%BA%8C%E9%80%A3%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E6%94%BF%E6%B2%BB%E3%81%AF%E4%B8%80%E4%BA%BA%E3%81%A7%E3%81%AF%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E3%81%84%E3%81%BE%E3%81%AE%E7%AB%8B%E5%A0%B4%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E7%97%9B%E6%84%9F%E3%81%99%E3%82%8B%E6%97%A5%E3%80%85%E3%81%A7%E3%81%99%E3%81%93%E3%81%AE%E5%BA%A6%E8%87%AA%E6%B0%91%E5%85%9A%E5%A7%AB%E8%B7%AF%E6%94%AF%E9%83%A8%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E3%81%A8%E3%81%AE%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E5%B8%82/10236139432725942/",
+    "https://www.facebook.com/JapanAthletics/videos/%E7%AB%B6%E6%8A%80%E5%8A%9B%E5%90%91%E4%B8%8A%E3%81%A8%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E8%87%AA%E7%AB%8B%E3%81%AE%E4%B8%A1%E7%AB%8B%E3%82%92%E4%B8%BB%E4%BD%93%E7%9A%84%E3%81%AB%E7%9B%AE%E6%8C%87%E3%81%99%E9%81%B8%E6%89%8B%E3%81%AE%E7%9A%86%E3%81%95%E3%81%BE%E3%81%B8%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B9%E3%82%AD%E3%83%AB%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E7%AC%AC7%E6%9C%9F%E5%8F%97%E8%AC%9B%E7%94%9F%E5%8B%9F%E9%9B%86%E4%B8%AD%E5%BF%9C%E5%8B%9F%E7%B7%A0%E3%82%81%E5%88%87%E3%82%8A%E3%81%AF%EF%B8%8F2026%E5%B9%B411%E6%9C%888%E6%97%A5%E6%97%A5%EF%B8%8F%E3%83%88%E3%83%83%E3%83%97%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%A8/1116759211089939/",
+    "https://www.facebook.com/100039268423932/videos/3385223748326535/",
+    "https://www.facebook.com/株多田電機-219186101510234/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "多田電機 note 社長",
+   "results": [
+    "http://www.tadadenki.jp/about_tada/executives.html",
+    "http://www.tadadenki.jp/about_tada/message.html",
+    "https://www.nikkan.co.jp/articles/view/311294",
+    "https://www.nikkei.com/article/DGXZQOUC18E5F0Y1A111C2000000/",
+    "https://syukatsu-kaigi.jp/companies/4339/post_items/11/word_mouths",
+    "https://www.youtube.com/watch?v=ofJ7IZWrM9w",
+    "https://www.nikkei.com/companies/0008376",
+    "https://syukatsu-kaigi.jp/companies/4339/post_items/7/word_mouths",
+    "https://jp.linkedin.com/in/daisuke-yoshida-028546358",
+    "https://play.postfacthack.org/越智-与志夫-多田電機-社長-多田電機の働き方勤務/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "多田電機 X 投稿",
+   "results": [
+    "https://x.com/TADAIKUTA/status/2118605975049650357",
+    "http://www.tadadenki.jp/",
+    "https://syukatsu-kaigi.jp/companies/4339/jobhunt_prompt_reports",
+    "https://www.openwork.jp/company_answer.php?m_id=a0C1000000zWwP9&q_no=8",
+    "https://x.com/KoutaHirado/status/1901896415368081583",
+    "https://careerconnection.jp/review/852044/whiteblack/",
+    "https://www.nikkei.com/article/DGKKZO59304490S2A320C2TB1000/",
+    "https://x.com/ta2lo4/status/1917584989677576334",
+    "https://search.yahoo.co.jp/realtime/search/多田/?ei=UTF-8&rkf=1&ifr=tl_hash",
+    "https://x.com/hitomi_tada0507/with_replies"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "保有設備": "記載なし（3回確認済み：公式12頁／PDF・画像2件／外部9頁・検索12回）"
+ }
+}

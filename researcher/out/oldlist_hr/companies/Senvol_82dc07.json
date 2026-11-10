@@ -1,0 +1,1187 @@
+{
+ "name": "Senvol",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜AI送信済み",
+ "researched_at": "2026-11-10T19:47:06.476041+00:00",
+ "official_url": "https://senvol.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Analyze data from any AM machine, any AM material, or any AM process",
+    "url": "https://senvol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Senvol provides data to help companies implement additive manufacturing. Senvol’s various products and services allow companies to Access AM Data, Generate AM Data, and Analyze AM Data.",
+    "url": "https://senvol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Harrisburg, PA – August 28, 2026 – Senvol provided live demos of Senvol ML, its machine learning software for additive manufacturing, at the J-DAMMIT event earlier this...",
+    "url": "https://senvol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Boston, MA – April 6, 2026 – Senvol will exhibit at the upcoming 2026 RAPID + TCT Conference next week. At the event Senvol will showcase Senvol ML, its machine...",
+    "url": "https://senvol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Senvol President Receives Prestigious DINO Award",
+    "url": "https://senvol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reno, NV – March 30, 2026 – Senvol President Annie Wang recently received the Distinguished INnovator Operators Award (DINO) by the Additive Manufacturing Users Group...",
+    "url": "https://senvol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Senvol Leads U.S. Navy Program on AM Sensor Fusion",
+    "url": "https://senvol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Philadelphia, PA – January 12, 2026 – Senvol has received funding from the U.S. Navy to lead a project focused on demonstrating that based on in-situ monitoring data,...",
+    "url": "https://senvol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Senvol’s products and",
+    "url": "https://senvol.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "have been used by a variety of Fortune 500 companies and government agencies in industries such as aerospace, oil & gas, consumer products, medical, and automotive.",
+    "url": "https://senvol.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Senvol’s various products and services allow companies to Access AM Data, Generate AM Data, and Analyze AM Data.",
+    "url": "https://senvol.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive database of industrial AM machines and materials.",
+    "url": "https://senvol.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Provides access to the Senvol Database™ raw data.",
+    "url": "https://senvol.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "A standard operating procedure that details how to generate pedigreed AM data. The 100+ page manual is used by organizations to ensure that every data generation project follows a standard procedure.",
+    "url": "https://senvol.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Machine learning software that can be used to analyze data from any AM machine, any AM material, and any AM process in order to rapidly optimize parameters, develop materials, and support qualification.",
+    "url": "https://senvol.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Predict material properties",
+    "url": "https://senvol.com/ml/",
+    "pass": 1
+   },
+   {
+    "quote": "The software combines machine learning with traditional design of experiment approaches to intelligently recommend what additional data points to generate. This improves prediction accuracy (i.e. the user is guided to generate smaller, targeted data sets), thereby saving time and money.",
+    "url": "https://senvol.com/ml/",
+    "pass": 1
+   },
+   {
+    "quote": "Build predictive models in seconds",
+    "url": "https://senvol.com/ml/",
+    "pass": 1
+   },
+   {
+    "quote": "Senvol ML™ can be used to analyze all major types of AM data. This includes (but is not limited to) process parameter data, process signature data (i.e. from in-situ monitoring sensors), material property data, and mechanical performance data. The software’s algorithms use this data to generate predictive models that help organizations quickly characterize or qualify AM materials and processes.",
+    "url": "https://senvol.com/ml/",
+    "pass": 1
+   },
+   {
+    "quote": "Conduct forward and inverse predictions",
+    "url": "https://senvol.com/ml/",
+    "pass": 1
+   },
+   {
+    "quote": "Predict mechanical performance (e.g. yield strength) from a given set of process parameters. Inverse predictions are also possible. For example, when given a target mechanical performance (e.g. a target ultimate tensile strength), the software determines what process parameters to use in order to achieve the target.",
+    "url": "https://senvol.com/ml/",
+    "pass": 1
+   },
+   {
+    "quote": "Leverage pre-existing data",
+    "url": "https://senvol.com/ml/",
+    "pass": 1
+   },
+   {
+    "quote": "The software’s Transfer Learning capability enables data from prior machines and prior materials to be used to help predict performance on a new machine and/or new material. This significantly reduces the time and cost of process development or qualifying a new AM machine or material.",
+    "url": "https://senvol.com/ml/",
+    "pass": 1
+   },
+   {
+    "quote": "FlexSpecs program focused on qualifying the EOS M400-4",
+    "url": "https://senvol.com/ml/",
+    "pass": 1
+   },
+   {
+    "quote": "Developed a qualification plan and statistically-based material property predictions",
+    "url": "https://senvol.com/ml/",
+    "pass": 1
+   },
+   {
+    "quote": "Developed capabilities to analyze data such as process parameters, process signatures, material properties, and mechanical performance",
+    "url": "https://senvol.com/ml/",
+    "pass": 1
+   },
+   {
+    "quote": "Process optimization collaboration with Materialise, Rosswag, and Zeiss",
+    "url": "https://senvol.com/ml/",
+    "pass": 1
+   },
+   {
+    "quote": "Senvol ML™ optimized process parameters outperformed the conventionally optimized process parameters",
+    "url": "https://senvol.com/ml/",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced Materials and Processes",
+    "url": "https://senvol.com/ml/",
+    "pass": 1
+   },
+   {
+    "quote": "Cover story detailed the use of Senvol ML™ to predict material allowable values",
+    "url": "https://senvol.com/ml/",
+    "pass": 1
+   },
+   {
+    "quote": "Tampa, FL – January 26, 2026 – Senvol will exhibit at the upcoming 2026 Military Additive Manufacturing (MILAM) Summit next week. At the event, Senvol will highlight its latest additive manufacturing programs for the U.S. Navy, U.S. Army, and U.S. Air Force. The programs span topics such as qualification, machine learning, machine consistency, and material & process development.",
+    "url": "https://senvol.com/senvol-to-exhibit-at-military-additive-manufacturing-summit-2/",
+    "pass": 1
+   },
+   {
+    "quote": "The Military Additive Manufacturing Summit & Technology Showcase remains the premier event in North America for military, aerospace, and defense 3D printing. It features high-level discussions on Department of Defense acquisition priorities, international initiatives in 3D printing, and presentations on cutting-edge technological advancements in AM.",
+    "url": "https://senvol.com/senvol-to-exhibit-at-military-additive-manufacturing-summit-2/",
+    "pass": 1
+   },
+   {
+    "quote": "New York, NY – March 13, 2018 – Senvol has publicly announced that it is developing data-driven machine learning additive manufacturing (AM) software for the U.S. Navy’s Office of Naval Research (ONR). Senvol’s software analyzes the relationships between AM process parameters and material performance.",
+    "url": "https://senvol.com/senvol-developing-machine-learning-software-u-s-navy-additive-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "ONR’s goal is to use Senvol’s software to assist in developing statistically substantiated material properties in hopes of reducing conventional material characterization and testing that is needed to develop design allowables.",
+    "url": "https://senvol.com/senvol-developing-machine-learning-software-u-s-navy-additive-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Chicago, IL – September 14, 2021 – Senvol President Annie Wang spoke earlier today at the annual RAPID + TCT Conference. The presentation, titled “Efficient Process Parameter Optimization Using Machine Learning,” focused on multiple case studies with Fortune 100 automotive company BMW. The case studies utilized Senvol’s additive manufacturing (AM) machine learning software,",
+    "url": "https://senvol.com/senvol-speaks-at-rapid-tct-on-case-study-with-bmw/",
+    "pass": 1
+   },
+   {
+    "quote": "RAPID + TCT is North America’s preeminent event for discovery, innovation, and networking in additive manufacturing, and hosts one of the most experienced and influential communities in additive manufacturing technologies.",
+    "url": "https://senvol.com/senvol-speaks-at-rapid-tct-on-case-study-with-bmw/",
+    "pass": 1
+   },
+   {
+    "quote": "Since 2014, Rosswag Engineering has qualified over 40 metal materials for laser powder bed fusion and produced",
+    "url": "https://senvol.com/wp-content/uploads/2026/04/Senvol-ML_Rosswag_Case-Study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "more than 60,000 parts, but the qualification process required too much manual work. Rosswag needed four",
+    "url": "https://senvol.com/wp-content/uploads/2026/04/Senvol-ML_Rosswag_Case-Study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "major workflow improvements to streamline the qualification processes for enabling new materials and",
+    "url": "https://senvol.com/wp-content/uploads/2026/04/Senvol-ML_Rosswag_Case-Study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2 Automated data preparation and early detection of unwanted test coupons",
+    "url": "https://senvol.com/wp-content/uploads/2026/04/Senvol-ML_Rosswag_Case-Study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "4 Comprehensive and quick process modeling",
+    "url": "https://senvol.com/wp-content/uploads/2026/04/Senvol-ML_Rosswag_Case-Study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Improvement 1",
+    "url": "https://senvol.com/wp-content/uploads/2026/04/Senvol-ML_Rosswag_Case-Study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Improvement 2",
+    "url": "https://senvol.com/wp-content/uploads/2026/04/Senvol-ML_Rosswag_Case-Study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Once a DoE is ready, the team needs to prepare a build",
+    "url": "https://senvol.com/wp-content/uploads/2026/04/Senvol-ML_Rosswag_Case-Study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "platform, slice it, and send it to the printer — a",
+    "url": "https://senvol.com/wp-content/uploads/2026/04/Senvol-ML_Rosswag_Case-Study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "tedious process prone to human error. Materialise",
+    "url": "https://senvol.com/wp-content/uploads/2026/04/Senvol-ML_Rosswag_Case-Study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Process Tuner (MPT) automated this step, saving",
+    "url": "https://senvol.com/wp-content/uploads/2026/04/Senvol-ML_Rosswag_Case-Study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "overheating in the test coupons before printing,",
+    "url": "https://senvol.com/wp-content/uploads/2026/04/Senvol-ML_Rosswag_Case-Study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "reach the process window.",
+    "url": "https://senvol.com/wp-content/uploads/2026/04/Senvol-ML_Rosswag_Case-Study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Improvement 3",
+    "url": "https://senvol.com/wp-content/uploads/2026/04/Senvol-ML_Rosswag_Case-Study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "builds. This is currently slow, non-reproducible, and",
+    "url": "https://senvol.com/wp-content/uploads/2026/04/Senvol-ML_Rosswag_Case-Study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "produced significant measurement bias. ZEISS",
+    "url": "https://senvol.com/wp-content/uploads/2026/04/Senvol-ML_Rosswag_Case-Study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "produce consistent results.",
+    "url": "https://senvol.com/wp-content/uploads/2026/04/Senvol-ML_Rosswag_Case-Study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "optimum print recipe.",
+    "url": "https://senvol.com/wp-content/uploads/2026/04/Senvol-ML_Rosswag_Case-Study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Improvement 4",
+    "url": "https://senvol.com/wp-content/uploads/2026/04/Senvol-ML_Rosswag_Case-Study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Comprehensive and quick",
+    "url": "https://senvol.com/wp-content/uploads/2026/04/Senvol-ML_Rosswag_Case-Study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "combination of process parameters on the resulting",
+    "url": "https://senvol.com/wp-content/uploads/2026/04/Senvol-ML_Rosswag_Case-Study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "material properties. This is particularly true given",
+    "url": "https://senvol.com/wp-content/uploads/2026/04/Senvol-ML_Rosswag_Case-Study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "interdependent parameter signature property",
+    "url": "https://senvol.com/wp-content/uploads/2026/04/Senvol-ML_Rosswag_Case-Study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "determining what process parameters need to be",
+    "url": "https://senvol.com/wp-content/uploads/2026/04/Senvol-ML_Rosswag_Case-Study.pdf",
+    "pass": 2
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Senvol | Leader in Additive Manufacturing Data",
+    "url": "https://senvol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Machine learning software specifically for additive manufacturing",
+    "url": "https://senvol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Senvol provides data to help companies implement additive manufacturing. Senvol’s various products and services allow companies to Access AM Data, Generate AM Data, and Analyze AM Data.",
+    "url": "https://senvol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Harrisburg, PA – August 28, 2026 – Senvol provided live demos of Senvol ML, its machine learning software for additive manufacturing, at the J-DAMMIT event earlier this...",
+    "url": "https://senvol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reno, NV – March 30, 2026 – Senvol President Annie Wang recently received the Distinguished INnovator Operators Award (DINO) by the Additive Manufacturing Users Group...",
+    "url": "https://senvol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reno, NV – March 1, 2026 – Senvol will exhibit at the upcoming 2026 Annual Additive Manufacturing Users Group (AMUG) Conference in two weeks. At the event Senvol will...",
+    "url": "https://senvol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Senvol to Exhibit at Military Additive Manufacturing Summit",
+    "url": "https://senvol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tampa, FL – January 26, 2026 – Senvol will exhibit at the upcoming 2026 Military Additive Manufacturing (MILAM) Summit next week. At the event, Senvol will highlight...",
+    "url": "https://senvol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Data to help companies implement additive manufacturing",
+    "url": "https://senvol.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Senvol is the global leader in additive manufacturing data",
+    "url": "https://senvol.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "have been used by a variety of Fortune 500 companies and government agencies in industries such as aerospace, oil & gas, consumer products, medical, and automotive.",
+    "url": "https://senvol.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive database of industrial AM machines and materials.",
+    "url": "https://senvol.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "A standard operating procedure that details how to generate pedigreed AM data. The 100+ page manual is used by organizations to ensure that every data generation project follows a standard procedure.",
+    "url": "https://senvol.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Senvol's executives serve on the additive manufacturing committees of the following organizations:",
+    "url": "https://senvol.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Machine learning software for additive manufacturing",
+    "url": "https://senvol.com/ml/",
+    "pass": 1
+   },
+   {
+    "quote": "Machine learning software specifically for additive manufacturing.",
+    "url": "https://senvol.com/ml/",
+    "pass": 1
+   },
+   {
+    "quote": "Senvol to Exhibit at Military Additive Manufacturing Summit | Senvol",
+    "url": "https://senvol.com/senvol-to-exhibit-at-military-additive-manufacturing-summit-2/",
+    "pass": 1
+   },
+   {
+    "quote": "Senvol to Exhibit at Military Additive Manufacturing Summit",
+    "url": "https://senvol.com/senvol-to-exhibit-at-military-additive-manufacturing-summit-2/",
+    "pass": 1
+   },
+   {
+    "quote": "Tampa, FL – January 26, 2026 – Senvol will exhibit at the upcoming 2026 Military Additive Manufacturing (MILAM) Summit next week. At the event, Senvol will highlight its latest additive manufacturing programs for the U.S. Navy, U.S. Army, and U.S. Air Force. The programs span topics such as qualification, machine learning, machine consistency, and material & process development.",
+    "url": "https://senvol.com/senvol-to-exhibit-at-military-additive-manufacturing-summit-2/",
+    "pass": 1
+   },
+   {
+    "quote": "The Military Additive Manufacturing Summit & Technology Showcase remains the premier event in North America for military, aerospace, and defense 3D printing. It features high-level discussions on Department of Defense acquisition priorities, international initiatives in 3D printing, and presentations on cutting-edge technological advancements in AM.",
+    "url": "https://senvol.com/senvol-to-exhibit-at-military-additive-manufacturing-summit-2/",
+    "pass": 1
+   },
+   {
+    "quote": "Senvol Developing Machine Learning Software for U.S. Navy for Additive Manufacturing | Senvol",
+    "url": "https://senvol.com/senvol-developing-machine-learning-software-u-s-navy-additive-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Senvol Developing Machine Learning Software for U.S. Navy for Additive Manufacturing",
+    "url": "https://senvol.com/senvol-developing-machine-learning-software-u-s-navy-additive-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "New York, NY – March 13, 2018 – Senvol has publicly announced that it is developing data-driven machine learning additive manufacturing (AM) software for the U.S. Navy’s Office of Naval Research (ONR). Senvol’s software analyzes the relationships between AM process parameters and material performance.",
+    "url": "https://senvol.com/senvol-developing-machine-learning-software-u-s-navy-additive-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Senvol Speaks at RAPID + TCT on Case Study with BMW | Senvol",
+    "url": "https://senvol.com/senvol-speaks-at-rapid-tct-on-case-study-with-bmw/",
+    "pass": 1
+   },
+   {
+    "quote": "Senvol Speaks at RAPID + TCT on Case Study with BMW",
+    "url": "https://senvol.com/senvol-speaks-at-rapid-tct-on-case-study-with-bmw/",
+    "pass": 1
+   },
+   {
+    "quote": "Chicago, IL – September 14, 2021 – Senvol President Annie Wang spoke earlier today at the annual RAPID + TCT Conference. The presentation, titled “Efficient Process Parameter Optimization Using Machine Learning,” focused on multiple case studies with Fortune 100 automotive company BMW. The case studies utilized Senvol’s additive manufacturing (AM) machine learning software,",
+    "url": "https://senvol.com/senvol-speaks-at-rapid-tct-on-case-study-with-bmw/",
+    "pass": 1
+   },
+   {
+    "quote": "RAPID + TCT is North America’s preeminent event for discovery, innovation, and networking in additive manufacturing, and hosts one of the most experienced and influential communities in additive manufacturing technologies.",
+    "url": "https://senvol.com/senvol-speaks-at-rapid-tct-on-case-study-with-bmw/",
+    "pass": 1
+   },
+   {
+    "quote": "quick industrialization of additive manu-",
+    "url": "https://senvol.com/wp-content/uploads/2026/04/Senvol-ML_Rosswag_Case-Study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Take advantage of a digital showroom and secure here your spot at the year-round virtual trade show for the manufacturing industry",
+    "url": "https://en.industryarena.com/senvol",
+    "pass": 3
+   },
+   {
+    "quote": "Senvol provides data to help companies implement additive manufacturing (AM).",
+    "url": "https://en.industryarena.com/senvol",
+    "pass": 3
+   },
+   {
+    "quote": "Senvol’s various products allow companies to access AM data, generate AM data, and analyze AM data.Senvol Database: First and most comprehensive database of industrial AM machines and materials. Contains spec-sheet data provided by machine manufacturers and material suppliers.",
+    "url": "https://en.industryarena.com/senvol",
+    "pass": 3
+   },
+   {
+    "quote": "The work was done as part of a contract that Senvol had been awarded by America Makes, the national additive manufacturing institute, and funded by the U.S. Air Force, to apply its machine learning software,",
+    "url": "https://www.americamakes.us/37923-2/",
+    "pass": 3
+   },
+   {
+    "quote": ", to enable a path to rapid development of material property allowables for additive manufacturing (AM).",
+    "url": "https://www.americamakes.us/37923-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Interview with Senvol's Annie Wang on Data for 3D Printing - 3DPrint.com | Additive Manufacturing Business",
+    "url": "https://3dprint.com/249162/interview-with-senvols-annie-wang-on-data-for-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Senvol is the global leader in data for additive manufacturing (AM).",
+    "url": "https://3dprint.com/249162/interview-with-senvols-annie-wang-on-data-for-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Senvol’s products and services have been used by a variety of Fortune 500 companies and government agencies in industries such as aerospace, oil & gas, consumer products, and automotive.",
+    "url": "https://3dprint.com/249162/interview-with-senvols-annie-wang-on-data-for-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "The Senvol Database is the first and most comprehensive database of industrial AM machines and",
+    "url": "https://3dprint.com/249162/interview-with-senvols-annie-wang-on-data-for-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "materials. The Senvol Database contains spec-sheet data provided by machine manufacturers",
+    "url": "https://3dprint.com/249162/interview-with-senvols-annie-wang-on-data-for-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "The Senvol SOP is a standard operating procedure that details how to generate pedigreed AM data.The 100+ page manual is used by organizations to ensure that every data generation project follows a standard procedure.",
+    "url": "https://3dprint.com/249162/interview-with-senvols-annie-wang-on-data-for-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "The Senvol SOP has been used by",
+    "url": "https://3dprint.com/249162/interview-with-senvols-annie-wang-on-data-for-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "If I want to implement 3D printing for manufacturing what advice would you give me?",
+    "url": "https://3dprint.com/249162/interview-with-senvols-annie-wang-on-data-for-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "As the industry continues to grow, and the number of AM machine sales increases, the manufacturing process to produce those machines will become more robust, which I believe will lead to greater consistency and repeatability for the builds conducted with those machines.",
+    "url": "https://3dprint.com/249162/interview-with-senvols-annie-wang-on-data-for-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Financials: Nikon’s Digital Manufacturing Revenue Grows 77% as Sam O’Leary Moves to Supervisory Board",
+    "url": "https://3dprint.com/249162/interview-with-senvols-annie-wang-on-data-for-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Nikon (TYO: 7731) just announced its earnings for Q2 (fiscal year ending March ’27), and we learned that the digital manufacturing business grew revenue by 77 percent to ¥17.4 billion...",
+    "url": "https://3dprint.com/249162/interview-with-senvols-annie-wang-on-data-for-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Manufacturing",
+    "url": "https://3dprint.com/249162/interview-with-senvols-annie-wang-on-data-for-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive manufacturing (AM) has become very good at proving what is possible. Companies can print complex metal parts, reduce weight, combine multiple components into one, and produce designs that are...",
+    "url": "https://3dprint.com/249162/interview-with-senvols-annie-wang-on-data-for-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://www.cbinsights.com/company/senvol",
+    "pass": 3
+   },
+   {
+    "quote": "Companies in the advanced manufacturing tech space, including companies focusing on technologies across R&D, mass production, or sustainability",
+    "url": "https://www.cbinsights.com/company/senvol",
+    "pass": 3
+   },
+   {
+    "quote": "AMUG Honors Six Additive Manufacturing Leaders with 2026 DINO Award",
+    "url": "https://www.cbinsights.com/company/senvol",
+    "pass": 3
+   },
+   {
+    "quote": "Senvol to lead U.S. Navy program on additive manufacturing sensor fusion",
+    "url": "https://www.cbinsights.com/company/senvol",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Harrisburg, PA – August 28, 2026 – Senvol provided live demos of Senvol ML, its machine learning software for additive manufacturing, at the J-DAMMIT event earlier this...",
+    "url": "https://senvol.com/",
+    "pass": 1
+   },
+   {
+    "quote": "have been used by a variety of Fortune 500 companies and government agencies in industries such as aerospace, oil & gas, consumer products, medical, and automotive.",
+    "url": "https://senvol.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "The Military Additive Manufacturing Summit & Technology Showcase remains the premier event in North America for military, aerospace, and defense 3D printing. It features high-level discussions on Department of Defense acquisition priorities, international initiatives in 3D printing, and presentations on cutting-edge technological advancements in AM.",
+    "url": "https://senvol.com/senvol-to-exhibit-at-military-additive-manufacturing-summit-2/",
+    "pass": 1
+   },
+   {
+    "quote": "The work was done as part of a contract that Senvol had been awarded by America Makes, the national additive manufacturing institute, and funded by the U.S. Air Force, to apply its machine learning software,",
+    "url": "https://www.americamakes.us/37923-2/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://www.americamakes.us/37923-2/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.americamakes.us/37923-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Senvol’s products and services have been used by a variety of Fortune 500 companies and government agencies in industries such as aerospace, oil & gas, consumer products, and automotive.",
+    "url": "https://3dprint.com/249162/interview-with-senvols-annie-wang-on-data-for-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Financials: Tekna’s Revenue Up 61 Percent YOY",
+    "url": "https://3dprint.com/249162/interview-with-senvols-annie-wang-on-data-for-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Financials: Nikon’s Digital Manufacturing Revenue Grows 77% as Sam O’Leary Moves to Supervisory Board",
+    "url": "https://3dprint.com/249162/interview-with-senvols-annie-wang-on-data-for-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Nikon (TYO: 7731) just announced its earnings for Q2 (fiscal year ending March ’27), and we learned that the digital manufacturing business grew revenue by 77 percent to ¥17.4 billion...",
+    "url": "https://3dprint.com/249162/interview-with-senvols-annie-wang-on-data-for-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Senvol - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "url": "https://www.cbinsights.com/company/senvol",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "have been used by a variety of Fortune 500 companies and government agencies in industries such as aerospace, oil & gas, consumer products, medical, and automotive.",
+    "url": "https://senvol.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": ", large companies, government agencies were all interested to learn more and crunch the numbers and the only place to get them was from Senvol. Brilliant business idea and excellent execution gave us a valuable resource for 3D printing. We spoke to Senvol President Annie Wang to find out more about the firm.",
+    "url": "https://3dprint.com/249162/interview-with-senvols-annie-wang-on-data-for-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Senvol’s products and services have been used by a variety of Fortune 500 companies and government agencies in industries such as aerospace, oil & gas, consumer products, and automotive.",
+    "url": "https://3dprint.com/249162/interview-with-senvols-annie-wang-on-data-for-3d-printing/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "The software under development will be made commercially available to any company looking to qualify AM parts. If your company is interested in potentially gaining beta access to the software, you can contact Senvol at info@senvol.com for more details.",
+    "url": "https://senvol.com/senvol-developing-machine-learning-software-u-s-navy-additive-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "To book Senvol for a speaking engagement, contact us.",
+    "url": "https://senvol.com/senvol-speaks-at-rapid-tct-on-case-study-with-bmw/",
+    "pass": 1
+   },
+   {
+    "quote": "{{ errors.first('email') }}",
+    "url": "https://en.industryarena.com/senvol",
+    "pass": 3
+   },
+   {
+    "quote": "Subscribe to Our Email Newsletter",
+    "url": "https://3dprint.com/249162/interview-with-senvols-annie-wang-on-data-for-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "info@3dprint.com",
+    "url": "https://3dprint.com/249162/interview-with-senvols-annie-wang-on-data-for-3d-printing/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Senvol | Leader in Additive Manufacturing Data — Senvol’s Products Senvol provides data to help companies implement additive manufacturing. Senvol’s various products and services allow companies to Access AM Data, Generate AM Data, and Analyze AM Data.",
+    "url": "https://senvol.com/",
+    "pass": 3
+   },
+   {
+    "quote": "About Us | Senvol — Senvol is the global leader in additive manufacturing data Senvol’s products and services have been used by a variety of Fortune 500 companies and government agencies in industries such as aerospace, oil & gas, consumer products, medical, and automotive. Senvol’s various products and services allow companies to Access AM Data, Generate AM Data, and Analyze AM Data.",
+    "url": "https://senvol.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Senvol が Siemens Energy AM データを商用化 | 株式会社ワイズワーズ... — 各 Senvol Index データ セットは個別に販売されており、開発に数か月かかる AM データ セットへの即時アクセスを提供します。 同社によれば、すべての Senvol Indexes と同様に、Siemens Energy データベースも開発コストの数分の一の価格で提供されています。",
+    "url": "https://ja.pijusc.com/blog/senvol-commercialises-siemens-energy-am-data",
+    "pass": 3
+   },
+   {
+    "quote": "Senvol、積層造形一貫性で米陸軍の助成金を獲得 — May 19, 2023 · レッドイット 電子メール 写真：センヴォル Senvolは、アメリカ軍からの助成金を受け取り、異なる場所のさまざまな機械で一貫した性能を発揮できることを証明するために、アディティブマニュファクチャリングされた部品の性能を示すことを発表しました。",
+    "url": "https://3druck.com/ja/産業/senvolは米軍の補助金を受けてアディティブ製造の一-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Senvol、機械学習を用いた材料承認方法を発表 — Jul 11, 2023 · Senvolのプログラムは、機械学習を活用した付加製造のための承認開発の新しいアプローチを実証することに非常に成功しました。 AMMPプログラムの技術的アプローチと試験結果を検討したヘクター・サンドバルは、次のように付け加えている。",
+    "url": "https://3druck.com/ja/産業/senvol、機械学習を用いた材料承認方法を発表-44119686/",
+    "pass": 3
+   },
+   {
+    "quote": "Senvol Database™ Material Search — We’re always looking for ways to make the database even better and would love to hear from you! Email us at database@senvol.com with any comments, suggestions, or ideas. Click here to sign up for our newsletter to receive updates on the Senvol Database™.",
+    "url": "https://senvol.com/senvol-database-material-search/",
+    "pass": 3
+   },
+   {
+    "quote": "Senvol - LinkedIn — Senvol’s executives have been published in various additive manufacturing industry journals and have been featured speakers at numerous industry conferences. Senvol is a Gold Member of America ...",
+    "url": "https://www.linkedin.com/company/senvol",
+    "pass": 3
+   },
+   {
+    "quote": "Home - SENVOL — Senvol ML includes a data-driven machine learning algorithm that analyzes the relationships between AM process parameters and material performance. Senvol Services: The consulting division of Senvol. Senvol Services provides both business and technical expertise in AM, with a particular focus on projects that are data-related.",
+    "url": "https://en.industryarena.com/senvol",
+    "pass": 3
+   },
+   {
+    "quote": "Locations - SENVOL — SENVOL Locations - Purpose of processing We process your personal data concerning the use of the contact form and the communication with the company of the newsroom as well as the transmission of your data to this company in accordance to Art. 6 (1a) GDPR. This constitutes a legitimate interest for us in accordance to Art. 6 (1f) GDPR.",
+    "url": "https://en.industryarena.com/senvol/locations",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Manufacturing - Senvol — Additive manufacturing (AM) – also known as 3D printing – has made tremendous technological progress. Final production parts, such as jet engine fuel nozzles, custom hearing aids, and impellers, can now be printed in materials ranging from polymers to metals.",
+    "url": "https://senvol.com/additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Senvol ML enables new approach to material allowables ... — Senvol recently demonstrated a machine learning approach to material property allowables development that was shown to be more flexible, more cost-effective, more time-effective, and just as accurate as the conventional (in this case, CMH-17) approach to allowables development.",
+    "url": "https://www.americamakes.us/37923-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Interview with Senvol’s Annie Wang on Data for 3D Printing — Jul 22, 2019 · Senvol Services provides both business and technical expertise in AM, with a particular focus on projects that are data-related. You seem to be working a lot for the defense industry?",
+    "url": "https://3dprint.com/249162/interview-with-senvols-annie-wang-on-data-for-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Senvol-Determining Cost-Effectiveness of Additive ... — Mar 12, 2015 · The additive manufacturing industry is rapidly evolving. In early January 2015 a company named Senvol, based in New York City, launched the Senvol Database. The Senvol Database is reported to be the first and only searchable database for industrial additive manufacturing machines and materials. The company also offers a service",
+    "url": "https://additivemanufacturing.com/2015/03/12/exclusive-with-senvol-determining-cost-effectiveness-of-additive-manufacturing-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Senvol - Overview, News & Similar companies | ZoomInfo.com — View Senvol (www.senvol.com) location in New York, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+    "url": "https://www.zoominfo.com/c/senvol-llc/365482337",
+    "pass": 3
+   },
+   {
+    "quote": "Senvol - Products, Competitors, Financials, Employees ... — Senvol Frequently Asked Questions (FAQ) When was Senvol founded? Senvol was founded in 2012. Where is Senvol's headquarters? Senvol's headquarters is located at 335 Madison Avenue, New York. What is Senvol's latest funding round? Senvol's latest funding round is Grant - IV. Who are the investors of Senvol?",
+    "url": "https://www.cbinsights.com/company/senvol",
+    "pass": 3
+   },
+   {
+    "quote": "Senvol - Crunchbase Company Profile & FundingSenvol Company Profile: Financials, Valuation, and GrowthSenvol | Leader in Additive Manufacturing DataSenvol Stock Price, Funding, Valuation, Revenue & Financial ...About Us | Senvol — Where is Senvol's headquarters? Senvol is located in New York, New York, United States. Who invested in Senvol? Senvol is funded by Grand Central Tech. When was the last",
+    "url": "https://www.crunchbase.com/organization/senvol",
+    "pass": 3
+   },
+   {
+    "quote": "Senvol Company Profile: Financials, Valuation, and Growth — Senvol is a privately-held company that operates in the software & internet services industry. Senvol headquarters are located in New York, New York.",
+    "url": "https://www.privco.com/company/senvol",
+    "pass": 3
+   },
+   {
+    "quote": "Senvol | Leader in Additive Manufacturing Data — Senvol Leads U.S. Navy Program on AM Sensor Fusion Philadelphia, PA – January 12, 2026 – Senvol has received funding from the U.S. Navy to lead a project focused on demonstrating that based on in-situ monitoring data,...",
+    "url": "https://senvol.com/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Senvol (@Senvol) / X Senvol @Senvol Data to help companies implement additive manufacturing New York, NY senvol.com",
+    "url": "https://x.com/Senvol",
+    "pass": 3
+   },
+   {
+    "quote": "Senvol (@Senvol) / X Data to help companies implement additive manufacturing",
+    "url": "https://x.com/Senvol",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Senvol - LinkedIn Senvol’s executives have been published in various additive manufacturing industry journals and have been featured speakers at numerous industry conferences. Senvol is a Gold Member of America ...",
+    "url": "https://www.linkedin.com/company/senvol",
+    "pass": 3
+   },
+   {
+    "quote": "Zach Simkin - President at Senvol | Past Chair, SME Additive ...Senvol to Exhibit at Military Additive Manufacturing Summit ...Michael Pecota on LinkedIn: Senvol to lead U.S. Army program ...Gregor Graf on LinkedIn: Senvol commercialises Siemens Energy ...Software company Senvol has received funding from the US Army ...Marc Lee on LinkedIn: US Army Tasks Senvol to Research Metal ... President at S",
+    "url": "https://www.linkedin.com/in/zsimkin",
+    "pass": 3
+   },
+   {
+    "quote": "Senvol to Exhibit at Military Additive Manufacturing Summit ... Going to the MILAM Conference next week? If so stop by Senvol's booth #307 to learn more about our latest programs with the U.S. Navy, U.S. Army, and U.S. Air Force. Current programs range from AM ...",
+    "url": "https://www.linkedin.com/posts/senvol_senvol-to-exhibit-at-military-additive-manufacturing-activity-7421924377656475648-ylhC",
+    "pass": 3
+   },
+   {
+    "quote": "Michael Pecota on LinkedIn: Senvol to lead U.S. Army program ... “The program was created with the goal of accommodating the reduction of cost and lead time of Army ground vehicle systems while increasing performance. Senvol will use its 3D printing machine learning software, Senvol ML, to reduce the cost of material and process development and to enable the Army to produce AM parts of consistent ",
+    "url": "https://mw.linkedin.com/posts/michael-pecota_senvol-to-lead-us-army-program-focused-activity-7067457028771745792-hLIu",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Senvol Construction Machinery | Jining - Facebook Aug 22, 2026 · Senvol Construction Machinery, Jining. 33 likes · 2 talking about this. Senvol Construction Machinery Factory WhatsApp：+86 13290304444 Email:...",
+    "url": "https://www.facebook.com/p/Senvol-Construction-Machinery-61590489880742/",
+    "pass": 3
+   },
+   {
+    "quote": "Do you want this skid-steer loader? #senvol #skidsteerloader ... Jun 28, 2026 · Do you want this skid-steer loader? #senvol #skidsteerloader #FactoryDirectSales #ChineseSkidSteerLoader",
+    "url": "https://www.facebook.com/61590489880742/videos/1683051579590288/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://senvol.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://senvol.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://senvol.com/ml/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://senvol.com/senvol-to-exhibit-at-military-additive-manufacturing-summit-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://senvol.com/senvol-developing-machine-learning-software-u-s-navy-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://senvol.com/senvol-speaks-at-rapid-tct-on-case-study-with-bmw/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://senvol.com/wp-content/uploads/2026/04/Senvol-ML_Rosswag_Case-Study.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.pijusc.com/blog/senvol-commercialises-siemens-energy-am-data",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/senvol%E3%81%AF%E7%B1%B3%E8%BB%8D%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%E3%82%92%E5%8F%97%E3%81%91%E3%81%A6%E3%82%A2%E3%83%87%E3%82%A3%E3%83%86%E3%82%A3%E3%83%96%E8%A3%BD%E9%80%A0%E3%81%AE%E4%B8%80-2/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/senvol",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.industryarena.com/senvol",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.americamakes.us/37923-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprint.com/249162/interview-with-senvols-annie-wang-on-data-for-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.canva.com/partners/reseller/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/senvol-llc/365482337",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/senvol",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/senvol",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.privco.com/company/senvol",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Senvol",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/senvol",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/zsimkin",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/senvol_senvol-to-exhibit-at-military-additive-manufacturing-activity-7421924377656475648-ylhC",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mw.linkedin.com/posts/michael-pecota_senvol-to-lead-us-army-program-focused-activity-7067457028771745792-hLIu",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Senvol-Construction-Machinery-61590489880742/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61590489880742/videos/1683051579590288/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/senvol",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Senvol",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Senvol 日本 導入",
+   "results": [
+    "https://senvol.com/",
+    "https://senvol.com/about-us/",
+    "https://ja.pijusc.com/blog/senvol-commercialises-siemens-energy-am-data",
+    "https://3druck.com/ja/産業/senvolは米軍の補助金を受けてアディティブ製造の一-2/",
+    "https://3druck.com/ja/産業/senvol、機械学習を用いた材料承認方法を発表-44119686/",
+    "https://news.sharelab.jp/3dp-news/tech/senvol-201203/",
+    "https://news.sharelab.jp/tag/ul/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Senvol 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.syensqo.com/ja/japan/syensqo-japan-ltd",
+    "https://www.weblio.jp/content/総代理店",
+    "https://note.com/yamamoto_ec/n/ncc92bffa3f69"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Senvol Japan",
+   "results": [
+    "https://senvol.com/",
+    "https://senvol.com/senvol-database-material-search/",
+    "https://www.linkedin.com/company/senvol",
+    "https://en.industryarena.com/senvol",
+    "https://en.industryarena.com/senvol/locations",
+    "https://www.digitalengineering247.com/company/senvol",
+    "https://senvol.en.alibaba.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Senvol manufacturing customer case study",
+   "results": [
+    "https://senvol.com/",
+    "https://senvol.com/additive-manufacturing/",
+    "https://www.americamakes.us/37923-2/",
+    "https://3dprint.com/249162/interview-with-senvols-annie-wang-on-data-for-3d-printing/",
+    "https://additivemanufacturing.com/2015/03/12/exclusive-with-senvol-determining-cost-effectiveness-of-additive-manufacturing-am/",
+    "https://3dprint.com/301712/senvol-machine-learning-software-demonstrates-accurate-prediction-of-3d-printed-metal-performance/",
+    "https://www.metal-am.com/category/company/senvol/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Senvol white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.canva.com/partners/reseller/",
+    "https://reolink.com/distributor-reseller/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Senvol founded funding employees revenue",
+   "results": [
+    "https://www.zoominfo.com/c/senvol-llc/365482337",
+    "https://www.cbinsights.com/company/senvol",
+    "https://www.crunchbase.com/organization/senvol",
+    "https://www.privco.com/company/senvol",
+    "https://senvol.com/",
+    "https://www.cbinsights.com/company/senvol/financials",
+    "https://senvol.com/about-us/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Senvol",
+   "results": [
+    "https://note.com/luciferlove",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/fu_tan56/n/nf7255c13d375",
+    "https://note.com/hirokimiyano/n/nb97d74a785ab",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/end_hamaokanp/n/n86a8ede22413",
+    "https://note.com/ltfrankc/n/ne399c132ddf7"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Senvol",
+   "results": [
+    "https://x.com/Senvol",
+    "https://x.com/",
+    "https://x.com/darkilingnaty/status/2116203949992694035",
+    "https://x.com/xoeeie/status/2118049984436445429",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/evadentz/status/2115896420809216184",
+    "https://x.com/CogitoEdu/status/2117911840973861028"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Senvol",
+   "results": [
+    "https://www.linkedin.com/company/senvol",
+    "https://www.linkedin.com/in/zsimkin",
+    "https://www.linkedin.com/posts/senvol_senvol-to-exhibit-at-military-additive-manufacturing-activity-7421924377656475648-ylhC",
+    "https://mw.linkedin.com/posts/michael-pecota_senvol-to-lead-us-army-program-focused-activity-7067457028771745792-hLIu",
+    "https://gi.linkedin.com/posts/gregor-graf_senvol-commercialises-siemens-energy-am-data-activity-7038816595829252096-ahW_",
+    "https://tr.linkedin.com/posts/3dadept_machine-learning-software-senvol-ml-used-activity-7067125104131891200-4oH5",
+    "https://is.linkedin.com/posts/marc-lee-b05b9834_us-army-tasks-senvol-to-research-metal-3d-activity-7065114184027410432-UF6n"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Senvol",
+   "results": [
+    "https://www.facebook.com/p/Senvol-Construction-Machinery-61590489880742/",
+    "https://www.facebook.com/61590489880742/videos/1683051579590288/",
+    "https://lite.facebook.com/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/profile.php/?id=100066966691769",
+    "https://www.facebook.com/3dPrintingIndustry/posts/senvol-to-lead-us-navy-program-on-additive-manufacturing-sensor-fusion-senvol-a-/1294474369379479/",
+    "https://www.facebook.com/DefenseAndMunitions/photos/senvol-leads-us-navy-program-on-am-sensor-fusion-learn-how-machine-learning-soft/848219884973467/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Senvol note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Senvol X 投稿",
+   "results": [
+    "https://senvol.com/",
+    "https://www.linkedin.com/company/senvol",
+    "https://senvol.com/about-us/",
+    "https://x.com/Senvol",
+    "https://tansajp.org/investigativejournal/13936/",
+    "https://note.com/abm0001/n/n5e200a35f1ff",
+    "https://note.com/kawaidesign/n/n5342105ba476",
+    "https://sns-tora.jp/x-sensitive-tag/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部27頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部27頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部27頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部27頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部27頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部27頁・検索12回）"
+ }
+}

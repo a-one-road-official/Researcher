@@ -1,0 +1,457 @@
+{
+ "name": "ASS Maschinenbau GmbH",
+ "aliases": [],
+ "context": "旧営業リスト｜industrial_b2b｜未接触",
+ "researched_at": "2026-11-10T19:34:07.969276+00:00",
+ "official_url": "https://www.ass-automation.com/de/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Mit über 40 Jahren Erfahrung ist die ASS Ihr verlässlicher Ansprechpartner für Greiferteile, Roboterhände und Automationsanlagen.",
+    "url": "https://www.ass-automation.com/de/",
+    "pass": 1
+   },
+   {
+    "quote": "Klimaneutraler Standort seit 2021 durch strategische sowie nachhaltige Unternehmensplanung und Einbindung aller Prozesse zur Reduktion des CO2-Fußabdrucks.",
+    "url": "https://www.ass-automation.com/de/",
+    "pass": 1
+   },
+   {
+    "quote": "Es ist unser tägliches Ziel, die stetig steigenden Anforderungen unserer Kunden zu erfüllen. Dabei orientieren wir uns stehts am Kundennutzen und stehen mit unseren langlebigen Produkten und schnellem Service für Qualität und Zuverlässigkeit.",
+    "url": "https://www.ass-automation.com/de/",
+    "pass": 1
+   },
+   {
+    "quote": "Um bestehende Infrastrukturen und Anlagentechnik beim Kunden weiter nutzen zu können, kombinieren wir gezielt unser gesamtes Repertoire, für eine leichte und ressourcenschonende Handhabungslösung. Auch bei der Planung von energieeffizienten Neuanlagen leistet ein reduziertes Greifergewicht einen entscheidenden Beitrag. Dies entspricht voll unserem konsequenten Ansatz im Sinne der Nachhaltigkeit.",
+    "url": "https://www.ass-automation.com/de/",
+    "pass": 1
+   },
+   {
+    "quote": "Wir werden den Prozess zur Steigerung der Nachhaltigkeit weiter geplant und sinnvoll weiterführen. Eines unserer Ziele ist es, den CO2-Fußabdruck weiter zu reduzieren, die Qualität zu verbessern und dies bei konstanten Preisen umzusetzen. Unsere Kunden erfahren so einen Mehrwert ohne zusätzliche Belastungen.",
+    "url": "https://www.ass-automation.com/de/",
+    "pass": 1
+   },
+   {
+    "quote": "ASS steht für technologische Kompetenz und innovative Lösungen. In der aktuellen weltwirtschaftlichen Situation treibt unser Team den kontinuierlichen Verbesserungsprozess intensiv voran, um unseren Kunden die nötige Verlässlichkeit für Projektdurchführungen zu geben, den Materialbedarf an Greiferkomponenten ab Lager zu decken und zugleich neue Produktinnovationen voranzutreiben.",
+    "url": "https://www.ass-automation.com/de/",
+    "pass": 1
+   },
+   {
+    "quote": "zur Finanzierung zerttclerer Projekte im al 2026,",
+    "url": "https://www.ass-automation.com/images/logos/Primaklima_800.png",
+    "pass": 2
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Wir werden den Prozess zur Steigerung der Nachhaltigkeit weiter geplant und sinnvoll weiterführen. Eines unserer Ziele ist es, den CO2-Fußabdruck weiter zu reduzieren, die Qualität zu verbessern und dies bei konstanten Preisen umzusetzen. Unsere Kunden erfahren so einen Mehrwert ohne zusätzliche Belastungen.",
+    "url": "https://www.ass-automation.com/de/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "info@ass-maschinenbau.de",
+    "url": "https://www.ass-automation.com/de/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ass-automation.com/de/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.ass-automation.com/images/logos/ASS_Logo_800.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ass-automation.com/images/logos/40-Jahre-breit_800.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ass-automation.com/images/logos/Primaklima_800.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ass-automation.com/images/logos/ISO-9001_800.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Buttocks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Human_anus",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hqbutt.com/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=KVkg97WmhkQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Buttocks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Human_anus",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hqbutt.com/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=KVkg97WmhkQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Buttocks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Human_anus",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hqbutt.com/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=KVkg97WmhkQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Buttocks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Human_anus",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hqbutt.com/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=KVkg97WmhkQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Buttocks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Human_anus",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hqbutt.com/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=KVkg97WmhkQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Buttocks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Human_anus",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hqbutt.com/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=KVkg97WmhkQ",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ASS Maschinenbau GmbH 日本 導入",
+   "results": [
+    "https://en.wikipedia.org/wiki/Buttocks",
+    "https://en.wikipedia.org/wiki/Human_anus",
+    "https://hqbutt.com/",
+    "https://www.youtube.com/watch?v=KVkg97WmhkQ",
+    "https://dictionary.cambridge.org/dictionary/english/ass",
+    "https://www.merriam-webster.com/dictionary/ass",
+    "https://www.thefreedictionary.com/ass",
+    "https://www.britannica.com/animal/ass",
+    "https://www.dictionary.com/browse/ass",
+    "https://www.reddit.com/r/BigAss/about/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "ASS Maschinenbau GmbH 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://en.wikipedia.org/wiki/Buttocks",
+    "https://en.wikipedia.org/wiki/Human_anus",
+    "https://hqbutt.com/",
+    "https://www.youtube.com/watch?v=KVkg97WmhkQ",
+    "https://dictionary.cambridge.org/dictionary/english/ass",
+    "https://www.merriam-webster.com/dictionary/ass",
+    "https://www.thefreedictionary.com/ass",
+    "https://www.britannica.com/animal/ass",
+    "https://www.dictionary.com/browse/ass",
+    "https://www.reddit.com/r/BigAss/about/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "ASS Maschinenbau GmbH Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Buttocks",
+    "https://en.wikipedia.org/wiki/Human_anus",
+    "https://hqbutt.com/",
+    "https://www.youtube.com/watch?v=KVkg97WmhkQ",
+    "https://dictionary.cambridge.org/dictionary/english/ass",
+    "https://www.merriam-webster.com/dictionary/ass",
+    "https://www.thefreedictionary.com/ass",
+    "https://www.britannica.com/animal/ass",
+    "https://www.dictionary.com/browse/ass",
+    "https://www.reddit.com/r/BigAss/about/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "ASS Maschinenbau GmbH manufacturing customer case study",
+   "results": [
+    "https://en.wikipedia.org/wiki/Buttocks",
+    "https://en.wikipedia.org/wiki/Human_anus",
+    "https://hqbutt.com/",
+    "https://www.youtube.com/watch?v=KVkg97WmhkQ",
+    "https://dictionary.cambridge.org/dictionary/english/ass",
+    "https://www.merriam-webster.com/dictionary/ass",
+    "https://www.thefreedictionary.com/ass",
+    "https://www.britannica.com/animal/ass",
+    "https://www.dictionary.com/browse/ass",
+    "https://www.reddit.com/r/BigAss/about/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "ASS Maschinenbau GmbH white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Buttocks",
+    "https://en.wikipedia.org/wiki/Human_anus",
+    "https://hqbutt.com/",
+    "https://www.youtube.com/watch?v=KVkg97WmhkQ",
+    "https://dictionary.cambridge.org/dictionary/english/ass",
+    "https://www.merriam-webster.com/dictionary/ass",
+    "https://www.thefreedictionary.com/ass",
+    "https://www.britannica.com/animal/ass",
+    "https://www.dictionary.com/browse/ass",
+    "https://www.reddit.com/r/BigAss/about/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "ASS Maschinenbau GmbH founded funding employees revenue",
+   "results": [
+    "https://en.wikipedia.org/wiki/Buttocks",
+    "https://en.wikipedia.org/wiki/Human_anus",
+    "https://hqbutt.com/",
+    "https://www.youtube.com/watch?v=KVkg97WmhkQ",
+    "https://dictionary.cambridge.org/dictionary/english/ass",
+    "https://www.merriam-webster.com/dictionary/ass",
+    "https://www.thefreedictionary.com/ass",
+    "https://www.britannica.com/animal/ass",
+    "https://www.dictionary.com/browse/ass",
+    "https://www.reddit.com/r/BigAss/about/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:note.com ASS Maschinenbau GmbH",
+   "results": [
+    "https://en.wikipedia.org/wiki/Buttocks",
+    "https://en.wikipedia.org/wiki/Human_anus",
+    "https://hqbutt.com/",
+    "https://www.reddit.com/r/BigAss/about/",
+    "https://www.youtube.com/watch?v=KVkg97WmhkQ",
+    "https://dictionary.cambridge.org/dictionary/english/ass",
+    "https://www.merriam-webster.com/dictionary/ass",
+    "https://www.thefreedictionary.com/ass",
+    "https://www.britannica.com/animal/ass",
+    "https://www.dictionary.com/browse/ass"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:x.com ASS Maschinenbau GmbH",
+   "results": [
+    "https://en.wikipedia.org/wiki/Buttocks",
+    "https://en.wikipedia.org/wiki/Human_anus",
+    "https://hqbutt.com/",
+    "https://www.reddit.com/r/BigAss/about/",
+    "https://www.youtube.com/watch?v=KVkg97WmhkQ",
+    "https://dictionary.cambridge.org/dictionary/english/ass",
+    "https://www.merriam-webster.com/dictionary/ass",
+    "https://www.thefreedictionary.com/ass",
+    "https://www.britannica.com/animal/ass",
+    "https://www.dictionary.com/browse/ass"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com ASS Maschinenbau GmbH",
+   "results": [
+    "https://en.wikipedia.org/wiki/Buttocks",
+    "https://en.wikipedia.org/wiki/Human_anus",
+    "https://hqbutt.com/",
+    "https://www.reddit.com/r/BigAss/about/",
+    "https://www.youtube.com/watch?v=KVkg97WmhkQ",
+    "https://dictionary.cambridge.org/dictionary/english/ass",
+    "https://www.merriam-webster.com/dictionary/ass",
+    "https://www.thefreedictionary.com/ass",
+    "https://www.britannica.com/animal/ass",
+    "https://www.dictionary.com/browse/ass"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:facebook.com ASS Maschinenbau GmbH",
+   "results": [
+    "https://en.wikipedia.org/wiki/Buttocks",
+    "https://en.wikipedia.org/wiki/Human_anus",
+    "https://hqbutt.com/",
+    "https://www.reddit.com/r/BigAss/about/",
+    "https://www.youtube.com/watch?v=KVkg97WmhkQ",
+    "https://dictionary.cambridge.org/dictionary/english/ass",
+    "https://www.merriam-webster.com/dictionary/ass",
+    "https://www.thefreedictionary.com/ass",
+    "https://www.britannica.com/animal/ass",
+    "https://www.dictionary.com/browse/ass"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "ASS Maschinenbau GmbH note 社長",
+   "results": [
+    "https://en.wikipedia.org/wiki/Buttocks",
+    "https://en.wikipedia.org/wiki/Human_anus",
+    "https://hqbutt.com/",
+    "https://www.youtube.com/watch?v=KVkg97WmhkQ",
+    "https://dictionary.cambridge.org/dictionary/english/ass",
+    "https://www.merriam-webster.com/dictionary/ass",
+    "https://www.thefreedictionary.com/ass",
+    "https://www.britannica.com/animal/ass",
+    "https://www.dictionary.com/browse/ass",
+    "https://www.reddit.com/r/BigAss/about/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "ASS Maschinenbau GmbH X 投稿",
+   "results": [
+    "https://en.wikipedia.org/wiki/Buttocks",
+    "https://en.wikipedia.org/wiki/Human_anus",
+    "https://hqbutt.com/",
+    "https://www.youtube.com/watch?v=KVkg97WmhkQ",
+    "https://dictionary.cambridge.org/dictionary/english/ass",
+    "https://www.merriam-webster.com/dictionary/ass",
+    "https://www.thefreedictionary.com/ass",
+    "https://www.britannica.com/animal/ass",
+    "https://www.dictionary.com/browse/ass",
+    "https://www.reddit.com/r/BigAss/about/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部24頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部24頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部24頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部24頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部24頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部24頁・検索12回）"
+ }
+}

@@ -1,0 +1,1354 @@
+{
+ "name": "協栄産業株式会社",
+ "aliases": [],
+ "context": "PBF=yes 装置=電子ビーム金属3D 出典=https://www.kyoei.co.jp/product/division/machine/3d_printer/news2019_03.html",
+ "researched_at": "2026-11-10T19:11:11.229950+00:00",
+ "official_url": "https://www.kyoei.co.jp/",
+ "identified_by": "search:yahoo_jp:協栄産業",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "創立",
+    "value": "創立：1947（昭和22）年 10月 6日",
+    "url": "https://www.kyoei.co.jp/company/information.html",
+    "pass": 1
+   },
+   {
+    "label": "設立年月日",
+    "value": "設立年月日：1947年10月6日",
+    "url": "https://www.taxan.co.jp/news-information/group_company/kyoei-sangyo-co-ltd",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "アクセスマップ 〒140-0002 東京都品川区東品川4-12-6　 品川シーサイドキャナルタワー TEL:03-4241-5511（大代表）",
+    "url": "https://www.kyoei.co.jp/company/information.html",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒140-0002　東京都品川区東品川4-12-6　 品川シーサイドキャナルタワー",
+    "url": "https://www.taxan.co.jp/news-information/group_company/kyoei-sangyo-co-ltd",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "4億円 （2026年3月末）",
+    "url": "https://www.kyoei.co.jp/company/information.html",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "3,161,819千円",
+    "url": "https://www.taxan.co.jp/news-information/group_company/kyoei-sangyo-co-ltd",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "株主",
+    "value": "加賀電子株式会社",
+    "url": "https://www.kyoei.co.jp/company/information.html",
+    "pass": 1
+   },
+   {
+    "label": "株主構成",
+    "value": "加賀電子株式会社100％",
+    "url": "https://www.taxan.co.jp/news-information/group_company/kyoei-sangyo-co-ltd",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "785名（連結） （2026年3月期）",
+    "url": "https://www.kyoei.co.jp/company/information.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "710名（2026年3月31日現在）",
+    "url": "https://www.taxan.co.jp/news-information/group_company/kyoei-sangyo-co-ltd",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "用途・客の産業": [
+   {
+    "quote": "「半導体・FA事業」と「システム開発事業」を核に、最新のエレクトロニクス、モジュール・生産装置、",
+    "url": "https://www.kyoei.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター（医療機器）",
+    "url": "https://www.kyoei.co.jp/product/division_copy/other.html",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター（医療機器）",
+    "url": "https://www.kyoei.co.jp/product/division/machine/3d_printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "エネルギーマネジメントシステム(LOYTEC)",
+    "url": "https://www.kyoei.co.jp/fa/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "半導体、電子デバイス、金属材料、産業機器、情報通信機器、環境対応製品、3Dプリンター、プリント配線板 など",
+    "url": "https://www.kyoei.co.jp/company/information.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動車、モバイル端末、医療機器等あらゆる分野へエレクトロニクスを提供しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp269240/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "KYOEIの製品は、自動車、モバイル端末、医療機器、デジタルAV機器、家電、アミューズメント、公共施設など、さまざまなビジネスシーンや生活空間に入り込んでいます",
+    "url": "https://job.mynavi.jp/27/pc/search/corp269240/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "江戸川大学、大阪学院大学、大妻女子大学、神奈川工科大学、関西大学、神田外語大学、関東学院大学、関東学園大学、北里大学、近畿職業能力開発大学校（応用課程）、国士舘大学、駒澤大学、埼玉工業大学、上智大学、湘南工科大学、専修大学、大東文化大学、拓殖大学、千葉工業大学、千葉商科大学、中央大学、帝京科学大学（東京）、東海大学、東京医療保健大学、東京経済大学、東京工科大学、東京工芸大学、東京国際大学、東京国際工科専門職大学、東京電機大学、東京都市大学、東京理科大学、東洋大学、日本大学、広島工業大学、広島市立大学、法政大学、武蔵大学、武蔵野大学、明治大学、明治学院大学、名城大学、山形大学、流通経済大学（千葉）、早稲田大学",
+    "url": "https://job.mynavi.jp/27/pc/search/corp269240/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "これからも、「半導体・FA事業」と「システム開発事業」を核に、最新のエレクトロニクス、モジュール・生産装置、これらを統合するシステム開発をご提供し、お客様のものづくりや製品開発などの課題解決のお手伝いをいたします",
+    "url": "https://www.taxan.co.jp/news-information/group_company/kyoei-sangyo-co-ltd",
+    "pass": 3
+   },
+   {
+    "quote": "半導体・デバイス製品、金属材料、産業機器、プリント配線板等の販売、およびソフトウェア開発",
+    "url": "https://www.taxan.co.jp/news-information/group_company/kyoei-sangyo-co-ltd",
+    "pass": 3
+   },
+   {
+    "quote": "当社は新潟県長岡市を拠点に、世界の航空機や大型ガスタービン分野を支える「超精密鋳造」のグローバルプレイヤーです",
+    "url": "https://www.alevelsearch.com/company/kyoei-rg/",
+    "pass": 3
+   },
+   {
+    "quote": "他社が断る難材質や複雑形状の量産を可能にする「ロストワックス製法 …",
+    "url": "https://www.alevelsearch.com/company/kyoei-rg/",
+    "pass": 3
+   },
+   {
+    "quote": "【半導体商社×EMSの“融合進化”】協栄産業(6973)DD：AI・IoT時代の隠れたキープレイヤー、株価“再評価”への挑戦｜日本個別株デューデリジェンスセンター",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   },
+   {
+    "quote": "【半導体商社×EMSの“融合進化”】協栄産業(6973)DD：AI・IoT時代の隠れたキープレイヤー、株価“再評価”への挑戦",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   },
+   {
+    "quote": "スマートフォン、パソコン、自動車、そして工場の自動化設備や医療機器…",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   },
+   {
+    "quote": "私たちの現代社会は、多種多様な電子部品と、それらを制御する半導体なしには成り立ちません",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   },
+   {
+    "quote": "本日、私たちが徹底的にデュー・デリジェンス（DD）を行うのは、このエレクトロニクス産業のサプライチェーンにおいて、**半導体・電子部品の専門商社としての「目利き力」**と、",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、協栄産業のビジネスモデル、二つのコア事業の強みと課題、財務状況、市場環境、そして未来への成長戦略と潜在リスクに至るまで、ここ北海道の地からも、近年注目される半導体関連投資（ラピダスなど）や、スマート農業・食品加工といった分野でのFA化の重要性を感じつつ、約2万字に渡る超詳細な分析を通じて、その実態を徹底解剖します",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   },
+   {
+    "quote": "その後、エレクトロニクス産業の発展と共に、半導体、集積回路、各種電子部品へと取扱商品を拡大し、専門商社としての地位を確立",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   },
+   {
+    "quote": "半導体、集積回路の取り扱いを本格化（ルネサスエレクトロニクス社の特約店など）",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   },
+   {
+    "quote": "近年では、AI、IoT、環境エネルギーといった成長分野へのソリューション提供を強化",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容：「半導体・電子デバイス」と「システム機器」の二本柱",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   },
+   {
+    "quote": "マイクロコントローラ（マイコン）、メモリ、アナログIC、パワー半導体、各種センサーなど",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   },
+   {
+    "quote": "国内外の多様なメーカーから製品を調達し、幅広い産業分野（FA、通信、医療、車載、アミューズメントなど）の顧客企業へ販売",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の特定の要求仕様に合わせた、産業機器用や医療機器用のカスタム電源ユニットを設計・製造",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   },
+   {
+    "quote": "協栄産業のビジネスモデルの核心は、**「半導体・電子部品に関する深い専門知識とグローバルな調達・販売ネットワークを持つ“技術商社”」",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   },
+   {
+    "quote": "半導体・電子デバイス事業：単なる「モノ売り」ではない、付加価値提案",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "株式併合並びに単元株式数の定めの廃止及び定款の一部変更に関する臨時株主総会開催のお知らせ",
+    "url": "https://www.kyoei.co.jp/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、2025 年９月29 日開催の臨時株主総会において、 当社株主の皆様より、 株式の併合に係る議",
+    "url": "https://www.kyoei.co.jp/news/2025/file_ir/p20251015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の有価証券上場規程に定める上場廃止基準に該当することとなり、2025 年10 月16 日をもって上場廃",
+    "url": "https://www.kyoei.co.jp/news/2025/file_ir/p20251015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "上場以来、株主の皆様をはじめ、 関係者の皆様には、 長年にわたり当社の経営にご理解と温かいご支",
+    "url": "https://www.kyoei.co.jp/news/2025/file_ir/p20251015.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "款の一部変更に関する臨時株主総会開催のお知らせ」 （以下「2025 年８月19 日付の当社プレスリリー",
+    "url": "https://www.kyoei.co.jp/news/2025/file_ir/p20250929_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "定めの廃止及び定款の一部変更に係る議案について本日開催の臨時株主総会 （以下 「本臨時株主総会」",
+    "url": "https://www.kyoei.co.jp/news/2025/file_ir/p20250929_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "）の有価証券上場規程に定める上場廃止基準に該当することとなります",
+    "url": "https://www.kyoei.co.jp/news/2025/file_ir/p20250929_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "後、2025 年10 月16 日をもって上場廃止となる予定です",
+    "url": "https://www.kyoei.co.jp/news/2025/file_ir/p20250929_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "上場廃止後は、当社株式を東京証券取引所",
+    "url": "https://www.kyoei.co.jp/news/2025/file_ir/p20250929_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "）について、本臨時株主総会",
+    "url": "https://www.kyoei.co.jp/news/2025/file_ir/p20250929_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "において株主の皆様にご承認をいただきました",
+    "url": "https://www.kyoei.co.jp/news/2025/file_ir/p20250929_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "7. １株未満の端数が生じる場合の処理の方法並びに当該処理により株主に交付されることが見込",
+    "url": "https://www.kyoei.co.jp/news/2025/file_ir/p20250929_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "）以外の株主の皆様の所有する当社株式の数は、 １株",
+    "url": "https://www.kyoei.co.jp/news/2025/file_ir/p20250929_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "） に相当する数の株式を売却し、 その売却により得られた代金を株主の皆様に対して、",
+    "url": "https://www.kyoei.co.jp/news/2025/file_ir/p20250929_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当該売却について、当社は、本株式併合が、当社の株主を公開買付者及び三菱電機のみと",
+    "url": "https://www.kyoei.co.jp/news/2025/file_ir/p20250929_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "こと、当社株式が2025 年 10 月 16 日をもって上場廃止となる予定であり、市場価格のない",
+    "url": "https://www.kyoei.co.jp/news/2025/file_ir/p20250929_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "合の効力発生日の前営業日である2025 年 10 月 17 日時点の当社の最終の株主名簿において",
+    "url": "https://www.kyoei.co.jp/news/2025/file_ir/p20250929_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株主の皆様が所有する当社株式の数に、公開買付者が実施した2025 年６月２日から2025 年",
+    "url": "https://www.kyoei.co.jp/news/2025/file_ir/p20250929_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "各株主の皆様に交付されるような価格に設定する予定です",
+    "url": "https://www.kyoei.co.jp/news/2025/file_ir/p20250929_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "④ 売却する時期及び売却により得られた代金を株主に交付する時期の見込み",
+    "url": "https://www.kyoei.co.jp/news/2025/file_ir/p20250929_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当該売却によって得られた代金を株主の皆様に交付するために必要な準備を行った上で、",
+    "url": "https://www.kyoei.co.jp/news/2025/file_ir/p20250929_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025 年12 月下旬から2026 年１月下旬を目途に、 当該売却代金を株主の皆様に交付すること",
+    "url": "https://www.kyoei.co.jp/news/2025/file_ir/p20250929_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の合計数に相当する当社株式の売却が行われ、また、当該売却代金の株主への交付が行われ",
+    "url": "https://www.kyoei.co.jp/news/2025/file_ir/p20250929_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、以下の内容の当社定款の一部変更について、本臨時株主総会において株主の皆様にご",
+    "url": "https://www.kyoei.co.jp/news/2025/file_ir/p20250929_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、本議案に係る定款変更は、本臨時株主総会において本株式併合に係る議案",
+    "url": "https://www.kyoei.co.jp/news/2025/file_ir/p20250929_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "上場廃止となるとともに、当社の株主は公開買付者及び三菱電機のみとなるため、定時株主総",
+    "url": "https://www.kyoei.co.jp/news/2025/file_ir/p20250929_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会の基準日に関する規定及び株主総会資料の電子提供制度に関する規定はその必要性を失うこ",
+    "url": "https://www.kyoei.co.jp/news/2025/file_ir/p20250929_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "時株主総会の基準日） 及び第14 条 （電子提供措置等） の全文を削除し、 当該変更に伴う条数の",
+    "url": "https://www.kyoei.co.jp/news/2025/file_ir/p20250929_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "①本臨時株主総会開催日 2025 年９月29 日（月曜日）",
+    "url": "https://www.kyoei.co.jp/news/2025/file_ir/p20250929_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "東京証券取引所 市場第2部に上場",
+    "url": "https://job.mynavi.jp/27/pc/search/corp269240/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "KYOEI ELECTRONICS AMERICA INC.（連結子会社）を清算結了",
+    "url": "https://job.mynavi.jp/27/pc/search/corp269240/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "協栄サーキットテクノロジ株式会社（連結子会社）を清算結了",
+    "url": "https://job.mynavi.jp/27/pc/search/corp269240/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "加賀電子グループとなる（10月上場廃止）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp269240/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "上場廃止等の決定：協栄産業（株） | 日本取引所グループ",
+    "url": "https://www.jpx.co.jp/news/1023/20250929-12.html",
+    "pass": 3
+   },
+   {
+    "quote": "以下のとおり、上場廃止を決定し、整理銘柄に指定することにしましたので、お知らせします",
+    "url": "https://www.jpx.co.jp/news/1023/20250929-12.html",
+    "pass": 3
+   },
+   {
+    "quote": "１．上場廃止及び整理銘柄指定",
+    "url": "https://www.jpx.co.jp/news/1023/20250929-12.html",
+    "pass": 3
+   },
+   {
+    "quote": "（３）上場廃止日",
+    "url": "https://www.jpx.co.jp/news/1023/20250929-12.html",
+    "pass": 3
+   },
+   {
+    "quote": "（注）速やかに上場廃止すべき事情が発生した場合は、上記整理銘柄指定期間及び上場廃止日を変更することがあります",
+    "url": "https://www.jpx.co.jp/news/1023/20250929-12.html",
+    "pass": 3
+   },
+   {
+    "quote": "特定の者以外の株主の所有するすべての株式を１株に満たない端数となる割合で株式併合を行う場合に該当するため",
+    "url": "https://www.jpx.co.jp/news/1023/20250929-12.html",
+    "pass": 3
+   },
+   {
+    "quote": "（有価証券上場規程第６０１条第１項第１８号）",
+    "url": "https://www.jpx.co.jp/news/1023/20250929-12.html",
+    "pass": 3
+   },
+   {
+    "quote": "）の株主総会において、特定の者以外の株主の所有するすべての株式の数が１株に満たない端数となる割合で行う株式の併合に係る議案が承認されました",
+    "url": "https://www.jpx.co.jp/news/1023/20250929-12.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社東京証券取引所 上場部 開示業務室 ディスクロージャー企画グループ",
+    "url": "https://www.jpx.co.jp/news/1023/20250929-12.html",
+    "pass": 3
+   },
+   {
+    "quote": "東証スタンダード市場に上場する同社は、70年以上にわたり、日本のエレクトロニクス産業の発展を“縁の下”で支え続けてきました",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   },
+   {
+    "quote": "業績・財務の現状分析：市況変動への耐性と、成長分野への布石、そして株主還元",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   },
+   {
+    "quote": "協栄産業の業績は、半導体市況や主要顧客の設備投資動向といった外部環境に影響されつつも、比較的安定した収益基盤と健全な財務体質を維持し、株主還元にも積極的な姿勢を見せています",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   },
+   {
+    "quote": "親会社株主に帰属する当期純利益：9億55百万円（同",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   },
+   {
+    "quote": "親会社株主に帰属する当期純利益：11.5億円（同20.4%増） と、**増収および二桁の増益（営業利益・純利益ベース）**を見込んでおり、収益性の回復と成長への自信を示しています",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   },
+   {
+    "quote": "財務体質は極めて良好であり、これが経営の安定性と、将来の成長投資、そして積極的な株主還元を支える大きな強みとなっています",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュ・フロー（CF）の徹底分析：安定した営業CFと、株主還元重視の姿勢",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   },
+   {
+    "quote": "といった、株主還元策が主なマイナス要因として目立ちます",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   },
+   {
+    "quote": "安定的な営業CFを、必要な設備投資に充当しつつ、余剰資金を積極的に株主へ還元する",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   },
+   {
+    "quote": "PBR1倍割れの現状をどう捉え、資本効率向上と株主価値向上にどう取り組んでいくのか",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   },
+   {
+    "quote": "市場からの低い評価を覆し、PBR1倍を超える企業価値を実現するためには、ROE（自己資本利益率）の向上、成長戦略の明確化と実行、そして積極的な株主還元といった、具体的な経営努力が求められます",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   },
+   {
+    "quote": "PBR1倍割れ是正に向けた、経営陣による具体的な資本効率改善策や株主価値向上策の発表と実行",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   },
+   {
+    "quote": "協栄産業（6973）は東証スタンダード市場に上場しています",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   },
+   {
+    "quote": "4%に達する魅力的な配当利回りと、株主還元への積極的な姿勢",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   },
+   {
+    "quote": "PBR1倍割れ是正に向けた、経営陣による具体的な株主価値向上策の実行力",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   }
+  ],
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "また、ブース内では業界の最新トレンドや導入事例をご紹介する特別ミニセミナーを随時開催いたします",
+    "url": "https://www.kyoei.co.jp/event/2026/20261104.html",
+    "pass": 1
+   },
+   {
+    "quote": "導入から保守・メンテナンスまで、人手不足解消のお手伝いをさせていただいております",
+    "url": "https://www.kyoei.co.jp/product/division_copy/other.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末焼結 DMP Flex 350",
+    "url": "https://www.kyoei.co.jp/product/division/machine/3d_printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末焼結 DMP Factory 350",
+    "url": "https://www.kyoei.co.jp/product/division/machine/3d_printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は、主に大手企業向け人事給与システム「COMPANY®」と、業務プロセスを支える汎用ワークフローシステム「ServiceNow®」の導入・運用を支援する会社です",
+    "url": "https://www.alevelsearch.com/company/kyoei-rg/",
+    "pass": 3
+   },
+   {
+    "quote": "セミナーの冒頭では、BIMの導入や建設業界におけるAI活用の現状について紹介されました",
+    "url": "https://note.com/arent3d/n/n47586fe11cb1",
+    "pass": 3
+   },
+   {
+    "quote": "BIMの導入状況については導入企業が一定数増えている現状や、2026年4月から始まる「図面審査」や2029年から始まる「データ審査」などの制度面での動きについても触れられました",
+    "url": "https://note.com/arent3d/n/n47586fe11cb1",
+    "pass": 3
+   },
+   {
+    "quote": "ここ北海道でも、ラピダス社の半導体工場進出を核とした「北海道バレー」構想や、広大な土地を活かした再生可能エネルギー導入、そして農業や食品加工分野でのFA化といった動きが活発化しており、協栄産業の製品・技術が貢献できる場面は多いと考えられます",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "金属粉末焼結 DMP Flex 350",
+    "url": "https://www.kyoei.co.jp/product/division/machine/3d_printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属粉末焼結 DMP Factory 350",
+    "url": "https://www.kyoei.co.jp/product/division/machine/3d_printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂粉末焼結 sPro シリーズ / ProX 500",
+    "url": "https://www.kyoei.co.jp/product/division/machine/3d_printer.html",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 ｜ 協栄産業 株式会社 — 会社概要 ｜ 協栄産業 株式会社 協栄産業株式会社 https://www.kyoei.co.jp > company > information",
+    "url": "https://www.kyoei.co.jp/company/information.html",
+    "pass": 3
+   },
+   {
+    "quote": "協栄産業 （株）【加賀電子グループ】の 会社概要 | マイナビ2027 — 協栄産業 （株）【加賀電子グループ】の 会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp269240 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp269240/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社 案内 - 協栄産業株式会社 — 会社 案内 - 協栄産業株式会社 kyoeiindustry.co.jp https://www.kyoeiindustry.co.jp > company",
+    "url": "https://www.kyoeiindustry.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "協栄産業 : 企業概要 : 日経 会社情報 DIGITAL : 日経電子版 — 協栄産業 : 企業概要 : 日経 会社情報 DIGITAL : 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?nik_code=0001118",
+    "pass": 3
+   },
+   {
+    "quote": "協栄産業 株式 会社 - ミドルの転職 — 協栄産業 株式 会社 - ミドルの転職 ミドルの転職 https://mid-tenshoku.com > 掲載企業一覧",
+    "url": "https://mid-tenshoku.com/agency/a-11979/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター ｜ 協栄産業 株式会社 — 3Dプリンター ｜ 協栄産業 株式会社 協栄産業株式会社 https://www.kyoei.co.jp > division > machine > 3d_printer",
+    "url": "https://www.kyoei.co.jp/product/division/machine/3d_printer.html",
+    "pass": 3
+   },
+   {
+    "quote": "協栄産業 株式会社 - 出展社詳細 - ものづくり ワールド — 協栄産業 株式会社 - 出展社詳細 - ものづくり ワールド ものづくり ワールド https://www.manufacturing-world.jp > search > directory",
+    "url": "https://www.manufacturing-world.jp/osaka/ja-jp/search/2026mdk1008/directory/directory-details.%E5%8D%94%E6%A0%84%E7%94%A3%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE.org-93178d1b-0b47-4f98-8a50-ebd01b774c95.html",
+    "pass": 3
+   },
+   {
+    "quote": "3DPテクニカルセンター(K-3TC)のご案内 - 協栄産業 — 3DPテクニカルセンター(K-3TC)のご案内 - 協栄産業 協栄産業株式会社 https://www.kyoei.co.jp > division > machine > tech-center",
+    "url": "https://www.kyoei.co.jp/product/division/machine/3d_printer/tech-center.html",
+    "pass": 3
+   },
+   {
+    "quote": "旧 株主 さまへ ｜ 協栄産業 株式 会社 — 旧 株主 さまへ ｜ 協栄産業 株式 会社 協栄産業株式会社 https://www.kyoei.co.jp > stock > procedure",
+    "url": "https://www.kyoei.co.jp/ir/stock/procedure.html",
+    "pass": 3
+   },
+   {
+    "quote": "協栄産業 株式 会社 - 加賀電子 — 協栄産業 株式 会社 - 加賀電子 加賀電子株式会社 https://www.taxan.co.jp > kyoei-sangyo-co-ltd",
+    "url": "https://www.taxan.co.jp/news-information/group_company/kyoei-sangyo-co-ltd",
+    "pass": 3
+   },
+   {
+    "quote": "上場廃止等の決定： 協栄産業 （株） | 日本取引所グループ - JPX — 上場廃止等の決定： 協栄産業 （株） | 日本取引所グループ - JPX 日本取引所グループ https://www.jpx.co.jp > news",
+    "url": "https://www.jpx.co.jp/news/1023/20250929-12.html",
+    "pass": 3
+   },
+   {
+    "quote": "協栄産業 【6973】の株価・基本情報 - 株探 — 協栄産業 【6973】の株価・基本情報 - 株探 株探 https://kabutan.jp > stock",
+    "url": "https://kabutan.jp/stock/?code=6973",
+    "pass": 3
+   },
+   {
+    "quote": "協栄産業 : 企業概要 : 日経 会社 情報DIGITAL : 日経電子版 — 協栄産業 : 企業概要 : 日経 会社 情報DIGITAL : 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?nik_code=0001118",
+    "pass": 3
+   },
+   {
+    "quote": "協栄産業 （株）【加賀電子グループ】の会社概要 | マイナビ2027 — 協栄産業 （株）【加賀電子グループ】の会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp269240 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp269240/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "数字で知る！私たちの強み | About | 協栄産業 株式会社 — 数字で知る！私たちの強み | About | 協栄産業 株式会社 協栄産業株式会社 https://www.kyoei.co.jp > recruiting > about > strengths",
+    "url": "https://www.kyoei.co.jp/recruiting/about/strengths/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "協栄産業 | 関東版2028（2026年11月発行） - エラベル — 協栄産業 | 関東版2028（2026年11月発行） - エラベル エラベル https://www.alevelsearch.com > company > kyoei-rg",
+    "url": "https://www.alevelsearch.com/company/kyoei-rg/",
+    "pass": 3
+   },
+   {
+    "quote": "協栄産業 の新卒採用・就職・会社概要とクチコミ - ワンキャリア — 協栄産業 の新卒採用・就職・会社概要とクチコミ - ワンキャリア ワンキャリア https://www.onecareer.jp > companies",
+    "url": "https://www.onecareer.jp/companies/48389",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "AIで変わるBIMマネジメント（ 協栄産業 ×Arent 対談セミナー） AIで変わるBIMマネジメント（ 協栄産業 ×Arent 対談セミナー） note https://note.com > インタビュー・対談 > テーマ別対談",
+    "url": "https://note.com/arent3d/n/n49441def0678",
+    "pass": 3
+   },
+   {
+    "quote": "【セミナーレポート】建設DX展東京 2025｜ 協栄産業 ×Arent ... 【セミナーレポート】建設DX展東京 2025｜ 協栄産業 ×Arent ... note https://note.com > ビジネス > データ・分析",
+    "url": "https://note.com/arent3d/n/n47586fe11cb1",
+    "pass": 3
+   },
+   {
+    "quote": "【半導体商社×EMSの“融合進化”】 協栄産業 (6973)DD - note 【半導体商社×EMSの“融合進化”】 協栄産業 (6973)DD - note note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   },
+   {
+    "quote": "協栄産業 （6973）株価・今後の見通し・予想｜noteマネー 協栄産業 （6973）株価・今後の見通し・予想｜noteマネー note https://note.com > noteマネー",
+    "url": "https://note.com/tag/vm/investment_money/company-6973",
+    "pass": 3
+   },
+   {
+    "quote": "協栄産業 （6973）株価・今後の見通し・予想｜ note マネー 協栄産業 （6973）株価・今後の見通し・予想｜ note マネー note https://note.com > noteマネー",
+    "url": "https://note.com/tag/vm/investment_money/company-6973",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【セミナーレポート】第1回 建設DX展＋（プラス）｜AIで変わるBIMマネジメント（協栄産業×Arent 対談セミナー）｜株式会社 Arent",
+    "url": "https://note.com/arent3d/n/n49441def0678",
+    "pass": 3
+   },
+   {
+    "quote": "【セミナーレポート】第1回 建設DX展＋（プラス）｜AIで変わるBIMマネジメント（協栄産業×Arent 対談セミナー）",
+    "url": "https://note.com/arent3d/n/n49441def0678",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月3日（金）、東京ビッグサイトで開催された「建設DX展＋（プラス）」にて、協栄産業株式会社（以下、協栄産業）建設事業部 技師長で、国土交通省 建築BIM推進会議 第4部会 座長を務める森谷靖彦氏と、ArentのシニアBIMコンサルタント茅根哲朗が共同セミナーに登壇しました。",
+    "url": "https://note.com/arent3d/n/n49441def0678",
+    "pass": 3
+   },
+   {
+    "quote": "当日は立ち見が出るほど多くの方にご参加いただき、AIによるBIMマネジメントの変化に熱心に耳を傾ける様子が見られました。本セミナーでは「AIで変わるBIMマネジメント」をテーマに、これまで多くを手作業で担ってきたBIMマネジメントのプロセスが、AIの進化によってどう変わりつつあるのかを、対談形式で解説しました。",
+    "url": "https://note.com/arent3d/n/n49441def0678",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、BIM活用の現状とBIMマネジメントの各プロセスが抱える課題、そしてそれをAIがどう変えていくのかを、当日の内容から一部ご紹介します。",
+    "url": "https://note.com/arent3d/n/n49441def0678",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルツイン社会に向けたロードマップと、現場の課題",
+    "url": "https://note.com/arent3d/n/n49441def0678",
+    "pass": 3
+   },
+   {
+    "quote": "国土交通省の建築BIM推進会議は、BIM活用の制度化に向けた政策ロードマップを示しています。2026年にはBIMを用いた図面審査が、そして2029年にはBIMデータそのものを対象とした「データ審査」が本格化する見通しです。図面という「見た目」から、データという「中身」へと審査の対象が移り変わり、その先には、蓄積したデータを社会の基盤として活かすデジタルツイン社会が見据えられています。",
+    "url": "https://note.com/arent3d/n/n49441def0678",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、日々の実務では、せっかく作成したBIMデータを、その後の工程で十分に活かしきれない場面も少なくありません。属性情報の入力やデータの整合性の確認、工程間での受け渡しには、担当者の知識と丁寧な作業が欠かせず、その一つひとつがデータの品質を支えてきました。ただ、こうした作業を人手だけで積み重ねていくには負担も大きく、データ審査を見据えると、蓄積してきたデータの品質と一貫性をどう保っていくかが、業界に共通する論点になりつつあります。",
+    "url": "https://note.com/arent3d/n/n49441def0678",
+    "pass": 3
+   },
+   {
+    "quote": "【セミナーレポート】建設DX展東京 2025｜協栄産業×Arent 共同セミナー｜株式会社 Arent",
+    "url": "https://note.com/arent3d/n/n47586fe11cb1",
+    "pass": 3
+   },
+   {
+    "quote": "【セミナーレポート】建設DX展東京 2025｜協栄産業×Arent 共同セミナー",
+    "url": "https://note.com/arent3d/n/n47586fe11cb1",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月11日（木）、東京ビッグサイトで開催された建設DX展東京2025にて、協栄産業株式会社（以下、協栄産業）IT事業本部 技師長で、国土交通省 建築BIM推進会議にも所属する森谷靖彦氏と、Arent代表の鴨林が共同セミナーに登壇しました。当日は会場からあふれるほどの多くの方々が参加し、積算・見積業務におけるAI活用や業務効率化に関する解説に熱心に耳を傾ける様子が見られました。",
+    "url": "https://note.com/arent3d/n/n47586fe11cb1",
+    "pass": 3
+   },
+   {
+    "quote": "本セミナーでは、BIMや建設業界におけるAI活用の現状をはじめ、協栄産業とArentが業務提携の第一弾として進めている仕上数量積算システムを対象とした取り組みについて紹介しました。Arentの画像認識AIによる仕上数量の自動積算を例に、積算・見積領域におけるAI活用の考え方やアプローチについて説明が行われました。",
+    "url": "https://note.com/arent3d/n/n47586fe11cb1",
+    "pass": 3
+   },
+   {
+    "quote": "また、セミナーの後半には「BIM×生成AIの可能性」をテーマに、登壇者によるディスカッションや参加者からの質疑応答の時間が設けられ、実務に即した質問が多く寄せられました。本記事では、その内容の一部をご紹介します。",
+    "url": "https://note.com/arent3d/n/n47586fe11cb1",
+    "pass": 3
+   },
+   {
+    "quote": "セミナーの冒頭では、BIMの導入や建設業界におけるAI活用の現状について紹介されました。BIMの導入状況については導入企業が一定数増えている現状や、2026年4月から始まる「図面審査」や2029年から始まる「データ審査」などの制度面での動きについても触れられました。",
+    "url": "https://note.com/arent3d/n/n47586fe11cb1",
+    "pass": 3
+   },
+   {
+    "quote": "一方、AI活用については、他業界と比較すると建設業界ではまだ十分に活用が進んでいない現状が示されました。建設業界におけるAIを活用した業務効率化の手法や具体的な事例については、同日に開催されたArent単独セミナーのレポートにて詳しく紹介しています。",
+    "url": "https://note.com/arent3d/n/n47586fe11cb1",
+    "pass": 3
+   },
+   {
+    "quote": "積算業務のAI活用事例として、協栄産業が提供する仕上数量積算システムとArentの画像認識AIを組み合わせた取り組みを紹介しました。",
+    "url": "https://note.com/arent3d/n/n47586fe11cb1",
+    "pass": 3
+   },
+   {
+    "quote": "【半導体商社×EMSの“融合進化”】協栄産業(6973)DD：AI・IoT時代の隠れたキープレイヤー、株価“再評価”への挑戦｜日本個別株デューデリジェンスセンター",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   },
+   {
+    "quote": "【半導体商社×EMSの“融合進化”】協栄産業(6973)DD：AI・IoT時代の隠れたキープレイヤー、株価“再評価”への挑戦",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   },
+   {
+    "quote": "～「技術商社」と「ものづくり」の二刀流、エレクトロニクス産業の“縁の下の力持ち”は、DXの波に乗り飛躍できるか？～",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   },
+   {
+    "quote": "スマートフォン、パソコン、自動車、そして工場の自動化設備や医療機器…。私たちの現代社会は、多種多様な電子部品と、それらを制御する半導体なしには成り立ちません。そして、これらのエレクトロニクス製品が世に送り出されるまでには、部品の調達から、基板への実装、システムの組み立て、そして最終的な検査に至るまで、数多くの複雑なプロセスが存在します。",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   },
+   {
+    "quote": "本日、私たちが徹底的にデュー・デリジェンス（DD）を行うのは、このエレクトロニクス産業のサプライチェーンにおいて、**半導体・電子部品の専門商社としての「目利き力」**と、",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   },
+   {
+    "quote": "プリント基板実装（EMS）やシステム機器組立といった「ものづくり」の技術力",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   },
+   {
+    "quote": "を併せ持つ、ユニークな複合企業、**協栄産業株式会社（証券コード：6973）**です。東証スタンダード市場に上場する同社は、70年以上にわたり、日本のエレクトロニクス産業の発展を“縁の下”で支え続けてきました。",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   },
+   {
+    "quote": "AI（人工知能）やIoT（モノのインターネット）、FA（ファクトリーオートメーション）といった技術革新が加速する中、協栄産業は、その「技術商社」と「メーカー」という二つの顔をいかに融合させ、進化させ、新たな成長機会を掴もうとしているのでしょうか？ 長らくPBR（株価純資産倍率）1倍を割り込む水準で推移してきた株価は、市場からの「再評価」を得て、新たなステージへと飛躍することができるのでしょうか？",
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "pass": 3
+   },
+   {
+    "quote": "協栄産業（6973）株価・今後の見通し・予想｜noteマネー",
+    "url": "https://note.com/tag/vm/investment_money/company-6973",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Kyoeipetbottle - ペットボトルリサイクルの 協栄産業 株式会社 - X Kyoeipetbottle - ペットボトルリサイクルの 協栄産業 株式会社 - X X https://x.com > Kyoeipetbottle",
+    "url": "https://x.com/Kyoeipetbottle",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリース配信 @Press【公式】 on X: \" 協栄産業 、見積書 ... プレスリリース配信 @Press【公式】 on X: \" 協栄産業 、見積書 ... X https://x.com > @Press__official",
+    "url": "https://x.com/Press__official/status/1866363541026111600",
+    "pass": 3
+   },
+   {
+    "quote": "ペットボトルリサイクルの 協栄産業 株式会社 - X ペットボトルリサイクルの 協栄産業 株式会社 - X X https://x.com > @Kyoeipetbottle",
+    "url": "https://x.com/kyoeipetbottle/status/2109814262130761809",
+    "pass": 3
+   },
+   {
+    "quote": "ロイター on X: \"加賀電子、 協栄産業 にTOB 87億円で完全 ... ロイター on X: \"加賀電子、 協栄産業 にTOB 87億円で完全 ... X https://x.com > @ReutersJapan",
+    "url": "https://x.com/ReutersJapan/status/1928348406126202921",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "協栄産業 株式会社 - LinkedIn 協栄産業 株式会社 - LinkedIn LinkedIn https://jp.linkedin.com > company > 協栄産業（株）",
+    "url": "https://jp.linkedin.com/company/%E5%8D%94%E6%A0%84%E7%94%A3%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "曲輪 Kyoei - 協栄産業 株式会社 - 執行役員 | LinkedIn 曲輪 Kyoei - 協栄産業 株式会社 - 執行役員 | LinkedIn LinkedIn https://jp.linkedin.com > kyoei-曲輪-a79b4a4a",
+    "url": "https://jp.linkedin.com/in/kyoei-%E6%9B%B2%E8%BC%AA-a79b4a4a",
+    "pass": 3
+   },
+   {
+    "quote": "横尾 吉輝 yokoo yoshiteru - 協栄産業 株式会社 - LinkedIn 横尾 吉輝 yokoo yoshiteru - 協栄産業 株式会社 - LinkedIn LinkedIn https://jp.linkedin.com > 吉輝-yokoo-yoshiteru-横尾-416...",
+    "url": "https://jp.linkedin.com/in/%E5%90%89%E8%BC%9D-yokoo-yoshiteru-%E6%A8%AA%E5%B0%BE-416050a9",
+    "pass": 3
+   },
+   {
+    "quote": "Takahito Ushio - 協栄産業 株式会社 - グループリーダー | LinkedIn Takahito Ushio - 協栄産業 株式会社 - グループリーダー | LinkedIn LinkedIn https://jp.linkedin.com > ...",
+    "url": "https://jp.linkedin.com/in/takahito-ushio-b8148219a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "協栄産業 株式会社 (@KYOEI.PETbottle) - Facebook 協栄産業 株式会社 (@KYOEI.PETbottle) - Facebook Facebook https://www.facebook.com > KYOEI.PETbottle",
+    "url": "https://www.facebook.com/KYOEI.PETbottle/",
+    "pass": 3
+   },
+   {
+    "quote": "2025/12/03 協栄産業 本社屋新築工事、竣工引き渡しを行い ... 2025/12/03 協栄産業 本社屋新築工事、竣工引き渡しを行い ... Facebook https://www.facebook.com > posts > 20251203協栄産業...",
+    "url": "https://www.facebook.com/100002930308914/posts/20251203%E5%8D%94%E6%A0%84%E7%94%A3%E6%A5%AD%E6%9C%AC%E7%A4%BE%E5%B1%8B%E6%96%B0%E7%AF%89%E5%B7%A5%E4%BA%8B%E7%AB%A3%E5%B7%A5%E5%BC%95%E3%81%8D%E6%B8%A1%E3%81%97%E3%82%92%E8%A1%8C%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F40%E5%91%A8%E5%B9%B4%E3%82%92%E8%BF%8E%E3%81%88%E6%96%B0%E3%81%9F%E3%81%AB%E7%AF%89%E3%81%8D%E4%B8%8A%E3%81%92%E3%82%89%E3%82%8C%E3%81%9F%E6%9C%AC%E7%A4%BE%E5%B1%8B%E8%A8%AD%E8%A8%88%E7%9B%A3%E7%90%86%E3%81%AB%E6%90%BA%E3%82%8F%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E8%AA%A0%E3%81%AB%E5%85%89%E6%A0%84%E3%81%A7%E3%81%99%E8%A8%AD%E8%A8%88%E3%81%8B%E3%82%89%E6%96%BD%E8%A1%8C%E7%9B%A3%E7%90%86/25046595751688089/",
+    "pass": 3
+   },
+   {
+    "quote": "2025/11/21 『 協栄産業 グループ本社屋 竣工式』が - Facebook 2025/11/21 『 協栄産業 グループ本社屋 竣工式』が - Facebook Facebook https://www.facebook.com > posts > 20251121協栄産業...",
+    "url": "https://www.facebook.com/100002930308914/posts/20251121%E5%8D%94%E6%A0%84%E7%94%A3%E6%A5%AD%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE%E5%B1%8B-%E7%AB%A3%E5%B7%A5%E5%BC%8F%E3%81%8C%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F/24961951610152504/",
+    "pass": 3
+   },
+   {
+    "quote": "U字工事のお二人が、新社屋のお祝いにかけつけて ... - Facebook U字工事のお二人が、新社屋のお祝いにかけつけて ... - Facebook Facebook https://www.facebook.com > 協栄産業株式会社 > Videos",
+    "url": "https://www.facebook.com/KYOEI.PETbottle/videos/u%E5%AD%97%E5%B7%A5%E4%BA%8B%E3%81%AE%E3%81%8A%E4%BA%8C%E4%BA%BA%E3%81%8C%E6%96%B0%E7%A4%BE%E5%B1%8B%E3%81%AE%E3%81%8A%E7%A5%9D%E3%81%84%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A4%E3%81%91%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E3%81%93%E3%81%AE%E3%81%9F%E3%81%B3%E5%8D%94%E6%A0%84%E7%94%A3%E6%A5%AD%E3%81%AE%E6%96%B0%E7%A4%BE%E5%B1%8B%E3%81%AB%E6%A0%83%E6%9C%A8%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%BCu%E5%AD%97%E5%B7%A5%E4%BA%8B%E3%81%AE%E3%81%8A%E4%BA%8C%E4%BA%BA%E3%81%8C%E6%9D%A5%E7%A4%BE%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E7%A4%BE%E9%95%B7%E3%81%A8%E4%B8%80%E7%B7%92%E3%81%AB%E8%A8%98%E5%BF%B5%E6%92%AE%E5%BD%B1%E3%81%8A/1139653125409951/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.kyoei.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoei.co.jp/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoei.co.jp/news/2026/20260918.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoei.co.jp/event/2026/20260824.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoei.co.jp/event/2026/20260724.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoei.co.jp/news/2026/20260818.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoei.co.jp/news.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoei.co.jp/event/2026/20261104.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoei.co.jp/event/2026/20260728.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoei.co.jp/product/division_copy/other.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoei.co.jp/product/division/machine/3d_printer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoei.co.jp/fa/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoei.co.jp/product/division/construction.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoei.co.jp/company/information.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.kyoei.co.jp/news/2025/file_ir/p20251015.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kyoei.co.jp/news/2025/file_ir/p20250929_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kyoei.co.jp/recruit/about/image/know03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kyoei.co.jp/index/img/top01_fks.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp269240/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoeiindustry.co.jp/company/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.manufacturing-world.jp/osaka/ja-jp/search/2026mdk1008/directory/directory-details.%E5%8D%94%E6%A0%84%E7%94%A3%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE.org-93178d1b-0b47-4f98-8a50-ebd01b774c95.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taxan.co.jp/news-information/group_company/kyoei-sangyo-co-ltd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/news/1023/20250929-12.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp269240/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alevelsearch.com/company/kyoei-rg/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/arent3d/n/n49441def0678",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/arent3d/n/n47586fe11cb1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/vm/investment_money/company-6973",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Kyoeipetbottle",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Press__official/status/1866363541026111600",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/kyoeipetbottle/status/2109814262130761809",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ReutersJapan/status/1928348406126202921",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/%E5%8D%94%E6%A0%84%E7%94%A3%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/kyoei-%E6%9B%B2%E8%BC%AA-a79b4a4a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E5%90%89%E8%BC%9D-yokoo-yoshiteru-%E6%A8%AA%E5%B0%BE-416050a9",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/takahito-ushio-b8148219a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/KYOEI.PETbottle/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100002930308914/posts/20251203%E5%8D%94%E6%A0%84%E7%94%A3%E6%A5%AD%E6%9C%AC%E7%A4%BE%E5%B1%8B%E6%96%B0%E7%AF%89%E5%B7%A5%E4%BA%8B%E7%AB%A3%E5%B7%A5%E5%BC%95%E3%81%8D%E6%B8%A1%E3%81%97%E3%82%92%E8%A1%8C%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F40%E5%91%A8%E5%B9%B4%E3%82%92%E8%BF%8E%E3%81%88%E6%96%B0%E3%81%9F%E3%81%AB%E7%AF%89%E3%81%8D%E4%B8%8A%E3%81%92%E3%82%89%E3%82%8C%E3%81%9F%E6%9C%AC%E7%A4%BE%E5%B1%8B%E8%A8%AD%E8%A8%88%E7%9B%A3%E7%90%86%E3%81%AB%E6%90%BA%E3%82%8F%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E8%AA%A0%E3%81%AB%E5%85%89%E6%A0%84%E3%81%A7%E3%81%99%E8%A8%AD%E8%A8%88%E3%81%8B%E3%82%89%E6%96%BD%E8%A1%8C%E7%9B%A3%E7%90%86/25046595751688089/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100002930308914/posts/20251121%E5%8D%94%E6%A0%84%E7%94%A3%E6%A5%AD%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE%E5%B1%8B-%E7%AB%A3%E5%B7%A5%E5%BC%8F%E3%81%8C%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F/24961951610152504/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/KYOEI.PETbottle/videos/u%E5%AD%97%E5%B7%A5%E4%BA%8B%E3%81%AE%E3%81%8A%E4%BA%8C%E4%BA%BA%E3%81%8C%E6%96%B0%E7%A4%BE%E5%B1%8B%E3%81%AE%E3%81%8A%E7%A5%9D%E3%81%84%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A4%E3%81%91%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E3%81%93%E3%81%AE%E3%81%9F%E3%81%B3%E5%8D%94%E6%A0%84%E7%94%A3%E6%A5%AD%E3%81%AE%E6%96%B0%E7%A4%BE%E5%B1%8B%E3%81%AB%E6%A0%83%E6%9C%A8%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%BCu%E5%AD%97%E5%B7%A5%E4%BA%8B%E3%81%AE%E3%81%8A%E4%BA%8C%E4%BA%BA%E3%81%8C%E6%9D%A5%E7%A4%BE%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E7%A4%BE%E9%95%B7%E3%81%A8%E4%B8%80%E7%B7%92%E3%81%AB%E8%A8%98%E5%BF%B5%E6%92%AE%E5%BD%B1%E3%81%8A/1139653125409951/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tag/vm/investment_money/company-6973",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Kyoeipetbottle",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "協栄産業",
+   "results": [
+    "https://www.kyoei.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E5%8D%94%E6%A0%84%E7%94%A3%E6%A5%AD",
+    "http://www.goto-kyoei.co.jp/",
+    "https://www.taxan.co.jp/news-information/group_company/kyoei-sangyo-co-ltd",
+    "https://www.kyoei-rg.co.jp/",
+    "https://ja.wikipedia.org/wiki/協栄産業",
+    "https://www.kyoei.co.jp/company.html",
+    "https://www.kyoei-sangyo.com/",
+    "https://www.kyoei-tokyo.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "協栄産業 会社概要 資本金 設立",
+   "results": [
+    "https://www.kyoei.co.jp/company/information.html",
+    "https://job.mynavi.jp/27/pc/search/corp269240/outline.html",
+    "https://www.kyoeiindustry.co.jp/company/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?nik_code=0001118",
+    "https://mid-tenshoku.com/agency/a-11979/",
+    "https://macloud.jp/companies/23289",
+    "https://kyoeisangyo.jp/corporation.php",
+    "https://www.kyoei-sg.jp/company/",
+    "https://ja.wikipedia.org/wiki/%E5%8D%94%E6%A0%84%E7%94%A3%E6%A5%AD",
+    "https://ja.wikipedia.org/wiki/協栄産業"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "協栄産業 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.kyoei.co.jp/product/division/machine/3d_printer.html",
+    "https://www.manufacturing-world.jp/osaka/ja-jp/search/2026mdk1008/directory/directory-details.%E5%8D%94%E6%A0%84%E7%94%A3%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE.org-93178d1b-0b47-4f98-8a50-ebd01b774c95.html",
+    "https://news.sharelab.jp/category/3dp-news/metal-3dprinter/",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://metoree.com/categories/5523/",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://www.marubeni-idigio.com/insight-hub/metal3dprinter_desktopmetal_case/",
+    "https://www.ricoh.co.jp/3dp/metal/what",
+    "https://metoree.com/categories/3d-printer/22001/",
+    "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "協栄産業 金属積層造形 設備",
+   "results": [
+    "https://www.kyoei.co.jp/product/division/machine/3d_printer/tech-center.html",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://www.youtube.com/watch?v=KZaXU_KnoEY",
+    "https://jampt.jp/",
+    "https://www.manufacturing-world.jp/osaka/ja-jp/search/2026mdk1008/directory/directory-details.%E5%8D%94%E6%A0%84%E7%94%A3%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE.org-93178d1b-0b47-4f98-8a50-ebd01b774c95.html",
+    "https://www.nims.go.jp/cccenter/ismg/equipments.html",
+    "https://www.aichi-sangyo.co.jp/products/additive_manufact/index.html",
+    "https://ja.3dsystems.com/advancing-semiconductor-executive-brief",
+    "https://www.kyoei.co.jp/fa/index.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "協栄産業 株主 出資 親会社",
+   "results": [
+    "https://www.kyoei.co.jp/ir/stock/procedure.html",
+    "https://www.taxan.co.jp/news-information/group_company/kyoei-sangyo-co-ltd",
+    "https://www.jpx.co.jp/news/1023/20250929-12.html",
+    "https://kabutan.jp/stock/?code=6973",
+    "https://www.nikkei.com/nkd/company/gaiyo/?nik_code=0001118",
+    "https://diamond.jp/zai/articles/-/1013234",
+    "https://macloud.jp/companies/23289",
+    "https://www.kyoei-rg.co.jp/",
+    "https://ja.wikipedia.org/wiki/協栄産業",
+    "https://irbank.net/E01619/holder"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "協栄産業 売上高 従業員数",
+   "results": [
+    "https://job.mynavi.jp/27/pc/search/corp269240/outline.html",
+    "https://www.kyoei.co.jp/recruiting/about/strengths/index.html",
+    "https://www.alevelsearch.com/company/kyoei-rg/",
+    "https://www.onecareer.jp/companies/48389",
+    "https://www.kyoei.co.jp/company/information.html",
+    "https://xn--pckua2a7gp15o89zb.com/%E5%8D%94%E6%A0%84%E7%94%A3%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%B9%B4%E5%8F%8E",
+    "https://www.kyoei-rg.co.jp/about/outline.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?nik_code=0001118",
+    "https://job.mynavi.jp/27/pc/search/corp223753/outline.html",
+    "https://nenshu-jiten.com/companies/E01619"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 協栄産業",
+   "results": [
+    "https://note.com/arent3d/n/n49441def0678",
+    "https://note.com/arent3d/n/n47586fe11cb1",
+    "https://note.com/tatsuya_sabato/n/n5931a342298c",
+    "https://note.com/tag/vm/investment_money/company-6973",
+    "https://note.com/arent3d/n/nec8d47d88642",
+    "https://note.com/kabutabi2000/n/nf0c706f025ce",
+    "https://note.com/tatsuya_sabato/n/nc3b0b49aaa5d",
+    "https://note.com/monolix/n/n481ca507d5a0",
+    "https://note.com/kaen1111/n/na719b6fc1817",
+    "https://money.note.com/companies/6973"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com 協栄産業",
+   "results": [
+    "https://x.com/Kyoeipetbottle",
+    "https://x.com/Press__official/status/1866363541026111600",
+    "https://x.com/kyoeipetbottle/status/2109814262130761809",
+    "https://x.com/ReutersJapan/status/1928348406126202921",
+    "https://x.com/kyoeipetbottle/status/2034547880170766644",
+    "https://x.com/aryarya/status/1928338534886215972",
+    "https://x.com/sbi_stock_team/status/1929470544615006414",
+    "https://x.com/transcosmos_PR/status/2064166795339301177",
+    "https://x.com/TAKAMI_yasuhiro/status/2077526164030325201",
+    "https://x.com/Kyoeipetbottle/status/2119912931756294553"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com 協栄産業",
+   "results": [
+    "https://jp.linkedin.com/company/%E5%8D%94%E6%A0%84%E7%94%A3%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://jp.linkedin.com/in/kyoei-%E6%9B%B2%E8%BC%AA-a79b4a4a",
+    "https://jp.linkedin.com/in/%E5%90%89%E8%BC%9D-yokoo-yoshiteru-%E6%A8%AA%E5%B0%BE-416050a9",
+    "https://jp.linkedin.com/in/takahito-ushio-b8148219a",
+    "https://jp.linkedin.com/in/%E4%BF%8A%E6%98%8E-%E5%BB%B6%E5%91%BD-822a53161",
+    "https://jp.linkedin.com/in/%E6%94%BF%E4%B9%9F-%E6%9D%89%E6%9C%AC-689a09300",
+    "https://jp.linkedin.com/in/%E6%B2%BB%E7%BE%8E-%E9%9D%92%E6%9F%B3-4586711b2",
+    "https://jp.linkedin.com/in/%E6%BD%A4-%E5%B9%B3%E6%BE%A4-91802bab",
+    "https://www.linkedin.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%80%80%E5%8D%94%E6%A0%84%E3%80%80kyouei"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com 協栄産業",
+   "results": [
+    "https://www.facebook.com/KYOEI.PETbottle/",
+    "https://www.facebook.com/100002930308914/posts/20251203%E5%8D%94%E6%A0%84%E7%94%A3%E6%A5%AD%E6%9C%AC%E7%A4%BE%E5%B1%8B%E6%96%B0%E7%AF%89%E5%B7%A5%E4%BA%8B%E7%AB%A3%E5%B7%A5%E5%BC%95%E3%81%8D%E6%B8%A1%E3%81%97%E3%82%92%E8%A1%8C%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F40%E5%91%A8%E5%B9%B4%E3%82%92%E8%BF%8E%E3%81%88%E6%96%B0%E3%81%9F%E3%81%AB%E7%AF%89%E3%81%8D%E4%B8%8A%E3%81%92%E3%82%89%E3%82%8C%E3%81%9F%E6%9C%AC%E7%A4%BE%E5%B1%8B%E8%A8%AD%E8%A8%88%E7%9B%A3%E7%90%86%E3%81%AB%E6%90%BA%E3%82%8F%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E8%AA%A0%E3%81%AB%E5%85%89%E6%A0%84%E3%81%A7%E3%81%99%E8%A8%AD%E8%A8%88%E3%81%8B%E3%82%89%E6%96%BD%E8%A1%8C%E7%9B%A3%E7%90%86/25046595751688089/",
+    "https://www.facebook.com/100002930308914/posts/20251121%E5%8D%94%E6%A0%84%E7%94%A3%E6%A5%AD%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE%E5%B1%8B-%E7%AB%A3%E5%B7%A5%E5%BC%8F%E3%81%8C%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F/24961951610152504/",
+    "https://www.facebook.com/KYOEI.PETbottle/videos/u%E5%AD%97%E5%B7%A5%E4%BA%8B%E3%81%AE%E3%81%8A%E4%BA%8C%E4%BA%BA%E3%81%8C%E6%96%B0%E7%A4%BE%E5%B1%8B%E3%81%AE%E3%81%8A%E7%A5%9D%E3%81%84%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A4%E3%81%91%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E3%81%93%E3%81%AE%E3%81%9F%E3%81%B3%E5%8D%94%E6%A0%84%E7%94%A3%E6%A5%AD%E3%81%AE%E6%96%B0%E7%A4%BE%E5%B1%8B%E3%81%AB%E6%A0%83%E6%9C%A8%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%BCu%E5%AD%97%E5%B7%A5%E4%BA%8B%E3%81%AE%E3%81%8A%E4%BA%8C%E4%BA%BA%E3%81%8C%E6%9D%A5%E7%A4%BE%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E7%A4%BE%E9%95%B7%E3%81%A8%E4%B8%80%E7%B7%92%E3%81%AB%E8%A8%98%E5%BF%B5%E6%92%AE%E5%BD%B1%E3%81%8A/1139653125409951/",
+    "https://www.facebook.com/KYOEI.PETbottle/posts/%E6%9D%B1%E3%83%AC%E5%A4%A7%E9%98%AA%E6%9C%AC%E7%A4%BE%E3%81%AE%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%AB%E5%8D%94%E5%8A%9B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E5%8D%94%E6%A0%84%E7%94%A3%E6%A5%AD%E3%81%AE%E3%81%8A%E5%8F%96%E5%BC%95%E6%A7%98%E3%81%A7%E3%81%82%E3%82%8B%E6%9D%B1%E3%83%AC%E5%A4%A7%E9%98%AA%E6%9C%AC%E7%A4%BE%E3%81%AE%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%E3%83%87%E3%83%BC%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%AB%E5%8D%94%E5%8A%9B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%BE%8D%EF%BE%9F%EF%BD%AF%EF%BE%84%E4%BB%8A%E5%9B%9E%E3%81%AF%E3%83%9C%E3%83%88%E3%83%ABto%E3%83%9C%E3%83%88%E3%83%AB%E6%B0%B4%E5%B9%B3%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%81%AE%E5%B7%A5%E7%A8%8B/1564460419059570/",
+    "https://www.facebook.com/KYOEI.PETbottle/videos/%E3%83%86%E3%83%84and%E3%83%88%E3%83%A2%E3%81%95%E3%82%93%E3%82%AF%E3%83%BC%E3%83%AB%E3%83%9D%E3%82%B3%E3%81%95%E3%82%93%E3%81%8C%E5%8D%94%E6%A0%84%E7%94%A3%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E8%A8%AD%E7%AB%8B40%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E5%BC%8F%E5%85%B8%E3%81%AE%E3%81%8A%E7%A5%9D%E3%81%84%E3%81%AB%E9%A7%86%E3%81%91%E3%81%A4%E3%81%91%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E3%81%8A%E5%AE%A2%E6%A7%98%E3%82%82%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%81%AB%E7%99%BB%E5%A3%87%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E4%B8%80%E7%B7%92%E3%81%AB%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%E3%82%92%E3%81%99%E3%82%8B/4622706164674898/",
+    "https://www.facebook.com/KYOEI.PETbottle/videos/",
+    "https://www.facebook.com/kyoeico/",
+    "https://www.facebook.com/pages/%E5%85%B1%E5%92%8C%E9%9B%BB%E6%A5%AD%E5%8D%94%E6%A0%84%E7%94%A3%E6%A5%AD/389903087736742?locale=tr_TR",
+    "https://www.facebook.com/KYOEI.PETbottle/posts/2025new環境展へ今年も出展いたします弊社は5月28日水5月30日金の間に東京ビッグサイトに於いて開催される2025new環境展にブースを出展いたします環境/1122601426578807/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "協栄産業 note 社長",
+   "results": [
+    "https://note.com/tag/vm/investment_money/company-6973",
+    "https://www.kyoei.co.jp/company/message.html",
+    "https://note.com/note_ir/n/n722b1675e9e7",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://x.com/sadaaki",
+    "https://diamond.jp/articles/-/388572",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://kyoei-sg.co.jp/company/message/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "協栄産業 X 投稿",
+   "results": [
+    "https://x.com/Kyoeipetbottle",
+    "https://www.kyoei.co.jp/show.html",
+    "https://www.kyoei-rg.co.jp/news/",
+    "https://kyoei-sg.co.jp/",
+    "https://www.youtube.com/@Kyoei1947",
+    "https://ks-kyoto.com/",
+    "https://www.xinc.co.jp/kyouei",
+    "https://www.youtube.com/watch?v=pmYm7HNAvQI",
+    "https://syukatsu-kaigi.jp/companies/124464/word_mouths",
+    "https://www.instagram.com/p/De_ABLmo9v5/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部28頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部28頁・検索12回）"
+ }
+}

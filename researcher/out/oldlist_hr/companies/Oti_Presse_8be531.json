@@ -1,0 +1,478 @@
+{
+ "name": "Oti Presse",
+ "aliases": [],
+ "context": "旧営業リスト｜Machine Tools / Production Equipment｜未接触",
+ "researched_at": "2026-11-10T19:13:10.342121+00:00",
+ "official_url": "https://www.otipresse.it/",
+ "identified_by": "search:yahoo_jp:Oti Presse",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Presse meccaniche | Presse transfer | Presse rallentate | Presse servo",
+    "url": "https://www.otipresse.it/",
+    "pass": 1
+   },
+   {
+    "quote": "PRESSE CON RALLENTAMENTO",
+    "url": "https://www.otipresse.it/",
+    "pass": 1
+   },
+   {
+    "quote": "I progetti più interessanti",
+    "url": "https://www.otipresse.it/",
+    "pass": 1
+   },
+   {
+    "quote": "che Oti Presse realizza per i propri clienti.",
+    "url": "https://www.otipresse.it/",
+    "pass": 1
+   },
+   {
+    "quote": "Gli articoli più recenti che presentano le caratteristiche delle nostre migliori macchine.",
+    "url": "https://www.otipresse.it/",
+    "pass": 1
+   },
+   {
+    "quote": "Saremo presenti a MSV 2026",
+    "url": "https://www.otipresse.it/",
+    "pass": 1
+   },
+   {
+    "quote": "Saremo presenti a EuroBLECH 2024",
+    "url": "https://www.otipresse.it/",
+    "pass": 1
+   },
+   {
+    "quote": "Saremo presenti a Blechexpo 2023",
+    "url": "https://www.otipresse.it/",
+    "pass": 1
+   },
+   {
+    "quote": "SEMPRE AL VOSTRO FIANCO",
+    "url": "https://www.otipresse.it/",
+    "pass": 1
+   },
+   {
+    "quote": "Servizi pre e post vendita",
+    "url": "https://www.otipresse.it/",
+    "pass": 1
+   },
+   {
+    "quote": "Presse con Rallentamento",
+    "url": "https://www.otipresse.it/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "HOW WE WORK - Oti Presse — HOW WE WORK - Oti Presse Oti Presse https://www.otipresse.it > how-we-work",
+    "url": "https://www.otipresse.it/en/how-we-work/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.otipresse.it/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.audi-press.jp/press-releases/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.presse.co.jp/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/topics/keywords/%E6%97%A5%E6%9C%AC%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Pf1nr4c95L0",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://store.unionlosangeles.com/collections/a-presse?srsltid=AYCX9vK5mIlLnVFwpS8An6-Jtmc5-s2iUOJ7aEiKgMt9ixmS9VT7tFbz",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/a.presse_/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.highsnobiety.com/p/a-presse-profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/reel/DKSJwYfxo_X/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJ3S6RcBtDMFvXY6JcluAQNMNE2tICIdEx_PSEB2dp0lzBtsdhN",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/industries/customer-success-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amdt.com/resources/category/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intermedia.com/resellers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mastercard.com/europe/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ivisionmobile.com/white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/oti/__yznj9SyZnVhUXQb9N0xivYnwD0_9QUugRtIM0-Ms3oU",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/oti-lumionics",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/97847-38",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.privateequityinternational.com/oti-canada-group-bought-wendel-owned-bureau-veritas/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Oti Presse",
+   "results": [
+    "https://www.otipresse.it/",
+    "https://www.metalworkingworldmagazine.com/oti-presse-straight-sided-press-two-thrust-points/",
+    "https://www.otipresse.it/en/how-we-work/",
+    "https://www.konturatools.com/product/eccentric-and-crank-lever-presses-servo-presses-oti-presse",
+    "https://www.instagram.com/a.presse_/",
+    "https://www.metalworkingworldmagazine.com/tag/oti-presse/",
+    "https://store.unionlosangeles.com/collections/a-presse?srsltid=AYCX9vJA0gcZ-lAU5oP9KOEURW8Mup2dwG5ZNEMaWFCPYE7T1S4Fl2iR",
+    "https://ec.apresse.jp/ja",
+    "https://www.otipresse.it/en/",
+    "https://www.machinio.com/manufacturer/oti-presse"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Oti Presse 日本 導入",
+   "results": [
+    "https://www.audi-press.jp/press-releases/",
+    "https://www.stellantis.jp/",
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://global.nissannews.com/ja-JP/releases/050607-01",
+    "https://eao.com/north-america/jp/82/",
+    "https://www.goo-net.com/magazine/cartopic/event-report/294321/",
+    "https://www.renault.jp/incnewsandcampaign.html",
+    "https://www.otipresse.it/",
+    "https://www.otipresse.it/en/highlights/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Oti Presse 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.presse.co.jp/",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://prtimes.jp/topics/keywords/%E6%97%A5%E6%9C%AC%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "https://www.youtube.com/watch?v=Pf1nr4c95L0",
+    "https://kaitori.maisondevii.com/brand/?id=0182",
+    "https://oti-inc.com/",
+    "https://www.te.com/ja/customer-support/authorized-distributors.html",
+    "https://www.diverse-web.com/blogs/news/a-presse-%E6%96%B0%E5%85%A5%E8%8D%B7-1?srsltid=AYCX9vJzcuBH1tl1xyc_Ms79bJuB7fQJbXBiPn2d3Zhk76d1_9lV0Y6V",
+    "https://ida-mode.com/brand/apresse/apparel-sales",
+    "https://dairitenboshu.com/column/detail/soudairiten"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 22
+  },
+  {
+   "query": "Oti Presse Japan",
+   "results": [
+    "https://store.unionlosangeles.com/collections/a-presse?srsltid=AYCX9vK5mIlLnVFwpS8An6-Jtmc5-s2iUOJ7aEiKgMt9ixmS9VT7tFbz",
+    "https://www.instagram.com/a.presse_/",
+    "https://www.highsnobiety.com/p/a-presse-profile/",
+    "https://www.instagram.com/reel/DKSJwYfxo_X/",
+    "https://www.complex.com/style/a/mike-destefano/apresse-japanese-brand-everything-to-know",
+    "https://www.youtube.com/shorts/hAnJVsUzIvQ",
+    "https://supreme.com/news/1033",
+    "https://www.maxfieldla.com/collections/a-presse?srsltid=AYCX9vK8zpw7cFt0cnb0r0c1Dt3bo_oJwlV1W_P6SYRNLKVKN-MBuenG",
+    "https://en.wikipedia.org/wiki/A.PRESSE",
+    "https://www.otipresse.it/en/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Oti Presse manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJ3S6RcBtDMFvXY6JcluAQNMNE2tICIdEx_PSEB2dp0lzBtsdhN",
+    "https://www.otipresse.it/en/how-we-work/",
+    "https://www.eos.info/industries/customer-success-stories",
+    "https://amdt.com/resources/category/case-studies/",
+    "https://www.authentise.com/blog/categories/case-studies",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.rit.edu/advancedmanufacturing/industry40/course/industry-40-case-studies-curated",
+    "https://digitate.com/case-study-fe-1-4/",
+    "https://www.intechopen.com/chapters/87328",
+    "https://www.otipresse.it/en/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Oti Presse white label OR reseller OR partner program",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.intermedia.com/resellers",
+    "https://www.mastercard.com/europe/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "https://ivisionmobile.com/white-label/",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://prnow.io/white-label",
+    "https://www.agentz.ai/partners",
+    "https://www.24presse.com/agency-partner-program/",
+    "https://help.salesplay.com/help/introducing-the-salesplay-partner-white-label-program/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Oti Presse founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/oti/__yznj9SyZnVhUXQb9N0xivYnwD0_9QUugRtIM0-Ms3oU",
+    "https://www.crunchbase.com/organization/oti-lumionics",
+    "https://pitchbook.com/profiles/company/97847-38",
+    "https://www.privateequityinternational.com/oti-canada-group-bought-wendel-owned-bureau-veritas/",
+    "https://www.cogitatiopress.com/mediaandcommunication/article/download/7891/3620",
+    "https://www.securetechalliance.org/oti-completes-15-1-million-equity-financing-to-institutional-investors/",
+    "https://bullfincher.io/",
+    "https://www.owler.com/company/itp",
+    "https://en.wikipedia.org/wiki/Office_of_Transition_Initiatives",
+    "https://en.wikipedia.org/wiki/On_Track_Innovations"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Oti Presse",
+   "results": [
+    "https://note.com/hashibagama/n/n1c5e1567890e",
+    "https://note.com/mens_present/n/n6acebfac3070",
+    "https://note.com/hashibagama/n/n20db92262b7a",
+    "https://note.com/hashibagama/n/na76719362465",
+    "https://note.com/apparelindustry/n/nfb320db21277",
+    "https://note.com/nario_0648/n/nbb9ffc462ecf",
+    "https://note.com/ham_fashionblog/n/n4a2626d97a3b",
+    "https://note.com/hashibagama/n/n7ec7f63e03b4",
+    "https://note.com/planetism/n/n5cf4f2f3233f",
+    "https://note.com/ham_fashionblog/n/n0cd13fa7af10"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com Oti Presse",
+   "results": [
+    "https://x.com/AtopTG/all",
+    "https://x.com/AtopTG/status/2110801892510965915",
+    "https://x.com/Palworld_EN",
+    "https://x.com/itsukohirai/status/1947848032504189224",
+    "https://x.com/PatrickMuyaya",
+    "https://x.com/YasTogo/status/2116511001428300255",
+    "https://x.com/Manohisoa",
+    "https://x.com/etgagnonsocsci",
+    "https://x.com/ReunionTourisme",
+    "https://x.com/OTI"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Oti Presse",
+   "results": [
+    "https://it.linkedin.com/in/stefano-pizzagalli-3b39551a3",
+    "https://fr.linkedin.com/in/presse-ot-archipel-de-thau-a8a7b6371",
+    "https://ci.linkedin.com/in/oti-bosila-4274b032",
+    "https://it.linkedin.com/in/joe-armstrong-7306001",
+    "https://ca.linkedin.com/jobs/vod-jobs",
+    "https://fr.linkedin.com/in/jeanlouisbironne",
+    "https://fr.linkedin.com/posts/oti-archipel-de-thau_retomb%C3%A9es-presse-ot-archipel-de-thau-activity-7514286214695411713-d5sm",
+    "https://mg.linkedin.com/in/oria-andriamaholison-3801aa286",
+    "https://ca.linkedin.com/in/didieroti",
+    "https://it.linkedin.com/company/oti"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Oti Presse",
+   "results": [
+    "https://www.facebook.com/groups/438309766793025/posts/2071644796792839/",
+    "https://www.facebook.com/NordReunionTourisme/posts/%EF%B8%8F-ce-matin-loti-nord-a-pr%C3%A9sent%C3%A9-lors-dune-conf%C3%A9rence-de-presse-%C3%A0-la-maison-carr%C3%A8/1500726345433470/?locale=fr_FR",
+    "https://www.facebook.com/oritahititumata/videos/%F0%9D%90%8F%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%9E-%F0%9D%9F%93-%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%9F%F0%9D%90%9E%CC%81%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%9C%F0%9D%90%9E-%F0%9D%90%9D%F0%9D%90%9E-%F0%9D%90%A9%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AC%F0%9D%90%9E/1599406880672283/",
+    "https://www.facebook.com/MOtiAdjei/videos/franck-kessi%C3%A9-sent-ghana-goalkeeper-lawrence-ati-zigi-completely-the-wrong-way-f/2277269519700965/",
+    "https://www.facebook.com/MOtiAdjei/videos/herve-renard-returns-to-african-football-but-not-to-ghana-however-his-first-task/1006166272237914/",
+    "https://www.facebook.com/100067452013287/posts/-%F0%9D%90%91%F0%9D%90%9E%F0%9D%90%AF%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%B3-%F0%9D%90%A5%F0%9D%90%9A-%F0%9D%90%9C%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%9F%C3%A9%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%9C%F0%9D%90%9E-%F0%9D%90%9D%F0%9D%90%9E-%F0%9D%90%A9%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AC%F0%9D%90%9E-%F0%9D%90%9D%F0%9D%90%9E-%F0%9D%90%A9%F0%9D%90%AB%C3%A9%F0%9D%90%AC%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%A8%F0%9D%90%A7-%F0%9D%90%9D%F0%9D%90%AE-%F0%9D%90%A9%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%AB%F0%9D%90%9E-%F0%9D%90%A5%F0%9D%90%9A-%F0%9D%90%82%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%81%F0%9D%90%93-%F0%9D%90%A5/1453964256861961/",
+    "https://www.facebook.com/MOtiAdjei/videos/-abu-francis-meets-his-new-toulouse-teammates-the-midfielder-was-unveiled-by-the/2561611690859594/",
+    "https://www.facebook.com/100067452013287/posts/%F0%9D%90%8B%F0%9D%90%9A-%F0%9D%90%82%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%81%F0%9D%90%93-%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%AC-%F0%9D%90%A5%F0%9D%90%9A-%F0%9D%90%A9%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AC%F0%9D%90%9E-%F0%9D%90%8C%F0%9D%90%A6%F0%9D%90%9E-%F0%9D%90%8A%F0%9D%90%9E%F0%9D%90%AD%F0%9D%90%AD%F0%9D%90%B2-%F0%9D%90%83%F0%9D%90%84%F0%9D%90%8B%F0%9D%90%95%F0%9D%90%84%F0%9D%90%91-%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD-%C3%A9%F0%9D%90%A5%F0%9D%90%AE%F0%9D%90%9E-%F0%9D%90%A9%F0%9D%90%AB%C3%A9%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%9D%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%9E-%F0%9D%90%9D%F0%9D%90%9E-%F0%9D%90%A5%F0%9D%90%8E%F0%9D%90%9F%F0%9D%90%9F%F0%9D%90%A2%F0%9D%90%9C%F0%9D%90%9E-%F0%9D%90%9D%F0%9D%90%9E-%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%AE%F0%9D%90%AB%F0%9D%90%A2/1327892486135806/",
+    "https://www.facebook.com/lacinor/videos/cinor-terre-davenir-tourisme-le-nord-la-r%C3%A9union-r%C3%A9v%C3%A9l%C3%A9ece-matin-la-cinor-%C3%A9tait-p/1068233706144168/",
+    "https://www.facebook.com/pages/Oti-Presse/249909908500457/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Oti Presse note 社長",
+   "results": [
+    "https://note.com/anon_press",
+    "https://note.com/shacho_homon/m/m1bd972cc202e",
+    "https://note.jp/n/ncdf97fd53291",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://nipponia.or.jp/blog/3571/",
+    "https://prtimes.jp/main/html/searchrlp/company_id/17890",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://note.com/ai_shacho",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Oti Presse X 投稿",
+   "results": [
+    "https://www.reddit.com/r/ThrowingFits/comments/1w9oxfi/supreme_x_apresse_collab/?tl=ja",
+    "https://supreme.com/news/1033",
+    "https://x.com/uptod4te/status/1907675417424875559",
+    "https://www.instagram.com/a.presse_/",
+    "https://www.highsnobiety.com/p/apresse-everyone-2025/",
+    "https://www.complex.com/style/a/mike-destefano/apresse-japanese-brand-everything-to-know",
+    "https://www.youtube.com/watch?v=GMKNyH1ej7g",
+    "https://www.youtube.com/watch?v=Pf1nr4c95L0",
+    "https://www.otipresse.it/",
+    "https://www.otipresse.it/en/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索13回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索13回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索13回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索13回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索13回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索13回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索13回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索13回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索13回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索13回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索13回）"
+ }
+}

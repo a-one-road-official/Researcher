@@ -1,0 +1,683 @@
+{
+ "name": "和光研究所",
+ "aliases": [],
+ "context": "PBF=unknown 装置= 出典=https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+ "researched_at": "2026-11-10T19:14:05.616725+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {},
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "金属3Dプリンターが日本のものづくりを変える — 量産活用の最前線2026 | 3Dプリンタブログ | 3DLab",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターが日本のものづくりを変える — 量産活用の最前線2026",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターが、いま日本の製造業を目立たないところで大きく変えつつあります",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済新聞が2025年11月に「金属3Dプリンター、ブーム再来の兆し」と報じたことも記憶に新しいところです",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、自動車・航空宇宙・医療の3分野で国内の導入事例を紹介しながら、コストが下がって中小企業にも手が届くようになってきた現状をまとめます",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターとは？ — 従来工法との違い",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター（金属AM＝アディティブマニュファクチャリング）は、金属の粉末やワイヤを材料に、3Dデータから直接金属部品を造形する製造技術です",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "主な造形方式には、金属粉末をレーザーで焼結するPBF方式（Powder Bed Fusion）、金属粉末やワイヤをノズルから送りながら溶かすDED方式（Directed Energy Deposition）、金属粉末にバインダー（接着剤）を噴射して固めるバインダージェット方式などがあります",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界で金属3Dプリンターの活用を引っ張っているのがホンダです",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙分野 — ニコンの新拠点とH3ロケットへの適用",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙分野は、金属3Dプリンターがいち早く実用化された領域です",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月、ニコンは埼玉県行田市に「Nikon AM Technology Center Japan」を開設しました",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "業界最先端の大型L-PBF方式プリンター「NXG XII 600」と、ニコン独自の高精度DED方式「Lasermeister LM300A」を備え、アジアの航空・宇宙関連企業に向けて試作品の生産や技術開発のサービスを提供しています",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターは国産ロケットの信頼性とコスト競争力の向上に役立っています",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "2024年10月には、三菱重工業がマルチレーザーSLM技術を使った先進的な金属AMシステムを発表しました",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "医療分野で金属3Dプリンターが使われているのは、患者ごとに合わせた金属インプラントの製造です",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターでの造形には、高度な技術と厳密な品質管理が求められます",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "整形外科用3Dプリンティング機器の世界市場は、2025年の約22億ドルから2026年には約25億ドル規模に成長すると見込まれており、日本でも医療分野への導入が加速しています",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターはこれまで、数千万〜数億円の導入コストが壁となり、大企業が中心の技術でした",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "しかし近年はワイヤ方式の金属3Dプリンターが登場し、従来の粉末方式に比べて材料費と本体価格の両方を大幅に抑えられるようになっています",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "FarsoonやXact Metalなどの海外メーカーが中小企業向けに費用対効果の高い製品を出しており、国内でも導入のハードルが下がりつつあります",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "日本政府も金属3Dプリンターの普及を後押ししています",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "期待されているのは、品質保証の枠組みが整うことで、日本の高い品質基準を満たしながら金属AMを導入しやすくなることです",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの世界市場は2025年の約117億ドルから2026年には約148億ドルへの成長が見込まれ、年平均成長率は26%に達するとされています",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターで作った部品は強度的に大丈夫ですか？",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "金属3Dプリンター（金属AM＝アディティブマニュファクチャリング）は、金属の粉末やワイヤを材料に、3Dデータから直接金属部品を造形する製造技術です",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "主な造形方式には、金属粉末をレーザーで焼結するPBF方式（Powder Bed Fusion）、金属粉末やワイヤをノズルから送りながら溶かすDED方式（Directed Energy Deposition）、金属粉末にバインダー（接着剤）を噴射して固めるバインダージェット方式などがあります",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "ピストンは従来のアルミ鍛造から鉄に材料を変え、金属AMならではの形状の最適化で従来品より軽くしています",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "タービンハウジングには耐熱性の高いニッケル基合金「インコネル」を使い、従来の製造技術では作れなかった複雑で薄い形状への仕様変更にもすぐ対応できるようになりました",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "しかし近年はワイヤ方式の金属3Dプリンターが登場し、従来の粉末方式に比べて材料費と本体価格の両方を大幅に抑えられるようになっています",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "金属3Dプリンターが日本のものづくりを変える — 量産活用の最前線2026 | 3Dプリンタブログ | 3DLab",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターが日本のものづくりを変える — 量産活用の最前線2026",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "以前は試作や少量生産に限られていたこの技術を、2025年以降は量産品の製造にまで使う企業が増えてきました",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、自動車・航空宇宙・医療の3分野で国内の導入事例を紹介しながら、コストが下がって中小企業にも手が届くようになってきた現状をまとめます",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "自動車分野 — ホンダのF1パワーユニット部品に見る実力",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界で金属3Dプリンターの活用を引っ張っているのがホンダです",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "今後は、この技術を量産車にも生かすことが期待されています",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙分野 — ニコンの新拠点とH3ロケットへの適用",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙分野は、金属3Dプリンターがいち早く実用化された領域です",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "業界最先端の大型L-PBF方式プリンター「NXG XII 600」と、ニコン独自の高精度DED方式「Lasermeister LM300A」を備え、アジアの航空・宇宙関連企業に向けて試作品の生産や技術開発のサービスを提供しています",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "一方、三菱重工がJAXAと連携して開発を進めるH3ロケットのLE-9エンジンでは、12コンポーネント・17部品に金属AM技術を使っていて、試作段階を経て量産に入りました",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "造形速度を上げ、航空宇宙グレードの複雑な形状を作れるようにする取り組みも進んでいます",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "医療分野 — 患者一人ひとりに合わせたインプラント",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "医療分野で金属3Dプリンターが使われているのは、患者ごとに合わせた金属インプラントの製造です",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "金属加工企業の金属技研は、医療機器製造販売企業のアムテックと提携し、患者個人のCTスキャンデータをもとに、精密で複雑な形状のインプラントを作る取り組みを進めています",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "アムテックは脊椎用スクリューなどのインプラントで20年以上の実績がある企業です",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "整形外科用3Dプリンティング機器の世界市場は、2025年の約22億ドルから2026年には約25億ドル規模に成長すると見込まれており、日本でも医療分野への導入が加速しています",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "まず外部の受託造形サービスを使って試す方法もおすすめです",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "ニコンのような大手メーカーが受託造形サービスを提供しているので、自社で装置を持たなくても金属AMのメリットを生かすことが可能です",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "欧米ではすでに航空宇宙・医療分野で量産レベルの活用が定着しており、日本は急速に追い上げている段階です",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター、ブーム再来の兆し 日本で量産品に活用広がる",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "自動車から医療まで、実用化が広がる「金属3Dプリンター」とは？",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターで医療が変わる！金属技研が挑む革新的インプラント",
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "和光 幸子 - 有限会社 育成総合研究所 - 代表取締役社長 | LinkedIn（株）先端力学シミュレーション研究所 | LinkedInホンダ「もう一度空へ」 空飛ぶ車にジェットの残党 ものづくり記 最終...佐々木裕 - [General Manager] Wuzheng Automobile R&D Center | 领英LinkedIn: Log In or Sign Upسكسي نيك طيز - -- | LinkedIn尼田達也 - （株）本田技術研究所 - 工業デザイナー | 领英 有限会社 育成総合研究所 - 代表取締役社長 · 職歴: 有限会社 育成総合研究所 · 場所: 東京。10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで和光 幸子さんのプロフィールを閲覧しましょう。 （株）先端力学シミュレーション研究所 ソフトウェア開発 和光市",
+    "url": "https://jp.linkedin.com/in/幸子-和光-159a0b131",
+    "pass": 3
+   },
+   {
+    "quote": "佐々木裕 - [General Manager] Wuzheng Automobile R&D Center | 领英LinkedIn: Log In or Sign Upسكسي نيك طيز - -- | LinkedIn尼田達也 - （株）本田技術研究所 - 工業デザイナー | 领英 [General Manager] Wuzheng Automobile R&D Center · 【 職務経歴/概略 】 期間 所属 勤務地 1971年4月 ～ 1982年5月:日本飛行機 株式会社 横浜製作所 航空機製造部 神奈川県 1982年6月 ～ 1986年3月:株式会社本田技研 和光研究所 試作課 埼玉県 1986年4月 ～ 2012年9月:株式会社本田技研 栃木研究所 完成車試作 栃木県 ... 1 billion members | Manage your professional i",
+    "url": "https://cn.linkedin.com/in/裕-佐々木-37a08192",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 本田技術研究所 和光研究所 - Facebook 株式会社 本田技術研究所 和光研究所",
+    "url": "https://www.facebook.com/株式会社-本田技術研究所-和光研究所-280832098690296/",
+    "pass": 3
+   },
+   {
+    "quote": "理化学研究所 本所 和光研究所 - Facebook 理化学研究所 本所 和光研究所",
+    "url": "https://www.facebook.com/理化学研究所-本所-和光研究所-380441362691806/",
+    "pass": 3
+   },
+   {
+    "quote": "本田技術研究所和光研究所 - Facebook 本田技術研究所和光研究所",
+    "url": "https://www.facebook.com/pages/本田技術研究所和光研究所/196792080425878/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://global.honda/jp/RandD/about/cpgc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp71679/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bizreach.jp/companies/27628/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kk-ariga.co.jp/metal_3d_printer/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.chiba.lg.jp/sanken/kikisetsubi/manufacturing/modelling/metal-x.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.riken.jp/about/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.innovation-riken.jp/wpsite/wp-content/uploads/2021/11/RIKEN-Innovation-p202111.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.opt-v-expo.com/IOF-8th/riken-teigyo/img/riken-teigyo01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/company/404903/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://paiza.jp/recruiters/5761",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.riken.jp/careers/openings/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/幸子-和光-159a0b131",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cn.linkedin.com/in/裕-佐々木-37a08192",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/株式会社-本田技術研究所-和光研究所-280832098690296/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/理化学研究所-本所-和光研究所-380441362691806/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/本田技術研究所和光研究所/196792080425878/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "和光研究所",
+   "results": [
+    "https://www.riken.jp/",
+    "https://ja.wikipedia.org/wiki/%E7%90%86%E5%8C%96%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%89%80",
+    "https://global.honda/jp/RandD/about/cpgc/",
+    "https://x.com/RIKEN_JP",
+    "https://job.mynavi.jp/28/pc/search/corp71679/outline.html",
+    "https://www.jsme.or.jp/event/750/",
+    "https://www.smrj.go.jp/incubation/wrip/index.html",
+    "https://ja.wikipedia.org/wiki/和田研究所",
+    "https://ja.wikipedia.org/wiki/本田技術研究所",
+    "https://ja.wikipedia.org/wiki/理化学研究所"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "株式会社和光研究所",
+   "results": [
+    "https://global.honda/jp/RandD/about/history/",
+    "https://lawplayer.com/jp/company/1010401031014",
+    "https://www.fujifilm.com/ffwk/ja/about/office",
+    "https://www.wako-ss.co.jp/company/outline.html",
+    "https://www.kyotowako.co.jp/",
+    "https://www.wako-chemical.co.jp/",
+    "https://www.waze.com/ja/live-map/directions/jp/%E5%9F%BC%E7%8E%89%E7%9C%8C/%E5%92%8C%E5%85%89%E5%B8%82/%E6%9C%AC%E7%94%B0%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E6%89%80-%E5%9B%9B%E8%BC%AArandd%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E5%92%8C%E5%85%89%EF%BC%89?to=place.ChIJLY5OqOTrGGAR2g2pkCEj5A8",
+    "https://www.wakosiki.co.jp/company/",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1010401031014",
+    "https://ja.wikipedia.org/wiki/本田技術研究所"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "和光研究所 株式会社",
+   "results": [
+    "https://www.riken.jp/",
+    "https://global.honda/jp/RandD/about/cpgc/",
+    "https://ja.wikipedia.org/wiki/%E7%90%86%E5%8C%96%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%89%80",
+    "https://www.innovation-riken.jp/company/",
+    "https://job.mynavi.jp/28/pc/search/corp71679/outline.html",
+    "https://www.bizreach.jp/companies/27628/",
+    "https://www.riken.jp/access/",
+    "https://global.honda/jp/RandD/about/history/",
+    "https://www.honda-jobs.com/environment/workplace/",
+    "https://ja.wikipedia.org/wiki/本田技術研究所"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "和光研究所 会社概要 資本金 設立",
+   "results": [
+    "https://global.honda/jp/RandD/about/cpgc/",
+    "https://job.mynavi.jp/28/pc/search/corp71679/outline.html",
+    "https://www.bizreach.jp/companies/27628/",
+    "https://www.innovation-riken.jp/company/",
+    "https://www.honda-jobs.com/about/profile/",
+    "https://www.jp.honda-ri.com/about/",
+    "https://www.riken.jp/about/history/",
+    "https://www.smrj.go.jp/incubation/wrip/about/index.html",
+    "http://www.heiseicd.jp/company/index.html",
+    "https://ja.wikipedia.org/wiki/本田技術研究所"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "和光研究所 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "https://kk-ariga.co.jp/metal_3d_printer/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B/",
+    "https://www.youtube.com/watch?v=Byfy7tsLawE",
+    "https://www.iri.pref.shizuoka.jp/printer/",
+    "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://news.sharelab.jp/category/3dp-news/metal-3dprinter/",
+    "https://jampt.jp/column/column_1249/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "和光研究所 金属積層造形 設備",
+   "results": [
+    "https://jampt.jp/",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://www.pref.chiba.lg.jp/sanken/kikisetsubi/manufacturing/modelling/metal-x.html",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-houkokusyo.pdf",
+    "https://www.gitc.pref.nagano.lg.jp/zairyo/3Ddigital/setsubi/1_3Dprinter.html",
+    "https://partners.solize.com/manufacturing/technology/3dp-metal",
+    "https://www.jfe-steel.co.jp/products/solution/metal-3d-printing/index.html",
+    "https://chuokatan.co.jp/products/3dp/",
+    "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "https://mitsu-ri.net/articles/metal-laminated-modeling"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "和光研究所 株主 出資 親会社",
+   "results": [
+    "https://www.riken.jp/about/history/",
+    "https://www.innovation-riken.jp/wpsite/wp-content/uploads/2021/11/RIKEN-Innovation-p202111.pdf",
+    "https://www.opt-v-expo.com/IOF-8th/riken-teigyo/img/riken-teigyo01.pdf",
+    "https://ja.wikipedia.org/wiki/%E7%90%86%E5%8C%96%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%89%80",
+    "https://www.kddi-research.jp/newsrelease/2016/080301.html",
+    "https://compalyze.co.jp/company/1030005007111",
+    "https://www.honda-tft.co.jp/company/profile/",
+    "https://www.riken.jp/pr/news/2019/20191130_1/index.html",
+    "https://www.nard.co.jp/company/profile/",
+    "https://ja.wikipedia.org/wiki/本田技術研究所"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "和光研究所 売上高 従業員数",
+   "results": [
+    "https://tenshoku.mynavi.jp/company/404903/",
+    "https://paiza.jp/recruiters/5761",
+    "https://www.riken.jp/careers/openings/",
+    "https://www.bizreach.jp/companies/27628/",
+    "https://www.hatalike.jp/viewjob/89afc3d6d5f0d465/",
+    "https://townwork.net/viewjob/jobid_51c031a69f36e5df/",
+    "https://baseconnect.in/companies/8b736e4f-ab51-45b9-82ba-088619b978cf",
+    "https://compalyze.co.jp/company/8030001046841",
+    "https://www.r-agent.com/viewjob/jk759cfba4dfd03fc1/",
+    "https://ja.wikipedia.org/wiki/本田技術研究所"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 和光研究所",
+   "results": [
+    "https://note.com/shimasho_work/n/n172a76171409",
+    "https://note.com/take_judge/n/nafef606dc439",
+    "https://note.com/take_judge/n/na4685aa007af",
+    "https://note.com/hinatatsu/n/n2493da8cc25a",
+    "https://note.com/take_judge/n/n247a99e67751",
+    "https://note.com/eytn_1a5zb7x/n/n4aa41ce1cf29",
+    "https://note.com/take_judge/n/nfee8380315b0",
+    "https://note.com/hgrx/n/naff201902f64",
+    "https://note.com/take_judge/n/n0ff7b4bb8ea1",
+    "https://note.com/_rhodium_/n/n4ff4c119eb33"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:x.com 和光研究所",
+   "results": [
+    "https://x.com/RIKEN_JP",
+    "https://x.com/riken_wako",
+    "https://x.com/RIKEN_JP/status/1963436869116411944",
+    "https://x.com/RIKEN_JP/status/2105200912218325073",
+    "https://x.com/RIKEN_JP/status/2095768832941912545",
+    "https://x.com/RIKEN_JP/status/2118161736050282764",
+    "https://x.com/riken_wako/status/2117522660905410638",
+    "https://x.com/RIKEN_JP/status/1638772365072154625",
+    "https://x.com/RIKEN_JP/status/1962343482779111446",
+    "https://x.com/Nishina_Center"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com 和光研究所",
+   "results": [
+    "https://jp.linkedin.com/in/幸子-和光-159a0b131",
+    "https://cn.linkedin.com/in/裕-佐々木-37a08192",
+    "https://sa.linkedin.com/in/سكسي-نيك-طيز-6295a21aa",
+    "https://jp.linkedin.com/company/（株）先端力学シミュレーション研究所",
+    "https://www.linkedin.com/",
+    "https://www.linkedin.com/posts/shuzo-tanaka-1a388613_ホンダもう一度空へ空飛ぶクルマにジェットの残党-日本経済新聞-activity-7104319243168481280-1LUN",
+    "https://cn.linkedin.com/in/達也-尼田-ba1525232"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 和光研究所",
+   "results": [
+    "https://www.facebook.com/株式会社-本田技術研究所-和光研究所-280832098690296/",
+    "https://www.facebook.com/理化学研究所-本所-和光研究所-380441362691806/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/pages/本田技術研究所和光研究所/196792080425878/",
+    "https://www.facebook.com/Honda-RD-和光研究所-102685074650652/",
+    "https://www.facebook.com/RIKENCBS/posts/️riken-wako-open-day和光地区一般公開2023️今年のriken和光地区一般公開は現地とオンラインでのハイブリッド開催開催日時2023年10月/796604692469323/",
+    "https://www.facebook.com/RIKENCBS/posts/本日理化学研究所-和光地区-一般公開です脳神経科学研究センターにも是非お越しください会場マップc51とc31ですお待ちしております-理研和光地区一般公開/1389230386540081/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "和光研究所 note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "和光研究所 X 投稿",
+   "results": [
+    "https://x.com/riken_wako",
+    "https://x.com/koeiscience",
+    "https://www.riken.jp/medialibrary/riken/pr/events/events/20251018_1/20251018_1p.pdf",
+    "https://global.honda/jp/group/RandD.html",
+    "https://www.riken.jp/",
+    "https://www.city.wako.lg.jp/shisei/koho/1007544.html",
+    "https://global.honda/jp/technical-review/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部20頁・検索14回）",
+  "資本金": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部20頁・検索14回）",
+  "創業年度": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部20頁・検索14回）",
+  "従業員数": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部20頁・検索14回）",
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部20頁・検索14回）",
+  "株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部20頁・検索14回）",
+  "所在地": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部20頁・検索14回）",
+  "保有設備": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部20頁・検索14回）",
+  "資本金・株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部20頁・検索14回）"
+ }
+}

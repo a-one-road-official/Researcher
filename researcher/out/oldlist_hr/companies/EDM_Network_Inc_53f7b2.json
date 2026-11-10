@@ -1,0 +1,466 @@
+{
+ "name": "EDM Network Inc",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜AI送信済み",
+ "researched_at": "2026-11-10T19:46:04.807757+00:00",
+ "official_url": "https://www.edmnetwork.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "EDM Network, Inc - We offer “Everything in EDM” affordably priced!",
+    "url": "https://www.edmnetwork.com/",
+    "pass": 1
+   },
+   {
+    "quote": "New & Refurbished Machines · On-Site Training · Full Warranty",
+    "url": "https://www.edmnetwork.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We offer the largest selection of CHMER Wires, Sinkers, Drillers and High-Speed Mills. We also offer ZNC and CNC Drillers, Vertical and Horizontal Fast-Wire EDMs and our new Abrasive Saws for graphite and composite materials. As aways, sold complete with on-site setup and training since 1992.",
+    "url": "https://www.edmnetwork.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Horizontal Fast Wire - Upright",
+    "url": "https://www.edmnetwork.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AMS Tech AW9SL High Precision Linear Motor Wire EDM",
+    "url": "https://www.edmnetwork.com/",
+    "pass": 1
+   },
+   {
+    "quote": "CHMER AD4L High Precision EDM Drill",
+    "url": "https://www.edmnetwork.com/",
+    "pass": 1
+   },
+   {
+    "quote": "EDMMax 865S Abrasive Reciprocating Saw",
+    "url": "https://www.edmnetwork.com/",
+    "pass": 1
+   },
+   {
+    "quote": "EDM Network is an American-owned exclusive EDM sales and service company, selling only EDM products. All of our new and refurbished EDMs are sold complete with on-site setup and training at your facility (typically 3–4 days) included. Warranties are provided with all new and refurbished EDMs.",
+    "url": "https://www.edmnetwork.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We offer CHMER EDMs from Taiwan with over 65 different models of Wire, Sinker, and Small Hole Drillers, plus their exclusive Dust-Free Graphite High-Speed Mills for electrodes. NSD EDM Drillers from South Korea for affordable CNC EDM Drillers in 3–6 axes. And multiple models of EDMMax Fast Wire EDMs for 3D metal printing cut-off and other hard-to-flush wire EDM applications.",
+    "url": "https://www.edmnetwork.com/",
+    "pass": 1
+   },
+   {
+    "quote": "affordably priced, including applications consulting, turnkey EDM solutions, EDM consumables, EDM tooling, and spare parts for various older EDM models.",
+    "url": "https://www.edmnetwork.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Latest EDM inventory & promotions",
+    "url": "https://www.edmnetwork.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From design review to final delivery, we provide everything",
+    "url": "https://www.edmnetwork.com/pages/turn-key-edm-solutions",
+    "pass": 1
+   },
+   {
+    "quote": ". Let us review your prints or CAD files and we will give you our best EDM solution for your specific requirements.",
+    "url": "https://www.edmnetwork.com/pages/turn-key-edm-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you need a machine, custom fixtures, precision tooling, or full part programming, we can provide it all — giving you one trusted source from concept to completion.",
+    "url": "https://www.edmnetwork.com/pages/turn-key-edm-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Share your prints or CAD files and our team will come back with the best EDM solution for your requirements.",
+    "url": "https://www.edmnetwork.com/pages/turn-key-edm-solutions",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "New & Refurbished Machines · On-Site Training · Full Warranty",
+    "url": "https://www.edmnetwork.com/",
+    "pass": 1
+   },
+   {
+    "quote": "EDM Network is an American-owned exclusive EDM sales and service company, selling only EDM products. All of our new and refurbished EDMs are sold complete with on-site setup and training at your facility (typically 3–4 days) included. Warranties are provided with all new and refurbished EDMs.",
+    "url": "https://www.edmnetwork.com/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.edmnetwork.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.edmnetwork.com/pages/turn-key-edm-solutions",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Electronic_dance_music",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Electrical_discharge_machining",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/playlist?list=PLw-VjHDlEOgs658kAHR_LAaILBXb-s6Q5",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://edm.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Electronic_dance_music",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Electrical_discharge_machining",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/playlist?list=PLw-VjHDlEOgs658kAHR_LAaILBXb-s6Q5",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://edm.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Electronic_dance_music",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Electrical_discharge_machining",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/playlist?list=PLw-VjHDlEOgs658kAHR_LAaILBXb-s6Q5",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://edm.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Electronic_dance_music",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Electrical_discharge_machining",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/playlist?list=PLw-VjHDlEOgs658kAHR_LAaILBXb-s6Q5",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://edm.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Electronic_dance_music",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Electrical_discharge_machining",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/playlist?list=PLw-VjHDlEOgs658kAHR_LAaILBXb-s6Q5",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://edm.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Electronic_dance_music",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Electrical_discharge_machining",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/playlist?list=PLw-VjHDlEOgs658kAHR_LAaILBXb-s6Q5",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://edm.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "EDM Network Inc 日本 導入",
+   "results": [
+    "https://en.wikipedia.org/wiki/Electronic_dance_music",
+    "https://en.wikipedia.org/wiki/Electrical_discharge_machining",
+    "https://www.youtube.com/playlist?list=PLw-VjHDlEOgs658kAHR_LAaILBXb-s6Q5",
+    "https://edm.com/about-us/",
+    "https://thedjmixtape.com/what-is-edm-10-main-genres/",
+    "https://edmtrain.com/",
+    "https://www.edmprod.com/what-is-edm/",
+    "https://edm.radio/",
+    "https://edm.com/",
+    "https://www.youtube.com/EDM"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "EDM Network Inc 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://en.wikipedia.org/wiki/Electronic_dance_music",
+    "https://en.wikipedia.org/wiki/Electrical_discharge_machining",
+    "https://www.youtube.com/playlist?list=PLw-VjHDlEOgs658kAHR_LAaILBXb-s6Q5",
+    "https://edm.com/about-us/",
+    "https://thedjmixtape.com/what-is-edm-10-main-genres/",
+    "https://edmtrain.com/",
+    "https://www.edmprod.com/what-is-edm/",
+    "https://edm.radio/",
+    "https://edm.com/",
+    "https://www.youtube.com/EDM"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "EDM Network Inc Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Electronic_dance_music",
+    "https://en.wikipedia.org/wiki/Electrical_discharge_machining",
+    "https://www.youtube.com/playlist?list=PLw-VjHDlEOgs658kAHR_LAaILBXb-s6Q5",
+    "https://edm.com/about-us/",
+    "https://thedjmixtape.com/what-is-edm-10-main-genres/",
+    "https://edmtrain.com/",
+    "https://www.edmprod.com/what-is-edm/",
+    "https://edm.radio/",
+    "https://edm.com/",
+    "https://www.youtube.com/EDM"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "EDM Network Inc manufacturing customer case study",
+   "results": [
+    "https://en.wikipedia.org/wiki/Electronic_dance_music",
+    "https://en.wikipedia.org/wiki/Electrical_discharge_machining",
+    "https://www.youtube.com/playlist?list=PLw-VjHDlEOgs658kAHR_LAaILBXb-s6Q5",
+    "https://edm.com/about-us/",
+    "https://thedjmixtape.com/what-is-edm-10-main-genres/",
+    "https://edmtrain.com/",
+    "https://www.edmprod.com/what-is-edm/",
+    "https://edm.radio/",
+    "https://edm.com/",
+    "https://www.youtube.com/EDM"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "EDM Network Inc white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Electronic_dance_music",
+    "https://en.wikipedia.org/wiki/Electrical_discharge_machining",
+    "https://www.youtube.com/playlist?list=PLw-VjHDlEOgs658kAHR_LAaILBXb-s6Q5",
+    "https://edm.com/about-us/",
+    "https://thedjmixtape.com/what-is-edm-10-main-genres/",
+    "https://edmtrain.com/",
+    "https://www.edmprod.com/what-is-edm/",
+    "https://edm.radio/",
+    "https://edm.com/",
+    "https://www.youtube.com/EDM"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "EDM Network Inc founded funding employees revenue",
+   "results": [
+    "https://en.wikipedia.org/wiki/Electronic_dance_music",
+    "https://en.wikipedia.org/wiki/Electrical_discharge_machining",
+    "https://www.youtube.com/playlist?list=PLw-VjHDlEOgs658kAHR_LAaILBXb-s6Q5",
+    "https://edm.com/about-us/",
+    "https://thedjmixtape.com/what-is-edm-10-main-genres/",
+    "https://edmtrain.com/",
+    "https://www.edmprod.com/what-is-edm/",
+    "https://edm.radio/",
+    "https://edm.com/",
+    "https://www.youtube.com/EDM"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:note.com EDM Network Inc",
+   "results": [
+    "https://en.wikipedia.org/wiki/Electronic_dance_music",
+    "https://en.wikipedia.org/wiki/Electrical_discharge_machining",
+    "https://www.youtube.com/playlist?list=PLw-VjHDlEOgs658kAHR_LAaILBXb-s6Q5",
+    "https://edm.com/about-us/",
+    "https://thedjmixtape.com/what-is-edm-10-main-genres/",
+    "https://edmtrain.com/",
+    "https://www.edmprod.com/what-is-edm/",
+    "https://edm.radio/",
+    "https://edm.com/",
+    "https://www.youtube.com/EDM"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:x.com EDM Network Inc",
+   "results": [
+    "https://en.wikipedia.org/wiki/Electronic_dance_music",
+    "https://en.wikipedia.org/wiki/Electrical_discharge_machining",
+    "https://www.youtube.com/playlist?list=PLw-VjHDlEOgs658kAHR_LAaILBXb-s6Q5",
+    "https://edm.com/about-us/",
+    "https://thedjmixtape.com/what-is-edm-10-main-genres/",
+    "https://edmtrain.com/",
+    "https://www.edmprod.com/what-is-edm/",
+    "https://edm.radio/",
+    "https://edm.com/",
+    "https://www.youtube.com/EDM"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com EDM Network Inc",
+   "results": [
+    "https://en.wikipedia.org/wiki/Electronic_dance_music",
+    "https://en.wikipedia.org/wiki/Electrical_discharge_machining",
+    "https://www.youtube.com/playlist?list=PLw-VjHDlEOgs658kAHR_LAaILBXb-s6Q5",
+    "https://edm.com/about-us/",
+    "https://thedjmixtape.com/what-is-edm-10-main-genres/",
+    "https://edmtrain.com/",
+    "https://www.edmprod.com/what-is-edm/",
+    "https://edm.radio/",
+    "https://edm.com/",
+    "https://www.youtube.com/EDM"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:facebook.com EDM Network Inc",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "EDM Network Inc note 社長",
+   "results": [
+    "https://en.wikipedia.org/wiki/Electronic_dance_music",
+    "https://en.wikipedia.org/wiki/Electrical_discharge_machining",
+    "https://www.youtube.com/playlist?list=PLw-VjHDlEOgs658kAHR_LAaILBXb-s6Q5",
+    "https://edm.com/about-us/",
+    "https://thedjmixtape.com/what-is-edm-10-main-genres/",
+    "https://edmtrain.com/",
+    "https://www.edmprod.com/what-is-edm/",
+    "https://edm.radio/",
+    "https://edm.com/",
+    "https://www.youtube.com/EDM"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "EDM Network Inc X 投稿",
+   "results": [
+    "https://en.wikipedia.org/wiki/Electronic_dance_music",
+    "https://en.wikipedia.org/wiki/Electrical_discharge_machining",
+    "https://www.youtube.com/playlist?list=PLw-VjHDlEOgs658kAHR_LAaILBXb-s6Q5",
+    "https://edm.com/about-us/",
+    "https://thedjmixtape.com/what-is-edm-10-main-genres/",
+    "https://edmtrain.com/",
+    "https://www.edmprod.com/what-is-edm/",
+    "https://edm.radio/",
+    "https://edm.com/",
+    "https://www.youtube.com/EDM"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索12回）"
+ }
+}

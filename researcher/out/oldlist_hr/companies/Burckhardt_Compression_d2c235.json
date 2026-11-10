@@ -1,0 +1,1766 @@
+{
+ "name": "Burckhardt Compression",
+ "aliases": [],
+ "context": "旧営業リスト｜Machine Tools / Production Equipment｜AI送信済み",
+ "researched_at": "2026-11-10T19:22:06.925435+00:00",
+ "official_url": "https://www.burckhardtcompression.com/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "Headquarters:",
+    "value": "Kondhapuri, Pune, India",
+    "url": "https://resources.sw.siemens.com/en-US/case-study-burckhardt-compression/",
+    "pass": 3
+   },
+   {
+    "label": "Headquarters",
+    "value": "Winterthur , Switzerland",
+    "url": "https://en.wikipedia.org/wiki/Burckhardt_Compression",
+    "pass": 3
+   },
+   {
+    "label": "Headquarters",
+    "value": "19750 FM 362 Rd, Suite 100, Waller, TX 77484, US",
+    "url": "https://prospeo.io/c/burckhardt-compression-us-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：1844",
+    "url": "https://en.wikipedia.org/wiki/Burckhardt_Compression",
+    "pass": 3
+   },
+   {
+    "label": "Founded",
+    "value": "Founded：2014",
+    "url": "https://prospeo.io/c/burckhardt-compression-us-revenue",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$593,000",
+    "url": "https://prospeo.io/c/burckhardt-compression-us-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "No funding",
+    "url": "https://prospeo.io/c/burckhardt-compression-us-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Home - Burckhardt Compression",
+    "url": "https://www.burckhardtcompression.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how our advanced compressor solutions can enhance your petrochemical and chemical operations. From ethylene and propylene production to ammonia synthesis, our products ensure optimal performance, reliability, and efficiency. Learn more about our services and success stories that highlight reduced maintenance costs, increased reliability, and extended compressor lifetimes.",
+    "url": "https://www.burckhardtcompression.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Polyolefins production",
+    "url": "https://www.burckhardtcompression.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hydrogen offshore production",
+    "url": "https://www.burckhardtcompression.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Refinery compression solutions",
+    "url": "https://www.burckhardtcompression.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Gas gathering and processing",
+    "url": "https://www.burckhardtcompression.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Gas processing plants",
+    "url": "https://www.burckhardtcompression.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Gas gathering and processing service solutions",
+    "url": "https://www.burckhardtcompression.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Laby K / D compressors",
+    "url": "https://www.burckhardtcompression.com/",
+    "pass": 1
+   },
+   {
+    "quote": "BCM FGI 350-1.0 compressors",
+    "url": "https://www.burckhardtcompression.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Laby 2K70 compressors",
+    "url": "https://www.burckhardtcompression.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Process gas compressors",
+    "url": "https://www.burckhardtcompression.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fully balanced high-speed compressors",
+    "url": "https://www.burckhardtcompression.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Standard high-pressure compressors",
+    "url": "https://www.burckhardtcompression.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Marine high-pressure compressors",
+    "url": "https://www.burckhardtcompression.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Diaphragm compressors",
+    "url": "https://www.burckhardtcompression.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Compressor sealing solutions",
+    "url": "https://www.burckhardtcompression.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hyper compressor components",
+    "url": "https://www.burckhardtcompression.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Auxiliaries and other products",
+    "url": "https://www.burckhardtcompression.com/",
+    "pass": 1
+   },
+   {
+    "quote": "BC ACTIVATE compressor assessment",
+    "url": "https://www.burckhardtcompression.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Preventive maintenance",
+    "url": "https://www.burckhardtcompression.com/",
+    "pass": 1
+   },
+   {
+    "quote": "UP! Detect predictive maintenance",
+    "url": "https://www.burckhardtcompression.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PROGNOST-NT online condition monitoring",
+    "url": "https://www.burckhardtcompression.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PROGNOST-SILver SIL3 machinery protection",
+    "url": "https://www.burckhardtcompression.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PROGNOST-Predictor for gearboxes and extruders",
+    "url": "https://www.burckhardtcompression.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Article - Burckhardt Compression",
+    "url": "https://www.burckhardtcompression.com/about/news-stories-and-whitepapers/article/partnership-driven-excellence-in-hydrogen-compression/",
+    "pass": 1
+   },
+   {
+    "quote": "Partnership-driven excellence in hydrogen compression",
+    "url": "https://www.burckhardtcompression.com/about/news-stories-and-whitepapers/article/partnership-driven-excellence-in-hydrogen-compression/",
+    "pass": 1
+   },
+   {
+    "quote": "Renowned for its commitment to excellence, our customer consistently seeks partners that deliver superior products and services. Burckhardt Compression meets these high standards, providing reliable solutions that support its mission of safe, efficient, and sustainable operations. This shared commitment resulted in the decision to collaborate under a Framework Agreement.",
+    "url": "https://www.burckhardtcompression.com/about/news-stories-and-whitepapers/article/partnership-driven-excellence-in-hydrogen-compression/",
+    "pass": 1
+   },
+   {
+    "quote": "Local Burckhardt Compression field service representative during a detailed on-site inspection.",
+    "url": "https://www.burckhardtcompression.com/about/news-stories-and-whitepapers/article/partnership-driven-excellence-in-hydrogen-compression/",
+    "pass": 1
+   },
+   {
+    "quote": "Maximum compressor availability in demanding hydrogen application",
+    "url": "https://www.burckhardtcompression.com/about/news-stories-and-whitepapers/article/partnership-driven-excellence-in-hydrogen-compression/",
+    "pass": 1
+   },
+   {
+    "quote": "Burckhardt Compression",
+    "url": "https://www.burckhardtcompression.com/about/news-stories-and-whitepapers/article/partnership-driven-excellence-in-hydrogen-compression/",
+    "pass": 1
+   },
+   {
+    "quote": "Process Gas Compressors 6B2AC",
+    "url": "https://www.burckhardtcompression.com/about/news-stories-and-whitepapers/article/partnership-driven-excellence-in-hydrogen-compression/",
+    "pass": 1
+   },
+   {
+    "quote": "We established a Framework Agreement to ensure effective service concepts, proactive planning, and reduced administrative burden. Regular performance review meetings facilitate the integration of the latest innovations and promote open feedback exchange. A dedicated Account Manager streamlines communication, making collaboration more convenient and efficient.",
+    "url": "https://www.burckhardtcompression.com/about/news-stories-and-whitepapers/article/partnership-driven-excellence-in-hydrogen-compression/",
+    "pass": 1
+   },
+   {
+    "quote": "The compressors are equipped with the PROGNOST®‑SILver system, delivering comprehensive machine protection based on key process parameters to guarantee full personnel safety. With extremely early and reliable detection of irregularities, supported by automatic plausibility checks, the system triggers immediate compressor shutdowns whenever needed.",
+    "url": "https://www.burckhardtcompression.com/about/news-stories-and-whitepapers/article/partnership-driven-excellence-in-hydrogen-compression/",
+    "pass": 1
+   },
+   {
+    "quote": "Strong local presence in Europe and 24/7 technical support",
+    "url": "https://www.burckhardtcompression.com/about/news-stories-and-whitepapers/article/partnership-driven-excellence-in-hydrogen-compression/",
+    "pass": 1
+   },
+   {
+    "quote": "Our sealing rings are manufactured using tailor-made compounds from the Persisto® range. By designing and producing these components entirely in-house, we maintain full control over the process – an essential factor in delivering high-performance sealing solutions for demanding dry-running environments.",
+    "url": "https://www.burckhardtcompression.com/about/news-stories-and-whitepapers/article/partnership-driven-excellence-in-hydrogen-compression/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven compressor availability exceeding 12’000 hours",
+    "url": "https://www.burckhardtcompression.com/about/news-stories-and-whitepapers/article/partnership-driven-excellence-in-hydrogen-compression/",
+    "pass": 1
+   },
+   {
+    "quote": "Burckhardt Compression increases order intake and confirms guidance",
+    "url": "https://www.burckhardtcompression.com/about/news-stories-and-whitepapers/article/partnership-driven-excellence-in-hydrogen-compression/",
+    "pass": 1
+   },
+   {
+    "quote": "Burckhardt Compression secures orders for semiconductor hydrogen application",
+    "url": "https://www.burckhardtcompression.com/about/news-stories-and-whitepapers/article/partnership-driven-excellence-in-hydrogen-compression/",
+    "pass": 1
+   },
+   {
+    "quote": "Burckhardt Compression announces leadership transition in Systems Division",
+    "url": "https://www.burckhardtcompression.com/about/news-stories-and-whitepapers/article/partnership-driven-excellence-in-hydrogen-compression/",
+    "pass": 1
+   },
+   {
+    "quote": "Partnership solutions - Burckhardt Compression",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how our advanced compressor solutions can enhance your petrochemical and chemical operations. From ethylene and propylene production to ammonia synthesis, our products ensure optimal performance, reliability, and efficiency. Learn more about our services and success stories that highlight reduced maintenance costs, increased reliability, and extended compressor lifetimes.",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Polyolefins production",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Hydrogen offshore production",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Refinery compression solutions",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Gas gathering and processing",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Gas processing plants",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Gas gathering and processing service solutions",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Laby K / D compressors",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "BCM FGI 350-1.0 compressors",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Laby 2K70 compressors",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Process gas compressors",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Fully balanced high-speed compressors",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Standard high-pressure compressors",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Marine high-pressure compressors",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Diaphragm compressors",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Compressor sealing solutions",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Hyper compressor components",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Auxiliaries and other products",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "BC ACTIVATE compressor assessment",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Industrial gas service solutions",
+    "url": "https://www.burckhardtcompression.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Gas processing plants",
+    "url": "https://www.burckhardtcompression.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With over nine Service Centers in Europe and additional locations worldwide, we ensure rapid response times. Our global support network is available 24/7 and is backed by a team of highly skilled technicians.",
+    "url": "https://www.burckhardtcompression.com/about/news-stories-and-whitepapers/article/partnership-driven-excellence-in-hydrogen-compression/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial gas service solutions",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Gas processing plants",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial gas service solutions",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/strategic-agreements/",
+    "pass": 1
+   },
+   {
+    "quote": "Gas processing plants",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/strategic-agreements/",
+    "pass": 1
+   },
+   {
+    "quote": "Get responsive on-site support from our localized technicians.",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/strategic-agreements/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial gas service solutions",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/compressor-technology-trainings/",
+    "pass": 1
+   },
+   {
+    "quote": "Gas processing plants",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/compressor-technology-trainings/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial gas service solutions",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/voice-of-customer-satisfaction-survey/",
+    "pass": 1
+   },
+   {
+    "quote": "Gas processing plants",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/voice-of-customer-satisfaction-survey/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial gas service solutions",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/techxchange-technical-webinar/",
+    "pass": 1
+   },
+   {
+    "quote": "Gas processing plants",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/techxchange-technical-webinar/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial gas service solutions",
+    "url": "https://www.burckhardtcompression.com/about/careers/recruitment-agencies/",
+    "pass": 1
+   },
+   {
+    "quote": "Gas processing plants",
+    "url": "https://www.burckhardtcompression.com/about/careers/recruitment-agencies/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial gas service solutions",
+    "url": "https://www.burckhardtcompression.com/about/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Gas processing plants",
+    "url": "https://www.burckhardtcompression.com/about/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial gas service solutions",
+    "url": "https://www.burckhardtcompression.com/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Gas processing plants",
+    "url": "https://www.burckhardtcompression.com/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in 1844, Burckhardt Compression has continuously evolved alongside its markets, from early engineering innovations to today’s advanced compressor solutions. Headquartered in Winterthur, Switzerland, the company operates globally with 35 subsidiaries, as well as three manufacturing and five assembly sites.",
+    "url": "https://www.burckhardtcompression.com/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial gas service solutions",
+    "url": "https://www.burckhardtcompression.com/about/company/brands/",
+    "pass": 1
+   },
+   {
+    "quote": "Gas processing plants",
+    "url": "https://www.burckhardtcompression.com/about/company/brands/",
+    "pass": 1
+   },
+   {
+    "quote": "SAMR Métal Rouge is a manufacturer of high-end sliding bearings based in Pont-Sainte-Marie, France. The company has produced premium sliding bearings for the market worldwide since 1947.",
+    "url": "https://www.burckhardtcompression.com/about/company/brands/",
+    "pass": 1
+   },
+   {
+    "quote": "Shenyang Yuanda Compression whose headquarters are in the East of China is one of the country’s leading manufacturers of reciprocating compressors. Shenyang Yuanda Compression is a manufacturer and service provider for the Chinese market for applications in the petrochemical, chemical and natural gas industry.",
+    "url": "https://www.burckhardtcompression.com/about/company/brands/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial gas service solutions",
+    "url": "https://www.burckhardtcompression.com/about/careers/join-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Gas processing plants",
+    "url": "https://www.burckhardtcompression.com/about/careers/join-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial gas service solutions",
+    "url": "https://www.burckhardtcompression.com/about/careers/your-path-to-join-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Gas processing plants",
+    "url": "https://www.burckhardtcompression.com/about/careers/your-path-to-join-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial gas service solutions",
+    "url": "https://www.burckhardtcompression.com/about/news-stories-and-whitepapers/",
+    "pass": 1
+   },
+   {
+    "quote": "Gas processing plants",
+    "url": "https://www.burckhardtcompression.com/about/news-stories-and-whitepapers/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial gas service solutions",
+    "url": "https://www.burckhardtcompression.com/applications/petrochemical-and-chemical/service-solutions-for-the-petrochemical-and-chemical-industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Gas processing plants",
+    "url": "https://www.burckhardtcompression.com/applications/petrochemical-and-chemical/service-solutions-for-the-petrochemical-and-chemical-industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Petrochemical plant boosts compressor efficiency with expert guidance",
+    "url": "https://www.burckhardtcompression.com/applications/petrochemical-and-chemical/service-solutions-for-the-petrochemical-and-chemical-industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial gas service solutions",
+    "url": "https://www.burckhardtcompression.com/applications/marine/service-solutions-for-the-marine-industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Gas processing plants",
+    "url": "https://www.burckhardtcompression.com/applications/marine/service-solutions-for-the-marine-industry/",
+    "pass": 1
+   },
+   {
+    "quote": "We collaborate equally with shipyards, vessel owners, and operators to meet specific needs and requirements. Our fleet managers serve as the sole point of contact throughout the project, coordinating with the yard, third-party auxiliary providers, and vessel owners. This ensures peace of mind for everyone involved.",
+    "url": "https://www.burckhardtcompression.com/applications/marine/service-solutions-for-the-marine-industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Burckhardt Compression secures milestone order for first industrial scale Liquefied CO₂ carrier supporting Northern Lights CCS project",
+    "url": "https://www.burckhardtcompression.com/applications/marine/service-solutions-for-the-marine-industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial gas service solutions",
+    "url": "https://www.burckhardtcompression.com/applications/hydrogen-mobility-and-energy/service-solutions-for-the-hydrogen-mobility-energy-industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Gas processing plants",
+    "url": "https://www.burckhardtcompression.com/applications/hydrogen-mobility-and-energy/service-solutions-for-the-hydrogen-mobility-energy-industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Service solutions for the industrial gas industry - Burckhardt Compression",
+    "url": "https://www.burckhardtcompression.com/applications/industrial-gas/service-solutions-for-the-industrial-gas-industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial gas service solutions",
+    "url": "https://www.burckhardtcompression.com/applications/industrial-gas/service-solutions-for-the-industrial-gas-industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Gas processing plants",
+    "url": "https://www.burckhardtcompression.com/applications/industrial-gas/service-solutions-for-the-industrial-gas-industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Service solutions for the industrial gas industry",
+    "url": "https://www.burckhardtcompression.com/applications/industrial-gas/service-solutions-for-the-industrial-gas-industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Regardless of the compressor brand or type of gas, we are well-versed in the entire production process and your machinery. We are global, local, and highly skilled, committed to ensuring the optimal profitability of your plant.",
+    "url": "https://www.burckhardtcompression.com/applications/industrial-gas/service-solutions-for-the-industrial-gas-industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace & Defense | Industrials",
+    "url": "https://www.lincolninternational.com/transactions/burckhardt-compression-has-acquired-global-compressor-business-from-the-japan-steel-works/",
+    "pass": 3
+   },
+   {
+    "quote": "Lincoln International advised LFM Capital on the sale of Diamabrush, a manufacturer of diamond abrasive brushes and replacement blades, to Cordatus Capital.",
+    "url": "https://www.lincolninternational.com/transactions/burckhardt-compression-has-acquired-global-compressor-business-from-the-japan-steel-works/",
+    "pass": 3
+   },
+   {
+    "quote": "Lincoln International advised Heartland Precision Fasteners, a leading manufacturer of high-grade, externally threaded aerospace fasteners, on its sale to SFS Group.",
+    "url": "https://www.lincolninternational.com/transactions/burckhardt-compression-has-acquired-global-compressor-business-from-the-japan-steel-works/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial machinery business",
+    "url": "https://www.jsw.co.jp/en/news/details/20200305001000.html",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Burckhardt Compression boosts plant design growth with CAD Schroer MPDS4 and MEDUSA4 | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/cad-schroer/case-study/burckhardt-compression-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Burckhardt Compression boosts plant design growth with CAD Schroer MPDS4 and MEDUSA4",
+    "url": "https://www.casestudies.com/company/cad-schroer/case-study/burckhardt-compression-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Burckhardt Compression - Customer Case Study",
+    "url": "https://www.casestudies.com/company/cad-schroer/case-study/burckhardt-compression-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/cad-schroer/case-study/burckhardt-compression-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/cad-schroer/case-study/burckhardt-compression-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Burckhardt Compression Case Study | Siemens",
+    "url": "https://resources.sw.siemens.com/en-US/case-study-burckhardt-compression/",
+    "pass": 3
+   },
+   {
+    "quote": "Global compressor manufacturer significantly increases competitiveness worldwide with 3D excellence",
+    "url": "https://resources.sw.siemens.com/en-US/case-study-burckhardt-compression/",
+    "pass": 3
+   },
+   {
+    "quote": "Burckhardt Compression India Pvt. Ltd. (BCIN) is a wholly owned subsidiary of Burckhardt Compression AG of Switzerland, one of the leading manufacturers of reciprocating compressor systems. The company’s products enjoy the reputation of high quality and minimal lifecycle costs and are backed by a full range of services.",
+    "url": "https://resources.sw.siemens.com/en-US/case-study-burckhardt-compression/",
+    "pass": 3
+   },
+   {
+    "quote": "Teamcenter ensures data security and NX provides a very good platform to serve as input for various additional analysis software. Our next mission is to use these tools for CAE in our manufacturing.",
+    "url": "https://resources.sw.siemens.com/en-US/case-study-burckhardt-compression/",
+    "pass": 3
+   },
+   {
+    "quote": "R. S. Gunaji, General Manager Design and Manufacturing , Burckhardt Compression (India) Pvt. Ltd.",
+    "url": "https://resources.sw.siemens.com/en-US/case-study-burckhardt-compression/",
+    "pass": 3
+   },
+   {
+    "quote": "Calling attention to the advantages of using NX, Atul Prabhune, senior manager, Design and Development, BCIN, notes, “NX is an excellent platform for product development enabling a safe landing for innovation, order execution with speed and accuracy, the best runway for analysis of components and advanced manufacturing techniques.”",
+    "url": "https://resources.sw.siemens.com/en-US/case-study-burckhardt-compression/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Marine LPG and ammonia carriers",
+    "url": "https://www.burckhardtcompression.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Burckhardt Compression and learn more about our organization and our mission, values, innovative products and services. We are looking for long-term partnerships with our employees, customers, suppliers, media and investors.",
+    "url": "https://www.burckhardtcompression.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sustainability is an integrated part of our strategy, and a key to creating leading compression solutions for a sustainable energy future.",
+    "url": "https://www.burckhardtcompression.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Marine LPG and ammonia carriers",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Burckhardt Compression and learn more about our organization and our mission, values, innovative products and services. We are looking for long-term partnerships with our employees, customers, suppliers, media and investors.",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Marine LPG and ammonia carriers",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/strategic-agreements/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Burckhardt Compression and learn more about our organization and our mission, values, innovative products and services. We are looking for long-term partnerships with our employees, customers, suppliers, media and investors.",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/strategic-agreements/",
+    "pass": 1
+   },
+   {
+    "quote": "(MSA: Master Service Agreements, FWA: Framework Agreements, LTSA: Long-Term Service Agreements, SLA: Service Level Agreement, SSA: Service Subscription Agreement, WEA: Warranty Extension Agreement)",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/strategic-agreements/",
+    "pass": 1
+   },
+   {
+    "quote": "Marine LPG and ammonia carriers",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/compressor-technology-trainings/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Burckhardt Compression and learn more about our organization and our mission, values, innovative products and services. We are looking for long-term partnerships with our employees, customers, suppliers, media and investors.",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/compressor-technology-trainings/",
+    "pass": 1
+   },
+   {
+    "quote": "Marine LPG and ammonia carriers",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/voice-of-customer-satisfaction-survey/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Burckhardt Compression and learn more about our organization and our mission, values, innovative products and services. We are looking for long-term partnerships with our employees, customers, suppliers, media and investors.",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/voice-of-customer-satisfaction-survey/",
+    "pass": 1
+   },
+   {
+    "quote": "Marine LPG and ammonia carriers",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/techxchange-technical-webinar/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Burckhardt Compression and learn more about our organization and our mission, values, innovative products and services. We are looking for long-term partnerships with our employees, customers, suppliers, media and investors.",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/techxchange-technical-webinar/",
+    "pass": 1
+   },
+   {
+    "quote": "According to Priti, one of the biggest challenges facing the industry is the changing workforce demographics. With Gen Z seeking more fulfilling roles, having the right work environment to keep employees engaged with the right employer value proposition is, in her opinion, of the utmost importance.",
+    "url": "https://www.burckhardtcompression.com/about/careers/employee-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "Marine LPG and ammonia carriers",
+    "url": "https://www.burckhardtcompression.com/about/careers/recruitment-agencies/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Burckhardt Compression and learn more about our organization and our mission, values, innovative products and services. We are looking for long-term partnerships with our employees, customers, suppliers, media and investors.",
+    "url": "https://www.burckhardtcompression.com/about/careers/recruitment-agencies/",
+    "pass": 1
+   },
+   {
+    "quote": "Marine LPG and ammonia carriers",
+    "url": "https://www.burckhardtcompression.com/about/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Burckhardt Compression and learn more about our organization and our mission, values, innovative products and services. We are looking for long-term partnerships with our employees, customers, suppliers, media and investors.",
+    "url": "https://www.burckhardtcompression.com/about/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Marine LPG and ammonia carriers",
+    "url": "https://www.burckhardtcompression.com/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Burckhardt Compression and learn more about our organization and our mission, values, innovative products and services. We are looking for long-term partnerships with our employees, customers, suppliers, media and investors.",
+    "url": "https://www.burckhardtcompression.com/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Marine LPG and ammonia carriers",
+    "url": "https://www.burckhardtcompression.com/about/company/brands/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Burckhardt Compression and learn more about our organization and our mission, values, innovative products and services. We are looking for long-term partnerships with our employees, customers, suppliers, media and investors.",
+    "url": "https://www.burckhardtcompression.com/about/company/brands/",
+    "pass": 1
+   },
+   {
+    "quote": "Marine LPG and ammonia carriers",
+    "url": "https://www.burckhardtcompression.com/about/careers/join-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Burckhardt Compression and learn more about our organization and our mission, values, innovative products and services. We are looking for long-term partnerships with our employees, customers, suppliers, media and investors.",
+    "url": "https://www.burckhardtcompression.com/about/careers/join-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Supported by the strategic direction of the Board of Directors and the leadership of the Executive Management, we turn our values into lasting impact for our employees and customers.",
+    "url": "https://www.burckhardtcompression.com/about/careers/join-us/",
+    "pass": 1
+   },
+   {
+    "quote": "I’m proud to be part of the R&D team that’s always striving to innovate and create new solutions. It’s fulfilling to know that our work is making a difference in the world, and it’s also fun to be part of a team that’s always up for a challenge. I’m excited to continue growing my career with Burckhardt Compression.",
+    "url": "https://www.burckhardtcompression.com/about/careers/join-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Marine LPG and ammonia carriers",
+    "url": "https://www.burckhardtcompression.com/about/careers/your-path-to-join-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Burckhardt Compression and learn more about our organization and our mission, values, innovative products and services. We are looking for long-term partnerships with our employees, customers, suppliers, media and investors.",
+    "url": "https://www.burckhardtcompression.com/about/careers/your-path-to-join-us/",
+    "pass": 1
+   },
+   {
+    "quote": "At Burckhardt Compression, we offer numerous opportunities in both management and specialized fields. We believe that every generation brings unique skills and experiences. Our goal is to foster trust and cooperation among employees of all ages, encouraging them to learn from one another through various mentoring and coaching programs.",
+    "url": "https://www.burckhardtcompression.com/about/careers/your-path-to-join-us/",
+    "pass": 1
+   },
+   {
+    "quote": "For many years, our apprenticeship program has been a vital part of our commitment to social responsibility and professional development for young people. At Burckhardt Compression, we provide comprehensive training, engaging projects, and practical experience to ensure our apprentices are well-prepared for their future careers.",
+    "url": "https://www.burckhardtcompression.com/about/careers/your-path-to-join-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Marine LPG and ammonia carriers",
+    "url": "https://www.burckhardtcompression.com/about/news-stories-and-whitepapers/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Burckhardt Compression and learn more about our organization and our mission, values, innovative products and services. We are looking for long-term partnerships with our employees, customers, suppliers, media and investors.",
+    "url": "https://www.burckhardtcompression.com/about/news-stories-and-whitepapers/",
+    "pass": 1
+   },
+   {
+    "quote": "Burckhardt Compression completes the acquisition of Fornovo Gas",
+    "url": "https://www.burckhardtcompression.com/about/news-stories-and-whitepapers/",
+    "pass": 1
+   },
+   {
+    "quote": "Marine LPG and ammonia carriers",
+    "url": "https://www.burckhardtcompression.com/applications/petrochemical-and-chemical/service-solutions-for-the-petrochemical-and-chemical-industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Burckhardt Compression and learn more about our organization and our mission, values, innovative products and services. We are looking for long-term partnerships with our employees, customers, suppliers, media and investors.",
+    "url": "https://www.burckhardtcompression.com/applications/petrochemical-and-chemical/service-solutions-for-the-petrochemical-and-chemical-industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Marine LPG and ammonia carriers",
+    "url": "https://www.burckhardtcompression.com/applications/marine/service-solutions-for-the-marine-industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Burckhardt Compression and learn more about our organization and our mission, values, innovative products and services. We are looking for long-term partnerships with our employees, customers, suppliers, media and investors.",
+    "url": "https://www.burckhardtcompression.com/applications/marine/service-solutions-for-the-marine-industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Burckhardt Compression secures milestone order for first industrial scale Liquefied CO₂ carrier supporting Northern Lights CCS project",
+    "url": "https://www.burckhardtcompression.com/applications/marine/service-solutions-for-the-marine-industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Marine LPG and ammonia carriers",
+    "url": "https://www.burckhardtcompression.com/applications/hydrogen-mobility-and-energy/service-solutions-for-the-hydrogen-mobility-energy-industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Burckhardt Compression and learn more about our organization and our mission, values, innovative products and services. We are looking for long-term partnerships with our employees, customers, suppliers, media and investors.",
+    "url": "https://www.burckhardtcompression.com/applications/hydrogen-mobility-and-energy/service-solutions-for-the-hydrogen-mobility-energy-industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Marine LPG and ammonia carriers",
+    "url": "https://www.burckhardtcompression.com/applications/industrial-gas/service-solutions-for-the-industrial-gas-industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Burckhardt Compression and learn more about our organization and our mission, values, innovative products and services. We are looking for long-term partnerships with our employees, customers, suppliers, media and investors.",
+    "url": "https://www.burckhardtcompression.com/applications/industrial-gas/service-solutions-for-the-industrial-gas-industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Burckhardt Compression has acquired global compressor business from The Japan Steel Works - Lincoln International LLC",
+    "url": "https://www.lincolninternational.com/transactions/burckhardt-compression-has-acquired-global-compressor-business-from-the-japan-steel-works/",
+    "pass": 3
+   },
+   {
+    "quote": "Burckhardt Compression has acquired global compressor business from The Japan Steel Works",
+    "url": "https://www.lincolninternational.com/transactions/burckhardt-compression-has-acquired-global-compressor-business-from-the-japan-steel-works/",
+    "pass": 3
+   },
+   {
+    "quote": "The acquisition agreement was signed on March 4, 2020. The closing of the transaction is expected to occur end of March 2020. Lincoln International acted as the financial advisor to Burckhardt Compression.",
+    "url": "https://www.lincolninternational.com/transactions/burckhardt-compression-has-acquired-global-compressor-business-from-the-japan-steel-works/",
+    "pass": 3
+   },
+   {
+    "quote": "Lincoln International advised IceLake on arranging financing to support its acquisition of AXI, a leading IT managed services provider in Belgium and the Netherlands, from Strada Partners.",
+    "url": "https://www.lincolninternational.com/transactions/burckhardt-compression-has-acquired-global-compressor-business-from-the-japan-steel-works/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、Burckhardt Compression AG（スイス、以下BC社）の100％子会社であるブルックハルトジャパン株式会社（代表者：代表取締役社長 山本健一、本社：神奈川県横浜市）に対し、当社圧縮機事業を譲渡することを決定いたしましたのでお知らせいたします",
+    "url": "https://www.jsw.co.jp/ja/news/details/20200305000000.html",
+    "pass": 3
+   },
+   {
+    "quote": "Burckhardt Compression India Pvt. Ltd. (BCIN) is a wholly owned subsidiary of Burckhardt Compression AG of Switzerland, one of the leading manufacturers of reciprocating compressor systems. The company’s products enjoy the reputation of high quality and minimal lifecycle costs and are backed by a full range of services.",
+    "url": "https://resources.sw.siemens.com/en-US/case-study-burckhardt-compression/",
+    "pass": 3
+   },
+   {
+    "quote": "Since 2006, Burckhardt Compression has been listed on the",
+    "url": "https://en.wikipedia.org/wiki/Burckhardt_Compression",
+    "pass": 3
+   },
+   {
+    "quote": "became part of the manufacturer",
+    "url": "https://en.wikipedia.org/wiki/Burckhardt_Compression",
+    "pass": 3
+   },
+   {
+    "quote": "initial public offering (IPO)",
+    "url": "https://en.wikipedia.org/wiki/Burckhardt_Compression",
+    "pass": 3
+   },
+   {
+    "quote": "In December 2015, Burckhardt Compression acquired a 40% stake in Houston-based",
+    "url": "https://en.wikipedia.org/wiki/Burckhardt_Compression",
+    "pass": 3
+   },
+   {
+    "quote": "In March 2016, the company acquired a majority stake in",
+    "url": "https://en.wikipedia.org/wiki/Burckhardt_Compression",
+    "pass": 3
+   },
+   {
+    "quote": "In September 2016, the company acquired",
+    "url": "https://en.wikipedia.org/wiki/Burckhardt_Compression",
+    "pass": 3
+   },
+   {
+    "quote": "through the acquisition of",
+    "url": "https://en.wikipedia.org/wiki/Burckhardt_Compression",
+    "pass": 3
+   },
+   {
+    "quote": "In March 2020, the company acquired the global compressor business from",
+    "url": "https://en.wikipedia.org/wiki/Burckhardt_Compression",
+    "pass": 3
+   },
+   {
+    "quote": "In 2023, Burckhardt Compression fully acquired Arkos Field Services and integrated it into its operations.",
+    "url": "https://en.wikipedia.org/wiki/Burckhardt_Compression",
+    "pass": 3
+   },
+   {
+    "quote": "In April of the same year, the company acquired Thailand-based",
+    "url": "https://en.wikipedia.org/wiki/Burckhardt_Compression",
+    "pass": 3
+   },
+   {
+    "quote": ". and established Burckhardt Compression (Thailand) Co. Ltd. through this acquisition. The acquisition of the",
+    "url": "https://en.wikipedia.org/wiki/Burckhardt_Compression",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Our training programs are available worldwide. Selected courses are offered through our network of locations. Contact us to discover your training options.",
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/compressor-technology-trainings/",
+    "pass": 1
+   },
+   {
+    "quote": "To avoid misunderstandings, we do not accept unsolicited CVs sent outside our defined process (e.g., directly to hiring managers or via email without prior agreement). This approach is consistent with common market practice and helps protect candidate data and ensure a fair, transparent recruitment process.",
+    "url": "https://www.burckhardtcompression.com/about/careers/recruitment-agencies/",
+    "pass": 1
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/burckhardt-compression-us-revenue",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Recruitment agencies - Burckhardt Compression",
+    "url": "https://www.burckhardtcompression.com/about/careers/recruitment-agencies/",
+    "pass": 1
+   },
+   {
+    "quote": "Are you a recruitment agency and would like to work with us? In general, we are open to onboarding new external recruitment partners. To build a successful collaboration, we first evaluate whether your services match our current recruiting needs and regional coverage. Therefore, we follow a clear onboarding process for recruitment agencies.",
+    "url": "https://www.burckhardtcompression.com/about/careers/recruitment-agencies/",
+    "pass": 1
+   },
+   {
+    "quote": "We only accept candidate profiles from recruitment agencies",
+    "url": "https://www.burckhardtcompression.com/about/careers/recruitment-agencies/",
+    "pass": 1
+   },
+   {
+    "quote": "We accept candidate profiles through recruitment agencies",
+    "url": "https://www.burckhardtcompression.com/about/careers/recruitment-agencies/",
+    "pass": 1
+   },
+   {
+    "quote": "Vacancy posting guidelines for registered agencies",
+    "url": "https://www.burckhardtcompression.com/about/careers/recruitment-agencies/",
+    "pass": 1
+   },
+   {
+    "quote": "All vacancies, open for recruitment agencies are posted in our portal. Please use your respective login to access the portal and oversee our vacancies. For special requirements where we require your support to fill the position, we may notify you separately.",
+    "url": "https://www.burckhardtcompression.com/about/careers/recruitment-agencies/",
+    "pass": 1
+   },
+   {
+    "quote": "Some roles are not open for profiles provided by recruitment agencies. Kindly refer to our",
+    "url": "https://www.burckhardtcompression.com/about/careers/recruitment-agencies/",
+    "pass": 1
+   },
+   {
+    "quote": "No matter what compressor model or brand, as your trusted service partner, we can draw on decades of experience as an OEM to solve all challenges that you might face.",
+    "url": "https://www.burckhardtcompression.com/applications/petrochemical-and-chemical/service-solutions-for-the-petrochemical-and-chemical-industry/",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Burckhardt Compression has acquired global compressor business from The Japan Steel Works - Lincoln International LLC",
+    "url": "https://www.lincolninternational.com/transactions/burckhardt-compression-has-acquired-global-compressor-business-from-the-japan-steel-works/",
+    "pass": 3
+   },
+   {
+    "quote": "Burckhardt Compression has acquired global compressor business from The Japan Steel Works",
+    "url": "https://www.lincolninternational.com/transactions/burckhardt-compression-has-acquired-global-compressor-business-from-the-japan-steel-works/",
+    "pass": 3
+   },
+   {
+    "quote": "About The Japan Steel Works Ltd.",
+    "url": "https://www.lincolninternational.com/transactions/burckhardt-compression-has-acquired-global-compressor-business-from-the-japan-steel-works/",
+    "pass": 3
+   },
+   {
+    "quote": "JPX Japan Exchange Group: 56310",
+    "url": "https://www.lincolninternational.com/transactions/burckhardt-compression-has-acquired-global-compressor-business-from-the-japan-steel-works/",
+    "pass": 3
+   },
+   {
+    "quote": "Managing Director & Head of Japan",
+    "url": "https://www.lincolninternational.com/transactions/burckhardt-compression-has-acquired-global-compressor-business-from-the-japan-steel-works/",
+    "pass": 3
+   },
+   {
+    "quote": "JSW Announces the Transfer of Compressor Business to Burckhardt Compression (Japan) Ltd | News | The Japan Steel Works, LTD.",
+    "url": "https://www.jsw.co.jp/en/news/details/20200305001000.html",
+    "pass": 3
+   },
+   {
+    "quote": "Compliance Policy for The Japan Steel Works Group",
+    "url": "https://www.jsw.co.jp/en/news/details/20200305001000.html",
+    "pass": 3
+   },
+   {
+    "quote": "The Japan Steel Works Group Basic Sustainability Policy",
+    "url": "https://www.jsw.co.jp/en/news/details/20200305001000.html",
+    "pass": 3
+   },
+   {
+    "quote": "JSW Announces the Transfer of Compressor Business to Burckhardt Compression (Japan) Ltd",
+    "url": "https://www.jsw.co.jp/en/news/details/20200305001000.html",
+    "pass": 3
+   },
+   {
+    "quote": "The Japan Steel Works, Ltd. (hereinafter JSW) announced that JSW agreed with Burckhardt Compression (Japan) Ltd (hereinafter BCJP, CEO Kenichi Yamamoto, Headquartered in Yokohama Japan), a subsidiary company of Burckhardt Compression AG in Winterthur, Switzerland, to transfer JSW Compressor Business to BCJP.",
+    "url": "https://www.jsw.co.jp/en/news/details/20200305001000.html",
+    "pass": 3
+   },
+   {
+    "quote": "Click here to contact The Japan Steel Works, Ltd.",
+    "url": "https://www.jsw.co.jp/en/news/details/20200305001000.html",
+    "pass": 3
+   },
+   {
+    "quote": "© The Japan Steel Works, LTD.",
+    "url": "https://www.jsw.co.jp/en/news/details/20200305001000.html",
+    "pass": 3
+   },
+   {
+    "quote": "ブルックハルトジャパン株式会社への当社圧縮機事業譲渡に関するお知らせ | ニュース | 株式会社日本製鋼所 - JSW",
+    "url": "https://www.jsw.co.jp/ja/news/details/20200305000000.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本製鋼所グループ コンプライアンス・ポリシー",
+    "url": "https://www.jsw.co.jp/ja/news/details/20200305000000.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本製鋼所グループ サステナビリティ基本方針",
+    "url": "https://www.jsw.co.jp/ja/news/details/20200305000000.html",
+    "pass": 3
+   },
+   {
+    "quote": "ブルックハルトジャパン株式会社への当社圧縮機事業譲渡に関するお知らせ",
+    "url": "https://www.jsw.co.jp/ja/news/details/20200305000000.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、Burckhardt Compression AG（スイス、以下BC社）の100％子会社であるブルックハルトジャパン株式会社（代表者：代表取締役社長 山本健一、本社：神奈川県横浜市）に対し、当社圧縮機事業を譲渡することを決定いたしましたのでお知らせいたします",
+    "url": "https://www.jsw.co.jp/ja/news/details/20200305000000.html",
+    "pass": 3
+   },
+   {
+    "quote": "２． ブルックハルトジャパン株式会社の概要",
+    "url": "https://www.jsw.co.jp/ja/news/details/20200305000000.html",
+    "pass": 3
+   },
+   {
+    "quote": "© The Japan Steel Works, LTD.",
+    "url": "https://www.jsw.co.jp/ja/news/details/20200305000000.html",
+    "pass": 3
+   },
+   {
+    "quote": "The Japan Steel Works",
+    "url": "https://en.wikipedia.org/wiki/Burckhardt_Compression",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Burckhardt Compression (Japan) Ltd. — Burckhardt Compression (Japan) Ltd. Burckhardt Compression https://www.burckhardtcompression.com > ...",
+    "url": "https://www.burckhardtcompression.com/about/contact-us/your-local-contact/location/burckhardt-compression-japan-ltd-hiroshima/",
+    "pass": 3
+   },
+   {
+    "quote": "Burckhardt Compression has acquired global compressor ... — Burckhardt Compression has acquired global compressor ... Lincoln International https://www.lincolninternational.com > ...",
+    "url": "https://www.lincolninternational.com/transactions/burckhardt-compression-has-acquired-global-compressor-business-from-the-japan-steel-works/",
+    "pass": 3
+   },
+   {
+    "quote": "Burckhardt Compression - 出展社詳細 — Burckhardt Compression - 出展社詳細 スマートエネルギーWeek https://www.wsew.jp > spring > ja-jp > search > directory",
+    "url": "https://www.wsew.jp/spring/ja-jp/search/2026/directory/directory-details.org-f348a7e0-ea16-487c-999e-4e449dbc139d.html",
+    "pass": 3
+   },
+   {
+    "quote": "Your local contact - Burckhardt Compression — Your local contact - Burckhardt Compression Burckhardt Compression https://www.burckhardtcompression.com > ...",
+    "url": "https://www.burckhardtcompression.com/about/contact-us/your-local-contact/3/",
+    "pass": 3
+   },
+   {
+    "quote": "Burckhardt Compression AGのすべてのカタログと技術 ... — Burckhardt Compression AGのすべてのカタログと技術 ... DirectIndustry https://pdf.directindustry.com > pdf > burckhardt-compre...",
+    "url": "https://pdf.directindustry.com/ja/pdf/burckhardt-compression-ag-29022.html",
+    "pass": 3
+   },
+   {
+    "quote": "Burckhardt Compression ( Japan ) Ltd. — Burckhardt Compression ( Japan ) Ltd. Burckhardt Compression https://www.burckhardtcompression.com > ...",
+    "url": "https://www.burckhardtcompression.com/about/contact-us/your-local-contact/location/burckhardt-compression-japan-ltd-kanagawa/",
+    "pass": 3
+   },
+   {
+    "quote": "Burckhardt Compression Japan has officially opened a new ... — Burckhardt Compression Japan has officially opened a new ... Facebook https://www.facebook.com > posts > burckhardt-compress...",
+    "url": "https://www.facebook.com/burckhardt.compression/posts/burckhardt-compression-japan-has-officially-opened-a-new-dedicated-service-cente/724859367073353/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Burckhardt Compression boosts plant design growth ... — Burckhardt Compression - Customer Case Study Burckhardt Compression, a global leader in reciprocating compressor technology, faced the challenge of modernizing its plant design and engineering processes to support its rapid growth and complex global projects.",
+    "url": "https://www.casestudies.com/company/cad-schroer/case-study/burckhardt-compression-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Burckhardt Compression Case Study | Siemens — Burckhardt Compression Burckhardt Compression India Pvt. Ltd. (BCIN) is a wholly owned subsidiary of Burckhardt Compression AG of Switzerland, one of the leading manufacturers of reciprocating compressor systems. The company’s products enjoy the reputation of high quality and minimal lifecycle costs and are backed by a full range of services.",
+    "url": "https://resources.sw.siemens.com/en-US/case-study-burckhardt-compression/",
+    "pass": 3
+   },
+   {
+    "quote": "SUCCESS STORY - burckhardtcompression.com — The customer contacted Burckhardt Compression to revamp and overhaul the compressor to efficiently meet the new operating parameters. A detailed inspection and engineering study were required to identify the optimal approach to modification and revamp.",
+    "url": "https://www.burckhardtcompression.com/fileadmin/uploads/burckhardt/documents/articles/2022/compressor-optimization-meets-new-process-220202-en.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Burckhardt Compression Uses Software ... — Explore case studies featuring Burckhardt Compression as the customer — learn how vendors and partners helped Burckhardt Compression solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/burckhardt-compression",
+    "pass": 3
+   },
+   {
+    "quote": "Burckhardt Compression transforms its service portfolio — Burckhardt Compression is the only global manufacturer that covers a full range of reciprocating compressor technologies and services. The organisation’s compressor systems are used in petrochemical, gas transport & storage, hydrogen mobility & energy and other sectors. The company aimed to transform its service portfolio to meet the growin",
+    "url": "https://www.zuehlke.com/en/case-studies/burckhardt-compression-embarks-on-a-service-portfolio-transformation-journey-for",
+    "pass": 3
+   },
+   {
+    "quote": "Burckhardt Compression - Wikipedia — Burckhardt Compression, formerly known as Maschinenfabrik Burckhardt, was founded in Basel as a mechanical workshop by Franz Burckhardt in 1844. [8] The company worked in the field of compressors and vacuum pumps from 1878, under the direction of Burckhardt's son, August Burckhardt. Early compressors from 1913 reportedly delivered 4350 psig (300 bar), which inc",
+    "url": "https://en.wikipedia.org/wiki/Burckhardt_Compression",
+    "pass": 3
+   },
+   {
+    "quote": "Burckhardt Compression Annual Report 2024 — Burckhardt Compression creates leading compression solutions for a sustainable energy future and the long-term success of its customers. Together with its brands Burckhardt Compression, PROGNOST, SAMR Métal Rouge and Shenyang Yuanda Compressor, the Group is the only global manufacturer that covers a full range of reciprocating compressor ...",
+    "url": "https://www.burckhardtcompression.com/fileadmin/uploads/burckhardt/documents/reports/archive/annual-report-2024-burckhardt-compression-en.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Key figures - Burckhardt Compression — Key figures- Burckhardt Compression - Compressors for a Lifetime Interested to learn more? Get in touch with our investor relations team Contact us",
+    "url": "https://www.burckhardtcompression.com/about/investors/key-figures/",
+    "pass": 3
+   },
+   {
+    "quote": "Burckhardt Compression (US) Revenue, Funding & Valuation — Burckhardt Compression (US) has revenue of $71,100,000, estimated valuation of $227,500,000. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/burckhardt-compression-us-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Burckhardt Compression - Overview, News & Similar companies ... — View Burckhardt Compression (www.burckhardtcompression.com) location in Zurich, Switzerland , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+    "url": "https://www.zoominfo.com/c/burckhardt-compression-ag/10717230",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Shenyang Yuanda Compressor Co., Ltd. (SYCC), a subsidiary of ... Hydrogen_Review (Global Hydrogen Review). 0 likes 0 replies. Shenyang Yuanda Compressor Co., Ltd. (SYCC), a subsidiary of Burckhardt Compression, has secured several orders for diaphragm compressor units supporting hydrogen applications in the semiconductor industry. 🧾🏭💚 The projects will serve semiconductor manufacturing facilities ",
+    "url": "https://x.com/Hydrogen_Review/status/2113209761785102564",
+    "pass": 3
+   },
+   {
+    "quote": "MagellanQuest /acc on X: \"Most people have never heard of ... Most people have never heard of Burckhardt Compression. Yet its machines are installed on 65 of the 76 LNG carriers worldwide that use high-pressure engines. The Swiss company has quietly become a critical part of the machinery moving energy around the planet. Founded in 1844 and headquartered i…",
+    "url": "https://x.com/MagellanQuest/status/2088546560162345134",
+    "pass": 3
+   },
+   {
+    "quote": "#capitalparts - Search / X CAPITAL PARTS You need capital parts for your reciprocating compressor, whatever brand, turn to us. We support you in all circumstances and ensure your compressor returns to operation fast. fcld.ly/lgqqz9d #BurckhardtCompression #fullserviceprovider #capitalparts 00:00 4 119",
+    "url": "https://x.com/hashtag/capitalparts",
+    "pass": 3
+   },
+   {
+    "quote": "BusinessHub on X: \"半導体向け超高純度水素を支えるダイアフラム圧縮... 半導体向け超高純度水素を支えるダイアフラム圧縮機の役割 台湾と韓国の半導体工場向けに、Burckhardt Compressionが超高純度水素用ダイアフラム圧縮機を受注。",
+    "url": "https://x.com/BusinessHub413/status/2119346720224272802",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Burckhardt Compression - LinkedIn Burckhardt Compression delivers leading compression solutions that enable a sustainable energy future and support the long-term success of its customers. The Group’s business is driven by three ...",
+    "url": "https://www.linkedin.com/company/burckhardt-compression",
+    "pass": 3
+   },
+   {
+    "quote": "Burckhardt Compression (US) Inc. - LinkedIn At Burckhardt Compression, we create leading compression solutions for a sustainable energy future. We are your partner for high-performance compression solutions - globally. As the leading ...",
+    "url": "https://www.linkedin.com/company/burckhardt-compression-us",
+    "pass": 3
+   },
+   {
+    "quote": "Andreas Brautsch – Senior Executive I Global P&L leader ...Stefan Hoher – Head of Marketing & Corporate Communications ...Craig Bowern - Director of Technical Solutions at Burckhardt ...Stephen Ayris - Head of SERV - BCGB at Burckhardt Compression ...Atul Prabhune - General Manager at Burckhardt Compression ... · Berufserfahrung: Burckhardt Compression · Ausbildung: Heriot-Watt University · Stando",
+    "url": "https://ch.linkedin.com/in/andreas-brautsch-02067a25",
+    "pass": 3
+   },
+   {
+    "quote": "Stefan Hoher – Head of Marketing & Corporate Communications ...Craig Bowern - Director of Technical Solutions at Burckhardt ...Stephen Ayris - Head of SERV - BCGB at Burckhardt Compression ...Atul Prabhune - General Manager at Burckhardt Compression ... Head of Marketing & Corporate Communications @ Burckhardt Compression · I lead Corporate Communications &amp; Branding at Burckhardt Compression, ",
+    "url": "https://ch.linkedin.com/in/stefanhoher",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Burckhardt Compression Careers | Winterthur - FacebookBurckhardt Compression AG - FacebookBurckhardt Compression AG - FacebookBurckhardt Compression,Pune - FacebookBurckhardt Compression Careers - FacebookBurckhardt Compression | Bicester - FacebookReviving a 60-year-old... - Burckhardt Compression Careers ... Sep 1, 2026 · Since 1844, Burckhardt Compression has proudly called Switzerland home. Wh",
+    "url": "https://www.facebook.com/burckhardt.compression/",
+    "pass": 3
+   },
+   {
+    "quote": "Burckhardt Compression AG - Facebook Posts about Burckhardt Compression AG Love Winterthur created an event. March 6, 2024 · Thu, Apr 4, 2024",
+    "url": "https://www.facebook.com/pages/Burckhardt+Compression+AG/155377461163821/",
+    "pass": 3
+   },
+   {
+    "quote": "Burckhardt Compression AG - Facebook Posts about Burckhardt Compression AG Love Winterthur created an event. March 6, 2024 · Thu, Apr 4, 2024",
+    "url": "https://www.facebook.com/pages/Burckhardt-Compression-AG/155377461163821/",
+    "pass": 3
+   },
+   {
+    "quote": "Burckhardt Compression,Pune - Facebook Burckhardt Compression,Pune. 568 likes. One of the world's largest manufacturers of reciprocating compressors.",
+    "url": "https://www.facebook.com/p/Burckhardt-CompressionPune-100057616511039/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.burckhardtcompression.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.burckhardtcompression.com/about/news-stories-and-whitepapers/article/partnership-driven-excellence-in-hydrogen-compression/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/strategic-agreements/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/compressor-technology-trainings/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/voice-of-customer-satisfaction-survey/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.burckhardtcompression.com/services/partnership-solutions/techxchange-technical-webinar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.burckhardtcompression.com/about/careers/employee-stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.burckhardtcompression.com/about/careers/recruitment-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.burckhardtcompression.com/about/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.burckhardtcompression.com/about/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.burckhardtcompression.com/about/company/brands/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.burckhardtcompression.com/about/careers/join-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.burckhardtcompression.com/about/careers/your-path-to-join-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.burckhardtcompression.com/about/news-stories-and-whitepapers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.burckhardtcompression.com/about/news-stories-and-whitepapers/article/burckhardt-compression-increases-order-intake-and-confirms-guidance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.burckhardtcompression.com/applications/petrochemical-and-chemical/service-solutions-for-the-petrochemical-and-chemical-industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.burckhardtcompression.com/applications/marine/service-solutions-for-the-marine-industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.burckhardtcompression.com/applications/hydrogen-mobility-and-energy/service-solutions-for-the-hydrogen-mobility-energy-industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.burckhardtcompression.com/applications/industrial-gas/service-solutions-for-the-industrial-gas-industry/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.burckhardtcompression.com/fileadmin/uploads/burckhardt/images/services/process-gas-compressor-hydrogen-2000px.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.burckhardtcompression.com/fileadmin/_processed_/c/8/csm_two-men-working-customer-partnership-pm-sm_952fe02d98.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.burckhardtcompression.com/fileadmin/_processed_/4/3/csm_bcag-people-workshop-photoshoot-2026-03355-c_c8439253a1.jpeg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.burckhardtcompression.com/fileadmin/_processed_/8/a/csm_bcag-people-workshop-photoshoot-2026-04558-c_1644764261.jpeg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.lincolninternational.com/transactions/burckhardt-compression-has-acquired-global-compressor-business-from-the-japan-steel-works/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jsw.co.jp/en/news/details/20200305001000.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wsew.jp/spring/ja-jp/search/2026/directory/directory-details.org-f348a7e0-ea16-487c-999e-4e449dbc139d.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/5010001079986",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wsew.jp/spring/ja-jp/search/2026/directory/directory-details.org-f348a7e0-ea16-487c-999e-4e449dbc139d.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/burckhardt.compression/posts/burckhardt-compression-japan-has-officially-opened-a-new-dedicated-service-cente/724859367073353/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.lincolninternational.com/transactions/burckhardt-compression-has-acquired-global-compressor-business-from-the-japan-steel-works/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jsw.co.jp/ja/news/details/20200305000000.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/cad-schroer/case-study/burckhardt-compression-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resources.sw.siemens.com/en-US/case-study-burckhardt-compression/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/burckhardt-compression",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Value-added_reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dictionary.cambridge.org/dictionary/english/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Burckhardt_Compression",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/burckhardt-compression-us-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Hydrogen_Review/status/2113209761785102564",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MagellanQuest/status/2088546560162345134",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/capitalparts",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/BusinessHub413/status/2119346720224272802",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/burckhardt-compression",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/burckhardt-compression-us",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ch.linkedin.com/in/andreas-brautsch-02067a25",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ch.linkedin.com/in/stefanhoher",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/burckhardt.compression/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/Burckhardt+Compression+AG/155377461163821/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/Burckhardt-Compression-AG/155377461163821/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Burckhardt-CompressionPune-100057616511039/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Burckhardt Compression 日本 導入",
+   "results": [
+    "https://www.burckhardtcompression.com/about/contact-us/your-local-contact/location/burckhardt-compression-japan-ltd-hiroshima/",
+    "https://www.lincolninternational.com/transactions/burckhardt-compression-has-acquired-global-compressor-business-from-the-japan-steel-works/",
+    "https://www.jsw.co.jp/en/news/details/20200305001000.html",
+    "https://www.wsew.jp/spring/ja-jp/search/2026/directory/directory-details.org-f348a7e0-ea16-487c-999e-4e449dbc139d.html",
+    "https://www.rivieramm.com/news-content-hub/news-content-hub/burckhardt-acquires-compressor-business-from-japan-steel-works-59072",
+    "https://compalyze.co.jp/company/5010001079986",
+    "https://gascompressionmagazine.com/2020/03/10/burckhardt-buys-compressor-business-from-japan-steel-works/",
+    "https://www.burckhardtcompression.com/fileadmin/uploads/burckhardt/documents/reports/archive/essentials-2024-burckhardt-compression-250610-jp.pdf",
+    "https://pdf.directindustry.com/ja/pdf/burckhardt-compression-ag-29022.html",
+    "https://www.burckhardtcompression.com/about/history/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Burckhardt Compression 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.burckhardtcompression.com/about/contact-us/your-local-contact/3/",
+    "https://compalyze.co.jp/company/5010001079986",
+    "https://www.burckhardtcompression.com/about/contact-us/your-local-contact/location/burckhardt-compression-japan-ltd-hiroshima/",
+    "https://www.wsew.jp/spring/ja-jp/search/2026/directory/directory-details.org-f348a7e0-ea16-487c-999e-4e449dbc139d.html",
+    "https://pdf.directindustry.com/ja/pdf/burckhardt-compression-ag-29022.html",
+    "https://jp.linkedin.com/company/burckhardt-compression-japan",
+    "https://www.jsw.co.jp/ja/news/details/20200305000000.html",
+    "https://rocketreach.co/burutsukuharutoziyapanzhu-shi-hui-she-profile_b6b5abbac84a2f21",
+    "https://pikatak.com/burckhardt-compression",
+    "https://ja.wikipedia.org/wiki/秦英之"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "Burckhardt Compression Japan",
+   "results": [
+    "https://www.burckhardtcompression.com/about/contact-us/your-local-contact/location/burckhardt-compression-japan-ltd-kanagawa/",
+    "https://www.facebook.com/burckhardt.compression/posts/burckhardt-compression-japan-has-officially-opened-a-new-dedicated-service-cente/724859367073353/",
+    "https://www.lincolninternational.com/transactions/burckhardt-compression-has-acquired-global-compressor-business-from-the-japan-steel-works/",
+    "https://www.jsw.co.jp/ja/news/details/20200305000000.html",
+    "https://compalyze.co.jp/company/5010001079986",
+    "https://www.linkedin.com/company/burckhardt-compression-japan",
+    "https://www.compressortech2.com/topic/burckhardt-compression-japan-ltd",
+    "https://www.wsew.jp/spring/ja-jp/search/2026/directory/directory-details.org-f348a7e0-ea16-487c-999e-4e449dbc139d.html",
+    "https://www.burckhardtcompression.com/de-ch/ueber-uns/kontaktieren-sie-uns/ihr-lokaler-kontakt/4/",
+    "https://www.burckhardtcompression.com/about/contact-us/your-local-contact/location/burckhardt-compression-japan-ltd-hiroshima/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Burckhardt Compression manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/cad-schroer/case-study/burckhardt-compression-customer-case-study",
+    "https://resources.sw.siemens.com/en-US/case-study-burckhardt-compression/",
+    "https://www.burckhardtcompression.com/fileadmin/uploads/burckhardt/documents/articles/2022/compressor-optimization-meets-new-process-220202-en.pdf",
+    "https://www.casestudies.com/customer/burckhardt-compression",
+    "https://www.zuehlke.com/en/case-studies/burckhardt-compression-embarks-on-a-service-portfolio-transformation-journey-for",
+    "https://www.burckhardtcompression.com/fileadmin/uploads/burckhardt/documents/articles/archive/compressor-revamp-guarantee-proper-functioning-219-success-story-en.pdf",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/cynet_burckhardt-compression_562098.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Burckhardt Compression white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://en.wikipedia.org/wiki/Value-added_reseller",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://dictionary.cambridge.org/dictionary/english/reseller",
+    "https://www.facebook.com/groups/1390590848697838/",
+    "https://www.nmi.com/blog/understanding-the-reseller-model-a-complete-guide-for-payments-companies/",
+    "https://www.databricks.com/partners"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Burckhardt Compression founded funding employees revenue",
+   "results": [
+    "https://en.wikipedia.org/wiki/Burckhardt_Compression",
+    "https://www.burckhardtcompression.com/fileadmin/uploads/burckhardt/documents/reports/archive/annual-report-2024-burckhardt-compression-en.pdf",
+    "https://www.burckhardtcompression.com/about/investors/key-figures/",
+    "https://prospeo.io/c/burckhardt-compression-us-revenue",
+    "https://www.zoominfo.com/c/burckhardt-compression-ag/10717230",
+    "https://pitchbook.com/profiles/company/58029-58",
+    "https://seedtable.com/companies/burckhardt-compression"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Burckhardt Compression",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/guaran/n/ne1da1b216a7a",
+    "https://note.com/masashi3122/n/n6f41b990b137",
+    "https://note.com/katarimasu/n/n38201fed61b0",
+    "https://note.com/mute_tattsun/n/nbd50565e1eb1"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Burckhardt Compression",
+   "results": [
+    "https://x.com/Hydrogen_Review/status/2113209761785102564",
+    "https://x.com/MagellanQuest/status/2088546560162345134",
+    "https://x.com/hashtag/capitalparts",
+    "https://x.com/BusinessHub413/status/2119346720224272802",
+    "https://x.com/LuminanceTech",
+    "https://x.com/FuW_News/status/2116155474336690621",
+    "https://x.com/mojmir_hlinka"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Burckhardt Compression",
+   "results": [
+    "https://www.linkedin.com/company/burckhardt-compression",
+    "https://www.linkedin.com/company/burckhardt-compression-us",
+    "https://ch.linkedin.com/in/andreas-brautsch-02067a25",
+    "https://ch.linkedin.com/in/stefanhoher",
+    "https://ca.linkedin.com/in/craig-bowern-05364824",
+    "https://uk.linkedin.com/in/stephen-ayris-2946b825",
+    "https://in.linkedin.com/in/atul-prabhune-4b6bb876"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Burckhardt Compression",
+   "results": [
+    "https://www.facebook.com/burckhardt.compression/",
+    "https://www.facebook.com/pages/Burckhardt+Compression+AG/155377461163821/",
+    "https://www.facebook.com/pages/Burckhardt-Compression-AG/155377461163821/",
+    "https://www.facebook.com/p/Burckhardt-CompressionPune-100057616511039/",
+    "https://www.facebook.com/burckhardt.compression/posts/burckhardt-compression-japan-has-officially-opened-a-new-dedicated-service-cente/724859367073353/",
+    "https://www.facebook.com/p/Burckhardt-Compression-100077319745767/",
+    "https://www.facebook.com/burckhardt.compression/posts/-reviving-a-60-year-old-compressor-were-thrilled-to-share-that-burckhardt-compre/601885736037384/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Burckhardt Compression note 社長",
+   "results": [
+    "https://www.burckhardtcompression.com/about/management/",
+    "https://www.burckhardtcompression.com/fileadmin/uploads/burckhardt/documents/reports/archive/annual-report-2025-burckhardt-compression-260624-en.pdf",
+    "https://www.cbinsights.com/company/burckhardt-compression/people",
+    "https://gascompressionmagazine.com/2026/10/14/burckhardt-compression-names-systems-division-president/",
+    "https://markets.ft.com/data/equities/tearsheet/profile?s=BCHN:SWX",
+    "https://www.theofficialboard.com/org-chart/burckhardt-compression",
+    "https://jp.linkedin.com/in/kenichi-yamamoto-212897a0"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Burckhardt Compression X 投稿",
+   "results": [
+    "https://www.burckhardtcompression.com/about/news-stories-and-whitepapers/",
+    "https://www.instagram.com/burckhardtcompression/",
+    "https://www.burckhardtcompression.com/",
+    "https://www.burckhardtcompression.com/products/",
+    "https://www.facebook.com/burckhardt.compression/",
+    "https://www.burckhardtcompression.com/about/investors/",
+    "https://x.com/BusinessHub413/status/2119346720224272802"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部29頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部29頁・検索12回）"
+ }
+}

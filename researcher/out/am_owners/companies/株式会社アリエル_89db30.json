@@ -1,0 +1,1211 @@
+{
+ "name": "株式会社アリエル",
+ "aliases": [],
+ "context": "PBF=unknown 装置= 出典=https://www.ariel-inc.jp/3d-printer-3d-molding/dictionary/method/pbf-metal-3d-printing/",
+ "researched_at": "2026-11-10T19:12:10.137481+00:00",
+ "official_url": "https://www.disney.co.jp/",
+ "identified_by": "search:yahoo_jp:アリエル",
+ "profile": {},
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "映画のサウンドトラック、パーク音楽、カタログなど豊富なライブラリーを保有する音楽レーベル「ウォルト・ディズニー・レコード」、人気アーティスを抱える「ハリウッド・レコード」、ディズニー・ミュージック・パブリッシング、ディズニーコンサートを通して、音楽ビジネスのあらゆる側面を網羅しています",
+    "url": "https://www.disney.co.jp/corporate/about",
+    "pass": 1
+   },
+   {
+    "quote": "従来のライセンシングモデルを中心に据えながら、DTR(direct to retail)の強化やフレクシブル・ビジネスモデルの導入を戦略とし、多種多様なパートナー企業と共に多角的に活動しています",
+    "url": "https://www.disney.co.jp/corporate/about",
+    "pass": 1
+   },
+   {
+    "quote": "1. 不動産の売買、仲介、賃貸、保有、管理",
+    "url": "https://www.ariel-land.co.jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "2. 有価証券の売買、投資、運用、保有",
+    "url": "https://www.ariel-land.co.jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "3D CADソフト、導入サービス",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "「金属3Dプリンターで作りたい」",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター｜試作品",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "日本初、F-1・モータースポーツ ラップタイム／計時システム導入",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "日本初、CATVシステムを米国から移植導入",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "イオングループ内、初のWeb会議システム導入",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "トヨタ自動車／本社システム、Microsoft SharePoint Serverの初導入",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "トヨタ自動車／本社 初の3Dプリンター導入",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "米玩具大手マテルの株式5.4%を保有する大株主アリエル・インベストメンツが、同社取締役会に対し売却の検討を求める書簡を送付した",
+    "url": "https://finance.biggo.jp/news/723856b3-4f5c-41b9-94c8-18df1c9ed455",
+    "pass": 3
+   },
+   {
+    "quote": "バービー人形やホットウィールを手掛ける同社の株式5.4%を保有するシカゴ拠点の投資会社は、10月5日付の書簡でマテル取締役会にこのメッセージを伝えた",
+    "url": "https://finance.biggo.jp/news/723856b3-4f5c-41b9-94c8-18df1c9ed455",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "また、100％子会社であるブロードキャスト・サテライト・ディズニー株式会社を通じて、BS放送事業者としてゲストに直接ディズニー・チャンネル（BS）をお届けしています",
+    "url": "https://www.disney.co.jp/corporate/about",
+    "pass": 1
+   },
+   {
+    "quote": "資本金： 1,000万円",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "米マテルの筆頭株主アリエル、売却検討を取締役会に要求—業績回復の停滞を指摘 — BigGo ファイナンス",
+    "url": "https://finance.biggo.jp/news/723856b3-4f5c-41b9-94c8-18df1c9ed455",
+    "pass": 3
+   },
+   {
+    "quote": "米マテルの筆頭株主アリエル、売却検討を取締役会に要求—業績回復の停滞を指摘",
+    "url": "https://finance.biggo.jp/news/723856b3-4f5c-41b9-94c8-18df1c9ed455",
+    "pass": 3
+   },
+   {
+    "quote": "米玩具大手マテルの株式5.4%を保有する大株主アリエル・インベストメンツが、同社取締役会に対し売却の検討を求める書簡を送付した",
+    "url": "https://finance.biggo.jp/news/723856b3-4f5c-41b9-94c8-18df1c9ed455",
+    "pass": 3
+   },
+   {
+    "quote": "米玩具大手マテル（MAT）は、大株主の一つであるアリエル・インベストメンツから身売りを検討するよう改めて圧力を受けており、同社の業績回復の停滞と割安な株価評価が戦略的買い手にとって魅力的な買収対象になっていると主張している",
+    "url": "https://finance.biggo.jp/news/723856b3-4f5c-41b9-94c8-18df1c9ed455",
+    "pass": 3
+   },
+   {
+    "quote": "「当社の取締役会と経営陣は、すべての株主の最善の利益のために行動することにコミットしており、アリエル・インベストメンツの書簡で表明された見解およびマテルの他の株主の見解を検討する」",
+    "url": "https://finance.biggo.jp/news/723856b3-4f5c-41b9-94c8-18df1c9ed455",
+    "pass": 3
+   },
+   {
+    "quote": "メディア・エンターテインメント分野で豊富な経験を持つリンチ氏は、早期の売却を求める株主と、マテルを単なる玩具メーカーではなく知的財産の強豪として再定義する長期的戦略という、相反する要求の間で舵取りをする必要がある",
+    "url": "https://finance.biggo.jp/news/723856b3-4f5c-41b9-94c8-18df1c9ed455",
+    "pass": 3
+   },
+   {
+    "quote": "アリエルの介入は、株主がマテルに戦略的選択肢の検討を公に求めた今年2度目の事例となる",
+    "url": "https://finance.biggo.jp/news/723856b3-4f5c-41b9-94c8-18df1c9ed455",
+    "pass": 3
+   },
+   {
+    "quote": "「事業がやや停滞していることに対する主要株主の不満がある」とカッツ氏は述べた",
+    "url": "https://finance.biggo.jp/news/723856b3-4f5c-41b9-94c8-18df1c9ed455",
+    "pass": 3
+   },
+   {
+    "quote": "同社は売却に応じる意向を一切示していないが、割安な評価、複数の株主からのアクティビスト圧力、経営陣交代が重なり、戦略的選択肢を無視することが難しい環境が生まれている",
+    "url": "https://finance.biggo.jp/news/723856b3-4f5c-41b9-94c8-18df1c9ed455",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "オーケストラ・ジャパンのメンバーによる木管五重奏で、ディズニー映画の名曲を披露し、患者さんやそのご家族、医療従事者の皆さんに、ディズニーの音楽と物語の世界をお届けしました",
+    "url": "https://www.disney.co.jp/corporate/news/2026/20261106",
+    "pass": 1
+   },
+   {
+    "quote": "会場となった石巻赤十字病院の本棟1階外来ロビー「赤十字プラザ」には、外来や病棟から患者さんやそのご家族、医療従事者など約180人が集まりました",
+    "url": "https://www.disney.co.jp/corporate/news/2026/20261106",
+    "pass": 1
+   },
+   {
+    "quote": "院内におなじみのディズニーのメロディーが響くと、患者さんやそのご家族に加え、医師や看護師などの医療従事者も足を止め、木管五重奏が奏でるディズニーの音楽に聴き入りました",
+    "url": "https://www.disney.co.jp/corporate/news/2026/20261106",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社アリエル｜3Dプリント・3Dデータ・DXの会社概要 - 【3Dプリンター】アリエル｜製作依頼は出力／印刷サービス会社｜3D造形品・商品試作・見本品・特注品作り）、 3Dデータ作成～試作・製作・後加工、安く早くOne Stop対応！シリコンゴム,ABS,PC,PP,PLAプラスチック合成樹脂やアルミ,チタン,ステンレスSUS、豊富な材料素材で3Dプリンター／光造形、試作品・本生産品の制作",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "【遠隔モノづくり】日本全国、海外・宇宙でも",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "お得なプラン、納期プラン／試作+量産プラン",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "金型／樹脂型、成型／生産、見積り",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター｜試作品",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "ノベルティグッズ｜１個の試作～本生産",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "機器・器具｜医療機関／医薬品医療機器等法（薬機法）",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "オンデマンド生産｜金型不要・1個からの少量多品種",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "金属・樹脂の切削加工｜マシニング・5軸加工・高精度試作",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "ロット生産／大量生産｜試作〜本生産・金型レス対応",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "医療現場の事例｜適合素材の医療器具、１個の試作",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "中空構造｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "肉厚／シェル｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "薄肉／最小肉厚｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "抜き穴／排出口｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "プラスチック樹脂素材｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "汎用プラスチックプラスチック樹脂素材｜3Dプリンター・光造形・切削・金型）製作依頼は加工サービス会社",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "合成樹脂樹脂素材｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "シリコン・ゴム樹脂素材｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "透明樹脂樹脂素材｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "アクリル樹脂素材｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "メタル素材｜3Dプリンター・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "金属材料｜3Dプリンター・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "ABS樹脂素材｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "PP樹脂素材｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "株式会社アリエル｜3Dプリント・3Dデータ・DXの会社概要 - 【3Dプリンター】アリエル｜製作依頼は出力／印刷サービス会社｜3D造形品・商品試作・見本品・特注品作り）、 3Dデータ作成～試作・製作・後加工、安く早くOne Stop対応！シリコンゴム,ABS,PC,PP,PLAプラスチック合成樹脂やアルミ,チタン,ステンレスSUS、豊富な材料素材で3Dプリンター／光造形、試作品・本生産品の制作",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "【ステンレス】SUS304,SUS316L,SUS630",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "【チタン】Titanium 64チタン（Ti-6Al-4V）",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "【アルミニウム】アルミ合金（AlSi10Mg）",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "アリエルがエリックの銅像を置いていた洞窟もあります！",
+    "url": "https://note.com/chiikama_27/n/n3f2bee8a79dc",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 - 株式会社アリエル — 会社概要 - 株式会社アリエル ariel-land.co.jp https://www.ariel-land.co.jp > about",
+    "url": "https://www.ariel-land.co.jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アリエル 会社概要 — 株式会社 アリエル 会社概要 ariel-inc.jp https://www.ariel-inc.jp > overview",
+    "url": "https://www.ariel-inc.jp/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アリエル （東京都）の 会社概要 ・役員 | Compalyze — 株式会社 アリエル （東京都）の 会社概要 ・役員 | Compalyze Compalyze https://compalyze.co.jp > ... > BPO・アウトソーシング",
+    "url": "https://compalyze.co.jp/company/7010001242740",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社アリエル - 東京都・不動産業界の企業 情報 — 株式 会社アリエル - 東京都・不動産業界の企業 情報 Baseconnect https://baseconnect.in > companies",
+    "url": "https://baseconnect.in/companies/09ccc929-b6a7-4afd-8a27-bd5dc3fe5cac",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 株式会社 アリエル トレーディング（ Ariel Trading Co ... — 会社概要 | 株式会社 アリエル トレーディング（ Ariel Trading Co ... 株式会社アリエルトレーディング https://www.arieltrading.co.jp > company",
+    "url": "https://www.arieltrading.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "米マテルの筆頭 株主アリエル 、売却検討を取締役会に要求 — 米マテルの筆頭 株主アリエル 、売却検討を取締役会に要求 BigGo ファイナンス https://finance.biggo.jp > news",
+    "url": "https://finance.biggo.jp/news/723856b3-4f5c-41b9-94c8-18df1c9ed455",
+    "pass": 3
+   },
+   {
+    "quote": "UPDATE 3-マテルの投資家 アリエル 、業績回復停滞で売却を ... — UPDATE 3-マテルの投資家 アリエル 、業績回復停滞で売却を ... Moomoo https://www.moomoo.com > news > post",
+    "url": "https://www.moomoo.com/news/post/1000623455",
+    "pass": 3
+   },
+   {
+    "quote": "アリエル ・ネットワークが消滅へ 親会社 ワークスが吸収合併 — アリエル ・ネットワークが消滅へ 親会社 ワークスが吸収合併 ITmedia https://www.itmedia.co.jp > ITmedia NEWS > 業界動向",
+    "url": "https://www.itmedia.co.jp/news/article/1605/27/1160527137/",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社 アリエル トレーディングのニュース・株価 - NewsPicks — 有限会社 アリエル トレーディングのニュース・株価 - NewsPicks NewsPicks https://newspicks.com > company",
+    "url": "https://newspicks.com/company/SPD20BGQL2X2F2D3/?ref=news-summary_17766141",
+    "pass": 3
+   },
+   {
+    "quote": "企業の比較： アリエル 美容クリニックと医療法人社団エミナル — 企業の比較： アリエル 美容クリニックと医療法人社団エミナル Indeed https://jp.indeed.com > companies > compare > アリエル...",
+    "url": "https://jp.indeed.com/companies/compare/%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB%E7%BE%8E%E5%AE%B9%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF-vs-%E5%8C%BB%E7%99%82%E6%B3%95%E4%BA%BA%E7%A4%BE%E5%9B%A3%E3%82%A8%E3%83%9F%E3%83%8A%E3%83%AB-88b1547da4fdb13f-baf0575422985361",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アリエル - IT系転職支援サイト ワークタンク — 株式会社アリエル - IT系転職支援サイト ワークタンク ワークタンク https://www.worktank.co.jp > co_index",
+    "url": "https://www.worktank.co.jp/co/co_index.html?co_id=ariel",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "好奇心と勇気と親不孝と。リトルマーメイドの アリエル を ... 好奇心と勇気と親不孝と。リトルマーメイドの アリエル を ... note https://note.com > エンタメ > 映画",
+    "url": "https://note.com/noboru_barikata/n/nd9dc8af4c7bb",
+    "pass": 3
+   },
+   {
+    "quote": "アリエル とラプンツェルに学ぶ“言い換え力”：翻訳は“言葉の ... アリエル とラプンツェルに学ぶ“言い換え力”：翻訳は“言葉の ... note https://note.com > 音楽 > ポップス",
+    "url": "https://note.com/wecken/n/n3c55d54f3712",
+    "pass": 3
+   },
+   {
+    "quote": "とにかく アリエル がキュートだった実写版『リトルマーメイド』 とにかく アリエル がキュートだった実写版『リトルマーメイド』 note https://note.com > 映画・ドラマ > 映画",
+    "url": "https://note.com/blue_lace_moon/n/n4b2120f16b26",
+    "pass": 3
+   },
+   {
+    "quote": "世界中の アリエル ファンが羨む？マーメイドラグーン - note 世界中の アリエル ファンが羨む？マーメイドラグーン - note note https://note.com > 映画・ドラマ > アニメ・特撮",
+    "url": "https://note.com/chiikama_27/n/n3f2bee8a79dc",
+    "pass": 3
+   },
+   {
+    "quote": "リトル・マーメイド(2023)感想〜 アリエル なら、きっとこうする リトル・マーメイド(2023)感想〜 アリエル なら、きっとこうする note https://note.com > 映画・ドラマ > 映画",
+    "url": "https://note.com/tjoue0202/n/nc0c4862a76cd",
+    "pass": 3
+   },
+   {
+    "quote": "アリエル の人気・新着記事まとめ - note アリエル の人気・新着記事まとめ - note note https://note.com > tag > アリエル",
+    "url": "https://note.com/tag/%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "クリノ アリエル の人気・新着記事まとめ - note クリノ アリエル の人気・新着記事まとめ - note note https://note.com > tag > クリノアリエル",
+    "url": "https://note.com/tag/%E3%82%AF%E3%83%AA%E3%83%8E%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "好奇心と勇気と親不孝と。リトルマーメイドのアリエルを考える。｜昔昔亭 昇 (ｾｷｾｷﾃｲ ﾉﾎﾞﾙ)",
+    "url": "https://note.com/noboru_barikata/n/nd9dc8af4c7bb",
+    "pass": 3
+   },
+   {
+    "quote": "好奇心と勇気と親不孝と。リトルマーメイドのアリエルを考える。",
+    "url": "https://note.com/noboru_barikata/n/nd9dc8af4c7bb",
+    "pass": 3
+   },
+   {
+    "quote": "「ディズニー100 フィルム・フェスティバル」",
+    "url": "https://note.com/noboru_barikata/n/nd9dc8af4c7bb",
+    "pass": 3
+   },
+   {
+    "quote": "ディズニーの名作長編映画をもう一度劇場公開をするという実に心躍るイベントでした！！",
+    "url": "https://note.com/noboru_barikata/n/nd9dc8af4c7bb",
+    "pass": 3
+   },
+   {
+    "quote": "首都圏でのチケットは取れず県を2つまたいで、",
+    "url": "https://note.com/noboru_barikata/n/nd9dc8af4c7bb",
+    "pass": 3
+   },
+   {
+    "quote": "落語会のベイマックスこと昔昔亭昇です^ ^",
+    "url": "https://note.com/noboru_barikata/n/nd9dc8af4c7bb",
+    "pass": 3
+   },
+   {
+    "quote": "という訳で、大スクリーンでリトルマーメイドを観て来ました！！いや〜最高だった！！",
+    "url": "https://note.com/noboru_barikata/n/nd9dc8af4c7bb",
+    "pass": 3
+   },
+   {
+    "quote": "自宅では何度も見ているリトルマーメイドでしたがやはり大画面に映るセバスチャンは別格ですね！",
+    "url": "https://note.com/noboru_barikata/n/nd9dc8af4c7bb",
+    "pass": 3
+   },
+   {
+    "quote": "アリエルとラプンツェルに学ぶ“言い換え力”：翻訳は“言葉のUX”だった｜UI/UXデザイナー うっくん",
+    "url": "https://note.com/wecken/n/n3c55d54f3712",
+    "pass": 3
+   },
+   {
+    "quote": "アリエルとラプンツェルに学ぶ“言い換え力”：翻訳は“言葉のUX”だった",
+    "url": "https://note.com/wecken/n/n3c55d54f3712",
+    "pass": 3
+   },
+   {
+    "quote": "まいど。お久しぶりです。UIデザイナーのうっくんです。",
+    "url": "https://note.com/wecken/n/n3c55d54f3712",
+    "pass": 3
+   },
+   {
+    "quote": "日本のテック界隈では、12月になると技術に関するブログ狂ったようにを書くのが風物詩になっています。",
+    "url": "https://note.com/wecken/n/n3c55d54f3712",
+    "pass": 3
+   },
+   {
+    "quote": "クラシルにいた時に書いた私の2020年末のブログをふと思い出しました。",
+    "url": "https://note.com/wecken/n/n3c55d54f3712",
+    "pass": 3
+   },
+   {
+    "quote": "本日は、日・英・大阪弁トリリンガルデザイナーである私が、ディズニーの楽曲の翻訳を題材に、なぜリトルマーメイド（アリエル）の日本語バージョンはダメで、ラプンツェルの日本語バージョンが優れているのか、バイリンガルの視点から解説をさせていただきます。",
+    "url": "https://note.com/wecken/n/n3c55d54f3712",
+    "pass": 3
+   },
+   {
+    "quote": "Part of Your World (リトルマーメイド)",
+    "url": "https://note.com/wecken/n/n3c55d54f3712",
+    "pass": 3
+   },
+   {
+    "quote": "Jodi Benson - Part of Your World (From \"The Little Mermaid\")",
+    "url": "https://note.com/wecken/n/n3c55d54f3712",
+    "pass": 3
+   },
+   {
+    "quote": "とにかくアリエルがキュートだった実写版『リトルマーメイド』｜星の汀 / ほしのみぎわ",
+    "url": "https://note.com/blue_lace_moon/n/n4b2120f16b26",
+    "pass": 3
+   },
+   {
+    "quote": "とにかくアリエルがキュートだった実写版『リトルマーメイド』",
+    "url": "https://note.com/blue_lace_moon/n/n4b2120f16b26",
+    "pass": 3
+   },
+   {
+    "quote": "アンデルセン『人魚姫』好きが昂じて、ディズニーのリトルマーメイドも好きな私。",
+    "url": "https://note.com/blue_lace_moon/n/n4b2120f16b26",
+    "pass": 3
+   },
+   {
+    "quote": "映画を見てハッピーオーラを持ち帰ってきました。",
+    "url": "https://note.com/blue_lace_moon/n/n4b2120f16b26",
+    "pass": 3
+   },
+   {
+    "quote": "リトルマーメイド実写版の存在を知ったのは公開日の２週間ほど前でした。それ以来、おうちでのBGMは（ブロードウェイ版ですが）リトルマーメイド一色。",
+    "url": "https://note.com/blue_lace_moon/n/n4b2120f16b26",
+    "pass": 3
+   },
+   {
+    "quote": "映画の予告動画も見て、ますます期待が高まります。",
+    "url": "https://note.com/blue_lace_moon/n/n4b2120f16b26",
+    "pass": 3
+   },
+   {
+    "quote": "ネットサーフィンしてみると、アリエル役のハリー・ベイリーさんは、ミュージカル界ではなく、シンガーソングライターや女優として活躍されているようです。",
+    "url": "https://note.com/blue_lace_moon/n/n4b2120f16b26",
+    "pass": 3
+   },
+   {
+    "quote": "欧米では、《人魚姫》といえばディズニーのアニメが最も普及しているらしく、アニメのアリエルが赤い髪＆青い眼＆白い肌のことから、（人種差別の人も残念ながらいるのでしょうが、そうではなく）茶系の肌のアリエルに戸惑う声もあったようです。製作チームは、その声を汲みつつも、ハリー・ベイリーの魅力をスクリーンにとどめる決定の妨げにはならないとしたようです。",
+    "url": "https://note.com/blue_lace_moon/n/n4b2120f16b26",
+    "pass": 3
+   },
+   {
+    "quote": "世界中のアリエルファンが羨む？マーメイドラグーン｜ちーかま",
+    "url": "https://note.com/chiikama_27/n/n3f2bee8a79dc",
+    "pass": 3
+   },
+   {
+    "quote": "世界中のアリエルファンが羨む？マーメイドラグーン",
+    "url": "https://note.com/chiikama_27/n/n3f2bee8a79dc",
+    "pass": 3
+   },
+   {
+    "quote": "みなさんはディズニーシーにあるマーメイドラグーンに行ったことはありますか？",
+    "url": "https://note.com/chiikama_27/n/n3f2bee8a79dc",
+    "pass": 3
+   },
+   {
+    "quote": "アリエルファンのわたしとしては、このエリアが心の底から大好きです！",
+    "url": "https://note.com/chiikama_27/n/n3f2bee8a79dc",
+    "pass": 3
+   },
+   {
+    "quote": "世界中のアリエルファンが羨んでいるであろう",
+    "url": "https://note.com/chiikama_27/n/n3f2bee8a79dc",
+    "pass": 3
+   },
+   {
+    "quote": "マーメイドラグーンの最高なところを紹介していきます☺️✨✨",
+    "url": "https://note.com/chiikama_27/n/n3f2bee8a79dc",
+    "pass": 3
+   },
+   {
+    "quote": "ディズニーは世界に6つパークがありますが、",
+    "url": "https://note.com/chiikama_27/n/n3f2bee8a79dc",
+    "pass": 3
+   },
+   {
+    "quote": "アリエルをテーマにこれだけ大きなエリアがあるのは日本だけ！！",
+    "url": "https://note.com/chiikama_27/n/n3f2bee8a79dc",
+    "pass": 3
+   },
+   {
+    "quote": "リトル・マーメイド(2023)感想〜アリエルなら、きっとこうする〜｜そうこのディズニー倉庫",
+    "url": "https://note.com/tjoue0202/n/nc0c4862a76cd",
+    "pass": 3
+   },
+   {
+    "quote": "リトル・マーメイド(2023)感想〜アリエルなら、きっとこうする〜",
+    "url": "https://note.com/tjoue0202/n/nc0c4862a76cd",
+    "pass": 3
+   },
+   {
+    "quote": "※この記事は2023年6月10日に書かれたものに加筆修正を加えたものです。",
+    "url": "https://note.com/tjoue0202/n/nc0c4862a76cd",
+    "pass": 3
+   },
+   {
+    "quote": "皆さんグッドハーブニング！そうこです！(この挨拶に慣れてる方はかなりのツワモノ🤣)",
+    "url": "https://note.com/tjoue0202/n/nc0c4862a76cd",
+    "pass": 3
+   },
+   {
+    "quote": "今回は実写版リトル・マーメイドの感想をつらつら述べていこうかと思います。本当なら初日の朝イチで吹き替え版、仕事終わりのレイトショーで字幕版……の予定だったのですが、朝はとんでもない豪雨だったので吹き替え版は後日ということにしました。間髪置かずに観ちゃいたいんですけどね😭",
+    "url": "https://note.com/tjoue0202/n/nc0c4862a76cd",
+    "pass": 3
+   },
+   {
+    "quote": "今回のリトル・マーメイド、まあ〜世間で結構アレコレぎゃあぎゃあ騒がれてましたね😇いや現在進行系で、なのかな……？",
+    "url": "https://note.com/tjoue0202/n/nc0c4862a76cd",
+    "pass": 3
+   },
+   {
+    "quote": "とりあえず騒いでる連中はみんな映画館に行きな！文句はそれから言え！！！ ……という感じですね、はい。",
+    "url": "https://note.com/tjoue0202/n/nc0c4862a76cd",
+    "pass": 3
+   },
+   {
+    "quote": "私としては、とてもとてもとて〜〜〜〜〜〜も！！！良かったです！！！！1989年版の「アリエル」と地続きになっていて、まさに「アリエルならこうするだろう、こう思うだろう、こう行動するだろう」が終始詰まった作品だったと思います。",
+    "url": "https://note.com/tjoue0202/n/nc0c4862a76cd",
+    "pass": 3
+   },
+   {
+    "quote": "人魚姫アリエルを象徴とする、未知の世界への好奇心や自己実現をテーマにした話題が広がっています。",
+    "url": "https://note.com/tag/%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "ミュージカルの観劇レビューや、キャラクターに投影した人生観を綴るエッセイなどが集まっています。",
+    "url": "https://note.com/tag/%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "人魚姫アリエルを象徴とする、未知の世界への好奇心や自己実現をテーマにした話題…",
+    "url": "https://note.com/tag/%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "Beauty Japan 日本大会 2026 #6 妻のコンテスト衣装、またも勝手に決めてみた",
+    "url": "https://note.com/tag/%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "読まれるだけのnoteを卒業して、「私に必要」と思わせる3つの魔法",
+    "url": "https://note.com/tag/%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "『アリエル』になりたかった、4歳息子の本音。",
+    "url": "https://note.com/tag/%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "なお｜共働き×2児ママ〜頑張りすぎない毎日を発信〜",
+    "url": "https://note.com/tag/%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "クリノアリエルの人気・新着記事まとめ｜note",
+    "url": "https://note.com/tag/%E3%82%AF%E3%83%AA%E3%83%8E%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "【20部限定】10/27園田11R 兵庫クイーンカップ(16:00)【フランケルJr.】",
+    "url": "https://note.com/tag/%E3%82%AF%E3%83%AA%E3%83%8E%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "【AI競馬予想】中央競馬と地方競馬とたんぷく88トリプル馬単伝道師🤡",
+    "url": "https://note.com/tag/%E3%82%AF%E3%83%AA%E3%83%8E%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "20221027 園田競馬～兵庫クイーンカップ～予想",
+    "url": "https://note.com/tag/%E3%82%AF%E3%83%AA%E3%83%8E%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "8/20(土)のストライダービジョン 別府ステークス ～とりあえず川田騎手で～",
+    "url": "https://note.com/tag/%E3%82%AF%E3%83%AA%E3%83%8E%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "ポイントは先々週！小倉開催のために出走する馬 9月3日土曜 小倉11RテレQ杯予想",
+    "url": "https://note.com/tag/%E3%82%AF%E3%83%AA%E3%83%8E%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "0820_本日の爆穴たまに来るよ_2022",
+    "url": "https://note.com/tag/%E3%82%AF%E3%83%AA%E3%83%8E%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ディズニー公式 on X: \" アリエル が住む世界は ディズニー公式 on X: \" アリエル が住む世界は X https://x.com > @disneyjp",
+    "url": "https://x.com/disneyjp/status/1640911688089370624",
+    "pass": 3
+   },
+   {
+    "quote": "Dai@ on X: \" アリエル 役はジェシカさんがいいと言う方も多い ... Dai@ on X: \" アリエル 役はジェシカさんがいいと言う方も多い ... X https://x.com > @3559dai",
+    "url": "https://x.com/3559dai/status/1664948492199149568",
+    "pass": 3
+   },
+   {
+    "quote": "アリエル プロジェクト Official (@ArielProjectHK) / X アリエル プロジェクト Official (@ArielProjectHK) / X X https://x.com > ArielProjectHK",
+    "url": "https://x.com/ArielProjectHK",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "シュタイネル アリエル - ソフトウェア開発専門家 | LinkedIn シュタイネル アリエル - ソフトウェア開発専門家 | LinkedIn LinkedIn https://il.linkedin.com > arielsteiner",
+    "url": "https://il.linkedin.com/in/arielsteiner/ja",
+    "pass": 3
+   },
+   {
+    "quote": "高野 （ アリエル ）怜奈 - 転職活動中 | LinkedIn 高野 （ アリエル ）怜奈 - 転職活動中 | LinkedIn LinkedIn ไทย https://th.linkedin.com > ariel-reina-takano",
+    "url": "https://th.linkedin.com/in/ariel-reina-takano/ja",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "アリエル 未来 (@arielmirai) - Facebook アリエル 未来 (@arielmirai) - Facebook Facebook https://www.facebook.com > ... > アーティスト",
+    "url": "https://www.facebook.com/arielmirai/?locale=ja_JP",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アリエル Ariel Inc. - Facebook 株式会社 アリエル Ariel Inc. - Facebook Facebook https://www.facebook.com > ... > Business service",
+    "url": "https://www.facebook.com/ariel.co.ltd/",
+    "pass": 3
+   },
+   {
+    "quote": "アリエル (@arieljapanteam) - Facebook アリエル (@arieljapanteam) - Facebook Facebook https://www.facebook.com > ... > Movie Character",
+    "url": "https://www.facebook.com/arieljapanteam/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイビングステージ アリエル | Sendai Miyagi - Facebook ダイビングステージ アリエル | Sendai Miyagi - Facebook Facebook https://www.facebook.com > DivingstageAriel",
+    "url": "https://www.facebook.com/DivingstageAriel/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.disney.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.disney.co.jp/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.disney.co.jp/corporate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.disney.co.jp/park/news/resort/260910",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.disney.co.jp/shopping/itemnews/20261023_01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.disney.co.jp/shopping/itemnews/20261009_01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.disney.co.jp/store/news/information/if20261110_membercard",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.disney.co.jp/movie/billie/news/20261110_01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.disney.co.jp/music/news/20261109_01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.disney.co.jp/tv/dc/news/20261109",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.disney.co.jp/corporate/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.disney.co.jp/corporate/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.disney.co.jp/221129_disneyjapan_30sec_8mb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.disney.co.jp/corporate/news/2026/20261106",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.ariel-land.co.jp/about",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ariel-inc.jp/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/7010001242740",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubeni-idigio.com/insight-hub/metal3dprinter_desktopmetal_case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Ew517KG1bOI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/column/column_1249/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=sT3lR9R98hc",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://finance.biggo.jp/news/723856b3-4f5c-41b9-94c8-18df1c9ed455",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moomoo.com/news/post/1000623455",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.aeria.jp/pdf/gOV3zcBTE",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://newspicks.com/company/SPD20BGQL2X2F2D3/?ref=news-summary_17766141",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.studio-alice.co.jp/ja/Finance/CompanyData.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/companies/compare/%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB%E7%BE%8E%E5%AE%B9%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF-vs-%E5%8C%BB%E7%99%82%E6%B3%95%E4%BA%BA%E7%A4%BE%E5%9B%A3%E3%82%A8%E3%83%9F%E3%83%8A%E3%83%AB-88b1547da4fdb13f-baf0575422985361",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/noboru_barikata/n/nd9dc8af4c7bb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/wecken/n/n3c55d54f3712",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/blue_lace_moon/n/n4b2120f16b26",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/chiikama_27/n/n3f2bee8a79dc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/disneyjp/status/1640911688089370624",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/3559dai/status/1664948492199149568",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ArielProjectHK",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://il.linkedin.com/in/arielsteiner/ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://th.linkedin.com/in/ariel-reina-takano/ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/arielmirai/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ariel.co.ltd/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/arieljapanteam/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/DivingstageAriel/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tjoue0202/n/nc0c4862a76cd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E3%82%AF%E3%83%AA%E3%83%8E%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アリエル",
+   "results": [
+    "https://www.disney.co.jp/fc/little-mermaid/character/ariel",
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB_(%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC)",
+    "https://www.disney.co.jp/fc/princess/character/ariel",
+    "https://www.disneyplus.com/ja-jp/browse/entity-f7643452-fe64-4b05-8f09-c8bea9b2dd60",
+    "https://www.shiki.jp/applause/littlemermaid/",
+    "https://www.disney.co.jp/fc/live-action/little-mermaid",
+    "https://ja.wikipedia.org/wiki/アリエル",
+    "https://ja.wikipedia.org/wiki/アリエル_(ディズニーキャラクター)",
+    "https://en.wikipedia.org/wiki/Ariel_(The_Little_Mermaid)",
+    "https://www.youtube.com/watch?v=FfGWL3zWDnU"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "アリエル 会社概要 資本金 設立",
+   "results": [
+    "https://www.ariel-land.co.jp/about",
+    "https://www.ariel-inc.jp/overview/",
+    "https://compalyze.co.jp/company/7010001242740",
+    "https://baseconnect.in/companies/09ccc929-b6a7-4afd-8a27-bd5dc3fe5cac",
+    "https://www.arieltrading.co.jp/company/",
+    "https://ariel-web.com/about-us/",
+    "https://www.ariel.co.jp/about",
+    "https://fumadata.com/search/detail/2714245",
+    "https://www.arielcoat.net/",
+    "https://companydata.tsujigawa.com/company2/9011001169336/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "アリエル 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.marubeni-idigio.com/insight-hub/metal3dprinter_desktopmetal_case/",
+    "https://www.youtube.com/watch?v=Ew517KG1bOI",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://kk-ariga.co.jp/metal_3d_printer/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B/",
+    "https://jampt.jp/column/column_453/",
+    "https://www.protech-japan.jp/topics/3d/a35",
+    "https://online.solize.com/blog/metal3dp-mechanism",
+    "https://flashforge.jp/benefit_list/metal/",
+    "https://www.ariel-inc.jp/faq/problem-faq/metal-3d-printing/",
+    "https://skhonpo.com/blogs/3dprinter-practice/3dmetalcost"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "アリエル 金属積層造形 設備",
+   "results": [
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://jampt.jp/column/column_1249/",
+    "https://www.youtube.com/watch?v=sT3lR9R98hc",
+    "https://partners.solize.com/manufacturing/technology/3dp-metal",
+    "https://j3d.co.jp/blog/knowledge/index37/",
+    "https://news.sharelab.jp/category/3dp-news/metal-3dprinter/",
+    "http://3d.kinzoku-kakou-odec.com/column/column-677/",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://www.jfe-steel.co.jp/products/solution/metal-3d-printing/index.html",
+    "https://www.ariel-inc.jp/case-study/applications/machining/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "アリエル 株主 出資 親会社",
+   "results": [
+    "https://finance.biggo.jp/news/723856b3-4f5c-41b9-94c8-18df1c9ed455",
+    "https://www.moomoo.com/news/post/1000623455",
+    "https://www.aeria.jp/pdf/gOV3zcBTE",
+    "https://www.itmedia.co.jp/news/article/1605/27/1160527137/",
+    "https://www.aliwell.co.jp/company/outline.html",
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB_(%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC)",
+    "https://www.helicalfusion.com/",
+    "https://www.reddit.com/r/thelittlemermaid/comments/1k5kxhg/quick_question_what_would_ariels_last_name_be/?tl=ja",
+    "https://www.release.tdnet.info/inbs/331d07d0_20060329.pdf",
+    "https://ja.wikipedia.org/wiki/ワークスアプリケーションズ"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "アリエル 売上高 従業員数",
+   "results": [
+    "https://newspicks.com/company/SPD20BGQL2X2F2D3/?ref=news-summary_17766141",
+    "https://ir.studio-alice.co.jp/ja/Finance/CompanyData.html",
+    "https://jp.indeed.com/companies/compare/%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB%E7%BE%8E%E5%AE%B9%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF-vs-%E5%8C%BB%E7%99%82%E6%B3%95%E4%BA%BA%E7%A4%BE%E5%9B%A3%E3%82%A8%E3%83%9F%E3%83%8A%E3%83%AB-88b1547da4fdb13f-baf0575422985361",
+    "https://www.worktank.co.jp/co/co_index.html?co_id=ariel",
+    "https://www.are-holdings.com/ir/individual/numbers/",
+    "https://en-ambi.com/agency/a-5073/",
+    "https://www.hoerbiger.com/ja/newsroom/press/h2-mobility-hoerbiger-und-ariel-arbeiten-zusammen-um-europas-leistungsstaerkste-wasserstofftankstelle.html",
+    "https://www.provej.jp/column/st/the-walt-disney-company/",
+    "https://www.iret.co.jp/newgraduate/company/data/",
+    "https://baseconnect.in/companies/10fbdaf0-fdb9-41a8-9cc5-931b331b84d0"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com アリエル",
+   "results": [
+    "https://note.com/noboru_barikata/n/nd9dc8af4c7bb",
+    "https://note.com/wecken/n/n3c55d54f3712",
+    "https://note.com/blue_lace_moon/n/n4b2120f16b26",
+    "https://note.com/chiikama_27/n/n3f2bee8a79dc",
+    "https://note.com/figaro_love/n/n16d0cd6730c2",
+    "https://note.com/72corre/n/n859dac14c734",
+    "https://note.com/wonder_girl_a/n/n86461bc2327b",
+    "https://note.com/suminoff/n/ndc7fa3720793",
+    "https://note.com/a_yu_m1/n/n4d5cc4ddf7be",
+    "https://note.com/pow_box/n/n3caafa3acbc6"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com アリエル",
+   "results": [
+    "https://x.com/disneyjp/status/1640911688089370624",
+    "https://x.com/disneyjp/status/1663440109042307072",
+    "https://x.com/3559dai/status/1664948492199149568",
+    "https://x.com/ArielProjectHK",
+    "https://x.com/arielcookieliu",
+    "https://x.com/Kaiou_8043/status/2112117079302410328",
+    "https://x.com/ono800/status/1237941398571118593",
+    "https://x.com/wegotheway0724",
+    "https://x.com/partofAria/status/2073800197793325229",
+    "https://x.com/arieri_YouTuber"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com アリエル",
+   "results": [
+    "https://www.linkedin.com/in/arielramirez99",
+    "https://www.linkedin.com/in/alebowits",
+    "https://il.linkedin.com/in/arielsteiner/ja",
+    "https://th.linkedin.com/in/ariel-reina-takano/ja",
+    "https://www.linkedin.com/in/utnik",
+    "https://jp.linkedin.com/pulse/climatevoices-featuring-arielle-terry-bill-weihl-kefhc?tl=ja",
+    "https://jp.linkedin.com/in/manamiyoshida",
+    "https://jp.linkedin.com/in/%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB-%E3%83%9E%E3%83%AB%E3%83%86%E3%82%A3%E3%83%8D%E3%82%B9-209896434",
+    "https://jp.linkedin.com/in/emi-nakajima-03a404a6",
+    "https://jp.linkedin.com/posts/さくや-桜見-b8a72b227_無職転生アリエル死亡ルートと王になったその後の結婚子供をネタバレ解説-activity-7440871651837190144-4Gem"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com アリエル",
+   "results": [
+    "https://www.facebook.com/arielmirai/?locale=ja_JP",
+    "https://www.facebook.com/ariel.co.ltd/",
+    "https://www.facebook.com/arieljapanteam/",
+    "https://www.facebook.com/DivingstageAriel/",
+    "https://www.facebook.com/HollywoodReporter.jp/posts/%E7%82%8E%E4%B8%8A%E3%82%92%E6%88%90%E9%95%B7%E3%81%AB%E5%A4%89%E3%81%88%E3%81%9F%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB-%E3%83%8F%E3%83%AA%E3%83%BC%E3%83%99%E3%82%A4%E3%83%AA%E3%83%BC%E5%AE%9F%E5%86%99%E7%89%88%E3%83%AA%E3%83%88%E3%83%AB%E3%83%9E%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%89%E3%81%A7%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB%E3%82%92%E6%BC%94%E3%81%98%E3%81%9F%E3%83%8F%E3%83%AA%E3%83%BC%E3%83%99%E3%82%A4%E3%83%AA%E3%83%BC%E5%85%AC%E9%96%8B%E5%BD%93%E6%99%82%E3%81%AB%E5%B7%BB%E3%81%8D%E8%B5%B7%E3%81%93%E3%81%A3%E3%81%9F%E6%89%B9%E5%88%A4%E3%81%A8%E3%81%9D%E3%81%AE%E4%B8%AD%E3%81%A7%E5%BD%BC%E5%A5%B3%E3%81%8C%E8%A6%8B%E3%81%A4%E3%81%91%E3%81%9F%E5%BC%B7%E3%81%95%E3%81%A8%E3%81%AF%E3%82%BC%E3%83%B3%E3%83%87/1294307999465709/",
+    "https://www.facebook.com/100057676141053/mentions/",
+    "https://www.facebook.com/abcmart.japan/posts/hawkinshk86200-disney%E5%A4%A7%E4%BA%BA%E6%B0%97%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E3%83%A9%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%8B%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%A7%E3%81%99%E3%83%99%E3%83%AB%E3%83%88%E3%81%AB%E3%81%AF%E3%83%A2%E3%83%81%E3%83%BC%E3%83%95%E3%81%AE%E3%83%93%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%92%E3%81%82%E3%81%97%E3%82%89%E3%81%84%E3%83%AF%E3%83%B3%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%81%AB%E3%82%B5%E3%82%A4%E3%83%89%E3%81%AE%E3%83%93/1206814981569205/",
+    "https://www.facebook.com/chunichi.dragons.official/posts/%E4%B8%AD%E6%97%A5%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%BA%E3%81%AF%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB%E3%83%9E%E3%83%AB%E3%83%86%E3%82%A3%E3%83%8D%E3%82%B9%E9%81%B8%E6%89%8B%E3%81%A8%E6%94%AF%E9%85%8D%E4%B8%8B%E7%99%BB%E9%8C%B2%E9%81%B8%E6%89%8B%E3%81%A8%E3%81%97%E3%81%A6%E5%A5%91%E7%B4%84%E3%82%92%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%81%AE%E3%81%A7%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99%E8%83%8C%E7%95%AA%E5%8F%B7%E3%81%AF%EF%BC%95%EF%BC%97%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99-%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB%E3%83%9E%E3%83%AB%E3%83%86%E3%82%A3%E3%83%8D%E3%82%B9%E9%81%B8%E6%89%8B%E3%81%AE%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88%E6%94%AF%E9%85%8D/3077917935622703/",
+    "https://www.facebook.com/VOGUEJAPAN/videos/%E3%83%8F%E3%83%AA%E3%83%BC%E3%83%99%E3%82%A4%E3%83%AA%E3%83%BC%E6%98%A0%E7%94%BB%E3%83%AA%E3%83%88%E3%83%AB%E3%83%9E%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%89%E3%81%AE%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%AB%E5%B0%8E%E3%81%8B%E3%82%8C%E3%81%A6/778417943741915/?locale=ms_MY",
+    "https://www.facebook.com/ArielProjectOfficial/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "アリエル note 社長",
+   "results": [
+    "https://note.com/tjoue0202/n/nc0c4862a76cd",
+    "https://note.com/tag/%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB",
+    "https://note.com/ash_12903902/n/nc0ebcd961955",
+    "https://note.com/tag/%E3%82%AF%E3%83%AA%E3%83%8E%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB",
+    "https://note.ill.co.jp/",
+    "https://note.com/a_yu_m1/n/n4d5cc4ddf7be",
+    "https://www.youtube.com/watch?v=3tT9ygMGrV8",
+    "https://xtrend.nikkei.com/atcl/contents/18/00904/00005/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "アリエル X 投稿",
+   "results": [
+    "https://x.com/hashtag/ARIEL",
+    "https://www.pinterest.com/ideas/ariel-x-twitter/904975894986/",
+    "https://www.instagram.com/ari_x_el/",
+    "https://linktr.ee/ArielXlinks",
+    "https://ameblo.jp/ravie-blog/entry-12882898848.html",
+    "https://x.com/arielhelwani",
+    "https://www.deviantart.com/ariel-x",
+    "https://www.reddit.com/r/Tangled/comments/cpbl7l/rapunzel_and_ariel_tangled_x_the_little_mermaid/?tl=ja",
+    "https://www.facebook.com/61573174772853/videos/%E4%BB%8A%E5%9B%9E%E3%81%AFx%E3%81%AE%E6%8A%95%E7%A8%BF%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%A7%A3%E7%AD%94%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99-%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB%E7%BE%8E%E5%AE%B9%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF-%E6%A8%AA%E6%B5%9C%E9%99%A2220-0005%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E8%A5%BF%E5%8C%BA%E5%8D%97%E5%B9%B8-2-18-3%E3%83%AB%E3%83%BC%E3%82%B7%E3%83%83%E3%83%89%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%E6%A8%AA%E6%B5%9C%E3%82%A6%E3%82%A7%E3%82%B9%E3%83%88-8f%E6%A8%AA%E6%B5%9C/1520574836550459/",
+    "https://av-kakaku-navi.com/actress/アリエル・X/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部31頁・検索12回）",
+  "資本金": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部31頁・検索12回）",
+  "創業年度": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部31頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部31頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

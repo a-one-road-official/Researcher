@@ -1,0 +1,886 @@
+{
+ "name": "株式会社ジール",
+ "aliases": [],
+ "context": "PBF=yes 装置=日本電子 出典=https://www.zdh.co.jp/customer/jeol/",
+ "researched_at": "2026-11-10T19:22:37.586510+00:00",
+ "official_url": "https://www.zdh.co.jp/",
+ "identified_by": "search:yahoo_jp:ジール",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2012年7月",
+    "url": "https://www.zdh.co.jp/company/main/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1億円",
+    "url": "https://www.zdh.co.jp/company/main/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "デジタルトランスフォーメーション推進事業 AI/BI/DWHコンサルティング事業 AI/BI/DWHインテグレーション事業 AI/BI/DWHソフトウェアライセンス・ハードウェアの販売及び保守 デジタルトランスフォーメーション人材育成事業 アウトソーシング事業（ 労働者派遣事業 ：派13-305385）",
+    "url": "https://www.zdh.co.jp/company/main/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "【本社】 〒141-0031 東京都品川区西五反田8丁目4-13　五反田JPビルディング11階[ MAP ] TEL：03-5422-8477　FAX：03-5422-8714 五反田オフィスのエントランスイメージ 【大阪支社】 〒541-0044 大阪府大阪市中央区伏見町二丁目1番1号　三井住友銀行高麗橋ビル7F [ MAP ] 【札幌オフィス】 〒060-0005 札幌市中央区北5条西11丁目15-4[ MAP ]",
+    "url": "https://www.zdh.co.jp/company/main/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "688名（2026年7月1日現在）",
+    "url": "https://www.zdh.co.jp/company/main/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "株式会社ジール | DXプラットフォーム・DX人財育成、マルチクラウド、BI・ビッグデータ・AI導入推進支援",
+    "url": "https://www.zdh.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "導入事例一覧ページでは業界や導入サービス、事業フェーズごとに検索頂けます",
+    "url": "https://www.zdh.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "～AI構想カードを活用し、PoCや導入検討テーマを明確化～",
+    "url": "https://www.zdh.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【3年連続】WingArc Partner Award 2025 「Development Partner of the Year」を受賞",
+    "url": "https://www.zdh.co.jp/company/main/",
+    "pass": 1
+   },
+   {
+    "quote": "【2年連続】ウイングアーク１ｓｔ「WingArc Partner Award 2024」にて「Development Partner of the Year」および「Persons of the Year」を受賞",
+    "url": "https://www.zdh.co.jp/company/main/",
+    "pass": 1
+   },
+   {
+    "quote": "～AI構想カードを活用し、PoCや導入検討テーマを明確化～",
+    "url": "https://www.zdh.co.jp/topics/",
+    "pass": 1
+   },
+   {
+    "quote": "ジール、OTC医薬品業界向けデータ統合・分析環境導入サービス「MEDSCOPE」の提供を開始",
+    "url": "https://www.zdh.co.jp/topics/",
+    "pass": 1
+   },
+   {
+    "quote": "企画やシステム導入サポートのプロフェッショナルになりながら、企業の課題解決に貢献できます",
+    "url": "https://job.mynavi.jp/27/pc/search/corp240484/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "文理問わずデータ市場の最前線で活躍中！上流～下流の導入・開発から定着支援やトレーニングまで幅広い業務領域を経験できる環境があります",
+    "url": "https://job.mynavi.jp/27/pc/search/corp240484/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社のビジネスを支える“データエンジニア”は、お客様の経営課題やデータ分析のニーズを的確に捉え、データ分析の企画やシステム導入サポートを担うプロフェッショナル集団です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp240484/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業を取り巻く膨大なデータを集約・整理・分析し、経営上の各種意思決定に必要な知識や洞察を生み出すしくみ作りをコンサルティング～データ分析システムの構築・導入～保守サポートまで一気通貫で提供し、データプラットフォームの構築からDX人材育成まで総合的なDX推進事業を展開し、日本企業のDX実現に貢献しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp240484/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ジールは「経営情報の大衆化」をミッションに掲げるアバントグループの会社で、BI/DWH専業のソリューションベンダーとして、データ活用基盤に関する「コンサルティング／導入・システム開発／教育・定着支援」を一気通貫で対応しています",
+    "url": "https://note.com/zeal_career/n/n29ca1e4626f8",
+    "pass": 3
+   },
+   {
+    "quote": "今回の受賞理由は、「Oracle Cloud Excellence Implementer – Japan EPM Enterprise Planning and Budgeting」 取得パートナーとして、Oracle EPM Cloud分野において、累計100社以上の新規導入および更新実績を達成、顕著な売上を達成し、Oracle Cloudビジネスの拡大に多くのパートナーの中でも突出した実績を挙げたことが評価されました",
+    "url": "https://note.com/zeal_career/n/nb3df05837193",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "「SonarQube」で実現するAI時代の品質管理 AIが量産するコードのレビューから品質改善までを自動化し「ウルトラシフトレフト」を推進",
+    "url": "https://www.zdh.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "高い目標に向かって突き進む彼らが発するエネルギーは大きく",
+    "url": "https://www.zdh.co.jp/company/zeal-paraathletes/",
+    "pass": 1
+   },
+   {
+    "quote": "全農西日本エネルギー(株)【全農エネルギー(株)グループ】",
+    "url": "https://job.mynavi.jp/27/pc/search/corp240484/outline.html",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "上場企業の適時開示情報等を網羅したデータベースを構築し、監査法人等に検索サービス「開示Net」を提供します",
+    "url": "https://www.zdh.co.jp/company/group-companies/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金、住所などジールコミュニケーションズに関する基本データです",
+    "url": "https://zeal-c.jp/company/outline.php",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 | 企業情報 - 株式会社ジール — 会社概要 | 企業情報 - 株式会社ジール 株式会社ジール https://www.zdh.co.jp > company",
+    "url": "https://www.zdh.co.jp/company/main/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社ジールコミュニケーションズ — 会社概要 - 株式会社ジールコミュニケーションズ 株式会社ジールコミュニケーションズ https://zeal-c.jp > 企業情報",
+    "url": "https://zeal-c.jp/company/outline.php",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 採用情報 - 株式会社ジール — 会社概要 | 採用情報 - 株式会社ジール 株式会社ジール https://www.zdh.co.jp > recruit > company > overview",
+    "url": "https://www.zdh.co.jp/recruit/company/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社ジール コミュニケーションズ - 採用 情報 特設サイト — 株式 会社ジール コミュニケーションズ - 採用 情報 特設サイト zeal-recruit.jp https://zeal-recruit.jp > company",
+    "url": "https://zeal-recruit.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "About - Zeal inc. ジール 株式 会社 — About - Zeal inc. ジール 株式 会社 zeal-learning.co.jp https://zeal-learning.co.jp > about",
+    "url": "https://zeal-learning.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - ZEAL BOXING FITNESS（ ジール ボクシング ... — 会社概要 - ZEAL BOXING FITNESS（ ジール ボクシング ... ZEAL BOXING FITNESS https://zeal-b.com > company",
+    "url": "https://zeal-b.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 日本 ジール システム株式会社 — 会社概要 - 日本 ジール システム株式会社 日本ジールシステム株式会社 https://www.jpn-zeal.co.jp > company",
+    "url": "https://www.jpn-zeal.co.jp/company",
+    "pass": 3
+   },
+   {
+    "quote": "(株) ジール の新卒採用・会社概要 | マイナビ2027 — (株) ジール の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp240484 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp240484/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "電子公告・決算公告 | 株式会社 ジール — 電子公告・決算公告 | 株式会社 ジール 株式会社ジール https://www.zdh.co.jp > company > koukoku",
+    "url": "https://www.zdh.co.jp/company/koukoku/",
+    "pass": 3
+   },
+   {
+    "quote": "数字で見る ジール コミュニケーションズ — 数字で見る ジール コミュニケーションズ zeal-recruit.jp https://zeal-recruit.jp > data",
+    "url": "https://zeal-recruit.jp/data/",
+    "pass": 3
+   },
+   {
+    "quote": "(株) ジール の会社概要 | マイナビ2028 — (株) ジール の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp240484 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp240484/outline.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 ジール - note 株式会社 ジール - note note https://note.com > zeal_career",
+    "url": "https://note.com/zeal_career",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ジール 公式note始めました！ 株式会社 ジール 公式note始めました！ note https://note.com > 人物・社会 > 経営者・実業家",
+    "url": "https://note.com/zeal_career/n/n29ca1e4626f8",
+    "pass": 3
+   },
+   {
+    "quote": "ジール コミュニケーションズの裏通り - note ジール コミュニケーションズの裏通り - note note https://note.com > zeal_recruit",
+    "url": "https://note.com/zeal_recruit",
+    "pass": 3
+   },
+   {
+    "quote": "ジール がメーカーから評価される理由とは？メーカー ... - note ジール がメーカーから評価される理由とは？メーカー ... - note note https://note.com > ビジネス > ビジネス読み物（運営）",
+    "url": "https://note.com/zeal_career/n/nb3df05837193",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ジール 公式 note 始めました！ 株式会社 ジール 公式 note 始めました！ note https://note.com > 人物・社会 > 経営者・実業家",
+    "url": "https://note.com/zeal_career/n/n29ca1e4626f8",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【オフィスツアー】ジール新オフィス、全部見せます",
+    "url": "https://note.com/zeal_career",
+    "pass": 3
+   },
+   {
+    "quote": "【26卒内定者が振り返る】私の就活体験と入社の決め手🏢",
+    "url": "https://note.com/zeal_career",
+    "pass": 3
+   },
+   {
+    "quote": "【もうすぐ1年】25卒新入社員の現在の様子をインタビューしてみました！",
+    "url": "https://note.com/zeal_career",
+    "pass": 3
+   },
+   {
+    "quote": "3年目、4年目の新卒入社エンジニア登壇座談会レポート📢～中堅社員が語る、文理問わず活躍できるITキャリア～",
+    "url": "https://note.com/zeal_career",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年8月8日】26卒内定者懇親会を実施しました！",
+    "url": "https://note.com/zeal_career",
+    "pass": 3
+   },
+   {
+    "quote": "【入社式】42名の新入社員が新たにジールのメンバーに仲間入りしました！",
+    "url": "https://note.com/zeal_career",
+    "pass": 3
+   },
+   {
+    "quote": "26卒・本選考開始！～New採用キャッチフレーズに込められた想いとは～",
+    "url": "https://note.com/zeal_career",
+    "pass": 3
+   },
+   {
+    "quote": "＜2024年12月6日＞武蔵野大学データサイエンス学部生3名による長期インターンシップ成果報告会を実施しました！",
+    "url": "https://note.com/zeal_career",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ジール 公式note始めました！｜株式会社ジール",
+    "url": "https://note.com/zeal_career/n/n29ca1e4626f8",
+    "pass": 3
+   },
+   {
+    "quote": "2021年10月1日、株式会社ジールの公式noteを立ち上げました👏",
+    "url": "https://note.com/zeal_career/n/n29ca1e4626f8",
+    "pass": 3
+   },
+   {
+    "quote": "まずは初めましてのご挨拶として、株式会社ジールについて、そしてnoteを始めた理由やこれから発信していく内容について書きたいと思います。",
+    "url": "https://note.com/zeal_career/n/n29ca1e4626f8",
+    "pass": 3
+   },
+   {
+    "quote": "ジールは「経営情報の大衆化」をミッションに掲げるアバントグループの会社で、BI/DWH専業のソリューションベンダーとして、データ活用基盤に関する「コンサルティング／導入・システム開発／教育・定着支援」を一気通貫で対応しています。",
+    "url": "https://note.com/zeal_career/n/n29ca1e4626f8",
+    "pass": 3
+   },
+   {
+    "quote": "これまで30年、延べ1,000社以上のお客様との取引実績があります。",
+    "url": "https://note.com/zeal_career/n/n29ca1e4626f8",
+    "pass": 3
+   },
+   {
+    "quote": "として、クラウドデータプラットフォームの構築や、AIを活用した分析、そしてシステムを使いこなすための教育事業など、幅広く取り組んでいます",
+    "url": "https://note.com/zeal_career/n/n29ca1e4626f8",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.zdh.co.jp/service/",
+    "url": "https://note.com/zeal_career/n/n29ca1e4626f8",
+    "pass": 3
+   },
+   {
+    "quote": "「私たちジールについて、もっと知って欲しい！」",
+    "url": "https://note.com/zeal_career/n/n29ca1e4626f8",
+    "pass": 3
+   },
+   {
+    "quote": "ジールコミュニケーションズの裏通り｜note",
+    "url": "https://note.com/zeal_recruit",
+    "pass": 3
+   },
+   {
+    "quote": "野球選手の皆さんにお伝えしたい＜デュアルキャリア＞｜ジールのアスリート雇用",
+    "url": "https://note.com/zeal_recruit",
+    "pass": 3
+   },
+   {
+    "quote": "バレーボール選手の皆さんにお伝えしたい＜デュアルキャリア＞｜ジールのアスリート雇用",
+    "url": "https://note.com/zeal_recruit",
+    "pass": 3
+   },
+   {
+    "quote": "新卒｜28卒採用スタートしました！みんなお待たせ！＜事務＞",
+    "url": "https://note.com/zeal_recruit",
+    "pass": 3
+   },
+   {
+    "quote": "新卒｜28卒採用スタートしました！みんなお待たせ！＜営業＞",
+    "url": "https://note.com/zeal_recruit",
+    "pass": 3
+   },
+   {
+    "quote": "勤務地｜拠点がたくさん！ジールコミュニケーションズのオフィス情報2",
+    "url": "https://note.com/zeal_recruit",
+    "pass": 3
+   },
+   {
+    "quote": "パート｜春日部で新規事業の運営スタッフを募集しています☕",
+    "url": "https://note.com/zeal_recruit",
+    "pass": 3
+   },
+   {
+    "quote": "ジールがメーカーから評価される理由とは？メーカーアライアンス活動の成果をご紹介｜株式会社ジール",
+    "url": "https://note.com/zeal_career/n/nb3df05837193",
+    "pass": 3
+   },
+   {
+    "quote": "ジールがメーカーから評価される理由とは？メーカーアライアンス活動の成果をご紹介",
+    "url": "https://note.com/zeal_career/n/nb3df05837193",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは。ビジネスディベロップメント部の栗原です。",
+    "url": "https://note.com/zeal_career/n/nb3df05837193",
+    "pass": 3
+   },
+   {
+    "quote": "ジールの強みの一つは、情報活用に関わる多くの製品ベンダー（メーカー）と密接な関係を築いている点です。これほど数多くの製品ベンダー（メーカー）とパートナー契約を結んでいる会社は、ジール以外にないといっても過言ではありません。この立ち位置を確立していることがジールの価値であり、現在、ジールのビジネスが伸びている大きな原動力になっています。",
+    "url": "https://note.com/zeal_career/n/nb3df05837193",
+    "pass": 3
+   },
+   {
+    "quote": "■メーカーアライアンスとは？メーカーと共通の目標を定めて、それに向かった様々な施策を実施していくことがメーカーアライアンスの仕事です。メーカーと一緒にプリセールス活動を行い、製品のデモやヒアリングを実施することで案件を創出していきます。また、それらの実績を積み重ねることにより、メーカーとの信頼関係を強固にしていきます。",
+    "url": "https://note.com/zeal_career/n/nb3df05837193",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスディベロップメント部の大切な業務の一つがメーカーアライアンスなのですが、どのような業務をしているかイメージが湧かない方も多いと思います。また、メーカーアライアンスの成果はすぐに出るものではなく、長期にわたり根気強く地道な活動を続ける必要があります。",
+    "url": "https://note.com/zeal_career/n/nb3df05837193",
+    "pass": 3
+   },
+   {
+    "quote": "そんな中、メーカーアライアンスの成果を感じる貴重な機会が、メーカーからの“表彰”です。今回は、ジールがメーカーからどのような表彰を受けたのか、また、どのような活動を通して、どのような点を評価されたのか、ご紹介します。",
+    "url": "https://note.com/zeal_career/n/nb3df05837193",
+    "pass": 3
+   },
+   {
+    "quote": "【Microsoft社】永田 亮磨さん「Microsoft MVPアワード（Data Platform部門）」を受賞",
+    "url": "https://note.com/zeal_career/n/nb3df05837193",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ジール アソシエイツ (@zealas) / X ジール アソシエイツ (@zealas) / X X https://x.com > zealas",
+    "url": "https://x.com/zealas",
+    "pass": 3
+   },
+   {
+    "quote": "ジール 当知店 (@zeal_touti) / X ジール 当知店 (@zeal_touti) / X X https://x.com > zeal_touti",
+    "url": "https://x.com/zeal_touti",
+    "pass": 3
+   },
+   {
+    "quote": "ネオ緑茶 on X: \" ジール 3積みなのにキャッシュバックだし ... ネオ緑茶 on X: \" ジール 3積みなのにキャッシュバックだし ... X https://x.com > @shen_otp",
+    "url": "https://x.com/shen_otp/status/2111344242820104611",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 ジール - LinkedIn 株式会社 ジール - LinkedIn LinkedIn https://jp.linkedin.com > company > zeal_2",
+    "url": "https://jp.linkedin.com/company/zeal_2",
+    "pass": 3
+   },
+   {
+    "quote": "佐藤 佑樹 - 株式会社 ジール - Group Leader データ ... - LinkedIn 佐藤 佑樹 - 株式会社 ジール - Group Leader データ ... - LinkedIn LinkedIn https://jp.linkedin.com > 佑樹-佐藤-6951a3231",
+    "url": "https://jp.linkedin.com/in/%E4%BD%91%E6%A8%B9-%E4%BD%90%E8%97%A4-6951a3231",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 ジール (@zealnoie) - Facebook 株式会社 ジール (@zealnoie) - Facebook Facebook https://www.facebook.com > ... > ビジネスサービス",
+    "url": "https://www.facebook.com/zealnoie/?locale=ja_JP",
+    "pass": 3
+   },
+   {
+    "quote": "ZEAL ジール (@zealcruising) - Facebook ZEAL ジール (@zealcruising) - Facebook Facebook https://www.facebook.com > ... > Sightseeing Tour Agency",
+    "url": "https://www.facebook.com/zealcruising/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ジール コミュニケーションズ | Shibuya-ku Tokyo 株式会社 ジール コミュニケーションズ | Shibuya-ku Tokyo Facebook https://www.facebook.com > ... > インターネット関連企業",
+    "url": "https://www.facebook.com/zealcommunications/?locale=ja_JP",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.zdh.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zdh.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zdh.co.jp/company/main/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zdh.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zdh.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zdh.co.jp/topics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zdh.co.jp/company/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zdh.co.jp/company/group-companies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zdh.co.jp/company/philosophy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zdh.co.jp/company/brandmessage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zdh.co.jp/company/organization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zdh.co.jp/company/zeal-paraathletes/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zdh.co.jp/company/sustainability/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.zdh.co.jp/wp-content/themes/zeal/images/strengths/company.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://zeal-c.jp/company/outline.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubeni-idigio.com/insight-hub/metal3dprinter_desktopmetal_case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/the-future-of-metal-3d-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zeal-b.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketplace.databricks.com/provider/ccb1eead-54d5-4f89-9cdc-fca2645ff069/Zeal-Corporation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp240484/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zeal-recruit.jp/data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/zeal_career",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/zeal_career/n/n29ca1e4626f8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/zeal_recruit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/zeal_career/n/nb3df05837193",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/zealas",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/zeal_touti",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/shen_otp/status/2111344242820104611",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/zeal_2",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E4%BD%91%E6%A8%B9-%E4%BD%90%E8%97%A4-6951a3231",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/zealnoie/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/zealcruising/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/zealcommunications/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/zeal_career",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/zeal_career/n/n29ca1e4626f8",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ジール",
+   "results": [
+    "https://www.zdh.co.jp/",
+    "https://zeal-c.jp/",
+    "https://zeal-hair.co.jp/",
+    "https://jp.linkedin.com/company/zeal_2",
+    "https://zeal-logi.com/",
+    "https://zeal-learning.co.jp/",
+    "https://ja.wikipedia.org/wiki/ジール",
+    "https://www.zdh.co.jp/company/",
+    "https://www.oticon.co.jp/products/hearing-aids/family/zeal",
+    "https://www.zeal.ne.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "ジール 会社概要 資本金 設立",
+   "results": [
+    "https://www.zdh.co.jp/company/main/",
+    "https://zeal-c.jp/company/outline.php",
+    "https://www.zdh.co.jp/recruit/company/overview/",
+    "https://zeal-recruit.jp/company/",
+    "https://zeal-learning.co.jp/about/",
+    "https://job.mynavi.jp/28/pc/search/corp240484/outline.html",
+    "https://zeal-as.co.jp/company/",
+    "https://jp.linkedin.com/company/zeal_2",
+    "https://zeal-logi.com/",
+    "https://job.mynavi.jp/27/pc/search/corp240484/outline.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "ジール 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.marubeni-idigio.com/insight-hub/metal3dprinter_desktopmetal_case/",
+    "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/the-future-of-metal-3d-printing",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://www.ricoh.co.jp/3dp/metal/what",
+    "https://jampt.jp/column/column_453/",
+    "https://online.solize.com/blog/metal3dp-mechanism",
+    "https://skhonpo.com/blogs/3dprinter-practice/3dmetalcost",
+    "https://flashforge.jp/benefit_list/metal/",
+    "https://www.youtube.com/watch?v=FW9Pz0sEsQU",
+    "https://3d-modely.com/blog/3d-printer/3d-printer-metal/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ジール 金属積層造形 設備",
+   "results": [
+    "https://jampt.jp/equipment/",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://chuokatan.co.jp/products/3dp/",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://www.nims.go.jp/cccenter/ismg/equipments.html",
+    "https://www.youtube.com/watch?v=sT3lR9R98hc",
+    "https://j3d.co.jp/blog/knowledge/index37/",
+    "https://ja.3dsystems.com/semiconductor",
+    "https://news.sharelab.jp/category/3dp-news/metal-3dprinter/",
+    "https://www.jfe-steel.co.jp/products/solution/metal-3d-printing/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "ジール 株主 出資 親会社",
+   "results": [
+    "https://www.zdh.co.jp/company/main/",
+    "https://zeal-b.com/company/",
+    "https://marketplace.databricks.com/provider/ccb1eead-54d5-4f89-9cdc-fca2645ff069/Zeal-Corporation",
+    "https://www.jpn-zeal.co.jp/company",
+    "https://prtimes.jp/main/html/rd/p/000000005.000146700.html",
+    "https://zeal-as.co.jp/",
+    "https://www.zeal-ltd.co.jp/",
+    "https://zeal-c.jp/company/outline.php",
+    "https://job.mynavi.jp/27/pc/search/corp240484/outline.html",
+    "https://irbank.net/E05663/ac?m=株式会社ジール"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ジール 売上高 従業員数",
+   "results": [
+    "https://job.mynavi.jp/27/pc/search/corp240484/outline.html",
+    "https://www.zdh.co.jp/company/koukoku/",
+    "https://zeal-recruit.jp/data/",
+    "https://www.zdh.co.jp/company/main/",
+    "https://job.mynavi.jp/28/pc/search/corp240484/outline.html",
+    "https://zeal-as.co.jp/ir/story/",
+    "https://www.zdh.co.jp/recruit/company/overview/",
+    "https://engineer-shukatu.jp/company-4924/",
+    "https://zeal-c.jp/company/outline.php",
+    "https://www.zdh.co.jp/company/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com ジール",
+   "results": [
+    "https://note.com/zeal_career",
+    "https://note.com/zeal_career/n/n29ca1e4626f8",
+    "https://note.com/zeal_recruit",
+    "https://note.com/zeal_career/n/nb3df05837193",
+    "https://note.com/zeal_career/n/n2da34d81ba10",
+    "https://note.com/zeal_career/n/n1f3459eb3394",
+    "https://note.com/zealcorp",
+    "https://note.com/zeal_career/n/n44a97fca91e3",
+    "https://note.com/zeal_recruit/n/n0636c96c0663",
+    "https://note.com/zeal_recruit/n/n6b35f5fdeb7a"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com ジール",
+   "results": [
+    "https://x.com/ZealGinjoka",
+    "https://x.com/zealas",
+    "https://x.com/zeal_touti",
+    "https://x.com/shen_otp/status/2111344242820104611",
+    "https://x.com/gothicpillar",
+    "https://x.com/ZEAL_nakajima",
+    "https://x.com/zealcruising",
+    "https://x.com/IKAIHCIKOT/status/2116022774296870967",
+    "https://x.com/hashtag/%E3%82%B8%E3%83%BC%E3%83%AB",
+    "https://x.com/zeal_c_hr"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com ジール",
+   "results": [
+    "https://jp.linkedin.com/company/zeal_2",
+    "https://www.linkedin.com/company/zeal_2",
+    "https://www.linkedin.com/in/zealcaiden",
+    "https://jp.linkedin.com/in/%E4%BD%91%E6%A8%B9-%E4%BD%90%E8%97%A4-6951a3231",
+    "https://www.linkedin.com/company/zeal-development-group",
+    "https://www.linkedin.com/in/zeal-jinwala",
+    "https://www.linkedin.com/company/zeal-optics",
+    "https://www.linkedin.com/company/zeal-credit-union",
+    "https://www.linkedin.com/company/zeal-logistics",
+    "https://jp.linkedin.com/company/zeal_2/jobs"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com ジール",
+   "results": [
+    "https://www.facebook.com/zealnoie/?locale=ja_JP",
+    "https://www.facebook.com/zealcruising/",
+    "https://www.facebook.com/zealandardor/",
+    "https://www.facebook.com/zealcommunications/?locale=ja_JP",
+    "https://www.facebook.com/zealshoot/?locale=ja_JP",
+    "https://www.facebook.com/zealstudios.ww/",
+    "https://www.facebook.com/ZEALAssociates/",
+    "https://www.facebook.com/zealstore.jp/",
+    "https://www.facebook.com/zealjonesracing/",
+    "https://www.facebook.com/1993273797660759/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "ジール note 社長",
+   "results": [
+    "https://note.com/zeal_career",
+    "https://www.zdh.co.jp/recruit/interview/interview07/",
+    "https://note.com/zeal_career/n/n29ca1e4626f8",
+    "https://note.com/zeal_career/n/n1f3459eb3394",
+    "https://note.com/nagachu/n/n195af634286e",
+    "https://www.zdh.co.jp/recruit/company/topmessage/",
+    "https://note.com/zeal_career/n/nb291007a3238",
+    "https://www.openwork.jp/a0C1000000xARb2/compa/a0C2x00000Wix5f/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.zdh.co.jp/company/message/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "ジール X 投稿",
+   "results": [
+    "https://x.com/ZealGinjoka",
+    "https://zeal-security.jp/monitoring/",
+    "https://www.junauto.co.jp/mechanic/blog/2012/02/3577",
+    "https://zeal-as.co.jp/en/%E4%B8%80%E8%88%AC%E7%A4%BE%E5%9B%A3%E6%B3%95%E4%BA%BA-%E6%97%A5%E6%9C%AC%E5%B1%95%E7%A4%BA%E4%BC%9A%E5%8D%94%E4%BC%9A-%E7%90%86%E4%BA%8B%E5%B0%B1%E4%BB%BB%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE/",
+    "https://www.instagram.com/p/DFZx4oSy1I9/",
+    "https://zeal-recruit.jp/projectstory/story02/",
+    "https://minkara.carview.co.jp/car/honda/n-one/partsreview/review.aspx?mk=298&br=1206",
+    "https://x.com/Zealver15/status/1824765629825716532",
+    "https://search.yahoo.co.jp/realtime/search/ジール/",
+    "https://x.com/NoSURVIVE1/status/2064576789947765163"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部25頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部25頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部25頁・検索12回）",
+  "使っている金属粉（材質）": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部25頁・検索12回）"
+ }
+}

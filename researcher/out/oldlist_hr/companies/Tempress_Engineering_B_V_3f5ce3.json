@@ -1,0 +1,938 @@
+{
+ "name": "Tempress Engineering B.V.",
+ "aliases": [],
+ "context": "旧営業リスト｜Machine Tools / Production Equipment｜未接触",
+ "researched_at": "2026-11-10T19:29:31.837295+00:00",
+ "official_url": "https://www.tempress.nl/",
+ "identified_by": "given",
+ "profile": {
+  "連絡先": [
+   {
+    "label": "Contact",
+    "value": "Mr. Maarten IJzerman",
+    "url": "https://tempress.nl/company",
+    "pass": 1
+   },
+   {
+    "label": "Contact",
+    "value": "Mr. Rob de Jong",
+    "url": "https://tempress.nl/company",
+    "pass": 1
+   },
+   {
+    "label": "Contact",
+    "value": "Mr. Pascal Guerche",
+    "url": "https://tempress.nl/company",
+    "pass": 1
+   },
+   {
+    "label": "Contact",
+    "value": "Fukumi Tomino",
+    "url": "https://tempress.nl/company",
+    "pass": 1
+   },
+   {
+    "label": "Contact",
+    "value": "B.H. Lee",
+    "url": "https://tempress.nl/company",
+    "pass": 1
+   },
+   {
+    "label": "Contact",
+    "value": "Scott A. Jungers",
+    "url": "https://tempress.nl/company",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Our process portfolio",
+    "url": "https://tempress.nl/",
+    "pass": 1
+   },
+   {
+    "quote": "Designed around your process, built for your reality.",
+    "url": "https://tempress.nl/",
+    "pass": 1
+   },
+   {
+    "quote": "diffusion and deposition processes",
+    "url": "https://tempress.nl/",
+    "pass": 1
+   },
+   {
+    "quote": "60 years of thermal processing expertise",
+    "url": "https://tempress.nl/",
+    "pass": 1
+   },
+   {
+    "quote": "From power devices and MEMS to photonics, advanced packaging and LED, our diffusion and deposition solutions are qualified in production and pilot lines worldwide.",
+    "url": "https://tempress.nl/",
+    "pass": 1
+   },
+   {
+    "quote": "Modular horizontal stacks and vertical batch processors, configured around your process, footprint and throughput.",
+    "url": "https://tempress.nl/",
+    "pass": 1
+   },
+   {
+    "quote": "Complete thermal processes developed over six decades and proven in production fabs worldwide.",
+    "url": "https://tempress.nl/",
+    "pass": 1
+   },
+   {
+    "quote": "Diffusion processes modify the electrical properties of wafer material by introducing dopant atoms from a chemical vapor source or by annealing crystal defects. Tempress offers high-temperature annealing up to 1365°C, wet and dry oxidation, phosphorus and boron doping with POCl3 and BBr3, plus lower-temperature sintering, alloying and annealing with up to 100% H2.",
+    "url": "https://tempress.nl/",
+    "pass": 1
+   },
+   {
+    "quote": "Deposition processes produce thin films of high-quality solid materials on a wafer. Tempress offers Low Pressure CVD (LPCVD) for improved uniformity, Plasma Enhanced CVD (PECVD) for lower-temperature processing with higher deposition rates, and Atomic Layer Deposition (ALD) for ultra-thin, conformal films with atomic-level thickness control.",
+    "url": "https://tempress.nl/",
+    "pass": 1
+   },
+   {
+    "quote": "One portfolio. Horizontal and vertical thermal processing.",
+    "url": "https://tempress.nl/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "From flexible multi-stack horizontal furnaces to high-productivity 300mm vertical batch processors — engineered for uniformity, uptime and the lowest cost of ownership.",
+    "url": "https://tempress.nl/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Optimized for flexibility, multiple simultaneous processes and efficient use of cleanroom space.",
+    "url": "https://tempress.nl/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Multiple processes in parallel",
+    "url": "https://tempress.nl/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "up to 150 product wafers per reactor",
+    "url": "https://tempress.nl/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Flexible footprint and orientation options",
+    "url": "https://tempress.nl/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "300mm Productivity at Scale",
+    "url": "https://tempress.nl/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Batch productivity from 150mm to 300mm",
+    "url": "https://tempress.nl/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Vertical batch furnaces for diffusion, oxidation and LPCVD, with small-footprint options for pilot lines and dual-boat platforms for high-volume production.",
+    "url": "https://tempress.nl/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Up to 50 product wafers",
+    "url": "https://tempress.nl/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Flexible footprint, orientation, and cleanroom/gray-room configurations",
+    "url": "https://tempress.nl/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Atmospheric and reduced-pressure curing up to 400°C",
+    "url": "https://tempress.nl/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "75 product wafers per reactor",
+    "url": "https://tempress.nl/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "The AVP Ace is an advanced vertical batch furnace for 150 mm and 200 mm wafers. It delivers excellent process performance, optimized cost of ownership, and outstanding flexibility for diffusion, oxidation, and LPCVD applications. Building on proven process modules and an updated control architecture, the AVP Ace can be configured to meet specific production and engineering requirements.",
+    "url": "https://tempress.nl/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "The RVP Ace is a high-productivity vertical batch furnace for 200 mm and 300 mm wafers. It provides a flexible platform for diffusion, oxidation, and LPCVD processes, combining strong process performance with optimized cost of ownership. Proven process modules, updated controls, and flexible wafer-handling options enable the system to meet a wide range of production and engineering requirements.",
+    "url": "https://tempress.nl/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Our previous generation processors",
+    "url": "https://tempress.nl/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Previous-generation vertical processors for 150–200mm wafers",
+    "url": "https://tempress.nl/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "These previous versions of the AVP Ace are vertical batch furnaces with a flexible platform for diffusion, oxidation and LPCVD processes. Available with single or dual boat configuration and batches up to 200 wafers. New AVP-8200 and RVP-9200 are available brand new and refurbished (subject to donor availability). Refurbished AVP-8000 and RVP-9000 are available subject to donor availability.",
+    "url": "https://tempress.nl/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Small footprint, side-by-side installation",
+    "url": "https://tempress.nl/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Previous-generation rapid vertical processors for 200–300mm wafers",
+    "url": "https://tempress.nl/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Production-proven 300mm furnaces introduced in the world's first 300mm fab in 1999. Continuous refinement led to the RVP Ace. The layout provides for multiple systems with zero side spacing required due to innovative packaging, with excellent rear maintenance access. New RVP-300plus and RVP-550 are available brand new and refurbished (subject to donor availability).",
+    "url": "https://tempress.nl/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Rapid vertical processor",
+    "url": "https://tempress.nl/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Proven across the thermal process window",
+    "url": "https://tempress.nl/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Tempress furnace platforms for medium and high-volume semiconductor manufacturing can be equipped with integrated boat handler and storage and fully automated cassette-to-cassette wafer handling systems. This reduces reliance on manual operator intervention while delivering a more stable and reliable process yield.",
+    "url": "https://tempress.nl/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "With highly qualified personnel, Tempress provides expert support throughout the lifecycle of your furnace to ensure safe, cost-effective and high-uptime operations — including service, spare parts, retrofits and upgrades.",
+    "url": "https://tempress.nl/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "TS 6/8 Series | Tempress",
+    "url": "https://tempress.nl/solutions/ts-6-8-series",
+    "pass": 1
+   },
+   {
+    "quote": "Multiple processes in parallel",
+    "url": "https://tempress.nl/solutions/ts-6-8-series",
+    "pass": 1
+   },
+   {
+    "quote": "up to 150 product wafers per reactor",
+    "url": "https://tempress.nl/solutions/ts-6-8-series",
+    "pass": 1
+   },
+   {
+    "quote": "Flexible footprint and orientation options",
+    "url": "https://tempress.nl/solutions/ts-6-8-series",
+    "pass": 1
+   },
+   {
+    "quote": "Processes supported on the TS 6/8 Series",
+    "url": "https://tempress.nl/solutions/ts-6-8-series",
+    "pass": 1
+   },
+   {
+    "quote": "An atmospheric diffusion process is a heat treatment in a mostly inert environment which distributes dopants in a silicon, GaAs, InP or other semiconductor wafer to a desired depth, changing the electrical properties of the semiconductor. Sometimes a reactive element such as oxygen is added, consuming silicon and converting it into silicon dioxide (SiO2) for use in many applications.",
+    "url": "https://tempress.nl/solutions/ts-6-8-series",
+    "pass": 1
+   },
+   {
+    "quote": "Low Pressure Chemical Vapor Deposition uses a chemical reaction to convert gas phase precursors into useful films. The products of that reaction are deposited on top of the wafer and therefore do not consume atoms from the base material.",
+    "url": "https://tempress.nl/solutions/ts-6-8-series",
+    "pass": 1
+   },
+   {
+    "quote": "Tempress offers furnace solutions for various other processes such as wafer splitting (SOI/POI) and polyimide curing, and is open to customise and co-develop specific thermal processes to fit your needs.",
+    "url": "https://tempress.nl/solutions/ts-6-8-series",
+    "pass": 1
+   },
+   {
+    "quote": "Talk to a thermal processing specialist about process requirements, wafer formats and production volumes.",
+    "url": "https://tempress.nl/solutions/ts-6-8-series",
+    "pass": 1
+   },
+   {
+    "quote": "sales@tempress-systems.com",
+    "url": "https://tempress.nl/solutions/ts-6-8-series",
+    "pass": 1
+   },
+   {
+    "quote": "TS 12 Series | Tempress",
+    "url": "https://tempress.nl/solutions/ts-12-series",
+    "pass": 1
+   },
+   {
+    "quote": "300mm Productivity at Scale",
+    "url": "https://tempress.nl/solutions/ts-12-series",
+    "pass": 1
+   },
+   {
+    "quote": "Processes supported on the TS 12 Series",
+    "url": "https://tempress.nl/solutions/ts-12-series",
+    "pass": 1
+   },
+   {
+    "quote": "An atmospheric diffusion process is a heat treatment in a mostly inert environment which distributes dopants in a silicon, GaAs, InP or other semiconductor wafer to a desired depth, changing the electrical properties of the semiconductor. Sometimes a reactive element such as oxygen is added, consuming silicon and converting it into silicon dioxide (SiO2) for use in many applications.",
+    "url": "https://tempress.nl/solutions/ts-12-series",
+    "pass": 1
+   },
+   {
+    "quote": "Tempress offers furnace solutions for various other processes such as wafer splitting (SOI/POI) and polyimide curing, and is open to customise and co-develop specific thermal processes to fit your needs.",
+    "url": "https://tempress.nl/solutions/ts-12-series",
+    "pass": 1
+   },
+   {
+    "quote": "Talk to a thermal processing specialist about process requirements, wafer formats and production volumes.",
+    "url": "https://tempress.nl/solutions/ts-12-series",
+    "pass": 1
+   },
+   {
+    "quote": "sales@tempress-systems.com",
+    "url": "https://tempress.nl/solutions/ts-12-series",
+    "pass": 1
+   },
+   {
+    "quote": "VS200-A/M | Tempress",
+    "url": "https://tempress.nl/solutions/vs200-a-m",
+    "pass": 1
+   },
+   {
+    "quote": "Up to 50 product wafers",
+    "url": "https://tempress.nl/solutions/vs200-a-m",
+    "pass": 1
+   },
+   {
+    "quote": "Flexible footprint, orientation, and cleanroom/gray-room configurations",
+    "url": "https://tempress.nl/solutions/vs200-a-m",
+    "pass": 1
+   },
+   {
+    "quote": "Processes supported on the VS200-A/M",
+    "url": "https://tempress.nl/solutions/vs200-a-m",
+    "pass": 1
+   },
+   {
+    "quote": "An atmospheric diffusion process is a heat treatment in a mostly inert environment which distributes dopants in a silicon, GaAs, InP or other semiconductor wafer to a desired depth, changing the electrical properties of the semiconductor. Sometimes a reactive element such as oxygen is added, consuming silicon and converting it into silicon dioxide (SiO2) for use in many applications.",
+    "url": "https://tempress.nl/solutions/vs200-a-m",
+    "pass": 1
+   },
+   {
+    "quote": "Low Pressure Chemical Vapor Deposition uses a chemical reaction to convert gas phase precursors into useful films. The products of that reaction are deposited on top of the wafer and therefore do not consume atoms from the base material.",
+    "url": "https://tempress.nl/solutions/vs200-a-m",
+    "pass": 1
+   },
+   {
+    "quote": "Tempress offers furnace solutions for various other processes such as wafer splitting (SOI/POI) and polyimide curing, and is open to customise and co-develop specific thermal processes to fit your needs.",
+    "url": "https://tempress.nl/solutions/vs200-a-m",
+    "pass": 1
+   },
+   {
+    "quote": "Talk to a thermal processing specialist about process requirements, wafer formats and production volumes.",
+    "url": "https://tempress.nl/solutions/vs200-a-m",
+    "pass": 1
+   },
+   {
+    "quote": "sales@tempress-systems.com",
+    "url": "https://tempress.nl/solutions/vs200-a-m",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Service, spare parts, retrofits and upgrades — including factory-certified support for legacy platforms",
+    "url": "https://tempress.nl/",
+    "pass": 1
+   },
+   {
+    "quote": "High-volume, flexible manufacturing",
+    "url": "https://tempress.nl/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Tempress furnace platforms for medium and high-volume semiconductor manufacturing can be equipped with integrated boat handler and storage and fully automated cassette-to-cassette wafer handling systems. This reduces reliance on manual operator intervention while delivering a more stable and reliable process yield.",
+    "url": "https://tempress.nl/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Factory-certified spares and upgrades are available for the Watkins-Johnson atmospheric CVD platforms: WJ-999 (3 process chambers for TEOS and hydride processes), WJ-1000 (4 process chambers for TEOS and hydride processes) and WJ-1500 (4 chambers for TEOS processes only).",
+    "url": "https://tempress.nl/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "The Watkins-Johnson systems are legacy platforms. They are not offered as new tools — we supply factory-certified spares, upgrades and service for the installed base.",
+    "url": "https://tempress.nl/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "High-volume, flexible manufacturing",
+    "url": "https://tempress.nl/solutions/ts-6-8-series",
+    "pass": 1
+   },
+   {
+    "quote": "In 2026, Tempress and SPT Microtechnologies joined together to form a global thermal processing solutions provider. The collaboration is backed by Jolt Capital, serving pioneers in semiconductor manufacturing.",
+    "url": "https://tempress.nl/company",
+    "pass": 1
+   },
+   {
+    "quote": "Join a global team of engineers, technicians and specialists who equip leading semiconductor fabs worldwide.",
+    "url": "https://tempress.nl/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our Vaassen headquarters is home to engineering, manufacturing and global support. We are looking for motivated individuals to contribute to advanced technology in a highly specialized environment. Current openings are listed below.",
+    "url": "https://tempress.nl/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Diffusion, oxidation and annealing processes used in silicon wafer manufacturing and epitaxial layer preparation.",
+    "url": "https://tempress.nl/markets",
+    "pass": 1
+   },
+   {
+    "quote": "Thermal processing for bio-MEMS, diagnostic sensors, implantable devices and advanced medical substrates.",
+    "url": "https://tempress.nl/markets",
+    "pass": 1
+   },
+   {
+    "quote": "High-temperature processes for LED manufacturing, including sapphire and compound semiconductor substrates.",
+    "url": "https://tempress.nl/markets",
+    "pass": 1
+   },
+   {
+    "quote": "Tempress supports specialty device manufacturers with configurable diffusion, oxidation, annealing and low-pressure deposition solutions. Horizontal and vertical batch platforms can be adapted to process requirements, wafer formats and production volumes, from process development and pilot lines through established manufacturing.",
+    "url": "https://tempress.nl/markets",
+    "pass": 1
+   },
+   {
+    "quote": "Power semiconductor devices handle high electrical currents or voltages with high efficiency. Diodes, thyristors, MOSFETs and IGBTs are essential to power transmission, renewable energy systems, industrial equipment and the electrification of transport.",
+    "url": "https://tempress.nl/markets",
+    "pass": 1
+   },
+   {
+    "quote": "Microelectromechanical systems typically contain structures between 1 and 100 micrometers and are widely used in accelerometers, gyroscopes, pressure sensors and other precision devices. Related manufacturing methods also create extremely small mechanical parts for applications such as high-end watchmaking.",
+    "url": "https://tempress.nl/markets",
+    "pass": 1
+   },
+   {
+    "quote": "For MEMS manufacturing, Tempress offers LPCVD silicon nitride, low-stress nitride, polysilicon and TEOS processes, together with surface treatment, PECVD, oxidation and annealing solutions. These process capabilities are used by established manufacturers and leading research institutes.",
+    "url": "https://tempress.nl/markets",
+    "pass": 1
+   },
+   {
+    "quote": "Tempress furnace systems are used by internationally recognized institutes and manufacturers to develop and produce photonic devices. Available process solutions include low-loss silicon nitride, polysilicon, thick thermal oxide and carefully controlled annealing for optical layers and device structures.",
+    "url": "https://tempress.nl/markets",
+    "pass": 1
+   },
+   {
+    "quote": "Wafer manufacturers use thermal processing to improve substrate quality, create engineered layers and add value before device fabrication. Annealing, wet and dry oxidation and LPCVD polysilicon are important steps in the production of advanced silicon and compound-material wafers.",
+    "url": "https://tempress.nl/markets",
+    "pass": 1
+   },
+   {
+    "quote": "Tempress supports packaging flows with lower-temperature deposition, annealing and polyimide curing processes. Flexible batch platforms help manufacturers establish repeatable film properties and thermal budgets for passivation, dielectric, bonding and through-silicon-via related applications.",
+    "url": "https://tempress.nl/markets",
+    "pass": 1
+   },
+   {
+    "quote": "The Internet of Things connects physical objects and devices so that their condition, location and use can be measured and acted upon. Applications range from ultra-low-cost identification and supply-chain tracking to sensors and connectivity chips used in phones, vehicles and industrial systems.",
+    "url": "https://tempress.nl/markets",
+    "pass": 1
+   },
+   {
+    "quote": "Light-emitting diodes and related optoelectronic devices are built on compound-semiconductor and engineered substrates that demand stable, repeatable thermal processing. Applications span general lighting, displays, automotive systems, sensing, ultraviolet sources and optical communication.",
+    "url": "https://tempress.nl/markets",
+    "pass": 1
+   },
+   {
+    "quote": "Tempress furnace platforms support annealing, oxidation and deposition steps for LED process development and manufacturing. Flexible temperature control, atmosphere management and batch configurations help address sapphire, silicon and compound-semiconductor substrate requirements.",
+    "url": "https://tempress.nl/markets",
+    "pass": 1
+   },
+   {
+    "quote": "Tempress works with industrial and research partners to adapt diffusion, deposition and controlled-atmosphere heat treatment to new substrates and materials. This collaborative approach helps move emerging processes from laboratory development toward stable, scalable production.",
+    "url": "https://tempress.nl/markets",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "sales@tempress-systems.com",
+    "url": "https://tempress.nl/solutions/ts-6-8-series",
+    "pass": 1
+   },
+   {
+    "quote": "sales@tempress-systems.com",
+    "url": "https://tempress.nl/solutions/ts-12-series",
+    "pass": 1
+   },
+   {
+    "quote": "sales@tempress-systems.com",
+    "url": "https://tempress.nl/solutions/vs200-a-m",
+    "pass": 1
+   },
+   {
+    "quote": "sales@tempress-systems.com",
+    "url": "https://tempress.nl/solutions/vs300-c",
+    "pass": 1
+   },
+   {
+    "quote": "sales@tempress-systems.com",
+    "url": "https://tempress.nl/solutions/avp-ace",
+    "pass": 1
+   },
+   {
+    "quote": "sales@tempress-systems.com",
+    "url": "https://tempress.nl/solutions/rvp-ace",
+    "pass": 1
+   },
+   {
+    "quote": "sales@tempress-systems.com",
+    "url": "https://tempress.nl/solutions/avp-8000-rvp-9000",
+    "pass": 1
+   },
+   {
+    "quote": "sales@tempress-systems.com",
+    "url": "https://tempress.nl/solutions/rvp-300plus-rvp-550",
+    "pass": 1
+   },
+   {
+    "quote": "sales@tempress-systems.com",
+    "url": "https://tempress.nl/company",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Tokyo 194-0001",
+    "url": "https://tempress.nl/company",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Communicate with and educate all employees to have the skills and knowledge to help reduce environmental impact",
+    "url": "https://tempress.nl/company",
+    "pass": 1
+   },
+   {
+    "quote": "Acquired by Amtech. Designed new vertical diffusion furnace.",
+    "url": "https://tempress.nl/company",
+    "pass": 1
+   },
+   {
+    "quote": "Acquisition R2D.",
+    "url": "https://tempress.nl/company",
+    "pass": 1
+   },
+   {
+    "quote": "Our Vaassen headquarters is home to engineering, manufacturing and global support. We are looking for motivated individuals to contribute to advanced technology in a highly specialized environment. Current openings are listed below.",
+    "url": "https://tempress.nl/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Don't see your market listed?",
+    "url": "https://tempress.nl/markets",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Tempress Engineering B.V. Company Profile | Vaassen ... — Find company research, competitor information, contact details & financial data for Tempress Engineering B.V. of Vaassen, Gelderland. Get the latest business insights from Dun & Bradstreet.",
+    "url": "https://www.dnb.com/business-directory/company-profiles.tempress_engineering_bv.4cf0707d6c7bd793685ec478cb01e997.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://tempress.nl/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tempress.nl/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tempress.nl/solutions/ts-6-8-series",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tempress.nl/solutions/ts-12-series",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tempress.nl/solutions/vs200-a-m",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tempress.nl/solutions/vs300-c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tempress.nl/solutions/avp-ace",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tempress.nl/solutions/rvp-ace",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tempress.nl/solutions/avp-8000-rvp-9000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tempress.nl/solutions/rvp-300plus-rvp-550",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tempress.nl/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tempress.nl/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tempress.nl/markets",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://tempress.nl/img/transform/_AUTOxAUTO_crop_center-center_none/wafer-manufacturing.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://tempress.nl/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://expo.semi.org/japan2025/Public/eBooth.aspx?BoothID=663181",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/tempress-systems",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.houjin-bangou.nta.go.jp/en/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan-company.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intuitive.com/ja-jp/about-us/company/legal/corporate-profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinetsu.co.jp/jp/company/network/worldwide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tempress.nl/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tempressinstrument.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/tempress-systems",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tempress.nl/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tempresstech.com/resources/category/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tempresstech.com/resources/case-histories/oil-states-energy-services-thru-tubing-sets-north-american-drill-out-records-in-permian-basin-with-the-hydropull-extended-reach-tool/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pcmag.com/picks/the-best-reseller-web-hosting-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.livechat.com/blog/best-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ongraph.com/white-label-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/266559-31",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fundediq.co/tempress-systems-tempress-nl-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/tempress/431619406",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/tempress",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Tempress Engineering B.V. 日本 導入",
+   "results": [
+    "https://tempress.nl/",
+    "https://www.tempress.nl/company/",
+    "https://expo.semi.org/japan2025/Public/eBooth.aspx?BoothID=663181",
+    "https://jp.linkedin.com/company/tempress-systems",
+    "https://www.sptcorp.com/ja/media-center/divest-spt-microtechnologies-usa-to-tempress/",
+    "https://www.hightechnl.nl/wp-content/uploads/2023/06/tempress-semicon-japan-2022.pdf",
+    "http://astjapan.com/japan/products/tempress.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tempress Engineering B.V. 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.houjin-bangou.nta.go.jp/en/index.html",
+    "https://japan-company.net/",
+    "https://www.intuitive.com/ja-jp/about-us/company/legal/corporate-profile",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/",
+    "https://ipsenglobal.com/ja/about/japan/",
+    "https://www.siemens-energy.com/jp/ja/home.html",
+    "https://www.ti.com/ja-jp/about-ti/contact-us.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tempress Engineering B.V. Japan",
+   "results": [
+    "https://www.tempress.nl/contact/",
+    "https://tempress.nl/",
+    "https://tempressinstrument.com/",
+    "https://jp.linkedin.com/company/tempress-systems",
+    "https://www.dnb.com/business-directory/company-profiles.tempress_engineering_bv.4cf0707d6c7bd793685ec478cb01e997.html",
+    "http://astjapan.com/english/products/tempress.html",
+    "https://www.tempress.dk/distributors"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tempress Engineering B.V. manufacturing customer case study",
+   "results": [
+    "https://tempress.nl/",
+    "https://tempresstech.com/resources/category/case-studies/",
+    "https://tempresstech.com/resources/case-histories/oil-states-energy-services-thru-tubing-sets-north-american-drill-out-records-in-permian-basin-with-the-hydropull-extended-reach-tool/",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://tempress.com/tempress-made-in-the-usa/",
+    "https://vuestar.com/projects/",
+    "https://www.tempress.nl/customer-case/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tempress Engineering B.V. white label OR reseller OR partner program",
+   "results": [
+    "https://www.pcmag.com/picks/the-best-reseller-web-hosting-services",
+    "https://partners.livechat.com/blog/best-reseller-programs/",
+    "https://www.ongraph.com/white-label-software/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://www.text.com/blog/saas-reseller-programs/",
+    "https://catproxies.com/become-reseller",
+    "https://open.spotify.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tempress Engineering B.V. founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/266559-31",
+    "https://fundediq.co/tempress-systems-tempress-nl-funding/",
+    "https://www.zoominfo.com/c/tempress/431619406",
+    "https://compworth.com/company/tempress",
+    "https://rocketreach.co/tempress-profile_b5c18ac3f42e08c6",
+    "https://fundup.ai/recently-funded-startups/company/a409ecbd854329e73f8f7d2bc1978937282a36d76f475ab57ade38ebfcfea511/tempress",
+    "https://gadgetsnow.indiatimes.com/tech-news/tenspresso-explained-why-investors-value-15-ex-google-chip-engineers-at-500-million/articleshow/135655801.cms"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Tempress Engineering B.V.",
+   "results": [
+    "https://note.com/tag/2026年ドラフト",
+    "https://note.com/tag/積読美術館",
+    "https://note.com/tag/ディガー",
+    "https://note.com/seigo77",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/para7mii/n/n036af9e505b2"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Tempress Engineering B.V.",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Tempress Engineering B.V.",
+   "results": [
+    "https://in.linkedin.com/company/tempress-systems",
+    "https://in.linkedin.com/company/tempress",
+    "https://nl.linkedin.com/in/pdegroot/nl",
+    "https://www.linkedin.com/posts/tempress-systems_november-15-18-2022-semicon-europa-holland-activity-6995335392656818176--vfu",
+    "https://www.linkedin.com/company/tempress-solution",
+    "https://nl.linkedin.com/in/tim-jalving-a9148012a",
+    "https://cn.linkedin.com/in/erlau"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Tempress Engineering B.V.",
+   "results": [
+    "https://www.facebook.com/Tempress-systems-BV-191344690883211/",
+    "https://www.facebook.com/Tempress-BV-te-Vaassen-234366300023441/",
+    "https://www.facebook.com/Tempress-Research-104282518515711/",
+    "https://www.facebook.com/elixireng/",
+    "https://www.facebook.com/61591557956457/",
+    "https://www.facebook.com/justkaren13/",
+    "https://lite.facebook.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tempress Engineering B.V. note 社長",
+   "results": [
+    "https://www.tempress.nl/contact/",
+    "https://www.tempress.nl/news/tempress-under-new-ownership/",
+    "https://www.dnb.com/business-directory/company-profiles.tempress_engineering_bv.4cf0707d6c7bd793685ec478cb01e997.html",
+    "https://nl.linkedin.com/in/pdegroot/nl",
+    "https://rocketreach.co/tempress-management_b5c18ac3f42e08c6",
+    "https://www.datocapital.nl/companies/Tempress-Engineering-Bv.html",
+    "https://tempress.com/about-us/presidentceo400a/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tempress Engineering B.V. X 投稿",
+   "results": [
+    "https://tempress.nl/",
+    "https://www.tempress.nl/news/tempress-under-new-ownership/",
+    "https://cn.linkedin.com/company/tempress-systems",
+    "https://www.fme.nl/onze-leden/tempress-engineering-bv",
+    "https://www.dnb.com/business-directory/company-profiles.tempress_engineering_bv.4cf0707d6c7bd793685ec478cb01e997.html",
+    "https://www.tempress.dk/news",
+    "https://www.sptcorp.com/ja/media-center/divest-spt-microtechnologies-usa-to-tempress/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部22頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部22頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部22頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部22頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部22頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部22頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部22頁・検索12回）"
+ }
+}

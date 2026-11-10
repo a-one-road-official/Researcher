@@ -1,0 +1,612 @@
+{
+ "name": "機械電子研究所",
+ "aliases": [],
+ "context": "PBF=unknown 装置= 出典=https://www.fitc.pref.fukuoka.jp/jinzai-ikusei/d_5.php",
+ "researched_at": "2026-11-10T19:17:35.759045+00:00",
+ "official_url": "https://www.fitc.pref.fukuoka.jp/",
+ "identified_by": "search:ddgs:google:機械電子研究所",
+ "profile": {},
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "最新シミュレーションソフト「Simcenter」導入に伴うオープニングセミナーを開催！（福岡県庁HPに移動します）",
+    "url": "https://www.fitc.pref.fukuoka.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "IoT導入支援キットVer.4 Raspberry Pi 4B版及びWindows PC版 Ver.4.5.0を公開しました",
+    "url": "https://www.fitc.pref.fukuoka.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "IoT導入支援キットVer.4 Raspberry Pi 4B版及びWindows PC版 Ver.4.4.2を公開しました",
+    "url": "https://www.fitc.pref.fukuoka.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "IoT導入支援キットVer.4.4.1 Windows PC版がファイル破損によりダウンロードできない不具合を修正しました",
+    "url": "https://www.fitc.pref.fukuoka.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "IoT導入支援キットVer.4 Raspberry Pi 4B版及びWindows PC版 Ver.4.4.1を公開しました",
+    "url": "https://www.fitc.pref.fukuoka.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "IoT導入支援キットVer.4 Raspberry Pi 4B版及びWindows PC版 Ver.4.4.0を公開しました",
+    "url": "https://www.fitc.pref.fukuoka.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "IoT導入支援キットVer.4 Raspberry Pi 4B版及びWindows PC版 Ver.4.3.0を公開しました",
+    "url": "https://www.fitc.pref.fukuoka.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "IoT導入支援キットVer.4 Raspberry Pi 4B版及びWindows PC版 Ver.4.2.2を公開しました",
+    "url": "https://www.fitc.pref.fukuoka.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "IoT導入支援キットVer.4 Raspberry Pi 4B版及びWindows PC版 Ver.4.2.1を公開しました",
+    "url": "https://www.fitc.pref.fukuoka.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "IoT導入支援キットVer.4 Raspberry Pi 4B版及びWindows PC版 Ver.4.2.0を公開しました",
+    "url": "https://www.fitc.pref.fukuoka.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "IoT導入支援キットVer.4 Raspberry Pi 4B版及びWindows PC版 Ver.4.1.0を公開しました",
+    "url": "https://www.fitc.pref.fukuoka.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "IoT導入支援キットVer.4 Raspberry Pi 4B版及びWindows PC版 Ver.4.0.3を公開しました",
+    "url": "https://www.fitc.pref.fukuoka.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "IoT導入支援キットVer.4 Raspberry Pi 4B版及びWindows PC版 Ver.4.0.2を公開しました",
+    "url": "https://www.fitc.pref.fukuoka.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "IoT導入支援キット Ver.4 を公開しました",
+    "url": "https://www.fitc.pref.fukuoka.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【予告】「1/16（木) IoT導入支援キットVer.4の公開開始予定日」のご案内",
+    "url": "https://www.fitc.pref.fukuoka.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "IoT導入支援キットをVer.3.0.4にリビジョンアップしました",
+    "url": "https://www.fitc.pref.fukuoka.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「IoT導入支援キット Ver.3」 & 「YokaKit」等、無償提供開始のご案内",
+    "url": "https://www.fitc.pref.fukuoka.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "中小企業デジタル化支援事業 令和5年度「新規導入設備オープニングセミナー」 レーザ加工関連設備3機種",
+    "url": "https://www.fitc.pref.fukuoka.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「フラッシュ法熱物性測定システムのご紹介」新規導入設備オープニングセミナーのご案内",
+    "url": "https://www.fitc.pref.fukuoka.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "『「おいしく長持ちする食品の開発」に関する新規導入設備紹介及び技術セミナー』についてのお知らせ",
+    "url": "https://www.fitc.pref.fukuoka.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "令和7年度導入・公開備品一覧",
+    "url": "https://www.fitc.pref.fukuoka.jp/facility/setsubi/",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年度導入・公開備品一覧",
+    "url": "https://www.fitc.pref.fukuoka.jp/facility/setsubi/",
+    "pass": 1
+   },
+   {
+    "quote": "令和5年度導入・公開備品一覧",
+    "url": "https://www.fitc.pref.fukuoka.jp/facility/setsubi/",
+    "pass": 1
+   },
+   {
+    "quote": "令和4年度導入・公開備品一覧",
+    "url": "https://www.fitc.pref.fukuoka.jp/facility/setsubi/",
+    "pass": 1
+   },
+   {
+    "quote": "令和3年度導入・公開備品一覧",
+    "url": "https://www.fitc.pref.fukuoka.jp/facility/setsubi/",
+    "pass": 1
+   },
+   {
+    "quote": "令和2年度導入・公開備品一覧",
+    "url": "https://www.fitc.pref.fukuoka.jp/facility/setsubi/",
+    "pass": 1
+   },
+   {
+    "quote": "『「おいしく長持ちする食品の開発」に関する新規導入設備紹介及び技術セミナー』についてのお知らせ | 福岡県工業技術センター",
+    "url": "https://www.fitc.pref.fukuoka.jp/jinzai-ikusei/post_5.php",
+    "pass": 1
+   },
+   {
+    "quote": "『「おいしく長持ちする食品の開発」に関する新規導入設備紹介及び技術セミナー』についてのお知らせ",
+    "url": "https://www.fitc.pref.fukuoka.jp/jinzai-ikusei/post_5.php",
+    "pass": 1
+   },
+   {
+    "quote": "設備機器利用の詳細につきましては設備を保有する技術課、または各研究所の",
+    "url": "https://www.fitc.pref.fukuoka.jp/facility/setsubi-siyou-flow/",
+    "pass": 1
+   },
+   {
+    "quote": "使用したい機器を保有する技術課（または各総合支援室）へご連絡（電話、メール等）いただき、「どの様な目的のためにその機器を使用するのか」、「使用希望日時」等をお伝えください",
+    "url": "https://www.fitc.pref.fukuoka.jp/facility/setsubi-siyou-flow/",
+    "pass": 1
+   },
+   {
+    "quote": "機器保有技術課より、機器予約状況や職員のスケジュール等を確認し、利用可能日時を回答致します",
+    "url": "https://www.fitc.pref.fukuoka.jp/facility/setsubi-siyou-flow/",
+    "pass": 1
+   },
+   {
+    "quote": "そこで、これらの導入設備の紹介と、内食向け食品開発に重要な食品衛生管理（主に温度",
+    "url": "https://www.fitc.pref.fukuoka.jp/jinzai-ikusei/r4_shokuhin_oishikunagamochi.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "令和４年１１月３０日開催： 「おいしく長持ちする食品の開発」に関する新規導入設備紹介及び技術セミナー",
+    "url": "https://www.fitc.pref.fukuoka.jp/jinzai-ikusei/r4_shokuhin_oishikunagamochi.pdf",
+    "pass": 2
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "『金属粉末造形技術関連設備オープニングセミナー』 についてのお知らせ",
+    "url": "https://www.fitc.pref.fukuoka.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "13:20～13:30 「食品粉末加工システム」紹介及び当所の内食向け食品開発支援について",
+    "url": "https://www.fitc.pref.fukuoka.jp/jinzai-ikusei/r4_shokuhin_oishikunagamochi.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「食品粉末加工システム」（ハンマーミル、スプレードライヤー、集塵機）、「食品成分マ",
+    "url": "https://www.fitc.pref.fukuoka.jp/jinzai-ikusei/r4_shokuhin_oishikunagamochi.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「食品粉末加工システム」 「食品長期安定加工システム」 「食品成分マルチ分析システム」",
+    "url": "https://www.fitc.pref.fukuoka.jp/jinzai-ikusei/r4_shokuhin_oishikunagamochi.pdf",
+    "pass": 2
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "「自動車のEV化に関する講演会」(12/11開催)のご案内",
+    "url": "https://www.fitc.pref.fukuoka.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【福岡県金型研究会】『モノづくりフェア2022への出展』 についてのお知らせ",
+    "url": "https://www.fitc.pref.fukuoka.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "依頼試験・設備使用 | 福岡県工業技術センター",
+    "url": "https://www.fitc.pref.fukuoka.jp/facility/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 | 会社情報 | JEOL 日本電子株式会社機械電子研究所 | 福岡県工業技術センター会社概要 | 会社情報 | オムロン株式会社 - Omron会社概要 - 株式会社計測技術研究所会社概要・沿革 - メック株式会社会社概要 | アンリツグループ - Anritsu会社概要 | 企業情報 | 株式会社放電精密加工研究所（HSK） — 日本電子 (JEOL) の企業情報をご紹介。電子顕微鏡 (TEM,SEM) 、核磁気共鳴装置 (NMR) や質量分析装置 (MS) などの理科学計測機器・半導体関連機器・産業機器をグローバルに展開。総合ソリューションを提供します。 機械電子研究所 金属系材料及び機械・電子技術の基幹研究所 〒807-0831 北九州市八幡西区則松3-6-1 電話番号： 093-691-0260 (代表) FAX：093-691-0252 技術相談はこちら 電話番号： ",
+    "url": "https://www.jeol.co.jp/corporate/outline/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "機械電子研究所 | 福岡県工業技術センター — 機械電子研究所 金属系材料及び機械・電子技術の基幹研究所 〒807-0831 北九州市八幡西区則松3-6-1 電話番号： 093-691-0260 (代表) FAX：093-691-0252 技術相談はこちら 電話番号： 093-691-0231 （技術総合支援室） アクセス方法はこちらへ 紹介パンフレット[PDF：1.21MB]",
+    "url": "https://www.fitc.pref.fukuoka.jp/center/org/meri/",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形装置 | 福岡県工業技術センター研究設備の紹介 - nims.go.jp機械電子研究所 | 福岡県工業技術センター金属積層造形のトータルソリューションサービス金属積層造形｜同種・異種金属の接合、積層造形など、金属に関する受...三次元金属積層造形機｜株式会社明楽（公式ホームページ）|三重県員弁...金属3D積層造形機（ZK Series） [芝浦機械] — 本設備は、レーザー光によって金属の造形や加工を行う「金属3Dプリンタ」です。造形方式として「LMD（レーザー・メタル・デポジション）方式」を採用しており、ベースプレート上への造形に加え、既存の金属部品への付加造形を行うことができます。 研究設備の紹介 電子ビーム金属3Dプリンター （日本電子株式会社製 JAM-5200EBM） パウダーベッド方式 (粉末床溶融結合)、造形範囲最大 φ250 mm × 400 mm (H)、電",
+    "url": "https://www.fitc.pref.fukuoka.jp/facility/setsubi/dep-list/meri/kinzoku-sekisou-zoukei.php",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "中井 太地 - 研究職員 | LinkedInDaichi Nakai - researcher | LinkedIn工研院電光系統所 ITRI EOSL | LinkedIn林韋傑 - AI工程師 | LinkedInErica Meyer - Ullring - Corpay | LinkedInHannah Melotto - Melotto Group | LinkedIn岡田 亮二 - 会社員 | LinkedIn 研究職員 · 専門分野：輸送包装(key words: 輸送環境調査,振動試験, JIS Z0200-包装貨物試験) 趣味: 画像処理 · 職歴: 福岡県工業技術センター 機械電子研究所 · 学歴: Kobe University · 場所: 日本 · LinkedInのつながり164人。10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで",
+    "url": "https://jp.linkedin.com/in/太地-中井-7bb307147",
+    "pass": 3
+   },
+   {
+    "quote": "中井 太地 - 研究職員 | LinkedIn研究所板最新文章與話題 | Dcard機械轉考電機研究所 心得 - 研究所板 | Dcard 研究職員 · 専門分野：輸送包装(key words: 輸送環境調査,振動試験, JIS Z0200-包装貨物試験) 趣味: 画像処理 · 職歴: 福岡県工業技術センター 機械電子研究所 · 学歴: Kobe University · 場所: 日本 · LinkedInのつながり164人。10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで中井 ... 碩士畢業後 工作狀況分享 今天是碩士畢業後第四個月，年薪成長65%，晉升到要繳稅的階級，所以補學歷還是有用的，（但還是要看你選擇的產業跟職位），這兩年念研究所，我最後一份工作的地方，一年調薪$600，分享給正在努力準備研究所的 1 國立成功大學 1 ... Apr 13, 2",
+    "url": "https://jp.linkedin.com/in/太地-中井-7bb307147",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "機械電子研究所 機械電子研究所",
+    "url": "https://www.facebook.com/pages/機械電子研究所/357049284338182/",
+    "pass": 3
+   },
+   {
+    "quote": "福岡県工業技術センター機械電子研究所 福岡県工業技術センター機械電子研究所",
+    "url": "https://www.facebook.com/福岡県工業技術センター機械電子研究所-455371560998518/",
+    "pass": 3
+   },
+   {
+    "quote": "福岡県ものづくり中小企業推進会議 - Facebook Nov 7, 2023 · AI・IOTの取り組み」 ・福岡県工業技術センター機械電子研究所 電子技術課：渡邉 恭弘 氏、田口 智之 氏 ・IOTの事例紹介： (株)勝山工作所 管理部 井上 幸子 氏 ・AIの事例紹介： ロケット石鹼 (株) 代表取締役社長 加藤 謙太郎 氏 ・生産進捗管理システムの ...",
+    "url": "https://www.facebook.com/福岡県ものづくり中小企業推進会議-1392811237499855/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.fitc.pref.fukuoka.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fitc.pref.fukuoka.jp/facility/setsubi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fitc.pref.fukuoka.jp/jinzai-ikusei/post_5.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fitc.pref.fukuoka.jp/facility/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fitc.pref.fukuoka.jp/facility/setsubi-siyou-flow/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fitc.pref.fukuoka.jp/news/post_120.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fitc.pref.fukuoka.jp/news/post_119.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fitc.pref.fukuoka.jp/news/x_2.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fitc.pref.fukuoka.jp/jinzai-ikusei/post_68.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fitc.pref.fukuoka.jp/news/post_81.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fitc.pref.fukuoka.jp/news/kanrenkikan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fitc.pref.fukuoka.jp/jinzai-ikusei/post_50.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fitc.pref.fukuoka.jp/jinzai-ikusei/post_47.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fitc.pref.fukuoka.jp/facility/setsubi/search/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.fitc.pref.fukuoka.jp/news/2024_mono_webseminor.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fitc.pref.fukuoka.jp/jinzai-ikusei/r4_shokuhin_oishikunagamochi.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.jeol.co.jp/corporate/outline/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omron.com/jp/ja/about/corporate/outline/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-steel.co.jp/products/solution/metal-3d-printing/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E8%8A%9D%E6%B5%A6%E3%83%A1%E3%82%AB%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsubishielectric.co.jp/investors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.co.jp/quote/4971.T/profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mki.co.jp/company/profile/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp242400/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/太地-中井-7bb307147",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/機械電子研究所/357049284338182/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/福岡県工業技術センター機械電子研究所-455371560998518/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/福岡県ものづくり中小企業推進会議-1392811237499855/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/太地-中井-7bb307147",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "機械電子研究所",
+   "results": [
+    "https://ja.wikipedia.org/wiki/機械知能研究所",
+    "https://www.fitc.pref.fukuoka.jp/jinzai-ikusei/meri/",
+    "https://valuevillage.jp/industry/fukuoka/ind-fukuoka-ind-054",
+    "https://map.yahoo.co.jp/v3/place/qcZx_9_FBq6",
+    "https://www.fitc.pref.fukuoka.jp/center/org/meri/",
+    "https://www.pref.fukuoka.lg.jp/soshiki/608105/",
+    "https://jiss.ist.or.jp/【福岡emcスクール2025】　emc対策基礎セミナー受講者募/",
+    "https://www.itri.org.tw/english/index.aspx"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "機械電子研究所 会社概要 資本金 設立",
+   "results": [
+    "https://www.jeol.co.jp/corporate/outline/about.html",
+    "https://www.fitc.pref.fukuoka.jp/center/org/meri/",
+    "https://www.omron.com/jp/ja/about/corporate/outline/",
+    "https://www.keisoku.co.jp/company/outline/",
+    "https://www.mec-co.com/company/profile/",
+    "https://www.hsk.co.jp/ja/company/about.html",
+    "https://www.anritsu.com/ja-jp/about-anritsu/corporate-information/profile"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "機械電子研究所 金属3Dプリンタ 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "機械電子研究所 金属積層造形 設備",
+   "results": [
+    "https://www.fitc.pref.fukuoka.jp/facility/setsubi/dep-list/meri/kinzoku-sekisou-zoukei.php",
+    "https://www.fitc.pref.fukuoka.jp/center/org/meri/",
+    "https://www.jfe-steel.co.jp/products/solution/metal-3d-printing/index.html",
+    "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "https://www.meiraku.net/pages/64",
+    "https://www.nims.go.jp/cccenter/ismg/equipments.html",
+    "https://www.shibaura-machine.co.jp/jp/product/additive/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "機械電子研究所 株主 出資 親会社",
+   "results": [
+    "https://ja.wikipedia.org/wiki/芝浦メカトロニクス",
+    "https://www.mitsubishielectric.co.jp/investors/",
+    "https://finance.yahoo.co.jp/quote/4971.T/profile",
+    "https://www.mitsubishielectric.co.jp/investors/stock/info/",
+    "https://www.hitachi.com/ja-jp/about/group-japan/",
+    "https://www.mki.co.jp/company/profile/outline.html",
+    "https://www.mec-co.com/ir/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "機械電子研究所 売上高 従業員数",
+   "results": [
+    "https://www.fitc.pref.fukuoka.jp/center/org/meri/",
+    "https://www.mki.co.jp/company/profile/outline.html",
+    "https://job.mynavi.jp/27/pc/search/corp242400/outline.html",
+    "https://www.pasco.co.jp/corporate/about/",
+    "https://www.tmeic.co.jp/saiyou/newgrads/infographics/",
+    "https://job.mynavi.jp/28/pc/search/corp242400/outline.html",
+    "https://www.keyence.co.jp/company/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 機械電子研究所",
+   "results": [
+    "https://note.com/",
+    "https://note.com/gokaku_inshi0320/n/n00d7824f5d6f",
+    "https://tales.note.com/pastatanaka/w9szb43yn16sk",
+    "https://tales.note.com/manuka/w8w6rgzxbqf26/episodes/ejk9w57af0pju",
+    "https://note.com/daigakuin_exam/n/n08fa8cbe028f",
+    "https://note.com/gokaku_inshi0320/n/nae4b0c3ae8f1",
+    "https://note.com/tuatdaizukan/n/nacad138e6e5e"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 機械電子研究所",
+   "results": [
+    "https://x.com/MercuriusVtuber",
+    "https://x.com/SonobeYukihiro",
+    "https://x.com/AIST_JP",
+    "https://x.com/ToyamaYj",
+    "https://x.com/prof_nogita",
+    "https://x.com/YA2020_PEjp",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 機械電子研究所",
+   "results": [
+    "https://jp.linkedin.com/in/太地-中井-7bb307147",
+    "https://jp.linkedin.com/in/太地-中井-7bb307147/en",
+    "https://tw.linkedin.com/company/eosl",
+    "https://tw.linkedin.com/in/韋傑-林-93533629b",
+    "https://www.linkedin.com/in/meyerullring",
+    "https://www.linkedin.com/in/melotto",
+    "https://jp.linkedin.com/in/亮二-岡田-b4033b166"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 機械電子研究所",
+   "results": [
+    "https://www.facebook.com/pages/機械電子研究所/357049284338182/",
+    "https://www.facebook.com/福岡県工業技術センター機械電子研究所-455371560998518/",
+    "https://www.facebook.com/koubutsuhan.petalite/",
+    "https://www.facebook.com/福岡県ものづくり中小企業推進会議-1392811237499855/",
+    "https://www.facebook.com/yukihiro.sonobe.1/",
+    "https://www.facebook.com/1gimigan/",
+    "https://www.facebook.com/winjet0221/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "機械電子研究所 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.fitc.pref.fukuoka.jp/center/org/meri/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://yokotablog.com/sadaaki-kato-profile/",
+    "https://www.fitc.pref.fukuoka.jp/jinzai-ikusei/meri/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://note.jp/n/neb4da3c9a8b5"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "機械電子研究所 X 投稿",
+   "results": [
+    "https://www.fitc.pref.fukuoka.jp/center/org/meri/",
+    "https://www.fitc.pref.fukuoka.jp/jinzai-ikusei/meri/",
+    "https://jp.linkedin.com/in/太地-中井-7bb307147",
+    "https://x.com/SonobeYukihiro",
+    "http://www.sonobe-kiden.jp/",
+    "https://www.dcard.tw/f/graduate_school?tab=latest",
+    "https://www.dcard.tw/f/graduate_school/p/235758370"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部13頁・検索12回）",
+  "資本金": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部13頁・検索12回）",
+  "創業年度": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部13頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部13頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部13頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部13頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部13頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部13頁・検索12回）",
+  "資本金・株主": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部13頁・検索12回）"
+ }
+}
