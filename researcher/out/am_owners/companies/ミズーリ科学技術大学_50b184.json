@@ -1,0 +1,462 @@
+{
+ "name": "ミズーリ科学技術大学",
+ "aliases": [],
+ "context": "PBF=yes 装置=SLM500;ニコンSLM 出典=https://sekapri.com/medical_education/20251009-19944/",
+ "researched_at": "2026-11-10T17:03:44.917880+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {},
+ "evidence": {
+  "用途・客の産業": [
+   {
+    "quote": "この学科は、空気力学、推進システム、宇宙システムに関する厳格な講義と研究を通して、航空宇宙および防衛産業でのキャリアを目指す学生を育成します",
+    "url": "https://www.uni4edu.com/ja/university/missouri-university-of-science-and-technology",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙工学 / 化学工学 / 土木工学 /",
+    "url": "https://www.studyabroad.co.jp/univ/america/missouri-university-of-science-and-technology",
+    "pass": 3
+   },
+   {
+    "quote": "WarpSPEE3Dは、キャンパス内の航空宇宙製造技術センターに設置され、2025年にオープンする新しいミズーリ・プロトプレックスで展示される予定です",
+    "url": "https://www.spee3d.com/ja/spee3d%E3%81%8C%E3%83%9F%E3%82%BA%E3%83%BC%E3%83%AA%E5%A4%A7%E5%AD%A6st%E3%81%A8%E6%8F%90%E6%90%BA%E3%81%97%E3%80%81%E9%87%91%E5%B1%9Eam%E6%8A%80%E8%A1%93%E3%82%92%E5%AD%A6%E7%94%9F%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "この最新鋭施設は、新素材の研究、新しい製造プロセスの試作とテスト、労働力の能力開発、統合されたサイバー・フィジカル製造システムの実用化に必要な多分野の問題を解決するハブとして機能し、企業と学界の地域製造ニーズを融合する",
+    "url": "https://www.spee3d.com/ja/spee3d%E3%81%8C%E3%83%9F%E3%82%BA%E3%83%BC%E3%83%AA%E5%A4%A7%E5%AD%A6st%E3%81%A8%E6%8F%90%E6%90%BA%E3%81%97%E3%80%81%E9%87%91%E5%B1%9Eam%E6%8A%80%E8%A1%93%E3%82%92%E5%AD%A6%E7%94%9F%E3%81%A8/",
+    "pass": 3
+   }
+  ],
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "and Economic Development",
+    "url": "https://www.studyabroad.co.jp/univ/america/missouri-university-of-science-and-technology",
+    "pass": 3
+   },
+   {
+    "quote": "当社はミズーリ科学技術大学（S&T）と提携し、当社の金属積層造形技術を同校の",
+    "url": "https://www.spee3d.com/ja/spee3d%E3%81%8C%E3%83%9F%E3%82%BA%E3%83%BC%E3%83%AA%E5%A4%A7%E5%AD%A6st%E3%81%A8%E6%8F%90%E6%90%BA%E3%81%97%E3%80%81%E9%87%91%E5%B1%9Eam%E6%8A%80%E8%A1%93%E3%82%92%E5%AD%A6%E7%94%9F%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "WarpSPEE3Dは、特許取得済みのSPEE3D技術を使用した世界初の大判金属3Dプリンターで、従来の製造よりも大幅に高速でスケーラブルな生産を可能にします",
+    "url": "https://www.spee3d.com/ja/spee3d%E3%81%8C%E3%83%9F%E3%82%BA%E3%83%BC%E3%83%AA%E5%A4%A7%E5%AD%A6st%E3%81%A8%E6%8F%90%E6%90%BA%E3%81%97%E3%80%81%E9%87%91%E5%B1%9Eam%E6%8A%80%E8%A1%93%E3%82%92%E5%AD%A6%E7%94%9F%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "「製造業の学界は、将来の労働力を育成し、現実のサプライチェーンビジネスニーズに対応するため、積層造形などの新技術を急速に導入しています",
+    "url": "https://www.spee3d.com/ja/spee3d%E3%81%8C%E3%83%9F%E3%82%BA%E3%83%BC%E3%83%AA%E5%A4%A7%E5%AD%A6st%E3%81%A8%E6%8F%90%E6%90%BA%E3%81%97%E3%80%81%E9%87%91%E5%B1%9Eam%E6%8A%80%E8%A1%93%E3%82%92%E5%AD%A6%E7%94%9F%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の金属積層造形アプリケーションを実現するお手伝いをする準備が整っています",
+    "url": "https://www.spee3d.com/ja/spee3d%E3%81%8C%E3%83%9F%E3%82%BA%E3%83%BC%E3%83%AA%E5%A4%A7%E5%AD%A6st%E3%81%A8%E6%8F%90%E6%90%BA%E3%81%97%E3%80%81%E9%87%91%E5%B1%9Eam%E6%8A%80%E8%A1%93%E3%82%92%E5%AD%A6%E7%94%9F%E3%81%A8/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ミズーリ科学技術大学 - Uni4Edu — ミズーリ科学技術大学 - Uni4Edu Uni4Edu https://www.uni4edu.com > university > missouri-universi...",
+    "url": "https://www.uni4edu.com/ja/university/missouri-university-of-science-and-technology",
+    "pass": 3
+   },
+   {
+    "quote": "ミズーリ科学技術大学 (Missouri University of Science and ... — ミズーリ科学技術大学 (Missouri University of Science and ... 成功する留学 https://www.studyabroad.co.jp > ... > アメリカの大学一覧",
+    "url": "https://www.studyabroad.co.jp/univ/america/missouri-university-of-science-and-technology",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "クリスチャン ニコラス - ミズーリ科学技術大学 で原子力工学の ... クリスチャン ニコラス - ミズーリ科学技術大学 で原子力工学の ... LinkedIn https://jp.linkedin.com > ...",
+    "url": "https://jp.linkedin.com/in/nicholas-christian-35601124b/ja",
+    "pass": 3
+   },
+   {
+    "quote": "クリスチャン ニコラス - ミズーリ科学技術大学で原子力工学の学士号...ミズーリ科学技術大学(Missouri University of Science and Technolog...ミズーリ科学技術大学ミズーリ科学技術大学のレビューとよくある質問 概要 ミズーリ科学技術大学で原子力工学の学士号を取得した起業家志向の油田エンジニア兼プロジェクト マネージャー。 多国籍の乗組員を監督するために、7か国以上で海外に住み、働いているキャリア。 新しいスキルを学ぶ適応性。 Missouri S&Tは1870年に創立された、STEM教育に特化した州立大学です。 NY Timesの「高価値大学リスト」で 全米8位 、DegreeChoicesの「卒業後の経済的成功」で 全米18位 にランクインするなど、教育の質に対する投資対効果が極めて高い大学として知られています。 南北戦争と再建をめぐる議論で",
+    "url": "https://jp.linkedin.com/in/nicholas-christian-35601124b/ja",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.uni4edu.com/ja/university/missouri-university-of-science-and-technology",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ryugaku.ne.jp/search/data?ipeds=178411",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.studyabroad.co.jp/univ/america/missouri-university-of-science-and-technology",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spee3d.com/ja/spee3d%E3%81%8C%E3%83%9F%E3%82%BA%E3%83%BC%E3%83%AA%E5%A4%A7%E5%AD%A6st%E3%81%A8%E6%8F%90%E6%90%BA%E3%81%97%E3%80%81%E9%87%91%E5%B1%9Eam%E6%8A%80%E8%A1%93%E3%82%92%E5%AD%A6%E7%94%9F%E3%81%A8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://3druck.com/ja/%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81/%E3%83%A1%E3%82%A4%E3%82%AB%E3%83%BC%E3%82%BA%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.3dsystems.com/semiconductor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/column/column_1249/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cmp.co.jp/library/pdf/finance/2019-ren-2q.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.skymark.co.jp/ja/company/investor/120330_press.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/1000089.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.uni4edu.com/ja/university/missouri-university-of-science-and-technology",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ryugaku.ne.jp/search/data?ipeds=178411",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.studyabroad.co.jp/univ/america/missouri-university-of-science-and-technology",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/nicholas-christian-35601124b/ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/nicholas-christian-35601124b/ja",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ミズーリ科学技術大学",
+   "results": [
+    "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%BA%E3%83%BC%E3%83%AA%E5%B7%A5%E7%A7%91%E5%A4%A7%E5%AD%A6",
+    "https://www.ryugaku.ne.jp/search/data?ipeds=178411",
+    "https://www.studyabroad.co.jp/univ/america/missouri-university-of-science-and-technology",
+    "https://www.mst.edu/",
+    "https://www.uni4edu.com/ja/university/missouri-university-of-science-and-technology",
+    "https://www.timeshighereducation.com/world-university-rankings/missouri-university-science-and-technology",
+    "https://www.princetonreview.com/college/missouri-university-science-technology-1023622?ceid=cp-1023382",
+    "https://www.universityguru.jp/daigaku/missouri-university-of-science-and-technology-rolla",
+    "https://www.instagram.com/missourisandt/?hl=ja",
+    "https://ja.wikipedia.org/wiki/ミズーリ工科大学"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "株式会社ミズーリ科学技術大学",
+   "results": [
+    "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%BA%E3%83%BC%E3%83%AA%E5%B7%A5%E7%A7%91%E5%A4%A7%E5%AD%A6",
+    "https://www.ryugaku.ne.jp/search/data?ipeds=178411",
+    "https://www.mst.edu/",
+    "https://www.uni4edu.com/ja/university/missouri-university-of-science-and-technology",
+    "https://www.studyabroad.co.jp/univ/america/missouri-university-of-science-and-technology",
+    "https://www.timeshighereducation.com/world-university-rankings/missouri-university-science-and-technology",
+    "https://www.princetonreview.com/college/missouri-university-science-technology-1023622?ceid=cp-1023382",
+    "https://weekendseek.com/ja/ex/missouri/mo-longwell-museum-5909106d.html",
+    "https://globale3.studioabroad.com/index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10182",
+    "https://ja.wikipedia.org/wiki/ミズーリ工科大学"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ミズーリ科学技術大学 株式会社",
+   "results": [
+    "https://www.uni4edu.com/ja/university/missouri-university-of-science-and-technology",
+    "https://www.ryugaku.ne.jp/search/data?ipeds=178411",
+    "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%BA%E3%83%BC%E3%83%AA%E5%B7%A5%E7%A7%91%E5%A4%A7%E5%AD%A6",
+    "https://www.studyabroad.co.jp/univ/america/missouri-university-of-science-and-technology",
+    "https://baike.baidu.com/ja/item/%E3%83%9F%E3%82%BA%E3%83%BC%E3%83%AA%E5%A4%A7%E5%AD%A6/1124645",
+    "https://ja.uni24k.com/u/16606/",
+    "https://mi-association.com/archives/225",
+    "https://www.ryugaku.or.jp/usa/university/u_missouri_kansas_city/",
+    "https://weekendseek.com/ja/ex/missouri/mo-longwell-museum-5909106d.html",
+    "https://ja.wikipedia.org/wiki/ミズーリ工科大学"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ミズーリ科学技術大学 会社概要 資本金 設立",
+   "results": [
+    "https://www.uni4edu.com/ja/university/missouri-university-of-science-and-technology",
+    "https://www.ryugaku.ne.jp/search/data?ipeds=178411",
+    "https://www.studyabroad.co.jp/univ/america/missouri-university-of-science-and-technology",
+    "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%BA%E3%83%BC%E3%83%AA%E5%B7%A5%E7%A7%91%E5%A4%A7%E5%AD%A6",
+    "https://baike.baidu.com/ja/item/%E3%83%9F%E3%82%BA%E3%83%BC%E3%83%AA%E5%A4%A7%E5%AD%A6/1124645",
+    "https://ja.uni24k.com/u/16606/",
+    "https://www.rcast.u-tokyo.ac.jp/ja/about/history_index.html",
+    "https://www.jst.go.jp/program/startupkikin/files/deeptech/pr_miraisozo.pdf",
+    "https://job.mynavi.jp/28/pc/search/corp273896/outline.html",
+    "https://ja.wikipedia.org/wiki/ミズーリ工科大学"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "ミズーリ科学技術大学 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.spee3d.com/ja/spee3d%E3%81%8C%E3%83%9F%E3%82%BA%E3%83%BC%E3%83%AA%E5%A4%A7%E5%AD%A6st%E3%81%A8%E6%8F%90%E6%90%BA%E3%81%97%E3%80%81%E9%87%91%E5%B1%9Eam%E6%8A%80%E8%A1%93%E3%82%92%E5%AD%A6%E7%94%9F%E3%81%A8/",
+    "https://news.sharelab.jp/category/3dp-news/metal-3dprinter/",
+    "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://www.youtube.com/watch?v=Byfy7tsLawE",
+    "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/the-future-of-metal-3d-printing",
+    "https://www.manufacturing-world.jp/hub/ja-jp/blog/article11.html",
+    "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "https://www.nagaokaut.ac.jp/academics/dxrmoic/assets/20250314170037.pdf",
+    "https://ja.wikipedia.org/wiki/ミズーリ工科大学"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "ミズーリ科学技術大学 金属積層造形 設備",
+   "results": [
+    "https://3druck.com/ja/%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81/%E3%83%A1%E3%82%A4%E3%82%AB%E3%83%BC%E3%82%BA%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96/",
+    "https://ja.3dsystems.com/semiconductor",
+    "https://jampt.jp/column/column_1249/",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-sankoushiryousyu.pdf",
+    "https://news.sharelab.jp/category/3dp-news/metal-3dprinter/",
+    "https://www.dmgmori.co.jp/sp/am/",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://www.youtube.com/watch?v=sT3lR9R98hc",
+    "https://chuokatan.co.jp/products/3dp/",
+    "https://ja.wikipedia.org/wiki/ミズーリ工科大学"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "ミズーリ科学技術大学 株主 出資 親会社",
+   "results": [
+    "https://www.cmp.co.jp/ir/news/ir_news/20181031.html",
+    "https://www.skymark.co.jp/ja/company/investor/120330_press.pdf",
+    "https://www.meti.go.jp/meti_lib/report/2024FY/1000089.pdf",
+    "https://the-shashi.com/tse/9962/decisions/",
+    "https://www.chicago.us.emb-japan.go.jp/files/000310202.pdf",
+    "https://www.cas.go.jp/jp/seisaku/fund_kkk/dai12/siryou1.pdf",
+    "https://www.toyoda-gosei.co.jp/csr/gri/pdf/TGDATA.pdf",
+    "https://www.integralkk.com/portfolio/",
+    "https://midascapital.jp/portfolios",
+    "https://ja.wikipedia.org/wiki/ミズーリ工科大学"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "ミズーリ科学技術大学 売上高 従業員数",
+   "results": [
+    "https://www.uni4edu.com/ja/university/missouri-university-of-science-and-technology",
+    "https://www.ryugaku.ne.jp/search/data?ipeds=178411",
+    "https://www.studyabroad.co.jp/univ/america/missouri-university-of-science-and-technology",
+    "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%BA%E3%83%BC%E3%83%AA%E5%B7%A5%E7%A7%91%E5%A4%A7%E5%AD%A6",
+    "https://www.umsystem.edu/impact/impact-data/missouri-university-science-technology",
+    "https://data.bls.gov/oesprofile/?major_group=150000&occupation=152011&measure=01",
+    "https://www.midtronics.com/ja/blog/midtronics-welcomes-former-littelfuse-ceo-dave-heinzmann-to-board-of-advisors/",
+    "https://reports.fms.iu.edu/psgi/reports/report?report_id=779",
+    "https://job.mynavi.jp/27/pc/search/corp228893/outline.html",
+    "https://ja.wikipedia.org/wiki/ミズーリ工科大学"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:note.com ミズーリ科学技術大学",
+   "results": [
+    "https://note.com/bmidvar/n/n2cc7d4b7bc63",
+    "https://note.com/amekabu/n/n2601f5049aac",
+    "https://note.com/tipnews/n/n606d2b3725f9",
+    "https://note.com/moat_investech/n/nf25a280a3f9f",
+    "https://note.com/tipnews/n/nf1f8faf3fc8f",
+    "https://note.com/gifted_viola8806/n/n148b95966fd7",
+    "https://note.com/global_executive/n/ndf164801c6fe",
+    "https://note.com/musw/n/nc9d40f698469",
+    "https://note.com/nabejazz/n/nced91174f81c",
+    "https://note.com/uja_career/n/n4ebf62b63798"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:x.com ミズーリ科学技術大学",
+   "results": [
+    "https://x.com/gigazine/status/2025344866318758082",
+    "https://x.com/UTokyo_News/status/2049722994293924286?lang=gu",
+    "https://x.com/Akita_P_U/status/1898926548209762716",
+    "https://x.com/ags_football1",
+    "https://x.com/iput_osaka/status/2096840149162401999",
+    "https://x.com/rjp_news/status/2008374583263473871",
+    "https://x.com/UTokyo_News/status/1892446645217866044",
+    "https://x.com/tonets/status/1986655827042971904",
+    "https://x.com/KagawaTomo/article/2088407532465471916",
+    "https://x.com/rjp_news/status/2100832880327016892?lang=bg"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com ミズーリ科学技術大学",
+   "results": [
+    "https://jp.linkedin.com/in/nicholas-christian-35601124b/ja",
+    "https://jp.linkedin.com/pulse/isa-podcast-recaps-2025-automation-summit-hwzac?tl=ja",
+    "https://jp.linkedin.com/pulse/leadership-perspectives-presidential-styles-michael-valocchi-cgqde?tl=ja",
+    "https://jp.linkedin.com/in/kaneko-sachiko-5673b3184",
+    "https://jp.linkedin.com/in/chiyuki-yamagami/ja",
+    "https://www.linkedin.com/in/echo-klitz-66ab5b89",
+    "https://jp.linkedin.com/pub/dir/Nicholas/+/jp-0-Japan",
+    "https://jp.linkedin.com/pulse/women-engineering-qa-becca-brader-catalent-5plne?tl=ja",
+    "https://jp.linkedin.com/in/hidekazu-no-2b261487",
+    "https://www.linkedin.com/in/yushengyeh/ja"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com ミズーリ科学技術大学",
+   "results": [
+    "https://www.facebook.com/tat.lvt/posts/%E5%B0%8F%E6%9E%97%E3%81%95%E3%82%93%E3%81%8Cacvp%E5%AD%A6%E4%BC%9A%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%AA%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%BA%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E4%BB%8A%E5%9B%9E%E3%81%AF%E3%83%9F%E3%82%BA%E3%83%BC%E3%83%AA%E5%A4%A7%E5%AD%A6%E3%81%AE%E9%BB%92%E6%9C%A8%E5%85%88%E7%94%9F%E3%81%A8%E3%81%AE%E5%85%B1%E5%90%8C%E7%A0%94%E7%A9%B6systemic-fibrinogen-a%CE%B1-chain-amylo/1371755918069182/",
+    "https://www.facebook.com/missourikinenkan/videos/%E6%97%A5%E6%9C%AC%E3%81%8B%E3%82%89%E3%81%AE%E5%AD%A6%E7%94%9F%E3%81%AE%E7%9A%86%E3%81%95%E3%82%93%E3%81%AB%E6%88%A6%E8%89%A6%E3%83%9F%E3%82%BA%E3%83%BC%E3%83%AA%E3%81%AE%E6%95%99%E8%82%B2%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8B%E3%83%BC%E3%82%A6%E3%82%A3%E3%82%BA%E3%82%B6%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA%E3%81%AB%E3%81%94%E5%8F%82%E5%8A%A0%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F-%E6%98%9F%E3%82%84%E8%87%AA%E7%84%B6%E3%82%92%E9%A0%BC%E3%82%8A%E3%81%AB%E8%88%AA%E6%B5%B7%E3%81%97%E3%81%9F%E3%83%9D%E3%83%AA%E3%83%8D%E3%82%B7%E3%82%A2%E3%81%AE%E4%BC%9D%E7%B5%B1%E7%9A%84%E3%81%AA%E8%88%AA%E6%B5%B7%E8%A1%93%E3%81%8B%E3%82%89%E7%8F%BE%E4%BB%A3/1087941020242011/",
+    "https://www.facebook.com/takumi.kato.7399/posts/2025%E5%B9%B49%E6%9C%88%E4%B8%AD%E6%97%AC%E3%83%9F%E3%82%BA%E3%83%BC%E3%83%AA%E5%B7%9E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%AB%E3%82%A4%E3%82%B9%E3%81%AB%E3%81%82%E3%82%8B-%E3%82%B2%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A4%E3%82%A2%E3%83%BC%E3%83%81%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92-%E3%81%AB%E8%A1%8C%E3%81%8D%E5%AE%B6%E6%97%8F%E3%81%BF%E3%82%93%E3%81%AA%E3%81%A7%E7%99%BB%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E9%AB%98%E3%81%95%E3%81%AF-630ft192m%EF%B8%8F-%E3%81%A8%E3%81%A3%E3%81%A6%E3%82%82%E7%8B%AD%E3%81%84%E3%82%A8%E3%83%AC%E3%83%99%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AB/10162914480418141/",
+    "https://www.facebook.com/naoki.ohnuma/",
+    "https://www.facebook.com/groups/radiokaros.f/posts/9224241211024379/",
+    "https://www.facebook.com/missourikinenkan/posts/%E4%B8%BB%E7%A0%B2%E7%99%BA%E7%A0%B2%E3%81%AE%E3%83%88%E3%83%AA%E3%82%AC%E3%83%BC%E6%88%A6%E8%89%A6%E3%83%9F%E3%82%BA%E3%83%BC%E3%83%AA-%E5%B0%84%E6%92%83%E7%AE%A1%E5%88%B6%E5%AE%A4/633810728776507/",
+    "https://www.facebook.com/mirailabbio/posts/%E3%81%93%E3%81%AE%E3%81%9F%E3%81%B3%E3%83%9F%E3%83%A9%E3%82%A4%E3%83%A9%E3%83%9C%E3%83%90%E3%82%A4%E3%82%AA%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E7%94%B0%E4%B8%AD%E5%A4%AB%E5%A6%BB%E3%81%AF%E5%80%8B%E4%BA%BA%E3%81%A8%E3%81%97%E3%81%A6%E3%83%AF%E3%82%B7%E3%83%B3%E3%83%88%E3%83%B3%E5%A4%A7%E5%AD%A6%E7%B1%B3%E5%9B%BD%E3%83%9F%E3%82%BA%E3%83%BC%E3%83%AA%E5%B7%9E%E3%82%BB%E3%83%B3%E3%83%88%E3%83%AB%E3%82%A4%E3%82%B9%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%8A%97%E8%80%81%E5%8C%96%E7%A0%94%E7%A9%B6%E3%81%B8%E3%81%AE%E5%AF%84%E4%BB%98%E3%82%92%E5%A7%8B%E3%82%81%E3%81%A8%E3%81%99%E3%82%8B%E5%A4%9A%E5%A4%A7%E3%81%AA%E8%B2%A2/305945211430369/",
+    "https://www.facebook.com/oistedu/posts/turbulence-has-been-called-the-last-unsolved-problem-in-classical-physics-its-di/4760463097318605/",
+    "https://www.facebook.com/groups/642065685931070/posts/2720869424717342/",
+    "https://www.facebook.com/gjustofficial/posts/-sanctioning-of-research-projects-for-funding-seed-money-to-gjust-faculty-member/1266156918858542/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "ミズーリ科学技術大学 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ミズーリ工科大学",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://yokotablog.com/sadaaki-kato-profile/",
+    "https://jmedia.wiki/ミズーリ科学技術大学の横を通過しました。同大学の/Missouri_University_of_Science_and_Technology",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.studyabroad.co.jp/univ/america/missouri-university-of-science-and-technology",
+    "https://seisan-navi.com/global-manufacturing-news-20260701-702670c1595f/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ミズーリ科学技術大学 X 投稿",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ミズーリ工科大学",
+    "https://jp.linkedin.com/in/nicholas-christian-35601124b/ja",
+    "https://ja.tun.com/学校-a/ミズーリ科学技術大学の授業料と成功分析/",
+    "https://www.studyabroad.co.jp/univ/america/missouri-university-of-science-and-technology",
+    "https://jmedia.wiki/ミズーリ科学技術大学の横を通過しました。同大学の/Missouri_University_of_Science_and_Technology",
+    "https://x.com/niwabunko/status/2120006595732291990",
+    "https://x.com/plasticbeing/status/2118910015574782110"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部17頁・検索14回）",
+  "資本金": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部17頁・検索14回）",
+  "創業年度": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部17頁・検索14回）",
+  "従業員数": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部17頁・検索14回）",
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部17頁・検索14回）",
+  "株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部17頁・検索14回）",
+  "所在地": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部17頁・検索14回）",
+  "保有設備": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部17頁・検索14回）",
+  "使っている金属粉（材質）": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部17頁・検索14回）",
+  "資本金・株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部17頁・検索14回）"
+ }
+}

@@ -1,0 +1,1415 @@
+{
+ "name": "Fermatcommerce",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial AI / Software｜未接触",
+ "researched_at": "2026-11-10T17:19:26.348300+00:00",
+ "official_url": "https://www.fermatcommerce.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "1. Seed Round",
+    "value": "19-Sep-2022 $12M $12M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/502804-18",
+    "pass": 3
+   },
+   {
+    "label": "Seed-2",
+    "value": "5,418,815 $0.000100  $1.55 $1.55 1x $1.55 9.06%",
+    "url": "https://pitchbook.com/profiles/company/502804-18",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "5,578,241 $0.000100  $0.98 $0.98 1x $0.98 9.33%",
+    "url": "https://pitchbook.com/profiles/company/502804-18",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "FERMÀT's agents analyze millions of sessions and make approved changes to the visit experience based on shopper intent.",
+    "url": "https://www.fermatcommerce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The same person shops differently every time they arrive, shaped by the product, the audience, the channel, and the offer that brought them. Reading that intent and acting on it was out of reach before generative AI.",
+    "url": "https://www.fermatcommerce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Once approved, FERMÀT agents turn the top recommendations into brand-native experiences, and launch them across any page and surface shoppers see.",
+    "url": "https://www.fermatcommerce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Shopper lands on product page from Google Search",
+    "url": "https://www.fermatcommerce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Shopper returns to Google after viewing product page",
+    "url": "https://www.fermatcommerce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Show similar products earlier in the PDP flow",
+    "url": "https://www.fermatcommerce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Show how people style the product",
+    "url": "https://www.fermatcommerce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Show alternate fits and washes before product details",
+    "url": "https://www.fermatcommerce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Before: one product without recommended styles",
+    "url": "https://www.fermatcommerce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Products viewed per Google shopper session",
+    "url": "https://www.fermatcommerce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Product pages live with the new experience",
+    "url": "https://www.fermatcommerce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Where a shopper comes from predicts how long they stay.",
+    "url": "https://www.fermatcommerce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Homepage entrants converted 55% better than product-page landers.",
+    "url": "https://www.fermatcommerce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "President, Backcountry",
+    "url": "https://www.fermatcommerce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "VP of Ecommerce, Travelpro",
+    "url": "https://www.fermatcommerce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“With FERMÀT, once we reached full crawl coverage, we began seeing our AI-optimized content cited across AI models, like ChatGPT, within the first week.”",
+    "url": "https://www.fermatcommerce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-grade security and controls",
+    "url": "https://www.fermatcommerce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "California consumer privacy",
+    "url": "https://www.fermatcommerce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Backcountry turned a 200,000-product catalog into a growth lever.",
+    "url": "https://www.fermatcommerce.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "BISSELL extended Salesforce Commerce Cloud with FERMÀT's marketing-led personalization.",
+    "url": "https://www.fermatcommerce.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "With Madeline Kutner, Director of Performance Marketing at Glossier",
+    "url": "https://www.fermatcommerce.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Glossier brought performance marketing efficiency to a brand-first DTC.",
+    "url": "https://www.fermatcommerce.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Travelpro built a repeatable playbook to scale SMS into a revenue channel.",
+    "url": "https://www.fermatcommerce.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Love Wellness extended its experimentation engine from acquisition into retention.",
+    "url": "https://www.fermatcommerce.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Switchback Foods replaced a designer-developer hire with FERMÀT.",
+    "url": "https://www.fermatcommerce.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "1906 turned regulatory constraints into a scalable acquisition program.",
+    "url": "https://www.fermatcommerce.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "AsWeMove cut acquisition costs without softening premium positioning.",
+    "url": "https://www.fermatcommerce.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "With Erin Silvia, Director of Marketing at CADDIS",
+    "url": "https://www.fermatcommerce.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "With Paul Brandlin, Marketing Director at Dermaclara",
+    "url": "https://www.fermatcommerce.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Backcountry turned a 200,000-product catalog into a growth lever.",
+    "url": "https://www.fermatcommerce.com/customers/how-backcountry-scaled-experimentation-across-their-product-ecosystem-with-fermat",
+    "pass": 1
+   },
+   {
+    "quote": "For over 25 years, Backcountry has been the go-to retailer for outdoor enthusiasts seeking premium gear and apparel. From mountaineers to trail runners, the brand built loyalty through a curated mix of top outdoor labels.",
+    "url": "https://www.fermatcommerce.com/customers/how-backcountry-scaled-experimentation-across-their-product-ecosystem-with-fermat",
+    "pass": 1
+   },
+   {
+    "quote": "With over 200,000 products across categories like bike, climb, ski, camping, and trail running, Backcountry's catalog is a major competitive advantage. It's also a personalization problem at a scale no team could solve manually. To realize conversion gains, Backcountry needed a way to learn from every shopper interaction and act on it across the full assortment.",
+    "url": "https://www.fermatcommerce.com/customers/how-backcountry-scaled-experimentation-across-their-product-ecosystem-with-fermat",
+    "pass": 1
+   },
+   {
+    "quote": "The existing framework offered strong consistency but limited the flexibility to tailor layouts by category, price point, or shopper intent. Expanding dynamic options for bundles and complementary gear would better align with how customers actually shop. Doing it across 200,000 products was a non-starter without automation.",
+    "url": "https://www.fermatcommerce.com/customers/how-backcountry-scaled-experimentation-across-their-product-ecosystem-with-fermat",
+    "pass": 1
+   },
+   {
+    "quote": "A full site rebuild would have introduced unnecessary risk and long timelines. Backcountry needed AI agents that could iterate continuously across the catalog while preserving the strengths of the existing foundation.",
+    "url": "https://www.fermatcommerce.com/customers/how-backcountry-scaled-experimentation-across-their-product-ecosystem-with-fermat",
+    "pass": 1
+   },
+   {
+    "quote": "AI-generated page variations tailored by product type, intent, and traffic source",
+    "url": "https://www.fermatcommerce.com/customers/how-backcountry-scaled-experimentation-across-their-product-ecosystem-with-fermat",
+    "pass": 1
+   },
+   {
+    "quote": "\"At our scale, growth doesn't come from plug-and-play tools; it comes from innovation partners willing to build alongside you. FERMÀT has been exactly that for Backcountry, helping us create AI-driven and dynamic landing experiences for Google Shopping that reflect how our customers actually browse and buy across a massive catalog.\" - Kevin Lenau, President, Backcountry",
+    "url": "https://www.fermatcommerce.com/customers/how-backcountry-scaled-experimentation-across-their-product-ecosystem-with-fermat",
+    "pass": 1
+   },
+   {
+    "quote": "Pro shoppers looking for fast access to specs and sizing nuance",
+    "url": "https://www.fermatcommerce.com/customers/how-backcountry-scaled-experimentation-across-their-product-ecosystem-with-fermat",
+    "pass": 1
+   },
+   {
+    "quote": "Casual shoppers needing simple explanations and helpful product context",
+    "url": "https://www.fermatcommerce.com/customers/how-backcountry-scaled-experimentation-across-their-product-ecosystem-with-fermat",
+    "pass": 1
+   },
+   {
+    "quote": "Designing experiences for each behavior helped Backcountry match the page to both the product and the shopper. FERMÀT didn't just fix a page template. It changed how Backcountry worked. Backcountry described FERMÀT as an innovation partner, not a plug-and-play tool.",
+    "url": "https://www.fermatcommerce.com/customers/how-backcountry-scaled-experimentation-across-their-product-ecosystem-with-fermat",
+    "pass": 1
+   },
+   {
+    "quote": "1,000+ SKUs with increased add-to-cart rates. Continuous experimentation across five key categories. Marketing and merchandising in direct control of the experience layer.",
+    "url": "https://www.fermatcommerce.com/customers/how-backcountry-scaled-experimentation-across-their-product-ecosystem-with-fermat",
+    "pass": 1
+   },
+   {
+    "quote": "Travelpro built a repeatable playbook to scale SMS into a revenue channel.",
+    "url": "https://www.fermatcommerce.com/customers/how-travelpro-turned-sms-into-a-scalable-revenue-engine-beating-email-with-13-higher-aov",
+    "pass": 1
+   },
+   {
+    "quote": "Challenge: turn SMS from a retention channel into a revenue engine.",
+    "url": "https://www.fermatcommerce.com/customers/how-travelpro-turned-sms-into-a-scalable-revenue-engine-beating-email-with-13-higher-aov",
+    "pass": 1
+   },
+   {
+    "quote": "Travelpro needed to transform SMS from a basic communication tool into a true performance marketing channel that could drive meaningful revenue.",
+    "url": "https://www.fermatcommerce.com/customers/how-travelpro-turned-sms-into-a-scalable-revenue-engine-beating-email-with-13-higher-aov",
+    "pass": 1
+   },
+   {
+    "quote": "Despite building a substantial SMS subscriber base, Travelpro faced the classic challenge of underutilized potential. SMS campaigns lacked dedicated experiences and strategic content, making continued investment hard to justify. To shift SMS from a retention tool into a high-impact revenue driver, the team needed to:",
+    "url": "https://www.fermatcommerce.com/customers/how-travelpro-turned-sms-into-a-scalable-revenue-engine-beating-email-with-13-higher-aov",
+    "pass": 1
+   },
+   {
+    "quote": "Build a scalable playbook for SKU-specific promos",
+    "url": "https://www.fermatcommerce.com/customers/how-travelpro-turned-sms-into-a-scalable-revenue-engine-beating-email-with-13-higher-aov",
+    "pass": 1
+   },
+   {
+    "quote": "With growing buzz around a new product line, Travelpro partnered with FERMÀT to turn SMS into a performance channel.",
+    "url": "https://www.fermatcommerce.com/customers/how-travelpro-turned-sms-into-a-scalable-revenue-engine-beating-email-with-13-higher-aov",
+    "pass": 1
+   },
+   {
+    "quote": "FERMÀT's AI agents built exclusive, high-converting SMS shopping experiences in hours, establishing a new performance marketing playbook. What began as a single test quickly evolved into a scalable channel strategy. Agents learned from subscriber behavior, ran tests across every drop, and scaled based on what worked.",
+    "url": "https://www.fermatcommerce.com/customers/how-travelpro-turned-sms-into-a-scalable-revenue-engine-beating-email-with-13-higher-aov",
+    "pass": 1
+   },
+   {
+    "quote": "SMS stopped being a basic communication tool and started behaving like a true performance channel. AI agents built the experience, ran the timing, attributed the revenue, and iterated for the next drop. Travelpro moved from one-off SMS sends to continuous, compounding revenue.",
+    "url": "https://www.fermatcommerce.com/customers/how-travelpro-turned-sms-into-a-scalable-revenue-engine-beating-email-with-13-higher-aov",
+    "pass": 1
+   },
+   {
+    "quote": "Travelpro launched a dedicated FERMÀT page with an SMS-only offer of roughly 30% off a featured product collection. The offer wasn't available anywhere else, creating true exclusivity and urgency.",
+    "url": "https://www.fermatcommerce.com/customers/how-travelpro-turned-sms-into-a-scalable-revenue-engine-beating-email-with-13-higher-aov",
+    "pass": 1
+   },
+   {
+    "quote": "SMS messages were precisely timed to follow two email sends from a major media outlet, positioning SMS as the final, high-intent touchpoint for already-engaged shoppers.",
+    "url": "https://www.fermatcommerce.com/customers/how-travelpro-turned-sms-into-a-scalable-revenue-engine-beating-email-with-13-higher-aov",
+    "pass": 1
+   },
+   {
+    "quote": "Dedicated FERMÀT pages let Travelpro isolate and measure SMS-driven traffic. For the first time, the team had true visibility into channel performance.",
+    "url": "https://www.fermatcommerce.com/customers/how-travelpro-turned-sms-into-a-scalable-revenue-engine-beating-email-with-13-higher-aov",
+    "pass": 1
+   },
+   {
+    "quote": "This strategic shift gave Travelpro exactly what they needed: speed, control, and measurable impact.",
+    "url": "https://www.fermatcommerce.com/customers/how-travelpro-turned-sms-into-a-scalable-revenue-engine-beating-email-with-13-higher-aov",
+    "pass": 1
+   },
+   {
+    "quote": "Approximately $25K in total revenue",
+    "url": "https://www.fermatcommerce.com/customers/how-travelpro-turned-sms-into-a-scalable-revenue-engine-beating-email-with-13-higher-aov",
+    "pass": 1
+   },
+   {
+    "quote": "Travelpro's FERMÀT-powered SMS campaign outperformed a million-subscriber email blast, proving SMS's potential as a primary revenue channel. With only 3.5% of the email campaign's reach, the SMS drop drove 13% more orders and a higher average order value, establishing SMS as a true revenue engine.",
+    "url": "https://www.fermatcommerce.com/customers/how-travelpro-turned-sms-into-a-scalable-revenue-engine-beating-email-with-13-higher-aov",
+    "pass": 1
+   },
+   {
+    "quote": "\"It's given us an extra utility for our SMS platform. We can now say you're going to get a VIP-only offer via SMS, and that becomes a reason to subscribe. It's something we haven't been able to do before, and it's really powerful.\" Mark Costigliola, VP of Ecommerce, Travelpro",
+    "url": "https://www.fermatcommerce.com/customers/how-travelpro-turned-sms-into-a-scalable-revenue-engine-beating-email-with-13-higher-aov",
+    "pass": 1
+   },
+   {
+    "quote": "The campaign reshaped Travelpro's SMS strategy from a one-off test to a repeatable growth lever. Monthly SMS drops, AI agents iterating between each one, and compounding learning fueling both acquisition and revenue.",
+    "url": "https://www.fermatcommerce.com/customers/how-travelpro-turned-sms-into-a-scalable-revenue-engine-beating-email-with-13-higher-aov",
+    "pass": 1
+   },
+   {
+    "quote": "The marketing team needed three things that no point tool could deliver together:",
+    "url": "https://www.fermatcommerce.com/customers/how-gnc-scaled-growth-in-ai-native-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "GNC drives substantial paid traffic to product pages each month. The team needed those clicks to convert and a way to test the experience without pulling in engineering every time.",
+    "url": "https://www.fermatcommerce.com/customers/how-gnc-scaled-growth-in-ai-native-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "Generic, one-size-fits-all product pages couldn't differentiate by traffic source, intent, or audience segment. Running meaningful experiments across hundreds of thousands of SKUs required infrastructure that didn't yet exist.",
+    "url": "https://www.fermatcommerce.com/customers/how-gnc-scaled-growth-in-ai-native-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "GNC had no way of knowing whether its products appeared when consumers asked AI tools for supplement recommendations. AI-powered discovery is reshaping how people shop. That blind spot was a strategic risk the team couldn't afford to ignore.",
+    "url": "https://www.fermatcommerce.com/customers/how-gnc-scaled-growth-in-ai-native-commerce",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The same person shops differently every time they arrive, shaped by the product, the audience, the channel, and the offer that brought them. Reading that intent and acting on it was out of reach before generative AI.",
+    "url": "https://www.fermatcommerce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "FERMÀT agents rank the changes most likely to recover missed revenue and keep each shopper moving toward a purchase.",
+    "url": "https://www.fermatcommerce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Travelpro built a repeatable playbook to scale SMS into a revenue channel.",
+    "url": "https://www.fermatcommerce.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Adapt Naturals turned audience variety into scalable Meta acquisition.",
+    "url": "https://www.fermatcommerce.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Love Wellness extended its experimentation engine from acquisition into retention.",
+    "url": "https://www.fermatcommerce.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "1906 turned regulatory constraints into a scalable acquisition program.",
+    "url": "https://www.fermatcommerce.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "AsWeMove cut acquisition costs without softening premium positioning.",
+    "url": "https://www.fermatcommerce.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "ARMRA built one acquisition engine that adapted to shifting business goals.",
+    "url": "https://www.fermatcommerce.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Duradry scaled paid acquisition on bootstrapped economics.",
+    "url": "https://www.fermatcommerce.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Dermaclara turned organic social into a revenue channel.",
+    "url": "https://www.fermatcommerce.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Travelpro built a repeatable playbook to scale SMS into a revenue channel.",
+    "url": "https://www.fermatcommerce.com/customers/how-travelpro-turned-sms-into-a-scalable-revenue-engine-beating-email-with-13-higher-aov",
+    "pass": 1
+   },
+   {
+    "quote": "in revenue from a single SMS campaign",
+    "url": "https://www.fermatcommerce.com/customers/how-travelpro-turned-sms-into-a-scalable-revenue-engine-beating-email-with-13-higher-aov",
+    "pass": 1
+   },
+   {
+    "quote": "Challenge: turn SMS from a retention channel into a revenue engine.",
+    "url": "https://www.fermatcommerce.com/customers/how-travelpro-turned-sms-into-a-scalable-revenue-engine-beating-email-with-13-higher-aov",
+    "pass": 1
+   },
+   {
+    "quote": "Travelpro needed to transform SMS from a basic communication tool into a true performance marketing channel that could drive meaningful revenue.",
+    "url": "https://www.fermatcommerce.com/customers/how-travelpro-turned-sms-into-a-scalable-revenue-engine-beating-email-with-13-higher-aov",
+    "pass": 1
+   },
+   {
+    "quote": "Despite building a substantial SMS subscriber base, Travelpro faced the classic challenge of underutilized potential. SMS campaigns lacked dedicated experiences and strategic content, making continued investment hard to justify. To shift SMS from a retention tool into a high-impact revenue driver, the team needed to:",
+    "url": "https://www.fermatcommerce.com/customers/how-travelpro-turned-sms-into-a-scalable-revenue-engine-beating-email-with-13-higher-aov",
+    "pass": 1
+   },
+   {
+    "quote": "SMS stopped being a basic communication tool and started behaving like a true performance channel. AI agents built the experience, ran the timing, attributed the revenue, and iterated for the next drop. Travelpro moved from one-off SMS sends to continuous, compounding revenue.",
+    "url": "https://www.fermatcommerce.com/customers/how-travelpro-turned-sms-into-a-scalable-revenue-engine-beating-email-with-13-higher-aov",
+    "pass": 1
+   },
+   {
+    "quote": "Over $28K in total revenue",
+    "url": "https://www.fermatcommerce.com/customers/how-travelpro-turned-sms-into-a-scalable-revenue-engine-beating-email-with-13-higher-aov",
+    "pass": 1
+   },
+   {
+    "quote": "Approximately $25K in total revenue",
+    "url": "https://www.fermatcommerce.com/customers/how-travelpro-turned-sms-into-a-scalable-revenue-engine-beating-email-with-13-higher-aov",
+    "pass": 1
+   },
+   {
+    "quote": "Travelpro's FERMÀT-powered SMS campaign outperformed a million-subscriber email blast, proving SMS's potential as a primary revenue channel. With only 3.5% of the email campaign's reach, the SMS drop drove 13% more orders and a higher average order value, establishing SMS as a true revenue engine.",
+    "url": "https://www.fermatcommerce.com/customers/how-travelpro-turned-sms-into-a-scalable-revenue-engine-beating-email-with-13-higher-aov",
+    "pass": 1
+   },
+   {
+    "quote": "The campaign reshaped Travelpro's SMS strategy from a one-off test to a repeatable growth lever. Monthly SMS drops, AI agents iterating between each one, and compounding learning fueling both acquisition and revenue.",
+    "url": "https://www.fermatcommerce.com/customers/how-travelpro-turned-sms-into-a-scalable-revenue-engine-beating-email-with-13-higher-aov",
+    "pass": 1
+   },
+   {
+    "quote": "The results arrived within the first week of reaching full content coverage and have compounded every week since.",
+    "url": "https://www.fermatcommerce.com/customers/how-gnc-scaled-growth-in-ai-native-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "Learn from revenue outcomes",
+    "url": "https://www.fermatcommerce.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "FERMÀT turns real shopper behavior data into revenue at agent speed. Our agents help brands understand why shoppers behave in certain ways, decide which experiments will provide the most impact, generate better experiences, and close the loop from insight to outcome.",
+    "url": "https://www.fermatcommerce.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Today, FERMÀT is the AI-native commerce platform helping leading brands move from behavioral insight to recommended action to generated experience to measurable outcome. Our platform analyzes shopper behavior, identifies where revenue is at risk, recommends what should change, generates new shopping paths, and feeds performance data back into the system so teams can keep improving.",
+    "url": "https://www.fermatcommerce.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Seasonal experiences drove a 322% revenue-per-session lift",
+    "url": "https://www.fermatcommerce.com/customers/switchback-foods-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "1906 turned regulatory constraints into a scalable acquisition program.",
+    "url": "https://www.fermatcommerce.com/customers/1906-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Increase in Revenue per Session (RPS)",
+    "url": "https://www.fermatcommerce.com/customers/1906-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "1906 lifted overall CVR 98%, revenue per session 90%, and first-order subscription opt-ins 10.8%.",
+    "url": "https://www.fermatcommerce.com/customers/1906-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "AsWeMove cut acquisition costs without softening premium positioning.",
+    "url": "https://www.fermatcommerce.com/customers/aswemove-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Decrease in Customer Acquisition Cost (CAC)",
+    "url": "https://www.fermatcommerce.com/customers/aswemove-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Increase in Revenue per Session (RPS)",
+    "url": "https://www.fermatcommerce.com/customers/aswemove-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Strong product innovation and brand positioning could not offset rising production costs pressuring margins. Head of Growth Arjun Rastogi knew the page experience after the click and experimentation velocity were the largest open levers on acquisition efficiency. The team also wanted to expand the addressable market by reaching new audiences with the luxury experience the brand demanded.",
+    "url": "https://www.fermatcommerce.com/customers/aswemove-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Ad-to-cart narrative consistency drove a 5.12% CVR experience",
+    "url": "https://www.fermatcommerce.com/customers/carnivore-snax-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "GuruNanda's educational TikTok content drove over $15.5M in revenue and 1.1M orders in 2024, but TikTok Shop's lower margins could not sustain the full DTC operation. To diversify and run sustainably, the team needed to scale Meta efficiently while protecting margins, lift CVR and AOV to fund healthy CAC, and build recurring revenue through subscriptions.",
+    "url": "https://www.fermatcommerce.com/customers/gurunanda-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "FERMÀT let GuruNanda translate TikTok success into channel-diversified acquisition without rebuilding content from scratch.",
+    "url": "https://www.fermatcommerce.com/customers/gurunanda-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "\"At GuruNanda, we see FERMÀT as a vital part of our DTC strategy, helping us continuously optimize customer acquisition and solidify our presence in the natural wellness market. By leveraging FERMÀT, we can reach customers in meaningful ways, inspiring them to embrace healthy habits that promote oral wellness.\" - Dr. Anish Nanda, M.D., E-commerce Director & National Sales Manager, GuruNanda",
+    "url": "https://www.fermatcommerce.com/customers/gurunanda-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Video-first experiences repurposed existing TikTok content for Meta acquisition",
+    "url": "https://www.fermatcommerce.com/customers/gurunanda-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Website revenue generated via FERMÀT funnels during the first week of launch",
+    "url": "https://www.fermatcommerce.com/customers/union-brands-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Ad-to-cart narrative consistency (UGC families on both ad and page) hit 4.56 ROAS",
+    "url": "https://www.fermatcommerce.com/customers/union-brands-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Union Brands lifted Bravomonster CVR 290.7% in Q4 2024. A FERMÀT experience linked from a Bravomonster PR placement hit 14.29% CVR. Bravomonster FERMÀT experiences generated 3x the brand's website revenue during the first week of launch. A seasonal Gladly Family experience drove 4.56 ROAS.",
+    "url": "https://www.fermatcommerce.com/customers/union-brands-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "ARMRA built one acquisition engine that adapted to shifting business goals.",
+    "url": "https://www.fermatcommerce.com/customers/armra-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Challenge: build an acquisition engine that adapts to shifting business priorities.",
+    "url": "https://www.fermatcommerce.com/customers/armra-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "FERMÀT let ARMRA reshape acquisition in three deliberate phases, each tied to the business priority of the moment.",
+    "url": "https://www.fermatcommerce.com/customers/armra-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "ARR 5倍超の成長",
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22",
+    "pass": 3
+   },
+   {
+    "quote": "）のようなAI Revenue Orchestrationプラットフォームが「チャネル横断の投資判断」にフォーカスしています",
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22",
+    "pass": 3
+   },
+   {
+    "quote": "・March 2026: Released Opportunities Dashboard. AI automatically ranks revenue improvement measures based on behavioral data",
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・Adopted by over 100 companies including Glossier, GNC, Backcountry, and Away. Achieved over 5x ARR growth",
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Integrates session recording, heatmaps, and pattern detection, with AI automatically analyzing all sessions. It even converts revenue by calculating \"how much monthly revenue could be improved if this friction is resolved.\" Replaces FullStory/Hotjar, etc.",
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It is novel that it doesn't just end with analysis but ranks them by revenue impact. However, accuracy needs to be verified after implementation.",
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On the other hand, optimizing investment allocation, such as \"which channel should receive the next budget,\" is a separate challenge. In this area, AI Revenue Orchestration platforms like SYMPHIQ (",
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/502804-18",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Backed or Acquired",
+    "url": "https://pitchbook.com/profiles/company/502804-18",
+    "pass": 3
+   },
+   {
+    "quote": "Fermat has 98 total employees.",
+    "url": "https://pitchbook.com/profiles/company/502804-18",
+    "pass": 3
+   },
+   {
+    "quote": "What is Fermat’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/502804-18",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Fermat is",
+    "url": "https://pitchbook.com/profiles/company/502804-18",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Fermat Commerce have?",
+    "url": "https://fundediq.co/fermat-commerce-fermatcommerce-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/fermat-commerce-fermatcommerce-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/fermat-commerce-fermatcommerce-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "【Maestra】VCゼロでARR成長453%",
+    "url": "https://note.com/solvomind_ishii",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "average order value compared to a large email blast",
+    "url": "https://www.fermatcommerce.com/customers/how-travelpro-turned-sms-into-a-scalable-revenue-engine-beating-email-with-13-higher-aov",
+    "pass": 1
+   },
+   {
+    "quote": "SMS messages were precisely timed to follow two email sends from a major media outlet, positioning SMS as the final, high-intent touchpoint for already-engaged shoppers.",
+    "url": "https://www.fermatcommerce.com/customers/how-travelpro-turned-sms-into-a-scalable-revenue-engine-beating-email-with-13-higher-aov",
+    "pass": 1
+   },
+   {
+    "quote": "Email campaign (~1M recipients):",
+    "url": "https://www.fermatcommerce.com/customers/how-travelpro-turned-sms-into-a-scalable-revenue-engine-beating-email-with-13-higher-aov",
+    "pass": 1
+   },
+   {
+    "quote": "Travelpro's FERMÀT-powered SMS campaign outperformed a million-subscriber email blast, proving SMS's potential as a primary revenue channel. With only 3.5% of the email campaign's reach, the SMS drop drove 13% more orders and a higher average order value, establishing SMS as a true revenue engine.",
+    "url": "https://www.fermatcommerce.com/customers/how-travelpro-turned-sms-into-a-scalable-revenue-engine-beating-email-with-13-higher-aov",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/502804-18",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/fermat-commerce-fermatcommerce-com-funding/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "：日本でもChatGPT経由の商品検索が増加中",
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22",
+    "pass": 3
+   },
+   {
+    "quote": "正直、日本からの直接導入はまだハードル高め",
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場への展開はこれからですが、「コマースの未来はエージェンティックになる」を体現するツールとして、今のうちに押さえておきましょう",
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22",
+    "pass": 3
+   },
+   {
+    "quote": "Eコマースブランドおよびデジタル広告代理店を対象に、AIを活用したポストクリック最適化ソフトウェアの開発および提供を行う",
+    "url": "https://www.firstcvc.jp/global/fermatcommerce.com",
+    "pass": 3
+   },
+   {
+    "quote": "If used by Japanese e-commerce marketers",
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": Product searches via ChatGPT are increasing in Japan as well. Value in accumulating knowledge early ・",
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese language support unconfirmed",
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": UI and support are in English. Generation accuracy for Japanese PDPs needs testing ・",
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Honestly, the hurdle for direct adoption from Japan is still high. However, the direction of \"automatically looping analysis -> testing -> optimization via AI\" is the very future of e-commerce tools. It is a must-watch.",
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22?hl=en",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "If used by Japanese e-commerce marketers",
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "SendCutSend is an online custom manufacturing service specializing in rapid, high-precision sheet metal…",
+    "url": "https://fundediq.co/fermat-commerce-fermatcommerce-com-funding/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【Fermat Commerce】バラバラのSaaSを\"AIエージェント\"で丸ごと置き換... — Jul 28, 2026 · 月商1億円以上、SKU多数、Meta/Google広告を本格運用しているEC事業者がメインターゲット。 寸評： 正直、日本からの直接導入はまだハードル高め。 ただ「分析→テスト→最適化をAIで自動ループさせる」方向性はECツールの未来そのもの。 ウォッチ必須です。",
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22",
+    "pass": 3
+   },
+   {
+    "quote": "Fermatの資金調達・投資家情報 | 海外スタートアップ | FIRST CVC — Bain Capital Ventures、Greylockのポートフォリオに掲載される海外スタートアップFermatの企業プロフィール。Fermat（法人名: Fermat Commerce, Inc.、ブランド表記: FERMÀT）は、米国サンフランシスコに本社を置き、AIネイティブなコマース体験生成プラット...",
+    "url": "https://www.firstcvc.jp/global/fermatcommerce.com",
+    "pass": 3
+   },
+   {
+    "quote": "[Fermat Commerce] Replacing fragmented SaaS with \"AI agents ... — Jul 29, 2026 · Today, I'm introducing \"FERMÀT,\" an AI-Native commerce platform from Austin, Texas. It is an ambitious product that aims to integrate the \"patchwork\" of SaaS tools that keep increasing in e-commerce operations—such as analytics, A/B testing, and personalization—into a single AI agent.",
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "FERMÀT (@fermatcommerce) / Posts / X — Apr 23, 2021 · @rishabhmjain is the co-founder and CEO of @fermatcommerce, the leading commerce experience platform, which serves the most innovative brands and retailers in the world like Glossier, U Beauty, Unilever, Bissel, Back Country, among hundreds of others.",
+    "url": "https://x.com/fermatcommerce",
+    "pass": 3
+   },
+   {
+    "quote": "Rishabh Jain - Co-Founder / CEO at FERMÀT - the leading ...FERMÀT - LinkedIn【Fermat Commerce】バラバラのSaaSを\"AIエージェント\"で丸ごと置き換...FERMÀT - Facebook — I'm the CEO and Co-Founder of FERMÀT, the leading commerce experience platform. Alongside Shreyas, FERMÀT was created to enable brands to deliver commerce experiences native to *every* piece of ... FERMÀT | 9,057 followers on LinkedIn. The AI-native commerc",
+    "url": "https://www.linkedin.com/in/rishabhmjain",
+    "pass": 3
+   },
+   {
+    "quote": "Customers: FERMÀT Case Studies - Fermat Commerce — Real success stories from DTC brands across industries using FERMÀT to optimize and personalize the customer journey.",
+    "url": "https://www.fermatcommerce.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Fermat Commerce - 2026 Company Profile, Team, Funding ... — Feb 12, 2026 · Fermat Commerce - About the company Fermat Commerce is a series B company based in San Francisco (United States), founded in 2021 by Shreyas Kumar. It operates as an Influencer marketing solutions for brands. Fermat Commerce has raised $74M in funding from investors like Greylock, Bain Capital Ventures and QED Investors.",
+    "url": "https://tracxn.com/d/companies/fermatcommerce/__1BcGzTWXRYHEs3xpmoxiDaiCIHSFqaxmg5ZqTh_fCu8",
+    "pass": 3
+   },
+   {
+    "quote": "Fermat Commerce - Crunchbase Company Profile & FundingFermat 2026 Company Profile: Valuation, Funding & Investors ...Fermat Commerce: Funding, Investors & Team (Oct 2026)Fermat - Overview, News & Similar companies | ZoomInfo.comFermat Commerce: Funding, Team & Investors | Startup IntrosFERMAT Company Profile - Office Locations, Competitors ... — Fermat Commerce develops an e-commerce software that",
+    "url": "https://www.crunchbase.com/organization/fermat-commerce",
+    "pass": 3
+   },
+   {
+    "quote": "Fermat 2026 Company Profile: Valuation, Funding & Investors ...Fermat Commerce: Funding, Investors & Team (Oct 2026)Fermat - Overview, News & Similar companies | ZoomInfo.comFermat Commerce: Funding, Team & Investors | Startup IntrosFERMAT Company Profile - Office Locations, Competitors ... — Fermat has 98 total employees. What industry is Fermat in? Fermat’s primary industry is Business/Productiv",
+    "url": "https://pitchbook.com/profiles/company/502804-18",
+    "pass": 3
+   },
+   {
+    "quote": "Fermat Commerce: Funding, Investors & Team (Oct 2026) — Fermat Commerce creates an e-commerce platform that is driven by influencers. The platform is designed to support influencers, boost brand sales, and provide a positive experience for customers. fermatcommerce.com LinkedIn San Francisco, United States 51-100 employees E-Commerce Shopping Social Media Marketing B2B Total raised $62.0M Rounds 2",
+    "url": "https://fundediq.co/fermat-commerce-fermatcommerce-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Fermat Commerce: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Fermat Commerce: Commerce infrastructure platform enabling embedded content commerce experiences for D2C brands, focused on first-party data.",
+    "url": "https://startupintros.com/orgs/fermat-commerce",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "[Fermat Commerce] Replacing fragmented SaaS with \"AI agents ... Jul 29, 2026 · Summary FERMÀT is a platform that takes a bold approach to the \"patchwork problem\" of e-commerce SaaS by \"replacing it entirely with AI agents.\" The concept of completing the closed loop of behavioral analysis -> strategy proposal -> experience generation -> effect measurement in a single product is backed by a total of",
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【Fermat Commerce】バラバラのSaaSを\"AIエージェント\"で丸ごと置き換... Jul 28, 2026 · 【Fermat Commerce】バラバラのSaaSを\"AIエージェント\"で丸ごと置き換え。$74M調達のAI-Nativeコマース基盤",
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22",
+    "pass": 3
+   },
+   {
+    "quote": "石井オトヤ（ECマーケマニア）｜note Apr 6, 2026 · 【Fermat Commerce】バラバラのSaaSを\"AIエージェント\"で丸ごと置き換え。 $74M調達のAI-Nativeコマース基盤 石井オトヤ（ECマーケマニア） 3か月前 1",
+    "url": "https://note.com/solvomind_ishii",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "[Fermat Commerce] Replacing fragmented SaaS with \"AI agents\". An AI-Native commerce infrastructure that raised $74M｜石井オトヤ（ECマーケマニア）",
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Fermat Commerce] Replacing fragmented SaaS with \"AI agents\". An AI-Native commerce infrastructure that raised $74M",
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I'm Otoya Ishii, an e-commerce marketing enthusiast.",
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Today, I'm introducing \"FERMÀT,\" an AI-Native commerce platform from Austin, Texas. It is an ambitious product that aims to integrate the \"patchwork\" of SaaS tools that keep increasing in e-commerce operations—such as analytics, A/B testing, and personalization—into a single AI agent.",
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why Fermat Commerce, and why now?",
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・June 2025: Raised $45M in Series B funding. Participants included VMG Partners, Greylock, and Bain Capital Ventures. Total funding: $74M (Reference: https://www.fermatcommerce.com/newsroom)",
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・November 2025: Launched AI Search Commerce Engine. Built purchasing funnels from ChatGPT/Claude/Gemini (Reference: https://www.fermatcommerce.com/product/ai-search)",
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・March 2026: Released Opportunities Dashboard. AI automatically ranks revenue improvement measures based on behavioral data",
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【Fermat Commerce】バラバラのSaaSを\"AIエージェント\"で丸ごと置き換え。$74M調達のAI-Nativeコマース基盤｜石井オトヤ（ECマーケマニア）",
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22",
+    "pass": 3
+   },
+   {
+    "quote": "【Fermat Commerce】バラバラのSaaSを\"AIエージェント\"で丸ごと置き換え。$74M調達のAI-Nativeコマース基盤",
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22",
+    "pass": 3
+   },
+   {
+    "quote": "今日はテキサス州オースティン発のAI-Nativeコマースプラットフォーム「FERMÀT（フェルマ）」をご紹介。分析、A/Bテスト、パーソナライゼーション......EC運用で増え続けるSaaSの\"つぎはぎ\"を、AIエージェント1つに統合しようという野心的なプロダクトです。",
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ今、Fermat Commerceなのか",
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22",
+    "pass": 3
+   },
+   {
+    "quote": "・2025年6月: Series Bで$45M調達。VMG Partners、Greylock、Bain Capital Ventures等が参加。累計$74M（参照: https://www.fermatcommerce.com/newsroom ）",
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22",
+    "pass": 3
+   },
+   {
+    "quote": "・2025年11月: AI Search Commerce Engineをローンチ。ChatGPT/Claude/Geminiからの購買導線を構築（参照: https://www.fermatcommerce.com/product/ai-search ）",
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22",
+    "pass": 3
+   },
+   {
+    "quote": "・2026年3月: Opportunities Dashboard公開。行動データから収益改善策をAIが自動ランク付け",
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22",
+    "pass": 3
+   },
+   {
+    "quote": "・Glossier、GNC、Backcountry、Away等100社以上が導入。ARR 5倍超の成長",
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22",
+    "pass": 3
+   },
+   {
+    "quote": "【Nectar Social】ソーシャルを\"売上エンジン\"に変えるAI OS、$30M調達の注目プラットフォームを解説",
+    "url": "https://note.com/solvomind_ishii",
+    "pass": 3
+   },
+   {
+    "quote": "【Fermat Commerce】バラバラのSaaSを\"AIエージェント\"で丸ごと置き換え。$74M調達のAI-Nativeコマース基盤",
+    "url": "https://note.com/solvomind_ishii",
+    "pass": 3
+   },
+   {
+    "quote": "【Glimpse】小売チャネルで「静かに消えている売上」をAIエージェントが取り戻す、CPG向けディダクション自動化プラットフォーム",
+    "url": "https://note.com/solvomind_ishii",
+    "pass": 3
+   },
+   {
+    "quote": "【Intelligems】Shopifyストアの「値付け」と「送料」をA/Bテストで最適化。AI搭載の利益最大化プラットフォームを徹底解説",
+    "url": "https://note.com/solvomind_ishii",
+    "pass": 3
+   },
+   {
+    "quote": "【Envive AI】元Walmart AI責任者が作った「自己学習するAIエージェント」がShopifyストアのCVRを3倍にする仕組み",
+    "url": "https://note.com/solvomind_ishii",
+    "pass": 3
+   },
+   {
+    "quote": "【Northbeam】累計$40M調達、業界初の「ビュースルー」アトリビューションで話題のマーケティング計測ツールをECマーケター向けに解説",
+    "url": "https://note.com/solvomind_ishii",
+    "pass": 3
+   },
+   {
+    "quote": "【Maestra】VCゼロでARR成長453%。Klaviyoの最速対抗馬「オールインワンEC特化パーソナライゼーション」を解説",
+    "url": "https://note.com/solvomind_ishii",
+    "pass": 3
+   },
+   {
+    "quote": "【Sequen】$22M調達。Cookie不要・サブ20ミリ秒で「今この瞬間」のユーザー行動からCVRを爆上げする次世代パーソナライズ基盤",
+    "url": "https://note.com/solvomind_ishii",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "FERMÀT (@fermatcommerce) / Posts / X FERMÀT (@fermatcommerce) - Posts - Maximizing conversion for thy brand through experimentation and highly-personalized shopping experie... | X (formerly Twitter)",
+    "url": "https://x.com/fermatcommerce",
+    "pass": 3
+   },
+   {
+    "quote": "FERMÀT (@fermatcommerce) on X 1 20 FERMÀT @fermatcommerce May 16, 2024 👀 Content of the Week: Will Jones' brand breakdown of Death Wish Coffee on LinkedIn 1",
+    "url": "https://x.com/fermatcommerce/status/1791179607627956381",
+    "pass": 3
+   },
+   {
+    "quote": "FERMÀT Friday = our favorite FERMÀT funnels with @alexmcea ... FERMÀT (@fermatcommerce). 150 views. FERMÀT Friday = our favorite FERMÀT funnels with @alexmcea + @sarah_herm *bet you can't say that 5x fast* 👉 full episode ...",
+    "url": "https://x.com/fermatcommerce/status/1794057566898504103",
+    "pass": 3
+   },
+   {
+    "quote": "Rishabh Jain (@rishabhmjain) / X CEO @fermatcommerce - Long time lover of ads and commerce family, and fitness come first",
+    "url": "https://x.com/rishabhmjain",
+    "pass": 3
+   },
+   {
+    "quote": "FERMÀT (@fermatcommerce) / Posts / X Apr 23, 2021 · — Rishabh Jain @rishabhmjain is the co-founder and CEO of @fermatcommerce, the leading commerce experience platform, which serves the most innovative brands and retailers in the world like Glossier, U Beauty, Unilever, Bissel, Back Country, among hundreds of others. In this episode of the @UpArrowPodcast by @Elumynt, Rishabh and I dig into:",
+    "url": "https://x.com/fermatcommerce",
+    "pass": 3
+   },
+   {
+    "quote": "FERMÀT on X / X - x.com May 16, 2024 · FERMÀT (@fermatcommerce) on X Here we go: @ AlexaKilroy 's handpicked DTC must-haves for the week!",
+    "url": "https://x.com/fermatcommerce/status/1791179607627956381",
+    "pass": 3
+   },
+   {
+    "quote": "Shinghi on X: \"Just wanted to say that we hired @NotZainAgain ... Oct 15, 2026 · Just wanted to say that we hired @NotZainAgain and his agency @fermatcommerce to manage our TikTok Shop account and we are happy with the initial momentum in the first 2 months.",
+    "url": "https://x.com/ShinghiD/status/2110789014458712108",
+    "pass": 3
+   },
+   {
+    "quote": "Articles by Rishabh Jain (@rishabhmjain) / X CEO @fermatcommerce - Long time lover of ads and commerce family, and fitness come first",
+    "url": "https://x.com/rishabhmjain/articles",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.fermatcommerce.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fermatcommerce.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fermatcommerce.com/customers/how-backcountry-scaled-experimentation-across-their-product-ecosystem-with-fermat",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fermatcommerce.com/customers/how-travelpro-turned-sms-into-a-scalable-revenue-engine-beating-email-with-13-higher-aov",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fermatcommerce.com/customers/how-gnc-scaled-growth-in-ai-native-commerce",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fermatcommerce.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fermatcommerce.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fermatcommerce.com/customers/glossier-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fermatcommerce.com/customers/southern-scholar-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fermatcommerce.com/customers/switchback-foods-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fermatcommerce.com/customers/1906-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fermatcommerce.com/customers/aswemove-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fermatcommerce.com/customers/carnivore-snax-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fermatcommerce.com/customers/gurunanda-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fermatcommerce.com/customers/union-brands-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fermatcommerce.com/customers/armra-case-study",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.fermatcommerce.com/assets/marketing/customers/cdn-prod/63f5f201b1f212a5c76681f0/63f6319f0b6d0beeffa89a24_Logo.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.fermatcommerce.com/assets/marketing/customers/cdn-prod/63f6b4ec9e29c4bd83f38216/6969675daa8d4eb5bcbfdbef_imgi_34_Card-1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.fermatcommerce.com/assets/marketing/customers/cdn-prod/63f5f201b1f212a5c76681f0/6699e2f5746d8fcbd3c2dc36_Figma_Image_319x480.jpeg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.fermatcommerce.com/assets/marketing/customers/cdn-prod/63f5f201b1f212a5c76681f0/669739dd63ddd4eec74b312c_mindbodygreen.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.firstcvc.jp/global/fermatcommerce.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/FamilyMart",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/fermatcommerce",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/rishabhmjain",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.casestudies.com/company/fermat",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/fermat/case-study/how-duradry-increased-return-on-ad-spend-51-decreased-acquisition-costs-43",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/fermat/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/fermatcommerce/__1BcGzTWXRYHEs3xpmoxiDaiCIHSFqaxmg5ZqTh_fCu8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/fermat-commerce",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/502804-18",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fundediq.co/fermat-commerce-fermatcommerce-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/solvomind_ishii",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/fermatcommerce",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fermatcommerce/status/1791179607627956381",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fermatcommerce/status/1794057566898504103",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/rishabhmjain",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fermatcommerce",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fermatcommerce/status/1791179607627956381",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ShinghiD/status/2110789014458712108",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/rishabhmjain/articles",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Fermatcommerce 日本 導入",
+   "results": [
+    "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22",
+    "https://www.fermatcommerce.com/",
+    "https://www.firstcvc.jp/global/fermatcommerce.com",
+    "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22?hl=en",
+    "https://www.itmedia.co.jp/business/articles/2610/08/news016.html",
+    "https://www.fermatcommerce.com/about",
+    "https://www.proofpoint.com/jp/blog/cyberthreats/dmarc-adoption-industry-japan-us-2026"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fermatcommerce 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://en.wikipedia.org/wiki/FamilyMart",
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://fermat.biz/",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fermatcommerce Japan",
+   "results": [
+    "https://x.com/fermatcommerce",
+    "https://www.fermatcommerce.com/",
+    "https://www.fermatcommerce.com/about",
+    "https://www.linkedin.com/in/rishabhmjain",
+    "https://www.linkedin.com/company/fermat-commerce/",
+    "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22",
+    "https://www.facebook.com/fermatcommerce/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fermatcommerce manufacturing customer case study",
+   "results": [
+    "https://www.fermatcommerce.com/customers",
+    "https://www.casestudies.com/company/fermat",
+    "https://www.casestudies.com/company/fermat/case-study/how-duradry-increased-return-on-ad-spend-51-decreased-acquisition-costs-43",
+    "https://www.featuredcustomers.com/vendor/fermat/case-studies",
+    "https://www.invoicebutler.com/customer-stories/fermat",
+    "https://www.fermatcommerce.com/customers/glossier-case-study",
+    "https://skybright.dev/fermat-case-study/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fermatcommerce white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://partners.spectrum.com/",
+    "https://www.vizrt.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fermatcommerce founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/fermatcommerce/__1BcGzTWXRYHEs3xpmoxiDaiCIHSFqaxmg5ZqTh_fCu8",
+    "https://www.crunchbase.com/organization/fermat-commerce",
+    "https://pitchbook.com/profiles/company/502804-18",
+    "https://fundediq.co/fermat-commerce-fermatcommerce-com-funding/",
+    "https://startupintros.com/orgs/fermat-commerce",
+    "https://www.zoominfo.com/c/fermat-commerce-inc/566130484",
+    "https://craft.co/fermat-commerce"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Fermatcommerce",
+   "results": [
+    "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22?hl=en",
+    "https://note.com/solvomind_ishii/n/nf9b5e6bb4a22",
+    "https://note.com/solvomind_ishii",
+    "https://note.com/kentabright/n/nb116f899a6ac",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/hideo_akiyama/n/naa417571940a",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Fermatcommerce",
+   "results": [
+    "https://x.com/fermatcommerce",
+    "https://x.com/fermatcommerce/status/1791179607627956381",
+    "https://x.com/fermatcommerce/status/1794057566898504103",
+    "https://x.com/rishabhmjain",
+    "https://x.com/fermatcommerce/status/1947681252246516193",
+    "https://x.com/ShinghiD/status/2110789014458712108",
+    "https://x.com/fermatcommerce/status/1852012972610293830"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Fermatcommerce",
+   "results": [
+    "https://www.linkedin.com/company/fermat-commerce/",
+    "https://www.linkedin.com/products/fermat-commerce-fermàt/",
+    "https://www.linkedin.com/in/rishabhmjain",
+    "https://www.linkedin.com/company/fermat-commerce/jobs/",
+    "https://www.linkedin.com/company/fermat-commerce/life/",
+    "https://www.linkedin.com/posts/rishabhmjain_fermàt-just-closed-a-45m-series-b-fundraise-activity-7338570882346360833-R2qC",
+    "https://in.linkedin.com/posts/rishabhmjain_im-excited-to-share-fermàts-fundraise-of-activity-6977639282417045505-wzui"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Fermatcommerce",
+   "results": [
+    "https://www.facebook.com/fermatcommerce/",
+    "https://www.facebook.com/fermatcommerce/posts/welcome-to-the-12-days-of-fermàtday-1-partridge-in-a-pear-tree-why-is-fermàt-nam/567968629310325/",
+    "https://www.facebook.com/fermatcommerce/posts/fermat-took-over-shoptalkevents-from-the-getpostpilot-penthouse-with-an-amazing-/652807560826431/",
+    "https://www.facebook.com/fermatcommerce/posts/shoppers-are-researching-before-they-buy-looking-for-brands-that-reflect-their-v/654520707321783/",
+    "https://www.facebook.com/fermatcommerce/posts/thesouthernscholar-used-fermàts-ai-powered-platform-to-optimize-their-post-click/625803510193503/",
+    "https://www.facebook.com/fermatcommerce/posts/over-76-of-ad-spend-is-typically-wasted-on-experiences-that-dont-convert-stop-wa/406655352108321/",
+    "https://www.facebook.com/fermatcommerce/posts/fermàt-wrapped-to-close-out-2024-what-a-year-its-beenpacked-with-milestones-part/587667987340389/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fermatcommerce note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Fermatcommerce X 投稿",
+   "results": [
+    "https://x.com/fermatcommerce",
+    "https://x.com/fermatcommerce/status/1791179607627956381",
+    "https://x.com/ShinghiD/status/2110789014458712108",
+    "https://x.com/rishabhmjain/articles",
+    "https://www.fermatcommerce.com/",
+    "https://x.com/1010fermat/status/2100983451344425306",
+    "https://x.com/VRC_Fermat/with_replies"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部31頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部31頁・検索12回）"
+ }
+}

@@ -1,0 +1,1466 @@
+{
+ "name": "Fullenrich",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-10T17:09:20.717243+00:00",
+ "official_url": "https://fullenrich.com",
+ "identified_by": "given",
+ "profile": {
+  "連絡先": [
+   {
+    "label": "Work Email Enrichment",
+    "value": "",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   }
+  ],
+  "株主": [
+   {
+    "label": "1. Seed Round",
+    "value": "18-Feb-2025 $2M   Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/707482-00",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Find your next prospect & account",
+    "url": "https://fullenrich.com/",
+    "pass": 1
+   },
+   {
+    "quote": "20+ premium vendors",
+    "url": "https://fullenrich.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every delivered email carries its own bounce probability, so you know your expected bounce rate before you send.",
+    "url": "https://fullenrich.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We're moving to Enterprise.",
+    "url": "https://fullenrich.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing Operation Managers",
+    "url": "https://fullenrich.com/",
+    "pass": 1
+   },
+   {
+    "quote": "priya.sharma@slack.com",
+    "url": "https://fullenrich.com/",
+    "pass": 1
+   },
+   {
+    "quote": "FullEnrich Pricing: Pay Only for Verified Contacts | Plans from Free",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Everything in Pro, plus:",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Ideal for teams that want data on demand to power their GTM or product.",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "products embedding FullEnrich.",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For Every Enterprise Customer",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Custom rate limits & priority queue",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Co-marketing opportunities",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Use our machine-readable pricing",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise SSO (Custom IdP)",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Tell us how your team prospects and we'll estimate your monthly credit needs.",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pro — 15K credits",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We're moving to Enterprise.",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Waterfall enrichment is a process in which you use several different data sources, one after the other, to find a person's email and phone number. The more sources you use, the more contact information you can find, and the more potential customers you can reach.",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes! Every plan — including the free trial — comes with unlimited users at no additional cost. Add your entire team without worrying about per-seat pricing.",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Are you GDPR & CCPA Compliant?",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. We do not have any contact database, meaning we do not store contact information. We only select providers that are CCPA and GDPR compliant. We are also SOC 2 Type II certified.",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing Operation Managers",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "priya.sharma@slack.com",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Target precisely, not approximately",
+    "url": "https://fullenrich.com/search",
+    "pass": 1
+   },
+   {
+    "quote": "Filter by industry, headcount, or HQ location. Refine by job title, seniority, or tenure to build hyper-specific prospect lists.",
+    "url": "https://fullenrich.com/search",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing Operation Managers",
+    "url": "https://fullenrich.com/search",
+    "pass": 1
+   },
+   {
+    "quote": "priya.sharma@slack.com",
+    "url": "https://fullenrich.com/search",
+    "pass": 1
+   },
+   {
+    "quote": "From daily prospecting to team-wide enrichment to building lists from scratch.",
+    "url": "https://fullenrich.com/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Find any prospect in seconds",
+    "url": "https://fullenrich.com/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Enrich 1,000 prospects in one upload",
+    "url": "https://fullenrich.com/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "20+ premium vendors",
+    "url": "https://fullenrich.com/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Every delivered email carries its own bounce probability, so you know your expected bounce rate before you send.",
+    "url": "https://fullenrich.com/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Credit-based pricing means your whole team gets access without a license fight.",
+    "url": "https://fullenrich.com/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing Operation Managers",
+    "url": "https://fullenrich.com/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "priya.sharma@slack.com",
+    "url": "https://fullenrich.com/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "B2B Marketing Data Enrichment: Clean, Verified Contact Data | FullEnrich",
+    "url": "https://fullenrich.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing is a second-class citizen in",
+    "url": "https://fullenrich.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "From daily prospecting to team-wide enrichment to building lists from scratch.",
+    "url": "https://fullenrich.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Qualify inbound leads instantly",
+    "url": "https://fullenrich.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "A form comes in with just an email. Reverse lookup returns the full B2B profile in seconds.",
+    "url": "https://fullenrich.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "20+ premium vendors",
+    "url": "https://fullenrich.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Every delivered email carries its own bounce probability, so you know your expected bounce rate before you send.",
+    "url": "https://fullenrich.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Enrich leads inside the",
+    "url": "https://fullenrich.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Build visual scenarios that enrich leads as they move through your stack.",
+    "url": "https://fullenrich.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Credit-based pricing means marketing can own this line item without fighting for a seat license.",
+    "url": "https://fullenrich.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing Operation Managers",
+    "url": "https://fullenrich.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "priya.sharma@slack.com",
+    "url": "https://fullenrich.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "RevOps teams evaluate enrichment the same way: same list, two tools, one spreadsheet. The waterfall wins that comparison by design, because it queries every source your current provider can't.",
+    "url": "https://fullenrich.com/solutions/revops",
+    "pass": 1
+   },
+   {
+    "quote": "PROCESSED 0 / 1,000",
+    "url": "https://fullenrich.com/solutions/revops",
+    "pass": 1
+   },
+   {
+    "quote": "FullEnrich · 20+ provider waterfall",
+    "url": "https://fullenrich.com/solutions/revops",
+    "pass": 1
+   },
+   {
+    "quote": "20+ providers · verified",
+    "url": "https://fullenrich.com/solutions/revops",
+    "pass": 1
+   },
+   {
+    "quote": "priya.agarwal@gmail.com",
+    "url": "https://fullenrich.com/solutions/revops",
+    "pass": 1
+   },
+   {
+    "quote": "Every delivered email carries its own bounce probability, so you know your expected bounce rate before you send.",
+    "url": "https://fullenrich.com/solutions/revops",
+    "pass": 1
+   },
+   {
+    "quote": "Build visual scenarios that enrich leads as they move through your stack.",
+    "url": "https://fullenrich.com/solutions/revops",
+    "pass": 1
+   },
+   {
+    "quote": "Auto-fill Monday.com with targeted leads",
+    "url": "https://fullenrich.com/solutions/revops",
+    "pass": 1
+   },
+   {
+    "quote": "FullEnrich is what high-performing RevOps teams use so they don't have to become data engineers. We run the aggregation, the verification, and the provider layer. You run revenue.",
+    "url": "https://fullenrich.com/solutions/revops",
+    "pass": 1
+   },
+   {
+    "quote": "Running your own provider stack",
+    "url": "https://fullenrich.com/solutions/revops",
+    "pass": 1
+   },
+   {
+    "quote": "One contract per provider, each with its own renewal and legal review",
+    "url": "https://fullenrich.com/solutions/revops",
+    "pass": 1
+   },
+   {
+    "quote": "Every provider update or API change costs engineering time",
+    "url": "https://fullenrich.com/solutions/revops",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Every delivered email carries its own bounce probability, so you know your expected bounce rate before you send.",
+    "url": "https://fullenrich.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every number is checked with the carrier network. Dead lines are removed.",
+    "url": "https://fullenrich.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your new revenue per month",
+    "url": "https://fullenrich.com/",
+    "pass": 1
+   },
+   {
+    "quote": "current revenue / month",
+    "url": "https://fullenrich.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every delivered email carries its own bounce probability, so you know your expected bounce rate before you send.",
+    "url": "https://fullenrich.com/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Every number is checked with the carrier network. Dead lines are removed.",
+    "url": "https://fullenrich.com/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "500+ employees",
+    "url": "https://fullenrich.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Every delivered email carries its own bounce probability, so you know your expected bounce rate before you send.",
+    "url": "https://fullenrich.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "500+ employees",
+    "url": "https://fullenrich.com/solutions/revops",
+    "pass": 1
+   },
+   {
+    "quote": "Every delivered email carries its own bounce probability, so you know your expected bounce rate before you send.",
+    "url": "https://fullenrich.com/solutions/revops",
+    "pass": 1
+   },
+   {
+    "quote": "Every number is checked with the carrier network. Dead lines are removed.",
+    "url": "https://fullenrich.com/solutions/revops",
+    "pass": 1
+   },
+   {
+    "quote": "FullEnrich is what high-performing RevOps teams use so they don't have to become data engineers. We run the aggregation, the verification, and the provider layer. You run revenue.",
+    "url": "https://fullenrich.com/solutions/revops",
+    "pass": 1
+   },
+   {
+    "quote": "President & Chief Revenue Officer - Hana Digital Group",
+    "url": "https://fullenrich.com/solutions/gtm-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "500+ employees",
+    "url": "https://fullenrich.com/solutions/gtm-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Every delivered email carries its own bounce probability, so you know your expected bounce rate before you send.",
+    "url": "https://fullenrich.com/waterfall-enrichment",
+    "pass": 1
+   },
+   {
+    "quote": "Every number is checked with the carrier network. Dead lines are removed.",
+    "url": "https://fullenrich.com/waterfall-enrichment",
+    "pass": 1
+   },
+   {
+    "quote": "This comprehensive collaboration resulted in a complete transformation of FullEnrich's competitive positioning, sales enablement capabilities, and customer acquisition strategy, establishing them as the definitive waterfall enrichment platform while creating systematic frameworks for ongoing competitive advantage and scalable growth.",
+    "url": "https://genesysgrowth.com/case-studies/fullenrich",
+    "pass": 3
+   },
+   {
+    "quote": ": The dedicated sales decks for core and API offerings combined with four partner program pages created systematic frameworks for revenue growth and market expansion. The consultative selling approach and partnership value propositions maximized deal size while establishing sustainable frameworks for ongoing customer acquisition.",
+    "url": "https://genesysgrowth.com/case-studies/fullenrich",
+    "pass": 3
+   },
+   {
+    "quote": ": The messaging framework and competitive positioning strategy created sustainable foundations for ongoing market leadership while establishing scalable systems for competitive advantage, customer acquisition, and revenue growth in the rapidly evolving contact data landscape.",
+    "url": "https://genesysgrowth.com/case-studies/fullenrich",
+    "pass": 3
+   },
+   {
+    "quote": "The combined impact of these initiatives positioned FullEnrich for sustained market leadership while establishing scalable systems for ongoing competitive advantage, customer acquisition, and revenue growth in the rapidly evolving B2B data enrichment market.",
+    "url": "https://genesysgrowth.com/case-studies/fullenrich",
+    "pass": 3
+   },
+   {
+    "quote": "ARR, up from ~$3M",
+    "url": "https://oneaway.io/case-study/fullenrich",
+    "pass": 3
+   },
+   {
+    "quote": "Source: the vendor and the capability mapping work behind this map. The Revenue AI Report has not independently verified these figures. Verified findings live in",
+    "url": "https://www.therevenueaireport.com/capabilities/fullenrich",
+    "pass": 3
+   },
+   {
+    "quote": "AI and Revenue Dictionary",
+    "url": "https://www.therevenueaireport.com/capabilities/fullenrich",
+    "pass": 3
+   },
+   {
+    "quote": "AI-powered data enrichment platform that provides comprehensive company and contact data for B2B sales and marketing. It sits in the Prospecting & Lead Intelligence category and maps to the Prospecting stage of the revenue journey.",
+    "url": "https://www.therevenueaireport.com/capabilities/fullenrich",
+    "pass": 3
+   },
+   {
+    "quote": "Where does FullEnrich fit in a revenue team?",
+    "url": "https://www.therevenueaireport.com/capabilities/fullenrich",
+    "pass": 3
+   },
+   {
+    "quote": "FullEnrich maps to the Prospecting stage at the Amplify level of ambition, and is usually owned by the Sales seat. Reported use: Marketing teams enriching lead data for segmentation and targeting",
+    "url": "https://www.therevenueaireport.com/capabilities/fullenrich",
+    "pass": 3
+   },
+   {
+    "quote": "FullEnrich has 49 total employees.",
+    "url": "https://pitchbook.com/profiles/company/707482-00",
+    "pass": 3
+   },
+   {
+    "quote": "What is FullEnrich’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/707482-00",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for FullEnrich is",
+    "url": "https://pitchbook.com/profiles/company/707482-00",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "FullEnrich — B2B Email & Phone Waterfall Enrichment",
+    "url": "https://fullenrich.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enrich inbound emails",
+    "url": "https://fullenrich.com/",
+    "pass": 1
+   },
+   {
+    "quote": "If we can't find emails and phone numbers,",
+    "url": "https://fullenrich.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Triple email verification",
+    "url": "https://fullenrich.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Three independent engines must agree. One disagreement removes the email.",
+    "url": "https://fullenrich.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every delivered email carries its own bounce probability, so you know your expected bounce rate before you send.",
+    "url": "https://fullenrich.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A customer asked what we use for email waterfall — I said use FullEnrich. They replied: '",
+    "url": "https://fullenrich.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We're good on cold emails now. Thanks!!'",
+    "url": "https://fullenrich.com/",
+    "pass": 1
+   },
+   {
+    "quote": "1,000 work emails",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "333 personal emails",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "1,000 reverse email lookups",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Work email enrichment",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Personal email enrichment",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced Email & Phone Verification",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Work Email Enrichment",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Personal Email Enrichment",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Reverse Email Lookup API",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "100 work emails × 1 credit",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "A customer asked what we use for email waterfall — I said use FullEnrich. They replied: '",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We're good on cold emails now. Thanks!!'",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Waterfall enrichment is a process in which you use several different data sources, one after the other, to find a person's email and phone number. The more sources you use, the more contact information you can find, and the more potential customers you can reach.",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "What is your email & phone find rate?",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Our email and phone find rate depends on industry, geography, and other factors. As an estimate, it averages at around 80%, but it can be considerably higher. Try it for yourself with your free credits.",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Credits are used when we successfully find verified data. 1 work email found = credits used. 1 phone number found = credits used. If we can't find the data, you don't pay. Credits roll over for 3 months on monthly plans and 12 months on yearly plans.",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "What if I only need emails, or only phone numbers?",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The credits in your plan can be used to find phone numbers, emails, or both. Once your plan is purchased, you can select which type of enrichment you want.",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "FullEnrich — B2B Database with Email & Phone Waterfall Enrichment",
+    "url": "https://fullenrich.com/search",
+    "pass": 1
+   },
+   {
+    "quote": "One-click waterfall enrichment: verified work emails and mobile numbers for entire lists.",
+    "url": "https://fullenrich.com/search",
+    "pass": 1
+   },
+   {
+    "quote": "Sales Contact Data: Verified Emails & Direct Dials for Sales Teams | FullEnrich",
+    "url": "https://fullenrich.com/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Paste a LinkedIn URL, get a verified mobile and email back. No tab-switching, no dead ends.",
+    "url": "https://fullenrich.com/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Upload a CSV from Sales Navigator or your CRM. Get verified emails and mobiles back, ready for your sequencer.",
+    "url": "https://fullenrich.com/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "If we can't find emails and phone numbers,",
+    "url": "https://fullenrich.com/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Dead dials and bounced emails are filtered out before they ever reach your reps.",
+    "url": "https://fullenrich.com/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Triple email verification",
+    "url": "https://fullenrich.com/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Three independent engines must agree. One disagreement removes the email.",
+    "url": "https://fullenrich.com/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Every delivered email carries its own bounce probability, so you know your expected bounce rate before you send.",
+    "url": "https://fullenrich.com/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Upload your list. The waterfall verifies every email and flags deliverability: valid, catch-all resolved, or risky.",
+    "url": "https://fullenrich.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "A form comes in with just an email. Reverse lookup returns the full B2B profile in seconds.",
+    "url": "https://fullenrich.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Search by title, industry, company size, and location. Every contact is enriched with verified emails.",
+    "url": "https://fullenrich.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "If we can't find emails and phone numbers,",
+    "url": "https://fullenrich.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Three verification layers run on every email before it can reach one of your lists.",
+    "url": "https://fullenrich.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Triple email verification",
+    "url": "https://fullenrich.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Three independent engines must agree. One disagreement removes the email.",
+    "url": "https://fullenrich.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Every delivered email carries its own bounce probability, so you know your expected bounce rate before you send.",
+    "url": "https://fullenrich.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Sync enriched emails and phone numbers straight into HubSpot records.",
+    "url": "https://fullenrich.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Triple email verification",
+    "url": "https://fullenrich.com/solutions/revops",
+    "pass": 1
+   },
+   {
+    "quote": "Three independent engines must agree. One disagreement removes the email.",
+    "url": "https://fullenrich.com/solutions/revops",
+    "pass": 1
+   },
+   {
+    "quote": "Every delivered email carries its own bounce probability, so you know your expected bounce rate before you send.",
+    "url": "https://fullenrich.com/solutions/revops",
+    "pass": 1
+   },
+   {
+    "quote": "Sync enriched emails and phone numbers straight into HubSpot records.",
+    "url": "https://fullenrich.com/solutions/revops",
+    "pass": 1
+   },
+   {
+    "quote": "Bring verified emails and phone numbers into GPT and custom OpenAI apps.",
+    "url": "https://fullenrich.com/solutions/revops",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically find verified emails and mobiles for every new Airtable record",
+    "url": "https://fullenrich.com/solutions/revops",
+    "pass": 1
+   },
+   {
+    "quote": "Roughly 30% of what providers return fails our checks: invalid emails, inactive lines, landlines, wrong line owner. It is discarded before it reaches you, and you are never charged for it.",
+    "url": "https://fullenrich.com/solutions/revops",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Enrichment, Search / List Builder, and Reverse Email Lookup are all available through the API: trigger-based on new CRM records, scheduled batches, or as nodes in n8n, Make, and Zapier.",
+    "url": "https://fullenrich.com/solutions/revops",
+    "pass": 1
+   },
+   {
+    "quote": "Recruiter Email Finder: Verified Personal Emails & Mobile Numbers | FullEnrich",
+    "url": "https://fullenrich.com/solutions/recruiters",
+    "pass": 1
+   },
+   {
+    "quote": "Why personal emails and",
+    "url": "https://fullenrich.com/solutions/recruiters",
+    "pass": 1
+   },
+   {
+    "quote": "50% more interested candidates from the same 100 outreaches, by reaching people on personal email or mobile instead of work email or InMail.",
+    "url": "https://fullenrich.com/solutions/recruiters",
+    "pass": 1
+   },
+   {
+    "quote": "1 credit per verified email, 10 per verified mobile, nothing on a miss.",
+    "url": "https://fullenrich.com/solutions/gtm-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "You keep two columns, work email and mobile, and everything stays organized.",
+    "url": "https://fullenrich.com/solutions/gtm-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Triple email verification, catch-all resolution and active-line checks run inside the waterfall. About 30% of provider data never reaches your table.",
+    "url": "https://fullenrich.com/solutions/gtm-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "1 credit per verified email, 10 per verified mobile, nothing on a miss, so you know the bill before the run. Re-running a contact within 3 months isn't charged.",
+    "url": "https://fullenrich.com/solutions/gtm-engineering",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Ideal for teams that need data at scale: large GTM teams, agencies, and",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For Embedded API & Resellers",
+    "url": "https://fullenrich.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Created 10+ landing pages across comparisons, personas, and partner programs",
+    "url": "https://genesysgrowth.com/case-studies/fullenrich",
+    "pass": 3
+   },
+   {
+    "quote": ": The dedicated sales decks for core and API offerings combined with four partner program pages created systematic frameworks for revenue growth and market expansion. The consultative selling approach and partnership value propositions maximized deal size while establishing sustainable frameworks for ongoing customer acquisition.",
+    "url": "https://genesysgrowth.com/case-studies/fullenrich",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "We are a fast growing, high-agency team of builders, operators and closers across two",
+    "url": "https://fullenrich.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "FullEnrich's Case Study | Genesys Growth",
+    "url": "https://genesysgrowth.com/case-studies/fullenrich",
+    "pass": 3
+   },
+   {
+    "quote": "Fullenrich Case Study | OneAway",
+    "url": "https://oneaway.io/case-study/fullenrich",
+    "pass": 3
+   },
+   {
+    "quote": "No named customer case study was found on",
+    "url": "https://www.therevenueaireport.com/capabilities/fullenrich",
+    "pass": 3
+   },
+   {
+    "quote": "No named customer case study was found on FullEnrich's site at the last check. That is not evidence the tool does not work, but there is nothing public to hold the vendor to. Ask for a reference in your segment and stage before buying.",
+    "url": "https://www.therevenueaireport.com/capabilities/fullenrich",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "FullEnrich（フルエンリッチ）とは？料金・機能・日本語対応まとめ | SaaSナビ",
+    "url": "https://saasnavi.net/tools/fullenrich/",
+    "pass": 3
+   },
+   {
+    "quote": "Q. FullEnrich（フルエンリッチ）は日本語に対応していますか？",
+    "url": "https://saasnavi.net/tools/fullenrich/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語対応 (3)",
+    "url": "https://saasnavi.net/alternative/fullenrich/",
+    "pass": 3
+   },
+   {
+    "quote": "Pipedrive（パイプドライブ）はFullEnrich（フルエンリッチ）と同様の機能を持ち、日本語対応も充実しています",
+    "url": "https://saasnavi.net/alternative/fullenrich/",
+    "pass": 3
+   },
+   {
+    "quote": "Q. 日本語対応しているFullEnrich（フルエンリッチ）の代替サービスは？",
+    "url": "https://saasnavi.net/alternative/fullenrich/",
+    "pass": 3
+   },
+   {
+    "quote": "HubSpot（ハブスポット）、Salesforce（セールスフォース）、Zoho CRM（ゾーホー CRM）が日本語に完全対応しています",
+    "url": "https://saasnavi.net/alternative/fullenrich/",
+    "pass": 3
+   },
+   {
+    "quote": "リリース前後にリスト量が増え、キャンペーンの合間に減る代理店にも、長い繰越期間が役立ちます",
+    "url": "https://omidsaffari.com/ja/blog/fullenrich-vs-bettercontact-ja",
+    "pass": 3
+   },
+   {
+    "quote": "毎月およそ1,000件の業務用メール取得を必要とする個人経営の代理店や、余らせずに5,000クレジットを使える電話営業中心のチームなら、BetterContactは料金面で分かりやすい選択肢です",
+    "url": "https://omidsaffari.com/ja/blog/fullenrich-vs-bettercontact-ja",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "FullEnrich（フルエンリッチ）とは？料金・機能・日本語対応まとめ | ... — FullEnrich（フルエンリッチ）は、アメリカ発のCRM・SFAツールです。 20以上のデータプロバイダーを順次検索するウォーターフォール方式のB2Bデータエンリッチメントツール。 メールアドレス・電話番号の検索精度が高く、HubSpot・Salesforce・Apollo連携も可能。",
+    "url": "https://saasnavi.net/tools/fullenrich/",
+    "pass": 3
+   },
+   {
+    "quote": "FullEnrich（フルエンリッチ）の代替ツール おすすめ6選【2026年版】 ... — 料金体系がクレジット制：利用量に応じた課金のため、大量利用時のコスト管理が必要 移行時のポイント FullEnrichから代替サービスへの移行時は、既存のエンリッチメント済みデータ・CRM連携設定を事前に整理することが重要です。",
+    "url": "https://saasnavi.net/alternative/fullenrich/",
+    "pass": 3
+   },
+   {
+    "quote": "FullEnrich: レビュー、機能、価格、ガイド、代替品 — 1. FullEnrichとは何ですか？ FullEnrichは、15以上のプレミアムデータベンダーからの連絡先情報を集約し、ビジネスの見込み客のメールアドレスと電話番号を見つけるのを助けるB2Bメールおよび電話のウォーターフォールエンリッチメントプラットフォームです。",
+    "url": "https://aipure.ai/jp/products/fullenrich",
+    "pass": 3
+   },
+   {
+    "quote": "メールアドレス検索ツール比較｜FullEnrich vs BetterContact | Omid ... — Sep 12, 2026 · FullEnrich と BetterContact という2つのメールアドレス検索ツールは、実証済みの発見率ではなく、処理量の波に合わせて選ぶべきです。 月間1,000クレジット分の取得に成功する場合、BetterContactは$49、FullEnrichは月払いで$55です。",
+    "url": "https://omidsaffari.com/ja/blog/fullenrich-vs-bettercontact-ja",
+    "pass": 3
+   },
+   {
+    "quote": "FullEnrich — ooligo — 複数年のカスタム契約が基本です。 データベースとターゲティングの両方が必要なら ZoomInfo を選んでください。 手元にあるリストのコンタクト項目を埋めるだけなら FullEnrich を選んでください。",
+    "url": "https://ooligo.com/ja/tools/fullenrich/",
+    "pass": 3
+   },
+   {
+    "quote": "FullEnrich — B2B Email & Phone Waterfall Enrichment — #1 Waterfall Enrichment platform with 20+ providers. Find emails and phones of people you want to do business with.",
+    "url": "https://fullenrich.com/",
+    "pass": 3
+   },
+   {
+    "quote": "FullEnrich — B2B Email & Phone Waterfall Enrichment — We piloted FullEnrich with over 70 reps. The results? 2.4x more mobiles found, connect rates that jumped from 6% to 30%, and 5x fewer invalid numbers. They're not just another data vendor. They're the foundation our global outreach runs on. “ Your real differentiator is the accuracy of the data.",
+    "url": "https://fullenrich.com/",
+    "pass": 3
+   },
+   {
+    "quote": "FullEnrich（フルエンリッチ）とは？料金・機能・日本語対応まとめ | ... — FullEnrich（フルエンリッチ）の料金・機能・日本語対応状況を中立にまとめて紹介。 CRM・SFAの代替候補や比較ページもあわせて確認できる。",
+    "url": "https://saasnavi.net/tools/fullenrich/",
+    "pass": 3
+   },
+   {
+    "quote": "FullEnrich — Trust & Safety | Data Security & Compliance ... — Discover how Fullenrich prioritizes trust with secure infrastructure, strict compliance standards, and transparent data practices to protect your business and clients.",
+    "url": "https://fullenrich.com/trust",
+    "pass": 3
+   },
+   {
+    "quote": "FullEnrich — Talk to a Sales Expert — Connect with a FullEnrich sales expert to discuss your needs, explore product options, and get personalized pricing guidance. Start your tailored consultation today.",
+    "url": "https://fullenrich.com/talk-to-sales",
+    "pass": 3
+   },
+   {
+    "quote": "FullEnrich — Do Not Sell My Information | CCPA Opt-Out Request — Exercise your privacy rights with FullEnrich. Submit access, deletion, correction, or do not sell requests.",
+    "url": "https://fullenrich.com/optout",
+    "pass": 3
+   },
+   {
+    "quote": "FullEnrich's Case Study | Genesys Growth — From this research, I developed comprehensive ideal customer profiles using Octave's dynamic ICP modeling that went beyond basic demographics to include specific behavioral and technological characteristics.",
+    "url": "https://genesysgrowth.com/case-studies/fullenrich",
+    "pass": 3
+   },
+   {
+    "quote": "Fullenrich Case Study | OneAway — FullEnrich is a B2B contact enrichment platform that finds emails and phone numbers for your prospects. Instead of relying on a single data provider, it uses waterfall enrichment—querying 20+ vendors simultaneously until it finds valid contact info.",
+    "url": "https://oneaway.io/case-study/fullenrich",
+    "pass": 3
+   },
+   {
+    "quote": "FullEnrich Review: What Buyers Say, Case Studies and Fit — Does FullEnrich publish customer case studies? No named customer case study was found on FullEnrich's site at the last check. That is not evidence the tool does not work, but there is nothing public to hold the vendor to. Ask for a reference in your segment and stage before buying.",
+    "url": "https://www.therevenueaireport.com/capabilities/fullenrich",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Data Enrichment Guides & Insights | FullEnrich — Oct 25, 2026 · Learn how it works, what to enrich and how to set it up safely. We compared 10 waterfall enrichment tools on architecture, verification, billing trigger, pricing and published benchmarks, including the independent study where we lose.",
+    "url": "https://fullenrich.com/content",
+    "pass": 3
+   },
+   {
+    "quote": "FullEnrich 2026 Company Profile: Valuation, Funding ...FullEnrich - 2026 Company Profile, Team, Funding ... - TracxnFullEnrich – Strategic Position & Company Metrics – 2026FullEnrich - Crunchbase Company Profile & FundingFullEnrich — investors & funding | gritt.ioFullenrich: 22 Tools Behind $4M Revenue [2026] | TechList.aiFullEnrich Revenue 2024: $2.1M Est. - getlatka.com — Information on valuatio",
+    "url": "https://pitchbook.com/profiles/company/707482-00",
+    "pass": 3
+   },
+   {
+    "quote": "FullEnrich - 2026 Company Profile, Team, Funding ... - Tracxn — Mar 7, 2026 · FullEnrich - About the company FullEnrich is a seed company based in San Francisco (United States), founded in 2023 by Paul Seloriot and Benjamin Douablin. It operates as a B2B contact enrichment platform for businesses. FullEnrich has raised $2M in funding from Flex Capital.",
+    "url": "https://tracxn.com/d/companies/fullenrich/__vE7sq5y55LxMqSRD6GYorXMaK9f22i4dd-xLEsipknM",
+    "pass": 3
+   },
+   {
+    "quote": "FullEnrich – Strategic Position & Company Metrics – 2026 — Highlights of FullEnrich’s growth include estimated revenue of $4.4M, team of around 30+ employees in United States, supported by continuous improvements.",
+    "url": "https://compworth.com/company/fullenrich",
+    "pass": 3
+   },
+   {
+    "quote": "FullEnrich - Crunchbase Company Profile & FundingFullEnrich — investors & funding | gritt.ioFullenrich: 22 Tools Behind $4M Revenue [2026] | TechList.aiFullEnrich Revenue 2024: $2.1M Est. - getlatka.com — FullEnrich has 7 investors including M-Fund Club and Kima Ventures. When was the last funding round for FullEnrich? FullEnrich closed its last funding round on. from a Seed round. Who are FullEnr",
+    "url": "https://www.crunchbase.com/organization/fullenrich",
+    "pass": 3
+   },
+   {
+    "quote": "FullEnrich — investors & funding | gritt.io — Who invested in FullEnrich? FullEnrich has 20 investors on record on gritt.io, including 20 early-stage backers. When did FullEnrich last raise funding? The most recent investment in FullEnrich recorded on gritt.io was in February 2025. When was FullEnrich founded? FullEnrich was founded in 2023.",
+    "url": "https://www.gritt.io/company/fullenrich/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "FullEnrich (@FullEnrich) / Posts / X FullEnrich (@FullEnrich) - Posts - Get the emails & phone numbers of your prospects with the #1 Waterfall Enrichment platform. Don'... | X (formerly Twitter)",
+    "url": "https://x.com/fullenrich",
+    "pass": 3
+   },
+   {
+    "quote": "Pipeline Engineering with FullEnrich | Benjamin Douablin ... I sold for years before I built anything, and now we run FullEnrich, where around 4,000 teams run their outbound data through us, enterprise companies included.",
+    "url": "https://x.com/BenDouablin/article/2087532163746951483",
+    "pass": 3
+   },
+   {
+    "quote": "Benjamin Douablin (@BenDouablin) / X I spent 7 years selling other people's software before I built anything. Then bootstrapped FullEnrich to $10M a year and 4,000 customers. Same lesson the whole way through: the teams that win outbound do less, on purpose. Here's the order that works:",
+    "url": "https://x.com/BenDouablin",
+    "pass": 3
+   },
+   {
+    "quote": "Firecrawl on X: \"Introducing the People Enrichment Pack ... Introducing the People Enrichment Pack. Apollo, FullEnrich & Data Legion are live in Alexandria, so your agents can: - Find buyers and their work emails - Find talent by skills and job history - Get company size and funding Try it in Claude, ChatGPT or the Firecrawl API today!",
+    "url": "https://x.com/firecrawl/status/2105691791877869844",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "FullEnrich - LinkedIn FullEnrich | 31,383 followers on LinkedIn. Get more emails and phone numbers for your leads.",
+    "url": "https://www.linkedin.com/company/fullenrich/",
+    "pass": 3
+   },
+   {
+    "quote": "FullEnrich: Jobs | LinkedIn FullEnrich | 31,261 followers on LinkedIn. Get more emails and phone numbers for your leads.",
+    "url": "https://www.linkedin.com/company/fullenrich/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Holly Allen - FullEnrich | LinkedInJemima Mason - FullEnrich | LinkedInBenjamin Douablin - CEO @ FullEnrich | GTM Data ... - LinkedInFullenrich Jobs in United States (3,000+ Open Roles) | LinkedInGina Falleroni - Leading Talent Acquisition @ FullEnrich ... Need your sales reps booking more meetings over the phone? You probably need better… · Experience: FullEnrich · Education: University of Nottin",
+    "url": "https://uk.linkedin.com/in/hollyallen1",
+    "pass": 3
+   },
+   {
+    "quote": "Jemima Mason - FullEnrich | LinkedInBenjamin Douablin - CEO @ FullEnrich | GTM Data ... - LinkedInFullenrich Jobs in United States (3,000+ Open Roles) | LinkedInGina Falleroni - Leading Talent Acquisition @ FullEnrich ... Experience: FullEnrich · Education: University of Sussex · Location: United Kingdom · 500+ connections on LinkedIn. View Jemima Mason’s profile on LinkedIn, a professional commun",
+    "url": "https://uk.linkedin.com/in/jemima-mason",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "FullEnrich | San Francisco CA - Facebook Jul 18, 2026 · FullEnrich, San Francisco. 428 followers · 15 talking about this. Get more emails & phone numbers for your lead than with any other data vendors",
+    "url": "https://www.facebook.com/p/FullEnrich-61551419634631/",
+    "pass": 3
+   },
+   {
+    "quote": "FullEnrich - Facebook FullEnrich. 306 likes · 42 talking about this. Get more emails & phone numbers for your lead than with any other data vendors",
+    "url": "https://www.facebook.com/people/FullEnrich/61551419634631/",
+    "pass": 3
+   },
+   {
+    "quote": "FullEnrich - Discover emails and phone numbers of your ... Sep 29, 2025 · Discover emails and phone numbers of your prospects, more than any other provider. Stop losing clients because you couldn’t reach them!",
+    "url": "https://www.facebook.com/61551419634631/posts/discover-emails-and-phone-numbers-of-your-prospects-more-than-any-other-provider/122210425724047321/",
+    "pass": 3
+   },
+   {
+    "quote": "Working in B2B sales & marketing? Finally, find the phone ... May 16, 2025 · Finally, find the phone numbers and emails of your prospects. 📞📧 Stop throwing away more than 50% of your prospect list because you don't have their emails or phone numbers. 🗑️ With FullEnrich, get the highest enrichment rate on the market. 📈 Don't just take our word for it!",
+    "url": "https://www.facebook.com/reel/471372216033893/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://fullenrich.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fullenrich.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fullenrich.com/search",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fullenrich.com/solutions/sales",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fullenrich.com/solutions/marketing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fullenrich.com/solutions/revops",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fullenrich.com/solutions/recruiters",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fullenrich.com/solutions/gtm-engineering",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fullenrich.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fullenrich.com/talk-to-sales",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fullenrich.com/waterfall-enrichment",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://saasnavi.net/tools/fullenrich/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saasnavi.net/alternative/fullenrich/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aipure.ai/jp/products/fullenrich",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://omidsaffari.com/ja/blog/fullenrich-vs-bettercontact-ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai-hikaku.com/?p=36920",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sidebizz.net/blog/agent/general-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saasnavi.net/tools/fullenrich/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://genesysgrowth.com/case-studies/fullenrich",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oneaway.io/case-study/fullenrich",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.therevenueaireport.com/capabilities/fullenrich",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/707482-00",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/fullenrich/__vE7sq5y55LxMqSRD6GYorXMaK9f22i4dd-xLEsipknM",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/fullenrich",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/fullenrich",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/fullenrich",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/BenDouablin/article/2087532163746951483",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/BenDouablin",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/firecrawl/status/2105691791877869844",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/fullenrich/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/fullenrich/jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/hollyallen1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/jemima-mason",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/FullEnrich-61551419634631/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/FullEnrich/61551419634631/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61551419634631/posts/discover-emails-and-phone-numbers-of-your-prospects-more-than-any-other-provider/122210425724047321/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/reel/471372216033893/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fullenrich",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Fullenrich 日本 導入",
+   "results": [
+    "https://saasnavi.net/tools/fullenrich/",
+    "https://saasnavi.net/alternative/fullenrich/",
+    "https://aipure.ai/jp/products/fullenrich",
+    "https://omidsaffari.com/ja/blog/fullenrich-vs-bettercontact-ja",
+    "https://ooligo.com/ja/tools/fullenrich/",
+    "https://fullenrich.com/search",
+    "https://fullenrich.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fullenrich 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://chigai-hikaku.com/?p=36920",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://fullenrich.com/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fullenrich Japan",
+   "results": [
+    "https://fullenrich.com/",
+    "https://saasnavi.net/tools/fullenrich/",
+    "https://fullenrich.com/trust",
+    "https://fullenrich.com/talk-to-sales",
+    "https://fullenrich.com/optout",
+    "https://fullenrich.com/search",
+    "https://fullenrich.com/careers"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fullenrich manufacturing customer case study",
+   "results": [
+    "https://genesysgrowth.com/case-studies/fullenrich",
+    "https://oneaway.io/case-study/fullenrich",
+    "https://www.therevenueaireport.com/capabilities/fullenrich",
+    "https://fullenrich.com/",
+    "https://fullenrich.com/content",
+    "https://www.casestudies.com/company/oneaway/case-study/how-our-lead-generation-service-doubled-response-rates-for-data-provider-fullenrich",
+    "https://www.basedash.com/case-studies/fullenrich"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fullenrich white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://partners.spectrum.com/",
+    "https://www.iqreseller.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fullenrich founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/707482-00",
+    "https://tracxn.com/d/companies/fullenrich/__vE7sq5y55LxMqSRD6GYorXMaK9f22i4dd-xLEsipknM",
+    "https://compworth.com/company/fullenrich",
+    "https://www.crunchbase.com/organization/fullenrich",
+    "https://www.gritt.io/company/fullenrich/",
+    "https://techlist.ai/fullenrich.com",
+    "https://getlatka.com/companies/fullenrich.com"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Fullenrich",
+   "results": [
+    "https://note.com/memomi/n/ncadcd5de72c9?hl=en",
+    "https://note.com/lively_pika8336/n/n5adf36c23e7b",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/okane_penricho/n/n4c9b7f404de0?hl=en",
+    "https://note.com/feelingcat/n/ne6740a998efb?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/yoshiki_shibata/n/n185f3d9e13bc"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Fullenrich",
+   "results": [
+    "https://x.com/fullenrich",
+    "https://x.com/BenDouablin/article/2087532163746951483",
+    "https://x.com/BenDouablin",
+    "https://x.com/firecrawl/status/2105691791877869844",
+    "https://x.com/codyschneider/status/2104919146186084487",
+    "https://x.com/MichLieben/status/2072810063555948610",
+    "https://x.com/ottleyai/status/2087177373078913261"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Fullenrich",
+   "results": [
+    "https://www.linkedin.com/company/fullenrich/",
+    "https://www.linkedin.com/company/fullenrich/jobs",
+    "https://uk.linkedin.com/in/hollyallen1",
+    "https://uk.linkedin.com/in/jemima-mason",
+    "https://www.linkedin.com/in/benjamin-douablin",
+    "https://www.linkedin.com/jobs/fullenrich-jobs",
+    "https://www.linkedin.com/in/ginafalleroni"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Fullenrich",
+   "results": [
+    "https://www.facebook.com/p/FullEnrich-61551419634631/",
+    "https://www.facebook.com/people/FullEnrich/61551419634631/",
+    "https://www.facebook.com/61551419634631/posts/discover-emails-and-phone-numbers-of-your-prospects-more-than-any-other-provider/122210425724047321/",
+    "https://www.facebook.com/reel/471372216033893/",
+    "https://www.facebook.com/reel/1620788131922704/",
+    "https://www.facebook.com/reel/811902797965627/",
+    "https://www.facebook.com/reel/24627305926885923/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fullenrich note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://0115765.com/archives/182006",
+    "https://note.com/sadaaki",
+    "https://fullenrich.com/",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fullenrich X 投稿",
+   "results": [
+    "https://x.com/fullenrich",
+    "https://fullenrich.com/creators",
+    "https://www.instagram.com/fullenrichapp/",
+    "https://fullenrich.com/search",
+    "https://fullenrich.com/",
+    "https://x.com/BenDouablin",
+    "https://www.v2ph.com/company/xiuren"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部33頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部33頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部33頁・検索12回）"
+ }
+}

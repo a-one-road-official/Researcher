@@ -1,0 +1,1906 @@
+{
+ "name": "株式会社NTT",
+ "aliases": [],
+ "context": "PBF=yes 装置=EOS M 300 出典=https://www.youtube.com/watch?v=grDffhuP-AY",
+ "researched_at": "2026-11-10T16:58:59.687555+00:00",
+ "official_url": "https://group.ntt/",
+ "identified_by": "search:yahoo_jp:NTT",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "〒100-8116 東京都千代田区大手町一丁目5番1号 大手町ファーストスクエア イーストタワー 03-6838-5111",
+    "url": "https://group.ntt/jp/corporate/overview/",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立年月日",
+    "value": "設立年月日：1985年4月1日 日本電信電話株式会社法（1984年12月25日 法律第85号）に基づく",
+    "url": "https://group.ntt/jp/corporate/overview/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "9,380億円（2026年3月31日時点）",
+    "url": "https://group.ntt/jp/corporate/overview/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結ベースの従業員数は、344,196名（2026年3月31日時点）",
+    "url": "https://group.ntt/jp/corporate/overview/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "GEOSPACE航空写真（関東・中部・九州エリア）リリース",
+    "url": "https://group.ntt/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "GEOSPACE航空写真（関東・中部・九州エリア）リリース",
+    "url": "https://group.ntt/jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "GEOSPACE航空写真（関東・中部・九州エリア）リリース",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "「カペラ京都」HICAP Reggie Shiu Development of the Year Award（最優秀賞）を受賞",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "NTTインテグレーション、IBM Spyreを活用したAI導入検証サービス「Spyreトライアルサービス」を提供開始 ～実機環境でのAI推論・RAG検証を通じ、Power環境におけるAI導入を支援～",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "ゼロトラスト導入・運用支援サービスの提供開始",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "ゼロトラスト導入・運用支援サービスの提供開始 ～ゼロトラスト環境の導入から運用までをワンストップで提供～",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "アカチャンホンポにdポイントを導入！ -「アカチャンホンポdポイント開始記念！総額1,000万ポイント山分けキャンペーン」も開催！-",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "～長期的に安心して利用できるAIを実現し、スマホチャットサービスへの導入をめざす～（PDF：617KB）",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "NTT東日本の社員が世界最大級のデータ分析プラットフォームKaggleのコンペティション「Biohub - Cell Tracking During Development」にて金メダルを獲得",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "第一交通産業とNTTモビリティが地域交通への自動運転導入に向けた連携協定を締結 人口減少・高齢化社会における持続可能な地域交通の実現をめざし、自動運転の社会実装を推進",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "クリーン燃料証書制度実証事業への参画について -次世代燃料の普及拡大に向けた制度導入および制度設計上の課題の検証-",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "「三井ショッピングパーク ＆mall」「三井アウトレットパーク オンライン」に「d払い」を導入！ -「【三井ショッピングパーク ＆mall・三井アウトレットパーク オンライン】d払い利用でもれなく+5%還元キャンペーン」を開催！-",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "GEOSPACE航空写真（近畿・九州エリア）リリース",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "デジタルテクノロジー、「安心キャビネット(R)」のモバイル通信基盤に「docomo business SIGN(R)」を導入",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "東京靴流通センター、SHOE PLAZAなどを運営するチヨダに、dポイントを導入！ -「【チヨダ】dポイント導入記念！もれなく30倍キャンペーン」を開催！-",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "「GEOSPACE 地番地図」提供エリア拡大「ちばんAPIワイド」で全国対応の高精度な道路幅員データを提供開始",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "全国を網羅する高精度デジタル地図「GEOSPACE 電子地図」最新版（2026年9月版）リリース ～鮮度をキープした正確な住所情報にお客様の各種情報を統合し付加価値の高い戦略MAPに～",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "フォーティエンスコンサルティング、生成AI・AIエージェントの業務活用を支える実行環境の設計・導入支援サービスを提供開始 ～リファレンスアーキテクチャとFDE型コンサルタントの伴走により、環境整備から業務定着までを一貫して支援～",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "NTTインテグレーション、Zscaler DSAパートナー認定を取得 ～Zscaler導入・展開支援体制を強化し、企業のゼロトラストセキュリティ推進を支援～",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年新基準「GX ZEH-M」を見据えた低層集合住宅向けにNTTスマイルエナジーが「低圧一括受電オプション」を提供開始 〜一括受電の現地作業・運用稼働の大幅削減に加え、太陽光遠隔監視により集合住宅への再エネ導入を促進〜",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "国内外の全保有物件において 使用電力の再生可能エネルギー100％化を達成",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "国内初、最新型エリクソン製大容量基地局装置RAN Processor 6672の商用導入完了",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "京都中央信用金庫、「エクサベース ロープレ」を導入し職員の応対力向上に向けたAI活用型研修を実施",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "「docomo business ANCAR® Routing」を宮城県岩沼市役所に導入",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "「eFootballポイント公式サイト」にdポイントを導入 -「eFootball」などKONAMIサッカーゲームでdポイントがたまる、つかえる-",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "京葉銀行へ温室効果ガス排出量可視化プラットフォーム 「C-Turtle® FE」を導入",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンターの",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "EOSの3Dプリンターは産業用のハイエンドな装置です",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター用",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "2009年から本格的に金属3DプリンターのR&Dを開始",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "将来の競争力への投資に樹脂３Dプリンターの大型機EOS P 770を導入",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "EOS/AMCM 3Dプリンター",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターで冷却設計を革新、AM金型を活用して世界最速サイクルタイムを目指す",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターで冷却設計を革新、A…",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "カスタムメイドの骨膜下インプラントを金属3Dプリンターで製造",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "チタン製の眼鏡フレームを金属3Dプリンターで製造",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ＦＵＪＩの3Dプリンター技術導入が生み出す新たなイノベーション：未来への挑戦と展望",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ＦＵＪＩの3Dプリンター技術導入が生み…",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "歯科技工で活躍する金属３Dプリンター【EOS M 100】",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "国内初導入の金属積層造形機 EOS M 300-4",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車レース部品に金属3Dプリンターを適用",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車レース部品に金属3Dプリンターを…",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ドリフト車の開発に金属3Dプリンターを適用",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ドリフト車の開発に金属3Dプリンターを…",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "R31スカイラインのインナーパネルに金属3Dプリンターを適用",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "EOS製 金属3Dプリンターの活用でダイカスト金型のアルミ溶着除去の磨き作業をゼロに",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "EOS製 金属3Dプリンターの活用でダ…",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "『アルマ望遠鏡』の部品へEOSの金属3Dプリンタを適用",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "『アルマ望遠鏡』の部品へEOSの金属3…",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "EOSの金属3Dプリンタ技術が支えるJAXAのH3ロケットの挑戦",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "EOSの金属3Dプリンタ技術が支えるJ…",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Elmet Technologies、3D Systemsの金属3Dプリンタ導入で極超音速機向け部品の生産体制を強化",
+    "url": "https://prtimes.jp/topics/keywords/%E9%87%91%E5%B1%9E%EF%BC%93D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "新型金属3Dプリンター「EOS M4 ONYX」を発表",
+    "url": "https://prtimes.jp/topics/keywords/%E9%87%91%E5%B1%9E%EF%BC%93D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "多様な産業ニーズに応えるEOS金属3Dプリンター用金属材料4種が登場",
+    "url": "https://prtimes.jp/topics/keywords/%E9%87%91%E5%B1%9E%EF%BC%93D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターを活用した大型モックアップを製造",
+    "url": "https://prtimes.jp/topics/keywords/%E9%87%91%E5%B1%9E%EF%BC%93D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "EOS GmbH, AMCM GmbH",
+    "url": "https://mono.ipros.com/product/detail/2000710602/",
+    "pass": 3
+   },
+   {
+    "quote": "３Dプリンターの導入は私たちにお任せください",
+    "url": "https://mono.ipros.com/product/detail/2000710602/",
+    "pass": 3
+   },
+   {
+    "quote": "EOSとAMCMの３Dプリンターの販売を行っております",
+    "url": "https://mono.ipros.com/product/detail/2000710602/",
+    "pass": 3
+   },
+   {
+    "quote": "EOSの３Dプリンターは、LPBF（粉末床溶融結合法）の技術を採用している装置です",
+    "url": "https://mono.ipros.com/product/detail/2000710602/",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "その他（不動産、エネルギー等）",
+    "url": "https://group.ntt/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "GEOSPACE航空写真（関東・中部・九州エリア）リリース",
+    "url": "https://group.ntt/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "世界で最も伝統と権威ある自動車レースの中の1つ",
+    "url": "https://group.ntt/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "その他（不動産、エネルギー等）",
+    "url": "https://group.ntt/jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "GEOSPACE航空写真（関東・中部・九州エリア）リリース",
+    "url": "https://group.ntt/jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "世界で最も伝統と権威ある自動車レースの中の1つ",
+    "url": "https://group.ntt/jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "GEOSPACE航空写真（関東・中部・九州エリア）リリース",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "～衛星を利用した多様なサービスの実現に向けた検討を加速し、宇宙インフラ強化に貢献～（PDF：289KB）",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "宇宙と地上をシームレスにつなぐ光通信基盤の実現へ",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "医学書院、NTT、NTTドコモビジネス、医療現場での「信頼できるAI」の実現に向け、Ubieと医療AI情報プラットフォームの共同実証を開始",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "～信頼性の高い医療情報を医療従事者に届けるため、NTT東日本関東病院で検証～（PDF：161KB）",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "北海道千歳市における先端半導体R&D拠点形成に関する連携協定を締結",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "世界初、無線基地局におけるワークロードシフトとエネルギーマネジメントの協調制御の実現に向けた実証を開始",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "～再生可能エネルギー活用の最大化、電力系統安定化、および災害時の通信サービス継続に貢献～",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "世界初、無線基地局におけるワークロードシフトとエネルギーマネジメントの協調制御の実現に向けた実証を開始 -再生可能エネルギー活用の最大化、電力系統安定化、および災害時の通信サービス継続に貢献-",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "次世代AIコンピューティングを支える光電融合デバイスの量産技術開発を本格化",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "次世代AIコンピューティングを支える光電融合デバイスの量産技術開発を本格化 ～光チップレットの革新的生産技術の研究開発がNEDO事業に採択～",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "GEOSPACE航空写真（近畿・九州エリア）リリース",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車産業の\"SDVシフト\"を経営と技術の両面から支援 ～NTTデータ経営研究所、新コンサルティングサービス2種を提供開始～",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "NTT西日本、フィリップス・ジャパンと業務提携し「睡眠時無呼吸症候群（SAS）オンライン診療サービス」を高度化- 医療×企業×データを一体提供する新たなSAS対策モデルを推進 -",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "NTTドコモビジネスと千歳市、次世代半導体産業振興およびまちづくりに関する包括連携協定を締結",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "～ロボットと機械学習による自律実験から、人が理解・転用できる半導体成膜ルールを創出～",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "国内外の全保有物件において 使用電力の再生可能エネルギー100％化を達成",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "つがる総合病院とNTTドコモビジネス、院内モバイル環境整備を起点に地域医療DXを推進 ～西北五地域における持続可能な医療体制づくりを支援～",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "デジタル病理画像等の医療・研究データ活用を支える超長期・大容量データストレージサービス化に向けた検証を開始 超高密度テープストレージ「IBM Storage Deep Archive」を日本初導入",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "木質バイオマス由来の環境価値を活用したバーチャルPPAにより追加性のある再生可能エネルギー100%化を実現 NTTグループ初、ビル全体での追加性のある再エネ100%化を実現",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "木質バイオマス由来の環境価値を活用したバーチャルPPAにより追加性のある再生可能エネルギー100%化を実現",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "在宅医療対応電子カルテ「モバカルネット」をご利用の医療機関さま向けに 「請求書発送代行オプション」を提供開始",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "患者と医療・社会をつなぐ秘密計算を用いた世界初の秘匿型ePROシステムで有効性を確認",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "～宇宙ネットワークを活用した日本の通信インフラのさらなる安定化へ～",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "在宅医療対応電子カルテ「モバカルネット」、「レセプト代行オプション」を提供開始",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "その他（不動産、エネルギー等）",
+    "url": "https://group.ntt/jp/news/notice/",
+    "pass": 1
+   },
+   {
+    "quote": "世界で最も伝統と権威ある自動車レースの中の1つ",
+    "url": "https://group.ntt/jp/news/notice/",
+    "pass": 1
+   },
+   {
+    "quote": "世界で最も伝統と権威ある自動車レースの中の1つ",
+    "url": "https://group.ntt/jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "その他（不動産、エネルギー等）",
+    "url": "https://group.ntt/jp/newsrelease/2026/11/10/261110a.html",
+    "pass": 1
+   },
+   {
+    "quote": "世界で最も伝統と権威ある自動車レースの中の1つ",
+    "url": "https://group.ntt/jp/newsrelease/2026/11/10/261110a.html",
+    "pass": 1
+   },
+   {
+    "quote": "その他（不動産、エネルギー等）",
+    "url": "https://group.ntt/jp/ir/mailnews/",
+    "pass": 1
+   },
+   {
+    "quote": "その他（不動産、エネルギー等）",
+    "url": "https://group.ntt/jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "世界で最も伝統と権威ある自動車レースの中の1つ",
+    "url": "https://group.ntt/jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "その他（不動産、エネルギー等）",
+    "url": "https://group.ntt/jp/corporate/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "世界で最も伝統と権威ある自動車レースの中の1つ",
+    "url": "https://group.ntt/jp/corporate/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "サイバー防衛演習「Locked Shields 2026」にNTTグループが参加",
+    "url": "https://group.ntt/jp/topics/information/",
+    "pass": 1
+   },
+   {
+    "quote": "世界で最も伝統と権威ある自動車レースの中の1つ",
+    "url": "https://group.ntt/jp/topics/information/",
+    "pass": 1
+   },
+   {
+    "quote": "世界で最も伝統と権威ある自動車レースの中の1つ",
+    "url": "https://group.ntt/jp/topics/disaster/",
+    "pass": 1
+   },
+   {
+    "quote": "その他（不動産、エネルギー等）",
+    "url": "https://group.ntt/jp/topics/2026/10/22/rd_maintenance2.html",
+    "pass": 1
+   },
+   {
+    "quote": "世界で最も伝統と権威ある自動車レースの中の1つ",
+    "url": "https://group.ntt/jp/topics/2026/10/22/rd_maintenance2.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース[新医療リアルワールドデータ研究機構]",
+    "url": "https://group.ntt/jp/newsrelease/group/",
+    "pass": 1
+   },
+   {
+    "quote": "世界で最も伝統と権威ある自動車レースの中の1つ",
+    "url": "https://group.ntt/jp/newsrelease/group/",
+    "pass": 1
+   },
+   {
+    "quote": "その他（不動産、エネルギー等）",
+    "url": "https://group.ntt/jp/newsrelease/2026/11/09/261109b.html",
+    "pass": 1
+   },
+   {
+    "quote": "世界で最も伝統と権威ある自動車レースの中の1つ",
+    "url": "https://group.ntt/jp/newsrelease/2026/11/09/261109b.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属AM技術を用いた脊椎治療向けインプラントの開発で患者の負担削減を期待",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターで冷却設計を革新、AM金型を活用して世界最速サイクルタイムを目指す",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "カスタムメイドの骨膜下インプラントを金属3Dプリンターで製造",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車レース部品に金属3Dプリンターを適用",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車レース部品に金属3Dプリンターを…",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "EOS製 金属3Dプリンターの活用でダイカスト金型のアルミ溶着除去の磨き作業をゼロに",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "国立研究開発法人宇宙航空研究開発機構（JAXA) 様",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体装置産業における３Dプリンター製造部品とその効果の紹介",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体装置産業における３Dプリンター製…",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "金型業界への金属３Dプリンター適用",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "NTTドコモビジネス、チリ国営銅公社(CODELCO)とIOWN(R) APNを活用した銅鉱山遠隔オペレーション高度化に向けた調査・実証を開始",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "低GHG銅鉱石の環境価値を付与した銅ケーブルを物流拠点へ実装 ～バリューチェーン全体でマスバランスクレジットモデルを適用した実証試験を開始～",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末の除去性や生産性を改善し、コスト削減を実現できます",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "チタン製の眼鏡フレームを金属3Dプリンターで製造",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "チタン製の眼鏡フレームを金属3Dプリン…",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "EOS製 金属3Dプリンターの活用でダイカスト金型のアルミ溶着除去の磨き作業をゼロに",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "EOS M 290 とEOS Aluminium AlSi10Mg を利用した積層造形",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末材料の蛍光X線分析とは？金属3Dプリンターの品質管理",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末材料の蛍光X線分析とは？金属3Dプ…",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末粒度分布の測定とは？金属3Dプリンターの品質管理",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末粒度分布の測定とは？金属3Dプリン…",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "純ニッケルによる積層造形の開発【EOS 金属3Dプリンター】",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "AlSi10Mgの積層造形に及ぼす粉末の形状の影響【EOS 金属3Dプリンター】",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "AlSi10Mgの積層造形に及ぼす粉末…",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "工業用純アルミニウムによる積層造形の開発 【EOS 金属3Dプリンター】",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "マルエージング鋼の機械的特性と各元素が与える影響 【EOS 金属3Dプリンター】",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "造形に及ぼす原料粉末の影響③ ~熱処理と機械的特性~ 【EOS 金属3Dプリンター】",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "造形に及ぼす原料粉末の影響② ~造形体の比較調査~ 【EOS 金属3Dプリンター】",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "造形に及ぼす原料粉末の影響① ~粉末の比較調査~ 【EOS 金属3Dプリンター】",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "表面粗度改善 ―アルミニウム合金 編―【EOS 金属3Dプリンター】",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "表面粗度改善 ―マルエージング鋼 編―【EOS 金属3Dプリンター】",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "AM四方山話 #15 粉末材料の危険性",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "AM四方山話 #7 PBFと粉末材料",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "DLyte研磨事例-IN718",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリース：石油・ガス及び半導体産業向けに２種類の３Dプリンター用金属粉末材料を追加（EOS金属3Dプリンター向け）",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリース：リサイクル材100％で製造したアルミニウム粉末材料の販売を開始（EOS金属3Dプリンター向け）",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリース：新たに2種のニッケル基超合金材料を販売開始（EOS金属3Dプリンター向け）",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "石油・ガス及び半導体産業向けに２種類の３Dプリンター用金属粉末材料を追加",
+    "url": "https://prtimes.jp/topics/keywords/%E9%87%91%E5%B1%9E%EF%BC%93D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "リサイクル材100％で製造したアルミニウム粉末材料の販売を開始",
+    "url": "https://prtimes.jp/topics/keywords/%E9%87%91%E5%B1%9E%EF%BC%93D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "【産業用金属・樹脂３Dプリンター 】粉末積層造形システム NTTデータザムテクノロジーズ | イプロスものづくり",
+    "url": "https://mono.ipros.com/product/detail/2000710602/",
+    "pass": 3
+   },
+   {
+    "quote": "【産業用金属・樹脂３Dプリンター 】粉末積層造形システム",
+    "url": "https://mono.ipros.com/product/detail/2000710602/",
+    "pass": 3
+   },
+   {
+    "quote": "EOSの３Dプリンターは、LPBF（粉末床溶融結合法）の技術を採用している装置です",
+    "url": "https://mono.ipros.com/product/detail/2000710602/",
+    "pass": 3
+   },
+   {
+    "quote": "メンテナンス部品や粉末材料を国内にて在庫しているので安定した供給が可能です",
+    "url": "https://mono.ipros.com/product/detail/2000710602/",
+    "pass": 3
+   },
+   {
+    "quote": "EOS社の金属粉末積層造形技術は、30年近く前から開発されてきた歴史のある技術であり、現在では金属3Dプリントの標準となっています",
+    "url": "https://www.nttdata-xam.com/eos-m/",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末積層造形機の世界トップシェアモデル",
+    "url": "https://www.nttdata-xam.com/eos-m/",
+    "pass": 3
+   },
+   {
+    "quote": "レーザー出力を1kWまで増大させたことで、これまで造形が困難であった純銅での造形が可能になったシステム",
+    "url": "https://www.nttdata-xam.com/eos-m/",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "出資確約型事業共創プログラム『Spark-Edge』第2弾で採択企業を決定！",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "出資確約型事業共創プログラム『Spark-Edge』第2弾で採択企業を決定！ ～生物多様性の科学を活用し、自然資本課題の解決とGX推進をめざす～",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "IOWN AI FundによるiPronicsへの初号出資を起点に、次世代AIインフラの実現とIOWNエコシステムの構築を推進",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "当社および当社子会社の取締役等に対する業績連動型株式報酬制度の一部改定に伴う追加拠出に関するお知らせ",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "Zuta-Core Ltd.への出資について",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "NTTとTBS、次世代エデュテインメント事業を推進する共同出資会社「e6合同会社」を設立へ",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "出資確約型事業共創プログラム『Spark-Edge For Next Challengers』出資上限額を最大1,000万円に拡大～西日本エリアから「自然資本」の課題解決へ",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "出資確約型事業共創プログラム『Spark-Edge For Next Challengers』 出資上限額を最大1,000万円に拡大 ～西日本エリアから「自然資本」の課題解決へ",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "NTT東日本と地域子会社4社の統合等について",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "NTT西日本がugoへ出資～マルチロボティクスプラットフォームの展開を加速～",
+    "url": "https://group.ntt/jp/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "IRニュース | 株主・投資家情報 | NTT",
+    "url": "https://group.ntt/jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "当社および当社子会社の取締役等に対する業績連動型株式報酬制度の一部改定に伴う追加拠出に関するお知らせ（NTT持株）",
+    "url": "https://group.ntt/jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "第41回定時株主総会の模様を掲載しました",
+    "url": "https://group.ntt/jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "メールニュース | 株主・投資家情報 | NTT",
+    "url": "https://group.ntt/jp/ir/mailnews/",
+    "pass": 1
+   },
+   {
+    "quote": "また、上場日からの株価を検索することができます",
+    "url": "https://group.ntt/jp/ir/mailnews/",
+    "pass": 1
+   },
+   {
+    "quote": "本日の取締役会において、当社及び当社子会社の取締役等に対する業績連動型株式報酬制度に",
+    "url": "https://group.ntt/jp/newsrelease/2026/05/08/pdf/260508ba.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2. 当社及び当社子会社の取締役等に対する業績連動型株式報酬制度の一部変更について",
+    "url": "https://group.ntt/jp/newsrelease/2026/05/08/pdf/260508ba.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "** 指定する子会社とは別に、従業員エンゲージメント調査は順次拡大してぉおり、2024",
+    "url": "https://group.ntt/jp/newsrelease/2026/05/08/pdf/260508ba.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "インターネット企画株式会社（資本金1億円）設立",
+    "url": "https://www.ntt-itn.co.jp/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "AMCMは、2017年に設立したEOSの100%出資会社です",
+    "url": "https://mono.ipros.com/product/detail/2000710602/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金：490百万円",
+    "url": "https://www.r-agent.com/viewjob/jk23989ce8ab3240ec/",
+    "pass": 3
+   },
+   {
+    "quote": "主な株主：株式会社NTTデータ ALLOYED LIMITED",
+    "url": "https://www.r-agent.com/viewjob/jk23989ce8ab3240ec/",
+    "pass": 3
+   },
+   {
+    "quote": "プライム上場大手ならではの安定基盤のもと、チーム連携と業務改善を通じて幅広い事務管理スキルが磨けます",
+    "url": "https://www.r-agent.com/viewjob/jk23989ce8ab3240ec/",
+    "pass": 3
+   },
+   {
+    "quote": "会社として必要な取締役会・株主総会の運営、ならびに職務権限表の改訂などグループのルールを遵守するための準備と、それを組織内に周知・展開する役割を担う、総務並びにガバナンス関連業務全般をお任せします",
+    "url": "https://www.r-agent.com/viewjob/jk23989ce8ab3240ec/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 楽天グループ株式会社 求人名 【総務・ガバナンス】職種未経験大歓迎★バックオフィスへの転身可能 1039240 仕事の内容 会社として必要な取締役会・株主総会の運営、ならびに職務権限表の改訂などグループのルールを遵守するための準備と、それを組織内に周知・展開する役割を担う、総務並びにガバナンス関連業務全般をお任せします",
+    "url": "https://www.r-agent.com/viewjob/jk23989ce8ab3240ec/",
+    "pass": 3
+   },
+   {
+    "quote": "＜具体的な業務内容＞ ■取締役会、株主総会運営 ■朝会、締会、（Ｑ毎開催）戦略共有会準備運営 ■サプライヤー選定から支払いまでの調達オペレーションの整備並びに監査 ■ファシリティ関連 ■接待贈答、インシデント報告のとりまとめ ■許認可手続き ■上記業務に関するマニュアルやオペレーションの整備 募集職種 【総務・ガバナンス】職種未経験大歓迎★バックオフィスへの転身可能 1039240",
+    "url": "https://www.r-agent.com/viewjob/jk23989ce8ab3240ec/",
+    "pass": 3
+   },
+   {
+    "quote": "■人事総務:採用・人財育成・労務・総務 ■広報IR:株主や投資家対応・広報活動 ■財務経理:予算編成・管理・決算業務 ■経営企画:経営戦略や事業計画策定・推進・事業分析 ■法務コンプライアンス:契約審査・法務相談・コンプライアンス推進 【育成】基礎から着実に業務を修得し、将来は部門横断の課題解決や業務改善を主導する存在へ成長できます",
+    "url": "https://www.r-agent.com/viewjob/jk23989ce8ab3240ec/",
+    "pass": 3
+   },
+   {
+    "quote": "経理(上場経理・業務改善)*フルリモート可* 財務会計",
+    "url": "https://www.r-agent.com/viewjob/jk23989ce8ab3240ec/",
+    "pass": 3
+   },
+   {
+    "quote": "単体・連結決算、開示、税務等の上場企業経理全般をお任せします",
+    "url": "https://www.r-agent.com/viewjob/jk23989ce8ab3240ec/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 さくらインターネット株式会社 求人名 経理（上場経理・業務改善)＊フルリモート可＊ 仕事の内容 単体・連結決算、開示、税務等の上場企業経理全般をお任せします",
+    "url": "https://www.r-agent.com/viewjob/jk23989ce8ab3240ec/",
+    "pass": 3
+   },
+   {
+    "quote": "・月次・四半期・年次の単体決算および連結決算、各種法定開示資料の作成業務全般 ・新規サービスや事業スキーム等に関する複雑な会計論点整理および会計処理の検討 ・属人化している経理業務の徹底した棚卸しと可視化、業務フローやルールの再整備 ・経理業務におけるAI・自動化技術の活用検討、システムを用いた業務改善企画推進 ・事業部門からの専門的な会計相談対応、監査法人や顧問税理士等との高度な折衝業務 募集職種 経理（上場経理・業務改善)＊フルリモート可＊",
+    "url": "https://www.r-agent.com/viewjob/jk23989ce8ab3240ec/",
+    "pass": 3
+   },
+   {
+    "quote": "必要な経験・能力等 【必須】以下の会計知識および実務経験をお持ちの方 ■上場企業、またはそれに準ずる企業における経理実務経験 ■単体決算を一通り自律して遂行できる知識・実務経験 ■会計基準・税法等に関する一定以上の知識 ■定型的な経理処理だけではなく、新たな取引・事象について会計論点を整理し、関係者と調整しながら対応した経験 ■業務上必要な情報を自ら収集し、周囲と連携しながら業務を推進した経験 【歓迎】■税務実務、監査法人や税理士との折衝、上場企業での連結決算や各種開示の実務経験 ■経理業務の標準化や抜本的な改善推進、AIや最新の会計システム等の導入や運用経験など 学歴・資格 学歴：大学院 大学 高専 短大 専修学校 高校 語学力： 資格：",
+    "url": "https://www.r-agent.com/viewjob/jk23989ce8ab3240ec/",
+    "pass": 3
+   },
+   {
+    "quote": "【大阪】営業事務 日立製作所100%出資/年休126日/安定基盤で長く働く 機械/電気/電子製品法人営業",
+    "url": "https://www.r-agent.com/viewjob/jk23989ce8ab3240ec/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 関西日立株式会社 求人名 【大阪】営業事務◆日立製作所100％出資/年休126日/安定基盤で長く働く 仕事の内容 営業担当者のサポート業務を中心に、受発注管理や見積書作成などの事務業務をお任せします",
+    "url": "https://www.r-agent.com/viewjob/jk23989ce8ab3240ec/",
+    "pass": 3
+   },
+   {
+    "quote": "・見積書、提案資料の作成補助 ・受発注処理 ・売上、請求関連業務 ・納期確認、調整 ・営業担当者のスケジュール管理 ・顧客情報や案件情報の管理 ・社内関係部署との連携 募集職種 【大阪】営業事務◆日立製作所100％出資/年休126日/安定基盤で長く働く",
+    "url": "https://www.r-agent.com/viewjob/jk23989ce8ab3240ec/",
+    "pass": 3
+   },
+   {
+    "quote": "●総務／株主総会、秘書業務、広報、サステナビリティ推進、リスク・コンプライアンスなど●経理／決算、会計・税務業務など",
+    "url": "https://www.r-agent.com/viewjob/jk23989ce8ab3240ec/",
+    "pass": 3
+   },
+   {
+    "quote": "●総務／株主総会、秘書業務、広報、サステナビリティ推進、リスク・コンプライアンスなど●経理／決算、会計・税務業務など ●経営企画／経営企画関連業務、予算管理、所有物件の再開発業務など●人事／採用、労務、給与、人財育成など●営業／オフィス・倉庫の新規テナント誘致、契約更新、月極駐車場管理業務など●運営管理／所有物件のAM・PM業務など●イベント事業／展示場・貸し会議室の運営、時間貸し駐車場管理業務など●PM事業／他社物件のPM業務 募集職種 第2新卒歓迎【三菱地所Gr/総合職】転勤無/新卒大手入社者の次のキャリアに",
+    "url": "https://www.r-agent.com/viewjob/jk23989ce8ab3240ec/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 株式会社関東合人社 求人名 【目黒】未経験・ベテラン歓迎!マンション管理事務◎転勤無【契約社員】 仕事の内容 【契約社員採用の求人です】★異業界からの転職者が多数活躍中！ ■マンション管理組合の運営サポート及び管理員の指導 ■担当物件における修繕工事等受注業務 ■事務所内での事務業務等 【年収補足】532万円 ＋別途インセンティヴで平均約100万円/年（昨年度実績） ＋管理業務主任者資格手当50,000円/月 ★親会社である株式会社合人社計画研究所社のグループ会社として、質の高いサービスと適性価格を武器に約20年受託戸数増加中です",
+    "url": "https://www.r-agent.com/viewjob/jk23989ce8ab3240ec/",
+    "pass": 3
+   },
+   {
+    "quote": "【商品企画】新規オーガニックブランド立ち上げ/上場企業/在宅・フレックス有 商品企画",
+    "url": "https://www.r-agent.com/viewjob/jk23989ce8ab3240ec/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 株式会社ミルボン 求人名 【商品企画】新規オーガニックブランド立ち上げ/上場企業/在宅・フレックス有 仕事の内容 オーガニック事業部にて、美容室向けの新たなオーガニック・ナチュラル系ブランド（20～30代向け）の立ち上げに伴う商品企画をお任せします",
+    "url": "https://www.r-agent.com/viewjob/jk23989ce8ab3240ec/",
+    "pass": 3
+   },
+   {
+    "quote": "募集職種 【商品企画】新規オーガニックブランド立ち上げ/上場企業/在宅・フレックス有",
+    "url": "https://www.r-agent.com/viewjob/jk23989ce8ab3240ec/",
+    "pass": 3
+   },
+   {
+    "quote": "【東京/営業アシスタント】東証プライム上場企業グループ/年間休日124日 営業事務",
+    "url": "https://www.r-agent.com/viewjob/jk23989ce8ab3240ec/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 ｎｍｓホールディングス株式会社 求人名 【東京/営業アシスタント】東証プライム上場企業グループ/年間休日124日 仕事の内容 製造受託や人材派遣などをグローバルに展開する当社にて、事業推進部における営業サポートや顧客対応、グループ横断の案件進行管理など、営業組織の生産性向上を支えるアシスタント業務全般を担当いただきます",
+    "url": "https://www.r-agent.com/viewjob/jk23989ce8ab3240ec/",
+    "pass": 3
+   },
+   {
+    "quote": "【具体的には】 《1,営業サポート業務》■見積書・契約書・請求書作成■提案資料作成補助■マーケット分析■受発注管理■顧客情報管理(Salesforce等)■営業実績データ集計■営業会議資料作成(会議資料及び議事等)■ホールディング事業会社営業進捗管理■稟議等申請対応及び管理■営業同行有 《2,顧客対応》■電話・メール対応■顧客からの問い合わせ対応■スケジュール調整■グループ会社間を含む社内関連部門との調整 募集職種 【東京/営業アシスタント】東証プライム上場企業グループ/年間休日124日",
+    "url": "https://www.r-agent.com/viewjob/jk23989ce8ab3240ec/",
+    "pass": 3
+   },
+   {
+    "quote": "必要な経験・能力等 【必須要件】■営業事務または営業アシスタント経験1年以上■Excel、Word、PowerPointの基本操作■社内外とのコミュニケーション能力 【歓迎要件】英語に抵抗が無い方 【魅力】2026年9月より東証プライム上場企業である株式会社ワールドホールディングスの完全子会社となり、経営体制の再構築、事業ポートフォリオ見直し、ガバナンス体制のさらなる高度化を進めています",
+    "url": "https://www.r-agent.com/viewjob/jk23989ce8ab3240ec/",
+    "pass": 3
+   },
+   {
+    "quote": "8. 株主還元方針（投資家目線の安定性）",
+    "url": "https://note.com/magic_swift2546/n/n2685ffd242e6",
+    "pass": 3
+   },
+   {
+    "quote": "資本効率と健全性（親会社：NTT持株の方針）",
+    "url": "https://note.com/magic_swift2546/n/n2685ffd242e6",
+    "pass": 3
+   },
+   {
+    "quote": "親会社であるNTTが機動的に実施しており、グループ全体で1株当たり利益（EPS）の最大化にコミットしている",
+    "url": "https://note.com/magic_swift2546/n/n2685ffd242e6",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 | 会社情報 - NTT Group — 会社概要 | 会社情報 - NTT Group group.ntt https://group.ntt > トップページ > 会社情報",
+    "url": "https://group.ntt/jp/corporate/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "会社 案内｜企業 情報 - NTTドコモビジネス — 会社 案内｜企業 情報 - NTTドコモビジネス NTTドコモビジネス https://www.ntt.com > about-us > company-profile",
+    "url": "https://www.ntt.com/about-us/company-profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - NTTインターネット — 会社概要 - NTTインターネット NTTインターネット https://www.ntt-itn.co.jp > 会社案内",
+    "url": "https://www.ntt-itn.co.jp/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "プロフィール | NTT データ - NTT DATA — プロフィール | NTT データ - NTT DATA NTT Data https://www.nttdata.com > ... > 企業情報 > プロフィール",
+    "url": "https://www.nttdata.com/jp/ja/about-us/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "NTT - Wikipedia — NTT - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > NTT",
+    "url": "https://ja.wikipedia.org/wiki/NTT",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 NTT データザムテクノロジーズ — 株式会社 NTT データザムテクノロジーズ 株式会社NTTデータザムテクノロジーズ https://www.nttdata-xam.com",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "EOS 3Dプリンター / 金属 — EOS 3Dプリンター / 金属 株式会社NTTデータザムテクノロジーズ https://www.nttdata-xam.com > eos-m",
+    "url": "https://www.nttdata-xam.com/eos-m/",
+    "pass": 3
+   },
+   {
+    "quote": "徹底した品質の作りこみをデジタルで実装！ NTT データ ザム ... — 徹底した品質の作りこみをデジタルで実装！ NTT データ ザム ... ShareLab NEWS https://news.sharelab.jp > 独自記事",
+    "url": "https://news.sharelab.jp/interviews/xam-factory-tour-221102/",
+    "pass": 3
+   },
+   {
+    "quote": "大阪⇒島根/ 金属積層造形 オペレータ/ NTT データG/年休128日 ... — 大阪⇒島根/ 金属積層造形 オペレータ/ NTT データG/年休128日 ... リクルートエージェント https://www.r-agent.com > 大阪府 > 大阪市 > 西淀川区",
+    "url": "https://www.r-agent.com/viewjob/jk23989ce8ab3240ec/",
+    "pass": 3
+   },
+   {
+    "quote": "株式の概要 | 株式・債券情報 | 株主 ・投資家情報 - NTT Group — 株式の概要 | 株式・債券情報 | 株主 ・投資家情報 - NTT Group group.ntt https://group.ntt > shares > digest",
+    "url": "https://group.ntt/jp/ir/shares/digest.html",
+    "pass": 3
+   },
+   {
+    "quote": "株主 ・投資家情報 - NTT Group — 株主 ・投資家情報 - NTT Group group.ntt https://group.ntt > ...",
+    "url": "https://group.ntt/jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "グループ企業一覧 | NTT グループについて - NTT Group — グループ企業一覧 | NTT グループについて - NTT Group group.ntt https://group.ntt > トップページ > NTTグループについて",
+    "url": "https://group.ntt/jp/group/gnavi/",
+    "pass": 3
+   },
+   {
+    "quote": "よくあるご質問 | NTT データグループ — よくあるご質問 | NTT データグループ NTT Data https://www.nttdata.com > ... > IR情報 > よくあるご質問",
+    "url": "https://www.nttdata.com/global/ja/investors/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "NTT データグループの 完全 子会社 化について — NTT データグループの 完全 子会社 化について 総務省 PDF https://www.soumu.go.jp > main_content",
+    "url": "https://www.soumu.go.jp/main_content/001021643.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "数字でわかる NTT | NTT グループについて — 数字でわかる NTT | NTT グループについて group.ntt https://group.ntt > トップページ > NTTグループについて",
+    "url": "https://group.ntt/jp/group/at_a_glance.html",
+    "pass": 3
+   },
+   {
+    "quote": "NTT （9432）の 従業員数 の推移 - IRBANK — NTT （9432）の 従業員数 の推移 - IRBANK IRBANK https://irbank.net > 情報・通信業 > NTT",
+    "url": "https://irbank.net/E04430/worker",
+    "pass": 3
+   },
+   {
+    "quote": "NTT グループの会社概要 | マイナビ2028 — NTT グループの会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp104297 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp104297/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "プロフィール | NTT データグループ - NTT DATA GROUP — プロフィール | NTT データグループ - NTT DATA GROUP NTT Data https://www.nttdata.com > ... > 企業情報 > プロフィール",
+    "url": "https://www.nttdata.com/global/ja/about-us/profile/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "NTT の人気・新着記事まとめ - note NTT の人気・新着記事まとめ - note note https://note.com > tag > NTT",
+    "url": "https://note.com/tag/NTT",
+    "pass": 3
+   },
+   {
+    "quote": "東日本電信電話（ NTT 東日本）｜同業他社と比較して分かる ... 東日本電信電話（ NTT 東日本）｜同業他社と比較して分かる ... note https://note.com > キャリア > 企業分析",
+    "url": "https://note.com/magic_swift2546/n/n2685ffd242e6",
+    "pass": 3
+   },
+   {
+    "quote": "moreドコモ @ NTT ドコモ採用チーム moreドコモ @ NTT ドコモ採用チーム note.com https://note.com > docomo_recruit",
+    "url": "https://note.com/docomo_recruit",
+    "pass": 3
+   },
+   {
+    "quote": "KOEL DESIGN STUDIO by NTT docomo Business - note KOEL DESIGN STUDIO by NTT docomo Business - note note https://note.com > koelnote",
+    "url": "https://note.com/koelnote",
+    "pass": 3
+   },
+   {
+    "quote": "NTT ドコモビジネス エバンジェリスト - note NTT ドコモビジネス エバンジェリスト - note note https://note.com > ndb_evangelist",
+    "url": "https://note.com/ndb_evangelist",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "NTTは次世代通信基盤IOWNや大規模なAIデータセンター建設など、次世代の社会インフラ構築に注力しています。",
+    "url": "https://note.com/tag/NTT",
+    "pass": 3
+   },
+   {
+    "quote": "高配当株としての投資分析や、最新技術がもたらす事業変革に関する記事が集まっています。",
+    "url": "https://note.com/tag/NTT",
+    "pass": 3
+   },
+   {
+    "quote": "NTTは次世代通信基盤IOWNや大規模なAIデータセンター建設など、次世代の社会イン…",
+    "url": "https://note.com/tag/NTT",
+    "pass": 3
+   },
+   {
+    "quote": "11月10日（火）ザラ場市況｜夕刊 株式投資",
+    "url": "https://note.com/tag/NTT",
+    "pass": 3
+   },
+   {
+    "quote": "【新NISA】オルカンの次は！！心臓バクバク！！ついに、、、、人生初の個別株を買いましたーーー！！😭📱✨",
+    "url": "https://note.com/tag/NTT",
+    "pass": 3
+   },
+   {
+    "quote": "あみ /知識ほぼゼロから AIと投資とポイ活に挑戦しています",
+    "url": "https://note.com/tag/NTT",
+    "pass": 3
+   },
+   {
+    "quote": "1株から始めた株式投資。初めての配当金はいくら？",
+    "url": "https://note.com/tag/NTT",
+    "pass": 3
+   },
+   {
+    "quote": "東日本電信電話（NTT東日本）｜同業他社と比較して分かる強み・年収・働き方・成長性【企業研究】｜出典つき企業研究ノート_note",
+    "url": "https://note.com/magic_swift2546/n/n2685ffd242e6",
+    "pass": 3
+   },
+   {
+    "quote": "東日本電信電話（NTT東日本）｜同業他社と比較して分かる強み・年収・働き方・成長性【企業研究】",
+    "url": "https://note.com/magic_swift2546/n/n2685ffd242e6",
+    "pass": 3
+   },
+   {
+    "quote": "東日本電信電話株式会社（NTT東日本）は、NTTグループの中核を担い、東日本地域における通信インフラの構築・運用を独占的に行う巨大企業です。かつての「電話会社」から、地域の課題をデジタルで解決する「ソーシャルイノベーション企業」へと急速に舵を切っており、光回線アセットをベースにしたDX（デジタルトランスフォーメーション）支援やAI、ドローン事業など、ICT（情報通信技術）全般のソリューションプロバイダーとして圧倒的な存在感を誇ります。",
+    "url": "https://note.com/magic_swift2546/n/n2685ffd242e6",
+    "pass": 3
+   },
+   {
+    "quote": "東日本全域を網羅する強固な光回線網と、地域に密着した1.5万人の保守・営業体制を保有。通信インフラという「究極の安定」を土台に、地域の一次産業や自治体のDXを一気通貫で支援できる唯一無二の立ち位置。",
+    "url": "https://note.com/magic_swift2546/n/n2685ffd242e6",
+    "pass": 3
+   },
+   {
+    "quote": "固定電話収益の減少を、ICTソリューション事業（システム導入・保守等）の増益で相殺。2025年度中間決算では、企業向けクラウドサービスやセキュリティ商材が2ケタ成長を記録し、構造改革が結実しつつある。",
+    "url": "https://note.com/magic_swift2546/n/n2685ffd242e6",
+    "pass": 3
+   },
+   {
+    "quote": "離職率1%未満の「究極の福利厚生」と、NTTグループ内で最も「地域貢献」に特化したキャリア。ジョブ型雇用の導入により、安定した基盤の上で高度なIT専門性を磨ける環境へと進化している。",
+    "url": "https://note.com/magic_swift2546/n/n2685ffd242e6",
+    "pass": 3
+   },
+   {
+    "quote": "約4,700名（単体）／約44,000名（グループ連結）",
+    "url": "https://note.com/magic_swift2546/n/n2685ffd242e6",
+    "pass": 3
+   },
+   {
+    "quote": "最新の決算数値（2026年3月期 第2四半期実績：2025年11月公表）",
+    "url": "https://note.com/magic_swift2546/n/n2685ffd242e6",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用にエントリーいただく方はこちらからエントリーをお願いします！",
+    "url": "https://note.nttdocomo-fresh.jp/?gs=ca87e904509d98ea6fc703144622a731",
+    "pass": 3
+   },
+   {
+    "quote": "採用チームに聞きたい内容はこちらから募集中！",
+    "url": "https://note.nttdocomo-fresh.jp/?gs=ca87e904509d98ea6fc703144622a731",
+    "pass": 3
+   },
+   {
+    "quote": "【NTTドコモ】社会インフラの”推し活”をけん引するマーケティング推進部が求める人物像とは？｜ドコモ採用YouTube #28卒 #nttドコモ #インターン #就活 #推し活 #ファンダム",
+    "url": "https://note.nttdocomo-fresh.jp/?gs=ca87e904509d98ea6fc703144622a731",
+    "pass": 3
+   },
+   {
+    "quote": "【NTTドコモ】セキュリティを最前線で守る女性社員に密着！【28卒】｜ NTTドコモ採用YouTube #28卒 #密着 #nttドコモ #インターン #就活",
+    "url": "https://note.nttdocomo-fresh.jp/?gs=ca87e904509d98ea6fc703144622a731",
+    "pass": 3
+   },
+   {
+    "quote": "【NTTドコモ】世界最先端の技術開発をリードするR＆Dイノベーション本部・イノベーションセンターが求める人材を語る！ #28卒 #nttドコモ #インターンシップ #就活",
+    "url": "https://note.nttdocomo-fresh.jp/?gs=ca87e904509d98ea6fc703144622a731",
+    "pass": 3
+   },
+   {
+    "quote": "【NTTドコモ】地域の最前線で活躍する社員に密着！【28卒】｜ NTTドコモ採用YouTube #28卒 #nttドコモ #密着 #インターン #地域",
+    "url": "https://note.nttdocomo-fresh.jp/?gs=ca87e904509d98ea6fc703144622a731",
+    "pass": 3
+   },
+   {
+    "quote": "【NTTドコモ】地域の未来を変える支社カスタマーサクセス部が果たす役割と求める人物像とは？ ｜ ドコモ採用YouTube #28卒 #nttドコモ #インターン #就活 #地方創生",
+    "url": "https://note.nttdocomo-fresh.jp/?gs=ca87e904509d98ea6fc703144622a731",
+    "pass": 3
+   },
+   {
+    "quote": "早期選考へのチャンスも！自分のペースで挑戦できる「バーチャルインターンシップ」とは？",
+    "url": "https://note.nttdocomo-fresh.jp/?gs=ca87e904509d98ea6fc703144622a731",
+    "pass": 3
+   },
+   {
+    "quote": "KOEL DESIGN STUDIO by NTT docomo Business｜note",
+    "url": "https://note.com/koelnote",
+    "pass": 3
+   },
+   {
+    "quote": "これからの時代に企業が備えるべきデザインマネジメント−DSS-P改訂から読み解く− | DSS-P/デザインマネジメントシンポジウム 登壇レポート",
+    "url": "https://note.com/koelnote",
+    "pass": 3
+   },
+   {
+    "quote": "KOEL DESIGN STUDIO by NTT docomo Business",
+    "url": "https://note.com/koelnote",
+    "pass": 3
+   },
+   {
+    "quote": "KOELが支援する「chakoshi」が2026年度グッドデザイン賞を受賞しました",
+    "url": "https://note.com/koelnote",
+    "pass": 3
+   },
+   {
+    "quote": "デザイナーがいないチームでも自走できる仕組みを。KOELが約2ヶ月で構築したAIによるデザイン開発プロセス | Vibe.TOKYO登壇レポート",
+    "url": "https://note.com/koelnote",
+    "pass": 3
+   },
+   {
+    "quote": "一人の「面白そう」に仲間が集まり、奨励賞受賞！ 有志チームで挑んだPLATEAU AWARDと挑戦を後押しするKOELの文化",
+    "url": "https://note.com/koelnote",
+    "pass": 3
+   },
+   {
+    "quote": "NTTドコモビジネス エバンジェリスト｜note",
+    "url": "https://note.com/ndb_evangelist",
+    "pass": 3
+   },
+   {
+    "quote": "AI時代、Webサービスをどう守る？ パッチ適用だけに頼らない脆弱性対策",
+    "url": "https://note.com/ndb_evangelist",
+    "pass": 3
+   },
+   {
+    "quote": "AI時代のデータ活用の切り札、PETs（プライバシー強化技術）と秘密計算とは（後編）",
+    "url": "https://note.com/ndb_evangelist",
+    "pass": 3
+   },
+   {
+    "quote": "AI時代のデータ活用の切り札、PETs（プライバシー強化技術）と秘密計算とは（前編）",
+    "url": "https://note.com/ndb_evangelist",
+    "pass": 3
+   },
+   {
+    "quote": "SDV時代のクルマとコネクティビティの関係③",
+    "url": "https://note.com/ndb_evangelist",
+    "pass": 3
+   },
+   {
+    "quote": "SDV時代のクルマとコネクティビティの関係②",
+    "url": "https://note.com/ndb_evangelist",
+    "pass": 3
+   },
+   {
+    "quote": "つながることが当たり前になった今、モバイル通信の価値は？～「ギガ」の次に通信事業者が模索する、未来の価値～",
+    "url": "https://note.com/ndb_evangelist",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "NTT DATA (Official) (@NTTDATA) / X NTT DATA (Official) (@NTTDATA) / X X https://x.com > NTTDATA",
+    "url": "https://x.com/NTTDATA",
+    "pass": 3
+   },
+   {
+    "quote": "NTT DATA, Inc. (@nttdata_inc) / X NTT DATA, Inc. (@nttdata_inc) / X X https://x.com > nttdata_inc",
+    "url": "https://x.com/nttdata_inc",
+    "pass": 3
+   },
+   {
+    "quote": "NTT Data - Partners - X NTT Data - Partners - X X Official Partners https://partners.x.com > ntt-data",
+    "url": "https://partners.x.com/en/partners/ntt-data",
+    "pass": 3
+   },
+   {
+    "quote": "NTT DATA North America (@NTT_DATA_NA) / X NTT DATA North America (@NTT_DATA_NA) / X X https://x.com > NTT_DATA_NA",
+    "url": "https://x.com/NTT_DATA_NA",
+    "pass": 3
+   },
+   {
+    "quote": "NTT 広報室 (@NTTPR) / X NTT 広報室 (@NTTPR) / X X https://x.com > NTTPR",
+    "url": "https://x.com/NTTPR",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "NTT - LinkedIn NTT - LinkedIn LinkedIn https://www.linkedin.com > ntt",
+    "url": "https://www.linkedin.com/company/ntt",
+    "pass": 3
+   },
+   {
+    "quote": "NTT データ - LinkedIn NTT データ - LinkedIn LinkedIn https://jp.linkedin.com > company > nttdata",
+    "url": "https://jp.linkedin.com/company/nttdata",
+    "pass": 3
+   },
+   {
+    "quote": "NTT DATA, Inc. | LinkedIn NTT DATA, Inc. | LinkedIn LinkedIn https://www.linkedin.com > ntt-data-inc",
+    "url": "https://www.linkedin.com/company/ntt-data-inc",
+    "pass": 3
+   },
+   {
+    "quote": "NTT - LinkedIn NTT - LinkedIn LinkedIn https://jp.linkedin.com > company > ntt",
+    "url": "https://jp.linkedin.com/company/ntt",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "NTT DATA, Inc. (@globalntt) - Facebook NTT DATA, Inc. (@globalntt) - Facebook Facebook https://www.facebook.com > globalntt",
+    "url": "https://www.facebook.com/globalntt/",
+    "pass": 3
+   },
+   {
+    "quote": "NTT | Chiyoda-ku Tokyo - Facebook NTT | Chiyoda-ku Tokyo - Facebook Facebook https://www.facebook.com > NTTgroup",
+    "url": "https://www.facebook.com/NTTgroup/",
+    "pass": 3
+   },
+   {
+    "quote": "NTT DATA Japan（ NTT データ） | Koto-ku Tokyo - Facebook NTT DATA Japan（ NTT データ） | Koto-ku Tokyo - Facebook Facebook https://www.facebook.com > ... > Business service",
+    "url": "https://www.facebook.com/NTTDATAJapan/",
+    "pass": 3
+   },
+   {
+    "quote": "NTT 東日本 (@NTTeast) - Facebook NTT 東日本 (@NTTeast) - Facebook Facebook https://www.facebook.com > NTTeast",
+    "url": "https://www.facebook.com/NTTeast/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://group.ntt/jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.ntt/jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.ntt/jp/newsrelease/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.ntt/jp/news/notice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.ntt/jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.ntt/jp/newsrelease/2026/11/10/261110a.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.ntt/jp/ir/mailnews/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.ntt/jp/corporate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.ntt/jp/corporate/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.ntt/jp/topics/information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.ntt/jp/topics/disaster/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.ntt/jp/topics/2026/10/22/rd_maintenance2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.ntt/jp/newsrelease/group/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.ntt/jp/newsrelease/2026/11/09/261109b.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://group.ntt/jp/newsrelease/2026/05/08/pdf/260508ba.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.ntt.com/about-us/company-profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntt-itn.co.jp/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata-xam.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/topics/keywords/%E9%87%91%E5%B1%9E%EF%BC%93D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/product/detail/2000710602/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata-xam.com/eos-m/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.r-agent.com/viewjob/jk23989ce8ab3240ec/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://irbank.net/E04430/worker",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/NTT",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/magic_swift2546/n/n2685ffd242e6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.nttdocomo-fresh.jp/?gs=ca87e904509d98ea6fc703144622a731",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/koelnote",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/NTTDATA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/nttdata_inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://partners.x.com/en/partners/ntt-data",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/NTT_DATA_NA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ntt",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/nttdata",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ntt-data-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/ntt",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/globalntt/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/NTTgroup/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/NTTDATAJapan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/NTTeast/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/ndb_evangelist",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/NTTPR",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "NTT",
+   "results": [
+    "https://group.ntt/jp/",
+    "https://www.global.ntt/",
+    "https://www.nttdata.com/global/en/",
+    "https://en.wikipedia.org/wiki/Nippon_Telegraph_and_Telephone",
+    "https://www.ntt-east.co.jp/",
+    "https://group.ntt/jp/corporate/overview/",
+    "https://www.ntt.com/en/index.html",
+    "https://group.ntt/en/",
+    "https://www.ntt-west.co.jp/",
+    "https://ja.wikipedia.org/wiki/NTT"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "NTT 会社概要 資本金 設立",
+   "results": [
+    "https://group.ntt/jp/corporate/overview/",
+    "https://www.ntt.com/about-us/company-profile.html",
+    "https://www.ntt-itn.co.jp/company/outline/",
+    "https://www.nttdata.com/jp/ja/about-us/profile/",
+    "https://ja.wikipedia.org/wiki/NTT",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9432",
+    "https://group.ntt/jp/ir/faq/post_company_01.html",
+    "https://job.mynavi.jp/28/pc/search/corp104297/outline.html",
+    "https://group.ntt/jp/ir/shares/digest.html",
+    "https://ja.wikipedia.org/wiki/NTTグループ"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "NTT 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.nttdata-xam.com/",
+    "https://prtimes.jp/topics/keywords/%E9%87%91%E5%B1%9E%EF%BC%93D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC",
+    "https://mono.ipros.com/product/detail/2000710602/",
+    "https://www.nttdata-xam.com/eos-m/",
+    "https://news.sharelab.jp/interviews/xam-factory-tour-221102/",
+    "https://www.youtube.com/watch?v=B8SGWPw4TcQ",
+    "https://monoist.itmedia.co.jp/mn/series/9763/",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://www.nttdata-xam.com/works/eos/article_7868/",
+    "https://news.sharelab.jp/cases/other-fields/solize-partners-nttdata-xam-am-mass-production-partnership-261110/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "NTT 金属積層造形 設備",
+   "results": [
+    "https://www.nttdata-xam.com/eos-m/",
+    "https://www.r-agent.com/viewjob/jk23989ce8ab3240ec/",
+    "https://jampt.jp/",
+    "http://3d.kinzoku-kakou-odec.com/column/column-634/",
+    "https://www.nttdata-xam.com/",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://www.nttd-es.co.jp/info/2016/0125_000313.html",
+    "https://j3d.co.jp/blog/knowledge/index37/",
+    "https://mitsu-ri.net/articles/metal-laminated-modeling",
+    "https://www.mazak.com/jp-ja/products/am/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "NTT 株主 出資 親会社",
+   "results": [
+    "https://group.ntt/jp/ir/shares/digest.html",
+    "https://group.ntt/jp/ir/",
+    "https://group.ntt/jp/group/gnavi/",
+    "https://www.nttdata.com/global/ja/investors/faq/",
+    "https://www.soumu.go.jp/main_content/001021643.pdf",
+    "https://group.ntt/jp/ir/contact/",
+    "https://kabutan.jp/stock/holder?code=9432",
+    "https://www.youtube.com/watch?v=SvoToEsux_w",
+    "https://ja.wikipedia.org/wiki/NTT",
+    "https://ja.wikipedia.org/wiki/NTTグループ"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "NTT 売上高 従業員数",
+   "results": [
+    "https://group.ntt/jp/group/at_a_glance.html",
+    "https://group.ntt/jp/corporate/overview/",
+    "https://irbank.net/E04430/worker",
+    "https://job.mynavi.jp/28/pc/search/corp104297/outline.html",
+    "https://www.nttdata.com/global/ja/about-us/profile/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9432",
+    "https://group.ntt/jp/ir/library/material/2022/pdf/irpresentation2212.pdf",
+    "https://career.ntt-east.co.jp/about/number.html",
+    "https://job.mynavi.jp/28/pc/search/corp219644/outline.html",
+    "https://newgrad.ntt-east.co.jp/about/number.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com NTT",
+   "results": [
+    "https://note.com/tag/NTT",
+    "https://note.com/magic_swift2546/n/n2685ffd242e6",
+    "https://note.com/docomo_recruit",
+    "https://note.com/koelnote",
+    "https://note.com/magic_swift2546/n/n66d5c44900c0",
+    "https://note.com/ndb_evangelist",
+    "https://note.com/clinic_dx/n/n335065699a4b",
+    "https://note.com/ndb_evangelist/n/nff33c5dd9192",
+    "https://note.com/tag/NTT%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BA"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:x.com NTT",
+   "results": [
+    "https://x.com/NTTDATA",
+    "https://x.com/nttdata_inc",
+    "https://partners.x.com/en/partners/ntt-data",
+    "https://x.com/NTT_DATA_NA",
+    "https://x.com/NTTeastofficial",
+    "https://partners.x.com/en/partner-resources/ntt-data-japan-uses-twitter-data-to-improve-future-tourism",
+    "https://x.com/NTTCom_online",
+    "https://x.com/GlobalNtt",
+    "https://x.com/NTTPR/with_replies",
+    "https://x.com/NTT_NewsRelease"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:linkedin.com NTT",
+   "results": [
+    "https://www.linkedin.com/company/ntt",
+    "https://jp.linkedin.com/company/nttdata",
+    "https://www.linkedin.com/company/ntt-data-inc",
+    "https://jp.linkedin.com/company/ntt",
+    "https://www.linkedin.com/company/ntt-communications",
+    "https://www.linkedin.com/pulse/innovating-future-history-ntt-ntt-ucwgc",
+    "https://uk.linkedin.com/company/ntt-global-data-centers",
+    "https://www.linkedin.com/company/ntt-data-americas",
+    "https://sg.linkedin.com/in/ashishthapar",
+    "https://ng.linkedin.com/company/ntt-data-americas"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com NTT",
+   "results": [
+    "https://www.facebook.com/globalntt/",
+    "https://www.facebook.com/NTTgroup/",
+    "https://www.facebook.com/NTTDATAJapan/",
+    "https://www.facebook.com/NTTeast/",
+    "https://www.facebook.com/NTTDATANorthAmerica/",
+    "https://www.facebook.com/nttfinance.csr/",
+    "https://www.facebook.com/nttdata/",
+    "https://www.facebook.com/INDYCAR/",
+    "https://www.facebook.com/docomo.official/",
+    "https://www.facebook.com/p/NTT-Mobility-Inc-61589350967056/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "NTT note 社長",
+   "results": [
+    "https://note.com/ndb_evangelist/n/n41246423abbb",
+    "https://note.com/ndb_evangelist",
+    "https://group.ntt/jp/ir/mgt/management/",
+    "https://note.com/im_nakayama",
+    "https://group.ntt/jp/ir/message.html",
+    "https://note.com/nomiya_suzu/n/n273129fcb334",
+    "https://www.ntt.com/about-us/company-profile/ceo.html",
+    "https://japan.zdnet.com/article/35247554/",
+    "https://group.ntt/jp/ir/mgt/management/shimada.html",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "NTT X 投稿",
+   "results": [
+    "https://x.com/NTTPR",
+    "https://nttxstore.jp/shop/",
+    "https://www.ntt-finance.co.jp/kiyaku/sns.html",
+    "https://www.ntt-west.co.jp/socialmedia/twitter/guideline_quintbridge.html",
+    "https://www.nttsmc.com/socialmedia/guideline.html",
+    "https://www.nikkei.com/article/DGXZQOUC178O50X11C23A1000000/",
+    "https://www.asahi.com/articles/ASRCK5QYTRCKULFA01S.html",
+    "https://internet.watch.impress.co.jp/docs/yajiuma/1503270.html",
+    "https://www.nttcoms.com/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部27頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部27頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部27頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部27頁・検索12回）"
+ }
+}

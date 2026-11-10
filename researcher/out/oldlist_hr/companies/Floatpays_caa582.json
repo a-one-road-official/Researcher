@@ -1,0 +1,978 @@
+{
+ "name": "Floatpays",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-10T17:14:07.543400+00:00",
+ "official_url": "https://www.floatpays.com",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$62,000",
+    "url": "https://prospeo.io/c/floatpays-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$989,200",
+    "url": "https://prospeo.io/c/floatpays-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Cape Town, Western Cape, South Africa",
+    "url": "https://prospeo.io/c/floatpays-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2019",
+    "url": "https://prospeo.io/c/floatpays-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Industry-leading solutions in one powerful product: automated savings, earned wage access, pension-backed home loans, employee rewards, seamless communications, and financial wellness tools",
+    "url": "https://www.floatpays.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Empower your employees to build a strong financial cushion, reducing stress and fuelling higher engagement and productivity.",
+    "url": "https://www.floatpays.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Inspire and motivate your employees by recognising their efforts, creating a thriving culture of appreciation for work well done",
+    "url": "https://www.floatpays.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Provide your employees with the knowledge and tools they need to budget, plan, and achieve their financial aspirations",
+    "url": "https://www.floatpays.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From day one, our collaborative approach ensures a smooth rollout, guiding you through every step with personalised technical support, a customised launch strategy, and dedicated employee activation. We handle employee onboarding, training, marketing, and more, so you can focus on what matters most:",
+    "url": "https://www.floatpays.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive support",
+    "url": "https://www.floatpays.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We hold key accreditations that underscore our commitment to compliance, excellence and professionalism",
+    "url": "https://www.floatpays.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Authorised financial services provider under the Financial Advisory and Intermediary Services Act (Act No. 37 of 2002) Licence number: FSP 52120",
+    "url": "https://www.floatpays.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Registered credit provider in terms of the National Credit Act. Registration number: NCRCP 16757",
+    "url": "https://www.floatpays.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Registered in terms of the National Payments System Act, 1998, as a Third-Party Payments Provider (PASA)",
+    "url": "https://www.floatpays.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Registered with the Information Regulator, in terms of Section 55(2) of the Protection of Personal Information Act 4 of 2013 (POPIA)",
+    "url": "https://www.floatpays.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Thank you! Our sales team will reach out to you soon to introduce you to our exceptional product.",
+    "url": "https://www.floatpays.com/",
+    "pass": 1
+   },
+   {
+    "quote": "For over 1,800 companies in the private security sector, our integration streamlines retirement annuity contribution management. Employers can upload schedules, identify discrepancies, and manage new joiners and leavers, all under 5 minutes saving them endless hours of work. The automation reduces costs, enhances compliance, and delivers a world-class experience to their customers.",
+    "url": "https://www.floatpays.com/partners-integrations",
+    "pass": 1
+   },
+   {
+    "quote": "By simplifying payroll-related tasks, we help you deliver a better experience to your clients. Partner with Floatpays to reduce costs, improve security and compliance, and drive client satisfaction.",
+    "url": "https://www.floatpays.com/partners-integrations",
+    "pass": 1
+   },
+   {
+    "quote": "We offer a compliant, secure payroll management solution tailored to your needs. Whether you’re handling loans, benefits, pensions, EWA, or other services, Floatpays provides a scalable platform to support your growth.",
+    "url": "https://www.floatpays.com/partners-integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Proven results across sectors",
+    "url": "https://www.floatpays.com/partners-integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Through partnerships with Standard Bank and Salt Employee Benefits, Floatpays has successfully transformed payroll management for over 2,500 businesses. Our solutions deliver real cost savings and enable your business to scale with a proven business partner",
+    "url": "https://www.floatpays.com/partners-integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Thank you! Our sales team will reach out to you soon to introduce you to our exceptional product.",
+    "url": "https://www.floatpays.com/partners-integrations",
+    "pass": 1
+   },
+   {
+    "quote": "By working directly with employers or partnering with financial institutions and their employer networks, we empower employees with flexible pay, provide simple ways to save, enable asset-backed home loans, and equip all employees with the knowledge and tools to take control of their financial future.",
+    "url": "https://www.floatpays.com/more-info/about",
+    "pass": 1
+   },
+   {
+    "quote": "We hold key accreditations that underscore our commitment to compliance, excellence and professionalism",
+    "url": "https://www.floatpays.com/more-info/about",
+    "pass": 1
+   },
+   {
+    "quote": "Authorised financial services provider under the Financial Advisory and Intermediary Services Act (Act No. 37 of 2002) Licence number: FSP 52120",
+    "url": "https://www.floatpays.com/more-info/about",
+    "pass": 1
+   },
+   {
+    "quote": "Registered credit provider in terms of the National Credit Act. Registration number: NCRCP 16757",
+    "url": "https://www.floatpays.com/more-info/about",
+    "pass": 1
+   },
+   {
+    "quote": "Registered in terms of the National Payments System Act, 1998, as a Third-Party Payments Provider (PASA)",
+    "url": "https://www.floatpays.com/more-info/about",
+    "pass": 1
+   },
+   {
+    "quote": "Registered with the Information Regulator, in terms of Section 55(2) of the Protection of Personal Information Act 4 of 2013 (POPIA)",
+    "url": "https://www.floatpays.com/more-info/about",
+    "pass": 1
+   },
+   {
+    "quote": "Thank you! Our sales team will reach out to you soon to introduce you to our exceptional product.",
+    "url": "https://www.floatpays.com/more-info/about",
+    "pass": 1
+   },
+   {
+    "quote": "Get paid early. Access the wages you've already earned — a salary advance on money that's already yours. Withdraw via EFT or Instant Cash, or buy airtime, electricity, and vouchers for Shoprite and Pick n Pay.",
+    "url": "https://apps.apple.com/jp/app/moneyclub/id1488315695",
+    "pass": 3
+   },
+   {
+    "quote": "• Bug fixes and improvements.",
+    "url": "https://apps.apple.com/jp/app/moneyclub/id1488315695",
+    "pass": 3
+   },
+   {
+    "quote": "• Minor UI and onboarding fixes",
+    "url": "https://apps.apple.com/jp/app/moneyclub/id1488315695",
+    "pass": 3
+   },
+   {
+    "quote": "• Payout slips show the reference your bank prints.",
+    "url": "https://apps.apple.com/jp/app/moneyclub/id1488315695",
+    "pass": 3
+   },
+   {
+    "quote": "• Redesigned sign-up — a shorter form, a clear \"what to expect\" before you start, and South African numbers now enter cleanly with a improved +27 entry.",
+    "url": "https://apps.apple.com/jp/app/moneyclub/id1488315695",
+    "pass": 3
+   },
+   {
+    "quote": "• Shari'ah savings clubs and Goal Save with profit-sharing pockets",
+    "url": "https://apps.apple.com/jp/app/moneyclub/id1488315695",
+    "pass": 3
+   },
+   {
+    "quote": "• Clearer transaction details, performance improvements and bug fixes",
+    "url": "https://apps.apple.com/jp/app/moneyclub/id1488315695",
+    "pass": 3
+   },
+   {
+    "quote": "Improvements to card top ups for clubs and goals",
+    "url": "https://apps.apple.com/jp/app/moneyclub/id1488315695",
+    "pass": 3
+   },
+   {
+    "quote": "- On-boarding improvements and fixes",
+    "url": "https://apps.apple.com/jp/app/moneyclub/id1488315695",
+    "pass": 3
+   },
+   {
+    "quote": "- Share your savings clubs progress",
+    "url": "https://apps.apple.com/jp/app/moneyclub/id1488315695",
+    "pass": 3
+   },
+   {
+    "quote": "Minor fixes and improvements.",
+    "url": "https://apps.apple.com/jp/app/moneyclub/id1488315695",
+    "pass": 3
+   },
+   {
+    "quote": "- Minor bug fixes and improvements",
+    "url": "https://apps.apple.com/jp/app/moneyclub/id1488315695",
+    "pass": 3
+   },
+   {
+    "quote": "Bug fixes and performance improvements.",
+    "url": "https://apps.apple.com/jp/app/moneyclub/id1488315695",
+    "pass": 3
+   },
+   {
+    "quote": "- Financial health and training courses",
+    "url": "https://apps.apple.com/jp/app/moneyclub/id1488315695",
+    "pass": 3
+   },
+   {
+    "quote": "Introducing Referrals: invite friends with your unique link, track their progress in-app, and unlock boost rewards together. Performance and stability improvements included.",
+    "url": "https://apps.apple.com/jp/app/moneyclub/id1488315695",
+    "pass": 3
+   },
+   {
+    "quote": "Bugfixes and Performance Improvements",
+    "url": "https://apps.apple.com/jp/app/moneyclub/id1488315695",
+    "pass": 3
+   },
+   {
+    "quote": "New and better ways to top up your savings (coming soon) and various bugfixes & performance improvements.",
+    "url": "https://apps.apple.com/jp/app/moneyclub/id1488315695",
+    "pass": 3
+   },
+   {
+    "quote": "Bugfixes & Performance Improvements",
+    "url": "https://apps.apple.com/jp/app/moneyclub/id1488315695",
+    "pass": 3
+   },
+   {
+    "quote": "Bugfixes & Performance Improvement",
+    "url": "https://apps.apple.com/jp/app/moneyclub/id1488315695",
+    "pass": 3
+   },
+   {
+    "quote": "Meet the Entrepreneur: Simon Ward, Floatpays - FINCA Ventures",
+    "url": "https://finca.org/meet-the-entrepreneur-simon-ward-floatpays",
+    "pass": 3
+   },
+   {
+    "quote": "Meet the Entrepreneur: Simon Ward, Floatpays",
+    "url": "https://finca.org/meet-the-entrepreneur-simon-ward-floatpays",
+    "pass": 3
+   },
+   {
+    "quote": "At FINCA Ventures, we look for entrepreneurs leveraging market-based solutions to create large-scale, lasting social impact. In this series, “Meet the Entrepreneur,” we’ll be taking you into the minds of the intrepid leaders at our portfolio companies who boldly venture into markets in need of positive disruption.",
+    "url": "https://finca.org/meet-the-entrepreneur-simon-ward-floatpays",
+    "pass": 3
+   },
+   {
+    "quote": "Floatpays offers early wage access to employees as its core product. How does the company bundle this with savings and financial education to revolutionize the way workers improve their financial well-being?",
+    "url": "https://finca.org/meet-the-entrepreneur-simon-ward-floatpays",
+    "pass": 3
+   },
+   {
+    "quote": "The second financial wellness pillar is to be financially prepared for an emergency or to achieve a financial goal. Reducing debt with the help of earned wage access can free up money for saving. Our paycheck-linked savings account drives a savings discipline that is critical for being financially prepared for an emergency or to achieve a financial goal.",
+    "url": "https://finca.org/meet-the-entrepreneur-simon-ward-floatpays",
+    "pass": 3
+   },
+   {
+    "quote": "The third pillar emphasizes financial acumen and the capacity to better handle one’s own finances. This is where our budget planning tool and financial education come in handy. Helping our users to understand the fundamentals of managing one’s money well, as well as having the tools to put that knowledge into practice. This is critical to sustaining financial wellness.",
+    "url": "https://finca.org/meet-the-entrepreneur-simon-ward-floatpays",
+    "pass": 3
+   },
+   {
+    "quote": "A lower level of digital financial service penetration has a disproportionate impact on women across South Africa. Does Floatpays have plans to empower more women and industries that are specific to them?",
+    "url": "https://finca.org/meet-the-entrepreneur-simon-ward-floatpays",
+    "pass": 3
+   },
+   {
+    "quote": "When you look at what Floatpays customers are spending their earned wages on, how does this influence your product roadmap and what new initiatives are on the horizon for the company?",
+    "url": "https://finca.org/meet-the-entrepreneur-simon-ward-floatpays",
+    "pass": 3
+   },
+   {
+    "quote": ". That would be a testament to our work in this space and give the whole Floapays team a real sense of pride and achievement.",
+    "url": "https://finca.org/meet-the-entrepreneur-simon-ward-floatpays",
+    "pass": 3
+   },
+   {
+    "quote": "Read more about Floatpays and why FINCA Ventures chose to invest in this social enterprise in the article",
+    "url": "https://finca.org/meet-the-entrepreneur-simon-ward-floatpays",
+    "pass": 3
+   },
+   {
+    "quote": "Principal barriers to improved financial wellbeing often include access to short-term liquidity. Most workers lacking a credit score and other required documentation are unable to access credit from traditional banks and MFIs. Few affordable and sustainable alternatives exist, and instead many workers turn to loan sharks and other payday lenders to smooth their rigid pay cycles.",
+    "url": "https://finca.org/why-we-invested-floatpays",
+    "pass": 3
+   },
+   {
+    "quote": "These challenges are not unique to South Africa, although Cape Town-based FloatPays has emerged as a leader in creating more comprehensive liquidity solutions to help workers not only recover from debt cycles, but also improve their financial wellbeing.",
+    "url": "https://finca.org/why-we-invested-floatpays",
+    "pass": 3
+   },
+   {
+    "quote": "Head Of Product Founding Team",
+    "url": "https://prospeo.io/c/floatpays-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Floatpays (Pty) Ltd is an authorised financial services provider under the Financial Advisory and Intermediary Services Act (Act No. 37 of 2002) (FSP number: 52120)",
+    "url": "https://prospeo.io/c/floatpays-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/floatpays-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Programming languages",
+    "url": "https://prospeo.io/c/floatpays-revenue",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "We empower your employees to thrive",
+    "url": "https://www.floatpays.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Empower your employees to build a strong financial cushion, reducing stress and fuelling higher engagement and productivity.",
+    "url": "https://www.floatpays.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Give your employees the financial freedom they deserve, while saying goodbye to the complexities of managing loans and salary advances. Let's put an end to payday lending and bad credit.",
+    "url": "https://www.floatpays.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enable your employees to build or renovate their dream home with confidence, securing their future while helping them to build a strong credit score through loan repayment.",
+    "url": "https://www.floatpays.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Inspire and motivate your employees by recognising their efforts, creating a thriving culture of appreciation for work well done",
+    "url": "https://www.floatpays.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Provide your employees with the knowledge and tools they need to budget, plan, and achieve their financial aspirations",
+    "url": "https://www.floatpays.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Employees enjoy all these great benefits without any mandatory costs, hidden fees or interest rates",
+    "url": "https://www.floatpays.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Through the Floatpays employer portal, over 1,000 of Standard Bank's business clients can securely access monthly deduction reports and upload payroll schedules for their employees' pension-backed home loans, all powered by our advanced deduction and collections engine.",
+    "url": "https://www.floatpays.com/partners-integrations",
+    "pass": 1
+   },
+   {
+    "quote": "By working directly with employers or partnering with financial institutions and their employer networks, we empower employees with flexible pay, provide simple ways to save, enable asset-backed home loans, and equip all employees with the knowledge and tools to take control of their financial future.",
+    "url": "https://www.floatpays.com/more-info/about",
+    "pass": 1
+   },
+   {
+    "quote": "• Payroll reminders arrive in your inbox.",
+    "url": "https://apps.apple.com/jp/app/moneyclub/id1488315695",
+    "pass": 3
+   },
+   {
+    "quote": "Thanks for being part of the club. Keep saving with purpose!",
+    "url": "https://apps.apple.com/jp/app/moneyclub/id1488315695",
+    "pass": 3
+   },
+   {
+    "quote": "Floatpays offers early wage access to employees as its core product. How does the company bundle this with savings and financial education to revolutionize the way workers improve their financial well-being?",
+    "url": "https://finca.org/meet-the-entrepreneur-simon-ward-floatpays",
+    "pass": 3
+   },
+   {
+    "quote": "In what way have you designed your platform to be broadly accessible to employees?",
+    "url": "https://finca.org/meet-the-entrepreneur-simon-ward-floatpays",
+    "pass": 3
+   },
+   {
+    "quote": "Principal barriers to improved financial wellbeing often include access to short-term liquidity. Most workers lacking a credit score and other required documentation are unable to access credit from traditional banks and MFIs. Few affordable and sustainable alternatives exist, and instead many workers turn to loan sharks and other payday lenders to smooth their rigid pay cycles.",
+    "url": "https://finca.org/why-we-invested-floatpays",
+    "pass": 3
+   },
+   {
+    "quote": "Floatpays Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/floatpays-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Floatpays",
+    "url": "https://prospeo.io/c/floatpays-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/floatpays-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "We deliver next generation employee benefits – empowering employees to build financial wellness through:",
+    "url": "https://prospeo.io/c/floatpays-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/floatpays-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/floatpays-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Floatpays?",
+    "url": "https://prospeo.io/c/floatpays-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Floatpays generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/floatpays-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/floatpays-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/floatpays-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Floatpays have?",
+    "url": "https://prospeo.io/c/floatpays-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/floatpays-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Something went wrong while submitting the form. Please try again or reach out directly to our team at hello@floatpays.co.za",
+    "url": "https://www.floatpays.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Something went wrong while submitting the form. Please try again or reach out directly to our team at hello@floatpays.co.za",
+    "url": "https://www.floatpays.com/partners-integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Something went wrong while submitting the form. Please try again or reach out directly to our team at hello@floatpays.co.za",
+    "url": "https://www.floatpays.com/more-info/about",
+    "pass": 1
+   },
+   {
+    "quote": "• Club invites — invite members by phone number or email, or pick them straight from your contacts. No more sharing links by hand.",
+    "url": "https://apps.apple.com/jp/app/moneyclub/id1488315695",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/floatpays-revenue",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Floatpays - The ultimate employee benefits platform — At Floatpays, we deliver market-leading financial wellness solutions through a unified, integrated platform, empowering employees to take control of their financial futures.",
+    "url": "https://www.floatpays.com/",
+    "pass": 3
+   },
+   {
+    "quote": "FloatPays」をApp StoreでWhy partner with FloatpaysFIS | 金融テクノロジーで未来を拓く | フィンテックソリューション ...【国内初】クレジットカード返済方法に、日本円建ステーブルコイン「J...floatpays.com 過去のウェブサイト関係プロファイル世界のキャッシュレス普及率ランキング｜電子マネー事情と海外進出の... — 「FloatPays」のレビューをチェック、カスタマー評価を比較、スクリーンショットと詳細情報を確認することができます。 「FloatPays」をダウンロードしてiPhone、iPad、iPod touchでお楽しみください。 Floatpays empowers HR and payroll teams to manage all financial benefits in one place, with on",
+    "url": "https://apps.apple.com/jp/app/floatpays/id1488315695",
+    "pass": 3
+   },
+   {
+    "quote": "Why partner with Floatpays — Floatpays empowers HR and payroll teams to manage all financial benefits in one place, with one simple integration. This streamlined approach not only saves valuable time but also enhances the overall employee experience.",
+    "url": "https://www.floatpays.com/more-info/why-floatpays",
+    "pass": 3
+   },
+   {
+    "quote": "floatpays.com 過去のウェブサイト関係プロファイル — テクノロジープロファイル 詳細 メタ 製品 パフォーマンス 関係 リダイレクト 推奨事項 会社 FLOATPAYS.COM 共有属性 ... FLOATPAYS.COM 非 IP 属性 ... FLOATPAYS.COM 重複属性ドメイン ... FLOATPAYS.COM IP履歴",
+    "url": "https://builtwith.com/ja/relationships/floatpays.com",
+    "pass": 3
+   },
+   {
+    "quote": "The Wellness Warehouse Success Story - floatpays.com — \"We partnered with Floatpays because they share our philosophy of holistic health. They understand the financial challenges that many of our team members face, and they have a cost effective, convenient solution that empowers our team members financially.",
+    "url": "https://www.floatpays.com/post/wellness-warehouse-success-story",
+    "pass": 3
+   },
+   {
+    "quote": "Floatpays - The ultimate employee benefits platform — Floatpays takes the complexity out of employee benefits by seamlessly and securely integrating with your payroll systems—eliminating extra work for your team.",
+    "url": "https://www.floatpays.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Meet the Entrepreneur: Simon Ward, Floatpays - FINCA Ventures — Jun 2, 2022 · When you look at what Floatpays customers are spending their earned wages on, how does this influence your product roadmap and what new initiatives are on the horizon for the company?",
+    "url": "https://finca.org/meet-the-entrepreneur-simon-ward-floatpays",
+    "pass": 3
+   },
+   {
+    "quote": "Why We Invested: FloatPays - FINCA Ventures — Jan 27, 2022 · By partnering with employers and payroll providers, FloatPays is able to serve an expansive customer base of workers. Floatpays enables employers to enhance their employee value proposition to attract and retain the strongest workforce.",
+    "url": "https://finca.org/why-we-invested-floatpays",
+    "pass": 3
+   },
+   {
+    "quote": "Floatpays is a startup from FFA's fintech portfolio — Early-wage access platform that enables employees to access a portion of their earned wages during the payroll cycle. Floatpays aims to increase the financial wellness of African employees, by reducing the cycle of payday debt, and improving financial education and management.",
+    "url": "https://www.foundersfactory.africa/portfolio/floatpays",
+    "pass": 3
+   },
+   {
+    "quote": "Floatpays Revenue, Funding & Valuation - prospeo.io — In 2019 Floatpays was founded with a clear vision: Make financial inclusion and wellbeing possible for every working person by creating the Ultimate Employee Financial Wellness Platform.",
+    "url": "https://prospeo.io/c/floatpays-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Floatpays 2026 Company Profile: Valuation, Funding ...Floatpays — Company Profile | The Company CheckFloatPays — Funding, Investors & Team | SeedtableFloatpays: Company Profile, Funding & InvestorsFloatPays: Funding, Investors & Team (Nov 2026) | FundedIQFloatpays - 2025 Company Profile, Funding & Competitors - Tracxn — Information on valuation, funding, cap tables, investors, and executives for F",
+    "url": "https://pitchbook.com/profiles/company/467851-87",
+    "pass": 3
+   },
+   {
+    "quote": "Floatpays — Company Profile | The Company Check — Floatpays was founded in 2019 in Cape Town, South Africa, as a cloud-based platform in the financial benefits sector. Employees are enabled to register and withdraw earned wages directly into their bank accounts without employer approval.",
+    "url": "https://www.thecompanycheck.com/company/b/floatpays/s3j8t5o9r9si2g35k",
+    "pass": 3
+   },
+   {
+    "quote": "FloatPays — Funding, Investors & Team | Seedtable — Jul 28, 2026 · Cape Town-based earned-wage-access platform Floatpays received a R15 million (about US$1 million) equity investment from Naspers Foundry to expand financial-wellness services in South Africa.",
+    "url": "https://seedtable.com/companies/floatpays-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Floatpays: Company Profile, Funding & Investors — Oct 31, 2026 · Floatpays is a Financial Services, Human Resources and Finance company based in Cape Town, South Africa, founded in 2019.",
+    "url": "https://www.startuplist.africa/startups/floatpays",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "did joining Founders Factory Africa inspire you to launch Floatpays in 2019?",
+    "url": "https://finca.org/meet-the-entrepreneur-simon-ward-floatpays",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Rohan_Jansen (@rohan_jansen) / Posts / X By partnering with @FloatPays and leveraging their existing PaySpace integration, Vetus Schola was able to improve the financial well-being of their employees. Download the case study here: qoo.ly/3avjb9",
+    "url": "https://x.com/rohan_jansen",
+    "pass": 3
+   },
+   {
+    "quote": "Naspers (@Naspers) / Posts / X 📢 Naspers Foundry announces a R15 million investment in @FloatPays, an on-demand earned wage access platform that is improving financial wellness in South Africa.",
+    "url": "https://x.com/Naspers",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Floatpays - LinkedIn In 2019 Floatpays was founded with a clear vision: Make financial inclusion and wellbeing possible for every working person by creating the Ultimate Employee Financial Wellness Platform.",
+    "url": "https://www.linkedin.com/company/floatpays/",
+    "pass": 3
+   },
+   {
+    "quote": "Simon Ward - Y Combinator - City of Cape Town, Western Cape ...Wilhelm Kirschbaum - FloatPays | LinkedInThe Rise of the Wellness Revolution - LinkedInFloatpays Founder & CEO, Simon Ward Accepting AwardElizma de Beer - Floatpays | LinkedIn Experience: Founders Factory Africa · Education: Y Combinator · Location: City of Cape Town · 500+ connections on LinkedIn. View Simon Ward’s profile on LinkedIn",
+    "url": "https://za.linkedin.com/in/wardsimon",
+    "pass": 3
+   },
+   {
+    "quote": "Wilhelm Kirschbaum - FloatPays | LinkedInThe Rise of the Wellness Revolution - LinkedInFloatpays Founder & CEO, Simon Ward Accepting AwardElizma de Beer - Floatpays | LinkedIn Experience: FloatPays · Education: Stellenbosch University/Universiteit Stellenbosch · Location: City of Cape Town · 500+ connections on LinkedIn. View Wilhelm Kirschbaum’s profile on... May 31, 2024 · At Floatpays, we are c",
+    "url": "https://za.linkedin.com/in/wkirschbaum",
+    "pass": 3
+   },
+   {
+    "quote": "The Rise of the Wellness Revolution - LinkedIn May 31, 2024 · At Floatpays, we are committed to providing ongoing financial inclusion education and the tools and resources necessary to drive lasting change in the lives of South Africans.",
+    "url": "https://www.linkedin.com/pulse/rise-wellness-revolution-floatpays-sgthf",
+    "pass": 3
+   },
+   {
+    "quote": "Floatpays | LinkedIn In 2019 Floatpays was founded with a clear vision: Make financial inclusion and wellbeing possible for every working person by creating the Ultimate Employee Financial Wellness Platform.",
+    "url": "https://jp.linkedin.com/company/floatpays",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Float | Johannesburg - FacebookSimon Ward meets with Michael Avery to discuss Floatpays and ...FacebookFloatpays, a South African fintech... - Tech With AfricaWe’d like to introduce you all to our newest client ...Floatpays State of Employee Wellbeing Barometer, Almost 75% ...Techawkng - Floatpays, a South African fintech startup,... Aug 2, 2026 · Float, Johannesburg. 2,281 followers · 75 talking ",
+    "url": "https://www.facebook.com/Float.co.za/",
+    "pass": 3
+   },
+   {
+    "quote": "Simon Ward meets with Michael Avery to discuss Floatpays and ...FacebookFloatpays, a South African fintech... - Tech With AfricaWe’d like to introduce you all to our newest client ...Floatpays State of Employee Wellbeing Barometer, Almost 75% ...Techawkng - Floatpays, a South African fintech startup,... Aug 15, 2022 · Simon Ward meets with Michael Avery to discuss Floatpays and the financial servi",
+    "url": "https://www.facebook.com/BusinessTechSA/videos/helping-business-flow-simon-ward-explains-how-floatpays-helps-overcome-financial/3273423242947046/",
+    "pass": 3
+   },
+   {
+    "quote": "Floatpays, a South African fintech... - Tech With Africa Jan 26, 2022 · Floatpays, a South African fintech startup, has raised $4 million in venture capital for its African expansion. South African on-demand pay provider, Floatpays has secured a little bit under US$4 million in a seed funding round that is oversubscribed to help it expand across Africa.",
+    "url": "https://www.facebook.com/TechWithAfrica/posts/155589383488526/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.floatpays.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.floatpays.com/partners-integrations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.floatpays.com/more-info/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/66e00892fb9cc89676ca4afb/6704d67ab0df0a696f058f2e_Frame-6.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://apps.apple.com/jp/app/moneyclub/id1488315695",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://builtwith.com/ja/relationships/floatpays.com",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://finca.org/meet-the-entrepreneur-simon-ward-floatpays",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finca.org/why-we-invested-floatpays",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/floatpays-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/467851-87",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/floatpays/s3j8t5o9r9si2g35k",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://seedtable.com/companies/floatpays-inc",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/rohan_jansen",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Naspers",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/floatpays/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://za.linkedin.com/in/wardsimon",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://za.linkedin.com/in/wkirschbaum",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/rise-wellness-revolution-floatpays-sgthf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Float.co.za/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/BusinessTechSA/videos/helping-business-flow-simon-ward-explains-how-floatpays-helps-overcome-financial/3273423242947046/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TechWithAfrica/posts/155589383488526/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/floatpays",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Floatpays 日本 導入",
+   "results": [
+    "https://www.floatpays.com/",
+    "https://apps.apple.com/jp/app/floatpays/id1488315695",
+    "https://www.floatpays.com/more-info/why-floatpays",
+    "https://builtwith.com/ja/relationships/floatpays.com",
+    "https://www.fisglobal.com/jp/products",
+    "https://corporate.jpyc.co.jp/news/posts/Nudge",
+    "https://www.digima-japan.com/knowhow/world/14404.php"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Floatpays 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Floatpays Japan",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Floatpays manufacturing customer case study",
+   "results": [
+    "https://www.floatpays.com/post/wellness-warehouse-success-story",
+    "https://www.floatpays.com/",
+    "https://finca.org/meet-the-entrepreneur-simon-ward-floatpays",
+    "https://finca.org/why-we-invested-floatpays",
+    "https://www.foundersfactory.africa/portfolio/floatpays",
+    "https://www.naspers.com/news-insights/group-updates/2022/naspers-foundry-invests-r15-million-in-on-demand-earned-wage-access-platform-floatpays",
+    "https://www.heavychef.com/simon-ward-social-impact-business"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Floatpays white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.youtube.com/creators/earn/youtube-partner-program/",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Floatpays founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/floatpays-revenue",
+    "https://pitchbook.com/profiles/company/467851-87",
+    "https://www.thecompanycheck.com/company/b/floatpays/s3j8t5o9r9si2g35k",
+    "https://seedtable.com/companies/floatpays-inc",
+    "https://www.startuplist.africa/startups/floatpays",
+    "https://fundediq.co/floatpays-co-za-funding/",
+    "https://tracxn.com/d/companies/floatpays/__e4re068Rz3KerAOKXtomcAbG3Z3SKn9n2pM6QhDXc1Y"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Floatpays",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Floatpays",
+   "results": [
+    "https://x.com/rohan_jansen",
+    "https://x.com/Naspers",
+    "https://x.com/useFloatpay",
+    "https://x.com/Float_Pay",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/Marlayna29/status/2115433590150606880",
+    "https://x.com/AndreJanonesMG/status/2115462221673218058"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Floatpays",
+   "results": [
+    "https://www.linkedin.com/company/floatpays/",
+    "https://za.linkedin.com/in/wardsimon",
+    "https://za.linkedin.com/in/wkirschbaum",
+    "https://www.linkedin.com/pulse/rise-wellness-revolution-floatpays-sgthf",
+    "https://www.linkedin.com/posts/floatpays_floatpays-founder-ceo-simon-ward-accepting-activity-7004494861869469697-mywT",
+    "https://za.linkedin.com/in/elizma-de-beer-4287708b",
+    "https://www.linkedin.com/pulse/understanding-tax-risks-early-withdrawals-how-floatpays-can-syhhf/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Floatpays",
+   "results": [
+    "https://www.facebook.com/Float.co.za/",
+    "https://www.facebook.com/BusinessTechSA/videos/helping-business-flow-simon-ward-explains-how-floatpays-helps-overcome-financial/3273423242947046/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/TechWithAfrica/posts/155589383488526/",
+    "https://www.facebook.com/moneysavvySA/videos/floatpays-state-of-employee-wellbeing-barometeralmost-75-of-south-african-employ/1306802080864201/",
+    "https://www.facebook.com/Techawkng01/posts/floatpays-a-south-african-fintech-startup-has-closed-a-4-million-seed-funding-ro/1381492608954877/",
+    "https://www.facebook.com/MSLSouthAfrica/videos/wed-like-to-introduce-you-all-to-our-newest-client-floatpays-an-exciting-fintech/5462625187100624/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Floatpays note 社長",
+   "results": [
+    "https://www.floatpays.com/more-info/about",
+    "https://www.crunchbase.com/person/simon-ward-66db",
+    "https://jp.linkedin.com/company/floatpays",
+    "https://theorg.com/org/floatpays",
+    "https://fundediq.co/floatpays-co-za-funding/",
+    "https://www.ycombinator.com/companies/floatpays-inc",
+    "https://me.sh/profile/simon-ward"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Floatpays X 投稿",
+   "results": [
+    "https://www.floatpays.com/",
+    "https://x.com/floatpayfun",
+    "https://usefloatpay.app/",
+    "https://floatpay.fun/docs",
+    "https://www.floatlaunch.xyz/docs",
+    "https://xpaiming.com/accounts",
+    "https://news.livedoor.com/article/detail/32710275/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部26頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部26頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部26頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部26頁・検索12回）"
+ }
+}

@@ -1,0 +1,1480 @@
+{
+ "name": "金属技研株式会社",
+ "aliases": [],
+ "context": "PBF=yes 装置=PBF;ProX DMP 出典=https://canon.jp/corporate/newsrelease/2018/2018-10/pr-mtc-dmp320",
+ "researched_at": "2026-11-10T17:09:21.533681+00:00",
+ "official_url": "https://www.kinzoku.co.jp/",
+ "identified_by": "search:yahoo_jp:金属技研",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "503名（2026年2月末現在）",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員",
+    "value": "488名",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=2507",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "288百万円",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "2億8,800万円",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=2507",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "14,211百万円",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "〒164-8721 東京都中野区本町1-32-2 ハーモニータワー27階",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "label": "事業所所在地",
+    "value": "〒370-1132 群馬県佐波郡玉村町下新田983",
+    "url": "https://www.kinzoku.co.jp/about_mtc/factory.html",
+    "pass": 1
+   },
+   {
+    "label": "事業所所在地",
+    "value": "〒310-0843 茨城県水戸市元石川町276-21 水戸東部工業団地内",
+    "url": "https://www.kinzoku.co.jp/about_mtc/factory.html",
+    "pass": 1
+   },
+   {
+    "label": "事業所所在地",
+    "value": "〒243-0424 神奈川県海老名市社家5-4-14",
+    "url": "https://www.kinzoku.co.jp/about_mtc/factory.html",
+    "pass": 1
+   },
+   {
+    "label": "事業所所在地",
+    "value": "〒509-5142 岐阜県土岐市泉町久尻字北山1431−56 土岐アクアシルヴァ",
+    "url": "https://www.kinzoku.co.jp/about_mtc/factory.html",
+    "pass": 1
+   },
+   {
+    "label": "事業所所在地",
+    "value": "〒529-1202 滋賀県愛知郡愛荘町松尾寺1066",
+    "url": "https://www.kinzoku.co.jp/about_mtc/factory.html",
+    "pass": 1
+   },
+   {
+    "label": "事業所所在地",
+    "value": "〒679-4233 兵庫県姫路市林田町下伊勢970",
+    "url": "https://www.kinzoku.co.jp/about_mtc/factory.html",
+    "pass": 1
+   },
+   {
+    "label": "事業所所在地",
+    "value": "岩手県北上市村崎野23地割30番地9",
+    "url": "https://www.kinzoku.co.jp/about_mtc/factory.html",
+    "pass": 1
+   },
+   {
+    "label": "事業所所在地",
+    "value": "〒215153 蘇州高新区科技城峨眉山路76号",
+    "url": "https://www.kinzoku.co.jp/about_mtc/factory.html",
+    "pass": 1
+   },
+   {
+    "label": "事業所所在地",
+    "value": "Eriksbergsvägen 1, 734 92, Hallstahammar, Sweden",
+    "url": "https://www.kinzoku.co.jp/about_mtc/factory.html",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "164-0012　東京都中野区本町1-32-2",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=2507",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設　立",
+    "value": "設　立：1960年2月",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=2507",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "金属積層造形で製作したビーム窓がJ-PARC施設公開で展示されます",
+    "url": "https://www.kinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【11/12開催】最先端の積層造形技術に迫る ～国内初導入のAM設備とセラミックス造形の最新動向～",
+    "url": "https://www.kinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビームやファイバーレーザーを用い、複雑な形状や強度の高い金属などの難しい成形を可能にします",
+    "url": "https://www.kinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形にも対応しており、金属粉末に電子ビームやレーザーを照射し、直接溶解して積層することで緻密な3D形状を造形することができます",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形で製作したビーム窓がJ-PARC施設公開で展示されます｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/news_release/j-parc.OPEN_HOUSE.2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形で製作したビーム窓がJ-PARC施設公開で展示されます",
+    "url": "https://www.kinzoku.co.jp/news_release/j-parc.OPEN_HOUSE.2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属技研が製作した金属積層造形（AM製）ビーム窓が、",
+    "url": "https://www.kinzoku.co.jp/news_release/j-parc.OPEN_HOUSE.2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形で製作したビーム窓がJ-PARC施設公開で展示されます",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "茨城工場の太陽光発電・蓄電池システムが導入事例として掲載",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "国内初導入の電子ビーム造形装置「Spectra L」を導入いたします",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "土岐工場に太陽光発電の導入記事が新聞に掲載されました",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "Society5.0科学博へ金属積層造形品出品のお知らせ",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "J-PARCに設置された当社製「水銀ターゲット容器10号機」が順調に稼働中です",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "4台目３Dプリンター（金属積層造形装置）が稼動を開始",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "当社製「水銀ターゲット容器8号機」が設置されたJ-PARCが、1MW相当の連続運転に成功",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "「水銀ターゲット容器８号機をＪ－ＰＡＲＣに納入、現在稼働中」",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "日刊工業新聞記事「金属技研、岐阜・土岐工場に太陽光発電を導入 来年度稼働」",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "【11/12開催】最先端の積層造形技術に迫る ～国内初導入のAM設備とセラミックス造形の最新動向～",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形のPBF方式とは？活用例やメリットを解説",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形のDED方式とは？活用例や種類を解説",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形でチタンを用いるメリットや活用例を解説",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂造形機を導入した経緯と金属技研がもつ技術との相乗効果",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "「試作止まり」で終わらない、金属積層造形の勝ちパターン",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "金属技研のビジョン、保有する技術、会社概要に加え、強み、各技術を細かくご紹介しています",
+    "url": "https://www.kinzoku.co.jp/documents/wp-company.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属技研が保有するホットプレス装置の一覧です",
+    "url": "https://www.kinzoku.co.jp/documents/wp-hotpress-list.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形で製作したビーム窓がJ-PARC施設公開で展示されます",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "茨城工場の太陽光発電・蓄電池システムが導入事例として掲載",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "国内初導入の電子ビーム造形装置「Spectra L」を導入いたします",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "土岐工場に太陽光発電の導入記事が新聞に掲載されました",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "Society5.0科学博へ金属積層造形品出品のお知らせ",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "J-PARCに設置された当社製「水銀ターゲット容器10号機」が順調に稼働中です",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "4台目３Dプリンター（金属積層造形装置）が稼動を開始",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社製「水銀ターゲット容器8号機」が設置されたJ-PARCが、1MW相当の連続運転に成功",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "「水銀ターゲット容器８号機をＪ－ＰＡＲＣに納入、現在稼働中」",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "日刊工業新聞記事「金属技研、岐阜・土岐工場に太陽光発電を導入 来年度稼働」",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "【11/12開催】最先端の積層造形技術に迫る ～国内初導入のAM設備とセラミックス造形の最新動向～",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形のPBF方式とは？活用例やメリットを解説",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形のDED方式とは？活用例や種類を解説",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形でチタンを用いるメリットや活用例を解説",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂造形機を導入した経緯と金属技研がもつ技術との相乗効果",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "「試作止まり」で終わらない、金属積層造形の勝ちパターン",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形 (Additive Manufacturing) とは？",
+    "url": "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形技術は、電子ビームまたはファイバーレーザーにより必要な部分の金属粉末を溶解し、凝固させて金属部品を製作する技術です",
+    "url": "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "pass": 1
+   },
+   {
+    "quote": "一般的に積層造形後の面粗度は、Ra25（EBM方式）、Ra11（SLM方式）とかなり粗くなり、粉っぽくなります",
+    "url": "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "pass": 1
+   },
+   {
+    "quote": "こちらはRa25（EBM方式）で造形したものですが、かなり粗くなり、粉っぽくなります",
+    "url": "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形でメリットを出すための形状提案",
+    "url": "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形後の後処理、HIPで強度UP",
+    "url": "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形（工数：2日）",
+    "url": "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形装置（3Dプリンター／３次元積層造形技術）を用いた、整形外科領域のカスタムメイド医療機器の製造",
+    "url": "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビームを磁場コイルで制御するため、機械的な駆動部がなく高速走査が可能となる",
+    "url": "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形のPBF方式とは？活用例やメリットを解説",
+    "url": "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形のDED方式とは？活用例や種類を解説",
+    "url": "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形でチタンを用いるメリットや活用例を解説",
+    "url": "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂・金属積層造形の設計経験が豊富なため、最適な設計提案を実現",
+    "url": "https://www.kinzoku.co.jp/core_technology/resin_additive_manufacturing.html",
+    "pass": 1
+   },
+   {
+    "quote": "導入事例｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形装置（3Dプリンター／３次元積層造形技術）を用いた、整形外科領域のカスタムメイド医療機器の製造",
+    "url": "https://www.kinzoku.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "J-PARCに設置された当社製「水銀ターゲット容器10号機」が順調に稼働中です",
+    "url": "https://www.kinzoku.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "その後、大手電機メーカーからのエアコン部品のろう付、コンデンサー部品の熱処理等の受注に伴って、真空炉をはじめ新しい設備の導入を進め、技術の向上にも積極的にチャレンジしていきました",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "従来の熱処理・接合では得られない、高い信頼性の求められる分野が拡がるなか、金属技研にとっては必須の技術だと着目し、1984年に当時の日本では先端技術であったHIP装置を滋賀工場に導入しました",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "航空機や発電用タービンなど、厳しい使用環境に耐えられる信頼度の高い金属部品をご提供",
+    "url": "https://www.kinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "高品質が要求される原子力関連や宇宙・航空関連などをはじめ、高度な熱処理をご提供いたします",
+    "url": "https://www.kinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "豊富な検査、解析/分析装置を用いて、試作および実機製作まで一貫した製作が可能",
+    "url": "https://www.kinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "業界トップレベルの先端技術で、液晶・半導体分野から航空･宇宙分野まで、",
+    "url": "https://www.kinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "航空機や発電用タービンなど、厳しい使用環境に耐えられる信頼度の高い金属部品をご提供",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "quote": "本部が統合され、開発、設計、生産および生産管理の役割を 持つ4つのセンターに再構成・集約し、開発・設計試作評価を スピードをもって取り組んでいます",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社相談役が高エネルギー加速器科学研究奨励会「熊谷賞」を受賞しました",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "JAPIにて「加速器を用いた医療用RIの製造」について発表しました",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "「第39回 プラズマ・核融合学会 年会」に参加しました",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "世界的”核融合”プロジェクト Iterに関する対談記事を公開しました",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "眼鏡使用に対応したフェースシールド医療機関配布と製造データの提供",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "「第36回プラズマ・核融合学会年会」企業展示に出展します",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "「医療機器・設備EXPO」企業展示に出展します",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "「第35回プラズマ・核融合学会年会」企業展示に出展します",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "「第18回核融合炉材料国際会議(ICFRM-18)」企業展示に出展します",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "日刊工業新聞記事「金属技研、半導体需要増でＨＩＰ処理増強 新工場・装置など100億円」",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "INTRIX ShareLab NEWS「宇宙から医療へ！老舗AMサービスビューロの取り組みー金属技研株式会社」",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "日経クロステック インタビュー「GEやロールスロイスお墨付きのHIP技術、自動車部品中心に中国で展開」",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースイッチ「GEに航空機部品を売り込む中小企業、その切り札は金属積層 -金属技研、国内の量産メーカーで初めて品質管理規格を取得-」",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "核融合･半導体などの信頼厚い金属技研に新たな歴史の１ページ､スウェーデン社買収の深謀遠慮",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "医療分野における3Dプリンターの活用例とは？",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "「試作止まり」で終わらない、金属積層造形の勝ちパターン",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "当社相談役が高エネルギー加速器科学研究奨励会「熊谷賞」を受賞しました",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "JAPIにて「加速器を用いた医療用RIの製造」について発表しました",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "「第39回 プラズマ・核融合学会 年会」に参加しました",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "世界的”核融合”プロジェクト Iterに関する対談記事を公開しました",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "眼鏡使用に対応したフェースシールド医療機関配布と製造データの提供",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "「第36回プラズマ・核融合学会年会」企業展示に出展します",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "「医療機器・設備EXPO」企業展示に出展します",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "「第35回プラズマ・核融合学会年会」企業展示に出展します",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "「第18回核融合炉材料国際会議(ICFRM-18)」企業展示に出展します",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "日刊工業新聞記事「金属技研、半導体需要増でＨＩＰ処理増強 新工場・装置など100億円」",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "INTRIX ShareLab NEWS「宇宙から医療へ！老舗AMサービスビューロの取り組みー金属技研株式会社」",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "日経クロステック インタビュー「GEやロールスロイスお墨付きのHIP技術、自動車部品中心に中国で展開」",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースイッチ「GEに航空機部品を売り込む中小企業、その切り札は金属積層 -金属技研、国内の量産メーカーで初めて品質管理規格を取得-」",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "核融合･半導体などの信頼厚い金属技研に新たな歴史の１ページ､スウェーデン社買収の深謀遠慮",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療分野における3Dプリンターの活用例とは？",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "「試作止まり」で終わらない、金属積層造形の勝ちパターン",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙産業、自動車分野、医療分野等に幅広く適用されています",
+    "url": "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属技研の品質管理システムは、従来より所有している航空宇宙向けの品質管理システム「JIS Q 9100」に加え、",
+    "url": "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年1月に医療機器向けの品質管理システムである「ISO13485」の認証を取得しております",
+    "url": "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "pass": 1
+   },
+   {
+    "quote": "品質管理された、航空宇宙向け積層造形部品のご提供",
+    "url": "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "pass": 1
+   },
+   {
+    "quote": "品質管理された、医療機器向け積層造形部品のご提供",
+    "url": "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形装置（3Dプリンター／３次元積層造形技術）を用いた、整形外科領域のカスタムメイド医療機器の製造",
+    "url": "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "pass": 1
+   },
+   {
+    "quote": "量産・大型造形対応に特化したTi6Al4V専用機",
+    "url": "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "pass": 1
+   },
+   {
+    "quote": "余剰材料や廃棄物がほとんど発生せず、製造工程の省資源化や省エネルギー化が図られます",
+    "url": "https://www.kinzoku.co.jp/core_technology/resin_additive_manufacturing.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属技研と核融合スタートアップのヘリカルフュージョンの挑戦",
+    "url": "https://www.kinzoku.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "半導体からエネルギー、航空宇宙まで",
+    "url": "https://www.kinzoku.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形装置（3Dプリンター／３次元積層造形技術）を用いた、整形外科領域のカスタムメイド医療機器の製造",
+    "url": "https://www.kinzoku.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "『和を貴び、和を守る』という理念のもと、創業当時はフェライトの磁性焼鈍やアルミダイキャスト用金型の熱処理を手掛けていましたが、2年後には手狭になり、新たに群馬県玉村に群馬工場を開設しました",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1970年代には防衛・航空機関連業界にも進出し、1977年には民間機のボーイング社品質規格（BAC）の認定を取得",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "HIP技術は、ガスタービン・航空機用精密鋳造品の内部欠陥除去や、粉末ハイスの焼結処理など、多様な製品に活用されていきます",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空機部品Ti-6Al-4Vのろう付（F15J用ボディバルブ）",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "群馬工場、真空炉を導入し本格的に防衛（航空）分野の事業開始",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属技研は航空業界に関連する業界の要求を満たしております",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空製造業者に対する高い基準を常に満たすことで、当社工場の管理システムは改善し向上しています",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは常に品質管理システムの向上を目指し、ISO9000シリーズの認証や航空業界に関連する認証を取得しています",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "JIS Q9100: 航空・宇宙及び防衛分野の組織に対する要求事項",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空、宇宙、産業用部品の製造【熱処理、ろう付、溶接、ＨＩＰ（熱間等方加圧）、拡散接合及び機械加工】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "21 航空宇宙産業",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "金属積層造形にも対応しており、金属粉末に電子ビームやレーザーを照射し、直接溶解して積層することで緻密な3D形状を造形することができます",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "quote": "展示品は、チタン合金製およびアルミニウム合金製のAMビーム窓です",
+    "url": "https://www.kinzoku.co.jp/news_release/j-parc.OPEN_HOUSE.2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "ウェビナー「【12/11開催】セラミックスをレーザーで溶かす!?～レーザービーム金属造形機で挑むアルミナセラミックス造形～」のご案内",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "当社の共同開発超耐熱高靭性タングステンがベスト産業実用化賞を受賞しました",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "高靭性タングステン W-TiCの開発がIMSSで紹介",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "ものづくり補助金活用により高純度粉末処理による材料開発を推進します",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形でチタンを用いるメリットや活用例を解説",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "銅溶接が難しいとされる理由とは？溶接方法やポイントを解説",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "【アーカイブ配信】セラミックスをレーザーで溶かす!?～レーザービーム金属造形機で挑むアルミナセラミックス造形～",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "アルミと鉄の溶接が難しい理由とは？異種金属溶接の概要や溶接する方法",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "アルミの基礎知識やアルミ溶接の方法について解説",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "ウェビナー「【12/11開催】セラミックスをレーザーで溶かす!?～レーザービーム金属造形機で挑むアルミナセラミックス造形～」のご案内",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の共同開発超耐熱高靭性タングステンがベスト産業実用化賞を受賞しました",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "高靭性タングステン W-TiCの開発がIMSSで紹介",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "ものづくり補助金活用により高純度粉末処理による材料開発を推進します",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形でチタンを用いるメリットや活用例を解説",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "銅溶接が難しいとされる理由とは？溶接方法やポイントを解説",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "【アーカイブ配信】セラミックスをレーザーで溶かす!?～レーザービーム金属造形機で挑むアルミナセラミックス造形～",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "アルミと鉄の溶接が難しい理由とは？異種金属溶接の概要や溶接する方法",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "アルミの基礎知識やアルミ溶接の方法について解説",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形技術は、電子ビームまたはファイバーレーザーにより必要な部分の金属粉末を溶解し、凝固させて金属部品を製作する技術です",
+    "url": "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "pass": 1
+   },
+   {
+    "quote": "造形物周辺の不要な粉末は、原料粉末として回収できるため、素材歩留まりが高く、従来工法と比べて材料コストを削減できます",
+    "url": "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "pass": 1
+   },
+   {
+    "quote": "例えば、造形直後のTi-6Al-4V材の断面観察結果では、約10μm程度の内部欠陥が確認されております",
+    "url": "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "pass": 1
+   },
+   {
+    "quote": "Inconel718",
+    "url": "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "pass": 1
+   },
+   {
+    "quote": "必要な部分にのみ熱を加えるため、粉末の除去作業が容易であり、冷却水路を含むような複雑構造でも製作することができる",
+    "url": "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "pass": 1
+   },
+   {
+    "quote": "適応材質：Ti6Al4V、Inconel718",
+    "url": "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "pass": 1
+   },
+   {
+    "quote": "40μm（Inconel718）",
+    "url": "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形でチタンを用いるメリットや活用例を解説",
+    "url": "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "pass": 1
+   },
+   {
+    "quote": "Fusion580)は粉末を敷き詰め、熱を加え溶融、凝固させて部品を作ります",
+    "url": "https://www.kinzoku.co.jp/core_technology/resin_additive_manufacturing.html",
+    "pass": 1
+   },
+   {
+    "quote": "プリント、粉末の回収、再生が1台のデバイスに統合された装置",
+    "url": "https://www.kinzoku.co.jp/core_technology/resin_additive_manufacturing.html",
+    "pass": 1
+   },
+   {
+    "quote": "必要な部分にのみ熱を加えるため、粉末の除去作業が容易であり、冷却水路を含むような複雑構造でも製作することができる",
+    "url": "https://www.kinzoku.co.jp/core_technology/resin_additive_manufacturing.html",
+    "pass": 1
+   },
+   {
+    "quote": "ステンレス鋼とチタン合金、アルミ合金とチタン合金の拡散接合",
+    "url": "https://www.kinzoku.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "Ti-6Al-4Vの応力除去",
+    "url": "https://www.kinzoku.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "『和を貴び、和を守る』という理念のもと、創業当時はフェライトの磁性焼鈍やアルミダイキャスト用金型の熱処理を手掛けていましたが、2年後には手狭になり、新たに群馬県玉村に群馬工場を開設しました",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "HIP技術は、ガスタービン・航空機用精密鋳造品の内部欠陥除去や、粉末ハイスの焼結処理など、多様な製品に活用されていきます",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空機部品Ti-6Al-4Vのろう付（F15J用ボディバルブ）",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "超硬材料粉末冶金（製鉄用の耐熱・耐腐食超硬ロール）",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属材料、金属粉末及び金属積層複合材料の熱処理、ろう付、拡散接合、粉末焼結、HIPHIP（熱間等方加圧）",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "北欧大手エンジニアリングメーカー子会社の 買収に関するお知らせ",
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "pass": 1
+   },
+   {
+    "quote": "北欧大手エンジニアリングメーカー子会社の 買収に関するお知らせ",
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "pass": 1
+   },
+   {
+    "quote": "大阪製鐵(株)＜OSAKA STEEL LTD.＞【東証スタンダード上場】【日本製鉄グループ】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株)電業社機械製作所【東証スタンダード上場】",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221386/outline.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 - 金属技研 — 会社概要 - 金属技研 金属技研 https://www.kinzoku.co.jp > about_mtc",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研 (株)の 会社概要 | マイナビ2028 — 金属技研 (株)の 会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp221386 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研 株式会社（東京都）の 会社概要 ・役員 | Compalyze — 金属技研 株式会社（東京都）の 会社概要 ・役員 | Compalyze Compalyze https://compalyze.co.jp > 企業検索 > 鉄鋼・金属",
+    "url": "https://compalyze.co.jp/company/4011201010452",
+    "pass": 3
+   },
+   {
+    "quote": "数字で見る 金属技研 ｜同種・異種金属の接合 - リクルートTOP — 数字で見る 金属技研 ｜同種・異種金属の接合 - リクルートTOP mtc-kinzoku.co.jp https://www.mtc-kinzoku.co.jp > number",
+    "url": "https://www.mtc-kinzoku.co.jp/number/",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研 株式 会社 - 投資実績 - 東京中小企業投資育成株式会社 — 金属技研 株式 会社 - 投資実績 - 東京中小企業投資育成株式会社 東京中小企業投資育成株式会社 https://www.sbic.co.jp > investeecompany > detail",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=2507",
+    "pass": 3
+   },
+   {
+    "quote": "複雑な形状にも対応可能！ 金属3Dプリンター の特長と活用 ... — 複雑な形状にも対応可能！ 金属3Dプリンター の特長と活用 ... 金属技研 https://www.kinzoku.co.jp > media > techinfo",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-3dprinter",
+    "pass": 3
+   },
+   {
+    "quote": "他社から見た 金属技研 の 金属3Dプリンター (金属積層造形・AM) — 他社から見た 金属技研 の 金属3Dプリンター (金属積層造形・AM) YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=sT3lR9R98hc",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研 水戸工機 - Cloudfront.net — 金属技研 水戸工機 - Cloudfront.net d3ukgu32nhw07o.cloudfront.net PDF https://d3ukgu32nhw07o.cloudfront.net > space_pdf",
+    "url": "https://d3ukgu32nhw07o.cloudfront.net/space_pdf/pdf_file54928560a1494.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セラミックス積層造形の受託生産サービスを開始しました — セラミックス積層造形の受託生産サービスを開始しました 金属技研 https://www.kinzoku.co.jp > news_release > CeramicAM",
+    "url": "https://www.kinzoku.co.jp/news_release/CeramicAM.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研 株式会社 | MTCは熱処理・HIP・接合などの 金属 加工 ... — 金属技研 株式会社 | MTCは熱処理・HIP・接合などの 金属 加工 ... 金属技研 https://www.kinzoku.co.jp",
+    "url": "https://www.kinzoku.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形 製作の「落とし穴」とは？ | MTC Solution - 金属技研 — 積層造形 製作の「落とし穴」とは？ | MTC Solution - 金属技研 金属技研 https://www.kinzoku.co.jp > media > special-feature",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/a44",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研 株式会社 - 投資実績 - 東京中小企業投資育成株式会社 — 金属技研 株式会社 - 投資実績 - 東京中小企業投資育成株式会社 東京中小企業投資育成株式会社 https://www.sbic.co.jp > investeecompany > detail",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=2507",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研 ×日刊工業新聞 — 金属技研 ×日刊工業新聞 日刊工業新聞 https://www.nikkan.co.jp > kinzoku > jmlp",
+    "url": "https://www.nikkan.co.jp/jm/kinzoku?jmlp",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研 株式会社 — 金属技研 株式会社 career-platform.com https://career-platform.com > contentsol_4263",
+    "url": "https://career-platform.com/contentsol_4263.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研 (株)の新卒採用・会社概要 | マイナビ2027 — 金属技研 (株)の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp221386 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研 株式会社 - 東京都・金属加工請負業界の企業情報 — 金属技研 株式会社 - 東京都・金属加工請負業界の企業情報 Baseconnect https://baseconnect.in > companies",
+    "url": "https://baseconnect.in/companies/e7976825-aebb-4580-8d4f-d5e1b7f3bbb5",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研 (株)の会社概要 | マイナビ2028 — 金属技研 (株)の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp221386 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "金属技研 株式会社 Metal Technology (@MetalTechJapan) / X 金属技研 株式会社 Metal Technology (@MetalTechJapan) / X X https://x.com > MetalTechJapan",
+    "url": "https://x.com/MetalTechJapan",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研 株式会社 Metal Technology - X 金属技研 株式会社 Metal Technology - X X https://x.com > @MetalTechJapan",
+    "url": "https://x.com/MetalTechJapan/status/2095405719990493226",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研 株式会社 Metal Technology - X 金属技研 株式会社 Metal Technology - X X https://x.com > @MetalTechJapan",
+    "url": "https://x.com/MetalTechJapan/status/2102956199515942947",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研 株式会社 Metal Technology - X 金属技研 株式会社 Metal Technology - X X https://x.com > @MetalTechJapan",
+    "url": "https://x.com/MetalTechJapan/status/2118357673183961401",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Minoru Ueda - 金属技研 株式会社 - LinkedIn Minoru Ueda - 金属技研 株式会社 - LinkedIn LinkedIn https://jp.linkedin.com > ...",
+    "url": "https://jp.linkedin.com/in/minoru-ueda-490b40151",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "IHI、 金属技研 と - Helical Fusion - Facebook IHI、 金属技研 と - Helical Fusion - Facebook Facebook https://www.facebook.com > helicalfusion > posts > ihi金...",
+    "url": "https://www.facebook.com/helicalfusion/posts/ihi%E9%87%91%E5%B1%9E%E6%8A%80%E7%A0%94%E3%81%A8%E6%9C%80%E7%B5%82%E5%AE%9F%E8%A8%BC%E8%A3%85%E7%BD%AEhelix-haruka%E3%81%AE%E9%AB%98%E6%B8%A9%E8%B6%85%E4%BC%9D%E5%B0%8E%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E9%87%8D%E8%A6%81%E9%83%A8%E5%93%81%E3%83%90%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%AE%E5%85%B1%E5%90%8C%E9%96%8B%E7%99%BA%E3%82%92%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%83%90%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%B3%E8%81%9E%E3%81%84%E3%81%9F%E3%81%93%E3%81%A8%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E3%81%8B/122274982694080682/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.kinzoku.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/news_release/headoffice_renovationwork.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/news_release/j-parc.OPEN_HOUSE.2026.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/news_release.html?tab=tab02",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/documents/wp-company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/documents/wp-hotpress-list.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/news_release.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/core_technology/resin_additive_manufacturing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/case.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/about_mtc/factory.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.kinzoku.co.jp/dcms_media/image/document-img06.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/dcms_media/image/document-img03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/4011201010452",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=sT3lR9R98hc",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://d3ukgu32nhw07o.cloudfront.net/space_pdf/pdf_file54928560a1494.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mtc-kinzoku.co.jp/about_selection/course/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mtc-kinzoku.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=2507",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mtc-kinzoku.co.jp/number/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp221386/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/MetalTechJapan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MetalTechJapan/status/2095405719990493226",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MetalTechJapan/status/2102956199515942947",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MetalTechJapan/status/2118357673183961401",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/minoru-ueda-490b40151",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/helicalfusion/posts/ihi%E9%87%91%E5%B1%9E%E6%8A%80%E7%A0%94%E3%81%A8%E6%9C%80%E7%B5%82%E5%AE%9F%E8%A8%BC%E8%A3%85%E7%BD%AEhelix-haruka%E3%81%AE%E9%AB%98%E6%B8%A9%E8%B6%85%E4%BC%9D%E5%B0%8E%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E9%87%8D%E8%A6%81%E9%83%A8%E5%93%81%E3%83%90%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%AE%E5%85%B1%E5%90%8C%E9%96%8B%E7%99%BA%E3%82%92%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%83%90%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%B3%E8%81%9E%E3%81%84%E3%81%9F%E3%81%93%E3%81%A8%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E3%81%8B/122274982694080682/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金属技研",
+   "results": [
+    "https://www.kinzoku.co.jp/",
+    "https://www.youtube.com/channel/UCY2w1_Nj5V_8QfiMI2yvudA/featured",
+    "https://www.mtc-kinzoku.co.jp/",
+    "https://x.com/MetalTechJapan",
+    "https://www.nikkan.co.jp/jm/kinzoku",
+    "https://arwrk.net/recruit/z0kwoxxb16rj7qt/",
+    "https://www.aol.com/",
+    "https://www.dell.com/support/kbdoc/ja-jp/000148879/outlookでサード-パーティーのeメールをセットアップする方法",
+    "https://www.dell.com/community/en/conversations/windows-general/remove-aol-completely-from-my-computer/647e6e9ef4ccf8a8de751b20",
+    "https://www.dell.com/support/kbdoc/en-us/000148879/how-to-set-up-3rd-party-emails-in-outlook"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "金属技研 会社概要 資本金 設立",
+   "results": [
+    "https://www.kinzoku.co.jp/about_mtc.html",
+    "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "https://compalyze.co.jp/company/4011201010452",
+    "https://www.mtc-kinzoku.co.jp/number/",
+    "https://www.sbic.co.jp/investeecompany/detail/index.php?id=2507",
+    "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/kinzoku-giken/",
+    "https://webcourse.jp/gifu/articles/91",
+    "https://bellface.co.jp/news/7219/",
+    "https://mono.ipros.com/company/detail/2057619/",
+    "https://hardforum.com/threads/jensen-huang-and-lisa-su-family-tree-shows-how-closely-they-are-related.2029083/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 39
+  },
+  {
+   "query": "金属技研 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.kinzoku.co.jp/media/techinfo/about-metal-3dprinter",
+    "https://www.youtube.com/watch?v=sT3lR9R98hc",
+    "https://d3ukgu32nhw07o.cloudfront.net/space_pdf/pdf_file54928560a1494.pdf",
+    "https://www.kinzoku.co.jp/news_release/CeramicAM.html",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://www.ricoh.co.jp/3dp/case/kinzokugiken/",
+    "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "https://www.tokushuko.or.jp/publication/magazine/pdf/2023/magazine2305.pdf",
+    "https://www.sakamotogiken.com/additive-manufacturing",
+    "https://www.dickssportinggoods.com/f/new-england-patriots-hats"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "金属技研 金属積層造形 設備",
+   "results": [
+    "https://www.kinzoku.co.jp/",
+    "https://www.mtc-kinzoku.co.jp/about_selection/course/",
+    "https://www.kinzoku.co.jp/media/special-feature/a44",
+    "https://www.nttd-es.co.jp/magazine/backnumber/no75/no75-mtc.html",
+    "https://www.jfca-net.or.jp/contents/view/2035",
+    "https://x.com/MetalTechJapan",
+    "https://eigyo-mfg.com/service/navi/company/Qt3YXxek7dMr",
+    "https://www.nikkan.co.jp/jm/kinzoku?jmlp"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "金属技研 株主 出資 親会社",
+   "results": [
+    "https://www.kinzoku.co.jp/about_mtc.html",
+    "https://www.mtc-kinzoku.co.jp/",
+    "https://www.sbic.co.jp/investeecompany/detail/index.php?id=2507",
+    "https://www.nikkan.co.jp/jm/kinzoku?jmlp",
+    "https://career-platform.com/contentsol_4263.html",
+    "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/kinzoku-giken/",
+    "https://baseconnect.in/companies/e7976825-aebb-4580-8d4f-d5e1b7f3bbb5",
+    "https://x.com/MetalTechJapan",
+    "https://www.kinzoku.co.jp/media/special-feature/ps-opening-ceremony",
+    "https://www.imlcc.org/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "金属技研 売上高 従業員数",
+   "results": [
+    "https://www.kinzoku.co.jp/about_mtc.html",
+    "https://www.mtc-kinzoku.co.jp/number/",
+    "https://job.mynavi.jp/27/pc/search/corp221386/outline.html",
+    "https://baseconnect.in/companies/e7976825-aebb-4580-8d4f-d5e1b7f3bbb5",
+    "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "https://www.r-agent.com/company/43534/",
+    "https://arwrk.net/recruit/z0kwoxxb16rj7qt/",
+    "https://career-platform.com/contentsol_4263.html",
+    "https://www.nikkan.co.jp/jm/kinzoku?jmlp",
+    "https://translate.google.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "site:note.com 金属技研",
+   "results": [
+    "https://note.com/izuku_idea/n/n14c7bdb9d09f",
+    "https://note.com/yasuhitoo/n/n60b9c4eed46e",
+    "https://note.com/ourly/n/nc01b4e929d17",
+    "https://note.com/revoot2026",
+    "https://note.com/takumigiken/n/n4e0d69dee239",
+    "https://note.com/bikogiken/n/n90be99655dee",
+    "https://note.com/kagawatomo/n/nf65a446ed216",
+    "https://note.com/shinei_giken",
+    "https://note.com/murata_boring",
+    "https://note.com/dapper_squid9109/n/n26c4c2752cea"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 40
+  },
+  {
+   "query": "site:x.com 金属技研",
+   "results": [
+    "https://x.com/MetalTechJapan",
+    "https://x.com/MetalTechJapan/status/2095405719990493226",
+    "https://x.com/MetalTechJapan/status/2102956199515942947",
+    "https://x.com/MetalTechJapan/status/2118357673183961401",
+    "https://x.com/MetalTechJapan/status/2113103058658050145",
+    "https://x.com/MetalTechJapan/status/2077589036743430410",
+    "https://x.com/MetalTechJapan/status/2095744710740771046",
+    "https://x.com/MetalTechJapan/status/2115639762195239414",
+    "https://x.com/MetalTechJapan/status/2089857375595372557",
+    "https://www.bathandbodyworks.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
+  },
+  {
+   "query": "site:linkedin.com 金属技研",
+   "results": [
+    "https://jp.linkedin.com/company/metal-technology-corporation-ltd.",
+    "https://www.linkedin.com/company/metal-technology-corporation-ltd.",
+    "https://jp.linkedin.com/in/minoru-ueda-490b40151",
+    "https://www.linkedin.com/posts/hirotaka-kawagoe-012284184_%E9%87%91%E5%B1%9E%E6%8A%80%E7%A0%94-mtc-%E9%87%91%E5%B1%9E%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2-activity-7450391212177649664-t_BE",
+    "https://jp.linkedin.com/posts/helical-fusion_%E9%87%91%E5%B1%9E%E6%8A%80%E7%A0%94%E3%81%A8%E6%A0%B8%E8%9E%8D%E5%90%88%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%AE%E3%83%98%E3%83%AA%E3%82%AB%E3%83%AB%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%AE%E6%8C%91%E6%88%A6-%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81-by-activity-7194176655324585986-aWIB",
+    "https://jp.linkedin.com/posts/metal-technology-corporation-ltd._%E9%87%91%E5%B1%9E%E6%8A%80%E7%A0%94-%E6%B5%B7%E8%80%81%E5%90%8D%E5%B8%82-%E5%B8%82%E5%88%B6%E6%96%BD%E8%A1%8C55%E5%91%A8%E5%B9%B4-activity-7524347691229753344-_Xfk",
+    "https://jp.linkedin.com/in/%E6%98%8C%E5%BC%98-%E5%90%89%E7%94%B0-35342a190",
+    "https://jp.linkedin.com/in/hiroshige-masuo-328833154",
+    "https://jp.linkedin.com/in/robert-joseph-490bb6b5",
+    "https://support.google.com/maps/answer/144349?hl=en&co=GENIE.Platform=Android"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
+  },
+  {
+   "query": "site:facebook.com 金属技研",
+   "results": [
+    "https://www.facebook.com/helicalfusion/posts/ihi%E9%87%91%E5%B1%9E%E6%8A%80%E7%A0%94%E3%81%A8%E6%9C%80%E7%B5%82%E5%AE%9F%E8%A8%BC%E8%A3%85%E7%BD%AEhelix-haruka%E3%81%AE%E9%AB%98%E6%B8%A9%E8%B6%85%E4%BC%9D%E5%B0%8E%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E9%87%8D%E8%A6%81%E9%83%A8%E5%93%81%E3%83%90%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%AE%E5%85%B1%E5%90%8C%E9%96%8B%E7%99%BA%E3%82%92%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%83%90%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%B3%E8%81%9E%E3%81%84%E3%81%9F%E3%81%93%E3%81%A8%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E3%81%8B/122274982694080682/",
+    "https://www.facebook.com/hideaki.ishii3/",
+    "https://www.facebook.com/helicalfusion/posts/715%E6%B0%B4%E6%94%BE%E6%98%A0%E3%81%AE%E3%83%86%E3%83%AC%E3%83%93%E6%9D%B1%E4%BA%AC%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88wbs%E3%81%A7helical-fusion%E3%81%AE%E5%8F%96%E3%82%8A%E7%B5%84%E3%81%BF%E3%81%8C%E7%B4%B9%E4%BB%8B%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E4%BB%8A%E5%B9%B45%E6%9C%88%E3%81%AB%E9%AB%98%E5%B8%82%E6%94%BF%E6%A8%A9%E3%81%AE%E6%88%A6%E7%95%A517%E5%88%86%E9%87%8E%E3%81%AE%E4%B8%80%E3%81%A4%E3%81%A7%E3%81%82%E3%82%8B%E3%83%95%E3%83%A5/122283903332080682/",
+    "https://www.facebook.com/mantenproject/posts/%E4%B9%85%E3%81%97%E3%81%B6%E3%82%8A%E3%81%AE%E4%BE%8B%E4%BC%9A%E3%81%AB%E3%81%A6%E3%81%94%E8%AC%9B%E6%BC%94%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E6%96%B9-%E6%A0%AA%E3%82%A2%E3%83%83%E3%83%97%E7%B7%8F%E5%90%88%E4%BC%81%E7%94%BB-%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9-%E7%94%B0%E4%B8%AD-%E5%8B%87%E4%BA%BA-%E6%B0%8F%E3%83%A6%E3%82%B7%E3%83%AD%E5%8C%96%E5%AD%A6%E5%B7%A5%E6%A5%AD%E6%A0%AA-%E7%A5%9E%E5%A5%88%E5%B7%9D%E3%83%86%E3%82%AF%E3%83%8B%E3%82%AB%E3%83%AB%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E7%A0%94%E7%A9%B6%E6%9C%AC%E9%83%A8-%E6%8A%80%E8%A1%93%E7%B5%B1%E6%8B%AC%E9%83%A8-%E6%8A%80%E8%A1%931%E9%83%A8/318251913637941/",
+    "https://www.facebook.com/public/%E6%B2%96%E7%94%B0%E5%B0%9A%E4%B9%9F/?locale=ja_JP",
+    "https://www.facebook.com/bikogiken/?locale=ja_JP",
+    "https://www.facebook.com/kadomacity2021/posts/%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%AB%E3%83%89%E3%83%9E%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E5%87%BA%E5%B1%95%E4%BC%81%E6%A5%AD%E7%B4%B9%E4%BB%8B%E7%B6%9A%E3%81%84%E3%81%A6%E3%81%AF%E6%A0%84%E5%85%89%E6%8A%80%E7%A0%94%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%A7%98%E3%81%AE%E3%83%96%E3%83%BC%E3%82%B9%E3%81%A7%E3%81%99%E3%81%B0%E3%81%AD%E7%B7%9A%E5%8A%A0%E5%B7%A5%E5%93%81%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E6%9B%B2%E3%81%92%E5%8A%A0%E5%B7%A5%E5%93%81%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E5%93%81%E3%81%AA%E3%81%A9%E3%81%AE%E8%A8%AD%E8%A8%88%E8%A3%BD%E9%80%A0%E3%82%92%E6%89%8B%E6%8E%9B%E3%81%91%E3%82%8B%E9%96%80%E7%9C%9F%E5%B8%82%E3%81%AE%E4%BC%81%E6%A5%AD%E3%81%A7/1411426281079297/",
+    "https://www.facebook.com/61565117316902/posts/%E8%A9%A6%E4%BD%9C%E3%81%8B%E3%82%89%E9%87%8F%E7%94%A3%E6%B5%B7%E5%A4%96%E8%AA%BF%E9%81%94%E3%81%BE%E3%81%A7%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E3%81%AE%E3%81%93%E3%81%A8%E3%81%AA%E3%82%89bantec%E3%81%B8/122237435996503910/",
+    "https://www.facebook.com/arakawagrip.jp/",
+    "https://www.dnb.com/business-directory/company-profiles.bryan_cave_leighton_paisner.73bd0ab9afb7ca5c78d83be557a8b72f.html"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "金属技研 note 社長",
+   "results": [
+    "https://www.kinzoku.co.jp/",
+    "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "https://www.nikkan.co.jp/jm/kinzoku",
+    "https://www.atengineer.com/pr/kinzoku-giken/company",
+    "https://job.mynavi.jp/27/pc/search/corp221386/outline.html",
+    "https://www.mtc-kinzoku.co.jp/number/",
+    "https://www.kinzoku.co.jp/about_mtc.html",
+    "https://stackoverflow.com/questions/14773844/how-to-download-all-linked-images-from-in-html-source-code",
+    "https://www.pinterest.com/",
+    "https://stackoverflow.com/questions/65468063/bootstrap-5-layout-for-different-sizes-cards-like-pinterest"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "金属技研 X 投稿",
+   "results": [
+    "https://hypixel.net/threads/guide-how-to-break-your-kahoot-name.4573860/",
+    "https://hypixel.net/threads/kahoot-it-join-cuz-idk-4257948.3387051/",
+    "https://hypixel.net/threads/the-official-unofficial-skyblock-kahoot.3710848/",
+    "https://invest529.virginia529.com/assets/files/disclosures.pdf?id=b04aabbddf1db29587fb",
+    "https://invest529.virginia529.com/assets/files/terms-of-use.pdf",
+    "https://invest529.virginia529.com/assets/files/invest529-1000-sweepstakes-terms-and-conditions-11-2019.pdf?id=08f924227bd7b452c27f",
+    "https://invest529.virginia529.com/assets/files/privacy-policy.pdf?id=b204a15dad7aef7648cf",
+    "https://www.bikeforums.net/classic-vintage/561211-ebay-craigslist-finds-you-looking-one-these-part-ii.html",
+    "https://www.bikeforums.net/classic-vintage/530402-wacky-world-craigslist-ebay-ads.html",
+    "https://forums.craigslist.org/?areaID=679&forumID=47"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部15頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部15頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部15頁・検索12回）"
+ }
+}

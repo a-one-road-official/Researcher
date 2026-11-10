@@ -1,0 +1,1359 @@
+{
+ "name": "シンフォニアテクノロジー株式会社",
+ "aliases": [],
+ "context": "PBF=yes 装置=EOS M 290 出典=https://www.recmbus-3dprint.com/list/eos.html",
+ "researched_at": "2026-11-10T17:07:19.972855+00:00",
+ "official_url": "https://www.sinfo-t.jp/",
+ "identified_by": "search:yahoo_jp:シンフォニアテクノロジー",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1949年8月（昭和24年）",
+    "url": "https://www.sinfo-t.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "創業",
+    "value": "創業：1917年5月（大正6年）",
+    "url": "https://www.sinfo-t.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立年月日",
+    "value": "設立年月日：1949年8月18日",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6507",
+    "pass": 3
+   },
+   {
+    "label": "創業",
+    "value": "創業：1917年5月",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1949年8月",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "101億5,696万円（2026年3月末現在）",
+    "url": "https://www.sinfo-t.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "10,156(百万円) \n                                            (2026/3現在) \n                                            日本基準",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6507",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "101億5,696万円（2016年3月末現在）",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "連結：128,197百万円",
+    "url": "https://www.sinfo-t.jp/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結　3,729人 単独　2,080人（2026年3月末現在）",
+    "url": "https://www.sinfo-t.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "2,080 人",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6507",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "連結　3,563人 単独　1,956人（2016年3月末現在）",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "〒105-8564 東京都港区芝大門1-1-30　芝タワー （2025年3月27日、ビル名が「芝NBFタワー」から変更になりました）",
+    "url": "https://www.sinfo-t.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "本社住所",
+    "value": "〒105-8564 東京都港区芝大門１－１－３０　芝タワー 地図",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6507",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都港区芝大門1-1-30 芝NBFタワー",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "半導体機器 半導体ウェーハ搬送装置の開発・製造・販売 航空宇宙機器 宇宙用電装品、宇宙ロケット用アクチュエータ、航空機用電装品などの開発・製造・販売 自動車/モビリティ機器 車載用モータ、試験装置、クラッチブレーキの開発・製造・販売 産業用電機機器 各種モータ、制御装置、搬送機などの開発・製造・販売",
+    "url": "https://www.sinfo-t.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "用途・客の産業": [
+   {
+    "quote": "宇宙用電装品、宇宙ロケット用アクチュエータ、航空機用電装品などの開発・製造・販売",
+    "url": "https://www.sinfo-t.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "第14回半導体設備材料及びコア部品展（CSEAC）",
+    "url": "https://www.sinfo-t.jp/company/event/",
+    "pass": 1
+   },
+   {
+    "quote": "中国半導体市場の中心地のひとつである無錫にて開催された本展示会に、ブース規模を拡大して出展いたしました",
+    "url": "https://www.sinfo-t.jp/company/event/",
+    "pass": 1
+   },
+   {
+    "quote": "当社ブースでは、「Panel FOUP ロードポート」や「Tape Frame FOUP ロードポート」をはじめ、「N2 Purge 300mm FOUP ロードポート」「SMIF ロードポート」「300mm EFEM」といった半導体搬送装置のラインナップを幅広く揃えました",
+    "url": "https://www.sinfo-t.jp/company/event/",
+    "pass": 1
+   },
+   {
+    "quote": "急速に進化を続ける中国半導体市場の最前線で、市場の技術トレンドやお客様のニーズに直接触れる良い機会となりました",
+    "url": "https://www.sinfo-t.jp/company/event/",
+    "pass": 1
+   },
+   {
+    "quote": "中国の自動車市場は、EVが広く普及していることもあり、自動車の研究開発をサポートする当社の試験装置は、多くのお客様から高い関心を集めました",
+    "url": "https://www.sinfo-t.jp/company/event/",
+    "pass": 1
+   },
+   {
+    "quote": "JPCA Show 2026（半導体産業展）",
+    "url": "https://www.sinfo-t.jp/company/event/",
+    "pass": 1
+   },
+   {
+    "quote": "今回は、半導体搬送機器、パーツフィーダ、振動機など、豊橋製作所で製造している当社の幅広い製品ラインナップを展示しました",
+    "url": "https://www.sinfo-t.jp/company/event/",
+    "pass": 1
+   },
+   {
+    "quote": "5月1日、鳥羽造船所に電気係を組織し、電機試作工場を建設",
+    "url": "https://www.sinfo-t.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "電気バス10台を大阪乗合自動車（のちに大阪市営バスと合併）に納入",
+    "url": "https://www.sinfo-t.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "米国ベンディックス社と航空機用電源機器について技術提携",
+    "url": "https://www.sinfo-t.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "電気自動車（EV）試験用高速ダイナモを納入",
+    "url": "https://www.sinfo-t.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "300mmFOUP対応のロードポートを大手半導体製造装置メーカーへ納入",
+    "url": "https://www.sinfo-t.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "豊橋製作所にクリーン搬送機器工場および自動車試験装置実験棟新設",
+    "url": "https://www.sinfo-t.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "神戸にソリューション・ラボ（再生医療）を開設",
+    "url": "https://www.sinfo-t.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体から宇宙、再生医療まで、多彩な事業がここにある！",
+    "url": "https://job.mynavi.jp/28/pc/search/corp54286/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "多事業展開で経営が安定しつつも、半導体、航空宇宙など成長著しい分野で業績拡大中",
+    "url": "https://job.mynavi.jp/28/pc/search/corp54286/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造装置への材料投入口となるロードポートで世界トップシェア",
+    "url": "https://job.mynavi.jp/28/pc/search/corp54286/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙ロケットを惑星軌道に投下するための重要な姿勢制御用アクチュエータを約30年に渡り供給し、日本の宇宙開発に貢献してきました",
+    "url": "https://job.mynavi.jp/28/pc/search/corp54286/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙、半導体などのハイテク分野から、鉄道、自動車、空港、上下水道など生活を支えるインフラまで、多彩な事業を展開しています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp54286/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "半導体の製造工程において欠かせない、シリコンウェーハ（材料）を搬送する機器を生産しており、ロードポートと呼ばれる機構で世界トップシェアを誇ります",
+    "url": "https://job.mynavi.jp/28/pc/search/corp54286/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "次世代自動車開発時のコストカット、納期短縮に貢献します",
+    "url": "https://job.mynavi.jp/28/pc/search/corp54286/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "-162℃の液化天然ガス搬送に用いられるサブマージドモータや、空港で待機中の航空機に安定した電力供給を行う航空機整備用電源車など、持続可能な未来の実現に貢献する製品を取り扱っています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp54286/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本初の航空機用発電機の製造から、現在では国内唯一の航空機用電源システムメーカーとして、国産航空機の製造に欠かせない技術を保持しています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp54286/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "また1980年代、日本初の宇宙ロケット打上げ以降、全ての国産ロケットに当社の姿勢制御装置が搭載されています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp54286/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在、半導体製造装置に用いられる超高精度モーターが主力となっています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp54286/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "未来の再生医療実現に向けた研究に貢献していきます",
+    "url": "https://job.mynavi.jp/28/pc/search/corp54286/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "半導体搬送装置 自動車用試験装置 上下水道中央監視システム 振動搬送装置 大形特殊モーター 各種産業用コントローラ",
+    "url": "https://job.mynavi.jp/28/pc/search/corp54286/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空機用電源システム 宇宙ロケット用姿勢制御システム 鉄道/車両制御機器、AMR（自立走行搬送ロボット）、電磁クラッチ／ブレーキ",
+    "url": "https://job.mynavi.jp/28/pc/search/corp54286/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "鳥羽造船所に電気係を組織し、電機試作工場を建設",
+    "url": "https://job.mynavi.jp/28/pc/search/corp54286/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "豊橋製作所にクリーン搬送機器工場および自動車試験装置実験棟新設",
+    "url": "https://job.mynavi.jp/28/pc/search/corp54286/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙分野の新たな部品づくりに金属3Dプリンターを先行導入 | 人とシステム | 株式会社NTTデータエンジニアリングシステムズ",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "伊勢工場の航空宇宙部門では、航空機・ロケット用の新たな製品の製造に取り組むため、産業用ハイエンド金属3Dプリンター「EOS M 290」を導入し、試験的な運用を開始しています",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "位置や動きを制御するモーションコントロール技術は、機器の高精度と安定性が求められる航空宇宙産業をはじめ、空港・港湾などの大型搬送システム、自動車などのクラッチ・ブレーキ、産業ロボットなどのサーボアクチュエーター、鉄道などの車両制御機器、プリンターシステムといった各種製品で活用されています",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、エナジーコントロール技術は、半導体工場で利用されるクリーン搬送機器や、電気自動車などの自動車用試験装置、振動搬送機器、整列搬送を行うパーツフィーダー、資源リサイクルなどの産業インフラ、上下水道などを監視制御する社会インフラなどの製品・システムを通じ、産業や社会に役立っています",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "取材にお伺いした電子精機本部である伊勢製作所の航空宇宙部門は、航空用電源システムでは国内唯一の総合メーカーとして、発電・配電・電力変換機器の開発および、電磁アクチュエーター・システム、ストアーズ・マネジメントシステムなどを開発しています",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、航空機のエンジンシステムは、これまで油圧・空気圧や電気を組み合わせて構成されていましたが、その電動化にも取り組まれています",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "伊勢製作所 副所長 兼 航空宇宙機器工場長で執行役員の瀬田学様は、航空宇宙部門の業務を次のように紹介します",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "「1920年、日本初の航空機用風車式発電機の開発が航空宇宙部門の起源になります",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "その後、1987年にスペースシャトル実験用電源装置を開発し、宇宙分野に進出しました",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "我々は、さまざまな部品を開発していますが、その中で一番コアな部品というと電源システムであり、国内の航空機では70%以上の電源関係に携わっています",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、宇宙分野では、国産ロケットのイプシロン、およびH-IIAやH-IIBの装備品を開発するなど、着実に実績を積み重ねています」",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙部門で「EOS M 290」を導入",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙部門では、これからのモノづくりの変化を視野に入れて3Dプリンターを導入し、試験を開始しています",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入した要因の一つは、米国ゼネラル・エレクトリック社が航空機のエンジン部品の製作に3Dプリンターを適用していることでした",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "やはり今後は、世界の航空機部品の製造において3Dプリンターの可能性が大きくなると考えました",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "まずは、航空宇宙部門で導入し、何ができるのか、3Dプリンターの可能性を検証しています」",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターの選定時に、航空宇宙部門では国内で販売しているさまざまな3Dプリンターの実機を見学するなど比較検討しました",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "EOS M 290を選定したポイントについて、製造技術チーム チームリーダーの嘉門俊弘様は、「EOS社の3Dプリンターはシェアが高く、航空分野での導入実績に加え、国内の販売体制にも信頼性があると評価しました",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙部門にEOS M 290を導入してから半年がたちます",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、航空機の電源システムや装備品などの部品を作る場合、従来は機械加工の技術的な制約から二つの構成部品を組み合わせなければ実現できなかったものが、3Dプリンターであれば一つでできる可能性もあります",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "我々の目標は、従来の機械加工では考えられなかった新しい製品や部品を航空宇宙部門の設計者に対して提案することです",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターの特性を生かした部品が造形できても、すぐに航空機やロケットに搭載できるわけではないため、航空宇宙部門では3～4年後の搭載を目指した取り組みを行っています",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、航空宇宙部門の部品づくりでは、造形する部品の品質以外にも、製造過程などの運用ルールが重要になります",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に航空宇宙関係になると厳しく、一つの機種を開発すると、製造過程のトレーサビリティーを含めてドキュメント化し、その製品の生産前に実施される審査で承認を得なければモノづくりがスタートできないのです",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙以外の部門もEOS M 290の見学に訪れるなど、シンフォニア テクノロジー様における3Dプリンターへの関心は高いようです",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、航空業界や医療業界での金属3Dプリンタの普及も、高融点金属の材料開発を後押ししています",
+    "url": "https://hibiki.sinfo-t.jp/virtual-exhibition/column/3.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空機部品や生体材料などは、鋳造や切削加工が困難な形状のものが多いため、複雑な形状の部品製造を得意とする金属3Dプリンタの導入が検討されています",
+    "url": "https://hibiki.sinfo-t.jp/virtual-exhibition/column/3.html",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造装置、航空宇宙、クリーンエネルギー、自動車開発",
+    "url": "https://note.com/tatsuya_sabato/n/n12f2b15ea49d",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ、この老舗企業が、今、半導体や宇宙といったテーマで市場の注目を集めているのか？この記事では、シンフォニアテクノロジーの多岐にわたる事業の全貌を解き明かし、その強さの源泉である技術力、そして未来への成長戦略を、アナリストの視点から2万字のボリュームで徹底的に解剖します",
+    "url": "https://note.com/tatsuya_sabato/n/n12f2b15ea49d",
+    "pass": 3
+   }
+  ],
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "当社振動機器の1号機・トバトロンを独自開発",
+    "url": "https://www.sinfo-t.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "SCRレオナード方式の抄紙機セクショナルドライブ電機品1号機を開発",
+    "url": "https://www.sinfo-t.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "保有している株式、投資信託、現預金を5フォルダに分けて登録しておくことで、効率よく資産管理ができます",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6507",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙分野の新たな部品づくりに金属3Dプリンターを先行導入 | 人とシステム | 株式会社NTTデータエンジニアリングシステムズ",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターを先行導入",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "伊勢工場の航空宇宙部門では、航空機・ロケット用の新たな製品の製造に取り組むため、産業用ハイエンド金属3Dプリンター「EOS M 290」を導入し、試験的な運用を開始しています",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "EOS M 290導入の狙いや、期待されるメリット、活用法などを伺いました",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙部門で「EOS M 290」を導入",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙部門では、これからのモノづくりの変化を視野に入れて3Dプリンターを導入し、試験を開始しています",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入した要因の一つは、米国ゼネラル・エレクトリック社が航空機のエンジン部品の製作に3Dプリンターを適用していることでした",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "我々も先行してこの技術に取り組まなければ、世界の流れについていけないという思いが増し、3Dプリンターの導入に踏み切ったのです",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "まずは、航空宇宙部門で導入し、何ができるのか、3Dプリンターの可能性を検証しています」",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、NDESが日本総代理店として販売を手掛けるドイツEOS社の産業用ハイエンド金属3Dプリンター「EOS M 290」を2016年1月に導入しました",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "EOS M 290を選定したポイントについて、製造技術チーム チームリーダーの嘉門俊弘様は、「EOS社の3Dプリンターはシェアが高く、航空分野での導入実績に加え、国内の販売体制にも信頼性があると評価しました",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙部門にEOS M 290を導入してから半年がたちます",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "EOS M 290を実際に操作し、活用法を検証する製造技術チームの野村学様は次のように話します",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "EOS M 290の前で",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙以外の部門もEOS M 290の見学に訪れるなど、シンフォニア テクノロジー様における3Dプリンターへの関心は高いようです",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙部門のEOS M 290の活用法の例として、野村様は機械加工に必要な治具の製作を挙げます",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の航空宇宙分野を切り開いてきたシンフォニア テクノロジー様により、EOS M 290で造形した軽量部品が航空機、ロケットに搭載され、空を飛ぶ日も遠いことではないかもしれません",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、航空業界や医療業界での金属3Dプリンタの普及も、高融点金属の材料開発を後押ししています",
+    "url": "https://hibiki.sinfo-t.jp/virtual-exhibition/column/3.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空機部品や生体材料などは、鋳造や切削加工が困難な形状のものが多いため、複雑な形状の部品製造を得意とする金属3Dプリンタの導入が検討されています",
+    "url": "https://hibiki.sinfo-t.jp/virtual-exhibition/column/3.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、高融点金属を溶解して材料にするためには、水冷銅ルツボを用いたコールドクルーシブル溶解が最適ですが、導入コストが高いのが課題でした",
+    "url": "https://hibiki.sinfo-t.jp/virtual-exhibition/column/3.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、3Dプリンタに限らずスパッタリングターゲットやMIMにも導入検討されています",
+    "url": "https://hibiki.sinfo-t.jp/virtual-exhibition/column/3.html",
+    "pass": 3
+   },
+   {
+    "quote": "年初来パフォーマンスと保有銘柄一覧（2026年1月）",
+    "url": "https://note.com/tag/%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "大阪、東京証券取引所一部に上場",
+    "url": "https://www.sinfo-t.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年12 月31 日最終の株主名簿に記録された株主の所有普通株式１株につき、3 株の割合をもって分",
+    "url": "https://www.sinfo-t.jp/application/files/8317/9394/0234/183bd31f0f0781c21fc02b6d44153af4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今回の株式分割に際し、資本金の額の変更はありません",
+    "url": "https://www.sinfo-t.jp/application/files/8317/9394/0234/183bd31f0f0781c21fc02b6d44153af4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【シンフォニアテクノロジー】[6507]企業概要 社員数や役員報酬・資本金 | 日経電子版",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6507",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業の決算発表日程や株主総会の日程を事前に確認することができます",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6507",
+    "pass": 3
+   },
+   {
+    "quote": "シンフォニアテクノロジー(株)【東証プライム市場上場】の会社概要 | マイナビ2028",
+    "url": "https://job.mynavi.jp/28/pc/search/corp54286/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "シンフォニアテクノロジー(株)【東証プライム市場上場】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp54286/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "大阪、東京証券取引所一部に上場",
+    "url": "https://job.mynavi.jp/28/pc/search/corp54286/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "シンフォニアテクノロジー(株)【東証プライム市場上場】の画像と似た雰囲気の画像から企業をおすすめしています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp54286/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "シンフォニアテクノロジー(株)【東証プライム市場上場】の会社概要",
+    "url": "https://job.mynavi.jp/28/pc/search/corp54286/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "小倉クラッチ(株)【東証スタンダード市場上場】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp54286/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "財務CFを見ると、安定的な配当や自己株式取得といった、株主への利益還元にも積極的な姿勢が見て取れます",
+    "url": "https://note.com/tatsuya_sabato/n/n12f2b15ea49d",
+    "pass": 3
+   },
+   {
+    "quote": "**「本業で力強く稼ぎ（営業CF）、それを未来への成長（投資CF）と株主への還元（財務CF）にバランス良く配分する」**という、投資家にとって理想的なキャッシュアロケーションが実践されています",
+    "url": "https://note.com/tatsuya_sabato/n/n12f2b15ea49d",
+    "pass": 3
+   },
+   {
+    "quote": "安定した財務基盤と、着実な利益成長、そして株主還元を評価する、中長期的な視点を持つ投資家",
+    "url": "https://note.com/tatsuya_sabato/n/n12f2b15ea49d",
+    "pass": 3
+   },
+   {
+    "quote": "中間期（4〜9月）の実績は、売上高646.14億円（前年同期比＋15.8％）、営業利益87.99億円（同＋44.6％）、親会社株主に帰属する中間純利益62.90億円（同＋38.2％）でした",
+    "url": "https://note.com/kabu_times/n/n543344f12af1",
+    "pass": 3
+   },
+   {
+    "quote": "搬送・モーション分野の上場企業では、株探の会社概要でウエハー・ガラス基板搬送機の最大手とされるローツェ（6323）や、サーボモーターとインバーターのメカトロ大手とされる安川電機（6506）があります",
+    "url": "https://note.com/kabu_times/n/n543344f12af1",
+    "pass": 3
+   },
+   {
+    "quote": "【株主優待？】シンフォニアテクノロジー（6507）",
+    "url": "https://note.com/tag/%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "第179回 3/29 2/26上場銘柄ETFGX 防衛テック-日本株式＃464A,#6613,#9467",
+    "url": "https://note.com/tag/%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社情報 | シンフォニアテクノロジー 株式会社 — 会社情報 | シンフォニアテクノロジー 株式会社 シンフォニアテクノロジー株式会社 https://www.sinfo-t.jp > company",
+    "url": "https://www.sinfo-t.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "シンフォニアテクノロジー - 日本経済新聞 — シンフォニアテクノロジー - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6507",
+    "pass": 3
+   },
+   {
+    "quote": "シンフォニアテクノロジー (株)【東証プライム市場上場】 — シンフォニアテクノロジー (株)【東証プライム市場上場】 マイナビ https://job.mynavi.jp > search > corp54286 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp54286/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "シンフォニアテクノロジー 株式 会社 — シンフォニアテクノロジー 株式 会社 シンフォニアテクノロジー株式会社 https://www.sinfo-t.jp",
+    "url": "https://www.sinfo-t.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "沿革 | シンフォニアテクノロジー 株式 会社 — 沿革 | シンフォニアテクノロジー 株式 会社 シンフォニアテクノロジー株式会社 https://www.sinfo-t.jp > company > history",
+    "url": "https://www.sinfo-t.jp/company/history/",
+    "pass": 3
+   },
+   {
+    "quote": "第2回バーチャル展示会 高融点 金属 の材料開発進む！ — 第2回バーチャル展示会 高融点 金属 の材料開発進む！ シンフォニアテクノロジー株式会社 https://hibiki.sinfo-t.jp > virtual-exhibition > column",
+    "url": "https://hibiki.sinfo-t.jp/virtual-exhibition/column/3.html",
+    "pass": 3
+   },
+   {
+    "quote": "ディスクアトマイザ | シンフォニアテクノロジー 株式会社 — ディスクアトマイザ | シンフォニアテクノロジー 株式会社 シンフォニアテクノロジー株式会社 https://www.sinfo-t.jp > industrial-infra > disc_atomizer",
+    "url": "https://www.sinfo-t.jp/industrial-infra/disc_atomizer/",
+    "pass": 3
+   },
+   {
+    "quote": "株式情報 | シンフォニアテクノロジー 株式 会社 — 株式情報 | シンフォニアテクノロジー 株式 会社 シンフォニアテクノロジー株式会社 https://www.sinfo-t.jp > stock",
+    "url": "https://www.sinfo-t.jp/ir/stock/",
+    "pass": 3
+   },
+   {
+    "quote": "株主 ・投資家の皆様へ | シンフォニアテクノロジー 株式 会社 — 株主 ・投資家の皆様へ | シンフォニアテクノロジー 株式 会社 シンフォニアテクノロジー株式会社 https://www.sinfo-t.jp > ...",
+    "url": "https://www.sinfo-t.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "会社 概要 | シンフォニアテクノロジー 株式 会社 — 会社 概要 | シンフォニアテクノロジー 株式 会社 シンフォニアテクノロジー株式会社 https://www.sinfo-t.jp > about > outline",
+    "url": "https://www.sinfo-t.jp/ir/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "シンフォニア テクノロジー 【6507】の大 株主 情報 - 株探 — シンフォニア テクノロジー 【6507】の大 株主 情報 - 株探 株探 https://s.kabutan.jp > stocks > stockholders",
+    "url": "https://s.kabutan.jp/stocks/6507/stockholders/?page=2",
+    "pass": 3
+   },
+   {
+    "quote": "株主 還元 | シンフォニアテクノロジー 株式 会社 — 株主 還元 | シンフォニアテクノロジー 株式 会社 シンフォニアテクノロジー株式会社 https://www.sinfo-t.jp > stock > reduction",
+    "url": "https://www.sinfo-t.jp/ir/stock/reduction/",
+    "pass": 3
+   },
+   {
+    "quote": "主要業績データ推移 | シンフォニアテクノロジー 株式会社 — 主要業績データ推移 | シンフォニアテクノロジー 株式会社 シンフォニアテクノロジー株式会社 https://www.sinfo-t.jp > performance-data-trends",
+    "url": "https://www.sinfo-t.jp/ir/performance-financial/performance-data-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "シンフォニアテクノロジー 株式会社の平均年収は671万円！ — シンフォニアテクノロジー 株式会社の平均年収は671万円！ 求人ボックス https://求人ボックス.com > シンフォニアテクノロジー株式...",
+    "url": "https://xn--pckua2a7gp15o89zb.com/%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%B9%B4%E5%8F%8E",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "「従来の機械加工と同じ部品でも、材料の金属粉末を積層して造形する3Dプリンターの部品では、耐久性などの実績を求められるため、いろいろな検証を行い品質の妥当性を立証する必要があります",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在、3Dプリンターの材料はチタンなので、材料の選択肢が増えれば実現できます」",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、従来のセラミックス系のルツボでは溶解が難しかった、高融点金属（チタン、ジルコニウム、ニオブなど）の材料開発が盛んになってきています",
+    "url": "https://hibiki.sinfo-t.jp/virtual-exhibition/column/3.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、高融点金属を溶解して材料にするためには、水冷銅ルツボを用いたコールドクルーシブル溶解が最適ですが、導入コストが高いのが課題でした",
+    "url": "https://hibiki.sinfo-t.jp/virtual-exhibition/column/3.html",
+    "pass": 3
+   },
+   {
+    "quote": "これによりチタン合金粉を始め、各種金属粉を高純度・高効率で生産が可能になります",
+    "url": "https://hibiki.sinfo-t.jp/virtual-exhibition/column/3.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "シンフォニアテクノロジー (6507)を徹底分析。100年技術が生む シンフォニアテクノロジー (6507)を徹底分析。100年技術が生む note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/tatsuya_sabato/n/n12f2b15ea49d",
+    "pass": 3
+   },
+   {
+    "quote": "【 シンフォニアテクノロジー 】（6507）営業益250億円へ19 ... 【 シンフォニアテクノロジー 】（6507）営業益250億円へ19 ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/kabu_times/n/n543344f12af1",
+    "pass": 3
+   },
+   {
+    "quote": "シンフォニアテクノロジー の人気・新着記事まとめ - note シンフォニアテクノロジー の人気・新着記事まとめ - note note https://note.com > tag > シンフォニアテクノロジー",
+    "url": "https://note.com/tag/%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "シンフォニアテクノロジー(6507)を徹底分析。100年技術が生む、知られざるニッチトップの実力。｜日本個別株デューデリジェンスセンター",
+    "url": "https://note.com/tatsuya_sabato/n/n12f2b15ea49d",
+    "pass": 3
+   },
+   {
+    "quote": "シンフォニアテクノロジー(6507)を徹底分析。100年技術が生む、知られざるニッチトップの実力。",
+    "url": "https://note.com/tatsuya_sabato/n/n12f2b15ea49d",
+    "pass": 3
+   },
+   {
+    "quote": "はじめに：『神鋼電機』の名を捨て、最先端技術で世界に挑む巨人",
+    "url": "https://note.com/tatsuya_sabato/n/n12f2b15ea49d",
+    "pass": 3
+   },
+   {
+    "quote": "株式市場には、その旧社名が持つ重厚なイメージとは裏腹に、時代の最先端を駆け抜け、ダイナミックな変貌を遂げている企業が存在します。今回、私たちが徹底的にデュー・デリジェンス（詳細調査）を行う**シンフォニアテクノロジー（証券コード：6507）**は、その代表格と言えるでしょう。",
+    "url": "https://note.com/tatsuya_sabato/n/n12f2b15ea49d",
+    "pass": 3
+   },
+   {
+    "quote": "多くのベテラン投資家にとって、同社の名は「神鋼電機」として記憶されているかもしれません。神戸製鋼グループの一角をなし、発電機や大型モーターといった重電機器を手掛ける、堅実だが地味なBtoB企業——。しかし、その認識は、もはや過去のものです。",
+    "url": "https://note.com/tatsuya_sabato/n/n12f2b15ea49d",
+    "pass": 3
+   },
+   {
+    "quote": "現在のシンフォニアテクノロジーは、100年を超える歴史で培った「電磁力応用」と「モーションコントロール」というコア技術を武器に、",
+    "url": "https://note.com/tatsuya_sabato/n/n12f2b15ea49d",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造装置、航空宇宙、クリーンエネルギー、自動車開発",
+    "url": "https://note.com/tatsuya_sabato/n/n12f2b15ea49d",
+    "pass": 3
+   },
+   {
+    "quote": "といった、まさに現代の成長産業のど真ん中で、なくてはならないキーパーツやシステムを供給する、知る人ぞ知る「ハイテク・ニッチトップ企業」へと進化を遂げています。",
+    "url": "https://note.com/tatsuya_sabato/n/n12f2b15ea49d",
+    "pass": 3
+   },
+   {
+    "quote": "【シンフォニアテクノロジー】（6507）営業益250億円へ19％上方、1株→3株に分割｜フリー記事｜株Times （カブタイムズ）",
+    "url": "https://note.com/kabu_times/n/n543344f12af1",
+    "pass": 3
+   },
+   {
+    "quote": "【シンフォニアテクノロジー】（6507）営業益250億円へ19％上方、1株→3株に分割｜フリー記事",
+    "url": "https://note.com/kabu_times/n/n543344f12af1",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、シンフォニアテクノロジー（6507）を取り上げます。11月6日13時40分に2027年3月期の通期業績予想と配当予想の修正を発表し、営業利益予想を210億円から250億円へ19.0％上方修正しました。あわせて、2027年1月1日を効力発生日とする1株→3株の株式分割も決議しています。",
+    "url": "https://note.com/kabu_times/n/n543344f12af1",
+    "pass": 3
+   },
+   {
+    "quote": "※本記事は情報提供を目的としたもので、特定銘柄の売買を推奨するものではありません。",
+    "url": "https://note.com/kabu_times/n/n543344f12af1",
+    "pass": 3
+   },
+   {
+    "quote": "会社は修正の理由として、半導体関連事業、航空宇宙関連機器、エンジニアリング＆サービス事業での工事・サービスの売上増と収益性の向上を挙げています。",
+    "url": "https://note.com/kabu_times/n/n543344f12af1",
+    "pass": 3
+   },
+   {
+    "quote": "中間期（4〜9月）の実績は、売上高646.14億円（前年同期比＋15.8％）、営業利益87.99億円（同＋44.6％）、親会社株主に帰属する中間純利益62.90億円（同＋38.2％）でした。通期の営業利益予想250億円に対する中間進捗率は約35.2％です（株Times計算）。",
+    "url": "https://note.com/kabu_times/n/n543344f12af1",
+    "pass": 3
+   },
+   {
+    "quote": "期末配当予想は分割前換算で161円→189円（28円増配）。分割後ベースでは63円です。前期実績は155円でした",
+    "url": "https://note.com/kabu_times/n/n543344f12af1",
+    "pass": 3
+   },
+   {
+    "quote": "株式分割は2026年12月31日を基準日として1株を3株に分割（効力発生日2027年1月1日）。目的は投資単位の引き下げによる流動性向上と投資家層の拡大です",
+    "url": "https://note.com/kabu_times/n/n543344f12af1",
+    "pass": 3
+   },
+   {
+    "quote": "シンフォニアテクノロジーの人気・新着記事まとめ｜note",
+    "url": "https://note.com/tag/%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "【セルフ・キャリアドック実践事例⑬】歴史あるメーカーが挑む組織風土改革とキャリア自律",
+    "url": "https://note.com/tag/%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "シュウ(山本修二郎) IT × キャリア支援【ユニバーサルDXワーク 0→1 engine Lab】",
+    "url": "https://note.com/tag/%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "5銘柄すべて上昇、平均+11.5％。それでも「成功」と言い切れない理由",
+    "url": "https://note.com/tag/%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年11月7日号】週刊コーポレートアクション予報：今週の株式分割まとめ＆11月後半の注目権利落ちスケジュール #株式分割予定銘柄 #コーポレートアクション #NISA成長投資枠",
+    "url": "https://note.com/tag/%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "【シンフォニアテクノロジー】（6507）営業益250億円へ19％上方、1株→3株に分割｜フリー記事",
+    "url": "https://note.com/tag/%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月度 株式売買実績サマリーと振り返り",
+    "url": "https://note.com/tag/%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "シンフォニアテクノロジー 響ホール伊勢(伊勢市観光文化会館) - X シンフォニアテクノロジー 響ホール伊勢(伊勢市観光文化会館) - X X https://x.com > ise_kanbun",
+    "url": "https://x.com/ise_kanbun",
+    "pass": 3
+   },
+   {
+    "quote": "シンフォニアテクノロジー 響ホール伊勢(伊勢市観光文化会館 ... シンフォニアテクノロジー 響ホール伊勢(伊勢市観光文化会館 ... X https://x.com > @ise_kanbun",
+    "url": "https://x.com/ise_kanbun/status/2094392709821993304",
+    "pass": 3
+   },
+   {
+    "quote": "シンフォニアテクノロジー 響ホール伊勢(伊勢市観光文化会館) - X シンフォニアテクノロジー 響ホール伊勢(伊勢市観光文化会館) - X X https://x.com > @ise_kanbun",
+    "url": "https://x.com/ise_kanbun/status/2052254549684142180",
+    "pass": 3
+   },
+   {
+    "quote": "H.K. on X : \". ・6507 シンフォニアテクノロジー 210億円→250 ... H.K. on X : \". ・6507 シンフォニアテクノロジー 210億円→250 ... X https://x.com > @HK48077554",
+    "url": "https://x.com/HK48077554/status/2118567662636957912",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "シンフォニアテクノロジー （株） - LinkedIn シンフォニアテクノロジー （株） - LinkedIn LinkedIn https://jp.linkedin.com > シンフォニアテクノロジー（株）",
+    "url": "https://jp.linkedin.com/company/%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "シンフォニアテクノロジー 株式会社_創業100年 - Facebook シンフォニアテクノロジー 株式会社_創業100年 - Facebook Facebook https://www.facebook.com > media > set",
+    "url": "https://www.facebook.com/media/set/?set=a.1657237457620840.1073744877.241460905865176&type=3",
+    "pass": 3
+   },
+   {
+    "quote": "シンフォニアテクノロジー 響ホール伊勢（伊勢市観光文化会館） シンフォニアテクノロジー 響ホール伊勢（伊勢市観光文化会館） Facebook https://www.facebook.com > isekanbun",
+    "url": "https://www.facebook.com/isekanbun/?locale=ja_JP",
+    "pass": 3
+   },
+   {
+    "quote": "シンフォニアテクノロジー 響ホール伊勢（伊勢市観光文化会館） シンフォニアテクノロジー 響ホール伊勢（伊勢市観光文化会館） Facebook https://www.facebook.com > isekanbun > posts",
+    "url": "https://www.facebook.com/isekanbun/posts/1423006972960134/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sinfo-t.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinfo-t.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinfo-t.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinfo-t.jp/company/event/2026/2026-09-16/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinfo-t.jp/company/event/2026/2026-10-23/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinfo-t.jp/company/event/2026/2026-11-02/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinfo-t.jp/company/event/2026/2026-11-02-1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinfo-t.jp/company/event/2026/20261109/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinfo-t.jp/company/community-service/2026/2026-11-09/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinfo-t.jp/news/2026/isehskyoutei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinfo-t.jp/company/community-service/2026/2026-10-25/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinfo-t.jp/company/event/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinfo-t.jp/company/cm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinfo-t.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.sinfo-t.jp/application/files/8317/9394/0234/183bd31f0f0781c21fc02b6d44153af4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sinfo-t.jp/application/files/1217/9394/0234/85ff6c7e708022349088f3b41ad2720c.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6507",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp54286/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hibiki.sinfo-t.jp/virtual-exhibition/column/3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.3dsystems.com/semiconductor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=sT3lR9R98hc",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp54286/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/n12f2b15ea49d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kabu_times/n/n543344f12af1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ise_kanbun",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ise_kanbun/status/2094392709821993304",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ise_kanbun/status/2052254549684142180",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/media/set/?set=a.1657237457620840.1073744877.241460905865176&type=3",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/isekanbun/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/isekanbun/posts/1423006972960134/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/n12f2b15ea49d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/HK48077554/status/2118567662636957912",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "シンフォニアテクノロジー",
+   "results": [
+    "https://www.sinfo-t.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "https://www.youtube.com/@sinfonia-t",
+    "https://www.sinfo-t.com/",
+    "https://www.sinfonia-recruit.com/",
+    "https://www.nikkan.co.jp/jm/sinfo-t",
+    "https://www.pensacolafishingforum.com/",
+    "https://www.pensacolafishingforum.com/threads/1963-buick-skylark-convertible.115648/",
+    "https://www.pensacolafishingforum.com/threads/dixey-bar.134615/",
+    "https://www.pensacolafishingforum.com/threads/old-commercials.67508/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 26
+  },
+  {
+   "query": "シンフォニアテクノロジー 会社概要 資本金 設立",
+   "results": [
+    "https://www.sinfo-t.jp/company/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6507",
+    "https://job.mynavi.jp/28/pc/search/corp54286/outline.html",
+    "https://www.sinfo-t.jp/",
+    "https://www.sinfo-t.jp/company/history/",
+    "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "https://www.sinfo-t.jp/ir/stock/",
+    "https://www.sinfonia-onlinestore.jp/corporate.php",
+    "https://www.sinfonia-recruit.com/company/",
+    "https://www.chase.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
+  },
+  {
+   "query": "シンフォニアテクノロジー 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.nttd-es.co.jp/magazine/backnumber/no82/np82-sft.html",
+    "https://hibiki.sinfo-t.jp/virtual-exhibition/column/3.html",
+    "https://www.sinfo-t.jp/industrial-infra/disc_atomizer/",
+    "https://www.youtube.com/watch?v=Ew517KG1bOI",
+    "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "https://j3d.co.jp/column/09df60f3-f8cd-4343-89e4-bea3559722fd",
+    "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "https://monoist.itmedia.co.jp/mn/series/9763/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "シンフォニアテクノロジー 金属積層造形 設備",
+   "results": [
+    "https://ja.3dsystems.com/semiconductor",
+    "https://chuokatan.co.jp/products/3dp/",
+    "https://www.youtube.com/watch?v=sT3lR9R98hc",
+    "https://jampt.jp/equipment/",
+    "https://www.sinfo-t.jp/industrial-infra/disc_atomizer/",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://partners.solize.com/manufacturing/technology/3dp-metal",
+    "https://www.sinfo-t.jp/industrial-infra/",
+    "https://www.pref.chiba.lg.jp/sanken/kikisetsubi/manufacturing/modelling/metal-x.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "シンフォニアテクノロジー 株主 出資 親会社",
+   "results": [
+    "https://www.sinfo-t.jp/ir/stock/",
+    "https://www.sinfo-t.jp/ir/",
+    "https://www.sinfo-t.jp/ir/about/outline/",
+    "https://s.kabutan.jp/stocks/6507/stockholders/?page=2",
+    "https://www.sinfo-t.jp/ir/stock/reduction/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6507",
+    "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "https://www.sinfo-t.jp/ir/management-policy/ir/",
+    "https://www.sinfo-t.jp/ir/management-policy/sustainability/governance/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "シンフォニアテクノロジー 売上高 従業員数",
+   "results": [
+    "https://www.sinfo-t.jp/ir/performance-financial/performance-data-trends/",
+    "https://www.sinfo-t.jp/company/",
+    "https://job.mynavi.jp/28/pc/search/corp54286/outline.html",
+    "https://www.sinfonia-recruit.com/company/data/",
+    "https://xn--pckua2a7gp15o89zb.com/%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%B9%B4%E5%8F%8E",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6507",
+    "https://www.sinfo-t.jp/ir/performance-financial/performance-outlook/",
+    "https://www.sinfo-t.jp/download_file/c41da8e9-604f-44e3-b58b-038ee1e84ff0/2898/",
+    "https://corp-ratings.com/%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/",
+    "https://en.wikipedia.org/wiki/Busch_Gardens"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "site:note.com シンフォニアテクノロジー",
+   "results": [
+    "https://note.com/tatsuya_sabato/n/n12f2b15ea49d",
+    "https://note.com/s_ikeda/n/n17cae6da8f24",
+    "https://note.com/kabu_times/n/n543344f12af1",
+    "https://note.com/tag/%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "https://note.com/good_dill292/n/n99934a5ec857",
+    "https://note.com/kabu_memo911/n/n1adfb1b049ed",
+    "https://note.com/sumikko_money/n/n1a5f096a56ef",
+    "https://note.com/tatsuya_sabato/n/n1b429e66eaea",
+    "https://note.com/tag/vm/investment_money/company-6507",
+    "https://note.com/good_dill292/n/n3ed1d1e1a29c"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 40
+  },
+  {
+   "query": "site:x.com シンフォニアテクノロジー",
+   "results": [
+    "https://x.com/ise_kanbun",
+    "https://x.com/kessan_db/status/2118700249472700636",
+    "https://x.com/ise_kanbun/status/2094392709821993304",
+    "https://x.com/ise_kanbun/status/2052254549684142180",
+    "https://x.com/intent/retweet?tweet_id=2119369068012880277",
+    "https://x.com/quickdisclosure/status/2118564159331999885",
+    "https://x.com/takahashiyu/status/1789180848165818378",
+    "https://x.com/ise_kanbun/status/2118221774932373506",
+    "https://x.com/CellQualia",
+    "https://www.edmunds.com/dodge/challenger/2010/trims/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 39
+  },
+  {
+   "query": "site:linkedin.com シンフォニアテクノロジー",
+   "results": [
+    "https://jp.linkedin.com/company/%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://jp.linkedin.com/company/sinfonia-technology-co-ltd-",
+    "https://tw.linkedin.com/company/sinfonia-technology-co-ltd-",
+    "https://www.linkedin.com/company/sinfonia-technology-co-ltd-",
+    "https://jp.linkedin.com/in/%E7%BF%94-%E9%87%8E%E6%9D%91-90b7751bb",
+    "https://jp.linkedin.com/in/daisuke-suhara-09919692",
+    "https://jp.linkedin.com/in/%E4%BF%A1%E5%A4%AB-%E6%A3%AE-8b40017a",
+    "https://jp.linkedin.com/posts/shin-kawamata-84647579_ips%E7%B4%B0%E8%83%9E%E3%81%AE%E8%A3%BD%E9%80%A0%E8%83%BD%E5%8A%9B%E5%9B%BD%E5%86%85%E9%9B%86%E7%A9%8D%E3%81%B8%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%81%AA%E3%81%A9%E5%8F%82%E5%85%A5-%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E-activity-7202104263567659010-hloA",
+    "https://jp.linkedin.com/in/yusuke-matsui-aba209300"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com シンフォニアテクノロジー",
+   "results": [
+    "https://www.facebook.com/media/set/?set=a.1657237457620840.1073744877.241460905865176&type=3",
+    "https://www.facebook.com/isekanbun/?locale=ja_JP",
+    "https://www.facebook.com/isekanbun/posts/1423006972960134/",
+    "https://www.facebook.com/events/%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E9%9F%BF%E3%83%9B%E3%83%BC%E3%83%AB%E4%BC%8A%E5%8B%A2%E4%BC%8A%E5%8B%A2%E5%B8%82%E8%A6%B3%E5%85%89%E6%96%87%E5%8C%96%E4%BC%9A%E9%A4%A8/%E5%A4%A2%E3%82%B9%E3%82%BF%E3%83%BC%E6%98%A5%E7%A7%8B-2026%E5%B9%B45%E6%9C%8818%E6%9C%88%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E9%9F%BF%E3%83%9B%E3%83%BC%E3%83%AB%E4%BC%8A%E5%8B%A2%E4%BC%8A%E5%8B%A2%E5%B8%82%E8%A6%B3%E5%85%89%E6%96%87%E5%8C%96%E4%BC%9A%E9%A4%A8/4262990417362277/",
+    "https://www.facebook.com/nikkan.BusinessLine/posts/%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%81%AF%E4%BC%8A%E5%8B%A2%E8%A3%BD%E4%BD%9C%E6%89%80%E4%B8%89%E9%87%8D%E7%9C%8C%E4%BC%8A%E5%8B%A2%E5%B8%82%E5%86%85%E3%81%AB%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E4%BA%8B%E6%A5%AD%E3%81%AE%E6%96%B0%E5%B7%A5%E5%A0%B4%E3%82%92%E5%BB%BA%E8%A8%AD%E3%81%99%E3%82%8B%E6%8A%95%E8%B3%87%E9%A1%8D%E3%81%AF%E7%B4%84%EF%BC%91%EF%BC%92%EF%BC%90%E5%84%84%E5%86%86%E5%90%8C%E7%A4%BE%E5%8D%98%E4%B8%80%E3%81%AE%E8%A8%AD%E5%82%99%E6%8A%95%E8%B3%87%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80%E5%A4%A7%E3%81%A8%E3%81%AA%E3%82%8B%E4%B8%BB%E3%81%AB%E9%98%B2%E8%A1%9B%E9%A0%98%E5%9F%9F%E3%81%AE%E9%9C%80%E8%A6%81/1582174230579907/",
+    "https://www.facebook.com/100035992344220/posts/%E3%81%84%E3%82%88%E3%81%84%E3%82%881%E3%83%B6%E6%9C%88%EF%B8%8F%EF%B8%8F%EF%B8%8F11%E6%9C%8829%E6%97%A5%E6%97%A5%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E9%9F%BF%E3%83%9B%E3%83%BC%E3%83%AB%E4%BC%8A%E5%8B%A2%E5%A4%A7%E3%83%9B%E3%83%BC%E3%83%AB%E3%81%A7%E3%81%AE%E3%83%AF%E3%83%B3%E3%82%B3%E3%82%A4%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%96glow%E3%82%A8%E3%83%BC%E3%82%B7%E3%83%BC%E3%82%B0%E3%83%AD%E3%82%A6%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%A8%E4%B8%80%E7%B7%92%E3%81%AB%E6%9C%80%E9%AB%98%E3%81%AE%E6%99%82%E9%96%93%E3%82%92%E9%81%8E%E3%81%94%E3%81%97%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/1791214345421626/",
+    "https://www.facebook.com/isekanbun/posts/%E3%81%8B%E3%82%93%E3%81%B6%E3%82%93%E3%82%B0%E3%83%AB%E3%83%A1-%E7%95%AA%E5%A4%96%E7%B7%A8%E6%9C%AC%E6%97%A5%E3%82%82%E3%81%8B%E3%82%93%E3%81%B6%E3%82%93%E3%81%A7%E5%91%88%E8%8C%B6/1588511016409728/",
+    "https://www.facebook.com/makoto.miyazaki.1977/posts/78-%E7%B4%BA%E7%B6%AC%E8%A4%92%E7%AB%A0%E4%BC%9D%E9%81%94%E5%BC%8F%E7%A7%81%E3%81%AE%E5%8B%A4%E3%82%81%E3%82%8B%E4%BC%9A%E7%A4%BE%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%8C%E4%BC%8A%E5%8B%A2%E5%B8%82%E3%81%AE%E4%BC%81%E6%A5%AD%E7%89%88%E3%81%B5%E3%82%8B%E3%81%95%E3%81%A8%E7%B4%8D%E7%A8%8E%E3%81%AB%E8%B2%A2%E7%8C%AE%E3%81%97%E7%B4%BA%E7%B6%AC%E8%A4%92%E7%AB%A0%E3%82%92%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E4%BC%8A%E5%8B%A2%E5%B8%82%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%E8%B2%A2%E7%8C%AE%E3%81%A7%E3%81%8D%E3%82%8B%E4%BC%81%E6%A5%AD%E3%81%A8%E3%81%97%E3%81%A6/2102592866900730/",
+    "https://www.facebook.com/100012600519258/posts/%E3%83%8F%E3%83%AF%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%97%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%89akua%EF%B8%8F%E8%80%83%E6%A1%88%E8%80%85%E3%81%AEkazuko-mamu%E3%81%A7%E3%81%99118-%E4%BC%8A%E5%8B%A2%E5%B8%82%E5%AE%87%E6%B2%BB%E5%B1%B1%E7%94%B0%E3%81%AB%E3%81%A6%E7%A7%81%E3%81%AE%E6%89%80%E5%B1%9E%E3%81%97%E3%81%A6%E3%81%84%E3%82%8Bkealaroselani-kealarosela/2673071966456128/",
+    "https://www.elevenforum.com/t/change-keyboard-layout-in-windows-11.4074/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
+  },
+  {
+   "query": "シンフォニアテクノロジー note 社長",
+   "results": [
+    "https://note.com/a_co_labo/n/ncdc2b16f4022",
+    "https://note.com/tatsuya_sabato/n/n12f2b15ea49d",
+    "https://note.com/tag/%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "https://www.sinfo-t.jp/ir/management-policy/top-message/",
+    "https://note.com/good_dill292/n/n99934a5ec857",
+    "https://www.nikkei.com/article/DGXZQODZ00005_Z10C26A2000000/",
+    "https://www.nikkan.co.jp/articles/view/790688",
+    "https://www.sinfo-t.jp/company/officer/",
+    "https://the-shashi.com/tse/6507/ceo/",
+    "https://en.wikipedia.org/wiki/Google"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "シンフォニアテクノロジー X 投稿",
+   "results": [
+    "https://www.sinfo-t.jp/",
+    "https://x.com/HK48077554/status/2118567662636957912",
+    "https://www.sinfo-t.jp/ir/management-policy/top-message/",
+    "https://www.nikkan.co.jp/jm/sinfo-t",
+    "https://www.youtube.com/@sinfonia-t",
+    "https://www.youtube.com/watch?v=8SijihS4ao4",
+    "https://sinfonia-technology.snar.jp/login.aspx",
+    "https://www.sinfonia-recruit.com/",
+    "https://www.sinfo-t.jp/download_file/",
+    "https://www.drugs.com/medical-answers/brands-methylphenidate-3510739/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部21頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部21頁・検索12回）"
+ }
+}

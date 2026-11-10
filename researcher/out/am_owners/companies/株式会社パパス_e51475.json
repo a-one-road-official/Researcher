@@ -1,0 +1,1429 @@
+{
+ "name": "株式会社パパス",
+ "aliases": [],
+ "context": "PBF=yes 装置=SLM 500 出典=https://papas-kk.co.jp/2025/03/24/metal-3d-printing-slm500-introduction/",
+ "researched_at": "2026-11-10T17:17:15.643156+00:00",
+ "official_url": "https://papas.jpn.com/",
+ "identified_by": "search:yahoo_jp:パパス",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社住所",
+    "value": "150-0012 東京都渋谷区広尾2-1-14",
+    "url": "https://papas.jpn.com/ja/about",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒150-0012　東京都渋谷区広尾 2-1-14",
+    "url": "https://www.bigi-group.com/company/papas.php",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1978年3月1日",
+    "url": "https://papas.jpn.com/ja/about",
+    "pass": 1
+   },
+   {
+    "label": "設立年月日",
+    "value": "設立年月日：1978年3月1日",
+    "url": "https://www.bigi-group.com/company/papas.php",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "主な事業内容",
+    "value": "衣料品・服飾雑貨類の企画・製造・販売ならびに輸出入 カフェ・レストランの運営 フォトスタジオの運営",
+    "url": "https://papas.jpn.com/ja/about",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "衣料品の企画・製造・卸・販売 カフェ・レストラン・レンタルフォトスタジオの運営",
+    "url": "https://www.bigi-group.com/company/papas.php",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "459名（2025年3月末時点）",
+    "url": "https://papas.jpn.com/ja/about",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "460名 (2025年9月末現在)",
+    "url": "https://www.bigi-group.com/company/papas.php",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "3,600万円",
+    "url": "https://www.bigi-group.com/company/papas.php",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "製造業の中でも、溶接やプレス、機械加工、へら絞り等、複数の技術を一社で保有し、",
+    "url": "https://job.mynavi.jp/28/pc/search/corp273205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "9. 金属3Dプリンター：金属プリンターによる製造",
+    "url": "https://job.mynavi.jp/28/pc/search/corp273205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "200トン油圧プレス、200トンプレス機導入、金型設計製作、プレス絞り加工開始",
+    "url": "https://job.mynavi.jp/28/pc/search/corp273205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ラガン200トン対向液圧プレス機導入、プレス、溶接、機械加工の複合加工が主力",
+    "url": "https://job.mynavi.jp/28/pc/search/corp273205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "3次元レーザーカット加工機導入（試作技術力のアップ）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp273205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "横型マシニングセンター、大型旋盤、3次元測定導入",
+    "url": "https://job.mynavi.jp/28/pc/search/corp273205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "200トンサーボプレス機導入、ハイブリッドベンダー導入",
+    "url": "https://job.mynavi.jp/28/pc/search/corp273205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "レーザー肉盛り（LMD）導入、電子ビーム溶接機導入",
+    "url": "https://job.mynavi.jp/28/pc/search/corp273205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形機(金属用3Dプリンター)導入",
+    "url": "https://job.mynavi.jp/28/pc/search/corp273205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "大型金属3Dプリンター「SLM 500」を導入！ ‣ 株式会社パパス",
+    "url": "https://papas-kk.co.jp/2025/03/24/metal-3d-printing-slm500-introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "【新設備導入】大型金属3Dプリンター「SLM 500」稼働し始めました",
+    "url": "https://papas-kk.co.jp/2025/03/24/metal-3d-printing-slm500-introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "パパスでは試作だけでなく、年間2,000個以上の金属積層造形を行ってきた確かな量産実績があります",
+    "url": "https://papas-kk.co.jp/2025/03/24/metal-3d-printing-slm500-introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "大型金属3Dプリンター「SLM 500」を導入！",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "精密部品向け超音波洗浄機「CONCEPT-WV」導入しました",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "SLMソリューションズ製の最先端「3D金属積層造形システム」を導入し、従来の製造方法では困難とされてきた複雑かつ高精度な形状の造形を可能としました",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、トルンプ製「5kWレーザ搭載型ロボットシステムによるLMD（Laser Metal Deposition）」も導入し、金属粉末を用いた肉盛り補修や機能付加にも対応",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター(PBF-LB/Powder) ／ LMD(DED-LB/Powder) ／ 樹脂3Dプリンター(MEX)",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、金属3DプリンターとLMD（レーザー肉盛り）の両技術を駆使し、試作から量産、さらには部品の修復・アップグレードまで幅広く対応いたします",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "年間2,000個以上の金属積層造形を手掛ける技術力とキャパシティを保有しています",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "PBF方式の金属3Dプリンター",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3DプリンターSLM280",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "SLM500",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "SLM280HL",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターによる造形例",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの製造品とレーザー溶接加工品の比較",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、トルンプ製「5kWレーザ搭載型ロボット」を導入しており、高出力レーザと多軸ロボットの組み合わせにより、複雑形状部品へのレーザー肉盛りや補修溶接を高精度に実現しています",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "当社では最新の金属造形だけでなく、MEX（樹脂3Dプリント）も導入しており、ポカヨケなどを製作しています",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターに関するFAQ",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターで造形した部品の強度は、従来の加工品（削り出し等）と比べてどうですか？",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター（PBF）とLMD、どちらの工法が適しているか判断できません",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "SLM500HL",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "3D金属積層造形システム(3Dプリンター)はじめました",
+    "url": "https://papas-kk.co.jp/2020/07/20/started-metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "3D金属積層造形システムはじめました",
+    "url": "https://papas-kk.co.jp/2020/07/20/started-metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社では、SLMソリューションズの「3D金属積層造形システム」を所有しており、",
+    "url": "https://papas-kk.co.jp/2020/07/20/started-metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターに精通した技術者が、お客様のご要望に合わせたサポートをさせていただきます",
+    "url": "https://papas-kk.co.jp/2020/07/20/started-metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "3D金属積層造形システム",
+    "url": "https://papas-kk.co.jp/2020/07/20/started-metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "大型金属3Dプリンター「SLM 500」を導入！",
+    "url": "https://papas-kk.co.jp/category/machinery/",
+    "pass": 3
+   },
+   {
+    "quote": "精密部品向け超音波洗浄機「CONCEPT-WV」導入しました",
+    "url": "https://papas-kk.co.jp/category/machinery/",
+    "pass": 3
+   },
+   {
+    "quote": "3D金属積層造形システム(3Dプリンター)はじめました",
+    "url": "https://papas-kk.co.jp/category/machinery/",
+    "pass": 3
+   },
+   {
+    "quote": "三井物産は2018年にビギHDへ33.4%出資参画し、EC事業の強化や、「PINK HOUSE（ピンクハウス）」をはじめとするブランドの海外展開支援、英国老舗ニットブランド「JOHN SMEDLEY（ジョンスメドレー）」の導入など、ビギHDの企業価値向上に貢献してきました",
+    "url": "https://www.mitsui.com/jp/ja/release/2024/1249292_14376.html",
+    "pass": 3
+   },
+   {
+    "quote": "今般、主要事業であるアパレル事業の更なる成長と、ファッション雑貨など周辺事業への拡張を図るため、MSD企業投資株式会社（本社：東京都千代田区、代表：安田 浩）が運営するMSD第一号投資事業有限責任組合が保有していたビギHDの株式66.6%を取得し、持株比率を100%にしました",
+    "url": "https://www.mitsui.com/jp/ja/release/2024/1249292_14376.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の中でも、溶接やプレス、機械加工、へら絞り等、複数の技術を一社で保有し、",
+    "url": "https://job.mynavi.jp/27/pc/search/corp273205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "3.実力が公平に評価される「資格等級制度」の導入",
+    "url": "https://job.mynavi.jp/27/pc/search/corp273205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "9. 金属3Dプリンター：金属プリンターによる製造",
+    "url": "https://job.mynavi.jp/27/pc/search/corp273205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "200トン油圧プレス、200トンプレス機導入、金型設計製作、プレス絞り加工開始",
+    "url": "https://job.mynavi.jp/27/pc/search/corp273205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ラガン200トン対向液圧プレス機導入、プレス、溶接、機械加工の複合加工が主力",
+    "url": "https://job.mynavi.jp/27/pc/search/corp273205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "3次元レーザーカット加工機導入（試作技術力のアップ）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp273205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "横型マシニングセンター、大型旋盤、3次元測定導入",
+    "url": "https://job.mynavi.jp/27/pc/search/corp273205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "200トンサーボプレス機導入、ハイブリッドベンダー導入",
+    "url": "https://job.mynavi.jp/27/pc/search/corp273205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "レーザー肉盛り（LMD）導入、電子ビーム溶接機導入",
+    "url": "https://job.mynavi.jp/27/pc/search/corp273205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形機(金属用3Dプリンター)導入",
+    "url": "https://job.mynavi.jp/27/pc/search/corp273205/outline.html",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "半導体や医療、建築など複数業界と取引しリスクを分散",
+    "url": "https://job.mynavi.jp/28/pc/search/corp273205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "人間の知恵と職人技が必要な「試作・小ロット生産」に特化",
+    "url": "https://job.mynavi.jp/28/pc/search/corp273205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "みなさんが何気なく使っているスマートフォンや炊飯器、電車やATM等のインフラにも！半導体は身の回りで多くの製品に使われています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp273205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "パパスは、半導体そのものを作っているのではなく、半導体を作るために必要な製造装置の部品の製造を手掛けています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp273205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "7. 金型制作：プレスやへら絞りで使用する金型の設計及び製造",
+    "url": "https://job.mynavi.jp/28/pc/search/corp273205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "200トン油圧プレス、200トンプレス機導入、金型設計製作、プレス絞り加工開始",
+    "url": "https://job.mynavi.jp/28/pc/search/corp273205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "3次元レーザーカット加工機導入（試作技術力のアップ）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp273205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "4レーザーによる高速・量産体制を実現します",
+    "url": "https://papas-kk.co.jp/2025/03/24/metal-3d-printing-slm500-introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "パパスでは試作だけでなく、年間2,000個以上の金属積層造形を行ってきた確かな量産実績があります",
+    "url": "https://papas-kk.co.jp/2025/03/24/metal-3d-printing-slm500-introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造装置に使用されている金属部品の製造を行っています",
+    "url": "https://papas-kk.co.jp/2025/03/24/metal-3d-printing-slm500-introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "医療センターなどで使用される「血液分析装置」の金属部品を製造しています",
+    "url": "https://papas-kk.co.jp/2025/03/24/metal-3d-printing-slm500-introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "命を支える医療の現場で、確かな品質で信頼に応えています",
+    "url": "https://papas-kk.co.jp/2025/03/24/metal-3d-printing-slm500-introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車の中の一部品、住宅設備の見えない部分、機械を動かす精密なパーツ",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "年間2,000個を超える量産実績",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、金属3DプリンターとLMD（レーザー肉盛り）の両技術を駆使し、試作から量産、さらには部品の修復・アップグレードまで幅広く対応いたします",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "現場の『ミスをさせない仕組み』を自ら作り上げることで、量産品の安定した品質とスピードを支えています",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、年間2,000個を超える量産実績に基づいた最適な造形パラメータと、必要に応じた熱処理を行うことで、JIS規格等の要求を満たす十分な強度を保証しています",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "当社の「5kWレーザ搭載多軸ロボット」は自由度が高いため、複雑な形状の金型や大型部品の軸受けなど、従来の手溶接では困難だった部位にも高精度な肉盛りが可能です",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "量産案件（年間2,000個規模）については、事前の工程設計に基づき、お客様の生産計画に合わせた安定的なサプライチェーンを構築いたします",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造装置に使用されている金属部品の製造を行っています",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "医療センターなどで使用される「血液分析装置」の金属部品を製造しています",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "命を支える医療の現場で、確かな品質で信頼に応えています",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造装置に使用されている金属部品の製造を行っています",
+    "url": "https://papas-kk.co.jp/2020/07/20/started-metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "医療センターなどで使用される「血液分析装置」の金属部品を製造しています",
+    "url": "https://papas-kk.co.jp/2020/07/20/started-metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "命を支える医療の現場で、確かな品質で信頼に応えています",
+    "url": "https://papas-kk.co.jp/2020/07/20/started-metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造装置に使用されている金属部品の製造を行っています",
+    "url": "https://papas-kk.co.jp/category/machinery/",
+    "pass": 3
+   },
+   {
+    "quote": "医療センターなどで使用される「血液分析装置」の金属部品を製造しています",
+    "url": "https://papas-kk.co.jp/category/machinery/",
+    "pass": 3
+   },
+   {
+    "quote": "命を支える医療の現場で、確かな品質で信頼に応えています",
+    "url": "https://papas-kk.co.jp/category/machinery/",
+    "pass": 3
+   },
+   {
+    "quote": "みなさんが何気なく使っているスマートフォンや炊飯器、電車やATM等のインフラにも！半導体は身の回りで多くの製品に使われています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp273205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "パパスは、半導体そのものを作っているのではなく、半導体を作るために必要な製造装置の部品の製造を手掛けています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp273205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "マンションの水ポンプ、消化器、トラックのマフラー、飲食店の機械、スマホ内の半導体を作る装置の中にも！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp273205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "7. 金型制作：プレスやへら絞りで使用する金型の設計及び製造",
+    "url": "https://job.mynavi.jp/27/pc/search/corp273205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "200トン油圧プレス、200トンプレス機導入、金型設計製作、プレス絞り加工開始",
+    "url": "https://job.mynavi.jp/27/pc/search/corp273205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "3次元レーザーカット加工機導入（試作技術力のアップ）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp273205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "プレス 溶接 へら絞り 金型設計 機械加工 組立 レーザー切断 レーザー溶接 3D金属造形",
+    "url": "https://papas-kk.co.jp/company/outline-and-location/",
+    "pass": 3
+   },
+   {
+    "quote": "プレス、機械加工、設計金型、品質管理、組立て",
+    "url": "https://papas-kk.co.jp/company/outline-and-location/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造装置に使用されている金属部品の製造を行っています",
+    "url": "https://papas-kk.co.jp/company/outline-and-location/",
+    "pass": 3
+   },
+   {
+    "quote": "医療センターなどで使用される「血液分析装置」の金属部品を製造しています",
+    "url": "https://papas-kk.co.jp/company/outline-and-location/",
+    "pass": 3
+   },
+   {
+    "quote": "命を支える医療の現場で、確かな品質で信頼に応えています",
+    "url": "https://papas-kk.co.jp/company/outline-and-location/",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "(株)昭和真空【東証スタンダード市場上場】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp273205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "アパレル事業者ビギホールディングスの完全子会社化について | 2024年 | リリース | 三井物産株式会社",
+    "url": "https://www.mitsui.com/jp/ja/release/2024/1249292_14376.html",
+    "pass": 3
+   },
+   {
+    "quote": "アパレル事業者ビギホールディングスの完全子会社化について",
+    "url": "https://www.mitsui.com/jp/ja/release/2024/1249292_14376.html",
+    "pass": 3
+   },
+   {
+    "quote": "三井物産株式会社（本社：東京都千代田区、社長：堀 健一、以下「三井物産」）は「Papas（パパス）」「martinique（マルティニーク）」「MOGA（モガ）」「MEN'S BIGI（メンズビギ）」など国内有力アパレルブランドを擁する株式会社ビギホールディングス（本社：東京都目黒区、社長：田中 雅人、以下「ビギHD」）を完全子会社にしました",
+    "url": "https://www.mitsui.com/jp/ja/release/2024/1249292_14376.html",
+    "pass": 3
+   },
+   {
+    "quote": "三井物産は2018年にビギHDへ33.4%出資参画し、EC事業の強化や、「PINK HOUSE（ピンクハウス）」をはじめとするブランドの海外展開支援、英国老舗ニットブランド「JOHN SMEDLEY（ジョンスメドレー）」の導入など、ビギHDの企業価値向上に貢献してきました",
+    "url": "https://www.mitsui.com/jp/ja/release/2024/1249292_14376.html",
+    "pass": 3
+   },
+   {
+    "quote": "本子会社化により、アジアを中心としたグローバル市場において、ファッションをはじめとするライフスタイル事業を通じたウェルビーイングの向上を通じ、人々のより豊かで輝く暮らしの実現を目指します",
+    "url": "https://www.mitsui.com/jp/ja/release/2024/1249292_14376.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "PAPAS COMPANY 株式 会社パパス — PAPAS COMPANY 株式 会社パパス BIGI GROUP http://www.bigi-group.com > company > papas",
+    "url": "http://www.bigi-group.com/company/papas.php",
+    "pass": 3
+   },
+   {
+    "quote": "会社 名 - PAPAS COMPANY｜パパス — 会社 名 - PAPAS COMPANY｜パパス パパス https://papas.jpn.com > about",
+    "url": "https://papas.jpn.com/ja/about",
+    "pass": 3
+   },
+   {
+    "quote": "(株) パパス の 会社概要 | マイナビ2028 — (株) パパス の 会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp273205 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp273205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 ・工場一覧 - 株式会社パパス — 会社概要 ・工場一覧 - 株式会社パパス 株式会社パパス https://papas-kk.co.jp > パパスについて",
+    "url": "https://papas-kk.co.jp/company/outline-and-location/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 パパス の 会社概要 ｜READY TO FASHION — 株式会社 パパス の 会社概要 ｜READY TO FASHION READY TO FASHION https://www.readytofashion.jp > companies",
+    "url": "https://www.readytofashion.jp/companies/276611436",
+    "pass": 3
+   },
+   {
+    "quote": "大型 金属3Dプリンター 「SLM 500」を 導入 ！ - 株式会社パパス — 大型 金属3Dプリンター 「SLM 500」を 導入 ！ - 株式会社パパス 株式会社パパス https://papas-kk.co.jp > 機械・設備",
+    "url": "https://papas-kk.co.jp/2025/03/24/metal-3d-printing-slm500-introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "test0010 ‣ 株式会社 パパス — test0010 ‣ 株式会社 パパス 株式会社パパス https://papas-kk.co.jp > test0010",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "3D 金属積層造形 システム(3Dプリンター)はじめました。 - パパス — 3D 金属積層造形 システム(3Dプリンター)はじめました。 - パパス 株式会社パパス https://papas-kk.co.jp > 機械・設備",
+    "url": "https://papas-kk.co.jp/2020/07/20/started-metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "機械・ 設備 ‣ 株式会社 パパス — 機械・ 設備 ‣ 株式会社 パパス 株式会社パパス https://papas-kk.co.jp > category > machinery",
+    "url": "https://papas-kk.co.jp/category/machinery/",
+    "pass": 3
+   },
+   {
+    "quote": "PAPAS COMPANY 株式会社 パパス — PAPAS COMPANY 株式会社 パパス BIGI GROUP http://www.bigi-group.com > company > papas",
+    "url": "http://www.bigi-group.com/company/papas.php",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 パパス の会社概要｜READY TO FASHION — 株式会社 パパス の会社概要｜READY TO FASHION READY TO FASHION https://www.readytofashion.jp > companies",
+    "url": "https://www.readytofashion.jp/companies/276611436",
+    "pass": 3
+   },
+   {
+    "quote": "三井物産、「 Papas ( パパス )」などアパレルブランド展開の ... — 三井物産、「 Papas ( パパス )」などアパレルブランド展開の ... 日本M&Aセンター https://www.nihon-ma.co.jp > ... > M&Aニュース",
+    "url": "https://www.nihon-ma.co.jp/news/20240603_8031-62/",
+    "pass": 3
+   },
+   {
+    "quote": "三井物、 パパス ・メンズビギなど展開のビギHDを完全 子会社 に — 三井物、 パパス ・メンズビギなど展開のビギHDを完全 子会社 に Reuters https://www.reuters.com > markets > global-markets",
+    "url": "https://www.reuters.com/jp/markets/global-markets/FM3QFST7XRLFHIP3FLOCZU5AYM-2024-06-03/",
+    "pass": 3
+   },
+   {
+    "quote": "(株) パパス の新卒採用・会社概要 | マイナビ2027 — (株) パパス の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp273205 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp273205/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社名 - PAPAS COMPANY｜パパス — 会社名 - PAPAS COMPANY｜パパス パパス https://papas.jpn.com > about",
+    "url": "https://papas.jpn.com/ja/about",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要・工場一覧 - 株式会社パパス — 会社概要・工場一覧 - 株式会社パパス 株式会社パパス https://papas-kk.co.jp > パパスについて",
+    "url": "https://papas-kk.co.jp/company/outline-and-location/",
+    "pass": 3
+   },
+   {
+    "quote": "(株) パパス の会社概要 | マイナビ2028 — (株) パパス の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp273205 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp273205/outline.html",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "当社では、「船舶用消火器の筒部分」をステンレス素材で製造しています",
+    "url": "https://papas-kk.co.jp/2025/03/24/metal-3d-printing-slm500-introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "パパスでは、新幹線のトイレに使用されるステンレス製の「便器部分」を製造しています",
+    "url": "https://papas-kk.co.jp/2025/03/24/metal-3d-printing-slm500-introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "耐久性に優れたオールステンレス構造で、",
+    "url": "https://papas-kk.co.jp/2025/03/24/metal-3d-printing-slm500-introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "ステンレスで作られた消火器は、サビに強く耐久性に優れ、長期間安全に使い続けることができます",
+    "url": "https://papas-kk.co.jp/2025/03/24/metal-3d-printing-slm500-introduction/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、トルンプ製「5kWレーザ搭載型ロボットシステムによるLMD（Laser Metal Deposition）」も導入し、金属粉末を用いた肉盛り補修や機能付加にも対応",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "敷き詰められた金属粉末の層を薄く溶かして固めるため、複雑なラティス構造や、内部に水路があるような「一体成形」が得意です",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "SUS316L",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "アルミニウム、チタン、銅合金など",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "レーザー肉盛り加工とは、摩擦や損傷によって性能が低下する高速回転体などの製品に対し、部品全体を交換することなく、レーザー光と特殊金属粉末を用いて表面を肉盛り補修する技術です",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "ステライト／インコネル／ステンレス／鉄／純ニッケル",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "ベースプレート上に金属粉末を薄く敷き詰め、レーザーで溶融・凝固させます",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "造形完了後、未溶融粉末を丁寧に除去",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "一般的なステンレス鋼（SUS316L等）をはじめ、マルエージング鋼、チタン合金、インコネル、アルミ合金など幅広く対応可能です",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "基本的にはレーザーが届き、金属粉末が噴射できる箇所であれば補修可能です",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "LMDは熱源に高出力レーザーを使用し、母材の表面をわずかに溶かしながら金属粉末を融着させる「溶接」プロセスです",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、「船舶用消火器の筒部分」をステンレス素材で製造しています",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "パパスでは、新幹線のトイレに使用されるステンレス製の「便器部分」を製造しています",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "耐久性に優れたオールステンレス構造で、",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "ステンレスで作られた消火器は、サビに強く耐久性に優れ、長期間安全に使い続けることができます",
+    "url": "https://papas-kk.co.jp/test0010/",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、「船舶用消火器の筒部分」をステンレス素材で製造しています",
+    "url": "https://papas-kk.co.jp/2020/07/20/started-metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "パパスでは、新幹線のトイレに使用されるステンレス製の「便器部分」を製造しています",
+    "url": "https://papas-kk.co.jp/2020/07/20/started-metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "耐久性に優れたオールステンレス構造で、",
+    "url": "https://papas-kk.co.jp/2020/07/20/started-metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "ステンレスで作られた消火器は、サビに強く耐久性に優れ、長期間安全に使い続けることができます",
+    "url": "https://papas-kk.co.jp/2020/07/20/started-metal-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、「船舶用消火器の筒部分」をステンレス素材で製造しています",
+    "url": "https://papas-kk.co.jp/category/machinery/",
+    "pass": 3
+   },
+   {
+    "quote": "パパスでは、新幹線のトイレに使用されるステンレス製の「便器部分」を製造しています",
+    "url": "https://papas-kk.co.jp/category/machinery/",
+    "pass": 3
+   },
+   {
+    "quote": "耐久性に優れたオールステンレス構造で、",
+    "url": "https://papas-kk.co.jp/category/machinery/",
+    "pass": 3
+   },
+   {
+    "quote": "ステンレスで作られた消火器は、サビに強く耐久性に優れ、長期間安全に使い続けることができます",
+    "url": "https://papas-kk.co.jp/category/machinery/",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、「船舶用消火器の筒部分」をステンレス素材で製造しています",
+    "url": "https://papas-kk.co.jp/company/outline-and-location/",
+    "pass": 3
+   },
+   {
+    "quote": "パパスでは、新幹線のトイレに使用されるステンレス製の「便器部分」を製造しています",
+    "url": "https://papas-kk.co.jp/company/outline-and-location/",
+    "pass": 3
+   },
+   {
+    "quote": "耐久性に優れたオールステンレス構造で、",
+    "url": "https://papas-kk.co.jp/company/outline-and-location/",
+    "pass": 3
+   },
+   {
+    "quote": "ステンレスで作られた消火器は、サビに強く耐久性に優れ、長期間安全に使い続けることができます",
+    "url": "https://papas-kk.co.jp/company/outline-and-location/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "マイファースト・ パパス ！｜東京ライフノート - note マイファースト・ パパス ！｜東京ライフノート - note note https://note.com > ファッション > 小物",
+    "url": "https://note.com/pigiste_life/n/n403869152270",
+    "pass": 3
+   },
+   {
+    "quote": "#95 夢のカリフォルニア／ママス＆ パパス ｜三角山放送 ... - note #95 夢のカリフォルニア／ママス＆ パパス ｜三角山放送 ... - note note https://note.com > 音楽 > ロック",
+    "url": "https://note.com/sankakuyama762/n/n0deb662cec10",
+    "pass": 3
+   },
+   {
+    "quote": "パパス さんの記事一覧 - note パパス さんの記事一覧 - note note https://note.com > papasukety > all",
+    "url": "https://note.com/papasukety/all",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "マイファースト・パパス！｜東京ライフノート",
+    "url": "https://note.com/pigiste_life/n/n403869152270",
+    "pass": 3
+   },
+   {
+    "quote": "たとえばおしゃれを全く意識しない人だってその店（ブランド）で初めて何か買うと言うのは何を買うにしろ新鮮で印象的なのではないか。自分のみぞ知る楽しみ、自分で自分に贈る買い物のギフト。",
+    "url": "https://note.com/pigiste_life/n/n403869152270",
+    "pass": 3
+   },
+   {
+    "quote": "松浦弥太郎さんがクリエイティブに着任してからの",
+    "url": "https://note.com/pigiste_life/n/n403869152270",
+    "pass": 3
+   },
+   {
+    "quote": "日差しが強くなった5月頃から店頭で帽子を探していたがどこを見回ってもキュンとするものがなく、財布の紐が開かなかったタイミングで、ついに出会えたメンズのキャップ。「ウィメンズにも可愛いと思う」とおすすめをいただき、白地にフランス語のピンク文字を購入した（",
+    "url": "https://note.com/pigiste_life/n/n403869152270",
+    "pass": 3
+   },
+   {
+    "quote": "キャップの”Pour un beau dimanche.” フランス語の挨拶定番のbonを使うよい日曜日でもなくてbeau,美しいとか素敵な、素敵な日曜日のためにだ。",
+    "url": "https://note.com/pigiste_life/n/n403869152270",
+    "pass": 3
+   },
+   {
+    "quote": "朝の挨拶にボンジュルネー（よい一日を〜：日本語ももう、やや無造作）とばかり使っていたら、仏出身の方に \"très belle journée !\"（大げさ意訳：めっちゃ素敵な日を！）と返していただいた時の表現の幅に出逢ったなるほど！を忘れない。（belleは女性形でbeauと同じく美しい）。",
+    "url": "https://note.com/pigiste_life/n/n403869152270",
+    "pass": 3
+   },
+   {
+    "quote": "そういえば「日曜日が待ち遠しい」という映画や鎌倉のカフェの名前もあったっけ。店にさまざまなロゴや単語やスローガンが書いてあるキャップがあって、これはどうだろう、いやそうでもないと見ては通り過ぎていた私だが「これなら自信を持って明日（次の日曜日）から装える」と確信し即決したのがこのフランス語。",
+    "url": "https://note.com/pigiste_life/n/n403869152270",
+    "pass": 3
+   },
+   {
+    "quote": "ちなみに毎週日曜日のために心身を整え、どれほど日曜時間を大切にしているか、弥太郎さんの日曜習慣、フランスのパリにも通じる日曜の世界観は本を読んでいる方ならお分かりのはずだ。",
+    "url": "https://note.com/pigiste_life/n/n403869152270",
+    "pass": 3
+   },
+   {
+    "quote": "#95 夢のカリフォルニア／ママス＆パパス｜三角山放送局｜FM76.2MHz",
+    "url": "https://note.com/sankakuyama762/n/n0deb662cec10",
+    "pass": 3
+   },
+   {
+    "quote": "#95 夢のカリフォルニア／ママス＆パパス",
+    "url": "https://note.com/sankakuyama762/n/n0deb662cec10",
+    "pass": 3
+   },
+   {
+    "quote": "このタイトルがそもそも誤解を招いている。米東部のミュージシャンたちが、西部カリフォルニアへのあこがれや希望を見い出すような、ヒッピームーブメントを象徴するような楽曲、という誤解があるかもしれない。わたしも、最初はそう思っていたのだ。",
+    "url": "https://note.com/sankakuyama762/n/n0deb662cec10",
+    "pass": 3
+   },
+   {
+    "quote": "1960年代前半のNYグリニッチ・ヴィレッジ。ジョン・フィリップスは、スコット・マッケンジー、ディック・ワイズマンと、ザ・ジャーニーメンなるフォーク・トリオを組んでいた。なかなかの人気グループで、ジョンはキングストン・トリオから誘いがあったほど。かの「500マイル」を1961年に初めて吹き込んだのもザ・ジャーニーメンだった。",
+    "url": "https://note.com/sankakuyama762/n/n0deb662cec10",
+    "pass": 3
+   },
+   {
+    "quote": "一方、女優を志しミュージカルにも出演していたキャス・エリオット。アルバイトしながら、スターを夢見るがなかなか芽が出ずアメリカン大学に入学。歌に照準を合わせ活動を始める。おりしも、グリニッチ・ヴィレッジはフォークのムーヴメントが起きていたのはご承知の通り。ティム・ローズ、ジョン・ブラウン、ジェームズ・ヘンドリックスのビッグ3を従えて、初RECを残しビター・エンドのオープン・マイクにも出演した。",
+    "url": "https://note.com/sankakuyama762/n/n0deb662cec10",
+    "pass": 3
+   },
+   {
+    "quote": "その後、ビッグ3は解体され、キャスとヘンドリックスは、ハリファックスⅢを組んでいたザル・ヤノフスキ―、デニー・ドハーティとともにフォークグループ、マグワンプスを結成。短い活動だったが、バンドは１枚のシングルを出して解散。",
+    "url": "https://note.com/sankakuyama762/n/n0deb662cec10",
+    "pass": 3
+   },
+   {
+    "quote": "その後、ザル・ヤノフスキ―は、ジョン・セバスチャンとともにラヴィン・スプーンフルを結成する。セバスチャンはハーモニカの名手で、スティーヴ・カッツ、デヴィッド・グリスマン、マリア・マルダーなどを輩出したイーヴン・ダズン・ジャグ・バンドのメンバーで、REC後の最後期にマグワンプスに加入。ジョン・セバスチャンとザル・ヤノフスキ―はキャスのアパートで出会い意気投合したと言われている。その後も、キャスの家は様々なミュージシャンがつながる社交場としてロック史の中で語り継がれていく。",
+    "url": "https://note.com/sankakuyama762/n/n0deb662cec10",
+    "pass": 3
+   },
+   {
+    "quote": "アルバムのレコーディングも完了していたが、ワーナーはママス＆パパスやラヴィン・スプーンフルが有名になってから、ようやく1967年にマグワンプスのアルバムをリリースする。レコード会社なんてそんなもんだ。",
+    "url": "https://note.com/sankakuyama762/n/n0deb662cec10",
+    "pass": 3
+   },
+   {
+    "quote": "【お仕事編25】頑張り続ければ、凄い人になれる？",
+    "url": "https://note.com/papasukety/all",
+    "pass": 3
+   },
+   {
+    "quote": "【お仕事編23】何か質問とか、分からない事ある？",
+    "url": "https://note.com/papasukety/all",
+    "pass": 3
+   },
+   {
+    "quote": "【お仕事編20】”問題ありません”が信頼を下げる理由",
+    "url": "https://note.com/papasukety/all",
+    "pass": 3
+   },
+   {
+    "quote": "【お仕事編17】優しいと厳しいはどっちが良い？",
+    "url": "https://note.com/papasukety/all",
+    "pass": 3
+   },
+   {
+    "quote": "【資産形成編10】そして迎えた、コロナショック。",
+    "url": "https://note.com/papasukety/all",
+    "pass": 3
+   },
+   {
+    "quote": "【お仕事編16】“評価は伝えなくても伝わるのか”",
+    "url": "https://note.com/papasukety/all",
+    "pass": 3
+   },
+   {
+    "quote": "【お仕事編15】“自分でやった方が早い”はyesとno",
+    "url": "https://note.com/papasukety/all",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "PAPAS ｜ パパス (@papas_jpn) / X PAPAS ｜ パパス (@papas_jpn) / X X https://x.com > papas_jpn",
+    "url": "https://x.com/papas_jpn",
+    "pass": 3
+   },
+   {
+    "quote": "PAPAS ｜ パパス - X PAPAS ｜ パパス - X X https://x.com > @papas_jpn",
+    "url": "https://x.com/papas_jpn/status/2008735345186402771",
+    "pass": 3
+   },
+   {
+    "quote": "PAPAS ｜ パパス - X PAPAS ｜ パパス - X X https://x.com > @papas_jpn",
+    "url": "https://x.com/papas_jpn/status/2075507409225912540",
+    "pass": 3
+   },
+   {
+    "quote": "PAPAS ｜ パパス - X PAPAS ｜ パパス - X X https://x.com > @papas_jpn",
+    "url": "https://x.com/papas_jpn/status/2113465436176351430",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "こんにちは。 「今日の パパス 」をお届けします ... - Facebook こんにちは。 「今日の パパス 」をお届けします ... - Facebook Facebook https://www.facebook.com > papas.jpn > posts > こんにち...",
+    "url": "https://www.facebook.com/papas.jpn/posts/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E4%BB%8A%E6%97%A5%E3%81%AE%E3%83%91%E3%83%91%E3%82%B9%E3%82%92%E3%81%8A%E5%B1%8A%E3%81%91%E3%81%97%E3%81%BE%E3%81%99-%E3%81%BC%E3%81%8F%E3%81%AE%E5%8F%8B%E9%81%94%E3%81%AF%E3%81%84%E3%81%84%E7%94%9F%E5%9C%B0%E3%81%AB%E7%9B%AE%E3%81%8C%E3%81%AA%E3%81%84-%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C%E3%81%AB%E3%81%AA%E3%82%93%E3%81%A6%E8%88%88%E5%91%B3%E3%81%AA%E3%81%84%E3%81%91%E3%81%A9%E6%9C%AC%E8%83%BD%E7%9A%84%E3%81%AB%E5%97%85%E3%81%8E%E5%88%86%E3%81%91%E3%82%8B%E3%82%93%E3%81%A0%E3%82%8D%E3%81%86-%E3%82%AB%E3%82%B7%E3%83%9F%E3%82%A2%E3%81%AE%E3%82%BB%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%82%E3%83%B4%E3%82%A3%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B8%E3%81%AE/1713464373582926/",
+    "pass": 3
+   },
+   {
+    "quote": "1986年に創業した パパス が、洋服＝「モノ」と ... - Facebook 1986年に創業した パパス が、洋服＝「モノ」と ... - Facebook Facebook https://www.facebook.com > papas.jpn > posts > 1986年...",
+    "url": "https://www.facebook.com/papas.jpn/posts/1986%E5%B9%B4%E3%81%AB%E5%89%B5%E6%A5%AD%E3%81%97%E3%81%9F%E3%83%91%E3%83%91%E3%82%B9%E3%81%8C%E6%B4%8B%E6%9C%8D%E3%83%A2%E3%83%8E%E3%81%A8%E5%90%8C%E3%81%98%E3%81%8F%E3%82%89%E3%81%84%E5%A4%A7%E5%88%87%E3%81%AB%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8C%E3%81%8A%E5%AE%A2%E6%A7%98%E3%82%92%E3%81%8A%E3%82%82%E3%81%A6%E3%81%AA%E3%81%97%E3%81%99%E3%82%8B%E4%BA%BA%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E3%81%A8%E8%90%BD%E3%81%A1%E7%9D%80%E3%81%84%E3%81%A6%E9%81%8E%E3%81%94%E3%81%99%E3%81%9F%E3%82%81%E3%81%AE%E7%A9%BA%E9%96%93%E3%81%A0%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E7%94%BB%E9%9D%A2%E3%81%A7%E3%81%AF%E6%B1%BA%E3%81%97%E3%81%A6%E4%BC%9D%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84/1272829010979800/",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは。 「今日の パパス 」をお届けします。 ぼくの ... こんにちは。 「今日の パパス 」をお届けします。 ぼくの ... Facebook https://www.facebook.com > papas.jpn > posts > こんにち...",
+    "url": "https://www.facebook.com/papas.jpn/posts/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E4%BB%8A%E6%97%A5%E3%81%AE%E3%83%91%E3%83%91%E3%82%B9%E3%82%92%E3%81%8A%E5%B1%8A%E3%81%91%E3%81%97%E3%81%BE%E3%81%99-%E3%81%BC%E3%81%8F%E3%81%AE%E3%83%8D%E3%83%AB%E3%82%B7%E3%83%A3%E3%83%84%E3%81%AF%E3%81%9F%E3%81%A0%E3%81%AE%E6%B4%8B%E6%9C%8D%E3%81%98%E3%82%83%E3%81%AA%E3%81%84-%E3%83%91%E3%83%AA%E3%83%AD%E3%83%B3%E3%83%89%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%9E%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF-%E3%81%9D%E3%81%AE%E6%9F%94%E3%82%89%E3%81%8B%E3%81%8F%E8%B5%B7%E6%AF%9B%E3%81%97%E3%81%9F%E3%82%B3%E3%83%83%E3%83%88%E3%83%B3%E7%94%9F%E5%9C%B0%E3%81%AE%E4%B8%8A%E3%81%AB%E3%81%AF%E3%81%BE%E3%82%8B%E3%81%A7%E3%83%91%E3%82%B9%E3%83%9D/1678134983782532/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://papas.jpn.com/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://papas.jpn.com/ja/news/202611blackfriday",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://papas.jpn.com/ja/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://papas.jpn.com/ja/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://papas.jpn.com/ja/news/sapporo2611",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://papas.jpn.com/ja/news/sendai2611",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://papas.jpn.com/ja/news/venchi_marunouchi2026nov",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://papas.jpn.com/ja/news/papas_40thstajum_261106",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://papas.jpn.com/ja/news/20261109",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://papas.jpn.com/ja/news/yataros_coordinate_260915",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://papas.jpn.com/webshop/?utm_source=homepage&utm_medium=features&utm_campaign=bopis_marunouchi260901",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://papas.jpn.com/ja/news/classicsweatwear",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://papas.jpn.com/ja/news/nonnonbear",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://papas.jpn.com/ja/news/2610papasfair",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.bigi-group.com/company/papas.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp273205/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://papas-kk.co.jp/2025/03/24/metal-3d-printing-slm500-introduction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://papas-kk.co.jp/test0010/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=teF6HEZhdlo",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://papas-kk.co.jp/2020/07/20/started-metal-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://papas-kk.co.jp/category/machinery/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.3dsystems.com/semiconductor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui.com/jp/ja/release/2024/1249292_14376.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bigi-group.com/company/papas.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.readytofashion.jp/companies/276611436",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp273205/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://papas-kk.co.jp/company/outline-and-location/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/pigiste_life/n/n403869152270",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sankakuyama762/n/n0deb662cec10",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/papas_jpn",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/papas_jpn/status/2008735345186402771",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/papas_jpn/status/2075507409225912540",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/papas_jpn/status/2113465436176351430",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/papas.jpn/posts/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E4%BB%8A%E6%97%A5%E3%81%AE%E3%83%91%E3%83%91%E3%82%B9%E3%82%92%E3%81%8A%E5%B1%8A%E3%81%91%E3%81%97%E3%81%BE%E3%81%99-%E3%81%BC%E3%81%8F%E3%81%AE%E5%8F%8B%E9%81%94%E3%81%AF%E3%81%84%E3%81%84%E7%94%9F%E5%9C%B0%E3%81%AB%E7%9B%AE%E3%81%8C%E3%81%AA%E3%81%84-%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C%E3%81%AB%E3%81%AA%E3%82%93%E3%81%A6%E8%88%88%E5%91%B3%E3%81%AA%E3%81%84%E3%81%91%E3%81%A9%E6%9C%AC%E8%83%BD%E7%9A%84%E3%81%AB%E5%97%85%E3%81%8E%E5%88%86%E3%81%91%E3%82%8B%E3%82%93%E3%81%A0%E3%82%8D%E3%81%86-%E3%82%AB%E3%82%B7%E3%83%9F%E3%82%A2%E3%81%AE%E3%82%BB%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%82%E3%83%B4%E3%82%A3%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B8%E3%81%AE/1713464373582926/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/papas.jpn/posts/1986%E5%B9%B4%E3%81%AB%E5%89%B5%E6%A5%AD%E3%81%97%E3%81%9F%E3%83%91%E3%83%91%E3%82%B9%E3%81%8C%E6%B4%8B%E6%9C%8D%E3%83%A2%E3%83%8E%E3%81%A8%E5%90%8C%E3%81%98%E3%81%8F%E3%82%89%E3%81%84%E5%A4%A7%E5%88%87%E3%81%AB%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8C%E3%81%8A%E5%AE%A2%E6%A7%98%E3%82%92%E3%81%8A%E3%82%82%E3%81%A6%E3%81%AA%E3%81%97%E3%81%99%E3%82%8B%E4%BA%BA%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E3%81%A8%E8%90%BD%E3%81%A1%E7%9D%80%E3%81%84%E3%81%A6%E9%81%8E%E3%81%94%E3%81%99%E3%81%9F%E3%82%81%E3%81%AE%E7%A9%BA%E9%96%93%E3%81%A0%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E7%94%BB%E9%9D%A2%E3%81%A7%E3%81%AF%E6%B1%BA%E3%81%97%E3%81%A6%E4%BC%9D%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84/1272829010979800/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/papas.jpn/posts/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E4%BB%8A%E6%97%A5%E3%81%AE%E3%83%91%E3%83%91%E3%82%B9%E3%82%92%E3%81%8A%E5%B1%8A%E3%81%91%E3%81%97%E3%81%BE%E3%81%99-%E3%81%BC%E3%81%8F%E3%81%AE%E3%83%8D%E3%83%AB%E3%82%B7%E3%83%A3%E3%83%84%E3%81%AF%E3%81%9F%E3%81%A0%E3%81%AE%E6%B4%8B%E6%9C%8D%E3%81%98%E3%82%83%E3%81%AA%E3%81%84-%E3%83%91%E3%83%AA%E3%83%AD%E3%83%B3%E3%83%89%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%9E%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF-%E3%81%9D%E3%81%AE%E6%9F%94%E3%82%89%E3%81%8B%E3%81%8F%E8%B5%B7%E6%AF%9B%E3%81%97%E3%81%9F%E3%82%B3%E3%83%83%E3%83%88%E3%83%B3%E7%94%9F%E5%9C%B0%E3%81%AE%E4%B8%8A%E3%81%AB%E3%81%AF%E3%81%BE%E3%82%8B%E3%81%A7%E3%83%91%E3%82%B9%E3%83%9D/1678134983782532/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/papasukety/all",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/papas_jpn",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "パパス",
+   "results": [
+    "https://papas.jpn.com/ja/",
+    "https://papas.jpn.com/webshop/?srsltid=AYCX9vLUScrI7-3Xp9GjDjqHQgH1x21TNVQQ23P8mUGu2ANnLrn2UzZ_",
+    "https://x.com/papas_jpn",
+    "https://www.instagram.com/papas_jpn_official/",
+    "https://papas.jpn.com/webshop/brand/papas?srsltid=AYCX9vL1O5XoWJ5fuWCOw3iG1bTh7PyK9Ex3M0w78cTuzJXUKb-P1xE2",
+    "https://www.mononcle.jp/column/moderonogy-of-style/5634/",
+    "https://www.t-fashion.jp/shop/papas",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%9E%E3%82%B9%26%E3%83%91%E3%83%91%E3%82%B9",
+    "https://www.t-fashion.jp/shop/papas?brand=10064",
+    "https://bigi-group.com/company/papas.php"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "パパス 会社概要 資本金 設立",
+   "results": [
+    "http://www.bigi-group.com/company/papas.php",
+    "https://papas.jpn.com/ja/about",
+    "https://job.mynavi.jp/28/pc/search/corp273205/outline.html",
+    "https://papas-kk.co.jp/company/outline-and-location/",
+    "https://www.readytofashion.jp/companies/276611436",
+    "https://www.careermap.jp/corporations/94411",
+    "https://www.wskagawa.jp/index.php?prog=pub_kigyo&exec=detail&kigyo_key=13-0055",
+    "https://www.shigotomarugoto.info/ui-turn/search-company/view/CGW249286",
+    "https://compalyze.co.jp/company/1011001030926",
+    "https://papas-kk.co.jp/company/about/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "パパス 金属3Dプリンタ 導入",
+   "results": [
+    "https://papas-kk.co.jp/2025/03/24/metal-3d-printing-slm500-introduction/",
+    "https://papas-kk.co.jp/test0010/",
+    "https://www.youtube.com/watch?v=teF6HEZhdlo",
+    "https://www.marubeni-idigio.com/insight-hub/metal3dprinter_desktopmetal_case/",
+    "https://www.youtube.com/watch?v=Ew517KG1bOI",
+    "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/the-future-of-metal-3d-printing",
+    "https://kk-ariga.co.jp/metal_3d_printer/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B/",
+    "https://papas-kk.co.jp/2020/07/20/started-metal-3d-printing/",
+    "https://www.j-tic.co.jp/h90825t.htm",
+    "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "パパス 金属積層造形 設備",
+   "results": [
+    "https://papas-kk.co.jp/2020/07/20/started-metal-3d-printing/",
+    "https://papas-kk.co.jp/category/machinery/",
+    "https://ja.3dsystems.com/semiconductor",
+    "https://jampt.jp/equipment/",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E6%A9%9F/",
+    "https://www.muto.co.jp/3d/",
+    "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "https://www.youtube.com/watch?v=5KVb69CSTXU",
+    "https://papas-kk.co.jp/technology/3dprinter/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "パパス 株主 出資 親会社",
+   "results": [
+    "https://www.mitsui.com/jp/ja/release/2024/1249292_14376.html",
+    "http://www.bigi-group.com/company/papas.php",
+    "https://www.readytofashion.jp/companies/276611436",
+    "https://www.nihon-ma.co.jp/news/20240603_8031-62/",
+    "https://www.reuters.com/jp/markets/global-markets/FM3QFST7XRLFHIP3FLOCZU5AYM-2024-06-03/",
+    "https://www.nikkei.com/article/DGXZQOUC037CD0T00C24A6000000/",
+    "https://papas.jpn.com/ja/about",
+    "https://job.mynavi.jp/28/pc/search/corp273205/outline.html",
+    "https://papas-kk.co.jp/company/outline-and-location/",
+    "https://ja.wikipedia.org/wiki/ぱぱす"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "パパス 売上高 従業員数",
+   "results": [
+    "https://job.mynavi.jp/27/pc/search/corp273205/outline.html",
+    "https://papas.jpn.com/ja/about",
+    "https://papas-kk.co.jp/company/outline-and-location/",
+    "http://www.bigi-group.com/company/papas.php",
+    "https://job.mynavi.jp/28/pc/search/corp273205/outline.html",
+    "https://www.readytofashion.jp/companies/276611436",
+    "https://en-hyouban.com/company/00001303081/23/",
+    "https://arwrk.net/recruit/papas-kk/",
+    "https://fumadata.com/search/detail/1384765",
+    "https://jobcatalog.yahoo.co.jp/company/2000014891/information/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com パパス",
+   "results": [
+    "https://note.com/yuuichi2400/n/n07b0e5848f3d",
+    "https://note.com/pigiste_life/n/n403869152270",
+    "https://note.com/yuuichi2400/n/n350884d5a478",
+    "https://note.com/sankakuyama762/n/n0deb662cec10",
+    "https://note.com/yuuichi2400/n/naade092dd9fe",
+    "https://note.com/singbird_kubojun/n/n1b99099580ad",
+    "https://note.com/vovvintage/n/nd50d4532c83c",
+    "https://note.com/s_jirokichi/n/n931fbc62114d",
+    "https://note.com/peter_papa/n/nf8b6f6ee03dc",
+    "https://note.com/peter_papa/n/n0fa5b0d9018b"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com パパス",
+   "results": [
+    "https://x.com/papas_jpn",
+    "https://x.com/papas_jpn/status/2008735345186402771",
+    "https://x.com/papas_jpn/status/2075507409225912540",
+    "https://x.com/papas_jpn/status/2113465436176351430",
+    "https://x.com/papas_jpn/status/1954105381095088205",
+    "https://x.com/Paprts",
+    "https://x.com/papas_jpn/status/2113435239636717994",
+    "https://x.com/YoheiSaiki/status/2117838437537706040",
+    "https://x.com/crz_official/status/2072923294999683468",
+    "https://x.com/papasaka_papas"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com パパス",
+   "results": [
+    "https://www.linkedin.com/in/mrbillpapas",
+    "https://www.linkedin.com/in/ron-papas-4b8926",
+    "https://www.linkedin.com/in/caroline-papas-6315a3",
+    "https://uk.linkedin.com/company/mamas-&-papas",
+    "https://www.linkedin.com/in/minospapas",
+    "https://www.linkedin.com/in/tommy-papas-a191197a",
+    "https://www.linkedin.com/in/gregpapas",
+    "https://www.linkedin.com/in/paul-papas",
+    "https://www.linkedin.com/in/papaslisa",
+    "https://www.linkedin.com/in/vanessapappas"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com パパス",
+   "results": [
+    "https://www.facebook.com/papas.jpn/",
+    "https://www.facebook.com/papas.jpn/posts/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E4%BB%8A%E6%97%A5%E3%81%AE%E3%83%91%E3%83%91%E3%82%B9%E3%82%92%E3%81%8A%E5%B1%8A%E3%81%91%E3%81%97%E3%81%BE%E3%81%99-%E3%81%BC%E3%81%8F%E3%81%AE%E5%8F%8B%E9%81%94%E3%81%AF%E3%81%84%E3%81%84%E7%94%9F%E5%9C%B0%E3%81%AB%E7%9B%AE%E3%81%8C%E3%81%AA%E3%81%84-%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C%E3%81%AB%E3%81%AA%E3%82%93%E3%81%A6%E8%88%88%E5%91%B3%E3%81%AA%E3%81%84%E3%81%91%E3%81%A9%E6%9C%AC%E8%83%BD%E7%9A%84%E3%81%AB%E5%97%85%E3%81%8E%E5%88%86%E3%81%91%E3%82%8B%E3%82%93%E3%81%A0%E3%82%8D%E3%81%86-%E3%82%AB%E3%82%B7%E3%83%9F%E3%82%A2%E3%81%AE%E3%82%BB%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%82%E3%83%B4%E3%82%A3%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B8%E3%81%AE/1713464373582926/",
+    "https://www.facebook.com/papas.jpn/posts/1986%E5%B9%B4%E3%81%AB%E5%89%B5%E6%A5%AD%E3%81%97%E3%81%9F%E3%83%91%E3%83%91%E3%82%B9%E3%81%8C%E6%B4%8B%E6%9C%8D%E3%83%A2%E3%83%8E%E3%81%A8%E5%90%8C%E3%81%98%E3%81%8F%E3%82%89%E3%81%84%E5%A4%A7%E5%88%87%E3%81%AB%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8C%E3%81%8A%E5%AE%A2%E6%A7%98%E3%82%92%E3%81%8A%E3%82%82%E3%81%A6%E3%81%AA%E3%81%97%E3%81%99%E3%82%8B%E4%BA%BA%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E3%81%A8%E8%90%BD%E3%81%A1%E7%9D%80%E3%81%84%E3%81%A6%E9%81%8E%E3%81%94%E3%81%99%E3%81%9F%E3%82%81%E3%81%AE%E7%A9%BA%E9%96%93%E3%81%A0%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E7%94%BB%E9%9D%A2%E3%81%A7%E3%81%AF%E6%B1%BA%E3%81%97%E3%81%A6%E4%BC%9D%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84/1272829010979800/",
+    "https://www.facebook.com/papas.jpn/posts/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E4%BB%8A%E6%97%A5%E3%81%AE%E3%83%91%E3%83%91%E3%82%B9%E3%82%92%E3%81%8A%E5%B1%8A%E3%81%91%E3%81%97%E3%81%BE%E3%81%99-%E3%81%BC%E3%81%8F%E3%81%AE%E3%83%8D%E3%83%AB%E3%82%B7%E3%83%A3%E3%83%84%E3%81%AF%E3%81%9F%E3%81%A0%E3%81%AE%E6%B4%8B%E6%9C%8D%E3%81%98%E3%82%83%E3%81%AA%E3%81%84-%E3%83%91%E3%83%AA%E3%83%AD%E3%83%B3%E3%83%89%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%9E%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF-%E3%81%9D%E3%81%AE%E6%9F%94%E3%82%89%E3%81%8B%E3%81%8F%E8%B5%B7%E6%AF%9B%E3%81%97%E3%81%9F%E3%82%B3%E3%83%83%E3%83%88%E3%83%B3%E7%94%9F%E5%9C%B0%E3%81%AE%E4%B8%8A%E3%81%AB%E3%81%AF%E3%81%BE%E3%82%8B%E3%81%A7%E3%83%91%E3%82%B9%E3%83%9D/1678134983782532/",
+    "https://www.facebook.com/papas.jpn/videos/%E3%83%91%E3%83%91%E3%82%B9%E3%81%AE%E6%9C%8D%E3%82%92%E7%9D%80%E3%82%8B%E3%81%A8%E8%87%AA%E5%88%86%E3%82%92%E5%A5%BD%E3%81%8D%E3%81%AB%E3%81%AA%E3%82%8B%E4%BA%BA%E3%82%92%E6%84%9B%E3%81%97%E3%81%9F%E3%81%8F%E3%81%AA%E3%82%8B%E3%83%91%E3%83%91%E3%82%B9%E3%81%AF%E4%BA%BA%E7%94%9F%E3%82%92%E6%A5%BD%E3%81%97%E3%82%80%E3%81%9F%E3%82%81%E3%81%AE%E6%9C%8D%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C%E3%82%88%E3%82%8A%E3%82%82%E7%B4%A0%E6%95%B5%E3%81%AB40%E5%B9%B4%E7%9B%AE%E3%81%AE%E3%83%91%E3%83%91%E3%82%B9%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%AB%E3%81%97%E3%81%8B%E4%BD%9C%E3%82%8C%E3%81%AA%E3%81%84%E6%9C%8D%E3%82%92%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E3%82%82%E3%81%BF%E3%81%AA%E3%81%95%E3%82%93%E3%81%AE%E4%BA%BA/25519921464337031/",
+    "https://www.facebook.com/groups/456769654529105/posts/2780813165458064/",
+    "https://www.facebook.com/papas.jpn/posts/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E4%BB%8A%E6%97%A5%E3%81%AE%E3%83%91%E3%83%91%E3%82%B9%E3%82%92%E3%81%8A%E5%B1%8A%E3%81%91%E3%81%97%E3%81%BE%E3%81%99-%E8%BF%91%E6%89%80%E3%81%AB%E6%96%B0%E3%81%97%E3%81%84%E3%83%99%E3%83%BC%E3%82%AB%E3%83%AA%E3%83%BC%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%A6%E4%BB%A5%E6%9D%A5%E6%97%A5%E6%9B%9C%E6%97%A5%E3%81%AE%E6%97%A9%E8%B5%B7%E3%81%8D%E3%81%8C%E5%BE%97%E6%84%8F%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F-%E3%83%91%E3%82%B8%E3%83%A3%E3%83%9E%E3%81%8C%E3%82%8F%E3%82%8A%E3%81%AE%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%83%E3%83%88%E5%A7%BF%E3%82%84%E3%81%BC%E3%81%95%E3%81%BC%E3%81%95%E3%81%AE%E5%AF%9D%E3%81%90%E3%81%9B%E9%A0%AD%E3%82%82%E3%81%8A%E6%B0%97%E3%81%AB%E5%85%A5/1736449071284456/",
+    "https://www.facebook.com/groups/NewMexicoRecipes/posts/9106838389433637/",
+    "https://www.facebook.com/groups/552516308123350/posts/33472594935688729/",
+    "https://www.facebook.com/ShopPapasu/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "パパス note 社長",
+   "results": [
+    "https://note.com/papasukety/all",
+    "https://papas.jpn.com/ja/about",
+    "https://note.com/shacho_homon/m/m1bd972cc202e",
+    "https://www.youtube.com/watch?v=GNu35VtsK2k",
+    "https://www.instagram.com/p/DKbrSb5TAgJ/",
+    "https://note.com/large_kudu9276",
+    "http://www.bigi-group.com/company/papas.php",
+    "https://www.mononcle.jp/column/moderonogy-of-style/5634/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/ceo/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "パパス X 投稿",
+   "results": [
+    "https://x.com/papas_jpn",
+    "https://www.instagram.com/papas_jpn_official/reels/",
+    "https://www.youtube.com/watch?v=GNu35VtsK2k",
+    "https://prtimes.jp/topics/keywords/Papas",
+    "https://x.com/hashtag/papas",
+    "https://www.mononcle.jp/tag/%E3%83%91%E3%83%91%E3%82%B9/",
+    "https://news.nicovideo.jp/watch/nw19889837",
+    "https://x.com/Paprts",
+    "https://x.com/papas0814",
+    "https://www.instagram.com/p/DfawBBIk8Px/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部24頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部24頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部24頁・検索12回）"
+ }
+}

@@ -1,0 +1,679 @@
+{
+ "name": "GetYourSaaS",
+ "aliases": [],
+ "context": "旧営業リスト｜Non-AUMS｜未接触",
+ "researched_at": "2026-11-10T17:03:09.782973+00:00",
+ "official_url": "https://www.getyoursaas.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "🔥 Limited Launch Pricing — Lock in your rate",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "9 enterprise-grade modules. Fully white-labeled. Your brand, your domain, your pricing. Start selling to clients this weekend.",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "CRM · AI Calling · AI Receptionist · Booking · Service Pro · Rewards · Training · Lead Scraper · Keyword Research",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Priority Support Included",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Brand the entire platform as your own — your logo, domain, and pricing. Sell it to clients and keep 100% of the revenue. Build a real SaaS business overnight.",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hiring developers, designers, and DevOps — and hoping they deliver",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stuck as a middleman reselling someone else's product with their branding",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Get a fully-built, enterprise-grade platform — ready to sell today",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Launch this weekend. Brand it, price it, and start selling Monday.",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Imagine waking up to Stripe notifications. New clients signed up overnight. Your software — with your name on it — solving real problems for real businesses.",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Each module is a standalone product your clients will pay for monthly. Bundle them together or sell individually — your business, your strategy.",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Outbound & inbound AI phone agents that book appointments, qualify leads, and never miss a call.",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Course builder with quizzes, certifications, progress tracking, and team assignments.",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Onboarding, compliance, upskilling",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Scrape leads from Google Maps, trade shows, and events — with email and phone enrichment.",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SEO agencies, content marketers",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SEO agencies, marketing firms",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Set per-module or bundled pricing. Charge $49/mo or $499/mo — your margins, your rules.",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every client gets their own workspace with data isolation. Enterprise-grade security.",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Set your own pricing and keep the margins. Here's what your revenue could look like.",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Choose which modules to offer. Set custom pricing tiers. $49/mo, $199/mo, $499/mo — whatever your market supports.",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"I went from freelance marketing to running a $18K/mo SaaS company in 90 days. My clients think I built the entire platform.\"",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "You already know how to sell. You already know your market. The only thing missing was the product. Now you have it — fully built, fully brandable, fully yours. Stop building other people's dreams. Start building your own.",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Absolutely not. If you can upload a logo and set a price, you can run this business. There's zero coding involved.",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "You set your own prices and bill clients directly through Stripe. You keep the margins — we charge a flat platform fee.",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Home services, healthcare, automotive",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "White-Label SaaS Platform",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "9 enterprise-grade modules. Fully white-labeled. Your brand, your domain, your pricing. Start selling to clients this weekend.",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Monthly Reseller Revenue",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pick the modules that fit your workflow — CRM for sales, Booking for appointments, AI Calling for lead gen. Use them as your own internal tools, no white-labeling needed.",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "100% white-labeled — your brand, your domain, your clients, your revenue",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your logo, colors, domain. Total white-label. They'll never know the difference.",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies, real estate, consultants",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "B2B sales, lead gen agencies",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SEO agencies, content marketers",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SEO agencies, marketing firms",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your Brand. Every Pixel. Every Page.",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"The white-labeling is perfect. We run it on our domain with our branding. Not a single client has asked who built it.\"",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Never. The white-labeling is complete — your logo, your colors, your domain, your login screen. We are 100% invisible.",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Priority support, onboarding assistance, and a reseller community. We also provide sales templates and pitch decks.",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Join hundreds of resellers who launched their own branded SaaS business — without writing a single line of code.",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Monthly Reseller Revenue",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Brand the entire platform as your own — your logo, domain, and pricing. Sell it to clients and keep 100% of the revenue. Build a real SaaS business overnight.",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "100% white-labeled — your brand, your domain, your clients, your revenue",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Recurring Revenue on Autopilot",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SaaS businesses sell for 3–10x annual revenue. At $10K MRR, that's $360K–$1.2M.",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Visual Kanban pipeline, auto-dialer, AI email campaigns, lead scoring, and revenue forecasting.",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Set your own pricing and keep the margins. Here's what your revenue could look like.",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Onboard clients into their own workspaces. They manage their business, you collect recurring revenue. Every month.",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Visual Kanban pipeline, auto-dialer, AI email campaigns, lead scoring, and revenue forecasting.",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Scrape leads from Google Maps, trade shows, and events — with email and phone enrichment.",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Not just a logo swap. Complete brand control across the entire platform — login screens, dashboards, emails, and client portals.",
+    "url": "https://www.getyoursaas.com/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Platform — Platform getyoursaas.com https://getyoursaas.com",
+    "url": "https://getyoursaas.com/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "How to get your SaaS content cited in AI overviews - LinkedIn How to get your SaaS content cited in AI overviews - LinkedIn LinkedIn https://www.linkedin.com > pulse",
+    "url": "https://www.linkedin.com/pulse/how-get-your-saas-content-cited-ai-overviews-kaleigh-moore-aw9ac",
+    "pass": 3
+   },
+   {
+    "quote": "Tyler Michalek – I get your SaaS cited - On-Camera Presentation Tyler Michalek – I get your SaaS cited - On-Camera Presentation LinkedIn https://cz.linkedin.com > tyler-michal...",
+    "url": "https://cz.linkedin.com/in/tyler-michalek-marketing",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.getyoursaas.com/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amesha-world.com/info/detail.php?id=4277",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/impress.carwatch/posts/stellantis%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%83%95%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88%E3%83%A9%E3%83%83%E3%82%AFram-1500-limited%E6%97%A5%E6%9C%AC%E5%B0%8E%E5%85%A5-2027%E5%B9%B4%E3%81%AB%E3%81%BE%E3%81%9A%E3%81%AF100%E5%8F%B0%E3%82%92%E7%99%BA%E5%A3%B2%E4%BA%88%E5%AE%9A-ram-%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88/1595981509000273/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=DBK9vqrcDaY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/agency-types",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/reel/DYXheGeso-U/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.japanamerica.org/Membership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jassw.org/end-of-year-giving/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jas-socal.org/Donate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJ4DRHNkHrMk0yUGJc8nJUhOnN1WkI84DVzz1262roxupv5GoYP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factbird.com/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fourjaw.com/tell-your-manufacturing-story",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratasys.com/en/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getyoursaas.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hibob.com/blog/saas-startup-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/get",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thevccorner.com/p/revenue-per-employee-saas-vs-vc-ycs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/nathanlatka_these-are-the-top-250-saas-founders-measured-activity-7197234436671741954-CrvQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/how-get-your-saas-content-cited-ai-overviews-kaleigh-moore-aw9ac",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cz.linkedin.com/in/tyler-michalek-marketing",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "GetYourSaaS 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://amesha-world.com/info/detail.php?id=4277",
+    "https://www.facebook.com/impress.carwatch/posts/stellantis%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%83%95%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88%E3%83%A9%E3%83%83%E3%82%AFram-1500-limited%E6%97%A5%E6%9C%AC%E5%B0%8E%E5%85%A5-2027%E5%B9%B4%E3%81%AB%E3%81%BE%E3%81%9A%E3%81%AF100%E5%8F%B0%E3%82%92%E7%99%BA%E5%A3%B2%E4%BA%88%E5%AE%9A-ram-%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88/1595981509000273/",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://www.webcg.net/articles/-/54501",
+    "https://trafficnews.jp/post/725198",
+    "https://www.mycar-life.com/article/2026/11/08/32725.html",
+    "https://www.instagram.com/reel/DfTb76WgVjx/",
+    "https://qiita.com/emi_ndk/items/b6791a2d5b70cb65f743",
+    "https://zenn.dev/babushkai/articles/2026-01-24-japanese-saas-marketplace"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "GetYourSaaS 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.youtube.com/watch?v=DBK9vqrcDaY",
+    "https://b-seeds.com/column/agency-types",
+    "https://ecnomikata.com/blog/51120/",
+    "https://dairitenboshu.com/",
+    "https://www.wadax.ne.jp/company/agent/",
+    "https://blog.allstarsaas.com/posts/qa09",
+    "https://www.frantech.biz/15323108857304",
+    "https://ja.wikipedia.org/wiki/SAPジャパン"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "GetYourSaaS Japan",
+   "results": [
+    "https://www.instagram.com/reel/DYXheGeso-U/",
+    "https://www.japanamerica.org/Membership",
+    "https://jassw.org/end-of-year-giving/",
+    "https://www.jas-socal.org/Donate",
+    "https://www.youtube.com/watch?v=LgY_pR_Rfmw",
+    "https://www.takaski.com/?srsltid=AYCX9vKASmH-K_oh12M2YtHumbTznlcNM1LtNed7g-VGGttV6PKg-vD7",
+    "https://www.instagram.com/p/DR1-9kWiBsc/",
+    "https://www.instagram.com/reel/DID-6oBgHSg/",
+    "https://www.youtube.com/@LetsaskShogo",
+    "https://tam-tamlo.com/en/1092"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "GetYourSaaS manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJ4DRHNkHrMk0yUGJc8nJUhOnN1WkI84DVzz1262roxupv5GoYP",
+    "https://www.factbird.com/resources/case-studies",
+    "https://fourjaw.com/tell-your-manufacturing-story",
+    "https://www.stratasys.com/en/resources/case-studies/",
+    "https://aws.amazon.com/manufacturing/case-studies/",
+    "https://www.athenaswc.com/case-studies/",
+    "https://www.factory-twin.com/casestudies",
+    "https://www.conveyormg.com/resources/blogs/creating-manufacturing-case-studies",
+    "https://www.autodesk.com/customer-stories/case-studies",
+    "https://editorialge.com/saas-case-studies/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "GetYourSaaS white label OR reseller OR partner program",
+   "results": [
+    "https://getyoursaas.com/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://getreditus.com/resources/glossary/white-label-saas",
+    "https://www.reddit.com/r/SaaS/comments/12lcetr/where_to_find_partners_to_resellwhitelabel_my/",
+    "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "https://payproglobal.com/how-to/start-white-label-saas/",
+    "https://content.platfio.com/blog/software-reseller-programs-worth-joining-2026",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "GetYourSaaS founded funding employees revenue",
+   "results": [
+    "https://www.hibob.com/blog/saas-startup-funding/",
+    "https://getlatka.com/companies/get",
+    "https://www.thevccorner.com/p/revenue-per-employee-saas-vs-vc-ycs",
+    "https://www.linkedin.com/posts/nathanlatka_these-are-the-top-250-saas-founders-measured-activity-7197234436671741954-CrvQ",
+    "https://restofworld.org/2023/3-minutes-with-bhavik-vasa/",
+    "https://payproglobal.com/how-to/get-saas-funding/",
+    "https://www.youtube.com/watch?v=8pCgRRgcWNs",
+    "https://practicalfounders.com/articles/most-saas-founders-worth-20-million-didnt-raise-vc-funding/",
+    "https://fundraiseinsider.com/blog/recently-funded-saas-startups/",
+    "https://getlatka.com/companies/innovaccer.com"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com GetYourSaaS",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com GetYourSaaS",
+   "results": [
+    "https://x.com/SAASNORTH",
+    "https://x.com/fba",
+    "https://x.com/fba/highlights",
+    "https://x.com/kailoon",
+    "https://x.com/AntiWheatGirl",
+    "https://x.com/s_chiriac",
+    "https://x.com/Farhanism_al/status/2041394805767655795",
+    "https://x.com/mrdtara/status/2117320314673868889",
+    "https://x.com/i/status/2085383615106490822",
+    "https://help.x.com/en/using-x"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:linkedin.com GetYourSaaS",
+   "results": [
+    "https://www.linkedin.com/pulse/how-get-your-saas-content-cited-ai-overviews-kaleigh-moore-aw9ac",
+    "https://in.linkedin.com/in/kelisshekhaliya",
+    "https://cz.linkedin.com/in/tyler-michalek-marketing",
+    "https://www.linkedin.com/posts/bottle-rocket-media_b2bmarketing-leadgeneration-contentstrategy-activity-7523429733804670977-CZeT",
+    "https://in.linkedin.com/in/theharshmak",
+    "https://in.linkedin.com/in/priyasharma-digitalmarketer",
+    "https://ca.linkedin.com/in/jpvalery/en",
+    "https://fr.linkedin.com/company/wetransactio",
+    "https://in.linkedin.com/company/frameos-ai",
+    "https://www.linkedin.com/company/vibe-your-saas"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com GetYourSaaS",
+   "results": [
+    "https://www.facebook.com/61580737782219/videos/your-saas-product-has-the-features-does-your-video-show-their-valuewe-create-cus/1574662007214165/",
+    "https://www.facebook.com/Bookmancapital/posts/digital-assets-and-business-stakes-are-often-the-most-undervalued-parts-of-an-es/1570901195037918/",
+    "https://www.facebook.com/aylabrownmusic/posts/if-you-own-any-type-of-ecommerce-business-or-know-someone-who-does-and-are-inter/1271193114377132/",
+    "https://www.facebook.com/iamjeeth/videos/why-isnt-your-saas-showing-up-in-chatgpt-most-of-the-time-its-not-your-content-i/1159401179869597/",
+    "https://www.facebook.com/NESColAdvice/posts/saas-applications-now-open-get-your-application-in-as-soon-as-possible-for-your-/756568584732491/",
+    "https://www.facebook.com/StartYourSaaS.io/",
+    "https://lite.facebook.com/",
+    "https://business.facebook.com/groups/lifetimeoffers/",
+    "https://secure.facebook.com/login/",
+    "https://adsmanager.facebook.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "GetYourSaaS note 社長",
+   "results": [
+    "https://note.com/shacho_homon/m/m1bd972cc202e",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://note.com/sadaaki",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://www.youtube.com/watch?v=xPafg3yYObE",
+    "https://x.com/sadaaki",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://note.com/ai_shacho",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "GetYourSaaS X 投稿",
+   "results": [
+    "https://x.com/MrSoftAss",
+    "https://x.com/AssssEaterr",
+    "https://www.youtube.com/watch?v=aiv0kzz7IzY",
+    "https://www.facebook.com/groups/460867398100671/posts/1766106330910098/",
+    "https://saveas-x.com/ja/",
+    "https://monsnode.com/v1789142875319740153",
+    "https://x.com/Samvass4/status/1923395829810827573",
+    "https://getyarn.io/yarn-clip/4a525f29-1091-456e-8864-55f7ebeb9dbe",
+    "https://mobile.twstalker.com/yoursasha00",
+    "https://x.com/gesaza9/status/2118032581497327838"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）"
+ }
+}

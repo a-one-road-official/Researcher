@@ -1,0 +1,1333 @@
+{
+ "name": "Fleetworks",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-10T17:20:10.913724+00:00",
+ "official_url": "https://fleetworks.ai",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "11-Oct-2023    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/534574-54",
+    "pass": 3
+   },
+   {
+    "label": "Total funding",
+    "value": "No funding",
+    "url": "https://prospeo.io/c/fleetworks-revenue",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/fleetworks-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "330 Townsend St, 209, San Francisco, California 94107, US",
+    "url": "https://prospeo.io/c/fleetworks-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Tell Sofia, your always-on operations assistant, where you'll be empty. She searches 30,000+ loads a day, puts your bid straight into the broker's system, and texts you the offers. You pick every load.",
+    "url": "https://www.fleetworks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Produce · 34°F",
+    "url": "https://www.fleetworks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The broker approved $2,350. Dallas, TX → Atlanta, GA, load #51348213",
+    "url": "https://www.fleetworks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "At connected brokers, Sofia puts your bid straight into their system and their carrier desk approves it in Teams. Everywhere else, she calls and negotiates for you.",
+    "url": "https://www.fleetworks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“Leo Transportation · Highway verified · 4 prior loads on this lane · asking $2,350”",
+    "url": "https://www.fleetworks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Approved by the broker's carrier desk",
+    "url": "https://www.fleetworks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "At connected brokers, your bid goes into their system and their desk approves it in Teams. Everywhere else, Sofia calls and waits on hold so you don't have to.",
+    "url": "https://www.fleetworks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Gets you the first call on hot loads",
+    "url": "https://www.fleetworks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "no reply in 20 min, called the desk, approved",
+    "url": "https://www.fleetworks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“FleetWorks always helps bring good loads as soon as they're available.”",
+    "url": "https://www.fleetworks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“FleetWorks does a good job remembering my preferences and sending freight that matches.”",
+    "url": "https://www.fleetworks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Owner, The Right Price Delivery",
+    "url": "https://www.fleetworks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Every broker in the network is verified, and you can block any broker you don't want loads from. We verify your MC and contact details at signup.",
+    "url": "https://www.fleetworks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Even with a truck in hand, brokers are spending time navigating various pricing, capacity, and internal tools to book a load.",
+    "url": "https://www.fleetworks.ai/partners/sonar",
+    "pass": 1
+   },
+   {
+    "quote": "With FleetWorks + SONAR, we're enabling brokers and carriers to close the loop faster than the competition. The right rate gets finalized faster, a known and vetted carrier is chosen, and the load moves more seamlessly. People can get back to building relationships and solving complex problems.",
+    "url": "https://www.fleetworks.ai/partners/sonar",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time market insight improves outcomes",
+    "url": "https://www.fleetworks.ai/partners/sonar",
+    "pass": 1
+   },
+   {
+    "quote": "Negotiation works with SONAR's lane-level spot rate and market indices to inform a competitive bookable price. SONAR's data is then compared to the broker's configured min/max guardrails. FleetWorks agents share with carriers what the market looks like in real time, so everyone spends less time on bids that won't win.",
+    "url": "https://www.fleetworks.ai/partners/sonar",
+    "pass": 1
+   },
+   {
+    "quote": "If conditions fall outside of a broker's configured rules, we hand the conversation directly to the assigned carrier rep. Escalations include conversation history, and the SONAR context is already attached. This process keeps human teams available to do the most impactful work for their business.",
+    "url": "https://www.fleetworks.ai/partners/sonar",
+    "pass": 1
+   },
+   {
+    "quote": "Protecting brokers post Montgomery",
+    "url": "https://www.fleetworks.ai/partners/sonar",
+    "pass": 1
+   },
+   {
+    "quote": "Every AI decision leaves an audit trail. Carrier vetting decisions, pricing decisions, and carrier quality are recorded within the conversation. For brokers bullet-proofing compliance workflows, this ensures every decision is recorded and justified.",
+    "url": "https://www.fleetworks.ai/partners/sonar",
+    "pass": 1
+   },
+   {
+    "quote": "Booking a single truckload of freight can require over a hundred phone calls and emails. Every day, trucking companies and freight brokers waste millions of hours clarifying details, negotiating prices, and waiting on hold.",
+    "url": "https://www.fleetworks.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "We're a team of technologists and operators who are using AI to build at 10x speed. We've previously been a part of category-defining companies including",
+    "url": "https://www.fleetworks.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Quang was previously an engineer at Airbnb, where he rebuilt Airbnb's architecture to support long term and flexible stays. Quang graduated from Carleton College with a degree in Computer Science. When he's not designing systems or refining AI models, Quang enjoys honing his skills at the poker table.",
+    "url": "https://www.fleetworks.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "運送会社の配車担当者に、貨物輸送業務を代行するAI workforceを提供する",
+    "url": "https://ycpedia.com/companies/fleetworks",
+    "pass": 3
+   },
+   {
+    "quote": "FleetWorks believe there's a better way. Carriers deserve an always-on dispatcher that works as hard as they do. Brokers need an always-on carrier rep that understands the nuances of providing great service. AI is changing how freight moves — creating more opportunity for everyone involved.",
+    "url": "https://www.casestudies.com/customer/fleetworks",
+    "pass": 3
+   },
+   {
+    "quote": "Read 8 FleetWorks reviews and testimonials from customers, explore case studies and customer success stories, and watch customer videos to see why companies chose FleetWorks as their Logistics Software",
+    "url": "https://www.featuredcustomers.com/vendor/fleetworks",
+    "pass": 3
+   },
+   {
+    "quote": "FleetWorks believe there's a better way. Carriers deserve an always-on dispatcher that works as hard as they do. Brokers need an always-on carrier rep that understands the nuances of providing great service. AI is changing how freight moves — creating more opportunity for everyone involved.",
+    "url": "https://www.featuredcustomers.com/vendor/fleetworks",
+    "pass": 3
+   },
+   {
+    "quote": "\"FleetWorks is the first AI company that really understands how freight works. They've built the first dispatcher that's available for you 24/7. You can find loads at 4am, on weekends, …",
+    "url": "https://www.featuredcustomers.com/vendor/fleetworks",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Video",
+    "url": "https://www.featuredcustomers.com/vendor/fleetworks",
+    "pass": 3
+   },
+   {
+    "quote": "Let potential prospects find you on the world's only",
+    "url": "https://www.featuredcustomers.com/vendor/fleetworks",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/fleetworks",
+    "pass": 3
+   },
+   {
+    "quote": "FREE and learn about our upgraded profile options to",
+    "url": "https://www.featuredcustomers.com/vendor/fleetworks",
+    "pass": 3
+   },
+   {
+    "quote": "unlock all of your customer references for prospects",
+    "url": "https://www.featuredcustomers.com/vendor/fleetworks",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/fleetworks",
+    "pass": 3
+   },
+   {
+    "quote": "Fleetworks chose Vapi for its API-first approach, the ability to bring custom transcription and LLM models, and natural interruption handling. Vapi's team worked with Fleetworks to fine-tune mid-sentence interruption handling.",
+    "url": "https://www.casestudydesk.com/case-study/fleetworks-vapi-100-engineering-hours",
+    "pass": 3
+   },
+   {
+    "quote": "Vapi reports 100+ engineering hours saved per month with voice infrastructure work eliminated, and 10,000+ AI-driven transportation conversations handled daily at enterprise scale. These figures are quoted from Vapi's Fleetworks customer page and dated to that public source.",
+    "url": "https://www.casestudydesk.com/case-study/fleetworks-vapi-100-engineering-hours",
+    "pass": 3
+   },
+   {
+    "quote": "FleetWorks 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/534574-54",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/534574-54",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/534574-54",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/534574-54",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/534574-54",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/534574-54",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/534574-54",
+    "pass": 3
+   },
+   {
+    "quote": "FleetWorks’s primary industry is Business/Productivity Software.",
+    "url": "https://pitchbook.com/profiles/company/534574-54",
+    "pass": 3
+   },
+   {
+    "quote": "Is FleetWorks a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/534574-54",
+    "pass": 3
+   },
+   {
+    "quote": "FleetWorks is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/534574-54",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/534574-54",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/534574-54",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/534574-54",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/fleetworks-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Programming languages",
+    "url": "https://prospeo.io/c/fleetworks-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "FleetWorks has approximately",
+    "url": "https://prospeo.io/c/fleetworks-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/fleetworks-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/fleetworks-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/fleetworks-revenue",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "FleetWorks | AI-Powered Freight Automation for Carriers & Brokers",
+    "url": "https://www.fleetworks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "At connected brokers, Sofia puts your bid straight into their system and their carrier desk approves it in Teams. Everywhere else, she calls and negotiates for you.",
+    "url": "https://www.fleetworks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Broker's carrier desk pinged in Teams",
+    "url": "https://www.fleetworks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Approved by the broker's carrier desk",
+    "url": "https://www.fleetworks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Offer texted to the carrier",
+    "url": "https://www.fleetworks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Rate con sent to the carrier's email. Check-in set for 1:00 PM.",
+    "url": "https://www.fleetworks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "carriers on FleetWorks",
+    "url": "https://www.fleetworks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Offers arrive by text with the rate, miles, and pickup window. Reply to accept, counter, or pass.",
+    "url": "https://www.fleetworks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. FleetWorks is free for carriers during Early Access. When paid plans launch, you'll get at least 30 days' notice.",
+    "url": "https://www.fleetworks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "FleetWorks works with carriers from one truck to 5,000. Whether you run your business out of Gmail, Google Sheets, or a full TMS, we integrate seamlessly with your existing workflow.",
+    "url": "https://www.fleetworks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Every carrier on our platform gets a dedicated U.S.-based relationship manager. If you have questions or need extra help, we're always here for you. Call or text us at +1 (872) 328-5278 or email us at carrier-ops@fleetworks.ai any time.",
+    "url": "https://www.fleetworks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "With FleetWorks + SONAR, we're enabling brokers and carriers to close the loop faster than the competition. The right rate gets finalized faster, a known and vetted carrier is chosen, and the load moves more seamlessly. People can get back to building relationships and solving complex problems.",
+    "url": "https://www.fleetworks.ai/partners/sonar",
+    "pass": 1
+   },
+   {
+    "quote": "FleetWorks knows where carriers want to go. SONAR knows what the market is doing. Brokers know what needs to get moving and how to fix critical issues. Together, we are creating a new way of doing business, informing both ends with industry-leading, real-time market data.",
+    "url": "https://www.fleetworks.ai/partners/sonar",
+    "pass": 1
+   },
+   {
+    "quote": "When a load becomes available in the broker's TMS, FleetWorks AI agents get to work. In this tight market our agents handle inbound carrier calls and emails. With 29,000+ carriers actively covering their trucks on FleetWorks, our agents also know which carrier is most likely to cover the load. By default, every carrier is vetted against a broker's rules first.",
+    "url": "https://www.fleetworks.ai/partners/sonar",
+    "pass": 1
+   },
+   {
+    "quote": "Negotiation works with SONAR's lane-level spot rate and market indices to inform a competitive bookable price. SONAR's data is then compared to the broker's configured min/max guardrails. FleetWorks agents share with carriers what the market looks like in real time, so everyone spends less time on bids that won't win.",
+    "url": "https://www.fleetworks.ai/partners/sonar",
+    "pass": 1
+   },
+   {
+    "quote": "If conditions fall outside of a broker's configured rules, we hand the conversation directly to the assigned carrier rep. Escalations include conversation history, and the SONAR context is already attached. This process keeps human teams available to do the most impactful work for their business.",
+    "url": "https://www.fleetworks.ai/partners/sonar",
+    "pass": 1
+   },
+   {
+    "quote": "Every AI decision leaves an audit trail. Carrier vetting decisions, pricing decisions, and carrier quality are recorded within the conversation. For brokers bullet-proofing compliance workflows, this ensures every decision is recorded and justified.",
+    "url": "https://www.fleetworks.ai/partners/sonar",
+    "pass": 1
+   },
+   {
+    "quote": "FleetWorks | Loadboard on autopilot for Brokers & Carriers",
+    "url": "https://www.fleetworks.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "We're a team of technologists and operators who are using AI to build at 10x speed. We've previously been a part of category-defining companies including",
+    "url": "https://www.fleetworks.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Before founding FleetWorks, Paul led the Carrier Quality Team at Uber Freight, where he discovered his passion for creating tools that empower carriers and brokers to succeed. Paul holds a degree in Economics from Yale University. Outside of work, he's an avid marathon runner and is often chasing his next finish line or a new restaurant find.",
+    "url": "https://www.fleetworks.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "FleetWorks believe there's a better way. Carriers deserve an always-on dispatcher that works as hard as they do. Brokers need an always-on carrier rep that understands the nuances of providing great service. AI is changing how freight moves — creating more opportunity for everyone involved.",
+    "url": "https://www.casestudies.com/customer/fleetworks",
+    "pass": 3
+   },
+   {
+    "quote": "FleetWorks believe there's a better way. Carriers deserve an always-on dispatcher that works as hard as they do. Brokers need an always-on carrier rep that understands the nuances of providing great service. AI is changing how freight moves — creating more opportunity for everyone involved.",
+    "url": "https://www.featuredcustomers.com/vendor/fleetworks",
+    "pass": 3
+   },
+   {
+    "quote": "\"The FleetWorks Always On Carrier Rep has become a seamless extension of our team, consistently negotiating better outcomes and filtering out noise by screening calls from unqualified carriers. We've seen …",
+    "url": "https://www.featuredcustomers.com/vendor/fleetworks",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/fleetworks",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an agentic freight marketplace designed to connect freight brokers with U.S. trucking carriers for load discovery, booking, and post-booking management.",
+    "url": "https://pitchbook.com/profiles/company/534574-54",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/534574-54",
+    "pass": 3
+   },
+   {
+    "quote": "FleetWorks has 31 total employees.",
+    "url": "https://pitchbook.com/profiles/company/534574-54",
+    "pass": 3
+   },
+   {
+    "quote": "What is FleetWorks’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/534574-54",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for FleetWorks is",
+    "url": "https://pitchbook.com/profiles/company/534574-54",
+    "pass": 3
+   },
+   {
+    "quote": "FleetWorks Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/fleetworks-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At FleetWorks",
+    "url": "https://prospeo.io/c/fleetworks-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/fleetworks-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/fleetworks-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/fleetworks-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of FleetWorks?",
+    "url": "https://prospeo.io/c/fleetworks-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "FleetWorks generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/fleetworks-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/fleetworks-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/fleetworks-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does FleetWorks have?",
+    "url": "https://prospeo.io/c/fleetworks-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/fleetworks-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Done, it's booked. The rate con from the broker is in your email.",
+    "url": "https://www.fleetworks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Rate con sent to the carrier's email. Check-in set for 1:00 PM.",
+    "url": "https://www.fleetworks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "When the broker says yes, the load is booked and the rate con lands in your email.",
+    "url": "https://www.fleetworks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "If a broker goes quiet, she follows up by email, text, or phone until you get a yes or a no.",
+    "url": "https://www.fleetworks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Every carrier on our platform gets a dedicated U.S.-based relationship manager. If you have questions or need extra help, we're always here for you. Call or text us at +1 (872) 328-5278 or email us at carrier-ops@fleetworks.ai any time.",
+    "url": "https://www.fleetworks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "When a load becomes available in the broker's TMS, FleetWorks AI agents get to work. In this tight market our agents handle inbound carrier calls and emails. With 29,000+ carriers actively covering their trucks on FleetWorks, our agents also know which carrier is most likely to cover the load. By default, every carrier is vetted against a broker's rules first.",
+    "url": "https://www.fleetworks.ai/partners/sonar",
+    "pass": 1
+   },
+   {
+    "quote": "Booking a single truckload of freight can require over a hundred phone calls and emails. Every day, trucking companies and freight brokers waste millions of hours clarifying details, negotiating prices, and waiting on hold.",
+    "url": "https://www.fleetworks.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/fleetworks",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/fleetworks",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/534574-54",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/fleetworks-revenue",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "We're a team of technologists and operators who are using AI to build at 10x speed. We've previously been a part of category-defining companies including",
+    "url": "https://www.fleetworks.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading investors",
+    "url": "https://www.fleetworks.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Success Stories about Software and Services used by FleetWorks",
+    "url": "https://www.casestudies.com/customer/fleetworks",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Fleetworks saves 100+ engineering hours per month with Vapi | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/vapi/case-study/933-fleetworks-saves-100-engineering-hours-per-month-with-vapi",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Fleetworks saves 100+ engineering hours per month with Vapi",
+    "url": "https://www.casestudies.com/company/vapi/case-study/933-fleetworks-saves-100-engineering-hours-per-month-with-vapi",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/vapi/case-study/933-fleetworks-saves-100-engineering-hours-per-month-with-vapi",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/vapi/case-study/933-fleetworks-saves-100-engineering-hours-per-month-with-vapi",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/fleetworks",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Fleetworks reclaims 100+ engineering hours a month with Vapi · Case Study Desk",
+    "url": "https://www.casestudydesk.com/case-study/fleetworks-vapi-100-engineering-hours",
+    "pass": 3
+   },
+   {
+    "quote": "Sourced & dated by Case Study Desk",
+    "url": "https://www.casestudydesk.com/case-study/fleetworks-vapi-100-engineering-hours",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "車両・運行管理システムのOEM提供｜フリートDX｜FLEETWORKS",
+    "url": "https://www.fleetworks.jp/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "FleetWorks フリートワークスとは トラックの荷物探しと運賃交渉のAI｜使い方・料金・日本語対応",
+    "url": "https://eeai.tv/tools/fleetworks",
+    "pass": 3
+   },
+   {
+    "quote": "FleetWorksの日本語対応は確認できていません",
+    "url": "https://eeai.tv/tools/fleetworks",
+    "pass": 3
+   },
+   {
+    "quote": "YC の会社ページに本人が掲載している情報（日本語訳は AI 翻訳",
+    "url": "https://ycpedia.com/companies/fleetworks",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、株式会社モーションが提供を開始した、SaaS型の車両管理システム「FLEETWORKS(フリートワークス)」について紹介しています",
+    "url": "https://iotbiz.jp/y7vcdtpgy/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社モーションは、社用車運用の最適化・コスト削減を実現するSaaS型の車両管理システム「FLEETWORKS(フリートワークス)」を開発し、β版の無料提供を開始されました",
+    "url": "https://iotbiz.jp/y7vcdtpgy/",
+    "pass": 3
+   },
+   {
+    "quote": "IoTBiz編集部は、京都の通信事業者・株式会社CoeNovaが運営するIoT・通信・AI専門メディアの編集チームです",
+    "url": "https://iotbiz.jp/y7vcdtpgy/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "車両・運行管理システムのOEM提供｜フリートDX｜FLEETWORKS — 他システムと連携ではなく、どちらも弊社が提供するシステムのため、ご要望に合わせた柔軟なカスタマイズが可能であり、「FLEETWORKS」ともストレスなく連携することが可能です。",
+    "url": "https://www.fleetworks.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "FleetWorks（フリートワークス）とは？トラックの荷物探しと運賃交渉... — FleetWorksとは アメリカの運送会社やドライバー向けのAIで、走る区間と車両を登録すると、代わりにブローカーへ電話して運賃を交渉し、条件の決まった仕事を届けます。",
+    "url": "https://eeai.tv/tools/fleetworks",
+    "pass": 3
+   },
+   {
+    "quote": "FleetWorks | YCpedia — FleetWorksはこの状況を変える。 現在の混沌としたfreight marketを、現代的でインテリジェントなmarketplaceへと変革する。 AI agentsが無数の電話、テキストメッセージ、メールに代わり、仕事とトラックを瞬時にマッチングする。",
+    "url": "https://ycpedia.com/companies/fleetworks",
+    "pass": 3
+   },
+   {
+    "quote": "【モーション】SaaS型の車両管理システム「FLEETWORKS(フリートワーク... — Dec 21, 2023 · 株式会社モーションは、社用車運用の最適化・コスト削減を実現するSaaS型の車両管理システム「FLEETWORKS (フリートワークス)」を開発し、β版の無料提供を開始されました。 FLEETWORKSは、社用車など事業用車両を保有されている法人向けのサービスです。",
+    "url": "https://iotbiz.jp/y7vcdtpgy/",
+    "pass": 3
+   },
+   {
+    "quote": "FleetWorks | 貨物仲介自動化のためのAI搭載運送業者担当者 - ToolMag... — FleetWorksで貨物仲介業務を自動化しましょう。 当社のAI運送業者担当者が24時間365日、運送業者を審査し、料金を交渉し、コミュニケーションを処理して、時間とコストを節約します。 あなたの仲介業務を自動操縦モードに設定してください。",
+    "url": "https://www.toolmage.com/ja/tool/fleetworks/",
+    "pass": 3
+   },
+   {
+    "quote": "FleetWorks | AI-Powered Freight Automation for Carriers & Brokers — FleetWorks uses AI to automate freight matching, carrier communication, and load booking. Join thousands of drivers finding high-paying loads faster.",
+    "url": "https://www.fleetworks.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ｜FLEETWORKS｜フリートワークス — FLEETWORKS（フリートワークス）のお問い合わせページです。 まずはお気軽にお問い合わせください。",
+    "url": "https://www.fleetworks.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "www.fleetworks.ai — www.fleetworks.ai",
+    "url": "https://www.fleetworks.ai/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How FleetWorks Uses Software & Services — Explore case studies featuring FleetWorks as the customer — learn how vendors and partners helped FleetWorks solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/fleetworks",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Fleetworks saves 100+ engineering hours per month ... — Fleetworks, an AI agent builder for the transportation industry, faced a significant challenge when no suitable voice infrastructure existed for their needs, forcing them to build from scratch.",
+    "url": "https://www.casestudies.com/company/vapi/case-study/933-fleetworks-saves-100-engineering-hours-per-month-with-vapi",
+    "pass": 3
+   },
+   {
+    "quote": "8 FleetWorks Customer Reviews & References | FeaturedCustomers — Read 8 FleetWorks reviews and testimonials from customers, explore case studies and customer success stories, and watch customer videos to see why companies chose FleetWorks as their Logistics Software",
+    "url": "https://www.featuredcustomers.com/vendor/fleetworks",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Fleetworks reclaims 100+ engineering hours a ... — Jul 30, 2026 · Fleetworks chose Vapi for its API-first approach, the ability to bring custom transcription and LLM models, and natural interruption handling. Vapi's team worked with Fleetworks to fine-tune mid-sentence interruption handling.",
+    "url": "https://www.casestudydesk.com/case-study/fleetworks-vapi-100-engineering-hours",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study - Discover How a Vehicle Rental ... - Fleetworks — David works for Fleetworks on the engineering side of the business and writes about PCN handling in a fleet environment from a technical and practical point of view.",
+    "url": "https://www.fleetworks.co/post/rental-company-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "FleetWorks 2026 Company Profile: Valuation, Funding ...FleetWorks - 2026 Company Profile, Team, Funding ... - TracxnFleetWorks - 2026 Company Profile, Funding & Investors | The ...FleetWorks Revenue, Funding & Valuation - prospeo.ioFleetWorks (Business/Productivity Software) 2026 Company ...FleetWorks Revenue 2024: $4.4M Est. ARR - getlatka.comFleetWorks - Overview, News & Similar companies | Zoom",
+    "url": "https://pitchbook.com/profiles/company/534574-54",
+    "pass": 3
+   },
+   {
+    "quote": "FleetWorks - 2026 Company Profile, Team, Funding ... - Tracxn — Mar 7, 2026 · Explore FleetWorks' in-depth company profile, including funding details, key investors, leadership, and competitors.",
+    "url": "https://tracxn.com/d/companies/fleetworks/__VRRo0SD4cOwaZluiMJ2-iuc6rHbag9HFkSswSxTQlgg",
+    "pass": 3
+   },
+   {
+    "quote": "FleetWorks - 2026 Company Profile, Funding & Investors | The ... — FleetWorks was founded in 2023 and is headquartered in New York, United States. Operations focus on the freight and logistics sector, where an AI-enabled autopilot application is developed for brokerages, forwarders, and teams.",
+    "url": "https://www.thecompanycheck.com/company/b/fleetworks/ly6t2xc3wvgysjoef",
+    "pass": 3
+   },
+   {
+    "quote": "FleetWorks Revenue, Funding & Valuation - prospeo.io — What are the revenues of FleetWorks? FleetWorks generates an estimated annual revenue of $1,711,100. This revenue figure reflects the company's market position and business performance in its industry. What is the valuation of FleetWorks? FleetWorks has an estimated valuation of $5,500,000.",
+    "url": "https://prospeo.io/c/fleetworks-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "FleetWorks (Business/Productivity Software) 2026 Company ...FleetWorks Revenue 2024: $4.4M Est. ARR - getlatka.comFleetWorks - Overview, News & Similar companies | ZoomInfo.com — Nov 3, 2022 · Information on valuation, funding, cap tables, investors, and executives for FleetWorks (Business/Productivity Software). Use the PitchBook Platform to explore the full profile. Aug 10, 2026 · As of 2024, Fl",
+    "url": "https://pitchbook.com/profiles/company/533294-02",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "2025.10.14 注目の海外スタートアップの資金調達3選｜SecondWave Oct 15, 2025 · 2-1. 事業モデルと調達内容 FleetWorks は、中小のトラック運送会社と貨物をAIを使って迅速にマッチングするマーケットプレイスを開発しています。 創業者 Paul Singerは、Uber Freightのプロダクト責任者を務めた後、このビジネスを立ち上げています。",
+    "url": "https://note.com/startup_now0708/n/n6f9e5d59bc0c",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "2025.10.14 注目の海外スタートアップの資金調達3選｜SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/n6f9e5d59bc0c",
+    "pass": 3
+   },
+   {
+    "quote": "2025.10.14 注目の海外スタートアップの資金調達3選",
+    "url": "https://note.com/startup_now0708/n/n6f9e5d59bc0c",
+    "pass": 3
+   },
+   {
+    "quote": "SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/n6f9e5d59bc0c",
+    "pass": 3
+   },
+   {
+    "quote": "近年、AI（人工知能）や自動化技術は単なる話題性を超え、スタートアップ資金調達の最前線を形成しています。特に、従来の“インターネット＋アルゴリズム”を越えて、実世界データや物理プロセスと統合する領域（サイエンス、物流、Web運営など）でのチャレンジが増加しています。本稿では、直近発表された三つの資金調達を題材に、これら領域における投資の傾向を整理しつつ、今後の見通しを探ります。",
+    "url": "https://note.com/startup_now0708/n/n6f9e5d59bc0c",
+    "pass": 3
+   },
+   {
+    "quote": "1. Lila Sciencesにおける「実験をAIで自動化」への挑戦",
+    "url": "https://note.com/startup_now0708/n/n6f9e5d59bc0c",
+    "pass": 3
+   },
+   {
+    "quote": "は、AIモデルとロボット実験施設を組み合わせた「科学実験自動化」プラットフォームを標榜しています。今回、シリーズAの延長ラウンドで1.15億ドルを調達し、評価額を13億ドル超に押し上げました。投資家には Nvidia のベンチャー部門も名を連ねています。",
+    "url": "https://note.com/startup_now0708/n/n6f9e5d59bc0c",
+    "pass": 3
+   },
+   {
+    "quote": "このラウンドにより、LilaのシリーズA総額は3.5億ドル、累計調達額は 5.5 億ドルに達したとのことです。",
+    "url": "https://note.com/startup_now0708/n/n6f9e5d59bc0c",
+    "pass": 3
+   },
+   {
+    "quote": "この種のスタートアップが注目される理由には、以下の点が挙げられます：",
+    "url": "https://note.com/startup_now0708/n/n6f9e5d59bc0c",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Fleetworks (@fleetworks) / X Sep 18, 2017 fb.me/7UGd3rhXh Fleetworks @fleetworks Sep 1, 2017 Breaking in some new talent 1",
+    "url": "https://x.com/fleetworks",
+    "pass": 3
+   },
+   {
+    "quote": "Fleetworks Inc (@Fleetworks_Inc) / Posts / X Fleetworks Inc (@Fleetworks_Inc) - Posts - One-stop-shop for all of your truck’s repairs and maintenance needs. Preventative Maintenance, BIT/D... | X (formerly Twitter)",
+    "url": "https://x.com/Fleetworks_Inc",
+    "pass": 3
+   },
+   {
+    "quote": "FleetWorks (@fleetworks_us) / Posts / X fleetworks_us Location: Lexington KY USA Website: http://www.fleetworks.us Joined: Oct 4, 2016 1381Posts 142Following 80Followers",
+    "url": "https://x.com/fleetworks_us",
+    "pass": 3
+   },
+   {
+    "quote": "Fleetworks Inc (@Fleetworks_Inc) on X Fleetworks Inc (@Fleetworks_Inc). Fleetworks IncFleetworks_Inc May 19 💬0 🔄0 🤍0 0 📎",
+    "url": "https://x.com/Fleetworks_Inc/status/997931979260608512",
+    "pass": 3
+   },
+   {
+    "quote": "Fleetworks (@fleetworks) / X @fleetworks Sep 18, 2017 fb.me/7UGd3rhXh Fleetworks @fleetworks Sep 1, 2017 Breaking in some new talent",
+    "url": "https://x.com/fleetworks",
+    "pass": 3
+   },
+   {
+    "quote": "FleetWorks (@fleetworks_us) / Posts / X Oct 4, 2016 · fleetworks_us Location: Lexington KY USA Website: http://www.fleetworks.us Joined: Oct 4, 2016 1381Posts 142Following 80Followers",
+    "url": "https://x.com/fleetworks_us",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "FleetWorks - LinkedIn FleetWorks is a voice-first AI logistics assistant that automates the manual work slows down brokers and carriers. We're funded by insightful investors including First Round Capital, Saga...",
+    "url": "https://www.linkedin.com/company/fleetworksai",
+    "pass": 3
+   },
+   {
+    "quote": "FLEETWORKS INC. - LinkedIn Fleetworks, Inc. services hundreds of customers throughout the Southern California region. Our excellent and experienced crew of professionals specializes in truck, trailer, and equipment...",
+    "url": "https://www.linkedin.com/company/fleetworks-inc-",
+    "pass": 3
+   },
+   {
+    "quote": "Thomas Fleet - Owner at Fleetworks Engineering | LinkedInfleetworks - LinkedInThe Fleetworks Software Company - LinkedInPaul Singer - Co-Founder / CEO @ FleetWorks - LinkedInQuang Tran - FleetWorks (YC S23) | LinkedIn Owner at Fleetworks Engineering · Experience: FLEETWORKS ENGINEERING · Education: Cambridge Regional College · Location: Thetford · 224 connections on LinkedIn. View Thomas Fleet’s p",
+    "url": "https://uk.linkedin.com/in/thomas-fleet-9005b1119",
+    "pass": 3
+   },
+   {
+    "quote": "fleetworks - LinkedIn IT Services and IT Consulting About us Website http://fleetworks.co.nz External link for fleetworks Industry IT Services and IT Consulting",
+    "url": "https://www.linkedin.com/company/fleetworks",
+    "pass": 3
+   },
+   {
+    "quote": "Paul Singer - Co-Founder / CEO @ FleetWorks - LinkedInPaul Singer - Cofounder & CEO of FleetWorksPaul Singer - Speaker Bio - FreightWaves EventsFleetWorks | YCpediaFleetWorks - LinkedInFreight’s $17M AI Dispatcher | FreightCaviarFleetWorks: AI enabled marketplace matching trucks with jobs ... Co-Founder / CEO @ FleetWorks | Former Product @ Uber Freight | Yale alum · Experience: FleetWorks · Educa",
+    "url": "https://www.linkedin.com/in/paul-singer",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "FleetWorks - FacebookFleetworks INC | Santa Fe Springs CA - FacebookFleetworks Trailer and Body - FacebookSunstate Fleetworks | Geneva FL - FacebookFleetworks, llc | Hanson MA - FacebookFleetworks Inc | Santa Fe Springs CA - FacebookFleetworks - Our experienced team and state-of-the-art ... Sep 28, 2026 · 2. Email the logo to Customer Support (fw@fleetworks. us). Vector files like Adobe .ai or .ep",
+    "url": "https://www.facebook.com/FleetWorks.us/",
+    "pass": 3
+   },
+   {
+    "quote": "Fleetworks INC | Santa Fe Springs CA - FacebookFleetworks Trailer and Body - FacebookSunstate Fleetworks | Geneva FL - FacebookFleetworks, llc | Hanson MA - FacebookFleetworks Inc | Santa Fe Springs CA - FacebookFleetworks - Our experienced team and state-of-the-art ... Mar 15, 2024 · When you choose Fleetworks Inc., you're choosing a partner committed to your success. From our knowledgeable team ",
+    "url": "https://www.facebook.com/fleetworksinc/",
+    "pass": 3
+   },
+   {
+    "quote": "Fleetworks Trailer and Body - Facebook Sep 9, 2022 · Fleetworks Trailer and Body. 5,036 likes. We are a full service trailer and truck body repair and service shop specializing in welding repair, tarps,...",
+    "url": "https://www.facebook.com/FleetworksRepairs/",
+    "pass": 3
+   },
+   {
+    "quote": "Sunstate Fleetworks | Geneva FL - Facebook Mar 27, 2026 · Whether it’s scheduled maintenance or an unexpected breakdown, Sunstate Fleetworks brings expert diagnostics and repair directly to your jobsite — saving you downtime and keeping your projects on track.",
+    "url": "https://www.facebook.com/p/Sunstate-Fleetworks-61552420982652/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.fleetworks.ai/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.fleetworks.ai/partners/sonar",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.fleetworks.ai/about",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.fleetworks.ai/shared-assets/logos/new-logo.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.fleetworks.ai/partners/fleetworks-logo-white.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.fleetworks.ai/_next/image?url=%2Fabout%2Flfx-logo.png&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.fleetworks.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eeai.tv/tools/fleetworks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ycpedia.com/companies/fleetworks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iotbiz.jp/y7vcdtpgy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E9%BB%92%E7%94%B0%E6%AD%A6%E5%BF%97",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flukenetworks.com/TFF",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fleetworks.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fleetworks.ai/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.fleetworks.jp/contact/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ycpedia.com/companies/fleetworks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/fleetworks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/vapi/case-study/933-fleetworks-saves-100-engineering-hours-per-month-with-vapi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/fleetworks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudydesk.com/case-study/fleetworks-vapi-100-engineering-hours",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/534574-54",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/fleetworks/__VRRo0SD4cOwaZluiMJ2-iuc6rHbag9HFkSswSxTQlgg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/fleetworks/ly6t2xc3wvgysjoef",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/fleetworks-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/startup_now0708/n/n6f9e5d59bc0c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/fleetworks",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Fleetworks_Inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fleetworks_us",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Fleetworks_Inc/status/997931979260608512",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/fleetworksai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/fleetworks-inc-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/thomas-fleet-9005b1119",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/fleetworks",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/FleetWorks.us/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fleetworksinc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/FleetworksRepairs/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Sunstate-Fleetworks-61552420982652/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/paul-singer",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/fleetworksai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fleetworks",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fleetworks_us",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Fleetworks 日本 導入",
+   "results": [
+    "https://www.fleetworks.jp/",
+    "https://eeai.tv/tools/fleetworks",
+    "https://ycpedia.com/companies/fleetworks",
+    "https://iotbiz.jp/y7vcdtpgy/",
+    "https://www.toolmage.com/ja/tool/fleetworks/",
+    "https://www.motion.co.jp/news/article/231207.html",
+    "https://prtimes.jp/main/html/rd/p/000000017.000031030.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fleetworks 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/黒田武志",
+    "https://www.flukenetworks.com/TFF",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fleetworks Japan",
+   "results": [
+    "https://www.fleetworks.jp/",
+    "https://www.fleetworks.ai/",
+    "https://www.fleetworks.jp/contact/",
+    "https://ycpedia.com/companies/fleetworks",
+    "https://www.fleetworks.ai/jobs",
+    "https://marketplace.microsoft.com/ja-jp/product/fleetworks.fleetworks1",
+    "https://www.motion.co.jp/news/article/231207.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fleetworks manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/customer/fleetworks",
+    "https://www.casestudies.com/company/vapi/case-study/933-fleetworks-saves-100-engineering-hours-per-month-with-vapi",
+    "https://www.featuredcustomers.com/vendor/fleetworks",
+    "https://www.casestudydesk.com/case-study/fleetworks-vapi-100-engineering-hours",
+    "https://www.fleetworks.co/post/rental-company-case-study",
+    "https://vapi.ai/customers/fleetworks",
+    "https://www.freightwaves.com/news/how-fleetworks-17m-funding-fuels-ai-dispatcher-innovation"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fleetworks white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.reseller.co.nz/",
+    "https://retailers.bossrevolution.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fleetworks founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/534574-54",
+    "https://tracxn.com/d/companies/fleetworks/__VRRo0SD4cOwaZluiMJ2-iuc6rHbag9HFkSswSxTQlgg",
+    "https://www.thecompanycheck.com/company/b/fleetworks/ly6t2xc3wvgysjoef",
+    "https://prospeo.io/c/fleetworks-revenue",
+    "https://pitchbook.com/profiles/company/533294-02",
+    "https://getlatka.com/companies/fleetworks.ai",
+    "https://www.zoominfo.com/c/fleetworks/458576617"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Fleetworks",
+   "results": [
+    "https://note.com/startup_now0708/n/n6f9e5d59bc0c",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/reading_monkey/n/n808970b87c47",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/natty_toucan386/n/n4c2c2fa6c568",
+    "https://note.com/habibee/n/na96cdca5fc80"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Fleetworks",
+   "results": [
+    "https://x.com/fleetworks",
+    "https://x.com/Fleetworks_Inc",
+    "https://x.com/fleetworks_us",
+    "https://x.com/Fleetworks_Inc/status/997931979260608512",
+    "https://x.com/Fleetworks_Inc/status/998684536597725184",
+    "https://x.com/fleetworkscorp",
+    "https://x.com/fleetworks_us/status/2059273710981296557"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Fleetworks",
+   "results": [
+    "https://www.linkedin.com/company/fleetworksai",
+    "https://www.linkedin.com/company/fleetworks-inc-",
+    "https://uk.linkedin.com/in/thomas-fleet-9005b1119",
+    "https://www.linkedin.com/company/fleetworks",
+    "https://www.linkedin.com/company/the-fleetworks-software-company",
+    "https://www.linkedin.com/in/paul-singer",
+    "https://www.linkedin.com/in/quangtran20"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Fleetworks",
+   "results": [
+    "https://www.facebook.com/FleetWorks.us/",
+    "https://www.facebook.com/fleetworksinc/",
+    "https://www.facebook.com/FleetworksRepairs/",
+    "https://www.facebook.com/p/Sunstate-Fleetworks-61552420982652/",
+    "https://www.facebook.com/p/Fleetworks-llc-100068591972486/",
+    "https://www.facebook.com/p/Fleetworks-Inc-100071181173174/",
+    "https://www.facebook.com/fleetworksinc/photos/our-experienced-team-and-state-of-the-art-facilities-are-equipped-to-handle-all-/710972174527409/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fleetworks note 社長",
+   "results": [
+    "https://www.linkedin.com/in/paul-singer",
+    "https://yespress.io/paul-singer",
+    "https://ycpedia.com/companies/fleetworks",
+    "https://www.linkedin.com/company/fleetworksai",
+    "https://www.ycombinator.com/companies/fleetworks",
+    "https://live.freightwaves.com/event-speakers/paul-singer",
+    "https://www.freightcaviar.com/stories/freights-17m-ai-dispatcher"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fleetworks X 投稿",
+   "results": [
+    "https://x.com/fleetworks",
+    "https://x.com/fleetworks_us",
+    "https://www.fleetworks.ai/",
+    "https://www.1point3acres.com/bbs/thread-1184268-1-1.html",
+    "https://www.fleetworks.ai/login",
+    "https://ycpedia.com/companies/fleetworks",
+    "https://fleetwork.app/Welcome"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式3頁／PDF・画像3件／外部41頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像3件／外部41頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像3件／外部41頁・検索12回）"
+ }
+}

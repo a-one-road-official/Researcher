@@ -1,0 +1,1209 @@
+{
+ "name": "名古屋大学",
+ "aliases": [],
+ "context": "PBF=yes 装置=粉末床溶融結合 出典=https://note.com/nagoya_ura/n/nf2fdc893b5a2",
+ "researched_at": "2026-11-10T17:08:54.629174+00:00",
+ "official_url": "https://www.nagoya-u.ac.jp/",
+ "identified_by": "search:yahoo_jp:名古屋大学",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "T-PRACTISS",
+    "url": "https://www.thers.ac.jp/disclosure/finance/index.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "名古屋大学・岐阜大学の両大学が保有している貴重な学術資源の画像データをご覧いただけます",
+    "url": "https://www.nagoya-u.ac.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "学部の教育体制の面では、1993(平成5)年には教養部を廃止し、翌年から4年一貫教育を導入しました",
+    "url": "https://www.nagoya-u.ac.jp/about-nu/profile/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "東海国立大学機構は、アセットオーナー（資産保有者としての機関投資家）として、アセットオーナーの運用・ガバナンス・リスク管理に係る共通の原則（アセットオーナー・プリンシプル）に賛同し、受け入れることを表明します",
+    "url": "https://www.thers.ac.jp/disclosure/finance/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターで、形も性質もデザインする時代へ（第125回名大カフェレポート）｜名古屋大学学術研究・産学官連携推進本部",
+    "url": "https://note.com/nagoya_ura/n/n84b8fd06dcc4",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターで、形も性質もデザインする時代へ（第125回名大カフェレポート）",
+    "url": "https://note.com/nagoya_ura/n/n84b8fd06dcc4",
+    "pass": 3
+   },
+   {
+    "quote": "で大きな反響があった金属3Dプリンターの「今」を、ゲストの",
+    "url": "https://note.com/nagoya_ura/n/n84b8fd06dcc4",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターとは",
+    "url": "https://note.com/nagoya_ura/n/n84b8fd06dcc4",
+    "pass": 3
+   },
+   {
+    "quote": "まずは、金属3Dプリンターとはどういったものか、その仕組みを鈴木さんに解説してもらいました",
+    "url": "https://note.com/nagoya_ura/n/n84b8fd06dcc4",
+    "pass": 3
+   },
+   {
+    "quote": "鈴木さんが研究で使っているのは、粉末床溶融結合（Powder Bed Fusion, PBF）という方式で、材料の粉を薄く敷いたところに0.1ｍｍくらいの細いレーザーを当て溶かしていく方式なのだとか",
+    "url": "https://note.com/nagoya_ura/n/n84b8fd06dcc4",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター特徴は色々ありますが、一つは「形」です",
+    "url": "https://note.com/nagoya_ura/n/n84b8fd06dcc4",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターなら最初から一体型としてつくったり、中が迷路になっていたり、非常に複雑な形を作れます",
+    "url": "https://note.com/nagoya_ura/n/n84b8fd06dcc4",
+    "pass": 3
+   },
+   {
+    "quote": "PBFの金属3Dプリンターは、家庭用と違って扱うのにコツがいるそうです",
+    "url": "https://note.com/nagoya_ura/n/n84b8fd06dcc4",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターは、簡単にポロンとできるように見えますが、色々調整することがあります",
+    "url": "https://note.com/nagoya_ura/n/n84b8fd06dcc4",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターで作った物を「鍛造」すると、より強度が増すのでしょうか？",
+    "url": "https://note.com/nagoya_ura/n/n84b8fd06dcc4",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターでできた不安定な状態を壊さないよう、できるだけそのまま使うことが望ましいと考えます",
+    "url": "https://note.com/nagoya_ura/n/n84b8fd06dcc4",
+    "pass": 3
+   },
+   {
+    "quote": "髙田さんは、金属3Dプリンターを使い不安定な状態を作り出すことで、軽量・高強度・耐熱性に優れたAl-Fe合金を生み出しました",
+    "url": "https://note.com/nagoya_ura/n/n84b8fd06dcc4",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター裏話",
+    "url": "https://note.com/nagoya_ura/n/n84b8fd06dcc4",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターではどのくらい時間がかかるのでしょう？",
+    "url": "https://note.com/nagoya_ura/n/n84b8fd06dcc4",
+    "pass": 3
+   },
+   {
+    "quote": "PBFの金属3Dプリンターは、一度に沢山、3cm角ならプレートの中で10個くらいを敷き詰めて2、3時間かけて作ります",
+    "url": "https://note.com/nagoya_ura/n/n84b8fd06dcc4",
+    "pass": 3
+   },
+   {
+    "quote": "最後に、事前アンケートを見ながら、参加者の皆さんといっしょに金属3Dプリンターで何ができるのかを考えてみました",
+    "url": "https://note.com/nagoya_ura/n/n84b8fd06dcc4",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターで何をつくる？",
+    "url": "https://note.com/nagoya_ura/n/n84b8fd06dcc4",
+    "pass": 3
+   },
+   {
+    "quote": "：金属3Dプリンターで、形も性質もデザインする時代へ",
+    "url": "https://note.com/nagoya_ura/n/n84b8fd06dcc4",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター",
+    "url": "https://note.com/nagoya_ura/n/n84b8fd06dcc4",
+    "pass": 3
+   },
+   {
+    "quote": "形だけじゃない！金属3Dプリンターが生み出す未来材料 （第112回名大カフェレポート）｜名古屋大学学術研究・産学官連携推進本部",
+    "url": "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "pass": 3
+   },
+   {
+    "quote": "形だけじゃない！金属3Dプリンターが生み出す未来材料 （第112回名大カフェレポート）",
+    "url": "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "pass": 3
+   },
+   {
+    "quote": "今回のテーマは、金属3Dプリンター",
+    "url": "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターって何だろう？",
+    "url": "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "pass": 3
+   },
+   {
+    "quote": "高田さんが使用している金属3Dプリンター（高田さん提供）",
+    "url": "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "pass": 3
+   },
+   {
+    "quote": "アルミの場合、金属3Dプリンターで作った材料の方が普通の方法で作った材料よりも強くなります",
+    "url": "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターで作った材料は、普通の方法で作った材料よりも強度が高い",
+    "url": "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターで作った材料に熱処理をすると、普通の方法で作った材料と同じに強度になって、せっかくの良さを失ってしまいます",
+    "url": "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "pass": 3
+   },
+   {
+    "quote": "普通の金属の場合は、早く引っ張れば強くなって、ゆっくり引っ張れば柔らかくなるのですが、金属3Dプリンターで作った造形物は全く逆で、ゆっくりだと強く、速いと柔らかい、という不思議な性質を持ちます",
+    "url": "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターで作られる未来材料で何を作りたいか、参加者の皆さんのアイデアを聞いてみたいと思います",
+    "url": "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "pass": 3
+   },
+   {
+    "quote": "組み合わせると強度が上がる細かいパーツも、金属3Dプリンターで作れるのでしょうか",
+    "url": "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターは名古屋大学に来てから始めました",
+    "url": "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "pass": 3
+   },
+   {
+    "quote": "これは普通の方法ではできないので、金属3Dプリンターでできるなら面白いね、となったのです",
+    "url": "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターを用いることで、今まで見向きもされなかった元素の組み合わせが、未来材料につながると考えています",
+    "url": "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "pass": 3
+   },
+   {
+    "quote": "自由な「かたち」を作る話が主軸かと思いきや、金属3Dプリンターで造形するだけで、素材そのものの「性質」が変わってしまう衝撃の内容でした",
+    "url": "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター",
+    "url": "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "また、環境やエネルギー問題に限らず、ジェンダー平等の推進や貧困と飢餓の撲滅等のテーマに、文理の壁を越えて長年にわたり取り組み、これらの成果をあらためて社会に発信し、SDGs達成にむけてさらなる貢献をしてゆきたいと思います",
+    "url": "https://www.nagoya-u.ac.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "水力発電の事業会社として1912年に発足したイビデンですが、現在ではなんといっても半導体のパッケージ事業で世界をリードしています",
+    "url": "https://www.nagoya-u.ac.jp/about-nu/president/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "トヨタシステムズは、トヨタグループのIT関係を一手に引き受けている会社で、情報セキュリティの問題が大きくクローズアップしている現在、非常に重要な役割を果たしており、またソフトウェア・ディファインド・ヴィークルという、ソフトが自動車の機能や価値を決めたり制御したりする次世代の自動車の概念を推進している会社でもあります",
+    "url": "https://www.nagoya-u.ac.jp/about-nu/president/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "今までは、自動車は移動の手段だったのが、さまざまな機能がある中に移動も含まれる、といったような変革を目指していると思っています",
+    "url": "https://www.nagoya-u.ac.jp/about-nu/president/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "本日は、昼に名古屋観光ホテルまでいって名古屋ロータリークラブで宇宙について講演をしてきました",
+    "url": "https://www.nagoya-u.ac.jp/about-nu/president/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "途方もない宇宙の話なので、普段は実業家の方々、耳にしない内容だったと思いますが、興味深く聞いていただけたのではないかと思っています",
+    "url": "https://www.nagoya-u.ac.jp/about-nu/president/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "UNC側は、平和・戦争・防衛を学ぶ学科とコンピュータサイエンスの学生が多かったです",
+    "url": "https://www.nagoya-u.ac.jp/about-nu/president/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "名古屋帝国大学は、医学部と理工学部の2学部で発足しましたが、1942(昭和17)年には理工学部を理学部と工学部として分離独立させ、その翌年には航空医学研究所を設置しました",
+    "url": "https://www.nagoya-u.ac.jp/about-nu/profile/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "戦後の民主化と復興の槌音のなか、1945(昭和20)年には航空医学研究所を廃止して環境医学研究所を附置し、1947(昭和22)年10月に名古屋大学(旧制)と改称すると、翌1948(昭和23)年には文学部と法経学部が創設され、名実ともに総合大学となりました",
+    "url": "https://www.nagoya-u.ac.jp/about-nu/profile/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、1961(昭和36)年にプラズマ研究所(現在の大学共同利用機関法人自然科学研究機構核融合科学研究所)、1973(昭和48)年に水圏科学研究所を附置するなど、教育研究組織の拡充も図りました",
+    "url": "https://www.nagoya-u.ac.jp/about-nu/profile/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015(平成27)年には、新制大学設置以来の歴史を持つ太陽地球環境研究所などを統合して、宇宙地球環境研究所が設置されています",
+    "url": "https://www.nagoya-u.ac.jp/about-nu/profile/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "水較科学研究所 廃上(宇宙地球環境研究所へ)",
+    "url": "https://www.nagoya-u.ac.jp/about-nu/upload_images/profile2024enkaku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "右下に行くほど、単位時間あたりに入るレーザーのエネルギー量が大きくなり、金属の粉末が溶けていきます",
+    "url": "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "pass": 3
+   },
+   {
+    "quote": "レーザー照射を繰り返すことで、熱エネルギーが溜まっていかないのでしょうか？",
+    "url": "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "pass": 3
+   },
+   {
+    "quote": "自動車のエンジンには、高温高圧に耐えられる材料が必要です",
+    "url": "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "pass": 3
+   },
+   {
+    "quote": "学部 9,509 修士課程・専門職大学院 3,843 総数 うち附属病院・医療系",
+    "url": "https://www.niad.ac.jp/support/media-download/8387/0434550af4ce6014/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙を学びながら金融経済の教育活動にも挑戦！文理の枠にとらわれず活躍する工学部生",
+    "url": "https://note.com/nagoyauniversity",
+    "pass": 3
+   },
+   {
+    "quote": "ゼロから作り上げた火星探査機で世界大会に挑む、宇宙開発サークル「NAFT」",
+    "url": "https://note.com/nagoyauniversity",
+    "pass": 3
+   },
+   {
+    "quote": "空気より軽い素材が宙に浮く！名大助教が挑む、航空宇宙の常識を覆す材料革命",
+    "url": "https://note.com/nagoyauniversity",
+    "pass": 3
+   },
+   {
+    "quote": "【医療の大きな進歩！】ALS（筋萎縮性側索硬化症）治療に光、名古屋大が細胞内の「隠れた掃除屋」ルートを発見！",
+    "url": "https://note.com/tag/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "防衛省ファンディングが盛り上がってるようだ",
+    "url": "https://note.com/tag/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "「めいだい・りべらるあーつ」vol.8 岩井一正 教授（宇宙地球環境研究所）",
+    "url": "https://note.com/nu_sotugyoumeibo",
+    "pass": 3
+   },
+   {
+    "quote": "異色の掛け算が未来を動かす－宇宙×兄×弟×農業×名大･･･＋α",
+    "url": "https://note.com/nu_sotugyoumeibo",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "財務諸表 - 大学 概要 - 名古屋大学 — 財務諸表 - 大学 概要 - 名古屋大学 名古屋大学 https://www.nagoya-u.ac.jp > cat > financial-affairs",
+    "url": "https://www.nagoya-u.ac.jp/about-nu/cat/financial-affairs/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "大学 概要 - 名古屋大学 — 大学 概要 - 名古屋大学 名古屋大学 https://www.nagoya-u.ac.jp > about-nu",
+    "url": "https://www.nagoya-u.ac.jp/about-nu/",
+    "pass": 3
+   },
+   {
+    "quote": "新手法で 3Dプリンタ 用の素材開発を大きく加速 Al-Fe合金系で ... — 新手法で 3Dプリンタ 用の素材開発を大きく加速 Al-Fe合金系で ... 名古屋大学 https://www.nagoya-u.ac.jp > result > 2025/12 > 3d-al-fe",
+    "url": "https://www.nagoya-u.ac.jp/researchinfo/result/2025/12/3d-al-fe.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター による超硬合金製のセンシング金型の開発 ... — 金属3Dプリンター による超硬合金製のセンシング金型の開発 ... 名古屋大学 https://www.nagoya-u.ac.jp > result > 2022/02 > 3d",
+    "url": "https://www.nagoya-u.ac.jp/researchinfo/result/2022/02/3d.html",
+    "pass": 3
+   },
+   {
+    "quote": "名古屋大学 ｜Nagoya Univ. on X: \" 金属3Dプリンタ は、金属粉 ... — 名古屋大学 ｜Nagoya Univ. on X: \" 金属3Dプリンタ は、金属粉 ... X https://x.com > @NagoyaUniv_info",
+    "url": "https://x.com/NagoyaUniv_info/status/2000841059321225470",
+    "pass": 3
+   },
+   {
+    "quote": "金属 3Dプリンターによる超硬合金製のセンシング金型の開発 ... — 金属 3Dプリンターによる超硬合金製のセンシング金型の開発 ... 名古屋大学 https://www.nagoya-u.ac.jp > result > 2022/02",
+    "url": "https://www.nagoya-u.ac.jp/researchinfo/result/2022/02/3d.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属 3Dプリンタが生み出すアルミニウムの新機能 ～汎用元素 ... — 金属 3Dプリンタが生み出すアルミニウムの新機能 ～汎用元素 ... 名古屋大学 https://www.nagoya-u.ac.jp > result > 2023/04",
+    "url": "https://www.nagoya-u.ac.jp/researchinfo/result/2023/04/3d-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "新手法で3Dプリンタ用の素材開発を大きく加速 Al-Fe合金系で ... — 新手法で3Dプリンタ用の素材開発を大きく加速 Al-Fe合金系で ... 名古屋大学 https://www.nagoya-u.ac.jp > result > 2025/12",
+    "url": "https://www.nagoya-u.ac.jp/researchinfo/result/2025/12/3d-al-fe.html",
+    "pass": 3
+   },
+   {
+    "quote": "本機構初の 出資子会社 Tokai Innovation Instituteの設立について — 本機構初の 出資子会社 Tokai Innovation Instituteの設立について 名古屋大学 https://www.nagoya-u.ac.jp > info > kikou > 20230925_tii",
+    "url": "https://www.nagoya-u.ac.jp/info/kikou/20230925_tii.html",
+    "pass": 3
+   },
+   {
+    "quote": "名古屋大学 など新興ファンド33億円 車など30社投資 — 名古屋大学 など新興ファンド33億円 車など30社投資 日本経済新聞 https://www.nikkei.com > ビジネス > スタートアップ",
+    "url": "https://www.nikkei.com/article/DGXZQOFD122HW0S4A211C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "Contents - 名古屋大学 — Contents - 名古屋大学 名古屋大学 PDF https://www.nagoya-u.ac.jp > upload_images > NU_...",
+    "url": "https://www.nagoya-u.ac.jp/about-nu/upload_images/NU_profile2023_kibonogaiyaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "名古屋大学 — 名古屋大学 niad.ac.jp PDF https://www.niad.ac.jp > support > media-download",
+    "url": "https://www.niad.ac.jp/support/media-download/8387/0434550af4ce6014/",
+    "pass": 3
+   },
+   {
+    "quote": "役員・教職員数 - 名古屋大学 — 役員・教職員数 - 名古屋大学 名古屋大学 PDF https://www.nagoya-u.ac.jp > upload_images > NU_...",
+    "url": "https://www.nagoya-u.ac.jp/about-nu/upload_images/NU_profile2022_yakuin_kyousyokuinsuu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国立大学法人東海国立大学機構（旧: 国立大学法人 名古屋大学 ） — 国立大学法人東海国立大学機構（旧: 国立大学法人 名古屋大学 ） 転職会議 https://jobtalk.jp > 教育業界ランキング",
+    "url": "https://jobtalk.jp/companies/111927",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "鈴木さんが研究で使っているのは、粉末床溶融結合（Powder Bed Fusion, PBF）という方式で、材料の粉を薄く敷いたところに0.1ｍｍくらいの細いレーザーを当て溶かしていく方式なのだとか",
+    "url": "https://note.com/nagoya_ura/n/n84b8fd06dcc4",
+    "pass": 3
+   },
+   {
+    "quote": "アルミニウムに水素化チタンを混ぜて加熱すると、発砲して孔ができます",
+    "url": "https://note.com/nagoya_ura/n/n84b8fd06dcc4",
+    "pass": 3
+   },
+   {
+    "quote": "チタンのように剛性の高い材料でも人の骨により近い弾性を持った構造になるのでしょうか？",
+    "url": "https://note.com/nagoya_ura/n/n84b8fd06dcc4",
+    "pass": 3
+   },
+   {
+    "quote": "レーザーの強さ、スピード、幅、金属の粉末の厚さなど、何をどのくらい調整するのかが結構難しいのです",
+    "url": "https://note.com/nagoya_ura/n/n84b8fd06dcc4",
+    "pass": 3
+   },
+   {
+    "quote": "一般のアルミ合金において、鉄元素は不純物であり、できるだけ排除して高純度のアルミ製品を生成するのが常識だそうです",
+    "url": "https://note.com/nagoya_ura/n/n84b8fd06dcc4",
+    "pass": 3
+   },
+   {
+    "quote": "僕が使っている3Dプリンターは、金属の粉末を敷き詰めて、そこにレーザーを当てて固めています",
+    "url": "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "pass": 3
+   },
+   {
+    "quote": "固まったら、さらにまた粉末を積層しレーザーで固めて、この工程を繰り返し、積み上げていきます",
+    "url": "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "pass": 3
+   },
+   {
+    "quote": "右下に行くほど、単位時間あたりに入るレーザーのエネルギー量が大きくなり、金属の粉末が溶けていきます",
+    "url": "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "pass": 3
+   },
+   {
+    "quote": "あまりドロドロに溶け過ぎてしまうと形を作れなくなりますが、粉末が完全に溶けないままだと造形物に隙間の孔が出来てしまいます",
+    "url": "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "pass": 3
+   },
+   {
+    "quote": "熱伝導率が高いアルミを使っているので、熱が溜まっても200℃くらいです",
+    "url": "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "pass": 3
+   },
+   {
+    "quote": "液体から個体に凝固する温度、アルミだと660℃くらいが重要なので、それ以下の温度の場合は影響を受けないと思います",
+    "url": "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "pass": 3
+   },
+   {
+    "quote": "アルミの場合、金属3Dプリンターで作った材料の方が普通の方法で作った材料よりも強くなります",
+    "url": "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "pass": 3
+   },
+   {
+    "quote": "※アルミニウム合金鋳物については、",
+    "url": "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "pass": 3
+   },
+   {
+    "quote": "アルミ、鉄、ニッケル、銅のレゴとか、面白いかもしれませんね",
+    "url": "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "pass": 3
+   },
+   {
+    "quote": "「どうしてアルミ鉄なんて使えないモノを研究しているんですか」と言われたこともあります",
+    "url": "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "pass": 3
+   },
+   {
+    "quote": "なぜなら、アルミにとって鉄は有害元素なんです",
+    "url": "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "pass": 3
+   },
+   {
+    "quote": "（工学研究科 教授）が「アルミ鉄（の配列）をまっすぐに揃えたい」と口にし、失敗してもいいやという思いで作ってみました",
+    "url": "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "pass": 3
+   },
+   {
+    "quote": "最強のアルミニウムでも100℃くらいでガクンと弱くなってしまう",
+    "url": "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "pass": 3
+   },
+   {
+    "quote": "アルミ鉄マンガンの合金をつくるプロセスの説明",
+    "url": "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "pass": 3
+   },
+   {
+    "quote": "化合物の構造を見ていたところ、アルミ鉄とアルミマンガンが同じ1：6の配列だと気が付きました",
+    "url": "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "pass": 3
+   },
+   {
+    "quote": "非平衡状態で作られたアルミ鉄マンガン合金の元素分布（高田さん提供）",
+    "url": "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "pass": 3
+   },
+   {
+    "quote": "現在は、アルミをベースに原子間の相互作用の力を計算して、どの元素が、液体・固体のどちらと仲良くなるのかをコントロールしながら、合金にする第3、第4、第5の元素を探っています",
+    "url": "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "名古屋大学 WEBマガジン「広報名大」 - note 名古屋大学 WEBマガジン「広報名大」 - note note https://note.com > nagoyauniversity",
+    "url": "https://note.com/nagoyauniversity",
+    "pass": 3
+   },
+   {
+    "quote": "名古屋大学 の人気・新着記事まとめ - note 名古屋大学 の人気・新着記事まとめ - note note https://note.com > tag > 名古屋大学",
+    "url": "https://note.com/tag/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "名古屋大学 学術研究・産学官連携推進本部 - note 名古屋大学 学術研究・産学官連携推進本部 - note note https://note.com > nagoya_ura",
+    "url": "https://note.com/nagoya_ura",
+    "pass": 3
+   },
+   {
+    "quote": "名古屋大学 卒業生向けコンテンツ - note 名古屋大学 卒業生向けコンテンツ - note note https://note.com > nu_sotugyoumeibo",
+    "url": "https://note.com/nu_sotugyoumeibo",
+    "pass": 3
+   },
+   {
+    "quote": "名古屋大学 WEBマガジン「広報 名大 」 - note 名古屋大学 WEBマガジン「広報 名大 」 - note note https://note.com > nagoyauniversity",
+    "url": "https://note.com/nagoyauniversity",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "名古屋大学WEBマガジン「広報名大」｜note",
+    "url": "https://note.com/nagoyauniversity",
+    "pass": 3
+   },
+   {
+    "quote": "記録的豪雨を大学の知で読み解く――9月8日の大雨から考える、都市の水害とこれからの備え",
+    "url": "https://note.com/nagoyauniversity",
+    "pass": 3
+   },
+   {
+    "quote": "未来の名大を担う女性研究者を表彰！「女性研究者トップリーダー顕彰」に2名を選出",
+    "url": "https://note.com/nagoyauniversity",
+    "pass": 3
+   },
+   {
+    "quote": "AI研究を支えるスーパーコンピュータ「不老・弐」の運用開始！",
+    "url": "https://note.com/nagoyauniversity",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ農業の道へ進んだのか？法学部卒、工学研究科の教員を経て新たな道を切り開いた名大OB",
+    "url": "https://note.com/nagoyauniversity",
+    "pass": 3
+   },
+   {
+    "quote": "創立90周年記念募金キャンペーン「Move NExT’90」がスタート――柴田昌治様への感謝状贈呈式を開催",
+    "url": "https://note.com/nagoyauniversity",
+    "pass": 3
+   },
+   {
+    "quote": "理系学部に関心のある女子中高生が集結！理系オープンキャンパス開催",
+    "url": "https://note.com/nagoyauniversity",
+    "pass": 3
+   },
+   {
+    "quote": "日々磨いてきたコントで大学お笑い日本一に輝いた、名大落語研究会の学生たち",
+    "url": "https://note.com/nagoyauniversity",
+    "pass": 3
+   },
+   {
+    "quote": "名古屋大学の人気・新着記事まとめ｜note",
+    "url": "https://note.com/tag/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "旧帝国大学の一つとして、最先端の研究や地域連携、高度な教育を展開しています。",
+    "url": "https://note.com/tag/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "入試対策の過去問解説や合格体験記、研究室の紹介など、受験生や学生による記事が集まっています。",
+    "url": "https://note.com/tag/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "旧帝国大学の一つとして、最先端の研究や地域連携、高度な教育を展開しています。…",
+    "url": "https://note.com/tag/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ勉強するのか？競争に勝つためだけでは、人生を見失う？",
+    "url": "https://note.com/tag/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "Peter.Outside of Japan.",
+    "url": "https://note.com/tag/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "「上手い人」の動きをデータにする。AIとロボットが変える実験の未来",
+    "url": "https://note.com/tag/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "名古屋大学学術研究・産学官連携推進本部｜note",
+    "url": "https://note.com/nagoya_ura",
+    "pass": 3
+   },
+   {
+    "quote": "野球DH制度からスポーツの「データ」を考えてみた～第135回名大カフェ in ホームカミングデイ2026～",
+    "url": "https://note.com/nagoya_ura",
+    "pass": 3
+   },
+   {
+    "quote": "名大URA通信Vol.77 「ノーベル賞研究室で、次の発明の種をゆる〜く探す」",
+    "url": "https://note.com/nagoya_ura",
+    "pass": 3
+   },
+   {
+    "quote": "URA Column 77 | A Nobel Prize Lab Learns to Plant Its Seeds",
+    "url": "https://note.com/nagoya_ura",
+    "pass": 3
+   },
+   {
+    "quote": "「上手い人」の動きをデータにする。AIとロボットが変える実験の未来",
+    "url": "https://note.com/nagoya_ura",
+    "pass": 3
+   },
+   {
+    "quote": "完成図がなくても、細胞の「居場所」は分かる？",
+    "url": "https://note.com/nagoya_ura",
+    "pass": 3
+   },
+   {
+    "quote": "こんなところにあった！肝臓医が見つけた「太りにくさ」のカギ",
+    "url": "https://note.com/nagoya_ura",
+    "pass": 3
+   },
+   {
+    "quote": "第22回名古屋大学ホームカミングデイ開催報告 ～知を楽しみ、未来が楽しみになった一日～",
+    "url": "https://note.com/nu_sotugyoumeibo",
+    "pass": 3
+   },
+   {
+    "quote": "「記憶に残る一瞬をつくる」 プロジェクションマッピングクリエイター仕事の流儀",
+    "url": "https://note.com/nu_sotugyoumeibo",
+    "pass": 3
+   },
+   {
+    "quote": "ホームカミングデイ－あの日の空 つながる未来 ここに集う－",
+    "url": "https://note.com/nu_sotugyoumeibo",
+    "pass": 3
+   },
+   {
+    "quote": "「めいだい・りべらるあーつ」vol.8 岩井一正 教授（宇宙地球環境研究所）",
+    "url": "https://note.com/nu_sotugyoumeibo",
+    "pass": 3
+   },
+   {
+    "quote": "「めいだい・りべらるあーつ」vol.7 竹本大吾 教授（生命農学研究科）",
+    "url": "https://note.com/nu_sotugyoumeibo",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "名古屋大学 ｜Nagoya Univ. (@NagoyaUniv_info) / X 名古屋大学 ｜Nagoya Univ. (@NagoyaUniv_info) / X X https://x.com > NagoyaUniv_info",
+    "url": "https://x.com/NagoyaUniv_info",
+    "pass": 3
+   },
+   {
+    "quote": "名古屋大学 理学部 / Nagoya University: Science - X 名古屋大学 理学部 / Nagoya University: Science - X X https://x.com > NU_GS_Science",
+    "url": "https://x.com/NU_GS_Science",
+    "pass": 3
+   },
+   {
+    "quote": "名古屋大学 博物館 (@NagoyaU_Museum) / X 名古屋大学 博物館 (@NagoyaU_Museum) / X X https://x.com > NagoyaU_Museum",
+    "url": "https://x.com/NagoyaU_Museum",
+    "pass": 3
+   },
+   {
+    "quote": "名古屋大学 高等教育研究センター (@cshe_nagoya_u) / X 名古屋大学 高等教育研究センター (@cshe_nagoya_u) / X X https://x.com > cshe_nagoya_u",
+    "url": "https://x.com/cshe_nagoya_u",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Eldorjon Elmurodov (PhD) - 名古屋大学 - LinkedIn Eldorjon Elmurodov (PhD) - 名古屋大学 - LinkedIn LinkedIn Uzbekistan https://uz.linkedin.com > ...",
+    "url": "https://uz.linkedin.com/in/eldorjon-elmurodov-phd-11307716a",
+    "pass": 3
+   },
+   {
+    "quote": "Ayaka Ito - 名古屋大学 - Associate Professor/Lecturer | LinkedIn Ayaka Ito - 名古屋大学 - Associate Professor/Lecturer | LinkedIn LinkedIn https://jp.linkedin.com > ayaka-ito-b22706109",
+    "url": "https://jp.linkedin.com/in/ayaka-ito-b22706109",
+    "pass": 3
+   },
+   {
+    "quote": "Yasushi Yamaguchi - 名古屋大学 - Professor Emeritus - LinkedIn Yasushi Yamaguchi - 名古屋大学 - Professor Emeritus - LinkedIn LinkedIn https://jp.linkedin.com > yasushi-yamaguchi-a8073551",
+    "url": "https://jp.linkedin.com/in/yasushi-yamaguchi-a8073551",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "名古屋大学 Nagoya University | Nagoya-shi Aichi - Facebook 名古屋大学 Nagoya University | Nagoya-shi Aichi - Facebook Facebook https://www.facebook.com > Nagoya.Univ.info",
+    "url": "https://www.facebook.com/Nagoya.Univ.info/",
+    "pass": 3
+   },
+   {
+    "quote": "名古屋大学 Nagoya University - Facebook 名古屋大学 Nagoya University - Facebook Facebook https://www.facebook.com > Nagoya.Univ.info > about",
+    "url": "https://www.facebook.com/Nagoya.Univ.info/about/?locale=zh_CN",
+    "pass": 3
+   },
+   {
+    "quote": "Nagoya University European Center 名古屋大学 ヨーロッパ ... Nagoya University European Center 名古屋大学 ヨーロッパ ... Facebook https://www.facebook.com > ... > College & university",
+    "url": "https://www.facebook.com/Nagoya.Univ.Europe/",
+    "pass": 3
+   },
+   {
+    "quote": "名古屋大学 全学同窓会（Nagoya University Alumni ... - Facebook 名古屋大学 全学同窓会（Nagoya University Alumni ... - Facebook Facebook https://www.facebook.com > ... > ビジネス > 教育 > 大学",
+    "url": "https://www.facebook.com/nualface/?locale=ja_JP",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.nagoya-u.ac.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagoya-u.ac.jp/about-nu/president/presidentnews/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagoya-u.ac.jp/info/index.html?all=all",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagoya-u.ac.jp/about-nu/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagoya-u.ac.jp/about-nu/president/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagoya-u.ac.jp/about-nu/profile/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagoya-u.ac.jp/about-nu/awards/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagoya-u.ac.jp/about-nu/declaration/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagoya-u.ac.jp/about-nu/objectives/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagoya-u.ac.jp/about-nu/cat/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagoya-u.ac.jp/about-nu/information/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagoya-u.ac.jp/about-nu/public-relations/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagoya-u.ac.jp/about-nu/database/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagoya-u.ac.jp/about-nu/profile/history/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.nagoya-u.ac.jp/about-nu/upload_images/profile2024enkaku.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nagoya-u.ac.jp/assets/images/pages/img-mv-pages.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.thers.ac.jp/disclosure/finance/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nagoya_ura/n/n84b8fd06dcc4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thers.ac.jp/news/2024/12/202412112-cjic.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/Nagoya.Univ.info/posts/%E6%9D%B1%E6%B5%B7%E5%9B%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E6%A9%9F%E6%A7%8B%E3%81%AE%E5%AD%AB%E4%BC%9A%E7%A4%BEcentral-japan-innovation-capitalcjic-%E3%81%AF12%E6%9C%8812%E6%97%A5%E3%81%AB%E4%BC%9A%E8%A6%8B%E3%82%92%E9%96%8B%E3%81%8D%E7%AC%AC%EF%BC%91%E5%8F%B7%E3%83%95%E3%82%A1%E3%83%B3%E3%83%89%E3%81%A8%E3%81%97%E3%81%A613%E6%A9%9F%E9%96%A2%E4%BC%81%E6%A5%AD%E3%81%8B%E3%82%89/988201136680005/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.niad.ac.jp/support/media-download/8387/0434550af4ce6014/",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/nagoyauniversity",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%A4%A7%E5%AD%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nagoya_ura",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nu_sotugyoumeibo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/NagoyaUniv_info",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NU_GS_Science",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NagoyaU_Museum",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/cshe_nagoya_u",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uz.linkedin.com/in/eldorjon-elmurodov-phd-11307716a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/ayaka-ito-b22706109",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/yasushi-yamaguchi-a8073551",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Nagoya.Univ.info/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Nagoya.Univ.info/about/?locale=zh_CN",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Nagoya.Univ.Europe/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/nualface/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/nagoyauniversity",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%A4%A7%E5%AD%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nagoya_ura",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/NagoyaUniv_info",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "名古屋大学",
+   "results": [
+    "https://www.nagoya-u.ac.jp/",
+    "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%A4%A7%E5%AD%A6",
+    "https://passnavi.obunsha.co.jp/univ/0490/top/",
+    "https://x.com/NagoyaUniv_info",
+    "https://www.instagram.com/nagoya.university/",
+    "https://www.facebook.com/Nagoya.Univ.info/?locale=ja_JP",
+    "https://daigakujc.jp/nagoya-u/",
+    "https://ja.wikipedia.org/wiki/名古屋大学",
+    "https://en.wikipedia.org/wiki/Nagoya_University",
+    "https://www.nagoya-u.ac.jp/sch-list/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "名古屋大学 会社概要 資本金 設立",
+   "results": [
+    "https://www.thers.ac.jp/disclosure/finance/index.html",
+    "https://www.nagoya-u.ac.jp/about-nu/cat/financial-affairs/index.html",
+    "https://www.nagoya-u.ac.jp/about-nu/",
+    "https://job.mynavi.jp/27/pc/search/corp88597/outline.html",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3180005006071",
+    "https://www.nagoya-u.ac.jp/about-nu/profile/history/index.html",
+    "https://nu-rei.co.jp/company/index.html",
+    "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%A4%A7%E5%AD%A6",
+    "https://www.raqualia.com/ja/company/outline.html",
+    "https://ja.wikipedia.org/wiki/東海国立大学機構"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "名古屋大学 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.nagoya-u.ac.jp/researchinfo/result/2025/12/3d-al-fe.html",
+    "https://note.com/nagoya_ura/n/n84b8fd06dcc4",
+    "https://www.nagoya-u.ac.jp/researchinfo/result/2022/02/3d.html",
+    "https://x.com/NagoyaUniv_info/status/2000841059321225470",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/al-fe-metal-3d-printer-material-design-260116/",
+    "https://open.spotify.com/episode/1irM74dchFEoPNDPj01hS1",
+    "https://www.nagoya-u.ac.jp/researchinfo/result/2025/12/3d-3.html",
+    "https://www.youtube.com/watch?v=Oyhjvue23sk",
+    "https://idarts.co.jp/3dp/heat-resistant-recyclable-aluminum-alloys/?srsltid=AYCX9vIjmrfpcDqhINyWA_F5_1Mv5txR7Cv3wlAO3QYVHRL2nLLyqQNx",
+    "https://note.com/nagoya_ura/n/nf2fdc893b5a2"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "名古屋大学 金属積層造形 設備",
+   "results": [
+    "https://www.nagoya-u.ac.jp/researchinfo/result/2022/02/3d.html",
+    "https://jampt.jp/",
+    "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "https://www.nagoya-u.ac.jp/researchinfo/result/2023/04/3d-1.html",
+    "https://www.nagoya-u.ac.jp/researchinfo/result/2025/12/3d-al-fe.html",
+    "https://www.jim.or.jp/journal/m/pdf3/62/07/464.pdf",
+    "https://www.youtube.com/watch?v=Oyhjvue23sk",
+    "https://www.aichi-sangyo.co.jp/products/additive_manufact/index.html",
+    "https://www.material.nagoya-u.ac.jp/kobashi_lab/facility.html",
+    "https://www.mech.nagoya-u.ac.jp/upr/equipment.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "名古屋大学 株主 出資 親会社",
+   "results": [
+    "https://www.thers.ac.jp/news/2024/12/202412112-cjic.html",
+    "https://www.nagoya-u.ac.jp/info/kikou/20230925_tii.html",
+    "https://www.facebook.com/Nagoya.Univ.info/posts/%E6%9D%B1%E6%B5%B7%E5%9B%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6%E6%A9%9F%E6%A7%8B%E3%81%AE%E5%AD%AB%E4%BC%9A%E7%A4%BEcentral-japan-innovation-capitalcjic-%E3%81%AF12%E6%9C%8812%E6%97%A5%E3%81%AB%E4%BC%9A%E8%A6%8B%E3%82%92%E9%96%8B%E3%81%8D%E7%AC%AC%EF%BC%91%E5%8F%B7%E3%83%95%E3%82%A1%E3%83%B3%E3%83%89%E3%81%A8%E3%81%97%E3%81%A613%E6%A9%9F%E9%96%A2%E4%BC%81%E6%A5%AD%E3%81%8B%E3%82%89/988201136680005/",
+    "https://www.nikkei.com/article/DGXZQOFD122HW0S4A211C2000000/",
+    "https://note.com/nagoyauniversity/n/naf0d58b60c1c",
+    "https://www.u-presscenter.jp/article/13909",
+    "https://www8.cao.go.jp/cstp/gaiyo/yusikisha/20180405/sanko1.pdf",
+    "https://nagoyastartupnews.jp/nagoya-university-venture/",
+    "https://www.mext.go.jp/content/20241016-mxt_hojinka-000038470_9.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "名古屋大学 売上高 従業員数",
+   "results": [
+    "https://www.nagoya-u.ac.jp/about-nu/upload_images/NU_profile2023_kibonogaiyaku.pdf",
+    "https://www.niad.ac.jp/support/media-download/8387/0434550af4ce6014/",
+    "https://www.nagoya-u.ac.jp/about-nu/upload_images/NU_profile2022_yakuin_kyousyokuinsuu.pdf",
+    "https://job.mynavi.jp/28/pc/search/corp88597/outline.html",
+    "https://jobtalk.jp/companies/111927",
+    "https://job.mynavi.jp/27/pc/search/corp88597/outline.html",
+    "https://www.bizreach.jp/jobs/11034513/",
+    "https://sogyotecho.jp/hatarakigai-konno-professionalinterview/",
+    "https://startup-db.com/companies/1XgeJKbULYOZ4DPz",
+    "https://www.eda.provost.nagoya-u.ac.jp/public_data/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 名古屋大学",
+   "results": [
+    "https://note.com/nagoyauniversity",
+    "https://note.com/tag/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%A4%A7%E5%AD%A6",
+    "https://note.com/nagoya_ura",
+    "https://note.com/nu_sotugyoumeibo",
+    "https://note.com/nagoyauniversity/n/n704804fe7808",
+    "https://note.com/nu_sotugyoumeibo/n/nfc3364511d3f",
+    "https://note.com/hc3_henkan/n/n093102b22062",
+    "https://note.com/nu_sotugyoumeibo/m/m4e65142c0af2",
+    "https://note.com/nagoyauniversity/n/n910de4c8fa66",
+    "https://note.com/nagoyauniversity/all"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:x.com 名古屋大学",
+   "results": [
+    "https://x.com/NagoyaUniv_info",
+    "https://x.com/NU_GS_Science",
+    "https://x.com/NagoyaU_Museum",
+    "https://x.com/cshe_nagoya_u",
+    "https://x.com/NagoyaUniv_ilas",
+    "https://x.com/nu_mbl",
+    "https://x.com/nu_studyabroad",
+    "https://x.com/hashtag/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%A4%A7%E5%AD%A6",
+    "https://x.com/UN_Press",
+    "https://x.com/NagoyaUniv_Hum"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com 名古屋大学",
+   "results": [
+    "https://jp.linkedin.com/school/nagoyauniversity/",
+    "https://uz.linkedin.com/in/eldorjon-elmurodov-phd-11307716a",
+    "https://jp.linkedin.com/in/ayaka-ito-b22706109",
+    "https://jp.linkedin.com/in/yasushi-yamaguchi-a8073551",
+    "https://jp.linkedin.com/in/mhedine-alicherif-093246129",
+    "https://jp.linkedin.com/in/toru-higuchi-a2575141",
+    "https://www.linkedin.com/in/seito-ito-5747b5383",
+    "https://jp.linkedin.com/company/nagoya-univ-nmds",
+    "https://www.linkedin.com/posts/nu-global-campus_nagoyauniversity-%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%A4%A7%E5%AD%A6-nugcsingapore-activity-7473177674794823680-In4H",
+    "https://www.linkedin.com/school/nagoyauniversity/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com 名古屋大学",
+   "results": [
+    "https://www.facebook.com/Nagoya.Univ.info/",
+    "https://www.facebook.com/Nagoya.Univ.info/about/?locale=zh_CN",
+    "https://www.facebook.com/Nagoya.Univ.Europe/",
+    "https://www.facebook.com/nualface/?locale=ja_JP",
+    "https://www.facebook.com/Nagoya.Univ.info.lib/",
+    "https://www.facebook.com/p/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E5%8C%BB%E5%AD%A6%E7%B3%BB%E7%A0%94%E7%A9%B6%E7%A7%91-%E6%B3%8C%E5%B0%BF%E5%99%A8%E7%A7%91%E5%AD%A6-100093998337302/",
+    "https://www.facebook.com/rwdc.nagoya.univ/",
+    "https://www.facebook.com/100093998337302/posts/%E7%A7%81%E3%81%8C%E5%90%8D%E5%A4%A7%E3%81%AB%E7%9D%80%E4%BB%BB%E3%81%97%E3%81%A61%E4%BA%BA%E7%9B%AE%E3%81%AE%E5%9B%BD%E5%86%85%E7%95%99%E5%AD%A6%E5%A4%A7%E5%A4%89%E5%85%85%E5%AE%9F%E3%81%97%E3%81%9F%E3%82%82%E3%81%AE%E3%81%A0%E3%81%A3%E3%81%9F%E3%82%88%E3%81%86%E3%81%A7%E8%89%AF%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%A7%E3%81%99%E3%81%93%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%84%E5%A0%B1%E5%91%8A%E3%82%92%E3%82%82%E3%82%89%E3%81%88%E3%82%8B%E3%81%A8%E6%9C%AC%E5%BD%93%E3%81%AB%E5%AC%89%E3%81%97%E3%81%8F%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99%E3%81%AD/836488752827728/",
+    "https://www.facebook.com/nu.gallery.clas/",
+    "https://www.facebook.com/Nagoya.Univ.info/posts/大学案内2025を発行しました当冊子では名古屋大学の学部紹介をはじめ受験や学生生活に関する様々な内容を紹介しています本学への受験を希望される方はぜひご活用くださ/877885551044898/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "名古屋大学 note 社長",
+   "results": [
+    "https://note.com/nagoyauniversity",
+    "https://note.com/tag/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%A4%A7%E5%AD%A6",
+    "https://note.com/nagoya_ura",
+    "https://www.nagoya-u.ac.jp/about-nu/public-relations/phamphlets/",
+    "https://note.com/nagoya_ura/m/m1e09136b6f58",
+    "https://note.com/hc3_henkan/n/n093102b22062",
+    "https://www.nagoya-u.ac.jp/admissions/voice/campusLife/post-351.html",
+    "https://note.com/nu_sotugyoumeibo",
+    "https://note.com/nulibss",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "名古屋大学 X 投稿",
+   "results": [
+    "https://x.com/NagoyaUniv_info",
+    "https://www.nagoya-u.ac.jp/contact/sns.html",
+    "https://www.ilas.nagoya-u.ac.jp/PDF/2024_NU-ILAS-X-Operating-Policies-ja.pdf",
+    "https://www.nagoya-cu.ac.jp/sns/twitter/",
+    "https://x.com/NU_SCC",
+    "https://keiji.i.nagoya-u.ac.jp/student_gakugai/?n=2777&b=1&t=3",
+    "https://www.facebook.com/Nagoya.Univ.info/?locale=ja_JP",
+    "https://note.com/nagoyauniversity",
+    "https://tedxnagoyau.com/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  }
+ ],
+ "missing": {
+  "資本金": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部26頁・検索12回）",
+  "創業年度": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部26頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部26頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部26頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部26頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部26頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部26頁・検索12回）",
+  "資本金・株主": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部26頁・検索12回）"
+ }
+}

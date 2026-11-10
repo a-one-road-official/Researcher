@@ -1,0 +1,1854 @@
+{
+ "name": "Default",
+ "aliases": [],
+ "context": "旧営業リスト｜B2B Software / Sales & Marketing Automation｜状態なし",
+ "researched_at": "2026-11-10T17:53:56.199156+00:00",
+ "official_url": "https://www.default.com",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$30,000",
+    "url": "https://prospeo.io/c/default-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$10,600,000",
+    "url": "https://prospeo.io/c/default-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "12 W 31st St, Fl 4, New York, NY 10001, US",
+    "url": "https://prospeo.io/c/default-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2021",
+    "url": "https://prospeo.io/c/default-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Revenue or marketing lead",
+    "url": "https://www.default.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Each demo request runs through a waterfall of providers, so routing can use company size and job title.",
+    "url": "https://www.default.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Score every inbound lead against your ideal customer profile (ICP) before a rep sees it.",
+    "url": "https://www.default.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing Operations, People Data Labs",
+    "url": "https://www.default.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Growth Marketing, Profound",
+    "url": "https://www.default.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The marketing engine behind the best teams",
+    "url": "https://www.default.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One platform to manage workflows, enrich records, route leads, and schedule meetings.",
+    "url": "https://www.default.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Run batches of records through pre-built workflows for critical routing cases.",
+    "url": "https://www.default.com/solutions/default-mcp",
+    "pass": 1
+   },
+   {
+    "quote": "Give an agent built on the Vercel AI SDK ready-made tools to route leads and book meetings.",
+    "url": "https://www.default.com/solutions/default-mcp",
+    "pass": 1
+   },
+   {
+    "quote": "Trace what happened to any lead, action by action, in one prompt.",
+    "url": "https://www.default.com/solutions/default-mcp",
+    "pass": 1
+   },
+   {
+    "quote": "Run field-level provider waterfalls from the terminal and cache the results.",
+    "url": "https://www.default.com/solutions/default-mcp",
+    "pass": 1
+   },
+   {
+    "quote": "Trace any value back to the vendor and run that produced it.",
+    "url": "https://www.default.com/solutions/default-mcp",
+    "pass": 1
+   },
+   {
+    "quote": "Route leads across territories and segments, with logs.",
+    "url": "https://www.default.com/solutions/default-mcp",
+    "pass": 1
+   },
+   {
+    "quote": "The marketing engine behind the best teams",
+    "url": "https://www.default.com/solutions/default-mcp",
+    "pass": 1
+   },
+   {
+    "quote": "One platform to manage workflows, enrich records, route leads, and schedule meetings.",
+    "url": "https://www.default.com/solutions/default-mcp",
+    "pass": 1
+   },
+   {
+    "quote": "Each demo request runs through a waterfall of providers, so routing can use company size and job title.",
+    "url": "https://www.default.com/solutions/inbound-marketing-automation-software",
+    "pass": 1
+   },
+   {
+    "quote": "Score every inbound lead against your ideal customer profile (ICP) before a rep sees it.",
+    "url": "https://www.default.com/solutions/inbound-marketing-automation-software",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue or marketing lead",
+    "url": "https://www.default.com/solutions/inbound-marketing-automation-software",
+    "pass": 1
+   },
+   {
+    "quote": "Pull person and company data from several providers in 1 workflow step.",
+    "url": "https://www.default.com/solutions/inbound-marketing-automation-software",
+    "pass": 1
+   },
+   {
+    "quote": "Run Default headless from an AI client through the Model Context Protocol (MCP) server.",
+    "url": "https://www.default.com/solutions/inbound-marketing-automation-software",
+    "pass": 1
+   },
+   {
+    "quote": "Qualify webinar leads and add them to your CRM with an automated follow-up.",
+    "url": "https://www.default.com/solutions/inbound-marketing-automation-software",
+    "pass": 1
+   },
+   {
+    "quote": "Enrich leads from content downloads and route them to reps and your CRM.",
+    "url": "https://www.default.com/solutions/inbound-marketing-automation-software",
+    "pass": 1
+   },
+   {
+    "quote": "Send leads who don't book into Outreach sequences.",
+    "url": "https://www.default.com/solutions/inbound-marketing-automation-software",
+    "pass": 1
+   },
+   {
+    "quote": "Send leads who don't book into Salesloft cadences.",
+    "url": "https://www.default.com/solutions/inbound-marketing-automation-software",
+    "pass": 1
+   },
+   {
+    "quote": "Add leads who don't book to Gong Engage flows.",
+    "url": "https://www.default.com/solutions/inbound-marketing-automation-software",
+    "pass": 1
+   },
+   {
+    "quote": "Prospect, enrich, and sequence on first-party signals.",
+    "url": "https://www.default.com/solutions/inbound-marketing-automation-software",
+    "pass": 1
+   },
+   {
+    "quote": "Route leads across territories and segments, with logs.",
+    "url": "https://www.default.com/solutions/inbound-marketing-automation-software",
+    "pass": 1
+   },
+   {
+    "quote": "The marketing engine behind the best teams",
+    "url": "https://www.default.com/solutions/inbound-marketing-automation-software",
+    "pass": 1
+   },
+   {
+    "quote": "One platform to manage workflows, enrich records, route leads, and schedule meetings.",
+    "url": "https://www.default.com/solutions/inbound-marketing-automation-software",
+    "pass": 1
+   },
+   {
+    "quote": "The workflow starts when Default identifies a company visiting your pricing page.",
+    "url": "https://www.default.com/solutions/data-enrichment-software",
+    "pass": 1
+   },
+   {
+    "quote": "Waterfalls fill company fields from several providers, and IP validation checks the visitor's IP address for VPN use.",
+    "url": "https://www.default.com/solutions/data-enrichment-software",
+    "pass": 1
+   },
+   {
+    "quote": "Ask a web research agent for data no provider has, and get it back as typed fields.",
+    "url": "https://www.default.com/solutions/data-enrichment-software",
+    "pass": 1
+   },
+   {
+    "quote": "Northwind Labs is on /pricing",
+    "url": "https://www.default.com/solutions/data-enrichment-software",
+    "pass": 1
+   },
+   {
+    "quote": "In a workflow, each field takes its value from the highest-ranked provider that returned one.",
+    "url": "https://www.default.com/solutions/data-enrichment-software",
+    "pass": 1
+   },
+   {
+    "quote": "Enrich Salesforce records from 4 providers.",
+    "url": "https://www.default.com/solutions/data-enrichment-software",
+    "pass": 1
+   },
+   {
+    "quote": "Prospect, enrich, and sequence on first-party signals.",
+    "url": "https://www.default.com/solutions/data-enrichment-software",
+    "pass": 1
+   },
+   {
+    "quote": "The marketing engine behind the best teams",
+    "url": "https://www.default.com/solutions/data-enrichment-software",
+    "pass": 1
+   },
+   {
+    "quote": "One platform to manage workflows, enrich records, route leads, and schedule meetings.",
+    "url": "https://www.default.com/solutions/data-enrichment-software",
+    "pass": 1
+   },
+   {
+    "quote": "Recipients: Booked by, Primary host",
+    "url": "https://www.default.com/solutions/meeting-scheduling-software",
+    "pass": 1
+   },
+   {
+    "quote": "Messages for bookings, reschedules, and no-shows, plus follow-up for website leads who don't book.",
+    "url": "https://www.default.com/solutions/meeting-scheduling-software",
+    "pass": 1
+   },
+   {
+    "quote": "Give an agent built on the Vercel AI SDK ready-made tools to route leads and book meetings.",
+    "url": "https://www.default.com/solutions/meeting-scheduling-software",
+    "pass": 1
+   },
+   {
+    "quote": "Route leads across territories and segments, with logs.",
+    "url": "https://www.default.com/solutions/meeting-scheduling-software",
+    "pass": 1
+   },
+   {
+    "quote": "The marketing engine behind the best teams",
+    "url": "https://www.default.com/solutions/meeting-scheduling-software",
+    "pass": 1
+   },
+   {
+    "quote": "One platform to manage workflows, enrich records, route leads, and schedule meetings.",
+    "url": "https://www.default.com/solutions/meeting-scheduling-software",
+    "pass": 1
+   },
+   {
+    "quote": "Native waterfalls enrich leads mid-workflow, with every provider called at once.",
+    "url": "https://www.default.com/solutions/revenue-operations-software",
+    "pass": 1
+   },
+   {
+    "quote": "Enrich every form fill with a waterfall of data providers.",
+    "url": "https://www.default.com/solutions/revenue-operations-software",
+    "pass": 1
+   },
+   {
+    "quote": "Enrich and route new users based on account fit, product activity, territory, and ownership.",
+    "url": "https://www.default.com/solutions/revenue-operations-software",
+    "pass": 1
+   },
+   {
+    "quote": "Start a sales workflow when users hit a product milestone or show expansion intent.",
+    "url": "https://www.default.com/solutions/revenue-operations-software",
+    "pass": 1
+   },
+   {
+    "quote": "Convert new leads into the accounts they belong to.",
+    "url": "https://www.default.com/solutions/revenue-operations-software",
+    "pass": 1
+   },
+   {
+    "quote": "Turn website form fills into routed Salesforce leads.",
+    "url": "https://www.default.com/solutions/revenue-operations-software",
+    "pass": 1
+   },
+   {
+    "quote": "Rotate HubSpot leads and meetings through 1 queue.",
+    "url": "https://www.default.com/solutions/revenue-operations-software",
+    "pass": 1
+   },
+   {
+    "quote": "Route leads across both CRMs from 1 workflow.",
+    "url": "https://www.default.com/solutions/revenue-operations-software",
+    "pass": 1
+   },
+   {
+    "quote": "The marketing engine behind the best teams",
+    "url": "https://www.default.com/solutions/revenue-operations-software",
+    "pass": 1
+   },
+   {
+    "quote": "One platform to manage workflows, enrich records, route leads, and schedule meetings.",
+    "url": "https://www.default.com/solutions/revenue-operations-software",
+    "pass": 1
+   },
+   {
+    "quote": "How Profound drove 140% increase in pipeline with Default",
+    "url": "https://www.default.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "PLG-powered product experience platform helping companies convert more signups into customers.",
+    "url": "https://www.default.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Rootly is a modern, AI-powered on-call and incident management solution that allows enterprises to automate and consolidate their incident response process under one roof.",
+    "url": "https://www.default.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing Operations, People Data Labs",
+    "url": "https://www.default.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Growth Marketing, Profound",
+    "url": "https://www.default.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The marketing engine behind the best teams",
+    "url": "https://www.default.com/case-study",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "A scheduler with your branding opens the assigned rep's calendar within seconds.",
+    "url": "https://www.default.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A scheduler with your branding opens the assigned rep's calendar within seconds.",
+    "url": "https://www.default.com/solutions/inbound-marketing-automation-software",
+    "pass": 1
+   },
+   {
+    "quote": "and bankruptcy can provide critical insights and guidance. Their expertise in negotiating with federal agencies and creditors is invaluable in crafting effective defense strategies.",
+    "url": "https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "500–1,000 employees",
+    "url": "https://www.default.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue or marketing lead",
+    "url": "https://www.default.com/",
+    "pass": 1
+   },
+   {
+    "quote": "It’s night and day compared to before. Thanks to Default, our revenue system just works, and the team trusts it.",
+    "url": "https://www.default.com/",
+    "pass": 1
+   },
+   {
+    "quote": "500–1,000 employees",
+    "url": "https://www.default.com/solutions/inbound-marketing-automation-software",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue or marketing lead",
+    "url": "https://www.default.com/solutions/inbound-marketing-automation-software",
+    "pass": 1
+   },
+   {
+    "quote": "Software, 500–1,000 employees",
+    "url": "https://www.default.com/solutions/data-enrichment-software",
+    "pass": 1
+   },
+   {
+    "quote": "500–1,000 employees",
+    "url": "https://www.default.com/solutions/revenue-operations-software",
+    "pass": 1
+   },
+   {
+    "quote": "Owned by the rep the NA Mid-Market queue picked",
+    "url": "https://www.default.com/solutions/revenue-operations-software",
+    "pass": 1
+   },
+   {
+    "quote": "How People Data Labs used Default to architect a reliable revenue engine",
+    "url": "https://www.default.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "How Bland used Default to unify inbound, PLG, and outbound into one controlled revenue foundation",
+    "url": "https://www.default.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "How FERMÀT used Default to replace fragmented tools with a connected revenue foundation",
+    "url": "https://www.default.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The world’s first warm outbound platform to scale your revenue team's creativity.",
+    "url": "https://www.default.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "It’s night and day compared to before. Thanks to Default, our revenue system just works, and the team trusts it.",
+    "url": "https://www.default.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "“We had around 147 GTM tools and almost no one could explain what half of them did. There was no single place to see how revenue actually flowed.”",
+    "url": "https://www.default.com/case-study/how-cortex-used-default-to-architect-a-single-control-layer-for-all-gtm-tools",
+    "pass": 1
+   },
+   {
+    "quote": "The same orchestration pattern now powers revenue-recognition and finance workflows. High-TCV deals, churn risk events, and closed opportunities trigger Default workflows that push alerts into a private Slack channel shared by the RevOps leader, the controller, and the CFO. That channel has become the starting point for revenue recognition, replacing a patchwork of Rattle rules and spreadsheets.",
+    "url": "https://www.default.com/case-study/how-cortex-used-default-to-architect-a-single-control-layer-for-all-gtm-tools",
+    "pass": 1
+   },
+   {
+    "quote": "With Default as the control layer, Cortex’s wins show up across the stack: in how leads are handled, how RevOps works, and how revenue is tracked and acted on.",
+    "url": "https://www.default.com/case-study/how-cortex-used-default-to-architect-a-single-control-layer-for-all-gtm-tools",
+    "pass": 1
+   },
+   {
+    "quote": "Finance and GTM leaders get real-time Slack alerts when high-TCV deals move, churn risks emerge, or key stage changes happen, closing the gap between CRM events and revenue recognition decisions without adding another point tool.",
+    "url": "https://www.default.com/case-study/how-cortex-used-default-to-architect-a-single-control-layer-for-all-gtm-tools",
+    "pass": 1
+   },
+   {
+    "quote": "How People Data Labs used Default to architect a reliable revenue engine",
+    "url": "https://www.default.com/case-study/how-cortex-used-default-to-architect-a-single-control-layer-for-all-gtm-tools",
+    "pass": 1
+   },
+   {
+    "quote": "How Bland used Default to unify inbound, PLG, and outbound into one controlled revenue foundation",
+    "url": "https://www.default.com/case-study/how-cortex-used-default-to-architect-a-single-control-layer-for-all-gtm-tools",
+    "pass": 1
+   },
+   {
+    "quote": "How FERMÀT used Default to replace fragmented tools with a connected revenue foundation",
+    "url": "https://www.default.com/case-study/how-cortex-used-default-to-architect-a-single-control-layer-for-all-gtm-tools",
+    "pass": 1
+   },
+   {
+    "quote": "It’s night and day compared to before. Thanks to Default, our revenue system just works, and the team trusts it.",
+    "url": "https://www.default.com/case-study/how-cortex-used-default-to-architect-a-single-control-layer-for-all-gtm-tools",
+    "pass": 1
+   },
+   {
+    "quote": "How People Data Labs used Default to architect a reliable revenue engine | Default",
+    "url": "https://www.default.com/case-study/how-people-data-labs-used-default-to-architect-a-reliable-revenue-engine",
+    "pass": 1
+   },
+   {
+    "quote": "“It’s night and day compared to before. Thanks to Default, our revenue system just works, and the team trusts it.”",
+    "url": "https://www.default.com/case-study/how-people-data-labs-used-default-to-architect-a-reliable-revenue-engine",
+    "pass": 1
+   },
+   {
+    "quote": "Longer term, PDL sees an opportunity to consolidate even more GTM logic into a single connected foundation: one place to define objects and ownership, one canvas to orchestrate routing and recovery, and one system of record for how revenue actually flows. As Korey summed it up: “I truly think it is the default tool… for anybody in an ops role.”",
+    "url": "https://www.default.com/case-study/how-people-data-labs-used-default-to-architect-a-reliable-revenue-engine",
+    "pass": 1
+   },
+   {
+    "quote": "How Bland used Default to unify inbound, PLG, and outbound into one controlled revenue foundation",
+    "url": "https://www.default.com/case-study/how-people-data-labs-used-default-to-architect-a-reliable-revenue-engine",
+    "pass": 1
+   },
+   {
+    "quote": "How FERMÀT used Default to replace fragmented tools with a connected revenue foundation",
+    "url": "https://www.default.com/case-study/how-people-data-labs-used-default-to-architect-a-reliable-revenue-engine",
+    "pass": 1
+   },
+   {
+    "quote": "It’s night and day compared to before. Thanks to Default, our revenue system just works, and the team trusts it.",
+    "url": "https://www.default.com/case-study/how-people-data-labs-used-default-to-architect-a-reliable-revenue-engine",
+    "pass": 1
+   },
+   {
+    "quote": "Their process relied on a complex web of tools: HubSpot forms, Chili Piper scheduling, Salesforce workflows, and numerous Zapier automations. As marketing channels expanded, managing revenue operations became increasingly difficult. More than 5% of leads were misrouted or lost when parts of this cobbled-together workflow failed.",
+    "url": "https://www.default.com/case-study/how-rootly-orchestrated-salesforce-hubspot-to-double-gtm-efficiency",
+    "pass": 1
+   },
+   {
+    "quote": "With Default, Rootly cut down several hours of weekly troubleshooting time and streamlined their revenue operations processes, boosting overall efficiency for both sales and marketing teams.",
+    "url": "https://www.default.com/case-study/how-rootly-orchestrated-salesforce-hubspot-to-double-gtm-efficiency",
+    "pass": 1
+   },
+   {
+    "quote": "After their previous Chili Piper and Zapier workflows underperformed, Default emerged as the ideal solution for Rootly. The switch delivered impressive results: a 23% improvement in inbound conversion rates, 15% more pipeline from product-led growth, and doubled efficiency in revenue operations.",
+    "url": "https://www.default.com/case-study/how-rootly-orchestrated-salesforce-hubspot-to-double-gtm-efficiency",
+    "pass": 1
+   },
+   {
+    "quote": "With Default, Rootly restored control over their fragmented workflows and strengthened collaboration between sales, marketing, and revenue teams.",
+    "url": "https://www.default.com/case-study/how-rootly-orchestrated-salesforce-hubspot-to-double-gtm-efficiency",
+    "pass": 1
+   },
+   {
+    "quote": "How People Data Labs used Default to architect a reliable revenue engine",
+    "url": "https://www.default.com/case-study/how-rootly-orchestrated-salesforce-hubspot-to-double-gtm-efficiency",
+    "pass": 1
+   },
+   {
+    "quote": "How Bland used Default to unify inbound, PLG, and outbound into one controlled revenue foundation",
+    "url": "https://www.default.com/case-study/how-rootly-orchestrated-salesforce-hubspot-to-double-gtm-efficiency",
+    "pass": 1
+   },
+   {
+    "quote": "It’s night and day compared to before. Thanks to Default, our revenue system just works, and the team trusts it.",
+    "url": "https://www.default.com/case-study/how-rootly-orchestrated-salesforce-hubspot-to-double-gtm-efficiency",
+    "pass": 1
+   },
+   {
+    "quote": "How People Data Labs used Default to architect a reliable revenue engine",
+    "url": "https://www.default.com/case-study/how-profound-drove-140-increase-in-pipeline-with-default",
+    "pass": 1
+   },
+   {
+    "quote": "How Bland used Default to unify inbound, PLG, and outbound into one controlled revenue foundation",
+    "url": "https://www.default.com/case-study/how-profound-drove-140-increase-in-pipeline-with-default",
+    "pass": 1
+   },
+   {
+    "quote": "It’s night and day compared to before. Thanks to Default, our revenue system just works, and the team trusts it.",
+    "url": "https://www.default.com/case-study/how-profound-drove-140-increase-in-pipeline-with-default",
+    "pass": 1
+   },
+   {
+    "quote": "500–1,000 employees",
+    "url": "https://www.default.com/solutions/crm-hygiene-software",
+    "pass": 1
+   },
+   {
+    "quote": "High-volume revenue organizations",
+    "url": "https://www.default.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "It’s night and day compared to before. Thanks to Default, our revenue system just works, and the team trusts it.",
+    "url": "https://www.default.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "500–1,000 employees",
+    "url": "https://www.default.com/solutions/hubspot-data-enrichment",
+    "pass": 1
+   },
+   {
+    "quote": "This case study is an anonymized writeup of a matter I handled. Names, industries, geographies, dollar amounts, and identifying details have been changed. Past results are not a guarantee, prediction, or warranty of any future outcome. Each matter turns on its own facts and applicable law. Reading this page does not create an attorney-client relationship.",
+    "url": "https://terms.law/case-studies/us-asia-supplier-manufacturing-default.html",
+    "pass": 3
+   },
+   {
+    "quote": ": Fluctuations in demand for manufactured goods can lead to sudden revenue shortfalls.",
+    "url": "https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies",
+    "pass": 3
+   },
+   {
+    "quote": ": Delays or shortages in raw materials can halt production and affect delivery schedules, impacting revenue.",
+    "url": "https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies",
+    "pass": 3
+   },
+   {
+    "quote": "The first step was a thorough assessment of the company's financial health. This included a detailed analysis of cash flow, asset valuation, and liability structure. The goal was to understand the full scope of the financial distress and identify areas for potential cost savings or revenue generation.",
+    "url": "https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies",
+    "pass": 3
+   },
+   {
+    "quote": "Open communication with stakeholders, including creditors, suppliers, and employees, was crucial. Establishing a transparent dialogue helped in negotiating extended payment terms and maintaining supplier relationships, which were vital for the business's survival.",
+    "url": "https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies",
+    "pass": 3
+   },
+   {
+    "quote": "Default Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/default-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Default",
+    "url": "https://prospeo.io/c/default-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/default-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "The inbound orchestration platform for revenue teams. Scale your inbound marketing engine with AI agents, scheduling, routing, and data enrichment in one platform.",
+    "url": "https://prospeo.io/c/default-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/default-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/default-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Default?",
+    "url": "https://prospeo.io/c/default-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Default generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/default-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/default-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/default-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Default have?",
+    "url": "https://prospeo.io/c/default-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/default-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "👥 81 employees",
+    "url": "https://www.gritt.io/company/withdefault/",
+    "pass": 3
+   },
+   {
+    "quote": "Default is a revenue-grade workflow engine that unifies your fragmented tech stack into one, so you can see your entire go-to-market machine, understand how it all connects, and scale without breaking things.",
+    "url": "https://www.gritt.io/company/withdefault/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Email sequencing & Slack",
+    "url": "https://www.default.com/solutions/revenue-operations-software",
+    "pass": 1
+   },
+   {
+    "quote": "Tie each visitor to their Salesforce account by email domain, with its owner and industry.",
+    "url": "https://www.default.com/solutions/outbound-sales-automation-software",
+    "pass": 1
+   },
+   {
+    "quote": "Match the lead on the page to its Salesforce record by email.",
+    "url": "https://www.default.com/solutions/sdr-to-ae-handoff",
+    "pass": 1
+   },
+   {
+    "quote": "The Chrome extension detects the lead in Gmail, on Salesforce Lead and Contact pages, and on HubSpot contacts. On any other tab, the SDR types the lead's email.",
+    "url": "https://www.default.com/solutions/sdr-to-ae-handoff",
+    "pass": 1
+   },
+   {
+    "quote": "Only an email and a company so far",
+    "url": "https://www.default.com/solutions/crm-hygiene-software",
+    "pass": 1
+   },
+   {
+    "quote": "Match each new lead to the Salesforce account that shares its email domain.",
+    "url": "https://www.default.com/solutions/crm-hygiene-software",
+    "pass": 1
+   },
+   {
+    "quote": "The workflow starts when a visitor submits your HubSpot form with only an email.",
+    "url": "https://www.default.com/solutions/hubspot-data-enrichment",
+    "pass": 1
+   },
+   {
+    "quote": "The form asks only for an email, and Default finds the HubSpot contact from it even when every other property is empty.",
+    "url": "https://www.default.com/solutions/hubspot-data-enrichment",
+    "pass": 1
+   },
+   {
+    "quote": "Found by email, other properties empty",
+    "url": "https://www.default.com/solutions/hubspot-data-enrichment",
+    "pass": 1
+   },
+   {
+    "quote": "The Pixel reads your embedded HubSpot form and sends the email as soon as the visitor leaves the field.",
+    "url": "https://www.default.com/solutions/hubspot-data-enrichment",
+    "pass": 1
+   },
+   {
+    "quote": "Default enriches from a waterfall of Clearbit, Apollo, People Data Labs, and Wiza when the visitor leaves the email field, and the same workflow routes and books the meeting on the results. Breeze Intelligence, now called data enrichment in HubSpot's help pages, fills contact and company properties inside HubSpot.",
+    "url": "https://www.default.com/solutions/hubspot-data-enrichment",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, with Default: when a visitor leaves the email field on a HubSpot form embedded on your site, Default runs your primary waterfall before they submit. After submit, the workflow reads the waiting results to route the lead and write HubSpot properties.",
+    "url": "https://www.default.com/solutions/hubspot-data-enrichment",
+    "pass": 1
+   },
+   {
+    "quote": "Email owner@terms.law",
+    "url": "https://terms.law/case-studies/us-asia-supplier-manufacturing-default.html",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us for a free case evaluation",
+    "url": "https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/default-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "AI output must be verified by a person before use (Verify numbers against original documents. Read emails before sending)",
+    "url": "https://note.com/ai_guide_/n/nd8eff4981d8f?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "default(デフォルト)の意味(日本語)とは？語源・動詞や経済の使い方と例文",
+    "url": "https://eigo.plus/englishphrase/default",
+    "pass": 3
+   },
+   {
+    "quote": "そして今では、すっかり日本語として定着したカタカナ語です",
+    "url": "https://eigo.plus/englishphrase/default",
+    "pass": 3
+   },
+   {
+    "quote": "という英語を日本語化した、いわゆるカタカナ語です",
+    "url": "https://eigo.plus/englishphrase/default",
+    "pass": 3
+   },
+   {
+    "quote": "日本では、茂木健一郎さんの著書、脳を鍛える茂木式マインドフルネス(世界文化社)で紹介され注目を集めた言葉",
+    "url": "https://eigo.plus/englishphrase/default",
+    "pass": 3
+   },
+   {
+    "quote": "は、日本では日常会話で、②の",
+    "url": "https://eigo.plus/englishphrase/default",
+    "pass": 3
+   },
+   {
+    "quote": "default(デフォルト)の意味(日本語)とは？語源・動詞や経済の使い方と例文まとめ",
+    "url": "https://eigo.plus/englishphrase/default",
+    "pass": 3
+   },
+   {
+    "quote": "今回紹介した意味と使い方をしっかりとおさえれば、英語でも日本語でも",
+    "url": "https://eigo.plus/englishphrase/default",
+    "pass": 3
+   },
+   {
+    "quote": "Default Studies | Japan Credit Rating Agency, Ltd. - JCR",
+    "url": "https://www.jcr.co.jp/en/rrinfo/default/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Corporate Default Rates and Rating Transition Matrices",
+    "url": "https://www.r-i.co.jp/en/rating/data/defaults.html",
+    "pass": 3
+   },
+   {
+    "quote": "<Report>Japanese Corporate Default Rates and Rating Transition Matrices (FY1978-2025)",
+    "url": "https://www.r-i.co.jp/en/rating/data/defaults.html",
+    "pass": 3
+   },
+   {
+    "quote": "<Data Tables>Japanese Corporate Default Rates and Rating Transition Matrices (FY1978-2025)",
+    "url": "https://www.r-i.co.jp/en/rating/data/defaults.html",
+    "pass": 3
+   },
+   {
+    "quote": "<Report>Japanese Corporate Default Rates and Rating Transition Matrices (FY1978-2024)",
+    "url": "https://www.r-i.co.jp/en/rating/data/defaults.html",
+    "pass": 3
+   },
+   {
+    "quote": "<Data Tables>Japanese Corporate Default Rates and Rating Transition Matrices (FY1978-2024)",
+    "url": "https://www.r-i.co.jp/en/rating/data/defaults.html",
+    "pass": 3
+   },
+   {
+    "quote": "<Report>Japanese Corporate Default Rates and Rating Transition Matrices (FY1978-2023)",
+    "url": "https://www.r-i.co.jp/en/rating/data/defaults.html",
+    "pass": 3
+   },
+   {
+    "quote": "<Data Tables>Japanese Corporate Default Rates and Rating Transition Matrices (FY1978-2023)",
+    "url": "https://www.r-i.co.jp/en/rating/data/defaults.html",
+    "pass": 3
+   },
+   {
+    "quote": "<Report>Japanese Corporate Default Rates and Rating Transition Matrices (FY1978-2022)",
+    "url": "https://www.r-i.co.jp/en/rating/data/defaults.html",
+    "pass": 3
+   },
+   {
+    "quote": "<Data Tables>Japanese Corporate Default Rates and Rating Transition Matrices (FY1978-2022)",
+    "url": "https://www.r-i.co.jp/en/rating/data/defaults.html",
+    "pass": 3
+   },
+   {
+    "quote": "<Report>Japanese Corporate Default Rates and Rating Transition Matrices (FY1978-2021)",
+    "url": "https://www.r-i.co.jp/en/rating/data/defaults.html",
+    "pass": 3
+   },
+   {
+    "quote": "<Data Tables>Japanese Corporate Default Rates and Rating Transition Matrices (FY1978-2021)",
+    "url": "https://www.r-i.co.jp/en/rating/data/defaults.html",
+    "pass": 3
+   },
+   {
+    "quote": "<Report>[30/06/22corrected]Japanese Corporate Default Rates and Rating Transition Matrices (FY1978-2020)",
+    "url": "https://www.r-i.co.jp/en/rating/data/defaults.html",
+    "pass": 3
+   },
+   {
+    "quote": "<Data Tables>[30/06/22corrected]Japanese Corporate Default Rates and Rating Transition Matrices (FY1978-2020)",
+    "url": "https://www.r-i.co.jp/en/rating/data/defaults.html",
+    "pass": 3
+   },
+   {
+    "quote": "[30/06/22errata]Japanese Corporate Default Rates and Rating Transition Matrices (FY1978-2020)",
+    "url": "https://www.r-i.co.jp/en/rating/data/defaults.html",
+    "pass": 3
+   },
+   {
+    "quote": "<Report>Japanese Corporate Default Rates and Rating Transition Matrices (FY1978-2019)",
+    "url": "https://www.r-i.co.jp/en/rating/data/defaults.html",
+    "pass": 3
+   },
+   {
+    "quote": "<Data Tables>Japanese Corporate Default Rates and Rating Transition Matrices (FY1978-2019)",
+    "url": "https://www.r-i.co.jp/en/rating/data/defaults.html",
+    "pass": 3
+   },
+   {
+    "quote": "<Report>Japanese Corporate Default Rates and Rating Transition Matrices (FY1978-2018)",
+    "url": "https://www.r-i.co.jp/en/rating/data/defaults.html",
+    "pass": 3
+   },
+   {
+    "quote": "<Data Tables>Japanese Corporate Default Rates and Rating Transition Matrices (FY1978-2018)",
+    "url": "https://www.r-i.co.jp/en/rating/data/defaults.html",
+    "pass": 3
+   },
+   {
+    "quote": "<Report>Japanese Corporate Default Rates and Rating Transition Matrices (FY1978-2017)",
+    "url": "https://www.r-i.co.jp/en/rating/data/defaults.html",
+    "pass": 3
+   },
+   {
+    "quote": "<Data Tables>Japanese Corporate Default Rates and Rating Transition Matrices (FY1978-2017)",
+    "url": "https://www.r-i.co.jp/en/rating/data/defaults.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Corporate Default Rates and Rating Transition Matrices (FY1978-2016)",
+    "url": "https://www.r-i.co.jp/en/rating/data/defaults.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Corporate Default Rates and Rating Transition Matrices (FY1978-2015)",
+    "url": "https://www.r-i.co.jp/en/rating/data/defaults.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Corporate Default Rates and Rating Transition Matrices (FY1978-2014)",
+    "url": "https://www.r-i.co.jp/en/rating/data/defaults.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Corporate Default Rates and Rating Transition Matrices (FY1978-2013)",
+    "url": "https://www.r-i.co.jp/en/rating/data/defaults.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Corporate Default Rates and Rating Transition Matrices (FY1978-2012)",
+    "url": "https://www.r-i.co.jp/en/rating/data/defaults.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "default (デフォルト)の意味 (日本語)とは？語源・動詞や経済の使い方...米国におけるデフォルト商品の進化と日本への示唆デフォルト率・格付推移行列｜信用格付関連 ｜格付投資情報センター日本企業のデフォルト率・格付推移行列 1978年度～2025年度）「デフォルト」の意味とは？ビジネスシーンでの使い方と類義語・言い...政府が推奨する「クラウド・バイ・デフォルト原則」とは？ | 株式会社... — 冒頭で記したように、デフォルトという言葉は、defaultという英語を日本語化した、いわゆるカタカナ語です。そうであれば既に使っているあの意味だから簡単だ！と思いがちですが、実はdefaultには、4つも意味があるのです。 なお、defaultは名詞も動詞も同じくdefaultです。よって、過去形の場合はdefaultedとなり、三人称単数の場合はdefaultsとなります。 それでは、",
+    "url": "https://eigo.plus/englishphrase/default",
+    "pass": 3
+   },
+   {
+    "quote": "Default Studies | Japan Credit Rating Agency, Ltd. - JCR — Rating Matrices and Cumulative Default Rates (Correction)",
+    "url": "https://www.jcr.co.jp/en/rrinfo/default/",
+    "pass": 3
+   },
+   {
+    "quote": "Default Rates and Rating Transition Matrices｜Credit Rating ... — [Jun. 28, 2013] Japanese Corporate Default Rates and Rating Transition Matrices (FY1978-2012) [Jul. 12, 2012] The Relationship between Credit Ratings and Default",
+    "url": "https://www.r-i.co.jp/en/rating/data/defaults.html",
+    "pass": 3
+   },
+   {
+    "quote": "Default, Transition, and Recovery: 2025 Annual Japanese ... — Mar 24, 2026 · In 2025, there were no defaults among Japanese issuers rated by S&P Global Ratings, marking the 10th consecutive year with no defaults. This study involves 508 Japanese entities that have, or previously had, S&P Global Ratings long-term issuer credit ratings.",
+    "url": "https://www.spglobal.com/ratings/en/regulatory/article/-/view/sourceId/101666139",
+    "pass": 3
+   },
+   {
+    "quote": "JCR Rating Transition Matrices and Cumulative Default Rates — JCR traces default of issuers, for which ratings have been terminated owing to withdrawals requested by the issuer or other reasons, and reflects the results in calculation of CDRs.",
+    "url": "https://www.jcr.co.jp/en/pdf/dm31/20240325Default_Studies_en.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: US Client, Asia-Based Manufacturer in Default ... — Anonymized case study: a US client whose Asia-based manufacturer missed delivery and refused to refund a six-figure deposit. What I did and what a similar client should know.",
+    "url": "https://terms.law/case-studies/us-asia-supplier-manufacturing-default.html",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing SBA Loan Default: Defense Strategies — This case study explores industry-specific defense strategies for manufacturing businesses facing SBA loan default, offering actionable insights for business owners in similar predicaments.",
+    "url": "https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies",
+    "pass": 3
+   },
+   {
+    "quote": "Default Revenue, Funding & Valuation - prospeo.ioDefault - 2026 Company Profile, Team, Funding & Competitors ...Default company profile: firmographics, business model ...Default — investors & funding | gritt.ioDefault 2026 Company Profile: Valuation, Funding & Investors ...Default - Overview, News & Similar companies | ZoomInfo.comDefault: Funding, Investors & Team (Sep 2026) | FundedIQ — Default ",
+    "url": "https://prospeo.io/c/default-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Default - 2026 Company Profile, Team, Funding & Competitors ...Default company profile: firmographics, business model ...Default — investors & funding | gritt.ioDefault 2026 Company Profile: Valuation, Funding & Investors ...Default - Overview, News & Similar companies | ZoomInfo.comDefault: Funding, Investors & Team (Sep 2026) | FundedIQ — Mar 8, 2026 · Default is a seed company based in San Fran",
+    "url": "https://tracxn.com/d/companies/default/__E9_YejbVHAwZijFJqUaC3KLajMu4uaWazgVt0rCHsgI",
+    "pass": 3
+   },
+   {
+    "quote": "Default company profile: firmographics, business model ... — Default has raised approximately $20 million in total funding across disclosed seed and subsequent rounds, with 8VC as a repeat lead investor and Craft Ventures having led the initial seed. The company was founded around 2023, launched publicly in late 2024, and released Default 2.0 in December 2025 alongside additional funding. Short ..",
+    "url": "https://akta.pro/company-profiles/0000efr/default",
+    "pass": 3
+   },
+   {
+    "quote": "Default — investors & funding | gritt.io — Default is a revenue-grade workflow engine that unifies your fragmented tech stack into one, so you can see your entire go-to-market machine, understand how it all connects, and scale without breaking things.",
+    "url": "https://www.gritt.io/company/withdefault/",
+    "pass": 3
+   },
+   {
+    "quote": "Default 2026 Company Profile: Valuation, Funding & Investors ...Default - Overview, News & Similar companies | ZoomInfo.comDefault: Funding, Investors & Team (Sep 2026) | FundedIQ — Information on valuation, funding, cap tables, investors, and executives for Default. Use the PitchBook Platform to explore the full profile. Default, a San Francisco, CA-based provider of a platform for inbound sales,",
+    "url": "https://pitchbook.com/profiles/company/490993-30",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Case Study: US Client, Asia-Based Manufacturer in Default | Sergei Tokmakov, Esq.",
+    "url": "https://terms.law/case-studies/us-asia-supplier-manufacturing-default.html",
+    "pass": 3
+   },
+   {
+    "quote": "This case study is an anonymized writeup of a matter I handled. Names, industries, geographies, dollar amounts, and identifying details have been changed. Past results are not a guarantee, prediction, or warranty of any future outcome. Each matter turns on its own facts and applicable law. Reading this page does not create an attorney-client relationship.",
+    "url": "https://terms.law/case-studies/us-asia-supplier-manufacturing-default.html",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing SBA Loan Default: Defense Strategies",
+    "url": "https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Business SBA Loan Default: Industry-Specific Defense Strategies",
+    "url": "https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies",
+    "pass": 3
+   },
+   {
+    "quote": "Navigating SBA Loan Default in the Manufacturing Sector: A Strategic Defense Case Study",
+    "url": "https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies",
+    "pass": 3
+   },
+   {
+    "quote": "Understanding the Manufacturing Sector's Vulnerabilities",
+    "url": "https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies",
+    "pass": 3
+   },
+   {
+    "quote": "The manufacturing industry is inherently capital-intensive, requiring significant investment in equipment, technology, and labor. Market fluctuations, supply chain disruptions, and regulatory changes can quickly impact cash flow, leading to financial instability. When these factors converge, even the most well-managed manufacturing businesses can face",
+    "url": "https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Strategic Defense for a Manufacturing Business in Default",
+    "url": "https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies",
+    "pass": 3
+   },
+   {
+    "quote": "Consider a mid-sized manufacturing company specializing in automotive parts. Despite a strong market position, the company faced a perfect storm of challenges: a sudden drop in demand due to economic downturn, increased tariffs affecting raw material costs, and a costly regulatory breach. These factors led to an",
+    "url": "https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies",
+    "pass": 3
+   },
+   {
+    "quote": "Through this case study, several key lessons and best practices emerged for manufacturing businesses facing SBA loan default:",
+    "url": "https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies",
+    "pass": 3
+   },
+   {
+    "quote": "Moving Forward: Strategic Resilience in Manufacturing",
+    "url": "https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies",
+    "pass": 3
+   },
+   {
+    "quote": "For manufacturing businesses, navigating the complexities of an SBA loan default requires a strategic and multifaceted approach. By learning from industry-specific challenges and implementing tailored defense strategies, businesses can not only survive financial distress but also emerge stronger and more resilient.",
+    "url": "https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies",
+    "pass": 3
+   },
+   {
+    "quote": "If your manufacturing business is facing an SBA loan default, understanding your options and acting strategically is crucial.",
+    "url": "https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies",
+    "pass": 3
+   },
+   {
+    "quote": "What are common causes of SBA loan default in manufacturing?",
+    "url": "https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing businesses often default due to market fluctuations, supply chain issues, regulatory changes, and capital-intensive operations impacting cash flow.",
+    "url": "https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies",
+    "pass": 3
+   },
+   {
+    "quote": "How can manufacturing businesses address SBA loan defaults?",
+    "url": "https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturers can address defaults by exploring restructuring options, negotiating repayment plans, and seeking professional legal counsel specialized in SBA loans.",
+    "url": "https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, industry-specific strategies include leveraging unique asset valuation, seeking deferment options tailored to manufacturing cycles, and negotiating settlements to minimize financial impact.",
+    "url": "https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies",
+    "pass": 3
+   },
+   {
+    "quote": "Supply chain disruptions can severely affect cash flow and operations in manufacturing, leading to increased risk of loan default and necessitating strategic financial and legal adjustments.",
+    "url": "https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies",
+    "pass": 3
+   },
+   {
+    "quote": "If your manufacturing business is facing SBA loan default, get the strategic defense you need from experts authorized to practice before the SBA.",
+    "url": "https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies",
+    "pass": 3
+   },
+   {
+    "quote": "Resolving damages caused by default with money.",
+    "url": "https://note.com/mtk_study6/n/nd8b769e17a60?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Gemini (Google): Used by default for ages 18+ (Keep Activity on). Can be turned off in settings.",
+    "url": "https://note.com/ai_guide_/n/nd8eff4981d8f?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Why 'default' means 'initial setting' (Complete understanding ... May 5, 2026 · Conclusion: The core of 'default' is 'failing to fulfill an obligation' → 'a state where nothing is specified' default = initial setting / default This meaning seems strange at first glance, but it all connects logically when you look at the etymology.",
+    "url": "https://note.com/kaketani/n/n9cf32135fea6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "default＝「初期設定・デフォルト」になる理由【語源から完全理解】 May 5, 2026 · まとめ default の語源は「義務を果たさない」 そこから 「何も設定しない」 「指定しない状態」へ意味が拡張 結果として 「初期設定」 「デフォルト」という意味になる",
+    "url": "https://note.com/kaketani/n/n9cf32135fea6",
+    "pass": 3
+   },
+   {
+    "quote": "[Administrative Scrivener Exam] Civil Code 20: Claims - Default E: Timing of default for obligations without a fixed due date If no repayment deadline is set, default liability begins from the time the creditor demands payment. Since the demand was made two months ago, B, who has not paid without justifiable reason, naturally incurs default liability.",
+    "url": "https://note.com/mtk_study6/n/nd8b769e17a60?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Is it safe to put company information into AI? | Default ... Sep 23, 2026 · Personal plans may use data for training by default (Claude is opt-in), while all three corporate plans do not use it by default. I have included what is safe and what is not safe to input (red, yellow, green), settings that companies currently using personal plans should implement today, and a template for a one-page inte",
+    "url": "https://note.com/ai_guide_/n/nd8eff4981d8f?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Why 'default' means 'initial setting' (Complete understanding from etymology)｜掛谷拓也",
+    "url": "https://note.com/kaketani/n/n9cf32135fea6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why 'default' means 'initial setting' (Complete understanding from etymology)",
+    "url": "https://note.com/kaketani/n/n9cf32135fea6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "■ Conclusion: The core of 'default' is 'failing to fulfill an obligation' → 'a state where nothing is specified'",
+    "url": "https://note.com/kaketani/n/n9cf32135fea6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "default = initial setting / default",
+    "url": "https://note.com/kaketani/n/n9cf32135fea6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This meaning seems strange at first glance, but it all connects logically when you look at the etymology.",
+    "url": "https://note.com/kaketani/n/n9cf32135fea6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "■ Etymology: de + fault",
+    "url": "https://note.com/kaketani/n/n9cf32135fea6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": defect / error (related to 'fail')",
+    "url": "https://note.com/kaketani/n/n9cf32135fea6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "default = to deviate from or fail to fulfill an obligation",
+    "url": "https://note.com/kaketani/n/n9cf32135fea6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "default＝「初期設定・デフォルト」になる理由【語源から完全理解】｜掛谷拓也",
+    "url": "https://note.com/kaketani/n/n9cf32135fea6",
+    "pass": 3
+   },
+   {
+    "quote": "default＝「初期設定・デフォルト」になる理由【語源から完全理解】",
+    "url": "https://note.com/kaketani/n/n9cf32135fea6",
+    "pass": 3
+   },
+   {
+    "quote": "■ 結論：defaultの核心は「義務を果たさない」→「何も指定しない状態」",
+    "url": "https://note.com/kaketani/n/n9cf32135fea6",
+    "pass": 3
+   },
+   {
+    "quote": "この意味は一見不思議ですが、語源から考えると一本でつながります。",
+    "url": "https://note.com/kaketani/n/n9cf32135fea6",
+    "pass": 3
+   },
+   {
+    "quote": "default = 義務から外れる・果たさない",
+    "url": "https://note.com/kaketani/n/n9cf32135fea6",
+    "pass": 3
+   },
+   {
+    "quote": "He defaulted on his loan.",
+    "url": "https://note.com/kaketani/n/n9cf32135fea6",
+    "pass": 3
+   },
+   {
+    "quote": "② しかし「設定しない（＝default）」",
+    "url": "https://note.com/kaketani/n/n9cf32135fea6",
+    "pass": 3
+   },
+   {
+    "quote": "default = 「自分で決めなかったときに使われる設定」",
+    "url": "https://note.com/kaketani/n/n9cf32135fea6",
+    "pass": 3
+   },
+   {
+    "quote": "[Administrative Scrivener Exam] Civil Code 20: Claims - Default｜MTK",
+    "url": "https://note.com/mtk_study6/n/nd8b769e17a60?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Administrative Scrivener Exam] Civil Code 20: Claims - Default",
+    "url": "https://note.com/mtk_study6/n/nd8b769e17a60?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Key points of default",
+    "url": "https://note.com/mtk_study6/n/nd8b769e17a60?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The state where a promise (obligation) is not fulfilled is broadly classified into three types.",
+    "url": "https://note.com/mtk_study6/n/nd8b769e17a60?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": Failure to perform by the deadline even though performance is possible (e.g., can deliver rice, can pay money).",
+    "url": "https://note.com/mtk_study6/n/nd8b769e17a60?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Impossibility of performance",
+    "url": "https://note.com/mtk_study6/n/nd8b769e17a60?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": The object of the obligation is lost (e.g., a unique item is destroyed by fire), making performance physically or socially impossible.",
+    "url": "https://note.com/mtk_study6/n/nd8b769e17a60?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Incomplete performance",
+    "url": "https://note.com/mtk_study6/n/nd8b769e17a60?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Is it safe to put company information into AI? | Default settings for training usage in ChatGPT, Claude, and Gemini｜AI Guide",
+    "url": "https://note.com/ai_guide_/n/nd8eff4981d8f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Is it safe to put company information into AI? | Default settings for training usage in ChatGPT, Claude, and Gemini",
+    "url": "https://note.com/ai_guide_/n/nd8eff4981d8f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I will answer the question \"Is it safe to put customer data into AI?\" using only information confirmed on the official pages of ChatGPT, Claude, and Gemini (as of September 13, 2026). Personal plans may use data for training by default (Claude is opt-in), while all three corporate plans do not use it by default. I have included what is safe and what is not safe to input (red, yellow, green), setti",
+    "url": "https://note.com/ai_guide_/n/nd8eff4981d8f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The full text of the prompt (instructions for the AI) used is provided below. You can copy and use it as is. No membership registration is required.",
+    "url": "https://note.com/ai_guide_/n/nd8eff4981d8f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Default value table for the 3 companies (confirmation date",
+    "url": "https://note.com/ai_guide_/n/nd8eff4981d8f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If this article is helpful, please consider supporting it with a tip to encourage me to create the next one. )",
+    "url": "https://note.com/ai_guide_/n/nd8eff4981d8f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Default value table for the 3 companies regarding \"whether input is used for training\" (Confirmation date: September 13, 2026)",
+    "url": "https://note.com/ai_guide_/n/nd8eff4981d8f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Personal use (Free/Paid)",
+    "url": "https://note.com/ai_guide_/n/nd8eff4981d8f?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Default (@withdefault) / Posts / X May 21, 2019 · Now you can map attributes on People or Company objects in Default to the corresponding fields on objects across tools like Salesforce, HubSpot, Outreach, and more",
+    "url": "https://x.com/withdefault",
+    "pass": 3
+   },
+   {
+    "quote": "Rethinking our default profile photo - blog.x.com Mar 31, 2017 · For the past seven years, everyone who has created an account on Twitter starts out with their default profile photo as an egg. This was a playful way to reference how eggs hatch into birds that send all the Tweets you see on Twitter!",
+    "url": "https://blog.x.com/en/product/rethinking-our-default-profile-photo",
+    "pass": 3
+   },
+   {
+    "quote": "Default-Setting (@RearViewGone) / X My page is NOT a democracy. I RT what \"I\" want. Any: Race, Weight, or Gender. Peace & Love #DMV 🏳️🌈 🛑 ADULT CONTENT. my page is a little of everything.",
+    "url": "https://x.com/RearViewGone",
+    "pass": 3
+   },
+   {
+    "quote": "Billing basics | X Help Center If the card you want to select has already been added, click on the star icon to mark it as the default card. Your campaigns will now be billed to the card you selected.",
+    "url": "https://business.x.com/en/help/account-setup/billing-basics",
+    "pass": 3
+   },
+   {
+    "quote": "default (@default_MD) / X ／ #V最協S3 公式優勝予想キャンペーン🥳🧡🧡 \\ VTuber最協決定戦の優勝チームを予想して豪華賞品をゲットしよう🎁 参加方法 ① @ TeamGRAPHT をフォロー🙌 ②優勝すると思うチームの｢#〇〇〇WIN｣のタグと「#V最協S3」のタグをつけて、この投稿を引用 ...",
+    "url": "https://x.com/default_MD",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Default | LinkedIn Default is an all-in-one platform that helps you book more qualified meetings, right from your website. Just connect your forms, CRM, and calendar to start booking meetings.",
+    "url": "https://www.linkedin.com/company/withdefault",
+    "pass": 3
+   },
+   {
+    "quote": "Default | LinkedIn Default | 6,956 followers on LinkedIn. Setting new standards for product and technology | We are a marketplace of vetted and immediately available software developers.",
+    "url": "https://www.linkedin.com/company/default-company",
+    "pass": 3
+   },
+   {
+    "quote": "Ishan Arora - Strategic by training, adaptable by necessity ...<img src=\"https://estaticos-cdn.prensaiberica.es/clip ...Gina Saluba - Cagayan De Oro City, Northern Mindanao ...DEFAULT IS BORING. And apparently, we took that personally ...Default | LinkedIn Strategic by training, adaptable by necessity & Curious by default. · Currently in my bachelor's trying to figure out how the Financial service",
+    "url": "https://in.linkedin.com/in/ishan-arora-741738215",
+    "pass": 3
+   },
+   {
+    "quote": "DEFAULT IS BORING. And apparently, we took that personally ... DEFAULT IS BORING. And apparently, we took that personally. Už za pár dní nás čeká Brno Bold Festival 2026. A protože jsem jedním z lidí, kteří za tím celým stojí, můžu vám říct dvě věci: Dáváme do toho s Vít Rýznar a Bloomfield Brand Studio opravdu hodně. Sama jsem zatraceně zvědavá, co z toho nakonec vznikne. 😁 Letos jsme se rozhodli",
+    "url": "https://cz.linkedin.com/posts/viktoria-rýznarová-89267664_default-is-boring-and-apparently-we-took-activity-7524496378471936000-S1jh",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Default (@default) • Facebook, Connect with friends Default is on Facebook. Join Facebook to connect with Default and others you may know. Facebook gives people the power to share and makes the world more...",
+    "url": "https://www.facebook.com/default/",
+    "pass": 3
+   },
+   {
+    "quote": "Default (Band) - FacebookFacebookConversation Routing - Meta for DevelopersFacebook - log in or sign upCustomizing the default flow - Meta for DevelopersResults | Meta Business Help Center Oct 19, 2026 · Default (Band). 66,590 followers · 878 talking about this. The Fallout 25th Anniversary Tour on sale now: http://defaultband.com Email or mobile number Password Oct 18, 2026 · Default behavior, or",
+    "url": "https://www.facebook.com/DefaultOfficial/",
+    "pass": 3
+   },
+   {
+    "quote": "Customizing the default flow - Meta for Developers Oct 15, 2026 · This document provides an overview of the ways you can customize Embedded Signup’s default flow. You can use these options to present different versions of the flow to your business customers.",
+    "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/embedded-signup/custom-flows/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.default.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.default.com/solutions/default-mcp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.default.com/solutions/inbound-marketing-automation-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.default.com/solutions/data-enrichment-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.default.com/solutions/meeting-scheduling-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.default.com/solutions/revenue-operations-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.default.com/case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.default.com/case-study/how-cortex-used-default-to-architect-a-single-control-layer-for-all-gtm-tools",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.default.com/case-study/how-people-data-labs-used-default-to-architect-a-reliable-revenue-engine",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.default.com/case-study/how-rootly-orchestrated-salesforce-hubspot-to-double-gtm-efficiency",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.default.com/case-study/how-profound-drove-140-increase-in-pipeline-with-default",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.default.com/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.default.com/solutions/outbound-sales-automation-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.default.com/solutions/sdr-to-ae-handoff",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.default.com/solutions/crm-hygiene-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.default.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.default.com/solutions/hubspot-data-enrichment",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.default.com/assets/solutions/logos/outreach.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.default.com/assets/solutions/logos/salesloft.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.default.com/assets/solutions/logos/gong.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.default.com/assets/solutions/logos/apollo.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://eigo.plus/englishphrase/default",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.issoh.co.jp/column/details/9362/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toushin.or.jp/files/statistics/80/T_06.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.r-i.co.jp/rating/data/defaults.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/8378/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/National_debt_of_Japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jcr.co.jp/en/rrinfo/default/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.r-i.co.jp/en/rating/data/defaults.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spglobal.com/ratings/en/regulatory/article/-/view/sourceId/101666139",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://terms.law/case-studies/us-asia-supplier-manufacturing-default.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/default-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/default/__E9_YejbVHAwZijFJqUaC3KLajMu4uaWazgVt0rCHsgI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://akta.pro/company-profiles/0000efr/default",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gritt.io/company/withdefault/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kaketani/n/n9cf32135fea6?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kaketani/n/n9cf32135fea6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mtk_study6/n/nd8b769e17a60?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ai_guide_/n/nd8eff4981d8f?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/withdefault",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://blog.x.com/en/product/rethinking-our-default-profile-photo",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/RearViewGone",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://business.x.com/en/help/account-setup/billing-basics",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/company/withdefault",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/default-company",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/ishan-arora-741738215",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cz.linkedin.com/posts/viktoria-rýznarová-89267664_default-is-boring-and-apparently-we-took-activity-7524496378471936000-S1jh",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/default/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/DefaultOfficial/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/embedded-signup/custom-flows/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/default_MD",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Default 日本 導入",
+   "results": [
+    "https://eigo.plus/englishphrase/default",
+    "https://www.issoh.co.jp/column/details/9362/",
+    "https://www.toushin.or.jp/files/statistics/80/T_06.pdf",
+    "https://www.r-i.co.jp/rating/data/defaults.html",
+    "https://www.r-i.co.jp/topics_data_risk_default-ratios/2026/06/topics_data_risk_default-ratios_20260630_jpn.pdf",
+    "https://forbesjapan.com/articles/detail/71663",
+    "https://www.hitachi-solutions-create.co.jp/column/management-strategy/cloud-by-default.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Default 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://biz.moneyforward.com/contract/templates/990/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Default Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/National_debt_of_Japan",
+    "https://www.jcr.co.jp/en/rrinfo/default/",
+    "https://www.r-i.co.jp/en/rating/data/defaults.html",
+    "https://www.spglobal.com/ratings/en/regulatory/article/-/view/sourceId/101666139",
+    "https://www.jcr.co.jp/en/pdf/dm31/20240325Default_Studies_en.pdf",
+    "https://www.jpx.co.jp/jscc/en/risk/default.html",
+    "https://dictionary.cambridge.org/dictionary/english-japanese/default"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Default manufacturing customer case study",
+   "results": [
+    "https://terms.law/case-studies/us-asia-supplier-manufacturing-default.html",
+    "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.mckinsey.com/about-us/case-studies",
+    "https://www.flowinglaw.com/defective-product-cases-examples-real-life-stories-and-lessons-learned/",
+    "https://fastercapital.com/content/Business-loan-default-prediction--Case-Studies--Successful-Business-Loan-Default-Prevention.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Default white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.seoreseller.com/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Default founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/default-revenue",
+    "https://tracxn.com/d/companies/default/__E9_YejbVHAwZijFJqUaC3KLajMu4uaWazgVt0rCHsgI",
+    "https://akta.pro/company-profiles/0000efr/default",
+    "https://www.gritt.io/company/withdefault/",
+    "https://pitchbook.com/profiles/company/490993-30",
+    "https://www.zoominfo.com/c/default/346522174",
+    "https://fundediq.co/default-default-com-funding/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Default",
+   "results": [
+    "https://note.com/kaketani/n/n9cf32135fea6?hl=en",
+    "https://note.com/kaketani/n/n9cf32135fea6",
+    "https://note.com/mtk_study6/n/nd8b769e17a60?hl=en",
+    "https://note.com/ai_guide_/n/nd8eff4981d8f?hl=en",
+    "https://note.com/brave_lupine5275/n/ndbc774a0f44d?hl=en",
+    "https://note.com/hyoira/n/n626e1d4a965b",
+    "https://note.com/mashimashi_note/n/na1bc7c72e511"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Default",
+   "results": [
+    "https://x.com/withdefault",
+    "https://blog.x.com/en/product/rethinking-our-default-profile-photo",
+    "https://x.com/RearViewGone",
+    "https://business.x.com/en/help/account-setup/billing-basics",
+    "https://help.x.com/en/safety-and-security/public-and-protected-posts",
+    "https://help.x.com/en/managing-your-account/cant-access-my-accounts-email-address",
+    "https://business.x.com/en/help/campaign-setup/x-ads-manager",
+    "https://x.com/defaultio",
+    "https://help.x.com/en/using-x/x-timeline"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:linkedin.com Default",
+   "results": [
+    "https://www.linkedin.com/company/withdefault",
+    "https://www.linkedin.com/company/default-company",
+    "https://in.linkedin.com/in/ishan-arora-741738215",
+    "https://cz.linkedin.com/posts/viktoria-rýznarová-89267664_default-is-boring-and-apparently-we-took-activity-7524496378471936000-S1jh",
+    "https://www.linkedin.com/company/default",
+    "https://ph.linkedin.com/in/gina-saluba-a44183345?upsellOrderOrigin=default_guest_learning",
+    "https://ve.linkedin.com/jobs/view/img-src=-https-estaticos-cdn-prensaiberica-es-clip-f28e93d0-76ee-4599-a8f7-bb34698cb8c1-16-9-aspect-ratio-default-0-jpg-alt=-unidad-de-apoyo-el-soporte-para-garantizar-la-inclusión-real-at-el-periódico-mediterráneo-4452159809",
+    "https://www.linkedin.com/in/nicoaferr"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:facebook.com Default",
+   "results": [
+    "https://www.facebook.com/default/",
+    "https://www.facebook.com/DefaultOfficial/",
+    "https://secure.facebook.com/",
+    "https://developers.facebook.com/documentation/business-messaging/whatsapp/embedded-signup/custom-flows/",
+    "https://apps.facebook.com/",
+    "https://developers.facebook.com/documentation/business-messaging/messenger-platform/conversation-routing/",
+    "https://business.facebook.com/business/help/611432918970668/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Default note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Default X 投稿",
+   "results": [
+    "https://scratch.mit.edu/users/Default_X/",
+    "https://x.com/default_MD",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://x.com/Day23Look/article/2107329909219840164",
+    "https://note.com/easy_wand/n/na1a498cc3275",
+    "https://help.x.com/ja/using-x/types-of-posts",
+    "https://fitly.pics/blog/x-twitter-post-tips"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部40頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部40頁・検索12回）"
+ }
+}

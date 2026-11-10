@@ -1,0 +1,562 @@
+{
+ "name": "山梨研究所",
+ "aliases": [],
+ "context": "PBF=yes 装置=Sapphire;Velo3D 出典=https://nsc.jp.nipponsanso.com/jp/news/detail.html?itemid=30&dispmid=952",
+ "researched_at": "2026-11-10T17:19:10.323631+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {},
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "Research / Development",
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "pass": 3
+   },
+   {
+    "quote": "金属加工を手掛ける製造現場において、急速に導入が進む金属AM（アディティブ・マニュファクチュアリング）",
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "pass": 3
+   },
+   {
+    "quote": "日本酸素は、革新的な金属3Dプリンタメーカーである米国VELO",
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "pass": 3
+   },
+   {
+    "quote": "無限の可能性を秘めた、金属3Dプリンタのモノづくり",
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタの中でも金属の粉末やフィラメントとの混合素材を用いるものを「金属3Dプリンタ」と呼び、これを活用したモノづくりを",
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、最も一般的なLPBF（Laser Powder Bed Fusion：レーザ粉末床溶融結合、通称「レーザパウダーベッド」）方式では、金属の粉末を必要な量だけレーザ光線で溶かし固めながら一層ずつ積み重ね、目的の形状に仕上げていきます",
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "pass": 3
+   },
+   {
+    "quote": "まず、金属AMにはLPBF、DED、WAAM、FDMなど",
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "pass": 3
+   },
+   {
+    "quote": "※LPBF（Laser Powder Bed Fusion）：レーザ粉末床溶融結合方式（通称、レーザパウダーベッド方式）",
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "pass": 3
+   },
+   {
+    "quote": "日本酸素は、オープンイノベーション戦略の下、金属3Dプリンタメーカーをはじめ、DfAM（Design for AM）といわれるAMに特化した造形技術を持つプレイヤーとの業務提携を進めてきました",
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "pass": 3
+   },
+   {
+    "quote": "社は、自社の革新的な金属3Dプリンタが米国で次世代超音速旅客機の部品製造に利用されるなど、試作品の段階を乗り越えて実用化に至っています",
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "pass": 3
+   },
+   {
+    "quote": "極めて厳格な品質基準が要求される航空・宇宙産業での導入実績を積み重ねてきた点からも、他の金属3Dプリンタメーカーに先行しており、私たちにとって強力なパートナーです",
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "pass": 3
+   },
+   {
+    "quote": "の日本酸素だからこそ、金属AMの分野に応用できる独自の技術力やノウハウを数多く保有しているのです",
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタは、金属の粉末にレーザ光線を照射し、溶かし固めながら造形していきます",
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "pass": 3
+   },
+   {
+    "quote": "その豊富な実績に加えて、自社の研究所で溶接技術の研究開発に取り組み、さらに溶接分野のソリューション提供に特化したグループ会社も保有しています",
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "pass": 3
+   },
+   {
+    "quote": "自ら溶接を手掛ける技術力と溶接現場のニーズを熟知したノウハウの全てを金属3Dプリンタにも活用できる点こそ、日本酸素ならではの強みなのです",
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタにおいても、シールドガスの存在は欠かせません",
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "pass": 3
+   },
+   {
+    "quote": "日本酸素は、超高純度のガス供給が要求される半導体業界においても多数実績があり、比類なきレベルの技術力とノウハウを保有しています",
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタの素材である金属の粉末は、直径約15マイクロメートル（0.015ミリメートル）と非常に小さいだけでなく、粒が均一でかつ真球に近い形状であることが求められます",
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "pass": 3
+   },
+   {
+    "quote": "先端分野の生産ラインで安定した製造品質を維持するには、装置導入以降も、高度な技能を持った技術者による定期的なメンテナンスが不可欠です",
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "pass": 3
+   },
+   {
+    "quote": "これは金属3Dプリンタに関しても全く同じことが言えます",
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "pass": 3
+   },
+   {
+    "quote": "日本酸素は、MOCVDで培った高度な技能と豊富な経験を生かして、金属3Dプリンタに関連した幅広いサービスの提供が可能です",
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "3Dプリンタの中でも金属の粉末やフィラメントとの混合素材を用いるものを「金属3Dプリンタ」と呼び、これを活用したモノづくりを",
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、最も一般的なLPBF（Laser Powder Bed Fusion：レーザ粉末床溶融結合、通称「レーザパウダーベッド」）方式では、金属の粉末を必要な量だけレーザ光線で溶かし固めながら一層ずつ積み重ね、目的の形状に仕上げていきます",
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "pass": 3
+   },
+   {
+    "quote": "※LPBF（Laser Powder Bed Fusion）：レーザ粉末床溶融結合方式（通称、レーザパウダーベッド方式）",
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタは、金属の粉末にレーザ光線を照射し、溶かし固めながら造形していきます",
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタの素材である金属の粉末は、直径約15マイクロメートル（0.015ミリメートル）と非常に小さいだけでなく、粒が均一でかつ真球に近い形状であることが求められます",
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "pass": 3
+   },
+   {
+    "quote": "日本酸素は、金属粉末の分野においても最先端の技術研究に取り組み、マイクロメートルの1000分の1の単位であるナノメートルサイズの「ナノ材料」を独自に開発・販売しています",
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末を最適な状態で保管できる「金属材料乾燥保管キャビネット」をはじめ、シールドガスの純度を常に一定に保つ「循環精製システム」、最適な供給ラインでシールドガスを届ける「ドライガスチューブ」、99.999％の窒素を発生させる「高純度PSA」など、幅広い製品ラインアップを取り揃え、お客様にとって最適な金属AMの実現をサポートします",
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "宇宙環境試験装置 -プラント・エンジニアリング分野",
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "pass": 3
+   },
+   {
+    "quote": "DED（Direct Energy Deposition）：指向性エネルギー堆積方式",
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "pass": 3
+   },
+   {
+    "quote": "社は、自社の革新的な金属3Dプリンタが米国で次世代超音速旅客機の部品製造に利用されるなど、試作品の段階を乗り越えて実用化に至っています",
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "pass": 3
+   },
+   {
+    "quote": "極めて厳格な品質基準が要求される航空・宇宙産業での導入実績を積み重ねてきた点からも、他の金属3Dプリンタメーカーに先行しており、私たちにとって強力なパートナーです",
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "pass": 3
+   },
+   {
+    "quote": "日本酸素は、超高純度のガス供給が要求される半導体業界においても多数実績があり、比類なきレベルの技術力とノウハウを保有しています",
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "pass": 3
+   },
+   {
+    "quote": "日本酸素は、ガスメーカーでありながら装置メーカーの一面も持ち、化合物半導体の製造に欠かせない「MOCVD装置」を提供してきました",
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://kankyo-hozen.biz/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trichemical.com/about/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/company/450927/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yamanashi-veh.jp/machining/1472",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=VFbFpD9vNzc",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jampt.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.yamanashi.jp/documents/52727/01_hyoukasyo_soukenn.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yafo.or.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOCC149930U3A211C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rs-yamanashi.net/staffblog/yamanashi_ui.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp38322/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enregion.jp/consultant-blog/2437/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "山梨研究所",
+   "results": [
+    "https://www.yafo.or.jp/",
+    "https://www.pref.yamanashi.jp/shisetsu/yoto/05.html",
+    "https://www.facebook.com/Yamanashi.Research.Institute.Foundation/?locale=ja_JP",
+    "http://survey.co.jp/gyoumu/yesi/",
+    "http://y-bunka.t-zaidan.jp/",
+    "https://www.yamagiken.co.jp/",
+    "https://www.yafo.or.jp/access/",
+    "https://x.com/YamanashiRes",
+    "https://www.yamanashi-kankou.jp/kankou/spot/p_9233.html",
+    "https://www.y-kyoken.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "株式会社山梨研究所",
+   "results": [
+    "http://survey.co.jp/gyoumu/yesi/",
+    "https://www.yamagiken.co.jp/company.html",
+    "https://www.city.hokuto.yamanashi.jp/recruit/articles/21364.html",
+    "https://kikkake-design-labo.com/",
+    "https://tenshoku.mynavi.jp/company/450927/",
+    "https://www.yafo.or.jp/",
+    "https://kankyo-hozen.biz/company/",
+    "https://www.pref.yamanashi.jp/s-rikouken/",
+    "https://company-search.jp/corp/6090001018663/",
+    "https://ja.wikipedia.org/wiki/株式会社の研究所一覧"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "山梨研究所 株式会社",
+   "results": [
+    "http://survey.co.jp/gyoumu/yesi/",
+    "https://www.yamagiken.co.jp/company.html",
+    "https://tenshoku.mynavi.jp/company/450927/",
+    "https://kikkake-design-labo.com/",
+    "https://www.yafo.or.jp/",
+    "https://www.city.hokuto.yamanashi.jp/recruit/articles/21364.html",
+    "https://www.pref.yamanashi.jp/shinsouken/",
+    "https://kankyo-hozen.biz/company/",
+    "https://www.e-shokokai.jp/hokuto/members/156_taiyo/index.html",
+    "https://ycca-yamanashi.org/members/02.php"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "山梨研究所 会社概要 資本金 設立",
+   "results": [
+    "https://kankyo-hozen.biz/company/",
+    "https://www.trichemical.com/about/outline.html",
+    "https://tenshoku.mynavi.jp/company/450927/",
+    "https://ycca-yamanashi.org/members/02.php",
+    "https://www.yamagiken.co.jp/company.html",
+    "https://www.pref.yamanashi.jp/documents/52727/01_hyoukasyo_soukenn.pdf",
+    "https://v-spirits.com/company_yamanashiken",
+    "https://lawplayer.com/jp/company/5090001002271",
+    "https://www.yamato-net.co.jp/company/outline/",
+    "https://www.pref.yamanashi.jp/documents/119721/01r6yamanashisouken.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "山梨研究所 金属3Dプリンタ 導入",
+   "results": [
+    "https://yamanashi-veh.jp/machining/1472",
+    "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "https://www.youtube.com/watch?v=VFbFpD9vNzc",
+    "https://www.pref.yamanashi.jp/yitc/kit/instruments/h26_m3dp.html",
+    "https://www.iri.pref.shizuoka.jp/printer/",
+    "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/the-future-of-metal-3d-printing",
+    "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "https://tenshoku.mynavi.jp/jobinfo-178448-2-4-1/",
+    "https://yamanashi-veh.jp/wphp/wp-content/uploads/2023/10/研究成果ポスター_金属３Ｄプリンタを活用した高付加価値製品創出に関する研究.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "山梨研究所 金属積層造形 設備",
+   "results": [
+    "https://jampt.jp/",
+    "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-houkokusyo.pdf",
+    "https://www.pref.yamanashi.jp/yitc/kit/instruments/h26_m3dp.html",
+    "https://www.3dpro.jp/",
+    "https://www.jfe-steel.co.jp/products/solution/metal-3d-printing/index.html",
+    "https://www.gitc.pref.nagano.lg.jp/zairyo/3Ddigital/setsubi/1_3Dprinter.html",
+    "https://news.sharelab.jp/category/3dp-news/metal-3dprinter/",
+    "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "山梨研究所 株主 出資 親会社",
+   "results": [
+    "https://www.pref.yamanashi.jp/documents/52727/01_hyoukasyo_soukenn.pdf",
+    "https://www.yafo.or.jp/",
+    "https://www.nikkei.com/article/DGXZQOCC149930U3A211C2000000/",
+    "https://www.forstartups.com/news/nashirabo-20250925",
+    "https://j-ems.co.jp/news-detail/ydm3is3vgi_6",
+    "https://www.yamanashibank.co.jp/assets/files/33e1ee04ed5c17f77d5401bb45662edf.pdf",
+    "https://www.sdgs.fan/sdgs/article/detail/20250426032631.html",
+    "https://www.trichemical.com/ir/pdf/2020042701.pdf",
+    "https://www.pref.yamanashi.jp/documents/124834/1r7yamanashisouken.pdf",
+    "https://irbank.net/E05062/ac"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "山梨研究所 売上高 従業員数",
+   "results": [
+    "https://rs-yamanashi.net/staffblog/yamanashi_ui.html",
+    "https://job.mynavi.jp/27/pc/search/corp38322/outline.html",
+    "https://enregion.jp/consultant-blog/2437/",
+    "https://www.pref.yamanashi.jp/documents/52727/01_hyoukasyo_soukenn.pdf",
+    "https://100years-company.jp/column/article-030180/",
+    "https://www.yamagiken.co.jp/company.html",
+    "https://baseconnect.in/companies/07ddc3b1-424b-463f-84ec-0af88b103c43",
+    "https://www.yafo.or.jp/",
+    "https://kankyo-hozen.biz/company/",
+    "https://salesnow.jp/db/companies/jcb8j39jx3n4vwa9e"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com 山梨研究所",
+   "results": [
+    "https://note.com/millecuore/n/n38416a3099de",
+    "https://note.com/monosashi_yafo/n/nf94844b4bcd0",
+    "https://note.com/kemonolab/n/n5c703d5092c1",
+    "https://note.com/yamanashi_ypu/m/m647c04264c1b",
+    "https://note.com/takuto_kanai/n/n8b72de3279bf",
+    "https://note.com/tokusanmonkai/n/n888891913dcf",
+    "https://note.com/fumipagu/n/n9bdd74b75597",
+    "https://note.com/nakaomi/n/n4414489189cf",
+    "https://note.com/uddesign/n/n7dac98bea382",
+    "https://note.com/kemonolab"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:x.com 山梨研究所",
+   "results": [
+    "https://x.com/YamanashiRes",
+    "https://x.com/shimura_grapes/status/1909160541005742423",
+    "https://x.com/yamanashi_uwine",
+    "https://x.com/sannichi/status/2062540300967653883",
+    "https://x.com/nhk_seikatsu/status/2070516111054172542",
+    "https://x.com/shimura_grapes",
+    "https://x.com/gikai_shizuoka/status/2114995975572034039",
+    "https://x.com/yamanashipref/status/1819206494250062161",
+    "https://x.com/yokohama_fc/status/1900396474044678189",
+    "https://x.com/rjp_news/status/2023285874872721829"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com 山梨研究所",
+   "results": [
+    "https://jp.linkedin.com/in/hiroaki-tomioka-001ab286",
+    "https://jp.linkedin.com/in/tomoyuki-nakamura-235a07104",
+    "https://www.linkedin.com/pub/dir/%E5%85%85%E5%AE%8F/%E5%90%89%E6%9C%AC",
+    "https://jp.linkedin.com/in/toru-sakai-85246b134",
+    "https://jp.linkedin.com/in/kazuaki-ohtsuki-40a53250",
+    "https://jp.linkedin.com/in/shin-tezuka-139a3385",
+    "https://jp.linkedin.com/in/shota-watanabe-22aab039a",
+    "https://jp.linkedin.com/in/%E7%9C%9F%E4%B9%9F-%E6%BF%B1%E5%B4%8E-755874168",
+    "https://jp.linkedin.com/in/michio-kouno-a0808a3a",
+    "https://jp.linkedin.com/in/正彦-北原-ba7994262"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com 山梨研究所",
+   "results": [
+    "https://www.facebook.com/Yamanashi.Research.Institute.Foundation/",
+    "https://www.facebook.com/yfri1935/?locale=ja_KS",
+    "https://www.facebook.com/Mt.FUJI.research.institute/",
+    "https://www.facebook.com/p/%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BA%E5%B1%B1%E6%A2%A8%E6%96%87%E5%8C%96%E8%B2%A1%E7%A0%94%E7%A9%B6%E6%89%80-61580837480090/",
+    "https://www.facebook.com/p/%E3%81%84%E3%81%B0%E3%82%89%E3%81%8D%E7%B5%8C%E5%96%B6%E7%A0%94%E7%A9%B6%E6%89%80-61550783632208/",
+    "https://www.facebook.com/Mt.FUJI.research.institute/photos/",
+    "https://www.facebook.com/hisashi.imai.14/",
+    "https://www.facebook.com/p/%E6%A3%AE%E3%81%AE%E6%95%99%E5%AE%A4%E5%B1%B1%E6%A2%A8%E7%9C%8C%E6%A3%AE%E6%9E%97%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80%E9%99%84%E5%B1%9E%E6%96%BD%E8%A8%AD-100036783263463/",
+    "https://www.facebook.com/Yamanashi.Research.Institute.Foundation/posts/%E3%83%AA%E3%83%9D%E3%83%BC%E3%83%88%E3%82%92%E6%9B%B4%E6%96%B0%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E4%BE%A1%E5%80%A4%E3%81%AF%E3%81%A9%E3%81%93%E3%81%AB%E3%81%82%E3%82%8B%E5%B1%B1%E6%A2%A8%E6%97%A5%E6%97%A5%E6%96%B0%E8%81%9E20261026%E5%B1%B1%E6%A2%A8%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80-%E8%AA%BF%E6%9F%BB%E7%A0%94%E7%A9%B6%E9%83%A8%E9%95%B7-%E4%BD%90%E8%97%A4-%E6%96%87%E6%98%AD%E4%BE%A1%E5%80%A4-%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A-%E4%BC%9D%E7%B5%B1%E5%B7%A5%E8%8A%B8-%E3%82%84%E3%81%8D%E3%82%82%E3%81%AE-%E5%B0%8F%E9%B9%BF%E7%94%B0%E7%84%BC-%E6%B3%A2%E4%BD%90%E8%A6%8B/1563116215836544/",
+    "https://www.facebook.com/yfri1935/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "山梨研究所 note 社長",
+   "results": [
+    "https://yamanashi-pref.note.jp/",
+    "https://note.com/yamanashi_ic/n/n55d54a4fb72e",
+    "https://note.com/qoox_ikko/n/na1e0d8027034",
+    "https://note.com/tsugiyuki_toppa/n/ne84b7c15451f",
+    "https://plus-note.jp/",
+    "https://note.com/takudo4610srt/n/n33d546f1eccb",
+    "https://www.nikkei.com/article/DGKKZO73360940Z20C21A6TB0000/",
+    "https://note.com/yamanashi_iju",
+    "https://ja.wikipedia.org/wiki/ハル研究所",
+    "https://www.youtube.com/watch?v=amRmCW37bjc"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "山梨研究所 X 投稿",
+   "results": [
+    "https://x.com/yamanashi_univ",
+    "https://www.pref.yamanashi.jp/sangyo-sin/socialmedia.html",
+    "https://www.yomiuri.co.jp/national/20261022-GYT1T00338/",
+    "https://www.yamanashi-kankou.jp/kankou/spot/p_9233.html",
+    "https://x.com/yamanashishizen?lang=ja",
+    "https://www.facebook.com/yfri1935/",
+    "https://www.47news.jp/15169728.html",
+    "https://www.instagram.com/p/DXqNLhyE5R0/",
+    "https://www.y-icl.net/",
+    "https://x.com/yamanashi_uwine/status/2119989170487578766"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "資本金": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "創業年度": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "従業員数": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "所在地": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "保有設備": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "資本金・株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）"
+ }
+}

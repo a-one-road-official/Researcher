@@ -1,0 +1,1731 @@
+{
+ "name": "DialerBee",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-10T17:22:00.310062+00:00",
+ "official_url": "https://dialerbee.com/",
+ "identified_by": "given",
+ "profile": {
+  "連絡先": [
+   {
+    "label": "Contact rate",
+    "value": "Calls answered by a person, divided by calls dialled Call Outcomes in Insights; Campaign Summary report",
+    "url": "https://dialerbee.com/solutions/collections/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "AI Contact Center Software & Predictive Dialer | DialerBee",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One workspace for every conversation — inbound queue calls, outbound campaigns and messaging threads.",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect the SIP trunks you already have from any provider, with no carrier lock-in and no per-minute platform fees.",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Layla takes and places calls, and Agent Studio is where you build it. When a person takes the call, the same AI summarises, reads sentiment and suggests the reply.",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Preview, progressive, power and predictive dialing",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Unified voice, WhatsApp, SMS and email threads",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Preview, progressive, power and predictive",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "log. These are compliance-supporting controls: they support your compliance programme, they do not replace it.",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. DialerBee supports BYOC: connect the SIP trunks you already have from any provider, or keep the phone system you already run and use DialerBee as the routing, campaign and compliance layer on top. No carrier lock-in and no per-minute platform fees.",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How does pricing work?",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Per-agent platform pricing across three tiers plus a reseller tier, with no per-minute platform fees — you bring your own carrier and pay the carrier directly. AI voice agent minutes are billed on usage. The free trial needs no credit card. Current tiers and feature rows are on the pricing page.",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Call center software pricing",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Real cost of per-minute pricing",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive dialer tuning guide",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Local presence dialing guide",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Telemarketing software",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Telecom and SIP Providers: White-Label | DialerBee",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "For Telecom & SIP Providers",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "Telecom and SIP providers: turn your SIP base into white-label revenue",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "Monetize your carrier infrastructure with a production-grade AI contact center platform. Your brand, your trunks, our engine. Turn per-minute voice revenue into recurring SaaS fees.",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "Compliance-supporting (TCPA, GDPR, TDRA)",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "Per-agent or per-minute pricing you control. Set your own margins. Usage reporting via API. Export billing data for your invoicing systems.",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "Provision and manage tenants from a partner admin portal. Onboard new clients in minutes. PostgreSQL RLS-enforced data isolation per tenant.",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "Recurring revenue from every agent seat. Scale revenue as your customers grow their teams. Margin dashboards show profit per tenant in real time.",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "REST API for provisioning, billing, reporting, and webhooks. Integrate into your existing BSS/OSS. JWT auth, OpenAPI docs, and code samples.",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "Estimate your monthly margin at different agent scales. Based on $129/agent Professional plan with 30% reseller margin.",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "Based on $129/agent Professional plan with 30% reseller margin. White-label partners negotiate custom wholesale rates for higher margins. BYOC per-minute revenue is additional. Actual results depend on your pricing and market.",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner application review, account provisioning, partner portal access, training kickoff. Your dedicated partner manager walks you through the platform.",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "Custom domain configuration, logo and color scheme upload, SIP trunk registration via BYOC, failover routing setup. DNS propagation and SSL provisioning.",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "Create your first tenant, set up users, configure compliance profiles, run test campaigns. Your partner manager assists with the initial deployment and training.",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "Go live with your first client. Marketing materials ready, sales collateral customized, API integration completed. Begin scaling to additional clients.",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "Charge per-agent fees on top of your existing voice services. At $129/agent with 30% margin, each seat generates $38.70/month in profit.",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "Combine SIP trunking, phone numbers, and dialer seats into all-in-one packages. Bundled pricing simplifies sales and improves retention.",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "Custom domain, branding, tenant provisioning, and margin dashboards.",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "25+ REST endpoints for provisioning, billing, and BSS/OSS integration.",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "You run DialerBee under your own brand with a custom domain, login page, and CSS theming. Your customers never see DialerBee branding. You set your own per-agent or per-minute pricing and manage tenants through a dedicated partner admin portal. DialerBee engineering support is invisible to your end customers.",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "No. DialerBee charges a flat platform fee per agent seat. Your carrier minutes are between you and your provider. There is no per-minute markup from the platform, so your negotiated carrier rates remain your competitive advantage.",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. DialerBee provides a full REST API with 25+ endpoints for tenant provisioning, billing, reporting, and real-time webhooks. JWT authentication, cursor pagination, and OpenAPI documentation make integration straightforward for your engineering team.",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "DialerBee's multi-tenant architecture supports unlimited tenants with PostgreSQL RLS-enforced isolation. Each tenant gets independent data, users, campaigns, compliance rules, and recordings. Tenant provisioning takes minutes through the partner portal or API.",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "Most telecom partners charge per-agent SaaS fees on top of their existing per-minute voice revenue. The margin dashboard shows your cost, revenue, and profit per tenant in real time. Some partners also monetize add-on features like transcription, WhatsApp messaging, and premium compliance modules.",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "Most telecom partners onboard their first client within 3-4 weeks of signing the partner agreement. Week 1 covers platform setup and training, Week 2 handles branding and SIP configuration, Week 3 involves first client tenant creation and testing, and Week 4 is the go-live launch.",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "Compliance-supporting (TCPA, GDPR, TDRA)",
+    "url": "https://dialerbee.com/solutions/mena/",
+    "pass": 1
+   },
+   {
+    "quote": "Right-to-left first. Logical CSS properties throughout. Every component, table, and form designed for RTL.",
+    "url": "https://dialerbee.com/solutions/mena/",
+    "pass": 1
+   },
+   {
+    "quote": "TDRA, CST and TRA pre-dial checks with audit trails.",
+    "url": "https://dialerbee.com/solutions/mena/",
+    "pass": 1
+   },
+   {
+    "quote": "DialerBee supports BYOC (Bring Your Own Carrier) with local SIP trunks from du, Etisalat, STC, Mobily, Zain, Orange, and other regional providers. This eliminates international routing overhead and keeps your carrier costs under your control.",
+    "url": "https://dialerbee.com/solutions/mena/",
+    "pass": 1
+   },
+   {
+    "quote": "The entire agent desktop, supervisor tools, admin panels, reports, and notifications are available in Arabic with RTL-first layout. This is not a machine translation layer -- it is a native Arabic experience with proper text shaping, ligatures, and bidirectional text handling.",
+    "url": "https://dialerbee.com/solutions/mena/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Each agent chooses their preferred interface language independently. Arabic-speaking and English-speaking agents can work on the same campaign simultaneously, each seeing the interface in their own language with proper directional layout.",
+    "url": "https://dialerbee.com/solutions/mena/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner Program: Referral, Reseller, White-Label | DialerBee",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner program: grow your business with DialerBee",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "White-label a modern AI contact center platform built for high-volume teams, BPOs, and telecom providers. Your brand. Your clients. Our technology.",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Apply to Reseller Program",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "The cloud contact center market continues to expand as organizations move away from on-premise PBX systems toward SaaS-based solutions. Analysts project steady double-digit growth through the end of the decade, driven by remote work adoption, AI-powered automation, and the global shift toward digital-first customer engagement.",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "For SIP providers, this creates a compelling opportunity. Voice minutes are commoditizing, but the",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "commands premium per-seat pricing. A SIP trunk provider that bundles an AI contact center platform can transform per-minute revenue into recurring SaaS fees without changing their carrier infrastructure. DialerBee's BYOC architecture means your trunks, your margin, our engine.",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "BPOs face a different but equally urgent need. Their enterprise clients increasingly demand",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": ". A BPO that offers a white-labeled dialer with per-client tenants, compliance profiles, and localized AI can command higher contract values and reduce churn. Multi-tenant architecture means one platform serves many clients without the operational overhead of separate deployments.",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "remains under-served in many CRM ecosystems. Adding a dialer to your integration portfolio creates a new revenue stream with strong retention, since voice workflows become deeply embedded in client operations.",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Refer leads. We close. You earn on every agent seat, every month. Ideal for consultants, advisors, and technology partners who want passive recurring revenue.",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing materials and co-branded collateral",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Manage your own clients. Create tenants, set up users, bill your way. Full control over pricing, customer relationships, and go-to-market strategy.",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "DialerBee runs inbound and outbound calls for BPOs, collections teams, telecom resellers and regulated contact centers, with AI voice agents that have run on live calls in Arabic and English, answering-machine detection in 11 languages and compliance-supporting controls for Gulf calling rules. It works worldwide, on your own SIP trunks from any carrier.",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "15 report types, Insights, an operations center, white-label on your own domain, multi-tenant isolation and BYOC carriers.",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers run the same platform as their own: branding on a custom domain, tenants isolated from each other, your carriers, and role permissions set per tenant.",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "White-label branding on your own custom domain",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Is DialerBee multi-tenant and white-label?",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Tenants are isolated at the row level, each with their own users, recordings, compliance rules and reporting. White-label covers the branding fields, contrast validation and a custom domain with DNS verification, and partner admins own the tenants they create. Role permissions are set per tenant.",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Per-agent platform pricing across three tiers plus a reseller tier, with no per-minute platform fees — you bring your own carrier and pay the carrier directly. AI voice agent minutes are billed on usage. The free trial needs no credit card. Current tiers and feature rows are on the pricing page.",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "For telecom resellers",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Telecom and SIP Providers: White-Label | DialerBee",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "Telecom and SIP providers: turn your SIP base into white-label revenue",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "Monetize your carrier infrastructure with a production-grade AI contact center platform. Your brand, your trunks, our engine. Turn per-minute voice revenue into recurring SaaS fees.",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "Estimate your monthly margin at different agent scales. Based on $129/agent Professional plan with 30% reseller margin.",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "Based on $129/agent Professional plan with 30% reseller margin. White-label partners negotiate custom wholesale rates for higher margins. BYOC per-minute revenue is additional. Actual results depend on your pricing and market.",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "Referral, Reseller, and White-Label tiers with dedicated partner support.",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "Dedicated landing page for dialer reseller opportunities.",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "How does the white-label partner model work?",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "You run DialerBee under your own brand with a custom domain, login page, and CSS theming. Your customers never see DialerBee branding. You set your own per-agent or per-minute pricing and manage tenants through a dedicated partner admin portal. DialerBee engineering support is invisible to your end customers.",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "Reseller-tier partners commit to a minimum of 50 agent seats across their portfolio. White-Label partnerships have custom minimums based on your market size and growth plan. There are no per-minute minimums since BYOC means you bring your own carrier traffic.",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "Your reseller launch path",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "See how telecom providers add a white-label dialer to their portfolio. Or start free and explore the platform yourself.",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner Program: Referral, Reseller, White-Label | DialerBee",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner program: grow your business with DialerBee",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "White-label a modern AI contact center platform built for high-volume teams, BPOs, and telecom providers. Your brand. Your clients. Our technology.",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "White-label vs referral",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Reseller economics calculator",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "How to start a dialer reseller business",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Apply to Reseller Program",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "The dialer reseller market is growing fast",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": ". A BPO that offers a white-labeled dialer with per-client tenants, compliance profiles, and localized AI can command higher contract values and reduce churn. Multi-tenant architecture means one platform serves many clients without the operational overhead of separate deployments.",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Full rebrand. Your domain. Your logo. Your pricing. Our engine under the hood. Your customers never see DialerBee branding anywhere.",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Everything in Reseller",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Set up your partner portal, connect SIP trunks via BYOC, configure branding, and create your first tenant. White-label partners get custom domain setup.",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Reseller Tier — 30% Margin on Professional Plan ($129/agent/month)",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "reseller economics calculator",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "White-Label Tier — Custom Wholesale Pricing (Example: 50% Margin)",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "White-label wholesale pricing is negotiated based on volume commitment. Margins shown are illustrative. Actual results depend on your retail pricing and negotiated wholesale rate.",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "White-label partners run the platform at their own domain (e.g., dialer.yourbrand.com) with custom logo, color scheme, login page, and email templates. Your customers never see DialerBee branding. Full CSS theming is supported.",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Regional Technology Resellers",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Sell DialerBee under your brand across your region with recurring per-seat revenue. Language-aware AI AMD in 11 languages makes it suitable for multilingual markets including MENA, Europe, and South Asia. Full white-label and partner portal included.",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Resell a compliance-ready dialer to collections agencies and debt recovery firms. Per-tenant compliance profiles, calling-window enforcement, DNC management, and audit logging address the regulatory requirements of this vertical.",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Telecom Reseller — MENA Region",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "A regional SIP provider bundled DialerBee with their existing voice termination services. They white-labeled the platform under their brand, connected their own SIP trunks via BYOC, and launched 12 BPO and collections clients as separate tenants. Per-agent SaaS revenue now exceeds their per-minute voice revenue on those accounts.",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "A mid-size BPO operating across 3 countries white-labeled DialerBee to serve 8 enterprise clients from a single deployment. Each client has isolated data, dedicated compliance profiles, and separate reporting. The BPO manages all clients from the partner admin portal and bills each independently through their existing invoicing system.",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Standard partner SLA with monitoring and incident communication. Enhanced SLA available for White-Label partners.",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "What is the minimum commitment for the partner program?",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "White-Label Dialer & Contact Center Platform | DialerBee",
+    "url": "https://dialerbee.com/features/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "White-label contact center:",
+    "url": "https://dialerbee.com/features/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "What is white-label in DialerBee? It is running the contact center platform under your own platform name, with your customers as tenants you own.",
+    "url": "https://dialerbee.com/features/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "You prove you control the domain with a DNS TXT record. Our team then sets up the web server and the security certificate, and the sign-in page carries your brand before anyone signs in.",
+    "url": "https://dialerbee.com/features/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Customer e-mails in your brand",
+    "url": "https://dialerbee.com/features/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "White-label capability matrix",
+    "url": "https://dialerbee.com/features/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "One list for everything white-label. Each item says whether you can do it yourself today, whether our team sets it up for you, whether it is planned, or whether it is not supported.",
+    "url": "https://dialerbee.com/features/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Live preview while you set your branding",
+    "url": "https://dialerbee.com/features/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Your brand on the sign-in page, before anyone signs in",
+    "url": "https://dialerbee.com/features/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Customer e-mails (activation, welcome, payment receipt) in your brand",
+    "url": "https://dialerbee.com/features/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Branding is stored per tenant. A customer tenant does not take your brand in its console automatically: its own admin or our team sets it. Its e-mails can fall back to your verified brand.",
+    "url": "https://dialerbee.com/features/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Checked against the product on 8 November 2026. \"Assisted configuration\" means our team does the setup with you and checks the result; reseller onboarding may be scoped as a services package. Support: you support your own customers, and we support you behind the scenes.",
+    "url": "https://dialerbee.com/features/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "The platform can run on your own domain. You prove you control it with a DNS TXT record the console gives you; our team then sets up the web server and the security certificate for it. On a verified domain the public branding endpoint brands the sign-in page before anyone signs in, and customer e-mails can carry your brand.",
+    "url": "https://dialerbee.com/features/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Your customers deal with your brand and your support",
+    "url": "https://dialerbee.com/features/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "reseller economics calculator",
+    "url": "https://dialerbee.com/features/white-label/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "DialerBee runs inbound and outbound calls for BPOs, collections teams, telecom resellers and regulated contact centers, with AI voice agents that have run on live calls in Arabic and English, answering-machine detection in 11 languages and compliance-supporting controls for Gulf calling rules. It works worldwide, on your own SIP trunks from any carrier.",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring your own carrier",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect the SIP trunks you already have from any provider, with no carrier lock-in and no per-minute platform fees.",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Calling outside the Gulf? DialerBee works worldwide, on your own SIP trunks from any carrier.",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "15 report types, Insights, an operations center, white-label on your own domain, multi-tenant isolation and BYOC carriers.",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "When a person takes the call instead, the same AI works beside them — a running summary, sentiment, a suggested reply and live transcription. The AI Executive Secretary carries the follow-through afterwards.",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Appointments are part of the same platform, so the booking, the reminder and the call that follows share one record.",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers run the same platform as their own: branding on a custom domain, tenants isolated from each other, your carriers, and role permissions set per tenant.",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-tenant isolation, BYOC carriers and per-tenant RBAC",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Jurisdiction packs carry the rules that apply where you dial, and every dial decision is written to the audit",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "DialerBee is the multilingual AI contact center platform. It runs inbound queues and outbound campaigns, an omnichannel inbox for voice, WhatsApp, SMS and email, AI voice agents and live agent assist, CSAT and NPS surveys, appointments and reminders, and reporting — in one browser workspace, in 11 languages, on your own carriers.",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Voice, WhatsApp, SMS and email, kept as one thread per customer with Customer 360 history and screen-pop on answer. Surveys can also be answered on the web. Inbound email arrives in the same inbox once a company connects its own mailbox, and email notifications are sent per tenant.",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Can I bring my own SIP carriers?",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. DialerBee supports BYOC: connect the SIP trunks you already have from any provider, or keep the phone system you already run and use DialerBee as the routing, campaign and compliance layer on top. No carrier lock-in and no per-minute platform fees.",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Per-agent platform pricing across three tiers plus a reseller tier, with no per-minute platform fees — you bring your own carrier and pay the carrier directly. AI voice agent minutes are billed on usage. The free trial needs no credit card. Current tiers and feature rows are on the pricing page.",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A live walkthrough of inbound queues, the omnichannel inbox and an AI voice agent — on your carriers, with your routing.",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Telecom and SIP providers: turn your SIP base into white-label revenue",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "Monetize your carrier infrastructure with a production-grade AI contact center platform. Your brand, your trunks, our engine. Turn per-minute voice revenue into recurring SaaS fees.",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "BYOC — your carriers, no lock-in",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "BYOC — Bring Your Own Carrier",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "Recurring revenue from every agent seat. Scale revenue as your customers grow their teams. Margin dashboards show profit per tenant in real time.",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "Based on $129/agent Professional plan with 30% reseller margin. White-label partners negotiate custom wholesale rates for higher margins. BYOC per-minute revenue is additional. Actual results depend on your pricing and market.",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "Your SIP trunks already carry the traffic. DialerBee adds the dialer intelligence, agent desktop, compliance engine, and reporting layer that lets you charge per-agent SaaS fees on top of your per-minute voice revenue.",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "Per-Agent SaaS Revenue",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "BYOC means your SIP trunks carry the calls. You keep the per-minute margin between your carrier cost and the rate you charge customers.",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring Your Own Carrier",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "Does DialerBee charge per-minute fees on top of my carrier costs?",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "No. DialerBee charges a flat platform fee per agent seat. Your carrier minutes are between you and your provider. There is no per-minute markup from the platform, so your negotiated carrier rates remain your competitive advantage.",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "What revenue model do telecom partners typically use?",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "Most telecom partners charge per-agent SaaS fees on top of their existing per-minute voice revenue. The margin dashboard shows your cost, revenue, and profit per tenant in real time. Some partners also monetize add-on features like transcription, WhatsApp messaging, and premium compliance modules.",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "Reseller-tier partners commit to a minimum of 50 agent seats across their portfolio. White-Label partnerships have custom minimums based on your market size and growth plan. There are no per-minute minimums since BYOC means you bring your own carrier traffic.",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "RTL, local carriers, and compliance controls built in.",
+    "url": "https://dialerbee.com/solutions/mena/",
+    "pass": 1
+   },
+   {
+    "quote": "BYOC — your carriers, no lock-in",
+    "url": "https://dialerbee.com/solutions/mena/",
+    "pass": 1
+   },
+   {
+    "quote": "Local Carrier Support",
+    "url": "https://dialerbee.com/solutions/mena/",
+    "pass": 1
+   },
+   {
+    "quote": "Arabic-first defaults, regional time zones and calling windows, and your own local carriers through BYOC. Ask us where your data is hosted before you sign.",
+    "url": "https://dialerbee.com/solutions/mena/",
+    "pass": 1
+   },
+   {
+    "quote": "Can I use local MENA carriers with DialerBee?",
+    "url": "https://dialerbee.com/solutions/mena/",
+    "pass": 1
+   },
+   {
+    "quote": "DialerBee supports BYOC (Bring Your Own Carrier) with local SIP trunks from du, Etisalat, STC, Mobily, Zain, Orange, and other regional providers. This eliminates international routing overhead and keeps your carrier costs under your control.",
+    "url": "https://dialerbee.com/solutions/mena/",
+    "pass": 1
+   },
+   {
+    "quote": "No upfront fees. Revenue share starts from day one.",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "commands premium per-seat pricing. A SIP trunk provider that bundles an AI contact center platform can transform per-minute revenue into recurring SaaS fees without changing their carrier infrastructure. DialerBee's BYOC architecture means your trunks, your margin, our engine.",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "remains under-served in many CRM ecosystems. Adding a dialer to your integration portfolio creates a new revenue stream with strong retention, since voice workflows become deeply embedded in client operations.",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Refer leads. We close. You earn on every agent seat, every month. Ideal for consultants, advisors, and technology partners who want passive recurring revenue.",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue reporting and analytics",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue and margin reporting per tenant",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Four steps to partner revenue",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Earn recurring revenue on every agent seat, every month. Track margin per tenant, export billing data, and scale your partner business as clients grow.",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Recurring revenue that grows with your clients",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "A centralized dashboard to manage all your tenants, users, campaigns, and revenue. View real-time usage metrics, margin reports, and billing summaries across your entire client portfolio. Export data for your own invoicing systems.",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Add a high-margin software layer to your voice infrastructure. BYOC means your trunks carry the calls, DialerBee provides the dialer intelligence. Bundle SIP termination with per-agent SaaS fees for a compelling combined offering.",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Sell DialerBee under your brand across your region with recurring per-seat revenue. Language-aware AI AMD in 11 languages makes it suitable for multilingual markets including MENA, Europe, and South Asia. Full white-label and partner portal included.",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Add outbound dialing to your managed services portfolio. Per-agent recurring revenue creates a predictable income stream that grows as your clients scale their teams. Partner billing tools integrate with your existing invoicing workflow.",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "A regional SIP provider bundled DialerBee with their existing voice termination services. They white-labeled the platform under their brand, connected their own SIP trunks via BYOC, and launched 12 BPO and collections clients as separate tenants. Per-agent SaaS revenue now exceeds their per-minute voice revenue on those accounts.",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "A Salesforce consulting partner added DialerBee as an outbound voice layer for their enterprise CRM clients. Using the REST API, they built click-to-dial, auto-logging, and disposition sync directly into Salesforce workflows. The dialer became a recurring upsell to their existing consulting relationships, creating a new SaaS revenue line.",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Standard SIP trunk registration with per-tenant carrier assignment, failover routing, and codec negotiation.",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Referral partners earn 15% recurring commission on referred seats. Reseller partners receive a 30% margin on the $129/agent Professional plan. White-Label partners negotiate custom wholesale pricing based on volume, typically achieving higher margins. All revenue share is recurring as long as the referred or managed seats remain active.",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. DialerBee is a cloud platform accessible globally. Language-aware AI AMD supports 11 languages, making it suitable for multilingual markets. BYOC allows your customers to connect their own SIP trunks from any carrier worldwide. Regional compliance profiles help customers meet local regulatory requirements.",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "How do I track my revenue and payouts?",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "The partner portal provides real-time revenue dashboards showing per-tenant usage, margin, and commission data. Referral partners receive monthly commission payouts via wire transfer. Reseller and White-Label partners manage their own client billing and pay DialerBee the wholesale rate. All billing data is available via API for integration with your invoicing systems.",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring Your Own Carrier",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "BYOC, your carriers",
+    "url": "https://dialerbee.com/features/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "You prove you control the domain with a DNS TXT record. Our team then sets up the web server and the security certificate, and the sign-in page carries your brand before anyone signs in.",
+    "url": "https://dialerbee.com/features/white-label/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Voice, WhatsApp, SMS and email as one thread per customer, with Customer 360 history and screen-pop on answer.",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One inbox for voice, WhatsApp, SMS and email",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A customer who calls on Monday, messages on WhatsApp on Tuesday and emails on Wednesday is one conversation, not three tickets. Agents work every channel from the same desktop.",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Unified voice, WhatsApp, SMS and email threads",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Inbound email into the inbox, from each company's own mailbox",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Appointments with reminders over SMS, WhatsApp and email",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "DialerBee is the multilingual AI contact center platform. It runs inbound queues and outbound campaigns, an omnichannel inbox for voice, WhatsApp, SMS and email, AI voice agents and live agent assist, CSAT and NPS surveys, appointments and reminders, and reporting — in one browser workspace, in 11 languages, on your own carriers.",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Voice, WhatsApp, SMS and email, kept as one thread per customer with Customer 360 history and screen-pop on answer. Surveys can also be answered on the web. Inbound email arrives in the same inbox once a company connects its own mailbox, and email notifications are sent per tenant.",
+    "url": "https://dialerbee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Custom domain, login page, and branding. Your customers never see DialerBee. Full CSS theming, custom logo, favicon, and email templates.",
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. DialerBee's language-aware AI AMD is tuned for Gulf, Levantine, Egyptian, and Maghreb Arabic dialects. This matters because voicemail greetings in Emirati Arabic sound nothing like Egyptian Arabic, and generic Arabic models miss the differences.",
+    "url": "https://dialerbee.com/solutions/mena/",
+    "pass": 1
+   },
+   {
+    "quote": "CRM consultants and system integrators are also finding that outbound voice is the missing piece in their clients' technology stacks. Email and chat automation are mature, but",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "White-label partners run the platform at their own domain (e.g., dialer.yourbrand.com) with custom logo, color scheme, login page, and email templates. Your customers never see DialerBee branding. Full CSS theming is supported.",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Full CSS theming, custom logo, color scheme, favicon, login page, and email templates. No DialerBee branding visible.",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Your platform name across the admin console and agent desktop, tenants you create and own, and a five-step setup wizard. Your domain, logo, colours and branded e-mails are set up with our team. The matrix below shows exactly what is ready, what we configure and what is planned.",
+    "url": "https://dialerbee.com/features/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "sending e-mails from an address on your domain, a partner-facing margin screen, and creating tenants through the public API.",
+    "url": "https://dialerbee.com/features/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Customer e-mails in your brand",
+    "url": "https://dialerbee.com/features/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Activation, welcome and payment receipt e-mails can carry your name, logo, colour and support address once your domain is verified and our team turns it on. They are sent from the platform's own address.",
+    "url": "https://dialerbee.com/features/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Customer e-mails (activation, welcome, payment receipt) in your brand",
+    "url": "https://dialerbee.com/features/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Your platform name, logo (from an https address), accent colour, support e-mail and sender display name, once your custom domain is verified and our team turns it on for that domain.",
+    "url": "https://dialerbee.com/features/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Branding is stored per tenant. A customer tenant does not take your brand in its console automatically: its own admin or our team sets it. Its e-mails can fall back to your verified brand.",
+    "url": "https://dialerbee.com/features/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "E-mails sent from an address on your own domain",
+    "url": "https://dialerbee.com/features/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "E-mails carry your display name but are sent from the platform's own sending address.",
+    "url": "https://dialerbee.com/features/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Your customers see your name in the console, but the underlying platform's name can still appear in a few places: the DNS verification record name, the e-mail sending address, some console help text, and the default name of a tenant nobody has branded.",
+    "url": "https://dialerbee.com/features/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "The platform can run on your own domain. You prove you control it with a DNS TXT record the console gives you; our team then sets up the web server and the security certificate for it. On a verified domain the public branding endpoint brands the sign-in page before anyone signs in, and customer e-mails can carry your brand.",
+    "url": "https://dialerbee.com/features/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Sign-in page and customer e-mails branded on your verified domain",
+    "url": "https://dialerbee.com/features/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Your customers work in a platform that carries your platform name, as tenants you own. The platform name is self-service today. Your logo, colours, own domain and branded customer e-mails are set up with our team. The capability matrix on this page shows each item as available now, set up by our team, planned or not supported.",
+    "url": "https://dialerbee.com/features/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "In the console they see your platform name. A few places can still show the underlying platform: the DNS verification record name, the address customer e-mails are sent from, some console help text, and the default name of a tenant nobody has branded yet. We list these so you can plan for them.",
+    "url": "https://dialerbee.com/features/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Queues with SLA targets and wrap-up, one inbox for voice, WhatsApp, SMS and email, Customer 360 on screen-pop, and CSAT asked while the conversation is still warm.",
+    "url": "https://dialerbee.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive and power dialing behind an abandon governor that pauses on breach, caller-ID pools, voicemail drop, and answering-machine detection in 11 languages.",
+    "url": "https://dialerbee.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "A calendar portal and a service catalogue with capacity, reminders over SMS, WhatsApp and email, Google and Microsoft 365 sync, and an AI voice agent that books and confirms.",
+    "url": "https://dialerbee.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Queues with real SLA targets, an IVR that lets callers finish things themselves, one inbox for voice, WhatsApp, SMS and email, help for the agent while the call is live, and a survey afterwards that turns a bad score into a case with a name on it.",
+    "url": "https://dialerbee.com/solutions/customer-service/",
+    "pass": 1
+   },
+   {
+    "quote": "puts voice, WhatsApp, SMS and email threads in one list with visible states and assignment to an agent or a queue, with a",
+    "url": "https://dialerbee.com/solutions/customer-service/",
+    "pass": 1
+   },
+   {
+    "quote": "Voice, WhatsApp, SMS and email threads in the same inbox, each new, queued, assigned, in progress or waiting on customer, assigned to an agent or a queue.",
+    "url": "https://dialerbee.com/solutions/customer-service/",
+    "pass": 1
+   },
+   {
+    "quote": "Voice, WhatsApp, SMS and email threads sit in one conversation list. Each conversation is new, queued, assigned, in progress or waiting on customer, and belongs either to a named agent or back to a queue, so nothing sits in a thread nobody owns. Inbound email into the inbox is available from each company's own connected mailbox.",
+    "url": "https://dialerbee.com/solutions/customer-service/",
+    "pass": 1
+   },
+   {
+    "quote": "Voice, WhatsApp, SMS and email in one conversation list with visible states",
+    "url": "https://dialerbee.com/solutions/customer-service/",
+    "pass": 1
+   },
+   {
+    "quote": "Voice, WhatsApp, SMS and email in one conversation list with shared states and assignment",
+    "url": "https://dialerbee.com/solutions/customer-service/",
+    "pass": 1
+   },
+   {
+    "quote": "It is the inbound side of the platform assembled for a support operation: ACD queues with SLA targets, an IVR builder with caller self-service, an omnichannel inbox covering voice, WhatsApp, SMS and email, live agent assist during the call, surveys with recovery cases afterwards, and the wallboard and reports over all of it.",
+    "url": "https://dialerbee.com/solutions/customer-service/",
+    "pass": 1
+   },
+   {
+    "quote": "Voice, WhatsApp, SMS and email threads in one conversation list, each in a visible state and assigned to an agent or a queue. Email is sent from your own per-tenant SMTP. Inbound email into the inbox is available from each company's own connected mailbox.",
+    "url": "https://dialerbee.com/solutions/customer-service/",
+    "pass": 1
+   },
+   {
+    "quote": "An AI voice agent that takes the booking on the call after checking free-busy, an appointments portal built on a service catalogue with real durations and capacity rules, reminders over SMS, WhatsApp and email, and calendar sync with Google and Microsoft 365.",
+    "url": "https://dialerbee.com/solutions/appointment-based-businesses/",
+    "pass": 1
+   },
+   {
+    "quote": "go out over SMS, WhatsApp and email on a policy, plus send-now, with ICS attachments, and a messages-sent report proves they left.",
+    "url": "https://dialerbee.com/solutions/appointment-based-businesses/",
+    "pass": 1
+   },
+   {
+    "quote": "Reminders go out over SMS, WhatsApp and email on the policy you set, with a send-now option when the policy is not enough.",
+    "url": "https://dialerbee.com/solutions/appointment-based-businesses/",
+    "pass": 1
+   },
+   {
+    "quote": "Reminders go out over SMS, WhatsApp and email on the policy you set, so nobody has to remember to send them, and one can be sent immediately from the appointment when something changes. An ICS attachment puts the appointment in the customer's own calendar with one tap.",
+    "url": "https://dialerbee.com/solutions/appointment-based-businesses/",
+    "pass": 1
+   },
+   {
+    "quote": "SMS, WhatsApp and email reminders on a policy, plus send-now",
+    "url": "https://dialerbee.com/solutions/appointment-based-businesses/",
+    "pass": 1
+   },
+   {
+    "quote": "It is the booking side of the platform assembled for businesses whose diary is their revenue: an appointments portal with day, week and month views, a service catalogue with durations, resources and capacity rules, reminders over SMS, WhatsApp and email, Google Calendar and Microsoft 365 sync, and an AI voice agent that can take the booking on the call.",
+    "url": "https://dialerbee.com/solutions/appointment-based-businesses/",
+    "pass": 1
+   },
+   {
+    "quote": "Reminders go out over SMS, WhatsApp and email on the policy you set, and you can send one immediately from the appointment. They can carry an ICS attachment so the booking lands in the customer's own calendar, and a messages-sent report shows what actually went out.",
+    "url": "https://dialerbee.com/solutions/appointment-based-businesses/",
+    "pass": 1
+   },
+   {
+    "quote": "Inbound queues with SLA targets and one inbox for voice, WhatsApp, SMS and email, per client.",
+    "url": "https://dialerbee.com/solutions/bpos/",
+    "pass": 1
+   },
+   {
+    "quote": "Seats are $69 per agent per month on Starter and $129 on Professional; Enterprise is custom. Predictive dialing, AI answering machine detection and the WhatsApp, SMS and email inbox need Professional. The AI voice agent is $0.60 per started connected AI minute on top of the plan, and your carrier bills the call minutes. See",
+    "url": "https://dialerbee.com/solutions/collections/",
+    "pass": 1
+   },
+   {
+    "quote": "{{first_name}}, we noted your payment of {{currency}} {{promise_amount}} was expected by {{promise_date}}. Please contact us at {{support_number}} to arrange payment.",
+    "url": "https://dialerbee.com/solutions/collections/",
+    "pass": 1
+   },
+   {
+    "quote": "Transcript-based answering machine detection. Improving from agent feedback. Skip voicemails automatically.",
+    "url": "https://dialerbee.com/solutions/sales/",
+    "pass": 1
+   },
+   {
+    "quote": "DialerBee's AI AMD uses transcript classification rather than beep detection to identify voicemail greetings in 11 languages. This filters out voicemails before they reach agents, so your team spends time on live conversations instead of listening to recordings.",
+    "url": "https://dialerbee.com/solutions/sales/",
+    "pass": 1
+   },
+   {
+    "quote": "English-only AMD wastes agent time on Arabic, Spanish, French, and Turkish voicemails. Enterprise teams operating in MENA, Europe, and LATAM need language-aware detection across 11 languages.",
+    "url": "https://dialerbee.com/solutions/enterprise/",
+    "pass": 1
+   },
+   {
+    "quote": "Your platform name across the console and agent desktop. Your domain, logo, colours, sign-in page and customer e-mails are set up with our team. The capability matrix shows what is ready, what we configure and what is planned.",
+    "url": "https://dialerbee.com/reseller-program/",
+    "pass": 1
+   },
+   {
+    "quote": "Language-aware AI AMD in 11 languages detects voicemail, IVR systems, and fax machines. Agents only connect to live humans, improving productivity.",
+    "url": "https://dialerbee.com/reseller-program/",
+    "pass": 1
+   },
+   {
+    "quote": "Platform name now; domain, colours and e-mails set up with our team",
+    "url": "https://dialerbee.com/reseller-program/",
+    "pass": 1
+   },
+   {
+    "quote": "Customer e-mails (activation, welcome, payment receipt) in your brand",
+    "url": "https://dialerbee.com/reseller-program/",
+    "pass": 1
+   },
+   {
+    "quote": "E-mails sent from an address on your own domain",
+    "url": "https://dialerbee.com/reseller-program/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Your platform name shows across the admin console and agent desktop today. Your own domain, branded sign-in page, logo, colours and customer e-mails are set up with our team. Your logo and colours in the agent desktop are planned. See the capability matrix on the white-label page.",
+    "url": "https://dialerbee.com/reseller-program/",
+    "pass": 1
+   },
+   {
+    "quote": "Tell us about your business and we'll send reseller economics and book a partner demo. Prefer email? Write to",
+    "url": "https://dialerbee.com/reseller-program/",
+    "pass": 1
+   },
+   {
+    "quote": "partners@dialerbee.com",
+    "url": "https://dialerbee.com/reseller-program/",
+    "pass": 1
+   },
+   {
+    "quote": "Our partner team will reply by e-mail within one business day. Questions before then? Write to",
+    "url": "https://dialerbee.com/reseller-program/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Telecom Operators & SIP Providers",
+    "url": "https://dialerbee.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "The industries page lists banking, insurance, telecom operators, BPOs, collections, sales teams, customer service, healthcare, education, automotive, travel, e-commerce, logistics, hospitality, recruitment, legal services, home services, financial services, nonprofits, market research and solar, among others.",
+    "url": "https://dialerbee.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "For Telecom Operators",
+    "url": "https://dialerbee.com/industries/telecom-operator-dialer/",
+    "pass": 1
+   },
+   {
+    "quote": "Telecom Operators and Mobile Carriers",
+    "url": "https://dialerbee.com/industries/telecom-operator-dialer/",
+    "pass": 1
+   },
+   {
+    "quote": "Why telecom operators should not be",
+    "url": "https://dialerbee.com/industries/telecom-operator-dialer/",
+    "pass": 1
+   },
+   {
+    "quote": "challenges for telecom operators",
+    "url": "https://dialerbee.com/industries/telecom-operator-dialer/",
+    "pass": 1
+   },
+   {
+    "quote": "Operators with presence in multiple markets need jurisdiction-aware calling rules and local compliance.",
+    "url": "https://dialerbee.com/industries/telecom-operator-dialer/",
+    "pass": 1
+   },
+   {
+    "quote": "Operators running subscriber retention and upgrade campaigns",
+    "url": "https://dialerbee.com/industries/telecom-operator-dialer/",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-market operators needing per-jurisdiction compliance",
+    "url": "https://dialerbee.com/industries/telecom-operator-dialer/",
+    "pass": 1
+   },
+   {
+    "quote": "How does BYOC help telecom operators specifically?",
+    "url": "https://dialerbee.com/industries/telecom-operator-dialer/",
+    "pass": 1
+   },
+   {
+    "quote": "DialerBee supports predictive, progressive, power, and preview dialing modes. Telecom operators can choose the mode that best fits each campaign type and compliance requirement.",
+    "url": "https://dialerbee.com/industries/telecom-operator-dialer/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Dialer Software for Dealership BDCs",
+    "url": "https://dialerbee.com/industries/telecom-operator-dialer/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Contact DialerBee — Sales, Support & Partnerships — Get in touch with the DialerBee team. Sales inquiries, technical support, partnership opportunities. We respond promptly to all inquiries.",
+    "url": "https://dialerbee.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "Call Center Software in Japan | DialerBee — DialerBee is cloud call-center and outbound dialer software for teams calling in Japan, with compliance-supporting controls aligned to MIC oversight, the Act on the Protection of Personal Information and the opt-out expectations of the Specified Commercial Transactions Act.",
+    "url": "https://dialerbee.com/regions/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Contact Center Software & Predictive Dialer | DialerBee — DialerBee is the multilingual AI contact center platform for BPOs, collections teams, telecom resellers and regulated contact centers.",
+    "url": "https://dialerbee.com/",
+    "pass": 3
+   },
+   {
+    "quote": "About DialerBee: Multilingual AI Contact Center — DialerBee is the multilingual AI contact center platform, built by BroadNet Technologies LLC, part of the BroadNet Group, on 22 years of telecom: 11 languages, your own carriers.",
+    "url": "https://dialerbee.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "DialerBee：多言語AI発信システム | BroadNet — DialerBeeは言語および地域ごとにトレーニングとチューニングを行い、テナントごとの修正内容をモデルにフィードバックすることで、通信事業者の構成に合わせて精度が向上するようにしています。 EN 英語",
+    "url": "https://www.broadnet.me/ja/dialerbee",
+    "pass": 3
+   },
+   {
+    "quote": "Software para Call Center no Japão | DialerBee — DialerBee é um software de call center em nuvem e discador automático para equipes que realizam chamadas no Japão, com controles de conformidade alinhados à supervisão do MIC, à Lei de Proteção de Informações Pessoais e às expectativas de exclusão da Lei de Transações Comerciais Específicas.",
+    "url": "https://dialerbee.com/pt/regions/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Illustrative Case Studies — DialerBee — Illustrative walkthroughs of how DialerBee is deployed across common outbound use cases. These are examples, not specific customers — results vary by deployment.",
+    "url": "https://dialerbee.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Contact Center Software & Predictive Dialer | DialerBee — DialerBee runs inbound and outbound calls for BPOs, collections teams, telecom resellers and regulated contact centers, with AI voice agents that have run on live calls in Arabic and English, answering-machine detection in 11 languages and compliance-supporting controls for Gulf calling rules.",
+    "url": "https://dialerbee.com/",
+    "pass": 3
+   },
+   {
+    "quote": "About DialerBee: Multilingual AI Contact Center — DialerBee is the multilingual AI contact center platform, built by BroadNet Technologies LLC (Matawan, New Jersey), part of the BroadNet Group, on 22 years of telecom.",
+    "url": "https://dialerbee.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Outbound Dialer ROI Calculator — DialerBee — Estimate outbound dialer savings and ROI. Compare per-minute vs per-agent pricing, model contact-rate uplift, and see annual cost and revenue impact.",
+    "url": "https://dialerbee.com/tools/roi-calculator/",
+    "pass": 3
+   },
+   {
+    "quote": "Dialer Bee - VOICE AI at DialerBee. | LinkedIn — VOICE AI at DialerBee. · الخبرة: DIALERBEE · الموقع: بيروت · 15 زميل على LinkedIn. عرض ملف Dialer Bee الشخصي على LinkedIn، وهو مجتمع احترافي يضم مليار عضو.",
+    "url": "https://lb.linkedin.com/in/dialer-bee-48927841b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Dialer Bee - VOICE AI at DialerBee. | LinkedIn VOICE AI at DialerBee. · الخبرة: DIALERBEE · الموقع: بيروت · 15 زميل على LinkedIn. عرض ملف Dialer Bee الشخصي على LinkedIn، وهو مجتمع احترافي يضم مليار عضو.",
+    "url": "https://lb.linkedin.com/in/dialer-bee-48927841b",
+    "pass": 3
+   },
+   {
+    "quote": "#dialerbee #inteligenciaartificial #automatización | DialerBee Con los agentes de voz con IA de DialerBee, automatiza reservas, confirmaciones y cambios de citas durante la llamada. 🐝 ¡Haz que cada llamada cuente! 🌐 www.dialerbee.com #DialerBee...",
+    "url": "https://es.linkedin.com/posts/dialerbee-ai-platform_dialerbee-inteligenciaartificial-automatización-activity-7515709950753435649-1y93",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "DialerBee - Facebook DialerBee is a multilingual AI outbound dialer for BPOs, collections, telecom resellers, and re... See more",
+    "url": "https://www.facebook.com/p/DialerBee-61591380458067/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://dialerbee.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dialerbee.com/solutions/telecom/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dialerbee.com/solutions/mena/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dialerbee.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dialerbee.com/features/white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dialerbee.com/solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dialerbee.com/solutions/customer-service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dialerbee.com/solutions/inbound/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dialerbee.com/solutions/appointment-based-businesses/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dialerbee.com/solutions/bpos/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dialerbee.com/solutions/collections/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dialerbee.com/solutions/sales/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dialerbee.com/solutions/enterprise/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dialerbee.com/reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dialerbee.com/solutions/cold-calling/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dialerbee.com/industries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dialerbee.com/industries/banking-dialer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dialerbee.com/industries/insurance-dialer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dialerbee.com/industries/telecom-operator-dialer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dialerbee.com/industries/collections-dialer/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.broadnet.me/ja/dialerbee",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/386134776_An_Analysis_Case_Study_on_Dell's_Direct-to-Consumer_Model_Revolutionizing_Customization_and_Efficiency_in_the_PC_Industry",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.namesilo.com/reseller",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://opensrs.com/campaigns/become-a-domain-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://companydata.com/company-revenue-lookup/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lb.linkedin.com/in/dialer-bee-48927841b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://lb.linkedin.com/in/dialer-bee-48927841b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://es.linkedin.com/posts/dialerbee-ai-platform_dialerbee-inteligenciaartificial-automatización-activity-7515709950753435649-1y93",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/DialerBee-61591380458067/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "DialerBee 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "DialerBee 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dialerbee.com/contact/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://chigai-hikaku.com/?p=36920",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "DialerBee Japan",
+   "results": [
+    "https://dialerbee.com/regions/japan/",
+    "https://dialerbee.com/",
+    "https://dialerbee.com/about/",
+    "https://www.broadnet.me/ja/dialerbee",
+    "https://dialerbee.com/pt/regions/japan/",
+    "https://dialerbee.com/solutions/",
+    "https://www.broadnet.me/dialerbee"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "DialerBee manufacturing customer case study",
+   "results": [
+    "https://dialerbee.com/case-studies/",
+    "https://dialerbee.com/",
+    "https://www.casestudies.com/",
+    "https://www.researchgate.net/publication/386134776_An_Analysis_Case_Study_on_Dell's_Direct-to-Consumer_Model_Revolutionizing_Customization_and_Efficiency_in_the_PC_Industry",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.damcogroup.com/client-success/manufacturing-company-leverages-salesforce-to-improve-partner-operations",
+    "https://www.b2bmarketingworld.com/example/case/b2b-marketing-case-study/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "DialerBee white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.namesilo.com/reseller",
+    "https://opensrs.com/campaigns/become-a-domain-reseller",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "DialerBee founded funding employees revenue",
+   "results": [
+    "https://dialerbee.com/about/",
+    "https://dialerbee.com/tools/roi-calculator/",
+    "https://companydata.com/company-revenue-lookup/",
+    "https://lb.linkedin.com/in/dialer-bee-48927841b",
+    "https://tracxn.com/d/companies/skyscanner/__tymGVtmEu8W9EtI46wFEBqi0CMJePMz7siOIQr9gOx0",
+    "https://techstartups.com/2026/02/04/stealth-startup-synthbee-raises-100m-to-bring-collaborative-intelligence-to-regulated-industries/",
+    "https://techfundingnews.com/orbio-raises-21m-series-a-automate-frontline-hiring-deskless-workers/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com DialerBee",
+   "results": [
+    "https://note.com/tag/オデュッセイア",
+    "https://note.com/seigo77",
+    "https://note.com/watarutida/n/n75017e960add",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/karisomenona/n/n835e4ccf85c4",
+    "https://note.com/aminobe/n/n6dd173ed31b4",
+    "https://note.com/miyagigori/n/nd15d5ca092c3"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com DialerBee",
+   "results": [
+    "https://about.x.com/en",
+    "https://x.com/DialerLLC",
+    "https://help.x.com/en/using-x",
+    "https://x.com/_techibee/status/2097523992626446588",
+    "https://help.x.com/zh-tw/using-x",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/Marlayna29/status/2115433590150606880"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com DialerBee",
+   "results": [
+    "https://lb.linkedin.com/in/dialer-bee-48927841b",
+    "https://es.linkedin.com/posts/dialerbee-ai-platform_dialerbee-inteligenciaartificial-automatización-activity-7515709950753435649-1y93",
+    "https://www.linkedin.com/company/dialer-io/",
+    "https://in.linkedin.com/in/abhigna-reddy-lakkireddy-a4b937224",
+    "https://ae.linkedin.com/in/nasir-rehman-28187922b",
+    "https://ca.linkedin.com/in/karl-angelo-tutor",
+    "https://www.linkedin.com/pulse/11-best-dialer-software-small-businesses-2025-frejun-ylhdf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com DialerBee",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "DialerBee note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://dialerbee.com/about/",
+    "https://dialerbee.com/about/team/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "DialerBee X 投稿",
+   "results": [
+    "https://dialerbee.com/",
+    "https://dialerbee.com/trial/",
+    "https://www.facebook.com/p/DialerBee-61591380458067/",
+    "https://x.com/aigare01/status/2118697413317964180",
+    "https://x.com/arutexiuo/status/2119242378687254955",
+    "https://myfans.jp/en/posts/3076ab49-5aaf-4b65-b6a1-55e3d35d63cf",
+    "https://dojin.dmm.co.jp/help/twitter"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部15頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部15頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部15頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部15頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部15頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部15頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部15頁・検索12回）"
+ }
+}

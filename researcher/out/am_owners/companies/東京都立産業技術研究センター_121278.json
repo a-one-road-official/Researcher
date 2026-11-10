@@ -1,0 +1,930 @@
+{
+ "name": "東京都立産業技術研究センター",
+ "aliases": [],
+ "context": "PBF=yes 装置=粉末積層;金属粉末積層 出典=https://www.iri-tokyo.jp/research/field/sekiso-zokei/",
+ "researched_at": "2026-11-10T17:14:55.464393+00:00",
+ "official_url": "https://www.iri-tokyo.jp/",
+ "identified_by": "search:yahoo_jp:東京都立産業技術研究センター",
+ "profile": {},
+ "evidence": {
+  "用途・客の産業": [
+   {
+    "quote": "運用を停止しておりました超微小押し込み硬さ試験機について、運用を再開し依頼試験の受付を開始いたします",
+    "url": "https://www.iri-tokyo.jp/equipment-news/saikai-2026-07-07/",
+    "pass": 1
+   },
+   {
+    "quote": "寸法測定装置による高度な3Dデータの取得や、デジタルデータを用いた製品の試作加工、精密測定、機器分析・環境試験を通して、地域企業の皆さまの事業化を技術面で包括的に支援しています",
+    "url": "https://www.iri-tokyo.jp/about/organization/jonan/",
+    "pass": 1
+   },
+   {
+    "quote": "試作加工にご利用いただける造形装置、三次元レーザー加工機を整備しています",
+    "url": "https://www.iri-tokyo.jp/about/organization/jonan/",
+    "pass": 1
+   },
+   {
+    "quote": "機器利用・依頼試験をご検討の方は、ご利用の前に下記のご利用約款をご確認ください",
+    "url": "https://www.iri-tokyo.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "お客さまの実験室として、製品や材料等の試作・測定・分析にお役立てください",
+    "url": "https://www.iri-tokyo.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "技術相談・依頼試験・機器利用で対応できないものにご活用ください",
+    "url": "https://www.iri-tokyo.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "技術相談/依頼試験/機器利用/オーダーメード型技術支援/技術セミナー・講習会",
+    "url": "https://mono.ipros.com/company/detail/2046541/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車（80）",
+    "url": "https://news.sharelab.jp/cases/other-fields/formnext2024-tokyo-241206/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙（74）",
+    "url": "https://news.sharelab.jp/cases/other-fields/formnext2024-tokyo-241206/",
+    "pass": 3
+   },
+   {
+    "quote": "医療（168）",
+    "url": "https://news.sharelab.jp/cases/other-fields/formnext2024-tokyo-241206/",
+    "pass": 3
+   },
+   {
+    "quote": "産業用3Dプリンターは、これまで生産速度の制約が量産化の大きな障壁となっていた",
+    "url": "https://news.sharelab.jp/cases/other-fields/formnext2024-tokyo-241206/",
+    "pass": 3
+   },
+   {
+    "quote": "「アスペクト・三菱商事テクノス 共同セミナー in 名古屋」参加報告 AMによる量産の課題と解決策とは？",
+    "url": "https://news.sharelab.jp/cases/other-fields/formnext2024-tokyo-241206/",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE PARTNERSとNTTデータザムテクノロジーズ、AM量産市場創出へ戦略的提携",
+    "url": "https://news.sharelab.jp/cases/other-fields/formnext2024-tokyo-241206/",
+    "pass": 3
+   },
+   {
+    "quote": "指向性エネルギー堆積法 / DED（Direct Energy Deposition）を解説！WAAM方式と何が違う？",
+    "url": "https://news.sharelab.jp/cases/other-fields/formnext2024-tokyo-241206/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界で活躍する3Dプリンター製の治具・工具",
+    "url": "https://news.sharelab.jp/cases/other-fields/formnext2024-tokyo-241206/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の3Dプリンター活用の現状と将来",
+    "url": "https://news.sharelab.jp/cases/other-fields/formnext2024-tokyo-241206/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の試作開発部門で活躍する3Dプリンター",
+    "url": "https://news.sharelab.jp/cases/other-fields/formnext2024-tokyo-241206/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙業界における3Dプリンターの活用",
+    "url": "https://news.sharelab.jp/cases/other-fields/formnext2024-tokyo-241206/",
+    "pass": 3
+   },
+   {
+    "quote": "航空業界で活躍する3Dプリンター製最終製品",
+    "url": "https://news.sharelab.jp/cases/other-fields/formnext2024-tokyo-241206/",
+    "pass": 3
+   },
+   {
+    "quote": "砂型3Dプリンターってなに？鋳造プロセスを大幅に改革、量産に活用されるAM技術の注目株！",
+    "url": "https://news.sharelab.jp/cases/other-fields/formnext2024-tokyo-241206/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ3Dプリンターは金型に勝てないのか──6500年変わらない量産の絶対王者",
+    "url": "https://www.youtube.com/watch?v=5KVb69CSTXU",
+    "pass": 3
+   },
+   {
+    "quote": "依頼試験等では対応が難しい場合に、",
+    "url": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/065/530/sangiken.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "試作品の設計・造形、規格範囲外の試験等、幅広い支援",
+    "url": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/065/530/sangiken.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業務実績評価書 地方独立行政法人 東京都健康長寿医療センター",
+    "url": "https://www.soumu.metro.tokyo.lg.jp/04group/dokuritugyouseihouji/sangiken",
+    "pass": 3
+   }
+  ],
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "城南支所は、“精密加工支援“をキーワードに新鋭装置を導入しています",
+    "url": "https://www.iri-tokyo.jp/about/organization/jonan/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンターで軽さと強度を両立",
+    "url": "https://www.iri-tokyo.jp/tiri-news/booklet/",
+    "pass": 1
+   },
+   {
+    "quote": "都産技研が保有する機器や設備をご自身で操作いただけます",
+    "url": "https://www.iri-tokyo.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の事業に係る製品・技術開発等において、都産技研が保有する技術を組み合わせて柔軟に支援を行います",
+    "url": "https://www.iri-tokyo.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "Research and Development",
+    "url": "https://www.soumu.metro.tokyo.lg.jp/documents/d/soumu/2025-09-18-131443-473",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター（104）",
+    "url": "https://news.sharelab.jp/cases/other-fields/formnext2024-tokyo-241206/",
+    "pass": 3
+   },
+   {
+    "quote": "今回の技術開発では、粉末床溶融結合方式においてレーザー出力を高め、露光領域を従来比で5倍に広げる新技術が採用された",
+    "url": "https://news.sharelab.jp/cases/other-fields/formnext2024-tokyo-241206/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systems社、Formnext 2024で新製品を発表し産業革新を推進",
+    "url": "https://news.sharelab.jp/cases/other-fields/formnext2024-tokyo-241206/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター",
+    "url": "https://news.sharelab.jp/cases/other-fields/formnext2024-tokyo-241206/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/cases/other-fields/formnext2024-tokyo-241206/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター導入における作業者健康対策ガイド",
+    "url": "https://news.sharelab.jp/cases/other-fields/formnext2024-tokyo-241206/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター導入企業必見！IPA洗浄と有機則の関係を徹底解説",
+    "url": "https://news.sharelab.jp/cases/other-fields/formnext2024-tokyo-241206/",
+    "pass": 3
+   },
+   {
+    "quote": "【2023年版】大型3Dプリンターの比較・選び方〜造形方式ごとの特徴や、導入時に気をつけたいこと",
+    "url": "https://news.sharelab.jp/cases/other-fields/formnext2024-tokyo-241206/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/cases/other-fields/formnext2024-tokyo-241206/",
+    "pass": 3
+   },
+   {
+    "quote": "【3D プリンター導入③】発注から設置までの流れを知る",
+    "url": "https://news.sharelab.jp/cases/other-fields/formnext2024-tokyo-241206/",
+    "pass": 3
+   },
+   {
+    "quote": "【3Dプリンター導入①】機種の検討・選定時のポイント",
+    "url": "https://news.sharelab.jp/cases/other-fields/formnext2024-tokyo-241206/",
+    "pass": 3
+   },
+   {
+    "quote": "【3Dプリンター導入②】導入依頼時の注意点",
+    "url": "https://news.sharelab.jp/cases/other-fields/formnext2024-tokyo-241206/",
+    "pass": 3
+   },
+   {
+    "quote": "【3Dプリンター導入④】有効活用するための運用方法",
+    "url": "https://news.sharelab.jp/cases/other-fields/formnext2024-tokyo-241206/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターの造形方式を解説！FDM？MEX？PBF？DEDってなに？",
+    "url": "https://news.sharelab.jp/cases/other-fields/formnext2024-tokyo-241206/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末床溶融結合法 / PBF（Powder Bed Fusion）を解説！SLS方式、SLM方式と何が違う？",
+    "url": "https://news.sharelab.jp/cases/other-fields/formnext2024-tokyo-241206/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター | 材料から選ぶ3Dプリンター",
+    "url": "https://news.sharelab.jp/cases/other-fields/formnext2024-tokyo-241206/",
+    "pass": 3
+   },
+   {
+    "quote": "都産技研 金属3Dプリンター（金属粉末積層造形装置）による造形 - YouTube",
+    "url": "https://www.youtube.com/watch?v=5KVb69CSTXU",
+    "pass": 3
+   },
+   {
+    "quote": "都産技研 金属3Dプリンター（金属粉末積層造形装置）による造形",
+    "url": "https://www.youtube.com/watch?v=5KVb69CSTXU",
+    "pass": 3
+   },
+   {
+    "quote": "800℃の熱にも耐える金属3Dプリンター製シャーシ",
+    "url": "https://www.youtube.com/watch?v=5KVb69CSTXU",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターによる造形では このビルドプレート上に所望の造形品を生成します",
+    "url": "https://www.youtube.com/watch?v=5KVb69CSTXU",
+    "pass": 3
+   },
+   {
+    "quote": "都産技研が保有する技術シーズを活用して柔軟に対応",
+    "url": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/065/530/sangiken.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "都産技研について｜採用 情報 東京都立産業技術研究センター — 都産技研について｜採用 情報 東京都立産業技術研究センター 東京都立産業技術研究センター https://www.iri-tokyo.jp > recruit > tiri-about",
+    "url": "https://www.iri-tokyo.jp/recruit/tiri-about/",
+    "pass": 3
+   },
+   {
+    "quote": "地方独立行政法人 東京都立産業技術研究センター の 概要 - 総務局 — 地方独立行政法人 東京都立産業技術研究センター の 概要 - 総務局 東京都総務局 PDF https://www.soumu.metro.tokyo.lg.jp > soumu",
+    "url": "https://www.soumu.metro.tokyo.lg.jp/documents/d/soumu/2025-09-18-131443-473",
+    "pass": 3
+   },
+   {
+    "quote": "地方独立行政法人 東京都立産業技術研究センター | 企業 情報 — 地方独立行政法人 東京都立産業技術研究センター | 企業 情報 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 公益・特殊・独立行政法人",
+    "url": "https://mono.ipros.com/company/detail/2046541/",
+    "pass": 3
+   },
+   {
+    "quote": "瑞穂町と 東京都立産業技術研究センター が業務連携協定を締結 ... — 瑞穂町と 東京都立産業技術研究センター が業務連携協定を締結 ... 瑞穂町ホームページ https://www.town.mizuho.tokyo.jp > jigyousya",
+    "url": "https://www.town.mizuho.tokyo.jp/jigyousya/002/p010989.html",
+    "pass": 3
+   },
+   {
+    "quote": "地方独立行政法人 東京都立産業技術研究センター の中途採用 ... — 地方独立行政法人 東京都立産業技術研究センター の中途採用 ... リクルートエージェント https://www.r-agent.com > company",
+    "url": "https://www.r-agent.com/company/79249/",
+    "pass": 3
+   },
+   {
+    "quote": "活性金属対応造形装置（ 金属3Dプリンター ）｜ 東京都立産業 ... — 活性金属対応造形装置（ 金属3Dプリンター ）｜ 東京都立産業 ... 東京都立産業技術研究センター https://www.iri-tokyo.jp > service > search > r6-metal-am-2",
+    "url": "https://www.iri-tokyo.jp/service/search/r6-metal-am-2/",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末積層造形装置（ 金属3Dプリンター ）｜ 東京都立産業 ... — 金属粉末積層造形装置（ 金属3Dプリンター ）｜ 東京都立産業 ... 東京都立産業技術研究センター https://www.iri-tokyo.jp > search > mech-h26-metal-am",
+    "url": "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "pass": 3
+   },
+   {
+    "quote": "金属 粉末 積層造形 装置（ 金属 3Dプリンター）｜ 東京都立産業 ... — 金属 粉末 積層造形 装置（ 金属 3Dプリンター）｜ 東京都立産業 ... 東京都立産業技術研究センター https://www.iri-tokyo.jp > search > mech-h26-metal-am",
+    "url": "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形 - 地方独立行政法人 東京都立産業技術研究センター — 積層造形 - 地方独立行政法人 東京都立産業技術研究センター 東京都立産業技術研究センター https://www.iri-tokyo.jp > research > field > sekiso-zokei",
+    "url": "https://www.iri-tokyo.jp/research/field/sekiso-zokei/",
+    "pass": 3
+   },
+   {
+    "quote": "財務諸表等 - 地方独立行政法人 東京都立産業技術研究センター — 財務諸表等 - 地方独立行政法人 東京都立産業技術研究センター 東京都立産業技術研究センター https://www.iri-tokyo.jp > about > financial",
+    "url": "https://www.iri-tokyo.jp/about/financial/",
+    "pass": 3
+   },
+   {
+    "quote": "(地独) 東京都立産業技術研究センター 技術シーズ紹介 — (地独) 東京都立産業技術研究センター 技術シーズ紹介 板橋区公式ホームページ PDF https://www.city.itabashi.tokyo.jp > _res > sangiken",
+    "url": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/065/530/sangiken.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "東京都立産業技術研究センター — 東京都立産業技術研究センター 東京都立産業技術研究センター https://www.iri-tokyo.jp",
+    "url": "https://www.iri-tokyo.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都立産業技術研究センター - Wikipedia — 東京都立産業技術研究センター - Wikipedia Wikipedia https://ja.wikipedia.org > 東京都立産業技術研究センター",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "都産技研について｜採用情報 東京都立産業技術研究センター — 都産技研について｜採用情報 東京都立産業技術研究センター 東京都立産業技術研究センター https://www.iri-tokyo.jp > recruit > tiri-about",
+    "url": "https://www.iri-tokyo.jp/recruit/tiri-about/",
+    "pass": 3
+   },
+   {
+    "quote": "地方独立行政法人 東京都立産業技術研究センター | 企業情報 — 地方独立行政法人 東京都立産業技術研究センター | 企業情報 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 公益・特殊・独立行政法人",
+    "url": "https://mono.ipros.com/company/detail/2046541/",
+    "pass": 3
+   },
+   {
+    "quote": "業務実績評価 地方独立行政法人 東京都立産業技術研究センター — 業務実績評価 地方独立行政法人 東京都立産業技術研究センター 東京都総務局 https://www.soumu.metro.tokyo.lg.jp > sangiken",
+    "url": "https://www.soumu.metro.tokyo.lg.jp/04group/dokuritugyouseihouji/sangiken",
+    "pass": 3
+   },
+   {
+    "quote": "地方独立行政法人 東京都立産業技術研究センター の障害者求人 ... — 地方独立行政法人 東京都立産業技術研究センター の障害者求人 ... atGP https://www.atgp.jp > search > top > company_recruit",
+    "url": "https://www.atgp.jp/search/top/company_recruit/00160000000076e5kg",
+    "pass": 3
+   },
+   {
+    "quote": "地方独立行政法人 東京都立産業技術研究センター - アカリク — 地方独立行政法人 東京都立産業技術研究センター - アカリク アカリク https://acaric.jp > company-search > detail > company",
+    "url": "https://acaric.jp/company-search/detail/148787/company",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "今回の技術開発では、粉末床溶融結合方式においてレーザー出力を高め、露光領域を従来比で5倍に広げる新技術が採用された",
+    "url": "https://news.sharelab.jp/cases/other-fields/formnext2024-tokyo-241206/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、樹脂粉末への透過性が高い大径レーザーと高出力スキャナーを活用し、深層溶融を可能にしたことで、積層ピッチを2.5倍に拡大できる点が特長である",
+    "url": "https://news.sharelab.jp/cases/other-fields/formnext2024-tokyo-241206/",
+    "pass": 3
+   },
+   {
+    "quote": "RMIT大学、水に浮くチタン製ラティス構造体を3Dプリンターで開発、損傷後も浮力を維持",
+    "url": "https://news.sharelab.jp/cases/other-fields/formnext2024-tokyo-241206/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターで使える金属材料は？ステンレスやアルミニウムなど種類と特徴を解説",
+    "url": "https://news.sharelab.jp/cases/other-fields/formnext2024-tokyo-241206/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末床溶融結合法 / PBF（Powder Bed Fusion）を解説！SLS方式、SLM方式と何が違う？",
+    "url": "https://news.sharelab.jp/cases/other-fields/formnext2024-tokyo-241206/",
+    "pass": 3
+   },
+   {
+    "quote": "都産技研 金属3Dプリンター（金属粉末積層造形装置）による造形 - YouTube",
+    "url": "https://www.youtube.com/watch?v=5KVb69CSTXU",
+    "pass": 3
+   },
+   {
+    "quote": "都産技研 金属3Dプリンター（金属粉末積層造形装置）による造形",
+    "url": "https://www.youtube.com/watch?v=5KVb69CSTXU",
+    "pass": 3
+   },
+   {
+    "quote": "【ググっと！製造業 ＃９】高い粉末冶金技術を持つ小さな一流企業「平和産業株式会社」",
+    "url": "https://www.youtube.com/watch?v=5KVb69CSTXU",
+    "pass": 3
+   },
+   {
+    "quote": "【衝撃】銅の時代が終了？日本が見つけた「炭素の電線」カーボンナノチューブが凄すぎる｜住友電工・日本ゼオン",
+    "url": "https://www.youtube.com/watch?v=5KVb69CSTXU",
+    "pass": 3
+   },
+   {
+    "quote": "ビルドプレート上に平面展開した金属粉末層に 向けて選択的にレーザービームを照射します",
+    "url": "https://www.youtube.com/watch?v=5KVb69CSTXU",
+    "pass": 3
+   },
+   {
+    "quote": "レーザービームが照射された部分の 材料粉末が溶融・凝固します",
+    "url": "https://www.youtube.com/watch?v=5KVb69CSTXU",
+    "pass": 3
+   },
+   {
+    "quote": "前層の上に重ねるように、新たな粉末層を生成します",
+    "url": "https://www.youtube.com/watch?v=5KVb69CSTXU",
+    "pass": 3
+   },
+   {
+    "quote": "積層プロセスによってワークスペース内に 堆積した粉末の塊を上方に押し出します",
+    "url": "https://www.youtube.com/watch?v=5KVb69CSTXU",
+    "pass": 3
+   },
+   {
+    "quote": "作業者はグローブごしに余剰粉末を粗取りしていきます",
+    "url": "https://www.youtube.com/watch?v=5KVb69CSTXU",
+    "pass": 3
+   },
+   {
+    "quote": "装置内に装備されているバキュームクリーナーで 余剰の材料粉末を吸引します",
+    "url": "https://www.youtube.com/watch?v=5KVb69CSTXU",
+    "pass": 3
+   },
+   {
+    "quote": "装置内で除去しきれなかった余剰の粉末を吸引します",
+    "url": "https://www.youtube.com/watch?v=5KVb69CSTXU",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "東京都立産業技術研究センター (@tiri_koho) / X 東京都立産業技術研究センター (@tiri_koho) / X X https://x.com > tiri_koho",
+    "url": "https://x.com/tiri_koho",
+    "pass": 3
+   },
+   {
+    "quote": "東京都立産業技術研究センター - X 東京都立産業技術研究センター - X X https://x.com > @tiri_koho",
+    "url": "https://x.com/tiri_koho/status/2033815600594882807",
+    "pass": 3
+   },
+   {
+    "quote": "東京都立産業技術研究センター - X 東京都立産業技術研究センター - X X https://x.com > @tiri_koho",
+    "url": "https://x.com/tiri_koho/status/2118463369263063273",
+    "pass": 3
+   },
+   {
+    "quote": "東京都立産業技術研究センター - X 東京都立産業技術研究センター - X X https://x.com > @tiri_koho",
+    "url": "https://x.com/tiri_koho/status/1426076052166610946",
+    "pass": 3
+   },
+   {
+    "quote": "東京都立産業技術研究センター on X: \"# note #都産技研 長さ ... 東京都立産業技術研究センター on X: \"# note #都産技研 長さ ... X https://x.com > @tiri_koho",
+    "url": "https://x.com/tiri_koho/status/1848484407989968906",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "浅野 友軌 - 東京都立産業技術研究センター の研究員 - LinkedIn 浅野 友軌 - 東京都立産業技術研究センター の研究員 - LinkedIn LinkedIn https://jp.linkedin.com > 友軌-浅野-44963a441",
+    "url": "https://jp.linkedin.com/in/%E5%8F%8B%E8%BB%8C-%E6%B5%85%E9%87%8E-44963a441",
+    "pass": 3
+   },
+   {
+    "quote": "小西 敏功 - 地方独立行政法人 東京都立産業技術研究センター 小西 敏功 - 地方独立行政法人 東京都立産業技術研究センター LinkedIn https://jp.linkedin.com > 敏功-小西-4b68671a9",
+    "url": "https://jp.linkedin.com/in/%E6%95%8F%E5%8A%9F-%E5%B0%8F%E8%A5%BF-4b68671a9",
+    "pass": 3
+   },
+   {
+    "quote": "Yoshimasa Nakamura - 東京都立産業技術研究センター - 研究員 Yoshimasa Nakamura - 東京都立産業技術研究センター - 研究員 LinkedIn https://jp.linkedin.com > ...",
+    "url": "https://jp.linkedin.com/in/yoshimasa-nakamura-389a55181",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "東京都立産業技術研究センター - Home - Facebook 東京都立産業技術研究センター - Home - Facebook Facebook https://www.facebook.com > pages > 東京都立産業技術...",
+    "url": "https://www.facebook.com/pages/%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/242629632456183",
+    "pass": 3
+   },
+   {
+    "quote": "地方独立行政法人 東京都立産業技術研究センター 多摩テクノ ... 地方独立行政法人 東京都立産業技術研究センター 多摩テクノ ... Facebook https://www.facebook.com > ...",
+    "url": "https://www.facebook.com/206314926108456",
+    "pass": 3
+   },
+   {
+    "quote": "電気学会・ 東京都立産業技術研究センター 連携セミナー 本頁 ... 電気学会・ 東京都立産業技術研究センター 連携セミナー 本頁 ... Facebook https://www.facebook.com > IEEJ.denki > posts > 電気学...",
+    "url": "https://www.facebook.com/IEEJ.denki/posts/%E9%9B%BB%E6%B0%97%E5%AD%A6%E4%BC%9A%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E9%80%A3%E6%90%BA%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E6%9C%AC%E9%A0%81%E3%81%AEpdf%E3%81%AF%E3%81%93%E3%81%A1%E3%82%89-%E9%9B%BB%E6%B0%97%E5%AD%A6%E4%BC%9A%E3%81%AF%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%A8%E9%80%A3%E6%90%BA%E3%81%97%E4%B8%BB%E3%81%AB%E9%83%BD%E5%86%85%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%94%AF%E6%8F%B4%E3%82%92%E7%9B%AE%E7%9A%84%E3%81%A8%E3%81%97%E3%81%9F%E9%80%A3%E6%90%BA/1532507932249421/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.iri-tokyo.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri-tokyo.jp/equipment-news/saikai-20260910/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri-tokyo.jp/equipment-news/others-2025-06-02/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri-tokyo.jp/equipment-news/saikai-2026-07-07/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri-tokyo.jp/about/organization/jonan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri-tokyo.jp/news/news-2026-11-09/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri-tokyo.jp/news/news-2026-11-06/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri-tokyo.jp/equipment-news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri-tokyo.jp/service/search/food-humidity-incubater/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri-tokyo.jp/news/?category=pressrelease",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri-tokyo.jp/information/mail-news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri-tokyo.jp/news/news-2026-10-20/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri-tokyo.jp/tiri-news/booklet/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri-tokyo.jp/service/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.soumu.metro.tokyo.lg.jp/documents/d/soumu/2025-09-18-131443-473",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2046541/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/cases/other-fields/formnext2024-tokyo-241206/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=5KVb69CSTXU",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/065/530/sangiken.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2046541/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.metro.tokyo.lg.jp/04group/dokuritugyouseihouji/sangiken",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/tiri_koho",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tiri_koho/status/2033815600594882807",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tiri_koho/status/2118463369263063273",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tiri_koho/status/1426076052166610946",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E5%8F%8B%E8%BB%8C-%E6%B5%85%E9%87%8E-44963a441",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E6%95%8F%E5%8A%9F-%E5%B0%8F%E8%A5%BF-4b68671a9",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/yoshimasa-nakamura-389a55181",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/242629632456183",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/206314926108456",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/IEEJ.denki/posts/%E9%9B%BB%E6%B0%97%E5%AD%A6%E4%BC%9A%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E9%80%A3%E6%90%BA%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E6%9C%AC%E9%A0%81%E3%81%AEpdf%E3%81%AF%E3%81%93%E3%81%A1%E3%82%89-%E9%9B%BB%E6%B0%97%E5%AD%A6%E4%BC%9A%E3%81%AF%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%A8%E9%80%A3%E6%90%BA%E3%81%97%E4%B8%BB%E3%81%AB%E9%83%BD%E5%86%85%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%94%AF%E6%8F%B4%E3%82%92%E7%9B%AE%E7%9A%84%E3%81%A8%E3%81%97%E3%81%9F%E9%80%A3%E6%90%BA/1532507932249421/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tiri_koho/status/1848484407989968906",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tiri_koho",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "東京都立産業技術研究センター",
+   "results": [
+    "https://www.iri-tokyo.jp/",
+    "https://www.soumu.metro.tokyo.lg.jp/documents/d/soumu/2025-09-18-131443-473",
+    "https://www.youtube.com/channel/UCkuDXGlfTzrq-odeScf6zjA",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+    "https://www.tokyo-odaiba.net/genre/%E5%9C%B0%E6%96%B9%E7%8B%AC%E7%AB%8B%E8%A1%8C%E6%94%BF%E6%B3%95%E4%BA%BA-%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000pOwmK",
+    "https://ja.wikipedia.org/wiki/東京都立産業技術研究センター",
+    "https://sumifa.jp/factory/toukyotoritusangyoukenkyuucenter/",
+    "https://tiri-robot.jp/",
+    "https://www.iri-tokyo.jp/english/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "東京都立産業技術研究センター 会社概要 資本金 設立",
+   "results": [
+    "https://www.iri-tokyo.jp/recruit/tiri-about/",
+    "https://www.soumu.metro.tokyo.lg.jp/documents/d/soumu/2025-09-18-131443-473",
+    "https://mono.ipros.com/company/detail/2046541/",
+    "https://www.town.mizuho.tokyo.jp/jigyousya/002/p010989.html",
+    "https://www.r-agent.com/company/79249/",
+    "https://www.tisi.jp/casestudy/casestudy_118.html",
+    "https://syukatsu-kaigi.jp/companies/70081",
+    "https://acaric.jp/company-search/detail/148787/company",
+    "https://www.tokyo-odaiba.net/genre/%E5%9C%B0%E6%96%B9%E7%8B%AC%E7%AB%8B%E8%A1%8C%E6%94%BF%E6%B3%95%E4%BA%BA-%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "東京都立産業技術研究センター 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.iri-tokyo.jp/service/search/r6-metal-am-2/",
+    "https://news.sharelab.jp/cases/other-fields/formnext2024-tokyo-241206/",
+    "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://www.youtube.com/playlist?list=PLJ5jGUwOLI1-6tUCBWCTeIYvkWeXDcqHR",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-houkokusyo.pdf",
+    "https://kk-ariga.co.jp/metal_3d_printer/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B/",
+    "https://www.jstage.jst.go.jp/article/jspmee/10/4/10_187/_pdf",
+    "https://sound.preventionworksvt.org/都産技研金属3dフリンター導入−加工処理を一貫支/",
+    "https://www.youtube.com/watch?v=5KVb69CSTXU"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "東京都立産業技術研究センター 金属積層造形 設備",
+   "results": [
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://www.iri-tokyo.jp/research/field/sekiso-zokei/",
+    "https://www.youtube.com/watch?v=5KVb69CSTXU",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-sankoushiryousyu.pdf",
+    "https://www.youtube.com/playlist?list=PLJ5jGUwOLI1-6tUCBWCTeIYvkWeXDcqHR",
+    "https://kyodonewsprwire.jp/release/202207113643",
+    "https://jampt.jp/",
+    "https://www.jstage.jst.go.jp/article/amfuture/1/1/1_37/_pdf",
+    "https://orist.jp/gaiyou/facility_izumi/tri3d/device/",
+    "https://www.jstage.jst.go.jp/article/jfes/98/9/98_543/_pdf/-char/ja"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "東京都立産業技術研究センター 株主 出資 親会社",
+   "results": [
+    "https://www.iri-tokyo.jp/about/financial/",
+    "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/065/530/sangiken.pdf",
+    "https://www.iri-tokyo.jp/",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+    "https://iri-tokyo-web.g.kuroco-img.app/v=1718346223/files/topics/1665_ext_1_0.pdf",
+    "https://www.kiraboshibank.co.jp/about/yachiyo/release/2015pdf/20150925_1.pdf",
+    "https://www.sbic.co.jp/",
+    "https://www.mitsubishi-motors.com/jp/investors/stockinfo/pdf/meeting260618-1.pdf?20261022",
+    "https://www.cyberagent.co.jp/files/topics/20015_ext_21_0.pdf",
+    "https://ja.wikipedia.org/wiki/東京都立産業技術研究センター"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "東京都立産業技術研究センター 売上高 従業員数",
+   "results": [
+    "https://www.iri-tokyo.jp/recruit/tiri-about/",
+    "https://mono.ipros.com/company/detail/2046541/",
+    "https://www.soumu.metro.tokyo.lg.jp/04group/dokuritugyouseihouji/sangiken",
+    "https://www.atgp.jp/search/top/company_recruit/00160000000076e5kg",
+    "https://acaric.jp/company-search/detail/148787/company",
+    "https://www.r-agent.com/company/79249/",
+    "https://next.rikunabi.com/viewjob/jk27870e8b0e5b0002/",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10090412758/",
+    "https://tiri-recruit.snar.jp/",
+    "https://jobcatalog.yahoo.co.jp/company/1000022940/information/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 東京都立産業技術研究センター",
+   "results": [
+    "https://note.com/tosangiken",
+    "https://note.com/upgrade_tokyo/n/n3879ed74f4e1",
+    "https://note.com/yuri_tabi/n/nbfed3e876425",
+    "https://note.com/upgrade_tokyo/n/n927f676715a4",
+    "https://note.com/kosha_design/n/n88ece93a902b",
+    "https://note.com/mamezou_info/n/ncc3343369e72",
+    "https://note.com/upgrade_tokyo/n/n971da79fee91",
+    "https://note.com/upgrade_tokyo/n/n02c3c6bb9e76",
+    "https://note.com/taitosangyonavi/n/n1633d1b66578",
+    "https://note.com/gay_bobcat4966/n/n2332942de3f4"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 東京都立産業技術研究センター",
+   "results": [
+    "https://x.com/tiri_koho",
+    "https://x.com/tiri_koho/status/2033815600594882807",
+    "https://x.com/tiri_koho/status/2118463369263063273",
+    "https://x.com/tiri_koho/status/1426076052166610946",
+    "https://x.com/tiri_koho/status/2112665167117074486",
+    "https://x.com/tiri_koho/status/2110219048600715294",
+    "https://x.com/tiri_koho/status/2023517758047002799",
+    "https://x.com/tiri_koho/status/1949741616325136640",
+    "https://x.com/tiri_koho/status/2117013829104119976",
+    "https://x.com/tiri_koho/status/2110641837170192883"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com 東京都立産業技術研究センター",
+   "results": [
+    "https://jp.linkedin.com/in/%E5%8F%8B%E8%BB%8C-%E6%B5%85%E9%87%8E-44963a441",
+    "https://jp.linkedin.com/in/%E5%93%B2-%E9%AB%98%E5%B1%B1-547943178",
+    "https://jp.linkedin.com/in/%E6%95%8F%E5%8A%9F-%E5%B0%8F%E8%A5%BF-4b68671a9",
+    "https://jp.linkedin.com/in/yoshimasa-nakamura-389a55181",
+    "https://jp.linkedin.com/in/%E5%88%A9%E5%93%89-%E8%90%A9%E5%8E%9F-33191318b",
+    "https://jp.linkedin.com/in/takuya-akiba-130884394",
+    "https://jp.linkedin.com/in/%E5%95%93%E5%B8%82-%E4%B8%8A%E7%94%B0-098707153",
+    "https://jp.linkedin.com/in/takeshi-sato-94449a250",
+    "https://www.linkedin.com/pub/dir/+/Ohyabu",
+    "https://jp.linkedin.com/in/友軌-浅野-44963a441"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com 東京都立産業技術研究センター",
+   "results": [
+    "https://www.facebook.com/pages/%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/242629632456183",
+    "https://www.facebook.com/206314926108456",
+    "https://www.facebook.com/IEEJ.denki/posts/%E9%9B%BB%E6%B0%97%E5%AD%A6%E4%BC%9A%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E9%80%A3%E6%90%BA%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E6%9C%AC%E9%A0%81%E3%81%AEpdf%E3%81%AF%E3%81%93%E3%81%A1%E3%82%89-%E9%9B%BB%E6%B0%97%E5%AD%A6%E4%BC%9A%E3%81%AF%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%A8%E9%80%A3%E6%90%BA%E3%81%97%E4%B8%BB%E3%81%AB%E9%83%BD%E5%86%85%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E6%8A%80%E8%A1%93%E8%80%85%E6%94%AF%E6%8F%B4%E3%82%92%E7%9B%AE%E7%9A%84%E3%81%A8%E3%81%97%E3%81%9F%E9%80%A3%E6%90%BA/1532507932249421/",
+    "https://www.facebook.com/sumifa.jp/videos/%E6%9D%B1%E4%BA%AC%E3%81%AE%E7%94%A3%E6%A5%AD%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E5%BA%95%E5%8A%9B%E7%B7%8F%E5%90%88%E5%8A%9B%E3%81%A7%E9%A0%BC%E3%82%8A%E3%81%AB%E3%81%AA%E3%82%8B%E9%83%BD%E7%94%A3%E6%8A%80%E7%A0%94%E3%81%B8%E4%BC%81%E6%A5%AD%E6%83%85%E5%A0%B1%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E5%A2%A8%E7%94%B0%E6%94%AF%E6%89%80-httpswwwiri-tokyojpsiteseikatsu/1164794140918066/",
+    "https://www.facebook.com/kyodonewsprwire/posts/%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%A8%E7%AC%AC%E4%B8%80%E5%8B%A7%E6%A5%AD%E4%BF%A1%E7%94%A8%E7%B5%84%E5%90%88%E3%81%8C%E6%A5%AD%E5%8B%99%E9%80%A3%E6%90%BA%E5%8D%94%E5%AE%9A%E3%82%92%E7%B7%A0%E7%B5%90%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E9%83%BD%E7%94%A3%E6%8A%80%E7%A0%94-%E7%AC%AC%E4%B8%80%E5%8B%A7%E6%A5%AD-%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD-%E7%94%A3%E5%AD%A6%E5%85%AC/1580778214092304/",
+    "https://www.facebook.com/hiroyukl.masuko/posts/%E5%BD%93%E7%A4%BE%E5%87%BA%E5%B1%95%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E5%A4%9A%E6%91%A9%E3%83%86%E3%82%AF%E3%83%8E%E3%83%95%E3%82%A7%E3%82%A22026%E5%BD%93%E7%A4%BE%E3%81%AF%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%A7%E8%BB%8A%E8%BC%89%E6%A9%9F%E5%99%A8%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E5%93%A1%E3%81%A8%E3%81%97%E3%81%A6%E5%8F%82%E7%94%BB%E3%81%97%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%99%E5%BD%93%E7%A4%BE%E3%81%AF%E6%97%A5%E6%9C%AC%E3%81%AE%E7%A7%BB%E5%8B%95%E3%82%92%E3%82%A2%E3%83%83/2996206604054307/",
+    "https://www.facebook.com/ReFROBeTHERE/posts/%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE5giot%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E6%99%AE%E5%8F%8A%E4%BF%83%E9%80%B2%E4%BA%8B%E6%A5%AD%E5%85%AC%E5%8B%9F%E5%9E%8B%E5%85%B1%E5%90%8C%E7%A0%94%E7%A9%B6%E3%81%AB%E6%8E%A1%E6%8A%9E%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F-%E6%8E%A1%E6%8A%9E%E3%83%86%E3%83%BC%E3%83%9E5g%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%9F%E7%A9%BA%E9%96%93%E3%83%87%E3%83%BC%E3%82%BF%E6%B4%BB%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E7%A0%94/603310888255821/",
+    "https://www.facebook.com/100054438402916/posts/8%E6%9C%8819%E6%97%A5%E9%87%91%E3%81%AB%E5%BC%8A%E7%A4%BE%E4%BB%A3%E8%A1%A8%E5%90%89%E7%94%B0%E3%81%8C%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E4%B8%BB%E5%82%AC%E3%81%AE%E5%8C%BB%E5%B7%A5%E9%80%A3%E6%90%BA%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%AB%E7%99%BB%E5%A3%87%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/1786209478422188/",
+    "https://www.facebook.com/moriai.net/posts/%E7%B5%8C%E6%B8%88%E6%B8%AF%E6%B9%BE%E5%A7%94%E5%93%A1%E4%BC%9A%E7%94%A3%E6%A5%AD%E5%8A%B4%E5%83%8D%E5%B1%80%E5%A0%B1%E5%91%8A%E4%BA%8B%E9%A0%85-%E7%94%A3%E6%8A%80%E7%A0%94%E3%81%8C%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E5%8A%A0%E9%80%9F%E3%81%95%E3%81%9B%E3%82%8B%E5%85%B1%E5%89%B5%E3%81%AE%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%A8%E3%81%97%E3%81%A6%E6%B4%BB%E7%94%A8%E3%81%95%E3%82%8C%E3%82%8B%E3%82%88%E3%81%86%E5%95%8F%E3%81%86%E3%82%82%E3%82%8A%E6%84%9B%E4%BB%A4%E5%92%8C7%E5%B9%B4%E5%BA%A6%E5%9C%B0%E6%96%B9%E7%8B%AC%E7%AB%8B%E8%A1%8C%E6%94%BF%E6%B3%95%E4%BA%BA%E6%9D%B1%E4%BA%AC/1670971261707190/",
+    "https://www.facebook.com/aiit.ac.jp/photos/tiri%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9F%E3%83%BC%E3%83%86%E3%82%A3%E3%82%A4%E3%83%B3%E3%82%B0%E9%83%BD%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC6%E6%9C%888%E6%97%A510%E6%97%A5%E3%81%A72016aiitpbl%E6%88%90%E6%9E%9C%E3%82%92pbl%E3%83%81%E3%83%BC%E3%83%A0%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E3%81%AB%E4%BB%A3%E3%82%8F%E3%82%8A%E6%8B%85%E5%BD%93%E6%95%99%E6%8E%88%E3%81%8C%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%83%85%E5%A0%B1%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF/1031048276980924/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "東京都立産業技術研究センター note 社長",
+   "results": [
+    "https://mag.iri-tokyo.jp/",
+    "https://x.com/tiri_koho/status/1848484407989968906",
+    "https://www.iri-tokyo.jp/information/sns/",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/r70502",
+    "https://note.com/mamezou_info/n/ncc3343369e72",
+    "https://note.com/tatsuon_rox/n/n5432068e9233",
+    "https://www.tokyo-kosha.or.jp/TTC/column/business/22.html",
+    "https://note.com/pede_in_black/n/nff1f336e80b4",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+    "https://mag.iri-tokyo.jp/all"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "東京都立産業技術研究センター X 投稿",
+   "results": [
+    "https://www.iri-tokyo.jp/information/sns/",
+    "https://x.com/tiri_koho",
+    "https://www.youtube.com/watch?v=ToyItZxJDUo",
+    "https://www.iri-tokyo.jp/information/twitter-policy/",
+    "https://www.youtube.com/@TIRICHANNEL/videos",
+    "https://www.iri-tokyo.jp/service/search/jon-r05-xray/",
+    "https://kyodonewsprwire.jp/author/H104836",
+    "https://x.com/tiri_koho/status/2115352874049810523",
+    "https://x.com/tiri_koho/with_replies",
+    "https://www.newglass.jp/mag/TITL/maghtml/103-pdf/+103-p038.pdf"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部20頁・検索12回）",
+  "資本金": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部20頁・検索12回）",
+  "創業年度": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部20頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部20頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部20頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部20頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部20頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部20頁・検索12回）",
+  "資本金・株主": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部20頁・検索12回）"
+ }
+}

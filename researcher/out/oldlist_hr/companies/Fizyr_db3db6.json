@@ -1,0 +1,975 @@
+{
+ "name": "Fizyr",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-10T17:16:08.535010+00:00",
+ "official_url": "https://fizyr.com/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2014",
+    "url": "https://startupintros.com/orgs/fizyr",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Molengraaffsingel 10 2629 JD Delft The Netherlands",
+    "url": "https://startupintros.com/orgs/fizyr",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Fizyr OS integrates with any robotic cell and lets machines see, think and act in real time. Allowing automation to run faster, safer and smarter. We plug our ultra-fast software between your cameras and robots, so standard robots start making split-second decisions keeping parcels, pallets and profits moving. Instant ROI your CEO will spot.",
+    "url": "https://www.fizyr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Labor shortages and inconsistent operations are hurting throughput and margins. Great vision software is the answer: without it, robots without intelligence fail on anything that isn’t perfectly predictable, and every mistake costs time, money and customer trust. ​We know the supply chain, our background gives us the edge.",
+    "url": "https://www.fizyr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Imagine a pallet unloader that never pauses to ask, “What’s that box?” Fizyr feeds your robot a complete visual understanding of every scene, updates its knowledge on the fly and guides each pick with millimeter precision. We teach robots to recognize anything, anywhere and exactly what to pick and how to pick it.",
+    "url": "https://www.fizyr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fizyr OS captures the necessary visual data in a scene to detect, process and inform robotic systems.",
+    "url": "https://www.fizyr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Commands to robots based on vision enable precision and consistency in operations.",
+    "url": "https://www.fizyr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Lightning fast processing",
+    "url": "https://www.fizyr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fizyr adds advanced 3D context awareness with millimeter precision.",
+    "url": "https://www.fizyr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Agnostic approach, integrate with wide variety of cameras, robotic systems, grippers.",
+    "url": "https://www.fizyr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Live deployments where Fizyr OS vision is enabling trailer unloading, high volume parcel induction, depalletization, pallet classification, food processing, quality control and more. Check our demo videos, press and partners.",
+    "url": "https://www.fizyr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover our products",
+    "url": "https://www.fizyr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Others sell robots or hype; we sell focused, responsive vision that allows you to own the rest of the stack. Fizyr’s speed, open APIs and integrator-first model make it the safest, smartest choice for next-gen cells. No lock-in, no guesswork, all precision.",
+    "url": "https://www.fizyr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Continuous improvement",
+    "url": "https://www.fizyr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Challenge the vision experts: Fizyr is ready to engage on scalable projects or automation product development across a variety use cases.",
+    "url": "https://www.fizyr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Launch Your Prototype",
+    "url": "https://www.fizyr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy our solution in your toughest cell. We will supply full software and training support.",
+    "url": "https://www.fizyr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Operationalize: work with us to ready a Fizyr OS-enabled production launch and support plan.",
+    "url": "https://www.fizyr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner with us to exceed your project objectives.",
+    "url": "https://www.fizyr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fizyr OS runs on any industrial 2D or 3D camera. Keeping that promise means proving it, sensor by sensor. Our engineering team built a sensor certification lab that runs on agentic local models. Our time to certify a new camera dropped from weeks to a few days.",
+    "url": "https://www.fizyr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "If you're planning a vision-guided robotic cell for 2027, the best time to order the vision hardware is when you have won the project. GPU and memory prices have almost doubled in a short period and the market expects them to keep climbing. Quotes made today will be out of date within the month.",
+    "url": "https://www.fizyr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fizyr OS integrates with leading robots, cameras, grippers and other cell components. We collaborate with partners on cell layout, motion and safety so integrators can roll out solutions at scale. Our joint development and certification process keeps every component current and rock-solid.",
+    "url": "https://www.fizyr.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "A system built for e-commerce or warehouses won’t fit 3PL or food-processing needs. That’s why Fizyr keeps its setups and neural networks flexible, adapting to each task.",
+    "url": "https://www.fizyr.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Fizyr links companies that need advanced automation with top integrators certified in using machine vision to tackle tough problems.",
+    "url": "https://www.fizyr.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Fizyr partners with best-of- breed solution providers",
+    "url": "https://www.fizyr.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Fizyr enables our integrator partners to focus on their industry verticals by providing collaboration, strong industry relationships, lead generation, and business development support. Reach out to join the Fizyr Partner Network!",
+    "url": "https://www.fizyr.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Fizyr supplies powerful vision AI that lets robotics and system integrators automate the dull, dirty, and dangerous tasks that slow businesses down by improving efficiency, safety, and staffing.",
+    "url": "https://www.fizyr.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Our experienced team knows vision AI, point clouds, neural networks, and cascade learning inside and out. While others talk theory and hype, we’ve spent years building and running real solutions that solve everyday business problems.",
+    "url": "https://www.fizyr.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "We are dedicated to excellence and challenge each other to deliver high-quality results. Our team never settles for the norm and constantly tries to improve its overall performance.",
+    "url": "https://www.fizyr.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "We are an ally to our partners and dedicated to delivering the best results possible for them. As front-runners we are proactive and very confident that our work can help our partners succeed.",
+    "url": "https://www.fizyr.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "We empower one another to be the best version of ourselves and promote open dialogue. We have created an environment where everyone's voice can be heard. We appreciate new thoughts and ideas and celebrate all cultures.",
+    "url": "https://www.fizyr.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Our leadership team brings more than 150 years of combined experience in enterprise software, automation, deeptech and related fields, and we’ve built multiple game-changing companies on our entrepreneurial journeys.",
+    "url": "https://www.fizyr.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "A senior business executive and industry expert with more than 25 years of management experience in the software and technology services industry including several global enterprises.",
+    "url": "https://www.fizyr.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Fizyr’s vision AI is in a league of its own. While others spread themselves thin trying to be one-stop shops, we stay laser-focused on vision AI and team up with trusted partners for everything else. The result, our Fizyr OS™ achieves success rates of up to 99.99%.",
+    "url": "https://www.fizyr.com/technology",
+    "pass": 1
+   },
+   {
+    "quote": "Responsive, real-time image processing, providing vision-based commands to robots in milliseconds. (*Vision cycle speed can vary by use case and environmental factors.)",
+    "url": "https://www.fizyr.com/technology",
+    "pass": 1
+   },
+   {
+    "quote": "Sends the robot control system exact grasp points, approach angles, force settings, and best gripper choice to execute pick.",
+    "url": "https://www.fizyr.com/technology",
+    "pass": 1
+   },
+   {
+    "quote": "This approach allows our vision AI to analyze data layer by layer, boosting accuracy and eliminating common errors by human labor or less precise vision systems.",
+    "url": "https://www.fizyr.com/technology",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI processes images in milliseconds on production-ready industrial servers, so there’s limited or no latency. Each server is optimized to utilize powerful internal components. asdemands.",
+    "url": "https://www.fizyr.com/technology",
+    "pass": 1
+   },
+   {
+    "quote": "Edge data flows to the cloud for monitoring and improved machine learning, coordinated with edge computing resources for optimal performance and long-term improvements.",
+    "url": "https://www.fizyr.com/technology",
+    "pass": 1
+   },
+   {
+    "quote": "Fizyr OS, as the vision component of an intelligent automation solution, launches with a production-ready neural network, ready to adapt for changes in objects, environments and more.",
+    "url": "https://www.fizyr.com/technology",
+    "pass": 1
+   },
+   {
+    "quote": "Fizyr OS software runs on production-grade servers, powerful CPUs, NVIDIA GPUs, so your system is responsive, and the vision cycle and integration with robotic resources are fast and efficient.",
+    "url": "https://www.fizyr.com/technology",
+    "pass": 1
+   },
+   {
+    "quote": "Tight integration with Fizyr OS vision software is a key to success in highly complex automation projects. Our software is designed to be 'hardware agnostic', while prioritizing integration with the best of breed camera partners.",
+    "url": "https://www.fizyr.com/technology",
+    "pass": 1
+   },
+   {
+    "quote": "Designing automation integrations involves choosing the right robotic systems for the job. Solutions designed for eCommerce or warehouses can differ from those designed for food processing or manufacturing. Fizyr adapts, providing connectivity with a variety of arms and control systems from leading global robotics providers.",
+    "url": "https://www.fizyr.com/technology",
+    "pass": 1
+   },
+   {
+    "quote": "Choosing the right gripper (end effector) is a key to accuracy in pick and place automation projects. The vision system is often informing the robotic system the best object to pick in a group, how to approach the grasp, and in some cases informing optimized suction zone usage for grippers.",
+    "url": "https://www.fizyr.com/technology",
+    "pass": 1
+   },
+   {
+    "quote": "Fizyr OS is built for hardware that is \"AI-ready\". The vision system performs in high performance, highly responsive edge computing environments, optimized for highly tuned servers, the fastest processors, and industry-hardened networks.",
+    "url": "https://www.fizyr.com/technology",
+    "pass": 1
+   },
+   {
+    "quote": "Our team, experienced pros, sharp engineers, and AI specialists, master vision AI, machine learning, edge computing, IoT, point clouds, neural networks, and cascade learning. They use these skills to build leading vision AI that cracks even the toughest automation challenges.",
+    "url": "https://www.fizyr.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our experienced team knows vision AI, point clouds, neural networks, and cascade learning inside and out. While others talk theory and hype, we’ve spent years building and running real solutions that solve everyday business problems.",
+    "url": "https://www.fizyr.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We are dedicated to excellence and challenge each other to deliver high-quality results. Our team never settles for the norm and constantly tries to improve its overall performance.",
+    "url": "https://www.fizyr.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We are an ally to our partners and dedicated to delivering the best results possible for them. As front-runners we are proactive and very confident that our work can help our partners succeed.",
+    "url": "https://www.fizyr.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We empower one another to be the best version of ourselves and promote open dialogue. We have created an environment where everyone's voice can be heard. We appreciate new thoughts and ideas and celebrate all cultures.",
+    "url": "https://www.fizyr.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We believe in rewarding talent and dedication. Enjoy competitive pay that reflects your skills and contributions, paired with our stock appreciation plan to share in the company’s success.",
+    "url": "https://www.fizyr.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "At Fizyr, you’ll join a vibrant, diverse international team, collaborating with talented professionals from around the world. Working across cultures and time zones, you’ll gain unique perspectives and share innovative ideas.",
+    "url": "https://www.fizyr.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Be part of a dynamic, forward-thinking company that’s pushing boundaries and driving innovation. Our rapidly growing business offers you the chance to work on cutting-edge projects, collaborate with creative minds, and contribute to impactful solutions that shape the future.",
+    "url": "https://www.fizyr.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "“My proof‑of‑concept made it onto a live robot cell within a month. Few companies hand engineers that kind of ownership.”",
+    "url": "https://www.fizyr.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our HQ is in Delft, the innovation hub between Rotterdam and The Hague, but team members also log in from more than a dozen cities across Europe and North America. We hire talent, not postcodes.",
+    "url": "https://www.fizyr.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The comprehensive AI solution for logistics, manufacturing & beyond.",
+    "url": "https://www.fizyr.com/product",
+    "pass": 1
+   },
+   {
+    "quote": "Fizyr OS is best-in-class vision AI, reaching up to 99% accuracy for detecting, picking and placing items in logistics, food processing, pallet ID and more. It integrates with major robots and hardware, letting machines see, adapt, and learn better than any other vision system.",
+    "url": "https://www.fizyr.com/product",
+    "pass": 1
+   },
+   {
+    "quote": "See our product in action",
+    "url": "https://www.fizyr.com/product",
+    "pass": 1
+   },
+   {
+    "quote": "Utilizes vision AI to segment items, identify pick priority, inform grasp poses, and complete the cycle with placement verification.",
+    "url": "https://www.fizyr.com/product",
+    "pass": 1
+   },
+   {
+    "quote": "Handles a variety of package types and materials, providing the optimal approach to stacking onto pallets, and singulating items from pallets at item and ledger levels.",
+    "url": "https://www.fizyr.com/product",
+    "pass": 1
+   },
+   {
+    "quote": "with machine learning for continuous improvement and optimal performance",
+    "url": "https://www.fizyr.com/product",
+    "pass": 1
+   },
+   {
+    "quote": "in challenging, high volume logistics, industrial and food processing environments",
+    "url": "https://www.fizyr.com/product",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Fizyr OS runs on any industrial 2D or 3D camera. Keeping that promise means proving it, sensor by sensor. Our engineering team built a sensor certification lab that runs on agentic local models. Our time to certify a new camera dropped from weeks to a few days.",
+    "url": "https://www.fizyr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A system built for e-commerce or warehouses won’t fit 3PL or food-processing needs. That’s why Fizyr keeps its setups and neural networks flexible, adapting to each task.",
+    "url": "https://www.fizyr.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Cascade learning delivers quick, dramatic performance gains. Operators choose what the robot learns, when it learns, and which factors it weighs first, so it never has to unlearn bad habits. By feeding it only the right behaviors, the robot stays on target.",
+    "url": "https://www.fizyr.com/technology",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI processes images in milliseconds on production-ready industrial servers, so there’s limited or no latency. Each server is optimized to utilize powerful internal components. asdemands.",
+    "url": "https://www.fizyr.com/technology",
+    "pass": 1
+   },
+   {
+    "quote": "Designing automation integrations involves choosing the right robotic systems for the job. Solutions designed for eCommerce or warehouses can differ from those designed for food processing or manufacturing. Fizyr adapts, providing connectivity with a variety of arms and control systems from leading global robotics providers.",
+    "url": "https://www.fizyr.com/technology",
+    "pass": 1
+   },
+   {
+    "quote": "The comprehensive AI solution for logistics, manufacturing & beyond.",
+    "url": "https://www.fizyr.com/product",
+    "pass": 1
+   },
+   {
+    "quote": "in challenging, high volume logistics, industrial and food processing environments",
+    "url": "https://www.fizyr.com/product",
+    "pass": 1
+   },
+   {
+    "quote": "ISA provides technical resources and standards to help industrial automation professionals advance their careers and the field. We enable automation professionals worldwide to solve problems and enhance their skills by bringing people together to create new technologies and share best practices with future automation professionals.",
+    "url": "https://www.automation.com/article/yaskawa-cooperation-agreement-fizyr",
+    "pass": 3
+   },
+   {
+    "quote": "remains true to its century-long ethos of supplying only the very highest quality products–a philosophy which has made it a world-leader in the field. Yaskawa started out as a motor manufacturer and then became a supplier of automation solutions. Finally, with its i3-Mechatronics concept, the company has evolved into an Industry 4.0 solution provider.",
+    "url": "https://www.automation.com/article/yaskawa-cooperation-agreement-fizyr",
+    "pass": 3
+   },
+   {
+    "quote": "HANNOVER MESSE 2018 Report: Industrial technology providers collaborating to bring digital factory to life",
+    "url": "https://www.automation.com/article/yaskawa-cooperation-agreement-fizyr",
+    "pass": 3
+   },
+   {
+    "quote": "Bright Machines Introduces Brightware Studio to Liberate Factory Automation",
+    "url": "https://www.automation.com/article/yaskawa-cooperation-agreement-fizyr",
+    "pass": 3
+   },
+   {
+    "quote": "Fizyr OS advanced vision AI combines traditional image processing techniques and vision AI to identify quality issues, damage or errors in distribution, manufacturing, and food processing scenarios.",
+    "url": "https://www.fizyr.com/cases/detection",
+    "pass": 3
+   },
+   {
+    "quote": "We work closely with our integrator partners to provide flexible, focused solutions to eliminate waste in manufacturing or processing, or issues with package routing in distribution.",
+    "url": "https://www.fizyr.com/cases/detection",
+    "pass": 3
+   },
+   {
+    "quote": "Inconsistent quality inspection outcomes, resulting in downstream issues in manufacturing, logistics and food processing use cases",
+    "url": "https://www.fizyr.com/cases/detection",
+    "pass": 3
+   },
+   {
+    "quote": "Capturing images from the best industrial cameras, optimized for the use case",
+    "url": "https://www.fizyr.com/cases/detection",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced vision is required for the more dynamic supply chain and manufacturing processes; Fizyr OS vision provides the intelligence required in those environments",
+    "url": "https://www.fizyr.com/cases/detection",
+    "pass": 3
+   },
+   {
+    "quote": ": Trusted by top global integrators for production deployment in high-demand tasks, offering Vision Packs, training support, and focus solely on vision AI.[2][3][6]",
+    "url": "https://startupintros.com/orgs/fizyr",
+    "pass": 3
+   },
+   {
+    "quote": "warehouse automation and AI-robotics trend",
+    "url": "https://startupintros.com/orgs/fizyr",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://pitchbook.com/profiles/company/267794-29",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Rebranded to Fizyr when it pivoted its entire focus to advanced vision AI.",
+    "url": "https://www.fizyr.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "when the team won both competitions in Amazon's Picking Challenge using deep learning expertise, prompting a pivot to software-only focus and rebranding to Fizyr in",
+    "url": "https://startupintros.com/orgs/fizyr",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "We know that great teams drive success. Our vibrant team events - ranging from soccer games to dinners - are arranged to spark collaboration, boost morale, and create lasting connections.",
+    "url": "https://www.fizyr.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Be part of a dynamic, forward-thinking company that’s pushing boundaries and driving innovation. Our rapidly growing business offers you the chance to work on cutting-edge projects, collaborate with creative minds, and contribute to impactful solutions that shape the future.",
+    "url": "https://www.fizyr.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We celebrate diversity and are committed to creating an inclusive environment for all employees, regardless of race, color, religion, gender, gender identity, sexual orientation, national origin, genetics, disability or age.",
+    "url": "https://www.fizyr.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/267794-29",
+    "pass": 3
+   },
+   {
+    "quote": "Fizyr has 39 total employees.",
+    "url": "https://pitchbook.com/profiles/company/267794-29",
+    "pass": 3
+   },
+   {
+    "quote": "What is Fizyr’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/267794-29",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Fizyr is",
+    "url": "https://pitchbook.com/profiles/company/267794-29",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Fizyr - Robot Vision Solved. — Deep-learning vision software for robust automated picking and placing.",
+    "url": "https://www.fizyr.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Fizyr - Robot Vision Solved. — Fizyr feeds your robot a complete visual understanding of every scene, updates its knowledge on the fly and guides each pick with millimeter precision. We teach robots to recognize anything, anywhere and exactly what to pick and how to pick it.",
+    "url": "https://www.fizyr.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Company - Fizyr — Fizyr raised its first funding round in 2020 and appointed a new management team in 2022 to accelerate international growth. Fizyr OS is deployed by many of the world’s top systems and robotics integrators to automate many of their customers’ most challenging dull, dirty and dangerous jobs.",
+    "url": "https://www.fizyr.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "Fizyr - LinkedIn — In 2016, we won both competitions at the Amazon Picking Challenge. A year later, we rebranded as Fizyr and went all-in on AI vision software. We've been bootstrapped, focused, and growing ever...",
+    "url": "https://www.linkedin.com/company/fizyr/",
+    "pass": 3
+   },
+   {
+    "quote": "YASKAWA Announces Cooperation Agreement with Fizyr — Oct 8, 2024 · With demand growing for robotic automation, Fizyr is focused on enabling robotic and systems integrators with the best computer vision capabilities for logistics applications.",
+    "url": "https://www.automation.com/article/yaskawa-cooperation-agreement-fizyr",
+    "pass": 3
+   },
+   {
+    "quote": "Fizyr | Motoman Strategic Partners — Our mission is to automate repetitive tasks in logistics by developing high-quality computer vision software for pick and place applications, to reduce (operational) costs and improve working conditions for warehouse staff.",
+    "url": "https://www.motoman.com/en-us/integration/partners/fizyr",
+    "pass": 3
+   },
+   {
+    "quote": "Case: Detection - Fizyr — Fizyr OS advanced vision AI combines traditional image processing techniques and vision AI to identify quality issues, damage or errors in distribution, manufacturing, and food processing scenarios.",
+    "url": "https://www.fizyr.com/cases/detection",
+    "pass": 3
+   },
+   {
+    "quote": "Fizyr: IoT Project & Use Case — Oct 15, 2021 · 1 verified project featuring Fizyr: Asset Tracking/ Track and Trace. Including users, technology and real-world results.",
+    "url": "https://www.iotusecase.com/en/companies/fizyr",
+    "pass": 3
+   },
+   {
+    "quote": "Cases - Fizyr — Ready to see our solutions in action? Turn your toughest pick, pack or inspect task into a success story. Deep-learning vision software for robust automated picking and placing.",
+    "url": "https://www.fizyr.com/cases",
+    "pass": 3
+   },
+   {
+    "quote": "Fizyr: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Backed by venture capital firm FORWARD.one, the business currently maintains a workforce of 34 employees and generates less than $5 million in annual revenue. Originally established as a TU Delft university spinoff named Delft Robotics, the company was founded in 2014 by Prof. Martijn Wisse.",
+    "url": "https://startupintros.com/orgs/fizyr",
+    "pass": 3
+   },
+   {
+    "quote": "Fizyr 2026 Company Profile: Valuation, Funding & Investors ...Fizyr – Revenue, Valuation & Top Competitors – 2026 – DelftFizyr - 2025 Company Profile, Team, Funding & Competitors ...Fizyr — investors & funding | gritt.ioFizyr - Crunchbase Company Profile & FundingFizyr - Overview, News & Similar companies | ZoomInfo.com — Information on valuation, funding, cap tables, investors, and executives for",
+    "url": "https://pitchbook.com/profiles/company/267794-29",
+    "pass": 3
+   },
+   {
+    "quote": "Fizyr – Revenue, Valuation & Top Competitors – 2026 – Delft — Discover Fizyr's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/fizyr",
+    "pass": 3
+   },
+   {
+    "quote": "Fizyr - 2025 Company Profile, Team, Funding & Competitors ... — Nov 26, 2025 · Explore Fizyr's in-depth company profile, including funding details, key investors, leadership, and competitors.",
+    "url": "https://tracxn.com/d/companies/fizyr/__A1tZMdXyQTk45gPA2RWzKZfgFGwExz8BGlhi1jOy4DE",
+    "pass": 3
+   },
+   {
+    "quote": "Fizyr — investors & funding | gritt.io — We started in 2014 as ‘Delft Robotics’, a TU Delft spin-off founded by Professor Martijn Wisse, as a system integrator building robotic picking cells. In 2016, we participated in and won both competitions of the Amazon Picking challenge, mainly due to our track record in applying deep learning.",
+    "url": "https://www.gritt.io/company/fizyr/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Founded in Japan in 1915,",
+    "url": "https://www.automation.com/article/yaskawa-cooperation-agreement-fizyr",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us today to see how Fizyr can meet your detection needs.",
+    "url": "https://www.fizyr.com/cases/detection",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/267794-29",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Fizyr (@FizyrBV) / Posts / X Fizyr, providing the world’s most capable vision AI, and Yaskawa Europe, a leader in industrial automation and robotics, announce a new automated hygienic handling solution for the food and life sciences industries.",
+    "url": "https://x.com/fizyrbv",
+    "pass": 3
+   },
+   {
+    "quote": "NewswireToday / Yaskawa and Fizyr Partnership to Deliver ... NewswireToday / Yaskawa and Fizyr Partnership to Deliver Hygienic Handling Solutions #YaskawaEurope #FizyrBV #PANOPTIC #HygienicHandlingSolutions #Food #LifeSciences #AlphaRobotica #VanWeesWaalwijk #Automation #Manufacturing #Robotics - newswiretoday.com/news/184175/",
+    "url": "https://x.com/NewswireTODAY/status/1935424368605319337",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Fizyr - LinkedIn Fizyr builds the world's most advanced vision AI software for robotic automation — purpose-built for picking, stacking, depalletizing, and trailer unloading at industrial scale.",
+    "url": "https://www.linkedin.com/company/fizyr/",
+    "pass": 3
+   },
+   {
+    "quote": "Nuno Mota - Computer Vision Engineer at Fizyr | LinkedInTibor van Melsem Kocsis - Fizyr | LinkedInFIZYR | Bin Picking Vega Schnitzels Vivera | Fizyr - LinkedIn#fizyr #fanuc #depalletising #warehouseautomation #robotics # ...Fizyr Academy - You're invited! | Fizyr - LinkedIn Computer Vision Engineer at Fizyr · Ervaring: Fizyr, #1 in software for automated picking of items, parcels & baggage · Oplei",
+    "url": "https://nl.linkedin.com/in/nuno-mota-267112167",
+    "pass": 3
+   },
+   {
+    "quote": "Tibor van Melsem Kocsis - Fizyr | LinkedIn · Ervaring: Fizyr · Opleiding: Saïd Business School, University of Oxford · Locatie: Nederland · 500+ connecties op LinkedIn. Bekijk het profiel van Tibor van Melsem Kocsis op LinkedIn, een...",
+    "url": "https://nl.linkedin.com/in/vanmelsemkocsis",
+    "pass": 3
+   },
+   {
+    "quote": "FIZYR | Bin Picking Vega Schnitzels Vivera | Fizyr - LinkedIn Robot vision meets food automation Watch Fizyr OS in action, picking Vivera's plant-based schnitzels straight from the bin — deformable, irregular products handled with speed and precision ...",
+    "url": "https://www.linkedin.com/posts/fizyr_fizyr-bin-picking-vega-schnitzels-vivera-activity-7488263566504947712-Nw-G",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Fizyr | Delft - Facebook Fizyr, Delft. 18 likes. Our deep learning algorithm brings autonomous decision making to processes like identifying, quality control, counting, picking...",
+    "url": "https://www.facebook.com/deeplearning4vision/mentions/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.fizyr.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fizyr.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fizyr.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fizyr.com/technology",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fizyr.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fizyr.com/product",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC_(%E4%BC%81%E6%A5%AD)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fizyr.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fizyr.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fizyr.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/fizyr/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.automation.com/article/yaskawa-cooperation-agreement-fizyr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fizyr.com/cases/detection",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/CS-MFG-Pepsi-v1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.iotusecase.com/en/companies/fizyr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fizyr.com/cases",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://startupintros.com/orgs/fizyr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/267794-29",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/fizyr",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/fizyr/__A1tZMdXyQTk45gPA2RWzKZfgFGwExz8BGlhi1jOy4DE",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fizyrbv",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NewswireTODAY/status/1935424368605319337",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/fizyr/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://nl.linkedin.com/in/nuno-mota-267112167",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://nl.linkedin.com/in/vanmelsemkocsis",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/fizyr_fizyr-bin-picking-vega-schnitzels-vivera-activity-7488263566504947712-Nw-G",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/deeplearning4vision/mentions/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fizyrbv",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Fizyr 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Fizyr 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ジョージフィッシャー_(企業)",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.fizyr.com/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.indexpro.co.jp/distributor/search-maker",
+    "https://biz.toyokeizai.net/data/service/detail/id=418"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fizyr Japan",
+   "results": [
+    "https://www.fizyr.com/",
+    "https://www.fizyr.com/company",
+    "https://www.linkedin.com/company/fizyr/",
+    "https://www.automation.com/article/yaskawa-cooperation-agreement-fizyr",
+    "https://www.motoman.com/en-us/integration/partners/fizyr",
+    "https://physicalainews.jp/companies/fizyr",
+    "https://fizzyjp.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fizyr manufacturing customer case study",
+   "results": [
+    "https://www.fizyr.com/cases/detection",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/CS-MFG-Pepsi-v1.pdf",
+    "https://www.iotusecase.com/en/companies/fizyr",
+    "https://www.fizyr.com/cases",
+    "https://en.ids-imaging.com/casestudies-detail/items/picking-the-unknown.html",
+    "https://www.automation.com/article/robust-flexible-robotic-automation-logistics",
+    "https://www.ids-imaging.us/files/downloads/knowledgebase/pdf/news/en_us/case-study-picking-the-unknown-fizyr.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fizyr white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fizyr founded funding employees revenue",
+   "results": [
+    "https://startupintros.com/orgs/fizyr",
+    "https://pitchbook.com/profiles/company/267794-29",
+    "https://compworth.com/company/fizyr",
+    "https://tracxn.com/d/companies/fizyr/__A1tZMdXyQTk45gPA2RWzKZfgFGwExz8BGlhi1jOy4DE",
+    "https://www.gritt.io/company/fizyr/",
+    "https://www.crunchbase.com/organization/fizyr",
+    "https://www.zoominfo.com/c/fizyr-bv/455264597"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Fizyr",
+   "results": [
+    "https://note.com/wise_turtle184",
+    "https://note.com/tag/80億分の1",
+    "https://note.com/mio_adviser_8888/n/n7d3f9597f090",
+    "https://note.com/kentabright/n/nb116f899a6ac",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/miurakota/n/nb1539ab5123d",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Fizyr",
+   "results": [
+    "https://x.com/fizyrbv",
+    "https://x.com/NewswireTODAY/status/1935424368605319337",
+    "https://x.com/itscelyunique/status/2117839228826521620",
+    "https://x.com/0MUlsolf8550419/status/2120162789226676319",
+    "https://x.com/SeanTrende/status/2117814894988763256",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/CogitoEdu/status/2117911840973861028"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Fizyr",
+   "results": [
+    "https://www.linkedin.com/company/fizyr/",
+    "https://nl.linkedin.com/in/nuno-mota-267112167",
+    "https://nl.linkedin.com/in/vanmelsemkocsis",
+    "https://www.linkedin.com/posts/fizyr_fizyr-bin-picking-vega-schnitzels-vivera-activity-7488263566504947712-Nw-G",
+    "https://www.linkedin.com/posts/fizyr_fizyr-fanuc-depalletising-activity-7468202444330733568-gVVr",
+    "https://www.linkedin.com/posts/fizyr_fizyr-academy-youre-invited-activity-7457334573018886144-aln6",
+    "https://www.linkedin.com/posts/fizyr_𝗙𝗶𝘇𝘆𝗿-𝗢𝗦-𝗽𝗼𝘄𝗲𝗿𝘀-𝗗𝗘𝗥𝗢-𝗚-activity-7399001408278192128-5nzG"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Fizyr",
+   "results": [
+    "https://www.facebook.com/fizyr/",
+    "https://www.facebook.com/deeplearning4vision/mentions/",
+    "https://secure.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/multiplatformai/posts/225378980539418/",
+    "https://www.facebook.com/awltechniek/videos/rosi-and-the-zivid-fizyr-and-awl-teams-are-ready-for-day-2-of-the-automate-show-/361738516882090/",
+    "https://www.facebook.com/\u0000jperes88/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fizyr note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.fizyr.com/",
+    "https://pitchbook.com/profiles/company/267794-29",
+    "https://www.mmh.com/article/supply_chain_veteran_ken_fleming_joins_netherlands_based_fizyr_as_ceo",
+    "https://newspicks.com/news/11207247/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fizyr X 投稿",
+   "results": [
+    "https://x.com/fizyrbv",
+    "https://www.fizyr.com/",
+    "https://www.fizyr.com/contact",
+    "https://www.theai.tw/tools/fizyr",
+    "https://www.fizyr.com/company",
+    "https://x.com/Physi0910/status/2055617676869837116",
+    "https://x.com/OpenAI/status/2119913172039868579"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部28頁・検索12回）"
+ }
+}

@@ -1,4 +1,4 @@
-# 旧営業リスト全社 採用・広告・現場研修のサービス×製造業の実績×日本の担い手×再販条件（事実のみ・560社）
+# 旧営業リスト全社 採用・広告・現場研修のサービス×製造業の実績×日本の担い手×再販条件（事実のみ・639社）
 
 ## 365Talents
 - 公式URL：https://www.365talents.com（given）
@@ -1733,6 +1733,71 @@
 - 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）
 - 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）
 
+## Dealcode AI
+- 公式URL：https://www.dealcode.ai（given）
+- 採用・広告の製品：
+  - 「Während andere Postfächer mit generischen KI-Nachrichten überfluten, analysiert dealcode kaufbereite Unternehmen auf Ihrer Website, lässt mittels KI-Agenten vollautomatisch nach Ansprechpartnern suchen und pushed diese direkt in Ihr CRM.」（https://www.dealcode.ai/・1回目）
+  - 「Buchen Sie uns als Team oder einzeln als Experten für Ihr KI-, Technologie- oder Vertriebs-Projekt. Wir übernehmen die strategische Beratung, die Implementierung, die operative Steuerung sowie das Stakeholder-Management.」（https://www.dealcode.ai/・1回目）
+  - 「Erfahrung aus über 1.500 Kunden-Projekten mit Start-ups, Mittelstand und DAX Konzernen」（https://www.dealcode.ai/・1回目）
+  - 「Mit 20 Jahren Know-how aus über 1.500 Kundenprojekten jeder Art von Unternehmensgröße begleiten wir Sie auf jedem Schritt der digitalen Transformation.」（https://www.dealcode.ai/・1回目）
+  - 「Die intelligente Plattform für Sales & Marketing Automation」（https://www.dealcode.ai/・1回目）
+  - 「Interim-Projektleiter für KI-Einführungen (Enterprise-Level)」（https://www.dealcode.ai/・1回目）
+  - 「Enterprise-Ready & DSGVO-konform」（https://www.dealcode.ai/・1回目）
+  - 「dealcode, Alexander und Dennis haben sich in kürzester Zeit als essenzielle Technologiepartner für unser Neugeschäft etabliert. Dank ihrer KI-gestützten Prozesse haben wir bereits im ersten Monat tausende neue Leads identifiziert und einen hocheffizienten Umsatzprozess aufgesetzt.」（https://www.dealcode.ai/・1回目）
+  - 「Marketing & Sales Director」（https://www.dealcode.ai/・1回目）
+  - 「Mit dealcode sowie der strategischen Begleitung durch Alexander und Dennis haben wir die digitale Transformation in unseren Teams erfolgreich umgesetzt. Die intelligenten Automatisierungen liefern uns präzise Daten und sparen wöchentlich wertvolle Arbeitszeit.」（https://www.dealcode.ai/・1回目）
+  - 「Regional Vice President EMEA Central」（https://www.dealcode.ai/・1回目）
+  - 「Mit Alexander und Dennis als visionären KI-Partneren hat dealcode die Zusammenarbeit zwischen Marketing und Vertrieb revolutioniert. Ihre Lösung hat all unsere Erwartungen übertroffen und uns innerhalb kürzester Zeit ein massives Plus an qualifizierten Leads beschert.」（https://www.dealcode.ai/・1回目）
+- 製造業の実績：
+  - 「Pharmaceutical Manufacturing」（https://www.casestudies.com/company/dealcode-ai・3回目）
+  - 「Case Study: Jungmann Systemtechnik GmbH achieves scalable lead generation with dealcode AI | CaseStudies.com」（https://www.casestudies.com/company/dealcode-ai/case-study/establishment-of-a-new-sales-channel-with-dealcode-ai・3回目）
+  - 「Case Study: Jungmann Systemtechnik GmbH achieves scalable lead generation with dealcode AI」（https://www.casestudies.com/company/dealcode-ai/case-study/establishment-of-a-new-sales-channel-with-dealcode-ai・3回目）
+  - 「View this case study…」（https://www.casestudies.com/company/dealcode-ai/case-study/establishment-of-a-new-sales-channel-with-dealcode-ai・3回目）
+  - 「Was it helpful? Rate this case study:」（https://www.casestudies.com/company/dealcode-ai/case-study/establishment-of-a-new-sales-channel-with-dealcode-ai・3回目）
+  - 「Rate This Customer Case Study」（https://www.featuredcustomers.com/vendor/dealcode-ai/case-studies・3回目）
+  - 「Rate This Customer Case Study」（https://www.featuredcustomers.com/vendor/dealcode-ai・3回目）
+- 再販・ホワイトラベル：
+  - 「CoPilot AI Leveraging the power of AI and social selling, CoPilot AI helps sales teams, recruiters, agencies, and more find high-quality leads, engage them at scale, and convert them to …」（https://www.featuredcustomers.com/vendor/dealcode-ai/case-studies・3回目）
+- 規模・親会社：
+  - 「dealcode hat unsere Arbeitsgeschwindigkeit verdoppelt. Alexander und Dennis sind für uns nicht nur Software-Anbieter, sondern echte Sparringspartner, die unsere gesamten internen CRM-Workflows optimiert haben.」（https://www.dealcode.ai/・1回目）
+  - 「apo.com Group scales lead generation and saves 20 employees’ worth of time with dealcode AI」（https://www.casestudies.com/company/dealcode-ai・3回目）
+  - 「dealcode AI implemented its Lead Search Engine to identify thousands of leads and an AI-powered system for personalized 1:1 email outreach. This new sales channel generated over 500 opportunities, increased sales efficiency by 200%, and reportedly generated $50M in revenue from 100,000 contacted leads. Due to this success, JST expanded its use of dealcode AI into Austria to unlock new markets.」（https://www.casestudies.com/company/dealcode-ai/case-study/establishment-of-a-new-sales-channel-with-dealcode-ai・3回目）
+  - 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/dealcode-ai/case-studies・3回目）
+  - 「apo.com Group scales lead generation with dealcode AI and saves 20 employees’ …」（https://www.featuredcustomers.com/vendor/dealcode-ai・3回目）
+  - 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/dealcode-ai・3回目）
+- 連絡先：
+  - 「De-anonymisieren Sie B2B-Unternehmen, die Ihre Website besuchen. dealcode sucht im Hintergrund autonom nach Ihren Wunsch-Entscheidern, ermittelt geschäftliche E-Mail-Adressen und Direktrufnummern und legt sie im CRM an.」（https://www.dealcode.ai/・1回目）
+  - 「E-Mail-Kampagnen & Smart Drafts」（https://www.dealcode.ai/pricing・1回目）
+  - 「E-Mail Support & CSV-Export」（https://www.dealcode.ai/pricing・1回目）
+  - 「Verfassen standardisierter E-Mails」（https://www.dealcode.ai/about・1回目）
+  - 「ELPRO boosts email engagement and lead generation with dealcode AI」（https://www.casestudies.com/company/dealcode-ai・3回目）
+  - 「dealcode AI implemented its Lead Search Engine to identify thousands of leads and an AI-powered system for personalized 1:1 email outreach. This new sales channel generated over 500 opportunities, increased sales efficiency by 200%, and reportedly generated $50M in revenue from 100,000 contacted leads. Due to this success, JST expanded its use of dealcode AI into Austria to unlock new markets.」（https://www.casestudies.com/company/dealcode-ai/case-study/establishment-of-a-new-sales-channel-with-dealcode-ai・3回目）
+  - 「Amplemarket is an AI-powered virtual sales assistant. They take care of everything, from lead generation, email copy, warm up process, until they give you a meeting with a prospect client. …」（https://www.featuredcustomers.com/vendor/dealcode-ai/case-studies・3回目）
+  - 「Contact us today to take control of your profile for」（https://www.featuredcustomers.com/vendor/dealcode-ai/case-studies・3回目）
+  - 「Contact us today for pricing options to add your customer」（https://www.featuredcustomers.com/vendor/dealcode-ai/case-studies・3回目）
+  - 「Contact us today to take control of your profile for」（https://www.featuredcustomers.com/vendor/dealcode-ai・3回目）
+  - 「Contact us today for pricing options to add your customer」（https://www.featuredcustomers.com/vendor/dealcode-ai・3回目）
+- 検索結果の抜粋：
+  - 「dealcode AI レビュー、機能、料金、代替ツール | ToolsDar — dealcode AI は Sales ワークフロー向けの AI ツールです。 機能、料金、利用シーン、代替ツールを比較しながら、導入候補を整理したいユーザーに適しています。 dealcode AI は Sales に関連する作業で検討できます。」（https://toolsdar.io/ja/tools/dealcode-ai・3回目）
+  - 「dealcode AI - Crunchbase Company Profile & Fundingサイバーエージェント、月3万円の“AI手当”で「Claude Code」「Codex」...【2026年最新】日本未上陸・話題の「海外最新AIツール20選」〜用途別... — Overcome labor shortages and increase sales productivity with AI Agents for AI Guided Selling. dealcode AI is a cutting-edge platform designed to redefine B2B sales efficiency worldwide. By leveraging artificial intelligence, dealcode AI uncovers actionable insi」（https://www.crunchbase.com/organization/dealcode-gmbh・3回目）
+  - 「Dealcode 2026 Company Profile: Valuation, Funding & Investors ...デル・テクノロジーズ株式会社 企業情報 | Dell 日本Über uns | dealcode.ai | dealcode.ai総代理店とは？一般的な代理店との違い | 代理店本舗総代理店とは？一手販売権・独占販売契約の仕組みやメリット・デメリ...総代理店とは何か？代理店、販売店との違いと英語契約書の場合 – KATH...your dealcode AI dashboard — Information on valuation, funding, cap tables, investors, and executives for Dealcode. Use the PitchBook Platform to explore the full profile」（https://pitchbook.com/profiles/company/489101-41・3回目）
+  - 「dealcode AI | LinkedIn — dealcode AI | LinkedInのフォロワー数1,490人。Ihr Cloud & KI-Partner für mehr Produktivität im Mittelstand Zertifizierter AI Partner | Partner im KI Bundesverband | dealcode ist Ihr Partner für die ganzheitliche KI-Transformation im Mittelstand. Wir entwickeln autonome KI-Agenten, maßgeschneiderte Software sowie moderne Websites und begleiten Sie bei der Einführung von Google ...」（https://jp.linkedin.com/company/dealcode・3回目）
+  - 「Dealcode AI Guided Selling Software - Gartner — What is Dealcode AI Guided Selling Software? Dealcode AI Guided Selling Software is a sales software that leverages artificial intelligence to analyze sales data and guide sales teams through the sales process. The software provides predictive insights and actionable recommendations to improve sales outcomes by identifying high-priority deals and app」（https://www.gartner.com/reviews/product/dealcode-ai-guided-selling-software・3回目）
+  - 「dealcode AI: Features, Pricing and Alternatives | Partner UP — dealcode AI dealcode AI is a German sales automation platform that identifies B2B companies visiting your website, researches decision makers in the background and adds them with business emails and direct dials to your CRM. AI agents use waterfall enrichment to find contacts and can run multi-channel sequences over email and LinkedIn,」（https://www.partneruphq.com/tools/dealcode-ai・3回目）
+  - 「dealcode AI B2B Case Studies & Customer Successes — This allows sales reps to focus on building relationships, understanding customer needs, and closing deals, multiplying their productivity. With dealcode AI, manufacturing companies build AI sales agents to outperform sales teams of dozens with the power of one.」（https://www.casestudies.com/company/dealcode-ai・3回目）
+  - 「Case Study: Jungmann Systemtechnik GmbH achieves scalable ... — Establishment of a new sales channel with dealcode AI Jungmann Systemtechnik GmbH (JST), a provider of control room solutions, faced a challenge with its lead generation being overly dependent on inbound Google searches. They sought to proactively target new potential customers but lacked the necessary processes after unsuccessful att」（https://www.casestudies.com/company/dealcode-ai/case-study/establishment-of-a-new-sales-channel-with-dealcode-ai・3回目）
+  - 「3 dealcode AI Case Studies, Success Stories, & Customer ... — Narrow down 3 case studies by company size & industry to find out how dealcode AI works for a business like yours.」（https://www.featuredcustomers.com/vendor/dealcode-ai/case-studies・3回目）
+  - 「6 dealcode AI Customer Reviews & References | FeaturedCustomers — Learn more about dealcode AI - use cases, approaches, & end results from real customers; read customer reviews including 6 testimonials, videos, and case studies.」（https://www.featuredcustomers.com/vendor/dealcode-ai・3回目）
+  - 「Dealcode AI Guided Selling Software Reviews & Ratings 2026 ... — Updated 6th December 2023 Dealcode AI is a tool designed to streamline the sales process for organizations across various sectors such as manufacturing, engineering, IT and consulting. Its primary function is to automate the cold calling procedures and construct efficient schedules for sales teams. By leveraging artificial intelligen」（https://www.gartner.com/reviews/product/dealcode-ai-guided-selling-software・3回目）
+  - 「Dealcode 2026 Company Profile: Valuation, Funding & Investors ...Dealcode - 2025 Company Profile, Team, Funding, Competitors ...Dealcode GmbH Revenue 2024: $1.7M Est. ARR, $1.1M Raiseddealcode AI — Company Profile, Funding & Investorsdealcode AI - Crunchbase Company Profile & Fundingdealcode AI: Funding, Team & Investors | Startup IntrosDealcode GmbH: Funding, Investors & Team (Oct 2026) — Dealcod」（https://pitchbook.com/profiles/company/489101-41・3回目）
+- 創業年度：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部30頁・検索12回）
+- 株主：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部30頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部30頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部30頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部30頁・検索12回）
+- 料金：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部30頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部30頁・検索12回）
+
 ## Deel
 - 公式URL：https://www.deel.com（given）
 - 創業年度：設立：2022/02（https://initial.inc/companies/A-YAICA・3回目）
@@ -1830,6 +1895,386 @@
 - 売上高：記載なし（3回確認済み：公式20頁／PDF・画像0件／外部31頁・検索12回）
 - 所在地：記載なし（3回確認済み：公式20頁／PDF・画像0件／外部31頁・検索12回）
 - 料金：記載なし（3回確認済み：公式20頁／PDF・画像0件／外部31頁・検索12回）
+
+## Deepgram
+- 公式URL：https://deepgram.com（given）
+- 株主：$168.9M（https://getlatka.com/companies/deepgram・3回目）
+- 売上高：$100M（https://getlatka.com/companies/deepgram・3回目）
+- 採用・広告の製品：
+  - 「Enterprise voice AI: STT, TTS & agent APIs | Deepgram」（https://deepgram.com/・1回目）
+  - 「years of audio processed」（https://deepgram.com/・1回目）
+  - 「Enterprise-grade reliability」（https://deepgram.com/・1回目）
+  - 「Build a web page that reads one script aloud in five Deepgram Flux TTS voices so I can compare them side by side. Use batch POST /v2/speak.」（https://deepgram.com/・1回目）
+  - 「We've relied on Deepgram's speech recognition to power real-time voice interactions at scale, so the ability to deploy TTS built on the same enterprise runtime is incredibly compelling. Having STT and TTS under one roof eliminates the integration gaps and latency issues that come with piecing together separate tools.」（https://deepgram.com/・1回目）
+  - 「At Cloudflare, we understand what it takes to deliver real-time experiences at global scale. Flux represents the next evolution, purpose-built conversational speech recognition that eliminates the complexity and latency bottlenecks of traditional pipelines.」（https://deepgram.com/・1回目）
+  - 「NiCE supports some of the world's most complex contact center environments, where voice AI quality has to hold up across long, unpredictable customer interactions. Deepgram Flux TTS gives us a text-to-speech model designed for nuance, with the ability to carry context and consistency across a multi-turn conversation.」（https://deepgram.com/・1回目）
+  - 「Pricing built for real ROI」（https://deepgram.com/・1回目）
+  - 「Pre-paid credits for the year, redeemed against actual usage.」（https://deepgram.com/・1回目）
+  - 「Product Marketing Manager」（https://deepgram.com/・1回目）
+  - 「Top voice AI providers compared for 2026」（https://deepgram.com/・1回目）
+  - 「Senior Product Marketing Manager, Customer Marketing」（https://deepgram.com/・1回目）
+- 製造業の実績：
+  - 「Voximplant + Deepgram: Production Ready Voice AI for Real World Calls」（https://deepgram.com/customers・1回目）
+  - 「Case Study: Podsights | Deepgram」（https://deepgram.com/customers/podsights・1回目）
+  - 「Download the case study」（https://deepgram.com/customers/podsights・1回目）
+  - 「Case Study: Sharpen achieves 90%+ accurate, real-time contact center transcription with Deepgram | CaseStudies.com」（https://www.casestudies.com/company/deepgram/case-study/sharpen-elevates-the-contact-center-customer-experience-with-deepgram・3回目）
+  - 「Case Study: Sharpen achieves 90%+ accurate, real-time contact center transcription with Deepgram」（https://www.casestudies.com/company/deepgram/case-study/sharpen-elevates-the-contact-center-customer-experience-with-deepgram・3回目）
+  - 「Open case study document...」（https://www.casestudies.com/company/deepgram/case-study/sharpen-elevates-the-contact-center-customer-experience-with-deepgram・3回目）
+  - 「Was it helpful? Rate this case study:」（https://www.casestudies.com/company/deepgram/case-study/sharpen-elevates-the-contact-center-customer-experience-with-deepgram・3回目）
+  - 「The biggest challenges that have hindered the widespread adoption of voice AI have been processing delays caused by combining multiple technologies and the constraints of systems that cannot understand the 'pauses' in natural conversation. Deepgram has fundamentally solved these complex technical challenges through the method of vertical integration of infrastructure.」（https://note.com/gen_ai/n/n1dfb8f27e153?hl=en・3回目）
+  - 「Analyzes customer voices in real-time to suggest response scripts to operators or automate the creation of post-call summaries.」（https://note.com/gen_ai/n/n1dfb8f27e153?hl=en・3回目）
+  - 「In the "Generative AI Case Study Collection," we provide detailed explanations of successful American generative AI startups under the series title "Winning Horses." We publish articles at a pace of two per week. Each week, one article is free, and the other is a paid article. (This article is a free article.)」（https://note.com/gen_ai/n/n1dfb8f27e153?hl=en・3回目）
+  - 「With the individual membership, you can access the articles only, while the corporate membership provides access to articles, detailed explanatory slides, and a company list (spreadsheet). For more details on the Generative AI Case Study Collection's Winning Horses series, including the differences between the individual and corporate memberships, please click here.」（https://note.com/gen_ai/n/n1dfb8f27e153?hl=en・3回目）
+  - 「The claim of "remembering conversations" is a cliché used by many TTS vendors. What sets Flux TTS apart is that it has disclosed three specific architectural choices made to achieve this without sacrificing real-time speed.」（https://note.com/ai_driven/n/n83ba2ea06e9d?hl=en・3回目）
+- 再販・ホワイトラベル：
+  - 「Partner program | Deepgram」（https://deepgram.com/partners・1回目）
+  - 「Resellers and distributors」（https://deepgram.com/partners・1回目）
+  - 「Bring your portfolio to Deepgram for credits that scale as they build, hands-on technical onboarding, and a graduation path into the full partner program.」（https://deepgram.com/partners・1回目）
+  - 「Defense, federal civilian, intelligence, and state and local agencies. Each deployed the way its mission actually requires.」（https://deepgram.com/solutions/government・1回目）
+  - 「Agencies serving residents directly run high call volume with small teams. Deepgram handles real-time transcription, translation, and call QA for 311, permitting, benefits, and public safety lines, in the cloud, or on-prem where policy requires it.」（https://deepgram.com/solutions/government・1回目）
+  - 「Yes, and that is the path most agencies take. Pilot in GovCloud to prove accuracy on real audio, then deploy the identical models inside your boundary or air-gapped for production. There is no re-integration, because the API surface is the same.」（https://deepgram.com/solutions/government・1回目）
+  - 「“What Podsights does is provide what’s called ‘digital style,’ or pixel-based attribution for the podcast media space. Effectively, what we’re doing is calculating the metrics that brands and agencies can use to create an accurate, apples-to-apples comparison between podcast media and all other forms of advertising.”」（https://deepgram.com/customers/podsights・1回目）
+- 日本の担い手：
+  - 「日本語を含む30以上の言語および方言に対応」（https://yanai-ke.com/deepgram/・3回目）
+  - 「また、日本語特有の「漢字・ひらがな・カタカナ」の混在や、外来語の独特な発音パターンに対しても、音節のリズムを正確に追跡することで、高い変換精度を実現しています」（https://yanai-ke.com/deepgram/・3回目）
+  - 「これは、一つの音声ストリームの中で複数の言語（例えば日本語と英語）が切り替わった場合でも、自動的にそれを検知して正確に文字起こしを継続できる機能です」（https://yanai-ke.com/deepgram/・3回目）
+  - 「40種類以上の高品質な英語ボイスに加え、日本語を含む多言語サポートが拡大されており、ブランドイメージに合わせた適切な声の選択が可能です」（https://yanai-ke.com/deepgram/・3回目）
+  - 「2025年4月のアップデートにより、Aura-2は日本語を正式にサポートしました」（https://yanai-ke.com/deepgram/・3回目）
+  - 「日本語はピッチアクセントや敬語表現、さらには数詞の読み方が文脈によって変化するなど、合成難易度の高い言語です」（https://yanai-ke.com/deepgram/・3回目）
+  - 「Aura-2は、日本語独自の音韻構造に適応しており、漢字・カナ・アルファベットが混在するテキストでもスムーズなフレージングと適切な強弱をつけて発話します」（https://yanai-ke.com/deepgram/・3回目）
+  - 「これらの機能は、現在主に英語でフルサポートされていますが、日本語についても順次展開が進んでおり、大規模なカスタマーセンターでの通話分析や、マーケティング調査の自動化に革命をもたらしています」（https://yanai-ke.com/deepgram/・3回目）
+  - 「特に日本語対応が強化されたことで、日本国内の企業にとっても、グローバル基準の高性能な音声AIを容易に導入できる環境が整いました」（https://yanai-ke.com/deepgram/・3回目）
+  - 「15. Deepgram Learn - Aura-2 Now Speaks Dutch, French, German, Italian, and Japanese,」（https://yanai-ke.com/deepgram/・3回目）
+  - 「https://deepgram.com/learn/aura-2-now-speaks-dutch-french-german-italian-japanese」（https://yanai-ke.com/deepgram/・3回目）
+  - 「【完全ガイド】NotebookLM動画解説を日本語で！アニメ風など8種のスタイルも徹底解説」（https://yanai-ke.com/deepgram/・3回目）
+- 規模・親会社：
+  - 「Build a Python app that streams LLM replies into Deepgram Flux TTS over the /v2/speak WebSocket and plays audio as it arrives. Voice: flux-hannah-en.」（https://deepgram.com/・1回目）
+  - 「NiCE supports some of the world's most complex contact center environments, where voice AI quality has to hold up across long, unpredictable customer interactions. Deepgram Flux TTS gives us a text-to-speech model designed for nuance, with the ability to carry context and consistency across a multi-turn conversation.」（https://deepgram.com/・1回目）
+  - 「From solo builders and seed-stage startups to the Fortune 500, teams building voice AI build with Deepgram.」（https://deepgram.com/customers・1回目）
+  - 「NICE supports some of the world's most complex contact center environments, where voice AI quality has to hold up across long, unpredictable customer interactions. Deepgram Flux TTS gives us a text-to-speech model designed for nuance, with the ability to carry context and consistency across a multi-turn conversation.」（https://deepgram.com/customers・1回目）
+  - 「Revenue Operations Software」（https://deepgram.com/customers・1回目）
+  - 「Telnyx Powers Real-Time Voice AI at Carrier Scale with Deepgram Flux」（https://deepgram.com/customers・1回目）
+  - 「Most text-to-speech reads one line at a time. Deepgram Flux TTS reads the whole conversation, carrying tone and context across turns, handling interruptions cleanly. It responds in as low as 80ms and maintains expressiveness.」（https://deepgram.com/solutions/conversational-ai・1回目）
+  - 「Real-time coaching needs transcripts that arrive while the customer is still talking. Streaming transcription runs under 300ms, fast enough to prompt an agent in the moment. Deepgram Flux STT adds turn detection when your product needs to know the caller actually stopped speaking.」（https://deepgram.com/solutions/speech-analytics・1回目）
+  - 「Some customers can’t let call recordings leave their environment. Run the same models self-hosted, in your VPC, or on-prem, and resell them as part of your platform. Syllable moved to self-hosted and reported error rates and connection resets falling to zero.」（https://deepgram.com/solutions/speech-analytics・1回目）
+  - 「Route all calls through one Deepgram voice layer. Guests get loyalty help, FAQs, and complaint intake. Employees get benefits, onboarding, and policy answers. Franchisees get IT, supply chain, and compliance support. Context-aware routing escalates the calls that need a person.」（https://deepgram.com/solutions/restaurants・1回目）
+  - 「Deepgram Flux TTS starts speaking in as little as 80ms, pronounces hard food words, and carries tone across every turn of the order.」（https://deepgram.com/solutions/restaurants・1回目）
+  - 「It compounds in a number of places: labor hours reclaimed on menial and repeatable tasks, revenue lift from consistent upselling, faster speed of service, faster onboarding, less managerial workload, and better employee retention because the unrewarding work is gone. Every interaction also becomes measurable data instead of a guess.」（https://deepgram.com/solutions/restaurants・1回目）
+- 連絡先：
+  - 「. We'll send an email when a role opens that matches your profile.」（https://deepgram.com/careers・1回目）
+- 検索結果の抜粋：
+  - 「AI音声技術の革命児「Deepgram」完全解説ガイド：爆速・高精度の文字... — Jan 23, 2026 · AI音声プラットフォーム「Deepgram」を初心者向けに完全解説。 最新モデルNova-3による爆速・高精度な文字起こしや、日本語対応の音声合成Aura-2の特徴、OpenAI Whisperとの比較まで、これ一通でDeepgramのすべてがわかります。」（https://yanai-ke.com/deepgram/・3回目）
+  - 「Deepgramとは？料金・日本語対応・APIの使い方【2026年10月版】 — Feb 14, 2025 · Deepgram（ディープグラム）の音声認識APIを2026年10月の公式情報で解説。 Nova-3の料金（録音0.0043ドル/分〜）と200ドル無料クレジットの換算、日本語の指定方法、Python SDK v7とcurlの動くコード、同時接続数・リージョンの制限まで。」（https://www.issoh.co.jp/tech/details/5336/・3回目）
+  - 「音声AIの実用化が加速：Deepgramの大型調達と日本企業への示唆 – グロ... — Jan 14, 2026 · 米国の音声AIプラットフォームであるDeepgramによる今回の大型調達と買収劇は、生成AIのトレンドが「テキスト処理」から、よりリアルタイム性の高い「マルチモーダル（多感覚）処理」へとシフトしていることを象徴しています。」（https://global-ai.jp/20260114-aideepgram/・3回目）
+  - 「【2024年10月最新】Deepgramの日本語対応とAPI活用法を徹底解説 — Oct 22, 2024 · AI Beat（エーアイビート）編集部です。 2025年1月時点の情報をもとに、Deepgramの音声認識プラットフォームについて、その基本機能から日本語対応、APIの活用方法、実際の利用事例に至るまで、幅広く解説します。 読者の皆様は、最新の」（https://ainow.jp/deepgram/・3回目）
+  - 「[導入編]高速・高精度な音声文字起こしが出来るという噂の「Deepgram... — Feb 9, 2024 · 高速・高精度なASR (自動音声認識)サービスを提供するDeepgramというサービスがあると噂を聞いたので試してみました。 Deepgramとは Deepgramは2015年に設立されたアメリカのスタートアップ企業です。」（https://zenn.dev/smartcamp/articles/8b24739ab8cba3・3回目）
+  - 「Enterprise voice AI: STT, TTS & agent APIs | Deepgram — Power enterprise voice solutions with Deepgram’s Speech-to-Text, Text-to-Speech, and Voice Agent APIs. Real-time, accurate, and built for scale.」（https://deepgram.com/・3回目）
+  - 「Japanese speech-to-text API | Fast & accurate transcription ... — Does Deepgram support Japanese speech-to-text? Yes. Deepgram supports automatic speech recognition (ASR) for Japanese audio. You can transcribe real-time or prerecorded audio by setting `language=ja` in your API request.」（https://deepgram.com/product/speech-to-text/japanese・3回目）
+  - 「Deepgramの日本進出可能性・営業としての魅力・企業研究 — Genba — Nov 2, 2026 · Deepgramはreal-time STT、TTS、turn-taking、Voice Agent APIをvoice-native stackで提供し、accuracy、latency、completion、human transfer、call costを改善する。 結論：大規模なdeveloper・customer基盤、Series C、Japan Country Leader採用は進出の強いsignal。 一方、日本法人・常設拠点・named customer・local deliveryは未確認で、求人を正式進出の証明とはせず、採用・lighthouse・専任podを観測する。」（https://genbajapan.com/companies/deepgram・3回目）
+  - 「IBM Japan Newsroom - ニュースリリース — Feb 25, 2026 · 本協業により、Deepgram社はIBM初の音声パートナーとなり、ユーザーが自然な音声でデジタル・エージェントと対話できる高度な音声認識機能などの企業の業務自動化や、対話型AI技術への高まる需要に応える音声AIテクノロジーを提供します。」（https://jp.newsroom.ibm.com/2026-02-25-deepgram-and-ibm-introduce-advanced-voice-capabilities-for-enterprise-ai・3回目）
+  - 「About us | Voice AI | STT & TTS | Deepgram — Deepgram is transforming human-machine interaction with cutting-edge voice AI, including speech-to-text, text-to-speech, and audio intelligence.」（https://deepgram.com/about・3回目）
+  - 「Case Study: Sharpen | Deepgram — Discover how Deepgram's advanced ASR revolutionized transcription quality and speed with deep learning for Sharpen.」（https://deepgram.com/customers/sharpen・3回目）
+  - 「Customer program | Deepgram — From solo builders and seed-stage startups to the Fortune 500, teams building voice AI build with Deepgram. Our voice capabilities powered by Deepgram APIs deliver the accuracy, low latency, and quality our customers need to build reliable, real-time voice agents.」（https://deepgram.com/customers・3回目）
+- 創業年度：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部36頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部36頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部36頁・検索12回）
+- 料金：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部36頁・検索12回）
+
+## Default
+- 公式URL：https://www.default.com（given）
+- 創業年度：Founded：2021（https://prospeo.io/c/default-revenue・3回目）
+- 株主：$10,600,000（https://prospeo.io/c/default-revenue・3回目）
+- 売上高：$30,000（https://prospeo.io/c/default-revenue・3回目）
+- 所在地：12 W 31st St, Fl 4, New York, NY 10001, US（https://prospeo.io/c/default-revenue・3回目）
+- 採用・広告の製品：
+  - 「Revenue or marketing lead」（https://www.default.com/・1回目）
+  - 「Each demo request runs through a waterfall of providers, so routing can use company size and job title.」（https://www.default.com/・1回目）
+  - 「Score every inbound lead against your ideal customer profile (ICP) before a rep sees it.」（https://www.default.com/・1回目）
+  - 「Marketing Operations, People Data Labs」（https://www.default.com/・1回目）
+  - 「Growth Marketing, Profound」（https://www.default.com/・1回目）
+  - 「The marketing engine behind the best teams」（https://www.default.com/・1回目）
+  - 「One platform to manage workflows, enrich records, route leads, and schedule meetings.」（https://www.default.com/・1回目）
+  - 「Run batches of records through pre-built workflows for critical routing cases.」（https://www.default.com/solutions/default-mcp・1回目）
+  - 「Give an agent built on the Vercel AI SDK ready-made tools to route leads and book meetings.」（https://www.default.com/solutions/default-mcp・1回目）
+  - 「Trace what happened to any lead, action by action, in one prompt.」（https://www.default.com/solutions/default-mcp・1回目）
+  - 「Run field-level provider waterfalls from the terminal and cache the results.」（https://www.default.com/solutions/default-mcp・1回目）
+  - 「Trace any value back to the vendor and run that produced it.」（https://www.default.com/solutions/default-mcp・1回目）
+- 製造業の実績：
+  - 「Case Study: US Client, Asia-Based Manufacturer in Default | Sergei Tokmakov, Esq.」（https://terms.law/case-studies/us-asia-supplier-manufacturing-default.html・3回目）
+  - 「This case study is an anonymized writeup of a matter I handled. Names, industries, geographies, dollar amounts, and identifying details have been changed. Past results are not a guarantee, prediction, or warranty of any future outcome. Each matter turns on its own facts and applicable law. Reading this page does not create an attorney-client relationship.」（https://terms.law/case-studies/us-asia-supplier-manufacturing-default.html・3回目）
+  - 「Manufacturing SBA Loan Default: Defense Strategies」（https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies・3回目）
+  - 「Manufacturing Business SBA Loan Default: Industry-Specific Defense Strategies」（https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies・3回目）
+  - 「Navigating SBA Loan Default in the Manufacturing Sector: A Strategic Defense Case Study」（https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies・3回目）
+  - 「Understanding the Manufacturing Sector's Vulnerabilities」（https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies・3回目）
+  - 「The manufacturing industry is inherently capital-intensive, requiring significant investment in equipment, technology, and labor. Market fluctuations, supply chain disruptions, and regulatory changes can quickly impact cash flow, leading to financial instability. When these factors converge, even the most well-managed manufacturing businesses can face」（https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies・3回目）
+  - 「Case Study: Strategic Defense for a Manufacturing Business in Default」（https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies・3回目）
+  - 「Consider a mid-sized manufacturing company specializing in automotive parts. Despite a strong market position, the company faced a perfect storm of challenges: a sudden drop in demand due to economic downturn, increased tariffs affecting raw material costs, and a costly regulatory breach. These factors led to an」（https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies・3回目）
+  - 「Through this case study, several key lessons and best practices emerged for manufacturing businesses facing SBA loan default:」（https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies・3回目）
+  - 「Moving Forward: Strategic Resilience in Manufacturing」（https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies・3回目）
+  - 「For manufacturing businesses, navigating the complexities of an SBA loan default requires a strategic and multifaceted approach. By learning from industry-specific challenges and implementing tailored defense strategies, businesses can not only survive financial distress but also emerge stronger and more resilient.」（https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies・3回目）
+- 再販・ホワイトラベル：
+  - 「A scheduler with your branding opens the assigned rep's calendar within seconds.」（https://www.default.com/・1回目）
+  - 「A scheduler with your branding opens the assigned rep's calendar within seconds.」（https://www.default.com/solutions/inbound-marketing-automation-software・1回目）
+  - 「and bankruptcy can provide critical insights and guidance. Their expertise in negotiating with federal agencies and creditors is invaluable in crafting effective defense strategies.」（https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies・3回目）
+- 日本の担い手：
+  - 「default(デフォルト)の意味(日本語)とは？語源・動詞や経済の使い方と例文」（https://eigo.plus/englishphrase/default・3回目）
+  - 「そして今では、すっかり日本語として定着したカタカナ語です」（https://eigo.plus/englishphrase/default・3回目）
+  - 「という英語を日本語化した、いわゆるカタカナ語です」（https://eigo.plus/englishphrase/default・3回目）
+  - 「日本では、茂木健一郎さんの著書、脳を鍛える茂木式マインドフルネス(世界文化社)で紹介され注目を集めた言葉」（https://eigo.plus/englishphrase/default・3回目）
+  - 「は、日本では日常会話で、②の」（https://eigo.plus/englishphrase/default・3回目）
+  - 「default(デフォルト)の意味(日本語)とは？語源・動詞や経済の使い方と例文まとめ」（https://eigo.plus/englishphrase/default・3回目）
+  - 「今回紹介した意味と使い方をしっかりとおさえれば、英語でも日本語でも」（https://eigo.plus/englishphrase/default・3回目）
+  - 「Default Studies | Japan Credit Rating Agency, Ltd. - JCR」（https://www.jcr.co.jp/en/rrinfo/default/・3回目）
+  - 「Japanese Corporate Default Rates and Rating Transition Matrices」（https://www.r-i.co.jp/en/rating/data/defaults.html・3回目）
+  - 「<Report>Japanese Corporate Default Rates and Rating Transition Matrices (FY1978-2025)」（https://www.r-i.co.jp/en/rating/data/defaults.html・3回目）
+  - 「<Data Tables>Japanese Corporate Default Rates and Rating Transition Matrices (FY1978-2025)」（https://www.r-i.co.jp/en/rating/data/defaults.html・3回目）
+  - 「<Report>Japanese Corporate Default Rates and Rating Transition Matrices (FY1978-2024)」（https://www.r-i.co.jp/en/rating/data/defaults.html・3回目）
+- 規模・親会社：
+  - 「500–1,000 employees」（https://www.default.com/・1回目）
+  - 「Revenue or marketing lead」（https://www.default.com/・1回目）
+  - 「It’s night and day compared to before. Thanks to Default, our revenue system just works, and the team trusts it.」（https://www.default.com/・1回目）
+  - 「500–1,000 employees」（https://www.default.com/solutions/inbound-marketing-automation-software・1回目）
+  - 「Revenue or marketing lead」（https://www.default.com/solutions/inbound-marketing-automation-software・1回目）
+  - 「Software, 500–1,000 employees」（https://www.default.com/solutions/data-enrichment-software・1回目）
+  - 「500–1,000 employees」（https://www.default.com/solutions/revenue-operations-software・1回目）
+  - 「Owned by the rep the NA Mid-Market queue picked」（https://www.default.com/solutions/revenue-operations-software・1回目）
+  - 「How People Data Labs used Default to architect a reliable revenue engine」（https://www.default.com/case-study・1回目）
+  - 「How Bland used Default to unify inbound, PLG, and outbound into one controlled revenue foundation」（https://www.default.com/case-study・1回目）
+  - 「How FERMÀT used Default to replace fragmented tools with a connected revenue foundation」（https://www.default.com/case-study・1回目）
+  - 「The world’s first warm outbound platform to scale your revenue team's creativity.」（https://www.default.com/case-study・1回目）
+- 連絡先：
+  - 「Email sequencing & Slack」（https://www.default.com/solutions/revenue-operations-software・1回目）
+  - 「Tie each visitor to their Salesforce account by email domain, with its owner and industry.」（https://www.default.com/solutions/outbound-sales-automation-software・1回目）
+  - 「Match the lead on the page to its Salesforce record by email.」（https://www.default.com/solutions/sdr-to-ae-handoff・1回目）
+  - 「The Chrome extension detects the lead in Gmail, on Salesforce Lead and Contact pages, and on HubSpot contacts. On any other tab, the SDR types the lead's email.」（https://www.default.com/solutions/sdr-to-ae-handoff・1回目）
+  - 「Only an email and a company so far」（https://www.default.com/solutions/crm-hygiene-software・1回目）
+  - 「Match each new lead to the Salesforce account that shares its email domain.」（https://www.default.com/solutions/crm-hygiene-software・1回目）
+  - 「The workflow starts when a visitor submits your HubSpot form with only an email.」（https://www.default.com/solutions/hubspot-data-enrichment・1回目）
+  - 「The form asks only for an email, and Default finds the HubSpot contact from it even when every other property is empty.」（https://www.default.com/solutions/hubspot-data-enrichment・1回目）
+  - 「Found by email, other properties empty」（https://www.default.com/solutions/hubspot-data-enrichment・1回目）
+  - 「The Pixel reads your embedded HubSpot form and sends the email as soon as the visitor leaves the field.」（https://www.default.com/solutions/hubspot-data-enrichment・1回目）
+  - 「Default enriches from a waterfall of Clearbit, Apollo, People Data Labs, and Wiza when the visitor leaves the email field, and the same workflow routes and books the meeting on the results. Breeze Intelligence, now called data enrichment in HubSpot's help pages, fills contact and company properties inside HubSpot.」（https://www.default.com/solutions/hubspot-data-enrichment・1回目）
+  - 「Yes, with Default: when a visitor leaves the email field on a HubSpot form embedded on your site, Default runs your primary waterfall before they submit. After submit, the workflow reads the waiting results to route the lead and write HubSpot properties.」（https://www.default.com/solutions/hubspot-data-enrichment・1回目）
+- 検索結果の抜粋：
+  - 「default (デフォルト)の意味 (日本語)とは？語源・動詞や経済の使い方...米国におけるデフォルト商品の進化と日本への示唆デフォルト率・格付推移行列｜信用格付関連 ｜格付投資情報センター日本企業のデフォルト率・格付推移行列 1978年度～2025年度）「デフォルト」の意味とは？ビジネスシーンでの使い方と類義語・言い...政府が推奨する「クラウド・バイ・デフォルト原則」とは？ | 株式会社... — 冒頭で記したように、デフォルトという言葉は、defaultという英語を日本語化した、いわゆるカタカナ語です。そうであれば既に使っているあの意味だから簡単だ！と思いがちですが、実はdefaultには、4つも意味があるのです。 なお、defaultは名詞も動詞も同じくdefaultです。よって、過去形の場合はdefaultedとなり、三人称単数の場合はdefaultsとなります。 それでは、」（https://eigo.plus/englishphrase/default・3回目）
+  - 「Default Studies | Japan Credit Rating Agency, Ltd. - JCR — Rating Matrices and Cumulative Default Rates (Correction)」（https://www.jcr.co.jp/en/rrinfo/default/・3回目）
+  - 「Default Rates and Rating Transition Matrices｜Credit Rating ... — [Jun. 28, 2013] Japanese Corporate Default Rates and Rating Transition Matrices (FY1978-2012) [Jul. 12, 2012] The Relationship between Credit Ratings and Default」（https://www.r-i.co.jp/en/rating/data/defaults.html・3回目）
+  - 「Default, Transition, and Recovery: 2025 Annual Japanese ... — Mar 24, 2026 · In 2025, there were no defaults among Japanese issuers rated by S&P Global Ratings, marking the 10th consecutive year with no defaults. This study involves 508 Japanese entities that have, or previously had, S&P Global Ratings long-term issuer credit ratings.」（https://www.spglobal.com/ratings/en/regulatory/article/-/view/sourceId/101666139・3回目）
+  - 「JCR Rating Transition Matrices and Cumulative Default Rates — JCR traces default of issuers, for which ratings have been terminated owing to withdrawals requested by the issuer or other reasons, and reflects the results in calculation of CDRs.」（https://www.jcr.co.jp/en/pdf/dm31/20240325Default_Studies_en.pdf・3回目）
+  - 「Case Study: US Client, Asia-Based Manufacturer in Default ... — Anonymized case study: a US client whose Asia-based manufacturer missed delivery and refused to refund a six-figure deposit. What I did and what a similar client should know.」（https://terms.law/case-studies/us-asia-supplier-manufacturing-default.html・3回目）
+  - 「Manufacturing SBA Loan Default: Defense Strategies — This case study explores industry-specific defense strategies for manufacturing businesses facing SBA loan default, offering actionable insights for business owners in similar predicaments.」（https://sba-attorneys.com/sba-articles/manufacturing-business-sba-loan-default-industry-specific-defense-strategies・3回目）
+  - 「Default Revenue, Funding & Valuation - prospeo.ioDefault - 2026 Company Profile, Team, Funding & Competitors ...Default company profile: firmographics, business model ...Default — investors & funding | gritt.ioDefault 2026 Company Profile: Valuation, Funding & Investors ...Default - Overview, News & Similar companies | ZoomInfo.comDefault: Funding, Investors & Team (Sep 2026) | FundedIQ — Default 」（https://prospeo.io/c/default-revenue・3回目）
+  - 「Default - 2026 Company Profile, Team, Funding & Competitors ...Default company profile: firmographics, business model ...Default — investors & funding | gritt.ioDefault 2026 Company Profile: Valuation, Funding & Investors ...Default - Overview, News & Similar companies | ZoomInfo.comDefault: Funding, Investors & Team (Sep 2026) | FundedIQ — Mar 8, 2026 · Default is a seed company based in San Fran」（https://tracxn.com/d/companies/default/__E9_YejbVHAwZijFJqUaC3KLajMu4uaWazgVt0rCHsgI・3回目）
+  - 「Default company profile: firmographics, business model ... — Default has raised approximately $20 million in total funding across disclosed seed and subsequent rounds, with 8VC as a repeat lead investor and Craft Ventures having led the initial seed. The company was founded around 2023, launched publicly in late 2024, and released Default 2.0 in December 2025 alongside additional funding. Short ..」（https://akta.pro/company-profiles/0000efr/default・3回目）
+  - 「Default — investors & funding | gritt.io — Default is a revenue-grade workflow engine that unifies your fragmented tech stack into one, so you can see your entire go-to-market machine, understand how it all connects, and scale without breaking things.」（https://www.gritt.io/company/withdefault/・3回目）
+  - 「Default 2026 Company Profile: Valuation, Funding & Investors ...Default - Overview, News & Similar companies | ZoomInfo.comDefault: Funding, Investors & Team (Sep 2026) | FundedIQ — Information on valuation, funding, cap tables, investors, and executives for Default. Use the PitchBook Platform to explore the full profile. Default, a San Francisco, CA-based provider of a platform for inbound sales,」（https://pitchbook.com/profiles/company/490993-30・3回目）
+- 従業員数：記載なし（3回確認済み：公式17頁／PDF・画像4件／外部40頁・検索12回）
+- 料金：記載なし（3回確認済み：公式17頁／PDF・画像4件／外部40頁・検索12回）
+
+## Deskimo
+- 公式URL：https://www.deskimo.com（given）
+- 採用・広告の製品：
+  - 「Flexible Private Office」（https://www.deskimo.com/・1回目）
+  - 「Professional Workspaces」（https://www.deskimo.com/・1回目）
+  - 「Smooth process to work from anywhere」（https://www.deskimo.com/・1回目）
+  - 「Boost your productivity with the perfect work setting.」（https://www.deskimo.com/・1回目）
+  - 「Join thousands of companies in the work-from-anywhere future. Increase productivity and employee retention by giving your employees the flexibility to work from hundreds of workspaces in Singapore, Hong Kong, Indonesia, Malaysia and the UAE.」（https://www.deskimo.com/・1回目）
+  - 「#3 Product of the Day」（https://www.deskimo.com/・1回目）
+  - 「On its day of release, Deskimo was listed as the #3 product on Product Hunt.」（https://www.deskimo.com/・1回目）
+  - 「Deskimo is a flexible workspace booking platform that allows businesses and individuals to find and book workspaces on-demand. Deskimo provides access to a variety of spaces, including coworking spaces, private offices, meeting rooms, and event spaces, with flexible booking options and transparent pricing.」（https://www.deskimo.com/・1回目）
+  - 「Flexible Private Office」（https://www.deskimo.com/partners・1回目）
+  - 「Professional Workspaces」（https://www.deskimo.com/partners・1回目）
+  - 「Underheard replaces feedback forms with AI voice interviews」（https://www.deskimo.com/partners・1回目）
+  - 「50% discount on DeskIn for first month on monthly plans, 20% discount on DeskIn annual plans – *Use promo code DESKIMO at checkout」（https://www.deskimo.com/partners・1回目）
+- 製造業の実績：
+  - 「Trusted by 15,000+ clients globally, Sleek helps take care of the admin so you can focus on growing your brand. Everything’s handled online, efficiently and seamlessly. (No more paperwork headache!)」（https://www.deskimo.com/partners・1回目）
+  - 「2. Install the DeskIn desktop client on macOS. Log in using the same DeskIn account used by your mobile device. Treat your Windows virtual machine running VALORANT as the controlled host machine and keep DeskIn online. You may now remotely view all store content from your phone.」（https://deskin.io/ja/resource/blog/ultimate-remote-work-setup-deskimo-meets-deskin・3回目）
+- 再販・ホワイトラベル：
+  - 「Sleek is a trusted digital corporate services provider helping entrepreneurs and SMEs with everything from incorporation to visas in Singapore, Hong Kong, Australia and the UK – all done online, so you can focus on building your brand.」（https://www.deskimo.com/partners・1回目）
+  - 「Trusted by 15,000+ clients globally, Sleek helps take care of the admin so you can focus on growing your brand. Everything’s handled online, efficiently and seamlessly. (No more paperwork headache!)」（https://www.deskimo.com/partners・1回目）
+  - 「After sifting through 15 agencies in Southeast Asia, Raphael and Christian decided to go with Abstract to build the Deskimo MVP: an on-demand, multi-touchpoint experience that will make booking a desk easy.」（https://www.abstract.ph/case-study/deskimo・3回目）
+- 日本の担い手：
+  - 「Japan (+81)」（https://www.deskimo.com/monetize-your-office・1回目）
+  - 「東京や大阪でリモートワークをしている方なら、一度はこの「移動のたびにオフィスを背負う」感覚を経験したことがあるはずです」（https://deskin.io/ja/resource/blog/ultimate-remote-work-setup-deskimo-meets-deskin・3回目）
+  - 「東京・大阪を中心に、」（https://deskin.io/ja/resource/blog/ultimate-remote-work-setup-deskimo-meets-deskin・3回目）
+  - 「東京・大阪の主要エリアで専用個室を持つとなると、月額数万円〜数十万円規模のコストになります」（https://deskin.io/ja/resource/blog/ultimate-remote-work-setup-deskimo-meets-deskin・3回目）
+  - 「Deskimoで東京・大阪の好きな場所に仕事の場を確保し、DeskInで自宅のマシンのフルパワーをどこからでも引き出す」（https://deskin.io/ja/resource/blog/ultimate-remote-work-setup-deskimo-meets-deskin・3回目）
+- 規模・親会社：
+  - 「Join thousands of companies in the work-from-anywhere future. Increase productivity and employee retention by giving your employees the flexibility to work from hundreds of workspaces in Singapore, Hong Kong, Indonesia, Malaysia and the UAE.」（https://www.deskimo.com/・1回目）
+  - 「On its day of release, Deskimo was listed as the #3 product on Product Hunt.」（https://www.deskimo.com/・1回目）
+  - 「Part of being able to focus is that the the noise level is minimal. Equally, dedicated areas for calls are recommendable (e.g. Zoom rooms)」（https://www.deskimo.com/monetize-your-office・1回目）
+  - 「As hybrid work becomes more prevalent, you may have under-utilized office space that adds to ongoing rental costs. Deskimo offers a hassle-free and risk-free solution to help generate additional revenue and offset your fixed rental expenses.」（https://www.deskimo.com/monetize-your-office・1回目）
+  - 「Even if your rental contract prohibits subletting, you can still list your office on Deskimo. Our arrangement does not require you to sublet your space – instead, users will share your office during the day and only pay for the time they use it. It is similar to inviting guests to use your office.」（https://www.deskimo.com/monetize-your-office・1回目）
+  - 「Start making some extra revenue now」（https://www.deskimo.com/monetize-your-office・1回目）
+  - 「On its day of release, Deskimo was listed as the #3 product on Product Hunt.」（https://www.deskimo.com/about-us・1回目）
+  - 「VALORANT features four independent item and skin acquisition systems, each with separate rules, reward pools, and refresh mechanics that do not interfere with one another: Limited‑time Night Market, permanent Daily Shop, Seasonal Battle Pass, and Kingdom Store.」（https://deskin.io/ja/resource/blog/ultimate-remote-work-setup-deskimo-meets-deskin・3回目）
+  - 「A: Pure video streaming does not modify game files. Store‑only browsing carries no risk. Remote competitive gameplay is not recommended by the official stance.」（https://deskin.io/ja/resource/blog/ultimate-remote-work-setup-deskimo-meets-deskin・3回目）
+  - 「as of 2026-08-19. This page is part of the」（https://www.getcroissant.com/resources/workspace-index/platforms/deskimo・3回目）
+  - 「Listed conference rooms」（https://www.getcroissant.com/resources/workspace-index/platforms/deskimo・3回目）
+  - 「Listed private offices」（https://www.getcroissant.com/resources/workspace-index/platforms/deskimo・3回目）
+- 検索結果の抜粋：
+  - 「荷物ゼロで、どこでもフルスペックの仕事を。Deskimo × DeskIn が変え... — Apr 24, 2026 · Deskimo（コワーキングスペース）とDeskIn（リモートデスクトップ）を組み合わせれば、重いPCを持ち歩かずに東京・大阪どこでもフルスペックの仕事環境が手に入ります。フリーランス・ハイブリッドワーカー必見。」（https://deskin.io/ja/resource/blog/ultimate-remote-work-setup-deskimo-meets-deskin・3回目）
+  - 「#deskimo #softlaunch #japan #flexibleworkspaces # ... - LinkedIn — 🚀 Exciting news! Deskimo has officially soft-launched in Japan! 🎉 We're bringing flexible, on-demand workspaces to key locations across the country, perfect for remote workers, freelancers ...」（https://www.linkedin.com/posts/deskimoapp_deskimo-softlaunch-japan-activity-7229006553675153410-twYy・3回目）
+  - 「Deskimo vs. Spaces：究極のワークスペース対決 - Deskimo — Deskimo Spaces：指先で操作できる柔軟性 Deskimoは、リージョナルの主要ビジネス地区に点在するワークスペースへのオンデマンドアクセスをプロフェッショナルに提供することに重点を置いたプラットフォームを提供しています。」（https://www.deskimo.com/ja/blog/deskimo-vs-spaces-workspace-showdown・3回目）
+  - 「1分単位で課金できるワークスペース、Deskimoを使ってみた — May 8, 2026 · また、一般的なコワーキングスペースの中には1時間単位やパッケージ料金のところも多いですが、Deskimoは“ 使った分だけ ”というのも、かなり使いやすいポイントでした。 チェックイン・チェックアウトの流れ 使い方はとてもシンプルで、」（https://note.com/nana_sglife/n/n9a68aba0d8af・3回目）
+  - 「Deskimo vs Bisdesk：ワークスペースの勝者はどっちだ！ - Deskimo — DeskimoとBisdeskプラットフォームの概要 Deskimoとは何ですか？ Deskimoは、ユーザーを柔軟な従量制のコワーキングスペース、カフェ、ビジネスラウンジの広大なネットワークに繋ぐワークスペースプラットフォームです。」（https://www.deskimo.com/ja/blog/Deskimo-vs.-Bisdesk-ワークスペースの勝者・3回目）
+  - 「Deskimo (YC S21) - LinkedIn — Deskimo (YC S21) | 3,421 followers on LinkedIn. Transforming the way you work - Deskimo, your all-in-one workspace solution. | Deskimo is the leading provider of hybrid work solutions in Singapore ...」（https://www.linkedin.com/company/deskimoapp・3回目）
+  - 「#deskimo #softlaunch #japan #flexibleworkspaces #remotework # ... — 🚀 Exciting news! Deskimo has officially soft-launched in Japan! 🎉 We're bringing flexible, on-demand workspaces to key locations across the country, perfect for remote workers, freelancers ...」（https://www.linkedin.com/posts/deskimoapp_deskimo-softlaunch-japan-activity-7229006553675153410-twYy・3回目）
+  - 「Deskimo Locations and Coverage (2026) | Croissant — Aug 19, 2026 · Deskimo lists 290 locations as of 2026-08-19. This page is part of the Croissant Workspace Index, an ongoing count of on-demand workspace inventory across 14 platforms, tracked under one methodology so the numbers can be compared. What Deskimo is Deskimo is a pay-per-minute workspace app, strongest in Asia-Pacific markets, that let」（https://www.getcroissant.com/resources/workspace-index/platforms/deskimo・3回目）
+  - 「Deskimo - ThisWeekInCoworking.com — Deskimo is corporate coworking app that provides hybrid work solutions in Singapore, Indonesia, Malaysia, Hong Kong, Japan, and the UAE.」（https://thisweekincoworking.com/brand/deskimo/・3回目）
+  - 「case studies Archives - Deskimo — How Caterspot Leverages Flexible Workspaces With Deskimo How Caterspot Leverages Flexible Workspaces With Deskimo The pandemic has sobered many business professionals to the long-term advantages of remote work systems. Not only does August 4, 2021 case studies」（https://www.deskimo.com/blog/tag/case-studies/・3回目）
+  - 「Deskimo case study | Cedric - LinkedIn — Deskimo runs 600+ workspaces in 12+ countries. Their team handles every lead with Cedric, right in Slack. "I was impressed to see our team using it spontaneously." Christian Mischler, co-founder ...」（https://www.linkedin.com/posts/meet-cedric_deskimo-case-study-activity-7512906433948995584-qkGj・3回目）
+  - 「Deskimo | Hybridizing the work-from-anywhere ethos — Precise design solutions for all stages of the user journey By understanding the different journeys and putting our prototype in front of users, we were able to identify an ideal book-a-desk-from-anywhere experience. The result was an MVP that eliminated customer friction, setting the stage for a digital product that will do the heavy lifting fo」（https://www.abstract.ph/case-study/deskimo・3回目）
+- 創業年度：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索12回）
+- 株主：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索12回）
+- 料金：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索12回）
+- 連絡先：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索12回）
+
+## DialerBee
+- 公式URL：https://dialerbee.com/（given）
+- 連絡先：Calls answered by a person, divided by calls dialled Call Outcomes in Insights; Campaign Summary report（https://dialerbee.com/solutions/collections/・1回目）
+- 採用・広告の製品：
+  - 「AI Contact Center Software & Predictive Dialer | DialerBee」（https://dialerbee.com/・1回目）
+  - 「One workspace for every conversation — inbound queue calls, outbound campaigns and messaging threads.」（https://dialerbee.com/・1回目）
+  - 「Connect the SIP trunks you already have from any provider, with no carrier lock-in and no per-minute platform fees.」（https://dialerbee.com/・1回目）
+  - 「Layla takes and places calls, and Agent Studio is where you build it. When a person takes the call, the same AI summarises, reads sentiment and suggests the reply.」（https://dialerbee.com/・1回目）
+  - 「Preview, progressive, power and predictive dialing」（https://dialerbee.com/・1回目）
+  - 「Unified voice, WhatsApp, SMS and email threads」（https://dialerbee.com/・1回目）
+  - 「Preview, progressive, power and predictive」（https://dialerbee.com/・1回目）
+  - 「log. These are compliance-supporting controls: they support your compliance programme, they do not replace it.」（https://dialerbee.com/・1回目）
+  - 「Yes. DialerBee supports BYOC: connect the SIP trunks you already have from any provider, or keep the phone system you already run and use DialerBee as the routing, campaign and compliance layer on top. No carrier lock-in and no per-minute platform fees.」（https://dialerbee.com/・1回目）
+  - 「How does pricing work?」（https://dialerbee.com/・1回目）
+  - 「Per-agent platform pricing across three tiers plus a reseller tier, with no per-minute platform fees — you bring your own carrier and pay the carrier directly. AI voice agent minutes are billed on usage. The free trial needs no credit card. Current tiers and feature rows are on the pricing page.」（https://dialerbee.com/・1回目）
+  - 「Call center software pricing」（https://dialerbee.com/・1回目）
+- 製造業の実績：
+  - 「Telecom Operators & SIP Providers」（https://dialerbee.com/partners/・1回目）
+  - 「The industries page lists banking, insurance, telecom operators, BPOs, collections, sales teams, customer service, healthcare, education, automotive, travel, e-commerce, logistics, hospitality, recruitment, legal services, home services, financial services, nonprofits, market research and solar, among others.」（https://dialerbee.com/industries/・1回目）
+  - 「For Telecom Operators」（https://dialerbee.com/industries/telecom-operator-dialer/・1回目）
+  - 「Telecom Operators and Mobile Carriers」（https://dialerbee.com/industries/telecom-operator-dialer/・1回目）
+  - 「Why telecom operators should not be」（https://dialerbee.com/industries/telecom-operator-dialer/・1回目）
+  - 「challenges for telecom operators」（https://dialerbee.com/industries/telecom-operator-dialer/・1回目）
+  - 「Operators with presence in multiple markets need jurisdiction-aware calling rules and local compliance.」（https://dialerbee.com/industries/telecom-operator-dialer/・1回目）
+  - 「Operators running subscriber retention and upgrade campaigns」（https://dialerbee.com/industries/telecom-operator-dialer/・1回目）
+  - 「Multi-market operators needing per-jurisdiction compliance」（https://dialerbee.com/industries/telecom-operator-dialer/・1回目）
+  - 「How does BYOC help telecom operators specifically?」（https://dialerbee.com/industries/telecom-operator-dialer/・1回目）
+  - 「DialerBee supports predictive, progressive, power, and preview dialing modes. Telecom operators can choose the mode that best fits each campaign type and compliance requirement.」（https://dialerbee.com/industries/telecom-operator-dialer/・1回目）
+  - 「Automotive Dialer Software for Dealership BDCs」（https://dialerbee.com/industries/telecom-operator-dialer/・1回目）
+- 再販・ホワイトラベル：
+  - 「DialerBee runs inbound and outbound calls for BPOs, collections teams, telecom resellers and regulated contact centers, with AI voice agents that have run on live calls in Arabic and English, answering-machine detection in 11 languages and compliance-supporting controls for Gulf calling rules. It works worldwide, on your own SIP trunks from any carrier.」（https://dialerbee.com/・1回目）
+  - 「15 report types, Insights, an operations center, white-label on your own domain, multi-tenant isolation and BYOC carriers.」（https://dialerbee.com/・1回目）
+  - 「Resellers run the same platform as their own: branding on a custom domain, tenants isolated from each other, your carriers, and role permissions set per tenant.」（https://dialerbee.com/・1回目）
+  - 「White-label branding on your own custom domain」（https://dialerbee.com/・1回目）
+  - 「Is DialerBee multi-tenant and white-label?」（https://dialerbee.com/・1回目）
+  - 「Yes. Tenants are isolated at the row level, each with their own users, recordings, compliance rules and reporting. White-label covers the branding fields, contrast validation and a custom domain with DNS verification, and partner admins own the tenants they create. Role permissions are set per tenant.」（https://dialerbee.com/・1回目）
+  - 「Per-agent platform pricing across three tiers plus a reseller tier, with no per-minute platform fees — you bring your own carrier and pay the carrier directly. AI voice agent minutes are billed on usage. The free trial needs no credit card. Current tiers and feature rows are on the pricing page.」（https://dialerbee.com/・1回目）
+  - 「For telecom resellers」（https://dialerbee.com/・1回目）
+  - 「Telecom and SIP Providers: White-Label | DialerBee」（https://dialerbee.com/solutions/telecom/・1回目）
+  - 「Telecom and SIP providers: turn your SIP base into white-label revenue」（https://dialerbee.com/solutions/telecom/・1回目）
+  - 「Monetize your carrier infrastructure with a production-grade AI contact center platform. Your brand, your trunks, our engine. Turn per-minute voice revenue into recurring SaaS fees.」（https://dialerbee.com/solutions/telecom/・1回目）
+  - 「Estimate your monthly margin at different agent scales. Based on $129/agent Professional plan with 30% reseller margin.」（https://dialerbee.com/solutions/telecom/・1回目）
+- 規模・親会社：
+  - 「DialerBee runs inbound and outbound calls for BPOs, collections teams, telecom resellers and regulated contact centers, with AI voice agents that have run on live calls in Arabic and English, answering-machine detection in 11 languages and compliance-supporting controls for Gulf calling rules. It works worldwide, on your own SIP trunks from any carrier.」（https://dialerbee.com/・1回目）
+  - 「Bring your own carrier」（https://dialerbee.com/・1回目）
+  - 「Connect the SIP trunks you already have from any provider, with no carrier lock-in and no per-minute platform fees.」（https://dialerbee.com/・1回目）
+  - 「Calling outside the Gulf? DialerBee works worldwide, on your own SIP trunks from any carrier.」（https://dialerbee.com/・1回目）
+  - 「15 report types, Insights, an operations center, white-label on your own domain, multi-tenant isolation and BYOC carriers.」（https://dialerbee.com/・1回目）
+  - 「When a person takes the call instead, the same AI works beside them — a running summary, sentiment, a suggested reply and live transcription. The AI Executive Secretary carries the follow-through afterwards.」（https://dialerbee.com/・1回目）
+  - 「Appointments are part of the same platform, so the booking, the reminder and the call that follows share one record.」（https://dialerbee.com/・1回目）
+  - 「Resellers run the same platform as their own: branding on a custom domain, tenants isolated from each other, your carriers, and role permissions set per tenant.」（https://dialerbee.com/・1回目）
+  - 「Multi-tenant isolation, BYOC carriers and per-tenant RBAC」（https://dialerbee.com/・1回目）
+  - 「Jurisdiction packs carry the rules that apply where you dial, and every dial decision is written to the audit」（https://dialerbee.com/・1回目）
+  - 「DialerBee is the multilingual AI contact center platform. It runs inbound queues and outbound campaigns, an omnichannel inbox for voice, WhatsApp, SMS and email, AI voice agents and live agent assist, CSAT and NPS surveys, appointments and reminders, and reporting — in one browser workspace, in 11 languages, on your own carriers.」（https://dialerbee.com/・1回目）
+  - 「Voice, WhatsApp, SMS and email, kept as one thread per customer with Customer 360 history and screen-pop on answer. Surveys can also be answered on the web. Inbound email arrives in the same inbox once a company connects its own mailbox, and email notifications are sent per tenant.」（https://dialerbee.com/・1回目）
+- 連絡先：
+  - 「Voice, WhatsApp, SMS and email as one thread per customer, with Customer 360 history and screen-pop on answer.」（https://dialerbee.com/・1回目）
+  - 「One inbox for voice, WhatsApp, SMS and email」（https://dialerbee.com/・1回目）
+  - 「A customer who calls on Monday, messages on WhatsApp on Tuesday and emails on Wednesday is one conversation, not three tickets. Agents work every channel from the same desktop.」（https://dialerbee.com/・1回目）
+  - 「Unified voice, WhatsApp, SMS and email threads」（https://dialerbee.com/・1回目）
+  - 「Inbound email into the inbox, from each company's own mailbox」（https://dialerbee.com/・1回目）
+  - 「Appointments with reminders over SMS, WhatsApp and email」（https://dialerbee.com/・1回目）
+  - 「DialerBee is the multilingual AI contact center platform. It runs inbound queues and outbound campaigns, an omnichannel inbox for voice, WhatsApp, SMS and email, AI voice agents and live agent assist, CSAT and NPS surveys, appointments and reminders, and reporting — in one browser workspace, in 11 languages, on your own carriers.」（https://dialerbee.com/・1回目）
+  - 「Voice, WhatsApp, SMS and email, kept as one thread per customer with Customer 360 history and screen-pop on answer. Surveys can also be answered on the web. Inbound email arrives in the same inbox once a company connects its own mailbox, and email notifications are sent per tenant.」（https://dialerbee.com/・1回目）
+  - 「Custom domain, login page, and branding. Your customers never see DialerBee. Full CSS theming, custom logo, favicon, and email templates.」（https://dialerbee.com/solutions/telecom/・1回目）
+  - 「Yes. DialerBee's language-aware AI AMD is tuned for Gulf, Levantine, Egyptian, and Maghreb Arabic dialects. This matters because voicemail greetings in Emirati Arabic sound nothing like Egyptian Arabic, and generic Arabic models miss the differences.」（https://dialerbee.com/solutions/mena/・1回目）
+  - 「CRM consultants and system integrators are also finding that outbound voice is the missing piece in their clients' technology stacks. Email and chat automation are mature, but」（https://dialerbee.com/partners/・1回目）
+  - 「White-label partners run the platform at their own domain (e.g., dialer.yourbrand.com) with custom logo, color scheme, login page, and email templates. Your customers never see DialerBee branding. Full CSS theming is supported.」（https://dialerbee.com/partners/・1回目）
+- 検索結果の抜粋：
+  - 「Contact DialerBee — Sales, Support & Partnerships — Get in touch with the DialerBee team. Sales inquiries, technical support, partnership opportunities. We respond promptly to all inquiries.」（https://dialerbee.com/contact/・3回目）
+  - 「Call Center Software in Japan | DialerBee — DialerBee is cloud call-center and outbound dialer software for teams calling in Japan, with compliance-supporting controls aligned to MIC oversight, the Act on the Protection of Personal Information and the opt-out expectations of the Specified Commercial Transactions Act.」（https://dialerbee.com/regions/japan/・3回目）
+  - 「AI Contact Center Software & Predictive Dialer | DialerBee — DialerBee is the multilingual AI contact center platform for BPOs, collections teams, telecom resellers and regulated contact centers.」（https://dialerbee.com/・3回目）
+  - 「About DialerBee: Multilingual AI Contact Center — DialerBee is the multilingual AI contact center platform, built by BroadNet Technologies LLC, part of the BroadNet Group, on 22 years of telecom: 11 languages, your own carriers.」（https://dialerbee.com/about/・3回目）
+  - 「DialerBee：多言語AI発信システム | BroadNet — DialerBeeは言語および地域ごとにトレーニングとチューニングを行い、テナントごとの修正内容をモデルにフィードバックすることで、通信事業者の構成に合わせて精度が向上するようにしています。 EN 英語」（https://www.broadnet.me/ja/dialerbee・3回目）
+  - 「Software para Call Center no Japão | DialerBee — DialerBee é um software de call center em nuvem e discador automático para equipes que realizam chamadas no Japão, com controles de conformidade alinhados à supervisão do MIC, à Lei de Proteção de Informações Pessoais e às expectativas de exclusão da Lei de Transações Comerciais Específicas.」（https://dialerbee.com/pt/regions/japan/・3回目）
+  - 「Illustrative Case Studies — DialerBee — Illustrative walkthroughs of how DialerBee is deployed across common outbound use cases. These are examples, not specific customers — results vary by deployment.」（https://dialerbee.com/case-studies/・3回目）
+  - 「AI Contact Center Software & Predictive Dialer | DialerBee — DialerBee runs inbound and outbound calls for BPOs, collections teams, telecom resellers and regulated contact centers, with AI voice agents that have run on live calls in Arabic and English, answering-machine detection in 11 languages and compliance-supporting controls for Gulf calling rules.」（https://dialerbee.com/・3回目）
+  - 「About DialerBee: Multilingual AI Contact Center — DialerBee is the multilingual AI contact center platform, built by BroadNet Technologies LLC (Matawan, New Jersey), part of the BroadNet Group, on 22 years of telecom.」（https://dialerbee.com/about/・3回目）
+  - 「Outbound Dialer ROI Calculator — DialerBee — Estimate outbound dialer savings and ROI. Compare per-minute vs per-agent pricing, model contact-rate uplift, and see annual cost and revenue impact.」（https://dialerbee.com/tools/roi-calculator/・3回目）
+  - 「Dialer Bee - VOICE AI at DialerBee. | LinkedIn — VOICE AI at DialerBee. · الخبرة: DIALERBEE · الموقع: بيروت · 15 زميل على LinkedIn. عرض ملف Dialer Bee الشخصي على LinkedIn، وهو مجتمع احترافي يضم مليار عضو.」（https://lb.linkedin.com/in/dialer-bee-48927841b・3回目）
+- 創業年度：記載なし（3回確認済み：公式20頁／PDF・画像0件／外部15頁・検索12回）
+- 株主：記載なし（3回確認済み：公式20頁／PDF・画像0件／外部15頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式20頁／PDF・画像0件／外部15頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式20頁／PDF・画像0件／外部15頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式20頁／PDF・画像0件／外部15頁・検索12回）
+- 料金：記載なし（3回確認済み：公式20頁／PDF・画像0件／外部15頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式20頁／PDF・画像0件／外部15頁・検索12回）
+
+## Dimorder
+- 公式URL：https://dimorder.com（given）
+- 創業年度：Founded：2019（https://startupintros.com/orgs/dimorder・3回目）
+- 所在地：Hong Kong, Hong Kong（https://startupintros.com/orgs/dimorder・3回目）
+- 採用・広告の製品：
+  - 「Meituan · DianPing Promotion」（https://www.dimorder.com/en/・3回目）
+  - 「DimPOS self-ordering system is easy to use. Its all inclusive digital menu provides add-on options for sides and beverages. Customers can save their favourite items for their next order. DimPOS effectively increases profit margin and improves efficiency.」（https://www.dimorder.com/en/・3回目）
+  - 「Customers can pre-order via scanning QR code while queuing. Time spent waiting for food can be shortened which improves turnover rate and service quality, ultimately leading to higher revenue and better brand reputation.」（https://www.dimorder.com/en/・3回目）
+  - 「#pre-ordering #smooth user experience #frequent orders」（https://www.dimorder.com/en/・3回目）
+  - 「#design all-you-can eat menu #track dining progress」（https://www.dimorder.com/en/・3回目）
+  - 「Support price per person calculations and in-app ordering of single items and meal deals.」（https://www.dimorder.com/en/・3回目）
+  - 「#flexible printer setting #customer privacy」（https://www.dimorder.com/en/・3回目）
+  - 「Customise receipt display format and printing, e.g. automatically divide orders and delegate duties among staffs to maximise efficiency.」（https://www.dimorder.com/en/・3回目）
+  - 「#stress free POS System #improve workflow」（https://www.dimorder.com/en/・3回目）
+  - 「Readily edit beverage menu and preferences.」（https://www.dimorder.com/en/・3回目）
+  - 「Minimise administrative processes so that merchants can focus on relationship building with customers.」（https://www.dimorder.com/en/・3回目）
+  - 「Meituan · DianPing Promotion」（https://www.dimorder.com/about-us/・3回目）
+- 再販・ホワイトラベル：
+  - 「Every feature is written by us — never resold or white-labelled」（https://dimorder.net/about-en.html・3回目）
+- 日本の担い手：
+  - 「The system is customized for the unique needs of small and medium restaurants in the region, including diverse cuisine types like Chinese, Japanese, hotpot, and cafes.」（https://startupintros.com/orgs/dimorder・3回目）
+- 規模・親会社：
+  - 「Customers can pre-order via scanning QR code while queuing. Time spent waiting for food can be shortened which improves turnover rate and service quality, ultimately leading to higher revenue and better brand reputation.」（https://www.dimorder.com/en/・3回目）
+  - 「We believe relationships are the most important part of life, and we’re driven to streamline workflows so people can focus more on each other.」（https://www.dimorder.com/about-us/・3回目）
+  - 「Multi-tier combos, cross-category pairings, drink upgrades with pay-the-difference — option groups carry selection caps, so the cashier never has to step in.」（https://dimorder.net/solutions-en.html・3回目）
+  - 「Revenue trend, daypart distribution, bestseller TOP list, payment-channel mix, and a staffed-vs-self-serve channel comparison.」（https://dimorder.net/solutions-en.html・3回目）
+  - 「DimOrder Revenue 2024: $7.4M Est.」（https://getlatka.com/companies/dimorder.com・3回目）
+  - 「DimOrder has not published its revenue. GetLatka estimates it at about $7.4M a year (December 2024).」（https://getlatka.com/companies/dimorder.com・3回目）
+  - 「All 2 revenue readings, with sources」（https://getlatka.com/companies/dimorder.com・3回目）
+  - 「DimOrder CEO, founders & employees」（https://getlatka.com/companies/dimorder.com・3回目）
+  - 「Tim Lee founded DimOrder in 2019 and runs it as CEO. DimOrder had 48 employees (December 2024, LinkedIn).」（https://getlatka.com/companies/dimorder.com・3回目）
+  - 「What is DimOrder's revenue?」（https://getlatka.com/companies/dimorder.com・3回目）
+  - 「GetLatka estimates DimOrder's revenue at about」（https://getlatka.com/companies/dimorder.com・3回目）
+  - 「How many employees does DimOrder have?」（https://getlatka.com/companies/dimorder.com・3回目）
+- 連絡先：
+  - 「scalelist.com/ceo/wing-liu-email-phone-number」（https://startupintros.com/orgs/dimorder・3回目）
+- 検索結果の抜粋：
+  - 「DimPOS - One-stop shop POS System - DimOrder — DimPOS is fully integrated with DimOrder customer APP. Simple order management coupled with city-wide delivery services allow restaurants to expand customer base.」（https://www.dimorder.com/en/・3回目）
+  - 「About Us - DimPOS - 全港一站式餐廳POS系統 - dimorder.com — 【DimOrder】 DimOrder Develops Self-Service Ordering App, Over 800 Restaurants 'Follow the Prescription' to Save Labor, Accelerating Business Growth During Pandemic!」（https://www.dimorder.com/about-us/・3回目）
+  - 「點單 DimPOS - 全港一站式餐飲POS系統 - DimOrder — 【點單】香港貿發局 (HKTDC)「創業快綫」十家優勝初創之一 【點單】DimOrder 為 InnoClub Industry Impact Award 的得獎者 【點單】HKTDC x Start-UP 創業快綫 呈獻《創業軍師》訪問 【點單】增落單效率 每店可減3侍應 【點單】自助點餐系統添結賬功能 逾40食肆試用 紓緩人手荒」（https://www.dimorder.com/aboutus/・3回目）
+  - 「Features & Use Cases | Dimorder | QR Ordering, POS, KDS ... — The complete Dimorder feature list: customer QR ordering (WeChat Mini Program / H5), front-of-house POS, kitchen KDS and cloud printing, takeaway pickup verification, in-store big screen, daily inventory and specials, business reports, multi-store brand HQ, AI menu OCR and AI business insights.」（https://dimorder.net/solutions-en.html・3回目）
+  - 「Store Story | Dimorder | A Full Launch Log from Our Demo Store — STORE STORY How a cha chaan Teng moved into the system Our sample is the demo store, Pizza King Mong Kok — from a single photo of a paper menu to QR ordering, ticket routing and pickup numbers running end to end. The launch you are about to go through is exactly these six steps.」（https://dimorder.net/case-studies-en.html・3回目）
+  - 「DimPOS - One-stop shop POS System - DimOrder — DimPOS effectively increases profit margin and improves efficiency. DimPOS is fully integrated with DimOrder customer APP. Simple order management coupled with city-wide delivery services allow restaurants to expand customer base. Customers can pre-order via scanning QR code while queuing.」（https://www.dimorder.com/en/・3回目）
+  - 「About Us | Dimorder | TEAMOTTO (HK) LIMITED — Beyond Dimorder, we also operate the bupopshop e-commerce SaaS platform, building mini-program online stores for brand clients. We also deliver custom software projects for clients.」（https://dimorder.net/about-en.html・3回目）
+  - 「shop.dimorder.com - 點單 — shop.dimorder.com - 點單 ... 點單」（https://shop.dimorder.com/・3回目）
+  - 「DimOrder: Toast for Southeast Asia | Y Combinator — Oversees sales, strategy and direction at DimOrder. Previous life in running a cafe and a Japanese restaurant, after years in the financial field doing wealth management.」（https://www.ycombinator.com/companies/dimorder・3回目）
+  - 「About Us - DimPOS - 全港一站式餐廳POS系統 - dimorder.com — We believe relationships are the most important part of life, and we’re driven to streamline workflows so people can focus more on each other. Since our inception, we’ve helped entrepreneurs run smarter businesses, create stronger marketing strategies, and deliver exceptional customer experiences.」（https://www.dimorder.com/about-us/・3回目）
+  - 「How DimOrder Built Its Success in Southeast Asia — DimOrder, established in 2019 and headquartered in Hong Kong, is a technology company dedicated to revolutionizing the Food and Beverage (F&B) sector in Southeast Asia.」（https://reforgers.com/startups/dimorder・3回目）
+  - 「DimPOS - One-stop shop POS System - DimOrder — DimPOS is fully integrated with DimOrder customer APP. Simple order management coupled with city-wide delivery services allow restaurants to expand customer base. Customers can pre-order via scanning QR code while queuing.」（https://www.dimorder.com/en/・3回目）
+- 株主：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部35頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部35頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部35頁・検索12回）
+- 料金：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部35頁・検索12回）
+- 製造業の実績：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部35頁・検索12回）
 
 ## Dobs
 - 公式URL：https://dobs.ai/（given）
@@ -1956,6 +2401,790 @@
 - 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索12回）
 - 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索12回）
 
+## Dressipi
+- 公式URL：https://dressipi.com（given）
+- 採用・広告の製品：
+  - 「Product Recommendations」（https://dressipi.com/・1回目）
+  - 「Show each visitor the items they are most likely to buy - and keep. Say hello to higher profits.」（https://dressipi.com/・1回目）
+  - 「Products automatically tagged with 3x more detail. Data crunched for you. Fashion expertise overlaid. Dressipi does the heavy lifting so you can make a step-change in product discovery and revenue growth.」（https://dressipi.com/・1回目）
+  - 「Provide a Consistent Source Of Accurate Product Data」（https://dressipi.com/・1回目）
+  - 「PRODUCT RECOMMENDATIONS」（https://dressipi.com/・1回目）
+  - 「Help All Visitors Find Their Best Products Faster」（https://dressipi.com/・1回目）
+  - 「Provide intent-driven categories, filters & personalized recommendations for first time visitors as well as repeat customers」（https://dressipi.com/・1回目）
+  - 「Inspire with outfits relevant to each visitor, showing the value of every product & how to wear your brand their way」（https://dressipi.com/・1回目）
+  - 「Our customers are delivering unprecedented profitable revenue growth, cost savings, improved customer experiences and loyalty across their business」（https://dressipi.com/・1回目）
+  - 「Online shopping in the fashion industry is stuck in the 1990’s with personalization efforts only scratching the surface. They aren’t optimized for loyalty and profit and they definitely aren’t enough to survive the next industry disruptor.」（https://dressipi.com/・1回目）
+  - 「Customers do not want a flat journey that shows the same products in the same order. They want an inspirational, hyper-personalized journey that is completely relevant to them. Netflix and Spotify have driven these personalization expectations and retailers need to take learnings from these companies that have redefined the discovery process.」（https://dressipi.com/・1回目）
+  - 「Our industry is going through a big period of transformation, there are pressures on pricing, pressures on the supply chain and as brands are more accessible globally, the customer is increasingly fickle and harder to retain.」（https://dressipi.com/・1回目）
+- 製造業の実績：
+  - 「Trusted by 750+ brands. Read their success stories.」（https://mapp.com/blog/mapp-acquires-dressipi-ushering-in-a-new-era-of-ai-powered-solutions-for-fashion-and-retail/・3回目）
+  - 「E‑Commerce Operations Teams: Operators responsible for product display, recommendation strategies, and conversion rate optimization.」（https://www.cxgn.cn/en/dressipi・3回目）
+  - 「Apparel Manufacturing」（https://www.casestudies.com/company/dressipi・3回目）
+  - 「Dressipi Case Study: Luxury Retailer – How A Luxury Retailer Gave Each Customer A Tailored Shopping Experience And Delivered An Extra 12% Increase In Revenue Per Visitor And 25% Reduction In Returns | CaseStudies.com」（https://www.casestudies.com/company/dressipi/case-study/how-a-luxury-retailer-gave-each-customer-a-tailored-shopping-experience-and-delivered-an-extra-12-increase-in-revenue-per-visitor-and-25-reduction-in-returns・3回目）
+  - 「Case study describing how Luxury Retailer used Dressipi」（https://www.casestudies.com/company/dressipi/case-study/how-a-luxury-retailer-gave-each-customer-a-tailored-shopping-experience-and-delivered-an-extra-12-increase-in-revenue-per-visitor-and-25-reduction-in-returns・3回目）
+  - 「View this case study…」（https://www.casestudies.com/company/dressipi/case-study/how-a-luxury-retailer-gave-each-customer-a-tailored-shopping-experience-and-delivered-an-extra-12-increase-in-revenue-per-visitor-and-25-reduction-in-returns・3回目）
+  - 「Was it helpful? Rate this case study:」（https://www.casestudies.com/company/dressipi/case-study/how-a-luxury-retailer-gave-each-customer-a-tailored-shopping-experience-and-delivered-an-extra-12-increase-in-revenue-per-visitor-and-25-reduction-in-returns・3回目）
+- 再販・ホワイトラベル：
+  - 「Inspire with outfits relevant to each visitor, showing the value of every product & how to wear your brand their way」（https://dressipi.com/・1回目）
+  - 「Inspire with outfits & stories relevant to each visitor, showing them the value of every product & how to wear your brand their way」（https://dressipi.com/solutions/product-experience/・1回目）
+  - 「Agencies and consultancies certified on Mapp.」（https://mapp.com/blog/mapp-acquires-dressipi-ushering-in-a-new-era-of-ai-powered-solutions-for-fashion-and-retail/・3回目）
+- 規模・親会社：
+  - 「Products automatically tagged with 3x more detail. Data crunched for you. Fashion expertise overlaid. Dressipi does the heavy lifting so you can make a step-change in product discovery and revenue growth.」（https://dressipi.com/・1回目）
+  - 「Ensure there is quality, fashion-specific data that can be used intelligently throughout the business, increasing revenue and efficiency」（https://dressipi.com/・1回目）
+  - 「Our customers are delivering unprecedented profitable revenue growth, cost savings, improved customer experiences and loyalty across their business」（https://dressipi.com/・1回目）
+  - 「Fashion-specific AI business increases revenue per visitor by 5% and reduces returns by 2% for House of Bruar」（https://dressipi.com/・1回目）
+  - 「4% increase in Revenue per Visitor with 1:1 personalization at Country Road Group」（https://dressipi.com/・1回目）
+  - 「We are always looking for outstanding individuals from diverse backgrounds who want to be part of our fantastic team」（https://dressipi.com/company/about-us/・1回目）
+  - 「We are always looking for outstanding individuals from diverse backgrounds who want to be part of our fantastic team and help the fashion industry change」（https://dressipi.com/company/careers/・1回目）
+  - 「Be Part of a High Quality Team」（https://dressipi.com/company/careers/・1回目）
+  - 「Ensure there is quality, fashion-specific data that can be used intelligently throughout the business, increasing revenue and efficiency」（https://dressipi.com/solutions/product-tagging/・1回目）
+  - 「Increase Revenue and Efficiency」（https://dressipi.com/solutions/product-tagging/・1回目）
+  - 「Create instant time to value by enabling your team to work on revenue generating tasks rather than tagging」（https://dressipi.com/solutions/product-tagging/・1回目）
+  - 「At Dressipi, we test our personalized emails against all other BAU and segmented emails and consistently outperform by significant margins, by up to 2-3x (revenue per email sent).」（https://dressipi.com/solutions/product-tagging/・1回目）
+- 連絡先：
+  - 「Our recommendations can be delivered across the customer journey whether that be online, in-store, in-app, email and through new journeys of the future (VR & AR).」（https://dressipi.com/solutions/product-tagging/・1回目）
+  - 「Can I embed personalized recommendations on emails?」（https://dressipi.com/solutions/product-tagging/・1回目）
+  - 「At Dressipi, we test our personalized emails against all other BAU and segmented emails and consistently outperform by significant margins, by up to 2-3x (revenue per email sent).」（https://dressipi.com/solutions/product-tagging/・1回目）
+  - 「delivers relevant products & inspiration online, in-store, in-app, email and through new journeys of the future (VR & AR)」（https://dressipi.com/solutions/product-discovery/・1回目）
+  - 「Our recommendations can be delivered across the customer journey whether that be online, in-store, in-app, email and through new journeys of the future (VR & AR).」（https://dressipi.com/solutions/product-discovery/・1回目）
+  - 「Can I embed personalized recommendations on emails?」（https://dressipi.com/solutions/product-discovery/・1回目）
+  - 「At Dressipi, we test our personalized emails against all other BAU and segmented emails and consistently outperform by significant margins, by up to 2-3x (revenue per email sent).」（https://dressipi.com/solutions/product-discovery/・1回目）
+  - 「Our recommendations can be delivered across the customer journey whether that be online, in-store, in-app, email and through new journeys of the future (VR & AR).」（https://dressipi.com/solutions/product-experience/・1回目）
+  - 「Can I embed personalized recommendations on emails?」（https://dressipi.com/solutions/product-experience/・1回目）
+  - 「At Dressipi, we test our personalized emails against all other BAU and segmented emails and consistently outperform by significant margins, by up to 2-3x (revenue per email sent).」（https://dressipi.com/solutions/product-experience/・1回目）
+  - 「Personalized Recommendations Increase Email Revenue for Belstaff by 69%」（https://dressipi.com/customers/・1回目）
+  - 「Dynamic Customer Journeys: with Mapp’s cross-channel marketing automation engine, brands can activate data-driven campaigns that reflect real-time customer preferences and deliver personalized experiences across email, SMS, web, and app.」（https://mapp.com/blog/mapp-acquires-dressipi-ushering-in-a-new-era-of-ai-powered-solutions-for-fashion-and-retail/・3回目）
+- 検索結果の抜粋：
+  - 「Dressipi: Personalized Ecommerce | Dressipi — Our founders, Sarah McVittie and Donna North, set up Dressipi to help the apparel industry change. Dressipi has spent years delivering fashion-specific algorithms, drawing on the expertise of some of the industry’s top stylists and experts.」（https://dressipi.com/・3回目）
+  - 「Mapp Acquires Dressipi, Ushering in a New Era of AI-Powered ... — Jan 8, 2025 · “Mapp’s acquisition of Dressipi represents a bold step forward in redefining how fashion and retail brands engage with their customers,” said James Brooke, CEO of Mapp.」（https://mapp.com/blog/mapp-acquires-dressipi-ushering-in-a-new-era-of-ai-powered-solutions-for-fashion-and-retail/・3回目）
+  - 「About Us | Dressipi — Dressipi owns the most extensive dataset of garment attributes and fashion-specific customer preferences. Our ability to ingest, cleanse, and augment huge quantities of data from various sources, in real-time, is at the heart of our platform.」（https://dressipi.com/company/about-us/・3回目）
+  - 「It’s official: Dressipi joins the Mapp family! We're excited ... — This acquisition brings together Dressipi’s cutting-edge personalization and product insights with Mapp’s marketing automation and AI-powered analytics. The result?」（https://www.linkedin.com/posts/mapp-digital_its-official-dressipi-joins-the-mapp-family-activity-7282706073222864896-dCBJ・3回目）
+  - 「Dressipi｜公式サイトへのアクセス - アパレル小売におけるパーソナラ... — おすすめ、コーディネート、データ分析、そしてフロントエンド表示を同一のプロセス内で統合することで、ドレスィピはアパレル小売業者に、導入が容易でビジネス目標に即したパーソナライズされたソリューションを提供します。」（https://www.cxgn.cn/ja/dressipi・3回目）
+  - 「Contact | Dressipi — Get started with Dressipi, the leader in fashion-specific AI.」（https://dressipi.com/contact/・3回目）
+  - 「About Us | Dressipi — We are driving a step-change in personalization for apparel retailers and are passionate about helping the fashion industry change.」（https://dressipi.com/company/about-us/・3回目）
+  - 「Dressipi: Personalized Ecommerce | Dressipi — Dressipi delivers personalization for apparel retailers to help show their visitors the products they’re most likely to buy - and keep.」（https://dressipi.com/・3回目）
+  - 「Dressipi | Official Website Access – Personalized ... — Dressipi is a personalized e-commerce platform for apparel retailers. By analyzing visitor preferences and product attributes, it intelligently showcases items that shoppers are more likely to purchase, helping merchants boost conversion rates and customer retention.」（https://www.cxgn.cn/en/dressipi・3回目）
+  - 「Dressipi — Fashion AI that lives up to the hype. Welcome to Dressipi!」（https://app.partners.dressipi.com/・3回目）
+  - 「Customers | Dressipi — Dressipi has a proven track record of swiftly producing externally-validated results. Read our case studies to see how we help leading global brands.」（https://dressipi.com/customers/・3回目）
+  - 「Dressipi B2B Case Studies & Customer Successes — See how Dressipi solves business challenges—real case studies from satisfied customers across industries.」（https://www.casestudies.com/company/dressipi・3回目）
+- 創業年度：記載なし（3回確認済み：公式8頁／PDF・画像3件／外部26頁・検索12回）
+- 株主：記載なし（3回確認済み：公式8頁／PDF・画像3件／外部26頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式8頁／PDF・画像3件／外部26頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式8頁／PDF・画像3件／外部26頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式8頁／PDF・画像3件／外部26頁・検索12回）
+- 料金：記載なし（3回確認済み：公式8頁／PDF・画像3件／外部26頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式8頁／PDF・画像3件／外部26頁・検索12回）
+
+## Dyspatch
+- 公式URL：https://www.dyspatch.io（given）
+- 創業年度：Founded：2013（https://prospeo.io/c/dyspatch-revenue・3回目）
+- 株主：$6,000,000（https://prospeo.io/c/dyspatch-revenue・3回目）
+- 株主：10-Apr-2014    Completed Generating Revenue（https://pitchbook.com/profiles/company/61420-51・3回目）
+- 株主：01-Mar-2014 $300K   Completed Startup（https://pitchbook.com/profiles/company/61420-51・3回目）
+- 売上高：$108,000（https://prospeo.io/c/dyspatch-revenue・3回目）
+- 所在地：548 Market St, San Francisco, California 94104, US（https://prospeo.io/c/dyspatch-revenue・3回目）
+- 料金：$149/mo $499/mo Custom（https://www.dyspatch.io/・1回目）
+- 料金：$149/mo $499/mo Custom（https://www.dyspatch.io/partners-integrations/・1回目）
+- 料金：$149/mo $499/mo Custom（https://www.dyspatch.io/partners/sendgrid/・1回目）
+- 連絡先：✓ ✓ ✓（https://www.dyspatch.io/・1回目）
+- 連絡先：✓ ✓ ✓（https://www.dyspatch.io/partners-integrations/・1回目）
+- 連絡先：✓ ✓ ✓（https://www.dyspatch.io/partners/sendgrid/・1回目）
+- 採用・広告の製品：
+  - 「Email production for marketers」（https://www.dyspatch.io/・1回目）
+  - 「Franchise Email Marketing」（https://www.dyspatch.io/・1回目）
+  - 「AI-Powered Email Marketing Platform」（https://www.dyspatch.io/・1回目）
+  - 「Create and change campaigns in plain language, not endless threads.」（https://www.dyspatch.io/・1回目）
+  - 「Our AI-powered email marketing suite eliminates bottlenecks by automating the heavy lifting while amplifying your creative vision.」（https://www.dyspatch.io/・1回目）
+  - 「From transforming your brand assets into cohesive design systems to generating campaign-ready content in seconds, our tools help email marketers work smarter, faster, and with unprecedented precision.」（https://www.dyspatch.io/・1回目）
+  - 「Turn Marketing Briefs into Email Campaigns」（https://www.dyspatch.io/・1回目）
+  - 「Enterprise Email Builder」（https://www.dyspatch.io/・1回目）
+  - 「Dyspatch is an email template management platform that lets marketing and design teams build, collaborate on, approve, and localize email campaigns without writing code.」（https://www.dyspatch.io/・1回目）
+  - 「Dyspatch's AI-powered email marketing suite lets marketing and design teams generate, build, collaborate on, approve, and localize their email campaigns without writing code.」（https://www.dyspatch.io/・1回目）
+  - 「Collaborate with your team to create, translate, and approve not only emails, but SMS, push notifications, and voice notifications as well within Dyspatch and then export them to your CRM all in a few easy steps!」（https://www.dyspatch.io/・1回目）
+  - 「SMS marketing builder」（https://www.dyspatch.io/・1回目）
+- 製造業の実績：
+  - 「AI features, including Scribe and MCP agent operators, operate inside your existing themes, blocks, and guardrails, so AI-generated content stays within brand and compliance boundaries instead of bypassing them」（https://www.dyspatch.io/blog/5-best-ai-email-creation-tools-for-finance-teams-2026/・1回目）
+  - 「Yes, when the AI operates within a governed framework. The key is constraining AI output to approved language, locking compliance-critical content blocks, and routing every AI-assisted draft through human review before send. Dyspatch keeps AI tools, including Scribe and MCP agent operators, within its governed workflow so your team gets drafting speed without uncontrolled content risk.」（https://www.dyspatch.io/blog/5-best-ai-email-creation-tools-for-finance-teams-2026/・1回目）
+  - 「Case Study: Global Technology Corporation achieves streamlined, scalable email production and centralized governance with Dyspatch | CaseStudies.com」（https://www.casestudies.com/company/dyspatch/case-study/global-technology-corporation-customer-case-study・3回目）
+  - 「Case Study: Global Technology Corporation achieves streamlined, scalable email production and centralized governance with Dyspatch」（https://www.casestudies.com/company/dyspatch/case-study/global-technology-corporation-customer-case-study・3回目）
+  - 「Global Technology Corporation - Customer Case Study」（https://www.casestudies.com/company/dyspatch/case-study/global-technology-corporation-customer-case-study・3回目）
+  - 「Open case study document...」（https://www.casestudies.com/company/dyspatch/case-study/global-technology-corporation-customer-case-study・3回目）
+  - 「Was it helpful? Rate this case study:」（https://www.casestudies.com/company/dyspatch/case-study/global-technology-corporation-customer-case-study・3回目）
+  - 「Rate This Customer Case Study」（https://www.featuredcustomers.com/vendor/dyspatch/case-studies・3回目）
+- 再販・ホワイトラベル：
+  - 「From transforming your brand assets into cohesive design systems to generating campaign-ready content in seconds, our tools help email marketers work smarter, faster, and with unprecedented precision.」（https://www.dyspatch.io/・1回目）
+  - 「Accelerate your brand's messaging strategy」（https://www.dyspatch.io/・1回目）
+  - 「From transforming your brand assets into cohesive design systems to generating campaign-ready content in seconds, our tools help email marketers work smarter, faster, and with unprecedented precision.」（https://www.dyspatch.io/pricing/・1回目）
+  - 「Contact us to learn more about Dyspatch for agencies」（https://www.dyspatch.io/pricing/・1回目）
+  - 「Rebranding at scale: a deep dive into Cambium’s email design strategy」（https://www.dyspatch.io/blog/category/case-studies/・1回目）
+  - 「Cambium scales email rebranding with Dyspatch and cuts build time from hours to minutes」（https://www.featuredcustomers.com/vendor/dyspatch/case-studies・3回目）
+- 日本の担い手：
+  - 「ノーコードSaaS世界図鑑（日本語版）DXに不可欠」（https://note.com/vueloo_blog/n/n7b4461821173・3回目）
+- 規模・親会社：
+  - 「How is Dyspatch different from Stensul, Stripo, or Chamaileon?」（https://www.dyspatch.io/・1回目）
+  - 「Dyspatch is built for enterprise governance and is ESP-agnostic: templates created in Dyspatch deploy to any sending platform (SendGrid, Mailgun, Braze, Iterable, SES, and more). Teams choose Dyspatch over Stensul, Stripo, and Chamaileon when they need brand and approval controls across both marketing and transactional email.」（https://www.dyspatch.io/・1回目）
+  - 「You can test your emails right in Dyspatch. Integrated Litmus testing allows you to preview your templates across all email clients, devices, and even in dark mode. This functionality is part of Dyspatch’s approval workflow, along with the option to send yourself and your team members a test email to double check elements like links.」（https://www.dyspatch.io/partners/sendgrid/・1回目）
+  - 「Pardot is a B2B marketing automation platform owned by Salesforce, designed to help companies create meaningful connections, generate more pipeline, and empower sales to close more deals.」（https://www.dyspatch.io/partners/pardot/・1回目）
+  - 「We come by our roots honestly. Our founder and CEO, Matt Harris, started playing with code and making websites when he was just a kid. During college, he worked as a contract developer to pay his way. So our story begins in earnest...」（https://www.dyspatch.io/about/・1回目）
+  - 「Localization and multi-locale governance are not part of the core offering」（https://www.dyspatch.io/blog/5-best-ai-email-creation-tools-for-finance-teams-2026/・1回目）
+  - 「AI-powered content generation features are not part of the current offering」（https://www.dyspatch.io/blog/5-best-ai-email-creation-tools-for-finance-teams-2026/・1回目）
+  - 「Financial services email production sits at the intersection of speed, compliance, and global scale. Your team needs to move fast on campaigns, but every email carries regulatory weight that generic marketing tools are not built to handle. Dyspatch was designed for exactly this intersection.」（https://www.dyspatch.io/blog/5-best-ai-email-creation-tools-for-finance-teams-2026/・1回目）
+  - 「From strategic consulting and team training to full-service campaign execution, Email Industries empowers Dyspatch customers to run smarter email programs that convert more customers and generate more revenue. Ready to boost your inbox placement? Start with a free deliverability assessment.」（https://www.dyspatch.io/partners/email-industries/・1回目）
+  - 「・代表者: Matt Harris（創業者兼CEO）」（https://www.firstcvc.jp/global/dyspatch.io・3回目）
+  - 「Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...」（https://www.firstcvc.jp/global/dyspatch.io・3回目）
+  - 「Metriportは、米国の医療データを統合・標準化し、医療従事者や臨床AIエージェントにリアルタイムで提供するオープンソースの医療データインフラ企業であ...」（https://www.firstcvc.jp/global/dyspatch.io・3回目）
+- 連絡先：
+  - 「Email Template Management Platform | Dyspatch」（https://www.dyspatch.io/・1回目）
+  - 「No-code email builder」（https://www.dyspatch.io/・1回目）
+  - 「Tools for email designers」（https://www.dyspatch.io/・1回目）
+  - 「Email production for marketers」（https://www.dyspatch.io/・1回目）
+  - 「Resources for email developers」（https://www.dyspatch.io/・1回目）
+  - 「Franchise Email Marketing」（https://www.dyspatch.io/・1回目）
+  - 「Scribe Email Assistant」（https://www.dyspatch.io/・1回目）
+  - 「AI-Powered Email Marketing Platform」（https://www.dyspatch.io/・1回目）
+  - 「Powerful enough for your email design system. Simple enough for your agents to build on.」（https://www.dyspatch.io/・1回目）
+  - 「Brief your agent, get a finished email.」（https://www.dyspatch.io/・1回目）
+  - 「Dyspatch is deceptively powerful. The platform is easy enough that our whole lifecycle team adopted it quickly, yet sophisticated enough to support our full email design system. Migration was straightforward, the team was hands-on throughout, and we're now shipping beautiful emails in a fraction of the time.」（https://www.dyspatch.io/・1回目）
+  - 「AI tools for email marketers」（https://www.dyspatch.io/・1回目）
+- 検索結果の抜粋：
+  - 「Email Template Management Platform | Dyspatch — Dyspatch is an email template management platform that lets marketing and design teams build, collaborate on, approve, and localize email campaigns without writing code.」（https://www.dyspatch.io/・3回目）
+  - 「Press & Media | Dyspatch & Sendwithus — An extensive compilation of the latest press releases, guest articles, and media coverage for Dyspatch, the email production platform.」（https://www.dyspatch.io/press/・3回目）
+  - 「Dyspatchの資金調達・投資家情報 | 海外スタートアップ | FIRST CVC — Initialized Capital、Y Combinator、Gradient Venturesのポートフォリオに掲載される海外スタートアップDyspatchの企業プロフィール。Dyspatch（運営法人: Techdrop Labs Inc.）は、エンジニアに依存せずマーケティングやCRM、製品チームが直感...」（https://www.firstcvc.jp/global/dyspatch.io・3回目）
+  - 「Japan Dispatch - FacebookDyspatch | LinkedInDyspatch for Translators | DyspatchList from best to worse dispatch companies. : r/teachinginjapan — Oct 17, 2026 · Japan Dispatch. 4,302 followers · 93 talking about this. ディスパッチ (Dispatch)公式日本フェイスブックページ Dyspatch | LinkedInのフォロワー数1,861人。Streamline your entire email creation process with the Dyspatch Email Builder. | Empower your team to create, innovate」（https://www.facebook.com/JapanDispatch/・3回目）
+  - 「Dyspatch | LinkedIn — Dyspatch | LinkedInのフォロワー数1,861人。Streamline your entire email creation process with the Dyspatch Email Builder. | Empower your team to create, innovate, and grow with the Dyspatch Email Builder. Dyspatch is an industry-leading solution for email production and management. With Dyspatch, you can build engaging, interactive emails, without having to write code.」（https://jp.linkedin.com/company/dyspatch・3回目）
+  - 「Dyspatch for Translators | Dyspatch — Automate your email translation with our built in integrations Dyspatch has partnered with the world’ leading translations and localization services worldwide, including Smartling and Phrase, and XTM and CrowdIn, and more. Whether you’re a startup, or operating at scale, Dyspatch for translators is the tool you’ve been looking for.」（https://www.dyspatch.io/platform/dyspatch-for-translators/・3回目）
+  - 「Case Study: Global Technology Corporation achieves ... — Global Technology Corporation partnered with Dyspatch (Computer Software) to solve key challenges. "Global Technology Corporation - Customer Case Study" is their real-world success story.」（https://www.casestudies.com/company/dyspatch/case-study/global-technology-corporation-customer-case-study・3回目）
+  - 「24 Dyspatch Case Studies, Success Stories, & Customer Stories — Dyspatch has a 4.8/5 star rating. Learn what their customers think, get 24 free case studies and more.」（https://www.featuredcustomers.com/vendor/dyspatch/case-studies・3回目）
+  - 「Dyspatch – Funding, Acquisitions & Key Rivals – 2026 — Dyspatch positions itself through estimated revenue of $2.7M, team of around 20+ employees from San Francisco, aligned with its business vision.」（https://compworth.com/company/dyspatch・3回目）
+  - 「Dyspatch Revenue, Funding & Valuation - prospeo.io — Dyspatch has revenue of $3,000,000, estimated valuation of $9,600,000, $6,000,000 in total funding. Find contacts and company information on Prospeo.」（https://prospeo.io/c/dyspatch-revenue・3回目）
+  - 「Dyspatch - 2026 Company Profile, Team, Funding & Competitors ... — Jan 9, 2026 · Dyspatch is a series A company based in San Francisco (United States), founded in 2013 by Matt Harris and Brad Van Vugt. It operates as a Cloud based platform offering software for email marketing. Dyspatch has raised $7.42M in funding from investors like Y Combinator, SV Angel and BlueRun Ventures. The company has 87」（https://tracxn.com/d/companies/dyspatch/__ntn4Gjb1ds7XXU95HsFKJX-WN0DPqc9lH2b23UXrlEg・3回目）
+  - 「Dyspatch 2026 Company Profile: Valuation, Funding & Investors ...Dyspatch Revenue 2024: $2.5M Est., $11M Raised - LATKADyspatch - Overview, News & Similar companies | ZoomInfo.comDyspatch Information - RocketReach — Dyspatch is a Private company. What is Dyspatch’s current revenue? The current revenue for Dyspatch is . How much funding has Dyspatch raised over time? Dyspatch has raised $13.4M. Who」（https://pitchbook.com/profiles/company/61420-51・3回目）
+- 従業員数：記載なし（3回確認済み：公式18頁／PDF・画像4件／外部35頁・検索12回）
+
+## E2M Solutions
+- 公式URL：https://www.e2msolutions.com（given）
+- 連絡先：（https://www.e2msolutions.com/white-label-website-design-development/・1回目）
+- 連絡先：（https://www.e2msolutions.com/white-label-wordpress-development/・1回目）
+- 連絡先：（https://www.e2msolutions.com/white-label-elementor-theme-development/・1回目）
+- 採用・広告の製品：
+  - 「Most White Label Partners Compete on Price.」（https://www.e2msolutions.com/・1回目）
+  - 「E2M boasts hundreds of specialists and a senior-level team that’s the best in the industry, all backed by proactive communication and an incredible dedication to service.」（https://www.e2msolutions.com/・1回目）
+  - 「Whether you’re reselling web design and development, PPC and paid media, digital marketing, or AI solutions, E2M integrates seamlessly into your agency as if we were your own in-house team.」（https://www.e2msolutions.com/・1回目）
+  - 「Build, design, and launch high-performing websites without expanding your team. As your white label web design and development partner, we deliver across WordPress, Webflow, Shopify, Wix, Highlevel, and more, fully white-labeled under your brand.」（https://www.e2msolutions.com/・1回目）
+  - 「White Label Digital Marketing」（https://www.e2msolutions.com/・1回目）
+  - 「Scale your agency with a proven team delivering white label SEO, AI SEO, eCommerce SEO, PPC, video editing, and content marketing services, all under your brand. From technical optimization to AI search visibility and reporting, we drive consistent growth without adding headcount.」（https://www.e2msolutions.com/・1回目）
+  - 「Run high-performing PPC and paid campaigns services across Google, Meta (Facebook, Instagram), YouTube, and LinkedIn, without added overhead. Our PPC team manages strategy, tracking, and optimization to drive consistent ROI while protecting your margins.」（https://www.e2msolutions.com/・1回目）
+  - 「CEO, Agora Eversole Marketing」（https://www.e2msolutions.com/・1回目）
+  - 「Community Bank Marketing Agency · Mississippi, USA」（https://www.e2msolutions.com/・1回目）
+  - 「A Full Web Team of Specialists. Without the Full-Team Hire.」（https://www.e2msolutions.com/・1回目）
+  - 「Owner & Principal, Vessel」（https://www.e2msolutions.com/・1回目）
+  - 「Marketing Agency · North Carolina, USA」（https://www.e2msolutions.com/・1回目）
+- 製造業の実績：
+  - 「Beaver Builder is one of the most trusted WordPress page builders, trusted by more than 1,000,000 WordPress sites. Its drag-and-drop interface makes development fast and flexible while producing clean, stable output that clients can manage without breaking things.」（https://www.e2msolutions.com/white-label-beaver-builder-development/・1回目）
+  - 「Used by the biggest names in the WordPress ecosystem, with a large community of developers and users behind it.」（https://www.e2msolutions.com/white-label-beaver-builder-development/・1回目）
+  - 「Aurus Jewels - Customer Case Study」（https://www.casestudies.com/company/e2m-solutions・3回目）
+  - 「Nutcache - Customer Case Study」（https://www.casestudies.com/company/e2m-solutions・3回目）
+  - 「Octane Seating - Customer Case Study」（https://www.casestudies.com/company/e2m-solutions・3回目）
+  - 「Rosenfeld Injury Lawyers LLC - Customer Case Study」（https://www.casestudies.com/company/e2m-solutions・3回目）
+  - 「ShopIntegrator - Customer Case Study」（https://www.casestudies.com/company/e2m-solutions・3回目）
+  - 「E2M Solutions Case Study: Aurus Jewels – Aurus Jewels - Customer Case Study | CaseStudies.com」（https://www.casestudies.com/company/e2m-solutions/case-study/aurus-jewels-customer-case-study・3回目）
+  - 「Aurus Jewels - Customer Case Study」（https://www.casestudies.com/company/e2m-solutions/case-study/aurus-jewels-customer-case-study・3回目）
+  - 「Case study describing how Aurus Jewels used E2M Solutions」（https://www.casestudies.com/company/e2m-solutions/case-study/aurus-jewels-customer-case-study・3回目）
+  - 「View this case study…」（https://www.casestudies.com/company/e2m-solutions/case-study/aurus-jewels-customer-case-study・3回目）
+  - 「Was it helpful? Rate this case study:」（https://www.casestudies.com/company/e2m-solutions/case-study/aurus-jewels-customer-case-study・3回目）
+- 再販・ホワイトラベル：
+  - 「E2M - #1 Trusted White Label Partner for Digital Agencies」（https://www.e2msolutions.com/・1回目）
+  - 「AI for Growth-Focused Agencies」（https://www.e2msolutions.com/・1回目）
+  - 「Most White Label Partners Compete on Price.」（https://www.e2msolutions.com/・1回目）
+  - 「Full-Service White Label Partner You Can Trust.」（https://www.e2msolutions.com/・1回目）
+  - 「White Label Website Design and Development」（https://www.e2msolutions.com/・1回目）
+  - 「Build, design, and launch high-performing websites without expanding your team. As your white label web design and development partner, we deliver across WordPress, Webflow, Shopify, Wix, Highlevel, and more, fully white-labeled under your brand.」（https://www.e2msolutions.com/・1回目）
+  - 「White Label Digital Marketing」（https://www.e2msolutions.com/・1回目）
+  - 「Scale your agency with a proven team delivering white label SEO, AI SEO, eCommerce SEO, PPC, video editing, and content marketing services, all under your brand. From technical optimization to AI search visibility and reporting, we drive consistent growth without adding headcount.」（https://www.e2msolutions.com/・1回目）
+  - 「White Label PPC and Paid Media」（https://www.e2msolutions.com/・1回目）
+  - 「White Label AI Solutions」（https://www.e2msolutions.com/・1回目）
+  - 「Turn AI into a competitive advantage your clients will pay for. Our AI strategists and engineers build automations, workflows, and custom AI tools from dashboards to applications to help you launch and scale AI services under your brand.」（https://www.e2msolutions.com/・1回目）
+  - 「Talk With A White Label Growth Partner」（https://www.e2msolutions.com/・1回目）
+- 規模・親会社：
+  - 「Offer AI solutions under your brand. We build the white label AI automations and agents your clients will pay for. You deliver the outcome. New revenue, no hiring required.」（https://www.e2msolutions.com/white-label-ai-solutions-for-agencies/・1回目）
+  - 「Many digital agencies still spend hours on work that artificial intelligence can complete in minutes. If you’re still creating proposals from scratch, manually updating CRMs, or spending hours on low-value tasks. Explore our White Label AI Services to save time and grow revenue.」（https://www.e2msolutions.com/white-label-ai-solutions-for-agencies/・1回目）
+  - 「Turn AI Into a Revenue Stream」（https://www.e2msolutions.com/white-label-ai-solutions-for-agencies/・1回目）
+  - 「E2M can embed AI across your operations and help you create new revenue streams.」（https://www.e2msolutions.com/white-label-ai-solutions-for-agencies/・1回目）
+  - 「Agencies ready to embed AI across operations and create recurring revenue opportunities from client-facing AI services」（https://www.e2msolutions.com/white-label-ai-solutions-for-agencies/・1回目）
+  - 「Unified ops dashboard. AI-powered client delivery. White-label AI products that generate recurring revenue.」（https://www.e2msolutions.com/white-label-ai-solutions-for-agencies/・1回目）
+  - 「New AI revenue line built and shipped. Custom data infrastructure. AI apps your clients pay monthly retainers for.」（https://www.e2msolutions.com/white-label-ai-solutions-for-agencies/・1回目）
+  - 「Started With a Bottleneck. Ended Up With a New AI Revenue Line.」（https://www.e2msolutions.com/white-label-ai-solutions-for-agencies/・1回目）
+  - 「“AI For Your Clients” is about creating new revenue streams. We build AI products and solutions that you can sell to your clients under your own brand. You become an AI expert without hiring developers or learning how to build a custom LLM (Large Language Model).」（https://www.e2msolutions.com/white-label-ai-solutions-for-agencies/・1回目）
+  - 「Is there recurring revenue potential?」（https://www.e2msolutions.com/white-label-ai-solutions-for-agencies/・1回目）
+  - 「Yes. AI SaaS platforms and ongoing AI support create subscription-based revenue streams. Your clients pay you monthly. You keep the margin. It’s one of the best ways to build predictable recurring revenue without adding headcount.」（https://www.e2msolutions.com/white-label-ai-solutions-for-agencies/・1回目）
+  - 「ROI shows up in three places: time savings, cost reduction, and revenue growth.」（https://www.e2msolutions.com/white-label-ai-solutions-for-agencies/・1回目）
+- 連絡先：
+  - 「Automated Follow-Up Email Sequences」（https://www.e2msolutions.com/white-label-ai-solutions-for-agencies/・1回目）
+  - 「Personalized outreach email generation at scale」（https://www.e2msolutions.com/white-label-ai-solutions-for-agencies/・1回目）
+  - 「Automated Follow-Up Email Sequences」（https://www.e2msolutions.com/ai-service-reseller-partner/・1回目）
+  - 「Personalized Outreach Email Generation at Scale」（https://www.e2msolutions.com/ai-service-reseller-partner/・1回目）
+  - 「UI/UX designer, front-end & back-end developer, SEO, AI SEO, PPC, content strategist & writers, AI automation, eCommerce, QA, hosting/email server admin」（https://www.e2msolutions.com/white-label-website-design-development/・1回目）
+  - 「Our most effective agency clients set up a white label email address (something like」（https://www.e2msolutions.com/white-label-website-design-development/・1回目）
+  - 「Absolutely. Set up a white label email address, add it to your project tools and hosting environment, give us the logins, and we slot right in like part of your in-house website team. Our team will also communicate in real-time during our working hours on your preferred platform (for example, Slack).」（https://www.e2msolutions.com/white-label-website-design-development/・1回目）
+  - 「Microsoft Teams, Slack, Email, Google Chat」（https://www.e2msolutions.com/white-label-website-design-development/・1回目）
+  - 「UI/UX designer, front-end & back-end developer, SEO, AI SEO, PPC, content strategist & writers, AI automation, eCommerce, QA, hosting/email server admin」（https://www.e2msolutions.com/white-label-wordpress-development/・1回目）
+  - 「Microsoft Teams, Slack, Email, Google Chat」（https://www.e2msolutions.com/white-label-wordpress-development/・1回目）
+  - 「UI/UX designer, front-end & back-end developer, SEO, AI SEO, PPC, content strategist & writers, AI automation, eCommerce, QA, hosting/email server admin」（https://www.e2msolutions.com/white-label-elementor-theme-development/・1回目）
+  - 「No. E2M operates as your invisible backend WordPress team. We never contact your clients directly, never include our branding on deliverables, and never share your client’s work publicly. Many agencies set up a white-label email address (such as dev@youragency.com) for our team to use when logging into their systems, so even internal messages appear to come from in-house staff.」（https://www.e2msolutions.com/white-label-elementor-theme-development/・1回目）
+- 検索結果の抜粋：
+  - 「About Us | E2M | Trusted White Label Partner ... - E2M Solutions — We started E2M in 2012, with a simple belief: digital agencies deserve a better kind of white label partner with a world-class team working behind the scenes so you can focus on what matters most: serving your clients and growing your agency.」（https://www.e2msolutions.com/about-e2m/・3回目）
+  - 「E2M Solutions — E2M (E2M Tech, E2M Solutions) is a white label growth partner behind your agency. We build & delivers web design and development, SEO, GEO/AI SEO, PPC, content, IT support, and AI services under the agency’s own brand.」（https://www.e2msolutions.com/・3回目）
+  - 「About Us | E2M | Trusted White Label Partner ... - E2M Solutions — Discover E2M, your trusted white-label partner for web design, development, SEO, and digital marketing, AI services, Website builders development, IT server and hosting support services.」（https://www.e2msolutions.com/about-e2m/・3回目）
+  - 「E2M - LinkedIn — For more than 13 years, E2M Solutions has helped digital agencies scale delivery without adding headcount, sacrificing quality, or losing control of the client experience.」（https://www.linkedin.com/company/e2m-solutions・3回目）
+  - 「Case Studies - E2M Solutions — Book A Growth Call Hi, I'm Khushbu at E2M. Ready to grow your digital agency with a world-class white label team? Schedule a call today. We’ll talk through your needs and create a plan that fits your budget, then show you next steps on how to move forward.」（https://www.e2msolutions.com/case-studies/・3回目）
+  - 「E2M Solutions B2B Case Studies & Customer Successes — See how E2M Solutions solves business challenges—real case studies from satisfied customers across industries.」（https://www.casestudies.com/company/e2m-solutions・3回目）
+  - 「E2M Solutions Case Study: Aurus Jewels – Aurus Jewels ... — Aurus Jewels partnered with E2M Solutions (Internet) to solve key challenges. "Aurus Jewels - Customer Case Study" is their real-world success story.」（https://www.casestudies.com/company/e2m-solutions/case-study/aurus-jewels-customer-case-study・3回目）
+  - 「5 E2M Solutions Case Studies, Success Stories, & Customer ... — Discover how other companies use E2M Solutions, get inspired, and find ways to improve your business.」（https://www.featuredcustomers.com/vendor/e2m-solutions/case-studies・3回目）
+  - 「E2M Solutions - Pagely — About E2M Solutions E2M Solutions helps Digital Agencies scale their agency business by solving bandwidth and capacity problems with comprehensive white label services. Our white label services for digital agencies include website design, web development, building eCommerce Stores, SEO, and Content Writing. We work with 300+ Digital Agencies mainly from the United States, 」（https://pagely.com/partner/e2m-solutions/・3回目）
+  - 「E2M Solutions — Company Profile, 2 Acquisitions & Funding — E2M Solutions company profile with 2 acquisitions, HQ in San Diego, United States, founded 2012. Explore its acquisitions, funding rounds, investors, key people and contacts on Acquirezy — updated 2026.」（https://acquirezy.com/organization/e2m-solutions・3回目）
+  - 「E2M - Crunchbase Company Profile & FundingE2M - Crunchbase Company Profile & FundingE2M Solutions – Funding, Valuation, Investors, NewsE2M: Revenue, Competitors, Alternatives - growjo.com — E2M is a trusted white label digital marketing and web development partner that helps digital agencies scale with expert SEO, AI search optimization, content marketing, PPC, web development (WordPress, eCommerc」（https://www.crunchbase.com/organization/e2m-solutions・3回目）
+- 創業年度：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部23頁・検索12回）
+- 株主：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部23頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部23頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部23頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部23頁・検索12回）
+- 料金：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部23頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部23頁・検索12回）
+
+## Ecoplant
+- 公式URL：https://www.ecoplant.tech/（given）
+- 採用・広告の製品：
+  - 「特設サイト - 製品・サービス詳細 - https://pr.mono.ipros.com/gd-thomas/product/」（https://mono.ipros.com/product/detail/2001554230/・3回目）
+  - 「People AX team Project Leader」（https://www.furukawaelectric.com/release/2026/comp_20261028.html・3回目）
+  - 「Singapore-based Total Environment Solution (TES) has signed a memorandum of understanding with Sumitomo Mitsui Finance and Leasing Company (SMFL) and its affiliate SMFL Rental Co. to jointly proceed with used battery recycling projects in Japan, SK Ecoplant said in a statement.」（https://en.yna.co.kr/view/AEN20240312004700320・3回目）
+  - 「This photo taken March 11, 2024, and provided by SK Ecoplant shows (from L) Sumitomo Mitsui Finance and Leasing Company (SMFL) CEO Hirotsugu Harada, Total Environment Solution CEO Terence Ng and SMFL CEO Masaki Tachibana after signing a memorandum of understanding at Sumitomo Mitsui Banking Corp. in Tokyo for partnership in the Japanese used battery recycling market. (PHOTO NOT FOR SALE) (Yonhap)」（https://en.yna.co.kr/view/AEN20240312004700320・3回目）
+  - 「Seoul shares soar over 4 pct to snap 3-day slide on tech rally, oil prices fall」（https://en.yna.co.kr/view/AEN20240312004700320・3回目）
+  - 「Seoul Metro union threatens Nov. 25 general strike over wage, hiring disputes」（https://en.yna.co.kr/view/AEN20240312004700320・3回目）
+  - 「Apr 2021」（https://getlatka.com/companies/ecoplant・3回目）
+  - 「Marketing and social media tools」（https://getlatka.com/companies/ecoplant・3回目）
+  - 「Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.」（https://getlatka.com/companies/ecoplant・3回目）
+  - 「Ecoplant is a cloud-based SaaS platform that integrates with your compressed air system to increase energy efficiency.」（https://getlatka.com/companies/ecoplant.com・3回目）
+  - 「Marketing and social media tools」（https://getlatka.com/companies/ecoplant.com・3回目）
+  - 「Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.」（https://getlatka.com/companies/ecoplant.com・3回目）
+- 製造業の実績：
+  - 「ECOPLANT ～製造業におけるカーボンニュートラルへの道～ ガードナー・デンバー | イプロスものづくり」（https://mono.ipros.com/product/detail/2001554230/・3回目）
+  - 「ECOPLANT ～製造業におけるカーボンニュートラルへの道～」（https://mono.ipros.com/product/detail/2001554230/・3回目）
+  - 「当社インテリジェンス「ECOPLANT」による圧縮空気(コンプレッションエアー)機器の大幅なエネルギー効率の最適化を実現！」（https://mono.ipros.com/product/detail/2001554230/・3回目）
+  - 「SK Ecoplant Materialsと古河電工 高機能材料事業における業務提携覚書（MOU）を締結｜2026｜ニュースリリース｜古河電気工業株式会社」（https://www.furukawaelectric.com/release/2026/comp_20261028.html・3回目）
+  - 「SK Ecoplant Materialsと古河電工」（https://www.furukawaelectric.com/release/2026/comp_20261028.html・3回目）
+  - 「SK Ecoplant Materials（本社：韓国ソウル特別市、社長：Song Chang Rock）と古河電気工業株式会社（本社：東京都千代田区、代表取締役社長、CEO：森平 英也、以下「古河電工」）は、半導体およびAIデータセンタ市場を中心とした高機能材料事業の拡大を推進するため、半導体およびAIデータセンタ向け材料事業協力に関する業務提携覚書（MOU）を締結しました」（https://www.furukawaelectric.com/release/2026/comp_20261028.html・3回目）
+  - 「古河電工が半導体およびデータセンタ向けの新製品を開発し、SK Ecoplant Materialsがその新製品を評価することで韓国市場への適用拡大を両社で推進します」（https://www.furukawaelectric.com/release/2026/comp_20261028.html・3回目）
+  - 「SK Ecoplant Materials 社長 Song Chang Rockのコメント」（https://www.furukawaelectric.com/release/2026/comp_20261028.html・3回目）
+  - 「（左）SK Ecoplant Materials 社長 Song Chang Rock」（https://www.furukawaelectric.com/release/2026/comp_20261028.html・3回目）
+  - 「SK Ecoplant Materialsについて」（https://www.furukawaelectric.com/release/2026/comp_20261028.html・3回目）
+  - 「SK Ecoplant Materialsは、4つの子会社を基盤に、フォトレジスト材料、プリカーサー、エッチングガス、パッケージング材料などの半導体向け主要材料に加え、OLED（有機EL）分野で最も開発難易度が高いとされるブルードーパント材料の開発・製造を手掛ける企業グループです」（https://www.furukawaelectric.com/release/2026/comp_20261028.html・3回目）
+  - 「SK Ecoplant Materials」（https://www.furukawaelectric.com/release/2026/comp_20261028.html・3回目）
+- 日本の担い手：
+  - 「ガードナー・デンバー株式会社 八潮事業所 ITS BVT事業部」（https://mono.ipros.com/product/detail/2001554230/・3回目）
+  - 「Gardner Denver / インガソール・ランドの日本支社です」（https://mono.ipros.com/product/detail/2001554230/・3回目）
+  - 「【電匠NX導入事例】CADを入れることで早く綺麗に書ける様に」（https://mono.ipros.com/product/detail/2001554230/・3回目）
+  - 「SK Ecoplant Materialsと古河電工 高機能材料事業における業務提携覚書（MOU）を締結｜2026｜ニュースリリース｜古河電気工業株式会社」（https://www.furukawaelectric.com/release/2026/comp_20261028.html・3回目）
+  - 「SK Ecoplant Materials（本社：韓国ソウル特別市、社長：Song Chang Rock）と古河電気工業株式会社（本社：東京都千代田区、代表取締役社長、CEO：森平 英也、以下「古河電工」）は、半導体およびAIデータセンタ市場を中心とした高機能材料事業の拡大を推進するため、半導体およびAIデータセンタ向け材料事業協力に関する業務提携覚書（MOU）を締結しました」（https://www.furukawaelectric.com/release/2026/comp_20261028.html・3回目）
+  - 「SK Ecoplant unit, Japanese firms sign MOU for used battery recycling | Yonhap News Agency」（https://en.yna.co.kr/view/AEN20240312004700320・3回目）
+  - 「SEOUL, March 12 (Yonhap) -- SK Ecoplant Co. said Tuesday its wholly owned e-waste management affiliate has signed an initial pact with two Japanese companies for partnership in the used battery recycling business.」（https://en.yna.co.kr/view/AEN20240312004700320・3回目）
+  - 「Singapore-based Total Environment Solution (TES) has signed a memorandum of understanding with Sumitomo Mitsui Finance and Leasing Company (SMFL) and its affiliate SMFL Rental Co. to jointly proceed with used battery recycling projects in Japan, SK Ecoplant said in a statement.」（https://en.yna.co.kr/view/AEN20240312004700320・3回目）
+  - 「The company expects a combination of TES' advanced battery recycling technologies and the two Japanese firms' sales networks and financial capabilities will help secure used batteries from local electric vehicle and battery makers.」（https://en.yna.co.kr/view/AEN20240312004700320・3回目）
+  - 「The three companies are planning to build a battery recycling plant in Japan if they secure a stable amount of used batteries and establish sales networks, the statement said.」（https://en.yna.co.kr/view/AEN20240312004700320・3回目）
+  - 「This photo taken March 11, 2024, and provided by SK Ecoplant shows (from L) Sumitomo Mitsui Finance and Leasing Company (SMFL) CEO Hirotsugu Harada, Total Environment Solution CEO Terence Ng and SMFL CEO Masaki Tachibana after signing a memorandum of understanding at Sumitomo Mitsui Banking Corp. in Tokyo for partnership in the Japanese used battery recycling market. (PHOTO NOT FOR SALE) (Yonhap)」（https://en.yna.co.kr/view/AEN20240312004700320・3回目）
+  - 「SK Ecoplant unit, Japanese firms sign MOU for used battery recycling」（https://en.yna.co.kr/view/AEN20240312004700320・3回目）
+- 規模・親会社：
+  - 「SK Ecoplant Materialsは、4つの子会社を基盤に、フォトレジスト材料、プリカーサー、エッチングガス、パッケージング材料などの半導体向け主要材料に加え、OLED（有機EL）分野で最も開発難易度が高いとされるブルードーパント材料の開発・製造を手掛ける企業グループです」（https://www.furukawaelectric.com/release/2026/comp_20261028.html・3回目）
+  - 「EcoPlant Revenue 2024: $10.2M Est., $9.7M Raised」（https://getlatka.com/companies/ecoplant・3回目）
+  - 「EcoPlant has not published its revenue. GetLatka estimates it at about $10.2M a year (October 2024).」（https://getlatka.com/companies/ecoplant・3回目）
+  - 「All 3 revenue readings, with sources」（https://getlatka.com/companies/ecoplant・3回目）
+  - 「EcoPlant CEO, founders & employees」（https://getlatka.com/companies/ecoplant・3回目）
+  - 「Aviran Yaacov founded EcoPlant in 2016 and runs it as CEO. EcoPlant had 59 employees (December 2024, LinkedIn), up from 37 a year earlier.」（https://getlatka.com/companies/ecoplant・3回目）
+  - 「What is EcoPlant's revenue?」（https://getlatka.com/companies/ecoplant・3回目）
+  - 「GetLatka estimates EcoPlant's revenue at about」（https://getlatka.com/companies/ecoplant・3回目）
+  - 「How many employees does EcoPlant have?」（https://getlatka.com/companies/ecoplant・3回目）
+  - 「employees in December 2024, according to LinkedIn.」（https://getlatka.com/companies/ecoplant・3回目）
+  - 「Companies with revenue over 50M」（https://getlatka.com/companies/ecoplant・3回目）
+  - 「Large teams with 100+ employees」（https://getlatka.com/companies/ecoplant・3回目）
+- 検索結果の抜粋：
+  - 「ECOPLANT ～製造業におけるカーボンニュートラルへの道～ ガードナー... — Oct 31, 2025 · ガードナー・デンバーのECOPLANT ～製造業におけるカーボンニュートラルへの道～の技術や価格情報などをご紹介。 当社インテリジェンス「ECOPLANT」による圧縮空気 (コンプレッションエアー)機器の大幅なエネルギー効率の最適化を実現！」（https://mono.ipros.com/product/detail/2001554230/・3回目）
+  - 「SK Ecoplant Materialsと古河電工 高機能材料事業における業務提携覚... — Oct 28, 2026 · SK Ecoplant Materialsと古河電気工業株式会社は、半導体およびAIデータセンタ市場を中心とした高機能材料事業の拡大を推進するため、半導体およびAIデータセンタ向け材料事業協力に関する業務提携覚書（MOU）を締結しました。」（https://www.furukawaelectric.com/release/2026/comp_20261028.html・3回目）
+  - 「AI Air Compressor Optimization | Energy Platform | EcoPlant — There's no need to put your production on pause or impact your bottom line to get started with Ecoplant. Our integrated platform takes less than a week to get up-and-running, with an affordable capital investment, no installation fee, and no system downtime to slow you down.」（https://www.ecoplant.com/・3回目）
+  - 「SK Ecoplant unit, Japanese firms sign MOU for used battery ... — Mar 12, 2024 · Singapore-based Total Environment Solution (TES) has signed a memorandum of understanding with Sumitomo Mitsui Finance and Leasing Company (SMFL) and its affiliate SMFL Rental Co. to jointly proceed with used battery recycling projects in Japan, SK Ecoplant said in a statement.」（https://en.yna.co.kr/view/AEN20240312004700320・3回目）
+  - 「産業廃棄物処理装置「省エネ・環境・資源利用プラント」 — 今後さらに増大する産業廃棄物の増加に伴い、豊富な実績と技術を組合せ地球資源と 環境の保全ための各種の産業廃棄物処理装置を提供していきます。 産業廃棄物処理装置はメイセーにご用命ください。 ecoplant 各種プラント設計・施工」（https://ecoplant.jp/engineer.html・3回目）
+  - 「Contact for Every Location | EcoPlant — By clicking 'Send' you are authorizing Ecoplant to contact you so that we may fulfill your request, as well as to communicate with you regarding our products and services.」（https://www.ecoplant.com/en/contact/・3回目）
+  - 「AI Air Compressor Optimization | Energy Platform | EcoPlant — Optimize compressed air systems with AI-driven monitoring and control. Reduce energy costs, prevent downtime, and improve reliability with EcoPlant.」（https://www.ecoplant.com/・3回目）
+  - 「Home – EcoPlant — About EcoPlant® NewTech Advance Material Company Limited is a startup company established by Wingram. EcoPlant® is trademarked registered by the company in the United States, European Union, United Kingdom, China, Japan, Taiwan, and Hong Kong.」（https://ecoplant.tech/・3回目）
+  - 「ECOPLANT Map - Japan - Mapcarta — Nakatajima Sand Dunes are located at the southern part of Hamamatsu, Shizuoka Prefecture at the Pacific Ocean coast of Japan. Nakatajima Dunes is situated 3 km east of ECOPLANT.」（https://mapcarta.com/W1037995748・3回目）
+  - 「SK ecoplant materials — SK resonac develops and produces etching gases that form fine and uniform circuits in semiconductors. SK ecoplant materials and Japan's Resonac have come together to localize difficult etching gas production and have improved the perfection of challenging semiconductor processes.」（https://www.sk-materials.com/new/eng/・3回目）
+  - 「Case Studies | Energy Savings & ROI Results | EcoPlant — Fill updated metaExplore real-world EcoPlant case studies showing reduced energy costs, improved uptime, and measurable ROI in industrial operations.」（https://www.ecoplant.com/case-studies/・3回目）
+  - 「Ecoplant — In 2019, the Ecoplant team was contacted by a US-based detergent manufacturer looking to improve its compressed air system energy efficiency, as well as increasing system reliability to maintain full production at their busy site.」（https://ecoplant.com/case-studies/ecolab・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）
+- 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）
+
+## Edencaremedical
+- 公式URL：https://www.edencaremedical.com/（given）
+- 創業年度：Founded：2021（https://startupintros.com/orgs/eden-care・3回目）
+- 株主：01-Sep-2023    Completed Generating Revenue（https://pitchbook.com/profiles/company/510847-12・3回目）
+- 株主：15-Mar-2023    Completed Generating Revenue（https://pitchbook.com/profiles/company/510847-12・3回目）
+- 株主：02-Mar-2022    Completed Generating Revenue（https://pitchbook.com/profiles/company/510847-12・3回目）
+- 所在地：Nairobi, Kenya（https://startupintros.com/orgs/eden-care・3回目）
+- 採用・広告の製品：
+  - 「We’ve re-imagined health insurance from the ground up to offer a digital-based experience with a focus on prevention—one that works to save both time and money. See what that means for you.」（https://www.edencaremedical.com/・1回目）
+  - 「Our insurance and wellness products incentivize members to take charge of their health and care needs via our hassle-free, paperwork-free app. Customers and partners love our healthier way of working. Think 100% digital signups, online customer quotes in minutes, and partner payments sent on a schedule customized for each practice. That’s just for starters」（https://www.edencaremedical.com/・1回目）
+  - 「Incentivizes and rewards members to keep tabs on their mental and physical health and take steps to improve their wellbeing.」（https://www.edencaremedical.com/・1回目）
+  - 「From paper-free online signup and management to customized plans and processes, we’ve spent a lot of time designing how we work to save you time and hassle.」（https://www.edencaremedical.com/・1回目）
+  - 「Our ProActiv health and wellness programs work to improve employees' mental and physical wellbeing for increased productivity and reduced absenteeism.」（https://www.edencaremedical.com/・1回目）
+  - 「From helping you find a provider and set up an appointment right within our app, to online bill submission, to wellness coaching and proactive testing, we make being as healthy and happy as you can be as easy as it can be.」（https://www.edencaremedical.com/・1回目）
+  - 「650+ Trusted Providers」（https://www.edencaremedical.com/・1回目）
+  - 「We’ve curated a network of trusted healthcare professionals and wellness experts, the best in their respective fields, so you can feel confident in the care you receive.」（https://www.edencaremedical.com/・1回目）
+  - 「Like finding a provider and setting up appointments, our billing is digital too. Unless you prefer paper, of course. We work that way too.」（https://www.edencaremedical.com/・1回目）
+  - 「We work hard to make working with us easier at every turn. Our goal is to enable you provide fantastic care without the headaches and hassles typically associated with the backend of insurance.」（https://www.edencaremedical.com/・1回目）
+  - 「Whatever works with your books and internal processes—within a few days of treatment, weekly, or monthly—we’ll pay you that way.」（https://www.edencaremedical.com/・1回目）
+  - 「With the latest on your specific plan and situation via our digital portal and above-and-beyond training, our team gets you solid, actionable answers」（https://www.edencaremedical.com/・1回目）
+- 製造業の実績：
+  - 「Trusted by more than 23,000+ Lives」（https://www.edencaremedical.com/・1回目）
+  - 「Trusted by over 850+ Service Providers」（https://www.edencaremedical.com/partners/clinical・1回目）
+  - 「Internal and external surgical implants and joint replacements (excluding dental fixtures)」（https://www.edencaremedical.com/products/health-insurance・1回目）
+  - 「Trusted by over 850+ Service Providers」（https://www.edencaremedical.com/clients/members-and-dependents・1回目）
+- 規模・親会社：
+  - 「Our ProActiv health and wellness programs work to improve employees' mental and physical wellbeing for increased productivity and reduced absenteeism.」（https://www.edencaremedical.com/・1回目）
+  - 「We don’t offer packages. We offer plans put together around your employees’ specific needs and the wishes you have for your insurance offering.」（https://www.edencaremedical.com/・1回目）
+  - 「Foster collaboration without barriers. See possibilities over limitations」（https://www.edencaremedical.com/company/about・1回目）
+  - 「Our diverse and dynamic team is dedicated to creating a meaningful impact in the lives of individuals every day. As a part of the Eden Care community, you will have the opportunity to grow professionally, make a difference, and contribute to a collaborative environment that values innovation and compassion. Join us in this fulfilling journey of empowering lives and building a brighter tomorrow.」（https://www.edencaremedical.com/company/careers・1回目）
+  - 「“I love Eden Care because it is a place where your voice is heard, regardless of how small you may think your ideas are. they are valued for their potential to contribute to the company's mission of building better products. this sense of empowerment comes from being an integral part of the ongoing enhancement of our products and the overall growth of the business.”」（https://www.edencaremedical.com/company/careers・1回目）
+  - 「Eden Care Revenue 2024: $4.2M Est.」（https://getlatka.com/companies/edencaremedical.com・3回目）
+  - 「Eden Care has not published its revenue. GetLatka estimates it at about $4.2M a year (June 2024).」（https://getlatka.com/companies/edencaremedical.com・3回目）
+  - 「Eden Care CEO, founders & employees」（https://getlatka.com/companies/edencaremedical.com・3回目）
+  - 「Moses Mukundi founded Eden Care in 2021 and runs it as CEO. Eden Care had 28 employees (June 2024, LinkedIn).」（https://getlatka.com/companies/edencaremedical.com・3回目）
+  - 「What is Eden Care's revenue?」（https://getlatka.com/companies/edencaremedical.com・3回目）
+  - 「GetLatka estimates Eden Care's revenue at about」（https://getlatka.com/companies/edencaremedical.com・3回目）
+  - 「How many employees does Eden Care have?」（https://getlatka.com/companies/edencaremedical.com・3回目）
+- 連絡先：
+  - 「If you’re working, we are too. Help is available via phone, email, or text message from early mornings to (very) late at night.」（https://www.edencaremedical.com/・1回目）
+  - 「Connect to a real person via our web chat or phone or email us. We’re here to help」（https://www.edencaremedical.com/・1回目）
+  - 「We’re here 24/7 to help guide and support you via live-human online chat, phone, email or FAQs.」（https://www.edencaremedical.com/products/health-insurance・1回目）
+  - 「Connect to a real person via our web chat or phone or email us. We’re here to help」（https://www.edencaremedical.com/products/health-insurance・1回目）
+  - 「Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.」（https://pitchbook.com/profiles/company/510847-12・3回目）
+- 検索結果の抜粋：
+  - 「Eden Care Medical | Health Insurance company — Eden Care offers tailored group health insurance plans for SMEs and corporates in Rwanda. Our digital solutions and 'ProActiv' wellness app ensure seamless healthcare experiences」（https://www.edencaremedical.com/・3回目）
+  - 「デジタルヘルスケア開発・導入加速化事業（令和7年度終了） | 国立研...「Suica Renaissance」 第6弾~2028年春からウォークスルー改札を本格...JR東日本、ウォークスルー改札を2028年春に本格導入 山手線全駅など40...Eden Care Medical | Health Insurance company導入実績（医療システム）｜ファインデックス — デジタルヘルスケア開発・導入加速化事業（令和7年度終了） デジタルヘルスケア開発・導入加速化事業（令和7年度終了） 基本情報 ... 概要 世界の医療機器市場は他産業と比べても高い成長率を示しており2027年までに約6543億ドルに達すると予想されてい ... 12 hours ago · ~2028年春からウォークスルー改札を本格導入~ 〇 JR 東日本グループは、グループ経営ビジョン「勇翔2034 」に掲げる」（https://www.amed.go.jp/program/list/12/01/017.html・3回目）
+  - 「Onboarding Portal - uat.portal.onboard.edencaremedical.com — Web site created using create-react-app」（https://uat.portal.onboard.edencaremedical.com/login・3回目）
+  - 「Eden Care Medical - Provider Portal — Employer Portal | Eden Care」（https://portal.provider.edencaremedical.com/・3回目）
+  - 「Eden Care Medical: Company Profile, Funding & Investors — Oct 11, 2026 · Eden Care Medical is a Health Care, Insurance and MedTech company based in Kigali, Rwanda, founded in 2021. It has raised $500K across 3 rounds.」（https://www.startuplist.africa/startups/eden-care-medical・3回目）
+  - 「Eden Care 2026 Company Profile: Valuation, Funding ...Eden Care: Funding, Team & Investors | Startup IntrosEden Care — Company Profile & Funding | Indexed.vcEden Care Medical — Company Profile, Funding & Investors — Eden Care has 58 total employees. What industry is Eden Care in? Eden Care’s primary industry is Managed Care. Is Eden Care a private or public company? Eden Care is a Private company.」（https://pitchbook.com/profiles/company/510847-12・3回目）
+  - 「Eden Care — Company Profile & Funding | Indexed.vc — Digital health insurance for employers in Africa Nairobi, Kenya · Founded 2021 · $500K raised Fintech Healthcare Insurance YC S23 Headquarters Nairobi Employees 11–50 Founded 2021 Website edencaremedical.com Total Funding $500K Last Round $500K Pre-SeedJun 2023 Rounds 2」（https://indexed.vc/companies/edencaremedical・3回目）
+- 従業員数：記載なし（3回確認済み：公式9頁／PDF・画像4件／外部32頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式9頁／PDF・画像4件／外部32頁・検索12回）
+- 料金：記載なし（3回確認済み：公式9頁／PDF・画像4件／外部32頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式9頁／PDF・画像4件／外部32頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式9頁／PDF・画像4件／外部32頁・検索12回）
+
+## Edenfarm
+- 公式URL：https://www.edenfarm.id（given）
+- 株主：14-Aug-2019    Completed Generating Revenue（https://pitchbook.com/profiles/company/279382-96・3回目）
+- 株主：01-Nov-2018 $20K $20K  Completed Startup（https://pitchbook.com/profiles/company/279382-96・3回目）
+- 採用・広告の製品：
+  - 「EdenFarm 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook」（https://pitchbook.com/profiles/company/279382-96・3回目）
+  - 「Provider of farm product distribution services intended to build a global food distribution system by eliminating middlemen.」（https://pitchbook.com/profiles/company/279382-96・3回目）
+  - 「Provider of farm product distribution services intended to build a global food distribution system by eliminating middlemen. The company's services involve connecting farmers directly with business owners to facilitate the delivery of fresh vegetables and farm produce to restaurants, enabling farmers to earn a better margin of return for their products.」（https://pitchbook.com/profiles/company/279382-96・3回目）
+  - 「Want to dig into this profile?」（https://pitchbook.com/profiles/company/279382-96・3回目）
+  - 「PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.」（https://pitchbook.com/profiles/company/279382-96・3回目）
+  - 「EdenFarm’s primary industry is Other Commercial Services.」（https://pitchbook.com/profiles/company/279382-96・3回目）
+  - 「Is EdenFarm a private or public company?」（https://pitchbook.com/profiles/company/279382-96・3回目）
+  - 「EdenFarm is a Private company.」（https://pitchbook.com/profiles/company/279382-96・3回目）
+  - 「Opt out of sale of personal data and targeted advertising」（https://pitchbook.com/profiles/company/279382-96・3回目）
+  - 「Manage Consent Preferences」（https://pitchbook.com/profiles/company/279382-96・3回目）
+  - 「Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.」（https://pitchbook.com/profiles/company/279382-96・3回目）
+  - 「Eden Farm has raised $48.2M across 4 funding rounds. Most recently, it raised $13.5M EdenFarm Indonesia - Pre-Series B in January 2023.」（https://startupintros.com/orgs/eden-farm・3回目）
+- 製造業の実績：
+  - 「Named "Eden Farm" with the intention of returning the Earth to its original state, Eden Farm aims to build an ecosystem that coexists with humans by utilizing the characteristics of plants through pesticide-free natural farming, and by allowing multiple species, including those naturally inhabiting the land, to compete and coexist.」（https://note.com/theedenfarm/n/nd9e70722b59e?hl=en・3回目）
+  - 「Conventional agriculture involves tilling fields to plant seeds every year, and after planting, applying chemical fertilizers, herbicides, and insecticides. Pesticides such as chemical fertilizers, herbicides, and insecticides flow from the soil into groundwater, rivers, and the ocean, destroying marine ecosystems.」（https://note.com/theedenfarm/n/nd9e70722b59e?hl=en・3回目）
+  - 「70% of the world's plants rely on insects like honeybees for pollination, but monoculture, especially in mass production, drastically reduces insect populations and makes crops more susceptible to pests.」（https://note.com/theedenfarm/n/nd9e70722b59e?hl=en・3回目）
+  - 「The Earth's mechanism is for plants to absorb CO2 released by animals and store it in the Earth as carbon. However, the current Earth has lost 50% of its forests, reducing its ability to store carbon underground. To increase the Earth's carbon storage capacity, farming methods that cover the ground with plants are necessary.」（https://note.com/theedenfarm/n/nd9e70722b59e?hl=en・3回目）
+  - 「Surprised by the one-sentence email that felt like a message from God, I prepared about 70 types of vegetable, herb, and flower seeds, as well as fruit trees, to start the farm. Then, on March 26, 2017, I planted them on the 100 square meters of land provided. Thinking that this farm was just like the Garden of Eden that God the Creator made on this Earth, I named it "Eden Farm."」（https://note.com/theedenfarm/n/nd9e70722b59e?hl=en・3回目）
+  - 「At Eden Farm, I planted about 70 types of seeds, and they bore an astonishing amount of fruit. Since the water was only natural rain and no fertilizer was given, it could only be God's grace. Because so many vegetables were harvested, I gave vegetables and herbs to people as gifts.」（https://note.com/theedenfarm/n/nd9e70722b59e?hl=en・3回目）
+  - 「Then God said, “Let the land produce vegetation: seed-bearing plants and trees on the land that bear fruit with seed in it, according to their various kinds.” And it was so.」（https://note.com/theedenfarm/n/na53721a85b85?hl=en・3回目）
+  - 「God said, “Let the land produce vegetation: seed-bearing plants and trees on the land that bear fruit with seed in it, according to their various kinds.” And it was so.」（https://note.com/theedenfarm/n/na53721a85b85?hl=en・3回目）
+- 再販・ホワイトラベル：
+  - 「ニュース | EdenFarm 化粧品OEM・ODM」（https://edencos.co.kr/ja/news・3回目）
+  - 「化粧品OEM・ODM製造専門企業EdenFarmが、2026年1月にヨーロッパのヴィーガン認証機関Expertise Végane Europe（EVE）のEVE VEGAN認証を…」（https://edencos.co.kr/ja/news・3回目）
+  - 「グローバル・輸出 | EdenFarm 化粧品OEM・ODM」（https://edencos.co.kr/ja/global・3回目）
+- 規模・親会社：
+  - 「EdenFarm 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook」（https://pitchbook.com/profiles/company/279382-96・3回目）
+  - 「9. Merger/Acquisition」（https://pitchbook.com/profiles/company/279382-96・3回目）
+  - 「EdenFarm has 550 total employees.」（https://pitchbook.com/profiles/company/279382-96・3回目）
+  - 「What is EdenFarm’s current revenue?」（https://pitchbook.com/profiles/company/279382-96・3回目）
+  - 「The current revenue for EdenFarm is」（https://pitchbook.com/profiles/company/279382-96・3回目）
+  - 「When was EdenFarm acquired?」（https://pitchbook.com/profiles/company/279382-96・3回目）
+  - 「EdenFarm was acquired on 29-Feb-2024.」（https://pitchbook.com/profiles/company/279382-96・3回目）
+  - 「Who acquired EdenFarm?」（https://pitchbook.com/profiles/company/279382-96・3回目）
+  - 「EdenFarm was acquired by」（https://pitchbook.com/profiles/company/279382-96・3回目）
+- 連絡先：
+  - 「Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.」（https://pitchbook.com/profiles/company/279382-96・3回目）
+  - 「Then, the next day, I received an email from my father.」（https://note.com/theedenfarm/n/nd9e70722b59e?hl=en・3回目）
+  - 「Surprised by the one-sentence email that felt like a message from God, I prepared about 70 types of vegetable, herb, and flower seeds, as well as fruit trees, to start the farm. Then, on March 26, 2017, I planted them on the 100 square meters of land provided. Thinking that this farm was just like the Garden of Eden that God the Creator made on this Earth, I named it "Eden Farm."」（https://note.com/theedenfarm/n/nd9e70722b59e?hl=en・3回目）
+- 検索結果の抜粋：
+  - 「ニュース | EdenFarm 化粧品OEM・ODM — Jul 7, 2026 · 1トンホモミキサー導入で生産設備を拡充 EdenFarmがWoowonの1トンホモミキサーを新たに導入し、生産設備を拡充した。 1トンホモミキサーは、高粘度製剤や精密乳化工程に幅広く対応する設備で、大量生産時の品質均一性… 2025-11-19 ニュース」（https://edencos.co.kr/ja/news・3回目）
+  - 「Indonesian agritech startup EdenFarm pivots, lays off 300 ...中国物流ロボット、日本で導入拡大 トヨタやコマツも採用、人手不足が...【エミュレーター最新情報】2026年Switchエミュ最高はEdenかRyubingか... — Sep 26, 2023 · EdenFarm, an Indonesian agritech startup, has laid off employees after deciding to “remodel the business,” the company confirmed to Tech in Asia. Sep 28, 2026 · 同社によると、製品はトヨタ自動車や住友、コマツなどの日本企業で導入され、自動車や化学、機械製造などの分野で使われている。 今年の日本市場での販売台数は100」（https://www.techinasia.com/indonesian-agritech-startup-edenfarm-pivots-lays-employees・3回目）
+  - 「グローバル・輸出 | EdenFarm 化粧品OEM・ODM — OEM · ODM · EXPORT グローバル・輸出 ホーム OEM·ODM / グローバル・輸出 プロセス グローバル・輸出 導入企業 よくある質問 直接輸出国・地域 7 取引先の輸出国数 59 + 国際認証 3」（https://edencos.co.kr/ja/global・3回目）
+  - 「Vision – エデン農園 - edenfarm.jp — エデン農園ビジョンは、エデン農園を拡張し、沢山の人々が創造主である神様が与えてくださる恵みを体験し、祝福を分かち合うことです。 エデン農園の拡張 エデン農園から600m圏内に3箇所ある農地、合わせて2,500㎡を無農薬の自然農を始めたい方に区画に分けてレンタルしたり、または共同で ...」（https://edenfarm.jp/vision/・3回目）
+  - 「EdenFarm - Exhibitor Details — EdenFarm is a cosmetics OEM and ODM manufacturer specializing in skincare, cleansing, hair, and body care products. With an in house R&D center and stable manufacturing infrastructure, we provide customized product development solutions tailored to global market trends.」（https://www.medical-jpn.jp/tokyo/en-gb/search/mj-tokyo202610/directory/directory-details.org-7f0b720a-d888-4692-aca4-68df77711d62.html・3回目）
+  - 「Shop – エデン農園 - edenfarm.jp — Oct 25, 2026 · エデン農園のハーブティー、フレッシュリース、ドライハーブなどエデン農園オリジナルアイテムのご購入、薬膳教室やワークショップのお申込みはこちらからお願いいたします。 なお、商品の配送は、日本国内のみ、一律1点ご購入につき650円。 2点以降は追加送料500円とさせていただいております。 2026/10/25-30は、中国北京の薬膳研修旅行のため不在となりますため、その間にご注文、お申込みいただきましたご返答は、10/31以降となります旨、ご了承願います。 エデン農園は登録商標です。」（https://edenfarm.jp/shop/・3回目）
+  - 「Vision – エデン農園 - edenfarm.jp — エデン農園とNoah’s Gardenが、この地とここに集う人々に永遠の幸せと祝福をもたらすよう祈りつつ一歩一歩進めています。」（https://edenfarm.jp/vision/・3回目）
+  - 「Join – エデン農園 - edenfarm.jp — エデン農園では、様々な コミュニティの場 、ボランティアでお手伝いしてくださる フレンズ 、エデン農園とコラボしてイベントやワークショップをしてくださる コラボレーター 、無農薬の自然農体験プログラムや様々なワークショップへの参加者、土地を借りて無農薬の自然農に取り組んでくださる パートナー 、エデン農園の商品を購入してくださる サポーター などを募集しています。 詳しくは、DMにてお問合せください。 ・ 自然農を実践する方や自然農にチャレンジしたい方のコミュニティの場. ・ 自然療法を実践する方や自然療法に興味がある方のコミュニティの場. ・ 地域の祈り会（LOCAL HOUSE OF PRAYER） ・ バイブルスタディー.」（https://edenfarm.jp/join/・3回目）
+  - 「Eden Farm School | earthembassy — The school also offers internship opportunities for international university students to work in Japan and particpate in the school's: - planning process - seeding and planting schedules - organic pest control - natural mulching - harvesting and drying techniques - rain water collection systems」（https://www.earthembassy.org/eden-farm-school・3回目）
+  - 「EdenFarm 2026 Company Profile: Valuation, Investors ...Eden Farm - 2025 Company Profile, Team, Funding ... - TracxnEden Farm — venture-backed company profile | DealroomEden Farm – Revenue, Valuation & Top Competitors – 2026Eden Farm: Funding, Team & Investors | Startup IntrosEden Farm - 2026 Company Profile, Team, Funding ... - TracxnEden Farm Funding History: $34.2M | Indexed.vc — Information on 」（https://pitchbook.com/profiles/company/279382-96・3回目）
+  - 「Eden Farm - 2025 Company Profile, Team, Funding ... - Tracxn — Sep 3, 2021 · Eden Farm is a series A company based in West Jakarta (Indonesia), founded in 2017 by Ramavito Mountaino, David Gunawan and Febrianto Gamal. It operates as an App-based business-to-business marketplace offering fruits and vegetables from farms.」（https://tracxn.com/d/companies/eden-farm/__B3BnOF-uHz8SKmujLcH0HxCmIkkfv7_oPMo-ybnChVg・3回目）
+  - 「Eden Farm – Revenue, Valuation & Top Competitors – 2026 — Discover Eden Farm's estimated revenue, valuation, funding history, employee data, and top competitors.」（https://compworth.com/company/eden-farm・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）
+
+## Eduflow
+- 公式URL：https://www.eduflow.com（given）
+- 株主：26-Dec-2017    Completed Generating Revenue（https://pitchbook.com/profiles/company/162712-36・3回目）
+- 株主：01-Feb-2017    Completed Generating Revenue（https://pitchbook.com/profiles/company/162712-36・3回目）
+- 採用・広告の製品：
+  - 「EduFlow is your AI-powered back-to-school companion, designed to streamline organization, boost motivation, and foster connection between students, parents, and teachers. It intelligently adapts to individual learning styles and workloads, providing personalized study schedules, assignment breakdowns, and progress tracking to ensure a successful academic year.」（https://edu-flow.app/Home・3回目）
+  - 「From first lead to final enrollment — leads, counselors, students, universities, applications, documents and payments running in one connected system. Connected workflows. Better visibility. Smarter agency operations.」（https://eduflow.fyi/・3回目）
+  - 「Eduflow was built by AI Factory with study abroad consultancies — not adapted from a generic CRM. Leads, counselors, students, universities, applications, documents and payments finally share one connected system.」（https://eduflow.fyi/・3回目）
+  - 「Allot leads to counselors the moment they arrive, with follow-up timelines and status management can see at a glance.」（https://eduflow.fyi/・3回目）
+  - 「Personal details, academics, assigned counselor, documents and payments live on one profile that travels the whole journey.」（https://eduflow.fyi/・3回目）
+  - 「University research, deadlines, document status and interview prep tracked in the workspace your team already works in.」（https://eduflow.fyi/・3回目）
+  - 「Leads with a clear next action」（https://eduflow.fyi/・3回目）
+  - 「Scroll to follow how a single lead travels through Eduflow — nothing handed off in spreadsheets, nothing lost between teams.」（https://eduflow.fyi/・3回目）
+  - 「Profile, academics, journey」（https://eduflow.fyi/・3回目）
+  - 「Programs matched to profile」（https://eduflow.fyi/・3回目）
+  - 「AI mock interviews with voice」（https://eduflow.fyi/・3回目）
+  - 「One connected workspace for leads, counselors, students, applications, payments and reporting.」（https://eduflow.fyi/・3回目）
+- 製造業の実績：
+  - 「Eduflow — by AI Factory」（https://eduflow.fyi/・3回目）
+  - 「Eduflow was built by AI Factory with study abroad consultancies — not adapted from a generic CRM. Leads, counselors, students, universities, applications, documents and payments finally share one connected system.」（https://eduflow.fyi/・3回目）
+  - 「Trusted by agencies that move fast」（https://eduflow.fyi/・3回目）
+  - 「EduFlow Academic ERP | BuildWithLami Case Study」（https://www.buildwithlami.com/projects/eduflow-academic-erp・3回目）
+  - 「Case study: Eduflow’s pivots from Peergrade to Multiverse」（https://www.productforlearning.com/p/case-study-eduflows-pivots-from-peergrade・3回目）
+  - 「This week a great case study on EdTech pivots. We’re also hosting another online meetup on Tues 15 October, 4pm BST.」（https://www.productforlearning.com/p/case-study-eduflows-pivots-from-peergrade・3回目）
+  - 「This case study appears in my programme on」（https://www.productforlearning.com/p/case-study-eduflows-pivots-from-peergrade・3回目）
+  - 「EduFlow Learning Consortium case study | Codytics」（https://www.codytics.com/case-studies/eduverse-learning-platform・3回目）
+  - 「Global ⌘+K keystroke switcher lets operators execute core actions, query records, and split displays without taking their hands off the keyboard.」（https://www.codytics.com/case-studies/eduverse-learning-platform・3回目）
+- 再販・ホワイトラベル：
+  - 「Eduflow — The Operating System for Study Abroad Agencies」（https://eduflow.fyi/・3回目）
+  - 「Study Abroad Agencies」（https://eduflow.fyi/・3回目）
+  - 「Trusted by agencies that move fast」（https://eduflow.fyi/・3回目）
+  - 「For agencies that want Eduflow up and running quickly.」（https://eduflow.fyi/・3回目）
+  - 「Study abroad consultancies and education agencies that manage leads, counselors, students, applications, and payments across one or many branches.」（https://eduflow.fyi/・3回目）
+- 規模・親会社：
+  - 「Allot leads to counselors the moment they arrive, with follow-up timelines and status management can see at a glance.」（https://eduflow.fyi/・3回目）
+  - 「The AI mock interview is what students talk about. They arrive at visa interviews genuinely rehearsed.」（https://eduflow.fyi/・3回目）
+  - 「Parent notifications on boarding and arrival.」（https://www.eduflowsol.com/・3回目）
+  - 「Live revenue & retention dashboards」（https://edu-flow.net/・3回目）
+  - 「Monthly Revenue (GHS)」（https://edu-flow.net/・3回目）
+  - 「4. Revenue Automation」（https://edu-flow.net/・3回目）
+  - 「Add your organization details, choose the words your team already uses, and decide who can see or change each part of the system.」（https://edu-flow.net/・3回目）
+  - 「How Eduflow began life as a peer grading solution, pivoted into the bigger LMS market and was then acquired by Multiverse.」（https://www.productforlearning.com/p/case-study-eduflows-pivots-from-peergrade・3回目）
+  - 「Multiverse acquired Eduflow」（https://www.productforlearning.com/p/case-study-eduflows-pivots-from-peergrade・3回目）
+  - 「He carried on and did the same with other universities in Denmark. He realised that he had the perfect opportunity for a cold outreach: “Hey, I'm David. I'm a PhD student at DTU. I'm doing this research project on peer review. Can I kind of come and talk to you about it?”」（https://www.productforlearning.com/p/case-study-eduflows-pivots-from-peergrade・3回目）
+  - 「It was then that they started to get their first acquisition offers.」（https://www.productforlearning.com/p/case-study-eduflows-pivots-from-peergrade・3回目）
+  - 「“We had gotten no acquisition offers for the first six years or so. That was not really a thing that happened to us. But we said, if an acquisition offer comes up, we're going to take the conversation,” he remembers. “And then we had the first two conversations in 2022.”」（https://www.productforlearning.com/p/case-study-eduflows-pivots-from-peergrade・3回目）
+- 連絡先：
+  - 「SMS and email delivery」（https://edu-flow.net/・3回目）
+  - 「Priority email support」（https://edu-flow.net/・3回目）
+  - 「“Then, I went around the whole department. Then I wrote an email to the department heads of all the other departments, met with each of them and basically tried to sell a licence per department. Management and Economics was really easy. They really liked this entrepreneurial idea. And they had some very large courses.”」（https://www.productforlearning.com/p/case-study-eduflows-pivots-from-peergrade・3回目）
+  - 「Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.」（https://pitchbook.com/profiles/company/162712-36・3回目）
+- 検索結果の抜粋：
+  - 「Eduflowとは？ | 機能や料金、導入事例をご紹介【キャプテラ】 — Eduflowを実際に使用したユーザーのレビューから、製品の機能や価格、メリットデメリットをご覧いただけます。 類似製品との比較も簡単、ぴったりのSaaSが見つかるはず！」（https://www.capterra.jp/software/203228/eduflow・3回目）
+  - 「Home | EduFlow — EduFlow is your AI-powered back-to-school companion, designed to streamline organization, boost motivation, and foster connection between students, parents, and teachers.」（https://edu-flow.app/Home・3回目）
+  - 「EduFlow AI 教學平台 | LearnSys — EduFlow AI 教學平台 教學及評核工作空間，整合功課、教師回饋及學校文件庫，並連繫數學及英語學習模組。」（https://www.learnsys.org/solutions/eduflow-ai・3回目）
+  - 「Eduflow — The Operating System for Study Abroad Agencies — Eduflow is an end-to-end SaaS ERP for study abroad agencies — connecting leads, counselors, students, universities, applications, documents, payments and AI-powered interview preparation in one platform.」（https://eduflow.fyi/・3回目）
+  - 「EduFlow AI: Multi-Agent Assistant for Online Learning — This tool serves as a robust, production-ready multi-agent AI assistant specifically designed for the EduFlow online learning platform. It automates student queries, delivers course information, manages payments, and intelligently escalates complex requests to human instructors.」（https://mcpmarket.com/ja/server/eduflow・3回目）
+  - 「Log In - EduFlow — Welcome back to EduFlow. "Log in to seamlessly manage your institution, track performance, and empower your educators."」（https://www.eduflowlearning.com/login.html・3回目）
+  - 「Eduflow — Eduflow is a comprehensive educational institution management platform designed to simplify and streamline daily operations for schools, colleges, universities, training centers, and coaching institutes. Manage admissions, attendance, exams, and communication — all in one powerful platform.」（https://www.eduflowsol.com/・3回目）
+  - 「EduFlow - All-in-One Education Management Platform — EduFlow keeps the everyday work of running a school in one place: students, lessons, attendance, invoices, reminders, staff, and reports. EduFlow fits education businesses that need more structure than notebooks and spreadsheets, but do not want a heavy enterprise system.」（https://edu-flow.net/・3回目）
+  - 「Eduflow — Don't have an account? Forgot password?」（https://app.edu-flow.ai/・3回目）
+  - 「EduFlow Academic ERP | BuildWithLami Case Study — I developed EduFlow, a comprehensive ERP tailored for the Nigerian educational sector. I engineered a complex financial ledger system that manages installmental fee payments and an academic engine that automates WAEC-standard grading and position-based broad sheet generation.」（https://www.buildwithlami.com/projects/eduflow-academic-erp・3回目）
+  - 「Case study: Eduflow’s pivots from Peergrade to Multiverse — Oct 3, 2024 · “The next time I build a startup, I'm going to make sure - absolutely sure - that if I can build it, there will be a customer,” David Kofoed Wind is reflecting on his journey from Peergrade to Eduflow to joining Multiverse.」（https://www.productforlearning.com/p/case-study-eduflows-pivots-from-peergrade・3回目）
+  - 「EduFlow Adaptive AI Learning & Campus LMS — Case Study | Codytics — EduFlow Adaptive AI Learning & Campus LMS was engineered to address these gaps through a workflow-first approach. Codytics designed the platform to optimize the entire operational lifecycle from ingestion to delivery with clarity, resilience, and operational discipline.」（https://codytics.com/case-studies/eduverse-learning-platform・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）
+
+## Edurev
+- 公式URL：http://edurev.in（given）
+- 創業年度：Founded：2017（https://www.indianstartuptimes.com/startup-deep-dive/edurev-deep-dive/・3回目）
+- 株主：About $40K across 4 rounds per one database (other sources report between $40K and $260K; reports differ)（https://www.indianstartuptimes.com/startup-deep-dive/edurev-deep-dive/・3回目）
+- 所在地：Chandigarh（https://www.indianstartuptimes.com/startup-deep-dive/edurev-deep-dive/・3回目）
+- 採用・広告の製品：
+  - 「EduRev: Best Videos, Notes & Tests for Your Most Important Exams」（https://edurev.in/・1回目）
+  - 「From videos to notes to tests, providing all you need to learn and practice in one place」（https://edurev.in/・1回目）
+  - 「Study concise notes with relevant content to help you prepare for exams in the best way」（https://edurev.in/・1回目）
+  - 「Learn with carefully selected 100K+ videos & 250K+ notes to clear all your concepts.」（https://edurev.in/・1回目）
+  - 「See exactly why you lost marks and what to improve in your next session.」（https://edurev.in/・1回目）
+  - 「Study concise, relevant notes to prepare for exams in the best way」（https://edurev.in/・1回目）
+  - 「See exactly why you lost marks and what to improve in your next session」（https://edurev.in/・1回目）
+  - 「Learn with carefully selected 100K+ videos to clear all your concepts」（https://edurev.in/・1回目）
+  - 「EduRev is one of the top Ed-tech companies with the best education platform providing highest quality education at an affordable price so you can study what matters with the least amount of time,money and effort for all competitive exams and Classes 1-12. EduRev ranks as the best Online Tutoring Website in the top cities of India and other countries across the globe like Singapore, UAE, Kuwait etc」（https://edurev.in/・1回目）
+  - 「Our aim as an online learning platform is to make education accessible and affordable to everyone across the globe by providing free study material which contains notes,tests,docs and video lectures enabling the students to boost their exam preparation and self-study for a Personalized Learning experience.」（https://edurev.in/・1回目）
+  - 「We create personalized learning experiences for every type of learner. Our way of learning provides students a learning program where they can learn, engage and be excited about education. EduRev has the best teachers, technology and content providing a world class learning experience for each and every student.」（https://edurev.in/・1回目）
+  - 「The EduRev app and website is the best education platform for students. EduRev provides complete offline and online courses as a part of our learning program with free study material for online learning by online classes, self study and exam preparation by the best teachers which contain:」（https://edurev.in/・1回目）
+- 製造業の実績：
+  - 「Trusted by Millions of Students & Backed by」（https://edurev.in/・1回目）
+  - 「Education is the most important aspect of a person's life, so what better choice than EduRev which is trusted by 3.2 Crore+ users and has been awarded the best learning app by google. It is a self-study learning platform with access to free online learning and free study material」（https://edurev.in/・1回目）
+  - 「Trusted by 80 lakh+ users & awarded by Google as the best app for Learning. EduRev adds 10 new users each minute!」（https://apps.apple.com/jp/app/edurev-exam-preparation-app/id1529835494・3回目）
+- 規模・親会社：
+  - 「The EduRev app and website is the best education platform for students. EduRev provides complete offline and online courses as a part of our learning program with free study material for online learning by online classes, self study and exam preparation by the best teachers which contain:」（https://edurev.in/・1回目）
+  - 「Startup Deep Dive : EduRev — Raised an angel round in May 2020 with total funding of about $40K per one database; FY24 revenue just Rs 15.8 thousand」（https://www.indianstartuptimes.com/startup-deep-dive/edurev-deep-dive/・3回目）
+  - 「Was part of the first India batch of the Jaarvis Accelerator.」（https://www.indianstartuptimes.com/startup-deep-dive/edurev-deep-dive/・3回目）
+  - 「Headquarters is listed as Chandigarh by most sources; an older 2016 report calls it Gurgaon-based and others list Gurugram (reports differ).」（https://www.indianstartuptimes.com/startup-deep-dive/edurev-deep-dive/・3回目）
+  - 「2020: Part of Y Combinator W20 batch.」（https://www.indianstartuptimes.com/startup-deep-dive/edurev-deep-dive/・3回目）
+  - 「May 2020: Angel round; Anand Chandrasekaran listed as lead by one database.」（https://www.indianstartuptimes.com/startup-deep-dive/edurev-deep-dive/・3回目）
+  - 「Teachers, publishers and coaching institutes list courses on the platform on a revenue-sharing basis (200+ educators reported).」（https://www.indianstartuptimes.com/startup-deep-dive/edurev-deep-dive/・3回目）
+  - 「FY23: revenue Rs 44.2 thousand.」（https://www.indianstartuptimes.com/startup-deep-dive/edurev-deep-dive/・3回目）
+  - 「FY24: revenue Rs 15.8 thousand (down 64.3%), profit after tax about Rs 4.5 thousand.」（https://www.indianstartuptimes.com/startup-deep-dive/edurev-deep-dive/・3回目）
+  - 「FY25: profit after tax about -Rs 7.2 thousand (loss); revenue not stated; total assets about Rs 1.8 lakh.」（https://www.indianstartuptimes.com/startup-deep-dive/edurev-deep-dive/・3回目）
+  - 「2016 report: Rs 14 lakh cumulative revenue and 24 clients.」（https://www.indianstartuptimes.com/startup-deep-dive/edurev-deep-dive/・3回目）
+  - 「Listed as an industry benchmark startup.」（https://www.indianstartuptimes.com/startup-deep-dive/edurev-deep-dive/・3回目）
+- 連絡先：
+  - 「Your email address will not be published.」（https://www.indianstartuptimes.com/startup-deep-dive/edurev-deep-dive/・3回目）
+  - 「Save my name, email, and website in this browser for the next time I comment.」（https://www.indianstartuptimes.com/startup-deep-dive/edurev-deep-dive/・3回目）
+  - 「Notify me of follow-up comments by email.」（https://www.indianstartuptimes.com/startup-deep-dive/edurev-deep-dive/・3回目）
+  - 「Notify me of new posts by email.」（https://www.indianstartuptimes.com/startup-deep-dive/edurev-deep-dive/・3回目）
+  - 「Subscribe to our newsletter and we’ll send you the emails of latest posts.」（https://www.indianstartuptimes.com/startup-deep-dive/edurev-deep-dive/・3回目）
+- 検索結果の抜粋：
+  - 「EduRev: Best Videos, Notes & Tests for Your Most Important Exams — Overall, EduRev is a complete package for offline and online study for exam preparation and learning.」（https://edurev.in/・3回目）
+  - 「Courses for Japanese: Syllabus, Notes, MCQs for 2026 - EduRev — The Learn Japanese Language - Elementary Level Course on EduRev is a structured, beginner-friendly program designed to help learners build a solid foundation in Japanese from scratch.」（https://edurev.in/japanese-course・3回目）
+  - 「Best Japanese Study Material - Courses for Japanese ... - EduRev — Get all Japanese Courses EduRev, Japanese Previous Year Solved Question Papers with Best Videos, Notes and Tests for your Japanese Exams.」（https://edurev.in/explore/567/Japanese・3回目）
+  - 「EduRev」をApp StoreでJapanese revision notes | Best Japanese Courses | All SubjectsJapan - EduRev SearchJapanese videos lectures | Best Japanese Courses - EduRevEduRev: Best Videos, Notes & Tests for Your Most Important Exams — From providing 'best videos, notes & tests' to 'analyzing your progress' & 'solving your doubts', EduRev does it all for you. Prepare for UPSC, CAT, NEET, Class 1-12, IIT-JEE,」（https://apps.apple.com/jp/app/edurev/id1529835494・3回目）
+  - 「Japanese revision notes | Best Japanese Courses | All Subjects — Complete Japanese notes and study material on EduRev. Get topic-wise notes, revision guides, cheat-sheet and mindmaps for Japanese exam preparation.」（https://edurev.in/japanese-course/notes・3回目）
+  - 「Japan - EduRev Search — Best Videos, Notes & Tests for your Most Important Exams. Created by the Best Teachers and used by over 51,00,000 students. EduRev, the Education Revolution!」（https://edurev.in/search/Japan・3回目）
+  - 「Case Studies of Successful Manufacturing Businesses - EduRev — This document presents real-world case studies of Indian manufacturing businesses that have scaled successfully while maintaining compliance with regulatory frameworks.」（https://edurev.in/t/550093/business-basics-case-studies-successful-manufacturing・3回目）
+  - 「Case Studies - Business Environment - EduRev — Case Studies of Business Studies covers all the important topics, helping you prepare for the Commerce exam on EduRev. Start for free!」（https://edurev.in/t/81248/Case-Studies-Chapter-3-Environment-BST-Class-・3回目）
+  - 「EduRev - 2026 Company Profile, Team, Funding, Competitors ...EduRev 2026 Company Profile: Valuation, Funding & Investors ...EduRev: Revenue, Worth, Valuation & Competitors 2025EduRev Startup Deep Dive: Business Model, Funding, RisksEduRev: Funding, Team & Investors | Startup IntrosEduRev: Funding, Investors & Team (Nov 2026) | FundedIQEduRev - Overview, News & Similar companies | ZoomInfo.com — Ma」（https://tracxn.com/d/companies/edurev/__lsu4crinUuwrewmpet6pPoN7E0WPfLsw_jLwZkFWxnE・3回目）
+  - 「EduRev 2026 Company Profile: Valuation, Funding & Investors ...EduRev: Revenue, Worth, Valuation & Competitors 2025EduRev Startup Deep Dive: Business Model, Funding, RisksEduRev: Funding, Team & Investors | Startup IntrosEduRev: Funding, Investors & Team (Nov 2026) | FundedIQEduRev - Overview, News & Similar companies | ZoomInfo.com — Information on valuation, funding, cap tables, investors, and e」（https://pitchbook.com/profiles/company/117497-17・3回目）
+  - 「EduRev: Revenue, Worth, Valuation & Competitors 2025 — EduRev has an estimated revenue of $5.6M, and 50+ employees. Alternatives of EduRev are CampusLogic, Youth for Technology Foundation and Kenzie Academy.」（https://compworth.com/company/edurev・3回目）
+  - 「EduRev Startup Deep Dive: Business Model, Funding, Risks — Aug 9, 2026 · This Startup Deep Dive explains what EduRev does, how it makes money, who backs it, how it compares with rivals and what could go wrong, using publicly available information.」（https://www.indianstartuptimes.com/startup-deep-dive/edurev-deep-dive/・3回目）
+- 従業員数：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部27頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部27頁・検索12回）
+- 料金：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部27頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部27頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部27頁・検索12回）
+
+## Edwin
+- 公式URL：https://mybuddy.ai（given）
+- 採用・広告の製品：
+  - 「Buddy helps your child prepare for school」（https://buddy.ai/en/・1回目）
+  - 「Listening comprehension」（https://buddy.ai/en/・1回目）
+  - 「Buddy offers three programs」（https://buddy.ai/en/・1回目）
+  - 「Buddy’s approach combines the personalized attention of 1:1 live teaching with lessons plans developed using the latest educational strategies」（https://buddy.ai/en/・1回目）
+  - 「Buddy asks students to recall material from previous lessons, ensuring they retain new concepts in long-term memory.」（https://buddy.ai/en/・1回目）
+  - 「Once upon a time, long ago and far away (or perhaps not so long ago), teachers did not use fancy PowerPoint presentations, overhead projectors, or even chalkboards. They simply shared their knowledge through stories.」（https://buddy.ai/en/・1回目）
+  - 「Spaced repetition is an evidence-based learning technique that is usually performed with flashcards. Newly introduced and more difficult flashcards are shown more frequently, while older and less difficult flashcards are shown less frequently in order to exploit the psychological spacing effect. The use of spaced repetition has been proven to increase the rate of learning.」（https://buddy.ai/en/・1回目）
+  - 「He introduces new concepts using flashcards, 3D objects, animations, video fragments, and/or sounds. These effects do more than entertain—they reinforce key concepts for later recall.」（https://buddy.ai/en/・1回目）
+  - 「The child practices the new concepts through interactive exercises and conversational games.」（https://buddy.ai/en/・1回目）
+  - 「Giving my students enough speaking practice is a constant challenge. Buddy has been a huge help. He’s become an integral part of my teacher’s toolkit.」（https://buddy.ai/en/・1回目）
+  - 「Price. 13,200yen」（https://prtimes.jp/main/html/rd/p/000000126.000001799.html・3回目）
+  - 「Toggle the table of contents」（https://en.wikipedia.org/wiki/Edwin_(company)・3回目）
+- 製造業の実績：
+  - 「By the 1970s, EDWIN had established itself as a pioneer in denim manufacturing, experimenting with wash techniques in the EDWIN Wash House that impacted denim wash processes around the globe. Innovations included ONE WASH, a prewash process to eliminate shrinkage prior to purchase, and OLD WASH, a precursor to」（https://en.wikipedia.org/wiki/Edwin_(company)・3回目）
+  - 「Industrial policy of Japan」（https://en.wikipedia.org/wiki/Edwin_(company)・3回目）
+  - 「Japan Automobile Manufacturers Association」（https://en.wikipedia.org/wiki/Edwin_(company)・3回目）
+  - 「This article about a Japanese manufacturing company-related topic is a」（https://en.wikipedia.org/wiki/Edwin_(company)・3回目）
+  - 「Manufacturing companies based in Tokyo」（https://en.wikipedia.org/wiki/Edwin_(company)・3回目）
+  - 「Japanese manufacturing company stubs」（https://en.wikipedia.org/wiki/Edwin_(company)・3回目）
+  - 「Subsequent directors, including Albert M. Craig (1983–1985) and Howard S. Hibbett (1985–1988), advanced resource-building initiatives amid Japan's export-driven economic ascent, where real GDP grew at an average annual rate of 4.3% from 1980 to 1989, outpacing most global peers through manufacturing efficiency and trade surpluses.」（https://grokipedia.com/page/edwin_o_reischauer_institute_of_japanese_studies・3回目）
+- 日本の担い手：
+  - 「から輸入し市場に提供していたが、1960年代に入り、日本で初めて独自の製法によりジーンズを製造・販売する」（https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%89%E3%82%A6%E3%82%A4%E3%83%B3・3回目）
+  - 「- 日本で初めてデニム生地を輸入し、国産初の」（https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%89%E3%82%A6%E3%82%A4%E3%83%B3・3回目）
+  - 「- 日本国内販売第1位となる」（https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%89%E3%82%A6%E3%82%A4%E3%83%B3・3回目）
+  - 「前ビル「ステーションガーデンタワー」に日本最大の旗艦店「エドウイン・デニム・ギャラクシー」がオープン」（https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%89%E3%82%A6%E3%82%A4%E3%83%B3・3回目）
+  - 「が起用され、「503」のCMでの日本語の歌「ゴーマリソン～」が流行語となる」（https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%89%E3%82%A6%E3%82%A4%E3%83%B3・3回目）
+  - 「J-WAVE TOKYO MORNING RADIO」（https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%89%E3%82%A6%E3%82%A4%E3%83%B3・3回目）
+  - 「. 日本経済新聞. 2010年8月24日」（https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%89%E3%82%A6%E3%82%A4%E3%83%B3・3回目）
+  - 「藤森徹『あの会社はこうして潰れた』日本経済新聞出版社、2017年4月10日初版、111-123頁、」（https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%89%E3%82%A6%E3%82%A4%E3%83%B3・3回目）
+  - 「. 株式会社エドウイン. 2013年12月16日」（https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%89%E3%82%A6%E3%82%A4%E3%83%B3・3回目）
+  - 「. 日本経済新聞. 2014年2月7日」（https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%89%E3%82%A6%E3%82%A4%E3%83%B3・3回目）
+  - 「. WWD JAPAN.COM. 2014年3月11日」（https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%89%E3%82%A6%E3%82%A4%E3%83%B3・3回目）
+  - 「. 伊藤忠商事株式会社. 2014年3月11日」（https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%89%E3%82%A6%E3%82%A4%E3%83%B3・3回目）
+- 規模・親会社：
+  - 「Foundational skills such as basic language acquisition, early numeracy, and social-emotional development, etc.」（https://buddy.ai/en/・1回目）
+  - 「Giving my students enough speaking practice is a constant challenge. Buddy has been a huge help. He’s become an integral part of my teacher’s toolkit.」（https://buddy.ai/en/・1回目）
+  - 「にある子会社「秋田ホーセ」4工場の閉鎖を決定（8月中旬までに生産終了）」（https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%89%E3%82%A6%E3%82%A4%E3%83%B3・3回目）
+  - 「エドウイン子会社の秋田ホーセ工場 商品開発担い再稼働へ」（https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%89%E3%82%A6%E3%82%A4%E3%83%B3・3回目）
+  - 「Its name comes from a creative rearrangement of the letters in the word "denim".」（https://en.wikipedia.org/wiki/Edwin_(company)・3回目）
+  - 「These initiatives prioritize rigorous, evidence-based scholarship over narrative-driven interpretations, fostering seminars, visiting scholar programs, and collaborations that integrate quantitative and qualitative data on topics like post-war economic growth and security partnerships.」（https://grokipedia.com/page/edwin_o_reischauer_institute_of_japanese_studies・3回目）
+  - 「It was renamed the Edwin O. Reischauer Institute of Japanese Studies in 1985 upon his retirement, honoring his legacy in prioritizing evidence-driven scholarship over narrative-driven interpretations of U.S.-Japan relations.」（https://grokipedia.com/page/edwin_o_reischauer_institute_of_japanese_studies・3回目）
+  - 「Initial activities centered on grants for archival acquisitions and interdisciplinary faculty engagement within Harvard's Faculty of Arts and Sciences, supported by university resources and Reischauer's advocacy for sustained investment in area studies.」（https://grokipedia.com/page/edwin_o_reischauer_institute_of_japanese_studies・3回目）
+  - 「Institute programming shifted toward seminars on structural reforms, alliance strengthening, and recovery metrics, such as reconstruction timelines and fiscal policy shifts, fostering research grounded in causal assessments of policy efficacy rather than unsubstantiated narratives.」（https://grokipedia.com/page/edwin_o_reischauer_institute_of_japanese_studies・3回目）
+  - 「Empirical tracking of Japan's defense posture, such as modest spending upticks from 0.9% of GDP in the early 2000s, informed institute-supported inquiries into causal factors like alliance dependencies and domestic political barriers to rearmament.」（https://grokipedia.com/page/edwin_o_reischauer_institute_of_japanese_studies・3回目）
+  - 「Digital initiatives gained prominence, with over a decade of efforts to digitize archival materials for enhanced accessibility, including the Japan Digital Research Center's projects on historical records that facilitate research into revisionist interpretations of events like wartime comfort women, prioritizing verifiable primary sources over contested narratives.」（https://grokipedia.com/page/edwin_o_reischauer_institute_of_japanese_studies・3回目）
+  - 「and Deanna T. Nardy's research on cultural narratives in postwar Japan.」（https://grokipedia.com/page/edwin_o_reischauer_institute_of_japanese_studies・3回目）
+- 連絡先：
+  - 「Sign up to receive emails about new products, sales, in-store events and more.」（https://edwin-northamerica.com/・3回目）
+- 検索結果の抜粋：
+  - 「【公式】EDWIN（エドウイン）ブランドサイト — 1961年に生まれた 日本発のジーンズブランド「エドウイン」。 当時は輸入品しかなかったが、 もっと日本人の体型にあう、 穿きやすいジーンズを自分たちの手で創ること、 この思いがジーンズメーカー「EDWIN」の 原点となる。 MORE」（https://edwin.co.jp/・3回目）
+  - 「ニッポンの青。EDWIN503がフルリニューアル。 | 株式会社エドウインの... — Jul 17, 2026 · エドウイン EDWIN 503 ジャパンデニム デニム ジーンズ 日本製 MADE IN JAPAN 定番 リニューアル 関連リンク https://edwin-mall.jp/shop/pages/503.aspx ダウンロード」（https://prtimes.jp/main/html/rd/p/000000126.000001799.html・3回目）
+  - 「EDWIN（エドウイン）とは？日本を代表するデニムブランドの歴史と魅力... — Jun 22, 2026 · 世界的に評価されるジャパンデニム文化を築き上げたブランドのひとつとして、その存在感は今後も変わることはないでしょう。 もし日本製デニムの魅力を体感したいのであれば、まずはEDWINを手に取ってみてはいかがでしょうか。」（https://note.com/docks_1989/n/n3fc315eb72c4・3回目）
+  - 「ニュース一覧 | ジーンズ、デニムのエドウイン（EDWIN）公式ブランド... — ジーンズ、デニムのエドウイン（EDWIN）公式ブランドサイトの「」ページです。 日本のジーンズブランドEDWIN（エドウイン）の公式サイト。 ブランド情報やショップ、イベント、ニュース情報、503やジャージーズなどの商品情報を掲載しています。」（https://edwin.co.jp/news/・3回目）
+  - 「エドウイン - Wikipedia — エドウインのジーンズの特徴として、ペーパー・ブラシを用いてジーンズにヒゲを出したり、シェービングを用いて全体的な色落ち加工を施したり、ほつれを出すなどのダメージ加工が挙げられる。デザインの特徴としては、ポケットのWのステッチ、EDWINロゴを大きく配した皮ラベルなどが挙げ ...」（https://ja.wikipedia.org/wiki/エドウイン・3回目）
+  - 「Edwin (company) - Wikipedia — Edwin Co. Ltd. (株式会社エドウイン stylized EDWIN) is a Japanese clothing brand founded in 1947 by Tsunemi Yonehachi (常見米八) which mainly focuses on jeans manufacture. [1] Edwin Head Office Their most popular line of clothing is the 503 jeans model, which was first sold in 1997. The company has flagship concept stores in Japan in Harajuku, Tokyo and Minami-Horie, Osaka. Its ...」（https://en.wikipedia.org/wiki/Edwin_(company)・3回目）
+  - 「デニム・ジーンズの通販ならEDWIN（エドウイン）オンラインモール — EDWIN、Lee、SOMETHING、Wrangler、Dickies、SPIEWAK、VALLEY APPARELの直営公式オンラインショップ！定番の503や人気のオーバーオールなど豊富に取り揃えてます。毎日更新のスタッフコーデや商品レビューを参考にお買い物！ 新規入会で即使える500ポイントプレゼント中！」（https://edwin-mall.jp/・3回目）
+  - 「Edwin North America - Jeans, Denim Jackets & Clothing — The Edwin brand is known for its authenticity, skill and unrivaled discipline of Japanese jean making. In 1947 the Edwin brand was amongst the first denim pioneers to translate post WWII Americana through a Japanese lens and become the first global denim from Japan.」（https://edwin-northamerica.com/・3回目）
+  - 「Edwin (company) - Wikipedia — Established in Tokyo in 1947 (originally named 常見米八商店), the EDWIN brand began with imported used jeans from the United States, which Tsunemi washed, repaired and sold second-hand. In 1951, after obtaining traditional looms, the company produced its first Japanese canvas jeans.」（https://en.wikipedia.org/wiki/Edwin_(company)・3回目）
+  - 「Edwin O. Reischauer Institute of Japanese Studies — The Edwin O. Reischauer Institute of Japanese Studies (RIJS) is a research center at Harvard University focused on advancing scholarship and understanding of Japan across disciplines including humanities, social sciences, and sciences. Founded in 19…」（https://grokipedia.com/page/edwin_o_reischauer_institute_of_japanese_studies・3回目）
+  - 「EDWIN | Japanese Selvedge Denim, Jeans and Clothing — EDWIN is a progressive denim brand that blends their Japanese background, craftsmanship and expertise with a European contemporary flavour, vision and attitude.」（https://edwin-europe.com/us-en/・3回目）
+  - 「Edwin: Revenue, Worth, Valuation & Competitors 2025 — Edwin has an estimated revenue of $612K, and 1-10 employees. Alternatives of Edwin are Sequr, Architecture Technology Corporation and SnapAttack.」（https://compworth.com/company/edwin・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）
+
+## Edyst
+- 公式URL：https://edyst.com（given）
+- 採用・広告の製品：
+  - 「It has been a pleasure to serve the educational needs of our users on Edyst. Over the years, we have had the privilege of helping more than 180,000 students enhance their skills and knowledge through our platform. We are proud to have played a small role in the success of our users, and it has been an honor to be a part of their learning journey.」（https://www.edyst.com/・3回目）
+  - 「We are particularly proud of the fact that more than 40,000 students have been able to secure jobs using the skills and knowledge they acquired on Edyst. It is a testament to the effectiveness of our platform and the dedication of our team. We are grateful for the trust that our users have placed in us, and we are honored to have been a part of their success.」（https://www.edyst.com/・3回目）
+  - 「Edyst 2026 Company Profile: Valuation, Funding & Investors | PitchBook」（https://pitchbook.com/profiles/company/279881-29・3回目）
+  - 「Educational and Training Services (B2C)」（https://pitchbook.com/profiles/company/279881-29・3回目）
+  - 「Developer of an online coding boot camp platform designed to prepare aspiring software developers to get ready for the most in-demand jobs.」（https://pitchbook.com/profiles/company/279881-29・3回目）
+  - 「91 Springboard, LVS Arcade」（https://pitchbook.com/profiles/company/279881-29・3回目）
+  - 「Education and Training Services (B2B)」（https://pitchbook.com/profiles/company/279881-29・3回目）
+  - 「Want to dig into this profile?」（https://pitchbook.com/profiles/company/279881-29・3回目）
+  - 「PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.」（https://pitchbook.com/profiles/company/279881-29・3回目）
+  - 「Edyst’s primary industry is Educational and Training Services (B2C).」（https://pitchbook.com/profiles/company/279881-29・3回目）
+  - 「Is Edyst a private or public company?」（https://pitchbook.com/profiles/company/279881-29・3回目）
+  - 「Edyst is a Private company.」（https://pitchbook.com/profiles/company/279881-29・3回目）
+- 規模・親会社：
+  - 「It has been a pleasure to serve the educational needs of our users on Edyst. Over the years, we have had the privilege of helping more than 180,000 students enhance their skills and knowledge through our platform. We are proud to have played a small role in the success of our users, and it has been an honor to be a part of their learning journey.」（https://www.edyst.com/・3回目）
+  - 「We are particularly proud of the fact that more than 40,000 students have been able to secure jobs using the skills and knowledge they acquired on Edyst. It is a testament to the effectiveness of our platform and the dedication of our team. We are grateful for the trust that our users have placed in us, and we are honored to have been a part of their success.」（https://www.edyst.com/・3回目）
+  - 「Thank you again for being a part of our Edyst community.」（https://www.edyst.com/・3回目）
+  - 「Edyst has 22 total employees.」（https://pitchbook.com/profiles/company/279881-29・3回目）
+  - 「What is Edyst’s current revenue?」（https://pitchbook.com/profiles/company/279881-29・3回目）
+  - 「The current revenue for Edyst is」（https://pitchbook.com/profiles/company/279881-29・3回目）
+- 連絡先：
+  - 「If you have any questions or concerns, please contact us at team@edyst.com」（https://www.edyst.com/・3回目）
+  - 「Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.」（https://pitchbook.com/profiles/company/279881-29・3回目）
+- 検索結果の抜粋：
+  - 「Edyst - LinkedIn 日本 — Edyst | LinkedInのフォロワー数2,569人。We are an online learning destination for aspiring software developers to get ready for the most in demand job. | We are an early stage online learning & employability startup. Our solutions aim to make students learn the most in-demand technical skills needed by the industry, keep them immersed and addicted to the learning process and ...」（https://jp.linkedin.com/company/edyst・3回目）
+  - 「Edyst — Edyst offers coding courses to help students enhance their skills and secure jobs in the tech industry.」（https://www.edyst.com/・3回目）
+  - 「Edyst | LinkedIn — Edyst | LinkedInのフォロワー数2,569人。We are an online learning destination for aspiring software developers to get ready for the most in demand job. | We are an early stage online learning & employability startup. Our solutions aim to make students learn the most in-demand technical skills needed by the industry, keep them immersed and addicted to the learning process and ...」（https://jp.linkedin.com/company/edyst・3回目）
+  - 「Login | Edyst — Mar 31, 2024 · Edyst will be discontinued after 31 March, 2024. Know More」（https://www.app.edyst.com/・3回目）
+  - 「Edysta | 20 mg | Tablet | ইডিস্টা ২০ মি.গ্রা. ট্যাবলেট ... — Edysta Tablet 20 mg (ইডিস্টা ২০ মি.গ্রা.) is a product of UniMed UniHealth Pharmaceuticals Ltd. Its generic name is Tadalafil.」（https://medex.com.bd/brands/6073/edysta-20mg・3回目）
+  - 「Edyst 2026 Company Profile: Valuation, Funding & Investors ...Edyst – Performance Metrics & Competitor Intelligence – 2026Edyst - Overview, News & Similar companies | ZoomInfo.comEdyst — Company Profile | The Company CheckEdyst - Crunchbase Company Profile & FundingEdyst — Funding, Investors & Team | SeedtableEdyst - Products, Competitors, Financials, Employees ... — What is the size of Edyst? Edy」（https://pitchbook.com/profiles/company/279881-29・3回目）
+  - 「Edyst – Performance Metrics & Competitor Intelligence – 2026 — Discover Edyst's estimated revenue, valuation, funding history, employee data, and top competitors.」（https://compworth.com/company/edyst・3回目）
+  - 「Edyst - Overview, News & Similar companies | ZoomInfo.com — View Edyst (www.edyst.com) location in California, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.」（https://www.zoominfo.com/c/edyst/407368214・3回目）
+  - 「Edyst — Company Profile | The Company Check — Edyst (Hyderabad, India) - Generates $189.83K annual revenue. Explore investors, acquisitions, financial data, legal entities & business intelligence...」（https://www.thecompanycheck.com/company/b/edyst/b4c69a17f8fa4c988・3回目）
+  - 「Edyst - Crunchbase Company Profile & FundingEdyst — Funding, Investors & Team | SeedtableEdyst - Products, Competitors, Financials, Employees ... — Edyst is an early stage online learning & employability startup for aspiring software developers. Their solutions aim to make students learn the most in-demand technical skills needed by the industry, keep them immersed and addicted to the learning pro」（https://www.crunchbase.com/organization/edyst・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）
+- 製造業の実績：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）
+
+## Eightfold
+- 公式URL：https://eightfold.ai（given）
+- 創業年度：Founded year：2016（https://dexteragent.ai/companies/eightfold-ai-1771828269・3回目）
+- 株主：$396.8M（https://getlatka.com/companies/eightfold・3回目）
+- 株主：SoftBank Vision Fund 2, General Catalyst, Capital One Ventures, Foundation Capital, IVP, Lightspeed Venture Partners（https://dexteragent.ai/companies/eightfold-ai-1771828269・3回目）
+- 所在地：Nanterre, France（https://eightfold.ai/wp-content/uploads/forvia-transforms-talent-acquisition-with-award-winning-eightfold-solution-case-study.pdf・2回目）
+- 連絡先：info@eightfold.ai（https://dexteragent.ai/companies/eightfold-ai-1771828269・3回目）
+- 採用・広告の製品：
+  - 「Skip to footer content」（https://eightfold.ai/・1回目）
+  - 「AI Interview Companion」（https://eightfold.ai/・1回目）
+  - 「AI Candidate Concierge」（https://eightfold.ai/・1回目）
+  - 「Meet AI Interviewer: Your 24/7 recruiter.」（https://eightfold.ai/・1回目）
+  - 「Our AI-native digital worker is ready now to conduct bias-conscious interviews at scale.」（https://eightfold.ai/・1回目）
+  - 「See how AI Interviewer works」（https://eightfold.ai/・1回目）
+  - 「See how STMicroelectronics scaled hiring without sacrificing experience.」（https://eightfold.ai/・1回目）
+  - 「AI Interviewer bias audit results」（https://eightfold.ai/・1回目）
+  - 「Hire the person you interviewed.」（https://eightfold.ai/・1回目）
+  - 「Catch impersonation and fabricated skills across the hiring process, with recruiters in control.」（https://eightfold.ai/・1回目）
+  - 「Our approach to candidate fraud」（https://eightfold.ai/・1回目）
+  - 「Get a firsthand look at how Eightfold helps you to hire and grow with confidence.」（https://eightfold.ai/・1回目）
+- 製造業の実績：
+  - 「STMicroelectronics Eightfold Case Study」（https://eightfold.ai/customers/customer-stories/softtek-unifies-its-global-talent-ecosystem-with-ai/・1回目）
+  - 「Sourcing skills for shift from manufacturing to technology company at Forvia」（https://eightfold.ai/customers/・1回目）
+  - 「Eightfold AI helps Forvia to grow its digital capabilities and stay at the forefront of automotive technology.」（https://eightfold.ai/customers/・1回目）
+  - 「Softtek Eightfold Case Study」（https://eightfold.ai/customers/・1回目）
+  - 「Eightfold AI Case Study」（https://eightfold.ai/customers/customer-stories/closing-the-talent-gap-at-eaton/・1回目）
+  - 「Automotive Talent Management」（https://eightfold.ai/company/press/press-releases/sp-global-partners-with-eightfold-ai-on-innovative-talent-intelligence-platform-advancing-capabilities-of-companys-future-ready-workforce/・1回目）
+  - 「MAGDA: So we are the biggest bottler in the Coca-Cola system, and we’re in charge of producing, bottling, manufacturing, selling, and distributing the Coca-Cola portfolio of products over the 30 countries, territories, and markets that we work for.」（https://eightfold.ai/learn/employees-take-control-of-their-careers-at-ccep/・1回目）
+  - 「Sourcing skills for shift from manufacturing to technology company」（https://eightfold.ai/customers/customer-stories/forvia-transforms-talent-acquisition-with-award-winning-eightfold-solution/・1回目）
+  - 「Forvia wanted to find the best digital talent and increase sourcing efficiency to accelerate its transition from traditional manufacturer to automotive technology company. Believing in the power of AI, the company implemented Eightfold Talent Acquisition to transform recruiting processes and the entire global organization.」（https://eightfold.ai/customers/customer-stories/forvia-transforms-talent-acquisition-with-award-winning-eightfold-solution/・1回目）
+  - 「How Forvia stays at the forefront of automotive technology」（https://eightfold.ai/customers/customer-stories/forvia-transforms-talent-acquisition-with-award-winning-eightfold-solution/・1回目）
+  - 「MM Group AI Talent Case Study」（https://eightfold.ai/customers/customer-stories/amdocs-taps-into-new-talent-resources-with-ai/・1回目）
+  - 「Industry: Automotive technology」（https://eightfold.ai/wp-content/uploads/forvia-transforms-talent-acquisition-with-award-winning-eightfold-solution-case-study.pdf・2回目）
+- 再販・ホワイトラベル：
+  - 「The security bar the U.S. government sets for handling sensitive data. Eightfold meets it, so the same controls protecting federal agencies protect your talent data too.」（https://eightfold.ai/・1回目）
+  - 「One of the earliest poems recorded in the Japanese language is in a collection called the」（https://collider.com/shogun-eightfold-fence-meaning/・3回目）
+  - 「Direct Sales, Channel Partners」（https://dexteragent.ai/companies/eightfold-ai-1771828269・3回目）
+- 日本の担い手：
+  - 「海外HRTechサービスから日本での機会を考える - eightfold.ai（AI-Powered Talent Intelligence Platform）｜Ichiro Shoda @HERP ,inc.」（https://note.com/fabichirox/n/n840ca4ed5c6c・3回目）
+  - 「海外HRTechサービスから日本での機会を考える - eightfold.ai（AI-Powered Talent Intelligence Platform）」（https://note.com/fabichirox/n/n840ca4ed5c6c・3回目）
+  - 「日本でも、人的資本経営への移行がホットになってから少し時間が経っていますが、この文脈にも大きく当てはまる話かなと思います」（https://note.com/fabichirox/n/n840ca4ed5c6c・3回目）
+  - 「「eightfold.ai」は日本とは企業と個人の関係性が全く異なる米国で生まれたサービスですが、人材の流動性が高く、人材の獲得競争が日本以上に熾烈な米国において、タレント情報の有効活用は企業の至上命題でありそこに着目して生まれたサービスであると考えられます」（https://note.com/fabichirox/n/n840ca4ed5c6c・3回目）
+  - 「ライセンスごとに$4,129とのことなので、現状のレートで日本円にしてライセンスごとに最低で60万円の費用がかかるという形のようです」（https://note.com/fabichirox/n/n840ca4ed5c6c・3回目）
+  - 「現状日本では「eightfold.ai」と同じようなサービスは私の知る限りは存在していないと思われます」（https://note.com/fabichirox/n/n840ca4ed5c6c・3回目）
+  - 「なぜこのサービスがアメリカで広く受け入れられているか、そして日本においては同様のニーズがあるかについて考えてみます」（https://note.com/fabichirox/n/n840ca4ed5c6c・3回目）
+  - 「アメリカのIT業界における人材獲得競争は日本以上のものがあります」（https://note.com/fabichirox/n/n840ca4ed5c6c・3回目）
+  - 「日本においても、近年IT業界の人材獲得競争は激化しており、特にエンジニア等の獲得競争はとても激しい状況になっています」（https://note.com/fabichirox/n/n840ca4ed5c6c・3回目）
+  - 「こと日本においては、ダイバーシティの重要性は同様に強くなってきていると考えられますが、アメリカと決定的に違うのは人種が固定化されていることであり、バイアスを意識するポイントが少ないことがあると思います」（https://note.com/fabichirox/n/n840ca4ed5c6c・3回目）
+  - 「この点についても、日本の経営陣がアメリカの経営陣と同様にダイバーシティ推進に頭を悩ませているかというと、まだ比較的緩やか（ほとんどの大企業は積極的に取り組んでいると思いますが）な状況だと言えるかと思います」（https://note.com/fabichirox/n/n840ca4ed5c6c・3回目）
+  - 「移民の受け入れは日本にとって重要なテーマであり、その推進がなされれば課題としてさらに強くなってくる可能性はあると思います」（https://note.com/fabichirox/n/n840ca4ed5c6c・3回目）
+- 規模・親会社：
+  - 「The system of intelligence for workforce decisions. Talent agents do the work across talent acquisition and talent management. Intelligence reads the signal. You make the call.」（https://eightfold.ai/・1回目）
+  - 「Fortune 500 companies already decide with Eightfold.」（https://eightfold.ai/・1回目）
+  - 「Global semiconductor leader digitized talent acquisition and enhanced the candidate and employee experience with AI.」（https://eightfold.ai/customers/customer-stories/stmicroelectronics-builds-agility-with-eightfold/・1回目）
+  - 「"Eightfold has positioned us for the future of talent acquisition, enabling us to support a skills-powered approach and focus on a future-ready workforce to fuel innovation and business success."」（https://eightfold.ai/customers/customer-stories/stmicroelectronics-builds-agility-with-eightfold/・1回目）
+  - 「How this global leader in consumer packaging is creating more value for its business, candidates, and employees with AI.」（https://eightfold.ai/customers/customer-stories/stmicroelectronics-builds-agility-with-eightfold/・1回目）
+  - 「Learn how this technology company uses Eightfold AI for talent acquisition and talent management to find the right skills, retain talent, and grow careers.」（https://eightfold.ai/customers/customer-stories/stmicroelectronics-builds-agility-with-eightfold/・1回目）
+  - 「Take the call, ship the work, carry it through. Contribution is what gets noticed.」（https://eightfold.ai/company/careers/・1回目）
+  - 「Agentic AI executes alongside our people. The judgment, the strategy, and the final decisions are owned by humans. That balance runs through everything we build.」（https://eightfold.ai/company/careers/・1回目）
+  - 「What can I be part of here?」（https://eightfold.ai/company/careers/・1回目）
+  - 「An annual learning and development stipend, internal mobility through Career Hub and Project Marketplace, and managers who treat development as part of the job, not an extra.」（https://eightfold.ai/company/careers/・1回目）
+  - 「, a third of the Fortune 500 among them. The work is hard on purpose, and it reaches people at a scale most companies never touch.」（https://eightfold.ai/company/careers/・1回目）
+  - 「Ownership. You take the call, ship the work, carry it through. Titles follow contribution. The CHAMPION behaviors describe how the best people here work, and we hire and grow against them.」（https://eightfold.ai/company/careers/・1回目）
+- 連絡先：
+  - 「. You may request an alternative selection process or a reasonable accommodation under other laws, if available, by emailing」（https://eightfold.ai/company/careers/・1回目）
+  - 「and agree to receive marketing emails from Eightfold about its products and events. I acknowledge that I can unsubscribe or update my preferences at any time.」（https://eightfold.ai/customers/・1回目）
+  - 「and agree to receive marketing emails from Eightfold about its products and events. I acknowledge that I can unsubscribe or update my preferences at any time.」（https://eightfold.ai/learn/employees-take-control-of-their-careers-at-ccep/・1回目）
+  - 「Free advance screenings for Collider members. Selected readers get a confirmation email.*」（https://collider.com/shogun-eightfold-fence-meaning/・3回目）
+  - 「By subscribing, you agree to receive newsletter and marketing emails, and accept our」（https://collider.com/shogun-eightfold-fence-meaning/・3回目）
+  - 「Nutanix achieves 2x university recruiting response and 70% email open rates with Eightfold」（https://www.casestudies.com/company/eightfold・3回目）
+- 検索結果の抜粋：
+  - 「海外HRTechサービスから日本での機会を考える - eightfold.ai（AI-Pow... — Oct 28, 2022 · 「eightfold.ai」は、特定の企業が関わる全ての人材データを一箇所に集約し、その解析を通じて採用・社内移動等に活用をするサービスです。 2021年10月にSoftBank Vision Fund 2のリードにより、$220Mの調達を実施しています。」（https://note.com/fabichirox/n/n840ca4ed5c6c・3回目）
+  - 「【IT×AI】Eightfold STマイクロ160時間削減・75%オファー進行・NPS84... — May 21, 2026 · EightfoldがSTマイクロエレクトロニクスで 2か月160時間超業務削減・面接候補者75%がオファー進行・候補者NPS 84 を達成と公表しました。 Eightfold公式事例で公開されています。 「半導体大手の話だから関係ない」と読み飛ばすにはもったいないです。」（https://ai.kangaroo-media0.com/case-ah2eightfold-ai/・3回目）
+  - 「【AI×マーケティング×HR×M&A事例研究会｜浜崎正己】第99回：Eightfold... — May 30, 2026 · 「今必要なスキルを持つ人材を、組織の内外から迅速に見つけ、適切なポジションにアサインする」ためには、スキルを中心に据えた人材管理の仕組みが求められた。 これが、Eightfold AIのタレントインテリジェンスプラットフォーム導入の出発点となった。」（https://note.com/masamasa11_12/n/nc726f26071a9・3回目）
+  - 「Eightfold AI Customers | AI Native Talent Intelligence in Action — See how global organizations use the Eightfold AI Talent Intelligence Platform to hire, retain, and develop talent — powered by AI built to see human potential at scale.」（https://eightfold.ai/customers/・3回目）
+  - 「Meet all of our partners | eightfold.ai — From readiness and alignment to adoption and sustained change, we guide you in making the most of your Eightfold investment—ensuring your organization is prepared, engaged and equipped for the future of work.」（https://eightfold.ai/company/partners/・3回目）
+  - 「Careers at Eightfold AI | Build what's next — Build what's next at Eightfold AI, the AI Native Talent Intelligence company. See how we work, how we hire, and open roles. Your best work happens here.」（https://eightfold.ai/company/careers/・3回目）
+  - 「総代理店とは何か？代理店、販売店との違いと英語契約書の場合 – KATH...Eightfold - SEO & Digital Marketing Company in Arizona会社概要 | エーオン - Aon代理店・取扱店を検索｜正規代理店・全国対応|Metoree総代理店とは？一般的な代理店との違い | 代理店本舗総代理店とは？一手販売権・独占販売契約の仕組みやメリット・デメリ... — 総代理店とは独占販売権を持つ代理店（販売店）のことです。 「輸入総代理店」や「日本総代理店」のように、輸入ブランド品を販売する場面で目にすることが多い言葉でしょう。 総代理店はメーカー（もしくは販売元）と独占販売契約を結び、メーカーは決めたエリア・商品では総代理店だけに販売します。 See full list on kathalo.com 総代理店と似ている言葉との違いを見ながら、総代理店の」（https://kathalo.com/kathalog/import-business/1027/・3回目）
+  - 「Eightfold - SEO & Digital Marketing Company in Arizona — Eightfold is a comprehensive, full service digital marketing & technology company based in Arizona. Our team can get your digital products done right.」（https://www.eightfold.io/・3回目）
+  - 「The Eightfold Fence - Wikipedia — "The Eightfold Fence" (Japanese: 八重垣, Hepburn: Yaegaki) is the fourth episode of the American historical drama television series Shōgun, based on the novel by James Clavell.」（https://en.wikipedia.org/wiki/The_Eightfold_Fence・3回目）
+  - 「What Does the Eightfold Fence Mean in 'Shōgun'? - Collider — Mar 18, 2024 · The latest episode of Shōgun, "The Eightfold Fence," has a lot of bloodshed, but it also introduces a very interesting Japanese concept.」（https://collider.com/shogun-eightfold-fence-meaning/・3回目）
+  - 「Japan’s Eightfold Fence - American Affairs Journal — Aug 16, 2017 · Though Japan has never been completely isolated from the world around it, one of Japan’s first recorded poems, in the imperial anthology Kojiki from the early eighth century, celebrated an “eightfold fence” separating Japan from other lands and peoples, a realm where the gods dwelled.」（https://americanaffairsjournal.org/2017/08/japans-eightfold-fence/・3回目）
+  - 「Do you know ‘The Eightfold Fence’? - Medium — Nov 14, 2024 · As fundamental as sushi and cherry blossoms to the Japanese upbringing, the Eightfold Fence empowers individuals to cultivate a robust inner strength from an early age.」（https://medium.com/@B.R.ECKLEBURG/do-you-know-the-eightfold-fence-56186c762c82・3回目）
+- 従業員数：記載なし（3回確認済み：公式20頁／PDF・画像5件／外部39頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式20頁／PDF・画像5件／外部39頁・検索12回）
+- 料金：記載なし（3回確認済み：公式20頁／PDF・画像5件／外部39頁・検索12回）
+
 ## Elementum3D
 - 公式URL：https://www.elementum3d.com（given）
 - 採用・広告の製品：
@@ -2024,6 +3253,240 @@
 - 売上高：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部26頁・検索12回）
 - 所在地：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部26頁・検索12回）
 - 料金：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部26頁・検索12回）
+
+## Elevenlabs
+- 公式URL：https://elevenlabs.io（given）
+- 採用・広告の製品：
+  - 「Powering the best enterprises, creators, and developers. From ElevenAgents for customer experience, ElevenCreative for content creation, to the leading AI voice generator.」（https://elevenlabs.io/・1回目）
+  - 「Expressive voices that bring audiobooks and podcasts to life.」（https://elevenlabs.io/・1回目）
+  - 「Playful and engaging voices for cartoons or video games.」（https://elevenlabs.io/・1回目）
+  - 「Trendy, attention-grabbing voices for short-form content.」（https://elevenlabs.io/・1回目）
+  - 「Trusted by leading developers and enterprises」（https://elevenlabs.io/・1回目）
+  - 「Generate ultra-realistic speech, videos, music, and sound effects.」（https://elevenlabs.io/・1回目）
+  - 「Create ultra-realistic speech, turn ideas into videos, compose music in any genre, or design immersive sound effects. Craft your next film, ad, campaign, social content, audiobook, or podcast with our creative platform.」（https://elevenlabs.io/・1回目）
+  - 「Create controllable, expressive speech layered across 90+ languages.」（https://elevenlabs.io/・1回目）
+  - 「Clone your voice, design one from a prompt, or explore 17,500+ voices from the library.」（https://elevenlabs.io/・1回目）
+  - 「Create or edit images and turn ideas into videos with leading models like Veo, Wan, Kling and Seedance.」（https://elevenlabs.io/・1回目）
+  - 「Using synthetic voice technology to power multilingual marketing content」（https://elevenlabs.io/・1回目）
+  - 「Streamlining product updates and localization with AI voices」（https://elevenlabs.io/・1回目）
+- 製造業の実績：
+  - 「Trusted by leading developers and enterprises」（https://elevenlabs.io/・1回目）
+  - 「Everything we do is the result of the creativity and commitment of our team. These are builders doing the best work of their lives. We are researchers, engineers, and operators. Award-winning scientists, dedicated creatives, and ex-founders. If you want to work hard and create lasting positive impact,」（https://elevenlabs.io/about・1回目）
+  - 「A collection of exceptional researchers, engineers, and operators committed to solving once-impossible problems with AI. We've come to ElevenLabs from every corner of the world. We're passionate about our work, invested in each other, and all in on our mission.」（https://elevenlabs.io/careers・1回目）
+  - 「Steps vary by role, but most processes include a pre-screen, virtual interviews (sometimes with a skills assessment like a take-home or case study), a hiring manager conversation, and a final round with a founder or Bar Raiser. Your recruiting partner will walk you through what to expect for your specific process.」（https://elevenlabs.io/careers・1回目）
+  - 「Computer Hardware Manufacturing」（https://www.casestudies.com/company/elevenlabs・3回目）
+  - 「Air Mail - Customer Case Study」（https://www.casestudies.com/company/elevenlabs・3回目）
+  - 「ScenePartner - Customer Case Study」（https://www.casestudies.com/company/elevenlabs・3回目）
+  - 「SoundAiSleep - Customer Case Study」（https://www.casestudies.com/company/elevenlabs・3回目）
+  - 「Star Sports - Customer Case Study」（https://www.casestudies.com/company/elevenlabs・3回目）
+  - 「TIME - Customer Case Study」（https://www.casestudies.com/company/elevenlabs・3回目）
+  - 「Case Study: TVS Motor lifts lead capture 35% with ElevenLabs multimodal agents · Case Study Desk」（https://www.casestudydesk.com/case-study/tvs-motor-35-percent-lead-capture-elevenlabs・3回目）
+  - 「Automotive manufacturing」（https://www.casestudydesk.com/case-study/tvs-motor-35-percent-lead-capture-elevenlabs・3回目）
+- 再販・ホワイトラベル：
+  - 「Sonic branding: Building your brand identity through sound」（https://elevenlabs.io/blog/elevenlabs-partners-with-macro-and-a16z-cultural-leadership-fund-clf-to-support-the-next-generation-of-storytellers・1回目）
+- 日本の担い手：
+  - 「ElevenLabs 日本法人設立｜国内展開と日本語対応が意味すること | jisalab AI」（https://jisalab.jp/ai/elevenlabs-japan-2025/・3回目）
+  - 「ElevenLabs 日本法人設立｜国内展開と日本語対応が意味すること」（https://jisalab.jp/ai/elevenlabs-japan-2025/・3回目）
+  - 「3行でわかる ElevenLabsの日本進出」（https://jisalab.jp/ai/elevenlabs-japan-2025/・3回目）
+  - 「音声AIのElevenLabsが2025年4月、初の海外拠点として日本法人を東京に設立」（https://jisalab.jp/ai/elevenlabs-japan-2025/・3回目）
+  - 「日本語の自然さ向上とサポート強化が期待され、国内利用のハードルが下がる」（https://jisalab.jp/ai/elevenlabs-japan-2025/・3回目）
+  - 「高品質なAI音声合成で知られるElevenLabsが、日本市場に本格参入しました」（https://jisalab.jp/ai/elevenlabs-japan-2025/・3回目）
+  - 「2025年4月に日本法人を設立し、国内企業との協業を進めています」（https://jisalab.jp/ai/elevenlabs-japan-2025/・3回目）
+  - 「海外AIツールの「日本上陸」は、日本語対応やサポートの面で利用者に直接影響します」（https://jisalab.jp/ai/elevenlabs-japan-2025/・3回目）
+  - 「本記事はその動きと、日本の読者にとっての意味を整理します」（https://jisalab.jp/ai/elevenlabs-japan-2025/・3回目）
+  - 「ユースケース②：日本語ナレーションを内製したい事業会社」（https://jisalab.jp/ai/elevenlabs-japan-2025/・3回目）
+  - 「ElevenLabsは2025年4月14日、初の海外拠点となる日本法人「イレブンラボ合同会社（ElevenLabs G.K.）」を東京に設立しました」（https://jisalab.jp/ai/elevenlabs-japan-2025/・3回目）
+  - 「▲ 日本法人設立の概要（報道に基づく編集部整理）」（https://jisalab.jp/ai/elevenlabs-japan-2025/・3回目）
+- 規模・親会社：
+  - 「Better vocals, instrumentation, and arrangement across every genre.」（https://elevenlabs.io/・1回目）
+  - 「For the first time, the emotion and performance of the original speaker carries across every language.」（https://elevenlabs.io/・1回目）
+  - 「Voice has become a critical interface for customer and employee-facing AI workflows. But long wait times, rigid call flows, and robotic-sounding voices diminish the user experience. By integrating ElevenLabs' Text to Speech into watsonx Orchestrate, teams can replace those experiences with AI agents that carry the nuance, emotion, and rhythm of human speech.」（https://elevenlabs.io/blog/elevenlabs-partners-with-ibm-to-bring-premium-voice-to-watsonx-orchestrate・1回目）
+  - 「This initiative is part of a shared vision to democratize access to AI, making advanced voice technology simple, accessible, and valuable to everyone.」（https://elevenlabs.io/blog/deutsche-telekom-and-elevenlabs-announce-partnership・1回目）
+  - 「ElevenLabs crosses $500M ARR as it welcomes new investors including BlackRock, NVIDIA, Jamie Foxx and Eva Longoria」（https://elevenlabs.io/blog/deutsche-telekom-and-elevenlabs-announce-partnership・1回目）
+  - 「Ashley Kramer joins ElevenLabs as Chief Revenue Officer」（https://elevenlabs.io/about・1回目）
+  - 「ElevenLabs releases The Odyssey audiobook narrated by Sir Michael Caine's AI voice」（https://elevenlabs.io/about・1回目）
+  - 「Revenue - Spanish LATAM」（https://elevenlabs.io/careers・1回目）
+  - 「My favourite part of working here is the culture of innovation and ownership, everyone empowered to take initiative while staying grounded in respect for each other, and it shows in everything we build.」（https://elevenlabs.io/careers・1回目）
+  - 「My favourite memory is watching Mati demo ElevenAgents in Hindi to a room of executives at the India AI Impact Summit, seeing the mission of breaking language barriers suddenly feel completely real.」（https://elevenlabs.io/careers・1回目）
+  - 「I love hearing people say 'I've wished this existed for so long' when I tell them what I do, knowing what we're building breaks down language barriers and gives people their voices back.」（https://elevenlabs.io/careers・1回目）
+  - 「We offer a comprehensive benefits program that meets employees where they are around the world. See our FAQs for details.」（https://elevenlabs.io/careers・1回目）
+- 連絡先：
+  - 「Agents listen, read and interact just like humans would across phone, chat, email and WhatsApp.」（https://elevenlabs.io/・1回目）
+  - 「Voicemail transcription, so missed calls can be read and prioritized at a glance」（https://elevenlabs.io/blog/kpn-mobiel-ai・1回目）
+  - 「from initial vendor engagement to its first customer call. This time included security review, API integration, conversation design, voicemail scripting, and the governance and privacy review.」（https://elevenlabs.io/blog/telus-digital-early-cancellations・1回目）
+  - 「The agent reached the majority of the target cohort via call or voicemail.」（https://elevenlabs.io/blog/deliveroo・1回目）
+  - 「Please check the inbox of the email address you entered in the form.」（https://help.elevenlabs.io/hc/en-us・3回目）
+  - 「You may have received an email asking you to verify your request.」（https://help.elevenlabs.io/hc/en-us・3回目）
+  - 「Can't find the email? Give it a few minutes, and check your spam or」（https://help.elevenlabs.io/hc/en-us・3回目）
+  - 「junk folder. Once your request is open, we will reply by email.」（https://help.elevenlabs.io/hc/en-us・3回目）
+- 検索結果の抜粋：
+  - 「ElevenLabs establishes Japanese Subsidiary, ElevenLabs G.K. — Apr 14, 2025 · Today we launched ElevenLabs G.K., an international subsidiary based in Tokyo, Japan. Our new Japanese entity will focus on adapting ElevenLabs' cutting-edge voice generation platform for the Japanese market while addressing the unique linguistic and cultural requirements of the region.」（https://elevenlabs.io/blog/elevenlabs-establishes-japanese-subsidiary-elevenlabs-gk・3回目）
+  - 「ElevenLabs 日本法人設立｜国内展開と日本語対応が意味すること | jis... — Jul 31, 2026 · 高品質なAI音声合成で知られるElevenLabsが、日本市場に本格参入しました。 2025年4月に日本法人を設立し、国内企業との協業を進めています。 海外AIツールの「日本上陸」は、日本語対応やサポートの面で利用者に直接影響します。」（https://jisalab.jp/ai/elevenlabs-japan-2025/・3回目）
+  - 「【2026年最新】ElevenLabs料金完全ガイド｜日本法人設立で変わった商... — Apr 26, 2026 · AI音声合成の常識を覆す「Eleven v3」の登場と、ElevenLabs日本法人の設立により、ビジネス現場での導入ハードルは劇的に下がりました。しかし、従来の「文字数課金」に加え、対話型エージェント向けの「分単位課金」が加わったことで、どのプランを選べば最もコストパフォーマンスが高いのか ...」（https://aiagent-navi.com/generation-ai/elevenlabs-pricing-guide/・3回目）
+  - 「ElevenLabsが日本で仕掛ける「音声AI革命」労働不足の救世主になるか — Jun 6, 2026 · 音声AI企業ElevenLabsが2025年に日本法人を設立。 対話型AIエージェント「ElevenAgents」で日本の労働人口減少課題に挑む。 文脈と感情を理解した自然な音声生成技術が特徴で、カスタマーサポートなど人手不足現場での活用が期待されています。」（https://ainews.mironcorp.com/elevenlabs-ai/・3回目）
+  - 「【2026年最新】ElevenLabsとは？ビジネス導入のメリットと商用利用ル... — Apr 25, 2026 · 「AIに音声を読み上げさせたいが、品質が低く商用利用の権利関係も不安……」。 そんな懸念を抱えるビジネスパーソンのために、現在世界最高峰の音声AIプラットフォーム「ElevenLabs」を解説します。」（https://aiagent-navi.com/generation-ai/what-is-elevenlabs/・3回目）
+  - 「ElevenLabs Summit: Transforming human-technology interaction — Nov 11, 2025 · At ElevenLabs Summit, we bring together the leaders transforming how we interact with technology. Hear candid conversations about where technology is headed, deep dives into the architectures powering breakthroughs, and hands-on demos from teams already deploying conversational systems at scale. Always global, the Summit」（https://summit.elevenlabs.io/・3回目）
+  - 「ElevenLabs UI | ElevenLabs UI — A collection of Open Source agent and audio components that you can customize and extend.」（https://ui.elevenlabs.io/・3回目）
+  - 「ElevenLabs — Please check the inbox of the email address you entered in the form. You may have received an email asking you to verify your request. If so, click the verification link in it. Your request will only be opened with our team once it has been verified. Can't find the email? Give it a few minutes, and check your spam or junk folder. Once your request is open, we will reply by email.」（https://help.elevenlabs.io/hc/en-us・3回目）
+  - 「ElevenLabs、日本法人ElevenLabs G.K.を設立 — Apr 14, 2025 · 新たな日本法人は、地域特有の言語・文化的要件に対応しながら、ElevenLabsの最先端の音声生成プラットフォームを日本市場に最適化していきます。 社名：ElevenLabs Japan G.K. 所在地：東京都千代田区丸の内1-6-5. ゼネラルマネージャー：田村 元（Hajime Jim Tamura）は、ビジネスアプリケーションを通じた企業のパフォーマンス向上に35年以上携わってきました。 2000年代後半の日本におけるクラウドコンピューティング黎明期からの先駆者として、SaaSソリューションによる業務効率化を一貫して推進してきました。」（https://elevenlabs.io/ja/blog/elevenlabs-establishes-japanese-subsidiary-elevenlabs-gk・3回目）
+  - 「ElevenLabs とは？AI音声生成プラットフォームの紹介 | 日本語ガイド — ElevenLabs の AI音声生成・ボイスクローニング・ダビング・ボイスエージェントについて日本語で紹介する情報ページです。 AI音声生成・音声合成プラットフォームElevenLabsの紹介。 テキスト読み上げ・ボイスクローニング・ダビング・音声エージェントを解説します。」（https://japan-elevenlabs.com/・3回目）
+  - 「ElevenLabs Launches Japanese Subsidiary, Enters Market with ... — May 9, 2025 · U.S.-based AI voice generation company ElevenLabs established its Japanese subsidiary, ElevenLabs Japan, on April 14, 2025, in Chiyoda, Tokyo. This marks the company’s first overseas expansion. ElevenLabs aims to generate several hundred million yen in revenue in Japan by the end of 2025.」（https://www.global-gw.com/japannews/elevenlabs-launches-japanese-subsidiary-enters-market-with-ai-voice-technology・3回目）
+  - 「ElevenLabsとは？使い方と料金や日本語対応について！商用利用や再翻... — ElevenLabsのEleven v4とは？ 使い方・料金とv4 Turboとの違い、日本語で使えるかを解説 ElevenLabsのEleven v4は、2026年9月28日に公開された最新の音声生成モデルで、感情表現とオーディオタグへの追従が大きく向上しました。」（https://miralab.co.jp/media/elevenlabs/・3回目）
+- 創業年度：記載なし（3回確認済み：公式19頁／PDF・画像0件／外部31頁・検索12回）
+- 株主：記載なし（3回確認済み：公式19頁／PDF・画像0件／外部31頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式19頁／PDF・画像0件／外部31頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式19頁／PDF・画像0件／外部31頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式19頁／PDF・画像0件／外部31頁・検索12回）
+- 料金：記載なし（3回確認済み：公式19頁／PDF・画像0件／外部31頁・検索12回）
+
+## Ello
+- 公式URL：https://www.ello.com（given）
+- 料金：有料（https://www.haradaeigo.com/eigotaizen/s/ello-reading/・3回目）
+- 採用・広告の製品：
+  - 「Parent progress reports」（https://www.ello.com/・1回目）
+  - 「This app is fantastic!!!! It makes reading so fun, my special needs 8 yr old has read 20 books in 3 days and already improved so much in such a short time!!! My 6 year old is now reading ahead for his age also, they love it and I love the daily updated progress reports! With 5 kids we have tried so many reading programs and apps but Ello is sooooo much better and an amazing value for what you get!」（https://www.ello.com/・1回目）
+  - 「My struggling students started using this app and I saw improvement DAY ONE. So grateful for the program — the students love it; it boosts their confidence and increases skill level in more subjects than just reading. I don't know what I would have done without Ello.」（https://www.ello.com/・1回目）
+  - 「My 8yo is very behind on reading. We downloaded today and I promise within 10 minutes she's was reading more confidently and chose on her own to keep going (she's always hated practicing reading). I asked if she likes it, she said "YEAH! It's way better than what y'all have me do." 🤣」（https://www.ello.com/・1回目）
+  - 「Love love love!!! My kids are so into Ello, they actually are fighting over who uses my phone first to read when they got home from school. Never thought I'd find a program my older son likes to read with!」（https://www.ello.com/・1回目）
+  - 「Learn more about our teaching approach」（https://www.ello.com/・1回目）
+  - 「Free iPads donated to DC Public Libraries」（https://www.ello.com/・1回目）
+  - 「Ello is committed to a free, excellent experience for all families. An optional paid upgrade with premium features is available.」（https://www.ello.com/・1回目）
+  - 「Hours of child speech in training data」（https://www.ello.com/about・1回目）
+  - 「Read about our teaching approach」（https://www.ello.com/about・1回目）
+  - 「A real 1:1 teacher isn't one hard problem. It's six.」（https://www.ello.com/about・1回目）
+  - 「Professor Emeritus of Computer Science, Stanford. Pioneer of natural language AI. Co-founder of the Stanford d.school. Early advisor to Google」（https://www.ello.com/about・1回目）
+- 製造業の実績：
+  - 「Live at the Factory Theatre」（https://www.qellojapan.com/・3回目）
+  - 「Robert Plant,Sensational Space Shifters」（https://www.qellojapan.com/・3回目）
+  - 「Live at The Oxford Art Factory」（https://www.qellojapan.com/・3回目）
+  - 「Mangosoft Case Study: ELLO-Music – ELLO-Music - Customer Case Study | CaseStudies.com」（https://www.casestudies.com/company/mangosoft/case-study/ello-music-customer-case-study・3回目）
+  - 「ELLO-Music - Customer Case Study」（https://www.casestudies.com/company/mangosoft/case-study/ello-music-customer-case-study・3回目）
+  - 「Case study describing how ELLO-Music used Mangosoft」（https://www.casestudies.com/company/mangosoft/case-study/ello-music-customer-case-study・3回目）
+  - 「Open case study document...」（https://www.casestudies.com/company/mangosoft/case-study/ello-music-customer-case-study・3回目）
+  - 「Was it helpful? Rate this case study:」（https://www.casestudies.com/company/mangosoft/case-study/ello-music-customer-case-study・3回目）
+  - 「Success Stories about Software and Services used by Ello Group」（https://www.casestudies.com/customer/ello-group・3回目）
+  - 「Karma Automotive crafts ultra-luxury electric vehicles with secure, high-performance tech solutions.」（https://www.dell.com/en-us/learn/lp/customer-stories・3回目）
+  - 「Streamlining manufacturing with AI」（https://www.dell.com/en-us/learn/lp/customer-stories・3回目）
+  - 「Hunter Buildings modernizes manufacturing workflows with AI, improving operational efficiency and accelerating billing cycles.」（https://www.dell.com/en-us/learn/lp/customer-stories・3回目）
+- 日本の担い手：
+  - 「導入事例：田中家（6歳の息子）」（https://generative-ai.co.jp/usecase/education-ai/ai-startup-usecase-ello/・3回目）
+  - 「―海外展開の計画はありますか？日本市場への進出意欲は？」（https://techblitz.com/startup-interview/ello/・3回目）
+  - 「海外展開については、日本も有力な候補です」（https://techblitz.com/startup-interview/ello/・3回目）
+  - 「日本は親の教育への関心が高く、英語学習ニーズも強い」（https://techblitz.com/startup-interview/ello/・3回目）
+  - 「日本市場を理解するためには現地パートナーが不可欠」（https://techblitz.com/startup-interview/ello/・3回目）
+  - 「「電力の変化」をどう読むか 東京ガスも出資する米AmperonのAI予測の仕組み」（https://techblitz.com/startup-interview/ello/・3回目）
+  - 「「電力の変化」をどう読むか 東京ガスも出資する米AmperonのAI予測の仕組みの詳細を見る」（https://techblitz.com/startup-interview/ello/・3回目）
+  - 「Elloの使い方・勉強法【日本人向け】料金・レベル・評判｜英語大全｜原田英語」（https://www.haradaeigo.com/eigotaizen/s/ello-reading/・3回目）
+  - 「アメリカの家庭向けのサービスなので、日本で使う場合は、配信されているか、子どもに合うかを体験で確かめてから決めてください」（https://www.haradaeigo.com/eigotaizen/s/ello-reading/・3回目）
+  - 「ELLLO Views #301 Japan」（https://www.elllo.org/english/0301/301-Hitoshi-Japan.htm・3回目）
+  - 「OK. Um..tell me about your country. Tell me about Japan.」（https://www.elllo.org/english/0301/301-Hitoshi-Japan.htm・3回目）
+  - 「Japan? Well, it's a very crowded country, a lot of people. And it's very small in terms of the size you know of the area. It's actually smaller than California.」（https://www.elllo.org/english/0301/301-Hitoshi-Japan.htm・3回目）
+- 規模・親会社：
+  - 「Vice President of Graduate Studies and Professor of Linguistics at Georgetown. Internationally renowned field leader, and one of the most highly cited women in the world in applied linguistics, second language acquisition, and research methodology」（https://www.ello.com/about・1回目）
+  - 「Growing up, Lili wouldn't sound out a word unless she was sure she would get it right. Jaden’s currently barreling through and inventing half the words.」（https://www.ello.com/our-teaching-approach・1回目）
+  - 「The goal is to make the thinking visible — not just arrive at an answer.」（https://www.ello.com/our-teaching-approach・1回目）
+  - 「In the countries where we teach English as a second language, we know the journey looks different, and we've built Ello to honor that. A child learning to read in their second language is doing something extraordinary every single day. We approach multilingual learners with patience, cultural sensitivity, and methods grounded in what the research tells us about language acquisition.」（https://www.ello.com/our-teaching-approach・1回目）
+  - 「Paul McCartney,Ringo Starr」（https://www.qellojapan.com/・3回目）
+  - 「OneRepublic,Panic! At the Disco,Coldplay,Alessia Cara,Ellie Goulding,The 1975,Iggy Azalea,Catfish and the Bottlemen,Jack Garratt,Years & Years,Biffy Clyro」（https://www.qellojapan.com/・3回目）
+  - 「Ringo Starr & His All Starr Band」（https://www.qellojapan.com/・3回目）
+  - 「Les Vieilles Charrues」（https://www.qellojapan.com/・3回目）
+  - 「Live at McCarren Park」（https://www.qellojapan.com/・3回目）
+  - 「Larry Coryell,Al Di Meola,Bireli Lagrene」（https://www.qellojapan.com/・3回目）
+- 検索結果の抜粋：
+  - 「家庭や学校で活用できる！子ども向け読書支援プラットフォーム「Ello... — Jan 18, 2025 · 利用環境：家庭、学校、図書館で活用可能 この記事では、Elloの特徴から具体的な活用方法、導入時の注意点まで詳しく解説します。 Elloとは？ 基本情報を解説 Elloは、幼稚園から小学3年生を対象としたAI読書支援プラットフォームです。」（https://generative-ai.co.jp/usecase/education-ai/ai-startup-usecase-ello/・3回目）
+  - 「「読書アプリ」から「AI教師」への進化 米国発Elloが目指す教育のカタ... — Feb 20, 2026 · 幼稚園から小学3年生までの子供を対象に、デジタル版の本とAI個別指導アプリを組み合わせて読解力向上を支援する米サンフランシスコ発のスタートアップ、Ello（エロー） 。パンデミック以降、米国で深刻化し...」（https://techblitz.com/startup-interview/ello/・3回目）
+  - 「Elloの使い方・勉強法【日本人向け】料金・レベル・評判｜英語大全｜... — Elloの使い方と勉強法を日本人向けに解説。AIのゾウのキャラクターが、子どもの音読を聞いて教える。有料・英語のみ・レベルA1–A2。4〜9歳向けの、AIの読書と算数のアプリです。ゾウのキャラクターが、子どもが声に出して読むのを聞いて、つまずいた所でヒントを出し、うまく読めたらほめ ...」（https://www.haradaeigo.com/eigotaizen/s/ello-reading/・3回目）
+  - 「Ello: 世界初の1対1AI教師で読書を楽しく学ぼう！ — Elloは、子供たちがAIの力で楽しく読書を学べる学習プラットフォームです。読書スキルを向上させ、読書への愛情を育み ...」（https://huntscreens.com/ja/products/ello・3回目）
+  - 「Qello Japan（クェロ・ジャパン） - 音楽ライブやコンサートの公式動... — Qello Japanでは何が観られるのですか？ 1920年代から今日までのコンサートフィルム、受賞歴のある音楽ドキュメンタリー、ライブストリーミング音楽イベントの世界最大規模の作品をご覧ください。」（https://www.qellojapan.com/・3回目）
+  - 「Ello® | Water Bottles, Food Storage, Travel Mugs & More — Ello creates reusable food and beverage products that compliment your individuality and sense of style. Our products bring dependable function and on-trend design at a great price.」（https://www.elloproducts.com/・3回目）
+  - 「ELLO-Music - Customer Case Study — ELLO-Music partnered with Mangosoft (Information Technology and Services) to solve key challenges. "ELLO-Music - Customer Case Study" is their real-world success story.」（https://www.casestudies.com/company/mangosoft/case-study/ello-music-customer-case-study・3回目）
+  - 「B2B Case Studies: How Ello Group Uses Software & Services — Explore case studies featuring Ello Group as the customer — learn how vendors and partners helped Ello Group solve real business challenges.」（https://www.casestudies.com/customer/ello-group・3回目）
+  - 「Case Studies - 'ello - sayello.co — Case Studies See how TMCs are automating more, reducing costs, increasing profitability, winning new business and retaining more clients through ’ello.」（https://sayello.co/case-studies・3回目）
+- 創業年度：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部28頁・検索12回）
+- 株主：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部28頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部28頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部28頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部28頁・検索12回）
+- 連絡先：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部28頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部28頁・検索12回）
+
+## Elphinstone
+- 公式URL：https://elphinstone.com.pk/（given）
+- 創業年度：Founded：2020（https://startupintros.com/orgs/elphinstone-inc・3回目）
+- 所在地：Pakistan（https://startupintros.com/orgs/elphinstone-inc・3回目）
+- 連絡先：farooq.tirmizi@ elphinstone.us（https://elphinstone.us/team/・3回目）
+- 採用・広告の製品：
+  - 「Elphinstone can provide you a VPS-based corporate retirement plan that is free and can be set up almost instantly.」（https://elphinstone.com.pk/・1回目）
+  - 「Gratuity Fund or a Provident Fund.」（https://elphinstone.com.pk/・1回目）
+  - 「Elphinstone’s onboarding team will handle the hassle of setting up your corporate retirement plan – so that both you and your employees can rest easy.」（https://elphinstone.com.pk/・1回目）
+  - 「The current retirement benefits in Pakistan – Gratuity or Provident Fund – are outdated and inefficient. The Voluntary Pension Scheme (VPS) is cheaper for employers, and employees will end up richer when they retire.」（https://elphinstone.com.pk/about-us/・1回目）
+  - 「Shariah-compliant investment products from the best」（https://elphinstone.com.pk/about-us/・1回目）
+  - 「Elphinstone handles transition and onboarding costs」（https://elphinstone.com.pk/about-us/・1回目）
+  - 「and also provides tutorials for employees.」（https://elphinstone.com.pk/about-us/・1回目）
+  - 「Gratuity and Provident Fund cost around 8.3% and 6% of payroll – a VPS costs around 5% of payroll. Using Elphinstone services and switching to VPS will save your company money.」（https://elphinstone.com.pk/about-us/・1回目）
+  - 「or check out our pricing plans.」（https://elphinstone.com.pk/about-us/・1回目）
+  - 「pricing – Elphinstone」（https://elphinstone.com.pk/pricing/・1回目）
+  - 「Our competitive pricing fits small and large clients alike. Even for large companies & established enterprises,」（https://elphinstone.com.pk/pricing/・1回目）
+  - 「our fees would cost less than hiring one individual to manage the whole of the VPS.」（https://elphinstone.com.pk/pricing/・1回目）
+- 製造業の実績：
+  - 「Engineer, manufacturer, business executive」（https://en.wikipedia.org/wiki/Dale_Elphinstone・3回目）
+  - 「(born 1951) is an Australian engineer, manufacturer and business executive. He is the founder and executive chairman of the」（https://en.wikipedia.org/wiki/Dale_Elphinstone・3回目）
+  - 「, a privately held engineering and manufacturing company headquartered in north-west Tasmania.」（https://en.wikipedia.org/wiki/Dale_Elphinstone・3回目）
+  - 「Elphinstone has been active in Australia’s mining equipment manufacturing sector since the 1970s. His career has included the formation of the Caterpillar Elphinstone joint venture in the 1990s, which was acquired by」（https://en.wikipedia.org/wiki/Dale_Elphinstone・3回目）
+  - 「in 2000, and the subsequent re-establishment of Elphinstone-branded manufacturing following Caterpillar’s withdrawal from underground equipment production in」（https://en.wikipedia.org/wiki/Dale_Elphinstone・3回目）
+  - 「Following Caterpillar’s acquisition of the joint venture in 2000, Elphinstone continued his involvement in manufacturing and engineering enterprises. In the mid-2010s, he oversaw the re-establishment of Elphinstone as an independent original equipment manufacturer after Caterpillar relocated underground mining production from Tasmania.」（https://en.wikipedia.org/wiki/Dale_Elphinstone・3回目）
+  - 「(AO) for distinguished service to business and philanthropy in the manufacturing and resources sectors.」（https://en.wikipedia.org/wiki/Dale_Elphinstone・3回目）
+  - 「"Caterpillar to cut 280 jobs from Burnie plant as the company moves partly offshore"」（https://en.wikipedia.org/wiki/Dale_Elphinstone・3回目）
+  - 「"Australia's Richest 250 in 2025: The Manufacturers"」（https://en.wikipedia.org/wiki/Dale_Elphinstone・3回目）
+  - 「Return to independent manufacturing (2016–present)」（https://en.wikipedia.org/wiki/Elphinstone_Group・3回目）
+  - 「Mining equipment manufacturing」（https://en.wikipedia.org/wiki/Elphinstone_Group・3回目）
+  - 「Defence manufacturing」（https://en.wikipedia.org/wiki/Elphinstone_Group・3回目）
+- 再販・ホワイトラベル：
+  - 「(OEM) in 2016 and has since diversified into the」（https://en.wikipedia.org/wiki/Elphinstone_Group・3回目）
+  - 「(OEM), benefiting from growing global demand for mechanised underground mining systems.」（https://en.wikipedia.org/wiki/Elphinstone_Group・3回目）
+  - 「Caterpillar exercised an option to acquire the remaining 50% stake in the joint venture in 2000. Following the buyout, manufacturing at Burnie was integrated into Caterpillar's global supply chain and the product line was rebranded under the Caterpillar name. Although product」（https://en.wikipedia.org/wiki/Elphinstone_Group・3回目）
+  - 「After Caterpillar's departure, Elphinstone Group reacquired its north-west Tasmanian manufacturing facilities and re-established itself as an independent OEM. Following site upgrades, the firm subsequently launched a series of modular underground support vehicles, leveraging the technical expertise and established dealer relationships of its former Caterpillar personnel.」（https://en.wikipedia.org/wiki/Elphinstone_Group・3回目）
+  - 「"How Elphinstone became a cornerstone underground mining OEM"」（https://en.wikipedia.org/wiki/Elphinstone_Group・3回目）
+  - 「Defence OEM Partnerships」（https://elphinstone.com/・3回目）
+  - 「Based in Tasmania, Australia, Elphinstone Pty Ltd is an established Caterpillar OEM Solutions customer, designing and manufacturing quality products for the global underground and surface mining industries for over 50 years.」（https://elphinstone.com/・3回目）
+  - 「As an established Caterpillar Original Equipment Manufacturer (OEM), all products are sold and supported by Elphinstone and the global Cat® dealer network.」（https://elphinstone.com/news/・3回目）
+  - 「Defence OEM Partnerships」（https://elphinstone.com/elphinstone-product-support/・3回目）
+  - 「Evahan originally designed, documented, and implemented Elphinstone’s ISO 9001‑certified QMS and worked closely with senior management to oversee its practical rollout across two fundamentally different operating environments—high‑precision armoured vehicle fabrication for defence OEM customers, and high‑volume, specification‑driven electrical harness assembly for global equipment manufacturers.」（https://evahangroup.com/insights/case-study-evahan-assists-elphinstone-in-achieving-iso-9001-recertification-2・3回目）
+  - 「The external certification audit confirmed the effectiveness of this approach, with Elphinstone achieving recertification and demonstrating a mature, defensible QMS aligned to ISO 9001:2015 and the expectations of defence, mining, and OEM customers.」（https://evahangroup.com/insights/case-study-evahan-assists-elphinstone-in-achieving-iso-9001-recertification-2・3回目）
+  - 「Today, his work spans high‑risk, high‑stakes industries — from defence OEM, infrastructure, modular construction to marine engineering and transport.」（https://evahangroup.com/insights/case-study-evahan-assists-elphinstone-in-achieving-iso-9001-recertification-2・3回目）
+- 規模・親会社：
+  - 「Trust us – your employees will thank you later.」（https://elphinstone.com.pk/・1回目）
+  - 「Elphinstone’s onboarding team will handle the hassle of setting up your corporate retirement plan – so that both you and your employees can rest easy.」（https://elphinstone.com.pk/・1回目）
+  - 「Choosing the best stocks for your employees」（https://elphinstone.com.pk/・1回目）
+  - 「The current retirement benefits in Pakistan – Gratuity or Provident Fund – are outdated and inefficient. The Voluntary Pension Scheme (VPS) is cheaper for employers, and employees will end up richer when they retire.」（https://elphinstone.com.pk/about-us/・1回目）
+  - 「For every asset class, all employees will be offered」（https://elphinstone.com.pk/about-us/・1回目）
+  - 「and also provides tutorials for employees.」（https://elphinstone.com.pk/about-us/・1回目）
+  - 「Elphinstone will only charge fees on VPS assets, but will count employees’ non-retirement investments towards calculating which tier the company falls into for pricing.」（https://elphinstone.com.pk/pricing/・1回目）
+  - 「Elphinstone has been active in Australia’s mining equipment manufacturing sector since the 1970s. His career has included the formation of the Caterpillar Elphinstone joint venture in the 1990s, which was acquired by」（https://en.wikipedia.org/wiki/Dale_Elphinstone・3回目）
+  - 「According to independent wealth rankings, Elphinstone has been listed among Australia’s wealthiest individuals since at least 2010. In 2025, he was ranked 131st on」（https://en.wikipedia.org/wiki/Dale_Elphinstone・3回目）
+  - 「Following Caterpillar’s acquisition of the joint venture in 2000, Elphinstone continued his involvement in manufacturing and engineering enterprises. In the mid-2010s, he oversaw the re-establishment of Elphinstone as an independent original equipment manufacturer after Caterpillar relocated underground mining production from Tasmania.」（https://en.wikipedia.org/wiki/Dale_Elphinstone・3回目）
+  - 「. Under this arrangement, underground hard-rock equipment was manufactured at the Burnie facilities and distributed globally through Caterpillar's dealer network, significantly expanding the company's export footprint and production scale.」（https://en.wikipedia.org/wiki/Elphinstone_Group・3回目）
+  - 「After Caterpillar's departure, Elphinstone Group reacquired its north-west Tasmanian manufacturing facilities and re-established itself as an independent OEM. Following site upgrades, the firm subsequently launched a series of modular underground support vehicles, leveraging the technical expertise and established dealer relationships of its former Caterpillar personnel.」（https://en.wikipedia.org/wiki/Elphinstone_Group・3回目）
+- 連絡先：
+  - 「Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.」（https://pitchbook.com/profiles/company/453493-63・3回目）
+- 検索結果の抜粋：
+  - 「Dale Elphinstone - Wikipedia — After completing his trade qualifications, Elphinstone worked as a field service mechanic at mine sites across Tasmania and King Island. In 1973, he travelled overseas to work with Canadian Caterpillar dealer Finning.」（https://en.wikipedia.org/wiki/Dale_Elphinstone・3回目）
+  - 「Elphinstone Group - Wikipedia — Although product intellectual property and physical plant assets were transferred to Caterpillar, the parent Elphinstone Group entity remained an independent entity in Tasmania, continuing to operate other business ventures, including its William Adams Caterpillar dealership.」（https://en.wikipedia.org/wiki/Elphinstone_Group・3回目）
+  - 「Elphinstone Pty Ltd | Elphinstone Mining Solutions — All Elphinstone® products, technical assistance, support, and access to spare parts are available through the global Cat dealer network with additional support from the Elphinstone regional sales and support team.」（https://elphinstone.com/・3回目）
+  - 「News | Elphinstone Pty Ltd — May 11, 2026 · Dale Elphinstone became the first person outside the US to be inducted into the prestigious National Mining Hall of Fame in Denver, Colorado, on Saturday, November 2, 2024.」（https://elphinstone.com/news/・3回目）
+  - 「Regional Sales - Elphinstone Pty Ltd — Elphinstone Underground Support Solutions, Haulmax Extended Haulage Solutions, Mine Extraction Devices (MED), W35 Water Tank Modules to fit CAT 740C, 745C, 745.」（https://elphinstone.com/machine-sales/・3回目）
+  - 「Elphinstone Group - Wikipedia — Elphinstone Group is an Australian private industrial group specialising in the design and manufacture of underground mining equipment, heavy vehicles, and defence components. [2] Headquartered in Burnie, Tasmania, the enterprise is one of the state's largest private employers. [1] Historically known for its manufacturing joint venture with Caterpillar, the company 」（https://en.wikipedia.org/wiki/Elphinstone_Group・3回目）
+  - 「Elphinstone Pty Ltd | Elphinstone Mining Solutions — Elphinstone Pty Ltd is a leader in the design and manufacture of Underground Mining Support Vehicles, Mine Extraction Devices (MED), Haulmax 3900 and W35.」（https://elphinstone.com/・3回目）
+  - 「Mountstuart Elphinstone - Wikipedia — When, on the failure of negotiations, war broke out, Elphinstone, though a civilian, acted as virtual aide-de-camp to Wellesley. At the Battle of Assaye, and throughout the campaign, he displayed rare courage and knowledge of tactics such that Wellesley told him he ought to have been a soldier.」（https://en.wikipedia.org/wiki/Mountstuart_Elphinstone・3回目）
+  - 「Elphinstone Pty Ltd | Elphinstone Mining Solutions — The Elphinstone range of products combines practical design, the latest technology and quality manufacturing to ensure reliable performance. Elphinstone is also a producer of Electrical Harnesses and Ezi Boots, operating the latest in modern technology at each stage of the manufacturing process.」（https://elphinstone.com/・3回目）
+  - 「Elphinstone — Investment advice with our fee at risk — Elphinstone is an SEC-registered investment adviser and acts as a fiduciary to its advisory clients. Client accounts are held at Interactive Brokers LLC, an independent custodian.」（https://elphinstone.us/・3回目）
+  - 「ELPHINSTONE PRODUCT OVERVIEW — The Elphinstone range of Underground Mining Support Vehicles combines practical design, the latest technology and quality manufacturing to ensure reliable performance.」（https://elphinstone.com/wp-content/uploads/2022/06/Elphinstone_Product_Overview_Letter_WebReady.pdf・3回目）
+  - 「B2B Case Studies: How Elphinstone Uses Software & Services — Explore case studies featuring Elphinstone as the customer — learn how vendors and partners helped Elphinstone solve real business challenges.」（https://www.casestudies.com/customer/elphinstone・3回目）
+- 株主：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部38頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部38頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部38頁・検索12回）
+- 料金：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部38頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部38頁・検索12回）
 
 ## Encord
 - 公式URL：https://encord.com（given）
@@ -2111,6 +3574,236 @@
 - 従業員数：記載なし（3回確認済み：公式13頁／PDF・画像2件／外部32頁・検索12回）
 - 料金：記載なし（3回確認済み：公式13頁／PDF・画像2件／外部32頁・検索12回）
 
+## Endearhq
+- 公式URL：https://endearhq.com（given）
+- 株主：25-Feb-2022    Completed Generating Revenue（https://pitchbook.com/profiles/company/232183-81・3回目）
+- 株主：16-Mar-2020    Completed Generating Revenue（https://pitchbook.com/profiles/company/232183-81・3回目）
+- 株主：01-Oct-2017 $250K $250K  Completed Startup（https://pitchbook.com/profiles/company/232183-81・3回目）
+- 採用・広告の製品：
+  - 「Endear replaces the spreadsheet and personal phone with one system that centralizes customer details and notes, adds follow-up tasks, personalizes outreach, and tracks impact.」（https://endearhq.com/・1回目）
+  - 「Unified customer profiles」（https://endearhq.com/・1回目）
+  - 「Omnichannel purchase history, sizes, preferences, and past conversations all in one place for a consistent experience every time you interact.」（https://endearhq.com/・1回目）
+  - 「Pre-built and custom integrations available for the most popular platforms across POS, ecommerce, marketing, and support.」（https://endearhq.com/・1回目）
+  - 「Hi Elena, it's been a while. We just got new pieces that reminded me of you. The Linen Wrap Dress and the Botanical Print Blouse would be right up your alley.」（https://endearhq.com/・1回目）
+  - 「Make her upcoming visit feel personal with a private appointment.」（https://endearhq.com/・1回目）
+  - 「Make her upcoming visit feel personal with a private appointment. Review the customer’s history and tailor the draft before sending.」（https://endearhq.com/・1回目）
+  - 「Hi Olivia, happy early birthday. I saw you'll be visiting our NYC store next week. I'd love to set up a private appointment with a few pieces pulled for you and your daughter.」（https://endearhq.com/・1回目）
+  - 「Personalized styling sessions, fittings, and private shopping events all booked, logged in the customer profile, and followed-up on from a single platform.」（https://endearhq.com/・1回目）
+  - 「Curate and share shoppable product collections your associates build in minutes and send by text, email, or WhatsApp, so customers can browse, add to cart, and check out without ever leaving the message.」（https://endearhq.com/・1回目）
+  - 「Sending one message to one customer isn't a clienteling program. Endear lets you segment your customer base, personalize outreach to as many customers as the moment calls for, and gives every associate ready-to-use, on-brand templates instead of a blank box. Then it reports back, so outreach becomes a repeatable channel you can rely on — not an ad hoc activity only your best associates do.」（https://endearhq.com/・1回目）
+  - 「Unify every purchase, preference, interaction, and omnichannel moment into one real-time view your team can actually use.」（https://endearhq.com/・1回目）
+- 製造業の実績：
+  - 「Endear is trusted by brands with three stores all the way to over a thousand. These brands range from scaling specialty retailers, growing their retail footprint with Endear, to multi-brand and multi-region enterprise portfolios.」（https://endearhq.com/・1回目）
+  - 「Trusted by 1500+ apparel stores worldwide, Endear is the CRM of choice for brands like Frame, GANNI, Reformation, Evereve, and of course, AG Jeans.」（https://endearhq.com/blog/ag-jeans-case-study・1回目）
+- 再販・ホワイトラベル：
+  - 「Define available time slots, staff members, and services offered to align with your brand’s unique needs.」（https://endearhq.com/appointments・1回目）
+  - 「Request a walkthrough of the platform to see how curated product stories can drive revenue for your brand, and learn more about our free trial.」（https://endearhq.com/shoppable-stories・1回目）
+  - 「Endear partners with modern retail agencies, consultants, and industry experts with international reach to boost client growth. Explore how to get involved with our partnership program.」（https://endearhq.com/about-us・1回目）
+  - 「Strategic Partner Program for Agencies & Tech」（https://endearhq.com/partners・1回目）
+  - 「turns turn-key, branded retail stores into a scalable sales and marketing channel for your brand.」（https://endearhq.com/partners・1回目）
+  - 「Apply today to join our Strategic Partner Program and start growing sales and engagement for your clients.」（https://endearhq.com/partners・1回目）
+  - 「PAIGE achieved a 3.9% SMS conversion rate and drove over 5% of total sales through Endear's clienteling platform. Their journey from untrackable personal texts to measurable, high-impact customer communication could be your brand's story too.」（https://endearhq.com/blog/paige-case-study・1回目）
+- 規模・親会社：
+  - 「Endear | Clienteling Software That Turns Stores Into a Revenue Engine」（https://endearhq.com/・1回目）
+  - 「Brands that run their clienteling strategy with Endear see higher order values and attributable revenue from day one.」（https://endearhq.com/・1回目）
+  - 「New arrivals match the pieces she has loved before.」（https://endearhq.com/・1回目）
+  - 「New arrivals match the pieces she has loved before. Review the customer’s history and tailor the draft before sending.」（https://endearhq.com/・1回目）
+  - 「We miss you, new arrivals picked for you」（https://endearhq.com/・1回目）
+  - 「$1.4B (and counting) in attributable revenue tracked for retail teams.」（https://endearhq.com/・1回目）
+  - 「Attributed revenue · last 30 days」（https://endearhq.com/・1回目）
+  - 「A complete revenue engine」（https://endearhq.com/・1回目）
+  - 「Prove what's actually driving store foot traffic and revenue」（https://endearhq.com/・1回目）
+  - 「Unify appointment data with customer profiles, shopping history, and follow-ups to understand what drives revenue.」（https://endearhq.com/appointments・1回目）
+  - 「Endear users typically see new revenue within their first week on the platform.」（https://endearhq.com/shoppable-stories・1回目）
+  - 「Request a walkthrough of the platform to see how curated product stories can drive revenue for your brand, and learn more about our free trial.」（https://endearhq.com/shoppable-stories・1回目）
+- 連絡先：
+  - 「Curate and share shoppable product collections your associates build in minutes and send by text, email, or WhatsApp, so customers can browse, add to cart, and check out without ever leaving the message.」（https://endearhq.com/・1回目）
+  - 「How is Endear different from a CRM or an email marketing platform?」（https://endearhq.com/・1回目）
+  - 「After appointments, send personalized texts, emails, or lookbooks to drive repeat visits and increase lifetime value.」（https://endearhq.com/appointments・1回目）
+  - 「Build and share shoppable lookbooks pulled straight from your inventory. Then let customers browse, add to cart, and checkout directly from your text or email.」（https://endearhq.com/shoppable-stories・1回目）
+  - 「Email yourself a story →」（https://endearhq.com/shoppable-stories・1回目）
+  - 「No more spending social media dollars to entice customers you already have. Utilize your first-party data to share products directly with clients through email, text, and WhatsApp. Then let customers easily reply with any product-related questions.」（https://endearhq.com/shoppable-stories・1回目）
+  - 「Easily share your stories over SMS, email, or WhatsApp to turn every product recommendation into a conversation. Customers replies are automatically sent to their assigned salesperson for any product questions.」（https://endearhq.com/shoppable-stories・1回目）
+  - 「Email, SMS, WhatsApp, and live chat」（https://endearhq.com/pricing・1回目）
+  - 「Yes. Any brand, at any size, can try Endear free for 14 days. The trial covers creating an account, importing and syncing your data, building customer segments, and sending emails and texts, so you can put most of the platform to work before you pay for it. Qualified customers can also run a risk-free pilot program.」（https://endearhq.com/pricing・1回目）
+  - 「Additional texts and emails can be added to any Endear plan at any time from your account settings page. If you are on a custom or annual plan, your account manager can add them for you.」（https://endearhq.com/pricing・1回目）
+  - 「We look at messages that receive replies or clicks only. For e-commerce, we prefer email messages, but for in-store, we compare engagement rates for SMS vs. email. Our in-store clients typically prefer SMS. We also monitor the performance of individual lookbooks and templates. We try to do A/B testing as much as we can.」（https://endearhq.com/blog/how-frame-tripled-revenue-case-study・1回目）
+  - 「So you use Endear for emails and SMS. What about the Shoppable Story lookbooks?」（https://endearhq.com/blog/eleventy-case-study・1回目）
+- 検索結果の抜粋：
+  - 「Android向けのEndear APKをダウンロードしましょう — Sep 2, 2026 · ウイルスはありません スパイウェアはありません マルウェアはありません パッケージ名: com.endearhq.app SHA-256: 32b3e101208603ce37a49928adf55bd428161baa8161fcac40120baba3eb881c」（https://apkpure.com/jp/endear-clienteling/com.endearhq.app・3回目）
+  - 「Endear - LinkedIn 日本 — Oct 20, 2025 · ウェブサイト https://www.endearhq.com Endearの外部リンク 業種 ソフトウェア開発 会社規模 社員 11 - 50名 本社 New York 種類 非上場企業 創立 2016 専門分野 E-Commerce、Retail Tech、Client Experience、Retail Technology、Clienteling、Retail...」（https://jp.linkedin.com/company/endear・3回目）
+  - 「Endear Customer Success Stories Guide - endearhq.com — Dive into real success stories and case studies that prove the transformative impact of Endear and an effective clienteling strategy. Download now.」（https://endearhq.com/success-stories-guide・3回目）
+  - 「Meet Endear! | Endear Help Center - help.endearhq.com — Nov 17, 2022 · Endear connects to your point-of-sale or eCommerce platform to offer a live feed of customer order history, data, and product inventory. Organize your customer data using filters like total spend, order location, and address so you're always targeting the right customers with the right message.」（https://help.endearhq.com/en/articles/6152731-meet-endear・3回目）
+- 創業年度：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部22頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部22頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部22頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部22頁・検索12回）
+- 料金：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部22頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部22頁・検索12回）
+
+## EngageBay
+- 公式URL：https://www.engagebay.com/（given）
+- 採用・広告の製品：
+  - 「Email Marketing Automation for Small Business」（https://www.engagebay.com/・1回目）
+  - 「Perfect for beginners, powerful for pros」（https://www.engagebay.com/・1回目）
+  - 「1,000+ Email Marketing Templates, Ready to Use」（https://www.engagebay.com/・1回目）
+  - 「Professional designs, ready to use」（https://www.engagebay.com/・1回目）
+  - 「"Engagebay works pretty well with my business. I was using ActiveCampaign but the costs were adding up quite quickly. I tried other platforms but the automation sequence offered by ActiveCampaign is not easy to find, until, I got Engagebay. The platforms offer an awesome automation platform for emails, plus landing pages and forms. It works quite well and can be a perfect substitute."」（https://www.engagebay.com/・1回目）
+  - 「"The software is easy to set up and implement. I feel EngageBay is quickly becoming a marketing automation competitor to the premium SAAS offerings. EngageBay's customer support has been very responsive and helped me resolve an implementation issue almost immediately."」（https://www.engagebay.com/・1回目）
+  - 「Marketing Manager, List Biological Laboratories, Inc」（https://www.engagebay.com/・1回目）
+  - 「"A full-featured marketing platform. With this, you have all you need to get started and succeed. Having all in one platform make any marketer job much easier."」（https://www.engagebay.com/・1回目）
+  - 「"EngageBay has everything I need when it comes to managing customer relations and sales activities. The features I most frequently use are automation for sending emails, managing sales, and marketing automation. Plus, having a built-in live chat and help desk tool makes it really easy to engage with customers."」（https://www.engagebay.com/・1回目）
+  - 「Yes. EngageBay offers a genuinely free plan — not a trial — that includes CRM, email marketing, live chat, and helpdesk features for up to 15 users. No credit card is required to sign up. Paid plans start at $12.74/user/month if you need advanced features like marketing automation workflows, custom reporting, or increased contact limits.」（https://www.engagebay.com/・1回目）
+  - 「EngageBay includes over 30 features across marketing, sales, and support: email marketing, marketing automation, CRM, contact management, lead scoring, sales pipelines, appointment scheduling, email templates, web forms, landing pages, live chat, helpdesk ticketing, deal management, and an AI chatbot. All features are available in one platform — no integrations required between tools.」（https://www.engagebay.com/・1回目）
+  - 「EngageBay is built specifically for small businesses and startups. Unlike enterprise CRMs that charge per feature, EngageBay bundles everything into one affordable plan. It requires no technical setup, has an intuitive interface, and offers free onboarding support. G2 has consistently rated EngageBay as a Leader in the Small Business CRM category, with 900+ reviews averaging 4.7 out of 5.」（https://www.engagebay.com/・1回目）
+- 製造業の実績：
+  - 「Case Study: Replace 6 Tools with EngageBay」（https://www.engagebay.com/case-studies/all-in-one-case-study・1回目）
+  - 「Want to read it later? Download this case study for free!」（https://www.engagebay.com/case-studies/all-in-one-case-study・1回目）
+  - 「Case Study: Cut Marketing Costs with EngageBay」（https://www.engagebay.com/case-studies/affordability-case-study・1回目）
+  - 「Want to read it later? Download this case study for free!」（https://www.engagebay.com/case-studies/affordability-case-study・1回目）
+  - 「All In One Case Study」（https://www.engagebay.com/partners・1回目）
+  - 「Affordability Case Study」（https://www.engagebay.com/partners・1回目）
+  - 「Customer Appointment management (CAM) is a type of appointment scheduler software that is used by enterprise mobile workforces. It schedules and routes in-home service appointment arrivals automatically. This software is offered as SaaS.」（https://www.engagebay.com/crm/company-management-software・1回目）
+  - 「"Buckets" is simply another word for categories or segments, commonly used by inbound marketers. They define how you’re going to organize your audience. Your customer buckets can be as broad or as hyper-specific as you like. The number and types of buckets depend on the diversity of your audience and the types of customer segments you’re trying to reach.」（https://www.engagebay.com/resources/segmenting-customers・1回目）
+  - 「All In One Case Study」（https://www.engagebay.com/about・1回目）
+  - 「Affordability Case Study」（https://www.engagebay.com/about・1回目）
+  - 「Rate This Customer Case Study」（https://www.featuredcustomers.com/vendor/engagebay/case-studies・3回目）
+- 再販・ホワイトラベル：
+  - 「EngageBay Partner Program: Agencies & Consultants」（https://www.engagebay.com/partners・1回目）
+  - 「EngageBay Partner Programs」（https://www.engagebay.com/partners・1回目）
+  - 「Affiliate Partner Program」（https://www.engagebay.com/partners・1回目）
+  - 「Reseller Partner Program」（https://www.engagebay.com/partners・1回目）
+  - 「Get white label EngageBay CRM and grow your business by delivering more personal experiences for your clients with EngageBay's Partner Program.」（https://www.engagebay.com/partners・1回目）
+  - 「Small realtors or real estate agencies rarely have the luxury of services of a professional secretary. How do they manage multiple affluent clients – all with different requirements and in need of personalized service?」（https://www.engagebay.com/crm/company-management-software・1回目）
+  - 「Small realtors or real estate agencies rarely have the luxury of services of a professional secretary. How do they manage multiple affluent clients – all with different requirements and in need of personalized service?」（https://www.engagebay.com/solutions/crm-for-nonprofits・1回目）
+  - 「EngageBay helps real estate agents and agencies stay on top of their heavy workload without compromising the quality of service being offered. Effortlessly create proposals, send out」（https://www.engagebay.com/solutions/real-estate-crm-marketing・1回目）
+  - 「EngageBay Reseller: White-Label CRM for Agencies」（https://www.engagebay.com/reseller・1回目）
+  - 「Benefits of EngageBay’s White Label Reseller Program」（https://www.engagebay.com/reseller・1回目）
+  - 「Resell our rapidly growing marketing, sales, and support automation software under your brand. We will provide you with resources, tools, and training to help you succeed while you grow your revenue.」（https://www.engagebay.com/reseller・1回目）
+  - 「White label a powerful CRM to track deals, automate sales, and close more opportunities all under your brand.」（https://www.engagebay.com/reseller・1回目）
+- 規模・親会社：
+  - 「EngageBay proved its mettle as an affordable all-in-one marketing, sales, and customer support solution. Dan’s team went from taking care of multiple, expensive platforms to a single easy-to-use software – a change that reflected positively in their productivity and revenue.」（https://www.engagebay.com/case-studies/all-in-one-case-study・1回目）
+  - 「EngageBay is an absolute gem. We were able to drastically scale down marketing and operational costs without affecting revenue. In fact, the cost saved was invested in other areas, making the business more profitable.」（https://www.engagebay.com/case-studies/affordability-case-study・1回目）
+  - 「Grow your revenues - Earn recurring income selling our award winning software」（https://www.engagebay.com/partners・1回目）
+  - 「Grow revenue by gaining access to our unique features and support options.」（https://www.engagebay.com/partners・1回目）
+  - 「The desktop variants are individually licensed and installed on the users’ hard drive. These systems have robust reporting features among other ones, and are customizable. But a disadvantage with many of them is that they don’t usually offer an online portal for employees or customers to access. Apps that have been installed need to be maintained, supported, and upgraded by the end user.」（https://www.engagebay.com/crm/company-management-software・1回目）
+  - 「Customer Appointment management (CAM) is a type of appointment scheduler software that is used by enterprise mobile workforces. It schedules and routes in-home service appointment arrivals automatically. This software is offered as SaaS.」（https://www.engagebay.com/crm/company-management-software・1回目）
+  - 「CAM software uses proprietary algorithms that identify the work patterns of mobile employees to accurately predict a service technician’s time of arrival and reduce a customer’s waiting time exponentially. These SaaS systems are easy to deploy and use and allow flexible pricing packages.」（https://www.engagebay.com/crm/company-management-software・1回目）
+  - 「Most organizations today rely on a sophisticated Customer Relationship Management (CRM) solution to structure their orders and revenue.」（https://www.engagebay.com/solutions/crm-for-nonprofits・1回目）
+  - 「Resell our rapidly growing marketing, sales, and support automation software under your brand. We will provide you with resources, tools, and training to help you succeed while you grow your revenue.」（https://www.engagebay.com/reseller・1回目）
+  - 「Give your clients a powerful toolkit to automate email campaigns, nurture leads, and grow revenue—all branded with your company’s identity.」（https://www.engagebay.com/reseller・1回目）
+  - 「With awesome software backed by a dedicated support team, make every part of your marketing, sales & helpdesk more effective.」（https://www.engagebay.com/legal/・1回目）
+  - 「Segmenting your audience is a mandatory part of successful」（https://www.engagebay.com/resources/segmenting-customers・1回目）
+- 連絡先：
+  - 「Email Marketing Automation for Small Business」（https://www.engagebay.com/・1回目）
+  - 「Send targeted emails automatically」（https://www.engagebay.com/・1回目）
+  - 「1,000+ Email Marketing Templates, Ready to Use」（https://www.engagebay.com/・1回目）
+  - 「EngageBay offers customizable HTML templates to create beautiful, high-converting emails for 1,000+ use cases.」（https://www.engagebay.com/・1回目）
+  - 「"Engagebay works pretty well with my business. I was using ActiveCampaign but the costs were adding up quite quickly. I tried other platforms but the automation sequence offered by ActiveCampaign is not easy to find, until, I got Engagebay. The platforms offer an awesome automation platform for emails, plus landing pages and forms. It works quite well and can be a perfect substitute."」（https://www.engagebay.com/・1回目）
+  - 「"EngageBay has everything I need when it comes to managing customer relations and sales activities. The features I most frequently use are automation for sending emails, managing sales, and marketing automation. Plus, having a built-in live chat and help desk tool makes it really easy to engage with customers."」（https://www.engagebay.com/・1回目）
+  - 「Email Template Builder」（https://www.engagebay.com/・1回目）
+  - 「Yes. EngageBay offers a genuinely free plan — not a trial — that includes CRM, email marketing, live chat, and helpdesk features for up to 15 users. No credit card is required to sign up. Paid plans start at $12.74/user/month if you need advanced features like marketing automation workflows, custom reporting, or increased contact limits.」（https://www.engagebay.com/・1回目）
+  - 「EngageBay includes over 30 features across marketing, sales, and support: email marketing, marketing automation, CRM, contact management, lead scoring, sales pipelines, appointment scheduling, email templates, web forms, landing pages, live chat, helpdesk ticketing, deal management, and an AI chatbot. All features are available in one platform — no integrations required between tools.」（https://www.engagebay.com/・1回目）
+  - 「Most businesses are up and running within a day. EngageBay offers a guided onboarding session, video tutorials, and a support team available via live chat and email. You can import existing contacts from HubSpot, Salesforce, or a CSV file in minutes. There's no installation required — EngageBay is fully cloud-based and works in any browser.」（https://www.engagebay.com/・1回目）
+  - 「A+ tutoring had around 10,000 contacts and around 25,000 emails sent every month. In a nutshell, they were forced to search for better ways to streamline business operations.」（https://www.engagebay.com/case-studies/all-in-one-case-study・1回目）
+  - 「CRM Email Integration」（https://www.engagebay.com/partners・1回目）
+- 検索結果の抜粋：
+  - 「FitGap | EngageBayとは？強み、注意点を専門家がレビュー — EngageBayは既存ツールからの移行支援を提供しており、導入時のデータ移行にかかる負担を抑えやすい点が特徴です。 そのため、現在利用中のCRMから乗り換えを検討している企業にとって、比較検討の際に選択肢として挙がりやすいサービスといえます。」（https://fitgap.com/jp/products/engagebay・3回目）
+  - 「EngageBay CRMとは？ | 機能や料金、導入事例をご紹介【キャプテラ】 — EngageBay CRMを実際に使用したユーザーのレビューから、製品の機能や価格、メリットデメリットをご覧いただけます。 類似製品との比較も簡単、ぴったりのSaaSが見つかるはず！」（https://www.capterra.jp/software/178819/engagebay-marketing・3回目）
+  - 「EngageBay レビュー — Jan 20, 2026 · EngageBayのレビューでは、機能、価格、長所、短所、およびRanktrackerとの比較を網羅し、あなたのビジネスに最適なオールインワンCRMおよびマーケティングツールであるかどうかを確認します。」（https://www.ranktracker.com/ja/blog/engagebay-review/・3回目）
+  - 「AI-Powered CRM Software for Small Business | EngageBay — EngageBay offers a guided onboarding session, video tutorials, and a support team available via live chat and email. You can import existing contacts from HubSpot, Salesforce, or a CSV file in minutes.」（https://www.engagebay.com/・3回目）
+  - 「EngageBay + Asana — EngageBay とは？ EngageBay は、中小企業がウェブサイトの訪問者を獲得し、エンゲージメントを高め、顧客にコンバージョンさせることを目的として設計された、マーケティング、セールス、サポート、CRM を統合したソリューションです。」（https://asana.com/ja/apps/engagebay・3回目）
+  - 「EngageBay | LinkedIn — EngageBay offers innovative AI-powered marketing and sales tools designed for small to medium-sized businesses. It helps you enhance your email marketing, build forms with ease, and score your...」（https://jp.linkedin.com/company/engagebay/・3回目）
+  - 「EngageBay Inc. — This is a subdomain of EngageBay Inc. For any queries, please contact support@engagebay.com Visit Our Website Schedule a Call」（https://www.engagebay.co/・3回目）
+  - 「AI-Powered CRM Software for Small Business | EngageBay — EngageBay is an all-in-one CRM platform built for small businesses and startups. It combines marketing automation, email marketing, sales CRM, appointment scheduling, live chat, and helpdesk into a single tool — so you don't need to stitch together multiple subscriptions.」（https://www.engagebay.com/・3回目）
+  - 「EngageBay Customer Success Stories | Case Studies — See how businesses use EngageBay to cut costs, grow revenue & streamline operations. Read real customer success stories. Start free.」（https://www.engagebay.com/case-studies/・3回目）
+  - 「Case Study: Replace 6 Tools with EngageBay — See how one business replaced 6 separate tools with EngageBay, cut costs & streamlined operations. Read the full case study now.」（https://www.engagebay.com/case-studies/all-in-one-case-study・3回目）
+  - 「EngageBay B2B Case Studies & Customer Successes — See how EngageBay solves business challenges—real case studies from satisfied customers across industries.」（https://www.casestudies.com/company/engagebay・3回目）
+  - 「3 EngageBay Case Studies, Success Stories, & Customer StoriesCase Study: IN Business Ninjas achieves an 82% reduction in ...17 EngageBay Customer Reviews & References | FeaturedCustomersCase Study: How "InnovateHub Technologies Pvt. Ltd ... — Discover how other companies use EngageBay, get inspired, and find ways to improve your business. IN Business Ninjas partnered with EngageBay (Information Te」（https://www.featuredcustomers.com/vendor/engagebay/case-studies・3回目）
+- 創業年度：記載なし（3回確認済み：公式15頁／PDF・画像4件／外部32頁・検索12回）
+- 株主：記載なし（3回確認済み：公式15頁／PDF・画像4件／外部32頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式15頁／PDF・画像4件／外部32頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式15頁／PDF・画像4件／外部32頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式15頁／PDF・画像4件／外部32頁・検索12回）
+- 料金：記載なし（3回確認済み：公式15頁／PDF・画像4件／外部32頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式15頁／PDF・画像4件／外部32頁・検索12回）
+
+## Engati
+- 公式URL：https://www.engati.ai/（given）
+- 採用・広告の製品：
+  - 「Enterprise-grade AI-native Customer eXperience platform for revenue growth | Engati」（https://www.engati.ai/・1回目）
+  - 「with an enterprise-grade, Conversational AI platform powered by eSenseGPT.」（https://www.engati.ai/・1回目）
+  - 「Generate leads, increase conversions, and improve customer experience across channels. Train your bots in seconds with eSenseGPT」（https://www.engati.ai/・1回目）
+  - 「Leverage Gen-AI powered Chatbot, Agent Inbox, Marketing Automation, CDP & more to drive business outcomes」（https://www.engati.ai/・1回目）
+  - 「Enable seamless and contextual conversations across WhatsApp, Voice, Website, and all your channels to Nurture, Convert, and Retain Customers. With Engati’s proprietary」（https://www.engati.ai/・1回目）
+  - 「Deliver personalized engagement to your users at scale and drive Lead Generation & Qualification, Assistance, and Higher Customer Satisfaction. All of this with your readily available marketing material and content repository. Powered by an intuitive and secure」（https://www.engati.ai/・1回目）
+  - 「Automate defined Customer Interactions, FAQs, Lead Qualification, Provide Instant Support and 24/7 availability, across all your digital channels and Enable Agents for complex interactions. With Engati’s」（https://www.engati.ai/・1回目）
+  - 「Seamlessly integrate Engati with third-party applications and CRMs you already use for marketing, ticketing, analytics, and growth」（https://www.engati.ai/・1回目）
+  - 「Senior Digital Marketing Specialist Tokio Marine Insurance」（https://www.engati.ai/・1回目）
+  - 「"In a span of a few weeks, Engati has helped us a lot in saving time & efforts as 71% queries are handled by the bot. TMNF is now present on multiple channels with the bot helping us in driving conversions."」（https://www.engati.ai/・1回目）
+  - 「"Engati Chatbot not only works for general FAQs but also serves as a selling channel for us. The team has helped us by enhancing the product with important features & customizations that added value for us"」（https://www.engati.ai/・1回目）
+  - 「"The Engati platform is so easy to use, no code and efficient. We are especially impressed with the Dashboard feature where it manages all the user inputs and the user can extract reports as per his requirement. Also, the support service is appreciable.'」（https://www.engati.ai/・1回目）
+- 製造業の実績：
+  - 「A division of the Grupo Exteser firm. Their goal is to empower pharmaceuticals, manufacturing, and industrial sectors with Engati’s comprehensive experience and services to better serve clients and employees」（https://www.engati.ai/partners・1回目）
+  - 「Trusted by thousands of fast-growing businesses」（https://www.engati.ai/customers・1回目）
+  - 「Logistics & Manufacturing」（https://www.engati.ai/demo・1回目）
+  - 「Case Study: Sayaji Group achieves 98% query resolution and 53% lead conversion with Engati | CaseStudies.com」（https://www.casestudies.com/company/engati/case-study/sayaji-group-customer-case-study・3回目）
+  - 「Case Study: Sayaji Group achieves 98% query resolution and 53% lead conversion with Engati」（https://www.casestudies.com/company/engati/case-study/sayaji-group-customer-case-study・3回目）
+  - 「Sayaji Group - Customer Case Study」（https://www.casestudies.com/company/engati/case-study/sayaji-group-customer-case-study・3回目）
+  - 「Open case study document...」（https://www.casestudies.com/company/engati/case-study/sayaji-group-customer-case-study・3回目）
+  - 「Was it helpful? Rate this case study:」（https://www.casestudies.com/company/engati/case-study/sayaji-group-customer-case-study・3回目）
+- 再販・ホワイトラベル：
+  - 「Whitelabel chatbot | Become a chatbot partner」（https://www.engati.ai/partners・1回目）
+  - 「Grow your business with our Whitelabel chatbot platform」（https://www.engati.ai/partners・1回目）
+  - 「It's never been easier to Whitelabel AI software. Partner up with us and become a chatbot reseller for the 2021 CODiE award winner」（https://www.engati.ai/partners・1回目）
+  - 「Become a whitelabel partner」（https://www.engati.ai/partners・1回目）
+  - 「Join the Engati Partner Program now!」（https://www.engati.ai/partners・1回目）
+  - 「Become a Whitelabel chatbot solution provider」（https://www.engati.ai/partners・1回目）
+  - 「Grow your brand in your local market as an extension of your current offerings by whitelabeling Engati's strong chatbot platform」（https://www.engati.ai/partners・1回目）
+  - 「Partner with us and sell to your audience at your own pricing with your own branding & Engati support」（https://www.engati.ai/pricing・1回目）
+  - 「Fully Whitelabeled Portal」（https://www.engati.ai/pricing・1回目）
+- 規模・親会社：
+  - 「Enterprise-grade AI-native Customer eXperience platform for revenue growth | Engati」（https://www.engati.ai/・1回目）
+  - 「Drive Revenue Growth across your」（https://www.engati.ai/・1回目）
+  - 「"Engati built an AI system that handles inquiries for all our international programs. Their proactive demo and user-friendly platform convinced us to proceed. We’ve experienced a 150% growth in our database within six months, leading to a corresponding boost in revenue."」（https://www.engati.ai/・1回目）
+  - 「Learn more, arrange a call back!」（https://www.engati.ai/・1回目）
+  - 「A division of the Grupo Exteser firm. Their goal is to empower pharmaceuticals, manufacturing, and industrial sectors with Engati’s comprehensive experience and services to better serve clients and employees」（https://www.engati.ai/partners・1回目）
+  - 「Learn more, arrange a call back!」（https://www.engati.ai/partners・1回目）
+  - 「Earn recurring revenue by setting up your clients on a trusted, customisable, award winning solution」（https://www.engati.ai/pricing・1回目）
+  - 「Learn more, arrange a call back!」（https://www.engati.ai/pricing・1回目）
+  - 「3x your revenue with Chatbots and Live Chat」（https://www.engati.ai/customers・1回目）
+  - 「Learn more, arrange a call back!」（https://www.engati.ai/customers・1回目）
+  - 「. From chatbots to AI-powered revenue engines, our journey is about one thing - helping brands grow through smarter conversations.」（https://www.engati.ai/aboutus・1回目）
+  - 「To combine technology innovation with business outcomes to maximize revenues for our customers」（https://www.engati.ai/aboutus・1回目）
+- 連絡先：
+  - 「What is the response time for customer support via email & whatsapp ?」（https://www.engati.ai/pricing・1回目）
+  - 「Please enter a valid email address.」（https://www.engati.ai/demo・1回目）
+  - 「Your email address will not be published.」（https://www.indianstartuptimes.com/startup-deep-dive/engati-deep-dive/・3回目）
+  - 「Save my name, email, and website in this browser for the next time I comment.」（https://www.indianstartuptimes.com/startup-deep-dive/engati-deep-dive/・3回目）
+  - 「Notify me of follow-up comments by email.」（https://www.indianstartuptimes.com/startup-deep-dive/engati-deep-dive/・3回目）
+  - 「Notify me of new posts by email.」（https://www.indianstartuptimes.com/startup-deep-dive/engati-deep-dive/・3回目）
+  - 「Subscribe to our newsletter and we’ll send you the emails of latest posts.」（https://www.indianstartuptimes.com/startup-deep-dive/engati-deep-dive/・3回目）
+- 検索結果の抜粋：
+  - 「Engati - Enterprise-grade AI-native Customer eXperience ... — "Engati enabled the creation of intelligent bots that accurately responded to customer queries. Seamless integration with our website, mobile app, & social media, coupled with insights into customer behaviour, fueled continuous improvement for our chatbots."」（https://www.engati.ai/・3回目）
+  - 「Engati - LinkedIn 日本 — Engati is the AI-native CX platform that makes every engagement count. We help CXOs, Heads of CX, and Marketing Leaders create seamless, AI-powered customer journeys across WhatsApp, Voice, Web,...」（https://jp.linkedin.com/company/engati・3回目）
+  - 「Engati｜AIツール詳細・機能・料金 - AI TOP TIER — ウェブサイト、SNS、メッセージングアプリでチャットボットやライブチャットをまとめて運用したいなら、Engatiが便利です。 テンプレート、ビジュアルフロー、各種連携、分析機能を活用し、迅速で一貫性のあるサポート体制を構築できます。」（https://www.ai-toptier.com/ai-tools/engati・3回目）
+  - 「Engatiチャットボットプラットフォームによる顧客エンゲージメントの... — Engatiチャットボットプラットフォームを探索し、複数のメッセージングプラットフォームを通じて顧客エンゲージメントを強化するための多機能ツールを見つけましょう。」（https://www.findmoreai.com/ja/ai-tools/engati-com/・3回目）
+  - 「About Us - engati.ai — Engati builds AI-native assistants for seamless, contextual CX. From GenAI to Agentic AI, we push boundaries in tech and customer experience. We started with a simple yet powerful belief - conversations drive business growth.」（https://www.engati.ai/aboutus・3回目）
+  - 「Engati - LinkedIn — Engati is the AI-native CX platform that makes every engagement count. We help CXOs, Heads of CX, and Marketing Leaders create seamless, AI-powered customer journeys across WhatsApp, Voice, Web,...」（https://www.linkedin.com/company/engati/?originalSubdomain=in・3回目）
+  - 「Engati | LinkedIn — Engati is the AI-native CX platform that makes every engagement count. We help CXOs, Heads of CX, and Marketing Leaders create seamless, AI-powered customer journeys across WhatsApp, Voice, Web,...」（https://in.linkedin.com/company/engati・3回目）
+  - 「Case Study: Sayaji Group achieves 98% query resolution and 53 ... — Sayaji Group (Hospitality) partnered with Engati (Computer Software) to solve key challenges. "Sayaji Group - Customer Case Study" is their real-world success story.」（https://www.casestudies.com/company/engati/case-study/sayaji-group-customer-case-study・3回目）
+  - 「Customer success stories - Engati — Engati powers 45,000+ solutions in over 180 countries. It is time to discover how Engati has powered business across industries and verticals across the world.」（https://www.engati.ai/customers・3回目）
+  - 「Engati B2B Case Studies & Customer Successes — See how Engati solves business challenges—real case studies from satisfied customers across industries.」（https://www.casestudies.com/company/engati・3回目）
+  - 「Engati | live — Usecase: Vasansi Jaipur aimed to increase customer reach across various channels such as WhatsApp, Instagram and Facebook to improve sales and boost revenue.」（https://www.engati.ai/case-study-customer/ecommerce・3回目）
+  - 「37 Engati Case Studies, Success Stories, & Customer Stories — Narrow down 37 case studies by company size & industry to find out how Engati works for a business like yours.」（https://www.featuredcustomers.com/vendor/engati/case-studies・3回目）
+- 創業年度：記載なし（3回確認済み：公式6頁／PDF・画像3件／外部30頁・検索12回）
+- 株主：記載なし（3回確認済み：公式6頁／PDF・画像3件／外部30頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式6頁／PDF・画像3件／外部30頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式6頁／PDF・画像3件／外部30頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式6頁／PDF・画像3件／外部30頁・検索12回）
+- 料金：記載なし（3回確認済み：公式6頁／PDF・画像3件／外部30頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式6頁／PDF・画像3件／外部30頁・検索12回）
+
 ## Enode
 - 公式URL：https://enode.com/（given）
 - 株主：15-Jul-2021    Completed Generating Revenue（https://pitchbook.com/profiles/company/463285-99・3回目）
@@ -2188,6 +3881,87 @@
 - 売上高：記載なし（3回確認済み：公式13頁／PDF・画像0件／外部31頁・検索12回）
 - 所在地：記載なし（3回確認済み：公式13頁／PDF・画像0件／外部31頁・検索12回）
 - 料金：記載なし（3回確認済み：公式13頁／PDF・画像0件／外部31頁・検索12回）
+
+## Epsilo
+- 公式URL：https://epsilo.ai/one（given）
+- 採用・広告の製品：
+  - 「Toggle the table of contents」（https://en.wikipedia.org/wiki/Epsilon_(rocket)・3回目）
+  - 「. It is a follow-on project to the larger and more expensive」（https://en.wikipedia.org/wiki/Epsilon_(rocket)・3回目）
+  - 「The Epsilon is expected to have a shorter launch preparation time than its predecessors;」（https://en.wikipedia.org/wiki/Epsilon_(rocket)・3回目）
+  - 「a function called "mobile launch control" greatly shortens the launch preparation time, and needs only eight people at the launch site,」（https://en.wikipedia.org/wiki/Epsilon_(rocket)・3回目）
+  - 「After the successful launch of the Epsilon first flight (demonstration flight), the improvement plan was decided to handle the planned payloads (」（https://en.wikipedia.org/wiki/Epsilon_(rocket)・3回目）
+  - 「Requirements for the improvement:」（https://en.wikipedia.org/wiki/Epsilon_(rocket)・3回目）
+  - 「. As the H-IIA family has retired in 2025, continuing the production of SRB-A3 solely for Epsilon would lead to a significant rise in production cost.」（https://en.wikipedia.org/wiki/Epsilon_(rocket)・3回目）
+  - 「1's second stage, the M-35a will have the same performance as Enhanced Epsilon's M-35, but with changes in propellant and insulation.」（https://en.wikipedia.org/wiki/Epsilon_(rocket)・3回目）
+  - 「The root cause was determined to be the "melting and scattering of a metal part from the ignition device", which damaged the propellant and insulation.」（https://en.wikipedia.org/wiki/Epsilon_(rocket)・3回目）
+  - 「reported that JAXA was reviewing its development plans for the Epsilon S. In order to move up plans for a return to flight, the decision was made to defer planned improvements to the second stage and revert to using the proven, existing design of Enhanced Epsilon. While this would entail performance being lower than originally planned, it could enable a launch as early as late 2026.」（https://en.wikipedia.org/wiki/Epsilon_(rocket)・3回目）
+  - 「In November 2012, JAXA reported that there had been a possible leak of rocket data due to a computer virus. JAXA had previously been a victim of cyber-attacks, possibly for」（https://en.wikipedia.org/wiki/Epsilon_(rocket)・3回目）
+  - 「rockets may have been compromised.」（https://en.wikipedia.org/wiki/Epsilon_(rocket)・3回目）
+- 製造業の実績：
+  - 「Japan Aerospace Exploration Agency」（https://en.wikipedia.org/wiki/Epsilon_(rocket)・3回目）
+  - 「The Japan Aerospace Exploration Agency removed the infected computer from its network, and said its」（https://en.wikipedia.org/wiki/Epsilon_(rocket)・3回目）
+  - 「Trans. JSASS Aerospace Tech. Japan」（https://en.wikipedia.org/wiki/Epsilon_(rocket)・3回目）
+  - 「. Japan Aerospace Exploration Agency. 2007. Archived from」（https://en.wikipedia.org/wiki/Epsilon_(rocket)・3回目）
+  - 「. IHI Aerospace. Archived from」（https://en.wikipedia.org/wiki/Epsilon_(rocket)・3回目）
+  - 「: European Conference for AeroSpace Sciences.」（https://en.wikipedia.org/wiki/Epsilon_(rocket)・3回目）
+  - 「, IHI Aerospace」（https://en.wikipedia.org/wiki/Epsilon_(rocket)・3回目）
+  - 「Trusted by the entrepreneurs and largest operators」（https://www.epsilo.ai/・3回目）
+  - 「Trusted by largest advertising operators」（https://www.epsilo.ai/・3回目）
+  - 「Powering operators at every scale」（https://www.epsilo.ai/・3回目）
+  - 「Operators choose Epsilo when they scale beyond single ad networks, markets or teams.」（https://www.epsilo.ai/・3回目）
+  - 「Build: Manufacturing Execution System」（https://www.epsilon3.io/case-studies-white-papers・3回目）
+- 再販・ホワイトラベル：
+  - 「Agencies and brands. Planners and optimizers. Managers and analysts.」（https://www.epsilo.ai/・3回目）
+- 日本の担い手：
+  - 「日本、東南アジア、インドを中心に40以上のネットワークへ対応し、Rakuten、Amazon Japan、LINE、Shopee、Lazada、TikTok Shop、Flipkartなどをカバーしている」（https://www.jetro.go.jp/j-bridge/companies/2022/epsilo.html・3回目）
+  - 「Unilever、L'Oreal、P&G、Nestle、Reckitt、WPP、Publicis、Dentsuなどの企業や広告代理店に導入されており、GartnerのDigital Shelf Analytics市場ガイドに2024年と2025年の両年で掲載された」（https://www.jetro.go.jp/j-bridge/companies/2022/epsilo.html・3回目）
+  - 「), is a Japanese」（https://en.wikipedia.org/wiki/Epsilon_(rocket)・3回目）
+  - 「Japan Aerospace Exploration Agency」（https://en.wikipedia.org/wiki/Epsilon_(rocket)・3回目）
+  - 「A report regarding the cause has been published and is available for viewing, although it is in Japanese.」（https://en.wikipedia.org/wiki/Epsilon_(rocket)・3回目）
+  - 「Cabinet Office of Japan」（https://en.wikipedia.org/wiki/Epsilon_(rocket)・3回目）
+  - 「The Japan Aerospace Exploration Agency removed the infected computer from its network, and said its」（https://en.wikipedia.org/wiki/Epsilon_(rocket)・3回目）
+  - 「Trans. JSASS Aerospace Tech. Japan」（https://en.wikipedia.org/wiki/Epsilon_(rocket)・3回目）
+  - 「"Asteroid probe, rocket get nod from Japanese panel"」（https://en.wikipedia.org/wiki/Epsilon_(rocket)・3回目）
+  - 「"Japan's 'affordable' Epsilon rocket triumphs on first flight"」（https://en.wikipedia.org/wiki/Epsilon_(rocket)・3回目）
+  - 「. Japan Aerospace Exploration Agency. 2007. Archived from」（https://en.wikipedia.org/wiki/Epsilon_(rocket)・3回目）
+  - 「"Japan's Laptop-Controlled Space Rocket Blasts Off (video)"」（https://en.wikipedia.org/wiki/Epsilon_(rocket)・3回目）
+- 規模・親会社：
+  - 「rockets. The first flight, carrying the」（https://en.wikipedia.org/wiki/Epsilon_(rocket)・3回目）
+  - 「"JAXA readies small rocket to break cost, use barriers"」（https://en.wikipedia.org/wiki/Epsilon_(rocket)・3回目）
+  - 「Each recommendation carries its agent and its approver, so nothing waits in a thread.」（https://www.epsilo.ai/・3回目）
+  - 「Every recommendation arrives with its evidence and its money: how much budget, how hard to bid, which market, which products, and when to move.」（https://www.epsilo.ai/・3回目）
+  - 「Every proposal arrives with the data behind it and the money attached, so approval rests on proof.」（https://www.epsilo.ai/・3回目）
+  - 「Marriott International」（https://www.epsilon.com/us/client-success/case-studies・3回目）
+  - 「“Epsilon3 has helped streamline our testing and operations, allowing us to carry out our mission safely, effectively, and efficiently.”」（https://www.epsilon3.io/case-studies-white-papers・3回目）
+  - 「Epsilo Revenue 2020: $5.3M, $3M Raised」（https://getlatka.com/companies/epsilo・3回目）
+  - 「Epsilo's annual revenue was $5.3M in November 2020 (source not recorded), the most recent figure on record.」（https://getlatka.com/companies/epsilo・3回目）
+  - 「Epsilo competes most directly with BrightEdge and Botify. It is the smallest of the three by revenue.」（https://getlatka.com/companies/epsilo・3回目）
+  - 「Epsilo CEO, founders & employees」（https://getlatka.com/companies/epsilo・3回目）
+  - 「Quang Tran founded Epsilo in 2019 and runs it as CEO. Epsilo had 49 employees (December 2024, LinkedIn), up from 40 a year earlier.」（https://getlatka.com/companies/epsilo・3回目）
+- 連絡先：
+  - 「Sheets, email, calendar, market research and your own data through the headless API, ready for your agents.」（https://www.epsilo.ai/・3回目）
+  - 「Brand, agency and partners receive the same read in Slack, Zalo, WhatsApp or email, on the cadence you set.」（https://www.epsilo.ai/・3回目）
+  - 「Epsilo is email marketing automation platform.」（https://getlatka.com/companies/epsilo・3回目）
+  - 「Email Marketing Software」（https://getlatka.com/companies/epsilo・3回目）
+- 検索結果の抜粋：
+  - 「Epsilo | 海外有望企業情報 - J-Bridge：連携・協業のためのビジネス... — 日本、東南アジア、インドを中心に40以上のネットワークへ対応し、Rakuten、Amazon Japan、LINE、Shopee、Lazada、TikTok Shop、Flipkartなどをカバーしている。」（https://www.jetro.go.jp/j-bridge/companies/2022/epsilo.html・3回目）
+  - 「脳血管内電極 - Epsilon Medical — 血管内電極デバイスの設計・開発を通じて医療に貢献します。 We contribute to medecal care through the design and development of Endovascular EEG.」（https://ep-med.com/・3回目）
+  - 「Epsilon (rocket) - Wikipedia — The Epsilon Launch Vehicle, or Epsilon rocket (イプシロンロケット, Ipushiron roketto) (formerly Advanced Solid Rocket), is a Japanese solid-fuel rocket designed to launch scientific satellites. It is a follow-on project to the larger and more expensive M-V rocket which was retired in 2006.」（https://en.wikipedia.org/wiki/Epsilon_(rocket)・3回目）
+  - 「Epsilo | 海外有望企業情報 - J-Bridge：連携・協業のためのビジネス... — Epsiloは、複数の広告ネットワークを単一のプラットフォームで統合管理するグローバルなコマースメディア運営プラットフォームである。 日本、東南アジア、インドを中心に40以上のネットワークへ対応し、Rakuten、Amazon Japan、LINE、Shopee、Lazada、TikTok Shop、Flipkartなどをカバーしている。 AIエージェントを活用して日常的な広告運用業務を自動化し、複数市場におけるキャンペーンの管理と最適化を支援する。」（https://www.jetro.go.jp/j-bridge/companies/2022/epsilo.html・3回目）
+  - 「AI for cross-network advertising | Epsilo — Having consolidated the ASEAN onsite marketing duties with Epsilo for the past two years, we decided to introduce Taiwan into the fold to extend the coverage of their AdTech and expertise, and the Epsilo team has performed superbly, right from the very beginning.」（https://www.epsilo.ai/・3回目）
+  - 「EPSILON JAPAN RAGUNA ZZYZX - wheelsgang — EPSILON JAPAN RAGUNA ZZYZX Free shipping to the 50 states, Canada, Europe 16" 8.5 +42 (lips 1.75") med disk 5x150 Center hole 114.5 mm polished lips air valves faces powder painting」（https://www.wheelsgang.com/product-page/epsilon-japan-raguna-zzyzx・3回目）
+  - 「Epsilo.ai - LinkedIn — At Epsilo, 500+ sellers and agencies run Southeast Asia's biggest marketplaces from one console. In 2026 we go further: AI for every workflow inside an advertising team.」（https://www.linkedin.com/company/epsiloai・3回目）
+  - 「Client Success Stories: Explore Real-World ... - Epsilon — Browse Epsilon case studies to see how top brands drive results with our data, identity, and marketing solutions across multiple industries.」（https://www.epsilon.com/us/client-success/case-studies・3回目）
+  - 「Epsilon3 - Customer Case Studies & White Papers — Read case studies and white papers on how teams improve operations, workflows, and execution using Epsilon3.」（https://www.epsilon3.io/case-studies-white-papers・3回目）
+  - 「Customer Stories | Epsilo — How teams win with Epsilo. Launched synchronized campaigns across 50+ brands and achieved 4.2x ROAS improvement. Transformed client operations across 100+ countries and scaled team capacity by 500%.」（https://epsilo.ai/customers・3回目）
+  - 「The Value of Case Studies - Epsilon Industries — Jan 15, 2024 · Over the past several years, we have published a number of case studies that tell the stories of how Epsilon designed, fabricated, and installed solutions to the unique challenges faced by our clients and their project teams.」（https://epsilonfab.com/the-value-of-case-studies/・3回目）
+  - 「Epsilon - Customer Case Study — Epsilon (Marketing & Advertising) partnered with Cantina (Design) to solve key challenges. "Epsilon - Customer Case Study" is their real-world success story.」（https://www.casestudies.com/company/cantina/case-study/epsilon-customer-case-study・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）
 
 ## Epsilon3
 - 公式URL：https://www.epsilon3.io/（given）
@@ -2320,6 +4094,105 @@
 - 料金：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部33頁・検索12回）
 - 製造業の実績：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部33頁・検索12回）
 
+## Everafter
+- 公式URL：https://www.everafter.ai/（given）
+- 株主：14-Sep-2021    Completed Generating Revenue（https://pitchbook.com/profiles/company/458296-39・3回目）
+- 株主：01-Jan-2020    Completed Startup（https://pitchbook.com/profiles/company/458296-39・3回目）
+- 採用・広告の製品：
+  - 「AI Studio builds it from your data and your brand. AI Agents act on every signal. AI Experts answer any question, any hour. One branded interface per account for onboarding, adoption, QBRs and renewals, with or without a CSM.」（https://www.everafter.ai/・1回目）
+  - 「digital onboarding and customer experiences.」（https://www.everafter.ai/・1回目）
+  - 「In just the onboarding phase, we've already」（https://www.everafter.ai/・1回目）
+  - 「Our latest marketing campaign has boosted customer engagement by over 50% on social platforms.」（https://www.everafter.ai/・1回目）
+  - 「Customers now complete onboarding modules in」（https://www.everafter.ai/・1回目）
+  - 「Onboarding that personalizes itself per account. Goals captured from the customer, tasks that check themselves off, and progress both sides can see without booking a call. ZoomInfo cut the time from contract to kickoff in half. Vidyard went from about two months to about one week.」（https://www.everafter.ai/・1回目）
+  - 「Boost customer retention」（https://www.everafter.ai/・1回目）
+  - 「Success plans that update themselves from live product usage, so every customer sees what to do next. Okta ran them across accounts with no CSM coverage and tripled adoption of a target feature in a single week.」（https://www.everafter.ai/・1回目）
+  - 「Accelerate Partner Success With Efficient Onboarding | EverAfter」（https://www.everafter.ai/solution/partner-success・1回目）
+  - 「Boost customer retention」（https://www.everafter.ai/solution/partner-success・1回目）
+  - 「High-Touch Onboarding」（https://www.everafter.ai/solution/partner-success・1回目）
+  - 「Digital-Touch Onboarding」（https://www.everafter.ai/solution/partner-success・1回目）
+- 製造業の実績：
+  - 「EverAfter is used by customer-centric companies around the world that strive to deliver personalized customer success experiences at scale.」（https://www.everafter.ai/about-us・1回目）
+  - 「EverAfter | Vidyard Case Study」（https://www.everafter.ai/customer/everafter-vidyard-case-study・1回目）
+  - 「20% CSAT Boost & AI Triage | Spotnana Case Study | EverAfter」（https://www.everafter.ai/customer/everafter-spotnana-case-study・1回目）
+  - 「PopcornApps Case Study: EverAfter Digital – EverAfter Digital - Customer Case Study | CaseStudies.com」（https://www.casestudies.com/company/popcornapps/case-study/everafter-digital-customer-case-study・3回目）
+  - 「EverAfter Digital - Customer Case Study」（https://www.casestudies.com/company/popcornapps/case-study/everafter-digital-customer-case-study・3回目）
+  - 「Case study describing how EverAfter Digital used PopcornApps」（https://www.casestudies.com/company/popcornapps/case-study/everafter-digital-customer-case-study・3回目）
+  - 「View this case study…」（https://www.casestudies.com/company/popcornapps/case-study/everafter-digital-customer-case-study・3回目）
+  - 「Was it helpful? Rate this case study:」（https://www.casestudies.com/company/popcornapps/case-study/everafter-digital-customer-case-study・3回目）
+  - 「Case Study: Spryker reduces time-to-value by 30% with EverAfter.ai | CaseStudies.com」（https://www.casestudies.com/company/everafterai/case-study/how-spryker-reduced-time-to-value-by-30-using-an-onboarding-customer-interface・3回目）
+  - 「Case Study: Spryker reduces time-to-value by 30% with EverAfter.ai」（https://www.casestudies.com/company/everafterai/case-study/how-spryker-reduced-time-to-value-by-30-using-an-onboarding-customer-interface・3回目）
+  - 「View this case study…」（https://www.casestudies.com/company/everafterai/case-study/how-spryker-reduced-time-to-value-by-30-using-an-onboarding-customer-interface・3回目）
+  - 「Was it helpful? Rate this case study:」（https://www.casestudies.com/company/everafterai/case-study/how-spryker-reduced-time-to-value-by-30-using-an-onboarding-customer-interface・3回目）
+- 再販・ホワイトラベル：
+  - 「AI Studio builds it from your data and your brand. AI Agents act on every signal. AI Experts answer any question, any hour. One branded interface per account for onboarding, adoption, QBRs and renewals, with or without a CSM.」（https://www.everafter.ai/・1回目）
+  - 「EverAfter’s visibility rules bring a new level of personalization to your partner interface. Create unique content sections for different partner personas, such as implementors, resellers and referrals, and provide an intuitive interface for seamless account navigation, enriching the partner experience.」（https://www.everafter.ai/solution/partner-success・1回目）
+  - 「EverAfter’s powerful platform brings a new level of personalization to your partner interface. Create unique content sections for different partner personas, such as implementers, resellers and referrals, and provide an intuitive interface for seamless account navigation, enriching the partner experience.」（https://www.everafter.ai/solution/partners・1回目）
+  - 「Efficiently manage and iterate your partner programs with EverAfter's versatile management tools.」（https://www.everafter.ai/solution/partners・1回目）
+  - 「Drag-n-drop customer success widgets to design beautiful white-labeled customer interfaces.」（https://www.everafter.ai/pricing・1回目）
+  - 「Fully white-labeled solution」（https://www.everafter.ai/pricing・1回目）
+  - 「The B2B interface can live inside your app and completely match your brand」（https://www.everafter.ai/pricing・1回目）
+  - 「Learn from the experts: Plan an Effective Partner Program for 2025 - From qualification to revenue.」（https://www.everafter.ai/learn-category/case-studies・1回目）
+  - 「The event partner program was growing, but the operations model was not scalable.」（https://www.everafter.ai/customer/everafter-tsia-case-study・1回目）
+  - 「“We felt confident we could learn EverAfter easily, sustain it, and build really great customer experiences, while keeping our Salesforce integration intact.” Other must-haves, like clean single sign-on embed, white-labeled experience, and Pendo pop-ups within the ZoomInfo platform, made EverAfter the ideal fit.」（https://www.everafter.ai/customer/everafter-zoominfo-case-study・1回目）
+  - 「“We’ve spent years optimizing our Salesforce backbone. We wanted a professional, white-labeled layer that could bring that data to life for customers, no-code & seamless.”」（https://www.everafter.ai/customer/everafter-zoominfo-case-study・1回目）
+- 日本の担い手：
+  - 「日本語吹替版制作スタッフ 演出：岩見純一、翻訳：栗原とみ子、調整：堀内唯史、制作：」（https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%90%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC・3回目）
+  - 「EVERAFTER(GAME VERSION) | 商品情報 | 日本コロムビアオフィシャルサイト」（https://columbia.jp/prod-info/COKM-46258/・3回目）
+  - 「また、舞台ですが以前『認めてくれなくたっていいよ』にて、『#cg_ootd』が披露された日本ガイシホールを再現したのと同じように、『THE IDOLM@STER CINDERELLA GIRLS 10th MEMORIAL STARLIGHT STAGE』（以下デレステ10thツアー千秋楽）が披露される、Kアリーナ横浜を再現したものとなっているようです」（https://note.com/omochi_fairy/n/ne0628004cec2・3回目）
+  - 「Japanese manga series by Ikuno Tajima」（https://en.wikipedia.org/wiki/Ever_After_(manga)・3回目）
+  - 「(in Japanese). Natasha, Inc. December 12, 2023」（https://en.wikipedia.org/wiki/Ever_After_(manga)・3回目）
+  - 「(in Japanese). Natasha, Inc. December 22, 2022」（https://en.wikipedia.org/wiki/Ever_After_(manga)・3回目）
+  - 「(in Japanese). East Press」（https://en.wikipedia.org/wiki/Ever_After_(manga)・3回目）
+  - 「CS1 uses Japanese-language script (ja)」（https://en.wikipedia.org/wiki/Ever_After_(manga)・3回目）
+  - 「CS1 Japanese-language sources (ja)」（https://en.wikipedia.org/wiki/Ever_After_(manga)・3回目）
+  - 「Articles containing Japanese-language text」（https://en.wikipedia.org/wiki/Ever_After_(manga)・3回目）
+  - 「Articles with Japanese-language sources (ja)」（https://en.wikipedia.org/wiki/Ever_After_(manga)・3回目）
+- 規模・親会社：
+  - 「so the signal arrives and nothing ever reaches the customer.」（https://www.everafter.ai/・1回目）
+  - 「Grow account’s revenue」（https://www.everafter.ai/・1回目）
+  - 「Grow accounts’ revenue」（https://www.everafter.ai/solution/partner-success・1回目）
+  - 「Grow revenue from your existing accounts」（https://www.everafter.ai/solution/partner-success・1回目）
+  - 「Grow accounts’ revenue」（https://www.everafter.ai/solution/partners・1回目）
+  - 「Grow revenue from your existing accounts」（https://www.everafter.ai/solution/partners・1回目）
+  - 「qualification to revenue.」（https://www.everafter.ai/solution/partners・1回目）
+  - 「Head of Revenue Operations」（https://www.everafter.ai/customers・1回目）
+  - 「Head or Revenue Operations」（https://www.everafter.ai/customers・1回目）
+  - 「Grow accounts’ revenue」（https://www.everafter.ai/learn-category/case-studies・1回目）
+  - 「Grow revenue from your existing accounts」（https://www.everafter.ai/learn-category/case-studies・1回目）
+  - 「Learn from the experts: Plan an Effective Partner Program for 2025 - From qualification to revenue.」（https://www.everafter.ai/learn-category/case-studies・1回目）
+- 連絡先：
+  - 「Transform your spreadsheets, slides, and emails into a holistic premium customer journey.」（https://www.everafter.ai/solution/customers・1回目）
+  - 「Chelsea Duran, who built and leads TSIA’s partner success motion, was tasked with doing the impossible: orchestrate dozens of concurrent partner projects, each with different deliverables and roles, without adding more headcount or drowning in spreadsheets and email. 📧」（https://www.everafter.ai/customer/everafter-tsia-case-study・1回目）
+  - 「Partner personas ranged from junior coordinators to senior executives, all with overflowing inboxes. “We were doing a lot of our communications, our onboarding, our everything for conferences and webinars via email… and I’m dealing with people who are coordinators all the way up to VPs… they are very busy and sometimes would miss emails.”」（https://www.everafter.ai/customer/everafter-tsia-case-study・1回目）
+  - 「Wrote segmented emails」（https://www.everafter.ai/customer/everafter-tsia-case-study・1回目）
+  - 「Now EverAfter’s AI Agent evaluates each partner’s deadlines and open activities against that partner’s unique journey permutation (one of ~500, pulling from Salesforce (Account, Opportunity, Product Line Items) and live portal activity, and then sends a weekly, actionable “Next Best Action” email that:」（https://www.everafter.ai/customer/everafter-tsia-case-study・1回目）
+  - 「The Results: Fewer Emails, Faster Delivery, More Confident Partners」（https://www.everafter.ai/customer/everafter-tsia-case-study・1回目）
+  - 「Fewer email breakdowns and overlooked deadlines」（https://www.everafter.ai/customer/everafter-tsia-case-study・1回目）
+  - 「Fewer Emails, More Confidence」（https://www.everafter.ai/customer/everafter-tsia-case-study・1回目）
+  - 「What began as a way to escape email chaos has become TSIA’s」（https://www.everafter.ai/customer/everafter-tsia-case-study・1回目）
+  - 「Trigger personalized, automated email nudges if customers fall behind.」（https://www.everafter.ai/customer/everafter-zoominfo-case-study・1回目）
+  - 「highlights which users have completed essential setup actions, such as email connection, calendar connection, or CRM sync, making it easier for admins to address gaps quickly.」（https://www.everafter.ai/customer/everafter-salesloft-case-study・1回目）
+  - 「Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.」（https://pitchbook.com/profiles/company/458296-39・3回目）
+- 検索結果の抜粋：
+  - 「エバー・アフター - Wikipedia — エバー・アフター ... 『エバー・アフター』（Ever After）は、 1998年 の アメリカ映画。 グリム童話 の『シンデレラ』を脚色した ロマンティック・コメディ である。 全米第1位初登場の大ヒットとなった。」（https://ja.wikipedia.org/wiki/エバー・アフター・3回目）
+  - 「EverAfter | アイドルナビ — EverAfterのプロフィール情報、出演ライブ、楽曲情報をご紹介。」（https://navi-idol.com/group/everafter・3回目）
+  - 「EVERAFTER (GAME VERSION) | 商品情報 | 日本コロムビアオフィシャル... — EVERAFTER(GAME VERSION)の詳細ページです。CD・DVD・動画の視聴・購入ができます。」（https://columbia.jp/prod-info/COKM-46258/・3回目）
+  - 「「あなただけのアイドル」が紡ぐ、一つの物語の終焉。そして、永久に... — Sep 4, 2025 · ここからは満を持して『EVERAFTER』のインストが流れる中、ちひろさんによる語りが入ります。 ここで特に一番印象的だったところを、以下に引用いたしますね。 これは、普通の女の子が、あなたの魔法でシンデレラになる物語。」（https://note.com/omochi_fairy/n/ne0628004cec2・3回目）
+  - 「シアタークリエ Naoto Kaiho Concert『ever after』 — MOVIE 動画 Naoto Kaiho Concert『ever after』 プロモーション映像 Naoto Kaiho Concert『ever after』プロモーション映像 TohoChannel」（https://www.tohostage.com/ever_after/・3回目）
+  - 「Ever After (manga) - Wikipedia — Ever After (アフターメルヘン, Afuta Meruhen) is a Japanese manga series written and illustrated by Ikuno Tajima. It was serialized on East Press' Matogrosso website from December 2022 to May 2024, with its chapters compiled into two volumes.」（https://en.wikipedia.org/wiki/Ever_After_(manga)・3回目）
+  - 「Ever After - Wikipedia — Ever After was released by 20th Century Fox in theaters on July 31, 1998, to positive reviews from critics. It was a box-office success, grossing $98 million.」（https://en.wikipedia.org/wiki/Ever_After・3回目）
+  - 「EverAfter (@EverAfter__info) / X — 𓂃𓈒𓏸 ♔ 𝑰𝒏𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏 ♔ 𓏸𓈒𓂃 いつもEverAfterを応援いただき ありがとうございます🗝️♡ 皆さまに楽しくライブをお楽しみいただくため、 各種ご案内をお知らせいたします。 ୨୧ ┈┈┈┈┈┈┈┈ ୨୧ ♡ イベントルール ♡ レギュレーション ♡ ポイントカード詳細 ୨୧. TikTokでEverAfter【公式】さんをチェック！ 全体アー写いいね♡RP企画達成ありがとうございます🪄︎︎ 明日！ 10/3 (土) 19:00EverAfter初のMV公開！ おとぎ話のお姫様になっちゃいました👸 お楽しみに♡.」（https://x.com/EverAfter__info・3回目）
+  - 「Tokyo Ever After (Tokyo Ever After, #1) - GoodreadsEVER AFTER (@everafter.jp) • Instagram photos and videosEver After - Wikipedia — In a whirlwind, Izzy travels to Japan to meet the father she never knew and discover the country she always dreamed of. But being a princess isn’t all ball gowns and tiaras. 352 Followers, 0 Following, 24 Posts - EVER AFTER (@everafter.jp) on Instagram: "BEAUTY IN SIM」（https://www.goodreads.com/book/show/54860605-tokyo-ever-after・3回目）
+  - 「How Ad Astra Scaled Customer Migration and Reduced Time-to ... — By standardizing and digitizing customer migration with EverAfter, Ad Astra reduced migration time by over 65%, cutting average project duration from more than 200 days to approximately 70 days.」（https://www.everafter.ai/customer/everafter-migration-case-study・3回目）
+  - 「Success Stories - EverAfter — Read the fairytales that tell all about customers personalizing customer relationships at scale, all in one collaborative workspace.」（https://www.everafter.ai/customers・3回目）
+  - 「EverAfter Digital - Customer Case Study — EverAfter Digital partnered with PopcornApps to solve key challenges. "EverAfter Digital - Customer Case Study" is their real-world success story.」（https://www.casestudies.com/company/popcornapps/case-study/everafter-digital-customer-case-study・3回目）
+- 創業年度：記載なし（3回確認済み：公式15頁／PDF・画像3件／外部42頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式15頁／PDF・画像3件／外部42頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式15頁／PDF・画像3件／外部42頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式15頁／PDF・画像3件／外部42頁・検索12回）
+- 料金：記載なし（3回確認済み：公式15頁／PDF・画像3件／外部42頁・検索12回）
+
 ## Expressbuilding
 - 公式URL：https://www.expressbuilding.ph（given）
 - 採用・広告の製品：
@@ -2354,6 +4227,320 @@
 - 料金：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部31頁・検索12回）
 - 連絡先：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部31頁・検索12回）
 - 再販・ホワイトラベル：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部31頁・検索12回）
+
+## Extend Robotics
+- 公式URL：https://www.extendrobotics.com/（given）
+- 株主：01-Mar-2025    Completed Generating Revenue（https://pitchbook.com/profiles/company/431196-49・3回目）
+- 株主：19-Jun-2023    Completed Generating Revenue（https://pitchbook.com/profiles/company/431196-49・3回目）
+- 採用・広告の製品：
+  - 「Extending Human Capability Beyond Physical Presence」（https://www.extendrobotics.com/・1回目）
+  - 「Multiply your manpower, with VR teleoperation training to harness the power of AI automation at scale.」（https://www.extendrobotics.com/・1回目）
+  - 「Extend Human Capabilities Beyond Physical Presence」（https://www.extendrobotics.com/・1回目）
+  - 「"Overall, the product, packaging and training were great and we’re really looking forward to extending its use within our facility."」（https://www.extendrobotics.com/・1回目）
+  - 「“Working closely together with Extend Robotics was a great experience. I am happy to see Extend Robotics joining our UR+ Ecosystem with their product!”」（https://www.extendrobotics.com/・1回目）
+  - 「Proud to be featured in」（https://www.extendrobotics.com/・1回目）
+  - 「Trade Partnerships & Marketing- Add Humanoid Robots to Your Activation Arsenal」（https://www.extendrobotics.com/industries/entertainment-robots/trade-partnerships-and-marketing・1回目）
+  - 「Trade Partnerships & Marketing」（https://www.extendrobotics.com/industries/entertainment-robots/trade-partnerships-and-marketing・1回目）
+  - 「Trade Partnerships & Marketing with a difference」（https://www.extendrobotics.com/industries/entertainment-robots/trade-partnerships-and-marketing・1回目）
+  - 「Your clients expect you to surprise them. Every brief demands bigger impact, more social engagement, and measurable ROI, yet budgets remain tight and timelines aggressive. You need activation tools that genuinely differentiate, not just variations on sampling, branded vehicles, and promotional staff.」（https://www.extendrobotics.com/industries/entertainment-robots/trade-partnerships-and-marketing・1回目）
+  - 「Extend Robotics partners with marketing and experience agencies to add humanoid robots to your activation toolkit. We provide the technology, operational support, and creative flexibility you need to deliver standout campaigns, whilst you maintain the client relationship and creative direction.」（https://www.extendrobotics.com/industries/entertainment-robots/trade-partnerships-and-marketing・1回目）
+  - 「Our robots integrate seamlessly into brand activations, experiential campaigns, product launches, and PR stunts, providing the unexpected element that captures attention, generates content, and gets your work talked about.」（https://www.extendrobotics.com/industries/entertainment-robots/trade-partnerships-and-marketing・1回目）
+- 製造業の実績：
+  - 「Transforming Manufacturing with Advanced Robotics | Extend Robotics」（https://www.extendrobotics.com/manufacturing・1回目）
+  - 「Accessible VR teleoperation solutions to augment and accelerate automation for every point of the production line.」（https://www.extendrobotics.com/manufacturing・1回目）
+  - 「An ageing working population, outdated workforce planning and changing perceptions of manufacturing employment has led to a universal shortage of skilled labour, with up to 2.4 million jobs predicted unfilled by 2028. Compounded by global supply chain instability, innovation is key to the resilience of the manufacturing ecosystem.」（https://www.extendrobotics.com/manufacturing・1回目）
+  - 「Providing the ability to augment existing industrial robotics with minimal staff training, our accessible, scalable solutions maximise existing workforce capacity to realise immediate ROI.」（https://www.extendrobotics.com/manufacturing・1回目）
+  - 「Maximise your labour, with human-in-the-loop automation for anything from automotive assembly to fast-moving consumer goods (FMCG). Combined with round-the-clock monitoring and data collection to unlock the data flywheel, you can transform your cycle times for quantifiable cost-savings.」（https://www.extendrobotics.com/manufacturing・1回目）
+  - 「Whether it’s pick and place, post processing, or machine tending for 3D printing and computer numerical control (CNC) production, our solutions are compatible with a range of third party robotics (ROS) to integrate with your operations, maximise machine utilisation and make lights-out manufacturing a reality.」（https://www.extendrobotics.com/manufacturing・1回目）
+  - 「Inspiring North West manufacturers with remote robotics」（https://www.extendrobotics.com/manufacturing・1回目）
+  - 「Whether it's greeting arrivals at festival entrance gates, guiding guests through cultural programming, or elevating automotive hospitality suites at major motorsport events, our robots create the "wow" moments that define modern live entertainment.」（https://www.extendrobotics.com/industries/entertainment-robots・1回目）
+  - 「Automotive marque hospitality suites」（https://www.extendrobotics.com/industries/entertainment-robots・1回目）
+  - 「Our recent collaboration with an industrial parts manufacturer is proving that high levels of variability are no obstacle to achieving rapid automation of production.」（https://www.extendrobotics.com/post/new-partnership-proving-high-variability-no-obstacle-to-rapid-automation・1回目）
+  - 「is a manufacturer in the most modern of senses, using state of the art 3D printing technology to high quality produce end-use industrial parts. What makes Addwerk such an ideal test case is the company’s approach to automation; their ambitious goal is to have a fully automated factory workshop that can 24/7 without any human intervention.」（https://www.extendrobotics.com/post/new-partnership-proving-high-variability-no-obstacle-to-rapid-automation・1回目）
+  - 「The challenge facing Addwerk is their ability to introduce new and highly customised industrial parts into their production lines as quickly as possible.」（https://www.extendrobotics.com/post/new-partnership-proving-high-variability-no-obstacle-to-rapid-automation・1回目）
+- 再販・ホワイトラベル：
+  - 「Meanwhile, you're competing against other agencies pitching the same event spaces, similar concepts, and comparable talent pools. Standing out requires access to genuinely novel experiences that clients cannot easily source elsewhere.」（https://www.extendrobotics.com/industries/entertainment-robots/trade-partnerships-and-marketing・1回目）
+  - 「Extend Robotics partners with marketing and experience agencies to add humanoid robots to your activation toolkit. We provide the technology, operational support, and creative flexibility you need to deliver standout campaigns, whilst you maintain the client relationship and creative direction.」（https://www.extendrobotics.com/industries/entertainment-robots/trade-partnerships-and-marketing・1回目）
+  - 「Contact Extend Robotics to discuss agency partnership opportunities.」（https://www.extendrobotics.com/industries/entertainment-robots/trade-partnerships-and-marketing・1回目）
+  - 「Corporate and Brand Agencies Robots- Deliver breakthrough brand experiences」（https://www.extendrobotics.com/industries/entertainment-robots/corporate-and-brand-agencies-robots・1回目）
+  - 「Corporate & Brand Agencies」（https://www.extendrobotics.com/industries/entertainment-robots/corporate-and-brand-agencies-robots・1回目）
+  - 「Extend Robotics enables brand agencies to deliver genuinely innovative client experiences through humanoid robot integration. From corporate event hosting to brand experience centres, product launches to sponsorship activations, our robots provide the unexpected element that captures attention, generates content, and positions your clients as innovation leaders.」（https://www.extendrobotics.com/industries/entertainment-robots/corporate-and-brand-agencies-robots・1回目）
+  - 「We work with brand agencies to understand strategic objectives and customise robot experiences that align with brand values, messaging, and campaign goals.」（https://www.extendrobotics.com/industries/entertainment-robots/corporate-and-brand-agencies-robots・1回目）
+  - 「Whether supporting front-of-house teams during peak check-in periods, providing 24/7 guest information services, or simply creating the "wow" moment that guests photograph and share, our robots add a layer of innovation that enhances your brand positioning.」（https://www.extendrobotics.com/industries/entertainment-robots/hotel-and-guest-robots・1回目）
+  - 「Shoppers share robot encounters across social platforms, extending your brand reach organically and creating content that influences their networks.」（https://www.extendrobotics.com/industries/entertainment-robots/hospitality-and-retail-robots・1回目）
+  - 「UK battery pack manufacturer sets out OEM framework」（https://www.roboticsandautomationmagazine.co.uk/news/manufacturing/mitsubishi-electric-partners-with-extend-robotics-to-scale-up-remotely-controlled-robots.html・3回目）
+- 日本の担い手：
+  - 「Japanese multinational electronics and electrical equipment manufacturing company Mitsubishi Electric has partnered with Extend Robotics to support the scale-up of remotely controlled robots in non-uniform manufacturing operations.」（https://www.roboticsandautomationmagazine.co.uk/news/manufacturing/mitsubishi-electric-partners-with-extend-robotics-to-scale-up-remotely-controlled-robots.html・3回目）
+  - 「日本の農業新聞が報じたところによると、水田除草ロボット「ミズニゴール」の2026年モデルが発表され、販売・レンタル予約が開始されました [1]」（https://note.com/firm_holly5460/n/ne2f684012450・3回目）
+  - 「また、日本の農業ロボット市場も2024年の3.76億ドルから2033年には13.7億ドルへ成長すると見込まれており、AIとIoT技術の搭載が労働力不足の解決と精密農業の実現を加速させています [4]」（https://note.com/firm_holly5460/n/ne2f684012450・3回目）
+  - 「[4] 日本の農業ロボット市場規模は2033年に13億7,000万米ドルに達 ... -」（https://note.com/firm_holly5460/n/ne2f684012450・3回目）
+- 規模・親会社：
+  - 「We work alongside your agency team, providing robots as a component of your broader activation whilst you retain creative control and client ownership. Flexible arrangements from single-day deployments to ongoing campaign support.」（https://www.extendrobotics.com/industries/entertainment-robots/trade-partnerships-and-marketing・1回目）
+  - 「Extend Robotics' AMAS Human-Robot Software Now Listed by New Distributor Partner RARUK」（https://www.extendrobotics.com/manufacturing・1回目）
+  - 「Live Entertainment - The Future of Fan Experience Has Arrived | Extend Robotics」（https://www.extendrobotics.com/industries/entertainment-robots・1回目）
+  - 「Live Entertainment - The Future of Fan Experience Has Arrived」（https://www.extendrobotics.com/industries/entertainment-robots・1回目）
+  - 「Whether it's greeting arrivals at festival entrance gates, guiding guests through cultural programming, or elevating automotive hospitality suites at major motorsport events, our robots create the "wow" moments that define modern live entertainment.」（https://www.extendrobotics.com/industries/entertainment-robots・1回目）
+  - 「Theme parks and attractions compete fiercely for family spending. Guests arrive expecting surprises around every corner, yet developing new rides and attractions requires years of planning and millions in capital investment.」（https://www.extendrobotics.com/industries/entertainment-robots/amusement-park-robots・1回目）
+  - 「Create unforgettable fan moments from arrival to final whistle」（https://www.extendrobotics.com/industries/entertainment-robots/live-sports-robots・1回目）
+  - 「Meanwhile, clubs seek new revenue streams from sponsors and hospitality partners, who increasingly demand innovative activation opportunities that cut through the noise. Pre-match and half-time entertainment often feels tired, and fan zones struggle to maintain energy throughout long event days.」（https://www.extendrobotics.com/industries/entertainment-robots/live-sports-robots・1回目）
+  - 「Engage international delegates in their native language, removing barriers and expanding your reach at global trade events.」（https://www.extendrobotics.com/industries/entertainment-robots/trade-shows-and-exhibitions・1回目）
+  - 「Extend Robotics' intuitive VR + AMAS technology lowers barriers further: Students and teachers teach robots by demonstration, accelerating real-world learning and AI understanding without needing expert programmers. Early users highlight seamless integration and excitement in hands-on environments.」（https://www.extendrobotics.com/industries/entertainment-robots/educational-robots・1回目）
+  - 「“We investigated several ways to be able to sort the orders and the variability of the parts we have, and we arrived at the conclusion that a mix of human intervention and robotisation was the best solution.」（https://www.extendrobotics.com/post/new-partnership-proving-high-variability-no-obstacle-to-rapid-automation・1回目）
+  - 「Using a remotely operated robot to carry out tasks in dirty, dangerous, and difficult to access environments is made significantly easier...」（https://www.extendrobotics.com/blog/categories/case-studies-manufacturing・1回目）
+- 連絡先：
+  - 「Collect customer insights, email sign-ups, and feedback directly through engaging robot interactions.」（https://www.extendrobotics.com/industries/entertainment-robots/hospitality-and-retail-robots・1回目）
+  - 「Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.」（https://pitchbook.com/profiles/company/431196-49・3回目）
+- 検索結果の抜粋：
+  - 「extend robotics VR Teleoperation | Extend Robotics London ... — Explore extend robotics with Extend Robotics in London and Reading—book an online demo of our VR teleoperation platform.」（https://www.extendrobotics.com/・3回目）
+  - 「Extend Robotics raises £2.6 million to let manufacturers hire ... — Sep 28, 2026 · LONDON, 28th September 2026 Extend Robotics, the UK embodied-AI company behind an immersive teleoperation platform for industrial robots, has closed a £2.6 million Pre-A funding round led by Skyworks Venture Capital Fund, with participation from Neo Venture (Europe) and Zip Capital. The funding will scale its Result」（https://www.extendrobotics.com/post/extend-robotics-raises-2-6-million-to-let-manufacturers-hire-robots-by-the-outcome-not-buy-them-by・3回目）
+  - 「Extend Robotics | LinkedIn — Extend Robotics aims to extend remote working into the physical domain by extending human capabilities beyond physical presence. We build VR-based immersive human robot interface software to enable non-robotic experts to intuitively operate commercial robots from remote locations and teach robot new automation skills with embodied AI. We believe this technology will re」（https://jp.linkedin.com/company/extend-robotics・3回目）
+  - 「Mitsubishi Electric partners with Extend Robotics to scale-up ... — Apr 8, 2024 · Japanese multinational electronics and electrical equipment manufacturing company Mitsubishi Electric has partnered with Extend Robotics to support the scale-up of remotely controlled robots in non-uniform manufacturing operations. Founded in 2019,」（https://www.roboticsandautomationmagazine.co.uk/news/manufacturing/mitsubishi-electric-partners-with-extend-robotics-to-scale-up-remotely-controlled-robots.html・3回目）
+  - 「Extend Robotics 2026 Company Profile: Valuation, Funding ... — Information on valuation, funding, cap tables, investors, and executives for Extend Robotics. Use the PitchBook Platform to explore the full profile.」（https://pitchbook.com/profiles/company/431196-49・3回目）
+  - 「Case Studies: Manufacturing - extendrobotics.com — Extend Robotics is thrilled to announce our collaboration with Leyland Trucks and PACCAR Inc, global leader in cutting-edge truck...」（https://www.extendrobotics.com/blog/categories/case-studies-manufacturing・3回目）
+  - 「xArm VR Teleoperation Case Study | Extend Robotics — In Short Founded in 2019, Extend Robotics develops intuitive human–robot interface software that enables non-experts to remotely control and program robotic manipulators through immersive VR. To support this approach, the company selected the affordable, ROS-native xArm as the hardware foundation for its teleoperation system. Today, this combina」（https://www.ufactory.cc/case-studies/vr-teleoperation・3回目）
+  - 「Extend Robotics’ Landmark Trial at Leyland Truck in Preston ... — Apr 17, 2025 · Extend Robotics have embarked on a collaborative feasibility study to enhance manufacturing processes, particularly in hazardous areas where robots can support human operators. The 2 days’ tests were an initial feasibility into the effectiveness of Extend Robotics’ Teleoperation and AI Training platform, demonstrating」（https://www.extendrobotics.com/post/exciting-news-new-collaboration・3回目）
+  - 「Extend Robotics - Bringing VR Controlled Robots to Truck ... — Apr 24, 2025 · In this episode of Robot News, Robotics News, Robot & Robotics News, RoboPhil brings you an incredible case study from Extend Robotics and Leyland Trucks, where VR-controlled robots are ...」（https://www.youtube.com/watch?v=rW6bZ08fhSg・3回目）
+  - 「Extend Robotics 2026 Company Profile: Valuation, Funding ...Extend Robotics - 2026 Company Profile, Team, Funding ...Extend Robotics — Company Profile | The Company CheckExtend Robotics - Crunchbase Company Profile & FundingExtend Robotics — investors & funding | gritt.ioExtend Robotics - Overview, News & Similar companies ...Extend Robotics Stock Price, Funding, Valuation, Revenue ... — Informati」（https://pitchbook.com/profiles/company/431196-49・3回目）
+  - 「Extend Robotics - 2026 Company Profile, Team, Funding ... — Apr 7, 2026 · Extend Robotics is a seed company based in London (United Kingdom), founded in 2019 by Chang Liu. It operates as a Provider of VR-based software solutions for robots. Extend Robotics has raised $409K in funding. The company has 3 active competitors, including 1 funded and 1 that has exited. Its top competitor s are Taiga Rob」（https://tracxn.com/d/companies/extendrobotics/__pBc7ee0jEk_1D3VzU9Nu25GYUkXiFSKyyGcYINkGJ_w・3回目）
+  - 「Extend Robotics — Company Profile | The Company Check — Extend Robotics is a company based in London (United Kingdom) founded in 2019 by Chang Liu.. Extend Robotics has raised $409.2 thousand across 1 funding round from investors including Henley Business Angels.」（https://www.thecompanycheck.com/company/b/extend-robotics/391laldsxh1fnzxrr・3回目）
+- 創業年度：記載なし（3回確認済み：公式15頁／PDF・画像4件／外部29頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式15頁／PDF・画像4件／外部29頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式15頁／PDF・画像4件／外部29頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式15頁／PDF・画像4件／外部29頁・検索12回）
+- 料金：記載なし（3回確認済み：公式15頁／PDF・画像4件／外部29頁・検索12回）
+
+## Extern
+- 公式URL：https://www.extern.com（given）
+- 株主：01-Jan-2019    Completed Generating Revenue（https://pitchbook.com/profiles/company/172309-96・3回目）
+- 株主：25-May-2017    Completed Generating Revenue（https://pitchbook.com/profiles/company/172309-96・3回目）
+- 採用・広告の製品：
+  - 「Build an AI portfolio that gets you hired with Extern」（https://www.extern.com/home・1回目）
+  - 「Work on real projects」（https://www.extern.com/home・1回目）
+  - 「Real projects. Real support.」（https://www.extern.com/home・1回目）
+  - 「A portfolio to prove it.」（https://www.extern.com/home・1回目）
+  - 「Pick an industry, company & project that excites you」（https://www.extern.com/home・1回目）
+  - 「Explore externships across AI, finance, marketing, product, and more, and pick one that fits your interests and goals.」（https://www.extern.com/home・1回目）
+  - 「Your portfolio updates as you complete projects, giving you tangible proof of experience to share with recruiters and employers.」（https://www.extern.com/home・1回目）
+  - 「Showcase the projects, skills, and experience you gain through your externships.」（https://www.extern.com/home・1回目）
+  - 「Add projects and experience from outside Extern too.」（https://www.extern.com/home・1回目）
+  - 「Impactful strategic projects for resource-constrained teams」（https://www.extern.com/company・1回目）
+  - 「Tackle key projects without stretching your in-house team」（https://www.extern.com/company・1回目）
+  - 「See example projects with HSBC’s Innovation Team」（https://www.extern.com/company・1回目）
+- 製造業の実績：
+  - 「External Manufacturing」（https://www.tracelink.com/sites/default/files/2025-01/Case_Study_for_Merck_24JAN25.pdf・3回目）
+  - 「Integration with CMOs (Contract Manufacturing」（https://www.tracelink.com/sites/default/files/2025-01/Case_Study_for_Merck_24JAN25.pdf・3回目）
+  - 「The company initiated a digital integration project with Contract Manufacturing Organizations (CMOs) through the OPUS」（https://www.tracelink.com/sites/default/files/2025-01/Case_Study_for_Merck_24JAN25.pdf・3回目）
+  - 「platform to improve external manufacturing efficiency, enhance transparency, and streamline their supply chain. Their」（https://www.tracelink.com/sites/default/files/2025-01/Case_Study_for_Merck_24JAN25.pdf・3回目）
+  - 「company managed its external manufacturing. The process automation facilitated」（https://www.tracelink.com/sites/default/files/2025-01/Case_Study_for_Merck_24JAN25.pdf・3回目）
+  - 「This case study illustrates how a leading pharmaceutical company leveraged digital」（https://www.tracelink.com/sites/default/files/2025-01/Case_Study_for_Merck_24JAN25.pdf・3回目）
+  - 「Ready to supercharge your external manufacturing relationships.」（https://www.tracelink.com/sites/default/files/2025-01/Case_Study_for_Merck_24JAN25.pdf・3回目）
+  - 「Case Study: Johnson & Johnson improves forecast accuracy and unit fill rate with Capgemini | CaseStudies.com」（https://www.casestudies.com/company/capgemini/case-study/johnson-johnson-transforms-its-demand-planning-and-external-manufacturing-processes・3回目）
+  - 「Case Study: Johnson & Johnson improves forecast accuracy and unit fill rate with Capgemini」（https://www.casestudies.com/company/capgemini/case-study/johnson-johnson-transforms-its-demand-planning-and-external-manufacturing-processes・3回目）
+  - 「Johnson & Johnson transforms its demand planning and external manufacturing processes」（https://www.casestudies.com/company/capgemini/case-study/johnson-johnson-transforms-its-demand-planning-and-external-manufacturing-processes・3回目）
+  - 「Johnson & Johnson sought to optimize its demand planning and external manufacturing processes to enhance forecast accuracy, reduce inventory, and improve the customer experience across its EMEA operations. To meet this challenge, the company partnered with Capgemini.」（https://www.casestudies.com/company/capgemini/case-study/johnson-johnson-transforms-its-demand-planning-and-external-manufacturing-processes・3回目）
+  - 「Open case study document...」（https://www.casestudies.com/company/capgemini/case-study/johnson-johnson-transforms-its-demand-planning-and-external-manufacturing-processes・3回目）
+- 日本の担い手：
+  - 「アジア圏初の「Microsoft Entra External ID」導入事例、日本における軸受のパイオニア企業日本精工が挑む、事業DXのかたち | Microsoft Customer Stories」（https://www.microsoft.com/ja-jp/customers/story/24071-nsk-ltd-microsoft-entra-external-id・3回目）
+  - 「日本精工株式会社では、同社が用意するサービスを利用するために、ユーザーが複数のIDを使い分ける必要があり、顧客体験の低下はもちろんのこと、管理面の煩雑さやセキュリティ上のリスクなど抱えていました」（https://www.microsoft.com/ja-jp/customers/story/24071-nsk-ltd-microsoft-entra-external-id・3回目）
+  - 「日本精工は、マイクロソフトがリリースしたばかりであったMicrosoft Entra External IDにいち早く着目し、国内では他企業に先駆けて導入に踏み切りました」（https://www.microsoft.com/ja-jp/customers/story/24071-nsk-ltd-microsoft-entra-external-id・3回目）
+  - 「日本で初めて軸受を開発した日本精工が、デジタル領域で挑む「新たなチャレンジ」」（https://www.microsoft.com/ja-jp/customers/story/24071-nsk-ltd-microsoft-entra-external-id・3回目）
+  - 「1916 年に日本で初めて軸受（ベアリング）の開発製造を成功させ、以降 100 年以上にわたって産業の発展と環境の保全に貢献してきた日本精工」（https://www.microsoft.com/ja-jp/customers/story/24071-nsk-ltd-microsoft-entra-external-id・3回目）
+  - 「日本精工 は日本の産業への貢献だけでなく、1960 年代から海外へと進出し、現在では 30 ヶ国以上の拠点で、世界中の顧客の成長を支えています」（https://www.microsoft.com/ja-jp/customers/story/24071-nsk-ltd-microsoft-entra-external-id・3回目）
+  - 「パイオニアとして市場をリードしてきた日本精工が現在モットーにするのは「変わる 超える」への挑戦です」（https://www.microsoft.com/ja-jp/customers/story/24071-nsk-ltd-microsoft-entra-external-id・3回目）
+  - 「日本精工株式会社 産業機械事業本部 デジタル化推進室 室長 平山雄大氏はこう話します」（https://www.microsoft.com/ja-jp/customers/story/24071-nsk-ltd-microsoft-entra-external-id・3回目）
+  - 「日本精工は GA 後、国内においていち早く導入を決め、ユーザー企業の先駆けとなりました」（https://www.microsoft.com/ja-jp/customers/story/24071-nsk-ltd-microsoft-entra-external-id・3回目）
+  - 「平山雄大氏, 産業機械事業本部 デジタル化推進室 室長, 日本精工株式会社」（https://www.microsoft.com/ja-jp/customers/story/24071-nsk-ltd-microsoft-entra-external-id・3回目）
+  - 「日本精工株式会社 産業機械事業本部 デジタル化推進室 室長 平山雄大氏」（https://www.microsoft.com/ja-jp/customers/story/24071-nsk-ltd-microsoft-entra-external-id・3回目）
+  - 「日本精工が Microsoft Entra External ID を採用した大きな背景には、デジタル変革本部が推進する DX との連携を高め、顧客の利便性を向上させる狙いがありました」（https://www.microsoft.com/ja-jp/customers/story/24071-nsk-ltd-microsoft-entra-external-id・3回目）
+- 規模・親会社：
+  - 「Fortune 500s and startups leverage Extern to drive outcomes with expert-led teams of curated student talent.」（https://www.extern.com/company・1回目）
+  - 「to understand their customers’ buying journeys from all around the world, as well as financial services firms like HSBC to investigate technologies that will impact the future of work for employees.」（https://www.extern.com/company・1回目）
+  - 「Our team narrows down the best work, synthesizing just what you need」（https://www.extern.com/company・1回目）
+  - 「Externships aim to provide real experience to everyone, not just the few who land competitive internships. They're designed to be more inclusive, breaking down barriers to professional development.」（https://www.extern.com/about・1回目）
+  - 「Click on the arrows to change the translation direction.」（https://dictionary.cambridge.org/dictionary/english-japanese/external・3回目）
+  - 「extern has 41 total employees.」（https://pitchbook.com/profiles/company/172309-96・3回目）
+  - 「What is extern’s current revenue?」（https://pitchbook.com/profiles/company/172309-96・3回目）
+  - 「The current revenue for extern is」（https://pitchbook.com/profiles/company/172309-96・3回目）
+  - 「Extern Revenue, Funding & Valuation」（https://prospeo.io/c/extern-revenue・3回目）
+  - 「View Financials And Employees At Extern」（https://prospeo.io/c/extern-revenue・3回目）
+  - 「industry and current estimated revenues」（https://prospeo.io/c/extern-revenue・3回目）
+  - 「Employees by Management Level」（https://prospeo.io/c/extern-revenue・3回目）
+- 連絡先：
+  - 「Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.」（https://pitchbook.com/profiles/company/172309-96・3回目）
+  - 「Build leads list with verified emails & mobiles」（https://prospeo.io/c/extern-revenue・3回目）
+- 検索結果の抜粋：
+  - 「アジア圏初の「Microsoft Entra External ID」導入事例、日本における... — 日本精工は、マイクロソフトがリリースしたばかりであったMicrosoft Entra External IDにいち早く着目し、国内では他企業に先駆けて導入に踏み切りました。」（https://www.microsoft.com/ja-jp/customers/story/24071-nsk-ltd-microsoft-entra-external-id・3回目）
+  - 「c言語 extern宣言について #C - Qiita — Jul 28, 2024 · 上記の通り、基本的なexternの使用方法としては以下の通りである。 ・あるソースファイル内（※）でグローバル変数 (g_hogeとする)を定義する。 ・g_hogeが定義されたソースファイルがインクルードしているヘッダファイル上でg_hogeのextern宣言を行う。」（https://qiita.com/baru_baru/items/29c614345b1dba1c272b・3回目）
+  - 「事例で学ぶ、Microsoft 365 活用術(21) アジア圏初の「Microsoft Entr... — Jun 18, 2025 · 日本国内で他企業よりも先駆けて Microsoft Entra External ID のユーザーとなった 日本精工 にソリューション導入の背景、課題、効果を伺いました。」（https://news.mynavi.jp/techplus/kikaku/microsoft_365_case-21/・3回目）
+  - 「Build an AI portfolio that gets you hired with Extern — In this externship, you'll explore how HP Tech Ventures identifies promising startups in cutting-edge fields like 3D printing, edge computing, hybrid work, sustainability, and Generative AI. You’ll learn to research, evaluate, and analyze startups to predict their potential for success.」（https://www.extern.com/・3回目）
+  - 「Remote Externships - Kickstart Your Career — In this externship, you’ll discover how to find and evaluate early-stage companies, analyze markets, and create compelling investment memos. Perfect for those curious about startups or investing.」（https://www.extern.com/externships・3回目）
+  - 「英語「extern」の意味・使い方・読み方 | Weblio英和辞書 — extern (plural externs) (programming) In the C and C++ programming languages, a variable that can be separately declared in many places, all of them referring to the same variable.」（https://ejje.weblio.jp/content/extern・3回目）
+  - 「EXTERNAL in Japanese - Cambridge Dictionary — (Translation of external from the Cambridge English–Japanese Dictionary © Cambridge University Press)」（https://dictionary.cambridge.org/dictionary/english-japanese/external・3回目）
+  - 「extern in Japanese - English-Japanese Dictionary | Glosbe — Check 'extern' translations into Japanese. Look through examples of extern translation in sentences, listen to pronunciation and learn grammar.」（https://glosbe.com/en/ja/extern・3回目）
+  - 「CASE STUDY External Manufacturing Improvements in a Top 20 ... — External Manufacturing Improvements in a Top 20 Global Pharmaceutical Company Integration with CMOs (Contract Manufacturing Organizations) via TraceLink」（https://www.tracelink.com/sites/default/files/2025-01/Case_Study_for_Merck_24JAN25.pdf・3回目）
+  - 「Case Study: Johnson & Johnson improves forecast accuracy and ... — Johnson & Johnson sought to optimize its demand planning and external manufacturing processes to enhance forecast accuracy, reduce inventory, and improve the customer experience across its EMEA operations. To meet this challenge, the company partnered with Capgemini.」（https://www.casestudies.com/company/capgemini/case-study/johnson-johnson-transforms-its-demand-planning-and-external-manufacturing-processes・3回目）
+  - 「External Manufacturing Improvements in a Top 20 Global ... — This case study illustrates how a leading pharmaceutical company leveraged digital technology to enhance efficiency, transparency, and collaboration in its supply chain, setting a benchmark in the industry for digital integration with CMOs.」（https://www.tracelink.com/sites/default/files/2025-04/Case_Study_Integration_with_CMOs_via_TraceLink.pdf・3回目）
+  - 「Outsourcing case studies: The success stories and lessons ... — Aug 25, 2026 · In this case study, we explore the experience of a company that decided to expand its global reach through outsourcing. By leveraging external resources and expertise, the company aimed to tap into new markets, reduce costs, and enhance operational efficiency.」（https://fastercapital.com/content/Outsourcing-case-studies--The-success-stories-and-lessons-learned-from-other-businesses-that-have-outsourced-their-tasks.html・3回目）
+- 創業年度：記載なし（3回確認済み：公式3頁／PDF・画像4件／外部36頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式3頁／PDF・画像4件／外部36頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像4件／外部36頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式3頁／PDF・画像4件／外部36頁・検索12回）
+- 料金：記載なし（3回確認済み：公式3頁／PDF・画像4件／外部36頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式3頁／PDF・画像4件／外部36頁・検索12回）
+
+## Exyn Technologies
+- 公式URL：https://www.exyn.com/（given）
+- 採用・広告の製品：
+  - 「April 22, 2026」（https://www.exyn.com/・1回目）
+  - 「Data Privacy Rights Form」（https://www.exyn.com/・1回目）
+  - 「Launch of our first pilot project. Awarded Startup of the Year from Penn's Center for Innovation. Further office expansion to Washington Avenue in Philadelphia. Invited to fly the first ever aircraft inside the Smithsonian National Air & Space Museum」（https://www.exyn.com/about/company・1回目）
+  - 「Exyn begins underground testing of ExynAI including demonstrations for SEPTA and Dundee Precious Metals. Joined Team PLUTO to compete in the DARPA SubT Challenge.」（https://www.exyn.com/about/company・1回目）
+  - 「Raised $16+ million in Series A round, filed first round of patents with USPTO, and delivered the first set of Exyn A3R's to Dundee Precious Metals.」（https://www.exyn.com/about/company・1回目）
+  - 「Exyn unveils its product line for the mining industry, the ExynAero and ExynPak」（https://www.exyn.com/about/company・1回目）
+  - 「April 22, 2026」（https://www.exyn.com/about/company・1回目）
+  - 「Data Privacy Rights Form」（https://www.exyn.com/about/company・1回目）
+  - 「Exyn is committed to creating a diverse, equitable, and inclusive workplace. We have structures in place to encourage objectivity across the organization, from recruiting and hiring to performance and promotion. We also actively work with organizations to support the development of marginalized groups in tech, including BIPOC, LGBTQ+, women and veterans.」（https://www.exyn.com/about/careers・1回目）
+  - 「We create opportunities for growth, personally and professionally.」（https://www.exyn.com/about/careers・1回目）
+  - 「We deliver outstanding products and service to our customers.」（https://www.exyn.com/about/careers・1回目）
+  - 「We prepare to weather the dips and dives in the path to success.」（https://www.exyn.com/about/careers・1回目）
+- 製造業の実績：
+  - 「Trusted by industry leaders worldwide」（https://www.exyn.com/・1回目）
+  - 「Exyn is powered by a team of experts in autonomous systems, robotics, and industrial engineering, and has drawn talent from Penn’s world-renowned GRASP Laboratory as well as other storied research institutions.」（https://www.exyn.com/about/company・1回目）
+  - 「Global Bridge Industrial (GBI)」（https://www.exyn.com/distributors-partners・1回目）
+  - 「Our teams have been working closely together to ensure the connection between Exyn and Sandvik’s systems would be seamless and easy for operators to use. ... we look forward to further developing our partnership and integrating our hardware and software systems in the coming months.」（https://www.exyn.com/distributors-partners・1回目）
+  - 「Trusted by Industry Leaders」（https://www.exyn.com/industries/mining-cavity-monitoring・1回目）
+  - 「Exyn is powered by a team of experts in autonomous systems, robotics, and industrial engineering working together to build robots that keep people safe while keeping an eye on the future. Whether you're a partner looking to innovate, or a dreamer trying to change the world, get in touch.」（https://www.exyn.com/about/team・1回目）
+  - 「Trusted by global leaders and deployed successfully across industries.」（https://www.exyn.com/become-a-partner・1回目）
+  - 「Our teams have been working closely together to ensure the connection between Exyn and Sandvik’s systems would be seamless and easy for operators to use. ... we look forward to further developing our partnership and integrating our hardware and software systems in the coming months.」（https://www.exyn.com/become-a-partner・1回目）
+  - 「This overview of autonomy levels is based on standards in the automotive industry that Exyn」（https://www.exyn.com/hubfs/Exyn_Aerial-Autonomy-Levels_v2@2x.jpg?hsLang=en・1回目）
+  - 「Digital twins for industrial assets — the fastest-growing adjacency Exyn enables.」（https://investorroadshow.exyn.com/・3回目）
+  - 「Commercial drone platforms across inspection, mapping, and industrial operations.」（https://investorroadshow.exyn.com/・3回目）
+  - 「Trusted by industry leaders worldwide」（https://investorroadshow.exyn.com/・3回目）
+- 再販・ホワイトラベル：
+  - 「Channel Partner Portal」（https://www.exyn.com/・1回目）
+  - 「Channel Partner Portal」（https://www.exyn.com/about/company・1回目）
+  - 「Exyn Technologies rebrands to Exyn to better reflect who we are today and where we’re headed next -- expanding our technology, our customer base, and the environments we serve.」（https://www.exyn.com/about/company・1回目）
+  - 「Channel Partner Portal」（https://www.exyn.com/about/careers・1回目）
+  - 「Channel Partner Portal」（https://www.exyn.com/distributors-partners・1回目）
+  - 「Channel Partner Portal」（https://www.exyn.com/industries/mining-cavity-monitoring・1回目）
+  - 「Channel Partner Portal」（https://www.exyn.com/industries/construction-aec-scan-to-bim・1回目）
+  - 「Channel Partner Portal」（https://www.exyn.com/industries/geospatial-surveying-mapping・1回目）
+  - 「Channel Partner Portal」（https://www.exyn.com/industries/oil-and-gas-lidar-survey・1回目）
+  - 「Channel Partner Portal」（https://www.exyn.com/industries/defense・1回目）
+  - 「Channel Partner Portal」（https://www.exyn.com/about/team・1回目）
+  - 「Channel Partner Portal | Exyn」（https://www.exyn.com/channel-partner-portal・1回目）
+- 規模・親会社：
+  - 「Exyn launches Range to deliver mission-ready autonomy and modular robotic capabilities for defense and other high-consequence environments where GPS-denied performance, flexibility, and rapid deployment matter most. Range is a fully-owned subsidiary of Exyn.」（https://www.exyn.com/about/company・1回目）
+  - 「Exyn is committed to creating a diverse, equitable, and inclusive workplace. We have structures in place to encourage objectivity across the organization, from recruiting and hiring to performance and promotion. We also actively work with organizations to support the development of marginalized groups in tech, including BIPOC, LGBTQ+, women and veterans.」（https://www.exyn.com/about/careers・1回目）
+  - 「Excellence requires agility. We respond to the needs of employees, our customers, and our environment to continuously adapt and deliver quality results.」（https://www.exyn.com/about/careers・1回目）
+  - 「Exyn Technologies is an equal-opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. For positions in the United States of America, our company, Exyn Technologies, uses E-Verify to confirm employment eligibility. To learn more about E-Verify, including your rights and responsibilities, please visit」（https://www.exyn.com/about/careers・1回目）
+  - 「Exyn Technologies is an equal-opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. For positions located in the United States of America, our company Exyn Technologies uses E-Verify to confirm employment eligibility. To learn more about E-Verify, including your rights and responsibilities, please visit」（https://www.exyn.com/about/careers・1回目）
+  - 「The main purpose of our collaboration with Exyn is to improve our productivity on the construction site. The technology was great ... it was really easy to set the flight routes. We prepared some really difficult, narrow routes but [Exyn’s] Technology achieved them all.」（https://www.exyn.com/industries/construction-aec-scan-to-bim・1回目）
+  - 「With rapid acquisition of survey-quality data, in-field post-processing for immediate visualization, and a convertible form factor supporting multiple configurations, Nexys can drive efficiency, enhance safety, enable better environmental stewardship, and more informed decision-making.」（https://www.exyn.com/industries/oil-and-gas-lidar-survey・1回目）
+  - 「-- a 3D mapping ecosystem capable of portable mapping when you can carry by hand or autonomous when you need a drone to capture for you.」（https://www.exyn.com/industries/oil-and-gas-lidar-survey・1回目）
+  - 「The Nexys Ecosystem of accessories enables it to be handheld, carried in a backpack, mounted to a vehicle, piloted on an aerial robot, or -- using our industry-leading AL4 volumetric exploration -- it can autonomously navigate aerial and ground based robots.」（https://www.exyn.com/nexys-pro-product-sheet・1回目）
+  - 「In this customer story, Dundee Precious Metals, one of earliest adopters of Exyn solutions, explains how they began using the original autonomous aerial system more than five years ago and how the newest iteration, Nexys, has become an integral part of their daily operations.」（https://www.exyn.com/nexys-uncovers-roi-with-single-autonomous-stope-flight・1回目）
+  - 「EXYN Technologies (NASDAQ: EXYN) | Investor Overview」（https://investorroadshow.exyn.com/・3回目）
+  - 「FY2025 Revenue」（https://investorroadshow.exyn.com/・3回目）
+- 連絡先：
+  - 「hello@exyntechnologies.com」（https://www.exyn.com/channel-partner-portal・1回目）
+  - 「Contact us today to take control of your profile for」（https://www.featuredcustomers.com/vendor/exyn-technologies/case-studies・3回目）
+  - 「Contact us today for pricing options to add your customer」（https://www.featuredcustomers.com/vendor/exyn-technologies/case-studies・3回目）
+  - 「day 15, and we email you 3 days before that. Need something specific?」（https://fundediq.co/exyn-technologies-exyn-com-funding/・3回目）
+- 検索結果の抜粋：
+  - 「EXYN Technologies (NASDAQ: EXYN) | Investor Overview — Exyn Technologies (NASDAQ: EXYN) is a pioneer in Level 4B autonomous robotics and AI for GPS-denied, safety-critical environments — serving mining, construction, geospatial, and defense.」（https://investorroadshow.exyn.com/・3回目）
+  - 「Exyn Technologies, Inc. (EXYN) Stock Price, News, Quote ... — Find the latest Exyn Technologies, Inc. (EXYN) stock quote, history, news and other vital information to help you with your stock trading and investing.」（https://finance.yahoo.com/quote/EXYN/?fr=sycsrp_catchall・3回目）
+  - 「Exyn | Investor Relations — Exyn Technologies develops both SW-only and payload-based modular autonomy and mappy products for complex, GPS-denied, and safety-critical environments, delivering reliable field data with minimal human involvement.」（https://investors.exyn.com/・3回目）
+  - 「Exyn Technologies B2B Case Studies & Customer Successes — See how Exyn Technologies solves business challenges—real case studies from satisfied customers across industries.」（https://www.casestudies.com/company/exyn-technologies・3回目）
+  - 「4 Exyn Technologies Case Studies, Success Stories, & Customer ... — Narrow down 4 case studies by company size & industry to find out how Exyn Technologies works for a business like yours.」（https://www.featuredcustomers.com/vendor/exyn-technologies/case-studies・3回目）
+  - 「Blog | Exyn Technologies | Customer Story — Customer Story | Stay up to date on the past, present and future of aerial autonomy and 3D SLAM mapping.」（https://www.exyn.com/news/tag/customer-story・3回目）
+  - 「Exyn Technologies - Overview, News & Similar companies ... — Gather financial insights about Exyn Technologies, including details on funding rounds, investors, total funding, and acquisitions, to gain a comprehensive understanding of their financial strategy.」（https://www.zoominfo.com/c/exyn-technologies/363310072・3回目）
+  - 「Exyn Technologies: Funding, Investors & Team (Oct 2026) — Exyn Technologies is a company that emerged from the GRASP Laboratory at the University of Pennsylvania, leveraging more than ten years of research in autonomous flight and aerial robotics.」（https://fundediq.co/exyn-technologies-exyn-com-funding/・3回目）
+  - 「Exyn Technologies — Company Profile & Funding | Indexed.vc — Exyn Technologies is a Robotics company based in Philadelphia, founded in 2014. It has raised $56.7M in total across 4 rounds, most recently a $5.0M Extension Round round in Jul 2024.」（https://indexed.vc/companies/exyn-technologies・3回目）
+  - 「Exyn Technologies 2026 Company Profile: Stock Performance ...Exyn Technologies — venture-backed company profile | DealroomExyn Technologies Information - RocketReach — Information on stock, financials, earnings, subsidiaries, investors, and executives for Exyn Technologies. Use the PitchBook Platform to explore the full profile. The company generates revenue through direct sales, leasing agreement」（https://pitchbook.com/profiles/company/166749-22・3回目）
+- 創業年度：記載なし（3回確認済み：公式16頁／PDF・画像4件／外部24頁・検索12回）
+- 株主：記載なし（3回確認済み：公式16頁／PDF・画像4件／外部24頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式16頁／PDF・画像4件／外部24頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式16頁／PDF・画像4件／外部24頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式16頁／PDF・画像4件／外部24頁・検索12回）
+- 料金：記載なし（3回確認済み：公式16頁／PDF・画像4件／外部24頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式16頁／PDF・画像4件／外部24頁・検索12回）
+
+## Fabrikator
+- 公式URL：https://fabrikator.io（given）
+- 採用・広告の製品：
+  - 「Prevent revenue loss and build transparent communication with customers.」（https://www.fabrikator.io/・1回目）
+  - 「Misaligned inventory and marketing」（https://www.fabrikator.io/・1回目）
+  - 「Pricing model that supports your growth」（https://www.fabrikator.io/・1回目）
+  - 「Get a quick snapshot of your progress in real time」（https://www.fabrikator.io/・1回目）
+  - 「"Fabrikatör helped streamline our inventory & forecasting process. Bahadir provided great support during onboarding. Highly recommend!"」（https://www.fabrikator.io/・1回目）
+  - 「"Although it is pricier, it's an outstanding investment. Fabrikatör helps us stay ahead of stockouts, and build purchase orders quickly. Forecasting has become incredibly easy, and we can assess what stock to bring in. Our customers are happy, and we're grateful for this product."」（https://www.fabrikator.io/・1回目）
+  - 「"Game changer for our business. Saves days of work monthly. Awesome support, fast and straight forward. Customers love preordering. Wow!"」（https://www.fabrikator.io/・1回目）
+  - 「"Pre-order management made easy. Better visibility for decision-making with stock level reporting. Incredible and responsive support team."」（https://www.fabrikator.io/・1回目）
+  - 「During a season of 400%+ growth, Fabrikator let us dynamically show ship dates based on open POs — no manual page updates. It scaled our pre-order model with confidence and grace」（https://www.fabrikator.io/・1回目）
+  - 「Used to take hours of analysis every month via spreadsheets and report downloads. Now I do stock analysis and order replenishment in minutes — across 350+ SKUs.」（https://www.fabrikator.io/・1回目）
+  - 「One of the most robust Shopify apps we've used. They really understand the challenges of a mid-to-large e-comm brand and helped us get a handle on our re-ordering process.」（https://www.fabrikator.io/・1回目）
+  - 「Top notch. Intuitive, with all the relevant info and easy to manage. Previous apps left uncertainty due to poor reporting and design — Fabrikator meets and exceeds expectations.」（https://www.fabrikator.io/・1回目）
+- 製造業の実績：
+  - 「Trusted by growing brands」（https://www.fabrikator.io/・1回目）
+  - 「Replenishment is becoming my critical resource for forecasting and ordering 1,000+ SKUs after moving to an offsite warehouse. Solid app for medium-to-large inventory volumes."」（https://www.fabrikator.io/・1回目）
+  - 「Fantastic support and a great app with everything I need for my warehouse.」（https://www.fabrikator.io/・1回目）
+  - 「Do you support multiple warehouses?」（https://www.fabrikator.io/・1回目）
+  - 「Yes! You can connect multiple warehouses and manage them all together.」（https://www.fabrikator.io/・1回目）
+  - 「Replenishment is becoming my critical resource for forecasting and ordering 1,000+ SKUs after moving to an offsite warehouse. Solid app for medium-to-large inventory volumes."」（https://www.fabrikator.io/partnership・1回目）
+  - 「Fantastic support and a great app with everything I need for my warehouse.」（https://www.fabrikator.io/partnership・1回目）
+  - 「Steady daily demand until BFCM triples it. If your restock math doesn’t see the spike coming, January starts with empty shelves or a stuffed warehouse.」（https://www.fabrikator.io/industries/apparel・1回目）
+  - 「Lead-time-aware POs tell you when to commit to the factory so stock lands before the season, not during it.」（https://www.fabrikator.io/industries/footwear・1回目）
+  - 「Factory slots and 60–90 day lead times mean today’s stockout was caused by a decision made last quarter. You need to see it coming early.」（https://www.fabrikator.io/industries/footwear・1回目）
+  - 「Our factory lead times are 60–90 days. Does that work?」（https://www.fabrikator.io/industries/footwear・1回目）
+  - 「Fill the container, not the warehouse」（https://www.fabrikator.io/industries/home-decor・1回目）
+- 再販・ホワイトラベル：
+  - 「Check Fabrikatör's trusted partner directory to connect with best of its field experts, agencies and consultants to help you integrate systems or plan together.」（https://www.fabrikator.io/partners・1回目）
+  - 「We collaborate with Shopify agencies, freelancers, 3PLs, app developers, and other software providers. If you serve the eCommerce ecosystem, this program is for you!」（https://www.fabrikator.io/partnership・1回目）
+  - 「: Elevate your brand with」（https://www.fabrikator.io/partnership・1回目）
+  - 「The Growth of Shopify Agencies and Apps」（https://www.fabrikator.io/pr/shopifys-growth-fuels-opportunities-for-ecosystem-partners・1回目）
+  - 「GmbH, and podcast host, notes, "Shopify-focused marketing agencies and Theme & App Developers are thriving components of the Shopify ecosystem.」（https://www.fabrikator.io/pr/shopifys-growth-fuels-opportunities-for-ecosystem-partners・1回目）
+  - 「The Growth of Shopify Agencies and Apps」（https://www.fabrikator.io/documents/shopifys-growth-fuels-opportunities-for-ecosystem-partners.pdf・2回目）
+  - 「marketing agencies and Theme & App Developers are thriving」（https://www.fabrikator.io/documents/shopifys-growth-fuels-opportunities-for-ecosystem-partners.pdf・2回目）
+- 規模・親会社：
+  - 「Prevent revenue loss and build transparent communication with customers.」（https://www.fabrikator.io/・1回目）
+  - 「Select your annual revenue」（https://www.fabrikator.io/・1回目）
+  - 「Make revenue driving supply decisions with confidence」（https://www.fabrikator.io/・1回目）
+  - 「If you're trying to scale, being able to manage your inventory plays such an important role. Great way to keep track with new items arriving — love how it integrates with Shopify.」（https://www.fabrikator.io/・1回目）
+  - 「Switched over from using multiple apps like Cogsy and Anvyl. The pre-order functionality is unique and valuable — would have saved us a lot of lost revenue had we had it earlier.」（https://www.fabrikator.io/・1回目）
+  - 「Excellent app. More accurate than others I tried. Support is fantastic. Backorder arrival dates dynamically shown from PO receiving dates — excellent.」（https://www.fabrikator.io/・1回目）
+  - 「Sales Partnership - 20% Recurring Revenue Share | Fabrikatör」（https://www.fabrikator.io/partnership・1回目）
+  - 「We're bringing inventory planning for eCommerce brands to the next level, and we're inviting you to be a part of our growth journey.」（https://www.fabrikator.io/partnership・1回目）
+  - 「If you're trying to scale, being able to manage your inventory plays such an important role. Great way to keep track with new items arriving — love how it integrates with Shopify.」（https://www.fabrikator.io/partnership・1回目）
+  - 「Switched over from using multiple apps like Cogsy and Anvyl. The pre-order functionality is unique and valuable — would have saved us a lot of lost revenue had we had it earlier.」（https://www.fabrikator.io/partnership・1回目）
+  - 「Excellent app. More accurate than others I tried. Support is fantastic. Backorder arrival dates dynamically shown from PO receiving dates — excellent.」（https://www.fabrikator.io/partnership・1回目）
+  - 「, whether you're looking to grow revenue, build lasting client relationships, or increase brand visibility.」（https://www.fabrikator.io/partnership・1回目）
+- 連絡先：
+  - 「Yes! You can reach us via live chat and email. Most of our users shared their satisfaction over our customer service in their reviews. Check them out here:」（https://www.fabrikator.io/・1回目）
+  - 「Yes! You can reach us via live chat and email. Most of our users shared their satisfaction over our customer service in their reviews. Check them out here:」（https://www.fabrikator.io/partnership・1回目）
+  - 「We offer 20% discount for annual subscriptions. If you make less than $30k USD a month but growing steadily, please contact us to benefit from early stage discounts.」（https://www.fabrikator.io/pricing・1回目）
+  - 「We offer 20% discount for annual subscriptions. If you make less than $30k USD a month but growing steadily, please contact us to benefit from early stage discounts.」（https://www.fabrikator.io/about・1回目）
+  - 「Yes! You can reach us via live chat and email. Most of our users shared their satisfaction over our customer service in their reviews. Check them out here:」（https://www.fabrikator.io/about・1回目）
+  - 「Email and SMS category is overly penetrated, and Shopify-backed Klaviyo dominates this crowded category, with their IPO last year, in all five countries, despite high installations of Shopify Inbox and Mailchimp's market expansion app.」（https://www.fabrikator.io/pr/shopifys-growth-fuels-opportunities-for-ecosystem-partners・1回目）
+  - 「Email and SMS category is overly penetrated, and Shopify-backed Klaviyo」（https://www.fabrikator.io/documents/shopifys-growth-fuels-opportunities-for-ecosystem-partners.pdf・2回目）
+  - 「Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.」（https://pitchbook.com/profiles/company/459342-64・3回目）
+  - 「For institutional investors. Book with your work email.」（https://www.caplight.com/company/fabrikator・3回目）
+- 検索結果の抜粋：
+  - 「Fabrikator — Tried several inventory planning solutions — many were too complex and expensive, or too basic and unreliable. Fabrikator strikes the perfect balance for our 500 SKUs.」（https://www.fabrikator.io/・3回目）
+  - 「Pricing & Plans - Fabrikatörfabrikator.comHome | Fabrikatör - help.fabrikator.ioFabrikatör - LinkedInTop Metal Fabrication Manufacturers and Suppliers in Japan — "Fabrikator helped us write smarter, more strategic inventory orders. We now make decisions based on real data and sell-through patterns — scaling with intention, lean and disciplined. fabrikator.com Fabrikatör Learn how to utilize report」（https://www.fabrikator.io/pricing・3回目）
+  - 「fabrikator.com — fabrikator.com」（https://fabrikator.com/・3回目）
+  - 「Fabrikator — Plan demand and inventory to grow your brand with confidence. Say goodbye to spreadsheets and manual updates. "Every Monday, I decide on supplier orders within 20 minutes. Previously, managing Excel sheets and pivot tables was time-consuming, but now that’s all automated."」（https://www.fabrikator.io/・3回目）
+  - 「Home | Fabrikatör - help.fabrikator.io — Fabrikatör Learn how to utilize reports the best way By Bahadir and 2 others11 articles」（https://help.fabrikator.io/en/・3回目）
+  - 「Fabrikator 2026 Company Profile: Valuation, Funding ...Fabrikator - 2026 Company Profile, Team, Funding ... - TracxnFabrikatÃ¶r — SaaSData.appFabrikatör | Valuation, Funding Rounds & Stock Price | CaplightFabrikator - 2026 Company Profile & Competitors - TracxnFabrikatör - Crunchbase Company Profile & FundingFabrikatör - Virtual Head of Operations: Funding & Investors ... — Information on valuatio」（https://pitchbook.com/profiles/company/459342-64・3回目）
+  - 「Fabrikator - 2026 Company Profile, Team, Funding ... - TracxnFabrikatÃ¶r — SaaSData.appFabrikatör | Valuation, Funding Rounds & Stock Price | CaplightFabrikator - 2026 Company Profile & Competitors - TracxnFabrikatör - Crunchbase Company Profile & FundingFabrikatör - Virtual Head of Operations: Funding & Investors ... — Jan 26, 2026 · Fabrikator is a seed company based in Istanbul (Turkey), founde」（https://tracxn.com/d/companies/fabrikator/__1b9PJRYnNFcyV7xzAul8nGzwOtMB-5SNl6EjF338pPo・3回目）
+  - 「Fabrikator - 2026 Company Profile & Competitors - Tracxn — Aug 28, 2026 · Fabrikator is an unfunded company based in Berlin (Germany), founded in 2018. It operates as a Provider of artificial intelligence software for retail inventory planning operations.」（https://tracxn.com/d/companies/fabrikator/__8ufs0h9flIuoFLCIYeZCOjyIWvAXky4b2TDH2XxUV80・3回目）
+- 創業年度：記載なし（3回確認済み：公式17頁／PDF・画像5件／外部28頁・検索12回）
+- 株主：記載なし（3回確認済み：公式17頁／PDF・画像5件／外部28頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式17頁／PDF・画像5件／外部28頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式17頁／PDF・画像5件／外部28頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式17頁／PDF・画像5件／外部28頁・検索12回）
+- 料金：記載なし（3回確認済み：公式17頁／PDF・画像5件／外部28頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式17頁／PDF・画像5件／外部28頁・検索12回）
 
 ## Factoredquality
 - 公式URL：https://factoredquality.com/（given）
@@ -2433,6 +4620,93 @@
 - 再販・ホワイトラベル：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部35頁・検索12回）
 - 日本の担い手：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部35頁・検索12回）
 
+## Fairing
+- 公式URL：https://fairing.co（given）
+- 採用・広告の製品：
+  - 「Fairing: Post-Purchase Surveys for Marketing Attribution」（https://fairing.co/・1回目）
+  - 「Helping thousands of marketing teams measure marketing」（https://fairing.co/・1回目）
+  - 「Our mission is to bridge the gap between metrics and meaning—revealing the true drivers of customer decisions at scale. By capturing authentic customer insights at the moment of conversion, we help brands build marketing strategies based on real customer understanding, not just click data.」（https://fairing.co/・1回目）
+  - 「Merge attribution responses with behavioral data to reveal true channel performance. Validate marketing spend with direct customer feedback, not just pixel data.」（https://fairing.co/・1回目）
+  - 「Sync attribution survey data directly to your warehouse, analytics tools, and marketing platforms. Native integrations ensure continuous data flow into your existing stack.」（https://fairing.co/・1回目）
+  - 「Before Black Friday: predict your peak, catch leaking codes and read your channels right」（https://fairing.co/・1回目）
+  - 「BFCM CRO Checklist: How to Prepare for Black Friday and Catch Bugs Before Code Freeze」（https://fairing.co/・1回目）
+  - 「Start improving your marketing measurement today with a free trial, or schedule a demo to see our platform in action.」（https://fairing.co/・1回目）
+  - 「Helping thousands of marketing teams measure marketing」（https://fairing.co/pricing・1回目）
+  - 「Predictive Auto-suggest」（https://fairing.co/pricing・1回目）
+  - 「Can I preview my questions before they go live?」（https://fairing.co/pricing・1回目）
+  - 「Start improving your marketing measurement today with a free trial, or schedule a demo to see our platform in action.」（https://fairing.co/pricing・1回目）
+- 製造業の実績：
+  - 「Sync attribution survey data directly to your warehouse, analytics tools, and marketing platforms. Native integrations ensure continuous data flow into your existing stack.」（https://fairing.co/・1回目）
+  - 「Fairing is built by DTC operators and data scientists. Every product update begins the exact same way: a brand brings us a question their analytics tools can’t answer, and we build the engine to answer it.」（https://fairing.co/about・1回目）
+  - 「Thorne is a health and wellness brand trusted by elite athletes, healthcare practitioners, and everyday consumers. Since 2019, Thorne has been an official partner of UFC, supplying clean, evidence-based supplements that support peak performance, preparation, and recovery to their athletes.」（https://fairing.co/customers/thorne・1回目）
+  - 「Black and Red Factory Style - CBR600RR 03-04 Fairing Kit」（https://www.newfairings.com/・3回目）
+  - 「Black with Silver Decals Factory Style - CBR600RR 05-06 Fairing Kit」（https://www.newfairings.com/・3回目）
+  - 「Blue Factory Style - YZF600R Thundercat 96-07 Fairing Kit」（https://www.newfairings.com/・3回目）
+  - 「White Matte Black Factory Style - YZF-R6 06-07 Fairing Kit」（https://www.newfairings.com/・3回目）
+  - 「Matte Black Factory Style - YZF-R6 08-16 Fairing Kit」（https://www.newfairings.com/・3回目）
+  - 「Red White and Black Factory Style - YZF-R6 08-16 Fairing Kit」（https://www.newfairings.com/・3回目）
+  - 「Please note: All manufacturer names, symbols, and descriptions, used in our images & text are used solely for identification purposes only. It is neither inferred nor implied that any item sold by Newfairings is a product authorized by or in any way connected with any vehicle manufacturers displayed on this page.」（https://www.newfairings.com/・3回目）
+  - 「Trusted by riders worldwide since 2005」（https://www.tsukayu.com/・3回目）
+  - 「International delivery via UPS, DHL, and FedEx. Warehouses in the US and Australia.」（https://www.tsukayu.com/・3回目）
+- 再販・ホワイトラベル：
+  - 「Here’s how having HDYHAU data can help: Imagine analyzing your brands AOV over time. Great, everything is going up and to the right. But layering attribution data from your HDYHAU survey over those metrics gives you a clearer picture: people buying after hearing about your brand from a friend have a 30% higher AOV than your average customer.」（https://fairing.co/blog/the-most-powerful-question-in-ecommerce-how-did-you-hear-about-us-(hdyhau)・1回目）
+  - 「But interestingly, this insight didn’t lead to increased investment in their referral program.」（https://fairing.co/customers/weezie・1回目）
+  - 「“Our audience just isn’t motivated by kickbacks and doesn’t really engage with traditional referral programs that rely on incentives. We found that they are motivated by passion for our brand, which is great.” said Hughes.」（https://fairing.co/customers/weezie・1回目）
+  - 「At the median brand, the share starts climbing in early November and peaks about 7 points above its own October, higher than over BFCM itself. Brands with a visible referral program saw about the same BFCM rise as brands without one, so referral programs don’t explain it.」（https://fairing.co/resources/benchmarks/bfcm-how-customers-hear-about-you・1回目）
+  - 「Sale days and referral programs.」（https://fairing.co/resources/benchmarks/bfcm-how-customers-hear-about-you・1回目）
+  - 「A sale day is a non-holiday day (February to October) with at least twice the brand’s trailing four-week median orders (20+), compared with its days within two weeks. A visible referral program means enough answered orders carried a referral tag or code; programs we can’t detect would make the groups look more alike.」（https://fairing.co/resources/benchmarks/bfcm-how-customers-hear-about-you・1回目）
+  - 「NewFairings has the worlds best selection of Yamaha R6 Fairings, Yamaha R1 Fairings and TMAX Fairings. All Fairing Kits ABS Injection Moulded just like OEM.」（https://www.newfairings.com/・3回目）
+  - 「Learn how Polo Custom Products partnered with a leading motorcycle accessories brand to engineer OEM-fit fairing pouches that enhance rider convenience without compromising performance. Through rider-focused design and」（https://www.polocustomproducts.com/case-study-motorcycle-fairing-pouches/・3回目）
+  - 「The customer needed a partner that could take a fairing pouch from concept to production while ensuring an OEM fit, long-term durability, and production consistency. They required our」（https://www.polocustomproducts.com/case-study-motorcycle-fairing-pouches/・3回目）
+  - 「PA12-CF motorcycle fairing tooling for an automotive OEM in Ahmedabad.」（https://layerx3d.in/blog/case-study-motorcycle-fairing-tooling-pa12-cf-ahmedabad-automotive-oem・3回目）
+  - 「The OEM pulled 60 prototype panels across the five variants within the 8-day window and completed chassis fit verification for all variants in the same month the CAD data was finalised — a product development timeline that would have been impossible with the CNC tooling lead time.」（https://layerx3d.in/blog/case-study-motorcycle-fairing-tooling-pa12-cf-ahmedabad-automotive-oem・3回目）
+  - 「3D Printing for Automotive Manufacturing in India: OEM Jigs & Fixtures」（https://layerx3d.in/blog/case-study-motorcycle-fairing-tooling-pa12-cf-ahmedabad-automotive-oem・3回目）
+- 日本の担い手：
+  - 「Kawasaki has successfully produced a large fairing for the H-II Launch Vehicle for the first time in Japan. Since then,」（https://www.khi.co.jp/rd/magazine/pdf/179/n17906.pdf・3回目）
+  - 「付ボルト）方式をベースに，日本独自の分離機構を開発す」（https://www.khi.co.jp/rd/magazine/pdf/179/n17906.pdf・3回目）
+  - 「る．日本では，浮遊するフェアリングが船舶の航行に支障」（https://www.khi.co.jp/rd/magazine/pdf/179/n17906.pdf・3回目）
+  - 「FULL FAIRING SET | Yoshimura Japan」（https://www.yoshimura-jp.com/product/n-117913?lang=en・3回目）
+- 規模・親会社：
+  - 「Join 3,500+ marketers using attribution surveys to accelerate revenue growth.」（https://fairing.co/pricing・1回目）
+  - 「Fixing attribution exposed a much bigger challenge: getting true, structured customer feedback across every part of the funnel. Marketers also needed to know:」（https://fairing.co/about・1回目）
+  - 「Buyers start asking AI what to buy, then arrive later as direct.」（https://fairing.co/about・1回目）
+  - 「No option should win just because it’s listed first.」（https://fairing.co/about・1回目）
+  - 「No option wins just because it’s listed first.」（https://fairing.co/about・1回目）
+  - 「Marketers who own acquisition, checkout conversion, NPS and customer research.」（https://fairing.co/about・1回目）
+  - 「In the vast and ever-evolving landscape of eCommerce, understanding the intricacies of customer acquisition is paramount to success. Among the myriad of metrics and analytics tools available to businesses, there exists one simple yet profound question that holds immense power: “How Did You Hear About Us?” (HDYHAU).」（https://fairing.co/blog/the-most-powerful-question-in-ecommerce-how-did-you-hear-about-us-(hdyhau)・1回目）
+  - 「It is recommended to collect a mix of data that consists of your traditional first to third party-data, as well as zero-party data, to get a full understanding of your consumer and their conversion path. This will enable your eCommerce brand to optimize an array of things, such as your checkout process, your customers’ buying experience, and more.」（https://fairing.co/blog/the-most-powerful-question-in-ecommerce-how-did-you-hear-about-us-(hdyhau)・1回目）
+  - 「This data provides crucial insights into the effectiveness of various marketing channels and marketing campaigns. As businesses strive to understand and optimize their customer acquisition strategies, the data received is the key to deciphering their marketing attribution and to fill out their attribution models.」（https://fairing.co/blog/the-most-powerful-question-in-ecommerce-how-did-you-hear-about-us-(hdyhau)・1回目）
+  - 「With Fairing, Thorne can directly attribute conversions to UFC activations, turning a traditionally hard-to-measure partnership into a proven revenue driver.」（https://fairing.co/customers/thorne・1回目）
+  - 「their survey data for accurate revenue projections.」（https://fairing.co/customers/thorne・1回目）
+  - 「We’re able to see, because our customers are telling us and confirming every day, that we aren’t a commodity product to them. We’re a part of their lifestyle.」（https://fairing.co/customers/weezie・1回目）
+- 連絡先：
+  - 「There are two common ways that your business can implement such a survey to gather important information needed to help elevate it. One way would be through email or text blasts that would be sent to all your customers using general information you’ve collected. There are many services that make this possible (such as」（https://fairing.co/blog/the-most-powerful-question-in-ecommerce-how-did-you-hear-about-us-(hdyhau)・1回目）
+  - 「However, this method tends to have low response rates. Customers tend not to reply to such queries after they’ve made their purchase—when’s the last time you’ve answered a survey over email? Compounding low open rates of a survey email with even lower survey completion rates leaves brands with simply not enough data to make decisions.」（https://fairing.co/blog/the-most-powerful-question-in-ecommerce-how-did-you-hear-about-us-(hdyhau)・1回目）
+  - 「Enter your email below to be notified of new blog posts.」（https://fairing.co/blog/the-most-powerful-question-in-ecommerce-how-did-you-hear-about-us-(hdyhau)・1回目）
+  - 「Email and text also ran a little ahead of all channels (4.2x). Influencer, YouTube and podcast ran a little slower, so their small shares barely moved.」（https://fairing.co/resources/benchmarks/bfcm-how-customers-hear-about-you・1回目）
+  - 「Apart from friends and family and email or text, the channels we show ran 3.0x to 3.6x their October daily average over BFCM, so look into any channel that ran well below that.」（https://fairing.co/resources/benchmarks/bfcm-how-customers-hear-about-you・1回目）
+  - 「Email: sale@newfairings.com」（https://www.newfairings.com/・3回目）
+  - 「Ask The Newfairings Experts anything. We will follow up with you via email within 24-48 hours.」（https://www.newfairings.com/・3回目）
+  - 「This email address is already registered!」（https://www.newfairings.com/・3回目）
+- 検索結果の抜粋：
+  - 「179号 ロケット用フェアリングの開発 — Kawasaki has successfully produced a large fairing for the H-II Launch Vehicle for the first time in Japan. Since then, we have made technical improvements on an ongoing basis to continue supplying high-performance fairings at a low cost.」（https://www.khi.co.jp/rd/magazine/pdf/179/n17906.pdf・3回目）
+  - 「Fairing | Yoshimura Japan — ・FULL FAIRING SET (P/N : 510-50A-0000) ・FULL FAIRING SET ENDURANCE (P/N : 510-50A-1000) ♦ FOLLOW AND COMPLY EACH RACE REGULATION TO USE. ♦ THE PRODUCT HAS BEEN DEVELOPED FOR CLOSED-COURSE...」（https://www.yoshimura-jp.com/product-category/kitparts-29-01?lang=en・3回目）
+  - 「Motorcycle Fairings, ABS Fairings Kits, Custom Fairings, Race ... — We can design and custom Road Fairings and Race Fairings, you can buy the best quality fairing kit with confidence at the lowest price in our online store.」（https://www.newfairings.com/・3回目）
+  - 「Tsukayu — Premium Motorcycle Fairings & Hard Saddlebags — Premium motorcycle fairings, hard saddlebags, and touring accessories. Transform your cruiser into a touring machine.」（https://www.tsukayu.com/・3回目）
+  - 「FULL FAIRING SET | Yoshimura Japan — ♦ FOLLOW AND COMPLY EACH RACE REGULATION TO USE. ♦ THE PRODUCT HAS BEEN DEVELOPED FOR CLOSED-COURSE RIDING OR COMPETITION USE ONLY AND IS NOT INTENDED TO BE USED ON PUBLIC ROADS. RACING KIT PARTS LIST.」（https://www.yoshimura-jp.com/product/n-117913?lang=en・3回目）
+  - 「Windshields & Fairings | Blindtiger — 自分たちが「良いだろうな」と思ったハーレーカスタムパーツやアパレルを扱うセレクトショップです。 ここにしかない、マニアックでアンダーグランドなアイテムを取り揃えています。」（https://www.blindtiger.jp/p_cate/windshields_fairings/・3回目）
+  - 「Case Study - Motorcycle Fairing Pouches - Polo Custom Products — Learn how Polo Custom Products partnered with a leading motorcycle accessories brand to engineer OEM-fit fairing pouches that enhance rider convenience without compromising performance.」（https://www.polocustomproducts.com/case-study-motorcycle-fairing-pouches/・3回目）
+  - 「Case Study: Motorcycle Fairing Tooling in PA12-CF… — Layer X — May 30, 2026 · A two-wheeler accessories manufacturer based in Ahmedabad was developing five new fairing variants for an upcoming model year update to their commuter motorcycle range.」（https://layerx3d.in/blog/case-study-motorcycle-fairing-tooling-pa12-cf-ahmedabad-automotive-oem・3回目）
+  - 「Case Study: Tortuga improves attribution and uncovers high ... — The data from Fairing also provided new insights into word-of-mouth referrals and customer preferences, which are now shaping the company's future product strategy and bundling options. View this case study…」（https://www.casestudies.com/company/fairing/case-study/how-tortuga-took-off-with-direct-from-consumer-data-from-fairing・3回目）
+  - 「Mastering Custom Motorcycle Fairing Fabrication: From Design ... — Together, these material choices and design innovations underscore the evolving landscape of custom motorcycle fairing fabrication, where individual rider vision meets cutting-edge manufacturing for superior form and function.」（https://summitfairings.com/blog/custom-motorcycle-fairing-fabrication/・3回目）
+  - 「12 Fairing Case Studies, Success Stories, & Customer Stories — Fairing has a 4.7/5 star rating. Learn what their customers think, get 12 free case studies and more.」（https://www.featuredcustomers.com/vendor/fairing/case-studies・3回目）
+- 創業年度：記載なし（3回確認済み：公式10頁／PDF・画像1件／外部31頁・検索12回）
+- 株主：記載なし（3回確認済み：公式10頁／PDF・画像1件／外部31頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式10頁／PDF・画像1件／外部31頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式10頁／PDF・画像1件／外部31頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式10頁／PDF・画像1件／外部31頁・検索12回）
+- 料金：記載なし（3回確認済み：公式10頁／PDF・画像1件／外部31頁・検索12回）
+
 ## Femaleinvest
 - 公式URL：https://www.femaleinvest.com/（given）
 - 採用・広告の製品：
@@ -2490,6 +4764,757 @@
 - 所在地：記載なし（3回確認済み：公式2頁／PDF・画像1件／外部27頁・検索12回）
 - 料金：記載なし（3回確認済み：公式2頁／PDF・画像1件／外部27頁・検索12回）
 - 日本の担い手：記載なし（3回確認済み：公式2頁／PDF・画像1件／外部27頁・検索12回）
+
+## Fermatcommerce
+- 公式URL：https://www.fermatcommerce.com/（given）
+- 株主：19-Sep-2022 $12M $12M  Completed Generating Revenue（https://pitchbook.com/profiles/company/502804-18・3回目）
+- 株主：5,418,815 $0.000100  $1.55 $1.55 1x $1.55 9.06%（https://pitchbook.com/profiles/company/502804-18・3回目）
+- 株主：5,578,241 $0.000100  $0.98 $0.98 1x $0.98 9.33%（https://pitchbook.com/profiles/company/502804-18・3回目）
+- 採用・広告の製品：
+  - 「FERMÀT's agents analyze millions of sessions and make approved changes to the visit experience based on shopper intent.」（https://www.fermatcommerce.com/・1回目）
+  - 「The same person shops differently every time they arrive, shaped by the product, the audience, the channel, and the offer that brought them. Reading that intent and acting on it was out of reach before generative AI.」（https://www.fermatcommerce.com/・1回目）
+  - 「Once approved, FERMÀT agents turn the top recommendations into brand-native experiences, and launch them across any page and surface shoppers see.」（https://www.fermatcommerce.com/・1回目）
+  - 「Shopper lands on product page from Google Search」（https://www.fermatcommerce.com/・1回目）
+  - 「Shopper returns to Google after viewing product page」（https://www.fermatcommerce.com/・1回目）
+  - 「Show similar products earlier in the PDP flow」（https://www.fermatcommerce.com/・1回目）
+  - 「Show how people style the product」（https://www.fermatcommerce.com/・1回目）
+  - 「Show alternate fits and washes before product details」（https://www.fermatcommerce.com/・1回目）
+  - 「Before: one product without recommended styles」（https://www.fermatcommerce.com/・1回目）
+  - 「Products viewed per Google shopper session」（https://www.fermatcommerce.com/・1回目）
+  - 「Product pages live with the new experience」（https://www.fermatcommerce.com/・1回目）
+  - 「Where a shopper comes from predicts how long they stay.」（https://www.fermatcommerce.com/・1回目）
+- 製造業の実績：
+  - 「If used by Japanese e-commerce marketers」（https://note.com/solvomind_ishii/n/nf9b5e6bb4a22?hl=en・3回目）
+  - 「SendCutSend is an online custom manufacturing service specializing in rapid, high-precision sheet metal…」（https://fundediq.co/fermat-commerce-fermatcommerce-com-funding/・3回目）
+- 日本の担い手：
+  - 「：日本でもChatGPT経由の商品検索が増加中」（https://note.com/solvomind_ishii/n/nf9b5e6bb4a22・3回目）
+  - 「正直、日本からの直接導入はまだハードル高め」（https://note.com/solvomind_ishii/n/nf9b5e6bb4a22・3回目）
+  - 「日本市場への展開はこれからですが、「コマースの未来はエージェンティックになる」を体現するツールとして、今のうちに押さえておきましょう」（https://note.com/solvomind_ishii/n/nf9b5e6bb4a22・3回目）
+  - 「Eコマースブランドおよびデジタル広告代理店を対象に、AIを活用したポストクリック最適化ソフトウェアの開発および提供を行う」（https://www.firstcvc.jp/global/fermatcommerce.com・3回目）
+  - 「If used by Japanese e-commerce marketers」（https://note.com/solvomind_ishii/n/nf9b5e6bb4a22?hl=en・3回目）
+  - 「: Product searches via ChatGPT are increasing in Japan as well. Value in accumulating knowledge early ・」（https://note.com/solvomind_ishii/n/nf9b5e6bb4a22?hl=en・3回目）
+  - 「Japanese language support unconfirmed」（https://note.com/solvomind_ishii/n/nf9b5e6bb4a22?hl=en・3回目）
+  - 「: UI and support are in English. Generation accuracy for Japanese PDPs needs testing ・」（https://note.com/solvomind_ishii/n/nf9b5e6bb4a22?hl=en・3回目）
+  - 「Honestly, the hurdle for direct adoption from Japan is still high. However, the direction of "automatically looping analysis -> testing -> optimization via AI" is the very future of e-commerce tools. It is a must-watch.」（https://note.com/solvomind_ishii/n/nf9b5e6bb4a22?hl=en・3回目）
+- 規模・親会社：
+  - 「The same person shops differently every time they arrive, shaped by the product, the audience, the channel, and the offer that brought them. Reading that intent and acting on it was out of reach before generative AI.」（https://www.fermatcommerce.com/・1回目）
+  - 「FERMÀT agents rank the changes most likely to recover missed revenue and keep each shopper moving toward a purchase.」（https://www.fermatcommerce.com/・1回目）
+  - 「Travelpro built a repeatable playbook to scale SMS into a revenue channel.」（https://www.fermatcommerce.com/customers・1回目）
+  - 「Adapt Naturals turned audience variety into scalable Meta acquisition.」（https://www.fermatcommerce.com/customers・1回目）
+  - 「Love Wellness extended its experimentation engine from acquisition into retention.」（https://www.fermatcommerce.com/customers・1回目）
+  - 「1906 turned regulatory constraints into a scalable acquisition program.」（https://www.fermatcommerce.com/customers・1回目）
+  - 「AsWeMove cut acquisition costs without softening premium positioning.」（https://www.fermatcommerce.com/customers・1回目）
+  - 「ARMRA built one acquisition engine that adapted to shifting business goals.」（https://www.fermatcommerce.com/customers・1回目）
+  - 「Duradry scaled paid acquisition on bootstrapped economics.」（https://www.fermatcommerce.com/customers・1回目）
+  - 「Dermaclara turned organic social into a revenue channel.」（https://www.fermatcommerce.com/customers・1回目）
+  - 「Travelpro built a repeatable playbook to scale SMS into a revenue channel.」（https://www.fermatcommerce.com/customers/how-travelpro-turned-sms-into-a-scalable-revenue-engine-beating-email-with-13-higher-aov・1回目）
+  - 「in revenue from a single SMS campaign」（https://www.fermatcommerce.com/customers/how-travelpro-turned-sms-into-a-scalable-revenue-engine-beating-email-with-13-higher-aov・1回目）
+- 連絡先：
+  - 「average order value compared to a large email blast」（https://www.fermatcommerce.com/customers/how-travelpro-turned-sms-into-a-scalable-revenue-engine-beating-email-with-13-higher-aov・1回目）
+  - 「SMS messages were precisely timed to follow two email sends from a major media outlet, positioning SMS as the final, high-intent touchpoint for already-engaged shoppers.」（https://www.fermatcommerce.com/customers/how-travelpro-turned-sms-into-a-scalable-revenue-engine-beating-email-with-13-higher-aov・1回目）
+  - 「Email campaign (~1M recipients):」（https://www.fermatcommerce.com/customers/how-travelpro-turned-sms-into-a-scalable-revenue-engine-beating-email-with-13-higher-aov・1回目）
+  - 「Travelpro's FERMÀT-powered SMS campaign outperformed a million-subscriber email blast, proving SMS's potential as a primary revenue channel. With only 3.5% of the email campaign's reach, the SMS drop drove 13% more orders and a higher average order value, establishing SMS as a true revenue engine.」（https://www.fermatcommerce.com/customers/how-travelpro-turned-sms-into-a-scalable-revenue-engine-beating-email-with-13-higher-aov・1回目）
+  - 「Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.」（https://pitchbook.com/profiles/company/502804-18・3回目）
+  - 「day 15, and we email you 3 days before that. Need something specific?」（https://fundediq.co/fermat-commerce-fermatcommerce-com-funding/・3回目）
+- 検索結果の抜粋：
+  - 「【Fermat Commerce】バラバラのSaaSを"AIエージェント"で丸ごと置き換... — Jul 28, 2026 · 月商1億円以上、SKU多数、Meta/Google広告を本格運用しているEC事業者がメインターゲット。 寸評： 正直、日本からの直接導入はまだハードル高め。 ただ「分析→テスト→最適化をAIで自動ループさせる」方向性はECツールの未来そのもの。 ウォッチ必須です。」（https://note.com/solvomind_ishii/n/nf9b5e6bb4a22・3回目）
+  - 「Fermatの資金調達・投資家情報 | 海外スタートアップ | FIRST CVC — Bain Capital Ventures、Greylockのポートフォリオに掲載される海外スタートアップFermatの企業プロフィール。Fermat（法人名: Fermat Commerce, Inc.、ブランド表記: FERMÀT）は、米国サンフランシスコに本社を置き、AIネイティブなコマース体験生成プラット...」（https://www.firstcvc.jp/global/fermatcommerce.com・3回目）
+  - 「[Fermat Commerce] Replacing fragmented SaaS with "AI agents ... — Jul 29, 2026 · Today, I'm introducing "FERMÀT," an AI-Native commerce platform from Austin, Texas. It is an ambitious product that aims to integrate the "patchwork" of SaaS tools that keep increasing in e-commerce operations—such as analytics, A/B testing, and personalization—into a single AI agent.」（https://note.com/solvomind_ishii/n/nf9b5e6bb4a22?hl=en・3回目）
+  - 「FERMÀT (@fermatcommerce) / Posts / X — Apr 23, 2021 · @rishabhmjain is the co-founder and CEO of @fermatcommerce, the leading commerce experience platform, which serves the most innovative brands and retailers in the world like Glossier, U Beauty, Unilever, Bissel, Back Country, among hundreds of others.」（https://x.com/fermatcommerce・3回目）
+  - 「Rishabh Jain - Co-Founder / CEO at FERMÀT - the leading ...FERMÀT - LinkedIn【Fermat Commerce】バラバラのSaaSを"AIエージェント"で丸ごと置き換...FERMÀT - Facebook — I'm the CEO and Co-Founder of FERMÀT, the leading commerce experience platform. Alongside Shreyas, FERMÀT was created to enable brands to deliver commerce experiences native to *every* piece of ... FERMÀT | 9,057 followers on LinkedIn. The AI-native commerc」（https://www.linkedin.com/in/rishabhmjain・3回目）
+  - 「Customers: FERMÀT Case Studies - Fermat Commerce — Real success stories from DTC brands across industries using FERMÀT to optimize and personalize the customer journey.」（https://www.fermatcommerce.com/customers・3回目）
+  - 「Fermat Commerce - 2026 Company Profile, Team, Funding ... — Feb 12, 2026 · Fermat Commerce - About the company Fermat Commerce is a series B company based in San Francisco (United States), founded in 2021 by Shreyas Kumar. It operates as an Influencer marketing solutions for brands. Fermat Commerce has raised $74M in funding from investors like Greylock, Bain Capital Ventures and QED Investors.」（https://tracxn.com/d/companies/fermatcommerce/__1BcGzTWXRYHEs3xpmoxiDaiCIHSFqaxmg5ZqTh_fCu8・3回目）
+  - 「Fermat Commerce - Crunchbase Company Profile & FundingFermat 2026 Company Profile: Valuation, Funding & Investors ...Fermat Commerce: Funding, Investors & Team (Oct 2026)Fermat - Overview, News & Similar companies | ZoomInfo.comFermat Commerce: Funding, Team & Investors | Startup IntrosFERMAT Company Profile - Office Locations, Competitors ... — Fermat Commerce develops an e-commerce software that」（https://www.crunchbase.com/organization/fermat-commerce・3回目）
+  - 「Fermat 2026 Company Profile: Valuation, Funding & Investors ...Fermat Commerce: Funding, Investors & Team (Oct 2026)Fermat - Overview, News & Similar companies | ZoomInfo.comFermat Commerce: Funding, Team & Investors | Startup IntrosFERMAT Company Profile - Office Locations, Competitors ... — Fermat has 98 total employees. What industry is Fermat in? Fermat’s primary industry is Business/Productiv」（https://pitchbook.com/profiles/company/502804-18・3回目）
+  - 「Fermat Commerce: Funding, Investors & Team (Oct 2026) — Fermat Commerce creates an e-commerce platform that is driven by influencers. The platform is designed to support influencers, boost brand sales, and provide a positive experience for customers. fermatcommerce.com LinkedIn San Francisco, United States 51-100 employees E-Commerce Shopping Social Media Marketing B2B Total raised $62.0M Rounds 2」（https://fundediq.co/fermat-commerce-fermatcommerce-com-funding/・3回目）
+  - 「Fermat Commerce: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Fermat Commerce: Commerce infrastructure platform enabling embedded content commerce experiences for D2C brands, focused on first-party data.」（https://startupintros.com/orgs/fermat-commerce・3回目）
+- 創業年度：記載なし（3回確認済み：公式16頁／PDF・画像4件／外部31頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式16頁／PDF・画像4件／外部31頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式16頁／PDF・画像4件／外部31頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式16頁／PDF・画像4件／外部31頁・検索12回）
+- 料金：記載なし（3回確認済み：公式16頁／PDF・画像4件／外部31頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式16頁／PDF・画像4件／外部31頁・検索12回）
+
+## Fero Labs
+- 公式URL：https://www.ferolabs.com/（given）
+- 創業年度：Founded：2016（https://prospeo.io/c/fero-labs-revenue・3回目）
+- 株主：$15,000,000（https://prospeo.io/c/fero-labs-revenue・3回目）
+- 売上高：$134,000（https://prospeo.io/c/fero-labs-revenue・3回目）
+- 所在地：Manhattan, New York, United States（https://prospeo.io/c/fero-labs-revenue・3回目）
+- 採用・広告の製品：
+  - 「Industrial Process Optimization Software for Profit and… | Fero Labs」（https://www.ferolabs.com/・1回目）
+  - 「Profitable Sustainability Platform」（https://www.ferolabs.com/・1回目）
+  - 「where engineers can fix production issues 90x faster, mitigate new issues before they impact production, and optimize process efficiencies to drive profits and sustainability.」（https://www.ferolabs.com/・1回目）
+  - 「Process engineers use」（https://www.ferolabs.com/・1回目）
+  - 「and decision support daily to understand why performance shifts, resolve issues faster, and prevent deviations before they impact production. Instead of spending hours isolating variables, teams can evaluate broader process data, identify the drivers, and determine which actions will stabilize the process.」（https://www.ferolabs.com/・1回目）
+  - 「"We are always looking at how to improve our production processes to be more sustainable, to lower costs, and to be more competitive in an international market. Fero Labs helps us tackle these goals at the same time."」（https://www.ferolabs.com/・1回目）
+  - 「The Fero Suite: AI to resolve process issues faster」（https://www.ferolabs.com/・1回目）
+  - 「AI to explore process improvements and find root causes of issues faster」（https://www.ferolabs.com/・1回目）
+  - 「AI to identify precise setpoints to fix issues faster without waste」（https://www.ferolabs.com/・1回目）
+  - 「AI for effortless data preparation and process mapping」（https://www.ferolabs.com/・1回目）
+  - 「Scale process expertise across your mill」（https://www.ferolabs.com/・1回目）
+  - 「In most steel plants, process performance depends on a small number of experienced engineers being available when conditions change. Decisions slow down—not because teams lack data, but because expertise isn’t always accessible at the moment it’s needed.」（https://www.ferolabs.com/・1回目）
+- 製造業の実績：
+  - 「Industrial Process Optimization Software for Profit and… | Fero Labs」（https://www.ferolabs.com/・1回目）
+  - 「AI optimization controlled by Engineers and Operators to stay in-spec 24/7」（https://www.ferolabs.com/・1回目）
+  - 「In most steel plants, process performance depends on a small number of experienced engineers being available when conditions change. Decisions slow down—not because teams lack data, but because expertise isn’t always accessible at the moment it’s needed.」（https://www.ferolabs.com/・1回目）
+  - 「The result is faster issue resolution, earlier intervention, and more consistent performance—without lowering engineering standards or automating decisions away from the plant team.」（https://www.ferolabs.com/・1回目）
+  - 「Manufacturing Cost Reduction | Cut Manufacturing Costs… | Fero Labs」（https://www.ferolabs.com/industrial-data-analytics-solutions/manufacturing-cost-reduction・1回目）
+  - 「Reduce Manufacturing Costs with Process Optimization Software」（https://www.ferolabs.com/industrial-data-analytics-solutions/manufacturing-cost-reduction・1回目）
+  - 「Most plants today optimize the factory floor without considering the total cost of production. Bring financials into your operational decision making by using Fero Labs to automatically minimize total cost functions, not just physical parameters.」（https://www.ferolabs.com/industrial-data-analytics-solutions/manufacturing-cost-reduction・1回目）
+  - 「Most factory teams spend more than necessary to prevent the possibility of even more costly mistakes. With Fero Labs, you can shrink over-design margins and keep the money in your budget.」（https://www.ferolabs.com/industrial-data-analytics-solutions/manufacturing-cost-reduction・1回目）
+  - 「How Your Factory Can Use Less Energy」（https://www.ferolabs.com/industrial-data-analytics-solutions/manufacturing-cost-reduction・1回目）
+  - 「Beginning this year, students in CISR’s metallurgy, steelmaking, and industrial innovation programs will be able to use Fero’s software as part of their coursework, gaining hands-on experience with the same tools currently deployed inside modern steel mills.」（https://www.ferolabs.com/insights/post/carnegie-mellon-universitys-cisr-partners-with-fero-labs-to-shape-the-next-generation-of-ai-driven-steel-innovators・1回目）
+  - 「Today, CMU is at the forefront of efforts to develop low-emissions steelmaking pathways — from hydrogen-based ore reduction to improved energy-efficient process design. This unique blend of scientific rigor and real-world industrial impact makes CMU an ideal partner for bridging the gap between advanced research and practical, mill-floor decision making.」（https://www.ferolabs.com/insights/post/carnegie-mellon-universitys-cisr-partners-with-fero-labs-to-shape-the-next-generation-of-ai-driven-steel-innovators・1回目）
+  - 「These capabilities help plants reduce emissions, minimize waste, optimize raw materials, and improve energy efficiency — all while enhancing profitability. This strengthened performance helps secure the long-term future of steelmaking as a career for the engineers and metallurgists who will lead the industry forward.」（https://www.ferolabs.com/insights/post/carnegie-mellon-universitys-cisr-partners-with-fero-labs-to-shape-the-next-generation-of-ai-driven-steel-innovators・1回目）
+- 日本の担い手：
+  - 「Fero Labs（Fero Labs）の特徴・用途・日本での提供状況 | MFG-AI」（https://mfg-ai.com/vendors/fero-labs・3回目）
+  - 「拠点はニューヨーク、ピッツバーグ、デュッセルドルフが掲載されており、日本語サイトや日本の拠点・代理店に関する記述は確認できませんでした」（https://mfg-ai.com/vendors/fero-labs・3回目）
+  - 「株式会社サオスの実務者が、貴社の現場とデータに合わせた進め方をご提案します」（https://mfg-ai.com/vendors/fero-labs・3回目）
+- 規模・親会社：
+  - 「An arrow pointing right」（https://www.ferolabs.com/・1回目）
+  - 「An arrow pointing right」（https://www.ferolabs.com/industrial-data-analytics-solutions/manufacturing-cost-reduction・1回目）
+  - 「Beginning this year, students in CISR’s metallurgy, steelmaking, and industrial innovation programs will be able to use Fero’s software as part of their coursework, gaining hands-on experience with the same tools currently deployed inside modern steel mills.」（https://www.ferolabs.com/insights/post/carnegie-mellon-universitys-cisr-partners-with-fero-labs-to-shape-the-next-generation-of-ai-driven-steel-innovators・1回目）
+  - 「“Digital tools are an essential part of linking our fundamental knowledge with modern steelmaking practice.”」（https://www.ferolabs.com/insights/post/carnegie-mellon-universitys-cisr-partners-with-fero-labs-to-shape-the-next-generation-of-ai-driven-steel-innovators・1回目）
+  - 「“By working with Fero’s explainable, real-time AI, CMU students can reach a level of proficiency that empowers them to become true innovators in their plants — identifying new opportunities to improve efficiency and sustainability together. We’re honored that Fero is now part of the CMU curriculum, helping to shape the future of steelmaking.”」（https://www.ferolabs.com/insights/post/carnegie-mellon-universitys-cisr-partners-with-fero-labs-to-shape-the-next-generation-of-ai-driven-steel-innovators・1回目）
+  - 「An arrow pointing right」（https://www.ferolabs.com/insights/post/carnegie-mellon-universitys-cisr-partners-with-fero-labs-to-shape-the-next-generation-of-ai-driven-steel-innovators・1回目）
+  - 「An arrow pointing right」（https://www.ferolabs.com/insights/post/sij-group-partners-with-fero-labs-to-accelerate-profitable-sustainability-in-green-steelmaking・1回目）
+  - 「An arrow pointing right」（https://www.ferolabs.com/industrial-data-analytics-solutions/quality-control-management・1回目）
+  - 「An arrow pointing right」（https://www.ferolabs.com/industrial-data-analytics-solutions/carbon-emission-reduction・1回目）
+  - 「An arrow pointing right」（https://www.ferolabs.com/industrial-data-analytics-solutions/industrial-use-cases・1回目）
+  - 「Make every part of the steel mill more efficient」（https://www.ferolabs.com/industries/ai-in-steel-industry・1回目）
+  - 「An arrow pointing right」（https://www.ferolabs.com/industries/ai-in-steel-industry・1回目）
+- 連絡先：
+  - 「Then we’ll give your team free access to Fero to prove how easy it is to learn and use. We’ll email pro tips and exercises each day to share ways Fero will save you time and effort. After that point we’ll discuss a Ramp Year License.」（https://www.ferolabs.com/・1回目）
+  - 「Contact us today to take control of your profile for」（https://www.featuredcustomers.com/vendor/fero-labs・3回目）
+  - 「Contact us today for pricing options to add your customer」（https://www.featuredcustomers.com/vendor/fero-labs・3回目）
+  - 「Build leads list with verified emails & mobiles」（https://prospeo.io/c/fero-labs-revenue・3回目）
+- 検索結果の抜粋：
+  - 「Fero Labs（Fero Labs）の特徴・用途・日本での提供状況 | MFG-AI — Fero Labs（Fero Labs／米国）は品質・プロセス分析に分類される製造業向けAIの製品・サービスです。 用途、提供形態、対応業種、価格の公開状況、日本での提供体制を一次情報にもとづき整理しました。」（https://mfg-ai.com/vendors/fero-labs・3回目）
+  - 「Fero Labs：製造業を革新するホワイトボックスAIの最前線| 生成AI活用... — Dec 21, 2024 · Fero Labsの技術を新規事業に活用する場合、製造プロセスの最適化や効率化を目指すプロジェクトに応用できます。 特に、コスト削減や環境負荷低減を目指す取り組みにおいて、同社のホワイトボックス機械学習モデルは有用です。 サービス概要」（https://generative-ai.co.jp/usecase/robot-automation-ai/ai-startup-usecase-fero-labs/・3回目）
+  - 「Fero Labs — Fero Labs is built for complex manufacturing settings. You can build a virtual replica of any process, then draw on powerful white-box machine learning insights to optimize performance while reducing costs and emissions.」（https://www.ferolabs.com/・3回目）
+  - 「AI技術スタートアップFero Labs、製造業の脱炭素化を推進するため約21... — Jun 28, 2023 · Fero Labsのこれまでの資金調達総額は3,000万ドル（約42億円）に達した。 Fero Labsによると、今回の資金調達の主な目的は、同社のソフトウェアに新たな持続可能性機能を導入し、主要産業での商品化を支援することである。」（https://esgjournaljapan.com/world-news/29795・3回目）
+  - 「欧米のプロセス分析AI比較：Sight Machine・Seeq・Braincube・Fero La... — Oct 12, 2026 · 欧米のプロセス分析AIは、時系列分析と最適化から、エージェントとナレッジAIへ軸足を移しています。 Sight Machine・Seeq・Braincube・Fero Labsを中心に8社を、得意な分析・導入形態・顧客業種で比べ、化学・素材の工場が選ぶときの観点を示します。」（https://mfg-ai.com/global/west-process-analytics-vendors・3回目）
+  - 「Fero Labs - LinkedIn — Fero Labs | 4,075 followers on LinkedIn. Together we'll build a sustainable tomorrow. | Fero Labs is the only Profitable Sustainability Platform where engineers can prevent and fix production ...」（https://www.linkedin.com/company/ferolabs・3回目）
+  - 「Fero Labs Now Available in Microsoft Azure Marketplace ... — Jun 17, 2025 · Microsoft Azure customers worldwide now gain access to Fero Labs software to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies. Customers can now scale and deploy the power of industrial AI across multiple production facilities at unprecedente」（https://www.ferolabs.com/insights/post/fero-labs-now-available-in-microsoft-azure-marketplace-for-faster-steel-mill-deployment-of-ai・3回目）
+  - 「Fero Labs | Fero Labs — Industrial AI technology company Fero Labs joins the ranks of Waymo, Nvidia, Duolingo, Figma, and more to have been named to Fast Company’s prestigious list of the World’s Most Innovative Companies of 2025.」（https://www.ferolabs.com/insights/fero-labs・3回目）
+  - 「Fero Labs | LinkedIn — Using Fero Labs AI, process engineers make better use of raw and recycled materials, energy consumption, and can adapt to ever-changing conditions faster than ever before.」（https://jp.linkedin.com/company/ferolabs・3回目）
+  - 「Case study | Fero Labs — Discover how a leading chemicals manufacturer increased annual revenue by $4 million using Fero Labs' AI. Learn how AI-driven optimization enhanced yield by 4.8%, improved production stability by 130%, and reduced Scope 3 emissions.」（https://www.ferolabs.com/insights/case-study・3回目）
+  - 「Use case | Fero Labs — Learn how industrial AI and process optimization software from Fero Labs helps metallurgists and process engineers identify lower-cost DI chemistries during steelmaking without compromising product quality or specification compliance.」（https://www.ferolabs.com/insights/use-case・3回目）
+  - 「Case Study: Fero Labs boosts production and reduces downtime ... — Fero Labs (Industrial Automation) partnered with Microsoft Azure (Information Technology and Services) to solve key challenges. "Machine learning startup helps heavy industries boost production, increase quality" is their real-world success story.」（https://www.casestudies.com/company/microsoft-azure/case-study/machine-learning-startup-helps-heavy-industries-boost-production-increase-quality・3回目）
+- 従業員数：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部30頁・検索12回）
+- 料金：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部30頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部30頁・検索12回）
+
+## Findem
+- 公式URL：https://www.findem.ai（given）
+- 株主：$7.3M（https://getlatka.com/companies/findem・3回目）
+- 採用・広告の製品：
+  - 「AI People Intelligence for Hiring and Planning | Findem」（https://www.findem.ai/・1回目）
+  - 「Scales process across geographies」（https://www.findem.ai/・1回目）
+  - 「Proven leadership in military operations」（https://www.findem.ai/・1回目）
+  - 「Closes in competitive enterprise environments」（https://www.findem.ai/・1回目）
+  - 「Delivered in complex B2B enterprise environments」（https://www.findem.ai/・1回目）
+  - 「Grounded in real-world expertise, Findem is AI that delivers deep human insight so you can hire, retain, and plan with confidence.」（https://www.findem.ai/・1回目）
+  - 「For every team shaping your workforce.」（https://www.findem.ai/・1回目）
+  - 「Careers aren’t linear and people are more than their resumes. Findem reads career history in context, translating unstructured information into clear, expert-labeled signals of potential, performance, and fit.」（https://www.findem.ai/・1回目）
+  - 「Findem Studio turns people intelligence into finished work you can trust. It starts with the right data, runs on a named expert's methodology, and delivers verified conclusions before anyone acts. Run a pre-built agent, build your own, or call Studio's MCPs from whatever AI you already use.」（https://www.findem.ai/・1回目）
+  - 「Win the mandate, align on the search, and run it. Agents work through every phase with you: researching the client and sizing up the market before the pitch, aligning on what great looks like at kickoff, then finding and tracking candidates while the search is live.」（https://www.findem.ai/・1回目）
+  - 「Find the right talent, sharpen your hiring strategy, and build a stronger pipeline. Agents help you understand the market before you source, map where the talent actually is, build a candidate pool with fit evidence, and move toward a hire with a slate that has readiness checkpoints built in.」（https://www.findem.ai/・1回目）
+  - 「Meet your hiring partner」（https://www.findem.ai/・1回目）
+- 製造業の実績：
+  - 「Every fund has connections worth activating: founders, operators, advisors, portfolio alumni, past candidates. But that intelligence lives in siloed ATSs, Airtable, scattered inboxes, and the heads of partners.」（https://www.findem.ai/solutions/vc-pe-talent・1回目）
+  - 「Map the relationships your partners, advisors, and portfolio operators already hold, and research the companies and people you don't yet know. Connect with both through job postings, talent network, intros, sourcing, and campaigns, then trace every hire, deal, and closed round back to the connection that made it.」（https://www.findem.ai/solutions/vc-pe-talent・1回目）
+  - 「Partners, associates, advisors, and portfolio operators each hold a piece of the network. A GP's former CTO could be the perfect hire for a portco. An advisor's contact at a Fortune 500 could unlock a $1M+ deal. No one can make the intro because no one knows the connection exists.」（https://www.findem.ai/solutions/vc-pe-platform・1回目）
+  - 「Map the relationships your partners, advisors, and portfolio operators already hold, and research the companies and people you don't yet know. Connect with both through job postings, talent network, intros, sourcing, and campaigns, then trace every hire, deal, and closed round back to the connection that made it.」（https://www.findem.ai/solutions/vc-pe-platform・1回目）
+  - 「Centralize your connections, alumni, and talent network sign-ups into one searchable CRM enriched with verified career data. Build niche lists by segment: healthcare, skilled trades, tech, recent graduates. Expand attraction efforts to 800M+ profiles to find boomerang talent. Run campaigns that nurture talent and facilitate warm intros to make your community stickier.」（https://www.findem.ai/solutions/regional-talent・1回目）
+  - 「Success Stories about Software and Services used by Findem」（https://www.casestudies.com/customer/findem・3回目）
+  - 「Rate This Customer Case Study」（https://www.featuredcustomers.com/vendor/findem/case-studies・3回目）
+- 再販・ホワイトラベル：
+  - 「Most organizations see value in the first week. Findem’s team configures your branded job board, connects member employer job feeds, sets up your talent network sign-up page, and imports existing contacts. No long implementation. Your board is live and aggregating jobs within days, and your talent network starts growing immediately.」（https://www.findem.ai/solutions/regional-talent・1回目）
+- 日本の担い手：
+  - 「AI採用テックが加速！Findemが5100万ドル調達：日本のHR市場と投資機会を分析｜ケン」（https://note.com/fintechken/n/n32605e7e8450・3回目）
+  - 「AI採用テックが加速！Findemが5100万ドル調達：日本のHR市場と投資機会を分析」（https://note.com/fintechken/n/n32605e7e8450・3回目）
+  - 「1. 日本企業への影響」（https://note.com/fintechken/n/n32605e7e8450・3回目）
+  - 「* FindemのようなAI採用ツールが日本市場に導入されれば、少子高齢化が進み、」（https://note.com/fintechken/n/n32605e7e8450・3回目）
+  - 「特にグローバルなエンジニアや幹部層の採用において、従来の日本の人材紹介サービスでは捉えきれなかった潜在的な候補者を掘り起こす能力は魅力的です」（https://note.com/fintechken/n/n32605e7e8450・3回目）
+  - 「* 日本の既存の人材紹介大手や、国内のレガシーなATS（採用管理システム）ベンダーにとっては、」（https://note.com/fintechken/n/n32605e7e8450・3回目）
+  - 「2. 関連日本株銘柄と投資判断」（https://note.com/fintechken/n/n32605e7e8450・3回目）
+  - 「* Findem自体は非上場であり、日本の関連銘柄への直接的な影響はまだ不透明です」（https://note.com/fintechken/n/n32605e7e8450・3回目）
+  - 「* 現時点では、このニュース単体で日本株に大きな投資判断を下すことは難しいと判断します」（https://note.com/fintechken/n/n32605e7e8450・3回目）
+  - 「日本の関連企業がFindemのような高度なAI技術を導入・提携・あるいは模倣し、具体的な業績寄与が見え始めた段階が、本格的な投資タイミングになるでしょう」（https://note.com/fintechken/n/n32605e7e8450・3回目）
+  - 「GDPRや日本の個人情報保護法など、世界的にデータ規制が厳格化する中で、これらの膨大なデータを扱うことへの規制リスクは高まる可能性があります」（https://note.com/fintechken/n/n32605e7e8450・3回目）
+  - 「日本企業が本格的にFindemのような高度なAI採用ソリューションを導入し、既存の人材サービス企業のビジネスモデルに明確な構造変化（業績の効率化や、既存事業の売上低下など）が確認され始めた時が、投資を加速させる最適なタイミングになると考えます」（https://note.com/fintechken/n/n32605e7e8450・3回目）
+- 規模・親会社：
+  - 「Carries deals through long cycles」（https://www.findem.ai/・1回目）
+  - 「Sales leader through IPO」（https://www.findem.ai/・1回目）
+  - 「Trusted partners introduce Findem to clients through a consultative process. They add value without building or maintaining technology, while earning revenue and strengthening long-term client relationships.」（https://www.findem.ai/partnerships・1回目）
+  - 「AnitaB.org partnered with Findem to give employers a verified, complete view of candidates from one of tech's most established communities. The result: a higher-value employer offering that deepens participation and grows AnitaB’s revenue.」（https://www.findem.ai/embedded-ai・1回目）
+  - 「Paychex embedded Findem’s AI to give SMBs enterprise-grade sourcing that helps them hire up to 5x faster. By shortening the time-to-hire, Paychex transforms recruiting into a direct revenue driver, accelerating the path to new payroll seats and increasing worksite employee growth across its ecosystem.」（https://www.findem.ai/embedded-ai・1回目）
+  - 「AI Talent Acquisition Platform | Findem」（https://www.findem.ai/solutions/talent-acquisition・1回目）
+  - 「Self-reported profiles only tell part of the story.」（https://www.findem.ai/solutions/talent-acquisition・1回目）
+  - 「Sourcing Analytics show which channels produce your best pipeline and what's driving conversion. Market Intelligence shows where the talent is, and what you need to know to compete. Together, they give leaders the data to shape workforce strategy before the gaps arrive.」（https://www.findem.ai/solutions/talent-acquisition・1回目）
+  - 「Partners, associates, advisors, and portfolio operators each hold a piece of the network. A GP's former CTO could be the perfect hire for a portco. An advisor's contact at a Fortune 500 could unlock a $1M+ deal. No one can make the intro because no one knows the connection exists.」（https://www.findem.ai/solutions/vc-pe-platform・1回目）
+  - 「Every intro — talent, bizdev, deal flow, LP, expert — is tracked from initiation through outcome in one view. Report by type, by portco, by quarter. Show hires attributed, revenue influenced, deals sourced, and recruiter cost savings. You've been proving platform value in slides. Findem lets you prove it in data.」（https://www.findem.ai/solutions/vc-pe-platform・1回目）
+  - 「Track intros by type — talent, investor, bizdev, expert — alongside outcomes: hires placed, revenue influenced, deals sourced. Compare against external recruiter or agency spend. Findem provides dashboards that tie every intro to an outcome, so platform impact is a metric, not a narrative.」（https://www.findem.ai/solutions/vc-pe-platform・1回目）
+  - 「Aggregate every open role from your member and regional companies into a branded job board. Job seekers apply to roles and join your talent network with a single sign-up, ultimately growing your context-rich talent database. Create job visibility while building a path to non-dues revenue.」（https://www.findem.ai/solutions/regional-talent・1回目）
+- 連絡先：
+  - 「Built for startups and small teams without a recruiter or an ATS. Paste a job posting, check the requirements the agent drafts, and pick your shortlist. When you're ready, it emails candidates from your own mailbox and screens the ones who say yes. New accounts start with free credits.」（https://www.findem.ai/solutions/startups・1回目）
+  - 「Yes. ReadySlate Lite is a self-serve AI recruiting agent in Findem Studio for startups and small teams. Paste a job posting, check the requirements it drafts, and pick a shortlist. Once you turn those steps on, it emails candidates from your own mailbox and runs a short voice screen with the people who say yes.」（https://www.findem.ai/solutions/startups・1回目）
+  - 「Intros disappear into email threads.」（https://www.findem.ai/solutions/vc-pe-platform・1回目）
+  - 「You made 200 introductions last quarter, from talent and buyers to LPs and diligence experts. You tracked them in email threads and spreadsheets. When GPs ask what the platform delivered this year, you're reconstructing the answer from memory.」（https://www.findem.ai/solutions/vc-pe-platform・1回目）
+  - 「ReadySlate Lite is a self-serve AI recruiting agent in Findem Studio. Paste a job posting, check the requirements it drafts, and pick your shortlist. When you're ready, it emails candidates from your own mailbox and screens the ones who say yes.」（https://www.findem.ai/studio/startups・1回目）
+  - 「The agent checks each person against your must-haves. Profiles appear as they pass, and you get an email when the longlist is ready.」（https://www.findem.ai/studio/startups・1回目）
+  - 「When you're ready, the agent emails candidates from your own mailbox and runs a 5-minute AI voice screen with the people who say yes.」（https://www.findem.ai/studio/startups・1回目）
+  - 「ReadySlate Lite is the self-serve version of Findem ReadySlate, and it runs in Findem Studio. Paste a job posting, check the requirements the agent drafts, and pick a shortlist from a candidate list that keeps growing. The agent can then email candidates from your own mailbox and run a five-minute AI voice screen on basic qualifications for you to review.」（https://www.findem.ai/studio/startups・1回目）
+  - 「LinkedIn Recruiter Lite is a search seat: you run the searches and write the InMails yourself. ReadySlate Lite does that work for you. It drafts the requirements from your job posting, keeps adding people who fit to your longlist, and, once you turn those steps on, emails candidates and runs a short voice screen. You still decide who goes on the shortlist.」（https://www.findem.ai/studio/startups・1回目）
+  - 「Contact us today to take control of your profile for」（https://www.featuredcustomers.com/vendor/findem/case-studies・3回目）
+  - 「Contact us today for pricing options to add your customer」（https://www.featuredcustomers.com/vendor/findem/case-studies・3回目）
+- 検索結果の抜粋：
+  - 「AI採用テックが加速！Findemが5100万ドル調達：日本のHR市場と投資機... — Oct 22, 2025 · 日本企業が本格的にFindemのような高度なAI採用ソリューションを導入し、既存の人材サービス企業のビジネスモデルに明確な構造変化（業績の効率化や、既存事業の売上低下など）が確認され始めた時が、投資を加速させる最適なタイミングになると考えます。」（https://note.com/fintechken/n/n32605e7e8450・3回目）
+  - 「Findem活用で過去の応募者や関心層の中から候補者を再発掘――Box｜「AI... — Sep 26, 2025 · IT企業のBoxでは、求人数を上回る応募が集まっていることから、採用管理プラットフォームのFindemを活用した候補者の再発掘に注力しています。 AIがATSに蓄積された過去の応募者情報の中から、該当する人材を抽出してくれます。」（https://www.works-i.com/research/labour/column/aihr/detail005.html・3回目）
+  - 「AI People Intelligence for Hiring and Planning | Findem — Findem combines trusted people data and AI to help teams source, hire, develop, and plan their workforce with greater speed and confidence.」（https://www.findem.ai/・3回目）
+  - 「Findemが5,100万ドルのシリーズC資金を調達し、AI駆動型の採用を再定... — この資金調達により、 Findem はデータラベル付けの機能を拡大し、実際の採用課題に特化したドメイン固有のAIを開発することができます。 候補者の適性を高める、面接を洗練する、またはチームのダイナミクスを予測するなどです。」（https://www.unite.ai/ja/findem-secures-51-million-series-c-to-redefine-ai-driven-hiring-with-the-worlds-largest-expert-labeled-talent-dataset/・3回目）
+  - 「Findemとは？評判・料金・機能【無料あり】 | AI PICKS — Jul 1, 2026 · Findemの評判・料金・代替ツールを比較。 Findemは、AIと3Dタレントデータを使って候補者の発見、評価、採用判断、workforce planningを支援する人材データプラットフォームです。」（https://aipicks.jp/tool/findem・3回目）
+  - 「AI People Intelligence for Hiring and Planning | Findem — Built to find what builds people. Grounded in real-world expertise, Findem is AI that delivers deep human insight so you can hire, retain, and plan with confidence.」（https://www.findem.ai/・3回目）
+  - 「Candidate Fraud Detection and Authenticity Suite | Findem — How does Findem detect deepfakes and AI-assisted fraud? Authenticity Suite uses biometric matching, liveness detection, and an AI Match Engine trained to identify deepfake indicators in video and live sessions. Audio analysis flags synthetic speech patterns and lip-sync inconsistencies.」（https://www.findem.ai/products/authenticity-suite・3回目）
+  - 「Findem - LinkedIn — Findem is the AI infrastructure for people-centric work. Its People Intelligence platform turns fragmented people data into context that teams and their AI systems can reason over, and act on.」（https://www.linkedin.com/company/findeminc・3回目）
+  - 「Recruiting Chrome Extension for Candidate Sourcing | Findem — Findem, wherever you're already working. Two Chrome extensions that bring Findem's sourcing intelligence and network data into LinkedIn, your inbox, and everywhere else you research candidates and contacts — without switching tabs.」（https://www.findem.ai/products/chrome-extension・3回目）
+  - 「Customer Stories: Real Results from Real Teams | Findem — Findem customers share the results: stronger pipelines, faster hires, and candidates they couldn't find anywhere else. Read the stories behind the numbers.」（https://www.findem.ai/customer-stories・3回目）
+  - 「Findem B2B Case Studies & Customer Successes — See how Findem solves business challenges—real case studies from satisfied customers across industries.」（https://www.casestudies.com/company/findem・3回目）
+  - 「B2B Case Studies: How Findem Uses Software & Services — Explore case studies featuring Findem as the customer — learn how vendors and partners helped Findem solve real business challenges.」（https://www.casestudies.com/customer/findem・3回目）
+- 創業年度：記載なし（3回確認済み：公式14頁／PDF・画像4件／外部33頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式14頁／PDF・画像4件／外部33頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式14頁／PDF・画像4件／外部33頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式14頁／PDF・画像4件／外部33頁・検索12回）
+- 料金：記載なし（3回確認済み：公式14頁／PDF・画像4件／外部33頁・検索12回）
+
+## Finny
+- 公式URL：https://www.finny.com/（given）
+- 採用・広告の製品：
+  - 「Most advisors are great at advising — they were never taught how to market. Growing the practice is the other job: finding the right new clients, building a brand they trust, showing up consistently, knowing what’s actually working. There’s never enough time for all of it.」（https://finny.com/・1回目）
+  - 「That’s why we built FINNY — to own that part. We get the right prospect in front of you at the right time, with the right message: a curated email, a personalized message on a topic they care about, an article worth their inbox. Then we follow up — every nudge, every touch — until they’re on your calendar.」（https://finny.com/・1回目）
+  - 「A whole marketing team in one tool.」（https://finny.com/・1回目）
+  - 「Surface the leads worth your time」（https://finny.com/・1回目）
+  - 「Tell us your niche, or let FINNY help you define it. Then, get the prospects whose needs align with what you do best, surfaced in the moment money is in motion.」（https://finny.com/・1回目）
+  - 「We learn your voice as we go. Tell us anything you want us to know. FINNY writes the personalized messages, the market updates, the articles. Original content that sounds like you, on the topics your prospects actually care about. Our AI scans news, markets, and your clients’ patterns to draft the pieces that earn attention. You stay top of mind without writing a thing.」（https://finny.com/・1回目）
+  - 「The best prospects, sorted and ranked for you.」（https://finny.com/・1回目）
+  - 「Finding clients shouldn’t be a guessing game. Every prospect is assigned a FINNY Score (F-Score for short) that shows at a glance their」（https://finny.com/・1回目）
+  - 「FINNY is the marketing team you didn’t have to hire.」（https://finny.com/・1回目）
+  - 「Our AI agent plans campaigns from real signals: news, markets, and what your niche cares about. It generates new ones on demand, then handles every send and follow-up across the channels that matter. Approve before each campaign goes out, or let it ship. We tell you when a meeting hits the calendar. We notify you on every inbound. We keep track of what’s next so you don’t have to.」（https://finny.com/・1回目）
+  - 「A marketing team that never clocks out.」（https://finny.com/・1回目）
+  - 「Every prospect, every site visit, every campaign, every meeting becomes data the system learns from. Every campaign you run teaches us what worked. The next one starts smarter than the last. Your messaging improves. Your content lands. Your targeting tightens. Your timing gets better. A full team behind you, getting sharper every day.」（https://finny.com/・1回目）
+- 製造業の実績：
+  - 「Success Stories about Software and Services used by FINNY」（https://www.casestudies.com/customer/finny・3回目）
+  - 「Rate This Customer Case Study」（https://www.featuredcustomers.com/vendor/finny・3回目）
+  - 「Case Study: How Clarity Advisors Grows Without Lifting a Finger with FINNY」（https://finny.com/blog/・3回目）
+  - 「Foundry Robotics is an AI driven robotics company rebuilding manufacturing with advanced assembly automation…」（https://fundediq.co/finny-finny-com-funding/・3回目）
+- 再販・ホワイトラベル：
+  - 「From hello to close, FINNY is the AI growth officer for financial advisors — guiding every step of the way, from building your brand to closing your next client. We’ve got your growth.」（https://finny.com/・1回目）
+  - 「Posts and articles that build your brand.」（https://finny.com/pricing/・1回目）
+  - 「If you’re an independent advisor building a practice the right way—conflict-free, relationship-driven, and not reliant on referral programs—you’ve probably felt the same tension Thomas Manetta describ」（https://finny.com/blog/・3回目）
+  - 「QualSights is an immersive insights platform that enables companies, agencies, and consulting firms to gather…」（https://fundediq.co/finny-finny-com-funding/・3回目）
+- 日本の担い手：
+  - 「ブロックチェーンスマホのFinny(フィニー)が日本で販売開始！東京に店舗展開も予定 - CRYPTO TIMES」（https://crypto-times.jp/sirin-labs-finny-sold-in-japan/・3回目）
+  - 「ブロックチェーンスマホのFinny(フィニー)が日本で販売開始！東京に店舗展開も予定」（https://crypto-times.jp/sirin-labs-finny-sold-in-japan/・3回目）
+  - 「ブロックチェーンスマートフォン「Finny(フィニー)」が日本でも販売」（https://crypto-times.jp/sirin-labs-finny-sold-in-japan/・3回目）
+  - 「Sirin Labs創業者のモシェ・ホゲグ氏は、「Sirin Labsにとって日本は重要な市場の1つである」と述べており、日本国内の販売台数目標として「2019年度内で2万台」を掲げています」（https://crypto-times.jp/sirin-labs-finny-sold-in-japan/・3回目）
+  - 「直近の発売はジャパンブロックチェーンカンファレンス２０１９イベント内ですが、今年4月から6月を目処に東京での店舗販売やAmazonでの販売も予定しているようです」（https://crypto-times.jp/sirin-labs-finny-sold-in-japan/・3回目）
+  - 「マスク氏の半導体工場、日本勢に数カ月で納入要求か｜最大18.7兆円」（https://crypto-times.jp/sirin-labs-finny-sold-in-japan/・3回目）
+  - 「SBI、日本株トークン化で米大手と提携｜決済は円建てステーブルコインを検討」（https://crypto-times.jp/sirin-labs-finny-sold-in-japan/・3回目）
+  - 「ブロックチェーンスマホ「FINNY」が日本上陸！Sirin Labs CEO「将来的には法定通貨とも交換できるようにしたい」 - ◆仮想通貨最新NEWS!!◆ - 投資ナビ＋ - 世界のトレード手法・ツールが集まるマーケットプレイス - GogoJungle」（https://www.gogojungle.co.jp/finance/navi/articles/9934・3回目）
+  - 「ブロックチェーンスマホ「FINNY」が日本上陸！Sirin Labs CEO「将来的には法定通貨とも交換できるようにしたい」」（https://www.gogojungle.co.jp/finance/navi/articles/9934・3回目）
+  - 「Sirin Labsがブロックチェーンスマホ「FINNY」の日本発売を発表！」（https://www.gogojungle.co.jp/finance/navi/articles/9934・3回目）
+  - 「スイスとイスラエルに拠点を置くSirin Labs（シリンラボ）が29日、世界初のブロックチェーンスマホ「FINNY」の日本発売を発表しました」（https://www.gogojungle.co.jp/finance/navi/articles/9934・3回目）
+  - 「Sirin Labsの創業者で共同CEOのMoshe Hogeg（モシェ・ホゲッグ）氏は、日本での販売目標を2万台と語り、「日本は重要な市場のひとつ」とも語っています」（https://www.gogojungle.co.jp/finance/navi/articles/9934・3回目）
+- 規模・親会社：
+  - 「Every part of growth.」（https://finny.com/・1回目）
+  - 「New annual advisory revenue」（https://finny.com/pricing/・1回目）
+  - 「Your total estimated revenue」（https://finny.com/pricing/・1回目）
+  - 「You share a slice of new revenue」（https://finny.com/pricing/・1回目）
+  - 「What kind of revenue is the fee based on?」（https://finny.com/pricing/・1回目）
+  - 「When the client leaves. The fee is tied to the living client relationship, not a term of years, so we do not cap it at a fixed number of years. It is billed quarterly in arrears on a quarter-end snapshot, so in a down market the fee falls with you.」（https://finny.com/pricing/・1回目）
+  - 「The $50 seat fee is monthly. The 20 bps fee is billed quarterly in arrears: a snapshot of the assets in the attributed account on the last business day of the quarter, billed at 5 bps for that quarter (the 20 bps annual rate divided by four). Billing only starts after your paid signup is completed and your account is activated.」（https://finny.com/pricing/・1回目）
+  - 「Be a part of something extraordinary.」（https://finny.com/join-our-team/・1回目）
+  - 「以前からバイナンスのCEOであるCZ氏がTwitterなどで噂されていた、仮想通貨XRP（リップル）基軸の通貨ペアがついに、正式に上場することが発表されました！」（https://www.gogojungle.co.jp/finance/navi/articles/9934・3回目）
+  - 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/finny・3回目）
+  - 「A financial advisor scrapped his broad outreach campaign after a month of nothing but opt outs, then rebuilt around narrow, high intent niches, closing a new client and advancing two more prospects worth over $4M combined.」（https://finny.com/blog/・3回目）
+  - 「Developer of a client acquisition platform designed to improve client relationship management and streamline the onboarding process.」（https://pitchbook.com/profiles/company/601531-57・3回目）
+- 連絡先：
+  - 「That’s why we built FINNY — to own that part. We get the right prospect in front of you at the right time, with the right message: a curated email, a personalized message on a topic they care about, an article worth their inbox. Then we follow up — every nudge, every touch — until they’re on your calendar.」（https://finny.com/・1回目）
+  - 「Email, social media messaging, and more, personalized to each family, in your voice.」（https://finny.com/pricing/・1回目）
+  - 「20 bps used as an average for illustration. Enterprise and large firms can contact sales@finny.com for pricing options.」（https://finny.com/pricing/・1回目）
+  - 「FINNY's basic pricing is $50 per month, plus 20bps on AUM from FINNY-sourced new clients. We charge on new assets FINNY helped you bring in, not on your entire book. Enterprise and larger firms can contact sales@finny.com for additional pricing options.」（https://finny.com/pricing/・1回目）
+  - 「Contact us today to take control of your profile for」（https://www.featuredcustomers.com/vendor/finny・3回目）
+  - 「Contact us today for pricing options to add your customer」（https://www.featuredcustomers.com/vendor/finny・3回目）
+  - 「Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.」（https://pitchbook.com/profiles/company/601531-57・3回目）
+  - 「Contact details for the FINNY team: 1 of 1 has an email address on file.」（https://fundediq.co/finny-finny-com-funding/・3回目）
+  - 「day 15, and we email you 3 days before that. Need something specific?」（https://fundediq.co/finny-finny-com-funding/・3回目）
+- 検索結果の抜粋：
+  - 「ブロックチェーンスマホのFinny (フィニー)が日本で販売開始！東京に... — Jan 31, 2019 · Sirin Labsが開発した ブロックチェーンスマートフォン「Finny(フィニー)」が日本でも販売 されることが発表されました。 最初の販売セッションは、1月30〜31日の二日間にかけて横浜で開催されている「ジャパンブロックチェーンカンファレンス2019」において行われるとされています。…」（https://crypto-times.jp/sirin-labs-finny-sold-in-japan/・3回目）
+  - 「ブロックチェーンスマホ「FINNY」が日本上陸！Sirin Labs CEO「将来的... — Jan 30, 2019 · Sirin Labsがブロックチェーンスマホ「FINNY」の日本発売を発表！スイスとイスラエルに拠点を置くSirin Labs（シリンラボ）が29日、世界初のブロックチェーンスマホ「FINNY」の日本発売を発表しました。Sirin Labsの創業者で共同CEOのMoshe Hogeg（モシェ・ホゲッグ）氏は、日本での販売目標を2万台と語り ...」（https://www.gogojungle.co.jp/finance/navi/articles/9934・3回目）
+  - 「About us | FINNY — Organic growth isn’t a myth. It’s the result of a system that prioritizes targeted outreach, personalization, and efficiency. FINNY makes growth effortless, precise, and personal—so it happens naturally.」（https://finny.com/about-us/・3回目）
+  - 「FINNY translation in Japanese | English-Japanese Dictionary ... — Translations of “finny” into Japanese: ひれのある, ひれを持つ, 魚が豊富な. Adjective, definitions, pronunciation, synonyms, idiomatic expressions in English, and examples in context from the Reverso Dictionary.」（https://dictionary.reverso.net/english-japanese/finny・3回目）
+  - 「The AI growth officer for financial advisors | FINNY — From hello to close, FINNY is the AI growth officer for financial advisors — guiding every step of the way, from building your brand to closing your next client. We've got your growth.」（https://finny.com/・3回目）
+  - 「Ranking Funniest Japanese Clips #shorts #japan #funny #memesRanking Best Japanese Memes #memes #japan #funny101 Funny Signs In English People Spotted In Japanfinny in Japanese? How to use finny in Japanese. Learn Japanese — Dec 5, 2024 · Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube. Sep 18, 2025 · Ranking the best mem」（https://www.youtube.com/shorts/LHIWhgRKN1M・3回目）
+  - 「Ranking Best Japanese Memes #memes #japan #funny101 Funny Signs In English People Spotted In Japanfinny in Japanese? How to use finny in Japanese. Learn Japanese — Sep 18, 2025 · Ranking the best memes I found Jan 12, 2026 · You’re walking down a quiet street in Japan, surrounded by glowing signs and unfamiliar symbols, when one sentence in English suddenly stops you in your tracks. It almost make」（https://www.youtube.com/shorts/M1hvC48U2kw・3回目）
+  - 「B2B Case Studies: How FINNY Uses Software & Services — Explore case studies featuring FINNY as the customer — learn how vendors and partners helped FINNY solve real business challenges.」（https://www.casestudies.com/customer/finny・3回目）
+  - 「5 FINNY Customer Reviews & References | FeaturedCustomersBlog | FINNYCase Study: FINNY achieves high-velocity advisor outreach ...Customer Success: $15M in AUM from 1 FINNY CampaignCase Study: How Finny Scales High-Velocity Advisor Outreach ... — Learn more about FINNY - use cases, approaches, & end results from real customers; read customer reviews including 5 testimonials, videos, and case studi」（https://www.featuredcustomers.com/vendor/finny・3回目）
+  - 「Blog | FINNY — All 33 FINNY Press 17 FINNY Blog 8 Case Studies 8 October 27, 2026 FINNY Is Now in Claude: Reach Your Growth Partner with Your Prompts FINNY's connector for Claude for Financial Advisors lets you ask Claude about your FINNY account and get answers from your own data, without switching tabs. Read article→」（https://finny.com/blog/・3回目）
+  - 「Case Study: FINNY achieves high-velocity advisor outreach ... — FINNY books 5 outbound meetings before lunch with AdvizorPro FINNY, a company that enables financial advisors to launch automated prospecting campaigns, faced challenges with manual data cleaning and CRM inefficiencies that constrained their high-velocity sales growth. Their demanding workflow required highly accurate and relevant dat」（https://www.casestudies.com/company/advizorpro/case-study/finny-books-5-outbound-meetings-before-lunch-with-advizorpro・3回目）
+  - 「FINNY – Funding, Acquisitions & Key Rivals – 2026 — FINNY stands out with estimated revenue of $1.6M, team of around 10+ employees while headquartered in New York City, staying ahead through consistent execution.」（https://compworth.com/company/finny・3回目）
+- 創業年度：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部40頁・検索12回）
+- 株主：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部40頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部40頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部40頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部40頁・検索12回）
+- 料金：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部40頁・検索12回）
+
+## Firework
+- 公式URL：https://firework.com（given）
+- 創業年度：Founded year：2017（https://dexteragent.ai/companies/firework-1771248457・3回目）
+- 株主：SoftBank Vision Fund 2（https://dexteragent.ai/companies/firework-1771248457・3回目）
+- 採用・広告の製品：
+  - 「Firework | Video Commerce | Redefine Commerce」（https://firework.com/・1回目）
+  - 「VP of Product, Musely」（https://firework.com/・1回目）
+  - 「Video engagement drove a 47% increase in lifetime value across top Beauty brands.」（https://firework.com/・1回目）
+  - 「"With Firework, we saw conversion rates of the featured special occasion meals at 300% greater than our traditional digital advertising results."」（https://firework.com/・1回目）
+  - 「Chief Marketing Officer, Fresh Market」（https://firework.com/・1回目）
+  - 「Top Shoppable Videos deliver an 8% CVR, which is 2.7% above the industry average.」（https://firework.com/・1回目）
+  - 「Empowering top fashion brands to drive engagement and conversion through video.」（https://firework.com/・1回目）
+  - 「Fashion & Apparel brands saw up to a 21% CVR using video, a 7x increase over the 3% industry average.」（https://firework.com/・1回目）
+  - 「In just two weeks with Firework, we saw a 798% increase in likelihood of purchase. We were searching for a partner who could bring our products to life and help customers find the perfect cookware and Firework empowered us to do exactly that.」（https://firework.com/・1回目）
+  - 「Furniture & Home Goods brands see 13% CVR with top video, a 13x increase over the 1% industry average.」（https://firework.com/・1回目）
+  - 「Sourcing video content made easy」（https://firework.com/・1回目）
+  - 「Influencer Generated Content」（https://firework.com/・1回目）
+- 製造業の実績：
+  - 「Trusted by the world’s leading grocery retailers and brands.」（https://firework.com/・1回目）
+  - 「Trusted by industry-leading brands to inspire and convert shoppers.」（https://firework.com/・1回目）
+  - 「Trusted by 1,500+ of the world's leading brands」（https://firework.com/・1回目）
+  - 「Trusted by the World’s Most Innovative Brands & Retailers」（https://firework.com/products/ai-content-solutions・1回目）
+  - 「Trusted by 1500+ brands and retailers」（https://firework.com/video-solutions-for-entrepreneurs・1回目）
+  - 「Jacobs & Clevenger Case Study: Phantom Fireworks – Phantom Fireworks - Customer Case Study | CaseStudies.com」（https://www.casestudies.com/company/jacobs-clevenger/case-study/phantom-fireworks-customer-case-study・3回目）
+  - 「Phantom Fireworks - Customer Case Study」（https://www.casestudies.com/company/jacobs-clevenger/case-study/phantom-fireworks-customer-case-study・3回目）
+  - 「Case study describing how Phantom Fireworks used Jacobs & Clevenger」（https://www.casestudies.com/company/jacobs-clevenger/case-study/phantom-fireworks-customer-case-study・3回目）
+  - 「View this case study…」（https://www.casestudies.com/company/jacobs-clevenger/case-study/phantom-fireworks-customer-case-study・3回目）
+  - 「Was it helpful? Rate this case study:」（https://www.casestudies.com/company/jacobs-clevenger/case-study/phantom-fireworks-customer-case-study・3回目）
+  - 「Buildfire Case Study: Jake's Fireworks – Jake's Fireworks - Customer Case Study | CaseStudies.com」（https://www.casestudies.com/company/buildfire/case-study/jakes-fireworks-customer-case-study・3回目）
+  - 「Jake's Fireworks - Customer Case Study」（https://www.casestudies.com/company/buildfire/case-study/jakes-fireworks-customer-case-study・3回目）
+- 再販・ホワイトラベル：
+  - 「Unify your brand story with immersive video experiences across your homepage, product pages, and landing pages to drive stronger engagement, higher conversion, and a consistent experience at every touchpoint.」（https://firework.com/・1回目）
+  - 「Collaborate with publishers to expose your brand to new audiences, build trust through credible placements, and ultimately boost traffic and sales.」（https://firework.com/・1回目）
+  - 「Maximize your brand's potential with Firework」（https://firework.com/video-solutions-for-entrepreneurs・1回目）
+  - 「Showcase your brand's story with formats that adapt to your goals—whether horizontal banners or dynamic social carousels.」（https://firework.com/video-solutions-for-entrepreneurs・1回目）
+  - 「Let us customize our services to fit your brand’s needs. For pricing, please reach out so we can build the perfect AVA for you.」（https://firework.com/pricing・1回目）
+  - 「Glow Up Your Brand: Illuminate Sales with Interactive Video」（https://firework.com/customer-stories/the-fresh-market-success-story・1回目）
+  - 「Glow Up Your Brand: Illuminate Sales with Interactive Video」（https://firework.com/products/one-to-one-video-chat・1回目）
+  - 「Want to learn more about how Firework and Cohley can help your brand combine authentic content with seamless shoppable video experiences?」（https://firework.com/customer-stories/hylands・1回目）
+  - 「Glow Up Your Brand: Illuminate Sales with Interactive Video」（https://firework.com/customer-stories/cymbiotika-success-story・1回目）
+  - 「Glow Up Your Brand: Illuminate Sales with Interactive Video」（https://firework.com/customer-stories/promise-cosmetics-success-story・1回目）
+- 日本の担い手：
+  - 「London • Hong Kong • Tokyo」（https://firework.com/about-us・1回目）
+  - 「東京都品川区東五反田2-5-9 CIRCLES with 島津山 7階」（https://jp.firework.com/news/tag/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B/page/1・3回目）
+  - 「Firework 導入事例 | Firework Japan」（https://jp.firework.com/case-study/author/firework-japan・3回目）
+  - 「CROCODILE（クロコダイル）やCITERA（シテラ）などのファッションブランドを運営するアパレルSPA（製造小売業）のヤマト インターナショナル株式会社」（https://jp.firework.com/case-study/author/firework-japan・3回目）
+  - 「東京都品川区東五反田2-5-9 CIRCLES with 島津山 7階」（https://jp.firework.com/case-study/author/firework-japan・3回目）
+  - 「Fireworks in Japan (Hanabi)」（https://www.japan-guide.com/e/e2267.html・3回目）
+  - 「Originally used to ward off evil spirits, fireworks (�ԉ�, Hanabi) have a long history in Japan and are an integral part of Japanese summers. Hundreds of firework shows are held every year across the country, mainly during the summer holidays in July and August, with some of them drawing hundreds of thousands of spectators. On the other hand, fireworks are not typically used to celebrate」（https://www.japan-guide.com/e/e2267.html・3回目）
+  - 「Festival atmosphere during the Sumida River Fireworks in Tokyo」（https://www.japan-guide.com/e/e2267.html・3回目）
+  - 「A secondary attraction of Japanese fireworks is the relaxed festival atmosphere that comes with them, people dressed in」（https://www.japan-guide.com/e/e2267.html・3回目）
+  - 「can be quite strong, and people often show up and reserve the best spots hours in advance, especially in cities where tall buildings limit the number of spots with unobstructed views of the fireworks. Many shows offer paid seating, but tickets are usually not available on the day and are often difficult to get from outside of Japan or without Japanese language skills.」（https://www.japan-guide.com/e/e2267.html・3回目）
+  - 「for popular firework events that include transportation, accommodation and reserved seating, thereby blocking a large amount of local hotel rooms from individual travelers. While these packages can be a one-in-all solution to the transportation, accommodation and seating issues, they also tend to be difficult to purchase from outside of Japan and without Japanese language skills.」（https://www.japan-guide.com/e/e2267.html・3回目）
+  - 「Below is a list of some of the most famous firework shows in Japan:」（https://www.japan-guide.com/e/e2267.html・3回目）
+- 規模・親会社：
+  - 「on the cost of implementing AVA, reflecting not only revenue saved but also invaluable insight gained.」（https://firework.com/customer-stories/musely-success-story・1回目）
+  - 「Multi-touch Revenue Attribution」（https://firework.com/pricing・1回目）
+  - 「Multi-touch revenue attribution」（https://firework.com/pricing・1回目）
+  - 「Be part of the digital transformation」（https://firework.com/careers・1回目）
+  - 「"Video is everything," said Pakin T, part of Stolen Stores' management team. "You can see how a dress moves. You can see the community of creative people that we're working with. You can see the ideas being put into every video. It says a lot about a brand. If a picture says a thousand words, a video says a million.”」（https://firework.com/customer-stories/stolen-stores-success-story・1回目）
+  - 「The leaders of Stolen Stores recognized that their brand existed as part of a wider ecosystem, and breaking into that ecosystem by」（https://firework.com/customer-stories/stolen-stores-success-story・1回目）
+  - 「As a benchmark for global brands building independent DTC ecosystems, Anker has made significant progress in strengthening its brand identity and expanding awareness worldwide. Revenue from Anker’s D2C site now accounts for 10% of total online sales, with the this channel growing the fastest across all online channels at 83.87% year-over-year.」（https://firework.com/customer-stories/anker・1回目）
+  - 「Originally used to ward off evil spirits, fireworks (�ԉ�, Hanabi) have a long history in Japan and are an integral part of Japanese summers. Hundreds of firework shows are held every year across the country, mainly during the summer holidays in July and August, with some of them drawing hundreds of thousands of spectators. On the other hand, fireworks are not typically used to celebrate」（https://www.japan-guide.com/e/e2267.html・3回目）
+  - 「There is lots of free seating along the riverbank facing the show, but be sure to arrive early enough to secure seats. Paid seating is also available, and tickets should be purchased in advance. The venue is a 20 minute walk from Nagaoka Station from where there are」（https://www.japan-guide.com/e/e2267.html・3回目）
+  - 「Their relevance goes beyond their sheer beauty. Fire has long been considered sacred in Japan, and has been an essential part of prayers and rituals. It is thought that this is why hanabi were once used to ward off evil spirits and are also associated with the wish of comforting the souls of the dead, praying for peace, and expressing gratitude to the ancestors.」（https://www.tsunagujapan.com/hanabi-japan-fireworks-festival/・3回目）
+  - 「Japan’s fireworks festivals also come with an array of other traditions, such as the custom of wearing or renting a “」（https://www.tsunagujapan.com/hanabi-japan-fireworks-festival/・3回目）
+  - 「Visitors can see this spectacular hanabi in Miyazu, located in Northern Kyoto Prefecture. The fireworks were added in 1924 but the festival has a history of 400 years and was originally held to commemorate and see off the spirits of the deceased as part of the」（https://www.tsunagujapan.com/hanabi-japan-fireworks-festival/・3回目）
+- 連絡先：
+  - 「Boost email engagement with embedded video」（https://firework.com/・1回目）
+  - 「Increase click-through rates by adding curated video content directly into emails, making each message more impactful and interactive.」（https://firework.com/・1回目）
+  - 「Supercharge Email Conversions with Engaging Videos」（https://firework.com/video-solutions-for-entrepreneurs・1回目）
+  - 「Embed high-quality videos into your emails to grab attention, boost engagement, and significantly increase conversion rates, making your campaigns more impactful and effective.」（https://firework.com/video-solutions-for-entrepreneurs・1回目）
+  - 「Expand your reach by seamlessly integrating videos into emails, QR codes, and platforms like the Shop App—extending your video impact far beyond your website.」（https://firework.com/video-solutions-for-entrepreneurs・1回目）
+  - 「Rely on dedicated 1:1 chat and email support to resolve any questions or issues quickly and effectively.」（https://firework.com/video-solutions-for-entrepreneurs・1回目）
+  - 「and Instagram, and free pilot plans with no upfront costs. Features like smart product matching, email embeds, and Shop App integration expand reach and visibility for high-intent shoppers. Analytics and layouts tailored for entrepreneurs accelerate sales without technical hurdles」（https://firework.com/video-solutions-for-entrepreneurs・1回目）
+  - 「that gets users started in minutes, designed for any experience level including non-technical entrepreneurs. Customers report the process as enjoyable with simple self-service steps and one-click embeds. Dedicated 1:1 chat and email support ensures quick resolutions for beginners.」（https://firework.com/video-solutions-for-entrepreneurs・1回目）
+  - 「and Instagram. It also embeds into emails, Shop App, and supports one-click previews for platforms like Shopify.」（https://firework.com/video-solutions-for-entrepreneurs・1回目）
+  - 「Like what you're reading? Subscribe to my email updates. It's like a trip to Japan every week, right in your inbox!」（https://japanstartshere.com/2026/08/10/fireworks-in-japan/・3回目）
+  - 「Subscribe to email updates!」（https://japanstartshere.com/2026/08/10/fireworks-in-japan/・3回目）
+  - 「Contact us today to take control of your profile for」（https://www.featuredcustomers.com/vendor/firework/case-studies・3回目）
+- 検索結果の抜粋：
+  - 「導入事例｜Firework（ファイヤーワーク）- 動画マーケティングプラッ... — 導入事例 ... 初回のライブコマースで60万円超の商品を販売も。 株式会社LoopがFirework導入で目指すもの。 ... Firework導入でオンライン販売が進化！ ペッレ モルビダの動画マーケティング戦略 Learn More」（https://firework.com/jp/customer-stories・3回目）
+  - 「動画マーケティング プラットフォーム Firework（ファイヤーワーク） — Fireworkを導入してわずか 2週間で、購入の可能性が 798%上昇しました。 私たちは、製品に命を吹き込み、お客様が完璧な調理器具を見つけるのを手伝ってくれるパートナーを探していました。 Fireworkのおかげで、まさにそれが実現されました。」（https://firework.com/jp・3回目）
+  - 「Firework ニュース | 導入事例 — 資生堂インタラクティブビューティー株式会社（本社：東京都中央区）は、資生堂公式ECサイト「資生堂オンラインストア」の開始に伴い、ライブコマース活動強化の一環として、Firework Japan株式会社のライブコマースソリューションを導入しました。」（https://jp.firework.com/news/tag/導入事例/page/1・3回目）
+  - 「Firework 導入事例 | Firework Japan — Aug 25, 2022 · 導入事例 ライブコマース、縦型動画をはじめとした動画コミュニケーションがどのようにビジネスに役立っているかを、Fireworkをご活用されているお客様の声を通じてご紹介いたします。」（https://jp.firework.com/case-study/author/firework-japan・3回目）
+  - 「Firework Japan株式会社、AI Shopping Agentの日本市場展開を本格開始 — Nov 10, 2025 · Firework Japan株式会社が発表した新サービス「AI Shopping Agent」は、その“ためらい”を減らすことを狙った革新的な仕組みです。 同社は11月10日、このAIソリューションを日本市場で本格展開すると発表しました。」（https://note.com/proper_canna7448/n/nfb5226db13ce・3回目）
+  - 「Firework | Video Commerce | Redefine Commerce — Transform your online and offline shopping experience with Firework's leading video commerce platform. Discover how Firework helps brands connect, captivate, and convert in a seamless, all-in-one solution.」（https://firework.com/・3回目）
+  - 「Fireworks in Japan (Hanabi) — Jun 23, 2026 · Hundreds of firework shows are held every year across the country, mainly during the summer holidays in July and August, with some of them drawing hundreds of thousands of spectators. On the other hand, fireworks are not typically used to celebrate New Year.」（https://www.japan-guide.com/e/e2267.html・3回目）
+  - 「Hanabi - Japan’s 18 Best Fireworks Festivals Happening in ... — Jun 28, 2024 · “Hanabi” or Japanese fireworks are one of the biggest features of summer in Japan. Japan's fireworks festivals paint the skies of summer in vivid colors and pack a different punch every year.」（https://www.tsunagujapan.com/hanabi-japan-fireworks-festival/・3回目）
+  - 「Where to Watch Fireworks in Japan in 2027 - Japan Starts Here — Aug 10, 2026 · Japan's summer fireworks, or hanabi, are the most spectacular ones in the world. Here are the best places to watch fireworks in Japan.」（https://japanstartshere.com/2026/08/10/fireworks-in-japan/・3回目）
+  - 「Japan Fireworks Calendar 2026: All Major Hanabi Festivals by ... — 1 day ago · Complete 2026 calendar of 118 major Japanese fireworks festivals with confirmed dates, venues and access — compiled from official sources.」（https://japaneventcalendar.com/fireworks/・3回目）
+  - 「Complete Guide to Japanese Fireworks Festivals - GOOD LUCK TRIP — Jul 6, 2026 · A summer visit to Japan isn’t complete without the addition of a fireworks festival. In this guide we’ll cover not only the Top Three Firework Festivals in Japan, but a few other popular fireworks held across the country, as well.」（https://www.gltjp.com/en/article/item/20297/・3回目）
+  - 「Phantom Fireworks - Customer Case Study — Phantom Fireworks (Retail) partnered with Jacobs & Clevenger to solve key challenges. "Phantom Fireworks - Customer Case Study" is their real-world success story.」（https://www.casestudies.com/company/jacobs-clevenger/case-study/phantom-fireworks-customer-case-study・3回目）
+- 従業員数：記載なし（3回確認済み：公式20頁／PDF・画像2件／外部33頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式20頁／PDF・画像2件／外部33頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式20頁／PDF・画像2件／外部33頁・検索12回）
+- 料金：記載なし（3回確認済み：公式20頁／PDF・画像2件／外部33頁・検索12回）
+
+## Fitanalytics
+- 公式URL：https://www.fitanalytics.com（given）
+- 採用・広告の製品：
+  - 「A shopping guidance system for apparel retailers, built on data that reflects how real shoppers buy, return, and keep products. Deploy it as a dedicated sizing widget or a full AI shopping assistant.」（https://fitanalytics.com/・1回目）
+  - 「Finding the right fit is the biggest roadblock shoppers face online. It’s also the main reason cited by retailers for lost revenue and increased returns. Fit Finder solves sizing by using machine learning to generate size and fit recommendations based on shopper preferences, sales and returns records, and a database of body scans.」（https://fitanalytics.com/・1回目）
+  - 「When fit is the only blocker, Fit Finder gives shoppers a clear size recommendation. It’s grounded in shopper preferences and a system that understands how fit actually works. Delivered at the moment hesitation appears, Fit Finder removes the need to guess, delay, or order multiple sizes.」（https://fitanalytics.com/・1回目）
+  - 「VP Global Marketing and E-Commerce」（https://fitanalytics.com/・1回目）
+  - 「See how Fit Analytics can help your shoppers find products they’ll love to keep.」（https://fitanalytics.com/・1回目）
+  - 「is one of America's most instantly recognizable heritage apparel brands. Building on a proud historical record of producing iconic flight jackets for the United States military, it's gone on to establish an outstanding reputation for fit, finish, and hard-wearing style across its range of outerwear for men, women, and children.」（https://fitanalytics.com/case-studies/alpha-industries・1回目）
+  - 「VP Global Marketing and E-Commerce, Alpha Industries」（https://fitanalytics.com/case-studies/alpha-industries・1回目）
+  - 「. Improved user confidence around fit also led to a」（https://fitanalytics.com/case-studies/alpha-industries・1回目）
+  - 「A three-month A/B test with AI size advisor Fit Finder resulted in a 29.9% conversion rate increase, 2.4% return rate decrease, and a projected 9x ROI for the sustainable fashion brand.」（https://fitanalytics.com/case-studies/alpha-industries・1回目）
+  - 「See how Fit Analytics can help your shoppers find products they’ll love to keep.」（https://fitanalytics.com/case-studies/alpha-industries・1回目）
+  - 「Global apparel brands and retailers partner with Fit Analytics long-term because our scalable solutions help deliver proven results - more conversions, fewer returns, and improved shopper experience. Browse below for in-depth details on how we help retailers drive growth and get closer to shoppers.」（https://fitanalytics.com/partners・1回目）
+  - 「“We have chosen Fit Analytics many years now because they are the best provider in this space.”」（https://fitanalytics.com/partners・1回目）
+- 製造業の実績：
+  - 「Fit Analytics | Alpha Industries Case Study」（https://fitanalytics.com/case-studies/alpha-industries・1回目）
+  - 「Fit Analytics | Foot Locker EU Case Study」（https://fitanalytics.com/case-studies/footlocker-eu・1回目）
+  - 「Fit Analytics | Ridestore Case Study」（https://fitanalytics.com/case-studies/ridestore・1回目）
+  - 「Fit Analytics | Snipes Case Study」（https://fitanalytics.com/case-studies/snipes・1回目）
+  - 「Case Study: Mammut boosts conversion and cuts returns with Fit Analytics Fit Finder | CaseStudies.com」（https://www.casestudies.com/company/fit-analytics/case-study/mammut-customer-case-study・3回目）
+  - 「Case Study: Mammut boosts conversion and cuts returns with Fit Analytics Fit Finder」（https://www.casestudies.com/company/fit-analytics/case-study/mammut-customer-case-study・3回目）
+  - 「Mammut - Customer Case Study」（https://www.casestudies.com/company/fit-analytics/case-study/mammut-customer-case-study・3回目）
+  - 「View this case study…」（https://www.casestudies.com/company/fit-analytics/case-study/mammut-customer-case-study・3回目）
+  - 「Was it helpful? Rate this case study:」（https://www.casestudies.com/company/fit-analytics/case-study/mammut-customer-case-study・3回目）
+  - 「Case Study: Simons boosts conversion and revenue with Fit Analytics Product Suggestions | CaseStudies.com」（https://www.casestudies.com/company/fit-analytics/case-study/simons-customer-case-study・3回目）
+  - 「Case Study: Simons boosts conversion and revenue with Fit Analytics Product Suggestions」（https://www.casestudies.com/company/fit-analytics/case-study/simons-customer-case-study・3回目）
+  - 「Simons - Customer Case Study」（https://www.casestudies.com/company/fit-analytics/case-study/simons-customer-case-study・3回目）
+- 再販・ホワイトラベル：
+  - 「Our integration process enables a stable, scalable implementation for your brand’s long term success. We go through rigorous QA and due diligence processes to ensure you can offer your shoppers reliable, accurate size recommendations for years to come.」（https://fitanalytics.com/how-to-integrate・1回目）
+- 日本の担い手：
+  - 「現在、当サービスはASOS、 The NorthFace、 Vans、Tommy Hilfiger、ZARA、さらに日本では」（https://ftn.zozo.com/n/n81a0f21da065?gs=c59c512bb9ecd49cc73310b5f5e58033・3回目）
+- 規模・親会社：
+  - 「The AI Shopping Assistant helps shoppers find exactly what they’re looking for. It understands size, style, budget, and context – answering questions, narrowing options, and helping shoppers reach the right choice. For retailers, that means stronger conversion and shoppers who trust you to get it right.」（https://fitanalytics.com/・1回目）
+  - 「Finding the right fit is the biggest roadblock shoppers face online. It’s also the main reason cited by retailers for lost revenue and increased returns. Fit Finder solves sizing by using machine learning to generate size and fit recommendations based on shopper preferences, sales and returns records, and a database of body scans.」（https://fitanalytics.com/・1回目）
+  - 「How do you make a shopping decision feel right – not just in the cart, but when the package arrives? Fifteen years later, that question still shapes what we build.」（https://fitanalytics.com/・1回目）
+  - 「Of our employees are multilingual」（https://fitanalytics.com/who-we-are・1回目）
+  - 「revenue after returns」（https://fitanalytics.com/case-studies・1回目）
+  - 「Increase in revenue per visitor」（https://fitanalytics.com/case-studies・1回目）
+  - 「SNIPES’ primary focus was on reducing return rates relating specifically to shoes. The wide range of brands carried by SNIPES had long posed a challenge in terms of providing consistent sizing guidance to shoppers. SNIPES was also keen to increase overall conversions and provide a boost to shopper confidence via improved user experience around sizing.」（https://fitanalytics.com/case-studies/snipes・1回目）
+  - 「Case Study: Simons boosts conversion and revenue with Fit Analytics Product Suggestions | CaseStudies.com」（https://www.casestudies.com/company/fit-analytics/case-study/simons-customer-case-study・3回目）
+  - 「Case Study: Simons boosts conversion and revenue with Fit Analytics Product Suggestions」（https://www.casestudies.com/company/fit-analytics/case-study/simons-customer-case-study・3回目）
+  - 「Simons, the Canadian fashion retailer, had already seen positive results from Fit Analytics’ Fit Finder on its e-commerce site since 2016, but wanted to see whether a new discovery feature could drive even more online revenue and help shoppers who hit sizing dead ends. The challenge was to keep customers engaged and moving toward purchase when the recommended size or item wasn’t available.」（https://www.casestudies.com/company/fit-analytics/case-study/simons-customer-case-study・3回目）
+  - 「Fit Analytics enabled its Product Suggestions feature within the existing Fit Finder setup, requiring no additional work for Simons. In a two-month A/B test, Fit Analytics delivered a 2% increase in conversion rate, a 10% increase in net revenue per visitor, and a 5% increase in average order value by recommending in-stock alternatives that were more likely to fit.」（https://www.casestudies.com/company/fit-analytics/case-study/simons-customer-case-study・3回目）
+  - 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/fit-analytics/case-studies・3回目）
+- 連絡先：
+  - 「contact@fitanalytics.com」（https://home.kingsoft.jp/news/pr/businesswire/20260602461513.html・3回目）
+  - 「For media inquiries, please email」（https://fitanalytics.com/contact・3回目）
+  - 「Contact us today to take control of your profile for」（https://www.featuredcustomers.com/vendor/fit-analytics/case-studies・3回目）
+  - 「Contact us today for pricing options to add your customer」（https://www.featuredcustomers.com/vendor/fit-analytics/case-studies・3回目）
+- 検索結果の抜粋：
+  - 「Fit Analytics Innovation、独立性を取り戻しAIコマースの未来構築へ — Jun 2, 2026 · Fit Analyticsは、「AI Shopping Assistant」を「Google Shopping」型モデルへの直接的な挑戦として位置付けています。」（https://www.jiji.com/jc/article?k=20260602461513&g=bw・3回目）
+  - 「【特集】サイジングテクノロジー「Fit Analytics」が問う、これからの...Fit Analytics | Size & Fit Solutions for Apparel E-commerceFit Analytics Innovation、独立性を取り戻しAIコマースの未来構築へFit Analytics | Media Innovation / デジタルメディアのイノベーショ...ERP導入で「Fit to standardに限界」、AIエージェント化の進展--市場...Snapchatがバーチャル試着のFit Analyicsを買収・・・eコマースへ注力... — ECで洋服を購入するとき、サイズ表だけではなかなかそのアイテムのフィット感を掴めない、と感じたことはないだろうか。モデル着用写真では納得が行っていたのに、実際に商品が手元に届き着用してみると、全く異なって見え、場」（https://ftn.zozo.com/n/n81a0f21da065・3回目）
+  - 「Fit Analytics | Size & Fit Solutions for Apparel E-commerce — “When we went to Fit Analytics with our challenge, they came back with a solution and were able to impact our e-commerce business in less than three months. They exceeded our expectations and moved the needle for us in a significant way.”」（https://fitanalytics.com/・3回目）
+  - 「Fit Analytics Innovation、独立性を取り戻しAIコマースの未来構築へ — Fit Analytics Innovationは2年前、大胆な決断として自社事業の買い戻しを実施しました。 Snap Inc.（スナップ）による注目度の高い買収後、経営陣は受賞歴のあるサイズ推奨ツール「Fit Finder」を再取得し、16年にわたる専門知識とデータインサイトを確保しました。」（https://home.kingsoft.jp/news/pr/businesswire/20260602461513.html・3回目）
+  - 「Fit Analytics | Media Innovation / デジタルメディアのイノベーショ... — Mar 19, 2021 · Fit Analytics その他 その他 2021.3.19 Fri 7:00 Snapchatがバーチャル試着のFit Analyicsを買収・・・eコマースへ注力か 写真共有サービス「Snapchat」を提供するSnapは、衣服のデジタルサイジングソリューションを提供するスタートアップ Fit Analyticsを買収しました。」（https://media-innovation.jp/special/2489/recent/Fit+Analytics・3回目）
+  - 「Fit Analytics | Contact — Ready to optimize the shopping experience for shoppers and reduce your e-commerce returns? Reach out to othe Fit Analytics team to discuss how we can support your business needs.」（https://fitanalytics.com/contact・3回目）
+  - 「Fit Analytics | LinkedIn — ウェブサイト www.fitanalytics.com Fit Analyticsの外部リンク 業種 ソフトウェア開発 会社規模 社員 11 - 50名 本社 Berlin、BE 種類 非上場企業 創立 2010 専門分野 Size advisor、eFashion、Fit...」（https://jp.linkedin.com/company/fit-analytics・3回目）
+  - 「Fit Analytics | Size & Fit Solutions for Apparel E-commerce — Fit Finder solves sizing by using machine learning to generate size and fit recommendations based on shopper preferences, sales and returns records, and a database of body scans. When fit is the only blocker, Fit Finder gives shoppers a clear size recommendation.」（https://fitanalytics.com/・3回目）
+  - 「Fit Analytics | Who We Are — We're a team of data scientists, engineers, designers, and creatives who are making it easier for apparel companies to connect customers with apparel they'll love and keep. Our team members come from all around the world, creating a global collective of passionate problem solvers within Fit Analytics Innovation.」（https://fitanalytics.com/who-we-are・3回目）
+  - 「Fit Analytics - Profile | EcomStack — Fit Analytics offers apparel e-commerce solutions for size and fit. The site describes machine learning-powered guidance and an AI Shopping Assistant built on connected purchase, return, and fit data. It is aimed at apparel retailers looking to improve shopping outcomes. What is Fit Analytics?」（https://www.ecom-stack.com/cro/fitanalytics/・3回目）
+  - 「Fit Analytics Documentation — Fit Finder relies on various elements of a shop’s website, which means the integration can be impacted by any changes made to these dependencies. Changes to a shop’s infrastructure or design can be expected over time but might cause Fit Finder to no longer load correctly.」（https://developers.fitanalytics.com/about-fit-finder/index.html・3回目）
+  - 「Case studies - Fit Analytics — Explore the case studies to learn how our solutions positively affect return and conversation rates, increases average order value, and improves various other key reference metrics.」（https://fitanalytics.com/case-studies・3回目）
+- 創業年度：記載なし（3回確認済み：公式9頁／PDF・画像1件／外部39頁・検索12回）
+- 株主：記載なし（3回確認済み：公式9頁／PDF・画像1件／外部39頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式9頁／PDF・画像1件／外部39頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式9頁／PDF・画像1件／外部39頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式9頁／PDF・画像1件／外部39頁・検索12回）
+- 料金：記載なし（3回確認済み：公式9頁／PDF・画像1件／外部39頁・検索12回）
+
+## Fivestars
+- 公式URL：https://www.fivestars.com（given）
+- 採用・広告の製品：
+  - 「Create a Customer Loyalty Program | SumUp Connect」（https://www.sumup.com/en-us/loyalty-program/・1回目）
+  - 「SumUp Connect is an always-on marketing and customer loyalty tool. Keep in touch. Build real relationships. Keep customers coming back again and again.」（https://www.sumup.com/en-us/loyalty-program/・1回目）
+  - 「Learn more about what customers buy, Understand how they feel about your business. Track engagement, relationship strength, and loyalty trends to continuously improve your approach.」（https://www.sumup.com/en-us/loyalty-program/・1回目）
+  - 「We started using the promotions feature and realized something really awesome was happening -- the people that were coming in, they weren't our normal customers.」（https://www.sumup.com/en-us/loyalty-program/・1回目）
+  - 「Fill out the form below and someone from our team will reach out ASAP. We'll learn about your business and offer suggestions on SumUp produts that can support your goals.」（https://www.sumup.com/en-us/loyalty-program/・1回目）
+  - 「FinProsの評判・口コミは？出金拒否の有無やボーナスの内容を解説」（https://global-capital.co.jp/fivestars-markets/・3回目）
+  - 「NETH PRIERE CAIN「相剋の烙印」」（https://shop.fivestars-shop.com/・3回目）
+  - 「fiveStars presents「A LIVE -2026-」2026年12月14日(月) 名古屋DIAMOND HALL先行チケット」（https://shop.fivestars-shop.com/・3回目）
+  - 「FiveStars is a rewards and marketing platform for local businesses and the communities they serve. More than 12,000 businesses across the US and Canada use FiveStars’ easy, all-in-one marketing program, and more than 20 million consumers participate in the FiveStars rewards network to support local businesses. In 2016, FiveStars drove over 54 million in-store visits across its network.」（https://www.casestudies.com/customer/fivestars・3回目）
+  - 「FiveStars achieves 25% increase in leads in 30 days with Marketo」（https://www.casestudies.com/customer/fivestars・3回目）
+  - 「Director of Growth Marketing」（https://www.casestudies.com/customer/fivestars・3回目）
+  - 「Founded in 2010, Fivestars has built the largest commerce network for local businesses, helping over 14,000 merchants offer payments and marketing programs to their customers. Tallying 60+ million members acress the US, 1 in 6 Americans uses Fivestars to shop locally.」（https://www.verygoodsecurity.com/case-study/fivestars・3回目）
+- 製造業の実績：
+  - 「Success Stories about Software and Services used by FiveStars」（https://www.casestudies.com/customer/fivestars・3回目）
+  - 「FiveStars - Customer Case Study」（https://www.casestudies.com/customer/fivestars・3回目）
+  - 「MondayCall Case Study: FiveStars – FiveStars - Customer Case Study | CaseStudies.com」（https://www.casestudies.com/company/mondaycall/case-study/fivestars-customer-case-study・3回目）
+  - 「FiveStars - Customer Case Study」（https://www.casestudies.com/company/mondaycall/case-study/fivestars-customer-case-study・3回目）
+  - 「Case study describing how FiveStars used MondayCall」（https://www.casestudies.com/company/mondaycall/case-study/fivestars-customer-case-study・3回目）
+  - 「Open case study document...」（https://www.casestudies.com/company/mondaycall/case-study/fivestars-customer-case-study・3回目）
+  - 「Was it helpful? Rate this case study:」（https://www.casestudies.com/company/mondaycall/case-study/fivestars-customer-case-study・3回目）
+  - 「Case Study - Fivestars | VGS」（https://www.verygoodsecurity.com/case-study/fivestars・3回目）
+- 日本の担い手：
+  - 「【2026年最新】Five Stars Marketsとは？日本語対応の海外バイナリーオプションの実力を徹底解説｜FX研究ノート」（https://note.com/forex_study/n/n0d4e49d3edfc・3回目）
+  - 「【2026年最新】Five Stars Marketsとは？日本語対応の海外バイナリーオプションの実力を徹底解説」（https://note.com/forex_study/n/n0d4e49d3edfc・3回目）
+  - 「「日本語対応している安全なサービスはある？」」（https://note.com/forex_study/n/n0d4e49d3edfc・3回目）
+  - 「👉 「海外 × 日本語対応」という点が大きな差別化ポイントです」（https://note.com/forex_study/n/n0d4e49d3edfc・3回目）
+  - 「👉 「海外バイナリーオプション 日本語対応」で検索する層に刺さる」（https://note.com/forex_study/n/n0d4e49d3edfc・3回目）
+  - 「Five Stars Marketsは海外運営のため、日本の金融庁の規制対象外です」（https://note.com/forex_study/n/n0d4e49d3edfc・3回目）
+  - 「その中でも、日本語対応やサポート体制を重視するユーザーから比較対象として挙げられるサービスの一つが」（https://note.com/bishamon_uk/n/n96fc7c93848a・3回目）
+  - 「同サービスは、日本語に対応したオンライン取引プラットフォームであり、FXやバイナリーオプションを提供しています」（https://note.com/bishamon_uk/n/n96fc7c93848a・3回目）
+  - 「1. 日本語対応が充実している」（https://note.com/bishamon_uk/n/n96fc7c93848a・3回目）
+  - 「一方、ファイブスターズマーケッツでは、日本語による案内やFAQが用意されており、口座開設や本人確認の手順が理解しやすい点が特徴です」（https://note.com/bishamon_uk/n/n96fc7c93848a・3回目）
+  - 「FAQや利用ガイドが日本語で整備されているため、利用前に必要な情報を確認しやすい環境が整っています」（https://note.com/bishamon_uk/n/n96fc7c93848a・3回目）
+  - 「企業分析の視点では、ファイブスターズマーケッツは、日本語対応やユーザーサポートなど、利用者目線の環境整備に力を入れている点が特徴です」（https://note.com/bishamon_uk/n/n96fc7c93848a・3回目）
+- 検索結果の抜粋：
+  - 「Fivestars Marketing導入事例｜Gologin お客様の成功事例 — Fivestars MarketingがGologinでブラウザプロファイルの問題を70〜80%から2%に減らし、毎月最大40時間を節約した方法をご紹介します。」（https://gologin.com/ja/case-studies/fivestars-marketing/・3回目）
+  - 「【2026年最新】Five Stars Marketsとは？日本語対応の海外バイナリー... — May 1, 2026 · Five Stars Marketsは海外運営のため、日本の金融庁の規制対象外です。 👉 トラブル時は自己責任 出金条件の確認が必須 出金方法によって手数料あり 条件未達成だと出金制限あり 👉 資金管理が最重要ポイント Five Stars Marketsはこんな人におすすめ」（https://note.com/forex_study/n/n0d4e49d3edfc・3回目）
+  - 「【2026年最新版】ファイブスターズマーケッツ（FIVE STARS MARKETS）... — Jul 3, 2026 · 日本と世界を、ビジネスでつなぐ。 英国を拠点に、日本企業・経営者の海外ビジネスを支援するBishamon UKです。 法人設立、銀行・決済、海外送金、FinTech、税務、海外事業展開など、海外でビジネスをするための実践的な情報を発信しています。」（https://note.com/bishamon_uk/n/n96fc7c93848a・3回目）
+  - 「fiveStars — はじめてのお客様へ 登録をしなくても、ご利用いただけます。 fiveStarsにご来店いただき、店頭にてお渡しいたします。 レジにてWEB予約をしていることをお伝えください。 商品のお取り置き期間は、発売日含めて10日間となります。 なお、店頭受取は予約商品のみになります。 新譜商品入荷後の商品はお取り置きは基本できません。 入荷日先日までにご予約ください。 イベント開催日7日間前より、お電話にて取り置き受付実施します。 ※お取り置き後のキャンセルは原則お受けできません。 ※お申し込みは、お話のみでの受付となります。 mailでの受付は行いません。 ※取り置きはイベント開場時間、30分前までとなります。 ※イベントにより、お取り置き出来る券種が異なります。」（https://shop.fivestars-shop.com/・3回目）
+  - 「B2B Case Studies: How FiveStars Uses Software & Services — Explore case studies featuring FiveStars as the customer — learn how vendors and partners helped FiveStars solve real business challenges.」（https://www.casestudies.com/customer/fivestars・3回目）
+  - 「FiveStars - Customer Case Study — FiveStars (Internet) partnered with MondayCall to solve key challenges. "FiveStars - Customer Case Study" is their real-world success story.」（https://www.casestudies.com/company/mondaycall/case-study/fivestars-customer-case-study・3回目）
+  - 「Case Study - Fivestars | VGS - Very Good Security — Partnering with VGS, Fivestars created a personalized customer checkout experience on par with global QSR brands, which quickly and efficiently helping thousands of small businesses onboard consumers onto their loyalty program.」（https://www.verygoodsecurity.com/case-study/fivestars・3回目）
+  - 「fivestars-case-study copy - cdn.featuredcustomers.com — Fivestars’ software platform enables local retailers to create a unique rewards program, build a customer loyalty database and connect with every customer in that database at the right time using marketing automation.」（https://cdn.featuredcustomers.com/CustomerCaseStudy.document/infinicept_fivestars4_713153.pdf・3回目）
+  - 「FiveStars - 2026 Company Profile, Funding & Investors | The ... — Oct 15, 2026 · FiveStars has raised $142.52 million across 7 funding rounds from investors including SumUp, Rogers and Lightspeed Venture Partners. The company has 186 employees.」（https://www.thecompanycheck.com/company/b/fivestars/cq6lktzwgv8erjds7・3回目）
+  - 「Fivestars – Company Profile & Market Insights – 2026 — Fivestars Revenue & Valuation Fivestars's operations are expected to yield yearly revenues near $30.4M. The estimated revenue per employee at Fivestars is $155.9K. To date, Fivestars has raised $115.2M in funding.」（https://compworth.com/company/fivestars・3回目）
+  - 「FiveStars - 2026 Company Profile, Team, Funding & Competitors ...FiveStars - Overview, News & Similar companies | ZoomInfo.comFive Stars Loyalty 2026 Company Profile: Valuation, Investors ...Fivestars Revenue 2021: $19.7M, $145.2M Raised - LATKAFiveStars - Products, Competitors, Financials, Employees ... — Mar 7, 2026 · FiveStars has raised $146M in funding from investors like Y Combinator, Lights」（https://tracxn.com/d/companies/fivestars/__ltFPb0jlz5jLZQNsB1dSgIaQ6R_XworUCnmJsJ-Ysts・3回目）
+  - 「FiveStars - Overview, News & Similar companies | ZoomInfo.com — Gather financial insights about FiveStars, including details on funding rounds, investors, total funding, and acquisitions, to gain a comprehensive understanding of their financial strategy.」（https://www.zoominfo.com/c/five-star/346597098・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）
+- 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）
+
+## Fizyr
+- 公式URL：https://fizyr.com/（given）
+- 創業年度：Founded：2014（https://startupintros.com/orgs/fizyr・3回目）
+- 所在地：Molengraaffsingel 10 2629 JD Delft The Netherlands（https://startupintros.com/orgs/fizyr・3回目）
+- 採用・広告の製品：
+  - 「Fizyr OS integrates with any robotic cell and lets machines see, think and act in real time. Allowing automation to run faster, safer and smarter. We plug our ultra-fast software between your cameras and robots, so standard robots start making split-second decisions keeping parcels, pallets and profits moving. Instant ROI your CEO will spot.」（https://www.fizyr.com/・1回目）
+  - 「Labor shortages and inconsistent operations are hurting throughput and margins. Great vision software is the answer: without it, robots without intelligence fail on anything that isn’t perfectly predictable, and every mistake costs time, money and customer trust. ​We know the supply chain, our background gives us the edge.」（https://www.fizyr.com/・1回目）
+  - 「Imagine a pallet unloader that never pauses to ask, “What’s that box?” Fizyr feeds your robot a complete visual understanding of every scene, updates its knowledge on the fly and guides each pick with millimeter precision. We teach robots to recognize anything, anywhere and exactly what to pick and how to pick it.」（https://www.fizyr.com/・1回目）
+  - 「Fizyr OS captures the necessary visual data in a scene to detect, process and inform robotic systems.」（https://www.fizyr.com/・1回目）
+  - 「Commands to robots based on vision enable precision and consistency in operations.」（https://www.fizyr.com/・1回目）
+  - 「Lightning fast processing」（https://www.fizyr.com/・1回目）
+  - 「Fizyr adds advanced 3D context awareness with millimeter precision.」（https://www.fizyr.com/・1回目）
+  - 「Agnostic approach, integrate with wide variety of cameras, robotic systems, grippers.」（https://www.fizyr.com/・1回目）
+  - 「Live deployments where Fizyr OS vision is enabling trailer unloading, high volume parcel induction, depalletization, pallet classification, food processing, quality control and more. Check our demo videos, press and partners.」（https://www.fizyr.com/・1回目）
+  - 「Discover our products」（https://www.fizyr.com/・1回目）
+  - 「Others sell robots or hype; we sell focused, responsive vision that allows you to own the rest of the stack. Fizyr’s speed, open APIs and integrator-first model make it the safest, smartest choice for next-gen cells. No lock-in, no guesswork, all precision.」（https://www.fizyr.com/・1回目）
+  - 「Continuous improvement」（https://www.fizyr.com/・1回目）
+- 製造業の実績：
+  - 「Fizyr OS runs on any industrial 2D or 3D camera. Keeping that promise means proving it, sensor by sensor. Our engineering team built a sensor certification lab that runs on agentic local models. Our time to certify a new camera dropped from weeks to a few days.」（https://www.fizyr.com/・1回目）
+  - 「A system built for e-commerce or warehouses won’t fit 3PL or food-processing needs. That’s why Fizyr keeps its setups and neural networks flexible, adapting to each task.」（https://www.fizyr.com/partners・1回目）
+  - 「Cascade learning delivers quick, dramatic performance gains. Operators choose what the robot learns, when it learns, and which factors it weighs first, so it never has to unlearn bad habits. By feeding it only the right behaviors, the robot stays on target.」（https://www.fizyr.com/technology・1回目）
+  - 「Our AI processes images in milliseconds on production-ready industrial servers, so there’s limited or no latency. Each server is optimized to utilize powerful internal components. asdemands.」（https://www.fizyr.com/technology・1回目）
+  - 「Designing automation integrations involves choosing the right robotic systems for the job. Solutions designed for eCommerce or warehouses can differ from those designed for food processing or manufacturing. Fizyr adapts, providing connectivity with a variety of arms and control systems from leading global robotics providers.」（https://www.fizyr.com/technology・1回目）
+  - 「The comprehensive AI solution for logistics, manufacturing & beyond.」（https://www.fizyr.com/product・1回目）
+  - 「in challenging, high volume logistics, industrial and food processing environments」（https://www.fizyr.com/product・1回目）
+  - 「ISA provides technical resources and standards to help industrial automation professionals advance their careers and the field. We enable automation professionals worldwide to solve problems and enhance their skills by bringing people together to create new technologies and share best practices with future automation professionals.」（https://www.automation.com/article/yaskawa-cooperation-agreement-fizyr・3回目）
+  - 「remains true to its century-long ethos of supplying only the very highest quality products–a philosophy which has made it a world-leader in the field. Yaskawa started out as a motor manufacturer and then became a supplier of automation solutions. Finally, with its i3-Mechatronics concept, the company has evolved into an Industry 4.0 solution provider.」（https://www.automation.com/article/yaskawa-cooperation-agreement-fizyr・3回目）
+  - 「HANNOVER MESSE 2018 Report: Industrial technology providers collaborating to bring digital factory to life」（https://www.automation.com/article/yaskawa-cooperation-agreement-fizyr・3回目）
+  - 「Bright Machines Introduces Brightware Studio to Liberate Factory Automation」（https://www.automation.com/article/yaskawa-cooperation-agreement-fizyr・3回目）
+  - 「Fizyr OS advanced vision AI combines traditional image processing techniques and vision AI to identify quality issues, damage or errors in distribution, manufacturing, and food processing scenarios.」（https://www.fizyr.com/cases/detection・3回目）
+- 再販・ホワイトラベル：
+  - 「Rebranded to Fizyr when it pivoted its entire focus to advanced vision AI.」（https://www.fizyr.com/company・1回目）
+  - 「when the team won both competitions in Amazon's Picking Challenge using deep learning expertise, prompting a pivot to software-only focus and rebranding to Fizyr in」（https://startupintros.com/orgs/fizyr・3回目）
+- 日本の担い手：
+  - 「Founded in Japan in 1915,」（https://www.automation.com/article/yaskawa-cooperation-agreement-fizyr・3回目）
+- 規模・親会社：
+  - 「We know that great teams drive success. Our vibrant team events - ranging from soccer games to dinners - are arranged to spark collaboration, boost morale, and create lasting connections.」（https://www.fizyr.com/careers・1回目）
+  - 「Be part of a dynamic, forward-thinking company that’s pushing boundaries and driving innovation. Our rapidly growing business offers you the chance to work on cutting-edge projects, collaborate with creative minds, and contribute to impactful solutions that shape the future.」（https://www.fizyr.com/careers・1回目）
+  - 「We celebrate diversity and are committed to creating an inclusive environment for all employees, regardless of race, color, religion, gender, gender identity, sexual orientation, national origin, genetics, disability or age.」（https://www.fizyr.com/careers・1回目）
+  - 「See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.」（https://pitchbook.com/profiles/company/267794-29・3回目）
+  - 「Fizyr has 39 total employees.」（https://pitchbook.com/profiles/company/267794-29・3回目）
+  - 「What is Fizyr’s current revenue?」（https://pitchbook.com/profiles/company/267794-29・3回目）
+  - 「The current revenue for Fizyr is」（https://pitchbook.com/profiles/company/267794-29・3回目）
+- 連絡先：
+  - 「Contact us today to see how Fizyr can meet your detection needs.」（https://www.fizyr.com/cases/detection・3回目）
+  - 「Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.」（https://pitchbook.com/profiles/company/267794-29・3回目）
+- 検索結果の抜粋：
+  - 「Fizyr - Robot Vision Solved. — Deep-learning vision software for robust automated picking and placing.」（https://www.fizyr.com/・3回目）
+  - 「Fizyr - Robot Vision Solved. — Fizyr feeds your robot a complete visual understanding of every scene, updates its knowledge on the fly and guides each pick with millimeter precision. We teach robots to recognize anything, anywhere and exactly what to pick and how to pick it.」（https://www.fizyr.com/・3回目）
+  - 「Company - Fizyr — Fizyr raised its first funding round in 2020 and appointed a new management team in 2022 to accelerate international growth. Fizyr OS is deployed by many of the world’s top systems and robotics integrators to automate many of their customers’ most challenging dull, dirty and dangerous jobs.」（https://www.fizyr.com/company・3回目）
+  - 「Fizyr - LinkedIn — In 2016, we won both competitions at the Amazon Picking Challenge. A year later, we rebranded as Fizyr and went all-in on AI vision software. We've been bootstrapped, focused, and growing ever...」（https://www.linkedin.com/company/fizyr/・3回目）
+  - 「YASKAWA Announces Cooperation Agreement with Fizyr — Oct 8, 2024 · With demand growing for robotic automation, Fizyr is focused on enabling robotic and systems integrators with the best computer vision capabilities for logistics applications.」（https://www.automation.com/article/yaskawa-cooperation-agreement-fizyr・3回目）
+  - 「Fizyr | Motoman Strategic Partners — Our mission is to automate repetitive tasks in logistics by developing high-quality computer vision software for pick and place applications, to reduce (operational) costs and improve working conditions for warehouse staff.」（https://www.motoman.com/en-us/integration/partners/fizyr・3回目）
+  - 「Case: Detection - Fizyr — Fizyr OS advanced vision AI combines traditional image processing techniques and vision AI to identify quality issues, damage or errors in distribution, manufacturing, and food processing scenarios.」（https://www.fizyr.com/cases/detection・3回目）
+  - 「Fizyr: IoT Project & Use Case — Oct 15, 2021 · 1 verified project featuring Fizyr: Asset Tracking/ Track and Trace. Including users, technology and real-world results.」（https://www.iotusecase.com/en/companies/fizyr・3回目）
+  - 「Cases - Fizyr — Ready to see our solutions in action? Turn your toughest pick, pack or inspect task into a success story. Deep-learning vision software for robust automated picking and placing.」（https://www.fizyr.com/cases・3回目）
+  - 「Fizyr: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Backed by venture capital firm FORWARD.one, the business currently maintains a workforce of 34 employees and generates less than $5 million in annual revenue. Originally established as a TU Delft university spinoff named Delft Robotics, the company was founded in 2014 by Prof. Martijn Wisse.」（https://startupintros.com/orgs/fizyr・3回目）
+  - 「Fizyr 2026 Company Profile: Valuation, Funding & Investors ...Fizyr – Revenue, Valuation & Top Competitors – 2026 – DelftFizyr - 2025 Company Profile, Team, Funding & Competitors ...Fizyr — investors & funding | gritt.ioFizyr - Crunchbase Company Profile & FundingFizyr - Overview, News & Similar companies | ZoomInfo.com — Information on valuation, funding, cap tables, investors, and executives for」（https://pitchbook.com/profiles/company/267794-29・3回目）
+  - 「Fizyr – Revenue, Valuation & Top Competitors – 2026 – Delft — Discover Fizyr's estimated revenue, valuation, funding history, employee data, and top competitors.」（https://compworth.com/company/fizyr・3回目）
+- 株主：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部28頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部28頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部28頁・検索12回）
+- 料金：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部28頁・検索12回）
+
+## Flagright
+- 公式URL：https://flagright.com（given）
+- 株主：12-Mar-2025    Completed Generating Revenue（https://pitchbook.com/profiles/company/491848-84・3回目）
+- 株主：28-Jun-2022    Completed Generating Revenue（https://pitchbook.com/profiles/company/491848-84・3回目）
+- 株主：Venture Capital Minority（https://pitchbook.com/profiles/company/491848-84・3回目）
+- 採用・広告の製品：
+  - 「Industry-leading compliance programs run on Flagright:」（https://www.flagright.com/・1回目）
+  - 「For global enterprises, startups」（https://www.flagright.com/・1回目）
+  - 「Detect and prevent financial crime in real-time or post.」（https://www.flagright.com/・1回目）
+  - 「“Flagright’s innovative pace has been impressive, but what really stands out is the level of control. The platform is」（https://www.flagright.com/・1回目）
+  - 「Turns your SOPs into production-ready AI agents in 20 minutes,」（https://www.flagright.com/・1回目）
+  - 「, but the AI also helps make them more precise, giving us better insights and reducing unnecessary manual work. The automation has really」（https://www.flagright.com/・1回目）
+  - 「Detect and prevent financial crime in」（https://www.flagright.com/・1回目）
+  - 「Process millions of transactions daily with rules applied in milliseconds. Configure rules, run complex aggregations, and monitor by product, threshold, or risk profile.」（https://www.flagright.com/・1回目）
+  - 「Automatically update customer risk using transaction activity, KYC data, and CRA signals. Upgrade or downgrade risk profiles in real time, removing manual reviews while keeping decisions fully explainable.」（https://www.flagright.com/・1回目）
+  - 「, so every update moves through the right approval path before going live. Each version gets reviewed and documented, so when an audit comes in, the proof is just already there.”」（https://www.flagright.com/・1回目）
+  - 「April Tabucan, Compliance Associate」（https://www.flagright.com/・1回目）
+  - 「“Flagright’s platform strengthened the control we had over our compliance processes while keeping us agile. That has been crucial for meeting the regulator's expectations without slowing the business.”」（https://www.flagright.com/・1回目）
+- 製造業の実績：
+  - 「Trusted by 100+ leading fintechs & banks worldwide」（https://www.flagright.com/customers・1回目）
+  - 「Built by operators who lived the pain. Backed by the funds that pick category」（https://www.flagright.com/about-us・1回目）
+  - 「winners. Trusted by compliance teams in 35+ countries.」（https://www.flagright.com/about-us・1回目）
+  - 「Six months after launch, Flagright was serving customers across three continents. Today, Flagright is trusted by financial institutions in 35+ countries worldwide.」（https://www.flagright.com/about-us・1回目）
+  - 「Trusted by leading financial institutions globally」（https://www.flagright.com/industry/payment-gateway-and-psps・1回目）
+  - 「Betterment Case Study: Scaling Fraud Detection with Flagright」（https://www.flagright.com/case-study/powering-precision-in-betterments-fraud-program・1回目）
+  - 「出典: Flagright - Ziina Case Study 事例2：Sciopay（英国の決済機関） Sciopayの事例は、Flagrightの導入スピードを象徴しています」（https://skywork.ai/skypage/ja/ai-aml-compliance/1985185147679744000・3回目）
+  - 「Founded by Baran Ozkan and Madhu Nadig, Flagright brings transaction monitoring, watchlist screening, risk scoring, case management, AI-assisted investigations and governance tools into one platform. The company says its software is used by more than 100 fintechs and banks across more than 30 countries, giving the Series A a stronger operating base than many early-stage AI funding announcements.」（https://www.ceotodaymagazine.com/2026/06/lagright-12-5m-series-a-us-expansion/・3回目）
+- 再販・ホワイトラベル：
+  - 「Reseller partnerships」（https://www.flagright.com/partners・1回目）
+- 日本の担い手：
+  - 「is regulated in 12 APAC jurisdictions: Australia, China, Hong Kong, Indonesia, India, Japan, Korea, Malaysia, Singapore, Thailand, the Philippines, and Vietnam; powering SMEs with a single platform for online, point-of-sale and B2B payments. They support over 50 payment methods in 150+ currencies, offering a」（https://www.flagright.com/case-study/how-hitpay-customised-their-compliance-framework-without-vendor-support・1回目）
+  - 「ケーススタディで見る導入効果 理論だけでなく、実際の導入事例はFlagrightの実力を何よりも雄弁に物語ります」（https://skywork.ai/skypage/ja/ai-aml-compliance/1985185147679744000・3回目）
+- 規模・親会社：
+  - 「Automated case narrative generation」（https://www.flagright.com/・1回目）
+  - 「Move fast and stay compliant. Flagright grows with you from seed to IPO.」（https://www.flagright.com/・1回目）
+  - 「Generate recurring revenue through partnerships」（https://www.flagright.com/partners・1回目）
+  - 「Support customer acquisition and market growth.」（https://www.flagright.com/partners・1回目）
+  - 「Drive revenue through」（https://www.flagright.com/partners・1回目）
+  - 「With these capabilities in place, Banked has built a monitoring framework that is proportionate, effective, and ready for scrutiny. The FCA is known for showing up without notice, whether as part of a routine review or in response to a complaint, and can request detailed evidence of controls at any time.」（https://www.flagright.com/case-study/meeting-regulatory-standards-at-real-time-speed・1回目）
+  - 「Reduction in time spent on narrative creation」（https://www.flagright.com/customers・1回目）
+  - 「on writing case narratives」（https://www.flagright.com/customers・1回目）
+  - 「Accuracy on case narratives」（https://www.flagright.com/customers・1回目）
+  - 「With the AI, we have almost completely eliminated the time spent creating narratives」（https://www.flagright.com/customers・1回目）
+  - 「Reduction in time spent on narrative creation」（https://www.flagright.com/case-study・1回目）
+  - 「With the AI, we have almost completely eliminated the time spent creating narratives」（https://www.flagright.com/case-study・1回目）
+- 連絡先：
+  - 「Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.」（https://pitchbook.com/profiles/company/491848-84・3回目）
+- 検索結果の抜粋：
+  - 「The modern standard in fincrime compliance | Flagright — Revolutionize your AML compliance with Flagright's AI-native platform — globally recognized as a leading AML compliance solution. Monitor, screen, and report in real-time.」（https://www.flagright.com/・3回目）
+  - 「Flagright徹底解説：AI時代のAMLコンプライアンス最前線 — Nov 4, 2025 · AI時代のAMLコンプライアンスでの最先端ソリューション、Flagrightを徹底解説。ノーコードでの導入やリアルタイム監視機能で、効果的なリスク管理を実現します。」（https://skywork.ai/skypage/ja/ai-aml-compliance/1985185147679744000・3回目）
+  - 「Company | Flagright — Learn more about Flagright: key milestones, announcements, team, values, and our ongoing mission to advance AML technology.」（https://www.flagright.com/category/company・3回目）
+  - 「Flagright Raises $12.5m Series A — CEO Today — Jun 19, 2026 · Flagright raises $12.5m to expand financial crime compliance technology in the US, putting explainability and oversight under scrutiny.」（https://www.ceotodaymagazine.com/2026/06/lagright-12-5m-series-a-us-expansion/・3回目）
+  - 「「買いたいものがないから作った」CEOの叫びが17億円調達へ——AIコンプ... — Jun 18, 2026 · 「買いたいものがないから作った」CEOの叫びが17億円調達へ——AIコンプライアンス新時代の旗手、Flagright 金融犯罪対策のAIプラットフォーム「Flagright」がシリーズAで17.2億円を調達。金融機関の80%がAI投資を計画する中、少数精鋭チームで35カ国100社超の顧客を獲得し、成長を加速させる ...」（https://www.studioglobal.ai/ja/discover/answers/what-are-the-key-details-of-flagright-s-6a333e23c8fd6d815c3d5bb3・3回目）
+  - 「Flagright — 1 day ago · Flagright ... Flagright」（https://info.flagright.com/・3回目）
+  - 「Baran Ozkan, Co-founder and CEO, Flagright — Jan 16, 2026 · Baran Ozkan discusses building Flagright, an AI-native AML platform helping financial institutions detect financial crime in real-time across 30+ countries.」（https://www.fintechprofile.com/baran-ozkan-co-founder-and-ceo-flagright/・3回目）
+  - 「Flagright - 2026 Company Profile, Team, Funding, Competitors ...Flagright 2026 Company Profile: Valuation, Funding ...Flagright - Products, Competitors, Financials, Employees ...Flagright company profile: firmographics, business model ...Flagright - Overview, News & Similar companies | ZoomInfo.comFlagright Revenue & Market Share 2026 | Financial ServicesFlagright Revenue 2024: $4.1M Est. - getlat」（https://tracxn.com/d/companies/flagright/__Z0elOVu7TxL_Nnagi68IfDeKlygr2DQ6VSQDfMP8LCc・3回目）
+  - 「Flagright 2026 Company Profile: Valuation, Funding ...Flagright - Products, Competitors, Financials, Employees ...Flagright company profile: firmographics, business model ...Flagright - Overview, News & Similar companies | ZoomInfo.comFlagright Revenue & Market Share 2026 | Financial ServicesFlagright Revenue 2024: $4.1M Est. - getlatka.com — The current revenue for Flagright is . How much funding」（https://pitchbook.com/profiles/company/491848-84・3回目）
+  - 「Flagright - Products, Competitors, Financials, Employees ... — Flagright Frequently Asked Questions (FAQ) When was Flagright founded? Flagright was founded in 2021. Where is Flagright's headquarters? Flagright's headquarters is located at Torstrasse 201, Berlin. What is Flagright's latest funding round? Flagright's latest funding round is Series A. How much did Flagright raise? Flagright raised a 」（https://www.cbinsights.com/company/flagright・3回目）
+  - 「Flagright company profile: firmographics, business model ... — Flagright company profile: Financial Crime Compliance Software (AML), San Francisco, founded 2021, 51–100 employees. Firmographics, revenue lines, pricing tiers ...」（https://akta.pro/company-profiles/00002jo/flagright・3回目）
+  - 「Flagright - Overview, News & Similar companies | ZoomInfo.com — View Flagright (www.flagright.com) location in Berlin, Germany , revenue, industry and description. Find related and similar companies as well as employees by title and much more.」（https://www.zoominfo.com/c/flagright/561498575・3回目）
+- 創業年度：記載なし（3回確認済み：公式13頁／PDF・画像1件／外部28頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式13頁／PDF・画像1件／外部28頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式13頁／PDF・画像1件／外部28頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式13頁／PDF・画像1件／外部28頁・検索12回）
+- 料金：記載なし（3回確認済み：公式13頁／PDF・画像1件／外部28頁・検索12回）
+
+## Flair
+- 公式URL：https://flair.ai（given）
+- 採用・広告の製品：
+  - 「AI Product Photo Generator & Editor | Create E-Commerce Images | Flair.ai」（https://flair.ai/・1回目）
+  - 「Build stunning AI product content with your team in real-time.」（https://flair.ai/・1回目）
+  - 「Create content that matches your brand rules and aesthetic.」（https://flair.ai/・1回目）
+  - 「Generate on brand content for all your business needs.」（https://flair.ai/・1回目）
+  - 「Stage scenes digitally with drag & drop props. Bring it to life with AI.」（https://flair.ai/・1回目）
+  - 「Mix & match product with templates」（https://flair.ai/・1回目）
+  - 「Fit your clothing and jewelry onto AI generated models with patterns and logos preserved. Create high-quality on-model imagery at scale.」（https://flair.ai/・1回目）
+  - 「Generate high-quality ads for your products with brand consistency alongside a library of templates.」（https://flair.ai/・1回目）
+  - 「See how Flair stacks up against other AI product photography platforms」（https://flair.ai/・1回目）
+  - 「Create images with models trained on your products」（https://flair.ai/・1回目）
+  - 「Generate images with products on models」（https://flair.ai/・1回目）
+  - 「Quickly generate product images without training」（https://flair.ai/・1回目）
+- 製造業の実績：
+  - 「Used by brands of all sizes and industries」（https://flair.ai/・1回目）
+  - 「Manufacturing industry」（https://flair-staff.co.jp/english/・3回目）
+  - 「Japan has global standard manufacturing technology.」（https://flair-staff.co.jp/english/・3回目）
+  - 「Progression Design Case Study: Flair – Flair - Customer Case Study | CaseStudies.com」（https://www.casestudies.com/company/progression-design/case-study/flair-customer-case-study・3回目）
+  - 「Flair - Customer Case Study」（https://www.casestudies.com/company/progression-design/case-study/flair-customer-case-study・3回目）
+  - 「Case study describing how Flair used Progression Design」（https://www.casestudies.com/company/progression-design/case-study/flair-customer-case-study・3回目）
+  - 「View this case study…」（https://www.casestudies.com/company/progression-design/case-study/flair-customer-case-study・3回目）
+  - 「Was it helpful? Rate this case study:」（https://www.casestudies.com/company/progression-design/case-study/flair-customer-case-study・3回目）
+  - 「Canadian manufacturer adds 10-color press, laminator, 2nd facility in Calgary, Alberta」（https://www.flairpackaging.com/post/flair-packaging-expands-north-american-capabilities-capacity・3回目）
+  - 「Design Partners Case Study: Flair Showers – Flair Showers - Customer Case Study | CaseStudies.com」（https://www.casestudies.com/company/design-partners/case-study/flair-showers-customer-case-study・3回目）
+  - 「Flair Showers - Customer Case Study」（https://www.casestudies.com/company/design-partners/case-study/flair-showers-customer-case-study・3回目）
+  - 「Case study describing how Flair Showers used Design Partners」（https://www.casestudies.com/company/design-partners/case-study/flair-showers-customer-case-study・3回目）
+- 再販・ホワイトラベル：
+  - 「Create content that matches your brand rules and aesthetic.」（https://flair.ai/・1回目）
+  - 「Build custom AI human models based on features and scale them across all your brand assets. Choose from a range of features including hair color, body type, and more.」（https://flair.ai/・1回目）
+  - 「Manage your brand assets in one place」（https://flair.ai/・1回目）
+  - 「FLAIR has developed expertise and service offerings unique among boutique agencies in Tokyo. We understand the importance of branding for the international luxury business, and we know how to take communications one step ahead with innovation and creativity.」（https://www.flairjapan.com/・3回目）
+  - 「マツダ・フレアは、スズキ「ワゴンR」のOEM車両として設定され、ブランドの軽自動車の主力車に」（https://carislife.hatenablog.com/entry/20260115/1768454663・3回目）
+  - 「2019 rebranding–present」（https://en.wikipedia.org/wiki/Flair_Airlines・3回目）
+  - 「In late 2017, Flair Air rebranded as」（https://en.wikipedia.org/wiki/Flair_Airlines・3回目）
+  - 「"ICAO Designators for Canadian Aircraft Operating Agencies, Aeronautical Authorities and Services"」（https://en.wikipedia.org/wiki/Flair_Airlines・3回目）
+  - 「Look for job openings posted by your local recruitment agencies, or our」（https://flair-staff.co.jp/english/・3回目）
+- 日本の担い手：
+  - 「FLAIR Inc. is a Tokyo-based independent boutique PR agency」（https://www.flairjapan.com/・3回目）
+  - 「株式会社フレアは、ラグジュアリーな旅、ファッション、ハイジュエリー、ビューティー、ライフスタイルを中心としたインターナショナルなクライアントに向け、PRやセールスプロモーションのコンサルティングを提供するブティックエージェンシーです」（https://www.flairjapan.com/・3回目）
+  - 「1997年から10年、株式会社ハウにてモナコ政府観光会議局のマーケティング＆セールスディレクターを務めた岡部昭子が2009年4月に設立しました」（https://www.flairjapan.com/・3回目）
+  - 「FLAIR provides tailored media strategies to each client and maintains direct and strong contacts not only with Japanese media, but also with influencers, celebrities and wealthy individuals.」（https://www.flairjapan.com/・3回目）
+  - 「FLAIR has developed expertise and service offerings unique among boutique agencies in Tokyo. We understand the importance of branding for the international luxury business, and we know how to take communications one step ahead with innovation and creativity.」（https://www.flairjapan.com/・3回目）
+  - 「東京都港区三田1－1－12」（https://www.flairjapan.com/・3回目）
+  - 「E-mail: info@flairjapan.com」（https://www.flairjapan.com/・3回目）
+  - 「Minato-ku, Tokyo 106-0045 Japan」（https://www.flairjapan.com/・3回目）
+  - 「Akiko OKABE has a strong passion in the luxury business. After graduating from Tokyo Woman’s Christian University, Akiko OKABE spent for two years studying at California State University of Los Angeles.」（https://www.flairjapan.com/・3回目）
+  - 「After working at Determined Productions K.K., one of the pioneer companies in the character licensing, she joined with How Inc. a prestigious boutique agency in Tokyo and took care of the account of Monaco Government Tourist & Convention Bureau for ten years. She established FLAIR Inc. in April 2009.」（https://www.flairjapan.com/・3回目）
+  - 「She also published a book called ‘Kokorowo Migaku Grace Kelly no Kotoba’ by assembling impressive quotes of Grace Kelly from Magazine House, one of the major publishers in Japan in September 2011.」（https://www.flairjapan.com/・3回目）
+  - 「キャラクターライセンスエージェンシーのパイオニア、ディターミンド・プロダクションK.K.にてキャラクターライセンスの経験を積む」（https://www.flairjapan.com/・3回目）
+- 規模・親会社：
+  - 「You will spearhead our sales-led motion to grow revenue. Our inbound sales motion has allowed us to recently start capturing mid-market value customers, and it’s now time to start doubling down and investing in an outbound sales motion so we can grow revenue even faster. Email」（https://flair.ai/careers・1回目）
+  - 「aircraft. The airline promotes itself as being Canada's leading independent value carrier.」（https://en.wikipedia.org/wiki/Flair_Airlines・3回目）
+  - 「. The airline continued to add these aircraft until delivery of a fifth aircraft in 2015. In January 2014, Flair acquired a VIP」（https://en.wikipedia.org/wiki/Flair_Airlines・3回目）
+  - 「Flair retained 85% of former NewLeaf staff in the acquisition,」（https://en.wikipedia.org/wiki/Flair_Airlines・3回目）
+  - 「, in which it unveiled a new magenta and blue livery, acquired additional aircraft, and announced plans to add more in 2018 and 2019. Two more 737-400s arrived at the airline in December 2017. In 2018, Flair moved its headquarters from」（https://en.wikipedia.org/wiki/Flair_Airlines・3回目）
+  - 「invested in Flair with the goal of building a Canadian low-fare carrier. In December 2018, Flair received three leased」（https://en.wikipedia.org/wiki/Flair_Airlines・3回目）
+  - 「in 2019 as a separately leased trio of 737-800s arrived at the airline.」（https://en.wikipedia.org/wiki/Flair_Airlines・3回目）
+  - 「, with plans to grow to 50 aircraft within 5 years. The first of these aircraft arrived in May 2021, with a total of 8 scheduled to arrive over the summer months. The remaining five were planned to arrive before 2022.」（https://en.wikipedia.org/wiki/Flair_Airlines・3回目）
+  - 「The Canadian Transportation Agency again reported that Flair had the highest numbers of complaints in the first quarter of 2023, with 20.9 complaints per 100 flights. Low-cost leisure carrier」（https://en.wikipedia.org/wiki/Flair_Airlines・3回目）
+  - 「received the second most complaints, with 17.4 complaints per 100 flights, while low-cost carrier」（https://en.wikipedia.org/wiki/Flair_Airlines・3回目）
+  - 「It includes destinations served after the airline began scheduled flights in 2017 following the acquisition of Canadian travel company」（https://en.wikipedia.org/wiki/Flair_Airlines・3回目）
+  - 「Harry Reid International Airport」（https://en.wikipedia.org/wiki/Flair_Airlines・3回目）
+- 連絡先：
+  - 「You are an AI artist who enthusiastically builds communities on Twitter, Instagram, Linkedin, Youtube, etc. Email」（https://flair.ai/careers・1回目）
+  - 「You will spearhead our sales-led motion to grow revenue. Our inbound sales motion has allowed us to recently start capturing mid-market value customers, and it’s now time to start doubling down and investing in an outbound sales motion so we can grow revenue even faster. Email」（https://flair.ai/careers・1回目）
+  - 「E-mail: info@flairjapan.com」（https://www.flairjapan.com/・3回目）
+- 検索結果の抜粋：
+  - 「Flair Japan — FLAIR provides tailored media strategies to each client and maintains direct and strong contacts not only with Japanese media, but also with influencers, celebrities and wealthy individuals.」（https://www.flairjapan.com/・3回目）
+  - 「常識を覆す！究極のエスプレッソメーカーが遂に日本上陸！「Flair 58x... — Nov 3, 2021 · 「Flair 58x」は、世界のトップバリスタが称賛する味わい実現し、業界標準である58mmポルタフィルターを搭載、更に高圧での抽出を容易にするT字 ...」（https://prtimes.jp/main/html/rd/p/000000006.000059496.html・3回目）
+  - 「flair58-plus2 – Flair Espresso Japan — Flair 58（電気式）の方は、予熱が非常に簡単です。 店舗導入をご検討の方、また温度管理にこだわりのある方はFlair 58（電気式）をおすすめ致します。 ※使い方の説明動画内では、蒸気での予熱を推奨しております。」（https://flairespresso.jp/pages/flair58-plus2・3回目）
+  - 「【マツダ新型フレア】マイナーチェンジ「新デザイン＆新安全装備採用... — Jan 15, 2026 · マツダが、軽自動車「フレア（FLAIR）」のマイナーチェンジ発売を2026年1月15日に発表しました。 価格は1,455,300円～ 1,939,300円となっています。 改良により魅力をアップしたマツダ新型フレアについて、スペックや価格などを詳しくご紹介します。」（https://carislife.hatenablog.com/entry/20260115/1768454663・3回目）
+  - 「Flair Airlines - Wikipedia — Flair Airlines is a Canadian airline [9] headquartered in Edmonton, Alberta. [10] The airline operates scheduled passenger and chartered services with a fleet of Boeing 737 aircraft. The airline promotes itself as being Canada's leading independent value carrier. [8]」（https://en.wikipedia.org/wiki/Flair_Airlines・3回目）
+  - 「Flair Japan — FLAIR has developed expertise and service offerings unique among boutique agencies in Tokyo. We understand the importance of branding for the international luxury business, and we know how to take communications one step ahead with innovation and creativity.」（https://www.flairjapan.com/・3回目）
+  - 「Flair Co., Ltd.｜About work in japan — At Flair, before you start working or even after you are dispatched to work in companies, we provide Japanese language training. Before going to Japan, we provide basic Japanese lessons, drills, vocabularies necessary for conversation, and also teach Japan culture, manner and ethics.」（https://flair-staff.co.jp/english/・3回目）
+  - 「Flair Espresso Japan（フレアエスプレッソジャパン公式） — FLAIR ESPRESSO MAKER（フレアエスプレッソメーカー）は、芳醇な香り、贅沢な苦味、濃厚な旨味、別次元のエスプレッソ体験をご提供致します。 全世界63ヶ国以上で販売、累計約285,000台出荷の実績。 世界中の「本物」を求めるお客様に愛されています。」（https://flairespresso.jp/・3回目）
+  - 「Flair Japan Spray Review: The Secret to Long-Lasting ... — Flair Japan Spray effectively removes odors and reduces wrinkles on various fabrics without washing, offering a lightweight, residue-free solution backed by scientific formulation and positive real-user experiences.」（https://www.aliexpress.com/s/wiki-ssr/article/flair-japan-spray・3回目）
+  - 「FLAIR JAPAN (81-3-5456-2555) | Japan Business Database — FLAIR JAPAN is a Japan company, located in 359-5 Mimase Aikawa-cho, Aiko-gun, Kanagawa, 243-0308. more detail is as below.」（https://jpn.bizdirlib.com/node/317003・3回目）
+  - 「Flair - Customer Case Study — Flair partnered with Progression Design (Design) to solve key challenges. "Flair - Customer Case Study" is their real-world success story.」（https://www.casestudies.com/company/progression-design/case-study/flair-customer-case-study・3回目）
+  - 「Flair Packaging Expands North American Capabilities & Capacity — "We saw an opportunity to help brands stay agile in the face of changing demand by integrating advanced material innovation with onshore manufacturing. Our goal has always been to make high-performance, value-added packaging solutions more accessible to the North American market."」（https://www.flairpackaging.com/post/flair-packaging-expands-north-american-capabilities-capacity・3回目）
+- 創業年度：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部37頁・検索12回）
+- 株主：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部37頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部37頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部37頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部37頁・検索12回）
+- 料金：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部37頁・検索12回）
 
 ## Flaviar
 - 公式URL：https://flaviar.com（given）
@@ -2569,6 +5594,364 @@
 - 所在地：記載なし（3回確認済み：公式20頁／PDF・画像0件／外部31頁・検索12回）
 - 料金：記載なし（3回確認済み：公式20頁／PDF・画像0件／外部31頁・検索12回）
 
+## Fleetworks
+- 公式URL：https://fleetworks.ai（given）
+- 株主：11-Oct-2023    Completed Generating Revenue（https://pitchbook.com/profiles/company/534574-54・3回目）
+- 株主：No funding（https://prospeo.io/c/fleetworks-revenue・3回目）
+- 売上高：$86,000（https://prospeo.io/c/fleetworks-revenue・3回目）
+- 所在地：330 Townsend St, 209, San Francisco, California 94107, US（https://prospeo.io/c/fleetworks-revenue・3回目）
+- 採用・広告の製品：
+  - 「Tell Sofia, your always-on operations assistant, where you'll be empty. She searches 30,000+ loads a day, puts your bid straight into the broker's system, and texts you the offers. You pick every load.」（https://www.fleetworks.ai/・1回目）
+  - 「Produce · 34°F」（https://www.fleetworks.ai/・1回目）
+  - 「The broker approved $2,350. Dallas, TX → Atlanta, GA, load #51348213」（https://www.fleetworks.ai/・1回目）
+  - 「At connected brokers, Sofia puts your bid straight into their system and their carrier desk approves it in Teams. Everywhere else, she calls and negotiates for you.」（https://www.fleetworks.ai/・1回目）
+  - 「“Leo Transportation · Highway verified · 4 prior loads on this lane · asking $2,350”」（https://www.fleetworks.ai/・1回目）
+  - 「Approved by the broker's carrier desk」（https://www.fleetworks.ai/・1回目）
+  - 「At connected brokers, your bid goes into their system and their desk approves it in Teams. Everywhere else, Sofia calls and waits on hold so you don't have to.」（https://www.fleetworks.ai/・1回目）
+  - 「Gets you the first call on hot loads」（https://www.fleetworks.ai/・1回目）
+  - 「no reply in 20 min, called the desk, approved」（https://www.fleetworks.ai/・1回目）
+  - 「“FleetWorks always helps bring good loads as soon as they're available.”」（https://www.fleetworks.ai/・1回目）
+  - 「“FleetWorks does a good job remembering my preferences and sending freight that matches.”」（https://www.fleetworks.ai/・1回目）
+  - 「Owner, The Right Price Delivery」（https://www.fleetworks.ai/・1回目）
+- 製造業の実績：
+  - 「We're a team of technologists and operators who are using AI to build at 10x speed. We've previously been a part of category-defining companies including」（https://www.fleetworks.ai/about・1回目）
+  - 「Trusted by leading investors」（https://www.fleetworks.ai/about・1回目）
+  - 「Success Stories about Software and Services used by FleetWorks」（https://www.casestudies.com/customer/fleetworks・3回目）
+  - 「Case Study: Fleetworks saves 100+ engineering hours per month with Vapi | CaseStudies.com」（https://www.casestudies.com/company/vapi/case-study/933-fleetworks-saves-100-engineering-hours-per-month-with-vapi・3回目）
+  - 「Case Study: Fleetworks saves 100+ engineering hours per month with Vapi」（https://www.casestudies.com/company/vapi/case-study/933-fleetworks-saves-100-engineering-hours-per-month-with-vapi・3回目）
+  - 「View this case study…」（https://www.casestudies.com/company/vapi/case-study/933-fleetworks-saves-100-engineering-hours-per-month-with-vapi・3回目）
+  - 「Was it helpful? Rate this case study:」（https://www.casestudies.com/company/vapi/case-study/933-fleetworks-saves-100-engineering-hours-per-month-with-vapi・3回目）
+  - 「Rate This Customer Case Study」（https://www.featuredcustomers.com/vendor/fleetworks・3回目）
+  - 「Case Study: Fleetworks reclaims 100+ engineering hours a month with Vapi · Case Study Desk」（https://www.casestudydesk.com/case-study/fleetworks-vapi-100-engineering-hours・3回目）
+  - 「Sourced & dated by Case Study Desk」（https://www.casestudydesk.com/case-study/fleetworks-vapi-100-engineering-hours・3回目）
+- 再販・ホワイトラベル：
+  - 「車両・運行管理システムのOEM提供｜フリートDX｜FLEETWORKS」（https://www.fleetworks.jp/・3回目）
+- 日本の担い手：
+  - 「FleetWorks フリートワークスとは トラックの荷物探しと運賃交渉のAI｜使い方・料金・日本語対応」（https://eeai.tv/tools/fleetworks・3回目）
+  - 「FleetWorksの日本語対応は確認できていません」（https://eeai.tv/tools/fleetworks・3回目）
+  - 「YC の会社ページに本人が掲載している情報（日本語訳は AI 翻訳」（https://ycpedia.com/companies/fleetworks・3回目）
+  - 「この記事では、株式会社モーションが提供を開始した、SaaS型の車両管理システム「FLEETWORKS(フリートワークス)」について紹介しています」（https://iotbiz.jp/y7vcdtpgy/・3回目）
+  - 「株式会社モーションは、社用車運用の最適化・コスト削減を実現するSaaS型の車両管理システム「FLEETWORKS(フリートワークス)」を開発し、β版の無料提供を開始されました」（https://iotbiz.jp/y7vcdtpgy/・3回目）
+  - 「IoTBiz編集部は、京都の通信事業者・株式会社CoeNovaが運営するIoT・通信・AI専門メディアの編集チームです」（https://iotbiz.jp/y7vcdtpgy/・3回目）
+- 規模・親会社：
+  - 「FleetWorks | AI-Powered Freight Automation for Carriers & Brokers」（https://www.fleetworks.ai/・1回目）
+  - 「At connected brokers, Sofia puts your bid straight into their system and their carrier desk approves it in Teams. Everywhere else, she calls and negotiates for you.」（https://www.fleetworks.ai/・1回目）
+  - 「Broker's carrier desk pinged in Teams」（https://www.fleetworks.ai/・1回目）
+  - 「Approved by the broker's carrier desk」（https://www.fleetworks.ai/・1回目）
+  - 「Offer texted to the carrier」（https://www.fleetworks.ai/・1回目）
+  - 「Rate con sent to the carrier's email. Check-in set for 1:00 PM.」（https://www.fleetworks.ai/・1回目）
+  - 「carriers on FleetWorks」（https://www.fleetworks.ai/・1回目）
+  - 「Offers arrive by text with the rate, miles, and pickup window. Reply to accept, counter, or pass.」（https://www.fleetworks.ai/・1回目）
+  - 「Yes. FleetWorks is free for carriers during Early Access. When paid plans launch, you'll get at least 30 days' notice.」（https://www.fleetworks.ai/・1回目）
+  - 「FleetWorks works with carriers from one truck to 5,000. Whether you run your business out of Gmail, Google Sheets, or a full TMS, we integrate seamlessly with your existing workflow.」（https://www.fleetworks.ai/・1回目）
+  - 「Every carrier on our platform gets a dedicated U.S.-based relationship manager. If you have questions or need extra help, we're always here for you. Call or text us at +1 (872) 328-5278 or email us at carrier-ops@fleetworks.ai any time.」（https://www.fleetworks.ai/・1回目）
+  - 「With FleetWorks + SONAR, we're enabling brokers and carriers to close the loop faster than the competition. The right rate gets finalized faster, a known and vetted carrier is chosen, and the load moves more seamlessly. People can get back to building relationships and solving complex problems.」（https://www.fleetworks.ai/partners/sonar・1回目）
+- 連絡先：
+  - 「Done, it's booked. The rate con from the broker is in your email.」（https://www.fleetworks.ai/・1回目）
+  - 「Rate con sent to the carrier's email. Check-in set for 1:00 PM.」（https://www.fleetworks.ai/・1回目）
+  - 「When the broker says yes, the load is booked and the rate con lands in your email.」（https://www.fleetworks.ai/・1回目）
+  - 「If a broker goes quiet, she follows up by email, text, or phone until you get a yes or a no.」（https://www.fleetworks.ai/・1回目）
+  - 「Every carrier on our platform gets a dedicated U.S.-based relationship manager. If you have questions or need extra help, we're always here for you. Call or text us at +1 (872) 328-5278 or email us at carrier-ops@fleetworks.ai any time.」（https://www.fleetworks.ai/・1回目）
+  - 「When a load becomes available in the broker's TMS, FleetWorks AI agents get to work. In this tight market our agents handle inbound carrier calls and emails. With 29,000+ carriers actively covering their trucks on FleetWorks, our agents also know which carrier is most likely to cover the load. By default, every carrier is vetted against a broker's rules first.」（https://www.fleetworks.ai/partners/sonar・1回目）
+  - 「Booking a single truckload of freight can require over a hundred phone calls and emails. Every day, trucking companies and freight brokers waste millions of hours clarifying details, negotiating prices, and waiting on hold.」（https://www.fleetworks.ai/about・1回目）
+  - 「Contact us today to take control of your profile for」（https://www.featuredcustomers.com/vendor/fleetworks・3回目）
+  - 「Contact us today for pricing options to add your customer」（https://www.featuredcustomers.com/vendor/fleetworks・3回目）
+  - 「Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.」（https://pitchbook.com/profiles/company/534574-54・3回目）
+  - 「Build leads list with verified emails & mobiles」（https://prospeo.io/c/fleetworks-revenue・3回目）
+- 検索結果の抜粋：
+  - 「車両・運行管理システムのOEM提供｜フリートDX｜FLEETWORKS — 他システムと連携ではなく、どちらも弊社が提供するシステムのため、ご要望に合わせた柔軟なカスタマイズが可能であり、「FLEETWORKS」ともストレスなく連携することが可能です。」（https://www.fleetworks.jp/・3回目）
+  - 「FleetWorks（フリートワークス）とは？トラックの荷物探しと運賃交渉... — FleetWorksとは アメリカの運送会社やドライバー向けのAIで、走る区間と車両を登録すると、代わりにブローカーへ電話して運賃を交渉し、条件の決まった仕事を届けます。」（https://eeai.tv/tools/fleetworks・3回目）
+  - 「FleetWorks | YCpedia — FleetWorksはこの状況を変える。 現在の混沌としたfreight marketを、現代的でインテリジェントなmarketplaceへと変革する。 AI agentsが無数の電話、テキストメッセージ、メールに代わり、仕事とトラックを瞬時にマッチングする。」（https://ycpedia.com/companies/fleetworks・3回目）
+  - 「【モーション】SaaS型の車両管理システム「FLEETWORKS(フリートワーク... — Dec 21, 2023 · 株式会社モーションは、社用車運用の最適化・コスト削減を実現するSaaS型の車両管理システム「FLEETWORKS (フリートワークス)」を開発し、β版の無料提供を開始されました。 FLEETWORKSは、社用車など事業用車両を保有されている法人向けのサービスです。」（https://iotbiz.jp/y7vcdtpgy/・3回目）
+  - 「FleetWorks | 貨物仲介自動化のためのAI搭載運送業者担当者 - ToolMag... — FleetWorksで貨物仲介業務を自動化しましょう。 当社のAI運送業者担当者が24時間365日、運送業者を審査し、料金を交渉し、コミュニケーションを処理して、時間とコストを節約します。 あなたの仲介業務を自動操縦モードに設定してください。」（https://www.toolmage.com/ja/tool/fleetworks/・3回目）
+  - 「FleetWorks | AI-Powered Freight Automation for Carriers & Brokers — FleetWorks uses AI to automate freight matching, carrier communication, and load booking. Join thousands of drivers finding high-paying loads faster.」（https://www.fleetworks.ai/・3回目）
+  - 「お問い合わせ｜FLEETWORKS｜フリートワークス — FLEETWORKS（フリートワークス）のお問い合わせページです。 まずはお気軽にお問い合わせください。」（https://www.fleetworks.jp/contact/・3回目）
+  - 「www.fleetworks.ai — www.fleetworks.ai」（https://www.fleetworks.ai/jobs・3回目）
+  - 「B2B Case Studies: How FleetWorks Uses Software & Services — Explore case studies featuring FleetWorks as the customer — learn how vendors and partners helped FleetWorks solve real business challenges.」（https://www.casestudies.com/customer/fleetworks・3回目）
+  - 「Case Study: Fleetworks saves 100+ engineering hours per month ... — Fleetworks, an AI agent builder for the transportation industry, faced a significant challenge when no suitable voice infrastructure existed for their needs, forcing them to build from scratch.」（https://www.casestudies.com/company/vapi/case-study/933-fleetworks-saves-100-engineering-hours-per-month-with-vapi・3回目）
+  - 「8 FleetWorks Customer Reviews & References | FeaturedCustomers — Read 8 FleetWorks reviews and testimonials from customers, explore case studies and customer success stories, and watch customer videos to see why companies chose FleetWorks as their Logistics Software」（https://www.featuredcustomers.com/vendor/fleetworks・3回目）
+  - 「Case Study: Fleetworks reclaims 100+ engineering hours a ... — Jul 30, 2026 · Fleetworks chose Vapi for its API-first approach, the ability to bring custom transcription and LLM models, and natural interruption handling. Vapi's team worked with Fleetworks to fine-tune mid-sentence interruption handling.」（https://www.casestudydesk.com/case-study/fleetworks-vapi-100-engineering-hours・3回目）
+- 創業年度：記載なし（3回確認済み：公式3頁／PDF・画像3件／外部41頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式3頁／PDF・画像3件／外部41頁・検索12回）
+- 料金：記載なし（3回確認済み：公式3頁／PDF・画像3件／外部41頁・検索12回）
+
+## Flexengage
+- 公式URL：https://www.flexengage.com（given）
+- 採用・広告の製品：
+  - 「Post-Purchase Marketing & Digital Receipts | flexEngage」（https://www.flexengage.com/・1回目）
+  - 「Post-purchase marketing」（https://www.flexengage.com/・1回目）
+  - 「flexEngage turns every transaction into loyal, returning customers, protects every interaction from fraud and friction, and turns every insight into a smarter business decision.」（https://www.flexengage.com/・1回目）
+  - 「Trusted by enterprise retail」（https://www.flexengage.com/・1回目）
+  - 「Targeted offers and content on printed, in-store receipts.」（https://www.flexengage.com/・1回目）
+  - 「Actionable Insights analyzes receipt-level activity and delivers AI-driven recommendations on what to promote, who to target, and when.」（https://www.flexengage.com/・1回目）
+  - 「Personalized printed receipts」（https://www.flexengage.com/paper-receipt-inserts/・1回目）
+  - 「Personalized offers on printed receipts, so the customers who prefer paper get the same experience as those who go digital.」（https://www.flexengage.com/paper-receipt-inserts/・1回目）
+  - 「We help retailers build a personalization strategy optimized for customer loyalty and future conversions. For customers who prefer a paper receipt, Paper Receipt Inserts let you include personalized content and drive immediate action, like signing up for loyalty or reviewing their store experience.」（https://www.flexengage.com/paper-receipt-inserts/・1回目）
+  - 「You can tailor what appears on the printed receipt by purchasing behavior, loyalty membership or store location. The right content shows at the right time, for higher engagement and more return customers.」（https://www.flexengage.com/paper-receipt-inserts/・1回目）
+  - 「: Timely coupons and promotions based on shopper interests and purchase behavior」（https://www.flexengage.com/paper-receipt-inserts/・1回目）
+  - 「: Barcodes, QR codes and promo codes for easy redemption in store or online」（https://www.flexengage.com/paper-receipt-inserts/・1回目）
+- 製造業の実績：
+  - 「Trusted by enterprise retail」（https://www.flexengage.com/・1回目）
+  - 「Trusted by enterprise retail」（https://www.flexengage.com/paper-receipt-inserts/・1回目）
+  - 「Trusted by enterprise retail」（https://www.flexengage.com/customers/・1回目）
+  - 「In this way, by utilizing the characteristics of digital media, receipts can be used not just as simple receipts, but also for improving user experience and marketing. According to information from businesswire, flexEngage's electronic receipt solution is used by global apparel retailers such as SNIPES, and it is reported that」（https://note.com/ttec_cvc/n/ne955a1548353?hl=en・3回目）
+  - 「is a company that provides cloud platforms and warehouse management system back-office solutions for retail. As one of the functions of its POS software, it makes it」（https://note.com/ttec_cvc/n/ne955a1548353?hl=en・3回目）
+- 日本の担い手：
+  - 「In Japan, the Ministry of Economy, Trade and Industry is actively promoting the use of electronic receipts as one of its initiatives for "」（https://note.com/ttec_cvc/n/ne955a1548353?hl=en・3回目）
+  - 「In this article, to better visualize a society where electronic receipts have permeated, let's look at trends in the United States, where the adoption of electronic receipts is further ahead than in Japan.」（https://note.com/ttec_cvc/n/ne955a1548353?hl=en・3回目）
+  - 「In the United States, Apple was quick to adopt electronic receipts, and a system for issuing electronic receipts to customers via email has become established. Many people in Japan who are Apple users may also be accustomed to receiving electronic receipts.」（https://note.com/ttec_cvc/n/ne955a1548353?hl=en・3回目）
+- 規模・親会社：
+  - 「flexEngage Revenue 2021: $2.9M」（https://getlatka.com/companies/flexengage・3回目）
+  - 「revenue & acquisition」（https://getlatka.com/companies/flexengage・3回目）
+  - 「flexEngage was acquired by Klarna.」（https://getlatka.com/companies/flexengage・3回目）
+  - 「flexEngage's annual revenue was $2.9M in January 2021, its last figure before Klarna bought it (source not recorded).」（https://getlatka.com/companies/flexengage・3回目）
+  - 「flexEngage CEO, founders & employees」（https://getlatka.com/companies/flexengage・3回目）
+  - 「Tomas Diaz founded flexEngage in 2016 and led it as CEO. flexEngage had 30 employees (January 2021).」（https://getlatka.com/companies/flexengage・3回目）
+  - 「What was flexEngage's revenue?」（https://getlatka.com/companies/flexengage・3回目）
+  - 「Before Klarna bought it, flexEngage's annual revenue was」（https://getlatka.com/companies/flexengage・3回目）
+  - 「How many employees does flexEngage have?」（https://getlatka.com/companies/flexengage・3回目）
+  - 「employees in January 2021.」（https://getlatka.com/companies/flexengage・3回目）
+  - 「Companies with revenue over 50M」（https://getlatka.com/companies/flexengage・3回目）
+  - 「Large teams with 100+ employees」（https://getlatka.com/companies/flexengage・3回目）
+- 連絡先：
+  - 「Real-time email, phone, and address verification at checkout.」（https://www.flexengage.com/・1回目）
+  - 「Captured 75% of customer emails at the point of sale and built a post-sale journey that drove an ROI of over 400%.」（https://www.flexengage.com/customers/・1回目）
+  - 「Digital receipts gathered valid email addresses without the stigma of sign-up incentives, protecting a luxury brand.」（https://www.flexengage.com/customers/・1回目）
+  - 「In the United States, Apple was quick to adopt electronic receipts, and a system for issuing electronic receipts to customers via email has become established. Many people in Japan who are Apple users may also be accustomed to receiving electronic receipts.」（https://note.com/ttec_cvc/n/ne955a1548353?hl=en・3回目）
+  - 「began providing businesses using Hypercom payment terminals with the ability to transition from paper receipts to email receipts」（https://note.com/ttec_cvc/n/ne955a1548353?hl=en・3回目）
+- 検索結果の抜粋：
+  - 「Post-Purchase Marketing & Digital Receipts | flexEngage — Turn every receipt and order message into a marketing channel. flexEngage helps brand-driven retailers reduce churn and trigger the next purchase.」（https://www.flexengage.com/・3回目）
+  - 「Technology & Integration Partners | flexEngage — Meet the flexEngage partner ecosystem: integration and technology partners that extend the value of your post-purchase marketing program.」（https://www.flexengage.com/partners-all/・3回目）
+  - 「App Connect の使い方 flexEngage - IBM — flexEngage は、パーソナライズされた取引コミュニケーションを可能にするクラウドベースの電子領収書ソリューションである。」（https://www.ibm.com/docs/ja/ace-ipaas?topic=apps-flexengage・3回目）
+  - 「FlexEngage (formerly flexReceipts)｜STARTUP DB（スタートアップデ... — FlexEngage (formerly flexReceipts) 製造 ビジネスサポート 精密機械 マーケティング 半導体 CRM EC AI SaaS AIデータ分析・予測 ビッグデータ SalesTech B2B ラウンド 有料オプション限定」（https://startup-db.com/global-companies/6VnQE1VHovrYNavK・3回目）
+  - 「flexEngage ポリシー | IBM App Connect Enterprise 12.0.x — メッセージフロー内で flexEngage リクエスト ノードを使用すると、アプリケーション flexEngage に IBM® App Connect Enterprise 接続し、注文イベント、バックオーダーイベント、FTC遅延注文イベントなどのオブジェクトを作成または取得するリクエストを発行できます。 ポリシー flexEngage は、実行時に ...」（https://www.ibm.com/docs/ja/SSTTDS_12.0/com.ibm.etools.mft.doc/flexEngagepolicy.html・3回目）
+  - 「Careers at flexEngage | Join Our Team — Explore careers at flexEngage and help brand-driven retailers turn every transaction into a personalized marketing moment. View open roles.」（https://www.flexengage.com/careerswithflexengage/・3回目）
+  - 「flexEngage - LinkedIn — flexEngage is the leading provider of personalized transactional communications for retailers, enabling brands like Under Armour, GNC, DXL, and 5.11 Tactical to transform standard transactional ...」（https://www.linkedin.com/company/flexengage・3回目）
+  - 「flexEngage - 2026 Company Profile, Team, Funding ... - Tracxn — Jan 30, 2026 · Explore flexEngage's in-depth company profile, including funding details, key investors, leadership, and competitors.」（https://tracxn.com/d/companies/flexengage/__WKg5JPZ-GcZWEhhBRGUP5-KnSs2Rk4l41qVnjVg7mhA・3回目）
+  - 「flexEngage – Financials, Industry Trends & Funding Info – 2026 — According to data, flexEngage has estimated revenue of $730.9K, team of around 10+ employees, centered in Orlando, with ongoing milestones reached.」（https://compworth.com/company/flexengage・3回目）
+  - 「flexEngage - 2026 Company Profile, Team, Funding ... - TracxnflexEngage: Funding, Team & Investors | Startup IntrosflexEngage Revenue 2021: $2.9M ARR - LATKAflexEngage — investors & funding | gritt.ioflexEngage 2026 Company Profile: Valuation, Investors ...How flexEngage hit $2.9M revenue with a 30 person team in 2021. — Jan 30, 2026 · flexEngage is an acquired company based in Orlando (United Sta」（https://tracxn.com/d/companies/flexengage/__WKg5JPZ-GcZWEhhBRGUP5-KnSs2Rk4l41qVnjVg7mhA・3回目）
+  - 「flexEngage: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Frequently Asked Questions Who founded flexEngage? flexEngage was founded in 2014 by Jay Patel (Founder) and Tomas Diaz (Founder/CEO). How much funding has flexEngage raised? flexEngage has raised $7.4M in total across 2 funding rounds. Who are flexEngage's investors?」（https://startupintros.com/orgs/flexengage・3回目）
+  - 「flexEngage Revenue 2021: $2.9M ARR - LATKA — Aug 10, 2026 · flexEngage 2021 revenue: $2.9M ARR. 30 employees. Industry: Package Tracking Software. Founded 2016. HQ: United States Updated Aug 10, 2026.」（https://getlatka.com/companies/flexengage・3回目）
+- 創業年度：記載なし（3回確認済み：公式4頁／PDF・画像4件／外部30頁・検索12回）
+- 株主：記載なし（3回確認済み：公式4頁／PDF・画像4件／外部30頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像4件／外部30頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像4件／外部30頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式4頁／PDF・画像4件／外部30頁・検索12回）
+- 料金：記載なし（3回確認済み：公式4頁／PDF・画像4件／外部30頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式4頁／PDF・画像4件／外部30頁・検索12回）
+
+## Flintk12
+- 公式URL：https://www.flintk12.com/（given）
+- 採用・広告の製品：
+  - 「Mix up what goes into the light reactions and what comes out; CO₂ and oxygen get swapped under pressure.」（https://flintk12.com/・1回目）
+  - 「A five-minute mini-lesson on gas exchange, then a reworked practice set for the six who swapped the gases.」（https://flintk12.com/・1回目）
+  - 「"Using Flint for review for the end-of-unit test was optional, but all but two students chose to use it. Their performance on the test was noticeably higher than in previous years, so what I did with Flint definitely had an impact."」（https://flintk12.com/・1回目）
+  - 「"Students can have conversations that prod their thinking and push their comprehension. They receive instant feedback on their work which is both encouraging and constructive, enabling them to make targeted improvements. And - they love it!"」（https://flintk12.com/・1回目）
+  - 「"I tried chatting in spoken Spanish, and Flint could roleplay and understand everything. It’s amazing how well it can keep asking deeper and deeper questions based on the initial prompt. A revolutionary tool for language learning!"」（https://flintk12.com/・1回目）
+  - 「“Flint supports me in implementing differentiated instruction because I can have students getting feedback on an assignment while the rest of the class is practicing their conversational skills.”」（https://flintk12.com/・1回目）
+  - 「"Flint has been invaluable for introducing new concepts and assessing student understanding. My high flyers love how they can deep-dive into course content with an AI expert. Other students who need more attention can get a one-on-one tutor."」（https://flintk12.com/・1回目）
+  - 「"After a recent essay, one of my students said that the essay drafting tool in Flint was like having me there throughout the writing process. Flint functions as an assistant for, rather than a replacement of, students' writing."」（https://flintk12.com/・1回目）
+  - 「"Flint allows me to create advisory lessons for teachers to model proper use of Flint in their educational journey [to] instill a structured environment to walk through how to use the tool for their own writing feedback."」（https://flintk12.com/・1回目）
+  - 「"We have rolled out Flint to our staff and students as their personal tutor. This has allowed students to gain additional support as well as provided teachers with “Additional hands” in the classroom."」（https://flintk12.com/・1回目）
+  - 「"The "Study Schedule Builder" had 30 sessions during exam season. Students chose to use it because it personalized their study approach based on their confidence levels, and learning preferences."」（https://flintk12.com/・1回目）
+  - 「"Flint was mostly employed by students as an easy-to-reach one-on-one tutor. The fast, non-judgmental comments helped them swiftly improve their writing and coding tasks."」（https://flintk12.com/・1回目）
+- 製造業の実績：
+  - 「It absorbs light so the plant can make sugar, right?」（https://flintk12.com/・1回目）
+  - 「AI policies from real schools, used by thousands of teachers to develop guidelines, learn about responsible use, and set guardrails for student AI use.」（https://flintk12.com/・1回目）
+  - 「AI policies from real schools, used by thousands of teachers to develop guidelines, learn about responsible use, and set guardrails for pupil AI use.」（https://flintk12.com/・1回目）
+  - 「Trusted by schools worldwide:」（https://flintk12.com/pricing・1回目）
+  - 「Flint can be used by students of any age, including students under 13 (unlike ChatGPT). Schools typically roll out Flint in grades 3 and up.」（https://flintk12.com/pricing・1回目）
+  - 「Flint can be used by pupils of any age, including pupils under 13 (unlike ChatGPT). Schools typically roll out Flint from Year 4.」（https://flintk12.com/pricing・1回目）
+  - 「Philip Vinogradov has been the Director of Innovation, Teaching, and Learning at Merion Mercy for the past four years. He has been Flint’s main point of contact throughout the partnership, and we interviewed him to get the bulk of the information provided in this case study.」（https://flintk12.com/blog/merion-mercy-academy-case-study・1回目）
+  - 「Case Study: Flint K12: Revving Up EdTech with Generative AI (English version) | Ivey Publishing」（https://www.iveypublishing.ca/s/product/flint-k12-revving-up-edtech-with-generative-ai/01tOF000009k5txYAA・3回目）
+- 日本の担い手：
+  - 「Here’s an example of a Japanese writing practice interaction.」（https://help.aobajapan.jp/a-jis-ict/working-version/staff/flintk12-how-to-get-started・3回目）
+  - 「Level 1_ Beginner Japanese Practice _ Flint.pdf」（https://help.aobajapan.jp/a-jis-ict/working-version/staff/flintk12-how-to-get-started・3回目）
+  - 「日本語や特定の教科への対応状況は導入前にサポートに問い合わせることを推奨します」（https://mifar.net/ja/tools/flint・3回目）
+- 規模・親会社：
+  - 「"After finishing our narrative writing unit, I uploaded my editing checklist into Flint. I have never seen my students so engaged in editing. I had initially put a 30 minute time-limit on the assignment, but my students begged me to extend it. Wow!"」（https://flintk12.com/・1回目）
+  - 「Flint is part of the UK government's AI Tutoring Tools Pioneers Programme.」（https://flintk12.com/case-studies・1回目）
+  - 「Funding shouldn't be a barrier.」（https://flintk12.com/pricing・1回目）
+  - 「I especially like the “in partnership with kids” part you mentioned because sometimes students feel like they are just told what to do rather than being a part of the change.」（https://flintk12.com/blog/merion-mercy-academy-case-study・1回目）
+  - 「That's no different here. I think a much more productive conversation is one that's underpinned with optimism and a mindset of “if you can't beat it, join it”. I think that is a much more fertile ground for discussion, opportunity, and professional collaboration, which is what you would want as part of any professional development experience.」（https://flintk12.com/blog/the-york-school-case-study・1回目）
+  - 「Flint is part of the UK government's AI Tutoring Tools Pioneers Programme.」（https://flintk12.com/book-a-demo・1回目）
+  - 「Flint Revenue 2024: $2M Est.」（https://getlatka.com/companies/flintk12.com・3回目）
+  - 「Flint has not published its revenue. GetLatka estimates it at about $2M a year (June 2024).」（https://getlatka.com/companies/flintk12.com・3回目）
+  - 「Flint CEO, founders & employees」（https://getlatka.com/companies/flintk12.com・3回目）
+  - 「Sohan Choudhury founded Flint in 2023 and runs it as CEO. Flint had 6–13 employees (June 2024, LinkedIn).」（https://getlatka.com/companies/flintk12.com・3回目）
+  - 「What is Flint's revenue?」（https://getlatka.com/companies/flintk12.com・3回目）
+  - 「GetLatka estimates Flint's revenue at about」（https://getlatka.com/companies/flintk12.com・3回目）
+- 連絡先：
+  - 「The school plan is priced by number of users (see the plans above) and billed annually or month to month. For a quote, email」（https://flintk12.com/pricing・1回目）
+  - 「sales@flintk12.com」（https://flintk12.com/pricing・1回目）
+  - 「Any teacher can use Flint for free today. To trial the school plan with early adopters, email」（https://flintk12.com/pricing・1回目）
+  - 「We jump on a call with teachers within minutes an email is sent, iterate for days, and have a solution in weeks. You can see that in action」（https://flintk12.com/careers・1回目）
+- 検索結果の抜粋：
+  - 「Flintk12: How to get started? | AOBA Help Center — https://www.flintk12.com/ Flint is an AI-powered learning platform designed for K-12 classrooms. Video: How to get started for students! Features: It helps tea…」（https://help.aobajapan.jp/a-jis-ict/working-version/staff/flintk12-how-to-get-started・3回目）
+  - 「High school - flintk12.com — Explore how high school teachers across subjects from English to Science to Ethics are using Flint to drive personalized tutoring and AI learning for students.」（https://flintk12.com/high-school・3回目）
+  - 「Flint | K-12学校向けオールインワンAIプラットフォーム - ToolMage — flintk12 Overview Flintは、世界中のK-12学校、教師、生徒の独自のニーズに応えるためにゼロから構築された、包括的なオールインワンAI教育プラットフォームです。」（https://www.toolmage.com/ja/tool/flintk12/・3回目）
+  - 「Flint - 全製品 — ドメイン「flintk12.com」が示す通り、主に小中高校の教育現場での活用を想定しており、教師の指導負担を軽減しつつ、生徒の理解度に応じた個別指導を実現します。」（https://mifar.net/ja/tools/flint・3回目）
+  - 「Case studies - flintk12.com — Deep dive into topics important to AI for education, read collaborative thought leadership pieces, and explore case studies on successful implementations.」（https://flintk12.com/case-studies・3回目）
+  - 「Business Ethics Case Study Analysis | Flint - app.flintk12.com — Explore real-world business ethics dilemmas through case studies. Analyze different perspectives, identify ethical issues, and develop your own reasoned positions on complex business decisions.」（https://app.flintk12.com/activities/business-ethics-ec560c・3回目）
+  - 「Case Study: Flint K12: Revving Up EdTech with Generative AI ... — Sep 19, 2025 · The AI-based education technology (edtech) start-up Flint Inc. (Flint), based in San Francisco, faced competitive pressures as well as heightened customer interest at this time.」（https://www.iveypublishing.ca/s/product/flint-k12-revving-up-edtech-with-generative-ai/01tOF000009k5txYAA・3回目）
+  - 「Flint - Crunchbase Company Profile & FundingFlint (Educational Software) 2026 Company Profile: Valuation ...Flint - 2026 Company Profile, Team, Funding & Competitors ...Flint Funding | $2M Revenue | Complete Analysis | Extruct AI — Flintk12 Inc. is a pioneering AI platform tailored for educational institutions. The platform recognizes the transformative potential of AI in education and bridges the」（https://www.crunchbase.com/organization/flintk12・3回目）
+- 創業年度：記載なし（3回確認済み：公式8頁／PDF・画像4件／外部32頁・検索12回）
+- 株主：記載なし（3回確認済み：公式8頁／PDF・画像4件／外部32頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式8頁／PDF・画像4件／外部32頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式8頁／PDF・画像4件／外部32頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式8頁／PDF・画像4件／外部32頁・検索12回）
+- 料金：記載なし（3回確認済み：公式8頁／PDF・画像4件／外部32頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式8頁／PDF・画像4件／外部32頁・検索12回）
+
+## Floatpays
+- 公式URL：https://www.floatpays.com（given）
+- 創業年度：Founded：2019（https://prospeo.io/c/floatpays-revenue・3回目）
+- 株主：$989,200（https://prospeo.io/c/floatpays-revenue・3回目）
+- 売上高：$62,000（https://prospeo.io/c/floatpays-revenue・3回目）
+- 所在地：Cape Town, Western Cape, South Africa（https://prospeo.io/c/floatpays-revenue・3回目）
+- 採用・広告の製品：
+  - 「Industry-leading solutions in one powerful product: automated savings, earned wage access, pension-backed home loans, employee rewards, seamless communications, and financial wellness tools」（https://www.floatpays.com/・1回目）
+  - 「Empower your employees to build a strong financial cushion, reducing stress and fuelling higher engagement and productivity.」（https://www.floatpays.com/・1回目）
+  - 「Inspire and motivate your employees by recognising their efforts, creating a thriving culture of appreciation for work well done」（https://www.floatpays.com/・1回目）
+  - 「Provide your employees with the knowledge and tools they need to budget, plan, and achieve their financial aspirations」（https://www.floatpays.com/・1回目）
+  - 「From day one, our collaborative approach ensures a smooth rollout, guiding you through every step with personalised technical support, a customised launch strategy, and dedicated employee activation. We handle employee onboarding, training, marketing, and more, so you can focus on what matters most:」（https://www.floatpays.com/・1回目）
+  - 「Comprehensive support」（https://www.floatpays.com/・1回目）
+  - 「We hold key accreditations that underscore our commitment to compliance, excellence and professionalism」（https://www.floatpays.com/・1回目）
+  - 「Authorised financial services provider under the Financial Advisory and Intermediary Services Act (Act No. 37 of 2002) Licence number: FSP 52120」（https://www.floatpays.com/・1回目）
+  - 「Registered credit provider in terms of the National Credit Act. Registration number: NCRCP 16757」（https://www.floatpays.com/・1回目）
+  - 「Registered in terms of the National Payments System Act, 1998, as a Third-Party Payments Provider (PASA)」（https://www.floatpays.com/・1回目）
+  - 「Registered with the Information Regulator, in terms of Section 55(2) of the Protection of Personal Information Act 4 of 2013 (POPIA)」（https://www.floatpays.com/・1回目）
+  - 「Thank you! Our sales team will reach out to you soon to introduce you to our exceptional product.」（https://www.floatpays.com/・1回目）
+- 製造業の実績：
+  - 「did joining Founders Factory Africa inspire you to launch Floatpays in 2019?」（https://finca.org/meet-the-entrepreneur-simon-ward-floatpays・3回目）
+- 規模・親会社：
+  - 「We empower your employees to thrive」（https://www.floatpays.com/・1回目）
+  - 「Empower your employees to build a strong financial cushion, reducing stress and fuelling higher engagement and productivity.」（https://www.floatpays.com/・1回目）
+  - 「Give your employees the financial freedom they deserve, while saying goodbye to the complexities of managing loans and salary advances. Let's put an end to payday lending and bad credit.」（https://www.floatpays.com/・1回目）
+  - 「Enable your employees to build or renovate their dream home with confidence, securing their future while helping them to build a strong credit score through loan repayment.」（https://www.floatpays.com/・1回目）
+  - 「Inspire and motivate your employees by recognising their efforts, creating a thriving culture of appreciation for work well done」（https://www.floatpays.com/・1回目）
+  - 「Provide your employees with the knowledge and tools they need to budget, plan, and achieve their financial aspirations」（https://www.floatpays.com/・1回目）
+  - 「Employees enjoy all these great benefits without any mandatory costs, hidden fees or interest rates」（https://www.floatpays.com/・1回目）
+  - 「Through the Floatpays employer portal, over 1,000 of Standard Bank's business clients can securely access monthly deduction reports and upload payroll schedules for their employees' pension-backed home loans, all powered by our advanced deduction and collections engine.」（https://www.floatpays.com/partners-integrations・1回目）
+  - 「By working directly with employers or partnering with financial institutions and their employer networks, we empower employees with flexible pay, provide simple ways to save, enable asset-backed home loans, and equip all employees with the knowledge and tools to take control of their financial future.」（https://www.floatpays.com/more-info/about・1回目）
+  - 「• Payroll reminders arrive in your inbox.」（https://apps.apple.com/jp/app/moneyclub/id1488315695・3回目）
+  - 「Thanks for being part of the club. Keep saving with purpose!」（https://apps.apple.com/jp/app/moneyclub/id1488315695・3回目）
+  - 「Floatpays offers early wage access to employees as its core product. How does the company bundle this with savings and financial education to revolutionize the way workers improve their financial well-being?」（https://finca.org/meet-the-entrepreneur-simon-ward-floatpays・3回目）
+- 連絡先：
+  - 「Something went wrong while submitting the form. Please try again or reach out directly to our team at hello@floatpays.co.za」（https://www.floatpays.com/・1回目）
+  - 「Something went wrong while submitting the form. Please try again or reach out directly to our team at hello@floatpays.co.za」（https://www.floatpays.com/partners-integrations・1回目）
+  - 「Something went wrong while submitting the form. Please try again or reach out directly to our team at hello@floatpays.co.za」（https://www.floatpays.com/more-info/about・1回目）
+  - 「• Club invites — invite members by phone number or email, or pick them straight from your contacts. No more sharing links by hand.」（https://apps.apple.com/jp/app/moneyclub/id1488315695・3回目）
+  - 「Build leads list with verified emails & mobiles」（https://prospeo.io/c/floatpays-revenue・3回目）
+- 検索結果の抜粋：
+  - 「Floatpays - The ultimate employee benefits platform — At Floatpays, we deliver market-leading financial wellness solutions through a unified, integrated platform, empowering employees to take control of their financial futures.」（https://www.floatpays.com/・3回目）
+  - 「FloatPays」をApp StoreでWhy partner with FloatpaysFIS | 金融テクノロジーで未来を拓く | フィンテックソリューション ...【国内初】クレジットカード返済方法に、日本円建ステーブルコイン「J...floatpays.com 過去のウェブサイト関係プロファイル世界のキャッシュレス普及率ランキング｜電子マネー事情と海外進出の... — 「FloatPays」のレビューをチェック、カスタマー評価を比較、スクリーンショットと詳細情報を確認することができます。 「FloatPays」をダウンロードしてiPhone、iPad、iPod touchでお楽しみください。 Floatpays empowers HR and payroll teams to manage all financial benefits in one place, with on」（https://apps.apple.com/jp/app/floatpays/id1488315695・3回目）
+  - 「Why partner with Floatpays — Floatpays empowers HR and payroll teams to manage all financial benefits in one place, with one simple integration. This streamlined approach not only saves valuable time but also enhances the overall employee experience.」（https://www.floatpays.com/more-info/why-floatpays・3回目）
+  - 「floatpays.com 過去のウェブサイト関係プロファイル — テクノロジープロファイル 詳細 メタ 製品 パフォーマンス 関係 リダイレクト 推奨事項 会社 FLOATPAYS.COM 共有属性 ... FLOATPAYS.COM 非 IP 属性 ... FLOATPAYS.COM 重複属性ドメイン ... FLOATPAYS.COM IP履歴」（https://builtwith.com/ja/relationships/floatpays.com・3回目）
+  - 「The Wellness Warehouse Success Story - floatpays.com — "We partnered with Floatpays because they share our philosophy of holistic health. They understand the financial challenges that many of our team members face, and they have a cost effective, convenient solution that empowers our team members financially.」（https://www.floatpays.com/post/wellness-warehouse-success-story・3回目）
+  - 「Floatpays - The ultimate employee benefits platform — Floatpays takes the complexity out of employee benefits by seamlessly and securely integrating with your payroll systems—eliminating extra work for your team.」（https://www.floatpays.com/・3回目）
+  - 「Meet the Entrepreneur: Simon Ward, Floatpays - FINCA Ventures — Jun 2, 2022 · When you look at what Floatpays customers are spending their earned wages on, how does this influence your product roadmap and what new initiatives are on the horizon for the company?」（https://finca.org/meet-the-entrepreneur-simon-ward-floatpays・3回目）
+  - 「Why We Invested: FloatPays - FINCA Ventures — Jan 27, 2022 · By partnering with employers and payroll providers, FloatPays is able to serve an expansive customer base of workers. Floatpays enables employers to enhance their employee value proposition to attract and retain the strongest workforce.」（https://finca.org/why-we-invested-floatpays・3回目）
+  - 「Floatpays is a startup from FFA's fintech portfolio — Early-wage access platform that enables employees to access a portion of their earned wages during the payroll cycle. Floatpays aims to increase the financial wellness of African employees, by reducing the cycle of payday debt, and improving financial education and management.」（https://www.foundersfactory.africa/portfolio/floatpays・3回目）
+  - 「Floatpays Revenue, Funding & Valuation - prospeo.io — In 2019 Floatpays was founded with a clear vision: Make financial inclusion and wellbeing possible for every working person by creating the Ultimate Employee Financial Wellness Platform.」（https://prospeo.io/c/floatpays-revenue・3回目）
+  - 「Floatpays 2026 Company Profile: Valuation, Funding ...Floatpays — Company Profile | The Company CheckFloatPays — Funding, Investors & Team | SeedtableFloatpays: Company Profile, Funding & InvestorsFloatPays: Funding, Investors & Team (Nov 2026) | FundedIQFloatpays - 2025 Company Profile, Funding & Competitors - Tracxn — Information on valuation, funding, cap tables, investors, and executives for F」（https://pitchbook.com/profiles/company/467851-87・3回目）
+  - 「Floatpays — Company Profile | The Company Check — Floatpays was founded in 2019 in Cape Town, South Africa, as a cloud-based platform in the financial benefits sector. Employees are enabled to register and withdraw earned wages directly into their bank accounts without employer approval.」（https://www.thecompanycheck.com/company/b/floatpays/s3j8t5o9r9si2g35k・3回目）
+- 従業員数：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部26頁・検索12回）
+- 料金：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部26頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部26頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部26頁・検索12回）
+
+## Foreplay
+- 公式URL：https://foreplay.co（given）
+- 創業年度：Founded：2021（https://prospeo.io/c/foreplay-co-revenue・3回目）
+- 株主：No funding（https://prospeo.io/c/foreplay-co-revenue・3回目）
+- 売上高：$86,000（https://prospeo.io/c/foreplay-co-revenue・3回目）
+- 所在地：Canada（https://prospeo.io/c/foreplay-co-revenue・3回目）
+- 採用・広告の製品：
+  - 「Foreplay | The Complete Winning Ad Workflow - Save ads from Ad Libraries」（https://www.foreplay.co/・1回目）
+  - 「Everything you need to predictably make ads that convert, from the first spark of inspiration saving ads from facebook ad library to the final performance report.」（https://www.foreplay.co/・1回目）
+  - 「Your new secret weapon for ads」（https://www.foreplay.co/・1回目）
+  - 「Stop launching ads that don't work. Trade guesswork for the creative process used by the world’s fastest growing brands and marketing agencies.」（https://www.foreplay.co/・1回目）
+  - 「Reverse engineer ads that are already crushing and identify trends.」（https://www.foreplay.co/・1回目）
+  - 「Save ads from Meta, TikTok & LinkedIn Ad Libraries.」（https://www.foreplay.co/・1回目）
+  - 「Creative Analytics & Production」（https://www.foreplay.co/・1回目）
+  - 「Instantly turn insights into action. Uncover what’s working across your ads and translate those learnings into crystal clear creative direction.」（https://www.foreplay.co/・1回目）
+  - 「“Foreplay is a key piece of how we find, save, review, and communicate around performance creative assets. It’s really reduced a lot of friction in the process and has allowed us to review and save 10x more content than we would have otherwise.”」（https://www.foreplay.co/・1回目）
+  - 「"We operate in a highly competitive market, and every time I use Spyder, it feels like an unfair advantage. We have been using it since beta, and easily 90% of our winning ads come from Spyder insights."」（https://www.foreplay.co/・1回目）
+  - 「"This is the #1 tool in my facebook ads toolkit. I use it daily for creative strategy research, compiling content ideas for clients, and even personal content development. If you’re trying to make better ad creative, Foreplay is not just “a nice to have”. It’s a must."」（https://www.foreplay.co/・1回目）
+  - 「"Everyone who works in creative strategy knows 90% of your success ends in a brief with references. Every week I schedule time to build out moodboards for our projects. I do most of this work in Foreplay since I can save content from anywhere including my mobile phone."」（https://www.foreplay.co/・1回目）
+- 製造業の実績：
+  - 「Stop launching ads that don't work. Trade guesswork for the creative process used by the world’s fastest growing brands and marketing agencies.」（https://www.foreplay.co/・1回目）
+  - 「Trusted by the world’s best performance agencies」（https://www.foreplay.co/industries/agencies・1回目）
+  - 「Trusted by growth-hungry eCommerce brands」（https://www.foreplay.co/industries/ecommerce・1回目）
+  - 「Trusted by top mobile growth teams」（https://www.foreplay.co/industries/mobile-apps・1回目）
+  - 「Trusted by acquisition focused B2B software companies」（https://www.foreplay.co/industries/b2b-saas・1回目）
+  - 「Trusted by independent marketers and UGC creators worldwide」（https://www.foreplay.co/industries/freelancers-creators・1回目）
+  - 「Success Stories about Software and Services used by Foreplay」（https://www.casestudies.com/customer/foreplay・3回目）
+  - 「What made it work wasn’t just volume, it was speed, structure, and responsiveness. With the right systems in place, Foreplay for inspiration and briefing, Kasper for execution, Power Kitchen turned their most critical acquisition period into a case study in creative velocity.」（https://www.foreplay.co/post/how-kasper-used-foreplay-to-cut-power-kitchens-cac-in-half-during-peak-season・3回目）
+  - 「Rate This Customer Case Study」（https://www.featuredcustomers.com/vendor/foreplay・3回目）
+- 再販・ホワイトラベル：
+  - 「Powering +10,000 Social Ad Teams & Agencies」（https://www.foreplay.co/・1回目）
+  - 「Stop launching ads that don't work. Trade guesswork for the creative process used by the world’s fastest growing brands and marketing agencies.」（https://www.foreplay.co/・1回目）
+  - 「Magic happens when strategy, creative, and data speak the same language. Foreplay bridges the gap between media buyers, creatives, and agencies.」（https://www.foreplay.co/・1回目）
+  - 「Once we found Foreplay it became our agencies one-stop shop for everything creative research and creative analysis. Lens specifically has catapulted our creative testing for the better.」（https://www.foreplay.co/・1回目）
+  - 「Foreplay for Agencies - Acquire & Retain Clients」（https://www.foreplay.co/industries/agencies・1回目）
+  - 「Foreplay For Agencies」（https://www.foreplay.co/industries/agencies・1回目）
+  - 「Trusted by the world’s best performance agencies」（https://www.foreplay.co/industries/agencies・1回目）
+  - 「From boutique performance shops to global creative partners. Foreplay helps agencies move faster, present smarter, and keep their clients for the long haul.」（https://www.foreplay.co/industries/agencies・1回目）
+  - 「The creative operating system built for agencies」（https://www.foreplay.co/industries/agencies・1回目）
+  - 「Discover the worlds best agencies.」（https://www.foreplay.co/agency-directory・1回目）
+  - 「Browse vetted agencies by location, core services and core industries to help grow your brand or service.」（https://www.foreplay.co/agency-directory・1回目）
+  - 「White-Label External Share Links」（https://www.foreplay.co/pricing・1回目）
+- 日本の担い手：
+  - 「日本語WordNet(英和)での「Foreplay」の意味」（https://ejje.weblio.jp/content/Foreplay・3回目）
+  - 「'japanese foreplay'を検索する - XNXX.COM」（https://www.xnxx.com/search/japanese+foreplay・3回目）
+  - 「結果 : japanese foreplay」（https://www.xnxx.com/search/japanese+foreplay・3回目）
+  - 「卑猥な日本の可愛い人、篠原優は、この男と超エッチなレールを組んで、」（https://www.xnxx.com/search/japanese+foreplay・3回目）
+  - 「セクシーな日本の魅惑的な北川瞳は、彼女の巨大な胸と官能的なお尻を超ホットな前戯セッションで誇示し、彼女のクソを挑発します」（https://www.xnxx.com/search/japanese+foreplay・3回目）
+  - 「艶かしく官能的な日本の熟女、篠田あゆみが、超熱い勃起崇拝と中出しセッションを堪能します」（https://www.xnxx.com/search/japanese+foreplay・3回目）
+  - 「官能的な相本みきがザーメンを吸い、飲み干す - 淫乱なアジアの売春婦！赤く熱くなったストッキングを履いた飽くことのない日本人女性、相本みきが、長い日本の前戯の後に溶けたオマンコを愛するためにこの男のために足を開きます」（https://www.xnxx.com/search/japanese+foreplay・3回目）
+  - 「セクシーな日本の美女、西野なこが、熱いJAVシーンでお尻とマンコを披露 - 最もホットなXXX！セクシーな日本の女の子、西野なこが、年上の男との熱い前戯でタイトなお尻と剃毛された外陰部を披露、数分」（https://www.xnxx.com/search/japanese+foreplay・3回目）
+  - 「熱い出会いの中で繰り広げられる情熱的な日本の誘惑」（https://www.xnxx.com/search/japanese+foreplay・3回目）
+  - 「付き合いたて素人カップルのSEX５秒前！乳首責めされただけでイっちゃうM男彼氏 前戯 痙攣 喘ぎ声 耳責め ギャル 乳首イキ 乳首攻め 乳首責め 巨乳 美少女 かわいい 個人撮影 日本人 えむゆみ」（https://www.xnxx.com/search/japanese+foreplay・3回目）
+  - 「信じられないほどの日本人モデルがクレンピーを手に入れる」（https://www.xnxx.com/search/japanese+foreplay・3回目）
+  - 「セクシーな日本のティーン、絢森いちかが、激しいポルノセッションに耽る - 無制限のJAV！セクシーな日本の美女、絢森いちかが、魅惑的な女子高生の衣装で誘惑的な雰囲気を漂わせながら、遊び相手を強い」（https://www.xnxx.com/search/japanese+foreplay・3回目）
+- 規模・親会社：
+  - 「"We use Foreplay literally every day at our agency. It started as a simple way to collect ad inspiration but it has turned into such a crucial part of our workflow internally, but more importantly for client communication"」（https://www.foreplay.co/・1回目）
+  - 「"As an ad creative producer, the most difficult part of the job is finding great ad inspiration. Foreplay makes it easy to save great ads and to keep them organized. No other tool compares!"」（https://www.foreplay.co/industries/agencies・1回目）
+  - 「"Foreplay is an essential part of how our agency operates. It’s not just a research tool, but an integral part of our creative strategy process. Every week, our team uses it to uncover insights and ad patterns that would’ve taken hours to find before."」（https://www.foreplay.co/industries/agencies・1回目）
+  - 「Turn Creative Testing Into Scalable User Acquisition」（https://www.foreplay.co/industries/mobile-apps・1回目）
+  - 「Trusted by acquisition focused B2B software companies」（https://www.foreplay.co/industries/b2b-saas・1回目）
+  - 「"Implementing the complete Foreplay workflow transformed our Meta advertising from a cost center to an acquisition machine."」（https://www.foreplay.co/industries/b2b-saas・1回目）
+  - 「Ready for profitable paid acquisition?」（https://www.foreplay.co/industries/b2b-saas・1回目）
+  - 「It's vivid, THE, foreplay video of an ordinary married couple,,.448」（https://vjav.com/search/1/?s=japanese+foreplay・3回目）
+  - 「Subtitled bizarre and funny Japanese teen foreplay in POV (18+)」（https://vjav.com/search/1/?s=japanese+foreplay・3回目）
+  - 「Smartphone individual shooting It's graphic, THE, foreplay video of an ordinary married couple! !.448」（https://vjav.com/search/1/?s=Foreplay+Uncensored・3回目）
+  - 「Subtitled bizarre and funny Japanese teen foreplay in POV (18+)」（https://vjav.com/search/1/?s=Foreplay+Uncensored・3回目）
+  - 「Discover how Kasper helped Power Kitchen cut customer acquisition costs by over 50% during peak season using Foreplay to streamline creative production, accelerate testing, and out-create the competition.」（https://www.foreplay.co/post/how-kasper-used-foreplay-to-cut-power-kitchens-cac-in-half-during-peak-season・3回目）
+- 連絡先：
+  - 「Definitely! Our popular live chat support is available for our customers and also for interested parties Monday to Friday from 9:00am - 5:00pm EST. Of course you can also reach our team by email. Contact us for any kind of questions and just write to」（https://www.foreplay.co/pricing・1回目）
+  - 「Their strategy focused on filling the top of the funnel with qualified leads, then nurturing them through SMS and email.」（https://www.foreplay.co/post/how-kasper-used-foreplay-to-cut-power-kitchens-cac-in-half-during-peak-season・3回目）
+  - 「Contact us today to take control of your profile for」（https://www.featuredcustomers.com/vendor/foreplay・3回目）
+  - 「Contact us today for pricing options to add your customer」（https://www.featuredcustomers.com/vendor/foreplay・3回目）
+  - 「Build leads list with verified emails & mobiles」（https://prospeo.io/c/foreplay-co-revenue・3回目）
+  - 「EmailMeForm, LLC」（https://getlatka.com/companies/foreplay.co・3回目）
+- 検索結果の抜粋：
+  - 「「foreplay」の意味・使い方・読み方・例文・コアイメージ・類義語と... — ・ 性行為前に行う導入的な親密行為を指す語で、場面や話し手により医学的説明にも俗語的表現にも近づく・ foreplayは、fore（前）とplay（遊び）が結びついた語で、本番前の準備や導入を意味する表現が転じて性行為前の行為を表す語になった」（https://motitown.com/vocabulary/word/foreplay・3回目）
+  - 「英語「Foreplay」の意味・使い方・読み方 | Weblio英和辞書 — Either or any of the sexual partners may initiate the foreplay, and they may not be the active partner during the sexual activity. Foreplay lowers inhibitions and increases the emotional comfort of the partners, and implies a certain level of confidence and trust between the partners.」（https://ejje.weblio.jp/content/Foreplay・3回目）
+  - 「'japanese foreplay' Search - XNXX.COM — Horny Asian woman providing unforgettable bj while getting creampied - remarkable Japanese! Deepthroating Japanese beauty provides a mind-blowing blowage to her mate in a steaming make-out that will make you drool.」（https://www.xnxx.com/search/japanese+foreplay・3回目）
+  - 「japanese-foreplay videos - XVIDEOS.COM — Risa Mizuki, a handsome Japanese milf, temptingly unclothes off her undies during a sensuous foreplay, showcasing her irresistible bod in a hardcore Japanese xxx video!」（https://www.xvideos.com/tags/japanese-foreplay・3回目）
+  - 「Japanese foreplay Japanese Porn Videos, page 1 - VJAV.com — Here you can see japanese foreplay, sex in Full HD quality, where there is a chance to see even the smallest detail of the body of a beautiful Japanese or Korean or a guy in amateur jav porn.」（https://vjav.com/search/1/?s=japanese+foreplay・3回目）
+  - 「Foreplay Uncensored Japanese Porn Videos, page 1 - VJAV.com — Here you can see Foreplay Uncensored, sex in Full HD quality, where there is a chance to see even the smallest detail of the body of a beautiful Japanese or Korean or a guy in amateur jav porn.」（https://vjav.com/search/1/?s=Foreplay+Uncensored・3回目）
+  - 「Japanese Foreplay Tube Search (2382 videos) - NudeVista — 2 382 results for japanese foreplay tube, ordered by relevance, newest, popularity, duration or random」（https://www.nudevista.net/?q=japanese+foreplay&s=t・3回目）
+  - 「Foreplay B2B Case Studies & Customer Successes — See how Foreplay solves business challenges—real case studies from satisfied customers across industries.」（https://www.casestudies.com/company/foreplay・3回目）
+  - 「B2B Case Studies: How Foreplay Uses Software & Services — Explore case studies featuring Foreplay as the customer — learn how vendors and partners helped Foreplay solve real business challenges.」（https://www.casestudies.com/customer/foreplay・3回目）
+  - 「Discover how Kasper helped Power Kitchen cut customer ... — With the right systems in place, Foreplay for inspiration and briefing, Kasper for execution, Power Kitchen turned their most critical acquisition period into a case study in creative velocity.」（https://www.foreplay.co/post/how-kasper-used-foreplay-to-cut-power-kitchens-cac-in-half-during-peak-season・3回目）
+  - 「9 Foreplay Customer Reviews & References | FeaturedCustomers — Discover what Featured Customers are saying about Foreplay through testimonials, reviews, & case studies.」（https://www.featuredcustomers.com/vendor/foreplay・3回目）
+  - 「Foreplay.co Revenue, Funding & Valuation — Foreplay.co has revenue of $1,197,770, estimated valuation of $3,900,000. Find contacts and company information on Prospeo.」（https://prospeo.io/c/foreplay-co-revenue・3回目）
+- 従業員数：記載なし（3回確認済み：公式12頁／PDF・画像2件／外部43頁・検索12回）
+- 料金：記載なし（3回確認済み：公式12頁／PDF・画像2件／外部43頁・検索12回）
+
 ## ForgeJobShop
 - 公式URL：https://forgeautomation.ca/（given）
 - 採用・広告の製品：
@@ -2595,6 +5978,1135 @@
 - 料金：記載なし（3回確認済み：公式2頁／PDF・画像3件／外部24頁・検索12回）
 - 再販・ホワイトラベル：記載なし（3回確認済み：公式2頁／PDF・画像3件／外部24頁・検索12回）
 - 日本の担い手：記載なし（3回確認済み：公式2頁／PDF・画像3件／外部24頁・検索12回）
+
+## Fospha
+- 公式URL：https://www.fospha.com（given）
+- 採用・広告の製品：
+  - 「Fospha | Marketing Measurement Platform for Enterprise Retail」（https://www.fospha.com/・1回目）
+  - 「The enterprise teams who run on Fospha」（https://www.fospha.com/・1回目）
+  - 「revenue measured across hundreds of enterprise brands」（https://www.fospha.com/・1回目）
+  - 「content / 36 - content, buy, price, sale, sell, shopping, tag icon」（https://www.fospha.com/・1回目）
+  - 「Most measurement stops at your website. See your marketing’s impact everywhere you sell, so you can diversify your mix and break through your growth plateau.」（https://www.fospha.com/・1回目）
+  - 「Daily, ad-level results show which ads and creative to scale and which to switch off, while campaigns are still running.」（https://www.fospha.com/・1回目）
+  - 「marketing measurement」（https://www.fospha.com/・1回目）
+  - 「Pioneering science-led approach to」（https://www.fospha.com/・1回目）
+  - 「There's no substitute for experience. Every layer of our model has been shaped by partnering with enterprise brands.」（https://www.fospha.com/・1回目）
+  - 「Measurement scientists, growth strategists, platform specialists, and more, working inside every account. Enterprise-grade support, not SaaS onboarding.」（https://www.fospha.com/・1回目）
+  - 「With 40+ new features shipped every month, the product keeps up with how marketing works today, not how it worked last year.」（https://www.fospha.com/・1回目）
+  - 「See how the measurement system enterprise brands run on every day works for your team.」（https://www.fospha.com/・1回目）
+- 製造業の実績：
+  - 「Trusted by global brands across the US, UK, and EU, Fospha meets the highest privacy standards」（https://www.fospha.com/solutions/marketplace-and-retail・1回目）
+  - 「- Confident, bias-free reporting – Move beyond last-click limitations with independent, privacy-safe measurement trusted by CMOs and CFOs.」（https://www.fospha.com/solutions/marketplace-and-retail・1回目）
+  - 「Trusted by global brands across the US, UK, and EU, Fospha meets the highest privacy standards」（https://www.fospha.com/solutions/brand-impact・1回目）
+  - 「- Confident, bias-free reporting – Move beyond last-click limitations with independent, privacy-safe measurement trusted by CMOs and CFOs.」（https://www.fospha.com/solutions/brand-impact・1回目）
+  - 「Trusted by global brands across the US, UK, and EU, Fospha meets the highest privacy standards」（https://www.fospha.com/solutions/forecasting・1回目）
+  - 「- Confident, bias-free reporting – Move beyond last-click limitations with independent, privacy-safe measurement trusted by CMOs and CFOs.」（https://www.fospha.com/solutions/forecasting・1回目）
+  - 「Trusted by global brands across the US, UK, and EU, Fospha meets the highest privacy standards」（https://www.fospha.com/solutions/budget-planning・1回目）
+  - 「- Confident, bias-free reporting – Move beyond last-click limitations with independent, privacy-safe measurement trusted by CMOs and CFOs.」（https://www.fospha.com/solutions/budget-planning・1回目）
+  - 「Trusted by global brands across the US, UK, and EU, Fospha meets the highest privacy standards」（https://www.fospha.com/pricing・1回目）
+  - 「- Confident, bias-free reporting – Move beyond last-click limitations with independent, privacy-safe measurement trusted by CMOs and CFOs.」（https://www.fospha.com/pricing・1回目）
+  - 「This case study is a proof point for the future of AI-powered advertising: where always-on measurement meets automation, and performance becomes truly predictive.」（https://www.fospha.com/case-studies/gymshark-smartly・1回目）
+  - 「Fospha Case Study: CUUP – How CUUP harnessed Fospha to diversify their marketing mix | CaseStudies.com」（https://www.casestudies.com/company/fospha/case-study/how-cuup-harnessed-fospha-to-diversify-their-marketing-mix・3回目）
+- 再販・ホワイトラベル：
+  - 「It uses causal modeling to connect awareness spend to the signals buyers make when they're considering your brand, and delivers one number: the」（https://www.fospha.com/solutions/brand-impact・1回目）
+  - 「Ready to prove your brand spend works?」（https://www.fospha.com/solutions/brand-impact・1回目）
+  - 「Fospha Agency Partner Program | Prove Impact & Grow Clients」（https://www.fospha.com/agencies・1回目）
+  - 「Fospha Agency Partners」（https://www.fospha.com/agencies・1回目）
+  - 「Agencies win with Fospha」（https://www.fospha.com/agencies・1回目）
+  - 「Become an agency partner and benefit from the Fospha ecosystem」（https://www.fospha.com/agencies・1回目）
+  - 「Agencies with a minimum of 3 eCommerce retail brands fitting Fospha eligibility criteria.」（https://www.fospha.com/agencies・1回目）
+  - 「Agencies with a minimum of 1 brand actively working with Fospha.」（https://www.fospha.com/agencies・1回目）
+  - 「Strategic Agency Partner」（https://www.fospha.com/agencies・1回目）
+  - 「Agencies with a minimum of 5 brands actively working with Fospha.」（https://www.fospha.com/agencies・1回目）
+  - 「Includes all benefits of Agency Partner, plus:」（https://www.fospha.com/agencies・1回目）
+  - 「Prioritised access to partner programs and beta cohorts for your clients」（https://www.fospha.com/agencies・1回目）
+- 規模・親会社：
+  - 「One complete measurement system, built on a daily full-funnel view reconciled to 100% of your revenue, with experts in your corner to drive incremental impact at scale.」（https://www.fospha.com/・1回目）
+  - 「revenue measured across hundreds of enterprise brands」（https://www.fospha.com/・1回目）
+  - 「Most measurement is too narrow, too slow or too hard to trust. Daily, ad-level Media Mix Attribution, calibrated by MMM and Incrementality Testing, gives you the full picture.」（https://www.fospha.com/・1回目）
+  - 「Most reports are outdated on arrival. Steer spend while campaigns are still live, and let AI make the changes before waste adds up.」（https://www.fospha.com/・1回目）
+  - 「blended revenue YoY on +10% spend」（https://www.fospha.com/・1回目）
+  - 「blended revenue growth YoY」（https://www.fospha.com/・1回目）
+  - 「growth in blended revenue YoY」（https://www.fospha.com/case-studies・1回目）
+  - 「How Galeries Lafayette built a full-funnel measurement system that grew blended revenue 32%」（https://www.fospha.com/case-studies・1回目）
+  - 「How Galeries Lafayette Built a Full-Funnel Measurement System That Grew Blended Revenue 32%」（https://www.fospha.com/case-studies・1回目）
+  - 「Blended revenue growth YoY on +10% increase in spend」（https://www.fospha.com/case-studies・1回目）
+  - 「How ONE/SIZE turned platform fluency into Q4 performance and 35% YoY blended revenue growth backed by daily measurement」（https://www.fospha.com/case-studies・1回目）
+  - 「blended revenue uplift YoY」（https://www.fospha.com/case-studies・1回目）
+- 検索結果の抜粋：
+  - 「Fospha | Marketing Measurement Platform for Enterprise Retail — Fospha is the marketing measurement system for enterprise retail brands: daily full-funnel attribution, Marketing Mix Modeling and Incrementality Testing in one system.」（https://www.fospha.com/・3回目）
+  - 「About Fospha | Measurement System for Enterprise Brands — Fospha connects MMM, attribution and incrementality in one daily measurement system across marketing channels and sales destinations, including marketplaces like Amazon. We deliver the best time-to-value in the world with year-on-year data straight out of the box.」（https://www.fospha.com/about-fospha・3回目）
+  - 「Fospha - LinkedIn — Fospha is the measurement system enterprise brands run on every day, so they can see everything, sell anywhere and move on the opportunity instantly. Most enterprise brands already run a...」（https://www.linkedin.com/company/fospha/・3回目）
+  - 「Who is Fospha? — Fospha delivers MMM value updated every 24 hours. Alongside other tools: Fospha + Triple Whale, Fospha + Northbeam, Fospha + Measured — the "suite of truth" approach.」（https://academy.fospha.com/who-is-fospha・3回目）
+  - 「Fospha Customer Case Studies | Gymshark, Huel, Nécessaire ... — Fospha clients outperform the market by 30% on ROAS. See how brands like Gymshark, Huel and Nécessaire use full-funnel measurement to scale paid social, reduce CAC and grow blended revenue.」（https://www.fospha.com/case-studies・3回目）
+  - 「54% increase in new customer conversions in 6 months - Fospha — Using Fospha data we successfully scaled our top of funnel, and in the first 6 months of our partnership increased our new customer conversions by 54%. Amazingly, we were able to do this within our target CAC too.」（https://www.fospha.com/case-studies/huel-case-study・3回目）
+  - 「Fospha Case Study: CUUP – How CUUP harnessed Fospha to ... — CUUP (Apparel & Fashion) partnered with Fospha (Computer Software) to solve key challenges. "How CUUP harnessed Fospha to diversify their marketing mix" is their real-world success story.」（https://www.casestudies.com/company/fospha/case-study/how-cuup-harnessed-fospha-to-diversify-their-marketing-mix・3回目）
+  - 「Fospha B2B Case Studies & Customer Successes — See how Fospha solves business challenges—real case studies from satisfied customers across industries.」（https://www.casestudies.com/company/fospha・3回目）
+  - 「84 Fospha Case Studies, Success Stories, & Customer StoriesMagBak Case Study | Ecommerce: Tech Accessories135 Fospha Customer Reviews & References | FeaturedCustomers — Discover how other companies use Fospha, get inspired, and find ways to improve your business. MagBak was back on track with year-over-year revenue growth within two months of implementing Fospha and rebalancing core channel spend,」（https://www.featuredcustomers.com/vendor/fospha/case-studies・3回目）
+- 創業年度：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部20頁・検索12回）
+- 株主：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部20頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部20頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部20頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部20頁・検索12回）
+- 料金：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部20頁・検索12回）
+- 連絡先：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部20頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部20頁・検索12回）
+
+## Fountain
+- 公式URL：https://www.fountain.com/（given）
+- 株主：$33.9M（https://getlatka.com/companies/fountain・3回目）
+- 株主：18-May-2015 $1.65M $1.65M  Completed Startup（https://pitchbook.com/profiles/company/113352-13・3回目）
+- 株主：1,175,465 $0.000010 6% $1.4 $1.4 1x $1.4 3.92%（https://pitchbook.com/profiles/company/113352-13・3回目）
+- 採用・広告の製品：
+  - 「Frontline Superintelligence - Fountain」（https://www.fountain.com/・1回目）
+  - 「Fountain Launches Three New Innovative Products to Streamline Frontline Hiring and Boost Employee Engagement」（https://www.fountain.com/・1回目）
+  - 「Frontline Superintelligence」（https://www.fountain.com/・1回目）
+  - 「your frontline operations」（https://www.fountain.com/・1回目）
+  - 「Trusted by 500+ of the top frontline employers」（https://www.fountain.com/・1回目）
+  - 「Add food safety training to onboarding」（https://www.fountain.com/・1回目）
+  - 「Hire 10 associates for Q4」（https://www.fountain.com/・1回目）
+  - 「Rehire seasonal staff from last year」（https://www.fountain.com/・1回目）
+  - 「Hire 50 agents for the Q2 ramp」（https://www.fountain.com/・1回目）
+  - 「Create onboarding for the new client program」（https://www.fountain.com/・1回目）
+  - 「Re-engage candidates who dropped off」（https://www.fountain.com/・1回目）
+  - 「Applications, screening, knockout questions, interview scheduling, offer letters… Move candidates through your pipeline without spreadsheets.」（https://www.fountain.com/・1回目）
+- 製造業の実績：
+  - 「Trusted by 500+ of the top frontline employers」（https://www.fountain.com/・1回目）
+  - 「Manufacturing Hiring Solutions | Fountain」（https://www.fountain.com/industry/manufacturing・1回目）
+  - 「High volume hiring for manufacturers」（https://www.fountain.com/industry/manufacturing・1回目）
+  - 「The world’s most sophisticated manufacturing companies trust Fountain」（https://www.fountain.com/industry/manufacturing・1回目）
+  - 「Manufacturing positions take an average of 24-31 days to hire. With Fountain, manufacturing customers can hire in 2 days.」（https://www.fountain.com/industry/manufacturing・1回目）
+  - 「In 2022, 42.8% of manufacturing workers left their jobs, leaving manufacturing companies struggling to hire quality workers to meet rising demand.」（https://www.fountain.com/industry/manufacturing・1回目）
+  - 「To attract skilled workers, the manufacturing industry must distance itself from yesterday’s hiring systems and embrace digital transformation to ensure their business gets workers in the door faster than their competitors.」（https://www.fountain.com/industry/manufacturing・1回目）
+  - 「If you’re currently hiring in manufacturing, you’re facing:」（https://www.fountain.com/industry/manufacturing・1回目）
+  - 「Manufacturing has an image problem. With Fountain’s branding and candidate engagement capabilities, recruiters have the opportunity to redefine what it means to work in manufacturing.」（https://www.fountain.com/industry/manufacturing・1回目）
+  - 「Example manufacturing workflow」（https://www.fountain.com/industry/manufacturing・1回目）
+  - 「Filling the Skills Gap in a New Era of Manufacturing」（https://www.fountain.com/industry/manufacturing・1回目）
+  - 「Manufacturing Data Sheet」（https://www.fountain.com/industry/manufacturing・1回目）
+- 再販・ホワイトラベル：
+  - 「The Best AI Tools for Staffing Agencies in 2026」（https://www.fountain.com/posts/ai-tools-staffing-agencies・1回目）
+  - 「The AI tools best suited to staffing agencies and」（https://www.fountain.com/posts/ai-tools-staffing-agencies・1回目）
+  - 「Staffing agencies (back-office)」（https://www.fountain.com/posts/ai-tools-staffing-agencies・1回目）
+  - 「Staffing agencies, VMS-heavy」（https://www.fountain.com/posts/ai-tools-staffing-agencies・1回目）
+  - 「9 of the best AI tools for staffing agencies」（https://www.fountain.com/posts/ai-tools-staffing-agencies・1回目）
+  - 「Why does Fountain win for staffing agencies?」（https://www.fountain.com/posts/ai-tools-staffing-agencies・1回目）
+  - 「Each Fountain win maps to a problem staffing agencies actually have, and the agents carry most of the weight. Recruiters run funnels across many clients and locations at once, so Cue turns plain-English goals into orchestrated tasks instead of manual pipeline management. Candidates prefer AI-driven interviews (」（https://www.fountain.com/posts/ai-tools-staffing-agencies・1回目）
+  - 「Deep VMS and vendor-management workflows are not Fountain’s core, so agencies that live in a VMS should plan to pair it with their system of record.」（https://www.fountain.com/posts/ai-tools-staffing-agencies・1回目）
+  - 「Staffing agencies and high-volume frontline employers placing hourly workers in high volume who need agent-led screening, mobile-first applications, compliance workflows, and post-hire retention. For agencies whose operations center on vendor-management and back-office billing, Fountain runs the high-volume frontline funnel alongside a VMS rather than replacing it.」（https://www.fountain.com/posts/ai-tools-staffing-agencies・1回目）
+  - 「Established staffing agencies that need deep back-office ATS and CRM functionality and are willing to evaluate sourcing and agent support separately.」（https://www.fountain.com/posts/ai-tools-staffing-agencies・1回目）
+  - 「Useful for agencies managing high-submission workflows.」（https://www.fountain.com/posts/ai-tools-staffing-agencies・1回目）
+  - 「Staffing agencies operating in VMS-heavy environments that need combined ATS, CRM, and AI-driven candidate matching for high-submission workflows.」（https://www.fountain.com/posts/ai-tools-staffing-agencies・1回目）
+- 日本の担い手：
+  - 「Fountain 導入事例 | Dropbox Sign」（https://sign.dropbox.com/ja-JP/customers/fountain・3回目）
+  - 「Fountain による Dropbox Sign API 導入事例」（https://sign.dropbox.com/ja-JP/customers/fountain・3回目）
+  - 「導入事例 | Fountain | Claude by Anthropic」（https://claude.com/ja/customers/fountain・3回目）
+  - 「Japanese devices made to frighten animals that pose a threat to agriculture」（https://en.wikipedia.org/wiki/Shishi-odoshi・3回目）
+  - 「breaks the quietness of a Japanese garden with the sound of a bamboo rocker arm hitting a rock.」（https://en.wikipedia.org/wiki/Shishi-odoshi・3回目）
+  - 「in Japan Gardens, in front of」（https://en.wikipedia.org/wiki/Shishi-odoshi・3回目）
+  - 「, Tokyo」（https://en.wikipedia.org/wiki/Shishi-odoshi・3回目）
+  - 「Morikami Museum and Japanese Gardens」（https://en.wikipedia.org/wiki/Shishi-odoshi・3回目）
+  - 「"Listening to Japanese Gardens: An Autoethnographic Study on the Soundscape Action Design Tool"」（https://en.wikipedia.org/wiki/Shishi-odoshi・3回目）
+  - 「The Art of the Japanese Garden: History / Culture / Design」（https://en.wikipedia.org/wiki/Shishi-odoshi・3回目）
+  - 「, Kyoto, Japan」（https://en.wikipedia.org/wiki/Shishi-odoshi・3回目）
+  - 「Japanese style of gardening」（https://en.wikipedia.org/wiki/Shishi-odoshi・3回目）
+- 規模・親会社：
+  - 「Fountain has been recognized in the 2026 Gartner® Magic Quadrant™ for Talent Acquisition (Recruiting) Suites — a testament to our commitment to building the most effective hiring platform for frontline teams.」（https://www.fountain.com/・1回目）
+  - 「Automated stage advancement based on SMS responses allows employers to meet their candidates where they are: on their phones. By allowing candidates to apply without the need to create login credentials, barriers to apply are reduced and applicant volume increases.」（https://www.fountain.com/industry/manufacturing・1回目）
+  - 「Think of Fountain as an extension of your own talent acquisition team. From our user-friendly platform built with powerful automation to our attentive Customer Support specialists and sourcing experts, Fountain is here to simplify and streamline your hiring process.」（https://www.fountain.com/industry/manufacturing・1回目）
+  - 「This category exists because of a structural mismatch. Most applicant tracking systems were designed for structured professional hiring, where candidates expect a multi-week process and recruiting workflows are easier to standardize. That model breaks when a company needs to fill thousands of frontline positions across hundreds of locations and candidates take the first offer that arrives.」（https://www.fountain.com/posts/ai-tools-staffing-agencies・1回目）
+  - 「Each Fountain win maps to a problem staffing agencies actually have, and the agents carry most of the weight. Recruiters run funnels across many clients and locations at once, so Cue turns plain-English goals into orchestrated tasks instead of manual pipeline management. Candidates prefer AI-driven interviews (」（https://www.fountain.com/posts/ai-tools-staffing-agencies・1回目）
+  - 「often evaluated by companies hiring across multiple countries, functions, and worker types. After the SAP acquisition, buyers consolidating HR technology around SAP should assess how SmartRecruiters fits the broader environment and whether frontline workflows receive the same depth as corporate hiring.」（https://www.fountain.com/posts/ai-tools-staffing-agencies・1回目）
+  - 「For an agency, that means faster fills, fewer no-shows, and prior workers redeployed into the next requisition without new sourcing spend, all on a platform that integrates with Workday, UKG, SAP, and ADP instead of replacing them. The agencies pulling a multi-week hiring cycle down toward hours are the ones letting agents carry the volume while people make the judgment calls.」（https://www.fountain.com/posts/ai-tools-staffing-agencies・1回目）
+  - 「With hundreds of employees around the world, Fountain builds and supports scalable high volume hiring solutions for organizations to source, hire, and retain hourly workers.」（https://www.fountain.com/careers-fountain・1回目）
+  - 「We offer all employees competitive pay in line with market data for their location. Employees also receive equity grants and access to a 401(k) program.」（https://www.fountain.com/careers-fountain・1回目）
+  - 「To support work-life balance, we are proud to offer employees flexible PTO and quarterly VTO.」（https://www.fountain.com/careers-fountain・1回目）
+  - 「At Fountain, employees can work from just about anywhere! We’re proud of the global representation of our team.」（https://www.fountain.com/careers-fountain・1回目）
+  - 「To keep our employees connected, we offer in-person company events, monthly virtual team-building events, and weekly trivia!」（https://www.fountain.com/careers-fountain・1回目）
+- 連絡先：
+  - 「Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.」（https://pitchbook.com/profiles/company/113352-13・3回目）
+- 検索結果の抜粋：
+  - 「Fountain 導入事例 | Dropbox Sign — Fountain が世界 78 か国で大量採用プロセスを変革。Fountain は、統合された応募者追跡システムで、大量採用を効率化する人材エコシステムを実現しています。」（https://sign.dropbox.com/ja-JP/customers/fountain・3回目）
+  - 「Fountainとは？ | 機能や料金、導入事例をご紹介【キャプテラ】 — Fountainを実際に使用したユーザーのレビューから、製品の機能や価格、メリットデメリットをご覧いただけます。類似製品との比較も簡単、ぴったりのSaaSが見つかるはず！」（https://www.capterra.jp/software/178067/fountain・3回目）
+  - 「導入事例 | Fountain | Claude by Anthropic — Fountain が Claude を活用して現場採用を変革し、スクリーニングを50% 高速化、オンボーディングを40% 迅速化、候補者コンバージョンを2倍に向上させた事例をご紹介します。」（https://claude.com/ja/customers/fountain・3回目）
+  - 「FitGap | Fountainとは？強み、注意点を専門家がレビュー — FitGapにおけるすべての評価は、公平性を最優先に、客観的なアルゴリズムを用いて計算されています。製品の評価方法は 「FitGapの評価メソッド」 、シェアデータの算出根拠は 「シェアスコアの算出方法」 をご覧ください。 Fountain の利用環境・機能 利用環境 端末・OS Windows, MacOS シングル ...」（https://fitgap.com/jp/products/fountain・3回目）
+  - 「UTAGE活用ビジネス提案｜YOUSEED株式会社 — UTAGE活用ビジネス提案 YOUSEED株式会社が提供するサービスとして、UTAGE（ツール提供元：、株式会社Fountain）を活用し、受発注機能および決済機能（インボイス制度に適応した請求書発行含む）を搭載したマーケティング支援業務を行っております。」（https://youseed.co.jp/utagebusiness/・3回目）
+  - 「THE 15 BEST Japan Fountains (2026) - Tripadvisor — Feb 5, 2025 · He has been attributed to being the founder of mapping in Japan and was responsible for building 49 Monasteries across Japan.The fountain features a small bronze figure of a Monk on top of a small fountain just outside the Nara Station entrance and worth seeing.」（https://www.tripadvisor.com/Attractions-g294232-Activities-c47-t13-Japan.html・3回目）
+  - 「Amazon.com: Japanese Fountain — Bamboo Fountain kit with Pump, Japanese Outdoor Fountain Handmake from Real Bamboo, Zen Outdoor Water Fountains (Spitter 15‘’) Add to cart」（https://www.amazon.com/japanese-fountain/s?k=japanese+fountain・3回目）
+  - 「Fontaines D.C. - Japan (Official Music Video) - YouTubeChōzuya - WikipediaJapanese & Asian Garden Fountain Styles and Types — Fontaines D.C. - Japan (Official Music Video) Fontaines DC 314K subscribers Subscribe Chōzu-ya at rural Make-jinja A sign (read right-to-left) explains how to do chōzu. Inside a pavilion, performing chōzu Chōzu-ya or temizu-ya (手水舎) is a Shinto water ablution pavilion for a」（https://www.youtube.com/watch?v=GPNbnromGgk・3回目）
+  - 「Fountain - Customer Case Study — Fountain (Computer Software) partnered with Pentagram (Design) to solve key challenges. "Fountain - Customer Case Study" is their real-world success story.」（https://www.casestudies.com/company/pentagram/case-study/fountain-customer-case-study・3回目）
+  - 「10 Fountain Case Studies | CaseStudies.com — Fountain is designed specifically to help address the challenges around high-volume, high-velocity, and high-turnover recruiting within retail, delivery, food/beverage, manufacturing, hospitality, etc. Fountain’s hiring automation software powers the new service economy to source, screen, hire and onboard nearly 1 million applicants each month.」（https://www.casestudies.com/company/fountain・3回目）
+  - 「Frontline Superintelligence - Fountain — Fountain is the AI-powered Superintelligence that sources, hires, and runs your frontline operations across every location, 24/7.」（https://www.fountain.com/・3回目）
+  - 「10 Fountain Case Studies, Success Stories, & Customer Stories — Fountain has a 4.8/5 star rating. Learn what their customers think, get 10 free case studies and more.」（https://www.featuredcustomers.com/vendor/fountain/case-studies・3回目）
+- 創業年度：記載なし（3回確認済み：公式11頁／PDF・画像1件／外部41頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式11頁／PDF・画像1件／外部41頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式11頁／PDF・画像1件／外部41頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式11頁／PDF・画像1件／外部41頁・検索12回）
+- 料金：記載なし（3回確認済み：公式11頁／PDF・画像1件／外部41頁・検索12回）
+
+## Fox Robotics
+- 公式URL：https://www.foxrobotics.com/（given）
+- 採用・広告の製品：
+  - 「Proprietary, state-of-the art AI machine learning and data-driven perception and planning stack is capable of dynamically understanding its environment and planning routes in real-time, to efficiently operate in the congested and unpredictable environments typical of warehouse shipping and receiving docks.」（https://foxrobotics.com/・1回目）
+  - 「Multiply Productivity」（https://foxrobotics.com/・1回目）
+  - 「Improve Employee Retention」（https://foxrobotics.com/・1回目）
+  - 「Keep things moving with consistent operation, predictable speeds and routes, and improved battery life」（https://foxrobotics.com/・1回目）
+  - 「The transition from propane to electric power saves you money and lessens your environmental impact」（https://foxrobotics.com/・1回目）
+  - 「Doing more with less is how you future-proof supply chain workflows, grow our economy, and provide higher-paying jobs.」（https://foxrobotics.com/about-us・1回目）
+  - 「To lead the industry in autonomous pallet workflows. We imagine a world in which humans and robots collaborate to improve workplace safety and productivity.」（https://foxrobotics.com/about-us・1回目）
+  - 「By employing robots to work alongside humans, you can expect more consistent operations, greater productivity, and lower labor costs. For your employees, this means safer working conditions and fewer repetitive tasks, improving overall workplace satisfaction.」（https://foxrobotics.com/about-us・1回目）
+  - 「Whether your goal is to grow profits, create a more sustainable workplace, or even build a base on Mars, robots will get you one step closer. The future can be great—if we build the right tools.」（https://foxrobotics.com/about-us・1回目）
+  - 「Doing more with less is how you future-proof supply chain workflows, grow our economy, and provide higher-paying jobs.」（https://foxrobotics.com/about-us?hsLang=en・1回目）
+  - 「To lead the industry in autonomous pallet workflows. We imagine a world in which humans and robots collaborate to improve workplace safety and productivity.」（https://foxrobotics.com/about-us?hsLang=en・1回目）
+  - 「By employing robots to work alongside humans, you can expect more consistent operations, greater productivity, and lower labor costs. For your employees, this means safer working conditions and fewer repetitive tasks, improving overall workplace satisfaction.」（https://foxrobotics.com/about-us?hsLang=en・1回目）
+- 製造業の実績：
+  - 「When working with the FoxBot ATL, operators spend only a few minutes on each trailer–multiplying the work. With several ATLs, a single operator can unload from 20 to 100 trailers per shift.」（https://foxrobotics.com/・1回目）
+  - 「Proprietary, state-of-the art AI machine learning and data-driven perception and planning stack is capable of dynamically understanding its environment and planning routes in real-time, to efficiently operate in the congested and unpredictable environments typical of warehouse shipping and receiving docks.」（https://foxrobotics.com/・1回目）
+  - 「Save up to 40% on labor costs and introduce reliability to warehouse operations」（https://foxrobotics.com/・1回目）
+  - 「We are fully focused on pallet transport and the first and last pieces of the end-to-end autonomous warehouse–the loading dock.」（https://foxrobotics.com/・1回目）
+  - 「Our goal at Fox Robotics is to bring intelligent warehouse automation to the masses, and we’re working tirelessly to make this aspiration a reality. By leveraging cutting-edge technology and our collective experience at some of the world’s leading automation companies, we’re pushing the boundaries of what’s possible in warehouse safety and efficiency.」（https://foxrobotics.com/about-us・1回目）
+  - 「The next generation of automation is in warehousing and manufacturing.」（https://foxrobotics.com/about-us・1回目）
+  - 「More than 5 billion pallets circulate through warehouses every day globally, their movement dependent on outdated manual operation or inflexible first-generation automation solutions. In the United States alone, supply chain and logistics industries rely on 4.5 million manual operators for nearly all pallet movement.」（https://foxrobotics.com/about-us・1回目）
+  - 「Our goal at Fox Robotics is to bring intelligent warehouse automation to the masses, and we’re working tirelessly to make this aspiration a reality. By leveraging cutting-edge technology and our collective experience at some of the world’s leading automation companies, we’re pushing the boundaries of what’s possible in warehouse safety and efficiency.」（https://foxrobotics.com/about-us?hsLang=en・1回目）
+  - 「The next generation of automation is in warehousing and manufacturing.」（https://foxrobotics.com/about-us?hsLang=en・1回目）
+  - 「More than 5 billion pallets circulate through warehouses every day globally, their movement dependent on outdated manual operation or inflexible first-generation automation solutions. In the United States alone, supply chain and logistics industries rely on 4.5 million manual operators for nearly all pallet movement.」（https://foxrobotics.com/about-us?hsLang=en・1回目）
+  - 「“Fox Robotics is a company that develops and sells autonomously operated forklifts for use in cargo warehouses. With the expansion of e-commerce and the labor shortage, the automation of logistics warehouses is accelerating. Through investment in Fox Robotics, we aim to promote the digital transformation (DX) of our cargo business and drive improvements in operational productivity.”」（https://japanairlinesventures.com/portfolio/foxrobotics/・3回目）
+  - 「Atlanta Bonded Warehouse」（https://info.foxrobotics.com/hubfs/fox-case-study-march-2024-v08.pdf?hsLang=en・3回目）
+- 日本の担い手：
+  - 「JAPAN AIRLINES VENTURES」（https://japanairlinesventures.com/ja/portfolio/foxrobotics/・3回目）
+  - 「直近の2,400万ドルの資金調達ラウンドに参加した日本航空のような投資家パートナーによってもたらされた機会は、既存の顧客との関係を構築するだけでなく、さまざまな業種での事業拡大への道を開き、今後の大きな成長の可能性に向けて事業を拡大する上で極めて重要です」（https://japanairlinesventures.com/ja/portfolio/foxrobotics/・3回目）
+  - 「JAPAN AIRLINES VENTURES（CVC）」（https://japanairlinesventures.com/ja/portfolio/foxrobotics/・3回目）
+  - 「JAPAN AIRLINES VENTURES」（https://japanairlinesventures.com/portfolio/foxrobotics/・3回目）
+  - 「at JAPAN AIRLINES VENTURES」（https://japanairlinesventures.com/portfolio/foxrobotics/・3回目）
+  - 「Main: Summary of Content and Significance + Comparison with Japan」（https://note.com/yamarikiedge/n/nc209aab5f765?hl=en・3回目）
+  - 「Dr. Fox's work at AI2 will open new doors for AI and robotics. Such movements have an impact that spreads across the entire industry, encouraging new challenges for researchers and engineers around the world, including in Japan.」（https://note.com/yamarikiedge/n/nc209aab5f765?hl=en・3回目）
+- 規模・親会社：
+  - 「Automate repetitive tasks for employees to move into more skilled, higher-paying positions」（https://foxrobotics.com/・1回目）
+  - 「By employing robots to work alongside humans, you can expect more consistent operations, greater productivity, and lower labor costs. For your employees, this means safer working conditions and fewer repetitive tasks, improving overall workplace satisfaction.」（https://foxrobotics.com/about-us・1回目）
+  - 「By employing robots to work alongside humans, you can expect more consistent operations, greater productivity, and lower labor costs. For your employees, this means safer working conditions and fewer repetitive tasks, improving overall workplace satisfaction.」（https://foxrobotics.com/about-us?hsLang=en・1回目）
+  - 「AMRs automate an array of」（https://info.foxrobotics.com/hubfs/fox-case-study-march-2024-v08.pdf?hsLang=en・3回目）
+- 検索結果の抜粋：
+  - 「Fox Robotics — Our goal at Fox Robotics is to fully automate the last piece of the puzzle in end-to-end automation–the warehouse loading dock–and we’re working tirelessly to make this aspiration a reality.」（https://foxrobotics.com/・3回目）
+  - 「Fox Robotics - JAPAN AIRLINES VENTURES — Jul 19, 2023 · “Fox Roboticsのチームに加わり、世界をリードする自律型フォークリフト・ソリューションを開発・展開する旅に参加できることを、これほどうれしく思うことはありません。」（https://japanairlinesventures.com/ja/portfolio/foxrobotics/・3回目）
+  - 「ウォルマート、アマゾン対抗でロボット式フォークリフト導入へ — Jul 16, 2024 · このたび、オースティンに拠点を置くスタートアップ企業であるFox Roboticsとのパートナーシップを通じて、19台のロボット式フォークリフトが配送センターに導入されることになった。」（https://innovatopia.jp/robot/robot-news/22045/・3回目）
+  - 「Fox Robotics — We started Fox Robotics in 2017 with the goal of making robots that work. A group of engineers set out to create a company that could keep up with the fast-paced world of automation and build safe and intelligent robotic forklifts at scale.」（https://foxrobotics.com/・3回目）
+  - 「Fox Robotics Company Overview — Fox Robotics combines the latest in robotics, machine learning, optimization, and planning to build autonomous forklifts that are smart, safe, and effective.」（https://foxrobotics.com/hubfs/Fox_Robotics_Company_Fact_Sheet_Updated+3.12.2025.pdf・3回目）
+  - 「Fox Robotics - JAPAN AIRLINES VENTURES — Jul 19, 2023 · With the expansion of e-commerce and the labor shortage, the automation of logistics warehouses is accelerating. Through investment in Fox Robotics, we aim to promote the digital transformation (DX) of our cargo business and drive improvements in operational productivity.”」（https://japanairlinesventures.com/portfolio/foxrobotics/・3回目）
+  - 「fox-case-study-march-2024-v08 — Founded in 2017, Fox Robotics is leading the industry in autonomous pallet workflows to improve workplace safety and productivity in warehouses across the U.S. and Canada.」（https://info.foxrobotics.com/hubfs/fox-case-study-march-2024-v08.pdf?hsLang=en・3回目）
+  - 「Fox Robotics - Connect with Us — Fox has deployed over 120 ATLs across the USA and Canada with over 7 million pallets moved in customer facilities. We are fully focused on pallet transport and the first and last pieces of the end-to-end autonomous warehouse–the loading dock.」（https://info.foxrobotics.com/ppc-optin-thank-you・3回目）
+  - 「ABW uses FoxBot autonomous trailer loader to improve ... — Aug 15, 2024 · All these factors allow ABW logistics operators to reallocate labor elsewhere in their warehouses, improve efficiency with fewer staffers, and maximize uptime, said Fox Robotics. Editor’s note: This case study is published with permission from Fox Robotics.」（https://www.automatedwarehouseonline.com/abw-uses-foxbot-autonomous-trailer-loader-to-improve-warehouse-safety-productivity/・3回目）
+  - 「Fox Robotics Surpasses 2.5 Million Pallet Pulls with Industry ... — Feb 6, 2024 · "We created the Fox Robotics autonomous trailer loader/unloader to solve for the very critical automation of the warehouse gateway – the shipping and receiving dock.」（https://www.businesswire.com/news/home/20240205930514/en/Fox-Robotics-Surpasses-2.5-Million-Pallet-Pulls-with-Industry-First-FoxBot-Autonomous-Trailer-LoaderUnloader・3回目）
+  - 「Fox Robotics 2026 Company Profile: Valuation, Investors ...Fox Robotics – Financials, Industry Trends & Funding Info – 2026Fox Robotics - 2026 Company Profile, Team, Funding ... - TracxnFox Robotics - 2026 Company Profile, Funding - The Company CheckFox Robotics Company OverviewFox Robotics - Overview, News & Similar companies - ZoomInfoFox Robotics: Employees, Headcount Growth, Org Chart, Layoffs」（https://pitchbook.com/profiles/company/399512-08・3回目）
+  - 「Fox Robotics – Financials, Industry Trends & Funding Info – 2026 — Industry estimates place Fox Robotics's yearly revenue at around $41.7M. The company’s workforce productivity is estimated at $353K in annual revenue per employee. Funding raised by Fox Robotics over the years amounts to $6M. There are currently more than 100+ employees working at Fox Robotics.」（https://compworth.com/company/fox-robotics・3回目）
+- 創業年度：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部40頁・検索12回）
+- 株主：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部40頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部40頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部40頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部40頁・検索12回）
+- 料金：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部40頁・検索12回）
+- 連絡先：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部40頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部40頁・検索12回）
+
+## Fraud0
+- 公式URL：https://www.fraud0.com/（given）
+- 創業年度：Founded：2020（https://prospeo.io/c/fraud0-com-revenue・3回目）
+- 株主：$6,600,000（https://prospeo.io/c/fraud0-com-revenue・3回目）
+- 売上高：$86,000（https://prospeo.io/c/fraud0-com-revenue・3回目）
+- 所在地：Sendlinger Straße 7 münchen, Munich, 80331, DE（https://prospeo.io/c/fraud0-com-revenue・3回目）
+- 採用・広告の製品：
+  - 「100% Google-compliant refund process」（https://www.fraud0.com/・1回目）
+  - 「fraud0 gave us actual evidence of invalid traffic and handled the heavy lifting on the claims process. We received 30x more refunds than before.」（https://www.fraud0.com/・1回目）
+  - 「Head of Online Marketing」（https://www.fraud0.com/・1回目）
+  - 「It was shocking to see that in some months up to 71% of our traffic came from bots. fraud0 helps us understand what is real and what is fake. It automatically claims refunds for us and helps protect our spend.」（https://www.fraud0.com/・1回目）
+  - 「Online-Marketing Manager」（https://www.fraud0.com/・1回目）
+  - 「We detect out-of-geo clicks and targeting errors and reclaim spend from misserved ads.」（https://www.fraud0.com/・1回目）
+  - 「Prevent invalid activity pre-bill」（https://www.fraud0.com/・1回目）
+  - 「Am I a victim of advertising fraud?」（https://www.fraud0.com/・1回目）
+  - 「The answer is probably yes. We have seen everything from 1% – 100% fraudulent traffic. What we’ve never seen, however, is 0%. Even if you’ve been a victim of ad fraud before, it’s never too late to do something about it.」（https://www.fraud0.com/・1回目）
+  - 「Protect and uplift your clients’ marketing」（https://www.fraud0.com/agencies・1回目）
+  - 「Exceed your clients’ expectations by protecting their budgets and improving results.」（https://www.fraud0.com/agencies・1回目）
+  - 「Through smart insights and fraud prevention, you boost performance at scale.」（https://www.fraud0.com/agencies・1回目）
+- 製造業の実績：
+  - 「Trusted by leading brands and advertisers」（https://www.fraud0.com/・1回目）
+  - 「Trusted by leading brands and advertisers」（https://www.fraud0.com/agencies・1回目）
+  - 「Trusted by leading brands and advertisers」（https://www.fraud0.com/resources/success-stories・1回目）
+- 規模・親会社：
+  - 「Become part of the team」（https://www.fraud0.com/about・1回目）
+  - 「We are always looking for talented, ambitious people to join our team and become a part of our mission.」（https://www.fraud0.com/about・1回目）
+  - 「fraud0.com Revenue, Funding & Valuation」（https://prospeo.io/c/fraud0-com-revenue・3回目）
+  - 「fraud0.com Revenue」（https://prospeo.io/c/fraud0-com-revenue・3回目）
+  - 「View Financials And Employees At fraud0.com」（https://prospeo.io/c/fraud0-com-revenue・3回目）
+  - 「industry and current estimated revenues」（https://prospeo.io/c/fraud0-com-revenue・3回目）
+  - 「Employees by Management Level」（https://prospeo.io/c/fraud0-com-revenue・3回目）
+  - 「Employees by Department」（https://prospeo.io/c/fraud0-com-revenue・3回目）
+  - 「What are the revenues of fraud0.com?」（https://prospeo.io/c/fraud0-com-revenue・3回目）
+  - 「fraud0.com generates an estimated annual revenue of」（https://prospeo.io/c/fraud0-com-revenue・3回目）
+  - 「. This revenue figure reflects the company's market position and business performance in its industry.」（https://prospeo.io/c/fraud0-com-revenue・3回目）
+  - 「. This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.」（https://prospeo.io/c/fraud0-com-revenue・3回目）
+- 連絡先：
+  - 「Build leads list with verified emails & mobiles」（https://prospeo.io/c/fraud0-com-revenue・3回目）
+- 検索結果の抜粋：
+  - 「エンタープライズ向けソリューション - fraud0 — Go-to-Marketを保護し、パフォーマンスを最大化。」（https://www.fraud0.com/jp/enterprise・3回目）
+  - 「無駄な広告費を削減する - fraud0 — 返金はいつ頃から反映されますか？ 導入の流れを教えてください。 払い過ぎた広告費を取り戻しませんか？ 登録して設定するだけで、あとはAIアシスタントが自動でアドフラウド (不正な広告トラフィック)を遮断し、過払いした広告を返金請求します。」（https://www.fraud0.com/jp/・3回目）
+  - 「fraud0.com Revenue, Funding & Valuation - prospeo.io — fraud0.com has revenue of $2,224,430, estimated valuation of $7,200,000, $6,600,000 in total funding. Find contacts and company information on Prospeo.」（https://prospeo.io/c/fraud0-com-revenue・3回目）
+  - 「fraud0 2026 Company Profile: Valuation, Funding & Investors ...fraud0 - 2025 Company Profile, Team, Funding, Competitors ...Inside Messy, Fast-Growing Mercor, Run By Youngest-Ever Self ...Founded Revenue, Funding & Valuation - prospeo.ioFraud.net – Revenue, Valuation & Top Competitors – 2026Fraud.net 2026 Company Profile: Valuation, Funding ... — Information on valuation, funding, cap tables, inve」（https://pitchbook.com/profiles/company/497236-60・3回目）
+  - 「fraud0 - 2025 Company Profile, Team, Funding, Competitors ... — Sep 2, 2025 · fraud0 is a series A company based in Munich (Germany), founded in 2020 by Tilman Andreas Pfeiffer. It operates as a Cloud based ad fraud detection software. fraud0 has raised $6.5M in funding from Signals Venture Capital.」（https://tracxn.com/d/companies/fraud0/__sJ2oinkWwfLBDF7QXK5X6XCGCIE8dDuKkUH3ZGa5v94・3回目）
+- 従業員数：記載なし（3回確認済み：公式5頁／PDF・画像4件／外部26頁・検索12回）
+- 料金：記載なし（3回確認済み：公式5頁／PDF・画像4件／外部26頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式5頁／PDF・画像4件／外部26頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式5頁／PDF・画像4件／外部26頁・検索12回）
+
+## FreePoint Technologies
+- 公式URL：https://getfreepoint.com/（given）
+- 株主：$39.3K（https://getlatka.com/companies/freepoint-technologies・3回目）
+- 採用・広告の製品：
+  - 「Production Scheduling」（https://machinemonitoring.com・1回目）
+  - 「From machine performance monitoring to job scheduling and proactive alerts, get the insights you need to keep everything running smoothly and reduce inefficiency costs with ShiftWorx.」（https://machinemonitoring.com・1回目）
+  - 「Measure. Analyze. Improve!」（https://machinemonitoring.com・1回目）
+  - 「Measure your critical production areas with the ShiftWorx solution. Our patented machine monitoring system cloud-connects equipment of any age, type or brand providing real-time data and actionable result.」（https://machinemonitoring.com・1回目）
+  - 「Role-based views for floor, cell, and enterprise; threshold and event alerts.」（https://machinemonitoring.com・1回目）
+  - 「Real-time production monitoring that empowers manufacturers to monitor, optimize, and streamline production processes for improved efficiency and profitability.」（https://machinemonitoring.com・1回目）
+  - 「Optimizes your business systems by minimizing data duplication and providing a unified access point that boosts efficiency and fosters seamless data engagement throughout your organization.」（https://machinemonitoring.com・1回目）
+  - 「Equip shop floor operators to swiftly notify the appropriate team member or supervisor through SMS and email about production or quality issues with a single button click.」（https://machinemonitoring.com・1回目）
+  - 「Empowers you to streamline your production planning and enhance the utilization of all resources for significant gains in efficiency and productivity.」（https://machinemonitoring.com・1回目）
+  - 「Enhance your operations by equipping your team with detailed, Standard Operating Procedures and Checklists designed to minimize mistakes and boost productivity throughout your workflow.」（https://machinemonitoring.com・1回目）
+  - 「“Feature rich management system with exceptional ROI. Easily deployable by anyone with reasonable ability to follow directions. Dashboard visuals require less setup than many other systems and are focused on real business needs. The price is extremely affordable, and you’re not forced to use proprietary hardware beyond that which is needed to communicate to the cloud backend.”」（https://machinemonitoring.com・1回目）
+  - 「ShiftWorx offers a suite of features designed to optimize your manufacturing processes and improve overall efficiency.」（https://machinemonitoring.com・1回目）
+- 製造業の実績：
+  - 「Manufacturing Notifications」（https://machinemonitoring.com・1回目）
+  - 「Start with a pilot line and scale plant-wide without rework.」（https://machinemonitoring.com・1回目）
+  - 「Real-time production monitoring that empowers manufacturers to monitor, optimize, and streamline production processes for improved efficiency and profitability.」（https://machinemonitoring.com・1回目）
+  - 「Equip shop floor operators to swiftly notify the appropriate team member or supervisor through SMS and email about production or quality issues with a single button click.」（https://machinemonitoring.com・1回目）
+  - 「“After implementing ShiftWorx, Excel experienced a 40% decrease in machine downtime. Runtime on our cutting machines increased by 50%. All employees could see how their machine was running and this helped engage machine operators in keeping their machines running and identifying reasons for downtime.”」（https://machinemonitoring.com・1回目）
+  - 「ShiftWorx offers a suite of features designed to optimize your manufacturing processes and improve overall efficiency.」（https://machinemonitoring.com・1回目）
+  - 「Color Sensors - Industrial」（https://www.jollybom.com/ja/manufacturers/freepoint-technologies.html・3回目）
+  - 「Encoders - Industrial」（https://www.jollybom.com/ja/manufacturers/freepoint-technologies.html・3回目）
+  - 「Float, Level Sensors - Industrial」（https://www.jollybom.com/ja/manufacturers/freepoint-technologies.html・3回目）
+  - 「Flow Sensors - Industrial」（https://www.jollybom.com/ja/manufacturers/freepoint-technologies.html・3回目）
+  - 「Force Sensors - Industrial」（https://www.jollybom.com/ja/manufacturers/freepoint-technologies.html・3回目）
+  - 「Magnetic Sensors - Position, Proximity, Speed (Modules) - Industrial」（https://www.jollybom.com/ja/manufacturers/freepoint-technologies.html・3回目）
+- 再販・ホワイトラベル：
+  - 「Internet of Things Inc. consolidates data-driven industrial IoT companies. The Company owns Weather Telematics Inc., has a joint venture channel partnership with Shanghai New Hope Data Technology Co. Ltd., and is headquartered in Toronto, Canada.」（https://the-internet-of-things-inc.webware.io/blogs/toronto-artificial-intelligence-company-blog/450625-internet-of-things-inc----new-hope-data-joint-venture-launch-pilot-with-freepoint-technologies-in-china・3回目）
+- 規模・親会社：
+  - 「“After implementing ShiftWorx, Excel experienced a 40% decrease in machine downtime. Runtime on our cutting machines increased by 50%. All employees could see how their machine was running and this helped engage machine operators in keeping their machines running and identifying reasons for downtime.”」（https://machinemonitoring.com・1回目）
+  - 「Capacitor Networks, Arrays」（https://www.jollybom.com/ja/manufacturers/freepoint-technologies.html・3回目）
+  - 「Resistor Networks, Arrays」（https://www.jollybom.com/ja/manufacturers/freepoint-technologies.html・3回目）
+  - 「Barrel - Audio Cables」（https://www.jollybom.com/ja/manufacturers/freepoint-technologies.html・3回目）
+  - 「Barrel - Power Cables」（https://www.jollybom.com/ja/manufacturers/freepoint-technologies.html・3回目）
+  - 「“Our JV with New Hope Data is an important strategic distribution channel into the Chinese market, and remains critical to both our revenue streams and our consolidation strategy,” said Ron Shuttleworth, CEO of IoT Inc. “The FreePoint solution has been sourced to address immediate production and inventory management opportunities identified by our local management team in China.”」（https://the-internet-of-things-inc.webware.io/blogs/toronto-artificial-intelligence-company-blog/450625-internet-of-things-inc----new-hope-data-joint-venture-launch-pilot-with-freepoint-technologies-in-china・3回目）
+  - 「FreePoint Technologies CEO, Founder, Key Executive Team, Board of Directors & Employees」（https://www.cbinsights.com/company/freepoint-technologies/people・3回目）
+  - 「FreePoint Technologies Revenue 2024: $3M Est., $39.3K Raised」（https://getlatka.com/companies/freepoint-technologies・3回目）
+  - 「FreePoint Technologies revenue」（https://getlatka.com/companies/freepoint-technologies・3回目）
+  - 「FreePoint Technologies has not published its revenue. GetLatka estimates it at about $3M a year (June 2024).」（https://getlatka.com/companies/freepoint-technologies・3回目）
+  - 「All 2 revenue readings, with sources」（https://getlatka.com/companies/freepoint-technologies・3回目）
+  - 「FreePoint Technologies CEO, founders & employees」（https://getlatka.com/companies/freepoint-technologies・3回目）
+- 連絡先：
+  - 「Automate updates for your team on machine downtimes and maintenance requirements. Get instant alerts through email or SMS to keep everyone aware of machine performance and issues.」（https://machinemonitoring.com・1回目）
+  - 「Equip shop floor operators to swiftly notify the appropriate team member or supervisor through SMS and email about production or quality issues with a single button click.」（https://machinemonitoring.com・1回目）
+- 検索結果の抜粋：
+  - 「FreePoint Technologies - Jolly Electronic Technology (HK) Co ... — FreePoint Technologies FreePoint Technologies' ShiftWorx™ software enables manufacturers in the collection, monitoring, and visualization of machine data. Factory machines of any age, type or brand can be cloud-connected, putting vital analytics in the hands of management and plant floor workers resulting in improved productivity, 」（https://www.jollybom.com/ja/manufacturers/freepoint-technologies.html・3回目）
+  - 「Internet of Things Inc. & New Hope Data Joint Venture Launch ... — About FreePoint Technologies Inc. FreePoint provides Industrial Internet of Things (IIoT) software to manufacturers worldwide, helping them easily, rapidly, and cost-effectively connect to their machines and with their people, delivering immediate improvements in situational awareness and operational efficiency on the manufacturing」（https://the-internet-of-things-inc.webware.io/blogs/toronto-artificial-intelligence-company-blog/450625-internet-of-things-inc----new-hope-data-joint-venture-launch-pilot-with-freepoint-technologies-in-china・3回目）
+  - 「FreePoint Technologies CEO, Founder, Key Executive Team ... — Explore {FreePoint Technologies's key management people. Discover current leadership team members including founders, CEO, other executives and board directors.」（https://www.cbinsights.com/company/freepoint-technologies/people・3回目）
+  - 「ShiftWorx by FreePoint Technologies - Production Monitoring ... — About FreePoint Technologies’ ShiftWorx software provides a ‘holistic’ production floor platform featuring a fully modular suite of products, that when applied in whole or in succession ...」（https://www.linkedin.com/products/freepoint-technologies-inc--shiftworx™-machine-monitoring-manufacturing-execution-system-saas/・3回目）
+  - 「FreepointTechnologies Inc - Company Profile and News — Company profile page for FreepointTechnologies Inc including stock price, company news, executives, board members, and contact information」（https://www.bloomberg.com/profile/company/1697621D:CN・3回目）
+  - 「Case Study - Caldwell - FreePoint Technologies | PDF - SlideShare — Case Study - Caldwell - Download as a PDF or view online for free」（https://www.slideshare.net/slideshow/case-study-caldwell-freepoint-technologies/275108155・3回目）
+  - 「Case Study - Nortera - FreePoint Technologies | PDF - SlideShare — Case Study - Nortera - FreePoint Technologies - Download as a PDF or view online for free」（https://www.slideshare.net/slideshow/case-study-nortera-freepoint-technologies/275136493・3回目）
+  - 「FreePoint Technologies | Top Manufacturing Technology Company ... — Customers associated with FreePoint share the drive to improve shop floor efficiency by engaging with employees, which leads to improved machine utilization and manufacturing throughput. FreePoint’s offerings can be demonstrated through its association with a precision metal stamping and assembly company that was founded in 1970.」（https://www.cioapplications.com/freepoint-technologies・3回目）
+  - 「Caldwell Client Story - FreePoint Technologies | DigiKey — Increase efficiency with FreePoint Technologies.」（https://www.digikey.com/en/pdf/f/freepoint-technologies/caldwell-client-story・3回目）
+  - 「How ShiftWorx transformed manufacturing with FreePoint ... — This case study showcases how the implementation of ShiftWorx from FreePoint Technologies Inc. dramatically enhanced machine productivity by an astounding 42 percent!」（https://www.linkedin.com/posts/jasonmaclean83_case-study-critical-machine-productivity-activity-7181000302894964738-GawS・3回目）
+  - 「FreePoint Technologies Revenue 2024: $3M Est., $39.3K Raised — Aug 10, 2026 · FreePoint Technologies 2024 estimated revenue: $3M (up from $1.5M in 2015). Total funding: $39.3K across 1 round. 22 employees. Updated Aug 10, 2026.」（https://getlatka.com/companies/freepoint-technologies・3回目）
+  - 「FreePoint Technologies – Business Snapshot & Rival Analysis – … — FreePoint Technologies is seeing growth with estimated revenue of $2.8M, team of around 20+ employees, based in Ontario, pushing forward with smart strategies.」（https://compworth.com/company/freepoint-technologies・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）
+
+## Froomle
+- 公式URL：https://www.froomle.ai/（given）
+- 創業年度：Founded：2016（https://prospeo.io/c/froomle-revenue・3回目）
+- 株主：12-Mar-2021    Completed Generating Revenue（https://pitchbook.com/profiles/company/384730-93・3回目）
+- 株主：No funding（https://prospeo.io/c/froomle-revenue・3回目）
+- 売上高：$86,000（https://prospeo.io/c/froomle-revenue・3回目）
+- 所在地：Posthofbrug 6-8, Antwerpen, Antwerpen 2600, BE（https://prospeo.io/c/froomle-revenue・3回目）
+- 採用・広告の製品：
+  - 「Artificial intelligence, built to strengthen newsroom intelligence — connecting readers, content, and editorial decisions in a continuous learning loop.」（https://www.froomle.ai/・1回目）
+  - 「Personalized newsletters and notifications bring the right content back to each reader.」（https://www.froomle.ai/・1回目）
+  - 「Froomle shared how they leverage their advanced A/B testing setup, live data and shadow deployments to prioritize online experiments over offline validation... allowing for easier debugging and improvements.」（https://www.froomle.ai/・1回目）
+  - 「Froomle is a spin-off from the University of Antwerp, founded in 2016 to bridge the gap between academic theory and production-grade AI. Our journey started with 20+ years of research by Prof. dr. Bart Goethals, whose work on conversion through personalization led to collaborations with researchers at major tech companies like Netflix and Apple.」（https://www.froomle.ai/about・1回目）
+  - 「Today, our product team maintains a deep connection with the university, including researchers who have pursued PhDs specifically in AI-based personalization. This academic rigor is not just our history—it's our competitive edge, ensuring every recommendation is validated by science before it reaches a reader.」（https://www.froomle.ai/about・1回目）
+  - 「— Prof. dr. Bart Goethals, Founder & CEO」（https://www.froomle.ai/about・1回目）
+  - 「Froomle is a spin-off from the University of Antwerp, founded in 2016 to bridge the gap between academic theory and production-grade AI. Our journey started with 20+ years of research by Prof. dr. Bart Goethals, whose work on conversion through personalization led to collaborations with researchers at major tech companies like Netflix and Apple.」（https://www.froomle.com/about・3回目）
+  - 「Today, our product team maintains a deep connection with the university, including researchers who have pursued PhDs specifically in AI-based personalization. This academic rigor is not just our history—it's our competitive edge, ensuring every recommendation is validated by science before it reaches a reader.」（https://www.froomle.com/about・3回目）
+  - 「— Prof. dr. Bart Goethals, Founder & CEO」（https://www.froomle.com/about・3回目）
+  - 「Froomle is a leading provider of self-learning recommendation engines, creating personalized online experiences in real-time. In partnership with researchers from University of Antwerp, Netflix and Apple, they developed the Froomle Open AI platform driving break-through performance in relevancy and fast go-to market through cloud based AI services and personalization algorithms.」（https://www.casestudies.com/company/froomle・3回目）
+  - 「Recommending relevant wines on Licata’s product page and cart pop-up」（https://www.casestudies.com/company/froomle・3回目）
+  - 「Mediafin boosts CTR and reactivates older content with Froomle」（https://www.casestudies.com/company/froomle・3回目）
+- 製造業の実績：
+  - 「Trusted by Leading Media Organizations」（https://www.froomle.ai/・1回目）
+  - 「Rate This Customer Case Study」（https://www.featuredcustomers.com/vendor/froomle/case-studies・3回目）
+  - 「Case Study: Rio Negro achieves up to 45% CTR with Froomle | CaseStudies.com」（https://www.casestudies.com/company/froomle/case-study/rio-negro-improves-their-online-readers-experience-on-article-pages・3回目）
+  - 「Case Study: Rio Negro achieves up to 45% CTR with Froomle」（https://www.casestudies.com/company/froomle/case-study/rio-negro-improves-their-online-readers-experience-on-article-pages・3回目）
+  - 「View this case study…」（https://www.casestudies.com/company/froomle/case-study/rio-negro-improves-their-online-readers-experience-on-article-pages・3回目）
+  - 「Was it helpful? Rate this case study:」（https://www.casestudies.com/company/froomle/case-study/rio-negro-improves-their-online-readers-experience-on-article-pages・3回目）
+- 規模・親会社：
+  - 「Alpha Foods boosts revenue per user with Froomle recommendations」（https://www.casestudies.com/company/froomle・3回目）
+  - 「Licata achieves 55% higher attributed revenue with Froomle」（https://www.casestudies.com/company/froomle・3回目）
+  - 「Nosto is the intelligent Commerce Experience Platform (CXP) that gives brands and retailers intuitively designed tools to increase online revenue through end-to-end commerce experience management. With experience.AI™, Nosto helps brands …」（https://www.featuredcustomers.com/vendor/froomle/case-studies・3回目）
+  - 「Coveo brings superior AI-Relevance to every point-of-experience, transforming how enterprises connect with their customers and employees to maximize business outcomes. Relevance is about moving from persona to person, the degree …」（https://www.featuredcustomers.com/vendor/froomle/case-studies・3回目）
+  - 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/froomle/case-studies・3回目）
+  - 「See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.」（https://pitchbook.com/profiles/company/384730-93・3回目）
+  - 「Froomle has 10 total employees.」（https://pitchbook.com/profiles/company/384730-93・3回目）
+  - 「What is Froomle’s current revenue?」（https://pitchbook.com/profiles/company/384730-93・3回目）
+  - 「The current revenue for Froomle is」（https://pitchbook.com/profiles/company/384730-93・3回目）
+  - 「Froomle Revenue, Funding & Valuation」（https://prospeo.io/c/froomle-revenue・3回目）
+  - 「View Financials And Employees At Froomle」（https://prospeo.io/c/froomle-revenue・3回目）
+  - 「industry and current estimated revenues」（https://prospeo.io/c/froomle-revenue・3回目）
+- 連絡先：
+  - 「Mediahuis boosts email newsletter clicks with Froomle personalization」（https://www.casestudies.com/company/froomle・3回目）
+  - 「Contact us today to take control of your profile for」（https://www.featuredcustomers.com/vendor/froomle/case-studies・3回目）
+  - 「Contact us today for pricing options to add your customer」（https://www.featuredcustomers.com/vendor/froomle/case-studies・3回目）
+  - 「Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.」（https://pitchbook.com/profiles/company/384730-93・3回目）
+  - 「Build leads list with verified emails & mobiles」（https://prospeo.io/c/froomle-revenue・3回目）
+- 検索結果の抜粋：
+  - 「Froomle.ai | Intelligent Personalization for Media — AI-powered recommendations giving publishers full control. Increase engagement, retention, and revenue with Froomle.」（https://www.froomle.ai/・3回目）
+  - 「Froomle.ai | Intelligent Personalization for Media — "We built Froomle to give publishers access to world-class personalization technology, without the years of investment needed to build large AI research teams themselves."」（https://www.froomle.com/about・3回目）
+  - 「Froomle - LinkedIn 日本 — Froomle is composed of experts in recommender systems for the digital publishing industry, allowing us to offer an extensive catalog of specialized modules that are tailored to meet your specific...」（https://jp.linkedin.com/company/froomle・3回目）
+  - 「What is the Froomle platform? :: Froomle Product Documentation — Froomle is an AI-powered platform that delivers the right content, to the right user, in the right context. Using a flexible toolkit of proven algorithms, we provide personalized and contextual recommendations across your website, emails, push campaigns, on-site search, and interactive chatbots.」（https://docs.froomle.ai/froomle-doc-main/v2/index.html・3回目）
+  - 「Froomle B2B Case Studies & Customer Successes — See how Froomle solves business challenges—real case studies from satisfied customers across industries.」（https://www.casestudies.com/company/froomle・3回目）
+  - 「22 Froomle Case Studies, Success Stories, & Customer Stories — Discover how other companies use Froomle, get inspired, and find ways to improve your business.」（https://www.featuredcustomers.com/vendor/froomle/case-studies・3回目）
+  - 「6074bab696470b6bed64ba5f Froomle - Mediahuis case study — > Approach 3 is a 1:1 personalization. It takes into account user behavior, various filtering capabilities, diversification, and some business rules tailored specifically per news brand. ation, taking into account also impression discounting. Furthermore, within Approach 4, we test several algorithms with different weights to FROOMLE」（https://cdn.featuredcustomers.com/CustomerCaseStudy.document/Case_study_-1.pdf・3回目）
+  - 「Case Study: Rio Negro achieves up to 45% CTR with Froomle — The result was a continuously growing click-through rate reaching up to 45%, and the best personalization version delivered an 84% uplift versus the baseline showing recent articles. View this case study…」（https://www.casestudies.com/company/froomle/case-study/rio-negro-improves-their-online-readers-experience-on-article-pages・3回目）
+  - 「Froomle.ai | Intelligent Personalization for Media — " Froomle shared how they leverage their advanced A/B testing setup, live data and shadow deployments to prioritize online experiments over offline validation... allowing for easier debugging and improvements.」（https://www.froomle.ai/・3回目）
+  - 「Froomle 2026 Company Profile: Valuation, Funding & Investors ...Froomle – Estimated Net Worth, Growth & Competitor Overview – …Froomle Revenue, Funding & Valuation - prospeo.ioHow Froomle hit $770K revenue with a 7 person team in 2025.Froomle Revenue 2025: $770K Est. ARR (Bootstrapped)Froomle - Crunchbase Company Profile & FundingFroomle (AI, Publishing) — Funding, Investors & Signals 2026 — Infor」（https://pitchbook.com/profiles/company/384730-93・3回目）
+  - 「Froomle – Estimated Net Worth, Growth & Competitor Overview – … — Discover Froomle's estimated revenue, valuation, funding history, employee data, and top competitors.」（https://compworth.com/company/froomle・3回目）
+  - 「Froomle Revenue, Funding & Valuation - prospeo.io — Working with both media conglomerates (Axel Springer, GEDI, Hello!, Mediahuis) and independent publishers (The Boston Globe, IOL, Mediafin), Froomle has a solution for any size.」（https://prospeo.io/c/froomle-revenue・3回目）
+- 従業員数：記載なし（3回確認済み：公式2頁／PDF・画像4件／外部33頁・検索12回）
+- 料金：記載なし（3回確認済み：公式2頁／PDF・画像4件／外部33頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式2頁／PDF・画像4件／外部33頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式2頁／PDF・画像4件／外部33頁・検索12回）
+
+## Fullenrich
+- 公式URL：https://fullenrich.com（given）
+- 株主：18-Feb-2025 $2M   Completed Generating Revenue（https://pitchbook.com/profiles/company/707482-00・3回目）
+- 連絡先：（https://fullenrich.com/pricing・1回目）
+- 採用・広告の製品：
+  - 「Find your next prospect & account」（https://fullenrich.com/・1回目）
+  - 「20+ premium vendors」（https://fullenrich.com/・1回目）
+  - 「Every delivered email carries its own bounce probability, so you know your expected bounce rate before you send.」（https://fullenrich.com/・1回目）
+  - 「We're moving to Enterprise.」（https://fullenrich.com/・1回目）
+  - 「Marketing Operation Managers」（https://fullenrich.com/・1回目）
+  - 「priya.sharma@slack.com」（https://fullenrich.com/・1回目）
+  - 「FullEnrich Pricing: Pay Only for Verified Contacts | Plans from Free」（https://fullenrich.com/pricing・1回目）
+  - 「Everything in Pro, plus:」（https://fullenrich.com/pricing・1回目）
+  - 「Ideal for teams that want data on demand to power their GTM or product.」（https://fullenrich.com/pricing・1回目）
+  - 「products embedding FullEnrich.」（https://fullenrich.com/pricing・1回目）
+  - 「For Every Enterprise Customer」（https://fullenrich.com/pricing・1回目）
+  - 「Custom rate limits & priority queue」（https://fullenrich.com/pricing・1回目）
+- 製造業の実績：
+  - 「We are a fast growing, high-agency team of builders, operators and closers across two」（https://fullenrich.com/careers・1回目）
+  - 「FullEnrich's Case Study | Genesys Growth」（https://genesysgrowth.com/case-studies/fullenrich・3回目）
+  - 「Fullenrich Case Study | OneAway」（https://oneaway.io/case-study/fullenrich・3回目）
+  - 「No named customer case study was found on」（https://www.therevenueaireport.com/capabilities/fullenrich・3回目）
+  - 「No named customer case study was found on FullEnrich's site at the last check. That is not evidence the tool does not work, but there is nothing public to hold the vendor to. Ask for a reference in your segment and stage before buying.」（https://www.therevenueaireport.com/capabilities/fullenrich・3回目）
+- 再販・ホワイトラベル：
+  - 「Ideal for teams that need data at scale: large GTM teams, agencies, and」（https://fullenrich.com/pricing・1回目）
+  - 「For Embedded API & Resellers」（https://fullenrich.com/pricing・1回目）
+  - 「Created 10+ landing pages across comparisons, personas, and partner programs」（https://genesysgrowth.com/case-studies/fullenrich・3回目）
+  - 「: The dedicated sales decks for core and API offerings combined with four partner program pages created systematic frameworks for revenue growth and market expansion. The consultative selling approach and partnership value propositions maximized deal size while establishing sustainable frameworks for ongoing customer acquisition.」（https://genesysgrowth.com/case-studies/fullenrich・3回目）
+- 日本の担い手：
+  - 「FullEnrich（フルエンリッチ）とは？料金・機能・日本語対応まとめ | SaaSナビ」（https://saasnavi.net/tools/fullenrich/・3回目）
+  - 「Q. FullEnrich（フルエンリッチ）は日本語に対応していますか？」（https://saasnavi.net/tools/fullenrich/・3回目）
+  - 「日本語対応 (3)」（https://saasnavi.net/alternative/fullenrich/・3回目）
+  - 「Pipedrive（パイプドライブ）はFullEnrich（フルエンリッチ）と同様の機能を持ち、日本語対応も充実しています」（https://saasnavi.net/alternative/fullenrich/・3回目）
+  - 「Q. 日本語対応しているFullEnrich（フルエンリッチ）の代替サービスは？」（https://saasnavi.net/alternative/fullenrich/・3回目）
+  - 「HubSpot（ハブスポット）、Salesforce（セールスフォース）、Zoho CRM（ゾーホー CRM）が日本語に完全対応しています」（https://saasnavi.net/alternative/fullenrich/・3回目）
+  - 「リリース前後にリスト量が増え、キャンペーンの合間に減る代理店にも、長い繰越期間が役立ちます」（https://omidsaffari.com/ja/blog/fullenrich-vs-bettercontact-ja・3回目）
+  - 「毎月およそ1,000件の業務用メール取得を必要とする個人経営の代理店や、余らせずに5,000クレジットを使える電話営業中心のチームなら、BetterContactは料金面で分かりやすい選択肢です」（https://omidsaffari.com/ja/blog/fullenrich-vs-bettercontact-ja・3回目）
+- 規模・親会社：
+  - 「Every delivered email carries its own bounce probability, so you know your expected bounce rate before you send.」（https://fullenrich.com/・1回目）
+  - 「Every number is checked with the carrier network. Dead lines are removed.」（https://fullenrich.com/・1回目）
+  - 「Your new revenue per month」（https://fullenrich.com/・1回目）
+  - 「current revenue / month」（https://fullenrich.com/・1回目）
+  - 「Every delivered email carries its own bounce probability, so you know your expected bounce rate before you send.」（https://fullenrich.com/solutions/sales・1回目）
+  - 「Every number is checked with the carrier network. Dead lines are removed.」（https://fullenrich.com/solutions/sales・1回目）
+  - 「500+ employees」（https://fullenrich.com/solutions/marketing・1回目）
+  - 「Every delivered email carries its own bounce probability, so you know your expected bounce rate before you send.」（https://fullenrich.com/solutions/marketing・1回目）
+  - 「500+ employees」（https://fullenrich.com/solutions/revops・1回目）
+  - 「Every delivered email carries its own bounce probability, so you know your expected bounce rate before you send.」（https://fullenrich.com/solutions/revops・1回目）
+  - 「Every number is checked with the carrier network. Dead lines are removed.」（https://fullenrich.com/solutions/revops・1回目）
+  - 「FullEnrich is what high-performing RevOps teams use so they don't have to become data engineers. We run the aggregation, the verification, and the provider layer. You run revenue.」（https://fullenrich.com/solutions/revops・1回目）
+- 連絡先：
+  - 「FullEnrich — B2B Email & Phone Waterfall Enrichment」（https://fullenrich.com/・1回目）
+  - 「Enrich inbound emails」（https://fullenrich.com/・1回目）
+  - 「If we can't find emails and phone numbers,」（https://fullenrich.com/・1回目）
+  - 「Triple email verification」（https://fullenrich.com/・1回目）
+  - 「Three independent engines must agree. One disagreement removes the email.」（https://fullenrich.com/・1回目）
+  - 「Every delivered email carries its own bounce probability, so you know your expected bounce rate before you send.」（https://fullenrich.com/・1回目）
+  - 「A customer asked what we use for email waterfall — I said use FullEnrich. They replied: '」（https://fullenrich.com/・1回目）
+  - 「We're good on cold emails now. Thanks!!'」（https://fullenrich.com/・1回目）
+  - 「1,000 work emails」（https://fullenrich.com/pricing・1回目）
+  - 「333 personal emails」（https://fullenrich.com/pricing・1回目）
+  - 「1,000 reverse email lookups」（https://fullenrich.com/pricing・1回目）
+  - 「Work email enrichment」（https://fullenrich.com/pricing・1回目）
+- 検索結果の抜粋：
+  - 「FullEnrich（フルエンリッチ）とは？料金・機能・日本語対応まとめ | ... — FullEnrich（フルエンリッチ）は、アメリカ発のCRM・SFAツールです。 20以上のデータプロバイダーを順次検索するウォーターフォール方式のB2Bデータエンリッチメントツール。 メールアドレス・電話番号の検索精度が高く、HubSpot・Salesforce・Apollo連携も可能。」（https://saasnavi.net/tools/fullenrich/・3回目）
+  - 「FullEnrich（フルエンリッチ）の代替ツール おすすめ6選【2026年版】 ... — 料金体系がクレジット制：利用量に応じた課金のため、大量利用時のコスト管理が必要 移行時のポイント FullEnrichから代替サービスへの移行時は、既存のエンリッチメント済みデータ・CRM連携設定を事前に整理することが重要です。」（https://saasnavi.net/alternative/fullenrich/・3回目）
+  - 「FullEnrich: レビュー、機能、価格、ガイド、代替品 — 1. FullEnrichとは何ですか？ FullEnrichは、15以上のプレミアムデータベンダーからの連絡先情報を集約し、ビジネスの見込み客のメールアドレスと電話番号を見つけるのを助けるB2Bメールおよび電話のウォーターフォールエンリッチメントプラットフォームです。」（https://aipure.ai/jp/products/fullenrich・3回目）
+  - 「メールアドレス検索ツール比較｜FullEnrich vs BetterContact | Omid ... — Sep 12, 2026 · FullEnrich と BetterContact という2つのメールアドレス検索ツールは、実証済みの発見率ではなく、処理量の波に合わせて選ぶべきです。 月間1,000クレジット分の取得に成功する場合、BetterContactは$49、FullEnrichは月払いで$55です。」（https://omidsaffari.com/ja/blog/fullenrich-vs-bettercontact-ja・3回目）
+  - 「FullEnrich — ooligo — 複数年のカスタム契約が基本です。 データベースとターゲティングの両方が必要なら ZoomInfo を選んでください。 手元にあるリストのコンタクト項目を埋めるだけなら FullEnrich を選んでください。」（https://ooligo.com/ja/tools/fullenrich/・3回目）
+  - 「FullEnrich — B2B Email & Phone Waterfall Enrichment — #1 Waterfall Enrichment platform with 20+ providers. Find emails and phones of people you want to do business with.」（https://fullenrich.com/・3回目）
+  - 「FullEnrich — B2B Email & Phone Waterfall Enrichment — We piloted FullEnrich with over 70 reps. The results? 2.4x more mobiles found, connect rates that jumped from 6% to 30%, and 5x fewer invalid numbers. They're not just another data vendor. They're the foundation our global outreach runs on. “ Your real differentiator is the accuracy of the data.」（https://fullenrich.com/・3回目）
+  - 「FullEnrich（フルエンリッチ）とは？料金・機能・日本語対応まとめ | ... — FullEnrich（フルエンリッチ）の料金・機能・日本語対応状況を中立にまとめて紹介。 CRM・SFAの代替候補や比較ページもあわせて確認できる。」（https://saasnavi.net/tools/fullenrich/・3回目）
+  - 「FullEnrich — Trust & Safety | Data Security & Compliance ... — Discover how Fullenrich prioritizes trust with secure infrastructure, strict compliance standards, and transparent data practices to protect your business and clients.」（https://fullenrich.com/trust・3回目）
+  - 「FullEnrich — Talk to a Sales Expert — Connect with a FullEnrich sales expert to discuss your needs, explore product options, and get personalized pricing guidance. Start your tailored consultation today.」（https://fullenrich.com/talk-to-sales・3回目）
+  - 「FullEnrich — Do Not Sell My Information | CCPA Opt-Out Request — Exercise your privacy rights with FullEnrich. Submit access, deletion, correction, or do not sell requests.」（https://fullenrich.com/optout・3回目）
+  - 「FullEnrich's Case Study | Genesys Growth — From this research, I developed comprehensive ideal customer profiles using Octave's dynamic ICP modeling that went beyond basic demographics to include specific behavioral and technological characteristics.」（https://genesysgrowth.com/case-studies/fullenrich・3回目）
+- 創業年度：記載なし（3回確認済み：公式11頁／PDF・画像0件／外部33頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式11頁／PDF・画像0件／外部33頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式11頁／PDF・画像0件／外部33頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式11頁／PDF・画像0件／外部33頁・検索12回）
+- 料金：記載なし（3回確認済み：公式11頁／PDF・画像0件／外部33頁・検索12回）
+
+## Fullstackacademy
+- 公式URL：https://www.fullstackacademy.com/（given）
+- 採用・広告の製品：
+  - 「1,500+ companies hire our grads」（https://www.fullstackacademy.com/・1回目）
+  - 「Our bootcamps prepare you to succeed in tech and beyond.」（https://www.fullstackacademy.com/・1回目）
+  - 「Get hired by top-tier companies with support from career coaches.」（https://www.fullstackacademy.com/・1回目）
+  - 「“The bootcamp offers a hands-on approach that really helps you build the skills you need to make a successful career into tech.”」（https://www.fullstackacademy.com/・1回目）
+  - 「“The pace of learning is very fast, but the structure of the program ensures that you’re always building on what you’ve learned.”」（https://www.fullstackacademy.com/・1回目）
+  - 「“Fullstack Academy played a crucial role in helping me craft an impressive resume.”」（https://www.fullstackacademy.com/・1回目）
+  - 「“The bootcamp showed me how to think like an analyst and apply [cybersecurity] tools in practical, meaningful ways.”」（https://www.fullstackacademy.com/・1回目）
+  - 「“I like being able to solve problems because it makes me feel like I’m doing something meaningful and impactful.”」（https://www.fullstackacademy.com/・1回目）
+  - 「“I got to connect with various people of different backgrounds, all with the same goal of learning and growing into cybersecurity professionals.”」（https://www.fullstackacademy.com/・1回目）
+  - 「“By the end of the program, I felt like I had been given all the knowledge and tools to find any answer I may need in the field.”」（https://www.fullstackacademy.com/・1回目）
+  - 「“Come to bootcamp prepared to work and know that this is only the beginning of your journey.”」（https://www.fullstackacademy.com/・1回目）
+  - 「Olivia Graham, Marketing Manager @ Achatz Pies」（https://www.fullstackacademy.com/・1回目）
+- 製造業の実績：
+  - 「After working in Air Traffic Control and Honor Guard while in the Air Force, Ashley Raach knew it was time for a career change. After graduating from bootcamp, Raach began working as an IT Specialist for a manufacturing company — and is enjoying every minute of it.」（https://www.fullstackacademy.com/blog/success-stories・1回目）
+  - 「transitioned from manufacturing into data analytics」（https://www.fullstackacademy.com/blog/bootcamp-roi・1回目）
+  - 「From Manufacturing to Data Analytics: How to Turn Your Interests Into…」（https://www.fullstackacademy.com/blog/from-manufacturing-to-data-analytics・1回目）
+  - 「From Manufacturing to Data Analytics」（https://www.fullstackacademy.com/blog/from-manufacturing-to-data-analytics・1回目）
+  - 「From Manufacturing to Data Analytics: How to Turn Your Interests Into Job-Ready Tech Skills」（https://www.fullstackacademy.com/blog/from-manufacturing-to-data-analytics・1回目）
+  - 「AI professionals are highly sought after by a diverse range of industries, including technology, finance, healthcare, automotive, and retail. Their expertise is crucial for developing innovative AI solutions, such as AI-powered software and hardware, algorithmic trading systems, medical diagnosis tools, self-driving cars, and personalized marketing strategies.」（https://www.fullstackacademy.com/blog/tech-areas-hiring・1回目）
+  - 「By 2026, Gartner predicts that over half of significant cybersecurity incidents will be caused by this shortage. According to BLS data, information security analysts are in high demand, with a」（https://www.fullstackacademy.com/blog/fastest-growing-stem-tech-jobs・1回目）
+  - 「Null safety: It helps prevent crashes caused by null pointer exceptions, leading to more robust applications.」（https://www.fullstackacademy.com/blog/nine-best-programming-languages-to-learn・1回目）
+  - 「Rate This Customer Case Study」（https://www.featuredcustomers.com/vendor/fullstack-academy-62608/case-studies・3回目）
+  - 「Nabler Case Study: Fullstack Academy – Fullstack Academy - Customer Case Study | CaseStudies.com」（https://www.casestudies.com/company/nabler/case-study/fullstack-academy-customer-case-study・3回目）
+  - 「Fullstack Academy - Customer Case Study」（https://www.casestudies.com/company/nabler/case-study/fullstack-academy-customer-case-study・3回目）
+  - 「Case study describing how Fullstack Academy used Nabler」（https://www.casestudies.com/company/nabler/case-study/fullstack-academy-customer-case-study・3回目）
+- 規模・親会社：
+  - 「“To anyone facing challenges, my advice is simple: Stay focused and keep forging ahead, your breakthrough will arrive.”」（https://www.fullstackacademy.com/・1回目）
+  - 「“The bootcamp’s career simulations offered a realistic scenario for problem-solving, which significantly boosted my confidence in applying my newly acquired skills.”」（https://www.fullstackacademy.com/・1回目）
+  - 「“My career coach became my personal cheerleader. [She] was a huge part of my job search and success in landing my current position.”」（https://www.fullstackacademy.com/・1回目）
+  - 「Fullstack Academy Partners with Amazon Career Choice to Provide Tech Training to Eligible Amazon Employees」（https://www.fullstackacademy.com/about・1回目）
+  - 「Korbin Lopez, Desktop Application Support @ Harris & Harris」（https://www.fullstackacademy.com/careers・1回目）
+  - 「Nadia Harris-Martinez」（https://www.fullstackacademy.com/blog/bootcamp-roi・1回目）
+  - 「Cybersecurity analyst roles require strong technical skills, including knowledge of networks, operating systems, and security protocols. Analytical and problem-solving abilities. As part of their job duties, cybersecurity analysts perform a variety of other tasks, including:」（https://www.fullstackacademy.com/blog/tech-areas-hiring・1回目）
+  - 「Developers who work on both the client side and server side of a web application are known as full-stack developers. They possess a thorough understanding of all aspects of an application and expertise in a wide array of coding languages as well.」（https://www.fullstackacademy.com/blog/tech-areas-hiring・1回目）
+  - 「Comfortability with working independently and as part of a team」（https://www.fullstackacademy.com/blog/fastest-growing-stem-tech-jobs・1回目）
+  - 「Reduced Financial Barrier:」（https://www.fullstackacademy.com/blog/10-free-places-to-learn-code-in-nyc・1回目）
+  - 「Best Programming Languages to Learn in 2027 - Updated Listed」（https://www.fullstackacademy.com/blog/nine-best-programming-languages-to-learn・1回目）
+  - 「If you’re new to the field of software development, the toughest part of learning programming is deciding where to begin. There are hundreds of programming languages in widespread use, each with its own complexities and idiosyncrasies.」（https://www.fullstackacademy.com/blog/nine-best-programming-languages-to-learn・1回目）
+- 連絡先：
+  - 「If you’re a member of the press and want to cover Fullstack Academy or request a media kit, please email us at」（https://www.fullstackacademy.com/about・1回目）
+  - 「Your email or password is not correct. Please review them and try again.」（https://gsoc.fullstackacademy.com/・3回目）
+  - 「Contact us today to take control of your profile for」（https://www.featuredcustomers.com/vendor/fullstack-academy-62608/case-studies・3回目）
+  - 「Contact us today for pricing options to add your customer」（https://www.featuredcustomers.com/vendor/fullstack-academy-62608/case-studies・3回目）
+  - 「Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.」（https://pitchbook.com/profiles/company/104003-92・3回目）
+- 検索結果の抜粋：
+  - 「Fullstack Academy: Top-Ranked Live Online Tech Bootcamps — See yourself in tech and more with unyielding support through every step of your Fullstack Academy journey. Choose a schedule that works for you and fits your life with full-time and part-time online options.」（https://www.fullstackacademy.com/・3回目）
+  - 「Simplilearn acquires Fullstack Academy — 1 day ago · News of Simplilearn’s acquisition of Fullstack Academy comes after a recent new funding round led by GSV Ventures to boost growth plans in India and international markets.」（https://www.iconsofindianbusiness.com/article/simplilearn-acquires-fullstack-academy・3回目）
+  - 「www.fullstackacademy.co — www.fullstackacademy.co」（https://www.fullstackacademy.co/・3回目）
+  - 「About Us | Fullstack Academy — The fully online learning experience at Fullstack Academy combines the latest technologies and toolsets, immersive live instruction, group learning, and extensive career support.」（https://www.fullstackacademy.com/about・3回目）
+  - 「Courses - Fullstack Academy — Courses - Fullstack Academy」（https://gsoc.fullstackacademy.com/・3回目）
+  - 「Simplilearn acquires Fullstack Academy — 1 day ago · Fullstack Academy will continue its current brand and bootcamp offerings and operate as an independent business unit within Simplilearn. Fullstack is poised to undergo continued growth, building on its 10-year history and experience in the U.S. bootcamp space.」（https://www.iconsofindianbusiness.com/article/simplilearn-acquires-fullstack-academy・3回目）
+  - 「15 Fullstack Academy Case Studies, Success Stories ... — Narrow down 15 case studies by company size & industry to find out how Fullstack Academy works for a business like yours.」（https://www.featuredcustomers.com/vendor/fullstack-academy-62608/case-studies・3回目）
+  - 「B2B Case Studies Featuring Fullstack Academy Team as the Customer — Explore case studies featuring Fullstack Academy Team as the customer — learn how vendors and partners helped Fullstack Academy Team solve real business challenges.」（https://www.casestudies.com/customer/fullstack-academy-team・3回目）
+  - 「Fullstack Academy - Customer Case Study — Fullstack Academy partnered with Nabler (Internet) to solve key challenges. "Fullstack Academy - Customer Case Study" is their real-world success story.」（https://www.casestudies.com/company/nabler/case-study/fullstack-academy-customer-case-study・3回目）
+  - 「Fullstack Academy Case Study | $617K in Hidden Operational ... — Fullstack Academy discovered $617K/year in invisible inefficiency hiding across five disconnected tools. A restructuring forced them to look. Here is what they found.」（https://prentus.com/case-studies/fullstack-academy・3回目）
+  - 「Fullstack Academy – Revenue Estimate & Market Landscape – 2026 — Discover Fullstack Academy's estimated revenue, valuation, funding history, employee data, and top competitors.」（https://compworth.com/company/fullstack-academy・3回目）
+  - 「Fullstack Academy 2026 Company Profile: Valuation, Investors ...Fullstack Academy - 2025 Company Profile, Team, Funding ...Fullstack Academy Information - RocketReachFullStack Academy Number of Employees 2026 | Employee Count ...Fullstack Academy - Overview, News & Similar companies ...Fullstack Academy — Company Profile | The Company Check — Information on acquisition, funding, investors, and exe」（https://pitchbook.com/profiles/company/104003-92・3回目）
+- 創業年度：記載なし（3回確認済み：公式15頁／PDF・画像4件／外部37頁・検索12回）
+- 株主：記載なし（3回確認済み：公式15頁／PDF・画像4件／外部37頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式15頁／PDF・画像4件／外部37頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式15頁／PDF・画像4件／外部37頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式15頁／PDF・画像4件／外部37頁・検索12回）
+- 料金：記載なし（3回確認済み：公式15頁／PDF・画像4件／外部37頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式15頁／PDF・画像4件／外部37頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式15頁／PDF・画像4件／外部37頁・検索12回）
+
+## Functionup
+- 公式URL：https://www.functionup.org/（given）
+- 株主：29-Sep-2020 $209K $209K  Completed Startup（https://pitchbook.com/profiles/company/439821-46・3回目）
+- 採用・広告の製品：
+  - 「Contact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the request was able to connect to your web server, but that the request didn't finish. The most likely cause is that something on your server is hogging resources.」（https://www.functionup.org/・1回目）
+  - 「The demand for skilled computer science professionals continues to grow. India will see demand for」（https://functionup.org/・3回目）
+  - 「4.4 million technology professionals by 2024」（https://functionup.org/・3回目）
+  - 「Our Revolutionary 4-Year Program Structure」（https://functionup.org/・3回目）
+  - 「The same innovative program now enhanced under Classplus」（https://functionup.org/・3回目）
+  - 「Paid internships at a top tech company & receive a Pre-Placement Offer」（https://functionup.org/・3回目）
+  - 「Learn by Building Products」（https://functionup.org/・3回目）
+  - 「Build products that mimic actual engineering challenges faced in top tech companies」（https://functionup.org/・3回目）
+  - 「Recognition of our innovative approach and impact」（https://functionup.org/・3回目）
+  - 「FunctionUp 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook」（https://pitchbook.com/profiles/company/439821-46・3回目）
+  - 「Developer of an electronic learning software designed to provide education and training for placement in companies. The company provides a placement boot camp offering online live classes, educational content, and training sessions, enabling students to enroll in the program, get high-paying jobs as software developers, and pay for the tuition fee after getting salaries.」（https://pitchbook.com/profiles/company/439821-46・3回目）
+  - 「Educational and Training Services (B2C)」（https://pitchbook.com/profiles/company/439821-46・3回目）
+- 規模・親会社：
+  - 「FunctionUp School of Technology - Now part of Classplus」（https://functionup.org/・3回目）
+  - 「has been successfully acquired by」（https://functionup.org/・3回目）
+  - 「We are now part of the」（https://functionup.org/・3回目）
+  - 「That's why we created FunctionUp, and now as part of」（https://functionup.org/・3回目）
+  - 「Acquired by Classplus in 2024」（https://functionup.org/・3回目）
+  - 「Now part of Classplus」（https://functionup.org/・3回目）
+  - 「FunctionUp 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook」（https://pitchbook.com/profiles/company/439821-46・3回目）
+  - 「6. Merger/Acquisition」（https://pitchbook.com/profiles/company/439821-46・3回目）
+  - 「FunctionUp has 12 total employees.」（https://pitchbook.com/profiles/company/439821-46・3回目）
+  - 「What is FunctionUp’s current revenue?」（https://pitchbook.com/profiles/company/439821-46・3回目）
+  - 「The current revenue for FunctionUp is」（https://pitchbook.com/profiles/company/439821-46・3回目）
+  - 「When was FunctionUp acquired?」（https://pitchbook.com/profiles/company/439821-46・3回目）
+- 連絡先：
+  - 「Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.」（https://pitchbook.com/profiles/company/439821-46・3回目）
+- 検索結果の抜粋：
+  - 「FunctionUp - LinkedIn 日本 — Whether the world of programming exhilarates you or you find yourself at a crossroads, pondering over interview preparation or mastering the intricacies of data structures and algorithms,...」（https://jp.linkedin.com/company/functionup・3回目）
+  - 「FunctionUp - YouTube — Welcome to the FunctionUpTech YouTube channel. Function Up is a small business that sells custom mechanical keyboards and mini keyboard fidgets. Our mechanic...」（https://www.youtube.com/@FunctionUpTech/videos・3回目）
+  - 「FunctionUp School of Technology - Now part of Classplus — We at FunctionUp School of Technology were on a mission of making education more outcome-oriented. We tied up with UGC universities in India to facilitate B.Tech in CSE and AI & ML - taught by IITians and Top Software Engineers」（https://functionup.org/・3回目）
+  - 「FunctionUp - LinkedIn — Our dynamic community boasts over 8000 learners, all committed to enhancing their coding prowess, gearing up for interviews, and propelling their careers to new heights.」（https://jp.linkedin.com/company/functionup・3回目）
+  - 「FunctionUpの資金調達・求人・転職情報を掲載 - ANGEL PORT — スタートアップの資金調達、転職・新卒採用・インターンシップ情報を調べることができる。 起業家とエンジェル投資家のマッチングサイトです。」（https://angl.jp/companies/functionup・3回目）
+  - 「Function Up - YouTube — Function Up @FunctionUp More about this channel ...more More about this channel ...more ...more This channel doesn't have any content」（https://www.youtube.com/@FunctionUp/videos・3回目）
+  - 「UI UX Case Study FunctionUp | FunctionUp - LinkedIn — Our UI/UX batch is on fire. Our students have come up with some very interesting case studies as a part of their learning. Shreyasi C. completed a UX case study about Us!」（https://www.linkedin.com/posts/functionup_ui-ux-case-study-functionup-activity-6975653165534765056-poBG・3回目）
+  - 「FunctionUp: Revenue, Worth, Valuation & Competitors 2026 — Discover FunctionUp's estimated revenue, valuation, funding history, employee data, and top competitors.」（https://compworth.com/company/functionup・3回目）
+  - 「FunctionUp - 2026 Company Profile, Team, Funding ... - TracxnFunctionUp 2026 Company Profile: Valuation, Investors ...How FunctionUp (FanPlay) hit $111.5M revenue with a 454 person...FunctionUp Funding | $2-1.8M Revenue | Complete AnalysisFunctionUp - Crunchbase Company Profile & FundingFunctionUp - Overview, News & Similar companies | ZoomInfo.com — Feb 10, 2026 · FunctionUp - About the company F」（https://tracxn.com/d/companies/functionup/__uB4AyO-DiOIy1-meXcagy2wP_w0IkIv5XAvwCWpb2qY・3回目）
+  - 「FunctionUp 2026 Company Profile: Valuation, Investors ...How FunctionUp (FanPlay) hit $111.5M revenue with a 454 person...FunctionUp Funding | $2-1.8M Revenue | Complete AnalysisFunctionUp - Crunchbase Company Profile & FundingFunctionUp - Overview, News & Similar companies | ZoomInfo.com — Information on acquisition, funding, cap tables, investors, and executives for FunctionUp. Use the PitchBook」（https://pitchbook.com/profiles/company/439821-46・3回目）
+  - 「How FunctionUp (FanPlay) hit $111.5M revenue with a 454 person... — Sep 2, 2026 · Since its launch in 2020, FunctionUp (FanPlay) has shown consistent revenue growth, reflecting its expanding user base and increasing adoption across various industries.」（https://getlatka.com/companies/functionup.org・3回目）
+  - 「FunctionUp Funding | $2-1.8M Revenue | Complete Analysis — FunctionUp provides a B.Tech program in Computer Science Engineering, emphasizing practical skills, industry-relevant curriculum, and strong placement opportunities for tech careers.」（https://www.extruct.ai/hub/functionup-org-funding/・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）
+- 製造業の実績：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）
+
+## Funnel
+- 公式URL：https://funnel.io/（given）
+- 株主：$134M（https://getlatka.com/companies/funnel・3回目）
+- 採用・広告の製品：
+  - 「Funnel | The leading marketing intelligence platform」（https://funnel.io/・1回目）
+  - 「Connect and model all your marketing data」（https://funnel.io/・1回目）
+  - 「Centralize marketing data」（https://funnel.io/・1回目）
+  - 「Give your AI trusted marketing data」（https://funnel.io/・1回目）
+  - 「Marketing data your warehouse can depend on」（https://funnel.io/・1回目）
+  - 「Turn marketing data into repeatable products」（https://funnel.io/・1回目）
+  - 「Marketing data your stack can depend on」（https://funnel.io/・1回目）
+  - 「Self-serve marketing data you can trust」（https://funnel.io/・1回目）
+  - 「Manage client marketing data at scale」（https://funnel.io/・1回目）
+  - 「Learn about marketing, data & reporting」（https://funnel.io/・1回目）
+  - 「See the latest product releases」（https://funnel.io/・1回目）
+  - 「Product update emails」（https://funnel.io/・1回目）
+- 製造業の実績：
+  - 「Deliver data to a warehouse」（https://funnel.io/・1回目）
+  - 「Marketing data your warehouse can depend on」（https://funnel.io/・1回目）
+  - 「Trusted by marketing and data teams at」（https://funnel.io/・1回目）
+  - 「Marketing-specific ingestion and exports your warehouse can depend on.」（https://funnel.io/・1回目）
+  - 「Funnel handles the complexity of marketing APIs so your warehouse gets clean, structured data that's always current and ready for BI tools, agentic workflows, and your data products.」（https://funnel.io/・1回目）
+  - 「Get warehouse-ready data」（https://funnel.io/・1回目）
+  - 「Deliver data to a warehouse」（https://funnel.io/solution-partner-program・1回目）
+  - 「Marketing data your warehouse can depend on」（https://funnel.io/solution-partner-program・1回目）
+  - 「Deliver data to a warehouse」（https://funnel.io/technology-partners・1回目）
+  - 「Marketing data your warehouse can depend on」（https://funnel.io/technology-partners・1回目）
+  - 「Whether it's a dashboard, a spreadsheet, a warehouse, or another destination, you can share data and insights with your team in minutes.」（https://funnel.io/technology-partners・1回目）
+  - 「Deliver data to a warehouse」（https://funnel.io/pricing-agencies・1回目）
+- 再販・ホワイトラベル：
+  - 「Funnel helps marketers, data teams, and agencies collect, clean, and activate marketing data, without the manual work.」（https://funnel.io/・1回目）
+  - 「SOLUTION PARTNER PROGRAM」（https://funnel.io/solution-partner-program・1回目）
+  - 「The Funnel Solution Partner program works with two tiers that fit with all kinds of partners.」（https://funnel.io/solution-partner-program・1回目）
+  - 「We love working with agencies and consultancies that share the same values as us. Transparency and trust is the basis of our future relationship.」（https://funnel.io/solution-partner-program・1回目）
+  - 「Become part of the partner program and build a solid partnership with Funnel, that work both ways.」（https://funnel.io/solution-partner-program・1回目）
+  - 「Become a partner today!」（https://funnel.io/technology-partners・1回目）
+  - 「Funnel plans for agencies」（https://funnel.io/pricing-agencies・1回目）
+  - 「Scale client reporting across your full portfolio, with 600+ connectors, advanced measurement, and white-label reporting via Portals.」（https://funnel.io/pricing-agencies・1回目）
+  - 「Plans & prices for marketers, analysts or agencies | Funnel」（https://funnel.io/pricing・1回目）
+  - 「Guided setup with Funnel AI. Built for teams and agencies working across multiple channels, markets and brands.」（https://funnel.io/pricing・1回目）
+  - 「Do you have pricing for agencies?」（https://funnel.io/pricing・1回目）
+  - 「For sure! Our plans are designed with digital marketing and media agencies in mind; from small boutique agencies with just a few clients to large agencies with hundreds of clients. We also offer solutions for global agency networks. Please get in touch to get a competitive offer.」（https://funnel.io/pricing・1回目）
+- 日本の担い手：
+  - 「日本のBtoB購買に関する意識・実態調査2026」（https://www.hubspot.jp/products/marketing/marketing-automation-information/marketing-funnel・3回目）
+  - 「HubSpot日本語ブログでは、世界中のHubSpotの知見を活かし、日本のビジネスパーソンの課題解決に繋がるような情報を提供しています」（https://www.hubspot.jp/products/marketing/marketing-automation-information/marketing-funnel・3回目）
+  - 「ファネル（funnel）とは、日本語で「漏斗（じょうご）」を意味する単語ですが、マーケティングでは見込み客が購買に至るまでのプロセスを図式化したものを指します」（https://www.sunbridge.com/blog/useful/funnel/・3回目）
+  - 「AI活用の成功事例を体感しませんか？｜ザ・プリンス パークタワー東京で開催」（https://www.sunbridge.com/blog/useful/funnel/・3回目）
+  - 「株式会社funnel | Amazon広告やTikTok広告を中心に物販セラーのワンストップソリューションカンパニー」（https://funnel-inc.jp/・3回目）
+  - 「© 2026 株式会社funnel」（https://funnel-inc.jp/・3回目）
+  - 「ファンネル - 株式会社レッドコメット | 渋谷の総合広告代理店」（https://redcomet-ad.jp/service/funnel/・3回目）
+  - 「Amazon Ads Japan 503回視聴 1 年前」（https://www.youtube.com/watch?v=DTQG0MKZjRg・3回目）
+  - 「[プロから学ぼう] キャンペーン構造設計と大規模運用「仕組みで回す」3つの方法 by 株式会社MBKデジタル - Amazon Ads」（https://www.youtube.com/watch?v=DTQG0MKZjRg・3回目）
+  - 「株式会社Funnel様YouTubeチャネル:」（https://www.youtube.com/watch?v=DTQG0MKZjRg・3回目）
+  - 「Funnels – Globalkitchen Japan」（https://www.globalkitchenjapan.com/collections/funnels?srsltid=AYCX9vKjvSJtl1j96MBdd1OCrfrMX-UUZWPH1JvPv_63jSg1OLF7evRZ・3回目）
+  - 「Please be careful about the fraud sites. Our shop is a superior site that is recommended officially by Japan post.」（https://www.globalkitchenjapan.com/collections/funnels?srsltid=AYCX9vKjvSJtl1j96MBdd1OCrfrMX-UUZWPH1JvPv_63jSg1OLF7evRZ・3回目）
+- 規模・親会社：
+  - 「Add a strategic marketing data offering to win more business and get a recurring revenue.」（https://funnel.io/solution-partner-program・1回目）
+  - 「Revenue from analytics services have grown by over 190%」（https://funnel.io/solution-partner-program・1回目）
+  - 「Analytics services now represent 23% of Storeis' overall revenue.」（https://funnel.io/solution-partner-program・1回目）
+  - 「Depending on what tier you're in, you'll have access to a dedicated partner team, onboard training, marketing and a revenue share.」（https://funnel.io/solution-partner-program・1回目）
+  - 「Our partners are an important part of our organisation. Do you fit the program?」（https://funnel.io/solution-partner-program・1回目）
+  - 「Become part of the partner program and build a solid partnership with Funnel, that work both ways.」（https://funnel.io/solution-partner-program・1回目）
+  - 「Set budgets and targets in Funnel and track pacing against spend, revenue or any KPI you choose.」（https://funnel.io/pricing-agencies・1回目）
+  - 「Set budgets and targets in Funnel and track pacing against spend, revenue or any KPI you choose.」（https://funnel.io/pricing・1回目）
+  - 「No. Flexpoints are part of your contract, not a usage meter. You pay for the capacity you've purchased, and that doesn't change based on how much data runs through your setup, how many campaigns you run, or how many rows your connected accounts generate. Your bill only changes if you choose to buy more flexpoints.」（https://funnel.io/pricing・1回目）
+  - 「Despite a 16% digital paid media budget reduction toward the end of the year, we grew revenue gained from paid digital media by 26% because we were putting our money in the right places.」（https://funnel.io/all-case-studies・1回目）
+  - 「NXTRND uncovers 20% revenue impact from paid social」（https://funnel.io/all-case-studies・1回目）
+  - 「revenue impact from paid social」（https://funnel.io/all-case-studies・1回目）
+- 連絡先：
+  - 「Product update emails」（https://funnel.io/・1回目）
+  - 「Product update emails」（https://funnel.io/solution-partner-program・1回目）
+  - 「Product update emails」（https://funnel.io/technology-partners・1回目）
+  - 「We strive to give our clients the best user experience and seamless integration throughout their ecosystem. That's why we work closely with our Technology Partners. From major marketing and advertising platforms, to email and e-commerce solutions, Funnel partners with all major cloud, storage, BI visualization, big data and analytics platforms.」（https://funnel.io/technology-partners・1回目）
+  - 「Product update emails」（https://funnel.io/pricing-agencies・1回目）
+  - 「Product update emails」（https://funnel.io/pricing・1回目）
+  - 「Product update emails」（https://funnel.io/all-case-studies・1回目）
+  - 「Product update emails」（https://funnel.io/customers・1回目）
+  - 「Product update emails」（https://funnel.io/agencies・1回目）
+  - 「Product update emails」（https://funnel.io/partner-directory・1回目）
+  - 「Product update emails」（https://funnel.io/blog・1回目）
+  - 「Product update emails」（https://funnel.io/about・1回目）
+- 検索結果の抜粋：
+  - 「「 ファネル 」とは？ | マーケティング用語集 — 「 ファネル 」とは？ | マーケティング用語集 シナジーマーケティング株式会社 | https://www.synergy-marketing.co.jp > glossary > funnel」（https://www.synergy-marketing.co.jp/glossary/funnel/・3回目）
+  - 「ファネル （ Funnel ） - サンブリッジ — ファネル （ Funnel ） - サンブリッジ 株式会社サンブリッジ https://www.sunbridge.com > ... > ブログ > お役立ち情報」（https://www.sunbridge.com/blog/useful/funnel/・3回目）
+  - 「株式会社 funnel | Amazon広告やTikTok広告を中心に物販 ... — 株式会社 funnel | Amazon広告やTikTok広告を中心に物販 ... 株式会社funnel https://funnel-inc.jp」（https://funnel-inc.jp/・3回目）
+  - 「ファンネル - 株式会社レッドコメット | 渋谷の総合広告 代理店 — ファンネル - 株式会社レッドコメット | 渋谷の総合広告 代理店 株式会社レッドコメット https://redcomet-ad.jp > service > funnel」（https://redcomet-ad.jp/service/funnel/・3回目）
+  - 「株式会社 funnel （東京都品川区）の紹介 - PRONIアイミツ — 株式会社 funnel （東京都品川区）の紹介 - PRONIアイミツ PRONIアイミツ https://imitsu.jp > pr-tokyo > ci-shinagawa-ku > supplier」（https://imitsu.jp/ct-listing-ad/pr-tokyo/ci-shinagawa-ku/supplier/50071・3回目）
+  - 「Funnel だからできる商品開発から全体的な広告戦略サポート — Funnel だからできる商品開発から全体的な広告戦略サポート YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=DTQG0MKZjRg・3回目）
+  - 「FUNNEL — FUNNEL funnelinc.tokyo https://funnelinc.tokyo」（https://funnelinc.tokyo/・3回目）
+  - 「Funnels - Globalkitchen Japan — Funnels - Globalkitchen Japan Globalkitchen Japan https://www.globalkitchenjapan.com > ...」（https://www.globalkitchenjapan.com/collections/funnels?srsltid=AYCX9vKjvSJtl1j96MBdd1OCrfrMX-UUZWPH1JvPv_63jSg1OLF7evRZ・3回目）
+  - 「OIL FUNNEL MADE IN JAPAN . STURDY SOLID METAL ... — OIL FUNNEL MADE IN JAPAN . STURDY SOLID METAL ... eBay https://www.ebay.com > itm」（https://www.ebay.com/itm/274836270085・3回目）
+  - 「Amazon.co.jp Best Sellers: The most popular items in Funnels — Amazon.co.jp Best Sellers: The most popular items in Funnels amazon.jp https://www.amazon.co.jp > kitchen」（https://www.amazon.co.jp/-/en/gp/bestsellers/kitchen/2249943051・3回目）
+  - 「Funnel Cloud Descends Over Rural Fields In Japan's Niigata ... — Funnel Cloud Descends Over Rural Fields In Japan's Niigata ... Newsflare https://www.newsflare.com > news」（https://www.newsflare.com/video/911503/funnel-cloud-descends-over-rural-fields-in-japans-niigata-amid-severe-weather-alerts・3回目）
+  - 「Funnel Case Studies | Success stories from Funnel customers — Funnel Case Studies | Success stories from Funnel customers Funnel https://funnel.io > all-case-studies」（https://funnel.io/all-case-studies・3回目）
+- 創業年度：記載なし（3回確認済み：公式20頁／PDF・画像6件／外部39頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式20頁／PDF・画像6件／外部39頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式20頁／PDF・画像6件／外部39頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式20頁／PDF・画像6件／外部39頁・検索12回）
+- 料金：記載なし（3回確認済み：公式20頁／PDF・画像6件／外部39頁・検索12回）
+
+## Fusion Calling
+- 公式URL：https://www.fusioncalling.com/（given）
+- 創業年度：Founded：2025（https://www.fusioncalling.com/about・1回目）
+- 採用・広告の製品：
+  - 「Fusion Calling is an AI phone call solution for businesses. AI call agents answer and place calls 24/7, book appointments, qualify leads, and catch every missed call — so no call goes unanswered.」（https://www.fusioncalling.com/・1回目）
+  - 「This call demonstrates an AI assistant handling an initial consultation for real estate investments. The AI identifies client interests, discusses property preferences, and arranges for further information delivery.」（https://www.fusioncalling.com/・1回目）
+  - 「Listen to a customer calling a dental lab with booking appointment and handeling questions. Hear how the dental lab handles the inquiry and provides information.」（https://www.fusioncalling.com/・1回目）
+  - 「Listen to a customer, calling to make a restaurant reservation. Hear how the restaurant handles the booking process and checks for availability.」（https://www.fusioncalling.com/・1回目）
+  - 「Listen to a potential client call Credit Repair Company to learn about their credit repair services and costs. Focus on the initial information provided.」（https://www.fusioncalling.com/・1回目）
+  - 「Smart procedure handling」（https://www.fusioncalling.com/・1回目）
+  - 「Track every interaction with comprehensive call recordings, transcriptions, and customized analytics.」（https://www.fusioncalling.com/・1回目）
+  - 「Seamlessly import leads and automate outbound calling campaigns with intelligent AI agents.」（https://www.fusioncalling.com/・1回目）
+  - 「Every call is an opportunity we never miss to impress.」（https://www.fusioncalling.com/・1回目）
+  - 「Trained on your services, pricing, hours, and policies, it holds a natural conversation and answers real questions — not scripts.」（https://www.fusioncalling.com/・1回目）
+  - 「Perform comprehensive agent testing with built-in test LLM features to ensure seamless handling of edge cases.」（https://www.fusioncalling.com/・1回目）
+  - 「With our advanced tools, you can streamline your calling processes, ensuring that your team can focus on what matters most—building relationships and closing deals. Experience a new level of productivity and customer engagement.」（https://www.fusioncalling.com/・1回目）
+- 製造業の実績：
+  - 「Automatically answer frequently asked customer questions, reducing call volume to operators.」（https://www.fusioncalling.com/・1回目）
+  - 「Today, 100+ agencies and businesses run on Fusion Calling across real estate, dental, insurance, home services, legal, and automotive — and we publish our」（https://www.fusioncalling.com/about・1回目）
+  - 「Teams across real estate, dental, insurance, home services, legal, automotive, restaurants, ecommerce, and financial services use Fusion Calling to automate phone operations with human-like voice agents.」（https://www.fusioncalling.com/about・1回目）
+  - 「AI voice agents work across any phone-intensive industry. Popular verticals include real estate, dental, insurance, home services, legal, automotive, call centers, financial services, e-commerce, education, restaurants, and more. If your business relies on phone calls, AI voice can automate them.」（https://www.fusioncalling.com/industries・1回目）
+  - 「Operators who want to resell voice AI with branded client portals and direct billing — no custom build required.」（https://www.fusioncalling.com/blog/vapi-white-label-platform・1回目）
+  - 「Houston agencies: resell AI voice agents under your brand. Serve energy, healthcare & industrial clients across Greater Houston. Keep 100% of revenue. From $99/mo.」（https://www.fusioncalling.com/whitelabel/locations・1回目）
+- 再販・ホワイトラベル：
+  - 「Founded 2025 · Bangladesh-based, remote team · 100+ agencies & businesses」（https://www.fusioncalling.com/about・1回目）
+  - 「Agencies & businesses launched」（https://www.fusioncalling.com/about・1回目）
+  - 「So we built the platform we wanted to exist: AI voice agents that sound and behave like real people, on telephony infrastructure that doesn't break, at a price a five-person company can afford. As agencies joined, the platform grew a full white-label layer — partners now resell it under their own brand, on their own domain, keeping 100% of what they charge clients.」（https://www.fusioncalling.com/about・1回目）
+  - 「Today, 100+ agencies and businesses run on Fusion Calling across real estate, dental, insurance, home services, legal, and automotive — and we publish our」（https://www.fusioncalling.com/about・1回目）
+  - 「White-label platform for agencies」（https://www.fusioncalling.com/about・1回目）
+  - 「Agencies resell the entire platform under their own brand — custom domain, branded dashboard, their pricing — and keep 100% of client revenue.」（https://www.fusioncalling.com/about・1回目）
+  - 「See the partner program」（https://www.fusioncalling.com/about・1回目）
+  - 「Fusion Calling was founded by Alamin, a voice-AI engineer focused on practical, production-grade phone automation. He still leads the platform today and works directly with agency partners.」（https://www.fusioncalling.com/about・1回目）
+  - 「Fusion Calling was founded in 2025 and has since helped 100+ agencies and businesses launch profitable voice-AI practices.」（https://www.fusioncalling.com/about・1回目）
+  - 「Direct plans start at $149/month (Starter, 500 minutes), with Pro at $249/month and Enterprise at $497/month — every plan includes a 99.9% uptime guarantee and a 14-day money-back guarantee. Agencies reselling the platform white-label start at $99/month and keep 100% of what they charge their clients.」（https://www.fusioncalling.com/about・1回目）
+  - 「Fusion Calling is provider-agnostic across Vapi, Retell AI, and ElevenLabs, so each call runs on the best engine for the job instead of locking you into a single vendor. Agencies can import existing agent configurations from any of the three.」（https://www.fusioncalling.com/about・1回目）
+  - 「Three things: a multi-provider layer across Vapi, Retell, and ElevenLabs; a true white-label program where agencies keep 100% of client revenue; and transparency — public pricing from $149/month and a published benchmark of entry prices across 21 voice AI platforms.」（https://www.fusioncalling.com/about・1回目）
+- 規模・親会社：
+  - 「This call demonstrates an AI assistant handling an initial consultation for real estate investments. The AI identifies client interests, discusses property preferences, and arranges for further information delivery.」（https://www.fusioncalling.com/・1回目）
+  - 「AI Phone Call Features That Book Revenue」（https://www.fusioncalling.com/・1回目）
+  - 「Turn missed calls into revenue with」（https://www.fusioncalling.com/・1回目）
+  - 「Every call arrives transcribed, tagged, and searchable, so you audit quality instead of trusting a service report.」（https://www.fusioncalling.com/・1回目）
+  - 「Contact potential customers to sell products or services, increasing revenue and expanding the customer base.」（https://www.fusioncalling.com/・1回目）
+  - 「Agencies resell the entire platform under their own brand — custom domain, branded dashboard, their pricing — and keep 100% of client revenue.」（https://www.fusioncalling.com/about・1回目）
+  - 「“Every missed call is a missed customer. We built Fusion Calling so a five-person business could answer the phone with the polish of a Fortune 500 front desk — without adding headcount.”」（https://www.fusioncalling.com/about・1回目）
+  - 「Three things: a multi-provider layer across Vapi, Retell, and ElevenLabs; a true white-label program where agencies keep 100% of client revenue; and transparency — public pricing from $149/month and a published benchmark of entry prices across 21 voice AI platforms.」（https://www.fusioncalling.com/about・1回目）
+  - 「Launch a white-label AI receptionist under your own brand — it answers, books, and routes your clients' calls 24/7. Resell your existing Vapi, Retell, or ElevenLabs agents, keep 100% of client revenue, and launch in 24 hours.」（https://www.fusioncalling.com/whitelabel・1回目）
+  - 「Bring Retell AI agents into your branded dashboard and keep 100% of client revenue as a Retell AI white-label reseller.」（https://www.fusioncalling.com/whitelabel・1回目）
+  - 「Define your pricing model and margins. You have complete control over what you charge your clients. Set per-minute rates, monthly retainers, or bundled packages in the dashboard, and Stripe billing handles invoicing and collection under your brand. Partners keep 100% of client revenue; your platform cost stays fixed at your plan price regardless of how much you resell.」（https://www.fusioncalling.com/whitelabel・1回目）
+  - 「Begin onboarding clients and generating recurring revenue. Scale as fast as you want with our infrastructure. Each client gets their own sub-account with lead management, calendar booking, and portal access, so adding a new client is a dashboard task rather than a build project. Import existing Vapi, Retell, or ElevenLabs agents and have a first client live in 1-2 days.」（https://www.fusioncalling.com/whitelabel・1回目）
+- 連絡先：
+  - 「Your AI call agent picks up instantly — nights, weekends, holidays, and every simultaneous caller. No hold queue, no voicemail dead end.」（https://www.fusioncalling.com/・1回目）
+  - 「Human answering services bill by the minute and work in shifts; voicemail quietly loses the callers who never call back. Here is the same job, side by side.」（https://www.fusioncalling.com/・1回目）
+  - 「AI call agents compared with human answering services and voicemail」（https://www.fusioncalling.com/・1回目）
+  - 「One voicemail box for everyone」（https://www.fusioncalling.com/・1回目）
+  - 「Leave customized, emotional voicemails」（https://www.fusioncalling.com/・1回目）
+  - 「Leave customized, emotional voicemails」（https://www.fusioncalling.com/pricing・1回目）
+  - 「Fusion Calling was founded in 2025 by Alamin, a voice-AI engineer who kept watching small businesses lose customers to voicemail — after hours, during rush jobs, whenever the phone rang and nobody could pick up. Enterprise call centers had solved this problem years earlier; everyone else was priced out.」（https://www.fusioncalling.com/about・1回目）
+  - 「Custom email templates & notifications」（https://www.fusioncalling.com/whitelabel・1回目）
+  - 「Schedule a call or email to apply」（https://www.fusioncalling.com/whitelabel・1回目）
+  - 「Prefer to contact us directly?」（https://www.fusioncalling.com/whitelabel・1回目）
+  - 「hello@fusioncalling.com」（https://www.fusioncalling.com/whitelabel・1回目）
+  - 「Send 24h and 2h reminders, run waitlist SMS, and answer every after-hours call instead of voicemail.」（https://www.fusioncalling.com/industries/ai-voice-for-restaurants-hospitality・1回目）
+- 検索結果の抜粋：
+  - 「About Fusion Calling — AI Voice Agents & Mission — About Fusion Calling — AI Voice Agents & Mission Fusion Calling https://www.fusioncalling.com > about」（https://www.fusioncalling.com/about・3回目）
+- 株主：記載なし（3回確認済み：公式20頁／PDF・画像0件／外部26頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式20頁／PDF・画像0件／外部26頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式20頁／PDF・画像0件／外部26頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式20頁／PDF・画像0件／外部26頁・検索12回）
+- 料金：記載なし（3回確認済み：公式20頁／PDF・画像0件／外部26頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式20頁／PDF・画像0件／外部26頁・検索12回）
+
+## Futurefields
+- 公式URL：https://www.futurefields.io（given）
+- 採用・広告の製品：
+  - 「Future Fields • Helping you improve lives with smart biology」（https://futurefields.io/・1回目）
+  - 「Helping you improve lives with smart biology」（https://futurefields.io/・1回目）
+  - 「Custom protein expression solutions to achieve scalable production」（https://futurefields.io/・1回目）
+  - 「Request a protein consult」（https://futurefields.io/・1回目）
+  - 「Fruit flies for the future of protein production」（https://futurefields.io/・1回目）
+  - 「Recombinant proteins underpin innovation across drug discovery, agriculture and food technology.」（https://futurefields.io/・1回目）
+  - 「But many of the proteins remain impossible to express with conventional systems.」（https://futurefields.io/・1回目）
+  - 「platform, a sustainable, insect-based protein expression system using Drosophila melanogaster. By making the unmakeable, we help innovators reduce costs, improve scalability and move fast.」（https://futurefields.io/・1回目）
+  - 「Our Protein Expression System」（https://futurefields.io/・1回目）
+  - 「leverages fruit flies, to express your proteins at scale. It is optimized for difficult-to-express proteins (DTEPs), delivering results that conventional bioreactor-based methods cannot Learn more about the advantages of transgenic insect-based expression.」（https://futurefields.io/・1回目）
+  - 「We specialize in supporting innovators across life sciences, agriculture, and food innovation. Partner with us to scale challenging protein expression products and secure reliable, on-demand manufacturing for the long term.」（https://futurefields.io/・1回目）
+  - 「Explore Protein Services」（https://futurefields.io/・1回目）
+- 製造業の実績：
+  - 「We specialize in supporting innovators across life sciences, agriculture, and food innovation. Partner with us to scale challenging protein expression products and secure reliable, on-demand manufacturing for the long term.」（https://futurefields.io/・1回目）
+  - 「Sign up for monthly updates, case studies and breakthroughs in recombinant protein manufacturing and custom protein expression from Future Fields.」（https://futurefields.io/・1回目）
+  - 「Manufacturing Science and Technology」（https://futurefields.io/company/careers/・1回目）
+  - 「Biomanufacturing Lead」（https://futurefields.io/company/careers/・1回目）
+  - 「Former manufacturing manager at Amgen, Shire, GSK, Genzyme」（https://futurefields.io/company/・1回目）
+  - 「Future Fields is the first Canadian recombinant protein manufacturer to unite with thousands of other companies globally in responsible business action at the」（https://futurefields.io/company/sustainability/・1回目）
+  - 「Future Fields promotes gender equity in the workplace. For International Women’s Day 2024, Future Fields partnered with UN Global Compact Network Canada to develop a case study promoting gender equity in the workplace.」（https://futurefields.io/company/sustainability/・1回目）
+  - 「Manufacturing Science and Technology」（https://futurefields.io/company/careers/?srsltid=AYCX9vJWHqIV2jXQ1vqBU9TR_tY04nJOxQhAZgNMGV2eeMeXgUERVR41・3回目）
+  - 「Biomanufacturing Lead」（https://futurefields.io/company/careers/?srsltid=AYCX9vJWHqIV2jXQ1vqBU9TR_tY04nJOxQhAZgNMGV2eeMeXgUERVR41・3回目）
+  - 「Company emerges as key player creating exotic and difficult-to-express proteins (DTEPs) as a biomanufacturing partner for protein AI companies and a vendor to the four trillion dollar syn-bio industry」（https://futurefields.io/press-release/future-fields-closes-oversubscribed-8m-series-a/?srsltid=AYCX9vIhmsIxKfmpXtXHnVRR5P068mG-TJbvofdUjY1Zi4_k93cIQ1rC・3回目）
+  - 「– Future Fields, the protein biomanufacturing company behind the world’s first Drosophila-based」（https://futurefields.io/press-release/future-fields-closes-oversubscribed-8m-series-a/?srsltid=AYCX9vIhmsIxKfmpXtXHnVRR5P068mG-TJbvofdUjY1Zi4_k93cIQ1rC・3回目）
+  - 「“It’s important to remember that our technology doesn’t just mean the ability to create new types of drugs and proteins,” said Matt Anderson-Baron, CEO and cofounder of Future Fields. “This round attracted a number of marquee venture firms who recognize both the market opportunity and the ethical necessity in creating a sustainable and climate-resilient biomanufacturing infrastructure.”」（https://futurefields.io/press-release/future-fields-closes-oversubscribed-8m-series-a/?srsltid=AYCX9vIhmsIxKfmpXtXHnVRR5P068mG-TJbvofdUjY1Zi4_k93cIQ1rC・3回目）
+- 規模・親会社：
+  - 「Our solutions are part of a much bigger puzzle on how to effectively tackle climate change. And, we think it’s possible to have a lot of fun working on hard problems.」（https://futurefields.io/company/careers/・1回目）
+  - 「Our solutions are part of a much bigger puzzle on how to effectively tackle climate change. And, we think it’s possible to have a lot of fun working on hard problems.」（https://futurefields.io/company/careers/?srsltid=AYCX9vJWHqIV2jXQ1vqBU9TR_tY04nJOxQhAZgNMGV2eeMeXgUERVR41・3回目）
+- 検索結果の抜粋：
+  - 「futurefields .com — futurefields .com futurefields.com https://futurefields.com」（https://futurefields.com/・3回目）
+  - 「Future Fields - LinkedIn — Future Fields - LinkedIn LinkedIn https://ca.linkedin.com > future-fields」（https://ca.linkedin.com/company/future-fields・3回目）
+  - 「Future Fields (@ futurefields ) • Instagram photos and videos — Future Fields (@ futurefields ) • Instagram photos and videos Instagram https://www.instagram.com > futurefi...」（https://www.instagram.com/futurefields/・3回目）
+  - 「Careers - Future Fields — Careers - Future Fields Future Fields https://futurefields.io > Company」（https://futurefields.io/company/careers/?srsltid=AYCX9vJWHqIV2jXQ1vqBU9TR_tY04nJOxQhAZgNMGV2eeMeXgUERVR41・3回目）
+  - 「Invest In Future Fields Stock | Buy Pre-IPO Shares - EquityZen — Invest In Future Fields Stock | Buy Pre-IPO Shares - EquityZen EquityZen https://equityzen.com > futurefields」（https://equityzen.com/company/futurefields/・3回目）
+  - 「Future Fields: We make unmakeable proteins with radical ... — Future Fields: We make unmakeable proteins with radical ... Y Combinator https://www.ycombinator.com > futur...」（https://www.ycombinator.com/companies/future-fields・3回目）
+  - 「Future Fields Closes Oversubscribed $8M Series A to Turn ... — Future Fields Closes Oversubscribed $8M Series A to Turn ... Future Fields https://futurefields.io > press-release」（https://futurefields.io/press-release/future-fields-closes-oversubscribed-8m-series-a/?srsltid=AYCX9vIhmsIxKfmpXtXHnVRR5P068mG-TJbvofdUjY1Zi4_k93cIQ1rC・3回目）
+  - 「Future Fields - 2026 Company Profile, Funding & Competitors — Future Fields - 2026 Company Profile, Funding & Competitors Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/future-fields/__6yuJqyCk7H39z96gtSzoH2sM1C3x2Q10QdOVJ5XAWWs・3回目）
+  - 「Future Fields raises $8m to grow fruit fly biomanufacturing ... — Future Fields raises $8m to grow fruit fly biomanufacturing ... AgFunderNews https://agfundernews.com > ...」（https://agfundernews.com/future-fields-raises-8m-series-a-to-expand-fruit-fly-biomanufacturing-platform・3回目）
+  - 「Future Fields - Valuation, Funding & Investors - PitchBook — Future Fields - Valuation, Funding & Investors - PitchBook PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/435869-02・3回目）
+- 創業年度：記載なし（3回確認済み：公式5頁／PDF・画像1件／外部28頁・検索12回）
+- 株主：記載なし（3回確認済み：公式5頁／PDF・画像1件／外部28頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式5頁／PDF・画像1件／外部28頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式5頁／PDF・画像1件／外部28頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式5頁／PDF・画像1件／外部28頁・検索12回）
+- 料金：記載なし（3回確認済み：公式5頁／PDF・画像1件／外部28頁・検索12回）
+- 連絡先：記載なし（3回確認済み：公式5頁／PDF・画像1件／外部28頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式5頁／PDF・画像1件／外部28頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式5頁／PDF・画像1件／外部28頁・検索12回）
+
+## Fynncredit
+- 公式URL：https://www.fynncredit.com（given）
+- 採用・広告の製品：
+  - 「ALEXISTOGEL adalah salah satu blog situs pilihan terbaik yang paling aman ketika kamu ingin mencari bandar togel dan slot online yang sangat gacor. Kenapa ALEXISTOGEL percaya diri dengan predikat ini? Karena, kami selalu berkomitmen dalam melayani para member setia baik member lama maupun member baru. Sebagai contoh adalah adanya bonus new member 50% khusus para pecinta slot online.」（https://www.treasuresoflatvia.com/brand/smartlynx・1回目）
+  - 「adalah salah satu blog situs pilihan terbaik yang paling aman ketika kamu ingin mencari bandar togel dan slot online yang sangat gacor. Kenapa ALEXISTOGEL percaya diri dengan predikat ini? Karena, kami selalu berkomitmen dalam melayani para member setia baik member lama maupun member baru. Sebagai contoh adalah adanya bonus new member 50% khusus para pecinta slot online.」（https://www.treasuresoflatvia.com/brand/smartlynx・1回目）
+  - 「Konsep ini mengacu pada platform alternatif atau platform utama yang hadir sebagai solusi bagi para pemain yang sering mengalami kendala pada situs lain, seperti masalah pemblokiran akses, proses transaksi yang lambat, atau kurangnya transparansi permainan. Situs penyelamat ini menjamin kelancaran sistem dan keadilan penuh.」（https://www.treasuresoflatvia.com/brand/smartlynx・1回目）
+  - 「❓ Bagaimana cara mengklaim Promo Bonus New Member 50% khusus slot online?」（https://www.treasuresoflatvia.com/brand/smartlynx・1回目）
+  - 「Bonus dapat diklaim dengan mudah setelah Anda melakukan pendaftaran akun baru dan menyelesaikan deposit pertama sesuai dengan batas minimal yang ditentukan. Pastikan Anda memilih opsi klaim promo slot pada menu transaksi atau menghubungi layanan pelanggan via Live Chat sebelum memulai taruhan.」（https://www.treasuresoflatvia.com/brand/smartlynx・1回目）
+  - 「Kami mendukung berbagai metode transaksi modern untuk kenyamanan Anda, termasuk transfer bank nasional terkemuka (BCA, Mandiri, BNI, BRI), penyedia dompet digital populer (Dana, OVO, GoPay, LinkAja), hingga metode deposit menggunakan pulsa tanpa potongan yang diproses dalam hitungan menit.」（https://www.treasuresoflatvia.com/brand/smartlynx・1回目）
+  - 「❓ Berapa lama waktu yang dibutuhkan untuk memproses transaksi deposit dan withdraw?」（https://www.treasuresoflatvia.com/brand/smartlynx・1回目）
+  - 「Proses deposit umumnya hanya membutuhkan waktu sekitar 1 hingga 3 menit setelah konfirmasi sistem. Sementara itu, untuk proses penarikan dana (withdraw), tim keuangan kami memprosesnya secara cepat dalam rentang waktu 3 hingga 5 menit, tergantung pada kondisi operasional bank yang bersangkutan.」（https://www.treasuresoflatvia.com/brand/smartlynx・1回目）
+  - 「Sebagai pemain yang sering berpindah platform karena kendala teknis, hadirnya situs ini benar-benar menjadi penyelamat utama saya. Klaim bonus new member 50% langsung masuk ke dompet akun tanpa syarat yang mbulet. Proses withdraw hasil kemenangan jackpot ratusan juta pun diproses sangat cepat tanpa berbelit-belit. Layanan yang sangat memuaskan!」（https://www.treasuresoflatvia.com/brand/smartlynx・1回目）
+  - 「Awalnya saya ragu dengan klaim bonus 50%, tapi ternyata syarat Turnover-nya sangat masuk akal dan transparan. Fitur tampilan situs di HP juga ringan banget, tidak patah-patah saat main slot grafis tinggi. Sistem keamanannya bikin tenang karena akun dan data pribadi tidak pernah bermasalah sama sekali.」（https://www.treasuresoflatvia.com/brand/smartlynx・1回目）
+  - 「Untuk urusan taruhan togel pasaran besar seperti HK dan SGP, platform ini tidak ada tandingannya. Pemasangan angka sangat cepat, diskon dan hadiahnya sangat bersaing. Yang paling saya apresiasi adalah kemudahan akses situsnya yang jarang sekali terkena gangguan jaringan atau pemblokiran server.」（https://www.treasuresoflatvia.com/brand/smartlynx・1回目）
+  - 「Professor Messer's Security+ SY0-701 Study Group - September 2026」（https://www.youtube.com/watch?v=bbJx6mXfF7A・3回目）
+- 製造業の実績：
+  - 「Ok, so buckle up. Today we have a true game changer on the show. And when I say game-changer, I mean this company is on a course to alter the skilled trades landscape and future middle class, forever. Eric Menees, CEO of Fynn Credit joins us today to talk about how their creative financing solutions are enable more students to attend trade school AND be placed with permanent employment.」（https://www.youtube.com/watch?v=bbJx6mXfF7A・3回目）
+  - 「Eric has quite the resume himself as a “reformed researcher” in several fields I can barely pronounce. He has always had a deep appreciation for the skilled trades with several of his friends and family pursuing these important careers.」（https://www.youtube.com/watch?v=bbJx6mXfF7A・3回目）
+- 検索結果の抜粋：
+  - 「Fynn Credit's Creative Financing for Trade School Success — Fynn Credit's Creative Financing for Trade School Success YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=bbJx6mXfF7A・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）
+
+## Gaiia
+- 公式URL：https://gaiia.com（given）
+- 採用・広告の製品：
+  - 「We’ve been really impressed with how responsive and attentive gaiia’s customer support is. They genuinely value our feedback and have tailored the platform to meet our needs.」（https://gaiia.com/・1回目）
+  - 「Reporting and data access are a big step up from our previous stack, and the automation we gained on day one changed how we operate. The gaiia team's been great to work with, and they actually listen to our feedback.」（https://gaiia.com/・1回目）
+  - 「Our go live went extremely well. The process was smooth, and we already see benefits from the automation and streamlined workflows. Our team is really excited about the new system.」（https://gaiia.com/・1回目）
+  - 「The power to customize reports and receive real-time data has been extremely valuable. gaiia has provided us with the tools we need to analyze our penetration rates across properties, and understand the service breakdowns within each building.」（https://gaiia.com/・1回目）
+  - 「Monthly checkout volume grew roughly 6x, yet the vast majority of orders required zero technician intervention, proving the checkout platform scaled without adding operational overhead.」（https://gaiia.com/・1回目）
+  - 「Kudos to your support, like your support at gaiia. Wow, they're fast. So that is very much appreciated.」（https://gaiia.com/・1回目）
+  - 「Our AI workflow editor enables humans, AI-assisted humans, and fully autonomous AI agents to automate routine tasks and complex provisioning flows, so your team can spend more time on the big stuff.」（https://gaiia.com/・1回目）
+  - 「Stay calm under pressure with targeted incident communication.」（https://gaiia.com/・1回目）
+  - 「Workforce & Scheduling」（https://gaiia.com/・1回目）
+  - 「Scale without friction. Turn ideas into real-life systems with precise, step-by-step control.」（https://gaiia.com/・1回目）
+  - 「Product guides, API references, and implementation walkthroughs.」（https://gaiia.com/・1回目）
+  - 「gaiia meets globally recognized standards for security, privacy, and compliance.」（https://gaiia.com/・1回目）
+- 製造業の実績：
+  - 「Automated tools keep dispatchers and technicians in sync. Happier techs, happier customers.」（https://gaiia.com/・1回目）
+  - 「Case Study: We increased gaiia’s meetings booked by 21% | Palisade」（https://www.palisade.email/resources-post/case-study-we-increased-gaiias-open-rate・3回目）
+  - 「Case Study: We increased gaiia’s meetings booked by 21%」（https://www.palisade.email/resources-post/case-study-we-increased-gaiias-open-rate・3回目）
+  - 「Case Study: How Invision Technologies gained remediation clarity after moving from a competitor」（https://www.palisade.email/resources-post/case-study-we-increased-gaiias-open-rate・3回目）
+  - 「“Telecom has the lowest NPS of any major industry, and the reason is the software running it,” said Marc Campagna, co-founder and CEO of gaiia. “Operators have been forced to run their business on tools built before the internet became essential to everyday life. We built gaiia because we lived that problem ourselves at」（https://www.jmi.com/gaiia-raises-40-million-series-b-led-by-jmi-equity-to-modernize-the-operating-system-for-communications-service-providers/・3回目）
+  - 「gaiia is used by operators including Cogeco, Greenlight Networks, Vistabeam, Resound, IQ Fiber, Direct Communications, and LilaConnect across fiber, fixed wireless, cable, MVNO, and B2B segments. Growth has been almost entirely word-of-mouth.」（https://www.jmi.com/gaiia-raises-40-million-series-b-led-by-jmi-equity-to-modernize-the-operating-system-for-communications-service-providers/・3回目）
+  - 「“gaiia represents the kind of company JMI looks to partner with: a category-defining AI-forward platform, built by operators with deep firsthand understanding of the market,” said Chase Thomet, Partner at JMI Equity. “OSS/BSS is a large and underserved category of software, and we believe gaiia has built the architecture and team that will lead its next chapter.”」（https://www.jmi.com/gaiia-raises-40-million-series-b-led-by-jmi-equity-to-modernize-the-operating-system-for-communications-service-providers/・3回目）
+- 再販・ホワイトラベル：
+  - 「Beautifully customize our checkout with your brand.」（https://gaiia.com/・1回目）
+  - 「At gaiia, we believe in building a strong ecosystem with leading technology providers, strategic allies, and channel partners. Discover how our partnerships and integrations streamline operations, drive innovation, and deliver value to ISPs globally.」（https://gaiia.com/partners・1回目）
+  - 「White-Label ISP Customer Self-Service Portal | gaiia」（https://gaiia.com/products/customer-portal・1回目）
+  - 「Yes. The gaiia customer portal is white-labeled and customizable to match your brand identity. You can configure:」（https://gaiia.com/products/customer-portal・1回目）
+  - 「All branding changes are applied instantly across the portal with no custom development required. Your customers see your brand, not gaiia's.」（https://gaiia.com/products/customer-portal・1回目）
+  - 「- The referral program powered by gaiia became even more effective with the optimized checkout as there was a clear place to input the referral code & see the discounted month reflected in the customers cart. Additionally, due to the significant increase in new customer acquisition, there was a larger cohort of customers that were referring their friends and family… creating a flywheel.」（https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x・1回目）
+- 規模・親会社：
+  - 「Chief Revenue Officer」（https://gaiia.com/・1回目）
+  - 「Accelerate customer acquisition」（https://gaiia.com/partners・1回目）
+  - 「Billing & revenue management」（https://gaiia.com/partners・1回目）
+  - 「How Intellipop scaled 200% in 2 years」（https://gaiia.com/customer-stories・1回目）
+  - 「Chief Revenue Officer」（https://gaiia.com/customer-stories・1回目）
+  - 「Accelerate customer acquisition.」（https://gaiia.com/products/customer-portal・1回目）
+  - 「oxio’s website went from a typical ISP sign-up webform to an e-commerce style checkout experience powered by gaiia, resulting in a 6x lift in conversion rate and an increase of customer acquisition from ~20 customers per day to ~120.」（https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x・1回目）
+  - 「and an increase of customer acquisition from ~20 customers per day to ~120.」（https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x・1回目）
+  - 「Once the equipment arrived at the customer’s house and they were successfully activated, oxio could finally count that website visit as a conversion.」（https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x・1回目）
+  - 「Rising Acquisition Costs and a Limited Marketing Budget Hampered Growth」（https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x・1回目）
+  - 「oxio’s customer acquisition costs were increasing month over month, and traffic costs (CPCs) from their main acquisition channels were on the rise. The team knew that spending more money on advertising would only go so far with the current website conversion rate, and from a cash flow perspective, it was unsustainable long-term. oxio’s main acquisition channels included:」（https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x・1回目）
+  - 「During peak season, oxio was acquiring ~ 20/ customer per day via the webform checkout, with an average customer acquisition cost of $87.」（https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x・1回目）
+- 連絡先：
+  - 「Contact us today to explore how we can succeed together.」（https://gaiia.com/partners・1回目）
+  - 「Subscribe to our email newsletter for exclusive updates.」（https://gaiia.com/partners・1回目）
+  - 「Email templates and notification styling」（https://gaiia.com/products/customer-portal・1回目）
+  - 「Their unique referral code and easy share links (email, SMS, social media)」（https://gaiia.com/products/customer-portal・1回目）
+  - 「Abandoned Cart Emails」（https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x・1回目）
+  - 「The gaiia team implemented tracking snippets from Klaviyo (oxio’s ESP) in order to track exactly who was dropping off during the checkout process. The abandoned cart email journey consisted of three automated emails over a one-week period, reminding the customer that they hadn’t completed their checkout. The email journey on average resulted in an incremental ~ 5 new customers per day.」（https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x・1回目）
+  - 「Based on pre-defined workflows, gaiia integrated with the necessary networks (TPIA) to provision the new customer's internet service, reducing the manual labor required from the oxio team. gaiia integrated with the networks even if there was no API access, using methods such as Email & Click-Through automations.」（https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x・1回目）
+  - 「Today, customers can sign up for Intellipop’s services in just a few clicks. gaiia’s online checkout automatically creates the account, provisions the service, sets up billing, and sends onboarding emails, with no staff intervention needed.」（https://gaiia.com/case-studies/how-intellipop-scaled-200-in-2-years・1回目）
+  - 「gaiia's outbound email was landing in spam. Fixing their DNS and authentication took their open rate from 35% to 50% and their conference demo bookings up 21%.」（https://www.palisade.email/resources-post/case-study-we-increased-gaiias-open-rate・3回目）
+  - 「gaiia's outbound email was landing in spam. We fixed their DNS records and email authentication, and their open rate went from 35% to 50%, a 43% lift that turned into 21% more demos booked at conferences. Their emails were reaching inboxes within a week.」（https://www.palisade.email/resources-post/case-study-we-increased-gaiias-open-rate・3回目）
+  - 「That matters for email more than it sounds. An ISP's platform is what sends the activation notice, the outage alert, the past-due reminder, and the appointment confirmation. When those messages land in spam, the support phone rings instead, and the provider pays for it twice.」（https://www.palisade.email/resources-post/case-study-we-increased-gaiias-open-rate・3回目）
+  - 「) and was early in building that platform out. They had 35 engineers and deep technical knowledge, but nobody whose job was email deliverability.」（https://www.palisade.email/resources-post/case-study-we-increased-gaiias-open-rate・3回目）
+- 検索結果の抜粋：
+  - 「gaiia - OSS & BSS Software for ISPs & Telecoms — gaiia - OSS & BSS Software for ISPs & Telecoms gaiia https://gaiia.com」（https://gaiia.com/・3回目）
+  - 「How Intellipop scaled 200% in 2 years - gaiia — How Intellipop scaled 200% in 2 years - gaiia gaiia https://gaiia.com > case-studies > how...」（https://gaiia.com/case-studies/how-intellipop-scaled-200-in-2-years・3回目）
+  - 「Case Study : We increased gaiia's meetings booked by 21% — Case Study : We increased gaiia's meetings booked by 21% palisade.email https://www.palisade.email > case-stu...」（https://www.palisade.email/resources-post/case-study-we-increased-gaiias-open-rate・3回目）
+  - 「Referral - Overview - Help Desk — Referral - Overview - Help Desk gaiia https://support.gaiia.com > articles > 4...」（https://support.gaiia.com/hc/en-us/articles/46641510467355-Referral-Overview・3回目）
+  - 「Series A Funding Led by Inovia Capital - gaiia — Series A Funding Led by Inovia Capital - gaiia gaiia https://gaiia.com > newsroom > gaiia-...」（https://gaiia.com/newsroom/gaiia-raises-series-a-led-by-inovia-capital-to-revolutionize-customer-experience-for-internet-service-providers・3回目）
+  - 「gaiia : Revenue , Competitors, Alternatives - Growjo — gaiia : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > company > gaiia」（https://growjo.com/company/gaiia・3回目）
+  - 「gaiia Raises $40 Million Series B Led by JMI Equity to ... — gaiia Raises $40 Million Series B Led by JMI Equity to ... JMI Equity https://www.jmi.com > gaiia-raises-40...」（https://www.jmi.com/gaiia-raises-40-million-series-b-led-by-jmi-equity-to-modernize-the-operating-system-for-communications-service-providers/・3回目）
+  - 「Gaiia Funding | $1.9-10.5M Revenue | Complete Analysis — Gaiia Funding | $1.9-10.5M Revenue | Complete Analysis Extruct AI https://www.extruct.ai > hub > gaiia-c...」（https://www.extruct.ai/hub/gaiia-com-funding/・3回目）
+  - 「gaiia Revenue 2023: $1.9M Est. - GetLatka — gaiia Revenue 2023: $1.9M Est. - GetLatka GetLatka https://getlatka.com > companies > gaiia」（https://getlatka.com/companies/gaiia.com・3回目）
+- 創業年度：記載なし（3回確認済み：公式14頁／PDF・画像4件／外部30頁・検索12回）
+- 株主：記載なし（3回確認済み：公式14頁／PDF・画像4件／外部30頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式14頁／PDF・画像4件／外部30頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式14頁／PDF・画像4件／外部30頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式14頁／PDF・画像4件／外部30頁・検索12回）
+- 料金：記載なし（3回確認済み：公式14頁／PDF・画像4件／外部30頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式14頁／PDF・画像4件／外部30頁・検索12回）
+
+## Garageplug
+- 公式URL：https://garageplug.com（given）
+- 採用・広告の製品：
+  - 「Global automotive service enterprises leverage GaragePlug’s cloud platform to accelerate their workshop network’s productivity, enhance customer journey & acquire aggregated business intelligence.」（https://www.garageplug.com/・1回目）
+  - 「Poor customer retention.」（https://www.garageplug.com/・1回目）
+  - 「Difficulty establishing premium brand perception.」（https://www.garageplug.com/・1回目）
+  - 「Proven platform with 4 cloud products」（https://www.garageplug.com/・1回目）
+  - 「GaragePlug’s platform consists of 4 cloud products that work together to unify your customer journey, your service network & your head office.」（https://www.garageplug.com/・1回目）
+  - 「Enhanced Productivity」（https://www.garageplug.com/・1回目）
+  - 「GaragePlug's omni-channel notification system has 8 digital touchpoints that enhance your customers' journey with your business. Each touchpoint, from online booking to inspection reports to service approval to live tracking to due service reminders, is thoughtfully crafted to create a seamless and delightful experience.」（https://www.garageplug.com/・1回目）
+  - 「GaragePlug's service monitoring board offers a comprehensive, outlet-specific overview, allowing you to optimize your workshop manager's performance and achieve up to 3× greater results for each location. With a bird's-eye view of each individual outlet's operations, you can visually identify areas for improvement and control shop-floor operations effectively.」（https://www.garageplug.com/・1回目）
+  - 「Multiple outlets that too spread across different continents? No problem: know exactly what’s working and what’s not.」（https://www.garageplug.com/・1回目）
+  - 「With GaragePlug's HO panel, you can seamlessly manage and control each of your service outlets directly from your head office. Control service pricing and manage the user access of your service outlets.」（https://www.garageplug.com/・1回目）
+  - 「GaragePlug's Business Intelligence (BI) platform is designed to help you unlock the full potential of your business. Our platform provides you with powerful data analysis tools and insights, allowing you to make informed decisions and take proactive steps to optimize your business operations.」（https://www.garageplug.com/・1回目）
+  - 「Director Valvoline Express Care」（https://www.garageplug.com/・1回目）
+- 製造業の実績：
+  - 「Automotive workshop garage management software」（https://www.garageplug.com/・1回目）
+  - 「The platform trusted by the best automotive service brands」（https://www.garageplug.com/・1回目）
+  - 「Global automotive service enterprises leverage GaragePlug’s cloud platform to accelerate their workshop network’s productivity, enhance customer journey & acquire aggregated business intelligence.」（https://www.garageplug.com/・1回目）
+  - 「Trusted by 300+ brands across 28 countries.」（https://www.garageplug.com/・1回目）
+  - 「Our platform streamlines all aspects of your business, from appointment scheduling to inventory management to customer communications, all-in-one intuitive system. Our platform is user-friendly and designed to be easily used by ground-level technicians.」（https://www.garageplug.com/・1回目）
+  - 「AI isn't just for tech. It's for everyone, even shopfloor technicians.」（https://www.garageplug.com/・1回目）
+  - 「Built by automotive industry experts」（https://www.garageplug.com/・1回目）
+  - 「Automotive Oil Change Software」（https://www.garageplug.com/case-study/atif-ali-testimonial・1回目）
+  - 「Premium customer experience and management software for literally any type of automotive service business- GaragePlug · GaragePlug」（https://www.garageplug.com/solutions/other-workshops・1回目）
+  - 「Transforming Customer Journey for All Types of Automotive Service Shops」（https://www.garageplug.com/solutions/other-workshops・1回目）
+  - 「Premium Customer Experience and Management Software for Literally Any Type of Automotive Service Business」（https://www.garageplug.com/solutions/other-workshops・1回目）
+  - 「Trusted by 5000+ users around the world」（https://www.garageplug.com/solutions/other-workshops・1回目）
+- 再販・ホワイトラベル：
+  - 「Let GaragePlug take care of the obstacles while you focus on growing your brand.」（https://www.garageplug.com/・1回目）
+  - 「Integrated customer app with your branding that puts a smile on your customers face」（https://www.garageplug.com/・1回目）
+  - 「Indonesia (Channel Partner)」（https://www.garageplug.com/case-study/atif-ali-testimonial・1回目）
+  - 「KSA (Channel Partner)」（https://www.garageplug.com/case-study/atif-ali-testimonial・1回目）
+  - 「Thailand (Channel Partner)」（https://www.garageplug.com/case-study/atif-ali-testimonial・1回目）
+  - 「Send a personalized digital invoice with your branding.」（https://www.garageplug.com/solutions/other-workshops・1回目）
+  - 「Build your brand and grow」（https://www.garageplug.com/solutions/other-workshops・1回目）
+  - 「Send a personalized digital invoice with your branding.」（https://www.garageplug.com/solutions/multi-brand-service-workshops・1回目）
+  - 「Build your brand and grow」（https://www.garageplug.com/solutions/multi-brand-service-workshops・1回目）
+  - 「Send a personalized digital invoice with your branding.」（https://www.garageplug.com/solutions/motorcycle-service-center-chains・1回目）
+  - 「Build your brand and grow」（https://www.garageplug.com/solutions/motorcycle-service-center-chains・1回目）
+  - 「Send a personalized digital invoice with your branding.」（https://www.garageplug.com/solutions/oil-service-center-chains・1回目）
+- 規模・親会社：
+  - 「Geo-wise revenue visualization」（https://www.garageplug.com/・1回目）
+  - 「Meet Gia: Your AI Revenue Operator for Auto Service.」（https://www.garageplug.com/pricing・1回目）
+  - 「Meet Gia: Your AI Revenue Operator for Auto Service.」（https://www.garageplug.com/solutions/other-workshops・1回目）
+  - 「Meet Gia: Your AI Revenue Operator for Auto Service.」（https://www.garageplug.com/solutions/multi-brand-service-workshops・1回目）
+  - 「Meet Gia: Your AI Revenue Operator for Auto Service.」（https://www.garageplug.com/solutions/motorcycle-service-center-chains・1回目）
+  - 「Meet Gia: Your AI Revenue Operator for Auto Service.」（https://www.garageplug.com/solutions/oil-service-center-chains・1回目）
+  - 「Meet Gia: Your AI Revenue Operator for Auto Service.」（https://www.garageplug.com/solutions/car-wash-and-detailing-centers・1回目）
+  - 「Meet Gia: Your AI Revenue Operator for Auto Service.」（https://www.garageplug.com/solutions/auto-service-and-repair-franchisees・1回目）
+  - 「Meet Gia: Your AI Revenue Operator for Auto Service.」（https://www.garageplug.com/solutions/auto-multi-outlet-software・1回目）
+  - 「Meet Gia: Your AI Revenue Operator for Auto Service.」（https://www.garageplug.com/solutions/auto-repair-invoice-software・1回目）
+  - 「Meet Gia: Your AI Revenue Operator for Auto Service.」（https://www.garageplug.com/solutions/auto-detailing-software・1回目）
+  - 「Meet Gia: Your AI Revenue Operator for Auto Service.」（https://www.garageplug.com/solutions/auto-repair-shop・1回目）
+- 連絡先：
+  - 「Omni-channel customer journey (SMS, email, WhatsApp)」（https://www.garageplug.com/pricing・1回目）
+  - 「Automatic interaction via SMS, Email, WhatsApp.」（https://www.garageplug.com/solutions/other-workshops・1回目）
+  - 「Automatic interaction via SMS, Email, WhatsApp.」（https://www.garageplug.com/solutions/multi-brand-service-workshops・1回目）
+  - 「Automatic interaction via SMS, Email, WhatsApp.」（https://www.garageplug.com/solutions/motorcycle-service-center-chains・1回目）
+  - 「Automatic interaction via SMS, Email, WhatsApp.」（https://www.garageplug.com/solutions/oil-service-center-chains・1回目）
+  - 「Automatic interaction via SMS, Email, WhatsApp.」（https://www.garageplug.com/solutions/car-wash-and-detailing-centers・1回目）
+  - 「Automatic interaction via SMS, Email, WhatsApp.」（https://www.garageplug.com/solutions/auto-service-and-repair-franchisees・1回目）
+  - 「Automatic interaction via SMS, Email, WhatsApp.」（https://www.garageplug.com/solutions/auto-multi-outlet-software・1回目）
+  - 「Automatic interaction via SMS, Email, WhatsApp.」（https://www.garageplug.com/solutions/auto-repair-invoice-software・1回目）
+  - 「Automatic interaction via SMS, Email, WhatsApp.」（https://www.garageplug.com/solutions/auto-detailing-software・1回目）
+  - 「Automatic interaction via SMS, Email, WhatsApp.」（https://www.garageplug.com/solutions/auto-repair-shop・1回目）
+  - 「B2B email lists」（https://growjo.com/company/GaragePlug・3回目）
+- 検索結果の抜粋：
+  - 「GaragePlug — GaragePlug GaragePlug https://www.garageplug.com」（https://www.garageplug.com/・3回目）
+  - 「GaragePlug - LinkedIn — GaragePlug - LinkedIn LinkedIn https://www.linkedin.com > garageplug」（https://www.linkedin.com/company/garageplug・3回目）
+  - 「GaragePlug : Auto Repair and De - Apps on Google Play — GaragePlug : Auto Repair and De - Apps on Google Play Google Play https://play.google.com > apps > details」（https://play.google.com/store/apps/details?id=com.garageplug.global・3回目）
+  - 「GaragePlug Workshop Management Platform - YouTube — GaragePlug Workshop Management Platform - YouTube YouTube https://www.youtube.com > channel」（https://www.youtube.com/channel/UC0TuTkyILNsUE35-JlPAY6A・3回目）
+  - 「GaragePlug Official®️ (@garagepluginc) - Instagram — GaragePlug Official®️ (@garagepluginc) - Instagram Instagram https://www.instagram.com > garagep...」（https://www.instagram.com/garagepluginc/・3回目）
+  - 「Reseller Programme - GaragePlug — Reseller Programme - GaragePlug GaragePlug https://reseller.garageplug.com」（https://reseller.garageplug.com/・3回目）
+  - 「Demand Driven Technologies vs GaragePlug - GetLatka — Demand Driven Technologies vs GaragePlug - GetLatka GetLatka https://getlatka.com > garageplug」（https://getlatka.com/companies/demanddriventech.com/vs/garageplug.com・3回目）
+  - 「GaragePlug : Revenue , Competitors, Alternatives - Growjo — GaragePlug : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > GaragePlug」（https://growjo.com/company/GaragePlug・3回目）
+  - 「GaragePlug - 2026 Company Profile & Team - Tracxn — GaragePlug - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/garageplug/__nYOEiXp9NYgO_bGP4soMekdANjDFHwHbbsW2xzcavc0・3回目）
+  - 「GaragePlug - Valuation, Funding & Investors - PitchBook — GaragePlug - Valuation, Funding & Investors - PitchBook PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/483172-48・3回目）
+- 創業年度：記載なし（3回確認済み：公式16頁／PDF・画像1件／外部33頁・検索12回）
+- 株主：記載なし（3回確認済み：公式16頁／PDF・画像1件／外部33頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式16頁／PDF・画像1件／外部33頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式16頁／PDF・画像1件／外部33頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式16頁／PDF・画像1件／外部33頁・検索12回）
+- 料金：記載なし（3回確認済み：公式16頁／PDF・画像1件／外部33頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式16頁／PDF・画像1件／外部33頁・検索12回）
+
+## Gelee AI
+- 公式URL：https://www.gelee.ai（given）
+- 料金：From $89 per LinkedIn Account | Gelee AI（https://www.gelee.ai/pricing・1回目）
+- 料金：From $89 per LinkedIn Account | Gelee AI（https://www.gelee.ai/pricing?cta=footer_start・1回目）
+- 採用・広告の製品：
+  - 「A new funding round or a new hire gives you a reason to reach out this month. Gelee watches for these and times the first message.」（https://www.gelee.ai/・1回目）
+  - 「Hiring 3 SDRs」（https://www.gelee.ai/・1回目）
+  - 「Viewed your pricing, 3x」（https://www.gelee.ai/・1回目）
+  - 「“I had 3 reps prospecting by hand. Now I close 23 meetings a quarter without touching it.”」（https://www.gelee.ai/・1回目）
+  - 「“I tried every LinkedIn tool going. With Gelee, prospects think I wrote the messages myself.”」（https://www.gelee.ai/・1回目）
+  - 「Upload your leads and do-not-contact list, and pick up where you left off.」（https://www.gelee.ai/・1回目）
+  - 「An agency that promises clients a fixed number of meetings. The platform will not set a goal above 20 booked calls a month for any workspace, however many seats it runs, and nobody here will promise a number above it either.」（https://www.gelee.ai/solutions/agencies・1回目）
+  - 「Every table in the platform is scoped to one organisation, and a client is one organisation. Seats, campaigns, prospects, replies, blacklist and bookings for Client A live under Client A and nowhere else. Your people are added as members of each workspace they work on, and a member of more than one sees a workspace switcher in the sidebar.」（https://www.gelee.ai/solutions/agencies・1回目）
+  - 「The practical effect is isolation by default. A seat that LinkedIn restricts stops sending and re-warms on its own; the other seats in that workspace and every other workspace carry on. A person on one client’s do-not-contact list is still contactable for a different client, unless you add them there too.」（https://www.gelee.ai/solutions/agencies・1回目）
+  - 「A newly connected seat sends at 25% of its budget for days 1 to 3, 50% through day 7, 75% through day 14 and full rate after that. The ramp covers invitations, messages, comments, InMails, profile views and searches together. A seat that LinkedIn flags is re-warmed rather than resumed, and after any cooldown it comes back at 25, 50 and 75% over six days.」（https://www.gelee.ai/solutions/agencies・1回目）
+  - 「Approval first, autonomy earned」（https://www.gelee.ai/solutions/agencies・1回目）
+  - 「Nothing launches without the client’s written approval of the targeting and the message sequence. Once live, every reply a prospect sends is drafted in the client’s voice and posted to that client’s Slack channel with three buttons: Approve & Send, Edit, Skip. An edit feeds back into the voice.」（https://www.gelee.ai/solutions/agencies・1回目）
+- 製造業の実績：
+  - 「Used by 500+ founders」（https://web.gelee.ai/start?cta=pricing_nav・1回目）
+  - 「Used by 500+ founders」（https://web.gelee.ai/start?cta=pricing_mobile・1回目）
+- 再販・ホワイトラベル：
+  - 「LinkedIn Outreach for Agencies: Multi-Client, Multi-Account Outbound」（https://www.gelee.ai/solutions/agencies・1回目）
+  - 「Over 25 accounts, or agencies」（https://www.gelee.ai/pricing・1回目）
+  - 「Do you work with agencies running outreach for clients?」（https://www.gelee.ai/pricing・1回目）
+  - 「Over 25 accounts, or agencies」（https://www.gelee.ai/pricing?cta=footer_start・1回目）
+  - 「Do you work with agencies running outreach for clients?」（https://www.gelee.ai/pricing?cta=footer_start・1回目）
+- 規模・親会社：
+  - 「New revenue you want this year」（https://www.gelee.ai/・1回目）
+  - 「The practical effect is isolation by default. A seat that LinkedIn restricts stops sending and re-warms on its own; the other seats in that workspace and every other workspace carry on. A person on one client’s do-not-contact list is still contactable for a different client, unless you add them there too.」（https://www.gelee.ai/solutions/agencies・1回目）
+  - 「Every safety behaviour, listed」（https://www.gelee.ai/solutions/agencies・1回目）
+  - 「No. Every record carries the organisation it belongs to and every query is scoped to the signed-in user’s current workspace. A client is a member of their own workspace only. Your team members are added to each workspace they handle and switch between them from the sidebar.」（https://www.gelee.ai/solutions/agencies・1回目）
+  - 「Pre-revenue and funding the build from savings. Onboarding is a commitment measured over weeks, the first two of which are warm-up, and a founder in that position needs the first ten customers from their own network before paying anyone to reach strangers.」（https://www.gelee.ai/solutions/founders・1回目）
+  - 「Every safety behaviour, listed」（https://www.gelee.ai/solutions/founders・1回目）
+  - 「Calls booked this week, invitations, replies and positive replies, pipeline at the deal value you gave us, best campaigns by booked calls. A prospect who writes back three times is one reply. A Friday email carries the same week in the same numbers, and a monthly report is generated from the same event log.」（https://www.gelee.ai/solutions/founders・1回目）
+- 連絡先：
+  - 「Why do you ask for my email?」（https://www.gelee.ai/tools/bio-rewriter・1回目）
+  - 「Every LinkedIn account includes 1,750 credits a month, in one pot your whole workspace shares. They cover turning a LinkedIn URL into full profile details, and the AI SDR, AI variables and Ask Gelee (the AI can use up to 500 of them). A mobile number costs 44 credits and a verified work email 2, only when we find one. Need more? Add credits in the app, from 2¢ each.」（https://www.gelee.ai/pricing・1回目）
+  - 「Every LinkedIn account includes 1,750 credits a month, in one pot your whole workspace shares. They cover turning a LinkedIn URL into full profile details, and the AI SDR, AI variables and Ask Gelee (the AI can use up to 500 of them). A mobile number costs 44 credits and a verified work email 2, only when we find one. Need more? Add credits in the app, from 2¢ each.」（https://www.gelee.ai/pricing?cta=footer_start・1回目）
+  - 「Calls booked this week, invitations, replies and positive replies, pipeline at the deal value you gave us, best campaigns by booked calls. A prospect who writes back three times is one reply. A Friday email carries the same week in the same numbers, and a monthly report is generated from the same event log.」（https://www.gelee.ai/solutions/founders・1回目）
+- 検索結果の抜粋：
+  - 「Gelee AI - LinkedIn — Introducing Gelee AI: your AI sales army that finds high-intent leads and books calls for you.」（https://www.linkedin.com/company/gelee・3回目）
+  - 「Gelee AI: ManyChat for LinkedIn | AlphaShot — Gelee is a comment-to-DM automation tool for LinkedIn creators. See features, pricing and alternatives on AlphaShot.」（https://alphashot.com/products/gelee-ai・3回目）
+  - 「Elizabeth Cree - GTM @ Gelee AI | #1 Outbound Tool | LinkedIn — Gelee was built for teams ready to move beyond static lead lists and automated sequences. It continuously finds prospects showing buying intent, scores them against each client’s ideal customer...」（https://www.linkedin.com/in/elizabeth-cree-62bb55176・3回目）
+  - 「Gelee AI - Crunchbase Company Profile & Funding — Frequently Asked Questions Where is Gelee AI's headquarters? Gelee AI is located in San Francisco, California, United States. Who are Gelee AI's competitors? Alternatives and possible competitors to Gelee AI may include Dripify, HeyReach.io, and Taplio.」（https://www.crunchbase.com/organization/gelèe-ai・3回目）
+  - 「Anjali Dhaliwal - Founder and CEO of Gelee AI - Drishti Magazine — Founder and CEO of Gelee AI, a tech company using AI agents to help businesses find the right buyers on LinkedIn. She has already driven over $100 million in sales pipeline for its clients.」（https://drishtimagazine.com/anjali-dhaliwal/・3回目）
+  - 「Gelee AI - LinkedIn — Hit your entire TAM. Gelee tracks fundraises, hiring surges, competitor moves, viral posts, and website visits, then finds the prospect, writes the message, and sends it. You just take the...」（https://www.linkedin.com/company/gelee・3回目）
+  - 「Aimie Landells - Growth @ Gelee AI | #1 Outbound Tool for ... — Gelee has helped dozens of teams generate millions in pipeline from YC, a16z, Sequoia, and South Park Commons.」（https://www.linkedin.com/in/aimie-landells-8392bb319・3回目）
+- 創業年度：記載なし（3回確認済み：公式9頁／PDF・画像4件／外部31頁・検索12回）
+- 株主：記載なし（3回確認済み：公式9頁／PDF・画像4件／外部31頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式9頁／PDF・画像4件／外部31頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式9頁／PDF・画像4件／外部31頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式9頁／PDF・画像4件／外部31頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式9頁／PDF・画像4件／外部31頁・検索12回）
+
+## Gen1E
+- 公式URL：https://www.gen1elifesci.com（given）
+- 採用・広告の製品：
+  - 「We have 3 key programs in different phases across two different targets. All of these use novel 1st-in-class therapies developed by GEn1E using the relevant modality to treat the disease effectively.」（https://www.gen1e.com/・1回目）
+  - 「GEn-1124-002 is a two-part Phase 2 study to evaluate the safety and tolerability of GEn-1124 in subjects with ARDS. Treatment with IV infusion dosing as early as possible after ARDS diagnosis. Subjects will be given a second dose approximately 8 hours after the first dose and will continue with twice daily dosing (BID regimen) for 5 days.」（https://www.gen1e.com/・1回目）
+  - 「Previous attempts to address this dysregulation involved kinase inhibitors which were」（https://www.gen1e.com/・1回目）
+  - 「(presented at ATS 2023 and ATS 2024)」（https://www.gen1e.com/・1回目）
+  - 「GEn1E’s novel compounds bind to a unique binding site. Unlike previous generation compounds which are non-selective and immunosuppressive due to their inhibitor characteristics, GEn1E’s selective & dual signal modifiers use a differentiated Mechanism of Action for treating inflammation.」（https://www.gen1e.com/・1回目）
+  - 「「世代を超えた“100年企業”を創る」 世界有数のファンド規模誇るNew Enterprise Associates」（https://techblitz.com/startup-interview/geni1e-lifesciences/・3回目）
+  - 「移動時間の価値を高める──JR東海が「Supreme Class」に込めた思い」（https://forbesjapan.com/articles/detail/92131・3回目）
+  - 「テレビの先にある新たなリーチ サテライトオフィスがPrime Video広告を選んだ理由」（https://forbesjapan.com/articles/detail/92131・3回目）
+  - 「【Revvity ウェビナー】dual-sgRNA CRISPRシステムによる遺伝子機能解析」（https://bio.nikkeibp.co.jp/atcl/news/p1/26/07/28/14834/・3回目）
+  - 「米AIM Precision Therapeutics社、正常細胞への攻撃抑制を目指すCAR-T療法を開発中」（https://bio.nikkeibp.co.jp/atcl/news/p1/26/07/28/14834/・3回目）
+  - 「If GEN1E were to be described in a single phrase, it is not a company that uses AI to "automatically generate new drug candidates," but rather one that rebuilds the very mechanism for "increasing the probability that a new drug will succeed."」（https://www.gen1e.com/forbes-japan-article・3回目）
+  - 「When people hear "AI drug discovery," many imagine AI rapidly producing one drug candidate after another. But GEN1E focuses not on drug candidates, but on patients — and values certainty over speed.」（https://www.gen1e.com/forbes-japan-article・3回目）
+- 日本の担い手：
+  - 「FORBES JAPAN: How Geopolitics Is Shaping AI Drug Development: A Silicon Valley Company’s View」（https://www.gen1e.com/・1回目）
+  - 「Read Forbes Japan Article」（https://www.gen1e.com/・1回目）
+  - 「2018年に当社を設立してから、日本を含め世界中を対象に、有効な技術を探しました」（https://techblitz.com/startup-interview/geni1e-lifesciences/・3回目）
+  - 「日本や中国も米国と同じ状況ですし、インドではよりひどい状況にあります」（https://techblitz.com/startup-interview/geni1e-lifesciences/・3回目）
+  - 「―日本の企業とのパートナーシップもお考えですか」（https://techblitz.com/startup-interview/geni1e-lifesciences/・3回目）
+  - 「私自身、過去に日本の製薬会社と共同研究したことがありますし、当社としても日本企業との共同研究またはパートナーも大歓迎です」（https://techblitz.com/startup-interview/geni1e-lifesciences/・3回目）
+  - 「「電力の変化」をどう読むか 東京ガスも出資する米AmperonのAI予測の仕組み」（https://techblitz.com/startup-interview/geni1e-lifesciences/・3回目）
+  - 「「電力の変化」をどう読むか 東京ガスも出資する米AmperonのAI予測の仕組みの詳細を見る」（https://techblitz.com/startup-interview/geni1e-lifesciences/・3回目）
+  - 「シリコンバレー発「AI創薬」企業に聞く、地政学リスクとは | Forbes JAPAN 公式サイト（フォーブス ジャパン）」（https://forbesjapan.com/articles/detail/92131・3回目）
+  - 「KKR・大和証券の両トップが語る 日本が「世界有数の成長市場」になる未来」（https://forbesjapan.com/articles/detail/92131・3回目）
+  - 「なぜ今、日本市場に勝機があるのか ローランド・ベルガーが示す日本企業の新たな成長像」（https://forbesjapan.com/articles/detail/92131・3回目）
+  - 「上智大学×タキヒヨーの共創が生んだサステナブルTシャツ――「TOKYOエシカル」がつなぐ新たな可能性」（https://forbesjapan.com/articles/detail/92131・3回目）
+- 規模・親会社：
+  - 「Drug discovery R&D is a complex battle involving science, regulation, clinical practice, capital, and partnerships. What stands out about GEN1E's strength is that its two co-founders, coming from opposite directions, have arrived at the same conclusion.」（https://www.gen1e.com/forbes-japan-article・3回目）
+  - 「AI once symbolized efficiency. What GEN1E presents, however, is AI for conviction. Their reversal of the drug discovery process carries geopolitical risks embedded in supply chains and intellectual property. Yet when the disruptive innovation they envision becomes standard, our concept of "health" may shift from something left to chance to something more personal and more predictable.」（https://www.gen1e.com/forbes-japan-article・3回目）
+- 検索結果の抜粋：
+  - 「「AIはDrug Discoveryだけでなく開発を変える」、米 GEn1E ... — 「AIはDrug Discoveryだけでなく開発を変える」、米 GEn1E ... 日経バイオテクONLINE https://bio.nikkeibp.co.jp > ニュース > 医薬・医療」（https://bio.nikkeibp.co.jp/atcl/news/p1/26/07/28/14834/・3回目）
+  - 「GEn1E Lifesciences — GEn1E Lifesciences GEn1E Lifesciences https://www.gen1e.com」（https://www.gen1e.com/・3回目）
+  - 「Forbes Japan Article - GEn1E Lifesciences — Forbes Japan Article - GEn1E Lifesciences GEn1E Lifesciences https://www.gen1e.com > forbes-japa...」（https://www.gen1e.com/forbes-japan-article・3回目）
+  - 「GEn1E Lifesciences Inc. - LinkedIn — GEn1E Lifesciences Inc. - LinkedIn LinkedIn https://jp.linkedin.com > company > gen1e-lifesciences」（https://jp.linkedin.com/company/gen1e-lifesciences・3回目）
+  - 「GEn1E Lifesciences: AI platform accelerating therapies for ... — GEn1E Lifesciences: AI platform accelerating therapies for ... Y Combinator https://www.ycombinator.com > gen1...」（https://www.ycombinator.com/companies/gen1e-lifesciences・3回目）
+  - 「Gen1E Lifesciences - Crunchbase Company Profile & Funding — Gen1E Lifesciences - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > gen1e...」（https://www.crunchbase.com/organization/gen1e-lifesciences・3回目）
+  - 「GEn1E - 2026 Company Profile, Team, Funding & Competitors — GEn1E - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/gen1e/__jGJ6jGs6EzrZnfRm_I4QqiUJBUwCgn0IWJYoXbMbKL4・3回目）
+  - 「GEn1E Lifesciences 2026 Company Profile - PitchBook — GEn1E Lifesciences 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/265385-71・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）
+- 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）
+- 製造業の実績：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）
 
 ## Georgettepackaging
 - 公式URL：https://www.georgettepackaging.com（given）
@@ -2649,6 +7161,322 @@
 - 製造業の実績：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部26頁・検索12回）
 - 日本の担い手：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部26頁・検索12回）
 
+## GetYourSaaS
+- 公式URL：https://www.getyoursaas.com/（given）
+- 採用・広告の製品：
+  - 「🔥 Limited Launch Pricing — Lock in your rate」（https://www.getyoursaas.com/・1回目）
+  - 「9 enterprise-grade modules. Fully white-labeled. Your brand, your domain, your pricing. Start selling to clients this weekend.」（https://www.getyoursaas.com/・1回目）
+  - 「CRM · AI Calling · AI Receptionist · Booking · Service Pro · Rewards · Training · Lead Scraper · Keyword Research」（https://www.getyoursaas.com/・1回目）
+  - 「Priority Support Included」（https://www.getyoursaas.com/・1回目）
+  - 「Brand the entire platform as your own — your logo, domain, and pricing. Sell it to clients and keep 100% of the revenue. Build a real SaaS business overnight.」（https://www.getyoursaas.com/・1回目）
+  - 「Hiring developers, designers, and DevOps — and hoping they deliver」（https://www.getyoursaas.com/・1回目）
+  - 「Stuck as a middleman reselling someone else's product with their branding」（https://www.getyoursaas.com/・1回目）
+  - 「Get a fully-built, enterprise-grade platform — ready to sell today」（https://www.getyoursaas.com/・1回目）
+  - 「Launch this weekend. Brand it, price it, and start selling Monday.」（https://www.getyoursaas.com/・1回目）
+  - 「Imagine waking up to Stripe notifications. New clients signed up overnight. Your software — with your name on it — solving real problems for real businesses.」（https://www.getyoursaas.com/・1回目）
+  - 「Each module is a standalone product your clients will pay for monthly. Bundle them together or sell individually — your business, your strategy.」（https://www.getyoursaas.com/・1回目）
+  - 「Outbound & inbound AI phone agents that book appointments, qualify leads, and never miss a call.」（https://www.getyoursaas.com/・1回目）
+- 製造業の実績：
+  - 「Home services, healthcare, automotive」（https://www.getyoursaas.com/・1回目）
+- 再販・ホワイトラベル：
+  - 「White-Label SaaS Platform」（https://www.getyoursaas.com/・1回目）
+  - 「9 enterprise-grade modules. Fully white-labeled. Your brand, your domain, your pricing. Start selling to clients this weekend.」（https://www.getyoursaas.com/・1回目）
+  - 「Monthly Reseller Revenue」（https://www.getyoursaas.com/・1回目）
+  - 「Pick the modules that fit your workflow — CRM for sales, Booking for appointments, AI Calling for lead gen. Use them as your own internal tools, no white-labeling needed.」（https://www.getyoursaas.com/・1回目）
+  - 「100% white-labeled — your brand, your domain, your clients, your revenue」（https://www.getyoursaas.com/・1回目）
+  - 「Your logo, colors, domain. Total white-label. They'll never know the difference.」（https://www.getyoursaas.com/・1回目）
+  - 「Agencies, real estate, consultants」（https://www.getyoursaas.com/・1回目）
+  - 「B2B sales, lead gen agencies」（https://www.getyoursaas.com/・1回目）
+  - 「SEO agencies, content marketers」（https://www.getyoursaas.com/・1回目）
+  - 「SEO agencies, marketing firms」（https://www.getyoursaas.com/・1回目）
+  - 「Your Brand. Every Pixel. Every Page.」（https://www.getyoursaas.com/・1回目）
+  - 「"The white-labeling is perfect. We run it on our domain with our branding. Not a single client has asked who built it."」（https://www.getyoursaas.com/・1回目）
+- 規模・親会社：
+  - 「Monthly Reseller Revenue」（https://www.getyoursaas.com/・1回目）
+  - 「Brand the entire platform as your own — your logo, domain, and pricing. Sell it to clients and keep 100% of the revenue. Build a real SaaS business overnight.」（https://www.getyoursaas.com/・1回目）
+  - 「100% white-labeled — your brand, your domain, your clients, your revenue」（https://www.getyoursaas.com/・1回目）
+  - 「Recurring Revenue on Autopilot」（https://www.getyoursaas.com/・1回目）
+  - 「SaaS businesses sell for 3–10x annual revenue. At $10K MRR, that's $360K–$1.2M.」（https://www.getyoursaas.com/・1回目）
+  - 「Visual Kanban pipeline, auto-dialer, AI email campaigns, lead scoring, and revenue forecasting.」（https://www.getyoursaas.com/・1回目）
+  - 「Set your own pricing and keep the margins. Here's what your revenue could look like.」（https://www.getyoursaas.com/・1回目）
+  - 「Onboard clients into their own workspaces. They manage their business, you collect recurring revenue. Every month.」（https://www.getyoursaas.com/・1回目）
+- 連絡先：
+  - 「Visual Kanban pipeline, auto-dialer, AI email campaigns, lead scoring, and revenue forecasting.」（https://www.getyoursaas.com/・1回目）
+  - 「Scrape leads from Google Maps, trade shows, and events — with email and phone enrichment.」（https://www.getyoursaas.com/・1回目）
+  - 「Not just a logo swap. Complete brand control across the entire platform — login screens, dashboards, emails, and client portals.」（https://www.getyoursaas.com/・1回目）
+- 検索結果の抜粋：
+  - 「Platform — Platform getyoursaas.com https://getyoursaas.com」（https://getyoursaas.com/・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）
+
+## Get Carrot
+- 公式URL：https://www.get-carrot.com/（given）
+- 採用・広告の製品：
+  - 「Comprehensive support and access to care for everyone, everywhere」（https://www.get-carrot.com/・1回目）
+  - 「Assisted reproduction (IVF and IUI)」（https://www.get-carrot.com/・1回目）
+  - 「Pregnancy and postpartum」（https://www.get-carrot.com/・1回目）
+  - 「Carrot provides inclusive support regardless of age, race, income, sex, sexual orientation, gender, faith, marital status, or geography」（https://www.get-carrot.com/・1回目）
+  - 「195+ countries, 17,000+ eligible providers, 24/7 expert support. Carrot provides exceptional care across continents and cultures, with language, currency, and payment options to match every member’s need.」（https://www.get-carrot.com/・1回目）
+  - 「Appropriate care leads to better outcomes」（https://www.get-carrot.com/・1回目）
+  - 「Carrot has the highest single embryo transfer (SET) rate of any fertility benefits provider, with a methodology independently validated by Milliman.」（https://www.get-carrot.com/・1回目）
+  - 「The Carrot member IVF live birth rate is 55.4%, approximately 24% higher than the national average.」（https://www.get-carrot.com/・1回目）
+  - 「Read the case study to see how Carrot delivered these impressive outcomes while improving family-building care and outcomes for employees.」（https://www.get-carrot.com/・1回目）
+  - 「Carrot boosts employee satisfaction and retention」（https://www.get-carrot.com/・1回目）
+  - 「employees return to work after utilizing Carrot's pregnancy support」（https://www.get-carrot.com/・1回目）
+  - 「Provide personalized, expertly-guided care to your global workforce」（https://www.get-carrot.com/・1回目）
+- 製造業の実績：
+  - 「Read the case study to see how Carrot delivered these impressive outcomes while improving family-building care and outcomes for employees.」（https://www.get-carrot.com/・1回目）
+  - 「We're a global team of doctors, operators, designers, and engineers with a singular purpose: providing access to fertility care for all.」（https://www.get-carrot.com/company・1回目）
+  - 「A Carrot Fertility case study with Accolade, a personalized healthcare platform for employers.」（https://www.get-carrot.com/case-studies・1回目）
+  - 「A Carrot Fertility case study with Criteo, a global commerce media company.」（https://www.get-carrot.com/case-studies・1回目）
+  - 「A Carrot Fertility case study with Modern Health, a personalized, evidence-based workplace mental health platform.」（https://www.get-carrot.com/case-studies・1回目）
+  - 「SiriusXM Case Study | Carrot」（https://www.get-carrot.com/case-studies/siriusxm・1回目）
+  - 「Even within an IVF journey, there are innovative approaches that lower potential risks associated with it. Examples include single-embryo transfer (SET) and PGT-A testing: the implanting of one tested embryo, instead of multiple, during IVF.」（https://www.get-carrot.com/case-studies/siriusxm・1回目）
+  - 「Download the SiriusXM case study」（https://www.get-carrot.com/case-studies/siriusxm・1回目）
+  - 「Download the case study to see how Carrot delivered these impressive outcomes — and more — to SiriusXM employees and the organization’s bottom line.」（https://www.get-carrot.com/case-studies/siriusxm・1回目）
+  - 「Elastic Case Study | Carrot」（https://www.get-carrot.com/case-studies/elastic・1回目）
+- 再販・ホワイトラベル：
+  - 「Carrot's offerings exceeded Elastic's expectations with support in 170+ countries and a network of thousands of well-vetted clinics, agencies, and attorneys that provide localized expertise. Sutton felt confident Carrot could support the company’s employees regardless of where they were.」（https://www.get-carrot.com/case-studies/elastic・1回目）
+  - 「Carrot for Local Marketing Agencies」（https://carrot.com/industries/agencies/・3回目）
+  - 「It’s a streamlined platform that’s easy and fast to use, whether you have a team or are a solo agency. We intentionally designed it for small agencies and built tools that make your life easier.」（https://carrot.com/industries/agencies/・3回目）
+  - 「Existing Marketing Agencies」（https://carrot.com/industries/agencies/・3回目）
+  - 「CarrotAgency is designed for small, local marketing agencies, so we work hard to keep the price reasonable. The base price is $299/mo.」（https://carrot.com/industries/agencies/・3回目）
+  - 「Can I white-label CarrotAgency?」（https://carrot.com/industries/agencies/・3回目）
+  - 「A white-labeled version of CarrotAgency is not currently available, but it’s coming soon!」（https://carrot.com/industries/agencies/・3回目）
+- 日本の担い手：
+  - 「現在、このコンテンツを日本語でご利用いただけるよう準備を進めております」（https://www.get-carrot.com/ja-jp・1回目）
+  - 「To cut into irregular chunks, simply rotate the ingredient 90 degrees as you cut. This technique is frequently used in Japanese cooking because it helps keep the pieces uniform in size.」（https://note.com/travelingfoodlab/n/n29102c55b6d7?hl=en・3回目）
+- 規模・親会社：
+  - 「Carrot | Global fertility benefits for employers」（https://www.get-carrot.com/・1回目）
+  - 「Millions of members around the world trust Carrot for lifelong access to fertility care and family-building support.」（https://www.get-carrot.com/・1回目）
+  - 「Every fertility and family-building journey is unique. Carrot members receive customized plans based on their individual needs from localized experts, allowing them to experience personalized and culturally competent care.」（https://www.get-carrot.com/・1回目）
+  - 「Carrot provides inclusive support regardless of age, race, income, sex, sexual orientation, gender, faith, marital status, or geography」（https://www.get-carrot.com/・1回目）
+  - 「195+ countries, 17,000+ eligible providers, 24/7 expert support. Carrot provides exceptional care across continents and cultures, with language, currency, and payment options to match every member’s need.」（https://www.get-carrot.com/・1回目）
+  - 「Carrot helps members explore alternatives to IVF like ovulation tracking and nutrition counseling, with 60% of Carrot members opting for less invasive and costly options over IVF.」（https://www.get-carrot.com/・1回目）
+  - 「89% of Carrot members intend to transfer a single embryo instead of multiple embryos after engaging with Carrot, reducing risks of labor complications and NICU admissions.」（https://www.get-carrot.com/・1回目）
+  - 「Carrot has the highest single embryo transfer (SET) rate of any fertility benefits provider, with a methodology independently validated by Milliman.」（https://www.get-carrot.com/・1回目）
+  - 「The Carrot member IVF live birth rate is 55.4%, approximately 24% higher than the national average.」（https://www.get-carrot.com/・1回目）
+  - 「Learn how Carrot saved SiriusXM $2.15M」（https://www.get-carrot.com/・1回目）
+  - 「Read the case study to see how Carrot delivered these impressive outcomes while improving family-building care and outcomes for employees.」（https://www.get-carrot.com/・1回目）
+  - 「Carrot boosts employee satisfaction and retention」（https://www.get-carrot.com/・1回目）
+- 連絡先：
+  - 「Please note that all communication regarding job opportunities at Carrot will come exclusively from an @get-carrot.com email address. If you receive messages from any other domain, please disregard them and report the incident to:」（https://www.get-carrot.com/company/careers/open-roles・1回目）
+  - 「Your first issue arrives via e-mail at the end of the month.」（https://www.get-carrot.com/company/careers/open-roles・1回目）
+  - 「“We’ve been pleased from a cost and usage perspective,” she said. “The utilization is something we feel really good about.” Sutton thinks their communication plan can explain much of their high usage. “We wanted to ensure everyone knew about the benefit,” she added. “We went country by country and let people know about it through Slack and emails.”」（https://www.get-carrot.com/case-studies/elastic・1回目）
+- 創業年度：記載なし（3回確認済み：公式8頁／PDF・画像3件／外部22頁・検索12回）
+- 株主：記載なし（3回確認済み：公式8頁／PDF・画像3件／外部22頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式8頁／PDF・画像3件／外部22頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式8頁／PDF・画像3件／外部22頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式8頁／PDF・画像3件／外部22頁・検索12回）
+- 料金：記載なし（3回確認済み：公式8頁／PDF・画像3件／外部22頁・検索12回）
+
+## Getaccept
+- 公式URL：https://www.getaccept.com（given）
+- 株主：$28.9M（https://getlatka.com/companies/getaccept.com・3回目）
+- 採用・広告の製品：
+  - 「GetAccept | Digital Sales Rooms & Proposal Software」（https://www.getaccept.com/・1回目）
+  - 「Your browser does not support the video tag.」（https://www.getaccept.com/・1回目）
+  - 「“Since I started using GetAccept, my sales process and communication with my prospects are way more project and solution-oriented. They know where to find the content they need, and I can focus on providing solutions.”」（https://www.getaccept.com/・1回目）
+  - 「Senior Vice President of Sales」（https://www.getaccept.com/・1回目）
+  - 「“This is a way for you to control the narrative. To make sure your reps are sticking to the process, adopting the principles you’ve set, and helping your customers to experience value instead of just product pitching.”」（https://www.getaccept.com/・1回目）
+  - 「“We can honestly say that GetAccept is one of the best products in our revenue tech stack.”」（https://www.getaccept.com/・1回目）
+  - 「“GetAccept helps our salespeople know when to contact their clients, and whom. With better insights, the tool helps us prioritize our time and close more deals!”」（https://www.getaccept.com/・1回目）
+  - 「Stop wasting hours looking for the content buyers actually need.」（https://www.getaccept.com/・1回目）
+  - 「“Really intuitive and easy to use. The AI features save a huge amount of time, and the content it produces looks polished and professional. Being able to build a business case with the AI tools alone has saved me hours of work.”」（https://www.getaccept.com/・1回目）
+  - 「“GetAccept is constantly evolving and enabling different kind of features, such as bringing in meeting transcripts and using AI to tailor content specifically for customers or prospects”」（https://www.getaccept.com/・1回目）
+  - 「Generate instant recaps with clear next steps you can share with buyers in seconds. No more missed follow-ups or stalled deals – just smoother conversations and faster progress.」（https://www.getaccept.com/・1回目）
+  - 「Turn simple prompts into content your buyers care about」（https://www.getaccept.com/・1回目）
+- 製造業の実績：
+  - 「Trusted by 5,000+ leading revenue teams」（https://www.getaccept.com/・1回目）
+  - 「Smartpricing | Customer Case Study」（https://www.getaccept.com/customers/smartpricing・1回目）
+  - 「Globally recognized and trusted by over 5,000 customers, GetAccept is built on the power of strong partnerships. Join us as a trusted partner to empower your customers, drive growth, and create lasting success together!」（https://www.getaccept.com/partners・1回目）
+  - 「Trusted by 5,000+ leading revenue teams」（https://www.getaccept.com/pricing・1回目）
+  - 「SocialTalent | Customer Case Study」（https://www.getaccept.com/customers/socialtalent・1回目）
+  - 「To maintain a lean yet effective tech stack, SocialTalent needs a tool that can be used by more than one team with a faster payback. After a successful onboarding with SocialTalent’s sales team, they decided to expand the use of the」（https://www.getaccept.com/customers/socialtalent・1回目）
+  - 「Goodlord | Customer Case Study」（https://www.getaccept.com/customers/goodlord・1回目）
+  - 「Currently, Goodlord uses GetAccept and its Salesforce integration to cover the entire journey, from generating contracts and sharing them with buyers to tracking engagement and e-signing. It's not just sales that benefit from the integration. GetAccept is also used by other teams at Goodlord and Vouch, a Goodlord company.」（https://www.getaccept.com/customers/goodlord・1回目）
+  - 「Lower contract error rates and eliminate delays caused by incorrect templates.」（https://www.getaccept.com/customers/goodlord・1回目）
+  - 「CEO and Founder of Weblify | Customer Case Study | GetAccept」（https://www.getaccept.com/customers/weblify・1回目）
+- 再販・ホワイトラベル：
+  - 「GetAccept partner programs」（https://www.getaccept.com/partners・1回目）
+  - 「Boost your brand by partnering with the leading Digital Sales Room platform. Collaborate on webinars, podcasts, and guest blogging to showcase innovation, engage customers, and drive success.」（https://www.getaccept.com/partners・1回目）
+  - 「Goodlord is a tenancy management software supporting thousands of letting agencies across the UK. It integrates with agencies' CRM to help agents manage the entire tenancy process in one place, from sending the offer letter through to rent collection.」（https://www.getaccept.com/customers/goodlord・1回目）
+- 日本の担い手：
+  - 「インターフェース自体は現在英語のみだが、共有するコンテンツについては日本語を含むあらゆる言語に対応」（https://techblitz.com/startup-interview/getaccept/・3回目）
+  - 「日本語のPDFをアップロードすれば、そのまま日本語で表示される」（https://techblitz.com/startup-interview/getaccept/・3回目）
+  - 「また、我々の組み込みエディタも日本語文字を扱うことができます」」（https://techblitz.com/startup-interview/getaccept/・3回目）
+  - 「アジア地域については、「タイや日本など一部の顧客はいますが、まだ主要市場ではありません」と説明する」（https://techblitz.com/startup-interview/getaccept/・3回目）
+  - 「日本企業とのパートナーシップの可能性について質問すると、Smajic氏はCRMコンサルタントとの連携が有効だと答えた」（https://techblitz.com/startup-interview/getaccept/・3回目）
+  - 「将来的な日本のパートナーやクライアントへのメッセージを求めると、Smajic氏は次のようにコメントした」（https://techblitz.com/startup-interview/getaccept/・3回目）
+  - 「「電力の変化」をどう読むか 東京ガスも出資する米AmperonのAI予測の仕組み」（https://techblitz.com/startup-interview/getaccept/・3回目）
+  - 「「電力の変化」をどう読むか 東京ガスも出資する米AmperonのAI予測の仕組みの詳細を見る」（https://techblitz.com/startup-interview/getaccept/・3回目）
+- 規模・親会社：
+  - 「Trusted by 5,000+ leading revenue teams」（https://www.getaccept.com/・1回目）
+  - 「“This is a way for you to control the narrative. To make sure your reps are sticking to the process, adopting the principles you’ve set, and helping your customers to experience value instead of just product pitching.”」（https://www.getaccept.com/・1回目）
+  - 「Revenue Operations Manager」（https://www.getaccept.com/・1回目）
+  - 「“We can honestly say that GetAccept is one of the best products in our revenue tech stack.”」（https://www.getaccept.com/・1回目）
+  - 「AI that understands your buyers' needs. Turn every interaction into a winning narrative that moves deals forward with confidence.」（https://www.getaccept.com/・1回目）
+  - 「“We’ve managed to save over 10 hours of admin work per week thanks to the GetAccept Automation between HubSpot and Chargebee. It creates recurring revenue we enjoy continuously.”」（https://www.getaccept.com/・1回目）
+  - 「Quarter-over-quarter revenue growth」（https://www.getaccept.com/・1回目）
+  - 「Stop the BS: What top revenue leaders are doing differently in 2025」（https://www.getaccept.com/・1回目）
+  - 「"This is a way for you to control the narrative. To make sure your reps are sticking to the process, adopting the principles you’ve set, and helping your customers to experience value instead of just product pitching."」（https://www.getaccept.com/・1回目）
+  - 「is a fast-growing revenue management system for the hotel industry. By monitoring and analyzing the mass data, they suggest the best price to their clients to help maximize profits.」（https://www.getaccept.com/customers/smartpricing・1回目）
+  - 「“This is a way for you to control the narrative. To make sure your reps are sticking to the process, adopting the principles you’ve set, and helping your customers to experience value instead of just product pitching.”」（https://www.getaccept.com/customers/smartpricing・1回目）
+  - 「Quarter-over-quarter revenue growth」（https://www.getaccept.com/customers/smartpricing・1回目）
+- 連絡先：
+  - 「Stop letting great meetings fade into email chaos.」（https://www.getaccept.com/・1回目）
+  - 「For Carolina, the chat feels ‘native’ compared to email, calls, or LinkedIn messages. It makes it easier for buyers to reach out and creates a more conversational experience.」（https://www.getaccept.com/customers/dealfront・1回目）
+  - 「“We can talk to the entire buying committee in one place now. My team averages 355 messages inside a deal room while they drive a deal. On email and LinkedIn, we were nowhere near that. Information moves fast; they engage the committee with video, and the view of the deal is always up to date - for the buyer, for the team, and for me.”」（https://www.getaccept.com/customers・1回目）
+  - 「While internal efficiency was important, the bigger impact came on the client side. Emails with multiple attachments felt disjointed and didn’t reflect the quality of ScaleWise’s services.」（https://www.getaccept.com/customers/scalewise・1回目）
+  - 「“Most people don’t want to be opening up an email, then a PDF of terms, and then another PDF about why ScaleWise is so brilliant.”」（https://www.getaccept.com/customers/scalewise・1回目）
+  - 「Proposals sit alongside meeting summaries, case studies and optional video introductions – all in one place. Updates can be added instantly without resending emails, and clients can ask questions directly in the room.」（https://www.getaccept.com/customers/scalewise・1回目）
+  - 「Before GetAccept, the ScaleWise team had little visibility into what happened after a proposal was sent. There was no way to know if a decision-maker had opened it, which sections drew attention, or if it was being shared with other stakeholders. Follow-up relied on long, text-heavy emails that often went unread.」（https://www.getaccept.com/customers/scalewise・1回目）
+  - 「Real-time notifications keep ScaleWise proactive. Gavin can send a short, timely message right when the client is engaged, and prospects can respond directly through GetAccept’s chat. That creates a transparent two-way conversation instead of an email trail.」（https://www.getaccept.com/customers/scalewise・1回目）
+  - 「Engagement features and buyer insights were also missing. After an email was sent, the sales team found it difficult to track down potential hidden stakeholders, how they interact with the document, and forecast the next steps. They also desired more engagement features to add a personal touch to a digital document.」（https://www.getaccept.com/customers/socialtalent・1回目）
+  - 「Dedicated Email Servers」（https://help.close.com/integrations/communication/getaccept・3回目）
+  - 「Connect your Email and Calendar」（https://help.close.com/integrations/communication/getaccept・3回目）
+  - 「Set up outbound email without inbound email tracking」（https://help.close.com/integrations/communication/getaccept・3回目）
+- 検索結果の抜粋：
+  - 「GetAccept | Digital Sales Rooms & Proposal Software — GetAccept | Digital Sales Rooms & Proposal Software GetAccept https://www.getaccept.com」（https://www.getaccept.com/・3回目）
+  - 「提案も契約もリモートでスマートに スウェーデン発の ... — 提案も契約もリモートでスマートに スウェーデン発の ... TECHBLITZ https://techblitz.com > startup-interview > getaccept」（https://techblitz.com/startup-interview/getaccept/・3回目）
+  - 「GetAccept - LinkedIn — GetAccept - LinkedIn LinkedIn https://www.linkedin.com > getaccept」（https://www.linkedin.com/company/getaccept・3回目）
+  - 「GetAccept – The #1 AI Digital Sales Room for Salesforce — GetAccept – The #1 AI Digital Sales Room for Salesforce Salesforce AppExchange https://appexchange.salesforce.com > ...」（https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000E1Z2sUAF・3回目）
+  - 「GetAccept | Close Help Center — GetAccept | Close Help Center Close CRM https://help.close.com > getaccept」（https://help.close.com/integrations/communication/getaccept・3回目）
+  - 「GetAccept Reviews & Ratings 2026 | Gartner Peer Insights — GetAccept Reviews & Ratings 2026 | Gartner Peer Insights Gartner https://www.gartner.com > getaccept」（https://www.gartner.com/reviews/product/getaccept・3回目）
+  - 「Customer Stories & Testimonials - GetAccept — Customer Stories & Testimonials - GetAccept GetAccept https://www.getaccept.com > customers」（https://www.getaccept.com/customers・3回目）
+  - 「Our partners - GetAccept — Our partners - GetAccept GetAccept https://www.getaccept.com > partners」（https://www.getaccept.com/partners・3回目）
+  - 「GetAccept , named as world's fourth fastest-growing SaaS ... — GetAccept , named as world's fourth fastest-growing SaaS ... GetAccept https://www.getaccept.com > blog > g...」（https://www.getaccept.com/blog/getaccept-named-worlds-fourth-fastest-growing-saas-company・3回目）
+  - 「GetAccept Revenue 2025: $17.8M Est., $28.9M Raised — GetAccept Revenue 2025: $17.8M Est., $28.9M Raised GetLatka https://getlatka.com > getaccept」（https://getlatka.com/companies/getaccept.com・3回目）
+  - 「GetAccept - Crunchbase Company Profile & Funding — GetAccept - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > getacc...」（https://www.crunchbase.com/organization/getaccept・3回目）
+  - 「GetAccept - Valuation, Funding & Investors - PitchBook — GetAccept - Valuation, Funding & Investors - PitchBook PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/155951-65・3回目）
+- 創業年度：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部25頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部25頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部25頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部25頁・検索12回）
+- 料金：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部25頁・検索12回）
+
+## Getcargo
+- 公式URL：https://www.getcargo.io（given）
+- 採用・広告の製品：
+  - 「Give your coding agent the primitives to build your go-to-market. Cargo runs it.」（https://www.getcargo.ai/・1回目）
+  - 「One platform and one bill, data providers included」（https://www.getcargo.ai/・1回目）
+  - 「Data models, context, tools, agents and plays, each already built to run in production. Your agent puts them together for your GTM, and your reps use the same ones in the app.」（https://www.getcargo.ai/・1回目）
+  - 「Your raw data: CRM, warehouse, product usage and enrichment merged into one set of companies, contacts and deals.」（https://www.getcargo.ai/・1回目）
+  - 「What you learn from that data, written down as files in your repo: your ICP, personas, objections and rules. Every agent reads the same files.」（https://www.getcargo.ai/・1回目）
+  - 「Who sells where, defined once: reps synced from your CRM, grouped into territories, each with a cap. Every play and agent that assigns a lead reads them.」（https://www.getcargo.ai/・1回目）
+  - 「Built into every primitive: each run of a play, agent or tool is traced step by step, with what it returned and what it cost. Alerts tell you when something fails.」（https://www.getcargo.ai/・1回目）
+  - 「How it ships and stays working. Your agent writes the primitives as code in a repo you own, you review the pull request, and merging deploys it.」（https://www.getcargo.ai/・1回目）
+  - 「cargo-ai project plan」（https://www.getcargo.ai/・1回目）
+  - 「posted on PR #42」（https://www.getcargo.ai/・1回目）
+  - 「cargo-ai project deploy」（https://www.getcargo.ai/・1回目）
+  - 「4. Agents improve it」（https://www.getcargo.ai/・1回目）
+- 製造業の実績：
+  - 「Trusted by GTM teams at」（https://www.getcargo.ai/・1回目）
+  - 「Your raw data: CRM, warehouse, product usage and enrichment merged into one set of companies, contacts and deals.」（https://www.getcargo.ai/・1回目）
+  - 「Your warehouse or product database」（https://www.getcargo.ai/・1回目）
+  - 「Your tools stay: your CRM, your warehouse and your sequencer. What you stop building and maintaining is everything between them: the scripts and glue, scheduling, retries and rate limits, matching records to accounts, connector logins, and tracing a run that went wrong. Cargo is the infrastructure those workflows run on.」（https://www.getcargo.ai/・1回目）
+- 規模・親会社：
+  - 「For GTM engineers, RevOps and revenue teams. Cargo reads from your tools and writes the results back where your team works.」（https://www.getcargo.ai/・1回目）
+  - 「For revenue leaders and teams that want it built and run for them」（https://www.getcargo.ai/・1回目）
+  - 「Cargo Revenue 2024: $5M Est.」（https://getlatka.com/companies/getcargo.io・3回目）
+  - 「Revenue Operations & Intelligence (RO&I) Software」（https://getlatka.com/companies/getcargo.io・3回目）
+  - 「Cargo is a Revenue Operations & Intelligence (RO&I) Software company based in San Francisco, founded in 2022.」（https://getlatka.com/companies/getcargo.io・3回目）
+  - 「Cargo has not published its revenue. GetLatka estimates it at about $5M a year (June 2024).」（https://getlatka.com/companies/getcargo.io・3回目）
+  - 「Cargo CEO, founders & employees」（https://getlatka.com/companies/getcargo.io・3回目）
+  - 「Aurelien Aubert founded Cargo in 2022 and runs it as CEO. Cargo had 5–33 employees (June 2024, LinkedIn).」（https://getlatka.com/companies/getcargo.io・3回目）
+  - 「What is Cargo's revenue?」（https://getlatka.com/companies/getcargo.io・3回目）
+  - 「GetLatka estimates Cargo's revenue at about」（https://getlatka.com/companies/getcargo.io・3回目）
+  - 「How many employees does Cargo have?」（https://getlatka.com/companies/getcargo.io・3回目）
+  - 「Browse Revenue Operations & Intelligence (RO&I) Software」（https://getlatka.com/companies/getcargo.io・3回目）
+- 連絡先：
+  - 「Cargo is where your GTM workflows run: the ones that enrich, score, route and email your leads and accounts. Your coding agent (Claude Code, Cursor or Codex) writes them in TypeScript with the Cargo CDK and CLI, in a git repository you own. Cargo runs them in production and logs every step of every run.」（https://www.getcargo.ai/・1回目）
+  - 「Contact Us | Get Cargo inc.」（https://www.getcargo.com/node/5・3回目）
+  - 「Contact us over phone or email」（https://www.getcargo.com/node/5・3回目）
+  - 「Automates personalized outreach across email, SMS, and task creation. Cargo claims a "human touch," but this is AI-generated copy. It handles volume, not nuance. Not a replacement for a skilled SDR. And it is not a sequence builder — you configure it through the agent workflow.」（https://syncgtm.com/blog/getcargo-review・3回目）
+  - 「(trigger outreach via email, SMS, or task assignment).」（https://syncgtm.com/blog/getcargo-review・3回目）
+  - 「1,500 credits per month. Email support. All integrations, AI agents, and workflows included.」（https://syncgtm.com/blog/getcargo-review・3回目）
+  - 「2,500 credits per month. Email support.」（https://syncgtm.com/blog/getcargo-review・3回目）
+- 検索結果の抜粋：
+  - 「Contact Us | Get Cargo inc. — Contact Us | Get Cargo inc. Get Cargo inc. | https://www.getcargo.com > node」（https://www.getcargo.com/node/5・3回目）
+  - 「GetCargo - App Store - Apple — GetCargo - App Store - Apple Apple https://apps.apple.com > app > getcargo」（https://apps.apple.com/in/app/getcargo/id6467880183・3回目）
+  - 「Customer Stories | Cargo — Customer Stories | Cargo getcargo.ai https://www.getcargo.ai > stories」（https://www.getcargo.ai/stories・3回目）
+  - 「Cargo Partner Program | Deliver GTM outcomes faster — Cargo Partner Program | Deliver GTM outcomes faster getcargo.ai https://www.getcargo.ai > partner-pro...」（https://www.getcargo.ai/partner-program・3回目）
+  - 「Cargo Revenue 2024: $5M Est. - GetLatka — Cargo Revenue 2024: $5M Est. - GetLatka GetLatka https://getlatka.com > getcargo」（https://getlatka.com/companies/getcargo.io・3回目）
+  - 「GetCargo .ai Review 2026: Pricing, Features & Honest Verdict — GetCargo .ai Review 2026: Pricing, Features & Honest Verdict SyncGTM https://syncgtm.com > Blog」（https://syncgtm.com/blog/getcargo-review・3回目）
+  - 「Cargo: Go-to-Market Infrastructure for Coding Agents — Cargo: Go-to-Market Infrastructure for Coding Agents getcargo.ai https://www.getcargo.ai」（https://www.getcargo.ai/・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像4件／外部28頁・検索12回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像4件／外部28頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像4件／外部28頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像4件／外部28頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像4件／外部28頁・検索12回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像4件／外部28頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像4件／外部28頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像4件／外部28頁・検索12回）
+
+## Getjust
+- 公式URL：https://getjust.ai（given）
+- 採用・広告の製品：
+  - 「NEW · Full Stack Marketing Platform」（https://www.getjust.ai/・1回目）
+  - 「for lifecycle marketing」（https://www.getjust.ai/・1回目）
+  - 「Trusted by AI-forward enterprises」（https://www.getjust.ai/・1回目）
+  - 「The traditional process」（https://www.getjust.ai/・1回目）
+  - 「Director of Retention & Lifecycle, ClickUp」（https://www.getjust.ai/・1回目）
+  - 「Growth Product Manager, BeReal」（https://www.getjust.ai/・1回目）
+  - 「Sr Lifecycle Marketing, Namecheap」（https://www.getjust.ai/・1回目）
+  - 「JustAI transformed how we approach copy personalization. Their collaboration helped us deliver targeted messaging, freeing our teams to focus on strategy instead of testing copy variations at scale.」（https://www.getjust.ai/・1回目）
+  - 「JustAI enabled our editorial team to own the process and test 10x more copy variations in just a few of months than we previously managed in a six-month period.」（https://www.getjust.ai/・1回目）
+  - 「The present is autonomous.」（https://www.getjust.ai/・1回目）
+  - 「Enterprise | JustAI Campaign」（https://www.getjust.ai/・1回目）
+  - 「End-to-end marketing, powered by AI」（https://www.getjust.ai/・1回目）
+- 製造業の実績：
+  - 「Trusted by AI-forward enterprises」（https://www.getjust.ai/・1回目）
+  - 「Trusted by industry leaders」（https://www.getjust.ai/・1回目）
+  - 「experience: Go from locked rate to Commitment Letter in a single day, and the piece this case study slows down for: what order the emails arrive in. On three of the seven sends, JustAI is also testing the messaging itself, so the ordering sits on top of content that's improving in its own right.」（https://www.getjust.ai/blog/better-mortgage-case-study・1回目）
+- 規模・親会社：
+  - 「Better Mortgage had two places where it was running old workflows, and both sat on top of revenue.」（https://www.getjust.ai/blog/better-mortgage-case-study・1回目）
+  - 「experience: Go from locked rate to Commitment Letter in a single day, and the piece this case study slows down for: what order the emails arrive in. On three of the seven sends, JustAI is also testing the messaging itself, so the ordering sits on top of content that's improving in its own right.」（https://www.getjust.ai/blog/better-mortgage-case-study・1回目）
+  - 「Seven emails can be arranged in more than five thousand different orders.」（https://www.getjust.ai/blog/better-mortgage-case-study・1回目）
+  - 「, backed by a $17M Series A. Own revenue from first conversation to signed contract, working directly with the CEO — with founder air cover on every deal.」（https://www.getjust.ai/careers・1回目）
+  - 「If you read this far, some part of you already knows. Don't see your role? Convince us we need one.」（https://www.getjust.ai/careers・1回目）
+  - 「"In a context of rising acquisition costs, we chose to invest in high-impact bottom-funnel solutions — Getjust is one of them and helped us increase conversion by 9%."」（https://getjust.eu/en/insights・3回目）
+  - 「"Thanks to Getjust, we generated +11% revenue over 2M sessions during the A/B test. Result: a net 6.5x ROI."」（https://getjust.eu/en/insights・3回目）
+  - 「"We were losing too many customers at checkout, and with a very high AOV, each abandonment meant real lost revenue. By integrating Getjust, we removed those frictions."」（https://getjust.eu/en/insights・3回目）
+  - 「Developer of a payments and checkout platform designed to boost direct revenue and improve the shopping experience.」（https://pitchbook.com/profiles/company/493894-99・3回目）
+  - 「Developer of a payments and checkout platform designed to boost direct revenue and improve the shopping experience. The company's platform offers one-click purchases, a dynamic payment wallet, and a promo finder, while also ensuring secure and compliant transactions, enabling e-commerce brands to increase sales and provide a seamless process.」（https://pitchbook.com/profiles/company/493894-99・3回目）
+  - 「See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.」（https://pitchbook.com/profiles/company/493894-99・3回目）
+  - 「Developer of a payments and checkout platform designed to boost direct revenue and improve the shopping experience. The」（https://pitchbook.com/profiles/company/493894-99・3回目）
+- 連絡先：
+  - 「Email 2」（https://www.getjust.ai/・1回目）
+  - 「3 emails」（https://www.getjust.ai/・1回目）
+  - 「Better Mortgage Turned an Old Email Flow into 30% More Loan Applications with JustAI」（https://www.getjust.ai/・1回目）
+  - 「Better Mortgage Turned an Old Email Flow into 30% More Loan Applications Started with JustAI」（https://www.getjust.ai/blog/better-mortgage-case-study・1回目）
+  - 「Emails matched to each homebuyer's timeline and intent run end to end by JustAI」（https://www.getjust.ai/blog/better-mortgage-case-study・1回目）
+  - 「experience: Go from locked rate to Commitment Letter in a single day, and the piece this case study slows down for: what order the emails arrive in. On three of the seven sends, JustAI is also testing the messaging itself, so the ordering sits on top of content that's improving in its own right.」（https://www.getjust.ai/blog/better-mortgage-case-study・1回目）
+  - 「Seven emails can be arranged in more than five thousand different orders.」（https://www.getjust.ai/blog/better-mortgage-case-study・1回目）
+  - 「The email that lands right after approval. It asks for nothing, and it outperforms everything else in the flow.」（https://www.getjust.ai/blog/better-mortgage-case-study・1回目）
+  - 「Here the change was the content itself, served through JustAI: nine emails over 21 days in place of eight over 28, each one personalized to where the homebuyer is in their transaction and how they've engaged. The personalization was built on the signals that actually predict movement in this journey.」（https://www.getjust.ai/blog/better-mortgage-case-study・1回目）
+  - 「If your flows still send everyone the same emails in the same order, that's the part we'd like to look at with you. Send us one journey you've stopped questioning and we'll show you what it would look like run this way.」（https://www.getjust.ai/blog/better-mortgage-case-study・1回目）
+  - 「Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.」（https://pitchbook.com/profiles/company/493894-99・3回目）
+  - 「I was shocked by an email I received from Starbucks Coffee.」（https://note.com/bookmark0715/n/nbb53b6b523ed?hl=en・3回目）
+- 検索結果の抜粋：
+  - 「GETJUST - LinkedIn — GETJUST - LinkedIn LinkedIn https://www.linkedin.com > getjust」（https://www.linkedin.com/company/getjust/・3回目）
+  - 「Insights - Getjust — The intelligent checkout for the internet — Insights - Getjust — The intelligent checkout for the internet Getjust https://getjust.eu > insights」（https://getjust.eu/en/insights・3回目）
+  - 「Read our latest updates - JustAI — Read our latest updates - JustAI getjust.ai https://www.getjust.ai > blog」（https://www.getjust.ai/blog・3回目）
+  - 「GetJust 2026 Company Profile: Valuation, Funding & Investors — GetJust 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/493894-99・3回目）
+- 創業年度：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部37頁・検索12回）
+- 株主：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部37頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部37頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部37頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部37頁・検索12回）
+- 料金：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部37頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部37頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部37頁・検索12回）
+
 ## Getkuna
 - 公式URL：https://getkuna.com/（given）
 - 株主：08-Oct-2015    Completed Generating Revenue（https://pitchbook.com/profiles/company/63874-81・3回目）
@@ -2693,6 +7521,652 @@
 - 料金：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索12回）
 - 再販・ホワイトラベル：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索12回）
 - 日本の担い手：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索12回）
+
+## Getshogun
+- 公式URL：https://getshogun.com（given）
+- 株主：$114.6M（https://getlatka.com/companies/shogun#competitors・3回目）
+- 採用・広告の製品：
+  - 「Create tailored storefront content for specific audience segments, so your team can deliver more relevant campaigns, offers, and experiences.」（https://getshogun.com/・1回目）
+  - 「“You can work on creating better and better ads or you can increase your conversion rate from one to two percent and now your acquisition costs are cut in half.”」（https://getshogun.com/・1回目）
+  - 「“In-store, you shop by section, by brand or by fragrance, not by individual product. Shogun allowed us to do that quickly and in-house.”」（https://getshogun.com/・1回目）
+  - 「James Wilson, Growth Marketing Manager, Beardbrand」（https://getshogun.com/・1回目）
+  - 「“This past year, we’ve launched more products than ever. We wouldn't have been able to do that without a SaaS product like Shogun.”」（https://getshogun.com/・1回目）
+  - 「Test and improve every experience your traffic touches.」（https://getshogun.com/・1回目）
+  - 「Run A/B tests across pages, layouts, products, and prices」（https://getshogun.com/・1回目）
+  - 「Continuously improve conversion rates with real data」（https://getshogun.com/・1回目）
+  - 「Target content by audience, behavior, or campaign」（https://getshogun.com/・1回目）
+  - 「Join our agency program | Shogun Partners」（https://getshogun.com/agency-partners・1回目）
+  - 「Join our agency partner program」（https://getshogun.com/agency-partners・1回目）
+  - 「Get fast-tracked support making sure any issues or concerns are addressed promptly minimizing any potential downtime and making sure your clients stores are always running smoothly.」（https://getshogun.com/agency-partners・1回目）
+- 製造業の実績：
+  - 「Mike advises other operators working with lean teams and striving for efficient excellence is to create a set process and leverage the tools to make that process run smoothly.」（https://getshogun.com/case-studies/ridge・1回目）
+  - 「As the COVID-19 pandemic slowed the world down, Shant worked relentlessly to bring his vision to life. He found a factory partner, built a prototype, created marketing materials, and launched on Shopify.」（https://getshogun.com/case-studies/sunny-16・1回目）
+- 再販・ホワイトラベル：
+  - 「Join our agency partner program」（https://getshogun.com/agency-partners・1回目）
+  - 「JOIN OUR NETWORK OF AGENCY PARTNERS:」（https://getshogun.com/agency-partners・1回目）
+  - 「Why agencies team up with Shogun」（https://getshogun.com/agency-partners・1回目）
+  - 「What is Shogun's Agency Partner Program?」（https://getshogun.com/agency-partners・1回目）
+  - 「Become an agency partner today」（https://getshogun.com/agency-partners・1回目）
+  - 「Agency Partners | Shogun」（https://getshogun.com/partners・1回目）
+  - 「Use Shogun to bring your brand to life on your storefront.」（https://getshogun.com/solutions/designers・1回目）
+  - 「Shogun’s all about enabling you to craft exceptional ecommerce experiences. We supply the software for this—and a whole library of pre-built templates and designs that are easy to customize—but if you’d like extra help creating or designing your pages, check out our agency partners. They specialize in ecommerce store design and CX and can help you take things to the next level.」（https://getshogun.com/pricing・1回目）
+  - 「Create a storefront that fits your brand with a tool that fits your team」（https://getshogun.com/solutions/bigcommerce-page-builder・1回目）
+  - 「Your storefront should support the way your brand sells, merchandises, and launches campaigns, not force your team into rigid templates or developer queues.」（https://getshogun.com/solutions/bigcommerce-page-builder・1回目）
+- 日本の担い手：
+  - 「Tokyo, Japan」（https://getshogun.com/partners・1回目）
+- 規模・親会社：
+  - 「Experiment across your entire storefront to increase conversions and revenue, with testing for every stage of the customer journey.」（https://getshogun.com/・1回目）
+  - 「“You can work on creating better and better ads or you can increase your conversion rate from one to two percent and now your acquisition costs are cut in half.”」（https://getshogun.com/・1回目）
+  - 「Up-to-date CVR data from hundreds of active Shopify stores broken out by industry, revenue band, and same-store quarter-over-quarter movement so you’re benchmarking against merchants like yours.」（https://getshogun.com/・1回目）
+  - 「AOV data from 2,500+ active Shopify stores. See how other stores in your category and revenue band perform and how basket sizes are trending quarter-over-quarter and year-over-year.」（https://getshogun.com/・1回目）
+  - 「Build, test, and personalize the experiences that drive measurable revenue.」（https://getshogun.com/・1回目）
+  - 「“Our partnership with Shogun is a great example of true collaboration between industry-leading teams. They ask for our advice, take opinions, and support us in pitches. They have a vision for helping brands achieve full storefront flexibility—without complexity—and we’re excited to be part of it!”」（https://getshogun.com/agency-partners・1回目）
+  - 「CRO agency for fast-growing Shopify stores in the Netherlands. We help online stores with over €1M in revenue scale significantly through CRO and full-funnel strategies.」（https://getshogun.com/cro-partners・1回目）
+  - 「Clean Commit helps Shopify merchants increase revenue in first month through data-driven CRO. $7.3M+ generated.」（https://getshogun.com/cro-partners・1回目）
+  - 「From Interim Tool to Integral Ecomm Solution: How GE Appliances Found Revenue-driving Success With Shogun」（https://getshogun.com/case-studies/nextbase-personalized-experiences・1回目）
+  - 「Wisdom Supply Co. Realized an Additional $20,000 in Annual Revenue」（https://getshogun.com/case-studies/nextbase-personalized-experiences・1回目）
+  - 「Experiment with your theme’s templates until you find the perfect design that drives maximum revenue.」（https://getshogun.com/solutions/cro-experts・1回目）
+  - 「Lower customer acquisition costs through continuous testing」（https://getshogun.com/solutions/ad-managers・1回目）
+- 連絡先：
+  - 「We’ll supply you with unique referral links once you are approved. These are tracked and attributed to your agency. If your client is interested in our Advanced pricing tier—or needs contracting—then sending a message to partnerships@getshogun.com is the best way to submit this particular client’s information.」（https://getshogun.com/agency-partners・1回目）
+  - 「, which builds segments using customer data and interactions such as email activity, product reviews, and purchase history. Rory used Klaviyo CDP to create a segment of customers who had previously purchased a Dash Cam. With that segment in place, he then created a personalized experience of their Dash Cam collection page.」（https://getshogun.com/case-studies/nextbase-personalized-experiences・1回目）
+  - 「The Nextbase team let their experiment run for a few weeks. While it ran, they refrained from any changes to their post-purchase marketing strategy. They already had a post-purchase email campaign that promoted the Rear Window Camera and the Rear View Camera, which tied in nicely with the personalized experience.」（https://getshogun.com/case-studies/nextbase-personalized-experiences・1回目）
+  - 「Build hype around a new product launch with pages that collect email addresses and pre-sale orders from your loyal customers.」（https://getshogun.com/solutions/campaign-managers・1回目）
+  - 「Email Marketing Traffic」（https://getshogun.com/solutions/campaign-managers・1回目）
+  - 「Set a goal and monitor results–whether your campaign is collecting emails or driving sales.」（https://getshogun.com/solutions/campaign-managers・1回目）
+  - 「We offer amazing support, and can promptly answer 99% of questions, even if you haven’t signed up yet. You can email us at」（https://getshogun.com/pricing・1回目）
+  - 「Support paid social, search, influencer, affiliate, email, and retention campaigns with tailored landing experiences.」（https://getshogun.com/solutions/bigcommerce-page-builder・1回目）
+  - 「Postscript is an SMS and email retention marketing platform for e-commerce brands, mainly Shopify merchants. It lets brands segment customer lists and send personalized text messages to drive engagement and revenue. The company is based in Scottsdale, Arizona.」（https://multiples.vc/private-comps/shogun・3回目）
+- 検索結果の抜粋：
+  - 「Shogun: Ecommerce Optimization and Personalization — Shogun: Ecommerce Optimization and Personalization Shogun Page Builder https://getshogun.com」（https://getshogun.com/・3回目）
+  - 「Platform selection - Sign In - Shogun — Platform selection - Sign In - Shogun Shogun Page Builder https://app.getshogun.com > sign-up」（https://app.getshogun.com/sign-up・3回目）
+  - 「Sign In — Sign In Shogun Page Builder https://app.getshogun.com > sign-in」（https://app.getshogun.com/sign-in・3回目）
+  - 「Sign In - Shogun — Sign In - Shogun Shogun Page Builder https://app.getshogun.com > sign-in」（https://app.getshogun.com/sign-in・3回目）
+  - 「Shogun Reviews - Trustpilot — Shogun Reviews - Trustpilot Trustpilot https://www.trustpilot.com > getshogun」（https://www.trustpilot.com/review/getshogun.com・3回目）
+  - 「Join our agency partner program - Shogun — Join our agency partner program - Shogun Shogun Page Builder https://getshogun.com > agency-partn...」（https://getshogun.com/agency-partners・3回目）
+- 創業年度：記載なし（3回確認済み：公式20頁／PDF・画像1件／外部21頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式20頁／PDF・画像1件／外部21頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式20頁／PDF・画像1件／外部21頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式20頁／PDF・画像1件／外部21頁・検索12回）
+- 料金：記載なし（3回確認済み：公式20頁／PDF・画像1件／外部21頁・検索12回）
+
+## Getspiffy
+- 公式URL：https://www.getspiffy.com（given）
+- 採用・広告の製品：
+  - 「Spiffy is a white-glove mobile service partner that helps dealerships launch and grow their programs with best-in-class software, van upfits, and dedicated support.」（https://www.getspiffy.com/・1回目）
+  - 「"Before Spiffy, we were averaging 75 mobile monthly experiences. Now we're at 147 and as I look at the numbers today halfway through the month, we're projected to exceed 200 mobile experiences this month."」（https://www.getspiffy.com/・1回目）
+  - 「Having the right structure and support made scaling our mobile operations much easier. We were able to grow capacity while improving productivity per van.”」（https://www.getspiffy.com/・1回目）
+  - 「Scale Your Mobile Program」（https://www.getspiffy.com/・1回目）
+  - 「Our proven program is built to launch and manage dealer mobile service programs.」（https://www.getspiffy.com/・1回目）
+  - 「Proprietary Fixed-ops Tools」（https://www.getspiffy.com/・1回目）
+  - 「Launch blueprints and hands-on coaching turn tools into a scalable solution your team can actually run.」（https://www.getspiffy.com/・1回目）
+  - 「Whether you’re facing limited capacity or technician shortages, we understand the realities of today’s service dealerships. Our solutions are backed by more than a decade of experience helping dealerships launch mobile service programs at scale.」（https://www.getspiffy.com/・1回目）
+  - 「At Spiffy, we’re proud to support some of the most recognized dealerships and OEMs in the automotive industry.」（https://www.getspiffy.com/・1回目）
+  - 「Already have pieces of this solution? No problem!」（https://www.getspiffy.com/・1回目）
+  - 「We’re looking for people who share our passion for delivering 5-star car care services to our customers. Whether you’re an experienced technician, a seasoned corporate professional, or just starting your career, we offer a variety of exciting opportunities for you to grow and thrive.」（https://www.getspiffy.com/careers・1回目）
+  - 「Solving big problems to scale and deliver exceptional customer experiences takes teamwork. Across geographies and job functions, we have each other's backs.」（https://www.getspiffy.com/careers・1回目）
+- 製造業の実績：
+  - 「Spiffy's Easy Tread™ and Easy Flow™ put tire diagnostic and oil change data right in your technicians' hands.」（https://www.getspiffy.com/・1回目）
+  - 「Trusted by Those Who Keep America Running」（https://www.getspiffy.com/・1回目）
+  - 「At Spiffy, we’re proud to support some of the most recognized dealerships and OEMs in the automotive industry.」（https://www.getspiffy.com/・1回目）
+  - 「If you're looking for a new and exciting automotive job opportunity, Spiffy might be perfect for you!」（https://www.getspiffy.com/careers・1回目）
+  - 「We are on a mission to disrupt the automotive industry and are growing fast. In every role, you’ll see our path and understand the numbers that will get us to the next level.」（https://www.getspiffy.com/careers・1回目）
+  - 「Revolutionizing Automotive Services Nationwide for Over a Decade.」（https://www.getspiffy.com/about・1回目）
+  - 「Founded in North Carolina’s Research Triangle Park in 2014, Spiffy® set out to make automotive care more convenient, sustainable, and high-quality. Today, we’re a leading mobile automotive service platform built for dealerships and fleets.」（https://www.getspiffy.com/about・1回目）
+  - 「Stephen joined Spiffy in 2026 as Vice President of OEM Partnerships, helping automakers bring mobile service to their dealer networks. He has more than a decade in automotive technology, including senior partnership roles at UVeye and myKaarma. Earlier, he co-founded PocketExpert, which built partnerships with Audi, Volkswagen and Honda before myKaarma acquired it.」（https://www.getspiffy.com/about・1回目）
+  - 「Manufacturing & Supply Chain」（https://www.frost.com/news/press-releases/get-spiffy-lauded-by-frost-sullivan-for-redefining-the-car-care-experience-with-its-proprietary-technologies/・3回目）
+  - 「Manufacturing Transformation」（https://www.frost.com/news/press-releases/get-spiffy-lauded-by-frost-sullivan-for-redefining-the-car-care-experience-with-its-proprietary-technologies/・3回目）
+  - 「2019 North American Customer Value Leadership Award for being a complete car care provider. Spiffy has developed multiple proprietary technologies that make it stand out as a service that is not only convenient but also environmentally friendly. It turns any parking space into a car wash, connecting customers with trained technicians who provide unmatched service.」（https://www.frost.com/news/press-releases/get-spiffy-lauded-by-frost-sullivan-for-redefining-the-car-care-experience-with-its-proprietary-technologies/・3回目）
+  - 「From Automation to a Unified Technology Stack: How COPA-DATA Is Enabling More Flexible Pharmaceutical Manufacturing」（https://www.frost.com/news/press-releases/get-spiffy-lauded-by-frost-sullivan-for-redefining-the-car-care-experience-with-its-proprietary-technologies/・3回目）
+- 再販・ホワイトラベル：
+  - 「At Spiffy, we’re proud to support some of the most recognized dealerships and OEMs in the automotive industry.」（https://www.getspiffy.com/・1回目）
+  - 「VP of OEM Partnerships」（https://www.getspiffy.com/about・1回目）
+  - 「Stephen joined Spiffy in 2026 as Vice President of OEM Partnerships, helping automakers bring mobile service to their dealer networks. He has more than a decade in automotive technology, including senior partnership roles at UVeye and myKaarma. Earlier, he co-founded PocketExpert, which built partnerships with Audi, Volkswagen and Honda before myKaarma acquired it.」（https://www.getspiffy.com/about・1回目）
+- 規模・親会社：
+  - 「Mobile Service Operating System that Drives Revenue Beyond the Service Bay」（https://www.getspiffy.com/・1回目）
+  - 「van arrives dealer-branded, fully upfitted, and rea」（https://www.getspiffy.com/・1回目）
+  - 「Drive More Revenue Beyond the Service Bay」（https://www.getspiffy.com/・1回目）
+  - 「We help dealerships serve more customers, complete more jobs, and generate more revenue, all without adding a single service bay.」（https://www.getspiffy.com/・1回目）
+  - 「Garrison Ramoso joined Spiffy in January 2020 to focus initially on fleet sales on the West Coast as well as Vehicle 2.0 opportunities. Since then, his responsibilities have expanded to include fleet sales and business development responsibilities for Spiffy nationwide.」（https://www.getspiffy.com/about・1回目）
+  - 「Prior to joining Spiffy, Garrison led high performing teams at eBay focused on emerging markets in various categories including Motors. He also established fleet sales for YourMechanic and redefined the sales team at SurveyMonkey prior to their IPO.」（https://www.getspiffy.com/about・1回目）
+  - 「Garrison has an MBA from San Jose State University and a BA from Fairfield University in CT. When he’s not working to find ways to make fleets more efficient, you will find him either cycling, at the gym or shuttling his daughters to one of their many volleyball and gymnastics events.」（https://www.getspiffy.com/about・1回目）
+  - 「Stephen joined Spiffy in 2026 as Vice President of OEM Partnerships, helping automakers bring mobile service to their dealer networks. He has more than a decade in automotive technology, including senior partnership roles at UVeye and myKaarma. Earlier, he co-founded PocketExpert, which built partnerships with Audi, Volkswagen and Honda before myKaarma acquired it.」（https://www.getspiffy.com/about・1回目）
+  - 「Get Spiffy: Revenue, Competitors, Alternatives」（https://growjo.com/company/Get_Spiffy・3回目）
+  - 「Revenue and Competitors」（https://growjo.com/company/Get_Spiffy・3回目）
+  - 「Estimated Revenue & Valuation」（https://growjo.com/company/Get_Spiffy・3回目）
+  - 「's estimated annual revenue is currently」（https://growjo.com/company/Get_Spiffy・3回目）
+- 連絡先：
+  - 「GET EMAIL UPDATES & OFFERS」（https://www.getspiffy.com/・1回目）
+  - 「GET EMAIL UPDATES & OFFERS」（https://www.getspiffy.com/careers・1回目）
+  - 「GET EMAIL UPDATES & OFFERS」（https://www.getspiffy.com/case-studies・1回目）
+  - 「GET EMAIL UPDATES & OFFERS」（https://www.getspiffy.com/about・1回目）
+  - 「Contact us: Start the discussion」（https://www.frost.com/news/press-releases/get-spiffy-lauded-by-frost-sullivan-for-redefining-the-car-care-experience-with-its-proprietary-technologies/・3回目）
+  - 「Recommended Panelist Business Email」（https://www.frost.com/news/press-releases/get-spiffy-lauded-by-frost-sullivan-for-redefining-the-car-care-experience-with-its-proprietary-technologies/・3回目）
+  - 「B2B email lists」（https://growjo.com/company/Get_Spiffy・3回目）
+  - 「B2B Email Finder」（https://growjo.com/company/Get_Spiffy・3回目）
+  - 「Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.」（https://pitchbook.com/profiles/company/123624-91・3回目）
+- 検索結果の抜粋：
+  - 「Media Resources and Press | Spiffy - GetSpiffy — Media Resources and Press | Spiffy - GetSpiffy Get Spiffy https://www.getspiffy.com > media」（https://www.getspiffy.com/media・3回目）
+  - 「Spiffy (@ getspiffy ) • Instagram photos and videos — Spiffy (@ getspiffy ) • Instagram photos and videos Instagram https://www.instagram.com > getspiffy」（https://www.instagram.com/getspiffy/・3回目）
+  - 「getspiffy - Linktree — getspiffy - Linktree Linktree https://linktr.ee > getspiffy」（https://linktr.ee/getspiffy・3回目）
+  - 「GetSpiffy — GetSpiffy Get Spiffy https://www.getspiffy.com」（https://www.getspiffy.com/・3回目）
+  - 「Get Spiffy Lauded for Redefining the Car Care Experience w — Get Spiffy Lauded for Redefining the Car Care Experience w Frost & Sullivan https://www.frost.com > press-releases」（https://www.frost.com/news/press-releases/get-spiffy-lauded-by-frost-sullivan-for-redefining-the-car-care-experience-with-its-proprietary-technologies/・3回目）
+  - 「Behind the Scenes of the Technology Powering Spiffy - GetSpiffy — Behind the Scenes of the Technology Powering Spiffy - GetSpiffy Get Spiffy https://www.getspiffy.com > blog > b...」（https://www.getspiffy.com/blog/behind-the-scenes-of-the-technology-powering-spiffy・3回目）
+  - 「Announcing Our $30 Million Series C Funding Round - GetSpiffy — Announcing Our $30 Million Series C Funding Round - GetSpiffy Get Spiffy https://www.getspiffy.com > blog > a...」（https://www.getspiffy.com/blog/announcing-our-30-million-series-c-funding-round・3回目）
+  - 「Get Spiffy : Revenue , Competitors, Alternatives - Growjo — Get Spiffy : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Get_Spiffy」（https://growjo.com/company/Get_Spiffy・3回目）
+  - 「Get Spiffy 2026 Company Profile: Valuation, Funding & Investors — Get Spiffy 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/123624-91・3回目）
+  - 「Invest In Get Spiffy Stock | Buy Pre-IPO Shares - EquityZen — Invest In Get Spiffy Stock | Buy Pre-IPO Shares - EquityZen EquityZen https://equityzen.com > getspiffy」（https://equityzen.com/company/getspiffy/・3回目）
+- 創業年度：記載なし（3回確認済み：公式4頁／PDF・画像4件／外部23頁・検索12回）
+- 株主：記載なし（3回確認済み：公式4頁／PDF・画像4件／外部23頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像4件／外部23頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像4件／外部23頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式4頁／PDF・画像4件／外部23頁・検索12回）
+- 料金：記載なし（3回確認済み：公式4頁／PDF・画像4件／外部23頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式4頁／PDF・画像4件／外部23頁・検索12回）
+
+## Getthera
+- 公式URL：https://www.getthera.com（given）
+- 採用・広告の製品：
+  - 「Turn your largest business expense into flights, hotels, cashback, and premium perks.」（https://www.getthera.com/・1回目）
+  - 「Search every major airline with side-by-side points and cash pricing. Book business class, upgrades, or basic economy. Your points, your call.」（https://www.getthera.com/・1回目）
+  - 「Protect your bottomline and streamline your payroll operations all in one platform. Automated, flexible and powerful.」（https://www.getthera.com/・1回目）
+  - 「Hire and pay contractors worldwide」（https://www.getthera.com/・1回目）
+  - 「Pay contractors in 150+ countries with the best rates and zero compliance risk. From onboarding to payouts, everything's made simple.」（https://www.getthera.com/・1回目）
+  - 「Easily hire employees in 150+ countries」（https://www.getthera.com/・1回目）
+  - 「Employer of record and compliance for your global team. Hire and pay workers compliantly across 150+ countries without setting up legal entities.」（https://www.getthera.com/・1回目）
+  - 「Banking services are provided by our partner bank.」（https://www.getthera.com/・1回目）
+  - 「"We've cut our onboarding time dramatically, saved a fortune on compliance costs, and expanded our talent pool beyond our wildest expectations. It's not an exaggeration to say Thera has transformed how we operate on a global scale."」（https://www.getthera.com/・1回目）
+  - 「“Thera is a no-brainer for fast-growing companies hiring international talent”」（https://www.getthera.com/・1回目）
+  - 「“Thera is slowly becoming one of my favorite products. I use it to manage my contractors, make payroll, and schedule payments. It makes my life way easier. I set up payroll and payments in a few clicks, and even have a dedicated Slack with their team if I need anything. If you're a busy founder, I highly recommend using Thera.”」（https://www.getthera.com/・1回目）
+  - 「One simple platform to go from your first hire to your hundredth.」（https://www.getthera.com/・1回目）
+- 製造業の実績：
+  - 「TRUSTED BY TOP AGENCIES HIRING GLOBALLY」（https://www.getthera.com/agencies・1回目）
+  - 「Used by the world’s leading companies」（https://www.getthera.com/pricing・1回目）
+- 再販・ホワイトラベル：
+  - 「Offer payroll under your brand while Thera runs the infrastructure. You own the client relationship.」（https://www.getthera.com/accounting-partnerships・1回目）
+  - 「Become a partner today」（https://www.getthera.com/accounting-partnerships・1回目）
+  - 「Thera White Label | Global Payroll Under Your Brand」（https://www.getthera.com/white-label・1回目）
+  - 「GET MORE OUT OF OUR WHITE LABEL SOLUTION」（https://www.getthera.com/white-label・1回目）
+  - 「Thera gives you a product to sell under your own brand, with your own pricing. No engineering. No compliance team.」（https://www.getthera.com/white-label・1回目）
+  - 「Offer world-class payroll to your clients under your name and brand. Every touchpoint carries your brand. Your clients stay yours.」（https://www.getthera.com/white-label・1回目）
+  - 「Who can use Thera White Label?」（https://www.getthera.com/white-label・1回目）
+  - 「What Thera solutions can I white label?」（https://www.getthera.com/white-label・1回目）
+  - 「You can currently white label contractor management」（https://www.getthera.com/white-label・1回目）
+  - 「White label customers are up and running within 1-2 business days」（https://www.getthera.com/white-label・1回目）
+  - 「Thera | Payroll Built for Agencies」（https://www.getthera.com/agencies・1回目）
+  - 「TRUSTED BY TOP AGENCIES HIRING GLOBALLY」（https://www.getthera.com/agencies・1回目）
+- 規模・親会社：
+  - 「Marriott, Hyatt, Hilton, and independent hotels worldwide. Always at best available rates with transparent points vs. cash comparison.」（https://www.getthera.com/・1回目）
+  - 「Easily hire employees in 150+ countries」（https://www.getthera.com/・1回目）
+  - 「Thera is a payroll and payments platform for startups, small businesses, and global teams. Run US payroll, pay contractors worldwide, and hire international employees all in one place.」（https://www.getthera.com/・1回目）
+  - 「US employees, international employees through EOR, and independent contractors in 150+ countries.」（https://www.getthera.com/・1回目）
+  - 「Offer the best benefits to your employees. Thera syncs benefits data directly into payroll so deductions are accurate from day one. Integrate with SimplyInsured, Human Interest, Thatch and much more.」（https://www.getthera.com/white-label・1回目）
+  - 「Unlock a new revenue stream without building anything」（https://www.getthera.com/white-label・1回目）
+  - 「Offer world-class payroll to your clients under your name and brand. Every touchpoint carries your brand. Your clients stay yours.」（https://www.getthera.com/white-label・1回目）
+  - 「Thera is a payroll and payments platform for startups, small businesses, and global teams. Run US payroll, pay contractors worldwide, and hire international employees all in one place.」（https://www.getthera.com/agencies・1回目）
+  - 「US employees, international employees through EOR, and independent contractors in 150+ countries.」（https://www.getthera.com/agencies・1回目）
+  - 「Easily hire employees in 150+ countries」（https://www.getthera.com/customers・1回目）
+  - 「Easily hire employees in 150+ countries」（https://www.getthera.com/pricing・1回目）
+  - 「Onboard full time employees in 150+ countries」（https://www.getthera.com/pricing・1回目）
+- 連絡先：
+  - 「. Contact us for questions about your privacy and consult a tax advisor for tax-related concerns.」（https://www.getthera.com/customers・1回目）
+  - 「. Contact us for questions about your privacy and consult a tax advisor for tax-related concerns.」（https://www.getthera.com/pricing・1回目）
+  - 「“Thera has made our lives so much easier. No more headaches with complicated payroll systems or waiting forever for e-mail support. Now we can actually focus on what we do best - making great content.”」（https://www.getthera.com/case-studies/why-workweek-moved-their-international-team-from-rippling-to-thera・1回目）
+  - 「. Contact us for questions about your privacy and consult a tax advisor for tax-related concerns.」（https://www.getthera.com/company・1回目）
+- 検索結果の抜粋：
+  - 「Thera | Payroll + AP/AR for Global Teams — Thera | Payroll + AP/AR for Global Teams Thera https://app.getthera.com」（https://app.getthera.com/・3回目）
+  - 「Thera | LinkedIn — Thera | LinkedIn LinkedIn https://www.linkedin.com > getthera」（https://www.linkedin.com/company/getthera・3回目）
+  - 「Thera (@ getthera ) / X — Thera (@ getthera ) / X X https://x.com > getthera」（https://x.com/getthera・3回目）
+  - 「Thera Reviews - Trustpilot — Thera Reviews - Trustpilot Trustpilot https://www.trustpilot.com > getthera」（https://www.trustpilot.com/review/getthera.com・3回目）
+  - 「Thera (@ getthera _) • Instagram photos and videos — Thera (@ getthera _) • Instagram photos and videos Instagram https://www.instagram.com > getthera_」（https://www.instagram.com/getthera_/・3回目）
+  - 「Thera White Label | Global Payroll Under Your Brand — Thera White Label | Global Payroll Under Your Brand Thera https://www.getthera.com > white-label」（https://www.getthera.com/white-label・3回目）
+  - 「Thera | Payroll That Earns Points — Thera | Payroll That Earns Points Thera https://www.getthera.com」（https://www.getthera.com/・3回目）
+- 創業年度：記載なし（3回確認済み：公式14頁／PDF・画像4件／外部28頁・検索12回）
+- 株主：記載なし（3回確認済み：公式14頁／PDF・画像4件／外部28頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式14頁／PDF・画像4件／外部28頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式14頁／PDF・画像4件／外部28頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式14頁／PDF・画像4件／外部28頁・検索12回）
+- 料金：記載なし（3回確認済み：公式14頁／PDF・画像4件／外部28頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式14頁／PDF・画像4件／外部28頁・検索12回）
+
+## Getzippin
+- 公式URL：https://www.getzippin.com（given）
+- 採用・広告の製品：
+  - 「Zippin's checkout-free platform helps you increase throughput, drive profits and delight customers. Zip in. Zip out.」（https://www.getzippin.com/・1回目）
+  - 「Zippin is the only checkout-free technology provider nominated in any category for」（https://www.getzippin.com/・1回目）
+  - 「Apr 2026」（https://www.getzippin.com/・1回目）
+  - 「Houston Methodist Cypress」（https://www.getzippin.com/・1回目）
+  - 「Proudly Serving in Sports & Entertainment:」（https://www.getzippin.com/・1回目）
+  - 「Proudly Serving Beyond Sports」（https://www.getzippin.com/・1回目）
+  - 「Zippin’s cashierless stores and retail solutions reduce the time it takes to buy a drink or snack from 20 minutes to 20 seconds. Zippin’s AI-powered platform uses machine learning and sensor fusion technology to boost retailer profitability with our entirely checkout-free shopping platform.」（https://www.getzippin.com/・1回目）
+  - 「Learn how Zippin can help build engaging shopping experiences for your customers, while maximizing your profits.」（https://www.getzippin.com/・1回目）
+  - 「We work with a diverse and growing network of technology partners that enhance the Zippin platform. This lets retailers choose their own payment processors, design custom check-in experiences, integrate with their existing loyalty programs, add new shopping experiences like self-service beverages, and much more.」（https://www.getzippin.com/partners・1回目）
+  - 「Since the beginning, Zippin has partnered with forward-thinking operators, foodservice providers, and technology leaders to transform retail and concessions, delivering frictionless shopping experiences that customers love.」（https://www.getzippin.com/partners・1回目）
+  - 「We are incredibly proud of the partnerships we've cultivated, helping us to deliver the industry's most flexible and extensible checkout-free platform. Together, we empower retailers to streamline operations, maximize profits, and create extraordinary customer experiences every day.」（https://www.getzippin.com/partners・1回目）
+  - 「Drive profits with Zippin」（https://www.getzippin.com/product・1回目）
+- 製造業の実績：
+  - 「Since the beginning, Zippin has partnered with forward-thinking operators, foodservice providers, and technology leaders to transform retail and concessions, delivering frictionless shopping experiences that customers love.」（https://www.getzippin.com/partners・1回目）
+  - 「Learn how Zippin’s customers are growing revenues, delighting shoppers, and streamlining operations with Zippin’s checkout-free platform. Zippin helps retailers and QSR operators eliminate friction from the shopping experience and helps stores run more efficiently even when short-staffed.」（https://www.getzippin.com/case-studies・1回目）
+- 規模・親会社：
+  - 「Learn how Zippin's checkout-free technology is helping travelers get to their planes on time while increasing store revenues and cutting costs.」（https://www.getzippin.com/・1回目）
+  - 「Zippin-powered stores have seen revenues increase up to 80% or more.」（https://www.getzippin.com/・1回目）
+  - 「At Zippin, we believe partnerships are the cornerstone of delivering innovative, checkout-free solutions to customers worldwide. By collaborating with industry leaders, we empower businesses to enhance their operations, delight their customers, and drive revenue.」（https://www.getzippin.com/partners・1回目）
+  - 「Checkout-free technology frees your employees from the repetitive tasks of checkout, allowing them to engage and focus on higher-value customer-facing work like helping shoppers find the right products.」（https://www.getzippin.com/product・1回目）
+  - 「Learn how Zippin’s customers are growing revenues, delighting shoppers, and streamlining operations with Zippin’s checkout-free platform. Zippin helps retailers and QSR operators eliminate friction from the shopping experience and helps stores run more efficiently even when short-staffed.」（https://www.getzippin.com/case-studies・1回目）
+  - 「Puente Enterprises recently opened Fort Worth Magazine, a Zippin-powered convenience store in DFW, the country’s second busiest airport. Checkout-free helps travelers and airline employees get to where they’re going on time, improve the employee experience, and grow sales.」（https://www.getzippin.com/case-studies・1回目）
+  - 「We are a global and collaborative team, building a world class company and inspiring Zippiners to grow with us. We foster a consciously inclusive culture by empowering individuality and building a diverse brand people dream to be a part of.」（https://www.getzippin.com/careers・1回目）
+  - 「You’ll support and maintain our cutting-edge hardware systems that power frictionless checkout experiences. From troubleshooting and repairs to collaborating with partners and training on-site personnel, you'll ensure our technology operates at peak performance. If you're passionate about hardware, problem-solving, and want to be part of a forward-thinking team, apply today and make an impact! 💻」（https://www.getzippin.com/careers・1回目）
+  - 「Looking for a role that's not listed here?」（https://www.getzippin.com/careers・1回目）
+  - 「Zippin: Revenue, Competitors, Alternatives」（https://growjo.com/company/Zippin・3回目）
+  - 「Revenue and Competitors」（https://growjo.com/company/Zippin・3回目）
+  - 「Estimated Revenue & Valuation」（https://growjo.com/company/Zippin・3回目）
+- 連絡先：
+  - 「Email careers@getzippin.com」（https://www.getzippin.com/careers・1回目）
+  - 「B2B email lists」（https://growjo.com/company/Zippin・3回目）
+  - 「B2B Email Finder」（https://growjo.com/company/Zippin・3回目）
+- 検索結果の抜粋：
+  - 「GetZippin | Home — GetZippin | Home GetZippin https://www.getzippin.com」（https://www.getzippin.com/・3回目）
+  - 「Fujitsu and Zippin Announce Partnership to Accelerate ... — Fujitsu and Zippin Announce Partnership to Accelerate ... GetZippin https://www.getzippin.com > blog > f...」（https://www.getzippin.com/blog/fujitsu-zippin-announce-partnership・3回目）
+  - 「Zippin (@ getzippin ) - Facebook — Zippin (@ getzippin ) - Facebook Facebook https://www.facebook.com > ... > Software Company」（https://www.facebook.com/getzippin/・3回目）
+  - 「Checking In Blog | Japan - GetZippin — Checking In Blog | Japan - GetZippin GetZippin https://www.getzippin.com > japan」（https://www.getzippin.com/blog/tag/japan・3回目）
+  - 「Case Studies - GetZippin — Case Studies - GetZippin GetZippin https://www.getzippin.com > case-stu...」（https://www.getzippin.com/case-studies・3回目）
+  - 「The AI Technologies Powering Checkout-free Retail Part 2 — The AI Technologies Powering Checkout-free Retail Part 2 GetZippin https://www.getzippin.com > blog > t...」（https://www.getzippin.com/blog/the-ai-technologies-powering-checkout-free-retail-part-2-sensor-fusion・3回目）
+- 創業年度：記載なし（3回確認済み：公式6頁／PDF・画像4件／外部22頁・検索12回）
+- 株主：記載なし（3回確認済み：公式6頁／PDF・画像4件／外部22頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式6頁／PDF・画像4件／外部22頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式6頁／PDF・画像4件／外部22頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式6頁／PDF・画像4件／外部22頁・検索12回）
+- 料金：記載なし（3回確認済み：公式6頁／PDF・画像4件／外部22頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式6頁／PDF・画像4件／外部22頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式6頁／PDF・画像4件／外部22頁・検索12回）
+
+## Gimo
+- 公式URL：https://gimo.vn/en（given）
+- 採用・広告の製品：
+  - 「Gimo has been recognized by prestigious local & global awards」（https://gimo.vn/en/・1回目）
+  - 「Hanoi, Vietnam, July 24, 2023 GIMO, a Vietnam-based startup providing flexible pay and financial well-being solutions for underbanked workers, announces the completion of Series A funding round with total capital raise of up to US$17.1 million. The final closing, comprised of a mixture of equity and debt financing, came only five months after the company […]」（https://gimo.vn/en/・1回目）
+  - 「How to end the reign of predatory lending?」（https://gimo.vn/en/・1回目）
+  - 「Learn more about Gimo and our journey to building a comprehensive Employee Benefits Platform」（https://gimo.vn/en/・1回目）
+  - 「Gimo’s Woman Advertising Campaign - Fall Winter 2025-2026」（https://www.gimos.com/en/blog/3-journal?srsltid=AYCX9vI2THZAh8SL1KFrw-DJytgctxJG9yS6dHal4lirasVnW9eADm7h・3回目）
+  - 「Like a painting, the collection and its garments interpret both the natural landscape and contemporary style. The careful selection of materials and artisanal craftsmanship embody, season after season, the creativity and beauty that define Gimo’s pieces.」（https://www.gimos.com/en/blog/3-journal?srsltid=AYCX9vI2THZAh8SL1KFrw-DJytgctxJG9yS6dHal4lirasVnW9eADm7h・3回目）
+  - 「Gimo’s Man Advertising Campaign - Fall Winter 2025-2026」（https://www.gimos.com/en/blog/3-journal?srsltid=AYCX9vI2THZAh8SL1KFrw-DJytgctxJG9yS6dHal4lirasVnW9eADm7h・3回目）
+  - 「GIMO'S, a historic brand in high-quality menswear, proudly announces the launch of its new Fall/Winter 2025/26 Men’s Collection. This offering celebrates the dual nature of the contemporary man, blending technical innovation with a deep connection to the authenticity of nature.」（https://www.gimos.com/en/blog/3-journal?srsltid=AYCX9vI2THZAh8SL1KFrw-DJytgctxJG9yS6dHal4lirasVnW9eADm7h・3回目）
+  - 「GMS75 Advertising Campaign - Fall Winter 2025-2026」（https://www.gimos.com/en/blog/3-journal?srsltid=AYCX9vI2THZAh8SL1KFrw-DJytgctxJG9yS6dHal4lirasVnW9eADm7h・3回目）
+  - 「GMS75’s F/W 25-26 collection is an authentic expression of the union between stylistic innovation and tradition. Reviving the most representative garments of the brand's historical archive is one of GMS75’s priority aims.」（https://www.gimos.com/en/blog/3-journal?srsltid=AYCX9vI2THZAh8SL1KFrw-DJytgctxJG9yS6dHal4lirasVnW9eADm7h・3回目）
+  - 「Gimo's Woman Advertising Campaign - Spring Summer 2025」（https://www.gimos.com/en/blog/3-journal?srsltid=AYCX9vI2THZAh8SL1KFrw-DJytgctxJG9yS6dHal4lirasVnW9eADm7h・3回目）
+  - 「Gimo's Man Advertising Campaign - Spring Summer 2025」（https://www.gimos.com/en/blog/3-journal?srsltid=AYCX9vI2THZAh8SL1KFrw-DJytgctxJG9yS6dHal4lirasVnW9eADm7h・3回目）
+- 日本の担い手：
+  - 「Gimo, Sakai, Japan - Reviews, Ratings, Tips and Why You Should Go – Wanderlog」（https://wanderlog.com/place/details/3074754/gimo・3回目）
+  - 「1 Chome-326 Takagichuo, Fukui, 910-0804, Japan」（https://wanderlog.com/place/details/3074754/gimo・3回目）
+  - 「「gimoという作品を日本だけでなく海外の方にも知って頂き、愛されるキャラクタにしていきたいです」（https://note.com/0x_tama/n/n549eae34ab8c・3回目）
+- 規模・親会社：
+  - 「Gimo delivers the benefits directly to your employees.」（https://gimo.vn/en/・1回目）
+  - 「GIMO Funding | $7-8.4M Revenue | Complete Analysis | Extruct AI」（https://www.extruct.ai/hub/gimo-vn-funding/・3回目）
+  - 「GIMO is a fintech company offering flexible pay solutions, allowing employees to access earned wages before payday for improved financial well-being.」（https://www.extruct.ai/hub/gimo-vn-funding/・3回目）
+  - 「GIMO Revenue 2024: $6.5M Est.」（https://getlatka.com/companies/gimo.vn・3回目）
+  - 「GIMO has not published its revenue. GetLatka estimates it at about $6.5M a year (December 2024).」（https://getlatka.com/companies/gimo.vn・3回目）
+  - 「All 2 revenue readings, with sources」（https://getlatka.com/companies/gimo.vn・3回目）
+  - 「GIMO CEO, founders & employees」（https://getlatka.com/companies/gimo.vn・3回目）
+  - 「Quan Nguyen founded GIMO in 2019 and runs it as CEO. GIMO had 44 employees (December 2024, LinkedIn).」（https://getlatka.com/companies/gimo.vn・3回目）
+  - 「What is GIMO's revenue?」（https://getlatka.com/companies/gimo.vn・3回目）
+  - 「GetLatka estimates GIMO's revenue at about」（https://getlatka.com/companies/gimo.vn・3回目）
+  - 「How many employees does GIMO have?」（https://getlatka.com/companies/gimo.vn・3回目）
+  - 「employees in December 2024, according to LinkedIn.」（https://getlatka.com/companies/gimo.vn・3回目）
+- 連絡先：
+  - 「You will receive a follow-up email from our team shortly.」（https://gimo.vn/en/・1回目）
+- 検索結果の抜粋：
+  - 「gimo （ギーモ） - 出展社詳細 - コンテンツ東京 2026 — gimo （ギーモ） - 出展社詳細 - コンテンツ東京 2026 コンテンツ東京 https://www.content-tokyo.jp > ja-jp > search > directory」（https://www.content-tokyo.jp/tokyo/ja-jp/search/2026con0407/directory/directory-details.org-4a6dbd65-eed4-470a-bbdc-ea57db833d7c.html・3回目）
+  - 「gimo #0034 Resident of TONARI TOWN. 1,000 ... - Instagram — gimo #0034 Resident of TONARI TOWN. 1,000 ... - Instagram Instagram https://www.instagram.com > CoXMOxFyODv」（https://www.instagram.com/p/CoXMOxFyODv/・3回目）
+  - 「Journal - Gimo's — Journal - Gimo's Gimo's https://www.gimos.com > 3-journal」（https://www.gimos.com/en/blog/3-journal?srsltid=AYCX9vI2THZAh8SL1KFrw-DJytgctxJG9yS6dHal4lirasVnW9eADm7h・3回目）
+  - 「Gimo , Sakai, Japan - Reviews, Ratings, Tips and Why You ... — Gimo , Sakai, Japan - Reviews, Ratings, Tips and Why You ... Wanderlog https://wanderlog.com > place > details > gimo」（https://wanderlog.com/place/details/3074754/gimo・3回目）
+  - 「Gimo Paimo Japan meaning - TikTok — Gimo Paimo Japan meaning - TikTok TikTok https://www.tiktok.com > GIMO (@gimo.tv3) | TikTok」（https://www.tiktok.com/@gimo.tv3/video/7694526622107438356・3回目）
+  - 「Gimo's - Brands - Syd Jerome — Gimo's - Brands - Syd Jerome Syd Jerome https://sydjerome.com > brands > gimo」（https://sydjerome.com/brands/gimo.html・3回目）
+  - 「GIMO Funding | $7-8.4M Revenue | Complete Analysis — GIMO Funding | $7-8.4M Revenue | Complete Analysis Extruct AI https://www.extruct.ai > hub > gimo-...」（https://www.extruct.ai/hub/gimo-vn-funding/・3回目）
+  - 「GIMO Revenue 2024: $6.5M Est. — GIMO Revenue 2024: $6.5M Est. GetLatka https://getlatka.com > gimo」（https://getlatka.com/companies/gimo.vn・3回目）
+  - 「Vietnam-based Fintech GIMO Reaches First Close Of Series A ... — Vietnam-based Fintech GIMO Reaches First Close Of Series A ... Crowdfund Insider https://www.crowdfundinsider.com > ...」（https://www.crowdfundinsider.com/2023/02/202761-vietnam-based-fintech-gimo-reaches-first-close-of-series-a-at-5-1m/・3回目）
+  - 「GIMO 2026 Company Profile: Valuation, Funding & Investors — GIMO 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/463169-44・3回目）
+  - 「GIMO - Crunchbase Company Profile & Funding — GIMO - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > gimo」（https://www.crunchbase.com/organization/gimo・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）
+- 製造業の実績：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）
+
+## Giveffect
+- 公式URL：https://www.giveffect.com（given）
+- 採用・広告の製品：
+  - 「10-in-1 Nonprofit Software, CRM | Giveffect - Automate your Nonprofit」（https://www.giveffect.com/・1回目）
+  - 「Giveffect is Your Nonprofit’s」（https://www.giveffect.com/・1回目）
+  - 「Our intelligent platform combines 10 seamlessly connected systems, including CRM, fundraising, volunteers, marketing, and automation, so your team can eliminate busywork and focus on what matters most:」（https://www.giveffect.com/・1回目）
+  - 「Real Nonprofits. Real Transformation. Real Results.」（https://www.giveffect.com/・1回目）
+  - 「1. You’re a nonprofit ready to scale strategically.」（https://www.giveffect.com/・1回目）
+  - 「2. You’ve outgrown siloed systems and spreadsheets.」（https://www.giveffect.com/・1回目）
+  - 「powerful CRM software for nonprofits」（https://www.giveffect.com/・1回目）
+  - 「With all donors, volunteering, event participation and interaction history in one place, it’s never been easier to cultivate comprehensive relationships with your supporters. No more thanking someone without realizing their full impact on your mission.」（https://www.giveffect.com/・1回目）
+  - 「Raise even more funds by unlocking untapped employee and corporate gift-matching programs with every transaction.」（https://www.giveffect.com/・1回目）
+  - 「Bring your fundraising ideas to life. Transform a basic donation page into engaging fundraising pages to reach your goals. Support every type of fundraiser: Events with tickets, peer-to-peer, crowdfunding and team fundraising, RSVP, sponsorships, auctions, product sales, virtual food drives and more...」（https://www.giveffect.com/・1回目）
+  - 「From custom online volunteer applications and waivers to online calendars and volunteer campaigns, streamline your efforts with a volunteer management platform to attract, onboard, and retain volunteers. Provide your individual and corporate volunteers with tools to manage their own shifts, join waitlists and sign up as a group.」（https://www.giveffect.com/・1回目）
+  - 「Manage volunteers and donors with one easy-to-use nonprofit organization software. With one click, know exactly how many donors are volunteers (and vice-versa) and create an informed conversion strategy.」（https://www.giveffect.com/・1回目）
+- 製造業の実績：
+  - 「Case Study: How Good Samaritan Services Reimagined Year-End Giving and Raised $275,000 with Giveffect」（https://www.giveffect.com/nonprofit-resource-center/category/case-study/・1回目）
+- 再販・ホワイトラベル：
+  - 「From a complete website, web hosting, white-labelled fundraising pages, we’ve got you covered. We’re powered by the latest in drag-and-drop web builder technology with beautiful templates and designer themes constantly being added. No coding or technical expertise required.」（https://www.giveffect.com/・1回目）
+- 規模・親会社：
+  - 「The most helpful part of Giveffect is that everything is under one platform. I can look at a profile and know exactly how that individual is interacting with our organization from emails, interactions, donations, volunteer hours and survey responses!」（https://www.giveffect.com/・1回目）
+  - 「The most helpful part of Giveffect is that everything is under one platform. I can look at a profile and know exactly how that individual is interacting with our organization from emails, interactions, donations, volunteer hours and survey responses!」（https://www.giveffect.com/pricing・1回目）
+  - 「*The prices listed with the competitor software systems are an average based on public domain knowledge and may not accurately reflect your pricing plan.」（https://www.giveffect.com/pricing・1回目）
+  - 「There are 1.5M nonprofit organizations in the US with over 20 million employees. Yet, this sector is frequently overlooked and under-resourced!」（https://www.giveffect.com/careers・1回目）
+  - 「You will be responsible for understanding and working within a team to maintain and enhance our entire online web presence. The ideal candidate will work closely with the content team to plan and execute strategies to enhance lead acquisition. You will be the subject matter expert on SEO and SEM with technical skills to create & implement marketing strategies using the latest tools and techniques.」（https://www.giveffect.com/careers・1回目）
+  - 「Be a creative tech-savvy, strategic marketer who can take our client acquisition in new directions; someone who can identify challenges and then deliver plans and strategies to grow the brand’s reach.」（https://www.giveffect.com/careers・1回目）
+  - 「The most helpful part of Giveffect is that everything is under one platform. I can look at a profile and know exactly how that individual is interacting with our organization from emails, interactions, donations, volunteer hours and survey responses!」（https://www.giveffect.com/schedule-a-call・1回目）
+  - 「Giveffect Revenue 2024: $2.7M Est.」（https://getlatka.com/companies/giveffect・3回目）
+  - 「Giveffect has not published its revenue. GetLatka estimates it at about $2.7M a year (October 2024).」（https://getlatka.com/companies/giveffect・3回目）
+  - 「All 3 revenue readings, with sources」（https://getlatka.com/companies/giveffect・3回目）
+  - 「Giveffect CEO, founders & employees」（https://getlatka.com/companies/giveffect・3回目）
+  - 「Anisa Mirza founded Giveffect in 2015 and runs it as CEO. Giveffect had 15 employees (October 2024, LinkedIn).」（https://getlatka.com/companies/giveffect・3回目）
+- 連絡先：
+  - 「Inspire action and recognize your supporters with drag-and-drop flexibility and fully customizable email communication, email marketing, direct mail and text messages with Giveffect.」（https://www.giveffect.com/・1回目）
+  - 「Simplify your workflow so you can spend time on the things that matter. Replace the laborious task of manually exporting and uploading lists from your donor and volunteer management tool to your email marketing tool. Instead, track, cultivate and communicate all in one place, with Giveffect.」（https://www.giveffect.com/・1回目）
+  - 「The most helpful part of Giveffect is that everything is under one platform. I can look at a profile and know exactly how that individual is interacting with our organization from emails, interactions, donations, volunteer hours and survey responses!」（https://www.giveffect.com/・1回目）
+  - 「Giveffect has been a life saver. It is easy to use and I love that the software has email capability, online giving, relationship management tracking and great reports. I like having the ability to do many business processes in one system. Ease of use was incredibly important. Giveffect's team members were great with onboarding and set up.」（https://www.giveffect.com/・1回目）
+  - 「The most helpful part of Giveffect is that everything is under one platform. I can look at a profile and know exactly how that individual is interacting with our organization from emails, interactions, donations, volunteer hours and survey responses!」（https://www.giveffect.com/pricing・1回目）
+  - 「Giveffect has been a life saver. It is easy to use and I love that the software has email capability, online giving, relationship management tracking and great reports. I like having the ability to do many business processes in one system. Ease of use was incredibly important. Giveffect's team members were great with onboarding and set up.」（https://www.giveffect.com/pricing・1回目）
+  - 「Complimentary chat & email support」（https://www.giveffect.com/pricing・1回目）
+  - 「The Nonprofit Solutions Consultant is responsible for managing the entire sales cycle of new customers, from prospecting to close. You will utilize outbound techniques (emails, cold calls, social media outreach, networking events & conference attendance) to build and grow your pipeline, perform lead qualification, conduct demos, and close deals.」（https://www.giveffect.com/careers・1回目）
+  - 「Utilize a wide range of outbound tactics to connect with leads to build a pipeline of sales opportunities, including cold calling, emailing, and social media outreach (primarily LinkedIn).」（https://www.giveffect.com/careers・1回目）
+  - 「Design and optimize our marketing automation and lead nurturing processes through email, content, and social channels.」（https://www.giveffect.com/careers・1回目）
+  - 「The most helpful part of Giveffect is that everything is under one platform. I can look at a profile and know exactly how that individual is interacting with our organization from emails, interactions, donations, volunteer hours and survey responses!」（https://www.giveffect.com/schedule-a-call・1回目）
+  - 「Giveffect has been a life saver. It is easy to use and I love that the software has email capability, online giving, relationship management tracking and great reports. I like having the ability to do many business processes in one system. Ease of use was incredibly important. Giveffect's team members were great with onboarding and set up.」（https://www.giveffect.com/schedule-a-call・1回目）
+- 検索結果の抜粋：
+  - 「10-in-1 Nonprofit Software, CRM | Giveffect - Automate your ... — 10-in-1 Nonprofit Software, CRM | Giveffect - Automate your ... Giveffect https://www.giveffect.com」（https://www.giveffect.com/・3回目）
+  - 「Giveffect Demo — Giveffect Demo Giveffect https://give.giveffect.org」（https://give.giveffect.org/・3回目）
+  - 「Giveffect Software Reviews, Demo & Pricing - 2026 — Giveffect Software Reviews, Demo & Pricing - 2026 Software Advice https://www.softwareadvice.com > gi...」（https://www.softwareadvice.com/membership-management/giveffect-profile/・3回目）
+  - 「Giveffect Reviews 2026: Details, Pricing, & Features | G2 — Giveffect Reviews 2026: Details, Pricing, & Features | G2 G2 https://www.g2.com > reviews」（https://www.g2.com/products/giveffect/reviews・3回目）
+  - 「Giveffect - LinkedIn — Giveffect - LinkedIn LinkedIn https://www.linkedin.com > giveffect」（https://www.linkedin.com/company/giveffect・3回目）
+  - 「Giveffect | New York NY - Facebook — Giveffect | New York NY - Facebook Facebook https://www.facebook.com > ... > Software Company」（https://www.facebook.com/Giveffect/・3回目）
+  - 「Nonprofit Case Studies | Giveffect Resource Center - Giveffect — Nonprofit Case Studies | Giveffect Resource Center - Giveffect Giveffect https://www.giveffect.com > case-study」（https://www.giveffect.com/nonprofit-resource-center/category/case-study/・3回目）
+  - 「10-in-1 Nonprofit Software , CRM | Giveffect - Automate your ... — 10-in-1 Nonprofit Software , CRM | Giveffect - Automate your ... Giveffect https://www.giveffect.com」（https://www.giveffect.com/・3回目）
+  - 「Giveffect Revenue 2024: $2.7M Est. - GetLatka — Giveffect Revenue 2024: $2.7M Est. - GetLatka GetLatka https://getlatka.com > giveffect」（https://getlatka.com/companies/giveffect・3回目）
+  - 「Giveffect : Fundraising, Volunteer and Donor ... - Y Combinator — Giveffect : Fundraising, Volunteer and Donor ... - Y Combinator Y Combinator https://www.ycombinator.com > givef...」（https://www.ycombinator.com/companies/giveffect・3回目）
+- 創業年度：記載なし（3回確認済み：公式5頁／PDF・画像4件／外部25頁・検索12回）
+- 株主：記載なし（3回確認済み：公式5頁／PDF・画像4件／外部25頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式5頁／PDF・画像4件／外部25頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式5頁／PDF・画像4件／外部25頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式5頁／PDF・画像4件／外部25頁・検索12回）
+- 料金：記載なし（3回確認済み：公式5頁／PDF・画像4件／外部25頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式5頁／PDF・画像4件／外部25頁・検索12回）
+
+## Gladly
+- 公式URL：https://www.gladly.com（given）
+- 株主：$113M（https://getlatka.com/companies/gladly・3回目）
+- 採用・広告の製品：
+  - 「Today's shopper won't spend without a little help: will it fit, is it worth it, what pairs with it. Gladly answers on the spot and walks them to the right product, right on the page.」（https://www.gladly.ai/・1回目）
+  - 「Most website AI forgets who it's talking to the moment the page reloads. Gladly recognizes the shopper and what they care about, so the help feels personal from the first message and the recommendations are ones they'll want.」（https://www.gladly.ai/・1回目）
+  - 「How many products it puts forward」（https://www.gladly.ai/・1回目）
+  - 「The proof is in the numbers - and the brands behind them are ones you already know.」（https://www.gladly.ai/・1回目）
+  - 「How MaryRuth’s doubled order volume while improving team efficiency by 35%.」（https://www.gladly.ai/・1回目）
+  - 「How Deckers Brands cut customer wait times by 29% and doubled agent productivity.」（https://www.gladly.ai/・1回目）
+  - 「Profile,」（https://help.gladly.com/docs/supported-languages・3回目）
+  - 「. Gladly Support's primary operating hours are Monday through Friday, 6 AM to 6 PM Pacific Time, but you can submit a request anytime.」（https://help.gladly.com/docs/supported-languages・3回目）
+  - 「Join us on Discord to study together, ask questions and vote for new videos! ✨」（https://www.youtube.com/user/ERTAnime・3回目）
+  - 「📓: Ipad Pro 11" 2020」（https://www.youtube.com/user/ERTAnime・3回目）
+  - 「We’re a group of language learners and polyglots who have a passion for culture and figuring out the world’s many idioms and expressions. We are all interested in sustainable language learning and are not too into the “learn X language in one week” or experiences countries for a short few days and ending it there.」（https://www.youtube.com/user/ERTAnime・3回目）
+  - 「HOW TO STAY ON TOP OF THINGS | Time Management Printables」（https://www.youtube.com/user/ERTAnime・3回目）
+- 製造業の実績：
+  - 「Trusted by the brands customers love」（https://www.gladly.ai/・1回目）
+- 日本の担い手：
+  - 「The Gladly Team interface is offered in English, Spanish, German, Dutch, French, Polish, and Japanese.」（https://help.gladly.com/docs/supported-languages・3回目）
+  - 「ja: 'Japanese',」（https://help.gladly.com/docs/supported-languages・3回目）
+  - 「日本でのイタリア語学習 | アンナの言語学習体験（ついにアンナの動画）」（https://www.youtube.com/user/ERTAnime・3回目）
+  - 「Japanese Dating Culture (Part 1) 🍵| Complaining About Japanese Boys」（https://www.youtube.com/user/ERTAnime・3回目）
+  - 「All our videos teaching Japanese, tips for JLPT and listening practice with vlogs series.」（https://www.youtube.com/user/ERTAnime・3回目）
+  - 「5 THINGS I WISH I KNEW BEFORE TAKING THE JLPT | JLPT N2 (Japanese Test)」（https://www.youtube.com/user/ERTAnime・3回目）
+  - 「🍗 Making Japanese Karaage at home | practice Japanese with me 🇯🇵」（https://www.youtube.com/user/ERTAnime・3回目）
+  - 「Best Japanese Textbooks For Self Study (Beginner-Intermediate)」（https://www.youtube.com/user/ERTAnime・3回目）
+  - 「5 TIPS TO LEARN JAPANESE KANJI | Learn Japanese w/ me」（https://www.youtube.com/user/ERTAnime・3回目）
+  - 「日本人にとって「変」なものなんてないの！？ | 日本のQ&A」（https://www.youtube.com/user/ERTAnime・3回目）
+  - 「Practise Japanese with Vlogs #8 | (Beginner-Intermediate)」（https://www.youtube.com/user/ERTAnime・3回目）
+  - 「Hi guys!! Anna, here ❤️ This afternoon I'm going to host a Gladly Global exclusive event, where I'm going to speak about Japanese characters history and learning methods 🌈 if you're interested, grab the last tickets at」（https://www.youtube.com/user/ERTAnime・3回目）
+- 規模・親会社：
+  - 「Every chat, more revenue」（https://www.gladly.ai/・1回目）
+  - 「How KÜHL’s service agents generated more than 120% more revenue per call.」（https://www.gladly.ai/・1回目）
+  - 「How Condé Nast unified and accelerated revenue for 18 iconic brands with one CX platform.」（https://www.gladly.ai/・1回目）
+  - 「Find 1,800+ apps, partners, and integrations to serve customers and employees」（https://www.zendesk.com/why-zendesk/zendesk-vs-gladly/・3回目）
+  - 「Give employees the fastest resolutions through a scalable, intuitive platform」（https://www.zendesk.com/why-zendesk/zendesk-vs-gladly/・3回目）
+  - 「barrier to entry for small businesses」（https://www.zendesk.com/why-zendesk/zendesk-vs-gladly/・3回目）
+  - 「. The limited choices may be a performance barrier for scaling businesses.」（https://www.zendesk.com/why-zendesk/zendesk-vs-gladly/・3回目）
+  - 「—Darren O’Connor, manager of global advocacy at」（https://www.zendesk.com/why-zendesk/zendesk-vs-gladly/・3回目）
+  - 「Gladly Revenue 2024: $47.7M Est., $113M Raised」（https://getlatka.com/companies/gladly・3回目）
+  - 「Gladly has not published its revenue. GetLatka estimates it at about $47.7M a year (October 2024).」（https://getlatka.com/companies/gladly・3回目）
+  - 「All 3 revenue readings, with sources」（https://getlatka.com/companies/gladly・3回目）
+  - 「Gladly CEO, founders & employees」（https://getlatka.com/companies/gladly・3回目）
+- 連絡先：
+  - 「Every past chat, call, and email, threaded across all channels.」（https://www.gladly.ai/・1回目）
+  - 「Chat (Chat), email, SMS, and social Messaging Channels support ISO 639-1 language input and output.」（https://help.gladly.com/docs/supported-languages・3回目）
+  - 「How 4Patriots resolves 72% of conversations across chat, email, and voice」（https://www.gladly.ai/customers/・3回目）
+  - 「B2B email lists」（https://growjo.com/company/Gladly・3回目）
+  - 「B2B Email Finder」（https://growjo.com/company/Gladly・3回目）
+- 検索結果の抜粋：
+  - 「Gladly とは？ | 機能や料金、 導入 事例をご紹介【キャプテラ】 — Gladly とは？ | 機能や料金、 導入 事例をご紹介【キャプテラ】 capterra.jp https://www.capterra.jp > ... > Gladly」（https://www.capterra.jp/software/156723/gladly・3回目）
+  - 「リモートサービス説明・ご相談| GLADLY -ONE — リモートサービス説明・ご相談| GLADLY -ONE gladly-one.com https://www.gladly-one.com > online-contact」（https://www.gladly-one.com/online-contact・3回目）
+  - 「会社案内 - 株式会社グラッドリー — 会社案内 - 株式会社グラッドリー 株式会社グラッドリー https://gladly.co.jp > company」（https://gladly.co.jp/company/・3回目）
+  - 「Gladee Official Store — Gladee Official Store Gladee Official Store https://gladlygladee.com」（https://gladlygladee.com/・3回目）
+  - 「Supported Languages - Gladly Help and Product Docs — Supported Languages - Gladly Help and Product Docs Gladly AI https://help.gladly.com > docs > supp...」（https://help.gladly.com/docs/supported-languages・3回目）
+  - 「How to say gladly in Japanese - Tangorin.com — How to say gladly in Japanese - Tangorin.com Tangorin.com https://tangorin.com > how-to-say-in-japanese > gladly」（https://tangorin.com/how-to-say-in-japanese/gladly・3回目）
+  - 「Gladly Global - YouTube — Gladly Global - YouTube YouTube https://www.youtube.com > ERTAnime」（https://www.youtube.com/user/ERTAnime・3回目）
+  - 「GLADLY in Japanese - Cambridge Dictionary — GLADLY in Japanese - Cambridge Dictionary Cambridge Dictionary https://dictionary.cambridge.org > english-japanese > gladly」（https://dictionary.cambridge.org/dictionary/english-japanese/gladly・3回目）
+  - 「Customers - Gladly AI — Customers - Gladly AI Gladly AI https://www.gladly.ai > customers」（https://www.gladly.ai/customers/・3回目）
+  - 「Gladly Reinvents Customer Service. Again. - Forbes — Gladly Reinvents Customer Service. Again. - Forbes Forbes https://www.forbes.com > Business」（https://www.forbes.com/sites/gladly/2025/05/27/gladly-reinvents-customer-service-again/・3回目）
+  - 「Zendesk vs. Gladly : A comparison guide for 2026 — Zendesk vs. Gladly : A comparison guide for 2026 Zendesk https://www.zendesk.com > zendesk-...」（https://www.zendesk.com/why-zendesk/zendesk-vs-gladly/・3回目）
+  - 「The Top 16 Gladly Alternatives & Competitors for 2026 — The Top 16 Gladly Alternatives & Competitors for 2026 Kustomer https://www.kustomer.com > ... > Blog」（https://www.kustomer.com/resources/blog/gladly-alternatives-competitors/・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部38頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部38頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部38頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部38頁・検索12回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部38頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部38頁・検索12回）
+
+## Glamar
+- 公式URL：https://www.glamar.io（given）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）
+- 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）
+- 採用・広告の製品：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）
+- 製造業の実績：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）
+
+## Glean
+- 公式URL：https://www.glean.com（given）
+- 創業年度：設立：2019年03月（https://prtimes.jp/main/html/rd/p/000000004.000179911.html・3回目）
+- 創業年度：Founded：2019 ; 7 years ago ( 2019 )（https://en.wikipedia.org/wiki/Glean_Technologies・3回目）
+- 所在地：634 2nd Street, San Francisco, CA 94107（https://prtimes.jp/main/html/rd/p/000000004.000179911.html・3回目）
+- 所在地：Palo Alto, California（https://en.wikipedia.org/wiki/Glean_Technologies・3回目）
+- 採用・広告の製品：
+  - 「Glean – Enterprise AI that Works | Agents, Assistant & Search」（https://www.glean.com/・1回目）
+  - 「Enterprise AI that understands your company」（https://www.glean.com/・1回目）
+  - 「Complete context that makes AI work at enterprise scale.」（https://www.glean.com/・1回目）
+  - 「The world's leading enterprises put AI to work with Glean.」（https://www.glean.com/・1回目）
+  - 「Glean is built for enterprise scale.」（https://www.glean.com/・1回目）
+  - 「Integrated across enterprise tools your business runs on.」（https://www.glean.com/・1回目）
+  - 「Pre-connected enterprise context reduces token waste.」（https://www.glean.com/・1回目）
+  - 「Glean for Enterprises」（https://www.glean.com/・1回目）
+  - 「Enterprise-grade security.」（https://www.glean.com/・1回目）
+  - 「Built for enterprise from day one. AI only works in the enterprise when answers are secure, explainable, and permission-aware.」（https://www.glean.com/・1回目）
+  - 「Explore Glean Protect」（https://www.glean.com/・1回目）
+  - 「Enterprise AI people actually use. Flexible across models, trusted across the enterprise.」（https://www.glean.com/・1回目）
+- 製造業の実績：
+  - 「Trusted by today’s leaders」（https://www.glean.com/・1回目）
+  - 「Connect manufacturing knowledge across every line and plant」（https://www.glean.com/solutions/industries/industrials/manufacturing・1回目）
+  - 「Give manufacturing teams an AI coworker that helps accelerate product innovation, troubleshoot issues, and scale shop floor expertise across every line and plant.」（https://www.glean.com/solutions/industries/industrials/manufacturing・1回目）
+  - 「Move work forward from design to the shop floor」（https://www.glean.com/solutions/industries/industrials/manufacturing・1回目）
+  - 「Discover how Glean helps manufactureres turn fragmented product, process, and operational context into faster decisions, cleaner handoffs, and more resilient operations.」（https://www.glean.com/solutions/industries/industrials/manufacturing・1回目）
+  - 「Help operators and technicians quickly work from the right relevant SOPs, maintenance logs, and prior incident reports so issues are resolved safely and documented accurately.」（https://www.glean.com/solutions/industries/industrials/manufacturing・1回目）
+  - 「Generative AI for manufacturing」（https://www.glean.com/solutions/industries/industrials/manufacturing・1回目）
+  - 「A Agentic AI for manufacturing」（https://www.glean.com/solutions/industries/industrials/manufacturing・1回目）
+  - 「AI solutions for manufacturing」（https://www.glean.com/solutions/industries/industrials/manufacturing・1回目）
+  - 「Ramp new plant and corporate teams.」（https://www.glean.com/solutions/industries/industrials/manufacturing・1回目）
+  - 「Give new employees one place to access training materials, work instructions, and plant-specific guidance.」（https://www.glean.com/solutions/industries/industrials/manufacturing・1回目）
+  - 「How can enterprise AI help manufacturing teams diagnose and resolve shop-floor issues faster than traditional search or SOPs?」（https://www.glean.com/solutions/industries/industrials/manufacturing・1回目）
+- 再販・ホワイトラベル：
+  - 「Join a global ecosystem of cloud providers, consulting firms, resellers, and technology partners helping customers deploy Glean and put enterprise AI into practice.」（https://www.glean.com/partners・1回目）
+  - 「Value-added resellers」（https://www.glean.com/partners・1回目）
+  - 「The Glean Partner Network is a global ecosystem of cloud providers, consulting firms, resellers, and technology companies that help enterprise customers deploy and maximize Glean's Work AI platform.」（https://www.glean.com/partners・1回目）
+  - 「We work with Cloud Providers, Consulting & GSI Partners, Value-Added Resellers, and Technology Partners. Each has its own program track.」（https://www.glean.com/partners・1回目）
+  - 「Yes. Glean is available through our authorized resellers and on cloud marketplaces (AWS, Google Cloud, Azure), allowing you to use existing committed spend.」（https://www.glean.com/partners・1回目）
+- 日本の担い手：
+  - 「Gleanは、2023年5月にアシストとのパートナーシップを結び、日本市場での展開が開始されました」（https://note.com/hiroshikinoshita/n/n32be989aaaf5・3回目）
+  - 「これにより、アシストは日本国内で初めてGleanを提供することとなり、多くの企業に対してDX推進や情報管理の効率化を支援しています」（https://note.com/hiroshikinoshita/n/n32be989aaaf5・3回目）
+  - 「Gleanは、2023年5月にアシストとのパートナーシップを結び、日本市場への展開が開始された」（https://note.com/hiroshikinoshita/n/n32be989aaaf5・3回目）
+  - 「これにより、アシストは日本国内で初めてGleanを提供し、多くの企業に対してDX推進や情報管理の効率化を支援している」（https://note.com/hiroshikinoshita/n/n32be989aaaf5・3回目）
+  - 「.Aiエージェントを手掛けるカスタマークラウドは、日本初となる企業AI脳「LBAI」やAIがAIを進化させる「AI2AI」の概念を提唱し、 数百社におよぶレガシー産業のDX化・AI導入を成功に導いてきました」（https://note.com/hiroshikinoshita/n/n32be989aaaf5・3回目）
+  - 「✅ 日本初のLLMO特化サービス「.Ai SEO」でPRを革新」（https://note.com/hiroshikinoshita/n/n32be989aaaf5・3回目）
+  - 「は、2023年5月の日本初上陸以降、多くの国内企業様にご導入いただいています」（https://www.ashisuto.co.jp/cm/glean-blog/enterprise-search/whychooseglean.html・3回目）
+  - 「AIやBI分野のマーケティングを経て、2023年より「Glean」の日本国内での立ち上げに参加」（https://www.ashisuto.co.jp/cm/glean-blog/enterprise-search/whychooseglean.html・3回目）
+  - 「米国Glean社と代理店契約締結、統合型企業内ナレッジ活用AIプラットフォームを国内販売開始〜企業における生成AI導入・活用を迅速かつ安全に〜|東京エレクトロンデバイス」（https://www.teldevice.co.jp/pro_info/2025/press_250918.php・3回目）
+  - 「米国Glean社と代理店契約締結、統合型企業内ナレッジ活用AIプラットフォームを国内販売開始」（https://www.teldevice.co.jp/pro_info/2025/press_250918.php・3回目）
+  - 「東京エレクトロン デバイス株式会社（本社：東京都渋谷区、代表取締役社長・CEO：徳重 敦之、以下TED) は、Glean Technologies, Inc.（グリーン テクノロジーズ、本社：米国 カリフォルニア州、Founder & CEO: Arvind Jain、以下、Glean）と販売代理店契約を締結し、統合型企業内ナレッジ活用AIプラットフォーム の販売を2025年9月18日より開始します」（https://www.teldevice.co.jp/pro_info/2025/press_250918.php・3回目）
+  - 「セキュア設計： 既存の権限設定を尊重し、日本企業が重視する最高基準の情報セキュリティに対応」（https://www.teldevice.co.jp/pro_info/2025/press_250918.php・3回目）
+- 規模・親会社：
+  - 「“The vision was to marry enterprise knowledge with world knowledge to help employees work faster, smarter, better.”」（https://www.glean.com/・1回目）
+  - 「“Glean has put advanced AI that’s easy to use into the hands of every single person at Motive. It’s helped make AI less of a mystery, and more a part of how everyone works.”」（https://www.glean.com/・1回目）
+  - 「Booking.com scales AI across 14,000 employees with Glean.」（https://www.glean.com/・1回目）
+  - 「"The vision was to marry enterprise knowledge with world knowledge to help employees work faster, smarter, better."」（https://www.glean.com/・1回目）
+  - 「Bring AI into the tools employees already use.」（https://www.glean.com/・1回目）
+  - 「Give new employees one place to access training materials, work instructions, and plant-specific guidance.」（https://www.glean.com/solutions/industries/industrials/manufacturing・1回目）
+  - 「Booking.com scales AI to 14,000 employees—and redefines work—with Glean」（https://www.glean.com/solutions/industries/industrials/manufacturing・1回目）
+  - 「With customer data and product information spread across tools and systems, employees struggled to provide superior customer experiences and to deliver new and repeat business.」（https://www.glean.com/solutions/industries/retail・1回目）
+  - 「of employees report Glean is valuable to their jobs」（https://www.glean.com/solutions/industries/retail・1回目）
+  - 「Turn policies, product knowledge, and store procedures into on-demand guidance so new and seasonal employees can self-serve answers and get productive quickly.」（https://www.glean.com/solutions/industries/retail・1回目）
+  - 「How can Glean reduce onboarding time for retail employees across stores and corporate teams?」（https://www.glean.com/solutions/industries/retail・1回目）
+  - 「Glean gives new hires a faster way to find training materials, product information, operating procedures, and role-specific guidance. Instead of depending on ad hoc handoffs or tribal knowledge, employees can get answers from the sources their teams already use. That helps store associates, support teams, and corporate employees ramp faster.」（https://www.glean.com/solutions/industries/retail・1回目）
+- 連絡先：
+  - 「How does Glean combine structured retail data with unstructured docs, emails, and wikis so teams can chat with their data?」（https://www.glean.com/solutions/industries/retail・1回目）
+  - 「Glean brings structured data and unstructured knowledge into one governed experience. Teams can ask questions that connect metrics from data systems with the documents, emails, policies, and team knowledge that explain what the numbers mean. That gives retail teams more context for decisions, not just isolated data points.」（https://www.glean.com/solutions/industries/retail・1回目）
+  - 「Compile contracts, RFIs, directives, emails, and change events into a single timeline to support claims and audits without reconstructing history by hand.」（https://www.glean.com/solutions/industries/professional-services/construction・1回目）
+  - 「AI can bring internal deal history and trusted market research into one workflow, making it easier to spot patterns, compare past work, and build more consistent investment theses. It can also help teams create investment committee materials faster by surfacing relevant context from notes, decks, emails, and prior diligence files, reducing repeated work and giving teams more time for analysis.」（https://www.glean.com/solutions/industries/financial-services/private-equity-venture-capital・1回目）
+  - 「"Calibrations, email, presentations, content creation, etc., have gotten so much easier. I've seen stats that say Glean saves people 2-3 hours of time a week, but I know it's saving me a lot more time than that, and if you're not using Glean today, you really should be.”」（https://www.glean.com/platform/enterprise-context・1回目）
+  - 「could expand into meeting summarization, email management, project tracking, and automated workflow creation. This positions them to capture share in the emerging enterprise AI assistant market, estimated to reach $40B+ by 2027.」（https://sacra.com/c/glean/・3回目）
+- 検索結果の抜粋：
+  - 「アシスタント、検索を統合するAIプラットフォーム - Glean — アシスタント、検索を統合するAIプラットフォーム - Glean Glean https://www.glean.com > ...」（https://www.glean.com/jp・3回目）
+  - 「Glean | NTTデータ — Glean | NTTデータ NTT Data https://www.nttdata.com > ホーム > ラインナップ > Glean」（https://www.nttdata.com/jp/ja/lineup/glean/・3回目）
+  - 「検索生成AI ：「 Glean 」グリーンについての詳細ーー ... - note — 検索生成AI ：「 Glean 」グリーンについての詳細ーー ... - note note https://note.com > 科学・テクノロジー > AI・機械学習」（https://note.com/hiroshikinoshita/n/n32be989aaaf5・3回目）
+  - 「Glean の 導入 企業に聞きました！採用理由と解決したかった ... — Glean の 導入 企業に聞きました！採用理由と解決したかった ... Ashisuto https://www.ashisuto.co.jp > glean-blog > whychooseglean」（https://www.ashisuto.co.jp/cm/glean-blog/enterprise-search/whychooseglean.html・3回目）
+  - 「注目される｢企業内検索｣ その必要性や価値は？米国 Glean 社の ... — 注目される｢企業内検索｣ その必要性や価値は？米国 Glean 社の ... 双日テックイノベーション https://collab.sojitz-ti.com > blog > etc > in-company-sear...」（https://collab.sojitz-ti.com/blog/etc/in-company-search-its-necessity-and-value.html・3回目）
+  - 「Glean Work AI — Glean Work AI Glean https://www.glean.com > about」（https://www.glean.com/jp/about・3回目）
+  - 「グリーンの採用情報 | Glean Work AI — グリーンの採用情報 | Glean Work AI Glean https://www.glean.com > careers」（https://www.glean.com/jp/careers・3回目）
+  - 「パートナー | Glean Work AI — パートナー | Glean Work AI Glean https://www.glean.com > partners」（https://www.glean.com/jp/partners・3回目）
+  - 「米国 Glean 社と 代理店 契約締結、統合型企業内ナレッジ活用AI ... — 米国 Glean 社と 代理店 契約締結、統合型企業内ナレッジ活用AI ... 東京エレクトロンデバイス https://www.teldevice.co.jp > pro_info > press_250918」（https://www.teldevice.co.jp/pro_info/2025/press_250918.php・3回目）
+  - 「Glean – Enterprise AI that Works | Agents, Assistant & Search — Glean – Enterprise AI that Works | Agents, Assistant & Search Glean https://www.glean.com」（https://www.glean.com/・3回目）
+  - 「Glean Corporation ( Japan ) | Network Test & Measurement ... — Glean Corporation ( Japan ) | Network Test & Measurement ... Glean Corporation https://netglean.com」（https://netglean.com/・3回目）
+  - 「Glean 、小澤正治を 日本 カントリーマネージャーに任命し — Glean 、小澤正治を 日本 カントリーマネージャーに任命し PR TIMES https://prtimes.jp > 経営情報」（https://prtimes.jp/main/html/rd/p/000000004.000179911.html・3回目）
+- 株主：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部28頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部28頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部28頁・検索12回）
+- 料金：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部28頁・検索12回）
+
+## Glitzi
+- 公式URL：https://glitzi.com.mx/（given）
+- 採用・広告の製品：
+  - 「Pre Buen Fin: 10% en spa, uñas y belleza a domicilio del 5 al 12 de noviembre.」（https://glitzi.com.mx/・1回目）
+  - 「Oferta válida del 12 al 17 de noviembre de 2026. Consulta tiendas participantes en www.buenfin.org. Preventa del 5 al 12 de noviembre. Servicio a domicilio. No aplica a paquetes ni membresías.」（https://glitzi.com.mx/・1回目）
+  - 「Tu experiencia premium」（https://glitzi.com.mx/・1回目）
+  - 「Glam perfecto y profesional.」（https://glitzi.com.mx/・1回目）
+  - 「primera clase del wellness a domicilio」（https://glitzi.com.mx/・1回目）
+  - 「Quede muy contenta, definitivamente la contrataría otra vez」（https://glitzi.com.mx/・1回目）
+  - 「Siempre muy amable y atenta」（https://glitzi.com.mx/・1回目）
+  - 「Glitzi Globes Surprise Eggs with Disney Princess Ariel and Aurora」（https://www.youtube.com/watch?v=I23rjYjkUZA・3回目）
+  - 「Giant Surprise Egg 1 - Barbie, Monster High, Peppa Pig, and Play Doh - Toys R Us Shopping Spree」（https://www.youtube.com/watch?v=I23rjYjkUZA・3回目）
+  - 「http://www.timetoplaymag.com/product/...」（https://www.youtube.com/watch?v=I23rjYjkUZA・3回目）
+  - 「Learn how your comment data is processed.」（https://www.adayinmotherhood.com/glitzi-globes/・3回目）
+  - 「current price Now $11.00, Was $22.86」（https://www.walmart.ca/en/c/brand/glitzi-globes・3回目）
+- 検索結果の抜粋：
+  - 「Glitzi Globes Glitzi Showcase from Moose Toys - YouTube — Glitzi Globes Glitzi Showcase from Moose Toys - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=I23rjYjkUZA・3回目）
+  - 「Glitzi Globes are Creative Fun for Kids Review — Glitzi Globes are Creative Fun for Kids Review A Day in Motherhood https://www.adayinmotherhood.com > ...」（https://www.adayinmotherhood.com/glitzi-globes/・3回目）
+  - 「Glitzi Globes - Walmart Canada — Glitzi Globes - Walmart Canada Walmart https://www.walmart.ca > glitzi-globes」（https://www.walmart.ca/en/c/brand/glitzi-globes・3回目）
+  - 「Glitzi 2026 Company Profile: Valuation, Funding & Investors — Glitzi 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/265996-90・3回目）
+  - 「5: Building Glitzi - Interview with Ana Ramos - LinkedIn — 5: Building Glitzi - Interview with Ana Ramos - LinkedIn LinkedIn https://www.linkedin.com > pulse > 5...」（https://www.linkedin.com/pulse/5-building-glitzi-interview-ana-ramos-anais-cisneros-ekaze・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）
+- 料金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）
+- 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）
+- 製造業の実績：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）
+
+## Gloat
+- 公式URL：https://www.gloat.com（given）
+- 株主：$91.6M（https://getlatka.com/companies/gloatcom・3回目）
+- 採用・広告の製品：
+  - 「Gloat - Agentic HR Platform & AI Workforce Agents」（https://gloat.com/・1回目）
+  - 「Any workforce agent, shipped in weeks.」（https://gloat.com/・1回目）
+  - 「Agentic HR. Pre-built. Enterprise-ready. Live on your HCM in weeks.」（https://gloat.com/・1回目）
+  - 「Workforce Intelligence」（https://gloat.com/・1回目）
+  - 「Run Q3 reviews, onboard new hires, or process comp adjustments end-to-end — freeing HRBPs to do strategic work.」（https://gloat.com/・1回目）
+  - 「Build succession plans, model 2027 workforce capacity, or flag EMEA skill gaps a quarter early — turning planning cycles into real-time moves.」（https://gloat.com/・1回目）
+  - 「Pick from a library of pre-built HR agents — live in days, not quarters.」（https://gloat.com/・1回目）
+  - 「Traditional HCMs were designed for humans making decisions, systems recording them. Gloat is architected for workforce intelligence and autonomous execution at enterprise scale.」（https://gloat.com/・1回目）
+  - 「Your policies. Your approval chains. Your rules. Every action is explainable, auditable, and reversible.」（https://gloat.com/・1回目）
+  - 「Powered by Loomra™. The Workforce Context Engine」（https://gloat.com/・1回目）
+  - 「Loomra™ is a purpose-built AI architecture for workforce decisions. Every layer is optimized for accuracy, context, and governed action. This is how agents understand your workforce deeply enough to act.」（https://gloat.com/・1回目）
+  - 「A living map of your workforce. People, skills, roles, and relationships stored as connected entities, enabling traversal queries no relational database can answer.」（https://gloat.com/・1回目）
+- 製造業の実績：
+  - 「Case Study: Schneider Electric」（https://gloat.com/wp-content/uploads/Schneider-Electric-Gloat-Case-Study.pdf・3回目）
+  - 「Gloat was founded in 2015 by Ben Reuveni, Amichai Schreiber and Danny Shteinberg, with the belief that the traditional approach to work, jobs and careers that has been at the heart of enterprise operations since the industrial revolution is now holding businesses and their people back. In an age where the speed of change demands」（https://gloat.com/blog/gloat-raises-57m-series-c-to-help-employees-thrive-and-businesses-execute-faster-in-the-new-world-of-work/・3回目）
+  - 「Deskera is a cloud business software company. Its products cover ERP, MRP, accounting, inventory, CRM, payroll and HR for growing businesses and manufacturers. It has offices in Minneapolis in the United States and in Singapore.」（https://multiples.vc/private-comps/gloat・3回目）
+- 日本の担い手：
+  - 「しかし実際には、こうした「小さな停滞」の積み重ねこそが、地域経済や日本全体の成長力をじわじわと損ねています」（https://dfplus.io/iq/blog/ai-hr-guide-labor-redisign・3回目）
+  - 「しかし、日本における人手不足の本質はもう少し深いところにあります」（https://dfplus.io/iq/blog/ai-hr-guide-labor-redisign・3回目）
+  - 「日本の労働力問題は「全体として不足している」のではなく、「過不足のバランスが崩れている」状態」（https://dfplus.io/iq/blog/ai-hr-guide-labor-redisign・3回目）
+  - 「日本語WordNet(英和)での「gloat」の意味」（https://ejje.weblio.jp/content/gloat・3回目）
+- 規模・親会社：
+  - 「Teams, Slack, Zoom, Copilot, mobile. Agents show up in the surfaces employees already use.」（https://gloat.com/・1回目）
+  - 「Agents reach employees in Teams, Slack, or email. No portal logins. No friction. Just help that comes to them.」（https://gloat.com/・1回目）
+  - 「SAP SuccessFactors helps businesses bring HR closer to their employees, so they are more engaged, more productive, and much smarter about the way they work.」（https://gloat.com/partners/・1回目）
+  - 「HR operations and outsourcing services · Workforce forecasting and planning · Talent acquisition · Talent and skill development · Core employee data management.」（https://gloat.com/partners/・1回目）
+  - 「Join Gloat and be part of something bigger, part of the journey of redefining the way the world works.」（https://gloat.com/careers/・1回目）
+  - 「AI should help people make informed decisions, rather than obscuring, limiting, or skewing their perspectives. Gloat’s AI is built to empower the people who come into contact with it, from junior employees to high level decision-makers. We’re committed to remaining ‘recommendation-based’ and to empowering our users with more informed decision-making.」（https://gloat.com/about-us/gloats-commitment-to-ethical-ai/・1回目）
+  - 「This new architecture is now flooded with tools. These include Sana (Workday), Oracle Agent Studio, Microsoft Copilot Studio, Leena.ai, ServiceNow (with new agents coming from its MoveWorks acquisition), SAP (Joule Studio), and of course the Agent tools from Anthropic, OpenAI, Google, and others.」（https://joshbersin.com/2026/03/gloat-enters-the-crowded-war-for-ai-agents-in-hr/・3回目）
+  - 「is like an advisor or HR professional agent, by the way, that gives employees a way to ask questions, get answers, and access the agents underneath.」（https://joshbersin.com/2026/03/gloat-enters-the-crowded-war-for-ai-agents-in-hr/・3回目）
+  - 「We actually built an agent like this in Galileo and it needs to understand skill and job requirements and then coach employees and managers on their options. This Superagent should also know what training is available, understand location issues, job licensing, union issues, pay level, and other factors.」（https://joshbersin.com/2026/03/gloat-enters-the-crowded-war-for-ai-agents-in-hr/・3回目）
+  - 「Other common use cases include global onboarding, promotion, annual reviews and compensation, and the entire process of talent acquisition, employee certification, time and schedule management, and more.」（https://joshbersin.com/2026/03/gloat-enters-the-crowded-war-for-ai-agents-in-hr/・3回目）
+  - 「What differentiates Gloat’s Agentic HR platform is the workforce context layer beneath it. Gloat’s Workforce Context Engine, Loomra, is built on nearly a decade of enterprise-scale workforce data, modeling skill adjacencies, career trajectories, organizational patterns, and workforce relationships across millions of employees globally.」（https://joshbersin.com/2026/03/gloat-enters-the-crowded-war-for-ai-agents-in-hr/・3回目）
+  - 「: rather than answering “show me employees who know Python,” they can reason about which employees could transition into AI engineering roles this year, which teams are most exposed to future skill gaps, and where talent should be redeployed as business priorities shift.」（https://joshbersin.com/2026/03/gloat-enters-the-crowded-war-for-ai-agents-in-hr/・3回目）
+- 連絡先：
+  - 「Agents reach employees in Teams, Slack, or email. No portal logins. No friction. Just help that comes to them.」（https://gloat.com/・1回目）
+  - 「Resubscribe to our email distribution list」（https://brandonhall.com/gloat-revolutionizing-workforce-agility-with-ai-driven-talent-management/・3回目）
+  - 「email distribution list.」（https://brandonhall.com/gloat-revolutionizing-workforce-agility-with-ai-driven-talent-management/・3回目）
+- 検索結果の抜粋：
+  - 「Gloat .com : 世界初AIベースの社内人材キャリア開発 ... — Gloat .com : 世界初AIベースの社内人材キャリア開発 ... AT PARTNERS https://www.atpartners.co.jp > news > 2021-07-10-gloat.c...」（https://www.atpartners.co.jp/news/2021-07-10-gloat.com-:-the-worlds-first-ai-based-internal-talent-career-development-platform・3回目）
+  - 「テルモさん、すでに GLOAT を 導入 、稼働させていらっしゃる ... — テルモさん、すでに GLOAT を 導入 、稼働させていらっしゃる ... LinkedIn https://jp.linkedin.com > posts > kenken747_テルモさん...」（https://jp.linkedin.com/posts/kenken747_%E3%83%86%E3%83%AB%E3%83%A2%E3%81%95%E3%82%93%E3%81%99%E3%81%A7%E3%81%ABgloat%E3%82%92%E5%B0%8E%E5%85%A5%E7%A8%BC%E5%83%8D%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%82%89%E3%81%A3%E3%81%97%E3%82%83%E3%82%8B%E3%82%93%E3%81%A7%E3%81%99%E3%81%AD-%E3%81%93%E3%82%8C%E3%81%AF%E6%98%AF%E9%9D%9E%E4%B8%80%E5%BA%A6-activity-7277964508688523265-YagS・3回目）
+  - 「英語「 gloat 」の意味・使い方・読み方 | Weblio英和辞書 — 英語「 gloat 」の意味・使い方・読み方 | Weblio英和辞書 Weblio英和和英辞典 https://ejje.weblio.jp > 英和辞典・和英辞典 > 英和辞典」（https://ejje.weblio.jp/content/gloat・3回目）
+  - 「テルモさん、すでに GLOAT を導入、稼働させていらっしゃる ... — テルモさん、すでに GLOAT を導入、稼働させていらっしゃる ... LinkedIn https://jp.linkedin.com > posts > kenken747_テルモさん...」（https://jp.linkedin.com/posts/kenken747_%E3%83%86%E3%83%AB%E3%83%A2%E3%81%95%E3%82%93%E3%81%99%E3%81%A7%E3%81%ABgloat%E3%82%92%E5%B0%8E%E5%85%A5%E7%A8%BC%E5%83%8D%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%82%89%E3%81%A3%E3%81%97%E3%82%83%E3%82%8B%E3%82%93%E3%81%A7%E3%81%99%E3%81%AD-%E3%81%93%E3%82%8C%E3%81%AF%E6%98%AF%E9%9D%9E%E4%B8%80%E5%BA%A6-activity-7277964508688523265-YagS・3回目）
+  - 「Talk to us - Gloat — Talk to us - Gloat Gloat https://gloat.com > talk-to-us」（https://gloat.com/talk-to-us/・3回目）
+  - 「Gloat Enters The Crowded War For AI Agents in HR — Gloat Enters The Crowded War For AI Agents in HR Josh Bersin https://joshbersin.com > 2026/03 > gl...」（https://joshbersin.com/2026/03/gloat-enters-the-crowded-war-for-ai-agents-in-hr/・3回目）
+  - 「Gloat - LinkedIn — Gloat - LinkedIn LinkedIn https://www.linkedin.com > gloat」（https://www.linkedin.com/company/gloat・3回目）
+  - 「Gloat - Agentic HR Platform & AI Workforce Agents — Gloat - Agentic HR Platform & AI Workforce Agents Gloat https://gloat.com」（https://gloat.com/・3回目）
+  - 「Customer Stories Hub | Gloat — Customer Stories Hub | Gloat Gloat https://gloat.com > customer-stories」（https://gloat.com/resource-hub/customer-stories/・3回目）
+  - 「How Gloat Creates Career Opportunities for All Abilities — How Gloat Creates Career Opportunities for All Abilities Level Access https://www.levelaccess.com > how-gl...」（https://www.levelaccess.com/resources/how-gloat-creates-career-growth-opportunities-for-people-of-all-abilities/・3回目）
+  - 「Schneider Electric | Gloat — Schneider Electric | Gloat Gloat PDF https://gloat.com > wp-content > uploads > Schneide...」（https://gloat.com/wp-content/uploads/Schneider-Electric-Gloat-Case-Study.pdf・3回目）
+  - 「Gloat : Revolutionizing Workforce Agility with AI-Driven Talent ... — Gloat : Revolutionizing Workforce Agility with AI-Driven Talent ... Brandon Hall Group https://brandonhall.com > gloat-revol...」（https://brandonhall.com/gloat-revolutionizing-workforce-agility-with-ai-driven-talent-management/・3回目）
+- 創業年度：記載なし（3回確認済み：公式6頁／PDF・画像1件／外部36頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式6頁／PDF・画像1件／外部36頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式6頁／PDF・画像1件／外部36頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式6頁／PDF・画像1件／外部36頁・検索12回）
+- 料金：記載なし（3回確認済み：公式6頁／PDF・画像1件／外部36頁・検索12回）
+- 再販・ホワイトラベル：記載なし（3回確認済み：公式6頁／PDF・画像1件／外部36頁・検索12回）
 
 ## Go
 - 公式URL：https://www.givecampus.com/（given）
@@ -40152,6 +45626,59 @@ JPタワー14F（https://prtimes.jp/main/html/rd/p/000000010.000041324.html・3�
 - 所在地：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部36頁・検索12回）
 - 料金：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部36頁・検索12回）
 - 再販・ホワイトラベル：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部36頁・検索12回）
+
+## enginy.ai
+- 公式URL：https://enginy.ai（given）
+- 採用・広告の製品：
+  - 「All-in-One B2B Sales Platform for Prospecting | Enginy」（https://www.enginy.ai/・1回目）
+  - 「From finding prospects to booking meetings:」（https://www.enginy.ai/・1回目）
+  - 「Teach leads in SF with 5+ years of ex」（https://www.enginy.ai/・1回目）
+  - 「Find and Enrich Prospects」（https://www.enginy.ai/・1回目）
+  - 「Describe your ICP and get a list of qualified prospects, with verified data, in seconds.」（https://www.enginy.ai/・1回目）
+  - 「AI prioritizes intent, drafts replies, and books meetings by sharing your calendar for you.」（https://www.enginy.ai/・1回目）
+  - 「Google specializes in internet-related services and products, including search, advertising, and software.」（https://www.enginy.ai/・1回目）
+  - 「Sequoia Capital is a VC firm that invests in startups in the energy, financial, enterprise, healthcare, internet, and mobile industries.」（https://www.enginy.ai/・1回目）
+  - 「Detect real intent from job changes, hiring, and tech stack updates to act with perfect timing and relevance.」（https://www.enginy.ai/・1回目）
+  - 「Combine waterfall enrichment across 30+ data sources with AI research to get verified contacts and rich profile and company context.」（https://www.enginy.ai/・1回目）
+  - 「ES / C-level & IT Heads / Software」（https://www.enginy.ai/・1回目）
+  - 「Hey Patrick, I saw your profile at Stripe and was impressed by your work in payments and infrastructure.」（https://www.enginy.ai/・1回目）
+- 製造業の実績：
+  - 「Trusted by market leaders」（https://www.enginy.ai/・1回目）
+  - 「Trusted by market leaders」（https://www.enginy.ai/partners・1回目）
+  - 「Trusted by market leaders」（https://www.enginy.ai/pricing・1回目）
+  - 「Industrial Engineering」（https://www.enginy.ai/customers・1回目）
+  - 「Trusted by market leaders」（https://www.enginy.ai/customers・1回目）
+  - 「Factorial customer case study | Enginy (formerly Genesy)」（https://www.enginy.ai/customers/factorial・1回目）
+  - 「seQura customer case study | Enginy (formerly Genesy)」（https://www.enginy.ai/customers/sequra・1回目）
+  - 「Trusted by market leaders」（https://www.enginy.ai/find/find-people-companies・1回目）
+- 再販・ホワイトラベル：
+  - 「B2B sales teams that run outbound: SaaS companies, recruitment agencies, IT consultancies, cybersecurity firms, and professional services. Whether you have 3 SDRs or 180, Enginy scales with your team. Venair grew lead generation 2 to 3x across 20+ global delegations using Enginy as their central prospecting engine.」（https://www.enginy.ai/・1回目）
+- 規模・親会社：
+  - 「SVP Revenue @ Factorial」（https://www.enginy.ai/・1回目）
+  - 「Chief Revenue Officer at」（https://www.enginy.ai/・1回目）
+  - 「Estimate the revenue you unlock and the time your team saves. See your ROI with Enginy in seconds.」（https://www.enginy.ai/・1回目）
+  - 「25% in recurring revenue」（https://www.enginy.ai/partners・1回目）
+  - 「1600 employees」（https://www.enginy.ai/customers・1回目）
+  - 「1600 employees」（https://www.enginy.ai/customers/factorial・1回目）
+  - 「Apply familiar filters at people and company level, or tweak prompts, to narrow down your ideal prospects.」（https://www.enginy.ai/find/find-people-companies・1回目）
+  - 「People: job title, geography, function, seniority, years in the company, profile language and school. Companies: industry, headcount, annual revenue, recent activity and open job postings. You can combine them with an AI prompt to narrow the list to your ideal customer profile.」（https://www.enginy.ai/find/find-people-companies・1回目）
+  - 「If you believe the future of sales should be smarter, more personal, and more human… then you’re already part of this movement.」（https://www.enginy.ai/resources/about-us・1回目）
+- 連絡先：
+  - 「Expand your market coverage with personalized outreach across email and social.」（https://www.enginy.ai/・1回目）
+  - 「Verified emails & phones」（https://www.enginy.ai/・1回目）
+  - 「Pull accurate emails & phones from 30+ trusted providers.」（https://www.enginy.ai/・1回目）
+  - 「email and social channels」（https://www.enginy.ai/・1回目）
+  - 「Verified phones and emails」（https://www.enginy.ai/pricing・1回目）
+  - 「Pull emails & phones from 20+ verified providers.」（https://www.enginy.ai/pricing・1回目）
+  - 「Enginy combines up-to-date professional profiles with company signals (funding, hiring, tech stack, location). It then finds verified emails and phone numbers through waterfall enrichment across 30+ data providers.」（https://www.enginy.ai/find/find-people-companies・1回目）
+  - 「A B2B database is a collection of company and professional contact information, such as industry, company size, job titles and work emails, that sales and marketing teams use to find and reach potential customers. With Enginy you search it with AI and keep every record enriched and up to date.」（https://www.enginy.ai/find/find-people-companies・1回目）
+- 創業年度：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部24頁・検索12回）
+- 株主：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部24頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部24頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部24頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部24頁・検索12回）
+- 料金：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部24頁・検索12回）
+- 日本の担い手：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部24頁・検索12回）
 
 ## mailforge.ai
 - 公式URL：https://mailforge.ai（given）

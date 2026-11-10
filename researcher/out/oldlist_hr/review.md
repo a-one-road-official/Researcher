@@ -863,3 +863,120 @@
 - 「それが「Gojiberry」で、毎月の売上は42万4,368ドル、日本円で約6,800万円です」（https://note.com/yuki0627/n/n3e8164a762f3?hl=en）
 - 「LinkedIn は日本では転職サービスとして知られていますが、法人営業の連絡手段としても使われています」（https://note.com/yuki0627/n/n3e8164a762f3?hl=en）
 - 「日本の EDOCODE という会社が運営する同名のアプリで、この記事で扱う gojiberry.ai とは関係がありません」（https://note.com/yuki0627/n/n3e8164a762f3?hl=en）
+
+## Gloat（https://www.gloat.com）
+- 「しかし実際には、こうした「小さな停滞」の積み重ねこそが、地域経済や日本全体の成長力をじわじわと損ねています」（https://dfplus.io/iq/blog/ai-hr-guide-labor-redisign）
+- 「しかし、日本における人手不足の本質はもう少し深いところにあります」（https://dfplus.io/iq/blog/ai-hr-guide-labor-redisign）
+- 「日本の労働力問題は「全体として不足している」のではなく、「過不足のバランスが崩れている」状態」（https://dfplus.io/iq/blog/ai-hr-guide-labor-redisign）
+- 「135,000 employees」（https://gloat.com/wp-content/uploads/Schneider-Electric-Gloat-Case-Study.pdf）
+
+## Gimo（https://gimo.vn/en）
+- 「Gimo, Sakai, Japan - Reviews, Ratings, Tips and Why You Should Go – Wanderlog」（https://wanderlog.com/place/details/3074754/gimo）
+- 「1 Chome-326 Takagichuo, Fukui, 910-0804, Japan」（https://wanderlog.com/place/details/3074754/gimo）
+- 「「gimoという作品を日本だけでなく海外の方にも知って頂き、愛されるキャラクタにしていきたいです」（https://note.com/0x_tama/n/n549eae34ab8c）
+
+## Getshogun（https://getshogun.com）
+- 「Tokyo, Japan」（https://getshogun.com/partners）
+
+## Getaccept（https://www.getaccept.com）
+- 「インターフェース自体は現在英語のみだが、共有するコンテンツについては日本語を含むあらゆる言語に対応」（https://techblitz.com/startup-interview/getaccept/）
+- 「日本語のPDFをアップロードすれば、そのまま日本語で表示される」（https://techblitz.com/startup-interview/getaccept/）
+- 「また、我々の組み込みエディタも日本語文字を扱うことができます」」（https://techblitz.com/startup-interview/getaccept/）
+- 「Can I choose to pay in a different currency than the ones listed on your website?」（https://www.getaccept.com/pricing）
+
+## Get Carrot（https://www.get-carrot.com/）
+- 「現在、このコンテンツを日本語でご利用いただけるよう準備を進めております」（https://www.get-carrot.com/ja-jp）
+- 「To cut into irregular chunks, simply rotate the ingredient 90 degrees as you cut. This technique is frequently used in Japanese cooking because it helps keep the pieces uniform in size.」（https://note.com/travelingfoodlab/n/n29102c55b6d7?hl=en）
+
+## Gen1E（https://www.gen1elifesci.com）
+- 「Read Forbes Japan Article」（https://www.gen1e.com/）
+- 「2018年に当社を設立してから、日本を含め世界中を対象に、有効な技術を探しました」（https://techblitz.com/startup-interview/geni1e-lifesciences/）
+- 「日本や中国も米国と同じ状況ですし、インドではよりひどい状況にあります」（https://techblitz.com/startup-interview/geni1e-lifesciences/）
+
+## Fullenrich（https://fullenrich.com）
+- 「FullEnrich（フルエンリッチ）とは？料金・機能・日本語対応まとめ | SaaSナビ」（https://saasnavi.net/tools/fullenrich/）
+- 「Q. FullEnrich（フルエンリッチ）は日本語に対応していますか？」（https://saasnavi.net/tools/fullenrich/）
+- 「日本語対応 (3)」（https://saasnavi.net/alternative/fullenrich/）
+
+## Fox Robotics（https://www.foxrobotics.com/）
+- 「直近の2,400万ドルの資金調達ラウンドに参加した日本航空のような投資家パートナーによってもたらされた機会は、既存の顧客との関係を構築するだけでなく、さまざまな業種での事業拡大への道を開き、今後の大きな成長の可能性に向けて事業を拡大する上で極めて重要です」（https://japanairlinesventures.com/ja/portfolio/foxrobotics/）
+- 「Main: Summary of Content and Significance + Comparison with Japan」（https://note.com/yamarikiedge/n/nc209aab5f765?hl=en）
+- 「Dr. Fox's work at AI2 will open new doors for AI and robotics. Such movements have an impact that spreads across the entire industry, encouraging new challenges for researchers and engineers around the world, including in Japan.」（https://note.com/yamarikiedge/n/nc209aab5f765?hl=en）
+
+## Foreplay（https://foreplay.co）
+- 「日本語WordNet(英和)での「Foreplay」の意味」（https://ejje.weblio.jp/content/Foreplay）
+- 「卑猥な日本の可愛い人、篠原優は、この男と超エッチなレールを組んで、」（https://www.xnxx.com/search/japanese+foreplay）
+- 「セクシーな日本の魅惑的な北川瞳は、彼女の巨大な胸と官能的なお尻を超ホットな前戯セッションで誇示し、彼女のクソを挑発します」（https://www.xnxx.com/search/japanese+foreplay）
+- 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/foreplay）
+
+## Flintk12（https://www.flintk12.com/）
+- 「Here’s an example of a Japanese writing practice interaction.」（https://help.aobajapan.jp/a-jis-ict/working-version/staff/flintk12-how-to-get-started）
+- 「Level 1_ Beginner Japanese Practice _ Flint.pdf」（https://help.aobajapan.jp/a-jis-ict/working-version/staff/flintk12-how-to-get-started）
+- 「日本語や特定の教科への対応状況は導入前にサポートに問い合わせることを推奨します」（https://mifar.net/ja/tools/flint）
+
+## Flexengage（https://www.flexengage.com）
+- 「In Japan, the Ministry of Economy, Trade and Industry is actively promoting the use of electronic receipts as one of its initiatives for "」（https://note.com/ttec_cvc/n/ne955a1548353?hl=en）
+- 「In this article, to better visualize a society where electronic receipts have permeated, let's look at trends in the United States, where the adoption of electronic receipts is further ahead than in Japan.」（https://note.com/ttec_cvc/n/ne955a1548353?hl=en）
+- 「In the United States, Apple was quick to adopt electronic receipts, and a system for issuing electronic receipts to customers via email has become established. Many people in Japan who are Apple users may also be accustomed to receiving electronic receipts.」（https://note.com/ttec_cvc/n/ne955a1548353?hl=en）
+
+## Flagright（https://flagright.com）
+- 「is regulated in 12 APAC jurisdictions: Australia, China, Hong Kong, Indonesia, India, Japan, Korea, Malaysia, Singapore, Thailand, the Philippines, and Vietnam; powering SMEs with a single platform for online, point-of-sale and B2B payments. They support over 50 payment methods in 150+ currencies, o」（https://www.flagright.com/case-study/how-hitpay-customised-their-compliance-framework-without-vendor-support）
+
+## Fizyr（https://fizyr.com/）
+- 「Founded in Japan in 1915,」（https://www.automation.com/article/yaskawa-cooperation-agreement-fizyr）
+
+## Fitanalytics（https://www.fitanalytics.com）
+- 「現在、当サービスはASOS、 The NorthFace、 Vans、Tommy Hilfiger、ZARA、さらに日本では」（https://ftn.zozo.com/n/n81a0f21da065?gs=c59c512bb9ecd49cc73310b5f5e58033）
+- 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/fit-analytics/case-studies）
+
+## Finny（https://www.finny.com/）
+- 「ブロックチェーンスマホのFinny(フィニー)が日本で販売開始！東京に店舗展開も予定 - CRYPTO TIMES」（https://crypto-times.jp/sirin-labs-finny-sold-in-japan/）
+- 「ブロックチェーンスマホのFinny(フィニー)が日本で販売開始！東京に店舗展開も予定」（https://crypto-times.jp/sirin-labs-finny-sold-in-japan/）
+- 「ブロックチェーンスマートフォン「Finny(フィニー)」が日本でも販売」（https://crypto-times.jp/sirin-labs-finny-sold-in-japan/）
+- 「以前からバイナンスのCEOであるCZ氏がTwitterなどで噂されていた、仮想通貨XRP（リップル）基軸の通貨ペアがついに、正式に上場することが発表されました！」（https://www.gogojungle.co.jp/finance/navi/articles/9934）
+
+## Findem（https://www.findem.ai）
+- 「AI採用テックが加速！Findemが5100万ドル調達：日本のHR市場と投資機会を分析｜ケン」（https://note.com/fintechken/n/n32605e7e8450）
+- 「AI採用テックが加速！Findemが5100万ドル調達：日本のHR市場と投資機会を分析」（https://note.com/fintechken/n/n32605e7e8450）
+- 「1. 日本企業への影響」（https://note.com/fintechken/n/n32605e7e8450）
+- 「* Findem自体は非上場であり、日本の関連銘柄への直接的な影響はまだ不透明です」（https://note.com/fintechken/n/n32605e7e8450）
+
+## Fermatcommerce（https://www.fermatcommerce.com/）
+- 「：日本でもChatGPT経由の商品検索が増加中」（https://note.com/solvomind_ishii/n/nf9b5e6bb4a22）
+- 「正直、日本からの直接導入はまだハードル高め」（https://note.com/solvomind_ishii/n/nf9b5e6bb4a22）
+- 「日本市場への展開はこれからですが、「コマースの未来はエージェンティックになる」を体現するツールとして、今のうちに押さえておきましょう」（https://note.com/solvomind_ishii/n/nf9b5e6bb4a22）
+
+## Fairing（https://fairing.co）
+- 「Kawasaki has successfully produced a large fairing for the H-II Launch Vehicle for the first time in Japan. Since then,」（https://www.khi.co.jp/rd/magazine/pdf/179/n17906.pdf）
+- 「付ボルト）方式をベースに，日本独自の分離機構を開発す」（https://www.khi.co.jp/rd/magazine/pdf/179/n17906.pdf）
+- 「る．日本では，浮遊するフェアリングが船舶の航行に支障」（https://www.khi.co.jp/rd/magazine/pdf/179/n17906.pdf）
+
+## Extend Robotics（https://www.extendrobotics.com/）
+- 「Japanese multinational electronics and electrical equipment manufacturing company Mitsubishi Electric has partnered with Extend Robotics to support the scale-up of remotely controlled robots in non-uniform manufacturing operations.」（https://www.roboticsandautomationmagazine.co.uk/news/manufacturing/mitsubishi-electric-partners-with-extend-robotics-to-scale-up-remotely-controlled-robots.html）
+- 「日本の農業新聞が報じたところによると、水田除草ロボット「ミズニゴール」の2026年モデルが発表され、販売・レンタル予約が開始されました [1]」（https://note.com/firm_holly5460/n/ne2f684012450）
+- 「また、日本の農業ロボット市場も2024年の3.76億ドルから2033年には13.7億ドルへ成長すると見込まれており、AIとIoT技術の搭載が労働力不足の解決と精密農業の実現を加速させています [4]」（https://note.com/firm_holly5460/n/ne2f684012450）
+
+## Everafter（https://www.everafter.ai/）
+- 「日本語吹替版制作スタッフ 演出：岩見純一、翻訳：栗原とみ子、調整：堀内唯史、制作：」（https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%90%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC）
+- 「EVERAFTER(GAME VERSION) | 商品情報 | 日本コロムビアオフィシャルサイト」（https://columbia.jp/prod-info/COKM-46258/）
+- 「また、舞台ですが以前『認めてくれなくたっていいよ』にて、『#cg_ootd』が披露された日本ガイシホールを再現したのと同じように、『THE IDOLM@STER CINDERELLA GIRLS 10th MEMORIAL STARLIGHT STAGE』（以下デレステ10thツアー千秋楽）が披露される、Kアリーナ横浜を再現したものとなっているようです」（https://note.com/omochi_fairy/n/ne0628004cec2）
+
+## Epsilo（https://epsilo.ai/one）
+- 「日本、東南アジア、インドを中心に40以上のネットワークへ対応し、Rakuten、Amazon Japan、LINE、Shopee、Lazada、TikTok Shop、Flipkartなどをカバーしている」（https://www.jetro.go.jp/j-bridge/companies/2022/epsilo.html）
+- 「), is a Japanese」（https://en.wikipedia.org/wiki/Epsilon_(rocket)）
+- 「Japan Aerospace Exploration Agency」（https://en.wikipedia.org/wiki/Epsilon_(rocket)）
+
+## Ello（https://www.ello.com）
+- 「―海外展開の計画はありますか？日本市場への進出意欲は？」（https://techblitz.com/startup-interview/ello/）
+- 「海外展開については、日本も有力な候補です」（https://techblitz.com/startup-interview/ello/）
+- 「日本は親の教育への関心が高く、英語学習ニーズも強い」（https://techblitz.com/startup-interview/ello/）
+
+## Dyspatch（https://www.dyspatch.io）
+- 「ノーコードSaaS世界図鑑（日本語版）DXに不可欠」（https://note.com/vueloo_blog/n/n7b4461821173）
+- 「Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...」（https://www.firstcvc.jp/global/dyspatch.io）
+
+## Dimorder（https://dimorder.com）
+- 「The system is customized for the unique needs of small and medium restaurants in the region, including diverse cuisine types like Chinese, Japanese, hotpot, and cafes.」（https://startupintros.com/orgs/dimorder）
+
+## Deskimo（https://www.deskimo.com）
+- 「Japan (+81)」（https://www.deskimo.com/monetize-your-office）

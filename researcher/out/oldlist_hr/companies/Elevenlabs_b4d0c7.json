@@ -1,0 +1,1864 @@
+{
+ "name": "Elevenlabs",
+ "aliases": [],
+ "context": "旧営業リスト｜Education / Childcare｜日本進出済",
+ "researched_at": "2026-11-10T17:40:38.555990+00:00",
+ "official_url": "https://elevenlabs.io",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Powering the best enterprises, creators, and developers. From ElevenAgents for customer experience, ElevenCreative for content creation, to the leading AI voice generator.",
+    "url": "https://elevenlabs.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Expressive voices that bring audiobooks and podcasts to life.",
+    "url": "https://elevenlabs.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Playful and engaging voices for cartoons or video games.",
+    "url": "https://elevenlabs.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Trendy, attention-grabbing voices for short-form content.",
+    "url": "https://elevenlabs.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading developers and enterprises",
+    "url": "https://elevenlabs.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Generate ultra-realistic speech, videos, music, and sound effects.",
+    "url": "https://elevenlabs.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Create ultra-realistic speech, turn ideas into videos, compose music in any genre, or design immersive sound effects. Craft your next film, ad, campaign, social content, audiobook, or podcast with our creative platform.",
+    "url": "https://elevenlabs.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Create controllable, expressive speech layered across 90+ languages.",
+    "url": "https://elevenlabs.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Clone your voice, design one from a prompt, or explore 17,500+ voices from the library.",
+    "url": "https://elevenlabs.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Create or edit images and turn ideas into videos with leading models like Veo, Wan, Kling and Seedance.",
+    "url": "https://elevenlabs.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Using synthetic voice technology to power multilingual marketing content",
+    "url": "https://elevenlabs.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Streamlining product updates and localization with AI voices",
+    "url": "https://elevenlabs.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Character voices for learning and marketing",
+    "url": "https://elevenlabs.io/",
+    "pass": 1
+   },
+   {
+    "quote": "I have initiated the order refund process.",
+    "url": "https://elevenlabs.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Studio-grade music with natural language prompts in any genre, style or structure.",
+    "url": "https://elevenlabs.io/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Fast-paced electronic track for a video...\"",
+    "url": "https://elevenlabs.io/",
+    "pass": 1
+   },
+   {
+    "quote": "The most expressive Text to Speech model ever released",
+    "url": "https://elevenlabs.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Expressive Mode for Agents",
+    "url": "https://elevenlabs.io/",
+    "pass": 1
+   },
+   {
+    "quote": "More expressive voice agents, built for real-world customer conversations.",
+    "url": "https://elevenlabs.io/",
+    "pass": 1
+   },
+   {
+    "quote": "We actively monitor content generated with our technology.",
+    "url": "https://elevenlabs.io/",
+    "pass": 1
+   },
+   {
+    "quote": "ElevenLabs valuation increases to $22 billion fueled by enterprise demand for conversational agents",
+    "url": "https://elevenlabs.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how the world’s leading teams use ElevenLabs for better customer experiences and high quality content production",
+    "url": "https://elevenlabs.io/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Angle Health resolves 90% of provider calls with ElevenAgents",
+    "url": "https://elevenlabs.io/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "KPN partnered with ElevenLabs to build Mobiel AI, an AI assistant inside KPN's business mobile plans that helps Dutch entrepreneurs manage every call.",
+    "url": "https://elevenlabs.io/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Proactive welcome calls rated 8.5 out of 10 by new TELUS customers.",
+    "url": "https://elevenlabs.io/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Lettuce cuts creative ad production from over a week to under a minute with ElevenLabs",
+    "url": "https://elevenlabs.io/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Italy’s leading property marketplace goes from one conversational agent to an agentic network",
+    "url": "https://elevenlabs.io/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "A natural voice for candidates, compliant for key accounts.",
+    "url": "https://elevenlabs.io/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "In early production testing, NOS's voice agents successfully handle around 50% of calls, measured net of callbacks",
+    "url": "https://elevenlabs.io/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "1.4 million minutes of video dubbed across 40 languages through automated, editable dubbing",
+    "url": "https://elevenlabs.io/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "We use ElevenAgents across sales, ops, product, hiring, support, and more to increase customer satisfaction and save 3,700 hours weekly.",
+    "url": "https://elevenlabs.io/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How our AI SDR qualifies leads in minutes, handling $1M+ in pipeline in the last month",
+    "url": "https://elevenlabs.io/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "ElevenLabs brings premium voice to IBM watsonx Orchestrate",
+    "url": "https://elevenlabs.io/blog/elevenlabs-partners-with-ibm-to-bring-premium-voice-to-watsonx-orchestrate",
+    "pass": 1
+   },
+   {
+    "quote": "technology into IBM watsonx Orchestrate, an agentic AI orchestration platform. The integration gives enterprises tools to build voice-enabled AI",
+    "url": "https://elevenlabs.io/blog/elevenlabs-partners-with-ibm-to-bring-premium-voice-to-watsonx-orchestrate",
+    "pass": 1
+   },
+   {
+    "quote": "Why voice matters for enterprise AI",
+    "url": "https://elevenlabs.io/blog/elevenlabs-partners-with-ibm-to-bring-premium-voice-to-watsonx-orchestrate",
+    "pass": 1
+   },
+   {
+    "quote": ". \"Together with IBM, we're helping organizations replace robotic interactions with AI agents that people actually want to talk to, built with the security and compliance controls that enterprises require.\"",
+    "url": "https://elevenlabs.io/blog/elevenlabs-partners-with-ibm-to-bring-premium-voice-to-watsonx-orchestrate",
+    "pass": 1
+   },
+   {
+    "quote": "\"We're bringing a voice to AI agents in the enterprise,\" said",
+    "url": "https://elevenlabs.io/blog/elevenlabs-partners-with-ibm-to-bring-premium-voice-to-watsonx-orchestrate",
+    "pass": 1
+   },
+   {
+    "quote": ". \"IBM's open ecosystem approach offers clients the flexibility to choose the models and tools that fit their business, and our integration of ElevenLabs into watsonx Orchestrate is a powerful example of that.\"",
+    "url": "https://elevenlabs.io/blog/elevenlabs-partners-with-ibm-to-bring-premium-voice-to-watsonx-orchestrate",
+    "pass": 1
+   },
+   {
+    "quote": "We intend to continue our collaboration, helping enterprises move beyond text-only agents and towards voice-first, human centered AI experiences.",
+    "url": "https://elevenlabs.io/blog/elevenlabs-partners-with-ibm-to-bring-premium-voice-to-watsonx-orchestrate",
+    "pass": 1
+   },
+   {
+    "quote": "stated Mykhailo Fedorov, First Deputy Prime Minister and Minister of Digital Transformation of Ukraine.",
+    "url": "https://elevenlabs.io/blog/ukrainian-public-services",
+    "pass": 1
+   },
+   {
+    "quote": "The company's voice technology was first used to voice the digital twin of Mykhailo Fedorov, which operates as a chatbot. The twin recognizes voice messages and provides responses in the same format.",
+    "url": "https://elevenlabs.io/blog/ukrainian-public-services",
+    "pass": 1
+   },
+   {
+    "quote": "This includes AI assistants for onboarding and for the HR team.",
+    "url": "https://elevenlabs.io/blog/ukrainian-public-services",
+    "pass": 1
+   },
+   {
+    "quote": "AI Dubbing for Polish Presidency of the Council of the EU",
+    "url": "https://elevenlabs.io/blog/ukrainian-public-services",
+    "pass": 1
+   },
+   {
+    "quote": "We’re proud to announce our partnership with Deutsche Telekom to bring ElevenLabs'",
+    "url": "https://elevenlabs.io/blog/deutsche-telekom-and-elevenlabs-announce-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Stan joined our GTM team to help enterprises across Europe deploy voice agents at scale. Previously, he led EMEA sales and partnerships at Intercom",
+    "url": "https://elevenlabs.io/blog/deutsche-telekom-and-elevenlabs-announce-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "ElevenLabs expands presence in Australia and New Zealand",
+    "url": "https://elevenlabs.io/blog/deutsche-telekom-and-elevenlabs-announce-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "ElevenLabs Pricing for Creators & Businesses of All Sizes",
+    "url": "https://elevenlabs.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Flexible pricing for your needs",
+    "url": "https://elevenlabs.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "3 Projects in Studio",
+    "url": "https://elevenlabs.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "20 Projects in Studio",
+    "url": "https://elevenlabs.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Professional Voice Cloning",
+    "url": "https://elevenlabs.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Everything in Pro, plus",
+    "url": "https://elevenlabs.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "3 Professional Voice Clones",
+    "url": "https://elevenlabs.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "10 Professional Voice Clones",
+    "url": "https://elevenlabs.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Fully managed dubbing with Productions",
+    "url": "https://elevenlabs.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Prices exclude all taxes, levies and duties.",
+    "url": "https://elevenlabs.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Startup Grants Program",
+    "url": "https://elevenlabs.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Build intelligent, real-time conversational AI agents into your new product or startup for free with an ElevenLabs Grant.",
+    "url": "https://elevenlabs.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Monthly price and included credits per plan: Free $0 (10,000 credits); Starter $6 (30,000 credits); Creator $22 (121,000 credits, $11 for the first month); Pro $99 (600,000 credits); Scale $299 (1,800,000 credits, 3 seats); Business $990 (6,000,000 credits, 10 seats); Enterprise is custom. Credits are shared across every product — see the per-product credit costs below.",
+    "url": "https://elevenlabs.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Each text character you generate consumes credits, with the exact cost depending on the model used. For V2 Multilingual models, 1 text character equals 1 credit. For V2 Flash/Turbo English and V2.5 Flash/Turbo Multilingual models, discounted pricing applies for API usage, costing between 0.5 and 1 credit per character.",
+    "url": "https://elevenlabs.io/pricing",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by leading developers and enterprises",
+    "url": "https://elevenlabs.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Everything we do is the result of the creativity and commitment of our team. These are builders doing the best work of their lives. We are researchers, engineers, and operators. Award-winning scientists, dedicated creatives, and ex-founders. If you want to work hard and create lasting positive impact,",
+    "url": "https://elevenlabs.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "A collection of exceptional researchers, engineers, and operators committed to solving once-impossible problems with AI. We've come to ElevenLabs from every corner of the world. We're passionate about our work, invested in each other, and all in on our mission.",
+    "url": "https://elevenlabs.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Steps vary by role, but most processes include a pre-screen, virtual interviews (sometimes with a skills assessment like a take-home or case study), a hiring manager conversation, and a final round with a founder or Bar Raiser. Your recruiting partner will walk you through what to expect for your specific process.",
+    "url": "https://elevenlabs.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Computer Hardware Manufacturing",
+    "url": "https://www.casestudies.com/company/elevenlabs",
+    "pass": 3
+   },
+   {
+    "quote": "Air Mail - Customer Case Study",
+    "url": "https://www.casestudies.com/company/elevenlabs",
+    "pass": 3
+   },
+   {
+    "quote": "ScenePartner - Customer Case Study",
+    "url": "https://www.casestudies.com/company/elevenlabs",
+    "pass": 3
+   },
+   {
+    "quote": "SoundAiSleep - Customer Case Study",
+    "url": "https://www.casestudies.com/company/elevenlabs",
+    "pass": 3
+   },
+   {
+    "quote": "Star Sports - Customer Case Study",
+    "url": "https://www.casestudies.com/company/elevenlabs",
+    "pass": 3
+   },
+   {
+    "quote": "TIME - Customer Case Study",
+    "url": "https://www.casestudies.com/company/elevenlabs",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: TVS Motor lifts lead capture 35% with ElevenLabs multimodal agents · Case Study Desk",
+    "url": "https://www.casestudydesk.com/case-study/tvs-motor-35-percent-lead-capture-elevenlabs",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive manufacturing",
+    "url": "https://www.casestudydesk.com/case-study/tvs-motor-35-percent-lead-capture-elevenlabs",
+    "pass": 3
+   },
+   {
+    "quote": "Sourced & dated by Case Study Desk",
+    "url": "https://www.casestudydesk.com/case-study/tvs-motor-35-percent-lead-capture-elevenlabs",
+    "pass": 3
+   },
+   {
+    "quote": "TVS Motor Company is a global two-wheeler manufacturer operating across many international markets. It relied on static web forms for lead capture and slow manual processes for customer feedback.",
+    "url": "https://www.casestudydesk.com/case-study/tvs-motor-35-percent-lead-capture-elevenlabs",
+    "pass": 3
+   },
+   {
+    "quote": "Cartesia Case Study: ElevenLabs – ElevenLabs - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/cartesia/case-study/elevenlabs-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabs - Customer Case Study",
+    "url": "https://www.casestudies.com/company/cartesia/case-study/elevenlabs-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how ElevenLabs used Cartesia",
+    "url": "https://www.casestudies.com/company/cartesia/case-study/elevenlabs-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/cartesia/case-study/elevenlabs-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/cartesia/case-study/elevenlabs-customer-case-study",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Better vocals, instrumentation, and arrangement across every genre.",
+    "url": "https://elevenlabs.io/",
+    "pass": 1
+   },
+   {
+    "quote": "For the first time, the emotion and performance of the original speaker carries across every language.",
+    "url": "https://elevenlabs.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Voice has become a critical interface for customer and employee-facing AI workflows. But long wait times, rigid call flows, and robotic-sounding voices diminish the user experience. By integrating ElevenLabs' Text to Speech into watsonx Orchestrate, teams can replace those experiences with AI agents that carry the nuance, emotion, and rhythm of human speech.",
+    "url": "https://elevenlabs.io/blog/elevenlabs-partners-with-ibm-to-bring-premium-voice-to-watsonx-orchestrate",
+    "pass": 1
+   },
+   {
+    "quote": "This initiative is part of a shared vision to democratize access to AI, making advanced voice technology simple, accessible, and valuable to everyone.",
+    "url": "https://elevenlabs.io/blog/deutsche-telekom-and-elevenlabs-announce-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "ElevenLabs crosses $500M ARR as it welcomes new investors including BlackRock, NVIDIA, Jamie Foxx and Eva Longoria",
+    "url": "https://elevenlabs.io/blog/deutsche-telekom-and-elevenlabs-announce-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Ashley Kramer joins ElevenLabs as Chief Revenue Officer",
+    "url": "https://elevenlabs.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "ElevenLabs releases The Odyssey audiobook narrated by Sir Michael Caine's AI voice",
+    "url": "https://elevenlabs.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue - Spanish LATAM",
+    "url": "https://elevenlabs.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "My favourite part of working here is the culture of innovation and ownership, everyone empowered to take initiative while staying grounded in respect for each other, and it shows in everything we build.",
+    "url": "https://elevenlabs.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "My favourite memory is watching Mati demo ElevenAgents in Hindi to a room of executives at the India AI Impact Summit, seeing the mission of breaking language barriers suddenly feel completely real.",
+    "url": "https://elevenlabs.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "I love hearing people say 'I've wished this existed for so long' when I tell them what I do, knowing what we're building breaks down language barriers and gives people their voices back.",
+    "url": "https://elevenlabs.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We offer a comprehensive benefits program that meets employees where they are around the world. See our FAQs for details.",
+    "url": "https://elevenlabs.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "At ElevenLabs, we offer a comprehensive benefits program that meets employees where they are around the world.",
+    "url": "https://elevenlabs.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Global benefits for full-time employees:",
+    "url": "https://elevenlabs.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "For a tradesperson, hairdresser, or plumber, the phone is the business. Every missed call could be a missed job. But answering every call means putting down the work in front of you. 53% of entrepreneurs indicate that being available by phone comes at the expense of employees' concentration. At the same time, 69% cite customer satisfaction as one of the most important business challenges.",
+    "url": "https://elevenlabs.io/blog/kpn-mobiel-ai",
+    "pass": 1
+   },
+   {
+    "quote": "is a global technology service provider and a business entity of TELUS, one of Canada’s largest communications companies, with C$20 billion in annual revenue and 21 million customer connections. Using ElevenAgents, TELUS Digital built an outbound voice agent for its customers, welcoming new home internet customers in their first 90 days.",
+    "url": "https://elevenlabs.io/blog/telus-digital-early-cancellations",
+    "pass": 1
+   },
+   {
+    "quote": "C$55,000 in lifetime revenue was retained",
+    "url": "https://elevenlabs.io/blog/telus-digital-early-cancellations",
+    "pass": 1
+   },
+   {
+    "quote": "Ashley Kramer joins ElevenLabs as Chief Revenue Officer",
+    "url": "https://elevenlabs.io/blog/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "ElevenLabs releases The Odyssey audiobook narrated by Sir Michael Caine's AI voice",
+    "url": "https://elevenlabs.io/blog/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "As part of this partnership, Deutsche Telekom has also invested in ElevenLabs’ Series C funding round, reinforcing a shared vision to bring AI-powered audio experiences to millions of users. With this innovation, Magenta AI users will have the power to create, customize, and interact with unique audio content directly from their smartphones.",
+    "url": "https://elevenlabs.io/blog/deutsche-telekom-magenta-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Carles joined ElevenLabs as its first investor and fourth employee, building the go-to-market function from scratch and scaling revenue to over $500M in ARR in three years as VP of Revenue. Before ElevenLabs, he was an early international employee at Uber, the sixth employee at Tractable AI, and built GTM at Sonantic, later acquired by Spotify.",
+    "url": "https://elevenlabs.io/blog/kpn",
+    "pass": 1
+   },
+   {
+    "quote": "models are contextually and emotionally aware. They respond to cues in the script and adjust delivery accordingly - a whispered confession sounds different from a courtroom monologue. This means dialogue carries the weight of a real performance, with control over emotion, pacing, and style built directly into the generation process.",
+    "url": "https://elevenlabs.io/blog/elevenlabs-partners-with-macro-and-a16z-cultural-leadership-fund-clf-to-support-the-next-generation-of-storytellers",
+    "pass": 1
+   },
+   {
+    "quote": "tool analyzes visual cues like motion and color to compose music that matches the tone of the footage. Tracks can be edited section by section, with control over lyrics, duration, and arrangement. Eleven Music is cleared for commercial use across film, television, podcasts, and advertising on Enterprise plans.",
+    "url": "https://elevenlabs.io/blog/elevenlabs-partners-with-macro-and-a16z-cultural-leadership-fund-clf-to-support-the-next-generation-of-storytellers",
+    "pass": 1
+   },
+   {
+    "quote": "Lorena leads Culture & Creative Partnerships at ElevenLabs, licensing celebrity IP and partnering with cultural institutions across music, film, sports, and government, including launching the Iconic Marketplace internationally with voices like Fabio Porchat. Previously, she built partnerships at Dropbox and worked across healthtech startups including Carrot Fertility and Elation Health.",
+    "url": "https://elevenlabs.io/blog/elevenlabs-partners-with-macro-and-a16z-cultural-leadership-fund-clf-to-support-the-next-generation-of-storytellers",
+    "pass": 1
+   },
+   {
+    "quote": "同社は文脈と感情を理解した自然な音声生成技術で、Fortune 500企業での採用が進んでいる",
+    "url": "https://ainews.mironcorp.com/elevenlabs-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabs aims to generate several hundred million yen in revenue in Japan by the end of 2025. The company plans to hire over 10 employees within the year, and will work with both businesses and government organizations (B2B and B2C) to expand product awareness by showcasing real-world use cases.",
+    "url": "https://www.global-gw.com/japannews/elevenlabs-launches-japanese-subsidiary-enters-market-with-ai-voice-technology",
+    "pass": 3
+   },
+   {
+    "quote": "AnyTopic creates engaging personalized audiobook narration with ElevenLabs",
+    "url": "https://www.casestudies.com/company/elevenlabs",
+    "pass": 3
+   },
+   {
+    "quote": "Audio Pitara achieves global podcast success with ElevenLabs AI voice narration",
+    "url": "https://www.casestudies.com/company/elevenlabs",
+    "pass": 3
+   },
+   {
+    "quote": "Magicave announces Beneath The Six, a turn-based roguelike game with an AI narrator developed in collaboration with ElevenLabs and Tom Canton from Netflix’s hit show The Witcher",
+    "url": "https://www.casestudies.com/company/elevenlabs",
+    "pass": 3
+   },
+   {
+    "quote": "VisionStory brings expressive AI narration to life with ElevenLabs",
+    "url": "https://www.casestudies.com/company/elevenlabs",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabs is an AI service that allows you to create narration, dialogue, and other audio from text.",
+    "url": "https://note.com/rich_emu7600/n/n9dc9bb3d0c15?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It supports Japanese text-to-speech and can be used for video narration, educational explanations, manga character dialogue, and more.",
+    "url": "https://note.com/rich_emu7600/n/n9dc9bb3d0c15?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It is a great option when you want to try out audio from short texts instead of recording narration yourself.",
+    "url": "https://note.com/rich_emu7600/n/n9dc9bb3d0c15?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Create Japanese narration",
+    "url": "https://note.com/rich_emu7600/n/n9dc9bb3d0c15?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is a method of selecting a voice for each character and turning their lines or narration into audio.",
+    "url": "https://note.com/rich_emu7600/n/n9dc9bb3d0c15?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "🎙️ How to use ElevenLabs | 5 steps to create Japanese narration",
+    "url": "https://note.com/rich_emu7600/n/n9dc9bb3d0c15?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "These are listed separately from first-month discounts or annual payment monthly equivalents.",
+    "url": "https://note.com/rich_emu7600/n/n9dc9bb3d0c15?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Try starting with \"a single image + a short narration\".",
+    "url": "https://note.com/rich_emu7600/n/n9dc9bb3d0c15?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "✉️ For those who want to request narration production",
+    "url": "https://note.com/rich_emu7600/n/n9dc9bb3d0c15?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "At AI Video Lab's Shura, we offer Japanese narration production services using ElevenLabs.",
+    "url": "https://note.com/rich_emu7600/n/n9dc9bb3d0c15?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "🎙️ How to Request AI Narration Production? 5 Things to Check Regarding Pricing, Scripts, and Voice Selection",
+    "url": "https://note.com/rich_emu7600/n/n9dc9bb3d0c15?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We introduce the procedure for organizing key points and scripts with Astra and turning them into narration with ElevenLabs.",
+    "url": "https://note.com/rich_emu7600/n/n9dc9bb3d0c15?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "🎙️ How to turn PDFs into audio commentary with Astra x ElevenLabs | 5 steps for summarization, scripting, and narration production",
+    "url": "https://note.com/rich_emu7600/n/n9dc9bb3d0c15?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We introduce how to get started with Japanese narration, manga voices, and PDF audio conversion.",
+    "url": "https://note.com/rich_emu7600/n/n9dc9bb3d0c15?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "#AIvoice #AudioGeneration #Narration #GenerativeAI #VideoProduction #CommercialUse #VoiceClone",
+    "url": "https://note.com/rich_emu7600/n/n9dc9bb3d0c15?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How to refine scripts to eliminate the 'robotic' feel of Japanese narration in ElevenLabs",
+    "url": "https://note.com/fushiana3/n/neb363fafedec?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Native Japanese (Tokyo accent), professional narrator, confident and clear tone.\"",
+    "url": "https://note.com/holy_gerbil1576/n/n575f953d1447",
+    "pass": 3
+   },
+   {
+    "quote": "In the Series C round in January 2025, the company raised approximately 27 billion yen, reaching a valuation of about 500 billion yen. Furthermore, in February 2026, it raised an additional 75 billion yen, expanding its valuation to over 1.6 trillion yen. It is reported that they are also considering a future IPO (Initial Public Offering).",
+    "url": "https://note.com/aiexpert/n/n9ecb9800bc8a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The latest model, \"Eleven v3,\" released in May 2025, achieves more natural intonation than ever before, and the quality of Japanese narration is steadily improving.",
+    "url": "https://note.com/aiexpert/n/n9ecb9800bc8a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A unicorn company with a valuation exceeding approximately 1.6 trillion yen. A future IPO is also in view.",
+    "url": "https://note.com/aiexpert/n/n9ecb9800bc8a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabs CEOが語る「AIネイティブ経営」──ARR $450M超・470人組織の成長戦略・組織設計・文化のすべて｜SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/n51da1f6a6a49",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabs CEOが語る「AIネイティブ経営」──ARR $450M超・470人組織の成長戦略・組織設計・文化のすべて",
+    "url": "https://note.com/startup_now0708/n/n51da1f6a6a49",
+    "pass": 3
+   },
+   {
+    "quote": "評価額は110億ドル（約1.6兆円）に達し、年間経常収益（ARR）は450百万ドルを超える水準にある",
+    "url": "https://note.com/startup_now0708/n/n51da1f6a6a49",
+    "pass": 3
+   },
+   {
+    "quote": "6-1. ARR450M＋、四半期純増1億ドルの内訳",
+    "url": "https://note.com/startup_now0708/n/n51da1f6a6a49",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabsは、2025年末時点でARR350百万ドルを公表しており、直近四半期だけで純増ARRが1億ドルに達した",
+    "url": "https://note.com/startup_now0708/n/n51da1f6a6a49",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Agents listen, read and interact just like humans would across phone, chat, email and WhatsApp.",
+    "url": "https://elevenlabs.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Voicemail transcription, so missed calls can be read and prioritized at a glance",
+    "url": "https://elevenlabs.io/blog/kpn-mobiel-ai",
+    "pass": 1
+   },
+   {
+    "quote": "from initial vendor engagement to its first customer call. This time included security review, API integration, conversation design, voicemail scripting, and the governance and privacy review.",
+    "url": "https://elevenlabs.io/blog/telus-digital-early-cancellations",
+    "pass": 1
+   },
+   {
+    "quote": "The agent reached the majority of the target cohort via call or voicemail.",
+    "url": "https://elevenlabs.io/blog/deliveroo",
+    "pass": 1
+   },
+   {
+    "quote": "Please check the inbox of the email address you entered in the form.",
+    "url": "https://help.elevenlabs.io/hc/en-us",
+    "pass": 3
+   },
+   {
+    "quote": "You may have received an email asking you to verify your request.",
+    "url": "https://help.elevenlabs.io/hc/en-us",
+    "pass": 3
+   },
+   {
+    "quote": "Can't find the email? Give it a few minutes, and check your spam or",
+    "url": "https://help.elevenlabs.io/hc/en-us",
+    "pass": 3
+   },
+   {
+    "quote": "junk folder. Once your request is open, we will reply by email.",
+    "url": "https://help.elevenlabs.io/hc/en-us",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Sonic branding: Building your brand identity through sound",
+    "url": "https://elevenlabs.io/blog/elevenlabs-partners-with-macro-and-a16z-cultural-leadership-fund-clf-to-support-the-next-generation-of-storytellers",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "ElevenLabs 日本法人設立｜国内展開と日本語対応が意味すること | jisalab AI",
+    "url": "https://jisalab.jp/ai/elevenlabs-japan-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabs 日本法人設立｜国内展開と日本語対応が意味すること",
+    "url": "https://jisalab.jp/ai/elevenlabs-japan-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "3行でわかる ElevenLabsの日本進出",
+    "url": "https://jisalab.jp/ai/elevenlabs-japan-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "音声AIのElevenLabsが2025年4月、初の海外拠点として日本法人を東京に設立",
+    "url": "https://jisalab.jp/ai/elevenlabs-japan-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語の自然さ向上とサポート強化が期待され、国内利用のハードルが下がる",
+    "url": "https://jisalab.jp/ai/elevenlabs-japan-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "高品質なAI音声合成で知られるElevenLabsが、日本市場に本格参入しました",
+    "url": "https://jisalab.jp/ai/elevenlabs-japan-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4月に日本法人を設立し、国内企業との協業を進めています",
+    "url": "https://jisalab.jp/ai/elevenlabs-japan-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "海外AIツールの「日本上陸」は、日本語対応やサポートの面で利用者に直接影響します",
+    "url": "https://jisalab.jp/ai/elevenlabs-japan-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事はその動きと、日本の読者にとっての意味を整理します",
+    "url": "https://jisalab.jp/ai/elevenlabs-japan-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "ユースケース②：日本語ナレーションを内製したい事業会社",
+    "url": "https://jisalab.jp/ai/elevenlabs-japan-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabsは2025年4月14日、初の海外拠点となる日本法人「イレブンラボ合同会社（ElevenLabs G.K.）」を東京に設立しました",
+    "url": "https://jisalab.jp/ai/elevenlabs-japan-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "▲ 日本法人設立の概要（報道に基づく編集部整理）",
+    "url": "https://jisalab.jp/ai/elevenlabs-japan-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "その最初の海外拠点に日本を選んだこと自体が、日本市場を重視するシグナルといえます",
+    "url": "https://jisalab.jp/ai/elevenlabs-japan-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "海外SaaSは往々にして本国優先で、日本語対応やサポートが後回しになりがちですが、現地法人の設立はこの構図を変える可能性があります",
+    "url": "https://jisalab.jp/ai/elevenlabs-japan-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "請求・契約・問い合わせの日本語対応や、国内企業との連携が進みやすくなるためです",
+    "url": "https://jisalab.jp/ai/elevenlabs-japan-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabsは多言語（32言語とされる）に対応し、日本語の繊細なアクセントや文脈依存の表現への対応強化を掲げています",
+    "url": "https://jisalab.jp/ai/elevenlabs-japan-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語は、長音・促音・同音異義語・文脈依存のイントネーションなど、音声合成が難しい要素を多く含みます",
+    "url": "https://jisalab.jp/ai/elevenlabs-japan-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "現地法人を置き、日本語に特化した改善を進める姿勢は、これまで「英語は自然だが日本語はいまひとつ」とされてきた海外音声AIの弱点を埋める動きといえます",
+    "url": "https://jisalab.jp/ai/elevenlabs-japan-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "日本法人の設立は、日本語品質の向上・サポートや請求の日本語対応・国内事例の増加という形で、日本のユーザーに実利をもたらす可能性があります",
+    "url": "https://jisalab.jp/ai/elevenlabs-japan-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "これまで海外AI音声ツールの導入をためらう理由には、「日本語の自然さが不安」「サポートが英語のみ」「請求や契約が海外仕様」といった点がありました",
+    "url": "https://jisalab.jp/ai/elevenlabs-japan-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "まずは無料枠で自社の日本語原稿を試し、許容できる品質かを見極めるのが現実的です",
+    "url": "https://jisalab.jp/ai/elevenlabs-japan-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語番組を多言語へ吹き替える際に、同じ原稿から各言語の音声を生成",
+    "url": "https://jisalab.jp/ai/elevenlabs-japan-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "導入・契約の日本語対応が進むことで、稟議や請求処理のハードルが下がり、社内展開しやすくなる",
+    "url": "https://jisalab.jp/ai/elevenlabs-japan-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "□ 無料枠で自社の日本語原稿を読み上げさせ、品質を確かめる",
+    "url": "https://jisalab.jp/ai/elevenlabs-japan-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "□ 国内サポート・請求の日本語対応の有無を確認する",
+    "url": "https://jisalab.jp/ai/elevenlabs-japan-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】ElevenLabs料金完全ガイド｜日本法人設立で変わった商用利用とプラン選びの最適解 | AIエージェントナビ",
+    "url": "https://aiagent-navi.com/generation-ai/elevenlabs-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "AI音声合成の常識を覆す「Eleven v3」の登場と、ElevenLabs日本法人の設立により、ビジネス現場での導入ハードルは劇的に下がりました",
+    "url": "https://aiagent-navi.com/generation-ai/elevenlabs-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "日本法人設立により、国内企業が導入しやすい環境が整いました",
+    "url": "https://aiagent-navi.com/generation-ai/elevenlabs-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年現在、ElevenLabs日本法人の設立により、日本の税制や商習慣に合わせた契約フローが整備されつつあります",
+    "url": "https://aiagent-navi.com/generation-ai/elevenlabs-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "年間契約や日本法人のサポートを活用し、経理プロセスを簡略化しましょう",
+    "url": "https://aiagent-navi.com/generation-ai/elevenlabs-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026最新】ElevenLabs日本語版 v3の実力を検証！月額$6〜で動画ナレーションを内製化",
+    "url": "https://aiagent-navi.com/generation-ai/elevenlabs-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabsが日本で仕掛ける「音声AI革命」労働不足の救世主になるか | AIちゃんねる",
+    "url": "https://ainews.mironcorp.com/elevenlabs-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "最新の AI ニュース・論文を、編集部キャラクター「アイちゃん」が日本語でやさしく解説",
+    "url": "https://ainews.mironcorp.com/elevenlabs-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabsが日本で仕掛ける「音声AI革命」労働不足の救世主になるか",
+    "url": "https://ainews.mironcorp.com/elevenlabs-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "音声AI企業・ElevenLabsが2025年に日本法人を設立し、対話型AIエージェント「ElevenAgents」で日本の労働人口減少課題に挑む",
+    "url": "https://ainews.mironcorp.com/elevenlabs-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "日本がアジア太平洋地域の最初のハブとして選ばれた理由は2つ",
+    "url": "https://ainews.mironcorp.com/elevenlabs-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "2つ目は、日本の深刻な労働人口減少で、カスタマーサポートなど人手不足現場でAIエージェントが最大の価値を発揮できることだ",
+    "url": "https://ainews.mironcorp.com/elevenlabs-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業が「今」導入すべき理由として、寺村氏は労働人口減少への対応、多言語への即時対応によるグローバル展開の実現、そして現在の「発展フェーズ」での早期導入による自社最適化が挙げられるとしている",
+    "url": "https://ainews.mironcorp.com/elevenlabs-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、日本の大企業では大規模導入が進まない",
+    "url": "https://ainews.mironcorp.com/elevenlabs-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "理由は、エンタープライズ規模での決断を下せるリーダーの不足、AIへの根強い不安、日本語の複雑さへの精度懸念、そして最も決定的なセキュリティ面での懸念だという",
+    "url": "https://ainews.mironcorp.com/elevenlabs-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "特に高齢化社会の日本では、シニア層の就業継続に新たな道を開くかもしれません",
+    "url": "https://ainews.mironcorp.com/elevenlabs-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "日本での早期展開は、グローバル市場での地位確立を狙ったものと考えられます",
+    "url": "https://ainews.mironcorp.com/elevenlabs-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "1～3ヶ月後の展開予想としては、日本国内での先行導入事例（特にコンタクトセンター業界）が増加し、成功事例がメディアで報じられることで、後発企業の導入検討が加速するでしょう",
+    "url": "https://ainews.mironcorp.com/elevenlabs-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、セキュリティやプライバシーに関する規制が強化される可能性も高く、ElevenLabsのセキュリティ対応がどこまで日本の厳しい基準をクリアできるかが、市場拡大のカギになると感じます",
+    "url": "https://ainews.mironcorp.com/elevenlabs-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabs とは？AI音声生成プラットフォームの紹介 | 日本語ガイド",
+    "url": "https://japan-elevenlabs.com/",
+    "pass": 3
+   },
+   {
+    "quote": "japan-elevenlabs.com · 平台界面预览",
+    "url": "https://japan-elevenlabs.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabs Launches Japanese Subsidiary, Enters Market with AI Voice Technology — GGA",
+    "url": "https://www.global-gw.com/japannews/elevenlabs-launches-japanese-subsidiary-enters-market-with-ai-voice-technology",
+    "pass": 3
+   },
+   {
+    "quote": "Strategic Entry to Japan",
+    "url": "https://www.global-gw.com/japannews/elevenlabs-launches-japanese-subsidiary-enters-market-with-ai-voice-technology",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Market Immersion Program",
+    "url": "https://www.global-gw.com/japannews/elevenlabs-launches-japanese-subsidiary-enters-market-with-ai-voice-technology",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabs Launches Japanese Subsidiary, Enters Market with AI Voice Technology",
+    "url": "https://www.global-gw.com/japannews/elevenlabs-launches-japanese-subsidiary-enters-market-with-ai-voice-technology",
+    "pass": 3
+   },
+   {
+    "quote": "U.S.-based AI voice generation company ElevenLabs established its Japanese subsidiary, ElevenLabs Japan, on April 14, 2025, in Chiyoda, Tokyo. This marks the company’s first overseas expansion.",
+    "url": "https://www.global-gw.com/japannews/elevenlabs-launches-japanese-subsidiary-enters-market-with-ai-voice-technology",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabs aims to generate several hundred million yen in revenue in Japan by the end of 2025. The company plans to hire over 10 employees within the year, and will work with both businesses and government organizations (B2B and B2C) to expand product awareness by showcasing real-world use cases.",
+    "url": "https://www.global-gw.com/japannews/elevenlabs-launches-japanese-subsidiary-enters-market-with-ai-voice-technology",
+    "pass": 3
+   },
+   {
+    "quote": "The company chose to enter the Japanese market due to the growing demand for multilingual support and the strong potential for voice technology. Opportunities include content localization for inbound tourism and corporate training.",
+    "url": "https://www.global-gw.com/japannews/elevenlabs-launches-japanese-subsidiary-enters-market-with-ai-voice-technology",
+    "pass": 3
+   },
+   {
+    "quote": "Global Gateway Advisors, we are the preferred partner in assisting companies from all over Asia in their expansion into Japan market.",
+    "url": "https://www.global-gw.com/japannews/elevenlabs-launches-japanese-subsidiary-enters-market-with-ai-voice-technology",
+    "pass": 3
+   },
+   {
+    "quote": "33億ドル規模のユニコーン企業が日本上陸 音声AI技術で日本の多言語化に貢献",
+    "url": "https://www.global-gw.com/japannews/elevenlabs-launches-japanese-subsidiary-enters-market-with-ai-voice-technology",
+    "pass": 3
+   },
+   {
+    "quote": "Taiwan's Autonomous Driving Startup \"Turing Drive\" Accelerates Expansion into Japan",
+    "url": "https://www.global-gw.com/japannews/elevenlabs-launches-japanese-subsidiary-enters-market-with-ai-voice-technology",
+    "pass": 3
+   },
+   {
+    "quote": "Korean Unisex Shoe Brand “elldu” Launches in Japan",
+    "url": "https://www.global-gw.com/japannews/elevenlabs-launches-japanese-subsidiary-enters-market-with-ai-voice-technology",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Market Immersion Program (JIP)",
+    "url": "https://www.global-gw.com/japannews/elevenlabs-launches-japanese-subsidiary-enters-market-with-ai-voice-technology",
+    "pass": 3
+   },
+   {
+    "quote": "It supports Japanese text-to-speech and can be used for video narration, educational explanations, manga character dialogue, and more.",
+    "url": "https://note.com/rich_emu7600/n/n9dc9bb3d0c15?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Create Japanese narration",
+    "url": "https://note.com/rich_emu7600/n/n9dc9bb3d0c15?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ElevenLabs establishes Japanese Subsidiary, ElevenLabs G.K. — Apr 14, 2025 · Today we launched ElevenLabs G.K., an international subsidiary based in Tokyo, Japan. Our new Japanese entity will focus on adapting ElevenLabs' cutting-edge voice generation platform for the Japanese market while addressing the unique linguistic and cultural requirements of the region.",
+    "url": "https://elevenlabs.io/blog/elevenlabs-establishes-japanese-subsidiary-elevenlabs-gk",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabs 日本法人設立｜国内展開と日本語対応が意味すること | jis... — Jul 31, 2026 · 高品質なAI音声合成で知られるElevenLabsが、日本市場に本格参入しました。 2025年4月に日本法人を設立し、国内企業との協業を進めています。 海外AIツールの「日本上陸」は、日本語対応やサポートの面で利用者に直接影響します。",
+    "url": "https://jisalab.jp/ai/elevenlabs-japan-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】ElevenLabs料金完全ガイド｜日本法人設立で変わった商... — Apr 26, 2026 · AI音声合成の常識を覆す「Eleven v3」の登場と、ElevenLabs日本法人の設立により、ビジネス現場での導入ハードルは劇的に下がりました。しかし、従来の「文字数課金」に加え、対話型エージェント向けの「分単位課金」が加わったことで、どのプランを選べば最もコストパフォーマンスが高いのか ...",
+    "url": "https://aiagent-navi.com/generation-ai/elevenlabs-pricing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabsが日本で仕掛ける「音声AI革命」労働不足の救世主になるか — Jun 6, 2026 · 音声AI企業ElevenLabsが2025年に日本法人を設立。 対話型AIエージェント「ElevenAgents」で日本の労働人口減少課題に挑む。 文脈と感情を理解した自然な音声生成技術が特徴で、カスタマーサポートなど人手不足現場での活用が期待されています。",
+    "url": "https://ainews.mironcorp.com/elevenlabs-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】ElevenLabsとは？ビジネス導入のメリットと商用利用ル... — Apr 25, 2026 · 「AIに音声を読み上げさせたいが、品質が低く商用利用の権利関係も不安……」。 そんな懸念を抱えるビジネスパーソンのために、現在世界最高峰の音声AIプラットフォーム「ElevenLabs」を解説します。",
+    "url": "https://aiagent-navi.com/generation-ai/what-is-elevenlabs/",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabs Summit: Transforming human-technology interaction — Nov 11, 2025 · At ElevenLabs Summit, we bring together the leaders transforming how we interact with technology. Hear candid conversations about where technology is headed, deep dives into the architectures powering breakthroughs, and hands-on demos from teams already deploying conversational systems at scale. Always global, the Summit",
+    "url": "https://summit.elevenlabs.io/",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabs UI | ElevenLabs UI — A collection of Open Source agent and audio components that you can customize and extend.",
+    "url": "https://ui.elevenlabs.io/",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabs — Please check the inbox of the email address you entered in the form. You may have received an email asking you to verify your request. If so, click the verification link in it. Your request will only be opened with our team once it has been verified. Can't find the email? Give it a few minutes, and check your spam or junk folder. Once your request is open, we will reply by email.",
+    "url": "https://help.elevenlabs.io/hc/en-us",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabs、日本法人ElevenLabs G.K.を設立 — Apr 14, 2025 · 新たな日本法人は、地域特有の言語・文化的要件に対応しながら、ElevenLabsの最先端の音声生成プラットフォームを日本市場に最適化していきます。 社名：ElevenLabs Japan G.K. 所在地：東京都千代田区丸の内1-6-5. ゼネラルマネージャー：田村 元（Hajime Jim Tamura）は、ビジネスアプリケーションを通じた企業のパフォーマンス向上に35年以上携わってきました。 2000年代後半の日本におけるクラウドコンピューティング黎明期からの先駆者として、SaaSソリューションによる業務効率化を一貫して推進してきました。",
+    "url": "https://elevenlabs.io/ja/blog/elevenlabs-establishes-japanese-subsidiary-elevenlabs-gk",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabs とは？AI音声生成プラットフォームの紹介 | 日本語ガイド — ElevenLabs の AI音声生成・ボイスクローニング・ダビング・ボイスエージェントについて日本語で紹介する情報ページです。 AI音声生成・音声合成プラットフォームElevenLabsの紹介。 テキスト読み上げ・ボイスクローニング・ダビング・音声エージェントを解説します。",
+    "url": "https://japan-elevenlabs.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabs Launches Japanese Subsidiary, Enters Market with ... — May 9, 2025 · U.S.-based AI voice generation company ElevenLabs established its Japanese subsidiary, ElevenLabs Japan, on April 14, 2025, in Chiyoda, Tokyo. This marks the company’s first overseas expansion. ElevenLabs aims to generate several hundred million yen in revenue in Japan by the end of 2025.",
+    "url": "https://www.global-gw.com/japannews/elevenlabs-launches-japanese-subsidiary-enters-market-with-ai-voice-technology",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabsとは？使い方と料金や日本語対応について！商用利用や再翻... — ElevenLabsのEleven v4とは？ 使い方・料金とv4 Turboとの違い、日本語で使えるかを解説 ElevenLabsのEleven v4は、2026年9月28日に公開された最新の音声生成モデルで、感情表現とオーディオタグへの追従が大きく向上しました。",
+    "url": "https://miralab.co.jp/media/elevenlabs/",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabs B2B Case Studies & Customer Successes — See how ElevenLabs solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/elevenlabs",
+    "pass": 3
+   },
+   {
+    "quote": "Customer stories: How teams use ElevenLabs platforms — See how leading teams use ElevenLabs voice AI to improve customer experiences and produce high quality content. Explore customer stories and talk to sales.",
+    "url": "https://elevenlabs.io/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: TVS Motor lifts lead capture 35% with ElevenLabs ... — Jul 30, 2026 · “ ElevenLabs' AI agents have transformed our lead capture and customer feedback processes, delivering faster insights and significant cost savings while boosting engagement across multiple countries.",
+    "url": "https://www.casestudydesk.com/case-study/tvs-motor-35-percent-lead-capture-elevenlabs",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabs - Customer Case Study — ElevenLabs (Research) partnered with Cartesia (Computer Software) to solve key challenges. \"ElevenLabs - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/cartesia/case-study/elevenlabs-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabs: Case Studies, Claims and Where It Fits — Every tool on this map is connected to three things we publish elsewhere on the site: a decision framework that tells you how to evaluate it, a research theme that shows what we have measured in the market around it, and an essay that applies both to a real case.",
+    "url": "https://www.therevenueaireport.com/capabilities/elevenlabs",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "️ What is ElevenLabs? A Beginner's Guide to Usage, Pricing ... ElevenLabs is an AI service that allows you to create narration, dialogue, and other audio from text. It supports Japanese text-to-speech and can be used for video narration, educational explanations, manga character dialogue, and more.",
+    "url": "https://note.com/rich_emu7600/n/n9dc9bb3d0c15?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How to Use ElevenLabs x Seedance | Practical Prompts and ... Aug 29, 2026 · In this article, I will explain the ElevenLabs parameter adjustments and Seedance prompt templates that I use in my actual side hustle production, complete with concrete examples.",
+    "url": "https://note.com/fushiana3/n/neb363fafedec?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年決定版】ElevenLabs完全ガイド：YouTubeナレーションを「人間... Jan 21, 2026 · 今、音声AIの世界で**「一強」 と言われているツールをご存じでしょうか？ それが 「ElevenLabs（イレブンラボ）」**です。 結論から言います。 2026年現在、ナレーション作成においてElevenLabs以外の選択肢は不要です。 この記事は、単なる機能紹介ではあり ...",
+    "url": "https://note.com/holy_gerbil1576/n/n575f953d1447",
+    "pass": 3
+   },
+   {
+    "quote": "Which country is ElevenLabs from? A clear explanation of its ... Jun 15, 2026 · For those wondering, \"Where is ElevenLabs actually from?\" We have summarized everything from the location of their headquarters and their founding background to their current status in Japan.",
+    "url": "https://note.com/aiexpert/n/n9ecb9800bc8a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabs CEOが語る「AI ... - note（ノート） Apr 16, 2026 · ElevenLabsは、2022年の創業からわずか数年で、AI音声領域の世界的リーダーへと成長した。 評価額は110億ドル（約1.6兆円）に達し、年間経常収益（ARR）は450百万ドルを超える水準にある。",
+    "url": "https://note.com/startup_now0708/n/n51da1f6a6a49",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "🎙️ What is ElevenLabs? A Beginner's Guide to Usage, Pricing, and Commercial Use [2026 Edition]｜修羅系｜アート・漫画・映像制作｜制作ノウハウ・実践記録",
+    "url": "https://note.com/rich_emu7600/n/n9dc9bb3d0c15?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "🎙️ What is ElevenLabs? A Beginner's Guide to Usage, Pricing, and Commercial Use [2026 Edition]",
+    "url": "https://note.com/rich_emu7600/n/n9dc9bb3d0c15?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "修羅系｜アート・漫画・映像制作｜制作ノウハウ・実践記録",
+    "url": "https://note.com/rich_emu7600/n/n9dc9bb3d0c15?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabs is an AI service that allows you to create narration, dialogue, and other audio from text.",
+    "url": "https://note.com/rich_emu7600/n/n9dc9bb3d0c15?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It supports Japanese text-to-speech and can be used for video narration, educational explanations, manga character dialogue, and more.",
+    "url": "https://note.com/rich_emu7600/n/n9dc9bb3d0c15?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The first thing to understand is that the conditions for \"trying it for free\" and \"using it for commercial purposes\" are different.",
+    "url": "https://note.com/rich_emu7600/n/n9dc9bb3d0c15?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, I will introduce what you can do with ElevenLabs, its basic usage, pricing, and the conditions for commercial use in order.",
+    "url": "https://note.com/rich_emu7600/n/n9dc9bb3d0c15?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hello. I am Shura from AI Video Lab.",
+    "url": "https://note.com/rich_emu7600/n/n9dc9bb3d0c15?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How to Use ElevenLabs x Seedance | Practical Prompts and Settings for AI Voice and Video Generation (For Non-Engineer Side Hustles)｜FUSHIANA",
+    "url": "https://note.com/fushiana3/n/neb363fafedec?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How to Use ElevenLabs x Seedance | Practical Prompts and Settings for AI Voice and Video Generation (For Non-Engineer Side Hustles)",
+    "url": "https://note.com/fushiana3/n/neb363fafedec?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabs and Seedance are leading tools for generating audio and video with AI, but the official documentation can make it difficult to understand how to actually configure them, often leading to results that don't quite look or sound right. In this article, I will explain the ElevenLabs parameter adjustments and Seedance prompt templates that I use in my actual side hustle production, complete ",
+    "url": "https://note.com/fushiana3/n/neb363fafedec?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I have no formal training in programming, but while I develop web apps using AI coding tools like Claude Code and Codex, I combine ElevenLabs (for voice generation) and Seedance (for video generation) to handle the audio and video aspects of my projects.",
+    "url": "https://note.com/fushiana3/n/neb363fafedec?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, I have compiled the actual settings and prompt templates I use to graduate from 'I tried it, but the results were mediocre.' Rather than introducing a list of tool features, I will focus on",
+    "url": "https://note.com/fushiana3/n/neb363fafedec?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "how to assemble your workflow to consistently get 'winning' results in the field",
+    "url": "https://note.com/fushiana3/n/neb363fafedec?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", explaining it in as much detail as possible.",
+    "url": "https://note.com/fushiana3/n/neb363fafedec?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What you will learn in this article",
+    "url": "https://note.com/fushiana3/n/neb363fafedec?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年決定版】ElevenLabs完全ガイド：YouTubeナレーションを「人間の声」に変えるAI音声革命のすべて｜Kamikawa Kaworu 神河かおる",
+    "url": "https://note.com/holy_gerbil1576/n/n575f953d1447",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年決定版】ElevenLabs完全ガイド：YouTubeナレーションを「人間の声」に変えるAI音声革命のすべて",
+    "url": "https://note.com/holy_gerbil1576/n/n575f953d1447",
+    "pass": 3
+   },
+   {
+    "quote": "Kamikawa Kaworu 神河かおる",
+    "url": "https://note.com/holy_gerbil1576/n/n575f953d1447",
+    "pass": 3
+   },
+   {
+    "quote": "「顔出しなしでYouTubeを始めたいが、自分の声には自信がない」",
+    "url": "https://note.com/holy_gerbil1576/n/n575f953d1447",
+    "pass": 3
+   },
+   {
+    "quote": "「ゆっくりボイスやVOICEVOXを使っているが、どうしても『AIっぽさ』が抜けず、収益化の審査に通るか不安」",
+    "url": "https://note.com/holy_gerbil1576/n/n575f953d1447",
+    "pass": 3
+   },
+   {
+    "quote": "「ナレーション収録のたびに噛んでしまい、10分の動画を作るのに3時間も録音している」",
+    "url": "https://note.com/holy_gerbil1576/n/n575f953d1447",
+    "pass": 3
+   },
+   {
+    "quote": "もしあなたが動画クリエイターで、このような悩みを一つでも抱えているなら、この記事はあなたのためのものです。",
+    "url": "https://note.com/holy_gerbil1576/n/n575f953d1447",
+    "pass": 3
+   },
+   {
+    "quote": "と言われているツールをご存じでしょうか？ それが",
+    "url": "https://note.com/holy_gerbil1576/n/n575f953d1447",
+    "pass": 3
+   },
+   {
+    "quote": "Which country is ElevenLabs from? A clear explanation of its headquarters, Japanese subsidiary, and safety｜シン｜最新AIツール徹底検証",
+    "url": "https://note.com/aiexpert/n/n9ecb9800bc8a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Which country is ElevenLabs from? A clear explanation of its headquarters, Japanese subsidiary, and safety",
+    "url": "https://note.com/aiexpert/n/n9ecb9800bc8a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For those wondering, \"Where is ElevenLabs actually from?\"",
+    "url": "https://note.com/aiexpert/n/n9ecb9800bc8a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We have summarized everything from the location of their headquarters and their founding background to their current status in Japan. We have condensed the information you need to start using it with peace of mind.",
+    "url": "https://note.com/aiexpert/n/n9ecb9800bc8a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What you will learn in this article",
+    "url": "https://note.com/aiexpert/n/n9ecb9800bc8a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabs is an AI startup founded in the US with its headquarters in London",
+    "url": "https://note.com/aiexpert/n/n9ecb9800bc8a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It has no connection to Chinese companies",
+    "url": "https://note.com/aiexpert/n/n9ecb9800bc8a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A Japanese subsidiary was established in April 2025",
+    "url": "https://note.com/aiexpert/n/n9ecb9800bc8a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabs CEOが語る「AIネイティブ経営」──ARR $450M超・470人組織の成長戦略・組織設計・文化のすべて｜SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/n51da1f6a6a49",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabs CEOが語る「AIネイティブ経営」──ARR $450M超・470人組織の成長戦略・組織設計・文化のすべて",
+    "url": "https://note.com/startup_now0708/n/n51da1f6a6a49",
+    "pass": 3
+   },
+   {
+    "quote": "SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/n51da1f6a6a49",
+    "pass": 3
+   },
+   {
+    "quote": "は、2022年の創業からわずか数年で、AI音声領域の世界的リーダーへと成長した。評価額は110億ドル（約1.6兆円）に達し、年間経常収益（ARR）は450百万ドルを超える水準にある。共同創業者兼CEOのMati Staniszewskiが、音声モデルの技術的な仕組みからビジネスモデル、組織設計に至るまでを語ったインタビューの内容を整理し、その要点を解説する。",
+    "url": "https://note.com/startup_now0708/n/n51da1f6a6a49",
+    "pass": 3
+   },
+   {
+    "quote": "1-1. アナログからニューラルネットへの進化",
+    "url": "https://note.com/startup_now0708/n/n51da1f6a6a49",
+    "pass": 3
+   },
+   {
+    "quote": "音声合成の歴史は、人間の声道を物理的に再現しようとするアナログ機械から始まった。18世紀にWolfgang von Kempelenが製作した声道模型がその原点とされる。その後、Bell Labsが、音声の構造的な信号表現を開発し、音素（phoneme）を連結して音声を合成する手法が登場した。",
+    "url": "https://note.com/startup_now0708/n/n51da1f6a6a49",
+    "pass": 3
+   },
+   {
+    "quote": "現在の音声モデルは、LLMと同様にニューラルネットワークを基盤としている。Matiは次のように説明する。",
+    "url": "https://note.com/startup_now0708/n/n51da1f6a6a49",
+    "pass": 3
+   },
+   {
+    "quote": "「前の音のコンテキストに基づいて、次の音を予測する。テキストの文脈情報も組み合わせて処理する」",
+    "url": "https://note.com/startup_now0708/n/n51da1f6a6a49",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ElevenLabs (@ElevenLabs) / X This early case study from @microagi showcases how they're using ElevenLabs to explore what working alongside a humanoid robot looks like when you can simply talk to it.",
+    "url": "https://x.com/ElevenLabs",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabs Developers (@ElevenLabsDevs) / X Developers and coding agents can now manage ElevenLabs workflows directly in the terminal with well-documented commands, built-in agent skills, structured JSON, and dry runs to preview any operation.",
+    "url": "https://x.com/ElevenLabsDevs",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabs on X: \"Introducing voice, music, image, and video ... Introducing the ElevenLabs MCP, now available in Claude. Your team can manage your voice and chat agents where you already work - review recent performance, create new agents, update configurations, and even estimate LLM costs before changes go live.",
+    "url": "https://x.com/ElevenLabs/status/2099547227223908568",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabs on X: \"Introducing ElevenAgents Architect. It's an ... 12 2.2K ElevenLabs @ElevenLabs Oct 6 Learn more: ElevenAgents Architect: An expert partner to improve agents",
+    "url": "https://x.com/ElevenLabs/status/2107503346504634463",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabs on X: \"How to enter: make a 15-45 second ad for a ... How to enter: make a 15-45 second ad for a fictional brand, with an original jingle made in @ElevenCreative. Entry and rules: https://t.co/tkawoNynuV 05 Oct 2026 14:00:58",
+    "url": "https://x.com/ElevenLabs/status/2107108791703744763",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "ElevenLabs - LinkedIn Transforming how we interact with technology through AI research and products. | ElevenLabs is transforming human-technology interaction with AI research and products.",
+    "url": "https://www.linkedin.com/company/elevenlabs",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabs - LinkedIn About ElevenLabs is transforming human-technology interaction with AI research and products.",
+    "url": "https://www.linkedin.com/products/elevenlabsio-elevenlabs/",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabs - LinkedIn ElevenLabs is transforming human-technology interaction with AI research and products. The Agents Platform enables businesses to deliver seamless and intelligent customer experiences, with the...",
+    "url": "https://uk.linkedin.com/company/elevenlabs",
+    "pass": 3
+   },
+   {
+    "quote": "Alex Holt - Field CTO @ ElevenLabs | LinkedIn Field CTO @ ElevenLabs · Experience: ElevenLabs · Education: University of Oxford · Location: United Kingdom · 500+ connections on LinkedIn. View Alex Holt’s profile on LinkedIn, a...",
+    "url": "https://uk.linkedin.com/in/alex-holt-ab5382119",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ElevenLabs - FacebookElevenLabs - FacebookElevenLabs - FacebookElevenLabs - FacebookElevenLabs | Trusted By 7,500,000+ Users & Brands | All -in ...ElevenLabs - Win $100,000 in prizes. Make the world's ...The all-in-one creative AI platform. Try free now. Generate ... 4 days ago · ElevenLabs. 92,319 followers · 282,766 talking about this. We are on a mission to make content universally accessible i",
+    "url": "https://www.facebook.com/elevenlabsio/",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabs - Facebook ElevenLabs — studio-grade AI audio & video tools for creators and developers worldwide, helping make content universally accessible. Share your questions, tips, and projects.",
+    "url": "https://www.facebook.com/groups/elevenlabsai/",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabs - FacebookElevenLabs - FacebookElevenLabs | Trusted By 7,500,000+ Users & Brands | All -in ...ElevenLabs - Win $100,000 in prizes. Make the world's ...The all-in-one creative AI platform. Try free now. Generate ... ElevenLabs 🌱 Wholefood based protein & greens 💚 Packed with real veggies & superfoods... See more AI TOOL OF THE DAY: ELEVENLABS You don't need an expensive microphone, a rec",
+    "url": "https://www.facebook.com/elevenlabsnutrition/",
+    "pass": 3
+   },
+   {
+    "quote": "ElevenLabs - Facebook AI TOOL OF THE DAY: ELEVENLABS You don't need an expensive microphone, a recording studio, or even your own voice to create professional voiceovers. Meet ElevenLabs — an AI tool that turns written text into realistic, human-sounding speech in seconds.",
+    "url": "https://www.facebook.com/groups/elevenlabscommunity/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://elevenlabs.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://elevenlabs.io/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://elevenlabs.io/blog/elevenlabs-partners-with-ibm-to-bring-premium-voice-to-watsonx-orchestrate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://elevenlabs.io/blog/ukrainian-public-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://elevenlabs.io/blog/deutsche-telekom-and-elevenlabs-announce-partnership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://elevenlabs.io/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://elevenlabs.io/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://elevenlabs.io/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://elevenlabs.io/blog/kpn-mobiel-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://elevenlabs.io/blog/telus-digital-early-cancellations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://elevenlabs.io/blog/category/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://elevenlabs.io/blog/category/impact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://elevenlabs.io/blog/deutsche-telekom-magenta-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://elevenlabs.io/blog/kpn",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://elevenlabs.io/blog/deliveroo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://elevenlabs.io/blog/uk-mou-and-expansion",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://elevenlabs.io/blog/category/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://elevenlabs.io/blog/elevenlabs-partners-with-macro-and-a16z-cultural-leadership-fund-clf-to-support-the-next-generation-of-storytellers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://elevenlabs.io/blog/bertelsmann",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://jisalab.jp/ai/elevenlabs-japan-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aiagent-navi.com/generation-ai/elevenlabs-pricing-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ainews.mironcorp.com/elevenlabs-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://summit.elevenlabs.io/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ui.elevenlabs.io/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://help.elevenlabs.io/hc/en-us",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://japan-elevenlabs.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.global-gw.com/japannews/elevenlabs-launches-japanese-subsidiary-enters-market-with-ai-voice-technology",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/elevenlabs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudydesk.com/case-study/tvs-motor-35-percent-lead-capture-elevenlabs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/cartesia/case-study/elevenlabs-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/rich_emu7600/n/n9dc9bb3d0c15?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fushiana3/n/neb363fafedec?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/holy_gerbil1576/n/n575f953d1447",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/aiexpert/n/n9ecb9800bc8a?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ElevenLabs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ElevenLabsDevs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ElevenLabs/status/2099547227223908568",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ElevenLabs/status/2107503346504634463",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/elevenlabs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/elevenlabsio-elevenlabs/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/elevenlabs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/alex-holt-ab5382119",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/elevenlabsio/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/elevenlabsai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/elevenlabsnutrition/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/elevenlabscommunity/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/startup_now0708/n/n51da1f6a6a49",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/holy_gerbil1576/n/n575f953d1447",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ElevenLabs/status/2107108791703744763",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Elevenlabs 日本 導入",
+   "results": [
+    "https://elevenlabs.io/blog/elevenlabs-establishes-japanese-subsidiary-elevenlabs-gk",
+    "https://jisalab.jp/ai/elevenlabs-japan-2025/",
+    "https://aiagent-navi.com/generation-ai/elevenlabs-pricing-guide/",
+    "https://ainews.mironcorp.com/elevenlabs-ai/",
+    "https://aiagent-navi.com/generation-ai/what-is-elevenlabs/",
+    "https://elevenlabs.io/ja/blog/elevenlabs-establishes-japanese-subsidiary-elevenlabs-gk",
+    "https://prtimes.jp/main/html/rd/p/000000001.000160611.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Elevenlabs 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://summit.elevenlabs.io/",
+    "https://ui.elevenlabs.io/",
+    "https://help.elevenlabs.io/hc/en-us",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.aon.com/japan/company-overview",
+    "https://www.galderma.com/jp-jp/japan"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Elevenlabs Japan",
+   "results": [
+    "https://elevenlabs.io/ja/blog/elevenlabs-establishes-japanese-subsidiary-elevenlabs-gk",
+    "https://elevenlabs.io/blog/elevenlabs-establishes-japanese-subsidiary-elevenlabs-gk",
+    "https://japan-elevenlabs.com/",
+    "https://www.global-gw.com/japannews/elevenlabs-launches-japanese-subsidiary-enters-market-with-ai-voice-technology",
+    "https://miralab.co.jp/media/elevenlabs/",
+    "https://www.linkedin.com/company/elevenlabs-japan",
+    "https://www.nttdocomo-v.com/portfolio/elevenlabs/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Elevenlabs manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/elevenlabs",
+    "https://elevenlabs.io/customer-stories",
+    "https://www.casestudydesk.com/case-study/tvs-motor-35-percent-lead-capture-elevenlabs",
+    "https://www.casestudies.com/company/cartesia/case-study/elevenlabs-customer-case-study",
+    "https://www.therevenueaireport.com/capabilities/elevenlabs",
+    "https://www.featuredcustomers.com/vendor/elevenlabs/case-studies",
+    "https://www.lv-prod.com/work/elevenlabs-cadence-case-study/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Elevenlabs white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Elevenlabs founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Elevenlabs",
+   "results": [
+    "https://note.com/rich_emu7600/n/n9dc9bb3d0c15?hl=en",
+    "https://note.com/fushiana3/n/neb363fafedec?hl=en",
+    "https://note.com/holy_gerbil1576/n/n575f953d1447",
+    "https://note.com/aiexpert/n/n9ecb9800bc8a?hl=en",
+    "https://note.com/miomuroi/n/n522bd54ddfcd",
+    "https://note.com/aiexpert/n/n9ecb9800bc8a",
+    "https://note.com/rich_emu7600/n/n093db20c4de1?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Elevenlabs",
+   "results": [
+    "https://x.com/ElevenLabs",
+    "https://x.com/ElevenLabsDevs",
+    "https://x.com/ElevenLabs/status/2099547227223908568",
+    "https://x.com/ElevenLabs/status/2107503346504634463",
+    "https://x.com/ElevenLabs/status/2112550782063247521",
+    "https://x.com/ElevenLabs/status/2098457076410482971",
+    "https://x.com/ElevenLabs/status/2104572127617994917"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Elevenlabs",
+   "results": [
+    "https://www.linkedin.com/company/elevenlabs",
+    "https://www.linkedin.com/products/elevenlabsio-elevenlabs/",
+    "https://uk.linkedin.com/company/elevenlabs",
+    "https://uk.linkedin.com/in/alex-holt-ab5382119",
+    "https://nl.linkedin.com/in/ethantandowsky",
+    "https://pl.linkedin.com/in/maciej-m",
+    "https://in.linkedin.com/in/raksha-manay"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Elevenlabs",
+   "results": [
+    "https://www.facebook.com/elevenlabsio/",
+    "https://www.facebook.com/groups/elevenlabsai/",
+    "https://www.facebook.com/elevenlabsnutrition/",
+    "https://www.facebook.com/groups/elevenlabscommunity/",
+    "https://www.facebook.com/elevenlabsio/videos/elevenlabs-trusted-by-7500000-users-brands-all-in-one-ai-creative-platform/2363599817782017/",
+    "https://www.facebook.com/elevenlabsio/posts/win-100000-in-prizes-make-the-worlds-catchiest-ad-enter-by-nov-1-2026-must-be-18/1082697184632161/",
+    "https://www.facebook.com/elevenlabsio/videos/elevenlabs-trusted-by-7500000-users-brands-all-in-one-ai-creative-platform/2875308389492369/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Elevenlabs note 社長",
+   "results": [
+    "https://en.wikipedia.org/wiki/Mati_Staniszewski",
+    "https://note.com/startup_now0708/n/n51da1f6a6a49",
+    "https://exa.ai/websets/directory/elevenlabs-executives",
+    "https://siliconvalleyinvestclub.com/companies/elevenlabs/team/mati-staniszewski/",
+    "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+    "https://note.com/taka_410/n/n8201627627f0",
+    "https://compalyze.co.jp/company/7010003046883"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Elevenlabs X 投稿",
+   "results": [
+    "https://webflowai.cn/",
+    "https://elevenlabs.io/docs/zh/overview/administration/account",
+    "https://note.com/holy_gerbil1576/n/n575f953d1447",
+    "https://x.com/ElevenLabs/status/2107108791703744763",
+    "https://x.com/ElevenLabs/status/2098457076410482971",
+    "https://note.com/designlabcreate/n/n5703c9eed265",
+    "https://elevenlabs.io/studio"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式19頁／PDF・画像0件／外部31頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式19頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式19頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式19頁／PDF・画像0件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式19頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式19頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

@@ -8,752 +8,8 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-09T07:05:04.425346+00:00",
+ "researched_at": "2026-11-10T17:21:21.601820+00:00",
  "evidence": {
-  "手順・やり方": [
-   {
-    "quote": "「AIが自分の調査手順を書き換える」層は、最も魅力的で、最も危うい",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "これらを、手順（プロトコル）として実行可能にしようと試みたのが、先ほど触れた",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Signal Map（シグナル地図）→ Convergence Analysis（収束分析）→ Contrarian View（逆張りの視点）→ Timing Grid（時機の判断）と進む手順は、実務にも使いやすい",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ここがポイント：インテリジェンスとは「情報の量」ではなく「問いの質」と「疑う手順」で決まる",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "疑い続ける手順を、止まらずに回し続けること",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "AIは、こうした人間の方法論を置き換えるのではなく、",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "EU：毎年の報告書と、方法の透明性への注文",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "日本：NISTEPが書いた、率直な反省",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "科学技術・学術政策研究所（NISTEP）は、1971年からおよそ5年ごとに",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Firecracker型のmicroVMは",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "手続き記憶：改善され続ける調査手順（Skill）",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "（Nous Research、2026年2月公開）は、セッションをまたぐ永続メモリ、SQLiteの全文検索による過去会話の検索、そして経験からSKILL.mdというファイルに手順を保存する仕組みを持つ",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "たとえば、仮説H「企業の推論基盤は、クラウド依存から自社管理型へ移行している」の確信度が、最初は10%だったとする（オッズは1対9）",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "構想の最上層には、システムが自分の調査手順（Skill）や判定プロンプトを、結果を見て書き換える層がある",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "1つのオープンウェイトモデル（Qwen3.6-27B）が、タスクを解く役、チームの手順を最適化する役、成果を評価する役を兼ね、",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "今回の2件は、モデル側の計算の使い方と、サービング側の運用基盤という、推論コストと効率を左右する二つの層を扱っている",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "NVIDIAの「Dory 1.0 4B」はループ型の言語モデルで、解説記事は専用にピン留めされたllama.cppブランチをビルドして動かす手順を扱っている",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "従来のフレームワークがブランチ間でprefixのKVキャッシュを重複させ、テキスト要約の再prefillで知見を交換し、RL時にブランチ間依存を潰している点の改善を狙う",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "自己進化の理論的枠組みとして、環境変化後のダーウィン型、ラマルク型、エージェント主導型の進化を比較している",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "医療分野では、エージェント型LLMパイプライン「PRISM」が、オンライン健康コミュニティの投稿から、ClinVarで再分類された遺伝子バリアントの再解釈が必要な患者を拾い上げる",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "2026年11月5日前後の動向では、AI研究の関心が「モデル単体の性能」から「エージェントを動かす運用基盤・推論効率・評価の方法論」へ広がっていることが目立つ",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Cognitionの小型コーディングモデル「SWE-2 Flash」やTencentのマルチモーダルモデル「Hy4」など、実用性とコストを両立するモデルが登場した",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "32kステップ",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "階層型の推論では、信頼度でローカル処理と上位への委譲を切り替える方式が一般的だ",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "信頼度ゲート付き階層型LLM推論の成立条件",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "エージェントを覆せるのは誰か:LLMレビュー制度における証拠ゲート型権限",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ホスト側が持つ監視・トレース・直近の失敗といった検証済みテレメトリを、小さく新鮮な形でモデルに渡す、信頼分離型の設計を提案した",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "エージェント型AIは実行時にツールを呼び出して反復するため、計算・帯域・遅延の需要がディスパッチ時には不明である",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "消費者向けハードウェアで動く小型モデルが増えるなか、既存の検索中心の評価では長文脈記憶を十分に捉えられないという指摘だ",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Google Researchの「Agile Deliberation」は、境界事例の画像を使って主観的な視覚概念をユーザーが定義するための、人間参加型フレームワークだ",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "One of the many important steps in a structure expert judgement (SEJ) elicitation protocol is the formulation of questions for experts. Several formats proved to be intuitive and are thought to mitigate biases. In this research we are interested in the elicitation of probabilities of future events (using a SEJ protocol), and their evaluation.",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Missing data are traditionally treated by listwise deletion, a method that simply ignores cases with missing values for any of the variables and analyses the remaining data. This approach is also known as the complete case (or available case) analysis [",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "2 Methods",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "]. Each month IARPA released a list of questions asking to predict the probabilities of the occurrence of global events relevant to the time period concerned. Participants of the teams submitted their probability predictions using the 3-step question format. That is to say that for each probability (expressed as a percentage scale) three numbers were elicited as follows:",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": ") based Brier scores will be identical for the participants (we verified this claim for our data, not shown here). If we consider the estimation of standard errors of Brier scores, then potential correlations between probability predictions due to the effects of common questions have not been considered in both methods. Therefore, the independence assumption of random errors",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "] discussed fitting linear fixed-effects models with both constant and non-constant within-group errors using the generalized least squares estimation method. Therefore, we considered fitting the above discussed linear fixed-effects model together with the following extended linear fixed-effects model with non-constant variances of within-participant errors.",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "The reason for choosing the generalized least squares (GLS) estimation method in the model in",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "over the ordinary least squares (OLS) estimation method in the model in",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "We now briefly describe candidate imputation methods. The mean imputation method is one of the default methods used in major statistical packages together with the case deletion method [",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "]. The mean imputation method imputes missing values by substituting the missing values of a given variable by the mean value of the observed values of that variable [",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "], the mean imputation method needs to satisfy the MCAR (Missing Completely at Random) assumption to obtain unbiased results. We consider the mean imputation as one of the imputation methods in this analysis.",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "]. This method fits a regression equation considering the observed values of a given variable with missing values as the response variable and all the other relevant variables in the data set as predictor variables. Then, the predicted values from the fitted regression equation are used to impute missing values [",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "], this method provides a sound basis for many of the modern missing value estimating methods. The results are unbiased if the MCAR or MAR (Missing at Random) conditions hold [",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "The above discussed imputation methods only perform single imputations of missing values [",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "] discussed the importance of considering the uncertainty of an imputation process by repeating the process multiple times. Therefore, it is also of interest to apply suitable advanced missing-value estimation methods that employ iterative procedures to take into account the underlying uncertainty of the imputation process. [",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "確率予測の採点にはBrier Score（予測確率と結果の差の二乗の平均",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "観測システムが予測を出すなら、この文化――確率で言い切り、結果で採点する――を、最初から組み込むべきだと私は考える",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "構想の最上層には、システムが自分の調査手順（Skill）や判定プロンプトを、結果を見て書き換える層がある",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "予測を記録し、結果が出たらBrier Scoreで採点し、その成績が悪化した手順だけを書き換える",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "：結果を、人間が「議論できる形」で見せる",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "観測システムを実際に作る人は、地味な層から先に固めるほうが、結果として遠くまで行ける、というのが私の見立てである",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "：仮説ごとに、確率、期限、判定基準、結果を書き、期限が来たらBrier Scoreで採点する",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "わずか2サイクルの結果から、長期の安定性は言えない",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "評価を、評価者の偏りと打ち切られた結果の下での性能推定として定式化し、各レベルの結論が自己検証される設計を求めている",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "と同等性検定つきで比べた結果、「同等だが優れてはいない」という結論になった",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "のコーパスで、テキストの作成条件が検出結果を左右することを示した",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Google Researchの「Agile Deliberation」は、境界事例の画像を使って主観的な視覚概念をユーザーが定義するための、人間参加型フレームワークだ",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "コーディングエージェントが大量にコミットする時代のインフラ課題を示す事例といえる",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Taurusは、CT画像の大動脈ラベリングで、LLMが自由にセグメンテーションコードを書く「コーディングエージェント」方式と、自動処理の結果をLLMがレビューする「ハーネス」方式を比較し、後者が",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "大型モデルほど危険という逆説的な結果で、クリーンな後処理だけでは防げない点が重い",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "だがもっともらしさは安全な判断を保証せず、誤った安全判定の少なさと確認が必要なケースの再現率の低さという、非対称な承認挙動を示すモデルがある",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "フィードバックグラフ付きバンディットで、一次の後悔（first-order regret）保証をほぼ最適にする理論結果が出ている",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ただし実環境での計測ではなく、自社シミュレーションの結果である点には注意が要る",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ただし、Droid 1.0のベンチマーク結果はFactory自身の計測であり、第三者検証が必要である",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "数値はFactory自身の実行結果であり、独立した第三者による再現は示されていない",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Factory の Droid 1.0 は、プロンプト、ツール、結果の返し方、ループまでを含む「エージェントハーネス」を刷新した",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ツール使用エージェントの間接プロンプトインジェクションを内部表現で検知する研究では、結果が食い違う原因の多くが評価の不備にあると指摘された",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "結果は漸近的なもので、実際のSATソルバーの性能については何も示さないと明記されている",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Obtaining the best possible predictions for future events is a relevant topic in any application area, but the latest developments arise from extensive research in the intelligence analysis field. Several massive projects were undertaken recently, for example the Good Judgment project and the Cosmic Bazaar described in the [",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Even more dependence between answers is introduced in cases when the questions are perceived as easy or hard to more than one expert. In this situation their errors might be correlated to one another. Furthermore, cognitive frailties that are known to introduce bias, such as the halo effect",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Missing data are traditionally treated by listwise deletion, a method that simply ignores cases with missing values for any of the variables and analyses the remaining data. This approach is also known as the complete case (or available case) analysis [",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "2.1 Motivating Example: The Intelligence Game Data",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "indicate the between question variation and the random error variation respectively. Similar to the case of linear fixed-effects model (",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "We now briefly describe candidate imputation methods. The mean imputation method is one of the default methods used in major statistical packages together with the case deletion method [",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "has almost similar interpretation of results for the case of 10% individual missing values of predictions introduced completely at random.",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Imputation is particularly useful when expert opinions are inserted into a higher-level simulation model, pairwise or in higher dimension. As a trivial example, imagine an SEJ exercise to elicit from six experts proficient in statistics, the slope",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": ", for example:",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "is missing. Under case-wise deletion, this expert’s intercept must be deleted, which is wasteful. Under imputation, a candidate value (or multiple candidate values) can be applied (In any case, the analyst should avoid the temptation to use aggregated estimates of the slope and intercept in the prediction equation, because doing so ignore the within-expert correlation between the estimates).",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "しかし五つを一本の線でつなぐと、「AIの競争軸が、モデルの大きさ競争から、管理下で安全にエージェントを動かす基盤の確保へ移りつつあるのではないか」という仮説が立ち上がる",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "インテリジェンスには、「だから何なのか」「違っていたらどうなるのか」という、仮説と検証が入る",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "自分の気に入った仮説を支持する証拠を集めるのではなく、複数の仮説を並べ、「どの仮説と矛盾する証拠か」を表にして、矛盾の多い仮説から消していく",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "であって、検証済みの事実ではない",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "では、冒頭の仮説――「管理下でエージェントを安全に動かす基盤への移行」――に戻ろう",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "つまり、この仮説は「全体として見える」が、五つの柱のうち、少なくとも一つは",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "そこから派生した仮説を連鎖的に無効化（カスケード）できる",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "6. 仮説を「更新」する――ベイズ更新は、LLMに任せていいのか",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "この構想の心臓部は、仮説の確信度を、新しい証拠が来るたびに更新する仕組みである",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "たとえば、仮説H「企業の推論基盤は、クラウド依存から自社管理型へ移行している」の確信度が、最初は10%だったとする（オッズは1対9）",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "そこへ、「この仮説が本当なら、起きやすさが本当でない場合の4倍になる」証拠（尤度比4）が一つ届いた",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "証拠が増えるたび、この掛け算を丁寧に繰り返す",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "この掛け算は、証拠が",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "マーケティング主導の記事を、仮説に引っ張られて集め、自分で自分を補強する",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "検索クエリが仮説に染まっている限り、反証は見つからない",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "共通するのは、性能の絶対値より、検証可能な構造や評価データで品質を管理する姿勢である",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "のオープンMoEモデルを、設定ファイルで検証して比較した",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "第三者による検証や、「プロパガンダ」の判定基準の詳細は提供された情報からは確認できず、他の評価での再現性は今後の確認事項となる",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Loopedモデルの推論計算をどう検証するか",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "メモリキャッシュの挙動の検証と、ペアでの評価（paired evaluations）も扱われている",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "AIが証明や自己進化まで担い始めるなか、「人間がどう検証し、安全に統制するか」が共通の課題として浮かび上がっている",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "評価を、評価者の偏りと打ち切られた結果の下での性能推定として定式化し、各レベルの結論が自己検証される設計を求めている",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "AIによる証明・自己改善と、人間による検証",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "機械検証済みの証明は形式的命題の正しさしか保証しないため、各命題が意図を忠実に表すかの確認が、人間に残る作業だと位置づけている",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ランダム分割では高性能でも未知の合金への外挿が弱い点を、評価単位の選び方による結論の違いから検証している",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "脳磁図・脳波(M/EEG)の情報源推定では、ベイズ手法の事後信用領域が経験的に較正されているかを、シミュレーションベースで検証する枠組みを示した",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "また、量子機械学習やLLMによる文献レビューなど、「期待ほど優れていない」ことを検証する研究も目を引いた",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "回答を検証する自動評価器と組み合わせ、データセンター効率、チップ設計、AI学習の改善に使われてきた",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "で最適化し、Colabで有理数演算による厳密な検証ができる",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ホスト側が持つ監視・トレース・直近の失敗といった検証済みテレメトリを、小さく新鮮な形でモデルに渡す、信頼分離型の設計を提案した",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "will likely introduce bias to more than one expert, which increases dependence. The consequence of these correlation structures is that the estimates of the standard errors do not have the intended statistical properties.",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "]. According to that the design effect can be large if the units belong to a same group are highly similar as implied by obtaining a higher intra-class correlation coefficient. Furthermore, standard error estimates can be substantially distorted even for a relatively small intra-class correlation.",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "] discussed a correction procedure for the standard error estimates through the computation of effective sample sizes in two-stage cluster sampling as",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "] explains that the effective sample size can be considerably reduced and the standard error estimates can be substantially increased even for a small intra-class correlation. Therefore, it is important to obtain corrected standard error estimates using effective sample sizes in cluster sampling. However, as [",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "], data from a one-way classification can be analysed either with a fixed-effects model or a random-effects model. We intend to estimate the Brier scores of those particular levels of experts that are used in the experiment but not to make inferences about the population from which the experts are drawn. Therefore we fit the following linear fixed-effects model.",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": ". Hence, the above linear model gives mean estimates that are identical to the typical experts’ Brier scores irrespective of whether the experts have predicted all the events or not.",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "This format is meant as a debiasing technique, by encouraging counter-factual thinking. More research is needed, but the conjecture is that asking experts to think about an upper and lower bound first, improves the accuracy of the best estimate.",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "The correlations between probability predictions due to the question effects can be included into the above model either as fixed effects or as random effects. If we include them as fixed effects, the model needs to estimate the effects of each and every level of the questions as separate parameters in the model. These parameters will behave as nuisance parameters and avoid estimating",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "’s directly as expert Brier scores in the model. If we include the question effects as random effects, then the expert Brier scores can directly be estimated as",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "’s from the model with improved standard error estimates. The inclusion of question effects as random effects leads to the following linear mixed-effects model.",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "in the linear fixed-effects model may be violated and inaccurate standard error estimates of Brier scores may result. Furthermore, the constant variance assumption of random errors",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "was discussed above. It is a well-known fact that the maximum likelihood and ANOVA based OLS estimates are equivalent under the assumptions of the linear regression models. Even though, we are moving from the OLS estimation to the GLS estimation under the non-constant error variances within participants, the diagonal covariance structure assumption still remains. According to [",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "], altering the covariance structure of a parametric model alters the estimated standard errors of the model’s estimated parameters. Therefore, the maximum likelihood estimates of the standard errors of individual participants’ Brier scores obtained from the typical computation based on the deviations of observations",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "from the estimated mean",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "should be mathematically equivalent to the corresponding standard error estimates from the GLS model in",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
   "一次情報の探し方": [
    {
     "quote": "：今回の調査では、一次情報で確認できなかった",
@@ -1077,6 +333,750 @@
    },
    {
     "quote": "Bias, Information, Noise: The Bin Model of Forecasting",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "しかし五つを一本の線でつなぐと、「AIの競争軸が、モデルの大きさ競争から、管理下で安全にエージェントを動かす基盤の確保へ移りつつあるのではないか」という仮説が立ち上がる",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "インテリジェンスには、「だから何なのか」「違っていたらどうなるのか」という、仮説と検証が入る",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "自分の気に入った仮説を支持する証拠を集めるのではなく、複数の仮説を並べ、「どの仮説と矛盾する証拠か」を表にして、矛盾の多い仮説から消していく",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "であって、検証済みの事実ではない",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "では、冒頭の仮説――「管理下でエージェントを安全に動かす基盤への移行」――に戻ろう",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "つまり、この仮説は「全体として見える」が、五つの柱のうち、少なくとも一つは",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "そこから派生した仮説を連鎖的に無効化（カスケード）できる",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "6. 仮説を「更新」する――ベイズ更新は、LLMに任せていいのか",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "この構想の心臓部は、仮説の確信度を、新しい証拠が来るたびに更新する仕組みである",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "たとえば、仮説H「企業の推論基盤は、クラウド依存から自社管理型へ移行している」の確信度が、最初は10%だったとする（オッズは1対9）",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "そこへ、「この仮説が本当なら、起きやすさが本当でない場合の4倍になる」証拠（尤度比4）が一つ届いた",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "証拠が増えるたび、この掛け算を丁寧に繰り返す",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "この掛け算は、証拠が",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "マーケティング主導の記事を、仮説に引っ張られて集め、自分で自分を補強する",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "検索クエリが仮説に染まっている限り、反証は見つからない",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "共通するのは、性能の絶対値より、検証可能な構造や評価データで品質を管理する姿勢である",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "のオープンMoEモデルを、設定ファイルで検証して比較した",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "第三者による検証や、「プロパガンダ」の判定基準の詳細は提供された情報からは確認できず、他の評価での再現性は今後の確認事項となる",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Loopedモデルの推論計算をどう検証するか",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "メモリキャッシュの挙動の検証と、ペアでの評価（paired evaluations）も扱われている",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "AIが証明や自己進化まで担い始めるなか、「人間がどう検証し、安全に統制するか」が共通の課題として浮かび上がっている",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "評価を、評価者の偏りと打ち切られた結果の下での性能推定として定式化し、各レベルの結論が自己検証される設計を求めている",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "AIによる証明・自己改善と、人間による検証",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "機械検証済みの証明は形式的命題の正しさしか保証しないため、各命題が意図を忠実に表すかの確認が、人間に残る作業だと位置づけている",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ランダム分割では高性能でも未知の合金への外挿が弱い点を、評価単位の選び方による結論の違いから検証している",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "脳磁図・脳波(M/EEG)の情報源推定では、ベイズ手法の事後信用領域が経験的に較正されているかを、シミュレーションベースで検証する枠組みを示した",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "また、量子機械学習やLLMによる文献レビューなど、「期待ほど優れていない」ことを検証する研究も目を引いた",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "回答を検証する自動評価器と組み合わせ、データセンター効率、チップ設計、AI学習の改善に使われてきた",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "で最適化し、Colabで有理数演算による厳密な検証ができる",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ホスト側が持つ監視・トレース・直近の失敗といった検証済みテレメトリを、小さく新鮮な形でモデルに渡す、信頼分離型の設計を提案した",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "will likely introduce bias to more than one expert, which increases dependence. The consequence of these correlation structures is that the estimates of the standard errors do not have the intended statistical properties.",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "]. According to that the design effect can be large if the units belong to a same group are highly similar as implied by obtaining a higher intra-class correlation coefficient. Furthermore, standard error estimates can be substantially distorted even for a relatively small intra-class correlation.",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "] discussed a correction procedure for the standard error estimates through the computation of effective sample sizes in two-stage cluster sampling as",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "] explains that the effective sample size can be considerably reduced and the standard error estimates can be substantially increased even for a small intra-class correlation. Therefore, it is important to obtain corrected standard error estimates using effective sample sizes in cluster sampling. However, as [",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "], data from a one-way classification can be analysed either with a fixed-effects model or a random-effects model. We intend to estimate the Brier scores of those particular levels of experts that are used in the experiment but not to make inferences about the population from which the experts are drawn. Therefore we fit the following linear fixed-effects model.",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": ". Hence, the above linear model gives mean estimates that are identical to the typical experts’ Brier scores irrespective of whether the experts have predicted all the events or not.",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "This format is meant as a debiasing technique, by encouraging counter-factual thinking. More research is needed, but the conjecture is that asking experts to think about an upper and lower bound first, improves the accuracy of the best estimate.",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The correlations between probability predictions due to the question effects can be included into the above model either as fixed effects or as random effects. If we include them as fixed effects, the model needs to estimate the effects of each and every level of the questions as separate parameters in the model. These parameters will behave as nuisance parameters and avoid estimating",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "’s directly as expert Brier scores in the model. If we include the question effects as random effects, then the expert Brier scores can directly be estimated as",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "’s from the model with improved standard error estimates. The inclusion of question effects as random effects leads to the following linear mixed-effects model.",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "in the linear fixed-effects model may be violated and inaccurate standard error estimates of Brier scores may result. Furthermore, the constant variance assumption of random errors",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "was discussed above. It is a well-known fact that the maximum likelihood and ANOVA based OLS estimates are equivalent under the assumptions of the linear regression models. Even though, we are moving from the OLS estimation to the GLS estimation under the non-constant error variances within participants, the diagonal covariance structure assumption still remains. According to [",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "], altering the covariance structure of a parametric model alters the estimated standard errors of the model’s estimated parameters. Therefore, the maximum likelihood estimates of the standard errors of individual participants’ Brier scores obtained from the typical computation based on the deviations of observations",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "from the estimated mean",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "should be mathematically equivalent to the corresponding standard error estimates from the GLS model in",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "確率予測の採点にはBrier Score（予測確率と結果の差の二乗の平均",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "観測システムが予測を出すなら、この文化――確率で言い切り、結果で採点する――を、最初から組み込むべきだと私は考える",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "構想の最上層には、システムが自分の調査手順（Skill）や判定プロンプトを、結果を見て書き換える層がある",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "予測を記録し、結果が出たらBrier Scoreで採点し、その成績が悪化した手順だけを書き換える",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "：結果を、人間が「議論できる形」で見せる",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "観測システムを実際に作る人は、地味な層から先に固めるほうが、結果として遠くまで行ける、というのが私の見立てである",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "：仮説ごとに、確率、期限、判定基準、結果を書き、期限が来たらBrier Scoreで採点する",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "わずか2サイクルの結果から、長期の安定性は言えない",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "評価を、評価者の偏りと打ち切られた結果の下での性能推定として定式化し、各レベルの結論が自己検証される設計を求めている",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "と同等性検定つきで比べた結果、「同等だが優れてはいない」という結論になった",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "のコーパスで、テキストの作成条件が検出結果を左右することを示した",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Google Researchの「Agile Deliberation」は、境界事例の画像を使って主観的な視覚概念をユーザーが定義するための、人間参加型フレームワークだ",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "コーディングエージェントが大量にコミットする時代のインフラ課題を示す事例といえる",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Taurusは、CT画像の大動脈ラベリングで、LLMが自由にセグメンテーションコードを書く「コーディングエージェント」方式と、自動処理の結果をLLMがレビューする「ハーネス」方式を比較し、後者が",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "大型モデルほど危険という逆説的な結果で、クリーンな後処理だけでは防げない点が重い",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "だがもっともらしさは安全な判断を保証せず、誤った安全判定の少なさと確認が必要なケースの再現率の低さという、非対称な承認挙動を示すモデルがある",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "フィードバックグラフ付きバンディットで、一次の後悔（first-order regret）保証をほぼ最適にする理論結果が出ている",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ただし実環境での計測ではなく、自社シミュレーションの結果である点には注意が要る",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ただし、Droid 1.0のベンチマーク結果はFactory自身の計測であり、第三者検証が必要である",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "数値はFactory自身の実行結果であり、独立した第三者による再現は示されていない",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Factory の Droid 1.0 は、プロンプト、ツール、結果の返し方、ループまでを含む「エージェントハーネス」を刷新した",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ツール使用エージェントの間接プロンプトインジェクションを内部表現で検知する研究では、結果が食い違う原因の多くが評価の不備にあると指摘された",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "結果は漸近的なもので、実際のSATソルバーの性能については何も示さないと明記されている",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Obtaining the best possible predictions for future events is a relevant topic in any application area, but the latest developments arise from extensive research in the intelligence analysis field. Several massive projects were undertaken recently, for example the Good Judgment project and the Cosmic Bazaar described in the [",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Even more dependence between answers is introduced in cases when the questions are perceived as easy or hard to more than one expert. In this situation their errors might be correlated to one another. Furthermore, cognitive frailties that are known to introduce bias, such as the halo effect",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Missing data are traditionally treated by listwise deletion, a method that simply ignores cases with missing values for any of the variables and analyses the remaining data. This approach is also known as the complete case (or available case) analysis [",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2.1 Motivating Example: The Intelligence Game Data",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "indicate the between question variation and the random error variation respectively. Similar to the case of linear fixed-effects model (",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "We now briefly describe candidate imputation methods. The mean imputation method is one of the default methods used in major statistical packages together with the case deletion method [",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "has almost similar interpretation of results for the case of 10% individual missing values of predictions introduced completely at random.",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Imputation is particularly useful when expert opinions are inserted into a higher-level simulation model, pairwise or in higher dimension. As a trivial example, imagine an SEJ exercise to elicit from six experts proficient in statistics, the slope",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": ", for example:",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "is missing. Under case-wise deletion, this expert’s intercept must be deleted, which is wasteful. Under imputation, a candidate value (or multiple candidate values) can be applied (In any case, the analyst should avoid the temptation to use aggregated estimates of the slope and intercept in the prediction equation, because doing so ignore the within-expert correlation between the estimates).",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "「AIが自分の調査手順を書き換える」層は、最も魅力的で、最も危うい",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "これらを、手順（プロトコル）として実行可能にしようと試みたのが、先ほど触れた",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Signal Map（シグナル地図）→ Convergence Analysis（収束分析）→ Contrarian View（逆張りの視点）→ Timing Grid（時機の判断）と進む手順は、実務にも使いやすい",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ここがポイント：インテリジェンスとは「情報の量」ではなく「問いの質」と「疑う手順」で決まる",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "疑い続ける手順を、止まらずに回し続けること",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "AIは、こうした人間の方法論を置き換えるのではなく、",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "EU：毎年の報告書と、方法の透明性への注文",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "日本：NISTEPが書いた、率直な反省",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "科学技術・学術政策研究所（NISTEP）は、1971年からおよそ5年ごとに",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Firecracker型のmicroVMは",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "手続き記憶：改善され続ける調査手順（Skill）",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "（Nous Research、2026年2月公開）は、セッションをまたぐ永続メモリ、SQLiteの全文検索による過去会話の検索、そして経験からSKILL.mdというファイルに手順を保存する仕組みを持つ",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "たとえば、仮説H「企業の推論基盤は、クラウド依存から自社管理型へ移行している」の確信度が、最初は10%だったとする（オッズは1対9）",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "構想の最上層には、システムが自分の調査手順（Skill）や判定プロンプトを、結果を見て書き換える層がある",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "1つのオープンウェイトモデル（Qwen3.6-27B）が、タスクを解く役、チームの手順を最適化する役、成果を評価する役を兼ね、",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "今回の2件は、モデル側の計算の使い方と、サービング側の運用基盤という、推論コストと効率を左右する二つの層を扱っている",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "NVIDIAの「Dory 1.0 4B」はループ型の言語モデルで、解説記事は専用にピン留めされたllama.cppブランチをビルドして動かす手順を扱っている",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "従来のフレームワークがブランチ間でprefixのKVキャッシュを重複させ、テキスト要約の再prefillで知見を交換し、RL時にブランチ間依存を潰している点の改善を狙う",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "自己進化の理論的枠組みとして、環境変化後のダーウィン型、ラマルク型、エージェント主導型の進化を比較している",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "医療分野では、エージェント型LLMパイプライン「PRISM」が、オンライン健康コミュニティの投稿から、ClinVarで再分類された遺伝子バリアントの再解釈が必要な患者を拾い上げる",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2026年11月5日前後の動向では、AI研究の関心が「モデル単体の性能」から「エージェントを動かす運用基盤・推論効率・評価の方法論」へ広がっていることが目立つ",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Cognitionの小型コーディングモデル「SWE-2 Flash」やTencentのマルチモーダルモデル「Hy4」など、実用性とコストを両立するモデルが登場した",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "32kステップ",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "階層型の推論では、信頼度でローカル処理と上位への委譲を切り替える方式が一般的だ",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "信頼度ゲート付き階層型LLM推論の成立条件",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "エージェントを覆せるのは誰か:LLMレビュー制度における証拠ゲート型権限",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ホスト側が持つ監視・トレース・直近の失敗といった検証済みテレメトリを、小さく新鮮な形でモデルに渡す、信頼分離型の設計を提案した",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "エージェント型AIは実行時にツールを呼び出して反復するため、計算・帯域・遅延の需要がディスパッチ時には不明である",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "消費者向けハードウェアで動く小型モデルが増えるなか、既存の検索中心の評価では長文脈記憶を十分に捉えられないという指摘だ",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Google Researchの「Agile Deliberation」は、境界事例の画像を使って主観的な視覚概念をユーザーが定義するための、人間参加型フレームワークだ",
+    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "One of the many important steps in a structure expert judgement (SEJ) elicitation protocol is the formulation of questions for experts. Several formats proved to be intuitive and are thought to mitigate biases. In this research we are interested in the elicitation of probabilities of future events (using a SEJ protocol), and their evaluation.",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Missing data are traditionally treated by listwise deletion, a method that simply ignores cases with missing values for any of the variables and analyses the remaining data. This approach is also known as the complete case (or available case) analysis [",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2 Methods",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "]. Each month IARPA released a list of questions asking to predict the probabilities of the occurrence of global events relevant to the time period concerned. Participants of the teams submitted their probability predictions using the 3-step question format. That is to say that for each probability (expressed as a percentage scale) three numbers were elicited as follows:",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": ") based Brier scores will be identical for the participants (we verified this claim for our data, not shown here). If we consider the estimation of standard errors of Brier scores, then potential correlations between probability predictions due to the effects of common questions have not been considered in both methods. Therefore, the independence assumption of random errors",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "] discussed fitting linear fixed-effects models with both constant and non-constant within-group errors using the generalized least squares estimation method. Therefore, we considered fitting the above discussed linear fixed-effects model together with the following extended linear fixed-effects model with non-constant variances of within-participant errors.",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The reason for choosing the generalized least squares (GLS) estimation method in the model in",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "over the ordinary least squares (OLS) estimation method in the model in",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "We now briefly describe candidate imputation methods. The mean imputation method is one of the default methods used in major statistical packages together with the case deletion method [",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "]. The mean imputation method imputes missing values by substituting the missing values of a given variable by the mean value of the observed values of that variable [",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "], the mean imputation method needs to satisfy the MCAR (Missing Completely at Random) assumption to obtain unbiased results. We consider the mean imputation as one of the imputation methods in this analysis.",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "]. This method fits a regression equation considering the observed values of a given variable with missing values as the response variable and all the other relevant variables in the data set as predictor variables. Then, the predicted values from the fitted regression equation are used to impute missing values [",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "], this method provides a sound basis for many of the modern missing value estimating methods. The results are unbiased if the MCAR or MAR (Missing at Random) conditions hold [",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The above discussed imputation methods only perform single imputations of missing values [",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "] discussed the importance of considering the uncertainty of an imputation process by repeating the process multiple times. Therefore, it is also of interest to apply suitable advanced missing-value estimation methods that employ iterative procedures to take into account the underlying uncertainty of the imputation process. [",
     "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
     "pass": 3,
     "first_seen": "2026-11-09"
@@ -1117,17 +1117,17 @@
     "method": "http"
    },
    {
-    "url": "https://rde.ac/journal/view.php?doi=10.5395/rde.2021.46.2.e29",
+    "url": "https://rde.ac/journal/view.php?doi=10.5395/rde.2021.46.4.e57",
     "status": "ok",
     "method": "browser"
    },
    {
-    "url": "https://note.com/tsunobuchi/n/n14a67db1074a",
+    "url": "https://metricgate.com/blogs/ja/type-i-vs-type-ii-errors/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://metricgate.com/blogs/ja/type-i-vs-type-ii-errors/",
+    "url": "https://note.com/tsunobuchi/n/n14a67db1074a",
     "status": "ok",
     "method": "http"
    },
@@ -1137,12 +1137,12 @@
     "method": "http"
    },
    {
-    "url": "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
+    "url": "https://www.sagamigaoka-ac.com/wp-content/dr_file/pdf/discussion_201906_2.pdf",
     "status": "ok",
-    "method": "browser"
+    "method": "pdf"
    },
    {
-    "url": "https://syp.vn/ja/insights/type-i-error-and-type-ii-error-guide",
+    "url": "https://note.com/ia_wake/n/ne7dcc8132cdf",
     "status": "ok",
     "method": "http"
    },
@@ -1152,19 +1152,9 @@
     "method": "http"
    },
    {
-    "url": "https://www.sagamigaoka-ac.com/wp-content/dr_file/pdf/discussion_201906_2.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://rde.ac/journal/view.php?doi=10.5395/rde.2018.43.3.e33",
+    "url": "https://rde.ac/journal/view.php?doi=10.5395/rde.2018.43.2.e25",
     "status": "ok",
     "method": "browser"
-   },
-   {
-    "url": "https://hybrid-analysis.com/sample/906f6d8db5ac776eceb71b9070e2b6c17474d76514d0f89feb07f75352edb412/65d9dcd2ced44082b60aaa82",
-    "status": "ok",
-    "method": "http"
    },
    {
     "url": "https://lab.ludashi.com/evaluation/article/59",
@@ -1172,12 +1162,27 @@
     "method": "browser"
    },
    {
+    "url": "https://hybrid-analysis.com/sample/e6d5c2f83c898ac02182d48f0f1cc08149851d2ef26ba41e75f098e5736c6841/644bddb95a692d8a0a0be650",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.etsankyu.com/ja/wp-content/uploads/2021/01/news-test.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://hybrid-analysis.com/sample/f8f6a7bec4fcf8ac547da0421e6be3c5939fad6fa8b85c7f3d7288c8bf8e3e43/5dd32156028838fb3aef8e85",
+    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rde.ac/journal/view.php?doi=10.5395/rde.2021.46.2.e29",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://hybrid-analysis.com/sample/8e04d6fa10f00c1156d860013ba07d5e3e337f420b8f663f01fc5c904c44babb/5c0f94bd7ca3e1729514a743",
     "status": "ok",
     "method": "http"
    },
@@ -1187,24 +1192,19 @@
     "method": "browser"
    },
    {
-    "url": "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20190907-00000033-at_s-l22&lang=ja",
+    "url": "https://www.synapsesocial.com/ja/papers/69b6068883145bc643d1c873",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20190915-00000009-san-l12&lang=ja",
     "status": "robots_disallowed",
     "method": ""
    },
    {
-    "url": "https://www.tsukuba.ac.jp/journal/pdf/p20261001141500.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://imis.igaku-shoin.co.jp/journal/contents/_internal/ad2d6820-04b3-42d5-a064-e9868d88bdb6/",
+    "url": "https://imis.igaku-shoin.co.jp/journal/contents/_internal/1444ebe7-f449-46ab-bc23-75e4a4499098/",
     "status": "robots_disallowed",
     "method": ""
-   },
-   {
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "status": "ok",
-    "method": "http"
    },
    {
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4121776/",
@@ -1217,24 +1217,24 @@
     "method": "http"
    },
    {
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://en.wikipedia.org/wiki/Brier_score",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.tandfonline.com/doi/full/10.1080/00031305.2024.2339266",
-    "status": "http_403",
+    "url": "https://www.lesswrong.com/posts/hJPwgwjWRSJ9DK4XN/in-forecasting-how-do-accuracy-calibration-and-reliability",
+    "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://glypse.ai/guides/brier-score",
+    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://medium.com/@eligoz/some-notes-on-probabilistic-classifiers-iii-brier-score-decomposition-eee5f847d87f",
+    "status": "ok",
+    "method": "browser"
    }
   ]
  },
@@ -1252,7 +1252,7 @@
     "https://note.com/kachikata_lab/n/nb9fb3132f378"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 8
@@ -1261,54 +1261,49 @@
    "query": "仮説の確率予測と採点（Brier Score・尤度比での更新・基準率から置く最初の確率・競合仮説分析・インテリジェンス分析の失敗） note",
    "results": [
     "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "https://rde.ac/DOIx.php?id=10.5395/rde.2021.46.2.e29",
-    "https://note.com/tsunobuchi/n/n14a67db1074a",
+    "https://rde.ac/DOIx.php?id=10.5395/rde.2021.46.4.e57",
     "https://metricgate.com/blogs/ja/type-i-vs-type-ii-errors/",
+    "https://note.com/tsunobuchi/n/n14a67db1074a",
     "https://hybrid-analysis.com/sample/b2015882aeb33dfd1d5155c22e796b7fdb3cb428fb3dbf6bf09e1918ea5cadf6/5c4f29967ca3e105b9643c33",
-    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
-    "https://syp.vn/ja/insights/type-i-error-and-type-ii-error-guide",
-    "https://norudakeset-ishikawa.net/wp-content/uploads/10.pdf",
-    "https://note.com/baken_shireibu/n/nb0568f06268c",
-    "https://jbsports.jp/ai-sports-predict/blog/ai-prediction-accuracy-guide/"
+    "https://www.sagamigaoka-ac.com/wp-content/dr_file/pdf/discussion_201906_2.pdf",
+    "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 8
   },
   {
    "query": "仮説の確率予測と採点（Brier Score・尤度比での更新・基準率から置く最初の確率・競合仮説分析・インテリジェンス分析の失敗） やり方",
    "results": [
     "https://www.worldoftest.com/ja/node/7036",
     "https://www.sagamigaoka-ac.com/wp-content/dr_file/pdf/discussion_201906_2.pdf",
-    "https://rde.ac/DOIx.php?id=10.5395/rde.2018.43.3.e33",
-    "https://hybrid-analysis.com/sample/906f6d8db5ac776eceb71b9070e2b6c17474d76514d0f89feb07f75352edb412/65d9dcd2ced44082b60aaa82",
+    "https://rde.ac/DOIx.php?id=10.5395/rde.2018.43.2.e25",
     "https://lab.ludashi.com/evaluation/article/59",
+    "https://hybrid-analysis.com/sample/e6d5c2f83c898ac02182d48f0f1cc08149851d2ef26ba41e75f098e5736c6841/644bddb95a692d8a0a0be650",
     "https://www.etsankyu.com/ja/wp-content/uploads/2021/01/news-test.pdf",
-    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://www.coinex.zone/ja/academy/2882/related-articles",
-    "https://jbsports.jp/ai-sports-predict/blog/ai-prediction-accuracy-guide/"
+    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
+    "https://www.coinex.zone/ja/academy/2882/related-articles"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 9
   },
   {
    "query": "仮説の確率予測と採点（Brier Score・尤度比での更新・基準率から置く最初の確率・競合仮説分析・インテリジェンス分析の失敗） 事例",
    "results": [
     "https://rde.ac/DOIx.php?id=10.5395/rde.2021.46.2.e29",
-    "https://hybrid-analysis.com/sample/f8f6a7bec4fcf8ac547da0421e6be3c5939fad6fa8b85c7f3d7288c8bf8e3e43/5dd32156028838fb3aef8e85",
+    "https://hybrid-analysis.com/sample/8e04d6fa10f00c1156d860013ba07d5e3e337f420b8f663f01fc5c904c44babb/5c0f94bd7ca3e1729514a743",
     "https://researchmap.jp/blogs/blog_entries/view/143851/cf29de114fa73c109536ac188d7e0345?lang=en",
-    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20190907-00000033-at_s-l22&lang=ja",
-    "https://www.tsukuba.ac.jp/journal/pdf/p20261001141500.pdf",
-    "https://imis.igaku-shoin.co.jp/journal/contents/_internal/ad2d6820-04b3-42d5-a064-e9868d88bdb6/",
+    "https://www.synapsesocial.com/ja/papers/69b6068883145bc643d1c873",
+    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20190915-00000009-san-l12&lang=ja",
+    "https://imis.igaku-shoin.co.jp/journal/contents/_internal/1444ebe7-f449-46ab-bc23-75e4a4499098/",
+    "https://www.tsukuba.ac.jp/journal/pdf/p20261014141500.pdf",
     "https://ai-news.iru-yo.com/topic/ai-research/",
-    "https://nittaidai.repo.nii.ac.jp/records/2000001",
-    "https://cir.nii.ac.jp/crid/1390564238056819840"
+    "https://nittaidai.repo.nii.ac.jp/records/2000001"
    ],
    "engines": [
     "yahoo_jp"
@@ -1320,13 +1315,13 @@
    "results": [
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC4121776/",
     "https://metricgate.com/blogs/brier-score-explained/",
-    "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
     "https://en.wikipedia.org/wiki/Brier_score",
-    "https://www.tandfonline.com/doi/full/10.1080/00031305.2024.2339266",
-    "https://glypse.ai/guides/brier-score",
-    "https://www.sas.upenn.edu/~baron/journal/17/17815/jdm17815.html",
-    "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7117919",
     "https://www.lesswrong.com/posts/hJPwgwjWRSJ9DK4XN/in-forecasting-how-do-accuracy-calibration-and-reliability",
+    "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
+    "https://www.youtube.com/watch?v=BiaebXlgfNQ",
+    "https://medium.com/@eligoz/some-notes-on-probabilistic-classifiers-iii-brier-score-decomposition-eee5f847d87f",
+    "https://glypse.ai/guides/brier-score",
+    "https://arxiv.org/html/2609.32885v1",
     "https://www.theforecastingmachine.com/blog/brier-score-calibration-forecast-accuracy"
    ],
    "engines": [
@@ -1342,8 +1337,8 @@
     "https://note.com/baken_shireibu/n/nb0568f06268c",
     "https://note.com/baken_shireibu/n/n854f906649de",
     "https://note.com/hyena_keiba_ai/n/nf18358cc2b5c",
-    "https://note.com/humomo/n/n779ae769d60b",
     "https://note.com/loots/n/n972ed09358f1",
+    "https://note.com/humomo/n/n779ae769d60b",
     "https://note.com/kachikata_lab/n/nb9fb3132f378",
     "https://note.com/loots/n/n1a41cd996344"
    ],
@@ -1362,7 +1357,7 @@
     "https://x.com/sug100foroba/status/2035663968426156228",
     "https://x.com/genkuroki/status/1824982711980949585",
     "https://x.com/sug100foroba/status/2035689499783782624",
-    "https://x.com/genkuroki/status/1792118287234670670"
+    "https://x.com/genkuroki/status/1705947132669444461"
    ],
    "engines": [
     "ddgs:google"
@@ -1371,19 +1366,9 @@
   },
   {
    "query": "site:linkedin.com 仮説の確率予測と採点（Brier Score・尤度比での更新・基準率から置く最初の確率・競合仮説分析・インテリジェンス分析の失敗）",
-   "results": [
-    "https://www.linkedin.com/posts/rithin-shetty_machinelearning-brierscore-probabilisticprediction-activity-7344423103332012032-7hCd",
-    "https://www.linkedin.com/feed/update/urn:li:activity:7356573983208558593/",
-    "https://jp.linkedin.com/pulse/understanding-probability-science-predictive-zgyhc?tl=ja",
-    "https://jp.linkedin.com/pulse/学びの窓-64-仮説と想定-誠一郎-眞部-blw1c",
-    "https://jp.linkedin.com/posts/均-上野-a60318267_前頭前野予測更新固定仮説⑧統合理論編-accvmpfcdlpfcはどのように-activity-7480500950164611072-V0E2",
-    "https://jp.linkedin.com/posts/均-上野-a60318267_前頭前野予測更新固定仮説予測更新ユニット編-c1篩骨l5尾骨は何を-activity-7481225727040847873-Ntrm",
-    "https://jp.linkedin.com/pulse/likelihood-function-probability-density-applications-mixed-alireza-zyqqe?tl=ja"
-   ],
-   "engines": [
-    "ddgs:google"
-   ],
-   "n_hits": 7
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "site:facebook.com 仮説の確率予測と採点（Brier Score・尤度比での更新・基準率から置く最初の確率・競合仮説分析・インテリジェンス分析の失敗）",
@@ -1394,25 +1379,25 @@
     "https://www.facebook.com/antaa/posts/新着antaa-slide感度特異度尤度比宮崎県立宮崎病院の石井-義洋先生にantaa-slideにて感度と特異度とは-尤度比って何のスライドをシェアいただきま/2497473273889350/",
     "https://www.facebook.com/physicaltherapydiagnosis/photos/検査特性-今回は検査特性を表す用語を紹介します検査をうまく使いこなすために必要な知識として感度特異度陽性尤度比陰性尤度比陽性適中率陰性適中率があります感度sen/1136312606550498/",
     "https://www.facebook.com/ShigaResp/posts/もうちょっと賢そうに尤度比がとか検査前確率がとか言えるといいのですがまさにこれまで避けて通ってきたところなので言えませんそのため今日はうまくまとまりませんでした/515982205131541/",
-    "https://www.facebook.com/briller.gmt/videos/ブリエ4周年を記念してwebで合計200万円以上ご購入いただいた方へティファニーのペアカップをプレゼント中です先着5名様限定となりますのでぜひお早めにご検討くだ/1340281503278108/"
+    "https://www.facebook.com/groups/247816822664827/posts/1369289617184203/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
   {
    "query": "仮説の確率予測と採点（Brier Score・尤度比での更新・基準率から置く最初の確率・競合仮説分析・インテリジェンス分析の失敗） note 社長",
    "results": [
-    "https://www.sagamigaoka-ac.com/wp-content/dr_file/pdf/discussion_201906_2.pdf",
     "https://note.com/tsunobuchi/n/n14a67db1074a",
-    "https://norudakeset-ishikawa.net/wp-content/uploads/9.pdf",
+    "https://rde.ac/DOIx.php?id=10.5395/rde.2021.46.2.e29",
+    "https://note.com/ia_wake/n/ne7dcc8132cdf",
+    "https://www.sagamigaoka-ac.com/wp-content/dr_file/pdf/discussion_201906_2.pdf",
+    "https://hybrid-analysis.com/sample/8e04d6fa10f00c1156d860013ba07d5e3e337f420b8f663f01fc5c904c44babb/5c0f94bd7ca3e1729514a743",
     "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
-    "https://hybrid-analysis.com/sample/f8f6a7bec4fcf8ac547da0421e6be3c5939fad6fa8b85c7f3d7288c8bf8e3e43/5dd32156028838fb3aef8e85",
-    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20220315-00000004-at_s-l22&lang=ja",
-    "https://www.murc.jp/wp-json/wp/v2/column_reports/93095/revisions",
-    "https://www.tsukuba.ac.jp/journal/pdf/p20261001141500.pdf",
-    "https://imis.igaku-shoin.co.jp/journal/contents/_internal/ad2d6820-04b3-42d5-a064-e9868d88bdb6/"
+    "https://www.synapsesocial.com/ja/papers/69b6068883145bc643d1c873",
+    "https://norudakeset-ishikawa.net/wp-content/uploads/9.pdf",
+    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20190915-00000009-san-l12&lang=ja"
    ],
    "engines": [
     "yahoo_jp"
@@ -1422,22 +1407,20 @@
   {
    "query": "仮説の確率予測と採点（Brier Score・尤度比での更新・基準率から置く最初の確率・競合仮説分析・インテリジェンス分析の失敗） X 投稿",
    "results": [
-    "https://rde.ac/DOIx.php?id=10.5395/rde.2021.46.2.e29",
+    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
     "https://note.com/tsunobuchi/n/n14a67db1074a",
-    "https://researchmap.jp/blogs/blog_entries/view/81030/15be77e4ecc721f14106ea4466a8222c?page_id=180291",
     "https://koubo.jp/article/list?t=1123",
-    "https://www.hi.u-tokyo.ac.jp/cdps/jmm/summary/",
-    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20220315-00000004-at_s-l22&lang=ja",
+    "https://www.synapsesocial.com/ja/papers/69b6068883145bc643d1c873",
+    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20191011-00000010-at_s-socc&lang=ja",
     "https://help.extlink.co.jp/books/5ef69/page/f033a/revisions/564",
-    "https://imis.igaku-shoin.co.jp/journal/contents/_internal/ab8c9b0a-a1fe-4bc1-a596-12b894f8e056/",
-    "https://www.tsukuba.ac.jp/journal/pdf/p20261001141500.pdf",
-    "https://metricgate.com/docs/ja/scoring-rules-brier/"
+    "https://imis.igaku-shoin.co.jp/journal/contents/_internal/9522a4c8-24ff-42f1-af0d-168f57557a98/",
+    "https://printerval.com/jp/report/content?id=2938008&srsltid=AYCX9vJpiHwYjQt60h4_QJw-zNlC3J_bYhC_q3fF41DXBe0BDwfc1MEg",
+    "https://blog.t-kougei.ac.jp/blog/2026/11/04/388668/"
    ],
    "engines": [
-    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 9
   },
   {
    "query": "forecast calibration Brier score analyst likelihood ratio base rate intelligence analysis site:linkedin.com",
@@ -1445,13 +1428,13 @@
     "https://www.linkedin.com/in/kaile-y-83390483",
     "https://www.linkedin.com/in/david-be-smadja",
     "https://uk.linkedin.com/in/adriadelamor",
-    "https://www.linkedin.com/in/kevinzhng",
+    "https://www.linkedin.com/in/eugenio-macias",
+    "https://www.linkedin.com/in/sunny-luo-cmumscf",
     "https://www.linkedin.com/in/tommasocanali",
     "https://www.linkedin.com/in/andy-z-44b61a126",
     "https://www.linkedin.com/in/chendingzora",
-    "https://www.linkedin.com/in/yan-zhang-49580880",
     "https://in.linkedin.com/in/sai39",
-    "https://www.linkedin.com/in/he-wang"
+    "https://www.linkedin.com/in/matthieu-papahagi"
    ],
    "engines": [
     "ddgs:google",
@@ -1461,1080 +1444,7 @@
   }
  ],
  "missing": {},
- "new_this_run": {
-  "手順・やり方": [
-   {
-    "quote": "「AIが自分の調査手順を書き換える」層は、最も魅力的で、最も危うい",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "これらを、手順（プロトコル）として実行可能にしようと試みたのが、先ほど触れた",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Signal Map（シグナル地図）→ Convergence Analysis（収束分析）→ Contrarian View（逆張りの視点）→ Timing Grid（時機の判断）と進む手順は、実務にも使いやすい",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ここがポイント：インテリジェンスとは「情報の量」ではなく「問いの質」と「疑う手順」で決まる",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "疑い続ける手順を、止まらずに回し続けること",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "AIは、こうした人間の方法論を置き換えるのではなく、",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "EU：毎年の報告書と、方法の透明性への注文",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "日本：NISTEPが書いた、率直な反省",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "科学技術・学術政策研究所（NISTEP）は、1971年からおよそ5年ごとに",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Firecracker型のmicroVMは",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "手続き記憶：改善され続ける調査手順（Skill）",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "（Nous Research、2026年2月公開）は、セッションをまたぐ永続メモリ、SQLiteの全文検索による過去会話の検索、そして経験からSKILL.mdというファイルに手順を保存する仕組みを持つ",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "たとえば、仮説H「企業の推論基盤は、クラウド依存から自社管理型へ移行している」の確信度が、最初は10%だったとする（オッズは1対9）",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "構想の最上層には、システムが自分の調査手順（Skill）や判定プロンプトを、結果を見て書き換える層がある",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "1つのオープンウェイトモデル（Qwen3.6-27B）が、タスクを解く役、チームの手順を最適化する役、成果を評価する役を兼ね、",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "今回の2件は、モデル側の計算の使い方と、サービング側の運用基盤という、推論コストと効率を左右する二つの層を扱っている",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "NVIDIAの「Dory 1.0 4B」はループ型の言語モデルで、解説記事は専用にピン留めされたllama.cppブランチをビルドして動かす手順を扱っている",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "従来のフレームワークがブランチ間でprefixのKVキャッシュを重複させ、テキスト要約の再prefillで知見を交換し、RL時にブランチ間依存を潰している点の改善を狙う",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "自己進化の理論的枠組みとして、環境変化後のダーウィン型、ラマルク型、エージェント主導型の進化を比較している",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "医療分野では、エージェント型LLMパイプライン「PRISM」が、オンライン健康コミュニティの投稿から、ClinVarで再分類された遺伝子バリアントの再解釈が必要な患者を拾い上げる",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "2026年11月5日前後の動向では、AI研究の関心が「モデル単体の性能」から「エージェントを動かす運用基盤・推論効率・評価の方法論」へ広がっていることが目立つ",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Cognitionの小型コーディングモデル「SWE-2 Flash」やTencentのマルチモーダルモデル「Hy4」など、実用性とコストを両立するモデルが登場した",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "32kステップ",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "階層型の推論では、信頼度でローカル処理と上位への委譲を切り替える方式が一般的だ",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "信頼度ゲート付き階層型LLM推論の成立条件",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "エージェントを覆せるのは誰か:LLMレビュー制度における証拠ゲート型権限",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ホスト側が持つ監視・トレース・直近の失敗といった検証済みテレメトリを、小さく新鮮な形でモデルに渡す、信頼分離型の設計を提案した",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "エージェント型AIは実行時にツールを呼び出して反復するため、計算・帯域・遅延の需要がディスパッチ時には不明である",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "消費者向けハードウェアで動く小型モデルが増えるなか、既存の検索中心の評価では長文脈記憶を十分に捉えられないという指摘だ",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Google Researchの「Agile Deliberation」は、境界事例の画像を使って主観的な視覚概念をユーザーが定義するための、人間参加型フレームワークだ",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "One of the many important steps in a structure expert judgement (SEJ) elicitation protocol is the formulation of questions for experts. Several formats proved to be intuitive and are thought to mitigate biases. In this research we are interested in the elicitation of probabilities of future events (using a SEJ protocol), and their evaluation.",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Missing data are traditionally treated by listwise deletion, a method that simply ignores cases with missing values for any of the variables and analyses the remaining data. This approach is also known as the complete case (or available case) analysis [",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "2 Methods",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "]. Each month IARPA released a list of questions asking to predict the probabilities of the occurrence of global events relevant to the time period concerned. Participants of the teams submitted their probability predictions using the 3-step question format. That is to say that for each probability (expressed as a percentage scale) three numbers were elicited as follows:",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": ") based Brier scores will be identical for the participants (we verified this claim for our data, not shown here). If we consider the estimation of standard errors of Brier scores, then potential correlations between probability predictions due to the effects of common questions have not been considered in both methods. Therefore, the independence assumption of random errors",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "] discussed fitting linear fixed-effects models with both constant and non-constant within-group errors using the generalized least squares estimation method. Therefore, we considered fitting the above discussed linear fixed-effects model together with the following extended linear fixed-effects model with non-constant variances of within-participant errors.",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "The reason for choosing the generalized least squares (GLS) estimation method in the model in",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "over the ordinary least squares (OLS) estimation method in the model in",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "We now briefly describe candidate imputation methods. The mean imputation method is one of the default methods used in major statistical packages together with the case deletion method [",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "]. The mean imputation method imputes missing values by substituting the missing values of a given variable by the mean value of the observed values of that variable [",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "], the mean imputation method needs to satisfy the MCAR (Missing Completely at Random) assumption to obtain unbiased results. We consider the mean imputation as one of the imputation methods in this analysis.",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "]. This method fits a regression equation considering the observed values of a given variable with missing values as the response variable and all the other relevant variables in the data set as predictor variables. Then, the predicted values from the fitted regression equation are used to impute missing values [",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "], this method provides a sound basis for many of the modern missing value estimating methods. The results are unbiased if the MCAR or MAR (Missing at Random) conditions hold [",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "The above discussed imputation methods only perform single imputations of missing values [",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "] discussed the importance of considering the uncertainty of an imputation process by repeating the process multiple times. Therefore, it is also of interest to apply suitable advanced missing-value estimation methods that employ iterative procedures to take into account the underlying uncertainty of the imputation process. [",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "確率予測の採点にはBrier Score（予測確率と結果の差の二乗の平均",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "観測システムが予測を出すなら、この文化――確率で言い切り、結果で採点する――を、最初から組み込むべきだと私は考える",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "構想の最上層には、システムが自分の調査手順（Skill）や判定プロンプトを、結果を見て書き換える層がある",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "予測を記録し、結果が出たらBrier Scoreで採点し、その成績が悪化した手順だけを書き換える",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "：結果を、人間が「議論できる形」で見せる",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "観測システムを実際に作る人は、地味な層から先に固めるほうが、結果として遠くまで行ける、というのが私の見立てである",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "：仮説ごとに、確率、期限、判定基準、結果を書き、期限が来たらBrier Scoreで採点する",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "わずか2サイクルの結果から、長期の安定性は言えない",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "評価を、評価者の偏りと打ち切られた結果の下での性能推定として定式化し、各レベルの結論が自己検証される設計を求めている",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "と同等性検定つきで比べた結果、「同等だが優れてはいない」という結論になった",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "のコーパスで、テキストの作成条件が検出結果を左右することを示した",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Google Researchの「Agile Deliberation」は、境界事例の画像を使って主観的な視覚概念をユーザーが定義するための、人間参加型フレームワークだ",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "コーディングエージェントが大量にコミットする時代のインフラ課題を示す事例といえる",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Taurusは、CT画像の大動脈ラベリングで、LLMが自由にセグメンテーションコードを書く「コーディングエージェント」方式と、自動処理の結果をLLMがレビューする「ハーネス」方式を比較し、後者が",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "大型モデルほど危険という逆説的な結果で、クリーンな後処理だけでは防げない点が重い",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "だがもっともらしさは安全な判断を保証せず、誤った安全判定の少なさと確認が必要なケースの再現率の低さという、非対称な承認挙動を示すモデルがある",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "フィードバックグラフ付きバンディットで、一次の後悔（first-order regret）保証をほぼ最適にする理論結果が出ている",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ただし実環境での計測ではなく、自社シミュレーションの結果である点には注意が要る",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ただし、Droid 1.0のベンチマーク結果はFactory自身の計測であり、第三者検証が必要である",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "数値はFactory自身の実行結果であり、独立した第三者による再現は示されていない",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Factory の Droid 1.0 は、プロンプト、ツール、結果の返し方、ループまでを含む「エージェントハーネス」を刷新した",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ツール使用エージェントの間接プロンプトインジェクションを内部表現で検知する研究では、結果が食い違う原因の多くが評価の不備にあると指摘された",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "結果は漸近的なもので、実際のSATソルバーの性能については何も示さないと明記されている",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Obtaining the best possible predictions for future events is a relevant topic in any application area, but the latest developments arise from extensive research in the intelligence analysis field. Several massive projects were undertaken recently, for example the Good Judgment project and the Cosmic Bazaar described in the [",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Even more dependence between answers is introduced in cases when the questions are perceived as easy or hard to more than one expert. In this situation their errors might be correlated to one another. Furthermore, cognitive frailties that are known to introduce bias, such as the halo effect",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Missing data are traditionally treated by listwise deletion, a method that simply ignores cases with missing values for any of the variables and analyses the remaining data. This approach is also known as the complete case (or available case) analysis [",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "2.1 Motivating Example: The Intelligence Game Data",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "indicate the between question variation and the random error variation respectively. Similar to the case of linear fixed-effects model (",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "We now briefly describe candidate imputation methods. The mean imputation method is one of the default methods used in major statistical packages together with the case deletion method [",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "has almost similar interpretation of results for the case of 10% individual missing values of predictions introduced completely at random.",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Imputation is particularly useful when expert opinions are inserted into a higher-level simulation model, pairwise or in higher dimension. As a trivial example, imagine an SEJ exercise to elicit from six experts proficient in statistics, the slope",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": ", for example:",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "is missing. Under case-wise deletion, this expert’s intercept must be deleted, which is wasteful. Under imputation, a candidate value (or multiple candidate values) can be applied (In any case, the analyst should avoid the temptation to use aggregated estimates of the slope and intercept in the prediction equation, because doing so ignore the within-expert correlation between the estimates).",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "しかし五つを一本の線でつなぐと、「AIの競争軸が、モデルの大きさ競争から、管理下で安全にエージェントを動かす基盤の確保へ移りつつあるのではないか」という仮説が立ち上がる",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "インテリジェンスには、「だから何なのか」「違っていたらどうなるのか」という、仮説と検証が入る",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "自分の気に入った仮説を支持する証拠を集めるのではなく、複数の仮説を並べ、「どの仮説と矛盾する証拠か」を表にして、矛盾の多い仮説から消していく",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "であって、検証済みの事実ではない",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "では、冒頭の仮説――「管理下でエージェントを安全に動かす基盤への移行」――に戻ろう",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "つまり、この仮説は「全体として見える」が、五つの柱のうち、少なくとも一つは",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "そこから派生した仮説を連鎖的に無効化（カスケード）できる",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "6. 仮説を「更新」する――ベイズ更新は、LLMに任せていいのか",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "この構想の心臓部は、仮説の確信度を、新しい証拠が来るたびに更新する仕組みである",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "たとえば、仮説H「企業の推論基盤は、クラウド依存から自社管理型へ移行している」の確信度が、最初は10%だったとする（オッズは1対9）",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "そこへ、「この仮説が本当なら、起きやすさが本当でない場合の4倍になる」証拠（尤度比4）が一つ届いた",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "証拠が増えるたび、この掛け算を丁寧に繰り返す",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "この掛け算は、証拠が",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "マーケティング主導の記事を、仮説に引っ張られて集め、自分で自分を補強する",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "検索クエリが仮説に染まっている限り、反証は見つからない",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "共通するのは、性能の絶対値より、検証可能な構造や評価データで品質を管理する姿勢である",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "のオープンMoEモデルを、設定ファイルで検証して比較した",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "第三者による検証や、「プロパガンダ」の判定基準の詳細は提供された情報からは確認できず、他の評価での再現性は今後の確認事項となる",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Loopedモデルの推論計算をどう検証するか",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "メモリキャッシュの挙動の検証と、ペアでの評価（paired evaluations）も扱われている",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "AIが証明や自己進化まで担い始めるなか、「人間がどう検証し、安全に統制するか」が共通の課題として浮かび上がっている",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "評価を、評価者の偏りと打ち切られた結果の下での性能推定として定式化し、各レベルの結論が自己検証される設計を求めている",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "AIによる証明・自己改善と、人間による検証",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "機械検証済みの証明は形式的命題の正しさしか保証しないため、各命題が意図を忠実に表すかの確認が、人間に残る作業だと位置づけている",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ランダム分割では高性能でも未知の合金への外挿が弱い点を、評価単位の選び方による結論の違いから検証している",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "脳磁図・脳波(M/EEG)の情報源推定では、ベイズ手法の事後信用領域が経験的に較正されているかを、シミュレーションベースで検証する枠組みを示した",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "また、量子機械学習やLLMによる文献レビューなど、「期待ほど優れていない」ことを検証する研究も目を引いた",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "回答を検証する自動評価器と組み合わせ、データセンター効率、チップ設計、AI学習の改善に使われてきた",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "で最適化し、Colabで有理数演算による厳密な検証ができる",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ホスト側が持つ監視・トレース・直近の失敗といった検証済みテレメトリを、小さく新鮮な形でモデルに渡す、信頼分離型の設計を提案した",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "will likely introduce bias to more than one expert, which increases dependence. The consequence of these correlation structures is that the estimates of the standard errors do not have the intended statistical properties.",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "]. According to that the design effect can be large if the units belong to a same group are highly similar as implied by obtaining a higher intra-class correlation coefficient. Furthermore, standard error estimates can be substantially distorted even for a relatively small intra-class correlation.",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "] discussed a correction procedure for the standard error estimates through the computation of effective sample sizes in two-stage cluster sampling as",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "] explains that the effective sample size can be considerably reduced and the standard error estimates can be substantially increased even for a small intra-class correlation. Therefore, it is important to obtain corrected standard error estimates using effective sample sizes in cluster sampling. However, as [",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "], data from a one-way classification can be analysed either with a fixed-effects model or a random-effects model. We intend to estimate the Brier scores of those particular levels of experts that are used in the experiment but not to make inferences about the population from which the experts are drawn. Therefore we fit the following linear fixed-effects model.",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": ". Hence, the above linear model gives mean estimates that are identical to the typical experts’ Brier scores irrespective of whether the experts have predicted all the events or not.",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "This format is meant as a debiasing technique, by encouraging counter-factual thinking. More research is needed, but the conjecture is that asking experts to think about an upper and lower bound first, improves the accuracy of the best estimate.",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "The correlations between probability predictions due to the question effects can be included into the above model either as fixed effects or as random effects. If we include them as fixed effects, the model needs to estimate the effects of each and every level of the questions as separate parameters in the model. These parameters will behave as nuisance parameters and avoid estimating",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "’s directly as expert Brier scores in the model. If we include the question effects as random effects, then the expert Brier scores can directly be estimated as",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "’s from the model with improved standard error estimates. The inclusion of question effects as random effects leads to the following linear mixed-effects model.",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "in the linear fixed-effects model may be violated and inaccurate standard error estimates of Brier scores may result. Furthermore, the constant variance assumption of random errors",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "was discussed above. It is a well-known fact that the maximum likelihood and ANOVA based OLS estimates are equivalent under the assumptions of the linear regression models. Even though, we are moving from the OLS estimation to the GLS estimation under the non-constant error variances within participants, the diagonal covariance structure assumption still remains. According to [",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "], altering the covariance structure of a parametric model alters the estimated standard errors of the model’s estimated parameters. Therefore, the maximum likelihood estimates of the standard errors of individual participants’ Brier scores obtained from the typical computation based on the deviations of observations",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "from the estimated mean",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "should be mathematically equivalent to the corresponding standard error estimates from the GLS model in",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "：今回の調査では、一次情報で確認できなかった",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "評価用には、決算説明会（アーニングコール）の書き起こしから作ったデータセットECT-QAを新設した",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "モデルに実績の統計を与えるだけで相対15.3%改善した点から、",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "LLMが得意なのは、文章の統計的なつながりだ",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "一次情報で確認できた範囲で、位置づけを整理する",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Heuer『Psychology of Intelligence Analysis』（CIA、PDF）",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "CSET：Opinions on “AI+”（英訳PDF）",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "2本は、手法の分類と実在モデルでの採用状況を、それぞれ理論側と実装側から補っている",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "4つとも「発見、反証、修正」という同じループを採用しており、差別化は実装面に移りつつある",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Microsoftは社内全体で採用するマルチモデル対応のCopilot harnessをFoundry経由で提供し、GitHubはモデルを自動で選択・協調させるCopilot Fusionを一般提供しました",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Microsoftは、GitHubのエンジニアリングチームが構築したマルチモデル対応のCopilot harnessを社内全体で採用し、Microsoft Foundry経由で提供開始した",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Schema Coherence Inventoryは、ペルソナ付与されたLLMで、割り当てた信念が振る舞いを実際に組織化しているのか、単に気分を採用しただけなのかを測る",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "CERTAは、量子化モデルがBF16の基準モデルの代わりになれるかを判断する、判断単位の統計的証明書です",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "価値観調査のシミュレーションでは、人口統計プロンプトがプロンプト設計に敏感で推論コストも増える点が課題とされる",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "パラメータ側で人口統計情報を合成可能に注入する手法が提案され、未見の属性組み合わせへの汎化を狙う",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "価値観調査シミュレーションのための合成可能なパラメトリック人口統計注入",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ハーネスレベルでは、採用されたハーネスと根拠のある教訓を永続的な改善ハーネスに蓄積して以降のタスクに生かす",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "当初の入力はPDFとプレーンテキストで、複数ファイル入力は近日対応予定である",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Meta Muse、OpenAI Dots、Uberのドライバー向けアシスタントは、いずれもエージェントが先に話しかける設計を採用している",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "学術面ではオプティマイザ理論、解釈可能性の統計的検証、LLM-as-judgeの監査など、評価の信頼性を問う研究が多く出ました",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "著者はこれを、解釈に必要な量を欠いた統計だと批判しています",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "小型のオープンモデルを採用する際は、自社の選択肢数やラベル体系が評価条件と近いかを、導入前に確認する必要がある",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "この\"つなぐ\"作業を、人間の代わりに、二十四時間、疲れずに、しかも間違いを自分で疑いながら続けるAI",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "』（1999年）は、分析の失敗は情報不足より、人間の思考の癖から起きることが多いと指摘した",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "のちほど述べるが、この「消去法の思想」は、AIの確証バイアス対策にそのまま使える",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "原資料が挙げる「量子ブロックチェーン革命」の失敗シナリオは、まさにこれである",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "更新の誤りではなく、事前確率の較正（キャリブレーション）の悪さ",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "事前確率の甘さは、更新の誤りより効く",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "は、AI Scientistの文献調査が新規性の判定を誤り、実験の42%がコードの誤りで失敗したと報告した",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "自動化には、自動で見抜けない失敗が混ざる",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "そして、自己確認ループ、モデルの崩壊、多様性の崩壊といった失敗は、階層の下のほうで信号を使った時に起きやすい",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "：第7章の階層で見たとおり、自己評価だけのループは、失敗が強化されやすい",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "エージェント側では、デプロイ後の継続評価、実行時の権限制御、コスト会計、ベンチマーク自体の誤りの監査など、実運用を見据えた研究が目立つ",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ポリシーに基づく意思決定ベンチマーク9件を監査したところ、根拠のない正解ラベルや、再実行しても残る参照誤り、評価器の問題が見つかった",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "KVキャッシュ圧縮のLowRAMは、注意ヘッド内でvalueが対応するkeyからほぼ予測可能であるという、トークン・層・次元・精度とは別の冗長性に着目した",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "「模擬協働」という手法で、AIが表層の構文と深い意味のどちらに注意を払うかなどを調べている",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "マルチエージェント系でレビュアーを置くと、誤りを直す一方で正しい判断まで覆しかねない",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ホスト側が持つ監視・トレース・直近の失敗といった検証済みテレメトリを、小さく新鮮な形でモデルに渡す、信頼分離型の設計を提案した",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "生成元を固定しても条件だけで判定が揺れるため、著者に不利益が及ぶ場面での検出器の利用には注意が必要だ",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "チームが書いたルールで許可された場合や依頼された場合にのみ動き、人の対応や成果物の共有が必要なときだけ発言する設計で、人間の注意力の消費を最小化する思想を採る",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ただし実環境での計測ではなく、自社シミュレーションの結果である点には注意が要る",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "台帳的見方は、節約を反事実として捉え、作業が見逃す誤りと並べて読む",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "歴史文書のOCR評価では、文字誤り率（CER）が人名・日付・識別子の保持を反映しないとして、エンティティ単位の誤り分析が補完的な視点として提案された",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "数学チューター向けのMisconceptDialogueは、誤りの検出、誤概念の診断、複数ターンの対話による是正を自動で通して評価する枠組みである",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "凍結モデルを組み合わせたエージェント型パイプラインでは、誤りの原因となったエージェントや段階の特定が課題になる",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ゲームにおける失敗フィードバックの研究は、ツール呼び出しで確認されていた現象を、ゲームで検証した",
-    "url": "https://ai-news.iru-yo.com/topic/ai-research/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "One of the many important steps in a structure expert judgement (SEJ) elicitation protocol is the formulation of questions for experts. Several formats proved to be intuitive and are thought to mitigate biases. In this research we are interested in the elicitation of probabilities of future events (using a SEJ protocol), and their evaluation.",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Even more dependence between answers is introduced in cases when the questions are perceived as easy or hard to more than one expert. In this situation their errors might be correlated to one another. Furthermore, cognitive frailties that are known to introduce bias, such as the halo effect",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "will likely introduce bias to more than one expert, which increases dependence. The consequence of these correlation structures is that the estimates of the standard errors do not have the intended statistical properties.",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "This format is meant as a debiasing technique, by encouraging counter-factual thinking. More research is needed, but the conjecture is that asking experts to think about an upper and lower bound first, improves the accuracy of the best estimate.",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "], the mean imputation method needs to satisfy the MCAR (Missing Completely at Random) assumption to obtain unbiased results. We consider the mean imputation as one of the imputation methods in this analysis.",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "], this method provides a sound basis for many of the modern missing value estimating methods. The results are unbiased if the MCAR or MAR (Missing at Random) conditions hold [",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Bias, Information, Noise: The Bin Model of Forecasting",
-    "url": "https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2021.669546/full",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ]
- },
- "runs": 1,
+ "new_this_run": {},
+ "runs": 2,
  "first_researched_at": "2026-11-09T07:05:04.425346+00:00"
 }

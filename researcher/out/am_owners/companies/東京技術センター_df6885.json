@@ -1,0 +1,943 @@
+{
+ "name": "東京技術センター",
+ "aliases": [],
+ "context": "PBF=yes 装置=TruPrint 出典=https://www.orix.co.jp/grp/company/newsroom/newsrelease/211130_ORIXG.html",
+ "researched_at": "2026-11-10T17:15:48.577485+00:00",
+ "official_url": "https://www.s-kb.co.jp/",
+ "identified_by": "search:ddgs:bing:東京技術センター",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設 立",
+    "value": "設 立：1983年9月14日",
+    "url": "https://www.s-kb.co.jp/company/information.php",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資 本 金",
+    "value": "3,000万円",
+    "url": "https://www.s-kb.co.jp/company/information.php",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "121名 （R8.7.1現在）",
+    "url": "https://www.s-kb.co.jp/company/information.php",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "水質検査、水質分析、土壌分析、建設発生残土分析、土壌汚染調査、固質分析、大気測定、臭気測定、騒音測定、作業環境測定、環境アセスメント関連環境調査、食品分析、放射線測定、水道法34条簡易専用水道法定検査、アスベスト分析、その他各種実験及び試験",
+    "url": "https://www.s-kb.co.jp/company/information.php",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売 上 高",
+    "value": "9億2,918万円 ( R7.7.1～R8.6.30 )",
+    "url": "https://www.s-kb.co.jp/company/information.php",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "◆経営本部（営業部営業課・総務部総務課） 〒226-0019 神奈川県横浜市緑区中山1-6-1 ミヨシズ・シードビル 301　[ 詳細 ] TEL : 045－929－0033（代）　FAX：045－929－0039 （※検体のお持込みは本社分析センターへお願いいたします。） ◆本社分析センター 〒226-0003 横浜市緑区鴨居1-13-2 [ 詳細 ] TEL : 045－929－0033（代）　FAX：045－929－0039 （※電話及びFAX番号は上記両拠点どちらも共通でご連絡いただけます。）",
+    "url": "https://www.s-kb.co.jp/company/information.php",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒２２６－０００３ 神奈川県横浜市緑区鴨居１-１３-２",
+    "url": "https://www.s-kb.co.jp/company/access.php",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒２２６－００１９ 神奈川県横浜市緑区中山１－６－１ ミヨシズ・シードビル ３０１",
+    "url": "https://www.s-kb.co.jp/company/nakayama.php",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒３７０-０６０３ 群馬県邑楽郡邑楽町中野１２７－６",
+    "url": "https://www.s-kb.co.jp/company/kitakanto.php",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒３７０-０６０３ 群馬県邑楽郡邑楽町大字中野９２８－２",
+    "url": "https://www.s-kb.co.jp/company/inryousuikensacenter.php",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒１９４-００３５ 東京都町田市忠生３－５－４",
+    "url": "https://www.s-kb.co.jp/company/machida.php",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒４００-０３０６ 山梨県南アルプス市小笠原６",
+    "url": "https://www.s-kb.co.jp/company/koushin.php",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "当社保有の主な分析機器 | 総合環境分析 | 一番計りたいものは安心です",
+    "url": "https://www.s-kb.co.jp/guide/equipment.php",
+    "pass": 1
+   },
+   {
+    "quote": "総合環境分析が保有する主な分析機器をご紹介します",
+    "url": "https://www.s-kb.co.jp/guide/equipment.php",
+    "pass": 1
+   },
+   {
+    "quote": "総合環境分析では各拠点で様々な分析機器・分析装置を導入しており、お客様のご要望にお応えできる体制を整えております",
+    "url": "https://www.s-kb.co.jp/guide/equipment.php",
+    "pass": 1
+   },
+   {
+    "quote": "保有台数：1台",
+    "url": "https://www.s-kb.co.jp/guide/equipment.php",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビームを試料に照射し、試料から放出される電子を検出することで画像を得ます",
+    "url": "https://www.s-kb.co.jp/guide/equipment.php",
+    "pass": 1
+   },
+   {
+    "quote": "保有台数：2台",
+    "url": "https://www.s-kb.co.jp/guide/equipment.php",
+    "pass": 1
+   },
+   {
+    "quote": "保有台数：4台",
+    "url": "https://www.s-kb.co.jp/guide/equipment.php",
+    "pass": 1
+   },
+   {
+    "quote": "保有台数：3台",
+    "url": "https://www.s-kb.co.jp/guide/equipment.php",
+    "pass": 1
+   },
+   {
+    "quote": "保有台数：8台",
+    "url": "https://www.s-kb.co.jp/guide/equipment.php",
+    "pass": 1
+   },
+   {
+    "quote": "保有台数：6台",
+    "url": "https://www.s-kb.co.jp/guide/equipment.php",
+    "pass": 1
+   },
+   {
+    "quote": "保有台数：5台",
+    "url": "https://www.s-kb.co.jp/guide/equipment.php",
+    "pass": 1
+   },
+   {
+    "quote": "保有台数：11台",
+    "url": "https://www.s-kb.co.jp/guide/equipment.php",
+    "pass": 1
+   },
+   {
+    "quote": "中国BLTの金属3Dプリンタ導入、オリックス・レンテックの体験拠点がリニューアル：金属3Dプリンタ - MONOist",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2402/14/news077.html",
+    "pass": 3
+   },
+   {
+    "quote": "中国BLTの金属3Dプリンタ導入、オリックス・レンテックの体験拠点がリニューアル",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2402/14/news077.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタ",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2402/14/news077.html",
+    "pass": 3
+   },
+   {
+    "quote": "オリックス・レンテックは東京技術センター内にリニューアルオープンした金属3Dプリンタの体験拠点「Tokyo 3D Lab.」を報道陣に公開した",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2402/14/news077.html",
+    "pass": 3
+   },
+   {
+    "quote": "オリックス・レンテックは2024年2月13日、東京技術センター（東京都町田市）内にリニューアルオープンした金属3Dプリンタの体験拠点「Tokyo 3D Lab.」を報道陣に公開した",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2402/14/news077.html",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタ事業は2015年からスタートし、金属や樹脂の3Dプリンタで試作品や治具などを受託造形する3Dプリンタ出力サービスや3Dプリンタの導入支援サービス、レンタルサービスを展開",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2402/14/news077.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、同年に東京技術センター内にドイツのEOS製の金属3Dプリンタ「M290」を導入し、金属3Dプリンタの体験拠点としてTokyo 3D Lab.を開設した",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2402/14/news077.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタを購入すると億円単位の投資になる",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2402/14/news077.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属ではPBF（粉末床融解結合）、樹脂ではFFF（熱溶解積層）、SLA（光造形）、SLS（粉末焼結積層造形）の各方式が選択可能で、材料はステンレスやアルミニウムなど10種類から選ぶことができる",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2402/14/news077.html",
+    "pass": 3
+   },
+   {
+    "quote": "オリックス・レンテックでは2023年に中国のXi'an Bright Laser Technologies（BLT）の金属3Dプリンタ「S320」を新たに導入したのに伴い、東京技術センター内にTokyo 3D Lab.を移転し、面積も約2倍に拡張した",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2402/14/news077.html",
+    "pass": 3
+   },
+   {
+    "quote": "BLTは自社で340台の金属3Dプリンタを保有し、Airbus向けの航空機部品の造形も手掛けるなど高い技術力を持つことで知られている",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2402/14/news077.html",
+    "pass": 3
+   },
+   {
+    "quote": "BLTによれば、同社の金属3Dプリンタを実機検証用として常設するのはTokyo 3D Lab.が日本で初めてだという",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2402/14/news077.html",
+    "pass": 3
+   },
+   {
+    "quote": "メーカーではないため、ユーザーが実際に試して導入するまでをサポートするのがわれわれのビジネスモデルだ",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2402/14/news077.html",
+    "pass": 3
+   },
+   {
+    "quote": "新たに導入したBLTの金属3Dプリンタ「S320」［クリックで拡大",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2402/14/news077.html",
+    "pass": 3
+   },
+   {
+    "quote": "⇒その他の「金属3Dプリンタ」の記事はこちら",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2402/14/news077.html",
+    "pass": 3
+   },
+   {
+    "quote": "新しいモノづくり工法であるAMは、国内でも試作用途では導入が進んできている一方、実製品用途となると全くと言っていいほど活用されていない",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2402/14/news077.html",
+    "pass": 3
+   },
+   {
+    "quote": "本連載では、何が金属3DプリンタによるAM実製品活用の妨げとなっており、どうすれば普及を進められるか考察する",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2402/14/news077.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3DプリンタによるAMで先行する海外勢への日本の対抗策とは何か",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2402/14/news077.html",
+    "pass": 3
+   },
+   {
+    "quote": "本連載では、日本国内で何が金属3DプリンタによるAM実製品活用の妨げとなっており、どうすれば普及を進められるかを考察する",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2402/14/news077.html",
+    "pass": 3
+   },
+   {
+    "quote": "群馬から金属3Dプリンタによるデジタルモノづくりを広げるGAMの挑戦",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2402/14/news077.html",
+    "pass": 3
+   },
+   {
+    "quote": "本稿では「ITmedia Virtual EXPO 2023秋」において共和産業 代表取締役社長で群馬積層造形プラットフォーム（GAM） 代表理事の鈴木宏子氏が行った「群馬発世界へ、GAMが金属3Dプリンタで進めるデジタルモノづくり」をテーマとした講演を紹介する",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2402/14/news077.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタの活用進む欧州で探る機会、微細加工技術との組み合わせで強み発揮",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2402/14/news077.html",
+    "pass": 3
+   },
+   {
+    "quote": "東レ・プレシジョンは「HANNOVER MESSE（ハノーバーメッセ）2023」（2023年4月17〜21日：ドイツ時間、ハノーバーメッセ）において金属3Dプリンタを活用したワークを多数展示した",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2402/14/news077.html",
+    "pass": 3
+   },
+   {
+    "quote": "DMG森精機社長が目指す「止まらない工作機械」 無人化で残る「人の仕事」とは",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2402/14/news077.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの比較検証や造形シミュレーションも可能",
+    "url": "https://news.sharelab.jp/interviews/orix-factory-240309/",
+    "pass": 3
+   },
+   {
+    "quote": "以前の記事で取り上げたようにオリックス・レンテックが東京都町田市の東京技術センター内に保有する3Dプリンター体験拠点「Tokyo 3D Lab.」が拡張リニューアル",
+    "url": "https://news.sharelab.jp/interviews/orix-factory-240309/",
+    "pass": 3
+   },
+   {
+    "quote": "大型の金属3Dプリンターやポストプロセス設備を備え、造形に関する一連の工程を体験できる検証サービスも提供される同施設の様子を、2024年2月13日に行われた報道関係者向け内覧会からお届けする",
+    "url": "https://news.sharelab.jp/interviews/orix-factory-240309/",
+    "pass": 3
+   },
+   {
+    "quote": "BLTの金属3Dプリンターを導入",
+    "url": "https://news.sharelab.jp/interviews/orix-factory-240309/",
+    "pass": 3
+   },
+   {
+    "quote": "2015年に開設された「Tokyo 3D Lab. 」は、EOSのM290を早くから導入していた施設",
+    "url": "https://news.sharelab.jp/interviews/orix-factory-240309/",
+    "pass": 3
+   },
+   {
+    "quote": "このたびの拡張リニューアルを経て、Xi’an Bright Laser Technologies Co., Ltd.（以下、BLT）のS320を日本国内で初めて常設し、大型金属3Dプリンターでの製造や比較検証を行う環境がさらに整った",
+    "url": "https://news.sharelab.jp/interviews/orix-factory-240309/",
+    "pass": 3
+   },
+   {
+    "quote": "「EOS M290」は2台設置",
+    "url": "https://news.sharelab.jp/interviews/orix-factory-240309/",
+    "pass": 3
+   },
+   {
+    "quote": "新たに導入された「BLT S320」",
+    "url": "https://news.sharelab.jp/interviews/orix-factory-240309/",
+    "pass": 3
+   },
+   {
+    "quote": "「BLT S320」の造形風景",
+    "url": "https://news.sharelab.jp/interviews/orix-factory-240309/",
+    "pass": 3
+   },
+   {
+    "quote": "計3台の金属3Dプリンターは、オリックス・レンテックの3D出力サービスで活用されるほか、事業者向けの「実機検証サービス」内でも利用が可能",
+    "url": "https://news.sharelab.jp/interviews/orix-factory-240309/",
+    "pass": 3
+   },
+   {
+    "quote": "これは自社で3Dプリンターを導入する前段階で、一連の造形作業を専任の技術者と共に体験できるものだ",
+    "url": "https://news.sharelab.jp/interviews/orix-factory-240309/",
+    "pass": 3
+   },
+   {
+    "quote": "そうした後処理用の機材や周辺機器まで備えているため、機材導入後のリアルな使用感を体験できるのだ",
+    "url": "https://news.sharelab.jp/interviews/orix-factory-240309/",
+    "pass": 3
+   },
+   {
+    "quote": "右奥は造形物から余分な粉を取り除く、BLTの自動デパウダリング装置",
+    "url": "https://news.sharelab.jp/interviews/orix-factory-240309/",
+    "pass": 3
+   },
+   {
+    "quote": "「BLT S320」で造形されたサンプル品",
+    "url": "https://news.sharelab.jp/interviews/orix-factory-240309/",
+    "pass": 3
+   },
+   {
+    "quote": "オリックス・レンテックは4万種・280万台以上のレンタル資産を保有し、企業向けにレンタルを行う企業だ",
+    "url": "https://news.sharelab.jp/interviews/orix-factory-240309/",
+    "pass": 3
+   },
+   {
+    "quote": "電子計測器やタブレットをはじめ、近年ではロボットやドローンのレンタルにも事業を広げ、3Dプリンターの出力サービスや導入支援サービスもこうした事業拡大の系譜にあるものと言える",
+    "url": "https://news.sharelab.jp/interviews/orix-factory-240309/",
+    "pass": 3
+   },
+   {
+    "quote": "BLTの3Dプリンターで造形した、アルミ合金製の一体型アレイパネル",
+    "url": "https://news.sharelab.jp/interviews/orix-factory-240309/",
+    "pass": 3
+   },
+   {
+    "quote": "BLTの3Dプリンター造形サンプル",
+    "url": "https://news.sharelab.jp/interviews/orix-factory-240309/",
+    "pass": 3
+   },
+   {
+    "quote": "BLTの金属3Dプリンターを導入したのも、欧米に引けを取らない成長を見せる中国のAM業界の先達とコネクションを構築するため",
+    "url": "https://news.sharelab.jp/interviews/orix-factory-240309/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用の金属3Dプリンターの需要が増える今、オリックス・レンテックが培ってきた3Dプリントの技術やノウハウに触れられる「Tokyo 3D Lab.」の活用の幅は大きいだろう",
+    "url": "https://news.sharelab.jp/interviews/orix-factory-240309/",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "・鉄、銅、マンガンなど、金属の分析に使用",
+    "url": "https://www.s-kb.co.jp/guide/equipment.php",
+    "pass": 1
+   },
+   {
+    "quote": "金属ではPBF（粉末床融解結合）、樹脂ではFFF（熱溶解積層）、SLA（光造形）、SLS（粉末焼結積層造形）の各方式が選択可能で、材料はステンレスやアルミニウムなど10種類から選ぶことができる",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2402/14/news077.html",
+    "pass": 3
+   },
+   {
+    "quote": "直近では銅の造形も増えている［クリックで拡大］",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2402/14/news077.html",
+    "pass": 3
+   },
+   {
+    "quote": "250×250×325mmの最大造形サイズを持ち、「Tokyo 3D Lab.」では5種類（ステンレス 316L、チタン合金、アルミ合金、マルエージング鋼、インコネル 718）の素材に対応",
+    "url": "https://news.sharelab.jp/interviews/orix-factory-240309/",
+    "pass": 3
+   },
+   {
+    "quote": "250×250×400mmの最大造形サイズを持ち、「Tokyo 3D Lab.」ではステンレス 316Lに対応",
+    "url": "https://news.sharelab.jp/interviews/orix-factory-240309/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末素材を焼結させるタイプの3Dプリンターであれば、造形後に余計な素材を取り除いたり、粉末をリサイクルに回したりと、造形後の仕上げや運用における工程も多い",
+    "url": "https://news.sharelab.jp/interviews/orix-factory-240309/",
+    "pass": 3
+   },
+   {
+    "quote": "BLTの3Dプリンターで造形した、アルミ合金製の一体型アレイパネル",
+    "url": "https://news.sharelab.jp/interviews/orix-factory-240309/",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "ゲルマニウム半導体検出器は、放射性物質を検査するための測定装置です",
+    "url": "https://www.s-kb.co.jp/guide/equipment.php",
+    "pass": 1
+   },
+   {
+    "quote": "この装置では、半導体にゲルマニウムの結晶を使用し、放射線（ガンマ線）が通過する際に発生した微弱な電気を増幅して、ガンマ線のエネルギーを測定します",
+    "url": "https://www.s-kb.co.jp/guide/equipment.php",
+    "pass": 1
+   },
+   {
+    "quote": "ガンマ線のエネルギーは放射性物質の種類によって異なり、試料中の放射性物質を検査できます",
+    "url": "https://www.s-kb.co.jp/guide/equipment.php",
+    "pass": 1
+   },
+   {
+    "quote": "お車でお越しの場合は、鴨居自動車学校脇の踏み切りを渡るか、コスモ横浜鴨居ガーデンズ（マンション）脇の踏み切りを渡って下さい",
+    "url": "https://www.s-kb.co.jp/company/access.php",
+    "pass": 1
+   },
+   {
+    "quote": "北関東自動車道 太田桐生ICより約15分",
+    "url": "https://www.s-kb.co.jp/company/kitakanto.php",
+    "pass": 1
+   },
+   {
+    "quote": "東北自動車道 館林ICより約25分",
+    "url": "https://www.s-kb.co.jp/company/kitakanto.php",
+    "pass": 1
+   },
+   {
+    "quote": "北関東自動車道 太田桐生ICより約15分",
+    "url": "https://www.s-kb.co.jp/company/inryousuikensacenter.php",
+    "pass": 1
+   },
+   {
+    "quote": "東北自動車道 館林ICより約23分",
+    "url": "https://www.s-kb.co.jp/company/inryousuikensacenter.php",
+    "pass": 1
+   },
+   {
+    "quote": "中央自動車道 国立府中ICより約25分",
+    "url": "https://www.s-kb.co.jp/company/machida.php",
+    "pass": 1
+   },
+   {
+    "quote": "首都圏中央連絡自動車道（海老名-相模原愛川）相模原愛川ICより約30分",
+    "url": "https://www.s-kb.co.jp/company/machida.php",
+    "pass": 1
+   },
+   {
+    "quote": "中部横断自動車道 南アルプスICより約5分",
+    "url": "https://www.s-kb.co.jp/company/koushin.php",
+    "pass": 1
+   },
+   {
+    "quote": "中央自動車道 甲府南ICより約15分",
+    "url": "https://www.s-kb.co.jp/company/koushin.php",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ事業は2015年からスタートし、金属や樹脂の3Dプリンタで試作品や治具などを受託造形する3Dプリンタ出力サービスや3Dプリンタの導入支援サービス、レンタルサービスを展開",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2402/14/news077.html",
+    "pass": 3
+   },
+   {
+    "quote": "BLTは自社で340台の金属3Dプリンタを保有し、Airbus向けの航空機部品の造形も手掛けるなど高い技術力を持つことで知られている",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2402/14/news077.html",
+    "pass": 3
+   },
+   {
+    "quote": "新しいモノづくり工法であるAMは、国内でも試作用途では導入が進んできている一方、実製品用途となると全くと言っていいほど活用されていない",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2402/14/news077.html",
+    "pass": 3
+   },
+   {
+    "quote": "設備点検用AIロボットをキヤノン電子で量産へ、新モデルの供給力強化",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2402/14/news077.html",
+    "pass": 3
+   },
+   {
+    "quote": "コロナ禍での落ち込みからも復調し、重工業、自動車関係を中心に、食品や医療業界など製造業全般も引き合いがあるという",
+    "url": "https://news.sharelab.jp/interviews/orix-factory-240309/",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "環境公害調査を目的に株式会社 総合環境分析（資本金750万円）",
+    "url": "https://www.s-kb.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "資本金1,000万円に増資",
+    "url": "https://www.s-kb.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "資本金1,500万円に増資",
+    "url": "https://www.s-kb.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "資本金2,000万円に増資",
+    "url": "https://www.s-kb.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "資本金を3,000万円に増資",
+    "url": "https://www.s-kb.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "同社 常務執行役員 技術本部長の松野城太郎氏は「親会社であるオリックスにはエンジニアリングの機能はないが、われわれはマルチベンダーとしてよい製品であればどのメーカーも取り扱うことができ、さまざまなメーカーの製品を組み合わせて提供することもできる",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2402/14/news077.html",
+    "pass": 3
+   },
+   {
+    "quote": "夢を追ったニデック、上場廃止は免れないのか",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2402/14/news077.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "中国BLTの金属3Dプリンタ導入、オリックス・レンテックの体験拠点がリ... — Feb 14, 2024 · オリックス・レンテックは2024年2月13日、東京技術センター（東京都町田市）内にリニューアルオープンした金属3Dプリンタの体験拠点「Tokyo 3D Lab.」を報道陣に公開した。",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2402/14/news077.html",
+    "pass": 3
+   },
+   {
+    "quote": "オリックス・レンテックが金属3Dプリンタ体験拠点を拡張、中国BLT製品... — Mar 4, 2024 · 設置した3Dプリンタが増えたことを踏まえ、東京技術センター内でのTokyo 3D Lab.の位置を移転し、併せて面積を約2倍に拡張することで、金属造形用 ...",
+    "url": "https://news.mynavi.jp/techplus/article/20240304-2898020/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社KSK財務諸表等｜東京都立産業技術研究センター東京技術センター - インターフェイス株式会社の事業所情報 | Basecon...年報｜東京都立産業技術研究センター(株)東京技術計算コンサルタントの会社概要 | マイナビ2027会社情報｜株式会社NTC — KSKの会社概要についてご紹介します。 KSKグループは、幅広い技術とチーム力でお客様のご要望にお応えしています。 半導体設計・組込ソフト開発・APソフト開発・ネットワーク構築をサポートします。 財務諸表等 アクセスしようとしたページは削除または変更されたか、 現在利用できない可能性があります。 お手数をおかけしますが、 都産技研ホーム やメニュー、 サイトマップ から お探しくださいますようお願いいたします。 また、複数のページでこの画面の表示になる場合は、 ご利用 ... 東京技術センター（東京都立川市）の事業",
+    "url": "https://www.ksk.co.jp/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "東京技術センター - インターフェイス株式会社の事業所情報 | Basecon... — 東京技術センター（東京都立川市）の事業所情報ページ。所在地・連絡先・所属企業の詳細をBaseconnectで確認できます。",
+    "url": "https://baseconnect.in/branch_offices/ddc57ca7-023b-4bd2-89d2-33e7a347f842",
+    "pass": 3
+   },
+   {
+    "quote": "東京技術センター - 株式会社KSKの事業所情報 | Baseconnect — 株式会社KSKのその他の事業所一覧 新宿技術センター 研究所 東京都渋谷区千駄ケ谷5-34-7 NX新宿ビル3F 川崎中央技術センター 研究所 東京都稲城市百村1625-2",
+    "url": "https://baseconnect.in/branch_offices/6aeb363e-b2aa-4972-9e4c-b8e91b4301ff",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "東京技術センター - Facebook 東京技術センター",
+    "url": "https://www.facebook.com/東京技術センター-699381043462795/",
+    "pass": 3
+   },
+   {
+    "quote": "【東京技術センター 設備拡大】... - 株式会社テクノプロ コンストラ... Oct 1, 2019 · 【東京技術センター 設備拡大】 お客様からの研修内容に関するご要望・ご意見や、 増加する研修希望者への対応のため 東京技術センターの増床並びに研修設備の拡充を行いました。",
+    "url": "https://www.facebook.com/TechProConstruction/posts/東京技術センター-設備拡大お客様からの研修内容に関するご要望ご意見や増加する研修希望者への対応のため東京技術センターの増床並びに研修設備の拡充を行いましたフルハ/2361965814067267/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.s-kb.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.s-kb.co.jp/guide/equipment.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.s-kb.co.jp/company/information.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.s-kb.co.jp/company/history.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.s-kb.co.jp/company.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.s-kb.co.jp/company/greeting.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.s-kb.co.jp/company/archive.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.s-kb.co.jp/company/access.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.s-kb.co.jp/company/nakayama.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.s-kb.co.jp/company/kitakanto.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.s-kb.co.jp/company/inryousuikensacenter.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.s-kb.co.jp/company/machida.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.s-kb.co.jp/company/koushin.php",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.s-kb.co.jp/wp/wp-content/themes/skb_original/img/company/img_com03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.tt-labo.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sites.google.com/view/daym-tts/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ctc-g.co.jp/company/profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2402/14/news077.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/interviews/orix-factory-240309/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-steel.co.jp/products/solution/metal-3d-printing/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri-tokyo.jp/research/field/sekiso-zokei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%83%86%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catr.jp/companies/3b9f2/81128",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-teleport.co.jp/company/management.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ksk.co.jp/company/outline/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://baseconnect.in/branch_offices/ddc57ca7-023b-4bd2-89d2-33e7a347f842",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baseconnect.in/branch_offices/6aeb363e-b2aa-4972-9e4c-b8e91b4301ff",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/東京技術センター-699381043462795/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TechProConstruction/posts/東京技術センター-設備拡大お客様からの研修内容に関するご要望ご意見や増加する研修希望者への対応のため東京技術センターの増床並びに研修設備の拡充を行いましたフルハ/2361965814067267/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "東京技術センター",
+   "results": [
+    "https://ja.wikipedia.org/wiki/東京流通センター",
+    "https://ja.wikipedia.org/wiki/東京都立産業技術研究センター",
+    "https://www.yamato-net.co.jp/company/location/monnaka/",
+    "https://www.s-kb.co.jp/company/machida.php",
+    "https://www.iri-tokyo.jp/",
+    "https://www.tgcenter.jp/",
+    "https://www.iri-tokyo.jp/service/search/",
+    "https://tec-skill.co.jp/schedule/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "東京技術センター 会社概要 資本金 設立",
+   "results": [
+    "https://www.tt-labo.co.jp/company/",
+    "https://sites.google.com/view/daym-tts/会社概要",
+    "https://www.ctc-g.co.jp/company/profile.html",
+    "https://www.toyo.co.jp/company/profile/",
+    "https://www.totech.co.jp/company/summary",
+    "https://www.iri-tokyo.jp/recruit/new-graduate/about-tiri/outline/",
+    "https://www.orixrentec.jp/company/history.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "東京技術センター 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am/",
+    "https://monoist.itmedia.co.jp/mn/articles/2402/14/news077.html",
+    "https://news.sharelab.jp/interviews/orix-factory-240309/",
+    "https://news.mynavi.jp/techplus/article/20240304-2898020/",
+    "https://www.iri-tokyo.jp/service/search/r6-metal-am-2/",
+    "https://cad-kenkyujo.com/3d-truprint/",
+    "https://www.orixrentec.jp/file.jsp?id=9836"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "東京技術センター 金属積層造形 設備",
+   "results": [
+    "https://www.jfe-steel.co.jp/products/solution/metal-3d-printing/index.html",
+    "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "https://www.iri-tokyo.jp/research/field/sekiso-zokei/",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am/",
+    "https://www.jstage.jst.go.jp/article/jfes/94/7/94_356/_pdf/-char/ja",
+    "https://jampt.jp/",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am01-10.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "東京技術センター 株主 出資 親会社",
+   "results": [
+    "https://ja.wikipedia.org/wiki/東京テレポートセンター",
+    "https://catr.jp/companies/3b9f2/81128",
+    "https://www.tokyo-teleport.co.jp/company/management.php",
+    "https://www.tokyocentury.co.jp/jp/ir/stock/basic.html",
+    "https://www.tokyo-teleport.co.jp/company/",
+    "https://kabutan.jp/stock/holder?code=5423",
+    "https://www.tepco.co.jp/about/corporateinfo/group/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "東京技術センター 売上高 従業員数",
+   "results": [
+    "https://www.ksk.co.jp/company/outline/",
+    "https://baseconnect.in/branch_offices/ddc57ca7-023b-4bd2-89d2-33e7a347f842",
+    "https://baseconnect.in/branch_offices/6aeb363e-b2aa-4972-9e4c-b8e91b4301ff",
+    "https://www.iri-tokyo.jp/about/financial/",
+    "https://www.iri-tokyo.jp/information/publication/annual-report/",
+    "https://job.mynavi.jp/27/pc/search/corp272853/outline.html",
+    "http://www.ntc.co.jp/company/companyinfo/index.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 東京技術センター",
+   "results": [
+    "https://note.com/tokyo_tech",
+    "https://money.note.com/lists",
+    "https://note.com/tokyo_tech/n/n04b8b7d07e91",
+    "https://tales.note.com/20220612/wr98m266akp5v",
+    "https://tales.note.com/nice_sorrel6709/we9o1e1i3gegs",
+    "https://note.com/tokyo_tech/n/nb10f3482a55a",
+    "https://note.com/tokyo_tech/n/n60df08db8338"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 東京技術センター",
+   "results": [
+    "https://help.x.com/en",
+    "https://help.x.com/en/using-x/about-grok",
+    "https://x.com/TDGKC",
+    "https://x.com/tiri_koho",
+    "https://x.com/HaruAkasakadayo/status/2119691910461919647",
+    "https://x.com/UTokyoMD/status/2120043374573219932",
+    "https://x.com/CICTokyo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 東京技術センター",
+   "results": [
+    "https://www.linkedin.com/company/（株）東京技術計算コンサルタント",
+    "https://jo.linkedin.com/in/فحل-نار-156782102",
+    "https://uk.linkedin.com/in/shigeto-hiki-919032311/ja",
+    "https://jp.linkedin.com/jobs/view/it-associates-japan-at-digital-edge-dc-4476270961",
+    "https://jp.linkedin.com/jobs/view/technical-support-engineer-partner-center-at-microsoft-4382980039",
+    "https://hu.linkedin.com/in/judit-csenge-vizi",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7521941714954145792/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 東京技術センター",
+   "results": [
+    "https://www.facebook.com/東京技術センター-699381043462795/",
+    "https://www.facebook.com/TechProConstruction/posts/東京技術センター-設備拡大お客様からの研修内容に関するご要望ご意見や増加する研修希望者への対応のため東京技術センターの増床並びに研修設備の拡充を行いましたフルハ/2361965814067267/",
+    "https://secure.facebook.com/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/TOGI1919/",
+    "https://www.facebook.com/TechProConstruction/posts/技術センター見学会-採用担当者と対象とした-東京技術センター新設備の見学会を行いました-東京技術センターでは実習室と研修室を増床し新たにフルハーネス型墜落制止用/2374709906126191/",
+    "https://www.facebook.com/co5414/posts/粋なお江戸浅草に理容の祭典がやってくる-2026-tokyo-理容まつり-in-浅草-2026年11月30日月東京都立産業貿易センター-台東館4f理容サロン必見/1091509420052588/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "東京技術センター note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.com/sadaaki",
+    "https://online.nikkei-cnbc.co.jp/vod/65433?first_visit=1",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://note.jp/n/n07722f8712d9"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "東京技術センター X 投稿",
+   "results": [
+    "https://x.com/tiri_koho",
+    "https://x.com/tokyotechc",
+    "https://coki.jp/article/column/94866/",
+    "https://www.iri-tokyo.jp/information/twitter-policy/",
+    "https://help.x.com/ja",
+    "https://help.x.com/ja/using-x/how-to-post",
+    "https://www.iri-tokyo.jp/about/organization/headquarters-dx/",
+    "https://www.itmedia.co.jp/news/article/2607/22/1260722109/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部17頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部17頁・検索12回）"
+ }
+}

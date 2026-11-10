@@ -1,0 +1,916 @@
+{
+ "name": "Edenfarm",
+ "aliases": [],
+ "context": "旧営業リスト｜Manufacturing / Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-10T17:15:44.226976+00:00",
+ "official_url": "https://www.edenfarm.id",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "3. Seed Round",
+    "value": "14-Aug-2019    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/279382-96",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "01-Nov-2018 $20K $20K  Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/279382-96",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "再販・ホワイトラベル": [
+   {
+    "quote": "ニュース | EdenFarm 化粧品OEM・ODM",
+    "url": "https://edencos.co.kr/ja/news",
+    "pass": 3
+   },
+   {
+    "quote": "化粧品OEM・ODM製造専門企業EdenFarmが、2026年1月にヨーロッパのヴィーガン認証機関Expertise Végane Europe（EVE）のEVE VEGAN認証を…",
+    "url": "https://edencos.co.kr/ja/news",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル・輸出 | EdenFarm 化粧品OEM・ODM",
+    "url": "https://edencos.co.kr/ja/global",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ニュース | EdenFarm 化粧品OEM・ODM — Jul 7, 2026 · 1トンホモミキサー導入で生産設備を拡充 EdenFarmがWoowonの1トンホモミキサーを新たに導入し、生産設備を拡充した。 1トンホモミキサーは、高粘度製剤や精密乳化工程に幅広く対応する設備で、大量生産時の品質均一性… 2025-11-19 ニュース",
+    "url": "https://edencos.co.kr/ja/news",
+    "pass": 3
+   },
+   {
+    "quote": "Indonesian agritech startup EdenFarm pivots, lays off 300 ...中国物流ロボット、日本で導入拡大 トヨタやコマツも採用、人手不足が...【エミュレーター最新情報】2026年Switchエミュ最高はEdenかRyubingか... — Sep 26, 2023 · EdenFarm, an Indonesian agritech startup, has laid off employees after deciding to “remodel the business,” the company confirmed to Tech in Asia. Sep 28, 2026 · 同社によると、製品はトヨタ自動車や住友、コマツなどの日本企業で導入され、自動車や化学、機械製造などの分野で使われている。 今年の日本市場での販売台数は100",
+    "url": "https://www.techinasia.com/indonesian-agritech-startup-edenfarm-pivots-lays-employees",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル・輸出 | EdenFarm 化粧品OEM・ODM — OEM · ODM · EXPORT グローバル・輸出 ホーム OEM·ODM / グローバル・輸出 プロセス グローバル・輸出 導入企業 よくある質問 直接輸出国・地域 7 取引先の輸出国数 59 + 国際認証 3",
+    "url": "https://edencos.co.kr/ja/global",
+    "pass": 3
+   },
+   {
+    "quote": "Vision – エデン農園 - edenfarm.jp — エデン農園ビジョンは、エデン農園を拡張し、沢山の人々が創造主である神様が与えてくださる恵みを体験し、祝福を分かち合うことです。 エデン農園の拡張 エデン農園から600m圏内に3箇所ある農地、合わせて2,500㎡を無農薬の自然農を始めたい方に区画に分けてレンタルしたり、または共同で ...",
+    "url": "https://edenfarm.jp/vision/",
+    "pass": 3
+   },
+   {
+    "quote": "EdenFarm - Exhibitor Details — EdenFarm is a cosmetics OEM and ODM manufacturer specializing in skincare, cleansing, hair, and body care products. With an in house R&D center and stable manufacturing infrastructure, we provide customized product development solutions tailored to global market trends.",
+    "url": "https://www.medical-jpn.jp/tokyo/en-gb/search/mj-tokyo202610/directory/directory-details.org-7f0b720a-d888-4692-aca4-68df77711d62.html",
+    "pass": 3
+   },
+   {
+    "quote": "Shop – エデン農園 - edenfarm.jp — Oct 25, 2026 · エデン農園のハーブティー、フレッシュリース、ドライハーブなどエデン農園オリジナルアイテムのご購入、薬膳教室やワークショップのお申込みはこちらからお願いいたします。 なお、商品の配送は、日本国内のみ、一律1点ご購入につき650円。 2点以降は追加送料500円とさせていただいております。 2026/10/25-30は、中国北京の薬膳研修旅行のため不在となりますため、その間にご注文、お申込みいただきましたご返答は、10/31以降となります旨、ご了承願います。 エデン農園は登録商標です。",
+    "url": "https://edenfarm.jp/shop/",
+    "pass": 3
+   },
+   {
+    "quote": "Vision – エデン農園 - edenfarm.jp — エデン農園とNoah’s Gardenが、この地とここに集う人々に永遠の幸せと祝福をもたらすよう祈りつつ一歩一歩進めています。",
+    "url": "https://edenfarm.jp/vision/",
+    "pass": 3
+   },
+   {
+    "quote": "Join – エデン農園 - edenfarm.jp — エデン農園では、様々な コミュニティの場 、ボランティアでお手伝いしてくださる フレンズ 、エデン農園とコラボしてイベントやワークショップをしてくださる コラボレーター 、無農薬の自然農体験プログラムや様々なワークショップへの参加者、土地を借りて無農薬の自然農に取り組んでくださる パートナー 、エデン農園の商品を購入してくださる サポーター などを募集しています。 詳しくは、DMにてお問合せください。 ・ 自然農を実践する方や自然農にチャレンジしたい方のコミュニティの場. ・ 自然療法を実践する方や自然療法に興味がある方のコミュニティの場. ・ 地域の祈り会（LOCAL HOUSE OF PRAYER） ・ バイブルスタディー.",
+    "url": "https://edenfarm.jp/join/",
+    "pass": 3
+   },
+   {
+    "quote": "Eden Farm School | earthembassy — The school also offers internship opportunities for international university students to work in Japan and particpate in the school's: - planning process - seeding and planting schedules - organic pest control - natural mulching - harvesting and drying techniques - rain water collection systems",
+    "url": "https://www.earthembassy.org/eden-farm-school",
+    "pass": 3
+   },
+   {
+    "quote": "EdenFarm 2026 Company Profile: Valuation, Investors ...Eden Farm - 2025 Company Profile, Team, Funding ... - TracxnEden Farm — venture-backed company profile | DealroomEden Farm – Revenue, Valuation & Top Competitors – 2026Eden Farm: Funding, Team & Investors | Startup IntrosEden Farm - 2026 Company Profile, Team, Funding ... - TracxnEden Farm Funding History: $34.2M | Indexed.vc — Information on ",
+    "url": "https://pitchbook.com/profiles/company/279382-96",
+    "pass": 3
+   },
+   {
+    "quote": "Eden Farm - 2025 Company Profile, Team, Funding ... - Tracxn — Sep 3, 2021 · Eden Farm is a series A company based in West Jakarta (Indonesia), founded in 2017 by Ramavito Mountaino, David Gunawan and Febrianto Gamal. It operates as an App-based business-to-business marketplace offering fruits and vegetables from farms.",
+    "url": "https://tracxn.com/d/companies/eden-farm/__B3BnOF-uHz8SKmujLcH0HxCmIkkfv7_oPMo-ybnChVg",
+    "pass": 3
+   },
+   {
+    "quote": "Eden Farm – Revenue, Valuation & Top Competitors – 2026 — Discover Eden Farm's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/eden-farm",
+    "pass": 3
+   },
+   {
+    "quote": "Eden Farm: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Eden Farm was officially founded in 2017 by entrepreneurial team Febrianto Gamal, David Gunawan, and Ramavito Mountanio. Eden Farm has raised $48.2M across 4 funding rounds. Most recently, it raised $13.5M EdenFarm Indonesia - Pre-Series B in January 2023. Key people at Eden Farm.",
+    "url": "https://startupintros.com/orgs/eden-farm",
+    "pass": 3
+   },
+   {
+    "quote": "Eden Farm - 2026 Company Profile, Team, Funding ... - Tracxn — Mar 22, 2026 · Explore Eden Farm's in-depth company profile, including funding details, key investors, leadership, and competitors.",
+    "url": "https://tracxn.com/d/companies/edenfarm/__2mxeirbY2VSyNYwhdgXdd8fPCD28oJSsb4l08pjmPY8",
+    "pass": 3
+   }
+  ],
+  "採用・広告の製品": [
+   {
+    "quote": "EdenFarm 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/279382-96",
+    "pass": 3
+   },
+   {
+    "quote": "Provider of farm product distribution services intended to build a global food distribution system by eliminating middlemen.",
+    "url": "https://pitchbook.com/profiles/company/279382-96",
+    "pass": 3
+   },
+   {
+    "quote": "Provider of farm product distribution services intended to build a global food distribution system by eliminating middlemen. The company's services involve connecting farmers directly with business owners to facilitate the delivery of fresh vegetables and farm produce to restaurants, enabling farmers to earn a better margin of return for their products.",
+    "url": "https://pitchbook.com/profiles/company/279382-96",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/279382-96",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/279382-96",
+    "pass": 3
+   },
+   {
+    "quote": "EdenFarm’s primary industry is Other Commercial Services.",
+    "url": "https://pitchbook.com/profiles/company/279382-96",
+    "pass": 3
+   },
+   {
+    "quote": "Is EdenFarm a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/279382-96",
+    "pass": 3
+   },
+   {
+    "quote": "EdenFarm is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/279382-96",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/279382-96",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/279382-96",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/279382-96",
+    "pass": 3
+   },
+   {
+    "quote": "Eden Farm has raised $48.2M across 4 funding rounds. Most recently, it raised $13.5M EdenFarm Indonesia - Pre-Series B in January 2023.",
+    "url": "https://startupintros.com/orgs/eden-farm",
+    "pass": 3
+   },
+   {
+    "quote": "EdenFarm Indonesia - Pre-Series B",
+    "url": "https://startupintros.com/orgs/eden-farm",
+    "pass": 3
+   },
+   {
+    "quote": "Eden Farm's investors include TMI, AC Ventures, AppWorks, Capria Ventures, Quona Capital, Global Founders Capital, Investible, OCBC Ventures, Trihill Capital, Y Combinator.",
+    "url": "https://startupintros.com/orgs/eden-farm",
+    "pass": 3
+   },
+   {
+    "quote": "Cuts out middlemen to reduce costs and ensure fair prices for farmers and buyers.",
+    "url": "https://startupintros.com/orgs/eden-farm",
+    "pass": 3
+   },
+   {
+    "quote": "Inspects and washes produce before delivery, offering a 100% refund guarantee on unusable items.",
+    "url": "https://startupintros.com/orgs/eden-farm",
+    "pass": 3
+   },
+   {
+    "quote": "Collaborates with organic waste processors to convert sorting waste into fertilizers, supporting environmental goals.",
+    "url": "https://startupintros.com/orgs/eden-farm",
+    "pass": 3
+   },
+   {
+    "quote": "agmrc.org/value-added-agriculture/case-studies-of-value-added-producer-grant-recipients/eden-farms-llc",
+    "url": "https://startupintros.com/orgs/eden-farm",
+    "pass": 3
+   },
+   {
+    "quote": "May your health be protected in the new year, and may it be a truly wonderful year for you.",
+    "url": "https://note.com/theedenfarm/n/nd9e70722b59e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I pray that you will be filled with joy, peace, and blessings every day.",
+    "url": "https://note.com/theedenfarm/n/nd9e70722b59e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "70% of the world's plants rely on insects like honeybees for pollination, but monoculture, especially in mass production, drastically reduces insect populations and makes crops more susceptible to pests.",
+    "url": "https://note.com/theedenfarm/n/nd9e70722b59e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Furthermore, this ultimately leads to nothing being able to grow, resulting in desertification and triggering climate change. Various climate changes are already occurring around the world, and it is said that this will cause natural disasters in the near future that humanity has never experienced before.",
+    "url": "https://note.com/theedenfarm/n/nd9e70722b59e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On my birthday, March 1, 2017, I prayed to God, \"God's grace is sufficient. If You show me what You want me to do, I will follow.\"",
+    "url": "https://note.com/theedenfarm/n/nd9e70722b59e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"I have prepared 100 square meters of land for a farm.\"",
+    "url": "https://note.com/theedenfarm/n/nd9e70722b59e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I had talked to my father about this farming method, but I never dreamed he would prepare land for it.",
+    "url": "https://note.com/theedenfarm/n/nd9e70722b59e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Surprised by the one-sentence email that felt like a message from God, I prepared about 70 types of vegetable, herb, and flower seeds, as well as fruit trees, to start the farm. Then, on March 26, 2017, I planted them on the 100 square meters of land provided. Thinking that this farm was just like the Garden of Eden that God the Creator made on this Earth, I named it \"Eden Farm.\"",
+    "url": "https://note.com/theedenfarm/n/nd9e70722b59e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Also, to let people experience the wonder of Eden Farm, I invited friends and acquaintances to hold Eden Farm Fellowships, where we made salads and dishes with Eden Farm vegetables and enjoyed stone-oven pizza and barbecues.",
+    "url": "https://note.com/theedenfarm/n/nd9e70722b59e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We will finally be renovating the building for Noah’s Garden this year, so I hope many of you will come to visit Eden Farm and participate in activities where you can experience a lifestyle that enjoys the various seasons, such as medicinal cooking classes and handmade acacia mimosa wreath workshops. We will continue to provide information on Instagram, so we look forward to your participation!",
+    "url": "https://note.com/theedenfarm/n/nd9e70722b59e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Then God said, “Let the land produce vegetation: seed-bearing plants and trees on the land that bear fruit with seed in it, according to their various kinds.” And it was so.",
+    "url": "https://note.com/theedenfarm/n/na53721a85b85?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "God said, “Let the land produce vegetation: seed-bearing plants and trees on the land that bear fruit with seed in it, according to their various kinds.” And it was so.",
+    "url": "https://note.com/theedenfarm/n/na53721a85b85?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "EdenFarm 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/279382-96",
+    "pass": 3
+   },
+   {
+    "quote": "9. Merger/Acquisition",
+    "url": "https://pitchbook.com/profiles/company/279382-96",
+    "pass": 3
+   },
+   {
+    "quote": "EdenFarm has 550 total employees.",
+    "url": "https://pitchbook.com/profiles/company/279382-96",
+    "pass": 3
+   },
+   {
+    "quote": "What is EdenFarm’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/279382-96",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for EdenFarm is",
+    "url": "https://pitchbook.com/profiles/company/279382-96",
+    "pass": 3
+   },
+   {
+    "quote": "When was EdenFarm acquired?",
+    "url": "https://pitchbook.com/profiles/company/279382-96",
+    "pass": 3
+   },
+   {
+    "quote": "EdenFarm was acquired on 29-Feb-2024.",
+    "url": "https://pitchbook.com/profiles/company/279382-96",
+    "pass": 3
+   },
+   {
+    "quote": "Who acquired EdenFarm?",
+    "url": "https://pitchbook.com/profiles/company/279382-96",
+    "pass": 3
+   },
+   {
+    "quote": "EdenFarm was acquired by",
+    "url": "https://pitchbook.com/profiles/company/279382-96",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/279382-96",
+    "pass": 3
+   },
+   {
+    "quote": "Then, the next day, I received an email from my father.",
+    "url": "https://note.com/theedenfarm/n/nd9e70722b59e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Surprised by the one-sentence email that felt like a message from God, I prepared about 70 types of vegetable, herb, and flower seeds, as well as fruit trees, to start the farm. Then, on March 26, 2017, I planted them on the 100 square meters of land provided. Thinking that this farm was just like the Garden of Eden that God the Creator made on this Earth, I named it \"Eden Farm.\"",
+    "url": "https://note.com/theedenfarm/n/nd9e70722b59e?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Grace エデン農園 薬膳教室｜note エデン農園オーナー、薬膳教室主宰、国際薬膳師、国際薬膳調理師、中医薬膳師、ファイナンシャルプランナー。 マガジン#エデン農園#癌になって健康を手に入れた#薬膳を通じて、全ての創造主である神の素晴らしさを伝えます。 https://edenfarm.jp/",
+    "url": "https://note.com/theedenfarm",
+    "pass": 3
+   },
+   {
+    "quote": "Eden Farm New Year's Greeting｜Grace エデン農園 薬膳教室 Every year, many friends and acquaintances have joined the Eden Farm fellowship, and I have come to want even more people to experience the wonderful things that God has bestowed upon Eden Farm. Then, in July 2021, a new vision was given to Eden Farm.",
+    "url": "https://note.com/theedenfarm/n/nd9e70722b59e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Meeting Mr. Schamreffer｜Grace エデン農園 薬膳教室 Oct 11, 2020 · エデン農園オーナー、薬膳教室主宰、国際薬膳師、国際薬膳調理師、中医薬膳師、ファイナンシャルプランナー。 マガジン#エデン農園#癌になって健康を手に入れた#薬膳を通じて、全ての創造主である神の素晴らしさを伝えます。 https://edenfarm.jp/",
+    "url": "https://note.com/theedenfarm/n/nff2875925165?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Eden Farm｜Grace エデン農園 薬膳教室 You can imagine what kind of future is in store for us if this continues. Named with the intention of returning the Earth to its original state, \"Eden Farm\" aims to build an ecosystem through natural farming that uses no fertilizers or pesticides.",
+    "url": "https://note.com/theedenfarm/n/na53721a85b85?hl=en",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Named \"Eden Farm\" with the intention of returning the Earth to its original state, Eden Farm aims to build an ecosystem that coexists with humans by utilizing the characteristics of plants through pesticide-free natural farming, and by allowing multiple species, including those naturally inhabiting the land, to compete and coexist.",
+    "url": "https://note.com/theedenfarm/n/nd9e70722b59e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Conventional agriculture involves tilling fields to plant seeds every year, and after planting, applying chemical fertilizers, herbicides, and insecticides. Pesticides such as chemical fertilizers, herbicides, and insecticides flow from the soil into groundwater, rivers, and the ocean, destroying marine ecosystems.",
+    "url": "https://note.com/theedenfarm/n/nd9e70722b59e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "70% of the world's plants rely on insects like honeybees for pollination, but monoculture, especially in mass production, drastically reduces insect populations and makes crops more susceptible to pests.",
+    "url": "https://note.com/theedenfarm/n/nd9e70722b59e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Earth's mechanism is for plants to absorb CO2 released by animals and store it in the Earth as carbon. However, the current Earth has lost 50% of its forests, reducing its ability to store carbon underground. To increase the Earth's carbon storage capacity, farming methods that cover the ground with plants are necessary.",
+    "url": "https://note.com/theedenfarm/n/nd9e70722b59e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Surprised by the one-sentence email that felt like a message from God, I prepared about 70 types of vegetable, herb, and flower seeds, as well as fruit trees, to start the farm. Then, on March 26, 2017, I planted them on the 100 square meters of land provided. Thinking that this farm was just like the Garden of Eden that God the Creator made on this Earth, I named it \"Eden Farm.\"",
+    "url": "https://note.com/theedenfarm/n/nd9e70722b59e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "At Eden Farm, I planted about 70 types of seeds, and they bore an astonishing amount of fruit. Since the water was only natural rain and no fertilizer was given, it could only be God's grace. Because so many vegetables were harvested, I gave vegetables and herbs to people as gifts.",
+    "url": "https://note.com/theedenfarm/n/nd9e70722b59e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Then God said, “Let the land produce vegetation: seed-bearing plants and trees on the land that bear fruit with seed in it, according to their various kinds.” And it was so.",
+    "url": "https://note.com/theedenfarm/n/na53721a85b85?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "God said, “Let the land produce vegetation: seed-bearing plants and trees on the land that bear fruit with seed in it, according to their various kinds.” And it was so.",
+    "url": "https://note.com/theedenfarm/n/na53721a85b85?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Eden Farm New Year's Greeting｜Grace🌱エデン農園🌿薬膳教室",
+    "url": "https://note.com/theedenfarm/n/nd9e70722b59e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Eden Farm New Year's Greeting",
+    "url": "https://note.com/theedenfarm/n/nd9e70722b59e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Thank you for viewing Eden Farm's posts 😊",
+    "url": "https://note.com/theedenfarm/n/nd9e70722b59e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "May your health be protected in the new year, and may it be a truly wonderful year for you.",
+    "url": "https://note.com/theedenfarm/n/nd9e70722b59e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I pray that you will be filled with joy, peace, and blessings every day.",
+    "url": "https://note.com/theedenfarm/n/nd9e70722b59e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Named \"Eden Farm\" with the intention of returning the Earth to its original state, Eden Farm aims to build an ecosystem that coexists with humans by utilizing the characteristics of plants through pesticide-free natural farming, and by allowing multiple species, including those naturally inhabiting the land, to compete and coexist.",
+    "url": "https://note.com/theedenfarm/n/nd9e70722b59e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The beginning of Eden Farm was triggered by learning in 2017 that agriculture is destroying the global environment.",
+    "url": "https://note.com/theedenfarm/n/nd9e70722b59e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The root cause of the destruction of the global environment is agriculture",
+    "url": "https://note.com/theedenfarm/n/nd9e70722b59e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Eden Farm｜Grace🌱エデン農園🌿薬膳教室",
+    "url": "https://note.com/theedenfarm/n/na53721a85b85?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Then God said, “Let the land produce vegetation: seed-bearing plants and trees on the land that bear fruit with seed in it, according to their various kinds.” And it was so.",
+    "url": "https://note.com/theedenfarm/n/na53721a85b85?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How many types of vegetables do we eat on a regular basis? Potatoes, tomatoes, lettuce, cucumbers... etc. It would be good if we could name 30 types. On the Earth that God first created, there existed a number of vegetable varieties far exceeding those we see in supermarkets today.",
+    "url": "https://note.com/theedenfarm/n/na53721a85b85?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As the population has grown, food production has shifted toward mass production. Seeds have been improved so that vegetables are easier to mass-produce, can be harvested in large quantities, have a uniform and attractive appearance, or, for human convenience, produce seedless fruit. Furthermore, weeds and insects have been treated as enemies of agriculture, eradicated with herbicides and insectici",
+    "url": "https://note.com/theedenfarm/n/na53721a85b85?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Named with the intention of returning the Earth to its original state, \"Eden Farm\" aims to build an ecosystem through natural farming that uses no fertilizers or pesticides. By leveraging the characteristics of plants and allowing multiple species, including those naturally inhabiting the land, to compete and coexist, we are working toward this goal. Eden Farm started in March 2017, and since then",
+    "url": "https://note.com/theedenfarm/n/na53721a85b85?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For example, the cabbage caterpillar is not a pest, but an important partner. Until the cabbage head forms, many leaves grow one after another. The caterpillar eats these leaves heartily to grow and produces plenty of droppings. These droppings are washed down to the roots of the cabbage by the morning dew, serving as fertilizer for the cabbage. By the time the caterpillar flies away as a beautifu",
+    "url": "https://note.com/theedenfarm/n/na53721a85b85?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "At Eden Farm, we do not use F1 seeds, which produce uniform crops in the first year but fail to produce decent crops the following year. Typically, farmers purchase these F1 seeds along with a set of herbicides, insecticides, and chemical fertilizers from agricultural cooperatives every year. It is said that ancient varieties of wheat and corn no longer exist because they have been over-improved. ",
+    "url": "https://note.com/theedenfarm/n/na53721a85b85?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "God said, “Let the land produce vegetation: seed-bearing plants and trees on the land that bear fruit with seed in it, according to their various kinds.” And it was so.",
+    "url": "https://note.com/theedenfarm/n/na53721a85b85?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Eden Farms (@edenfarmorganic) / Posts / X Eden Farms (@edenfarmorganic) - Posts - Organic veg farmers and delivery service, farmer's markets, wholesale 30 years organic farming! A... | X (formerly Twitter)",
+    "url": "https://x.com/edenfarmorganic",
+    "pass": 3
+   },
+   {
+    "quote": "Eden Farm (@EdenFarmOcala) / Posts / X Ocala's Eden Farm offers lessons for children, as well as boarding and training for show ponies. edenfarmocala.com",
+    "url": "https://x.com/edenfarmocala",
+    "pass": 3
+   },
+   {
+    "quote": "Eden Farms Nursery (@edenfarmsct) / Posts / X Since 1994, Eden Farms Nursery & Garden Center has provided Stamford with all their gardening needs. Let us help your garden look beautiful!",
+    "url": "https://x.com/edenfarmsct",
+    "pass": 3
+   },
+   {
+    "quote": "Eden Farm (@TheEdenFarm) / X For sale.Price:6 Million PHP. More information eden.farm.alang.alang@gmail.co http://t.co/4M4Vo9krvz http://t.co/uMGARi9XL4",
+    "url": "https://x.com/TheEdenFarm",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "EdenFarm - LinkedIn About us EdenFarm is a food service startup that provides its services to over 50,000 food and culinary businesses across Java Island.",
+    "url": "https://www.linkedin.com/company/pt-eden-pangan-indonesia",
+    "pass": 3
+   },
+   {
+    "quote": "An analysis of the EdenFarm model - LinkedIn Jan 13, 2023 · It happened to be with Christophe Hubert, the VP of Product at Edenfarm, a venture funded B2B farm ecommerce model in Indonesia.",
+    "url": "https://www.linkedin.com/pulse/analysis-edenfarm-model-ken-leaver",
+    "pass": 3
+   },
+   {
+    "quote": "Mark Ellwood - Business Development Manager at Eden-farm ...Daniel Cartin - Commercial Controller - Eden Farm Hulleys ...David Setyadi Gunawan - Cofounder/CEO at Pusaka Intelligence ...Eden Farm Hulleys - LinkedInJames, Samuel - Chief Executive Officer at EdenFarm | LinkedIn Business Development Manager at Eden-farm hulleys · Experience: Eden-farm hulleys · Education: Egglescliffe 6th Form · Locat",
+    "url": "https://uk.linkedin.com/in/mark-ellwood-286192130",
+    "pass": 3
+   },
+   {
+    "quote": "Daniel Cartin - Commercial Controller - Eden Farm Hulleys ...David Setyadi Gunawan - Cofounder/CEO at Pusaka Intelligence ...Eden Farm Hulleys - LinkedInJames, Samuel - Chief Executive Officer at EdenFarm | LinkedIn Commercial Controller - Eden Farm Hulleys · Experienced Account Manager with a demonstrated history of working in the food production industry. Skilled in Negotiation, Fast-Moving Cons",
+    "url": "https://uk.linkedin.com/in/daniel-cartin-b6a872a0",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Eden Farm Hulleys | Peterlee - FacebookEdén Farm | San José de Chiquitos - FacebookEden Farm | Athens ME - FacebookEdenFarm | Jakarta - FacebookEDEN FARM | Ho Chi Minh City - FacebookEden Farm Group | Yaoundé - Facebookeden_farm_guesthouse - Facebook Sep 1, 2026 · Eden Farm Hulleys, Peterlee. 1,308 followers · 101 were here. A nationwide frozen food & ice cream wholesaler & distribution company wi",
+    "url": "https://www.facebook.com/Edenfarmhulleys/",
+    "pass": 3
+   },
+   {
+    "quote": "Eden Farm | Athens ME - FacebookEdenFarm | Jakarta - FacebookEDEN FARM | Ho Chi Minh City - FacebookEden Farm Group | Yaoundé - Facebookeden_farm_guesthouse - Facebook Eden Farm, Athens. 4,112 followers · 600 talking about this · 141 were here. We're a family owned farm located in Athens, ME. Our farm includes a... Dec 15, 2023 · Ternyata ada produk ini di EdenFarm! 😮 Salah satu kelebihan belanja ",
+    "url": "https://www.facebook.com/EdenFarmGrassFed/",
+    "pass": 3
+   },
+   {
+    "quote": "EdenFarm | Jakarta - FacebookEDEN FARM | Ho Chi Minh City - FacebookEden Farm Group | Yaoundé - Facebookeden_farm_guesthouse - Facebook Dec 15, 2023 · Ternyata ada produk ini di EdenFarm! 😮 Salah satu kelebihan belanja di EdenFarm adalah varian produk yang lengkap. Tak tanggung-tanggung, ada lebih dari 200 produk yang tersedia secara segar setiap hari! Oct 19, 2026 · Trước khi quyết định, anh/chị ",
+    "url": "https://www.facebook.com/EdenFarmId/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.edenfarm.id",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://edencos.co.kr/ja/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techinasia.com/indonesian-agritech-startup-edenfarm-pivots-lays-employees",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edencos.co.kr/ja/global",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edenfarm.jp/vision/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.medical-jpn.jp/tokyo/en-gb/search/mj-tokyo202610/directory/directory-details.org-7f0b720a-d888-4692-aca4-68df77711d62.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edenfarm.jp/shop/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edenfarm.jp/vision/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edenfarm.jp/join/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/279382-96",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/eden-farm/__B3BnOF-uHz8SKmujLcH0HxCmIkkfv7_oPMo-ybnChVg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/eden-farm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/eden-farm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/theedenfarm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/theedenfarm/n/nd9e70722b59e?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/theedenfarm/n/nff2875925165?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/theedenfarm/n/na53721a85b85?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/edenfarmorganic",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/edenfarmocala",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/edenfarmsct",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TheEdenFarm",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/pt-eden-pangan-indonesia",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/analysis-edenfarm-model-ken-leaver",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/mark-ellwood-286192130",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/daniel-cartin-b6a872a0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Edenfarmhulleys/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/EdenFarmGrassFed/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/EdenFarmId/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/theedenfarm",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Edenfarm 日本 導入",
+   "results": [
+    "https://edencos.co.kr/ja/news",
+    "https://www.techinasia.com/indonesian-agritech-startup-edenfarm-pivots-lays-employees",
+    "https://edencos.co.kr/ja/global",
+    "https://edenfarm.jp/vision/",
+    "https://edenfarm.jp/",
+    "https://36kr.jp/502580/",
+    "https://himanekoblog.hatenablog.com/entry/20260518/1779035645"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Edenfarm 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://taimen-eigyo.com/words/so-dairiten/",
+    "https://jomon.group/",
+    "https://partner-prop.com/lab/partner-business/agency/91/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "Edenfarm Japan",
+   "results": [
+    "https://www.medical-jpn.jp/tokyo/en-gb/search/mj-tokyo202610/directory/directory-details.org-7f0b720a-d888-4692-aca4-68df77711d62.html",
+    "https://edenfarm.jp/shop/",
+    "https://edenfarm.jp/vision/",
+    "https://edenfarm.jp/join/",
+    "https://www.earthembassy.org/eden-farm-school",
+    "https://www.edenfoods.com/about/",
+    "https://edenfarm.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Edenfarm manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Edenfarm white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://reseller.amazon.com/",
+    "https://dor.wa.gov/taxes-rates/retail-sales-tax/reseller-permits"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Edenfarm founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/279382-96",
+    "https://tracxn.com/d/companies/eden-farm/__B3BnOF-uHz8SKmujLcH0HxCmIkkfv7_oPMo-ybnChVg",
+    "https://compworth.com/company/eden-farm",
+    "https://startupintros.com/orgs/eden-farm",
+    "https://tracxn.com/d/companies/edenfarm/__2mxeirbY2VSyNYwhdgXdd8fPCD28oJSsb4l08pjmPY8",
+    "https://indexed.vc/companies/pt-eden-pangan-indonesia",
+    "https://dealroom.co/companies/eden-farm/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Edenfarm",
+   "results": [
+    "https://note.com/theedenfarm",
+    "https://note.com/theedenfarm/n/nd9e70722b59e?hl=en",
+    "https://note.com/theedenfarm/n/nff2875925165?hl=en",
+    "https://note.com/theedenfarm/n/na53721a85b85?hl=en",
+    "https://note.com/theedenfarm/n/n7418803b8aaa?hl=en",
+    "https://note.com/theedenfarm/n/n6681605a23c6?hl=en",
+    "https://note.com/theedenfarm/n/n269b749b0f3e?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Edenfarm",
+   "results": [
+    "https://x.com/edenfarmorganic",
+    "https://x.com/edenfarmocala",
+    "https://x.com/edenfarmsct",
+    "https://x.com/TheEdenFarm",
+    "https://x.com/farm_wellness",
+    "https://x.com/Eenymeeny_Robin/status/2119005845300085195",
+    "https://x.com/edenfarmorganic/status/963166679038676992"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Edenfarm",
+   "results": [
+    "https://www.linkedin.com/company/pt-eden-pangan-indonesia",
+    "https://www.linkedin.com/pulse/analysis-edenfarm-model-ken-leaver",
+    "https://uk.linkedin.com/in/mark-ellwood-286192130",
+    "https://uk.linkedin.com/in/daniel-cartin-b6a872a0",
+    "https://id.linkedin.com/in/david-setyadi-gunawan-57049566",
+    "https://www.linkedin.com/in/james-samuel-0428a326a",
+    "https://www.linkedin.com/company/eden-farm-hulleys/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Edenfarm",
+   "results": [
+    "https://www.facebook.com/Edenfarmhulleys/",
+    "https://www.facebook.com/EdenFarmGrassFed/",
+    "https://www.facebook.com/EdenFarmId/",
+    "https://www.facebook.com/p/Edén-Farm-100057022827184/",
+    "https://www.facebook.com/edenfarm.com.vn/",
+    "https://www.facebook.com/Edenfarm237/",
+    "https://www.facebook.com/p/eden_farm_guesthouse-100084714313196/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Edenfarm note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.com/theedenfarm",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://deockhyeon-hub.github.io/edencos-files/EdenFarm-Company-Profile-EN-v64.pdf",
+    "https://note.com/fumiya16/n/ndd1abee2fd2c"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Edenfarm X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）"
+ }
+}

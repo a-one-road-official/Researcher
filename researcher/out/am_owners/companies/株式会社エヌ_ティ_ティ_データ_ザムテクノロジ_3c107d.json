@@ -1,0 +1,494 @@
+{
+ "name": "株式会社エヌ・ティ・ティ・データ・ザムテクノロジ",
+ "aliases": [],
+ "context": "PBF=yes 装置=EOS M 290 出典=https://www.nttdata.com/global/ja/news/group/2024/040400/",
+ "researched_at": "2026-11-10T17:12:40.346156+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {},
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "日本で粉末積層造形装置「EOSINT」販売開始",
+    "url": "https://www.nttdata-xam.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "M250、S700、P350をテクニカルセンターに導入",
+    "url": "https://www.nttdata-xam.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形の造形プロセスを理解することを目的に開設、東京と2拠点体制になる",
+    "url": "https://www.nttdata-xam.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "箕面市のAMデザインラボはテクニカルセンターに名称を変更し、EOS社認定エンジニアによるお客様へのテクニカルサポートの専門拠点となる",
+    "url": "https://www.nttdata-xam.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "多様な産業ニーズに応えるEOS金属3Dプリンター用金属材料4種が登場（株式会社エヌ・ティ・ティ・データ・ザムテクノロジーズ） | NTTデータグループ - NTT DATA GROUP",
+    "url": "https://www.nttdata.com/global/ja/news/group/2025/110600/",
+    "pass": 3
+   },
+   {
+    "quote": "多様な産業ニーズに応えるEOS金属3Dプリンター用金属材料4種が登場（株式会社エヌ・ティ・ティ・データ・ザムテクノロジーズ）",
+    "url": "https://www.nttdata.com/global/ja/news/group/2025/110600/",
+    "pass": 3
+   },
+   {
+    "quote": "多様な産業ニーズに応えるEOS金属3Dプリンター用金属材料4種が登場",
+    "url": "https://www.nttdata.com/global/ja/news/group/2025/110600/",
+    "pass": 3
+   },
+   {
+    "quote": "また、AMの効果をより発揮するためには、設計工程や製造工程、品質保証の考え方などの見直しが必要となり、「3Dプリンターを導入しただけで解決」とはなりません",
+    "url": "https://www.nttdata-xam.com/recruit/freshers/about/",
+    "pass": 3
+   },
+   {
+    "quote": "日本で粉末積層造形装置「EOSINT」販売開始",
+    "url": "https://www.nttdata-xam.com/recruit/freshers/about/",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "日本で粉末積層造形装置「EOSINT」販売開始",
+    "url": "https://www.nttdata-xam.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "緻密な造形が困難と言われていた銅合金の造形プロセス開発を成功させ、特許申請を行う",
+    "url": "https://www.nttdata-xam.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "日本で粉末積層造形装置「EOSINT」販売開始",
+    "url": "https://www.nttdata-xam.com/recruit/freshers/about/",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "製造ラインや金型による生産と比較し、小ロット生産が可能であること",
+    "url": "https://www.nttdata-xam.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "実際、航空宇宙、モータースポーツや医療分野など、さまざまな分野で3Dプリンターが活用されています",
+    "url": "https://www.nttdata-xam.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "Alloyed社が開発したABD®合金を使用した部品の国内優先製造業者となり、日本のお客さまへABD®合金製部品の提供及びABD®900AM合金の試作、受託製造の受注を開始",
+    "url": "https://www.nttdata-xam.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "皆さんの若いエネルギーでAM技術がモノづくりのあたり前になる未来に向かって、共に邁進しザムの新しい歴史を一緒に築いて行きましょう",
+    "url": "https://www.nttdata-xam.com/recruit/freshers/about/",
+    "pass": 3
+   },
+   {
+    "quote": "AM技術を活用した量産品の開発支援と受託製造",
+    "url": "https://www.nttdata-xam.com/recruit/freshers/about/",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "株主がNTTデータに変更し、株式会社エヌ・ティ・ティ・データ・エンジニアリングシステムズに社名変更",
+    "url": "https://www.nttdata-xam.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株主がNTTデータに変更し、株式会社エヌ・ティ・ティ・データ・エンジニアリングシステムズに社名変更",
+    "url": "https://www.nttdata-xam.com/recruit/freshers/about/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.nttdata-xam.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdft.com/company/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata.com/jp/ja/about-us/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata-xam.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata.com/global/ja/news/group/2025/110600/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/product/detail/2000710602/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata-xam.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata.com/global/ja/news/group/2025/110600/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata-xam.com/eos-m/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata-xam.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata.com/global/ja/news/services_info/2020/063000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/001021643.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nttdata-xam.com/recruit/freshers/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onecareer.jp/companies/96305",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.r-agent.com/company/d0317/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "エヌ・ティ・ティ・データ・ザムテクノロジ",
+   "results": [
+    "https://www.nttdata-xam.com/",
+    "https://www.youtube.com/watch?v=zmROjgdw8jQ",
+    "https://www.r-agent.com/company/d0317/",
+    "https://www.nttdata.com/global/ja/news/services_info/2020/063000/",
+    "https://www.openwork.jp/company.php?m_id=a0C2x000008ydZk",
+    "https://mono.ipros.com/company/detail/2090357/",
+    "https://www.nttdata-xam.com/company/",
+    "https://www.nttdata.com/jp/ja/about-us/",
+    "https://eigyo-mfg.com/service/navi/company/A700kqDY3TuK",
+    "https://data-link-plus.com/jp/corporation/9010801030905"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "株式会社エヌ・ティ・ティ・データ・ザムテクノロジ",
+   "results": [
+    "https://www.nttdata-xam.com/",
+    "https://www.youtube.com/watch?v=zmROjgdw8jQ",
+    "https://www.r-agent.com/company/d0317/",
+    "https://www.nttdata.com/global/ja/news/services_info/2020/063000/",
+    "https://www.openwork.jp/company.php?m_id=a0C2x000008ydZk",
+    "https://mono.ipros.com/company/detail/2090357/",
+    "https://ja.wikipedia.org/wiki/NTTデータグループ",
+    "https://www.nttdata-xam.com/company/",
+    "https://www.nttdata.com/jp/ja/about-us/",
+    "https://eigyo-mfg.com/service/navi/company/A700kqDY3TuK"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "エヌ・ティ・ティ・データ・ザムテクノロジ 株式会社",
+   "results": [
+    "https://www.nttdata-xam.com/",
+    "https://www.youtube.com/watch?v=zmROjgdw8jQ",
+    "https://www.r-agent.com/company/d0317/",
+    "https://www.nttdata.com/global/ja/news/services_info/2020/063000/",
+    "https://www.openwork.jp/company.php?m_id=a0C2x000008ydZk",
+    "https://www.youtube.com/@ntt3096",
+    "https://www.nttdata-xam.com/company/",
+    "https://eigyo-mfg.com/service/navi/company/A700kqDY3TuK",
+    "https://www.nttdata.com/jp/ja/about-us/",
+    "https://data-link-plus.com/jp/corporation/9010801030905"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "エヌティティデータザムテクノロジ",
+   "results": [
+    "https://www.nttdata-xam.com/",
+    "https://www.youtube.com/watch?v=zmROjgdw8jQ",
+    "https://www.r-agent.com/company/d0317/",
+    "https://www.nttdata.com/global/ja/news/services_info/2020/063000/",
+    "https://www.youtube.com/@ntt3096",
+    "https://mono.ipros.com/company/detail/2090357/",
+    "https://ja.wikipedia.org/wiki/NTTデータグループ",
+    "https://www.nttdata-xam.com/company/",
+    "https://www.nttdata.com/jp/ja/about-us/",
+    "https://eigyo-mfg.com/service/navi/company/A700kqDY3TuK"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "エヌ・ティ・ティ・データ・ザムテクノロジ 会社概要 資本金 設立",
+   "results": [
+    "https://www.nttdata-xam.com/company/",
+    "https://www.nttdft.com/company/outline.html",
+    "https://www.nttdata.com/jp/ja/about-us/profile/",
+    "https://www.onecareer.jp/companies/96305",
+    "https://mono.ipros.com/company/detail/2090357/",
+    "https://www.intellilink.co.jp/company/corporate.aspx",
+    "https://www.nttdata-xam.com/recruit/freshers/about/",
+    "https://www.nttdata-it.com/company/companyprofile/",
+    "https://www.nttd-fr.com/company/about.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "エヌ・ティ・ティ・データ・ザムテクノロジ 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.nttdata-xam.com/",
+    "https://www.nttdata.com/global/ja/news/group/2025/110600/",
+    "https://mono.ipros.com/product/detail/2000710602/",
+    "https://unifiedsearch.jcdbizmatch.jp/nanotech2026/jp/tct/details/fjhH2csaZGk",
+    "https://www.nttdata-xam.com/ambition/",
+    "https://news.sharelab.jp/interviews/xam-factory-tour-221102/",
+    "https://kanagata-shimbun.com/202407_nttdatazam/",
+    "https://www.nttdata-xam.com/company/",
+    "https://eigyo-mfg.com/service/navi/company/A700kqDY3TuK",
+    "https://www.nttdata.com/global/ja/news/services_info/2020/063000/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "エヌ・ティ・ティ・データ・ザムテクノロジ 金属積層造形 設備",
+   "results": [
+    "https://www.nttdata-xam.com/",
+    "https://www.nttdata.com/global/ja/news/group/2025/110600/",
+    "https://www.nttdata-xam.com/eos-m/",
+    "https://mono.ipros.com/company/detail/2090357/category/",
+    "https://unifiedsearch.jcdbizmatch.jp/nanotech2026/jp/tct/details/fjhH2csaZGk",
+    "https://news.sharelab.jp/3dp-news/tech/xam_dmc_220704/",
+    "https://jampt.jp/",
+    "https://prtimes.jp/main/html/rd/p/000000018.000103715.html",
+    "https://ja.wikipedia.org/wiki/NTTデータグループ",
+    "https://www.nttdata-xam.com/company/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "エヌ・ティ・ティ・データ・ザムテクノロジ 株主 出資 親会社",
+   "results": [
+    "https://www.nttdata-xam.com/company/",
+    "https://www.nttdata.com/global/ja/news/services_info/2020/063000/",
+    "https://www.soumu.go.jp/main_content/001021643.pdf",
+    "https://ja.wikipedia.org/wiki/NTT%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
+    "https://group.ntt/jp/group/gnavi/",
+    "https://www.r-agent.com/company/d0317/",
+    "https://www.nttdata-xam.com/",
+    "https://www.onecareer.jp/companies/96305",
+    "https://www.nttdft.com/company/outline.html",
+    "https://ja.wikipedia.org/wiki/NTTデータグループ"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "エヌ・ティ・ティ・データ・ザムテクノロジ 売上高 従業員数",
+   "results": [
+    "https://www.nttdata-xam.com/recruit/freshers/about/",
+    "https://www.onecareer.jp/companies/96305",
+    "https://www.r-agent.com/company/d0317/",
+    "https://www.nttdata.com/global/ja/about-us/profile/",
+    "https://reashu.com/nttdata_kogaisha_ranking/",
+    "https://job.mynavi.jp/27/pc/search/corp81769/outline.html",
+    "https://www.buffett-code.com/company/566f08jwcm/",
+    "https://www.nttdata-sms.co.jp/company/outline.html",
+    "https://www.gogo-jobcafe-shimane.jp/job/company/976272",
+    "https://www.nttdata-xam.com/company/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com エヌ・ティ・ティ・データ・ザムテクノロジ",
+   "results": [
+    "https://note.com/tenchijincompass/n/n94b9be397bce",
+    "https://note.com/clipcorporation/n/nc74cb8b1c855",
+    "https://note.com/good_abelia4787/n/n6edd148fc51b",
+    "https://money.note.com/companies/3850",
+    "https://note.com/company_scope/n/n9db593fe28ef",
+    "https://note.com/gentle_ixora67/n/n21e0d07f3111",
+    "https://note.com/m_ko777/n/n11013a3ed976",
+    "https://note.com/clipcorporation/n/n940aa9b616e9",
+    "https://note.com/clipcorporation/n/nc4fb26b6d8e9"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:x.com エヌ・ティ・ティ・データ・ザムテクノロジ",
+   "results": [
+    "https://x.com/kikaiken/status/2053762926314680539",
+    "https://x.com/ePaymentsjp/status/2118269327355027868",
+    "https://x.com/shiba_4",
+    "https://x.com/52shinNaka/status/2072118536156373391",
+    "https://x.com/hashtag/NTTデータザムテクノロジーズ",
+    "https://x.com/intellilink_pr",
+    "https://x.com/SolizeC/status/2118163085655679231",
+    "https://x.com/miraclemasui/status/2118097722662342760",
+    "https://x.com/study_just2020/status/2119273180011663667"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:linkedin.com エヌ・ティ・ティ・データ・ザムテクノロジ",
+   "results": [
+    "https://jp.linkedin.com/in/hitoshi-sakai-045b99b8",
+    "https://in.linkedin.com/in/vishwajeet-kumar-9234b6212",
+    "https://my.linkedin.com/in/stella-lai-mei-sum-b3516522a",
+    "https://my.linkedin.com/in/tengku-muzaffar-tengku-munasir-a8926354",
+    "https://es.linkedin.com/in/oriolpons",
+    "https://my.linkedin.com/in/sabruddin-idris-76403017",
+    "https://tr.linkedin.com/in/osmndnmz",
+    "https://tr.linkedin.com/in/ozturkmetin",
+    "https://tr.linkedin.com/in/cenk-parlak-4610174a",
+    "https://ar.linkedin.com/in/federicofunes"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com エヌ・ティ・ティ・データ・ザムテクノロジ",
+   "results": [
+    "https://www.facebook.com/NTTDATAJapan/photos/ものづくりで無限の未来を切り開くnttデータ-ザムテクノロジーズ3dプリンタを活用して樹脂や金属の粉末を一層ずつ重ねていくことで3次元の造形物を製造する技術によ/2659779844291325/",
+    "https://www.facebook.com/NTTDATAJapan/",
+    "https://www.facebook.com/NTTDATAJapan/posts/ものづくりで無限の未来を切り開くnttデータ-ザムテクノロジーズ3dプリンタを活用して樹脂や金属の粉末を一層ずつ重ねていくことで3次元の造形物を製造する技術によ/2659780357624607/",
+    "https://www.facebook.com/inetofthingsnews/posts/nttデータ3dプリンタを活用したamソリューション新会社nttデータ-ザムテクノロジーズを設立/2700079140276424/",
+    "https://www.facebook.com/NTT-DATA-ザムテクノロジーズ-103763755312205/",
+    "https://www.facebook.com/NTTDBB/",
+    "https://www.facebook.com/エヌティティデータマネジメントサービス-721611934531037/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "エヌ・ティ・ティ・データ・ザムテクノロジ note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/NTTデータグループ",
+    "https://www.nttdata-xam.com/company/",
+    "https://www.nttdata-xam.com/",
+    "https://www.nttdata.com/jp/ja/about-us/",
+    "https://compalyze.co.jp/company/9010801030905",
+    "https://eigyo-mfg.com/service/navi/company/A700kqDY3TuK",
+    "https://www.nttdata.com/global/ja/about-us/group/",
+    "https://catr.jp/companies/2b701/255566",
+    "https://www.nttdata.com/jp/ja/about-us/director/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "エヌ・ティ・ティ・データ・ザムテクノロジ X 投稿",
+   "results": [
+    "https://www.nttdata-xam.com/",
+    "https://www.nttdata-xam.com/company/",
+    "https://eigyo-mfg.com/service/navi/company/A700kqDY3TuK",
+    "https://www.nttdata.com/global/ja/news/services_info/2020/063000/",
+    "https://www.nttdata.com/jp/ja/about-us/",
+    "https://www.openwork.jp/company.php?m_id=a0C2x000008ydZk",
+    "https://kaijiwire.jp/companies/9010801030905"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索15回）",
+  "資本金": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索15回）",
+  "創業年度": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索15回）",
+  "保有設備": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索15回）"
+ }
+}

@@ -1,0 +1,1867 @@
+{
+ "name": "中央可鍛工業株式会社",
+ "aliases": [],
+ "context": "PBF=yes 装置=PBF;SLM280;ニコンSLM 出典=http://chuokatan.co.jp/products/3dp/",
+ "researched_at": "2026-11-10T17:04:52.692213+00:00",
+ "official_url": "https://chuokatan.co.jp/",
+ "identified_by": "search:yahoo_jp:中央可鍛工業",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "創立",
+    "value": "創立：1944年1月21日",
+    "url": "https://chuokatan.co.jp/corporate/about.html",
+    "pass": 1
+   },
+   {
+    "label": "設立年月日",
+    "value": "設立年月日：1944年1月21日",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5607",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "11億6100万円",
+    "url": "https://chuokatan.co.jp/corporate/about.html",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "1,161(百万円) \n                                            (2026/3現在) \n                                            日本基準",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5607",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "1.可鍛鋳鉄鋳物、ダクタイル鋳鉄鋳物、普通鋳鉄鋳物、軽合金鋳物、 アルミダイカスト等の製造加工および販売 2.金属製什器および諸機械の製造、販売",
+    "url": "https://chuokatan.co.jp/corporate/about.html",
+    "pass": 1
+   }
+  ],
+  "株主": [
+   {
+    "label": "主要株主",
+    "value": "トヨタ自動車株式会社 CMC協力会持株会 株式会社三菱UFJ銀行 株式会社豊田自動織機 株式会社三井住友銀行 第一生命保険株式会社 新東工業株式会社 株式会社名古屋銀行 武山尚生 中央可鍛持株会",
+    "url": "https://chuokatan.co.jp/corporate/about.html",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社住所",
+    "value": "〒470-0128 愛知県日進市浅田平子１－３００ 地図",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5607",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "〒470-0128 愛知県 日進市浅田平子1丁目300番地",
+    "url": "https://www.intermold.jp/2025/outline/search_2025_detail/318/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "537 人",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5607",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "金属3Dプリンターサービス",
+    "url": "https://chuokatan.co.jp/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "また様々な測定・検査機器などのハードウェアを導入し、高い品質レベルを実現",
+    "url": "https://chuokatan.co.jp/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンターサービス特設ページ公開のお知らせ",
+    "url": "https://chuokatan.co.jp/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンターサービス特設ページ公開のお知らせ – 中央可鍛工業株式会社",
+    "url": "https://chuokatan.co.jp/cms/news/%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E7%89%B9%E8%A8%AD%E3%83%9A%E3%83%BC%E3%82%B8%E5%85%AC%E9%96%8B%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンターサービス特設ページ公開のお知らせ",
+    "url": "https://chuokatan.co.jp/cms/news/%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E7%89%B9%E8%A8%AD%E3%83%9A%E3%83%BC%E3%82%B8%E5%85%AC%E9%96%8B%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89/",
+    "pass": 1
+   },
+   {
+    "quote": "このたび、金属3Dプリンターサービス特設ページを公開いたしました",
+    "url": "https://chuokatan.co.jp/cms/news/%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E7%89%B9%E8%A8%AD%E3%83%9A%E3%83%BC%E3%82%B8%E5%85%AC%E9%96%8B%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、Inconel 625・Inconel 718・SUS316Lに対応した、金属3Dプリンター造形サービスを展開しています",
+    "url": "https://chuokatan.co.jp/cms/news/%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E7%89%B9%E8%A8%AD%E3%83%9A%E3%83%BC%E3%82%B8%E5%85%AC%E9%96%8B%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンター（金属積層造形）サービス｜中央可鍛工業株式会社",
+    "url": "https://chuokatan.co.jp/cms/news/%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E7%89%B9%E8%A8%AD%E3%83%9A%E3%83%BC%E3%82%B8%E5%85%AC%E9%96%8B%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89/",
+    "pass": 1
+   },
+   {
+    "quote": "執行役員に対する譲渡制限付株式報酬制度の導入に関するお知らせ",
+    "url": "https://chuokatan.co.jp/cms/ir_newslist/",
+    "pass": 1
+   },
+   {
+    "quote": "役員退職慰労金制度の廃止及び譲渡制限付報酬制度の導入",
+    "url": "https://chuokatan.co.jp/cms/ir_newslist/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンターサービス",
+    "url": "https://chuokatan.co.jp/cms/news/%E4%B8%AD%E6%9C%9F%E7%B5%8C%E5%96%B6%E8%A8%88%E7%94%BB%E3%81%AE%E7%AD%96%E5%AE%9A%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、次世代のものづくりへの取り組みとして金属3Dプリンターを活用した新規事業を展開し、新たな技術開発と価値創造に挑戦しています",
+    "url": "https://chuokatan.co.jp/cms/news/%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E5%A4%A7%E9%98%AA2026-%E5%87%BA%E5%B1%95%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "pass": 1
+   },
+   {
+    "quote": "当社ブースでは、SUS316L、Inconel625・718に対応した金属3Dプリンターによる試作・開発支援をご提案いたします",
+    "url": "https://chuokatan.co.jp/cms/news/%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E5%A4%A7%E9%98%AA2026-%E5%87%BA%E5%B1%95%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンターサービス特設ページ公開のお知らせ",
+    "url": "https://chuokatan.co.jp/cms/newslist/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年再生可能エネルギー導入状況について掲載しました",
+    "url": "https://chuokatan.co.jp/cms/newslist/",
+    "pass": 1
+   },
+   {
+    "quote": "執行役員に対する譲渡制限付株式報酬制度の導入に関するお知らせ",
+    "url": "https://chuokatan.co.jp/cms/newslist/",
+    "pass": 1
+   },
+   {
+    "quote": "中央可鍛工業ではこれらのステップにも専門の部署、高機能な測定、検査機械を導入",
+    "url": "https://chuokatan.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "工場で出た汚れた空気を外に出さないようにする設備を導入したり、地域の防犯や災害対策、交通安全への活動を長く行ってきました",
+    "url": "https://chuokatan.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンターサービス特設ページ公開のお知らせ",
+    "url": "https://chuokatan.co.jp/corporate/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "その際、災害時等の事業継続や 働き方改革の観点から、取引先のテレワーク導入や BCP(事業継続計画)策定の助言等の支援も 進めます",
+    "url": "https://chuokatan.co.jp/corporate/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "1978年6月 日進工場鋳造部門／タテ型無枠造型機（FVBライン）導入",
+    "url": "https://chuokatan.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1985年3月 日進工場鋳造部門／静圧造型機（APSライン）導入",
+    "url": "https://chuokatan.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1988年10月 日進工場鋳造部門／タテ型無枠造型機（FVB2ライン）導入",
+    "url": "https://chuokatan.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1991年5月 熊本工場／アルミ鋳造ライン導入",
+    "url": "https://chuokatan.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1996年11月 日進工場鋳造部門／アルミダイカストライン導入",
+    "url": "https://chuokatan.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2009年8月 日進工場鋳造部門／高周波誘導加熱式電気炉導入",
+    "url": "https://chuokatan.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2012年11月 蘇州中央可鍛有限公司 ACEライン導入",
+    "url": "https://chuokatan.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015年09月 アルミターボハウジングライン（熊本・蘇州中央可鍛有限公司）導入",
+    "url": "https://chuokatan.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンター（金属積層造形）サービス｜中央可鍛工業株式会社",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンター(金属積層造形)サービス",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形(金属3Dプリンター)とは",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形とは、金属粉末や金属ワイヤーを材料にして、レーザーや電子ビームなどの高エネルギー熱源で金属を局所的に溶かし、これを繰り返し一層ずつ積み重ねることで立体物を造る造形方法です",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 1
+   },
+   {
+    "quote": "造形に使用する設備は、一般的に「金属3Dプリンター」と呼ばれています",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンターの活用メリット",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形と組み合わせることで、従来工法では製作が難しかった軽量かつ高強度な構造を実現し、性能向上や材料使用量の削減に貢献します",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形の設計自由度を活かした、高機能・高付加価値な構造です",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 1
+   },
+   {
+    "quote": "Overview of Powder Bed Fusion (PBF)",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 1
+   },
+   {
+    "quote": "中央可鍛工業では、粉末床溶融結合方式（PBF）でのご相談を受け付けております",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 1
+   },
+   {
+    "quote": "PBFは金属積層造形の代表的な方式の一つで、造形エリアに金属粉末を薄く均一に敷き、レーザーや電子ビームで選択的に溶融・凝固させ、この作業を繰り返すことで立体物を造形していきます",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 1
+   },
+   {
+    "quote": "一般的に、レーザーを熱源とする方式をSLM（Selective Laser Melting）、電子ビームを熱源とする方式をEBM（Electron Beam Melting）と呼びます",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 1
+   },
+   {
+    "quote": "PBFの主なメリットには下記のようなものがあります",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、ニコンSLMソリューションズ社製の金属3Dプリンター「SLM280」を保有しており、SLM（Selective Laser Melting）方式での造形を行っております",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 1
+   },
+   {
+    "quote": "SLMソリューションズ SLM280",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 1
+   },
+   {
+    "quote": "SLM280│ニコンSLMソリューションズ社",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 1
+   },
+   {
+    "quote": "中央可鍛工業ではこれらのステップにも専門の部署、高機能な測定、検査機械を導入",
+    "url": "https://chuokatan.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "工場で出た汚れた空気を外に出さないようにする設備を導入したり、地域の防犯や災害対策、交通安全への活動を長く行ってきました",
+    "url": "https://chuokatan.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンターサービス",
+    "url": "https://chuokatan.co.jp/cms/news/%E8%AD%B2%E6%B8%A1%E5%88%B6%E9%99%90%E4%BB%98%E6%A0%AA%E5%BC%8F%E5%A0%B1%E9%85%AC%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AE%E8%87%AA%E5%B7%B1%E6%A0%AA%E5%BC%8F%E3%81%AE%E5%87%A6%E5%88%86%E3%81%AB%E9%96%A2-6/",
+    "pass": 1
+   },
+   {
+    "quote": "保有している株式、投資信託、現預金を5フォルダに分けて登録しておくことで、効率よく資産管理ができます",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5607",
+    "pass": 3
+   },
+   {
+    "quote": "施設紹介②（金属3Dプリンタ）（北海道立研究総合機構）",
+    "url": "https://www.youtube.com/watch?v=3zJuGwbrFo0",
+    "pass": 3
+   },
+   {
+    "quote": "4台体制で1日20時間稼働！金属3Dプリンター受託製造の最前線｜JFEエンジニアリング株式会社様「LAMDA」導入事例",
+    "url": "https://www.youtube.com/watch?v=3zJuGwbrFo0",
+    "pass": 3
+   },
+   {
+    "quote": "現在に至る過程におきまして、可鍛鋳鉄から、ダクタイル鋳鉄への材質変更、あるいはアルミ鋳造やアルミダイカスト製法の導入など、常に時代のニーズをとらえ、またニーズを創造しながら新しい取り組みをしてまいりました",
+    "url": "https://job.mynavi.jp/27/pc/search/corp57797/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "保有している株式、投資信託、現預金を5フォルダに分けて登録しておくことで、効率よく資産管理ができます",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=5607",
+    "pass": 3
+   },
+   {
+    "quote": "名証メイン市場という比較的流動性が限定的な市場において、これだけの好材料を同時並行で出すことで、既存株主の狼狽売りを防ぎ、中長期保有を促す強いメッセージになっているにょろよ",
+    "url": "https://note.com/good_abelia4787/n/n11c62dc207e6",
+    "pass": 3
+   },
+   {
+    "quote": "これは、本業での稼ぐ力（営業キャッシュ・フロー34億円）に加え、政策保有株式の売却といった「資産の効率化」が進んでいる証拠だにょろね",
+    "url": "https://note.com/good_abelia4787/n/n11c62dc207e6",
+    "pass": 3
+   },
+   {
+    "quote": "配当性向は12.8%とまだ低く、増配余力はたっぷり残されているにょろから、長期保有との相性は抜群だにょろ",
+    "url": "https://note.com/good_abelia4787/n/n11c62dc207e6",
+    "pass": 3
+   },
+   {
+    "quote": "投資の中心は、本業の高成長より、正常利益の定着と保有資産・余剰現金の有効利用です",
+    "url": "https://note.com/capital_democra/n/n68f710b5b0fe",
+    "pass": 3
+   },
+   {
+    "quote": "確認する点は、原価上昇後も正常利益16億円とFCFを維持できるか、更新投資22億円の水準で設備を保てるか、保有株と海外資金を含む資産の利用・還元が具体化するかです",
+    "url": "https://note.com/capital_democra/n/n68f710b5b0fe",
+    "pass": 3
+   },
+   {
+    "quote": "毎年9月末に100株を保有すると、年間500円分のクオカードがもらえます",
+    "url": "https://note.com/kkkkk3333/n/n6a904c57807f",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "昭和19年の創業以来、鋳鉄・アルミを用いた自動車部品や産業機械用部品、オフィス家具を「粗加一貫」で製造・提供するものづくり企業です",
+    "url": "https://chuokatan.co.jp/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、Inconel 625・Inconel 718・SUS316Lに対応した、金属3Dプリンター造形サービスを展開しています",
+    "url": "https://chuokatan.co.jp/cms/news/%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E7%89%B9%E8%A8%AD%E3%83%9A%E3%83%BC%E3%82%B8%E5%85%AC%E9%96%8B%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89/",
+    "pass": 1
+   },
+   {
+    "quote": "鋳鉄およびアルミ製鋳物部品97.1％",
+    "url": "https://chuokatan.co.jp/corporate/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社ブースでは、SUS316L、Inconel625・718に対応した金属3Dプリンターによる試作・開発支援をご提案いたします",
+    "url": "https://chuokatan.co.jp/cms/news/%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E5%A4%A7%E9%98%AA2026-%E5%87%BA%E5%B1%95%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "pass": 1
+   },
+   {
+    "quote": "弥生時代の銅鐸や、東大寺の大仏などにも鋳造の技術が使われています",
+    "url": "https://chuokatan.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "原材料となる鉄・アルミなどの金属を高温で溶かし、砂などでできた型に流し込むことで様々な形状の鉄製品を作ることができます",
+    "url": "https://chuokatan.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "豊富な鉄・アルミ製造のノウハウを活かし、乗用車やトラックなどの部品、産業機械への部品を製造しています",
+    "url": "https://chuokatan.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "鉄・アルミを用いて自動車の部品を製造しています",
+    "url": "https://chuokatan.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "鉄・アルミを用いてトラックの部品を製造しています",
+    "url": "https://chuokatan.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "小口径から大口径まで幅広い範囲の鋼管・ステンレス管等に使用され、施工性・気密性・耐久性に優れています",
+    "url": "https://chuokatan.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "1991年5月 熊本工場／アルミ鋳造ライン導入",
+    "url": "https://chuokatan.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1996年11月 日進工場鋳造部門／アルミダイカストライン導入",
+    "url": "https://chuokatan.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015年09月 アルミターボハウジングライン（熊本・蘇州中央可鍛有限公司）導入",
+    "url": "https://chuokatan.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形とは、金属粉末や金属ワイヤーを材料にして、レーザーや電子ビームなどの高エネルギー熱源で金属を局所的に溶かし、これを繰り返し一層ずつ積み重ねることで立体物を造る造形方法です",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 1
+   },
+   {
+    "quote": "中央可鍛工業では、粉末床溶融結合方式（PBF）でのご相談を受け付けております",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 1
+   },
+   {
+    "quote": "PBFは金属積層造形の代表的な方式の一つで、造形エリアに金属粉末を薄く均一に敷き、レーザーや電子ビームで選択的に溶融・凝固させ、この作業を繰り返すことで立体物を造形していきます",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 1
+   },
+   {
+    "quote": "Inconel625、718",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 1
+   },
+   {
+    "quote": "SUS316L",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 1
+   },
+   {
+    "quote": "弥生時代の銅鐸や、東大寺の大仏などにも鋳造の技術が使われています",
+    "url": "https://chuokatan.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "原材料となる鉄・アルミなどの金属を高温で溶かし、砂などでできた型に流し込むことで様々な形状の鉄製品を作ることができます",
+    "url": "https://chuokatan.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "豊富な鉄・アルミ製造のノウハウを活かし、乗用車やトラックなどの部品、産業機械への部品を製造しています",
+    "url": "https://chuokatan.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉄・アルミを用いて自動車の部品を製造しています",
+    "url": "https://chuokatan.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉄・アルミを用いてトラックの部品を製造しています",
+    "url": "https://chuokatan.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "小口径から大口径まで幅広い範囲の鋼管・ステンレス管等に使用され、施工性・気密性・耐久性に優れています",
+    "url": "https://chuokatan.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ダクタイル鋳鉄からアルミスクイズダイカストまで、素材と製法を使い分け、狙った性能を量産で実現しています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp57797/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "自動車向けの鉄部品・アルミ部品、産業用の鋳鉄部品をつくる、鋳造・加工メーカーです",
+    "url": "https://job.mynavi.jp/28/pc/search/corp57797/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "鋳鉄（ダクタイル鋳鉄・可鍛鋳鉄・普通鋳鉄）から、アルミ鋳造、アルミダイカストまで、幅広い素材と製法に対応",
+    "url": "https://job.mynavi.jp/28/pc/search/corp57797/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "トヨタ自動車向けを中心に、鉄・アルミの自動車部品を「粗加一貫」で製造",
+    "url": "https://job.mynavi.jp/28/pc/search/corp57797/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "S300X2 腕時計ケース/Watch Case ステンレス/Stainless steel",
+    "url": "https://www.youtube.com/watch?v=3zJuGwbrFo0",
+    "pass": 3
+   },
+   {
+    "quote": "現在に至る過程におきまして、可鍛鋳鉄から、ダクタイル鋳鉄への材質変更、あるいはアルミ鋳造やアルミダイカスト製法の導入など、常に時代のニーズをとらえ、またニーズを創造しながら新しい取り組みをしてまいりました",
+    "url": "https://job.mynavi.jp/27/pc/search/corp57797/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "鉄およびアルミニウムの鋳造・加工を行う金属素形材メーカーです",
+    "url": "https://job.mynavi.jp/27/pc/search/corp57797/outline.html",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "昭和19年の創業以来、鋳鉄・アルミを用いた自動車部品や産業機械用部品、オフィス家具を「粗加一貫」で製造・提供するものづくり企業です",
+    "url": "https://chuokatan.co.jp/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "当社株式等の大規模買付行為に関する対応策（買収防衛策）の非継続（廃止）について",
+    "url": "https://chuokatan.co.jp/cms/ir_newslist/",
+    "pass": 1
+   },
+   {
+    "quote": "当社株式等の大規模買付行為に関する対応策（買収防衛策）の継続に関する",
+    "url": "https://chuokatan.co.jp/cms/ir_newslist/",
+    "pass": 1
+   },
+   {
+    "quote": "当社株式等の大規模買付行為に関する対応策（買収防衛策）の継続について",
+    "url": "https://chuokatan.co.jp/cms/ir_newslist/",
+    "pass": 1
+   },
+   {
+    "quote": "当社ブースでは、SUS316L、Inconel625・718に対応した金属3Dプリンターによる試作・開発支援をご提案いたします",
+    "url": "https://chuokatan.co.jp/cms/news/%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E5%A4%A7%E9%98%AA2026-%E5%87%BA%E5%B1%95%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年再生可能エネルギー導入状況について掲載しました",
+    "url": "https://chuokatan.co.jp/cms/newslist/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年度～2025年度のCO2排出量推移・日常省エネルギー改善状況について掲載しました",
+    "url": "https://chuokatan.co.jp/cms/newslist/",
+    "pass": 1
+   },
+   {
+    "quote": "「製品にあった原材料の配合ができる」「形状の自由度が高い」「端材をリサイクルすることができる」などのメリットがあり、自動車や産業用機械など様々な製品に活用されています",
+    "url": "https://chuokatan.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "鉄・アルミを用いて自動車の部品を製造しています",
+    "url": "https://chuokatan.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "エンジン・シャシー・駆動部など自動車に欠かせない部分の一部です",
+    "url": "https://chuokatan.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "高い加工精度が求められる半導体装置の一部に当社の部品が使われています",
+    "url": "https://chuokatan.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "（産業部品：産業ロボット、半導体装置部品、社会インフラ関連、環境部品、鉄道部品など）",
+    "url": "https://chuokatan.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "環境法規制遵守、省資源・省エネルギー、廃棄物の削減、環境負荷物質の削減・管理を実施し、地域および地球環境の保全に向けて継続的に改善していきます",
+    "url": "https://chuokatan.co.jp/corporate/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "また、原材料費 やエネルギーコストの高騰があった場合には、適切なコスト増加分の全額転嫁を目指します",
+    "url": "https://chuokatan.co.jp/corporate/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "1948年5月 トヨタ自動車株式会社の協力工場として取引開始",
+    "url": "https://chuokatan.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1960年7月 トヨタ自動車株式会社の当社への資本参加",
+    "url": "https://chuokatan.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形とは、金属粉末や金属ワイヤーを材料にして、レーザーや電子ビームなどの高エネルギー熱源で金属を局所的に溶かし、これを繰り返し一層ずつ積み重ねることで立体物を造る造形方法です",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 1
+   },
+   {
+    "quote": "また、鋳造とは異なり鋳型を必要としないため、少量生産や試作開発における低コストかつ短納期での製作を実現します",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 1
+   },
+   {
+    "quote": "「製品にあった原材料の配合ができる」「形状の自由度が高い」「端材をリサイクルすることができる」などのメリットがあり、自動車や産業用機械など様々な製品に活用されています",
+    "url": "https://chuokatan.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉄・アルミを用いて自動車の部品を製造しています",
+    "url": "https://chuokatan.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジン・シャシー・駆動部など自動車に欠かせない部分の一部です",
+    "url": "https://chuokatan.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "高い加工精度が求められる半導体装置の一部に当社の部品が使われています",
+    "url": "https://chuokatan.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "（産業部品：産業ロボット、半導体装置部品、社会インフラ関連、環境部品、鉄道部品など）",
+    "url": "https://chuokatan.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年３月期通期連結業績予想につきましては、中国や国内における生産量の減少や原材料及びエネルギー価格が高",
+    "url": "https://www.chuokatan.co.jp/ir/pdf/ir20221107.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "素材選定から設計・製造まで柔軟に対応できるから、トヨタ自動車をはじめとする大手メーカーから直接選ばれ続けています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp57797/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "自動車だけでなく、建機・鉄道・風力発電まで、幅広い分野で社会を支えています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp57797/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ダクタイル鋳鉄からアルミスクイズダイカストまで、素材と製法を使い分け、狙った性能を量産で実現しています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp57797/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "自動車向けの鉄部品・アルミ部品、産業用の鋳鉄部品をつくる、鋳造・加工メーカーです",
+    "url": "https://job.mynavi.jp/28/pc/search/corp57797/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "トヨタ自動車（株）、日野自動車（株）、ナブテスコ（株）をはじめとする大手メーカーと、長年にわたり安定した取引を続けています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp57797/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "トヨタ自動車・トヨタグループ向けを中心に、国内の乗用車の50％に当社の部品が使われています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp57797/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "トヨタ自動車向けを中心に、鉄・アルミの自動車部品を「粗加一貫」で製造",
+    "url": "https://job.mynavi.jp/28/pc/search/corp57797/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "トヨタ自動車(株)の協力工場として取引開始",
+    "url": "https://job.mynavi.jp/28/pc/search/corp57797/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "【可鍛鋳鉄大手】自動車部品用の鋳鉄品が主力",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5607",
+    "pass": 3
+   },
+   {
+    "quote": "出展者検索 | 展示情報 | インターモールド2025/金型展2025/金属プレス加工技術展2025",
+    "url": "https://www.intermold.jp/2025/outline/search_2025_detail/318/",
+    "pass": 3
+   },
+   {
+    "quote": "中央可鍛工業は、鋳造・機械加工を一貫して行い、自動車産業を始めとする、多くの産業で弊社の部品をご使用いただいております",
+    "url": "https://www.intermold.jp/2025/outline/search_2025_detail/318/",
+    "pass": 3
+   },
+   {
+    "quote": "M. 試作・モデリング・3Dプリンター関連",
+    "url": "https://www.intermold.jp/2025/outline/search_2025_detail/318/",
+    "pass": 3
+   },
+   {
+    "quote": "電波ゼロの画面に波形が立った夜｜宇宙ドキュメンタリー",
+    "url": "https://www.youtube.com/watch?v=3zJuGwbrFo0",
+    "pass": 3
+   },
+   {
+    "quote": "【工場見学】電子部品・自動車・電機業界の相棒！ 知られざるモーノポンプ, モーノディスペンサーの実力に迫る【兵神装備】",
+    "url": "https://www.youtube.com/watch?v=3zJuGwbrFo0",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、創業75年を超え、トヨタ自動車様の一次サプライヤーとしても長年にわたり信頼をいただいてお取引いただいている安定企業ですが、2019年1月には、岐阜県に新工場操業したばかりのまだまだ成長中の会社です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp57797/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "鋳造から加工までの一貫製造をしており、自動車部品を中心に1,000種類以上製造しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp57797/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "創業81年トヨタ自動車の一次サプライヤーとして長年のお取引があり自動車業界でも欠かせない存在です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp57797/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、金属素形材メーカーとして、自動車をはじめ電機、建機など、多くの産業のお客様からご愛顧をいただいております",
+    "url": "https://job.mynavi.jp/27/pc/search/corp57797/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造品目は、自動車部品を中心に1,000種類にもおよび、トヨタ自動車の一次サプライヤー（協豊会会員企業）として自動車業界でも欠かせない存在を担っております",
+    "url": "https://job.mynavi.jp/27/pc/search/corp57797/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "トヨタ自動車・トヨタグループ向け自動車用部品を中心に、世界シェア30％の産業車両用部品や世界シェア60％の産業用ロボット部品の生産も行っています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp57797/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "トヨタ自動車(株)の協力工場として取引開始",
+    "url": "https://job.mynavi.jp/27/pc/search/corp57797/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "【可鍛鋳鉄大手】自動車部品用の鋳鉄品が主力",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=5607",
+    "pass": 3
+   },
+   {
+    "quote": "【中央可鍛工業】大幅増益と株主還元拡充で描く「自動車・産業機械」の反転攻勢シナリオ｜決算ちゃん",
+    "url": "https://note.com/good_abelia4787/n/n11c62dc207e6",
+    "pass": 3
+   },
+   {
+    "quote": "【中央可鍛工業】大幅増益と株主還元拡充で描く「自動車・産業機械」の反転攻勢シナリオ",
+    "url": "https://note.com/good_abelia4787/n/n11c62dc207e6",
+    "pass": 3
+   },
+   {
+    "quote": "今後の利益成長については、自動車部品の堅調な需要に加え、中国市場向けの建設機械・ロボット部品といった「産業機械用部品」がJカーブを描く鍵になるにょろ",
+    "url": "https://note.com/good_abelia4787/n/n11c62dc207e6",
+    "pass": 3
+   },
+   {
+    "quote": "この「収益構造の筋肉質化」が完了した状態で、次世代自動車（EV等）への対応やロボット市場の拡大が本格化すれば、利益は爆発的に伸びる可能性があるにょろ",
+    "url": "https://note.com/good_abelia4787/n/n11c62dc207e6",
+    "pass": 3
+   },
+   {
+    "quote": "世界経済は依然として不透明だが、自動車セクターへの資金流入は「循環的な回復」の兆しを見せているにょろ",
+    "url": "https://note.com/good_abelia4787/n/n11c62dc207e6",
+    "pass": 3
+   },
+   {
+    "quote": "地政学的リスクによるエネルギー価格の動向は向かい風だが、国内の賃上げ進展や雇用環境の改善が、巡り巡って自動車の買い替え需要を支える追い風になるにょろよ",
+    "url": "https://note.com/good_abelia4787/n/n11c62dc207e6",
+    "pass": 3
+   },
+   {
+    "quote": "岩盤サポートとしては、直近の安値圏である1株当たり純資産を大きく下回るPBR（株価純資産倍率）0.3〜0.4倍近辺が強力な防衛線として機能しているにょろ",
+    "url": "https://note.com/good_abelia4787/n/n11c62dc207e6",
+    "pass": 3
+   },
+   {
+    "quote": "名前はちょっと堅そうですが、やってることはシンプルで、トヨタグループ向けに自動車用の鋳造部品を作ってます",
+    "url": "https://note.com/brave_iguana6682/n/n047d437f3513",
+    "pass": 3
+   },
+   {
+    "quote": "中央可鍛工業の主要株主はトヨタ自動車、豊田自動織機などです",
+    "url": "https://note.com/kkkkk3333/n/n6a904c57807f",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "第97回定時株主総会その他の電子提供措置事項(交付書面省略事項)",
+    "url": "https://chuokatan.co.jp/cms/ir_newslist/",
+    "pass": 1
+   },
+   {
+    "quote": "第97回定時株主総会招集ご通知",
+    "url": "https://chuokatan.co.jp/cms/ir_newslist/",
+    "pass": 1
+   },
+   {
+    "quote": "株主優待内容の変更（拡充）に関するお知らせ",
+    "url": "https://chuokatan.co.jp/cms/ir_newslist/",
+    "pass": 1
+   },
+   {
+    "quote": "第96回定時株主総会招集ご通知",
+    "url": "https://chuokatan.co.jp/cms/ir_newslist/",
+    "pass": 1
+   },
+   {
+    "quote": "第96回定時株主総会その他の電子提供措置事項(交付書面省略事項)",
+    "url": "https://chuokatan.co.jp/cms/ir_newslist/",
+    "pass": 1
+   },
+   {
+    "quote": "簡易株式交換による連結子会社の完全子会社化に関するお知らせ",
+    "url": "https://chuokatan.co.jp/cms/ir_newslist/",
+    "pass": 1
+   },
+   {
+    "quote": "第95回定時株主総会招集ご通知",
+    "url": "https://chuokatan.co.jp/cms/ir_newslist/",
+    "pass": 1
+   },
+   {
+    "quote": "第95回定時株主総会その他の電子提供措置事項(交付書面省略事項)",
+    "url": "https://chuokatan.co.jp/cms/ir_newslist/",
+    "pass": 1
+   },
+   {
+    "quote": "第94回定時株主総会招集ご通知",
+    "url": "https://chuokatan.co.jp/cms/ir_newslist/",
+    "pass": 1
+   },
+   {
+    "quote": "第94回定時株主総会その他の電子提供措置事項(交付書面省略事項)",
+    "url": "https://chuokatan.co.jp/cms/ir_newslist/",
+    "pass": 1
+   },
+   {
+    "quote": "第93回定時株主総会招集ご通知に際してのインターネット開示事項",
+    "url": "https://chuokatan.co.jp/cms/ir_newslist/",
+    "pass": 1
+   },
+   {
+    "quote": "第93回定時株主総会招集ご通知",
+    "url": "https://chuokatan.co.jp/cms/ir_newslist/",
+    "pass": 1
+   },
+   {
+    "quote": "PR TIMES掲載のお知らせ「中央可鍛、軽量・高強度な新素材の造形技術を有するARRIS Composites, Inc.へ出資」",
+    "url": "https://chuokatan.co.jp/cms/ir_newslist/",
+    "pass": 1
+   },
+   {
+    "quote": "ARRIS Composites,Inc.への出資に関するお知らせ",
+    "url": "https://chuokatan.co.jp/cms/ir_newslist/",
+    "pass": 1
+   },
+   {
+    "quote": "第92回定時株主総会招集ご通知に際してのインターネット開示事項",
+    "url": "https://chuokatan.co.jp/cms/ir_newslist/",
+    "pass": 1
+   },
+   {
+    "quote": "第92回定時株主総会招集ご通知",
+    "url": "https://chuokatan.co.jp/cms/ir_newslist/",
+    "pass": 1
+   },
+   {
+    "quote": "第91回定時株主総会招集ご通知に際してのインターネット開示事項",
+    "url": "https://chuokatan.co.jp/cms/ir_newslist/",
+    "pass": 1
+   },
+   {
+    "quote": "第91回定時株主総会招集ご通知",
+    "url": "https://chuokatan.co.jp/cms/ir_newslist/",
+    "pass": 1
+   },
+   {
+    "quote": "第90回定時株主総会招集ご通知に際してのインターネット開示事項",
+    "url": "https://chuokatan.co.jp/cms/ir_newslist/",
+    "pass": 1
+   },
+   {
+    "quote": "第90回定時株主総会招集ご通知",
+    "url": "https://chuokatan.co.jp/cms/ir_newslist/",
+    "pass": 1
+   },
+   {
+    "quote": "武山鋳造株式会社の株式取得（子会社化）完了に関するお知らせ",
+    "url": "https://chuokatan.co.jp/cms/ir_newslist/",
+    "pass": 1
+   },
+   {
+    "quote": "武山鋳造株式会社との資本提携(子会社化)に関するお知らせ",
+    "url": "https://chuokatan.co.jp/cms/ir_newslist/",
+    "pass": 1
+   },
+   {
+    "quote": "第89回定時株主総会招集ご通知に際してインターネット開示事項",
+    "url": "https://chuokatan.co.jp/cms/ir_newslist/",
+    "pass": 1
+   },
+   {
+    "quote": "第89回定時株主総会招集ご通知",
+    "url": "https://chuokatan.co.jp/cms/ir_newslist/",
+    "pass": 1
+   },
+   {
+    "quote": "第88回定時株主総会招集ご通知に際してのインターネット開示事項",
+    "url": "https://chuokatan.co.jp/cms/ir_newslist/",
+    "pass": 1
+   },
+   {
+    "quote": "第97回定時株主総会その他の電子提供措置事項(交付書面省略事項)",
+    "url": "https://chuokatan.co.jp/cms/newslist/",
+    "pass": 1
+   },
+   {
+    "quote": "第97回定時株主総会招集ご通知",
+    "url": "https://chuokatan.co.jp/cms/newslist/",
+    "pass": 1
+   },
+   {
+    "quote": "株主優待内容の変更（拡充）に関するお知らせ",
+    "url": "https://chuokatan.co.jp/cms/newslist/",
+    "pass": 1
+   },
+   {
+    "quote": "1944年1月 武山鋳造所より独立、当社創立（資本金70万円）",
+    "url": "https://chuokatan.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1961年10月 当社株式を店頭公開（名証第二部上場）（資本金7千5百万円）",
+    "url": "https://chuokatan.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1970年3月 日進工場鋳造部門／溶解・造型設備増強（資本金6億円）",
+    "url": "https://chuokatan.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1985年11月 日進工場機械部門増設（資本金10億36百万円）",
+    "url": "https://chuokatan.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年04月 武山鋳造株式会社を子会社化",
+    "url": "https://chuokatan.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "騰したことから、売上高、営業利益、経常利益及び親会社株主に帰属する当期純利益が前回発表予想を下回る見通しとな",
+    "url": "https://www.chuokatan.co.jp/ir/pdf/ir20221107.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "＜名古屋証券取引所 メイン市場上場（証券コード 5607）＞",
+    "url": "https://job.mynavi.jp/28/pc/search/corp57797/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "（資本金70万円）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp57797/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "（資本金7,500万円）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp57797/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "（資本金6億円）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp57797/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "（資本金10億3,600万円）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp57797/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "関東電化工業(株)【東証プライム市場上場】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp57797/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "【中央可鍛工業】[5607]企業概要 社員数や役員報酬・資本金 | 日経電子版",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5607",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業の決算発表日程や株主総会の日程を事前に確認することができます",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5607",
+    "pass": 3
+   },
+   {
+    "quote": "（資本金70万円）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp57797/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "（資本金7,500万円）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp57797/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "（資本金6億円）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp57797/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "（資本金10億3,600万円）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp57797/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "神東塗料(株)【東証スタンダード市場上場】",
+    "url": "https://job.mynavi.jp/27/pc/search/corp57797/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業の決算発表日程や株主総会の日程を事前に確認することができます",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=5607",
+    "pass": 3
+   },
+   {
+    "quote": "【中央可鍛工業】大幅増益と株主還元拡充で描く「自動車・産業機械」の反転攻勢シナリオ｜決算ちゃん",
+    "url": "https://note.com/good_abelia4787/n/n11c62dc207e6",
+    "pass": 3
+   },
+   {
+    "quote": "【中央可鍛工業】大幅増益と株主還元拡充で描く「自動車・産業機械」の反転攻勢シナリオ",
+    "url": "https://note.com/good_abelia4787/n/n11c62dc207e6",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、増配と株主優待の拡充という「還元の大盤振る舞い」までセットで出してきたにょろ",
+    "url": "https://note.com/good_abelia4787/n/n11c62dc207e6",
+    "pass": 3
+   },
+   {
+    "quote": "特に注目すべきは、決算発表と同時に「特別利益5億6,200万円の計上」や「株主優待の拡充」をぶつけてきた点だにょろ",
+    "url": "https://note.com/good_abelia4787/n/n11c62dc207e6",
+    "pass": 3
+   },
+   {
+    "quote": "名証メイン市場という比較的流動性が限定的な市場において、これだけの好材料を同時並行で出すことで、既存株主の狼狽売りを防ぎ、中長期保有を促す強いメッセージになっているにょろよ",
+    "url": "https://note.com/good_abelia4787/n/n11c62dc207e6",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、設備更新負担と株主へ資金が届く条件を確認して投資する必要があります",
+    "url": "https://note.com/capital_democra/n/n68f710b5b0fe",
+    "pass": 3
+   },
+   {
+    "quote": "本評価の株主資本コスト9％を目安にすると、3年はわずかに上回り、10年は下回ります",
+    "url": "https://note.com/capital_democra/n/n68f710b5b0fe",
+    "pass": 3
+   },
+   {
+    "quote": "株主優待のクオカードをもらえる「中央可鍛工業」",
+    "url": "https://note.com/kkkkk3333/n/n6a904c57807f",
+    "pass": 3
+   },
+   {
+    "quote": "名証メイン市場に上場し、売上の８割がトヨタグループなので、一般的な知名度は皆無です",
+    "url": "https://note.com/kkkkk3333/n/n6a904c57807f",
+    "pass": 3
+   },
+   {
+    "quote": "自社商品を株主に発送にできないので、株主優待はクオカードです",
+    "url": "https://note.com/kkkkk3333/n/n6a904c57807f",
+    "pass": 3
+   },
+   {
+    "quote": "この銘柄はコロナ禍に株主優待目的で買いました",
+    "url": "https://note.com/kkkkk3333/n/n6a904c57807f",
+    "pass": 3
+   },
+   {
+    "quote": "中央可鍛工業の主要株主はトヨタ自動車、豊田自動織機などです",
+    "url": "https://note.com/kkkkk3333/n/n6a904c57807f",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "拠点一覧｜企業 情報 - 中央可鍛工業株式会社 — 拠点一覧｜企業 情報 - 中央可鍛工業株式会社 中央可鍛工業株式会社 https://chuokatan.co.jp > corporate > office",
+    "url": "https://chuokatan.co.jp/corporate/office.html",
+    "pass": 3
+   },
+   {
+    "quote": "中央可鍛工業 (株)の 会社概要 | マイナビ2028 — 中央可鍛工業 (株)の 会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp57797 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp57797/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 中央可鍛工業 】[5607]企業 概要 社員数や役員報酬・ 資本金 — 【 中央可鍛工業 】[5607]企業 概要 社員数や役員報酬・ 資本金 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5607",
+    "pass": 3
+   },
+   {
+    "quote": "[生成AI分析] 中央可鍛工業 (株) - MarkLines — [生成AI分析] 中央可鍛工業 (株) - MarkLines Automotive Industry Portal MarkLines https://www.marklines.com > top500 > chuo-malleable-iron",
+    "url": "https://www.marklines.com/ja/top500/chuo-malleable-iron",
+    "pass": 3
+   },
+   {
+    "quote": "開発プロセス｜技術 - 中央可鍛工業株式会社 — 開発プロセス｜技術 - 中央可鍛工業株式会社 中央可鍛工業株式会社 https://chuokatan.co.jp > development > process",
+    "url": "https://chuokatan.co.jp/development/process.html",
+    "pass": 3
+   },
+   {
+    "quote": "中央可鍛工業 株式会社 - INTERMOLD — 中央可鍛工業 株式会社 - INTERMOLD intermold.jp https://www.intermold.jp > 展示情報 > 出展者一覧",
+    "url": "https://www.intermold.jp/2025/outline/search_2025_detail/318/",
+    "pass": 3
+   },
+   {
+    "quote": "【 中央可鍛工業 】 金属 積層 3Dプリンター を活用した新規事業 ... — 【 中央可鍛工業 】 金属 積層 3Dプリンター を活用した新規事業 ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=3zJuGwbrFo0",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター サービス特設ページ公開のお知らせ — 金属3Dプリンター サービス特設ページ公開のお知らせ 中央可鍛工業株式会社 https://chuokatan.co.jp > cms > news > 金属3dプリンター...",
+    "url": "https://chuokatan.co.jp/cms/news/%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E7%89%B9%E8%A8%AD%E3%83%9A%E3%83%BC%E3%82%B8%E5%85%AC%E9%96%8B%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89/",
+    "pass": 3
+   },
+   {
+    "quote": "中央可鍛工業 、 金属3Dプリンター 用粉末材料を開発 強度と ... — 中央可鍛工業 、 金属3Dプリンター 用粉末材料を開発 強度と ... 日刊自動車新聞 https://www.netdenjd.com > archives",
+    "url": "https://www.netdenjd.com/archives/538837",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形 (金属3Dプリンター)とは - 中央可鍛工業株式会社 — 金属積層造形 (金属3Dプリンター)とは - 中央可鍛工業株式会社 中央可鍛工業株式会社 https://chuokatan.co.jp > products",
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "【 中央可鍛工業 】 金属積層 3Dプリンターを活用した新規事業 ... — 【 中央可鍛工業 】 金属積層 3Dプリンターを活用した新規事業 ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=3zJuGwbrFo0",
+    "pass": 3
+   },
+   {
+    "quote": "中央可鍛工業 (株)の会社概要 | マイナビ2028 — 中央可鍛工業 (株)の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp57797 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp57797/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "⑫ 中央可鍛工業 （AM EXPO 名古屋） - YouTube — ⑫ 中央可鍛工業 （AM EXPO 名古屋） - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=VCe4HG8YwNQ",
+    "pass": 3
+   },
+   {
+    "quote": "株主 ・投資家情報 - 中央可鍛工業株式会社 — 株主 ・投資家情報 - 中央可鍛工業株式会社 中央可鍛工業株式会社 https://chuokatan.co.jp > stock_info",
+    "url": "https://chuokatan.co.jp/ir/stock_info.php",
+    "pass": 3
+   },
+   {
+    "quote": "中央可鍛工業 【5607】の大 株主 情報 - 株探 — 中央可鍛工業 【5607】の大 株主 情報 - 株探 株探 https://kabutan.jp > stock > holder",
+    "url": "https://kabutan.jp/stock/holder?code=5607",
+    "pass": 3
+   },
+   {
+    "quote": "【 中央可鍛工業 】[5607]企業概要 社員数や役員報酬・資本金 — 【 中央可鍛工業 】[5607]企業概要 社員数や役員報酬・資本金 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5607",
+    "pass": 3
+   },
+   {
+    "quote": "中央可鍛工業 の企業情報 - 5607 / 名証メイン / 鉄鋼 — 中央可鍛工業 の企業情報 - 5607 / 名証メイン / 鉄鋼 バフェット・コード https://www.buffett-code.com > company",
+    "url": "https://www.buffett-code.com/company/5607/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜企業情報 - 中央可鍛工業株式会社 — 会社概要｜企業情報 - 中央可鍛工業株式会社 中央可鍛工業株式会社 https://chuokatan.co.jp > corporate > about",
+    "url": "https://chuokatan.co.jp/corporate/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "中央可鍛工業 (株)の新卒採用・会社概要 | マイナビ2027 — 中央可鍛工業 (株)の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp57797 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp57797/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 中央可鍛工業 】[5607]決算発表や業務・財務情報 | 日経電子版 — 【 中央可鍛工業 】[5607]決算発表や業務・財務情報 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kessan",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=5607",
+    "pass": 3
+   },
+   {
+    "quote": "採用スペシャルサイト｜数字で見る 中央可鍛 — 採用スペシャルサイト｜数字で見る 中央可鍛 中央可鍛工業株式会社 https://chuokatan.co.jp > recruit > special > company > data",
+    "url": "https://chuokatan.co.jp/recruit/special/company/data.html",
+    "pass": 3
+   },
+   {
+    "quote": "中央可鍛工業 【5607】の人的資本 - キタイシホン — 中央可鍛工業 【5607】の人的資本 - キタイシホン キタイシホン https://kitaishihon.com > company > human-capital",
+    "url": "https://kitaishihon.com/company/5607/human-capital",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【 中央可鍛工業 】大幅増益と株主還元拡充で描く「自動車 ... 【 中央可鍛工業 】大幅増益と株主還元拡充で描く「自動車 ... note https://note.com > 政治・経済 > ビジネス・経済",
+    "url": "https://note.com/good_abelia4787/n/n11c62dc207e6",
+    "pass": 3
+   },
+   {
+    "quote": "中央可鍛工業 （5607）：詳細版｜capital_democra - note 中央可鍛工業 （5607）：詳細版｜capital_democra - note note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/capital_democra/n/n68f710b5b0fe",
+    "pass": 3
+   },
+   {
+    "quote": "【5607 中央可鍛工業 】地味だけど堅実、トヨタグループ ... - note 【5607 中央可鍛工業 】地味だけど堅実、トヨタグループ ... - note note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/brave_iguana6682/n/n047d437f3513",
+    "pass": 3
+   },
+   {
+    "quote": "株主優待のクオカードをもらえる「 中央可鍛工業 」。安いので 株主優待のクオカードをもらえる「 中央可鍛工業 」。安いので note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/kkkkk3333/n/n6a904c57807f",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【中央可鍛工業】大幅増益と株主還元拡充で描く「自動車・産業機械」の反転攻勢シナリオ｜決算ちゃん",
+    "url": "https://note.com/good_abelia4787/n/n11c62dc207e6",
+    "pass": 3
+   },
+   {
+    "quote": "【中央可鍛工業】大幅増益と株主還元拡充で描く「自動車・産業機械」の反転攻勢シナリオ",
+    "url": "https://note.com/good_abelia4787/n/n11c62dc207e6",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月11日のIＲ開示情報を基にNotebookＬＭで情報を解析、解説しています",
+    "url": "https://note.com/good_abelia4787/n/n11c62dc207e6",
+    "pass": 3
+   },
+   {
+    "quote": "本動画で解説している内容は、決算書に基づいた一般的な情報提供および解説を目的としており、特定の銘柄の購入や売却を推奨するものではありません。",
+    "url": "https://note.com/good_abelia4787/n/n11c62dc207e6",
+    "pass": 3
+   },
+   {
+    "quote": "投資判断は、必ずご自身の判断と責任において行ってください。本動画の情報に基づいて被ったいかなる損害についても、当チャンネルおよび動画制作者は一切の責任を負いません。",
+    "url": "https://note.com/good_abelia4787/n/n11c62dc207e6",
+    "pass": 3
+   },
+   {
+    "quote": "決算書の情報は、発表時点のものであり、将来の業績を保証するものではありません。また、その正確性や完全性について保証するものではありません。",
+    "url": "https://note.com/good_abelia4787/n/n11c62dc207e6",
+    "pass": 3
+   },
+   {
+    "quote": "投資にはリスクが伴い、元本割れとなる可能性があります。",
+    "url": "https://note.com/good_abelia4787/n/n11c62dc207e6",
+    "pass": 3
+   },
+   {
+    "quote": "気になる銘柄がＮＯＴＥにないと思った人はスポティファイも確認してほしいにょろ。それではいくにょろ。",
+    "url": "https://note.com/good_abelia4787/n/n11c62dc207e6",
+    "pass": 3
+   },
+   {
+    "quote": "中央可鍛工業（5607）：詳細版｜capital_democra",
+    "url": "https://note.com/capital_democra/n/n68f710b5b0fe",
+    "pass": 3
+   },
+   {
+    "quote": "評価日・情報基準日：2026年10月19日／株価：名証MAIN通常終値613円",
+    "url": "https://note.com/capital_democra/n/n68f710b5b0fe",
+    "pass": 3
+   },
+   {
+    "quote": "613円には資産面の価格差がありますが、10年の基本IRR8.6％は利益と資本政策の改善を確認して判断する水準です。",
+    "url": "https://note.com/capital_democra/n/n68f710b5b0fe",
+    "pass": 3
+   },
+   {
+    "quote": "資産の厚さを手掛かりにした条件付きの割安株と判断します。613円に対して推定経済価値は約161億円、時価総額の約1.7倍で、現在割安度はAです。ただし、設備更新負担と株主へ資金が届く条件を確認して投資する必要があります。",
+    "url": "https://note.com/capital_democra/n/n68f710b5b0fe",
+    "pass": 3
+   },
+   {
+    "quote": "投資の中心は、本業の高成長より、正常利益の定着と保有資産・余剰現金の有効利用です。維持投資の増加で価格差が縮むため、簿価純資産や低いPBRだけを安全余裕とは見なしません。※1",
+    "url": "https://note.com/capital_democra/n/n68f710b5b0fe",
+    "pass": 3
+   },
+   {
+    "quote": "3年の配当込み想定IRRは丸め前9.9643％で総合B、10年は8.5677％でC+です。表の3年10.0％は表示の丸めであり、10％以上の区分へは達していません。本評価の株主資本コスト9％を目安にすると、3年はわずかに上回り、10年は下回ります。",
+    "url": "https://note.com/capital_democra/n/n68f710b5b0fe",
+    "pass": 3
+   },
+   {
+    "quote": "会社の価値の成長と、投資家が受け取る配当および将来の想定株価に基づく投資収益を分けて見ます。正常利益16億円と3年後65.2％への株価反映率改善が短期の収益を支え、10年では社内に残る資金をどのように使うかが大きな論点です。追加還元の比較値は、この基本判断へ織り込んでいません。",
+    "url": "https://note.com/capital_democra/n/n68f710b5b0fe",
+    "pass": 3
+   },
+   {
+    "quote": "確認する点は、原価上昇後も正常利益16億円とFCFを維持できるか、更新投資22億円の水準で設備を保てるか、保有株と海外資金を含む資産の利用・還元が具体化するかです。これらが進めば評価を見直せます。",
+    "url": "https://note.com/capital_democra/n/n68f710b5b0fe",
+    "pass": 3
+   },
+   {
+    "quote": "【5607中央可鍛工業】地味だけど堅実、トヨタグループ御用達の鋳造屋さん｜週末投資家SAGOHACHIの思考整理帳",
+    "url": "https://note.com/brave_iguana6682/n/n047d437f3513",
+    "pass": 3
+   },
+   {
+    "quote": "【5607中央可鍛工業】地味だけど堅実、トヨタグループ御用達の鋳造屋さん",
+    "url": "https://note.com/brave_iguana6682/n/n047d437f3513",
+    "pass": 3
+   },
+   {
+    "quote": "今日は「中央可鍛工業（5607）」って会社を見てみました。",
+    "url": "https://note.com/brave_iguana6682/n/n047d437f3513",
+    "pass": 3
+   },
+   {
+    "quote": "名前はちょっと堅そうですが、やってることはシンプルで、トヨタグループ向けに自動車用の鋳造部品を作ってます。売上の8割超がトヨタ関連。トラック向けが多いのも特徴ですね。で、実はオフィス家具なんかも作ってたりします。意外でしょ？",
+    "url": "https://note.com/brave_iguana6682/n/n047d437f3513",
+    "pass": 3
+   },
+   {
+    "quote": "国内の自動車部品は順調。トラック需要も堅調。",
+    "url": "https://note.com/brave_iguana6682/n/n047d437f3513",
+    "pass": 3
+   },
+   {
+    "quote": "コストは人件費や燃料費が増えてるけど、稼働率が改善したおかげで吸収できてます。",
+    "url": "https://note.com/brave_iguana6682/n/n047d437f3513",
+    "pass": 3
+   },
+   {
+    "quote": "あと面白いニュースがあって、名大発のベンチャーと一緒に「鋳造で出る廃棄物からガス吸着材を作る」っていう研究に成功したんですよ。これ、脱炭素関連で需要が広がれば新しい収益源になるかも。中部電力ともカーボンニュートラルで組んでたりして、意外と環境分野に前向きです。",
+    "url": "https://note.com/brave_iguana6682/n/n047d437f3513",
+    "pass": 3
+   },
+   {
+    "quote": "それから自己資本比率は69%と超健全。現金はなんと396億円もあって、有利子負債はたった13億円。…要するに「現金ジャブジャブで借金ほぼなし」という超堅実企業なんです。",
+    "url": "https://note.com/brave_iguana6682/n/n047d437f3513",
+    "pass": 3
+   },
+   {
+    "quote": "株主優待のクオカードをもらえる「中央可鍛工業」。安いので、余裕があれば買ってもいいかも｜公認会計士 山下章太",
+    "url": "https://note.com/kkkkk3333/n/n6a904c57807f",
+    "pass": 3
+   },
+   {
+    "quote": "株主優待のクオカードをもらえる「中央可鍛工業」。安いので、余裕があれば買ってもいいかも",
+    "url": "https://note.com/kkkkk3333/n/n6a904c57807f",
+    "pass": 3
+   },
+   {
+    "quote": "今年も株主優待が届きました。表紙の写真の「クオカード」です。",
+    "url": "https://note.com/kkkkk3333/n/n6a904c57807f",
+    "pass": 3
+   },
+   {
+    "quote": "今回紹介する会社は中央可鍛工業（名証メイン市場：5607）です。",
+    "url": "https://note.com/kkkkk3333/n/n6a904c57807f",
+    "pass": 3
+   },
+   {
+    "quote": "中央可鍛工業は鋳造製品メーカーです。名証メイン市場に上場し、売上の８割がトヨタグループなので、一般的な知名度は皆無です。マイナーな会社です。",
+    "url": "https://note.com/kkkkk3333/n/n6a904c57807f",
+    "pass": 3
+   },
+   {
+    "quote": "自社商品を株主に発送にできないので、株主優待はクオカードです。",
+    "url": "https://note.com/kkkkk3333/n/n6a904c57807f",
+    "pass": 3
+   },
+   {
+    "quote": "この銘柄はコロナ禍に株主優待目的で買いました。",
+    "url": "https://note.com/kkkkk3333/n/n6a904c57807f",
+    "pass": 3
+   },
+   {
+    "quote": "クオカード（金券）は何にでも使えていいですね。私はいつもクオカードで本を買っています。",
+    "url": "https://note.com/kkkkk3333/n/n6a904c57807f",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "山口達也 on X: \"愛知県 中央可鍛工業 株式会社 安全衛生大会 ... 山口達也 on X: \"愛知県 中央可鍛工業 株式会社 安全衛生大会 ... X https://x.com > @yamaguchi_inc",
+    "url": "https://x.com/yamaguchi_inc/status/2073617081980133704",
+    "pass": 3
+   },
+   {
+    "quote": "中央可鍛工業株式会社 代表取締役社長 COO 武山 豊 Yutaka Takeyama #... 社長辞典。 on X: \"中央可鍛工業株式会社 代表取締役社長 COO 武山 豊 Yutaka Takeyama #中央可鍛工業株式会社 #武山豊\" / X 中央可鍛工業株式会社 代表取締役社長 COO 武山 豊 Yutaka Takeyama #中央可鍛工業株式会社 #武山豊 04 Nov 2026 06:28:47",
+    "url": "https://x.com/CEO__1234/status/2117866631468585406",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "塩満 栄治 - 中央可鍛工業 株式会社 - 執行役員 | LinkedIn 塩満 栄治 - 中央可鍛工業 株式会社 - 執行役員 | LinkedIn LinkedIn https://jp.linkedin.com > 栄治-塩満-964331100",
+    "url": "https://jp.linkedin.com/in/%E6%A0%84%E6%B2%BB-%E5%A1%A9%E6%BA%80-964331100",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "中央可鍛工業 - Heim | Facebook 中央可鍛工業 - Heim | Facebook Facebook https://www.facebook.com > pages > 中央可鍛工業",
+    "url": "https://www.facebook.com/pages/%E4%B8%AD%E5%A4%AE%E5%8F%AF%E9%8D%9B%E5%B7%A5%E6%A5%AD/1868055710138758?locale=fo_FO",
+    "pass": 3
+   },
+   {
+    "quote": "中央可鍛工業 - Facebook 中央可鍛工業. 6 likes. Local business",
+    "url": "https://www.facebook.com/中央可鍛工業-134890749867224/",
+    "pass": 3
+   },
+   {
+    "quote": "中央可鍛工業 - Facebook Dec 4, 2013 · 中央可鍛工業",
+    "url": "https://www.facebook.com/pages/中央可鍛工業/177901112417141/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://chuokatan.co.jp/index.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chuokatan.co.jp/development/equipment.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chuokatan.co.jp/cms/news/%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E7%89%B9%E8%A8%AD%E3%83%9A%E3%83%BC%E3%82%B8%E5%85%AC%E9%96%8B%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chuokatan.co.jp/corporate/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chuokatan.co.jp/cms/ir_newslist/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chuokatan.co.jp/cms/news/%E4%B8%AD%E6%9C%9F%E7%B5%8C%E5%96%B6%E8%A8%88%E7%94%BB%E3%81%AE%E7%AD%96%E5%AE%9A%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chuokatan.co.jp/cms/news/%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E5%A4%A7%E9%98%AA2026-%E5%87%BA%E5%B1%95%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chuokatan.co.jp/cms/newslist/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chuokatan.co.jp/aboutus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chuokatan.co.jp/corporate/index.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chuokatan.co.jp/corporate/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chuokatan.co.jp/aboutus/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chuokatan.co.jp/cms/news/%E8%AD%B2%E6%B8%A1%E5%88%B6%E9%99%90%E4%BB%98%E6%A0%AA%E5%BC%8F%E5%A0%B1%E9%85%AC%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AE%E8%87%AA%E5%B7%B1%E6%A0%AA%E5%BC%8F%E3%81%AE%E5%87%A6%E5%88%86%E3%81%AB%E9%96%A2-6/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.chuokatan.co.jp/ir/pdf/ir20221107.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chuokatan.co.jp/ir/pdf/ir20220805.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp57797/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5607",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intermold.jp/2025/outline/search_2025_detail/318/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=3zJuGwbrFo0",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.intermold.jp/2025/outline/search_2025_detail/318/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=3zJuGwbrFo0",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kabutan.jp/stock/holder?code=5607",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5607",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp57797/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=5607",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/good_abelia4787/n/n11c62dc207e6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/capital_democra/n/n68f710b5b0fe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/brave_iguana6682/n/n047d437f3513",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kkkkk3333/n/n6a904c57807f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/yamaguchi_inc/status/2073617081980133704",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E6%A0%84%E6%B2%BB-%E5%A1%A9%E6%BA%80-964331100",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/%E4%B8%AD%E5%A4%AE%E5%8F%AF%E9%8D%9B%E5%B7%A5%E6%A5%AD/1868055710138758?locale=fo_FO",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CEO__1234/status/2117866631468585406",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/中央可鍛工業-134890749867224/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/中央可鍛工業/177901112417141/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "中央可鍛工業",
+   "results": [
+    "https://chuokatan.co.jp/index.php",
+    "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E5%8F%AF%E9%8D%9B%E5%B7%A5%E6%A5%AD",
+    "https://www.marklines.com/ja/top500/chuo-malleable-iron",
+    "https://job.mynavi.jp/27/pc/search/corp57797/outline.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=5607",
+    "https://www.kumamoto-investment.jp/hatarakuto/hpkiji/pub/detail.aspx?c_id=3&id=25&class_set_id=1&class_id=5007",
+    "https://ja.wikipedia.org/wiki/中央可鍛工業",
+    "https://finance.yahoo.co.jp/quote/5607.N",
+    "https://finance.yahoo.co.jp/quote/5607.N/profile",
+    "https://shikiho.toyokeizai.net/stocks/5607"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "中央可鍛工業 会社概要 資本金 設立",
+   "results": [
+    "https://chuokatan.co.jp/corporate/office.html",
+    "https://job.mynavi.jp/28/pc/search/corp57797/outline.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=5607",
+    "https://www.tokikatan.co.jp/pages/19/",
+    "https://www.marklines.com/ja/top500/chuo-malleable-iron",
+    "https://doda.jp/DodaFront/View/Company/j_id__10008704417/",
+    "https://mono-web.jp/company/basic/346",
+    "https://job.mynavi.jp/27/pc/search/corp57797/outline.html",
+    "https://www.cognavi.jp/catalog/101223/000003/",
+    "https://ja.wikipedia.org/wiki/中央可鍛工業"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "中央可鍛工業 金属3Dプリンタ 導入",
+   "results": [
+    "https://chuokatan.co.jp/development/process.html",
+    "https://www.intermold.jp/2025/outline/search_2025_detail/318/",
+    "https://www.youtube.com/watch?v=3zJuGwbrFo0",
+    "https://chuokatan.co.jp/cms/news/%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E7%89%B9%E8%A8%AD%E3%83%9A%E3%83%BC%E3%82%B8%E5%85%AC%E9%96%8B%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89/",
+    "https://www.netdenjd.com/archives/538837",
+    "https://www.manufacturing-world.jp/hub/ja-jp/blog/article11.html",
+    "https://www.ricoh.co.jp/3dp/metal/column_fastform01",
+    "https://www.marklines.com/ja/top500/chuo-malleable-iron",
+    "https://www.datadesign.co.jp/markforged/news/6501/",
+    "https://ja.wikipedia.org/wiki/中央可鍛工業"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "中央可鍛工業 金属積層造形 設備",
+   "results": [
+    "https://chuokatan.co.jp/products/3dp/",
+    "https://www.intermold.jp/2025/outline/search_2025_detail/318/",
+    "https://www.youtube.com/watch?v=3zJuGwbrFo0",
+    "https://job.mynavi.jp/28/pc/search/corp57797/outline.html",
+    "https://www.youtube.com/watch?v=VCe4HG8YwNQ",
+    "https://www.japanaerospace.jp/jp/exhibitor/481",
+    "https://www.marklines.com/ja/top500/chuo-malleable-iron",
+    "https://chuokatan.co.jp/index.php",
+    "https://eigyo-mfg.com/service/navi/company/KgSVEDxLSBFg",
+    "https://ja.wikipedia.org/wiki/中央可鍛工業"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "中央可鍛工業 株主 出資 親会社",
+   "results": [
+    "https://chuokatan.co.jp/ir/stock_info.php",
+    "https://kabutan.jp/stock/holder?code=5607",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=5607",
+    "https://www.marklines.com/ja/top500/chuo-malleable-iron",
+    "https://www.buffett-code.com/company/5607/",
+    "https://job.mynavi.jp/27/pc/search/corp57797/outline.html",
+    "https://www.nihon-ma.co.jp/news/20241029_5607/",
+    "https://prtimes.jp/main/html/rd/p/000000005.000085932.html",
+    "https://www.kumamoto-investment.jp/hatarakuto/hpkiji/pub/detail.aspx?c_id=3&id=25&class_set_id=1&class_id=5007",
+    "https://ja.wikipedia.org/wiki/中央可鍛工業"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "中央可鍛工業 売上高 従業員数",
+   "results": [
+    "https://chuokatan.co.jp/corporate/about.html",
+    "https://job.mynavi.jp/27/pc/search/corp57797/outline.html",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=5607",
+    "https://chuokatan.co.jp/recruit/special/company/data.html",
+    "https://kitaishihon.com/company/5607/human-capital",
+    "https://www.tokikatan.co.jp/pages/19/",
+    "https://www.buffett-code.com/company/5607/",
+    "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E5%8F%AF%E9%8D%9B%E5%B7%A5%E6%A5%AD",
+    "https://shikiho.toyokeizai.net/stocks/5607/corporate",
+    "https://www.chuokatan.co.jp/corporate/about.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 中央可鍛工業",
+   "results": [
+    "https://note.com/good_abelia4787/n/n11c62dc207e6",
+    "https://note.com/capital_democra/n/n68f710b5b0fe",
+    "https://note.com/brave_iguana6682/n/n047d437f3513",
+    "https://note.com/kkkkk3333/n/n6a904c57807f",
+    "https://note.com/keitafukui/n/n03fccafd49bd",
+    "https://note.com/tag/vm/investment_money/company-5607",
+    "https://note.com/hiro124vrc/n/n092bef608350",
+    "https://note.com/keitafukui/n/nb5c2bb46a7a7",
+    "https://note.com/capital_democra/m/me9c3a8fc6121/archive/2026-10",
+    "https://note.com/charm_wolf7456"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "site:x.com 中央可鍛工業",
+   "results": [
+    "https://x.com/yamaguchi_inc/status/2073617081980133704",
+    "https://x.com/totu715/status/1855538492098626011",
+    "https://x.com/Ver321_Radio/status/2088759408465777044",
+    "https://x.com/kessan_db/status/1940890350555746448",
+    "https://x.com/Masa1009tw1/status/1989079733649436903",
+    "https://x.com/kb1640/status/2053808723328659858",
+    "https://x.com/Ys_investment/status/2112704181433930180",
+    "https://x.com/reasonshodou/status/2115595041419018573",
+    "https://x.com/pygmy_hem/status/1913013026741166295",
+    "https://x.com/chichikenk28839/status/2112925669923684413"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "site:linkedin.com 中央可鍛工業",
+   "results": [
+    "https://jp.linkedin.com/in/%E6%A0%84%E6%B2%BB-%E5%A1%A9%E6%BA%80-964331100",
+    "https://jp.linkedin.com/in/kazuhisa-miyawaki-54a63541",
+    "https://jp.linkedin.com/in/peilin-kong-795b8b91",
+    "https://jp.linkedin.com/directory/companies/z-1",
+    "https://www.linkedin.com/pub/dir/%E7%9F%B3%E5%B7%9D/+",
+    "https://jp.linkedin.com/in/%E5%B0%9A%E6%98%AD-%E4%B8%AD%E6%9D%91-762bb0167",
+    "https://tw.linkedin.com/in/ensonyu001/zh-tw",
+    "https://tw.linkedin.com/in/hsin-hung-wu",
+    "https://www.linkedin.com/check/en",
+    "https://tw.linkedin.com/in/如玉-劉-1a9a53129"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com 中央可鍛工業",
+   "results": [
+    "https://www.facebook.com/pages/%E4%B8%AD%E5%A4%AE%E5%8F%AF%E9%8D%9B%E5%B7%A5%E6%A5%AD/1868055710138758?locale=fo_FO",
+    "https://www.facebook.com/yoshikatsu.yamamoto.129/posts/1014%E6%B0%B4-%E3%81%94%E6%94%AF%E6%8F%B4%E3%81%84%E3%81%9F%E3%81%A0%E3%81%84%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E6%9D%BE%E5%B0%BE%E8%A3%BD%E4%BD%9C%E6%89%80%E5%8A%B4%E7%B5%84-%E6%A7%98%E6%9D%B1%E6%B5%B7%E8%88%88%E6%A5%AD%E5%8A%B4%E7%B5%84-%E6%A7%98%E4%B8%AD%E5%A4%AE%E5%8F%AF%E9%8D%9B%E5%B7%A5%E6%A5%AD%E5%8A%B4%E7%B5%84-%E6%A7%98%E3%81%B8%E3%81%94%E6%8C%A8%E6%8B%B6%E3%81%AB%E4%BC%BA%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E5%90%84%E5%A7%94%E5%93%A1%E9%95%B7%E3%81%AE%E7%9A%86%E6%A7%98%E3%81%A8%E3%81%95%E3%81%BE%E3%81%96%E3%81%BE%E3%81%AA%E3%81%8A%E8%A9%B1%E3%82%92%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E5%A4%A7%E5%A4%89%E6%9C%89/4614491158870871/",
+    "https://www.facebook.com/JFSTOKAI/photos/%E6%97%A5%E6%9C%AC%E9%8B%B3%E9%80%A0%E5%B7%A5%E5%AD%A6%E4%BC%9A-%E6%9D%B1%E6%B5%B7%E6%94%AF%E9%83%A8-%E5%B9%B3%E6%88%9029%E5%B9%B4%E5%BA%A6%E7%B7%8F%E4%BC%9A%E6%84%9B%E7%9F%A5%E7%9C%8C%E7%94%A3%E6%A5%AD%E5%8A%B4%E5%83%8D%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%81%A6%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E7%B7%8F%E4%BC%9A%E3%81%AB%E7%B6%9A%E3%81%8D%E7%89%B9%E5%88%A5%E8%AC%9B%E6%BC%94%E4%BC%9A%E3%82%82%E8%A1%8C%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F1%E9%8B%B3%E9%80%A0%E5%B7%A5%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E7%86%8A%E6%9C%AC%E5%9C%B0%E9%9C%87%E3%81%8B%E3%82%89%E3%81%AE%E5%BE%A9%E8%88%88%E5%AF%BE%E5%BF%9C%E4%BA%8B%E4%BE%8B-%E6%AD%A6/1411565782232991/",
+    "https://www.facebook.com/yoshikatsu.yamamoto.129/posts/99%E7%81%AB-%E6%97%A5%E9%A0%83%E3%82%88%E3%82%8A%E3%81%94%E6%94%AF%E6%8F%B4%E3%81%84%E3%81%9F%E3%81%A0%E3%81%84%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%99%E4%B8%AD%E5%A4%AE%E5%8F%AF%E9%8D%9B%E5%B7%A5%E6%A5%AD%E5%8A%B4%E5%83%8D%E7%B5%84%E5%90%88%E6%A7%98%E3%81%AE%E8%A9%95%E8%AD%B0%E5%93%A1%E4%BC%9A%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E5%B8%82%E6%94%BF%E5%A0%B1%E5%91%8A%E3%82%92%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E8%B1%8A%E7%94%B0%E5%B8%82%E8%AD%B0%E4%BC%9A%E3%81%AE9%E6%9C%88%E5%AE%9A%E4%BE%8B%E4%BC%9A%E4%BC%9A%E6%9C%9F%E4%B8%AD%E3%81%A8%E3%81%84%E3%81%86%E3%81%93%E3%81%A8%E3%82%82%E3%81%82%E3%82%8A%E4%BB%8A%E5%9B%9E%E3%81%AF/4574910402828947/",
+    "https://www.facebook.com/hirano.harry/",
+    "https://www.facebook.com/yoshikatsu.yamamoto.129/posts/115%E7%81%AB-%E6%B3%89%E7%94%BA2%E4%B8%81%E7%9B%AE%E4%BA%A4%E5%B7%AE%E7%82%B9%E3%81%A7%E3%81%AE%E8%A1%97%E9%A0%AD%E6%B4%BB%E5%8B%95%E3%82%92%E9%98%BF%E9%83%A8%E6%B4%8B%E7%A5%90%E7%9C%8C%E8%AD%B0%E3%81%A8%E3%83%88%E3%83%A8%E3%82%BF%E5%8A%B4%E7%B5%84%E3%81%AE%E5%B0%8F%E5%9C%92%E5%B1%80%E9%95%B7%E3%81%A8%E4%B8%80%E7%B7%92%E3%81%AB%E8%A1%8C%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E6%9C%9D%E6%99%A9%E3%81%A8%E6%98%BC%E9%96%93%E3%81%AE%E6%B0%97%E6%B8%A9%E5%B7%AE%E3%81%8C%E5%A4%A7%E3%81%8D%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E7%9A%86%E3%81%95%E3%82%93%E4%BD%93%E8%AA%BF%E7%AE%A1%E7%90%86%E3%81%AB%E3%81%AF%E3%81%94%E7%95%99%E6%84%8F%E3%81%97%E3%81%A6%E3%81%8F/3914039182249409/",
+    "https://www.facebook.com/nissinyumematsuri/posts/%E3%81%94%E5%8D%94%E8%B3%9B-%E6%84%9F%E8%AC%9D%E3%81%84%E3%82%88%E3%81%84%E3%82%88%E8%BF%AB%E3%82%8B%E5%A4%A2%E3%81%BE%E3%81%A4%E3%82%8A%E4%BB%8A%E5%9B%9E%E3%82%82%E5%A4%9A%E3%81%8F%E3%81%AE%E4%BC%81%E6%A5%AD%E3%82%88%E3%82%8A%E3%81%94%E5%8D%94%E8%B3%9B%E3%82%92%E3%81%84%E3%81%9F%E3%81%A0%E3%81%84%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%99%E7%AC%AC24%E5%9B%9E%E3%81%AB%E3%81%A3%E3%81%97%E3%82%93%E5%A4%A2%E3%81%BE%E3%81%A4%E3%82%8A%E3%81%AE%E9%96%8B%E5%82%AC%E3%81%AB%E5%85%88%E7%AB%8B%E3%81%A1%E3%81%94%E5%8D%94%E8%B3%9B%E7%A4%BE%E3%81%AE%E3%81%8A%E5%90%8D%E5%89%8D%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99%E3%81%9F%E3%81%8F%E3%81%95%E3%82%93%E3%81%AE%E7%9A%86%E3%81%95/1099481012308707/",
+    "https://www.facebook.com/JFSTOKAI/",
+    "https://www.facebook.com/fossbytes/posts/office-workers-in-japan-are-racing-through-city-streets-on-wheeled-office-chairs/1392359612932079/",
+    "https://www.facebook.com/ait.jiyuugaoka.job/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "中央可鍛工業 note 社長",
+   "results": [
+    "https://shachojp.com/p/chuo-malleable-iron",
+    "https://www.chuokatan.co.jp/corporate/officer.html",
+    "https://www.chuokatan.co.jp/corporate/message.html",
+    "https://x.com/CEO__1234/status/2117866631468585406",
+    "https://donburi.accountant/history/?ds=115484&do=1",
+    "https://kitaishihon.com/company/5607/board-of-director",
+    "https://the-shashi.com/tse/5607/ceo/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "中央可鍛工業 X 投稿",
+   "results": [
+    "https://www.tiktok.com/tag/中央可鍛工業",
+    "https://www.facebook.com/中央可鍛工業-134890749867224/",
+    "https://tjfreelife.com/analysis-scoresheet-5607/",
+    "https://www.facebook.com/pages/中央可鍛工業/177901112417141/",
+    "https://www.youtube.com/@chuokatan_official",
+    "https://chuokatan.co.jp/cms/",
+    "http://chuokatan.co.jp/index.php"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部20頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部20頁・検索12回）"
+ }
+}

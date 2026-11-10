@@ -1,0 +1,909 @@
+{
+ "name": "クオリカ株式会社",
+ "aliases": [],
+ "context": "PBF=yes 装置=DMG森精機;松浦機械 出典=https://www.qualica.co.jp/ja/case/dmgmori_201504.html",
+ "researched_at": "2026-11-10T17:23:07.766427+00:00",
+ "official_url": "https://www.qualica.co.jp/",
+ "identified_by": "search:ddgs:google:クオリカ",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "石川県小松市串町工業団地1番地2",
+    "url": "https://www.qualica.co.jp/ja/case/komatec_202511.html",
+    "pass": 1
+   },
+   {
+    "label": "クオリカ株式会社（本社",
+    "value": "東京都新宿区、代表取締役社長：阿久津 晃昭）",
+    "url": "https://www.qualica.co.jp/ja/news/20241001.html",
+    "pass": 1
+   },
+   {
+    "label": "クオリカ株式会社（本社",
+    "value": "東京都新宿区、代表取締役社長：阿久津 晃昭）",
+    "url": "https://www.qualica.co.jp/ja/news/20240401.html",
+    "pass": 1
+   },
+   {
+    "label": "クオリカ株式会社（本社",
+    "value": "東京都新宿区、代表取締役社長：阿久津 晃昭）",
+    "url": "https://www.qualica.co.jp/ja/news/20260617/main/0/link/20260617.pdf",
+    "pass": 2
+   },
+   {
+    "label": "クオリカ株式会社（本社",
+    "value": "東京都新宿区、代表取締役社長：阿久津 晃昭）",
+    "url": "https://www.qualica.co.jp/ja/news/20260401_2/main/0/link/20260401.pdf",
+    "pass": 2
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "創立",
+    "value": "創立：1961年7月",
+    "url": "https://www.qualica.co.jp/ja/case/komatec_202511.html",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "3,200万円",
+    "url": "https://www.qualica.co.jp/ja/case/komatec_202511.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "建設機械向け部品の製造を中心に、溶接・機械加工・塗装・組立・運搬までを一貫して担う。 フレキシブルな生産管理と社内運輸体制により、受注から納品までの体制を構築している。従業員250名（2024年11月1日時点）。",
+    "url": "https://www.qualica.co.jp/ja/case/komatec_202511.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "本記事では、「kintoneエンタープライズパートナー」による対談を通じて、大企業におけるkintone導入の実態や課題、部門間連携や運用面でのポイントなどが紹介されています",
+    "url": "https://www.qualica.co.jp/ja/news/20260529.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社からは、全社利用の実績を踏まえた運用ノウハウや、導入から保守まで一貫して支援する取り組みについてお話ししています",
+    "url": "https://www.qualica.co.jp/ja/news/20260529.html",
+    "pass": 1
+   },
+   {
+    "quote": "クオリカ、スター精密の新工場に生産性改善システム「KOM-MICS」を導入し、生産性向上と環境負荷低減の両立を支援",
+    "url": "https://www.qualica.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "クオリカ、コマテックの全3工場43台の設備に工場の生産性改善システム「KOM-MICS」を導入",
+    "url": "https://www.qualica.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "～大手飲食チェーン大戸屋の全国の店舗へ導入を拡大～",
+    "url": "https://www.qualica.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "クオリカ 生産性改善システム「KOM-MICS」を金沢工業大学へ導入",
+    "url": "https://www.qualica.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "クオリカ、ナブテスコへ工場業務の効率化プログラムを自動生成する生産性改善システム「KOM-MICS」を導入",
+    "url": "https://www.qualica.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "クオリカ、「SpecialtyQube Growth」を全国97店舗で雑貨専門店を運営するCHELSEA New Yorkに導入",
+    "url": "https://www.qualica.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "クオリカ、小売専門店向けトータルソリューション 「SpecialtyQube Growth」をコロンビアスポーツウェアジャパンに導入",
+    "url": "https://www.qualica.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "クオリカ、外食産業向け店舗管理ソリューション 「TastyQube Growth」をコロワイドグループに導入",
+    "url": "https://www.qualica.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "kintone導入のお客様事例を新たに公開！ 『ＵＴグループ株式会社 様』",
+    "url": "https://www.qualica.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "～Kom-micsを高専の実習に導入し、産業DXをけん引する高度産業DX人材の育成事業を支援～",
+    "url": "https://www.qualica.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "クオリカ、工作機械メーカー 松浦機械製作所へ次世代型WEBパーツカタログ「PITT Qube」を導入",
+    "url": "https://www.qualica.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "クオリカ、大久保歯車工業へ工場の生産性改善システム「KOM-MICS」を導入し、工作機械をIoT化",
+    "url": "https://www.qualica.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "クオリカ、勤務地に縛られない働き方、多様な働き方実現のため、「居住地選択制度」を導入",
+    "url": "https://www.qualica.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "クオリカ、製造業・建設業向けに『ウェアラブルデバイスを活用した現場DX導入キャンペーン』を開始",
+    "url": "https://www.qualica.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "クオリカ、アパレル大手TSIホールディングスへTangerine社のオフラインデータプラットフォーム 「nearME」を導入し、ビーコンを利用した店頭サービスを開始",
+    "url": "https://www.qualica.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "クオリカとTTNIインドネシア、インドネシアの自動車部品工場に多言語対応生産管理システム「ATOMS QUBE」を導入",
+    "url": "https://www.qualica.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "～3ヶ月の短期導入で、生産現場の見える化・業務効率化を実現～",
+    "url": "https://www.qualica.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "クオリカ、モスフードサービス・モスストアカンパニーにシフト・勤怠システム「TimeManagementQUBE」を導入",
+    "url": "https://www.qualica.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "～ 吉野家が現地で展開する４法人54店舗での先行導入も決定 ～",
+    "url": "https://www.qualica.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "クオリカ、働き方改革推進のため、テレワークを活用した３つの施策を導入",
+    "url": "https://www.qualica.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "～Cisco UCS、Nexusの導入により、Dockerコンテナ管理機能を支援、実行環境の安全性、セキュリティを更に強化～",
+    "url": "https://www.qualica.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "ハウス食品グループ本社が展開する中国のカレーハウスCoCo壱番屋の全店舗にクオリカの店舗・本部営業支援システム『TastyQube』を導入",
+    "url": "https://www.qualica.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "クオリカ、興和工業所の中国 山東工場にクラウド型生産管理システム「AToMsQube」を導入",
+    "url": "https://www.qualica.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社コマテック様 | 導入事例 | クオリカ株式会社",
+    "url": "https://www.qualica.co.jp/ja/case/komatec_202511.html",
+    "pass": 1
+   },
+   {
+    "quote": "KOM-MICS導入で稼働率改善、停止回数は3分の1に",
+    "url": "https://www.qualica.co.jp/ja/case/komatec_202511.html",
+    "pass": 1
+   },
+   {
+    "quote": "こうした課題に対応するため、コマテックでは、大口取引先であるコマツから提供された生産性改善システム「KOM-MICS（コムミクス）」を試験導入",
+    "url": "https://www.qualica.co.jp/ja/case/komatec_202511.html",
+    "pass": 1
+   },
+   {
+    "quote": "全設備に導入すれば、アラート削減や操業度の把握を通じて、繁忙期の生産や納期対応にも柔軟に対応できると考えました",
+    "url": "https://www.qualica.co.jp/ja/case/komatec_202511.html",
+    "pass": 1
+   },
+   {
+    "quote": "そこで、当社は、工場のデジタル化推進のため、KOM-MICSの導入拡大に踏み切りました」（吉田氏）",
+    "url": "https://www.qualica.co.jp/ja/case/komatec_202511.html",
+    "pass": 1
+   },
+   {
+    "quote": "コマテックでは、現在、KOM-MICSを3工場に設置された全ての溶接ロボットとマシニングセンター、合計43台に導入し、稼働させています",
+    "url": "https://www.qualica.co.jp/ja/case/komatec_202511.html",
+    "pass": 1
+   },
+   {
+    "quote": "その導入と運用を支援しているのがクオリカです",
+    "url": "https://www.qualica.co.jp/ja/case/komatec_202511.html",
+    "pass": 1
+   },
+   {
+    "quote": "「通常、こうしたツールは導入後、現場で試行錯誤しながら使い方を習得していくケースが多いと思います",
+    "url": "https://www.qualica.co.jp/ja/case/komatec_202511.html",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、クオリカの場合は、導入後も毎月定例会を実施し、KOM-MICSの活用方法や課題への対処法を継続的に提案してくれるため、支援が非常に手厚いと感じています",
+    "url": "https://www.qualica.co.jp/ja/case/komatec_202511.html",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、KOM-MICS導入企業を対象とした関連レポートにおいて、同社の溶接ロボットの稼働率は、導入以前は平均的な順位にとどまっていました",
+    "url": "https://www.qualica.co.jp/ja/case/komatec_202511.html",
+    "pass": 1
+   },
+   {
+    "quote": "クオリカ、スター精密の新工場に生産性改善システム「KOM-MICS」を導入し、生産性向上と環境負荷低減の両立を支援<br/>～生産設備データ可視化と稼働状況の一元把握で、加工時間や電力量削減を実現～<br/> | ニュースリリース | クオリカ株式会社",
+    "url": "https://www.qualica.co.jp/ja/news/20260518.html",
+    "pass": 1
+   },
+   {
+    "quote": "クオリカ、スター精密の新工場に生産性改善システム「KOM-MICS」を導入し、生産性向上と環境負荷低減の両立を支援",
+    "url": "https://www.qualica.co.jp/ja/news/20260518.html",
+    "pass": 1
+   },
+   {
+    "quote": "TISインテックグループのクオリカ株式会社（本社：東京都新宿区、代表取締役社長：阿久津 晃昭、以下：クオリカ）は、精密部品加工に用いられるCNC（数値制御）自動旋盤を主力とする工作機械メーカーであるスター精密株式会社（本社：静岡県静岡市、代表取締役社長：佐藤 衛、以下：スター精密）が静岡県菊川市に建設し、2025年12月に稼働開始した新工場に、工場の生産性改善システム「KOM-MICS（コムミクス）」を導入したことを発表します",
+    "url": "https://www.qualica.co.jp/ja/news/20260518.html",
+    "pass": 1
+   },
+   {
+    "quote": "あわせて、新工場への本格導入に先立ち、既存工場での検証を実施した結果、工作機械3台で年間940時間の加工時間削減を実現しました",
+    "url": "https://www.qualica.co.jp/ja/news/20260518.html",
+    "pass": 1
+   },
+   {
+    "quote": "新工場では、自律走行ロボットによる夜間生産や太陽光パネルの導入などを通じて、高い生産効率と環境性能の両立を目指したスマート工場運用を進めています",
+    "url": "https://www.qualica.co.jp/ja/news/20260518.html",
+    "pass": 1
+   },
+   {
+    "quote": "その結果、年間940時間の加工時間削減を実現し、現場改善につながる手応えを得られたことから、新工場への本格導入が決定しました",
+    "url": "https://www.qualica.co.jp/ja/news/20260518.html",
+    "pass": 1
+   },
+   {
+    "quote": "クオリカは、スター精密の既存工場での「KOM-MICS」検証および新工場への展開を通じて、以下の導入効果を確認しました",
+    "url": "https://www.qualica.co.jp/ja/news/20260518.html",
+    "pass": 1
+   },
+   {
+    "quote": "「KOM-MICS」の導入により、こうした違いを吸収し、メーカーの異なる工作機械54機の稼働状況を一元的に把握することにより、スマート工場運用の基盤となる稼働監視・見える化を実現",
+    "url": "https://www.qualica.co.jp/ja/news/20260518.html",
+    "pass": 1
+   },
+   {
+    "quote": "スター精密への導入の詳細は以下をご参照ください",
+    "url": "https://www.qualica.co.jp/ja/news/20260518.html",
+    "pass": 1
+   },
+   {
+    "quote": "クオリカは、「KOM-MICS」の導入支援を通じて得られた知見をもとに、加工中データを活用した改善活動の定着を支援するメニューの拡充や、運用・活用フェーズにおける伴走支援体制の強化を進めます",
+    "url": "https://www.qualica.co.jp/ja/news/20260518.html",
+    "pass": 1
+   },
+   {
+    "quote": "主力製品である自動旋盤（スイス型自動旋盤）は世界トップクラスのシェアを誇り、また、モバイルプリンターや決済端末向けプリンターなどの「POSソリューション」においても、世界中の店舗やサービス現場で広く導入されています",
+    "url": "https://www.qualica.co.jp/ja/news/20260518.html",
+    "pass": 1
+   },
+   {
+    "quote": "クオリカ、コマテックの全3工場43台の設備に工場の生産性改善システム「KOM-MICS」を導入<br/>～設備の稼働状況をリアルタイムで可視化することでDXを推進し、生産性向上や働き方の改善、持続可能なものづくりを実現～<br/> | ニュースリリース | クオリカ株式会社",
+    "url": "https://www.qualica.co.jp/ja/news/20251203.html",
+    "pass": 1
+   },
+   {
+    "quote": "クオリカ、コマテックの全3工場43台の設備に工場の生産性改善システム「KOM-MICS」を導入",
+    "url": "https://www.qualica.co.jp/ja/news/20251203.html",
+    "pass": 1
+   },
+   {
+    "quote": "TISインテックグループのクオリカ株式会社（本社：東京都新宿区、代表取締役社長：阿久津 晃昭、以下：クオリカ）は、建設機械メーカー向けに部品・モジュールの製造・組み立てを展開する株式会社コマテック（本社：石川県小松市、代表取締役社長：吉田 行宏、以下：コマテック）に、工場の生産性改善システム「KOM-MICS（コムミクス）」を導入したことを発表します",
+    "url": "https://www.qualica.co.jp/ja/news/20251203.html",
+    "pass": 1
+   },
+   {
+    "quote": "今回、「KOM-MICS」をコマテックの全3工場43台の設備に導入し、設備の稼働状況をリアルタイムで可視化し改善活動を進めました",
+    "url": "https://www.qualica.co.jp/ja/news/20251203.html",
+    "pass": 1
+   },
+   {
+    "quote": "そこでコマテックは、工場の生産性改善システム「KOM-MICS」を溶接ロボットに試験導入し、溶接ロボットの稼働データをクラウド上で可視化し、現場課題の分析や改善活動を進めました",
+    "url": "https://www.qualica.co.jp/ja/news/20251203.html",
+    "pass": 1
+   },
+   {
+    "quote": "今回の導入にあたり、クオリカは「KOM-MICS」の機能であるアラート分析や稼働データの可視化を通じて、コマテックの現場改善活動を支援しました",
+    "url": "https://www.qualica.co.jp/ja/news/20251203.html",
+    "pass": 1
+   },
+   {
+    "quote": "その結果、これまで課題感のあった事象に対する真因の究明と、その打ち手を明確にしたことで溶接ロボットの設備停止回数が約70％削減されるという大きな効果が得られ、「KOM-MICS」の本格導入が決定しました",
+    "url": "https://www.qualica.co.jp/ja/news/20251203.html",
+    "pass": 1
+   },
+   {
+    "quote": "本格導入後も毎月の定例会を通じて課題抽出から対処法提案までを継続的に実施しました",
+    "url": "https://www.qualica.co.jp/ja/news/20251203.html",
+    "pass": 1
+   },
+   {
+    "quote": "今回、クオリカと共に「KOM-MICS」を導入し、設備稼働の可視化とデータに基づく改善活動を進めたことで、これまで十分に把握できていなかった課題の真因を特定し、設備停止回数の大幅削減や生産効率向上といった大きな成果につながりました",
+    "url": "https://www.qualica.co.jp/ja/news/20251203.html",
+    "pass": 1
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "クオリカとTTNIインドネシア、インドネシアの自動車部品工場に多言語対応生産管理システム「ATOMS QUBE」を導入",
+    "url": "https://www.qualica.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "クオリカ、クラウド型生産管理システム｢AToMsQube｣の自動車部品サプライヤ向けオプションを提供開始",
+    "url": "https://www.qualica.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "【F-5】自動車輸入の壁を取り除く！型式指定に伴う、新車登録の法対応をサービス化でご提供！",
+    "url": "https://www.qualica.co.jp/ja/event/20260707.html",
+    "pass": 1
+   },
+   {
+    "quote": "海外の自動車メーカーが日本市場向けに自動車を販売する際に必要となる各種法対応について、IT投資を最小化するためのサービス型でのシステム提供を実現しました",
+    "url": "https://www.qualica.co.jp/ja/event/20260707.html",
+    "pass": 1
+   },
+   {
+    "quote": "こうした中、工場のスマート化による生産性向上とエネルギー効率の改善は、多くの製造現場に共通する課題です",
+    "url": "https://www.qualica.co.jp/ja/news/20260518.html",
+    "pass": 1
+   },
+   {
+    "quote": "従来から、現場独自の手法による設備の稼働・停止状況の可視化は行っていましたが、さらなる生産性向上やエネルギー削減につなげるためには、加工中の状態を含めたデータを活用し、改善の根拠を明確にする必要がありました",
+    "url": "https://www.qualica.co.jp/ja/news/20260518.html",
+    "pass": 1
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "クオリカ、ＧＰＳ関連システムと通信機器の開発に強みを持つ株式会社データトロンを子会社化",
+    "url": "https://www.qualica.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "クオリカ、コマツＮＴＣ子会社の情報ネットワーク事業の一部を譲受",
+    "url": "https://www.qualica.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "クオリカ、東南アジア事業拡大に向け、シンガポール子会社の体制を強化",
+    "url": "https://www.qualica.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "クオリカ、中国事業拡大に向け上海子会社の事業体制を強化",
+    "url": "https://www.qualica.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "の全額出資により設立され、2008年に",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%AB",
+    "pass": 3
+   },
+   {
+    "quote": "57年）11月 - 小松製作所の全額出資により、",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%AB",
+    "pass": 3
+   },
+   {
+    "quote": "に子会社「TKSoft Singapore Pte. Ltd.」を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%AB",
+    "pass": 3
+   },
+   {
+    "quote": "に子会社「高律科（上海）信息系統有限公司」を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%AB",
+    "pass": 3
+   },
+   {
+    "quote": "4月 - 子会社TKSoft Singapore Pte. Ltd.をQualica Asia Pacific Pte. Ltd.に社名変更",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%AB",
+    "pass": 3
+   },
+   {
+    "quote": "子会社の情報ネットワーク事業の一部を譲受し、富山事業所を開設",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%AB",
+    "pass": 3
+   },
+   {
+    "quote": "（平成28年）7月 - 親会社のITホールディングス株式会社がTIS株式会社を吸収合併し、TIS株式会社に商号変更",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%AB",
+    "pass": 3
+   },
+   {
+    "quote": "（令和2年）1月 - タイ・バンコクに子会社「QUALICA（Thailand）Co., Ltd.」を設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%AB",
+    "pass": 3
+   },
+   {
+    "quote": "TIS、グループを再編しお客様対応力を強化－子会社間の合併と事業移管を実施－",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%AB",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "クオリカ - Wikipedia — クオリカ株式会社 （英: QUALICA Inc.）は、 東京都 新宿区 に本社を置く日本のシステムインテグレータ。 TISI の連結子会社。 1982年、 小松製作所 の全額出資により設立され、2008年に ITホールディングス グループ（後のTISインテックグループ）の一員となった。",
+    "url": "https://ja.wikipedia.org/wiki/クオリカ",
+    "pass": 3
+   },
+   {
+    "quote": "基本情報 | 企業情報 | クオリカ株式会社 — クオリカの基本情報のページです。 長年培った確かな技術力と業務知識で、製造・外食・小売・サービス業のお客様の現場課題を解決。 最適なITソリューションでビジネスを成長させ、社会と環境の発展に貢献します。",
+    "url": "https://www.qualica.co.jp/ja/company/basic_information.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 | クオリカ株式会社 — クオリカの企業情報のページです。 長年培った確かな技術力と業務知識で、製造・外食・小売・サービス業のお客様の現場課題を解決。 最適なITソリューションでビジネスを成長させ、社会と環境の発展に貢献します。",
+    "url": "https://www.qualica.co.jp/ja/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "クオリカ (株)【TISインテックグループ】の会社概要 | マイナビ2028クオリカ(株)【TISインテックグループ】の会社概要 | マイナビ2027クオリカ株式会社の会社情報 | M&Aクラウドクオリカ株式会社（東京都）の会社概要・売上・役員 | Compalyze — Jun 19, 2026 · クオリカ (株)【TISインテックグループ】の会社概要ページです。 マイナビ2028は、インターンシップ＆キャリア、前年の採用データ、エントリー情報を公開しており、自己分析や企業研究、皆さんの就職活動をサポートします。 Mar 19, 2026 · 高品質のサービスと卓越した技術により、お客さまの進歩発展に貢献するのが私たちのミッションです。 このようなミッションを実現しながら、会社が力強い成長を続けていくために何が必要かといえば、それは人材の力にほかなりません。 設立年度 1982年 代表",
+    "url": "https://job.mynavi.jp/28/pc/search/corp72665/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "クオリカ(株)【TISインテックグループ】の会社概要 | マイナビ2027クオリカ株式会社の会社情報 | M&Aクラウドクオリカ株式会社（東京都）の会社概要・売上・役員 | Compalyze — Mar 19, 2026 · 高品質のサービスと卓越した技術により、お客さまの進歩発展に貢献するのが私たちのミッションです。 このようなミッションを実現しながら、会社が力強い成長を続けていくために何が必要かといえば、それは人材の力にほかなりません。 設立年度 1982年 代表者名 阿久津 晃昭 従業員数 970人 資本金 12.3億円 売上高 226億円 本社所在地エリア 関東 本社所在地 東京都新宿区西新宿8-17-1 住友不動産新宿グランドタワー23F 事業概要 製造業、流通・サービス業向けに特化したITソリューション ... 〒160-0023 東京都新宿区に本社を置くクオリカ株式会社の企",
+    "url": "https://job.mynavi.jp/27/pc/search/corp72665/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 | クオリカ株式会社 — クオリカの導入事例のページです。 長年培った確かな技術力と業務知識で、製造・外食・小売・サービス業のお客様の現場課題を解決。 最適なITソリューションでビジネスを成長させ、社会と環境の発展に貢献します。",
+    "url": "https://www.qualica.co.jp/ja/case.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社松浦機械製作所様 | 導入事例 | クオリカ株式会社金属3Dプリンター導入を成功させるには？方式別の損益分岐点と最新の...金属3Dプリンターで創出する、 製造業のビジネス・イノベーション進まぬ金属3Dプリンタ導入 障壁は「コスト」と「人材」：MONOistポッ... — 高速加工、多面パレット自動運転、焼結（金属同士の結合）と切削を同時に行えるハイブリッド金属3Dプリンタなど、独創的な機械を次々と市場に送り出すパイオニアで、その技術や品質が世界に認められ、輸出比率が70％に上るグローバル企業でもあります。 Jul 26, 2026 · 金属3Dプリンターの導入を検討するにあたり、まず知っておくべき結論からお伝えします。 現時点で最も賢い導入判断は、造形方式ごとの「総所有コスト（TCO）」と「損益分岐点」を基準に行うこと です。 製造業で利用する、金属材料を扱う3D プリンターの最",
+    "url": "https://www.qualica.co.jp/ja/case/matsuura_202209.html",
+    "pass": 3
+   },
+   {
+    "quote": "サービス & ソリューション | クオリカ株式会社 — クオリカのサービス・ソリューションのページです。 長年培った確かな技術力と業務知識で、製造・外食・小売・サービス業のお客様の現場課題を解決。 最適なITソリューションでビジネスを成長させ、社会と環境の発展に貢献します。",
+    "url": "https://www.qualica.co.jp/ja/service.html",
+    "pass": 3
+   },
+   {
+    "quote": "沿革 | 企業情報 | クオリカ株式会社 — クオリカの沿革のページです。 長年培った確かな技術力と業務知識で、製造・外食・小売・サービス業のお客様の現場課題を解決。 最適なITソリューションでビジネスを成長させ、社会と環境の発展に貢献します。",
+    "url": "https://www.qualica.co.jp/ja/company/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "TIS（3626）の親会社・連結子会社等 | IRBANK — クオリカ 2014年3月31日 80.00% 2015年3月31日 80.00% 2016年3月31日 80.00% 2017年3月31日 80.00% 2018年3月31日 80.00% 2019年3月31日 80.00% 2020年3月31日 80.00% 2021年3月31日 80.00% 2022年3月31日 80.00% 2023年3月31日 80.00% 2024年3月31日 80.00% 2025年3月31日 80.00% 住所 東京都新宿区 主要な事業の ...",
+    "url": "https://irbank.net/E05739/ac?m=クオリカ株式会社",
+    "pass": 3
+   },
+   {
+    "quote": "クオリカ株式会社 | OpenBizGraph — 関連のある会社 - 会社名 Group親会社子会社得意先仕入先業務提携銀行等株主等 QUALICA (Thailand) Co., Ltd. Group QUALICA (Shanghai)INC Group QUALICA Asia Pacific Pte. Ltd. Group 株式会社SOYOKAZE 得意先 株式会社すかいらーくホールディングス 得意先 株式会社コマテック 得意先 関連 ...",
+    "url": "https://openbizgraph.com/ja/detail/21854",
+    "pass": 3
+   },
+   {
+    "quote": "クオリカ (株)【TISインテックグループ】の会社概要 | マイナビ2028クオリカ(株)【TISインテックグループ】の会社概要 | マイナビ2027クオリカ株式会社の会社情報 | M&Aクラウドクオリカ株式会社（東京都）の会社概要・売上・役員 | Compalyze — Jun 19, 2026 · 本社 東京都 資本金 12億3,460万円 売上高 255億円 ※2026/3月期 従業員 921人 ※2026年4月時点 お知らせ・イベント 近日出展予定のマイナビイベント一覧 説明会の予約可 エントリー 検討リスト登録 会社概要 説明会・セミナー 前年の採用データ Mar 19, 2026 · 基本情報 本社 東京都 資本金 12億3,460万円 売上高 273億円 ※2025/3月期 従業員 949人 ※2025年4月時点 お知らせ・イベント 日経新聞連動特集 【女性活躍推進に取り組む",
+    "url": "https://job.mynavi.jp/28/pc/search/corp72665/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "クオリカ(株)【TISインテックグループ】の会社概要 | マイナビ2027クオリカ株式会社の会社情報 | M&Aクラウドクオリカ株式会社（東京都）の会社概要・売上・役員 | Compalyze — Mar 19, 2026 · 基本情報 本社 東京都 資本金 12億3,460万円 売上高 273億円 ※2025/3月期 従業員 949人 ※2025年4月時点 お知らせ・イベント 日経新聞連動特集 【女性活躍推進に取り組む企業】 会社概要 採用データ 取材情報 会社紹介記事 会社データ 働き方データ 社内制度 採用 ... 設立年度 1982年 代表者名 阿久津 晃昭 従業員数 970人 資本金 12.3億円 売上高 226億円 本社所在地エリア 関東 本社所在地 東京都新宿区西新宿8-17-1 住友不動産新宿グランドタワー23F 事業概要 製造業、流通・サービス業向けに特化したITソリュー",
+    "url": "https://job.mynavi.jp/27/pc/search/corp72665/outline.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "\"#クオリカ\" - Results on X | Live Posts & Updates クオリカは、工場の生産性改善システム「KOM-MICS」の展開を通じ、工場における製造DXを推進。 工作機械などの生産設備の稼働データをクラウドに集約し、様々な視点での可視化を実現することで課題の発見から生産性改善の実施まで支援しています。",
+    "url": "https://x.com/hashtag/クオリカ",
+    "pass": 3
+   },
+   {
+    "quote": "\\クオリカ、「Cybozu Partner Network Report 2024」で 3年連続2つ星... \\クオリカ、「Cybozu Partner Network Report 2024」で3年連続2つ星の評価を獲得🏆 ／ #クオリカ が、サイボウズのパートナー評価制度「Cybozu Partner Network Report 2024」の2024年度インテグレーション部門において3年連続で2つ星の評価を獲得しました👏 qualica.co.jp/news ...",
+    "url": "https://x.com/tisintecgroup/status/1780873960097509463",
+    "pass": 3
+   },
+   {
+    "quote": "クオリカ #AJS マイナビ「就職GIGA WEB EXPO」 出展のお知らせ \\ クオ... ／ #クオリカ #AJS マイナビ「就職GIGA WEB EXPO」 出展のお知らせ📣 \\ クオリカとAJSは、2月25日 (水)開催のマイナビ就職イベント「就職GIGA WEB EXPO」に出展します IT業界やクオリカ、AJSの取り組みにご興味のある方はぜひご参加ください🙌 📅2026年2月25日 (水) 10:00 ...",
+    "url": "https://x.com/tisintecgroup/status/2023217803592184229",
+    "pass": 3
+   },
+   {
+    "quote": "TIS、インテック、アグレックス、 クオリカ、AJS、TISソリューション... TIS、インテック、アグレックス、 クオリカ、AJS、TISソリューションリンク、 TISシステムサービス、登録管理ネットワークが 「健康経営優良法人2026」に認定🏆 TISインテックグループでは、グループダイバーシティ＆インクルージョン方針のもと、グループ ...",
+    "url": "https://x.com/tisintecgroup/status/2032313840323739652",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "TIS INTEC Group - 【クオリカ、コマツオープン2026特別協賛のお知ら... クオリカは、生涯スポーツとしてのゴルフを応援する コマツの思いに賛同し、本大会を支援しています。 また、今大会への特別協賛をはじめ、クオリカが拠点 を構える北陸地域へ貢献していきます。 なお、本大会の様子はBS朝日などでも中継予定です。",
+    "url": "https://www.facebook.com/tisintecgroup/posts/クオリカコマツオープン2026特別協賛のお知らせクオリカは2026年10月1日木3日土に小松カントリークラブ石川県小松市で開催されるコマツオープン2026に特別/1704936044967417/",
+    "pass": 3
+   },
+   {
+    "quote": "クオリカ クオリカ ... クオリカ",
+    "url": "https://www.facebook.com/pages/クオリカ/1634804310088064/",
+    "pass": 3
+   },
+   {
+    "quote": "TIS INTEC Group - 【クオリカのコーポレートサイトがリニューアル！... Apr 15, 2021 · TISインテックグループのクオリカは、主に製造業、流通サービス業（飲食業・小売業）の企業様向けに各種ITサービスを提供し、長年培った技術力と業務知識でお客様の働く「現場」をサポートします。",
+    "url": "https://www.facebook.com/tisintecgroup/posts/クオリカのコーポレートサイトがリニューアルクオリカのコーポレートサイトをロゴデザインと共に大幅にリニューアルしましたサービスやソリューションをはじめ導入事例がよ/244853217078312/",
+    "pass": 3
+   },
+   {
+    "quote": "TIS INTEC Group - 【クオリカ、コマツオープン2025特別協賛のお知ら... クオリカは、生涯スポーツとしてのゴルフを応援する コマツの思いに賛同し、本大会を支援しています。 また、今大会への特別協賛をはじめ、当社の拠点を構 える北陸地域へ貢献していきます。",
+    "url": "https://www.facebook.com/tisintecgroup/posts/クオリカコマツオープン2025特別協賛のお知らせクオリカは2025年10月2日から4日にかけて小松カントリークラブ石川県小松市で開催されるコマツオープン2025/1370012825126409/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.qualica.co.jp/ja/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qualica.co.jp/ja/news/20260918.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qualica.co.jp/ja/news/20260529.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qualica.co.jp/ja/news.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qualica.co.jp/ja/event/20260707.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qualica.co.jp/ja/case/komatec_202511.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qualica.co.jp/ja/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qualica.co.jp/ja/company/data.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qualica.co.jp/ja/news/20260518.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qualica.co.jp/ja/news/20251203.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qualica.co.jp/ja/news/20241001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qualica.co.jp/ja/news/20240801.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qualica.co.jp/ja/news/20240712.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qualica.co.jp/ja/news/20240401.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.qualica.co.jp/ja/news/20260617/main/0/link/20260617.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.qualica.co.jp/ja/news/20260401_2/main/0/link/20260401.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.qualica.co.jp/ja/company/main/01111116/teaserItems2/00/binaryNodeName/07_Offices.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%AB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-steel.co.jp/products/solution/metal-3d-printing/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mitsu-ri.net/articles/metal-laminated-modeling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%AB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%AB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/クオリカ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tisintecgroup/status/1780873960097509463",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tisintecgroup/status/2023217803592184229",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tisintecgroup/status/2032313840323739652",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tisintecgroup/posts/クオリカコマツオープン2026特別協賛のお知らせクオリカは2026年10月1日木3日土に小松カントリークラブ石川県小松市で開催されるコマツオープン2026に特別/1704936044967417/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/クオリカ/1634804310088064/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tisintecgroup/posts/クオリカのコーポレートサイトがリニューアルクオリカのコーポレートサイトをロゴデザインと共に大幅にリニューアルしましたサービスやソリューションをはじめ導入事例がよ/244853217078312/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tisintecgroup/posts/クオリカコマツオープン2025特別協賛のお知らせクオリカは2025年10月2日から4日にかけて小松カントリークラブ石川県小松市で開催されるコマツオープン2025/1370012825126409/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/クオリカ",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "クオリカ",
+   "results": [
+    "https://ja.wikipedia.org/wiki/クオリカ",
+    "https://www.qualica.co.jp/ja/index.html",
+    "https://www.qualica.co.jp/ja/company.html",
+    "https://qualica-ss.com/global_jp",
+    "https://qualica-ss.com/",
+    "https://qualica-retail.com/",
+    "https://qualica-food.com/global"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "クオリカ 会社概要 資本金 設立",
+   "results": [
+    "https://ja.wikipedia.org/wiki/クオリカ",
+    "https://www.qualica.co.jp/ja/company/basic_information.html",
+    "https://www.qualica.co.jp/ja/company.html",
+    "https://job.mynavi.jp/28/pc/search/corp72665/outline.html",
+    "https://job.mynavi.jp/27/pc/search/corp72665/outline.html",
+    "https://macloud.jp/companies/4522",
+    "https://compalyze.co.jp/company/7011101062095"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "クオリカ 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.qualica.co.jp/ja/case.html",
+    "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "https://www.qualica.co.jp/ja/case/matsuura_202209.html",
+    "https://deskmin.net/2026/07/26/金属3dプリンター導入を成功させるには？方式別の/",
+    "https://monoist.itmedia.co.jp/mn/articles/2510/23/news028.html",
+    "https://www.manufacturing-world.jp/hub/ja-jp/blog/article11.html",
+    "https://www.secure.rc-club.ricoh.co.jp/3d_case_kinzokugiken/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "クオリカ 金属積層造形 設備",
+   "results": [
+    "https://www.jfe-steel.co.jp/products/solution/metal-3d-printing/index.html",
+    "https://chuokatan.co.jp/products/3dp/",
+    "https://mitsu-ri.net/articles/metal-laminated-modeling",
+    "https://www.qualica.co.jp/ja/service.html",
+    "https://mono.ipros.com/cg2/積層造形機/",
+    "https://tasuichi.jp/2026/04/10/国内の金属3dプリンター受託造形企業まとめ：pbf・ded/",
+    "http://www.shibaura-machine.co.jp/jp/product/additive/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "クオリカ 株主 出資 親会社",
+   "results": [
+    "https://ja.wikipedia.org/wiki/クオリカ",
+    "https://www.qualica.co.jp/ja/company/basic_information.html",
+    "https://www.qualica.co.jp/ja/company/history.html",
+    "https://irbank.net/E05739/ac?m=クオリカ株式会社",
+    "https://openbizgraph.com/ja/detail/21854",
+    "https://catr.jp/companies/f7220/52640",
+    "https://www.tisi.jp/group/list/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "クオリカ 売上高 従業員数",
+   "results": [
+    "https://ja.wikipedia.org/wiki/クオリカ",
+    "https://www.qualica.co.jp/ja/company/basic_information.html",
+    "https://www.qualica.co.jp/ja/company.html",
+    "https://job.mynavi.jp/28/pc/search/corp72665/outline.html",
+    "https://job.mynavi.jp/27/pc/search/corp72665/outline.html",
+    "https://macloud.jp/companies/4522",
+    "https://compalyze.co.jp/company/7011101062095"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com クオリカ",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com クオリカ",
+   "results": [
+    "https://x.com/hashtag/クオリカ",
+    "https://x.com/tisintecgroup/status/1780873960097509463",
+    "https://x.com/tisintecgroup/status/2023217803592184229",
+    "https://x.com/tisintecgroup/status/2032313840323739652",
+    "https://x.com/ikedanorihisa/status/2105229598518919487",
+    "https://x.com/QuricaCard",
+    "https://x.com/kuroneko209/status/2009290629923193058"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com クオリカ",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com クオリカ",
+   "results": [
+    "https://www.facebook.com/tisintecgroup/posts/クオリカコマツオープン2026特別協賛のお知らせクオリカは2026年10月1日木3日土に小松カントリークラブ石川県小松市で開催されるコマツオープン2026に特別/1704936044967417/",
+    "https://www.facebook.com/pages/クオリカ/1634804310088064/",
+    "https://www.facebook.com/tisintecgroup/posts/クオリカのコーポレートサイトがリニューアルクオリカのコーポレートサイトをロゴデザインと共に大幅にリニューアルしましたサービスやソリューションをはじめ導入事例がよ/244853217078312/",
+    "https://www.facebook.com/tisintecgroup/posts/クオリカコマツオープン2025特別協賛のお知らせクオリカは2025年10月2日から4日にかけて小松カントリークラブ石川県小松市で開催されるコマツオープン2025/1370012825126409/",
+    "https://www.facebook.com/tisintecgroup/posts/クオリカニュースリリースのお知らせクオリカはオールインワン型ネットワーク情報端末weblightウェブライトシリーズの新モデルweblightvxp15を202/1218265916967768/",
+    "https://www.facebook.com/tisintecgroup/posts/クオリカプレスリリースのお知らせクオリカは外食産業向け店舗管理ソリューションtastyqube-growthの新機能としてセルフレジを2023年1月にリリースし/630776222383410/",
+    "https://www.facebook.com/tisintecgroup/posts/クオリカニュースリリースのお知らせクオリカは台湾のグローバルposメーカーであるpartner-tech-corporationのグループ傘下であるwixtar/1152469216880772/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "クオリカ note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/阿久津晃昭",
+    "https://www.qualica.co.jp/ja/company/director.html",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/koala_president",
+    "https://www.qualica.co.jp/ja/company.html",
+    "https://note.com/koala_president/all"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "クオリカ X 投稿",
+   "results": [
+    "https://x.com/hashtag/クオリカ",
+    "https://www.qualica.co.jp/ja/index.html",
+    "https://x.com/JaponesqualiaP/status/2119394807827358065",
+    "https://help.x.com/ja",
+    "https://help.x.com/ja/using-x/how-to-post",
+    "https://fitly.pics/blog/x-twitter-post-tips",
+    "https://dounats.com/column/twitter-manga-imagesize/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像3件／外部16頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像3件／外部16頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像3件／外部16頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像3件／外部16頁・検索12回）",
+  "使っている金属粉（材質）": "記載なし（3回確認済み：公式14頁／PDF・画像3件／外部16頁・検索12回）"
+ }
+}

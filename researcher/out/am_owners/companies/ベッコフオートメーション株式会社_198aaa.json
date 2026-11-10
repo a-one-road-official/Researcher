@@ -1,0 +1,829 @@
+{
+ "name": "ベッコフオートメーション株式会社",
+ "aliases": [],
+ "context": "PBF=yes 装置=LPBF;PBF 出典=https://note.com/beckhoff_japan/n/n6aab4581daeb",
+ "researched_at": "2026-11-10T17:17:37.988831+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {},
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "ベッコフは、PCベースの制御技術をベースにしたオープンオートメーションシステムを導入しています",
+    "url": "https://www.beckhoff.com/ja-jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "現在の業界標準となっている多くのオートメーション技術は、ベッコフによって市場に導入されたものです",
+    "url": "https://www.beckhoff.com/ja-jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "ハンス・ベッコフ（創業者兼マネージング・ディレクター）「我々は毎年ポートフォリオを進化させ、5年から7年ごとに革新的な新技術を導入することを使命とし、これからも継続していきます」",
+    "url": "https://prtimes.jp/main/html/rd/p/000000035.000027362.html",
+    "pass": 3
+   },
+   {
+    "quote": "持続的な需要の増加と、新製品および新しい技術形態の導入により、2025年以降、良好で安定した成長を取り戻す見通しです",
+    "url": "https://prtimes.jp/main/html/rd/p/000000035.000027362.html",
+    "pass": 3
+   },
+   {
+    "quote": "PC制御とEtherCATが拓く、金属積層造形の次世代プラットフォーム | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "pass": 3
+   },
+   {
+    "quote": "PC制御とEtherCATが拓く、金属積層造形の次世代プラットフォーム",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形は、試作技術から生産設備へと役割を変えつつある",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "pass": 3
+   },
+   {
+    "quote": "のPC制御およびEtherCATを制御基盤として採用することで、金属積層造形装置を産業用途に適した生産プラットフォームとして実装した",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、IRPDの金属積層造形機を例に、制御技術が果たす役割を整理する",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形が「生産設備」へと移行する中で",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形は、長らく試作や研究開発用途を中心に活用されてきたが、近年では量産対応や高付加価値部品の製造工程へと用途を拡大している",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙、自動車、工具分野を中心に、金属3Dプリンターを前提とした製造プロセスの構築が進みつつある",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "pass": 3
+   },
+   {
+    "quote": "IRPDと金属積層造形機「IMPACT 4530」",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "pass": 3
+   },
+   {
+    "quote": "」は、レーザー粉末床溶融法（LPBF）を採用した装置である",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "pass": 3
+   },
+   {
+    "quote": "IMPACT 4530は、現在の生産要件に応える装置であると同時に、今後の技術進化を受け止める拡張性を備えた金属積層造形プラットフォームとして設計されている",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形の現場では、造形方式やレーザー出力といった要素技術以上に、「どう制御し、どう運用するか」が装置の価値を左右する段階に入っている",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "pass": 3
+   },
+   {
+    "quote": "IMPACT 4530は、コンテナ方式による工程自動化と、PC制御・EtherCATを基盤とした統合制御によって、金属3Dプリンターを生産設備として成立させるための条件を着実に積み上げた装置である",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業にとっても、金属積層造形を本格導入する際の参考となる事例といえる",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末を薄く敷き詰め、高出力レーザーで選択的に溶融・結合させることで、一層ずつ積み重ねて立体物を造形する金属3Dプリンターの代表的な方式",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形では、レーザービーム制御の精度を左右する重要な要素となる",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "pass": 3
+   },
+   {
+    "quote": "新手法で金属3Dプリンタ用材料開発を加速！Al-Fe系合金で軽量・高強度・耐熱を両立、輸送機器分野での実装視野に",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "pass": 3
+   },
+   {
+    "quote": "PC制御とEtherCATが拓く、金属積層造形の次世代プラットフォーム | ベッコフオートメーション株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000061.000027362.html",
+    "pass": 3
+   },
+   {
+    "quote": "PC制御とEtherCATが拓く、金属積層造形の次世代プラットフォーム",
+    "url": "https://prtimes.jp/main/html/rd/p/000000061.000027362.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、スイスの積層造形機メーカーIRPDによるアディティブマニュファクチャリング分野での導入事例をご紹介します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000061.000027362.html",
+    "pass": 3
+   },
+   {
+    "quote": "近年、産業分野における金属積層造形は、試作にとどまらず、量産対応や高付加価値部品の製造へと用途を拡大しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000061.000027362.html",
+    "pass": 3
+   },
+   {
+    "quote": "こうした課題に対し、スイス・ザンクトガレンに拠点を置くIRPDは、ベッコフのPC制御技術とEtherCATを採用することで、産業用途で求められる性能と信頼性を兼ね備えた金属積層造形システムを実現しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000061.000027362.html",
+    "pass": 3
+   },
+   {
+    "quote": "コンテナ方式を採用したLPBF積層造形機 「IMPACT 4530」",
+    "url": "https://prtimes.jp/main/html/rd/p/000000061.000027362.html",
+    "pass": 3
+   },
+   {
+    "quote": "同社が開発した金属積層造形機「IMPACT 4530」は、レーザー粉末床溶融法（LPBF）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000061.000027362.html",
+    "pass": 3
+   },
+   {
+    "quote": "このようにIRPDは、ベッコフのPC制御とTwinCATソフトウェアを基盤とすることで、金属積層造形という新たな技術分野において、高度な制御性能と将来の拡張性を両立したシステムを実現しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000061.000027362.html",
+    "pass": 3
+   },
+   {
+    "quote": "IMPACT 4530は、現在の生産要件を満たすだけでなく、ビッグデータ活用やAI技術の導入など、今後の技術進化にも柔軟に対応可能なプラットフォームとして、さらなる発展が期待されます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000061.000027362.html",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "ベッコフ製品ポートフォリオに関する幅広い知識と、あらゆる業界でつちかったノウハウにより、ロボット、自動車、包装機械、プラスチック、風力発電、工作機械など、さまざまな業界のお客様に合った最適なソリューションを見つけるお手伝いをいたします",
+    "url": "https://www.beckhoff.com/ja-jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "ベッコフが支える業界は、自動車・工作機械・パッケージング・半導体製造・ビルの自動化・スマートファクトリーや再生可能エネルギー、研究開発の分野など、お客様のニーズのあるところ全てに広がり続けています",
+    "url": "https://food-town.jp/customer/corporation/detail/m294/",
+    "pass": 3
+   },
+   {
+    "quote": "TwinCATやEtherCATを搭載した産業用コントローラは産業用ロボット、自動車業界、包装機械、射出成形機、風力発電設備、工作機械など、世界中のさまざまなアプリケーションで採用されている",
+    "url": "https://prtimes.jp/main/html/rd/p/000000035.000027362.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形は、試作技術から生産設備へと役割を変えつつある",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形は、長らく試作や研究開発用途を中心に活用されてきたが、近年では量産対応や高付加価値部品の製造工程へと用途を拡大している",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙、自動車、工具分野を中心に、金属3Dプリンターを前提とした製造プロセスの構築が進みつつある",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "pass": 3
+   },
+   {
+    "quote": "UNITED MACHINING SOLUTIONSグループの一員として、自動車、航空宇宙、切削工具メーカー向けに、設計から後加工までを含むエンドツーエンドの生産ソリューションを提供してきた",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "pass": 3
+   },
+   {
+    "quote": "BroseとCNPC Powder、自動車AMで循環型製造を推進！鋼材スクラップを金属粉末へ再資源化",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio、2025年は金属DED実用化の節目に防衛・自動車・石油ガス分野でサプライチェーン実装が進展",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "pass": 3
+   },
+   {
+    "quote": "近年、産業分野における金属積層造形は、試作にとどまらず、量産対応や高付加価値部品の製造へと用途を拡大しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000061.000027362.html",
+    "pass": 3
+   },
+   {
+    "quote": "UNITED MACHINING SOLUTIONSグループの一員であるIRPDは、主に自動車、航空宇宙関、切削工具メーカー向けに設計から後加工まで一貫したエンドツーエンドの生産ソリューションを提供しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000061.000027362.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、立花エレテックとも協業しているため、国内でのスペックイン活動及び、量産が海外の場合に輸出及びOUT-OUTでの対応が可能",
+    "url": "https://www.takagi-c.com/maker/beckhoff.html",
+    "pass": 3
+   },
+   {
+    "quote": "ベッコフの場合、半導体やその他電子部品の不足において特に顕著です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000027362.html",
+    "pass": 3
+   },
+   {
+    "quote": "より少ない原材料、より少ないエネルギーで製品を開発し、生産プロセスを自動化することが私たちの仕事です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000027362.html",
+    "pass": 3
+   },
+   {
+    "quote": "ベッコフのPC制御技術が支えるパワー半導体評価",
+    "url": "https://baseconnect.in/companies/a4a2b711-8bc4-4fbc-8350-a5c0b45d2c1d",
+    "pass": 3
+   },
+   {
+    "quote": "自動車部品や医療機器などの製造業向けに自動設備を設計・製造する会社",
+    "url": "https://baseconnect.in/companies/a4a2b711-8bc4-4fbc-8350-a5c0b45d2c1d",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ロボットや精密金型、CAD/CAMシステムなどを設計・製作・販売する会社",
+    "url": "https://baseconnect.in/companies/a4a2b711-8bc4-4fbc-8350-a5c0b45d2c1d",
+    "pass": 3
+   },
+   {
+    "quote": "自動化機械や自動車部品、半導体部品の設計・受託生産を行う会社",
+    "url": "https://baseconnect.in/companies/a4a2b711-8bc4-4fbc-8350-a5c0b45d2c1d",
+    "pass": 3
+   },
+   {
+    "quote": "精密機器、HDD、自動車、半導体産業用のロボットシステムや制御盤を設計・製造する会社",
+    "url": "https://baseconnect.in/companies/a4a2b711-8bc4-4fbc-8350-a5c0b45d2c1d",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ベッコフオートメーション 株式 会社 | 企業詳細 - FOOD TOWN — ベッコフオートメーション 株式 会社 | 企業詳細 - FOOD TOWN food-town.jp https://food-town.jp > customer > corporation > detail",
+    "url": "https://food-town.jp/customer/corporation/detail/m294/",
+    "pass": 3
+   },
+   {
+    "quote": "ベッコフオートメーション 2023年度も業績好調 - PR TIMES — ベッコフオートメーション 2023年度も業績好調 - PR TIMES PR TIMES https://prtimes.jp > 経営情報",
+    "url": "https://prtimes.jp/main/html/rd/p/000000035.000027362.html",
+    "pass": 3
+   },
+   {
+    "quote": "ベッコフオートメーション 株式 会社 - Compalyze — ベッコフオートメーション 株式 会社 - Compalyze Compalyze https://compalyze.co.jp > 企業検索 > 電気・電子機器",
+    "url": "https://compalyze.co.jp/company/1020001089922",
+    "pass": 3
+   },
+   {
+    "quote": "Beckhoff Automation K.K. / ベッコフオートメーション 株式 会社 — Beckhoff Automation K.K. / ベッコフオートメーション 株式 会社 AHK Japan https://japan.ahk.de > beckhoff-automation-k.k.",
+    "url": "https://japan.ahk.de/ja/membership/member-directory/beckhoff-automation-k.k.",
+    "pass": 3
+   },
+   {
+    "quote": "ベッコフオートメーション （Beckhoff Automation） — ベッコフオートメーション （Beckhoff Automation） タカギコネクト https://www.takagi-c.com > maker > beckhoff",
+    "url": "https://www.takagi-c.com/maker/beckhoff.html",
+    "pass": 3
+   },
+   {
+    "quote": "ベッコフオートメーション 株式 会社 とScramble Partner契約を ... — ベッコフオートメーション 株式 会社 とScramble Partner契約を ... 次世代ロボットエンジニア支援機構 https://scramble-robot.org > 2026/05/21",
+    "url": "https://scramble-robot.org/2026/05/21/1522/",
+    "pass": 3
+   },
+   {
+    "quote": "ベッコフオートメーション 、2025年度の世界売上高が12億 ... — ベッコフオートメーション 、2025年度の世界売上高が12億 ... PR TIMES https://prtimes.jp > 経営情報",
+    "url": "https://prtimes.jp/main/html/rd/p/000000065.000027362.html",
+    "pass": 3
+   },
+   {
+    "quote": "ベッコフオートメーション 、2021年過去最高の 売上高 を記録 — ベッコフオートメーション 、2021年過去最高の 売上高 を記録 PR TIMES https://prtimes.jp > 経営情報",
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000027362.html",
+    "pass": 3
+   },
+   {
+    "quote": "ベッコフオートメーション 株式会社 - 神奈川県・産業用 ... — ベッコフオートメーション 株式会社 - 神奈川県・産業用 ... Baseconnect https://baseconnect.in > companies",
+    "url": "https://baseconnect.in/companies/a4a2b711-8bc4-4fbc-8350-a5c0b45d2c1d",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "」は、レーザー粉末床溶融法（LPBF）を採用した装置である",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "pass": 3
+   },
+   {
+    "quote": "広い造形エリアに加え、4基の1,000Wファイバーレーザーを搭載し、多様な金属粉末材料に対応する構成となっている",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "pass": 3
+   },
+   {
+    "quote": "造形用コンテナと金属粉末供給用コンテナを自動で装置にドッキングすることで、段取り作業を標準化し、ダウンタイムを最小限に抑えている",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "pass": 3
+   },
+   {
+    "quote": "造形後に残った金属粉末は、密閉状態のまま回収され、不活性雰囲気下でふるい分けされた後、次回の粉末供給用コンテナへ再投入される",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "pass": 3
+   },
+   {
+    "quote": "水平軸が造形板上に金属粉末を敷き詰め、複数のレーザーが粉末層を溶融・結合する",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末を薄く敷き詰め、高出力レーザーで選択的に溶融・結合させることで、一層ずつ積み重ねて立体物を造形する金属3Dプリンターの代表的な方式",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "pass": 3
+   },
+   {
+    "quote": "BroseとCNPC Powder、自動車AMで循環型製造を推進！鋼材スクラップを金属粉末へ再資源化",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "pass": 3
+   },
+   {
+    "quote": "同社が開発した金属積層造形機「IMPACT 4530」は、レーザー粉末床溶融法（LPBF）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000061.000027362.html",
+    "pass": 3
+   },
+   {
+    "quote": "を採用し、広い造形エリアと4基の1,000Wファイバーレーザーを組み合わせることで、多種多様な金属粉末から高品質な部品を柔軟に製造します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000061.000027362.html",
+    "pass": 3
+   },
+   {
+    "quote": "造形用のコンテナと金属粉末供給用コンテナを自動で挿入・ドッキングすることで、セットアップ作業を標準化し、ダウンタイムを最小限にします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000061.000027362.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、造形用コンテナに残った金属粉末を取り出し、不活性環境下でふるいにかけ、次回の粉末供給用コンテナに搬送する再利用システムや、造形板の搬送ステーション、コンテナのハンドリングモジュールなど、各種のモジュールを組み合わせることで、生産工程全体の効率化を図っています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000061.000027362.html",
+    "pass": 3
+   },
+   {
+    "quote": "IMPACT 4530では、密閉状態の造形コンテナが機械にドッキングされると、即座に造形に適した環境が形成され、水平軸が造形板上に金属粉末の層を積み重ねていきます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000061.000027362.html",
+    "pass": 3
+   },
+   {
+    "quote": "これらの粉末層は複数のレーザーによって溶融され、目的の形状に積層されます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000061.000027362.html",
+    "pass": 3
+   },
+   {
+    "quote": "その後、造形板を数百分の1ミリ程度下げた後、新たに金属粉末を付け、造形が完了するまで同じ工程を繰り返します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000061.000027362.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属などの粉末材料を薄く敷き詰め、高出力レーザーを照射して溶融・結合させ、一層ずつ積み重ねて立体部品を造形する技術",
+    "url": "https://prtimes.jp/main/html/rd/p/000000061.000027362.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "2026年イベント情報｜ ベッコフオートメーション 株式会社 - note 2026年イベント情報｜ ベッコフオートメーション 株式会社 - note note https://note.com > ビジネス > マーケティング",
+    "url": "https://note.com/beckhoff_japan/n/n7080122febe6",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "2026年イベント情報｜ベッコフオートメーション株式会社",
+    "url": "https://note.com/beckhoff_japan/n/n7080122febe6",
+    "pass": 3
+   },
+   {
+    "quote": "国内外の主要展示会にて、ベッコフの最新技術をご体感ください！",
+    "url": "https://note.com/beckhoff_japan/n/n7080122febe6",
+    "pass": 3
+   },
+   {
+    "quote": "今年もベッコフオートメーションは国内外の主要な展示会に出展いたします。現時点で決定しているスケジュールを、各展示会の見どころとともに簡単にご紹介いたします。ぜひ皆様のカレンダーにご予定いただき、会場に足をお運びください！",
+    "url": "https://note.com/beckhoff_japan/n/n7080122febe6",
+    "pass": 3
+   },
+   {
+    "quote": "詳しい出展内容につきましては、随時アップデートのうえ、皆様にご案内いたします。",
+    "url": "https://note.com/beckhoff_japan/n/n7080122febe6",
+    "pass": 3
+   },
+   {
+    "quote": "🟥 Beckhoff Technology Day（名古屋）",
+    "url": "https://note.com/beckhoff_japan/n/n7080122febe6",
+    "pass": 3
+   },
+   {
+    "quote": "展示会とは一味違う、ベッコフ主催のプライベートイベントです。最新技術アップデートや専門エンジニアとの深いディスカッションが可能な場となっております。また、最新製品によるデモ展示も予定しております。ベッコフ製品をじっくり「触れる」距離感でご体感いただけます。",
+    "url": "https://note.com/beckhoff_japan/n/n7080122febe6",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.beckhoff.com/ja-jp/company/events-and-dates/beckhoff-technology-day-japan/",
+    "url": "https://note.com/beckhoff_japan/n/n7080122febe6",
+    "pass": 3
+   },
+   {
+    "quote": "Beckhoff Technology Day2025の様子",
+    "url": "https://note.com/beckhoff_japan/n/n7080122febe6",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "晋一良 春田 - ベッコフオートメーション - 営業担当者 | LinkedIn 晋一良 春田 - ベッコフオートメーション - 営業担当者 | LinkedIn LinkedIn https://jp.linkedin.com > 春田-晋一良-763690329",
+    "url": "https://jp.linkedin.com/in/%E6%98%A5%E7%94%B0-%E6%99%8B%E4%B8%80%E8%89%AF-763690329",
+    "pass": 3
+   },
+   {
+    "quote": "仲野 雄三 - ベッコフオートメーション 株式会社 - LinkedIn 仲野 雄三 - ベッコフオートメーション 株式会社 - LinkedIn LinkedIn https://jp.linkedin.com > 雄三-仲野-03b517318",
+    "url": "https://jp.linkedin.com/in/%E9%9B%84%E4%B8%89-%E4%BB%B2%E9%87%8E-03b517318",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.beckhoff.com/ja-jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://food-town.jp/customer/corporation/detail/m294/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000035.000027362.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsubishielectric.co.jp/fa/products/mecha/am/pr/zoukei/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubeni-idigio.com/insight-hub/metal3dprinter_desktopmetal_case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000061.000027362.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takagi-c.com/maker/beckhoff.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.beckhoff.com/ja-jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://scramble-robot.org/2026/05/21/1522/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.beckhoff.com/ja-jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000027362.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baseconnect.in/companies/a4a2b711-8bc4-4fbc-8350-a5c0b45d2c1d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/beckhoff_japan/n/n7080122febe6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E6%98%A5%E7%94%B0-%E6%99%8B%E4%B8%80%E8%89%AF-763690329",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E9%9B%84%E4%B8%89-%E4%BB%B2%E9%87%8E-03b517318",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ベッコフオートメーション",
+   "results": [
+    "https://www.beckhoff.com/ja-jp/",
+    "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%83%E3%82%B3%E3%83%95%E3%82%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+    "https://www.youtube.com/channel/UCTY5FPKcy2knot7JTjPsShA",
+    "https://www.takagi-c.com/maker/beckhoff.html",
+    "https://robotstart.info/article/2025/03/31/370963.html",
+    "https://compalyze.co.jp/company/1020001089922",
+    "https://ja.wikipedia.org/wiki/ベッコフオートメーション",
+    "https://www.beckhoff.com/ja-jp/company/",
+    "https://prtimes.jp/main/html/rd/p/000000075.000027362.html",
+    "https://prtimes.jp/main/html/rd/p/000000072.000027362.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "株式会社ベッコフオートメーション",
+   "results": [
+    "https://www.beckhoff.com/ja-jp/",
+    "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%83%E3%82%B3%E3%83%95%E3%82%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+    "https://www.youtube.com/channel/UCTY5FPKcy2knot7JTjPsShA",
+    "https://japan.ahk.de/ja/membership/member-directory/beckhoff-automation-k.k.",
+    "https://compalyze.co.jp/company/1020001089922",
+    "https://prtimes.jp/main/html/rd/p/000000065.000027362.html",
+    "https://ja.wikipedia.org/wiki/ベッコフオートメーション",
+    "https://www.beckhoff.com/ja-jp/company/",
+    "https://prtimes.jp/main/html/rd/p/000000075.000027362.html",
+    "https://prtimes.jp/main/html/rd/p/000000072.000027362.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "ベッコフオートメーション 株式会社",
+   "results": [
+    "https://www.beckhoff.com/ja-jp/",
+    "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%83%E3%82%B3%E3%83%95%E3%82%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+    "https://www.youtube.com/channel/UCTY5FPKcy2knot7JTjPsShA",
+    "https://japan.ahk.de/ja/membership/member-directory/beckhoff-automation-k.k.",
+    "https://compalyze.co.jp/company/1020001089922",
+    "https://www.takagi-c.com/maker/beckhoff.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 6
+  },
+  {
+   "query": "ベッコフオートメーション 会社概要 資本金 設立",
+   "results": [
+    "https://www.beckhoff.com/ja-jp/company/",
+    "https://food-town.jp/customer/corporation/detail/m294/",
+    "https://prtimes.jp/main/html/rd/p/000000035.000027362.html",
+    "https://compalyze.co.jp/company/1020001089922",
+    "https://japan.ahk.de/ja/membership/member-directory/beckhoff-automation-k.k.",
+    "https://salesnow.jp/db/companies/jcbcfdd656chfrnp",
+    "https://www.takagi-c.com/maker/beckhoff.html",
+    "https://clip-corporation.com/company-matching/company-details/?corporate_number=1020001089922&industry_classification_middle_number=60&industry_classification_minor_number=603&industry_classification_sub_number",
+    "https://www.automation-news.jp/2011/04/5426/",
+    "https://ja.wikipedia.org/wiki/ベッコフオートメーション"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "ベッコフオートメーション 金属3Dプリンタ 導入",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "https://www.mitsubishielectric.co.jp/fa/products/mecha/am/pr/zoukei/index.html",
+    "https://www.marubeni-idigio.com/insight-hub/metal3dprinter_desktopmetal_case/",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/00391/072600009/",
+    "https://jampt.jp/column/column_453/",
+    "https://www.youtube.com/watch?v=Ew517KG1bOI",
+    "https://www.technohands.co.jp/metal-3d-printing/",
+    "https://www.fuji-koushuha.co.jp/technology/metal-3dp",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://ja.wikipedia.org/wiki/ベッコフオートメーション"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ベッコフオートメーション 金属積層造形 設備",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "https://jampt.jp/equipment/",
+    "https://prtimes.jp/main/html/rd/p/000000061.000027362.html",
+    "https://ja.3dsystems.com/semiconductor",
+    "https://chuokatan.co.jp/products/3dp/",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://www.youtube.com/watch?v=sT3lR9R98hc",
+    "https://www.jfe-steel.co.jp/products/solution/metal-3d-printing/index.html",
+    "https://www.fitc.pref.fukuoka.jp/facility/setsubi/dep-list/meri/kinzoku-sekisou-zoukei.php",
+    "https://note.com/beckhoff_japan/n/n6aab4581daeb"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "ベッコフオートメーション 株主 出資 親会社",
+   "results": [
+    "https://www.takagi-c.com/maker/beckhoff.html",
+    "https://www.beckhoff.com/ja-jp/company/",
+    "https://scramble-robot.org/2026/05/21/1522/",
+    "https://nagoya-potential.jp/interview/016/",
+    "https://prtimes.jp/main/html/rd/p/000000065.000027362.html",
+    "https://www.youtube.com/watch?v=LpNkNuhkoQM",
+    "https://food-town.jp/customer/corporation/detail/m294/",
+    "https://robotstart.info/article/2025/03/31/370963.html",
+    "https://www.robot-digest.com/contents/?id=1742797697-320919"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "ベッコフオートメーション 売上高 従業員数",
+   "results": [
+    "https://www.beckhoff.com/ja-jp/company/",
+    "https://prtimes.jp/main/html/rd/p/000000013.000027362.html",
+    "https://baseconnect.in/companies/a4a2b711-8bc4-4fbc-8350-a5c0b45d2c1d",
+    "https://www.beckhoff.com/ja-jp/company/press/beckhoff-automation-records-a-successful-financial-year-for-2023-2024-04.html",
+    "https://ascii.jp/elem/000/004/302/4302121/",
+    "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%83%E3%82%B3%E3%83%95%E3%82%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+    "https://en-hyouban.com/company/10200233575/23/",
+    "https://prtimes.jp/main/html/rd/p/000000035.000027362.html",
+    "https://doda.jp/DodaFront/View/Company/j_id__10109159140/",
+    "https://ja.wikipedia.org/wiki/ベッコフオートメーション"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com ベッコフオートメーション",
+   "results": [
+    "https://note.com/beckhoff_japan/n/n86c4e563a8e0",
+    "https://note.com/beckhoff_japan/n/n7080122febe6",
+    "https://note.com/beckhoff_japan/n/n44e5c774fb52",
+    "https://note.com/beckhoff_japan/n/n2539a181d872",
+    "https://note.com/beckhoff_japan/n/ne7274e35f9e5",
+    "https://note.com/beckhoff_japan/n/n4940b5092d38",
+    "https://note.com/factoryscientist/n/n124b2d280eed",
+    "https://note.com/beckhoff_japan/n/n50300733f4da",
+    "https://note.com/kmoriyama/n/n78005deb1a16",
+    "https://note.com/thomasfa/n/nb0ab86d779ea"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:x.com ベッコフオートメーション",
+   "results": [
+    "https://x.com/MonodzukuriJP/status/2113187351023202421",
+    "https://x.com/kmoriyama/status/2118172218433900972",
+    "https://x.com/jspe_jp/status/2018134790873006388/photo/1",
+    "https://x.com/3threes2/status/1486355141490266112?ref_src=twsrc%5Etfw",
+    "https://x.com/MonodzukuriJP/status/1706250526126702950",
+    "https://x.com/toshimitsu",
+    "https://x.com/liversys",
+    "https://x.com/takodori/status/1432376856817197064",
+    "https://x.com/Scramble_JPN",
+    "https://x.com/hashtag/ベッコフオートメーション"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com ベッコフオートメーション",
+   "results": [
+    "https://www.linkedin.com/company/beckhoff-automation-k.k.",
+    "https://jp.linkedin.com/in/%E6%98%A5%E7%94%B0-%E6%99%8B%E4%B8%80%E8%89%AF-763690329",
+    "https://jp.linkedin.com/in/nakano-yuzo-553a21216",
+    "https://jp.linkedin.com/in/%E9%9B%84%E4%B8%89-%E4%BB%B2%E9%87%8E-03b517318",
+    "https://jp.linkedin.com/posts/beckhoff-automation-k.k._%E3%83%99%E3%83%83%E3%82%B3%E3%83%95-iifes2025-twincat-activity-7397046023816318976-EVuK",
+    "https://jp.linkedin.com/posts/beckhoff-automation-k.k._%E3%83%99%E3%83%83%E3%82%B3%E3%83%95%E3%82%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%A1%E3%82%AB%E3%83%88%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B32023mect2023%E3%81%AB%E5%87%BA%E5%B1%95-activity-7108309607931928576-Px8H",
+    "https://jp.linkedin.com/posts/beckhoff-automation-k.k._%E3%83%99%E3%83%83%E3%82%B3%E3%83%95-pc%E5%88%B6%E5%BE%A1-jimtof2026-activity-7521086627046416384-c6pa",
+    "https://www.linkedin.com/posts/beckhoff-automation-k.k._%E3%83%99%E3%83%83%E3%82%B3%E3%83%95-pc%E5%88%B6%E5%BE%A1-twincat3-activity-7104691354496069632-yzDI",
+    "https://jp.linkedin.com/posts/yukiko-omichi-a2bb961a3_%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E3%82%B7%E3%83%A3%E3%83%BC%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%81%AB%E6%9C%AC%E7%A4%BE%E3%82%92%E7%BD%AE%E3%81%8Feu-automation-%E3%81%A7%E3%81%AF-activity-6643070409078083584-5YYL",
+    "https://cr.linkedin.com/posts/kyamauchi1989_ロボットの部品をモジュール化it技術でも制御可能なロボットatroーベッコフオートメーション-activity-7033193601215959040-OrT9"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com ベッコフオートメーション",
+   "results": [
+    "https://www.facebook.com/Beckhoff.Automation.KK/",
+    "https://www.facebook.com/Beckhoff.Automation.KK/videos/%E3%83%99%E3%83%83%E3%82%B3%E3%83%95%E3%81%AE%E7%94%A3%E6%A5%AD%E7%94%A8pc%E3%81%AF1%E5%8F%B0%E3%81%A7%E5%A4%9A%E5%BD%A9%E3%81%AA%E6%A9%9F%E8%83%BD%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%81%93%E3%81%A1%E3%82%89%E3%81%AE%E3%83%87%E3%83%A2%E3%81%A7%E3%81%AF%E4%BB%A5%E4%B8%8B%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%8D%E3%83%B3%E3%83%88%E3%82%92%E5%85%A8%E3%81%A61%E5%8F%B0%E3%81%AEipc%E3%81%A7%E7%B5%B1%E5%90%88%E5%88%B6%E5%BE%A1%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E5%90%84%E3%82%B3%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%8D%E3%83%B3%E3%83%88%E3%81%AE%E9%81%A9%E5%88%87%E3%81%AA%E5%90%8C%E6%9C%9F%E5%88%B6%E5%BE%A1%E3%81%AB/7982937808456371/",
+    "https://www.facebook.com/Beckhoff.Automation.KK/videos/%E3%83%89%E3%82%A4%E3%83%84-ro-ber%E3%81%AF%E7%94%9F%E7%94%A3%E7%89%A9%E6%B5%81%E7%8F%BE%E5%A0%B4%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%82%AC%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AB%E3%83%99%E3%83%83%E3%82%B3%E3%83%95%E3%81%AE%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3%E5%BC%8F%E8%87%AA%E5%8B%95%E5%8C%96%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0mx-system%E3%82%92%E6%8E%A1%E7%94%A8%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%A9%9F%E6%A2%B0%E3%81%AE%E4%B8%8A%E9%83%A8%E6%A7%8B%E9%80%A0%E3%81%ABmx-/2006547676629386/",
+    "https://www.facebook.com/Beckhoff.Automation.KK/videos/%E3%83%99%E3%83%83%E3%82%B3%E3%83%95%E3%81%AEtwincat-machine-learning-creator%E3%81%AF%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E3%81%AE%E5%B0%82%E9%96%80%E7%9F%A5%E8%AD%98%E3%81%8C%E3%81%AA%E3%81%8F%E3%81%A6%E3%82%82%E5%88%B6%E5%BE%A1%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E8%87%AA%E8%BA%AB%E3%81%8Cai%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97plc%E3%81%AB%E7%9B%B4/1534372411464707/",
+    "https://www.facebook.com/Beckhoff.Automation.KK/posts/%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC%E3%83%A1%E3%83%83%E3%82%BB2025%E3%81%A7%E3%81%AFai%E3%82%92%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%81%AB%E7%9B%B4%E6%8E%A5%E7%B5%B1%E5%90%88%E3%81%99%E3%82%8B%E3%83%99%E3%83%83%E3%82%B3%E3%83%95%E3%81%AE%E6%9C%80%E6%96%B0%E6%8A%80%E8%A1%93%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8Bai%E3%81%AE%E5%B0%82%E9%96%80%E7%9F%A5%E8%AD%98%E3%81%8C%E3%81%AA%E3%81%8F%E3%81%A6%E3%82%82%E5%88%B6%E5%BE%A1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E4%B8%8A%E3%81%A7%E7%8B%AC%E8%87%AA%E3%81%AEai%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E9%96%8B%E7%99%BA%E6%9C%80%E9%81%A9%E5%8C%96%E9%81%8B%E7%94%A8%E3%81%A7/1168081118446790/",
+    "https://www.facebook.com/Beckhoff.Automation.KK/videos/jimtof2026-%E3%83%99%E3%83%83%E3%82%B3%E3%83%95%E3%83%96%E3%83%BC%E3%82%B9%E3%81%A7%E3%81%AF%E6%97%A2%E5%AD%98%E3%81%AE%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E3%81%AB%E5%A4%9A%E6%A7%98%E3%81%AA%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%92%E8%BF%BD%E5%8A%A0%E3%81%97%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC%E5%8A%A0%E5%B7%A5%E6%99%82%E3%81%AE%E5%88%87%E5%89%8A%E7%8A%B6%E6%85%8B%E3%82%92%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%81%8B%E3%81%A4%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%A0%E3%81%AB%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%99%E3%82%8B%E3%83%87%E3%83%A2%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%A6/1691904402307018/",
+    "https://www.facebook.com/Beckhoff.Automation.KK/posts/jimtof2026-%E3%83%99%E3%83%83%E3%82%B3%E3%83%95%E3%83%96%E3%83%BC%E3%82%B9%E3%81%A7%E3%81%AF%E6%97%A2%E5%AD%98%E3%81%AE%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E3%81%AB%E5%A4%9A%E6%A7%98%E3%81%AA%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%92%E8%BF%BD%E5%8A%A0%E3%81%97%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC%E5%8A%A0%E5%B7%A5%E6%99%82%E3%81%AE%E5%88%87%E5%89%8A%E7%8A%B6%E6%85%8B%E3%82%92%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%81%8B%E3%81%A4%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%A0%E3%81%AB%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%99%E3%82%8B%E3%83%87%E3%83%A2%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%A6/1653579519896945/",
+    "https://www.facebook.com/Beckhoff.Automation.KK/videos/%E7%8F%BE%E4%BB%A3%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%BF%83%E8%87%93%E9%83%A8%E3%81%A8%E3%82%82%E3%81%84%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%81%AE%E9%81%8B%E7%94%A8%E7%AE%A1%E7%90%86%E3%81%AB%E3%81%AF%E6%A7%98%E3%80%85%E3%81%AA%E8%AA%B2%E9%A1%8C%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%83%99%E3%83%83%E3%82%B3%E3%83%95%E3%81%AE%E8%87%AA%E5%8B%95%E5%8C%96%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AF%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%81%AE%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E5%8C%96%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%E3%81%AE%E6%9C%80%E9%81%A9/1482218699463264/",
+    "https://www.facebook.com/packagenavigation/posts/%E5%A4%A7%E9%98%AA%E9%96%A2%E8%A5%BF%E4%B8%87%E5%8D%9A%E3%81%AE%E9%87%8E%E5%A4%96%E6%B0%B4%E4%B8%8A%E3%82%B7%E3%83%A7%E3%83%BC%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%97%E3%81%9Fpc%E5%88%B6%E5%BE%A1%E3%83%99%E3%83%83%E3%82%B3%E3%83%95%E3%82%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E6%97%A5%E6%9C%AC%E5%9B%BD%E9%9A%9B%E5%8D%9A%E8%A6%A7%E4%BC%9A%E5%A4%A7%E9%98%AA%E9%96%A2%E8%A5%BF%E4%B8%87%E5%8D%9A%E3%81%AE%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%97%E3%83%A9%E3%82%B6%E3%81%A7%E4%B8%8A%E6%BC%94%E3%81%95%E3%82%8C%E3%81%9F%E3%83%9E%E3%83%AB%E3%83%81%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%B0%B4%E4%B8%8A%E3%82%B7%E3%83%A7%E3%83%BC%E3%82%A2%E3%82%AA%E3%81%A8%E5%A4%9C%E3%81%AE/1767237492071512/",
+    "https://www.facebook.com/ベッコフオートメーション株式会社-563514750362964/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ベッコフオートメーション note 社長",
+   "results": [
+    "https://note.com/beckhoff_japan/n/n86c4e563a8e0",
+    "https://note.com/factoryscientist/n/n124b2d280eed",
+    "https://note.com/beckhoff_japan/n/ne7274e35f9e5",
+    "https://www.cct-inc.co.jp/koto-online/archives/136",
+    "https://nagoya-potential.jp/interview/016/",
+    "https://www.beckhoff.com/ja-jp/company/",
+    "https://www.nikkei.com/article/DGKKZO74903300Y1A810C2TB2000/",
+    "https://diamond.jp/articles/-/81812"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "ベッコフオートメーション X 投稿",
+   "results": [
+    "https://www.beckhoff.com/ja-jp/products/automation/tabular-product-overview/",
+    "https://x.com/MonodzukuriJP/status/2113187351023202421",
+    "https://www.youtube.com/channel/UCTY5FPKcy2knot7JTjPsShA/videos",
+    "https://www.robot-digest.com/contents/?id=1728824332-151160",
+    "https://www.youtube.com/watch?v=29P7I2SSuS4",
+    "https://prtimes.jp/main/html/rd/p/000000064.000027362.html",
+    "https://www.automation-news.jp/2026/10/110112/",
+    "https://www.facebook.com/Beckhoff.Automation.KK/?locale=ja_JP",
+    "https://x.com/hashtag/ベッコフオートメーション",
+    "https://news.nicovideo.jp/watch/nw19877389"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部18頁・検索14回）",
+  "資本金": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部18頁・検索14回）",
+  "創業年度": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部18頁・検索14回）",
+  "従業員数": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部18頁・検索14回）",
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部18頁・検索14回）",
+  "株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部18頁・検索14回）",
+  "所在地": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部18頁・検索14回）",
+  "保有設備": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部18頁・検索14回）",
+  "資本金・株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部18頁・検索14回）"
+ }
+}

@@ -1,0 +1,870 @@
+{
+ "name": "Fraud0",
+ "aliases": [],
+ "context": "旧営業リスト｜Non-AUMS｜状態なし",
+ "researched_at": "2026-11-10T17:13:32.914265+00:00",
+ "official_url": "https://www.fraud0.com/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/fraud0-com-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$6,600,000",
+    "url": "https://prospeo.io/c/fraud0-com-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Sendlinger Straße 7 münchen, Munich, 80331, DE",
+    "url": "https://prospeo.io/c/fraud0-com-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2020",
+    "url": "https://prospeo.io/c/fraud0-com-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "100% Google-compliant refund process",
+    "url": "https://www.fraud0.com/",
+    "pass": 1
+   },
+   {
+    "quote": "fraud0 gave us actual evidence of invalid traffic and handled the heavy lifting on the claims process. We received 30x more refunds than before.",
+    "url": "https://www.fraud0.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Online Marketing",
+    "url": "https://www.fraud0.com/",
+    "pass": 1
+   },
+   {
+    "quote": "It was shocking to see that in some months up to 71% of our traffic came from bots. fraud0 helps us understand what is real and what is fake. It automatically claims refunds for us and helps protect our spend.",
+    "url": "https://www.fraud0.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Online-Marketing Manager",
+    "url": "https://www.fraud0.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We detect out-of-geo clicks and targeting errors and reclaim spend from misserved ads.",
+    "url": "https://www.fraud0.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent invalid activity pre-bill",
+    "url": "https://www.fraud0.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Am I a victim of advertising fraud?",
+    "url": "https://www.fraud0.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The answer is probably yes. We have seen everything from 1% – 100% fraudulent traffic. What we’ve never seen, however, is 0%. Even if you’ve been a victim of ad fraud before, it’s never too late to do something about it.",
+    "url": "https://www.fraud0.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect and uplift your clients’ marketing",
+    "url": "https://www.fraud0.com/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Exceed your clients’ expectations by protecting their budgets and improving results.",
+    "url": "https://www.fraud0.com/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Through smart insights and fraud prevention, you boost performance at scale.",
+    "url": "https://www.fraud0.com/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "See what top teams say after protecting their marketing with fraud0.",
+    "url": "https://www.fraud0.com/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "fraud0 detects the bots on our website and helps us to initiate appropriate measures.",
+    "url": "https://www.fraud0.com/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Online Marketing",
+    "url": "https://www.fraud0.com/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Easy to implement cybersecurity software. It helps us in keeping our sales funnel clean by flagging bot-generated leads and stops loading onsite tools.",
+    "url": "https://www.fraud0.com/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Protect your marketing from bots and invalid traffic",
+    "url": "https://www.fraud0.com/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Take back control over your marketing and data and try fraud0.",
+    "url": "https://www.fraud0.com/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Plans & Pricing - fraud0",
+    "url": "https://www.fraud0.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Plans scale with your monthly sessions. Sign up instantly or reach out for a tailored enterprise solution.",
+    "url": "https://www.fraud0.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Automated Google Ads refunds*",
+    "url": "https://www.fraud0.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Google, Meta & Microsoft Ads protection",
+    "url": "https://www.fraud0.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Cut wasted spend in programmatic",
+    "url": "https://www.fraud0.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Protect your marketing. Monitor the impact.",
+    "url": "https://www.fraud0.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor prevented fraud in real time.",
+    "url": "https://www.fraud0.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Start protecting today",
+    "url": "https://www.fraud0.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Start your free trial to detect invalid traffic on your site, pick a protection plan, and safeguard your marketing.",
+    "url": "https://www.fraud0.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "See what top teams say after protecting their marketing with fraud0.",
+    "url": "https://www.fraud0.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "fraud0 detects the bots on our website and helps us to initiate appropriate measures.",
+    "url": "https://www.fraud0.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Online Marketing",
+    "url": "https://www.fraud0.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Easy to implement cybersecurity software. It helps us in keeping our sales funnel clean by flagging bot-generated leads and stops loading onsite tools.",
+    "url": "https://www.fraud0.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Am I a victim of advertising fraud?",
+    "url": "https://www.fraud0.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The answer is probably yes. We have seen everything from 1% – 100% fraudulent traffic. What we’ve never seen, however, is 0%. Even if you’ve been a victim of ad fraud before, it’s never too late to do something about it.",
+    "url": "https://www.fraud0.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Is fraud0 GDPR-compliant?",
+    "url": "https://www.fraud0.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Protect your marketing from bots and invalid traffic",
+    "url": "https://www.fraud0.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Take back control over your marketing and data and try fraud0.",
+    "url": "https://www.fraud0.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Budget protected through mitigation",
+    "url": "https://www.fraud0.com/resources/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "\"It was shocking to see that in some months up to 71% of our traffic came from bots. fraud0 helps us understand what is real and what is fake. It automatically claims refunds for us and helps protect our spend.\"",
+    "url": "https://www.fraud0.com/resources/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Online-Marketing Manager @ BAUR-Gruppe",
+    "url": "https://www.fraud0.com/resources/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Online-Marketingmanager",
+    "url": "https://www.fraud0.com/resources/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“Advertisers and premium publishers are both being robbed. We have to join forces to fight fraudsters.”",
+    "url": "https://www.fraud0.com/resources/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Performance Marketing Manager",
+    "url": "https://www.fraud0.com/resources/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Online Marketing",
+    "url": "https://www.fraud0.com/resources/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“Easy to implement cybersecurity software. It helps us in keeping our sales funnel clean by flagging bot-generated leads and stops loading onsite tools.”",
+    "url": "https://www.fraud0.com/resources/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Digital Marketing Manager",
+    "url": "https://www.fraud0.com/resources/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Protect your marketing from bots and invalid traffic",
+    "url": "https://www.fraud0.com/resources/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Take back control over your marketing and data and try fraud0.",
+    "url": "https://www.fraud0.com/resources/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "fraud0 is a bot and ad-fraud detection platform that protects marketing spend and performance for companies of every size, from startups to global enterprises.",
+    "url": "https://www.fraud0.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Our mission is to protect businesses from the damaging effects of bot-generated activity such as fraudulent ad impressions, fake clicks, or skewed marketing statistics by providing advanced AI-powered bot detection solutions and optimizing marketing performance in real time.",
+    "url": "https://www.fraud0.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Bots are everywhere! They have infiltrated every corner of our digital experience. From fake reviews, fake accounts on Social Media, fake websites pushing hate speech and propaganda online or manipulating elections. What is real and what is fake has become very difficult to tell. We help companies deal with this.",
+    "url": "https://www.fraud0.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Up to 25% of your marketing budget is wasted on bots and invalid traffic. fraud0 helps you to detect and mitigate bots in real time. Optimize your advertising campaign by protecting your audience and make smarter data-driven decisions.",
+    "url": "https://prospeo.io/c/fraud0-com-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/fraud0-com-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Programming languages",
+    "url": "https://prospeo.io/c/fraud0-com-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "fraud0.com has approximately",
+    "url": "https://prospeo.io/c/fraud0-com-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/fraud0-com-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/fraud0-com-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/fraud0-com-revenue",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by leading brands and advertisers",
+    "url": "https://www.fraud0.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading brands and advertisers",
+    "url": "https://www.fraud0.com/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading brands and advertisers",
+    "url": "https://www.fraud0.com/resources/success-stories",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Become part of the team",
+    "url": "https://www.fraud0.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We are always looking for talented, ambitious people to join our team and become a part of our mission.",
+    "url": "https://www.fraud0.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "fraud0.com Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/fraud0-com-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "fraud0.com Revenue",
+    "url": "https://prospeo.io/c/fraud0-com-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At fraud0.com",
+    "url": "https://prospeo.io/c/fraud0-com-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/fraud0-com-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/fraud0-com-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/fraud0-com-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of fraud0.com?",
+    "url": "https://prospeo.io/c/fraud0-com-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "fraud0.com generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/fraud0-com-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/fraud0-com-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/fraud0-com-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does fraud0.com have?",
+    "url": "https://prospeo.io/c/fraud0-com-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/fraud0-com-revenue",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "エンタープライズ向けソリューション - fraud0 — Go-to-Marketを保護し、パフォーマンスを最大化。",
+    "url": "https://www.fraud0.com/jp/enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "無駄な広告費を削減する - fraud0 — 返金はいつ頃から反映されますか？ 導入の流れを教えてください。 払い過ぎた広告費を取り戻しませんか？ 登録して設定するだけで、あとはAIアシスタントが自動でアドフラウド (不正な広告トラフィック)を遮断し、過払いした広告を返金請求します。",
+    "url": "https://www.fraud0.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "fraud0.com Revenue, Funding & Valuation - prospeo.io — fraud0.com has revenue of $2,224,430, estimated valuation of $7,200,000, $6,600,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/fraud0-com-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "fraud0 2026 Company Profile: Valuation, Funding & Investors ...fraud0 - 2025 Company Profile, Team, Funding, Competitors ...Inside Messy, Fast-Growing Mercor, Run By Youngest-Ever Self ...Founded Revenue, Funding & Valuation - prospeo.ioFraud.net – Revenue, Valuation & Top Competitors – 2026Fraud.net 2026 Company Profile: Valuation, Funding ... — Information on valuation, funding, cap tables, inve",
+    "url": "https://pitchbook.com/profiles/company/497236-60",
+    "pass": 3
+   },
+   {
+    "quote": "fraud0 - 2025 Company Profile, Team, Funding, Competitors ... — Sep 2, 2025 · fraud0 is a series A company based in Munich (Germany), founded in 2020 by Tilman Andreas Pfeiffer. It operates as a Cloud based ad fraud detection software. fraud0 has raised $6.5M in funding from Signals Venture Capital.",
+    "url": "https://tracxn.com/d/companies/fraud0/__sJ2oinkWwfLBDF7QXK5X6XCGCIE8dDuKkUH3ZGa5v94",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/fraud0-com-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "fraud0.com (@Fraud0C) / Posts / X fraud0.com (@Fraud0C) - Posts - Fake and low-quality traffic eat up to 16% of your ad budgets. We exclude this unwanted traffic from... | X (formerly Twitter)",
+    "url": "https://x.com/fraud0c",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "fraud0.com - LinkedIn Say Goodbye to Wasted Ad Spend | Up to 25% of your marketing budget is wasted on bots and invalid traffic. fraud0 helps you to detect and mitigate bots in real time.",
+    "url": "https://www.linkedin.com/company/fraud0",
+    "pass": 3
+   },
+   {
+    "quote": "fraud0.com - LinkedIn fraud0.com Bot Detection and Mitigation Software by fraud0.com See who's skilled in this Add as skill Learn more",
+    "url": "https://www.linkedin.com/products/fraud0-com/",
+    "pass": 3
+   },
+   {
+    "quote": "Stefan Koshiw – fraud0.com | LinkedInDominik Johnson – fraud0 GmbH | LinkedInInternal Fraud Combating and MIS Officer في بنك التعمير ...fraud0's AI Agent for Google Ads refunds | fraud0.com - LinkedIn#ai #partnershippowerhouse | fraud0.com | 31 comments Info CTO at Fraud0, catching the bot networks behind ad fraud. Before that: eight years… · Berufserfahrung: fraud0 GmbH · Ausbildung: TSLw · Ort: ",
+    "url": "https://de.linkedin.com/in/stefan-koshiw",
+    "pass": 3
+   },
+   {
+    "quote": "Dominik Johnson – fraud0 GmbH | LinkedInInternal Fraud Combating and MIS Officer في بنك التعمير ...fraud0's AI Agent for Google Ads refunds | fraud0.com - LinkedIn#ai #partnershippowerhouse | fraud0.com | 31 comments · Berufserfahrung: fraud0 GmbH · Ausbildung: TSLw · Ort: Augsburg · 500+ Kontakte auf LinkedIn. Sehen Sie sich das Profil von Dominik Johnson Dominik Johnson auf LinkedIn, einer... 2 ",
+    "url": "https://de.linkedin.com/in/dominikjohnson",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "fraud0 | Munich - Facebook fraud0, Munich. 8 followers. Protect your marketing & analytics from invalid traffic. Bots and invalid traffic waste billions in ad spend every year....",
+    "url": "https://www.facebook.com/p/fraud0-61569498481243/",
+    "pass": 3
+   },
+   {
+    "quote": "Munich Startup - Das Cybersecurity-Startup Fraud0.com... Das Cybersecurity-Startup Fraud0.com erhält sechs Millionen Euro https://www.munich-startup.de/93960/fraud0com-erhalt-sechs-millionen-euro-finanzierung/",
+    "url": "https://www.facebook.com/munichstartup/posts/das-cybersecurity-startup-fraud0com-erhält-sechs-millionen-euro-httpswwwmunich-s/795963782533435/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.fraud0.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fraud0.com/agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fraud0.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fraud0.com/resources/success-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fraud0.com/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://framerusercontent.com/images/g7qqJnBFT3JAETlJq9pVbDTqMSU.png?width=704&height=456",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://framerusercontent.com/images/NztYvUO6uCXf3WGILg8qqNtbM.png?width=832&height=530",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://framerusercontent.com/images/OoUhgOW3jZmgYnI6k5qpkMM.png?width=832&height=530",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://framerusercontent.com/images/IuaGx3nPeOXLOgoS43cvlKnFis.jpeg?width=800&height=800",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.deloitte.com/jp/ja/services/consulting/research/fraud-survey.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dreamnews.jp/press/0000346916",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j-dma.org/trouble",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.yahoo.co.jp/articles/294ea11819f4e13b3b70b4522123debcbec83f8b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fraudnavi.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.edogawa.tokyo.jp/shouhisya_center/keihatsu/0205netitiran3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanantifraud.org/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gacs.app/report-scam/jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanantifraud.org/report-a-fraud-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://realgaijin.substack.com/p/japans-324-billion-yen-us-21-billion",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sikich.com/insight/fraud-in-manufacturing-case-study-prevention-checklist/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://antifraudcollaboration.org/hollate-manufacturing-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://voxwel.com/blogs/case-study-manufacturing-fraud-detection",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/fraud0-com-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/497236-60",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/fraud0/__sJ2oinkWwfLBDF7QXK5X6XCGCIE8dDuKkUH3ZGa5v94",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://prospeo.io/c/founded-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/fraud0c",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/fraud0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/fraud0-com/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/stefan-koshiw",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/dominikjohnson",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/fraud0-61569498481243/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/munichstartup/posts/das-cybersecurity-startup-fraud0com-erhält-sechs-millionen-euro-httpswwwmunich-s/795963782533435/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fraud0c",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Fraud0 日本 導入",
+   "results": [
+    "https://www.fraud0.com/jp/enterprise",
+    "https://www.fraud0.com/jp/",
+    "https://www.deloitte.com/jp/ja/services/consulting/research/fraud-survey.html",
+    "https://www.dreamnews.jp/press/0000346916",
+    "https://caulis.jp/case/seven-bank-2026/",
+    "https://prtimes.jp/main/html/rd/p/000000014.000102795.html",
+    "https://www.deloitte.com/jp/ja/about/press-room/nr20260929-2.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fraud0 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://j-dma.org/trouble",
+    "https://news.yahoo.co.jp/articles/294ea11819f4e13b3b70b4522123debcbec83f8b",
+    "https://www.fraudnavi.com/",
+    "https://www.city.edogawa.tokyo.jp/shouhisya_center/keihatsu/0205netitiran3.html",
+    "https://www.aflac.co.jp/info/financial_crime.html",
+    "https://www.aon.com/japan/company-overview",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Fraud0 Japan",
+   "results": [
+    "https://japanantifraud.org/",
+    "https://gacs.app/report-scam/jp",
+    "https://japanantifraud.org/report-a-fraud-in-japan/",
+    "https://realgaijin.substack.com/p/japans-324-billion-yen-us-21-billion",
+    "https://www.saferinternetlab.org/wp-content/uploads/2025/06/Research-Report-A4_Fraud-Japan.pdf",
+    "https://www.japantimes.co.jp/news/2026/11/05/japan/crime-legal/police-scam-account-data-network/",
+    "https://www.japantimes.co.jp/news/2026/04/07/japan/crime-legal/japan-special-fraud-case/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fraud0 manufacturing customer case study",
+   "results": [
+    "https://www.sikich.com/insight/fraud-in-manufacturing-case-study-prevention-checklist/",
+    "https://antifraudcollaboration.org/hollate-manufacturing-case-study/",
+    "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "https://voxwel.com/blogs/case-study-manufacturing-fraud-detection",
+    "https://studylib.net/doc/28720609/case-study-same",
+    "https://antifraudcollaboration.org/case-studies/",
+    "https://nasba.org/app/uploads/2011/01/Hollate_Manufacturing_Case_Study.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fraud0 white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Fraud0 founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/fraud0-com-revenue",
+    "https://pitchbook.com/profiles/company/497236-60",
+    "https://tracxn.com/d/companies/fraud0/__sJ2oinkWwfLBDF7QXK5X6XCGCIE8dDuKkUH3ZGa5v94",
+    "https://prospeo.io/c/founded-revenue",
+    "https://compworth.com/company/fraud-net",
+    "https://pitchbook.com/profiles/company/222459-94",
+    "https://www.forbes.com/sites/rashishrivastava/2026/04/15/mercors-23-year-old-billionaire-founders-grapple-with-employee-fraud-and-north-korean-infiltration/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Fraud0",
+   "results": [
+    "https://note.com/zz08/n/n00686a5a4760?hl=en",
+    "https://note.com/eager_tiger5557",
+    "https://note.com/coin_otaku/n/n22c0f656614c?hl=en",
+    "https://note.com/pdnob_japan/n/n8a9700e8e961?hl=en",
+    "https://note.com/hyc_overcome/n/nbc2d666a20da?hl=en",
+    "https://note.com/maxmatsuura/n/n04f20fbdce8e",
+    "https://note.com/toiflect/n/n7d0961e79ba0?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Fraud0",
+   "results": [
+    "https://x.com/fraud0c",
+    "https://x.com/SpecialReport/status/2110494085555319222",
+    "https://x.com/DOJFraudDiv",
+    "https://x.com/i/trending/2119893387973214220",
+    "https://x.com/reportfrauduk",
+    "https://x.com/WHFraudTF",
+    "https://x.com/DOJFraudDiv/status/2103170141508792424"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Fraud0",
+   "results": [
+    "https://www.linkedin.com/company/fraud0",
+    "https://www.linkedin.com/products/fraud0-com/",
+    "https://de.linkedin.com/in/stefan-koshiw",
+    "https://de.linkedin.com/in/dominikjohnson",
+    "https://eg.linkedin.com/jobs/view/internal-fraud-combating-and-mis-officer-at-بنك-التعمير-والإسكان-hd-bank-4488784427",
+    "https://www.linkedin.com/posts/fraud0_ai-partnershippowerhouse-activity-7102632861572165634-IilE",
+    "https://www.linkedin.com/posts/fraud0_fraud0s-ai-agent-for-google-ads-refunds-activity-7455228712406478848-xi1l"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Fraud0",
+   "results": [
+    "https://www.facebook.com/p/fraud0-61569498481243/",
+    "https://apps.facebook.com/help/122006714548814/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/munichstartup/posts/das-cybersecurity-startup-fraud0com-erhält-sechs-millionen-euro-httpswwwmunich-s/795963782533435/",
+    "https://www.facebook.com/deutschestartups/posts/-dealmonitor-fraud0-sammelt-6-millionen-ein-ubs-growth-advisory-investiert-in-sm/790365939756742/",
+    "https://www.facebook.com/profile.php/?id=61583830453710",
+    "https://www.facebook.com/aarpfraudwatchnetwork/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fraud0 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.com/mashitaka_sekki/n/nf67d1509d8f7",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/mikiyaku824/n/n11b9b14aedf5",
+    "https://note.jp/n/n763143c2bdd8",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://rocket-boys.co.jp/security-measures-lab/business-chat-fraud-and-bec-1-5b-yen-loss-summary/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fraud0 X 投稿",
+   "results": [
+    "https://x.com/fraud0c",
+    "https://www.fraud0.com/",
+    "https://www.fraud0.com/jp/",
+    "https://x.com/fraud_eradicati",
+    "https://help.x.com/ja/safety-and-security/report-abusive-behavior",
+    "https://news.yahoo.co.jp/articles/8ce9406d33c1e186542cecc9b488d860aaec36c4",
+    "https://www.news-postseven.com/archives/20260803_2123558.html/2"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像4件／外部26頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像4件／外部26頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式5頁／PDF・画像4件／外部26頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式5頁／PDF・画像4件／外部26頁・検索12回）"
+ }
+}

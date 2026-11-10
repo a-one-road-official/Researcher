@@ -1,0 +1,1734 @@
+{
+ "name": "Everafter",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜リマイン1",
+ "researched_at": "2026-11-10T17:34:01.803355+00:00",
+ "official_url": "https://www.everafter.ai/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "3. Seed Round",
+    "value": "14-Sep-2021    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/458296-39",
+    "pass": 3
+   },
+   {
+    "label": "1. Seed Round",
+    "value": "01-Jan-2020    Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/458296-39",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "AI Studio builds it from your data and your brand. AI Agents act on every signal. AI Experts answer any question, any hour. One branded interface per account for onboarding, adoption, QBRs and renewals, with or without a CSM.",
+    "url": "https://www.everafter.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "digital onboarding and customer experiences.",
+    "url": "https://www.everafter.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "In just the onboarding phase, we've already",
+    "url": "https://www.everafter.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our latest marketing campaign has boosted customer engagement by over 50% on social platforms.",
+    "url": "https://www.everafter.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers now complete onboarding modules in",
+    "url": "https://www.everafter.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Onboarding that personalizes itself per account. Goals captured from the customer, tasks that check themselves off, and progress both sides can see without booking a call. ZoomInfo cut the time from contract to kickoff in half. Vidyard went from about two months to about one week.",
+    "url": "https://www.everafter.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Boost customer retention",
+    "url": "https://www.everafter.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Success plans that update themselves from live product usage, so every customer sees what to do next. Okta ran them across accounts with no CSM coverage and tripled adoption of a target feature in a single week.",
+    "url": "https://www.everafter.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate Partner Success With Efficient Onboarding | EverAfter",
+    "url": "https://www.everafter.ai/solution/partner-success",
+    "pass": 1
+   },
+   {
+    "quote": "Boost customer retention",
+    "url": "https://www.everafter.ai/solution/partner-success",
+    "pass": 1
+   },
+   {
+    "quote": "High-Touch Onboarding",
+    "url": "https://www.everafter.ai/solution/partner-success",
+    "pass": 1
+   },
+   {
+    "quote": "Digital-Touch Onboarding",
+    "url": "https://www.everafter.ai/solution/partner-success",
+    "pass": 1
+   },
+   {
+    "quote": "Run customer onboarding",
+    "url": "https://www.everafter.ai/solution/partner-success",
+    "pass": 1
+   },
+   {
+    "quote": "Guide customer onboarding to success",
+    "url": "https://www.everafter.ai/solution/partner-success",
+    "pass": 1
+   },
+   {
+    "quote": "Execute scaled CS program",
+    "url": "https://www.everafter.ai/solution/partner-success",
+    "pass": 1
+   },
+   {
+    "quote": "Personalized low-touch onboarding",
+    "url": "https://www.everafter.ai/solution/partner-success",
+    "pass": 1
+   },
+   {
+    "quote": "Host customer marketing content",
+    "url": "https://www.everafter.ai/solution/partner-success",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate partner success with efficient onboarding",
+    "url": "https://www.everafter.ai/solution/partner-success",
+    "pass": 1
+   },
+   {
+    "quote": "The success of your partners is integral to your business growth. EverAfter's onboarding hub is designed to optimize this crucial phase, ensuring your partners are well-trained, fully informed, and ready to succeed.",
+    "url": "https://www.everafter.ai/solution/partner-success",
+    "pass": 1
+   },
+   {
+    "quote": "Manage partner qualification and requirements seamlessly using pre-onboarding partner interface.",
+    "url": "https://www.everafter.ai/solution/partner-success",
+    "pass": 1
+   },
+   {
+    "quote": "Provide partners with all necessary information and resources for a comprehensive understanding of your processes.",
+    "url": "https://www.everafter.ai/solution/partner-success",
+    "pass": 1
+   },
+   {
+    "quote": "Enable partners to easily submit required documents like NDAs, ensuring a secure and efficient onboarding experience.",
+    "url": "https://www.everafter.ai/solution/partner-success",
+    "pass": 1
+   },
+   {
+    "quote": "Send referrals directly to the CRM, enhancing partners' contribution to sales pipelines and streamlining the referral process.",
+    "url": "https://www.everafter.ai/solution/partner-success",
+    "pass": 1
+   },
+   {
+    "quote": "Discover real-time progress of the pipeline created by partners, enabling proactive adjustments.",
+    "url": "https://www.everafter.ai/solution/partner-success",
+    "pass": 1
+   },
+   {
+    "quote": "Distribute comprehensive sales collateral to partners, enabling them to effectively communicate your value proposition.",
+    "url": "https://www.everafter.ai/solution/partner-success",
+    "pass": 1
+   },
+   {
+    "quote": "EverAfter’s visibility rules bring a new level of personalization to your partner interface. Create unique content sections for different partner personas, such as implementors, resellers and referrals, and provide an intuitive interface for seamless account navigation, enriching the partner experience.",
+    "url": "https://www.everafter.ai/solution/partner-success",
+    "pass": 1
+   },
+   {
+    "quote": "Privacy Preference Center",
+    "url": "https://www.everafter.ai/solution/partner-success",
+    "pass": 1
+   },
+   {
+    "quote": "Manage Consent Preferences by Category",
+    "url": "https://www.everafter.ai/solution/partner-success",
+    "pass": 1
+   },
+   {
+    "quote": "These items are used to deliver advertising that is more relevant to you and your interests. They may also be used to limit the number of times you see an advertisement and measure the effectiveness of advertising campaigns. Advertising networks usually place them with the website operator’s permission.",
+    "url": "https://www.everafter.ai/solution/partner-success",
+    "pass": 1
+   },
+   {
+    "quote": "These items allow the website to remember choices you make (such as your user name, language, or the region you are in) and provide enhanced, more personal features. For example, a website may provide you with local weather reports or traffic news by storing data about your current location.",
+    "url": "https://www.everafter.ai/solution/partner-success",
+    "pass": 1
+   },
+   {
+    "quote": "Confirm my preferences and close",
+    "url": "https://www.everafter.ai/solution/partner-success",
+    "pass": 1
+   },
+   {
+    "quote": "Boost customer retention",
+    "url": "https://www.everafter.ai/solution/partners",
+    "pass": 1
+   },
+   {
+    "quote": "High-Touch Onboarding",
+    "url": "https://www.everafter.ai/solution/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Digital-Touch Onboarding",
+    "url": "https://www.everafter.ai/solution/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Run customer onboarding",
+    "url": "https://www.everafter.ai/solution/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Guide customer onboarding to success",
+    "url": "https://www.everafter.ai/solution/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Execute scaled CS program",
+    "url": "https://www.everafter.ai/solution/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Personalized low-touch onboarding",
+    "url": "https://www.everafter.ai/solution/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Host customer marketing content",
+    "url": "https://www.everafter.ai/solution/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Programs Delivered with a B2B Partner Interface",
+    "url": "https://www.everafter.ai/solution/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Streamline the process of assessing and admitting new partners into your ecosystem, ensuring they meet your business standards and criteria.",
+    "url": "https://www.everafter.ai/solution/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Facilitate a smooth transition for new partners with structured training sessions, resource allocations, and initial support to help them get up to speed quickly.",
+    "url": "https://www.everafter.ai/solution/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Enhance partner skills and knowledge through targeted training programs and partner marketing assets that enable them to effectively sell and support your products.",
+    "url": "https://www.everafter.ai/solution/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Allow partners to register deals and track their progress, synced seamlessly with your CRM ensuring data heygen and robust automation.",
+    "url": "https://www.everafter.ai/solution/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Streamlined Partner Onboarding: Fast-Track Success",
+    "url": "https://www.everafter.ai/solution/partners",
+    "pass": 1
+   },
+   {
+    "quote": "The success of your partners is integral to your business growth. EverAfter's onboarding interface is designed to optimize this crucial phase, ensuring your partners are well-trained, fully informed, and ready to succeed.",
+    "url": "https://www.everafter.ai/solution/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Manage partner qualification and requirements seamlessly using pre-onboarding Partner Interface.",
+    "url": "https://www.everafter.ai/solution/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Provide partners with all necessary information and resources for a comprehensive understanding of your processes ond offerings.",
+    "url": "https://www.everafter.ai/solution/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Enable partners to easily submit required documents like NDAs, ensuring a secure and efficient onboarding experience.",
+    "url": "https://www.everafter.ai/solution/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Send referrals directly to the CRM, enhancing partners' contribution to sales pipelines and streamlining the referral process.",
+    "url": "https://www.everafter.ai/solution/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Visualize real-time progress of the pipeline created by partners, enabling proactive adjustments.",
+    "url": "https://www.everafter.ai/solution/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Distribute comprehensive sales collateral to partners, enabling them to effectively communicate your value proposition.",
+    "url": "https://www.everafter.ai/solution/partners",
+    "pass": 1
+   },
+   {
+    "quote": "EverAfter’s powerful platform brings a new level of personalization to your partner interface. Create unique content sections for different partner personas, such as implementers, resellers and referrals, and provide an intuitive interface for seamless account navigation, enriching the partner experience.",
+    "url": "https://www.everafter.ai/solution/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Adjust content and tools dynamically based on partner feedback and performance metrics, ensuring that each partner has the tools they need to succeed.",
+    "url": "https://www.everafter.ai/solution/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Use EverAfter rules and journeys to curate the content and experience for each partner.",
+    "url": "https://www.everafter.ai/solution/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Efficiently manage and iterate your partner programs with EverAfter's versatile management tools.",
+    "url": "https://www.everafter.ai/solution/partners",
+    "pass": 1
+   },
+   {
+    "quote": "See how SaaS leaders use EverAfter's B2B Interface Platform to engage their partners, prospects, and customers and exceed business outcomes",
+    "url": "https://www.everafter.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Digital CS & AI Programs",
+    "url": "https://www.everafter.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "ZoomInfo Scales SMB Onboarding with EverAfter’s Digital Journey",
+    "url": "https://www.everafter.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Salesloft Achieves Exceptional Onboarding Metrics With EverAfter",
+    "url": "https://www.everafter.ai/customers",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "AI Studio builds it from your data and your brand. AI Agents act on every signal. AI Experts answer any question, any hour. One branded interface per account for onboarding, adoption, QBRs and renewals, with or without a CSM.",
+    "url": "https://www.everafter.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "EverAfter’s visibility rules bring a new level of personalization to your partner interface. Create unique content sections for different partner personas, such as implementors, resellers and referrals, and provide an intuitive interface for seamless account navigation, enriching the partner experience.",
+    "url": "https://www.everafter.ai/solution/partner-success",
+    "pass": 1
+   },
+   {
+    "quote": "EverAfter’s powerful platform brings a new level of personalization to your partner interface. Create unique content sections for different partner personas, such as implementers, resellers and referrals, and provide an intuitive interface for seamless account navigation, enriching the partner experience.",
+    "url": "https://www.everafter.ai/solution/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Efficiently manage and iterate your partner programs with EverAfter's versatile management tools.",
+    "url": "https://www.everafter.ai/solution/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Drag-n-drop customer success widgets to design beautiful white-labeled customer interfaces.",
+    "url": "https://www.everafter.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Fully white-labeled solution",
+    "url": "https://www.everafter.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The B2B interface can live inside your app and completely match your brand",
+    "url": "https://www.everafter.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Learn from the experts: Plan an Effective Partner Program for 2025 - From qualification to revenue.",
+    "url": "https://www.everafter.ai/learn-category/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "The event partner program was growing, but the operations model was not scalable.",
+    "url": "https://www.everafter.ai/customer/everafter-tsia-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "“We felt confident we could learn EverAfter easily, sustain it, and build really great customer experiences, while keeping our Salesforce integration intact.” Other must-haves, like clean single sign-on embed, white-labeled experience, and Pendo pop-ups within the ZoomInfo platform, made EverAfter the ideal fit.",
+    "url": "https://www.everafter.ai/customer/everafter-zoominfo-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "“We’ve spent years optimizing our Salesforce backbone. We wanted a professional, white-labeled layer that could bring that data to life for customers, no-code & seamless.”",
+    "url": "https://www.everafter.ai/customer/everafter-zoominfo-case-study",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "so the signal arrives and nothing ever reaches the customer.",
+    "url": "https://www.everafter.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Grow account’s revenue",
+    "url": "https://www.everafter.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Grow accounts’ revenue",
+    "url": "https://www.everafter.ai/solution/partner-success",
+    "pass": 1
+   },
+   {
+    "quote": "Grow revenue from your existing accounts",
+    "url": "https://www.everafter.ai/solution/partner-success",
+    "pass": 1
+   },
+   {
+    "quote": "Grow accounts’ revenue",
+    "url": "https://www.everafter.ai/solution/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Grow revenue from your existing accounts",
+    "url": "https://www.everafter.ai/solution/partners",
+    "pass": 1
+   },
+   {
+    "quote": "qualification to revenue.",
+    "url": "https://www.everafter.ai/solution/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Revenue Operations",
+    "url": "https://www.everafter.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Head or Revenue Operations",
+    "url": "https://www.everafter.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Grow accounts’ revenue",
+    "url": "https://www.everafter.ai/learn-category/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Grow revenue from your existing accounts",
+    "url": "https://www.everafter.ai/learn-category/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Learn from the experts: Plan an Effective Partner Program for 2025 - From qualification to revenue.",
+    "url": "https://www.everafter.ai/learn-category/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "2024 Roadmap to Boosting Revenue from Existing Customers",
+    "url": "https://www.everafter.ai/learn-category/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How to grow revenue from your scale CS accounts",
+    "url": "https://www.everafter.ai/learn-category/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Grow accounts’ revenue",
+    "url": "https://www.everafter.ai/solution/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Grow revenue from your existing accounts",
+    "url": "https://www.everafter.ai/solution/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Grow accounts’ revenue",
+    "url": "https://www.everafter.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Grow revenue from your existing accounts",
+    "url": "https://www.everafter.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "QBR hubs automatically pull and unify customer data, deliver consistent insights across all accounts, and provide an always-on experience customers can revisit anytime—eliminating manual work and removing the biggest barrier to scale.",
+    "url": "https://www.everafter.ai/customer/everafter-vidyard-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Vidyard is now focused on scaling this model to drive Net Revenue Retention (NRR). By connecting onboarding, QBRs, and renewal into a single system, the team is building a scalable engine for:",
+    "url": "https://www.everafter.ai/customer/everafter-vidyard-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Leverage EverAfter to create a self-serve hub for your low-ARR customers - Just like Gong!",
+    "url": "https://www.everafter.ai/customer/everafter-vidyard-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Before EverAfter, every part of the partner journey ran through Chelsea’s inbox:",
+    "url": "https://www.everafter.ai/customer/everafter-tsia-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "“They feel empowered to take control of their own journey… and we can focus more on the strategic part of the relationship instead of answering everyday logistical questions.”",
+    "url": "https://www.everafter.ai/customer/everafter-tsia-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Leverage EverAfter to create a self-serve hub for your low-ARR customers - Just like Gong!",
+    "url": "https://www.everafter.ai/customer/everafter-tsia-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "ZoomInfo, a global leader in go-to-market intelligence, helps revenue teams connect with ideal buyers through actionable data. With thousands of customers across every segment, its Customer Experience Operations team is focused on a key mission: accelerating time-to-value while preserving the quality and consistency of every onboarding experience.",
+    "url": "https://www.everafter.ai/customer/everafter-zoominfo-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Leverage EverAfter to create a self-serve hub for your low-ARR customers - Just like Gong!",
+    "url": "https://www.everafter.ai/customer/everafter-zoominfo-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "have become a core part of this model. Each customer begins by defining their goals inside the interface. EverAfter then builds a tailored success strategy that includes curated learning paths, knowledge base articles, and other enablement resources aligned with each customer’s objectives.",
+    "url": "https://www.everafter.ai/customer/everafter-salesloft-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Managed customers who work with a CSM use the same interface to stay aligned between touchpoints. Dashboards and exports keep both sides informed, reducing time spent preparing for meetings. While Success Plans are not yet in use for managed accounts, the team is exploring how to introduce them in the future as part of a broader alignment initiative.",
+    "url": "https://www.everafter.ai/customer/everafter-salesloft-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Leverage EverAfter to create a self-serve hub for your low-ARR customers - Just like Gong!",
+    "url": "https://www.everafter.ai/customer/everafter-salesloft-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Spotnana delivers comprehensive corporate business travel management through a robust online booking platform, focusing heavily on simplifying travel arrangements for large enterprises and their multiple-account partners.",
+    "url": "https://www.everafter.ai/customer/everafter-spotnana-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "\"Our larger strategic vision that we're enacting, and EverAfter is a critical part of that.\"",
+    "url": "https://www.everafter.ai/customer/everafter-spotnana-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Leverage EverAfter to create a self-serve hub for your low-ARR customers - Just like Gong!",
+    "url": "https://www.everafter.ai/customer/everafter-spotnana-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Grow accounts’ revenue",
+    "url": "https://www.everafter.ai/webinar/creating-autonomous-customers-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Grow revenue from your existing accounts",
+    "url": "https://www.everafter.ai/webinar/creating-autonomous-customers-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "to the woman of his choosing at midnight or else Francis will announce his marriage to Gabriella. Rodmilla accelerates her efforts at getting Henry to notice Marguerite, while being neglectful to Jacqueline. Meanwhile, Danielle begins secretly spending time with Henry. After an outing at the library of the",
+    "url": "https://en.wikipedia.org/wiki/Ever_After",
+    "pass": 3
+   },
+   {
+    "quote": ", a gang of gypsies ambushes them, but they offer to help them when Danielle bids the leader and attempts to carry Henry away. At the gypsy camp, they share their first kiss.",
+    "url": "https://en.wikipedia.org/wiki/Ever_After",
+    "pass": 3
+   },
+   {
+    "quote": "Barrymore described her character as a \"tough Cinderella. She dives into bees' hives for the wax, takes pigs out truffle-hunting, swims in the river, quotes Sir",
+    "url": "https://en.wikipedia.org/wiki/Ever_After",
+    "pass": 3
+   },
+   {
+    "quote": ". She even nails the prince with an apple for stealing her horse. She does many things a man does, whether it involves physical strength or reading. She's ahead of her time in breaking down the barriers between a woman's place in society and a man's place.\"",
+    "url": "https://en.wikipedia.org/wiki/Ever_After",
+    "pass": 3
+   },
+   {
+    "quote": "). King Henry II was married to",
+    "url": "https://en.wikipedia.org/wiki/Ever_After",
+    "pass": 3
+   },
+   {
+    "quote": "—another film starring Drew Barrymore—in a combo pack. On May 26, 2006, the film was released in",
+    "url": "https://en.wikipedia.org/wiki/Ever_After",
+    "pass": 3
+   },
+   {
+    "quote": "The Drew Barrymore Collection",
+    "url": "https://en.wikipedia.org/wiki/Ever_After",
+    "pass": 3
+   },
+   {
+    "quote": "4 Drew Barrymore Favorites",
+    "url": "https://en.wikipedia.org/wiki/Ever_After",
+    "pass": 3
+   },
+   {
+    "quote": "is a sweet, frothy twist on the ancient fable, led by a solid turn from star Barrymore.\"",
+    "url": "https://en.wikipedia.org/wiki/Ever_After",
+    "pass": 3
+   },
+   {
+    "quote": ".\" He particularly praised the cinematography, costume design, and Drew Barrymore's acting.",
+    "url": "https://en.wikipedia.org/wiki/Ever_After",
+    "pass": 3
+   },
+   {
+    "quote": "movie ever,\" complimenting both the character writing and the performances of Barrymore, Anjelica Huston, and Dougray Scott.",
+    "url": "https://en.wikipedia.org/wiki/Ever_After",
+    "pass": 3
+   },
+   {
+    "quote": "awarded the film a \"B−\" and described it as \"unwieldy, uneven, but nevertheless unexpectedly witty, girl-positive production,\" while praising the character writing, costume design, and performances by Barrymore, Huston, and Judy Parfitt.",
+    "url": "https://en.wikipedia.org/wiki/Ever_After",
+    "pass": 3
+   },
+   {
+    "quote": "gave the film three out of five stars, complimenting the cinematography and acting of Huston and Scott, but criticizing the script and Barrymore's performance, which he found unconvincing and \"far from her best.\"",
+    "url": "https://en.wikipedia.org/wiki/Ever_After",
+    "pass": 3
+   },
+   {
+    "quote": "reviewer wrote that Barrymore \"manages just fine in carrying this Cinderella update… Given that this is adolescent romance, never straying far from traditional stereotypes, its 'progressive' feel-good aura is mainly down to Barrymore, whose limitations are only exposed in big love scenes.\"",
+    "url": "https://en.wikipedia.org/wiki/Ever_After",
+    "pass": 3
+   },
+   {
+    "quote": "highlighted Barrymore and Huston's performances, but was displeased with the script and the \"inconsistent\" tone of the film, concluding that \"though it has its moments,",
+    "url": "https://en.wikipedia.org/wiki/Ever_After",
+    "pass": 3
+   },
+   {
+    "quote": "'s musical score; however, he praised Barrymore's \"buoyant, unaffected\" acting, which he considered the best thing about the film.",
+    "url": "https://en.wikipedia.org/wiki/Ever_After",
+    "pass": 3
+   },
+   {
+    "quote": "The cast was nominated for the Best Sci-Fi / Fantasy / Horror Ensemble award from the Online Film & Television Association, with Barrymore, Dodds, and Houston individually picking up nominations for their performances. Mirelle Soria and Tracey Trench received a nomination for Best Sci-Fi / Fantasy / Horror Picture, with George Fenton tying with",
+    "url": "https://en.wikipedia.org/wiki/Ever_After",
+    "pass": 3
+   },
+   {
+    "quote": "Barrymore was also nominated for",
+    "url": "https://en.wikipedia.org/wiki/Ever_After",
+    "pass": 3
+   },
+   {
+    "quote": ", Barrymore won for",
+    "url": "https://en.wikipedia.org/wiki/Ever_After",
+    "pass": 3
+   },
+   {
+    "quote": ", with Barrymore receiving a nomination for",
+    "url": "https://en.wikipedia.org/wiki/Ever_After",
+    "pass": 3
+   },
+   {
+    "quote": "starred as Danielle,",
+    "url": "https://en.wikipedia.org/wiki/Ever_After",
+    "pass": 3
+   },
+   {
+    "quote": "The production was directed by Susan V. Booth and starred Sierra Boggess as Danielle de Barbarac, Terry Burrell as Queen Marie, Todd Buonopane as Captain Laurent,",
+    "url": "https://en.wikipedia.org/wiki/Ever_After",
+    "pass": 3
+   },
+   {
+    "quote": "\"Drew Barrymore reunites with 'Ever After' co-stars Melanie Lynskey, Megan Dodds\"",
+    "url": "https://en.wikipedia.org/wiki/Ever_After",
+    "pass": 3
+   },
+   {
+    "quote": "\"What do Leonardo da Vinci and Drew Barrymore have in common? Ever After\"",
+    "url": "https://en.wikipedia.org/wiki/Ever_After",
+    "pass": 3
+   },
+   {
+    "quote": "\"Romance Thrives In 'Ever After' / Barrymore slips nicely into Cinderella role\"",
+    "url": "https://en.wikipedia.org/wiki/Ever_After",
+    "pass": 3
+   },
+   {
+    "quote": "EverAfter 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/458296-39",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Transform your spreadsheets, slides, and emails into a holistic premium customer journey.",
+    "url": "https://www.everafter.ai/solution/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Chelsea Duran, who built and leads TSIA’s partner success motion, was tasked with doing the impossible: orchestrate dozens of concurrent partner projects, each with different deliverables and roles, without adding more headcount or drowning in spreadsheets and email. 📧",
+    "url": "https://www.everafter.ai/customer/everafter-tsia-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Partner personas ranged from junior coordinators to senior executives, all with overflowing inboxes. “We were doing a lot of our communications, our onboarding, our everything for conferences and webinars via email… and I’m dealing with people who are coordinators all the way up to VPs… they are very busy and sometimes would miss emails.”",
+    "url": "https://www.everafter.ai/customer/everafter-tsia-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Wrote segmented emails",
+    "url": "https://www.everafter.ai/customer/everafter-tsia-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Now EverAfter’s AI Agent evaluates each partner’s deadlines and open activities against that partner’s unique journey permutation (one of ~500, pulling from Salesforce (Account, Opportunity, Product Line Items) and live portal activity, and then sends a weekly, actionable “Next Best Action” email that:",
+    "url": "https://www.everafter.ai/customer/everafter-tsia-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The Results: Fewer Emails, Faster Delivery, More Confident Partners",
+    "url": "https://www.everafter.ai/customer/everafter-tsia-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Fewer email breakdowns and overlooked deadlines",
+    "url": "https://www.everafter.ai/customer/everafter-tsia-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Fewer Emails, More Confidence",
+    "url": "https://www.everafter.ai/customer/everafter-tsia-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "What began as a way to escape email chaos has become TSIA’s",
+    "url": "https://www.everafter.ai/customer/everafter-tsia-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Trigger personalized, automated email nudges if customers fall behind.",
+    "url": "https://www.everafter.ai/customer/everafter-zoominfo-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "highlights which users have completed essential setup actions, such as email connection, calendar connection, or CRM sync, making it easier for admins to address gaps quickly.",
+    "url": "https://www.everafter.ai/customer/everafter-salesloft-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/458296-39",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/ever-after-revenue",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "EverAfter is used by customer-centric companies around the world that strive to deliver personalized customer success experiences at scale.",
+    "url": "https://www.everafter.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "EverAfter | Vidyard Case Study",
+    "url": "https://www.everafter.ai/customer/everafter-vidyard-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "20% CSAT Boost & AI Triage | Spotnana Case Study | EverAfter",
+    "url": "https://www.everafter.ai/customer/everafter-spotnana-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "PopcornApps Case Study: EverAfter Digital – EverAfter Digital - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/popcornapps/case-study/everafter-digital-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "EverAfter Digital - Customer Case Study",
+    "url": "https://www.casestudies.com/company/popcornapps/case-study/everafter-digital-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how EverAfter Digital used PopcornApps",
+    "url": "https://www.casestudies.com/company/popcornapps/case-study/everafter-digital-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/popcornapps/case-study/everafter-digital-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/popcornapps/case-study/everafter-digital-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Spryker reduces time-to-value by 30% with EverAfter.ai | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/everafterai/case-study/how-spryker-reduced-time-to-value-by-30-using-an-onboarding-customer-interface",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Spryker reduces time-to-value by 30% with EverAfter.ai",
+    "url": "https://www.casestudies.com/company/everafterai/case-study/how-spryker-reduced-time-to-value-by-30-using-an-onboarding-customer-interface",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/everafterai/case-study/how-spryker-reduced-time-to-value-by-30-using-an-onboarding-customer-interface",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/everafterai/case-study/how-spryker-reduced-time-to-value-by-30-using-an-onboarding-customer-interface",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本語吹替版制作スタッフ 演出：岩見純一、翻訳：栗原とみ子、調整：堀内唯史、制作：",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%90%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "EVERAFTER(GAME VERSION) | 商品情報 | 日本コロムビアオフィシャルサイト",
+    "url": "https://columbia.jp/prod-info/COKM-46258/",
+    "pass": 3
+   },
+   {
+    "quote": "また、舞台ですが以前『認めてくれなくたっていいよ』にて、『#cg_ootd』が披露された日本ガイシホールを再現したのと同じように、『THE IDOLM@STER CINDERELLA GIRLS 10th MEMORIAL STARLIGHT STAGE』（以下デレステ10thツアー千秋楽）が披露される、Kアリーナ横浜を再現したものとなっているようです",
+    "url": "https://note.com/omochi_fairy/n/ne0628004cec2",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese manga series by Ikuno Tajima",
+    "url": "https://en.wikipedia.org/wiki/Ever_After_(manga)",
+    "pass": 3
+   },
+   {
+    "quote": "(in Japanese). Natasha, Inc. December 12, 2023",
+    "url": "https://en.wikipedia.org/wiki/Ever_After_(manga)",
+    "pass": 3
+   },
+   {
+    "quote": "(in Japanese). Natasha, Inc. December 22, 2022",
+    "url": "https://en.wikipedia.org/wiki/Ever_After_(manga)",
+    "pass": 3
+   },
+   {
+    "quote": "(in Japanese). East Press",
+    "url": "https://en.wikipedia.org/wiki/Ever_After_(manga)",
+    "pass": 3
+   },
+   {
+    "quote": "CS1 uses Japanese-language script (ja)",
+    "url": "https://en.wikipedia.org/wiki/Ever_After_(manga)",
+    "pass": 3
+   },
+   {
+    "quote": "CS1 Japanese-language sources (ja)",
+    "url": "https://en.wikipedia.org/wiki/Ever_After_(manga)",
+    "pass": 3
+   },
+   {
+    "quote": "Articles containing Japanese-language text",
+    "url": "https://en.wikipedia.org/wiki/Ever_After_(manga)",
+    "pass": 3
+   },
+   {
+    "quote": "Articles with Japanese-language sources (ja)",
+    "url": "https://en.wikipedia.org/wiki/Ever_After_(manga)",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "エバー・アフター - Wikipedia — エバー・アフター ... 『エバー・アフター』（Ever After）は、 1998年 の アメリカ映画。 グリム童話 の『シンデレラ』を脚色した ロマンティック・コメディ である。 全米第1位初登場の大ヒットとなった。",
+    "url": "https://ja.wikipedia.org/wiki/エバー・アフター",
+    "pass": 3
+   },
+   {
+    "quote": "EverAfter | アイドルナビ — EverAfterのプロフィール情報、出演ライブ、楽曲情報をご紹介。",
+    "url": "https://navi-idol.com/group/everafter",
+    "pass": 3
+   },
+   {
+    "quote": "EVERAFTER (GAME VERSION) | 商品情報 | 日本コロムビアオフィシャル... — EVERAFTER(GAME VERSION)の詳細ページです。CD・DVD・動画の視聴・購入ができます。",
+    "url": "https://columbia.jp/prod-info/COKM-46258/",
+    "pass": 3
+   },
+   {
+    "quote": "「あなただけのアイドル」が紡ぐ、一つの物語の終焉。そして、永久に... — Sep 4, 2025 · ここからは満を持して『EVERAFTER』のインストが流れる中、ちひろさんによる語りが入ります。 ここで特に一番印象的だったところを、以下に引用いたしますね。 これは、普通の女の子が、あなたの魔法でシンデレラになる物語。",
+    "url": "https://note.com/omochi_fairy/n/ne0628004cec2",
+    "pass": 3
+   },
+   {
+    "quote": "シアタークリエ Naoto Kaiho Concert『ever after』 — MOVIE 動画 Naoto Kaiho Concert『ever after』 プロモーション映像 Naoto Kaiho Concert『ever after』プロモーション映像 TohoChannel",
+    "url": "https://www.tohostage.com/ever_after/",
+    "pass": 3
+   },
+   {
+    "quote": "Ever After (manga) - Wikipedia — Ever After (アフターメルヘン, Afuta Meruhen) is a Japanese manga series written and illustrated by Ikuno Tajima. It was serialized on East Press' Matogrosso website from December 2022 to May 2024, with its chapters compiled into two volumes.",
+    "url": "https://en.wikipedia.org/wiki/Ever_After_(manga)",
+    "pass": 3
+   },
+   {
+    "quote": "Ever After - Wikipedia — Ever After was released by 20th Century Fox in theaters on July 31, 1998, to positive reviews from critics. It was a box-office success, grossing $98 million.",
+    "url": "https://en.wikipedia.org/wiki/Ever_After",
+    "pass": 3
+   },
+   {
+    "quote": "EverAfter (@EverAfter__info) / X — 𓂃𓈒𓏸 ♔ 𝑰𝒏𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏 ♔ 𓏸𓈒𓂃 いつもEverAfterを応援いただき ありがとうございます🗝️♡ 皆さまに楽しくライブをお楽しみいただくため、 各種ご案内をお知らせいたします。 ୨୧ ┈┈┈┈┈┈┈┈ ୨୧ ♡ イベントルール ♡ レギュレーション ♡ ポイントカード詳細 ୨୧. TikTokでEverAfter【公式】さんをチェック！ 全体アー写いいね♡RP企画達成ありがとうございます🪄︎︎ 明日！ 10/3 (土) 19:00EverAfter初のMV公開！ おとぎ話のお姫様になっちゃいました👸 お楽しみに♡.",
+    "url": "https://x.com/EverAfter__info",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo Ever After (Tokyo Ever After, #1) - GoodreadsEVER AFTER (@everafter.jp) • Instagram photos and videosEver After - Wikipedia — In a whirlwind, Izzy travels to Japan to meet the father she never knew and discover the country she always dreamed of. But being a princess isn’t all ball gowns and tiaras. 352 Followers, 0 Following, 24 Posts - EVER AFTER (@everafter.jp) on Instagram: \"BEAUTY IN SIM",
+    "url": "https://www.goodreads.com/book/show/54860605-tokyo-ever-after",
+    "pass": 3
+   },
+   {
+    "quote": "How Ad Astra Scaled Customer Migration and Reduced Time-to ... — By standardizing and digitizing customer migration with EverAfter, Ad Astra reduced migration time by over 65%, cutting average project duration from more than 200 days to approximately 70 days.",
+    "url": "https://www.everafter.ai/customer/everafter-migration-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories - EverAfter — Read the fairytales that tell all about customers personalizing customer relationships at scale, all in one collaborative workspace.",
+    "url": "https://www.everafter.ai/customers",
+    "pass": 3
+   },
+   {
+    "quote": "EverAfter Digital - Customer Case Study — EverAfter Digital partnered with PopcornApps to solve key challenges. \"EverAfter Digital - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/popcornapps/case-study/everafter-digital-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "EverAfter – Revenue Estimate & Market Landscape – 2026 — Discover EverAfter's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/everafter",
+    "pass": 3
+   },
+   {
+    "quote": "EverAfter 2026 Company Profile: Valuation, Investors ...Everafter - Company Profile, Full Acquisitions List, Funding ...Ever After Revenue, Funding & Valuation - prospeo.ioEverafter - Crunchbase Company Profile & FundingEverafter: Funding, Team & Investors | Startup IntrosEverAfter — investors & funding | gritt.io — Information on acquisition, funding, cap tables, investors, and executives for Eve",
+    "url": "https://pitchbook.com/profiles/company/458296-39",
+    "pass": 3
+   },
+   {
+    "quote": "Everafter - Company Profile, Full Acquisitions List, Funding ... — Everafter company profile on Acquirezy: HQ in Tel Aviv, Israel, founded 2019. Explore its full acquisitions history, funding rounds, investors, key people and contacts.",
+    "url": "https://acquirezy.com/organization/everafter",
+    "pass": 3
+   },
+   {
+    "quote": "Ever After Revenue, Funding & Valuation - prospeo.io — What are the revenues of Ever After? Ever After generates an estimated annual revenue of $4,363,305. This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/ever-after-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Everafter - Crunchbase Company Profile & FundingEverafter: Funding, Team & Investors | Startup IntrosEverAfter — investors & funding | gritt.io — With built-in automation and integrations, EverAfter turns customer-facing activities into scalable, profitable, revenue-generating initiatives. A cloud-based platform that creates branded, personalized customer interfaces to manage onboarding, growth, a",
+    "url": "https://www.crunchbase.com/organization/everafter-ai-ltd",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【デレステ】EVERAFTER(めでたしめでたし)とは…｜kana/文学 Sep 3, 2025 · 10周年にしてデレステ最後のイベントは、『EVERAFTER』のMVとともに開幕した。 事前に公式から 「リーダーアイドルを担当にしておけよ」 のお達しがあり、私もモバマス時代から担当してきたほたるが設定されていることを確認し、今日を待った。",
+    "url": "https://note.com/kana_bun_p/n/n73af328f6cc6",
+    "pass": 3
+   },
+   {
+    "quote": "⚰️ EverAfter Halloween Special Event Impressions (2026/10/27 ... I went to the RP host event 'EverAfter'. It was just so much fun! The world-building, the interactions with the unique cast members, the perfection of the mansion—everything was high-quality and incredibly immersive.",
+    "url": "https://note.com/wind_bell_vrc/n/ne02f9b8c32ac?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【デレステ】LIVE Carnival「EVERAFTER」【2025年9月度】 Sep 2, 2025 · 期間限定イベント「LIVE Carnival」開始です！ イベント楽曲は「EVERAFTER」！ メインステージである「GRAND BOOTH」でのLIVEを目指しましょう！",
+    "url": "https://note.com/kurokawa_0001/n/n1ca33d15809a",
+    "pass": 3
+   },
+   {
+    "quote": "Live Carnival(EVERAFTER) 694位 編成紹介＆10年間の総括 Sep 28, 2025 · 担当アイドル：緒方智絵里 その他は下の名刺をご参照ください。 アタポンとEVERAFTERの称号を並べるの、良い 去年からの成長点 属性曲の編成を大幅強化。 前回記事時点で1人もいなかったドミナントが各色2ブース組める程度に。 (秒数は最適とは言えませんが)",
+    "url": "https://note.com/funabori1116/n/ncf0e0cc2c23b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【デレステ】EVERAFTER(めでたしめでたし)とは…｜kana/文学",
+    "url": "https://note.com/kana_bun_p/n/n73af328f6cc6",
+    "pass": 3
+   },
+   {
+    "quote": "【デレステ】EVERAFTER(めでたしめでたし)とは…",
+    "url": "https://note.com/kana_bun_p/n/n73af328f6cc6",
+    "pass": 3
+   },
+   {
+    "quote": "つい先ほどのこと、アイドルマスターシンデレラガールズ スターライトステージが10周年を迎えた。",
+    "url": "https://note.com/kana_bun_p/n/n73af328f6cc6",
+    "pass": 3
+   },
+   {
+    "quote": "ただの10周年ではない。2025年9月のアニバーサリーマンスを以て、デレマス最後の砦たる『スターライトステージ』（以下デレステ）の新規更新を停止するという、エンディングじみた10周年だ。",
+    "url": "https://note.com/kana_bun_p/n/n73af328f6cc6",
+    "pass": 3
+   },
+   {
+    "quote": "詳しくは追々書いていければと思うが、文字通り限界オタク化してしまいしばらくの間デレマスから離れていた復帰勢の私でもだいぶクるものがあったので夜のうちに書いておこうと思った次第。",
+    "url": "https://note.com/kana_bun_p/n/n73af328f6cc6",
+    "pass": 3
+   },
+   {
+    "quote": "『EVERAFTER』とは10周年曲のタイトルだ。",
+    "url": "https://note.com/kana_bun_p/n/n73af328f6cc6",
+    "pass": 3
+   },
+   {
+    "quote": "曲名が発表されて久しいが、「めでたしめでたし」の意。",
+    "url": "https://note.com/kana_bun_p/n/n73af328f6cc6",
+    "pass": 3
+   },
+   {
+    "quote": "久しぶりにデレマス界隈についてXで調べてみると",
+    "url": "https://note.com/kana_bun_p/n/n73af328f6cc6",
+    "pass": 3
+   },
+   {
+    "quote": "⚰️👑🍎EverAfter Halloween Special Event Impressions (2026/10/27)🍎👑⚰️｜風鈴",
+    "url": "https://note.com/wind_bell_vrc/n/ne02f9b8c32ac?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "⚰️👑🍎EverAfter Halloween Special Event Impressions (2026/10/27)🍎👑⚰️",
+    "url": "https://note.com/wind_bell_vrc/n/ne02f9b8c32ac?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I went to the RP host event 'EverAfter'.",
+    "url": "https://note.com/wind_bell_vrc/n/ne02f9b8c32ac?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It was just so much fun!",
+    "url": "https://note.com/wind_bell_vrc/n/ne02f9b8c32ac?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The world-building, the interactions with the unique cast members, the perfection of the mansion—everything was high-quality and incredibly immersive. Although the event itself lasted about an hour and a half, after it ended, I felt as fulfilled as if I had spent the entire day playing.",
+    "url": "https://note.com/wind_bell_vrc/n/ne02f9b8c32ac?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I was able to go to the EverAfter Halloween special event!",
+    "url": "https://note.com/wind_bell_vrc/n/ne02f9b8c32ac?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I've been curious about this event for a long time, so I was happy to be selected.",
+    "url": "https://note.com/wind_bell_vrc/n/ne02f9b8c32ac?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Since it's a fairy tale x host x ??? event, I was wondering, 'What is the ????'",
+    "url": "https://note.com/wind_bell_vrc/n/ne02f9b8c32ac?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【デレステ】LIVE Carnival「EVERAFTER」【2025年9月度】｜クロカワ",
+    "url": "https://note.com/kurokawa_0001/n/n1ca33d15809a",
+    "pass": 3
+   },
+   {
+    "quote": "【デレステ】LIVE Carnival「EVERAFTER」【2025年9月度】",
+    "url": "https://note.com/kurokawa_0001/n/n1ca33d15809a",
+    "pass": 3
+   },
+   {
+    "quote": "期間限定イベント「LIVE Carnival」開始です！",
+    "url": "https://note.com/kurokawa_0001/n/n1ca33d15809a",
+    "pass": 3
+   },
+   {
+    "quote": "メインステージである「GRAND BOOTH」でのLIVEを目指しましょう！",
+    "url": "https://note.com/kurokawa_0001/n/n1ca33d15809a",
+    "pass": 3
+   },
+   {
+    "quote": "pic.twitter.com/Db7DgBHTR3",
+    "url": "https://note.com/kurokawa_0001/n/n1ca33d15809a",
+    "pass": 3
+   },
+   {
+    "quote": "— スターライトステージ (@imascg_stage)",
+    "url": "https://note.com/kurokawa_0001/n/n1ca33d15809a",
+    "pass": 3
+   },
+   {
+    "quote": "開催期間：2025/09/03 00:00 ～ 2025/09/15 20:59",
+    "url": "https://note.com/kurokawa_0001/n/n1ca33d15809a",
+    "pass": 3
+   },
+   {
+    "quote": "今回のイベント以降、以下の点が変更されます。",
+    "url": "https://note.com/kurokawa_0001/n/n1ca33d15809a",
+    "pass": 3
+   },
+   {
+    "quote": "【デレステ】Live Carnival(EVERAFTER) 694位 編成紹介＆10年間の総括｜ふなぼりん",
+    "url": "https://note.com/funabori1116/n/ncf0e0cc2c23b",
+    "pass": 3
+   },
+   {
+    "quote": "【デレステ】Live Carnival(EVERAFTER) 694位 編成紹介＆10年間の総括",
+    "url": "https://note.com/funabori1116/n/ncf0e0cc2c23b",
+    "pass": 3
+   },
+   {
+    "quote": "デレステの記事は1年4か月前のLive Carnivalぶりとなります。",
+    "url": "https://note.com/funabori1116/n/ncf0e0cc2c23b",
+    "pass": 3
+   },
+   {
+    "quote": "要約すると「1年間準備して虹トロ取れるところまでいったよ！」という記事でした。",
+    "url": "https://note.com/funabori1116/n/ncf0e0cc2c23b",
+    "pass": 3
+   },
+   {
+    "quote": "その後のカーニバルでは1度休憩をはさみ(2933位)、そこから4桁順位ながら連続で虹トロを獲得。(1036位、1025位)",
+    "url": "https://note.com/funabori1116/n/ncf0e0cc2c23b",
+    "pass": 3
+   },
+   {
+    "quote": "成績が安定してきたところで今回のイベントを迎えます。",
+    "url": "https://note.com/funabori1116/n/ncf0e0cc2c23b",
+    "pass": 3
+   },
+   {
+    "quote": "10周年の節目かつ新規楽曲イベントはこれが最後なので、持てる力を全て出し切って可能な限り上位を目指したい！",
+    "url": "https://note.com/funabori1116/n/ncf0e0cc2c23b",
+    "pass": 3
+   },
+   {
+    "quote": "ということで、いつも以上にしっかりと編成と楽曲を吟味し、シミュレーションを回してスコアアップに取り組みました。",
+    "url": "https://note.com/funabori1116/n/ncf0e0cc2c23b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "EverAfter (@EverAfter__info) / X ⋆┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈⋆ 2026年11月17日Debut🏰 新グループ2人目メンバー公開 ⋆┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈⋆ ︎甘絵てる【@EverAfter_teru】 ︎ハニーイエロー担当 『ずっとずっと貴方のお姫様でいさせてね♡』 この投稿のRP+いいねが200達成で ...",
+    "url": "https://x.com/EverAfter__info",
+    "pass": 3
+   },
+   {
+    "quote": "杏香りお【EverAfter】 (@EverAfter__rio) / X おはよう世界.ᐟ.ᐟ EverAfter メロウオレンジ担当 🧡 「 杏香りお (きょうか りお) 」です これからわたしは、自分らしく自由に物語を描いていきます。 どんなお話になるかはわからないけれど、この本はいつでも開けておきます。",
+    "url": "https://x.com/everafter__rio",
+    "pass": 3
+   },
+   {
+    "quote": "水瀬そら【EverAfter】 (@EverAfter_sora) / X 水瀬そら【EverAfter】 @EverAfter_sora Show translation @ EverAfter__info の水色担当最年少19歳の水瀬そらです💙 11月17日にデビューライブがあるので来てくれると嬉しいです♪♪ Joined September 2026",
+    "url": "https://x.com/EverAfter_sora",
+    "pass": 3
+   },
+   {
+    "quote": "胡桃める【EverAfter】 (@EverAfter_meru) / X ／ #EverAfterデビューまでカウントダウン 🏰💍 \\ 🚨デビューまで2週間を切ったという事で🚨 11/17㈫のデビューライブまで毎日12:00にカウントダウン画像投稿＆毎日配信します!!⚡ 配信スケジュールは画像参考にしてね🗓 ꙳ TikTokで配信するので今のうちに ...",
+    "url": "https://x.com/EverAfter_meru",
+    "pass": 3
+   },
+   {
+    "quote": "EverAfter on X: \"⋆┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈⋆ 2026年11月17日Debut 新グループ... Sep 30, 2026 · ⋆┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈⋆ 2026年11月17日Debut🏰 新グループ全体アー写公開 ⋆┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈⋆ 『めでたしの先の景色』 この投稿のRP+いいねが500達成でMV公開📹 ️ #EverAfter",
+    "url": "https://x.com/EverAfter__info/status/2103092215774163403",
+    "pass": 3
+   },
+   {
+    "quote": "EverAfter on X: \"⋆┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈⋆ 2026年11月17日Debut 新グループ... Sep 16, 2026 · ⋆┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈⋆ 2026年11月17日Debut🏰 新グループ1人目メンバー公開 ⋆┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈⋆ ︎冬海りつ【@EverAfter_ritsu】 ︎スノーホワイト担当 『物語のその先まで、君を連れていくね。",
+    "url": "https://x.com/EverAfter__info/status/2100193074387595582",
+    "pass": 3
+   },
+   {
+    "quote": "EverAfter on X: \"┈┈┈┈┈┈୨୧┈┈┈┈┈┈ 𝐌𝐮𝐬𝐢𝐜 𝐕𝐢𝐝𝐞𝐨 公開 『once... Oct 3, 2026 · ┈┈┈┈┈┈୨୧┈┈┈┈┈┈ 👑 𝐌𝐮𝐬𝐢𝐜 𝐕𝐢𝐝𝐞𝐨 公開 👑 『once upon a dream』 ┈┈┈┈┈┈୨୧┈┈┈┈┈┈ Official Music Videoを YouTubeにて公開いたしました🏰 🪞フルはこちら 【youtu.be/_BwtfCxYgmU】 この物語が、 あなたの心にも届きますように…♡ この投稿にお気に入りの1枚もしくは感想をリプライしてくれた方の中から抽選で集合チェキプレゼント🪄︎︎ #EverAfter #MV公開",
+    "url": "https://x.com/EverAfter__info/status/2106323694746247582",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "EverAfter AI - LinkedIn With EverAfter you can quickly create a personalized, branded interface that adapts to each customer’s persona, package, and usage—without writing a single line of code.",
+    "url": "https://www.linkedin.com/company/everafter-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Ever After Foods - LinkedIn Ever After Foods | 2,150 followers on LinkedIn. We’re on a mission to reinvent meat and feed the world for generations to come. | Ever After Foods, formerly known as Plurinuva, has developed a ...",
+    "url": "https://www.linkedin.com/company/ever-after-foods",
+    "pass": 3
+   },
+   {
+    "quote": "Tomer Yair Zemel - Lead Strategic CSM at AudioCodes ...Tadhg Enright - Communications coach | TV News presenter ...EverAfter - LinkedInEverAfter.com - LinkedInEverAfter Group - LinkedIn Lead Strategic CSM at AudioCodes LiveHub | 2026 Most Creative CS Leader by Everafter AI | Blogger · I'm an Enterprise Strategic CSM, Multi Generalist and outside the box thinker that gets... Communications coach | ",
+    "url": "https://il.linkedin.com/in/tomer-yair-zemel",
+    "pass": 3
+   },
+   {
+    "quote": "Tadhg Enright - Communications coach | TV News presenter ...EverAfter - LinkedInEverAfter.com - LinkedInEverAfter Group - LinkedIn Communications coach | TV News presenter | Business journalist | Event host & moderator | Founder, everafter · I make complicated ideas clear, compelling and human: on air, on stage and in the... EverAfter is the leading aftercare platform for employers, insurers, and ",
+    "url": "https://uk.linkedin.com/in/tadhgenright",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Ever After | Las Vegas NV - FacebookEver After | Bucharest - FacebookStacie Stephens and EverAfter - FacebookEver After Las Vegas Weddings | Las Vegas NV - FacebookThe Everafter - FacebookEver After Venue | Odessa TX - FacebookEver After Gallery | Spring Hill FL - Facebook The adjacent resort allows you to leave the kids with your loved ones at the family-friendly resort while you enjoy this adult",
+    "url": "https://www.facebook.com/EverAfter/",
+    "pass": 3
+   },
+   {
+    "quote": "Ever After | Bucharest - FacebookStacie Stephens and EverAfter - FacebookEver After Las Vegas Weddings | Las Vegas NV - FacebookThe Everafter - FacebookEver After Venue | Odessa TX - FacebookEver After Gallery | Spring Hill FL - Facebook Just a reminder that every morning, Monday to Friday, between 9:00 and 11:00, we have a Happily Ever Breakfast deal ️ Order any dish from our brunch menu and the ",
+    "url": "https://www.facebook.com/everafter.ro/",
+    "pass": 3
+   },
+   {
+    "quote": "Stacie Stephens and EverAfter - FacebookEver After Las Vegas Weddings | Las Vegas NV - FacebookThe Everafter - FacebookEver After Venue | Odessa TX - FacebookEver After Gallery | Spring Hill FL - Facebook Oct 22, 2026 · Stacie Stephens and EverAfter. 4,827 followers · 174 talking about this. Step into our time machine for that classic rock experience with hits, anthems,... Oct 20, 2026 · Who says ",
+    "url": "https://www.facebook.com/Everafterlive/",
+    "pass": 3
+   },
+   {
+    "quote": "Ever After Las Vegas Weddings | Las Vegas NV - Facebook Oct 20, 2026 · Who says Friday the 13th is unlucky? 👀 At Ever After, it’s one of the most unforgettable days to say I do 🖤 ️🔥 Limited spots available for this Friday — visit everafter. com & let’s get you married! 💌 #VegasWeddings #VegasElopements #VegasChapel",
+    "url": "https://www.facebook.com/lasvegasweddingsea/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.everafter.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.everafter.ai/solution/partner-success",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.everafter.ai/solution/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.everafter.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.everafter.ai/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.everafter.ai/learn-category/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.everafter.ai/solution/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.everafter.ai/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.everafter.ai/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.everafter.ai/customer/everafter-vidyard-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.everafter.ai/customer/everafter-tsia-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.everafter.ai/customer/everafter-zoominfo-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.everafter.ai/customer/everafter-salesloft-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.everafter.ai/customer/everafter-spotnana-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.everafter.ai/webinar/creating-autonomous-customers-with-ai",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/60ddc4b316b4b16459c8e792/66a0f8bf14436f19a3c963ba_logoSL.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/60ddc4b316b4b16459c8e792/6878a51a39ef111db0758c82_Group%201000003274%20(1).png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/60ddc4b316b4b16459c8e792/65e05f8e780b174a8b0cd1f6_webinar2.avif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%90%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://navi-idol.com/group/everafter",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://columbia.jp/prod-info/COKM-46258/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/omochi_fairy/n/ne0628004cec2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%80%E3%83%AB%E3%83%88%E3%83%93%E3%83%87%E3%82%AA%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Ever_After_(manga)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Ever_After",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://navi-idol.com/group/everafter",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/EverAfter__info",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.casestudies.com/company/popcornapps/case-study/everafter-digital-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/everafterai/case-study/how-spryker-reduced-time-to-value-by-30-using-an-onboarding-customer-interface",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/everafter",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/458296-39",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://acquirezy.com/organization/everafter",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/ever-after-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kana_bun_p/n/n73af328f6cc6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/wind_bell_vrc/n/ne02f9b8c32ac?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kurokawa_0001/n/n1ca33d15809a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/funabori1116/n/ncf0e0cc2c23b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/EverAfter__info",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/everafter__rio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/EverAfter_sora",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/EverAfter_meru",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/everafter-ai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ever-after-foods",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://il.linkedin.com/in/tomer-yair-zemel",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/tadhgenright",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/EverAfter/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/everafter.ro/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Everafterlive/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/lasvegasweddingsea/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/EverAfter__info",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/EverAfter__info/status/2103092215774163403",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/EverAfter__info/status/2100193074387595582",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/EverAfter__info/status/2106323694746247582",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Everafter 日本 導入",
+   "results": [
+    "https://ja.wikipedia.org/wiki/エバー・アフター",
+    "https://navi-idol.com/group/everafter",
+    "https://columbia.jp/prod-info/COKM-46258/",
+    "https://note.com/omochi_fairy/n/ne0628004cec2",
+    "https://www.tohostage.com/ever_after/",
+    "https://car.watch.impress.co.jp/docs/news/2153268.html",
+    "https://kuruma-news.jp/post/1130371"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Everafter 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/アダルトビデオメーカー",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://everlastjp.com/",
+    "https://www.cmore.jp/official/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Everafter Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Ever_After_(manga)",
+    "https://en.wikipedia.org/wiki/Ever_After",
+    "https://navi-idol.com/group/everafter",
+    "https://x.com/EverAfter__info",
+    "https://www.goodreads.com/book/show/54860605-tokyo-ever-after",
+    "https://www.instagram.com/everafter.jp/",
+    "https://happily-everafter.org/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Everafter manufacturing customer case study",
+   "results": [
+    "https://www.everafter.ai/customer/everafter-migration-case-study",
+    "https://www.everafter.ai/customers",
+    "https://www.casestudies.com/company/popcornapps/case-study/everafter-digital-customer-case-study",
+    "https://www.casestudies.com/company/everafterai/case-study/how-spryker-reduced-time-to-value-by-30-using-an-onboarding-customer-interface",
+    "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "https://www.infor.com/customer-stories",
+    "https://bestnocodeplatform.com/portals/everafter"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Everafter white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.seoreseller.com/",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Everafter founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/everafter",
+    "https://pitchbook.com/profiles/company/458296-39",
+    "https://acquirezy.com/organization/everafter",
+    "https://prospeo.io/c/ever-after-revenue",
+    "https://www.crunchbase.com/organization/everafter-ai-ltd",
+    "https://startupintros.com/orgs/everafter",
+    "https://www.gritt.io/company/everafter-ai/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Everafter",
+   "results": [
+    "https://note.com/kana_bun_p/n/n73af328f6cc6",
+    "https://note.com/wind_bell_vrc/n/ne02f9b8c32ac?hl=en",
+    "https://note.com/kurokawa_0001/n/n1ca33d15809a",
+    "https://note.com/funabori1116/n/ncf0e0cc2c23b",
+    "https://note.com/omochi_fairy/n/ne0628004cec2",
+    "https://note.com/tonko0725/n/nbff4c907a8ba",
+    "https://note.com/oversea_u/n/n2b2e8c8d23a7"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Everafter",
+   "results": [
+    "https://x.com/EverAfter__info",
+    "https://x.com/everafter__rio",
+    "https://x.com/EverAfter_sora",
+    "https://x.com/EverAfter_meru",
+    "https://x.com/everafter_koi",
+    "https://x.com/everafter__info/status/2108890367462670487",
+    "https://x.com/EverAfter_meru/status/2118689870399095176"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Everafter",
+   "results": [
+    "https://www.linkedin.com/company/everafter-ai/",
+    "https://www.linkedin.com/company/ever-after-foods",
+    "https://il.linkedin.com/in/tomer-yair-zemel",
+    "https://uk.linkedin.com/in/tadhgenright",
+    "https://www.linkedin.com/company/everafterapp",
+    "https://www.linkedin.com/company/everafter-com",
+    "https://www.linkedin.com/company/everafter-group"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Everafter",
+   "results": [
+    "https://www.facebook.com/EverAfter/",
+    "https://www.facebook.com/everafter.ro/",
+    "https://www.facebook.com/Everafterlive/",
+    "https://www.facebook.com/lasvegasweddingsea/",
+    "https://www.facebook.com/TheEverafterNY/",
+    "https://www.facebook.com/EverAfterVenueOdessa/",
+    "https://www.facebook.com/everaftergallery/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Everafter note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://everafternote.com/about-us/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Everafter X 投稿",
+   "results": [
+    "https://x.com/EverAfter__info",
+    "https://x.com/EverAfter__info/status/2103092215774163403",
+    "https://x.com/EverAfter__info/status/2100193074387595582",
+    "https://x.com/EverAfter__info/status/2106323694746247582",
+    "https://x.com/EverAfter__info/status/2102367422124818605",
+    "https://x.com/EverAfter__info/status/2100555397551829313",
+    "https://x.com/EverAfter__info/status/2101643284162793849"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式15頁／PDF・画像3件／外部42頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式15頁／PDF・画像3件／外部42頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式15頁／PDF・画像3件／外部42頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式15頁／PDF・画像3件／外部42頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式15頁／PDF・画像3件／外部42頁・検索12回）"
+ }
+}

@@ -1,0 +1,470 @@
+{
+ "name": "Glamar",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-10T16:45:13.249855+00:00",
+ "official_url": "https://www.glamar.io",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Ronald HIll A. on X: \"Barco Glamar anclado frente a El Bluff en ... Ronald HIll A. on X: \"Barco Glamar anclado frente a El Bluff en ... X https://x.com > @hillron",
+    "url": "https://x.com/hillron/status/789959866685227008",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Fynd GlamAR - LinkedIn Fynd GlamAR - LinkedIn LinkedIn India https://in.linkedin.com > glamario",
+    "url": "https://in.linkedin.com/company/glamario",
+    "pass": 3
+   },
+   {
+    "quote": "Glamar O. Galeas, MPH - Maternity Guide and Educator at NC ... Glamar O. Galeas, MPH - Maternity Guide and Educator at NC ... LinkedIn https://www.linkedin.com > glamarga...",
+    "url": "https://www.linkedin.com/in/glamargaleas",
+    "pass": 3
+   },
+   {
+    "quote": "Glamar Selvaraj - Technical Manager - LinkedIn Glamar Selvaraj - Technical Manager - LinkedIn LinkedIn India https://in.linkedin.com > glamar-selva...",
+    "url": "https://in.linkedin.com/in/glamar-selvaraj-1198366",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Glamar by Fynd (@GlamARbyFynd) - Facebook Glamar by Fynd (@GlamARbyFynd) - Facebook Facebook https://www.facebook.com > GlamARbyFynd",
+    "url": "https://www.facebook.com/GlamARbyFynd/",
+    "pass": 3
+   },
+   {
+    "quote": "GlaMar by Stardust KemptonPark | Kempton Park - Facebook GlaMar by Stardust KemptonPark | Kempton Park - Facebook Facebook https://www.facebook.com > ... > Women's clothing store",
+    "url": "https://www.facebook.com/GlaMar.byStardust/",
+    "pass": 3
+   },
+   {
+    "quote": "Glamar Shop - Facebook Glamar Shop - Facebook Facebook https://www.facebook.com > Glamarshop > posts",
+    "url": "https://www.facebook.com/Glamarshop/posts/122270492876160039/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.glamar.io",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amesha-world.com/info/detail.php?id=4277",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trafficnews.jp/post/725198",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.webcg.net/articles/-/54501",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=m9qq9nQP9KI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alpc.tokyo/pages/business-d2c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://glamor.fun/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/GLAMOR.Dancers/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.instagram.com/glamor_official/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.hystericglamour.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJGUAq3cHhYTIda1olpSFRFtkpalxi4RxEsNh6J4SLx8ZPk_OXw",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glean.com/resources/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hpe.com/us/en/customer-case-studies.html",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.infor.com/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/white-label-business-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reveliolabs.com/companies/glamour/employees",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://multiples.vc/private-comps/function-of-beauty",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wwd.com/beauty-industry-news/beauty-features/clearco-revenue-based-financing-beauty-business-1234988274/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/glance-networks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hillron/status/789959866685227008",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/glamario",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/glamargaleas",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/glamar-selvaraj-1198366",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/GlamARbyFynd/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/GlaMar.byStardust/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Glamarshop/posts/122270492876160039/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Glamar 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://amesha-world.com/info/detail.php?id=4277",
+    "https://trafficnews.jp/post/725198",
+    "https://www.webcg.net/articles/-/54501",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://kuruma-news.jp/post/1135272",
+    "https://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=160111/",
+    "https://www.autocar.jp/post/1292024"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Glamar 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.youtube.com/watch?v=m9qq9nQP9KI",
+    "https://www.digima-japan.com/knowhow/world/19787.php",
+    "https://alpc.tokyo/pages/business-d2c",
+    "https://buum.jp/service/ad-agency/",
+    "https://www.legalontech.com/jp/download/43",
+    "https://itbengoshi.com/page-3655/",
+    "https://media-radar.jp/contents/meditsubu/agency/",
+    "https://jp.indeed.com/%E6%B1%82%E4%BA%BA%E5%BA%83%E5%91%8A/c/info/notes-when-contracting-with-an-agency",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Glamar Japan",
+   "results": [
+    "https://glamor.fun/",
+    "https://www.facebook.com/GLAMOR.Dancers/?locale=ja_JP",
+    "https://www.instagram.com/glamor_official/",
+    "https://www.hystericglamour.jp/",
+    "https://www.nihongomaster.com/japanese/dictionary/word/4328/gurama%E3%83%BC-%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC",
+    "https://cnavi.g-search.or.jp/detail/4120001228418.html",
+    "https://en.namu.wiki/w/%EA%B8%80%EB%9E%98%EB%A8%B8",
+    "https://ejje.weblio.jp/content/glamor",
+    "https://www.glamar.io/",
+    "https://glamar.ai/about"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Glamar manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJGUAq3cHhYTIda1olpSFRFtkpalxi4RxEsNh6J4SLx8ZPk_OXw",
+    "https://www.glean.com/resources/customer-stories",
+    "https://www.hpe.com/us/en/customer-case-studies.html",
+    "https://www.infor.com/customer-stories",
+    "https://www.nice.com/blog/4-case-studies-that-prove-the-value-of-using-the-best-customer-experience-software",
+    "https://www.factory-twin.com/casestudies",
+    "https://www.autodesk.com/products/fusion-360/blog/category/customer-stories/page/3/",
+    "https://www.neuraflash.com/content/customer-stories",
+    "https://www.manufacturingsuccess.org/case-studies",
+    "https://www.glamar.io/customer-stories"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Glamar white label OR reseller OR partner program",
+   "results": [
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://suitedash.com/white-label-business-software/",
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://webinone.com/reseller-program",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "https://sellful.com/",
+    "https://seedlycrm.com/blog/white-label-crm-playbook",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Glamar founded funding employees revenue",
+   "results": [
+    "https://www.reveliolabs.com/companies/glamour/employees",
+    "https://multiples.vc/private-comps/function-of-beauty",
+    "https://wwd.com/beauty-industry-news/beauty-features/clearco-revenue-based-financing-beauty-business-1234988274/",
+    "https://getlatka.com/companies/glance-networks",
+    "https://www.vogue.com/article/the-vogue-business-funding-tracker",
+    "https://www.instagram.com/reel/DcLtwJ0qifq/",
+    "https://www.owler.com/company/g-star",
+    "https://www.facebook.com/InternetBusinessTalk/posts/a-high-school-kid-made-30-million-last-year-with-an-ai-model-dumber-than-the-one/1591943062399192/",
+    "https://femfounded.org/case-studies/glossier/",
+    "https://tracxn.com/d/companies/glamar/__poOnKU6MpLUNZR-YLtH7UwvZmh4xVfwXHqb9L1352lw"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Glamar",
+   "results": [
+    "https://note.com/busintemasamo1/n/n839555b2b5d7",
+    "https://note.com/seigo77",
+    "https://note.com/kouzu34/n/nb44cdcf39c2e?hl=en",
+    "https://note.com/masahiromineyama/n/n63700955d5f5",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/ryo_kaiun/n/na8faeb13c5aa?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/mio_adviser_8888/n/n7d3f9597f090"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:x.com Glamar",
+   "results": [
+    "https://x.com/PixelBinio/status/1875583836169629742",
+    "https://x.com/DancersGlamor/status/1298929322011455488",
+    "https://x.com/DancersGlamor/status/1448523401769852931",
+    "https://x.com/hillron/status/789959866685227008",
+    "https://x.com/LaVerdadVargas/status/1964035804709216473",
+    "https://x.com/GlamarLaboral/status/1253288199436275712",
+    "https://x.com/Mrnaveen6",
+    "https://x.com/LeelarameshR",
+    "https://x.com/afterschool4all",
+    "https://x.com/Glamar_official"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Glamar",
+   "results": [
+    "https://in.linkedin.com/company/glamario",
+    "https://www.linkedin.com/posts/fynd-shopsense_augmentedreality-aradvertising-webar-activity-7351543712557989891-O3XZ",
+    "https://www.linkedin.com/in/glamargaleas",
+    "https://in.linkedin.com/in/glamar-selvaraj-1198366",
+    "https://www.linkedin.com/posts/rakeshsinghparihar_would-you-buy-something-without-seeing-it-activity-7301600170465538049-qxyv",
+    "https://in.linkedin.com/in/neerajshukla1911",
+    "https://in.linkedin.com/in/rakeshsinghparihar",
+    "https://in.linkedin.com/in/pushparaj-shettigar-599076183",
+    "https://in.linkedin.com/in/imjaykaria"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com Glamar",
+   "results": [
+    "https://www.facebook.com/GlamARbyFynd/",
+    "https://www.facebook.com/p/Gla-Mar-Galleries-Custom-Framing-by-Cooper-100067720927025/",
+    "https://www.facebook.com/GlaMar.byStardust/",
+    "https://www.facebook.com/Glamarshop/posts/122270492876160039/",
+    "https://www.facebook.com/farmaciaglamarvb/",
+    "https://www.facebook.com/sud.ip9763/videos/1505110211512360/",
+    "https://www.facebook.com/Glamarsaludbelleza/",
+    "https://www.facebook.com/groups/1433499320265553/posts/4622155261399927/",
+    "https://www.facebook.com/p/Florister%C3%ADa-Glamar-100090911094561/",
+    "https://www.facebook.com/Glamarshop/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Glamar note 社長",
+   "results": [
+    "https://note.com/sadaaki",
+    "https://diamond.jp/articles/-/388572",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://x.com/sadaaki",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://froggy.smbcnikko.co.jp/66484/",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Glamar X 投稿",
+   "results": [
+    "https://x.com/hashtag/Glamour",
+    "https://www.reddit.com/r/indianbikes/comments/1mv6zw0/opinion_on_glamour_x_125/?tl=ja",
+    "https://www.youtube.com/@glamourx3354",
+    "https://www.instagram.com/x__glam__x/",
+    "https://www.sambowry.com/work/glamour-x-samsung",
+    "https://uk.pinterest.com/poppyeliz/glamour-x/",
+    "https://x.com/glamourmag",
+    "https://www.glamour.com/",
+    "https://x.com/Glamar_official/with_replies",
+    "https://x.com/Glamar_official"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "採用・広告の製品": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

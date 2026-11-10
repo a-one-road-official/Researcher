@@ -1,0 +1,556 @@
+{
+ "name": "株式会社バリュー・ファインダー",
+ "aliases": [],
+ "context": "PBF=yes 装置=OPM250;PBF 出典=https://value-finder.co.jp/product/opm250l＋/",
+ "researched_at": "2026-11-10T17:18:14.507769+00:00",
+ "official_url": "https://value-finder.co.jp/",
+ "identified_by": "search:yahoo_jp:バリュー・ファインダー",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒240-0011 神奈川県横浜市保土ケ谷区桜ケ丘2-28-22-105",
+    "url": "https://value-finder.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒240-0011 神奈川県横浜市保土ケ谷区桜ケ丘2-28-22-105",
+    "url": "https://webinarweek.net/ww/202509DX/company/BS_4IASBYqL",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "〒240-0001 神奈川県 横浜市保土ケ谷区桜ケ丘2-28-22-105",
+    "url": "https://www.intermold.jp/2025/outline/search_2025_detail/465/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2023年9月",
+    "url": "https://value-finder.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "AMコーディネーター/メーカー営業代行 AM装置及びソフトウェアの提案、販売 AMパウダーの条件開発支援と販売、造形品の受託請負 AM関連技術の商品化 中古機器の売買（古物商許可証番号：第451400008665号） 工具再研磨及び再コーティングの加工請負、特殊工具の開発支援 補助金申請書作成支援 機械保険のコンサルタント",
+    "url": "https://value-finder.co.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "Metal Additive Manufacturing（金属積層造形）技術に関して、装置やソフトウェア、材料などのご提案やAMを活用した技術の商品化など、技術の導入から活用・発展をトータル的にサポートいたします",
+    "url": "https://value-finder.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【新商品】金属3Dプリンター用 カートリッジフィルターの販売を開始しました",
+    "url": "https://value-finder.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Metal Additive Manufacturing（金属積層造形）技術に関して、装置やソフトウェア、材料などのご提案やAMを活用した技術の商品化など、技術の導入から活用・発展をトータル的にサポートいたします",
+    "url": "https://value-finder.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンターでの金型づくりを、もっと身近に",
+    "url": "https://value-finder.co.jp/minadd/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンターで金型をつくりたいが、どこに依頼すればいいか分からない",
+    "url": "https://value-finder.co.jp/minadd/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンター／周辺技術",
+    "url": "https://webinarweek.net/ww/202509DX/company/BS_4IASBYqL",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社バリュー・ファインダーは、金属3Dプリンターを中心とした先端製造技術の導入・活用をトータルに支援する「AMコーディネーター」です",
+    "url": "https://webinarweek.net/ww/202509DX/company/BS_4IASBYqL",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "【お知らせ】AM金型特化受託加工プラットフォーム「みんなのアディティブ」が金型新聞オンラインに取り上げられました",
+    "url": "https://value-finder.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【お知らせ】みんなのアディティブを開始しました／AM金型メーカーと企業をつなぐプラットフォーム",
+    "url": "https://value-finder.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "みんなのアディティブは、AM金型へのハードルを下げるプラットフォームです",
+    "url": "https://value-finder.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちがご相談内容を人の目で丁寧に確認し、信頼できる金型メーカーの",
+    "url": "https://value-finder.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "みんなのアディティブ｜AM金型受託加工プラットフォーム",
+    "url": "https://value-finder.co.jp/minadd/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンターでの金型づくりを、もっと身近に",
+    "url": "https://value-finder.co.jp/minadd/",
+    "pass": 1
+   },
+   {
+    "quote": "みんなのアディティブはAM金型受託加工のプラットフォームです",
+    "url": "https://value-finder.co.jp/minadd/",
+    "pass": 1
+   },
+   {
+    "quote": "みんなのアディティブは、AM（Additive Manufacturing）金型へのハードルを下げるプラットフォームです",
+    "url": "https://value-finder.co.jp/minadd/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちがご相談内容を人の目で丁寧に確認し、信頼できる金型メーカーのパートナー企業とつなぐことで、",
+    "url": "https://value-finder.co.jp/minadd/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンターで金型をつくりたいが、どこに依頼すればいいか分からない",
+    "url": "https://value-finder.co.jp/minadd/",
+    "pass": 1
+   },
+   {
+    "quote": "自社の課題に対してAM金型が適用可能かどうか判断がつかない",
+    "url": "https://value-finder.co.jp/minadd/",
+    "pass": 1
+   },
+   {
+    "quote": "世の中にあるマッチングサイトの多くはデジタル完結型ですが、金型は一品一様",
+    "url": "https://value-finder.co.jp/minadd/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの後ろには、AM金型に強みを持つ複数の金型メーカーが控えています",
+    "url": "https://value-finder.co.jp/minadd/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーの金型メーカーとやりとりを行い、条件に最適な提案を取りまとめます",
+    "url": "https://value-finder.co.jp/minadd/",
+    "pass": 1
+   },
+   {
+    "quote": "①AM金型受託加工プラットフォーム「みんなのアディティブ」②...",
+    "url": "https://webinarweek.net/ww/202509DX/company/BS_4IASBYqL",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社放電精密加工研究所は、放電加工技術を基盤に、航空宇宙、交通・輸送、環境・エネルギー、機械装置など幅広い分野で事業を展開する企業です",
+    "url": "https://webinarweek.net/ww/202509DX/company/BS_4IASBYqL",
+    "pass": 3
+   },
+   {
+    "quote": "出展者検索 | 展示情報 | インターモールド2025/金型展2025/金属プレス加工技術展2025",
+    "url": "https://www.intermold.jp/2025/outline/search_2025_detail/465/",
+    "pass": 3
+   },
+   {
+    "quote": "IEPCO×LEGO金型 – 世界最高品質の精密成形を支える技術、IEPCO×Additive Manufacturing – 次世代製造の表面処理ソリューション、IEPCO×コーティング前処理 – 最適な表面仕上げで密着性を向上",
+    "url": "https://www.intermold.jp/2025/outline/search_2025_detail/465/",
+    "pass": 3
+   },
+   {
+    "quote": "M. 試作・モデリング・3Dプリンター関連",
+    "url": "https://www.intermold.jp/2025/outline/search_2025_detail/465/",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "自動粉末ふるい機、イエプコ表面処理装置 (プラストロン株式会社)",
+    "url": "https://value-finder.co.jp/about/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社 案内 - 株式会社バリュー・ファインダー — 会社 案内 - 株式会社バリュー・ファインダー 株式会社バリュー・ファインダー https://value-finder.co.jp > company",
+    "url": "https://value-finder.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社バリュー ・ ファインダー ＆（株）放電精密加工研究所 — 株式 会社バリュー ・ ファインダー ＆（株）放電精密加工研究所 Webinar Week https://webinarweek.net > company",
+    "url": "https://webinarweek.net/ww/202509DX/company/BS_4IASBYqL",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社バリュー ・ ファインダー | AMコーディネーター ... — 株式 会社バリュー ・ ファインダー | AMコーディネーター ... 株式会社バリュー・ファインダー https://value-finder.co.jp > Uncategorized",
+    "url": "https://value-finder.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社バリュー ・ ファインダー | 7020001151940 — 株式 会社バリュー ・ ファインダー | 7020001151940 info.gbiz.go.jp https://info.gbiz.go.jp > hojin > ichiran",
+    "url": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7020001151940",
+    "pass": 3
+   },
+   {
+    "quote": "大型樹脂ペレット式 3Dプリンター ／MothMach 茶室GEM ... — 大型樹脂ペレット式 3Dプリンター ／MothMach 茶室GEM ... 株式会社バリュー・ファインダー https://value-finder.co.jp > 取扱商品 > AM装置",
+    "url": "https://value-finder.co.jp/product/large-special-3d-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 バリュー ・ ファインダー ＆（株）放電精密加工研究所 — 株式会社 バリュー ・ ファインダー ＆（株）放電精密加工研究所 Webinar Week https://webinarweek.net > company",
+    "url": "https://webinarweek.net/ww/202509DX/company/BS_4IASBYqL",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 バリュー ・ ファインダー — 株式会社 バリュー ・ ファインダー intermold.jp https://www.intermold.jp > 展示情報 > 出展者一覧",
+    "url": "https://www.intermold.jp/2025/outline/search_2025_detail/465/",
+    "pass": 3
+   },
+   {
+    "quote": "バリューファインダー とは — バリューファインダー とは 株式会社バリュー・ファインダー https://value-finder.co.jp > about",
+    "url": "https://value-finder.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 バリュー ・ ファインダー | AMコーディネーター ... — 株式会社 バリュー ・ ファインダー | AMコーディネーター ... 株式会社バリュー・ファインダー https://value-finder.co.jp > Uncategorized",
+    "url": "https://value-finder.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 - 株式会社バリュー・ファインダー — 会社案内 - 株式会社バリュー・ファインダー 株式会社バリュー・ファインダー https://value-finder.co.jp > company",
+    "url": "https://value-finder.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 バリュー ・ ファインダー | 7020001151940 — 株式会社 バリュー ・ ファインダー | 7020001151940 info.gbiz.go.jp https://info.gbiz.go.jp > hojin > ichiran",
+    "url": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7020001151940",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://value-finder.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://value-finder.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://value-finder.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://value-finder.co.jp/minadd/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://webinarweek.net/ww/202509DX/company/BS_4IASBYqL",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://webinarweek.net/ww/202509DX/company/BS_4IASBYqL",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/column/am-estimate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intermold.jp/2025/outline/search_2025_detail/465/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moomoo.com/ja/community/feed/dream-finders-acquisition-shows-its-dedication-to-enhancing-shareholder-value-111957804515333",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/hirofumi-oyanagi-63b3b628b",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "バリュー・ファインダー",
+   "results": [
+    "https://value-finder.co.jp/",
+    "https://hp.valuefinder.jp/",
+    "https://webinarweek.net/ww/202509DX/company/BS_4IASBYqL",
+    "https://kikaive.com/zh/companies/10021959/value-finder-co-ltd/overview",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7020001151940",
+    "https://www.amazon.co.jp/%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB-%E3%83%90%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%95%E3%82%A1%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC-%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E3%83%93%E3%83%A5%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81%E3%83%A3%E3%83%BC%E3%83%95%E3%82%A1%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC-%E3%83%A9%E3%83%B3%E3%83%A4%E3%83%BC%E3%83%89%E4%B8%8A%E3%81%AB%E3%83%93%E3%83%A5%E3%83%BC%E3%83%95%E3%82%A1%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC-%E3%83%A1%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%86%E3%83%BC%E3%83%97%E3%83%84%E3%83%BC%E3%83%AB%E4%BB%98%E3%81%8D/dp/B07W68M1ZD",
+    "https://jp.linkedin.com/in/hirofumi-oyanagi-63b3b628b",
+    "https://value-finder.co.jp/company/",
+    "https://value-finder.co.jp/service/",
+    "https://value-finder.co.jp/product/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "バリュー・ファインダー 会社概要 資本金 設立",
+   "results": [
+    "https://value-finder.co.jp/company/",
+    "https://webinarweek.net/ww/202509DX/company/BS_4IASBYqL",
+    "https://value-finder.co.jp/",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7020001151940",
+    "https://assets-navi.com/company/8010001152006/",
+    "https://job.mynavi.jp/28/pc/search/corp265057/outline.html",
+    "https://valuefrontier.co.jp/company",
+    "https://www.value-agent.co.jp/?content=company",
+    "https://www.kaisyahakken.metro.tokyo.lg.jp/old/company/crevasystems/",
+    "https://compalyze.co.jp/company/7020001151940"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "バリュー・ファインダー 金属3Dプリンタ 導入",
+   "results": [
+    "https://value-finder.co.jp/product/large-special-3d-printer/",
+    "https://webinarweek.net/ww/202509DX/company/BS_4IASBYqL",
+    "https://jampt.jp/column/am-estimate/",
+    "https://www.intermold.jp/2025/outline/search_2025_detail/465/",
+    "https://www.youtube.com/watch?v=Ew517KG1bOI",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://skhonpo.com/blogs/3dprinter-practice/3dmetalcost",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://www.3dpc.co.jp/articles/metal-3d-printing-technology",
+    "https://value-finder.co.jp/product/工程革新型-金属3dプリンター／alt-form（lpbf式）printシリーズ/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "バリュー・ファインダー 金属積層造形 設備",
+   "results": [
+    "https://value-finder.co.jp/about/",
+    "https://www.intermold.jp/2025/outline/search_2025_detail/465/",
+    "https://chuokatan.co.jp/products/3dp/",
+    "https://ja.3dsystems.com/semiconductor",
+    "https://jampt.jp/column/am-estimate/",
+    "https://kyowa-industrial.jp/am/capabilities",
+    "https://value-finder.co.jp/product/",
+    "https://www.meti.go.jp/meti_lib/report/2021FY/000098.pdf",
+    "https://value-finder.co.jp/",
+    "https://bizexpo.jp/companies/value-finder"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "バリュー・ファインダー 株主 出資 親会社",
+   "results": [
+    "https://value-finder.co.jp/",
+    "https://value-finder.co.jp/company/",
+    "http://www.moomoo.com/ja/community/feed/dream-finders-acquisition-shows-its-dedication-to-enhancing-shareholder-value-111957804515333",
+    "https://value-finder.co.jp/about/",
+    "https://fundinno.com/projects/191",
+    "https://www.skymark.co.jp/ja/company/investor/120420_press.pdf",
+    "https://www.msn.com/ja-jp/money/etfdetails/ownership/fi-c5cr7w?noti=InstitutionalHolding&ownr=1&investorId=0001994563&ocid=ientp%2Ciehp",
+    "https://contents.xj-storage.jp/xcontents/AS01383/2fe8087f/74c3/48fc/9ccf/88a1822d695d/140120230511567668.pdf",
+    "https://fundom.jp/news/o48NkJD_",
+    "https://jp.linkedin.com/in/hirofumi-oyanagi-63b3b628b"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "バリュー・ファインダー 売上高 従業員数",
+   "results": [
+    "https://value-finder.co.jp/",
+    "https://jp.linkedin.com/in/hirofumi-oyanagi-63b3b628b",
+    "https://value-finder.co.jp/company/",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7020001151940",
+    "https://job.mynavi.jp/27/pc/search/corp75964/outline.html",
+    "https://www.fortunebusinessinsights.com/dataSVG?slug=-107431&report_id=107431&locale=jp",
+    "https://www.spglobal.com/ratings/jp/regulatory/jpcr/-/pcr-details/pcrId/3551310/titleNum/51600",
+    "https://value-finder.co.jp/about/",
+    "https://assets.asics.com/system/media_libraries/24903/file.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com バリュー・ファインダー",
+   "results": [
+    "https://note.com/valuefinder/n/nd5ae8118a05d",
+    "https://note.com/valuefinder/n/nfb76bc42f769",
+    "https://note.com/yoshida_yukihiro/n/n06b591ff5bb3",
+    "https://note.com/valuefinder/n/nfe9d6c19a536",
+    "https://note.com/value_keizai_lab/n/n1ec49134e9e6?hl=en",
+    "https://note.com/t92archi/n/n4c3ec1c0fd22",
+    "https://note.com/saki_yogoro/n/na855144b96dd",
+    "https://note.com/hiranotomoki/n/na5e09d7c07c6",
+    "https://note.com/wise_clover6454/n/nb60e2e8cb6b3",
+    "https://note.com/nycinc/n/n37722ccb1961"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com バリュー・ファインダー",
+   "results": [
+    "https://x.com/TheSheepAwaken/status/2114234478985891848",
+    "https://x.com/EaglesXsandOs/status/2109798802106224956",
+    "https://x.com/DLFootball/status/2115829630611362297",
+    "https://x.com/itsmrbarrel/status/2112604983338352745?lang=bg",
+    "https://x.com/mamaknowsbets/status/2117701877164859440",
+    "https://x.com/SharpFootball/status/2093727112830099480",
+    "https://x.com/DynastyDadFF/status/2109626584244339097",
+    "https://x.com/kucoincom/status/1531208162774134785",
+    "https://x.com/OddsMonkey/status/2117255860262990295",
+    "https://x.com/mamaknowsbets/status/2117337766442725749"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com バリュー・ファインダー",
+   "results": [
+    "https://jp.linkedin.com/in/hirofumi-oyanagi-63b3b628b",
+    "https://www.linkedin.com/posts/inverto-gmbh_how-the-inverto-ai-value-finder-can-transform-activity-7259528366217662465-SrsU",
+    "https://www.linkedin.com/posts/hirofumi-oyanagi-63b3b628b_jimtof-jimtof2024-additive-activity-7259095444981469184-6WIt",
+    "https://www.linkedin.com/in/jake-bergren",
+    "https://www.linkedin.com/posts/nilslehmann_procurement-dataanalytics-genai-activity-7478429812265578498-Zmgy",
+    "https://www.linkedin.com/in/davidephillips",
+    "https://www.linkedin.com/in/sharprenee",
+    "https://au.linkedin.com/in/lbloem",
+    "https://www.linkedin.com/in/ravi-sm-ranjan",
+    "https://au.linkedin.com/company/finder"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com バリュー・ファインダー",
+   "results": [
+    "https://www.facebook.com/groups/watercolourbeginners/posts/4341403356175774/",
+    "https://www.facebook.com/groups/1018146891628200/posts/4293620517414138/",
+    "https://www.facebook.com/p/Zonal-Value-Finder-PH-61558262219291/",
+    "https://www.facebook.com/choicethediscountstore/posts/-%F0%9D%90%82%F0%9D%90%87%F0%9D%90%8E%F0%9D%90%88%F0%9D%90%82%F0%9D%90%84-%F0%9D%90%92%F0%9D%90%94%F0%9D%90%8F%F0%9D%90%84%F0%9D%90%91-%F0%9D%90%92%F0%9D%90%80%F0%9D%90%95%F0%9D%90%84%F0%9D%90%91%F0%9D%90%92-%F0%9D%90%86%F0%9D%90%91%F0%9D%90%84%F0%9D%90%80%F0%9D%90%93-%F0%9D%90%81%F0%9D%90%80%F0%9D%90%91%F0%9D%90%86%F0%9D%90%80%F0%9D%90%88%F0%9D%90%8D%F0%9D%90%92-%F0%9D%90%84%F0%9D%90%95%F0%9D%90%84%F0%9D%90%91%F0%9D%90%98-%F0%9D%90%83%F0%9D%90%80%F0%9D%90%98-%EF%B8%8Fdiscover-great-value-and-everyday/1672879244840388/",
+    "https://www.facebook.com/groups/830462148134692/posts/1673656980481867/",
+    "https://www.facebook.com/groups/reviewer2/posts/10159814765620469/",
+    "https://www.facebook.com/MRANTLERS/posts/when-a-shed-finder-or-hunter-has-antlers-for-sale-accurate-weight-to-the-ounce-i/26281227618128322/",
+    "https://www.facebook.com/learningsol/posts/the-position-of-chief-value-finder-was-filled-by-a-penguin-wanna-know-why/670541878406138/",
+    "https://www.facebook.com/nineconstructionhardware/posts/-%F0%9D%90%85%F0%9D%90%88%F0%9D%90%8D%F0%9D%90%83%F0%9D%90%84%F0%9D%90%91-%F0%9D%90%8F%F0%9D%90%8E%F0%9D%90%96%F0%9D%90%84%F0%9D%90%91-%F0%9D%90%93%F0%9D%90%8E%F0%9D%90%8E%F0%9D%90%8B-%F0%9D%90%8F%F0%9D%90%80%F0%9D%90%82%F0%9D%90%8A%F0%9D%90%80%F0%9D%90%86%F0%9D%90%84%F0%9D%90%92-%F0%9D%90%80%F0%9D%90%91%F0%9D%90%84-%F0%9D%90%87%F0%9D%90%84%F0%9D%90%91%F0%9D%90%84-more-tools-more-power-better-value-in-one-p/122222482304566636/",
+    "https://www.facebook.com/hirofumi.oyanagi/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "バリュー・ファインダー note 社長",
+   "results": [
+    "https://value-finder.co.jp/company/",
+    "https://note.com/wealthnavi_hr/n/n83bb3cf4ddf4",
+    "https://note.com/himaratsu/n/nc84dede085f0",
+    "https://docs.pega.com/bundle/customer-decision-hub/page/customer-decision-hub/cdh-portal/run-value-finder-simulations.html",
+    "https://note.jp/n/naa4bdbc5fb78",
+    "https://value-finder.co.jp/",
+    "https://note.com/valuehr_official/n/n137af3fe75d1",
+    "https://note.com/value_yamagata/all",
+    "https://www.signavio.com/jp/success-stories/mckinsey-company-rewiring-value-creation-with-value-finder-and-sap/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "バリュー・ファインダー X 投稿",
+   "results": [
+    "https://value-finder.co.jp/contact/",
+    "https://x.com/value_invest12",
+    "https://valuefinder.jp/",
+    "https://www.reddit.com/r/DynastyFF/comments/1skl5ao/dynastycalc_updated_its_trade_finder_to_factor_in/",
+    "https://www.facebook.com/Valuex.eg/",
+    "https://note.com/moonx/n/n0699965c0b9e",
+    "https://www.nikkei.com/article/DGXZQOUB261XI0W6A420C2000000/",
+    "https://www.youtube.com/watch?v=jQNZ6OSiCDY",
+    "https://www.value-x.com/",
+    "https://x.com/valuegolf_PR/status/2081537553719509075"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "資本金": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部7頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部7頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部7頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部7頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部7頁・検索12回）",
+  "資本金・株主": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部7頁・検索12回）"
+ }
+}

@@ -1,0 +1,1229 @@
+{
+ "name": "Exyn Technologies",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-10T17:24:21.443029+00:00",
+ "official_url": "https://www.exyn.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "April 22, 2026",
+    "url": "https://www.exyn.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Data Privacy Rights Form",
+    "url": "https://www.exyn.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Launch of our first pilot project. Awarded Startup of the Year from Penn's Center for Innovation. Further office expansion to Washington Avenue in Philadelphia. Invited to fly the first ever aircraft inside the Smithsonian National Air & Space Museum",
+    "url": "https://www.exyn.com/about/company",
+    "pass": 1
+   },
+   {
+    "quote": "Exyn begins underground testing of ExynAI including demonstrations for SEPTA and Dundee Precious Metals. Joined Team PLUTO to compete in the DARPA SubT Challenge.",
+    "url": "https://www.exyn.com/about/company",
+    "pass": 1
+   },
+   {
+    "quote": "Raised $16+ million in Series A round, filed first round of patents with USPTO, and delivered the first set of Exyn A3R's to Dundee Precious Metals.",
+    "url": "https://www.exyn.com/about/company",
+    "pass": 1
+   },
+   {
+    "quote": "Exyn unveils its product line for the mining industry, the ExynAero and ExynPak",
+    "url": "https://www.exyn.com/about/company",
+    "pass": 1
+   },
+   {
+    "quote": "April 22, 2026",
+    "url": "https://www.exyn.com/about/company",
+    "pass": 1
+   },
+   {
+    "quote": "Data Privacy Rights Form",
+    "url": "https://www.exyn.com/about/company",
+    "pass": 1
+   },
+   {
+    "quote": "Exyn is committed to creating a diverse, equitable, and inclusive workplace. We have structures in place to encourage objectivity across the organization, from recruiting and hiring to performance and promotion. We also actively work with organizations to support the development of marginalized groups in tech, including BIPOC, LGBTQ+, women and veterans.",
+    "url": "https://www.exyn.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We create opportunities for growth, personally and professionally.",
+    "url": "https://www.exyn.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We deliver outstanding products and service to our customers.",
+    "url": "https://www.exyn.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We prepare to weather the dips and dives in the path to success.",
+    "url": "https://www.exyn.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Exyn offers a comprehensive set of employee benefits to support you at work, at home, and in your community.",
+    "url": "https://www.exyn.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Career Development Programs",
+    "url": "https://www.exyn.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to make an impact? We're actively hiring in the roles below. Submit a simple application to get the conversation started.",
+    "url": "https://www.exyn.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We believe the riskiest jobs should belong to robots, not people, and we’re building the intelligence to make that vision real. At Exyn, you’ll join a team of passionate innovators, engineers, and problem-solvers dedicated to pushing the boundaries of autonomy and robotics.",
+    "url": "https://www.exyn.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You’ll collaborate closely with robotics, hardware, and product teams, and have opportunities to support field deployments and interface with customers and partners.",
+    "url": "https://www.exyn.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Develop core localization and mapping related products including real-time and offline SLAM, colorization, and sensor calibration",
+    "url": "https://www.exyn.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Studies show that underrepresented groups often hesitate to apply unless they meet 100% of the qualifications. If this role aligns with your career goals, we encourage you to apply, even if you don’t check every box!",
+    "url": "https://www.exyn.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Here are the qualifications we value in a candidate:",
+    "url": "https://www.exyn.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "2+ years of professional experience using modern C++ (C++17 or newer)",
+    "url": "https://www.exyn.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Deep understanding of SLAM principles including Lidar/Visual-Inertial Odometry, IMU Preintegration, Multi-sensor fusion",
+    "url": "https://www.exyn.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Experience with probabilistic estimation using factor graphs and/or Kalman filters",
+    "url": "https://www.exyn.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We’re committed to offering fair and competitive compensation that reflects the value of your contributions and provides you with opportunities for growth and advancement within our organization. The salary range for this position is $120,000-$150,000/year, and we also offer:",
+    "url": "https://www.exyn.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive benefits: Health, vision, and dental insurance starting day one - with 100% employer-paid coverage for two of our three plan options",
+    "url": "https://www.exyn.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Work-life balance: Generous vacation time (4 weeks annually, prorated based on your start date in your first year), 12 paid holidays, family leave (eligible after one year of service), and flexible schedules.",
+    "url": "https://www.exyn.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Cultural autonomy, not just robot autonomy. We encourage Exyneers to take risks, solve challenging problems, and set their own path. Asynchronous work allows the team to work in the environment that best suits their needs.",
+    "url": "https://www.exyn.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Health is wealth. We’re a people-first environment, and our programs support physical, emotional, intellectual, social, environmental, and occupational wellness.",
+    "url": "https://www.exyn.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Pipeline infrastructure for post-processing of capture data; i.e., the software that ties together all of the algorithms that run on sensor data and generate data products for end users",
+    "url": "https://www.exyn.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "User interfaces, API, and SDK for command & control, post-processing, and robot administration",
+    "url": "https://www.exyn.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "5+ years of experience delivering software products in a commercial setting",
+    "url": "https://www.exyn.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Check out some interviews from the team to get to know us.",
+    "url": "https://www.exyn.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Spotlight Interview: What's it like to be a Field Engineer at Exyn",
+    "url": "https://www.exyn.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We work with partners throughout the world to provide the best autonomous mapping products and services.",
+    "url": "https://www.exyn.com/distributors-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Global Product Availability",
+    "url": "https://www.exyn.com/distributors-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Exyn has a growing list of distributors and partners throughout the globe who are trained and available to provide product demonstrations at your site.",
+    "url": "https://www.exyn.com/distributors-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Keystone Precision Solutions",
+    "url": "https://www.exyn.com/distributors-partners",
+    "pass": 1
+   },
+   {
+    "quote": "When discussing with our surveying customers, the real need was a product that would map and navigate their underground caverns, much like what they saw in the blockbuster movie ‘Prometheus’. The ability to make science fiction a reality is very appealing, inspiring, and most importantly, possible – that much was clear after Exyn first demoed their product to us.",
+    "url": "https://www.exyn.com/distributors-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Marketing, C.R. Kennedy",
+    "url": "https://www.exyn.com/distributors-partners",
+    "pass": 1
+   },
+   {
+    "quote": "We’re excited to be working with Exyn Technologies and providing our unique resources and services at the NORCAT Underground Centre to support the continued growth of this exceptional tech company.",
+    "url": "https://www.exyn.com/distributors-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President, Business Unit Automation, Sandvik Mining and Rock Solutions",
+    "url": "https://www.exyn.com/distributors-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Product & Technology Partners",
+    "url": "https://www.exyn.com/distributors-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Exyn works with the best companies in the world to deliver ground-breaking products and services.",
+    "url": "https://www.exyn.com/distributors-partners",
+    "pass": 1
+   },
+   {
+    "quote": "We are actively expanding our product distribution network and exploring new opportunities better serve our customers and communities. Interested? Let's chat.",
+    "url": "https://www.exyn.com/distributors-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Data Privacy Rights Form",
+    "url": "https://www.exyn.com/distributors-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Exyn's pilot-free drones and portable ground systems deliver precise 3D maps, sensor data, and georeferenced models to the mining industry.",
+    "url": "https://www.exyn.com/industries/mining-cavity-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "Exyn Nexys, mounted on a drone, launches at the press of a button, and navigates pilot-free through the entire stope in a single flight. Upgrade your",
+    "url": "https://www.exyn.com/industries/mining-cavity-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "Lightning Fast Post Processing",
+    "url": "https://www.exyn.com/industries/mining-cavity-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "Exyn sets the industry standard for high-speed map post-processing. Survey teams process data right on the tablet, as soon as Nexys returns home. Whether they are still underground, or back at the control center, the entire process takes less time than the flight.",
+    "url": "https://www.exyn.com/industries/mining-cavity-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "One of Exyn's long-time partners, Dundee Precious Metals, recently collaborated on a whitepaper to investigate how their underground operations have changed with the introduction of an autonomous aerial mapping solution like Nexys.",
+    "url": "https://www.exyn.com/industries/mining-cavity-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "Since adopting the Nexys system, the survey team has significantly increased the number of scans conducted on production stopes. One of the key reasons for this increase is the user-friendly nature of the system — according to the survey team, they look forward to operating it, making safety and efficiency “fun”.",
+    "url": "https://www.exyn.com/industries/mining-cavity-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "Dundee Precious Metals",
+    "url": "https://www.exyn.com/industries/mining-cavity-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "Dundee Precious Metals reveals how Exyn’s fully autonomous aerial drones are transforming their cavity monitoring systems with increased safety and maximum efficiency. Featuring Iliya Garkov, VP and Managing Director and Sergei Mihalev, Chief Surveyor.",
+    "url": "https://www.exyn.com/industries/mining-cavity-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "Our customers range from federal IT specialists to corporate construction managers. And they have one thing in common: appreciation for safe, efficient, sophisticated — and frankly cool — data-capture technology.",
+    "url": "https://www.exyn.com/industries/mining-cavity-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "VP & MD Bulgaria, Dundee Precious Metals",
+    "url": "https://www.exyn.com/industries/mining-cavity-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "Canadian Royalties Inc., a private mining company based in Montreal that operates underground copper and nickel mines in Nunavik (province of Quebec), faced significant challenges in surveying and mapping their underground production voids, or stopes, in their mining operations.",
+    "url": "https://www.exyn.com/industries/mining-cavity-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "By adopting the Nexys scanning solution and autonomy license, Canadian Royalties has significantly enhanced safety, improved accuracy, and streamlined surveying operations throughout their entire facility.",
+    "url": "https://www.exyn.com/industries/mining-cavity-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "Nexys Pro System Specifications",
+    "url": "https://www.exyn.com/industries/mining-cavity-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "Nexys Pro Accuracy Whitepaper",
+    "url": "https://www.exyn.com/industries/mining-cavity-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "Data Privacy Rights Form",
+    "url": "https://www.exyn.com/industries/mining-cavity-monitoring",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by industry leaders worldwide",
+    "url": "https://www.exyn.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Exyn is powered by a team of experts in autonomous systems, robotics, and industrial engineering, and has drawn talent from Penn’s world-renowned GRASP Laboratory as well as other storied research institutions.",
+    "url": "https://www.exyn.com/about/company",
+    "pass": 1
+   },
+   {
+    "quote": "Global Bridge Industrial (GBI)",
+    "url": "https://www.exyn.com/distributors-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Our teams have been working closely together to ensure the connection between Exyn and Sandvik’s systems would be seamless and easy for operators to use. ... we look forward to further developing our partnership and integrating our hardware and software systems in the coming months.",
+    "url": "https://www.exyn.com/distributors-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Industry Leaders",
+    "url": "https://www.exyn.com/industries/mining-cavity-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "Exyn is powered by a team of experts in autonomous systems, robotics, and industrial engineering working together to build robots that keep people safe while keeping an eye on the future. Whether you're a partner looking to innovate, or a dreamer trying to change the world, get in touch.",
+    "url": "https://www.exyn.com/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by global leaders and deployed successfully across industries.",
+    "url": "https://www.exyn.com/become-a-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Our teams have been working closely together to ensure the connection between Exyn and Sandvik’s systems would be seamless and easy for operators to use. ... we look forward to further developing our partnership and integrating our hardware and software systems in the coming months.",
+    "url": "https://www.exyn.com/become-a-partner",
+    "pass": 1
+   },
+   {
+    "quote": "This overview of autonomy levels is based on standards in the automotive industry that Exyn",
+    "url": "https://www.exyn.com/hubfs/Exyn_Aerial-Autonomy-Levels_v2@2x.jpg?hsLang=en",
+    "pass": 1
+   },
+   {
+    "quote": "Digital twins for industrial assets — the fastest-growing adjacency Exyn enables.",
+    "url": "https://investorroadshow.exyn.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial drone platforms across inspection, mapping, and industrial operations.",
+    "url": "https://investorroadshow.exyn.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by industry leaders worldwide",
+    "url": "https://investorroadshow.exyn.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Proven underground — autonomous stope & cavity mapping for global mining operators.",
+    "url": "https://investorroadshow.exyn.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study · Stope Mining",
+    "url": "https://investorroadshow.exyn.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Led by experienced operators with a record of commercialization and execution.",
+    "url": "https://investorroadshow.exyn.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Exyn Broadens Autonomous Robotics Ecosystem Through Strategic Collaboration with UP Caeli Via for Compact Industrial Drones",
+    "url": "https://investorroadshow.exyn.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto is the leading autonomous inspection and monitoring solution provider, revolutionizing how industrial sites monitor and inspect their critical infrastructure and assets. Listed in TIME magazine’s 100 Best Inventions of …",
+    "url": "https://www.featuredcustomers.com/vendor/exyn-technologies/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/exyn-technologies/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Taiwan Semiconductor Manufacturing Company Limited ADR",
+    "url": "https://money.note.com/us-companies/EXYN",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Channel Partner Portal",
+    "url": "https://www.exyn.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Channel Partner Portal",
+    "url": "https://www.exyn.com/about/company",
+    "pass": 1
+   },
+   {
+    "quote": "Exyn Technologies rebrands to Exyn to better reflect who we are today and where we’re headed next -- expanding our technology, our customer base, and the environments we serve.",
+    "url": "https://www.exyn.com/about/company",
+    "pass": 1
+   },
+   {
+    "quote": "Channel Partner Portal",
+    "url": "https://www.exyn.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Channel Partner Portal",
+    "url": "https://www.exyn.com/distributors-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Channel Partner Portal",
+    "url": "https://www.exyn.com/industries/mining-cavity-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "Channel Partner Portal",
+    "url": "https://www.exyn.com/industries/construction-aec-scan-to-bim",
+    "pass": 1
+   },
+   {
+    "quote": "Channel Partner Portal",
+    "url": "https://www.exyn.com/industries/geospatial-surveying-mapping",
+    "pass": 1
+   },
+   {
+    "quote": "Channel Partner Portal",
+    "url": "https://www.exyn.com/industries/oil-and-gas-lidar-survey",
+    "pass": 1
+   },
+   {
+    "quote": "Channel Partner Portal",
+    "url": "https://www.exyn.com/industries/defense",
+    "pass": 1
+   },
+   {
+    "quote": "Channel Partner Portal",
+    "url": "https://www.exyn.com/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "Channel Partner Portal | Exyn",
+    "url": "https://www.exyn.com/channel-partner-portal",
+    "pass": 1
+   },
+   {
+    "quote": "Channel Partner Portal",
+    "url": "https://www.exyn.com/channel-partner-portal",
+    "pass": 1
+   },
+   {
+    "quote": "Become A Partner | Exyn",
+    "url": "https://www.exyn.com/become-a-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Channel Partner Portal",
+    "url": "https://www.exyn.com/become-a-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Exyn enables resellers to deliver cutting-edge autonomy solutions, relied on by industry leaders across mining, construction, geospatial, and more.",
+    "url": "https://www.exyn.com/become-a-partner",
+    "pass": 1
+   },
+   {
+    "quote": "– Submit your interest to join the Exyn Partner Program.",
+    "url": "https://www.exyn.com/become-a-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Certified Reseller Partners",
+    "url": "https://www.exyn.com/become-a-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Join the Exyn Partner Program",
+    "url": "https://www.exyn.com/become-a-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Hardware-agnostic autonomy software licensed to OEMs and integrators — high-margin, recurring revenue.",
+    "url": "https://investorroadshow.exyn.com/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Exyn launches Range to deliver mission-ready autonomy and modular robotic capabilities for defense and other high-consequence environments where GPS-denied performance, flexibility, and rapid deployment matter most. Range is a fully-owned subsidiary of Exyn.",
+    "url": "https://www.exyn.com/about/company",
+    "pass": 1
+   },
+   {
+    "quote": "Exyn is committed to creating a diverse, equitable, and inclusive workplace. We have structures in place to encourage objectivity across the organization, from recruiting and hiring to performance and promotion. We also actively work with organizations to support the development of marginalized groups in tech, including BIPOC, LGBTQ+, women and veterans.",
+    "url": "https://www.exyn.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Excellence requires agility. We respond to the needs of employees, our customers, and our environment to continuously adapt and deliver quality results.",
+    "url": "https://www.exyn.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Exyn Technologies is an equal-opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. For positions in the United States of America, our company, Exyn Technologies, uses E-Verify to confirm employment eligibility. To learn more about E-Verify, including your rights and responsibilities, please visit",
+    "url": "https://www.exyn.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Exyn Technologies is an equal-opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. For positions located in the United States of America, our company Exyn Technologies uses E-Verify to confirm employment eligibility. To learn more about E-Verify, including your rights and responsibilities, please visit",
+    "url": "https://www.exyn.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The main purpose of our collaboration with Exyn is to improve our productivity on the construction site. The technology was great ... it was really easy to set the flight routes. We prepared some really difficult, narrow routes but [Exyn’s] Technology achieved them all.",
+    "url": "https://www.exyn.com/industries/construction-aec-scan-to-bim",
+    "pass": 1
+   },
+   {
+    "quote": "With rapid acquisition of survey-quality data, in-field post-processing for immediate visualization, and a convertible form factor supporting multiple configurations, Nexys can drive efficiency, enhance safety, enable better environmental stewardship, and more informed decision-making.",
+    "url": "https://www.exyn.com/industries/oil-and-gas-lidar-survey",
+    "pass": 1
+   },
+   {
+    "quote": "-- a 3D mapping ecosystem capable of portable mapping when you can carry by hand or autonomous when you need a drone to capture for you.",
+    "url": "https://www.exyn.com/industries/oil-and-gas-lidar-survey",
+    "pass": 1
+   },
+   {
+    "quote": "The Nexys Ecosystem of accessories enables it to be handheld, carried in a backpack, mounted to a vehicle, piloted on an aerial robot, or -- using our industry-leading AL4 volumetric exploration -- it can autonomously navigate aerial and ground based robots.",
+    "url": "https://www.exyn.com/nexys-pro-product-sheet",
+    "pass": 1
+   },
+   {
+    "quote": "In this customer story, Dundee Precious Metals, one of earliest adopters of Exyn solutions, explains how they began using the original autonomous aerial system more than five years ago and how the newest iteration, Nexys, has become an integral part of their daily operations.",
+    "url": "https://www.exyn.com/nexys-uncovers-roi-with-single-autonomous-stope-flight",
+    "pass": 1
+   },
+   {
+    "quote": "EXYN Technologies (NASDAQ: EXYN) | Investor Overview",
+    "url": "https://investorroadshow.exyn.com/",
+    "pass": 3
+   },
+   {
+    "quote": "FY2025 Revenue",
+    "url": "https://investorroadshow.exyn.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Hardware-agnostic autonomy software licensed to OEMs and integrators — high-margin, recurring revenue.",
+    "url": "https://investorroadshow.exyn.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Versatile Nexys payload plus hardware-agnostic software with API/SDK for recurring, high-margin revenue.",
+    "url": "https://investorroadshow.exyn.com/",
+    "pass": 3
+   },
+   {
+    "quote": ". Financial figures shown reflect fiscal year 2025 results and the company's May 2026 IPO as publicly disclosed. Investing in Exyn securities involves a high degree of risk, including possible loss of your entire investment.",
+    "url": "https://investorroadshow.exyn.com/",
+    "pass": 3
+   },
+   {
+    "quote": "NasdaqCM - Nasdaq Real Time Price",
+    "url": "https://finance.yahoo.com/quote/EXYN/?fr=sycsrp_catchall",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise Value/Revenue",
+    "url": "https://finance.yahoo.com/quote/EXYN/?fr=sycsrp_catchall",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto is the leading autonomous inspection and monitoring solution provider, revolutionizing how industrial sites monitor and inspect their critical infrastructure and assets. Listed in TIME magazine’s 100 Best Inventions of …",
+    "url": "https://www.featuredcustomers.com/vendor/exyn-technologies/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/exyn-technologies/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Nader Elm is listed as CEO at Exyn Technologies.",
+    "url": "https://fundediq.co/exyn-technologies-exyn-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Exyn Technologies have?",
+    "url": "https://fundediq.co/exyn-technologies-exyn-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/exyn-technologies-exyn-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/exyn-technologies-exyn-com-funding/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "hello@exyntechnologies.com",
+    "url": "https://www.exyn.com/channel-partner-portal",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/exyn-technologies/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/exyn-technologies/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/exyn-technologies-exyn-com-funding/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "EXYN Technologies (NASDAQ: EXYN) | Investor Overview — Exyn Technologies (NASDAQ: EXYN) is a pioneer in Level 4B autonomous robotics and AI for GPS-denied, safety-critical environments — serving mining, construction, geospatial, and defense.",
+    "url": "https://investorroadshow.exyn.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Exyn Technologies, Inc. (EXYN) Stock Price, News, Quote ... — Find the latest Exyn Technologies, Inc. (EXYN) stock quote, history, news and other vital information to help you with your stock trading and investing.",
+    "url": "https://finance.yahoo.com/quote/EXYN/?fr=sycsrp_catchall",
+    "pass": 3
+   },
+   {
+    "quote": "Exyn | Investor Relations — Exyn Technologies develops both SW-only and payload-based modular autonomy and mappy products for complex, GPS-denied, and safety-critical environments, delivering reliable field data with minimal human involvement.",
+    "url": "https://investors.exyn.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Exyn Technologies B2B Case Studies & Customer Successes — See how Exyn Technologies solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/exyn-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "4 Exyn Technologies Case Studies, Success Stories, & Customer ... — Narrow down 4 case studies by company size & industry to find out how Exyn Technologies works for a business like yours.",
+    "url": "https://www.featuredcustomers.com/vendor/exyn-technologies/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Blog | Exyn Technologies | Customer Story — Customer Story | Stay up to date on the past, present and future of aerial autonomy and 3D SLAM mapping.",
+    "url": "https://www.exyn.com/news/tag/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Exyn Technologies - Overview, News & Similar companies ... — Gather financial insights about Exyn Technologies, including details on funding rounds, investors, total funding, and acquisitions, to gain a comprehensive understanding of their financial strategy.",
+    "url": "https://www.zoominfo.com/c/exyn-technologies/363310072",
+    "pass": 3
+   },
+   {
+    "quote": "Exyn Technologies: Funding, Investors & Team (Oct 2026) — Exyn Technologies is a company that emerged from the GRASP Laboratory at the University of Pennsylvania, leveraging more than ten years of research in autonomous flight and aerial robotics.",
+    "url": "https://fundediq.co/exyn-technologies-exyn-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Exyn Technologies — Company Profile & Funding | Indexed.vc — Exyn Technologies is a Robotics company based in Philadelphia, founded in 2014. It has raised $56.7M in total across 4 rounds, most recently a $5.0M Extension Round round in Jul 2024.",
+    "url": "https://indexed.vc/companies/exyn-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Exyn Technologies 2026 Company Profile: Stock Performance ...Exyn Technologies — venture-backed company profile | DealroomExyn Technologies Information - RocketReach — Information on stock, financials, earnings, subsidiaries, investors, and executives for Exyn Technologies. Use the PitchBook Platform to explore the full profile. The company generates revenue through direct sales, leasing agreement",
+    "url": "https://pitchbook.com/profiles/company/166749-22",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Exyn Technologies, Inc.（EXYN）最新株価・配当情報と今後の見通し |... Exyn Technologies, Inc.（EXYN）の最新株価、配当情報、業績動向を徹底解説！ 今後の見通しや投資のポイントを専門家視点でわかりやすく紹介。 初心者から上級者まで役立つnoteの記事が満載！",
+    "url": "https://money.note.com/us-companies/EXYN",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Exyn Technologies, Inc.（EXYN）株価・今後の見通し・予想｜noteマネー",
+    "url": "https://money.note.com/us-companies/EXYN",
+    "pass": 3
+   },
+   {
+    "quote": "Exyn Technologies, Inc.",
+    "url": "https://money.note.com/us-companies/EXYN",
+    "pass": 3
+   },
+   {
+    "quote": "11/10 11:20（米国東部時間）更新",
+    "url": "https://money.note.com/us-companies/EXYN",
+    "pass": 3
+   },
+   {
+    "quote": "Taiwan Semiconductor Manufacturing Company Limited ADR",
+    "url": "https://money.note.com/us-companies/EXYN",
+    "pass": 3
+   },
+   {
+    "quote": "Sony Group Corporation ADR",
+    "url": "https://money.note.com/us-companies/EXYN",
+    "pass": 3
+   },
+   {
+    "quote": "Nokia Corporation ADR",
+    "url": "https://money.note.com/us-companies/EXYN",
+    "pass": 3
+   },
+   {
+    "quote": "Telefonaktiebolaget LM Ericsson ADR",
+    "url": "https://money.note.com/us-companies/EXYN",
+    "pass": 3
+   },
+   {
+    "quote": "United Microelectronics Corporation ADR",
+    "url": "https://money.note.com/us-companies/EXYN",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Exyn Technologies (Nasdaq: $EXYN): Range Subsidiary Rebranded ... Why Investors Are Watching: • ExynAI enables autonomous navigation, mapping, and mission execution in GPS-denied and communications-denied environments • Commercial deployments already generate real-world operational data across more than 1,000 autonomous missions per month • Dedicated defense subsidiary provides a focused path into",
+    "url": "https://x.com/RedChip/status/2069479295144038838",
+    "pass": 3
+   },
+   {
+    "quote": "⚡ Exyn Technologies (Nasdaq: $EXYN) just completed its IPO on ... RedChip (@RedChip). ⚡ Exyn Technologies (Nasdaq: $EXYN) just completed its IPO on Nasdaq — and the technology behind it operates where no other drone can.",
+    "url": "https://x.com/RedChip/status/2069046506137509976",
+    "pass": 3
+   },
+   {
+    "quote": "Exyn on X: \"The Nexys ecosystem is expanding to include the ... “Our strategy is to make ExynAI available across a growing ecosystem of trusted robotic platforms, and the X500 is a strong example of that approach.\" - Ben Williams, Interim CEO and COO of Exyn Technologies. Read the full release: investors.exyn.com/pr/exyn-techno…",
+    "url": "https://x.com/ExynTech/status/2100200977563312485",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Exyn Technologies - LinkedIn The world leader in autonomous data acquisition for digitally starved industries in GPS-denied environments. | Exyn is pioneering autonomous aerial robot systems for complex, GPS-denied...",
+    "url": "https://www.linkedin.com/company/exyn-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Ben Williams - Entrepreneur. Simian. Product + Technology ...Douglas Minke - Vice President of Sales & Business ... - LinkedInRaffi Jabrayan - Director, Strategic Partnerships- Mining and ...Nader Elm - Serial Entrepreneur/Intrapreneur in Software ...Cristian Ramirez - Business Development | Sales ...Brittany Newton (Teal), MBA - Controller @ Exyn Technologies ... I am currently the CEO of Exyn Te",
+    "url": "https://www.linkedin.com/in/bentropy",
+    "pass": 3
+   },
+   {
+    "quote": "Douglas Minke - Vice President of Sales & Business ... - LinkedInRaffi Jabrayan - Director, Strategic Partnerships- Mining and ...Nader Elm - Serial Entrepreneur/Intrapreneur in Software ...Cristian Ramirez - Business Development | Sales ...Brittany Newton (Teal), MBA - Controller @ Exyn Technologies ... Vice President of Sales & Business Development · Experience: Exyn Technologies · Location: Gre",
+    "url": "https://ca.linkedin.com/in/douglasminke",
+    "pass": 3
+   },
+   {
+    "quote": "Raffi Jabrayan - Director, Strategic Partnerships- Mining and ...Nader Elm - Serial Entrepreneur/Intrapreneur in Software ...Cristian Ramirez - Business Development | Sales ...Brittany Newton (Teal), MBA - Controller @ Exyn Technologies ... A large part of his role at Exyn is to help miners leverage the data produced by Exyn's autonomous aerial robots to streamline underground inspections, enhance",
+    "url": "https://ca.linkedin.com/in/raffi-jabrayan-44a24ba1",
+    "pass": 3
+   },
+   {
+    "quote": "Ben Williams - Entrepreneur. Simian. Product + Technology ...Exyn Technologies CEO resigns over $286K in personal expenses ...Exyn CEO Resigns Over $286K Personal ExpensesExyn Technologies CEO Resigns Following Misuse of Company Funds I am currently the CEO of Exyn Technologies, an autonomous drone technology stack leading the industry in unstructured environment and GPS-denied navigation. Aug 20,",
+    "url": "https://www.linkedin.com/in/bentropy",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Exyn Technologies - FacebookExciting news! Exyn Technologies... - Exyn ... - FacebookExyn vs Competitors! Excited to... - Exyn Technologies ...Exyn Technologies - Exciting news! Exyn Technologies will ...Ready to see the future of... - Exyn Technologies - FacebookLiDAR-based SLAM platforms have... - Exyn Technologies ...New Integration Alert: Introducing... - Exyn Technologies ... Oct 20, 2025 · E",
+    "url": "https://www.facebook.com/ExynTech/",
+    "pass": 3
+   },
+   {
+    "quote": "Exciting news! Exyn Technologies... - Exyn ... - Facebook Come visit us at booth #132 to see our underground mapping technology in action. 🗺️🤖 This is a great chance to explore how our autonomous robotics solutions are transforming the mining industry.",
+    "url": "https://www.facebook.com/ExynTech/posts/exciting-news-exyn-technologies-will-be-at-sme-minexchange-2025-in-denver-from-f/1193604156100933/",
+    "pass": 3
+   },
+   {
+    "quote": "Exyn vs Competitors! Excited to... - Exyn Technologies ... Mar 24, 2025 · 🚀 Exyn vs Competitors! Excited to share amazing feedback from a company evaluating our solutions. Here's what stood out: 💡 Engineering & Design: Our hardware is “built for field work, much more ruggedized” and “a notch above anything else in the market.”",
+    "url": "https://www.facebook.com/ExynTech/posts/-exyn-vs-competitors-excited-to-share-amazing-feedback-from-a-company-evaluating/1222885083172840/",
+    "pass": 3
+   },
+   {
+    "quote": "Exyn Technologies - Exciting news! Exyn Technologies will ... Feb 18, 2025 · Exciting news! 🚀 Exyn Technologies will be at SME MINEXCHANGE 2025 in Denver from February 23-26. Come visit us at booth #132 to see our...",
+    "url": "https://www.facebook.com/ExynTech/photos/exciting-news-exyn-technologies-will-be-at-sme-minexchange-2025-in-denver-from-f/1193604132767602/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.exyn.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exyn.com/about/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exyn.com/about/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exyn.com/distributors-partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exyn.com/industries/mining-cavity-monitoring",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exyn.com/industries/construction-aec-scan-to-bim",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exyn.com/industries/geospatial-surveying-mapping",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exyn.com/industries/oil-and-gas-lidar-survey",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exyn.com/industries/defense",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exyn.com/about/team",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exyn.com/channel-partner-portal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exyn.com/become-a-partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exyn.com/about/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exyn.com/nexys-pro-product-sheet",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exyn.com/nexys-uncovers-roi-with-single-autonomous-stope-flight",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exyn.com/hubfs/Exyn_Aerial-Autonomy-Levels_v2@2x.jpg?hsLang=en",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.exyn.com/hubfs/Company%20Logos/CRKennedy.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.exyn.com/hs-fs/hubfs/Ardu_copter_logosm.png?length=500&name=Ardu_copter_logosm.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.exyn.com/hs-fs/hubfs/Company%20Logos/sandvik-logo-grey.png?length=500&name=sandvik-logo-grey.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.exyn.com/hs-fs/hubfs/Company%20Logos/ascot-logo-grey.png?length=500&name=ascot-logo-grey.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/GA_technologies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://investorroadshow.exyn.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/quote/EXYN/?fr=sycsrp_catchall",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/exyn-technologies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/exyn-technologies/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/exyn/__npML8GLL5KytMQzZ475bgt36ZK_wlc5cjZ-7nHW_fvo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.zoominfo.com/c/exyn-technologies/363310072",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/exyn-technologies-exyn-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://indexed.vc/companies/exyn-technologies",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://money.note.com/us-companies/EXYN",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/RedChip/status/2069479295144038838",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/RedChip/status/2069046506137509976",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ExynTech/status/2100200977563312485",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/exyn-technologies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/bentropy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/douglasminke",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/raffi-jabrayan-44a24ba1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ExynTech/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ExynTech/posts/exciting-news-exyn-technologies-will-be-at-sme-minexchange-2025-in-denver-from-f/1193604156100933/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ExynTech/posts/-exyn-vs-competitors-excited-to-share-amazing-feedback-from-a-company-evaluating/1222885083172840/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ExynTech/photos/exciting-news-exyn-technologies-will-be-at-sme-minexchange-2025-in-denver-from-f/1193604132767602/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/bentropy",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Exyn Technologies 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Exyn Technologies 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/GA_technologies",
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://www.exyn.com/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://ja.nozominetworks.com/company",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Exyn Technologies Japan",
+   "results": [
+    "https://www.exyn.com/",
+    "https://www.exyn.com/about/company",
+    "https://investorroadshow.exyn.com/",
+    "https://finance.yahoo.com/quote/EXYN/?fr=sycsrp_catchall",
+    "https://investors.exyn.com/",
+    "https://investors.exyn.com/press-releases",
+    "https://jp.linkedin.com/company/exyn-technologies"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Exyn Technologies manufacturing customer case study",
+   "results": [
+    "https://www.exyn.com/resources",
+    "https://www.casestudies.com/company/exyn-technologies",
+    "https://www.featuredcustomers.com/vendor/exyn-technologies/case-studies",
+    "https://www.exyn.com/news/tag/customer-story",
+    "https://www.casestudies.com/company/exyn-technologies/case-study/resurrecting-dormant-mines-with-autonomous-aerial-cavity-mapping",
+    "https://www.featuredcustomers.com/vendor/exyn-technologies",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/exyn-technologies_dundee-precious-metal_966386.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Exyn Technologies white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Exyn Technologies founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/exyn/__npML8GLL5KytMQzZ475bgt36ZK_wlc5cjZ-7nHW_fvo",
+    "https://www.zoominfo.com/c/exyn-technologies/363310072",
+    "https://fundediq.co/exyn-technologies-exyn-com-funding/",
+    "https://indexed.vc/companies/exyn-technologies",
+    "https://pitchbook.com/profiles/company/166749-22",
+    "https://dealroom.co/companies/exyn-technologies/",
+    "https://rocketreach.co/exyn-technologies-profile_b5ab7977f68958b0"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Exyn Technologies",
+   "results": [
+    "https://money.note.com/us-companies/EXYN",
+    "https://note.com/pei_umapro",
+    "https://note.com/diparururun",
+    "https://note.com/light_coot554",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/_moetomo_/n/n19bf7e71a280?hl=en",
+    "https://note.com/_moetomo_/n/n19bf7e71a280"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Exyn Technologies",
+   "results": [
+    "https://x.com/ExynTech",
+    "https://x.com/RedChip/status/2069479295144038838",
+    "https://x.com/RedChip/status/2069046506137509976",
+    "https://x.com/ExynTech/status/2100200977563312485",
+    "https://x.com/CS_X_Marketing/status/2079939542560260426",
+    "https://x.com/ExynTech/status/2080718382769312218",
+    "https://x.com/Zero_Hour_Group/status/2119884035375747477"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Exyn Technologies",
+   "results": [
+    "https://www.linkedin.com/company/exyn-technologies",
+    "https://www.linkedin.com/in/bentropy",
+    "https://ca.linkedin.com/in/douglasminke",
+    "https://ca.linkedin.com/in/raffi-jabrayan-44a24ba1",
+    "https://www.linkedin.com/in/brittanynewton1",
+    "https://uk.linkedin.com/in/naderelm",
+    "https://cl.linkedin.com/in/cristian-ramirez-1a3a7b3"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Exyn Technologies",
+   "results": [
+    "https://www.facebook.com/ExynTech/",
+    "https://www.facebook.com/ExynTech/posts/exciting-news-exyn-technologies-will-be-at-sme-minexchange-2025-in-denver-from-f/1193604156100933/",
+    "https://www.facebook.com/ExynTech/posts/-exyn-vs-competitors-excited-to-share-amazing-feedback-from-a-company-evaluating/1222885083172840/",
+    "https://www.facebook.com/ExynTech/photos/exciting-news-exyn-technologies-will-be-at-sme-minexchange-2025-in-denver-from-f/1193604132767602/",
+    "https://www.facebook.com/ExynTech/posts/-ready-to-see-the-future-of-underground-mapping-join-us-at-sme-minexchange-2025-/1197509542377061/",
+    "https://www.facebook.com/ExynTech/posts/-lidar-based-slam-platforms-have-become-a-game-changer-for-surveying-and-mapping/1236908621770486/",
+    "https://www.facebook.com/ExynTech/posts/new-integration-alertintroducing-the-seafloor-hydrone-with-nexys-integration-ins/1413872767407403/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Exyn Technologies note 社長",
+   "results": [
+    "https://investors.exyn.com/management-team",
+    "https://www.exyn.com/about/team",
+    "https://www.minichart.com.sg/2026/08/25/exyn-ceo-resigns-after-probe-finds-286000-in-personal-expenses/",
+    "https://www.linkedin.com/in/bentropy",
+    "https://www.bizjournals.com/philadelphia/news/2026/08/20/exyn-technologies-ceo-resign-ipo.html",
+    "https://pennystocksunited.com/exynw-8k-exyn-ceo-resigns-over-286k-personal-expenses-coo-williams-ta-5926100914",
+    "https://trendonify.com/news/sec-filings/exyn-technologies-ceo-resigns-following-misuse-of-company-funds-226795"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Exyn Technologies X 投稿",
+   "results": [
+    "https://x.com/ExynTech",
+    "https://www.exyn.com/",
+    "https://investorroadshow.exyn.com/",
+    "https://www.instagram.com/exyntech/",
+    "https://investors.exyn.com/press-releases",
+    "https://stocktwits.com/symbol/EXYN",
+    "https://x.com/Zero_Hour_Group/status/2119884035375747477"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部24頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部24頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部24頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部24頁・検索12回）"
+ }
+}

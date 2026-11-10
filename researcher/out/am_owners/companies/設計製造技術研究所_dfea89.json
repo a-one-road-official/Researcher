@@ -1,0 +1,853 @@
+{
+ "name": "設計製造技術研究所",
+ "aliases": [],
+ "context": "PBF=yes 装置=粉末床溶融結合 出典=https://amti.w3.kanazawa-u.ac.jp/about/metalam/",
+ "researched_at": "2026-11-10T17:08:26.488730+00:00",
+ "official_url": "https://amti.w3.kanazawa-u.ac.jp/",
+ "identified_by": "search:yahoo_jp:設計製造技術研究所",
+ "profile": {},
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "Development of a Computer-Aided Testing System for 3D Coordinate Measuring Machine",
+    "url": "https://amti.w3.kanazawa-u.ac.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Development of CAT system for 3D-CMM (Point cloud processing using coordinates of overlap parts)",
+    "url": "https://amti.w3.kanazawa-u.ac.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Development of powder bed fusion of pure copper with a 440 nm blue laser using wavelength beam combining of direct diode laser",
+    "url": "https://amti.w3.kanazawa-u.ac.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Development of a Computer-Aided Testing System for 3D Coordinate Measuring Machine",
+    "url": "https://amti.w3.kanazawa-u.ac.jp/about/material/",
+    "pass": 1
+   },
+   {
+    "quote": "Development of CAT system for 3D-CMM (Point cloud processing using coordinates of overlap parts)",
+    "url": "https://amti.w3.kanazawa-u.ac.jp/about/material/",
+    "pass": 1
+   },
+   {
+    "quote": "Development of contactless dynamic spindle testing using an eddy current brake",
+    "url": "https://amti.w3.kanazawa-u.ac.jp/about/material/",
+    "pass": 1
+   },
+   {
+    "quote": "本研究グループでは，金属AM (Additive Manufacturing: 付加製造法)のうち，粉末床溶融結合法，指向性エネルギ堆積法 (粉末供給方式，ワイヤー供給方式) について，反り，変形，内部に生じる気孔，スパッタ・金属蒸気などが生じる機序を解明し，その抑止法をみいだすとともに，産官学連携の基に金属AM技術の高速化・高精度化を実現し，得られた構造物を社会実装すべく研究開発を推進しています．また，金属AMで使用する金属材料の開発，AMの特長を活かした構造部材の開発など，従来からの除去加工法，変形加工法とも融合させながら複合加工技術の開発も行っています．",
+    "url": "https://amti.w3.kanazawa-u.ac.jp/about/metalam/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末床溶融結合法で使用する金属粉末は，粒子形状，粒度分布，組成，流動性，かさ密度など多くの特性を有し，これらが互いに影響を及ぼし合って粉末床を形成します．造形物特性や造形時の環境因子も含め，本手法に相応しい粉末の開発に向けて研究を行っています．",
+    "url": "https://amti.w3.kanazawa-u.ac.jp/about/metalam/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末床溶融結合法では，条件を変更することで造形物の粗密性が変わり，金属構造体に透過性を付与させることができます．粗密構造体の制御と実用部品への展開を目指し研究に取り組んでいます．",
+    "url": "https://amti.w3.kanazawa-u.ac.jp/about/metalam/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末床溶融結合法は，熱源，材料，造形環境など数多くの因子が相互に影響を与えながら造形物を製作します．可視化実験や数値解析を通して造形物特性に影響する主因子を特定し，造形条件や造形環境にフィードバックする研究を行っています．",
+    "url": "https://amti.w3.kanazawa-u.ac.jp/about/metalam/",
+    "pass": 1
+   },
+   {
+    "quote": "Development of powder bed fusion of pure copper with a 440 nm blue laser using wavelength beam combining of direct diode laser",
+    "url": "https://amti.w3.kanazawa-u.ac.jp/about/metalam/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末床溶融結合法におけるニッケル基再利用粉末の造形特性およびスパッタ挙動",
+    "url": "https://amti.w3.kanazawa-u.ac.jp/about/metalam/",
+    "pass": 1
+   },
+   {
+    "quote": "レーザを用いた粉末床溶融結合法でのScを含むアルミニウム合金粉末造形時の最適雰囲気酸素濃度",
+    "url": "https://amti.w3.kanazawa-u.ac.jp/about/metalam/",
+    "pass": 1
+   },
+   {
+    "quote": "本研究は、NEDO K Program（阪大コンソーシアム／DREAM）の一環として推進している先進粉末床溶融結合法（PBF）に関する研究成果です",
+    "url": "https://amti.w3.kanazawa-u.ac.jp/topics/736/",
+    "pass": 1
+   },
+   {
+    "quote": "に出展参加し、先進粉末床溶融結合法（PBF）の開発研究成果の発表を行いました",
+    "url": "https://amti.w3.kanazawa-u.ac.jp/topics/695/",
+    "pass": 1
+   },
+   {
+    "quote": "本展示では、PBF技術の高度化に向けた当研究所の取り組みを紹介し、多くの来場者の皆さまに関心を寄せていただきました",
+    "url": "https://amti.w3.kanazawa-u.ac.jp/topics/695/",
+    "pass": 1
+   },
+   {
+    "quote": "K ProgramにおけるNEDOのプロジェクト「高付加価値設計・製造を実現する統合型レーザー金属積層造形技術」の内容について、以下リンクにて詳しく紹介されています",
+    "url": "https://amti.w3.kanazawa-u.ac.jp/topics/691/",
+    "pass": 1
+   },
+   {
+    "quote": "【金型テクノラボ】金沢大学設計製造技術研究所 金属3Dプリンタによる離型剤浸透金型の製作 | 金型しんぶんONLINE｜金型新聞社",
+    "url": "https://kanagata-shimbun.com/kanazawa_daigaku_3d_printer/",
+    "pass": 3
+   },
+   {
+    "quote": "【金型テクノラボ】金沢大学設計製造技術研究所 金属3Dプリンタによる離型剤浸透金型の製作",
+    "url": "https://kanagata-shimbun.com/kanazawa_daigaku_3d_printer/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタを用いた金型製作は、冷却水管の自由設計や複合工作機械による製造工程の短縮など、航空宇宙や医療と並ぶ3Dプリンタの特長が活かせる有力な分野だ",
+    "url": "https://kanagata-shimbun.com/kanazawa_daigaku_3d_printer/",
+    "pass": 3
+   },
+   {
+    "quote": "金属AMの一つである粉末床溶融結合法 （Powder Bed Fusion:PBF）では、造形条件を変更することで粉末の溶融・凝固の様相を変えることができる",
+    "url": "https://kanagata-shimbun.com/kanazawa_daigaku_3d_printer/",
+    "pass": 3
+   },
+   {
+    "quote": "微細穴が得られるPBF法ならではの特長を活かし、離型剤を内部から浸透させる金型製作技術の確立に向けて、経済産業省の戦略的基盤技術高度化支援事業（2018~20年度:七宝金型工業、金沢大学、岐阜大学）の助成を受けて研究開発を行ってきた",
+    "url": "https://kanagata-shimbun.com/kanazawa_daigaku_3d_printer/",
+    "pass": 3
+   },
+   {
+    "quote": "高い冷却効果 アッサブジャパン（東京千代田区、03-5226-3781）は、独自の3Dプリンタ用粉末を使った金属3Dプリンタの造形サービスを開始する",
+    "url": "https://kanagata-shimbun.com/kanazawa_daigaku_3d_printer/",
+    "pass": 3
+   },
+   {
+    "quote": "松浦機械製作所 5軸立形MC「MXシリーズ」に直径420㎜対応の新機種",
+    "url": "https://kanagata-shimbun.com/kanazawa_daigaku_3d_printer/",
+    "pass": 3
+   },
+   {
+    "quote": "松浦機械製作所（福井県福井市、0776-56-8100）は、5軸制御立形マシニングセンタ「MXシリーズ」に、最大工作物寸法が直径420㎜×高さ300㎜の「MX‐420PC10」を追加し発売した",
+    "url": "https://kanagata-shimbun.com/kanazawa_daigaku_3d_printer/",
+    "pass": 3
+   },
+   {
+    "quote": "題目：『ダイカストプロセスの改善を目指した金属積層造形技術の適用例』",
+    "url": "https://www.kanazawa-u.ac.jp/event/159762/",
+    "pass": 3
+   },
+   {
+    "quote": "本講演では，ダイカストのプロセス改善を目指して，金属積層造形技術を活用した産学連携事例について紹介する",
+    "url": "https://www.kanazawa-u.ac.jp/event/159762/",
+    "pass": 3
+   },
+   {
+    "quote": "概要：「ワイヤ・レーザ金属3DプリンタAZ600」は，熱源にレーザ，供給材料に溶接ワイヤを採用したDED方式の金属3Dプリンタ(AM)である",
+    "url": "https://www.kanazawa-u.ac.jp/event/159762/",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "ファスナー部品を対象としたビレット形状と金型形状の同時最適化",
+    "url": "https://amti.w3.kanazawa-u.ac.jp/about/machine/",
+    "pass": 1
+   },
+   {
+    "quote": "織物や一方向繊維などのCFRPシートを絞り成形すると繊維の角度が変わりながら変形します．連続繊維CFRPシートの変形を考慮した金型設計，繊維配向設計などを研究しています．",
+    "url": "https://amti.w3.kanazawa-u.ac.jp/about/manufacture/",
+    "pass": 1
+   },
+   {
+    "quote": "熱可塑性CFRPテープを用いて組紐と呼ばれる手法とプレス成形を組み合わせて高強度チューブの成形法を開発しています．自動車，ドローン，ロボットなどへの応用展開に向けて研究に取り組んでいます．",
+    "url": "https://amti.w3.kanazawa-u.ac.jp/about/manufacture/",
+    "pass": 1
+   },
+   {
+    "quote": "量産での短時間切断を目指して，せん断による切断法の研究を進めています．工具形状や切断プロセスと切断面の形成メカニズムの関係を解明しながら，効率の良い切断方法を目指して研究に取り組んでいます．",
+    "url": "https://amti.w3.kanazawa-u.ac.jp/about/manufacture/",
+    "pass": 1
+   },
+   {
+    "quote": "AM EXPO名古屋の展示を振り返る～試作脱し航空宇宙・防衛分野の実用化へシフト～",
+    "url": "https://amti.w3.kanazawa-u.ac.jp/topics/695/",
+    "pass": 1
+   },
+   {
+    "quote": "【金型テクノラボ】金沢大学設計製造技術研究所 金属3Dプリンタによる離型剤浸透金型の製作 | 金型しんぶんONLINE｜金型新聞社",
+    "url": "https://kanagata-shimbun.com/kanazawa_daigaku_3d_printer/",
+    "pass": 3
+   },
+   {
+    "quote": "【金型テクノラボ】金沢大学設計製造技術研究所 金属3Dプリンタによる離型剤浸透金型の製作",
+    "url": "https://kanagata-shimbun.com/kanazawa_daigaku_3d_printer/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタを用いた金型製作は、冷却水管の自由設計や複合工作機械による製造工程の短縮など、航空宇宙や医療と並ぶ3Dプリンタの特長が活かせる有力な分野だ",
+    "url": "https://kanagata-shimbun.com/kanazawa_daigaku_3d_printer/",
+    "pass": 3
+   },
+   {
+    "quote": "本稿では、3Dプリンタによる微細穴の造形技術を応用し、内部から離型剤が浸透する高機能金型の製作技術について解説する",
+    "url": "https://kanagata-shimbun.com/kanazawa_daigaku_3d_printer/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、金属AMは、材料の形態（粉末、線材）や供給方法、熱源（レーザ、アーク放電）などによって複数の手法に分類されており、形状やサイズ、成形材、補修など、金型製作へ適用する目的・用途によって適切な手法を選択しなければならない",
+    "url": "https://kanagata-shimbun.com/kanazawa_daigaku_3d_printer/",
+    "pass": 3
+   },
+   {
+    "quote": "このしきい値は材料や熱源によって変化するが、適切な条件を用いることで一部に微細穴を配置させた金型を同一工程で製作できる",
+    "url": "https://kanagata-shimbun.com/kanazawa_daigaku_3d_printer/",
+    "pass": 3
+   },
+   {
+    "quote": "微細穴が得られるPBF法ならではの特長を活かし、離型剤を内部から浸透させる金型製作技術の確立に向けて、経済産業省の戦略的基盤技術高度化支援事業（2018~20年度:七宝金型工業、金沢大学、岐阜大学）の助成を受けて研究開発を行ってきた",
+    "url": "https://kanagata-shimbun.com/kanazawa_daigaku_3d_printer/",
+    "pass": 3
+   },
+   {
+    "quote": "金型入れ子に組み込む離型剤供給路の概念図を図2に示す",
+    "url": "https://kanagata-shimbun.com/kanazawa_daigaku_3d_printer/",
+    "pass": 3
+   },
+   {
+    "quote": "離型剤の供給路は冷却水管とは別に設け、離型剤を浸透させる金型面と供給路の間は連続した微細穴が得られる条件で造形を行った",
+    "url": "https://kanagata-shimbun.com/kanazawa_daigaku_3d_printer/",
+    "pass": 3
+   },
+   {
+    "quote": "微細穴構造体に通気性があること、供給路の形成による金型面の強度低下がないこと、微細穴部位に対して成形時に溶湯材料が差し込まないことを技術課題とした",
+    "url": "https://kanagata-shimbun.com/kanazawa_daigaku_3d_printer/",
+    "pass": 3
+   },
+   {
+    "quote": "金型内部には、自由形状の冷却水管も配置している",
+    "url": "https://kanagata-shimbun.com/kanazawa_daigaku_3d_printer/",
+    "pass": 3
+   },
+   {
+    "quote": "この入れ子を組み入れた金型で鋳造した結果、離型剤浸透機構の付与に起因した成形不良がなく、金型面の微細穴部に溶湯の差し込みがなくなった",
+    "url": "https://kanagata-shimbun.com/kanazawa_daigaku_3d_printer/",
+    "pass": 3
+   },
+   {
+    "quote": "内部から離型剤を浸透させる金型は、離型剤の塗布機能を改善することに加え、鋳造時の金型温度の制御性を向上させることも可能になる",
+    "url": "https://kanagata-shimbun.com/kanazawa_daigaku_3d_printer/",
+    "pass": 3
+   },
+   {
+    "quote": "現状では、100ショット程度まで連続的に鋳造しても金型に不具合が生じないことを確認している",
+    "url": "https://kanagata-shimbun.com/kanazawa_daigaku_3d_printer/",
+    "pass": 3
+   },
+   {
+    "quote": "離型剤浸透金型の社会実装に向け、耐久性や微細穴の高精度管理など残された課題解決に向けて引き続き研究開発を継続していく",
+    "url": "https://kanagata-shimbun.com/kanazawa_daigaku_3d_printer/",
+    "pass": 3
+   },
+   {
+    "quote": "特に冷却水管のレイアウトを自由に配置する金型製作の事例は、様々なメーカーで採用され、多くの実績を重ねている",
+    "url": "https://kanagata-shimbun.com/kanazawa_daigaku_3d_printer/",
+    "pass": 3
+   },
+   {
+    "quote": "今回の離型剤浸透金型は、これまでにない新たなAM技術の活用方法として注目度も高い",
+    "url": "https://kanagata-shimbun.com/kanazawa_daigaku_3d_printer/",
+    "pass": 3
+   },
+   {
+    "quote": "金型新聞 2021年6月10日",
+    "url": "https://kanagata-shimbun.com/kanazawa_daigaku_3d_printer/",
+    "pass": 3
+   },
+   {
+    "quote": "測定管理をデジタル化 KMC（川崎市高津区、044・322・0400）はこのほど、金型や部品などの測定データのデジタル化と自動測定表作成が可能なソフトウエア「測定電子カルテ」を発売した",
+    "url": "https://kanagata-shimbun.com/kanazawa_daigaku_3d_printer/",
+    "pass": 3
+   },
+   {
+    "quote": "生産現場を訪ねて三豊機工 鹿児島工場（南九州） ５台のＡＩＶ（Ａｕｔｏｎｏｍｏｕｓ Ｉｎｔｅｌｌｉｇｅｎｔ Ｖｅｈｉｃｌｅ）が10棟の工場を跨いで縦横無尽に運行する金型工場",
+    "url": "https://kanagata-shimbun.com/kanazawa_daigaku_3d_printer/",
+    "pass": 3
+   },
+   {
+    "quote": "冷間圧造用金型を材料から製品まで一貫生産…",
+    "url": "https://kanagata-shimbun.com/kanazawa_daigaku_3d_printer/",
+    "pass": 3
+   },
+   {
+    "quote": "(併任)高等研究院 地域連携スマート金型技術研究センター",
+    "url": "https://www.kanazawa-u.ac.jp/event/159762/",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "本研究グループでは，労働人口の減少に伴い，製造業において強く求められている生産性の向上のため，実際の生産システムをサイバー空間で再現するデジタルツインの構築を目指しています．工作機械の熱変形予測や，金属積層時の粉末の溶融・凝固現象など，生産プロセスを予測可能なシミュレーションシステムの構築を目指した研究を行っています．",
+    "url": "https://amti.w3.kanazawa-u.ac.jp/about/digitaltwin/",
+    "pass": 1
+   },
+   {
+    "quote": "金属AMにおける積層現象を予測するため，金属AMのデジタルツインモデルの開発に取り組んでいます．現在はその初期段階として，数値解析による金属粉末の溶融・凝固現象の予測手法の開発を目指しています．",
+    "url": "https://amti.w3.kanazawa-u.ac.jp/about/digitaltwin/",
+    "pass": 1
+   },
+   {
+    "quote": "本研究グループでは，金属AM (Additive Manufacturing: 付加製造法)のうち，粉末床溶融結合法，指向性エネルギ堆積法 (粉末供給方式，ワイヤー供給方式) について，反り，変形，内部に生じる気孔，スパッタ・金属蒸気などが生じる機序を解明し，その抑止法をみいだすとともに，産官学連携の基に金属AM技術の高速化・高精度化を実現し，得られた構造物を社会実装すべく研究開発を推進しています．また，金属AMで使用する金属材料の開発，AMの特長を活かした構造部材の開発など，従来からの除去加工法，変形加工法とも融合させながら複合加工技術の開発も行っています．",
+    "url": "https://amti.w3.kanazawa-u.ac.jp/about/metalam/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末床溶融結合法で使用する金属粉末は，粒子形状，粒度分布，組成，流動性，かさ密度など多くの特性を有し，これらが互いに影響を及ぼし合って粉末床を形成します．造形物特性や造形時の環境因子も含め，本手法に相応しい粉末の開発に向けて研究を行っています．",
+    "url": "https://amti.w3.kanazawa-u.ac.jp/about/metalam/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末床溶融結合法では，条件を変更することで造形物の粗密性が変わり，金属構造体に透過性を付与させることができます．粗密構造体の制御と実用部品への展開を目指し研究に取り組んでいます．",
+    "url": "https://amti.w3.kanazawa-u.ac.jp/about/metalam/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末床溶融結合法は，熱源，材料，造形環境など数多くの因子が相互に影響を与えながら造形物を製作します．可視化実験や数値解析を通して造形物特性に影響する主因子を特定し，造形条件や造形環境にフィードバックする研究を行っています．",
+    "url": "https://amti.w3.kanazawa-u.ac.jp/about/metalam/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末床溶融結合法におけるニッケル基再利用粉末の造形特性およびスパッタ挙動",
+    "url": "https://amti.w3.kanazawa-u.ac.jp/about/metalam/",
+    "pass": 1
+   },
+   {
+    "quote": "レーザを用いた粉末床溶融結合法でのScを含むアルミニウム合金粉末造形時の最適雰囲気酸素濃度",
+    "url": "https://amti.w3.kanazawa-u.ac.jp/about/metalam/",
+    "pass": 1
+   },
+   {
+    "quote": "付加製造用アルミニウム合金粉末の流動性に影響する粉末特性",
+    "url": "https://amti.w3.kanazawa-u.ac.jp/about/metalam/",
+    "pass": 1
+   },
+   {
+    "quote": "本研究は、NEDO K Program（阪大コンソーシアム／DREAM）の一環として推進している先進粉末床溶融結合法（PBF）に関する研究成果です",
+    "url": "https://amti.w3.kanazawa-u.ac.jp/topics/736/",
+    "pass": 1
+   },
+   {
+    "quote": "に出展参加し、先進粉末床溶融結合法（PBF）の開発研究成果の発表を行いました",
+    "url": "https://amti.w3.kanazawa-u.ac.jp/topics/695/",
+    "pass": 1
+   },
+   {
+    "quote": "一方で、金属AMは、材料の形態（粉末、線材）や供給方法、熱源（レーザ、アーク放電）などによって複数の手法に分類されており、形状やサイズ、成形材、補修など、金型製作へ適用する目的・用途によって適切な手法を選択しなければならない",
+    "url": "https://kanagata-shimbun.com/kanazawa_daigaku_3d_printer/",
+    "pass": 3
+   },
+   {
+    "quote": "金属AMの一つである粉末床溶融結合法 （Powder Bed Fusion:PBF）では、造形条件を変更することで粉末の溶融・凝固の様相を変えることができる",
+    "url": "https://kanagata-shimbun.com/kanazawa_daigaku_3d_printer/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末へ投入される熱量が多い場合、粉末は完全に溶融・凝固して密度が大きい造形物が得られ、熱量が少ないと粉末の一部が溶融し、粉末間に存在した空隙が残存することで微細穴が形成される",
+    "url": "https://kanagata-shimbun.com/kanazawa_daigaku_3d_printer/",
+    "pass": 3
+   },
+   {
+    "quote": "アサッブジャパン 独自粉末を使った金属3D造形サービスを開始",
+    "url": "https://kanagata-shimbun.com/kanazawa_daigaku_3d_printer/",
+    "pass": 3
+   },
+   {
+    "quote": "高い冷却効果 アッサブジャパン（東京千代田区、03-5226-3781）は、独自の3Dプリンタ用粉末を使った金属3Dプリンタの造形サービスを開始する",
+    "url": "https://kanagata-shimbun.com/kanazawa_daigaku_3d_printer/",
+    "pass": 3
+   },
+   {
+    "quote": "題目：『AMで用いる粉末材料による最適な造形環境』",
+    "url": "https://www.kanazawa-u.ac.jp/event/159762/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "金沢大学 設計製造技術研究所 | — 金沢大学 設計製造技術研究所 | 金沢大学 設計製造技術研究所 | https://amti.w3.kanazawa-u.ac.jp",
+    "url": "https://amti.w3.kanazawa-u.ac.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター 特集記事に古本達明教授のコメントが掲載 — 金属3Dプリンター 特集記事に古本達明教授のコメントが掲載 金沢大学 設計製造技術研究所 | https://amti.w3.kanazawa-u.ac.jp > トピックス",
+    "url": "https://amti.w3.kanazawa-u.ac.jp/topics/653/",
+    "pass": 3
+   },
+   {
+    "quote": "【金型テクノラボ】金沢大学 設計製造技術研究所 金属3D ... — 【金型テクノラボ】金沢大学 設計製造技術研究所 金属3D ... 金型新聞社 https://kanagata-shimbun.com > kanazawa_daigaku_3d_p...",
+    "url": "https://kanagata-shimbun.com/kanazawa_daigaku_3d_printer/",
+    "pass": 3
+   },
+   {
+    "quote": "第10回金沢大学 設計製造技術研究所 シンポジウム — 第10回金沢大学 設計製造技術研究所 シンポジウム 金沢大学 https://www.kanazawa-u.ac.jp > event",
+    "url": "https://www.kanazawa-u.ac.jp/event/159762/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "一般社団法人日本工作機械工業会・工作機械検定検討会 on X: \"JIMTOF2... JIMTOF2026 IMECポスターセッション テーマ・研究室をご紹介 (No23) B-21「アルミニウム合金粉末を用いた粉末床溶融結合法での粗大スパッタ発生メカニズム」 金沢大学 設計製造技術研究所 https://t.co/asDvgIvNEK",
+    "url": "https://x.com/mtkentei/status/2107753387664253239",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人日本工作機械工業会・工作機械検定検討会 (@mtkentei) / ... @mtkentei Oct 7 JIMTOF2026 IMECポスターセッション テーマ・研究室をご紹介 (No23) B-21「アルミニウム合金粉末を用いた粉末床溶融結合法での粗大スパッタ発生メカニズム」 金沢大学 設計製造技術研究所 amti.w3.kanazawa-u.ac.jp 金沢大学 設計製造技術研究所 1",
+    "url": "https://x.com/mtkentei",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Satoshi Abe - Additive Manufacturing | LinkedIn Additive Manufacturing · Meta Additive Manufacturing の企画、研究開発、実用開発、アプリケーション開発、技術営業に携わること25年 · 職歴: 金沢大学 設計製造技術研究所 · 学歴: 金沢大学 · 場所: 金沢 · LinkedInのつながり26人。",
+    "url": "https://jp.linkedin.com/in/satoshi-abe-68a767207",
+    "pass": 3
+   },
+   {
+    "quote": "AMTIで知られる金沢大学設計製造技術研究所様のシンポジウムで講演さ... 2022年12月7日 第6回設計製造技術研究所シンポジウム 金属AMを用いた金型づくりの革新と省エネルギ化・高機能化の取り組み 場所: 金沢大学自然 ...",
+    "url": "https://www.linkedin.com/posts/hmkoiuy5129a120_amtiで知られる金沢大学設計製造技術研究所様のシンポジウムで講演させていただくことになりました-activity-7005714786990657536-af0M",
+    "pass": 3
+   },
+   {
+    "quote": "Tom Oyama - Director | Innovation Center of Excellence | LinkedIn第6回設計製造技術研究所シンポジウム | Masato Matsubara楊名芯 - 國立高雄大學 碩士 東海大學 學士(畢業) | LinkedInICAA 2026 年 10 月新會員報到｜懷藝精密科技股份有限公司 … | 智慧產...Matthew Mappin - Co-Founder, Co-CEO, SATELYX | Prove Once ... Director | Innovation Center of Excellence · Experienced General Manager Business Development in R&D with a demonstrated history of working in the constr",
+    "url": "https://jp.linkedin.com/in/hmkoiuy5129a120",
+    "pass": 3
+   },
+   {
+    "quote": "第6回設計製造技術研究所シンポジウム | Masato Matsubara 金沢大学設計製造技術研究所主催のシンポジウム 「金属Additive Manufacturingを用いた金型づくりの革新と省エネルギ化・高機能化の取り組み」で ...",
+    "url": "https://www.linkedin.com/posts/masato-matsubara-a61026221_第6回設計製造技術研究所シンポジウム-activity-6999244835861803008-gfYx",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "金沢大学 - 【11/25実施】第11回設計製造技術研究所シンポジウム「炭... Nov 6, 2025 · 【11/25実施】第11回設計製造技術研究所シンポジウム「炭素繊維複材料の加工技術と展開例」を実施します。 詳しくは下記URLをご覧ください。 https://kanazawa-u.ac.jp/event/173378/",
+    "url": "https://www.facebook.com/kanazawa.univ/posts/1125実施第11回設計製造技術研究所シンポジウム炭素繊維複材料の加工技術と展開例を実施します詳しくは下記ｕｒｌをご覧ください/1416153647180805/",
+    "pass": 3
+   },
+   {
+    "quote": "金沢大学 - 【3/17開催】第10回金沢大学設計製造技術研究所シンポジウ... Feb 24, 2025 · 【3/17開催】第10回金沢大学設計製造技術研究所シンポジウムを開催します⭐ どなたさまでもご参加いただけます。 詳しくは以下のURLをご覧ください。 https://www.kanazawa-u.ac.jp/event/159762/",
+    "url": "https://www.facebook.com/kanazawa.univ/photos/317開催第10回金沢大学設計製造技術研究所シンポジウムを開催しますどなたさまでもご参加いただけます詳しくは以下のurlをご覧くださいhttpswwwkanaz/1187493653380140/",
+    "pass": 3
+   },
+   {
+    "quote": "金沢大学理工学域 - 金沢大学 設計製造技術研究所 キックオフシンポジ... 金沢大学 設計製造技術研究所 キックオフシンポジウム . 金沢大学では「オンデマンドモノづくり」を実現する設計生産システムの開発拠点として2019年6月1日付けで設計製造技術研究所 (AMTI: Advanced Manufacturing Technology Institute) を設立いたしました。 ...",
+    "url": "https://www.facebook.com/se.kanazawa.univ/posts/金沢大学-設計製造技術研究所-キックオフシンポジウム金沢大学ではオンデマンドモノづくりを実現する設計生産システムの開発拠点として2019年6月1日付けで設計製造/2665954806967234/",
+    "pass": 3
+   },
+   {
+    "quote": "金沢大学 - 設計製造技術研究所がオンラインでシンポジウムを開催しま... 設計製造技術研究所がオンラインでシンポジウムを開催します。 奮ってご参加ください😊 第5回金沢大学設計製造技術研究所シンポジウム ～複合加工が拓くこれからの高度製造技術と進化を続けるソフトウエア技術～ 日時：2021年11月26日（金） 13：00 - 16：40...",
+    "url": "https://www.facebook.com/kanazawa.univ/posts/4405210872860743/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://amti.w3.kanazawa-u.ac.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amti.w3.kanazawa-u.ac.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amti.w3.kanazawa-u.ac.jp/about/machine/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amti.w3.kanazawa-u.ac.jp/about/digitaltwin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amti.w3.kanazawa-u.ac.jp/about/manufacture/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amti.w3.kanazawa-u.ac.jp/about/material/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amti.w3.kanazawa-u.ac.jp/about/metalam/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amti.w3.kanazawa-u.ac.jp/topics/736/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amti.w3.kanazawa-u.ac.jp/topics/720/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amti.w3.kanazawa-u.ac.jp/topics/714/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amti.w3.kanazawa-u.ac.jp/topics/695/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amti.w3.kanazawa-u.ac.jp/topics/691/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amti.w3.kanazawa-u.ac.jp/topics/topics_category/news/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp81976/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rapidus.inc/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanagata-shimbun.com/kanazawa_daigaku_3d_printer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanazawa-u.ac.jp/event/159762/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nedo.go.jp/content/800024765.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jampt.jp/column/additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rapidus.inc/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tytlabs.co.jp/ja/company/profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp81976/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nistep.go.jp/sti_indicator/2025/RM349_26.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/mtkentei/status/2107753387664253239",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mtkentei",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/satoshi-abe-68a767207",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/hmkoiuy5129a120_amtiで知られる金沢大学設計製造技術研究所様のシンポジウムで講演させていただくことになりました-activity-7005714786990657536-af0M",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/hmkoiuy5129a120",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/masato-matsubara-a61026221_第6回設計製造技術研究所シンポジウム-activity-6999244835861803008-gfYx",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/kanazawa.univ/posts/1125実施第11回設計製造技術研究所シンポジウム炭素繊維複材料の加工技術と展開例を実施します詳しくは下記ｕｒｌをご覧ください/1416153647180805/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/kanazawa.univ/photos/317開催第10回金沢大学設計製造技術研究所シンポジウムを開催しますどなたさまでもご参加いただけます詳しくは以下のurlをご覧くださいhttpswwwkanaz/1187493653380140/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/se.kanazawa.univ/posts/金沢大学-設計製造技術研究所-キックオフシンポジウム金沢大学ではオンデマンドモノづくりを実現する設計生産システムの開発拠点として2019年6月1日付けで設計製造/2665954806967234/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/kanazawa.univ/posts/4405210872860743/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "設計製造技術研究所",
+   "results": [
+    "https://amti.w3.kanazawa-u.ac.jp/",
+    "https://www.u-presscenter.jp/article/72075",
+    "https://www.isico.or.jp/event/dgnet/d31190392.html",
+    "http://www.innov-kyouryokukai.com/news/news_221107.html",
+    "https://www.youtube.com/@amti5457",
+    "https://digital-twin.w3.kanazawa-u.ac.jp/contact/",
+    "https://ridb.kanazawa-u.ac.jp/public/list.php?org1_cd=730000",
+    "https://www.kanazawa-u.ac.jp/keyword/設計製造技術研究所/",
+    "https://amti.w3.kanazawa-u.ac.jp/about/",
+    "https://takilab.com/member/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "設計製造技術研究所 会社概要 資本金 設立",
+   "results": [
+    "https://job.mynavi.jp/28/pc/search/corp81976/outline.html",
+    "https://www.rapidus.inc/about/",
+    "https://amti.w3.kanazawa-u.ac.jp/",
+    "https://www.ctie.co.jp/company/outline/",
+    "https://www.ace-tech.co.jp/company/",
+    "https://www.arc-navi.shikaku.co.jp/companyList/details.php?client_id=8609",
+    "https://www.daiwahouse.co.jp/company/outline/index.html",
+    "https://www.ttech.co.jp/company/overview/",
+    "https://global.honda/jp/RandD/about/cpgc/",
+    "https://ja.wikipedia.org/wiki/構造計画研究所"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "設計製造技術研究所 金属3Dプリンタ 導入",
+   "results": [
+    "https://amti.w3.kanazawa-u.ac.jp/topics/653/",
+    "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "https://kanagata-shimbun.com/kanazawa_daigaku_3d_printer/",
+    "https://www.tokushuko.or.jp/publication/magazine/pdf/2023/magazine2305.pdf",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-houkokusyo.pdf",
+    "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/the-future-of-metal-3d-printing",
+    "https://www.iri.pref.shizuoka.jp/printer/",
+    "https://j3d.co.jp/column/09df60f3-f8cd-4343-89e4-bea3559722fd",
+    "https://www.kanazawa-u.ac.jp/research/researcher/kokokara/research42",
+    "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "設計製造技術研究所 金属積層造形 設備",
+   "results": [
+    "https://www.kanazawa-u.ac.jp/event/159762/",
+    "https://www.nedo.go.jp/content/800024765.pdf",
+    "https://jampt.jp/column/additive-manufacturing/",
+    "https://kuring.hiro.kindai.ac.jp/annai/hokoku/data06/179.pdf",
+    "https://www.youtube.com/watch?v=ghApimjPFY0",
+    "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "https://www.tokushuko.or.jp/publication/magazine/pdf/2023/magazine2305.pdf",
+    "https://kanagata-shimbun.com/kanazawa_daigaku_3d_printer/",
+    "https://baike.baidu.com/ja/item/%E9%87%91%E5%B1%9E%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E6%8A%80%E8%A1%93/5125332",
+    "https://www.jfe-steel.co.jp/products/solution/metal-3d-printing/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "設計製造技術研究所 株主 出資 親会社",
+   "results": [
+    "https://amti.w3.kanazawa-u.ac.jp/",
+    "https://www.rapidus.inc/about/",
+    "https://www.tytlabs.co.jp/ja/company/profile.html",
+    "https://ja.wikipedia.org/wiki/Rapidus",
+    "https://www.nissoken.co.jp/company/about/",
+    "https://amti.w3.kanazawa-u.ac.jp/about/",
+    "https://www.mirise-techs.com/history/",
+    "https://www.subaru.co.jp/outline/office2.html",
+    "https://www.zuken.co.jp/company/outline/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "設計製造技術研究所 売上高 従業員数",
+   "results": [
+    "https://job.mynavi.jp/28/pc/search/corp81976/outline.html",
+    "https://amti.w3.kanazawa-u.ac.jp/",
+    "https://www.nistep.go.jp/sti_indicator/2025/RM349_26.html",
+    "https://fumadata.com/search/detail/1412055",
+    "https://www.stat.go.jp/data/kagaku/kekka/a3_25you.html",
+    "https://www.jac-recruitment.jp/search/NJB2415753/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/002_04_00.pdf",
+    "https://www.u-presscenter.jp/article/72075",
+    "https://techstudywork.jp/company/cti-engineering",
+    "https://www.kri-inc.jp/company/profile.html"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 設計製造技術研究所",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com 設計製造技術研究所",
+   "results": [
+    "https://x.com/mtkentei/status/2107753387664253239",
+    "https://x.com/mtkentei",
+    "https://x.com/jimo_tech",
+    "https://x.com/somosomo_sensei/status/2120112908013363281",
+    "https://x.com/natsuroke/status/2119699649397498161",
+    "https://x.com/kirameki_times",
+    "https://x.com/airesearchaist",
+    "https://x.com/terada_kikai/status/2119700458151506369"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:linkedin.com 設計製造技術研究所",
+   "results": [
+    "https://jp.linkedin.com/in/satoshi-abe-68a767207",
+    "https://www.linkedin.com/posts/hmkoiuy5129a120_amtiで知られる金沢大学設計製造技術研究所様のシンポジウムで講演させていただくことになりました-activity-7005714786990657536-af0M",
+    "https://jp.linkedin.com/in/hmkoiuy5129a120",
+    "https://www.linkedin.com/posts/masato-matsubara-a61026221_第6回設計製造技術研究所シンポジウム-activity-6999244835861803008-gfYx",
+    "https://tw.linkedin.com/in/名芯-楊-selina0026",
+    "https://tw.linkedin.com/in/matthewmappin",
+    "https://cn.linkedin.com/posts/智慧產業電腦物聯網-協會-94447830a_icaa-2026-年-10-月新會員報到懷藝精密科技股份有限公司-公司簡介-activity-7525898042626060288-Z5Zr"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 設計製造技術研究所",
+   "results": [
+    "https://www.facebook.com/kanazawa.univ/posts/1125実施第11回設計製造技術研究所シンポジウム炭素繊維複材料の加工技術と展開例を実施します詳しくは下記ｕｒｌをご覧ください/1416153647180805/",
+    "https://www.facebook.com/kanazawa.univ/photos/317開催第10回金沢大学設計製造技術研究所シンポジウムを開催しますどなたさまでもご参加いただけます詳しくは以下のurlをご覧くださいhttpswwwkanaz/1187493653380140/",
+    "https://www.facebook.com/se.kanazawa.univ/posts/金沢大学-設計製造技術研究所-キックオフシンポジウム金沢大学ではオンデマンドモノづくりを実現する設計生産システムの開発拠点として2019年6月1日付けで設計製造/2665954806967234/",
+    "https://www.facebook.com/kanazawa.univ/posts/4405210872860743/",
+    "https://www.facebook.com/DMGMORI.CO/posts/第5回設計製造技術研究所-シンポジウムweb開催に登壇いたします11月26日金にweb開催されます第5回設計製造技術研究所-シンポジウムにて弊社am開発部長の廣/3037026569896251/",
+    "https://www.facebook.com/tmsj1948/photos/テキスタイルカレッジ２日で学ぶせんいと布づくり開催日７月６日木７日金会-場大阪科学技術センターとオンライン内-容httpstmsjorjpwpwp-conten/727434809185297/",
+    "https://www.facebook.com/p/アイアール技術者教育研究所-100063443907234/",
+    "https://business.facebook.com/groups/hkepc/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "設計製造技術研究所 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ridb.kanazawa-u.ac.jp/public/list.php?page=2&org1_cd=730000",
+    "https://amti.w3.kanazawa-u.ac.jp/",
+    "https://amti.w3.kanazawa-u.ac.jp/about/",
+    "https://ridb.kanazawa-u.ac.jp/public/detail.php?id=11568",
+    "https://tsmss-rheology.com/profile_ja.html",
+    "https://researchmap.jp/read0100177"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "設計製造技術研究所 X 投稿",
+   "results": [
+    "https://www.kanazawa-u.ac.jp/keyword/設計製造技術研究所/",
+    "https://amti.w3.kanazawa-u.ac.jp/",
+    "https://www.youtube.com/channel/UCnPmOjY1rNUcB7fBqmuYnXQ",
+    "https://amti.w3.kanazawa-u.ac.jp/message/",
+    "https://takilab.com/member/",
+    "https://x.com/divergent_codex/status/2119754430958707065",
+    "https://x.com/AIST_JP/status/2072636550723113006"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部21頁・検索12回）",
+  "資本金": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部21頁・検索12回）",
+  "創業年度": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部21頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部21頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部21頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部21頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部21頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部21頁・検索12回）",
+  "資本金・株主": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部21頁・検索12回）"
+ }
+}

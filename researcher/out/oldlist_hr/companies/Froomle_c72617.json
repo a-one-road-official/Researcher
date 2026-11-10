@@ -1,0 +1,1084 @@
+{
+ "name": "Froomle",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-10T16:53:09.869761+00:00",
+ "official_url": "https://www.froomle.ai/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "4. Seed Round",
+    "value": "12-Mar-2021    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/384730-93",
+    "pass": 3
+   },
+   {
+    "label": "Total funding",
+    "value": "No funding",
+    "url": "https://prospeo.io/c/froomle-revenue",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/froomle-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Posthofbrug 6-8, Antwerpen, Antwerpen 2600, BE",
+    "url": "https://prospeo.io/c/froomle-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2016",
+    "url": "https://prospeo.io/c/froomle-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Artificial intelligence, built to strengthen newsroom intelligence — connecting readers, content, and editorial decisions in a continuous learning loop.",
+    "url": "https://www.froomle.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Personalized newsletters and notifications bring the right content back to each reader.",
+    "url": "https://www.froomle.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Froomle shared how they leverage their advanced A/B testing setup, live data and shadow deployments to prioritize online experiments over offline validation... allowing for easier debugging and improvements.",
+    "url": "https://www.froomle.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Froomle is a spin-off from the University of Antwerp, founded in 2016 to bridge the gap between academic theory and production-grade AI. Our journey started with 20+ years of research by Prof. dr. Bart Goethals, whose work on conversion through personalization led to collaborations with researchers at major tech companies like Netflix and Apple.",
+    "url": "https://www.froomle.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Today, our product team maintains a deep connection with the university, including researchers who have pursued PhDs specifically in AI-based personalization. This academic rigor is not just our history—it's our competitive edge, ensuring every recommendation is validated by science before it reaches a reader.",
+    "url": "https://www.froomle.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "— Prof. dr. Bart Goethals, Founder & CEO",
+    "url": "https://www.froomle.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Froomle is a spin-off from the University of Antwerp, founded in 2016 to bridge the gap between academic theory and production-grade AI. Our journey started with 20+ years of research by Prof. dr. Bart Goethals, whose work on conversion through personalization led to collaborations with researchers at major tech companies like Netflix and Apple.",
+    "url": "https://www.froomle.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Today, our product team maintains a deep connection with the university, including researchers who have pursued PhDs specifically in AI-based personalization. This academic rigor is not just our history—it's our competitive edge, ensuring every recommendation is validated by science before it reaches a reader.",
+    "url": "https://www.froomle.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "— Prof. dr. Bart Goethals, Founder & CEO",
+    "url": "https://www.froomle.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Froomle is a leading provider of self-learning recommendation engines, creating personalized online experiences in real-time. In partnership with researchers from University of Antwerp, Netflix and Apple, they developed the Froomle Open AI platform driving break-through performance in relevancy and fast go-to market through cloud based AI services and personalization algorithms.",
+    "url": "https://www.casestudies.com/company/froomle",
+    "pass": 3
+   },
+   {
+    "quote": "Recommending relevant wines on Licata’s product page and cart pop-up",
+    "url": "https://www.casestudies.com/company/froomle",
+    "pass": 3
+   },
+   {
+    "quote": "Mediafin boosts CTR and reactivates older content with Froomle",
+    "url": "https://www.casestudies.com/company/froomle",
+    "pass": 3
+   },
+   {
+    "quote": "Business Product Owner",
+    "url": "https://www.casestudies.com/company/froomle",
+    "pass": 3
+   },
+   {
+    "quote": "Mediahuis boosts engagement and content relevance with Froomle",
+    "url": "https://www.casestudies.com/company/froomle",
+    "pass": 3
+   },
+   {
+    "quote": "Coveo brings superior AI-Relevance to every point-of-experience, transforming how enterprises connect with their customers and employees to maximize business outcomes. Relevance is about moving from persona to person, the degree …",
+    "url": "https://www.featuredcustomers.com/vendor/froomle/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Let potential prospects find you on the world's only",
+    "url": "https://www.featuredcustomers.com/vendor/froomle/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/froomle/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "FREE and learn about our upgraded profile options to",
+    "url": "https://www.featuredcustomers.com/vendor/froomle/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "unlock all of your customer references for prospects",
+    "url": "https://www.featuredcustomers.com/vendor/froomle/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/froomle/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "> Approach 1 (before Froomle integration) - recommends randomly",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/Case_study_-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "approach 1 was replaced by better experiences early on in the process.",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/Case_study_-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "> Approach 2 suggests most-read articles.",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/Case_study_-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "> Approach 3 is a1:1 personalization. It takes into account user behavior,",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/Case_study_-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "> Approach 4 is a full-suite personalization, taking into account also",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/Case_study_-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "impression discounting. Furthermore, within Approach 4, we test",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/Case_study_-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "improvements up to 50% on our 2",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/Case_study_-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "also providing more fundamental",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/Case_study_-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Business Product Owner @ Mediahuis",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/Case_study_-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Rio Negro improves their online reader's experience on article pages",
+    "url": "https://www.casestudies.com/company/froomle/case-study/rio-negro-improves-their-online-readers-experience-on-article-pages",
+    "pass": 3
+   },
+   {
+    "quote": "Rio Negro, a leading Argentinian newspaper, partnered with Froomle to improve reader engagement and the overall experience on its article pages. The challenge was to make content discovery more effective for online readers during their trial with Froomle.",
+    "url": "https://www.casestudies.com/company/froomle/case-study/rio-negro-improves-their-online-readers-experience-on-article-pages",
+    "pass": 3
+   },
+   {
+    "quote": "Froomle 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/384730-93",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/384730-93",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/384730-93",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/384730-93",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/384730-93",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/384730-93",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/384730-93",
+    "pass": 3
+   },
+   {
+    "quote": "Froomle’s primary industry is Business/Productivity Software.",
+    "url": "https://pitchbook.com/profiles/company/384730-93",
+    "pass": 3
+   },
+   {
+    "quote": "Is Froomle a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/384730-93",
+    "pass": 3
+   },
+   {
+    "quote": "Froomle is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/384730-93",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/384730-93",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/384730-93",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/384730-93",
+    "pass": 3
+   },
+   {
+    "quote": "To get people consuming, subscribing, and engaging with your content, Froomle provides AI powered recommendation modules that help your user access the right content regardless of the channel. Working with both media conglomerates (Axel Springer, GEDI, Hello!, Mediahuis) and independent publishers (The Boston Globe, IOL, Mediafin), Froomle has a solution for any size.",
+    "url": "https://prospeo.io/c/froomle-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/froomle-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Froomle has approximately",
+    "url": "https://prospeo.io/c/froomle-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/froomle-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/froomle-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/froomle-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Content Curation Software",
+    "url": "https://getlatka.com/companies/froomle.ai#team",
+    "pass": 3
+   },
+   {
+    "quote": "Content Experience Platforms",
+    "url": "https://getlatka.com/companies/froomle.ai#team",
+    "pass": 3
+   },
+   {
+    "quote": "Best Marketing Software",
+    "url": "https://getlatka.com/companies/froomle.ai#team",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/froomle.ai#team",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/froomle.ai#team",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by Leading Media Organizations",
+    "url": "https://www.froomle.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/froomle/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Rio Negro achieves up to 45% CTR with Froomle | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/froomle/case-study/rio-negro-improves-their-online-readers-experience-on-article-pages",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Rio Negro achieves up to 45% CTR with Froomle",
+    "url": "https://www.casestudies.com/company/froomle/case-study/rio-negro-improves-their-online-readers-experience-on-article-pages",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/froomle/case-study/rio-negro-improves-their-online-readers-experience-on-article-pages",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/froomle/case-study/rio-negro-improves-their-online-readers-experience-on-article-pages",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Froomle.ai | Intelligent Personalization for Media — AI-powered recommendations giving publishers full control. Increase engagement, retention, and revenue with Froomle.",
+    "url": "https://www.froomle.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Froomle.ai | Intelligent Personalization for Media — \"We built Froomle to give publishers access to world-class personalization technology, without the years of investment needed to build large AI research teams themselves.\"",
+    "url": "https://www.froomle.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Froomle - LinkedIn 日本 — Froomle is composed of experts in recommender systems for the digital publishing industry, allowing us to offer an extensive catalog of specialized modules that are tailored to meet your specific...",
+    "url": "https://jp.linkedin.com/company/froomle",
+    "pass": 3
+   },
+   {
+    "quote": "What is the Froomle platform? :: Froomle Product Documentation — Froomle is an AI-powered platform that delivers the right content, to the right user, in the right context. Using a flexible toolkit of proven algorithms, we provide personalized and contextual recommendations across your website, emails, push campaigns, on-site search, and interactive chatbots.",
+    "url": "https://docs.froomle.ai/froomle-doc-main/v2/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Froomle B2B Case Studies & Customer Successes — See how Froomle solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/froomle",
+    "pass": 3
+   },
+   {
+    "quote": "22 Froomle Case Studies, Success Stories, & Customer Stories — Discover how other companies use Froomle, get inspired, and find ways to improve your business.",
+    "url": "https://www.featuredcustomers.com/vendor/froomle/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "6074bab696470b6bed64ba5f Froomle - Mediahuis case study — > Approach 3 is a 1:1 personalization. It takes into account user behavior, various filtering capabilities, diversification, and some business rules tailored specifically per news brand. ation, taking into account also impression discounting. Furthermore, within Approach 4, we test several algorithms with different weights to FROOMLE",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/Case_study_-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Rio Negro achieves up to 45% CTR with Froomle — The result was a continuously growing click-through rate reaching up to 45%, and the best personalization version delivered an 84% uplift versus the baseline showing recent articles. View this case study…",
+    "url": "https://www.casestudies.com/company/froomle/case-study/rio-negro-improves-their-online-readers-experience-on-article-pages",
+    "pass": 3
+   },
+   {
+    "quote": "Froomle.ai | Intelligent Personalization for Media — \" Froomle shared how they leverage their advanced A/B testing setup, live data and shadow deployments to prioritize online experiments over offline validation... allowing for easier debugging and improvements.",
+    "url": "https://www.froomle.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Froomle 2026 Company Profile: Valuation, Funding & Investors ...Froomle – Estimated Net Worth, Growth & Competitor Overview – …Froomle Revenue, Funding & Valuation - prospeo.ioHow Froomle hit $770K revenue with a 7 person team in 2025.Froomle Revenue 2025: $770K Est. ARR (Bootstrapped)Froomle - Crunchbase Company Profile & FundingFroomle (AI, Publishing) — Funding, Investors & Signals 2026 — Infor",
+    "url": "https://pitchbook.com/profiles/company/384730-93",
+    "pass": 3
+   },
+   {
+    "quote": "Froomle – Estimated Net Worth, Growth & Competitor Overview – … — Discover Froomle's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/froomle",
+    "pass": 3
+   },
+   {
+    "quote": "Froomle Revenue, Funding & Valuation - prospeo.io — Working with both media conglomerates (Axel Springer, GEDI, Hello!, Mediahuis) and independent publishers (The Boston Globe, IOL, Mediafin), Froomle has a solution for any size.",
+    "url": "https://prospeo.io/c/froomle-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How Froomle hit $770K revenue with a 7 person team in 2025. — Froomle CEO shares how Froomle grew to $770K over the past 9 years. Froomle has bootstrapped. See Froomle growth here.",
+    "url": "https://getlatka.com/companies/froomle.ai/team",
+    "pass": 3
+   },
+   {
+    "quote": "Froomle Revenue 2025: $770K Est. ARR (Bootstrapped) — Sep 15, 2026 · Froomle is a bootstrapped E-Commerce Personalization Software startup. Founded in 2016, Froomle has grown to $770K in revenue without raising any venture capital or outside funding.",
+    "url": "https://getlatka.com/companies/froomle.ai",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Alpha Foods boosts revenue per user with Froomle recommendations",
+    "url": "https://www.casestudies.com/company/froomle",
+    "pass": 3
+   },
+   {
+    "quote": "Licata achieves 55% higher attributed revenue with Froomle",
+    "url": "https://www.casestudies.com/company/froomle",
+    "pass": 3
+   },
+   {
+    "quote": "Nosto is the intelligent Commerce Experience Platform (CXP) that gives brands and retailers intuitively designed tools to increase online revenue through end-to-end commerce experience management. With experience.AI™, Nosto helps brands …",
+    "url": "https://www.featuredcustomers.com/vendor/froomle/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Coveo brings superior AI-Relevance to every point-of-experience, transforming how enterprises connect with their customers and employees to maximize business outcomes. Relevance is about moving from persona to person, the degree …",
+    "url": "https://www.featuredcustomers.com/vendor/froomle/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/froomle/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/384730-93",
+    "pass": 3
+   },
+   {
+    "quote": "Froomle has 10 total employees.",
+    "url": "https://pitchbook.com/profiles/company/384730-93",
+    "pass": 3
+   },
+   {
+    "quote": "What is Froomle’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/384730-93",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Froomle is",
+    "url": "https://pitchbook.com/profiles/company/384730-93",
+    "pass": 3
+   },
+   {
+    "quote": "Froomle Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/froomle-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Froomle",
+    "url": "https://prospeo.io/c/froomle-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/froomle-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/froomle-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/froomle-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Froomle?",
+    "url": "https://prospeo.io/c/froomle-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Froomle generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/froomle-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/froomle-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/froomle-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Froomle have?",
+    "url": "https://prospeo.io/c/froomle-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/froomle-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Froomle Revenue 2025: $770K Est.",
+    "url": "https://getlatka.com/companies/froomle.ai#team",
+    "pass": 3
+   },
+   {
+    "quote": "Froomle has not published its revenue. GetLatka estimates it at about $770K a year (July 2025).",
+    "url": "https://getlatka.com/companies/froomle.ai#team",
+    "pass": 3
+   },
+   {
+    "quote": "Froomle CEO & employees",
+    "url": "https://getlatka.com/companies/froomle.ai#team",
+    "pass": 3
+   },
+   {
+    "quote": "Koen Verstrepen is CEO of Froomle. Froomle has 7 employees (July 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/froomle.ai#team",
+    "pass": 3
+   },
+   {
+    "quote": "What is Froomle's revenue?",
+    "url": "https://getlatka.com/companies/froomle.ai#team",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Froomle's revenue at about",
+    "url": "https://getlatka.com/companies/froomle.ai#team",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Froomle have?",
+    "url": "https://getlatka.com/companies/froomle.ai#team",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of July 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/froomle.ai#team",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/froomle.ai#team",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/froomle.ai#team",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/froomle.ai#team",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Mediahuis boosts email newsletter clicks with Froomle personalization",
+    "url": "https://www.casestudies.com/company/froomle",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/froomle/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/froomle/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/384730-93",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/froomle-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Froomle (@Froomle) / Posts / X Froomle is a leading provider of self-learning recommendation engines, creating personalized online experiences in real-time.",
+    "url": "https://x.com/Froomle",
+    "pass": 3
+   },
+   {
+    "quote": "Event Shout out Last week our Head of Engineering attended ... Froomle (@Froomle). 68 views. 📢 Event Shout out Last week our Head of Engineering attended the #EuropeanWomeninTech Conference in Amsterdam. This tech event for women in Europe aims to explore essential technologies and revolutionary concepts in business and the workforce that are changing our future",
+    "url": "https://x.com/Froomle/status/1676878912100392961",
+    "pass": 3
+   },
+   {
+    "quote": "Interview Series: Women in #STEM In the last episode of our Q ... Interview Series: Women in #STEM In the last episode of our Q&A, we chat with Customer Success and Account Manager at Froomle. Curious about what they think about working in the tech industry as a #woman?",
+    "url": "https://x.com/Froomle/status/1643974432774578176",
+    "pass": 3
+   },
+   {
+    "quote": "Froomle (@Froomle) / Posts / X We're currently seeking a highly motivated and experienced #DataEngineer to join the Froomle team. Take your career to the next level and work with a team of talented professionals, we'd love to hear from you!",
+    "url": "https://x.com/Froomle",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Froomle - LinkedIn To get people consuming, subscribing, and engaging with your content, Froomle provides AI powered recommendation modules that help your user access the right content regardless of the channel.",
+    "url": "https://www.linkedin.com/company/froomle",
+    "pass": 3
+   },
+   {
+    "quote": "Bart Goethals - Froomle | LinkedIn#ai #publishing #personalization #recommendersystems | Froomle#ai #startup #news #personalization #recommendersystem # ...What Does “Popular” Really Mean? | Froomle - LinkedInFroomle on LinkedIn: FroomleHow Marc's plane landed at Froomle and I came on board - LinkedIn Experience: Froomle · Education: Universiteit Hasselt (transnationale Universiteit Limburg) · Loc",
+    "url": "https://be.linkedin.com/in/bartgoethals",
+    "pass": 3
+   },
+   {
+    "quote": "#ai #publishing #personalization #recommendersystems | Froomle We’re thrilled to share that Froomle has joined the AI Launchpad programme, organized by FT Strategies and the Google News Initiative! 🚀 This programme is designed to help publishers ...",
+    "url": "https://www.linkedin.com/posts/froomle_ai-publishing-personalization-activity-7307719342442369024-BpwT",
+    "pass": 3
+   },
+   {
+    "quote": "#ai #startup #news #personalization #recommendersystem # ... Froomle is turning 6 🥳 We started as a small team of like-minded people with a dream to create AI personalized experiences.",
+    "url": "https://www.linkedin.com/posts/froomle_ai-startup-news-activity-6933391863223656448-aCIU",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Froomle | Antwerp - Facebook Aug 9, 2023 · Within only a few weeks the results were clear: Froomle personalization outperformed the Factoria Henneo popularity baseline for CTR, with an average increase of 22%, and up to 60% in some instances.",
+    "url": "https://www.facebook.com/froomle/",
+    "pass": 3
+   },
+   {
+    "quote": "Froomle - New year, new website During the last few... A video introduction is now available We added some cool items like a module filter where you can search for the best Froomle solution depending on your channel and goal. A new and improved resource center, where you can quickly find all sorts of insightful and educational content relating to everything #news, #ecommerce & #personalization.",
+    "url": "https://www.facebook.com/froomle/posts/new-year-new-website-during-the-last-few-months-we-have-been-working-on-a-new-lo/7068332433207620/",
+    "pass": 3
+   },
+   {
+    "quote": "Froomle - Updated Results! Last year we ... - Facebook May 4, 2023 · News publishers are developing mobile apps to provide a seamless news experience. Learn more about the benefits of single mobile apps for publishers and audiences in our newest blog post.https://bit.ly/47ciP9X#MobileNews#NewsConsumption#Smartphones#froomle FROOMLE.AI The Rise of Single Mobile Apps: Revolutionizing News Publishing",
+    "url": "https://www.facebook.com/froomle/posts/-updated-results-last-year-we-published-a-case-study-with-nieuwsbladbe-one-of-ou/704486548345080/",
+    "pass": 3
+   },
+   {
+    "quote": "Froomle - New Collaboration Alert! Our ... - Facebook Jun 28, 2023 · 📣 New Collaboration Alert! Our collaboration with #DMGMedia Ireland has begun! You can now find Froomle recommendations in the Continue Reading module...",
+    "url": "https://www.facebook.com/froomle/posts/-new-collaboration-alertour-collaboration-with-dmgmedia-ireland-has-begun-you-ca/744108707716197/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.froomle.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.froomle.ai/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.froomle.ai/logos/newsrooms/Motorsport_Network.svg?dpl=dpl_7DFGt2T7idrkBCKt4DoPgY3xKe46",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.froomle.ai/logos/newsrooms/esquire-summit-media.svg?dpl=dpl_7DFGt2T7idrkBCKt4DoPgY3xKe46",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.froomle.ai/logos/newsrooms/20minutos.svg?dpl=dpl_7DFGt2T7idrkBCKt4DoPgY3xKe46",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.froomle.ai/logos/newsrooms/rio-negro.svg?dpl=dpl_7DFGt2T7idrkBCKt4DoPgY3xKe46",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.froomle.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/froomle",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000136805.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fromjapan.co.jp/en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.froomle.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.fromjapan.co.jp/en/?lang=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/froomle",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/froomle/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/Case_study_-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.casestudies.com/company/froomle/case-study/rio-negro-improves-their-online-readers-experience-on-article-pages",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partnerportal.fortinet.com/English/?ReturnUrl=%2FEnglish%2FNAReseller%2Fhome.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/384730-93",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/froomle",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/froomle-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/froomle.ai#team",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Froomle",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Froomle/status/1676878912100392961",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Froomle/status/1643974432774578176",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/froomle",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://be.linkedin.com/in/bartgoethals",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/froomle_ai-publishing-personalization-activity-7307719342442369024-BpwT",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/froomle_ai-startup-news-activity-6933391863223656448-aCIU",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/froomle/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/froomle/posts/new-year-new-website-during-the-last-few-months-we-have-been-working-on-a-new-lo/7068332433207620/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/froomle/posts/-updated-results-last-year-we-published-a-case-study-with-nieuwsbladbe-one-of-ou/704486548345080/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/froomle/posts/-new-collaboration-alertour-collaboration-with-dmgmedia-ireland-has-begun-you-ca/744108707716197/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Froomle",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Froomle 日本 導入",
+   "results": [
+    "https://www.froomle.ai/",
+    "https://www.froomle.com/about",
+    "https://jp.linkedin.com/company/froomle",
+    "https://prtimes.jp/main/html/rd/p/000000013.000136805.html",
+    "https://www.mulesoft.com/jp",
+    "https://built.itmedia.co.jp/bt/articles/2603/05/news136.html",
+    "https://codenote.net/ja/posts/japanese-local-llm-development-case-studies/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Froomle 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.froomle.ai/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.ipsen.com/japan/会社/",
+    "https://www.fourmedics.com/",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Froomle Japan",
+   "results": [
+    "https://www.froomle.ai/",
+    "https://www.fromjapan.co.jp/en",
+    "https://www.froomle.com/about",
+    "https://corporate.fromjapan.co.jp/en/?lang=en",
+    "https://docs.froomle.ai/froomle-doc-main/v2/index.html",
+    "https://docs.froomle.ai/froomle-doc-main/v1/index.html",
+    "https://www.fromjapan.co.jp/japan/en/qanda"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Froomle manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/froomle",
+    "https://www.featuredcustomers.com/vendor/froomle/case-studies",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/Case_study_-1.pdf",
+    "https://www.casestudies.com/company/froomle/case-study/rio-negro-improves-their-online-readers-experience-on-article-pages",
+    "https://www.froomle.ai/",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/Case_study_6.pdf",
+    "https://www.panenco.com/cases/froomle"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Froomle white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://partners.spectrum.com/",
+    "https://skyswitch.com/",
+    "https://www.t-mobile.com/business/partner-recruitment"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Froomle founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/384730-93",
+    "https://compworth.com/company/froomle",
+    "https://prospeo.io/c/froomle-revenue",
+    "https://getlatka.com/companies/froomle.ai/team",
+    "https://getlatka.com/companies/froomle.ai",
+    "https://www.crunchbase.com/organization/froomle",
+    "https://bouncewatch.com/company/froomle"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Froomle",
+   "results": [
+    "https://note.com/eager_tiger5557",
+    "https://note.com/contest/創作大賞2026",
+    "https://note.com/dashboard",
+    "https://note.com/sj_2020/n/n494c87da7182",
+    "https://note.com/masa_cloud/n/n1fc93c6da79a",
+    "https://note.com/kurashi_bouei/n/n6bcf6aecdfe3",
+    "https://note.com/godel/n/n219ff14f4820"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Froomle",
+   "results": [
+    "https://x.com/Froomle",
+    "https://x.com/",
+    "https://x.com/Froomle/status/1676878912100392961",
+    "https://x.com/Froomle/status/1643974432774578176",
+    "https://x.com/JonasBoonen",
+    "https://x.com/dsleuven",
+    "https://x.com/Marlayna29/status/2115433590150606880"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Froomle",
+   "results": [
+    "https://www.linkedin.com/company/froomle",
+    "https://be.linkedin.com/in/bartgoethals",
+    "https://www.linkedin.com/posts/froomle_ai-publishing-personalization-activity-7307719342442369024-BpwT",
+    "https://www.linkedin.com/posts/froomle_ai-startup-news-activity-6933391863223656448-aCIU",
+    "https://www.linkedin.com/posts/froomle_what-does-popular-really-mean-activity-7396547815428009984-uxXy",
+    "https://www.linkedin.com/posts/froomle_froomle-activity-6884478561474891776-iy0n",
+    "https://www.linkedin.com/pulse/how-marcs-plane-landed-froomle-i-came-board-peter-leclercq"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Froomle",
+   "results": [
+    "https://www.facebook.com/froomle/",
+    "https://www.facebook.com/froomle/posts/new-year-new-website-during-the-last-few-months-we-have-been-working-on-a-new-lo/7068332433207620/",
+    "https://www.facebook.com/froomle/posts/-updated-results-last-year-we-published-a-case-study-with-nieuwsbladbe-one-of-ou/704486548345080/",
+    "https://www.facebook.com/froomle/posts/-new-collaboration-alertour-collaboration-with-dmgmedia-ireland-has-begun-you-ca/744108707716197/",
+    "https://www.facebook.com/froomle/posts/happy-7th-birthday-to-us-froomle-has-grown-and-evolved-in-many-ways-over-the-pas/707589801368088/",
+    "https://www.facebook.com/froomle/videos/-froomle-has-a-new-looksince-froomle-was-established-in-2016-we-have-been-growin/1514973012347671/",
+    "https://www.facebook.com/froomle/posts/media-companies-are-betting-on-ai-as-a-way-of-delivering-more-personalised-exper/5759721380735405/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Froomle note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.froomle.ai/",
+    "https://www.froomle.com/about",
+    "https://jp.linkedin.com/company/froomle",
+    "https://note.com/sadaaki",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Froomle X 投稿",
+   "results": [
+    "https://x.com/Froomle",
+    "https://www.froomle.ai/",
+    "https://medium.com/froomle/all",
+    "https://x.com/chrisfroome/status/1961351989410811947",
+    "https://x.com/chrisfroome/status/1961044369999266127",
+    "https://x.com/chrisfroome",
+    "https://x.com/iefrome"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部33頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部33頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部33頁・検索12回）"
+ }
+}

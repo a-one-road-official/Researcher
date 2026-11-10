@@ -1,0 +1,942 @@
+{
+ "name": "Gelee AI",
+ "aliases": [],
+ "context": "旧営業リスト｜AI SDR / Sales Automation｜未接触",
+ "researched_at": "2026-11-10T17:02:59.186278+00:00",
+ "official_url": "https://www.gelee.ai",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "Pricing",
+    "value": "From $89 per LinkedIn Account | Gelee AI",
+    "url": "https://www.gelee.ai/pricing",
+    "pass": 1
+   },
+   {
+    "label": "Pricing",
+    "value": "From $89 per LinkedIn Account | Gelee AI",
+    "url": "https://www.gelee.ai/pricing?cta=footer_start",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "A new funding round or a new hire gives you a reason to reach out this month. Gelee watches for these and times the first message.",
+    "url": "https://www.gelee.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Hiring 3 SDRs",
+    "url": "https://www.gelee.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Viewed your pricing, 3x",
+    "url": "https://www.gelee.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“I had 3 reps prospecting by hand. Now I close 23 meetings a quarter without touching it.”",
+    "url": "https://www.gelee.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“I tried every LinkedIn tool going. With Gelee, prospects think I wrote the messages myself.”",
+    "url": "https://www.gelee.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Upload your leads and do-not-contact list, and pick up where you left off.",
+    "url": "https://www.gelee.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "An agency that promises clients a fixed number of meetings. The platform will not set a goal above 20 booked calls a month for any workspace, however many seats it runs, and nobody here will promise a number above it either.",
+    "url": "https://www.gelee.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Every table in the platform is scoped to one organisation, and a client is one organisation. Seats, campaigns, prospects, replies, blacklist and bookings for Client A live under Client A and nowhere else. Your people are added as members of each workspace they work on, and a member of more than one sees a workspace switcher in the sidebar.",
+    "url": "https://www.gelee.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "The practical effect is isolation by default. A seat that LinkedIn restricts stops sending and re-warms on its own; the other seats in that workspace and every other workspace carry on. A person on one client’s do-not-contact list is still contactable for a different client, unless you add them there too.",
+    "url": "https://www.gelee.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "A newly connected seat sends at 25% of its budget for days 1 to 3, 50% through day 7, 75% through day 14 and full rate after that. The ramp covers invitations, messages, comments, InMails, profile views and searches together. A seat that LinkedIn flags is re-warmed rather than resumed, and after any cooldown it comes back at 25, 50 and 75% over six days.",
+    "url": "https://www.gelee.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Approval first, autonomy earned",
+    "url": "https://www.gelee.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Nothing launches without the client’s written approval of the targeting and the message sequence. Once live, every reply a prospect sends is drafted in the client’s voice and posted to that client’s Slack channel with three buttons: Approve & Send, Edit, Skip. An edit feeds back into the voice.",
+    "url": "https://www.gelee.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Onboarding a new client takes under a week",
+    "url": "https://www.gelee.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Expectations are set on that call and they are not guarantees. Accounts ramp for two to four weeks, results are not judged before 100 invitations, and an acceptance rate of 15 to 30% once settled is treated as healthy. Below 15% after 100 invitations, the list or the seat’s own profile is what gets fixed.",
+    "url": "https://www.gelee.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "One channel for the conversation with you and the team, one for the SDR bot where every drafted reply lands with its Approve, Edit and Skip buttons. The client can sit in both or leave the second to you. A monthly report is generated for each workspace from the same event log the dashboard reads.",
+    "url": "https://www.gelee.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Sending on that seat stops and it is re-warmed from 25% rather than resumed at the rate that caused the problem. The client’s other seats keep running, and other clients are unaffected. The seat’s status and the reason are visible on the accounts page, and a disconnect posts once to that client’s channel.",
+    "url": "https://www.gelee.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Who approves the messaging, me or the client?",
+    "url": "https://www.gelee.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "The client, in writing, before launch; a verbal yes on a call is not enough for the team to switch a campaign on. Day to day, replies are drafted and whoever sits in the SDR channel approves, edits or skips them. Which classes of message run without approval is decided by the approval record itself, as described above.",
+    "url": "https://www.gelee.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "How many meetings should I promise a client?",
+    "url": "https://www.gelee.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Do not promise a count. The platform’s default monthly goal is 5 booked calls for one seat, 8 for two, 10 for three and 20 for four or more, and it refuses to store a goal above 20 for any workspace. What we publish is measured: see the benchmarks page for accept, positive reply and booking rates with the period and sample attached.",
+    "url": "https://www.gelee.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Every draft is a suggestion until someone approves it; your team can edit or skip any of them, or reply directly in the inbox. If that is all you want, though, a per-seat sender is cheaper, and we say so on the switching guides.",
+    "url": "https://www.gelee.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Written in the third person, like a press release, with your credentials and achievements up front. Best for fundraising, hiring and podcast intros.",
+    "url": "https://www.gelee.ai/tools/bio-rewriter",
+    "pass": 1
+   },
+   {
+    "quote": "To prevent abuse and to occasionally share new tools and product updates with you. We don't sell your data, and you can unsubscribe at any time.",
+    "url": "https://www.gelee.ai/tools/bio-rewriter",
+    "pass": 1
+   },
+   {
+    "quote": "The same About section reads differently to investors, recruiters and prospects. The three styles let you pick the voice that suits the people you most want to reach.",
+    "url": "https://www.gelee.ai/tools/bio-rewriter",
+    "pass": 1
+   },
+   {
+    "quote": "Run it again. The model gives different output each time, even for the same text. If it keeps missing, your About section probably has too little to work with. Add a couple of specifics (numbers, company names, the problem you solve) and try again.",
+    "url": "https://www.gelee.ai/tools/bio-rewriter",
+    "pass": 1
+   },
+   {
+    "quote": "Can you look at the rest of my profile?",
+    "url": "https://www.gelee.ai/tools/bio-rewriter",
+    "pass": 1
+   },
+   {
+    "quote": "Get your profile in front of",
+    "url": "https://www.gelee.ai/tools/bio-rewriter",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing: From $89 per LinkedIn Account | Gelee AI",
+    "url": "https://www.gelee.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Reply drafts you approve",
+    "url": "https://www.gelee.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "“With Gelee, prospects think I wrote the messages myself.”",
+    "url": "https://www.gelee.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Priced for your team on a short call.",
+    "url": "https://www.gelee.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "“I had 3 reps prospecting by hand. Now I close 23 meetings a quarter without touching it.”",
+    "url": "https://www.gelee.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Live buying signals (hiring, funding, job changes)",
+    "url": "https://www.gelee.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Each prospect rechecked against your criteria before sending",
+    "url": "https://www.gelee.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Each prospect contacted from your best-fit account",
+    "url": "https://www.gelee.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Free DMs and Open Profile InMails before paid ones",
+    "url": "https://www.gelee.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Per-account limits for invites, messages, reads, likes and comments",
+    "url": "https://www.gelee.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "AI drafts replies with your booking link (you approve, or autopilot)",
+    "url": "https://www.gelee.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Flags threads that need a follow-up",
+    "url": "https://www.gelee.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "You pay per LinkedIn account, per month: $149 for 1 or 2 accounts, $118 for 3 to 5, $100 for 6 to 12 and $89 for 13 to 25. Every account gets the full product. Done for you, and anything over 25 accounts, is priced on a call.",
+    "url": "https://www.gelee.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Every LinkedIn account includes 1,750 credits a month, in one pot your whole workspace shares. They cover turning a LinkedIn URL into full profile details, and the AI SDR, AI variables and Ask Gelee (the AI can use up to 500 of them). A mobile number costs 44 credits and a verified work email 2, only when we find one. Need more? Add credits in the app, from 2¢ each.",
+    "url": "https://www.gelee.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Is there a setup or onboarding fee?",
+    "url": "https://www.gelee.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, add accounts at any time and the price per account drops as you cross each band. Removing accounts needs 30 days' notice.",
+    "url": "https://www.gelee.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing: From $89 per LinkedIn Account | Gelee AI",
+    "url": "https://www.gelee.ai/pricing?cta=footer_start",
+    "pass": 1
+   },
+   {
+    "quote": "Reply drafts you approve",
+    "url": "https://www.gelee.ai/pricing?cta=footer_start",
+    "pass": 1
+   },
+   {
+    "quote": "“With Gelee, prospects think I wrote the messages myself.”",
+    "url": "https://www.gelee.ai/pricing?cta=footer_start",
+    "pass": 1
+   },
+   {
+    "quote": "Priced for your team on a short call.",
+    "url": "https://www.gelee.ai/pricing?cta=footer_start",
+    "pass": 1
+   },
+   {
+    "quote": "“I had 3 reps prospecting by hand. Now I close 23 meetings a quarter without touching it.”",
+    "url": "https://www.gelee.ai/pricing?cta=footer_start",
+    "pass": 1
+   },
+   {
+    "quote": "Live buying signals (hiring, funding, job changes)",
+    "url": "https://www.gelee.ai/pricing?cta=footer_start",
+    "pass": 1
+   },
+   {
+    "quote": "Each prospect rechecked against your criteria before sending",
+    "url": "https://www.gelee.ai/pricing?cta=footer_start",
+    "pass": 1
+   },
+   {
+    "quote": "Each prospect contacted from your best-fit account",
+    "url": "https://www.gelee.ai/pricing?cta=footer_start",
+    "pass": 1
+   },
+   {
+    "quote": "Free DMs and Open Profile InMails before paid ones",
+    "url": "https://www.gelee.ai/pricing?cta=footer_start",
+    "pass": 1
+   },
+   {
+    "quote": "Per-account limits for invites, messages, reads, likes and comments",
+    "url": "https://www.gelee.ai/pricing?cta=footer_start",
+    "pass": 1
+   },
+   {
+    "quote": "AI drafts replies with your booking link (you approve, or autopilot)",
+    "url": "https://www.gelee.ai/pricing?cta=footer_start",
+    "pass": 1
+   },
+   {
+    "quote": "Flags threads that need a follow-up",
+    "url": "https://www.gelee.ai/pricing?cta=footer_start",
+    "pass": 1
+   },
+   {
+    "quote": "You pay per LinkedIn account, per month: $149 for 1 or 2 accounts, $118 for 3 to 5, $100 for 6 to 12 and $89 for 13 to 25. Every account gets the full product. Done for you, and anything over 25 accounts, is priced on a call.",
+    "url": "https://www.gelee.ai/pricing?cta=footer_start",
+    "pass": 1
+   },
+   {
+    "quote": "Every LinkedIn account includes 1,750 credits a month, in one pot your whole workspace shares. They cover turning a LinkedIn URL into full profile details, and the AI SDR, AI variables and Ask Gelee (the AI can use up to 500 of them). A mobile number costs 44 credits and a verified work email 2, only when we find one. Need more? Add credits in the app, from 2¢ each.",
+    "url": "https://www.gelee.ai/pricing?cta=footer_start",
+    "pass": 1
+   },
+   {
+    "quote": "Is there a setup or onboarding fee?",
+    "url": "https://www.gelee.ai/pricing?cta=footer_start",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, add accounts at any time and the price per account drops as you cross each band. Removing accounts needs 30 days' notice.",
+    "url": "https://www.gelee.ai/pricing?cta=footer_start",
+    "pass": 1
+   },
+   {
+    "quote": "You run one to three LinkedIn seats (yours, a co-founder’s, maybe an early hire’s) and you have an offer a stranger can say yes to in one word.",
+    "url": "https://www.gelee.ai/solutions/founders",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "New revenue you want this year",
+    "url": "https://www.gelee.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The practical effect is isolation by default. A seat that LinkedIn restricts stops sending and re-warms on its own; the other seats in that workspace and every other workspace carry on. A person on one client’s do-not-contact list is still contactable for a different client, unless you add them there too.",
+    "url": "https://www.gelee.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Every safety behaviour, listed",
+    "url": "https://www.gelee.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "No. Every record carries the organisation it belongs to and every query is scoped to the signed-in user’s current workspace. A client is a member of their own workspace only. Your team members are added to each workspace they handle and switch between them from the sidebar.",
+    "url": "https://www.gelee.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-revenue and funding the build from savings. Onboarding is a commitment measured over weeks, the first two of which are warm-up, and a founder in that position needs the first ten customers from their own network before paying anyone to reach strangers.",
+    "url": "https://www.gelee.ai/solutions/founders",
+    "pass": 1
+   },
+   {
+    "quote": "Every safety behaviour, listed",
+    "url": "https://www.gelee.ai/solutions/founders",
+    "pass": 1
+   },
+   {
+    "quote": "Calls booked this week, invitations, replies and positive replies, pipeline at the deal value you gave us, best campaigns by booked calls. A prospect who writes back three times is one reply. A Friday email carries the same week in the same numbers, and a monthly report is generated from the same event log.",
+    "url": "https://www.gelee.ai/solutions/founders",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "LinkedIn Outreach for Agencies: Multi-Client, Multi-Account Outbound",
+    "url": "https://www.gelee.ai/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Over 25 accounts, or agencies",
+    "url": "https://www.gelee.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Do you work with agencies running outreach for clients?",
+    "url": "https://www.gelee.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Over 25 accounts, or agencies",
+    "url": "https://www.gelee.ai/pricing?cta=footer_start",
+    "pass": 1
+   },
+   {
+    "quote": "Do you work with agencies running outreach for clients?",
+    "url": "https://www.gelee.ai/pricing?cta=footer_start",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Why do you ask for my email?",
+    "url": "https://www.gelee.ai/tools/bio-rewriter",
+    "pass": 1
+   },
+   {
+    "quote": "Every LinkedIn account includes 1,750 credits a month, in one pot your whole workspace shares. They cover turning a LinkedIn URL into full profile details, and the AI SDR, AI variables and Ask Gelee (the AI can use up to 500 of them). A mobile number costs 44 credits and a verified work email 2, only when we find one. Need more? Add credits in the app, from 2¢ each.",
+    "url": "https://www.gelee.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Every LinkedIn account includes 1,750 credits a month, in one pot your whole workspace shares. They cover turning a LinkedIn URL into full profile details, and the AI SDR, AI variables and Ask Gelee (the AI can use up to 500 of them). A mobile number costs 44 credits and a verified work email 2, only when we find one. Need more? Add credits in the app, from 2¢ each.",
+    "url": "https://www.gelee.ai/pricing?cta=footer_start",
+    "pass": 1
+   },
+   {
+    "quote": "Calls booked this week, invitations, replies and positive replies, pipeline at the deal value you gave us, best campaigns by booked calls. A prospect who writes back three times is one reply. A Friday email carries the same week in the same numbers, and a monthly report is generated from the same event log.",
+    "url": "https://www.gelee.ai/solutions/founders",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Used by 500+ founders",
+    "url": "https://web.gelee.ai/start?cta=pricing_nav",
+    "pass": 1
+   },
+   {
+    "quote": "Used by 500+ founders",
+    "url": "https://web.gelee.ai/start?cta=pricing_mobile",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Gelee AI - LinkedIn — Introducing Gelee AI: your AI sales army that finds high-intent leads and books calls for you.",
+    "url": "https://www.linkedin.com/company/gelee",
+    "pass": 3
+   },
+   {
+    "quote": "Gelee AI: ManyChat for LinkedIn | AlphaShot — Gelee is a comment-to-DM automation tool for LinkedIn creators. See features, pricing and alternatives on AlphaShot.",
+    "url": "https://alphashot.com/products/gelee-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Elizabeth Cree - GTM @ Gelee AI | #1 Outbound Tool | LinkedIn — Gelee was built for teams ready to move beyond static lead lists and automated sequences. It continuously finds prospects showing buying intent, scores them against each client’s ideal customer...",
+    "url": "https://www.linkedin.com/in/elizabeth-cree-62bb55176",
+    "pass": 3
+   },
+   {
+    "quote": "Gelee AI - Crunchbase Company Profile & Funding — Frequently Asked Questions Where is Gelee AI's headquarters? Gelee AI is located in San Francisco, California, United States. Who are Gelee AI's competitors? Alternatives and possible competitors to Gelee AI may include Dripify, HeyReach.io, and Taplio.",
+    "url": "https://www.crunchbase.com/organization/gelèe-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Anjali Dhaliwal - Founder and CEO of Gelee AI - Drishti Magazine — Founder and CEO of Gelee AI, a tech company using AI agents to help businesses find the right buyers on LinkedIn. She has already driven over $100 million in sales pipeline for its clients.",
+    "url": "https://drishtimagazine.com/anjali-dhaliwal/",
+    "pass": 3
+   },
+   {
+    "quote": "Gelee AI - LinkedIn — Hit your entire TAM. Gelee tracks fundraises, hiring surges, competitor moves, viral posts, and website visits, then finds the prospect, writes the message, and sends it. You just take the...",
+    "url": "https://www.linkedin.com/company/gelee",
+    "pass": 3
+   },
+   {
+    "quote": "Aimie Landells - Growth @ Gelee AI | #1 Outbound Tool for ... — Gelee has helped dozens of teams generate millions in pipeline from YC, a16z, Sequoia, and South Park Commons.",
+    "url": "https://www.linkedin.com/in/aimie-landells-8392bb319",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "anj | gelee.ai (@linkedingal) / X I’m currently on REALITY TV in upstate New York with @ dan_k02 AND 100 founders competing for $100K 😭 And naturally, we decided to use the next 2 weeks to build + launch a brand new Gelee product in public.",
+    "url": "https://x.com/linkedingal",
+    "pass": 3
+   },
+   {
+    "quote": "What do you think? --- Gelee (OC) - Toyified It finally came ... Jun 26 What do you think? --- Gelee (OC) - Toyified It finally came! You special ordered this action figure... KettleCorp™️ spared no expense in detail! \"I'm glad chu like me,\" the figurine spoke up, smiling happily. \"Take good care of me, my new Hero~\" #AIイラスト︎ #AIart #AISlop 💬 1",
+    "url": "https://x.com/KettleworksSFW/status/2070572132803744087",
+    "pass": 3
+   },
+   {
+    "quote": "What do you think? --- Gelee (OC) \"What do chu think of the ... What do you think? --- Gelee (OC) \"What do chu think of the new me, Hero?\" She chittered happily, showing off the new look thanks to the shift in reality. \"My sister Meringue would be so jealous if she knew I got the treatment before her!\" #AIイラスト︎ #AIart #AISlop",
+    "url": "https://x.com/KettleworksSFW/status/2065136248868532279",
+    "pass": 3
+   },
+   {
+    "quote": "Gelee (OC) The party decided to set camp near the lake. Once ... Gelee (OC) The party decided to set camp near the lake. Once set... it was time for a little fun! \"Come on Hero,\" she chittered happily. \"The water is so cool on this hot day. Don't chu want to join me? Jump in~\" +🔄+ (Follow)+🔔=More Waifus! #AIイラスト︎ #AIart #AISlop",
+    "url": "https://x.com/KettleworksSFW/status/2071676405251731927",
+    "pass": 3
+   },
+   {
+    "quote": "Gelée by Decorative Nail 【公式】 on X: \"\\映画公開記念コラボキャ... Oct 18, 2026 · 映画『お姉ちゃんの翠くん』×粧美堂 Gelée by Decorative Nail 映画チケットやジェリバイ商品が当たる💅 📱応募方法 ① @GeleebyNail をフォロー ②本投稿をリポスト 📅 期間 2026/10/18 (日)～2026/10/30 (金) 詳細はツリーをチェック👇",
+    "url": "https://x.com/GeleebyNail/status/2111653843411022020",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Gelee AI - LinkedIn Gelee tracks fundraises, hiring surges, competitor moves, viral posts, and website visits, then finds the prospect, writes the message, and sends it. You just take the meetings.",
+    "url": "https://www.linkedin.com/company/gelee",
+    "pass": 3
+   },
+   {
+    "quote": "Aimie Landells - Growth @ Gelee AI | #1 Outbound Tool for ... Gelee tracks fundraises, hiring surges, competitor moves, viral posts, and website visits, then finds the prospect, writes the message, and sends it. You just take the meetings.",
+    "url": "https://www.linkedin.com/in/aimie-landells-8392bb319",
+    "pass": 3
+   },
+   {
+    "quote": "Anjali Dhaliwal - Gelee AI | LinkedInDaniel Kim ⚡️ - Gelee AI | LinkedInWissem Krimi - Growth @ Gelee AI | #1 Outbound Tool for ...Elizabeth Cree - GTM @ Gelee AI | #1 Outbound Tool | LinkedInMichaely Souza - Growth at Gelee AI | LinkedIn Jun 30, 2022 · About Gelee is an army of LinkedIn agents that find your ideal buyers, messages them and book… Jun 1, 2020 · · Experience: Gelee AI · Education: B",
+    "url": "https://ca.linkedin.com/in/anjalidhaliwal",
+    "pass": 3
+   },
+   {
+    "quote": "Daniel Kim ⚡️ - Gelee AI | LinkedInWissem Krimi - Growth @ Gelee AI | #1 Outbound Tool for ...Elizabeth Cree - GTM @ Gelee AI | #1 Outbound Tool | LinkedInMichaely Souza - Growth at Gelee AI | LinkedIn Jun 1, 2020 · · Experience: Gelee AI · Education: Beedie School of Business at Simon Fraser University · Location: Greater Vancouver Metropolitan Area · 500+ connections on LinkedIn. Gelee was built",
+    "url": "https://ca.linkedin.com/in/danielk1026",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.gelee.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gelee.ai/solutions/agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gelee.ai/tools/bio-rewriter",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gelee.ai/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.gelee.ai/start?cta=pricing_nav",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.gelee.ai/start?cta=pricing_mobile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gelee.ai/pricing?cta=footer_start",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gelee.ai/solutions/founders",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gelee.ai/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.gelee.ai/logos/tools/heyreach.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.gelee.ai/logos/tools/expandi.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.gelee.ai/logos/tools/dripify.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.gelee.ai/logos/tools/waalaxy.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.ai-souken.com/article/ai-adoption-japan-status",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2610/29/news032.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ai_labo26/n/nb6bdbf2c36a2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%AA%E3%83%BC%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Geely",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ghelia.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/gelee",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.etnownews.com/technology/japan-declares-cybersecurity-emergency-as-ai-powered-attacks-hit-14-million-citizens-and-breach-495-businesses-article-156326067",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alphashot.com/products/gelee-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://insights.rstartec.com/eight-ai-case-studies-demonstrate-the-potential-of-ai-in-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automate.org/ai/industry-insights/ai-in-the-real-world-4-case-studies-of-success-in-industrial-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://artificial-intelligence-wiki.com/industry-ai/manufacturing-and-industrial-automation/ai-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://customgpt.ai/ai-reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creators.riotgames.com/en-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/gelee-ai-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/gel%C3%A8e-ai",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://drishtimagazine.com/anjali-dhaliwal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/gelee",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/linkedingal",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/KettleworksSFW/status/2070572132803744087",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/KettleworksSFW/status/2065136248868532279",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/KettleworksSFW/status/2071676405251731927",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/gelee",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/aimie-landells-8392bb319",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/anjalidhaliwal",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/danielk1026",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/linkedingal",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/GeleebyNail/status/2111653843411022020",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Gelee AI 日本 導入",
+   "results": [
+    "https://www.gelee.ai/",
+    "https://www.ai-souken.com/article/ai-adoption-japan-status",
+    "https://monoist.itmedia.co.jp/mn/articles/2610/29/news032.html",
+    "https://note.com/ai_labo26/n/nb6bdbf2c36a2",
+    "https://www.itmedia.co.jp/enterprise/articles/2611/06/news022.html",
+    "https://qiita.com/mt_caddi/items/0aa540a9016e8d686fc6",
+    "https://www.pwc.com/jp/ja/knowledge/thoughtleadership/generative-ai-survey2026.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gelee AI 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ジーリーメディアグループ",
+    "https://en.wikipedia.org/wiki/Geely",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://ghelia.com/",
+    "https://www.glean.com/jp",
+    "https://www.gilead.com/ja-jp/company/gilead-in-japan",
+    "https://www.geelyautogroup.com/en/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gelee AI Japan",
+   "results": [
+    "https://www.gelee.ai/",
+    "https://www.linkedin.com/company/gelee",
+    "https://www.etnownews.com/technology/japan-declares-cybersecurity-emergency-as-ai-powered-attacks-hit-14-million-citizens-and-breach-495-businesses-article-156326067",
+    "https://alphashot.com/products/gelee-ai",
+    "https://www.linkedin.com/in/elizabeth-cree-62bb55176",
+    "https://webcatalog.io/ja/apps/gelee-ai",
+    "https://bcbusiness.ca/business/tech-science/anjali-dhaliwal-gelee-ai-linkedin-founder/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gelee AI manufacturing customer case study",
+   "results": [
+    "https://www.gelee.ai/",
+    "https://insights.rstartec.com/eight-ai-case-studies-demonstrate-the-potential-of-ai-in-manufacturing",
+    "https://www.automate.org/ai/industry-insights/ai-in-the-real-world-4-case-studies-of-success-in-industrial-manufacturing",
+    "https://artificial-intelligence-wiki.com/industry-ai/manufacturing-and-industrial-automation/ai-manufacturing-case-studies/",
+    "https://www.sotatek.com/blogs/ai-and-machine-learning/ai-in-manufacturing-case-study/",
+    "https://online.nmhu.edu/resources/article/ai-case-studies-application-of-artificial-intelligence-in-business/",
+    "https://www.vktr.com/ai-disruption/5-ai-case-studies-in-manufacturing/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gelee AI white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://customgpt.ai/ai-reseller-program/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://creators.riotgames.com/en-us",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://reseller.amazon.com/",
+    "https://www.reseller.co.nz/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gelee AI founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/gelee-ai-revenue",
+    "https://www.crunchbase.com/organization/gelèe-ai",
+    "https://drishtimagazine.com/anjali-dhaliwal/",
+    "https://www.linkedin.com/company/gelee",
+    "https://www.linkedin.com/in/aimie-landells-8392bb319",
+    "https://deepenrich.com/company/1da8/gelee-ai-00115n45v",
+    "https://bcbusiness.ca/business/tech-science/anjali-dhaliwal-gelee-ai-linkedin-founder/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Gelee AI",
+   "results": [
+    "https://note.com/geltech",
+    "https://note.com/giichi_endo/n/ne1b1fed0a3dc?hl=en",
+    "https://note.com/gel_official/n/n42875db93757",
+    "https://note.com/lovely_hebe3348/n/n67e2693a398b?hl=en",
+    "https://note.com/kokorohoshi/n/n54c0185574cb?hl=en",
+    "https://note.com/runmedia/n/n73b7826e38ff?hl=en",
+    "https://note.com/saboru_ai/n/n00a7115b050b?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Gelee AI",
+   "results": [
+    "https://x.com/linkedingal",
+    "https://x.com/KettleworksSFW/status/2070572132803744087",
+    "https://x.com/KettleworksSFW/status/2065136248868532279",
+    "https://x.com/KettleworksSFW/status/2071676405251731927",
+    "https://x.com/KettleworksSFW/status/2059675449660231878",
+    "https://x.com/KettleworksSFW/status/2048424692625576163",
+    "https://x.com/LeHoang_Dao/status/2107190813314908209"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Gelee AI",
+   "results": [
+    "https://www.linkedin.com/company/gelee",
+    "https://www.linkedin.com/in/aimie-landells-8392bb319",
+    "https://ca.linkedin.com/in/anjalidhaliwal",
+    "https://ca.linkedin.com/in/danielk1026",
+    "https://pt.linkedin.com/in/wissem-krimi-26111a2a7",
+    "https://www.linkedin.com/in/elizabeth-cree-62bb55176",
+    "https://www.linkedin.com/in/michaely-souza-139292146"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Gelee AI",
+   "results": [
+    "https://www.facebook.com/HelloGelAI/",
+    "https://www.facebook.com/p/Gel-Ai-61591117455660/",
+    "https://www.facebook.com/p/Gel-Ai-61563985625977/",
+    "https://www.facebook.com/61563985625977/",
+    "https://www.facebook.com/112701475149750/",
+    "https://www.facebook.com/Diomios/",
+    "https://www.facebook.com/gelee.ace.3/videos/ai-lovestory-aidramaseries-aistory-aidrama-lulu-the-little-goddesshighlight-plea/2581538869014062/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gelee AI note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://drishtimagazine.com/anjali-dhaliwal/",
+    "https://www.gelee.ai/",
+    "https://note.com/note_ir/n/n4a9098319c3c",
+    "https://www.linkedin.com/in/elizabeth-cree-62bb55176",
+    "https://bcbusiness.ca/business/tech-science/anjali-dhaliwal-gelee-ai-linkedin-founder/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gelee AI X 投稿",
+   "results": [
+    "https://x.com/linkedingal",
+    "https://www.gelee.ai/",
+    "https://x.com/GeleebyNail/status/2111653843411022020",
+    "https://pinzuba.news/articles/-/17443",
+    "https://www.itmedia.co.jp/news/article/2608/18/2000000580/",
+    "https://note.com/munou_ac/n/n3489f9572885",
+    "https://ledge.ai/articles/ai_fake_political_persona_x"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式9頁／PDF・画像4件／外部31頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式9頁／PDF・画像4件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式9頁／PDF・画像4件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式9頁／PDF・画像4件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式9頁／PDF・画像4件／外部31頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式9頁／PDF・画像4件／外部31頁・検索12回）"
+ }
+}

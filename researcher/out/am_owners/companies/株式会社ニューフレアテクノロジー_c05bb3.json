@@ -1,0 +1,1188 @@
+{
+ "name": "株式会社ニューフレアテクノロジー",
+ "aliases": [],
+ "context": "PBF=yes 装置=EBM 出典=https://www.nuflare.co.jp/products/beam/",
+ "researched_at": "2026-11-10T17:10:44.365497+00:00",
+ "official_url": "https://www.nuflare.co.jp/",
+ "identified_by": "search:ddgs:bing:ニューフレアテクノロジー",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "創業年月日",
+    "value": "創業年月日：2002年8月1日",
+    "url": "https://www.nuflare.co.jp/corporate/about/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：2002年 8月1日",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%95%E3%83%AC%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "64億8,600万円",
+    "url": "https://www.nuflare.co.jp/corporate/about/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "64億8600万円",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%95%E3%83%AC%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "株主",
+    "value": "株式会社東芝（100%）",
+    "url": "https://www.nuflare.co.jp/corporate/about/",
+    "pass": 1
+   },
+   {
+    "label": "主要 株主",
+    "value": "株式会社東芝 100% （2024年10月現在）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%95%E3%83%AC%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "label": "出資先企業",
+    "value": "みずほ東芝リース 東芝ライフスタイル 東芝コンシューママーケティング 東芝エルイートレーディング 東芝電池 東芝ホームテクノ セコムトセック 旧・東芝セキュリティ TVS REGZA 旧・東芝メディア機器→旧・東芝映像ソリューション キオクシア 旧・東芝メモリ SBS東芝ロジスティクス 旧・東芝ロジスティクス 日本キヤリア 旧・東芝キヤリア",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%95%E3%83%AC%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "1,144名（2026年3月31日現在）",
+    "url": "https://www.nuflare.co.jp/corporate/about/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "907人 (2024年3月31日現在)",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%95%E3%83%AC%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社 所在地",
+    "value": "日本 〒 235-8522 横浜市 磯子区 新杉田町 8-1",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%95%E3%83%AC%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "半導体製造装置",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%95%E3%83%AC%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "1380億200万円 （2026年3月期） [ 1 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%95%E3%83%AC%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "「半導体・オブ・ザ・イヤー2026」半導体製造装置部門で優秀賞を受賞 ～ A14ノード世代に対応したマルチ電子ビームマスク描画装置MBM™-4000 ～",
+    "url": "https://www.nuflare.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社東芝から東芝機械株式会社へ、電子ビームマスク描画装置を中心とした半導体製造装置事業の技術移管が行われる",
+    "url": "https://www.nuflare.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビームマスク描画装置が日刊工業新聞社の「十大新製品賞」を受賞",
+    "url": "https://www.nuflare.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社東芝と共同開発したマスク検査装置の初号機「APC-130 R」が東芝で稼働",
+    "url": "https://www.nuflare.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社東芝総合研究所と共同でVariable Shaped Beam（可変成形ビーム）型初号機となる電子ビームマスク描画装置「EBM-130V」を完成",
+    "url": "https://www.nuflare.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社東芝との共同プロジェクトによりVariable Shaped Beam（可変成形ビーム）型電子ビームマスク描画装置「EBM-3000」を開発、製品化",
+    "url": "https://www.nuflare.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "回路線幅90nmに対応した電子ビームマスク描画装置「EBM-4000」を開発、製品化（ここまで、東芝機械株式会社半導体装置事業部）",
+    "url": "https://www.nuflare.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "電子回路線幅65nmに対応した「EBM-5000」を開発、製品化",
+    "url": "https://www.nuflare.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "EBM-6000PLUS (ダブルパターニング研究開発用)を開発、製品化",
+    "url": "https://www.nuflare.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "EBM-7000(hp32nm対応)の開発、商品化",
+    "url": "https://www.nuflare.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「 NT-5000(199) 」を元に、量産化した「NPI-6000」を開発、その初号機を検査装置BUとして初めて海外メーカーに販売し、海外展開の礎を築く",
+    "url": "https://www.nuflare.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "EBM-8000 (14nmTN,22nmhp対応)を開発、製品化",
+    "url": "https://www.nuflare.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "EBM-9000 (10nmTN対応)を開発、製品化",
+    "url": "https://www.nuflare.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "EBM-9500 (7nmTN対応)を開発、製品化",
+    "url": "https://www.nuflare.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "EBM-9500PLUS (5nm/7nm+ TN対応)を開発、製品化",
+    "url": "https://www.nuflare.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "EBM-8000P (14/16nm,20~45nmTN対応)を開発、製品化",
+    "url": "https://www.nuflare.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「半導体・オブ・ザ・イヤー2026」半導体製造装置部門で優秀賞を受賞 ～ A14ノード世代に対応したマルチ電子ビームマスク描画装置MBM™-4000 ～",
+    "url": "https://www.nuflare.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "NFT は、本会議に毎年参加しており、今年もマルチ電子ビームマスク描画装置に関する最",
+    "url": "https://www.nuflare.co.jp/wp-content/uploads/index/news_20260915_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "14A（A14）ノードの先端フォトマスク量産に対応するマルチ電子ビームマスク描画装置です",
+    "url": "https://semirai.com/semiconductor-equipment/products/nuflare-mbm-4000",
+    "pass": 3
+   },
+   {
+    "quote": "MBM-4000 は、ニューフレアテクノロジーのマルチ電子ビームマスク描画装置です",
+    "url": "https://semirai.com/semiconductor-equipment/products/nuflare-mbm-4000",
+    "pass": 3
+   },
+   {
+    "quote": "EBM-9500PLUS",
+    "url": "https://semirai.com/semiconductor-equipment/products/nuflare-mbm-4000",
+    "pass": 3
+   },
+   {
+    "quote": "EBM-8000P/H・EBM-8000P/M",
+    "url": "https://semirai.com/semiconductor-equipment/products/nuflare-mbm-4000",
+    "pass": 3
+   },
+   {
+    "quote": "可変成型電子ビーム描画（50kV 加速電圧）",
+    "url": "https://semirai.com/semiconductor-equipment/products/nuflare-mbm-4000",
+    "pass": 3
+   },
+   {
+    "quote": "可変成形ビーム（VSB）方式 電子ビーム描画",
+    "url": "https://semirai.com/semiconductor-equipment/products/nuflare-mbm-4000",
+    "pass": 3
+   },
+   {
+    "quote": "レーザーマスク描画（SLM 方式、355 nm DPSS レーザー）",
+    "url": "https://semirai.com/semiconductor-equipment/products/nuflare-mbm-4000",
+    "pass": 3
+   },
+   {
+    "quote": "半導体マスク（レチクル）製造用の電子ビーム（EB）描画装置の世界的大手",
+    "url": "https://semirai.com/semiconductor-equipment/products/nuflare-mbm-4000",
+    "pass": 3
+   },
+   {
+    "quote": "JBX-3200MVS（日本電子）",
+    "url": "https://semirai.com/semiconductor-equipment/products/nuflare-mbm-4000",
+    "pass": 3
+   },
+   {
+    "quote": "JBX-3050MV/S（日本電子）",
+    "url": "https://semirai.com/semiconductor-equipment/products/nuflare-mbm-4000",
+    "pass": 3
+   },
+   {
+    "quote": "EBM-9500PLUS（ニューフレアテクノロジー）",
+    "url": "https://semirai.com/semiconductor-equipment/products/nuflare-mbm-4000",
+    "pass": 3
+   },
+   {
+    "quote": "EBM-8000P/H・EBM-8000P/M（ニューフレアテクノロジー）",
+    "url": "https://semirai.com/semiconductor-equipment/products/nuflare-mbm-4000",
+    "pass": 3
+   },
+   {
+    "quote": "ニューフレアテクノロジー 電子ビームマスク描画装置 製品一覧",
+    "url": "https://semirai.com/semiconductor-equipment/products/nuflare-mbm-4000",
+    "pass": 3
+   },
+   {
+    "quote": "親会社が50%以上の株式を保有し、経営支配権を持つ会社です",
+    "url": "https://www.kabutore.biz/genzaikabuka/oyagaisya.html?code=6256",
+    "pass": 3
+   },
+   {
+    "quote": "親会社が20%以上50%未満の株式を保有し、経営に影響を及ぼすことができる会社です",
+    "url": "https://www.kabutore.biz/genzaikabuka/oyagaisya.html?code=6256",
+    "pass": 3
+   },
+   {
+    "quote": "各企業がある程度の株式を保有し、経営に共同で関与します",
+    "url": "https://www.kabutore.biz/genzaikabuka/oyagaisya.html?code=6256",
+    "pass": 3
+   },
+   {
+    "quote": "国内自動車メーカーNEWモデル市場導入戦略企画",
+    "url": "https://money.note.com/companies/6256",
+    "pass": 3
+   },
+   {
+    "quote": "└輸出管理システムの企画・要件定義・導入・運用支援を関連部門をまとめながら推進いただきます",
+    "url": "https://note.com/exportcontrol/n/n5de0b3f98e43",
+    "pass": 3
+   },
+   {
+    "quote": "世界的にトップシェアをもつ電子ビームマスク描画装置の品質維持・向上のために、信頼性改善向上推進と蓄積された異常情報を駆使した運用開発を行うことが当グループのミッションです",
+    "url": "https://note.com/exportcontrol/n/n5de0b3f98e43",
+    "pass": 3
+   },
+   {
+    "quote": "エレ・クィーンの電子ビーム応用講座【第11回】EBメーカーと日本勢の強さ 〜世界を支える“見えない主役たち”〜｜ミラクル・トミー",
+    "url": "https://note.com/tomiriki_2026/n/n2774b8864252",
+    "pass": 3
+   },
+   {
+    "quote": "エレ・クィーンの電子ビーム応用講座【第11回】EBメーカーと日本勢の強さ 〜世界を支える“見えない主役たち”〜",
+    "url": "https://note.com/tomiriki_2026/n/n2774b8864252",
+    "pass": 3
+   },
+   {
+    "quote": "電子ビームは、ただ観察するだけじゃない",
+    "url": "https://note.com/tomiriki_2026/n/n2774b8864252",
+    "pass": 3
+   },
+   {
+    "quote": "エレ・クィーンの半導体講座・電子ビーム応用講座に関するご質問、 授業・教材としての利用相談、フィードバックなどは以下からどうぞ",
+    "url": "https://note.com/tomiriki_2026/n/n2774b8864252",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "半導体製造装置を通じて、",
+    "url": "https://www.nuflare.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体産業と人類、社会に貢献し、",
+    "url": "https://www.nuflare.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「半導体・オブ・ザ・イヤー2026」半導体製造装置部門で優秀賞を受賞 ～ A14ノード世代に対応したマルチ電子ビームマスク描画装置MBM™-4000 ～",
+    "url": "https://www.nuflare.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置を通じて、",
+    "url": "https://www.nuflare.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体産業と人類、社会に貢献し、",
+    "url": "https://www.nuflare.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社東芝から東芝機械株式会社へ、電子ビームマスク描画装置を中心とした半導体製造装置事業の技術移管が行われる",
+    "url": "https://www.nuflare.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "回路線幅90nmに対応した電子ビームマスク描画装置「EBM-4000」を開発、製品化（ここまで、東芝機械株式会社半導体装置事業部）",
+    "url": "https://www.nuflare.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ニューフレアテクノロジーが東芝機械株式会社半導体装置事業部の事業を包括継承し、事業を開始",
+    "url": "https://www.nuflare.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「 NT-5000(199) 」を元に、量産化した「NPI-6000」を開発、その初号機を検査装置BUとして初めて海外メーカーに販売し、海外展開の礎を築く",
+    "url": "https://www.nuflare.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「半導体・オブ・ザ・イヤー2026」半導体製造装置部門で優秀賞を受賞 ～ A14ノード世代に対応したマルチ電子ビームマスク描画装置MBM™-4000 ～",
+    "url": "https://www.nuflare.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体露光関連技術の国際会議「SPIE Advanced Lithography + Patterning」に参加",
+    "url": "https://www.nuflare.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体分野に限らず微細加工技術、ナノ構造、各種関連デバイスも幅広く対象としてお",
+    "url": "https://www.nuflare.co.jp/wp-content/uploads/index/news_20261002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の半導体装置事業から2002年分社",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%95%E3%83%AC%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "（平成14年） - 東芝機械の半導体装置事業を分社型分割により承継",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%95%E3%83%AC%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "14A（A14）ノードの先端フォトマスク量産に対応するマルチ電子ビームマスク描画装置です",
+    "url": "https://semirai.com/semiconductor-equipment/products/nuflare-mbm-4000",
+    "pass": 3
+   },
+   {
+    "quote": "14A（オングストローム）ノード世代の先端フォトマスク量産に対応する機種として位置づけられており、同社のマルチビーム描画装置では MBM-3000（2 nm ノード対応）の後継にあたります",
+    "url": "https://semirai.com/semiconductor-equipment/products/nuflare-mbm-4000",
+    "pass": 3
+   },
+   {
+    "quote": "14A ノード世代の先端フォトマスク量産",
+    "url": "https://semirai.com/semiconductor-equipment/products/nuflare-mbm-4000",
+    "pass": 3
+   },
+   {
+    "quote": "半導体マスク（レチクル）製造用の電子ビーム（EB）描画装置の世界的大手",
+    "url": "https://semirai.com/semiconductor-equipment/products/nuflare-mbm-4000",
+    "pass": 3
+   },
+   {
+    "quote": "東芝デバイス＆ストレージの完全子会社（東芝グループ）で、東芝機械の半導体装置事業を2002年に分社して発足した",
+    "url": "https://semirai.com/semiconductor-equipment/products/nuflare-mbm-4000",
+    "pass": 3
+   },
+   {
+    "quote": "MBM-3000 は 2 nm ノード、MBM-4000 は 14A ノードのマスク量産に対応します",
+    "url": "https://semirai.com/semiconductor-equipment/products/nuflare-mbm-4000",
+    "pass": 3
+   },
+   {
+    "quote": "ディスクリート半導体、システムＬＳＩ、ＨＤＤ及び関連製品の開発・製造・販売事業及びその関連事業",
+    "url": "https://www.kabutore.biz/genzaikabuka/oyagaisya.html?code=6256",
+    "pass": 3
+   },
+   {
+    "quote": "国内自動車メーカーNEWモデル市場導入戦略企画",
+    "url": "https://money.note.com/companies/6256",
+    "pass": 3
+   },
+   {
+    "quote": "「超LSI共同研究所とその波及」に学ぶ 現在につながる日の丸半導体の歴史",
+    "url": "https://money.note.com/companies/6256",
+    "pass": 3
+   },
+   {
+    "quote": "半導体の周辺市場 ～原材料や製造装置の話～",
+    "url": "https://money.note.com/companies/6256",
+    "pass": 3
+   },
+   {
+    "quote": "[転職情報]株式会社ニューフレアテクノロジー 半導体製造装置の輸出管理(該非判定責任者)｜ExportControl",
+    "url": "https://note.com/exportcontrol/n/n5de0b3f98e43",
+    "pass": 3
+   },
+   {
+    "quote": "[転職情報]株式会社ニューフレアテクノロジー 半導体製造装置の輸出管理(該非判定責任者)",
+    "url": "https://note.com/exportcontrol/n/n5de0b3f98e43",
+    "pass": 3
+   },
+   {
+    "quote": "電子線描画装置（EB）は、半導体製造の根幹を支える装置です",
+    "url": "https://note.com/tomiriki_2026/n/n2774b8864252",
+    "pass": 3
+   },
+   {
+    "quote": "EUVリソグラフィがどれほど進化しても、 フォトマスクがなければ半導体は作れません",
+    "url": "https://note.com/tomiriki_2026/n/n2774b8864252",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造の裏側で、日本の技術が世界を支えている──",
+    "url": "https://note.com/tomiriki_2026/n/n2774b8864252",
+    "pass": 3
+   },
+   {
+    "quote": "微細な構造を持つセンサーやMEMSデバイスの試作に利用",
+    "url": "https://note.com/tomiriki_2026/n/n2774b8864252",
+    "pass": 3
+   },
+   {
+    "quote": "エレ・クィーンの半導体講座・電子ビーム応用講座に関するご質問、 授業・教材としての利用相談、フィードバックなどは以下からどうぞ",
+    "url": "https://note.com/tomiriki_2026/n/n2774b8864252",
+    "pass": 3
+   },
+   {
+    "quote": "エレ・クィーンの半導体講座：お問い合わせ・アンケートフォーム",
+    "url": "https://note.com/tomiriki_2026/n/n2774b8864252",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "ジャスダック証券取引所と大阪証券取引所の合併に伴い、大阪証券取引所JASDAQスタンダードに上場",
+    "url": "https://www.nuflare.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "東京証券取引所と大阪証券取引所の統合に伴い、東京証券取引所JASDAQスタンダードに上場",
+    "url": "https://www.nuflare.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "東京証券取引所JASDAQスタンダードを上場廃止",
+    "url": "https://www.nuflare.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "東芝デバイス＆ストレージ株式会社の100％子会社化",
+    "url": "https://www.nuflare.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "（平成29年） - 東芝に代わり東芝デバイス&ストレージが直接出資の親会社となる",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%95%E3%83%AC%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "4月1日 - 株式併合により、東芝デバイス&ストレージの完全子会社となる",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%95%E3%83%AC%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "東芝デバイス＆ストレージ株式会社による当社株式に対する公開買付けの結果並びにその他の関係会社及び主要株主の異動に関するお知らせ",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%95%E3%83%AC%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "2007年上場の企業",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%95%E3%83%AC%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "東芝デバイス＆ストレージの完全子会社（東芝グループ）で、東芝機械の半導体装置事業を2002年に分社して発足した",
+    "url": "https://semirai.com/semiconductor-equipment/products/nuflare-mbm-4000",
+    "pass": 3
+   },
+   {
+    "quote": "ニューフレアテクノロジー（6256）の親会社と関係会社について",
+    "url": "https://www.kabutore.biz/genzaikabuka/oyagaisya.html?code=6256",
+    "pass": 3
+   },
+   {
+    "quote": "１【提出会社の親会社等の情報】",
+    "url": "https://www.kabutore.biz/genzaikabuka/oyagaisya.html?code=6256",
+    "pass": 3
+   },
+   {
+    "quote": "ニューフレアテクノロジーの金融商品取引法第24条の７第１項に規定する親会社等は、東芝デバイス＆ストレージ株式会社であります",
+    "url": "https://www.kabutore.biz/genzaikabuka/oyagaisya.html?code=6256",
+    "pass": 3
+   },
+   {
+    "quote": "親会社が50%以上の株式を保有し、経営支配権を持つ会社です",
+    "url": "https://www.kabutore.biz/genzaikabuka/oyagaisya.html?code=6256",
+    "pass": 3
+   },
+   {
+    "quote": "親会社の意向に従い、経営が行われます",
+    "url": "https://www.kabutore.biz/genzaikabuka/oyagaisya.html?code=6256",
+    "pass": 3
+   },
+   {
+    "quote": "親会社が20%以上50%未満の株式を保有し、経営に影響を及ぼすことができる会社です",
+    "url": "https://www.kabutore.biz/genzaikabuka/oyagaisya.html?code=6256",
+    "pass": 3
+   },
+   {
+    "quote": "複数の企業が共同で出資して設立した会社です",
+    "url": "https://www.kabutore.biz/genzaikabuka/oyagaisya.html?code=6256",
+    "pass": 3
+   },
+   {
+    "quote": "関係会社は、親会社との連携を通じてシナジー効果を生み出し、事業の拡大や効率化を図ることが目的です",
+    "url": "https://www.kabutore.biz/genzaikabuka/oyagaisya.html?code=6256",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ニューフレアテクノロジー - Wikipedia — ニューフレアテクノロジー ... 株式会社ニューフレアテクノロジー （英: NuFlare Technology, Inc.）は、 神奈川県 横浜市 に本社を置く 東芝グループ の半導体製造装置専業メーカーである。",
+    "url": "https://ja.wikipedia.org/wiki/ニューフレアテクノロジー",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 企業情報 | 株式会社ニューフレアテクノロジー — Aug 1, 2002 · ニューフレアテクノロジーの企業情報。会社概要の情報を掲載しています。",
+    "url": "https://www.nuflare.co.jp/corporate/about/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ニューフレアテクノロジー — ニューフレアテクノロジーの公式サイト。 電子ビームマスク描画装置、エピタキシャル成長装置、マスク検査装置の3製品を中心とした半導体製造装置の開発、製造、販売を主たる事業として行っております。",
+    "url": "https://www.nuflare.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "(株)ニューフレアテクノロジーの会社概要 | マイナビ2028(株)ニューフレアテクノロジーの新卒採用・会社概要 | マイナビ2027株式会社ニューフレアテクノロジーの会社概要・求人情報・ニュース・...株式会社ニューフレアテクノロジー (神奈川県横浜市磯子区)の企業情報... — (株)ニューフレアテクノロジーの会社概要ページです。 マイナビ2028は、インターンシップ＆キャリア、前年の採用データ、エントリー情報を公開しており、自己分析や企業研究、皆さんの就職活動をサポートします。 Mar 24, 2026 · (株)ニューフレアテクノロジーの会社概要ページです。マイナビ2027は、(株)ニューフレアテクノロジーの採用情報や企業情報で、就職活動をサポートします。 Oct 27, 2026 · 株式会社ニューフレアテクノロジーの会社概要・法人情報。 求人情報、ニュース・PR、公式サイト由来",
+    "url": "https://job.mynavi.jp/28/pc/search/corp87537/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株)ニューフレアテクノロジーの新卒採用・会社概要 | マイナビ2027株式会社ニューフレアテクノロジーの会社概要・求人情報・ニュース・...株式会社ニューフレアテクノロジー (神奈川県横浜市磯子区)の企業情報... — Mar 24, 2026 · (株)ニューフレアテクノロジーの会社概要ページです。マイナビ2027は、(株)ニューフレアテクノロジーの採用情報や企業情報で、就職活動をサポートします。 Oct 27, 2026 · 株式会社ニューフレアテクノロジーの会社概要・法人情報。 求人情報、ニュース・PR、公式サイト由来データも確認できます。 所在地は神奈川県横浜市磯子区、正社員規模（推定）は約1,067名。 SalesNow DBで企業データを無料で確認。 本店所在地の地図 企業名フリガナ ニューフレアテクノロジー 上場区分 上場 法人区分 株式会社 設立年月日 1997年10月0",
+    "url": "https://job.mynavi.jp/27/pc/search/corp87537/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ニュース | 株式会社ニューフレアテクノロジー — Mar 17, 2026 · フォトマスク関連技術の国際会議「SPIE Photomask Technology + Extreme Ultraviolet Lithography」に参加 2026.08.24 Topics",
+    "url": "https://www.nuflare.co.jp/news/",
+    "pass": 3
+   },
+   {
+    "quote": "MBM-4000（ニューフレアテクノロジー）の特徴・仕様｜マスク描画装置... — 3 days ago · MBM-4000 は、ニューフレアテクノロジーのマルチ電子ビームマスク描画装置です。14A（オングストローム）ノード世代の先端フォトマスク量産に対応する機種として位置づけられており、同社のマルチビーム描画装置では MBM-3000（2…",
+    "url": "https://semirai.com/semiconductor-equipment/products/nuflare-mbm-4000",
+    "pass": 3
+   },
+   {
+    "quote": "ニューフレアテクノロジー | 半導体製造装置メーカー | Semirai — ASML・Applied Materials・TEL・Lam Research・KLAなど、 ニューフレアテクノロジー を含む主要メーカーの工程別シェアを図解で比較。",
+    "url": "https://semirai.com/companies/nuflare",
+    "pass": 3
+   },
+   {
+    "quote": "製品情報 | 株式会社ニューフレアテクノロジー — 最先端フォトマスクの欠陥の有無を高精度に検査するマスク検査装置",
+    "url": "https://www.nuflare.co.jp/products/",
+    "pass": 3
+   },
+   {
+    "quote": "ニューフレアテクノロジー（6256）の親会社と関係会社について — 1【提出会社の親会社等の情報】 ニューフレアテクノロジーの金融商品取引法第24条の7第1項に規定する親会社等は、東芝デバイス＆ストレージ株式会社であります。",
+    "url": "https://www.kabutore.biz/genzaikabuka/oyagaisya.html?code=6256",
+    "pass": 3
+   },
+   {
+    "quote": "ニューフレアテクノロジー（6256）の大株主一覧 | IRBANK — ニューフレアテクノロジー（6256）の大株主一覧 β版IRBANKでは、 大量保有・アクティビスト がさらに詳しく分かる新規登録の受付は残り 2 日 無料でβ版をはじめる 登録すると永久30%OFFと米株版の先行利用も付きます 【有報】 大株主の状況 大株主の保有推移",
+    "url": "https://irbank.net/E02119/holder",
+    "pass": 3
+   },
+   {
+    "quote": "データから価値を知る | 株式会社ニューフレアテクノロジー採用サイト — ニューフレアテクノロジーはチームで仕事を進めるので、多岐にわたる技術習得や経験のチャンスが豊富です。 1人ひとりの貢献度が高いため、成果がわかりやすいのも特徴です。 拠点が集約されており、 国内での勤務地異動はありません。",
+    "url": "https://www.nuflare.co.jp/recruit/about/data/",
+    "pass": 3
+   },
+   {
+    "quote": "(株)ニューフレアテクノロジーの会社概要 | マイナビ2028ニューフレアテクノロジーの業績・決算・財務｜売上高578億円・営業利...ニューフレアテクノロジー - Wikipedia(株)ニューフレアテクノロジーの会社概要 | マイナビ2027株式会社ニューフレアテクノロジーの企業情報・プレスリリース・特許... — (株)ニューフレアテクノロジーの会社概要ページです。 マイナビ2028は、インターンシップ＆キャリア、前年の採用データ、エントリー情報を公開しており、自己分析や企業研究、皆さんの就職活動をサポートします。 ニューフレアテクノロジー（6256）の売上高578億円、営業利益119億円。売上・営業利益・経常利益・ROE・自己資本比率の推移、中期経営計画、株主構成を有価証券報告書データで確認できます。 ニューフレアテクノロジー ... 株式会社ニューフレアテクノロジー （英: Nu",
+    "url": "https://job.mynavi.jp/28/pc/search/corp87537/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ニューフレアテクノロジーの業績・決算・財務｜売上高578億円・営業利... — ニューフレアテクノロジー（6256）の売上高578億円、営業利益119億円。売上・営業利益・経常利益・ROE・自己資本比率の推移、中期経営計画、株主構成を有価証券報告書データで確認できます。",
+    "url": "https://kigyobunseki.jp/companies/qhh7ic/performance/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "ニューフレアテクノロジー（6256）最新株価・配当情報と今後の見通し ... ニューフレアテクノロジー（6256）の最新株価、配当情報、業績動向を徹底解説！ 今後の見通しや投資のポイントを専門家視点でわかりやすく紹介。 初心者から上級者まで役立つnoteの記事が満載！",
+    "url": "https://money.note.com/companies/6256",
+    "pass": 3
+   },
+   {
+    "quote": "[転職情報]株式会社ニューフレアテクノロジー 半導体製造装置の輸出管... Mar 11, 2026 · ソース：株式会社ニューフレアテクノロジー 業務内容： 〇下記の業務を担当していただきます。 【入社後すぐにお任せする業務】 ・該非判定実施と判定結果の最適化 └当社の製品/技術情報が経済産業省が定めるリスト規制のどこに該当するのかの調査",
+    "url": "https://note.com/exportcontrol/n/n5de0b3f98e43",
+    "pass": 3
+   },
+   {
+    "quote": "エレ・クィーンの電子ビーム応用講座【第11回】EBメーカーと日本勢の... Jul 8, 2026 · 🏢 世界の主要EBメーカーと日本勢の強さ ニューフレアテクノロジー（Nuflare Technology） 東芝 → 東芝機械の流れを汲む、日本が誇るEBメーカー。 世界中のフォトマスクの大半がニューフレアの装置で描かれている と言っても過言ではありません。",
+    "url": "https://note.com/tomiriki_2026/n/n2774b8864252",
+    "pass": 3
+   },
+   {
+    "quote": "コーポレートガバナンスの最前線②｜こうき Jan 24, 2020 · 東芝、ニューフレアのTOBが成立−HOYAとの買収合戦制す東芝は17日、上場子会社のニューフレアテクノロジーに対する株式公開買い付け（TOB）が成立したと発表した。",
+    "url": "https://note.com/koki_note/n/n5e1533722b20",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "ニューフレアテクノロジー（6256）株価・今後の見通し・予想｜noteマネー",
+    "url": "https://money.note.com/companies/6256",
+    "pass": 3
+   },
+   {
+    "quote": "世界のEUVマスク欠陥検出装置メーカー動向：売上、販売量、価格推移分析2026-2032",
+    "url": "https://money.note.com/companies/6256",
+    "pass": 3
+   },
+   {
+    "quote": "マルチビーム電子線リソグラフィシステム市場規模、シェア、予測 – 2035年",
+    "url": "https://money.note.com/companies/6256",
+    "pass": 3
+   },
+   {
+    "quote": "国内自動車メーカーNEWモデル市場導入戦略企画",
+    "url": "https://money.note.com/companies/6256",
+    "pass": 3
+   },
+   {
+    "quote": "【最新予測】フォトリソグラフィ装置市場規模、2026年に40440百万米ドルへ｜年平均成長率9.1%で推移予測",
+    "url": "https://money.note.com/companies/6256",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年7月7日】DX銘柄・ABCI・制度輸出──制度×基盤が成長の“OS”になる時代",
+    "url": "https://money.note.com/companies/6256",
+    "pass": 3
+   },
+   {
+    "quote": "「超LSI共同研究所とその波及」に学ぶ 現在につながる日の丸半導体の歴史",
+    "url": "https://money.note.com/companies/6256",
+    "pass": 3
+   },
+   {
+    "quote": "「オールジャパン」の世界戦、55戦3勝──勝敗を分けたもの",
+    "url": "https://money.note.com/companies/6256",
+    "pass": 3
+   },
+   {
+    "quote": "[転職情報]株式会社ニューフレアテクノロジー 半導体製造装置の輸出管理(該非判定責任者)｜ExportControl",
+    "url": "https://note.com/exportcontrol/n/n5de0b3f98e43",
+    "pass": 3
+   },
+   {
+    "quote": "[転職情報]株式会社ニューフレアテクノロジー 半導体製造装置の輸出管理(該非判定責任者)",
+    "url": "https://note.com/exportcontrol/n/n5de0b3f98e43",
+    "pass": 3
+   },
+   {
+    "quote": "└当社の製品/技術情報が経済産業省が定めるリスト規制のどこに該当するのかの調査",
+    "url": "https://note.com/exportcontrol/n/n5de0b3f98e43",
+    "pass": 3
+   },
+   {
+    "quote": "・関連法令（外国為替及び外国貿易法、米国規制(EAR)等）改正時の該非の再判定",
+    "url": "https://note.com/exportcontrol/n/n5de0b3f98e43",
+    "pass": 3
+   },
+   {
+    "quote": "└当社製品の保守パーツ等の該非判定結果に変更がないかどうかを技術的に調査",
+    "url": "https://note.com/exportcontrol/n/n5de0b3f98e43",
+    "pass": 3
+   },
+   {
+    "quote": "・業務効率化に向けた新規該非判定方法や技術情報管理方法の開発",
+    "url": "https://note.com/exportcontrol/n/n5de0b3f98e43",
+    "pass": 3
+   },
+   {
+    "quote": "・輸出管理/出荷管理に係る実務と社内問合せ対応",
+    "url": "https://note.com/exportcontrol/n/n5de0b3f98e43",
+    "pass": 3
+   },
+   {
+    "quote": "└開発担当者、輸出管理部、営業、物流担当者といった当社のほとんどの部署との緊密なコミュニケーションが求められます。",
+    "url": "https://note.com/exportcontrol/n/n5de0b3f98e43",
+    "pass": 3
+   },
+   {
+    "quote": "エレ・クィーンの電子ビーム応用講座【第11回】EBメーカーと日本勢の強さ 〜世界を支える“見えない主役たち”〜｜ミラクル・トミー",
+    "url": "https://note.com/tomiriki_2026/n/n2774b8864252",
+    "pass": 3
+   },
+   {
+    "quote": "エレ・クィーンの電子ビーム応用講座【第11回】EBメーカーと日本勢の強さ 〜世界を支える“見えない主役たち”〜",
+    "url": "https://note.com/tomiriki_2026/n/n2774b8864252",
+    "pass": 3
+   },
+   {
+    "quote": "電子線描画装置（EB）は、半導体製造の根幹を支える装置です。 電子顕微鏡と同じく、この分野でも",
+    "url": "https://note.com/tomiriki_2026/n/n2774b8864252",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、主要EBメーカーの特徴と、日本勢がなぜ圧倒的に強いのかを紹介します。 そして最後に、EBが実際に使われているアプリケーション例もまとめます。",
+    "url": "https://note.com/tomiriki_2026/n/n2774b8864252",
+    "pass": 3
+   },
+   {
+    "quote": "● ニューフレアテクノロジー（Nuflare Technology）",
+    "url": "https://note.com/tomiriki_2026/n/n2774b8864252",
+    "pass": 3
+   },
+   {
+    "quote": "東芝 → 東芝機械の流れを汲む、日本が誇るEBメーカー。",
+    "url": "https://note.com/tomiriki_2026/n/n2774b8864252",
+    "pass": 3
+   },
+   {
+    "quote": "世界中のフォトマスクの大半がニューフレアの装置で描かれている",
+    "url": "https://note.com/tomiriki_2026/n/n2774b8864252",
+    "pass": 3
+   },
+   {
+    "quote": "VSB（可変成型ビーム）で世界トップシェア",
+    "url": "https://note.com/tomiriki_2026/n/n2774b8864252",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "官報決算データベース on X: \"株式会社ニューフレアテクノロジー 第31... 株式会社ニューフレアテクノロジー 第31期決算公告 神奈川県横浜市磯子区 東芝 (証券コード: 6502) の関連会社 売上高：1380億200万円 (前期比+77.05%) 純利益：268億5700万円 (前期比+153.34%) 総資産：1597億6600万円 (前期比+5.04%)",
+    "url": "https://x.com/kessan_db/status/2072268224646029741",
+    "pass": 3
+   },
+   {
+    "quote": "\"#ニューフレアテクノロジー\" - Results on X | Live Posts & Updates Results for \"#ニューフレアテクノロジー\" on X (Twitter). Find the latest posts, discussions, and updates about #ニューフレアテクノロジー. 20 results found.",
+    "url": "https://x.com/hashtag/ニューフレアテクノロジー",
+    "pass": 3
+   },
+   {
+    "quote": "ニューフレアテクノロジー 「半導体・オブ・ザ・イヤー2026」半導体製... 1p_semicon 15h ニューフレアテクノロジー 「半導体・オブ・ザ・イヤー2026」半導体製造装置部門で優秀賞を受賞 ～ A14 ノード世代に対応したマルチ電子ビームマスク描画装置 MBM™-4000 〜 nuflare.co.jp/wp-content/upl…",
+    "url": "https://x.com/1p_semicon/status/2064653512483733910",
+    "pass": 3
+   },
+   {
+    "quote": "ニューフレアテクノロジーのマルチ電子ビームマスクライターは今まで... ニューフレアテクノロジーのマルチ電子ビームマスクライターは今まで秘密のベールに包まれていましたが、2026年4月21～22日に東京で開催されるMEMS Engineer Forum（MEF）で同社から招待講演があります。 驚きの技術を知るチャンス。",
+    "url": "https://x.com/mems6934/status/2044031873161314470",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "（株）ニューフレアテクノロジー | LinkedIn （株）ニューフレアテクノロジー 機械製造業 横浜市 磯子区、神奈川県 30人のフォロワー 概要 ウェブサイト http://www.nuflare.co.jp （株）ニューフレアテクノロジーの外部リンク",
+    "url": "https://jp.linkedin.com/company/（株）ニューフレアテクノロジー",
+    "pass": 3
+   },
+   {
+    "quote": "齊藤 匡人 - 代表取締役社長 - 株式会社ニューフレアテクノロジー | L... 職歴: 株式会社ニューフレアテクノロジー · 場所: 東京都 · LinkedInのつながり1人。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで齊藤 匡人さんのプロフィールを閲覧しましょう。",
+    "url": "https://jp.linkedin.com/in/匡人-齊藤-93a2951a6",
+    "pass": 3
+   },
+   {
+    "quote": "袴田塁 - （株）ニューフレアテクノロジー - プロダクトサポートグル... （株）ニューフレアテクノロジー - プロダクトサポートグループ · Work experience at NuFlare Technology, Inc.; - Served as Field Service Engineer for EBM （Electron Beam ...",
+    "url": "https://www.linkedin.com/in/塁-袴田-417a9b217",
+    "pass": 3
+   },
+   {
+    "quote": "（株）ニューフレアテクノロジー hiring 【横浜】ソフトウェア開発設... 【企業名】株式会社ニューフレアテクノロジー【職種名】【横浜】ソフトウェア開発設計＆FAE PLC経験者歓迎／SiC関連の半導体製造装置開発/管理 ...",
+    "url": "https://www.linkedin.com/jobs/view/【横浜】ソフトウェア開発設計＆fae◆plc経験者歓迎／sic関連の半導体製造装置開発-管理職-at-（株）ニューフレアテクノロジー-4097316222",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ニューフレアテクノロジー - Facebook 株式会社ニューフレアテクノロジー（）は、神奈川県横浜市に本社を置く東芝グループの半導体製造装置専業メーカーである。 概要東芝機械の半導体装置事業から2002年分社、電子ビームマスク描画装置で世界シェア首位の半導体製造装置メーカー。",
+    "url": "https://www.facebook.com/profile.php/?id=198514123512756",
+    "pass": 3
+   },
+   {
+    "quote": "ニューフレアテクノロジー - Facebook Sep 29, 2013 · Facebook is showing information to help you better understand the purpose of a Page. See actions taken by the people who manage and post content.",
+    "url": "https://www.facebook.com/ニューフレアテクノロジー-597464913633716/",
+    "pass": 3
+   },
+   {
+    "quote": "Hidetaka Kikuchi (@hidetaka.kikuchi) • Facebook, Connect with ... 芝浦工業大学柏高等学校 · 芝浦工業大学 Lives in Yokohama Works at ニューフレアテクノロジー Worked at Intel K.K. Studied 工業経営学科 at 芝浦工業大学 Went to 芝浦工業大学柏高等学校",
+    "url": "https://www.facebook.com/hidetaka.kikuchi/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.nuflare.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nuflare.co.jp/corporate/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nuflare.co.jp/corporate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nuflare.co.jp/corporate/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nuflare.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.nuflare.co.jp/wp-content/uploads/index/news_20261002.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nuflare.co.jp/wp-content/uploads/index/news_20260915_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%95%E3%83%AC%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%95%E3%83%AC%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%95%E3%83%AC%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://semirai.com/semiconductor-equipment/products/nuflare-mbm-4000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%95%E3%83%AC%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kabutore.biz/genzaikabuka/oyagaisya.html?code=6256",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%95%E3%83%AC%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://money.note.com/companies/6256",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/exportcontrol/n/n5de0b3f98e43",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tomiriki_2026/n/n2774b8864252",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/koki_note/n/n5e1533722b20",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/kessan_db/status/2072268224646029741",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/ニューフレアテクノロジー",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/1p_semicon/status/2064653512483733910",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mems6934/status/2044031873161314470",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/（株）ニューフレアテクノロジー",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/匡人-齊藤-93a2951a6",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/塁-袴田-417a9b217",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/view/【横浜】ソフトウェア開発設計＆fae◆plc経験者歓迎／sic関連の半導体製造装置開発-管理職-at-（株）ニューフレアテクノロジー-4097316222",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/profile.php/?id=198514123512756",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ニューフレアテクノロジー-597464913633716/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hidetaka.kikuchi/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ニューフレアテクノロジー",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ニューフレアテクノロジー",
+    "https://www.nuflare.co.jp/",
+    "https://www.nuflare.co.jp/corporate/about/",
+    "https://job.mynavi.jp/28/pc/search/corp87537/outline.html",
+    "https://nuflare.snar.jp/index.aspx",
+    "https://eetimes.itmedia.co.jp/ee/articles/2608/24/news005.html",
+    "https://eetimes.itmedia.co.jp/ee/articles/2510/20/news003.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ニューフレアテクノロジー 会社概要 資本金 設立",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ニューフレアテクノロジー",
+    "https://www.nuflare.co.jp/corporate/about/",
+    "https://www.nuflare.co.jp/",
+    "https://job.mynavi.jp/28/pc/search/corp87537/outline.html",
+    "https://job.mynavi.jp/27/pc/search/corp87537/outline.html",
+    "https://salesnow.jp/db/companies/jcbwh74y6sjnu9vr",
+    "https://kaisharesearch.com/company/detail/5080101002461/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ニューフレアテクノロジー 金属3Dプリンタ 導入",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ニューフレアテクノロジー",
+    "https://www.nuflare.co.jp/",
+    "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "https://3d-modely.com/blog/3d-printer/3d-printer-metal/",
+    "https://www.nuflare.co.jp/news/",
+    "https://www.manufacturing-world.jp/hub/ja-jp/blog/article11.html",
+    "https://eetimes.itmedia.co.jp/ee/articles/2608/24/news005.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ニューフレアテクノロジー 金属積層造形 設備",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ニューフレアテクノロジー",
+    "https://www.nuflare.co.jp/",
+    "https://semirai.com/semiconductor-equipment/products/nuflare-mbm-4000",
+    "https://semirai.com/companies/nuflare",
+    "https://www.nuflare.co.jp/products/",
+    "https://portal2026.semiconjapan.org/exhibitors/exhibitor/326",
+    "https://eetimes.itmedia.co.jp/ee/articles/2510/20/news003.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ニューフレアテクノロジー 株主 出資 親会社",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ニューフレアテクノロジー",
+    "https://www.nuflare.co.jp/corporate/about/",
+    "https://www.kabutore.biz/genzaikabuka/oyagaisya.html?code=6256",
+    "https://www.nuflare.co.jp/",
+    "https://irbank.net/E02119/holder",
+    "https://j-lic.com/companies/6256/investees",
+    "https://www.kabutore.biz/genzaikabuka/okabunushi6256.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ニューフレアテクノロジー 売上高 従業員数",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ニューフレアテクノロジー",
+    "https://www.nuflare.co.jp/corporate/about/",
+    "https://www.nuflare.co.jp/recruit/about/data/",
+    "https://job.mynavi.jp/28/pc/search/corp87537/outline.html",
+    "https://kigyobunseki.jp/companies/qhh7ic/performance/",
+    "https://job.mynavi.jp/27/pc/search/corp87537/outline.html",
+    "https://kaijiwire.jp/companies/5080101002461"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com ニューフレアテクノロジー",
+   "results": [
+    "https://money.note.com/companies/6256",
+    "https://note.com/exportcontrol/n/n5de0b3f98e43",
+    "https://note.com/tomiriki_2026/n/n2774b8864252",
+    "https://note.com/koki_note/n/n5e1533722b20",
+    "https://note.com/oh_no/n/n92f8b0176fbe",
+    "https://note.com/safe_gibbon6757/n/n38e2c9b12b10",
+    "https://note.com/koki_note/n/n461d6dea16d1"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ニューフレアテクノロジー",
+   "results": [
+    "https://x.com/kessan_db/status/2072268224646029741",
+    "https://x.com/hashtag/ニューフレアテクノロジー",
+    "https://x.com/1p_semicon/status/2064653512483733910",
+    "https://x.com/mems6934/status/2044031873161314470",
+    "https://x.com/katudon_suki_/status/2087072786917556378",
+    "https://x.com/semicon_news/status/2064927416028729686",
+    "https://x.com/OpenMoney_JP/status/2059620642425614836"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com ニューフレアテクノロジー",
+   "results": [
+    "https://jp.linkedin.com/company/（株）ニューフレアテクノロジー",
+    "https://jp.linkedin.com/in/匡人-齊藤-93a2951a6",
+    "https://www.linkedin.com/in/塁-袴田-417a9b217",
+    "https://www.linkedin.com/jobs/view/【横浜】ソフトウェア開発設計＆fae◆plc経験者歓迎／sic関連の半導体製造装置開発-管理職-at-（株）ニューフレアテクノロジー-4097316222",
+    "https://jp.linkedin.com/in/匡人-齊藤-93a2951a6/en",
+    "https://jp.linkedin.com/in/hiroshi-matsumoto-8b4b782a9/ja",
+    "https://jp.linkedin.com/in/弘利-高橋-8b7902285"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com ニューフレアテクノロジー",
+   "results": [
+    "https://www.facebook.com/profile.php/?id=198514123512756",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/ニューフレアテクノロジー-597464913633716/",
+    "https://www.facebook.com/hidetaka.kikuchi/",
+    "https://www.facebook.com/kenichi.kataoka.982/",
+    "https://www.facebook.com/criepi/posts/受賞情報当所エネルギートランスフォーメーション研究本部-土田-秀一研究参事はデンソーニューフレアテクノロジーレゾナックとの共同研究開発の成果について第50回20/714686690830139/",
+    "https://www.facebook.com/nihonma/posts/maニュースhoya株式会社7741東芝グループのニューフレアテクノロジー6256をtobにより子会社化へ-nihonmahttpswwwnihon-macoj/2571572439730450/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ニューフレアテクノロジー note 社長",
+   "results": [
+    "https://www.nuflare.co.jp/corporate/about/",
+    "https://stocks.appmatch.jp/news-7295/",
+    "https://www.nikkei.com/article/DGXZQODZ00018_T10C26A2000000/",
+    "https://prtimes.jp/main/html/rd/p/000000012.000154737.html",
+    "https://jp.linkedin.com/in/匡人-齊藤-93a2951a6",
+    "https://nuflare.co.jp/wp-content/uploads/index/news_20260213_J.pdf",
+    "https://eetimes.itmedia.co.jp/ee/articles/2608/24/news005.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ニューフレアテクノロジー X 投稿",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ニューフレアテクノロジー",
+    "https://www.nuflare.co.jp/",
+    "https://nuflare.snar.jp/login.aspx",
+    "https://en-hyouban.com/company/10012221365/kuchikomi/",
+    "https://en-hyouban.com/company/10012221365/user_kuchikomi/4097275/",
+    "https://www.nuflare.co.jp/news/",
+    "https://prtimes.jp/main/html/rd/p/000000016.000154737.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "保有設備": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部23頁・検索12回）",
+  "使っている金属粉（材質）": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部23頁・検索12回）"
+ }
+}

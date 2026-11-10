@@ -1,0 +1,1169 @@
+{
+ "name": "室蘭工業大学",
+ "aliases": [],
+ "context": "PBF=yes 装置=パウダーベッド 出典=https://muroran-it.ac.jp/guidance/info/post-60821/",
+ "researched_at": "2026-11-10T17:19:23.176966+00:00",
+ "official_url": "https://muroran-it.ac.jp/",
+ "identified_by": "search:yahoo_jp:室蘭工業大学",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "国立大学法人室蘭工業大学は、「創造的な科学技術で夢をかたちに」をキャッチフレーズに、自然豊かなものづくりのまち室蘭の環境を活かし、総合的な理工学教育を行い、未来をひらく科学技術者を育てるとともに、人間・社会・自然との調和を考えた創造的な科学技術研究を展開し、地域社会さらには国際社会における知の拠点として豊かな社会の発展に貢献することを理念に掲げ、以下のような事業を行っています。 (１)　学生に対する、修学、進路選択及び心身の健康等に関する相談その他の援助 (２)　委託を受け又は共同で行う研究の実施 (３)　法人以外の者との連携による教育研究活動 (４)　公開講座の開設その他学生以外の者に対する学習の機会の提供 (５)　研究成果の普及及びその活用の促進 など",
+    "url": "https://tenshoku.mynavi.jp/company/322599/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：開学：1939年5月22日／大学設置：1949年5月",
+    "url": "https://tenshoku.mynavi.jp/company/322599/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "北海道室蘭市水元町27-1",
+    "url": "https://tenshoku.mynavi.jp/company/322599/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "366名（うち事務職員名）　（2024年5月1日現在）",
+    "url": "https://tenshoku.mynavi.jp/company/322599/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "用途・客の産業": [
+   {
+    "quote": "桃野理事・副学長が道民向けセミナー「次世代半導体とほっかいどうの未来 in 室蘭市」に登壇しました",
+    "url": "https://muroran-it.ac.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "HOKUSHIN-1衛星、フライトモデル開発完了 －JAXA J-CUBEプログラムの支援の下、2026年春以降に打ち上げ、宇宙実証へ－",
+    "url": "https://muroran-it.ac.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "｢宇宙・モビリティ｣ × ｢室蘭工業大学｣",
+    "url": "https://muroran-it.ac.jp/guidance/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "工学部の「電気工学科、工業化学科、開発工学科、土木工学科、機械工学科、金属工学科、化学工学科、産業機械工学科、建築工学科、電子工学科、応用物性学科、第2部機械工学科、第2部電気工学科」を「建設システム工学科、機械システム工学科、情報工学科、電気電子工学科、材料物性工学科、応用化学科」に、大学院工学研究科修士課程「電気工学専攻、工業化学専攻、開発工学専攻、土木工学専攻、機械工学専攻、金属工学専攻、化学工学専攻、産業機械工学専攻、建築工学専攻、電子工学専攻応用物性学専攻、エネルギー工学専攻」を博士前期課程「建設システム工学専攻、機械システム工学専攻、情報工学専攻、電気電子工学専攻、材料物性工学専攻、応用化学専攻」に改組した",
+    "url": "https://muroran-it.ac.jp/guidance/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "工学部の「建設システム工学科，機械システム工学科，情報工学科，電気電子工学科，材料物性工学科，応用化学科」を「建築社会基盤系学科，機械航空創造系学科，応用理化学系学科，情報電子工学系学科」に改組した",
+    "url": "https://muroran-it.ac.jp/guidance/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "大学院工学研究科博士後期課程の「建設工学専攻，生産情報システム工学専攻，物質工学専攻，創成機能科学専攻」を「建設環境工学専攻，生産情報システム工学専攻，航空宇宙システム工学専攻，物質工学専攻，創成機能工学専攻」に改組した",
+    "url": "https://muroran-it.ac.jp/guidance/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "大学院工学研究科博士前期課程の「建築社会基盤系専攻、公共システム工学専攻、機械創造工学系専攻、航空宇宙システム工学専攻、応用理化学系専攻,情報電子工学系専攻、数理システム工学専攻」を「環境創生 工学系専攻、生産システム工学系専攻、情報電子工学系専攻」に改組した",
+    "url": "https://muroran-it.ac.jp/guidance/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "大学院工学研究科博士後期課程の「建設環境工学専攻、生産情報システム工学専攻、航空宇宙システム工学専攻、物質工学専攻、創成機能工学専攻」を「工学専攻」に改組した",
+    "url": "https://muroran-it.ac.jp/guidance/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "工学部「建築社会基盤系学科、機械航空創造系学科,応用理化学系学科、情報電子工学系学科」を理工学部「創造工学科、システム理化学科」に改組した 全学共通教育センター及び情報メディア教育センターを理工学人材育成本部に改組し、同本部の下に理工学 基礎教育センター、情報教育センター、教育推進支援センターを設置した",
+    "url": "https://muroran-it.ac.jp/guidance/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "｢宇宙・モビリティ｣ × ｢室蘭工業大学｣",
+    "url": "https://muroran-it.ac.jp/guidance/about/",
+    "pass": 1
+   },
+   {
+    "quote": "｢宇宙・モビリティ｣ × ｢室蘭工業大学｣",
+    "url": "https://muroran-it.ac.jp/guidance/about/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "｢宇宙・モビリティ｣ × ｢室蘭工業大学｣",
+    "url": "https://muroran-it.ac.jp/guidance/about/corp_meetings/",
+    "pass": 1
+   },
+   {
+    "quote": "｢宇宙・モビリティ｣ × ｢室蘭工業大学｣",
+    "url": "https://muroran-it.ac.jp/guidance/about/jmc/",
+    "pass": 1
+   },
+   {
+    "quote": "｢宇宙・モビリティ｣ × ｢室蘭工業大学｣",
+    "url": "https://muroran-it.ac.jp/guidance/about/erc/",
+    "pass": 1
+   },
+   {
+    "quote": "｢宇宙・モビリティ｣ × ｢室蘭工業大学｣",
+    "url": "https://muroran-it.ac.jp/guidance/about/pem/",
+    "pass": 1
+   },
+   {
+    "quote": "｢宇宙・モビリティ｣ × ｢室蘭工業大学｣",
+    "url": "https://muroran-it.ac.jp/guidance/about/executives/",
+    "pass": 1
+   },
+   {
+    "quote": "｢宇宙・モビリティ｣ × ｢室蘭工業大学｣",
+    "url": "https://muroran-it.ac.jp/guidance/about/facilities/",
+    "pass": 1
+   },
+   {
+    "quote": "｢宇宙・モビリティ｣ × ｢室蘭工業大学｣",
+    "url": "https://muroran-it.ac.jp/guidance/about/access/",
+    "pass": 1
+   },
+   {
+    "quote": "｢宇宙・モビリティ｣ × ｢室蘭工業大学｣",
+    "url": "https://muroran-it.ac.jp/academic/research/cia/",
+    "pass": 1
+   },
+   {
+    "quote": "｢宇宙・モビリティ｣ × ｢室蘭工業大学｣",
+    "url": "https://muroran-it.ac.jp/research/info/",
+    "pass": 1
+   },
+   {
+    "quote": "回転デトネーションエンジンの世界初宇宙実証の成果をまとめた論文が 「AIAA A Century of Rocketry:100Papers Celebrating100Years」に選定されました",
+    "url": "https://muroran-it.ac.jp/research/info/",
+    "pass": 1
+   },
+   {
+    "quote": "｢宇宙・モビリティ｣ × ｢室蘭工業大学｣",
+    "url": "https://muroran-it.ac.jp/society/info/",
+    "pass": 1
+   },
+   {
+    "quote": "最近は、自動車部品の製造技術に関連する研究を北海道総合研究機構や民間企業と共同で数多く手掛けています",
+    "url": "https://u.muroran-it.ac.jp/robomech/mt_lab.html",
+    "pass": 3
+   },
+   {
+    "quote": "室蘭工業大学は、高度な工学研究や宇宙開発、地域課題の解決に取り組む国立大学です",
+    "url": "https://note.com/tag/%E5%AE%A4%E8%98%AD%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "室蘭工業大学は、高度な工学研究や宇宙開発、地域課題の解決に取り組む国立大学で…",
+    "url": "https://note.com/tag/%E5%AE%A4%E8%98%AD%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙開発は国から民間主導へ｜北海道スペースポートのあゆみ ー飛躍（2001年～2020年）ー",
+    "url": "https://note.com/tag/%E5%AE%A4%E8%98%AD%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "新規事業おじさんのつぶやき Vol.358 大学と宇宙スタートアップが手を組む理由",
+    "url": "https://note.com/tag/%E5%AE%A4%E8%98%AD%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "これは、室蘭工大が札幌圏に近い地理的要因や、後述する航空宇宙分野などの人気コースを擁していることが影響しています",
+    "url": "https://note.com/dapper_jaguar454/n/n5da7c6f9f1aa",
+    "pass": 3
+   },
+   {
+    "quote": "そして、2年次へと進むタイミングで「情報エレクトロニクス」「機械・エネルギー」「社会基盤・環境」「応用化学・生物」という4つのメインコースから自分の進む道を選択します",
+    "url": "https://note.com/dapper_jaguar454/n/n5da7c6f9f1aa",
+    "pass": 3
+   },
+   {
+    "quote": "さらに3年次には、より細分化された「データサイエンス」や「宇宙理学」といった専門ユニットを選択し、自分の興味をピンポイントで深めていくという、段階的なステップアップが可能です",
+    "url": "https://note.com/dapper_jaguar454/n/n5da7c6f9f1aa",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、オホーツク海に押し寄せる流氷の研究や、極寒の地での住宅建築技術、あるいは雪をエネルギーとして活用するシステムの開発などは、まさに北見という環境があるからこそ成立する研究です",
+    "url": "https://note.com/dapper_jaguar454/n/n5da7c6f9f1aa",
+    "pass": 3
+   },
+   {
+    "quote": "室蘭工業大学：伝統の重工業と未来の航空宇宙が融合する場",
+    "url": "https://note.com/dapper_jaguar454/n/n5da7c6f9f1aa",
+    "pass": 3
+   },
+   {
+    "quote": "室蘭工大の代名詞とも言えるのが「航空宇宙工学」です",
+    "url": "https://note.com/dapper_jaguar454/n/n5da7c6f9f1aa",
+    "pass": 3
+   },
+   {
+    "quote": "国立大学の中でも航空宇宙分野の研究環境がこれほど整っている大学は珍しく、学内には専用の研究センターが設置されています",
+    "url": "https://note.com/dapper_jaguar454/n/n5da7c6f9f1aa",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、小型ロケットの打ち上げ実験や、宇宙空間で耐えうる新材料の開発",
+    "url": "https://note.com/dapper_jaguar454/n/n5da7c6f9f1aa",
+    "pass": 3
+   },
+   {
+    "quote": "さらには次世代の航空機エンジンの研究などが行われており、全国から「宇宙に関わりたい」という熱意を持った学生が集まります",
+    "url": "https://note.com/dapper_jaguar454/n/n5da7c6f9f1aa",
+    "pass": 3
+   },
+   {
+    "quote": "特に最近では、北海道千歳市での次世代半導体拠点「Rapidus（ラピダス）」の建設に伴い、半導体製造に関連する精密工学や材料科学の分野が改めて注目を浴びています",
+    "url": "https://note.com/dapper_jaguar454/n/n5da7c6f9f1aa",
+    "pass": 3
+   },
+   {
+    "quote": "室蘭工大は、この大規模プロジェクトに呼応する形で、半導体関連の教育プログラムを強化しており、最先端産業の最前線へと学生を送り出す準備を整えています",
+    "url": "https://note.com/dapper_jaguar454/n/n5da7c6f9f1aa",
+    "pass": 3
+   },
+   {
+    "quote": "伝統的な重工業の知識と、航空宇宙や半導体といった未来の技術が同居するキャンパスは、エンジニアとしての確固たるアイデンティティを築くのに最適な場所と言えます",
+    "url": "https://note.com/dapper_jaguar454/n/n5da7c6f9f1aa",
+    "pass": 3
+   },
+   {
+    "quote": "室蘭工大の方がわずかに進学率が高い傾向にありますが、これは航空宇宙や新材料開発といった、より高度で長期的な研究を必要とする分野が伝統的に強いためです",
+    "url": "https://note.com/dapper_jaguar454/n/n5da7c6f9f1aa",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、北見工大も2026年の「先進工学科」への改組により、データサイエンスや宇宙理学といった専門ユニットを強化しており、今後はさらに進学を希望する学生が増えることが予想されます",
+    "url": "https://note.com/dapper_jaguar454/n/n5da7c6f9f1aa",
+    "pass": 3
+   },
+   {
+    "quote": "特に注目すべきは、建設・土木業界と自動車業界への圧倒的な強さです",
+    "url": "https://note.com/dapper_jaguar454/n/n5da7c6f9f1aa",
+    "pass": 3
+   },
+   {
+    "quote": "室蘭工業大学 航空宇宙総合工学コース 大学院入試を受けました 【体験談】｜パーカー / 大学院生",
+    "url": "https://note.com/paka_youtube/n/n5669d7de9c35",
+    "pass": 3
+   },
+   {
+    "quote": "室蘭工業大学 航空宇宙総合工学コース 大学院入試を受けました 【体験談】",
+    "url": "https://note.com/paka_youtube/n/n5669d7de9c35",
+    "pass": 3
+   },
+   {
+    "quote": "室蘭工業大学 生産システム工学系専攻 航空宇宙総合工学コース",
+    "url": "https://note.com/paka_youtube/n/n5669d7de9c35",
+    "pass": 3
+   },
+   {
+    "quote": "比熱関係の式や熱力学基礎式を用いた証明問題，第二法則周辺の説明問題，熱力学的サイクルの計算問題が頻出です．少しクセのある説明問題も出るので，過去問をよく調べておくことが重要です．勉強範囲は他科目に比べて広いので，熱力学をゼロから勉強する人にはお勧めしませんが，ある程度勉強すれば安定して得点することができるでしょう．航空宇宙工学ということで，ブレイトンサイクルが頻出ですが，その他サイクルも普通に出るので，決め打ちせず満遍なく勉強すると良いでしょう．",
+    "url": "https://note.com/paka_youtube/n/n5669d7de9c35",
+    "pass": 3
+   },
+   {
+    "quote": "ピトー管，ベンチュリ管の計算，等エントロピー流れの式導出，衝撃波関係の式導出が頻出です．数年前までは複素速度ポテンシャルも頻出でした．しかし，航空宇宙コースのカリキュラムが変わり，近年は圧縮性流体力学が良く出ています．半分は非圧縮性流体力学，もう半分は気体力学（圧縮性流体力学）という配分な気がします．気体力学は等エントロピ流れの式を用いた証明問題が多い印象です．微分形と積分形の両方を扱える必要があります．",
+    "url": "https://note.com/paka_youtube/n/n5669d7de9c35",
+    "pass": 3
+   },
+   {
+    "quote": "音速，連続の式，オイラーの運動方程式，運動量式 (ρu² + p = const)，エネルギー式 (CpT + u²/2 = const)，ランキンウゴニオの式，等エントロピー流れの関係式，衝撃波前後の関係式，斜め衝撃波，準一次元ノズル流れ",
+    "url": "https://note.com/paka_youtube/n/n5669d7de9c35",
+    "pass": 3
+   },
+   {
+    "quote": "kinetic energy(運動エネルギー)やfrequency(周波数) など科学系の英単語を覚えるのにも最適です",
+    "url": "https://note.com/paka_youtube/n/nf8c89d746233",
+    "pass": 3
+   },
+   {
+    "quote": "今年の航空宇宙工学コースは10人の編入生が入学したようです",
+    "url": "https://note.com/paka_youtube/n/nf8c89d746233",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事 業 報 告 書 - 室蘭工業大学 — 事 業 報 告 書 - 室蘭工業大学 国立大学法人 室蘭工業大学 PDF https://muroran-it.ac.jp > uploads > sites > 2025/09",
+    "url": "https://muroran-it.ac.jp/uploads/sites/2/2025/09/R6jigyohokokusyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "法人 情報 の公表(財務に関する 情報 ) - 室蘭工業大学 — 法人 情報 の公表(財務に関する 情報 ) - 室蘭工業大学 国立大学法人 室蘭工業大学 https://muroran-it.ac.jp > guidance > info_dis > fin_info",
+    "url": "https://muroran-it.ac.jp/guidance/info_dis/fin_info/",
+    "pass": 3
+   },
+   {
+    "quote": "大学案内 | 国立大学法人 室蘭工業大学 — 大学案内 | 国立大学法人 室蘭工業大学 国立大学法人 室蘭工業大学 https://muroran-it.ac.jp > guidance",
+    "url": "https://muroran-it.ac.jp/guidance/",
+    "pass": 3
+   },
+   {
+    "quote": "国立大学法人 室蘭工業大学 の平成20年度に係る業務の実績 ... — 国立大学法人 室蘭工業大学 の平成20年度に係る業務の実績 ... 文部科学省 https://www.mext.go.jp > a_menu > koutou > houjin",
+    "url": "https://www.mext.go.jp/a_menu/koutou/houjin/1289393.htm",
+    "pass": 3
+   },
+   {
+    "quote": "室蘭工業大学 生活協同組合｜法人番号 3430005010106 — 室蘭工業大学 生活協同組合｜法人番号 3430005010106 法律人 LawPlayer https://lawplayer.com > 日本法令検索 > 法人情報",
+    "url": "https://lawplayer.com/jp/company/3430005010106",
+    "pass": 3
+   },
+   {
+    "quote": "令和7年度 技術セミナー 『 金属3Dプリンタ が切り開く生産 ... — 令和7年度 技術セミナー 『 金属3Dプリンタ が切り開く生産 ... 国立大学法人 室蘭工業大学 https://muroran-it.ac.jp > guidance > info > post-60821",
+    "url": "https://muroran-it.ac.jp/guidance/info/post-60821/",
+    "pass": 3
+   },
+   {
+    "quote": "【 室蘭工業大学 ＆北海道機械工業会コラボによる高度技術 ... — 【 室蘭工業大学 ＆北海道機械工業会コラボによる高度技術 ... 公益財団法人室蘭テクノセンター https://www.murotech.or.jp > すべての投稿 > お知らせ",
+    "url": "https://www.murotech.or.jp/all-post/info/10882/",
+    "pass": 3
+   },
+   {
+    "quote": "女子中高生対象「 3Dプリンター でムロぴょんクリッカーを作 ... — 女子中高生対象「 3Dプリンター でムロぴょんクリッカーを作 ... 国立大学法人 室蘭工業大学 https://muroran-it.ac.jp > TOP > お知らせ一覧",
+    "url": "https://muroran-it.ac.jp/mirairikei/news/963/",
+    "pass": 3
+   },
+   {
+    "quote": "令和7年度 技術セミナー 『 金属 3Dプリンタが切り開く生産 ... — 令和7年度 技術セミナー 『 金属 3Dプリンタが切り開く生産 ... 国立大学法人 室蘭工業大学 https://muroran-it.ac.jp > guidance > info > post-60821",
+    "url": "https://muroran-it.ac.jp/guidance/info/post-60821/",
+    "pass": 3
+   },
+   {
+    "quote": "機械製作学研究室 - 室蘭工業大学 — 機械製作学研究室 - 室蘭工業大学 国立大学法人 室蘭工業大学 https://u.muroran-it.ac.jp > Top > 研究活動",
+    "url": "https://u.muroran-it.ac.jp/robomech/mt_lab.html",
+    "pass": 3
+   },
+   {
+    "quote": "法人情報の公表(財務に関する情報) - 室蘭工業大学 — 法人情報の公表(財務に関する情報) - 室蘭工業大学 国立大学法人 室蘭工業大学 https://muroran-it.ac.jp > guidance > info_dis > fin_info",
+    "url": "https://muroran-it.ac.jp/guidance/info_dis/fin_info/",
+    "pass": 3
+   },
+   {
+    "quote": "法人情報の公表(業務に関する情報) - 室蘭工業大学 — 法人情報の公表(業務に関する情報) - 室蘭工業大学 国立大学法人 室蘭工業大学 https://muroran-it.ac.jp > guidance > info_dis > work_info",
+    "url": "https://muroran-it.ac.jp/guidance/info_dis/work_info/",
+    "pass": 3
+   },
+   {
+    "quote": "室蘭工業大学 — 室蘭工業大学 niad.ac.jp PDF https://www.niad.ac.jp > 3_murorankougyoudaigaku",
+    "url": "https://www.niad.ac.jp/media/007/202103/3_murorankougyoudaigaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国立大学法人 室蘭工業大学 第4期中期目標・中期計画 — 国立大学法人 室蘭工業大学 第4期中期目標・中期計画 文部科学省 PDF https://www.mext.go.jp > content > 20240331-mxt_...",
+    "url": "https://www.mext.go.jp/content/20240331-mxt_hojinka-000035066_03.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国立大学法人 室蘭工業大学 の会社概要 - マイナビ転職 — 国立大学法人 室蘭工業大学 の会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company",
+    "url": "https://tenshoku.mynavi.jp/company/322599/",
+    "pass": 3
+   },
+   {
+    "quote": "国立大学法人 室蘭工業大学 — 国立大学法人 室蘭工業大学 国立大学法人 室蘭工業大学 https://muroran-it.ac.jp",
+    "url": "https://muroran-it.ac.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "令和7年度収支決算書を掲載しました - 室蘭工業大学 — 令和7年度収支決算書を掲載しました - 室蘭工業大学 国立大学法人 室蘭工業大学 https://muroran-it.ac.jp > donation > news > post-819",
+    "url": "https://muroran-it.ac.jp/donation/news/post-819/",
+    "pass": 3
+   },
+   {
+    "quote": "室蘭工業大学 - 北海道地区国立大学法人等職員採用試験 — 室蘭工業大学 - 北海道地区国立大学法人等職員採用試験 univ-staff.hokkaido.jp https://univ-staff.hokkaido.jp > about > muroran-it",
+    "url": "https://univ-staff.hokkaido.jp/about/national-universities/muroran-it/",
+    "pass": 3
+   },
+   {
+    "quote": "国立大学法人 室蘭工業大学 （北海道室蘭市）の企業情報 — 国立大学法人 室蘭工業大学 （北海道室蘭市）の企業情報 企業クリップ https://clip-corporation.com > ... > 企業詳細",
+    "url": "https://clip-corporation.com/company-matching/company-details/?corporate_number=4430005010204",
+    "pass": 3
+   }
+  ],
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "【セミナー】【6月22日（月）】生産性向上とロボット導入セミナー(終了しました)",
+    "url": "https://www.murotech.or.jp/all-post/info/10882/",
+    "pass": 3
+   },
+   {
+    "quote": "室蘭市 ロボット・IOT導入事例集を掲載しました",
+    "url": "https://www.murotech.or.jp/all-post/info/10882/",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年度「室蘭市ロボット・IoT導入促進補助金」公募開始のお知らせ（公募終了しました）",
+    "url": "https://www.murotech.or.jp/all-post/info/10882/",
+    "pass": 3
+   },
+   {
+    "quote": "室蘭工大は、材料工学や精密加工の分野で培ってきた高度な技術力を活かし、半導体製造に関連する教育プログラムをいち早く導入しました",
+    "url": "https://note.com/dapper_jaguar454/n/n5da7c6f9f1aa",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "室蘭工業大学 の人気・新着記事まとめ - note 室蘭工業大学 の人気・新着記事まとめ - note note https://note.com > tag > 室蘭工業大学",
+    "url": "https://note.com/tag/%E5%AE%A4%E8%98%AD%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "北見工業大学VS 室蘭工業大学 ならどちらを選ぶべき？徹底 ... 北見工業大学VS 室蘭工業大学 ならどちらを選ぶべき？徹底 ... note https://note.com > 教育・学び > 学び・受験",
+    "url": "https://note.com/dapper_jaguar454/n/n5da7c6f9f1aa",
+    "pass": 3
+   },
+   {
+    "quote": "室蘭工業大学 航空宇宙総合工学コース 大学院入試を受けまし ... 室蘭工業大学 航空宇宙総合工学コース 大学院入試を受けまし ... note https://note.com > 教育・学び > 大学教育",
+    "url": "https://note.com/paka_youtube/n/n5669d7de9c35",
+    "pass": 3
+   },
+   {
+    "quote": "移動のしやすさは生きがいを支える ～ 室蘭工業大学 の研究を ... 移動のしやすさは生きがいを支える ～ 室蘭工業大学 の研究を ... note https://note.com > 人物・社会 > コミュニティ活動",
+    "url": "https://note.com/cfhokkaido/n/n9d190f7e322d",
+    "pass": 3
+   },
+   {
+    "quote": "室蘭工業大学 編入体験記｜パーカー / 大学院生 - note 室蘭工業大学 編入体験記｜パーカー / 大学院生 - note note https://note.com > 教育・学び > 大学教育",
+    "url": "https://note.com/paka_youtube/n/nf8c89d746233",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "室蘭工業大学の人気・新着記事まとめ｜note",
+    "url": "https://note.com/tag/%E5%AE%A4%E8%98%AD%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "室蘭工業大学は、高度な工学研究や宇宙開発、地域課題の解決に取り組む国立大学です。",
+    "url": "https://note.com/tag/%E5%AE%A4%E8%98%AD%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "入試対策や研究成果、地域との連携活動に関する様々な記事が集まっています。",
+    "url": "https://note.com/tag/%E5%AE%A4%E8%98%AD%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "室蘭工業大学は、高度な工学研究や宇宙開発、地域課題の解決に取り組む国立大学で…",
+    "url": "https://note.com/tag/%E5%AE%A4%E8%98%AD%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "GOOD ACTION シェアリング2026 に参加します！",
+    "url": "https://note.com/tag/%E5%AE%A4%E8%98%AD%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "突然担当者になった人のために、各大学の事務DXを簡単にまとめた",
+    "url": "https://note.com/tag/%E5%AE%A4%E8%98%AD%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "室蘭工業大学 編入 機械｜3・6・9・12か月の期間別逆算プラン",
+    "url": "https://note.com/tag/%E5%AE%A4%E8%98%AD%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "オンライン編入予備校が送る【2026年度】編入の最新情報",
+    "url": "https://note.com/tag/%E5%AE%A4%E8%98%AD%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "北見工業大学VS室蘭工業大学ならどちらを選ぶべき？徹底比較ガイド｜プロ家庭教師nakumura",
+    "url": "https://note.com/dapper_jaguar454/n/n5da7c6f9f1aa",
+    "pass": 3
+   },
+   {
+    "quote": "北見工業大学VS室蘭工業大学ならどちらを選ぶべき？徹底比較ガイド",
+    "url": "https://note.com/dapper_jaguar454/n/n5da7c6f9f1aa",
+    "pass": 3
+   },
+   {
+    "quote": "北海道を代表する二つの国立工業大学、北見工業大学（以下、北見工大）と室蘭工業大学（以下、室蘭工大）。",
+    "url": "https://note.com/dapper_jaguar454/n/n5da7c6f9f1aa",
+    "pass": 3
+   },
+   {
+    "quote": "ともに「工学」に特化した単科大学であり、北海道内の受験生のみならず、全国から国立大学への進学を志す理系受験生にとって、併願や本命として常に比較の対象となる宿命のライバルです。",
+    "url": "https://note.com/dapper_jaguar454/n/n5da7c6f9f1aa",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月、北見工大が「先進工学科」への改組を行い、新たな教育体制をスタートさせたことで、両校の選択基準はさらに多様化しています。",
+    "url": "https://note.com/dapper_jaguar454/n/n5da7c6f9f1aa",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、2026年4月27日現在の最新データに基づき、入試難易度、研究内容、キャンパスライフ。",
+    "url": "https://note.com/dapper_jaguar454/n/n5da7c6f9f1aa",
+    "pass": 3
+   },
+   {
+    "quote": "そして将来の進路までを徹底的に比較し、あなたがどちらを選ぶべきかの指針を提示します。",
+    "url": "https://note.com/dapper_jaguar454/n/n5da7c6f9f1aa",
+    "pass": 3
+   },
+   {
+    "quote": "まず受験生が最も気になる「入りやすさ」と「難易度」について、河合塾の2026年度入試予想データを基に紐解いていきましょう。",
+    "url": "https://note.com/dapper_jaguar454/n/n5da7c6f9f1aa",
+    "pass": 3
+   },
+   {
+    "quote": "室蘭工業大学 航空宇宙総合工学コース 大学院入試を受けました 【体験談】｜パーカー / 大学院生",
+    "url": "https://note.com/paka_youtube/n/n5669d7de9c35",
+    "pass": 3
+   },
+   {
+    "quote": "室蘭工業大学 航空宇宙総合工学コース 大学院入試を受けました 【体験談】",
+    "url": "https://note.com/paka_youtube/n/n5669d7de9c35",
+    "pass": 3
+   },
+   {
+    "quote": "昨年，室蘭工業大学の大学院入試に合格したので，その備忘録です．",
+    "url": "https://note.com/paka_youtube/n/n5669d7de9c35",
+    "pass": 3
+   },
+   {
+    "quote": "室蘭工業大学の院試は，情報がほとんど出回っていないので，参考になれば幸いです．",
+    "url": "https://note.com/paka_youtube/n/n5669d7de9c35",
+    "pass": 3
+   },
+   {
+    "quote": "なるべく皆様の役立つような内容を心がけますが，当ブログによって被った損害・損失については一切の責任を負いかねますので，ご了承ください．",
+    "url": "https://note.com/paka_youtube/n/n5669d7de9c35",
+    "pass": 3
+   },
+   {
+    "quote": "室蘭工業大学 生産システム工学系専攻 航空宇宙総合工学コース",
+    "url": "https://note.com/paka_youtube/n/n5669d7de9c35",
+    "pass": 3
+   },
+   {
+    "quote": "TOEICスコアによる採点です．当日受験も可能ですが，事前提出をおすすめします．990点中，590点で満点なので，満点の人が多いです．私は大学3年時にTOEICの団体受験があったので，そのスコアを使いました．",
+    "url": "https://note.com/paka_youtube/n/n5669d7de9c35",
+    "pass": 3
+   },
+   {
+    "quote": "②専門科目 600点（数学，選択科目×2）",
+    "url": "https://note.com/paka_youtube/n/n5669d7de9c35",
+    "pass": 3
+   },
+   {
+    "quote": "移動のしやすさは生きがいを支える ～室蘭工業大学の研究を撮る①～｜チャレンジフィールド北海道",
+    "url": "https://note.com/cfhokkaido/n/n9d190f7e322d",
+    "pass": 3
+   },
+   {
+    "quote": "移動のしやすさは生きがいを支える ～室蘭工業大学の研究を撮る①～",
+    "url": "https://note.com/cfhokkaido/n/n9d190f7e322d",
+    "pass": 3
+   },
+   {
+    "quote": "チャレンジフィールド北海道は、産と学が連携を超えた「融合」をすることによって、北海道の課題解決に取り組むプロジェクトです。",
+    "url": "https://note.com/cfhokkaido/n/n9d190f7e322d",
+    "pass": 3
+   },
+   {
+    "quote": "今、チャレンジフィールド北海道では、道内の大学や国研が主導し、様々な社会課題解決のための「推進計画」が16件進行中です。",
+    "url": "https://note.com/cfhokkaido/n/n9d190f7e322d",
+    "pass": 3
+   },
+   {
+    "quote": "そのうちの1件が、室蘭工業大学の「地方都市圏のMaaS（Mobility as a Service）の社会実装」。",
+    "url": "https://note.com/cfhokkaido/n/n9d190f7e322d",
+    "pass": 3
+   },
+   {
+    "quote": "研究代表者は、室蘭工業大学の有村先生です。有村先生は、交通工学の観点から都市の最適化を研究されています。",
+    "url": "https://note.com/cfhokkaido/n/n9d190f7e322d",
+    "pass": 3
+   },
+   {
+    "quote": "かつて多くの人が住んでいた地域も、だんだんと高齢化が進むことで、必要とされる移動手段も変化します。多くの人が一斉に通勤・通学するのに便利だったバスも、もしかしたら通院や買い物に合った手段に変わっていく必要があるかもしれません。また高齢化は利用者のみならずドライバーもであり、人手不足が年々顕著になっていきます。",
+    "url": "https://note.com/cfhokkaido/n/n9d190f7e322d",
+    "pass": 3
+   },
+   {
+    "quote": "有村先生は、室蘭市・室蘭テクノセンター・パナソニックITS社・WILLER社とともに、さまざまなシミュレーションと実証実験から都市交通のあり方について研究し、移動から人々のウェルビーイングを支える取り組みをされています。",
+    "url": "https://note.com/cfhokkaido/n/n9d190f7e322d",
+    "pass": 3
+   },
+   {
+    "quote": "室蘭工業大学 編入体験記｜パーカー / 大学院生",
+    "url": "https://note.com/paka_youtube/n/nf8c89d746233",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは、パーカー（＠paka_youtube）です。",
+    "url": "https://note.com/paka_youtube/n/nf8c89d746233",
+    "pass": 3
+   },
+   {
+    "quote": "先日、室蘭工業大学の編入試験を受けました。室工大の編入に関する情報が全くなかったので使命感を感じnoteに書くことにしました。",
+    "url": "https://note.com/paka_youtube/n/nf8c89d746233",
+    "pass": 3
+   },
+   {
+    "quote": "今後の受験生の参考になれば幸いですが、あくまで僕の所感ですので自己責任でお願いします（←重要）",
+    "url": "https://note.com/paka_youtube/n/nf8c89d746233",
+    "pass": 3
+   },
+   {
+    "quote": "大学院選びをしていたところ、ホリエモンこと堀江貴文さんのYouTubeで室蘭工業大学がロケットの研究をしていることを発見。興味本位で調べていると「あれ？もしかして僕もいけるかも」と思いそこから申し込みました。",
+    "url": "https://note.com/paka_youtube/n/nf8c89d746233",
+    "pass": 3
+   },
+   {
+    "quote": "文法問題が10問程度と長文の和訳問題が出ます。辞書持ち込み可能ですが、科学英語に関する単語は覚えておきましょう。ゆっくり解きすぎると時間がなくなるので注意。",
+    "url": "https://note.com/paka_youtube/n/nf8c89d746233",
+    "pass": 3
+   },
+   {
+    "quote": "追記 : 英語の試験がTOEICに変更されたみたいです。詳しくは募集要項をご覧ください。",
+    "url": "https://note.com/paka_youtube/n/nf8c89d746233",
+    "pass": 3
+   },
+   {
+    "quote": "かなり簡単。特性方程式を解くだけの微分方程式や行列の対角化がよく出ています。満点が当たり前のパートだと思います。",
+    "url": "https://note.com/paka_youtube/n/nf8c89d746233",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "室蘭工業大学 | Muroran IT (@Muroran_IT) / X 室蘭工業大学 | Muroran IT (@Muroran_IT) / X X https://x.com > Muroran_IT",
+    "url": "https://x.com/Muroran_IT",
+    "pass": 3
+   },
+   {
+    "quote": "Highlights by 室蘭工業大学 | Muroran IT (@Muroran_IT) / X Highlights by 室蘭工業大学 | Muroran IT (@Muroran_IT) / X X https://x.com > Muroran_IT > highlights",
+    "url": "https://x.com/Muroran_IT/highlights",
+    "pass": 3
+   },
+   {
+    "quote": "# 室蘭工業大学 - Search / X # 室蘭工業大学 - Search / X X https://x.com > Search",
+    "url": "https://x.com/hashtag/%E5%AE%A4%E8%98%AD%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "Muroran IT on X: \"／ ‍  # 室蘭工業大学 人物図鑑 part.73 Muroran IT on X: \"／ ‍  # 室蘭工業大学 人物図鑑 part.73 X https://x.com > @Muroran_IT",
+    "url": "https://x.com/Muroran_IT/status/2107007257720549514",
+    "pass": 3
+   },
+   {
+    "quote": "室蘭工業大学 附属図書館 (@MuroranIT_lib) / X 室蘭工業大学 附属図書館 (@MuroranIT_lib) / X X https://x.com > MuroranIT_lib",
+    "url": "https://x.com/MuroranIT_lib",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "室蘭工業大学 - LinkedIn 室蘭工業大学 - LinkedIn LinkedIn Chile https://cl.linkedin.com > edu > muroran-institute-of-techn...",
+    "url": "https://cl.linkedin.com/edu/muroran-institute-of-technology-14188",
+    "pass": 3
+   },
+   {
+    "quote": "室蘭工業大学 - LinkedIn 室蘭工業大学 - LinkedIn LinkedIn https://jp.linkedin.com > school > 室蘭工業大学",
+    "url": "https://jp.linkedin.com/school/%E5%AE%A4%E8%98%AD%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "室蘭工業大学 : 同窓生および卒業生 - LinkedIn 室蘭工業大学 : 同窓生および卒業生 - LinkedIn LinkedIn https://jp.linkedin.com > school > 室蘭工業大学 > people",
+    "url": "https://jp.linkedin.com/school/%E5%AE%A4%E8%98%AD%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6/people",
+    "pass": 3
+   },
+   {
+    "quote": "Yuta Izumi - 室蘭工業大学 - LinkedIn Yuta Izumi - 室蘭工業大学 - LinkedIn LinkedIn https://www.linkedin.com > ...",
+    "url": "https://www.linkedin.com/in/yuta-izumi-95260416b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "室蘭工業大学 | Muroran-shi Hokkaido - Facebook 室蘭工業大学 | Muroran-shi Hokkaido - Facebook Facebook https://www.facebook.com > ... > College & university",
+    "url": "https://www.facebook.com/muroranit/",
+    "pass": 3
+   },
+   {
+    "quote": "室蘭工業大学 ・構造力学研究室 | Muroran-shi Hokkaido 室蘭工業大学 ・構造力学研究室 | Muroran-shi Hokkaido Facebook https://www.facebook.com > ... > Education > School",
+    "url": "https://www.facebook.com/struct.lab.muroranIT/",
+    "pass": 3
+   },
+   {
+    "quote": "室蘭工業大学 同窓会 関東蘭岳会 (@kantourangaku) - Facebook 室蘭工業大学 同窓会 関東蘭岳会 (@kantourangaku) - Facebook Facebook https://www.facebook.com > kantourangaku",
+    "url": "https://www.facebook.com/kantourangaku/?locale=ja_JP",
+    "pass": 3
+   },
+   {
+    "quote": "室蘭工業大学 ランドスケープ研究室 (@muroran.it.landscapelab) 室蘭工業大学 ランドスケープ研究室 (@muroran.it.landscapelab) Facebook https://www.facebook.com > ... > Businesses > Education",
+    "url": "https://www.facebook.com/muroran.it.landscapelab/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://muroran-it.ac.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://muroran-it.ac.jp/guidance/about/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://muroran-it.ac.jp/guidance/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://muroran-it.ac.jp/guidance/about/organization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://muroran-it.ac.jp/guidance/about/corp_meetings/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://muroran-it.ac.jp/guidance/about/jmc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://muroran-it.ac.jp/guidance/about/erc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://muroran-it.ac.jp/guidance/about/pem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://muroran-it.ac.jp/guidance/about/executives/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://muroran-it.ac.jp/guidance/about/facilities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://muroran-it.ac.jp/guidance/about/access/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://muroran-it.ac.jp/academic/research/cia/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://muroran-it.ac.jp/research/info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://muroran-it.ac.jp/society/info/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://muroran-it.ac.jp/uploads/sites/2/2025/08/bnr_outline_pdf.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.murotech.or.jp/all-post/info/10882/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://u.muroran-it.ac.jp/robomech/mt_lab.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fitc.pref.fukuoka.jp/facility/setsubi/dep-list/meri/kinzoku-sekisou-zoukei.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/company/322599/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E5%AE%A4%E8%98%AD%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/dapper_jaguar454/n/n5da7c6f9f1aa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/paka_youtube/n/n5669d7de9c35",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/cfhokkaido/n/n9d190f7e322d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Muroran_IT",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Muroran_IT/highlights",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/%E5%AE%A4%E8%98%AD%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Muroran_IT/status/2107007257720549514",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cl.linkedin.com/edu/muroran-institute-of-technology-14188",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/school/%E5%AE%A4%E8%98%AD%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/school/%E5%AE%A4%E8%98%AD%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6/people",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/yuta-izumi-95260416b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/muroranit/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/struct.lab.muroranIT/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/kantourangaku/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/muroran.it.landscapelab/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/paka_youtube/n/nf8c89d746233",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E5%AE%A4%E8%98%AD%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Muroran_IT",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MuroranIT_lib",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "室蘭工業大学",
+   "results": [
+    "https://muroran-it.ac.jp/",
+    "https://ja.wikipedia.org/wiki/%E5%AE%A4%E8%98%AD%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "https://www.instagram.com/muroran_it/",
+    "https://passnavi.obunsha.co.jp/univ/0030/top/",
+    "https://x.com/Muroran_IT",
+    "https://www.youtube.com/channel/UCul_dMAWZkc0Nxs0DgawDLw",
+    "https://grokipedia.com/page/Muroran_Institute_of_Technology",
+    "https://ja.wikipedia.org/wiki/室蘭工業大学",
+    "https://www.minkou.jp/university/school/20007/",
+    "https://muroran-it.ac.jp/entrance/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "室蘭工業大学 会社概要 資本金 設立",
+   "results": [
+    "https://muroran-it.ac.jp/uploads/sites/2/2025/09/R6jigyohokokusyo.pdf",
+    "https://muroran-it.ac.jp/guidance/info_dis/fin_info/",
+    "https://muroran-it.ac.jp/guidance/",
+    "https://www.mext.go.jp/a_menu/koutou/houjin/1289393.htm",
+    "https://lawplayer.com/jp/company/3430005010106",
+    "https://ja.wikipedia.org/wiki/%E5%AE%A4%E8%98%AD%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "https://muroran-it.ac.jp/guidance/info/post-44895/",
+    "https://salesnow.jp/db/companies/jcb8ke1u5b2ef3y9",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4430005010204",
+    "https://ja.wikipedia.org/wiki/室蘭工業大学"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "室蘭工業大学 金属3Dプリンタ 導入",
+   "results": [
+    "https://muroran-it.ac.jp/guidance/info/post-60821/",
+    "https://www.murotech.or.jp/all-post/info/10882/",
+    "https://muroran-it.ac.jp/mirairikei/news/963/",
+    "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/the-future-of-metal-3d-printing",
+    "https://www.youtube.com/watch?v=Ew517KG1bOI",
+    "https://kk-ariga.co.jp/metal_3d_printer/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B/",
+    "https://news.sharelab.jp/category/3dp-news/metal-3dprinter/",
+    "https://www.marubeni-idigio.com/insight-hub/metal3dprinter_desktopmetal_case/",
+    "https://jfs.or.jp/hokkaido/wp-content/uploads/2025/06/%E9%87%91%E5%B1%9E%EF%BC%93D%E3%83%95%E3%82%9A%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%8B%E3%82%99%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93%E3%81%AE%E6%9C%AA%E6%9D%A5.pdf",
+    "https://jfs.or.jp/hokkaido/2025/10/23/koudoka20250718/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "室蘭工業大学 金属積層造形 設備",
+   "results": [
+    "https://muroran-it.ac.jp/guidance/info/post-60821/",
+    "https://u.muroran-it.ac.jp/robomech/mt_lab.html",
+    "https://www.fitc.pref.fukuoka.jp/facility/setsubi/dep-list/meri/kinzoku-sekisou-zoukei.php",
+    "https://jampt.jp/equipment/",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-sankoushiryousyu.pdf",
+    "https://www.gitc.pref.nagano.lg.jp/zairyo/3Ddigital/setsubi/1_3Dprinter.html",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "http://www.amada-f.or.jp/r_report2/kkr/31/AF-2015203.pdf",
+    "https://www.kinzoku.co.jp/media/special-feature",
+    "https://mitsu-ri.net/articles/metal-laminated-modeling"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "室蘭工業大学 株主 出資 親会社",
+   "results": [
+    "https://muroran-it.ac.jp/guidance/info_dis/fin_info/",
+    "https://muroran-it.ac.jp/guidance/info_dis/work_info/",
+    "https://muroran-it.ac.jp/uploads/sites/2/2025/09/R6jigyohokokusyo.pdf",
+    "https://www.niad.ac.jp/media/007/202103/3_murorankougyoudaigaku.pdf",
+    "https://www.mext.go.jp/content/20240331-mxt_hojinka-000035066_03.pdf",
+    "https://muroran-it.ac.jp/guidance/about/jmc/",
+    "https://www.awi.co.jp/ja/news/release/news4054037900335083844.html",
+    "https://www.nikkei.com/article/DGKKZO75416720Z11C23A0L41000/",
+    "https://ja.wikipedia.org/wiki/%E5%AE%A4%E8%98%AD%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "https://ja.wikipedia.org/wiki/室蘭工業大学"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "室蘭工業大学 売上高 従業員数",
+   "results": [
+    "https://tenshoku.mynavi.jp/company/322599/",
+    "https://muroran-it.ac.jp/",
+    "https://muroran-it.ac.jp/donation/news/post-819/",
+    "https://univ-staff.hokkaido.jp/about/national-universities/muroran-it/",
+    "https://clip-corporation.com/company-matching/company-details/?corporate_number=4430005010204",
+    "https://www.mext.go.jp/a_menu/koutou/houjin/1289393.htm",
+    "https://www.jsw.co.jp/ja/news/details/20190911000000.html",
+    "https://ja.wikipedia.org/wiki/%E5%AE%A4%E8%98%AD%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "https://muroran-it.ac.jp/guidance/about/executives/no_ex/",
+    "https://ja.wikipedia.org/wiki/室蘭工業大学"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 室蘭工業大学",
+   "results": [
+    "https://note.com/tag/%E5%AE%A4%E8%98%AD%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "https://note.com/dapper_jaguar454/n/n5da7c6f9f1aa",
+    "https://note.com/paka_youtube/n/n5669d7de9c35",
+    "https://note.com/cfhokkaido/n/n9d190f7e322d",
+    "https://note.com/online_hennyu/n/n392371bba38b",
+    "https://note.com/paka_youtube/n/nf8c89d746233",
+    "https://note.com/paka_youtube/n/nf93056041978",
+    "https://note.com/rtutptmt/n/n005531e070f2",
+    "https://note.com/bitter_pluv77/n/n88f982d8ca99",
+    "https://note.com/tag/室蘭工業大学"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:x.com 室蘭工業大学",
+   "results": [
+    "https://x.com/Muroran_IT",
+    "https://x.com/Muroran_IT/highlights",
+    "https://x.com/hashtag/%E5%AE%A4%E8%98%AD%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "https://x.com/Muroran_IT/status/2107007257720549514",
+    "https://x.com/Muroran_IT/status/2078031633857630562",
+    "https://x.com/MuroranIT_lib",
+    "https://x.com/Cafeteria_mit",
+    "https://x.com/Muroran_IT/status/2013439833876639863",
+    "https://x.com/Muroran_IT/status/2105801212130164921",
+    "https://x.com/muroran_it"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com 室蘭工業大学",
+   "results": [
+    "https://cl.linkedin.com/edu/muroran-institute-of-technology-14188",
+    "https://jp.linkedin.com/school/%E5%AE%A4%E8%98%AD%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6/",
+    "https://jp.linkedin.com/school/%E5%AE%A4%E8%98%AD%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6/people",
+    "https://www.linkedin.com/in/yuta-izumi-95260416b",
+    "https://jp.linkedin.com/in/genki-suzuki-1a7139139",
+    "https://jp.linkedin.com/in/hideki-yoshida-aa074b68",
+    "https://www.linkedin.com/school/%E5%AE%A4%E8%98%AD%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6/",
+    "https://jp.linkedin.com/in/%E7%A5%90%E5%A4%A7-%E5%8D%83%E8%91%89-66945568",
+    "https://jp.linkedin.com/in/%E5%81%A5%E5%90%BE-%E5%B2%B8%E6%9C%AC-9679b3184",
+    "https://jp.linkedin.com/school/室蘭工業大学/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com 室蘭工業大学",
+   "results": [
+    "https://www.facebook.com/muroranit/",
+    "https://www.facebook.com/struct.lab.muroranIT/",
+    "https://www.facebook.com/kantourangaku/?locale=ja_JP",
+    "https://www.facebook.com/muroran.it.landscapelab/",
+    "https://www.facebook.com/FELMuroran/",
+    "https://www.facebook.com/mit.riverlab/",
+    "https://www.facebook.com/MuroranIT.kohari/",
+    "https://www.facebook.com/SARD.Dream/",
+    "https://www.facebook.com/pages/%E5%AE%A4%E8%98%AD%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2/2059571444290519",
+    "https://www.facebook.com/p/室蘭工業大学自動車部-100072128824631/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "室蘭工業大学 note 社長",
+   "results": [
+    "https://note.com/paka_youtube/n/nf8c89d746233",
+    "https://note.com/tag/%E5%AE%A4%E8%98%AD%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+    "https://note.com/paka_youtube/n/nf93056041978",
+    "https://note.com/dtpro/n/nf8f0ff870540",
+    "https://muroran-it.ac.jp/guidance/info/post-54029/",
+    "https://note.com/dtpro/n/n98e8acefc6b1",
+    "https://muroran-it.ac.jp/en/entrance/info/page/55/",
+    "https://muroran-it.ac.jp/guidance/about/jmc/",
+    "https://ja.wikipedia.org/wiki/室蘭工業大学の人物一覧",
+    "https://muroran-it.ac.jp/guidance/president/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "室蘭工業大学 X 投稿",
+   "results": [
+    "https://x.com/Muroran_IT",
+    "https://u.muroran-it.ac.jp/kidorui/e-program/access-contact.html",
+    "https://muroran-it.ac.jp/info/post-3353/",
+    "https://x.com/MuroranIT_lib",
+    "https://muroran-it.ac.jp/yell2024/",
+    "https://www.instagram.com/muroran_it/",
+    "https://muroran-it.ac.jp/",
+    "https://www.city.muroran.lg.jp/administration/?content=2123",
+    "https://x.com/muroran_it",
+    "https://x.com/muroranbungei"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "資本金": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部24頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部24頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部24頁・検索12回）",
+  "使っている金属粉（材質）": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部24頁・検索12回）",
+  "資本金・株主": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部24頁・検索12回）"
+ }
+}

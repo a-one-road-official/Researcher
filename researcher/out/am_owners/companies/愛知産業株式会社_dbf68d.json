@@ -1,0 +1,1312 @@
+{
+ "name": "愛知産業株式会社",
+ "aliases": [],
+ "context": "PBF=yes 装置=L-PBF;Nikon SLM;PBF;SLM 125;SLM 280;SLM125;SLM280;SLM500;ニコンSLM 出典=https://as-ambusiness.com/case/",
+ "researched_at": "2026-11-10T17:00:26.613783+00:00",
+ "official_url": "https://www.aichi-sangyo.co.jp/",
+ "identified_by": "search:yahoo_jp:愛知産業",
+ "profile": {
+  "所在地": [
+   {
+    "label": "住所",
+    "value": "140-0011　東京都品川区東大井2-6-8AS東大井ビル",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=1645",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "〒140-0011 東京都品川区東大井2-6-8",
+    "url": "https://www.jamsec.jp/member-search/443.php",
+    "pass": 3
+   },
+   {
+    "label": "本社郵便番号",
+    "value": "140-0011",
+    "url": "https://www.onecareer.jp/companies/97693",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都品川区東大井2-6-8",
+    "url": "https://www.onecareer.jp/companies/97693",
+    "pass": 3
+   },
+   {
+    "label": "本社電話番号",
+    "value": "03-6800-2050",
+    "url": "https://www.onecareer.jp/companies/97693",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都",
+    "url": "https://www.onecareer.jp/companies/97693",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設　立",
+    "value": "設　立：1937年",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=1645",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1937年",
+    "url": "https://www.jamsec.jp/member-search/443.php",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1927年　創業",
+    "url": "https://www.onecareer.jp/companies/97693",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "86百万円",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=1645",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "86百万円",
+    "url": "https://www.jamsec.jp/member-search/443.php",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "8,600万円",
+    "url": "https://www.onecareer.jp/companies/97693",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "年　商",
+    "value": "71億円(2025年9月期)",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=1645",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "5595百万円",
+    "url": "https://www.jamsec.jp/member-search/443.php",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "71億円",
+    "url": "https://www.onecareer.jp/companies/97693",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "150名",
+    "url": "https://www.jamsec.jp/member-search/443.php",
+    "pass": 3
+   },
+   {
+    "label": "内メンテナンス従業員数",
+    "value": "4名",
+    "url": "https://www.jamsec.jp/member-search/443.php",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "155人",
+    "url": "https://www.onecareer.jp/companies/97693",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業概要",
+    "value": "溶接技術、冶金技術、工作機械関連製品を中心に、世界の最先端技術を輸入し自社製品を開発、設計、製造、販売。 自動車・造船・原子力産業などの大手メーカーに技術提供を行い、日本のものづくり産業を支えるエンジニアリング商社です。",
+    "url": "https://www.onecareer.jp/companies/97693",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "金属3Dプリンター、溶接機、切断機、産業機械の販売｜愛知産業株式会社",
+    "url": "https://www.aichi-sangyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンター、MIG/MAG 溶接機、５軸 輸入販売",
+    "url": "https://www.aichi-sangyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ニコンSLMソリューションズ・金属3Dプリンタ",
+    "url": "https://www.aichi-sangyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "LPWテクノロジー金属積層造形用高品位パウダー",
+    "url": "https://www.aichi-sangyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "英国WAAM3D社製RoboWAAM Advance導入とアーク造形サービスの開始",
+    "url": "https://www.aichi-sangyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ロボット導入に関するマッチングサイト「ロボカル」に、当社愛知産業の情報が掲載されました",
+    "url": "https://www.aichi-sangyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "モールドジェット方式の金属積層造形機メーカーであるイスラエル トライトンテクノロジー社との総代理店契約を締結いたしました",
+    "url": "https://www.aichi-sangyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ハームレ社 ５軸マシニングセンタ、ラング社 クランプシステム、SLMソリューションズ社 金属3Dプリンタ",
+    "url": "https://www.aichi-sangyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "全社員を対象として通年のノーネクタイ勤務制を導入します",
+    "url": "https://www.aichi-sangyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "５軸を使い倒せ!! ５軸マシニングセンタの最高峰ハームレマシニングセンタ、５軸を知り尽くしたラングのクランプソリューション、さらに金属3Dプリンタの最先端SLMソリューションズなどご提案します",
+    "url": "https://www.aichi-sangyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "EMOショー視察とハームレ社訪問および金属3DプリンタのSLMソリューション社訪問ツアー開催のお知らせ",
+    "url": "https://www.aichi-sangyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "締め切り迫る！ EMOショー視察とハームレ社訪問および金属3DプリンタのSLMソリューション社訪問ツアー開催のお知らせ",
+    "url": "https://www.aichi-sangyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "SLMソリューションズ社のページを更新しました",
+    "url": "https://www.aichi-sangyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "11月１日から６日の期間、東京ビッグサイトで開催されている第29回国際工作機械見本市（JIMTOF2018）の大きなイベントである第18回国際工作機械技術者会議（IMEC2018)のテクニカルセッション２の「テーマ：Metal Additive Manufacturingの現状と未来」で、弊社が日本の代理店を務める米国の金属積層造形システムメーカ サイアキ社のMr John O'haraが基調講演を行いました",
+    "url": "https://www.aichi-sangyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形技術による大形部品の製造について語りました",
+    "url": "https://www.aichi-sangyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタの最新動向や課題を語る「Additive Manufacturingのためのシミュレーション活用セミナー」（サイバネットシステム、アンシス・ジャパン主催）での講演内容が、日本最大のものづくりサイトMONOist（モノイスト、運営：アイティメディア）に掲載されました",
+    "url": "https://www.aichi-sangyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタは量産対応とともに「誰でも使える」を目指す、ソフトウェアも続々",
+    "url": "https://www.aichi-sangyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3DプリンタメーカのSLMソリューションズ社の技術記事",
+    "url": "https://www.aichi-sangyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Additive Manufacturingのためのシミュレーション活用セミナー（サイバネットシステム㈱、アンシス・ジャパン㈱共同主催イベント）にて、「金属3Dプリンタの最新技術動向と問題点」に関する講演を行います",
+    "url": "https://www.aichi-sangyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サイアキ社 大型金属積層造形システムの製品ページを開設しました",
+    "url": "https://www.aichi-sangyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "GEアビエーション社はSLMソリューションズ社買収計画を断念しました",
+    "url": "https://www.aichi-sangyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "SLMソリューションズ社 NORTECアワードを受賞",
+    "url": "https://www.aichi-sangyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "米国の有力電子ビームメーカ「シャーキー社」の電子ビーム3D積層造形システムと電子ビーム溶接機の日本市場での販売権を取得しました",
+    "url": "https://www.aichi-sangyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「なごやものづくりワールド2016 第一回設計・製造ソリューション展」で、3D金属積層造形システムおよび専用パウダー、自動抵抗溶接機および強力マグネット工具など世界の最先端の技術商品を展示致します",
+    "url": "https://www.aichi-sangyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "第２回 3D金属積層造形セミナー",
+    "url": "https://www.aichi-sangyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "活用範囲が広がる金属3Dプリンタ",
+    "url": "https://www.aichi-sangyo.co.jp/img/upload/img_news_200304_nagoya3DP2020_01.jpg",
+    "pass": 1
+   },
+   {
+    "quote": "5Gの導入から、ビジネス化に向けて",
+    "url": "https://www.aichi-sangyo.co.jp/img/upload/img_news_200304_nagoya3DP2020_01.jpg",
+    "pass": 1
+   },
+   {
+    "quote": "5G導入とさらなる発展 5Gで変わるものづくりー",
+    "url": "https://www.aichi-sangyo.co.jp/img/upload/img_news_200304_nagoya3DP2020_01.jpg",
+    "pass": 1
+   },
+   {
+    "quote": "1200-1880 金属3Dプリンタによるものづくりの提",
+    "url": "https://www.aichi-sangyo.co.jp/img/upload/img_news_200304_nagoya3DP2020_01.jpg",
+    "pass": 1
+   },
+   {
+    "quote": "Yasaburo Inoue was given a special award from the Japan Welding Society for his contribution to the development of welding technology.",
+    "url": "https://www.aichi-sangyo.co.jp/aboutus/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "Development of high speed welding as a project funded by MITI.",
+    "url": "https://www.aichi-sangyo.co.jp/aboutus/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "�S�� �h�C�c�����R�c�v�����^�[���[�JSLM�\\�����[�V�����Y�ЂƗA���㗝�X�_�����",
+    "url": "https://www.aichi-sangyo.co.jp/aboutus/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "Distributorship agreement with SLM Solutions, a metal 3D printer manufacture in Germany.",
+    "url": "https://www.aichi-sangyo.co.jp/aboutus/history/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "�j�R��SLM�\\�����[�V�����Y",
+    "url": "https://www.aichi-sangyo.co.jp/products/category_AdditiveManufacturing.html",
+    "pass": 1
+   },
+   {
+    "quote": "�j�R��SLM�\\�����[�V�����Y�� ����3D�v�����^/�����ϑw���`�V�X�e�������m�Y�Ɗ������",
+    "url": "https://www.aichi-sangyo.co.jp/products/slm/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "�j�R��SLM�\\�����[�V�����Y�� ����3D�v�����^/�����ϑw���`�V�X�e��",
+    "url": "https://www.aichi-sangyo.co.jp/products/slm/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "�j�R��SLM�\\�����[�V�����Y��",
+    "url": "https://www.aichi-sangyo.co.jp/products/slm/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "�j�R��SLM�\\�����[�V�����Y",
+    "url": "https://www.aichi-sangyo.co.jp/products/slm/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "�i���FSLM�\\�����[�V�����Y�Ёj�́A 1863�N�ɑn�Ƃ���A1957�N���h�C�c�E�����[�x�b�N�ɖ{�Ђ�u���A�A�f�B�e�B�u�E�}�j���t�@�N�`���A�����O���u�̃��[�f�B���O���[�J�[�ł��B ���݂͊�����Ѓj�R���̊��S�q��ЂƂ��āu�j�R��SLM�\\�����[�V�����Y�v�̎Ж��Ŏ��Ƃ�W�J���Ă��܂��B",
+    "url": "https://www.aichi-sangyo.co.jp/products/slm/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "���[�U�����Č��ϑw���`�iSLM�j���������ЂŊJ�������̔����S���E�Ɍ����ďo�ׂ��Ă��܂��B�h�C�c�t���E���z�t�@�������ȂǗL�͋@�ւƂ̋����������d�ˁA���[�U�v�]�𔽉f�����삩��ʎY�܂őΉ��\\�Ȑ��i�J���ō����]���𓾂Ă��܂��B�q��F���A�����ԁA���^�A�G�l���M�[�A���f�B�J���A�w���X�P�A����̃��[�U�Ńj�R��SLM�\\�����[�V�����Y�̋���3D�v�����^�͎g���Ă��܂��B",
+    "url": "https://www.aichi-sangyo.co.jp/products/slm/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "SLM��p�Љ�y�[�W�͂�����",
+    "url": "https://www.aichi-sangyo.co.jp/products/slm/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "�j�R��SLM�\\�����[�V�����Ђ�3D�v�����^�Ő���������",
+    "url": "https://www.aichi-sangyo.co.jp/products/slm/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "�R�s�[�s�\\�Ȍ����j�R��SLM�\\�����[�V�����Y�Ђ�3D�v�����^�Ő���",
+    "url": "https://www.aichi-sangyo.co.jp/products/slm/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "Bugatti�Ђ̃u���[�L�L�����p�[���j�R��SLM�\\�����[�V�����Y�Ђ�3D�v�����^�Ő���",
+    "url": "https://www.aichi-sangyo.co.jp/products/slm/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "SLM�i�Z���N�e�B�u�E���[�U�E�����e�B���O�j",
+    "url": "https://www.aichi-sangyo.co.jp/products/lpw/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "EBM�i�G���N�g�����E�r�[���E�����e�B���O�j",
+    "url": "https://www.aichi-sangyo.co.jp/products/lpw/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "�������́ASLM�i�Z���N�g���[�U�[�j�AEBM�i�d�q�r�[���j�����LMD�i���[�U�[���^���f�|�W�V�����j�ɍœK�����ꂽ�����p�E�_�[�̊J���E�����s��̃��[�_�[�ł��B",
+    "url": "https://www.aichi-sangyo.co.jp/products/lpw/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社情報 - 金属3Dプリンター - 愛知産業株式会社",
+    "url": "https://as-ambusiness.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "SLM125",
+    "url": "https://as-ambusiness.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "SLM280",
+    "url": "https://as-ambusiness.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "SLM280PS",
+    "url": "https://as-ambusiness.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "SLM500",
+    "url": "https://as-ambusiness.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "SLM800",
+    "url": "https://as-ambusiness.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "SLMソリューションズ社は1863年に創業されました",
+    "url": "https://as-ambusiness.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "レーザ粉末焼結積層造形（SLM）方式を自社で開発製造販売し、全世界に向けて出荷しています",
+    "url": "https://as-ambusiness.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙、自動車、金型、エネルギー、メディカル、ヘルスケア分野のユーザでSLMソリューション社の金属3Dプリンターは使われています",
+    "url": "https://as-ambusiness.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "「社内で製造プロセスの見直しが話に出てきた」、「コスト削減が議題にあがった」、「新たな製造技術を知りたい」など検討状況や導入時期は問いません",
+    "url": "https://as-ambusiness.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "SLM280 PS",
+    "url": "https://as-ambusiness.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "ホーム - 金属3Dプリンター - 愛知産業株式会社",
+    "url": "https://as-ambusiness.com/",
+    "pass": 3
+   },
+   {
+    "quote": "SLM125",
+    "url": "https://as-ambusiness.com/",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "愛知産業、金属粉末のライフサイクル管理システムをアピール",
+    "url": "https://www.aichi-sangyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "レーザ粉末焼結積層造形（SLM）方式を自社で開発製造販売し、全世界に向けて出荷しています",
+    "url": "https://as-ambusiness.com/company/",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "2026年５月27日（水）から29日（金）に東京ビッグサイトで開催される「SPEXA 2026 -第３回 国際宇宙ビジネス展-」において、ISC主催の９社合同パビリオン「HELLO SPACE ECONOMY」に出展します",
+    "url": "https://www.aichi-sangyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年５月27日（水）から29日（金）に東京ビッグサイトで開催される「SPEXA 2026 -第３回 国際宇宙ビジネス展-」に出展します",
+    "url": "https://www.aichi-sangyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年２月28日（水）から３月１日（金）に東京ビッグサイトで開催される「風力発電展（スマートエネルギーWeek）」に出展します",
+    "url": "https://www.aichi-sangyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年３月15日（水）から17日（金）に東京ビッグサイトで開催される「風力発電展（スマートエネルギーWeek）」に出展します",
+    "url": "https://www.aichi-sangyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年３月16日（水）から18日（金）に東京ビッグサイトで開催される「スマートエネルギーWeek」に出展します",
+    "url": "https://www.aichi-sangyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "医療従事者の皆さんへサンクスメッセージを作成しました",
+    "url": "https://www.aichi-sangyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタは量産対応とともに「誰でも使える」を目指す、ソフトウェアも続々",
+    "url": "https://www.aichi-sangyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタの最新動向と量産を含お活用事例",
+    "url": "https://www.aichi-sangyo.co.jp/img/upload/img_news_200304_nagoya3DP2020_01.jpg",
+    "pass": 1
+   },
+   {
+    "quote": "SUBARUの航空機事業の取組みと今後の展望",
+    "url": "https://www.aichi-sangyo.co.jp/img/upload/img_news_200304_nagoya3DP2020_01.jpg",
+    "pass": 1
+   },
+   {
+    "quote": "自動車・造船・原子力産業などの大手メーカーに技術提供を行い、日本のものづくり産業を支えるエンジニアリング商社です",
+    "url": "https://as-ambusiness.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツフラウンホファ研究所など有力機関との共同研究を重ね、ユーザ要望を反映し試作から量産まで対応可能な製品開発で高い評価を得ています",
+    "url": "https://as-ambusiness.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙、自動車、金型、エネルギー、メディカル、ヘルスケア分野のユーザでSLMソリューション社の金属3Dプリンターは使われています",
+    "url": "https://as-ambusiness.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙から医療、自動車業界まで、幅広い分野での革命的な活用事例を掲載しています",
+    "url": "https://as-ambusiness.com/",
+    "pass": 3
+   },
+   {
+    "quote": "近年は、５軸マシニングセンターや精密鋳造炉、エネルギー関連設備の分野にも進出し、金属積層造形装置（金属3Dプリンター）、風力タワー製造設備、原子力関連の自動機の販売を行っています",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=1645",
+    "pass": 3
+   },
+   {
+    "quote": "その領域は、金属加工を中心に、環境保全、省資源、省エネルギー、省力化における先端技術や機器、技術開発、技術サービスまで多岐におよんでいます",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=1645",
+    "pass": 3
+   },
+   {
+    "quote": "お客様は、いずれも世界的な自動車メーカー、",
+    "url": "https://www.onecareer.jp/companies/97693",
+    "pass": 3
+   },
+   {
+    "quote": "自動車・造船・原子力産業などの大手メーカーに技術提供を行い、日本のものづくり産業を支えるエンジニアリング商社です",
+    "url": "https://www.onecareer.jp/companies/97693",
+    "pass": 3
+   },
+   {
+    "quote": "大学の方針には、プログラミング、機械学習、データ分析、課題発見から試作までの学習が示されています",
+    "url": "https://note.com/online_hennyu/n/n53a5da31e75a",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "溶接機、切断機、産業機械販売の 愛知産業 ｜ 会社概要 — 溶接機、切断機、産業機械販売の 愛知産業 ｜ 会社概要 愛知産業 http://www.aichi-sangyo.co.jp > aboutus > company",
+    "url": "http://www.aichi-sangyo.co.jp/aboutus/company/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 - 金属3Dプリンター - 愛知産業 株式会社 — 会社情報 - 金属3Dプリンター - 愛知産業 株式会社 as-ambusiness.com https://as-ambusiness.com > company",
+    "url": "https://as-ambusiness.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター、MIG/MAG 溶接機、5軸 輸入販売 - 愛知産業 — 金属3Dプリンター、MIG/MAG 溶接機、5軸 輸入販売 - 愛知産業 愛知産業 https://www.aichi-sangyo.co.jp > inquiry > news",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_170830_80th-anniversary.html",
+    "pass": 3
+   },
+   {
+    "quote": "愛知産業 株式 会社 - ミドルの転職 — 愛知産業 株式 会社 - ミドルの転職 ミドルの転職 https://mid-tenshoku.com > 掲載企業一覧",
+    "url": "https://mid-tenshoku.com/agency/a-7845/",
+    "pass": 3
+   },
+   {
+    "quote": "愛知産業 株式 会社 ｜会員名鑑 - 日本メンテナンス工業会 — 愛知産業 株式 会社 ｜会員名鑑 - 日本メンテナンス工業会 一般社団法人日本メンテナンス工業会 https://www.jamsec.jp > 会員検索",
+    "url": "https://www.jamsec.jp/member-search/443.php",
+    "pass": 3
+   },
+   {
+    "quote": "ホーム - 金属3Dプリンター - 愛知産業 株式会社 — ホーム - 金属3Dプリンター - 愛知産業 株式会社 as-ambusiness.com https://as-ambusiness.com",
+    "url": "https://as-ambusiness.com/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター 、溶接機、切断機、 産業 機械の販売｜ 愛知 ... — 金属3Dプリンター 、溶接機、切断機、 産業 機械の販売｜ 愛知 ... 愛知産業 https://www.aichi-sangyo.co.jp",
+    "url": "https://www.aichi-sangyo.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ニコンSLMソリューションズ社 金属3Dプリンタ /金属積層造形 ... — ニコンSLMソリューションズ社 金属3Dプリンタ /金属積層造形 ... 愛知産業 https://www.aichi-sangyo.co.jp > products > slm",
+    "url": "https://www.aichi-sangyo.co.jp/products/slm/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年6月「次世代 3Dプリンタ 展［東京］2024」に出展します — 2024年6月「次世代 3Dプリンタ 展［東京］2024」に出展します 愛知産業株式会社 https://www.aichi-sangyo.co.jp > inquiry > news",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_240507_3Dprint2024.html",
+    "pass": 3
+   },
+   {
+    "quote": "商品ナビゲータ： 金属3Dプリンタ ・LMD・専用金属パウダー — 商品ナビゲータ： 金属3Dプリンタ ・LMD・専用金属パウダー 愛知産業 https://www.aichi-sangyo.co.jp > products > category_Ad...",
+    "url": "https://www.aichi-sangyo.co.jp/products/category_AdditiveManufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形 ソリューション・AAMS（アームス）  溶接機 — 金属積層造形 ソリューション・AAMS（アームス）  溶接機 愛知産業 https://www.aichi-sangyo.co.jp > sol_additive_manufact",
+    "url": "https://www.aichi-sangyo.co.jp/technique/sol_additive_manufact/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属 3Dプリンター、溶接機、切断機、 産業 機械の販売｜ 愛知 ... — 金属 3Dプリンター、溶接機、切断機、 産業 機械の販売｜ 愛知 ... 愛知産業 https://www.aichi-sangyo.co.jp",
+    "url": "https://www.aichi-sangyo.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形 （3Dプリンター）用専用パウダーおよび装置の ... — 金属積層造形 （3Dプリンター）用専用パウダーおよび装置の ... 愛知産業 https://www.aichi-sangyo.co.jp > additive_manufact",
+    "url": "https://www.aichi-sangyo.co.jp/products/additive_manufact/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "SLM方式・LMD方式・アーク方式のAM 造形 の受託加工を承り ... — SLM方式・LMD方式・アーク方式のAM 造形 の受託加工を承り ... 愛知産業 https://www.aichi-sangyo.co.jp > AM_ContractService",
+    "url": "https://www.aichi-sangyo.co.jp/technique/sol_additive_manufact/AM_ContractService.html",
+    "pass": 3
+   },
+   {
+    "quote": "ニコンSLMソリューションズ社 金属3Dプリンタ/ 金属積層造形 ... — ニコンSLMソリューションズ社 金属3Dプリンタ/ 金属積層造形 ... 愛知産業 https://www.aichi-sangyo.co.jp > products > slm",
+    "url": "https://www.aichi-sangyo.co.jp/products/slm/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "溶接機、切断機、産業機械販売の 愛知産業 ｜会社概要 — 溶接機、切断機、産業機械販売の 愛知産業 ｜会社概要 愛知産業 http://www.aichi-sangyo.co.jp > aboutus > company",
+    "url": "http://www.aichi-sangyo.co.jp/aboutus/company/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "溶接機、切断機、産業機械販売の 愛知産業 ｜沿革 — 溶接機、切断機、産業機械販売の 愛知産業 ｜沿革 愛知産業 http://www.aichi-sangyo.co.jp > aboutus > history",
+    "url": "http://www.aichi-sangyo.co.jp/aboutus/history/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "愛知産業 株式会社 - 投資実績 — 愛知産業 株式会社 - 投資実績 中小企業投資育成 https://www.sbic.co.jp > investeecompany > detail",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=1645",
+    "pass": 3
+   },
+   {
+    "quote": "愛知産業 株式会社（製造業） - 100億宣言 — 愛知産業 株式会社（製造業） - 100億宣言 独立行政法人 中小企業基盤整備機構 PDF https://growth-100-oku.smrj.go.jp > companies > pdf",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/03221-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "愛知産業 株式会社【愛知県｜名古屋市｜乗入れ｜工事｜駐車場 ... — 愛知産業 株式会社【愛知県｜名古屋市｜乗入れ｜工事｜駐車場 ... aisankk.jp https://www.aisankk.jp",
+    "url": "https://www.aisankk.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "愛知産業 株式会社｜会員名鑑 - 日本メンテナンス工業会 — 愛知産業 株式会社｜会員名鑑 - 日本メンテナンス工業会 一般社団法人日本メンテナンス工業会 https://www.jamsec.jp > 会員検索",
+    "url": "https://www.jamsec.jp/member-search/443.php",
+    "pass": 3
+   },
+   {
+    "quote": "愛知産業 株式会社 — 愛知産業 株式会社 愛知産業 PDF https://www.aichi-sangyo.co.jp > recruit > recruit_01",
+    "url": "https://www.aichi-sangyo.co.jp/pdf/recruit/recruit_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "愛知産業 の新卒採用・就職・会社概要とクチコミ - ワンキャリア — 愛知産業 の新卒採用・就職・会社概要とクチコミ - ワンキャリア ワンキャリア https://www.onecareer.jp > companies",
+    "url": "https://www.onecareer.jp/companies/97693",
+    "pass": 3
+   },
+   {
+    "quote": "愛知産業 株式会社 - ShareLab（シェアラボ） — 愛知産業 株式会社 - ShareLab（シェアラボ） sharelab.jp https://sharelab.jp > 企業DB > 愛知産業株式会社",
+    "url": "https://sharelab.jp/company/aichi-sangyo/",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "資本金：8,600万円",
+    "url": "https://www.onecareer.jp/companies/97693",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "愛知産業 大学 通信教育部 建築学科を2年で卒業 - note 愛知産業 大学 通信教育部 建築学科を2年で卒業 - note note https://note.com > 教育・学び > 大学教育",
+    "url": "https://note.com/3ya_5ma/n/nd32bec78375d",
+    "pass": 3
+   },
+   {
+    "quote": "【日本語教師】 愛知産業 大学かヒューマンアカデミーか？学士 ... 【日本語教師】 愛知産業 大学かヒューマンアカデミーか？学士 ... note https://note.com > 教育・学び > 資格・キャリア",
+    "url": "https://note.com/alex_tuushin/n/nb5a381d05c50",
+    "pass": 3
+   },
+   {
+    "quote": "愛知産業 大学造形学部の編入【2027年度】建築・スマート ... 愛知産業 大学造形学部の編入【2027年度】建築・スマート ... note https://note.com > 大学編入情報局",
+    "url": "https://note.com/online_hennyu/n/n53a5da31e75a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "愛知産業大学 通信教育部 建築学科を2年で卒業｜ゆ(建築士勉強)",
+    "url": "https://note.com/3ya_5ma/n/nd32bec78375d",
+    "pass": 3
+   },
+   {
+    "quote": "愛知産業大学 通信教育部 建築学科を2年で卒業",
+    "url": "https://note.com/3ya_5ma/n/nd32bec78375d",
+    "pass": 3
+   },
+   {
+    "quote": "通信大で二級建築士の受験資格を作って建築士になろう！と決め、愛知産業大学の建築に3年次編入しました。",
+    "url": "https://note.com/3ya_5ma/n/nd32bec78375d",
+    "pass": 3
+   },
+   {
+    "quote": "当時は一級建築士の受験資格に、更に建築の仕事をするか大学院（通信でＯＫ）を出る必要が有りました。",
+    "url": "https://note.com/3ya_5ma/n/nd32bec78375d",
+    "pass": 3
+   },
+   {
+    "quote": "選んだ理由は、建築士の受験資格が取れる通信が当時は3大学。",
+    "url": "https://note.com/3ya_5ma/n/nd32bec78375d",
+    "pass": 3
+   },
+   {
+    "quote": "家からスクーリング会場まで一番近い大学かつ、交通費込みの総額が一番安いかそれくらいだったので。",
+    "url": "https://note.com/3ya_5ma/n/nd32bec78375d",
+    "pass": 3
+   },
+   {
+    "quote": "通信は一般的にスクーリングがあり、時々大学か指定の会場に行って授業や実習を受けるんです。",
+    "url": "https://note.com/3ya_5ma/n/nd32bec78375d",
+    "pass": 3
+   },
+   {
+    "quote": "東京・大阪・大学でやりますよーとかは割とあるのですが、東京・大阪以外の人は家から近いか、交通費や宿泊費は？という問題があります。",
+    "url": "https://note.com/3ya_5ma/n/nd32bec78375d",
+    "pass": 3
+   },
+   {
+    "quote": "【日本語教師】愛知産業大学かヒューマンアカデミーか？学士を持っている人が日本語教師の資格を目指すなら愛知産業大学短期大学通信教育部をおすすめしたい3つの理由｜日大通信教育部生アレキサンダー",
+    "url": "https://note.com/alex_tuushin/n/nb5a381d05c50",
+    "pass": 3
+   },
+   {
+    "quote": "【日本語教師】愛知産業大学かヒューマンアカデミーか？学士を持っている人が日本語教師の資格を目指すなら愛知産業大学短期大学通信教育部をおすすめしたい3つの理由",
+    "url": "https://note.com/alex_tuushin/n/nb5a381d05c50",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマンアカデミーと比較して見えてくる、費用と制度の大きな違い",
+    "url": "https://note.com/alex_tuushin/n/nb5a381d05c50",
+    "pass": 3
+   },
+   {
+    "quote": "日本語教師の資格が国家資格化されたことで、「これから日本語教師を目指したいけれど、どの学校を選べばよいのか分からない」と悩む人が増えています。特に、すでに4年制大学を卒業し、学士の資格を持っている人にとっては、学校選びの基準が一般の人とは少し異なります。なぜなら、学士を持っている人は、制度上、より有利なルートを使える可能性があるからです。",
+    "url": "https://note.com/alex_tuushin/n/nb5a381d05c50",
+    "pass": 3
+   },
+   {
+    "quote": "私は、すでに4年制大学を卒業し、学士を持っている人が日本語教師の資格取得を目指すのであれば、第一候補として愛知産業大学短期大学通信教育部を検討すべきだと考えています。もちろん、ヒューマンアカデミーも非常に魅力的な学校です。実践的な学びやサポート体制という点では強みがあります。しかし、学士を持っている人で、しかも2033年3月31日までに課程修了を目指せるのであれば、費用面、制度面、学び方の自由度という複数の観点から見て、愛知産業大学短期大学通信教育部のほうがはるかにおすすめしやすいです。",
+    "url": "https://note.com/alex_tuushin/n/nb5a381d05c50",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、学士をすでに持っている人を対象に、愛知産業大学短期大学通信教育部とヒューマンアカデミーを比較しながら、なぜ愛知産業大学短期大学通信教育部のほうが有力な選択肢になるのかを、できるだけ分かりやすく整理していきます。制度の説明は難しくなりがちですが、専門用語をできるだけ噛み砕きながら説明しますので、学校選びに迷っている方の判断材料になれば幸いです。",
+    "url": "https://note.com/alex_tuushin/n/nb5a381d05c50",
+    "pass": 3
+   },
+   {
+    "quote": "現在、日本語教師として認定日本語教育機関で働くためには、「登録日本語教員」という国家資格が重要になっています。以前は、いわゆる420時間養成講座修了などで日本語教師を目指す道が広く知られていましたが、制度改正によって、資格取得の道筋が明確に整理されました。その結果、「どこの学校で学ぶか」が以前よりもはるかに重要になっています。",
+    "url": "https://note.com/alex_tuushin/n/nb5a381d05c50",
+    "pass": 3
+   },
+   {
+    "quote": "登録日本語教員になるための基本ルートは、大きく分けて二つあります。一つは、登録日本語教員養成機関や登録実践研修機関を利用するルートです。もう一つは、試験と実践研修を通じて目指すルートです。ただし、現在は制度移行期にあたるため、一定の条件を満たす人には「経過措置」が設けられています。ここで大きな意味を持つのが、学士を持っている人に関係する「Cルート」です。",
+    "url": "https://note.com/alex_tuushin/n/nb5a381d05c50",
+    "pass": 3
+   },
+   {
+    "quote": "愛知産業大学造形学部の編入【2027年度】建築・スマートデザインの3方式と小論文対策｜大学編入情報局",
+    "url": "https://note.com/online_hennyu/n/n53a5da31e75a",
+    "pass": 3
+   },
+   {
+    "quote": "愛知産業大学造形学部の編入【2027年度】建築・スマートデザインの3方式と小論文対策",
+    "url": "https://note.com/online_hennyu/n/n53a5da31e75a",
+    "pass": 3
+   },
+   {
+    "quote": "愛知産業大学造形学部の編入は、方式選びから始める",
+    "url": "https://note.com/online_hennyu/n/n53a5da31e75a",
+    "pass": 3
+   },
+   {
+    "quote": "愛知産業大学の2027年度3年次編入は、造形学部の建築学科・スマートデザイン学科で実施されます。どちらも募集人員は5名ですが、総合型・学校推薦型・一般の3方式を合わせた人数です。方式ごとに5名、試験回ごとに5名という意味ではありません。",
+    "url": "https://note.com/online_hennyu/n/n53a5da31e75a",
+    "pass": 3
+   },
+   {
+    "quote": "総合型選抜は専願、小論文と面接があります。学校推薦型選抜は推薦が必要で、面接と書類審査。一般選抜は併願可能で、小論文と面接があります。同じ大学でも、出願資格、提出書類、他大学との組み合わせ方が違います。",
+    "url": "https://note.com/online_hennyu/n/n53a5da31e75a",
+    "pass": 3
+   },
+   {
+    "quote": "この記事は、通学課程の2027年4月入学に向けた公式の3年次編入学要項をもとに整理しています。経営学部の総合経営学科も同じ要項に掲載されていますが、造形学部の学科ではありません。また、通信教育課程の建築学科とは別の制度です。",
+    "url": "https://note.com/online_hennyu/n/n53a5da31e75a",
+    "pass": 3
+   },
+   {
+    "quote": "▼ 出願資格・試験科目・対策の詳しい解説は、編入総研のページで確認できます",
+    "url": "https://note.com/online_hennyu/n/n53a5da31e75a",
+    "pass": 3
+   },
+   {
+    "quote": "総合型・一般は、卒業資格または大学2年62単位などで出願する",
+    "url": "https://note.com/online_hennyu/n/n53a5da31e75a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "愛知産業 大学【公式】 (@asu_nkc) / X 愛知産業 大学【公式】 (@asu_nkc) / X X https://x.com > asu_nkc",
+    "url": "https://x.com/asu_nkc",
+    "pass": 3
+   },
+   {
+    "quote": "愛知産業 大学【公式】 on X 愛知産業 大学【公式】 on X X https://x.com > @asu_nkc",
+    "url": "https://x.com/asu_nkc/status/1247349548197875712",
+    "pass": 3
+   },
+   {
+    "quote": "愛知産業 大学通信教育部 (@asutnews) / X 愛知産業 大学通信教育部 (@asutnews) / X X https://x.com > asutnews",
+    "url": "https://x.com/asutnews",
+    "pass": 3
+   },
+   {
+    "quote": "愛知産業 大学【公式】 - X 愛知産業 大学【公式】 - X X https://x.com > @asu_nkc",
+    "url": "https://x.com/asu_nkc/status/2114967039198863597",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "愛知産業 （株） - LinkedIn 愛知産業 （株） - LinkedIn LinkedIn https://www.linkedin.com > company > 愛知産業（株）",
+    "url": "https://www.linkedin.com/company/%E6%84%9B%E7%9F%A5%E7%94%A3%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "愛知産業 （株） - LinkedIn 愛知産業 （株） - LinkedIn LinkedIn https://jp.linkedin.com > company > 愛知産業（株）",
+    "url": "https://jp.linkedin.com/company/%E6%84%9B%E7%9F%A5%E7%94%A3%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "愛知産業 （株） - LinkedIn 愛知産業 （株） - LinkedIn LinkedIn https://es.linkedin.com > company > 愛知産業（株）",
+    "url": "https://es.linkedin.com/company/%E6%84%9B%E7%9F%A5%E7%94%A3%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "金安 力 - 愛知産業 （株） - 専務取締役営業本部長 - LinkedIn 金安 力 - 愛知産業 （株） - 専務取締役営業本部長 - LinkedIn LinkedIn https://jp.linkedin.com > 力-金安-b96227195",
+    "url": "https://jp.linkedin.com/in/%E5%8A%9B-%E9%87%91%E5%AE%89-b96227195",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "愛知産業 株式会社 - Facebook 愛知産業 株式会社 - Facebook Facebook https://www.facebook.com > 愛知産業株式会社-1000693...",
+    "url": "https://www.facebook.com/p/%E6%84%9B%E7%9F%A5%E7%94%A3%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-100069334014784/",
+    "pass": 3
+   },
+   {
+    "quote": "愛知産業 大学 | Okazaki-shi Aichi - Facebook 愛知産業 大学 | Okazaki-shi Aichi - Facebook Facebook https://www.facebook.com > ... > College & university",
+    "url": "https://www.facebook.com/ASU.JP/",
+    "pass": 3
+   },
+   {
+    "quote": "愛知産業 大学校友会 | Okazaki-shi Aichi - Facebook 愛知産業 大学校友会 | Okazaki-shi Aichi - Facebook Facebook https://www.facebook.com > ... > Education > School",
+    "url": "https://www.facebook.com/p/%E6%84%9B%E7%9F%A5%E7%94%A3%E6%A5%AD%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%8F%8B%E4%BC%9A-100063592781024/",
+    "pass": 3
+   },
+   {
+    "quote": "愛知産業 大学短期大学 校友会 (@asu.jc) - Facebook 愛知産業 大学短期大学 校友会 (@asu.jc) - Facebook Facebook https://www.facebook.com > ... > College & university",
+    "url": "https://www.facebook.com/asu.jc/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.aichi-sangyo.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aichi-sangyo.co.jp/aboutus/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aichi-sangyo.co.jp/img/upload/img_news_200304_nagoya3DP2020_01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.aichi-sangyo.co.jp/aboutus/history/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aichi-sangyo.co.jp/aboutus/company/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aichi-sangyo.co.jp/products/category_FactoryAutomation.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aichi-sangyo.co.jp/products/category_AdditiveManufacturing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aichi-sangyo.co.jp/aboutus/access/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aichi-sangyo.co.jp/products/slm/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aichi-sangyo.co.jp/products/lpw/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aichi-sangyo.co.jp/products/sciaky/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aichi-sangyo.co.jp/products/waam3d/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aichi-sangyo.co.jp/aboutus/security/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aichi-sangyo.co.jp/img/upload/img_news_170601_engineering_02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.aichi-sangyo.co.jp/img/upload/pdf_news_200311_kyoukaishou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aichi-sangyo.co.jp/img/common/footer_subnavi02_off.gif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://as-ambusiness.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://as-ambusiness.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=1645",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jamsec.jp/member-search/443.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onecareer.jp/companies/97693",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/3ya_5ma/n/nd32bec78375d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/alex_tuushin/n/nb5a381d05c50",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/online_hennyu/n/n53a5da31e75a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/asu_nkc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/asu_nkc/status/1247349548197875712",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/asutnews",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/asu_nkc/status/2114967039198863597",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/%E6%84%9B%E7%9F%A5%E7%94%A3%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/%E6%84%9B%E7%9F%A5%E7%94%A3%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://es.linkedin.com/company/%E6%84%9B%E7%9F%A5%E7%94%A3%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E5%8A%9B-%E9%87%91%E5%AE%89-b96227195",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/%E6%84%9B%E7%9F%A5%E7%94%A3%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-100069334014784/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ASU.JP/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/%E6%84%9B%E7%9F%A5%E7%94%A3%E6%A5%AD%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%8F%8B%E4%BC%9A-100063592781024/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/asu.jc/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "愛知産業",
+   "results": [
+    "https://www.aichi-sangyo.co.jp/",
+    "https://as-ambusiness.com/company/",
+    "https://www.aisankk.jp/",
+    "https://www.youtube.com/channel/UCXKFHq6nZFJwrvm62WndO0g",
+    "https://www.jmtia.gr.jp/directory/member/category.php?categoryID=241",
+    "https://metoree.com/companies/14617/",
+    "https://ja.wikipedia.org/wiki/愛知産業",
+    "https://grokipedia.com/page/aichi_sangyo_university",
+    "https://aichi-sangyo.co.jp/",
+    "https://aichi-sangyo.co.jp/aboutus/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "愛知産業 会社概要 資本金 設立",
+   "results": [
+    "http://www.aichi-sangyo.co.jp/aboutus/company/index.html",
+    "https://as-ambusiness.com/company/",
+    "https://www.aichi-sangyo.co.jp/inquiry/news/news_170830_80th-anniversary.html",
+    "https://mid-tenshoku.com/agency/a-7845/",
+    "https://www.jamsec.jp/member-search/443.php",
+    "https://aichi-sangyo.com/html/company.html",
+    "https://www.mics.city.shinagawa.tokyo.jp/cgi-bin/recruit.php/1/detail/103",
+    "https://www.aichi-sangyo.co.jp/",
+    "https://metoree.com/companies/14617/",
+    "https://aichi-sangyo.co.jp/aboutus/company/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "愛知産業 金属3Dプリンタ 導入",
+   "results": [
+    "https://as-ambusiness.com/",
+    "https://www.aichi-sangyo.co.jp/",
+    "https://www.aichi-sangyo.co.jp/products/slm/index.html",
+    "https://www.aichi-sangyo.co.jp/inquiry/news/news_240507_3Dprint2024.html",
+    "https://www.aichi-sangyo.co.jp/products/category_AdditiveManufacturing.html",
+    "https://unifiedsearch.jcdbizmatch.jp/nanotech2025/jp/tct/details/OJBAN8f0nAE",
+    "https://www.youtube.com/watch?v=teF6HEZhdlo",
+    "https://as-ambusiness.com/case/",
+    "https://www.aichi-sangyo.co.jp/inquiry/news/news_260217_Nagoya3DP.html",
+    "https://aichi-sangyo.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "愛知産業 金属積層造形 設備",
+   "results": [
+    "https://www.aichi-sangyo.co.jp/technique/sol_additive_manufact/index.html",
+    "https://www.aichi-sangyo.co.jp/",
+    "https://www.aichi-sangyo.co.jp/products/additive_manufact/index.html",
+    "https://www.aichi-sangyo.co.jp/technique/sol_additive_manufact/AM_ContractService.html",
+    "https://www.aichi-sangyo.co.jp/products/slm/index.html",
+    "https://www.aichi-sangyo.co.jp/inquiry/news/news_140808_3D_seminar.html",
+    "https://www.youtube.com/watch?v=P_nV3rBShCU",
+    "https://j3d.co.jp/feature/%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E7%A9%8D%E5%B1%A4/",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://aichi-sangyo.co.jp/technique/sol_additive_manufact/index.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "愛知産業 株主 出資 親会社",
+   "results": [
+    "http://www.aichi-sangyo.co.jp/aboutus/company/index.html",
+    "http://www.aichi-sangyo.co.jp/aboutus/history/index.html",
+    "https://www.sbic.co.jp/investeecompany/detail/index.php?id=1645",
+    "https://growth-100-oku.smrj.go.jp/companies/pdf/03221-00.pdf",
+    "https://www.aisankk.jp/",
+    "https://sharelab.jp/company/aichi-sangyo/",
+    "https://startup-db.com/investment-companies/bzgwJ67Ux6XGrjY6",
+    "https://www.aibsc.jp/",
+    "https://www.pref.aichi.jp/soshiki/sangyoshinko/chiikikeizai01.html",
+    "https://catr.jp/companies/b7e20/113241/subsidiaries"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "愛知産業 売上高 従業員数",
+   "results": [
+    "https://www.jamsec.jp/member-search/443.php",
+    "https://www.aichi-sangyo.co.jp/pdf/recruit/recruit_01.pdf",
+    "https://www.onecareer.jp/companies/97693",
+    "https://growth-100-oku.smrj.go.jp/companies/pdf/03221-00.pdf",
+    "https://sharelab.jp/company/aichi-sangyo/",
+    "http://www.aichi-sangyo.co.jp/aboutus/company/index.html",
+    "https://tenshoku.mynavi.jp/company/418946/",
+    "https://metoree.com/companies/14617/",
+    "https://aichi-sangyo.co.jp/aboutus/company/index.html",
+    "https://alarmbox.jp/companyinfo/entities/8180001024551"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 愛知産業",
+   "results": [
+    "https://note.com/3ya_5ma/n/nd32bec78375d",
+    "https://note.com/alex_tuushin/n/nb5a381d05c50",
+    "https://note.com/shimano448",
+    "https://note.com/online_hennyu/n/n53a5da31e75a",
+    "https://note.com/asut_ken/m/m0dda482e5f96",
+    "https://note.com/yon_karatsu/n/nd016c56449dd",
+    "https://note.com/asut_ken/n/n7114f123de37",
+    "https://note.com/rtutptmt/n/n38d6688e62e5",
+    "https://note.com/twobeats_lab/n/n6798afe51aaa"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:x.com 愛知産業",
+   "results": [
+    "https://x.com/asu_nkc",
+    "https://x.com/asu_nkc/status/1247349548197875712",
+    "https://x.com/asutnews",
+    "https://x.com/asu_nkc/status/2114967039198863597",
+    "https://x.com/harayamasai2023",
+    "https://x.com/airouki",
+    "https://x.com/Kino_asu_BC",
+    "https://x.com/matsukokoushiki/status/2036366068059611609",
+    "https://x.com/asu_nkc/status/2089541659281563722",
+    "https://x.com/asu_nkc/status/1921742984690745566"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com 愛知産業",
+   "results": [
+    "https://www.linkedin.com/company/%E6%84%9B%E7%9F%A5%E7%94%A3%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://jp.linkedin.com/company/%E6%84%9B%E7%9F%A5%E7%94%A3%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://es.linkedin.com/company/%E6%84%9B%E7%9F%A5%E7%94%A3%E6%A5%AD%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://jp.linkedin.com/in/%E5%8A%9B-%E9%87%91%E5%AE%89-b96227195",
+    "https://jp.linkedin.com/in/osamu-uchiyama-b48601152",
+    "https://jp.linkedin.com/in/yuka-yamamoto-48245a35a",
+    "https://au.linkedin.com/in/shogo-kawakami-a161a8289",
+    "https://jp.linkedin.com/in/%E5%81%A5%E6%96%97-%E5%8D%83%E8%91%89-8972b4162",
+    "https://jp.linkedin.com/in/%E5%8A%9B-%E9%A9%AC-9335aa1a3",
+    "https://jp.linkedin.com/company/愛知産業（株）"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com 愛知産業",
+   "results": [
+    "https://www.facebook.com/p/%E6%84%9B%E7%9F%A5%E7%94%A3%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-100069334014784/",
+    "https://www.facebook.com/ASU.JP/",
+    "https://www.facebook.com/p/%E6%84%9B%E7%9F%A5%E7%94%A3%E6%A5%AD%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%8F%8B%E4%BC%9A-100063592781024/",
+    "https://www.facebook.com/asu.jc/",
+    "https://www.facebook.com/media/set/?set=a.2656487747714210&type=3&comment_id=2656664861029832",
+    "https://www.facebook.com/asuvb/?locale=ja_JP",
+    "https://www.facebook.com/asuhonbu/",
+    "https://www.facebook.com/media/set/?set=a.2767578923271758&type=3",
+    "https://www.facebook.com/100054583233792/posts/%E6%9C%AC%E6%97%A510%E6%9C%8825%E6%97%A5%E6%97%A5%E6%84%9B%E7%9F%A5%E7%94%A3%E6%A5%AD%E5%A4%A7%E5%AD%A6%E5%8E%9F%E5%B1%B1%E7%A5%AD%E3%81%AB%E6%AD%AF%E7%A7%91%E8%A1%9B%E7%94%9F%E5%A3%AB%E3%81%8A%E4%BB%95%E4%BA%8B%E4%BD%93%E9%A8%93%E3%81%A8%E3%81%97%E3%81%A6%E5%87%BA%E5%BA%97%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB2%E9%9A%8E%E3%81%A7%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%99%E3%81%AE%E3%81%A7%E3%81%94%E8%88%88%E5%91%B3%E3%81%AE%E3%81%82%E3%82%8B%E6%96%B9%E3%81%AF%E3%81%8A%E6%B0%97%E8%BB%BD%E3%81%AB%E3%81%8A%E3%81%93%E3%81%97%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84/1667558835073542/",
+    "https://www.facebook.com/ASUT.KENCHIKU/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "愛知産業 note 社長",
+   "results": [
+    "https://note.com/aichi_cocreate/n/nccc8dee5d9ea",
+    "https://note.com/aichi_cocreate/n/n72c5b15ebe9f",
+    "https://www.chubu.meti.go.jp/koho/note.html",
+    "https://note.com/kandousoukolfc/n/nf10afdd2faeb",
+    "https://www.aichi-sangyo.co.jp/products/lapinus/process.html",
+    "https://www.asu.ac.jp/byod",
+    "https://note.com/asut_ken/n/n7114f123de37",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "http://www.aichi-sangyo.co.jp/aboutus/index.html",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "愛知産業 X 投稿",
+   "results": [
+    "https://www.pref.aichi.jp/soshiki/digital/0000069655.html",
+    "https://www.chubu.meti.go.jp/koho/twitter.html",
+    "https://x.com/pref_aichi",
+    "https://dx-consortium.aibsc.jp/",
+    "https://www.aichi-sangyo.co.jp/inquiry/news/news_170717_announcement.html",
+    "https://sac.socialx.inc/programs/aichi_2026/seminar",
+    "https://www.musashi.ac.jp/seminar_blog/seminarproject/legn3e0000002sgf.html",
+    "https://www.pref.aichi.jp/soshiki/jinzai/hitoiku-twitter.html",
+    "https://www.aichi-sports.or.jp/privacy/x.html",
+    "https://x.com/asu_nkc"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部20頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部20頁・検索12回）"
+ }
+}

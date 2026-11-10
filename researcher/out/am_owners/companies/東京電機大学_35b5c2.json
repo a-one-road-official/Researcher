@@ -1,0 +1,961 @@
+{
+ "name": "東京電機大学",
+ "aliases": [],
+ "context": "PBF=yes 装置=OPM250 出典=https://mono.dendai.ac.jp/kizai-setubi-all/opm250/",
+ "researched_at": "2026-11-10T17:17:04.797556+00:00",
+ "official_url": "https://www.dendai.ac.jp/",
+ "identified_by": "search:yahoo_jp:東京電機大学",
+ "profile": {},
+ "evidence": {
+  "用途・客の産業": [
+   {
+    "quote": "BRIDGE事業シンポジウム 医療機器が活用される社会の将来像（11/26・無料）",
+    "url": "https://www.dendai.ac.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「宇宙甲子園2026南関東大会」を埼玉鳩山キャンパスで開催",
+    "url": "https://www.dendai.ac.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "BRIDGE事業シンポジウム 医療機器が活用される社会の将来像",
+    "url": "https://www.dendai.ac.jp/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "学校法人 東京電機大学 の2027年度 会社概要 | マイナビ2028 — 学校法人 東京電機大学 の2027年度 会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp94541 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp94541/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "学校法人 東京電機大学概要 — 学校法人 東京電機大学概要 東京電機大学 https://www.dendai.ac.jp > about > gakuen > outline",
+    "url": "https://www.dendai.ac.jp/about/gakuen/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "財務の 概要 - 東京電機大学 — 財務の 概要 - 東京電機大学 東京電機大学 PDF https://www.dendai.ac.jp > about > tdu > information",
+    "url": "https://www.dendai.ac.jp/about/tdu/information/r04_3-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "学校法人 東京電機大学 | 3011805002185 | Gビズインフォ — 学校法人 東京電機大学 | 3011805002185 | Gビズインフォ info.gbiz.go.jp https://info.gbiz.go.jp > hojin > ichiran",
+    "url": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3011805002185",
+    "pass": 3
+   },
+   {
+    "quote": "事業・財務 情報 - 東京電機大学 — 事業・財務 情報 - 東京電機大学 東京電機大学 https://www.dendai.ac.jp > about > gakuen > jigyo",
+    "url": "https://www.dendai.ac.jp/about/gakuen/jigyo/",
+    "pass": 3
+   },
+   {
+    "quote": "【好評】2024年度 第1回 金属3Dプリンタ 造形体験会について — 【好評】2024年度 第1回 金属3Dプリンタ 造形体験会について 東京電機大学ものづくりセンター https://mono.dendai.ac.jp > センター便り > 講習",
+    "url": "https://mono.dendai.ac.jp/2024/04/27/20240427_01/",
+    "pass": 3
+   },
+   {
+    "quote": "令和4年度第10回 金属3Dプリンタ 造形体験会の実施報告 — 令和4年度第10回 金属3Dプリンタ 造形体験会の実施報告 東京電機大学ものづくりセンター https://mono.dendai.ac.jp > センター便り > その他",
+    "url": "https://mono.dendai.ac.jp/2023/03/22/20230322_01/",
+    "pass": 3
+   },
+   {
+    "quote": "【好評】2024年度 第1回 金属 3Dプリンタ 造形 体験会について — 【好評】2024年度 第1回 金属 3Dプリンタ 造形 体験会について 東京電機大学ものづくりセンター https://mono.dendai.ac.jp > センター便り > 講習",
+    "url": "https://mono.dendai.ac.jp/2024/04/27/20240427_01/",
+    "pass": 3
+   },
+   {
+    "quote": "令和5年度第4回 金属 3Dプリンタ 造形 体験会を実施しました — 令和5年度第4回 金属 3Dプリンタ 造形 体験会を実施しました 東京電機大学ものづくりセンター https://mono.dendai.ac.jp > センター便り > その他",
+    "url": "https://mono.dendai.ac.jp/2023/10/19/20231019_01/",
+    "pass": 3
+   },
+   {
+    "quote": "【鳩山】SLA（光 造形 ）3Dプリンタ／Form2を設置しました — 【鳩山】SLA（光 造形 ）3Dプリンタ／Form2を設置しました 東京電機大学ものづくりセンター https://mono.dendai.ac.jp > センター便り > お知らせ",
+    "url": "https://mono.dendai.ac.jp/2022/11/29/20221129_01/",
+    "pass": 3
+   },
+   {
+    "quote": "東京電機大学 TDUものづくりセンター 「ソディックスペース ... — 東京電機大学 TDUものづくりセンター 「ソディックスペース ... Instagram https://www.instagram.com > ...",
+    "url": "https://www.instagram.com/p/DXF2OKfkwff/",
+    "pass": 3
+   },
+   {
+    "quote": "大学の沿革 - 東京電機大学 — 大学の沿革 - 東京電機大学 東京電機大学 https://www.dendai.ac.jp > tdu > history > chronology",
+    "url": "https://www.dendai.ac.jp/about/tdu/history/chronology.html",
+    "pass": 3
+   },
+   {
+    "quote": "系列校・関連機関 - 東京電機大学 — 系列校・関連機関 - 東京電機大学 東京電機大学 https://www.dendai.ac.jp > about > gakuen > institutions",
+    "url": "https://www.dendai.ac.jp/about/gakuen/institutions/",
+    "pass": 3
+   },
+   {
+    "quote": "学校法人 東京電機大学 の新卒採用・会社概要 | マイナビ2027 — 学校法人 東京電機大学 の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp94541 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp94541/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "学校法人 東京電機大学 概要 — 学校法人 東京電機大学 概要 東京電機大学 https://www.dendai.ac.jp > about > gakuen > outline",
+    "url": "https://www.dendai.ac.jp/about/gakuen/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "学校法人 東京電機大学 の2027年度会社概要 | マイナビ2028 — 学校法人 東京電機大学 の2027年度会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp94541 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp94541/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和6年度 | 東京電機大学 — 令和6年度 | 東京電機大学 東京電機大学 https://www.dendai.ac.jp > about > gakuen > jigyo",
+    "url": "https://www.dendai.ac.jp/about/gakuen/jigyo/r6.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023(令和 5)年度 | 事業報告書 - 東京電機大学 — 2023(令和 5)年度 | 事業報告書 - 東京電機大学 東京電機大学 PDF https://www.dendai.ac.jp > about > gakuen > jigyo",
+    "url": "https://www.dendai.ac.jp/about/gakuen/jigyo/r5.pdf",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "日本リーテック(株)【東証プライム市場上場】",
+    "url": "https://job.mynavi.jp/27/pc/search/corp94541/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、多くの学部で「任意提出資料」が提出可能であり、",
+    "url": "https://note.com/skillpass/n/n5b775b95e75e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "東京電機大学 の人気・新着記事まとめ - note 東京電機大学 の人気・新着記事まとめ - note note https://note.com > hashtag > 東京電機大学",
+    "url": "https://note.com/hashtag/%E6%9D%B1%E4%BA%AC%E9%9B%BB%E6%A9%9F%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "【併願戦略】 東京電機大学 理系｜総合型併願完全対策ガイド ... 【併願戦略】 東京電機大学 理系｜総合型併願完全対策ガイド ... note https://note.com > 教育・学び > 資格・キャリア",
+    "url": "https://note.com/skillpass/n/nc21a792e9d0c",
+    "pass": 3
+   },
+   {
+    "quote": "【学校情報】 東京電機大学 中学校：「技術者のための ... - note 【学校情報】 東京電機大学 中学校：「技術者のための ... - note note https://note.com > 教育・学び > 小中高教育",
+    "url": "https://note.com/mat_tea3/n/ne6a9a8bb0787",
+    "pass": 3
+   },
+   {
+    "quote": "【8割合格】 東京電機大学 ・総合型完全対策ガイド【2027年度 ... 【8割合格】 東京電機大学 ・総合型完全対策ガイド【2027年度 ... note https://note.com > 教育・学び > 資格・キャリア",
+    "url": "https://note.com/skillpass/n/n5b775b95e75e",
+    "pass": 3
+   },
+   {
+    "quote": "心地よい “ざらつき” の源泉 #2 【 東京電機大学 理工学部 理学 ... 心地よい “ざらつき” の源泉 #2 【 東京電機大学 理工学部 理学 ... note https://note.com > インタビュー・対談 > インタビュー・対談",
+    "url": "https://note.com/shokabo/n/nc55af1ad1be7",
+    "pass": 3
+   },
+   {
+    "quote": "学部学生①｜ 東京電機大学 知的情報空間研究室 - note 学部学生①｜ 東京電機大学 知的情報空間研究室 - note note https://note.com > キャリア > キャリア全般",
+    "url": "https://note.com/matsuilab/n/n435169cb2919",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "東京電機大学の人気・新着記事まとめ｜note",
+    "url": "https://note.com/tag/%E6%9D%B1%E4%BA%AC%E9%9B%BB%E6%A9%9F%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "実学尊重の精神に基づき、工学や情報科学などの高度な専門教育を展開しています。",
+    "url": "https://note.com/tag/%E6%9D%B1%E4%BA%AC%E9%9B%BB%E6%A9%9F%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "入試対策や合格戦略、社会人の学び直しに関する実践的な記事が集まっています。",
+    "url": "https://note.com/tag/%E6%9D%B1%E4%BA%AC%E9%9B%BB%E6%A9%9F%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "実学尊重の精神に基づき、工学や情報科学などの高度な専門教育を展開しています。…",
+    "url": "https://note.com/tag/%E6%9D%B1%E4%BA%AC%E9%9B%BB%E6%A9%9F%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "東京電機大学 (2026年版大学赤本シリーズ)",
+    "url": "https://note.com/tag/%E6%9D%B1%E4%BA%AC%E9%9B%BB%E6%A9%9F%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "東京電機大学 (2025年版大学赤本シリーズ)",
+    "url": "https://note.com/tag/%E6%9D%B1%E4%BA%AC%E9%9B%BB%E6%A9%9F%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "東京電機大学 (2024年版大学入試シリーズ)",
+    "url": "https://note.com/tag/%E6%9D%B1%E4%BA%AC%E9%9B%BB%E6%A9%9F%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "【併願戦略】東京電機大学理系｜総合型併願完全対策ガイド（2026-2027年度版）｜スキルパス｜理系の併願に強い総合型対策塾",
+    "url": "https://note.com/skillpass/n/nc21a792e9d0c",
+    "pass": 3
+   },
+   {
+    "quote": "【併願戦略】東京電機大学理系｜総合型併願完全対策ガイド（2026-2027年度版）",
+    "url": "https://note.com/skillpass/n/nc21a792e9d0c",
+    "pass": 3
+   },
+   {
+    "quote": "東京電機大学の総合型選抜は、理工学部の総合型選抜（AO）が他大学との併願が認められています。さらに",
+    "url": "https://note.com/skillpass/n/nc21a792e9d0c",
+    "pass": 3
+   },
+   {
+    "quote": "工学部の「とんがりAO」は専願制ですが、第一志望にすれば他大学を滑り止めとして併願することは可能",
+    "url": "https://note.com/skillpass/n/nc21a792e9d0c",
+    "pass": 3
+   },
+   {
+    "quote": "。「とんがりAO」は工学部独自の「とんがった才能・特化した能力」を評価する独自選抜で、出願ハードルは比較的低めの設計です。理系志望者にとっての主要対象はシステムデザイン工学部・未来科学部・工学部・理工学部の4学部。東京都市大学・工学院大学・千葉工業大学・専修大学などと組み合わせた最大4〜5校以上の同時出願による合格機会の最大化が可能です。スキルパスの併願戦略×総合型選抜の専門ノウハウなら、",
+    "url": "https://note.com/skillpass/n/nc21a792e9d0c",
+    "pass": 3
+   },
+   {
+    "quote": "東京電機大学を中心とした複数大学の戦略的併願を実現",
+    "url": "https://note.com/skillpass/n/nc21a792e9d0c",
+    "pass": 3
+   },
+   {
+    "quote": "実績作りが重要ですが、コツさえつかめば誰でも簡単にできます。",
+    "url": "https://note.com/skillpass/n/nc21a792e9d0c",
+    "pass": 3
+   },
+   {
+    "quote": "東京電機大学と相性◎のおススメ併願先4大学（すべて総合型選抜実施）",
+    "url": "https://note.com/skillpass/n/nc21a792e9d0c",
+    "pass": 3
+   },
+   {
+    "quote": "【学校情報】東京電機大学中学校：「技術者のための学校」から「最新の探究型教育」へ。イメージを覆す驚きの進化｜中学受験 ボリュームゾーンの歩き方",
+    "url": "https://note.com/mat_tea3/n/ne6a9a8bb0787",
+    "pass": 3
+   },
+   {
+    "quote": "【学校情報】東京電機大学中学校：「技術者のための学校」から「最新の探究型教育」へ。イメージを覆す驚きの進化",
+    "url": "https://note.com/mat_tea3/n/ne6a9a8bb0787",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは！ 膨大な学校情報の中から、わが子にぴったりの一校を見つけ出すのは至難の業ですよね。",
+    "url": "https://note.com/mat_tea3/n/ne6a9a8bb0787",
+    "pass": 3
+   },
+   {
+    "quote": "学校公式のHPやパンフレットは情報量が多い一方で、知りたい項目がバラバラに配置されていて、比較するだけでも一苦労……。 「もっと効率よく、要点だけを把握したい！」",
+    "url": "https://note.com/mat_tea3/n/ne6a9a8bb0787",
+    "pass": 3
+   },
+   {
+    "quote": "そんなニーズにお応えして、AIを活用し、多角的な視点から学校の特徴を整理してみました。 （※AIによる分析を含むため、最終的な正確性はぜひ学校説明会等でご確認いただければ幸いです！）",
+    "url": "https://note.com/mat_tea3/n/ne6a9a8bb0787",
+    "pass": 3
+   },
+   {
+    "quote": "学校選びの一助として、ぜひご活用ください。今回は、東京電機大学中学校を徹底解剖します！",
+    "url": "https://note.com/mat_tea3/n/ne6a9a8bb0787",
+    "pass": 3
+   },
+   {
+    "quote": "「技術は人なり」という建学の精神、および「人間らしく生きる」という校訓のもと、科学的思考力と豊かな人間性を兼ね備えた人材の育成を目指しています。教育目標として「豊かな心・創造力と知性・健やかな身体」を掲げ、特に理系教育の伝統を活かした「実学」を重視。少人数教育（1クラス33名前後）を徹底し、一人ひとりの個性を尊重しながら、ICTを活用した対話型・探究型の授業を展開しているのが特徴です。",
+    "url": "https://note.com/mat_tea3/n/ne6a9a8bb0787",
+    "pass": 3
+   },
+   {
+    "quote": "JR中央線「東小金井駅」北口より徒歩5分。 西武多摩川線「新小金井駅」からも徒歩15分程度でアクセス可能です。",
+    "url": "https://note.com/mat_tea3/n/ne6a9a8bb0787",
+    "pass": 3
+   },
+   {
+    "quote": "【8割合格】東京電機大学・総合型完全対策ガイド【2027年度版】｜スキルパス｜理系の併願に強い総合型対策塾",
+    "url": "https://note.com/skillpass/n/n5b775b95e75e",
+    "pass": 3
+   },
+   {
+    "quote": "【8割合格】東京電機大学・総合型完全対策ガイド【2027年度版】",
+    "url": "https://note.com/skillpass/n/n5b775b95e75e",
+    "pass": 3
+   },
+   {
+    "quote": "東京電機大学は全学部で総合型選抜を実施しており、理工学部は併願も可能です。また、多くの学部で「任意提出資料」が提出可能であり、",
+    "url": "https://note.com/skillpass/n/n5b775b95e75e",
+    "pass": 3
+   },
+   {
+    "quote": "資格取得や高大接続プログラムへの参加、各種認定証の取得",
+    "url": "https://note.com/skillpass/n/n5b775b95e75e",
+    "pass": 3
+   },
+   {
+    "quote": "が、他の受験生と差をつけるうえで、非常に重要になっています。",
+    "url": "https://note.com/skillpass/n/n5b775b95e75e",
+    "pass": 3
+   },
+   {
+    "quote": "総合型選抜は、ここ数年で評価の中身が大きく変わりました。生成AIの普及によって、志望理由書の文章力や「やる気アピール」「将来の目標アピール」だけでは差がつかなくなり、資格・受賞・研究といった「嘘がつけない過去の具体的な実績」が合否を分ける時代に入っています。一方で、多くの大手推薦塾は依然として「志望理由書の添削」と「ボランティア斡旋」を中心としたカリキュラムを変えておらず、2024年度以降、合格実績を大きく落としています。",
+    "url": "https://note.com/skillpass/n/n5b775b95e75e",
+    "pass": 3
+   },
+   {
+    "quote": "本ガイドは、保護者の皆さま・高校生本人に向けて、最新の総合型選抜の実態と、専門知識ゼロからでも始められる現実的な対策をまとめたものです。",
+    "url": "https://note.com/skillpass/n/n5b775b95e75e",
+    "pass": 3
+   },
+   {
+    "quote": "▶理系で「志望理由書+ボランティア」は通用しない",
+    "url": "https://note.com/skillpass/n/n5b775b95e75e",
+    "pass": 3
+   },
+   {
+    "quote": "心地よい “ざらつき” の源泉 #2 【東京電機大学 理工学部 理学系 富川祥宗先生 ロングインタビュー】｜裳華房 編集部",
+    "url": "https://note.com/shokabo/n/nc55af1ad1be7",
+    "pass": 3
+   },
+   {
+    "quote": "心地よい “ざらつき” の源泉 #2 【東京電機大学 理工学部 理学系 富川祥宗先生 ロングインタビュー】",
+    "url": "https://note.com/shokabo/n/nc55af1ad1be7",
+    "pass": 3
+   },
+   {
+    "quote": "から話は続いて）その人たちは，文系にいて理系に転向したいとかではないんですよね？",
+    "url": "https://note.com/shokabo/n/nc55af1ad1be7",
+    "pass": 3
+   },
+   {
+    "quote": "：少なからず，数学が好きな人は文系でも理系でもいらっしゃるということなんですね．",
+    "url": "https://note.com/shokabo/n/nc55af1ad1be7",
+    "pass": 3
+   },
+   {
+    "quote": "富川先生の研究室の本棚．数学関係の専門書だけでなく，物理関係の本も並ぶ．",
+    "url": "https://note.com/shokabo/n/nc55af1ad1be7",
+    "pass": 3
+   },
+   {
+    "quote": "：単位のためという人も多いと思うけど，そういう人でもかなり一生懸命質問してくれたりとかはありますよ．コロナで厳格になっていたときとかは，質問もオンラインの遠隔で受け付けていて．Zoomでつなぐんですよ．1対1で．2時間とか3時間とか．ときには，4時間とか（笑）．",
+    "url": "https://note.com/shokabo/n/nc55af1ad1be7",
+    "pass": 3
+   },
+   {
+    "quote": "：そのとき相手の学生さんはずっと質問をしてるんですか？",
+    "url": "https://note.com/shokabo/n/nc55af1ad1be7",
+    "pass": 3
+   },
+   {
+    "quote": "：いや，いろいろと質問されて，それに答えて，",
+    "url": "https://note.com/shokabo/n/nc55af1ad1be7",
+    "pass": 3
+   },
+   {
+    "quote": "学生が語る知的情報空間研究室 | 学部学生①｜東京電機大学 知的情報空間研究室",
+    "url": "https://note.com/matsuilab/n/n435169cb2919",
+    "pass": 3
+   },
+   {
+    "quote": "学生が語る知的情報空間研究室 | 学部学生①",
+    "url": "https://note.com/matsuilab/n/n435169cb2919",
+    "pass": 3
+   },
+   {
+    "quote": "父の勧めで情報系の学科に絞って受験していました。この分野に関する知識が全く無く、非常に不安でしたが、情報学部に進学すれば将来の選択肢が広がると考えました。また、システムデザイン工学部の「人間科学と人工知能から生まれる未来社会をデザインし具現化する力を養う」という学部目標にも共感いたしました。",
+    "url": "https://note.com/matsuilab/n/n435169cb2919",
+    "pass": 3
+   },
+   {
+    "quote": "正式に研究室に配属されてからの2か月間で研究テーマが決まり、行うべきことが明確になりました。今後についての漠然とした不安を抱えていた私にとって、この点が非常に良かったと感じています。また、大学の授業がなくなり研究がメインになったことで、主体性やタスク管理の重要性を強く実感しています。私の研究では同級生とのディスカッションが不可欠なので、個人としての成長だけでなく、共同研究だからこそ得られるメリットを吸収できる1年にしたいと考えています。",
+    "url": "https://note.com/matsuilab/n/n435169cb2919",
+    "pass": 3
+   },
+   {
+    "quote": "配属前後で大きく感じるのは、技術力の向上や実践の回数増加です。配属前はプログラムを記述することがやっとでしたが、配属後はプログラムだけでなく、システムの設計や開発までできるように成長しました。",
+    "url": "https://note.com/matsuilab/n/n435169cb2919",
+    "pass": 3
+   },
+   {
+    "quote": "配属後の研究では、健康の根本的な部分に触れたいと考えました。これは、日射量といった間接的なデータだけでは十分な解決策にならないと感じたからです。そのため、人の身体データを収集できる消費者向けのウェアラブルデバイスを活用し、人の健康増進を目指す取り組みを始めました。",
+    "url": "https://note.com/matsuilab/n/n435169cb2919",
+    "pass": 3
+   },
+   {
+    "quote": "STEAM教育（Science、Technology、Engineering、Art、Mathematicsの5つの分野を総括的に学ぶ教育）を通して、自ら課題を見つけて解決できる人材を育成するためのコンテンツや場を作りたいと考えています。高校での出張講義に参加させていただく予定があるので、実際にどのようなコンテンツが求められているのかを知り、フィードバックを基に改善を重ねていきたいと思っています。",
+    "url": "https://note.com/matsuilab/n/n435169cb2919",
+    "pass": 3
+   },
+   {
+    "quote": "将来の具体的な目標はまだ決まっていませんが、研究を進める中で自分の適性を見極めたいと考えています。研究のためにも、知見を広げて必要な時に活用できるようにしたいです。現在は、開発部と企画部のどちらにも興味があるので、両方のニーズに応えられるようなスキルを身につけたいと考えています。",
+    "url": "https://note.com/matsuilab/n/n435169cb2919",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "東京電機大学 (@TDU_webmaster) / X 東京電機大学 (@TDU_webmaster) / X X https://x.com > TDU_webmaster",
+    "url": "https://x.com/TDU_webmaster",
+    "pass": 3
+   },
+   {
+    "quote": "東京電機大学 入試センター (@tdu_kouhou_m) / X 東京電機大学 入試センター (@tdu_kouhou_m) / X X https://x.com > tdu_kouhou_m",
+    "url": "https://x.com/tdu_kouhou_m",
+    "pass": 3
+   },
+   {
+    "quote": "東京電機大学 (@TDU_webmaster) / X 東京電機大学 (@TDU_webmaster) / X X https://x.com > TDU_webmaster > all",
+    "url": "https://x.com/TDU_webmaster/all?lang=ar",
+    "pass": 3
+   },
+   {
+    "quote": "東京電機大学 中学校・高等学校【TDU公式】 (@TDU_JH) / X 東京電機大学 中学校・高等学校【TDU公式】 (@TDU_JH) / X X https://x.com > TDU_JH",
+    "url": "https://x.com/TDU_JH",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "東京電機大学 の社員、場所、同窓生 - LinkedIn 東京電機大学 の社員、場所、同窓生 - LinkedIn LinkedIn https://jp.linkedin.com > school > 東京電機大学",
+    "url": "https://jp.linkedin.com/school/%E6%9D%B1%E4%BA%AC%E9%9B%BB%E6%A9%9F%E5%A4%A7%E5%AD%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "東京電機大学 : 同窓生および卒業生 - LinkedIn 東京電機大学 : 同窓生および卒業生 - LinkedIn LinkedIn https://jp.linkedin.com > school > 東京電機大学 > people",
+    "url": "https://jp.linkedin.com/school/%E6%9D%B1%E4%BA%AC%E9%9B%BB%E6%A9%9F%E5%A4%A7%E5%AD%A6/people",
+    "pass": 3
+   },
+   {
+    "quote": "Atsuko Ishida - 特別専任教授 - 東京電機大学 情報環境学部 Atsuko Ishida - 特別専任教授 - 東京電機大学 情報環境学部 LinkedIn https://jp.linkedin.com > ...",
+    "url": "https://jp.linkedin.com/in/atsuko-ishida-41b59864",
+    "pass": 3
+   },
+   {
+    "quote": "松本 航太郎 - 東京電機大学 学生 - LinkedIn 松本 航太郎 - 東京電機大学 学生 - LinkedIn LinkedIn https://jp.linkedin.com > 航太郎-松本-05020b272",
+    "url": "https://jp.linkedin.com/in/%E8%88%AA%E5%A4%AA%E9%83%8E-%E6%9D%BE%E6%9C%AC-05020b272",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "東京電機大学 Tokyo Denki University | Adachi-ku ... - Facebook 東京電機大学 Tokyo Denki University | Adachi-ku ... - Facebook Facebook https://www.facebook.com > ... > College & university",
+    "url": "https://www.facebook.com/TDUwebmaster/",
+    "pass": 3
+   },
+   {
+    "quote": "東京電機大学 OG (@dendaiogkai) - Facebook 東京電機大学 OG (@dendaiogkai) - Facebook Facebook https://www.facebook.com > dendaiogkai",
+    "url": "https://www.facebook.com/dendaiogkai/",
+    "pass": 3
+   },
+   {
+    "quote": "東京電機大学 情報メディア学科 (@dendai.fi.info) - Facebook 東京電機大学 情報メディア学科 (@dendai.fi.info) - Facebook Facebook https://www.facebook.com > ... > College & university",
+    "url": "https://www.facebook.com/dendai.fi.info/?locale=en_US",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人 東京電機大学 校友会 (@tduaa1909) - Facebook 一般社団法人 東京電機大学 校友会 (@tduaa1909) - Facebook Facebook https://www.facebook.com > ... > ビジネス > 非営利団体",
+    "url": "https://www.facebook.com/tduaa1909/?locale=ja_JP",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.dendai.ac.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dendai.ac.jp/about/tdu/facility/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dendai.ac.jp/news/20261106-01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dendai.ac.jp/news/20261102-02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dendai.ac.jp/news/20261102-01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dendai.ac.jp/news/20261102-03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dendai.ac.jp/news/20261006-01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dendai.ac.jp/news/20261005-01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dendai.ac.jp/news/20260925-01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dendai.ac.jp/news/20260914-01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dendai.ac.jp/news/20260907-01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dendai.ac.jp/news/20260907-02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dendai.ac.jp/news/20260821-01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bokin.dendai.ac.jp/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp94541/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.dendai.ac.jp/2024/04/27/20240427_01/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mono.dendai.ac.jp/2023/03/22/20230322_01/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=teF6HEZhdlo",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mono.dendai.ac.jp/2024/04/27/20240427_01/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mono.dendai.ac.jp/2023/10/19/20231019_01/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jampt.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osaki.co.jp/ja/ir/news/auto_20230629111300_S100R2P7/pdfFile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fsisb.co.jp/ir/20160629.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp94541/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp94541/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E6%9D%B1%E4%BA%AC%E9%9B%BB%E6%A9%9F%E5%A4%A7%E5%AD%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/skillpass/n/nc21a792e9d0c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mat_tea3/n/ne6a9a8bb0787",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/skillpass/n/n5b775b95e75e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/TDU_webmaster",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tdu_kouhou_m",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TDU_webmaster/all?lang=ar",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TDU_JH",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/school/%E6%9D%B1%E4%BA%AC%E9%9B%BB%E6%A9%9F%E5%A4%A7%E5%AD%A6/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/school/%E6%9D%B1%E4%BA%AC%E9%9B%BB%E6%A9%9F%E5%A4%A7%E5%AD%A6/people",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/atsuko-ishida-41b59864",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E8%88%AA%E5%A4%AA%E9%83%8E-%E6%9D%BE%E6%9C%AC-05020b272",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TDUwebmaster/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/dendaiogkai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/dendai.fi.info/?locale=en_US",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tduaa1909/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tag/%E6%9D%B1%E4%BA%AC%E9%9B%BB%E6%A9%9F%E5%A4%A7%E5%AD%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shokabo/n/nc55af1ad1be7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/matsuilab/n/n435169cb2919",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/TDU_webmaster",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tdu_kouhou_m",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "東京電機大学",
+   "results": [
+    "https://www.dendai.ac.jp/",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%9B%BB%E6%A9%9F%E5%A4%A7%E5%AD%A6",
+    "https://passnavi.obunsha.co.jp/univ/2850/top/",
+    "https://x.com/TDU_webmaster",
+    "https://www.facebook.com/TDUwebmaster/",
+    "https://ja.wikipedia.org/wiki/東京電機大学",
+    "https://en.wikipedia.org/wiki/Tokyo_Denki_University",
+    "https://www.minkou.jp/university/school/20262/",
+    "https://www.minkou.jp/university/school/deviation/20262/",
+    "https://www.dendai.ac.jp/en/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "東京電機大学 会社概要 資本金 設立",
+   "results": [
+    "https://job.mynavi.jp/28/pc/search/corp94541/outline.html",
+    "https://www.dendai.ac.jp/about/gakuen/outline/",
+    "https://www.dendai.ac.jp/about/tdu/information/r04_3-3.pdf",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3011805002185",
+    "https://www.dendai.ac.jp/about/gakuen/jigyo/",
+    "https://www.tdupress.jp/company/cc1557.html",
+    "https://job.mynavi.jp/27/pc/search/corp94541/outline.html",
+    "https://doda.jp/DodaFront/View/Company/j_id__00011048399/",
+    "https://www.dendai.ac.jp/about/gakuen/jigyo/r5.pdf",
+    "https://ja.wikipedia.org/wiki/東京電機大学"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "東京電機大学 金属3Dプリンタ 導入",
+   "results": [
+    "https://mono.dendai.ac.jp/2024/04/27/20240427_01/",
+    "https://mono.dendai.ac.jp/2023/03/22/20230322_01/",
+    "https://www.youtube.com/watch?v=teF6HEZhdlo",
+    "https://kk-ariga.co.jp/metal_3d_printer/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B/",
+    "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://news.sharelab.jp/category/3dp-news/metal-3dprinter/",
+    "https://www.instagram.com/p/DXF2OKfkwff/",
+    "https://monoist.itmedia.co.jp/mn/series/9763/",
+    "https://www.dendai.ac.jp/about/tdu/facility/monozukuri.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "東京電機大学 金属積層造形 設備",
+   "results": [
+    "https://mono.dendai.ac.jp/2024/04/27/20240427_01/",
+    "https://mono.dendai.ac.jp/2023/10/19/20231019_01/",
+    "https://jampt.jp/",
+    "https://mono.dendai.ac.jp/2022/11/29/20221129_01/",
+    "https://www.instagram.com/p/DXF2OKfkwff/",
+    "https://mono.dendai.ac.jp/2025/12/26/%E4%BD%9C%E5%93%81%E9%9B%86%E3%82%92%E6%9B%B4%E6%96%B0%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82/",
+    "https://chuokatan.co.jp/products/3dp/",
+    "https://x.com/MonoDendai",
+    "https://www.pref.chiba.lg.jp/sanken/kikisetsubi/manufacturing/modelling/metal-x.html",
+    "https://www.jfe-steel.co.jp/products/solution/metal-3d-printing/index.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "東京電機大学 株主 出資 親会社",
+   "results": [
+    "https://www.dendai.ac.jp/about/tdu/history/chronology.html",
+    "https://www.osaki.co.jp/ja/ir/news/auto_20230629111300_S100R2P7/pdfFile.pdf",
+    "https://www.fsisb.co.jp/ir/20160629.pdf",
+    "https://www.dendai.ac.jp/about/gakuen/institutions/",
+    "https://job.mynavi.jp/28/pc/search/corp225404/outline.html",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%9B%BB%E5%8A%9B%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "https://www.fctokyo.co.jp/club/shareholders/",
+    "https://prtimes.jp/main/html/rd/p/000000055.000083531.html",
+    "https://www.nikkei.com/article/DGXZQOUC088IW0Y6A400C2000000/",
+    "https://ja.wikipedia.org/wiki/東京電機大学"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "東京電機大学 売上高 従業員数",
+   "results": [
+    "https://job.mynavi.jp/27/pc/search/corp94541/outline.html",
+    "https://www.dendai.ac.jp/about/gakuen/outline/",
+    "https://job.mynavi.jp/28/pc/search/corp94541/outline.html",
+    "https://www.dendai.ac.jp/about/gakuen/jigyo/r6.html",
+    "https://www.dendai.ac.jp/about/gakuen/jigyo/r5.pdf",
+    "https://www.dendai.ac.jp/recruit/",
+    "https://www.dendai.ac.jp/about/tdu/information/r06.html",
+    "https://www.onecareer.jp/companies/83035",
+    "https://www.openwork.jp/company.php?m_id=a0C1000001Tdfn9",
+    "https://ja.wikipedia.org/wiki/東京電機大学"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 東京電機大学",
+   "results": [
+    "https://note.com/hashtag/%E6%9D%B1%E4%BA%AC%E9%9B%BB%E6%A9%9F%E5%A4%A7%E5%AD%A6",
+    "https://note.com/skillpass/n/nc21a792e9d0c",
+    "https://note.com/mat_tea3/n/ne6a9a8bb0787",
+    "https://note.com/skillpass/n/n5b775b95e75e",
+    "https://note.com/shokabo/n/nc55af1ad1be7",
+    "https://note.com/kuroda0805/n/n9bb885f86191",
+    "https://note.com/cvpaperchallenge/n/n435b30ebc149",
+    "https://note.com/tdu_soccer",
+    "https://note.com/juku_support/n/n71a5145320c2",
+    "https://note.com/online_hennyu/n/ne7a4e19947a6"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:x.com 東京電機大学",
+   "results": [
+    "https://x.com/TDU_webmaster",
+    "https://x.com/tdu_kouhou_m",
+    "https://x.com/TDU_webmaster/all?lang=ar",
+    "https://x.com/TDU_JH",
+    "https://x.com/TDU_webmaster/with_replies",
+    "https://x.com/tduinter",
+    "https://x.com/TDU_Press",
+    "https://x.com/re_tdu",
+    "https://x.com/tdu_navi",
+    "https://x.com/tdu_homecoming"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:linkedin.com 東京電機大学",
+   "results": [
+    "https://jp.linkedin.com/school/%E6%9D%B1%E4%BA%AC%E9%9B%BB%E6%A9%9F%E5%A4%A7%E5%AD%A6/",
+    "https://jp.linkedin.com/school/%E6%9D%B1%E4%BA%AC%E9%9B%BB%E6%A9%9F%E5%A4%A7%E5%AD%A6/people",
+    "https://jp.linkedin.com/in/atsuko-ishida-41b59864",
+    "https://jp.linkedin.com/in/%E8%88%AA%E5%A4%AA%E9%83%8E-%E6%9D%BE%E6%9C%AC-05020b272",
+    "https://jp.linkedin.com/in/shuichi-sato-33a76b244/ja",
+    "https://jp.linkedin.com/in/ayame-uchida0609",
+    "https://jp.linkedin.com/in/%E5%B0%86%E5%A4%A7-%E5%B1%B1%E7%94%B0-0989b01a2",
+    "https://jp.linkedin.com/in/genki-sasaki-064322a1/ja",
+    "https://jp.linkedin.com/in/%E5%8D%9A%E6%98%AD-%E5%B0%8F%E8%B6%8A-5847a8232",
+    "https://jp.linkedin.com/in/makoto-hasegawa-19190228/ja"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com 東京電機大学",
+   "results": [
+    "https://www.facebook.com/TDUwebmaster/",
+    "https://www.facebook.com/dendaiogkai/",
+    "https://www.facebook.com/dendai.fi.info/?locale=en_US",
+    "https://www.facebook.com/tduaa1909/?locale=ja_JP",
+    "https://www.facebook.com/tduarafunelab/?locale=ja_JP",
+    "https://www.facebook.com/jimubu/?locale=ja_JP",
+    "https://www.facebook.com/pages/%E6%9D%B1%E4%BA%AC%E9%9B%BB%E6%A9%9F%E5%A4%A7%E5%AD%A6/106377819400095",
+    "https://www.facebook.com/TDUwebmaster/videos/%E6%9D%B1%E4%BA%AC%E9%9B%BB%E6%A9%9F%E5%A4%A7%E5%AD%A6%E7%90%86%E5%B7%A5%E5%AD%A6%E9%83%A8%E3%81%A7%E3%81%AF2%E5%B9%B4%E6%AC%A1%E9%80%B2%E7%B4%9A%E6%99%82%E3%81%AB%E4%B8%BB%E3%82%B3%E3%83%BC%E3%82%B9%E3%81%A8%E5%89%AF%E3%82%B3%E3%83%BC%E3%82%B9%E3%82%92%E9%81%B8%E6%8A%9E%E3%81%97%E3%81%BE%E3%81%99-%E4%B8%BB%E3%82%B3%E3%83%BC%E3%82%B9%E3%81%AF%E8%87%AA%E5%88%86%E3%81%AE%E6%89%80%E5%B1%9E%E5%AD%A6%E7%B3%BB%E3%81%AE%E4%B8%AD%E3%81%8B%E3%82%89%E9%81%B8%E3%81%B3%E5%89%AF%E3%82%B3%E3%83%BC%E3%82%B9%E3%81%AF%E6%89%80%E5%B1%9E%E5%AD%A6%E7%B3%BB%E3%81%8B%E3%82%89%E3%81%A7%E3%82%82%E6%89%80%E5%B1%9E%E5%AD%A6%E7%B3%BB%E4%BB%A5%E5%A4%96%E3%81%8B%E3%82%89%E3%81%A7%E3%82%82%E9%81%B8%E6%8A%9E%E3%81%A7%E3%81%8D/2047237279144911/",
+    "https://www.facebook.com/p/%E6%9D%B1%E4%BA%AC%E9%9B%BB%E6%A9%9F%E5%A4%A7%E5%AD%A6%E7%90%86%E5%B7%A5%E5%AD%A6%E9%83%A8%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8-100062920255641/",
+    "https://www.facebook.com/dendaidosokai/?locale=ja_JP"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "東京電機大学 note 社長",
+   "results": [
+    "https://note.com/hashtag/%E6%9D%B1%E4%BA%AC%E9%9B%BB%E6%A9%9F%E5%A4%A7%E5%AD%A6",
+    "https://note.com/shokabo/n/nc55af1ad1be7",
+    "https://campus.nikki.ne.jp/university/866/",
+    "https://note.com/matsuilab/n/n435169cb2919",
+    "https://www.instagram.com/p/DWvSH5UgWoZ/",
+    "https://note.com/shokabo/n/n702169d9662b",
+    "https://www.dendai.ac.jp/about/gakuen/chairperson/",
+    "https://www.dendai.ac.jp/news/c6md4s00000006j0-att/c6md4s00000006l3.pdf",
+    "https://ja.wikipedia.org/wiki/東京電機大学の人物一覧",
+    "https://www.minkou.jp/university/school/senior/20262/se=5/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "東京電機大学 X 投稿",
+   "results": [
+    "https://x.com/TDU_webmaster",
+    "https://nlab.itmedia.co.jp/cont/articles/3388832/",
+    "https://x.com/tdu_kouhou_m",
+    "https://www.youtube.com/shorts/kqO4lhKVpvQ",
+    "https://scan.netsecurity.ne.jp/article/2024/11/14/51913.html",
+    "https://x.com/TDU_JH",
+    "https://www.instagram.com/reel/DQrB4bkEWrO/",
+    "https://www.instagram.com/dendai_girls/",
+    "https://search.yahoo.co.jp/realtime/search/東京電機大学/",
+    "https://www.instagram.com/tdu_nyushi/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部32頁・検索12回）",
+  "資本金": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部32頁・検索12回）",
+  "創業年度": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部32頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部32頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部32頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部32頁・検索12回）",
+  "金属AM装置の保有（型番・製造元・台数・導入年）": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部32頁・検索12回）",
+  "使っている金属粉（材質）": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部32頁・検索12回）"
+ }
+}

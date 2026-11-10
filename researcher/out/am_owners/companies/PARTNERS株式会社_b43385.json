@@ -1,0 +1,355 @@
+{
+ "name": "PARTNERS株式会社",
+ "aliases": [],
+ "context": "PBF=yes 装置=DMP Factory;DMP Flex;パウダーベッド 出典=https://partners.solize.com/3dp-sales/3dsystems/dmp-factory-500",
+ "researched_at": "2026-11-10T17:12:42.306619+00:00",
+ "official_url": "https://investor.accelerant.ai/",
+ "identified_by": "search:ddgs:google:PARTNERS",
+ "profile": {},
+ "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "Accelerant Announces Partnership With New Third-Party Capitalized... — Jul 13, 2026 · WoodStar formed to provide dedicated underwriting capacity via the Accelerant Risk Exchange Accelerant (NYSE: ARX), the data-driven risk exchange platform transforming the specialty insurance marketplace through the Accelerant Risk Exchange, today announced a partnership with newly formed WoodStar Reciprocal Exch",
+    "url": "https://investor.accelerant.ai/news/news-details/2026/Accelerant-Announces-Partnership-With-New-Third-Party-Capitalized-Insurer-WoodStar/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Accelerant Announces Partnership with AF Specialty to Expand Risk... — Sep 11, 2025 · ATLANTA – September 11, 2025 – Accelerant (NYSE:ARX), a leading data-driven Risk Exchange for specialty insurance, today announced a new risk capital partnership with AF Specialty, a division of Michigan-based AF Group known for its specialty program and delegated underwriting authority platform. The partnership ",
+    "url": "https://accelerant.ai/resources/accelerant-announces-partnership-with-af-specialty-to-expand-risk-exchange-capacity/",
+    "pass": 3
+   },
+   {
+    "quote": "Risk Capital Partners | Accelerant Risk Exchange — Accelerant's Risk Exchange portfolio’s strong returns promote confidence from our risk capital partners. Learn more",
+    "url": "https://accelerant.ai/risk-capital-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "The Accelerant Risk Exchange — Our digital-first Risk Exchange provides a seamless and transparent experience for Members and Risk Capital Partners supported by insight-rich data and analytics.",
+    "url": "https://accelerant.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Accelerant Risk Exchange — Our digital-first Risk Exchange provides a seamless and transparent experience for Members and Risk Capital Partners supported by insight-rich data and analytics.",
+    "url": "https://accelerant.ai/?m=pc&a=page_h_home",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://investor.accelerant.ai/overview/default.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://investor.accelerant.ai/about-accelerant/default.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://investor.accelerant.ai/news/default.aspx",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://accelerant.ai/resources/accelerant-announces-partnership-with-af-specialty-to-expand-risk-exchange-capacity/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://accelerant.ai/risk-capital-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://accelerant.ai/resources/accelerant-announces-partnership-with-af-specialty-to-expand-risk-exchange-capacity/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://accelerant.ai/risk-capital-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://accelerant.ai/resources/accelerant-announces-partnership-with-af-specialty-to-expand-risk-exchange-capacity/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://accelerant.ai/risk-capital-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://accelerant.ai/resources/accelerant-announces-partnership-with-af-specialty-to-expand-risk-exchange-capacity/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://accelerant.ai/risk-capital-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://accelerant.ai/resources/accelerant-announces-partnership-with-af-specialty-to-expand-risk-exchange-capacity/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://accelerant.ai/risk-capital-partners/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "PARTNERS",
+   "results": [
+    "https://ja.wikipedia.org/wiki/PARTNERSHIP",
+    "https://grokipedia.com/page/partners_scherrie_susaye_album",
+    "https://investor.accelerant.ai/news/news-details/2026/Accelerant-Announces-Partnership-With-New-Third-Party-Capitalized-Insurer-WoodStar/default.aspx",
+    "https://accelerant.ai/resources/accelerant-announces-partnership-with-af-specialty-to-expand-risk-exchange-capacity/",
+    "https://accelerant.ai/risk-capital-partners/",
+    "https://accelerant.ai/",
+    "https://accelerant.ai/?m=pc&a=page_h_home",
+    "https://investor.accelerant.ai/overview/",
+    "https://accelerant.ai/resources/accelerant-launches-the-accelerant-risk-exchange-to-reimagine-insurance/",
+    "https://app.accelerant.ai/account/settings"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "PARTNERS 会社概要 資本金 設立",
+   "results": [
+    "https://investor.accelerant.ai/news/news-details/2026/Accelerant-Announces-Partnership-With-New-Third-Party-Capitalized-Insurer-WoodStar/default.aspx",
+    "https://accelerant.ai/resources/accelerant-announces-partnership-with-af-specialty-to-expand-risk-exchange-capacity/",
+    "https://accelerant.ai/risk-capital-partners/",
+    "https://accelerant.ai/",
+    "https://accelerant.ai/?m=pc&a=page_h_home",
+    "https://investor.accelerant.ai/overview/",
+    "https://accelerant.ai/resources/accelerant-launches-the-accelerant-risk-exchange-to-reimagine-insurance/",
+    "https://app.accelerant.ai/account/settings",
+    "https://app.accelerant.ai/auth/terms",
+    "https://status.app.accelerant.ai/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "PARTNERS 金属3Dプリンタ 導入",
+   "results": [
+    "https://investor.accelerant.ai/news/news-details/2026/Accelerant-Announces-Partnership-With-New-Third-Party-Capitalized-Insurer-WoodStar/default.aspx",
+    "https://accelerant.ai/resources/accelerant-announces-partnership-with-af-specialty-to-expand-risk-exchange-capacity/",
+    "https://accelerant.ai/risk-capital-partners/",
+    "https://accelerant.ai/",
+    "https://accelerant.ai/?m=pc&a=page_h_home",
+    "https://investor.accelerant.ai/overview/",
+    "https://accelerant.ai/resources/accelerant-launches-the-accelerant-risk-exchange-to-reimagine-insurance/",
+    "https://app.accelerant.ai/account/settings",
+    "https://app.accelerant.ai/auth/terms",
+    "https://status.app.accelerant.ai/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "PARTNERS 金属積層造形 設備",
+   "results": [
+    "https://investor.accelerant.ai/news/news-details/2026/Accelerant-Announces-Partnership-With-New-Third-Party-Capitalized-Insurer-WoodStar/default.aspx",
+    "https://accelerant.ai/resources/accelerant-announces-partnership-with-af-specialty-to-expand-risk-exchange-capacity/",
+    "https://accelerant.ai/risk-capital-partners/",
+    "https://accelerant.ai/",
+    "https://accelerant.ai/?m=pc&a=page_h_home",
+    "https://investor.accelerant.ai/overview/",
+    "https://accelerant.ai/resources/accelerant-launches-the-accelerant-risk-exchange-to-reimagine-insurance/",
+    "https://app.accelerant.ai/account/settings",
+    "https://app.accelerant.ai/auth/terms",
+    "https://status.app.accelerant.ai/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "PARTNERS 株主 出資 親会社",
+   "results": [
+    "https://investor.accelerant.ai/news/news-details/2026/Accelerant-Announces-Partnership-With-New-Third-Party-Capitalized-Insurer-WoodStar/default.aspx",
+    "https://accelerant.ai/resources/accelerant-announces-partnership-with-af-specialty-to-expand-risk-exchange-capacity/",
+    "https://accelerant.ai/risk-capital-partners/",
+    "https://accelerant.ai/",
+    "https://accelerant.ai/?m=pc&a=page_h_home",
+    "https://investor.accelerant.ai/overview/",
+    "https://accelerant.ai/resources/accelerant-launches-the-accelerant-risk-exchange-to-reimagine-insurance/",
+    "https://app.accelerant.ai/account/settings",
+    "https://app.accelerant.ai/auth/terms",
+    "https://status.app.accelerant.ai/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "PARTNERS 売上高 従業員数",
+   "results": [
+    "https://investor.accelerant.ai/news/news-details/2026/Accelerant-Announces-Partnership-With-New-Third-Party-Capitalized-Insurer-WoodStar/default.aspx",
+    "https://accelerant.ai/resources/accelerant-announces-partnership-with-af-specialty-to-expand-risk-exchange-capacity/",
+    "https://accelerant.ai/risk-capital-partners/",
+    "https://accelerant.ai/",
+    "https://accelerant.ai/?m=pc&a=page_h_home",
+    "https://investor.accelerant.ai/overview/",
+    "https://accelerant.ai/resources/accelerant-launches-the-accelerant-risk-exchange-to-reimagine-insurance/",
+    "https://app.accelerant.ai/account/settings",
+    "https://app.accelerant.ai/auth/terms",
+    "https://status.app.accelerant.ai/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:note.com PARTNERS",
+   "results": [
+    "https://investor.accelerant.ai/news/news-details/2026/Accelerant-Announces-Partnership-With-New-Third-Party-Capitalized-Insurer-WoodStar/default.aspx",
+    "https://accelerant.ai/resources/accelerant-announces-partnership-with-af-specialty-to-expand-risk-exchange-capacity/",
+    "https://accelerant.ai/risk-capital-partners/",
+    "https://accelerant.ai/",
+    "https://accelerant.ai/?m=pc&a=page_h_home",
+    "https://investor.accelerant.ai/overview/",
+    "https://accelerant.ai/resources/accelerant-launches-the-accelerant-risk-exchange-to-reimagine-insurance/",
+    "https://app.accelerant.ai/account/settings",
+    "https://app.accelerant.ai/auth/terms",
+    "https://status.app.accelerant.ai/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:x.com PARTNERS",
+   "results": [
+    "https://investor.accelerant.ai/news/news-details/2026/Accelerant-Announces-Partnership-With-New-Third-Party-Capitalized-Insurer-WoodStar/default.aspx",
+    "https://accelerant.ai/resources/accelerant-announces-partnership-with-af-specialty-to-expand-risk-exchange-capacity/",
+    "https://accelerant.ai/risk-capital-partners/",
+    "https://accelerant.ai/",
+    "https://accelerant.ai/?m=pc&a=page_h_home",
+    "https://investor.accelerant.ai/overview/",
+    "https://accelerant.ai/resources/accelerant-launches-the-accelerant-risk-exchange-to-reimagine-insurance/",
+    "https://app.accelerant.ai/account/settings",
+    "https://app.accelerant.ai/auth/terms",
+    "https://status.app.accelerant.ai/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com PARTNERS",
+   "results": [
+    "https://investor.accelerant.ai/news/news-details/2026/Accelerant-Announces-Partnership-With-New-Third-Party-Capitalized-Insurer-WoodStar/default.aspx",
+    "https://accelerant.ai/resources/accelerant-announces-partnership-with-af-specialty-to-expand-risk-exchange-capacity/",
+    "https://accelerant.ai/risk-capital-partners/",
+    "https://accelerant.ai/",
+    "https://accelerant.ai/?m=pc&a=page_h_home",
+    "https://investor.accelerant.ai/overview/",
+    "https://accelerant.ai/resources/accelerant-launches-the-accelerant-risk-exchange-to-reimagine-insurance/",
+    "https://app.accelerant.ai/account/settings",
+    "https://app.accelerant.ai/auth/terms",
+    "https://status.app.accelerant.ai/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:facebook.com PARTNERS",
+   "results": [
+    "https://investor.accelerant.ai/news/news-details/2026/Accelerant-Announces-Partnership-With-New-Third-Party-Capitalized-Insurer-WoodStar/default.aspx",
+    "https://accelerant.ai/resources/accelerant-announces-partnership-with-af-specialty-to-expand-risk-exchange-capacity/",
+    "https://accelerant.ai/risk-capital-partners/",
+    "https://accelerant.ai/",
+    "https://accelerant.ai/?m=pc&a=page_h_home",
+    "https://investor.accelerant.ai/overview/",
+    "https://accelerant.ai/resources/accelerant-launches-the-accelerant-risk-exchange-to-reimagine-insurance/",
+    "https://app.accelerant.ai/account/settings",
+    "https://app.accelerant.ai/auth/terms",
+    "https://status.app.accelerant.ai/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "PARTNERS note 社長",
+   "results": [
+    "https://www.thesaurus.com/browse/share",
+    "https://www.thesaurus.com/browse/share-ideas",
+    "https://www.thesaurus.com/browse/share-in",
+    "https://www.thesaurus.com/browse/contributes",
+    "https://www.thesaurus.com/browse/willingness",
+    "https://www.thesaurus.com/browse/in-common",
+    "https://www.thesaurus.com/browse/divvy-up",
+    "https://www.thesaurus.com/browse/responsibility",
+    "https://www.thesaurus.com/browse/percentage",
+    "https://www.thesaurus.com/browse/debris"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "PARTNERS X 投稿",
+   "results": [
+    "https://investor.accelerant.ai/news/news-details/2026/Accelerant-Announces-Partnership-With-New-Third-Party-Capitalized-Insurer-WoodStar/default.aspx",
+    "https://accelerant.ai/resources/accelerant-announces-partnership-with-af-specialty-to-expand-risk-exchange-capacity/",
+    "https://accelerant.ai/risk-capital-partners/",
+    "https://accelerant.ai/",
+    "https://accelerant.ai/?m=pc&a=page_h_home",
+    "https://investor.accelerant.ai/overview/",
+    "https://accelerant.ai/resources/accelerant-launches-the-accelerant-risk-exchange-to-reimagine-insurance/",
+    "https://app.accelerant.ai/account/settings",
+    "https://app.accelerant.ai/auth/terms",
+    "https://status.app.accelerant.ai/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部10頁・検索12回）",
+  "資本金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部10頁・検索12回）",
+  "創業年度": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部10頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部10頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部10頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部10頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部10頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部10頁・検索12回）",
+  "金属AM装置の保有（型番・製造元・台数・導入年）": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部10頁・検索12回）",
+  "使っている金属粉（材質）": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部10頁・検索12回）",
+  "用途・客の産業": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部10頁・検索12回）",
+  "資本金・株主": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部10頁・検索12回）"
+ }
+}

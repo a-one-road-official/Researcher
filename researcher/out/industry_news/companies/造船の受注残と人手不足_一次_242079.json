@@ -9,56 +9,62 @@
  ],
  "context": "8 造船 ④受注残と人手",
  "kind": "market",
- "researched_at": "2026-11-09T07:02:42.945096+00:00",
+ "researched_at": "2026-11-10T17:09:07.855172+00:00",
  "evidence": {
-  "顧客の顧客（発注元が求めること）": [
+  "政治（法・予算・規制）": [
    {
-    "quote": "財務省の1,877人調査、東京23区の家賃高騰、総合職の離職状況を基に、8,500戸の改修計画が遅れる構造、BCP拠点としての役割、断熱・省エネまで含む資産再生の条件を詳しく解説する",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
+    "quote": "造船・舶用に関わる人の必修ニュース 2026年7月第1週｜日本建造バルカー船価が強含み・政府成長戦略に造船明記・さんふらわあRORO3隻を内海造船で──これだけ押さえれば情報通",
+    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "日本建造バルカーの新造船価が強含み、NOx規制改正の駆け込み発注や期近納期の高値成約も",
+    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "政府の日本成長戦略に造船が明記されLNG船年3〜5隻を経済安保と位置づけ",
+    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "ゼロエミッション船等建造促進事業とは｜GX補助金の採択34件・補助額一覧と二次公募（10月9日締切）【2026年9月最新】",
+    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "売上トップ10、有報ベースの平均年収、造船業再生基金の認定額までわかる、就活・転職・投資に役立つ決定版です",
+    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "財務省の1,877人調査、東京23区の家賃高騰、総合職の離職状況を基に、8,500戸の改修計画が遅れる構造、BCP拠点としての役割、断熱・省エネまで含む資産再生の条件を詳しく解説する",
+    "quote": "三菱重工業とオーストラリア政府が、豪海軍の次期汎用フリゲートとして「もがみ型」能力向上型11隻の共同開発・生産契約を締結",
+    "url": "https://zosenblog.com/zosenshoraisei2026/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "インドで磨いた4つの融資モデル、国際開発金融機関との連携効果、インドネシアで表面化した貸倒リスクを検証し、海外事業の収益性と投資家が注視すべき指標を金融・規制の両面から読み解く",
     "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "日本造船業に起きた静かな革命──1兆円投資・歴史的統合・脱炭素が描く2030年の航海図｜2025年度総括",
-    "url": "https://zosenblog.com/zeroemisennhojyokin/",
+    "quote": "今治造船・川崎重工・名村造船所の決意表明、伊万里の新ドック案とGOCO方式、メンブレン技術をめぐる日韓政府間交渉、船価差への国費補助まで、「誰が・どこで・どうやって・いくらで」を業界ウォッチャーが深読みします",
+    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-08"
    },
    {
-    "quote": "政府が官民投資工程表で国産LNG運搬船「2035年以降に年3〜5隻」の建造再開を明記、海事局は27年度概算要求も視野",
-    "url": "https://zosenblog.com/zeroemisennhojyokin/",
+    "quote": "どうなる？！日本の造船業界｜受注残・JMU統合・政府3500億円支援で読む今後の展望【2026年最新】",
+    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
     "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "USTR301条が日本造船に与える追い風、新型FFM 3隻追加受注(1286億円)、LNG船国内建造復活議論の結論時期、中東情勢の納期遅延リスク、造船業再生基金1200億円まで一次情報で整理",
-    "url": "https://zosenblog.com/zeroemisennhojyokin/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "日本海事新聞・日刊産業新聞・鉄鋼新聞を毎週読み込み、公式IR・官公庁資料と照合したうえで、業界ニュースをわかりやすく解説しています",
-    "url": "https://zosenblog.com/zeroemisennhojyokin/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "船舶建造体制の強靱化、造船人材の確保と育成、脱炭素化を通じたゲームチェンジ、安定的な需要の確保、同志国とグローバルサウスとの連携です",
-    "url": "https://timewell.jp/columns/japan-shipbuilding-revival-economic-security-defense-2026",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "艦艇の建造は限られた造船事業者とサプライヤーに集中しており、事業撤退でサプライチェーンの脆弱化が進んでいる、という記述もあります",
-    "url": "https://timewell.jp/columns/japan-shipbuilding-revival-economic-security-defense-2026",
-    "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-08"
    },
    {
     "quote": "造船・舶用に関わる人の必修ニュース 2026年9月第1週｜再生基金が初認定・今治/JMU/名村に最大計2,131億円・防衛省要求は過去最大",
@@ -73,265 +79,331 @@
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "東京港大井ふ頭再編とは 処理能力1.4倍化とDX脱炭素を解説",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
+    "quote": "投資家が受注残・資金調達・規制の実行度からAI投資の持続性を見極める方法を解説する",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "486万TEUを扱う東京港のDX、完全予約制、脱炭素、岸壁増深が小売と消費財物流に与える影響を読み解く",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
+    "quote": "一方、米中貿易は縮小し、半導体規制と台湾問題は残る",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "中国の受注残首位が新興・恒力造船に交代、HD現代の上期受注90%増、川崎重工の船舶部門24%増益、商談は2030年代納期へ",
+    "quote": "三菱重工が下関の人工島に約1,000億円の建造能力拡大、カナデビアと日鉄エンジの統合破談、再生基金の支援条件、ギリシャ船主の常石発注までまとめて解説します",
     "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "造船業界の将来性は？｜手持ち工事量3.5年分・3強時代・防衛・自律運航・脱炭素で『再復活』フェーズの実像を一次情報で徹底解説",
-    "url": "https://zosenblog.com/2024zosengyokai/",
+    "quote": "三菱重工業とオーストラリア政府が、豪海軍の次期汎用フリゲートとして「もがみ型」能力向上型11隻の共同開発・生産契約を締結",
+    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "手持ち工事量3.5年分の好況、主要各社が過去最高水準の決算、3強時代の再編、艦艇輸出・自律運航・脱炭素という新競争軸、リスクとFAQまで客観的に整理した完全ガイド",
-    "url": "https://zosenblog.com/2024zosengyokai/",
+    "quote": "造船・舶用に関わる人の必修ニュース 2026年7月第1週｜日本建造バルカー船価が強含み・政府成長戦略に造船明記・さんふらわあRORO3隻を内海造船で──これだけ押さえれば情報通",
+    "url": "https://zosenblog.com/zosenshoraisei2026/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "政府が官民投資工程表で国産LNG運搬船「2035年以降に年3〜5隻」の建造再開を明記、海事局は27年度概算要求も視野",
-    "url": "https://zosenblog.com/2024zosengyokai/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "造船・舶用に関わる人の必修ニュース 2026年9月第1週｜再生基金が初認定・今治/JMU/名村に最大計2,131億円・防衛省要求は過去最大",
-    "url": "https://zosenblog.com/261024zosentopix/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "造船業再生基金が今治造船・JMU・名村造船所の3件に最大計2,131億円で初認定、九州には官民3,000億円のクラスター計画、防衛省の概算要求は過去最大に",
-    "url": "https://zosenblog.com/261024zosentopix/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "日本造船業に起きた静かな革命──1兆円投資・歴史的統合・脱炭素が描く2030年の航海図｜2025年度総括",
+    "quote": "日本造船 大復活ロードマップ｜官民1兆円投資・再生基金3,500億円・今治×JMU連合・LNG船とアンモニア船で造船大国を取り戻す｜2026年9月最新版",
     "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "9月も17隻の輸出船を受注し、納期は2030年度まで埋まり始めました",
+    "quote": "日本の造船会社ランキング2026｜売上・年収・将来性を最新決算で比較【再生基金の認定一覧つき】",
     "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "日本海事新聞・日刊産業新聞・鉄鋼新聞を毎週読み込み、公式IR・官公庁資料と照合したうえで、業界ニュースをわかりやすく解説しています",
+    "quote": "日本造船 補助金マップ完全解説｜造船業再生基金3,500億円（8件認定）＋GX移行債＋GI基金の3層支援を一覧で｜2026年9月最新版",
     "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "日本の造船所では納期・船型・生産性が競争力の焦点に",
+    "quote": "熟練技能者を「舶用マイスター」に認定し、今年度の34人で累計628人に",
+    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "──再生基金の対象案件で、ロボット・AIへの投資がどこまで進むか",
+    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "深読み解説｜ステンレスの反ダンピング関税は何を変えるか──国内メーカーの営業利益は3年で6割減、中国・台湾材は減っても輸入は東南アジアへ",
+    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本では2026年9月、造船業再生基金を通じた設備投資の供給確保計画が相次いで認定され、建造能力の強化が実際の投資段階へ進みました",
     "url": "https://www.atpress.ne.jp/news/5632976",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "今後の競争力を評価するには、建造隻数だけでなく、収益性の高い船型への対応、納期遵守、ドックの利用効率、設計・製造の標準化などを総合的に確認する必要があります",
+    "quote": "日本の造船業再生：2026年の投資認定が建造能力強化を後押し",
     "url": "https://www.atpress.ne.jp/news/5632976",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "輸送需要の変化は新造船発注に影響しますが、設備要件や納期の違いも船価を左右します",
+    "quote": "2026年9月4日と11日、国土交通省は造船業再生基金に係る供給確保計画を合計8件認定しました",
     "url": "https://www.atpress.ne.jp/news/5632976",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "日本市場では、設備投資が進むことを出発点として、建造能力の増強が納期、製品構成、収益性の改善につながるかを継続的に見極める必要があります",
+    "quote": "燃料供給設備や規制の進展は地域によって異なるため、特定の方式が世界市場を一律に主導すると断定することはできません",
     "url": "https://www.atpress.ne.jp/news/5632976",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "地域別の建造能力、価格、船種の専門性、納期、主要部材の調達網を比較することが重要です",
+    "quote": "2026年9月には造船業再生基金に係る8件の供給確保計画が認定され、官民合わせて約9,000億円規模の投資が見込まれています",
     "url": "https://www.atpress.ne.jp/news/5632976",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "脱炭素化と造船DXが変える発注・投資の判断基準",
-    "url": "https://www.atpress.ne.jp/news/5632976",
+    "quote": "売上トップ10、有報ベースの平均年収、造船業再生基金の認定額までわかる、就活・転職・投資に役立つ決定版です",
+    "url": "https://zosenblog.com/zosenshoraisei2026/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "日本造船業に起きた静かな革命──1兆円投資・歴史的統合・脱炭素が描く2030年の航海図｜2025年度総括",
+    "quote": "日本の造船業界は今後どうなる？再生基金・JMU統合から読む展望【2026年】 | ぞうせんブログ",
     "url": "https://zosenblog.com/2024zosengyokai/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "と高水準を保ち、納期別では2029年度が49%、2030年度が32%と、受注の中心はすでに「3〜4年先」の船です（日本船舶輸出組合の発表、日本海事新聞 2026年7月15日付）",
+    "quote": "日本の造船会社ランキング2026｜売上・年収・将来性を最新決算で比較【再生基金の認定一覧つき】",
     "url": "https://zosenblog.com/2024zosengyokai/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "造船・舶用 直近トピックス 2026年5月17日｜本決算ラッシュ総まとめ・各社過去最高水準・30年度納期じわり拡大",
+    "quote": "日本造船 補助金マップ完全解説｜造船業再生基金3,500億円（8件認定）＋GX移行債＋GI基金の3層支援を一覧で｜2026年9月最新版",
     "url": "https://zosenblog.com/2024zosengyokai/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "手持ち工事量約3.5年分、4月新造船受注66万GT(+6%)、30年度納期がじわり拡大の最新動向を出典明示で整理",
+    "quote": "日本造船 大復活ロードマップ｜官民1兆円投資・再生基金3,500億円・今治×JMU連合・LNG船とアンモニア船で造船大国を取り戻す｜2026年9月最新版",
     "url": "https://zosenblog.com/2024zosengyokai/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "日本海事新聞・日刊産業新聞・鉄鋼新聞を毎週読み込み、公式IR・官公庁資料と照合したうえで、業界ニュースをわかりやすく解説しています",
+    "quote": "どうなる？！日本の造船業界｜受注残・JMU統合・政府3500億円支援で読む今後の展望【2026年最新】",
     "url": "https://zosenblog.com/2024zosengyokai/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "日本の造船所では納期・船型・生産性が競争力の焦点に",
+    "quote": "今治造船×JMU統合・政府の造船業再生基金（10年3,500億円）・手持ち工事量約3.6年分など、",
+    "url": "https://zosenblog.com/2024zosengyokai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "造船業再生基金が初認定（2026年9月）",
+    "url": "https://zosenblog.com/2024zosengyokai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "──9月4日・11日に計8件を認定",
+    "url": "https://zosenblog.com/2024zosengyokai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "官民投資は総額9,000億円規模、基金からの支援は最大約3,110億円",
+    "url": "https://zosenblog.com/2024zosengyokai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "──長崎県が造船サプライチェーン強靭化に1.6億円の補正予算案（中堅企業の設備投資に上限3,000万円補助）",
+    "url": "https://zosenblog.com/2024zosengyokai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ライドシェア全面解禁と憲法論 経済規制の裁量を生かす制度設計",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "憲法22条の営業の自由、薬局距離制限違憲判決、道路運送法78条を手掛かりに、安全・労働・競争・個人情報を守りながら、国の広い経済規制裁量を地方実証と事後規制へ転換する制度設計、政治が果たすべき説明責任を解説する",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本では2026年9月、造船業再生基金を通じた設備投資の供給確保計画が相次いで認定され、建造能力の強化が実際の投資段階へ進みました",
     "url": "https://newscast.jp/smart/news/5632976",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "今後の競争力を評価するには、建造隻数だけでなく、収益性の高い船型への対応、納期遵守、ドックの利用効率、設計・製造の標準化などを総合的に確認する必要があります",
+    "quote": "日本の造船業再生：2026年の投資認定が建造能力強化を後押し",
     "url": "https://newscast.jp/smart/news/5632976",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "輸送需要の変化は新造船発注に影響しますが、設備要件や納期の違いも船価を左右します",
+    "quote": "2026年9月4日と11日、国土交通省は造船業再生基金に係る供給確保計画を合計8件認定しました",
     "url": "https://newscast.jp/smart/news/5632976",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "日本市場では、設備投資が進むことを出発点として、建造能力の増強が納期、製品構成、収益性の改善につながるかを継続的に見極める必要があります",
+    "quote": "燃料供給設備や規制の進展は地域によって異なるため、特定の方式が世界市場を一律に主導すると断定することはできません",
     "url": "https://newscast.jp/smart/news/5632976",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "地域別の建造能力、価格、船種の専門性、納期、主要部材の調達網を比較することが重要です",
+    "quote": "2026年9月には造船業再生基金に係る8件の供給確保計画が認定され、官民合わせて約9,000億円規模の投資が見込まれています",
     "url": "https://newscast.jp/smart/news/5632976",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "脱炭素化と造船DXが変える発注・投資の判断基準",
-    "url": "https://newscast.jp/smart/news/5632976",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "日本造船業に起きた静かな革命──1兆円投資・歴史的統合・脱炭素が描く2030年の航海図｜2025年度総括",
+    "quote": "日本の造船会社ランキング2026｜売上・年収・将来性を最新決算で比較【再生基金の認定一覧つき】",
     "url": "https://zosenblog.com/zosenshoraisei2026/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "造船業界の将来性は？｜手持ち工事量3.5年分・3強時代・防衛・自律運航・脱炭素で『再復活』フェーズの実像を一次情報で徹底解説",
+    "quote": "日本造船 大復活ロードマップ｜官民1兆円投資・再生基金3,500億円・今治×JMU連合・LNG船とアンモニア船で造船大国を取り戻す｜2026年9月最新版",
     "url": "https://zosenblog.com/zosenshoraisei2026/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "2026年5月時点の一次情報（各社決算短信・日本船舶輸出組合・日本船舶海洋工学会・官公庁公表資料）",
+    "quote": "日本造船 補助金マップ完全解説｜造船業再生基金3,500億円（8件認定）＋GX移行債＋GI基金の3層支援を一覧で｜2026年9月最新版",
     "url": "https://zosenblog.com/zosenshoraisei2026/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "将来性の根拠③：脱炭素・環境対応船の競争軸",
+    "quote": "Q3. 環境規制で逆風では？",
     "url": "https://zosenblog.com/zosenshoraisei2026/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "「数年先まで仕事を確保した好況の中で、量から技術・単価・脱炭素・防衛へと競争軸を移している再復活フェーズ」",
+    "quote": "：政府WGで議論本格化（2026年3月〜）",
     "url": "https://zosenblog.com/zosenshoraisei2026/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "（2030年度納期がじわり拡大）",
+    "quote": "に沿って、補助金・基金・WG議論が同時に動いています",
     "url": "https://zosenblog.com/zosenshoraisei2026/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "個別の小規模造船所では実現できなかった大型投資・海外展開・脱炭素設備",
+    "quote": "📊 政府支援の3層構造",
     "url": "https://zosenblog.com/zosenshoraisei2026/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "：受注残・脱炭素設備投資・防衛シフトの収益寄与を追う",
+    "quote": "3,800億円基金",
     "url": "https://zosenblog.com/zosenshoraisei2026/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "：再編後の調達体制・脱炭素対応の仕様変更を継続フォロー",
+    "quote": "政府もGX移行債1,200億円超などで後押ししています",
     "url": "https://zosenblog.com/zosenshoraisei2026/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "日本船舶輸出組合の発表で、手持ち工事量は約3.5年分（604隻・2,922万GT）、納期は2030年度まで入り始めています",
+    "quote": "造船業再生基金（10年3,500億円）の認定8件・最大約3,110億円、GX移行債の補助事業（設備投資累計約2,050億円）、GI基金を一覧で解説",
     "url": "https://zosenblog.com/zosenshoraisei2026/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "ここを混ぜると、実際には元請の固定採用が増えていないのに、市場が強く見えてしまうことがあります",
+    "quote": "環境規制等が進む船舶の設計ニーズに対応する技術者",
     "url": "https://note.com/yo4shi80/n/nf9912a86ef51",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "さらに4〜6月受注分の納期内訳は、",
-    "url": "https://note.com/yo4shi80/n/nf9912a86ef51",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "空きがあれば取りたかった案件を、納期、工程、人員の制約から見送っている側面が大きいのです",
+    "quote": "政府は2025年12月に「造船業再生ロードマップ」を公表し、現在約900万総トンの建造量を2035年に1800万総トンへ倍増させる目標を掲げました",
     "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "特に環境対応船や高機能船では、品質と納期を守るために、むしろ無理に受注を広げない判断も起きています",
+    "quote": "OECDの2026年レビューでも、日本は依然として世界3位の造船国であり、規制適合性や品質、引き渡し信頼性が重視される分野では強みを維持していると評価されています",
     "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "経産省が2027年度概算要求で掲げた4435億円規模の補助金は、スマートレジ導入、AI・省力化投資、事業承継を結ぶ政策です",
+    "quote": "実際、海事産業強化法に基づく認定案件を見ると、課題はかなり具体的です",
     "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "韓国勢との技術差、官民支援、人材育成、脱炭素船との接続、LNG需要の変化、船主の発注判断、国内装置産業への波及を踏まえ、2035年再開の条件と政策効果を詳しく丁寧に読み解く",
+    "quote": "2026年3月認定の北日本造船は、メタノール・アンモニア燃料船の開発と並行して、ストックヤード拡張や協働ロボット導入による省人化を計画しています",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同時に厚板プレス工業は、大型クレーン付き建屋や大型厚板プレス機の新設で生産能力向上を図る計画を認定されました",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2025年12月認定の京浜ドックでも、受注、設計、調達段階から生産阻害要因を先回りで潰す事業プロセス改革が柱になっています",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "政府は2035年に建造量1800万総トンを掲げましたが、達成の鍵は補助金の有無だけではありません",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "生産性の向上に取り組む造船・舶用事業者の計画を認定しました | 国土交通省",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "生産性の向上に取り組む造船事業者の計画を認定しました | 国土交通省",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2024年の時間外労働規制で残業依存も限界を迎えました",
     "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -343,31 +415,19 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "4月受注分の納期は2028年度ものが50.2%、2029年度ものが38.8%、2030年度ものが11.0%で、足元の契約がすでに2〜4年先の建造枠を使っていることが分かります",
+    "quote": "船は自動車のような大量生産品ではなく、船主、荷主、金融、燃料規制、港湾インフラまで見ながら数年単位で建造する受注生産品です",
     "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "第二に、今から追加で受注しようとしても、短納期の案件を取り込みにくいことです",
+    "quote": "国土交通省は、日本の貿易量の99.6%を海上輸送が担うと説明し、造船業を経済安全保障上の重要産業と位置づけています",
     "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "船主にとっては、日本の品質や納期を評価していても、希望納期に合う建造枠がなければ中国や韓国のヤードに流れる可能性があります",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "注文が集まる船種は、脱炭素や燃料転換の影響を強く受けています",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そのため、日本が狙うべきは、量の競争ではなく、燃費、環境性能、安全性、納期信頼性、ライフサイクルコストを含めた非価格競争力です",
+    "quote": "政府の省力化投資促進プラン案は、ゼロエミッション船への転換などで世界の新造船需要が増える見込みだとし、少ない人手で効率よく建造できる体制の構築が必要だとしています",
     "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -379,97 +439,195 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "日本は防衛省・海上保安庁の船舶をすべて国内で建造・修繕しているほか、インド太平洋地域に展開する米軍艦艇の修繕にも貢献しています",
+    "quote": "韓国勢が先行し中国勢も拡大するなか、政府支援、造船技能、船主の長期契約、部材供給網、エネルギー安全保障がどう絡むのかを構造的に整理",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "米工場建設はなぜ遅れるのか 人手不足と移民規制の二重苦の構図整理",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "半導体・電池・データセンター投資を背景に米国の工場建設需要は急拡大しているが、34万人超の職人不足とトランプ政権による移民規制強化が現場を直撃し工期の長期化が深刻化している",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "13条・14条・21条の効力、2025年施行のAI法、EUの基本権影響評価を比較し、透明性、異議申立て、人による再審査を制度化する方法と、日本の規制に足りない具体的な救済策と今後の政策課題を読み解く",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "北朝鮮系TraderTraitorへの帰属根拠、資産凍結と利用者補填、EIP-7702悪用が取引所の管理・規制に突き付ける課題を解説する",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "こうした状況を受け、政府は2035年までに官民で1兆円規模の投資を実現する「造船業再生ロードマップ」を打ち出し、2026年9月には具体的な支援先も動き出しました",
     "url": "https://ais.angleinc.jp/manufacturing/japan-shipbuilding-revival-trillion-yen/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "2025年10月、防衛省が「防衛力変革推進本部」の会議で、安保三文書の改定に向けた検討を開始するという方針を明らかにしたことが報じられました",
+    "quote": "本記事では、日本の造船業の「現在地」と、そこに至った背景、そして経済安全保障の観点からなぜ今このタイミングで国が本腰を入れるのかを整理します",
     "url": "https://ais.angleinc.jp/manufacturing/japan-shipbuilding-revival-trillion-yen/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "広島県呉市で、防衛省と防衛装備庁による大規模な施設整備計画が動き出しています",
+    "quote": "2026年9月、今治造船・JMUグループ・名村造船（函館どつく）への支援を決定、造船業再生基金から最大2,131億円を配分",
     "url": "https://ais.angleinc.jp/manufacturing/japan-shipbuilding-revival-trillion-yen/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "2026年8月28日、防衛省は日本製鉄「瀬戸内製鉄所」呉地区跡地の土地取得契約を締結したと発表しました",
+    "quote": "なぜ今、国が動くのか：経済安全保障としての造船業",
     "url": "https://ais.angleinc.jp/manufacturing/japan-shipbuilding-revival-trillion-yen/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "ただし、防衛省・海保船舶の建造という経済安全保障上の役割を担う産業である以上、2026年9月に動き出した支援決定は、1兆円という長期目標に向けた最初の一歩と位置づけられます",
+    "quote": "明治新政府が「富国強兵」と「殖産興業」を国家スローガンに掲げ、鉄道網の整備や機械制工業が確立されるなか、呉や佐世保、舞鶴といった軍港にも同様に海軍工廠が置かれ、艦艇建造は民間の造船技術の発展をも牽引する役割を担っていたのです",
     "url": "https://ais.angleinc.jp/manufacturing/japan-shipbuilding-revival-trillion-yen/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "関連記事：外務省の令和9年度概算要求と安全保障関連ODA",
+    "quote": "造船業は単なる一産業ではなく、経済安全保障上の重要インフラという性格を持ちます",
     "url": "https://ais.angleinc.jp/manufacturing/japan-shipbuilding-revival-trillion-yen/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "外務省の概算要求が1.2兆円規模に",
+    "quote": "海事産業強化法・経済安全保障推進法に基づくツーステップローン等",
     "url": "https://ais.angleinc.jp/manufacturing/japan-shipbuilding-revival-trillion-yen/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "外務省は2026年8月、令和9年度（2027年度）予算の概算要求を公表しました",
+    "quote": "造船業再生基金（10年間で3,500億円目指す）、先端重要技術研究開発支援（120億円、〜2030年）、AI活用の次世代型造船ロボット研究開発（150億円、〜2026年）等",
     "url": "https://ais.angleinc.jp/manufacturing/japan-shipbuilding-revival-trillion-yen/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "概算要求とは、各省庁が来年度の予算に必要な金額や項目を財務省に提出する、毎年8月頃に行われる恒例の手続きのことです",
+    "quote": "経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律",
     "url": "https://ais.angleinc.jp/manufacturing/japan-shipbuilding-revival-trillion-yen/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "今回の要求総額は、金額を […]",
+    "quote": "（経済安全保障推進法）に基づき、船体を特定重要物資に指定して設立された「造船業再生基金」です",
     "url": "https://ais.angleinc.jp/manufacturing/japan-shipbuilding-revival-trillion-yen/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "日本造船業に起きた静かな革命──1兆円投資・歴史的統合・脱炭素が描く2030年の航海図｜2025年度総括",
+    "quote": "日本の造船会社ランキング2026｜売上・年収・将来性を最新決算で比較【再生基金の認定一覧つき】",
     "url": "https://zosenblog.com/261024zosentopix/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "、品質と納期の信頼性で選ばれる日本の造船所に注文が回ってくる可能性もあります（この段落の後段は筆者の見立てです）",
+    "quote": "日本造船 大復活ロードマップ｜官民1兆円投資・再生基金3,500億円・今治×JMU連合・LNG船とアンモニア船で造船大国を取り戻す｜2026年9月最新版",
     "url": "https://zosenblog.com/261024zosentopix/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "2027〜29年納期",
+    "quote": "日本造船 補助金マップ完全解説｜造船業再生基金3,500億円（8件認定）＋GX移行債＋GI基金の3層支援を一覧で｜2026年9月最新版",
     "url": "https://zosenblog.com/261024zosentopix/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "中国の受注残首位が新興・恒力造船に交代、HD現代の上期受注90%増、川崎重工の船舶部門24%増益、商談は2030年代納期へ",
+    "quote": "6. 今週の短信──アンモニア燃料VLAC、マースクのインド入渠、欧州の融資規制ほか",
     "url": "https://zosenblog.com/261024zosentopix/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "日本海事新聞・日刊産業新聞・鉄鋼新聞を毎週読み込み、公式IR・官公庁資料と照合したうえで、業界ニュースをわかりやすく解説しています",
+    "quote": "造船業再生基金の関連事業で、事業費は自社負担を含め約1,000億円、助成は最大400億円",
+    "url": "https://zosenblog.com/261024zosentopix/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "造船業への注目の高まりについては、経済安全保障の観点で造船業を含む製造業に日が当たるようになったと受け止め、「今が正念場」と述べました（同）",
+    "url": "https://zosenblog.com/261024zosentopix/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "長州出島への移転を含む基金関連の事業費約1,000億円（助成最大400億円）",
+    "url": "https://zosenblog.com/261024zosentopix/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：2026〜35年の10年で約1,000億円を投資（基金関連約450億円＋その他約550億円）",
+    "url": "https://zosenblog.com/261024zosentopix/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "日米の政府・民間事業者が参加し、パネルディスカッションでは",
+    "url": "https://zosenblog.com/261024zosentopix/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "計画はEUのイノベーション基金の支援対象に選定（日本海事新聞10月23日付2面）",
     "url": "https://zosenblog.com/261024zosentopix/",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
   ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【図解付き】日本の造船業の現在地。官民投資1兆円の中身 - ANGLE Int... — Sep 8, 2026 · 【図解付き】日本の造船業の現在地を解説。 世界シェア8%まで縮小した背景と、2035年までに官民1兆円を投じる造船業再生ロードマップ、2026年9月の今治造船・JMU・名村造船への支援決定まで、一次情報をもとに整理します。",
+    "url": "https://ais.angleinc.jp/manufacturing/japan-shipbuilding-revival-trillion-yen/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   }
+  ],
   "技術（新しい技術・実証）": [
+   {
+    "quote": "造船・舶用に関わる人の必修ニュース 2026年7月第3週｜川崎重工×NVIDIAでAI造船所へ・日米AI造船ロボ始動・SOY2025表彰式──これだけ押さえれば情報通",
+    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "川崎重工がNVIDIAと組み坂出工場を次世代デジタルシップヤードへ、国交省の日米AI造船ロボ研究も本格始動",
+    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "シリコンウェーハ市場、2032年に最大260億米ドル規模へ―AI半導体需要が成長をけん引、信越半導体・SUMCOの競争力に注目",
+    "url": "https://www.atpress.ne.jp/news/5632976",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "国内の建造能力を抜本的に引き上げるため、省力化・自動化設備、ドック拡張、クレーン導入などの大規模投資を支援します",
+    "url": "https://yuku.co.jp/news/20260904000000-ab65f361/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "生成AIの性質上、内容に誤りや不完全な表現が含まれる可能性があります",
+    "url": "https://yuku.co.jp/news/20260904000000-ab65f361/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
    {
     "quote": "三菱重工業とオーストラリア政府が、豪海軍の次期汎用フリゲートとして「もがみ型」能力向上型11隻の共同開発・生産契約を締結",
     "url": "https://zosenblog.com/zosenshoraisei2026/",
@@ -1627,6 +1785,30 @@
   ],
   "顧客の競合（奪いに来る側）": [
    {
+    "quote": "造船・舶用に関わる人の必修ニュース 2026年8月第2週｜中国受注残トップが恒力造船に交代・韓国2強の受注爆発・川重24%増益──これだけ押さえれば情報通",
+    "url": "https://zosenblog.com/zosenshoraisei2026/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "中国の金本位制ルネサンス、ドル覇権を揺らす米国との新通貨戦争",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "中国人民銀行は2026年7〜9月に金を63トン積み増し、上海・香港の金取引基盤と人民元決済網を拡張する",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "一方、米国はテキサス州の金銀法制とドル連動型ステーブルコインで対抗する",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
     "quote": "JMUの上期決算と廣瀬社長の投資計画、国内造船の受注動向と内海造船、造工専務理事のLNG船建造再開への言及、中国造船の主機不足、MEPC85とNZF、重工・海運の決算をまとめました",
     "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
     "pass": 3,
@@ -2263,7 +2445,43 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "政治（法・予算・規制）": [
+  "経済（規模・価格・為替）": [
+   {
+    "quote": "造船・舶用に関わる人の必修ニュース 2026年6月第2週｜HD現代が原子力推進船AiP・商船三井×JAL「空飛ぶ船」・世界初アンモニア燃料外航船竣工・長崎県が造船支援1.6億円──これだけ押さえれば情報通",
+    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "2025年度の寄付総額は1兆3314億円、ポータル手数料は平均11.5％",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "2025年度の寄付総額は1兆3314億円、ポータル手数料は平均11.5％",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "国土交通省、造船業再生基金で3計画を初認定 最大2131億円を助成 | YUKU NEWS",
+    "url": "https://yuku.co.jp/news/20260904000000-ab65f361/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "国土交通省、造船業再生基金で3計画を初認定 最大2131億円を助成",
+    "url": "https://yuku.co.jp/news/20260904000000-ab65f361/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "2026年度から2034年度までの最大助成額は合計約2,131億円です",
+    "url": "https://yuku.co.jp/news/20260904000000-ab65f361/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
    {
     "quote": "売上トップ10、有報ベースの平均年収、造船業再生基金の認定額までわかる、就活・転職・投資に役立つ決定版です",
     "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
@@ -2271,19 +2489,73 @@
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "三菱重工業とオーストラリア政府が、豪海軍の次期汎用フリゲートとして「もがみ型」能力向上型11隻の共同開発・生産契約を締結",
-    "url": "https://zosenblog.com/zosenshoraisei2026/",
+    "quote": "内海造船（7018）の株価・配当・今後を徹底解説｜上期で通期予想を超過も受注残は1,172億円に減少、決算翌日は12%安──カナデビア系の中堅造船を決算短信で読む・2026年11月版",
+    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "インドで磨いた4つの融資モデル、国際開発金融機関との連携効果、インドネシアで表面化した貸倒リスクを検証し、海外事業の収益性と投資家が注視すべき指標を金融・規制の両面から読み解く",
+    "quote": "造船の世界市場規模、2032年に2,050億～2,600億米ドルの予測レンジ――日本の造船業再生と代替燃料船需要を分析 | ReportPrime（レポートプライム）",
+    "url": "https://www.atpress.ne.jp/news/5632976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "学費年1000万円でも集まる英国系インター校、日本進出の勝算",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "年1000万円を超す学費でもアジアの家庭を引きつける背景を、英国の学費VAT、在留外国人の増加、教育資格、地域経済との関係から検証し、成長条件と見落とせない課題を読み解く",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "クレディセゾンとADB提携、アジア中小融資800億円の成長戦略",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "クレディセゾンがアジア開発銀行（ADB）と組み、3年間で最大5億ドル（約800億円）を調達して新興国の中小企業融資を拡大する",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "学費年1000万円でも集まる英国系インター校、日本進出の勝算",
     "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "今治造船・川崎重工・名村造船所の決意表明、伊万里の新ドック案とGOCO方式、メンブレン技術をめぐる日韓政府間交渉、船価差への国費補助まで、「誰が・どこで・どうやって・いくらで」を業界ウォッチャーが深読みします",
+    "quote": "年1000万円を超す学費でもアジアの家庭を引きつける背景を、英国の学費VAT、在留外国人の増加、教育資格、地域経済との関係から検証し、成長条件と見落とせない課題を読み解く",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "クレディセゾンとADB提携、アジア中小融資800億円の成長戦略",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "クレディセゾンがアジア開発銀行（ADB）と組み、3年間で最大5億ドル（約800億円）を調達して新興国の中小企業融資を拡大する",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "4月新造船受注66万総トン(前年比+6%)、手持ち工事量約3.5年分、三井E&S・名村造船所の好決算、中韓の受注攻勢、SOY2025は自律運航船「げんぶ」が大賞",
+    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "売上3,980億円・2年連続最高益の実力と、20%出資するJFEHD・IHIを通じた間接投資の方法を解説します",
     "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
     "pass": 3,
     "first_seen": "2026-11-08"
@@ -2295,28 +2567,40 @@
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "造船・舶用に関わる人の必修ニュース 2026年9月第1週｜再生基金が初認定・今治/JMU/名村に最大計2,131億円・防衛省要求は過去最大",
-    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
+    "quote": "日経平均3643円安、米SOX指数12%超安の背景を整理し、アンソロピックのIPOが映す成長率鈍化、巨額計算資源契約、評価額の論点を検証",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "造船業再生基金が今治造船・JMU・名村造船所の3件に最大計2,131億円で初認定、九州には官民3,000億円のクラスター計画、防衛省の概算要求は過去最大に",
-    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "投資家が受注残・資金調達・規制の実行度からAI投資の持続性を見極める方法を解説する",
+    "quote": "日経平均3643円安、米SOX指数12%超安の背景を整理し、アンソロピックのIPOが映す成長率鈍化、巨額計算資源契約、評価額の論点を検証",
     "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "一方、米中貿易は縮小し、半導体規制と台湾問題は残る",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "quote": "Dolphin Drilling Completes $25 Million Sale of 52-Year-Old Semi-Submersible Rig “Blackford Dolphin” to SPM Energy Shipping",
+    "url": "https://www.imarinenews.com/34482.html",
     "pass": 3,
     "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Keppel Wins US$51 Million Jack-up Drilling Rig Charter Extension",
+    "url": "https://www.imarinenews.com/34482.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "9月の輸出船受注は17隻で手持ち工事は約3.6年分、経産省は造船向け鋼材が人手不足で前年比9.8%減と予測",
+    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "造船・舶用に関わる人の必修ニュース 2026年10月第1週｜三菱重工が下関に1,000億円投資・カナデビアと日鉄エンジ統合破談・ギリシャ船主が常石に発注──これだけ押さえれば情報通",
+    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
    },
    {
     "quote": "三菱重工が下関の人工島に約1,000億円の建造能力拡大、カナデビアと日鉄エンジの統合破談、再生基金の支援条件、ギリシャ船主の常石発注までまとめて解説します",
@@ -2325,19 +2609,43 @@
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "三菱重工業とオーストラリア政府が、豪海軍の次期汎用フリゲートとして「もがみ型」能力向上型11隻の共同開発・生産契約を締結",
-    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
+    "quote": "2024年度のクレーン売上高は3918億円、設置台数は23万4000台",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "造船・舶用に関わる人の必修ニュース 2026年7月第1週｜日本建造バルカー船価が強含み・政府成長戦略に造船明記・さんふらわあRORO3隻を内海造船で──これだけ押さえれば情報通",
-    "url": "https://zosenblog.com/zosenshoraisei2026/",
+    "quote": "2025年の番号盗用被害475.4億円も踏まえ、情報の組み合わせ別に、カード停止と再発行の判断、ID・パスワード変更、明細確認、漏洩通知を装うフィッシングへの備えを具体的に解説します",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
     "pass": 3,
     "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "2024年度のクレーン売上高は3918億円、設置台数は23万4000台",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "2025年の番号盗用被害475.4億円も踏まえ、情報の組み合わせ別に、カード停止と再発行の判断、ID・パスワード変更、明細確認、漏洩通知を装うフィッシングへの備えを具体的に解説します",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "造船・海運・重工業の平均年収ランキング2026年版｜最新有報で上場大手から非上場の造船企業まで16社を比較【前年比つき】",
+    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
    },
    {
     "quote": "日本造船 大復活ロードマップ｜官民1兆円投資・再生基金3,500億円・今治×JMU連合・LNG船とアンモニア船で造船大国を取り戻す｜2026年9月最新版",
+    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本造船業に起きた静かな革命──1兆円投資・歴史的統合・脱炭素が描く2030年の航海図｜2025年度総括",
     "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -2355,67 +2663,79 @@
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "熟練技能者を「舶用マイスター」に認定し、今年度の34人で累計628人に",
+    "quote": "坂出工場に10年で約1,000億円を投資",
     "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "──再生基金の対象案件で、ロボット・AIへの投資がどこまで進むか",
+    "quote": "JMU 2026年3月期 通期決算速報｜純利益321億円（+61%）の創業以来最高益・2年連続更新",
     "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "深読み解説｜ステンレスの反ダンピング関税は何を変えるか──国内メーカーの営業利益は3年で6割減、中国・台湾材は減っても輸入は東南アジアへ",
+    "quote": "売上3980億円（+22%）・営業利益292億円（+81%）・純利益321億円（+61%）で創業以来最高益・2年連続更新",
     "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "日本では2026年9月、造船業再生基金を通じた設備投資の供給確保計画が相次いで認定され、建造能力の強化が実際の投資段階へ進みました",
+    "quote": "檜垣幸人会長が掲げる世界シェア20%回復・2035年建造能力2倍、NSYや生産購買のシナジー、3000隻達成・売上4646億円の実績、丸亀工場の事故と人手不足の課題まで海事新聞ベースで解説",
+    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "造船の世界市場規模、2032年に2,050億～2,600億米ドルの予測レンジ――日本の造船業再生と代替燃料船需要を分析",
     "url": "https://www.atpress.ne.jp/news/5632976",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "日本の造船業再生：2026年の投資認定が建造能力強化を後押し",
+    "quote": "2025年約1,600億米ドル、2032年まで年平均約5％成長",
     "url": "https://www.atpress.ne.jp/news/5632976",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "2026年9月4日と11日、国土交通省は造船業再生基金に係る供給確保計画を合計8件認定しました",
+    "quote": "について、2025年の商業新造船契約額を約1,600億米ドル（推計レンジ1,450億～2,100億米ドル）、2025年から2032年までの年平均成長率を約5.0％とする分析を公表しました",
     "url": "https://www.atpress.ne.jp/news/5632976",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "燃料供給設備や規制の進展は地域によって異なるため、特定の方式が世界市場を一律に主導すると断定することはできません",
+    "quote": "2032年の市場規模は2,050億～2,600億米ドルの予測レンジを示しています",
     "url": "https://www.atpress.ne.jp/news/5632976",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "2026年9月には造船業再生基金に係る8件の供給確保計画が認定され、官民合わせて約9,000億円規模の投資が見込まれています",
+    "quote": "市場規模、2032年までの成長見通し、船種別需要、地域別動向の分析範囲をご覧いただけます",
     "url": "https://www.atpress.ne.jp/news/5632976",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "売上トップ10、有報ベースの平均年収、造船業再生基金の認定額までわかる、就活・転職・投資に役立つ決定版です",
-    "url": "https://zosenblog.com/zosenshoraisei2026/",
+    "quote": "2025年市場規模（中心推計）",
+    "url": "https://www.atpress.ne.jp/news/5632976",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "日本の造船業界は今後どうなる？再生基金・JMU統合から読む展望【2026年】 | ぞうせんブログ",
-    "url": "https://zosenblog.com/2024zosengyokai/",
+    "quote": "対象計画に伴う官民投資は総額約9,000億円規模とされ、船舶の安定供給や国内建造能力の強化に向けた投資が具体化しています",
+    "url": "https://www.atpress.ne.jp/news/5632976",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
     "quote": "日本の造船会社ランキング2026｜売上・年収・将来性を最新決算で比較【再生基金の認定一覧つき】",
+    "url": "https://zosenblog.com/2024zosengyokai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "造船・海運・重工業の平均年収ランキング2026年版｜最新有報で上場大手から非上場の造船企業まで16社を比較【前年比つき】",
     "url": "https://zosenblog.com/2024zosengyokai/",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -2428,6 +2748,12 @@
    },
    {
     "quote": "日本造船 大復活ロードマップ｜官民1兆円投資・再生基金3,500億円・今治×JMU連合・LNG船とアンモニア船で造船大国を取り戻す｜2026年9月最新版",
+    "url": "https://zosenblog.com/2024zosengyokai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本造船業に起きた静かな革命──1兆円投資・歴史的統合・脱炭素が描く2030年の航海図｜2025年度総括",
     "url": "https://zosenblog.com/2024zosengyokai/",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -2445,67 +2771,97 @@
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "造船業再生基金が初認定（2026年9月）",
-    "url": "https://zosenblog.com/2024zosengyokai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "──9月4日・11日に計8件を認定",
-    "url": "https://zosenblog.com/2024zosengyokai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
     "quote": "官民投資は総額9,000億円規模、基金からの支援は最大約3,110億円",
     "url": "https://zosenblog.com/2024zosengyokai/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "──長崎県が造船サプライチェーン強靭化に1.6億円の補正予算案（中堅企業の設備投資に上限3,000万円補助）",
+    "quote": "今治グループが最大約1,138億円（日本海事新聞 9月7日・14日付）",
     "url": "https://zosenblog.com/2024zosengyokai/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "ライドシェア全面解禁と憲法論 経済規制の裁量を生かす制度設計",
+    "quote": "今治造船は2025年度売上6,005億円で過去最高",
+    "url": "https://zosenblog.com/2024zosengyokai/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "個人預金140兆円がペイオフ対象外、相続集中が招く金融リスク",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "国内銀行の個人預金では、残高1000万円以上の口座が約1288万口、金額は266兆円に達する",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "口座単位で保護上限を差し引くと対象外は約138兆円",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "個人預金140兆円がペイオフ対象外、相続集中が招く金融リスク",
     "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "憲法22条の営業の自由、薬局距離制限違憲判決、道路運送法78条を手掛かりに、安全・労働・競争・個人情報を守りながら、国の広い経済規制裁量を地方実証と事後規制へ転換する制度設計、政治が果たすべき説明責任を解説する",
+    "quote": "国内銀行の個人預金では、残高1000万円以上の口座が約1288万口、金額は266兆円に達する",
     "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "日本では2026年9月、造船業再生基金を通じた設備投資の供給確保計画が相次いで認定され、建造能力の強化が実際の投資段階へ進みました",
+    "quote": "口座単位で保護上限を差し引くと対象外は約138兆円",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "造船の世界市場規模、2032年に2,050億～2,600億米ドルの予測レンジ――日本の造船業再生と代替燃料船需要を分析 | NEWSCAST",
     "url": "https://newscast.jp/smart/news/5632976",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "日本の造船業再生：2026年の投資認定が建造能力強化を後押し",
+    "quote": "造船の世界市場規模、2032年に2,050億～2,600億米ドルの予測レンジ――日本の造船業再生と代替燃料船需要を分析",
     "url": "https://newscast.jp/smart/news/5632976",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "2026年9月4日と11日、国土交通省は造船業再生基金に係る供給確保計画を合計8件認定しました",
+    "quote": "2025年約1,600億米ドル、2032年まで年平均約5％成長",
     "url": "https://newscast.jp/smart/news/5632976",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "燃料供給設備や規制の進展は地域によって異なるため、特定の方式が世界市場を一律に主導すると断定することはできません",
+    "quote": "について、2025年の商業新造船契約額を約1,600億米ドル（推計レンジ1,450億～2,100億米ドル）、2025年から2032年までの年平均成長率を約5.0％とする分析を公表しました",
     "url": "https://newscast.jp/smart/news/5632976",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "2026年9月には造船業再生基金に係る8件の供給確保計画が認定され、官民合わせて約9,000億円規模の投資が見込まれています",
+    "quote": "2032年の市場規模は2,050億～2,600億米ドルの予測レンジを示しています",
+    "url": "https://newscast.jp/smart/news/5632976",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "市場規模、2032年までの成長見通し、船種別需要、地域別動向の分析範囲をご覧いただけます",
+    "url": "https://newscast.jp/smart/news/5632976",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2025年市場規模（中心推計）",
     "url": "https://newscast.jp/smart/news/5632976",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -2523,176 +2879,92 @@
     "first_seen": "2026-11-05"
    },
    {
+    "quote": "造船・海運・重工業の平均年収ランキング2026年版｜最新有報で上場大手から非上場の造船企業まで16社を比較【前年比つき】",
+    "url": "https://zosenblog.com/zosenshoraisei2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "日本造船業に起きた静かな革命──1兆円投資・歴史的統合・脱炭素が描く2030年の航海図｜2025年度総括",
+    "url": "https://zosenblog.com/zosenshoraisei2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
     "quote": "日本造船 補助金マップ完全解説｜造船業再生基金3,500億円（8件認定）＋GX移行債＋GI基金の3層支援を一覧で｜2026年9月最新版",
     "url": "https://zosenblog.com/zosenshoraisei2026/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "Q3. 環境規制で逆風では？",
+    "quote": "事務局は、2025年の中国の平均鋼材価格が日本の5割程度だったと報告しました（国土交通省の発表、日本海事新聞）",
     "url": "https://zosenblog.com/zosenshoraisei2026/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "：政府WGで議論本格化（2026年3月〜）",
+    "quote": "純利益3,321億円（+35%）",
     "url": "https://zosenblog.com/zosenshoraisei2026/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "に沿って、補助金・基金・WG議論が同時に動いています",
+    "quote": "事業利益1,451億円で",
     "url": "https://zosenblog.com/zosenshoraisei2026/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "📊 政府支援の3層構造",
+    "quote": "経常利益295億円で",
     "url": "https://zosenblog.com/zosenshoraisei2026/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "3,800億円基金",
-    "url": "https://zosenblog.com/zosenshoraisei2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "政府もGX移行債1,200億円超などで後押ししています",
-    "url": "https://zosenblog.com/zosenshoraisei2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "造船業再生基金（10年3,500億円）の認定8件・最大約3,110億円、GX移行債の補助事業（設備投資累計約2,050億円）、GI基金を一覧で解説",
-    "url": "https://zosenblog.com/zosenshoraisei2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "環境規制等が進む船舶の設計ニーズに対応する技術者",
-    "url": "https://note.com/yo4shi80/n/nf9912a86ef51",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "政府は2025年12月に「造船業再生ロードマップ」を公表し、現在約900万総トンの建造量を2035年に1800万総トンへ倍増させる目標を掲げました",
+    "quote": "スマートレジ補助4435億円が変える中小企業DXと承継支援策",
     "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "OECDの2026年レビューでも、日本は依然として世界3位の造船国であり、規制適合性や品質、引き渡し信頼性が重視される分野では強みを維持していると評価されています",
+    "quote": "経産省が2027年度概算要求で掲げた4435億円規模の補助金は、スマートレジ導入、AI・省力化投資、事業承継を結ぶ政策です",
     "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "実際、海事産業強化法に基づく認定案件を見ると、課題はかなり具体的です",
+    "quote": "高収益の特殊タイヤ、AIによる耐久予測、250億円の設備更新を軸に、日本の製造業に残る競争力と資源価格・環境負荷という構造的リスクを読み解く",
     "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "2026年3月認定の北日本造船は、メタノール・アンモニア燃料船の開発と並行して、ストックヤード拡張や協働ロボット導入による省人化を計画しています",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "同時に厚板プレス工業は、大型クレーン付き建屋や大型厚板プレス機の新設で生産能力向上を図る計画を認定されました",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2025年12月認定の京浜ドックでも、受注、設計、調達段階から生産阻害要因を先回りで潰す事業プロセス改革が柱になっています",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "政府は2035年に建造量1800万総トンを掲げましたが、達成の鍵は補助金の有無だけではありません",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "生産性の向上に取り組む造船・舶用事業者の計画を認定しました | 国土交通省",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "生産性の向上に取り組む造船事業者の計画を認定しました | 国土交通省",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2024年の時間外労働規制で残業依存も限界を迎えました",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "海運市況、老朽船の更新、脱炭素対応、経済安全保障の議論が重なり、造船所の建造枠は先々まで埋まりやすい状況です",
+    "quote": "さらに2035年までに官民で1兆円規模の投資実現を目指す枠組みも示されています",
     "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "船は自動車のような大量生産品ではなく、船主、荷主、金融、燃料規制、港湾インフラまで見ながら数年単位で建造する受注生産品です",
+    "quote": "建設業退職金共済の掛金は日額320円で、40年働いても給付は400万円台にとどまる",
     "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "国土交通省は、日本の貿易量の99.6%を海上輸送が担うと説明し、造船業を経済安全保障上の重要産業と位置づけています",
+    "quote": "高収益の特殊タイヤ、AIによる耐久予測、250億円の設備更新を軸に、日本の製造業に残る競争力と資源価格・環境負荷という構造的リスクを読み解く",
     "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "政府の省力化投資促進プラン案は、ゼロエミッション船への転換などで世界の新造船需要が増える見込みだとし、少ない人手で効率よく建造できる体制の構築が必要だとしています",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "quote": "官民投資1兆円の中身 - ANGLE Intelligence Studio",
+    "url": "https://ais.angleinc.jp/manufacturing/japan-shipbuilding-revival-trillion-yen/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "第三に、脱炭素船の技術開発が、補助金依存ではなく海外船主の発注につながるかです",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "韓国勢が先行し中国勢も拡大するなか、政府支援、造船技能、船主の長期契約、部材供給網、エネルギー安全保障がどう絡むのかを構造的に整理",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "米工場建設はなぜ遅れるのか 人手不足と移民規制の二重苦の構図整理",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "半導体・電池・データセンター投資を背景に米国の工場建設需要は急拡大しているが、34万人超の職人不足とトランプ政権による移民規制強化が現場を直撃し工期の長期化が深刻化している",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "13条・14条・21条の効力、2025年施行のAI法、EUの基本権影響評価を比較し、透明性、異議申立て、人による再審査を制度化する方法と、日本の規制に足りない具体的な救済策と今後の政策課題を読み解く",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "北朝鮮系TraderTraitorへの帰属根拠、資産凍結と利用者補填、EIP-7702悪用が取引所の管理・規制に突き付ける課題を解説する",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "quote": "官民投資1兆円の中身",
+    "url": "https://ais.angleinc.jp/manufacturing/japan-shipbuilding-revival-trillion-yen/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
@@ -2703,7 +2975,13 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "本記事では、日本の造船業の「現在地」と、そこに至った背景、そして経済安全保障の観点からなぜ今このタイミングで国が本腰を入れるのかを整理します",
+    "quote": "あわせて、官民投資1兆円の具体的な内訳と、2026年9月に発表されたばかりの最新の支援決定についても解説します",
+    "url": "https://ais.angleinc.jp/manufacturing/japan-shipbuilding-revival-trillion-yen/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2035年までに官民で1兆円規模の投資を目指す「造船業再生ロードマップ」を策定",
     "url": "https://ais.angleinc.jp/manufacturing/japan-shipbuilding-revival-trillion-yen/",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -2715,43 +2993,19 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "なぜ今、国が動くのか：経済安全保障としての造船業",
+    "quote": "官民投資1兆円の中身：3本柱とロードマップ",
     "url": "https://ais.angleinc.jp/manufacturing/japan-shipbuilding-revival-trillion-yen/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "明治新政府が「富国強兵」と「殖産興業」を国家スローガンに掲げ、鉄道網の整備や機械制工業が確立されるなか、呉や佐世保、舞鶴といった軍港にも同様に海軍工廠が置かれ、艦艇建造は民間の造船技術の発展をも牽引する役割を担っていたのです",
+    "quote": "あわせて建造コストの10%削減も目指しており、そのための官民投資規模を2035年までに合計で1兆円規模と見込んでいます",
     "url": "https://ais.angleinc.jp/manufacturing/japan-shipbuilding-revival-trillion-yen/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "造船業は単なる一産業ではなく、経済安全保障上の重要インフラという性格を持ちます",
-    "url": "https://ais.angleinc.jp/manufacturing/japan-shipbuilding-revival-trillion-yen/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "海事産業強化法・経済安全保障推進法に基づくツーステップローン等",
-    "url": "https://ais.angleinc.jp/manufacturing/japan-shipbuilding-revival-trillion-yen/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "造船業再生基金（10年間で3,500億円目指す）、先端重要技術研究開発支援（120億円、〜2030年）、AI活用の次世代型造船ロボット研究開発（150億円、〜2026年）等",
-    "url": "https://ais.angleinc.jp/manufacturing/japan-shipbuilding-revival-trillion-yen/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律",
-    "url": "https://ais.angleinc.jp/manufacturing/japan-shipbuilding-revival-trillion-yen/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "（経済安全保障推進法）に基づき、船体を特定重要物資に指定して設立された「造船業再生基金」です",
+    "quote": "この1兆円という数字は、あくまで2035年までの長期的な官民投資総額の目標である点に注意が必要です",
     "url": "https://ais.angleinc.jp/manufacturing/japan-shipbuilding-revival-trillion-yen/",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -2769,25 +3023,37 @@
     "first_seen": "2026-11-05"
    },
    {
+    "quote": "造船・海運・重工業の平均年収ランキング2026年版｜最新有報で上場大手から非上場の造船企業まで16社を比較【前年比つき】",
+    "url": "https://zosenblog.com/261024zosentopix/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
     "quote": "日本造船 補助金マップ完全解説｜造船業再生基金3,500億円（8件認定）＋GX移行債＋GI基金の3層支援を一覧で｜2026年9月最新版",
     "url": "https://zosenblog.com/261024zosentopix/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "6. 今週の短信──アンモニア燃料VLAC、マースクのインド入渠、欧州の融資規制ほか",
+    "quote": "日本造船業に起きた静かな革命──1兆円投資・歴史的統合・脱炭素が描く2030年の航海図｜2025年度総括",
+    "url": "https://zosenblog.com/261024zosentopix/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "5. 今週の受注・竣工──デンマーク船主が日本で9隻、HMMは12隻に2,500億円",
+    "url": "https://zosenblog.com/261024zosentopix/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "環境省・国交省の「ゼロエミッション船等の建造促進事業」に採択され、事業費65億円のうち助成は21億円程度",
     "url": "https://zosenblog.com/261024zosentopix/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
     "quote": "造船業再生基金の関連事業で、事業費は自社負担を含め約1,000億円、助成は最大400億円",
-    "url": "https://zosenblog.com/261024zosentopix/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "造船業への注目の高まりについては、経済安全保障の観点で造船業を含む製造業に日が当たるようになったと受け止め、「今が正念場」と述べました（同）",
     "url": "https://zosenblog.com/261024zosentopix/",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -2805,14 +3071,20 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "日米の政府・民間事業者が参加し、パネルディスカッションでは",
-    "url": "https://zosenblog.com/261024zosentopix/",
+    "quote": "OMS Group Closes US$1.03 Billion ECA-Backed Financing for Four Cable-Laying Vessels",
+    "url": "https://www.imarinenews.com/34482.html",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "計画はEUのイノベーション基金の支援対象に選定（日本海事新聞10月23日付2面）",
-    "url": "https://zosenblog.com/261024zosentopix/",
+    "quote": "According to JSEA data, in fiscal year 2025 (April 2025 to March 2026), new ship orders for Japanese shipbuilders totaled 9.04 million gross tons, a 15% decrease year-on-year. This was mainly due to a decline in the operating rate of Japanese shipbuilders, which could not keep up with the current booming shipbuilding demand.",
+    "url": "https://www.imarinenews.com/34482.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "HD Hyundai Heavy Industries Secures $348.9 Million Icebreaker Contract with Sweden",
+    "url": "https://www.imarinenews.com/34482.html",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -3433,6 +3705,42 @@
   ],
   "自社の競合（商社・代理店・仲介）": [
    {
+    "quote": "ふるコミ手数料2.5％、ふるさと納税の寡占市場を本当に崩せるか",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "2025年度の寄付総額は1兆3314億円、ポータル手数料は平均11.5％",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "6割ルールが迫るなか、低手数料が自治体財政と返礼品競争をどう変えるのか、決済費や集客力を含む実質負担、大手との競争条件、政策効果まで深く読み解く",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "ふるコミ手数料2.5％、ふるさと納税の寡占市場を本当に崩せるか",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "2025年度の寄付総額は1兆3314億円、ポータル手数料は平均11.5％",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "6割ルールが迫るなか、低手数料が自治体財政と返礼品競争をどう変えるのか、決済費や集客力を含む実質負担、大手との競争条件、政策効果まで深く読み解く",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
     "quote": "ただし民営化前の郵便貯金や未利用口座手数料は別扱いです",
     "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
     "pass": 3,
@@ -3451,168 +3759,150 @@
     "first_seen": "2026-11-09"
    }
   ],
-  "経済（規模・価格・為替）": [
+  "顧客の顧客（発注元が求めること）": [
    {
-    "quote": "売上トップ10、有報ベースの平均年収、造船業再生基金の認定額までわかる、就活・転職・投資に役立つ決定版です",
+    "quote": "日本建造バルカーの新造船価が強含み、NOx規制改正の駆け込み発注や期近納期の高値成約も",
     "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-10"
    },
    {
-    "quote": "内海造船（7018）の株価・配当・今後を徹底解説｜上期で通期予想を超過も受注残は1,172億円に減少、決算翌日は12%安──カナデビア系の中堅造船を決算短信で読む・2026年11月版",
+    "quote": "GX補助金の概要・目的・採択企業リスト・最新動向まで、造船×脱炭素の重要施策を解説",
     "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-10"
    },
    {
-    "quote": "造船の世界市場規模、2032年に2,050億～2,600億米ドルの予測レンジ――日本の造船業再生と代替燃料船需要を分析 | ReportPrime（レポートプライム）",
-    "url": "https://www.atpress.ne.jp/news/5632976",
+    "quote": "USTR301条が日本造船に与える追い風、新型FFM 3隻追加受注(1286億円)、LNG船国内建造復活議論の結論時期、中東情勢の納期遅延リスク、造船業再生基金1200億円まで一次情報で整理",
+    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-10"
    },
    {
-    "quote": "学費年1000万円でも集まる英国系インター校、日本進出の勝算",
+    "quote": "勘定系への侵入経路、狙われやすいネットバンキングや委託先、停止と継続の判断軸、利用者が平時に整える認証・決済・連絡手段を解説します",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "勘定系への侵入経路、狙われやすいネットバンキングや委託先、停止と継続の判断軸、利用者が平時に整える認証・決済・連絡手段を解説します",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "大型投資を実際の生産能力向上と納期短縮、人手不足への対応に結び付けられるかが重要です",
+    "url": "https://yuku.co.jp/news/20260904000000-ab65f361/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "財務省の1,877人調査、東京23区の家賃高騰、総合職の離職状況を基に、8,500戸の改修計画が遅れる構造、BCP拠点としての役割、断熱・省エネまで含む資産再生の条件を詳しく解説する",
     "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "年1000万円を超す学費でもアジアの家庭を引きつける背景を、英国の学費VAT、在留外国人の増加、教育資格、地域経済との関係から検証し、成長条件と見落とせない課題を読み解く",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "クレディセゾンとADB提携、アジア中小融資800億円の成長戦略",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "クレディセゾンがアジア開発銀行（ADB）と組み、3年間で最大5億ドル（約800億円）を調達して新興国の中小企業融資を拡大する",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "学費年1000万円でも集まる英国系インター校、日本進出の勝算",
+    "quote": "財務省の1,877人調査、東京23区の家賃高騰、総合職の離職状況を基に、8,500戸の改修計画が遅れる構造、BCP拠点としての役割、断熱・省エネまで含む資産再生の条件を詳しく解説する",
     "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "年1000万円を超す学費でもアジアの家庭を引きつける背景を、英国の学費VAT、在留外国人の増加、教育資格、地域経済との関係から検証し、成長条件と見落とせない課題を読み解く",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "quote": "日本造船業に起きた静かな革命──1兆円投資・歴史的統合・脱炭素が描く2030年の航海図｜2025年度総括",
+    "url": "https://zosenblog.com/zeroemisennhojyokin/",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "クレディセゾンとADB提携、アジア中小融資800億円の成長戦略",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "quote": "政府が官民投資工程表で国産LNG運搬船「2035年以降に年3〜5隻」の建造再開を明記、海事局は27年度概算要求も視野",
+    "url": "https://zosenblog.com/zeroemisennhojyokin/",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "クレディセゾンがアジア開発銀行（ADB）と組み、3年間で最大5億ドル（約800億円）を調達して新興国の中小企業融資を拡大する",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "quote": "USTR301条が日本造船に与える追い風、新型FFM 3隻追加受注(1286億円)、LNG船国内建造復活議論の結論時期、中東情勢の納期遅延リスク、造船業再生基金1200億円まで一次情報で整理",
+    "url": "https://zosenblog.com/zeroemisennhojyokin/",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "4月新造船受注66万総トン(前年比+6%)、手持ち工事量約3.5年分、三井E&S・名村造船所の好決算、中韓の受注攻勢、SOY2025は自律運航船「げんぶ」が大賞",
+    "quote": "日本海事新聞・日刊産業新聞・鉄鋼新聞を毎週読み込み、公式IR・官公庁資料と照合したうえで、業界ニュースをわかりやすく解説しています",
+    "url": "https://zosenblog.com/zeroemisennhojyokin/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "船舶建造体制の強靱化、造船人材の確保と育成、脱炭素化を通じたゲームチェンジ、安定的な需要の確保、同志国とグローバルサウスとの連携です",
+    "url": "https://timewell.jp/columns/japan-shipbuilding-revival-economic-security-defense-2026",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "艦艇の建造は限られた造船事業者とサプライヤーに集中しており、事業撤退でサプライチェーンの脆弱化が進んでいる、という記述もあります",
+    "url": "https://timewell.jp/columns/japan-shipbuilding-revival-economic-security-defense-2026",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "造船・舶用に関わる人の必修ニュース 2026年9月第1週｜再生基金が初認定・今治/JMU/名村に最大計2,131億円・防衛省要求は過去最大",
     "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "売上3,980億円・2年連続最高益の実力と、20%出資するJFEHD・IHIを通じた間接投資の方法を解説します",
+    "quote": "造船業再生基金が今治造船・JMU・名村造船所の3件に最大計2,131億円で初認定、九州には官民3,000億円のクラスター計画、防衛省の概算要求は過去最大に",
     "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "どうなる？！日本の造船業界｜受注残・JMU統合・政府3500億円支援で読む今後の展望【2026年最新】",
-    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "日経平均3643円安、米SOX指数12%超安の背景を整理し、アンソロピックのIPOが映す成長率鈍化、巨額計算資源契約、評価額の論点を検証",
+    "quote": "東京港大井ふ頭再編とは 処理能力1.4倍化とDX脱炭素を解説",
     "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "日経平均3643円安、米SOX指数12%超安の背景を整理し、アンソロピックのIPOが映す成長率鈍化、巨額計算資源契約、評価額の論点を検証",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Dolphin Drilling Completes $25 Million Sale of 52-Year-Old Semi-Submersible Rig “Blackford Dolphin” to SPM Energy Shipping",
-    "url": "https://www.imarinenews.com/34482.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Keppel Wins US$51 Million Jack-up Drilling Rig Charter Extension",
-    "url": "https://www.imarinenews.com/34482.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "9月の輸出船受注は17隻で手持ち工事は約3.6年分、経産省は造船向け鋼材が人手不足で前年比9.8%減と予測",
-    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "造船・舶用に関わる人の必修ニュース 2026年10月第1週｜三菱重工が下関に1,000億円投資・カナデビアと日鉄エンジ統合破談・ギリシャ船主が常石に発注──これだけ押さえれば情報通",
-    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "三菱重工が下関の人工島に約1,000億円の建造能力拡大、カナデビアと日鉄エンジの統合破談、再生基金の支援条件、ギリシャ船主の常石発注までまとめて解説します",
-    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "2024年度のクレーン売上高は3918億円、設置台数は23万4000台",
+    "quote": "486万TEUを扱う東京港のDX、完全予約制、脱炭素、岸壁増深が小売と消費財物流に与える影響を読み解く",
     "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
     "pass": 3,
-    "first_seen": "2026-11-07"
+    "first_seen": "2026-11-08"
    },
    {
-    "quote": "2025年の番号盗用被害475.4億円も踏まえ、情報の組み合わせ別に、カード停止と再発行の判断、ID・パスワード変更、明細確認、漏洩通知を装うフィッシングへの備えを具体的に解説します",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "2024年度のクレーン売上高は3918億円、設置台数は23万4000台",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "2025年の番号盗用被害475.4億円も踏まえ、情報の組み合わせ別に、カード停止と再発行の判断、ID・パスワード変更、明細確認、漏洩通知を装うフィッシングへの備えを具体的に解説します",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "造船・海運・重工業の平均年収ランキング2026年版｜最新有報で上場大手から非上場の造船企業まで16社を比較【前年比つき】",
+    "quote": "中国の受注残首位が新興・恒力造船に交代、HD現代の上期受注90%増、川崎重工の船舶部門24%増益、商談は2030年代納期へ",
     "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "日本造船 大復活ロードマップ｜官民1兆円投資・再生基金3,500億円・今治×JMU連合・LNG船とアンモニア船で造船大国を取り戻す｜2026年9月最新版",
-    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
+    "quote": "造船業界の将来性は？｜手持ち工事量3.5年分・3強時代・防衛・自律運航・脱炭素で『再復活』フェーズの実像を一次情報で徹底解説",
+    "url": "https://zosenblog.com/2024zosengyokai/",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "手持ち工事量3.5年分の好況、主要各社が過去最高水準の決算、3強時代の再編、艦艇輸出・自律運航・脱炭素という新競争軸、リスクとFAQまで客観的に整理した完全ガイド",
+    "url": "https://zosenblog.com/2024zosengyokai/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "政府が官民投資工程表で国産LNG運搬船「2035年以降に年3〜5隻」の建造再開を明記、海事局は27年度概算要求も視野",
+    "url": "https://zosenblog.com/2024zosengyokai/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "造船・舶用に関わる人の必修ニュース 2026年9月第1週｜再生基金が初認定・今治/JMU/名村に最大計2,131億円・防衛省要求は過去最大",
+    "url": "https://zosenblog.com/261024zosentopix/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "造船業再生基金が今治造船・JMU・名村造船所の3件に最大計2,131億円で初認定、九州には官民3,000億円のクラスター計画、防衛省の概算要求は過去最大に",
+    "url": "https://zosenblog.com/261024zosentopix/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
    },
    {
     "quote": "日本造船業に起きた静かな革命──1兆円投資・歴史的統合・脱炭素が描く2030年の航海図｜2025年度総括",
@@ -3621,104 +3911,50 @@
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "日本の造船会社ランキング2026｜売上・年収・将来性を最新決算で比較【再生基金の認定一覧つき】",
+    "quote": "9月も17隻の輸出船を受注し、納期は2030年度まで埋まり始めました",
     "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "日本造船 補助金マップ完全解説｜造船業再生基金3,500億円（8件認定）＋GX移行債＋GI基金の3層支援を一覧で｜2026年9月最新版",
+    "quote": "日本海事新聞・日刊産業新聞・鉄鋼新聞を毎週読み込み、公式IR・官公庁資料と照合したうえで、業界ニュースをわかりやすく解説しています",
     "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "坂出工場に10年で約1,000億円を投資",
-    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "JMU 2026年3月期 通期決算速報｜純利益321億円（+61%）の創業以来最高益・2年連続更新",
-    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "売上3980億円（+22%）・営業利益292億円（+81%）・純利益321億円（+61%）で創業以来最高益・2年連続更新",
-    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "檜垣幸人会長が掲げる世界シェア20%回復・2035年建造能力2倍、NSYや生産購買のシナジー、3000隻達成・売上4646億円の実績、丸亀工場の事故と人手不足の課題まで海事新聞ベースで解説",
-    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "造船の世界市場規模、2032年に2,050億～2,600億米ドルの予測レンジ――日本の造船業再生と代替燃料船需要を分析",
+    "quote": "日本の造船所では納期・船型・生産性が競争力の焦点に",
     "url": "https://www.atpress.ne.jp/news/5632976",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "2025年約1,600億米ドル、2032年まで年平均約5％成長",
+    "quote": "今後の競争力を評価するには、建造隻数だけでなく、収益性の高い船型への対応、納期遵守、ドックの利用効率、設計・製造の標準化などを総合的に確認する必要があります",
     "url": "https://www.atpress.ne.jp/news/5632976",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "について、2025年の商業新造船契約額を約1,600億米ドル（推計レンジ1,450億～2,100億米ドル）、2025年から2032年までの年平均成長率を約5.0％とする分析を公表しました",
+    "quote": "輸送需要の変化は新造船発注に影響しますが、設備要件や納期の違いも船価を左右します",
     "url": "https://www.atpress.ne.jp/news/5632976",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "2032年の市場規模は2,050億～2,600億米ドルの予測レンジを示しています",
+    "quote": "日本市場では、設備投資が進むことを出発点として、建造能力の増強が納期、製品構成、収益性の改善につながるかを継続的に見極める必要があります",
     "url": "https://www.atpress.ne.jp/news/5632976",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "市場規模、2032年までの成長見通し、船種別需要、地域別動向の分析範囲をご覧いただけます",
+    "quote": "地域別の建造能力、価格、船種の専門性、納期、主要部材の調達網を比較することが重要です",
     "url": "https://www.atpress.ne.jp/news/5632976",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "2025年市場規模（中心推計）",
+    "quote": "脱炭素化と造船DXが変える発注・投資の判断基準",
     "url": "https://www.atpress.ne.jp/news/5632976",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "対象計画に伴う官民投資は総額約9,000億円規模とされ、船舶の安定供給や国内建造能力の強化に向けた投資が具体化しています",
-    "url": "https://www.atpress.ne.jp/news/5632976",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "日本の造船会社ランキング2026｜売上・年収・将来性を最新決算で比較【再生基金の認定一覧つき】",
-    "url": "https://zosenblog.com/2024zosengyokai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "造船・海運・重工業の平均年収ランキング2026年版｜最新有報で上場大手から非上場の造船企業まで16社を比較【前年比つき】",
-    "url": "https://zosenblog.com/2024zosengyokai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "日本造船 補助金マップ完全解説｜造船業再生基金3,500億円（8件認定）＋GX移行債＋GI基金の3層支援を一覧で｜2026年9月最新版",
-    "url": "https://zosenblog.com/2024zosengyokai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "日本造船 大復活ロードマップ｜官民1兆円投資・再生基金3,500億円・今治×JMU連合・LNG船とアンモニア船で造船大国を取り戻す｜2026年9月最新版",
-    "url": "https://zosenblog.com/2024zosengyokai/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
@@ -3729,130 +3965,64 @@
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "どうなる？！日本の造船業界｜受注残・JMU統合・政府3500億円支援で読む今後の展望【2026年最新】",
+    "quote": "と高水準を保ち、納期別では2029年度が49%、2030年度が32%と、受注の中心はすでに「3〜4年先」の船です（日本船舶輸出組合の発表、日本海事新聞 2026年7月15日付）",
     "url": "https://zosenblog.com/2024zosengyokai/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "今治造船×JMU統合・政府の造船業再生基金（10年3,500億円）・手持ち工事量約3.6年分など、",
+    "quote": "造船・舶用 直近トピックス 2026年5月17日｜本決算ラッシュ総まとめ・各社過去最高水準・30年度納期じわり拡大",
     "url": "https://zosenblog.com/2024zosengyokai/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "官民投資は総額9,000億円規模、基金からの支援は最大約3,110億円",
+    "quote": "手持ち工事量約3.5年分、4月新造船受注66万GT(+6%)、30年度納期がじわり拡大の最新動向を出典明示で整理",
     "url": "https://zosenblog.com/2024zosengyokai/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "今治グループが最大約1,138億円（日本海事新聞 9月7日・14日付）",
+    "quote": "日本海事新聞・日刊産業新聞・鉄鋼新聞を毎週読み込み、公式IR・官公庁資料と照合したうえで、業界ニュースをわかりやすく解説しています",
     "url": "https://zosenblog.com/2024zosengyokai/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "今治造船は2025年度売上6,005億円で過去最高",
-    "url": "https://zosenblog.com/2024zosengyokai/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "個人預金140兆円がペイオフ対象外、相続集中が招く金融リスク",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "国内銀行の個人預金では、残高1000万円以上の口座が約1288万口、金額は266兆円に達する",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "口座単位で保護上限を差し引くと対象外は約138兆円",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "個人預金140兆円がペイオフ対象外、相続集中が招く金融リスク",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "国内銀行の個人預金では、残高1000万円以上の口座が約1288万口、金額は266兆円に達する",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "口座単位で保護上限を差し引くと対象外は約138兆円",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "造船の世界市場規模、2032年に2,050億～2,600億米ドルの予測レンジ――日本の造船業再生と代替燃料船需要を分析 | NEWSCAST",
+    "quote": "日本の造船所では納期・船型・生産性が競争力の焦点に",
     "url": "https://newscast.jp/smart/news/5632976",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "造船の世界市場規模、2032年に2,050億～2,600億米ドルの予測レンジ――日本の造船業再生と代替燃料船需要を分析",
+    "quote": "今後の競争力を評価するには、建造隻数だけでなく、収益性の高い船型への対応、納期遵守、ドックの利用効率、設計・製造の標準化などを総合的に確認する必要があります",
     "url": "https://newscast.jp/smart/news/5632976",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "2025年約1,600億米ドル、2032年まで年平均約5％成長",
+    "quote": "輸送需要の変化は新造船発注に影響しますが、設備要件や納期の違いも船価を左右します",
     "url": "https://newscast.jp/smart/news/5632976",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "について、2025年の商業新造船契約額を約1,600億米ドル（推計レンジ1,450億～2,100億米ドル）、2025年から2032年までの年平均成長率を約5.0％とする分析を公表しました",
+    "quote": "日本市場では、設備投資が進むことを出発点として、建造能力の増強が納期、製品構成、収益性の改善につながるかを継続的に見極める必要があります",
     "url": "https://newscast.jp/smart/news/5632976",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "2032年の市場規模は2,050億～2,600億米ドルの予測レンジを示しています",
+    "quote": "地域別の建造能力、価格、船種の専門性、納期、主要部材の調達網を比較することが重要です",
     "url": "https://newscast.jp/smart/news/5632976",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "市場規模、2032年までの成長見通し、船種別需要、地域別動向の分析範囲をご覧いただけます",
+    "quote": "脱炭素化と造船DXが変える発注・投資の判断基準",
     "url": "https://newscast.jp/smart/news/5632976",
     "pass": 3,
     "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2025年市場規模（中心推計）",
-    "url": "https://newscast.jp/smart/news/5632976",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "日本の造船会社ランキング2026｜売上・年収・将来性を最新決算で比較【再生基金の認定一覧つき】",
-    "url": "https://zosenblog.com/zosenshoraisei2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "日本造船 大復活ロードマップ｜官民1兆円投資・再生基金3,500億円・今治×JMU連合・LNG船とアンモニア船で造船大国を取り戻す｜2026年9月最新版",
-    "url": "https://zosenblog.com/zosenshoraisei2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "造船・海運・重工業の平均年収ランキング2026年版｜最新有報で上場大手から非上場の造船企業まで16社を比較【前年比つき】",
-    "url": "https://zosenblog.com/zosenshoraisei2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
    },
    {
     "quote": "日本造船業に起きた静かな革命──1兆円投資・歴史的統合・脱炭素が描く2030年の航海図｜2025年度総括",
@@ -3861,37 +4031,79 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "日本造船 補助金マップ完全解説｜造船業再生基金3,500億円（8件認定）＋GX移行債＋GI基金の3層支援を一覧で｜2026年9月最新版",
+    "quote": "造船業界の将来性は？｜手持ち工事量3.5年分・3強時代・防衛・自律運航・脱炭素で『再復活』フェーズの実像を一次情報で徹底解説",
     "url": "https://zosenblog.com/zosenshoraisei2026/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "事務局は、2025年の中国の平均鋼材価格が日本の5割程度だったと報告しました（国土交通省の発表、日本海事新聞）",
+    "quote": "2026年5月時点の一次情報（各社決算短信・日本船舶輸出組合・日本船舶海洋工学会・官公庁公表資料）",
     "url": "https://zosenblog.com/zosenshoraisei2026/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "純利益3,321億円（+35%）",
+    "quote": "将来性の根拠③：脱炭素・環境対応船の競争軸",
     "url": "https://zosenblog.com/zosenshoraisei2026/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "事業利益1,451億円で",
+    "quote": "「数年先まで仕事を確保した好況の中で、量から技術・単価・脱炭素・防衛へと競争軸を移している再復活フェーズ」",
     "url": "https://zosenblog.com/zosenshoraisei2026/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "経常利益295億円で",
+    "quote": "（2030年度納期がじわり拡大）",
     "url": "https://zosenblog.com/zosenshoraisei2026/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "スマートレジ補助4435億円が変える中小企業DXと承継支援策",
+    "quote": "個別の小規模造船所では実現できなかった大型投資・海外展開・脱炭素設備",
+    "url": "https://zosenblog.com/zosenshoraisei2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：受注残・脱炭素設備投資・防衛シフトの収益寄与を追う",
+    "url": "https://zosenblog.com/zosenshoraisei2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：再編後の調達体制・脱炭素対応の仕様変更を継続フォロー",
+    "url": "https://zosenblog.com/zosenshoraisei2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "日本船舶輸出組合の発表で、手持ち工事量は約3.5年分（604隻・2,922万GT）、納期は2030年度まで入り始めています",
+    "url": "https://zosenblog.com/zosenshoraisei2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ここを混ぜると、実際には元請の固定採用が増えていないのに、市場が強く見えてしまうことがあります",
+    "url": "https://note.com/yo4shi80/n/nf9912a86ef51",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "さらに4〜6月受注分の納期内訳は、",
+    "url": "https://note.com/yo4shi80/n/nf9912a86ef51",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "空きがあれば取りたかった案件を、納期、工程、人員の制約から見送っている側面が大きいのです",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "特に環境対応船や高機能船では、品質と納期を守るために、むしろ無理に受注を広げない判断も起きています",
     "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -3903,104 +4115,110 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "高収益の特殊タイヤ、AIによる耐久予測、250億円の設備更新を軸に、日本の製造業に残る競争力と資源価格・環境負荷という構造的リスクを読み解く",
+    "quote": "韓国勢との技術差、官民支援、人材育成、脱炭素船との接続、LNG需要の変化、船主の発注判断、国内装置産業への波及を踏まえ、2035年再開の条件と政策効果を詳しく丁寧に読み解く",
     "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "さらに2035年までに官民で1兆円規模の投資実現を目指す枠組みも示されています",
+    "quote": "海運市況、老朽船の更新、脱炭素対応、経済安全保障の議論が重なり、造船所の建造枠は先々まで埋まりやすい状況です",
     "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "建設業退職金共済の掛金は日額320円で、40年働いても給付は400万円台にとどまる",
+    "quote": "4月受注分の納期は2028年度ものが50.2%、2029年度ものが38.8%、2030年度ものが11.0%で、足元の契約がすでに2〜4年先の建造枠を使っていることが分かります",
     "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "高収益の特殊タイヤ、AIによる耐久予測、250億円の設備更新を軸に、日本の製造業に残る競争力と資源価格・環境負荷という構造的リスクを読み解く",
+    "quote": "第二に、今から追加で受注しようとしても、短納期の案件を取り込みにくいことです",
     "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "官民投資1兆円の中身 - ANGLE Intelligence Studio",
+    "quote": "船主にとっては、日本の品質や納期を評価していても、希望納期に合う建造枠がなければ中国や韓国のヤードに流れる可能性があります",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "注文が集まる船種は、脱炭素や燃料転換の影響を強く受けています",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そのため、日本が狙うべきは、量の競争ではなく、燃費、環境性能、安全性、納期信頼性、ライフサイクルコストを含めた非価格競争力です",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "第三に、脱炭素船の技術開発が、補助金依存ではなく海外船主の発注につながるかです",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "日本は防衛省・海上保安庁の船舶をすべて国内で建造・修繕しているほか、インド太平洋地域に展開する米軍艦艇の修繕にも貢献しています",
     "url": "https://ais.angleinc.jp/manufacturing/japan-shipbuilding-revival-trillion-yen/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "官民投資1兆円の中身",
+    "quote": "2025年10月、防衛省が「防衛力変革推進本部」の会議で、安保三文書の改定に向けた検討を開始するという方針を明らかにしたことが報じられました",
     "url": "https://ais.angleinc.jp/manufacturing/japan-shipbuilding-revival-trillion-yen/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "こうした状況を受け、政府は2035年までに官民で1兆円規模の投資を実現する「造船業再生ロードマップ」を打ち出し、2026年9月には具体的な支援先も動き出しました",
+    "quote": "広島県呉市で、防衛省と防衛装備庁による大規模な施設整備計画が動き出しています",
     "url": "https://ais.angleinc.jp/manufacturing/japan-shipbuilding-revival-trillion-yen/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "あわせて、官民投資1兆円の具体的な内訳と、2026年9月に発表されたばかりの最新の支援決定についても解説します",
+    "quote": "2026年8月28日、防衛省は日本製鉄「瀬戸内製鉄所」呉地区跡地の土地取得契約を締結したと発表しました",
     "url": "https://ais.angleinc.jp/manufacturing/japan-shipbuilding-revival-trillion-yen/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "2035年までに官民で1兆円規模の投資を目指す「造船業再生ロードマップ」を策定",
+    "quote": "ただし、防衛省・海保船舶の建造という経済安全保障上の役割を担う産業である以上、2026年9月に動き出した支援決定は、1兆円という長期目標に向けた最初の一歩と位置づけられます",
     "url": "https://ais.angleinc.jp/manufacturing/japan-shipbuilding-revival-trillion-yen/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "2026年9月、今治造船・JMUグループ・名村造船（函館どつく）への支援を決定、造船業再生基金から最大2,131億円を配分",
+    "quote": "関連記事：外務省の令和9年度概算要求と安全保障関連ODA",
     "url": "https://ais.angleinc.jp/manufacturing/japan-shipbuilding-revival-trillion-yen/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "官民投資1兆円の中身：3本柱とロードマップ",
+    "quote": "外務省の概算要求が1.2兆円規模に",
     "url": "https://ais.angleinc.jp/manufacturing/japan-shipbuilding-revival-trillion-yen/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "あわせて建造コストの10%削減も目指しており、そのための官民投資規模を2035年までに合計で1兆円規模と見込んでいます",
+    "quote": "外務省は2026年8月、令和9年度（2027年度）予算の概算要求を公表しました",
     "url": "https://ais.angleinc.jp/manufacturing/japan-shipbuilding-revival-trillion-yen/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "この1兆円という数字は、あくまで2035年までの長期的な官民投資総額の目標である点に注意が必要です",
+    "quote": "概算要求とは、各省庁が来年度の予算に必要な金額や項目を財務省に提出する、毎年8月頃に行われる恒例の手続きのことです",
     "url": "https://ais.angleinc.jp/manufacturing/japan-shipbuilding-revival-trillion-yen/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "日本の造船会社ランキング2026｜売上・年収・将来性を最新決算で比較【再生基金の認定一覧つき】",
-    "url": "https://zosenblog.com/261024zosentopix/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "日本造船 大復活ロードマップ｜官民1兆円投資・再生基金3,500億円・今治×JMU連合・LNG船とアンモニア船で造船大国を取り戻す｜2026年9月最新版",
-    "url": "https://zosenblog.com/261024zosentopix/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "造船・海運・重工業の平均年収ランキング2026年版｜最新有報で上場大手から非上場の造船企業まで16社を比較【前年比つき】",
-    "url": "https://zosenblog.com/261024zosentopix/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "日本造船 補助金マップ完全解説｜造船業再生基金3,500億円（8件認定）＋GX移行債＋GI基金の3層支援を一覧で｜2026年9月最新版",
-    "url": "https://zosenblog.com/261024zosentopix/",
+    "quote": "今回の要求総額は、金額を […]",
+    "url": "https://ais.angleinc.jp/manufacturing/japan-shipbuilding-revival-trillion-yen/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
@@ -4011,55 +4229,43 @@
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "5. 今週の受注・竣工──デンマーク船主が日本で9隻、HMMは12隻に2,500億円",
+    "quote": "、品質と納期の信頼性で選ばれる日本の造船所に注文が回ってくる可能性もあります（この段落の後段は筆者の見立てです）",
     "url": "https://zosenblog.com/261024zosentopix/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "環境省・国交省の「ゼロエミッション船等の建造促進事業」に採択され、事業費65億円のうち助成は21億円程度",
+    "quote": "2027〜29年納期",
     "url": "https://zosenblog.com/261024zosentopix/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "造船業再生基金の関連事業で、事業費は自社負担を含め約1,000億円、助成は最大400億円",
+    "quote": "中国の受注残首位が新興・恒力造船に交代、HD現代の上期受注90%増、川崎重工の船舶部門24%増益、商談は2030年代納期へ",
     "url": "https://zosenblog.com/261024zosentopix/",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "長州出島への移転を含む基金関連の事業費約1,000億円（助成最大400億円）",
+    "quote": "日本海事新聞・日刊産業新聞・鉄鋼新聞を毎週読み込み、公式IR・官公庁資料と照合したうえで、業界ニュースをわかりやすく解説しています",
     "url": "https://zosenblog.com/261024zosentopix/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：2026〜35年の10年で約1,000億円を投資（基金関連約450億円＋その他約550億円）",
-    "url": "https://zosenblog.com/261024zosentopix/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "OMS Group Closes US$1.03 Billion ECA-Backed Financing for Four Cable-Laying Vessels",
-    "url": "https://www.imarinenews.com/34482.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "According to JSEA data, in fiscal year 2025 (April 2025 to March 2026), new ship orders for Japanese shipbuilders totaled 9.04 million gross tons, a 15% decrease year-on-year. This was mainly due to a decline in the operating rate of Japanese shipbuilders, which could not keep up with the current booming shipbuilding demand.",
-    "url": "https://www.imarinenews.com/34482.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "HD Hyundai Heavy Industries Secures $348.9 Million Icebreaker Contract with Sweden",
-    "url": "https://www.imarinenews.com/34482.html",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
   ],
   "痛み・損（深さの印）": [
+   {
+    "quote": "造船・舶用に関わる人の必修ニュース 2026年8月第2週｜中国受注残トップが恒力造船に交代・韓国2強の受注爆発・川重24%増益──これだけ押さえれば情報通",
+    "url": "https://zosenblog.com/zosenshoraisei2026/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "中国の受注残首位が新興・恒力造船に交代、HD現代の上期受注90%増、川崎重工の船舶部門24%増益、商談は2030年代納期へ",
+    "url": "https://zosenblog.com/zosenshoraisei2026/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
    {
     "quote": "2025年 造船業界トピックス｜年間5大まとめ・受注残・日米協力・今治JMU統合",
     "url": "https://zosenblog.com/2024zosengyokai/",
@@ -4518,11 +4724,6 @@
     "method": "http"
    },
    {
-    "url": "https://www.nikkei.com/article/DGXZQOUC103UF0Q6A410C2000000/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/yo4shi80/n/nf9912a86ef51",
     "status": "ok",
     "method": "http"
@@ -4538,17 +4739,22 @@
     "method": "http"
    },
    {
-    "url": "https://prtimes.jp/main/html/rd/p/000001290.000043465.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://newswitch.jp/p/50490",
     "status": "ok",
     "method": "http"
    },
    {
+    "url": "https://prtimes.jp/main/html/rd/p/000001290.000043465.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://merkmal-biz.jp/post/112064",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/deltacf/n/na8708285e367",
     "status": "ok",
     "method": "http"
    },
@@ -4573,32 +4779,27 @@
     "method": "http"
    },
    {
+    "url": "https://www.imazo.co.jp/news/260724/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://newscast.jp/smart/news/5632976",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://zosenblog.com/2024zosengyokai/",
+    "url": "https://www.nikkei.com/article/DGXZQOUC103UF0Q6A410C2000000/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.kaijipress.com/news/shipbuilding/2025/09/195724/",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/09/204266/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.nikkan.co.jp/brand/industries/shipbuilding/",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://wedge.ismedia.jp/articles/-/40498?layout=b",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.imazo.co.jp/news/260724/",
+    "url": "https://zosenblog.com/zosen-kessan-2026h1/",
     "status": "ok",
     "method": "http"
    },
@@ -4608,29 +4809,19 @@
     "method": "http"
    },
    {
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.indexbox.io/ja/blog/record-shipbuilding-orderbook-hits-2261m-cgt-imo-chief-set-for-second-term/",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.jmd.co.jp/article.php?no=319281",
+    "url": "https://alphabeta-research.ai/reports/5460002",
     "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.logi-today.com/937487",
-    "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
     "url": "https://ais.angleinc.jp/manufacturing/japan-shipbuilding-revival-trillion-yen/",
@@ -4638,37 +4829,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/proceedings/material/zaiseia20261105/01.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.jpmac.or.jp/file/1773288914694.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
     "url": "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1078_06.pdf",
     "status": "http_403",
     "method": "pdf"
    },
    {
-    "url": "https://zosenblog.com/zosen-kessan-2026h1/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.jmd.co.jp/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://zosenblog.com/zeroemisennhojyokin/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://timewell.jp/columns/japan-shipbuilding-revival-economic-security-defense-2026",
+    "url": "https://zosenblog.com/2024zosengyokai/",
     "status": "ok",
     "method": "http"
    },
@@ -4678,9 +4844,19 @@
     "method": "http"
    },
    {
-    "url": "https://www.nikkan.co.jp/spaces/view/0087259",
+    "url": "https://logishift.net/gov/shipbuilding-resilience-fund-certification-2026/",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
+   },
+   {
+    "url": "https://www.yomiuri.co.jp/economy/20251113-OYT1T50198/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yuku.co.jp/news/20260904000000-ab65f361/",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://www.nikkan.co.jp/",
@@ -4688,14 +4864,44 @@
     "method": "browser"
    },
    {
-    "url": "https://newswitch.jp/image/42360",
+    "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203661/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.nikkan.co.jp/articles/search?q=JMU&amp;amp;utm_source=brand&amp;amp;utm_content=industries_shipbuilding",
+    "url": "https://www.nippon.com/en/articles/-/15215",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarinenews.com/34482.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://redcensor.com/112253/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asia.nikkei.com/business/transportation/japan-shipbuilding-orders-fall-15-despite-push-from-tokyo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.worldports.org/japans-new-ship-orders-fall-for-fourth-straight-year-down-15-in-fy2025-as-shipyards-struggle-to-meet-booming-global-demand/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.breakwaveadvisors.com/insights/2026/4/14/japans-shipbuilding-industry-capacity-constraints-and-structural-transition",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/deltacf/n/nea6920f7f035?hl=en",
+    "status": "ok",
+    "method": "http"
    }
   ]
  },
@@ -4707,15 +4913,15 @@
     "https://tokyonewsmedia.com/archives/21191",
     "https://zosenblog.com/zosen-hitode-fukayomi/",
     "https://hotservice.com.tw/ja/%E3%80%90%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3-%E9%99%B8%E3%83%BB%E6%B5%B7%E3%83%BB%E7%A9%BA-%E8%8D%92%E6%B3%A2%E3%81%AE%E5%85%88%E3%80%91-%EF%BC%884%EF%BC%89%E9%80%A0%E8%88%B9%E3%81%AE%E5%8D%94/",
-    "https://newswitch.jp/p/50490",
     "https://prtimes.jp/main/html/rd/p/000001290.000043465.html",
-    "https://www.kaijipress.com/news/shipbuilding/2024/11/188542/",
-    "https://www.mk.co.kr/jp/business/12141361",
     "https://note.com/deltacf/n/na8708285e367",
+    "https://newswitch.jp/p/50490",
+    "https://www.kaijipress.com/news/shipbuilding/2024/11/188542/",
+    "https://merkmal-biz.jp/post/112064",
     "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 14
@@ -4723,7 +4929,7 @@
   {
    "query": "造船の受注残と人手不足（一次） 受注残 人手不足",
    "results": [
-    "https://www.nikkei.com/article/DGXZQOUC103UF0Q6A410C2000000/",
+    "https://www.nikkei.com/article/DGKKZO95636700U6A410C2EA2000/",
     "https://zosenblog.com/zosen-hitode-fukayomi/",
     "https://note.com/yo4shi80/n/nf9912a86ef51",
     "https://tokyonewsmedia.com/archives/21191",
@@ -4731,11 +4937,11 @@
     "https://hotservice.com.tw/ja/%E3%80%90%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3-%E9%99%B8%E3%83%BB%E6%B5%B7%E3%83%BB%E7%A9%BA-%E8%8D%92%E6%B3%A2%E3%81%AE%E5%85%88%E3%80%91-%EF%BC%884%EF%BC%89%E9%80%A0%E8%88%B9%E3%81%AE%E5%8D%94/",
     "https://www.ichiyoshi.co.jp/topic/kabuto457",
     "https://newswitch.jp/p/50490",
-    "https://www.indexbox.io/ja/blog/global-shipbuilding-orderbook-tops-2008-record-at-2261m-cgt-as-china-holds-68-share/",
+    "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
     "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 14
@@ -4749,13 +4955,13 @@
     "https://prtimes.jp/main/html/rd/p/000001290.000043465.html",
     "https://newswitch.jp/p/50490",
     "https://merkmal-biz.jp/post/112064",
-    "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
     "https://note.com/deltacf/n/na8708285e367",
+    "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
     "https://www.kaijipress.com/news/shipbuilding/2023/05/175744/",
     "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 14
@@ -4765,17 +4971,17 @@
    "results": [
     "https://www.kaijipress.com/news/shipbuilding/2026/10/204939/",
     "https://www.jmd.co.jp/articleList.php?category=shipbuilding_equipment",
-    "https://www.nikkei.com/article/DGKKZO95636700U6A410C2EA2000/",
     "https://tokyonewsmedia.com/archives/21191",
     "https://zosenblog.com/zosenshoraisei2026/",
-    "https://newscast.jp/smart/news/5632976",
     "https://www.imazo.co.jp/news/260724/",
+    "https://www.nikkei.com/article/DGXZQOUC103UF0Q6A410C2000000/",
+    "https://newscast.jp/smart/news/5632976",
     "https://www.atpress.ne.jp/news/5632976",
-    "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
-    "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage"
+    "https://prtimes.jp/main/html/rd/p/000001290.000043465.html",
+    "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -4783,19 +4989,19 @@
   {
    "query": "造船の受注残と人手不足（一次） 発表 2026年11月",
    "results": [
+    "https://www.kaijipress.com/news/shipbuilding/2026/10/204939/",
+    "https://www.jmd.co.jp/articleList.php?category=shipbuilding_equipment",
+    "https://tokyonewsmedia.com/archives/21191",
     "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
-    "https://zosenblog.com/2024zosengyokai/",
-    "https://prtimes.jp/main/html/rd/p/000001290.000043465.html",
+    "https://zosenblog.com/zosenshoraisei2026/",
+    "https://newscast.jp/smart/news/5632976",
+    "https://www.imazo.co.jp/news/260724/",
+    "https://note.com/yo4shi80/n/nf9912a86ef51",
     "https://www.nikkei.com/article/DGXZQOUC103UF0Q6A410C2000000/",
-    "https://www.kaijipress.com/news/shipbuilding/2025/09/195724/",
-    "https://www.nikkan.co.jp/brand/industries/shipbuilding/",
-    "https://wedge.ismedia.jp/articles/-/40498?layout=b",
-    "https://x.com/Kaiji_Press/status/1722752612238590194",
-    "https://newswitch.jp/image/42360",
-    "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline"
+    "https://www.kaijipress.com/news/shipbuilding/2026/09/204266/"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -4804,18 +5010,18 @@
    "query": "造船の受注残と人手不足（一次） 受注 2026年11月",
    "results": [
     "https://www.kaijipress.com/news/shipbuilding/2026/10/204939/",
-    "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
     "https://www.nikkei.com/article/DGKKZO95636700U6A410C2EA2000/",
-    "https://newscast.jp/smart/news/5632976",
+    "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
     "https://tokyonewsmedia.com/archives/21191",
-    "https://zosenblog.com/zosenshoraisei2026/",
-    "https://www.imazo.co.jp/news/260724/",
     "https://prtimes.jp/main/html/rd/p/000001290.000043465.html",
+    "https://newscast.jp/smart/news/5632976",
+    "https://www.imazo.co.jp/news/260724/",
     "https://www.atpress.ne.jp/news/5632976",
-    "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline"
+    "https://zosenblog.com/zosenshoraisei2026/",
+    "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -4823,521 +5029,361 @@
   {
    "query": "造船の受注残と人手不足（一次） 提携 2026年11月",
    "results": [
-    "https://www.kaijipress.com/news/shipbuilding/2026/10/204939/",
-    "https://www.indexbox.io/ja/blog/record-shipbuilding-orderbook-hits-2261m-cgt-imo-chief-set-for-second-term/",
-    "https://www.imazo.co.jp/news/260724/",
-    "https://zosenblog.com/zosenshoraisei2026/",
-    "https://www.jmd.co.jp/article.php?no=319281",
-    "https://prtimes.jp/main/html/rd/p/000001290.000043465.html",
-    "https://www.atpress.ne.jp/news/5632976",
-    "https://www.logi-today.com/937487",
-    "https://www.nikkei.com/article/DGXZQOUC103UF0Q6A410C2000000/",
-    "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage"
+    "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
+    "https://ais.angleinc.jp/manufacturing/japan-shipbuilding-revival-trillion-yen/",
+    "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1078_06.pdf",
+    "https://zosenblog.com/zosen-hitode-fukayomi/",
+    "https://alphabeta-research.ai/reports/5460002",
+    "https://www.kaijipress.com/news/shipbuilding/2026/09/204266/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "造船の受注残と人手不足（一次） 設備投資 2026年11月",
    "results": [
-    "https://www.kaijipress.com/news/shipbuilding/2026/10/204939/",
-    "https://newscast.jp/smart/news/5632976",
-    "https://www.imazo.co.jp/news/260724/",
-    "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
-    "https://www.atpress.ne.jp/news/5632976",
-    "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/proceedings/material/zaiseia20261105/01.pdf",
-    "https://www.jpmac.or.jp/file/1773288914694.pdf",
-    "https://www.nikkei.com/article/DGKKZO95636700U6A410C2EA2000/",
-    "https://prtimes.jp/main/html/rd/p/000001290.000043465.html",
-    "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline"
+    "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
+    "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1078_06.pdf",
+    "https://zosenblog.com/2024zosengyokai/",
+    "https://ais.angleinc.jp/manufacturing/japan-shipbuilding-revival-trillion-yen/",
+    "https://alphabeta-research.ai/reports/5460002",
+    "https://zosenblog.com/zosen-hitode-fukayomi/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:yahoo"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "造船の受注残と人手不足（一次） 補助金 採択 2026年11月",
    "results": [
-    "https://www.kaijipress.com/news/shipbuilding/2026/10/204939/",
-    "https://tokyonewsmedia.com/archives/21191",
-    "https://www.jpmac.or.jp/file/1773288914694.pdf",
-    "https://prtimes.jp/main/html/rd/p/000001290.000043465.html",
-    "https://www.jmd.co.jp/",
-    "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
-    "https://zosenblog.com/zeroemisennhojyokin/",
-    "https://www.nikkei.com/article/DGXZQOUC103UF0Q6A410C2000000/",
-    "https://timewell.jp/columns/japan-shipbuilding-revival-economic-security-defense-2026",
-    "https://zosenblog.com/zosenhojyokin/"
+    "https://zosenblog.com/zosenhojyokin/",
+    "https://logishift.net/gov/shipbuilding-resilience-fund-certification-2026/",
+    "https://ais.angleinc.jp/manufacturing/japan-shipbuilding-revival-trillion-yen/",
+    "https://zosenblog.com/2024zosengyokai/",
+    "https://www.yomiuri.co.jp/economy/20251113-OYT1T50198/",
+    "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "https://yuku.co.jp/news/20260904000000-ab65f361/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "造船の受注残と人手不足（一次） 日刊工業新聞 2026年11月",
    "results": [
-    "https://www.nikkan.co.jp/spaces/view/0087259",
-    "https://www.kaijipress.com/news/shipbuilding/2026/10/204939/",
     "https://www.nikkan.co.jp/",
-    "https://www.nikkan.co.jp/brand/industries/shipbuilding/",
-    "https://www.nikkei.com/article/DGXZQOUC103UF0Q6A410C2000000/",
-    "https://www.jmd.co.jp/articleList.php?category=shipbuilding_equipment",
-    "https://newswitch.jp/image/42360",
-    "https://www.nikkan.co.jp/articles/search?q=JMU&amp;amp;utm_source=brand&amp;amp;utm_content=industries_shipbuilding",
-    "https://www.jiji.com/jc/v8?id=20261014keizai",
-    "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline"
+    "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
+    "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "https://zosenblog.com/zosen-kessan-2026h1/",
+    "https://zosenblog.com/zosen-hitode-fukayomi/",
+    "https://www.kaijipress.com/news/shipbuilding/2026/09/204266/",
+    "https://www.kaijipress.com/news/shipbuilding/2026/08/203661/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 15
+   "n_hits": 7
   },
   {
    "query": "shipbuilding order backlog labor shortage Japan news 2026年11月",
    "results": [
+    "https://www.nippon.com/en/in-depth/d01247/",
     "https://www.imarinenews.com/34482.html",
-    "https://www.nippon.com/en/articles/-/15215",
-    "https://maritime-executive.com/article/fertility-rate-curbs-japanese-shipbuilding-boom",
-    "https://www.brsshipbrokers.com/en/news/japan-s-shipbuilding-industry-reaction-to-maintain-its-global-orderbook-share-consolidation-and-modernization",
-    "https://www.youtube.com/watch?v=q2d2ERCz0Xk",
-    "https://www.oecd.org/en/publications/peer-review-of-the-japanese-shipbuilding-industry-2026_717ba40f-en.html",
+    "https://redcensor.com/112253/",
     "https://asia.nikkei.com/business/transportation/japan-shipbuilding-orders-fall-15-despite-push-from-tokyo",
-    "https://www.linkedin.com/posts/japanmaritimedaily_tradewindsevents-shippingnews-japaneseshipping-activity-7381501088392298496-JIuS",
-    "https://www.hellenicshippingnews.com/japans-shipbuilding-stumbles-as-talent-gap-widens-korea-leverages-brainpower/",
-    "https://www.nippon.com/en/in-depth/d01247/"
+    "https://tzp.news/en/news/2026-08-24-japonya-tersane-kapasitesini-ikiye-katlama-plani-isgucu-darligi/",
+    "https://min.news/en/economy/7a83d201b7a374d29b385f0a56d65786.html",
+    "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 14
+   "n_hits": 7
   },
   {
    "query": "shipbuilding order backlog labor shortage Japan Japan 2026年11月",
    "results": [
-    "https://www.linkedin.com/posts/japanmaritimedaily_tradewindsevents-shippingnews-japaneseshipping-activity-7381501088392298496-JIuS",
-    "https://asia.nikkei.com/business/transportation/japan-shipbuilding-orders-fall-15-despite-push-from-tokyo",
-    "https://www.nippon.com/en/articles/-/15215",
-    "https://www.imarinenews.com/34482.html",
-    "https://www.trade.gov/market-intelligence/japan-shipbuilding-industry",
-    "https://maritime-executive.com/article/fertility-rate-curbs-japanese-shipbuilding-boom",
-    "https://www.brsshipbrokers.com/en/news/japan-s-shipbuilding-industry-reaction-to-maintain-its-global-orderbook-share-consolidation-and-modernization",
-    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/04/peer-review-of-the-japanese-shipbuilding-industry-2026_f11fb74c/717ba40f-en.pdf",
+    "https://www.nippon.com/en/in-depth/d01247/",
+    "https://www.worldports.org/japans-new-ship-orders-fall-for-fourth-straight-year-down-15-in-fy2025-as-shipyards-struggle-to-meet-booming-global-demand/",
     "https://www.breakwaveadvisors.com/insights/2026/4/14/japans-shipbuilding-industry-capacity-constraints-and-structural-transition",
-    "https://www.nippon.com/en/in-depth/d01247/"
+    "https://asia.nikkei.com/business/transportation/japan-shipbuilding-orders-fall-15-despite-push-from-tokyo",
+    "https://note.com/deltacf/n/nea6920f7f035?hl=en",
+    "https://tzp.news/en/news/2026-08-24-japonya-tersane-kapasitesini-ikiye-katlama-plani-isgucu-darligi/",
+    "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 14
+   "n_hits": 7
   },
   {
    "query": "site:note.com 造船の受注残と人手不足（一次） 2026",
    "results": [
-    "https://note.com/yo4shi80/n/nf9912a86ef51",
+    "https://note.com/deltacf/n/nea6920f7f035",
+    "https://note.com/deltacf/n/n55a08f5d9a58",
     "https://note.com/deltacf/n/na8708285e367",
-    "https://note.com/umaki11/n/n264c662f5f80",
-    "https://note.com/oh_no/n/n279a56d625f6",
-    "https://note.com/tatsuya_sabato/n/ncabe31d6598a",
-    "https://note.com/kabutabi2000/n/nfa887ed4cde4",
-    "https://note.com/bright_bee861/n/nf09d8630e047",
-    "https://note.com/tatsuya_sabato/n/n916bf22891e3",
-    "https://note.com/kagawatomo/n/n825e649ea3cc",
-    "https://note.com/stock1/n/n41d3d433de07"
+    "https://note.com/deltacf/n/nc2972247e460",
+    "https://note.com/deltacf/n/nef4aadcef86b",
+    "https://note.com/keizai_newsdiary/n/n0e3179f0489e",
+    "https://note.com/deltacf/n/n6507e83f5db0"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "site:x.com 造船の受注残と人手不足（一次）",
    "results": [
-    "https://x.com/KagawaTomo/article/2080070859822424069",
-    "https://x.com/luigi_jpn/status/2094562625690755302",
-    "https://x.com/bay_night_",
-    "https://x.com/tfmitsui",
-    "https://x.com/vest_ride",
-    "https://x.com/itmedia/status/2036614076781224280",
+    "https://x.com/93kabuo/status/2043615616549216481",
     "https://x.com/merkmaljp/status/2036539384963424710",
     "https://x.com/ship_investor/status/2037668243876495394",
-    "https://x.com/Kunizaki_mos/status/2034303395251818680",
-    "https://x.com/sereno_investor/status/2035007220556210494"
+    "https://x.com/itmedia/status/2036614076781224280",
+    "https://x.com/ship_investor/status/2059589136861028404",
+    "https://x.com/sereno_investor/status/2035007220556210494",
+    "https://x.com/Kunizaki_mos/status/2034303395251818680"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 12
+   "n_hits": 7
   },
   {
    "query": "site:linkedin.com shipbuilding order backlog labor shortage Japan",
-   "results": [
-    "https://www.linkedin.com/posts/japanmaritimedaily_oshimashipbuilding-oshimaofthebulks-bulker-activity-7370629463438458880-33OP",
-    "https://www.linkedin.com/posts/japanmaritimedaily_shipping-maritime-jmd-activity-7524282354438164480-28ne",
-    "https://www.linkedin.com/posts/japanmaritimedaily_naikaizosen-hiroshiterao-shipbuilding-activity-7441657488615305216-Eeu2",
-    "https://www.linkedin.com/company/japanmaritimedaily",
-    "https://www.linkedin.com/pulse/shipbuilding-orders-surge-2026-becoming-another-2008-yang-chen-%E9%99%88%E6%B4%8B--bdric",
-    "https://www.linkedin.com/posts/japanmaritimedaily_tsuneishishipbuilding-tsuneishiheavyindustries-activity-7426437199086411776-LHrL",
-    "https://www.linkedin.com/top-content/supply-chain-management/managing-supply-chain-disruptions/order-backlog-impact-on-maritime-companies/",
-    "https://www.linkedin.com/posts/frank-marmol-b9048223_shipbuilding-shipyard-ship-activity-7513025613578997760-BpA7",
-    "https://jp.linkedin.com/company/japanmaritimedaily",
-    "https://www.linkedin.com/posts/leoneluca_tkms-reports-record-206-billion-order-backlog-activity-7460267734392635399--U2s"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   }
  ],
  "missing": {},
  "new_this_run": {
-  "顧客の顧客（発注元が求めること）": [
+  "政治（法・予算・規制）": [
    {
-    "quote": "財務省の1,877人調査、東京23区の家賃高騰、総合職の離職状況を基に、8,500戸の改修計画が遅れる構造、BCP拠点としての役割、断熱・省エネまで含む資産再生の条件を詳しく解説する",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
+    "quote": "造船・舶用に関わる人の必修ニュース 2026年7月第1週｜日本建造バルカー船価が強含み・政府成長戦略に造船明記・さんふらわあRORO3隻を内海造船で──これだけ押さえれば情報通",
+    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-10"
    },
    {
-    "quote": "財務省の1,877人調査、東京23区の家賃高騰、総合職の離職状況を基に、8,500戸の改修計画が遅れる構造、BCP拠点としての役割、断熱・省エネまで含む資産再生の条件を詳しく解説する",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "quote": "日本建造バルカーの新造船価が強含み、NOx規制改正の駆け込み発注や期近納期の高値成約も",
+    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-10"
    },
    {
-    "quote": "日本造船業に起きた静かな革命──1兆円投資・歴史的統合・脱炭素が描く2030年の航海図｜2025年度総括",
-    "url": "https://zosenblog.com/zeroemisennhojyokin/",
+    "quote": "政府の日本成長戦略に造船が明記されLNG船年3〜5隻を経済安保と位置づけ",
+    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-10"
    },
    {
-    "quote": "政府が官民投資工程表で国産LNG運搬船「2035年以降に年3〜5隻」の建造再開を明記、海事局は27年度概算要求も視野",
-    "url": "https://zosenblog.com/zeroemisennhojyokin/",
+    "quote": "ゼロエミッション船等建造促進事業とは｜GX補助金の採択34件・補助額一覧と二次公募（10月9日締切）【2026年9月最新】",
+    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
     "pass": 3,
-    "first_seen": "2026-11-09"
-   },
+    "first_seen": "2026-11-10"
+   }
+  ],
+  "検索結果の抜粋": [
    {
-    "quote": "USTR301条が日本造船に与える追い風、新型FFM 3隻追加受注(1286億円)、LNG船国内建造復活議論の結論時期、中東情勢の納期遅延リスク、造船業再生基金1200億円まで一次情報で整理",
-    "url": "https://zosenblog.com/zeroemisennhojyokin/",
+    "quote": "【図解付き】日本の造船業の現在地。官民投資1兆円の中身 - ANGLE Int... — Sep 8, 2026 · 【図解付き】日本の造船業の現在地を解説。 世界シェア8%まで縮小した背景と、2035年までに官民1兆円を投じる造船業再生ロードマップ、2026年9月の今治造船・JMU・名村造船への支援決定まで、一次情報をもとに整理します。",
+    "url": "https://ais.angleinc.jp/manufacturing/japan-shipbuilding-revival-trillion-yen/",
     "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "日本海事新聞・日刊産業新聞・鉄鋼新聞を毎週読み込み、公式IR・官公庁資料と照合したうえで、業界ニュースをわかりやすく解説しています",
-    "url": "https://zosenblog.com/zeroemisennhojyokin/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "船舶建造体制の強靱化、造船人材の確保と育成、脱炭素化を通じたゲームチェンジ、安定的な需要の確保、同志国とグローバルサウスとの連携です",
-    "url": "https://timewell.jp/columns/japan-shipbuilding-revival-economic-security-defense-2026",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "艦艇の建造は限られた造船事業者とサプライヤーに集中しており、事業撤退でサプライチェーンの脆弱化が進んでいる、という記述もあります",
-    "url": "https://timewell.jp/columns/japan-shipbuilding-revival-economic-security-defense-2026",
-    "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-10"
    }
   ],
   "技術（新しい技術・実証）": [
    {
-    "quote": "三菱重工業とオーストラリア政府が、豪海軍の次期汎用フリゲートとして「もがみ型」能力向上型11隻の共同開発・生産契約を締結",
-    "url": "https://zosenblog.com/zosenshoraisei2026/",
+    "quote": "造船・舶用に関わる人の必修ニュース 2026年7月第3週｜川崎重工×NVIDIAでAI造船所へ・日米AI造船ロボ始動・SOY2025表彰式──これだけ押さえれば情報通",
+    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-10"
    },
    {
-    "quote": "実証船すいそふろんてぃあの約30倍、蒸発する水素で発電して走るBOG活用設計、神戸製鋼の圧縮機供給に見る造船×鉄鋼の国産サプライチェーンまで、2030年度実証への道筋を解説します",
-    "url": "https://zosenblog.com/2024zosengyokai/",
+    "quote": "川崎重工がNVIDIAと組み坂出工場を次世代デジタルシップヤードへ、国交省の日米AI造船ロボ研究も本格始動",
+    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-10"
    },
    {
-    "quote": "造船業界 2026年5月 必読トピック5選｜韓国Q1受注・再生ロードマップ・LCO2船開発ほか",
-    "url": "https://zosenblog.com/2024zosengyokai/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "韓国HD現代+86%・サムスン重工+41%のQ1受注、政府の再生ロードマップ始動、今治造船多度津工場増設、邦船3社×造船4社のLCO2船共同開発、5月決算シーズンの注目銘柄まで完全ガイド",
-    "url": "https://zosenblog.com/2024zosengyokai/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "日本発、AIハーネス“AICO層”に",
+    "quote": "シリコンウェーハ市場、2032年に最大260億米ドル規模へ―AI半導体需要が成長をけん引、信越半導体・SUMCOの競争力に注目",
     "url": "https://www.atpress.ne.jp/news/5632976",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-10"
    },
    {
-    "quote": "「フィジカルAIのガードレール基盤特許」が誕生",
-    "url": "https://www.atpress.ne.jp/news/5632976",
+    "quote": "国内の建造能力を抜本的に引き上げるため、省力化・自動化設備、ドック拡張、クレーン導入などの大規模投資を支援します",
+    "url": "https://yuku.co.jp/news/20260904000000-ab65f361/",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-10"
    },
    {
-    "quote": "株式会社ジェイ・バン(広報委託先)、一般社団法人AICO層知財コンソーシアム",
-    "url": "https://www.atpress.ne.jp/news/5632976",
+    "quote": "生成AIの性質上、内容に誤りや不完全な表現が含まれる可能性があります",
+    "url": "https://yuku.co.jp/news/20260904000000-ab65f361/",
     "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "GaN半導体デバイス市場規模、2032年に180億～250億米ドルへ――年平均成長率34.71％、AIデータセンターと次世代電力変換が成長を後押し",
-    "url": "https://www.atpress.ne.jp/news/5632976",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "クレディセゾンがアジア開発銀行（ADB）と組み、3年間で最大5億ドル（約800億円）を調達して新興国の中小企業融資を拡大する",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "インドで磨いた4つの融資モデル、国際開発金融機関との連携効果、インドネシアで表面化した貸倒リスクを検証し、海外事業の収益性と投資家が注視すべき指標を金融・規制の両面から読み解く",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "社会（人・担い手）": [
-   {
-    "quote": "設計と現場の両方で人材不足が深刻で、造船業の就労者は2019年の約9万人から2024年には約7万人に減ったこと",
-    "url": "https://timewell.jp/columns/japan-shipbuilding-revival-economic-security-defense-2026",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "船舶建造体制の強靱化、造船人材の確保と育成、脱炭素化を通じたゲームチェンジ、安定的な需要の確保、同志国とグローバルサウスとの連携です",
-    "url": "https://timewell.jp/columns/japan-shipbuilding-revival-economic-security-defense-2026",
-    "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-10"
    }
   ],
   "顧客の競合（奪いに来る側）": [
    {
-    "quote": "JMUの上期決算と廣瀬社長の投資計画、国内造船の受注動向と内海造船、造工専務理事のLNG船建造再開への言及、中国造船の主機不足、MEPC85とNZF、重工・海運の決算をまとめました",
-    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "造船業界 2026年5月 必読トピック5選｜韓国Q1受注・再生ロードマップ・LCO2船開発ほか",
-    "url": "https://zosenblog.com/2024zosengyokai/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "韓国HD現代+86%・サムスン重工+41%のQ1受注、政府の再生ロードマップ始動、今治造船多度津工場増設、邦船3社×造船4社のLCO2船共同開発、5月決算シーズンの注目銘柄まで完全ガイド",
-    "url": "https://zosenblog.com/2024zosengyokai/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "中国が受注の約7割、日本の輸出船契約は約2割減という世界の構図から、今治造船×JMU統合、官民1兆円投資、各社の最新業績までまとめました",
-    "url": "https://zosenblog.com/2024zosengyokai/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "軍事費で世界上位の中国とロシアは、なぜNATO型の同盟網を築かないのか",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "インドで磨いた4つの融資モデル、国際開発金融機関との連携効果、インドネシアで表面化した貸倒リスクを検証し、海外事業の収益性と投資家が注視すべき指標を金融・規制の両面から読み解く",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "政治（法・予算・規制）": [
-   {
-    "quote": "売上トップ10、有報ベースの平均年収、造船業再生基金の認定額までわかる、就活・転職・投資に役立つ決定版です",
-    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "三菱重工業とオーストラリア政府が、豪海軍の次期汎用フリゲートとして「もがみ型」能力向上型11隻の共同開発・生産契約を締結",
+    "quote": "造船・舶用に関わる人の必修ニュース 2026年8月第2週｜中国受注残トップが恒力造船に交代・韓国2強の受注爆発・川重24%増益──これだけ押さえれば情報通",
     "url": "https://zosenblog.com/zosenshoraisei2026/",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-10"
    },
    {
-    "quote": "インドで磨いた4つの融資モデル、国際開発金融機関との連携効果、インドネシアで表面化した貸倒リスクを検証し、海外事業の収益性と投資家が注視すべき指標を金融・規制の両面から読み解く",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "自社の競合（商社・代理店・仲介）": [
-   {
-    "quote": "ただし民営化前の郵便貯金や未利用口座手数料は別扱いです",
+    "quote": "中国の金本位制ルネサンス、ドル覇権を揺らす米国との新通貨戦争",
     "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-10"
    },
    {
-    "quote": "ただし民営化前の郵便貯金や未利用口座手数料は別扱いです",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "quote": "中国人民銀行は2026年7〜9月に金を63トン積み増し、上海・香港の金取引基盤と人民元決済網を拡張する",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-10"
    },
    {
-    "quote": "米通商代表部（USTR）は2025年10月14日、中国で建造された船や中国の船社が運航する船が米国の港に入る際の手数料を発効させました",
-    "url": "https://timewell.jp/columns/japan-shipbuilding-revival-economic-security-defense-2026",
+    "quote": "一方、米国はテキサス州の金銀法制とドル連動型ステーブルコインで対抗する",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-10"
    }
   ],
   "経済（規模・価格・為替）": [
    {
-    "quote": "売上トップ10、有報ベースの平均年収、造船業再生基金の認定額までわかる、就活・転職・投資に役立つ決定版です",
+    "quote": "造船・舶用に関わる人の必修ニュース 2026年6月第2週｜HD現代が原子力推進船AiP・商船三井×JAL「空飛ぶ船」・世界初アンモニア燃料外航船竣工・長崎県が造船支援1.6億円──これだけ押さえれば情報通",
     "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-10"
    },
    {
-    "quote": "内海造船（7018）の株価・配当・今後を徹底解説｜上期で通期予想を超過も受注残は1,172億円に減少、決算翌日は12%安──カナデビア系の中堅造船を決算短信で読む・2026年11月版",
+    "quote": "2025年度の寄付総額は1兆3314億円、ポータル手数料は平均11.5％",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "2025年度の寄付総額は1兆3314億円、ポータル手数料は平均11.5％",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "国土交通省、造船業再生基金で3計画を初認定 最大2131億円を助成 | YUKU NEWS",
+    "url": "https://yuku.co.jp/news/20260904000000-ab65f361/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "国土交通省、造船業再生基金で3計画を初認定 最大2131億円を助成",
+    "url": "https://yuku.co.jp/news/20260904000000-ab65f361/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "2026年度から2034年度までの最大助成額は合計約2,131億円です",
+    "url": "https://yuku.co.jp/news/20260904000000-ab65f361/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   }
+  ],
+  "自社の競合（商社・代理店・仲介）": [
+   {
+    "quote": "ふるコミ手数料2.5％、ふるさと納税の寡占市場を本当に崩せるか",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "2025年度の寄付総額は1兆3314億円、ポータル手数料は平均11.5％",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "6割ルールが迫るなか、低手数料が自治体財政と返礼品競争をどう変えるのか、決済費や集客力を含む実質負担、大手との競争条件、政策効果まで深く読み解く",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "ふるコミ手数料2.5％、ふるさと納税の寡占市場を本当に崩せるか",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "2025年度の寄付総額は1兆3314億円、ポータル手数料は平均11.5％",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "6割ルールが迫るなか、低手数料が自治体財政と返礼品競争をどう変えるのか、決済費や集客力を含む実質負担、大手との競争条件、政策効果まで深く読み解く",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   }
+  ],
+  "顧客の顧客（発注元が求めること）": [
+   {
+    "quote": "日本建造バルカーの新造船価が強含み、NOx規制改正の駆け込み発注や期近納期の高値成約も",
     "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-10"
    },
    {
-    "quote": "造船の世界市場規模、2032年に2,050億～2,600億米ドルの予測レンジ――日本の造船業再生と代替燃料船需要を分析 | ReportPrime（レポートプライム）",
-    "url": "https://www.atpress.ne.jp/news/5632976",
+    "quote": "GX補助金の概要・目的・採択企業リスト・最新動向まで、造船×脱炭素の重要施策を解説",
+    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-10"
    },
    {
-    "quote": "学費年1000万円でも集まる英国系インター校、日本進出の勝算",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
+    "quote": "USTR301条が日本造船に与える追い風、新型FFM 3隻追加受注(1286億円)、LNG船国内建造復活議論の結論時期、中東情勢の納期遅延リスク、造船業再生基金1200億円まで一次情報で整理",
+    "url": "https://zosenblog.com/zosen-hitode-fukayomi/",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-10"
    },
    {
-    "quote": "年1000万円を超す学費でもアジアの家庭を引きつける背景を、英国の学費VAT、在留外国人の増加、教育資格、地域経済との関係から検証し、成長条件と見落とせない課題を読み解く",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "クレディセゾンとADB提携、アジア中小融資800億円の成長戦略",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "クレディセゾンがアジア開発銀行（ADB）と組み、3年間で最大5億ドル（約800億円）を調達して新興国の中小企業融資を拡大する",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "学費年1000万円でも集まる英国系インター校、日本進出の勝算",
+    "quote": "勘定系への侵入経路、狙われやすいネットバンキングや委託先、停止と継続の判断軸、利用者が平時に整える認証・決済・連絡手段を解説します",
     "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-10"
    },
    {
-    "quote": "年1000万円を超す学費でもアジアの家庭を引きつける背景を、英国の学費VAT、在留外国人の増加、教育資格、地域経済との関係から検証し、成長条件と見落とせない課題を読み解く",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "quote": "勘定系への侵入経路、狙われやすいネットバンキングや委託先、停止と継続の判断軸、利用者が平時に整える認証・決済・連絡手段を解説します",
+    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-10"
    },
    {
-    "quote": "クレディセゾンとADB提携、アジア中小融資800億円の成長戦略",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
+    "quote": "大型投資を実際の生産能力向上と納期短縮、人手不足への対応に結び付けられるかが重要です",
+    "url": "https://yuku.co.jp/news/20260904000000-ab65f361/",
     "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "クレディセゾンがアジア開発銀行（ADB）と組み、3年間で最大5億ドル（約800億円）を調達して新興国の中小企業融資を拡大する",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
-    "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-10"
    }
   ],
   "痛み・損（深さの印）": [
    {
-    "quote": "2025年 造船業界トピックス｜年間5大まとめ・受注残・日米協力・今治JMU統合",
-    "url": "https://zosenblog.com/2024zosengyokai/",
+    "quote": "造船・舶用に関わる人の必修ニュース 2026年8月第2週｜中国受注残トップが恒力造船に交代・韓国2強の受注爆発・川重24%増益──これだけ押さえれば情報通",
+    "url": "https://zosenblog.com/zosenshoraisei2026/",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-10"
    },
    {
-    "quote": "受注残3.7年分・日米協力・フェリー大量発注・政府3,500億円支援・今治JMU統合まで、業界の構造変化を一気にチェック",
-    "url": "https://zosenblog.com/2024zosengyokai/",
+    "quote": "中国の受注残首位が新興・恒力造船に交代、HD現代の上期受注90%増、川崎重工の船舶部門24%増益、商談は2030年代納期へ",
+    "url": "https://zosenblog.com/zosenshoraisei2026/",
     "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "財務省の1,877人調査、東京23区の家賃高騰、総合職の離職状況を基に、8,500戸の改修計画が遅れる構造、BCP拠点としての役割、断熱・省エネまで含む資産再生の条件を詳しく解説する",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-order-decline",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "財務省の1,877人調査、東京23区の家賃高騰、総合職の離職状況を基に、8,500戸の改修計画が遅れる構造、BCP拠点としての役割、断熱・省エネまで含む資産再生の条件を詳しく解説する",
-    "url": "https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "どうなる？！日本の造船業界｜受注残・JMU統合・政府3500億円支援で読む今後の展望【2026年最新】",
-    "url": "https://zosenblog.com/zeroemisennhojyokin/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "深読み解説｜造船・舶用の上期決算を総まとめ──JMUは経常65%増、内海造船は受注残16%減で株価急落、市場が見ている「受注残」という数字",
-    "url": "https://zosenblog.com/zeroemisennhojyokin/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "内海造船（7018）の株価・配当・今後を徹底解説｜上期で通期予想を超過も受注残は1,172億円に減少、決算翌日は12%安──カナデビア系の中堅造船を決算短信で読む・2026年11月版",
-    "url": "https://zosenblog.com/zeroemisennhojyokin/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "造船業界 2025年上期トピックス3選と「その後」｜受注残3.7年分・日米協力・フェリー新造ラッシュ",
-    "url": "https://zosenblog.com/zosenhojyokin/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "深読み解説｜造船・舶用の上期決算を総まとめ──JMUは経常65%増、内海造船は受注残16%減で株価急落、市場が見ている「受注残」という数字",
-    "url": "https://zosenblog.com/zosenhojyokin/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "内海造船（7018）の株価・配当・今後を徹底解説｜上期で通期予想を超過も受注残は1,172億円に減少、決算翌日は12%安──カナデビア系の中堅造船を決算短信で読む・2026年11月版",
-    "url": "https://zosenblog.com/zosenhojyokin/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-10"
    }
   ]
  },
- "runs": 5,
+ "runs": 6,
  "first_researched_at": "2026-11-05T05:13:13.905835+00:00"
 }

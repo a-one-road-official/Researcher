@@ -1,0 +1,1164 @@
+{
+ "name": "株式会社立花エレテック",
+ "aliases": [],
+ "context": "PBF=yes 装置=AddUp;EBM;FormUp;PBF;Sapphire;Velo3D;パウダーベッド;電子ビーム金属3D 出典=https://news.sharelab.jp/interviews/addup-formup350-240522/",
+ "researched_at": "2026-11-10T17:01:39.287028+00:00",
+ "official_url": "https://www.tachibana.co.jp/",
+ "identified_by": "search:yahoo_jp:立花エレテック",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "創業： 1921年（大正10年）　9月1日 設立： 1948年（昭和23年）　7月12日",
+    "url": "https://www.tachibana.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "創業",
+    "value": "創業：1921年（大正10年） 9月1日",
+    "url": "https://www.tachibana.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1948年（昭和23年） 7月12日",
+    "url": "https://www.tachibana.co.jp/company/overview/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "〒550-8555 大阪市西区西本町1-13-25 地図・アクセス",
+    "url": "https://www.tachibana.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒550-8555 大阪市西区西本町1-13-25",
+    "url": "https://www.tachibana.co.jp/company/office/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒108-0023 東京都港区芝浦4-18-32",
+    "url": "https://www.tachibana.co.jp/company/office/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒460-0008 名古屋市中区栄1-8-16 名古屋伏見サンケイビル",
+    "url": "https://www.tachibana.co.jp/company/office/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "58億74百万円",
+    "url": "https://www.tachibana.co.jp/company/overview/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結：1,502名（2026年3月末現在） 単体：920名",
+    "url": "https://www.tachibana.co.jp/company/overview/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "1.各種電気機械器具、照明機械器具、通信機械器具、電子応用機械器具、工作機械器具、医療機械器具、事務機械器具、瓦斯器具並びにビル及び住宅関連製品、計量器、その他一般機械器具並びに部品の販売と産業機械器具並びに部品の製造及び販売 2.合金、電気絶縁材料、高圧瓦斯並びにその容器の販売 3.半導体素材、半導体素子、集積回路の販売 4.電子計算機、制御・計測機器、防火・防犯等の防災機器、車両・航空・船舶等の輸送機器、油圧・空気圧機器、冷凍・空調設備機械器具並びに部品の販売 5.前各号に関するシステム設計、ソフトウエア開発の販売 6.プレス・粉末冶金用等の金型及び吊具・鎖等の金属製品、工業用・建築用及び家庭用の合成樹脂製品、各種電池並びに部品の販売 7.コンデンサー・プリント板機材等の電子部品及び材料、配線材料、電線、ケーブル、写真感光材料の販売 8.茶、清涼飲料水及び植物油等の販売 9.前各号に関する輸出入業 10.コンピュータによる情報処理の受託及びサービス業 11.古物営業 12.労働者派遣事業 13.電気工事、管工事、機械器具設置工事、熱絶縁工事、建築一式工事の請負 14.損害保険代理業",
+    "url": "https://www.tachibana.co.jp/company/overview/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "用途・客の産業": [
+   {
+    "quote": "ウェビナー「はじめての自動車制御～『先進運転支援システムの動向と次世代製品のご紹介』～ 」を開催します",
+    "url": "https://www.tachibana.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1.各種電気機械器具、照明機械器具、通信機械器具、電子応用機械器具、工作機械器具、医療機械器具、事務機械器具、瓦斯器具並びにビル及び住宅関連製品、計量器、その他一般機械器具並びに部品の販売と産業機械器具並びに部品の製造及び販売",
+    "url": "https://www.tachibana.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "3.半導体素材、半導体素子、集積回路の販売",
+    "url": "https://www.tachibana.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "4.電子計算機、制御・計測機器、防火・防犯等の防災機器、車両・航空・船舶等の輸送機器、油圧・空気圧機器、冷凍・空調設備機械器具並びに部品の販売",
+    "url": "https://www.tachibana.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "6.プレス・粉末冶金用等の金型及び吊具・鎖等の金属製品、工業用・建築用及び家庭用の合成樹脂製品、各種電池並びに部品の販売",
+    "url": "https://www.tachibana.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "14.損害保険代理業及び自動車損害賠償保険法に基づく保険代理業",
+    "url": "https://www.tachibana.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は創業以来、産業用電気機器を起点に、半導体・電子部品、さらにはソリューション提供へと事業領域を拡張し、お客様の課題解決に寄り添う企業として発展してきた歴史があります",
+    "url": "https://www.tachibana.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "立花エレテックは、産業分野の技術革新を支える半導体・デバイス、FAコンポーネントを中心に、テクノロジーの新しい可能性を追求しています",
+    "url": "https://www.tachibana.co.jp/company/prospectus/",
+    "pass": 1
+   },
+   {
+    "quote": "国内および海外メーカーの多様な半導体・デバイス製品を取り扱い、お客さまのニーズにお応えしています",
+    "url": "https://www.tachibana.co.jp/company/prospectus/",
+    "pass": 1
+   },
+   {
+    "quote": "中国、シンガポールなどの東アジア、東南アジア主要国で、FAシステム事業、半導体デバイス事業などを積極的に展開しています",
+    "url": "https://www.tachibana.co.jp/company/prospectus/",
+    "pass": 1
+   },
+   {
+    "quote": "また使用エネルギーの詳細が誰にでも見えるように「見える化」を実現しています",
+    "url": "https://www.tachibana.co.jp/company/prospectus/facility-business/",
+    "pass": 1
+   },
+   {
+    "quote": "FA(ファクトリーオートメーション)や、半導体などを扱う専門商社でございます",
+    "url": "https://job.mynavi.jp/27/pc/search/corp100208/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、仕入れた半導体のチップにプログラムを書き込んで、家電製品の中枢をつくることだってお手のもの",
+    "url": "https://job.mynavi.jp/27/pc/search/corp100208/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは、半導体のように小さいものから高層ビルのエレベーターなど大きいものまで、幅広い電気製品の取り扱いがあり、お客様の業界も多岐に渡ります",
+    "url": "https://job.mynavi.jp/27/pc/search/corp100208/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "FA・半導体・ビル設備・情報通信を中心とした関連製品の販売",
+    "url": "https://job.mynavi.jp/27/pc/search/corp100208/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "今話題の半導体の開発やマイコンのソフトウェア開発支援等を行う事業",
+    "url": "https://job.mynavi.jp/27/pc/search/corp100208/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "家電をはじめ、事務機、情報通信、自動車、住設など様々な場面に貢献！",
+    "url": "https://job.mynavi.jp/27/pc/search/corp100208/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "FAシステム、ファクトリーオートメーション、設計、開発、自動化、制御、ロボット、IT、M2M、IOT、AI、半導体、マイコン、ソフトウェア開発、組み込み、プログラミング、品質管理",
+    "url": "https://job.mynavi.jp/27/pc/search/corp100208/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "●半導体デバイス事業(38.2％)",
+    "url": "https://job.mynavi.jp/27/pc/search/corp100208/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "●「関西・新型コロナウイルス医療体制支援基金」に500万円を寄付",
+    "url": "https://job.mynavi.jp/27/pc/search/corp100208/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "半導体デバイス事業: 売上構成比約40%を占めるもう一つの主力事業です",
+    "url": "https://note.com/kakuka0904/n/nbb57c54423ef",
+    "pass": 3
+   },
+   {
+    "quote": "国内外の様々な半導体チップや電子デバイスを仕入れて販売しており、マイクロコンピュータ（マイコン）、ASIC、カスタムLSIなど高度な部品も取り扱います",
+    "url": "https://note.com/kakuka0904/n/nbb57c54423ef",
+    "pass": 3
+   },
+   {
+    "quote": "単なる部品供給に留まらず、顧客ニーズに応じたカスタム半導体の設計開発支援も行っている点が特徴です",
+    "url": "https://note.com/kakuka0904/n/nbb57c54423ef",
+    "pass": 3
+   },
+   {
+    "quote": "このように、単品の半導体販売に加えシステムLSIの開発まで含めたトータル提案が可能であり、技術商社としての強みを発揮する領域です",
+    "url": "https://note.com/kakuka0904/n/nbb57c54423ef",
+    "pass": 3
+   },
+   {
+    "quote": "省エネルギー性能の高いオール電化製品など環境配慮型の商材も含まれており、近年ニーズが高まるスマートビルディングや省エネ市場にも対応しています",
+    "url": "https://note.com/kakuka0904/n/nbb57c54423ef",
+    "pass": 3
+   },
+   {
+    "quote": "香港の持株会社「立花オーバーシーズホールディングス」を中心に、中国（上海・深圳など）、シンガポール、タイ（バンコク）、台湾等、東アジア・東南アジアの主要地域に拠点網を築き、現地および日系企業向けにFA機器や半導体デバイスの販売・技術サポートを行っています",
+    "url": "https://note.com/kakuka0904/n/nbb57c54423ef",
+    "pass": 3
+   },
+   {
+    "quote": "海外事業そのものは独立セグメントで売上構成比2～3%程度 に留まりますが、実際には他の事業セグメント（FAや半導体）の海外売上も含めた形でグローバル展開が進んでいます",
+    "url": "https://note.com/kakuka0904/n/nbb57c54423ef",
+    "pass": 3
+   },
+   {
+    "quote": "自動車関連（ドア開閉制御）: 立花エレテックは、自動車部品メーカーの示野工業（※想定: Shiroki Corporation）や日産自動車と共同で、自動車ドアの駆動装置に関する特許を取得しています",
+    "url": "https://note.com/kakuka0904/n/nbb57c54423ef",
+    "pass": 3
+   },
+   {
+    "quote": "これは、立花エレテックが自動車メーカーと直接技術開発を行い、高度なメカトロニクス制御に貢献した例と言えます",
+    "url": "https://note.com/kakuka0904/n/nbb57c54423ef",
+    "pass": 3
+   },
+   {
+    "quote": "自動車のパワーウインドウやスライドドアの安全機構に関わるこの技術は革新的であり、特許として保護されることで市場独占力（少なくとも共同開発先企業への独占供給）を生み出しています",
+    "url": "https://note.com/kakuka0904/n/nbb57c54423ef",
+    "pass": 3
+   },
+   {
+    "quote": "以上のように、立花エレテックの特許ポートフォリオは自動車、産業機械、IoT機器など多岐にわたり、その内容も高度かつ実践的です",
+    "url": "https://note.com/kakuka0904/n/nbb57c54423ef",
+    "pass": 3
+   },
+   {
+    "quote": "これは業績が崩れたというより、半導体やFA機器の流通在庫の調整が長引き、コロナ後の特需が一巡したことが大きい",
+    "url": "https://note.com/company_scope/n/nb23113926404",
+    "pass": 3
+   },
+   {
+    "quote": "次いで半導体デバイス事業が売上892億円・営業利益約14億円",
+    "url": "https://note.com/company_scope/n/nb23113926404",
+    "pass": 3
+   },
+   {
+    "quote": "中長期経営計画では、自動化・省人化のソリューション提案や半導体の新規顧客開拓、カーボンニュートラル領域への注力を掲げ、DXの推進と人への投資を進める",
+    "url": "https://note.com/company_scope/n/nb23113926404",
+    "pass": 3
+   },
+   {
+    "quote": "【徹底解説】立花エレテックのすべてがわかる！🏭半導体・FAシステム…未来を支える技術商社を深掘り！【2025年最新情報】｜gogocha",
+    "url": "https://note.com/white_whale2025/n/n1de1e617e627",
+    "pass": 3
+   },
+   {
+    "quote": "【徹底解説】立花エレテックのすべてがわかる！🏭半導体・FAシステム…未来を支える技術商社を深掘り！【2025年最新情報】",
+    "url": "https://note.com/white_whale2025/n/n1de1e617e627",
+    "pass": 3
+   },
+   {
+    "quote": "色んな種類の半導体や電子デバイスを販売しています",
+    "url": "https://note.com/white_whale2025/n/n1de1e617e627",
+    "pass": 3
+   },
+   {
+    "quote": "立花エレテックの競合他社としては、マクニカ、加賀電子、東京エレクトロンデバイス、長瀬産業、リョーサン、新光商事、伯東などの電機・半導体商社が挙げられます",
+    "url": "https://note.com/white_whale2025/n/n1de1e617e627",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、半導体商社に限定したランキングでは、立花エレテックは売上高で9位にランクインしています",
+    "url": "https://note.com/white_whale2025/n/n1de1e617e627",
+    "pass": 3
+   },
+   {
+    "quote": "FA機器、半導体デバイス、施設関連製品など、多様な製品を取り扱っており、顧客の様々なニーズに対応できます",
+    "url": "https://note.com/white_whale2025/n/n1de1e617e627",
+    "pass": 3
+   },
+   {
+    "quote": "多くの電機・半導体商社が存在し、価格競争や顧客獲得競争が激しいです",
+    "url": "https://note.com/white_whale2025/n/n1de1e617e627",
+    "pass": 3
+   },
+   {
+    "quote": "半導体市場の需給バランスや価格変動は、半導体デバイス事業の収益に影響を与える可能性があります",
+    "url": "https://note.com/white_whale2025/n/n1de1e617e627",
+    "pass": 3
+   },
+   {
+    "quote": "立花エレテックは、100年以上の歴史と実績を持つ「技術商社」であり、FAシステムや半導体デバイスを中心に、幅広い事業を展開しています",
+    "url": "https://note.com/white_whale2025/n/n1de1e617e627",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "6.プレス・粉末冶金用等の金型及び吊具・鎖等の金属製品、工業用・建築用及び家庭用の合成樹脂製品、各種電池並びに部品の販売",
+    "url": "https://www.tachibana.co.jp/company/overview/",
+    "pass": 1
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "株式を大阪証券取引所市場第二部特定指定銘柄（新二部）に上場",
+    "url": "https://www.tachibana.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "東京証券取引所、大阪証券取引所（市場第一部）に上場",
+    "url": "https://www.tachibana.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "大電社に出資、持ち分法適用会社に",
+    "url": "https://www.tachibana.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "高木商会（現タカギコネクト）に出資、持ち分法適用会社に",
+    "url": "https://www.tachibana.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "高木商会（現タカギコネクト）を連結子会社化",
+    "url": "https://www.tachibana.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "高木商会（現タカギコネクト）を完全子会社化",
+    "url": "https://www.tachibana.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "八洲電子ソリューションズの全株式を取得し、立花電子ソリューションズとして子会社化",
+    "url": "https://www.tachibana.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年には海外子会社を統括する持ち株会社「立花オーバーシーズホールディングス社」を香港に設置",
+    "url": "https://www.tachibana.co.jp/company/prospectus/",
+    "pass": 1
+   },
+   {
+    "quote": "TACHIBANA OVERSEAS HOLDINGS LIMITEDを除き、国内子会社、海外子会社の区分別にそれぞれ子会社化した順で記載しております",
+    "url": "https://www.tachibana.co.jp/company/affiliate/",
+    "pass": 1
+   },
+   {
+    "quote": "(株)立花エレテック【東証プライム上場】の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp100208/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東証プライム上場、黒字経営、技術商社、専門商社、リーディングカンパニー",
+    "url": "https://job.mynavi.jp/27/pc/search/corp100208/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京証券取引所、大阪証券取引所（市場第一部）に上場",
+    "url": "https://job.mynavi.jp/27/pc/search/corp100208/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株)立花エレテック【東証プライム上場】の画像と似た雰囲気の画像から企業をおすすめしています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp100208/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株)立花エレテック【東証プライム上場】の会社概要",
+    "url": "https://job.mynavi.jp/27/pc/search/corp100208/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "三和油化工業(株)【東証スタンダード市場上場】",
+    "url": "https://job.mynavi.jp/27/pc/search/corp100208/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "立花エレテック（証券コード: 8159）は、1921年創業の技術商社であり、東証プライム市場に上場する老舗企業です",
+    "url": "https://note.com/kakuka0904/n/nbb57c54423ef",
+    "pass": 3
+   },
+   {
+    "quote": "例えば2018年時点の会社資料では187件の特許を保有していたとのデータがあり 、この数は日本の上場企業の中でも高い水準です",
+    "url": "https://note.com/kakuka0904/n/nbb57c54423ef",
+    "pass": 3
+   },
+   {
+    "quote": "株主還元にも積極的で、2023年から3か年で300万株の自社株買いを進め、資本効率の向上を図っている",
+    "url": "https://note.com/company_scope/n/nb23113926404",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業らしい規律と風通しは保たれているが、若手を育て、評価し、報いるという部分で社員の納得が得られていない",
+    "url": "https://note.com/company_scope/n/nb23113926404",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明会資料、決算短信、株主通信、有価証券報告書などのPDFファイルが公開されています",
+    "url": "https://note.com/white_whale2025/n/n1de1e617e627",
+    "pass": 3
+   },
+   {
+    "quote": "株主還元策としては、3年間で300万株の自己株式を取得する計画が進められています",
+    "url": "https://note.com/white_whale2025/n/n1de1e617e627",
+    "pass": 3
+   },
+   {
+    "quote": "これは、株主さんを大切にしている証拠ですね",
+    "url": "https://note.com/white_whale2025/n/n1de1e617e627",
+    "pass": 3
+   },
+   {
+    "quote": "自己株式取得の実施は、株主価値を向上させる取り組みとして評価できます",
+    "url": "https://note.com/white_whale2025/n/n1de1e617e627",
+    "pass": 3
+   },
+   {
+    "quote": "今後の配当政策なども含め、株主への利益還元に対する姿勢は投資判断の重要な要素となります",
+    "url": "https://note.com/white_whale2025/n/n1de1e617e627",
+    "pass": 3
+   },
+   {
+    "quote": "株主還元策として自己株式取得を実施している点は評価できますが、今後の業績動向や配当政策についても注視していく必要があります",
+    "url": "https://note.com/white_whale2025/n/n1de1e617e627",
+    "pass": 3
+   },
+   {
+    "quote": "当メンバーシップは、日々の生活に潤いを与えてくれる「高配当株」と「株主優待」に焦点を当てた投資コミュニティです",
+    "url": "https://note.com/white_whale2025/n/n1de1e617e627",
+    "pass": 3
+   },
+   {
+    "quote": "・株主優待で日々の生活にちょっとした贅沢を取り入れたい方",
+    "url": "https://note.com/white_whale2025/n/n1de1e617e627",
+    "pass": 3
+   }
+  ],
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "弊社ソリューションを導入していただいた取引先様の声をお届けします",
+    "url": "https://www.tachibana.co.jp/company/movie/",
+    "pass": 1
+   },
+   {
+    "quote": "【高周波熱錬株式会社様】太陽光発電システム×電力監視システム導入事例",
+    "url": "https://www.tachibana.co.jp/company/movie/",
+    "pass": 1
+   },
+   {
+    "quote": "【株式会社ヤスヒラ様】立花エレテックオリジナルの工作機械の稼働状況×CFPステータスモニタシステム導入事例",
+    "url": "https://www.tachibana.co.jp/company/movie/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社ソリューションを導入していただいた取引先様の声をお届けします",
+    "url": "https://www.tachibana.co.jp/company/prospectus/",
+    "pass": 1
+   },
+   {
+    "quote": "Kerren International Mansion B-2103 Wucai City Building1 Dalian Development Zone,116600 PRC",
+    "url": "https://www.tachibana.co.jp/company/affiliate/",
+    "pass": 1
+   },
+   {
+    "quote": "≪時間単位休暇を導入≫1日、半日、1時間、30分間単位の休暇により、さらにワークライフバランスを支援",
+    "url": "https://job.mynavi.jp/27/pc/search/corp100208/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "本稿では、同社の事業内容や製品群、保有・出願中の特許を概観し、それらから導かれる経済的な堀（モート）の高さと競合優位性を評価します",
+    "url": "https://note.com/kakuka0904/n/nbb57c54423ef",
+    "pass": 3
+   },
+   {
+    "quote": "同社は約100年の歴史の中で培ったノウハウを背景に、多数の特許を出願・保有しています",
+    "url": "https://note.com/kakuka0904/n/nbb57c54423ef",
+    "pass": 3
+   },
+   {
+    "quote": "公開情報によれば、特許保有件数は少なくとも180件以上にのぼります",
+    "url": "https://note.com/kakuka0904/n/nbb57c54423ef",
+    "pass": 3
+   },
+   {
+    "quote": "例えば2018年時点の会社資料では187件の特許を保有していたとのデータがあり 、この数は日本の上場企業の中でも高い水準です",
+    "url": "https://note.com/kakuka0904/n/nbb57c54423ef",
+    "pass": 3
+   },
+   {
+    "quote": "技術商社という業態上、同社が保有する特許は自社開発製品のみならず、他社と共同開発した技術に関するものも含まれています",
+    "url": "https://note.com/kakuka0904/n/nbb57c54423ef",
+    "pass": 3
+   },
+   {
+    "quote": "同社自身「メーカーとともに新技術・新製品を積極的に開発」していると述べており 、今後も保有特許件数は増加が見込まれます",
+    "url": "https://note.com/kakuka0904/n/nbb57c54423ef",
+    "pass": 3
+   },
+   {
+    "quote": "豊富な商品と、現場を熟知した技術力で、製造現場のM2M導入をサポートしています",
+    "url": "https://note.com/white_whale2025/n/n1de1e617e627",
+    "pass": 3
+   },
+   {
+    "quote": "製品販売だけでなく、システム設計、開発、導入、保守まで含めたトータルソリューションを提供できます",
+    "url": "https://note.com/white_whale2025/n/n1de1e617e627",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 | 株式会社 立花エレテック — 会社概要 | 株式会社 立花エレテック 株式会社立花エレテック https://www.tachibana.co.jp > company > overview",
+    "url": "https://www.tachibana.co.jp/company/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "企業 情報 | 株式 会社立花エレテック — 企業 情報 | 株式 会社立花エレテック 株式会社立花エレテック https://www.tachibana.co.jp > company",
+    "url": "https://www.tachibana.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "(株) 立花エレテック 【東証プライム上場】の 会社概要 - マイナビ — (株) 立花エレテック 【東証プライム上場】の 会社概要 - マイナビ マイナビ https://job.mynavi.jp > search > corp100208 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp100208/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 立花エレテック 】[8159]企業 概要 社員数や役員報酬・ 資本金 — 【 立花エレテック 】[8159]企業 概要 社員数や役員報酬・ 資本金 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=8159",
+    "pass": 3
+   },
+   {
+    "quote": "数字で見る 立花エレテック — 数字で見る 立花エレテック 株式会社立花エレテック https://www.tachibana.co.jp > number",
+    "url": "https://www.tachibana.co.jp/number/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタ | 株式会社 立花エレテック — 金属3Dプリンタ | 株式会社 立花エレテック 株式会社立花エレテック https://www.tachibana.co.jp > products > metal-print",
+    "url": "https://www.tachibana.co.jp/products/metal-print/",
+    "pass": 3
+   },
+   {
+    "quote": "トップ｜ 3Dプリンタ ｜株式会社 立花エレテック — トップ｜ 3Dプリンタ ｜株式会社 立花エレテック 株式会社立花エレテック https://www.tachibana.co.jp > ...",
+    "url": "https://www.tachibana.co.jp/3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "BMD（Bound Metal Deposition） - 金属3Dプリンタ — BMD（Bound Metal Deposition） - 金属3Dプリンタ 株式会社立花エレテック https://www.tachibana.co.jp > 02-metal_3d_printer-6",
+    "url": "https://www.tachibana.co.jp/3dprinter/02-metal_3d_printer-6.html",
+    "pass": 3
+   },
+   {
+    "quote": "AMセミナー「設置も価格もスマートに「DeskFab H1」 金属 ... — AMセミナー「設置も価格もスマートに「DeskFab H1」 金属 ... 株式会社立花エレテック https://www.tachibana.co.jp > information",
+    "url": "https://www.tachibana.co.jp/information/2981/",
+    "pass": 3
+   },
+   {
+    "quote": "立花エレテック の「色のないご提案」の魅力 - ShareLab NEWS — 立花エレテック の「色のないご提案」の魅力 - ShareLab NEWS ShareLab NEWS https://news.sharelab.jp > 独自記事",
+    "url": "https://news.sharelab.jp/interviews/tachibana-eletech-ceatec2019/",
+    "pass": 3
+   },
+   {
+    "quote": "サービスビューロ｜3Dプリンタ｜株式会社 立花エレテック — サービスビューロ｜3Dプリンタ｜株式会社 立花エレテック 株式会社立花エレテック https://www.tachibana.co.jp > 05-service_bureau",
+    "url": "https://www.tachibana.co.jp/3dprinter/05-service_bureau.html",
+    "pass": 3
+   },
+   {
+    "quote": "BMD（Bound Metal Deposition） - 金属 3Dプリンタ — BMD（Bound Metal Deposition） - 金属 3Dプリンタ 株式会社立花エレテック https://www.tachibana.co.jp > ...",
+    "url": "https://www.tachibana.co.jp/3dprinter/02-metal_3d_printer-6.html",
+    "pass": 3
+   },
+   {
+    "quote": "特別イベント｜3Dプリンタ｜株式会社 立花エレテック — 特別イベント｜3Dプリンタ｜株式会社 立花エレテック 株式会社立花エレテック https://www.tachibana.co.jp > webinar",
+    "url": "https://www.tachibana.co.jp/3dprinter/webinar.html",
+    "pass": 3
+   },
+   {
+    "quote": "② 立花エレテック （TCTJapan2025） - YouTube — ② 立花エレテック （TCTJapan2025） - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=ccSysB2LaFo",
+    "pass": 3
+   },
+   {
+    "quote": "株主 通信 | 株式 会社立花エレテック — 株主 通信 | 株式 会社立花エレテック 株式会社立花エレテック https://www.tachibana.co.jp > library > reports",
+    "url": "https://www.tachibana.co.jp/ir/library/reports/",
+    "pass": 3
+   },
+   {
+    "quote": "立花エレテック 【8159】の大 株主 情報 - 株探 — 立花エレテック 【8159】の大 株主 情報 - 株探 株探 https://kabutan.jp > stock > holder",
+    "url": "https://kabutan.jp/stock/holder?code=8159",
+    "pass": 3
+   },
+   {
+    "quote": "よくあるご質問 | 株式 会社立花エレテック — よくあるご質問 | 株式 会社立花エレテック 株式会社立花エレテック https://www.tachibana.co.jp > faq",
+    "url": "https://www.tachibana.co.jp/ir/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "【 立花エレテック 】[8159]適時開示情報 株主 総会や定款関連 — 【 立花エレテック 】[8159]適時開示情報 株主 総会や定款関連 日本経済新聞 https://www.nikkei.com > nkd > company > disclose",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=8159",
+    "pass": 3
+   },
+   {
+    "quote": "(株) 立花エレテック 【東証プライム上場】の会社概要 - マイナビ — (株) 立花エレテック 【東証プライム上場】の会社概要 - マイナビ マイナビ https://job.mynavi.jp > search > corp100208 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp100208/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "経営成績 | 株式会社 立花エレテック — 経営成績 | 株式会社 立花エレテック 株式会社立花エレテック https://www.tachibana.co.jp > highlight > statement",
+    "url": "https://www.tachibana.co.jp/ir/highlight/statement/",
+    "pass": 3
+   },
+   {
+    "quote": "【QAあり】 立花エレテック 、 売上高 2200億円を維持 経営基盤 ... — 【QAあり】 立花エレテック 、 売上高 2200億円を維持 経営基盤 ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/381792",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "立花エレテック ：事業内容と経済的モート（moat）の分析 - note 立花エレテック ：事業内容と経済的モート（moat）の分析 - note note https://note.com > 政治・経済 > ビジネス・経済",
+    "url": "https://note.com/kakuka0904/n/nbb57c54423ef",
+    "pass": 3
+   },
+   {
+    "quote": "立花エレテック の年収｜30歳で640万は妥当か【2027年最新】 立花エレテック の年収｜30歳で640万は妥当か【2027年最新】 note https://note.com > キャリア > 企業分析",
+    "url": "https://note.com/company_scope/n/nb23113926404",
+    "pass": 3
+   },
+   {
+    "quote": "【徹底解説】 立花エレテック のすべてがわかる！  半導体・FA ... 【徹底解説】 立花エレテック のすべてがわかる！  半導体・FA ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/white_whale2025/n/n1de1e617e627",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "立花エレテック：事業内容と経済的モート（moat）の分析｜ようじ",
+    "url": "https://note.com/kakuka0904/n/nbb57c54423ef",
+    "pass": 3
+   },
+   {
+    "quote": "立花エレテック：事業内容と経済的モート（moat）の分析",
+    "url": "https://note.com/kakuka0904/n/nbb57c54423ef",
+    "pass": 3
+   },
+   {
+    "quote": "立花エレテック（証券コード: 8159）は、1921年創業の技術商社であり、東証プライム市場に上場する老舗企業です 。主な事業領域は電機・電子・機械・情報分野にまたがり、工場やビル等の様々な現場に対して製品とシステムを提供しています 。本稿では、同社の事業内容や製品群、保有・出願中の特許を概観し、それらから導かれる経済的な堀（モート）の高さと競合優位性を評価します。また、今後高成長が見込まれる分野への取り組みと市場展望、さらに1年後・3年後・5年後・10年後の売上高および営業利益の予測を含め、同社の将来性についても考察します。これらの分析を通じて、立花エレテックが業界内でどのような相対的優位に立ち、投資対象としてどの程度魅力的かを評価します。",
+    "url": "https://note.com/kakuka0904/n/nbb57c54423ef",
+    "pass": 3
+   },
+   {
+    "quote": "立花エレテックの事業は大きく5つのセグメントに分かれています  。各セグメントと主な製品・サービス内容は以下の通りです。",
+    "url": "https://note.com/kakuka0904/n/nbb57c54423ef",
+    "pass": 3
+   },
+   {
+    "quote": "FAシステム事業（ファクトリーオートメーション）: 立花エレテックの基幹事業であり、売上構成比の約50%を占めます 。工場の自動化向け機器やシステムを提供する事業で、具体的にはプログラマブルロジックコントローラ（PLC）、インバータ、サーボモータ、配電制御機器、各種モーターなどのFA機器の販売、および生産設備の監視・制御システムの構築やロボットの提案と販売などを行っています  。また、放電加工機・レーザー加工機・マシニングセンタ等の工作機械や3Dプリンタ・3Dスキャナなども扱い、産業用メカトロニクス分野にも対応しています 。このように、ものづくり現場を支える幅広い機器とシステムソリューションを提供しており、「モノ造りを創る」事業と位置付けられます  。実際、2024年度にはFAシステム事業単体で売上高1,100億円超を達成し、同社全体売上の半分以上を稼ぎ出しました 。",
+    "url": "https://note.com/kakuka0904/n/nbb57c54423ef",
+    "pass": 3
+   },
+   {
+    "quote": "半導体デバイス事業: 売上構成比約40%を占めるもう一つの主力事業です 。国内外の様々な半導体チップや電子デバイスを仕入れて販売しており、マイクロコンピュータ（マイコン）、ASIC、カスタムLSIなど高度な部品も取り扱います  。単なる部品供給に留まらず、顧客ニーズに応じたカスタム半導体の設計開発支援も行っている点が特徴です 。例えば、マイコンのソフトウェア開発やFPGAの設計支援、さらには独自のASSP（用途特化型標準製品）の開発実績も有しています 。このように、単品の半導体販売に加えシステムLSIの開発まで含めたトータル提案が可能であり、技術商社としての強みを発揮する領域です。",
+    "url": "https://note.com/kakuka0904/n/nbb57c54423ef",
+    "pass": 3
+   },
+   {
+    "quote": "施設事業: 売上構成比は約8%程度ですが 、工場やビル向けの設備機器を扱う事業です。工場・生産施設向けには照明・空調・クリーン環境機器や防災設備などを提供し、適切な生産環境づくりに寄与しています 。ビル向けにはエレベーター、空調、セキュリティシステム等を扱い、安全・快適かつ省エネな空間を実現するトータルシステムを構築します 。省エネルギー性能の高いオール電化製品など環境配慮型の商材も含まれており、近年ニーズが高まるスマートビルディングや省エネ市場にも対応しています 。",
+    "url": "https://note.com/kakuka0904/n/nbb57c54423ef",
+    "pass": 3
+   },
+   {
+    "quote": "MS事業（マニュファクチャリング・サービス）: 売上構成比は大きくありませんが（数%程度） 、同社のユニークな取り組みとして製造受託サービスを提供しています。内容は二本柱あり、1つは電子機器の設計・製造受託（EMS: Electronics Manufacturing Services）で、基板設計から完成品の組立まで幅広く請負います 。もう1つは金属加工品の製造受託（MMS: Metal Manufacturing Services）で、例えば立体駐車場のパレット部材や鉄道車両向け金属部品などを海外工場で製造し、低コスト・高品質で提供しています 。自社グループ海外拠点を活用し、コスト競争力を高めている点が特徴です。EMSではこれまで多様な電子機器の受託実績があり、過去には携帯電話の組立受託で売上高を伸ばしたこともありました （ただし当時は利益率は低かったとされています ）。この事業は景気",
+    "url": "https://note.com/kakuka0904/n/nbb57c54423ef",
+    "pass": 3
+   },
+   {
+    "quote": "立花エレテックの年収｜30歳で640万は妥当か【2027年最新】｜企業スコープ_ハイクラス向け企業分析",
+    "url": "https://note.com/company_scope/n/nb23113926404",
+    "pass": 3
+   },
+   {
+    "quote": "立花エレテックの年収｜30歳で640万は妥当か【2027年最新】",
+    "url": "https://note.com/company_scope/n/nb23113926404",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機のFA機器を扱う技術商社として、立花エレテックは業界で確かな存在感を持つ。連結売上は2,275億円。日本のメーカーの工場を裏で支える、規模の大きな会社だ。",
+    "url": "https://note.com/company_scope/n/nb23113926404",
+    "pass": 3
+   },
+   {
+    "quote": "ところが、その立花エレテックで働く社員の30歳時点の年収相場は、調査ベースで約640万円にとどまる。2,275億円という売上の大きさからは、もう少し高い数字を想像するかもしれない。だが商社の売上は、ほとんどが商品を右から左に流す通過取引で、稼ぐ力をそのまま表さない。実力は純利益74億円に表れる。その内実と、640万円という水準の妥当性はどこにあるのか。本記事では、最新の有価証券報告書、IR資料、社員クチコミといった一次データから、規模やネームバリューだけでは見えてこない立花エレテックの本質を読み解いていく。",
+    "url": "https://note.com/company_scope/n/nb23113926404",
+    "pass": 3
+   },
+   {
+    "quote": "「三菱電機の製品を仕入れて売るだけの代理店」というイメージは、立花エレテックの半分しか言い当てていない。決算書とIR資料を開くと、もう半分の姿が見えてくる。",
+    "url": "https://note.com/company_scope/n/nb23113926404",
+    "pass": 3
+   },
+   {
+    "quote": "連結売上は2,275億円。だが、この数字を額面どおり受け取ってはいけない。商社の売上には商品を仕入れて販売する通過取引が大量に含まれ、事業の稼ぐ力を表さない。立花エレテックの場合、売上原価が売上の約87%を占める。つまり手元に残る粗利は1割強で、薄いマージンを大きな取扱高で積み上げる商社特有の構造だ。だからこの会社の実力を測るのは、当期純利益のほうになる。直近の純利益は74億円。売上の規模に比べると小さく見えるが、ここにこの会社の本当の体力が表れている。",
+    "url": "https://note.com/company_scope/n/nb23113926404",
+    "pass": 3
+   },
+   {
+    "quote": "平均年収は単体で748万円。ただしこれは提出会社である立花エレテック単体、平均年齢43.4歳・平均勤続16.7年という、中堅以上が厚い母集団の平均だ。後で詳しく見るが、調査ベースの30歳時点の年収相場は約640万円。",
+    "url": "https://note.com/company_scope/n/nb23113926404",
+    "pass": 3
+   },
+   {
+    "quote": "748万円という平均は40代の社員が押し上げた数字",
+    "url": "https://note.com/company_scope/n/nb23113926404",
+    "pass": 3
+   },
+   {
+    "quote": "【徹底解説】立花エレテックのすべてがわかる！🏭半導体・FAシステム…未来を支える技術商社を深掘り！【2025年最新情報】｜gogocha",
+    "url": "https://note.com/white_whale2025/n/n1de1e617e627",
+    "pass": 3
+   },
+   {
+    "quote": "【徹底解説】立花エレテックのすべてがわかる！🏭半導体・FAシステム…未来を支える技術商社を深掘り！【2025年最新情報】",
+    "url": "https://note.com/white_whale2025/n/n1de1e617e627",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社立花エレテックってどんな会社？徹底解剖🔍",
+    "url": "https://note.com/white_whale2025/n/n1de1e617e627",
+    "pass": 3
+   },
+   {
+    "quote": "皆さん、こんにちは！今日は、ちょっと気になる会社、「株式会社立花エレテック」について、一緒に見ていきましょう。🎉",
+    "url": "https://note.com/white_whale2025/n/n1de1e617e627",
+    "pass": 3
+   },
+   {
+    "quote": "立花エレテックは、なんと1921年創業という、100年以上の歴史を持つ超老舗企業なんです。主な事業は、電機・機械・電子・情報の「技術商社」というもの。…ちょっと難しそうに聞こえるかもしれませんが、要は、工場🏭とかオフィス🏢とか、私たちの生活に欠かせない様々な場所に、色んな製品やシステムを提供している会社なんです。",
+    "url": "https://note.com/white_whale2025/n/n1de1e617e627",
+    "pass": 3
+   },
+   {
+    "quote": "立花エレテックの事業は、大きく分けて5つのセグメントがあります。",
+    "url": "https://note.com/white_whale2025/n/n1de1e617e627",
+    "pass": 3
+   },
+   {
+    "quote": "FA（ファクトリー・オートメーション）システム事業",
+    "url": "https://note.com/white_whale2025/n/n1de1e617e627",
+    "pass": 3
+   },
+   {
+    "quote": "工場の自動化に使う機械やシステムを販売したり、システムを構築したりしています。ロボット🤖とか、生産設備をコントロールするシステムとかですね。モノづくりを支える、めっちゃ重要な事業なんです！売上高構成比の約50%を占める、会社の柱となる事業なんですよ。💪",
+    "url": "https://note.com/white_whale2025/n/n1de1e617e627",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "急騰   on X: \" 立花エレテック [8159]：2027年3月期第2四半期 ... 急騰   on X: \" 立花エレテック [8159]：2027年3月期第2四半期 ... X https://x.com > @kgbukabu",
+    "url": "https://x.com/kgbukabu/status/2119692787377742033",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "（株） 立花エレテック - LinkedIn （株） 立花エレテック - LinkedIn LinkedIn https://www.linkedin.com > （株）立花エレテック",
+    "url": "https://www.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E7%AB%8B%E8%8A%B1%E3%82%A8%E3%83%AC%E3%83%86%E3%83%83%E3%82%AF",
+    "pass": 3
+   },
+   {
+    "quote": "（株） 立花エレテック - LinkedIn （株） 立花エレテック - LinkedIn LinkedIn https://jp.linkedin.com > company > （株）立花エレテック",
+    "url": "https://jp.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E7%AB%8B%E8%8A%B1%E3%82%A8%E3%83%AC%E3%83%86%E3%83%83%E3%82%AF",
+    "pass": 3
+   },
+   {
+    "quote": "Takamatsu Masashi - 株式会社 立花エレテック | LinkedIn Takamatsu Masashi - 株式会社 立花エレテック | LinkedIn LinkedIn Australia https://au.linkedin.com > takamatsu-masashi-25011672",
+    "url": "https://au.linkedin.com/in/takamatsu-masashi-25011672",
+    "pass": 3
+   },
+   {
+    "quote": "山本 隆司 - 株式会社 立花エレテック - LinkedIn 山本 隆司 - 株式会社 立花エレテック - LinkedIn LinkedIn https://jp.linkedin.com > 隆司-山本-3582442ba",
+    "url": "https://jp.linkedin.com/in/%E9%9A%86%E5%8F%B8-%E5%B1%B1%E6%9C%AC-3582442ba",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tachibana.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/company/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/company/greeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/company/philosophy-vision/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/company/movie/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/company/company-profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/company/prospectus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/company/organization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/company/office/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/company/affiliate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/company/prospectus/facility-business/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp100208/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kabutan.jp/stock/holder?code=8159",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp100208/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kakuka0904/n/nbb57c54423ef",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/company_scope/n/nb23113926404",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/kgbukabu/status/2119692787377742033",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E7%AB%8B%E8%8A%B1%E3%82%A8%E3%83%AC%E3%83%86%E3%83%83%E3%82%AF",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E7%AB%8B%E8%8A%B1%E3%82%A8%E3%83%AC%E3%83%86%E3%83%83%E3%82%AF",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://au.linkedin.com/in/takamatsu-masashi-25011672",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E9%9A%86%E5%8F%B8-%E5%B1%B1%E6%9C%AC-3582442ba",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/white_whale2025/n/n1de1e617e627",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "立花エレテック",
+   "results": [
+    "https://www.tachibana.co.jp/",
+    "https://www.nikkei.com/nkd/company/?scode=8159",
+    "https://ja.wikipedia.org/wiki/%E7%AB%8B%E8%8A%B1%E3%82%A8%E3%83%AC%E3%83%86%E3%83%83%E3%82%AF",
+    "https://kabutan.jp/stock/?code=8159",
+    "https://job.mynavi.jp/27/pc/search/corp100208/outline.html",
+    "https://ja.wikipedia.org/wiki/立花エレテック",
+    "https://www.tachibana.co.jp/company/overview/",
+    "https://finance.yahoo.co.jp/quote/8159.T",
+    "https://finance.yahoo.co.jp/quote/8159.T/profile",
+    "https://www.traders.co.jp/stocks/61_8159/achievement"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "立花エレテック 会社概要 資本金 設立",
+   "results": [
+    "https://www.tachibana.co.jp/company/overview/",
+    "https://www.tachibana.co.jp/company/",
+    "https://job.mynavi.jp/27/pc/search/corp100208/outline.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=8159",
+    "https://www.tachibana.co.jp/number/",
+    "https://www.tachibana.co.jp/company/company-profile/",
+    "https://tachibana-denshi-solutions.co.jp/company/profile/",
+    "https://www.tachibana.co.jp/company/history/",
+    "https://ja.wikipedia.org/wiki/%E7%AB%8B%E8%8A%B1%E3%82%A8%E3%83%AC%E3%83%86%E3%83%83%E3%82%AF",
+    "https://ja.wikipedia.org/wiki/立花エレテック"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "立花エレテック 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.tachibana.co.jp/products/metal-print/",
+    "https://www.tachibana.co.jp/3dprinter/",
+    "https://www.tachibana.co.jp/3dprinter/02-metal_3d_printer-6.html",
+    "https://www.tachibana.co.jp/information/2981/",
+    "https://news.sharelab.jp/interviews/tachibana-eletech-ceatec2019/",
+    "https://www.tachibana.co.jp/uploads/2023/11/3826d7b28d873334d6dadee90c2662cb.pdf",
+    "https://www.youtube.com/watch?v=ccSysB2LaFo",
+    "https://jsam.or.jp/news/2025-08-05-5340/",
+    "https://sharelab.jp/events/pbf-deskfab-25-12-23/",
+    "https://jsam.or.jp/news/2024-09-17-3760/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "立花エレテック 金属積層造形 設備",
+   "results": [
+    "https://www.tachibana.co.jp/3dprinter/05-service_bureau.html",
+    "https://www.tachibana.co.jp/3dprinter/02-metal_3d_printer-6.html",
+    "https://www.tachibana.co.jp/3dprinter/webinar.html",
+    "https://www.tachibana.co.jp/information/2981/",
+    "https://www.youtube.com/watch?v=ccSysB2LaFo",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://www.tachibana.co.jp/uploads/2023/11/3826d7b28d873334d6dadee90c2662cb.pdf",
+    "https://www.jwes.or.jp/wprs/wp-content/uploads/author_committees_3d-mfg/9fe3384b8b9260285a3a2dcd3bb7ac00.pdf",
+    "https://news.sharelab.jp/tag/%E7%AB%8B%E8%8A%B1%E3%82%A8%E3%83%AC%E3%83%86%E3%83%83%E3%82%AF/",
+    "https://www.tachibana.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "立花エレテック 株主 出資 親会社",
+   "results": [
+    "https://www.tachibana.co.jp/ir/library/reports/",
+    "https://kabutan.jp/stock/holder?code=8159",
+    "https://www.tachibana.co.jp/ir/faq/",
+    "https://www.nikkei.com/nkd/company/disclose/?scode=8159",
+    "https://www.tachibana.co.jp/number/",
+    "https://www.tachibana.co.jp/ir/stock/",
+    "https://the-shashi.com/tse/8159/shareholders/",
+    "https://www.youtube.com/watch?v=OwOqgxE-MTU",
+    "https://www.tachibana.co.jp/csr/governance/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "立花エレテック 売上高 従業員数",
+   "results": [
+    "https://www.tachibana.co.jp/number/",
+    "https://www.tachibana.co.jp/company/overview/",
+    "https://job.mynavi.jp/27/pc/search/corp100208/outline.html",
+    "https://www.tachibana.co.jp/ir/highlight/statement/",
+    "https://finance.logmi.jp/articles/381792",
+    "https://ja.wikipedia.org/wiki/%E7%AB%8B%E8%8A%B1%E3%82%A8%E3%83%AC%E3%83%86%E3%83%83%E3%82%AF",
+    "https://fact-board.co.jp/company/d-tachibana/",
+    "https://www.tachibana.co.jp/aglance/",
+    "https://the-shashi.com/tse/8159/financials/summary/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com 立花エレテック",
+   "results": [
+    "https://note.com/tatsuya_sabato/n/n2e1d51be20d1",
+    "https://note.com/kakuka0904/n/nbb57c54423ef",
+    "https://note.com/tatsuya_sabato/n/nb988a576336b",
+    "https://note.com/company_scope/n/nb23113926404",
+    "https://note.com/jobhuntkeyence/n/n475d42522611",
+    "https://note.com/company_scope/n/n8f6a6d040915",
+    "https://note.com/tag/vm/investment_money/company-8159",
+    "https://note.com/white_whale2025/n/n1de1e617e627",
+    "https://note.com/makomen_life/n/nf53563f8c1ef",
+    "https://note.com/kabutabi2000/n/n7b12c0bd9836"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:x.com 立花エレテック",
+   "results": [
+    "https://x.com/envalith/status/2118230641242460339",
+    "https://x.com/ilc_jp/status/2115234708904943804",
+    "https://x.com/ilc_jp/status/2064506811773010083",
+    "https://x.com/kgbukabu/status/2119692787377742033",
+    "https://x.com/shodousan/status/2109852302358233376",
+    "https://x.com/envalith/status/2119722124558598459",
+    "https://x.com/akarabu99/status/2119760280930631687",
+    "https://x.com/ilc_jp/status/2110601270172258449",
+    "https://x.com/quickdisclosure/status/2119679020526932268",
+    "https://x.com/hashtag/立花エレテック"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com 立花エレテック",
+   "results": [
+    "https://www.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E7%AB%8B%E8%8A%B1%E3%82%A8%E3%83%AC%E3%83%86%E3%83%83%E3%82%AF",
+    "https://jp.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E7%AB%8B%E8%8A%B1%E3%82%A8%E3%83%AC%E3%83%86%E3%83%83%E3%82%AF",
+    "https://au.linkedin.com/in/takamatsu-masashi-25011672",
+    "https://jp.linkedin.com/in/%E9%9A%86%E5%8F%B8-%E5%B1%B1%E6%9C%AC-3582442ba",
+    "https://jp.linkedin.com/in/%E4%BF%8A%E5%B9%B8-%E6%BE%A4%E8%B6%8A-946a95182",
+    "https://ca.linkedin.com/in/%E6%BE%84-%E6%9D%BE%E6%A9%8B-936663148",
+    "https://jp.linkedin.com/in/%E7%BE%A9%E6%98%8E-%E6%A9%98%E9%AB%98-266658324",
+    "https://jp.linkedin.com/in/suzuki-takamitsu-23152362",
+    "https://jp.linkedin.com/in/manato-togashi"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com 立花エレテック",
+   "results": [
+    "https://www.facebook.com/hiroko.kaneko.2025/",
+    "https://www.facebook.com/osakagreentrust/posts/1025-%E6%9E%9A%E6%96%B9%E5%B8%82%E7%92%B0%E5%A2%83%E3%83%95%E3%82%A7%E3%82%B9%E3%82%BF%E5%87%BA%E5%B1%95%E4%B8%AD%E6%9E%9A%E6%96%B9%E5%B8%82%E6%9D%B1%E9%83%A8%E8%B3%87%E6%BA%90%E5%BE%AA%E7%92%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%A7%E9%96%8B%E5%82%AC%E4%B8%AD%E3%81%AE%E7%92%B0%E5%A2%83%E3%83%95%E3%82%A7%E3%82%B9%E3%82%BF%E6%B0%B7%E5%AE%A4%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E9%87%8C%E3%81%AE%E9%A7%85%E3%81%AB%E5%87%BA%E5%B1%95%E3%81%97%E3%81%A6%E7%B7%91%E3%81%AE%E5%8B%9F%E9%87%91%E3%81%B8%E3%81%AE%E3%81%94%E5%8D%94%E5%8A%9B%E3%82%92%E5%91%BC%E3%81%B3%E3%81%8B%E3%81%91%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E8%A8%AD%E5%96%B6%E6%99%82%E3%81%AF%E6%9C%AC%E9%99%8D%E3%82%8A/1566430432186934/",
+    "https://www.facebook.com/osakagreentrust/videos/1025-%E6%9E%9A%E6%96%B9%E5%B8%82%E7%92%B0%E5%A2%83%E3%83%95%E3%82%A7%E3%82%B9%E3%82%BF%E5%87%BA%E5%B1%95%E4%B8%AD%E6%9E%9A%E6%96%B9%E5%B8%82%E6%9D%B1%E9%83%A8%E8%B3%87%E6%BA%90%E5%BE%AA%E7%92%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%A7%E9%96%8B%E5%82%AC%E4%B8%AD%E3%81%AE%E7%92%B0%E5%A2%83%E3%83%95%E3%82%A7%E3%82%B9%E3%82%BF%E6%B0%B7%E5%AE%A4%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E9%87%8C%E3%81%AE%E9%A7%85%E3%81%AB%E5%87%BA%E5%B1%95%E3%81%97%E3%81%A6%E7%B7%91%E3%81%AE%E5%8B%9F%E9%87%91%E3%81%B8%E3%81%AE%E3%81%94%E5%8D%94%E5%8A%9B%E3%82%92%E5%91%BC%E3%81%B3%E3%81%8B%E3%81%91%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E8%A8%AD%E5%96%B6%E6%99%82%E3%81%AF%E6%9C%AC%E9%99%8D%E3%82%8A/2084277632208700/",
+    "https://www.facebook.com/tatsuo.ohara.37/",
+    "https://www.facebook.com/p/%E5%B0%8F%E6%9E%97%E4%BF%A1%E4%B9%9F-100010993474379/",
+    "https://www.facebook.com/tomotaka.yamaguchi.7/?locale=ja_JP",
+    "https://www.facebook.com/pages/株式会社立花エレテック/105125368926129/",
+    "https://www.facebook.com/JapanFencingKyosuke/posts/この度松山選手は株式会社立花エレテック様とスポンサー契約し本日プレスリリースがありましたパリオリンピックに向けて大きな応援団が加わりました引き続き応援宜しくお願/1009778500066383/",
+    "https://www.facebook.com/osakagreentrust/posts/1127-立花エレテック100周年記念植樹式に参加株式会社立花エレテックは枚方市東部清掃工場緑地内のなごみの里で大阪府アドプトフォレスト活動を行っていますこの度/2564901210319865/",
+    "https://www.facebook.com/osakagreentrust/posts/4月8日-立花エレテックなごみの里企業csr活動枚方市東部清掃工場で行われている大阪府アドプトフォレスト制度を利用した立花エレテック株の企業csr活動に参加しま/2664028510407134/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "立花エレテック note 社長",
+   "results": [
+    "https://note.com/white_whale2025/n/n1de1e617e627",
+    "https://note.com/tatsuya_sabato/n/nb988a576336b",
+    "https://www.tachibana.co.jp/company/greeting/",
+    "https://www.tachibana.co.jp/ir/faq/",
+    "https://note.com/tatsuya_sabato/n/n2e1d51be20d1",
+    "https://www.nikkei.com/article/DGKKZO81347490S4A610C2TB1000/",
+    "https://www.youtube.com/watch?v=OwOqgxE-MTU",
+    "https://www.tachibana.co.jp/100th/100th-shashi/",
+    "https://www.instagram.com/p/DaUPPymmeKe/",
+    "https://the-shashi.com/tse/8159/executives/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "立花エレテック X 投稿",
+   "results": [
+    "https://www.tachibana.co.jp/information/2490/",
+    "https://www.youtube.com/watch?v=OwOqgxE-MTU",
+    "https://x.com/envalith/status/2084954291190800798",
+    "https://www.tachibana.co.jp/privacy/",
+    "https://www.tachibana.co.jp/products/metal-print/",
+    "https://www.youtube.com/watch?v=ccSysB2LaFo",
+    "https://www.nikkei.com/nkd/company/disclose/?scode=8159",
+    "https://www.youtube.com/channel/UCrvP8SMG0zt-6fQMTNUdawA",
+    "https://x.com/hashtag/立花エレテック",
+    "https://www.tachibana.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部11頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部11頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部11頁・検索12回）"
+ }
+}

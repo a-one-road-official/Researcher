@@ -1,0 +1,2087 @@
+{
+ "name": "Glean",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜日本進出済",
+ "researched_at": "2026-11-10T17:02:11.211564+00:00",
+ "official_url": "https://www.glean.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "634 2nd Street, San Francisco, CA 94107",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179911.html",
+    "pass": 3
+   },
+   {
+    "label": "Headquarters",
+    "value": "Palo Alto, California",
+    "url": "https://en.wikipedia.org/wiki/Glean_Technologies",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2019年03月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179911.html",
+    "pass": 3
+   },
+   {
+    "label": "Founded",
+    "value": "Founded：2019 ; 7 years ago ( 2019 )",
+    "url": "https://en.wikipedia.org/wiki/Glean_Technologies",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Glean – Enterprise AI that Works | Agents, Assistant & Search",
+    "url": "https://www.glean.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise AI that understands your company",
+    "url": "https://www.glean.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Complete context that makes AI work at enterprise scale.",
+    "url": "https://www.glean.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The world's leading enterprises put AI to work with Glean.",
+    "url": "https://www.glean.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Glean is built for enterprise scale.",
+    "url": "https://www.glean.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrated across enterprise tools your business runs on.",
+    "url": "https://www.glean.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-connected enterprise context reduces token waste.",
+    "url": "https://www.glean.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Glean for Enterprises",
+    "url": "https://www.glean.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-grade security.",
+    "url": "https://www.glean.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for enterprise from day one. AI only works in the enterprise when answers are secure, explainable, and permission-aware.",
+    "url": "https://www.glean.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Glean Protect",
+    "url": "https://www.glean.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise AI people actually use. Flexible across models, trusted across the enterprise.",
+    "url": "https://www.glean.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise adoption in < 2 years",
+    "url": "https://www.glean.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise AI that speaks your industry's language.",
+    "url": "https://www.glean.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Surface client, product, and market context in one cited view",
+    "url": "https://www.glean.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“The vision was to marry enterprise knowledge with world knowledge to help employees work faster, smarter, better.”",
+    "url": "https://www.glean.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Draft claims appeals, resolve member and provider inquiries, and compile study summaries",
+    "url": "https://www.glean.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Glean has accelerated Ionis’ ability to find and generate insights. The platform was built to understand enterprise context and connect several of our SaaS platforms.”",
+    "url": "https://www.glean.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn market signals into confident merchandising and pricing decisions",
+    "url": "https://www.glean.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Answer product, availability, and returns questions with the right context on the floor or in service",
+    "url": "https://www.glean.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“With Glean, we launched our first agentic AI service desk experience at scale—modernising support, increasing usage, reducing transfers to live agents, and improving results within the first week.”",
+    "url": "https://www.glean.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Architect, T-Mobile",
+    "url": "https://www.glean.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy a governed AI coworker with enterprise controls and permissions",
+    "url": "https://www.glean.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Troubleshoot issues, pull the right specs and procedures, and coordinate response during disruptions",
+    "url": "https://www.glean.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Capture institutional knowledge so best practices get reused across teams",
+    "url": "https://www.glean.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Give manufacturing teams an AI coworker that helps accelerate product innovation, troubleshoot issues, and scale shop floor expertise across every line and plant.",
+    "url": "https://www.glean.com/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how Glean helps manufactureres turn fragmented product, process, and operational context into faster decisions, cleaner handoffs, and more resilient operations.",
+    "url": "https://www.glean.com/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "AI for predictive maintenance",
+    "url": "https://www.glean.com/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Help operators and technicians quickly work from the right relevant SOPs, maintenance logs, and prior incident reports so issues are resolved safely and documented accurately.",
+    "url": "https://www.glean.com/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Speed up product development for R&D teams.",
+    "url": "https://www.glean.com/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Resolve production incidents faster.",
+    "url": "https://www.glean.com/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Pull together tickets, runbooks, system documentation, and vendor guidance so IT and OT teams can diagnose issues and get production up and running faster.",
+    "url": "https://www.glean.com/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Give new employees one place to access training materials, work instructions, and plant-specific guidance.",
+    "url": "https://www.glean.com/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "How can enterprise AI help manufacturing teams diagnose and resolve shop-floor issues faster than traditional search or SOPs?",
+    "url": "https://www.glean.com/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Which systems can an enterprise AI platform connect to without months of custom integration?",
+    "url": "https://www.glean.com/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "What are the highest-impact AI use cases manufacturers are adopting across production, maintenance, supply chain, and quality?",
+    "url": "https://www.glean.com/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "How can manufacturers measure ROI from AI, including less downtime, faster troubleshooting, and quicker onboarding?",
+    "url": "https://www.glean.com/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "How should manufacturers decide whether to build AI in-house or buy an enterprise AI platform?",
+    "url": "https://www.glean.com/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "How can AI capture and reuse institutional knowledge from aging manufacturing workforces?",
+    "url": "https://www.glean.com/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "What timeline, resources, and stakeholders should manufacturers expect when piloting and scaling enterprise AI across plants?",
+    "url": "https://www.glean.com/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "AI for Retail: Improve Sales, Efficiency & Customer Experience",
+    "url": "https://www.glean.com/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Boost retail sales and profitability with AI",
+    "url": "https://www.glean.com/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "With customer data and product information spread across tools and systems, employees struggled to provide superior customer experiences and to deliver new and repeat business.",
+    "url": "https://www.glean.com/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Explore five high-impact ways that AI drivers faster service, smarter operations, and better results — and how a connected approach unlocks even more value for retailers.",
+    "url": "https://www.glean.com/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Retail employee onboarding",
+    "url": "https://www.glean.com/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Turn policies, product knowledge, and store procedures into on-demand guidance so new and seasonal employees can self-serve answers and get productive quickly.",
+    "url": "https://www.glean.com/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Help service teams summarize customer history, surface the right policies, and prepare clearer next steps so they can reduce handle time and escalations.",
+    "url": "https://www.glean.com/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "AI in Action: How Etsy super users boost productivity with Glean",
+    "url": "https://www.glean.com/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "How does Glean help retailers give store associates fast, accurate answers on products, policies, and promotions?",
+    "url": "https://www.glean.com/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Glean connects product, policy, promotion, and operational knowledge across the systems retailers already use. Store associates can ask a question and get a trusted answer grounded in current context, instead of checking multiple tools or waiting on a manager. That helps teams respond faster, stay consistent, and deliver a better customer experience in the moment.",
+    "url": "https://www.glean.com/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "How can Glean reduce onboarding time for retail employees across stores and corporate teams?",
+    "url": "https://www.glean.com/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Glean gives new hires a faster way to find training materials, product information, operating procedures, and role-specific guidance. Instead of depending on ad hoc handoffs or tribal knowledge, employees can get answers from the sources their teams already use. That helps store associates, support teams, and corporate employees ramp faster.",
+    "url": "https://www.glean.com/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Can Glean support an in-house GPT or AI assistant by adding enterprise context instead of replacing it?",
+    "url": "https://www.glean.com/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Glean can provide the governed enterprise context behind an existing GPT, assistant, or agent experience. That helps teams avoid rebuilding connectors, retrieval, permissions, and ranking from scratch. If a retailer already has an internal interface, Glean can help ground it in trusted company knowledge so responses are more accurate, secure, and useful in day-to-day work.",
+    "url": "https://www.glean.com/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "How do retailers measure Glean’s success, from hours saved to sales lift or improved CSAT?",
+    "url": "https://www.glean.com/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "What change management and training are needed for retail teams to adopt Glean at scale?",
+    "url": "https://www.glean.com/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Adoption works best when Glean is tied to real retail workflows. Start with a few role-specific use cases, such as store policy lookup, customer support responses, merchandising research, or onboarding. Then show employees how to use Glean in the tools and moments where they already work. Practical examples and early wins build trust faster than broad AI training.",
+    "url": "https://www.glean.com/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Glean offers deployment options for enterprises with strict security, residency, governance, and compliance needs. Retailers can choose Glean-hosted environments or customer cloud deployments, with controls for permissions, sensitive content, and model data handling. That gives global teams flexibility to adopt AI while meeting internal and regional requirements.",
+    "url": "https://www.glean.com/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise AI for consumer goods",
+    "url": "https://www.glean.com/solutions/industries/industrials/consumer-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Move products from idea to shelf to cart.",
+    "url": "https://www.glean.com/solutions/industries/industrials/consumer-goods",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by today’s leaders",
+    "url": "https://www.glean.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect manufacturing knowledge across every line and plant",
+    "url": "https://www.glean.com/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Give manufacturing teams an AI coworker that helps accelerate product innovation, troubleshoot issues, and scale shop floor expertise across every line and plant.",
+    "url": "https://www.glean.com/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Move work forward from design to the shop floor",
+    "url": "https://www.glean.com/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how Glean helps manufactureres turn fragmented product, process, and operational context into faster decisions, cleaner handoffs, and more resilient operations.",
+    "url": "https://www.glean.com/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Help operators and technicians quickly work from the right relevant SOPs, maintenance logs, and prior incident reports so issues are resolved safely and documented accurately.",
+    "url": "https://www.glean.com/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Generative AI for manufacturing",
+    "url": "https://www.glean.com/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "A Agentic AI for manufacturing",
+    "url": "https://www.glean.com/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "AI solutions for manufacturing",
+    "url": "https://www.glean.com/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Ramp new plant and corporate teams.",
+    "url": "https://www.glean.com/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Give new employees one place to access training materials, work instructions, and plant-specific guidance.",
+    "url": "https://www.glean.com/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "How can enterprise AI help manufacturing teams diagnose and resolve shop-floor issues faster than traditional search or SOPs?",
+    "url": "https://www.glean.com/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "How does AI maintain strict permissions across sensitive manufacturing data, supplier contracts, and plant docs?",
+    "url": "https://www.glean.com/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "What are the highest-impact AI use cases manufacturers are adopting across production, maintenance, supply chain, and quality?",
+    "url": "https://www.glean.com/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "How can manufacturers measure ROI from AI, including less downtime, faster troubleshooting, and quicker onboarding?",
+    "url": "https://www.glean.com/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "What security and compliance issues matter most for manufacturers using AI in regulated or defense-related environments?",
+    "url": "https://www.glean.com/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "How should manufacturers decide whether to build AI in-house or buy an enterprise AI platform?",
+    "url": "https://www.glean.com/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "What change management strategies help operators and engineers adopt AI assistants without losing trust?",
+    "url": "https://www.glean.com/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "How can AI capture and reuse institutional knowledge from aging manufacturing workforces?",
+    "url": "https://www.glean.com/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "What timeline, resources, and stakeholders should manufacturers expect when piloting and scaling enterprise AI across plants?",
+    "url": "https://www.glean.com/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "How manufacturing companies can leverage AI to achieve Industry 4.0",
+    "url": "https://www.glean.com/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "AI for energy, manufacturing, and supply chain teams",
+    "url": "https://www.glean.com/solutions/industries/industrials",
+    "pass": 1
+   },
+   {
+    "quote": "Keep industrial operations moving with AI.",
+    "url": "https://www.glean.com/solutions/industries/industrials",
+    "pass": 1
+   },
+   {
+    "quote": "Give industrial teams an AI coworker that helps them make faster decisions, coordinate work across systems, and move critical operations forward with confidence.",
+    "url": "https://www.glean.com/solutions/industries/industrials",
+    "pass": 1
+   },
+   {
+    "quote": "Modernize manufacturing operations.",
+    "url": "https://www.glean.com/solutions/industries/industrials",
+    "pass": 1
+   },
+   {
+    "quote": "Help engineers and plant teams access product designs, troubleshoot issues faster and collaborate across sites.",
+    "url": "https://www.glean.com/solutions/industries/industrials",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Glean for manufacturing",
+    "url": "https://www.glean.com/solutions/industries/industrials",
+    "pass": 1
+   },
+   {
+    "quote": "Ramp field, plant, and corporate teams faster.",
+    "url": "https://www.glean.com/solutions/industries/industrials/energy-utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Give new teammates in the office or the warehouse one place to find company policies, SOPs and training materials so they can hit the ground running.",
+    "url": "https://www.glean.com/solutions/industries/industrials/supply-chain",
+    "pass": 1
+   },
+   {
+    "quote": "How does Glean connect to legacy and on-prem systems like AS/400, iSeries, and warehouse platforms without a re-platforming project?",
+    "url": "https://www.glean.com/solutions/industries/industrials/supply-chain",
+    "pass": 1
+   },
+   {
+    "quote": "How does Glean secure sensitive supply chain data across plants, 3PLs, and regional teams?",
+    "url": "https://www.glean.com/solutions/industries/industrials/supply-chain",
+    "pass": 1
+   },
+   {
+    "quote": "What change management strategies work best when rolling out Glean to planners, warehouse supervisors, buyers, and logistics coordinators?",
+    "url": "https://www.glean.com/solutions/industries/industrials/supply-chain",
+    "pass": 1
+   },
+   {
+    "quote": "The best rollouts start with specific, high-frequency workflows where fragmented information slows teams down. Glean helps planners, warehouse supervisors, buyers, and logistics coordinators with the work they already do: finding SOPs, resolving exceptions, checking supplier context, or onboarding faster. Role-specific examples and early wins build more trust than broad AI messaging.",
+    "url": "https://www.glean.com/solutions/industries/industrials/supply-chain",
+    "pass": 1
+   },
+   {
+    "quote": "How does Glean handle data-sharing boundaries in multi-enterprise supply chains with manufacturers, 3PLs, and carriers?",
+    "url": "https://www.glean.com/solutions/industries/industrials/supply-chain",
+    "pass": 1
+   },
+   {
+    "quote": "Work with teams experienced in financial services, healthcare, technology, manufacturing, and other sectors.",
+    "url": "https://www.glean.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Generative AI for manufacturing",
+    "url": "https://www.glean.com/jp/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "A Agentic AI for manufacturing",
+    "url": "https://www.glean.com/jp/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "AI solutions for manufacturing",
+    "url": "https://www.glean.com/jp/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Ramp new plant and corporate teams.",
+    "url": "https://www.glean.com/jp/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Give new employees one place to access training materials, work instructions, and plant-specific guidance.",
+    "url": "https://www.glean.com/jp/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "How can enterprise AI help manufacturing teams diagnose and resolve shop-floor issues faster than traditional search or SOPs?",
+    "url": "https://www.glean.com/jp/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "How does AI maintain strict permissions across sensitive manufacturing data, supplier contracts, and plant docs?",
+    "url": "https://www.glean.com/jp/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "What are the highest-impact AI use cases manufacturers are adopting across production, maintenance, supply chain, and quality?",
+    "url": "https://www.glean.com/jp/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "How can manufacturers measure ROI from AI, including less downtime, faster troubleshooting, and quicker onboarding?",
+    "url": "https://www.glean.com/jp/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "What security and compliance issues matter most for manufacturers using AI in regulated or defense-related environments?",
+    "url": "https://www.glean.com/jp/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "How should manufacturers decide whether to build AI in-house or buy an enterprise AI platform?",
+    "url": "https://www.glean.com/jp/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "What change management strategies help operators and engineers adopt AI assistants without losing trust?",
+    "url": "https://www.glean.com/jp/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "How can AI capture and reuse institutional knowledge from aging manufacturing workforces?",
+    "url": "https://www.glean.com/jp/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "What timeline, resources, and stakeholders should manufacturers expect when piloting and scaling enterprise AI across plants?",
+    "url": "https://www.glean.com/jp/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "How manufacturing companies can leverage AI to achieve Industry 4.0",
+    "url": "https://www.glean.com/jp/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by today's leaders",
+    "url": "https://www.glean.com/platform/enterprise-context",
+    "pass": 1
+   },
+   {
+    "quote": "Factory Floor Efficiency With Glean - WWT",
+    "url": "https://www.wwt.com/blog/factory-floor-efficiency-with-glean",
+    "pass": 3
+   },
+   {
+    "quote": "Factory Floor Efficiency With Glean",
+    "url": "https://www.wwt.com/blog/factory-floor-efficiency-with-glean",
+    "pass": 3
+   },
+   {
+    "quote": "Agentic AI revolutionizes manufacturing by enhancing efficiency, safety and decision-making. Glean's platform integrates enterprise knowledge, offering proactive, context-aware support. It reduces downtime, improves quality and streamlines operations, transforming AI from an assistant to an operational ally. Embrace the future of smart factories with agentic intelligence.",
+    "url": "https://www.wwt.com/blog/factory-floor-efficiency-with-glean",
+    "pass": 3
+   },
+   {
+    "quote": "Agentic AI in manufacturing: Unlocking factory floor efficiency with Glean and WWT",
+    "url": "https://www.wwt.com/blog/factory-floor-efficiency-with-glean",
+    "pass": 3
+   },
+   {
+    "quote": "This approach aligns with manufacturing needs where frontline teams must make fast, informed decisions across silos, shifts and systems.",
+    "url": "https://www.wwt.com/blog/factory-floor-efficiency-with-glean",
+    "pass": 3
+   },
+   {
+    "quote": "The power of Glean's Agentic AI in manufacturing",
+    "url": "https://www.wwt.com/blog/factory-floor-efficiency-with-glean",
+    "pass": 3
+   },
+   {
+    "quote": "Reference: McKinsey & Company (2023). *Digital Manufacturing: The Rise of the Smart Factory*. Retrieved from https://www.mckinsey.com",
+    "url": "https://www.wwt.com/blog/factory-floor-efficiency-with-glean",
+    "pass": 3
+   },
+   {
+    "quote": "Operators can ask questions in plain language and instantly retrieve:",
+    "url": "https://www.wwt.com/blog/factory-floor-efficiency-with-glean",
+    "pass": 3
+   },
+   {
+    "quote": "Reference: Deloitte (2022). *Smart Manufacturing Ecosystems*. Retrieved from https://www2.deloitte.com",
+    "url": "https://www.wwt.com/blog/factory-floor-efficiency-with-glean",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "“The vision was to marry enterprise knowledge with world knowledge to help employees work faster, smarter, better.”",
+    "url": "https://www.glean.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Glean has put advanced AI that’s easy to use into the hands of every single person at Motive. It’s helped make AI less of a mystery, and more a part of how everyone works.”",
+    "url": "https://www.glean.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Booking.com scales AI across 14,000 employees with Glean.",
+    "url": "https://www.glean.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"The vision was to marry enterprise knowledge with world knowledge to help employees work faster, smarter, better.\"",
+    "url": "https://www.glean.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring AI into the tools employees already use.",
+    "url": "https://www.glean.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Give new employees one place to access training materials, work instructions, and plant-specific guidance.",
+    "url": "https://www.glean.com/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Booking.com scales AI to 14,000 employees—and redefines work—with Glean",
+    "url": "https://www.glean.com/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "With customer data and product information spread across tools and systems, employees struggled to provide superior customer experiences and to deliver new and repeat business.",
+    "url": "https://www.glean.com/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "of employees report Glean is valuable to their jobs",
+    "url": "https://www.glean.com/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Turn policies, product knowledge, and store procedures into on-demand guidance so new and seasonal employees can self-serve answers and get productive quickly.",
+    "url": "https://www.glean.com/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "How can Glean reduce onboarding time for retail employees across stores and corporate teams?",
+    "url": "https://www.glean.com/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Glean gives new hires a faster way to find training materials, product information, operating procedures, and role-specific guidance. Instead of depending on ad hoc handoffs or tribal knowledge, employees can get answers from the sources their teams already use. That helps store associates, support teams, and corporate employees ramp faster.",
+    "url": "https://www.glean.com/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Adoption works best when Glean is tied to real retail workflows. Start with a few role-specific use cases, such as store policy lookup, customer support responses, merchandising research, or onboarding. Then show employees how to use Glean in the tools and moments where they already work. Practical examples and early wins build trust faster than broad AI training.",
+    "url": "https://www.glean.com/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Booking.com scales AI to 14,000 employees—and redefines work—with Glean",
+    "url": "https://www.glean.com/solutions/industries/industrials/consumer-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Booking.com scales AI to 14,000 employees—and redefines work—with Glean",
+    "url": "https://www.glean.com/solutions/industries/industrials/energy-utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Carrier performance management",
+    "url": "https://www.glean.com/solutions/industries/industrials/supply-chain",
+    "pass": 1
+   },
+   {
+    "quote": "Choose the right carriers with confidence.",
+    "url": "https://www.glean.com/solutions/industries/industrials/supply-chain",
+    "pass": 1
+   },
+   {
+    "quote": "Surface OTIF metrics, claims history, and service documentation to support performance analyses and better carrier decisions.",
+    "url": "https://www.glean.com/solutions/industries/industrials/supply-chain",
+    "pass": 1
+   },
+   {
+    "quote": "Booking.com scales AI to 14,000 employees—and redefines work—with Glean",
+    "url": "https://www.glean.com/solutions/industries/industrials/supply-chain",
+    "pass": 1
+   },
+   {
+    "quote": "How does Glean handle data-sharing boundaries in multi-enterprise supply chains with manufacturers, 3PLs, and carriers?",
+    "url": "https://www.glean.com/solutions/industries/industrials/supply-chain",
+    "pass": 1
+   },
+   {
+    "quote": "How can Glean unify contracts, orders, inventory, and shipments across overlapping systems after acquisitions?",
+    "url": "https://www.glean.com/solutions/industries/industrials/supply-chain",
+    "pass": 1
+   },
+   {
+    "quote": "After acquisitions, supply chain teams often need to work across overlapping systems before those systems are fully consolidated. Glean creates a unified way to find and use context across existing sources, such as contracts, orders, inventory positions, and shipment records. Teams can get a more useful cross-system view now while longer-term integration and harmonization work continues.",
+    "url": "https://www.glean.com/solutions/industries/industrials/supply-chain",
+    "pass": 1
+   },
+   {
+    "quote": "“The vision was to marry enterprise knowledge with world knowledge to help employees work faster, smarter, better.”",
+    "url": "https://www.glean.com/solutions/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Banks should evaluate whether employees can use AI across the systems where work actually happens, not just inside Microsoft 365. Teams often need context from policy repositories, CRM systems, research content, collaboration tools, and operational records. Glean complements existing AI investments by connecting that cross-system context in one permission-aware experience.",
+    "url": "https://www.glean.com/solutions/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "“The vision was to marry enterprise knowledge with world knowledge to help employees work faster, smarter, better.”",
+    "url": "https://www.glean.com/solutions/industries/financial-services/banking",
+    "pass": 1
+   },
+   {
+    "quote": "Banks should evaluate whether employees can use AI across the systems where work actually happens, not just inside Microsoft 365. Policy, client, operational, and research context often lives in Google Drive, Box, Confluence, Jira, ServiceNow, Salesforce, Workday, and other business systems. The key question is whether teams can bring that context into one trusted, permission-aware experience.",
+    "url": "https://www.glean.com/solutions/industries/financial-services/banking",
+    "pass": 1
+   },
+   {
+    "quote": "Banks improve adoption when AI fits into the tools and workflows employees already use. Search, assistants, and agents should make everyday work easier, whether teams are preparing for client meetings, finding policy guidance, resolving service issues, or completing operational tasks. When AI is useful in the work people already do, it’s easier to move from pilot to business impact.",
+    "url": "https://www.glean.com/solutions/industries/financial-services/banking",
+    "pass": 1
+   },
+   {
+    "quote": "“The vision was to marry enterprise knowledge with world knowledge to help employees work faster, smarter, better.”",
+    "url": "https://www.glean.com/solutions/industries/financial-services/private-equity-venture-capital",
+    "pass": 1
+   },
+   {
+    "quote": "“The vision was to marry enterprise knowledge with world knowledge to help employees work faster, smarter, better.”",
+    "url": "https://www.glean.com/solutions/industries/financial-services/asset-management",
+    "pass": 1
+   },
+   {
+    "quote": "Adoption improves when the rollout is tied to specific team workflows, not broad AI messaging. Start with use cases where employees already feel the pain of fragmented information, show how Glean fits into existing tools and processes, and make early wins visible. For asset management teams, trust, relevance, and control matter as much as speed.",
+    "url": "https://www.glean.com/solutions/industries/financial-services/asset-management",
+    "pass": 1
+   },
+   {
+    "quote": "“The vision was to marry enterprise knowledge with world knowledge to help employees work faster, smarter, better.”",
+    "url": "https://www.glean.com/solutions/industries/financial-services/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Co-sell & revenue incentives.",
+    "url": "https://www.glean.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Give new employees one place to access training materials, work instructions, and plant-specific guidance.",
+    "url": "https://www.glean.com/jp/solutions/industries/industrials/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Search results are indexed in real time, so employees can always find the latest information.",
+    "url": "https://www.glean.com/enterprise-search",
+    "pass": 1
+   },
+   {
+    "quote": "40G capture you can carry to the problem.",
+    "url": "https://netglean.com/",
+    "pass": 3
+   },
+   {
+    "quote": "The carrier-grade signal chain",
+    "url": "https://netglean.com/",
+    "pass": 3
+   },
+   {
+    "quote": "This collaboration underscores the growing importance of AI in enterprise environments, offering tools that streamline operations and empower employees with timely, relevant information to drive innovation and maintain a competitive edge in a data-driven world.",
+    "url": "https://www.wwt.com/blog/factory-floor-efficiency-with-glean",
+    "pass": 3
+   },
+   {
+    "quote": "In February 2025, the company reported reaching $100 million in annual recurring revenue.",
+    "url": "https://en.wikipedia.org/wiki/Glean_Technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Glean reported reaching $200 million in annual recurring revenue in December 2025, doubling its ARR in nine months.",
+    "url": "https://en.wikipedia.org/wiki/Glean_Technologies",
+    "pass": 3
+   },
+   {
+    "quote": "\"Employees could leave jobs due to disorganization\"",
+    "url": "https://en.wikipedia.org/wiki/Glean_Technologies",
+    "pass": 3
+   },
+   {
+    "quote": "\"Exclusive: Glean hits $200 million ARR, up from $100 million nine months back\"",
+    "url": "https://en.wikipedia.org/wiki/Glean_Technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Glean revenue, valuation & funding | Sacra",
+    "url": "https://sacra.com/c/glean/",
+    "pass": 3
+   },
+   {
+    "quote": "hit $300M in annual recurring revenue (ARR) in May 2026, up from $208M at the end of 2025 (+89% year-over-year).",
+    "url": "https://sacra.com/c/glean/",
+    "pass": 3
+   },
+   {
+    "quote": "crossed $100M in ARR in its fiscal year ended January 31, 2025, then reached $200M ARR in December 2025—doubling in nine months.",
+    "url": "https://sacra.com/c/glean/",
+    "pass": 3
+   },
+   {
+    "quote": "generates revenue primarily through enterprise software subscriptions, with pricing based on number of seats/users within an organization. The company focuses on mid-market and enterprise customers with 500+ employees, with typical initial contract values ranging from $100K to $500K annually.",
+    "url": "https://sacra.com/c/glean/",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise deals with Fortune 500 companies can exceed $5M annually.",
+    "url": "https://sacra.com/c/glean/",
+    "pass": 3
+   },
+   {
+    "quote": "The company initially targeted technology companies with 500-2,000 employees but has successfully moved upmarket to serve large enterprises across industries including financial services, telecommunications, and healthcare.",
+    "url": "https://sacra.com/c/glean/",
+    "pass": 3
+   },
+   {
+    "quote": ", Confluent, Duolingo, and T-Mobile. Sales cycles average 4-5 months for enterprise deals, with faster 90-day cycles for mid-market customers under 1,000 employees.",
+    "url": "https://sacra.com/c/glean/",
+    "pass": 3
+   },
+   {
+    "quote": "(Jain's previous startup): as companies scaled rapidly, employees struggled to find information scattered across numerous SaaS applications, leading to significant productivity losses.",
+    "url": "https://sacra.com/c/glean/",
+    "pass": 3
+   },
+   {
+    "quote": "found product-market fit as an AI-powered enterprise search platform for mid-market technology companies with 500–2,000 employees. These companies were large enough to experience acute information discovery problems but agile enough to quickly adopt new tools. Initial customers included fast-growing tech companies like",
+    "url": "https://sacra.com/c/glean/",
+    "pass": 3
+   },
+   {
+    "quote": "The product functions as a unified search and execution layer across all enterprise applications, including Slack, Google Workspace, Microsoft 365, Salesforce, Jira, and others. When employees have questions, they can use Glean's chat interface to find relevant information from any connected system, with results filtered based on their specific permissions and role.",
+    "url": "https://sacra.com/c/glean/",
+    "pass": 3
+   },
+   {
+    "quote": "is an enterprise SaaS company targeting mid-market and enterprise companies with 500+ employees. Revenue is generated through per-seat subscription licensing, with contracts typically starting north of $100K annually for mid-market deployments and reaching multi-million dollars for large enterprises.",
+    "url": "https://sacra.com/c/glean/",
+    "pass": 3
+   },
+   {
+    "quote": "Their deep integrations with enterprise systems and sophisticated permissions management create strong barriers to entry, while their AI capabilities enable them to move beyond simple search into areas like automated documentation, knowledge base creation, and institutional memory preservation.",
+    "url": "https://sacra.com/c/glean/",
+    "pass": 3
+   },
+   {
+    "quote": "By analyzing patterns in how employees search for and use information,",
+    "url": "https://sacra.com/c/glean/",
+    "pass": 3
+   },
+   {
+    "quote": "Glean originally started as an enterprise search service. It is a service that allows employees to quickly find information scattered across hundreds or thousands of internal systems, and Jain describes it as “Google for your work life.” However, with the improvement in AI model performance, the company’s product has evolved into an AI platform.",
+    "url": "https://note.com/startup_now0708/n/ne53f80563b85?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "“It’s a superset product experience that combines ChatGPT, Claude, and Gemini, acting as a ‘co-worker’ for employees and connected to every context of the company—that is, how work is actually done within the organization.”",
+    "url": "https://note.com/startup_now0708/n/ne53f80563b85?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Some executives are actively encouraging their employees to 'replace themselves with AI.' Jain took a clearly skeptical stance on this.",
+    "url": "https://note.com/startup_now0708/n/ne53f80563b85?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "8. Hiring Policy: From Over 1,000 Employees to 5,000",
+    "url": "https://note.com/startup_now0708/n/ne53f80563b85?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "While many CEOs aim to downsize teams through AI utilization and openly declare that they 'no longer believe in increasing headcount,' Jain has set a clearly different policy. Glean currently has over 1,000 employees, and he stated the following regarding the outlook for five years from now:",
+    "url": "https://note.com/startup_now0708/n/ne53f80563b85?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "How does Glean combine structured retail data with unstructured docs, emails, and wikis so teams can chat with their data?",
+    "url": "https://www.glean.com/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Glean brings structured data and unstructured knowledge into one governed experience. Teams can ask questions that connect metrics from data systems with the documents, emails, policies, and team knowledge that explain what the numbers mean. That gives retail teams more context for decisions, not just isolated data points.",
+    "url": "https://www.glean.com/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Compile contracts, RFIs, directives, emails, and change events into a single timeline to support claims and audits without reconstructing history by hand.",
+    "url": "https://www.glean.com/solutions/industries/professional-services/construction",
+    "pass": 1
+   },
+   {
+    "quote": "AI can bring internal deal history and trusted market research into one workflow, making it easier to spot patterns, compare past work, and build more consistent investment theses. It can also help teams create investment committee materials faster by surfacing relevant context from notes, decks, emails, and prior diligence files, reducing repeated work and giving teams more time for analysis.",
+    "url": "https://www.glean.com/solutions/industries/financial-services/private-equity-venture-capital",
+    "pass": 1
+   },
+   {
+    "quote": "\"Calibrations, email, presentations, content creation, etc., have gotten so much easier. I've seen stats that say Glean saves people 2-3 hours of time a week, but I know it's saving me a lot more time than that, and if you're not using Glean today, you really should be.”",
+    "url": "https://www.glean.com/platform/enterprise-context",
+    "pass": 1
+   },
+   {
+    "quote": "could expand into meeting summarization, email management, project tracking, and automated workflow creation. This positions them to capture share in the emerging enterprise AI assistant market, estimated to reach $40B+ by 2027.",
+    "url": "https://sacra.com/c/glean/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Join a global ecosystem of cloud providers, consulting firms, resellers, and technology partners helping customers deploy Glean and put enterprise AI into practice.",
+    "url": "https://www.glean.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Value-added resellers",
+    "url": "https://www.glean.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "The Glean Partner Network is a global ecosystem of cloud providers, consulting firms, resellers, and technology companies that help enterprise customers deploy and maximize Glean's Work AI platform.",
+    "url": "https://www.glean.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We work with Cloud Providers, Consulting & GSI Partners, Value-Added Resellers, and Technology Partners. Each has its own program track.",
+    "url": "https://www.glean.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Glean is available through our authorized resellers and on cloud marketplaces (AWS, Google Cloud, Azure), allowing you to use existing committed spend.",
+    "url": "https://www.glean.com/partners",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Gleanは、2023年5月にアシストとのパートナーシップを結び、日本市場での展開が開始されました",
+    "url": "https://note.com/hiroshikinoshita/n/n32be989aaaf5",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、アシストは日本国内で初めてGleanを提供することとなり、多くの企業に対してDX推進や情報管理の効率化を支援しています",
+    "url": "https://note.com/hiroshikinoshita/n/n32be989aaaf5",
+    "pass": 3
+   },
+   {
+    "quote": "Gleanは、2023年5月にアシストとのパートナーシップを結び、日本市場への展開が開始された",
+    "url": "https://note.com/hiroshikinoshita/n/n32be989aaaf5",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、アシストは日本国内で初めてGleanを提供し、多くの企業に対してDX推進や情報管理の効率化を支援している",
+    "url": "https://note.com/hiroshikinoshita/n/n32be989aaaf5",
+    "pass": 3
+   },
+   {
+    "quote": ".Aiエージェントを手掛けるカスタマークラウドは、日本初となる企業AI脳「LBAI」やAIがAIを進化させる「AI2AI」の概念を提唱し、 数百社におよぶレガシー産業のDX化・AI導入を成功に導いてきました",
+    "url": "https://note.com/hiroshikinoshita/n/n32be989aaaf5",
+    "pass": 3
+   },
+   {
+    "quote": "✅ 日本初のLLMO特化サービス「.Ai SEO」でPRを革新",
+    "url": "https://note.com/hiroshikinoshita/n/n32be989aaaf5",
+    "pass": 3
+   },
+   {
+    "quote": "は、2023年5月の日本初上陸以降、多くの国内企業様にご導入いただいています",
+    "url": "https://www.ashisuto.co.jp/cm/glean-blog/enterprise-search/whychooseglean.html",
+    "pass": 3
+   },
+   {
+    "quote": "AIやBI分野のマーケティングを経て、2023年より「Glean」の日本国内での立ち上げに参加",
+    "url": "https://www.ashisuto.co.jp/cm/glean-blog/enterprise-search/whychooseglean.html",
+    "pass": 3
+   },
+   {
+    "quote": "米国Glean社と代理店契約締結、統合型企業内ナレッジ活用AIプラットフォームを国内販売開始〜企業における生成AI導入・活用を迅速かつ安全に〜|東京エレクトロンデバイス",
+    "url": "https://www.teldevice.co.jp/pro_info/2025/press_250918.php",
+    "pass": 3
+   },
+   {
+    "quote": "米国Glean社と代理店契約締結、統合型企業内ナレッジ活用AIプラットフォームを国内販売開始",
+    "url": "https://www.teldevice.co.jp/pro_info/2025/press_250918.php",
+    "pass": 3
+   },
+   {
+    "quote": "東京エレクトロン デバイス株式会社（本社：東京都渋谷区、代表取締役社長・CEO：徳重 敦之、以下TED) は、Glean Technologies, Inc.（グリーン テクノロジーズ、本社：米国 カリフォルニア州、Founder & CEO: Arvind Jain、以下、Glean）と販売代理店契約を締結し、統合型企業内ナレッジ活用AIプラットフォーム の販売を2025年9月18日より開始します",
+    "url": "https://www.teldevice.co.jp/pro_info/2025/press_250918.php",
+    "pass": 3
+   },
+   {
+    "quote": "セキュア設計： 既存の権限設定を尊重し、日本企業が重視する最高基準の情報セキュリティに対応",
+    "url": "https://www.teldevice.co.jp/pro_info/2025/press_250918.php",
+    "pass": 3
+   },
+   {
+    "quote": "Gleanは、東京エレクトロンデバイス（TED）と提携し、当社のWork AIプラットフォームを日本企業に提供できることを大変光栄に思います",
+    "url": "https://www.teldevice.co.jp/pro_info/2025/press_250918.php",
+    "pass": 3
+   },
+   {
+    "quote": "TEDの専門性と国内でのプレゼンスを組み合わせることで、日本企業はGleanを活用し、知識を解放し、成長を加速させ、スケーラブルなAIの価値を享受することが可能になります",
+    "url": "https://www.teldevice.co.jp/pro_info/2025/press_250918.php",
+    "pass": 3
+   },
+   {
+    "quote": "【東京エレクトロン デバイス株式会社 について】",
+    "url": "https://www.teldevice.co.jp/pro_info/2025/press_250918.php",
+    "pass": 3
+   },
+   {
+    "quote": "東京エレクトロンデバイスは、メーカーと技術商社の力で潜在的な社会課題を解決する会社を目指し、半導体やITを中心とする最先端テクノロジーの社会実装を推進しています",
+    "url": "https://www.teldevice.co.jp/pro_info/2025/press_250918.php",
+    "pass": 3
+   },
+   {
+    "quote": "東京エレクトロン デバイス株式会社 マーケティングコミュニケーション部 広報グループ",
+    "url": "https://www.teldevice.co.jp/pro_info/2025/press_250918.php",
+    "pass": 3
+   },
+   {
+    "quote": "東京エレクトロン デバイス株式会社 CN BU Glean製品担当",
+    "url": "https://www.teldevice.co.jp/pro_info/2025/press_250918.php",
+    "pass": 3
+   },
+   {
+    "quote": "Glean Corporation (Japan) | Network Test & Measurement: Packet Capture, 5G, Voice Quality, Protocol Testing",
+    "url": "https://netglean.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Partnered with the world's leading test vendors. Recognized at Interop Tokyo with a Best of Show Award and as a Best of Show finalist.",
+    "url": "https://netglean.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Glean、小澤正治を日本カントリーマネージャーに任命し、日本市場での成長を加速 | Glean Technologies, Inc.のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179911.html",
+    "pass": 3
+   },
+   {
+    "quote": "Glean、小澤正治を日本カントリーマネージャーに任命し、日本市場での成長を加速",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179911.html",
+    "pass": 3
+   },
+   {
+    "quote": "エンタープライズソフトウェア領域の経験豊富なリーダーを迎え、日本市場への取り組みを強化",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179911.html",
+    "pass": 3
+   },
+   {
+    "quote": "エンタープライズAIのためのコンテキスト＆インテリジェンス基盤を提供するGlean（本社：米カリフォルニア州、創設者兼CEO Arvind Jain、以下「Glean」）は本日、小澤正治を日本カントリーマネージャーに任命したことを発表しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179911.html",
+    "pass": 3
+   },
+   {
+    "quote": "小澤は、日本における市場進出戦略、エンタープライズ営業、および日本組織の構築を含む、Gleanの日本事業全体を統括します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179911.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回の任命は、Gleanによる日本市場への継続的な投資における重要な一歩となります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179911.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本ではエンタープライズAIの導入が加速しており、AIを定量的に測定できるビジネス成果につなげるための、安全かつ実用的なアプローチへの関心が高まっています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179911.html",
+    "pass": 3
+   },
+   {
+    "quote": "Gleanは、日本の様々なエンタープライズ顧客企業との取り組みを通じ、日本市場において着実な成長基盤を築いてきました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179911.html",
+    "pass": 3
+   },
+   {
+    "quote": "この実績を土台に、今後さらに日本でのプレゼンスを拡大してまいります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179911.html",
+    "pass": 3
+   },
+   {
+    "quote": "「日本はエンタープライズAIにおいて世界で最も重要な市場のひとつであり、当社は長期的な視点で日本への投資を進めています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179911.html",
+    "pass": 3
+   },
+   {
+    "quote": "小澤氏は豊富なリーダーシップ経験、顧客からの信頼、そして日本市場への深い理解を兼ね備えた人物です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179911.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本におけるGleanの事業成長を牽引し、エンタープライズコンテキストへの深い理解と、既存のシステム・データ・ワークフローとのオープンな連携を強みとするプラットフォームを通じて、より多くの企業が真の価値を実現できるよう導いてくれると確信しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179911.html",
+    "pass": 3
+   },
+   {
+    "quote": "直近ではGitLabの日本責任者を務めたほか、LookerではVP兼日本カントリーマネージャーとして事業を牽引しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179911.html",
+    "pass": 3
+   },
+   {
+    "quote": "「日本企業は、実験的なAI導入のフェーズから、実際のビジネス成果を創出するフェーズへと急速に移行しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179911.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本のより多くの企業が、AIへの期待を定量的に測れる成果に変えていけるよう、尽力して参ります」",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179911.html",
+    "pass": 3
+   },
+   {
+    "quote": "Gleanは日本市場の拡大に伴い、国内チームへの投資を継続します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179911.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の顧客企業との関係をさらに深めるとともに、ビジネス成果に直結するAI導入基盤の構築を支援してまいります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179911.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本では、株式会社アシストがGleanの国内初のリセラーとして、2023年5月より販売を開始しました",
+    "url": "https://note.com/vueloo_blog/n/n2f3cee8c9283",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、Gleanの導入支援やサポートを通じて、日本企業のデジタルトランスフォーメーション（DX）を支援しています",
+    "url": "https://note.com/vueloo_blog/n/n2f3cee8c9283",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "アシスタント、検索を統合するAIプラットフォーム - Glean — アシスタント、検索を統合するAIプラットフォーム - Glean Glean https://www.glean.com > ...",
+    "url": "https://www.glean.com/jp",
+    "pass": 3
+   },
+   {
+    "quote": "Glean | NTTデータ — Glean | NTTデータ NTT Data https://www.nttdata.com > ホーム > ラインナップ > Glean",
+    "url": "https://www.nttdata.com/jp/ja/lineup/glean/",
+    "pass": 3
+   },
+   {
+    "quote": "検索生成AI ：「 Glean 」グリーンについての詳細ーー ... - note — 検索生成AI ：「 Glean 」グリーンについての詳細ーー ... - note note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/hiroshikinoshita/n/n32be989aaaf5",
+    "pass": 3
+   },
+   {
+    "quote": "Glean の 導入 企業に聞きました！採用理由と解決したかった ... — Glean の 導入 企業に聞きました！採用理由と解決したかった ... Ashisuto https://www.ashisuto.co.jp > glean-blog > whychooseglean",
+    "url": "https://www.ashisuto.co.jp/cm/glean-blog/enterprise-search/whychooseglean.html",
+    "pass": 3
+   },
+   {
+    "quote": "注目される｢企業内検索｣ その必要性や価値は？米国 Glean 社の ... — 注目される｢企業内検索｣ その必要性や価値は？米国 Glean 社の ... 双日テックイノベーション https://collab.sojitz-ti.com > blog > etc > in-company-sear...",
+    "url": "https://collab.sojitz-ti.com/blog/etc/in-company-search-its-necessity-and-value.html",
+    "pass": 3
+   },
+   {
+    "quote": "Glean Work AI — Glean Work AI Glean https://www.glean.com > about",
+    "url": "https://www.glean.com/jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンの採用情報 | Glean Work AI — グリーンの採用情報 | Glean Work AI Glean https://www.glean.com > careers",
+    "url": "https://www.glean.com/jp/careers",
+    "pass": 3
+   },
+   {
+    "quote": "パートナー | Glean Work AI — パートナー | Glean Work AI Glean https://www.glean.com > partners",
+    "url": "https://www.glean.com/jp/partners",
+    "pass": 3
+   },
+   {
+    "quote": "米国 Glean 社と 代理店 契約締結、統合型企業内ナレッジ活用AI ... — 米国 Glean 社と 代理店 契約締結、統合型企業内ナレッジ活用AI ... 東京エレクトロンデバイス https://www.teldevice.co.jp > pro_info > press_250918",
+    "url": "https://www.teldevice.co.jp/pro_info/2025/press_250918.php",
+    "pass": 3
+   },
+   {
+    "quote": "Glean – Enterprise AI that Works | Agents, Assistant & Search — Glean – Enterprise AI that Works | Agents, Assistant & Search Glean https://www.glean.com",
+    "url": "https://www.glean.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Glean Corporation ( Japan ) | Network Test & Measurement ... — Glean Corporation ( Japan ) | Network Test & Measurement ... Glean Corporation https://netglean.com",
+    "url": "https://netglean.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Glean 、小澤正治を 日本 カントリーマネージャーに任命し — Glean 、小澤正治を 日本 カントリーマネージャーに任命し PR TIMES https://prtimes.jp > 経営情報",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179911.html",
+    "pass": 3
+   },
+   {
+    "quote": "Glean のエンタープライズアカウントエグゼクティブ - 日本 — Glean のエンタープライズアカウントエグゼクティブ - 日本 LinkedIn https://jp.linkedin.com > jobs > view > エンタープライズア...",
+    "url": "https://jp.linkedin.com/jobs/view/%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%97%E3%83%A9%E3%82%A4%E3%82%BA%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%A8%E3%82%B0%E3%82%BC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96-%E6%97%A5%E6%9C%AC-at-glean-3955133703",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise AI customer stories | Glean Work AI — Enterprise AI customer stories | Glean Work AI Glean https://www.glean.com > resources",
+    "url": "https://www.glean.com/resources/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Case Studies | Glean AI — Customer Case Studies | Glean AI Glean Analytics Inc. https://www.glean.ai > case-studies",
+    "url": "https://www.glean.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Glean's Product Strategy: Building AI That Understands Your ... — Glean's Product Strategy: Building AI That Understands Your ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=y3oiofMGBlA",
+    "pass": 3
+   },
+   {
+    "quote": "Factory Floor Efficiency With Glean - WWT — Factory Floor Efficiency With Glean - WWT World Wide Technology | WWT https://www.wwt.com > blog > factor...",
+    "url": "https://www.wwt.com/blog/factory-floor-efficiency-with-glean",
+    "pass": 3
+   },
+   {
+    "quote": "Making workplace knowledge accessible | Kleiner Perkins — Making workplace knowledge accessible | Kleiner Perkins Kleiner Perkins https://www.kleinerperkins.com > perspectives > glean",
+    "url": "https://www.kleinerperkins.com/perspectives/glean/",
+    "pass": 3
+   },
+   {
+    "quote": "Glean Launches Global Partner Network to Scale Its Growing ... — Glean Launches Global Partner Network to Scale Its Growing ... Glean https://www.glean.com > press > glea...",
+    "url": "https://www.glean.com/press/glean-launches-global-partner-network-to-scale-its-growing-enterprise-ai-ecosystem",
+    "pass": 3
+   },
+   {
+    "quote": "Introducing the Glean Partner Network — Introducing the Glean Partner Network Glean https://www.glean.com > blog > glean...",
+    "url": "https://www.glean.com/blog/glean-partner-network",
+    "pass": 3
+   },
+   {
+    "quote": "Partners | Glean Work AI — Partners | Glean Work AI Glean https://www.glean.com > partners",
+    "url": "https://www.glean.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Glean Partner Program — Glean Partner Program Glean https://partners.glean.com",
+    "url": "https://partners.glean.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Glean Surpasses $200M in ARR for Enterprise AI, Doubling ... — Glean Surpasses $200M in ARR for Enterprise AI, Doubling ... Glean https://www.glean.com > press > glea...",
+    "url": "https://www.glean.com/press/glean-surpasses-200m-in-arr-for-enterprise-ai-doubling-revenue-in-nine-months",
+    "pass": 3
+   },
+   {
+    "quote": "Glean Technologies - Wikipedia — Glean Technologies - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Glea...",
+    "url": "https://en.wikipedia.org/wiki/Glean_Technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Glean revenue , valuation & funding - Sacra — Glean revenue , valuation & funding - Sacra sacra.com https://sacra.com > glean",
+    "url": "https://sacra.com/c/glean/",
+    "pass": 3
+   },
+   {
+    "quote": "Glean Achieves $100M ARR in Three Years, Delivering True ... — Glean Achieves $100M ARR in Three Years, Delivering True ... Glean https://www.glean.com > press > glea...",
+    "url": "https://www.glean.com/press/glean-achieves-100m-arr-in-three-years-delivering-true-ai-roi-to-the-enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "I studied how Glean went from 0 to $200M ARR. Here's the ... — I studied how Glean went from 0 to $200M ARR. Here's the ... Reddit https://www.reddit.com > comments",
+    "url": "https://www.reddit.com/r/SaaS/comments/1sx2bza/i_studied_how_glean_went_from_0_to_200m_arr_heres/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Glean Founder Arvind Jain States: 'Over 90% of Enterprise ... Glean Founder Arvind Jain States: 'Over 90% of Enterprise ... note https://note.com > startup_now0708",
+    "url": "https://note.com/startup_now0708/n/ne53f80563b85?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "検索生成AI ：「 Glean 」グリーンについての詳細ーー ... - note 検索生成AI ：「 Glean 」グリーンについての詳細ーー ... - note note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/hiroshikinoshita/n/n32be989aaaf5",
+    "pass": 3
+   },
+   {
+    "quote": "Glean （グリーン）は、企業向けのAIプラットフォーム「Work ... Glean （グリーン）は、企業向けのAIプラットフォーム「Work ... note https://note.com > コンピュータ・IT > AI",
+    "url": "https://note.com/vueloo_blog/n/n2f3cee8c9283",
+    "pass": 3
+   },
+   {
+    "quote": "Glean : 社内の全SaaSを横断し、検索や分析を自動化、AI ... Glean : 社内の全SaaSを横断し、検索や分析を自動化、AI ... note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/gen_ai/n/n2bd1edc6923c",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Glean Founder Arvind Jain States: 'Over 90% of Enterprise Tasks Can Be Handled by Multiple Models'｜SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/ne53f80563b85?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Glean Founder Arvind Jain States: 'Over 90% of Enterprise Tasks Can Be Handled by Multiple Models'",
+    "url": "https://note.com/startup_now0708/n/ne53f80563b85?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/ne53f80563b85?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Arvind Jain, co-founder and CEO of enterprise AI company Glean, appeared on a podcast to speak candidly about his relationships with frontier model companies, the shift toward open source, the cost-effectiveness of AI investment, and his hiring strategy. He previously co-founded the enterprise storage company Rubrik, which has already gone public. When the host asked if he was the type of entrepre",
+    "url": "https://note.com/startup_now0708/n/ne53f80563b85?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "“I’m always worried about what could go wrong, and that’s why I can’t sleep at night.”",
+    "url": "https://note.com/startup_now0708/n/ne53f80563b85?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "He stated that he prefers the mindset that “only the paranoid survive,” and that this attitude has not changed since his success at Rubrik. He shared his perspective: “Every time you start a new company, it’s like starting from zero. Even if you have lessons from the past, this is a new world and a new environment.” In this article, we organize the content of this discussion by topic and explain i",
+    "url": "https://note.com/startup_now0708/n/ne53f80563b85?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. What is Glean? — From search to enterprise AI platform",
+    "url": "https://note.com/startup_now0708/n/ne53f80563b85?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1-1. Started as “Google for your work life”",
+    "url": "https://note.com/startup_now0708/n/ne53f80563b85?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "検索生成AI ：「Glean」グリーンについての詳細ーーGensparkの解説｜木下寛士",
+    "url": "https://note.com/hiroshikinoshita/n/n32be989aaaf5",
+    "pass": 3
+   },
+   {
+    "quote": "検索生成AI ：「Glean」グリーンについての詳細ーーGensparkの解説",
+    "url": "https://note.com/hiroshikinoshita/n/n32be989aaaf5",
+    "pass": 3
+   },
+   {
+    "quote": "Glean（グリーン）は、企業向けの生成AIを活用したSaaS型のエンタープライズ検索エンジンであり、主に企業内のナレッジやデータの効率的な活用を目的としています。このプラットフォームは、Microsoft 365、Google Workspace、Box、Salesforce、Slackなど、さまざまなSaaSアプリケーションから情報をまとめて検索できる機能を持っています。",
+    "url": "https://note.com/hiroshikinoshita/n/n32be989aaaf5",
+    "pass": 3
+   },
+   {
+    "quote": "Gleanの大きな特徴は横断検索機能で、社内のさまざまなデータソースを一元的に検索することが可能です。この機能により、従業員は複数のプラットフォームから瞬時に必要な情報を取得できます。",
+    "url": "https://note.com/hiroshikinoshita/n/n32be989aaaf5",
+    "pass": 3
+   },
+   {
+    "quote": "Gleanは、ChatGPTを基にしたAIアシスタント機能を提供しています。この機能により、ユーザーは質問を自然言語で入力すると、AIが適切な回答を生成します。従業員が必要な情報を簡単に引き出せることで、業務の効率化が図られます。",
+    "url": "https://note.com/hiroshikinoshita/n/n32be989aaaf5",
+    "pass": 3
+   },
+   {
+    "quote": "Gleanは、個々のユーザーの役割や過去の検索履歴を考慮したパーソナライズ機能を持ちます。これにより、同じ検索クエリでもユーザーによって異なる、より関連性の高い検索結果が表示されます。",
+    "url": "https://note.com/hiroshikinoshita/n/n32be989aaaf5",
+    "pass": 3
+   },
+   {
+    "quote": "Gleanの導入により、従業員は情報を探す時間を大幅に短縮でき、業務の生産性が向上します。多くの企業がGleanを導入した結果、労働時間の約1/3が情報検索に費やされている問題を解消する手助けとなります。",
+    "url": "https://note.com/hiroshikinoshita/n/n32be989aaaf5",
+    "pass": 3
+   },
+   {
+    "quote": "Gleanは、企業のセキュリティやガバナンスを考慮した設計がされています。ユーザーは自身の権限内でのみ情報にアクセスでき、セキュリティリスクを軽減します。",
+    "url": "https://note.com/hiroshikinoshita/n/n32be989aaaf5",
+    "pass": 3
+   },
+   {
+    "quote": "Glean（グリーン）は、企業向けのAIプラットフォーム「Work AI」を開発・提供するアメリカのテクノロジー企業 パロアルト🇺🇸｜MasaT. 武富 正人",
+    "url": "https://note.com/vueloo_blog/n/n2f3cee8c9283",
+    "pass": 3
+   },
+   {
+    "quote": "Glean（グリーン）は、企業向けのAIプラットフォーム「Work AI」を開発・提供するアメリカのテクノロジー企業 パロアルト🇺🇸",
+    "url": "https://note.com/vueloo_blog/n/n2f3cee8c9283",
+    "pass": 3
+   },
+   {
+    "quote": "Glean（グリーン）は、企業向けのAIプラットフォーム「Work AI」を開発・提供するアメリカのテクノロジー企業です。2019年に元Googleの検索エンジニアであるArvind Jain氏によってカリフォルニア州パロアルトで設立されました 。同社は、企業内の膨大な情報を統合し、AIを活用して業務効率を向上させるソリューションを提供しています。",
+    "url": "https://note.com/vueloo_blog/n/n2f3cee8c9283",
+    "pass": 3
+   },
+   {
+    "quote": "Axios+4Glean+4Wikipedia+4",
+    "url": "https://note.com/vueloo_blog/n/n2f3cee8c9283",
+    "pass": 3
+   },
+   {
+    "quote": "ChatGPTのような対話型AIアシスタントで、ユーザーの質問に対して企業内のデータを基にパーソナライズされた回答を提供します。",
+    "url": "https://note.com/vueloo_blog/n/n2f3cee8c9283",
+    "pass": 3
+   },
+   {
+    "quote": "自然言語処理とベクトル検索を活用し、Slack、Google Drive、Salesforceなど100以上のアプリケーションから情報を横断的に検索できます。",
+    "url": "https://note.com/vueloo_blog/n/n2f3cee8c9283",
+    "pass": 3
+   },
+   {
+    "quote": "ノーコードでカスタムAIエージェントを作成し、定型業務やワークフローの自動化を実現します。",
+    "url": "https://note.com/vueloo_blog/n/n2f3cee8c9283",
+    "pass": 3
+   },
+   {
+    "quote": "社内のナレッジを一元管理し、FAQやドキュメント、組織図などを整理して、情報共有を促進します。",
+    "url": "https://note.com/vueloo_blog/n/n2f3cee8c9283",
+    "pass": 3
+   },
+   {
+    "quote": "Glean: 社内の全SaaSを横断し、検索や分析を自動化、AIエージェントを構築・管理｜生成AI事例集",
+    "url": "https://note.com/gen_ai/n/n2bd1edc6923c",
+    "pass": 3
+   },
+   {
+    "quote": "Glean: 社内の全SaaSを横断し、検索や分析を自動化、AIエージェントを構築・管理",
+    "url": "https://note.com/gen_ai/n/n2bd1edc6923c",
+    "pass": 3
+   },
+   {
+    "quote": "Gleanは、2019年に元Googleの検索エンジニアやインフラストラクチャの専門家たちによって米国パロアルトで設立された、エンタープライズAIソフトウェア企業です。当初はAIを活用した企業内検索エンジンとしてスタートしましたが、現在では社内検索、AIアシスタント、AIエージェントの構築・オーケストレーション、開発者向けツールを網羅する包括的な「ワークAI」プラットフォームへと進化を遂げています。",
+    "url": "https://note.com/gen_ai/n/n2bd1edc6923c",
+    "pass": 3
+   },
+   {
+    "quote": "同社の提供価値の核心は、生成AIを企業環境で真に役立てるためには、インターネット上の一般的な知識に基づく汎用的なLLM（大規模言語モデル）の単独利用では不十分であるという洞察に基づいています。企業の固有のコンテキスト、従業員のアクセス権限、そして日々の業務ワークフローに深く根ざしたAIでなければ、実務における意思決定や作業の自動化には寄与しません。Gleanはこの課題に対し、企業の社内データと権限システムに安全に接続し、情報検索からタスク実行までを一気通貫で支援するエンタープライズ特化型のインフラを提供しています。",
+    "url": "https://note.com/gen_ai/n/n2bd1edc6923c",
+    "pass": 3
+   },
+   {
+    "quote": "「生成AI事例集」では、「勝ち馬」シリーズと称して、アメリカの成功している生成AIスタートアップを詳細に解説しています。週2記事のペースで記事を公開しています。毎週、1記事は無料記事、もう1記事は有料記事です。（本記事は有料記事です）",
+    "url": "https://note.com/gen_ai/n/n2bd1edc6923c",
+    "pass": 3
+   },
+   {
+    "quote": "毎月4本程度の有料記事が公開されるため、個別記事をご購入いただくよりも、メンバーシップの方がお得です。",
+    "url": "https://note.com/gen_ai/n/n2bd1edc6923c",
+    "pass": 3
+   },
+   {
+    "quote": "個人版メンバーシップでは記事のみ、法人版メンバーシップでは、記事・詳細解説スライド・企業リスト（スプレッドシート）をご利用いただけます。個人版と法人版の違いを含む、生成AI事例集の勝ち馬シリーズの詳細は、こちらをご覧ください。",
+    "url": "https://note.com/gen_ai/n/n2bd1edc6923c",
+    "pass": 3
+   },
+   {
+    "quote": "シリコンバレーを含めた世界中の生成AIスタートアップ（事例）500社以上を、50以上のカテゴリーに分類しながら、1社3分で理解できるように解説します。",
+    "url": "https://note.com/gen_ai/n/n2bd1edc6923c",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Glean - X Glean - X X https://x.com > glean",
+    "url": "https://x.com/glean",
+    "pass": 3
+   },
+   {
+    "quote": "One control plane beneath every AI front door - @ glean - X One control plane beneath every AI front door - @ glean - X X https://x.com > @glean",
+    "url": "https://x.com/glean/article/2074871179513663806",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Glean - LinkedIn Glean - LinkedIn LinkedIn https://www.linkedin.com > gleanwork",
+    "url": "https://www.linkedin.com/company/gleanwork",
+    "pass": 3
+   },
+   {
+    "quote": "Glean : Jobs - LinkedIn Glean : Jobs - LinkedIn LinkedIn https://www.linkedin.com > jobs",
+    "url": "https://www.linkedin.com/company/gleanwork/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Glean Online Training Courses | LinkedIn Learning, formerly ... Glean Online Training Courses | LinkedIn Learning, formerly ... LinkedIn https://www.linkedin.com > glean",
+    "url": "https://www.linkedin.com/learning/topics/glean",
+    "pass": 3
+   },
+   {
+    "quote": "Glean announces Enterprise Graph, personalized AI for work Glean announces Enterprise Graph, personalized AI for work LinkedIn https://www.linkedin.com > posts > emrecandogan_at-gle...",
+    "url": "https://www.linkedin.com/posts/emrecandogan_at-glean-weve-always-believed-that-building-activity-7376996017692614656-mG3m",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Glean Work (@GleanWork) - Facebook Glean Work (@GleanWork) - Facebook Facebook https://www.facebook.com > ... > Software Company",
+    "url": "https://www.facebook.com/GleanWork/",
+    "pass": 3
+   },
+   {
+    "quote": "glean (@gleanmusique) - Facebook glean (@gleanmusique) - Facebook Facebook https://www.facebook.com > ... > Musician/band",
+    "url": "https://www.facebook.com/gleanmusique/",
+    "pass": 3
+   },
+   {
+    "quote": "Can Claude work be moved to Glean ? - Facebook Can Claude work be moved to Glean ? - Facebook Facebook https://www.facebook.com > claudecommunity > posts",
+    "url": "https://www.facebook.com/groups/claudecommunity/posts/1036728632201135/",
+    "pass": 3
+   },
+   {
+    "quote": "Glean AI (@GleanAI) - Facebook Glean AI (@GleanAI) - Facebook Facebook https://www.facebook.com > ... > Financial service",
+    "url": "https://www.facebook.com/GleanAI/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.glean.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glean.com/solutions/industries/industrials/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glean.com/solutions/industries/retail",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glean.com/solutions/industries/industrials/consumer-goods",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glean.com/solutions/industries/industrials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glean.com/solutions/industries/industrials/energy-utilities",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glean.com/solutions/industries/industrials/supply-chain",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glean.com/solutions/industries/professional-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glean.com/solutions/industries/professional-services/consulting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glean.com/solutions/industries/professional-services/construction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glean.com/solutions/industries/professional-services/it-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glean.com/solutions/industries/financial-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glean.com/solutions/industries/financial-services/banking",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glean.com/solutions/industries/financial-services/private-equity-venture-capital",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glean.com/solutions/industries/financial-services/asset-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glean.com/solutions/industries/financial-services/insurance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glean.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glean.com/jp/solutions/industries/industrials/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glean.com/platform/enterprise-context",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glean.com/enterprise-search",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/6127a84dfe068e153ef20572/69cc3d228ee459fe487ae1cc_Whitepaper%20Manufacturing.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6127a84dfe068e153ef20572/69cc3d2265d8d91f78d7987c_Whitepaper%20Manufacturing%20Mob.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6127a84dfe068e153ef20572/69ceaf9e1fd47dff9c2e02f2_Manufacturing.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/613513981b0efaf850830620/69cff7de5d35a744a39e9739_How%20manufacturing%20companies.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.nttdata.com/jp/ja/lineup/glean/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hiroshikinoshita/n/n32be989aaaf5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ashisuto.co.jp/cm/glean-blog/enterprise-search/whychooseglean.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teldevice.co.jp/pro_info/2025/press_250918.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://netglean.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000179911.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata.com/jp/ja/lineup/glean/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glean.ai/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=y3oiofMGBlA",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.wwt.com/blog/factory-floor-efficiency-with-glean",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Glean_Technologies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sacra.com/c/glean/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/startup_now0708/n/ne53f80563b85?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hiroshikinoshita/n/n32be989aaaf5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/vueloo_blog/n/n2f3cee8c9283",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gen_ai/n/n2bd1edc6923c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/glean",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/glean/article/2074871179513663806",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/gleanwork",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/gleanwork/jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/learning/topics/glean",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/emrecandogan_at-glean-weve-always-believed-that-building-activity-7376996017692614656-mG3m",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/GleanWork/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/gleanmusique/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/claudecommunity/posts/1036728632201135/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/GleanAI/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/glean",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Glean 日本 導入",
+   "results": [
+    "https://www.glean.com/jp",
+    "https://www.nttdata.com/jp/ja/lineup/glean/",
+    "https://note.com/hiroshikinoshita/n/n32be989aaaf5",
+    "https://www.ashisuto.co.jp/cm/glean-blog/enterprise-search/whychooseglean.html",
+    "https://collab.sojitz-ti.com/blog/etc/in-company-search-its-necessity-and-value.html",
+    "https://www.glean.com/jp/partners",
+    "https://www.glean.com/jp/careers",
+    "https://www.youtube.com/watch?v=O6pDP8kSRoY",
+    "https://www.glean.com/jp/enterprise-search",
+    "https://www.konoike.net/news/detail/20260518130912.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Glean 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.glean.com/jp/about",
+    "https://www.glean.com/jp/careers",
+    "https://www.glean.com/jp/partners",
+    "https://www.teldevice.co.jp/pro_info/2025/press_250918.php",
+    "https://www.nttdata.com/jp/ja/lineup/glean/",
+    "https://ledge.ai/articles/ashisuto_glean",
+    "https://jp.linkedin.com/jobs/view/%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%97%E3%83%A9%E3%82%A4%E3%82%BA%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%A8%E3%82%B0%E3%82%BC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96-%E6%97%A5%E6%9C%AC-at-glean-3955133703",
+    "https://www.marubeni.com/jp/news/2026/group/00003.html",
+    "https://www.glean.com/jp",
+    "https://glean.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Glean Japan",
+   "results": [
+    "https://www.glean.com/",
+    "https://netglean.com/",
+    "https://prtimes.jp/main/html/rd/p/000000004.000179911.html",
+    "https://www.nttdata.com/jp/ja/lineup/glean/",
+    "https://jp.linkedin.com/jobs/view/%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%97%E3%83%A9%E3%82%A4%E3%82%BA%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%A8%E3%82%B0%E3%82%BC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96-%E6%97%A5%E6%9C%AC-at-glean-3955133703",
+    "https://www.ashisuto.co.jp/product/category/knowledge/glean/",
+    "https://ja.wikipedia.org/wiki/GAEA_JAPAN"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Glean manufacturing customer case study",
+   "results": [
+    "https://www.glean.com/resources/customer-stories",
+    "https://www.glean.ai/case-studies",
+    "https://www.youtube.com/watch?v=y3oiofMGBlA",
+    "https://www.wwt.com/blog/factory-floor-efficiency-with-glean",
+    "https://www.kleinerperkins.com/perspectives/glean/",
+    "https://getperspective.ai/blog/glean-ai-enterprise-search-conversational-customer-research-2026",
+    "https://growthmolecules.com/case-study-glean-growth-molecules/",
+    "https://research.contrary.com/company/glean",
+    "https://www.gainsight.com/press/glean-and-gainsight-partner-to-put-customer-context-to-work-for-revenue-teams/",
+    "https://www.glean.com/resources/customer-stories/motive"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Glean white label OR reseller OR partner program",
+   "results": [
+    "https://www.glean.com/press/glean-launches-global-partner-network-to-scale-its-growing-enterprise-ai-ecosystem",
+    "https://www.glean.com/blog/glean-partner-network",
+    "https://www.glean.com/partners",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://partners.glean.com/",
+    "https://www.glean.ai/partner",
+    "https://www.linkedin.com/posts/aiblmedia_glean-has-launched-the-glean-partner-network-activity-7498361143514800129-lAVw",
+    "https://www.vendasta.com/blog/white-label-software-partner-program/",
+    "https://elfsight.com/affiliate-program/articles-saas-white-label/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Glean founded funding employees revenue",
+   "results": [
+    "https://www.glean.com/press/glean-surpasses-200m-in-arr-for-enterprise-ai-doubling-revenue-in-nine-months",
+    "https://en.wikipedia.org/wiki/Glean_Technologies",
+    "https://sacra.com/c/glean/",
+    "https://www.glean.com/press/glean-achieves-100m-arr-in-three-years-delivering-true-ai-roi-to-the-enterprise",
+    "https://www.reddit.com/r/SaaS/comments/1sx2bza/i_studied_how_glean_went_from_0_to_200m_arr_heres/",
+    "https://getlatka.com/companies/glean.com",
+    "https://dealroom.co/news/130374-glean-crosses-300m-in-revenue-as-ai-cost-cutting-drives-demand/",
+    "https://tracxn.com/d/companies/glean/__0aO5V-wZsJgrfCZYNJm9ccNqZCpaXHw-O9LJTlZZYgQ",
+    "https://www.glean.com/press/glean-raises-150m-series-f-at-7-2b-valuation-to-accelerate-enterprise-ai-agent-innovation-globally",
+    "https://ai.lounge.ai/arr/glean"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Glean",
+   "results": [
+    "https://note.com/startup_now0708/n/ne53f80563b85?hl=en",
+    "https://note.com/hiroshikinoshita/n/n32be989aaaf5",
+    "https://note.com/vueloo_blog/n/n2f3cee8c9283",
+    "https://note.com/gen_ai/n/n2bd1edc6923c",
+    "https://note.com/ne_collabo_han/n/n3e6f1ac3b27b",
+    "https://note.com/kei_gaishi_it/n/n1a5b3ca2b722",
+    "https://note.com/startup_now0708/n/nb75ca1602087",
+    "https://note.com/ne_collabo_han/n/n148a0d757b1c",
+    "https://note.com/tag/Glean",
+    "https://note.com/mainichi_ai_new/n/n3f6df42b3e55?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:x.com Glean",
+   "results": [
+    "https://x.com/glean",
+    "https://x.com/glean/article/2074871179513663806",
+    "https://x.com/aakashgupta/status/2092592436250087631",
+    "https://x.com/jainarvind",
+    "https://x.com/wallstengine/status/2092593376994660858",
+    "https://x.com/glean/status/2092727575152066787",
+    "https://x.com/nakul/status/2097719157055955406",
+    "https://x.com/gokulr/status/2078496813586485266",
+    "https://x.com/glean/status/2049127230370881870",
+    "https://x.com/glean/status/2092583153286180944"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:linkedin.com Glean",
+   "results": [
+    "https://www.linkedin.com/company/gleanwork",
+    "https://www.linkedin.com/company/gleanwork/jobs",
+    "https://www.linkedin.com/learning/topics/glean",
+    "https://www.linkedin.com/posts/emrecandogan_at-glean-weve-always-believed-that-building-activity-7376996017692614656-mG3m",
+    "https://www.linkedin.com/products/glean-ai-gleanai/",
+    "https://www.linkedin.com/learning/learning-glean-ai-from-data-insights-to-ai-agents/meet-glean-your-workplace-ai-platform",
+    "https://www.linkedin.com/products/gleanwork-glean/",
+    "https://www.linkedin.com/learning/learning-glean-ai-from-data-insights-to-ai-agents/create-agent-from-scratch",
+    "https://www.linkedin.com/pulse/solutions-architect-view-what-glean-makes-possible-rob-barker-kzv5c",
+    "https://www.linkedin.com/company/glean-ai"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:facebook.com Glean",
+   "results": [
+    "https://www.facebook.com/GleanWork/",
+    "https://www.facebook.com/gleanmusique/",
+    "https://www.facebook.com/groups/claudecommunity/posts/1036728632201135/",
+    "https://www.facebook.com/GleanAI/",
+    "https://www.facebook.com/groups/assistive.technology.group/posts/7128776197177450/",
+    "https://www.facebook.com/liveglean/",
+    "https://www.facebook.com/GleanCoffee/",
+    "https://www.facebook.com/groups/lorcanatcg/posts/1010614147113619/",
+    "https://www.facebook.com/Gleanforgood/",
+    "https://www.facebook.com/GLEANBATHANDBODY/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Glean note 社長",
+   "results": [
+    "https://www.glean.com/",
+    "https://www.glean.com/jp/authors/arvind-jain",
+    "https://www.youtube.com/watch?v=5w1Is9TaC1c",
+    "https://www.ashisuto.co.jp/cm/glean-blog/event/knowledge-innovation-2024.html",
+    "https://note.com/vueloo_blog/n/n2f3cee8c9283",
+    "https://www.linkedin.com/posts/iconiq-capital-llc_arvind-jain-founder-and-ceo-of-glean-on-activity-7391882369621901312-fhTL",
+    "https://www.glean.com/about",
+    "https://www.goldmansachs.com/insights/talks-at-gs/arvind-jain",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Glean X 投稿",
+   "results": [
+    "https://x.com/glean",
+    "https://www.glean.com/",
+    "https://docs.glean.com/get-started/golive/launch-preparation",
+    "https://www.glean.com/resources/product-videos/microsoft-incident-post-mortem",
+    "https://www.youtube.com/watch?v=oxUmxINR5GM&vl=ja",
+    "https://docs.glean.com/tools/tools-overview",
+    "https://theaieconomy.substack.com/p/glean-context-layer-enterprise-ai",
+    "https://www.glean.com/resources/product-videos/working-ai-how-glean-brings-ai-to-work",
+    "https://www.ashisuto.co.jp/cm/glean-blog/enterprise-search/glean_work2.html",
+    "https://x.com/GLEAN_2023"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部28頁・検索12回）"
+ }
+}

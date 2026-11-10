@@ -1,0 +1,535 @@
+{
+ "name": "米沢工機株式会社",
+ "aliases": [],
+ "context": "PBF=yes 装置=松浦機械 出典=http://www.yonek.co.jp/case/Matsuura5axis-machining-palletchanger",
+ "researched_at": "2026-11-10T17:22:32.455352+00:00",
+ "official_url": "http://www.yonek.co.jp/",
+ "identified_by": "search:ddgs:google:米沢工機",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "創業",
+    "value": "創業：1954年1月5日",
+    "url": "https://www.yonek.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1957年12月27日",
+    "url": "https://www.yonek.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1954年1月",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1100007681/information/",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "7,000万円",
+    "url": "https://www.yonek.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "7,000万円",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1100007681/information/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "工作機械、生産設備システム、CAD/CAMシステムの販売・導入サポート・保守・運用支援・工作機械の輸出入・中古機械販売",
+    "url": "https://www.yonek.co.jp/company/outline.html",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本店所在地",
+    "value": "東京都世田谷区等々力１丁目３３番１６号",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1100007681/information/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "85人",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1100007681/information/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "工場内自動搬送の自動化が進む理由 - AGV・AMRの違いと導入検討のポイント -",
+    "url": "https://www.yonek.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "工場内自動搬送の自動化が進む理由 - AGV・AMRの違いと導入検討のポイント -",
+    "url": "https://www.yonek.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "を、実機デモや導入事例を交えながら分かりやすくご紹介します",
+    "url": "https://www.yonek.co.jp/news/event/yonezawa-jimtof2026",
+    "pass": 1
+   },
+   {
+    "quote": "そんな現場でも導入可能な次世代トレーサビリティ技術をご覧いただけます",
+    "url": "https://www.yonek.co.jp/news/event/yonezawa-jimtof2026",
+    "pass": 1
+   },
+   {
+    "quote": "工作機械、生産設備システム、CAD/CAMシステムの販売・導入サポート・保守・運用支援・工作機械の輸出入・中古機械販売",
+    "url": "https://www.yonek.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "（株）森精機製作所（現：DMG森精機（株））",
+    "url": "https://www.yonek.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "「自動化」松浦機械製作所製の5軸多面パレット加工機ソリューションで自動化、スタッフへの負荷軽減と働き方改革を実現！",
+    "url": "https://www.yonek.co.jp/dmain/service01.html",
+    "pass": 1
+   },
+   {
+    "quote": "原則として１つの法人・団体に対して１つ指定されますが、事業所別・支部別に固有の番号を保有するケースも存在します",
+    "url": "https://data-link-plus.com/jp/corporation/6010901012608",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "米沢工機株式会社 | ものづくりを支える革新カンパニー ｜マシニングセンタ・ワイヤ/形彫放電加工機・工具・治具・金型洗浄機・水管洗浄機・CADCAMCAECAT・測定機・研削盤・フライス、台湾、工作機械、輸出、輸入、メーカ代理店・アジア・中国・タイ・ベトナム、製造業を支える機械系総合商社",
+    "url": "https://www.yonek.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "日本工作機械販売協会、日本金型工業会",
+    "url": "https://www.yonek.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "「自動化」非切削時間・後工程の削減、小規模量産～量産を実現する部品加工特化型の 牧野フライス製作所製 5軸マシニングセンタ のご提案",
+    "url": "https://www.yonek.co.jp/dmain/service01.html",
+    "pass": 1
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "資本金7,000万円に増資",
+    "url": "https://www.yonek.co.jp/company/history.html",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "生産設備のご提案 | 事業案内 | 米沢工機株式会社 — 研削盤・工具研削盤 歯切り盤・歯車加工機 NCルーター 海外メーカー 射出成型機 射出成形機周辺機器 ダイカストマシン プレス機・板金機械 プレス機・板金機械周辺機器 アディティブマニュファクチャリング (金属3Dプリンター) 3Dプリンター",
+    "url": "https://www.yonek.co.jp/dmain/service01.html",
+    "pass": 3
+   },
+   {
+    "quote": "| 取扱商品 | 米沢工機株式会社 — 取扱商品 パートナー企業との連携で、きめ細やかなソリューションを実現。 米沢工機の強みである「情報力」と「提案力」は、国内外のトップメーカーとの強いパートナーシップから生まれます。",
+    "url": "https://www.yonek.co.jp/product/",
+    "pass": 3
+   },
+   {
+    "quote": "米沢工機のカタログ一覧 | イプロスものづくり — Jan 15, 2020 · 無料でダウンロードできます。 米沢工機は、すべてのものづくりのために最高品質のトータルソリューションを米沢工機株式会社は、創業以来、製造業、ことに金型の分野においては、システム商社として高い評価と信頼をいただいてまいりました。",
+    "url": "https://mono.ipros.com/company/detail/2055670/catalog/",
+    "pass": 3
+   },
+   {
+    "quote": "米沢工機株式会社 | ものづくりを支える革新カンパニー ｜マシニング... — 機械設備を導入したい 測定機・試験機・検査機を導入したい ソフトウェアを導入したい 修理、メンテナンスをしたい 工場を移設したい 海外に進出したい 治具・工具 (一般・特殊)がほしい 既存機械を売りたい 生産性を向上させたい AI・自動化・省人化を ...",
+    "url": "http://www.yonek.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 会社案内 | 米沢工機株式会社 — 米沢工機株式会社 創業 1954年1月5日 設立 1957年12月27日 代表者 代表取締役社長 青木俊一 トップメッセージ 資本金 7,000万円 事業内容 工作機械、生産設備システム、CAD/CAMシステムの販売・導入サポート・保守・運用支援・工作機械の輸出入・中古機械販売 ...",
+    "url": "http://www.yonek.co.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "米沢工機株式会社（東京都）の会社概要・役員 | Compalyze — Jul 27, 2026 · 米沢工機株式会社は、1957年の設立以来、「ものづくりを支える革新カンパニー」として、製造業の顧客に対し、工作機械、生産設備システム、CAD/CAMシステムの販売、導入サポート、保守、運用支援、工作機械の輸出入、中古機械販売といった多岐にわたる ...",
+    "url": "https://compalyze.co.jp/company/6010901012608",
+    "pass": 3
+   },
+   {
+    "quote": "米沢工機株式会社（東京都世田谷区） 概要 - 企業情報 — Oct 5, 2015 · 概要 米沢工機株式会社 （ヨネザワコウキ）は東京都世田谷区にある企業です。 法人番号は6010901012608、住所は東京都世田谷区等々力1丁目33番16号です。 業種（大分類）は「卸売業、小売業」に分類されます。",
+    "url": "https://data-link-plus.com/jp/corporation/6010901012608",
+    "pass": 3
+   },
+   {
+    "quote": "米沢工機株式会社の会社概要とプレスリリース — 米沢工機株式会社が設立登記され、法人番号が指定されました。 ※2015/10/05より前に設立された法人の法人番号は、一律で2015/10/05に指定されています。",
+    "url": "https://companydata.tsujigawa.com/company2/6010901012608/",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 | 米沢工機株式会社 — 既存機械を売りたい 生産性を向上させたい AI・自動化・省人化を実現したい 事例紹介 取扱商品 会社案内 企業理念 トップメッセージ 会社概要 拠点・アクセス 沿革 ニュース 設備とアイディアでものづくりをもっと快適に © YONEZAWA KOKI CO.,LTD. All Rights Reserved.",
+    "url": "http://www.yonek.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "米沢工機の企業概要・売上・業績など｜Yahoo!しごとカタログ — 米沢工機の会社概要や売上・業績などを詳細に掲載。 他にも評判・クチコミ・年収・求人・売上などの情報も。 しごとカタログでは様々な角度で企業の評判を知ることができます。",
+    "url": "https://jobcatalog.yahoo.co.jp/company/1100007681/information/",
+    "pass": 3
+   },
+   {
+    "quote": "米沢工機について｜米沢工機 採用サイト — 信頼と実績 米沢工機はものづくりのお客さま企業を支える生産設備の専門商社です。 大手自動車、家電メーカーから中小規模の企業まで、約6,000社以上の取引実績があります。 設立から70年続いた歴史は、取引先様と共に築いた信頼の証です。",
+    "url": "https://www.yonek.co.jp/recruit/aboutus/",
+    "pass": 3
+   },
+   {
+    "quote": "米沢工機株式会社の転職・企業概要 − 転職ならdoda（デューダ） — 米沢工機株式会社の公開中の求人（9件）や従業員・年収・事業内容・業績・業種・所在地の情報などを掲載。 dodaの企業情報ページでは上場企業や、大手から中小企業まで476,445社の企業情報が無料で検索・閲覧できます。",
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__00001207215/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Yasuhiko Muta - 米沢工機株式会社の常務取締役 | LinkedIn 米沢工機株式会社の常務取締役 · 職歴: 米沢工機株式会社 · 場所: 1570071。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInでYasuhiko Mutaさんのプロフィールを閲覧しましょう。",
+    "url": "https://jp.linkedin.com/in/yasuhiko-muta-774b033ab",
+    "pass": 3
+   },
+   {
+    "quote": "Shintaro Konno - 米沢工機株式会社 - 営業担当者 | LinkedIn 米沢工機株式会社 - 営業担当者 · 職歴: 米沢工機株式会社 · 場所: 宇都宮都市部 · LinkedInのつながり2人。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInでShintaro Konnoさんのプロフィールを閲覧しましょう。",
+    "url": "https://jp.linkedin.com/in/shintaro-konno-078260370",
+    "pass": 3
+   },
+   {
+    "quote": "三須 崇史 - -- | LinkedIn東京でdoda (デューダ)が希望勤務地考慮 工作機械専門商社のサービス...東京で米沢工機株式会社が夜勤専従OKの介護福祉士/ヘルパー求人を募集... -- · 職歴: 米沢工機株式会社 · 学歴: 慶應義塾大学 · 場所: 日本 · LinkedInのつながり8人。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで三須 崇史さんのプロフィールを閲覧しましょう。 May 28, 2026 · この求人を報告する 【企業名】 米沢工機株式会社 【職種名】 希望勤務地考慮 工作機械専門商社のサービスエンジニア 取引先は大手企業をはじめ海外にも展開／土日祝休 【仕事内容 (概要)】 May 12, 2026 · アピールポイント: 介護と住まい生活支援センター米沢は、令和6年 5月にオープンした住宅型有料老人ホームです。",
+    "url": "https://jp.linkedin.com/in/崇史-三須-b9176594",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "米沢工機株式会社 - Facebook 米沢工機株式会社",
+    "url": "https://www.facebook.com/米沢工機株式会社-281200411916363/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.yonek.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yonek.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yonek.co.jp/news/event/yonezawa-jimtof2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yonek.co.jp/news/topics/1746/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yonek.co.jp/news/topics/1722/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yonek.co.jp/news/topics/1712/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yonek.co.jp/news/topics/1573/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yonek.co.jp/news/topics/1562/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yonek.co.jp/news/event/1734/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yonek.co.jp/company/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yonek.co.jp/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yonek.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yonek.co.jp/dmain/service01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yonek.co.jp/news/topics/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2510/23/news028.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mitsu-ri.net/articles/metal-laminated-modeling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2055670/catalog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/6010901012608",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://data-link-plus.com/jp/corporation/6010901012608",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jobcatalog.yahoo.co.jp/company/1100007681/information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/yasuhiko-muta-774b033ab",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/shintaro-konno-078260370",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/崇史-三須-b9176594",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/米沢工機株式会社-281200411916363/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "米沢工機",
+   "results": [
+    "https://ja.wikipedia.org/wiki/米沢工業高等学校",
+    "http://www.yonek.co.jp/",
+    "http://www.yonek.co.jp/company/",
+    "http://yonek-asean.com/company/access.html",
+    "https://www.smri.asia/jp/yonezawa/products",
+    "https://yonek-asean.com/",
+    "https://www.atengineer.com/pr/yonek/company",
+    "https://www.smri.asia/jp/yonezawa/products/category"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "米沢工機 会社概要 資本金 設立",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "米沢工機 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.yonek.co.jp/dmain/service01.html",
+    "https://monoist.itmedia.co.jp/mn/articles/2510/23/news028.html",
+    "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "https://deskmin.net/2026/08/14/金属3dプリンター、2026年は量産の常識が変わる/",
+    "https://3d-modely.com/blog/3d-printer/3d-printer-metal/",
+    "https://www.yonek.co.jp/",
+    "https://www.manufacturing-world.jp/hub/ja-jp/blog/article11.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "米沢工機 金属積層造形 設備",
+   "results": [
+    "https://www.yonek.co.jp/product/",
+    "https://mitsu-ri.net/articles/metal-laminated-modeling",
+    "https://mono.ipros.com/company/detail/2055670/catalog/",
+    "http://www.yonek.co.jp/",
+    "https://www.mazak.com/jp-ja/products/am/",
+    "https://www.jtekt.co.jp/engineering-journal/1022/1022-02.html",
+    "https://mono.ipros.com/cg2/積層造形機/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "米沢工機 株主 出資 親会社",
+   "results": [
+    "http://www.yonek.co.jp/company/outline.html",
+    "https://compalyze.co.jp/company/6010901012608",
+    "https://data-link-plus.com/jp/corporation/6010901012608",
+    "https://companydata.tsujigawa.com/company2/6010901012608/",
+    "http://www.yonek.co.jp/company/",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6010901012608",
+    "https://nikkeimatome.com/?p=81809"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "米沢工機 売上高 従業員数",
+   "results": [
+    "http://www.yonek.co.jp/company/outline.html",
+    "https://jobcatalog.yahoo.co.jp/company/1100007681/information/",
+    "https://www.yonek.co.jp/recruit/aboutus/",
+    "https://compalyze.co.jp/company/6010901012608",
+    "https://doda.jp/DodaFront/View/Company/j_id__00001207215/",
+    "https://kaisharesearch.com/company/detail/6010901012608/",
+    "https://kando-fukushima.jp/companies/1242/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 米沢工機",
+   "results": [
+    "https://note.com/clipcorporation/n/n358d3fc87aa3",
+    "https://note.com/denso_yamagata/n/n46c84981e141",
+    "https://note.com/denso_yamagata/n/n84ce795132c6",
+    "https://note.com/robotakun/n/n1470da0591fa",
+    "https://note.com/nh20/n/n13887cd06753",
+    "https://note.com/denso_yamagata/n/n661c8cb3a00c",
+    "https://note.com/denso_yamagata/n/nf28d99ab138c"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 米沢工機",
+   "results": [
+    "https://x.com/twi_yonezawa",
+    "https://x.com/yonezawaskipark",
+    "https://x.com/koukikenkou",
+    "https://x.com/yonezawakankou",
+    "https://x.com/Marlayna29/status/2115433590150606880",
+    "https://x.com/ShminLo",
+    "https://x.com/chillestwoman/status/2116669325868400644"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 米沢工機",
+   "results": [
+    "https://jp.linkedin.com/in/yasuhiko-muta-774b033ab",
+    "https://jp.linkedin.com/in/shintaro-konno-078260370",
+    "https://www.linkedin.com/pub/dir/Yasuhiko/Muta",
+    "https://jp.linkedin.com/in/崇史-三須-b9176594",
+    "https://www.linkedin.com/jobs/view/【新規開設】介護福祉士-ヘルパー-at-米沢工機株式会社-4161365926",
+    "https://jp.linkedin.com/jobs/view/夜勤専従okの介護福祉士-ヘルパー求人-at-米沢工機株式会社-4413191764",
+    "https://jp.linkedin.com/jobs/view/希望勤務地考慮◆工作機械専門商社のサービスエンジニア◆取引先は大手企業をはじめ海外にも展開／土日祝休-at-doda-デューダ-4420257206?position=39&pageNum=0"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 米沢工機",
+   "results": [
+    "https://www.facebook.com/米沢工機株式会社-281200411916363/",
+    "https://www.facebook.com/\u0000jperes88/",
+    "https://www.facebook.com/p/米沢市電子機器機械工業振興協議会-100072284480929/",
+    "https://www.facebook.com/yzkgkai.kansai/",
+    "https://www.facebook.com/samuraiasia/posts/以前タイに駐在していた-あの人-の現在を追跡するコーナーあの人は今第６回では米沢工機株式会社の瓜田様にタイ駐在時を振り返っていただきましたhttpswwwsmr/801061227007666/",
+    "https://www.facebook.com/samuraiasia/posts/工作機械からソフトウェアまでタイのものづくりを支える米沢工機タイランド様なぜタイでシーセットの３dビューアなのかについて前編と後編に分けてお届けしていおりますな/810249526088836/",
+    "https://www.facebook.com/permalink.php/?story_fbid=180697124340539&id=108889548187964"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "米沢工機 note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "米沢工機 X 投稿",
+   "results": [
+    "http://www.yonek.co.jp/",
+    "https://en-hyouban.com/company/10105825816/",
+    "http://www.yonek.co.jp/news/",
+    "https://www.youtube.com/@米沢工機株式会社公式",
+    "https://x.com/zawa_dojin/status/2119084139773317580",
+    "https://x.com/yonezawa_coc/status/2099769394012549457",
+    "https://search.yahoo.co.jp/realtime/search/米沢/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部11頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部11頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部11頁・検索12回）",
+  "使っている金属粉（材質）": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部11頁・検索12回）"
+ }
+}

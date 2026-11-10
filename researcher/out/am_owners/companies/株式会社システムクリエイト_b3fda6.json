@@ -1,0 +1,838 @@
+{
+ "name": "株式会社システムクリエイト",
+ "aliases": [],
+ "context": "PBF=yes 装置=Xact Metal 出典=https://www.value-press.com/pressrelease/376870",
+ "researched_at": "2026-11-10T17:25:49.586656+00:00",
+ "official_url": "https://systemcreate-inc.co.jp/",
+ "identified_by": "search:ddgs:google:システムクリエイト",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1992年6月",
+    "url": "https://systemcreate-inc.co.jp/outline",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "大阪本社",
+    "value": "〒577-0022 大阪府東大阪市荒本新町1-20 Tel:06-6618-8555　Fax:06-6618-8566",
+    "url": "https://systemcreate-inc.co.jp/outline",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "3Dデジタルツール導入支援・販売・サポート ・ソフトウェア （CAD/CAM・IoTツール・解析） ・3Dプリンタ ・3Dスキャナ ・工作機械 （マシニングセンタ・NC旋盤・レーザ加工機・その他） ・3D技術代行サービス",
+    "url": "https://systemcreate-inc.co.jp/outline",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "3Dデジタルツール導入支援・販売・サポート",
+    "url": "https://systemcreate-inc.co.jp/outline",
+    "pass": 1
+   },
+   {
+    "quote": "導入しやすい価格の工業用光造形（SLA）と粉末焼結（SLS）方式プリンタをラインアップ",
+    "url": "https://systemcreate-inc.co.jp/products__category/3dprinter",
+    "pass": 1
+   },
+   {
+    "quote": "高品質の金属造形を、最良の価格で体験できるようにしたいという願いから、金属3Dプリンタを開発",
+    "url": "https://systemcreate-inc.co.jp/products__category/3dprinter",
+    "pass": 1
+   },
+   {
+    "quote": "独自のレーザ技術と革新的な造形システムの採用により、導入コストを大きく削減した⼩型の⾦属3Dプリンタを開発",
+    "url": "https://systemcreate-inc.co.jp/products__category/3dprinter",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタ「AVIMETAL MT-Series」は、高出力500Wレーザーと独自の技術で高速・高品質造形を両立しハイコストパフォーマンスを実現",
+    "url": "https://systemcreate-inc.co.jp/products__category/3dprinter",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタ",
+    "url": "https://systemcreate-inc.co.jp/products__category/3dprinter",
+    "pass": 1
+   },
+   {
+    "quote": "ベースとなる切削機能に加え、自動工具交換（ATC）や各種集塵システムなど、用途や設置環境に合わせたオプション構成を自由に選択して導入いただけます",
+    "url": "https://systemcreate-inc.co.jp/news/marusugo_millkey5040_clean",
+    "pass": 1
+   },
+   {
+    "quote": "ミーリング加工や複合加工など他にも様々な加工に対応しており、必要な機能だけを選んで導入できるため、コストを抑えて運用できます",
+    "url": "https://systemcreate-inc.co.jp/news/marusugo_millkey5040_clean",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタ「Avimetal MTシリーズ」で中空形状のサンプルモデルを実際に造形し、かかる費用を算出してみました",
+    "url": "https://systemcreate-inc.co.jp/news/mitarepo152_dual_d600",
+    "pass": 1
+   },
+   {
+    "quote": "2004年04月 新人事制度導入",
+    "url": "https://www.systemcreate.co.jp/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "2008年04月 ITSS準拠の技術研修体系(SCSS)を導入",
+    "url": "https://www.systemcreate.co.jp/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタ 「AVIMETAL MTシリーズ」 国内販売の準備を開始！ - 株式会社システムクリエイトのプレスリリース",
+    "url": "https://www.value-press.com/pressrelease/364506",
+    "pass": 3
+   },
+   {
+    "quote": "～ 高速/高品質/低価格を追求した金属3Dプリンタ ～",
+    "url": "https://www.value-press.com/pressrelease/364506",
+    "pass": 3
+   },
+   {
+    "quote": "低コストでありながら高速/高効率造形を追求した同社製の金属3Dプリンタ「MTシリーズ」の国内販売の準備を開始しました",
+    "url": "https://www.value-press.com/pressrelease/364506",
+    "pass": 3
+   },
+   {
+    "quote": "社内展示機を導入し、メンテナンス・サポート体制を整え、2025年11月の販売開始を予定しています",
+    "url": "https://www.value-press.com/pressrelease/364506",
+    "pass": 3
+   },
+   {
+    "quote": "・低い導入コスト、低ランニングコストを実現",
+    "url": "https://www.value-press.com/pressrelease/364506",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、EOSの元CTOであるトビアス・アベルン博士を迎え、さらなる高品質・高速・高効率化にむけた研究開発が進められている",
+    "url": "https://www.value-press.com/pressrelease/364506",
+    "pass": 3
+   },
+   {
+    "quote": "AVIMETAL 金属3Dプリンタ MTシリーズ の お問合せは、下記までお願い致します",
+    "url": "https://www.value-press.com/pressrelease/364506",
+    "pass": 3
+   },
+   {
+    "quote": "#金属3Dプリンタ",
+    "url": "https://www.value-press.com/pressrelease/364506",
+    "pass": 3
+   },
+   {
+    "quote": "大型の光造形機・金属3Dプリンタによる造形はお任せください！",
+    "url": "https://mono.ipros.com/product/detail/2001557884/",
+    "pass": 3
+   },
+   {
+    "quote": "●金属3Dプリンタ",
+    "url": "https://mono.ipros.com/product/detail/2001557884/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタ『XactMetal』",
+    "url": "https://mono.ipros.com/product/detail/2001557884/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社の強みである技術サポートで、操作のサポートやトラブル対応、メンテナンスなど導入後のユーザー様のお悩みも窓口一つで解決致します",
+    "url": "https://mono.ipros.com/product/detail/2001557884/",
+    "pass": 3
+   },
+   {
+    "quote": "各種実機を設置しているため、デモや見学を通して運用イメージを明確にして導入いただけます",
+    "url": "https://mono.ipros.com/product/detail/2001557884/",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "導入しやすい価格の工業用光造形（SLA）と粉末焼結（SLS）方式プリンタをラインアップ",
+    "url": "https://systemcreate-inc.co.jp/products__category/3dprinter",
+    "pass": 1
+   },
+   {
+    "quote": "コンパクト5軸加工機「MX220」による切削アルミ型と卓上射出成形機「Moiron M2-I」による卓上射出成形の拡張",
+    "url": "https://systemcreate-inc.co.jp/news/2026_10osaka",
+    "pass": 1
+   },
+   {
+    "quote": "・粉末焼結3Dプリンタ",
+    "url": "https://systemcreate-inc.co.jp/news/2026_10osaka",
+    "pass": 1
+   },
+   {
+    "quote": "・100種に及ぶ多様な金属粉末材料に対応",
+    "url": "https://www.value-press.com/pressrelease/364506",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング用金属粉末の製造、および、3D金属造形サービスビューロとして2015年に設立された企業で、現在では中国最大級のチタン合金製造メーカーに成長",
+    "url": "https://www.value-press.com/pressrelease/364506",
+    "pass": 3
+   },
+   {
+    "quote": "VIGA、EIGA、PREPなど異なる粉末製造プロセス設備を自社開発、及び、販売も行っており、これまで200種以上の3D金属プリンティング用材料を開発/製造販売している",
+    "url": "https://www.value-press.com/pressrelease/364506",
+    "pass": 3
+   },
+   {
+    "quote": "・ステンレス(SUS-316L)",
+    "url": "https://mono.ipros.com/product/detail/2001557884/",
+    "pass": 3
+   },
+   {
+    "quote": "・アルミ(Alsi 10mg)※Φ100mm×h100mmまで",
+    "url": "https://mono.ipros.com/product/detail/2001557884/",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "試作から小ロット生産までを圧倒的なスピードと低コストで実現し、製造現場の課題へ迅速に対応します",
+    "url": "https://systemcreate-inc.co.jp/news/marusugo_d400hs_ableprinting",
+    "pass": 1
+   },
+   {
+    "quote": "試作から小ロット生産までを圧倒的なスピードと低コストで実現し、製造現場の課題へ迅速に対応します",
+    "url": "https://systemcreate-inc.co.jp/news/marusugo_millkey5040_clean",
+    "pass": 1
+   },
+   {
+    "quote": "型を使用せずシリコーン製品の試作ができ、柔軟性のある部品や複雑な形状の造形にも対応します",
+    "url": "https://systemcreate-inc.co.jp/news/mitarepo152_dual_d600",
+    "pass": 1
+   },
+   {
+    "quote": "試作から成形まで、アナログ資産のデジタル化から造形までを支える、4つの組み合わせソリューションを中心にご紹介します",
+    "url": "https://systemcreate-inc.co.jp/news/2026_10osaka",
+    "pass": 1
+   },
+   {
+    "quote": "卓上サイズ機の組み合わせで試作から成形までを省スペースで完結させます",
+    "url": "https://systemcreate-inc.co.jp/news/2026_10osaka",
+    "pass": 1
+   },
+   {
+    "quote": "Form 4Lで高品質な型を作成することによって、小ロット生産や試作工程を効率化できます",
+    "url": "https://systemcreate-inc.co.jp/news/2026_10osaka",
+    "pass": 1
+   },
+   {
+    "quote": "1975年11月 貨物自動車運送事業免許を取得 /",
+    "url": "https://www.systemcreate.co.jp/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年に自社開発の3D金属プリンタを開発し、材料の製造から装置の販売、受託造形と一貫したサービスを展開している",
+    "url": "https://www.value-press.com/pressrelease/364506",
+    "pass": 3
+   },
+   {
+    "quote": "小型の金属製品や自動車向け外装パーツ、雑貨に至るまで様々な用途の製品の造形でご活用いただいております",
+    "url": "https://mono.ipros.com/product/detail/2001557884/",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "資本金 / 4500万円",
+    "url": "https://www.systemcreate.co.jp/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "2001年05月 資本金を3000万に増資 /",
+    "url": "https://www.systemcreate.co.jp/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "2009年06月 資本金を4500万に増資",
+    "url": "https://www.systemcreate.co.jp/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金 3,000万円",
+    "url": "https://www.sysc.co.jp/info.html",
+    "pass": 3
+   },
+   {
+    "quote": "1981年 資本金200万円で豊橋に設立",
+    "url": "https://www.sysc.co.jp/info.html",
+    "pass": 3
+   },
+   {
+    "quote": "1983年 資本金500万円に増資",
+    "url": "https://www.sysc.co.jp/info.html",
+    "pass": 3
+   },
+   {
+    "quote": "1987年 資本金2,000万円に増資",
+    "url": "https://www.sysc.co.jp/info.html",
+    "pass": 3
+   },
+   {
+    "quote": "1992年 資本金3,000万円に増資",
+    "url": "https://www.sysc.co.jp/info.html",
+    "pass": 3
+   },
+   {
+    "quote": "・第５１期定時株主総会を開催しました",
+    "url": "https://www.systemcreate.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "・第５０期定時株主総会を開催しました",
+    "url": "https://www.systemcreate.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "・第４９期定時株主総会を開催しました",
+    "url": "https://www.systemcreate.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "・第４８期定時株主総会を開催しました",
+    "url": "https://www.systemcreate.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "・第４７期定時株主総会を開催しました",
+    "url": "https://www.systemcreate.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "・第４６期定時株主総会を開催しました",
+    "url": "https://www.systemcreate.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "・第４５期定時株主総会を開催しました",
+    "url": "https://www.systemcreate.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "・第４４期定時株主総会を開催しました",
+    "url": "https://www.systemcreate.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株主還元・財務面：配当修正や自己株式取得ではなく、資本業務提携に伴う株式取得です",
+    "url": "https://note.com/s_h7821/n/n76f0cd5a5cdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 – システムクリエイト株式会社 — 会社概要 会社概要 社名 / システムクリエイト株式会社 創立 / 1974年9月9日 資本金 / 4500万円 社員数 / 228名 (2026年4月現在 男：203名 女：25名) 本社事業所 / 東京都台東区雷門2丁目20番3号アクアテルースUⅡ7F(アクセス) TEL / 03-3843-6291 (代） FAX / 03-3843-6289 役員構成",
+    "url": "https://www.systemcreate.co.jp/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 会社概要/沿革 - 株式会社システムクリエイト ホームページ会社情報 – システムクリエイト株式会社システムクリエイト/会社概要会社概要/沿革 - システムクリエイト 採用サイト株式会社システム・クリエイト 会社概要会社概要 | 株式会社システムクリエイト — 取り扱い製品の販売開始時期など、システムクリエイトの成り立ちや歴史を記載しております。 所在地 〒111-0034 東京都台東区雷門2丁目20番3号アクアテルースUⅡ7F 交通機関 都営浅草線「浅草駅」A3番出口、 東京メトロ銀座線「浅草駅」4番出口より徒歩1分 電話番号 03-3843-6291 メールアドレス soumu@systemcreate.co.jp 社名 株式会社システムクリエイト 代表者 代表取締役 稲垣孝一 (Inagaki Koichi) 本社所在地 〒440-0886 愛知県豊橋市東小田原町28番地 ",
+    "url": "https://systemcreate-inc.co.jp/outline",
+    "pass": 3
+   },
+   {
+    "quote": "システムクリエイト/会社概要 — 社名 株式会社システムクリエイト 代表者 代表取締役 稲垣孝一 (Inagaki Koichi) 本社所在地 〒440-0886 愛知県豊橋市東小田原町28番地 アクセスは こちら TEL.0532-53-2987 FAX.0532-52-7453 資本金 3,000万円 設立 1981年12月2日 (昭和56年)",
+    "url": "https://www.sysc.co.jp/info.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要/沿革 - システムクリエイト 採用サイト — 01 COMPANY PROFILE 会社概要 設立 1992年6月 代表 川上 正義 資本金 1000万 大阪本社 〒577-0022 大阪府東大阪市荒本新町1-20 Tel:06-6618-8555 Fax:06-6618-8566 技術センター 〒577-0022 大阪府東大阪市荒本新町3-5 研修センター 〒577-0022 大阪府東大阪市荒本新町3-30",
+    "url": "https://systemcreate-inc.co.jp/recruit/company_profile/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタ関連 - 株式会社システムクリエイト ホームページ — システムクリエイトの3Dプリンタ関連製品とサービスについて詳しく紹介しています。",
+    "url": "https://systemcreate-inc.co.jp/products__category/3dprinter",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社システムクリエイト ホームページ — 6 days ago · システムクリエイトは、3Dプリンタや工作機械をはじめとする3Dデジタルツールのソリューションパートナーです。 少人数で高付加価値なモノづくりを可能にする「Small Fab (スモールファブ)」で、人手不足や開発加速といった課題にアプローチ。",
+    "url": "https://systemcreate-inc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタ 「AVIMETAL MTシリーズ」 国内販売の準備を開始！ - ... — Oct 30, 2025 · 株式会社システムクリエイトのプレスリリース（2025年10月30日 10時）。～ 高速/高品質/低価格を追求した金属3Dプリンタ ～",
+    "url": "https://www.value-press.com/pressrelease/364506",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタ AVIMETAL MT-Series システムクリエイト | イプロスも... — Jul 14, 2026 · システムクリエイトの金属3Dプリンタ AVIMETAL MT-Seriesの技術や価格情報などをご紹介。圧倒的コストパフォーマンス 金属3Dプリンタ AVIMETAL MT-Seriesイプロスものづくりでは その他工作機械など製造業向けの情報を多数掲載。応相談応相談`",
+    "url": "https://mono.ipros.com/product/detail/2001558980/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタ AVIMETAL MT-Series | システムクリエイト - Powered ... — システムクリエイト の金属3Dプリンタ AVIMETAL MT-Series の技術や価格情報などをご紹介。圧倒的コストパフォーマンス 金属3Dプリンタ AVIMETAL MT-Series 応相談 応相談。",
+    "url": "https://pr.mono.ipros.com/systemcreate-inc/product/detail/2001558980/",
+    "pass": 3
+   },
+   {
+    "quote": "大型光造形・金属3Dプリント受託・委託サービス システムクリエイト |... — Apr 3, 2026 · システムクリエイトの大型光造形・金属3Dプリント受託・委託サービスの技術や価格情報などをご紹介。 大型の光造形機・金属3Dプリンタによる造形はお任せください！ イプロスものづくりでは その他高分子材料など製造業向けの情報を多数掲載。",
+    "url": "https://mono.ipros.com/product/detail/2001557884/",
+    "pass": 3
+   },
+   {
+    "quote": "みたれぽ [59]金属を組み合わせて一体造形してみた！ システムクリエ... — システムクリエイトが取り扱う幅広い製品ジャンルから、毎回ちょっとしたお役立ち情報をお届けします。 Vol.59では「2CREATE」で異なる金属を組み合わせてモデルを造形してみました。 小型金属プリンタは取回しが良く、材料交換しやすいのが良いところ。",
+    "url": "https://mono.ipros.com/product/detail/2000816702/",
+    "pass": 3
+   },
+   {
+    "quote": "システムクリエイト株式会社 – システムクリエイト株式会社コーポレー... — システムクリエイトは、 50年を超える歳月を歩き続けてきました。 磨き続けた 「システム開発技術」「インフラ構築技術」「システム運用管理技術」で、 システムの設計・開発から 運用・保守管理まで、 【ワンストップ】でお受けできる体制を整えています。 安全性・信頼性・効率性を追求 ...",
+    "url": "https://www.systemcreate.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 会社概要/沿革 - 株式会社システムクリエイト ホームページソフトクリエイトホールディングス（ソフトクリエ）【3371】の大株主...株式会社システムクリエイトの決算公告・財務情報 | 開示ワイヤー株式会社システムクリエイト - 生産管理システムソフトの開発及び販売... — 取り扱い製品の販売開始時期など、システムクリエイトの成り立ちや歴史を記載しております。 Nov 2, 2026 · ソフトクリエイトホールディングス（ソフトクリエ）【3371】の最新大株主上位10件と自己株口を掲載。2026年03月31日現在、ソフトクリエイト ... 株式会社システムクリエイトについて、次の2点を中心に日本語でまとめてください。 ・下記のデータに含まれない最近の動向 ・下記のデータを読むうえでの注意点 データそのものの再掲は不要です。 不明な点は推測せず、不明と書いてください。 株式会社シ",
+    "url": "https://systemcreate-inc.co.jp/outline",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社システムクリエイトの決算公告・財務情報 | 開示ワイヤー — 株式会社システムクリエイトについて、次の2点を中心に日本語でまとめてください。 ・下記のデータに含まれない最近の動向 ・下記のデータを読むうえでの注意点 データそのものの再掲は不要です。 不明な点は推測せず、不明と書いてください。",
+    "url": "https://kaijiwire.jp/companies/7050001007990",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社システムクリエイト - 生産管理システムソフトの開発及び販売... — 株式会社システムクリエイトでは、生産管理システムにより、製造工場において「原価管理」「在庫管理」「工程進捗管理」「受注・発注管理」「出荷管理」等、業務の効率化を、神奈川県から関東を中心に支援しています。",
+    "url": "http://www.systemc.co.jp/company/index.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【開示メモ】キューブシステムの資本業務提携を読む：確認したい論点... Jun 2, 2026 · 参考開示 会社名：株式会社キューブシステム 銘柄コード：2335 開示日：2026年6月2日 開示タイトル：株式会社システムクリエイトとの資本業務提携に関するお知らせ 会社ニュースリリース：キューブシステムとシステムクリエイトが資本業務提携契約を締結。 (CubeHP Contents)",
+    "url": "https://note.com/s_h7821/n/n76f0cd5a5cdf",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【開示メモ】キューブシステムの資本業務提携を読む：確認したい論点｜Cream bun",
+    "url": "https://note.com/s_h7821/n/n76f0cd5a5cdf",
+    "pass": 3
+   },
+   {
+    "quote": "【開示メモ】キューブシステムの資本業務提携を読む：確認したい論点",
+    "url": "https://note.com/s_h7821/n/n76f0cd5a5cdf",
+    "pass": 3
+   },
+   {
+    "quote": "本記事はAI（ChatGPT）を活用して作成し、人間が編集・校正を行っています。",
+    "url": "https://note.com/s_h7821/n/n76f0cd5a5cdf",
+    "pass": 3
+   },
+   {
+    "quote": "開示タイトル：株式会社システムクリエイトとの資本業務提携に関するお知らせ",
+    "url": "https://note.com/s_h7821/n/n76f0cd5a5cdf",
+    "pass": 3
+   },
+   {
+    "quote": "会社ニュースリリース：キューブシステムとシステムクリエイトが資本業務提携契約を締結。(",
+    "url": "https://note.com/s_h7821/n/n76f0cd5a5cdf",
+    "pass": 3
+   },
+   {
+    "quote": "キューブシステムは、株式会社システムクリエイトとの資本業務提携を決議しました。内容は、システムクリエイト社株式の一部を追加取得し、業務面では東京・九州エリアでのシステム開発・運用案件、人材確保、品質基準、共同開発、人材交流などで連携を深めるものです。",
+    "url": "https://note.com/s_h7821/n/n76f0cd5a5cdf",
+    "pass": 3
+   },
+   {
+    "quote": "今回の開示は、決算や業績予想修正ではなく、事業基盤の連携強化を目的とした資本業務提携です。会社側は、本件が当社グループの業績に及ぼす影響は軽微としています。(",
+    "url": "https://note.com/s_h7821/n/n76f0cd5a5cdf",
+    "pass": 3
+   },
+   {
+    "quote": "最初に確認すべき点は、今回の開示が直ちに売上高や利益の増加を示すものではないことです。業務提携の方向性は示されていますが、売上貢献額、利益貢献額、案件規模、開始時期は本開示だけでは確認できません。",
+    "url": "https://note.com/s_h7821/n/n76f0cd5a5cdf",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "システムクリエイト株式会社 (@scre_corp) / Posts / X 🤍 0 0 📎 システムクリエイト株式会社 scre_corp Mar 30 春ですね♪ 弊社の絵本があると知り、先週28日にオープンした板橋区立中央図書館にきました 公園内&カフェ併設なんて、すんばらしいですね😍 #froggy #フロッギー #絵本",
+    "url": "https://x.com/scre_corp",
+    "pass": 3
+   },
+   {
+    "quote": "㈱システムクリエイト (@isesakifudousan) / X ㈱システムクリエイト 63 posts ㈱システムクリエイト @isesakifudousan 当社では、伊勢崎 玉村を中心に土地・建物 不動産 売買 ＆ 賃貸アパート・マンションをご紹介していますお客様のご予算にあった良い物件探しお手伝い致します♪ 伊勢崎市連取町3298-1 (旧番地640-1) systemcreate2008.com Joined January 2012 ...",
+    "url": "https://x.com/isesakifudousan",
+    "pass": 3
+   },
+   {
+    "quote": "2335 キューブシステム システムクリエイトとの資本業務提携に関する... 2335キューブシステムシステムクリエイトとの資本業務提携に関するお知らせ業務提携の内容・システム開発・運用案件の共同推進・品質基準・開発標準の共有・共同研究開発、事業開発及びビジネスモデルの協創・相互の人材育成・交流 release.tdnet.info/inbs ...",
+    "url": "https://x.com/HK48077554/status/2061816118491455787",
+    "pass": 3
+   },
+   {
+    "quote": "キューブシステム、システムクリエイトと資本業務提携、九州で開発基... 株式投資情報ツイッター (@mediaircom). 474 views. キューブシステム、システムクリエイトと資本業務提携、九州で開発基盤強化",
+    "url": "https://x.com/mediaircom/status/2061938561407189120",
+    "pass": 3
+   },
+   {
+    "quote": "システムクリエイト株式会社 (@scre_corp) / Posts / X Sep 18, 2020 · 🤍 0 0 📎 システムクリエイト株式会社 scre_corp Mar 30 春ですね♪ 弊社の絵本があると知り、先週28日にオープンした板橋区立中央図書館にきました 公園内&カフェ併設なんて、すんばらしいですね😍 #froggy #フロッギー #絵本",
+    "url": "https://x.com/scre_corp",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "日本システムクリエイト（株） | LinkedIn 日本システムクリエイト（株） | LinkedInのフォロワー数5人。",
+    "url": "https://jp.linkedin.com/company/日本システムクリエイト（株）",
+    "pass": 3
+   },
+   {
+    "quote": "松木 正則 - （株）システムクリエイト - 部長 | LinkedInLinkedIn: Log In or Sign Up0 日本システムクリエイト株式会社 jobs in United StatesBulent Sackiran - Engineering & Project Management ...Arts and Culture Correspondent at The Guardian - LinkedInسكسي نيك طيز - -- | LinkedIn （株）システムクリエイト - 部長 · Specialties: 機械設備設計、ちょっと電気設備設計、ちょっと構造計算、ちょっと積算業務 · 職歴: 株式会社システムクリエイト · 学歴: 大阪工業技術専門学校 · 場所: 奈良県 · LinkedInのつながり4人。10億人のメンバーを擁するプロフェッショナルコミ",
+    "url": "https://jp.linkedin.com/in/正則-松木-16622147",
+    "pass": 3
+   },
+   {
+    "quote": "0 日本システムクリエイト株式会社 jobs in United States Today's top 0 日本システムクリエイト株式会社 jobs in United States. Leverage your professional network, and get hired. New 日本システムクリエイト株式会社 jobs ...",
+    "url": "https://www.linkedin.com/jobs/日本システムクリエイト株式会社-jobs",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://systemcreate-inc.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://systemcreate-inc.co.jp/outline",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://systemcreate-inc.co.jp/news/summervacation2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://systemcreate-inc.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://systemcreate-inc.co.jp/products__category/3dprinter",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://systemcreate-inc.co.jp/news/marusugo_d400hs_ableprinting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://systemcreate-inc.co.jp/news/geomagicforsw_2026-1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://systemcreate-inc.co.jp/news/revopoint_range3_release",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://systemcreate-inc.co.jp/news/solidworks2027",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://systemcreate-inc.co.jp/news/marusugo_millkey5040_clean",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://systemcreate-inc.co.jp/news/mitarepo152_dual_d600",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://systemcreate-inc.co.jp/news/creaform_webinar20261021",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://systemcreate-inc.co.jp/news/2026_10osaka",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://systemcreate-inc.co.jp/news",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.systemcreate.co.jp/company/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sysc.co.jp/info.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.value-press.com/pressrelease/364506",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-steel.co.jp/products/solution/metal-3d-printing/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/product/detail/2001557884/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.systemcreate.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/s_h7821/n/n76f0cd5a5cdf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/scre_corp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/isesakifudousan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HK48077554/status/2061816118491455787",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mediaircom/status/2061938561407189120",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/日本システムクリエイト（株）",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/正則-松木-16622147",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/日本システムクリエイト株式会社-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/scre_corp",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "システムクリエイト",
+   "results": [
+    "https://ja.wikipedia.org/wiki/システムリクエスト",
+    "https://systemcreate-inc.co.jp/",
+    "https://www.systemcreate.co.jp/",
+    "https://www.sct-net.co.jp/",
+    "https://www.systemcreate.co.jp/company/profile/",
+    "https://systemcreate-inc.co.jp/outline",
+    "https://sck-inc.co.jp/",
+    "https://systemcre.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "システムクリエイト 会社概要 資本金 設立",
+   "results": [
+    "https://www.systemcreate.co.jp/company/profile/",
+    "https://systemcreate-inc.co.jp/outline",
+    "https://www.sysc.co.jp/info.html",
+    "https://systemcreate-inc.co.jp/recruit/company_profile/",
+    "https://www.systemcre.com/profile.html",
+    "https://www.system-cr.com/kaisyaannnai/",
+    "https://www.systemcreate.co.jp/company/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "システムクリエイト 金属3Dプリンタ 導入",
+   "results": [
+    "https://systemcreate-inc.co.jp/products__category/3dprinter",
+    "https://systemcreate-inc.co.jp/",
+    "https://www.value-press.com/pressrelease/364506",
+    "https://mono.ipros.com/product/detail/2001558980/",
+    "https://pr.mono.ipros.com/systemcreate-inc/product/detail/2001558980/",
+    "https://pr.mono.ipros.com/systemcreate-inc/news/detail/194227/",
+    "https://mono.ipros.com/product/detail/2001557884/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "システムクリエイト 金属積層造形 設備",
+   "results": [
+    "https://systemcreate-inc.co.jp/",
+    "https://www.jfe-steel.co.jp/products/solution/metal-3d-printing/index.html",
+    "https://mono.ipros.com/product/detail/2001557884/",
+    "https://mitsu-ri.net/articles/metal-laminated-modeling",
+    "https://mono.ipros.com/product/detail/2000816702/",
+    "https://systemcreate-inc.co.jp/contract/3dprint_entrustment",
+    "https://www.value-press.com/pressrelease/364506"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "システムクリエイト 株主 出資 親会社",
+   "results": [
+    "https://systemcreate-inc.co.jp/",
+    "https://www.systemcreate.co.jp/",
+    "https://systemcreate-inc.co.jp/outline",
+    "https://kaijiwire.jp/companies/7050001007990",
+    "http://www.systemc.co.jp/company/index.html",
+    "https://www.systemcreate.co.jp/company/",
+    "https://kabutan.jp/stock/holder?code=3371"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "システムクリエイト 売上高 従業員数",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com システムクリエイト",
+   "results": [
+    "https://note.com/scc_cl",
+    "https://note.com/infosys_rescue",
+    "https://note.com/infosys_rescue/m/m4efee54873a5",
+    "https://note.com/s_h7821/n/n76f0cd5a5cdf",
+    "https://note.com/mar810/n/n392a29b3f757",
+    "https://tales.note.com/",
+    "https://note.com/akari_iku/n/n9be44862551a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com システムクリエイト",
+   "results": [
+    "https://x.com/scre_corp",
+    "https://x.com/isesakifudousan",
+    "https://x.com/HK48077554/status/2061816118491455787",
+    "https://x.com/mediaircom/status/2061938561407189120",
+    "https://x.com/sushiyone/status/200028446146043905",
+    "https://x.com/hashtag/SoldeJaneiroPartner",
+    "https://x.com/AlexZarkage/status/2113754409410674975"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com システムクリエイト",
+   "results": [
+    "https://jp.linkedin.com/company/日本システムクリエイト（株）",
+    "https://jp.linkedin.com/in/正則-松木-16622147",
+    "https://www.linkedin.com/jobs/日本システムクリエイト株式会社-jobs",
+    "https://uk.linkedin.com/jobs/view/arts-and-culture-correspondent-at-the-guardian-4482854726",
+    "https://sa.linkedin.com/in/سكسي-نيك-طيز-6295a21aa",
+    "https://www.linkedin.com/",
+    "https://uk.linkedin.com/in/bulent-sackiran-12503614"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com システムクリエイト",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "システムクリエイト note 社長",
+   "results": [
+    "https://www.systemcreate-inc.co.jp/blog/category/ceo",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.systemcreate.co.jp/company/",
+    "https://systemcreate-inc.co.jp/greetings",
+    "https://www.systemcreate.co.jp/company/profile/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.wantedly.com/companies/company_8422185/post_articles/920161"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "システムクリエイト X 投稿",
+   "results": [
+    "https://x.com/scre_corp",
+    "https://x.com/siyukat/status/2100194288445567019",
+    "https://note.com/aiforyoujp/n/n1adbc0c9c5f8",
+    "https://www.ichiyajo.jp/notes/2026-05-18-x-auto-post-guide-2026/",
+    "https://help.x.com/ja/using-x/how-to-post",
+    "https://help.x.com/ja",
+    "https://qiita.com/sawayamakouji/items/4a1c7046f8e7dbae5067"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "資本金": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部15頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部15頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部15頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部15頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部15頁・検索12回）"
+ }
+}

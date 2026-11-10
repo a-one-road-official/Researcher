@@ -1,0 +1,1326 @@
+{
+ "name": "Gloat",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜リマイン1",
+ "researched_at": "2026-11-10T17:00:36.909898+00:00",
+ "official_url": "https://www.gloat.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$91.6M",
+    "url": "https://getlatka.com/companies/gloatcom",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Gloat - Agentic HR Platform & AI Workforce Agents",
+    "url": "https://gloat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Any workforce agent, shipped in weeks.",
+    "url": "https://gloat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Agentic HR. Pre-built. Enterprise-ready. Live on your HCM in weeks.",
+    "url": "https://gloat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Workforce Intelligence",
+    "url": "https://gloat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Run Q3 reviews, onboard new hires, or process comp adjustments end-to-end — freeing HRBPs to do strategic work.",
+    "url": "https://gloat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Build succession plans, model 2027 workforce capacity, or flag EMEA skill gaps a quarter early — turning planning cycles into real-time moves.",
+    "url": "https://gloat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pick from a library of pre-built HR agents — live in days, not quarters.",
+    "url": "https://gloat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional HCMs were designed for humans making decisions, systems recording them. Gloat is architected for workforce intelligence and autonomous execution at enterprise scale.",
+    "url": "https://gloat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your policies. Your approval chains. Your rules. Every action is explainable, auditable, and reversible.",
+    "url": "https://gloat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Powered by Loomra™. The Workforce Context Engine",
+    "url": "https://gloat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Loomra™ is a purpose-built AI architecture for workforce decisions. Every layer is optimized for accuracy, context, and governed action. This is how agents understand your workforce deeply enough to act.",
+    "url": "https://gloat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A living map of your workforce. People, skills, roles, and relationships stored as connected entities, enabling traversal queries no relational database can answer.",
+    "url": "https://gloat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proprietary AI capabilities agents use to act: Matching Engine, Skills Clustering, Career Trajectories Model, Inference, Semantic Workforce Embeddings, Market Intelligence.",
+    "url": "https://gloat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Remembers every interaction across agents and sessions. Adapts recommendations, tone, and priorities over time. Every conversation is smarter than the first, and context never starts from zero.",
+    "url": "https://gloat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proprietary models trained on workforce semantics. Career trajectories, skill adjacencies, and organizational context. Not generic embeddings trained on web text.",
+    "url": "https://gloat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Encodes your organization's unique policies, workflows, and approval chains into agent-executable rules. Ensures every recommendation respects real-world constraints.",
+    "url": "https://gloat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The practical path to agentic HR in 30 minutes, where to start, what to skip.",
+    "url": "https://gloat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to run your workforce with intelligence?",
+    "url": "https://gloat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Join the world's leading enterprises in building a workforce that adapts and thrives with AI.",
+    "url": "https://gloat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We partner with a select group of strategic consultancies/advisories, systems integrators and technology providers to create a dynamic ecosystem focused on delivering skills-based organisations.",
+    "url": "https://gloat.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Guided by diverse perspectives and decades of experience, our partner ecosystem provides thought leadership and subject matter expertise to guide organizations through their change journeys.",
+    "url": "https://gloat.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "AMS is a talent solutions firm. We deploy our unmatched expertise and digital innovation to enable business success and progress future careers.",
+    "url": "https://gloat.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "SAP SuccessFactors helps businesses bring HR closer to their employees, so they are more engaged, more productive, and much smarter about the way they work.",
+    "url": "https://gloat.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Udemy is an online learning and teaching marketplace with over 250000 courses and 73 million students. Learn programming, marketing, data science and more.",
+    "url": "https://gloat.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Cornerstone’s adaptive HCM solutions provide an end-to-end, skills-forward, and AI-powered system built for the new way we all work.",
+    "url": "https://gloat.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Applicant Tracking System — Experience the Advantage of a Comprehensive Talent Recruitment Platform With iCIMS.",
+    "url": "https://gloat.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "As the global leader in HR transformation (HRT), we help you to imagine, connect and leverage strategy and technology to empower HR to own and solve enterprise-wide issues affecting the business, the workforce and how work gets done.",
+    "url": "https://gloat.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Curated portfolio of proven solution partners and innovation services unearthed by adults. No BS.",
+    "url": "https://gloat.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "HR operations and outsourcing services · Workforce forecasting and planning · Talent acquisition · Talent and skill development · Core employee data management.",
+    "url": "https://gloat.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Helps Unleash Your Workforce’s Potential with Actionable, Data-Driven Insights. Identify and develop top talent with Korn Ferry Assess",
+    "url": "https://gloat.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "ApiTree specializes in custom development, consulting, application integration and expert solutions, delivering high-quality code with a strong focus on client satisfaction. We participate in Gloat product development and testing.",
+    "url": "https://gloat.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "TalentTech is a global leader in Talent Operations and HR Tech Consulting. We provide expert advice so you can make smart decisions when choosing new tech.",
+    "url": "https://gloat.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Microsoft Teams is the hub for teamwork in Microsoft 365, bringing people, conversations and content all together.",
+    "url": "https://gloat.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Australia’s leading Talent Consulting and People Solutions business. TQ solves complex talent and workforce challenges across hiring, careers and work.",
+    "url": "https://gloat.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Go1 offers training content from 250+ industry-leading providers, delivered seamlessly through any HR tech stack.",
+    "url": "https://gloat.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Semantic workforce search",
+    "url": "https://gloat.com/talk-to-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Service delivery, onboarding, and policy",
+    "url": "https://gloat.com/talk-to-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Upskilling, reskilling, and mentorship",
+    "url": "https://gloat.com/talk-to-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Your browser does not support the video tag.",
+    "url": "https://gloat.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Co-Founder, Chief Product Officer",
+    "url": "https://gloat.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We built Gloat so that every workforce decision — from career moves to skills development to workforce planning — could be handled by intelligent agents, not disconnected tools.\"",
+    "url": "https://gloat.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "We own it. All of it. No \"someone should.\" If it's on your plate, it's yours – the wins, the misses, the cleanup. We tell each other the truth about what's working and what isn't, even when it's uncomfortable, because the alternative is worse: customers who lose trust, teammates who lose time, and a company that drifts. Accountability isn't a performance review – it's a daily practice.",
+    "url": "https://gloat.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "We're not improving HR, we're redefining it. That takes the nerve to make claims others won't, ship before the market asks, and treat \"we've always done it this way\" as a bug, not a feature. Bold is the baseline.",
+    "url": "https://gloat.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "With the use of artificial intelligence, we have created the first-ever internal talent marketplace. We are driving business growth and unlocking agility by aligning employee ambitions with business priorities so that everyone can achieve their full potential.",
+    "url": "https://gloat.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing.03",
+    "url": "https://gloat.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Israel IL Tel Aviv-Yafo Marketing.03 Demand Generation lead- AI Native",
+    "url": "https://gloat.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "data are prone to bias, which is why throughout Gloat’s seven years of existence—and across",
+    "url": "https://gloat.com/about-us/gloats-commitment-to-ethical-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "billions of data points, 2.5 billion job descriptions, 500 million profiles, and 300 million new",
+    "url": "https://gloat.com/about-us/gloats-commitment-to-ethical-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "data points per day—we’ve maintained an ongoing commitment to de-biasing practices, and remain",
+    "url": "https://gloat.com/about-us/gloats-commitment-to-ethical-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "dedicated to preventing and mitigating the potential negative impacts of AI.",
+    "url": "https://gloat.com/about-us/gloats-commitment-to-ethical-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Proactive monitoring and auditing",
+    "url": "https://gloat.com/about-us/gloats-commitment-to-ethical-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "World Economic Forum: Gloat has joined the world economic forum’s Global Innovators’ Community, specifically the Shaping the Future of Technology Governance: Artificial Intelligence and Machine Learning program.",
+    "url": "https://gloat.com/about-us/gloats-commitment-to-ethical-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Internal talent mobility programs can advance gender equity. Do yours? | BCG Research",
+    "url": "https://gloat.com/about-us/gloats-commitment-to-ethical-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Consumer-first AI: algorithms built to enhance the human decision process, not replace it",
+    "url": "https://gloat.com/about-us/gloats-commitment-to-ethical-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our multi-strategy matching ensures varied talent recommendations for opportunities, giving transparent insight into why each particular profile is showing up.",
+    "url": "https://gloat.com/about-us/gloats-commitment-to-ethical-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Gloat is committed to regular algorithmic auditing. Our AI is continuously audited and reviewed, and everyone involved in its development takes a proactive approach to prevent bias creep, such as enforced policies for using data and building models, rigorous review processes for models going to production, and periodical monitoring.",
+    "url": "https://gloat.com/about-us/gloats-commitment-to-ethical-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Multiple controls are deployed in parallel to reduce the likelihood of bias creep, while simultaneously improving the ability to detect bias creep:",
+    "url": "https://gloat.com/about-us/gloats-commitment-to-ethical-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We are committed to transparent and explainable AI. In practice, this means that users can learn why certain candidates and opportunities are suggested. Clarifying what made a particular suggestion surface enables fairer and more equal decision-making capabilities, which aligns our values of equality and inclusion.",
+    "url": "https://gloat.com/about-us/gloats-commitment-to-ethical-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Gloat strives to make AI considerations and decisions as clear and transparent as possible to the users it affects, removing the ‘black box’ that often surrounds AI-based suggestions. As a recommendation engine, the system promotes transparency in the user interface, and provides the required context for understanding the information presented.",
+    "url": "https://gloat.com/about-us/gloats-commitment-to-ethical-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Finally, Gloat incorporates strong data privacy, and we also perform frequent algorithmic audits during which data scientists comb through source code and outputs to ensure fairness.",
+    "url": "https://gloat.com/about-us/gloats-commitment-to-ethical-ai/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Teams, Slack, Zoom, Copilot, mobile. Agents show up in the surfaces employees already use.",
+    "url": "https://gloat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Agents reach employees in Teams, Slack, or email. No portal logins. No friction. Just help that comes to them.",
+    "url": "https://gloat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SAP SuccessFactors helps businesses bring HR closer to their employees, so they are more engaged, more productive, and much smarter about the way they work.",
+    "url": "https://gloat.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "HR operations and outsourcing services · Workforce forecasting and planning · Talent acquisition · Talent and skill development · Core employee data management.",
+    "url": "https://gloat.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Join Gloat and be part of something bigger, part of the journey of redefining the way the world works.",
+    "url": "https://gloat.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "AI should help people make informed decisions, rather than obscuring, limiting, or skewing their perspectives. Gloat’s AI is built to empower the people who come into contact with it, from junior employees to high level decision-makers. We’re committed to remaining ‘recommendation-based’ and to empowering our users with more informed decision-making.",
+    "url": "https://gloat.com/about-us/gloats-commitment-to-ethical-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "This new architecture is now flooded with tools. These include Sana (Workday), Oracle Agent Studio, Microsoft Copilot Studio, Leena.ai, ServiceNow (with new agents coming from its MoveWorks acquisition), SAP (Joule Studio), and of course the Agent tools from Anthropic, OpenAI, Google, and others.",
+    "url": "https://joshbersin.com/2026/03/gloat-enters-the-crowded-war-for-ai-agents-in-hr/",
+    "pass": 3
+   },
+   {
+    "quote": "is like an advisor or HR professional agent, by the way, that gives employees a way to ask questions, get answers, and access the agents underneath.",
+    "url": "https://joshbersin.com/2026/03/gloat-enters-the-crowded-war-for-ai-agents-in-hr/",
+    "pass": 3
+   },
+   {
+    "quote": "We actually built an agent like this in Galileo and it needs to understand skill and job requirements and then coach employees and managers on their options. This Superagent should also know what training is available, understand location issues, job licensing, union issues, pay level, and other factors.",
+    "url": "https://joshbersin.com/2026/03/gloat-enters-the-crowded-war-for-ai-agents-in-hr/",
+    "pass": 3
+   },
+   {
+    "quote": "Other common use cases include global onboarding, promotion, annual reviews and compensation, and the entire process of talent acquisition, employee certification, time and schedule management, and more.",
+    "url": "https://joshbersin.com/2026/03/gloat-enters-the-crowded-war-for-ai-agents-in-hr/",
+    "pass": 3
+   },
+   {
+    "quote": "What differentiates Gloat’s Agentic HR platform is the workforce context layer beneath it. Gloat’s Workforce Context Engine, Loomra, is built on nearly a decade of enterprise-scale workforce data, modeling skill adjacencies, career trajectories, organizational patterns, and workforce relationships across millions of employees globally.",
+    "url": "https://joshbersin.com/2026/03/gloat-enters-the-crowded-war-for-ai-agents-in-hr/",
+    "pass": 3
+   },
+   {
+    "quote": ": rather than answering “show me employees who know Python,” they can reason about which employees could transition into AI engineering roles this year, which teams are most exposed to future skill gaps, and where talent should be redeployed as business priorities shift.",
+    "url": "https://joshbersin.com/2026/03/gloat-enters-the-crowded-war-for-ai-agents-in-hr/",
+    "pass": 3
+   },
+   {
+    "quote": "The L&D Revolution Has Arrived: AI Enables Dynamic Enablement For All",
+    "url": "https://joshbersin.com/2026/03/gloat-enters-the-crowded-war-for-ai-agents-in-hr/",
+    "pass": 3
+   },
+   {
+    "quote": "Facing new challenges as they expanded beyond beer, Molson Coors launched “UnTapped” to unlock their employees’ full potential and take...",
+    "url": "https://gloat.com/resource-hub/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "“At Gloat, accessibility and inclusion have become core to who we are—from our employees to our culture to our ultimate customer experience. Becoming accessible is an ongoing journey and we are always improving,” concludes Ben-Yair. “We’re committed to empowering everyone with an equal opportunity to achieve their professional goals.”",
+    "url": "https://www.levelaccess.com/resources/how-gloat-creates-career-growth-opportunities-for-people-of-all-abilities/",
+    "pass": 3
+   },
+   {
+    "quote": "135,000 employees",
+    "url": "https://gloat.com/wp-content/uploads/Schneider-Electric-Gloat-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "employees to grow with the business,",
+    "url": "https://gloat.com/wp-content/uploads/Schneider-Electric-Gloat-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "of employees citing a lack of internal",
+    "url": "https://gloat.com/wp-content/uploads/Schneider-Electric-Gloat-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Electric wanted to encourage employees to partake in ad-hoc",
+    "url": "https://gloat.com/wp-content/uploads/Schneider-Electric-Gloat-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Innovation is a core part of Schneider Electric’s DNA,",
+    "url": "https://gloat.com/wp-content/uploads/Schneider-Electric-Gloat-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Talent Market, to employees across the globe. Their",
+    "url": "https://gloat.com/wp-content/uploads/Schneider-Electric-Gloat-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "From the first pilot users to employees who engaged",
+    "url": "https://gloat.com/wp-content/uploads/Schneider-Electric-Gloat-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "second time investment from employees, Open Talent Market",
+    "url": "https://gloat.com/wp-content/uploads/Schneider-Electric-Gloat-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Schneider Electric employees whose skills and interests align with",
+    "url": "https://gloat.com/wp-content/uploads/Schneider-Electric-Gloat-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Simultaneously, employees",
+    "url": "https://gloat.com/wp-content/uploads/Schneider-Electric-Gloat-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Employees get access to",
+    "url": "https://gloat.com/wp-content/uploads/Schneider-Electric-Gloat-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "From an operations perspective, Open Talent Market provides employees with the growth",
+    "url": "https://gloat.com/wp-content/uploads/Schneider-Electric-Gloat-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Open Talent Market also gives employees greater autonomy to chart their own path forward",
+    "url": "https://gloat.com/wp-content/uploads/Schneider-Electric-Gloat-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "way employees want to navigate their careers as linear career progression models have been",
+    "url": "https://gloat.com/wp-content/uploads/Schneider-Electric-Gloat-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "what I call the employees of the organization. ”",
+    "url": "https://gloat.com/wp-content/uploads/Schneider-Electric-Gloat-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "60%, enabling more than 2,300 employees to begin to explore new roles within the",
+    "url": "https://gloat.com/wp-content/uploads/Schneider-Electric-Gloat-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "81% of employees would recommend Gloat",
+    "url": "https://gloat.com/wp-content/uploads/Schneider-Electric-Gloat-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "enabling employees to build stronger connections with colleagues across the globe",
+    "url": "https://gloat.com/wp-content/uploads/Schneider-Electric-Gloat-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Gloat’s platform empowers organizations to unlock the full potential of their workforce. By providing unprecedented visibility into skills and opportunities across the organization, Gloat enables both employees and employers to thrive in the dynamic world of work.",
+    "url": "https://brandonhall.com/gloat-revolutionizing-workforce-agility-with-ai-driven-talent-management/",
+    "pass": 3
+   },
+   {
+    "quote": "Gloat.com Revenue 2024: $25.3M Est., $91.6M Raised",
+    "url": "https://getlatka.com/companies/gloatcom",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, valuation & funding",
+    "url": "https://getlatka.com/companies/gloatcom",
+    "pass": 3
+   },
+   {
+    "quote": "Gloat.com has not published its revenue. GetLatka estimates it at about $25.3M a year (October 2024).",
+    "url": "https://getlatka.com/companies/gloatcom",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/gloatcom",
+    "pass": 3
+   },
+   {
+    "quote": "Gloat.com CEO, founders & employees",
+    "url": "https://getlatka.com/companies/gloatcom",
+    "pass": 3
+   },
+   {
+    "quote": "Ben Reuveni founded Gloat.com in 2014 and runs it as CEO. Gloat.com had 187 employees (December 2024, LinkedIn), up from 174 a year earlier.",
+    "url": "https://getlatka.com/companies/gloatcom",
+    "pass": 3
+   },
+   {
+    "quote": "What is Gloat.com's revenue?",
+    "url": "https://getlatka.com/companies/gloatcom",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Gloat.com's revenue at about",
+    "url": "https://getlatka.com/companies/gloatcom",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Gloat.com have?",
+    "url": "https://getlatka.com/companies/gloatcom",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/gloatcom",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/gloatcom",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/gloatcom",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/gloatcom",
+    "pass": 3
+   },
+   {
+    "quote": "Gloat raises $57M Series C to help employees thrive and businesses execute faster in the new world of work | Gloat",
+    "url": "https://gloat.com/blog/gloat-raises-57m-series-c-to-help-employees-thrive-and-businesses-execute-faster-in-the-new-world-of-work/",
+    "pass": 3
+   },
+   {
+    "quote": "Gloat raises $57M Series C to help employees thrive and businesses execute faster in the new world of work",
+    "url": "https://gloat.com/blog/gloat-raises-57m-series-c-to-help-employees-thrive-and-businesses-execute-faster-in-the-new-world-of-work/",
+    "pass": 3
+   },
+   {
+    "quote": "Gloat positions itself as a pioneer in the Talent Marketplace category, becoming a strategic tool for global enterprises adapting to agile workforces. The round aligns with growing demand for AI-driven HR solutions amid shifts to remote and flexible work arrangements.",
+    "url": "https://multiples.vc/private-comps/gloat",
+    "pass": 3
+   },
+   {
+    "quote": "Gloat's product pivoted from external job matching to an internal talent marketplace after discovering that 50% of career moves could occur within companies, launching officially mid-2019. It achieved rapid traction with early customers including Unilever, Schneider Electric, Standard Chartered, Seagate, Nestlé, and HSBC, where 80-85% of employees complete profiles across clients.",
+    "url": "https://multiples.vc/private-comps/gloat",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up to see data on 350K+ funding rounds and disclosed revenue and EBITDA valuation multiples, from seed, through growth stage, to pre-IPO.",
+    "url": "https://multiples.vc/private-comps/gloat",
+    "pass": 3
+   },
+   {
+    "quote": "Gloat competitors include listed companies like Workday and Teamshares, and private ones like Juicebox, hireEZ, Lumaril and Multiplier.",
+    "url": "https://multiples.vc/private-comps/gloat",
+    "pass": 3
+   },
+   {
+    "quote": "Is Gloat publicly listed?",
+    "url": "https://multiples.vc/private-comps/gloat",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Agents reach employees in Teams, Slack, or email. No portal logins. No friction. Just help that comes to them.",
+    "url": "https://gloat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Resubscribe to our email distribution list",
+    "url": "https://brandonhall.com/gloat-revolutionizing-workforce-agility-with-ai-driven-talent-management/",
+    "pass": 3
+   },
+   {
+    "quote": "email distribution list.",
+    "url": "https://brandonhall.com/gloat-revolutionizing-workforce-agility-with-ai-driven-talent-management/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "しかし実際には、こうした「小さな停滞」の積み重ねこそが、地域経済や日本全体の成長力をじわじわと損ねています",
+    "url": "https://dfplus.io/iq/blog/ai-hr-guide-labor-redisign",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、日本における人手不足の本質はもう少し深いところにあります",
+    "url": "https://dfplus.io/iq/blog/ai-hr-guide-labor-redisign",
+    "pass": 3
+   },
+   {
+    "quote": "日本の労働力問題は「全体として不足している」のではなく、「過不足のバランスが崩れている」状態",
+    "url": "https://dfplus.io/iq/blog/ai-hr-guide-labor-redisign",
+    "pass": 3
+   },
+   {
+    "quote": "日本語WordNet(英和)での「gloat」の意味",
+    "url": "https://ejje.weblio.jp/content/gloat",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Gloat .com : 世界初AIベースの社内人材キャリア開発 ... — Gloat .com : 世界初AIベースの社内人材キャリア開発 ... AT PARTNERS https://www.atpartners.co.jp > news > 2021-07-10-gloat.c...",
+    "url": "https://www.atpartners.co.jp/news/2021-07-10-gloat.com-:-the-worlds-first-ai-based-internal-talent-career-development-platform",
+    "pass": 3
+   },
+   {
+    "quote": "テルモさん、すでに GLOAT を 導入 、稼働させていらっしゃる ... — テルモさん、すでに GLOAT を 導入 、稼働させていらっしゃる ... LinkedIn https://jp.linkedin.com > posts > kenken747_テルモさん...",
+    "url": "https://jp.linkedin.com/posts/kenken747_%E3%83%86%E3%83%AB%E3%83%A2%E3%81%95%E3%82%93%E3%81%99%E3%81%A7%E3%81%ABgloat%E3%82%92%E5%B0%8E%E5%85%A5%E7%A8%BC%E5%83%8D%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%82%89%E3%81%A3%E3%81%97%E3%82%83%E3%82%8B%E3%82%93%E3%81%A7%E3%81%99%E3%81%AD-%E3%81%93%E3%82%8C%E3%81%AF%E6%98%AF%E9%9D%9E%E4%B8%80%E5%BA%A6-activity-7277964508688523265-YagS",
+    "pass": 3
+   },
+   {
+    "quote": "英語「 gloat 」の意味・使い方・読み方 | Weblio英和辞書 — 英語「 gloat 」の意味・使い方・読み方 | Weblio英和辞書 Weblio英和和英辞典 https://ejje.weblio.jp > 英和辞典・和英辞典 > 英和辞典",
+    "url": "https://ejje.weblio.jp/content/gloat",
+    "pass": 3
+   },
+   {
+    "quote": "テルモさん、すでに GLOAT を導入、稼働させていらっしゃる ... — テルモさん、すでに GLOAT を導入、稼働させていらっしゃる ... LinkedIn https://jp.linkedin.com > posts > kenken747_テルモさん...",
+    "url": "https://jp.linkedin.com/posts/kenken747_%E3%83%86%E3%83%AB%E3%83%A2%E3%81%95%E3%82%93%E3%81%99%E3%81%A7%E3%81%ABgloat%E3%82%92%E5%B0%8E%E5%85%A5%E7%A8%BC%E5%83%8D%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%82%89%E3%81%A3%E3%81%97%E3%82%83%E3%82%8B%E3%82%93%E3%81%A7%E3%81%99%E3%81%AD-%E3%81%93%E3%82%8C%E3%81%AF%E6%98%AF%E9%9D%9E%E4%B8%80%E5%BA%A6-activity-7277964508688523265-YagS",
+    "pass": 3
+   },
+   {
+    "quote": "Talk to us - Gloat — Talk to us - Gloat Gloat https://gloat.com > talk-to-us",
+    "url": "https://gloat.com/talk-to-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Gloat Enters The Crowded War For AI Agents in HR — Gloat Enters The Crowded War For AI Agents in HR Josh Bersin https://joshbersin.com > 2026/03 > gl...",
+    "url": "https://joshbersin.com/2026/03/gloat-enters-the-crowded-war-for-ai-agents-in-hr/",
+    "pass": 3
+   },
+   {
+    "quote": "Gloat - LinkedIn — Gloat - LinkedIn LinkedIn https://www.linkedin.com > gloat",
+    "url": "https://www.linkedin.com/company/gloat",
+    "pass": 3
+   },
+   {
+    "quote": "Gloat - Agentic HR Platform & AI Workforce Agents — Gloat - Agentic HR Platform & AI Workforce Agents Gloat https://gloat.com",
+    "url": "https://gloat.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories Hub | Gloat — Customer Stories Hub | Gloat Gloat https://gloat.com > customer-stories",
+    "url": "https://gloat.com/resource-hub/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "How Gloat Creates Career Opportunities for All Abilities — How Gloat Creates Career Opportunities for All Abilities Level Access https://www.levelaccess.com > how-gl...",
+    "url": "https://www.levelaccess.com/resources/how-gloat-creates-career-growth-opportunities-for-people-of-all-abilities/",
+    "pass": 3
+   },
+   {
+    "quote": "Schneider Electric | Gloat — Schneider Electric | Gloat Gloat PDF https://gloat.com > wp-content > uploads > Schneide...",
+    "url": "https://gloat.com/wp-content/uploads/Schneider-Electric-Gloat-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Gloat : Revolutionizing Workforce Agility with AI-Driven Talent ... — Gloat : Revolutionizing Workforce Agility with AI-Driven Talent ... Brandon Hall Group https://brandonhall.com > gloat-revol...",
+    "url": "https://brandonhall.com/gloat-revolutionizing-workforce-agility-with-ai-driven-talent-management/",
+    "pass": 3
+   },
+   {
+    "quote": "Gloat Reviews & Ratings 2026 | Gartner Peer Insights — Gloat Reviews & Ratings 2026 | Gartner Peer Insights Gartner https://www.gartner.com > product",
+    "url": "https://www.gartner.com/reviews/product/%20gloat-1815353140",
+    "pass": 3
+   },
+   {
+    "quote": "Gloat .com Revenue 2024: $25.3M Est., $91.6M Raised — Gloat .com Revenue 2024: $25.3M Est., $91.6M Raised GetLatka https://getlatka.com > gloatcom",
+    "url": "https://getlatka.com/companies/gloatcom",
+    "pass": 3
+   },
+   {
+    "quote": "Gloat's Competitors, Revenue , Number of Employees ... - Owler — Gloat's Competitors, Revenue , Number of Employees ... - Owler Owler https://www.owler.com > gloat",
+    "url": "https://www.owler.com/company/gloat",
+    "pass": 3
+   },
+   {
+    "quote": "Gloat raises $57M Series C to help employees thrive and ... — Gloat raises $57M Series C to help employees thrive and ... Gloat https://gloat.com > blog > gloat-raises...",
+    "url": "https://gloat.com/blog/gloat-raises-57m-series-c-to-help-employees-thrive-and-businesses-execute-faster-in-the-new-world-of-work/",
+    "pass": 3
+   },
+   {
+    "quote": "Gloat Valuation, Funding & Investors - Multiples.vc — Gloat Valuation, Funding & Investors - Multiples.vc Multiples.vc https://multiples.vc > Companies",
+    "url": "https://multiples.vc/private-comps/gloat",
+    "pass": 3
+   },
+   {
+    "quote": "Internal Talent Marketplace Gloat Raises $57M Series C From ... — Internal Talent Marketplace Gloat Raises $57M Series C From ... Crunchbase News https://news.crunchbase.com > venture",
+    "url": "https://news.crunchbase.com/venture/internal-talent-marketplace-gloat-raises-57m-series-c-from-accel/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Case Study: Schneider Electric",
+    "url": "https://gloat.com/wp-content/uploads/Schneider-Electric-Gloat-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Gloat was founded in 2015 by Ben Reuveni, Amichai Schreiber and Danny Shteinberg, with the belief that the traditional approach to work, jobs and careers that has been at the heart of enterprise operations since the industrial revolution is now holding businesses and their people back. In an age where the speed of change demands",
+    "url": "https://gloat.com/blog/gloat-raises-57m-series-c-to-help-employees-thrive-and-businesses-execute-faster-in-the-new-world-of-work/",
+    "pass": 3
+   },
+   {
+    "quote": "Deskera is a cloud business software company. Its products cover ERP, MRP, accounting, inventory, CRM, payroll and HR for growing businesses and manufacturers. It has offices in Minneapolis in the United States and in Singapore.",
+    "url": "https://multiples.vc/private-comps/gloat",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Tips for not forgetting English vocabulary! [ gloat over] - note Tips for not forgetting English vocabulary! [ gloat over] - note note https://note.com > 語学 > 英語学習",
+    "url": "https://note.com/n_k443/n/na531adf441c9?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Tips for not forgetting English vocabulary! [gloat over]｜English × LIFE by TK5432",
+    "url": "https://note.com/n_k443/n/na531adf441c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Tips for not forgetting English vocabulary! [gloat over]",
+    "url": "https://note.com/n_k443/n/na531adf441c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "English × LIFE by TK5432",
+    "url": "https://note.com/n_k443/n/na531adf441c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It is hard to remember English words just by looking at them, isn't it? I also tried many times to pass the Eiken Grade 1 exam using books and apps like \"Pass-Tan,\" but I kept forgetting the words as time passed. The conclusion I reached after struggling for years to memorize words is that",
+    "url": "https://note.com/n_k443/n/na531adf441c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "the human brain quickly forgets words if you just try to memorize them",
+    "url": "https://note.com/n_k443/n/na531adf441c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". So, I put into practice the learning methods introduced on YouTube and in books for turning \"short-term memory\" into \"long-term memory\"!",
+    "url": "https://note.com/n_k443/n/na531adf441c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Steps from short-term memory to long-term memory",
+    "url": "https://note.com/n_k443/n/na531adf441c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. Memorize impressively",
+    "url": "https://note.com/n_k443/n/na531adf441c9?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Samuray Del Sol® “Manny $” (@ gloat ) / X Samuray Del Sol® “Manny $” (@ gloat ) / X X https://x.com > gloat",
+    "url": "https://x.com/gloat",
+    "pass": 3
+   },
+   {
+    "quote": "Bill Huber on X: \"Where Matt gets to gloat .\" / X Bill Huber on X: \"Where Matt gets to gloat .\" / X X https://x.com > @BillHuberNFL",
+    "url": "https://x.com/BillHuberNFL/status/2119956418170179875",
+    "pass": 3
+   },
+   {
+    "quote": "Iranian officials gloat as US voters deal blow to Trump - X Iranian officials gloat as US voters deal blow to Trump - X X https://x.com > @ReutersIran",
+    "url": "https://x.com/ReutersIran/status/2117952993114923454",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Gloat - LinkedIn Gloat - LinkedIn LinkedIn https://www.linkedin.com > gloat",
+    "url": "https://www.linkedin.com/company/gloat",
+    "pass": 3
+   },
+   {
+    "quote": "Ben Reuveni - CEO and Co-Founder, Gloat | The Agentic HR ... Ben Reuveni - CEO and Co-Founder, Gloat | The Agentic HR ... LinkedIn https://www.linkedin.com > reuveniben",
+    "url": "https://www.linkedin.com/in/reuveniben",
+    "pass": 3
+   },
+   {
+    "quote": "Gloat : Culture - LinkedIn Gloat : Culture - LinkedIn LinkedIn https://www.linkedin.com > gloat > life",
+    "url": "https://www.linkedin.com/company/gloat/life",
+    "pass": 3
+   },
+   {
+    "quote": "Noam Mordechay - SVP of Customer Success, Gloat - LinkedIn Noam Mordechay - SVP of Customer Success, Gloat - LinkedIn LinkedIn https://uk.linkedin.com > ...",
+    "url": "https://uk.linkedin.com/in/noam-mordechay-661804aa",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Gloat .com (@Workey) - Facebook Gloat .com (@Workey) - Facebook Facebook https://www.facebook.com > ... > Other > Brand > Website",
+    "url": "https://www.facebook.com/Workey/",
+    "pass": 3
+   },
+   {
+    "quote": "I promise not to gloat . I promise not to gloat . I ... - Facebook I promise not to gloat . I promise not to gloat . I ... - Facebook Facebook https://www.facebook.com > mjjochum > posts > i-promis...",
+    "url": "https://www.facebook.com/mjjochum/posts/i-promise-not-to-gloati-promise-not-to-gloati-promise-not-to-gloati-promise-not-/10244865271944713/",
+    "pass": 3
+   },
+   {
+    "quote": "Bizek word of the day: gloat (glōt) (v.): to feel or express great ... Bizek word of the day: gloat (glōt) (v.): to feel or express great ... Facebook https://www.facebook.com > posts > bizek-word-of-the-d...",
+    "url": "https://www.facebook.com/TheEnglishTeachersDaughter/posts/bizek-word-of-the-day-gloat-gl%C5%8Dt-v-to-feel-or-express-great-often-malicious-plea/1434883628608642/",
+    "pass": 3
+   },
+   {
+    "quote": "Gloat started with a radical belief: AI could understand skills ... Gloat started with a radical belief: AI could understand skills ... Facebook https://www.facebook.com > Gloat.com > Videos",
+    "url": "https://www.facebook.com/Workey/videos/gloat-started-with-a-radical-belief-ai-could-understand-skills-semantically-and/1676150790227181/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://gloat.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gloat.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gloat.com/talk-to-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gloat.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gloat.com/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gloat.com/about-us/gloats-commitment-to-ethical-ai/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+    "status": "error",
+    "method": ""
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.atpartners.co.jp/news/2021-07-10-gloat.com-:-the-worlds-first-ai-based-internal-talent-career-development-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/posts/kenken747_%E3%83%86%E3%83%AB%E3%83%A2%E3%81%95%E3%82%93%E3%81%99%E3%81%A7%E3%81%ABgloat%E3%82%92%E5%B0%8E%E5%85%A5%E7%A8%BC%E5%83%8D%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%82%89%E3%81%A3%E3%81%97%E3%82%83%E3%82%8B%E3%82%93%E3%81%A7%E3%81%99%E3%81%AD-%E3%81%93%E3%82%8C%E3%81%AF%E6%98%AF%E9%9D%9E%E4%B8%80%E5%BA%A6-activity-7277964508688523265-YagS",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://dfplus.io/iq/blog/ai-hr-guide-labor-redisign",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ejje.weblio.jp/content/gloat",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpartners.co.jp/news/2021-07-10-gloat.com-:-the-worlds-first-ai-based-internal-talent-career-development-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/posts/kenken747_%E3%83%86%E3%83%AB%E3%83%A2%E3%81%95%E3%82%93%E3%81%99%E3%81%A7%E3%81%ABgloat%E3%82%92%E5%B0%8E%E5%85%A5%E7%A8%BC%E5%83%8D%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%82%89%E3%81%A3%E3%81%97%E3%82%83%E3%82%8B%E3%82%93%E3%81%A7%E3%81%99%E3%81%AD-%E3%81%93%E3%82%8C%E3%81%AF%E6%98%AF%E9%9D%9E%E4%B8%80%E5%BA%A6-activity-7277964508688523265-YagS",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://glginsights.com/ja/advertising-and-public-relations/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://alpc.tokyo/pages/business-d2c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gloat.com/talk-to-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://joshbersin.com/2026/03/gloat-enters-the-crowded-war-for-ai-agents-in-hr/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/gloat",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://gloat.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gloat.com/resource-hub/customer-stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.levelaccess.com/resources/how-gloat-creates-career-growth-opportunities-for-people-of-all-abilities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gloat.com/wp-content/uploads/Schneider-Electric-Gloat-Case-Study.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://brandonhall.com/gloat-revolutionizing-workforce-agility-with-ai-driven-talent-management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/white-label-business-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/gloatcom",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/gloat",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://gloat.com/blog/gloat-raises-57m-series-c-to-help-employees-thrive-and-businesses-execute-faster-in-the-new-world-of-work/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://multiples.vc/private-comps/gloat",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/n_k443/n/na531adf441c9?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/gloat",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/BillHuberNFL/status/2119956418170179875",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ReutersIran/status/2117952993114923454",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/gloat",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/reuveniben",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/gloat/life",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/noam-mordechay-661804aa",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Workey/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mjjochum/posts/i-promise-not-to-gloati-promise-not-to-gloati-promise-not-to-gloati-promise-not-/10244865271944713/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TheEnglishTeachersDaughter/posts/bizek-word-of-the-day-gloat-gl%C5%8Dt-v-to-feel-or-express-great-often-malicious-plea/1434883628608642/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Workey/videos/gloat-started-with-a-radical-belief-ai-could-understand-skills-semantically-and/1676150790227181/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Gloat 日本 導入",
+   "results": [
+    "https://www.atpartners.co.jp/news/2021-07-10-gloat.com-:-the-worlds-first-ai-based-internal-talent-career-development-platform",
+    "https://jp.linkedin.com/posts/kenken747_%E3%83%86%E3%83%AB%E3%83%A2%E3%81%95%E3%82%93%E3%81%99%E3%81%A7%E3%81%ABgloat%E3%82%92%E5%B0%8E%E5%85%A5%E7%A8%BC%E5%83%8D%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%82%89%E3%81%A3%E3%81%97%E3%82%83%E3%82%8B%E3%82%93%E3%81%A7%E3%81%99%E3%81%AD-%E3%81%93%E3%82%8C%E3%81%AF%E6%98%AF%E9%9D%9E%E4%B8%80%E5%BA%A6-activity-7277964508688523265-YagS",
+    "https://dfplus.io/iq/blog/ai-hr-guide-labor-redisign",
+    "https://ejje.weblio.jp/content/gloat",
+    "https://www.works-i.com/research/labour/column/roundup/detail052.html",
+    "https://www.nri.com/content/900034805.pdf",
+    "https://earthkey.blog/global/ai%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E9%96%8B%E7%99%BA%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0gloat%E3%82%B0%E3%83%AD%E3%83%BC/",
+    "https://www.snowflake.com/accelerate/japan/",
+    "https://earthkey.blog/global/aiベースのキャリア開発プラットフォームgloatグロー/",
+    "https://gloat.com/resources/customer-stories/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Gloat 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.atpartners.co.jp/news/2021-07-10-gloat.com-:-the-worlds-first-ai-based-internal-talent-career-development-platform",
+    "https://jp.linkedin.com/posts/kenken747_%E3%83%86%E3%83%AB%E3%83%A2%E3%81%95%E3%82%93%E3%81%99%E3%81%A7%E3%81%ABgloat%E3%82%92%E5%B0%8E%E5%85%A5%E7%A8%BC%E5%83%8D%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%82%89%E3%81%A3%E3%81%97%E3%82%83%E3%82%8B%E3%82%93%E3%81%A7%E3%81%99%E3%81%AD-%E3%81%93%E3%82%8C%E3%81%AF%E6%98%AF%E9%9D%9E%E4%B8%80%E5%BA%A6-activity-7277964508688523265-YagS",
+    "https://glginsights.com/ja/advertising-and-public-relations/",
+    "https://alpc.tokyo/pages/business-d2c",
+    "https://www.keidanren.or.jp/policy/2026/016.pdf",
+    "https://rkd-inc.jp/business-introduction/agency-business",
+    "https://ai-gage.com/partner/",
+    "https://tehamo.net/agency/",
+    "https://glocal-solutions.org/services/overseas-agent/",
+    "https://ja.wikipedia.org/wiki/日立グローバルライフソリューションズ"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Gloat Japan",
+   "results": [
+    "https://gloat.com/talk-to-us/",
+    "https://joshbersin.com/2026/03/gloat-enters-the-crowded-war-for-ai-agents-in-hr/",
+    "https://www.linkedin.com/company/gloat",
+    "https://gloat.com/",
+    "https://www.atpartners.co.jp/news/2021-07-10-gloat.com-:-the-worlds-first-ai-based-internal-talent-career-development-platform",
+    "https://www.facebook.com/Workey/",
+    "https://getgalileo.ai/learn/lexicon/gloat",
+    "https://www.crunchbase.com/organization/workey",
+    "https://www.outsail.co/post/gloat-reviews---pricing-pros-cons-and-user-feedback",
+    "https://www.kotomora.com/en/ja/guide/gloat"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Gloat manufacturing customer case study",
+   "results": [
+    "https://gloat.com/resource-hub/customer-stories/",
+    "https://www.levelaccess.com/resources/how-gloat-creates-career-growth-opportunities-for-people-of-all-abilities/",
+    "https://gloat.com/wp-content/uploads/Schneider-Electric-Gloat-Case-Study.pdf",
+    "https://brandonhall.com/gloat-revolutionizing-workforce-agility-with-ai-driven-talent-management/",
+    "https://www.gartner.com/reviews/product/%20gloat-1815353140",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLS9vdPdn2bgD3wp-Lu0aLbnlCvIhIpoo5kUcvVAPZ_JeWlcMf3",
+    "https://www.globalshopsolutions.com/manufacturing-case-studies",
+    "https://www.eos.info/industries/customer-success-stories",
+    "https://www.cognizant.com/us/en/case-studies",
+    "https://gloat.com/resources/customer-stories/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Gloat white label OR reseller OR partner program",
+   "results": [
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://suitedash.com/white-label-business-software/",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "https://elfsight.com/affiliate-program/articles-saas-white-label/",
+    "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Gloat founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/gloatcom",
+    "https://www.owler.com/company/gloat",
+    "https://gloat.com/blog/gloat-raises-57m-series-c-to-help-employees-thrive-and-businesses-execute-faster-in-the-new-world-of-work/",
+    "https://multiples.vc/private-comps/gloat",
+    "https://news.crunchbase.com/venture/internal-talent-marketplace-gloat-raises-57m-series-c-from-accel/",
+    "https://pitchbook.com/profiles/company/108827-47",
+    "https://tracxn.com/d/companies/gloat/__DF2zcuofQKiYsmtzoXbBMRWURmzwX4wy-uXDTvYYMm8",
+    "https://techcrunch.com/2022/06/28/gloat-nabs-90m-to-build-ai-powered-internal-jobs-marketplaces/",
+    "https://joshbersin.com/2021/06/gloat-receives-57m-round-defining-the-talent-marketplace/",
+    "https://en.wikipedia.org/wiki/Gloat_(company)"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Gloat",
+   "results": [
+    "https://note.com/n_k443/n/na531adf441c9?hl=en",
+    "https://note.com/take_yoshikawa/n/nf5da03c9b7a0?hl=en",
+    "https://note.com/kurokawasei1/n/ne90de0d2342c?hl=en",
+    "https://note.com/mudnesspartners/n/n827884c08c98",
+    "https://note.com/take_yoshikawa/n/nf5da03c9b7a0",
+    "https://note.com/ktgambler/n/n1b7aa02f59a8?hl=en",
+    "https://note.com/sakamotosaikyo/n/nc78d98cd4ef4?hl=en",
+    "https://note.com/aside_2023/n/nb78bde9e279c",
+    "https://note.com/dear_tsuta495/n/n046ab6a69a68?hl=en",
+    "https://note.com/n_k443/n/na531adf441c9"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Gloat",
+   "results": [
+    "https://x.com/gloat",
+    "https://x.com/BillHuberNFL/status/2119956418170179875",
+    "https://x.com/ReutersIran/status/2117952993114923454",
+    "https://x.com/RealSkipBayless/status/2114502072964108732",
+    "https://x.com/NavigatorSurvey/status/2119867704320385097",
+    "https://x.com/IlyaSpivak/status/2118443158120095862",
+    "https://x.com/LakeSuperior",
+    "https://x.com/BizNasty2point0/status/2114151708956000678",
+    "https://x.com/davemeltzerWON/status/2106174773458026654",
+    "https://x.com/gloat_com"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Gloat",
+   "results": [
+    "https://www.linkedin.com/company/gloat",
+    "https://www.linkedin.com/in/reuveniben",
+    "https://www.linkedin.com/company/gloat/life",
+    "https://uk.linkedin.com/in/noam-mordechay-661804aa",
+    "https://www.linkedin.com/pulse/gloat-marketplace-unlocking-workforce-potential-fortune-botteri",
+    "https://www.linkedin.com/in/danny-shteinberg-458319105",
+    "https://il.linkedin.com/company/gloat/jobs",
+    "https://il.linkedin.com/in/amichai-schreiber-5711081",
+    "https://il.linkedin.com/in/amir-avraham",
+    "https://www.linkedin.com/company/gloat/life/gloat"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:facebook.com Gloat",
+   "results": [
+    "https://www.facebook.com/Workey/",
+    "https://www.facebook.com/mjjochum/posts/i-promise-not-to-gloati-promise-not-to-gloati-promise-not-to-gloati-promise-not-/10244865271944713/",
+    "https://www.facebook.com/TheEnglishTeachersDaughter/posts/bizek-word-of-the-day-gloat-gl%C5%8Dt-v-to-feel-or-express-great-often-malicious-plea/1434883628608642/",
+    "https://www.facebook.com/Workey/videos/gloat-started-with-a-radical-belief-ai-could-understand-skills-semantically-and/1676150790227181/",
+    "https://www.facebook.com/fb-answers/how-to-gloat/",
+    "https://www.facebook.com/EnglishTakClass/videos/word-of-the-day-gloat-meaning-and-examples-english-vocabulary-spokenenglish-lear/922813200802705/",
+    "https://www.facebook.com/gloat.hair/",
+    "https://www.facebook.com/groups/145465624138507/posts/1225639859454406/",
+    "https://www.facebook.com/groups/211640321945669/posts/449153004861065/",
+    "https://www.facebook.com/GloatApparel/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Gloat note 社長",
+   "results": [
+    "https://note.com/ai_shacho",
+    "https://resources.gloat.com/gloat-live-2025/",
+    "https://note.com/goodpatch/m/m8f78fa4a2538",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/engorgio",
+    "https://www.youtube.com/watch?v=PLlZpiVPyNc",
+    "https://note.com/shacho10min",
+    "https://www.nikkei.com/article/DGKKZO46474050T20C19A6TJC000/",
+    "https://jp.linkedin.com/posts/kenken747_%E3%83%86%E3%83%AB%E3%83%A2%E3%81%95%E3%82%93%E3%81%99%E3%81%A7%E3%81%ABgloat%E3%82%92%E5%B0%8E%E5%85%A5%E7%A8%BC%E5%83%8D%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%82%89%E3%81%A3%E3%81%97%E3%82%83%E3%82%8B%E3%82%93%E3%81%A7%E3%81%99%E3%81%AD-%E3%81%93%E3%82%8C%E3%81%AF%E6%98%AF%E9%9D%9E%E4%B8%80%E5%BA%A6-activity-7277964508688523265-YagS",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Gloat X 投稿",
+   "results": [
+    "https://www.unleash.ai/companies/gloat/",
+    "https://resources.gloat.com/gloat-live-2025/",
+    "https://www.gloat.community/welcome",
+    "https://github.com/gloathub/gloat",
+    "https://publish.x.com/",
+    "https://gloat.com/talk-to-us/",
+    "https://www.youtube.com/watch?v=DCQJrURdYZQ",
+    "https://forbesjapan.com/articles/detail/72721",
+    "https://japan.cnet.com/article/35222068/",
+    "https://x.com/gloat_com"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部36頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部36頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部36頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部36頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部36頁・検索12回）"
+ }
+}

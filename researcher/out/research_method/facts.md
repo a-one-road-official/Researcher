@@ -290,6 +290,10 @@
 ## 求人情報・採用ページから会社の実態を読む方法（infer company from job postings）
 - 文脈：企業
 - 手順・やり方：
+  - 「Hiring signals are underused because reading them well takes more thought than reading a funding announcement. This post covers what job postings actually reveal, the inference mistakes that make people distrust the signal, and how to pull the data programmatically.」（https://renidly.com/blog/hiring-signals-job-postings-data）
+  - 「That diffing step is the part people skip, and it fails the same way job-change monitoring does: the endpoint returns a current state, not a changelog, so if you act on everything it returns you will contact the same account every day. Keep a seen-set keyed on the posting identifier with a TTL longer than your polling window. The full pattern, including the deduplication problem in detail, is in」（https://renidly.com/blog/hiring-signals-job-postings-data）
+  - 「Most teams stop at "this company is hiring" and hand a rep an account name. Going one step further gives them a named individual with a documented, current, public priority. Those are completely different quality of lead.」（https://renidly.com/blog/hiring-signals-job-postings-data）
+  - 「People Search API: What It Does, What You Can Filter On, and How to Choose」（https://renidly.com/blog/hiring-signals-job-postings-data）
   - 「How to read a job description before applying」（https://vurzel.com/tools/jd-analyzer）
   - 「How to analyze a job description before you apply」（https://vurzel.com/tools/jd-analyzer）
   - 「framework to programmatically label technology mentions against a client-specific taxonomy. This approach moves beyond brittle keyword matching to a model that understands context—distinguishing a company」（https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings）
@@ -301,10 +305,6 @@
   - 「Step‑by‑Step Guide to Reading Between the Lines」（https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings）
   - 「Step 1: Dissect the Job Title」（https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings）
   - 「Step 2: Scrutinize Required Skills」（https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings）
-  - 「Step 3: Look for Soft‑Skill Hints」（https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings）
-  - 「Step 4: Decode Company Culture Clues」（https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings）
-  - 「Step 5: Identify Implicit Qualifications」（https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings）
-  - 「, and cultural hints that can make or break your application. This guide shows you how to read between the lines of job postings, decode hidden signals, and craft a targeted resume that stands out—using both proven strategies and AI‑powered tools from Resumly.」（https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings）
 - 一次情報の探し方：
   - 「Training a Technographic Inference Engine from Job Postings and Public Filings」（https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings）
   - 「Generic technographic providers rely on brittle scraping and pattern matching, missing the nuanced technology signals embedded in job postings, case studies, and SEC filings. A custom inference engine trained on these unstructured sources delivers the precision required for competitor displacement and account-based marketing.」（https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings）
@@ -315,7 +315,12 @@
   - 「Comparative delivery options for training a custom technographic inference engine from job postings and public filings, scoped by data strategy, model complexity, deployment boundary, and business integration depth.」（https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings）
   - 「Deploying a technographic inference engine trained on job postings and SEC filings demands an MLOps pipeline that tightly couples batch inference with active evaluation. We deploy the fine-tuned classification model—typically a」（https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings）
   - 「PDF, DOC, or DOCX」（https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings）
+- 失敗・落とし穴：
+  - 「Hiring signals are underused because reading them well takes more thought than reading a funding announcement. This post covers what job postings actually reveal, the inference mistakes that make people distrust the signal, and how to pull the data programmatically.」（https://renidly.com/blog/hiring-signals-job-postings-data）
+  - 「The inference mistakes that ruin the signal」（https://renidly.com/blog/hiring-signals-job-postings-data）
 - 実例：
+  - 「If your stack is Node, the same call, and note the filter keys keep their camelCase form in both languages because they are Live API parameters:」（https://renidly.com/blog/hiring-signals-job-postings-data）
+  - 「use case, and the filtering techniques that keep a market query from returning everything are in」（https://renidly.com/blog/hiring-signals-job-postings-data）
   - 「Generic technographic providers rely on brittle scraping and pattern matching, missing the nuanced technology signals embedded in job postings, case studies, and SEC filings. A custom inference engine trained on these unstructured sources delivers the precision required for competitor displacement and account-based marketing.」（https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings）
   - 「15 examples」（https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings）
   - 「20K-50K labeled snippets; active learning loop with SME review for edge cases」（https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings）
@@ -329,8 +334,7 @@
   - 「Real‑World Example: Turning a Vague Posting into a Winning Application」（https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings）
   - 「Insert concrete examples—e.g., “Led a cross‑functional team of 5 to deliver project X two weeks ahead of schedule.”」（https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings）
   - 「Add at least one quantified soft‑skill example.」（https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
 
 ## 統計（e-Stat・工業統計・経済センサス）の読み方と時系列の作り方（how to use Japanese government statistics time series）
 - 文脈：統計
@@ -418,6 +422,8 @@
 ## 業界分析・業界構造の調べ方（一次情報から）（industry analysis primary sources method）
 - 文脈：業界
 - 手順・やり方：
+  - 「すぐできる！業界研究のやり方・徹底解説｜就活＜28卒/29卒＞ | type就活」（https://typeshukatsu.jp/s/article/step/research/57960/）
+  - 「すぐできる！業界研究のやり方・徹底解説｜就活＜28卒/29卒＞」（https://typeshukatsu.jp/s/article/step/research/57960/）
   - 「How to Research an Industry: Free Data Guide (2026) | VantaInsights」（https://vantainsights.com/insights/how-to-research-an-industry）
   - 「How To Research An Industry: 2026 Methods & Data」（https://vantainsights.com/insights/how-to-research-an-industry）
   - 「collectively cover employment, wages, revenue, pricing, and competitive structure across virtually every US industry. The challenge is knowing which source to use, when, and how to combine them into a coherent picture.」（https://vantainsights.com/insights/how-to-research-an-industry）
@@ -431,8 +437,6 @@
   - 「第2章: もう迷わない！「業界研究の地図」を手に入れる最初の3ステップ【準備編】」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
   - 「たった3つのステップを踏むだけで、あなたの業界研究は驚くほどスムーズに進み始めます」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
   - 「ステップ1: 「ざっくり自己分析」を全ての始まりのコンパスにする」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
-  - 「ステップ2: 壮大な業界地図を「5つの切り口」でざっくり掴む」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
-  - 「まずはこの5分類を頭に入れて、自分がステップ1で見つけた価値観キーワードと照らし合わせてみましょう」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
 - 突き合わせ・推定：
   - 「Federal data sources give you the defensible foundation that proprietary research estimates cannot — and they're publicly available at no cost.」（https://vantainsights.com/insights/how-to-research-an-industry）
   - 「「（自分の分析や仮説）を踏まえた上で、（企業の未来や戦略に関する）質問をする」」（https://note.com/akatsukikaname7/n/n07b57c8b129d）
@@ -2939,22 +2943,24 @@
 ## 出どころと取り方を分ける証拠の記録（Altss OSINT 検証基準・ICD 203）（OSINT evidence provenance origin vs collection method ICD 203 likelihood language）
 - 文脈：突き合わせ
 - 手順・やり方：
+  - 「Data provenance is the record of where a piece of data came from and how it was produced: the source artefacts, the activities that generated or changed it, the people or systems responsible, and when each step happened.」（https://altss.com/taxonomy/data-and-evidence）
+  - 「Triangulation is the practice of checking a claim against two or more sources, methods or kinds of evidence that are independent of one another, so that their agreement cannot be explained by a shared origin or a shared error.」（https://altss.com/taxonomy/data-and-evidence）
+  - 「A confidence score is a stated measure, numeric or ordinal, of how strongly the available evidence supports a claim, a match or a judgment; its meaning is set by the method that produces it.」（https://altss.com/taxonomy/data-and-evidence）
+  - 「Methodologies and frameworks」（https://altss.com/taxonomy/data-and-evidence）
+  - 「Methodology · Version 1.2」（https://altss.com/taxonomy/data-and-evidence）
+  - 「Altss Source Reliability & Confidence Methodology」（https://altss.com/taxonomy/data-and-evidence）
+  - 「The Altss methodology for grading sources and assigning confidence labels to private-markets claims: source authority classes, reliability and credibility grades adapted from the NATO Admiralty system, independence, use of validation status, conflict handling, label meaning and limits, calibration and decay.」（https://altss.com/taxonomy/data-and-evidence）
+  - 「Altss Entity Resolution Methodology」（https://altss.com/taxonomy/data-and-evidence）
+  - 「The Altss methodology for deciding whether two records describe the same entity: identity, relation and role kept separate; organisations merged only on registry identifiers or a filing naming both as one; similarity creates relation candidates, never merges; no metrics summed across entity families.」（https://altss.com/taxonomy/data-and-evidence）
+  - 「Altss Temporal Data & Freshness Methodology」（https://altss.com/taxonomy/data-and-evidence）
+  - 「The Altss methodology for time in private-markets data: valid time vs transaction time, point-in-time reconstruction, as-of reporting, freshness as an attribute of each claim rather than a page, decay, and why a content edit never implies that a fact was verified.」（https://altss.com/taxonomy/data-and-evidence）
+  - 「The Altss standard for verifying publicly accessible private-markets information: Berkeley Protocol-aligned source, item and content verification, the three evidence dimensions with origin kept separate from collection method, source grading, ICD 203 language for judgments, and source-rights recording.」（https://altss.com/taxonomy/data-and-evidence）
   - 「methodologies: Analytic products should identify underlying sources and methodologies upon」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
   - 「promote awareness of the role, responsibilities, and practices, and how to engage ombuds;」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
   - 「options or to show broader context or background. AR Cs are an appropriate method for」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
-  - 「CIO, the IC shall adopt a method to provide customized, Public Key Infrastructure-enabled」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
-  - 「the protection of sensitive data, sources, methods, and activities. Tearlines should adhere to the」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
-  - 「sources and methods, when disclosure would harm national security. The degree to which」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
-  - 「methodologies: Analytic products should identify underlying sources and methodologies upon」（https://dn790009.ca.archive.org/0/items/6217544-ICD-203-Analytic-Standards/6217544-ICD-203-Analytic-Standards_text.pdf）
-  - 「Altss Private Markets OSINT Verification Standard | Altss Frameworks」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
-  - 「Inspect the methodology」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
-  - 「The Altss standard for verifying publicly accessible private-markets information: Berkeley Protocol-aligned source, item and content verification, the three evidence dimensions with origin kept separate from collection method, source grading, ICD 203 language for judgments, and source-rights recording.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
-  - 「5. Method」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
-  - 「The record kept for each evidence item about a private-markets entity or event: identifier, retrieval date, fixed copy or fingerprint, collection method and rights basis.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
-  - 「Source Reliability & Confidence Methodology」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
-  - 「Entity Resolution Methodology」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
-  - 「Temporal Data & Freshness Methodology」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
 - 突き合わせ・推定：
+  - 「Triangulation (Source Triangulation)」（https://altss.com/taxonomy/data-and-evidence）
+  - 「Triangulation is the practice of checking a claim against two or more sources, methods or kinds of evidence that are independent of one another, so that their agreement cannot be explained by a shared origin or a shared error.」（https://altss.com/taxonomy/data-and-evidence）
   - 「(e.g., "according to ... ") or a specific aspect of analysis (i.e., judgment, assessment, estimate,」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
   - 「Estimates), applicable source information shall be retained for the period of the time horizon or」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
   - 「estimate, compilation, database, graphic, or interactive publication, created by the analytic」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
@@ -2968,9 +2974,9 @@
   - 「案の分析とは、出来事や現象を説明し、近い将来の結果を探り、驚きやリスクを軽減するために起こりうる未来を想像するために、異なる仮説を体系的に評価することである」（https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html）
   - 「分析成果物は、もっともらしい代替仮説を特定し、評価しなければならない」（https://maruyama-mitsuhiko.cocolog-nifty.com/security/2023/08/post-632005.html）
   - 「describes the analyst's actual probability estimate for the event or claim in question. These are independent: an analyst can be highly confident in a low-likelihood judgment (strong evidence supporting an assessment that something is unlikely to happen) just as easily as low-confidence in a high-likelihood judgment (weak, contested evidence pointing toward something probably being true).」（https://verdice.news/article/confidence-grading-the-icd-203-methodology-explained）
-  - 「map to increasingly narrow bands of estimated probability, rather than being left to each writer's individual sense of the word.」（https://verdice.news/article/confidence-grading-the-icd-203-methodology-explained）
-  - 「No — confidence describes how well-supported the analysis itself is (sourcing, reporting volume, reliability); likelihood is the actual probability estimate for the event or claim. An analyst can hold either combination: high confidence in a low-likelihood judgment, or low confidence in a high-likelihood one.」（https://verdice.news/article/confidence-grading-the-icd-203-methodology-explained）
 - 一次情報の探し方：
+  - 「A primary source is a record produced by a person or body with direct knowledge of the fact it records, at or near the time, as opposed to a later account that reports, interprets or repeats it.」（https://altss.com/taxonomy/data-and-evidence）
+  - 「The Altss methodology for deciding whether two records describe the same entity: identity, relation and role kept separate; organisations merged only on registry identifiers or a filing naming both as one; similarity creates relation candidates, never merges; no metrics summed across entity families.」（https://altss.com/taxonomy/data-and-evidence）
   - 「checked against the cited primary sources on」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
   - 「In the Protocol's terms, gaining possession of online information through a screenshot, a conversion to PDF, a download or another form of capture.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
   - 「Filings to, and records kept by, a regulator, statutory registry or court, retrieved from that body's own system」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
@@ -2984,8 +2990,6 @@
   - 「A subject's filing and the same subject's press release are one originating source for facts only the subject can supply. Together they do not make a claim CORROBORATED (see」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
   - 「Filings are the filers' own accounts. A body's acceptance of a filing does not by itself establish that its content is true; for Form ADV the SEC states that accepting the form is not a finding that it was completed correctly.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
   - 「Every evidence item records its capture date and time, the artefact's own publication or filing date, and the as-of date of the value, using the date vocabulary of the Evidence & Provenance Standard. These dates are never substituted for one another.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
-  - 「A copy of a filing hosted by an aggregator.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
-  - 「It is OSINT_SOURCED until the filing is retrieved from the regulator's or registry's own system.」（https://altss.com/knowledge-center/frameworks/osint-framework-for-private-markets-intelligence）
 - 失敗・落とし穴：
   - 「objectivity, bias, politicization, or other issues in Standards application in analytic producti;.」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
   - 「practical mechanisms that reveal and mitigate bias. Analysts should be alert to influence by」（https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf）
@@ -3428,6 +3432,10 @@
 ## 出どころと情報の2軸の格付けの実例（Admiralty Code・NATO・F6の扱い・格上げの条件）（Admiralty code source reliability information credibility grading OSINT practice examples）
 - 文脈：突き合わせ・推定
 - 手順・やり方：
+  - 「Intelligence analysis methodology: how to produce a defensible assessment」（https://preventio.live/knowledge/source-evaluation-admiralty-code）
+  - 「The correct intelligence analysis methodology, step by step: requirements, collection, source evaluation, structured analytic techniques, estimative language, confidence levels and BLUF reporting.」（https://preventio.live/knowledge/source-evaluation-admiralty-code）
+  - 「How to run open-source intelligence for events: define collection requirements, work sources, validate dates and URLs, and turn findings into an actionable security briefing.」（https://preventio.live/knowledge/source-evaluation-admiralty-code）
+  - 「Probability yardsticks, confidence levels and analytic standards: how to phrase intelligence judgements so decision-makers read them the way the analyst intended.」（https://preventio.live/knowledge/source-evaluation-admiralty-code）
   - 「help you evaluate data, demonstrate your methodology, and clearly communicate your analysis work.」（https://kravensecurity.com/source-reliability-and-information-credibility/）
   - 「How the Admiralty (NATO) system grades source reliability A to F and information credibility 1 to 6, why most open-source items start at F6, how corroboration moves grades, and how to grade results from aggregated data sources.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
   - 「Disclaimer: This article is for education and for lawful, authorised professional research. Use these methods only where you have a legitimate purpose and a lawful basis, and follow the laws and platform terms that apply to you, including data protection law such as the UK GDPR and EU GDPR. See our」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
@@ -3439,10 +3447,6 @@
   - 「Step Three: Grade the Claim on Corroboration and Plausibility」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
   - 「Step Four: Store the Grade as a Machine Tag」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
   - 「Step Five: Convert to STIX Confidence When You Share」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
-  - 「Corroboration is the engine of the whole system, and independence is what makes it count. Two sources that both copied the same original post are one source. Before you upgrade anything, ask whether the second source had its own access to the facts: a different dataset, a different collection method, a different moment in time.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
-  - 「OSINT Report Template: How to Write Findings Other Analysts Can Check」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
-  - 「Demystifying Source Reliability: How To Ensure Credible CTI - Kraven Security」（https://kravensecurity.com/source-reliability-and-information-credibility/）
-  - 「Demystifying Source Reliability: How to Ensure Credible CTI」（https://kravensecurity.com/source-reliability-and-information-credibility/）
 - 一次情報の探し方：
   - 「A signed filing obtained directly from the official registry; a certificate transparency log entry; a court's own docket system.」（https://github.com/UseOSINT/Skills/blob/main/skills/investigate-anything/reference/source-grading.md）
   - 「registry filing becomes an」（https://github.com/UseOSINT/Skills/blob/main/skills/investigate-anything/reference/source-grading.md）
@@ -3452,6 +3456,7 @@
   - 「. One account reaches 100+ third-party data sources, OneScan runs your input across the sources you choose and keeps attribution on every result so you can grade each provider properly, Cases in Forensic Mode keep the search history behind every grade, shared team Cases make calibration easy, and SargeBot can draft a PDF report that you verify, grade and sign.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
   - 「How close was the source to the information it is reporting? Primary sources that have direct knowledge are generally more reliable than secondary sources that are passing along information.」（https://kravensecurity.com/source-reliability-and-information-credibility/）
 - 失敗・落とし穴：
+  - 「Circular reporting is when a single original claim is republished by multiple outlets and mistaken for independent corroboration. It artificially inflates credibility ratings and is the most common source-evaluation error in open-source intelligence.」（https://preventio.live/knowledge/source-evaluation-admiralty-code）
   - 「They mean "no basis to judge yet". E and 5 are the negative grades. Treating F6 as "unreliable, false" throws away leads; treating it as "probably fine" invites mistakes. It means: do the work.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
   - 「, found that people rating trustworthiness put substantially more weight on the source than on the information. In other words, analysts naturally over-trust good sources and under-use good information from unknown ones. A written grade for each axis is the practical counter to that bias.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
   - 「of the information? This evaluates the source itself—its history, biases, and overall competence. Strong source reliability」（https://kravensecurity.com/source-reliability-and-information-credibility/）
@@ -3466,7 +3471,6 @@
   - 「5. Consider the Source’s Motivation and Bias」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
   - 「a source is publishing certain information can help contextualise its reliability. Is the content investigative, promotional, political, or satirical? Is it user-generated or professionally produced? Analysing tone, language, and publication history can reveal bias or intent that may affect credibility.」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
   - 「Even with a solid framework and a set of reliable techniques, OSINT evaluation often comes down to the fine details – the subtle clues, the consistency checks, and the instinct honed by experience. This section offers practical, hands-on advice to help you refine your evaluation skills and avoid common pitfalls.」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
-  - 「Can I identify any potential bias?」（https://sosintel.co.uk/evaluating-osint-why-it-matters-and-how-to-do-it-right/）
 - 実例：
   - 「Typical OSINT examples」（https://github.com/UseOSINT/Skills/blob/main/skills/investigate-anything/reference/source-grading.md）
   - 「is not an insult and it is not rare — a single unusual claim early in a case」（https://github.com/UseOSINT/Skills/blob/main/skills/investigate-anything/reference/source-grading.md）
@@ -3483,7 +3487,7 @@
   - 「. One account reaches 100+ third-party data sources, OneScan runs your input across the sources you choose and keeps attribution on every result so you can grade each provider properly, Cases in Forensic Mode keep the search history behind every grade, shared team Cases make calibration easy, and SargeBot can draft a PDF report that you verify, grade and sign.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
   - 「OSINT investigation guides, case studies and tooling deep-dives from the UserSearch team.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
   - 「Here are some examples of Admiralty Code ratings and subsequent actions to be taken:」（https://kravensecurity.com/source-reliability-and-information-credibility/）
-- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
 
 ## e-Stat・統計の探し方の実務家の書き手（元自治体職員・統計の専門家の note とブログ）（e-Stat practical search techniques statistical code metadata notes）
 - 文脈：探し先・書き手
@@ -9866,11 +9870,11 @@
 
 ## 食い違う市場調査の推計を方法・標本数・調査対象・出資者の開示で振り分ける実務（調査概要の読み方・開示しない推計の扱い・HR Fraternity ほか）（reconciling conflicting market research estimates methodology disclosure sample size sponsor bias）
 - 文脈：裏取り
-- 手順・やり方：記載なし（読んだ29頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
-- 実例：記載なし（読んだ29頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 業種・会社の比較で平均並みの幅（標準誤差・95%の幅）を引いて高い・低いを決める報道の実務（Journalist's Resource・データ報道の手引き）（data journalism making the call close comparisons standard error confidence interval ranking）
 - 文脈：突き合わせ
@@ -13975,70 +13979,70 @@
 ## 名寄せ・照合の正解表を独立の出どころで作る実務（今の結果を下書きにしない・抜き取りの大きさとまとまりの偏り）（entity resolution ground truth independent source benchmark bias evaluation）
 - 文脈：検証
 - 手順・やり方：
-  - 「How to Evaluate Entity Resolution Systems:An Entity-Centric Framework with Application toInventor Name Disambiguation」（https://arxiv.org/html/2404.05622）
-  - 「How to Evaluate Entity Resolution Systems:」（https://arxiv.org/html/2404.05622）
-  - 「An Entity-Centric Framework with Application to」（https://arxiv.org/html/2404.05622）
-  - 「In this article, we address evaluating the accuracy of entity resolution systems. Traditional evaluation methods often rely on manually reviewing pairs of records to validate linkage predictions. However, finding matching pairs, especially those missed by the entity resolution system, is much like looking for a needle in a haystack: in a database of」（https://arxiv.org/html/2404.05622）
-  - 「evaluation framework with the following components.」（https://arxiv.org/html/2404.05622）
-  - 「A methodology for creating a benchmark set of fully-resolved entities through manual data labeling (section」（https://arxiv.org/html/2404.05622）
-  - 「evaluation. That is, we evaluate the end result of an entity resolution system, without considering its specific architecture. This allows our framework to apply to any entity resolution system, as long as it produces a clustering as an output.」（https://arxiv.org/html/2404.05622）
-  - 「represents the elements of the evaluation framework as well as their interdependencies.」（https://arxiv.org/html/2404.05622）
-  - 「. This can lead to inaccurate representation of model performance and erroneous ranking of competing methods. In particular, the naive computation of pairwise precision on benchmark data sets has been shown to provide over-optimistic results」（https://arxiv.org/html/2404.05622）
-  - 「, we introduce the proposed methodology. In section」（https://arxiv.org/html/2404.05622）
-  - 「We then discuss our motivating data and application in more detail. Finally, we provide additional information on current industry standards for the evaluation of entity resolution systems, using the methodology used by Statistics Canada as an example.」（https://arxiv.org/html/2404.05622）
-  - 「. Most of these data sets provide “ground truth” disambiguation (of various quality) of a specific subset of inventors for a given time period. They are all cluster samples that fit our evaluation framework. However, except for the new inventor benchmark data developed in」（https://arxiv.org/html/2404.05622）
-  - 「. All other linkages are classified as operational, such as linkages that support specific steps in a sample survey, e.g., frame maintenance operations, like removing duplicates or linking different sampling frames in a multi-frame survey. For all the linkages, regardless of their purpose, the accuracy of the linkage decisions is measured with clerical reviews or a statistical model.」（https://arxiv.org/html/2404.05622）
-  - 「We now describe our evaluation framework in detail.」（https://arxiv.org/html/2404.05622）
-  - 「. To evaluate the entity resolution system, we introduce a methodology that samples clusters」（https://arxiv.org/html/2404.05622）
+  - 「This paper introduces a novel evaluation methodology for entity resolution algorithms. It is motivated」（https://arxiv.org/pdf/2210.01230）
+  - 「using an entity resolution algorithm. We provide a data collection methodology and tailored performance」（https://arxiv.org/pdf/2210.01230）
+  - 「performance. In the case of PatentsView’s disambiguation, no principled evaluation methodology is avail-」（https://arxiv.org/pdf/2210.01230）
+  - 「able to measure performance, to inform users of the reliability of the data, and to support methodological」（https://arxiv.org/pdf/2210.01230）
+  - 「porting methodological research to improve disambiguation algorithms. We propose novel evaluation method-」（https://arxiv.org/pdf/2210.01230）
+  - 「datasets, with nearly perfect precision and recall reported in the latest methodological report (Monath et al.,」（https://arxiv.org/pdf/2210.01230）
+  - 「There are two main uses for accurate and statistically rigorous evaluation methodology.」（https://arxiv.org/pdf/2210.01230）
+  - 「biguation methodology. This requires choosing between alternative methods and evaluating the results of」（https://arxiv.org/pdf/2210.01230）
+  - 「methodological experiments. Without sound evaluation methodology, decisions regarding the disambigua-」（https://arxiv.org/pdf/2210.01230）
+  - 「disambiguation methodology for evaluation, the proposed estimators, and our simulation study that we use」（https://arxiv.org/pdf/2210.01230）
+  - 「2 Data and Methodology」（https://arxiv.org/pdf/2210.01230）
+  - 「In this section, we introduce the benchmark datasets used at PatentsView, our hand-disambiguation method-」（https://arxiv.org/pdf/2210.01230）
+  - 「ology, our proposed performance metric estimators, and the simulation framework that we use to compare」（https://arxiv.org/pdf/2210.01230）
+  - 「2.2 Hand-Disambiguation Methodology」（https://arxiv.org/pdf/2210.01230）
+  - 「Note that our data collection methodology is biased toward PantentsView’s current disambiguation.」（https://arxiv.org/pdf/2210.01230）
 - 突き合わせ・推定：
-  - 「2. Global Performance Metric Estimates:」（https://arxiv.org/html/2404.05622）
-  - 「To obtain estimates of global performance metrics such as pairwise and b-cubed precision and recall」（https://arxiv.org/html/2404.05622）
-  - 「, we express them as weighted aggregates of cluster-wise error metrics. This helps obtain estimates that are representative of the system’s performance on the entire data set, not just the benchmark (section」（https://arxiv.org/html/2404.05622）
-  - 「, even when the true precision for the entire data set may be much lower. When combining biased precision estimates with recall estimates into an F1 score, this can lead to performance rank reversals: an algorithm may be assessed to perform better than another with high confidence, despite the opposite being true in practice」（https://arxiv.org/html/2404.05622）
-  - 「, we show the estimated numbers of citations to PatentsView in the academic literature over time and by Dewey Decimal subject classification.」（https://arxiv.org/html/2404.05622）
-  - 「Estimated number of citations to PatentsView in academic literature by year.」（https://arxiv.org/html/2404.05622）
-  - 「to characterize the linkage accuracy at the level of the record pairs. The LR metric highlights potential biases, here linkage rate differences across subgroups, by measuring the variance of estimated linkage propensities.」（https://arxiv.org/html/2404.05622）
-  - 「At Statistics Canada, accuracy measures are estimated primarily through clerical reviews」（https://arxiv.org/html/2404.05622）
-  - 「. These groups are essentially connected components in the graph where the vertices are the records and the edges are the links. To cut costs, Statistics Canada is also considering model-based estimates」（https://arxiv.org/html/2404.05622）
-  - 「), or estimated for the unknown ground truth clustering」（https://arxiv.org/html/2404.05622）
-  - 「clusters to estimate the expectations in the numerators and denominators separately—for example, we can estimate each expectation with its corresponding weighted sample average—and take the ratio of the relevant estimated expectations.」（https://arxiv.org/html/2404.05622）
-  - 「), which then can be estimated in the same way.」（https://arxiv.org/html/2404.05622）
-  - 「can result in increased accuracy relative to simple random sampling of clusters. In particular, when a cluster-level outcome of interest is correlated with the size of the cluster, the probability proportional to size design offers smaller standard errors in estimates of population quantities」（https://arxiv.org/html/2404.05622）
-  - 「, and will artificially inflate performance metrics estimates. The correct approach is to first identify entities」（https://arxiv.org/html/2404.05622）
-  - 「, and performance estimates can be obtained by restricting the sample to this subset. For example, with pairwise precision, this corresponds to estimating the ratio of the number of pairwise links within clusters in」（https://arxiv.org/html/2404.05622）
+  - 「is to obtain estimates that are representative of performance on the full data, for which no ground truth」（https://arxiv.org/pdf/2210.01230）
+  - 「tative performance estimates (Fuller, 2011).」（https://arxiv.org/pdf/2210.01230）
+  - 「Figure 1: Distribution of precision estimates versus the true precision of 52% (shown as a dotted vertical」（https://arxiv.org/pdf/2210.01230）
+  - 「line). Panel A shows the trivial precision estimates computed for sampled records. Panel B shows our」（https://arxiv.org/pdf/2210.01230）
+  - 「proposed precision estimates which accounts for the sampling mechanism. Sample bias and root mean squared」（https://arxiv.org/pdf/2210.01230）
+  - 「In panel A of ﬁgure 1, we see the distribution of precision estimates versus the true precision of 52%」（https://arxiv.org/pdf/2210.01230）
+  - 「shown as a dotted vertical line. Precision estimates are usually very close to 100% and always higher than」（https://arxiv.org/pdf/2210.01230）
+  - 「benchmark datasets. In our simulation studies (see Figure 3 for instance), naive precision estimates are」（https://arxiv.org/pdf/2210.01230）
+  - 「estimate precision and recall from sampled record pairs. Other approaches to the estimation of performance」（https://arxiv.org/pdf/2210.01230）
+  - 「metrics are model based, where estimated precision and recall can be obtained from predicted match prob-」（https://arxiv.org/pdf/2210.01230）
+  - 「2. It can easily be generalized to estimate other clustering metrics, such as cluster precision, cluster recall,」（https://arxiv.org/pdf/2210.01230）
+  - 「provide estimates for precision or recall (McVeigh et al., 2019), or provided solutions tailored to very speciﬁc」（https://arxiv.org/pdf/2210.01230）
+  - 「provide cost-eﬀective estimates for any disambiguation algorithm.」（https://arxiv.org/pdf/2210.01230）
+  - 「to validate the performance of our estimators. Section 3 then presents our performance estimates and results」（https://arxiv.org/pdf/2210.01230）
+  - 「estimates based on this data might therefore be slightly optimistic, which should be acknowledged when」（https://arxiv.org/pdf/2210.01230）
 - 失敗・落とし穴：
-  - 「Typical evaluation procedures used in entity resolution can result in misleading conclusions, as some commonly-used performance estimators are biased」（https://arxiv.org/html/2404.05622）
-  - 「, even when the true precision for the entire data set may be much lower. When combining biased precision estimates with recall estimates into an F1 score, this can lead to performance rank reversals: an algorithm may be assessed to perform better than another with high confidence, despite the opposite being true in practice」（https://arxiv.org/html/2404.05622）
-  - 「to characterize the linkage accuracy at the level of the record pairs. The LR metric highlights potential biases, here linkage rate differences across subgroups, by measuring the variance of estimated linkage propensities.」（https://arxiv.org/html/2404.05622）
-  - 「, we also can use the bias-adjusted estimator and variance estimator described in」（https://arxiv.org/html/2404.05622）
-  - 「) within subgroups. We visualize the results by adapting the performance bias module of the Deepchecks Python package」（https://arxiv.org/html/2404.05622）
-  - 「. We make further adjustments to reduce bias in the ratio estimator and its variance estimator using the approach described in」（https://arxiv.org/html/2404.05622）
-  - 「pairwise recall. Note that bias is below」（https://arxiv.org/html/2404.05622）
-  - 「The empirical bias is always smaller than」（https://arxiv.org/html/2404.05622）
-  - 「when going up to samples of size at least 400. This validates the near unbiasedness of the estimators.」（https://arxiv.org/html/2404.05622）
-  - 「pairwise recall. Note that bias is essentially zero when sampling with probability proportional to cluster size (the default approach), and only substantial for pairwise precision estimates when sampling clusters with uniform probabilities.」（https://arxiv.org/html/2404.05622）
-  - 「Seeing the non-stars: (Some) sources of bias in past disambiguation」（https://arxiv.org/html/2404.05622）
-  - 「この照合で、筆者の側の間違いが2つ出ました」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「失敗した6問を見ると、4問が同じ原因です」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「14 渡したのに答えず（読み取りの失敗）」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「7 渡していない（検索の失敗）」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「estimators that account for sampling biases. Our approach is simple, practical and principled – key」（https://arxiv.org/pdf/2210.01230）
+  - 「leads to misleading and highly biased performance metrics as shown in section 1.1. This is concerning given」（https://arxiv.org/pdf/2210.01230）
+  - 「Example 1 (Bias of precision computed on benchmark datasets). To exemplify the problem with the trivial」（https://arxiv.org/pdf/2210.01230）
+  - 「bias = 0.467」（https://arxiv.org/pdf/2210.01230）
+  - 「bias = -0.001」（https://arxiv.org/pdf/2210.01230）
+  - 「proposed precision estimates which accounts for the sampling mechanism. Sample bias and root mean squared」（https://arxiv.org/pdf/2210.01230）
+  - 「proposed precision estimator which is nearly unbiased. Both precision estimators rely on exactly the same」（https://arxiv.org/pdf/2210.01230）
+  - 「discussed in section 1.1, are nearly unbiased, and are easy to use in practice.」（https://arxiv.org/pdf/2210.01230）
+  - 「Furthermore, our approach is novel. To our knowledge, we are the ﬁrst to propose unbiased performance」（https://arxiv.org/pdf/2210.01230）
+  - 「estimators based on cluster and block samples. Past work either ignored biases when computing precision」（https://arxiv.org/pdf/2210.01230）
+  - 「Note that our data collection methodology is biased toward PantentsView’s current disambiguation.」（https://arxiv.org/pdf/2210.01230）
+  - 「readability, we present here a generic formula for an approximately unbiased estimator of the ratio of means」（https://arxiv.org/pdf/2210.01230）
+  - 「and then specify the needed quantities for each representation below. The estimator applies a ﬁrst order bias」（https://arxiv.org/pdf/2210.01230）
+  - 「assuming the corrected estimator has a small bias (S¨ arndal et al., 2003; Fuller, 2011). The generic formula」（https://arxiv.org/pdf/2210.01230）
+  - 「100 times in order to provide the distribution of the estimators and metrics such as bias and root mean」（https://arxiv.org/pdf/2210.01230）
 - 実例：
-  - 「Entity resolution systems typically employ machine learning and artificial intelligence models to tackle this challenge. The models use contextual information to predict whether or not two records refer to the same entity. For example, we can approximately resolve unique inventors by using patent topic, co-authors, employer, and location, in addition to first and last names」（https://arxiv.org/html/2404.05622）
-  - 「Instead of reviewing pairs of records, our evaluation approach utilizes a sample of fully-resolved entities, i.e., ground truth, or known clusters. In this approach, all pairs within a resolved cluster are known to match, and any pair that intersects a resolved cluster but is not contained within it is known to be a non-match. For example, a resolved cluster of」（https://arxiv.org/html/2404.05622）
-  - 「, we showcase its application to inventor name disambiguation and its validation in simulation studies. Finally, we conclude in section」（https://arxiv.org/html/2404.05622）
-  - 「We then discuss our motivating data and application in more detail. Finally, we provide additional information on current industry standards for the evaluation of entity resolution systems, using the methodology used by Statistics Canada as an example.」（https://arxiv.org/html/2404.05622）
-  - 「Example of attributes available for individual inventor mentions. Additional attributes, such as co-inventor information and patent text, are available as well.」（https://arxiv.org/html/2404.05622）
-  - 「. For example, this approach was used to set the record similarity threshold (i.e., how similar two records have to be before they are linked) in the probabilistic linkage between the 2021 census of agriculture and the census of population for the same year」（https://arxiv.org/html/2404.05622）
-  - 「is sampled in any one draw. For example, with probability proportional to size sampling, we have」（https://arxiv.org/html/2404.05622）
-  - 「For example, when sampling clusters with probability proportional to size, we have」（https://arxiv.org/html/2404.05622）
-  - 「clusters to estimate the expectations in the numerators and denominators separately—for example, we can estimate each expectation with its corresponding weighted sample average—and take the ratio of the relevant estimated expectations.」（https://arxiv.org/html/2404.05622）
-  - 「In this case, the probability that a given cluster」（https://arxiv.org/html/2404.05622）
-  - 「. This is the case for PatentsView data, as large clusters tend to be associated with increased chances for errors.」（https://arxiv.org/html/2404.05622）
-  - 「Other sampling designs can be leveraged, in which case the probabilities」（https://arxiv.org/html/2404.05622）
-  - 「should change to match the design. For example, uniform sampling probabilities」（https://arxiv.org/html/2404.05622）
-  - 「can be appropriate when entities, rather than records, are sampled at random. As another example, suppose the disambiguation algorithm provides match probabilities between all pairs of records; that is, we have probabilities」（https://arxiv.org/html/2404.05622）
-  - 「. For example, systematic failure to disambiguate inventor names from a given culture, for instance due to differences in naming conventions, could be considered an unacceptable flaw even if the relative prevalence of such inventors is low. It is therefore necessary to test systems and to investigate errors to help identify such issues」（https://arxiv.org/html/2404.05622）
-- 一次情報の探し方：記載なし（読んだ6頁・検索12回）
+  - 「performance. In the case of PatentsView’s disambiguation, no principled evaluation methodology is avail-」（https://arxiv.org/pdf/2210.01230）
+  - 「example 1 below.」（https://arxiv.org/pdf/2210.01230）
+  - 「Example 1 (Bias of precision computed on benchmark datasets). To exemplify the problem with the trivial」（https://arxiv.org/pdf/2210.01230）
+  - 「used in numerous scientiﬁc studies (Toole et al., 2021). For example, Choudhury and Kim (2019) studied」（https://arxiv.org/pdf/2210.01230）
+  - 「In cases where no errors were found, the current disambiguation was assumed to be correct. Performance」（https://arxiv.org/pdf/2210.01230）
+  - 「Figure 2: Example of ground truth clustering C (represented by boxes with a full border) and pre-」（https://arxiv.org/pdf/2210.01230）
+  - 「Cluster Sampling Representation In the cluster sampling case, sampling probabilities are typically」（https://arxiv.org/pdf/2210.01230）
+  - 「rate helps showcase the properties of our estimators when only a small proportion of the sampled clusters is」（https://arxiv.org/pdf/2210.01230）
+  - 「record/cluster sampling cases, we looked at the eﬀect of sampling 100, 200 and 400 records/clusters.」（https://arxiv.org/pdf/2210.01230）
+  - 「and with the bias adjustment given in (8). Note that in the case of recall with cluster blocks, the」（https://arxiv.org/pdf/2210.01230）
+  - 「naive recall estimator performs well in this case. However, the recall estimator accounting for the sampling」（https://arxiv.org/pdf/2210.01230）
+  - 「size distributions. The bias of ratio estimators can be high in this case, especially when using small samples」（https://arxiv.org/pdf/2210.01230）
+  - 「estimation accuracy in such cases.」（https://arxiv.org/pdf/2210.01230）
+  - 「This section provides more information on example 1.」（https://arxiv.org/pdf/2210.01230）
+  - 「For this example, we considered the RLdata10000 dataset from Sariyar and Borg (2022). This is a」（https://arxiv.org/pdf/2210.01230）
+- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
 
 ## 統計の系列の断層（調査の切り替え・対象範囲の変更・新規事業所の繰り入れ）を見つけて接続する実務と、固定基準の指数が基準から遠いほど偏る点の扱い（鉱工業指数の作り方の解説・統計の利用者の書き手）（statistical series break linking coverage change fixed base index bias practice）
 - 文脈：突き合わせ

@@ -1,0 +1,973 @@
+{
+ "name": "Getcargo",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜商談中",
+ "researched_at": "2026-11-10T17:05:00.255429+00:00",
+ "official_url": "https://www.getcargo.io",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Give your coding agent the primitives to build your go-to-market. Cargo runs it.",
+    "url": "https://www.getcargo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "One platform and one bill, data providers included",
+    "url": "https://www.getcargo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Data models, context, tools, agents and plays, each already built to run in production. Your agent puts them together for your GTM, and your reps use the same ones in the app.",
+    "url": "https://www.getcargo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your raw data: CRM, warehouse, product usage and enrichment merged into one set of companies, contacts and deals.",
+    "url": "https://www.getcargo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "What you learn from that data, written down as files in your repo: your ICP, personas, objections and rules. Every agent reads the same files.",
+    "url": "https://www.getcargo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Who sells where, defined once: reps synced from your CRM, grouped into territories, each with a cap. Every play and agent that assigns a lead reads them.",
+    "url": "https://www.getcargo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Built into every primitive: each run of a play, agent or tool is traced step by step, with what it returned and what it cost. Alerts tell you when something fails.",
+    "url": "https://www.getcargo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "How it ships and stays working. Your agent writes the primitives as code in a repo you own, you review the pull request, and merging deploys it.",
+    "url": "https://www.getcargo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "cargo-ai project plan",
+    "url": "https://www.getcargo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "posted on PR #42",
+    "url": "https://www.getcargo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "cargo-ai project deploy",
+    "url": "https://www.getcargo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "4. Agents improve it",
+    "url": "https://www.getcargo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "awaiting your approval",
+    "url": "https://www.getcargo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Nothing goes live until you approve it. Each approved edit goes through steps 2 and 3 again.",
+    "url": "https://www.getcargo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "For GTM engineers, RevOps and revenue teams. Cargo reads from your tools and writes the results back where your team works.",
+    "url": "https://www.getcargo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your warehouse or product database",
+    "url": "https://www.getcargo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Cargo Signals: job changes, funding and hiring",
+    "url": "https://www.getcargo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The primitives, as code",
+    "url": "https://www.getcargo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Every primitive, as a file in a repo you own.",
+    "url": "https://www.getcargo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Alerts and approvals for your team",
+    "url": "https://www.getcargo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Each of these is a cookbook: primitives already wired together for one job. Your coding agent adds it to your repo and adapts it to your team.",
+    "url": "https://www.getcargo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "I built a meeting prep agent in one Claude Code session. It pulls Gong calls, Salesforce history, deal-won patterns, and sales activity, and generates a full brief before every meeting. My reps went from 30 minutes of prep to zero. The data was always there. It just needed infrastructure to act on it.",
+    "url": "https://www.getcargo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your coding agent writes the workflows, and Cargo runs them in production.",
+    "url": "https://www.getcargo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our team builds, operates and continuously improves it with you.",
+    "url": "https://www.getcargo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "A dedicated Slack channel, onboarding and on-demand calls",
+    "url": "https://www.getcargo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Bug fixes and improvements",
+    "url": "https://apps.apple.com/in/app/getcargo/id6467880183",
+    "pass": 3
+   },
+   {
+    "quote": "29 Apr",
+    "url": "https://apps.apple.com/in/app/getcargo/id6467880183",
+    "pass": 3
+   },
+   {
+    "quote": ", indicated that the app’s privacy practices may include handling of data as described below. This information has not been verified by Apple. For more information, see the",
+    "url": "https://apps.apple.com/in/app/getcargo/id6467880183",
+    "pass": 3
+   },
+   {
+    "quote": "developer’s privacy policy",
+    "url": "https://apps.apple.com/in/app/getcargo/id6467880183",
+    "pass": 3
+   },
+   {
+    "quote": "manage your privacy choices",
+    "url": "https://apps.apple.com/in/app/getcargo/id6467880183",
+    "pass": 3
+   },
+   {
+    "quote": "Privacy Definitions and Examples",
+    "url": "https://apps.apple.com/in/app/getcargo/id6467880183",
+    "pass": 3
+   },
+   {
+    "quote": "Privacy practices may vary based, for example, on the features you use or your age.",
+    "url": "https://apps.apple.com/in/app/getcargo/id6467880183",
+    "pass": 3
+   },
+   {
+    "quote": "Product Personalisation",
+    "url": "https://apps.apple.com/in/app/getcargo/id6467880183",
+    "pass": 3
+   },
+   {
+    "quote": ", indicated that the app’s privacy practices may include handling of data as described below. For more information, see the",
+    "url": "https://apps.apple.com/in/app/getcargo/id6467880183",
+    "pass": 3
+   },
+   {
+    "quote": "Local Expedited Loads",
+    "url": "https://apps.apple.com/in/app/getcargo/id6467880183",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/getcargo.io",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/getcargo.io",
+    "pass": 3
+   },
+   {
+    "quote": "GetCargo.ai Review 2026: Pricing, Features & Honest Verdict | SyncGTM",
+    "url": "https://syncgtm.com/blog/getcargo-review",
+    "pass": 3
+   },
+   {
+    "quote": "GetCargo.ai Review 2026: Pricing, Features & Honest Verdict",
+    "url": "https://syncgtm.com/blog/getcargo-review",
+    "pass": 3
+   },
+   {
+    "quote": "Your GTM stack is five tools held together with Zapier and hope. Leads come from forms, intent signals, CRM updates, and product events. Somebody has to stitch all of that into a pipeline that converts. That is the problem",
+    "url": "https://syncgtm.com/blog/getcargo-review",
+    "pass": 3
+   },
+   {
+    "quote": "Cargo calls itself an AI revenue orchestration platform. Instead of connecting ten tools with Zapier, you build multi-agent workflows that extract, enrich, qualify, and engage leads automatically. It is Y Combinator-backed (S23 batch), raised a",
+    "url": "https://syncgtm.com/blog/getcargo-review",
+    "pass": 3
+   },
+   {
+    "quote": "covers the real pricing (not the marketing page version), what the AI agents actually do, where the platform falls short, and which plan fits which team. No fluff. No affiliate links.",
+    "url": "https://syncgtm.com/blog/getcargo-review",
+    "pass": 3
+   },
+   {
+    "quote": "(as of September 2026): Free (100 credits), Standard ($165/mo, 1.5K credits), Professional ($250/mo, 2.5K credits), Enterprise ($1,190/mo, 17K credits), Custom ($3,000+/mo, 50K+ credits)",
+    "url": "https://syncgtm.com/blog/getcargo-review",
+    "pass": 3
+   },
+   {
+    "quote": ": steep learning curve, complex 3-part credit model, no native outreach sequencer, near-zero public reviews, smaller enrichment network (~15 built-in providers)",
+    "url": "https://syncgtm.com/blog/getcargo-review",
+    "pass": 3
+   },
+   {
+    "quote": "— strong orchestration concept, but pricing, complexity, and gaps hold it back for most teams",
+    "url": "https://syncgtm.com/blog/getcargo-review",
+    "pass": 3
+   },
+   {
+    "quote": "and RevOps teams who need to automate the full lead lifecycle — from data extraction through enrichment and scoring to engagement. Over 1,000 GTM professionals use the platform, and it holds SOC 2 Type II certification.",
+    "url": "https://syncgtm.com/blog/getcargo-review",
+    "pass": 3
+   },
+   {
+    "quote": "~15 built-in providers + third-party via integrations",
+    "url": "https://syncgtm.com/blog/getcargo-review",
+    "pass": 3
+   },
+   {
+    "quote": "SSO only on Enterprise ($1,190/mo) and above",
+    "url": "https://syncgtm.com/blog/getcargo-review",
+    "pass": 3
+   },
+   {
+    "quote": "GetCargo.ai AI Agents: What's Real vs. What's Marketing",
+    "url": "https://syncgtm.com/blog/getcargo-review",
+    "pass": 3
+   },
+   {
+    "quote": "Gathers and verifies lead data from multiple sources automatically. Pulls company news, hiring signals, tech stack data, and firmographics. This is where Cargo's enrichment integrations come into play — though the built-in provider count (~15) is smaller than competitors.",
+    "url": "https://syncgtm.com/blog/getcargo-review",
+    "pass": 3
+   },
+   {
+    "quote": "Scores and categorizes leads based on fit and intent signals in real time. Applies your scoring criteria automatically so reps only see leads matching your ICP. Useful for teams drowning in unqualified inbound — but you need to architect the scoring logic yourself.",
+    "url": "https://syncgtm.com/blog/getcargo-review",
+    "pass": 3
+   },
+   {
+    "quote": "The 4-Step Orchestration Process",
+    "url": "https://syncgtm.com/blog/getcargo-review",
+    "pass": 3
+   },
+   {
+    "quote": "(pull leads from CRMs, forms, intent alerts, product events),",
+    "url": "https://syncgtm.com/blog/getcargo-review",
+    "pass": 3
+   },
+   {
+    "quote": "(layer data from providers to build complete profiles),",
+    "url": "https://syncgtm.com/blog/getcargo-review",
+    "pass": 3
+   },
+   {
+    "quote": "GetCargo.ai Pricing: What You Actually Pay",
+    "url": "https://syncgtm.com/blog/getcargo-review",
+    "pass": 3
+   },
+   {
+    "quote": "Professional (from $250/mo):",
+    "url": "https://syncgtm.com/blog/getcargo-review",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise (from $1,190/mo):",
+    "url": "https://syncgtm.com/blog/getcargo-review",
+    "pass": 3
+   },
+   {
+    "quote": "17,000 credits per month. Priority support. SSO included.",
+    "url": "https://syncgtm.com/blog/getcargo-review",
+    "pass": 3
+   },
+   {
+    "quote": "This is where GetCargo.ai pricing gets complicated. There are three types of credit consumption:",
+    "url": "https://syncgtm.com/blog/getcargo-review",
+    "pass": 3
+   },
+   {
+    "quote": "Cost matches each data provider's pricing shown in the interface. One enrichment call = one or more credits depending on the provider.",
+    "url": "https://syncgtm.com/blog/getcargo-review",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by GTM teams at",
+    "url": "https://www.getcargo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your raw data: CRM, warehouse, product usage and enrichment merged into one set of companies, contacts and deals.",
+    "url": "https://www.getcargo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your warehouse or product database",
+    "url": "https://www.getcargo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your tools stay: your CRM, your warehouse and your sequencer. What you stop building and maintaining is everything between them: the scripts and glue, scheduling, retries and rate limits, matching records to accounts, connector logins, and tracing a run that went wrong. Cargo is the infrastructure those workflows run on.",
+    "url": "https://www.getcargo.ai/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "For GTM engineers, RevOps and revenue teams. Cargo reads from your tools and writes the results back where your team works.",
+    "url": "https://www.getcargo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "For revenue leaders and teams that want it built and run for them",
+    "url": "https://www.getcargo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Cargo Revenue 2024: $5M Est.",
+    "url": "https://getlatka.com/companies/getcargo.io",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Operations & Intelligence (RO&I) Software",
+    "url": "https://getlatka.com/companies/getcargo.io",
+    "pass": 3
+   },
+   {
+    "quote": "Cargo is a Revenue Operations & Intelligence (RO&I) Software company based in San Francisco, founded in 2022.",
+    "url": "https://getlatka.com/companies/getcargo.io",
+    "pass": 3
+   },
+   {
+    "quote": "Cargo has not published its revenue. GetLatka estimates it at about $5M a year (June 2024).",
+    "url": "https://getlatka.com/companies/getcargo.io",
+    "pass": 3
+   },
+   {
+    "quote": "Cargo CEO, founders & employees",
+    "url": "https://getlatka.com/companies/getcargo.io",
+    "pass": 3
+   },
+   {
+    "quote": "Aurelien Aubert founded Cargo in 2022 and runs it as CEO. Cargo had 5–33 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/getcargo.io",
+    "pass": 3
+   },
+   {
+    "quote": "What is Cargo's revenue?",
+    "url": "https://getlatka.com/companies/getcargo.io",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Cargo's revenue at about",
+    "url": "https://getlatka.com/companies/getcargo.io",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Cargo have?",
+    "url": "https://getlatka.com/companies/getcargo.io",
+    "pass": 3
+   },
+   {
+    "quote": "Browse Revenue Operations & Intelligence (RO&I) Software",
+    "url": "https://getlatka.com/companies/getcargo.io",
+    "pass": 3
+   },
+   {
+    "quote": "All Revenue Operations & Intelligence (RO&I) Software companies, ranked",
+    "url": "https://getlatka.com/companies/getcargo.io",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Revenue Optimization (CRO) Software",
+    "url": "https://getlatka.com/companies/getcargo.io",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/getcargo.io",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/getcargo.io",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/getcargo.io",
+    "pass": 3
+   },
+   {
+    "quote": "Cargo calls itself an AI revenue orchestration platform. Instead of connecting ten tools with Zapier, you build multi-agent workflows that extract, enrich, qualify, and engage leads automatically. It is Y Combinator-backed (S23 batch), raised a",
+    "url": "https://syncgtm.com/blog/getcargo-review",
+    "pass": 3
+   },
+   {
+    "quote": "Y Combinator-backed AI revenue orchestration platform",
+    "url": "https://syncgtm.com/blog/getcargo-review",
+    "pass": 3
+   },
+   {
+    "quote": "is an AI revenue orchestration platform founded by Aurelien Aubert and Maxence De Villepion. It targets",
+    "url": "https://syncgtm.com/blog/getcargo-review",
+    "pass": 3
+   },
+   {
+    "quote": "is the four AI agent types. Each handles a different stage of the revenue pipeline. All four are available on every plan, including free.",
+    "url": "https://syncgtm.com/blog/getcargo-review",
+    "pass": 3
+   },
+   {
+    "quote": "shows 0.0/5 with zero reviews. G2 has a profile but minimal content. Reddit discussions are nonexistent. Notable customers like Descript, Gorgias, and Ashby are listed, but the lack of independent third-party reviews makes it hard to assess real-world performance at scale.",
+    "url": "https://syncgtm.com/blog/getcargo-review",
+    "pass": 3
+   },
+   {
+    "quote": "GetCargo.ai is a good fit for mid-market and enterprise GTM teams (50+ employees) with a dedicated RevOps or GTM engineering function. If your team has the technical chops to build complex multi-agent workflows and the budget for $165–$1,190+/mo, Cargo delivers real value by centralizing the revenue pipeline into one orchestration platform.",
+    "url": "https://syncgtm.com/blog/getcargo-review",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Cargo is where your GTM workflows run: the ones that enrich, score, route and email your leads and accounts. Your coding agent (Claude Code, Cursor or Codex) writes them in TypeScript with the Cargo CDK and CLI, in a git repository you own. Cargo runs them in production and logs every step of every run.",
+    "url": "https://www.getcargo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact Us | Get Cargo inc.",
+    "url": "https://www.getcargo.com/node/5",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us over phone or email",
+    "url": "https://www.getcargo.com/node/5",
+    "pass": 3
+   },
+   {
+    "quote": "Automates personalized outreach across email, SMS, and task creation. Cargo claims a \"human touch,\" but this is AI-generated copy. It handles volume, not nuance. Not a replacement for a skilled SDR. And it is not a sequence builder — you configure it through the agent workflow.",
+    "url": "https://syncgtm.com/blog/getcargo-review",
+    "pass": 3
+   },
+   {
+    "quote": "(trigger outreach via email, SMS, or task assignment).",
+    "url": "https://syncgtm.com/blog/getcargo-review",
+    "pass": 3
+   },
+   {
+    "quote": "1,500 credits per month. Email support. All integrations, AI agents, and workflows included.",
+    "url": "https://syncgtm.com/blog/getcargo-review",
+    "pass": 3
+   },
+   {
+    "quote": "2,500 credits per month. Email support.",
+    "url": "https://syncgtm.com/blog/getcargo-review",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Contact Us | Get Cargo inc. — Contact Us | Get Cargo inc. Get Cargo inc. | https://www.getcargo.com > node",
+    "url": "https://www.getcargo.com/node/5",
+    "pass": 3
+   },
+   {
+    "quote": "GetCargo - App Store - Apple — GetCargo - App Store - Apple Apple https://apps.apple.com > app > getcargo",
+    "url": "https://apps.apple.com/in/app/getcargo/id6467880183",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories | Cargo — Customer Stories | Cargo getcargo.ai https://www.getcargo.ai > stories",
+    "url": "https://www.getcargo.ai/stories",
+    "pass": 3
+   },
+   {
+    "quote": "Cargo Partner Program | Deliver GTM outcomes faster — Cargo Partner Program | Deliver GTM outcomes faster getcargo.ai https://www.getcargo.ai > partner-pro...",
+    "url": "https://www.getcargo.ai/partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Cargo Revenue 2024: $5M Est. - GetLatka — Cargo Revenue 2024: $5M Est. - GetLatka GetLatka https://getlatka.com > getcargo",
+    "url": "https://getlatka.com/companies/getcargo.io",
+    "pass": 3
+   },
+   {
+    "quote": "GetCargo .ai Review 2026: Pricing, Features & Honest Verdict — GetCargo .ai Review 2026: Pricing, Features & Honest Verdict SyncGTM https://syncgtm.com > Blog",
+    "url": "https://syncgtm.com/blog/getcargo-review",
+    "pass": 3
+   },
+   {
+    "quote": "Cargo: Go-to-Market Infrastructure for Coding Agents — Cargo: Go-to-Market Infrastructure for Coding Agents getcargo.ai https://www.getcargo.ai",
+    "url": "https://www.getcargo.ai/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Get Cargo Inc. is hiring experienced owner operators and ... Get Cargo Inc. is hiring experienced owner operators and ... Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/1377087092352875/posts/29005524579082421/",
+    "pass": 3
+   },
+   {
+    "quote": "How to get cargo van freight loads without a load board How to get cargo van freight loads without a load board Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/507055348092825/posts/1676529987812016/",
+    "pass": 3
+   },
+   {
+    "quote": "Can someone with a 4-year-old DUI get cargo insurance for ... Can someone with a 4-year-old DUI get cargo insurance for ... Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/537559082166846/posts/1159634233292658/",
+    "pass": 3
+   },
+   {
+    "quote": "How to get cargo van contracts for freight expediting - Facebook How to get cargo van contracts for freight expediting - Facebook Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/507055348092825/posts/1568790215252661/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.getcargo.ai/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.getcargo.ai/static/img/logos/customers/augment.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.getcargo.ai/static/img/logos/customers/wandb.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.getcargo.ai/static/img/logos/customers/dust.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.getcargo.ai/static/img/logos/customers/workos.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycar-life.com/article/2026/11/08/32725.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amesha-world.com/info/detail.php?id=4277",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=m9qq9nQP9KI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.biz.ne.jp/list/corporate-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getcargo.com/node/5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jal.co.jp/jp/en/jalcargo/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://apps.apple.com/in/app/getcargo/id6467880183",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/cargo-hq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://c3.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pimcore.com/en/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getcargo.ai/stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanerika.com/blogs/generative-ai-in-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getcargo.ai/partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=AMYjabw_oEA",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/cargo-d02f",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/getcargo.io",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://syncgtm.com/blog/getcargo-review",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getcargo.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/groups/1377087092352875/posts/29005524579082421/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/507055348092825/posts/1676529987812016/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/537559082166846/posts/1159634233292658/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/507055348092825/posts/1568790215252661/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Getcargo 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.mycar-life.com/article/2026/11/08/32725.html",
+    "https://amesha-world.com/info/detail.php?id=4277",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://www.facebook.com/impress.carwatch/posts/stellantis%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%83%95%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88%E3%83%A9%E3%83%83%E3%82%AFram-1500-limited%E6%97%A5%E6%9C%AC%E5%B0%8E%E5%85%A5-2027%E5%B9%B4%E3%81%AB%E3%81%BE%E3%81%9A%E3%81%AF100%E5%8F%B0%E3%82%92%E7%99%BA%E5%A3%B2%E4%BA%88%E5%AE%9A-ram-%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88/1595981509000273/",
+    "https://trafficnews.jp/post/725198",
+    "https://www.webcg.net/articles/-/54501",
+    "https://kuruma-news.jp/post/1135272",
+    "https://www.toolmage.com/ja/tool/getcargo/",
+    "https://getcargo.in/zh"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Getcargo 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.youtube.com/watch?v=m9qq9nQP9KI",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.biz.ne.jp/list/corporate-agency/",
+    "https://ecnomikata.com/blog/51120/",
+    "https://glohai.com/sales-channel-development",
+    "https://www.bgent.net/",
+    "https://b-seeds.com/business/use/contract/outsourcing",
+    "https://www.qubo.jp/agency",
+    "https://ja.wikipedia.org/wiki/秦英之"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Getcargo Japan",
+   "results": [
+    "https://www.getcargo.com/node/5",
+    "https://www.jal.co.jp/jp/en/jalcargo/",
+    "https://apps.apple.com/in/app/getcargo/id6467880183",
+    "https://www.linkedin.com/company/cargo-hq",
+    "https://www.dgxglobal.com/country/35/shipping-to-Japan",
+    "https://syncgtm.com/blog/getcargo-review",
+    "https://www.customs.go.jp/english/",
+    "https://play.google.com/store/apps/details?id=com.uts.owner",
+    "https://getlatka.com/companies/getcargo.io",
+    "https://get-jpn.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Getcargo manufacturing customer case study",
+   "results": [
+    "https://c3.ai/customers",
+    "https://pimcore.com/en/customers",
+    "https://www.getcargo.ai/stories",
+    "https://kanerika.com/blogs/generative-ai-in-manufacturing/",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vIMgdDYFA0W6MyrHAgn-5_515slgJ7NTzsrGZXOP2a_KBRueXeK",
+    "https://www.cognizant.com/us/en/case-studies",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://kt.team/cases/manufacturing",
+    "https://www.scribd.com/document/924770719/CargoFL-Case-Study-v1-Fortune-500-Manufacturing-Enterprise",
+    "https://getcargos.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Getcargo white label OR reseller OR partner program",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "https://www.getcargo.ai/partner-program",
+    "https://www.youtube.com/watch?v=AMYjabw_oEA",
+    "https://seedlycrm.com/blog/white-label-crm-playbook",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://www.agencyplatform.com/seo-reseller-program/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Getcargo founded funding employees revenue",
+   "results": [
+    "https://www.crunchbase.com/organization/cargo-d02f",
+    "https://getlatka.com/companies/getcargo.io",
+    "https://syncgtm.com/blog/getcargo-review",
+    "https://www.getcargo.ai/",
+    "https://www.linkedin.com/company/cargo-hq",
+    "https://www.ycombinator.com/companies/cargo",
+    "https://pitchbook.com/profiles/company/534512-53",
+    "https://tracxn.com/d/companies/cargo/__xfmCLNNDxjhbveuSqwNF_Oo0WJaeP4oTLWjgh6RxW0o",
+    "https://www.nrev.ai/blog/nrev-vs-getcargo",
+    "https://getlatka.com/companies/getcargo.io/team"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Getcargo",
+   "results": [
+    "https://note.com/yuuki_toe/n/nd77f4cb870e9?hl=en",
+    "https://note.com/cute_agapan9087/n/n3cd435521410",
+    "https://note.com/noted_m5o/n/na5ef234d64aa?hl=en",
+    "https://note.com/recobarry/n/n937a760c6077",
+    "https://note.com/nonakichi/n/n2ace680f4428",
+    "https://note.com/brisk_rail7767/n/n3e573f12f884?hl=en",
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/seigo77",
+    "https://note.com/chokuzen_note/n/n73e94d9f7f0c?hl=en",
+    "https://note.com/ukalabo/n/n4853372a3502?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:x.com Getcargo",
+   "results": [
+    "https://x.com/ycombinator/status/2103546401011745125",
+    "https://x.com/RFERL/status/2118063143364805065",
+    "https://x.com/Brett_CBC",
+    "https://x.com/adonis_oblivion/status/2119023299996828052",
+    "https://x.com/TryQ_",
+    "https://x.com/hashtag/%E5%BE%A9%E7%BF%92%E4%B8%AD",
+    "https://x.com/getcargo",
+    "https://x.com/getcargo_io",
+    "https://x.com/getcargo/status/26961471658",
+    "https://x.com/getcargo/status/27034802040"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:linkedin.com Getcargo",
+   "results": [
+    "https://www.linkedin.com/company/cargo-hq",
+    "https://www.linkedin.com/in/auree",
+    "https://www.linkedin.com/in/dwayneyap95",
+    "https://www.linkedin.com/posts/laurens-nys_the-future-of-gtm-engineering-isnt-in-clay-activity-7285204171526406167-1pQt",
+    "https://www.linkedin.com/posts/majavoje_gtm-engineering-now-means-two-different-activity-7490407762334646272-Itys",
+    "https://www.linkedin.com/company/ut-service-inc",
+    "https://www.linkedin.com/posts/janbrochwicz_10-github-repos-to-become-a-gtm-engineer-activity-7439953965032652802-omfW",
+    "https://www.linkedin.com/posts/bala-murugan-45663418a_logistics-hbl-mbl-activity-7381724999725797376-P9oQ",
+    "https://www.linkedin.com/in/jenenemb",
+    "https://www.linkedin.com/company/getcargo"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Getcargo",
+   "results": [
+    "https://www.facebook.com/groups/1377087092352875/posts/29005524579082421/",
+    "https://www.facebook.com/groups/507055348092825/posts/1676529987812016/",
+    "https://www.facebook.com/groups/537559082166846/posts/1159634233292658/",
+    "https://www.facebook.com/groups/507055348092825/posts/1568790215252661/",
+    "https://www.facebook.com/groups/507055348092825/posts/1519439936854356/",
+    "https://www.facebook.com/groups/507055348092825/posts/1847392907392389/",
+    "https://www.facebook.com/groups/mermansion/posts/1478291266523406/",
+    "https://www.facebook.com/groups/1277721139645865/posts/1893060561445250/",
+    "https://www.facebook.com/clxlogisticsbah/posts/big-things-are-moving-through-panama-need-to-get-cargo-to-the-bahamas-quickly-an/1076493174884300/",
+    "https://www.facebook.com/wharvexplatform/videos/freight-forwarder-tips-episode-2-confirm-cargo-dimensions-weight-pickup-location/1644641267183046/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Getcargo note 社長",
+   "results": [
+    "https://note.com/sadaaki",
+    "https://x.com/sadaaki",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://note.com/ai_shacho",
+    "https://diamond.jp/articles/-/388572",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Getcargo X 投稿",
+   "results": [
+    "https://www.getcargo.ai/support",
+    "https://syncgtm.com/blog/getcargo-review",
+    "https://publish.x.com/",
+    "https://www.youtube.com/watch?v=gvbCoPOjdwA",
+    "https://chromewebstore.google.com/detail/twitter-post-exporter-dow/jdegdcamkndlebppmdlkgolkknkbjcne?hl=ja",
+    "https://www.getcargo.ai/developers",
+    "https://tech-lab.sios.jp/archives/54667",
+    "https://play.google.com/store/apps/details?id=com.uts.application&hl=ja",
+    "https://zenn.dev/spacemarket/articles/9fbff59b801631",
+    "https://x.com/getcargo_io"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部28頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部28頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部28頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部28頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部28頁・検索12回）"
+ }
+}

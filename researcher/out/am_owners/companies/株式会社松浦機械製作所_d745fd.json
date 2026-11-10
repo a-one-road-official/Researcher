@@ -1,0 +1,1251 @@
+{
+ "name": "株式会社松浦機械製作所",
+ "aliases": [],
+ "context": "PBF=yes 装置=LUMEX;松浦機械 出典=https://ja.wikipedia.org/wiki/松浦機械製作所",
+ "researched_at": "2026-11-10T17:25:21.875945+00:00",
+ "official_url": "https://www.matsuura.co.jp/",
+ "identified_by": "search:ddgs:yahoo:松浦機械製作所",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社 所在地",
+    "value": "日本 〒 910-8530 福井県福井市東森田四丁目201番地",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1960年 9月",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "工作機械（ マシニングセンタ ）の製造・販売 金属光造形複合加工機（ ハイブリッド金属3Dプリンタ ）の製造・販売 CAD / CAM システムの販売",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "9,000万円 [ 1 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "158億2,000万円（2024年12月期） [ 2 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "417名（2024年12月現在） [ 2 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "ハイブリッド金属3Dプリンタ",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "- 株式会社松浦機械製作所を設立し、法人改組",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッド金属3Dプリンタ「LUMEX Avance-25」が第37回機械工業デザイン賞「日本商工会議所会頭賞」を受賞",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "大型ハイブリッド金属3Dプリンタ「LUMEX Avance-60」を発表",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "松浦機械製作所の製品展開における最大の強みは、高精度な「5軸制御技術」と、長時間の無人稼働を可能にする「自動化システム」の高度な融合にある",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "また、金属3Dプリンタに高速切削機能を統合した「ハイブリッド金属3Dプリンタ」を世界で初めて実用化するなど、次世代のモノづくり技術においても先駆的な役割を果たしている",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "主な製品区分は、5軸制御・立形・横形のマシニングセンタ、およびハイブリッド金属3Dプリンタである",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社松浦機械製作所は、マシニングセンタと金属3Dプリンタを主力製品としている",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "主な型式：LUMEX Avance-25、LUMEX Avance-60",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "米国Gibbs and Associates社が開発し、松浦機械製作所がサポートを行うCAD/CAMシステム",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社松浦機械製作所 第65期決算公告",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社松浦機械製作所様 パートナー契約継続のお知らせ",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "https://ja.wikipedia.org/w/index.php?title=松浦機械製作所&oldid=111107995",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "松浦機械製作所の決算・売上・資本金｜官報決算公告データ | Firmnavi",
+    "url": "https://firmnavi.com/companies/g74-065",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社松浦機械製作所（まつうらきかいせいさくしょ、Matsuura Machinery Corporation）は、福井県福井市に本社を置く日本の工作機械メーカーである",
+    "url": "https://firmnavi.com/companies/g74-065",
+    "pass": 3
+   },
+   {
+    "quote": "主にマシニングセンタ（5軸制御、立形、横形）や、積層造形と切削加工を融合したハイブリッド金属3Dプリンタの製造・販売を行っている",
+    "url": "https://firmnavi.com/companies/g74-065",
+    "pass": 3
+   },
+   {
+    "quote": "出典: Wikipedia「松浦機械製作所」（CC BY-SA 4.0）",
+    "url": "https://firmnavi.com/companies/g74-065",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社松浦機械製作所|機械設計・雲台製品・金属加工の製造なら ｜ 株式会社松浦機械製作所",
+    "url": "https://matsuura-kikai.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社松浦機械製作所は、1961年の創業以来、高精度な金属加工と機械設計、 そして衛星通信アンテナ制御システムの開発を手がけてきました",
+    "url": "https://matsuura-kikai.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "松浦機械製作所 造形時間短縮できる金属3Dプリンタを発売 | 金型しんぶんONLINE｜金型新聞社",
+    "url": "https://kanagata-shimbun.com/230110technology-matsuura/",
+    "pass": 3
+   },
+   {
+    "quote": "松浦機械製作所 造形時間短縮できる金属3Dプリンタを発売",
+    "url": "https://kanagata-shimbun.com/230110technology-matsuura/",
+    "pass": 3
+   },
+   {
+    "quote": "（福井県福井市、0776-56-8100）は、金属積層造形と切削加工ができるハイブリッド金属3Dプリンタ「LUMEXAvance‐25」を改良し発売した",
+    "url": "https://kanagata-shimbun.com/230110technology-matsuura/",
+    "pass": 3
+   },
+   {
+    "quote": "高い冷却効果 アッサブジャパン（東京千代田区、03-5226-3781）は、独自の3Dプリンタ用粉末を使った金属3Dプリンタの造形サービスを開始する",
+    "url": "https://kanagata-shimbun.com/230110technology-matsuura/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社松浦機械製作所 | OpenBizGraph",
+    "url": "https://openbizgraph.com/detail/134954",
+    "pass": 3
+   },
+   {
+    "quote": "(株)松浦機械製作所の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "創業90年以上！世界初の「ハイブリッド金属3Dプリンタ」など独創的な製品を生み出し続けてきました",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "松浦機械製作所の仕事は、すべてのモノづくりの原点を生み出すことです",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "その1つ証明が、金属光造形複合機「LUMEX」です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2013年6月、パナソニックが「LUMEX」導入による製造コスト3割削減を発表したことは、世界の産業界が注目する一大トピックスになり、最先端技術のフィールドにマツウラありという強烈な存在感を焼き付けることとなりました",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、当社にとって「LUMEX」は新しい技術ではなく、すでにその10年前から確立されていたもの",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・ハイブリッド金属3Dプリンタ",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "「ハイブリッド金属3Dプリンタ」はレーザ焼結と切削加工を融合した世界初の工作機械",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "「松浦機械製作所」創業、旋盤の生産開始",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "法人に改組、「(株)松浦機械製作所」設立",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッド金属3Dプリンタ「LUMEX 25C」が「第33回日本産業技術大賞・文部科学大臣賞」受賞",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッド金属3Dプリンタ「LUMEX Avance-25」が「第37回機械工業デザイン賞／日本会議所会頭賞」を受賞",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッド金属3Dプリンタ「LUMEX Avance-60」を発表",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株)松浦機械製作所の画像と似た雰囲気の画像から企業をおすすめしています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株)松浦機械製作所の会社概要 | マイナビ2028",
+    "url": "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "創業90年！世界初の「ハイブリッド金属3Dプリンタ」など長年にわたり独創的な製品を生み出し続けてきました",
+    "url": "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・ハイブリッド金属3Dプリンタ",
+    "url": "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "「ハイブリッド金属3Dプリンタ」はレーザ焼結と切削加工を融合した世界初の工作機械",
+    "url": "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "松浦機械製作所を福井市に創設、旋盤の生産・販売開始",
+    "url": "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "法人に改組、株式会社松浦機械製作所を設立",
+    "url": "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属光造形複合加工機（現：ハイブリッド金属3Dプリンタ）の開発",
+    "url": "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッド金属3Dプリンタ「LUMEX Avance-25」が「第37回機械工業デザイン賞／日本会議所会頭賞」を受賞",
+    "url": "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省が進める「金属3Dプリンタの国家プロジェクト」(TRAFAM)に参画",
+    "url": "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株)松浦機械製作所の画像と似た雰囲気の画像から企業をおすすめしています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "切削できる金属3Dプリンタを活かす部品造形ガイドブック",
+    "url": "https://note.com/yuto_matsuura",
+    "pass": 3
+   },
+   {
+    "quote": "【松浦機械製作所】企業研究コンプリードガイドブック",
+    "url": "https://note.com/yuto_matsuura",
+    "pass": 3
+   },
+   {
+    "quote": "【松浦機械製作所】企業研究コンプリードガイドブック｜松浦 悠人",
+    "url": "https://note.com/yuto_matsuura/n/ned6e61223df5",
+    "pass": 3
+   },
+   {
+    "quote": "【松浦機械製作所】企業研究コンプリードガイドブック",
+    "url": "https://note.com/yuto_matsuura/n/ned6e61223df5",
+    "pass": 3
+   },
+   {
+    "quote": "トップページ - 株式会社松浦機械製作所 リクルート特設サイト",
+    "url": "https://note.com/yuto_matsuura/n/ned6e61223df5",
+    "pass": 3
+   },
+   {
+    "quote": "福井県の工作機械メーカー松浦機械製作所4代目| 京大⇒ﾄﾛﾝﾄ大院⇒ﾌｧﾅｯｸ⇒家業|本気で会社を変えようと全力取組中|amazonアソシエイト参加中(書籍のリンクに使ってます)|",
+    "url": "https://note.com/yuto_matsuura/n/ned6e61223df5",
+    "pass": 3
+   },
+   {
+    "quote": "切削できる金属3Dプリンタを活かす部品造形ガイドブック",
+    "url": "https://note.com/yuto_matsuura/all",
+    "pass": 3
+   },
+   {
+    "quote": "【松浦機械製作所】企業研究コンプリードガイドブック",
+    "url": "https://note.com/yuto_matsuura/all",
+    "pass": 3
+   },
+   {
+    "quote": "松浦機械製作所、5軸マシニングセンタ新モデル「MX-520 PC7」「MX-520T PC7」を発売｜kikai-news.net 産機通信",
+    "url": "https://note.com/sankituushin/n/na113880efbb2",
+    "pass": 3
+   },
+   {
+    "quote": "松浦機械製作所、5軸マシニングセンタ新モデル「MX-520 PC7」「MX-520T PC7」を発売",
+    "url": "https://note.com/sankituushin/n/na113880efbb2",
+    "pass": 3
+   },
+   {
+    "quote": "国内外のユーザーに向け、松浦機械製作所の最新技術をアピールする機会となる",
+    "url": "https://note.com/sankituushin/n/na113880efbb2",
+    "pass": 3
+   },
+   {
+    "quote": "このnoteを800文字程度にぎゅっと内容を凝縮した私のコラムが松浦機械製作所の広報誌、",
+    "url": "https://note.com/yuto_matsuura/n/n7cb0f896b048",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "その高い加工精度と信頼性から、F1などのモータースポーツ部品、航空宇宙、医療機器といったハイエンドな市場で高いシェアを持つ",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "高速・高剛性を特徴とし、自動車部品などの量産加工や難削材加工に適した横形機",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "深リブや通気性金型（ポーラス造形）の製作が可能",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "特に高速・高精度加工と自動化システム（多面パレットチェンジャ等）に強みを持ち、航空宇宙、医療機器、F1をはじめとするモータースポーツなどのハイエンド市場において世界的な知名度を有する",
+    "url": "https://firmnavi.com/companies/g74-065",
+    "pass": 3
+   },
+   {
+    "quote": "松浦機械製作所 造形時間短縮できる金属3Dプリンタを発売 | 金型しんぶんONLINE｜金型新聞社",
+    "url": "https://kanagata-shimbun.com/230110technology-matsuura/",
+    "pass": 3
+   },
+   {
+    "quote": "金型業界のいまを届けるニュースサイト「金型しんぶんONLINE」",
+    "url": "https://kanagata-shimbun.com/230110technology-matsuura/",
+    "pass": 3
+   },
+   {
+    "quote": "金型新聞 2023年1月10日",
+    "url": "https://kanagata-shimbun.com/230110technology-matsuura/",
+    "pass": 3
+   },
+   {
+    "quote": "肩削りカッタ「ショルダー6」 ダイジェット工業（大阪市平野区、06-6791-6781）は、建設機械や金型部品などの大物部品を、無垢の材料から高切込みの荒加工や高精度な立壁加工ができる両面6コーナ仕様の高能率肩削りカッ…",
+    "url": "https://kanagata-shimbun.com/230110technology-matsuura/",
+    "pass": 3
+   },
+   {
+    "quote": "アプリで製品情報取得 取説無しで管理可能 金型や建築の資材など様々な現場の吊り具として使われるコディプロ社（ルクセンブルク）の回転型アイボルト",
+    "url": "https://kanagata-shimbun.com/230110technology-matsuura/",
+    "pass": 3
+   },
+   {
+    "quote": "岩倉溶接工業所 金型補修の受託加工と技術支援を開始",
+    "url": "https://kanagata-shimbun.com/230110technology-matsuura/",
+    "pass": 3
+   },
+   {
+    "quote": "ステンレスを主体に金属の溶接加工を手掛ける岩倉溶接工業所（静岡県島田市、0547・37・4585）は今年8月から、金型溶接の受託加工事業と金型溶接・仕上げの技術支援事業を開始した",
+    "url": "https://kanagata-shimbun.com/230110technology-matsuura/",
+    "pass": 3
+   },
+   {
+    "quote": "金型補修における技術承継の課題解決に貢献…",
+    "url": "https://kanagata-shimbun.com/230110technology-matsuura/",
+    "pass": 3
+   },
+   {
+    "quote": "金型経営者アンケート 次の10年を勝ち残...",
+    "url": "https://kanagata-shimbun.com/230110technology-matsuura/",
+    "pass": 3
+   },
+   {
+    "quote": "金型・プレス加工メーカーと精密板金加...",
+    "url": "https://kanagata-shimbun.com/230110technology-matsuura/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車金型、2024年秋に需要回復か【特...",
+    "url": "https://kanagata-shimbun.com/230110technology-matsuura/",
+    "pass": 3
+   },
+   {
+    "quote": "EV化が進む中、金型メーカーはどう動く...",
+    "url": "https://kanagata-shimbun.com/230110technology-matsuura/",
+    "pass": 3
+   },
+   {
+    "quote": "金型工場名鑑2025",
+    "url": "https://kanagata-shimbun.com/230110technology-matsuura/",
+    "pass": 3
+   },
+   {
+    "quote": "「金型工場名鑑2025 データベース（Win Excel）」販売開始のお知らせ",
+    "url": "https://kanagata-shimbun.com/230110technology-matsuura/",
+    "pass": 3
+   },
+   {
+    "quote": "福井から世界へ！IT、自動車など様々なモノづくりを支える仕事！あの製品もマツウラが無ければ作れないかも",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "1935年の創業時から受け継がれてきた私たちだからできるモノづくりは、日本を飛び越え、世界、さらには宇宙にまでビジネスを広げてきました",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "販売先としては、F1関連及び自動車産業、航空宇宙産業、家電産業、医療機器産業等多岐に亘って使用されています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "福井から世界へ！IT、自動車など様々なモノづくりを支える仕事！あの製品もマツウラが無ければ作れないかも",
+    "url": "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足や技能継承といった製造業が抱える課題を最先端の技術で解決し、高精度で長く使える製品づくりによって、省エネルギー・省資源化や廃棄物削減にも貢献しています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "【下町3Dプリンタ】金型業界に変革を起こしたい4代目",
+    "url": "https://note.com/yuto_matsuura",
+    "pass": 3
+   },
+   {
+    "quote": "【下町3Dプリンタ】金型業界に変革を起こしたい4代目",
+    "url": "https://note.com/yuto_matsuura/all",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "欧米市場への輸出比率が高く、以下の国に現地法人（子会社）を設立して販売およびアフターサービスを行っている",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "松浦機械製作所の決算・売上・資本金｜官報決算公告データ | Firmnavi",
+    "url": "https://firmnavi.com/companies/g74-065",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカ、ヨーロッパを中心に子会社、代理店を展開し、世界25カ国に私たちの製品を発信中です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本精機(株)（NIPPON SEIKI CO.,LTD.）【東証スタンダード上場】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "福井コンピュータグループ【福井コンピュータホールディングス(株)（東証プライム上場）/福井コンピュータアーキテクト(株)/福井コンピュータ(株)/福井コンピュータスマート(株)】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "松浦機械製作所 - Wikipedia — 松浦機械製作所 ... 株式会社松浦機械製作所 （まつうらきかいせいさくしょ、 Matsuura Machinery Corporation）は、 福井県 福井市 に本社を置く日本の 工作機械 メーカーである。",
+    "url": "https://ja.wikipedia.org/wiki/松浦機械製作所",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報について | 工作機械の松浦機械製作所 - Matsuura Machinery ... — 株式会社 松浦機械製作所 Matsuura Machinery Corporation 本社工場 〒910-8530 福井県福井市東森田4丁目201番地 創業 1935年8月 会社設立 1960年9月 資本金 9,000万円 (自己資本金223億2,232万円) 年商 164.9億円 (2025年度/輸出比率80.6%) 事業内容 工作機械（マシニングセンタ ...",
+    "url": "https://www.matsuura.co.jp/japan/company/profile",
+    "pass": 3
+   },
+   {
+    "quote": "松浦機械製作所の決算・売上・資本金｜官報決算公告データ | Firmnavi — ホーム 福井県 松浦機械製作所 松浦機械製作所 株式会社松浦機械製作所 会社概要 株式会社松浦機械製作所（まつうらきかいせいさくしょ、Matsuura Machinery Corporation）は、福井県福井市に本社を置く日本の工作機械メーカーである。",
+    "url": "https://firmnavi.com/companies/g74-065",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社松浦機械製作所（福井県）の会社概要・役員 | Compalyze — 株式会社松浦機械製作所は、精密機械加工分野において多様な製品と技術を提供する企業である。 製造業 (機械・設備)、1935年設立、社会保険被保険者数504名。 純利益5.6億円。 代表者 松浦勝俊。 役員1名・登記1件・決算11期。",
+    "url": "https://compalyze.co.jp/company/4210001003869",
+    "pass": 3
+   },
+   {
+    "quote": "(株)松浦機械製作所の会社概要 | マイナビ2028株式会社松浦機械製作所の決算公告・財務情報 | 開示ワイヤー株式会社松浦機械製作所|機械設計・雲台製品・金属加工の製造なら ｜ ... — Oct 16, 2026 · (株)松浦機械製作所の会社概要ページです。 マイナビ2028は、インターンシップ＆キャリア、前年の採用データ、エントリー情報を公開しており、自己分析や企業研究、皆さんの就職活動をサポートします。 株式会社松浦機械製作所の官報公告・決算公告・財務データ。 工作機械（マシニングセンタ）製造、販売。 税関 AEO 特定輸出者。 2025年12月期: 純利益5.6億円、純資産223.2億円、自己資本比率71.9%。 福井県・製造業・従業員487人・資本金9,000万円。 Nov 22, 2022 · 株式会社松浦機械製作所は、1961年の創業以来、高精度な金属加工と機械設計、 そ",
+    "url": "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッド金属3Dプリンタ | 工作機械の松浦機械製作所 - Matsuura ... — そして、レーザを利用し、金型の製作時間を従来の1/3に短縮できる新しい金型製造装置として、ハイブリッド金属3Dプリンタ「M-PHOTON 25Y」を平成14年に開発しました。",
+    "url": "https://www.matsuura.co.jp/japan/technology/mono_history/mono_history_lumex",
+    "pass": 3
+   },
+   {
+    "quote": "LUMEX Series | 工作機械の松浦機械製作所 - Matsuura Machinery Corp... — LINE UP ハイブリッド金属3Dプリンタ LUMEX Avance-25 最大ワークサイズ MORE ハイブリッド金属3Dプリンタ LUMEX Avance-60 最大ワークサイズ MORE ハイブリッド金属3Dプリンタ LUMEX CAM 最大ワークサイズ MORE",
+    "url": "https://www.matsuura.co.jp/japan/products/lumex-series",
+    "pass": 3
+   },
+   {
+    "quote": "松浦機械製作所「LUMEX」の特徴やスペックを紹介 — Mar 27, 2023 · LUMEXは、金属粉末のレーザー焼結と高速ミーリング加工を1台で行えるハイブリッド金属3Dプリンターです。 従来の切削工法では加工が困難だった、複雑な内部冷却水管を持つ金型や、微細で高精度な部品の造形を得意としています。",
+    "url": "https://www.recmbus-3dprint.com/list/lumex.html",
+    "pass": 3
+   },
+   {
+    "quote": "松浦機械製作所 造形時間短縮できる金属3Dプリンタを発売 | 金型しん... — 松浦機械製作所 （福井県福井市、0776-56-8100）は、金属積層造形と切削加工ができるハイブリッド金属3Dプリンタ「LUMEXAvance‐25」を改良し発売した。 従来機と比べて造形時間を短縮したほか、さらなる長時間無人運転に対応できるようにした。",
+    "url": "https://kanagata-shimbun.com/230110technology-matsuura/",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械の松浦機械製作所 - Matsuura Machinery Corporation — 独創的かつ高品質な工作機械メーカー、株式会社松浦機械製作所のホームページです。5軸マシニングセンタによる高速・高精度加工と自動化・無人化運転により、お客様に喜ばれる製品開発・製造を行っております。また、全く新しいモノづくりが行えるハイブリッド金属3Dプリンタを開発 ...",
+    "url": "https://www.matsuura.co.jp/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社松浦機械製作所|機械設計・雲台製品・金属加工の製造なら ｜ ... — Nov 22, 2022 · 株式会社松浦機械製作所は、1961年の創業以来、高精度な金属加工と機械設計、 そして衛星通信アンテナ制御システムの開発を手がけてきました。 図面から仕上げまで、社内一貫体制で多様なニーズにお応えするものづくりに向き合っています。",
+    "url": "https://matsuura-kikai.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社松浦機械製作所 | OpenBizGraph — 株式会社松浦機械製作所 サイト https://kikaicatalog.com/ https://www.matsuura.co.jp/ 開始日 終了日 銘柄コード 上場市場 国 Japan 事業内容 CAD/CAM data 所在地 社長 資本金 従業員数 (単独) 従業員数 (連結) 関連のある会社 - 会社名 Group親会社子会社得意先仕入先業務提携 ...",
+    "url": "https://openbizgraph.com/detail/134954",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社松浦機械製作所の決算公告・財務情報 | 開示ワイヤー — 株式会社松浦機械製作所の官報公告・決算公告・財務データ。 工作機械（マシニングセンタ）製造、販売。 税関 AEO 特定輸出者。 2025年12月期: 純利益5.6億円、純資産223.2億円、自己資本比率71.9%。 福井県・製造業・従業員487人・資本金9,000万円。",
+    "url": "https://kaijiwire.jp/companies/4210001003869",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社松浦機械製作所 | 決算公告（2026年3月30日掲載） | 開示ワイ... — Mar 30, 2026 · 株式会社松浦機械製作所の決算公告（2025年12月期・第66期決算公告）。 純利益5.6億円（前期4,500万円）、総資産310.6億円、純資産223.2億円。 工作機械（マシニングセンタ）製造、販売の会社。 福井県・製造業。 出典: 官報（PDL1.0）",
+    "url": "https://kaijiwire.jp/kokoku/01a08c99-6c30-7442-8173-741814519904",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社松浦機械製作所 第64期決算公告（2023年12月期）・子会社・グ... — Dec 31, 2023 · 2024年3月26日に発表された株式会社松浦機械製作所の第64期決算公告は、純利益14億5300万円、利益剰余金210億500万円、総資産274億2600万円。 株式会社松浦機械製作所の子会社・関連会社1社の情報も掲載しています。",
+    "url": "https://catr.jp/companies/bca75/864/settlements/e7d12/343535",
+    "pass": 3
+   },
+   {
+    "quote": "(株)松浦機械製作所の会社概要 | マイナビ2027株式会社松浦機械製作所（福井県）の企業情報・売上・従業員数(株)松浦機械製作所の会社概要 | マイナビ2028数字で見るマツウラ | 工作機械の松浦機械製作所 - Matsuura Machiner...会社情報について | 工作機械の松浦機械製作所 - Matsuura Machinery ...松浦機械製作所の決算・売上・資本金｜官報決算公告データ | Firmnavi — \"機械をつくる機械\"の専門メーカー 2027年度 新卒採用エントリーについて （2026/04/17更新） 選考エントリーには会社説明会（対面またはオンライン）の参加が必須です。 参加希望の方は「説明会・セミナー」から希望日程を選択してください。 工作機械のマシニングセンタと、金属光造形複合加工機を製造・販売している会社です。 あわせて CAD/CAM システムも",
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株)松浦機械製作所の会社概要 | マイナビ2028数字で見るマツウラ | 工作機械の松浦機械製作所 - Matsuura Machiner...会社情報について | 工作機械の松浦機械製作所 - Matsuura Machinery ...松浦機械製作所の決算・売上・資本金｜官報決算公告データ | Firmnavi — Oct 16, 2026 · (株)松浦機械製作所の会社概要ページです。 マイナビ2028は、インターンシップ＆キャリア、前年の採用データ、エントリー情報を公開しており、自己分析や企業研究、皆さんの就職活動をサポートします。 世界初ハイブリッド金属3DプリンタLUMEXシリーズを2002年に開発。 レーザによる積層と切削加工を組み合わせた工作機械メーカならではの独創的な金属3Dプリンタです。 株式会社 松浦機械製作所 Matsuura Machinery Corporat",
+    "url": "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "松浦機械製作所の決算・売上・資本金｜官報決算公告データ | Firmnavi — 特に高速・高精度加工と自動化システム（多面パレットチェンジャ等）に強みを持ち、航空宇宙、医療機器、F1をはじめとするモータースポーツなどのハイエンド市場において世界的な知名度を有する。 出典: Wikipedia「松浦機械製作所」（CC BY-SA 4.0） 基本情報",
+    "url": "https://firmnavi.com/companies/g74-065",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "レーザによる焼結や、粉末を敷き詰めるといった各動作間の待ち時間を削減",
+    "url": "https://kanagata-shimbun.com/230110technology-matsuura/",
+    "pass": 3
+   },
+   {
+    "quote": "さらなる無人運転に対応するため、余剰粉末量を従来と比べて60%削減したほか、ホッパー容量を29ℓに増加",
+    "url": "https://kanagata-shimbun.com/230110technology-matsuura/",
+    "pass": 3
+   },
+   {
+    "quote": "段取り時に粉末を最大限セットすることで、粉末を追加したり余剰粉末を回収したりすることなく最大高さ（300㎜ベースプレート厚み含む）のワークを造形できる",
+    "url": "https://kanagata-shimbun.com/230110technology-matsuura/",
+    "pass": 3
+   },
+   {
+    "quote": "アサッブジャパン 独自粉末を使った金属3D造形サービスを開始",
+    "url": "https://kanagata-shimbun.com/230110technology-matsuura/",
+    "pass": 3
+   },
+   {
+    "quote": "高い冷却効果 アッサブジャパン（東京千代田区、03-5226-3781）は、独自の3Dプリンタ用粉末を使った金属3Dプリンタの造形サービスを開始する",
+    "url": "https://kanagata-shimbun.com/230110technology-matsuura/",
+    "pass": 3
+   },
+   {
+    "quote": "ステンレスを主体に金属の溶接加工を手掛ける岩倉溶接工業所（静岡県島田市、0547・37・4585）は今年8月から、金型溶接の受託加工事業と金型溶接・仕上げの技術支援事業を開始した",
+    "url": "https://kanagata-shimbun.com/230110technology-matsuura/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "松浦 悠人｜note 福井県の工作機械メーカー松浦機械製作所4代目| 京大⇒ﾄﾛﾝﾄ大院⇒ﾌｧﾅｯｸ⇒家業|本気で会社を変えようと全力取組中|amazonアソシエイト参加中 (書籍のリンクに使ってます)|",
+    "url": "https://note.com/yuto_matsuura",
+    "pass": 3
+   },
+   {
+    "quote": "【松浦機械製作所】企業研究コンプリードガイドブック｜松浦 悠人 Jul 2, 2025 · トップページ - 株式会社松浦機械製作所 リクルート特設サイト どの企業に就職しても変わらない？ そんなことはない。 他社ではやっていない、他社では真似できない、君にしか出来ない。 そんな matsuura-recruit.com",
+    "url": "https://note.com/yuto_matsuura/n/ned6e61223df5",
+    "pass": 3
+   },
+   {
+    "quote": "松浦 悠人の記事一覧｜note 松浦 悠人 福井県の工作機械メーカー松浦機械製作所4代目| 京大⇒ﾄﾛﾝﾄ大院⇒ﾌｧﾅｯｸ⇒家業|本気で会社を変えようと全力取組中|amazonアソシエイト参加中 (書籍のリンクに使ってます)|",
+    "url": "https://note.com/yuto_matsuura/all",
+    "pass": 3
+   },
+   {
+    "quote": "松浦機械製作所、5軸マシニングセンタ新モデル「MX-520 PC7」「MX-520... Jul 11, 2025 · ・省スペースで自動化・無人運転を強化 松浦機械製作所 （福井県福井市）は7月10日、5軸制御立形マシニングセンタ「MX-520 PC7」と、旋削機能を備えた5軸複合マシニングセンタ「MX-520T PC7」の販売を開始すると発表した。",
+    "url": "https://note.com/sankituushin/n/na113880efbb2",
+    "pass": 3
+   },
+   {
+    "quote": "松浦 悠人｜note 松浦 悠人 福井県の工作機械メーカー松浦機械製作所4代目| 京大⇒ﾄﾛﾝﾄ大院⇒ﾌｧﾅｯｸ⇒家業|本気で会社を変えようと全力取組中|amazonアソシエイト参加中 (書籍のリンクに使ってます)|",
+    "url": "https://note.com/yuto_matsuura",
+    "pass": 3
+   },
+   {
+    "quote": "会社を変えられるのは誰だ！？｜松浦 悠人 May 22, 2024 · 実は会社の広報誌の下書き用に使っている note.com このnoteを800文字程度にぎゅっと内容を凝縮した私のコラムが松浦機械製作所の広報誌、 マツウラ NEWS！ にて掲載されております。",
+    "url": "https://note.com/yuto_matsuura/n/n7cb0f896b048",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【京大合格から海外大学院留学まで根性だけでやり抜いたって話】",
+    "url": "https://note.com/yuto_matsuura",
+    "pass": 3
+   },
+   {
+    "quote": "結局、正論ばっか口にして何も決断できない奴が一番だるいって話",
+    "url": "https://note.com/yuto_matsuura",
+    "pass": 3
+   },
+   {
+    "quote": "「環境に合わせて組織を変え続けろ」ということがめっちゃ腹落ちした本を紹介したい",
+    "url": "https://note.com/yuto_matsuura",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ部門間の壁を壊す必要があるのか？どう壊すのか？を学べた書籍",
+    "url": "https://note.com/yuto_matsuura",
+    "pass": 3
+   },
+   {
+    "quote": "【松浦機械製作所】企業研究コンプリードガイドブック｜松浦 悠人",
+    "url": "https://note.com/yuto_matsuura/n/ned6e61223df5",
+    "pass": 3
+   },
+   {
+    "quote": "【松浦機械製作所】企業研究コンプリードガイドブック",
+    "url": "https://note.com/yuto_matsuura/n/ned6e61223df5",
+    "pass": 3
+   },
+   {
+    "quote": "トップページ - 株式会社松浦機械製作所 リクルート特設サイト",
+    "url": "https://note.com/yuto_matsuura/n/ned6e61223df5",
+    "pass": 3
+   },
+   {
+    "quote": "どの企業に就職しても変わらない？そんなことはない。 他社ではやっていない、他社では真似できない、君にしか出来ない。 そんな",
+    "url": "https://note.com/yuto_matsuura/n/ned6e61223df5",
+    "pass": 3
+   },
+   {
+    "quote": "福井県の工作機械メーカー松浦機械製作所4代目| 京大⇒ﾄﾛﾝﾄ大院⇒ﾌｧﾅｯｸ⇒家業|本気で会社を変えようと全力取組中|amazonアソシエイト参加中(書籍のリンクに使ってます)|",
+    "url": "https://note.com/yuto_matsuura/n/ned6e61223df5",
+    "pass": 3
+   },
+   {
+    "quote": "【京大合格から海外大学院留学まで根性だけでやり抜いたって話】",
+    "url": "https://note.com/yuto_matsuura/all",
+    "pass": 3
+   },
+   {
+    "quote": "結局、正論ばっか口にして何も決断できない奴が一番だるいって話",
+    "url": "https://note.com/yuto_matsuura/all",
+    "pass": 3
+   },
+   {
+    "quote": "「環境に合わせて組織を変え続けろ」ということがめっちゃ腹落ちした本を紹介したい",
+    "url": "https://note.com/yuto_matsuura/all",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ部門間の壁を壊す必要があるのか？どう壊すのか？を学べた書籍",
+    "url": "https://note.com/yuto_matsuura/all",
+    "pass": 3
+   },
+   {
+    "quote": "パレットチェンジャー付きマシニングセンタで、機械加工ビジネスはどう変革するか？",
+    "url": "https://note.com/yuto_matsuura/all",
+    "pass": 3
+   },
+   {
+    "quote": "切削できる金属3Dプリンタを活かす部品造形ガイドブック",
+    "url": "https://note.com/yuto_matsuura/all",
+    "pass": 3
+   },
+   {
+    "quote": "【松浦機械製作所】企業研究コンプリードガイドブック",
+    "url": "https://note.com/yuto_matsuura/all",
+    "pass": 3
+   },
+   {
+    "quote": "【下町3Dプリンタ】金型業界に変革を起こしたい4代目",
+    "url": "https://note.com/yuto_matsuura/all",
+    "pass": 3
+   },
+   {
+    "quote": "松浦機械製作所、5軸マシニングセンタ新モデル「MX-520 PC7」「MX-520T PC7」を発売｜kikai-news.net 産機通信",
+    "url": "https://note.com/sankituushin/n/na113880efbb2",
+    "pass": 3
+   },
+   {
+    "quote": "松浦機械製作所、5軸マシニングセンタ新モデル「MX-520 PC7」「MX-520T PC7」を発売",
+    "url": "https://note.com/sankituushin/n/na113880efbb2",
+    "pass": 3
+   },
+   {
+    "quote": "（福井県福井市）は7月10日、5軸制御立形マシニングセンタ「MX-520 PC7」と、旋削機能を備えた5軸複合マシニングセンタ「MX-520T PC7」の販売を開始すると発表した。「はじめてでも安心・簡単5軸」をコンセプトに2010年から展開するMX-520シリーズは、累計2,227台（2025年6月末現在）を出荷。今回の新モデルでは、生産現場の自動化・効率化ニーズの高まりに対応し、さらなる進化を遂げた。",
+    "url": "https://note.com/sankituushin/n/na113880efbb2",
+    "pass": 3
+   },
+   {
+    "quote": "新たにオプションとして追加された「タワーパレットシステムPC7」は、従来の「フロアパレットシステムPC4」と同等の設置スペースながら、パレット枚数を3枚増やし最大7枚まで搭載可能。これにより、長時間の無人運転や生産効率の向上が期待される。PC7では切屑処理やメンテナンス性、視認性も改善され、現場の負担軽減にもつながる。",
+    "url": "https://note.com/sankituushin/n/na113880efbb2",
+    "pass": 3
+   },
+   {
+    "quote": "MX-520シリーズは、2013年の「MX-850」、2016年の「MX-330」、2021年の「MX-420」とラインアップを拡充し、あらゆる産業分野で工程集約や生産性向上に寄与してきた。2024年には旋削機能を加えた「MX-520T」も登場し、複合加工への対応力も強化している。",
+    "url": "https://note.com/sankituushin/n/na113880efbb2",
+    "pass": 3
+   },
+   {
+    "quote": "新モデル「MX-520T PC7」は、9月22日からドイツ・ハノーバーで開催される国際金属加工見本市「EMO2025」、10月22日から名古屋で開催される「メカトロテックジャパン2025（MECT2025）」で出展予定。国内外のユーザーに向け、松浦機械製作所の最新技術をアピールする機会となる。",
+    "url": "https://note.com/sankituushin/n/na113880efbb2",
+    "pass": 3
+   },
+   {
+    "quote": "kikai-news.net note版（産機通信）",
+    "url": "https://note.com/sankituushin/n/na113880efbb2",
+    "pass": 3
+   },
+   {
+    "quote": "会社，変えるの難し難し難し――――――――――――ッッ！！！！",
+    "url": "https://note.com/yuto_matsuura/n/n7cb0f896b048",
+    "pass": 3
+   },
+   {
+    "quote": "基幹システムを変えようと躍起になった2年間，結局，１回で全てを変えるのはハードルが高いと判断したため，計画を大きく変更したのが最近の出来事です．",
+    "url": "https://note.com/yuto_matsuura/n/n7cb0f896b048",
+    "pass": 3
+   },
+   {
+    "quote": "これが数百人企業の基幹システム刷新のリアルや",
+    "url": "https://note.com/yuto_matsuura/n/n7cb0f896b048",
+    "pass": 3
+   },
+   {
+    "quote": "十数年かけて広く複雑化したレガシーシステムや",
+    "url": "https://note.com/yuto_matsuura/n/n7cb0f896b048",
+    "pass": 3
+   },
+   {
+    "quote": "いったん社内整理に時間を使い，段階的に刷新する案で再出発します",
+    "url": "https://note.com/yuto_matsuura/n/n7cb0f896b048",
+    "pass": 3
+   },
+   {
+    "quote": "https://t.co/0SyTHDSKzT",
+    "url": "https://note.com/yuto_matsuura/n/n7cb0f896b048",
+    "pass": 3
+   },
+   {
+    "quote": "pic.twitter.com/6aJBLO5J4W",
+    "url": "https://note.com/yuto_matsuura/n/n7cb0f896b048",
+    "pass": 3
+   },
+   {
+    "quote": "— しつちょう＠MatsuuraMachineryCorporation (@yuto_matsuura)",
+    "url": "https://note.com/yuto_matsuura/n/n7cb0f896b048",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "松浦機械製作所 西川 (@Yuta_mmc) / X Follow Posts RepliesReplies RepostsReposts MediaMedia Pinned 松浦機械製作所 西川 @Yuta_mmc Sep 30, 2021",
+    "url": "https://x.com/Yuta_mmc",
+    "pass": 3
+   },
+   {
+    "quote": "黄昏の六角穴付きボルト@工作機械とかいろいろ on X: \"10月から義務化... 10月から義務化された「カスハラ」対策への対応は工作機械業界でも進む。 弊社の「ハラスメント基本方針」を公開しました／株式会社松浦機械製作所 https://t.co/s4cUL7Gmvi 02 Oct 2026 08:47:42",
+    "url": "https://x.com/HexagonScrew/status/2105942791054663807",
+    "pass": 3
+   },
+   {
+    "quote": "フォロワーも1.5万人超えたので、久々に会社紹介させてください ♀️ ... そのため、部外者であっても彼らの文化や教義に従う意思を示す者に対してはIターンや福井出身の嫁/夫と一緒について里帰りしてくるといった形による新たな松浦機械製作所としての参加も広く認めており、福井県以外の出身者も一定数在籍する。",
+    "url": "https://x.com/yuto_matsuura/status/2056495043557621834",
+    "pass": 3
+   },
+   {
+    "quote": "千上 舞桜（Mao Chigami） on X: \"第33回日本国際工作機械見本市 JIMT... 第33回日本国際工作機械見本市 JIMTOF 2026 @東京ビッグサイト 本日も【E3030】株式会社松浦機械製作所さまブースにてコンパニオンリーダーを担当しております。 壁と窓じゃないよん。 MX-850Tだよん。",
+    "url": "https://x.com/m_c_ao/status/2115671809085567409",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "松浦 悠人 - 取締役 | LinkedIn（株）松浦機械製作所 | LinkedInMatsuura Machinery Corporation - LinkedIn松浦 (有)松浦製作所 - 機械 | LinkedInMatsuura Machinery Corporation - LinkedInMatsuura Machinery Corporation - LinkedIn黒川 浩二 - 株式会社松浦機械製作所 - 営業本部/マネージャー | Link... I hope you’ll take the time to read it. · 職歴: 松浦機械製作所 · 学歴: Kyoto University · 場所: 福井県 · LinkedInのつながり500人以上。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで松浦 悠人さんのプロフィー",
+    "url": "https://jp.linkedin.com/in/yuto-matsuura-3187501b7/ja",
+    "pass": 3
+   },
+   {
+    "quote": "（株）松浦機械製作所 | LinkedIn （株）松浦機械製作所 Machinery Manufacturing 富井市漆原町, 富井県 5 followers About us Website http://www.matsuura.co.jp",
+    "url": "https://www.linkedin.com/company/（株）松浦機械製作所",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Matsuura Machinery Corporation / 株式会社 松浦機械製作所Matsuura Machinery Corporation / 株式会社 松浦機械製作所株式会社松浦機械製作所【再アップロード】 松浦機械製作所 4代目の松浦悠人がFANUC株式会社...Matsuura Machinery Corporation / 株式会社 松浦機械製作所松浦機械製作所は、工場見学に力を入れています。 ・マツウラの機械っ...Matsuura Machinery Corporation / 株式会社 松浦機械製作所 Oct 21, 2026 · Matsuura Machinery Corporation / 株式会社 松浦機械製作所. 555 followers · 7 talking about this · 19 were here. Based in Fukui, Ja",
+    "url": "https://www.facebook.com/matsuuramc/",
+    "pass": 3
+   },
+   {
+    "quote": "Matsuura Machinery Corporation / 株式会社 松浦機械製作所 Aug 26, 2026 · https://grandfair.jp/gf2026/venue/kansai/ #Matsuura #machinist #machinistlife #machinery #manufacturing #machining #MachiningCenter #5axis #CNC #cncmachining #MachineTools #laborsaving #Automation #industrialautomation #industry40 #innovation #松浦機械製作所 #工作機械 #マシニングセンタ #ものづくり #製造業 ...",
+    "url": "https://www.facebook.com/matsuuramc/posts/jimtof2026出展マツウラブースまでのアクセス動画をぜひ事前にご確認くださいマツウラについての詳細はこちらからご覧ください-matsuura-machin/1675472501136577/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社松浦機械製作所 株式会社松浦機械製作所",
+    "url": "https://www.facebook.com/株式会社松浦機械製作所-260637817301655/",
+    "pass": 3
+   },
+   {
+    "quote": "【再アップロード】 松浦機械製作所 4代目の松浦悠人がFANUC株式会社...Matsuura Machinery Corporation / 株式会社 松浦機械製作所松浦機械製作所は、工場見学に力を入れています。 ・マツウラの機械っ...Matsuura Machinery Corporation / 株式会社 松浦機械製作所 Jan 30, 2023 · 【FANUC公開】なぜマツウラはFANUCを使うのか？ ‐ 動画リンク https://youtu.be/2vCQC5QiA8E #ファナック #松浦機械製作所 #工作機械 #マシニングセンタ #ものづくり #製造業 #マシニング #5軸加工機 #金属加工 #スマートファクトリー #工場 #自動化 Feb 19, 2023 · Matsuura Machinery Corporation / 株式会社 松浦機械製作所 Feb 19, ",
+    "url": "https://www.facebook.com/matsuuramc/videos/再アップロード松浦機械製作所-4代目の松浦悠人がfanuc株式会社の本社からfanucのモノづくりについてお届けしますマツウラは全面的にfanuc製のncを採用/868804571008908/",
+    "pass": 3
+   },
+   {
+    "quote": "Matsuura Machinery Corporation / 株式会社 松浦機械製作所 Oct 21, 2026 · Matsuura Machinery Corporation / 株式会社 松浦機械製作所. 555 followers · 7 talking about this · 19 were here. Based in Fukui, Japan, Matsuura Machinery Corporation...",
+    "url": "https://www.facebook.com/matsuuramc/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.matsuura.co.jp/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://firmnavi.com/companies/g74-065",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lumex-matsuura.com/japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://matsuura-kikai.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanagata-shimbun.com/230110technology-matsuura/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E6%A9%9F%E6%A2%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://openbizgraph.com/detail/134954",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaijiwire.jp/companies/4210001003869",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://kaijiwire.jp/companies/4210001003869",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yuto_matsuura",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yuto_matsuura/n/ned6e61223df5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yuto_matsuura/all",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sankituushin/n/na113880efbb2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Yuta_mmc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HexagonScrew/status/2105942791054663807",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/yuto_matsuura/status/2056495043557621834",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/m_c_ao/status/2115671809085567409",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/yuto-matsuura-3187501b7/ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/（株）松浦機械製作所",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/matsuuramc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/matsuuramc/posts/jimtof2026出展マツウラブースまでのアクセス動画をぜひ事前にご確認くださいマツウラについての詳細はこちらからご覧ください-matsuura-machin/1675472501136577/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/株式会社松浦機械製作所-260637817301655/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/matsuuramc/videos/再アップロード松浦機械製作所-4代目の松浦悠人がfanuc株式会社の本社からfanucのモノづくりについてお届けしますマツウラは全面的にfanuc製のncを採用/868804571008908/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/yuto_matsuura",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yuto_matsuura/n/n7cb0f896b048",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Yuta_mmc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/matsuuramc/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "松浦機械製作所",
+   "results": [
+    "https://ja.wikipedia.org/wiki/松浦機械製作所",
+    "https://www.matsuura.co.jp/japan/",
+    "https://matsuura-kikai.co.jp/",
+    "https://exhibition-matsuura.com/entrance/",
+    "https://www.matsuura.co.jp/japan/company/profile",
+    "https://matsuura.infolive.co.jp/japan/company",
+    "https://matsuura-kikai.co.jp/machining/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "松浦機械製作所 会社概要 資本金 設立",
+   "results": [
+    "https://ja.wikipedia.org/wiki/松浦機械製作所",
+    "https://www.matsuura.co.jp/japan/company/profile",
+    "https://firmnavi.com/companies/g74-065",
+    "https://compalyze.co.jp/company/4210001003869",
+    "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "https://kaijiwire.jp/companies/4210001003869",
+    "https://matsuura-kikai.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "松浦機械製作所 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.matsuura.co.jp/japan/technology/mono_history/mono_history_lumex",
+    "https://www.lumex-matsuura.com/japan/",
+    "https://www.matsuura.co.jp/japan/products/lumex-series",
+    "https://www.recmbus-3dprint.com/list/lumex.html",
+    "https://kanagata-shimbun.com/230110technology-matsuura/",
+    "https://unifiedsearch.jcdbizmatch.jp/nanotech2026/jp/tct/details/Ulz34hJUVzI",
+    "https://www.lumex-matsuura.com/japan/lumex-avance-25"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "松浦機械製作所 金属積層造形 設備",
+   "results": [
+    "https://www.matsuura.co.jp/japan/",
+    "https://matsuura-kikai.co.jp/",
+    "https://kanagata-shimbun.com/230110technology-matsuura/",
+    "https://www.matsuura.co.jp/japan/technology/mono_history/mono_history_lumex",
+    "https://www.recmbus-3dprint.com/list/lumex.html",
+    "https://www.lumex-matsuura.com/japan/about",
+    "https://www.lumex-matsuura.com/japan/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "松浦機械製作所 株主 出資 親会社",
+   "results": [
+    "https://ja.wikipedia.org/wiki/松浦機械製作所",
+    "https://openbizgraph.com/detail/134954",
+    "https://kaijiwire.jp/companies/4210001003869",
+    "https://kaijiwire.jp/kokoku/01a08c99-6c30-7442-8173-741814519904",
+    "https://catr.jp/companies/bca75/864/settlements/e7d12/343535",
+    "https://www.matsuura.co.jp/japan/company/profile",
+    "https://catr.jp/companies/bca75/864/settlements/c26a6/448773"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "松浦機械製作所 売上高 従業員数",
+   "results": [
+    "https://kaijiwire.jp/companies/4210001003869",
+    "https://job.mynavi.jp/27/pc/search/corp99636/outline.html",
+    "https://job.mynavi.jp/28/pc/search/corp99636/outline.html",
+    "https://www.matsuura.co.jp/japan/company/profile",
+    "https://firmnavi.com/companies/g74-065",
+    "https://customers.omakasebiz.jp/companies/4210001003869-株式会社松浦機械製作所",
+    "https://www.matsuura.co.jp/japan/company/number"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 松浦機械製作所",
+   "results": [
+    "https://note.com/yuto_matsuura",
+    "https://note.com/yuto_matsuura/n/ned6e61223df5",
+    "https://note.com/yuto_matsuura/all",
+    "https://note.com/sankituushin/n/na113880efbb2",
+    "https://note.com/yuto_matsuura/n/n7cb0f896b048",
+    "https://note.com/yuto_matsuura/n/n011f704d12dd",
+    "https://note.com/yuto_matsuura/n/n3d1a6ba993ad"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 松浦機械製作所",
+   "results": [
+    "https://x.com/Yuta_mmc",
+    "https://x.com/HexagonScrew/status/2105942791054663807",
+    "https://x.com/yuto_matsuura/status/2056495043557621834",
+    "https://x.com/m_c_ao/status/2115671809085567409",
+    "https://x.com/yuto_matsuura",
+    "https://x.com/bisai_matsuura",
+    "https://x.com/yuto_matsuura/status/2088401037338296809"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 松浦機械製作所",
+   "results": [
+    "https://jp.linkedin.com/in/yuto-matsuura-3187501b7/ja",
+    "https://www.linkedin.com/company/（株）松浦機械製作所",
+    "https://jp.linkedin.com/in/有-松浦製作所-松浦　-82760882",
+    "https://uk.linkedin.com/company/matsuura-machinery-corporation",
+    "https://ca.linkedin.com/company/matsuura-machinery-corporation",
+    "https://jp.linkedin.com/in/浩二-黒川-73a4241b7",
+    "https://www.linkedin.com/company/matsuura-machinery-corporation"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 松浦機械製作所",
+   "results": [
+    "https://www.facebook.com/matsuuramc/",
+    "https://www.facebook.com/matsuuramc/posts/jimtof2026出展マツウラブースまでのアクセス動画をぜひ事前にご確認くださいマツウラについての詳細はこちらからご覧ください-matsuura-machin/1675472501136577/",
+    "https://www.facebook.com/株式会社松浦機械製作所-260637817301655/",
+    "https://www.facebook.com/matsuuramc/videos/再アップロード松浦機械製作所-4代目の松浦悠人がfanuc株式会社の本社からfanucのモノづくりについてお届けしますマツウラは全面的にfanuc製のncを採用/868804571008908/",
+    "https://www.facebook.com/matsuuramc/posts/本社構内における転落事故について2023年2月18日土午前オフィス用大型コピー機入替の搬入搬出作業を行っている際に販売商社から委託された運送業者の作業者が搬出中/678025224214648/",
+    "https://www.facebook.com/matsuuramc/videos/松浦機械製作所は工場見学に力を入れていますマツウラの機械って実際どんな場所で作られているのモノづくりへのこだわりって何マツウラではどんな人たちが働いているのこの/1954018488379389/",
+    "https://www.facebook.com/matsuuramc/posts/北関東営業所及び東京フォーラムセンター移転のご案内2021年9月1日松浦機械製作所は北関東営業所と東京フォーラムセンターを統合移転し新たに関東営業所を設立致しま/278270790856762/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "松浦機械製作所 note 社長",
+   "results": [
+    "https://note.com/yuto_matsuura",
+    "https://monoque.jp/columns/post-417/",
+    "https://www.matsuura.co.jp/japan/company",
+    "https://note.com/yuto_matsuura/n/n7cb0f896b048",
+    "https://jp.linkedin.com/in/yuto-matsuura-3187501b7/ja",
+    "https://www.matsuura.co.jp/japan/media_library/【3代目x4代目-特別対談】マツウラ創業90周年、そし",
+    "https://x.com/yuto_matsuura"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "松浦機械製作所 X 投稿",
+   "results": [
+    "https://x.com/Yuta_mmc",
+    "https://www.instagram.com/matsuura_mc/",
+    "https://www.matsuura.co.jp/japan/",
+    "https://www.facebook.com/matsuuramc/",
+    "https://socialxup.com/yuto_matsuura",
+    "https://x.com/yuto_matsuura",
+    "https://www.24vids.com/channel/yuto_matsuura"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）"
+ }
+}

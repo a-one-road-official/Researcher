@@ -1,0 +1,1738 @@
+{
+ "name": "東北大学",
+ "aliases": [],
+ "context": "PBF=yes 装置=A2X;Arcam;EBM;粉末床溶融結合 出典=https://chibalab.niche.tohoku.ac.jp/ebm/page01.html",
+ "researched_at": "2026-11-10T17:16:03.452685+00:00",
+ "official_url": "https://www.tohoku.ac.jp/",
+ "identified_by": "search:yahoo_jp:東北大学",
+ "profile": {},
+ "evidence": {
+  "用途・客の産業": [
+   {
+    "quote": "【Web,現地】次世代放射光NanoTerasu が拓く創薬・医療機器開発の未来 ーライフサイエンス計測とデータ解析の共創拠点ー（11.10開催）",
+    "url": "https://www.tohoku.ac.jp/japanese/",
+    "pass": 1
+   },
+   {
+    "quote": "市民講演会 超電導モータで未来のエネルギー社会に貢献（11.14開催）",
+    "url": "https://www.tohoku.ac.jp/japanese/",
+    "pass": 1
+   },
+   {
+    "quote": "東北大学 × キーサイトDay 〜半導体を支える「計測」の世界〜（11.27開催）",
+    "url": "https://www.tohoku.ac.jp/japanese/",
+    "pass": 1
+   },
+   {
+    "quote": "【Web開催】未来型医療創造卓越大学院プログラム FM DTS融合セミナー（12.2開催）",
+    "url": "https://www.tohoku.ac.jp/japanese/",
+    "pass": 1
+   },
+   {
+    "quote": "東北大学第13回公開講座『今、エネルギーを考える』（12.19開催）",
+    "url": "https://www.tohoku.ac.jp/japanese/",
+    "pass": 1
+   },
+   {
+    "quote": "国内第一号の国際卓越研究大学として認定された本学が、\"世界に伍する大学\"として東北から世界へ、そして宇宙へと視野を広げ、今年は「宇宙」をテーマに開催し、地域の方々や卒業生など、約500名にお集まりいただきました",
+    "url": "https://www.tohoku.ac.jp/japanese/2026/10/news20261019-119hcd.html",
+    "pass": 1
+   },
+   {
+    "quote": "続いて「東北大学が解き明かす宇宙」と題し、文学研究科の城戸淳教授と理学研究科の田中雅臣教授を講師に、文理の枠を超えてそれぞれの視点から宇宙の真理に迫る基調講演を行いました",
+    "url": "https://www.tohoku.ac.jp/japanese/2026/10/news20261019-119hcd.html",
+    "pass": 1
+   },
+   {
+    "quote": "宇宙という壮大なテーマと専門的な研究内容を、身近で親しみやすい表現に落とし込んだ講演に、参加者の多くが熱心に聴講していました",
+    "url": "https://www.tohoku.ac.jp/japanese/2026/10/news20261019-119hcd.html",
+    "pass": 1
+   },
+   {
+    "quote": "宇宙エレベーターの実現と普及を目指す「宇宙エレベーターチャレンジトーホク（SELECT）」は、国際宇宙会議への参加のため滞在中のトルコからオンラインで登壇",
+    "url": "https://www.tohoku.ac.jp/japanese/2026/10/news20261019-119hcd.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、第21回宇宙法模擬裁判日本大会で優秀な成績を収めた法学部自主ゼミ「倶楽部国際法」も登壇し、両団体が日頃の取り組みや今後の目標について熱意あふれる発表を行いました",
+    "url": "https://www.tohoku.ac.jp/japanese/2026/10/news20261019-119hcd.html",
+    "pass": 1
+   },
+   {
+    "quote": "学生団体による活動報告｜宇宙エレベーターチャレンジトーホク（SELECT）",
+    "url": "https://www.tohoku.ac.jp/japanese/2026/10/news20261019-119hcd.html",
+    "pass": 1
+   },
+   {
+    "quote": "東北大学流体科学研究所ディスティングイッシュトプロフェッサー、プリンストン大学機械航空宇宙工学科 Robert Porter Patterson記念教授",
+    "url": "https://www.tohoku.ac.jp/japanese/2026/10/news20261019-119hcd.html",
+    "pass": 1
+   },
+   {
+    "quote": "表彰式後には、大学の研究と企業の技術開発、地域との連携がどのように社会実装や産業創出へ繋がるのかというプロセスを語る特別トークセッション「東北から宇宙へ」が行われました",
+    "url": "https://www.tohoku.ac.jp/japanese/2026/10/news20261019-119hcd.html",
+    "pass": 1
+   },
+   {
+    "quote": "東北大学が文部科学省の「産学連携リ・スキリング・エコシステム構築事業」に採択 ー異業種からの医療・ヘルスケア参入を加速するプログラムを展開",
+    "url": "https://www.tohoku.ac.jp/japanese/2026/cate_news/",
+    "pass": 1
+   },
+   {
+    "quote": "NICHeの吉田和哉特任教授がJAXA宇宙戦略基金事業（第二期）～月面インフラ構築に資する要素技術～ に採択・交付決定しました",
+    "url": "https://www.tohoku.ac.jp/japanese/2026/cate_news/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体を体系的に学ぶ「eラーニング半導体応用講座」を開講",
+    "url": "https://www.tohoku.ac.jp/japanese/2026/cate_news/",
+    "pass": 1
+   },
+   {
+    "quote": "未来型医療創造卓越大学院プログラム2026年度 4月期プログラム生の募集について",
+    "url": "https://www.tohoku.ac.jp/japanese/2026/cate_news/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体テクノロジーシンポジウム「半導体エコシステムの新方程式～先端技術と異分野融合が導く新産業創出～」を開催しました",
+    "url": "https://www.tohoku.ac.jp/japanese/2026/cate_news/",
+    "pass": 1
+   },
+   {
+    "quote": "具体的には、両者のそれぞれが強みを有する、サイバーセキュリティ、宇宙ネットワーク、フィジカルAI及び量子ICTを中心に、連携の更なる強化を図ることとしています",
+    "url": "https://www.tohoku.ac.jp/japanese/2026/10/news20261015-nict.html",
+    "pass": 1
+   },
+   {
+    "quote": "さまざまな医療技術を、家族で一緒に体験しながら学べるブースです",
+    "url": "https://www.tohoku.ac.jp/japanese/2026/06/news20260612-science.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究者や医師、看護師、臨床検査技師、医学生などが見守る中、最先端の医療技術に触れました",
+    "url": "https://www.tohoku.ac.jp/japanese/2026/06/news20260612-science.html",
+    "pass": 1
+   },
+   {
+    "quote": "亀井病院長は「医療や健康に関心を持ち、将来この分野を志すきっかけになればと考えています",
+    "url": "https://www.tohoku.ac.jp/japanese/2026/06/news20260612-science.html",
+    "pass": 1
+   },
+   {
+    "quote": "大学病院には、高度な医療を提供するだけでなく、医療への理解を社会に広める責任もあり、今回はその一つの形でした」と、期待と共に使命について語りました",
+    "url": "https://www.tohoku.ac.jp/japanese/2026/06/news20260612-science.html",
+    "pass": 1
+   },
+   {
+    "quote": "視察団は、ジョン・オワン・エノー連邦産業貿易投資省（FMITI）国務大臣をはじめ、ウグボー・テルシーア下院議員・環境委員会副委員長、ウム・ベロ・ドンゴダジ・アハメド国家自動車設計開発評議会（NADDC）企画官らで構成され、自動車リサイクルや蓄電池（バッテリー）再生、プラスチックリサイクルなどに関する日本の法制度や先端技術の知見を得るため、本学などを視察先に選定し来日しました",
+    "url": "https://www.tohoku.ac.jp/japanese/2026/11/news20261109-nga.html",
+    "pass": 1
+   },
+   {
+    "quote": "滞在中、視察団は学外の先進的な自動車リサイクル事業を視察したほか、10月26日には本学大学院環境科学研究科が主催する「ELV（使用済自動車）リサイクルワークショップ」に参加しました",
+    "url": "https://www.tohoku.ac.jp/japanese/2026/11/news20261109-nga.html",
+    "pass": 1
+   },
+   {
+    "quote": "ワークショップでは、持続可能な社会の実現に向け、使用済み自動車のリサイクルシステムや法政策について研究発表や活発な意見交換が行われました",
+    "url": "https://www.tohoku.ac.jp/japanese/2026/11/news20261109-nga.html",
+    "pass": 1
+   },
+   {
+    "quote": "本学星陵キャンパスに建設中（2027年3月末竣工予定）の「UREX星陵」は、同キャンパスの中央付近に位置し、本学が有する最先端の医療および医療施設、革新的な技術や研究施設へのフレキシブルなアクセスが可能な施設です",
+    "url": "https://www.tohoku.ac.jp/japanese/2026/11/news20261028-urexsr.html",
+    "pass": 1
+   },
+   {
+    "quote": "産学共創を通じて医薬や医療機器等の社会実装の加速化、それにより生み出される医療の充実や健康のサポート体制の推進により、人々が心豊かに暮らすことのできるグリーン未来社会の実現を目指します",
+    "url": "https://www.tohoku.ac.jp/japanese/2026/11/news20261028-urexsr.html",
+    "pass": 1
+   },
+   {
+    "quote": "東北大学・千葉晶彦特任教授（未来科学技術共同研究センター）の学術的裏付けを基とした技術サポート、双日の総合商社としてのネットワークと多岐にわたるビジネスでの知見、そしてコイワイの試作研究用開発部品事業の経験や技術力を融合し、金属粉末の開発・製造から試作品造形・量産対応までワンストップサービスを提供し続けています",
+    "url": "https://jampt.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター受託造形サービス",
+    "url": "https://jampt.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターによる実用品・量産品開発",
+    "url": "https://jampt.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "・3Dプリンターによる航空宇宙用部品の製造",
+    "url": "https://jampt.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "品質マネジメントシステム「JISQ9100」（3Dプリンターによる航空宇宙用部品の製造、金属粉末の製造）",
+    "url": "https://jampt.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターの製造プロセスと製造現場環境に関する要求事項を定めた国際標準規格ISO/ASTM52920に準拠した「AM製造サイト認証」を、国内の専業受託造形サービス事業者（サービスビューロ）として初めて取得",
+    "url": "https://jampt.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）の「経済安全保障重要技術育成プログラム（K-Program）／高度な金属積層造形システム技術の開発・実証」に採択",
+    "url": "https://jampt.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車（80）",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙（74）",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "医療（168）",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "整形外科用医療機器メーカーのナカシマヘルスフォース株式会社（岡山県岡山市東区、代表取締役社長：中島義雄）は2026年4月15日、岡山県赤磐市岩田地区に本社・工場…",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器メーカーのナカシマヘルスフォース株式会社（岡山市）が、「第10回ものづくり日本大賞」において最高賞である内閣総理大臣賞を受賞した",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形は、試作技術から生産設備へと役割を変えつつある",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio、2025年は金属DED実用化の節目に防衛・自動車・石油ガス分野でサプライチェーン実装が進展",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "ワイヤ・レーザー方式の金属アディティブ・マニュファクチャリング（AM）を手がけるMeltioは、2025年を通じた展示会活動と実運用事例を通じ、指向性エネルギー…",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "Apple、100％再生チタニウム粉末を用いた3Dプリント量産に成功し、Apple Watch Ultra 3／Series 11に採用",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "Appleは2025年モデルのApple Watch Ultra 3およびApple Watch Series 11（チタニウムモデル）において、航空宇宙産業レ…",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "MeltioとPhillips Corporationが防衛産業向けハイブリッドCNC技術を推進",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio、アジア防衛分野で技術認証を取得！韓国軍が国内初導入",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼とアルミをつなぐ！東北大学金属材料研究所が金属3Dプリンターで自動車軽量化を実現",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "指向性エネルギー堆積法 / DED（Direct Energy Deposition）を解説！WAAM方式と何が違う？",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界で活躍する3Dプリンター製の治具・工具",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の3Dプリンター活用の現状と将来",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の試作開発部門で活躍する3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙業界における3Dプリンターの活用",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "航空業界で活躍する3Dプリンター製最終製品",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "砂型3Dプリンターってなに？鋳造プロセスを大幅に改革、量産に活用されるAM技術の注目株！",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "特に航空宇宙、自動車、医療分野においては、製品の軽量化や高性能化に貢献できる技術として産業界からも注目されています",
+    "url": "https://jampt.jp/company/chiba/",
+    "pass": 3
+   },
+   {
+    "quote": "また、マルチマテリアル造形やトポロジー最適化技術との組み合わせによって、自動車部品をはじめとするさまざまな部材の軽量化や性能向上が可能となっていることにも注目しております",
+    "url": "https://jampt.jp/company/chiba/",
+    "pass": 3
+   },
+   {
+    "quote": "この強みを生かし、同社の製品はレーシングカーのエンジンやJAXAが打ち上げる宇宙ステーション補給機「こうのとり」の部品の一部を開発し、採用されている",
+    "url": "https://startup.tohoku.ac.jp/achievement/interview-jampt/",
+    "pass": 3
+   },
+   {
+    "quote": "医療でも活用が進んでおり、最近では東北大学病院と骨折患者の骨をつなぐプレートを患者一人ひとりに合わせてカスタマイズして製造するサービスを共同開発中だ",
+    "url": "https://startup.tohoku.ac.jp/achievement/interview-jampt/",
+    "pass": 3
+   },
+   {
+    "quote": "「日本での活用はまだほとんど試作品の域を出ていませんが、世界ではもう金属積層での量産製造も始まっています",
+    "url": "https://startup.tohoku.ac.jp/achievement/interview-jampt/",
+    "pass": 3
+   }
+  ],
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "東北大学金属材料研究所および保有する資料群が日本物理遺産に認定",
+    "url": "https://www.tohoku.ac.jp/japanese/2026/cate_news/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンター用粉末製造販売",
+    "url": "https://jampt.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター受託造形サービス",
+    "url": "https://jampt.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターによる実用品・量産品開発",
+    "url": "https://jampt.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター用プラズマ回転電極法（PREP）装置導入",
+    "url": "https://jampt.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "レーザー方式3DプリンターConcept Laser M2 Cusingを導入",
+    "url": "https://jampt.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "検査用X線CT装置「XT H 225」を導入",
+    "url": "https://jampt.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンス製ワンショット3D形状測定機「VR-6000」を導入",
+    "url": "https://jampt.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）の「経済安全保障重要技術育成プログラム（K-Program）／高度な金属積層造形システム技術の開発・実証」に採択",
+    "url": "https://jampt.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "長年の間、金属積層造形の研究に携わってきました",
+    "url": "https://chibalab.niche.tohoku.ac.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "３Dプリンター技術を金属積層造形に活用することで、効率的な開発、実証実験、2023年度からは所属を東北大学未来科学技術共同研究センター（NICHe）に移し、新たなプロジェクトがスタート",
+    "url": "https://chibalab.niche.tohoku.ac.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "「新規金属積層造形技術開発とそれを核とした新材料・材料加工プロセスの創生プロジェクト」では金属３Dプリンターにさらなる革命を起こします",
+    "url": "https://chibalab.niche.tohoku.ac.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "電子ビーム積層造形、組織形成シミュレーション・塑性変形解析",
+    "url": "https://chibalab.niche.tohoku.ac.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターに関する記事一覧 | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター（104）",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターで老朽ポンプを短納期・高耐久化 酉島製作所、一体型プロペラの適用を拡大",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社酉島製作所（以下、酉島製作所）は、金属3Dプリンターを活用した一体型プロペラ（羽根車）の適用を拡大している",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "ナカシマヘルスフォース、赤磐市に新本社・工場を建設——約100億円を投じ金属3Dプリンターを増設、患者適合型製品の生産を拡大",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター製の脊椎スペーサーが「ものづくり日本大賞」最高賞——ナカシマヘルスフォースが第10回内閣総理大臣賞を受賞",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターを活…",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "PC制御とEtherCATが拓く、金属積層造形の次世代プラットフォーム",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形は、試作技術から生産設備へと役割を変えつつある",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "新手法で金属3Dプリンタ用材料開発を加速！Al-Fe系合金で軽量・高強度・耐熱を両立、輸送機器分野での実装視野に",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "名古屋大学大学院工学研究科の研究グループは、金属3Dプリンタ特有の造形プロセスを前提とした新たな材料設計の考え方を提案し、アルミニウム－鉄（Al-Fe）系合金に…",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "EOSが新型金属3Dプリンター「EOS M4 ONYX」を発表",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "独の大手EOS社は、2025年11月18日にドイツで開催されたFormnext 2025で新型金属3Dプリンター「EOS M4 ONYX」を発表した",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "製造技術のリーディングカンパニーであるPhillips Corporation（アメリカ合衆国・メリーランド州、以下、Phillips）と、レーザー金属積層造形…",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio、アジア防衛分野で技術認証を取得！韓国軍が国内初導入",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターが拓く新時代！純金属混合粉末によるハイエントロピー合金",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼とアルミをつなぐ！東北大学金属材料研究所が金属3Dプリンターで自動車軽量化を実現",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学金属材料研究所が金属3Dプリンターを用いた新たなマルチマテリアル技術が開発された",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "製造時間が2週間から2時間に短縮！DMG森精機社が新型大型金属AMハイブリッド機を初公開",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "DMG森精機社（東京都江東区）は、新型のハイブリッド金属積層造形機「LASERTEC 3000｜3000 DED hybrid 2nd Generation」を…",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "EOS社 産業用3Dプリンティング向け 2つの金属粉末材料を発売",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "EOS社は2つの新しい産業用3Dプリンティング向け金属材料、EOS NickelAlloy IN738とEOS NickelAlloy K500の追加発売を発表…",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "米海軍、液体金属ジェッティング3Dプリンターを艦上に導入し、高強度アルミニウム合金部品の造形に成功",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "日本積層造形株式会社/JAMPT（ジャンプ）は、2017年の設立以来、千葉晶彦名誉教授（金属材料研究所）・未来科学技術共同研究センター 特任教授を技術顧問として招聘し、金属積層造形技術とプラズマ回転電極法（PREP）を中心とする材料開発を進めています",
+    "url": "https://jampt.jp/company/chiba/",
+    "pass": 3
+   },
+   {
+    "quote": "最先端の金属3Dプリンティング技術（金属積層造形技術）と材料開発手法を日本のモノづくりへ",
+    "url": "https://jampt.jp/company/chiba/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンティング技術（金属積層造形技術）と積層造形に適した粉末の研究・開発に同時に取り組むことにより、造形品の最適化について研究しています",
+    "url": "https://jampt.jp/company/chiba/",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、レーザー及び電子ビーム方式の金属3Dプリンターにおける造形条件の最適化に資する基礎学理を探求し、プロセス分析と最適レシピの開発に取り組んでいます",
+    "url": "https://jampt.jp/company/chiba/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末開発・製造、最適な金属組織の探索・評価、更には最適な金属加工やトポロジー最適化を含む積層造形品の設計を試みるなど、金属3Dプリンター分野における総合的なソリューションの提供を目指して研究を進めています",
+    "url": "https://jampt.jp/company/chiba/",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形に理想的な性質を持つPREP粉末",
+    "url": "https://jampt.jp/company/chiba/",
+    "pass": 3
+   },
+   {
+    "quote": "（2018年11月導入）",
+    "url": "https://jampt.jp/company/chiba/",
+    "pass": 3
+   },
+   {
+    "quote": "革新的な金属積層造形技術で切り拓く、持続可能なものづくりの新時代～JAMPTへの期待～",
+    "url": "https://jampt.jp/company/chiba/",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形（AM）技術は、複雑かつ精密な部品製造を可能にする革新的な技術であり、持続可能で競争力のある製造業の基盤として、ますます期待が高まっています",
+    "url": "https://jampt.jp/company/chiba/",
+    "pass": 3
+   },
+   {
+    "quote": "JAMPTは、レーザー方式（L-PBF）および電子ビーム方式（EB-PBF）の両工法に関して豊富な経験と高度な専門技術を有し、部品製造の品質保証体制の確立に向けて積極的な研究開発と実用化に取り組まれています",
+    "url": "https://jampt.jp/company/chiba/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし現在、国内外における金属積層造形部品の製造はレーザー方式に偏重しており、電子ビーム方式が本来持つ、真空環境下で高融点材料や反応性材料を溶融凝固することで高品質な部材を製造できるという重要なプロセス要件が軽視される傾向にあります",
+    "url": "https://jampt.jp/company/chiba/",
+    "pass": 3
+   },
+   {
+    "quote": "特にジェットエンジンのタービンブレードなど、安全性と信頼性が最も重要となる部材の造形では、酸化や窒化、水素脆化などの有害な影響をほぼ完全に排除できる真空環境下での造形が可能な電子ビーム方式（EB-PBF）が品質保証の観点から不可欠な工法です",
+    "url": "https://jampt.jp/company/chiba/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、EB-PBF技術を用いた製造技術の開発と推進は極めて重要であり、この基本的なプロセス要件を踏まえ、材料特性や用途に応じてレーザー方式と電子ビーム方式を適切に使い分けるというJAMPTの基本姿勢を、今後とも緩めることなく、一層強化して推進されることを強く期待しております",
+    "url": "https://jampt.jp/company/chiba/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、金属積層造形技術を用いたモノづくりにおいては、AIを活用したプロセスの最適化やデジタルツイン技術の導入が今後の必須課題であると考えます",
+    "url": "https://jampt.jp/company/chiba/",
+    "pass": 3
+   },
+   {
+    "quote": "今後とも、産学連携を軸に、JAMPTが金属積層造形技術のリーディングカンパニーとして、持続可能で競争力ある製造業の未来を切り拓いていかれることを今後とも強く願い、引き続き支援してまいります",
+    "url": "https://jampt.jp/company/chiba/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター総合技術サービスを提供する当社の技術顧問・千葉特任教授による、金属積層造形に関する研究論文の一部をご紹介します",
+    "url": "https://jampt.jp/company/chiba/",
+    "pass": 3
+   },
+   {
+    "quote": "Development of macro-defect-free PBF-EB-processed Ti–6Al–4V alloys with superior plasticity using PREP-synthesized powder and machine learning-assisted process optimization",
+    "url": "https://jampt.jp/company/chiba/",
+    "pass": 3
+   },
+   {
+    "quote": "Machine-Learning-Assisted Development of Carbon Steel With Superior Strength and Ductility Manufactured by Electron Beam Powder Bed Fusion",
+    "url": "https://jampt.jp/company/chiba/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末床溶融結合型金属積層造形技術における金属粉末の流動性と電気的特性の関係：表面酸化皮膜の影響",
+    "url": "https://jampt.jp/company/chiba/",
+    "pass": 3
+   },
+   {
+    "quote": "電子ビーム積層造形におけるインシチュ監視による無欠陥造形技術の確立",
+    "url": "https://jampt.jp/company/chiba/",
+    "pass": 3
+   },
+   {
+    "quote": "「東北大学金属研究所の知見を生かしたアカデミックな背景があることが強み」と、同社は材料となる金属の粉末の製造・販売や、日本電子との3Dプリンターの共同開発も手がける",
+    "url": "https://startup.tohoku.ac.jp/achievement/interview-jampt/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターも一般的なレーザービームではなく、高度な技術が求められる「電子ビーム」のものを主に使用・開発しており、レーザービームでは加工が困難な「純銅」などの特殊な金属素材での製造が可能だ",
+    "url": "https://startup.tohoku.ac.jp/achievement/interview-jampt/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "国立大学法人 東北大学 の新卒採用・ 会社概要 | マイナビ2027 — 国立大学法人 東北大学 の新卒採用・ 会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp230223 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp230223/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学 の 概要 - Tohoku University — 東北大学 の 概要 - Tohoku University Tohoku University https://www.tohoku.ac.jp > ... > 東北大学について",
+    "url": "https://www.tohoku.ac.jp/japanese/profile/about/01/about0101/",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学 ベンチャーパートナーズ株式 会社 の 設立 につい... — 東北大学 ベンチャーパートナーズ株式 会社 の 設立 につい... Tohoku University https://www.tohoku.ac.jp > ホーム > 2015年のニュース",
+    "url": "https://www.tohoku.ac.jp/japanese/2015/02/news20150223-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "国立大学法人 東北大学 | GOODSTORY - ストーリーがつむぐ — 国立大学法人 東北大学 | GOODSTORY - ストーリーがつむぐ GoodStory https://www.goodstory.jp > companies > tohoku-ac",
+    "url": "https://www.goodstory.jp/companies/tohoku-ac/",
+    "pass": 3
+   },
+   {
+    "quote": "About us | 東北大学 ベンチャーパートナーズ株式 会社 — About us | 東北大学 ベンチャーパートナーズ株式 会社 東北大学ベンチャーパートナーズ株式会社 https://thvp.co.jp > about",
+    "url": "https://thvp.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "千葉研究室｜ 東北大学 未来科学技術共同研究センター — 千葉研究室｜ 東北大学 未来科学技術共同研究センター 千葉 晶彦 https://chibalab.niche.tohoku.ac.jp",
+    "url": "https://chibalab.niche.tohoku.ac.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学 千葉晶彦特任教授との共同研究 - 日本 積層造形 株式会社 — 東北大学 千葉晶彦特任教授との共同研究 - 日本 積層造形 株式会社 日本積層造形株式会社 https://jampt.jp > 会社案内",
+    "url": "https://jampt.jp/company/chiba/",
+    "pass": 3
+   },
+   {
+    "quote": "日本 積層造形 株式会社 - 東北大学スタートアップ事業化センター — 日本 積層造形 株式会社 - 東北大学スタートアップ事業化センター 東北大学スタートアップ事業化センター https://startup.tohoku.ac.jp > achievement > interview-jampt",
+    "url": "https://startup.tohoku.ac.jp/achievement/interview-jampt/",
+    "pass": 3
+   },
+   {
+    "quote": "【DIGEST前編】AM 金属積層造形 の新潮流 | 東北大学 千葉晶彦 — 【DIGEST前編】AM 金属積層造形 の新潮流 | 東北大学 千葉晶彦 YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=y8I4vuAjXlk",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学 と三井住友信託銀行の共同 出資 会社設立について — 東北大学 と三井住友信託銀行の共同 出資 会社設立について Tohoku University https://www.tohoku.ac.jp > press20230523-01-thci",
+    "url": "https://www.tohoku.ac.jp/japanese/2023/05/press20230523-01-thci.html",
+    "pass": 3
+   },
+   {
+    "quote": "国立大学法人 東北大学出資 事業推進委員会設置要項 — 国立大学法人 東北大学出資 事業推進委員会設置要項 g-reiki.net https://www1.g-reiki.net > tohoku.ac > reiki_honbun",
+    "url": "https://www1.g-reiki.net/tohoku.ac/reiki_honbun/u101RG00002372.html",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学 と三井住友信託銀行の共同 出資 会社設立について — 東北大学 と三井住友信託銀行の共同 出資 会社設立について 三井住友信託銀行 PDF https://www.smtb.jp > corporate > release > pdf",
+    "url": "https://www.smtb.jp/-/media/tb/about/corporate/release/pdf/230523.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学 ベンチャーパートナーズ株式会社 | 東北大学 ... — 東北大学 ベンチャーパートナーズ株式会社 | 東北大学 ... 東北大学ベンチャーパートナーズ株式会社 https://thvp.co.jp",
+    "url": "https://thvp.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学 VCが3号ファンド 新日本空調や三菱UFJ信託銀行が 出資 — 東北大学 VCが3号ファンド 新日本空調や三菱UFJ信託銀行が 出資 日本経済新聞 https://www.nikkei.com > 地域 > 東北",
+    "url": "https://www.nikkei.com/article/DGXZQOCC302ZC0Q6A630C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "国立大学法人 東北大学 の会社概要 | マイナビ2028 — 国立大学法人 東北大学 の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp230223 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp230223/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "役員・職員数 | 東北大学 について - Tohoku University — 役員・職員数 | 東北大学 について - Tohoku University Tohoku University https://www.tohoku.ac.jp > ... > 東北大学について",
+    "url": "https://www.tohoku.ac.jp/japanese/profile/about/05/about0504/",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学 職員採用試験情報 - 片平 - Tohoku — 東北大学 職員採用試験情報 - 片平 - Tohoku Tohoku University https://www.bureau.tohoku.ac.jp > jinji > open > saiyo",
+    "url": "https://www.bureau.tohoku.ac.jp/jinji/open/saiyo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "国立大学法人 東北大学 の新卒採用・会社概要 | マイナビ2027 — 国立大学法人 東北大学 の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp230223 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp230223/outline.html",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "東北大学・千葉晶彦特任教授（未来科学技術共同研究センター）の学術的裏付けを基とした技術サポート、双日の総合商社としてのネットワークと多岐にわたるビジネスでの知見、そしてコイワイの試作研究用開発部品事業の経験や技術力を融合し、金属粉末の開発・製造から試作品造形・量産対応までワンストップサービスを提供し続けています",
+    "url": "https://jampt.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター用粉末製造販売",
+    "url": "https://jampt.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "品質マネジメントシステム「JISQ9100」（3Dプリンターによる航空宇宙用部品の製造、金属粉末の製造）",
+    "url": "https://jampt.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "SLIM に搭載されたアルミニウム製「衝撃吸収材」が大阪・関西万博の日本政府館に常設展示",
+    "url": "https://jampt.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "10月19〜20日に粉体粉末冶金協会秋季大会にてYim先生が発表を行った",
+    "url": "https://chibalab.niche.tohoku.ac.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Ti‒48Al‒2Cr‒2Nb粉末の流動性に関する論文がAdditive Manfucturing誌に受理されました",
+    "url": "https://chibalab.niche.tohoku.ac.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "名古屋大学大学院工学研究科の研究グループは、金属3Dプリンタ特有の造形プロセスを前提とした新たな材料設計の考え方を提案し、アルミニウム－鉄（Al-Fe）系合金に…",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "Apple、100％再生チタニウム粉末を用いた3Dプリント量産に成功し、Apple Watch Ultra 3／Series 11に採用",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターが拓く新時代！純金属混合粉末によるハイエントロピー合金",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼とアルミをつなぐ！東北大学金属材料研究所が金属3Dプリンターで自動車軽量化を実現",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "この技術により、鉄鋼とアルミ合金の界面接合強度が飛躍的に改善され、従来…",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "EOS社 産業用3Dプリンティング向け 2つの金属粉末材料を発売",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "米海軍、液体金属ジェッティング3Dプリンターを艦上に導入し、高強度アルミニウム合金部品の造形に成功",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターで使える金属材料は？ステンレスやアルミニウムなど種類と特徴を解説",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末床溶融結合法 / PBF（Powder Bed Fusion）を解説！SLS方式、SLM方式と何が違う？",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンティング技術（金属積層造形技術）と積層造形に適した粉末の研究・開発に同時に取り組むことにより、造形品の最適化について研究しています",
+    "url": "https://jampt.jp/company/chiba/",
+    "pass": 3
+   },
+   {
+    "quote": "また、プラズマ回転電極法による金属粉末の特性を学理解析し、粉末の開発・製造に取り組んでいます",
+    "url": "https://jampt.jp/company/chiba/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末開発・製造、最適な金属組織の探索・評価、更には最適な金属加工やトポロジー最適化を含む積層造形品の設計を試みるなど、金属3Dプリンター分野における総合的なソリューションの提供を目指して研究を進めています",
+    "url": "https://jampt.jp/company/chiba/",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形に理想的な性質を持つPREP粉末",
+    "url": "https://jampt.jp/company/chiba/",
+    "pass": 3
+   },
+   {
+    "quote": "（当社SEM撮影、Ti-6Al-4V）",
+    "url": "https://jampt.jp/company/chiba/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした課題への対応にはさまざまな対策が求められますが、中でも特に重要なのは、粉末材料の特性を多角的かつ詳細に分析・管理することです",
+    "url": "https://jampt.jp/company/chiba/",
+    "pass": 3
+   },
+   {
+    "quote": "特にアルミニウム合金粉末などは湿気や静電気の影響を受けやすく、これらが粉末の流動性低下や水素脆化を引き起こす原因となります",
+    "url": "https://jampt.jp/company/chiba/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、一般的に用いられるアトマイズ法で製造された金属粉末では、製造過程で使用されるアルゴンガスなどのアトマイズガスが気泡状の欠陥（ガスポア）として粉末内部にトラップされることがあり、このような粉末を使用すると造形物に多数のガス欠陥が形成され、疲労強度の低下や予期しない突然の破壊につながる可能性があります",
+    "url": "https://jampt.jp/company/chiba/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末由来のこうした製品欠陥は絶対に排除しなければなりません",
+    "url": "https://jampt.jp/company/chiba/",
+    "pass": 3
+   },
+   {
+    "quote": "その点、日本積層造形株式会社（JAMPT）が活用しているプラズマ回転電極法（PREP）は、粉末製造プロセスにおいてアトマイズガスを使用しないため、ガスポアなどの気泡状欠陥をほとんど含まない高品質な金属粉末を製造できる優れた技術です",
+    "url": "https://jampt.jp/company/chiba/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末床溶融結合型金属積層造形技術における金属粉末の流動性と電気的特性の関係：表面酸化皮膜の影響",
+    "url": "https://jampt.jp/company/chiba/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターで金属製品を製造する「金属積層」分野で、原料となる金属粉末の製造から製品の造形、3Dプリンターの開発までを一貫して手がける日本積層造形",
+    "url": "https://startup.tohoku.ac.jp/achievement/interview-jampt/",
+    "pass": 3
+   },
+   {
+    "quote": "（純銅など扱いの難しい金属で造形できるのが同社の強みだ）",
+    "url": "https://startup.tohoku.ac.jp/achievement/interview-jampt/",
+    "pass": 3
+   },
+   {
+    "quote": "「東北大学金属研究所の知見を生かしたアカデミックな背景があることが強み」と、同社は材料となる金属の粉末の製造・販売や、日本電子との3Dプリンターの共同開発も手がける",
+    "url": "https://startup.tohoku.ac.jp/achievement/interview-jampt/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末は、従来品と比べ疲労強度が格段に強くなる「PREP」という製法で製造",
+    "url": "https://startup.tohoku.ac.jp/achievement/interview-jampt/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターも一般的なレーザービームではなく、高度な技術が求められる「電子ビーム」のものを主に使用・開発しており、レーザービームでは加工が困難な「純銅」などの特殊な金属素材での製造が可能だ",
+    "url": "https://startup.tohoku.ac.jp/achievement/interview-jampt/",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "東北大学ベンチャーパートナーズ株式会社を無限責任組合員とするTHVP-1号投資事業有限責任組合が株主となる",
+    "url": "https://jampt.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学と三井住友信託銀行の共同出資会社設立について",
+    "url": "https://www.smtb.jp/-/media/tb/about/corporate/release/pdf/230523.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "社長：大山 一也、以下「三井住友信託銀行」）は、2023 年４月 28 日に共同出資会社である東北大学共",
+    "url": "https://www.smtb.jp/-/media/tb/about/corporate/release/pdf/230523.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 東北大学は、国立大学初となる民間との共同出資による子会社 （※１）を設立しました",
+    "url": "https://www.smtb.jp/-/media/tb/about/corporate/release/pdf/230523.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 三井住友信託銀行は、共同出資会社との連携を通じて、民間 企業の抱える課題やニーズと、大",
+    "url": "https://www.smtb.jp/-/media/tb/about/corporate/release/pdf/230523.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．共同出資会社設立の背景と目的",
+    "url": "https://www.smtb.jp/-/media/tb/about/corporate/release/pdf/230523.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学と三井住友信託銀行の親会社である三井住友トラスト・ホールディングス株式会社（取締役執",
+    "url": "https://www.smtb.jp/-/media/tb/about/corporate/release/pdf/230523.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "今回の共同出資会社の設立は、本連携協定をさらに発展させ、民間企業と",
+    "url": "https://www.smtb.jp/-/media/tb/about/corporate/release/pdf/230523.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の視点からアプローチする新たな仕組みとして、国立大学初の民間との共同出資により「東北大学共創イ",
+    "url": "https://www.smtb.jp/-/media/tb/about/corporate/release/pdf/230523.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "今回の共同出資会社設立を通じた取り組みは、当社の法人のお客さまや地域が抱える課",
+    "url": "https://www.smtb.jp/-/media/tb/about/corporate/release/pdf/230523.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（※１）国立大学初となる民間との共同出資による子会社",
+    "url": "https://www.smtb.jp/-/media/tb/about/corporate/release/pdf/230523.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年の国立大学法人法施行令、令和４年の国立大学法人法の改正による規制の緩和、出資対象事業範囲の拡大",
+    "url": "https://www.smtb.jp/-/media/tb/about/corporate/release/pdf/230523.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この規制緩和と出資範囲の拡大によって、国立大学の研究成果や教育研究施設等の社会還元が",
+    "url": "https://www.smtb.jp/-/media/tb/about/corporate/release/pdf/230523.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、自らが投資を呼び込み、成長し続ける経営モデルの実現が求められている国立大学は、規制緩和と出資",
+    "url": "https://www.smtb.jp/-/media/tb/about/corporate/release/pdf/230523.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5. 出資金： １億円（資本金 5,000 万円、資本準備金 5,000 万円）",
+    "url": "https://www.smtb.jp/-/media/tb/about/corporate/release/pdf/230523.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6. 出資者： 東北大学（85.1%）、三井住友信託銀行（14.9%）",
+    "url": "https://www.smtb.jp/-/media/tb/about/corporate/release/pdf/230523.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは、2015年2月に東北大学の100%子会社として設立されました",
+    "url": "https://note.com/thvp/n/nab4609aff691",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "東北大学 の人気・新着記事まとめ - note 東北大学 の人気・新着記事まとめ - note note https://note.com > tag > 東北大学",
+    "url": "https://note.com/tag/%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "GCS 東北大学 グローバルキャンパスサポーター - note GCS 東北大学 グローバルキャンパスサポーター - note note https://note.com > gcs_tohoku",
+    "url": "https://note.com/gcs_tohoku",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学 医学部 日本一詳しい徹底解剖レポート 偏差値 学費 ... 東北大学 医学部 日本一詳しい徹底解剖レポート 偏差値 学費 ... note https://note.com > 教育・学び > 学び・受験",
+    "url": "https://note.com/lostman0101/n/n6b524fa0c948",
+    "pass": 3
+   },
+   {
+    "quote": "大学紹介シリーズ 東北大学 ってどんな大学？偏差値だけでは ... 大学紹介シリーズ 東北大学 ってどんな大学？偏差値だけでは ... note https://note.com > 教育・学び > 大学教育",
+    "url": "https://note.com/soukisya1142/n/n920b75108c3e",
+    "pass": 3
+   },
+   {
+    "quote": "THVP note はじめます｜ 東北大学 ベンチャーパートナーズ株式 ... THVP note はじめます｜ 東北大学 ベンチャーパートナーズ株式 ... note https://note.com > ビジネス > スタートアップ・VC",
+    "url": "https://note.com/thvp/n/nab4609aff691",
+    "pass": 3
+   },
+   {
+    "quote": "DXチーム活動報告｜ 東北大学 サイエンス・アンバサダー - note DXチーム活動報告｜ 東北大学 サイエンス・アンバサダー - note note https://note.com > scienceangel",
+    "url": "https://note.com/scienceangel/m/m99c375c61486",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "最先端の科学研究から大学受験の戦略まで、幅広い知見が集まっています。",
+    "url": "https://note.com/tag/%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "入試対策の体験記や研究成果の解説、学生生活の記録など様々な記事が寄せられています。",
+    "url": "https://note.com/tag/%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "最先端の科学研究から大学受験の戦略まで、幅広い知見が集まっています。入試対策…",
+    "url": "https://note.com/tag/%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "Vol.487 FIRE旅 in 仙台（後編） 「東北グルメ」",
+    "url": "https://note.com/tag/%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "外国語がすぐ上達する人、なかなか伸びない人。その差は「努力」ではなく「耳」にあった？",
+    "url": "https://note.com/tag/%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "J1 Strategy Lab｜受験×教育×AI",
+    "url": "https://note.com/tag/%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "わい＃【偏差値40➞70】大逆転を実現させる人",
+    "url": "https://note.com/tag/%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   },
+   {
+    "quote": "GCS 東北大学グローバルキャンパスサポーター｜note",
+    "url": "https://note.com/gcs_tohoku",
+    "pass": 3
+   },
+   {
+    "quote": "【言語沼への道①】sea/sheも聞き分けられなかった私が言語オタクになるまで",
+    "url": "https://note.com/gcs_tohoku",
+    "pass": 3
+   },
+   {
+    "quote": "GCS 東北大学グローバルキャンパスサポーター",
+    "url": "https://note.com/gcs_tohoku",
+    "pass": 3
+   },
+   {
+    "quote": "【見逃し厳禁！】短期海外留学紹介-工学部編-",
+    "url": "https://note.com/gcs_tohoku",
+    "pass": 3
+   },
+   {
+    "quote": "【保存級】意外と知られていない東北大学最強の短期海外留学紹介-エストニア編-",
+    "url": "https://note.com/gcs_tohoku",
+    "pass": 3
+   },
+   {
+    "quote": "【アジア満載！】短期海外留学紹介-経済学部編-",
+    "url": "https://note.com/gcs_tohoku",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学 医学部 日本一詳しい徹底解剖レポート 偏差値 学費 進級 留年 中退 退学 放校 Opus５｜Lostman｜ロストマン 歯学部・薬学部・獣医学部・看護学部｜留年・退学・中退・除籍・放校",
+    "url": "https://note.com/lostman0101/n/n6b524fa0c948",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学 医学部 日本一詳しい徹底解剖レポート 偏差値 学費 進級 留年 中退 退学 放校 Opus５",
+    "url": "https://note.com/lostman0101/n/n6b524fa0c948",
+    "pass": 3
+   },
+   {
+    "quote": "Lostman｜ロストマン 歯学部・薬学部・獣医学部・看護学部｜留年・退学・中退・除籍・放校",
+    "url": "https://note.com/lostman0101/n/n6b524fa0c948",
+    "pass": 3
+   },
+   {
+    "quote": "───────────────────────",
+    "url": "https://note.com/lostman0101/n/n6b524fa0c948",
+    "pass": 3
+   },
+   {
+    "quote": "にある医学部です。医学科と保健学科の二つの学科があり、このニュースでは主に医師を養成する",
+    "url": "https://note.com/lostman0101/n/n6b524fa0c948",
+    "pass": 3
+   },
+   {
+    "quote": "大学ホームページによれば、東北大学医学部のルーツは仙台医学専門学校にさかのぼり、1915年（大正4年）に東北帝国大学医科大学として発足しました。中国の文豪・魯迅が留学していたことでも知られる、100年以上の歴史を持つ医学部です。",
+    "url": "https://note.com/lostman0101/n/n6b524fa0c948",
+    "pass": 3
+   },
+   {
+    "quote": "いちばんの特徴は、大学全体の校是である**「研究第一主義」「実学尊重」「門戸開放」**が、医学部の教育にもそのまま流れ込んでいることです。大学ホームページの説明では、医学科は研究医、臨床医、医療行政官など多様な進路を想定してカリキュラムを組んでおり、1年次から研究室を訪問でき、興味があればすぐに研究を始められる仕組みになっています。",
+    "url": "https://note.com/lostman0101/n/n6b524fa0c948",
+    "pass": 3
+   },
+   {
+    "quote": "なかでも有名なのが、**3年次に丸ごと配置された「基礎医学修練」**です。約半年間、講義や試験からいったん離れて研究室に所属し、本物の研究に集中します。国内の他大学や海外の研究機関に出て研究する学生もいて、この期間に書いた論文が学会発表や国際誌の掲載につながることも珍しくありません。医学部の6年間のうち、これだけ長期間を研究に充てる大学は全国的にも多くありません。",
+    "url": "https://note.com/lostman0101/n/n6b524fa0c948",
+    "pass": 3
+   },
+   {
+    "quote": "大学紹介シリーズ 東北大学ってどんな大学？偏差値だけでは分からない「研究」の魅力を紹介します｜宗樹舎",
+    "url": "https://note.com/soukisya1142/n/n920b75108c3e",
+    "pass": 3
+   },
+   {
+    "quote": "大学紹介シリーズ 東北大学ってどんな大学？偏差値だけでは分からない「研究」の魅力を紹介します",
+    "url": "https://note.com/soukisya1142/n/n920b75108c3e",
+    "pass": 3
+   },
+   {
+    "quote": "「研究を大切にし、学生の自主性を重視している大学」",
+    "url": "https://note.com/soukisya1142/n/n920b75108c3e",
+    "pass": 3
+   },
+   {
+    "quote": "宗樹舎からも東北大学へ進学した卒業生がいます。",
+    "url": "https://note.com/soukisya1142/n/n920b75108c3e",
+    "pass": 3
+   },
+   {
+    "quote": "東北地方を代表する総合大学として発展してきました。",
+    "url": "https://note.com/soukisya1142/n/n920b75108c3e",
+    "pass": 3
+   },
+   {
+    "quote": "一つの分野だけに特化した大学ではありません。",
+    "url": "https://note.com/soukisya1142/n/n920b75108c3e",
+    "pass": 3
+   },
+   {
+    "quote": "さまざまな分野の研究が行われている総合大学です。",
+    "url": "https://note.com/soukisya1142/n/n920b75108c3e",
+    "pass": 3
+   },
+   {
+    "quote": "というイメージを持っている人もいると思います。",
+    "url": "https://note.com/soukisya1142/n/n920b75108c3e",
+    "pass": 3
+   },
+   {
+    "quote": "THVP noteはじめます｜東北大学ベンチャーパートナーズ株式会社",
+    "url": "https://note.com/thvp/n/nab4609aff691",
+    "pass": 3
+   },
+   {
+    "quote": "はじめまして。東北大学ベンチャーパートナーズ株式会社（THVP）です。",
+    "url": "https://note.com/thvp/n/nab4609aff691",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは、2015年2月に東北大学の100%子会社として設立されました。",
+    "url": "https://note.com/thvp/n/nab4609aff691",
+    "pass": 3
+   },
+   {
+    "quote": "東北圏域の大学発スタートアップ企業の設立や成長をサポートするためのベンチャーキャピタル",
+    "url": "https://note.com/thvp/n/nab4609aff691",
+    "pass": 3
+   },
+   {
+    "quote": "として、これまでTHVP1号、2号ファンドを通じ、大学発スタートアップ企業など40社以上に投資を行ってきました。",
+    "url": "https://note.com/thvp/n/nab4609aff691",
+    "pass": 3
+   },
+   {
+    "quote": "私たちの活動内容や社員・キャピタリストの紹介、投資先のスタートアップ企業の情報",
+    "url": "https://note.com/thvp/n/nab4609aff691",
+    "pass": 3
+   },
+   {
+    "quote": "について、インタビュー記事を中心に発信していきます。",
+    "url": "https://note.com/thvp/n/nab4609aff691",
+    "pass": 3
+   },
+   {
+    "quote": "起業を目指す学生や研究者の皆様、大学発スタートアップ企業の皆様、スタートアップ企業を応援したい企業・自治体関係者の方々にとって、有益な情報源となり、東北圏域のスタートアップ・エコシステムがさらに盛り上がるきっかけとなれば幸いです。ぜひ、アカウントのフォローをよろしくお願いいたします。",
+    "url": "https://note.com/thvp/n/nab4609aff691",
+    "pass": 3
+   },
+   {
+    "quote": "DXチーム活動報告｜東北大学サイエンス・アンバサダー｜note",
+    "url": "https://note.com/scienceangel/m/m99c375c61486",
+    "pass": 3
+   },
+   {
+    "quote": "R3年度から新たに取り組んでいるDX(デジタルトランスフォーメーション)チームの活動についてご紹介します！DXって何？具体的に何をやってるの？についてお伝えできればと思います！",
+    "url": "https://note.com/scienceangel/m/m99c375c61486",
+    "pass": 3
+   },
+   {
+    "quote": "実験自動化プロジェクト：実験に使う道具を3Dプリンタで作ってみた。",
+    "url": "https://note.com/scienceangel/m/m99c375c61486",
+    "pass": 3
+   },
+   {
+    "quote": "DXチーム活動報告～Dify を使ったAIアプリ作成～",
+    "url": "https://note.com/scienceangel/m/m99c375c61486",
+    "pass": 3
+   },
+   {
+    "quote": "【後編】AI Scientistとは...？ SAのDXチームが調べてみた！",
+    "url": "https://note.com/scienceangel/m/m99c375c61486",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "東北大学 (@tohoku_univ) / X 東北大学 (@tohoku_univ) / X X https://x.com > tohoku_univ",
+    "url": "https://x.com/tohoku_univ",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学 広報 (@TohokuUniv_Koho) / X 東北大学 広報 (@TohokuUniv_Koho) / X X https://x.com > TohokuUniv_Koho",
+    "url": "https://x.com/TohokuUniv_Koho",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学 新聞｜学友会報道部 (@ton_press) / X 東北大学 新聞｜学友会報道部 (@ton_press) / X X https://x.com > ton_press",
+    "url": "https://x.com/ton_press",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学 工学研究科・工学部 (@eng_TohokuUniv) / X 東北大学 工学研究科・工学部 (@eng_TohokuUniv) / X X https://x.com > eng_TohokuUniv",
+    "url": "https://x.com/eng_TohokuUniv",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "東北大学 の社員、場所、同窓生 - LinkedIn 東北大学 の社員、場所、同窓生 - LinkedIn LinkedIn https://jp.linkedin.com > school > tohoku-univ",
+    "url": "https://jp.linkedin.com/school/tohoku-univ/",
+    "pass": 3
+   },
+   {
+    "quote": "国立大学法人 東北大学 - LinkedIn 国立大学法人 東北大学 - LinkedIn LinkedIn https://jp.linkedin.com > company > tohokuuniversity",
+    "url": "https://jp.linkedin.com/company/tohokuuniversity",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学 : 同窓生および卒業生 - LinkedIn 東北大学 : 同窓生および卒業生 - LinkedIn LinkedIn https://jp.linkedin.com > school > tohoku-univ > people",
+    "url": "https://jp.linkedin.com/school/tohoku-univ/people",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "東北大学 | Sendai Miyagi - Facebook 東北大学 | Sendai Miyagi - Facebook Facebook https://www.facebook.com > ... > College & university",
+    "url": "https://www.facebook.com/TohokuUniversity/",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学 多元物質科学研究所 (@tagen.tohoku.ac.jp) - Facebook 東北大学 多元物質科学研究所 (@tagen.tohoku.ac.jp) - Facebook Facebook https://www.facebook.com > ... > College & university",
+    "url": "https://www.facebook.com/tagen.tohoku.ac.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学 サイエンスキャンパス | Sendai Miyagi - Facebook 東北大学 サイエンスキャンパス | Sendai Miyagi - Facebook Facebook https://www.facebook.com > ... > Businesses > Education",
+    "url": "https://www.facebook.com/TohokuUnivQSC/",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学 文学研究科 - Facebook 東北大学 文学研究科 - Facebook Facebook https://www.facebook.com > ... > College & university",
+    "url": "https://www.facebook.com/p/%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6%E6%96%87%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%A7%91-100093092663603/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tohoku.ac.jp/japanese/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohoku.ac.jp/japanese/target/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohoku.ac.jp/japanese/2026/10/news20261019-119hcd.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohoku.ac.jp/japanese/2026/cate_news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohoku.ac.jp/japanese/2026/10/news20261015-nict.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohoku.ac.jp/japanese/2026/09/news20260925-graduation.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohoku.ac.jp/japanese/2026/06/news20260612-science.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohoku.ac.jp/japanese/2026/11/news20261110-apru.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohoku.ac.jp/japanese/2026/11/news20261009-cicmi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohoku.ac.jp/japanese/2026/11/news20261109-ad.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohoku.ac.jp/japanese/2026/11/news20261109-lboro.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohoku.ac.jp/japanese/2026/11/news20261109-ui.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohoku.ac.jp/japanese/2026/11/news20261109-nga.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohoku.ac.jp/japanese/2026/11/news20261028-urexsr.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp230223/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chibalab.niche.tohoku.ac.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/company/chiba/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startup.tohoku.ac.jp/achievement/interview-jampt/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chibalab.niche.tohoku.ac.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www1.g-reiki.net/tohoku.ac/reiki_honbun/u101RG00002372.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.smtb.jp/-/media/tb/about/corporate/release/pdf/230523.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp230223/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bureau.tohoku.ac.jp/jinji/open/saiyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gcs_tohoku",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/lostman0101/n/n6b524fa0c948",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/soukisya1142/n/n920b75108c3e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/tohoku_univ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TohokuUniv_Koho",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ton_press",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/eng_TohokuUniv",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/school/tohoku-univ/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/tohokuuniversity",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/school/tohoku-univ/people",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TohokuUniversity/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tagen.tohoku.ac.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TohokuUnivQSC/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6%E6%96%87%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%A7%91-100093092663603/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tag/%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/thvp/n/nab4609aff691",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/scienceangel/m/m99c375c61486",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/tohoku_univ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TohokuUniv_Koho",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "東北大学",
+   "results": [
+    "https://www.tohoku.ac.jp/japanese/",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6",
+    "https://passnavi.obunsha.co.jp/univ/0100/top/",
+    "https://x.com/tohoku_univ",
+    "https://www.tohoku.ac.jp/dnu/",
+    "https://www.youtube.com/channel/UCCkW7UAUXhe2gZE8XjpE4eA",
+    "https://ja.wikipedia.org/wiki/東北大学",
+    "https://en.wikipedia.org/wiki/Tohoku_University",
+    "https://www.tohoku.ac.jp/japanese/exam/exam/",
+    "https://admissions.tohoku.ac.jp/ja/entrance-info/undergraduate-info/ao/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "東北大学 会社概要 資本金 設立",
+   "results": [
+    "https://job.mynavi.jp/27/pc/search/corp230223/outline.html",
+    "https://www.tohoku.ac.jp/japanese/profile/about/01/about0101/",
+    "https://www.tohoku.ac.jp/japanese/2015/02/news20150223-01.html",
+    "https://www.goodstory.jp/companies/tohoku-ac/",
+    "https://thvp.co.jp/about/",
+    "https://www.bureau.tohoku.ac.jp/zaikessan/R07zaimujokyo.pdf",
+    "https://www.smtb.jp/-/media/tb/about/corporate/release/pdf/230523.pdf",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6",
+    "https://www.t-technoarch.co.jp/company.html",
+    "https://ja.wikipedia.org/wiki/東北大学"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "東北大学 金属3Dプリンタ 導入",
+   "results": [
+    "https://jampt.jp/company/",
+    "https://chibalab.niche.tohoku.ac.jp/",
+    "https://news.sharelab.jp/category/3dp-news/metal-3dprinter/",
+    "https://www.jeol.co.jp/products/technology_cases/interviews/10.html",
+    "https://www.kasseiken.jp/pdf/library/guide/27fy-others-02.pdf",
+    "https://jampt.jp/company/chiba/",
+    "https://www.youtube.com/watch?v=y8I4vuAjXlk",
+    "https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html",
+    "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "https://ex-press.jp/lfwj/lfwj-news/lfwj-science-research/66249/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "東北大学 金属積層造形 設備",
+   "results": [
+    "https://jampt.jp/company/chiba/",
+    "https://startup.tohoku.ac.jp/achievement/interview-jampt/",
+    "https://chibalab.niche.tohoku.ac.jp/",
+    "https://www.youtube.com/watch?v=y8I4vuAjXlk",
+    "https://www.kasseiken.jp/pdf/library/guide/27fy-others-02.pdf",
+    "https://tohoku360.com/3d_jampt/",
+    "https://www.toprep-sendai.jp/company/message.html",
+    "https://jampt.jp/company/",
+    "https://thvp.co.jp/fund/fund1/668/",
+    "https://masc.tohoku.ac.jp/project/chiba_007.html"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "東北大学 株主 出資 親会社",
+   "results": [
+    "https://www.tohoku.ac.jp/japanese/2023/05/press20230523-01-thci.html",
+    "https://www1.g-reiki.net/tohoku.ac/reiki_honbun/u101RG00002372.html",
+    "https://www.smtb.jp/-/media/tb/about/corporate/release/pdf/230523.pdf",
+    "https://thvp.co.jp/",
+    "https://www.nikkei.com/article/DGXZQOCC302ZC0Q6A630C2000000/",
+    "https://corporate.epson/ja/news/2023/230515.html",
+    "https://www.smtg.jp/about_us/chronicle100/history/section233032",
+    "https://www.tohoku-ci.com/",
+    "https://localbook.work/2026/07/10/tohokuuniversityventurepartners-thvp3fandom/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "東北大学 売上高 従業員数",
+   "results": [
+    "https://job.mynavi.jp/28/pc/search/corp230223/outline.html",
+    "https://www.tohoku.ac.jp/japanese/profile/about/05/about0504/",
+    "https://www.bureau.tohoku.ac.jp/jinji/open/saiyo/index.html",
+    "https://job.mynavi.jp/27/pc/search/corp230223/outline.html",
+    "https://www.goodstory.jp/companies/tohoku-ac/",
+    "https://www.tohoku.ac.jp/japanese/profile/about/01/about0101/",
+    "https://syukatsu-kaigi.jp/companies/62636",
+    "https://www.tohoku.ac.jp/japanese/disclosure/disclosure/02/disclosure0203/",
+    "https://www.tohoku.ac.jp/japanese/profile/integrated/01/integrated0101/",
+    "https://jobcatalog.yahoo.co.jp/company/1000017563/information/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:note.com 東北大学",
+   "results": [
+    "https://note.com/tag/%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6",
+    "https://note.com/gcs_tohoku",
+    "https://note.com/lostman0101/n/n6b524fa0c948",
+    "https://note.com/soukisya1142/n/n920b75108c3e",
+    "https://note.com/toshiken_tohoku",
+    "https://note.com/th_eng_navi",
+    "https://note.com/ark_college/n/nc99bff497ac9",
+    "https://note.com/gcs_tohoku/n/n2bb2c7d03de0",
+    "https://note.com/sendaitribune/n/n9447b7d6250a",
+    "https://note.com/scienceangel"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com 東北大学",
+   "results": [
+    "https://x.com/tohoku_univ",
+    "https://x.com/TohokuUniv_Koho",
+    "https://x.com/ton_press",
+    "https://x.com/eng_TohokuUniv",
+    "https://x.com/sci_koho",
+    "https://x.com/tohoku_research",
+    "https://x.com/TGLtohoku",
+    "https://x.com/dssr_tohoku_u",
+    "https://x.com/StemTohoku",
+    "https://x.com/cite_tohoku"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:linkedin.com 東北大学",
+   "results": [
+    "https://jp.linkedin.com/school/tohoku-univ/",
+    "https://jp.linkedin.com/company/tohokuuniversity",
+    "https://www.linkedin.com/news/story/%E6%9D%B1%E5%8C%97%E5%A4%A7%E3%81%8C%E5%88%9D1%E4%BD%8D-%E5%A4%A7%E5%AD%A6%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%E6%97%A5%E6%9C%AC%E7%89%88-4528555/",
+    "https://jp.linkedin.com/school/tohoku-univ/people",
+    "https://www.linkedin.com/posts/sasaki-tetsuya-34a7a516b_%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6mooc%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%A5%E9%96%80%E6%9C%AA%E6%9D%A5%E3%82%92%E5%89%B5%E3%82%8B%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BCtohoku-university-activity-7523292973892206592-QY-Q",
+    "https://jp.linkedin.com/in/jason-sanderson-nowlooking/ja",
+    "https://jp.linkedin.com/in/naoki-suzuki-a6460865",
+    "https://jp.linkedin.com/company/tohoku-university-venture-partners",
+    "https://www.linkedin.com/posts/noriko-osumi-937046a_%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6-%E5%A4%A7%E5%AD%A6%E9%99%A2-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%A7%91-graduate-school-of-life-activity-7430785689576853522-Jz3u",
+    "https://www.linkedin.com/school/tohoku-univ/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com 東北大学",
+   "results": [
+    "https://www.facebook.com/TohokuUniversity/",
+    "https://www.facebook.com/tagen.tohoku.ac.jp/",
+    "https://www.facebook.com/TohokuUnivQSC/",
+    "https://www.facebook.com/p/%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6%E6%96%87%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%A7%91-100093092663603/",
+    "https://www.facebook.com/Tohoku.University.School.of.Medicine/",
+    "https://www.facebook.com/TohokuUnivHospEmergCenter/",
+    "https://www.facebook.com/HOEPTohokuUniversity/",
+    "https://www.facebook.com/446526445376944",
+    "https://www.facebook.com/MaSC.TohokuUniversity/",
+    "https://www.facebook.com/neurologytohoku/?locale=ja_JP"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "東北大学 note 社長",
+   "results": [
+    "https://note.com/tag/%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6",
+    "https://note.com/thvp/n/nab4609aff691",
+    "https://thvp.co.jp/news/6015/",
+    "https://note.com/scienceangel/m/m99c375c61486",
+    "https://note.com/th_startupalumni/n/n9f9d9593cfa2",
+    "https://www.tohoku.ac.jp/japanese/profile/integrated/01/integrated0101/",
+    "https://note.com/thvp/n/ne923ff34b6a2",
+    "https://www.tohoku.ac.jp/japanese/michinoku/dialogue/dialogue03.html",
+    "https://note.com/open_stilt4383/n/nccd444838727",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "東北大学 X 投稿",
+   "results": [
+    "https://x.com/tohoku_univ",
+    "https://www.tohoku.ac.jp/japanese/site/socialmedia/01/socialmedia0102/",
+    "https://x.com/TohokuUniv_Koho",
+    "https://www.hosp.tohoku.ac.jp/sns.html",
+    "https://ton-press.blogspot.com/",
+    "https://www.tohoku.ac.jp/japanese/2026/08/item20260827-01-rigaku.html",
+    "https://www.hosp.tohoku.ac.jp/visit/prohibitpost",
+    "https://www.facebook.com/TohokuUniversity/?locale=ja_JP",
+    "https://search.yahoo.co.jp/realtime/search/東北大学/",
+    "https://x.com/tohoku2026mix"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部31頁・検索12回）",
+  "資本金": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部31頁・検索12回）",
+  "創業年度": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部31頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部31頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

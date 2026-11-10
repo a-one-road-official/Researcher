@@ -1,0 +1,966 @@
+{
+ "name": "東金属産業株式会社",
+ "aliases": [],
+ "context": "PBF=yes 装置=DMG森精機;EOSINT M;パウダーベッド 出典=https://azuma-ks.co.jp/news/358/",
+ "researched_at": "2026-11-10T17:19:17.601350+00:00",
+ "official_url": "https://azuma-ks.co.jp/",
+ "identified_by": "search:yahoo_jp:東金属産業",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "創 業",
+    "value": "創 業：1942年3月",
+    "url": "https://azuma-ks.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立年月",
+    "value": "設立年月：1942年3月",
+    "url": "https://baseconnect.in/companies/31b88fcb-41d7-4cf0-9b1f-c0c10c322a2e",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1951年05月",
+    "url": "https://www.r-agent.com/company/g9245/",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "7,500万円",
+    "url": "https://azuma-ks.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "7,500万円",
+    "url": "https://baseconnect.in/companies/31b88fcb-41d7-4cf0-9b1f-c0c10c322a2e",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "75百万円",
+    "url": "https://www.r-agent.com/company/g9245/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "64名（内 アルバイト契約者 8名） ※2019年6月 現在",
+    "url": "https://azuma-ks.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "49人",
+    "url": "https://baseconnect.in/companies/31b88fcb-41d7-4cf0-9b1f-c0c10c322a2e",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "50人",
+    "url": "https://baseconnect.in/companies/31b88fcb-41d7-4cf0-9b1f-c0c10c322a2e",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "48人",
+    "url": "https://baseconnect.in/companies/31b88fcb-41d7-4cf0-9b1f-c0c10c322a2e",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "47人",
+    "url": "https://baseconnect.in/companies/31b88fcb-41d7-4cf0-9b1f-c0c10c322a2e",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "51人",
+    "url": "https://baseconnect.in/companies/31b88fcb-41d7-4cf0-9b1f-c0c10c322a2e",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "52人",
+    "url": "https://www.r-agent.com/company/g9245/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社住所",
+    "value": "〒410-0022 静岡県沼津市大岡1281-3",
+    "url": "https://baseconnect.in/companies/31b88fcb-41d7-4cf0-9b1f-c0c10c322a2e",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "静岡県静岡市清水区梅田町13-21",
+    "url": "https://baseconnect.in/companies/31b88fcb-41d7-4cf0-9b1f-c0c10c322a2e",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "静岡県静岡市清水区興津東町1199-1",
+    "url": "https://baseconnect.in/companies/31b88fcb-41d7-4cf0-9b1f-c0c10c322a2e",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "静岡県浜松市浜名区都田町9576",
+    "url": "https://baseconnect.in/companies/31b88fcb-41d7-4cf0-9b1f-c0c10c322a2e",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "静岡県磐田市向笠竹之内1359-11",
+    "url": "https://baseconnect.in/companies/31b88fcb-41d7-4cf0-9b1f-c0c10c322a2e",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "静岡県静岡市葵区福田ヶ谷370-3",
+    "url": "https://baseconnect.in/companies/31b88fcb-41d7-4cf0-9b1f-c0c10c322a2e",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "静岡県静岡市駿河区用宗小石町2-35",
+    "url": "https://baseconnect.in/companies/31b88fcb-41d7-4cf0-9b1f-c0c10c322a2e",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "静岡県浜松市中央区葵西5-22-30",
+    "url": "https://baseconnect.in/companies/31b88fcb-41d7-4cf0-9b1f-c0c10c322a2e",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "静岡県牧之原市菅ケ谷1055-1",
+    "url": "https://baseconnect.in/companies/31b88fcb-41d7-4cf0-9b1f-c0c10c322a2e",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "静岡県焼津市中根新田1139",
+    "url": "https://baseconnect.in/companies/31b88fcb-41d7-4cf0-9b1f-c0c10c322a2e",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "静岡県湖西市鷲津946-130",
+    "url": "https://baseconnect.in/companies/31b88fcb-41d7-4cf0-9b1f-c0c10c322a2e",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "410-0022静岡県沼津市大岡１２８１番地の３",
+    "url": "https://www.r-agent.com/company/g9245/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "非鉄金属鋳物(アルミ、MMC材)、製缶、機械加工、組み立て、金属積層造形（3Dプリンティング）",
+    "url": "https://www.r-agent.com/company/g9245/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "DMG森精機の最新金属3D造形機を弊社が世界初導入致しました◆LASERTEC30 DUAL SLM",
+    "url": "https://azuma-ks.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "LASERTEC30 SLM 2nd generation（DMG MORI製）",
+    "url": "https://azuma-ks.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "EOSINT M280（EOS製）",
+    "url": "https://azuma-ks.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "LUMEX Avance-25 （松浦機械製作所製）",
+    "url": "https://azuma-ks.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "ML10 （レニショー製）",
+    "url": "https://azuma-ks.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "光電式2型 （ニコン製）",
+    "url": "https://azuma-ks.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "DMG森精機の最新金属3D造形機を弊社が世界初導入致しました◆LASERTEC30 DUAL SLM",
+    "url": "https://azuma-ks.co.jp/category/news/",
+    "pass": 1
+   },
+   {
+    "quote": "DMG森精機「第15回切削加工ドリームコンテスト」2020に入賞しました",
+    "url": "https://azuma-ks.co.jp/category/news/",
+    "pass": 1
+   },
+   {
+    "quote": "5軸/複合加工機を新たに1台導入します",
+    "url": "https://azuma-ks.co.jp/category/news/",
+    "pass": 1
+   },
+   {
+    "quote": "◆DMU FD duoBLOCK(DMG森精機)",
+    "url": "https://azuma-ks.co.jp/category/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年10月21日(水)～22日(木)に開催される、松浦機械製作所様主催「マツウライノベーションフェアOnline」にて東金属産業が紹介されます",
+    "url": "https://azuma-ks.co.jp/category/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年10月23日(水)～26(土) メカトロテックジャパン2019(名古屋) 松浦機械製作所様、DMG森精機様のブースにて 当社東金属産業が製作いたしました 金属3D造形サンプルを展示させていただきます",
+    "url": "https://azuma-ks.co.jp/category/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年7月21日(日)／28日(日)17:00～ DMG森精機様のCMで東金属産業が紹介されます",
+    "url": "https://azuma-ks.co.jp/category/news/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3D造形機を新たに2台導入しました",
+    "url": "https://azuma-ks.co.jp/category/news/",
+    "pass": 1
+   },
+   {
+    "quote": "◆LASERTEC30 SLM 2nd generation（DMG森精機） ◆EOSINT M280（EOS）",
+    "url": "https://azuma-ks.co.jp/category/news/",
+    "pass": 1
+   },
+   {
+    "quote": "DMG森精機の最新金属3D造形機を弊社が世界初導入致しました◆LASERTEC30 DUAL SLM | 東金属産業株式会社",
+    "url": "https://azuma-ks.co.jp/news/dmg%E6%A3%AE%E7%B2%BE%E6%A9%9F%E3%81%AE%E6%9C%80%E6%96%B0%E9%87%91%E5%B1%9E3d%E9%80%A0%E5%BD%A2%E6%A9%9F%E3%82%92%E5%BC%8A%E7%A4%BE%E3%81%8C%E4%B8%96%E7%95%8C%E5%88%9D%E5%B0%8E%E5%85%A5%E8%87%B4/",
+    "pass": 1
+   },
+   {
+    "quote": "DMG森精機の最新金属3D造形機を弊社が世界初導入致しました◆LASERTEC30 DUAL SLM",
+    "url": "https://azuma-ks.co.jp/news/dmg%E6%A3%AE%E7%B2%BE%E6%A9%9F%E3%81%AE%E6%9C%80%E6%96%B0%E9%87%91%E5%B1%9E3d%E9%80%A0%E5%BD%A2%E6%A9%9F%E3%82%92%E5%BC%8A%E7%A4%BE%E3%81%8C%E4%B8%96%E7%95%8C%E5%88%9D%E5%B0%8E%E5%85%A5%E8%87%B4/",
+    "pass": 1
+   },
+   {
+    "quote": "DMG森精機の最新金属3D造形機 LASERTEC30 DUAL SLMを、弊社が世界初導入致しました",
+    "url": "https://azuma-ks.co.jp/news/dmg%E6%A3%AE%E7%B2%BE%E6%A9%9F%E3%81%AE%E6%9C%80%E6%96%B0%E9%87%91%E5%B1%9E3d%E9%80%A0%E5%BD%A2%E6%A9%9F%E3%82%92%E5%BC%8A%E7%A4%BE%E3%81%8C%E4%B8%96%E7%95%8C%E5%88%9D%E5%B0%8E%E5%85%A5%E8%87%B4/",
+    "pass": 1
+   },
+   {
+    "quote": "◆LASERTEC30 DUAL SLM（DMG森精機）",
+    "url": "https://azuma-ks.co.jp/news/dmg%E6%A3%AE%E7%B2%BE%E6%A9%9F%E3%81%AE%E6%9C%80%E6%96%B0%E9%87%91%E5%B1%9E3d%E9%80%A0%E5%BD%A2%E6%A9%9F%E3%82%92%E5%BC%8A%E7%A4%BE%E3%81%8C%E4%B8%96%E7%95%8C%E5%88%9D%E5%B0%8E%E5%85%A5%E8%87%B4/",
+    "pass": 1
+   },
+   {
+    "quote": "Road to Front Runner Vol.8「東金属産業株式会社」3Dプリンタ活用の達人～3Dプリンタ導入による新規事業参入～ - YouTube",
+    "url": "https://www.youtube.com/watch?v=teF6HEZhdlo",
+    "pass": 3
+   },
+   {
+    "quote": "Road to Front Runner Vol.8「東金属産業株式会社」3Dプリンタ活用の達人～3Dプリンタ導入による新規事業参入～",
+    "url": "https://www.youtube.com/watch?v=teF6HEZhdlo",
+    "pass": 3
+   },
+   {
+    "quote": "DMG MORI TVCM 「Front Runner Vol.9 株式会社ユニコン」",
+    "url": "https://www.youtube.com/watch?v=teF6HEZhdlo",
+    "pass": 3
+   },
+   {
+    "quote": "9,609回視聴 • 2019/07/30 • #AdditiveManufacturing #SLM #3Dプリンタ",
+    "url": "https://www.youtube.com/watch?v=teF6HEZhdlo",
+    "pass": 3
+   },
+   {
+    "quote": "静岡県沼津市に本社を置く東金属産業株式会社は、最新鋭の金属3Dプリンタをいちはやく導入し、自動車・航空機・宇宙業界などの新規事業で成功を収めた業界のフロントランナー企業です",
+    "url": "https://www.youtube.com/watch?v=teF6HEZhdlo",
+    "pass": 3
+   },
+   {
+    "quote": "DMG森精機パウダーベッド方式金属３Dプリンター「LASERTEC 30 SLM」での受託加工サービスを、国内外のお客様向けに",
+    "url": "https://www.youtube.com/watch?v=teF6HEZhdlo",
+    "pass": 3
+   },
+   {
+    "quote": "DMG森精機パウダーベッド方式金属３Dプリンター「LASERTEC 30 SLM」での受託加工サービスを、国内外のお客様向けに行っております",
+    "url": "https://www.youtube.com/watch?v=teF6HEZhdlo",
+    "pass": 3
+   },
+   {
+    "quote": "独自のノウハウを生かし最先端技術である金属積層造形分野に挑戦します",
+    "url": "https://www.youtube.com/watch?v=teF6HEZhdlo",
+    "pass": 3
+   },
+   {
+    "quote": "#LASERTEC30SLM",
+    "url": "https://www.youtube.com/watch?v=teF6HEZhdlo",
+    "pass": 3
+   },
+   {
+    "quote": "Road to Front Runner Vol.8「東金属産業株式会社」3Dプリンタ活用の達人～3Dプリンタ導入による新規事業参入～",
+    "url": "https://www.youtube.com/watch?v=K58fxLKzroY",
+    "pass": 3
+   },
+   {
+    "quote": "4,704回視聴 • 2019/07/21 • #AdditiveManufacturing #SLM #3Dプリンタ",
+    "url": "https://www.youtube.com/watch?v=K58fxLKzroY",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタ活用の達人～3Dプリンタ導入による新規事業参入～",
+    "url": "https://www.youtube.com/watch?v=K58fxLKzroY",
+    "pass": 3
+   },
+   {
+    "quote": "静岡県沼津市に本社を置く東金属産業株式会社は、最新鋭の金属3Dプリンタをいちはやく導入し、自動車・航空機・宇宙業界などの新規事業で成功を収めた業界のフロントランナー企業です",
+    "url": "https://www.youtube.com/watch?v=K58fxLKzroY",
+    "pass": 3
+   },
+   {
+    "quote": "DMG森精機パウダーベッド方式金属３Dプリンター「LASERTEC 30 SLM」での受託加工サービスを、国内外のお客様向けに行っております",
+    "url": "https://www.youtube.com/watch?v=K58fxLKzroY",
+    "pass": 3
+   },
+   {
+    "quote": "独自のノウハウを生かし最先端技術である金属積層造形分野に挑戦します",
+    "url": "https://www.youtube.com/watch?v=K58fxLKzroY",
+    "pass": 3
+   },
+   {
+    "quote": "#LASERTEC30SLM",
+    "url": "https://www.youtube.com/watch?v=K58fxLKzroY",
+    "pass": 3
+   },
+   {
+    "quote": "DMG森精機製の「LASERTEC30 DUAL SLM」など5台の金属3D造形機を運用し、パウダーベッド方式で高精度な金属部品や試作品を製造する",
+    "url": "https://baseconnect.in/companies/31b88fcb-41d7-4cf0-9b1f-c0c10c322a2e",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属鋳物(アルミ、MMC材)、製缶、機械加工、組み立て、金属積層造形（3Dプリンティング）",
+    "url": "https://www.r-agent.com/company/g9245/",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "X300mm x Y300mm x Z300ｍｍ アルミ用",
+    "url": "https://azuma-ks.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ1トン炉 （静岡ガス製）",
+    "url": "https://azuma-ks.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "可倒式ガス溶解炉 アルミニウム合金 900kg 溶解",
+    "url": "https://azuma-ks.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ ＃800炉#1 （東京モーレックス製）",
+    "url": "https://azuma-ks.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "移動可倒式ガス溶解炉 アルミニウム 260kg 溶解",
+    "url": "https://azuma-ks.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ ＃800炉#2 （東京モーレックス製）",
+    "url": "https://azuma-ks.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ ＃350炉#1 （シンリュウ製）",
+    "url": "https://azuma-ks.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "定置式電気溶解炉 アルミニウム 130kg 溶解",
+    "url": "https://azuma-ks.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ ＃350炉#2 （シンリュウ製）",
+    "url": "https://azuma-ks.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミT6処理炉#1 （宮本工業所製）",
+    "url": "https://azuma-ks.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミT6処理炉#2 （宮本工業所製）",
+    "url": "https://azuma-ks.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "対応素材にはAlSi10Mg、SUS316L、マルエージング鋼などがある",
+    "url": "https://baseconnect.in/companies/31b88fcb-41d7-4cf0-9b1f-c0c10c322a2e",
+    "pass": 3
+   },
+   {
+    "quote": "ステンレスやアルミの外装パネルなどの金属部材加工・設置工事を行う会社",
+    "url": "https://baseconnect.in/companies/31b88fcb-41d7-4cf0-9b1f-c0c10c322a2e",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属鋳物(アルミ、MMC材)、製缶、機械加工、組み立て、金属積層造形（3Dプリンティング）",
+    "url": "https://www.r-agent.com/company/g9245/",
+    "pass": 3
+   },
+   {
+    "quote": "加工対象は鉄やアルミ、特殊素材など多岐にわたり、製造業の中核を担う重要なポジションです",
+    "url": "https://www.r-agent.com/company/g9245/",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "レーザー2台搭載により生産性を向上、量産にも対応致します",
+    "url": "https://azuma-ks.co.jp/news/dmg%E6%A3%AE%E7%B2%BE%E6%A9%9F%E3%81%AE%E6%9C%80%E6%96%B0%E9%87%91%E5%B1%9E3d%E9%80%A0%E5%BD%A2%E6%A9%9F%E3%82%92%E5%BC%8A%E7%A4%BE%E3%81%8C%E4%B8%96%E7%95%8C%E5%88%9D%E5%B0%8E%E5%85%A5%E8%87%B4/",
+    "pass": 1
+   },
+   {
+    "quote": "静岡県沼津市に本社を置く東金属産業株式会社は、最新鋭の金属3Dプリンタをいちはやく導入し、自動車・航空機・宇宙業界などの新規事業で成功を収めた業界のフロントランナー企業です",
+    "url": "https://www.youtube.com/watch?v=teF6HEZhdlo",
+    "pass": 3
+   },
+   {
+    "quote": "5軸加工機による半導体製造装置向けチャンバーハウジングの工程集約",
+    "url": "https://www.youtube.com/watch?v=teF6HEZhdlo",
+    "pass": 3
+   },
+   {
+    "quote": "静岡県沼津市に本社を置く東金属産業株式会社は、最新鋭の金属3Dプリンタをいちはやく導入し、自動車・航空機・宇宙業界などの新規事業で成功を収めた業界のフロントランナー企業です",
+    "url": "https://www.youtube.com/watch?v=K58fxLKzroY",
+    "pass": 3
+   },
+   {
+    "quote": "DMG森精機製の「LASERTEC30 DUAL SLM」など5台の金属3D造形機を運用し、パウダーベッド方式で高精度な金属部品や試作品を製造する",
+    "url": "https://baseconnect.in/companies/31b88fcb-41d7-4cf0-9b1f-c0c10c322a2e",
+    "pass": 3
+   },
+   {
+    "quote": "電子部品の薄板金属プレス加工や精密金型設計・製作を行う会社",
+    "url": "https://baseconnect.in/companies/31b88fcb-41d7-4cf0-9b1f-c0c10c322a2e",
+    "pass": 3
+   },
+   {
+    "quote": "自動車電装部品や航空機部品などを製造する会社",
+    "url": "https://baseconnect.in/companies/31b88fcb-41d7-4cf0-9b1f-c0c10c322a2e",
+    "pass": 3
+   },
+   {
+    "quote": "単調な量産ではなく毎回違うモノを作る面白さがあります！変更の範囲：当社業務全般",
+    "url": "https://www.r-agent.com/company/g9245/",
+    "pass": 3
+   },
+   {
+    "quote": "単調な量産ではなく毎回違うモノを作る面白さがあります！変更の範囲：当社業務全般 【具体的には】図面を基にした機械加工業務を担当します",
+    "url": "https://www.r-agent.com/company/g9245/",
+    "pass": 3
+   },
+   {
+    "quote": "いま急成長中の半導体や家電等に使用する機械部品など、皆さんの生活に関わる「すごい機械」の心臓部を支えています",
+    "url": "https://www.r-agent.com/company/g9245/",
+    "pass": 3
+   },
+   {
+    "quote": "製品の約8割は試作や特注品です",
+    "url": "https://www.r-agent.com/company/g9245/",
+    "pass": 3
+   },
+   {
+    "quote": "単調な量産作業ではないため毎回違うモノを作る面白さと大きな達成感を味わえます",
+    "url": "https://www.r-agent.com/company/g9245/",
+    "pass": 3
+   },
+   {
+    "quote": "いま急成長中の半導体や工作・産業機械、自動車などに使用する機械部品を扱います",
+    "url": "https://www.r-agent.com/company/g9245/",
+    "pass": 3
+   },
+   {
+    "quote": "単調な量産でなく毎回違うモノを作る面白さがあります！変更の範囲：当社業務全般",
+    "url": "https://www.r-agent.com/company/g9245/",
+    "pass": 3
+   },
+   {
+    "quote": "単調な量産でなく毎回違うモノを作る面白さがあります！変更の範囲：当社業務全般 ＼3Dプリンティングの先駆けとして業界トップクラスの技術を蓄積／ 【具体的には】図面を基にした機械加工業務を担当します",
+    "url": "https://www.r-agent.com/company/g9245/",
+    "pass": 3
+   },
+   {
+    "quote": "いま急成長中の半導体や幅広い分野で使用する機械部品を扱います",
+    "url": "https://www.r-agent.com/company/g9245/",
+    "pass": 3
+   },
+   {
+    "quote": "いま急成長中の半導体や家電等に使用する機械部品や、皆さんの生活に関わる「すごい機械」の心臓部を支えています",
+    "url": "https://www.r-agent.com/company/g9245/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "company | 東金属産業 株式 会社 — company | 東金属産業 株式 会社 東金属産業株式会社 https://azuma-ks.co.jp > attachment > company-2",
+    "url": "https://azuma-ks.co.jp/company/attachment/company-2/",
+    "pass": 3
+   },
+   {
+    "quote": "東金属産業 株式 会社 会社 案内 - 金属3Dプリンタ工法転換ラボ — 東金属産業 株式 会社 会社 案内 - 金属3Dプリンタ工法転換ラボ azuma-metal3dp.com https://azuma-metal3dp.com > download",
+    "url": "https://azuma-metal3dp.com/download/114",
+    "pass": 3
+   },
+   {
+    "quote": "Road to Front Runner Vol.8「 東金属産業 株式会社」 3D ... — Road to Front Runner Vol.8「 東金属産業 株式会社」 3D ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=teF6HEZhdlo",
+    "pass": 3
+   },
+   {
+    "quote": "金属 積層造形（ 3D プリンティング） | 東金属産業 株式会社 — 金属 積層造形（ 3D プリンティング） | 東金属産業 株式会社 東金属産業株式会社 https://azuma-ks.co.jp > 技術紹介",
+    "url": "https://azuma-ks.co.jp/technology/3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形 （3Dプリンティング） | 東金属産業 株式会社 — 金属積層造形 （3Dプリンティング） | 東金属産業 株式会社 東金属産業株式会社 https://azuma-ks.co.jp > 技術紹介",
+    "url": "https://azuma-ks.co.jp/technology/3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Road to Front Runner Vol.8「 東金属産業 株式会社」3D ... — Road to Front Runner Vol.8「 東金属産業 株式会社」3D ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=teF6HEZhdlo",
+    "pass": 3
+   },
+   {
+    "quote": "複雑な形状を実現する 東金属産業 の『 金属 3Dプリンティング』 — 複雑な形状を実現する 東金属産業 の『 金属 3Dプリンティング』 製造業向け情報検索サイト イプロスものづくり https://www.ipros.com > ... > その他 > その他 > その他",
+    "url": "https://www.ipros.com/product/detail/2000357329/",
+    "pass": 3
+   },
+   {
+    "quote": "J-GoodTech [ 東金属産業 株式会社] | Appeal — J-GoodTech [ 東金属産業 株式会社] | Appeal J-GoodTech https://jgoodtech.smrj.go.jp > corp > info",
+    "url": "https://jgoodtech.smrj.go.jp/ja/corp/info/JC0000000050550?preview=false&createdLocale=ja_JP",
+    "pass": 3
+   },
+   {
+    "quote": "DMG MORI TVCM 「Front Runner Vol.8 東金属産業 株式会社 ... — DMG MORI TVCM 「Front Runner Vol.8 東金属産業 株式会社 ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=K58fxLKzroY",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 | 東金属産業 株式会社 — 企業情報 | 東金属産業 株式会社 東金属産業株式会社 https://azuma-ks.co.jp > company",
+    "url": "https://azuma-ks.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "東金属産業 株式会社 - 静岡県・金属加工請負業界の企業情報 — 東金属産業 株式会社 - 静岡県・金属加工請負業界の企業情報 Baseconnect https://baseconnect.in > companies",
+    "url": "https://baseconnect.in/companies/31b88fcb-41d7-4cf0-9b1f-c0c10c322a2e",
+    "pass": 3
+   },
+   {
+    "quote": "東金属産業 株式会社の中途採用・転職・求人情報 — 東金属産業 株式会社の中途採用・転職・求人情報 リクルートエージェント https://www.r-agent.com > company",
+    "url": "https://www.r-agent.com/company/g9245/",
+    "pass": 3
+   },
+   {
+    "quote": "東金属産業 | 企業情報 - イプロス — 東金属産業 | 企業情報 - イプロス 製造業向け情報検索サイト イプロスものづくり https://www.ipros.com > その他建設業",
+    "url": "https://www.ipros.com/company/detail/2057831/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "東金属産業 株式会社 第75期決算公告静岡県沼津市総資産 - X 東金属産業 株式会社 第75期決算公告静岡県沼津市総資産 - X X https://x.com > @kessan_db",
+    "url": "https://x.com/kessan_db/status/2065288994498502780",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "【新CM「DMG MORI x Front Runner」 東金属産業 株式会社様 ... 【新CM「DMG MORI x Front Runner」 東金属産業 株式会社様 ... Facebook https://www.facebook.com > DMGMORI.CO > posts > 新...",
+    "url": "https://www.facebook.com/DMGMORI.CO/posts/%E6%96%B0cmdmg-mori-x-front-runner%E6%9D%B1%E9%87%91%E5%B1%9E%E7%94%A3%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%A7%98%E5%BD%93%E7%A4%BE%E3%81%AE%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%A0%E3%83%BC%E3%83%93%E3%83%BCdmg-mori-x-front-runner%E3%81%A7%E3%81%AF%E6%96%B0%E3%81%9F%E3%81%AA%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7/2341336102798638/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://azuma-ks.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://azuma-ks.co.jp/facility/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://azuma-ks.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://azuma-ks.co.jp/category/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://azuma-ks.co.jp/news/%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E3%82%B9%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://azuma-ks.co.jp/news/%E9%87%91%E5%B1%9E3d%E9%83%A8%E5%93%81%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%9F%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%E3%81%8C%E3%82%B0%E3%83%83%E3%83%89%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AB/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://azuma-ks.co.jp/news/dmg%E6%A3%AE%E7%B2%BE%E6%A9%9F%E3%81%AE%E6%9C%80%E6%96%B0%E9%87%91%E5%B1%9E3d%E9%80%A0%E5%BD%A2%E6%A9%9F%E3%82%92%E5%BC%8A%E7%A4%BE%E3%81%8C%E4%B8%96%E7%95%8C%E5%88%9D%E5%B0%8E%E5%85%A5%E8%87%B4/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://azuma-ks.co.jp/facility/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.azumametal.com/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/company/332025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=teF6HEZhdlo",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://azuma-metal3dp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=teF6HEZhdlo",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://azuma-metal3dp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=K58fxLKzroY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://azuma-metal3dp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baseconnect.in/companies/31b88fcb-41d7-4cf0-9b1f-c0c10c322a2e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.r-agent.com/company/g9245/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/kessan_db/status/2065288994498502780",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/DMGMORI.CO/posts/%E6%96%B0cmdmg-mori-x-front-runner%E6%9D%B1%E9%87%91%E5%B1%9E%E7%94%A3%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%A7%98%E5%BD%93%E7%A4%BE%E3%81%AE%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%A0%E3%83%BC%E3%83%93%E3%83%BCdmg-mori-x-front-runner%E3%81%A7%E3%81%AF%E6%96%B0%E3%81%9F%E3%81%AA%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7/2341336102798638/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "東金属産業",
+   "results": [
+    "https://azuma-ks.co.jp/",
+    "https://azuma-metal3dp.com/download/114",
+    "https://www.youtube.com/watch?v=K58fxLKzroY",
+    "https://www.r-agent.com/company/g9245/",
+    "https://jgoodtech.smrj.go.jp/ja/corp/info/JC0000000050550?preview=false&createdLocale=ja_JP",
+    "https://mono.ipros.com/company/detail/2057831/",
+    "https://azuma-ks.co.jp/company/",
+    "https://gijutsu-hyakka.com/companies/azuma-ks/",
+    "https://azumakinzoku.co.jp/",
+    "https://www.azumametal.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "東金属産業 会社概要 資本金 設立",
+   "results": [
+    "https://www.azumametal.com/recruit/",
+    "https://azuma-ks.co.jp/company/attachment/company-2/",
+    "https://tenshoku.mynavi.jp/company/332025/",
+    "https://azuma-metal3dp.com/download/114",
+    "https://www.tdb.co.jp/report/bankruptcy/flash/3532/",
+    "https://www.r-agent.com/company/g9245/",
+    "https://baseconnect.in/companies/92b3b191-fc1f-4305-94d5-1baeaa07b290",
+    "https://jgoodtech.smrj.go.jp/ja/corp/info/JC0000000050550?preview=false&createdLocale=ja_JP",
+    "https://compalyze.co.jp/company/7011701000289",
+    "https://azuma-ks.co.jp/company/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "東金属産業 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.youtube.com/watch?v=teF6HEZhdlo",
+    "https://azuma-metal3dp.com/",
+    "https://azuma-ks.co.jp/technology/3d-printing/",
+    "https://www.matsuura.co.jp/japan/m-news/tazunete/%E5%89%B5%E6%A5%AD75%E5%91%A8%E5%B9%B4%E3%81%A8%E6%AD%B4%E5%8F%B2%E3%81%82%E3%82%8B%E9%8B%B3%E9%80%A0%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%A7%E3%81%82%E3%82%8A%E3%81%AA%E3%81%8C%E3%82%89%E9%87%91",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/02345/020800004/",
+    "https://www.ipros.com/product/detail/2000357329/",
+    "https://azuma-metal3dp.com/download/114",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "https://www.dmgmori.co.jp/movie_library/movie/id=4484"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "東金属産業 金属積層造形 設備",
+   "results": [
+    "https://azuma-ks.co.jp/technology/3d-printing/",
+    "https://www.youtube.com/watch?v=teF6HEZhdlo",
+    "https://azuma-metal3dp.com/",
+    "https://www.ipros.com/product/detail/2000357329/",
+    "https://jgoodtech.smrj.go.jp/ja/corp/info/JC0000000050550?preview=false&createdLocale=ja_JP",
+    "https://www.sinto.co.jp/product/surface/function_purpose/metal-am/",
+    "https://oshihaku.jp/article/15120086/",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://jampt.jp/column/additive-manufacturing/",
+    "https://mono.ipros.com/product/detail/2001183916/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "東金属産業 株主 出資 親会社",
+   "results": [
+    "https://www.youtube.com/watch?v=K58fxLKzroY",
+    "https://azuma-ks.co.jp/company/",
+    "https://azuma-metal3dp.com/",
+    "https://www.azumametal.com/company/partner.html",
+    "https://www.matsuura.co.jp/japan/m-news/tazunete/%E5%89%B5%E6%A5%AD75%E5%91%A8%E5%B9%B4%E3%81%A8%E6%AD%B4%E5%8F%B2%E3%81%82%E3%82%8B%E9%8B%B3%E9%80%A0%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%A7%E3%81%82%E3%82%8A%E3%81%AA%E3%81%8C%E3%82%89%E9%87%91",
+    "https://www.tdb.co.jp/report/bankruptcy/flash/3532/",
+    "https://www.azumakinzoku.co.jp/",
+    "https://baseconnect.in/companies/31b88fcb-41d7-4cf0-9b1f-c0c10c322a2e",
+    "https://recyclehub.jp/company/81000516",
+    "https://catr.jp/companies/0017b/12913"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "東金属産業 売上高 従業員数",
+   "results": [
+    "https://baseconnect.in/companies/31b88fcb-41d7-4cf0-9b1f-c0c10c322a2e",
+    "https://azuma-ks.co.jp/company/",
+    "https://www.r-agent.com/company/g9245/",
+    "https://www.ipros.com/company/detail/2057831/",
+    "https://tenshoku.mynavi.jp/company/332025/",
+    "https://www.hatalike.jp/viewjob/2c28550278cf04ac/",
+    "https://azuma-metal3dp.com/download/114",
+    "https://ja.nc-net.or.jp/company/3022/",
+    "https://www.matsuura.co.jp/japan/m-news/tazunete/%E5%89%B5%E6%A5%AD75%E5%91%A8%E5%B9%B4%E3%81%A8%E6%AD%B4%E5%8F%B2%E3%81%82%E3%82%8B%E9%8B%B3%E9%80%A0%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%A7%E3%81%82%E3%82%8A%E3%81%AA%E3%81%8C%E3%82%89%E9%87%91",
+    "https://compalyze.co.jp/company/5080101000085"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 東金属産業",
+   "results": [
+    "https://note.com/sangyo_web/n/n058d7551b2e5",
+    "https://note.com/settsu/n/ne77929ab48c6",
+    "https://note.com/kbtfn744/n/ncd5b574aea91",
+    "https://note.com/ample_honest2912/n/n17c69060a09e",
+    "https://note.com/kagawatomo/n/nf65a446ed216",
+    "https://note.com/kongobyora/n/nac150dbc16a0",
+    "https://note.com/monodukuritown/n/nb6c752a23a5a",
+    "https://note.com/mobio_osaka/n/nc95a07a95f80",
+    "https://note.com/cute_marten490/n/ne2af324fbfcb",
+    "https://note.com/mobio_osaka/n/na20983f7824d"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com 東金属産業",
+   "results": [
+    "https://x.com/kessan_db/status/2065288994498502780",
+    "https://x.com/asano_metal",
+    "https://x.com/SANSHIN34_K/status/1970492430660325447",
+    "https://x.com/MEIWA36510229",
+    "https://x.com/washin_s_blog/status/2071772138269552965",
+    "https://x.com/shin_matsu1979/status/2110901282680746357",
+    "https://x.com/yasudaseisakujo",
+    "https://x.com/MetalTechJapan",
+    "https://x.com/sangyo_web",
+    "https://x.com/TCTJapan"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com 東金属産業",
+   "results": [
+    "https://jp.linkedin.com/in/%E5%81%A5%E5%A4%AA%E9%83%8E-%E7%94%B0%E4%B8%AD-417975170",
+    "https://www.linkedin.com/pub/dir/Kentarou/Tanaka",
+    "https://www.linkedin.com/pub/dir/%E5%81%A5%E5%A4%AA%E9%83%8E/%E7%94%B0%E4%B8%AD",
+    "https://jp.linkedin.com/pub/dir/%E5%81%A5%E5%A4%AA%E9%83%8E/%E7%94%B0%E4%B8%AD/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://jp.linkedin.com/pub/dir/%E3%81%9F%E3%82%8D%E3%81%86/%E7%94%B0%E4%B8%AD/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://jp.linkedin.com/pub/dir/Kentarou/Tanaka/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://jp.linkedin.com/pulse/zrapid-targets-expansion-europe-islm-3d-printer-range-3dnatives-9j3kf?tl=ja",
+    "https://jp.linkedin.com/pub/dir/%E3%81%91%E3%82%93/%E7%94%B0%E4%B8%AD/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://www.linkedin.com/pub/dir/Hideyuki/OZAWA/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://jp.linkedin.com/in/健太郎-田中-417975170"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com 東金属産業",
+   "results": [
+    "https://www.facebook.com/DMGMORI.CO/posts/%E6%96%B0cmdmg-mori-x-front-runner%E6%9D%B1%E9%87%91%E5%B1%9E%E7%94%A3%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%A7%98%E5%BD%93%E7%A4%BE%E3%81%AE%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%A0%E3%83%BC%E3%83%93%E3%83%BCdmg-mori-x-front-runner%E3%81%A7%E3%81%AF%E6%96%B0%E3%81%9F%E3%81%AA%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7/2341336102798638/",
+    "https://www.facebook.com/dosoken/posts/%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E9%96%8B%E5%82%AC%E6%A1%88%E5%86%853d%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E9%80%A0%E5%BD%A2%E7%A0%94%E4%BF%AE%E7%AC%AC2%E5%9B%9E-%E9%87%91%E5%B1%9Eam%E8%A3%BD%E5%93%81%E5%AE%9F%E7%94%A8%E5%8C%96%E3%81%AE%E6%9C%80%E5%89%8D%E7%B7%9A%E7%94%B3%E8%BE%BC%E7%B7%A0%E5%88%871028%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8Bdx%E5%8C%96-%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%8C%96%E3%81%8C%E9%80%B2%E3%82%80%E4%B8%AD%E3%81%A73d%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%843d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AF/1572563418005718/",
+    "https://www.facebook.com/SAIMACORPORATION.J/posts/%E9%87%91%E5%B1%9E%E7%94%A3%E6%A5%AD%E6%96%B0%E8%81%9E%E3%82%AD%E3%83%B3%E3%82%B5%E3%83%B3expo2026%E3%81%AB%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E9%87%91%E5%B1%9E%E7%94%A3%E6%A5%AD%E6%96%B0%E8%81%9E%E7%A4%BE-%E5%89%B5%E6%A5%AD80%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E4%BC%81%E7%94%BB%E3%82%AD%E3%83%B3%E3%82%B5%E3%83%B3expo2026-%E6%96%B0%E6%8A%80%E8%A1%93%E6%96%B0%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B1%95%E3%81%AB%E3%82%B5%E3%82%A4%E3%83%9E%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%8C%E7%B4%99/1690526353080240/",
+    "https://www.facebook.com/Yogayoga12/posts/%E5%BA%83%E5%91%8A%E6%AD%B4%E5%8F%B2%E3%81%82%E3%82%8B%E6%A5%AD%E7%95%8C%E7%B4%99%E9%87%91%E5%B1%9E%E7%94%A3%E6%A5%AD%E6%96%B0%E8%81%9E%E3%81%95%E3%82%93%E3%81%AB%E5%BA%83%E5%91%8A%E3%82%92%E3%81%8A%E9%A1%98%E3%81%84%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%99%AE%E6%AE%B5%E5%BA%83%E5%91%8A%E3%82%92%E5%87%BA%E3%81%99%E3%81%93%E3%81%A8%E3%81%8C%E3%81%AA%E3%81%84%E3%81%AE%E3%81%A7%E5%8F%8D%E9%9F%BF%E3%81%8C%E6%A5%BD%E3%81%97%E3%81%BF%E3%81%A7%E3%81%99/26145922045024717/",
+    "https://www.facebook.com/wako.kinzoku/",
+    "https://www.facebook.com/alumi.jp/",
+    "https://www.facebook.com/dosoken/posts/%E9%81%93%E7%B7%8F%E7%A0%94%E3%81%A7%E3%81%AF%E4%BB%A4%E5%92%8C%EF%BC%98%E5%B9%B4%E5%BA%A6%E7%A0%94%E7%A9%B6%E8%81%B7%E5%93%A1-%E6%8E%A1%E7%94%A8%E8%AA%AC%E6%98%8E%E4%BC%9A%E3%82%92%EF%BC%93%E6%9C%88%EF%BC%98%E6%97%A5%E5%9C%9F%E3%81%AB%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99%E5%BD%93%E6%97%A5%E3%81%AF%E3%83%95%E3%83%AA%E3%83%BC%E3%83%88%E3%83%BC%E3%82%AF%E5%BD%A2%E5%BC%8F%E3%81%A7%E4%BB%A4%E5%92%8C8%E5%B9%B4%E5%BA%A6%E7%A0%94%E7%A9%B6%E8%81%B7%E5%93%A1%E6%8E%A1%E7%94%A8%E8%A9%A6%E9%A8%93%E4%BB%A4%E5%92%8C7%E5%B9%B4%E5%AE%9F%E6%96%BD%E3%81%AE%E6%A6%82%E8%A6%81%E3%82%84%E5%90%84%E3%82%B3%E3%83%BC%E3%82%B9%E3%81%AE%E4%BB%95%E4%BA%8B/1080054870589911/",
+    "https://www.facebook.com/shouko.noda.7/posts/%E3%81%93%E3%83%BC%E3%81%B0%E3%81%B8%E8%A1%8C%E3%81%93%E3%81%862%E9%80%B1%E7%9B%AE%E3%81%AF%E4%B8%AD%E5%9C%B0%E5%8C%BA-%E5%85%88%E3%81%9A%E3%81%AF-%E5%B8%83%E6%96%BD%E9%87%91%E5%B1%9E%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E7%A5%96%E7%88%B6%E3%81%AE%E4%BB%A3%E3%81%8B%E3%82%89%E6%89%BF%E7%B6%99%E3%81%95%E3%82%8C-%E3%81%93%E3%82%8C%E3%81%9E%E6%9D%B1%E5%A4%A7%E9%98%AA%E3%81%AE%E8%AA%87%E3%82%8A-%E8%81%B7%E4%BA%BA%E3%81%AE%E6%96%B9%E3%80%85%E3%81%8C%E9%BB%99%E3%80%85%E3%81%A8%E5%89%B5%E3%82%89%E3%82%8C%E3%82%8B%E3%81%8A%E5%A7%BF%E3%81%AF%E3%82%AB%E3%83%83%E3%82%B3%E8%89%AF%E3%81%99%E3%81%8E%E3%82%8B%E5%A5%B3%E6%80%A7%E3%81%AE%E8%81%B7%E4%BA%BA%E6%A7%98/28161487700193305/",
+    "https://www.facebook.com/sanwametal/",
+    "https://www.facebook.com/東金属産業株-1320989144583997/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "東金属産業 note 社長",
+   "results": [
+    "https://www.youtube.com/watch?v=K58fxLKzroY",
+    "https://azuma-metal3dp.com/download/114",
+    "https://www.ipros.com/company/detail/2057831/",
+    "https://www.matsuura.co.jp/japan/m-news/tazunete/%E5%89%B5%E6%A5%AD75%E5%91%A8%E5%B9%B4%E3%81%A8%E6%AD%B4%E5%8F%B2%E3%81%82%E3%82%8B%E9%8B%B3%E9%80%A0%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%A7%E3%81%82%E3%82%8A%E3%81%AA%E3%81%8C%E3%82%89%E9%87%91",
+    "https://azuma-ks.co.jp/company/",
+    "https://jgoodtech.smrj.go.jp/ja/corp/info/JC0000000050550?preview=false&createdLocale=ja_JP",
+    "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00124/00005/",
+    "https://www.instagram.com/reel/C9KMRYBylHp/",
+    "https://www.genius-web.co.jp/portfolio/new/entry-603.html",
+    "https://compalyze.co.jp/company/5080101000085"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "東金属産業 X 投稿",
+   "results": [
+    "https://www.youtube.com/watch?v=K58fxLKzroY",
+    "https://azuma-metal3dp.com/download/114",
+    "https://www.ipros.com/company/detail/2057831/",
+    "https://azuma-ks.co.jp/",
+    "https://jgoodtech.smrj.go.jp/ja/corp/info/JC0000000050550?preview=false&createdLocale=ja_JP",
+    "https://x.com/kessan_db/status/2065288994498502780",
+    "https://www.matsuura.co.jp/japan/m-news/tazunete/%E5%89%B5%E6%A5%AD75%E5%91%A8%E5%B9%B4%E3%81%A8%E6%AD%B4%E5%8F%B2%E3%81%82%E3%82%8B%E9%8B%B3%E9%80%A0%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%A7%E3%81%82%E3%82%8A%E3%81%AA%E3%81%8C%E3%82%89%E9%87%91",
+    "https://jp.indeed.com/q-%E6%9D%B1%E9%87%91%E5%B1%9E%E7%94%A3%E6%A5%AD-l-%E9%9D%99%E5%B2%A1%E7%9C%8C-%E6%B2%BC%E6%B4%A5%E5%B8%82-%E6%B2%BC%E6%B4%A5%E9%A7%85-%E6%B1%82%E4%BA%BA.html",
+    "https://www.instagram.com/azuma_ks/",
+    "https://www.youtube.com/channel/UCKZ8N1WrPul7ccveSI5P1XQ"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部12頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部12頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部12頁・検索12回）",
+  "資本金・株主": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部12頁・検索12回）"
+ }
+}

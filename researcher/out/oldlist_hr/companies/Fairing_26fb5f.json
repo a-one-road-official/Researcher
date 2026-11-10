@@ -1,0 +1,1500 @@
+{
+ "name": "Fairing",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜状態なし",
+ "researched_at": "2026-11-10T17:20:25.677093+00:00",
+ "official_url": "https://fairing.co",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Fairing: Post-Purchase Surveys for Marketing Attribution",
+    "url": "https://fairing.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Helping thousands of marketing teams measure marketing",
+    "url": "https://fairing.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Our mission is to bridge the gap between metrics and meaning—revealing the true drivers of customer decisions at scale. By capturing authentic customer insights at the moment of conversion, we help brands build marketing strategies based on real customer understanding, not just click data.",
+    "url": "https://fairing.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Merge attribution responses with behavioral data to reveal true channel performance. Validate marketing spend with direct customer feedback, not just pixel data.",
+    "url": "https://fairing.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Sync attribution survey data directly to your warehouse, analytics tools, and marketing platforms. Native integrations ensure continuous data flow into your existing stack.",
+    "url": "https://fairing.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Before Black Friday: predict your peak, catch leaking codes and read your channels right",
+    "url": "https://fairing.co/",
+    "pass": 1
+   },
+   {
+    "quote": "BFCM CRO Checklist: How to Prepare for Black Friday and Catch Bugs Before Code Freeze",
+    "url": "https://fairing.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Start improving your marketing measurement today with a free trial, or schedule a demo to see our platform in action.",
+    "url": "https://fairing.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Helping thousands of marketing teams measure marketing",
+    "url": "https://fairing.co/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Auto-suggest",
+    "url": "https://fairing.co/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Can I preview my questions before they go live?",
+    "url": "https://fairing.co/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Start improving your marketing measurement today with a free trial, or schedule a demo to see our platform in action.",
+    "url": "https://fairing.co/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How InfluenceLogic Unlocked Full-Funnel Attribution for YouTube & Influencer Marketing with Fairing",
+    "url": "https://fairing.co/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Start improving your marketing measurement today with a free trial, or schedule a demo to see our platform in action.",
+    "url": "https://fairing.co/customers",
+    "pass": 1
+   },
+   {
+    "quote": "It started with one brand’s “Direct” traffic problem.",
+    "url": "https://fairing.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "In 2018, a New York brand running heavy influencer campaigns had a problem its analytics couldn’t solve. Google Analytics was filing every sale under “Direct,” which told the team nothing about which creators were actually driving orders.",
+    "url": "https://fairing.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "That gap between what a buyer says and what a marketer can act on became the product. Enquire launched on the Shopify App Store that year as a post-purchase survey wired directly to order data. In 2022 it became Fairing.",
+    "url": "https://fairing.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "What started as a basic measurement issue quickly evolved into a zero-party data problem: how do you get buyers to respond, clean up freeform text, and tie every answer to a real order?",
+    "url": "https://fairing.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "One question, then a product",
+    "url": "https://fairing.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "Podcasts become video",
+    "url": "https://fairing.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "Fairing is built by DTC operators and data scientists. Every product update begins the exact same way: a brand brings us a question their analytics tools can’t answer, and we build the engine to answer it.",
+    "url": "https://fairing.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "Wrote Fairing’s first code in 2018 and has led product and engineering since.",
+    "url": "https://fairing.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "We’re hiring in New York.",
+    "url": "https://fairing.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "A small, profitable team building the measurement layer brands actually trust.",
+    "url": "https://fairing.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "Helping 3,500+ marketing teams see what’s really driving sales",
+    "url": "https://fairing.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "We treat post-purchase surveys as a data science problem. Actionable survey data requires 3 steps: capture the answer, analyze it, and act on it in the tools you already use.",
+    "url": "https://fairing.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "Attribution, conversion, NPS, persona and pricing answers from the same moment, each tied to a real order.",
+    "url": "https://fairing.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "Promoters are a segment you can act on.",
+    "url": "https://fairing.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "Sources: Fairing survey responses. CRO, NPS and persona: medians across 101, 175 and 166 brands, trailing 24 months. Pricing: median across 39 brands, trailing 24 months. AI: Fairing’s 158-brand study.",
+    "url": "https://fairing.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "of first-time customers answer when it loads in",
+    "url": "https://fairing.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "Learn which marketing actually drove each sale.",
+    "url": "https://fairing.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "Growth · CRO · Retention",
+    "url": "https://fairing.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "Growth, retention and CRO teams",
+    "url": "https://fairing.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "We were previously on Kno which is a solid place to start not thinking too much of the Post Purchase Survey until I got a walk through of Fairing. Their integrations and the data you can pull and connect to are next level. If you are looking to get a way better understanding of your attribution and the ability to connect these data points to all your channels this is the tool for you.",
+    "url": "https://fairing.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "Start free. Scale to enterprise.",
+    "url": "https://fairing.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "The same product at every stage, from your first few hundred orders to tens of thousands a month.",
+    "url": "https://fairing.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "A Shopify Plus Certified App Partner, with enterprise plans for brands past 30,000 orders a month.",
+    "url": "https://fairing.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "See plans and pricing →",
+    "url": "https://fairing.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "Fairing is free up to 200 orders a month. Paid plans scale with your monthly order volume and start with a 14-day free trial, no credit card required. Advanced Attribution is an optional add-on. Current plans are on fairing.co/pricing.",
+    "url": "https://fairing.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "In the vast and ever-evolving landscape of eCommerce, understanding the intricacies of customer acquisition is paramount to success. Among the myriad of metrics and analytics tools available to businesses, there exists one simple yet profound question that holds immense power: “How Did You Hear About Us?” (HDYHAU).",
+    "url": "https://fairing.co/blog/the-most-powerful-question-in-ecommerce-how-did-you-hear-about-us-(hdyhau)",
+    "pass": 1
+   },
+   {
+    "quote": "While this query may appear eerily straightforward and simple, it can prove to be the anchor in your",
+    "url": "https://fairing.co/blog/the-most-powerful-question-in-ecommerce-how-did-you-hear-about-us-(hdyhau)",
+    "pass": 1
+   },
+   {
+    "quote": "From identifying the most effective marketing channels to optimizing your target audience segmentation, the answers to this question can help guide eCommerce merchants towards strategic growth and sustainable profitability.",
+    "url": "https://fairing.co/blog/the-most-powerful-question-in-ecommerce-how-did-you-hear-about-us-(hdyhau)",
+    "pass": 1
+   },
+   {
+    "quote": "with Right Side Up, we introduced HDYHAU surveys, but in this essay, we will delve deep into the significance of HDYHAU and explore its role in shaping marketing strategies (particularly multi-channel campaigns), understanding customer preferences, and driving business success in the digital age.",
+    "url": "https://fairing.co/blog/the-most-powerful-question-in-ecommerce-how-did-you-hear-about-us-(hdyhau)",
+    "pass": 1
+   },
+   {
+    "quote": "Through a comprehensive analysis of its impact and implications, we aim to unveil the true power of this deceptively simple yet profoundly transformative question in the realm of eCommerce attribution.",
+    "url": "https://fairing.co/blog/the-most-powerful-question-in-ecommerce-how-did-you-hear-about-us-(hdyhau)",
+    "pass": 1
+   },
+   {
+    "quote": ". These are big data that eCommerce merchants or other stakeholders can utilize for their business purposes. While each form of data has its pros and cons, zero-party data is the newest form of data that features characteristics to address concerns with the older forms.",
+    "url": "https://fairing.co/blog/the-most-powerful-question-in-ecommerce-how-did-you-hear-about-us-(hdyhau)",
+    "pass": 1
+   },
+   {
+    "quote": "Zero-party data comes as a means to tackle rising privacy concerns and regulations and also provides the most accurate data due to how it’s collected. It is a safe and reliable form of data and one that many businesses add to their current mix of data.",
+    "url": "https://fairing.co/blog/the-most-powerful-question-in-ecommerce-how-did-you-hear-about-us-(hdyhau)",
+    "pass": 1
+   },
+   {
+    "quote": ", have emerged as one of the most vital tools for marketing attribution within the eCommerce landscape.",
+    "url": "https://fairing.co/blog/the-most-powerful-question-in-ecommerce-how-did-you-hear-about-us-(hdyhau)",
+    "pass": 1
+   },
+   {
+    "quote": "These surveys play a pivotal role in understanding the customer journey beyond the point of purchase, providing valuable insights into the effectiveness of marketing channels, filling in the gaps in your attribution models, and more.",
+    "url": "https://fairing.co/blog/the-most-powerful-question-in-ecommerce-how-did-you-hear-about-us-(hdyhau)",
+    "pass": 1
+   },
+   {
+    "quote": "By asking “How Did You Hear About Us”, they enable your eCommerce brand to capture feedback directly from consumers after they’ve made a purchase. They can gain deeper insights into what drove their buying decisions, allowing for more accurate attribution of sales and marketing efforts and optimization of their strategies.",
+    "url": "https://fairing.co/blog/the-most-powerful-question-in-ecommerce-how-did-you-hear-about-us-(hdyhau)",
+    "pass": 1
+   },
+   {
+    "quote": "However, with rising privacy regulations, some means of data collection are slowly being more restricted. These regulations make the need for compliant data collection to be of utmost importance in today’s digital age.",
+    "url": "https://fairing.co/blog/the-most-powerful-question-in-ecommerce-how-did-you-hear-about-us-(hdyhau)",
+    "pass": 1
+   },
+   {
+    "quote": "These methods alone are not sufficient as it doesn’t provide a clear enough picture of your customers. In our current landscape where we have access to a wealth of information, traditional data alone only gives you macro-level insights to your consumer.",
+    "url": "https://fairing.co/blog/the-most-powerful-question-in-ecommerce-how-did-you-hear-about-us-(hdyhau)",
+    "pass": 1
+   },
+   {
+    "quote": "It is recommended to collect a mix of data that consists of your traditional first to third party-data, as well as zero-party data, to get a full understanding of your consumer and their conversion path. This will enable your eCommerce brand to optimize an array of things, such as your checkout process, your customers’ buying experience, and more.",
+    "url": "https://fairing.co/blog/the-most-powerful-question-in-ecommerce-how-did-you-hear-about-us-(hdyhau)",
+    "pass": 1
+   },
+   {
+    "quote": "By integrating both quantitative and qualitative data sources, businesses can gain a comprehensive understanding of their audience and tailor strategies to meet their evolving needs effectively.",
+    "url": "https://fairing.co/blog/the-most-powerful-question-in-ecommerce-how-did-you-hear-about-us-(hdyhau)",
+    "pass": 1
+   },
+   {
+    "quote": "These usually take the form of an “Other” option in the HDYHAU, or follow-up question. This enables businesses to gather deeper qualitative data if needed. Providing customers with the right HDYHAU options in your survey is also critical for you to get accurate answers on, well, how they heard about you.",
+    "url": "https://fairing.co/blog/the-most-powerful-question-in-ecommerce-how-did-you-hear-about-us-(hdyhau)",
+    "pass": 1
+   },
+   {
+    "quote": "HDYHAU survey questions earned their prominence in attribution modeling surveys as they serve as a direct avenue for customers to articulate their initial touch-points with a brand or product. Not only that, they’re also integrated into the customer journey seamlessly so as to create as little friction as possible, allowing for high response rates.",
+    "url": "https://fairing.co/blog/the-most-powerful-question-in-ecommerce-how-did-you-hear-about-us-(hdyhau)",
+    "pass": 1
+   },
+   {
+    "quote": "This data provides crucial insights into the effectiveness of various marketing channels and marketing campaigns. As businesses strive to understand and optimize their customer acquisition strategies, the data received is the key to deciphering their marketing attribution and to fill out their attribution models.",
+    "url": "https://fairing.co/blog/the-most-powerful-question-in-ecommerce-how-did-you-hear-about-us-(hdyhau)",
+    "pass": 1
+   },
+   {
+    "quote": "Having such information helps to measure past efforts, and also acts as guiding lights going forward. Businesses can get a grasp of what does and does not work for their consumer, and pattern their future marketing campaigns accordingly.",
+    "url": "https://fairing.co/blog/the-most-powerful-question-in-ecommerce-how-did-you-hear-about-us-(hdyhau)",
+    "pass": 1
+   },
+   {
+    "quote": "Finally, your store and your product are fresh in their minds. The reason they purchased today, whether it was a recommendation from a friend or a podcast ad, would be clearest in their minds as your eCommerce brand asks for immediate feedback.",
+    "url": "https://fairing.co/blog/the-most-powerful-question-in-ecommerce-how-did-you-hear-about-us-(hdyhau)",
+    "pass": 1
+   },
+   {
+    "quote": "HDYHAU attribution survey best practices",
+    "url": "https://fairing.co/blog/the-most-powerful-question-in-ecommerce-how-did-you-hear-about-us-(hdyhau)",
+    "pass": 1
+   },
+   {
+    "quote": ") that would make this process more efficient for you.",
+    "url": "https://fairing.co/blog/the-most-powerful-question-in-ecommerce-how-did-you-hear-about-us-(hdyhau)",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Sync attribution survey data directly to your warehouse, analytics tools, and marketing platforms. Native integrations ensure continuous data flow into your existing stack.",
+    "url": "https://fairing.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Fairing is built by DTC operators and data scientists. Every product update begins the exact same way: a brand brings us a question their analytics tools can’t answer, and we build the engine to answer it.",
+    "url": "https://fairing.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "Thorne is a health and wellness brand trusted by elite athletes, healthcare practitioners, and everyday consumers. Since 2019, Thorne has been an official partner of UFC, supplying clean, evidence-based supplements that support peak performance, preparation, and recovery to their athletes.",
+    "url": "https://fairing.co/customers/thorne",
+    "pass": 1
+   },
+   {
+    "quote": "Black and Red Factory Style - CBR600RR 03-04 Fairing Kit",
+    "url": "https://www.newfairings.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Black with Silver Decals Factory Style - CBR600RR 05-06 Fairing Kit",
+    "url": "https://www.newfairings.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Blue Factory Style - YZF600R Thundercat 96-07 Fairing Kit",
+    "url": "https://www.newfairings.com/",
+    "pass": 3
+   },
+   {
+    "quote": "White Matte Black Factory Style - YZF-R6 06-07 Fairing Kit",
+    "url": "https://www.newfairings.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Matte Black Factory Style - YZF-R6 08-16 Fairing Kit",
+    "url": "https://www.newfairings.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Red White and Black Factory Style - YZF-R6 08-16 Fairing Kit",
+    "url": "https://www.newfairings.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Please note: All manufacturer names, symbols, and descriptions, used in our images & text are used solely for identification purposes only. It is neither inferred nor implied that any item sold by Newfairings is a product authorized by or in any way connected with any vehicle manufacturers displayed on this page.",
+    "url": "https://www.newfairings.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by riders worldwide since 2005",
+    "url": "https://www.tsukayu.com/",
+    "pass": 3
+   },
+   {
+    "quote": "International delivery via UPS, DHL, and FedEx. Warehouses in the US and Australia.",
+    "url": "https://www.tsukayu.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Factory color match available for all products. Perfect match to your bike's paint.",
+    "url": "https://www.tsukayu.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study - Motorcycle Fairing Pouches - Polo Custom Products",
+    "url": "https://www.polocustomproducts.com/case-study-motorcycle-fairing-pouches/",
+    "pass": 3
+   },
+   {
+    "quote": "Barcode Scanner Holster Manufacturer",
+    "url": "https://www.polocustomproducts.com/case-study-motorcycle-fairing-pouches/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Soundproof Blanket",
+    "url": "https://www.polocustomproducts.com/case-study-motorcycle-fairing-pouches/",
+    "pass": 3
+   },
+   {
+    "quote": "Cleanroom and Controlled Environment Manufacturing",
+    "url": "https://www.polocustomproducts.com/case-study-motorcycle-fairing-pouches/",
+    "pass": 3
+   },
+   {
+    "quote": "Global Manufacturing & Supply Chain",
+    "url": "https://www.polocustomproducts.com/case-study-motorcycle-fairing-pouches/",
+    "pass": 3
+   },
+   {
+    "quote": ", and large volume manufacturing, Polo delivered a consistent, high-quality solution tailored to demanding touring applications.",
+    "url": "https://www.polocustomproducts.com/case-study-motorcycle-fairing-pouches/",
+    "pass": 3
+   },
+   {
+    "quote": "to keep design and manufacturing on schedule,",
+    "url": "https://www.polocustomproducts.com/case-study-motorcycle-fairing-pouches/",
+    "pass": 3
+   },
+   {
+    "quote": "to validate performance, and manufacturing engineering to create repeatable production processes. The customer also needed",
+    "url": "https://www.polocustomproducts.com/case-study-motorcycle-fairing-pouches/",
+    "pass": 3
+   },
+   {
+    "quote": ", built and tested prototypes, and incorporated customer feedback to ensure an accurate fit within the fairing interior. Polo’s manufacturing engineers established repeatable production methods, while advanced",
+    "url": "https://www.polocustomproducts.com/case-study-motorcycle-fairing-pouches/",
+    "pass": 3
+   },
+   {
+    "quote": "wrapped pouch construction enhanced durability under vibration and real-world riding conditions. Through quality validation, production planning, controlled manufacturing, final inspection, and shipment, Polo delivered a scalable, high-quality solution that maintained consistent fit, performance, and reliability that we see on many motorcycles daily.",
+    "url": "https://www.polocustomproducts.com/case-study-motorcycle-fairing-pouches/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Motorcycle Fairing Tooling in PA12-CF… — Layer X",
+    "url": "https://layerx3d.in/blog/case-study-motorcycle-fairing-tooling-pa12-cf-ahmedabad-automotive-oem",
+    "pass": 3
+   },
+   {
+    "quote": "PA12-CF motorcycle fairing tooling for an automotive OEM in Ahmedabad.",
+    "url": "https://layerx3d.in/blog/case-study-motorcycle-fairing-tooling-pa12-cf-ahmedabad-automotive-oem",
+    "pass": 3
+   },
+   {
+    "quote": "A two-wheeler accessories manufacturer based in Ahmedabad was developing five new fairing variants for an upcoming model year update to their commuter motorcycle range. Each variant required a prototype mould for pre-production validation — testing part release, surface finish quality, and fit to the motorcycle chassis before committing to production steel moulds.",
+    "url": "https://layerx3d.in/blog/case-study-motorcycle-fairing-tooling-pa12-cf-ahmedabad-automotive-oem",
+    "pass": 3
+   },
+   {
+    "quote": "to explore SLS additive manufacturing as a tooling alternative.",
+    "url": "https://layerx3d.in/blog/case-study-motorcycle-fairing-tooling-pa12-cf-ahmedabad-automotive-oem",
+    "pass": 3
+   },
+   {
+    "quote": "SLS PA12-CF is a production-viable tooling material for GRP lay-up moulds up to ~100 pull cycles. For Indian automotive prototype tooling — where design iteration is frequent, volume is low, and speed to physical validation is critical — additive mould tooling delivers compelling economics and time advantages over CNC aluminium at the prototype stage.",
+    "url": "https://layerx3d.in/blog/case-study-motorcycle-fairing-tooling-pa12-cf-ahmedabad-automotive-oem",
+    "pass": 3
+   },
+   {
+    "quote": "for custom SLS and DMLS tooling for Indian automotive and product design customers in Ahmedabad and across Gujarat.",
+    "url": "https://layerx3d.in/blog/case-study-motorcycle-fairing-tooling-pa12-cf-ahmedabad-automotive-oem",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing for Automotive Manufacturing in India: OEM Jigs & Fixtures",
+    "url": "https://layerx3d.in/blog/case-study-motorcycle-fairing-tooling-pa12-cf-ahmedabad-automotive-oem",
+    "pass": 3
+   },
+   {
+    "quote": "Technical content produced by the Layer X manufacturing team — engineers, quality specialists, and process experts with direct, hands-on experience.",
+    "url": "https://layerx3d.in/blog/case-study-motorcycle-fairing-tooling-pa12-cf-ahmedabad-automotive-oem",
+    "pass": 3
+   },
+   {
+    "quote": "Upload your CAD file and get a precision manufacturing quote within 24 hours.",
+    "url": "https://layerx3d.in/blog/case-study-motorcycle-fairing-tooling-pa12-cf-ahmedabad-automotive-oem",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Tortuga improves attribution and uncovers high-impact channels with Fairing | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/fairing/case-study/how-tortuga-took-off-with-direct-from-consumer-data-from-fairing",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Tortuga improves attribution and uncovers high-impact channels with Fairing",
+    "url": "https://www.casestudies.com/company/fairing/case-study/how-tortuga-took-off-with-direct-from-consumer-data-from-fairing",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/fairing/case-study/how-tortuga-took-off-with-direct-from-consumer-data-from-fairing",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/fairing/case-study/how-tortuga-took-off-with-direct-from-consumer-data-from-fairing",
+    "pass": 3
+   },
+   {
+    "quote": "Chapter 2: Manufacturing Processes and Mounting Techniques in Custom Motorcycle Fairing Fabrication",
+    "url": "https://summitfairings.com/blog/custom-motorcycle-fairing-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": "This fusion of digital design, versatile materials, and advanced manufacturing techniques marks a significant leap forward in custom motorcycle fairing creation. Detailed insights into additive manufacturing’s influence on motorcycle parts can be found at",
+    "url": "https://summitfairings.com/blog/custom-motorcycle-fairing-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": "Voxelmatters’ automotive and motorcycles category",
+    "url": "https://summitfairings.com/blog/custom-motorcycle-fairing-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": "Cost data on carbon fiber fairings and manufacturing processes",
+    "url": "https://summitfairings.com/blog/custom-motorcycle-fairing-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": "For readers interested in a deeper understanding of the geopolitical impact on motorcycle parts manufacturing and supply chains, further analysis is available from",
+    "url": "https://summitfairings.com/blog/custom-motorcycle-fairing-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": "Together, these material choices and design innovations underscore the evolving landscape of custom motorcycle fairing fabrication, where individual rider vision meets cutting-edge manufacturing for superior form and function.",
+    "url": "https://summitfairings.com/blog/custom-motorcycle-fairing-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": "Today’s supply chains blend local manufacturers and global platforms, offering broad accessibility to a diverse range of fairing solutions. This widespread availability supports riders seeking either ready-made kits or adaptable components tailored to very specific builds. For enthusiasts looking to explore more about the diverse fairing selections and customization opportunities,",
+    "url": "https://summitfairings.com/blog/custom-motorcycle-fairing-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": ": The tremendous vibration caused by the roar of the rocket engines. It is like placing precision equipment right in front of a giant live speaker, with the risk that intense sound wave vibrations could destroy electronic circuits.",
+    "url": "https://note.com/aero_actor/n/nc9202a02194e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Space business news for the manufacturing industry, curated by ALTILAN Inc. Every Saturday at lunchtime, we analyze and deliver topics related to domestic and international space development and space business from the perspective of the manufacturing and other industries.",
+    "url": "https://note.com/hikaru_96_1104/n/n9b8688f77f24?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Two Earth observation operators and satellite manufacturers select optical communication terminals to use as a service rather than purchasing them",
+    "url": "https://note.com/hikaru_96_1104/n/n9b8688f77f24?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Implications for the manufacturing industry",
+    "url": "https://note.com/hikaru_96_1104/n/n9b8688f77f24?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The shortcut for demonstrating your own components is to inquire directly with satellite operators.",
+    "url": "https://note.com/hikaru_96_1104/n/n9b8688f77f24?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Implications for Manufacturing",
+    "url": "https://note.com/hikaru_96_1104/n/n9b8688f77f24?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with insulation molding and bonding methods should consider asking aircraft manufacturers about the differences in requirements for each configuration and flight path.",
+    "url": "https://note.com/hikaru_96_1104/n/n9b8688f77f24?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "While direct implications for the manufacturing industry are limited, I would like to introduce some interesting news as a new concept in space business.",
+    "url": "https://note.com/hikaru_96_1104/n/n9b8688f77f24?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Perspective",
+    "url": "https://note.com/hikaru_96_1104/n/n9b8688f77f24?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Join 3,500+ marketers using attribution surveys to accelerate revenue growth.",
+    "url": "https://fairing.co/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Fixing attribution exposed a much bigger challenge: getting true, structured customer feedback across every part of the funnel. Marketers also needed to know:",
+    "url": "https://fairing.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "Buyers start asking AI what to buy, then arrive later as direct.",
+    "url": "https://fairing.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "No option should win just because it’s listed first.",
+    "url": "https://fairing.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "No option wins just because it’s listed first.",
+    "url": "https://fairing.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "Marketers who own acquisition, checkout conversion, NPS and customer research.",
+    "url": "https://fairing.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "In the vast and ever-evolving landscape of eCommerce, understanding the intricacies of customer acquisition is paramount to success. Among the myriad of metrics and analytics tools available to businesses, there exists one simple yet profound question that holds immense power: “How Did You Hear About Us?” (HDYHAU).",
+    "url": "https://fairing.co/blog/the-most-powerful-question-in-ecommerce-how-did-you-hear-about-us-(hdyhau)",
+    "pass": 1
+   },
+   {
+    "quote": "It is recommended to collect a mix of data that consists of your traditional first to third party-data, as well as zero-party data, to get a full understanding of your consumer and their conversion path. This will enable your eCommerce brand to optimize an array of things, such as your checkout process, your customers’ buying experience, and more.",
+    "url": "https://fairing.co/blog/the-most-powerful-question-in-ecommerce-how-did-you-hear-about-us-(hdyhau)",
+    "pass": 1
+   },
+   {
+    "quote": "This data provides crucial insights into the effectiveness of various marketing channels and marketing campaigns. As businesses strive to understand and optimize their customer acquisition strategies, the data received is the key to deciphering their marketing attribution and to fill out their attribution models.",
+    "url": "https://fairing.co/blog/the-most-powerful-question-in-ecommerce-how-did-you-hear-about-us-(hdyhau)",
+    "pass": 1
+   },
+   {
+    "quote": "With Fairing, Thorne can directly attribute conversions to UFC activations, turning a traditionally hard-to-measure partnership into a proven revenue driver.",
+    "url": "https://fairing.co/customers/thorne",
+    "pass": 1
+   },
+   {
+    "quote": "their survey data for accurate revenue projections.",
+    "url": "https://fairing.co/customers/thorne",
+    "pass": 1
+   },
+   {
+    "quote": "We’re able to see, because our customers are telling us and confirming every day, that we aren’t a commodity product to them. We’re a part of their lifestyle.",
+    "url": "https://fairing.co/customers/weezie",
+    "pass": 1
+   },
+   {
+    "quote": "Your ad reports miss much of that shift. Most customers who name friends or family arrive with no UTM tag, and at BFCM a bigger share of the revenue your paid-search ads get credit for comes from them. Discount codes cover less as well. A smaller share of BFCM orders uses a code, so code reports likely miss more influencer sales.",
+    "url": "https://fairing.co/resources/benchmarks/bfcm-how-customers-hear-about-you",
+    "pass": 1
+   },
+   {
+    "quote": "At BFCM, a bigger share of the revenue your paid ads get credit for came from buyers who named another channel.",
+    "url": "https://fairing.co/resources/benchmarks/bfcm-how-customers-hear-about-you",
+    "pass": 1
+   },
+   {
+    "quote": "At the median brand, over a quarter of the BFCM revenue credited to paid search came from buyers who named friends or family, up about 5 percentage points from its own October. The share of revenue credited to paid social from buyers who named a social platform fell about 5 points.",
+    "url": "https://fairing.co/resources/benchmarks/bfcm-how-customers-hear-about-you",
+    "pass": 1
+   },
+   {
+    "quote": "At BFCM, a bigger share of paid-search revenue came from buyers who named friends or family",
+    "url": "https://fairing.co/resources/benchmarks/bfcm-how-customers-hear-about-you",
+    "pass": 1
+   },
+   {
+    "quote": "That share rose 2 points or more at 7 in 10 brands. At the median brand, about 27% of the BFCM revenue credited to paid search came from buyers who named friends or family, up about 5 percentage points from its own October.",
+    "url": "https://fairing.co/resources/benchmarks/bfcm-how-customers-hear-about-you",
+    "pass": 1
+   },
+   {
+    "quote": "Looked at the other way: about 1 in 7 BFCM customers who named friends or family arrived through a paid-search click, so your paid-search report claims some of your friends-and-family customers. And at the median brand, about two-thirds of them arrived with no UTM tag at all, about the same as in October. Someone who hears your name from a friend can just type it in.",
+    "url": "https://fairing.co/resources/benchmarks/bfcm-how-customers-hear-about-you",
+    "pass": 1
+   },
+   {
+    "quote": "At BFCM, an even smaller share of paid-search revenue came from buyers who named search",
+    "url": "https://fairing.co/resources/benchmarks/bfcm-how-customers-hear-about-you",
+    "pass": 1
+   },
+   {
+    "quote": "That share fell 2 points or more at almost half of brands. At the median brand, only about 9% of the BFCM revenue credited to paid search came from buyers who named search, about 2 percentage points less than in its own October. “Named search” includes paid and organic search answers, since most brands’ answer options don’t separate them.",
+    "url": "https://fairing.co/resources/benchmarks/bfcm-how-customers-hear-about-you",
+    "pass": 1
+   },
+   {
+    "quote": "At BFCM, a smaller share of paid-social revenue came from buyers who named a social platform",
+    "url": "https://fairing.co/resources/benchmarks/bfcm-how-customers-hear-about-you",
+    "pass": 1
+   },
+   {
+    "quote": "That share fell 2 points or more at 7 in 10 brands. At the median brand, about 71% of the BFCM revenue credited to paid social still came from buyers who named a social platform, about 5 percentage points less than in its own October.",
+    "url": "https://fairing.co/resources/benchmarks/bfcm-how-customers-hear-about-you",
+    "pass": 1
+   },
+   {
+    "quote": "No. A UTM tag records the last link a customer clicked before buying, and a survey answer records how they first heard about you. Over BFCM, about two-thirds of the median brand’s customers who named friends or family arrived with no UTM tag at all, about the same as in October. A post-purchase survey asks every buyer, tagged or not.",
+    "url": "https://fairing.co/resources/benchmarks/bfcm-how-customers-hear-about-you",
+    "pass": 1
+   },
+   {
+    "quote": "Each change is the brand’s own change against its October, then the median across brands, not the difference between two medians. Figures count survey-answered orders unless they say revenue. About 96% of answers come from first orders. Each season in the 2023 to 2025 comparison uses that season’s brands, so it shows the same pattern in three groups of brands, not one group tracked over time.",
+    "url": "https://fairing.co/resources/benchmarks/bfcm-how-customers-hear-about-you",
+    "pass": 1
+   },
+   {
+    "quote": "Shares within each brand, in its own currency, then the median. Paid-tag figures use one set of brands with enough paid-search and paid-social revenue in both windows, whose survey offers search, social and friends-and-family answers.",
+    "url": "https://fairing.co/resources/benchmarks/bfcm-how-customers-hear-about-you",
+    "pass": 1
+   },
+   {
+    "quote": "A sale day is a non-holiday day (February to October) with at least twice the brand’s trailing four-week median orders (20+), compared with its days within two weeks. A visible referral program means enough answered orders carried a referral tag or code; programs we can’t detect would make the groups look more alike.",
+    "url": "https://fairing.co/resources/benchmarks/bfcm-how-customers-hear-about-you",
+    "pass": 1
+   },
+   {
+    "quote": "developing countries due to the benefits of images and positional information acquired by satellites. The fairing is a",
+    "url": "https://www.khi.co.jp/rd/magazine/pdf/179/n17906.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Custom AED & Defibrillator Carrying Case",
+    "url": "https://www.polocustomproducts.com/case-study-motorcycle-fairing-pouches/",
+    "pass": 3
+   },
+   {
+    "quote": "Test Equipment Carrying Case",
+    "url": "https://www.polocustomproducts.com/case-study-motorcycle-fairing-pouches/",
+    "pass": 3
+   },
+   {
+    "quote": "Tortuga, a travel gear brand, faced a challenge in accurately attributing its revenue across organic, affiliate, and offline channels. This lack of clear data made it difficult to optimize marketing spend and inform product development. To address this, the company implemented post-purchase surveys from Fairing to gather zero-party data directly from its customers.",
+    "url": "https://www.casestudies.com/company/fairing/case-study/how-tortuga-took-off-with-direct-from-consumer-data-from-fairing",
+    "pass": 3
+   },
+   {
+    "quote": "These factors combine to make economic planning an essential part of custom fairing projects, where the goal is to harmonize budget with design ambition and functional performance. For riders and fabricators looking to explore cost-effective options without compromising style, discovering affordable motorcycle fairings at Summit Fairings offers valuable resources and insights.",
+    "url": "https://summitfairings.com/blog/custom-motorcycle-fairing-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": "Visually, fairings increasingly balance retro and contemporary influences: designs incorporate acid-etched metals, pearl-coated paints, and integrated LED lighting to create layers of depth and distinctive character. This fusion enriches the motorcycle’s story, aligning its appearance with the rider’s identity and narrative.",
+    "url": "https://summitfairings.com/blog/custom-motorcycle-fairing-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": "The configuration is H3-24L. It carried two LE-9 engines in the first stage and four SRB-3 solid rocket boosters. The only difference between the 24L and 24W is the type of fairing; the total length of the 24L is approximately 63m, and the fairing outer diameter is 5.2m.",
+    "url": "https://note.com/hikaru_96_1104/n/n9b8688f77f24?hl=en",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Here’s how having HDYHAU data can help: Imagine analyzing your brands AOV over time. Great, everything is going up and to the right. But layering attribution data from your HDYHAU survey over those metrics gives you a clearer picture: people buying after hearing about your brand from a friend have a 30% higher AOV than your average customer.",
+    "url": "https://fairing.co/blog/the-most-powerful-question-in-ecommerce-how-did-you-hear-about-us-(hdyhau)",
+    "pass": 1
+   },
+   {
+    "quote": "But interestingly, this insight didn’t lead to increased investment in their referral program.",
+    "url": "https://fairing.co/customers/weezie",
+    "pass": 1
+   },
+   {
+    "quote": "“Our audience just isn’t motivated by kickbacks and doesn’t really engage with traditional referral programs that rely on incentives. We found that they are motivated by passion for our brand, which is great.” said Hughes.",
+    "url": "https://fairing.co/customers/weezie",
+    "pass": 1
+   },
+   {
+    "quote": "At the median brand, the share starts climbing in early November and peaks about 7 points above its own October, higher than over BFCM itself. Brands with a visible referral program saw about the same BFCM rise as brands without one, so referral programs don’t explain it.",
+    "url": "https://fairing.co/resources/benchmarks/bfcm-how-customers-hear-about-you",
+    "pass": 1
+   },
+   {
+    "quote": "Sale days and referral programs.",
+    "url": "https://fairing.co/resources/benchmarks/bfcm-how-customers-hear-about-you",
+    "pass": 1
+   },
+   {
+    "quote": "A sale day is a non-holiday day (February to October) with at least twice the brand’s trailing four-week median orders (20+), compared with its days within two weeks. A visible referral program means enough answered orders carried a referral tag or code; programs we can’t detect would make the groups look more alike.",
+    "url": "https://fairing.co/resources/benchmarks/bfcm-how-customers-hear-about-you",
+    "pass": 1
+   },
+   {
+    "quote": "NewFairings has the worlds best selection of Yamaha R6 Fairings, Yamaha R1 Fairings and TMAX Fairings. All Fairing Kits ABS Injection Moulded just like OEM.",
+    "url": "https://www.newfairings.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Learn how Polo Custom Products partnered with a leading motorcycle accessories brand to engineer OEM-fit fairing pouches that enhance rider convenience without compromising performance. Through rider-focused design and",
+    "url": "https://www.polocustomproducts.com/case-study-motorcycle-fairing-pouches/",
+    "pass": 3
+   },
+   {
+    "quote": "The customer needed a partner that could take a fairing pouch from concept to production while ensuring an OEM fit, long-term durability, and production consistency. They required our",
+    "url": "https://www.polocustomproducts.com/case-study-motorcycle-fairing-pouches/",
+    "pass": 3
+   },
+   {
+    "quote": "PA12-CF motorcycle fairing tooling for an automotive OEM in Ahmedabad.",
+    "url": "https://layerx3d.in/blog/case-study-motorcycle-fairing-tooling-pa12-cf-ahmedabad-automotive-oem",
+    "pass": 3
+   },
+   {
+    "quote": "The OEM pulled 60 prototype panels across the five variants within the 8-day window and completed chassis fit verification for all variants in the same month the CAD data was finalised — a product development timeline that would have been impossible with the CNC tooling lead time.",
+    "url": "https://layerx3d.in/blog/case-study-motorcycle-fairing-tooling-pa12-cf-ahmedabad-automotive-oem",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing for Automotive Manufacturing in India: OEM Jigs & Fixtures",
+    "url": "https://layerx3d.in/blog/case-study-motorcycle-fairing-tooling-pa12-cf-ahmedabad-automotive-oem",
+    "pass": 3
+   },
+   {
+    "quote": "Kawasaki 636 OEM fairings: clip types and panel removal order decide reusable hardware",
+    "url": "https://summitfairings.com/blog/custom-motorcycle-fairing-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": "offer valuable insights and product ranges that support both OEM-style replication and fully bespoke creations.",
+    "url": "https://summitfairings.com/blog/custom-motorcycle-fairing-fabrication/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "There are two common ways that your business can implement such a survey to gather important information needed to help elevate it. One way would be through email or text blasts that would be sent to all your customers using general information you’ve collected. There are many services that make this possible (such as",
+    "url": "https://fairing.co/blog/the-most-powerful-question-in-ecommerce-how-did-you-hear-about-us-(hdyhau)",
+    "pass": 1
+   },
+   {
+    "quote": "However, this method tends to have low response rates. Customers tend not to reply to such queries after they’ve made their purchase—when’s the last time you’ve answered a survey over email? Compounding low open rates of a survey email with even lower survey completion rates leaves brands with simply not enough data to make decisions.",
+    "url": "https://fairing.co/blog/the-most-powerful-question-in-ecommerce-how-did-you-hear-about-us-(hdyhau)",
+    "pass": 1
+   },
+   {
+    "quote": "Enter your email below to be notified of new blog posts.",
+    "url": "https://fairing.co/blog/the-most-powerful-question-in-ecommerce-how-did-you-hear-about-us-(hdyhau)",
+    "pass": 1
+   },
+   {
+    "quote": "Email and text also ran a little ahead of all channels (4.2x). Influencer, YouTube and podcast ran a little slower, so their small shares barely moved.",
+    "url": "https://fairing.co/resources/benchmarks/bfcm-how-customers-hear-about-you",
+    "pass": 1
+   },
+   {
+    "quote": "Apart from friends and family and email or text, the channels we show ran 3.0x to 3.6x their October daily average over BFCM, so look into any channel that ran well below that.",
+    "url": "https://fairing.co/resources/benchmarks/bfcm-how-customers-hear-about-you",
+    "pass": 1
+   },
+   {
+    "quote": "Email: sale@newfairings.com",
+    "url": "https://www.newfairings.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Ask The Newfairings Experts anything. We will follow up with you via email within 24-48 hours.",
+    "url": "https://www.newfairings.com/",
+    "pass": 3
+   },
+   {
+    "quote": "This email address is already registered!",
+    "url": "https://www.newfairings.com/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Kawasaki has successfully produced a large fairing for the H-II Launch Vehicle for the first time in Japan. Since then,",
+    "url": "https://www.khi.co.jp/rd/magazine/pdf/179/n17906.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付ボルト）方式をベースに，日本独自の分離機構を開発す",
+    "url": "https://www.khi.co.jp/rd/magazine/pdf/179/n17906.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "る．日本では，浮遊するフェアリングが船舶の航行に支障",
+    "url": "https://www.khi.co.jp/rd/magazine/pdf/179/n17906.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "FULL FAIRING SET | Yoshimura Japan",
+    "url": "https://www.yoshimura-jp.com/product/n-117913?lang=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "179号 ロケット用フェアリングの開発 — Kawasaki has successfully produced a large fairing for the H-II Launch Vehicle for the first time in Japan. Since then, we have made technical improvements on an ongoing basis to continue supplying high-performance fairings at a low cost.",
+    "url": "https://www.khi.co.jp/rd/magazine/pdf/179/n17906.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Fairing | Yoshimura Japan — ・FULL FAIRING SET (P/N : 510-50A-0000) ・FULL FAIRING SET ENDURANCE (P/N : 510-50A-1000) ♦ FOLLOW AND COMPLY EACH RACE REGULATION TO USE. ♦ THE PRODUCT HAS BEEN DEVELOPED FOR CLOSED-COURSE...",
+    "url": "https://www.yoshimura-jp.com/product-category/kitparts-29-01?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "Motorcycle Fairings, ABS Fairings Kits, Custom Fairings, Race ... — We can design and custom Road Fairings and Race Fairings, you can buy the best quality fairing kit with confidence at the lowest price in our online store.",
+    "url": "https://www.newfairings.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Tsukayu — Premium Motorcycle Fairings & Hard Saddlebags — Premium motorcycle fairings, hard saddlebags, and touring accessories. Transform your cruiser into a touring machine.",
+    "url": "https://www.tsukayu.com/",
+    "pass": 3
+   },
+   {
+    "quote": "FULL FAIRING SET | Yoshimura Japan — ♦ FOLLOW AND COMPLY EACH RACE REGULATION TO USE. ♦ THE PRODUCT HAS BEEN DEVELOPED FOR CLOSED-COURSE RIDING OR COMPETITION USE ONLY AND IS NOT INTENDED TO BE USED ON PUBLIC ROADS. RACING KIT PARTS LIST.",
+    "url": "https://www.yoshimura-jp.com/product/n-117913?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "Windshields & Fairings | Blindtiger — 自分たちが「良いだろうな」と思ったハーレーカスタムパーツやアパレルを扱うセレクトショップです。 ここにしかない、マニアックでアンダーグランドなアイテムを取り揃えています。",
+    "url": "https://www.blindtiger.jp/p_cate/windshields_fairings/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study - Motorcycle Fairing Pouches - Polo Custom Products — Learn how Polo Custom Products partnered with a leading motorcycle accessories brand to engineer OEM-fit fairing pouches that enhance rider convenience without compromising performance.",
+    "url": "https://www.polocustomproducts.com/case-study-motorcycle-fairing-pouches/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Motorcycle Fairing Tooling in PA12-CF… — Layer X — May 30, 2026 · A two-wheeler accessories manufacturer based in Ahmedabad was developing five new fairing variants for an upcoming model year update to their commuter motorcycle range.",
+    "url": "https://layerx3d.in/blog/case-study-motorcycle-fairing-tooling-pa12-cf-ahmedabad-automotive-oem",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Tortuga improves attribution and uncovers high ... — The data from Fairing also provided new insights into word-of-mouth referrals and customer preferences, which are now shaping the company's future product strategy and bundling options. View this case study…",
+    "url": "https://www.casestudies.com/company/fairing/case-study/how-tortuga-took-off-with-direct-from-consumer-data-from-fairing",
+    "pass": 3
+   },
+   {
+    "quote": "Mastering Custom Motorcycle Fairing Fabrication: From Design ... — Together, these material choices and design innovations underscore the evolving landscape of custom motorcycle fairing fabrication, where individual rider vision meets cutting-edge manufacturing for superior form and function.",
+    "url": "https://summitfairings.com/blog/custom-motorcycle-fairing-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": "12 Fairing Case Studies, Success Stories, & Customer Stories — Fairing has a 4.7/5 star rating. Learn what their customers think, get 12 free case studies and more.",
+    "url": "https://www.featuredcustomers.com/vendor/fairing/case-studies",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Shield to Space: The Structure of Rocket Fairings and the ... Sep 20, 2026 · This fairing acts as a \"shield\" that protects the delicate artificial satellite stored inside from the harsh environment until the rocket reaches space. During launch, the satellite is exposed to three major threats that are unimaginable on the ground.",
+    "url": "https://note.com/aero_actor/n/nc9202a02194e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "FERTIKA#42 | Axelspace tests ASPINA's attitude control system ... Axelspace tests ASPINA's attitude control system in orbit | First flight of H3 long fairing Axelspace is testing an attitude control system co-developed with ASPINA, a precision motor manufacturer in Ueda City, Nagano Prefecture, through its own on-orbit demonstration service.",
+    "url": "https://note.com/hikaru_96_1104/n/n9b8688f77f24?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Shield to Space: The Structure of Rocket Fairings and the Technology of 'Return'｜戸梶歩 宇宙開発エバンジェリスト",
+    "url": "https://note.com/aero_actor/n/nc9202a02194e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Shield to Space: The Structure of Rocket Fairings and the Technology of 'Return'",
+    "url": "https://note.com/aero_actor/n/nc9202a02194e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. Introduction: The Identity of the Clamshell Protecting Satellites",
+    "url": "https://note.com/aero_actor/n/nc9202a02194e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Look up at the tip of a rocket. There, you will find a part called a \"fairing,\" which looks like a giant clamshell. This fairing acts as a \"shield\" that protects the delicate artificial satellite stored inside from the harsh environment until the rocket reaches space.",
+    "url": "https://note.com/aero_actor/n/nc9202a02194e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "During launch, the satellite is exposed to three major threats that are unimaginable on the ground.",
+    "url": "https://note.com/aero_actor/n/nc9202a02194e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Dynamic Pressure (Max-Q)",
+    "url": "https://note.com/aero_actor/n/nc9202a02194e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": The immense force of air encountered when pushing through the atmosphere at hypersonic speeds. Imagine leaning out of the window of a car traveling at thousands of kilometers per hour. Pressure hundreds of times greater than that strikes the satellite.",
+    "url": "https://note.com/aero_actor/n/nc9202a02194e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": The tremendous vibration caused by the roar of the rocket engines. It is like placing precision equipment right in front of a giant live speaker, with the risk that intense sound wave vibrations could destroy electronic circuits.",
+    "url": "https://note.com/aero_actor/n/nc9202a02194e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "FERTIKA#42 | Axelspace tests ASPINA's attitude control system in orbit | First flight of H3 long fairing [Week 4, October 2026 issue]｜永利 光｜SF小説家 × 宇宙ビジネスアーキテクト",
+    "url": "https://note.com/hikaru_96_1104/n/n9b8688f77f24?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "FERTIKA#42 | Axelspace tests ASPINA's attitude control system in orbit | First flight of H3 long fairing [Week 4, October 2026 issue]",
+    "url": "https://note.com/hikaru_96_1104/n/n9b8688f77f24?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "永利 光｜SF小説家 × 宇宙ビジネスアーキテクト",
+    "url": "https://note.com/hikaru_96_1104/n/n9b8688f77f24?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Space business news for the manufacturing industry, curated by ALTILAN Inc. Every Saturday at lunchtime, we analyze and deliver topics related to domestic and international space development and space business from the perspective of the manufacturing and other industries.",
+    "url": "https://note.com/hikaru_96_1104/n/n9b8688f77f24?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Publication date: Saturday, October 24, 2026",
+    "url": "https://note.com/hikaru_96_1104/n/n9b8688f77f24?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Reading time: 12 minutes",
+    "url": "https://note.com/hikaru_96_1104/n/n9b8688f77f24?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "(3 minutes for summary only)",
+    "url": "https://note.com/hikaru_96_1104/n/n9b8688f77f24?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hello. Thank you for reading FERTIKA by ALTILAN. I am Mitsu Nagatoshi, CEO of ALTILAN Inc. In this newsletter, we provide practical information for manufacturers looking to enter the space business. We analyze domestic and international space development news from a 'supplier perspective' to extract business opportunities at the component and processing technology level. I hope you can use this as",
+    "url": "https://note.com/hikaru_96_1104/n/n9b8688f77f24?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Dave Limp on X: \"Cool video of New Glenn’s fairing re-entry ... Cool video of New Glenn’s fairing re-entry. For this flight we installed an exo-atmospheric reaction control system (RCS) in the fairing to control re-entry and enable recovery of the fairing. We’re planning a parachute recovery later this year, and the data from these fairings gives us the learni…",
+    "url": "https://x.com/davill/status/2050328439761379801",
+    "pass": 3
+   },
+   {
+    "quote": "Fairing deployment confirmed. Today’s mission marks our first ... SpaceX (@SpaceX). 384 replies. Fairing deployment confirmed. Today’s mission marks our first 30th flight of a fairing half!",
+    "url": "https://x.com/SpaceX/status/1921091226541191342",
+    "pass": 3
+   },
+   {
+    "quote": "SpaceX on X: \"Fairing separation confirmed. Today’s mission ... Fairing separation confirmed. Today’s mission marks our first 40th flight of a fairing half!",
+    "url": "https://x.com/SpaceX/status/2101489521615385011",
+    "pass": 3
+   },
+   {
+    "quote": "NASA on X: \"Fairing separation. Free of its protective shell ... Fairing separation. Free of its protective shell, our Roman telescope has its first taste of space.",
+    "url": "https://x.com/NASA/status/2094025920579354632",
+    "pass": 3
+   },
+   {
+    "quote": "fairings (@fairingsss) / X fairings @fairingsss 2D artist / occasionaly making mods for Marvel Rivals art account: @ lunadrevya",
+    "url": "https://x.com/fairingsss",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Fairing - LinkedIn Over a billion \"how did you hear about us\" questions asked. | Fairing is the post-purchase survey platform that turns direct customer feedback into reliable marketing attribution for ecommerce...",
+    "url": "https://www.linkedin.com/company/fairing",
+    "pass": 3
+   },
+   {
+    "quote": "Matt Bahr - Co-Founder & CEO @ Fairing | Building the ...The Fairing Group - LinkedInDaniel Scaini - Managing Partner at The Fairing Group | LinkedInAndrew Pearce - Director at Mirror Image Yachts ,Marine Paint ...Raisbeck Engineering | LinkedInHuw Jones - Chief Stress Engineer at Elevate Aircraft Seating ... Helping brands measure what analytics can’t. Fairing powers HDYHAU surveys and in-app att",
+    "url": "https://www.linkedin.com/in/matthewbahr",
+    "pass": 3
+   },
+   {
+    "quote": "The Fairing Group - LinkedIn M&A Advisory and Corporate Finance for Middle Market Corporations | The Fairing Group is a Toronto based M&A advisory firm specializing in mid-market mergers and acquisitions across North America.",
+    "url": "https://ca.linkedin.com/company/fairinggroup",
+    "pass": 3
+   },
+   {
+    "quote": "Daniel Scaini - Managing Partner at The Fairing Group | LinkedInAndrew Pearce - Director at Mirror Image Yachts ,Marine Paint ...Raisbeck Engineering | LinkedInHuw Jones - Chief Stress Engineer at Elevate Aircraft Seating ... Managing Partner at The Fairing Group · Experience: The Fairing Group · Education: Ivey Business School at Western University · Location: Toronto · 500+ connections on Linked",
+    "url": "https://ca.linkedin.com/in/dscaini",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Fairing Industrial, Inc. - FacebookNT-fairing World - FacebookPNW Rider SOS | FacebookVictory Vegas Motorcycle Owners | FacebookWide Open Custom - FacebookFairing Factory ltd - FacebookABS Fairings | Port Charlotte FL - Facebook Jun 24, 2026 · Fairing Industrial, Inc. is at Las Vegas Convention Center. Going from metals to concrete! Come visit us this week at World Of Concrete, Las Vegas, and chec",
+    "url": "https://www.facebook.com/fairingindustrial/",
+    "pass": 3
+   },
+   {
+    "quote": "NT-fairing World - FacebookPNW Rider SOS | FacebookVictory Vegas Motorcycle Owners | FacebookWide Open Custom - FacebookFairing Factory ltd - FacebookABS Fairings | Port Charlotte FL - Facebook Oct 23, 2026 · By entering, you give NT FAIRING permission to repost, share, and feature your submitted content on our website, social media channels, and other NT FAIRING promotional materials. Oct 20, 201",
+    "url": "https://www.facebook.com/NTfairing/",
+    "pass": 3
+   },
+   {
+    "quote": "PNW Rider SOS | Facebook Oct 20, 2015 · Completely stock aside from a fender elimintor and minor tank damage and fairing damage to the left side from when someone else tried stealing it 4 years ago. The thief damaged my other vehicle while in the process.",
+    "url": "https://business.facebook.com/groups/PNWRiderSOS/",
+    "pass": 3
+   },
+   {
+    "quote": "Victory Vegas Motorcycle Owners | Facebook Sep 23, 2026 · Witchdoctor as well. I didn’t need to reroute or get longer cables. Added a new light front fairing with 11” screen. There’s a small amount of buffeting which I’ll address with spacers under the windscreen bolts. So much nicer to cruise.",
+    "url": "https://business.facebook.com/groups/victoryvegasmotorcycles/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://fairing.co/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fairing.co/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fairing.co/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fairing.co/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fairing.co/blog/the-most-powerful-question-in-ecommerce-how-did-you-hear-about-us-(hdyhau)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fairing.co/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fairing.co/customers/thorne",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fairing.co/customers/weezie",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fairing.co/resources/benchmarks/bfcm-how-customers-hear-about-you",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fairing.co/careers/customer-success-manager",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://framerusercontent.com/images/ybdA33Qvs4h48olv6vk9nts5Ls.jpg?width=3600&height=2000",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.khi.co.jp/rd/magazine/pdf/179/n17906.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://travel.watch.impress.co.jp/docs/news/2131337.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://response.jp/article/2026/03/24/409037.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://car-repo.jp/blog-entry-u-s-made-re-imported-vehicles-in-the-japanese-market-in-20262027.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoshimura-jp.com/product-category/kitparts-29-01?lang=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.newfairings.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsukayu.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoshimura-jp.com/product/n-117913?lang=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polocustomproducts.com/case-study-motorcycle-fairing-pouches/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://layerx3d.in/blog/case-study-motorcycle-fairing-tooling-pa12-cf-ahmedabad-automotive-oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/fairing/case-study/how-tortuga-took-off-with-direct-from-consumer-data-from-fairing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://summitfairings.com/blog/custom-motorcycle-fairing-fabrication/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/aero_actor/n/nc9202a02194e?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hikaru_96_1104/n/n9b8688f77f24?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/davill/status/2050328439761379801",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SpaceX/status/1921091226541191342",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SpaceX/status/2101489521615385011",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NASA/status/2094025920579354632",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/fairing",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/matthewbahr",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/fairinggroup",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/dscaini",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fairingindustrial/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/NTfairing/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://business.facebook.com/groups/PNWRiderSOS/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://business.facebook.com/groups/victoryvegasmotorcycles/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fairingsss",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Fairing 日本 導入",
+   "results": [
+    "https://www.khi.co.jp/rd/magazine/pdf/179/n17906.pdf",
+    "https://travel.watch.impress.co.jp/docs/news/2131337.html",
+    "https://response.jp/article/2026/03/24/409037.html",
+    "https://car-repo.jp/blog-entry-u-s-made-re-imported-vehicles-in-the-japanese-market-in-20262027.html",
+    "https://limo.media/articles/-/115254",
+    "https://lrnc.cc/_ct/17825614",
+    "https://www.msn.com/ja-jp/autos/news/ホンダ-新型インテグラ-日本導入-ド派手な-アキュラ-デザイン-の原点たるモデルに大注目-ペンタゴングリル-初採用した米国の超スポーティ大型セダン-プレシジョンc-とは/ar-AA20gnXT"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fairing 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.jetro.go.jp/invest/setting_up/section1/page1.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fairing Japan",
+   "results": [
+    "https://www.yoshimura-jp.com/product-category/kitparts-29-01?lang=en",
+    "https://www.newfairings.com/",
+    "https://www.tsukayu.com/",
+    "https://www.yoshimura-jp.com/product/n-117913?lang=en",
+    "https://www.blindtiger.jp/p_cate/windshields_fairings/",
+    "https://www.samurider.com/?page_id=14981",
+    "https://www.samurider.com/?cat=334"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fairing manufacturing customer case study",
+   "results": [
+    "https://www.polocustomproducts.com/case-study-motorcycle-fairing-pouches/",
+    "https://layerx3d.in/blog/case-study-motorcycle-fairing-tooling-pa12-cf-ahmedabad-automotive-oem",
+    "https://www.casestudies.com/company/fairing/case-study/how-tortuga-took-off-with-direct-from-consumer-data-from-fairing",
+    "https://summitfairings.com/blog/custom-motorcycle-fairing-fabrication/",
+    "https://www.featuredcustomers.com/vendor/fairing/case-studies",
+    "https://altenusa.com/insights/case-studies/fairing-part-chassis-launch-support/",
+    "https://www.casestudies.com/company/fairing"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fairing white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Fairing founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Fairing",
+   "results": [
+    "https://note.com/aero_actor/n/nc9202a02194e?hl=en",
+    "https://note.com/lively_pika8336/n/n5adf36c23e7b",
+    "https://note.com/hikaru_96_1104/n/n9b8688f77f24?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/tmg500/n/n4feb3787f0e8",
+    "https://note.com/kentabright/n/nb116f899a6ac",
+    "https://note.com/masashi3122/n/n6f41b990b137"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Fairing",
+   "results": [
+    "https://x.com/davill/status/2050328439761379801",
+    "https://x.com/SpaceX/status/1921091226541191342",
+    "https://x.com/SpaceX/status/2101489521615385011",
+    "https://x.com/NASA/status/2094025920579354632",
+    "https://x.com/FFairing/status/2120005191185715301",
+    "https://x.com/FFairing/status/2120008254134612235",
+    "https://x.com/stmic/status/2110571133330461168"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Fairing",
+   "results": [
+    "https://www.linkedin.com/company/fairing",
+    "https://www.linkedin.com/in/matthewbahr",
+    "https://ca.linkedin.com/company/fairinggroup",
+    "https://ca.linkedin.com/in/dscaini",
+    "https://uk.linkedin.com/in/andrew-pearce-1904213b",
+    "https://gg.linkedin.com/company/raisbeck-engineering",
+    "https://uk.linkedin.com/in/huw-jones-52053137"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Fairing",
+   "results": [
+    "https://www.facebook.com/fairingindustrial/",
+    "https://www.facebook.com/NTfairing/",
+    "https://business.facebook.com/groups/PNWRiderSOS/",
+    "https://business.facebook.com/groups/victoryvegasmotorcycles/",
+    "https://www.facebook.com/WideOpenCustom/",
+    "https://www.facebook.com/fairingfactory/",
+    "https://www.facebook.com/motorcyclefairing/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fairing note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://note.com/sadaaki",
+    "https://diamond.jp/articles/-/388572"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fairing X 投稿",
+   "results": [
+    "https://x.com/fairingsss",
+    "https://x-sou.com/ja/u/SpaceX/2101489521615385011",
+    "https://x.com/kir_i_i/status/2119782515368235442",
+    "https://photo-tools.tech/",
+    "https://dojin.dmm.co.jp/help/twitter",
+    "https://fitly.pics/blog/x-twitter-post-tips",
+    "https://www.witha.jp/sns・マーケティング/x-posting-guide-beginners/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式10頁／PDF・画像1件／外部31頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式10頁／PDF・画像1件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式10頁／PDF・画像1件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式10頁／PDF・画像1件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式10頁／PDF・画像1件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式10頁／PDF・画像1件／外部31頁・検索12回）"
+ }
+}

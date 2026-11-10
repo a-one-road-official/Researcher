@@ -1,0 +1,784 @@
+{
+ "name": "東北大学未来科学技術共同研究センター",
+ "aliases": [],
+ "context": "PBF=yes 装置=A2X;Arcam;EBM 出典=https://chibalab.niche.tohoku.ac.jp/ebm/page01.html",
+ "researched_at": "2026-11-10T17:06:18.373397+00:00",
+ "official_url": "https://www.niche.tohoku.ac.jp/",
+ "identified_by": "search:yahoo_jp:東北大学未来科学技術共同研究センター",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2010年4月",
+    "url": "https://www.niche.tohoku.ac.jp/about/venture/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：2011年4月11日",
+    "url": "https://www.niche.tohoku.ac.jp/about/venture/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：2013年3月29日",
+    "url": "https://www.niche.tohoku.ac.jp/about/venture/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：2013年4月",
+    "url": "https://www.niche.tohoku.ac.jp/about/venture/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：2015年11月",
+    "url": "https://www.niche.tohoku.ac.jp/about/venture/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：2016年5月",
+    "url": "https://www.niche.tohoku.ac.jp/about/venture/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：2019年2月19日",
+    "url": "https://www.niche.tohoku.ac.jp/about/venture/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：2020年4月1日",
+    "url": "https://www.niche.tohoku.ac.jp/about/venture/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：2022年1月14日",
+    "url": "https://www.niche.tohoku.ac.jp/about/venture/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "仙台市青葉区荒巻字青葉6-6-40（T-Biz内）",
+    "url": "https://www.niche.tohoku.ac.jp/about/venture/",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "仙台市青葉区鷺ヶ森1-15-35",
+    "url": "https://www.niche.tohoku.ac.jp/about/venture/",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "宮城県石巻市皿貝字宮田7番地3",
+    "url": "https://www.niche.tohoku.ac.jp/about/venture/",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "仙台市青葉区荒巻字青葉468-1-201（マテリアル・イノベーション・センター）",
+    "url": "https://www.niche.tohoku.ac.jp/about/venture/",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "仙台市青葉区一番町1-15-9",
+    "url": "https://www.niche.tohoku.ac.jp/about/venture/",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "仙台市青葉区荒巻字青葉6-6-4 ハッチェリースクエア2階",
+    "url": "https://www.niche.tohoku.ac.jp/about/venture/",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "仙台市青葉区荒巻字青葉6-6-10",
+    "url": "https://www.niche.tohoku.ac.jp/about/venture/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "用途・客の産業": [
+   {
+    "quote": "世界初・貴金属オールフリーなバルク結晶育成装置での3.5インチ級酸化ガリウム単結晶を実現 ― 高品質かつ低コストな次世代パワー半導体の実用化...",
+    "url": "https://www.niche.tohoku.ac.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "未来エネルギー創製（江刺 正喜 教授～2004年3月）",
+    "url": "https://www.niche.tohoku.ac.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "寄附研究部門（新半導体・ディスプレイ産業創製）に大見 忠弘 教授が就任（～2012年3月、2011年4月に須川 成利 教授に交代）",
+    "url": "https://www.niche.tohoku.ac.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "研究プロジェクト「半導体レーザの極限機能開発とナノイメージング応用」開始（横山 弘之 教授（～2017年3月））",
+    "url": "https://www.niche.tohoku.ac.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "研究プロジェクト「クリーンルーム整備共用化の推進と半導体製造技術・センサ技術の開発」開始（須川 成利 教授（～2025年3月））",
+    "url": "https://www.niche.tohoku.ac.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "本格型プロジェクト「ホリスティック三次元集積半導体開発とオープンイノベーション拠点の構築」開始（福島 誉史 准教授）",
+    "url": "https://www.niche.tohoku.ac.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "本格型プロジェクト「窒化物半導体の結晶成長と光デバイス・電子デバイスの研究」開始（松岡 隆志 特任教授・末光 哲也 特任教授（～2026年3月））",
+    "url": "https://www.niche.tohoku.ac.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "本格型プロジェクト「革新的イメージセンサ・計測技術を基盤とした高精度半導体集積回路製造技術の開発」開始（黒田 理人 教授）",
+    "url": "https://www.niche.tohoku.ac.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "本格型プロジェクト「高温固体電気化学エネルギー変換材料の評価・解析技術開発」開始（川田 達也 特任教授）",
+    "url": "https://www.niche.tohoku.ac.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "本格型プロジェクト「窒化物半導体による革新的光・電子デバイスの開発」開始（松岡 隆志 シニアリサーチフェロー）",
+    "url": "https://www.niche.tohoku.ac.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "我が国の半導体・平板ディスプレイ分野に革命的飛躍をもたらすべく、東北大学が展開する“新半導体・ディスプレイ産業創製プロジェクト”の趣旨に賛同いただいた産業界の方々のご支援により建てられました",
+    "url": "https://www.niche.tohoku.ac.jp/about/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "徹底した省エネルギー対策とともにナノメートルレベルの超微細加工・超高精密計測を実現するために電源電圧の変動、微振動などあらゆる汚染、ゆらぎ、変動を徹底的に制御し、設計から製造、テストまで一貫して行える研究施設となっています",
+    "url": "https://www.niche.tohoku.ac.jp/about/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "長谷川教授らが開発したドライルームレス電池製造技術を活用し、寒冷地での再生可能エネルギーの活用に適した低内部抵抗リチウムイオン電池および応用製品の製造販売を行う",
+    "url": "https://www.niche.tohoku.ac.jp/about/venture/",
+    "pass": 1
+   },
+   {
+    "quote": "小池教授が開発した銅ペーストを先端LSI用配線や太陽電池用配線、パワー半導体等電子部品用に開発・製造・販売するため設立",
+    "url": "https://www.niche.tohoku.ac.jp/about/venture/",
+    "pass": 1
+   },
+   {
+    "quote": "栗原教授、水上准教授らが開発した「超微量粘度計」などの計測機器により、稀少・高価な液体試料の粘度評価にソリューションを提供し、先端技術における材料開発、医療の発展、医薬品開発などへの貢献を目指す",
+    "url": "https://www.niche.tohoku.ac.jp/about/venture/",
+    "pass": 1
+   },
+   {
+    "quote": "第34回未来科学オープンセミナー「SOFC/SOECの本格的社会実装に向けての課題と展望 〜セラミックス電解質を用いた電気／水素エネルギー変換の原理と活用〜」",
+    "url": "https://www.niche.tohoku.ac.jp/news/openseminar/",
+    "pass": 1
+   },
+   {
+    "quote": "第30回未来科学オープンセミナー「マイクロバブルが拓く新たな半導体洗浄技術の世界 －バブルが有する脅威の力の基礎から最新応用まで－ 」",
+    "url": "https://www.niche.tohoku.ac.jp/news/openseminar/",
+    "pass": 1
+   },
+   {
+    "quote": "第29回未来科学オープンセミナー「半導体の高性能化を担うフォトレジストとは ―半導体フォトレジストの開発現況と半導体産業の動向―」",
+    "url": "https://www.niche.tohoku.ac.jp/news/openseminar/",
+    "pass": 1
+   },
+   {
+    "quote": "医療画像診断や工業製品の検査に使われるX線画像技術では、X線を光に変換するシンチレータ（※１）の性能が重要です",
+    "url": "https://www.niche.tohoku.ac.jp/news/pressrelease/20261014608/",
+    "pass": 1
+   },
+   {
+    "quote": "本成果は、材料開発から発光機構の検証、画像実証までを国際連携で進めたもので、次世代X線イメージングや高エネルギー物理学用ガンマ線検出器を支える検出材料への応用が期待されます",
+    "url": "https://www.niche.tohoku.ac.jp/news/pressrelease/20261014608/",
+    "pass": 1
+   },
+   {
+    "quote": "放射線を吸収し、そのエネルギーを可視光などに変換する材料",
+    "url": "https://www.niche.tohoku.ac.jp/news/pressrelease/20261014608/",
+    "pass": 1
+   },
+   {
+    "quote": "（8/18開催）高齢者睡眠医療・社会安全整備寄附研究部門シンポジウム「高齢者の眠りに潜む事故リスク」",
+    "url": "https://www.niche.tohoku.ac.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "世界初・貴金属オールフリーなバルク結晶育成装置での3.5インチ級酸化ガリウム単結晶を実現 ― 高品質かつ低コストな次世代パワー半導体の実用化を加速し、2029年の量産へ —（吉川PJ）",
+    "url": "https://www.niche.tohoku.ac.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙産業、医療産業、自動車産業などの医療分野で使用されており、今後もさらに多くの分野で使用されることが期待されている",
+    "url": "https://www.tohoku.ac.jp/japanese/2023/07/event20230704-02-niche.html",
+    "pass": 3
+   }
+  ],
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "本格型プロジェクト「新規金属積層造形技術開発とそれを核とした新材料・材料加工プロセスの創生」開始（千葉 晶彦 特任教授）",
+    "url": "https://www.niche.tohoku.ac.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "長年の間、金属積層造形の研究に携わってきました",
+    "url": "https://chibalab.niche.tohoku.ac.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "３Dプリンター技術を金属積層造形に活用することで、効率的な開発、実証実験、2023年度からは所属を東北大学未来科学技術共同研究センター（NICHe）に移し、新たなプロジェクトがスタート",
+    "url": "https://chibalab.niche.tohoku.ac.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "「新規金属積層造形技術開発とそれを核とした新材料・材料加工プロセスの創生プロジェクト」では金属３Dプリンターにさらなる革命を起こします",
+    "url": "https://chibalab.niche.tohoku.ac.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "電子ビーム積層造形、組織形成シミュレーション・塑性変形解析",
+    "url": "https://chibalab.niche.tohoku.ac.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【Web開催】第18回未来科学オープンセミナー「金属積層造形技術の現状と今後―高密度・高疲労強度特性を発現させる新規３Dプリンター用金属粉末の開発―」（7/27開催）",
+    "url": "https://www.tohoku.ac.jp/japanese/2023/07/event20230704-02-niche.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンティング技術とも称される金属積層造形技術は、製造業において急速に進化しており、将来的には大きな可能性を秘めている",
+    "url": "https://www.tohoku.ac.jp/japanese/2023/07/event20230704-02-niche.html",
+    "pass": 3
+   },
+   {
+    "quote": "本講演では、各種の金属積層造形技術の中から粉末床溶融結合法に焦点を当て、関連する研究開発事例について紹介する",
+    "url": "https://www.tohoku.ac.jp/japanese/2023/07/event20230704-02-niche.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に、金属積層造形技術の発展に必要となる高密度・高疲労特性を発現させる金属粉末の開発について、技術の現状と将来展望について紹介する",
+    "url": "https://www.tohoku.ac.jp/japanese/2023/07/event20230704-02-niche.html",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "研究プロジェクト「金属ガラス微粉末合金の実用化研究プロジェクト」開始（井上 明久 教授（～2009年3月））",
+    "url": "https://www.niche.tohoku.ac.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "小池教授が開発した銅ペーストを先端LSI用配線や太陽電池用配線、パワー半導体等電子部品用に開発・製造・販売するため設立",
+    "url": "https://www.niche.tohoku.ac.jp/about/venture/",
+    "pass": 1
+   },
+   {
+    "quote": "10月19〜20日に粉体粉末冶金協会秋季大会にてYim先生が発表を行った",
+    "url": "https://chibalab.niche.tohoku.ac.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Ti‒48Al‒2Cr‒2Nb粉末の流動性に関する論文がAdditive Manfucturing誌に受理されました",
+    "url": "https://chibalab.niche.tohoku.ac.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【Web開催】第18回未来科学オープンセミナー「金属積層造形技術の現状と今後―高密度・高疲労強度特性を発現させる新規３Dプリンター用金属粉末の開発―」（7/27開催）",
+    "url": "https://www.tohoku.ac.jp/japanese/2023/07/event20230704-02-niche.html",
+    "pass": 3
+   },
+   {
+    "quote": "本講演では、各種の金属積層造形技術の中から粉末床溶融結合法に焦点を当て、関連する研究開発事例について紹介する",
+    "url": "https://www.tohoku.ac.jp/japanese/2023/07/event20230704-02-niche.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に、金属積層造形技術の発展に必要となる高密度・高疲労特性を発現させる金属粉末の開発について、技術の現状と将来展望について紹介する",
+    "url": "https://www.tohoku.ac.jp/japanese/2023/07/event20230704-02-niche.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "東北大学未来科学技術共同研究センター | New Industry ... — 東北大学未来科学技術共同研究センター | New Industry ... 東北大学未来科学技術共同研究センター https://www.niche.tohoku.ac.jp",
+    "url": "https://www.niche.tohoku.ac.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "NICHe 概要 | 東北大学未来科学技術共同研究センター — NICHe 概要 | 東北大学未来科学技術共同研究センター 東北大学未来科学技術共同研究センター https://www.niche.tohoku.ac.jp > about",
+    "url": "https://www.niche.tohoku.ac.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学未来科学技術共同研究センター 規程 — 東北大学未来科学技術共同研究センター 規程 g-reiki.net https://www1.g-reiki.net > tohoku.ac > reiki_honbun",
+    "url": "https://www1.g-reiki.net/tohoku.ac/reiki_honbun/u101RG00000108.html",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学未来科学技術共同研究センター - みやぎ創業ガイド — 東北大学未来科学技術共同研究センター - みやぎ創業ガイド みやぎ創業ガイド https://www.miyagi-sogyo.jp > 創業支援施策 > その他",
+    "url": "https://www.miyagi-sogyo.jp/supports/1286",
+    "pass": 3
+   },
+   {
+    "quote": "アクセス - 東北大学未来科学技術共同研究センター — アクセス - 東北大学未来科学技術共同研究センター 東北大学未来科学技術共同研究センター https://www.niche.tohoku.ac.jp > access",
+    "url": "https://www.niche.tohoku.ac.jp/access/",
+    "pass": 3
+   },
+   {
+    "quote": "千葉研究室｜ 東北大学未来科学技術共同研究センター — 千葉研究室｜ 東北大学未来科学技術共同研究センター 千葉 晶彦 https://chibalab.niche.tohoku.ac.jp",
+    "url": "https://chibalab.niche.tohoku.ac.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "NICHe概要 | 東北大学未来科学技術共同研究センター — NICHe概要 | 東北大学未来科学技術共同研究センター 東北大学未来科学技術共同研究センター https://www.niche.tohoku.ac.jp > about",
+    "url": "https://www.niche.tohoku.ac.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "センター 長挨拶 | NICHe概要 | 東北大学未来科学技術共同研究 ... — センター 長挨拶 | NICHe概要 | 東北大学未来科学技術共同研究 ... 東北大学未来科学技術共同研究センター https://www.niche.tohoku.ac.jp > about > message",
+    "url": "https://www.niche.tohoku.ac.jp/about/message/",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学未来科学技術共同研究センター | 産業創出支援基金 — 東北大学未来科学技術共同研究センター | 産業創出支援基金 東北大学未来科学技術共同研究センター https://www.niche.tohoku.ac.jp > fund",
+    "url": "https://www.niche.tohoku.ac.jp/fund/",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学未来科学技術共同研究センター （NICHe）は — 東北大学未来科学技術共同研究センター （NICHe）は 東北大学萩友会 https://jointu2020.shuyukai-tohoku-u.net > niche",
+    "url": "https://jointu2020.shuyukai-tohoku-u.net/facultyandgraduateschool_support/niche",
+    "pass": 3
+   },
+   {
+    "quote": "終了したプロジェクト - 東北大学未来科学技術共同研究センター — 終了したプロジェクト - 東北大学未来科学技術共同研究センター 東北大学未来科学技術共同研究センター https://www.niche.tohoku.ac.jp > project > completed",
+    "url": "https://www.niche.tohoku.ac.jp/project/completed/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "東北大学未来科学技術共同研究センター (@nichetohokuuniv) 東北大学未来科学技術共同研究センター (@nichetohokuuniv) Facebook https://www.facebook.com > ... > ビジネス > 教育 > 大学",
+    "url": "https://www.facebook.com/nichetohokuuniv/?locale=ja_JP",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学未来科学技術共同研究センター - Facebook 東北大学未来科学技術共同研究センター - Facebook Facebook https://www.facebook.com > nichetohokuuniv > photos",
+    "url": "https://www.facebook.com/nichetohokuuniv/photos/585796762997178/",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学未来科学技術共同研究センター - 本日の青葉山。 東北大学未来科学技術共同研究センター - 本日の青葉山。 Facebook https://www.facebook.com > photos > 本日の青葉山",
+    "url": "https://www.facebook.com/nichetohokuuniv/photos/%E6%9C%AC%E6%97%A5%E3%81%AE%E9%9D%92%E8%91%89%E5%B1%B1/1276852025733569/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.niche.tohoku.ac.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niche.tohoku.ac.jp/about/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niche.tohoku.ac.jp/about/facility/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niche.tohoku.ac.jp/news/pressrelease/20261006601/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niche.tohoku.ac.jp/news/topics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niche.tohoku.ac.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niche.tohoku.ac.jp/about/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niche.tohoku.ac.jp/about/org/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niche.tohoku.ac.jp/about/past_director/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niche.tohoku.ac.jp/about/awards/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niche.tohoku.ac.jp/about/venture/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niche.tohoku.ac.jp/news/openseminar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niche.tohoku.ac.jp/news/pressrelease/20261014608/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niche.tohoku.ac.jp/news/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www1.g-reiki.net/tohoku.ac/reiki_honbun/u101RG00000108.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://chibalab.niche.tohoku.ac.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohoku.ac.jp/japanese/2023/07/event20230704-02-niche.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chibalab.niche.tohoku.ac.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/company/chiba/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohoku.ac.jp/japanese/2023/07/event20230704-02-niche.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www1.g-reiki.net/tohoku.ac/reiki_honbun/u101RG00000108.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.facebook.com/nichetohokuuniv/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/nichetohokuuniv/photos/585796762997178/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/nichetohokuuniv/photos/%E6%9C%AC%E6%97%A5%E3%81%AE%E9%9D%92%E8%91%89%E5%B1%B1/1276852025733569/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/nichetohokuuniv/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/nichetohokuuniv/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "東北大学未来科学技術共同研究センター",
+   "results": [
+    "https://www.niche.tohoku.ac.jp/",
+    "https://www.youtube.com/@niche-tohoku-university",
+    "https://www.facebook.com/nichetohokuuniv/?locale=ja_JP",
+    "https://www.eng.tohoku.ac.jp/map/?menu=campus&area=f&build=11",
+    "https://www.miyagi-sogyo.jp/supports/1286",
+    "https://www.tohoku.ac.jp/japanese/2022/01/event20220121-03.html",
+    "https://ja.wikipedia.org/wiki/東北大学未来科学技術共同研究センター川島隆太教授監修_脳を鍛える大人のDSトレーニング",
+    "https://www.niche.tohoku.ac.jp/project/",
+    "https://d-nanodev.niche.tohoku.ac.jp/",
+    "https://www.fri.niche.tohoku.ac.jp/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "東北大学未来科学技術共同研究センター 会社概要 資本金 設立",
+   "results": [
+    "https://www.niche.tohoku.ac.jp/",
+    "https://www.niche.tohoku.ac.jp/about/",
+    "https://www1.g-reiki.net/tohoku.ac/reiki_honbun/u101RG00000108.html",
+    "https://www.miyagi-sogyo.jp/supports/1286",
+    "https://www.niche.tohoku.ac.jp/access/",
+    "https://www.t-technoarch.co.jp/company.html",
+    "https://www.niche.tohoku.ac.jp/about/history/",
+    "https://www.niche.tohoku.ac.jp/about/message/",
+    "https://www.facebook.com/nichetohokuuniv/?locale=ja_JP",
+    "https://www.niche.tohoku.ac.jp/about/org/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "東北大学未来科学技術共同研究センター 金属3Dプリンタ 導入",
+   "results": [
+    "https://chibalab.niche.tohoku.ac.jp/",
+    "https://www.tohoku.ac.jp/japanese/2023/07/event20230704-02-niche.html",
+    "https://jampt.jp/company/",
+    "https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html",
+    "https://www.nikkei.com/article/DGXZRSP682666_W4A121C2000000/",
+    "https://masc.tohoku.ac.jp/project/chiba_004.html",
+    "https://www.marubeni-idigio.com/product/3dprinter/case/robot/tohokuuniv/index.html",
+    "https://www.youtube.com/watch?v=tmQxeYq9JhI",
+    "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "https://chibalab.niche.tohoku.ac.jp/research/index.html"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "東北大学未来科学技術共同研究センター 金属積層造形 設備",
+   "results": [
+    "https://chibalab.niche.tohoku.ac.jp/",
+    "https://jampt.jp/company/chiba/",
+    "https://www.tohoku.ac.jp/japanese/2023/07/event20230704-02-niche.html",
+    "https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html",
+    "https://jampt.jp/company/",
+    "https://www.niche.tohoku.ac.jp/project/chiba_prj.html",
+    "https://www.nikkei.com/article/DGXZRSP682666_W4A121C2000000/",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-sankoushiryousyu.pdf",
+    "https://www.youtube.com/watch?v=y8I4vuAjXlk",
+    "https://chibalab.niche.tohoku.ac.jp/research/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "東北大学未来科学技術共同研究センター 株主 出資 親会社",
+   "results": [
+    "https://www.niche.tohoku.ac.jp/",
+    "https://www.niche.tohoku.ac.jp/about/",
+    "https://www.niche.tohoku.ac.jp/about/message/",
+    "https://www.niche.tohoku.ac.jp/fund/",
+    "https://jointu2020.shuyukai-tohoku-u.net/facultyandgraduateschool_support/niche",
+    "https://www.niche.tohoku.ac.jp/about/org/",
+    "https://news.mynavi.jp/techplus/article/20200109-951534/",
+    "https://www.niche.tohoku.ac.jp/files/public/niche_pamphlet_2025.pdf",
+    "https://thvp.co.jp/about/",
+    "https://www.kikin.tohoku.ac.jp/project/support_the_department/NICHe"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "東北大学未来科学技術共同研究センター 売上高 従業員数",
+   "results": [
+    "https://www.niche.tohoku.ac.jp/",
+    "https://www.niche.tohoku.ac.jp/access/",
+    "https://www1.g-reiki.net/tohoku.ac/reiki_honbun/u101RG00000108.html",
+    "https://www.niche.tohoku.ac.jp/project/completed/",
+    "https://www.miyagi-sogyo.jp/supports/1286",
+    "https://www.facebook.com/nichetohokuuniv/?locale=ja_JP",
+    "https://www.niche.tohoku.ac.jp/about/",
+    "https://www.niche.tohoku.ac.jp/about/message/",
+    "https://www.niche.tohoku.ac.jp/recruit/",
+    "https://www.niche.tohoku.ac.jp/about/org/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 東北大学未来科学技術共同研究センター",
+   "results": [
+    "https://note.com/tohoku_ensemble/n/n3109081bbcfd",
+    "https://note.com/sendaitribune/n/n030c789242c8",
+    "https://note.com/tohoku_o2/n/n1141e0ed9f6d",
+    "https://note.com/a_courtyard/n/nbfdcbd49ff4e",
+    "https://note.com/azxgroup/n/n230208720dae",
+    "https://note.com/sfaofficial/n/nbf1958278480",
+    "https://note.com/rpp_note/n/nb1355118e02d",
+    "https://note.com/adsol_ir/n/n205b78eb8318",
+    "https://note.com/tfc_programs2026/n/nfd402953fae8?hl=en",
+    "https://note.com/tfc_programs2026/n/nfd402953fae8"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:x.com 東北大学未来科学技術共同研究センター",
+   "results": [
+    "https://x.com/KobunLib/status/1981179787260629055",
+    "https://x.com/pinahirano/status/2048560628395294775",
+    "https://x.com/famitsu/status/1924117866196201864",
+    "https://x.com/tohoku_research",
+    "https://x.com/nishikon52149/status/2098737068847566953/photo/1",
+    "https://x.com/Nintendo/status/474071206606295040",
+    "https://x.com/Nintendo/status/1861283210950517157",
+    "https://x.com/nishikon52149/status/2098745876315549733",
+    "https://x.com/game_tanteidan/status/2005628591481200943",
+    "https://x.com/tohoku_univ/status/2120021137799491588"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:linkedin.com 東北大学未来科学技術共同研究センター",
+   "results": [
+    "https://jp.linkedin.com/in/takashi-matsuoka-852a0657",
+    "https://jp.linkedin.com/in/taiki-miyazawa-7590a4334/ja",
+    "https://www.linkedin.com/pub/dir/Takashi/Matsuoka",
+    "https://jp.linkedin.com/in/shingoakao",
+    "https://jp.linkedin.com/in/jinping-ao-253abb84",
+    "https://www.linkedin.com/pub/dir/Hideo/Higuchi",
+    "https://jp.linkedin.com/in/kiichi-ogura-2782614",
+    "https://jp.linkedin.com/in/t-matsuoka",
+    "https://jp.linkedin.com/in/hideki-hoshiro-1187a6374"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com 東北大学未来科学技術共同研究センター",
+   "results": [
+    "https://www.facebook.com/nichetohokuuniv/?locale=ja_JP",
+    "https://www.facebook.com/nichetohokuuniv/photos/585796762997178/",
+    "https://www.facebook.com/nichetohokuuniv/photos/%E6%9C%AC%E6%97%A5%E3%81%AE%E9%9D%92%E8%91%89%E5%B1%B1/1276852025733569/",
+    "https://www.facebook.com/nichetohokuuniv/posts/%E5%85%B1%E5%82%AC%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%AE%E7%B4%B9%E4%BB%8B%E4%BC%8A%E9%81%94%E3%81%AA%E5%A4%A7%E5%AD%A6%E9%99%A2-%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6%E3%81%AE%E6%95%99%E6%8E%88%E5%90%8D%E8%AA%89%E6%95%99%E6%8E%88%E3%82%92%E4%B8%AD%E5%BF%83%E3%81%AB%E5%A4%9A%E6%A7%98%E3%81%AA%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB%E3%81%AE%E6%99%BA%E6%85%A7%E3%81%A8%E7%B5%8C%E9%A8%93%E3%82%92%E3%83%93%E3%83%87%E3%82%AA%E9%8C%B2%E7%94%BB%E3%81%A7%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96%E3%81%97%E7%84%A1%E6%96%99%E3%81%A7%E5%85%AC%E9%96%8B%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%93%E3%81%AE%E5%95%93%E7%99%BA%E6%B4%BB%E5%8B%95%E3%81%AB%E3%81%AF%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%99%BA/4839008539517882/",
+    "https://www.facebook.com/nichetohokuuniv/photos/%E9%9D%92%E8%91%89%E5%B1%B1%E3%81%AF%E8%BB%8A%E9%81%93%E6%AD%A9%E9%81%93%E3%81%A8%E3%82%82%E3%81%AB%E7%89%B9%E3%81%AB%E4%BA%A4%E9%80%9A%E9%9A%9C%E5%AE%B3%E3%81%8C%E8%B5%B7%E3%81%8D%E3%82%8B%E3%81%BB%E3%81%A9%E3%81%AE%E7%A9%8D%E9%9B%AA%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93/748546701897440/",
+    "https://www.facebook.com/MaSC.TohokuUniversity/",
+    "https://www.facebook.com/nichetohokuuniv/posts/%E9%9D%92%E8%91%89%E5%B1%B1%E4%BB%98%E8%BF%91%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%96%E3%82%AB%E3%83%A1%E3%83%A9%E3%81%A7%E3%81%99/956367325940118/",
+    "https://www.facebook.com/nichetohokuuniv/posts/%E9%9B%AA%E6%99%AF%E8%89%B2%E3%81%8C%E7%B6%BA%E9%BA%97%E3%81%A7%E3%81%99%E3%81%A8%E3%81%84%E3%81%88%E3%82%8B%E7%8A%B6%E6%B3%81%E3%81%A7%E3%81%AF%E7%84%A1%E3%81%8F%E9%81%93%E8%B7%AF%E7%8A%B6%E6%B3%81%E3%81%8C%E3%81%82%E3%81%BE%E3%82%8A%E3%82%88%E3%81%8F%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%AE%E3%81%A7%E6%9D%A5%E6%89%80%E3%81%95%E3%82%8C%E3%82%8B%E6%96%B9%E5%B8%B0%E5%AE%85%E3%81%95%E3%82%8C%E3%82%8B%E6%96%B9%E3%81%8A%E6%B0%97%E3%82%92%E4%BB%98%E3%81%91%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84/748697571882353/",
+    "https://www.facebook.com/tatsuji.numata/",
+    "https://www.facebook.com/kazunori.ohno/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "東北大学未来科学技術共同研究センター note 社長",
+   "results": [
+    "https://www.niche.tohoku.ac.jp/",
+    "https://www.youtube.com/watch?v=pq2qeRigHms",
+    "https://www.niche.tohoku.ac.jp/project/completed/",
+    "https://www.facebook.com/nichetohokuuniv/?locale=ja_JP",
+    "https://note.com/sendaitribune/n/n030c789242c8",
+    "https://www.youtube.com/channel/UCnBjdXBa2mhbVOtehn13Y8w/videos",
+    "https://www1.g-reiki.net/tohoku.ac/reiki_honbun/u101RG00000108.html",
+    "https://www.niche.tohoku.ac.jp/about/",
+    "https://note.com/azxgroup/n/n230208720dae",
+    "https://www.niche.tohoku.ac.jp/about/message/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "東北大学未来科学技術共同研究センター X 投稿",
+   "results": [
+    "https://www.niche.tohoku.ac.jp/",
+    "https://www.tohoku.ac.jp/japanese/2025/06/event20250626-01-niche.html",
+    "https://www.facebook.com/nichetohokuuniv/?locale=ja_JP",
+    "https://www.youtube.com/@niche-tohoku-university",
+    "https://x.com/tohoku_research?lang=ja",
+    "https://www.tohoku.ac.jp/japanese/2022/01/event20220121-03.html",
+    "https://www.youtube.com/watch?v=IiF1XL49AHA",
+    "https://www.tohoku.ac.jp/japanese/2025/10/event20251029-01-niche.html",
+    "https://www1.g-reiki.net/tohoku.ac/reiki_honbun/u101RG00000108.html",
+    "https://www.niche.tohoku.ac.jp/project/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部13頁・検索12回）",
+  "資本金": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部13頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部13頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部13頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部13頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部13頁・検索12回）",
+  "資本金・株主": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部13頁・検索12回）"
+ }
+}

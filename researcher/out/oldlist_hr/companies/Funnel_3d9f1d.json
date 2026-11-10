@@ -1,0 +1,2661 @@
+{
+ "name": "Funnel",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜リマイン1",
+ "researched_at": "2026-11-10T17:06:35.982956+00:00",
+ "official_url": "https://funnel.io/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$134M",
+    "url": "https://getlatka.com/companies/funnel",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Funnel | The leading marketing intelligence platform",
+    "url": "https://funnel.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect and model all your marketing data",
+    "url": "https://funnel.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Centralize marketing data",
+    "url": "https://funnel.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Give your AI trusted marketing data",
+    "url": "https://funnel.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing data your warehouse can depend on",
+    "url": "https://funnel.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn marketing data into repeatable products",
+    "url": "https://funnel.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing data your stack can depend on",
+    "url": "https://funnel.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Self-serve marketing data you can trust",
+    "url": "https://funnel.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Manage client marketing data at scale",
+    "url": "https://funnel.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn about marketing, data & reporting",
+    "url": "https://funnel.io/",
+    "pass": 1
+   },
+   {
+    "quote": "See the latest product releases",
+    "url": "https://funnel.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Product update emails",
+    "url": "https://funnel.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Sign up for monthly product updates",
+    "url": "https://funnel.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Product walkthroughs & guides",
+    "url": "https://funnel.io/",
+    "pass": 1
+   },
+   {
+    "quote": "The marketing data foundation your",
+    "url": "https://funnel.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by marketing and data teams at",
+    "url": "https://funnel.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing data is fragmented and inconsistent.",
+    "url": "https://funnel.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Centralize your marketing data once.",
+    "url": "https://funnel.io/",
+    "pass": 1
+   },
+   {
+    "quote": "A scalable foundation for marketing data to power your reports, agents, applications and workflows.",
+    "url": "https://funnel.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing-specific ingestion and exports your warehouse can depend on.",
+    "url": "https://funnel.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Repeatable data products, built on a dependable foundation.",
+    "url": "https://funnel.io/",
+    "pass": 1
+   },
+   {
+    "quote": "annual ad spend processed",
+    "url": "https://funnel.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Every source, prepared and contextualized, so the numbers are the same everywhere they land.",
+    "url": "https://funnel.io/",
+    "pass": 1
+   },
+   {
+    "quote": "See what your marketing actually drives, so you can put budget where it works.",
+    "url": "https://funnel.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing Mix Modeling",
+    "url": "https://funnel.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect and model all your marketing data",
+    "url": "https://funnel.io/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Centralize marketing data",
+    "url": "https://funnel.io/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Give your AI trusted marketing data",
+    "url": "https://funnel.io/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing data your warehouse can depend on",
+    "url": "https://funnel.io/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Turn marketing data into repeatable products",
+    "url": "https://funnel.io/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing data your stack can depend on",
+    "url": "https://funnel.io/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Self-serve marketing data you can trust",
+    "url": "https://funnel.io/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Manage client marketing data at scale",
+    "url": "https://funnel.io/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Learn about marketing, data & reporting",
+    "url": "https://funnel.io/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "See the latest product releases",
+    "url": "https://funnel.io/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Product update emails",
+    "url": "https://funnel.io/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Sign up for monthly product updates",
+    "url": "https://funnel.io/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Product walkthroughs & guides",
+    "url": "https://funnel.io/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "SOLUTION PARTNER PROGRAM",
+    "url": "https://funnel.io/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "By partnering with Funnel, you get all of the benefits of a marketing data hub without any additional effort. That way you focus on winning more business and providing more value to clients.",
+    "url": "https://funnel.io/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "What are the benefits of partnering up with the leading marketing data hub?",
+    "url": "https://funnel.io/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Add a strategic marketing data offering to win more business and get a recurring revenue.",
+    "url": "https://funnel.io/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce time to value on client projects while elevating their marketing maturity.",
+    "url": "https://funnel.io/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Expand your footprint and enable new insights to drive more strategic conversations.",
+    "url": "https://funnel.io/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Lead sharing goes both ways: we introduce our trusted partners to our leads as well.",
+    "url": "https://funnel.io/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "“Funnel has allowed us to easily group all data from our paid media channels and make it quickly accessible for the development of dashboards. It has helped us to visualize the data points we want to use to effectively make better marketing decisions.”",
+    "url": "https://funnel.io/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "for data processing within the first year",
+    "url": "https://funnel.io/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "“We believe in clients owning their own infrastructure, which has been a growing need for customers in recent years. So the Funnel project is fully set up with the customer owning the infrastructure.”",
+    "url": "https://funnel.io/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Analytics services now represent 23% of Storeis' overall revenue.",
+    "url": "https://funnel.io/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Manager Data Marketing",
+    "url": "https://funnel.io/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Connect and model all your marketing data",
+    "url": "https://funnel.io/technology-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Centralize marketing data",
+    "url": "https://funnel.io/technology-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Give your AI trusted marketing data",
+    "url": "https://funnel.io/technology-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing data your warehouse can depend on",
+    "url": "https://funnel.io/technology-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Turn marketing data into repeatable products",
+    "url": "https://funnel.io/technology-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing data your stack can depend on",
+    "url": "https://funnel.io/technology-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Self-serve marketing data you can trust",
+    "url": "https://funnel.io/technology-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Manage client marketing data at scale",
+    "url": "https://funnel.io/technology-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Learn about marketing, data & reporting",
+    "url": "https://funnel.io/technology-partners",
+    "pass": 1
+   },
+   {
+    "quote": "See the latest product releases",
+    "url": "https://funnel.io/technology-partners",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Deliver data to a warehouse",
+    "url": "https://funnel.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing data your warehouse can depend on",
+    "url": "https://funnel.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by marketing and data teams at",
+    "url": "https://funnel.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing-specific ingestion and exports your warehouse can depend on.",
+    "url": "https://funnel.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Funnel handles the complexity of marketing APIs so your warehouse gets clean, structured data that's always current and ready for BI tools, agentic workflows, and your data products.",
+    "url": "https://funnel.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Get warehouse-ready data",
+    "url": "https://funnel.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver data to a warehouse",
+    "url": "https://funnel.io/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing data your warehouse can depend on",
+    "url": "https://funnel.io/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver data to a warehouse",
+    "url": "https://funnel.io/technology-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing data your warehouse can depend on",
+    "url": "https://funnel.io/technology-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Whether it's a dashboard, a spreadsheet, a warehouse, or another destination, you can share data and insights with your team in minutes.",
+    "url": "https://funnel.io/technology-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver data to a warehouse",
+    "url": "https://funnel.io/pricing-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing data your warehouse can depend on",
+    "url": "https://funnel.io/pricing-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Data warehouse destinations",
+    "url": "https://funnel.io/pricing-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "\"Destinations\" are platforms Funnel can send data to, like BI tools, dashboarding tools and data warehouses.",
+    "url": "https://funnel.io/pricing-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver data to a warehouse",
+    "url": "https://funnel.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing data your warehouse can depend on",
+    "url": "https://funnel.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Data warehouse destinations",
+    "url": "https://funnel.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "\"Destinations\" are platforms Funnel can send data to, like BI tools, dashboarding tools and data warehouses.",
+    "url": "https://funnel.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver data to a warehouse",
+    "url": "https://funnel.io/all-case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing data your warehouse can depend on",
+    "url": "https://funnel.io/all-case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "reduction in data warehouse costs",
+    "url": "https://funnel.io/all-case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Customers | Trusted by the world's most data-driven companies | Funnel",
+    "url": "https://funnel.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver data to a warehouse",
+    "url": "https://funnel.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing data your warehouse can depend on",
+    "url": "https://funnel.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver data to a warehouse",
+    "url": "https://funnel.io/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing data your warehouse can depend on",
+    "url": "https://funnel.io/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Funnel is the trusted marketing data layer underneath your client work. It collects, stores, prepares and shares marketing data across reporting, dashboards, BI tools, warehouses and the AI tools your teams use, so delivery becomes repeatable and trust becomes the default.",
+    "url": "https://funnel.io/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver data to a warehouse",
+    "url": "https://funnel.io/partner-directory",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing data your warehouse can depend on",
+    "url": "https://funnel.io/partner-directory",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver data to a warehouse",
+    "url": "https://funnel.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing data your warehouse can depend on",
+    "url": "https://funnel.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver data to a warehouse",
+    "url": "https://funnel.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing data your warehouse can depend on",
+    "url": "https://funnel.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by marketers and data teams worldwide",
+    "url": "https://funnel.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver data to a warehouse",
+    "url": "https://funnel.io/power-digital-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing data your warehouse can depend on",
+    "url": "https://funnel.io/power-digital-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Get your data into any tool, data warehouse, or platform.",
+    "url": "https://funnel.io/power-digital-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver data to a warehouse",
+    "url": "https://funnel.io/legal/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing data your warehouse can depend on",
+    "url": "https://funnel.io/legal/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver data to a warehouse",
+    "url": "https://funnel.io/partner-directory/artefact",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing data your warehouse can depend on",
+    "url": "https://funnel.io/partner-directory/artefact",
+    "pass": 1
+   },
+   {
+    "quote": "Data Warehouse implementation",
+    "url": "https://funnel.io/partner-directory/artefact",
+    "pass": 1
+   },
+   {
+    "quote": "Shimizu Industrial Methacrylic Resin Funnel 98mm",
+    "url": "https://www.globalkitchenjapan.com/collections/funnels?srsltid=AYCX9vKjvSJtl1j96MBdd1OCrfrMX-UUZWPH1JvPv_63jSg1OLF7evRZ",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: 8×8’s Jitsi.org",
+    "url": "https://amplitude.com/blog/funnel-analysis-in-five-industries",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: QuickBooks",
+    "url": "https://amplitude.com/blog/funnel-analysis-in-five-industries",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: NBCUniversal",
+    "url": "https://amplitude.com/blog/funnel-analysis-in-five-industries",
+    "pass": 3
+   },
+   {
+    "quote": "Inside warehouse-native Amplitude: A technical deep dive",
+    "url": "https://amplitude.com/blog/funnel-analysis-in-five-industries",
+    "pass": 3
+   },
+   {
+    "quote": "To help you overcome those challenges, in this article we bring you a quick case study that addresses each one.",
+    "url": "https://marketingsherpa.com/article/case-study/marketing-funnel",
+    "pass": 3
+   },
+   {
+    "quote": "Quick Case Study #1: Affiliate product review website gets ROAS of 1.11 from SEM experimentation",
+    "url": "https://marketingsherpa.com/article/case-study/marketing-funnel",
+    "pass": 3
+   },
+   {
+    "quote": "Quick Case Study #2: Backpack maker leverages face-to-face marketing, nets $28,000 in sales from two events while discovering effective messaging",
+    "url": "https://marketingsherpa.com/article/case-study/marketing-funnel",
+    "pass": 3
+   },
+   {
+    "quote": "Cyberbackpack calls its backpacks “futuristic” and “cool.” So, you might think this next case study would be about the latest, cutting-edge digital marketing tactics.",
+    "url": "https://marketingsherpa.com/article/case-study/marketing-funnel",
+    "pass": 3
+   },
+   {
+    "quote": "Now, this is obviously a sales tactic that does not scale. However, it is very important for any business to do things that don't scale because getting good at things that don't scale makes business operators like Nwosu excel at the things that do scale, he says.",
+    "url": "https://marketingsherpa.com/article/case-study/marketing-funnel",
+    "pass": 3
+   },
+   {
+    "quote": "Quick Case Study #3: Shift from salesy approach to transparency doubles conversation rate for energy procurement tool",
+    "url": "https://marketingsherpa.com/article/case-study/marketing-funnel",
+    "pass": 3
+   },
+   {
+    "quote": "Join our thousands of weekly case study readers.",
+    "url": "https://marketingsherpa.com/article/case-study/marketing-funnel",
+    "pass": 3
+   },
+   {
+    "quote": "2 Operators",
+    "url": "https://simvoly.com/white-label-builder",
+    "pass": 3
+   },
+   {
+    "quote": "4 Operators",
+    "url": "https://simvoly.com/white-label-builder",
+    "pass": 3
+   },
+   {
+    "quote": "5 Operators",
+    "url": "https://simvoly.com/white-label-builder",
+    "pass": 3
+   },
+   {
+    "quote": "10 Operators",
+    "url": "https://simvoly.com/white-label-builder",
+    "pass": 3
+   },
+   {
+    "quote": "Duda is a website and white label landing page builder used by agencies to publish client",
+    "url": "https://www.perspective.co/article/white-label-landing-page-builder",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Funnel helps marketers, data teams, and agencies collect, clean, and activate marketing data, without the manual work.",
+    "url": "https://funnel.io/",
+    "pass": 1
+   },
+   {
+    "quote": "SOLUTION PARTNER PROGRAM",
+    "url": "https://funnel.io/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "The Funnel Solution Partner program works with two tiers that fit with all kinds of partners.",
+    "url": "https://funnel.io/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "We love working with agencies and consultancies that share the same values as us. Transparency and trust is the basis of our future relationship.",
+    "url": "https://funnel.io/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Become part of the partner program and build a solid partnership with Funnel, that work both ways.",
+    "url": "https://funnel.io/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Become a partner today!",
+    "url": "https://funnel.io/technology-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Funnel plans for agencies",
+    "url": "https://funnel.io/pricing-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Scale client reporting across your full portfolio, with 600+ connectors, advanced measurement, and white-label reporting via Portals.",
+    "url": "https://funnel.io/pricing-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Plans & prices for marketers, analysts or agencies | Funnel",
+    "url": "https://funnel.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Guided setup with Funnel AI. Built for teams and agencies working across multiple channels, markets and brands.",
+    "url": "https://funnel.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Do you have pricing for agencies?",
+    "url": "https://funnel.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For sure! Our plans are designed with digital marketing and media agencies in mind; from small boutique agencies with just a few clients to large agencies with hundreds of clients. We also offer solutions for global agency networks. Please get in touch to get a competitive offer.",
+    "url": "https://funnel.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Speed, agility, and reliability. The world's top agencies run on all three, and they require partners like Funnel that always impress.",
+    "url": "https://funnel.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Funnel for Agencies | Automate and scale client reporting",
+    "url": "https://funnel.io/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Become part of the Funnel Solution Partner Program and work together on opportunities, marketing activities and much more.",
+    "url": "https://funnel.io/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Discover the partner program",
+    "url": "https://funnel.io/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies, learn what clients are really thinking.",
+    "url": "https://funnel.io/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Download our report to discover how advances in marketing technology are influencing where clients will invest, how they score their agencies and how you can position yourself for future success.",
+    "url": "https://funnel.io/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Funnel helps agencies work smarter, faster",
+    "url": "https://funnel.io/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Modern agencies love Funnel",
+    "url": "https://funnel.io/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Are you searching for the right partner to start using Funnel or to become a new member of the Funnel Solution Partner Program? The Partner directory can inspire you and help you move forward.",
+    "url": "https://funnel.io/partner-directory",
+    "pass": 1
+   },
+   {
+    "quote": "Join Funnel's partner program",
+    "url": "https://funnel.io/partner-directory",
+    "pass": 1
+   },
+   {
+    "quote": "Sign up below and we will contact you shortly with more information about our Solution Partner Program.",
+    "url": "https://funnel.io/partner-directory",
+    "pass": 1
+   },
+   {
+    "quote": "How marketing agencies can improve retainer profitability with AI",
+    "url": "https://funnel.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Solution Partner Program",
+    "url": "https://funnel.io/legal/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Partner Program Policies",
+    "url": "https://funnel.io/legal/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "20250101 - Partner Program Policies.pdf",
+    "url": "https://funnel.io/legal/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "How marketing agencies can improve retainer profitability with AI",
+    "url": "https://funnel.io/blog/how-marketing-agencies-can-improve-retainer-profitability-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing agencies can improve retainer profitability by automating routine reporting and reducing the cost of serving each client. The recovered capacity can support measurement, strategic advice and data products, provided the agency can package and sell that work. AI can assist, but dependable data and human judgment remain essential.",
+    "url": "https://funnel.io/blog/how-marketing-agencies-can-improve-retainer-profitability-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Reporting automation reduces recurring work by replacing repeated manual data pulls, preparation and report updates with repeatable workflows. AI assistance can help with drafting and summarizing. Agencies still need to validate the underlying data and review client-facing conclusions.",
+    "url": "https://funnel.io/blog/how-marketing-agencies-can-improve-retainer-profitability-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Most agencies know where their hours go. Data collection, cleaning, mapping and report preparation take up time that could otherwise go toward analysis and client advice. These tasks are necessary and repetitive, but completing them is only the starting point for understanding what the data means.",
+    "url": "https://funnel.io/blog/how-marketing-agencies-can-improve-retainer-profitability-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "How can agencies turn saved reporting time into additional revenue?",
+    "url": "https://funnel.io/blog/how-marketing-agencies-can-improve-retainer-profitability-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "The pattern shows up clearly in the agencies that have reinvested their time.",
+    "url": "https://funnel.io/blog/how-marketing-agencies-can-improve-retainer-profitability-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "These examples show how agencies can use time saved on reporting to develop additional services.",
+    "url": "https://funnel.io/blog/how-marketing-agencies-can-improve-retainer-profitability-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "AI can help agencies analyze data faster, but speed does not make the results trustworthy. The data still needs to be trusted, accurate, reliable, timely, complete and unbiased.",
+    "url": "https://funnel.io/blog/how-marketing-agencies-can-improve-retainer-profitability-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Keeping the data dependable is ongoing work. Platforms change the data they provide and how they report it. Agencies need to maintain their connections and check that reports still reflect the agreed definitions.",
+    "url": "https://funnel.io/blog/how-marketing-agencies-can-improve-retainer-profitability-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "How should agencies decide where to reinvest time saved on reporting?",
+    "url": "https://funnel.io/blog/how-marketing-agencies-can-improve-retainer-profitability-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "What should agencies look for in a marketing data foundation?",
+    "url": "https://funnel.io/blog/how-marketing-agencies-can-improve-retainer-profitability-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Digital marketing agencies",
+    "url": "https://funnel.io/partner-directory/artefact",
+    "pass": 1
+   },
+   {
+    "quote": "Partner Program Policies 2025January 1st",
+    "url": "https://funnel.io/hubfs/Solution%20Partners/20250101%20-%20Partner%20Program%20Policies.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Partner Program Policies",
+    "url": "https://funnel.io/hubfs/Solution%20Partners/20250101%20-%20Partner%20Program%20Policies.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "White Label Website and Funnel Builder - Grow Your Branded Platform",
+    "url": "https://simvoly.com/white-label-builder",
+    "pass": 3
+   },
+   {
+    "quote": "Freelancers . Agencies . Marketers . SaaS",
+    "url": "https://simvoly.com/white-label-builder",
+    "pass": 3
+   },
+   {
+    "quote": "Have the whole platform under your brand and rules -",
+    "url": "https://simvoly.com/white-label-builder",
+    "pass": 3
+   },
+   {
+    "quote": "100% White Label",
+    "url": "https://simvoly.com/white-label-builder",
+    "pass": 3
+   },
+   {
+    "quote": "100% White label",
+    "url": "https://simvoly.com/white-label-builder",
+    "pass": 3
+   },
+   {
+    "quote": "It All Happens With Your Brand, Domain and even Templates",
+    "url": "https://simvoly.com/white-label-builder",
+    "pass": 3
+   },
+   {
+    "quote": "Your Branding, Your Rules",
+    "url": "https://simvoly.com/white-label-builder",
+    "pass": 3
+   },
+   {
+    "quote": "Your Logo, Your Branding, Your Domain",
+    "url": "https://simvoly.com/white-label-builder",
+    "pass": 3
+   },
+   {
+    "quote": "Rebrand the whole white label builder with your logo, colors, and even custom CSS and Javascript.",
+    "url": "https://simvoly.com/white-label-builder",
+    "pass": 3
+   },
+   {
+    "quote": "Your own white label email marketing platform working seamlessly with the websites & funnels.",
+    "url": "https://simvoly.com/white-label-builder",
+    "pass": 3
+   },
+   {
+    "quote": "In your white label platform, you get an amazing smart CRM with every site or funnel on your platform. You and your customers can",
+    "url": "https://simvoly.com/white-label-builder",
+    "pass": 3
+   },
+   {
+    "quote": "Want to provide something special to your customers? You got it! We have the easiest funnel-building tool on the planet, ready to be white labeled by you.",
+    "url": "https://simvoly.com/white-label-builder",
+    "pass": 3
+   },
+   {
+    "quote": "The White Label Website Builder is made for speed. All websites are optimized, lightweight, and SEO friendly.",
+    "url": "https://simvoly.com/white-label-builder",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Platform Perks",
+    "url": "https://simvoly.com/white-label-builder",
+    "pass": 3
+   },
+   {
+    "quote": "Your own affiliate functionality for your white label. Your customer can refer customers and get a % of the sales.",
+    "url": "https://simvoly.com/white-label-builder",
+    "pass": 3
+   },
+   {
+    "quote": "You get the Website and Funnel Academy with non-branded videos under your brand to use as part of your promotions, education and marketing campaigns.",
+    "url": "https://simvoly.com/white-label-builder",
+    "pass": 3
+   },
+   {
+    "quote": "Start Your Own White Label Platform",
+    "url": "https://simvoly.com/white-label-builder",
+    "pass": 3
+   },
+   {
+    "quote": "Top 3 White Label Website Builders of 2026",
+    "url": "https://simvoly.com/white-label-builder",
+    "pass": 3
+   },
+   {
+    "quote": "White Label / Reseller",
+    "url": "https://simvoly.com/white-label-builder",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Product update emails",
+    "url": "https://funnel.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Product update emails",
+    "url": "https://funnel.io/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Product update emails",
+    "url": "https://funnel.io/technology-partners",
+    "pass": 1
+   },
+   {
+    "quote": "We strive to give our clients the best user experience and seamless integration throughout their ecosystem. That's why we work closely with our Technology Partners. From major marketing and advertising platforms, to email and e-commerce solutions, Funnel partners with all major cloud, storage, BI visualization, big data and analytics platforms.",
+    "url": "https://funnel.io/technology-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Product update emails",
+    "url": "https://funnel.io/pricing-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Product update emails",
+    "url": "https://funnel.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Product update emails",
+    "url": "https://funnel.io/all-case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Product update emails",
+    "url": "https://funnel.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Product update emails",
+    "url": "https://funnel.io/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Product update emails",
+    "url": "https://funnel.io/partner-directory",
+    "pass": 1
+   },
+   {
+    "quote": "Product update emails",
+    "url": "https://funnel.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Product update emails",
+    "url": "https://funnel.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "Interested in transforming your data analytics strategy? Contact us to learn more",
+    "url": "https://funnel.io/case-studies/van-de-velde-artefact",
+    "pass": 1
+   },
+   {
+    "quote": "Product update emails",
+    "url": "https://funnel.io/power-digital-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Product update emails",
+    "url": "https://funnel.io/legal/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Product update emails",
+    "url": "https://funnel.io/partner-directory/artefact",
+    "pass": 1
+   },
+   {
+    "quote": "email,",
+    "url": "https://funnel.io/hubfs/Solution%20Partners/20250101%20-%20Solution%20Partner%20General%20Terms%20and%20Conditions.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "MarketingSherpa email newsletter",
+    "url": "https://marketingsherpa.com/article/case-study/marketing-funnel",
+    "pass": 3
+   },
+   {
+    "quote": "They also built out more information on the website. Originally, the team just had a homepage, about us, and contact us page. They added the follow pages to the site and the nav – services, industries, press, and policy (about energy policy).",
+    "url": "https://marketingsherpa.com/article/case-study/marketing-funnel",
+    "pass": 3
+   },
+   {
+    "quote": "Enter your email below to receive MarketingSherpa news, updates, and promotions:",
+    "url": "https://marketingsherpa.com/article/case-study/marketing-funnel",
+    "pass": 3
+   },
+   {
+    "quote": "and will not rent or sell your email address. Visit our",
+    "url": "https://marketingsherpa.com/article/case-study/marketing-funnel",
+    "pass": 3
+   },
+   {
+    "quote": "Receive the latest case studies and data on email, lead gen, and social media along with MarketingSherpa updates and promotions.",
+    "url": "https://marketingsherpa.com/article/case-study/marketing-funnel",
+    "pass": 3
+   },
+   {
+    "quote": "rent or sell your email address. Visit our",
+    "url": "https://marketingsherpa.com/article/case-study/marketing-funnel",
+    "pass": 3
+   },
+   {
+    "quote": "Emails, Automation flows, SMS, WhatsApp, Voice Messages",
+    "url": "https://simvoly.com/white-label-builder",
+    "pass": 3
+   },
+   {
+    "quote": "Email Marketing Inside",
+    "url": "https://simvoly.com/white-label-builder",
+    "pass": 3
+   },
+   {
+    "quote": "Your own white label email marketing platform working seamlessly with the websites & funnels.",
+    "url": "https://simvoly.com/white-label-builder",
+    "pass": 3
+   },
+   {
+    "quote": "The whole process from start to end is automated and optimized - emails, invoices, subscriptions.",
+    "url": "https://simvoly.com/white-label-builder",
+    "pass": 3
+   },
+   {
+    "quote": "Having a website is one thing...but having a website that works for your business is the real thing! The Simvoly platform has helped us create flawless marketing plans from a simple inquiry to our automated email campaign. Our website works for us so we can work more with our clients! Flawless design and total marketing solution!",
+    "url": "https://simvoly.com/white-label-builder",
+    "pass": 3
+   },
+   {
+    "quote": "100 Email Marketing Subscribers",
+    "url": "https://simvoly.com/white-label-builder",
+    "pass": 3
+   },
+   {
+    "quote": "1200 Emails per month",
+    "url": "https://simvoly.com/white-label-builder",
+    "pass": 3
+   },
+   {
+    "quote": "500 Email Marketing Subscribers",
+    "url": "https://simvoly.com/white-label-builder",
+    "pass": 3
+   },
+   {
+    "quote": "6000 Emails per month",
+    "url": "https://simvoly.com/white-label-builder",
+    "pass": 3
+   },
+   {
+    "quote": "1000 Email Marketing Subscribers",
+    "url": "https://simvoly.com/white-label-builder",
+    "pass": 3
+   },
+   {
+    "quote": "12000 Emails per month",
+    "url": "https://simvoly.com/white-label-builder",
+    "pass": 3
+   },
+   {
+    "quote": "Email Marketing & Automations Addons",
+    "url": "https://simvoly.com/white-label-builder",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Email Marketing",
+    "url": "https://simvoly.com/white-label-builder",
+    "pass": 3
+   },
+   {
+    "quote": "Traditional landing page builders with white label often stop at the lead capture form, leaving you to bolt on email marketing, SMS, CRM, and analytics. Perspective replaces a fragmented system with one cohesive workflow that's easier to scale.",
+    "url": "https://www.perspective.co/article/white-label-landing-page-builder",
+    "pass": 3
+   },
+   {
+    "quote": "Email and WhatsApp sequences to automate nurture",
+    "url": "https://www.perspective.co/article/white-label-landing-page-builder",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing is based on features and funnel volume rather than contact count, so you don't get punished as your email list grows. There is also a",
+    "url": "https://www.perspective.co/article/white-label-landing-page-builder",
+    "pass": 3
+   },
+   {
+    "quote": "Sends leads to email tools, CRMs, and spreadsheets",
+    "url": "https://www.perspective.co/article/white-label-landing-page-builder",
+    "pass": 3
+   },
+   {
+    "quote": "Basic CRM and email tools, plus Zapier-style integrations",
+    "url": "https://www.perspective.co/article/white-label-landing-page-builder",
+    "pass": 3
+   },
+   {
+    "quote": "CRM pipelines plus workflows for email and SMS follow-up",
+    "url": "https://www.perspective.co/article/white-label-landing-page-builder",
+    "pass": 3
+   },
+   {
+    "quote": "Native or API integrations for CRMs, email marketing, and analytics tools like Google Analytics, plus Zapier-style connectors for everything else.",
+    "url": "https://www.perspective.co/article/white-label-landing-page-builder",
+    "pass": 3
+   },
+   {
+    "quote": "✔️ Built-in messaging, native email, and CRM",
+    "url": "https://www.perspective.co/article/white-label-landing-page-builder",
+    "pass": 3
+   },
+   {
+    "quote": "Nurture Leads with Smart & Automated Emails",
+    "url": "https://www.perspective.co/article/white-label-landing-page-builder",
+    "pass": 3
+   },
+   {
+    "quote": "Check what external tools the platform integrates with — especially email marketing platforms, CRMs, and payment processors. And confirm you can set your own prices. True white label solutions give you full control over your margins.",
+    "url": "https://blog.convertri.com/white-label-funnel-builder/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact: hello@moze.ai",
+    "url": "https://note.com/moze_inc/n/n22e86d352913?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why? When humans have too many choices, they end up choosing none of them. If you have multiple links in your bio (note, portfolio site, email, DM, etc.), visitors get confused. As a result, they leave without doing anything.",
+    "url": "https://note.com/crop_photograph/n/n86da351a30e6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Instagram → note profile page → read article → go to portfolio → DM or email",
+    "url": "https://note.com/crop_photograph/n/n86da351a30e6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Let’s say you run an e-commerce site, and a portion of folks in your sales funnel added items to their cart… but never checked out. You can send an email to the potential customer reminding them they still have items in their cart. This technique is known as remarketing or retargeting.",
+    "url": "https://business.linkedin.com/sell/resources/sales-terms/sales-funnel",
+    "pass": 3
+   },
+   {
+    "quote": "This refers to any content that’s placed behind a lead capture form. For example, after a visitor takes a quiz on your website, they’ll need to enter their email address to view the results.",
+    "url": "https://business.linkedin.com/sell/resources/sales-terms/sales-funnel",
+    "pass": 3
+   },
+   {
+    "quote": "Armed with this information, you run an excellent Instagram ad and create a great TikTok video that both lead potential customers to a landing page. This page prompts them to sign up for an email list in exchange for something like free samples or an e-newsletter. Now, you have a list of leads.",
+    "url": "https://business.linkedin.com/sell/resources/sales-terms/sales-funnel",
+    "pass": 3
+   },
+   {
+    "quote": "After this initial email blitz, you offer a 15 percent off coupon for the first three months of a subscription service — and voila! You’re selling subscriptions left and right.",
+    "url": "https://business.linkedin.com/sell/resources/sales-terms/sales-funnel",
+    "pass": 3
+   },
+   {
+    "quote": "Often, you receive a sales email from someone you've never met, suddenly asking, 'Can we talk on Zoom for just 30 minutes?' Ultimately, this is just to pitch to you during those 30 minutes. Honestly, trying to move someone's heart in a short time during a first meeting isn't a very pleasant experience.",
+    "url": "https://note.com/erikos/n/nf6adc9a8cf63?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Add a strategic marketing data offering to win more business and get a recurring revenue.",
+    "url": "https://funnel.io/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue from analytics services have grown by over 190%",
+    "url": "https://funnel.io/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Analytics services now represent 23% of Storeis' overall revenue.",
+    "url": "https://funnel.io/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Depending on what tier you're in, you'll have access to a dedicated partner team, onboard training, marketing and a revenue share.",
+    "url": "https://funnel.io/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Our partners are an important part of our organisation. Do you fit the program?",
+    "url": "https://funnel.io/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Become part of the partner program and build a solid partnership with Funnel, that work both ways.",
+    "url": "https://funnel.io/solution-partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Set budgets and targets in Funnel and track pacing against spend, revenue or any KPI you choose.",
+    "url": "https://funnel.io/pricing-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Set budgets and targets in Funnel and track pacing against spend, revenue or any KPI you choose.",
+    "url": "https://funnel.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "No. Flexpoints are part of your contract, not a usage meter. You pay for the capacity you've purchased, and that doesn't change based on how much data runs through your setup, how many campaigns you run, or how many rows your connected accounts generate. Your bill only changes if you choose to buy more flexpoints.",
+    "url": "https://funnel.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Despite a 16% digital paid media budget reduction toward the end of the year, we grew revenue gained from paid digital media by 26% because we were putting our money in the right places.",
+    "url": "https://funnel.io/all-case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "NXTRND uncovers 20% revenue impact from paid social",
+    "url": "https://funnel.io/all-case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "revenue impact from paid social",
+    "url": "https://funnel.io/all-case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Sparro’s data team drives additional revenue with Funnel",
+    "url": "https://funnel.io/all-case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "“I have been using Funnel for a few years now and I am absolutely delighted with it. It has made our data acquisition efforts for all social media data so much easier and faster”",
+    "url": "https://funnel.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Become part of the Funnel Solution Partner Program and work together on opportunities, marketing activities and much more.",
+    "url": "https://funnel.io/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "The retainer has always carried a quiet tension: the fee is fixed, but the work is not.",
+    "url": "https://funnel.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Increased U.S. display spend by about 50% in a test that delivered more revenue than expected, then maintained a higher level of investment.",
+    "url": "https://funnel.io/case-studies/parshipmeet-group",
+    "pass": 1
+   },
+   {
+    "quote": "ParshipMeet Group is a leading international dating and video company. Its portfolio of brands, including eharmony and Parship, supports millions of users every day in their search for community, connection and meaningful, lasting relationships. The wider group operates seven apps available in more than 190 countries and generated €285 million in revenue in 2025.",
+    "url": "https://funnel.io/case-studies/parshipmeet-group",
+    "pass": 1
+   },
+   {
+    "quote": "Felix also describes a change in how finance and leadership view upper-funnel activity. Where last-click had made budgets difficult to justify, he now has evidence to discuss their contribution to revenue.",
+    "url": "https://funnel.io/case-studies/parshipmeet-group",
+    "pass": 1
+   },
+   {
+    "quote": "Funnel is the leading marketing intelligence platform for marketing and data teams. Since its founding in 2014, Funnel has grown to more than 300 employees across offices in Stockholm, Boston, Hamburg and Sydney. Today it serves more than 3,000 mid-market and enterprise businesses around the globe.",
+    "url": "https://funnel.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "It's freed up hours and hours and hours of time every single week for almost all of our employees.",
+    "url": "https://funnel.io/power-digital-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The retainer has always carried a quiet tension: the fee is fixed, but the work is not.",
+    "url": "https://funnel.io/blog/how-marketing-agencies-can-improve-retainer-profitability-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "In return for predictable revenue, an agency commits time, expertise and attention every month. Recurring tasks such as data collection, reconciliation and report preparation can expand to fill whatever room they are given. On smaller accounts, they can leave little time for the analysis and strategy the client is paying for.",
+    "url": "https://funnel.io/blog/how-marketing-agencies-can-improve-retainer-profitability-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Two practical levers are reducing the cost of serving each client and increasing revenue from each client. Reporting automation can support the first. Packaging additional services can support the second.",
+    "url": "https://funnel.io/blog/how-marketing-agencies-can-improve-retainer-profitability-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "These levers address different outcomes. Reducing delivery costs can improve margin on an existing retainer. Selling additional services can grow account revenue, provided the fees cover the cost of delivering them.",
+    "url": "https://funnel.io/blog/how-marketing-agencies-can-improve-retainer-profitability-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "The levers are linked. Reducing the hours spent assembling data can lower the cost of serving a client and free capacity to develop additional services. Revenue grows when the agency packages and sells those services.",
+    "url": "https://funnel.io/blog/how-marketing-agencies-can-improve-retainer-profitability-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "How can agencies turn saved reporting time into additional revenue?",
+    "url": "https://funnel.io/blog/how-marketing-agencies-can-improve-retainer-profitability-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Freed hours do not grow revenue on their own. They grow revenue when they are pointed at work the client values and is willing to buy.",
+    "url": "https://funnel.io/blog/how-marketing-agencies-can-improve-retainer-profitability-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "used the capacity it recovered to build new reporting products that were previously impossible under time pressure, including work linking purchasing behavior to customer lifetime value and sentiment analysis from review data. Those projects have generated more than $ 150,000 in additional revenue to date.",
+    "url": "https://funnel.io/blog/how-marketing-agencies-can-improve-retainer-profitability-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "That work supports measurement, data products and strategic advice. When clients ask where a number came from or what it means, the agency needs to give a clear answer. Agreeing on definitions, maintaining the data and explaining its limits are part of the expertise clients pay for.",
+    "url": "https://funnel.io/blog/how-marketing-agencies-can-improve-retainer-profitability-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Sparro by Brainlabs: Reporting automation and additional data-project revenue",
+    "url": "https://funnel.io/blog/how-marketing-agencies-can-improve-retainer-profitability-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Sparro’s data team drives additional revenue with Funnel",
+    "url": "https://funnel.io/case-studies/sparro",
+    "pass": 1
+   },
+   {
+    "quote": "This change enabled Sparro's team to focus more on strategic projects, resulting in innovative data analyses that significantly increased revenue and improved business efficiency. The collaboration with Funnel marked a major step forward in Sparro's data-handling capabilities and overall growth trajectory.",
+    "url": "https://funnel.io/case-studies/sparro",
+    "pass": 1
+   },
+   {
+    "quote": "Funnel enables Sparro’s team to build innovative data projects, generating an additional $150,000 in revenue to date.",
+    "url": "https://funnel.io/case-studies/sparro",
+    "pass": 1
+   },
+   {
+    "quote": "Through increased automation, Funnel saves Sparro 25,000 hours every year",
+    "url": "https://funnel.io/case-studies/sparro",
+    "pass": 1
+   },
+   {
+    "quote": "Sparro by Brainlabs stands out in the Australian digital agency landscape as a pioneer, known in the market for its holistic and transparent approach to digital marketing, with a strong focus on fostering client growth.",
+    "url": "https://funnel.io/case-studies/sparro",
+    "pass": 1
+   },
+   {
+    "quote": "Sparro’s expertise lies in designing comprehensive, multi-channel campaigns that effectively blend digital and traditional media insights across mediums, all driven by meaningful data-driven strategies. As Sparro’s client portfolio expanded and the intricacies of marketing data evolved, the agency faced challenges in maintaining stable performance reports to clients.",
+    "url": "https://funnel.io/case-studies/sparro",
+    "pass": 1
+   },
+   {
+    "quote": "The results - Enhancing efficiency and revenue:",
+    "url": "https://funnel.io/case-studies/sparro",
+    "pass": 1
+   },
+   {
+    "quote": "5. Revenue Share",
+    "url": "https://funnel.io/hubfs/Solution%20Partners/20250101%20-%20Partner%20Program%20Policies.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "APPENDIX A: Historical Revenue Share",
+    "url": "https://funnel.io/hubfs/Solution%20Partners/20250101%20-%20Partner%20Program%20Policies.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "WARRANTY,",
+    "url": "https://funnel.io/hubfs/Solution%20Partners/20250101%20-%20Solution%20Partner%20General%20Terms%20and%20Conditions.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Revenue Recovery Management",
+    "url": "https://funnel-inc.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "𝗣𝗹𝗮𝘆𝗹𝗶𝘀𝘁 | Studio Ghibli & Jazz | Studio Ghibli Jazz Arrangements",
+    "url": "https://www.youtube.com/watch?v=DTQG0MKZjRg",
+    "pass": 3
+   },
+   {
+    "quote": "Food & Beverage Carriers",
+    "url": "https://www.globalkitchenjapan.com/collections/funnels?srsltid=AYCX9vKjvSJtl1j96MBdd1OCrfrMX-UUZWPH1JvPv_63jSg1OLF7evRZ",
+    "pass": 3
+   },
+   {
+    "quote": "trace the journey of the online shopping experience from arrival at the website to the purchase. Marketers typically also track the attribution channel, such as social media or search advertisements, that leads users to the main landing screen.",
+    "url": "https://amplitude.com/blog/funnel-analysis-in-five-industries",
+    "pass": 3
+   },
+   {
+    "quote": "Best Views Reviews (BVR) is a website that provides reviews of products and services. It earns revenue through Amazon affiliate sales. “In order to generate traffic and awareness for our website, we created 200 Google Ads with a budget of $500,000,” said Apurv Sibal, Vice President, Shorthills Tech (",
+    "url": "https://marketingsherpa.com/article/case-study/marketing-funnel",
+    "pass": 3
+   },
+   {
+    "quote": "2. Allowing higher cost per acquisition (CPA) value for dynamic ad groups raised the conversion cost of the overall campaign. Then it was decided that its value will be kept equivalent or lesser than the manual ad group.",
+    "url": "https://marketingsherpa.com/article/case-study/marketing-funnel",
+    "pass": 3
+   },
+   {
+    "quote": "Imperium is a proprietary machine-learning AI platform that helps with energy procurement. It is a little over two years old and is on its way to $10 million in annual revenue.",
+    "url": "https://marketingsherpa.com/article/case-study/marketing-funnel",
+    "pass": 3
+   },
+   {
+    "quote": "The views and opinions expressed in the articles of this website are strictly those of the author and do not necessarily reflect in any way the views of MarketingSherpa, its affiliates, or its employees.",
+    "url": "https://marketingsherpa.com/article/case-study/marketing-funnel",
+    "pass": 3
+   },
+   {
+    "quote": "You get the Website and Funnel Academy with non-branded videos under your brand to use as part of your promotions, education and marketing campaigns.",
+    "url": "https://simvoly.com/white-label-builder",
+    "pass": 3
+   },
+   {
+    "quote": "TRANSFORM YOUR AGENCY'S REVENUE AND REPUTATION WITH",
+    "url": "https://www.funnelvibe.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Convrrt is an embedded white label landing page builder built for SaaS products. It is used to create signup and conversion pages as part of the product offer. The focus is in-product page creation.",
+    "url": "https://www.perspective.co/article/white-label-landing-page-builder",
+    "pass": 3
+   },
+   {
+    "quote": "Keep your audience engaged, nurture relationships, and turn leads into loyal customers & employees.",
+    "url": "https://www.perspective.co/article/white-label-landing-page-builder",
+    "pass": 3
+   },
+   {
+    "quote": "We took our agency to a seven-figures in revenue after just 4 months of using Perspective in our service.",
+    "url": "https://www.perspective.co/article/white-label-landing-page-builder",
+    "pass": 3
+   },
+   {
+    "quote": "The Complete Guide to White Label Funnel Builders: Grow Your Agency Revenue",
+    "url": "https://blog.convertri.com/white-label-funnel-builder/",
+    "pass": 3
+   },
+   {
+    "quote": "Clients don’t just want traffic. They want results. Clients running paid ads need the infrastructure to convert paid traffic into actual revenue. Without that, your traffic numbers look great, but the client’s business doesn’t grow — and that always comes back to you.",
+    "url": "https://blog.convertri.com/white-label-funnel-builder/",
+    "pass": 3
+   },
+   {
+    "quote": "Page speed isn’t just a technical detail — it’s a revenue variable. Slow funnels reduce conversions. That reflects on your work, not the platform’s. A",
+    "url": "https://blog.convertri.com/white-label-funnel-builder/",
+    "pass": 3
+   },
+   {
+    "quote": "If you’re not tracking time against revenue per project, your margin is invisible — and almost certainly shrinking. Revisit your pricing every quarter, not every year. Even a modest 10% rate increase annually compounds into a significantly stronger business over a two- or three-year client relationship.",
+    "url": "https://blog.convertri.com/white-label-funnel-builder/",
+    "pass": 3
+   },
+   {
+    "quote": "The model works because it eliminates the biggest barriers. No development cost. No software maintenance. No technical complexity on your end. You bring the strategy and client relationships. The platform handles the funnel infrastructure, while integrations cover the rest.",
+    "url": "https://blog.convertri.com/white-label-funnel-builder/",
+    "pass": 3
+   },
+   {
+    "quote": "gives you the speed, flexibility, and branding control to make white label funnel building a sustainable part of your agency’s revenue.",
+    "url": "https://blog.convertri.com/white-label-funnel-builder/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本のBtoB購買に関する意識・実態調査2026",
+    "url": "https://www.hubspot.jp/products/marketing/marketing-automation-information/marketing-funnel",
+    "pass": 3
+   },
+   {
+    "quote": "HubSpot日本語ブログでは、世界中のHubSpotの知見を活かし、日本のビジネスパーソンの課題解決に繋がるような情報を提供しています",
+    "url": "https://www.hubspot.jp/products/marketing/marketing-automation-information/marketing-funnel",
+    "pass": 3
+   },
+   {
+    "quote": "ファネル（funnel）とは、日本語で「漏斗（じょうご）」を意味する単語ですが、マーケティングでは見込み客が購買に至るまでのプロセスを図式化したものを指します",
+    "url": "https://www.sunbridge.com/blog/useful/funnel/",
+    "pass": 3
+   },
+   {
+    "quote": "AI活用の成功事例を体感しませんか？｜ザ・プリンス パークタワー東京で開催",
+    "url": "https://www.sunbridge.com/blog/useful/funnel/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社funnel | Amazon広告やTikTok広告を中心に物販セラーのワンストップソリューションカンパニー",
+    "url": "https://funnel-inc.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "© 2026 株式会社funnel",
+    "url": "https://funnel-inc.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ファンネル - 株式会社レッドコメット | 渋谷の総合広告代理店",
+    "url": "https://redcomet-ad.jp/service/funnel/",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon Ads Japan 503回視聴 1 年前",
+    "url": "https://www.youtube.com/watch?v=DTQG0MKZjRg",
+    "pass": 3
+   },
+   {
+    "quote": "[プロから学ぼう] キャンペーン構造設計と大規模運用「仕組みで回す」3つの方法 by 株式会社MBKデジタル - Amazon Ads",
+    "url": "https://www.youtube.com/watch?v=DTQG0MKZjRg",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Funnel様YouTubeチャネル:",
+    "url": "https://www.youtube.com/watch?v=DTQG0MKZjRg",
+    "pass": 3
+   },
+   {
+    "quote": "Funnels – Globalkitchen Japan",
+    "url": "https://www.globalkitchenjapan.com/collections/funnels?srsltid=AYCX9vKjvSJtl1j96MBdd1OCrfrMX-UUZWPH1JvPv_63jSg1OLF7evRZ",
+    "pass": 3
+   },
+   {
+    "quote": "Please be careful about the fraud sites. Our shop is a superior site that is recommended officially by Japan post.",
+    "url": "https://www.globalkitchenjapan.com/collections/funnels?srsltid=AYCX9vKjvSJtl1j96MBdd1OCrfrMX-UUZWPH1JvPv_63jSg1OLF7evRZ",
+    "pass": 3
+   },
+   {
+    "quote": "Welcome to Globalkitchen Japan! Please refer to the following page prior to your first order.",
+    "url": "https://www.globalkitchenjapan.com/collections/funnels?srsltid=AYCX9vKjvSJtl1j96MBdd1OCrfrMX-UUZWPH1JvPv_63jSg1OLF7evRZ",
+    "pass": 3
+   },
+   {
+    "quote": "Roasted Japanese Sweet Potato Pot",
+    "url": "https://www.globalkitchenjapan.com/collections/funnels?srsltid=AYCX9vKjvSJtl1j96MBdd1OCrfrMX-UUZWPH1JvPv_63jSg1OLF7evRZ",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Style Knives",
+    "url": "https://www.globalkitchenjapan.com/collections/funnels?srsltid=AYCX9vKjvSJtl1j96MBdd1OCrfrMX-UUZWPH1JvPv_63jSg1OLF7evRZ",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Shop Flags & Noren",
+    "url": "https://www.globalkitchenjapan.com/collections/funnels?srsltid=AYCX9vKjvSJtl1j96MBdd1OCrfrMX-UUZWPH1JvPv_63jSg1OLF7evRZ",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Hot Pot Dishes",
+    "url": "https://www.globalkitchenjapan.com/collections/funnels?srsltid=AYCX9vKjvSJtl1j96MBdd1OCrfrMX-UUZWPH1JvPv_63jSg1OLF7evRZ",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Pottery & Porcelain",
+    "url": "https://www.globalkitchenjapan.com/collections/funnels?srsltid=AYCX9vKjvSJtl1j96MBdd1OCrfrMX-UUZWPH1JvPv_63jSg1OLF7evRZ",
+    "pass": 3
+   },
+   {
+    "quote": "Globalkitchen Japan is Japan-based online store specialized in quality cooking tools and unique gadgets. We are passionate about finding great products to make your kitchen, dinning and cooking time more brilliant.",
+    "url": "https://www.globalkitchenjapan.com/collections/funnels?srsltid=AYCX9vKjvSJtl1j96MBdd1OCrfrMX-UUZWPH1JvPv_63jSg1OLF7evRZ",
+    "pass": 3
+   },
+   {
+    "quote": "We have been introduced by Japan Post.",
+    "url": "https://www.globalkitchenjapan.com/collections/funnels?srsltid=AYCX9vKjvSJtl1j96MBdd1OCrfrMX-UUZWPH1JvPv_63jSg1OLF7evRZ",
+    "pass": 3
+   },
+   {
+    "quote": "ピザハット,サブウェイ,丸亀製麺,通販生活,ヤマト,ミスパリ,オオミヤ,UCC,Anker,ぐるなび,三井不動産,松竹株式会社,日本弁護士連合会,全国信用金庫協会,総務省,帝人,ディオクリニック",
+    "url": "https://funnelinc.tokyo/",
+    "pass": 3
+   },
+   {
+    "quote": "Finding Early User Churn Points with Roblox Funnel Analysis｜株式会社moze",
+    "url": "https://note.com/moze_inc/n/n22e86d352913?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hello! I'm Yokoi, CEO of moze Inc. Aiming to \"spark a Roblox ecosystem explosion in Japan,\" we have developed several Roblox games to date, including \"Find The Dragons Morphs,\" \"Troll Escalator Tower,\" and \"My Stickers.\"",
+    "url": "https://note.com/moze_inc/n/n22e86d352913?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "moze Inc. is a cutting-edge domestic Roblox studio with the vision of \"birthing the Roblox ecosystem from Japan.\" In addition to in-house development of virtual spaces and digital items, we provide one-stop services ranging from corporate planning and proposals to development and user acquisition support.",
+    "url": "https://note.com/moze_inc/n/n22e86d352913?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Address: 2F, THE SHORE Nihonbashi Kayabacho, 1-2 Nihonbashi Hakozaki-cho, Chuo-ku, Tokyo",
+    "url": "https://note.com/moze_inc/n/n22e86d352913?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I started sending DMs directly to companies in my hometown of Osaka. At first, I sent 50 messages and got zero replies. I was on the verge of giving up.",
+    "url": "https://note.com/crop_photograph/n/n86da351a30e6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "To commemorate the 2nd anniversary of the membership 'O-Two no Jibusuki', we will hold the Jibusuki Culture Festival in Nishi-Ogikubo, Tokyo!",
+    "url": "https://note.com/ootsuu8376/n/nb023d44b1c8d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This was Funnel Designer® Eriko Shimosaka.",
+    "url": "https://note.com/erikos/n/nf6adc9a8cf63?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "「 ファネル 」とは？ | マーケティング用語集 — 「 ファネル 」とは？ | マーケティング用語集 シナジーマーケティング株式会社 | https://www.synergy-marketing.co.jp > glossary > funnel",
+    "url": "https://www.synergy-marketing.co.jp/glossary/funnel/",
+    "pass": 3
+   },
+   {
+    "quote": "ファネル （ Funnel ） - サンブリッジ — ファネル （ Funnel ） - サンブリッジ 株式会社サンブリッジ https://www.sunbridge.com > ... > ブログ > お役立ち情報",
+    "url": "https://www.sunbridge.com/blog/useful/funnel/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 funnel | Amazon広告やTikTok広告を中心に物販 ... — 株式会社 funnel | Amazon広告やTikTok広告を中心に物販 ... 株式会社funnel https://funnel-inc.jp",
+    "url": "https://funnel-inc.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ファンネル - 株式会社レッドコメット | 渋谷の総合広告 代理店 — ファンネル - 株式会社レッドコメット | 渋谷の総合広告 代理店 株式会社レッドコメット https://redcomet-ad.jp > service > funnel",
+    "url": "https://redcomet-ad.jp/service/funnel/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 funnel （東京都品川区）の紹介 - PRONIアイミツ — 株式会社 funnel （東京都品川区）の紹介 - PRONIアイミツ PRONIアイミツ https://imitsu.jp > pr-tokyo > ci-shinagawa-ku > supplier",
+    "url": "https://imitsu.jp/ct-listing-ad/pr-tokyo/ci-shinagawa-ku/supplier/50071",
+    "pass": 3
+   },
+   {
+    "quote": "Funnel だからできる商品開発から全体的な広告戦略サポート — Funnel だからできる商品開発から全体的な広告戦略サポート YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=DTQG0MKZjRg",
+    "pass": 3
+   },
+   {
+    "quote": "FUNNEL — FUNNEL funnelinc.tokyo https://funnelinc.tokyo",
+    "url": "https://funnelinc.tokyo/",
+    "pass": 3
+   },
+   {
+    "quote": "Funnels - Globalkitchen Japan — Funnels - Globalkitchen Japan Globalkitchen Japan https://www.globalkitchenjapan.com > ...",
+    "url": "https://www.globalkitchenjapan.com/collections/funnels?srsltid=AYCX9vKjvSJtl1j96MBdd1OCrfrMX-UUZWPH1JvPv_63jSg1OLF7evRZ",
+    "pass": 3
+   },
+   {
+    "quote": "OIL FUNNEL MADE IN JAPAN . STURDY SOLID METAL ... — OIL FUNNEL MADE IN JAPAN . STURDY SOLID METAL ... eBay https://www.ebay.com > itm",
+    "url": "https://www.ebay.com/itm/274836270085",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon.co.jp Best Sellers: The most popular items in Funnels — Amazon.co.jp Best Sellers: The most popular items in Funnels amazon.jp https://www.amazon.co.jp > kitchen",
+    "url": "https://www.amazon.co.jp/-/en/gp/bestsellers/kitchen/2249943051",
+    "pass": 3
+   },
+   {
+    "quote": "Funnel Cloud Descends Over Rural Fields In Japan's Niigata ... — Funnel Cloud Descends Over Rural Fields In Japan's Niigata ... Newsflare https://www.newsflare.com > news",
+    "url": "https://www.newsflare.com/video/911503/funnel-cloud-descends-over-rural-fields-in-japans-niigata-amid-severe-weather-alerts",
+    "pass": 3
+   },
+   {
+    "quote": "Funnel Case Studies | Success stories from Funnel customers — Funnel Case Studies | Success stories from Funnel customers Funnel https://funnel.io > all-case-studies",
+    "url": "https://funnel.io/all-case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Funnel Analysis Examples and Case Studies in 5 Industries — Funnel Analysis Examples and Case Studies in 5 Industries Amplitude https://amplitude.com > blog > funnel...",
+    "url": "https://amplitude.com/blog/funnel-analysis-in-five-industries",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing Funnel : 3 quick case studies to help you increase ... — Marketing Funnel : 3 quick case studies to help you increase ... MarketingSherpa https://marketingsherpa.com > article",
+    "url": "https://marketingsherpa.com/article/case-study/marketing-funnel",
+    "pass": 3
+   },
+   {
+    "quote": "A Transformative Funnel Analysis Case Study - Gunika Dhingra — A Transformative Funnel Analysis Case Study - Gunika Dhingra Medium https://12gunika.medium.com > a-tra...",
+    "url": "https://12gunika.medium.com/a-transformative-funnel-analysis-case-study-unleashing-conversion-magic-for-business-success-ee86af5a2a5b?source=rss-------1",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Website and Funnel Builder - Grow Your Branded ... — White Label Website and Funnel Builder - Grow Your Branded ... Simvoly https://simvoly.com > white-label-buil...",
+    "url": "https://simvoly.com/white-label-builder",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Funnels — White Label Funnels Funnel Vibe https://www.funnelvibe.com > white-l...",
+    "url": "https://www.funnelvibe.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Top 7 White Label Landing Page Builders Compared (2026) — Top 7 White Label Landing Page Builders Compared (2026) Perspective Funnels https://www.perspective.co > article > white-label-landing-...",
+    "url": "https://www.perspective.co/article/white-label-landing-page-builder",
+    "pass": 3
+   },
+   {
+    "quote": "The Smart Agency's Guide to White Label Funnel Builders — The Smart Agency's Guide to White Label Funnel Builders Convertri https://blog.convertri.com > white-lab...",
+    "url": "https://blog.convertri.com/white-label-funnel-builder/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Funnel Design | Sales Funnel Creation for Agencies — White Label Funnel Design | Sales Funnel Creation for Agencies clickx.io https://www.clickx.io > Agency",
+    "url": "https://www.clickx.io/white-label-funnel-design/",
+    "pass": 3
+   },
+   {
+    "quote": "Funnel Revenue 2024: $50M, $134M Raised - GetLatka — Funnel Revenue 2024: $50M, $134M Raised - GetLatka GetLatka https://getlatka.com > funnel",
+    "url": "https://getlatka.com/companies/funnel",
+    "pass": 3
+   },
+   {
+    "quote": "Funnel's Competitors, Revenue , Number of Employees ... — Funnel's Competitors, Revenue , Number of Employees ... Owler https://www.owler.com > funnel",
+    "url": "https://www.owler.com/company/funnel",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue - Funnel — Revenue - Funnel Funnel https://jobs.funnel.io > revenue",
+    "url": "https://jobs.funnel.io/departments/revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Funnel - 2026 Company Profile, Team, Funding & Competitors — Funnel - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/funnel/__0_6sMY6iR9fZx6MzBxQHZBU6FTptvILWPxRhQkAWDVU",
+    "pass": 3
+   },
+   {
+    "quote": "Funnel grows revenue 294% over three years, named to 2026 ... — Funnel grows revenue 294% over three years, named to 2026 ... Yahoo Finance https://finance.yahoo.com > articles",
+    "url": "https://finance.yahoo.com/small-business/articles/funnel-grows-revenue-294-over-122900158.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Finding Early User Churn Points with Roblox Funnel Analysis Finding Early User Churn Points with Roblox Funnel Analysis note https://note.com > ... > ゲーム開発",
+    "url": "https://note.com/moze_inc/n/n22e86d352913?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "From 3 to 12 monthly leads through Instagram funnel design From 3 to 12 monthly leads through Instagram funnel design note https://note.com > ビジネス > 収益化",
+    "url": "https://note.com/crop_photograph/n/n86da351a30e6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is a Marketing Funnel ? A Concept for Visualizing ... - note What is a Marketing Funnel ? A Concept for Visualizing ... - note note https://note.com > ビジネス > マーケティング",
+    "url": "https://note.com/miraikyoso/n/n0234c18236ca?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "3 Things to Consider Before ' Funnel Design' for Those Who ... 3 Things to Consider Before ' Funnel Design' for Those Who ... note https://note.com > ビジネス > 収益化",
+    "url": "https://note.com/ootsuu8376/n/nb023d44b1c8d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How to Review Your Funnel to Solve the Problem of Having ... How to Review Your Funnel to Solve the Problem of Having ... note https://note.com > ビジネス > マーケティング",
+    "url": "https://note.com/erikos/n/nf6adc9a8cf63?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Finding Early User Churn Points with Roblox Funnel Analysis｜株式会社moze",
+    "url": "https://note.com/moze_inc/n/n22e86d352913?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Finding Early User Churn Points with Roblox Funnel Analysis",
+    "url": "https://note.com/moze_inc/n/n22e86d352913?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hello! I'm Yokoi, CEO of moze Inc. Aiming to \"spark a Roblox ecosystem explosion in Japan,\" we have developed several Roblox games to date, including \"Find The Dragons Morphs,\" \"Troll Escalator Tower,\" and \"My Stickers.\"",
+    "url": "https://note.com/moze_inc/n/n22e86d352913?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Up until the previous article, we explained how to make people aware of your game and get them to click and play through thumbnails and icons (Attraction/Discovery). However, many developers hit a wall where, even after improving thumbnails and gathering users, \"for some reason, they leave immediately...\"",
+    "url": "https://note.com/moze_inc/n/n22e86d352913?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Before you rely on intuition and make updates like \"maybe the game is boring\" or \"they'll play more if I make new maps or pets,\" you need to stop and take a step back. By using the \"Funnels\" feature in Roblox Analytics, you can pinpoint the exact facts of \"where users dropped off.\"",
+    "url": "https://note.com/moze_inc/n/n22e86d352913?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, I will explain a highly reproducible method for finding churn points by utilizing this funnel analysis.",
+    "url": "https://note.com/moze_inc/n/n22e86d352913?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Damage of \"Early Churn\" as Seen from the Roblox Algorithm",
+    "url": "https://note.com/moze_inc/n/n22e86d352913?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Importance of D1 Retention and Session Time",
+    "url": "https://note.com/moze_inc/n/n22e86d352913?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "From 3 to 12 monthly leads through Instagram funnel design: The mechanism to turn followers into paid readers｜あおい＠カメラマン",
+    "url": "https://note.com/crop_photograph/n/n86da351a30e6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "From 3 to 12 monthly leads through Instagram funnel design: The mechanism to turn followers into paid readers",
+    "url": "https://note.com/crop_photograph/n/n86da351a30e6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I post on Instagram every day, but I don't get any inquiries.",
+    "url": "https://note.com/crop_photograph/n/n86da351a30e6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I hear that concern often. I was the same way when I first started out independently. Even if followers increase, it doesn't lead to business. The reason for that actually lies in your funnel design.",
+    "url": "https://note.com/crop_photograph/n/n86da351a30e6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, I will share everything about the \"Instagram → note → order\" funnel design that allowed me to consistently receive three or more paid orders per month from my 4,000 Instagram followers.",
+    "url": "https://note.com/crop_photograph/n/n86da351a30e6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Honestly, \"how to guide them to your profile\" and \"which note article to have them read\" are 100 times more important than your number of SNS followers.",
+    "url": "https://note.com/crop_photograph/n/n86da351a30e6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Instagram is your portfolio, note is your sales tool",
+    "url": "https://note.com/crop_photograph/n/n86da351a30e6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "First, you need to change your mindset.",
+    "url": "https://note.com/crop_photograph/n/n86da351a30e6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is a Marketing Funnel? A Concept for Visualizing the Buying Process and Improving the Precision of Measures｜未来共創コミュニティ",
+    "url": "https://note.com/miraikyoso/n/n0234c18236ca?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is a Marketing Funnel? A Concept for Visualizing the Buying Process and Improving the Precision of Measures",
+    "url": "https://note.com/miraikyoso/n/n0234c18236ca?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the field of marketing, there are both opinions that say \"we should organize our funnels\" and opinions that say \"funnels are outdated.\" In conclusion, while the concept itself is valid, there are limitations to using it in the traditional way.",
+    "url": "https://note.com/miraikyoso/n/n0234c18236ca?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, we will summarize and introduce the basics of marketing funnels, the differences from customer journeys, the latest frameworks, and practical usage methods in an easy-to-understand manner.",
+    "url": "https://note.com/miraikyoso/n/n0234c18236ca?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Basic Concept of Marketing Funnels",
+    "url": "https://note.com/miraikyoso/n/n0234c18236ca?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A marketing funnel is a framework that visualizes the process from when a consumer becomes aware of a product to when they make a purchase or take action, in the shape of a funnel where the number of people narrows from top to bottom.",
+    "url": "https://note.com/miraikyoso/n/n0234c18236ca?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The biggest advantage is the ability to measure customer drop-off points with numerical data, allowing for a shift from subjective discussions to concrete numerical issues such as \"from which phase to the next is the transition rate low?\"",
+    "url": "https://note.com/miraikyoso/n/n0234c18236ca?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Differences from Customer Journeys",
+    "url": "https://note.com/miraikyoso/n/n0234c18236ca?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "3 Things to Consider Before 'Funnel Design' for Those Who Want to Monetize on note｜おーつー@発信のメンタルコーチ｜note毎日更新",
+    "url": "https://note.com/ootsuu8376/n/nb023d44b1c8d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "3 Things to Consider Before 'Funnel Design' for Those Who Want to Monetize on note",
+    "url": "https://note.com/ootsuu8376/n/nb023d44b1c8d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "おーつー@発信のメンタルコーチ｜note毎日更新",
+    "url": "https://note.com/ootsuu8376/n/nb023d44b1c8d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Recently, as I read various people's notes, I often see the phrase",
+    "url": "https://note.com/ootsuu8376/n/nb023d44b1c8d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "“funnel design is important.”",
+    "url": "https://note.com/ootsuu8376/n/nb023d44b1c8d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "From free notes to paid notes",
+    "url": "https://note.com/ootsuu8376/n/nb023d44b1c8d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "From social media to an official LINE account",
+    "url": "https://note.com/ootsuu8376/n/nb023d44b1c8d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "From free content to services",
+    "url": "https://note.com/ootsuu8376/n/nb023d44b1c8d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How to Review Your Funnel to Solve the Problem of Having Great Products That Don't Sell｜下坂栄里子/ファネルデザインでビジネスを効率化",
+    "url": "https://note.com/erikos/n/nf6adc9a8cf63?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How to Review Your Funnel to Solve the Problem of Having Great Products That Don't Sell",
+    "url": "https://note.com/erikos/n/nf6adc9a8cf63?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "下坂栄里子/ファネルデザインでビジネスを効率化",
+    "url": "https://note.com/erikos/n/nf6adc9a8cf63?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "You have a product that should be selling, yet for some reason, it isn't—in reality, this is often not a problem with the product itself, but simply a case where the funnel (the customer journey) is not properly set up.",
+    "url": "https://note.com/erikos/n/nf6adc9a8cf63?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Recently, I ran a project offering to build funnels for free, and I received more inquiries than I expected, leading to a series of meetings. As I looked at various people's businesses, a common theme began to emerge.",
+    "url": "https://note.com/erikos/n/nf6adc9a8cf63?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The true identity of 'not selling' is leakage in the customer journey",
+    "url": "https://note.com/erikos/n/nf6adc9a8cf63?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In these meetings, I look at websites and products from the same perspective as the customer. When I do, the points where 'it's not selling because there is no funnel despite having a good product' or 'opportunities are being lost because the customer flow isn't smooth' become quite clear.",
+    "url": "https://note.com/erikos/n/nf6adc9a8cf63?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For example, if a customer who wants to sign a contract cannot have an invoice issued on the spot, their desire to purchase can cool down just from that. They end up thinking, 'I'll do it later.' A mechanism that doesn't let the peak of the 'I want to buy' feeling slip away is understated, but truly essential.",
+    "url": "https://note.com/erikos/n/nf6adc9a8cf63?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Funnel - X Funnel - X X https://x.com > funnel",
+    "url": "https://x.com/funnel",
+    "pass": 3
+   },
+   {
+    "quote": "THEY GOT ME CHASING STORMS!! | Funnel Runners - X THEY GOT ME CHASING STORMS!! | Funnel Runners - X X https://x.com > @_Jazzyguns",
+    "url": "https://x.com/_Jazzyguns/status/2090619496041947484",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Funnel - LinkedIn Funnel - LinkedIn LinkedIn https://www.linkedin.com > funnel-io",
+    "url": "https://www.linkedin.com/company/funnel-io",
+    "pass": 3
+   },
+   {
+    "quote": "Sales Funnel : Definition, Stages Template Sales Funnel : Definition, Stages Template LinkedIn https://business.linkedin.com > sell > s...",
+    "url": "https://business.linkedin.com/sell/resources/sales-terms/sales-funnel",
+    "pass": 3
+   },
+   {
+    "quote": "Funnel Leasing - LinkedIn Funnel Leasing - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/funnelleasing",
+    "pass": 3
+   },
+   {
+    "quote": "How to Create a Sales Funnel That Converts - LinkedIn How to Create a Sales Funnel That Converts - LinkedIn LinkedIn https://www.linkedin.com > marketing",
+    "url": "https://www.linkedin.com/top-content/marketing/marketing-funnel-improvement/how-to-create-a-sales-funnel-that-converts/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・本文）": [
+   {
+    "quote": "Sales Funnel: Definition, Stages Template | LinkedIn Sales Solutions",
+    "url": "https://business.linkedin.com/sell/resources/sales-terms/sales-funnel",
+    "pass": 3
+   },
+   {
+    "quote": "Sign into Sales Navigator",
+    "url": "https://business.linkedin.com/sell/resources/sales-terms/sales-funnel",
+    "pass": 3
+   },
+   {
+    "quote": "Sales Funnel: Definition, Stages & Template",
+    "url": "https://business.linkedin.com/sell/resources/sales-terms/sales-funnel",
+    "pass": 3
+   },
+   {
+    "quote": "Learn what a sales funnel is, the stages of a sales funnel, and how to build a sales funnel that successfully acquires and converts customers.",
+    "url": "https://business.linkedin.com/sell/resources/sales-terms/sales-funnel",
+    "pass": 3
+   },
+   {
+    "quote": "Start your free trial",
+    "url": "https://business.linkedin.com/sell/resources/sales-terms/sales-funnel",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "A website and a funnel are NOT the same thing ... - Facebook A website and a funnel are NOT the same thing ... - Facebook Facebook https://www.facebook.com > RussellBrunsonLIVE > posts",
+    "url": "https://www.facebook.com/RussellBrunsonLIVE/posts/a-website-and-a-funnel-are-not-the-same-thing-and-the-difference-quietly-costs-m/1595802815242008/",
+    "pass": 3
+   },
+   {
+    "quote": "Can I build a single funnel like the example? - Facebook Can I build a single funnel like the example? - Facebook Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/251145835476950/posts/1847729685818549/",
+    "pass": 3
+   },
+   {
+    "quote": "5: Configure Your Sales Funnel - Meta for Developers 5: Configure Your Sales Funnel - Meta for Developers Meta for Developers https://developers.facebook.com > 5-...",
+    "url": "https://developers.facebook.com/documentation/ads-commerce/conversions-api/conversion-leads-integration/crm-integration/5-configure-your-sales-funnel",
+    "pass": 3
+   },
+   {
+    "quote": "Funnel Design vs. Funnel Builder – What's the Best Approach ... Funnel Design vs. Funnel Builder – What's the Best Approach ... Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/251145835476950/posts/1652324878692365/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://funnel.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://funnel.io/solution-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://funnel.io/technology-partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://funnel.io/pricing-agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://funnel.io/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://funnel.io/all-case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://funnel.io/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://funnel.io/agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://funnel.io/partner-directory",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://funnel.io/blog",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://funnel.io/case-studies/parshipmeet-group",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://funnel.io/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://funnel.io/case-studies/van-de-velde-artefact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://funnel.io/power-digital-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://funnel.io/legal/solution-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://funnel.io/blog/how-marketing-agencies-can-improve-retainer-profitability-with-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://funnel.io/partner-directory/artefact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://funnel.io/case-studies/havas-media-group-france",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://funnel.io/case-studies/sparro",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://funnel.io/case-studies/journey-further-new",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://funnel.io/hubfs/Solution%20Partners/20250101%20-%20Partner%20Program%20Policies.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://funnel.io/hubfs/Solution%20Partners/20250101%20-%20Solution%20Partner%20General%20Terms%20and%20Conditions.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://funnel.io/hubfs/Branding/Logos/funnel-logo-square-white.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://funnel.io/hubfs/Branding/Logos/funnel-logo-square-green.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://funnel.io/hubfs/Icons/nav-brand-2024/customers.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://funnel.io/hubfs/Icons/nav-brand-2024/technology%20partners.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.hitachi-solutions.co.jp/digitalmarketing/sp/column/marketing-funnel_vol01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hubspot.jp/products/marketing/marketing-automation-information/marketing-funnel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.synergy-marketing.co.jp/glossary/funnel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sunbridge.com/blog/useful/funnel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://funnel-inc.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://redcomet-ad.jp/service/funnel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://imitsu.jp/ct-listing-ad/pr-tokyo/ci-shinagawa-ku/supplier/50071",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=DTQG0MKZjRg",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.globalkitchenjapan.com/collections/funnels?srsltid=AYCX9vKjvSJtl1j96MBdd1OCrfrMX-UUZWPH1JvPv_63jSg1OLF7evRZ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://funnelinc.tokyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ebay.com/itm/274836270085",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/-/en/gp/bestsellers/kitchen/2249943051",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://amplitude.com/blog/funnel-analysis-in-five-industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketingsherpa.com/article/case-study/marketing-funnel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vIs21UzmMJL89kV9FMr9B4B2y6waqMLUt0eMTzxP9VV10Jej1ct",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simvoly.com/white-label-builder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.funnelvibe.com/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.perspective.co/article/white-label-landing-page-builder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.convertri.com/white-label-funnel-builder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/funnel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/funnel",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jobs.funnel.io/departments/revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/funnel/__0_6sMY6iR9fZx6MzBxQHZBU6FTptvILWPxRhQkAWDVU",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/moze_inc/n/n22e86d352913?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/crop_photograph/n/n86da351a30e6?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/miraikyoso/n/n0234c18236ca?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/funnel",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/_Jazzyguns/status/2090619496041947484",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/funnel-io",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://business.linkedin.com/sell/resources/sales-terms/sales-funnel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/funnelleasing",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/top-content/marketing/marketing-funnel-improvement/how-to-create-a-sales-funnel-that-converts/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/RussellBrunsonLIVE/posts/a-website-and-a-funnel-are-not-the-same-thing-and-the-difference-quietly-costs-m/1595802815242008/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/251145835476950/posts/1847729685818549/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://developers.facebook.com/documentation/ads-commerce/conversions-api/conversion-leads-integration/crm-integration/5-configure-your-sales-funnel",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.facebook.com/groups/251145835476950/posts/1652324878692365/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/ootsuu8376/n/nb023d44b1c8d?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/erikos/n/nf6adc9a8cf63?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/funnel",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Funnel 日本 導入",
+   "results": [
+    "https://www.hitachi-solutions.co.jp/digitalmarketing/sp/column/marketing-funnel_vol01/",
+    "https://www.hubspot.jp/products/marketing/marketing-automation-information/marketing-funnel",
+    "https://www.synergy-marketing.co.jp/glossary/funnel/",
+    "https://www.sunbridge.com/blog/useful/funnel/",
+    "https://www.bluetec.co.jp/knowledgesuite/service/crm/article/what-is-funnel/",
+    "https://philipptarohiltl.com/how-to-use-clickfunnels-in-japan/",
+    "https://b2b.dentsu.jp/column/funnel",
+    "https://www.salesforce.com/jp/marketing/lead-generation-guide/what-is-marketing-funnel/",
+    "https://funnel-inc.jp/",
+    "https://www.soracom.jp/services/funnel/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Funnel 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://funnel-inc.jp/",
+    "https://redcomet-ad.jp/service/funnel/",
+    "https://imitsu.jp/ct-listing-ad/pr-tokyo/ci-shinagawa-ku/supplier/50071",
+    "https://www.youtube.com/watch?v=DTQG0MKZjRg",
+    "https://funnelinc.tokyo/",
+    "https://www.biz.ne.jp/corporation/67082/",
+    "https://funnel.jp/",
+    "https://better-idea.jp/blog/line/full-funnel/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Funnel Japan",
+   "results": [
+    "https://www.globalkitchenjapan.com/collections/funnels?srsltid=AYCX9vKjvSJtl1j96MBdd1OCrfrMX-UUZWPH1JvPv_63jSg1OLF7evRZ",
+    "https://funnelinc.tokyo/",
+    "https://www.ebay.com/itm/274836270085",
+    "https://www.amazon.co.jp/-/en/gp/bestsellers/kitchen/2249943051",
+    "https://www.newsflare.com/video/911503/funnel-cloud-descends-over-rural-fields-in-japans-niigata-amid-severe-weather-alerts",
+    "https://funnel.jp/",
+    "https://www.facebook.com/RussellBrunsonLIVE/videos/this-wasnt-just-about-launching-clickfunnels-in-japanit-was-about-finally-bringi/1973582843533426/",
+    "https://www.wordhippo.com/what-is/the/japanese-word-for-2f493f964e3a34f9ba40a0ac90d7416002683bce.html",
+    "https://grokipedia.com/page/giant_japanese_funnel_web_spider",
+    "https://www.globalkitchenjapan.com/collections/funnels"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Funnel manufacturing customer case study",
+   "results": [
+    "https://funnel.io/all-case-studies",
+    "https://amplitude.com/blog/funnel-analysis-in-five-industries",
+    "https://marketingsherpa.com/article/case-study/marketing-funnel",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vIs21UzmMJL89kV9FMr9B4B2y6waqMLUt0eMTzxP9VV10Jej1ct",
+    "https://12gunika.medium.com/a-transformative-funnel-analysis-case-study-unleashing-conversion-magic-for-business-success-ee86af5a2a5b?source=rss-------1",
+    "https://fullfunnel.substack.com/p/abm-case-study-10-discovery-calls",
+    "https://www.reddit.com/r/AskMarketing/comments/q3bv0x/case_study_which_funnel_stage_is_it/",
+    "https://altitudemarketing.com/blog/building-a-sales-funnel-in-b2b-manufacturing/",
+    "https://fastercapital.com/content/Funnel-case-studies--How-to-Get-Inspired-by-Real-Life-Examples-of-Successful-Funnel-Models.html",
+    "https://www.marketingsherpa.com/article/case-study/funnel-analysis"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Funnel white label OR reseller OR partner program",
+   "results": [
+    "https://simvoly.com/white-label-builder",
+    "https://www.funnelvibe.com/white-label",
+    "https://www.perspective.co/article/white-label-landing-page-builder",
+    "https://blog.convertri.com/white-label-funnel-builder/",
+    "https://www.clickx.io/white-label-funnel-design/",
+    "https://soffront.com/blog/white-label-crm-reseller-ways-get-sales-funnel-2/",
+    "https://heyflow.com/blog/funnel-builder-agencies/",
+    "https://sellful.com/",
+    "https://www.youtube.com/watch?v=FOh-sv4fDJI",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Funnel founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/funnel",
+    "https://www.owler.com/company/funnel",
+    "https://jobs.funnel.io/departments/revenue",
+    "https://tracxn.com/d/companies/funnel/__0_6sMY6iR9fZx6MzBxQHZBU6FTptvILWPxRhQkAWDVU",
+    "https://finance.yahoo.com/small-business/articles/funnel-grows-revenue-294-over-122900158.html",
+    "https://getlatka.com/companies/funnel-1",
+    "https://en.wikipedia.org/wiki/Funnel_(software)",
+    "https://forgeglobal.com/funnel_ipo/",
+    "https://www.youtube.com/watch?v=brLtc-j9_3E&vl=ja",
+    "https://pitchbook.com/profiles/company/162844-84"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Funnel",
+   "results": [
+    "https://note.com/john1989/n/nff70412137cf?hl=en",
+    "https://note.com/moze_inc/n/n22e86d352913?hl=en",
+    "https://note.com/crop_photograph/n/n86da351a30e6?hl=en",
+    "https://note.com/miraikyoso/n/n0234c18236ca?hl=en",
+    "https://note.com/jun_clickfunnels/n/nf67a8f34d881?hl=en",
+    "https://note.com/you_s_k/n/n7ab6857cc8d3?hl=en",
+    "https://note.com/uma_hokkaido/n/n4b8e8121ce44?hl=en",
+    "https://note.com/r_kasai32/n/n7995176135c7?hl=en",
+    "https://note.com/hamu/n/n385485b06e6f?hl=en",
+    "https://note.com/erikos/n/n4f551a6128c5?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Funnel",
+   "results": [
+    "https://x.com/karpathy/status/2109361546505966046",
+    "https://x.com/funnel",
+    "https://x.com/UGCwithtaylorr/status/1938306888090960333",
+    "https://x.com/_Jazzyguns/status/2090619496041947484",
+    "https://marketing.x.com/en_apac/success-stories/pepsi-blackpink-thailand-campaign-delivers-brand-love-and-full-funnel-growth",
+    "https://x.com/funneloftheweek",
+    "https://help.x.com/en/business-and-advertising/post-engager-targeting",
+    "https://business.x.com/en/resources/amer/holidays-on-x",
+    "https://x.com/NWSOmaha/status/2061580456340914347",
+    "https://x.com/usefunnel_sol"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Funnel",
+   "results": [
+    "https://www.linkedin.com/company/funnel-io",
+    "https://business.linkedin.com/sell/resources/sales-terms/sales-funnel",
+    "https://www.linkedin.com/company/funnelleasing",
+    "https://www.linkedin.com/top-content/marketing/marketing-funnel-improvement/how-to-create-a-sales-funnel-that-converts/",
+    "https://www.linkedin.com/pulse/death-funnel-colin-fleming-pkn1c",
+    "https://www.linkedin.com/products/funnel-io-funnel/",
+    "https://www.linkedin.com/business/sales/blog/management/sales-funnel-versus-marketing-funnel",
+    "https://www.linkedin.com/help/recruiter/answer/a451426",
+    "https://business.linkedin.com/advertise/resources/marketing-terms/stages-of-the-marketing-funnel",
+    "https://www.business.linkedin.com/sell/resources/sales-terms/sales-funnel"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Funnel",
+   "results": [
+    "https://www.facebook.com/RussellBrunsonLIVE/posts/a-website-and-a-funnel-are-not-the-same-thing-and-the-difference-quietly-costs-m/1595802815242008/",
+    "https://www.facebook.com/groups/251145835476950/posts/1847729685818549/",
+    "https://developers.facebook.com/documentation/ads-commerce/conversions-api/conversion-leads-integration/crm-integration/5-configure-your-sales-funnel",
+    "https://www.facebook.com/groups/251145835476950/posts/1652324878692365/",
+    "https://www.facebook.com/funnel.io/",
+    "https://www.facebook.com/funnelsoflove/",
+    "https://www.facebook.com/groups/251145835476950/posts/1179404509317740/",
+    "https://www.facebook.com/groups/251145835476950/posts/1301602500431273/",
+    "https://www.facebook.com/funnelbandct/",
+    "https://lite.facebook.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Funnel note 社長",
+   "results": [
+    "https://blog.edugate.jp/instagram-line-note-funnel-design/",
+    "https://help.funnel.io/en/collections/11649803-funnel-release-notes",
+    "https://note.com/ootsuu8376/n/nb023d44b1c8d?hl=en",
+    "https://note.com/erikos/n/nf6adc9a8cf63?hl=en",
+    "https://note.com/tag/%E3%83%95%E3%82%A1%E3%83%8D%E3%83%AB",
+    "https://www.youtube.com/watch?v=FVpsDrPSYYo",
+    "https://note.com/makesira_co/n/n8ff31010a76d",
+    "https://en.wikipedia.org/wiki/Funnel_(software)",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.com/sadaaki"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Funnel X 投稿",
+   "results": [
+    "https://funnel.io/all-data-sources/x-ads",
+    "https://x.com/funnel",
+    "https://www.youtube.com/watch?v=Nw3O2oH_92c",
+    "https://funnelxmedia.com/",
+    "https://login.funnelx.in/",
+    "https://www.youtube.com/watch?v=6GjjPuAjSS4",
+    "https://in.linkedin.com/in/funnelx",
+    "https://funnelfox.com/",
+    "https://www.funnelx.ai/",
+    "https://app.funnelx.ai/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像6件／外部39頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像6件／外部39頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像6件／外部39頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像6件／外部39頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像6件／外部39頁・検索12回）"
+ }
+}

@@ -1,0 +1,1016 @@
+{
+ "name": "Flagright",
+ "aliases": [],
+ "context": "旧営業リスト｜B2B Financial Infrastructure｜未接触",
+ "researched_at": "2026-11-10T17:14:20.473999+00:00",
+ "official_url": "https://flagright.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "4. Seed Round",
+    "value": "12-Mar-2025    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/491848-84",
+    "pass": 3
+   },
+   {
+    "label": "3. Seed Round",
+    "value": "28-Jun-2022    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/491848-84",
+    "pass": 3
+   },
+   {
+    "label": "Blu Venture Investors",
+    "value": "Venture Capital Minority",
+    "url": "https://pitchbook.com/profiles/company/491848-84",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Industry-leading compliance programs run on Flagright:",
+    "url": "https://www.flagright.com/",
+    "pass": 1
+   },
+   {
+    "quote": "For global enterprises, startups",
+    "url": "https://www.flagright.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Detect and prevent financial crime in real-time or post.",
+    "url": "https://www.flagright.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Flagright’s innovative pace has been impressive, but what really stands out is the level of control. The platform is",
+    "url": "https://www.flagright.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Turns your SOPs into production-ready AI agents in 20 minutes,",
+    "url": "https://www.flagright.com/",
+    "pass": 1
+   },
+   {
+    "quote": ", but the AI also helps make them more precise, giving us better insights and reducing unnecessary manual work. The automation has really",
+    "url": "https://www.flagright.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Detect and prevent financial crime in",
+    "url": "https://www.flagright.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Process millions of transactions daily with rules applied in milliseconds. Configure rules, run complex aggregations, and monitor by product, threshold, or risk profile.",
+    "url": "https://www.flagright.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically update customer risk using transaction activity, KYC data, and CRA signals. Upgrade or downgrade risk profiles in real time, removing manual reviews while keeping decisions fully explainable.",
+    "url": "https://www.flagright.com/",
+    "pass": 1
+   },
+   {
+    "quote": ", so every update moves through the right approval path before going live. Each version gets reviewed and documented, so when an audit comes in, the proof is just already there.”",
+    "url": "https://www.flagright.com/",
+    "pass": 1
+   },
+   {
+    "quote": "April Tabucan, Compliance Associate",
+    "url": "https://www.flagright.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Flagright’s platform strengthened the control we had over our compliance processes while keeping us agile. That has been crucial for meeting the regulator's expectations without slowing the business.”",
+    "url": "https://www.flagright.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Flagright has made our compliance program feel structured and scalable, not reactive… while letting us",
+    "url": "https://www.flagright.com/",
+    "pass": 1
+   },
+   {
+    "quote": "with clean rule separation and reporting that aligns with local data obligations… enabling faster reviews, clearer oversight, and a program we can run with confidence.”",
+    "url": "https://www.flagright.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Production data feed begins",
+    "url": "https://www.flagright.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Launch AML programs across jurisdictions out of the box, with global regulatory coverage and compliance-ready workflows.",
+    "url": "https://www.flagright.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“The support in answering questions, taking feature requests, & improving our current system is fantastic.”",
+    "url": "https://www.flagright.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Dedicated CSM with proactive optimization and guidance.",
+    "url": "https://www.flagright.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Guidance from experienced AML and compliance practitioners.",
+    "url": "https://www.flagright.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Replace legacy systems without the legacy timeline. Enterprise-grade from day one.",
+    "url": "https://www.flagright.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Flagright provides the AI operating system for financial crime compliance, while Flagright partners make it better by bringing expertise, point capabilities, and consulting knowledge.",
+    "url": "https://www.flagright.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Get onboarding support, demos, and partnership training.",
+    "url": "https://www.flagright.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Work with a trusted compliance infrastructure provider",
+    "url": "https://www.flagright.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "your product with Flagright",
+    "url": "https://www.flagright.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Data providers and SaaS platforms",
+    "url": "https://www.flagright.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Extend your product capabilities by integrating with Flagright's AI operating system for financial crime.",
+    "url": "https://www.flagright.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Jurisdictions in production",
+    "url": "https://www.flagright.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Transactions processed monthly",
+    "url": "https://www.flagright.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Powering Precision in Betterment’s Fraud Program",
+    "url": "https://www.flagright.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Before Flagright, compliance reviews relied on SQL queries, which offered a degree of versatility, but the team wanted to future-proof operations for the pace of real-time payments. When Flagright came onboard, Banked’s immediate goal in implementing detection logic was to establish a broad baseline that could cover all essential compliance scenarios.",
+    "url": "https://www.flagright.com/case-study/meeting-regulatory-standards-at-real-time-speed",
+    "pass": 1
+   },
+   {
+    "quote": "From the outset, new scenarios were benchmarked against the FCA’s published examples of good and poor practice, ensuring every rule demonstrated clear dynamic detection capability. The shift in approach was evident right away: SQL queries were no longer needed, and the compliance team gained the speed and autonomy to refine detection logic on the same day. McCloud recalls,",
+    "url": "https://www.flagright.com/case-study/meeting-regulatory-standards-at-real-time-speed",
+    "pass": 1
+   },
+   {
+    "quote": "“If I built rules and the output was not quite what I expected, I had simulations and shadow testing to rely on without affecting production.”",
+    "url": "https://www.flagright.com/case-study/meeting-regulatory-standards-at-real-time-speed",
+    "pass": 1
+   },
+   {
+    "quote": "against self-built or automated samples of users and transactions has proved to be a valuable safety net, allowing the team to experiment without risk. McCloud says the balance between adaptability and stability means the compliance framework can adjust quickly while remaining consistent in performance.",
+    "url": "https://www.flagright.com/case-study/meeting-regulatory-standards-at-real-time-speed",
+    "pass": 1
+   },
+   {
+    "quote": "With these capabilities in place, Banked has built a monitoring framework that is proportionate, effective, and ready for scrutiny. The FCA is known for showing up without notice, whether as part of a routine review or in response to a complaint, and can request detailed evidence of controls at any time.",
+    "url": "https://www.flagright.com/case-study/meeting-regulatory-standards-at-real-time-speed",
+    "pass": 1
+   },
+   {
+    "quote": "Banked operates as if that call could come tomorrow. Every process is documented, every rule change is logged, and every detection scenario can be reproduced on demand. With Flagright, audit trails, live monitoring, and",
+    "url": "https://www.flagright.com/case-study/meeting-regulatory-standards-at-real-time-speed",
+    "pass": 1
+   },
+   {
+    "quote": "Powering Precision in Betterment’s Fraud Program",
+    "url": "https://www.flagright.com/case-study/meeting-regulatory-standards-at-real-time-speed",
+    "pass": 1
+   },
+   {
+    "quote": "Powering precision in",
+    "url": "https://www.flagright.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Betterment’s fraud program",
+    "url": "https://www.flagright.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "“Flagright’s innovative pace has been impressive, but what really stands out is the level of control.",
+    "url": "https://www.flagright.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Tailored onboarding, immediate returns",
+    "url": "https://www.flagright.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Flagright’s enterprise-grade availability enables real-time compliance at scale",
+    "url": "https://www.flagright.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "The support in answering questions, taking feature requests, and improving our current system is fantastic.",
+    "url": "https://www.flagright.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "“The ability to configure rules without relying on engineering support has been a big win. The product is really designed in a way that allows users, regardless of experience or skill level, to navigate it with minimal training required. We are",
+    "url": "https://www.flagright.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Their flexibility, speed, and partnership approach allow us to build toward long-term alignment.\"",
+    "url": "https://www.flagright.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Financial Crime Prevention Head",
+    "url": "https://www.flagright.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "\"I really appreciate the extremely modular API of Flagright, which is built to handle a large variety of use cases and can manage lots of complexity. The strong and responsive team at Flagright, with strong technical aptitude, is another great aspect. They're",
+    "url": "https://www.flagright.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "very open to feedback, always looking to improve",
+    "url": "https://www.flagright.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": ". Helpful tool to help during the project including knowledge base article for guidance.”",
+    "url": "https://www.flagright.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": ". Flagright’s innovative pace has been impressive, but what really stands out is the level of control. The platform is powerful and sophisticated, yet accessible.”",
+    "url": "https://www.flagright.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": ". Compliance in monitoring over 14 million customers. The biggest improvement from our previous AML system is the ability to score transactions and apply custom rules for monitoring. This has not only made our processes more efficient but has also helped us stay ahead of compliance requirements with greater confidence.”",
+    "url": "https://www.flagright.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": ". Their support throughout the process has been exceptional.\"",
+    "url": "https://www.flagright.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "The support in answering questions, taking feature requests, and improving our current system is fantastic",
+    "url": "https://www.flagright.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "stand out in a space where such flexibility is uncommon among compliance solutions providers.\"",
+    "url": "https://www.flagright.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "“Flagright pairs the risk scoring engine with the workflow builder, so every update moves through the right approval path before going live. Each version gets reviewed and documented, so when an audit comes in, the proof is just already there.”",
+    "url": "https://www.flagright.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "“We had a very short project delivery schedule and Flagright pulled out all the stops to help. The dedicated customer success teamwasvery impressive -",
+    "url": "https://www.flagright.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "attention to problem solving and offering solutions",
+    "url": "https://www.flagright.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "really helped us get our production environment live within the short lead time.”",
+    "url": "https://www.flagright.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "“By integrating Flagright’s AI-native compliance platform, we have enhanced our fraud detection and AML monitoring capabilities. This allows us to proactively identify and mitigate risks, ensuring a safe and secure environment for our customers while upholding the",
+    "url": "https://www.flagright.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "What I love about the product is how they bring",
+    "url": "https://www.flagright.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "“The implementation of Flagright's AI-driven solution in our compliance transaction monitoring system has significantly improved both efficiency and accuracy in handling alerts.",
+    "url": "https://www.flagright.com/customers",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Automated case narrative generation",
+    "url": "https://www.flagright.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Move fast and stay compliant. Flagright grows with you from seed to IPO.",
+    "url": "https://www.flagright.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Generate recurring revenue through partnerships",
+    "url": "https://www.flagright.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Support customer acquisition and market growth.",
+    "url": "https://www.flagright.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Drive revenue through",
+    "url": "https://www.flagright.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "With these capabilities in place, Banked has built a monitoring framework that is proportionate, effective, and ready for scrutiny. The FCA is known for showing up without notice, whether as part of a routine review or in response to a complaint, and can request detailed evidence of controls at any time.",
+    "url": "https://www.flagright.com/case-study/meeting-regulatory-standards-at-real-time-speed",
+    "pass": 1
+   },
+   {
+    "quote": "Reduction in time spent on narrative creation",
+    "url": "https://www.flagright.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "on writing case narratives",
+    "url": "https://www.flagright.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Accuracy on case narratives",
+    "url": "https://www.flagright.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "With the AI, we have almost completely eliminated the time spent creating narratives",
+    "url": "https://www.flagright.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Reduction in time spent on narrative creation",
+    "url": "https://www.flagright.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "With the AI, we have almost completely eliminated the time spent creating narratives",
+    "url": "https://www.flagright.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Financial crime moves fast. Every transaction, approval, and data point carries risk, and in a highly regulated industry, the margin for error is minimal, making it imperative for payment technology companies to demand—and have—more than just software. Senior leaders in AML and fraud operations at B4B Payments shared how listening to customer needs led to a major success story within weeks.",
+    "url": "https://www.flagright.com/case-study/b4b-payments-tailored-onboarding-immediate-returns",
+    "pass": 1
+   },
+   {
+    "quote": "Betterment serves more than a million customers, each with a different financial story. Some sign up on their phones during a commute. Others arrive with decades of work history and retirement assets. From a risk perspective, those users behave very differently, and the controls around them must reflect that reality.",
+    "url": "https://www.flagright.com/case-study/powering-precision-in-betterments-fraud-program",
+    "pass": 1
+   },
+   {
+    "quote": "By connecting risk scoring directly to workflow approvals, governance became part of the operating model rather than an afterthought. The team can experiment safely, validate outcomes with confidence, and maintain a clean audit trail without adding manual overhead. This has reduced release anxiety while making the risk program more responsive to new fraud patterns.",
+    "url": "https://www.flagright.com/case-study/powering-precision-in-betterments-fraud-program",
+    "pass": 1
+   },
+   {
+    "quote": "Cost transparency issues further complicated operations. Essential functionality including data downloads and compliance dashboards carried additional fees beyond core subscription costs.",
+    "url": "https://www.flagright.com/case-study/how-hitpay-customised-their-compliance-framework-without-vendor-support",
+    "pass": 1
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/491848-84",
+    "pass": 3
+   },
+   {
+    "quote": "Flagright has 53 total employees.",
+    "url": "https://pitchbook.com/profiles/company/491848-84",
+    "pass": 3
+   },
+   {
+    "quote": "What is Flagright’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/491848-84",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Flagright is",
+    "url": "https://pitchbook.com/profiles/company/491848-84",
+    "pass": 3
+   },
+   {
+    "quote": "Flagright - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "url": "https://www.cbinsights.com/company/flagright",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Reseller partnerships",
+    "url": "https://www.flagright.com/partners",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by 100+ leading fintechs & banks worldwide",
+    "url": "https://www.flagright.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Built by operators who lived the pain. Backed by the funds that pick category",
+    "url": "https://www.flagright.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "winners. Trusted by compliance teams in 35+ countries.",
+    "url": "https://www.flagright.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Six months after launch, Flagright was serving customers across three continents. Today, Flagright is trusted by financial institutions in 35+ countries worldwide.",
+    "url": "https://www.flagright.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading financial institutions globally",
+    "url": "https://www.flagright.com/industry/payment-gateway-and-psps",
+    "pass": 1
+   },
+   {
+    "quote": "Betterment Case Study: Scaling Fraud Detection with Flagright",
+    "url": "https://www.flagright.com/case-study/powering-precision-in-betterments-fraud-program",
+    "pass": 1
+   },
+   {
+    "quote": "出典: Flagright - Ziina Case Study 事例2：Sciopay（英国の決済機関） Sciopayの事例は、Flagrightの導入スピードを象徴しています",
+    "url": "https://skywork.ai/skypage/ja/ai-aml-compliance/1985185147679744000",
+    "pass": 3
+   },
+   {
+    "quote": "Founded by Baran Ozkan and Madhu Nadig, Flagright brings transaction monitoring, watchlist screening, risk scoring, case management, AI-assisted investigations and governance tools into one platform. The company says its software is used by more than 100 fintechs and banks across more than 30 countries, giving the Series A a stronger operating base than many early-stage AI funding announcements.",
+    "url": "https://www.ceotodaymagazine.com/2026/06/lagright-12-5m-series-a-us-expansion/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "is regulated in 12 APAC jurisdictions: Australia, China, Hong Kong, Indonesia, India, Japan, Korea, Malaysia, Singapore, Thailand, the Philippines, and Vietnam; powering SMEs with a single platform for online, point-of-sale and B2B payments. They support over 50 payment methods in 150+ currencies, offering a",
+    "url": "https://www.flagright.com/case-study/how-hitpay-customised-their-compliance-framework-without-vendor-support",
+    "pass": 1
+   },
+   {
+    "quote": "ケーススタディで見る導入効果 理論だけでなく、実際の導入事例はFlagrightの実力を何よりも雄弁に物語ります",
+    "url": "https://skywork.ai/skypage/ja/ai-aml-compliance/1985185147679744000",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "The modern standard in fincrime compliance | Flagright — Revolutionize your AML compliance with Flagright's AI-native platform — globally recognized as a leading AML compliance solution. Monitor, screen, and report in real-time.",
+    "url": "https://www.flagright.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Flagright徹底解説：AI時代のAMLコンプライアンス最前線 — Nov 4, 2025 · AI時代のAMLコンプライアンスでの最先端ソリューション、Flagrightを徹底解説。ノーコードでの導入やリアルタイム監視機能で、効果的なリスク管理を実現します。",
+    "url": "https://skywork.ai/skypage/ja/ai-aml-compliance/1985185147679744000",
+    "pass": 3
+   },
+   {
+    "quote": "Company | Flagright — Learn more about Flagright: key milestones, announcements, team, values, and our ongoing mission to advance AML technology.",
+    "url": "https://www.flagright.com/category/company",
+    "pass": 3
+   },
+   {
+    "quote": "Flagright Raises $12.5m Series A — CEO Today — Jun 19, 2026 · Flagright raises $12.5m to expand financial crime compliance technology in the US, putting explainability and oversight under scrutiny.",
+    "url": "https://www.ceotodaymagazine.com/2026/06/lagright-12-5m-series-a-us-expansion/",
+    "pass": 3
+   },
+   {
+    "quote": "「買いたいものがないから作った」CEOの叫びが17億円調達へ——AIコンプ... — Jun 18, 2026 · 「買いたいものがないから作った」CEOの叫びが17億円調達へ——AIコンプライアンス新時代の旗手、Flagright 金融犯罪対策のAIプラットフォーム「Flagright」がシリーズAで17.2億円を調達。金融機関の80%がAI投資を計画する中、少数精鋭チームで35カ国100社超の顧客を獲得し、成長を加速させる ...",
+    "url": "https://www.studioglobal.ai/ja/discover/answers/what-are-the-key-details-of-flagright-s-6a333e23c8fd6d815c3d5bb3",
+    "pass": 3
+   },
+   {
+    "quote": "Flagright — 1 day ago · Flagright ... Flagright",
+    "url": "https://info.flagright.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Baran Ozkan, Co-founder and CEO, Flagright — Jan 16, 2026 · Baran Ozkan discusses building Flagright, an AI-native AML platform helping financial institutions detect financial crime in real-time across 30+ countries.",
+    "url": "https://www.fintechprofile.com/baran-ozkan-co-founder-and-ceo-flagright/",
+    "pass": 3
+   },
+   {
+    "quote": "Flagright - 2026 Company Profile, Team, Funding, Competitors ...Flagright 2026 Company Profile: Valuation, Funding ...Flagright - Products, Competitors, Financials, Employees ...Flagright company profile: firmographics, business model ...Flagright - Overview, News & Similar companies | ZoomInfo.comFlagright Revenue & Market Share 2026 | Financial ServicesFlagright Revenue 2024: $4.1M Est. - getlat",
+    "url": "https://tracxn.com/d/companies/flagright/__Z0elOVu7TxL_Nnagi68IfDeKlygr2DQ6VSQDfMP8LCc",
+    "pass": 3
+   },
+   {
+    "quote": "Flagright 2026 Company Profile: Valuation, Funding ...Flagright - Products, Competitors, Financials, Employees ...Flagright company profile: firmographics, business model ...Flagright - Overview, News & Similar companies | ZoomInfo.comFlagright Revenue & Market Share 2026 | Financial ServicesFlagright Revenue 2024: $4.1M Est. - getlatka.com — The current revenue for Flagright is . How much funding",
+    "url": "https://pitchbook.com/profiles/company/491848-84",
+    "pass": 3
+   },
+   {
+    "quote": "Flagright - Products, Competitors, Financials, Employees ... — Flagright Frequently Asked Questions (FAQ) When was Flagright founded? Flagright was founded in 2021. Where is Flagright's headquarters? Flagright's headquarters is located at Torstrasse 201, Berlin. What is Flagright's latest funding round? Flagright's latest funding round is Series A. How much did Flagright raise? Flagright raised a ",
+    "url": "https://www.cbinsights.com/company/flagright",
+    "pass": 3
+   },
+   {
+    "quote": "Flagright company profile: firmographics, business model ... — Flagright company profile: Financial Crime Compliance Software (AML), San Francisco, founded 2021, 51–100 employees. Firmographics, revenue lines, pricing tiers ...",
+    "url": "https://akta.pro/company-profiles/00002jo/flagright",
+    "pass": 3
+   },
+   {
+    "quote": "Flagright - Overview, News & Similar companies | ZoomInfo.com — View Flagright (www.flagright.com) location in Berlin, Germany , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+    "url": "https://www.zoominfo.com/c/flagright/561498575",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/491848-84",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Flagright - LinkedIn Flagright is the AI operating system for financial crime compliance, trusted by more than 100 fintechs and banks across 30+ countries. Our unified, risk-based platform centralizes transaction ...",
+    "url": "https://www.linkedin.com/company/flagright",
+    "pass": 3
+   },
+   {
+    "quote": "Flagright - LinkedIn Flagright | Flagright is the AI operating system for financial crime compliance, helping financial institutions run modern compliance programs from a unified, risk-based platform. Flagright brings ...",
+    "url": "https://www.linkedin.com/products/flagright/",
+    "pass": 3
+   },
+   {
+    "quote": "Flagright - LinkedIn Flagright is the AI operating system for financial crime compliance, trusted by more than 100 fintechs and banks across 30+ countries. Our unified, risk-based platform centralizes transaction monitoring, watchlist screening, investigations, and governance so financial institutions can run modern compliance programs on a single audit-ready system, deploying in as little as two ",
+    "url": "https://sg.linkedin.com/company/flagright",
+    "pass": 3
+   },
+   {
+    "quote": "Joseph Ibitola - Flagright | LinkedIn Joined Flagright as its first business hire and built the early marketing foundation across positioning, content, SEO, social, launches and demand generation. Translated complex AML and fraud capabilities into clear narratives for financial institutions and helped establish Flagright’s early market presence.",
+    "url": "https://sg.linkedin.com/in/josephibitola",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Fintech - Flagright offers a centralised, modular AI native ... Nov 18, 2025 · Fintech - Flagright offers a centralised, modular AI native transaction monitoring and AML compliance solutions platform that plugs into financial systems with just six API endpoints. The result is a streamlined solution that covers transaction monitoring, risk scoring, case management, AML screening, and a suite of AI ",
+    "url": "https://www.facebook.com/FintechBaltic/photos/flagright-offers-a-centralised-modular-ai-native-transaction-monitoring-and-aml-/1794809568133274/",
+    "pass": 3
+   },
+   {
+    "quote": "Meet Flagright — One of the Top Startups to ... - Facebook Jan 31, 2025 · Meet Flagright — One of the Top Startups to Watch in 2025! From disruptive tech to a visionary approach, we've selected 22 startups driving the future of financial services. Catch the full list...",
+    "url": "https://www.facebook.com/FinAiNews/posts/-meet-flagright-one-of-the-top-startups-to-watch-in-2025from-disruptive-tech-to-/1134699565332596/",
+    "pass": 3
+   },
+   {
+    "quote": "Banks are using AI agents to catch compliance drift sooner ... Sep 17, 2026 · Banks are using AI agents to catch compliance drift sooner. To that end Chris Phillips, director of financial crime industry engagement at Flagright, recently told PYMNTS: “The technology is mature. Out of the box, if done right, if applied correctly, i Banks are using AI agents to catch compliance drift sooner.",
+    "url": "https://www.facebook.com/pymnts/videos/banks-are-using-ai-agents-to-catch-compliance-drift-sooner-to-that-end-chris-phi/1126142333311840/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Post by Flagright on X: Oct 13, 2025 · Flagright (@FlagrightHQ). 42 views. 🔗 Sifted 250 - Europe's Fastest-Growing Startups 2025 sifted.eu 💬0 📊42 📎",
+    "url": "https://x.com/FlagrightHQ/status/1977668611348275491",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.flagright.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flagright.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flagright.com/case-study/meeting-regulatory-standards-at-real-time-speed",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flagright.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flagright.com/case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flagright.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jobs.ashbyhq.com/flagright.com",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.flagright.com/case-study/achieving-real-time-precision-insights-from-sciopays-7-day-integration",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flagright.com/case-study/b4b-payments-tailored-onboarding-immediate-returns",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flagright.com/industry/payment-gateway-and-psps",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flagright.com/case-study/powering-precision-in-betterments-fraud-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flagright.com/case-study/how-hitpay-customised-their-compliance-framework-without-vendor-support",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flagright.com/case-study/how-flagrights-enterprise-grade-availability-enables-real-time-compliance-at-zero",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/6501980675e203b46e89f4ad/67a22e78b5a9f58cbd00e31f_Saqib%20ScioPay%20testimonial.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.flagright.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skywork.ai/skypage/ja/ai-aml-compliance/1985185147679744000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flagright.com/category/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ceotodaymagazine.com/2026/06/lagright-12-5m-series-a-us-expansion/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai2.fromation.co.jp/archives/30533",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flagright.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flagright.com/category/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://info.flagright.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ceotodaymagazine.com/2026/06/lagright-12-5m-series-a-us-expansion/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/flagright/__Z0elOVu7TxL_Nnagi68IfDeKlygr2DQ6VSQDfMP8LCc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/491848-84",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/flagright",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://akta.pro/company-profiles/00002jo/flagright",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/flagright",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/flagright/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sg.linkedin.com/company/flagright",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sg.linkedin.com/in/josephibitola",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/FintechBaltic/photos/flagright-offers-a-centralised-modular-ai-native-transaction-monitoring-and-aml-/1794809568133274/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/FinAiNews/posts/-meet-flagright-one-of-the-top-startups-to-watch-in-2025from-disruptive-tech-to-/1134699565332596/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pymnts/videos/banks-are-using-ai-agents-to-catch-compliance-drift-sooner-to-that-end-chris-phi/1126142333311840/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/FlagrightHQ/status/1977668611348275491",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Flagright 日本 導入",
+   "results": [
+    "https://www.flagright.com/",
+    "https://skywork.ai/skypage/ja/ai-aml-compliance/1985185147679744000",
+    "https://www.flagright.com/category/company",
+    "https://www.ceotodaymagazine.com/2026/06/lagright-12-5m-series-a-us-expansion/",
+    "https://www.studioglobal.ai/ja/discover/answers/what-are-the-key-details-of-flagright-s-6a333e23c8fd6d815c3d5bb3",
+    "https://car.watch.impress.co.jp/docs/news/2153268.html",
+    "https://carmag.hatenablog.com/entry/honda_passport/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Flagright 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://chigai-hikaku.com/?p=36920",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Flagright Japan",
+   "results": [
+    "https://www.flagright.com/",
+    "https://www.flagright.com/category/company",
+    "https://info.flagright.com/",
+    "https://www.ceotodaymagazine.com/2026/06/lagright-12-5m-series-a-us-expansion/",
+    "https://www.fintechprofile.com/baran-ozkan-co-founder-and-ceo-flagright/",
+    "https://www.linkedin.com/company/flagright",
+    "https://www.studioglobal.ai/ja/discover/answers/what-are-the-key-details-of-flagright-s-6a333e23c8fd6d815c3d5bb3"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Flagright manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Flagright white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://partners.spectrum.com/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://skyswitch.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Flagright founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/flagright/__Z0elOVu7TxL_Nnagi68IfDeKlygr2DQ6VSQDfMP8LCc",
+    "https://pitchbook.com/profiles/company/491848-84",
+    "https://www.cbinsights.com/company/flagright",
+    "https://akta.pro/company-profiles/00002jo/flagright",
+    "https://www.zoominfo.com/c/flagright/561498575",
+    "https://geo.sig.ai/brands/flagright",
+    "https://getlatka.com/companies/flagright.com"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Flagright",
+   "results": [
+    "https://note.com/tk_days/n/nb158e5e91304?hl=en",
+    "https://note.com/flag_ship/n/n46ff6a97ca64?hl=en",
+    "https://note.com/chikama_teppei/n/nd5b65fb5e514",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/sakura____note/n/n301cfa280552",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/rottary/n/n6beb4f310cf4"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Flagright",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Flagright",
+   "results": [
+    "https://www.linkedin.com/company/flagright",
+    "https://www.linkedin.com/products/flagright/",
+    "https://sg.linkedin.com/company/flagright",
+    "https://sg.linkedin.com/in/josephibitola",
+    "https://uk.linkedin.com/in/internationalrecruiter",
+    "https://www.linkedin.com/in/madhugnadig",
+    "https://www.linkedin.com/posts/ai-world-organization_artificialintelligence-fintech-fintechfunding-activity-7472882445650903040-YQRJ"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Flagright",
+   "results": [
+    "https://www.facebook.com/FintechBaltic/photos/flagright-offers-a-centralised-modular-ai-native-transaction-monitoring-and-aml-/1794809568133274/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/FinAiNews/posts/-meet-flagright-one-of-the-top-startups-to-watch-in-2025from-disruptive-tech-to-/1134699565332596/",
+    "https://www.facebook.com/pymnts/videos/banks-are-using-ai-agents-to-catch-compliance-drift-sooner-to-that-end-chris-phi/1126142333311840/",
+    "https://www.facebook.com/BankAutomationNews/posts/-meet-flagright-one-of-the-top-startups-to-watch-in-2025from-disruptive-tech-to-/1134699565332596/",
+    "https://www.facebook.com/DavidAlvareeezy2/videos/thats-a-red-flagright/1722708788817056/",
+    "https://business.facebook.com/groups/2507219012880785/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Flagright note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.fintechprofile.com/baran-ozkan-co-founder-and-ceo-flagright/",
+    "https://www.insideorg.com/org/flagright",
+    "https://www.flagright.com/category/company",
+    "https://www.fintechprofile.com/madhu-nadig-co-founder-cto-flagright/",
+    "https://www.linkedin.com/in/madhugnadig",
+    "https://www.crunchbase.com/person/baran-özkan"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Flagright X 投稿",
+   "results": [
+    "https://x.com/FlagrightHQ/status/1977668611348275491",
+    "https://www.flagright.com/",
+    "https://linktr.ee/flagrightAML",
+    "https://console.flagright.com/",
+    "https://info.flagright.com/",
+    "https://docs.flagright.com/api-reference/introduction/getting-started",
+    "https://www.cxgn.cn/flagright"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部28頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部28頁・検索12回）"
+ }
+}

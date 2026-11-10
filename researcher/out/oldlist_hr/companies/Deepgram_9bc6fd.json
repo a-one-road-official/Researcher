@@ -1,0 +1,1874 @@
+{
+ "name": "Deepgram",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-10T17:25:35.912748+00:00",
+ "official_url": "https://deepgram.com",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "ARR",
+    "value": "$100M",
+    "url": "https://getlatka.com/companies/deepgram",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$168.9M",
+    "url": "https://getlatka.com/companies/deepgram",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Enterprise voice AI: STT, TTS & agent APIs | Deepgram",
+    "url": "https://deepgram.com/",
+    "pass": 1
+   },
+   {
+    "quote": "years of audio processed",
+    "url": "https://deepgram.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-grade reliability",
+    "url": "https://deepgram.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Build a web page that reads one script aloud in five Deepgram Flux TTS voices so I can compare them side by side. Use batch POST /v2/speak.",
+    "url": "https://deepgram.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We've relied on Deepgram's speech recognition to power real-time voice interactions at scale, so the ability to deploy TTS built on the same enterprise runtime is incredibly compelling. Having STT and TTS under one roof eliminates the integration gaps and latency issues that come with piecing together separate tools.",
+    "url": "https://deepgram.com/",
+    "pass": 1
+   },
+   {
+    "quote": "At Cloudflare, we understand what it takes to deliver real-time experiences at global scale. Flux represents the next evolution, purpose-built conversational speech recognition that eliminates the complexity and latency bottlenecks of traditional pipelines.",
+    "url": "https://deepgram.com/",
+    "pass": 1
+   },
+   {
+    "quote": "NiCE supports some of the world's most complex contact center environments, where voice AI quality has to hold up across long, unpredictable customer interactions. Deepgram Flux TTS gives us a text-to-speech model designed for nuance, with the ability to carry context and consistency across a multi-turn conversation.",
+    "url": "https://deepgram.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing built for real ROI",
+    "url": "https://deepgram.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-paid credits for the year, redeemed against actual usage.",
+    "url": "https://deepgram.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Product Marketing Manager",
+    "url": "https://deepgram.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Top voice AI providers compared for 2026",
+    "url": "https://deepgram.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Product Marketing Manager, Customer Marketing",
+    "url": "https://deepgram.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Customer program | Deepgram",
+    "url": "https://deepgram.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Product, Cresta",
+    "url": "https://deepgram.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "VP of Product Management, Twilio",
+    "url": "https://deepgram.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "At Cloudflare, we understand what it takes to deliver real-time experiences at global scale. Flux represents the next evolution, purpose-built conversational speech recognition that eliminates the complexity and latency bottlenecks of traditional pipelines.",
+    "url": "https://deepgram.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "NICE supports some of the world's most complex contact center environments, where voice AI quality has to hold up across long, unpredictable customer interactions. Deepgram Flux TTS gives us a text-to-speech model designed for nuance, with the ability to carry context and consistency across a multi-turn conversation.",
+    "url": "https://deepgram.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Podcast advertising attribution",
+    "url": "https://deepgram.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Private / Sovereign AI Infrastructure",
+    "url": "https://deepgram.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Productivity, sales and customer success software",
+    "url": "https://deepgram.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Sales Onboarding and Readiness Vertical",
+    "url": "https://deepgram.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Podsights partners with Deepgram to pinpoint podcast advertising attribution",
+    "url": "https://deepgram.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Fast and accurate video captions enhance customer experience",
+    "url": "https://deepgram.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Wistia elevates video marketing with Deepgram’s transcription in AWS marketplace",
+    "url": "https://deepgram.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Voximplant + Deepgram: Production Ready Voice AI for Real World Calls",
+    "url": "https://deepgram.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Build fast, natural voice experiences with enterprise-ready APIs for speech-to-text, text-to-speech, and voice agents.",
+    "url": "https://deepgram.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Partner program | Deepgram",
+    "url": "https://deepgram.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Design and deploy production voice AI for your clients, with partner engineering support from proof of concept through launch.",
+    "url": "https://deepgram.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Bring your portfolio to Deepgram for credits that scale as they build, hands-on technical onboarding, and a graduation path into the full partner program.",
+    "url": "https://deepgram.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "The proof is already in production",
+    "url": "https://deepgram.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "years of audio processed",
+    "url": "https://deepgram.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Which Deepgram products can partners integrate or resell?",
+    "url": "https://deepgram.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Partners can integrate or resell the full platform, including Deepgram Nova-3 for speech-to-text, Deepgram Flux STT for conversational speech recognition, Deepgram Flux TTS for text-to-speech, and Deepgram Voice Agent API. Most partners start with one product and expand from there.",
+    "url": "https://deepgram.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Deepgram runs as a managed cloud API, in your private cloud, or fully self-hosted. Partners choose per deployment, so the same integration serves clients with very different security and residency requirements.",
+    "url": "https://deepgram.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "What co-marketing support does Deepgram provide?",
+    "url": "https://deepgram.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Active partners get co-branded content, joint webinars, case studies, and launch amplification when integrations go live. The partner marketing team plans this with you each quarter, so co-marketing runs on a plan rather than one-off requests.",
+    "url": "https://deepgram.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Build fast, natural voice experiences with enterprise-ready APIs for speech-to-text, text-to-speech, and voice agents.",
+    "url": "https://deepgram.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Build production-ready conversational AI",
+    "url": "https://deepgram.com/solutions/conversational-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Most text-to-speech reads one line at a time. Deepgram Flux TTS reads the whole conversation, carrying tone and context across turns, handling interruptions cleanly. It responds in as low as 80ms and maintains expressiveness.",
+    "url": "https://deepgram.com/solutions/conversational-ai",
+    "pass": 1
+   },
+   {
+    "quote": "The Deepgram Voice Agent API runs speech-to-text, text-to-speech, and an LLM as one connected system, with turn-taking, end-of-thought prediction, and barge-in built in. Ship a working agent instead of wiring three services together.",
+    "url": "https://deepgram.com/solutions/conversational-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise deployment on your terms",
+    "url": "https://deepgram.com/solutions/conversational-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Your infrastructure, your rules. Run Deepgram in private cloud, self-hosted, or hybrid, and keep the security, residency, and control requirements you already have.",
+    "url": "https://deepgram.com/solutions/conversational-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Deepgram provides the voice AI infrastructure conversational AI runs on: streaming speech-to-text and natural text-to-speech with turn-taking, end-of-thought detection, and barge-in built in.",
+    "url": "https://deepgram.com/solutions/conversational-ai",
+    "pass": 1
+   },
+   {
+    "quote": "The Deepgram Voice Agent API is a single API that orchestrates speech-to-text, text-to-speech, and a large language model into a working voice agent, with turn-taking, end-of-thought prediction, and barge-in built in, so teams can ship an agent without stitching services together themselves.",
+    "url": "https://deepgram.com/solutions/conversational-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Can Deepgram be deployed in a private cloud or self-hosted?",
+    "url": "https://deepgram.com/solutions/conversational-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Deepgram offers private cloud, self-hosted, and hybrid deployment options for teams with security, residency, or control requirements that rule out shared multi-tenant services.",
+    "url": "https://deepgram.com/solutions/conversational-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Cloud, VPC, or on-prem",
+    "url": "https://deepgram.com/solutions/speech-analytics",
+    "pass": 1
+   },
+   {
+    "quote": "Powering analytics platforms in production",
+    "url": "https://deepgram.com/solutions/speech-analytics",
+    "pass": 1
+   },
+   {
+    "quote": "Your QA product is only as good as the transcript under it. Abby Connect's team reviews 5x more calls per day and cuts per-call audit time 30% on 100,000+ calls a month. Redaction strips PII before transcripts reach reviewers, and 2X Solutions AI runs it as a TCPA control.",
+    "url": "https://deepgram.com/solutions/speech-analytics",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time coaching needs transcripts that arrive while the customer is still talking. Streaming transcription runs under 300ms, fast enough to prompt an agent in the moment. Deepgram Flux STT adds turn detection when your product needs to know the caller actually stopped speaking.",
+    "url": "https://deepgram.com/solutions/speech-analytics",
+    "pass": 1
+   },
+   {
+    "quote": "Every analytics metric that splits agent from customer depends on diarization. Batch Diarization V2 was preferred 3.3x over the previous model in human evaluation, and cut median confusion error rate by roughly 80% on contact center audio. Talk-time ratios and per-speaker sentiment inherit that.",
+    "url": "https://deepgram.com/solutions/speech-analytics",
+    "pass": 1
+   },
+   {
+    "quote": "Some customers can’t let call recordings leave their environment. Run the same models self-hosted, in your VPC, or on-prem, and resell them as part of your platform. Syllable moved to self-hosted and reported error rates and connection resets falling to zero.",
+    "url": "https://deepgram.com/solutions/speech-analytics",
+    "pass": 1
+   },
+   {
+    "quote": "Deepgram Nova-3 and Batch Diarization V2, measured on the audio contact centers actually produce.",
+    "url": "https://deepgram.com/solutions/speech-analytics",
+    "pass": 1
+   },
+   {
+    "quote": "Terminology recognition gain from keyterm prompting",
+    "url": "https://deepgram.com/solutions/speech-analytics",
+    "pass": 1
+   },
+   {
+    "quote": "From transcription accuracy under real-world conditions to structured insights and predictable infrastructure costs, Deepgram gives speech analytics teams the foundation to build on and the numbers to back it up.",
+    "url": "https://deepgram.com/solutions/speech-analytics",
+    "pass": 1
+   },
+   {
+    "quote": "Pass up to 100 product names, competitor names, and acronyms per request, no retraining.",
+    "url": "https://deepgram.com/solutions/speech-analytics",
+    "pass": 1
+   },
+   {
+    "quote": "Process years of stored recordings in batch. AWL had a decade of recordings sitting unprocessed in S3.",
+    "url": "https://deepgram.com/solutions/speech-analytics",
+    "pass": 1
+   },
+   {
+    "quote": "A speech analytics API is the speech-to-text and intelligence layer underneath a speech analytics product. Deepgram transcribes the call, labels the speakers, and returns sentiment, intent, topics, and entities as structured fields. You build the dashboards, scoring, and workflows your customers buy.",
+    "url": "https://deepgram.com/solutions/speech-analytics",
+    "pass": 1
+   },
+   {
+    "quote": "Conversation intelligence platforms are finished products sold to contact centers. Deepgram is the layer underneath them. If you're buying a dashboard, buy one of theirs. If you're building the dashboard, or embedding analytics in a product you sell, start here.",
+    "url": "https://deepgram.com/solutions/speech-analytics",
+    "pass": 1
+   },
+   {
+    "quote": "Every downstream metric inherits its errors. A missed product name breaks keyword tracking, a mislabeled speaker corrupts talk-time ratios, and a garbled sentence skews sentiment. Named-entity recognition alone drops 20 to 27 F1 points on transcribed speech versus clean text.",
+    "url": "https://deepgram.com/solutions/speech-analytics",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Build a Python app that streams LLM replies into Deepgram Flux TTS over the /v2/speak WebSocket and plays audio as it arrives. Voice: flux-hannah-en.",
+    "url": "https://deepgram.com/",
+    "pass": 1
+   },
+   {
+    "quote": "NiCE supports some of the world's most complex contact center environments, where voice AI quality has to hold up across long, unpredictable customer interactions. Deepgram Flux TTS gives us a text-to-speech model designed for nuance, with the ability to carry context and consistency across a multi-turn conversation.",
+    "url": "https://deepgram.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From solo builders and seed-stage startups to the Fortune 500, teams building voice AI build with Deepgram.",
+    "url": "https://deepgram.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "NICE supports some of the world's most complex contact center environments, where voice AI quality has to hold up across long, unpredictable customer interactions. Deepgram Flux TTS gives us a text-to-speech model designed for nuance, with the ability to carry context and consistency across a multi-turn conversation.",
+    "url": "https://deepgram.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Operations Software",
+    "url": "https://deepgram.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Telnyx Powers Real-Time Voice AI at Carrier Scale with Deepgram Flux",
+    "url": "https://deepgram.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Most text-to-speech reads one line at a time. Deepgram Flux TTS reads the whole conversation, carrying tone and context across turns, handling interruptions cleanly. It responds in as low as 80ms and maintains expressiveness.",
+    "url": "https://deepgram.com/solutions/conversational-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time coaching needs transcripts that arrive while the customer is still talking. Streaming transcription runs under 300ms, fast enough to prompt an agent in the moment. Deepgram Flux STT adds turn detection when your product needs to know the caller actually stopped speaking.",
+    "url": "https://deepgram.com/solutions/speech-analytics",
+    "pass": 1
+   },
+   {
+    "quote": "Some customers can’t let call recordings leave their environment. Run the same models self-hosted, in your VPC, or on-prem, and resell them as part of your platform. Syllable moved to self-hosted and reported error rates and connection resets falling to zero.",
+    "url": "https://deepgram.com/solutions/speech-analytics",
+    "pass": 1
+   },
+   {
+    "quote": "Route all calls through one Deepgram voice layer. Guests get loyalty help, FAQs, and complaint intake. Employees get benefits, onboarding, and policy answers. Franchisees get IT, supply chain, and compliance support. Context-aware routing escalates the calls that need a person.",
+    "url": "https://deepgram.com/solutions/restaurants",
+    "pass": 1
+   },
+   {
+    "quote": "Deepgram Flux TTS starts speaking in as little as 80ms, pronounces hard food words, and carries tone across every turn of the order.",
+    "url": "https://deepgram.com/solutions/restaurants",
+    "pass": 1
+   },
+   {
+    "quote": "It compounds in a number of places: labor hours reclaimed on menial and repeatable tasks, revenue lift from consistent upselling, faster speed of service, faster onboarding, less managerial workload, and better employee retention because the unrewarding work is gone. Every interaction also becomes measurable data instead of a guess.",
+    "url": "https://deepgram.com/solutions/restaurants",
+    "pass": 1
+   },
+   {
+    "quote": "Can voice AI replace employees in restaurants?",
+    "url": "https://deepgram.com/solutions/restaurants",
+    "pass": 1
+   },
+   {
+    "quote": "Per 1,000 characters of input text, across Flux TTS, Aura-2, and Aura-1. Rates differ by model and plan, and the table above carries the current figures.",
+    "url": "https://deepgram.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Voice AI era and acquisition",
+    "url": "https://deepgram.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Deepgram reaches 100 employees",
+    "url": "https://deepgram.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Shadi brings over 20 years of go-to-market experience building and scaling Software- and Infrastructure-as-a-service organizations. He designed and led the customer engagement experience at a number of voice technology companies including BlueJeans (now part of Verizon), and Voicea (now part of Cisco).",
+    "url": "https://deepgram.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Chris was Deepgram's first go-to-market hire, bringing 10 years of GTM and sales experience from companies including TechValidate (acquired by SurveyMonkey, now Momentive.ai). He has helped scale the Deepgram team and customer base to where it is today.",
+    "url": "https://deepgram.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Technology that understands us as naturally as we understand each other. That’s the future we’re building. Come be part of it.",
+    "url": "https://deepgram.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Drag horizontally, or use the left and right arrow keys, to scroll through the images.",
+    "url": "https://deepgram.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Telnyx Powers Real-Time Voice AI at Carrier Scale with Deepgram Flux",
+    "url": "https://deepgram.com/customers/podsights",
+    "pass": 1
+   },
+   {
+    "quote": "IPOの兆しと海外公開情報から読み解く日本での成長性とリスク",
+    "url": "https://genbajapan.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "日本のpipeline・ARR、direct・partner sales、team buildを担うSales Country Leaderの現行求人を確認",
+    "url": "https://genbajapan.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "IPO時期、日本法人設立、日本向け正式launchは公式に確認できない",
+    "url": "https://genbajapan.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場のpipeline、ARR、partner、teamを担うroleを確認",
+    "url": "https://genbajapan.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "日本向けにSales Country Leaderが日本のpipeline・ARR、direct enterprise、SI・ISV・hyperscaler co-sell、strategic deal、AE採用・coachingを担うを採用し、local pipelineと顧客接点を広げる",
+    "url": "https://genbajapan.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "Sales Country Leaderが日本のpipeline・ARR、direct enterprise、SI・ISV・hyperscaler co-sell、strategic deal、AE採用・coachingを担う",
+    "url": "https://genbajapan.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "求人はstrong demandを示すが、日本顧客数・ARR・pipelineは非公開",
+    "url": "https://genbajapan.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "日本のARR、qualified pipeline、平均ACV、sales cycle、renewalは公開情報で確認できない",
+    "url": "https://genbajapan.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "Japan qualified pipeline、paid customer、production volume、renewal、ARRの分母は？",
+    "url": "https://genbajapan.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "pipelineとARR growthを担う",
+    "url": "https://genbajapan.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "orchestration、carrier、handoff、operations",
+    "url": "https://genbajapan.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgram Revenue 2026: $100M ARR, $1.3B Valuation",
+    "url": "https://getlatka.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, valuation & funding",
+    "url": "https://getlatka.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgram revenue & ARR",
+    "url": "https://getlatka.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgram's annual recurring revenue passed $100M in August 2026 (Press & News).",
+    "url": "https://getlatka.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "All 5 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgram competes most directly with Speechmatics, AssemblyAI and Spext. It is the largest of the four by revenue.",
+    "url": "https://getlatka.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgram CEO, founders & employees",
+    "url": "https://getlatka.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "Scott Stephenson founded Deepgram in 2015 with Adam Sypniewski and Noah Shutty and runs it as CEO. Deepgram has 310 employees (April 2026, LeadIQ estimate), up from 164 a year earlier.",
+    "url": "https://getlatka.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "What is Deepgram's revenue?",
+    "url": "https://getlatka.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgram's annual recurring revenue passed",
+    "url": "https://getlatka.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Deepgram have?",
+    "url": "https://getlatka.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "The company acquired OfOne, an AI platform for the food service industry, to provide automation solutions specialized for specific sites such as drive-thrus.",
+    "url": "https://note.com/gen_ai/n/n1dfb8f27e153?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "6. Revenue and Revenue Growth",
+    "url": "https://note.com/gen_ai/n/n1dfb8f27e153?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "). According to third-party estimates (getlatka.com), its annual revenue for 2024 was approximately $21.8M.",
+    "url": "https://note.com/gen_ai/n/n1dfb8f27e153?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Over the four years from 2021 to 2024, the total annual audio usage on the platform has expanded by 3.3 times. Currently, it boasts a community of over 200,000 developers, has processed over 50,000 years' worth of audio in total, and has transcribed over 1 trillion words, continuing to see revenue growth tied to usage volume.",
+    "url": "https://note.com/gen_ai/n/n1dfb8f27e153?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Through the acquisition of OfOne, it has optimized its solutions to a level that guarantees completion rates in 'extremely difficult environments' such as drive-thrus.",
+    "url": "https://note.com/gen_ai/n/n1dfb8f27e153?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Standard TTS systems begin audio generation only after processing the entire input, meaning the latency before the first audio output increases as the response gets longer. Flux TTS generates text and audio in parallel, starting audio streaming as soon as the first token arrives. This reportedly keeps the latency before the first audio output under 200 milliseconds, regardless of response length.",
+    "url": "https://note.com/ai_driven/n/n83ba2ea06e9d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 3. Flux STT listens, the LLM considers the response, and Flux TTS speaks—Deepgram organizes this three-stage structure within a single connection, timing it throughout. Focusing on the origin of the arrows reveals the path through which context is passed to the next turn. Source: Created by the author based on the official Deepgram blog.",
+    "url": "https://note.com/ai_driven/n/n83ba2ea06e9d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 4. Comparison of models ranking high in naturalness win rate. Note that Flux TTS is on par with Cartesia Sonic 3.5, standing in first place by a narrow margin. Source: Official Deepgram product page.",
+    "url": "https://note.com/ai_driven/n/n83ba2ea06e9d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\\begin{array}{|l|l|l|}",
+    "url": "https://note.com/ai_driven/n/n83ba2ea06e9d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 6. We have organized the four states—Idle, Generating, Finalizing, and Closing—and the events that fire at each boundary. Note the behavior indicated by the loop arrow: \"a new turn is held until the next Speak.\" Source: Official Deepgram documentation \"The Speech Lifecycle and State Machine\"",
+    "url": "https://note.com/ai_driven/n/n83ba2ea06e9d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\\begin{array}{|l|l|l|l|}",
+    "url": "https://note.com/ai_driven/n/n83ba2ea06e9d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\\begin{array}{|l|l|l|l|l|l|}",
+    "url": "https://note.com/ai_driven/n/n83ba2ea06e9d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "— Source for ARR, customer case studies, and CEO comments.",
+    "url": "https://note.com/ai_driven/n/n83ba2ea06e9d?hl=en",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Voximplant + Deepgram: Production Ready Voice AI for Real World Calls",
+    "url": "https://deepgram.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Podsights | Deepgram",
+    "url": "https://deepgram.com/customers/podsights",
+    "pass": 1
+   },
+   {
+    "quote": "Download the case study",
+    "url": "https://deepgram.com/customers/podsights",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Sharpen achieves 90%+ accurate, real-time contact center transcription with Deepgram | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/deepgram/case-study/sharpen-elevates-the-contact-center-customer-experience-with-deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Sharpen achieves 90%+ accurate, real-time contact center transcription with Deepgram",
+    "url": "https://www.casestudies.com/company/deepgram/case-study/sharpen-elevates-the-contact-center-customer-experience-with-deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "Open case study document...",
+    "url": "https://www.casestudies.com/company/deepgram/case-study/sharpen-elevates-the-contact-center-customer-experience-with-deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/deepgram/case-study/sharpen-elevates-the-contact-center-customer-experience-with-deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "The biggest challenges that have hindered the widespread adoption of voice AI have been processing delays caused by combining multiple technologies and the constraints of systems that cannot understand the 'pauses' in natural conversation. Deepgram has fundamentally solved these complex technical challenges through the method of vertical integration of infrastructure.",
+    "url": "https://note.com/gen_ai/n/n1dfb8f27e153?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Analyzes customer voices in real-time to suggest response scripts to operators or automate the creation of post-call summaries.",
+    "url": "https://note.com/gen_ai/n/n1dfb8f27e153?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the \"Generative AI Case Study Collection,\" we provide detailed explanations of successful American generative AI startups under the series title \"Winning Horses.\" We publish articles at a pace of two per week. Each week, one article is free, and the other is a paid article. (This article is a free article.)",
+    "url": "https://note.com/gen_ai/n/n1dfb8f27e153?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "With the individual membership, you can access the articles only, while the corporate membership provides access to articles, detailed explanatory slides, and a company list (spreadsheet). For more details on the Generative AI Case Study Collection's Winning Horses series, including the differences between the individual and corporate memberships, please click here.",
+    "url": "https://note.com/gen_ai/n/n1dfb8f27e153?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The claim of \"remembering conversations\" is a cliché used by many TTS vendors. What sets Flux TTS apart is that it has disclosed three specific architectural choices made to achieve this without sacrificing real-time speed.",
+    "url": "https://note.com/ai_driven/n/n83ba2ea06e9d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "🔧 Supporting manufacturing through IoT contract development × subsidy utilization",
+    "url": "https://note.com/ai_driven/n/n83ba2ea06e9d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Labor-saving subsidies, manufacturing subsidies, etc.",
+    "url": "https://note.com/ai_driven/n/n83ba2ea06e9d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgram is a company that provides an advanced voice AI platform for developers, offering APIs that cover Speech-to-Text, Text-to-Speech, and complete Speech-to-Speech Voice Agents. Over 200,000 developers use Deepgram to build voice AI products and features, and it is trusted by world-leading enterprises and startups.",
+    "url": "https://note.com/vueloo_blog/n/n09346c90cd3f?hl=en",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Partner program | Deepgram",
+    "url": "https://deepgram.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers and distributors",
+    "url": "https://deepgram.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Bring your portfolio to Deepgram for credits that scale as they build, hands-on technical onboarding, and a graduation path into the full partner program.",
+    "url": "https://deepgram.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Defense, federal civilian, intelligence, and state and local agencies. Each deployed the way its mission actually requires.",
+    "url": "https://deepgram.com/solutions/government",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies serving residents directly run high call volume with small teams. Deepgram handles real-time transcription, translation, and call QA for 311, permitting, benefits, and public safety lines, in the cloud, or on-prem where policy requires it.",
+    "url": "https://deepgram.com/solutions/government",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, and that is the path most agencies take. Pilot in GovCloud to prove accuracy on real audio, then deploy the identical models inside your boundary or air-gapped for production. There is no re-integration, because the API surface is the same.",
+    "url": "https://deepgram.com/solutions/government",
+    "pass": 1
+   },
+   {
+    "quote": "“What Podsights does is provide what’s called ‘digital style,’ or pixel-based attribution for the podcast media space. Effectively, what we’re doing is calculating the metrics that brands and agencies can use to create an accurate, apples-to-apples comparison between podcast media and all other forms of advertising.”",
+    "url": "https://deepgram.com/customers/podsights",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": ". We'll send an email when a role opens that matches your profile.",
+    "url": "https://deepgram.com/careers",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本語を含む30以上の言語および方言に対応",
+    "url": "https://yanai-ke.com/deepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "また、日本語特有の「漢字・ひらがな・カタカナ」の混在や、外来語の独特な発音パターンに対しても、音節のリズムを正確に追跡することで、高い変換精度を実現しています",
+    "url": "https://yanai-ke.com/deepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "これは、一つの音声ストリームの中で複数の言語（例えば日本語と英語）が切り替わった場合でも、自動的にそれを検知して正確に文字起こしを継続できる機能です",
+    "url": "https://yanai-ke.com/deepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "40種類以上の高品質な英語ボイスに加え、日本語を含む多言語サポートが拡大されており、ブランドイメージに合わせた適切な声の選択が可能です",
+    "url": "https://yanai-ke.com/deepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4月のアップデートにより、Aura-2は日本語を正式にサポートしました",
+    "url": "https://yanai-ke.com/deepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語はピッチアクセントや敬語表現、さらには数詞の読み方が文脈によって変化するなど、合成難易度の高い言語です",
+    "url": "https://yanai-ke.com/deepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "Aura-2は、日本語独自の音韻構造に適応しており、漢字・カナ・アルファベットが混在するテキストでもスムーズなフレージングと適切な強弱をつけて発話します",
+    "url": "https://yanai-ke.com/deepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの機能は、現在主に英語でフルサポートされていますが、日本語についても順次展開が進んでおり、大規模なカスタマーセンターでの通話分析や、マーケティング調査の自動化に革命をもたらしています",
+    "url": "https://yanai-ke.com/deepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "特に日本語対応が強化されたことで、日本国内の企業にとっても、グローバル基準の高性能な音声AIを容易に導入できる環境が整いました",
+    "url": "https://yanai-ke.com/deepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "15. Deepgram Learn - Aura-2 Now Speaks Dutch, French, German, Italian, and Japanese,",
+    "url": "https://yanai-ke.com/deepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "https://deepgram.com/learn/aura-2-now-speaks-dutch-french-german-italian-japanese",
+    "url": "https://yanai-ke.com/deepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "【完全ガイド】NotebookLM動画解説を日本語で！アニメ風など8種のスタイルも徹底解説",
+    "url": "https://yanai-ke.com/deepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "【完全ガイド】GoogleのAIツールNotebookLMの動画解説機能を徹底解説！待望の日本語対応、アニメ風など8種のビジュアルスタイル、使い方を初心者にも分かりやすく紹介",
+    "url": "https://yanai-ke.com/deepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "音声AIの実用化が加速：Deepgramの大型調達と日本企業への示唆 – グローバルAIメディア",
+    "url": "https://global-ai.jp/20260114-aideepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "自律型AI時代における倫理とガバナンスの行方――グローバルな警告と日本企業への示唆",
+    "url": "https://global-ai.jp/20260114-aideepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "自律型AIの台頭が迫る「組織の権限モデル」の再設計と日本企業への示唆",
+    "url": "https://global-ai.jp/20260114-aideepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "「AI賛美へのブーイング」から学ぶ、日本企業におけるAI導入と組織の温度差",
+    "url": "https://global-ai.jp/20260114-aideepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "Uberの事例に学ぶ、AI投資の「踊り場」と日本企業が直面するROIの壁",
+    "url": "https://global-ai.jp/20260114-aideepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "「危険すぎるAI」の非公開化が意味するもの：制限付きAI時代に日本企業はどう備えるべきか",
+    "url": "https://global-ai.jp/20260114-aideepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "音声AIの実用化が加速：Deepgramの大型調達と日本企業への示唆",
+    "url": "https://global-ai.jp/20260114-aideepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、このニュースを起点に、テキストベースのLLMから「音声対話」へと広がるAIの最新潮流と、日本のビジネス環境における活用戦略について解説します",
+    "url": "https://global-ai.jp/20260114-aideepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "この世界的な音声AIの潮流は、日本のビジネス現場において特に重要な意味を持ちます",
+    "url": "https://global-ai.jp/20260114-aideepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "日本は深刻な労働力不足に直面しており、特にコールセンターや接客業務、高齢者介護の現場において、人間に代わる、あるいは人間を支援する音声インターフェースの需要が切迫しているからです",
+    "url": "https://global-ai.jp/20260114-aideepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、日本語は「同音異義語の多さ」や「文脈依存性」、「フィラー（「えーと」「あの」などの言い淀み）」の多さなど、技術的な難易度が高い言語です",
+    "url": "https://global-ai.jp/20260114-aideepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "また、日本の商習慣として、顧客対応における丁寧さや正確さが極めて重視されるため、グローバルモデルをそのまま適用するだけでは実用に耐えないケースも散見されます",
+    "url": "https://global-ai.jp/20260114-aideepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、日本企業が音声AIを導入する際は、単に「英語圏で流行っているツール」を導入するのではなく、日本語特有の話し言葉への対応力や、専門用語のチューニング（微調整）のしやすさを評価基準に置く必要があります",
+    "url": "https://global-ai.jp/20260114-aideepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の経営層やプロダクト担当者は、以下の点を意識して意思決定を行うべきです",
+    "url": "https://global-ai.jp/20260114-aideepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "AIが全てを完結させるのではなく、定型的な一次対応を高速な音声AIに任せ、複雑な感情労働を人間にエスカレーションする「協働モデル」が、日本の品質基準に適しています",
+    "url": "https://global-ai.jp/20260114-aideepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "【2024年10月最新】Deepgramの日本語対応とAPI活用法を徹底解説 | AI Beat",
+    "url": "https://ainow.jp/deepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgramの日本語対応状況とその精度",
+    "url": "https://ainow.jp/deepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年1月時点の情報をもとに、Deepgramの音声認識プラットフォームについて、その基本機能から日本語対応、APIの活用方法、実際の利用事例に至るまで、幅広く解説します",
+    "url": "https://ainow.jp/deepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "読者の皆様は、最新の技術背景と実際の導入事例を通じて、音声認識技術の進化や応用方法を理解し、サービス活用のヒントを得ることができます",
+    "url": "https://ainow.jp/deepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgramは、グローバルな利用を見据えた多言語対応を進める中で、特に日本語対応に注力しています",
+    "url": "https://ainow.jp/deepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語は、発音やイントネーションに豊富な特徴があり、多様なアクセントや方言が存在するため、音声認識技術にとって大きな挑戦とされています",
+    "url": "https://ainow.jp/deepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgramは、豊富な日本語データセットを活用し、モデルの精度向上に努めており、ビジネスや教育、公共機関のニーズに応じたシステム改善が進んでいます",
+    "url": "https://ainow.jp/deepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語の複雑な音韻体系に対応するこの技術は、",
+    "url": "https://ainow.jp/deepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "現在の日本語音声認識技術は、大幅な進化を遂げています",
+    "url": "https://ainow.jp/deepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "下記の表は、日本語と他言語における認識性能の比較を示しており、現状の技術水準を一目で理解することができます",
+    "url": "https://ainow.jp/deepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "表からも明らかなように、日本語認識には特有の調整点が存在しますが、今後の技術革新によりさらなる改善が期待されています",
+    "url": "https://ainow.jp/deepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語と比較して、英語やスペイン語など他の言語では、音韻体系や文法構造が比較的単純なため、音声認識の実装が容易なことが多いです",
+    "url": "https://ainow.jp/deepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、日本語はその特性上、音声認識システムには高度な文脈分析と複雑なパターン認識が求められます",
+    "url": "https://ainow.jp/deepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgramは、他言語で成功を収めた技術を応用しながら、特に日本語に最適化された処理アルゴリズムを開発",
+    "url": "https://ainow.jp/deepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "高度な日本語対応、柔軟なAPI導入、さらに話者分離や音声解析機能など、多彩な特性により幅広い分野で活用されています",
+    "url": "https://ainow.jp/deepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgramの日本進出可能性・営業としての魅力・企業研究 — Genba",
+    "url": "https://genbajapan.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "過去に日本市場向け公式求人などの動きを確認しましたが、現在は終了しています",
+    "url": "https://genbajapan.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "現行の「日本進出の兆しあり」には含めず、観測履歴として表示します",
+    "url": "https://genbajapan.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場でのニーズと3-5年の成長性の見立て",
+    "url": "https://genbajapan.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場でのニーズと3-5年の成長性の見立てを閉じる",
+    "url": "https://genbajapan.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "結論：大規模なdeveloper・customer基盤、Series C、Japan Country Leader採用は進出の強いsignal",
+    "url": "https://genbajapan.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "一方、日本法人・常設拠点・named customer・local deliveryは未確認で、求人を正式進出の証明とはせず、採用・lighthouse・専任podを観測する",
+    "url": "https://genbajapan.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "contact centerとconsumer serviceでAI agentが増えるほど、日本語のaccuracy、latency、human handoff、privacyがproduction条件になる",
+    "url": "https://genbajapan.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "Sales Country Leader (Japan)",
+    "url": "https://genbajapan.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "日本在住・日本担当者が0人という意味ではなく、本国法人との直接雇用やEOR等の人数も含まない",
+    "url": "https://genbajapan.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "IPOの兆しと海外公開情報から読み解く日本での成長性とリスク",
+    "url": "https://genbajapan.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "日本進出の兆しあり：現行の日本市場担当求人を確認",
+    "url": "https://genbajapan.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "日本のpipeline・ARR、direct・partner sales、team buildを担うSales Country Leaderの現行求人を確認",
+    "url": "https://genbajapan.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場の立ち上げ採用は確認できるが、日本法人・常設拠点は確認できない",
+    "url": "https://genbajapan.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "日本で働く担当者がいる場合を含む分類で、求人を日本法人設立・拠点開設・国内売上の証明とは分けて継続観測する",
+    "url": "https://genbajapan.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "IPO時期、日本法人設立、日本向け正式launchは公式に確認できない",
+    "url": "https://genbajapan.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Country Leader採用",
+    "url": "https://genbajapan.com/companies/deepgram",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "AI音声技術の革命児「Deepgram」完全解説ガイド：爆速・高精度の文字... — Jan 23, 2026 · AI音声プラットフォーム「Deepgram」を初心者向けに完全解説。 最新モデルNova-3による爆速・高精度な文字起こしや、日本語対応の音声合成Aura-2の特徴、OpenAI Whisperとの比較まで、これ一通でDeepgramのすべてがわかります。",
+    "url": "https://yanai-ke.com/deepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgramとは？料金・日本語対応・APIの使い方【2026年10月版】 — Feb 14, 2025 · Deepgram（ディープグラム）の音声認識APIを2026年10月の公式情報で解説。 Nova-3の料金（録音0.0043ドル/分〜）と200ドル無料クレジットの換算、日本語の指定方法、Python SDK v7とcurlの動くコード、同時接続数・リージョンの制限まで。",
+    "url": "https://www.issoh.co.jp/tech/details/5336/",
+    "pass": 3
+   },
+   {
+    "quote": "音声AIの実用化が加速：Deepgramの大型調達と日本企業への示唆 – グロ... — Jan 14, 2026 · 米国の音声AIプラットフォームであるDeepgramによる今回の大型調達と買収劇は、生成AIのトレンドが「テキスト処理」から、よりリアルタイム性の高い「マルチモーダル（多感覚）処理」へとシフトしていることを象徴しています。",
+    "url": "https://global-ai.jp/20260114-aideepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "【2024年10月最新】Deepgramの日本語対応とAPI活用法を徹底解説 — Oct 22, 2024 · AI Beat（エーアイビート）編集部です。 2025年1月時点の情報をもとに、Deepgramの音声認識プラットフォームについて、その基本機能から日本語対応、APIの活用方法、実際の利用事例に至るまで、幅広く解説します。 読者の皆様は、最新の",
+    "url": "https://ainow.jp/deepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "[導入編]高速・高精度な音声文字起こしが出来るという噂の「Deepgram... — Feb 9, 2024 · 高速・高精度なASR (自動音声認識)サービスを提供するDeepgramというサービスがあると噂を聞いたので試してみました。 Deepgramとは Deepgramは2015年に設立されたアメリカのスタートアップ企業です。",
+    "url": "https://zenn.dev/smartcamp/articles/8b24739ab8cba3",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise voice AI: STT, TTS & agent APIs | Deepgram — Power enterprise voice solutions with Deepgram’s Speech-to-Text, Text-to-Speech, and Voice Agent APIs. Real-time, accurate, and built for scale.",
+    "url": "https://deepgram.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese speech-to-text API | Fast & accurate transcription ... — Does Deepgram support Japanese speech-to-text? Yes. Deepgram supports automatic speech recognition (ASR) for Japanese audio. You can transcribe real-time or prerecorded audio by setting `language=ja` in your API request.",
+    "url": "https://deepgram.com/product/speech-to-text/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgramの日本進出可能性・営業としての魅力・企業研究 — Genba — Nov 2, 2026 · Deepgramはreal-time STT、TTS、turn-taking、Voice Agent APIをvoice-native stackで提供し、accuracy、latency、completion、human transfer、call costを改善する。 結論：大規模なdeveloper・customer基盤、Series C、Japan Country Leader採用は進出の強いsignal。 一方、日本法人・常設拠点・named customer・local deliveryは未確認で、求人を正式進出の証明とはせず、採用・lighthouse・専任podを観測する。",
+    "url": "https://genbajapan.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "IBM Japan Newsroom - ニュースリリース — Feb 25, 2026 · 本協業により、Deepgram社はIBM初の音声パートナーとなり、ユーザーが自然な音声でデジタル・エージェントと対話できる高度な音声認識機能などの企業の業務自動化や、対話型AI技術への高まる需要に応える音声AIテクノロジーを提供します。",
+    "url": "https://jp.newsroom.ibm.com/2026-02-25-deepgram-and-ibm-introduce-advanced-voice-capabilities-for-enterprise-ai",
+    "pass": 3
+   },
+   {
+    "quote": "About us | Voice AI | STT & TTS | Deepgram — Deepgram is transforming human-machine interaction with cutting-edge voice AI, including speech-to-text, text-to-speech, and audio intelligence.",
+    "url": "https://deepgram.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Sharpen | Deepgram — Discover how Deepgram's advanced ASR revolutionized transcription quality and speed with deep learning for Sharpen.",
+    "url": "https://deepgram.com/customers/sharpen",
+    "pass": 3
+   },
+   {
+    "quote": "Customer program | Deepgram — From solo builders and seed-stage startups to the Fortune 500, teams building voice AI build with Deepgram. Our voice capabilities powered by Deepgram APIs deliver the accuracy, low latency, and quality our customers need to build reliable, real-time voice agents.",
+    "url": "https://deepgram.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "CASE STUDY Sharpen Elevates the Contact Center Customer ... — Increasing Transcription Quality and Speed, Thanks to Deepgram del, and immediately noticed a significant improvement in transcription quality. Deepgram’s ability to auto-learn and facilitate the creati n of custom voice recognition models made the decision a no-brainer for Sharpen. “When we compared the",
+    "url": "https://offers.deepgram.com/hubfs/Sharpen+-+Customer+Case+Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgram Claude case study | Claude by Anthropic — Deepgram cut incident triage from days to minutes, with power users shipping 4–10x more durable code. Read the case study to see how they use Claude.",
+    "url": "https://claude.com/customers/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgram Startup Program | Deepgram — The amount of credits you’ll receive depends on your company’s stage, how you plan to use Deepgram, and whether you’re referred through one of our partners. Deepgram has active partnerships with leading venture capital firms, accelerators, and startup networks that provide enhanced offers to their portfolios. If you’re applying through one of these partners, y",
+    "url": "https://deepgram.com/startup-program",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgram Revenue 2026: $100M ARR, $1.3B Valuation - LATKA — Oct 7, 2026 · Deepgram 2026 revenue: $100M ARR (up from $8.8M in 2021). Valuation: $1.3B. Total funding: $168.9M across 5 rounds. 310 employees. Updated Oct 7, 2026.",
+    "url": "https://getlatka.com/companies/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgram - 2026 Company Profile, Team, Funding & Competitors ...Deepgram ARR, revenue, valuation and headcount (2026)Deepgram 2026 Company Profile: Valuation, Funding & Investors ...Deepgram – Competitor List & Expansion Signals – 2026Deepgram: Funding, Investors & Team (Nov 2026) | FundedIQDeepgram - Overview, News & Similar companies | ZoomInfo.com — Nov 3, 2026 · Deepgram is a series C company ",
+    "url": "https://tracxn.com/d/companies/deepgram/__ThWYvD43I1HgSdguaRgcoZ1dLjXMEMfCv1tzktOKL2k",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgram ARR, revenue, valuation and headcount (2026) — Founded in 2015, it aims to enhance human-to-machine interactions with high accuracy and low latency. The company supports over 200,000 developers and more than 1,300 organizations, establishing itself as a leader in the Voice AI sector.",
+    "url": "https://ai.lounge.ai/arr/deepgram",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgram 2026 Company Profile: Valuation, Funding & Investors ...Deepgram – Competitor List & Expansion Signals – 2026Deepgram: Funding, Investors & Team (Nov 2026) | FundedIQDeepgram - Overview, News & Similar companies | ZoomInfo.com — Information on valuation, funding, cap tables, investors, and executives for Deepgram. Use the PitchBook Platform to explore the full profile. Discover Deepgram's",
+    "url": "https://pitchbook.com/profiles/company/154437-04",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgram – Competitor List & Expansion Signals – 2026 — Discover Deepgram's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/deepgram",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Deepgram: The Voice AI Infrastructure Adopted by 1,300 ... May 13, 2026 · Deepgram is a startup founded in San Francisco in 2015 that specializes in building the foundation for speech recognition and speech synthesis. Using proprietary deep learning technology that applies insights from physics, the company has demonstrated performance in speed and accuracy of speech",
+    "url": "https://note.com/gen_ai/n/n1dfb8f27e153?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Decoding Deepgram Flux TTS from Primary Sources: The Design ... Sep 9, 2026 · Deepgram claims that in this restaurant scenario, Flux TTS outperformed all other tested models not only in overall score but also in maintaining consistency during conversation. However, it remains a self-reported benchmark.",
+    "url": "https://note.com/ai_driven/n/n83ba2ea06e9d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgram Transforming Voice AI: Accelerating Business with ... Deepgram is a leading platform providing cutting-edge voice AI technology. We offer Speech-to-Text (STT), Text-to-Speech (TTS), and integrated voice agent APIs to developers and enterprises.",
+    "url": "https://note.com/eiji71/n/ne42cc8804fe8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgram is a company providing an advanced voice AI platform ... Apr 1, 2025 · Deepgram is a platform designed to help developers and enterprises maximize the potential of voice AI, pioneering the future of voice interaction with cutting-edge technology.",
+    "url": "https://note.com/vueloo_blog/n/n09346c90cd3f?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Deepgram: The Voice AI Infrastructure Adopted by 1,300 Organizations from NASA to Drive-Thrus｜生成AI事例集",
+    "url": "https://note.com/gen_ai/n/n1dfb8f27e153?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgram: The Voice AI Infrastructure Adopted by 1,300 Organizations from NASA to Drive-Thrus",
+    "url": "https://note.com/gen_ai/n/n1dfb8f27e153?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgram is a startup founded in San Francisco in 2015 that specializes in building the foundation for speech recognition and speech synthesis. Using proprietary deep learning technology that applies insights from physics, the company has demonstrated performance in speed and accuracy of speech recognition that exceeds competitors in its published benchmarks.",
+    "url": "https://note.com/gen_ai/n/n1dfb8f27e153?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The company completed a $130M funding round in January 2026, establishing its status as a unicorn with a valuation of $1.3B. Currently, over 200,000 developers and more than 1,300 organizations use the company's platform, and it has been adopted as a voice AI foundation in a wide range of fields, from NASA (National Aeronautics and Space Administration) to global contact centers.",
+    "url": "https://note.com/gen_ai/n/n1dfb8f27e153?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://deepgram.com/",
+    "url": "https://note.com/gen_ai/n/n1dfb8f27e153?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. Challenges Solved and Solutions",
+    "url": "https://note.com/gen_ai/n/n1dfb8f27e153?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The biggest challenges that have hindered the widespread adoption of voice AI have been processing delays caused by combining multiple technologies and the constraints of systems that cannot understand the 'pauses' in natural conversation. Deepgram has fundamentally solved these complex technical challenges through the method of vertical integration of infrastructure.",
+    "url": "https://note.com/gen_ai/n/n1dfb8f27e153?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Fragmentation of the technology stack",
+    "url": "https://note.com/gen_ai/n/n1dfb8f27e153?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Decoding Deepgram Flux TTS from Primary Sources: The Design Philosophy and Capabilities of Next-Generation TTS That \"Remembers\" Conversations｜アイドリ | AI-Driven Lab",
+    "url": "https://note.com/ai_driven/n/n83ba2ea06e9d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Decoding Deepgram Flux TTS from Primary Sources: The Design Philosophy and Capabilities of Next-Generation TTS That \"Remembers\" Conversations",
+    "url": "https://note.com/ai_driven/n/n83ba2ea06e9d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Target Audience for This Article",
+    "url": "https://note.com/ai_driven/n/n83ba2ea06e9d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Primary Audience: Intended for engineers and product managers developing real-time voice interfaces, such as voice agents, IVR, and customer support AI.",
+    "url": "https://note.com/ai_driven/n/n83ba2ea06e9d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Technical Level: Primarily aimed at intermediate users, among beginner, intermediate, and advanced levels.",
+    "url": "https://note.com/ai_driven/n/n83ba2ea06e9d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Prerequisites: Assumes an understanding of the division of roles between STT and TTS, and the basic concepts of streaming processing via WebSocket.",
+    "url": "https://note.com/ai_driven/n/n83ba2ea06e9d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What You Will Gain: You will be able to grasp the technical mechanisms of Flux TTS and how to interpret its benchmarks, allowing you to judge for yourself whether it should be introduced into your company's voice agents.",
+    "url": "https://note.com/ai_driven/n/n83ba2ea06e9d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This article explains the \"Flux TTS\" conversational native speech synthesis model announced by Deepgram on August 12, 2026, based on primary information. While conventional TTS resets its reading line by line, Flux TTS maintains the context of the entire conversation through three technical decisions: high-fidelity neural codec, interleaved generation, and a Mamba state-space backbone. The first h",
+    "url": "https://note.com/ai_driven/n/n83ba2ea06e9d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgram Transforming Voice AI: Accelerating Business with High-Accuracy STT, Human-like TTS, and Integrated Agent APIs｜エイじー",
+    "url": "https://note.com/eiji71/n/ne42cc8804fe8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgram Transforming Voice AI: Accelerating Business with High-Accuracy STT, Human-like TTS, and Integrated Agent APIs",
+    "url": "https://note.com/eiji71/n/ne42cc8804fe8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgram is a leading platform providing cutting-edge voice AI technology. We offer Speech-to-Text (STT), Text-to-Speech (TTS), and integrated voice agent APIs to developers and enterprises. By leveraging deep learning-based neural network technology to achieve high-accuracy and natural voice processing, Deepgram is significantly expanding the possibilities of voice interaction in modern business.",
+    "url": "https://note.com/eiji71/n/ne42cc8804fe8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "2. Deepgram's Core Technology and Major Services",
+    "url": "https://note.com/eiji71/n/ne42cc8804fe8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgram supports your business based on multiple advanced technologies that achieve high-accuracy voice processing. Our main services include Speech-to-Text (STT), Text-to-Speech (TTS), integrated voice agent APIs, and Audio Intelligence. We will explain in detail how each technology functions and the value it provides.",
+    "url": "https://note.com/eiji71/n/ne42cc8804fe8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "2.1. High-Accuracy Speech-to-Text (STT)",
+    "url": "https://note.com/eiji71/n/ne42cc8804fe8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgram's STT service is a technology that converts speech to text, characterized by extremely high accuracy and low latency. In particular, the 'Nova model,' which excels at general transcription, supports multiple languages and demonstrates high recognition accuracy even in noisy environments. On the other hand, the 'Flux model,' specialized for conversation, enables natural turn detection and ",
+    "url": "https://note.com/eiji71/n/ne42cc8804fe8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Comparison of Word Error Rate (WER) between Deepgram Nova model and major STT providers.",
+    "url": "https://note.com/eiji71/n/ne42cc8804fe8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgram is a company providing an advanced voice AI platform for developers, based in SF, USA.｜MasaT. 武富 正人",
+    "url": "https://note.com/vueloo_blog/n/n09346c90cd3f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgram is a company providing an advanced voice AI platform for developers, based in SF, USA.",
+    "url": "https://note.com/vueloo_blog/n/n09346c90cd3f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgram is a company that provides an advanced voice AI platform for developers, offering APIs that cover Speech-to-Text, Text-to-Speech, and complete Speech-to-Speech Voice Agents. Over 200,000 developers use Deepgram to build voice AI products and features, and it is trusted by world-leading enterprises and startups.",
+    "url": "https://note.com/vueloo_blog/n/n09346c90cd3f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Key Features and Services",
+    "url": "https://note.com/vueloo_blog/n/n09346c90cd3f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgram's voice AI platform aims to transform how voice data is utilized, extracting deep insights and enabling smooth voice experiences through advanced APIs and models.",
+    "url": "https://note.com/vueloo_blog/n/n09346c90cd3f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Voice Agent API: A unified voice conversational API that enables natural interaction between humans and machines. It provides real-time, natural conversation flows and is used for applications such as customer support and order taking.",
+    "url": "https://note.com/vueloo_blog/n/n09346c90cd3f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Speech to Text: Converts speech to text with unparalleled accuracy, speed, and cost-efficiency. It provides customizable speech recognition solutions for enterprises.",
+    "url": "https://note.com/vueloo_blog/n/n09346c90cd3f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Text to Speech: Generates ultra-fast, human-like speech, supporting real-time AI and high-throughput applications. It enables personalized experiences with a variety of voice options.",
+    "url": "https://note.com/vueloo_blog/n/n09346c90cd3f?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Deepgram (@DeepgramAI) / X Deepgram is hosting a voice agents developer conference in San Francisco on October 29th. I'm speaking at the conference, we have some fun Pipecat announcements to make, and lots of friends are either attending, or speaking, or both.",
+    "url": "https://x.com/DeepgramAI",
+    "pass": 3
+   },
+   {
+    "quote": "Scott Stephenson (@deepgramscott) / X Deepgram's new Flux model is good. They added \"eager EOT\" which predicts when you're done speaking and immediately finalizes the transcription without needing VAD.",
+    "url": "https://x.com/deepgramscott",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgram on X: \"Voice AI, minus the cloud round trip. We're ... We're bringing Deepgram's Nova-3 on-device, optimized for the @ Qualcomm Hexagon NPU in Snapdragon X Series PCs. Real-time speech recognition with more speed, more privacy, no connection required. deepgram.com/learn/deepgram…",
+    "url": "https://x.com/DeepgramAI/status/2079598308834652340",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgram speech-to-text is now natively available on ... Deepgram speech-to-text is now natively available on @togethercompute. Run your STT, LLM, and TTS on one platform — co-located so audio doesn't have to leave the environment to get transcribed.",
+    "url": "https://x.com/DeepgramAI/status/2032180012439556424",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgram (@DeepgramAI) / X I'll be at Deepgram Speak on October 29th with 500 or so new and old friends who build voice AI agents and applications. As mini embedded Pipecat and I were just discussing, I'm really excited about Deepgram Speak.",
+    "url": "https://x.com/DeepgramAI",
+    "pass": 3
+   },
+   {
+    "quote": "@deepgram | X The latest posts from @deepgram",
+    "url": "https://x.com/deepgram",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Deepgram - LinkedIn Our end-to-end deep learning offers unrivaled ASR solutions with superior speed, real-time transcriptions, and scalability. That's why leading startups to enterprises trust Deepgram.",
+    "url": "https://www.linkedin.com/company/deepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgram - LinkedIn Deepgram | We created a powerful transcription and speech understanding API built for developers.",
+    "url": "https://www.linkedin.com/products/deepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "GM, Sales (EMEA) at Deepgram — London, England, United ... The Deepgram Voice Agent Platform brings together speech-to-text, text-to-speech and speech-to-speech, with voice-native foundation models available through cloud APIs or self-hosted and on-premises deployments. Built for accuracy, low latency and cost efficiency, Deepgram makes high-quality voice experiences practical to build and run at ",
+    "url": "https://uk.linkedin.com/jobs/view/gm-sales-emea-at-deepgram-4458308484",
+    "pass": 3
+   },
+   {
+    "quote": "Idris Yunis - Voice AI @ Deepgram | LinkedInMiguel Arroja - EMEA Sales Leader @ Deepgram | LinkedInFreelance Labeling Editor (Kapampangan) sa Deepgram ...Zaid Meccai - Voice AI @ Deepgram | LinkedIn Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade... De",
+    "url": "https://uk.linkedin.com/in/idrisyunis",
+    "pass": 3
+   },
+   {
+    "quote": "Scott Stephenson - Deepgram | LinkedInScott Stephenson - Founder DetailsScott Stephenson - aibusiness.comScott Stephenson, Deepgram Inc: Profile and Biography About I am working with the amazing Deepgram team to usher in the new era of Voice Agents for… Scott Stephenson is a dark matter physicist turned deep learning entrepreneur, currently serving as the CEO and Co-Founder of Deepgram. He earned ",
+    "url": "https://www.linkedin.com/in/scott-stephenson-",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Deepgram - FacebookDeepgram - Last week, our very own Chief of Staff and ...Comment \"DeepGram\" #aivideo #texttospeech #tts #elvenlabsFOR IMMEDIATE RELEASE August 14, 2025 MY AZ TV Names Deepgram ...Deepgram or Whisper? The Mistake Everyone Makes While ...Stack Overflow - ️ Recorded at AWS re:Invent ... - FacebookScribe v2 Realtime transcrit la parole en direct en environ ... Feb 13, 2026 · Well, K",
+    "url": "https://www.facebook.com/deepgram/",
+    "pass": 3
+   },
+   {
+    "quote": "Deepgram - Last week, our very own Chief of Staff and ... Dec 15, 2021 · Last week, our very own Chief of Staff and Deepgram Evangelist, Sam Zegas, unpacked the challenges of developing great speech recognition and how Deepgram is chartering our course to make it easier.",
+    "url": "https://www.facebook.com/deepgram/posts/last-week-our-very-own-chief-of-staff-and-deepgram-evangelist-sam-zegas-unpacked/1542901906062320/",
+    "pass": 3
+   },
+   {
+    "quote": "Comment \"DeepGram\" #aivideo #texttospeech #tts #elvenlabs Sep 27, 2026 · Awais Ismail and 3 others Shoaib Saleem Deep garam 1w Asad Hussain Deepgram 14h Planet Pulse Deepgram 2w Last viewed on: Oct 11, 2026",
+    "url": "https://www.facebook.com/awaisautomates/videos/comment-deepgram-aivideo-texttospeech-tts-elvenlabs/1419650693699049/",
+    "pass": 3
+   },
+   {
+    "quote": "FOR IMMEDIATE RELEASE August 14, 2025 MY AZ TV Names Deepgram ... Aug 14, 2025 · “After attending conferences, festivals, and trade shows for over 25 years, I can confidently say that Deepgram AI’s technology isn’t just impressive—it’s transformative,” said Allen Elfman, CEO of MY AZ TV.",
+    "url": "https://www.facebook.com/myaztv/videos/for-immediate-releaseaugust-14-2025my-az-tv-names-deepgram-ai-as-one-of-the-top-/734939262641878/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://deepgram.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deepgram.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deepgram.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deepgram.com/solutions/conversational-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deepgram.com/solutions/speech-analytics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deepgram.com/solutions/restaurants",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deepgram.com/solutions/pharma",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deepgram.com/solutions/medical",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deepgram.com/solutions/government",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deepgram.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deepgram.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deepgram.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deepgram.com/company/newsroom",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deepgram.com/customers/podsights",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://yanai-ke.com/deepgram/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.issoh.co.jp/tech/details/5336/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://global-ai.jp/20260114-aideepgram/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ainow.jp/deepgram/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai2.fromation.co.jp/archives/30533",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://genbajapan.com/companies/deepgram",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.newsroom.ibm.com/2026-02-25-deepgram-and-ibm-introduce-advanced-voice-capabilities-for-enterprise-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://offers.deepgram.com/hubfs/Sharpen+-+Customer+Case+Study.pdf",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.casestudies.com/company/deepgram/case-study/sharpen-elevates-the-contact-center-customer-experience-with-deepgram",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/deepgram",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/deepgram/__ThWYvD43I1HgSdguaRgcoZ1dLjXMEMfCv1tzktOKL2k",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ai.lounge.ai/arr/deepgram",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/154437-04",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gen_ai/n/n1dfb8f27e153?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ai_driven/n/n83ba2ea06e9d?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/eiji71/n/ne42cc8804fe8?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/vueloo_blog/n/n09346c90cd3f?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/DeepgramAI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/deepgramscott",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/DeepgramAI/status/2079598308834652340",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/DeepgramAI/status/2032180012439556424",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/deepgram/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/deepgram/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/jobs/view/gm-sales-emea-at-deepgram-4458308484",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/idrisyunis",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/deepgram/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/deepgram/posts/last-week-our-very-own-chief-of-staff-and-deepgram-evangelist-sam-zegas-unpacked/1542901906062320/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/awaisautomates/videos/comment-deepgram-aivideo-texttospeech-tts-elvenlabs/1419650693699049/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/myaztv/videos/for-immediate-releaseaugust-14-2025my-az-tv-names-deepgram-ai-as-one-of-the-top-/734939262641878/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/scott-stephenson-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/DeepgramAI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/deepgram",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Deepgram 日本 導入",
+   "results": [
+    "https://yanai-ke.com/deepgram/",
+    "https://www.issoh.co.jp/tech/details/5336/",
+    "https://global-ai.jp/20260114-aideepgram/",
+    "https://ainow.jp/deepgram/",
+    "https://zenn.dev/smartcamp/articles/8b24739ab8cba3",
+    "https://weel.co.jp/media/innovator/deepgram/",
+    "https://genbajapan.com/companies/deepgram"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Deepgram 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://deepgram.com/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Deepgram Japan",
+   "results": [
+    "https://deepgram.com/product/speech-to-text/japanese",
+    "https://genbajapan.com/companies/deepgram",
+    "https://jp.newsroom.ibm.com/2026-02-25-deepgram-and-ibm-introduce-advanced-voice-capabilities-for-enterprise-ai",
+    "https://deepgram.com/about",
+    "https://yanai-ke.com/deepgram/",
+    "https://www.issoh.co.jp/tech/details/5336/",
+    "https://www.linkedin.com/jobs/view/4440762696/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Deepgram manufacturing customer case study",
+   "results": [
+    "https://deepgram.com/customers/sharpen",
+    "https://deepgram.com/customers",
+    "https://offers.deepgram.com/hubfs/Sharpen+-+Customer+Case+Study.pdf",
+    "https://www.casestudies.com/company/deepgram/case-study/sharpen-elevates-the-contact-center-customer-experience-with-deepgram",
+    "https://claude.com/customers/deepgram",
+    "https://offers.deepgram.com/sharpen-case-study",
+    "https://www.casestudydesk.com/product/deepgram-deepgram-nova"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Deepgram white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://deepgram.com/startup-program",
+    "https://deepgram.com/",
+    "https://www.nextiva.com/company/partners",
+    "https://www.iqreseller.com/",
+    "https://www.reseller.co.nz/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Deepgram founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/deepgram",
+    "https://tracxn.com/d/companies/deepgram/__ThWYvD43I1HgSdguaRgcoZ1dLjXMEMfCv1tzktOKL2k",
+    "https://ai.lounge.ai/arr/deepgram",
+    "https://pitchbook.com/profiles/company/154437-04",
+    "https://compworth.com/company/deepgram",
+    "https://fundediq.co/deepgram-deepgram-com-funding/",
+    "https://www.zoominfo.com/c/deepgram/415311773"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Deepgram",
+   "results": [
+    "https://note.com/gen_ai/n/n1dfb8f27e153?hl=en",
+    "https://note.com/ai_driven/n/n83ba2ea06e9d?hl=en",
+    "https://note.com/eiji71/n/ne42cc8804fe8?hl=en",
+    "https://note.com/vueloo_blog/n/n09346c90cd3f?hl=en",
+    "https://note.com/gen_ai/n/n1dfb8f27e153",
+    "https://note.com/gen_ai/n/n1dfb8f27e153?hl=ko",
+    "https://note.com/vueloo_blog/n/n09346c90cd3f"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Deepgram",
+   "results": [
+    "https://x.com/DeepgramAI",
+    "https://x.com/deepgramscott",
+    "https://x.com/DeepgramAI/status/2079598308834652340",
+    "https://x.com/DeepgramAI/status/2032180012439556424",
+    "https://x.com/DeepgramAI/status/2118392210114638196",
+    "https://x.com/DeepgramAI/status/2071702674421010936",
+    "https://x.com/DeepgramAI/status/2055000466082177467"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Deepgram",
+   "results": [
+    "https://www.linkedin.com/company/deepgram/",
+    "https://www.linkedin.com/products/deepgram/",
+    "https://uk.linkedin.com/jobs/view/gm-sales-emea-at-deepgram-4458308484",
+    "https://uk.linkedin.com/in/idrisyunis",
+    "https://es.linkedin.com/in/miguelarroja",
+    "https://ph.linkedin.com/jobs/view/freelance-labeling-editor-kapampangan-at-deepgram-4475518844",
+    "https://in.linkedin.com/in/zaid-meccai"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Deepgram",
+   "results": [
+    "https://www.facebook.com/deepgram/",
+    "https://www.facebook.com/deepgram/posts/last-week-our-very-own-chief-of-staff-and-deepgram-evangelist-sam-zegas-unpacked/1542901906062320/",
+    "https://www.facebook.com/awaisautomates/videos/comment-deepgram-aivideo-texttospeech-tts-elvenlabs/1419650693699049/",
+    "https://www.facebook.com/myaztv/videos/for-immediate-releaseaugust-14-2025my-az-tv-names-deepgram-ai-as-one-of-the-top-/734939262641878/",
+    "https://www.facebook.com/61558310014555/videos/1826840391820669/",
+    "https://www.facebook.com/officialstackoverflow/posts/️-recorded-at-aws-reinvent-we-welcome-ceo-and-co-founder-of-deepgram-scott-steph/1288272390014940/",
+    "https://www.facebook.com/elevenlabsio/videos/la-reconnaissance-vocale-en-temps-réel-pour-les-développeurs/1600476861519948/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Deepgram note 社長",
+   "results": [
+    "https://deepgram.com/about",
+    "https://ictmirror.com/featured/deepgram-ceo-scott-stephenson/",
+    "https://ionanalytics.com/insights/uncategory/deepgram-seeks-tech-buys-with-eye-on-ipo-in-2-3-years-ceo/",
+    "https://www.linkedin.com/in/scott-stephenson-",
+    "https://www.bloomberg.com/profile/person/24919250",
+    "https://vcpedia.com/founders/1856",
+    "https://aibusiness.com/author/scott-stephenson"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Deepgram X 投稿",
+   "results": [
+    "https://x.com/DeepgramAI",
+    "https://x.com/deepgram",
+    "https://deepgram.com/",
+    "https://bigolab.com/apps/2881-deepgram-speech-ai-api",
+    "https://playground.deepgram.com/?endpoint=agent",
+    "https://playground.deepgram.com/?endpoint=speak",
+    "https://docs.deepgram.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部36頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部36頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部36頁・検索12回）"
+ }
+}

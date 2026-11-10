@@ -1,0 +1,1378 @@
+{
+ "name": "Gaiia",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-10T16:50:39.473809+00:00",
+ "official_url": "https://gaiia.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "We’ve been really impressed with how responsive and attentive gaiia’s customer support is. They genuinely value our feedback and have tailored the platform to meet our needs.",
+    "url": "https://gaiia.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reporting and data access are a big step up from our previous stack, and the automation we gained on day one changed how we operate. The gaiia team's been great to work with, and they actually listen to our feedback.",
+    "url": "https://gaiia.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our go live went extremely well. The process was smooth, and we already see benefits from the automation and streamlined workflows. Our team is really excited about the new system.",
+    "url": "https://gaiia.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The power to customize reports and receive real-time data has been extremely valuable. gaiia has provided us with the tools we need to analyze our penetration rates across properties, and understand the service breakdowns within each building.",
+    "url": "https://gaiia.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Monthly checkout volume grew roughly 6x, yet the vast majority of orders required zero technician intervention, proving the checkout platform scaled without adding operational overhead.",
+    "url": "https://gaiia.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Kudos to your support, like your support at gaiia. Wow, they're fast. So that is very much appreciated.",
+    "url": "https://gaiia.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI workflow editor enables humans, AI-assisted humans, and fully autonomous AI agents to automate routine tasks and complex provisioning flows, so your team can spend more time on the big stuff.",
+    "url": "https://gaiia.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stay calm under pressure with targeted incident communication.",
+    "url": "https://gaiia.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Workforce & Scheduling",
+    "url": "https://gaiia.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Scale without friction. Turn ideas into real-life systems with precise, step-by-step control.",
+    "url": "https://gaiia.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Product guides, API references, and implementation walkthroughs.",
+    "url": "https://gaiia.com/",
+    "pass": 1
+   },
+   {
+    "quote": "gaiia meets globally recognized standards for security, privacy, and compliance.",
+    "url": "https://gaiia.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We care about your privacy",
+    "url": "https://gaiia.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Manage Consent Preferences by Category",
+    "url": "https://gaiia.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "These items help us provide more relevant communication and advertising by tracking how you interact with our website and campaigns. They may be used to build a profile of your interests or show you targeted content.",
+    "url": "https://gaiia.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Manage your bulk, retail, and hybrid properties",
+    "url": "https://gaiia.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Workforce & Scheduling",
+    "url": "https://gaiia.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Improve technician efficiency & customer satisfaction",
+    "url": "https://gaiia.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "At gaiia, we believe in building a strong ecosystem with leading technology providers, strategic allies, and channel partners. Discover how our partnerships and integrations streamline operations, drive innovation, and deliver value to ISPs globally.",
+    "url": "https://gaiia.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Data & Marketing technology",
+    "url": "https://gaiia.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "In addition to our native integrations we provide a GraphQL API and webhooks that allow you to build powerful integrations and applications.",
+    "url": "https://gaiia.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Workforce management & scheduling",
+    "url": "https://gaiia.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We’ve been really impressed with how responsive and attentive gaiia’s customer support is. They genuinely value our feedback and have tailored the platform to meet our needs.",
+    "url": "https://gaiia.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Reporting and data access are a big step up from our previous stack, and the automation we gained on day one changed how we operate. The gaiia team's been great to work with, and they actually listen to our feedback.",
+    "url": "https://gaiia.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Our go live went extremely well. The process was smooth, and we already see benefits from the automation and streamlined workflows. Our team is really excited about the new system.",
+    "url": "https://gaiia.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "The power to customize reports and receive real-time data has been extremely valuable. gaiia has provided us with the tools we need to analyze our penetration rates across properties, and understand the service breakdowns within each building.",
+    "url": "https://gaiia.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Monthly checkout volume grew roughly 6x, yet the vast majority of orders required zero technician intervention, proving the checkout platform scaled without adding operational overhead.",
+    "url": "https://gaiia.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Kudos to your support, like your support at gaiia. Wow, they're fast. So that is very much appreciated.",
+    "url": "https://gaiia.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Work and video call without interruptions",
+    "url": "https://gaiia.com/products/customer-portal",
+    "pass": 1
+   },
+   {
+    "quote": "Multiple streams and video calls running smooth",
+    "url": "https://gaiia.com/products/customer-portal",
+    "pass": 1
+   },
+   {
+    "quote": "Once added, the primary contact",
+    "url": "https://gaiia.com/products/customer-portal",
+    "pass": 1
+   },
+   {
+    "quote": "Have a promo or referral?",
+    "url": "https://gaiia.com/products/customer-portal",
+    "pass": 1
+   },
+   {
+    "quote": "Apply promo or referral code",
+    "url": "https://gaiia.com/products/customer-portal",
+    "pass": 1
+   },
+   {
+    "quote": "Give property managers the control. Turn service on when a tenant moves in, off when they leave.",
+    "url": "https://gaiia.com/products/customer-portal",
+    "pass": 1
+   },
+   {
+    "quote": "Contracts live in the portal. Every renewal, every change order, every project milestone is tracked automatically.",
+    "url": "https://gaiia.com/products/customer-portal",
+    "pass": 1
+   },
+   {
+    "quote": "Color schemes (primary, secondary, accent colors)",
+    "url": "https://gaiia.com/products/customer-portal",
+    "pass": 1
+   },
+   {
+    "quote": "Their unique referral code and easy share links (email, SMS, social media)",
+    "url": "https://gaiia.com/products/customer-portal",
+    "pass": 1
+   },
+   {
+    "quote": "oxio is a digital-first ISP in Canada that focuses on providing exceptional customer experience, transparent pricing, and accessible internet to Canadians.",
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "pass": 1
+   },
+   {
+    "quote": "As a digitally-native ISP, the only way for potential customers to browse and subscribe to internet plans was through the oxio website. However, the existing webform checkout process required manual intervention from the internal support team, resulting in a longer time to onboard a new customer and a low conversion rate.",
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "pass": 1
+   },
+   {
+    "quote": "Onboarding a New Customer Required Costly Manual Intervention",
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "pass": 1
+   },
+   {
+    "quote": "Reserve the appropriate equipment from inventory",
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "pass": 1
+   },
+   {
+    "quote": "Rising Acquisition Costs and a Limited Marketing Budget Hampered Growth",
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "pass": 1
+   },
+   {
+    "quote": "oxio’s customer acquisition costs were increasing month over month, and traffic costs (CPCs) from their main acquisition channels were on the rise. The team knew that spending more money on advertising would only go so far with the current website conversion rate, and from a cash flow perspective, it was unsustainable long-term. oxio’s main acquisition channels included:",
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "pass": 1
+   },
+   {
+    "quote": "Almost instantly after the updated checkout went live online, the same marketing channels that oxio was using to acquire customers, pushing out the exact same content, with the same daily budgets were acquiring significantly more customers.",
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "pass": 1
+   },
+   {
+    "quote": "- Each marketing channel (Google Ads, Facebook, Affiliate, Organic Search, etc) saw a lift in conversion rate after the checkout optimization.",
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "pass": 1
+   },
+   {
+    "quote": "- The referral program powered by gaiia became even more effective with the optimized checkout as there was a clear place to input the referral code & see the discounted month reflected in the customers cart. Additionally, due to the significant increase in new customer acquisition, there was a larger cohort of customers that were referring their friends and family… creating a flywheel.",
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "pass": 1
+   },
+   {
+    "quote": "- With the reduced customer acquisition cost, oxio had the opportunity to increase its marketing spend and acquire even more customers while maintaining a healthy ROI.",
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "pass": 1
+   },
+   {
+    "quote": "Within the checkout experience oxio was able to display additional products & services that customers may be interested in. For example, oxio allowed customers to add multiple routers to their subscription. Approximately 10% of customers added an extra router, which resulted in those orders having a 12% higher ARPU every month.",
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "pass": 1
+   },
+   {
+    "quote": "The gaiia team implemented tracking snippets from Klaviyo (oxio’s ESP) in order to track exactly who was dropping off during the checkout process. The abandoned cart email journey consisted of three automated emails over a one-week period, reminding the customer that they hadn’t completed their checkout. The email journey on average resulted in an incremental ~ 5 new customers per day.",
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "pass": 1
+   },
+   {
+    "quote": "How gaiia’s Backend Integrations Improved oxio’s New Customer Acquisition",
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "pass": 1
+   },
+   {
+    "quote": "The fully integrated & customizable online checkout allowed for oxio to automate the provisioning process for new customers. Below are specific examples of how the online checkout automated a new customer activation in the backend, and resulted in less drop off from a customer reaching checkout to being activated:",
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "pass": 1
+   },
+   {
+    "quote": "Based on pre-defined workflows, gaiia integrated with the necessary networks (TPIA) to provision the new customer's internet service, reducing the manual labor required from the oxio team. gaiia integrated with the networks even if there was no API access, using methods such as Email & Click-Through automations.",
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "pass": 1
+   },
+   {
+    "quote": "Activation / Workforce Management",
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "pass": 1
+   },
+   {
+    "quote": "In the backend, gaiia automatically allocates and reserves the appropriate equipment from inventory, creates a shipping label, and drops the order to oxio’s 3PL partner to ship the equipment. Removing all CSR responsibilities, and reducing a manual task that can lead to human error.",
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "pass": 1
+   },
+   {
+    "quote": "Once the equipment arrived at the customer's house and they were successfully activated, gaiia automatically starts the billing cycle. Based on the date of activation, the gaiia billing system automatically pro-rates customer’s monthly bill, and updates the customers first invoice accordingly.",
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "pass": 1
+   },
+   {
+    "quote": "As much as we love the oxio checkout and customer onboarding journey, don’t just take our word for it… see the",
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "pass": 1
+   },
+   {
+    "quote": "and the onboarding experience ratings.",
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "pass": 1
+   },
+   {
+    "quote": "We are excited to announce that Vistabeam Internet, a prominent Internet Service Provider in the Colorado, Nebraska and Wyoming, is now live on gaiia. This strategic partnership marks a significant milestone in Vistabeam’s effort to modernize their technology stack, while improving operational efficiencies and customer service capabilities.",
+    "url": "https://gaiia.com/newsroom/new-customer-announcement-vistabeam",
+    "pass": 1
+   },
+   {
+    "quote": "“We’ve been really impressed with how responsive and attentive gaiia’s customer support is. They genuinely value our feedback and have tailored the platform to meet our needs.” - Matt Larsen, CEO @ Vistabeam.",
+    "url": "https://gaiia.com/newsroom/new-customer-announcement-vistabeam",
+    "pass": 1
+   },
+   {
+    "quote": "The integration with Snowflake provides Vistabeam direct access to data, bolstered by robust security measures and comprehensive disaster recovery protocols, enhancing data sovereignty and minimizing downtime risks.",
+    "url": "https://gaiia.com/newsroom/new-customer-announcement-vistabeam",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Automated tools keep dispatchers and technicians in sync. Happier techs, happier customers.",
+    "url": "https://gaiia.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: We increased gaiia’s meetings booked by 21% | Palisade",
+    "url": "https://www.palisade.email/resources-post/case-study-we-increased-gaiias-open-rate",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: We increased gaiia’s meetings booked by 21%",
+    "url": "https://www.palisade.email/resources-post/case-study-we-increased-gaiias-open-rate",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: How Invision Technologies gained remediation clarity after moving from a competitor",
+    "url": "https://www.palisade.email/resources-post/case-study-we-increased-gaiias-open-rate",
+    "pass": 3
+   },
+   {
+    "quote": "“Telecom has the lowest NPS of any major industry, and the reason is the software running it,” said Marc Campagna, co-founder and CEO of gaiia. “Operators have been forced to run their business on tools built before the internet became essential to everyday life. We built gaiia because we lived that problem ourselves at",
+    "url": "https://www.jmi.com/gaiia-raises-40-million-series-b-led-by-jmi-equity-to-modernize-the-operating-system-for-communications-service-providers/",
+    "pass": 3
+   },
+   {
+    "quote": "gaiia is used by operators including Cogeco, Greenlight Networks, Vistabeam, Resound, IQ Fiber, Direct Communications, and LilaConnect across fiber, fixed wireless, cable, MVNO, and B2B segments. Growth has been almost entirely word-of-mouth.",
+    "url": "https://www.jmi.com/gaiia-raises-40-million-series-b-led-by-jmi-equity-to-modernize-the-operating-system-for-communications-service-providers/",
+    "pass": 3
+   },
+   {
+    "quote": "“gaiia represents the kind of company JMI looks to partner with: a category-defining AI-forward platform, built by operators with deep firsthand understanding of the market,” said Chase Thomet, Partner at JMI Equity. “OSS/BSS is a large and underserved category of software, and we believe gaiia has built the architecture and team that will lead its next chapter.”",
+    "url": "https://www.jmi.com/gaiia-raises-40-million-series-b-led-by-jmi-equity-to-modernize-the-operating-system-for-communications-service-providers/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Beautifully customize our checkout with your brand.",
+    "url": "https://gaiia.com/",
+    "pass": 1
+   },
+   {
+    "quote": "At gaiia, we believe in building a strong ecosystem with leading technology providers, strategic allies, and channel partners. Discover how our partnerships and integrations streamline operations, drive innovation, and deliver value to ISPs globally.",
+    "url": "https://gaiia.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "White-Label ISP Customer Self-Service Portal | gaiia",
+    "url": "https://gaiia.com/products/customer-portal",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. The gaiia customer portal is white-labeled and customizable to match your brand identity. You can configure:",
+    "url": "https://gaiia.com/products/customer-portal",
+    "pass": 1
+   },
+   {
+    "quote": "All branding changes are applied instantly across the portal with no custom development required. Your customers see your brand, not gaiia's.",
+    "url": "https://gaiia.com/products/customer-portal",
+    "pass": 1
+   },
+   {
+    "quote": "- The referral program powered by gaiia became even more effective with the optimized checkout as there was a clear place to input the referral code & see the discounted month reflected in the customers cart. Additionally, due to the significant increase in new customer acquisition, there was a larger cohort of customers that were referring their friends and family… creating a flywheel.",
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://gaiia.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate customer acquisition",
+    "url": "https://gaiia.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Billing & revenue management",
+    "url": "https://gaiia.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "How Intellipop scaled 200% in 2 years",
+    "url": "https://gaiia.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://gaiia.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate customer acquisition.",
+    "url": "https://gaiia.com/products/customer-portal",
+    "pass": 1
+   },
+   {
+    "quote": "oxio’s website went from a typical ISP sign-up webform to an e-commerce style checkout experience powered by gaiia, resulting in a 6x lift in conversion rate and an increase of customer acquisition from ~20 customers per day to ~120.",
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "pass": 1
+   },
+   {
+    "quote": "and an increase of customer acquisition from ~20 customers per day to ~120.",
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "pass": 1
+   },
+   {
+    "quote": "Once the equipment arrived at the customer’s house and they were successfully activated, oxio could finally count that website visit as a conversion.",
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "pass": 1
+   },
+   {
+    "quote": "Rising Acquisition Costs and a Limited Marketing Budget Hampered Growth",
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "pass": 1
+   },
+   {
+    "quote": "oxio’s customer acquisition costs were increasing month over month, and traffic costs (CPCs) from their main acquisition channels were on the rise. The team knew that spending more money on advertising would only go so far with the current website conversion rate, and from a cash flow perspective, it was unsustainable long-term. oxio’s main acquisition channels included:",
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "pass": 1
+   },
+   {
+    "quote": "During peak season, oxio was acquiring ~ 20/ customer per day via the webform checkout, with an average customer acquisition cost of $87.",
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "pass": 1
+   },
+   {
+    "quote": "The easy-to-use ecommerce style checkout lead to a 6x lift in conversion rate. This accelerated oxio’s new customer acquisition from ~20 customers per day to ~120.",
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "pass": 1
+   },
+   {
+    "quote": "The conversion rate on the website had gone from 0.5% to 3% overnight; resulting in a $36 customer acquisition cost (58% decrease!).",
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "pass": 1
+   },
+   {
+    "quote": "- The referral program powered by gaiia became even more effective with the optimized checkout as there was a clear place to input the referral code & see the discounted month reflected in the customers cart. Additionally, due to the significant increase in new customer acquisition, there was a larger cohort of customers that were referring their friends and family… creating a flywheel.",
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "pass": 1
+   },
+   {
+    "quote": "- With the reduced customer acquisition cost, oxio had the opportunity to increase its marketing spend and acquire even more customers while maintaining a healthy ROI.",
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "pass": 1
+   },
+   {
+    "quote": "Additional Revenue Generating Opportunities the gaiia checkout unlocked for oxio",
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "pass": 1
+   },
+   {
+    "quote": "After seeing the benefits of an upgraded checkout experience, the oxio team worked with gaiia to test and develop additional features to generate more revenue and further increase new customer acquisition. Two additional revenue driving features were:",
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "pass": 1
+   },
+   {
+    "quote": "How gaiia’s Backend Integrations Improved oxio’s New Customer Acquisition",
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "pass": 1
+   },
+   {
+    "quote": "Once the equipment arrived at the customer's house and they were successfully activated, gaiia automatically starts the billing cycle. Based on the date of activation, the gaiia billing system automatically pro-rates customer’s monthly bill, and updates the customers first invoice accordingly.",
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "pass": 1
+   },
+   {
+    "quote": "was growing rapidly but hitting friction points in customer acquisition and order fulfillment. They needed a checkout experience that could scale with them. Manual dispatch workflows were bottlenecking growth, and they lacked visibility into which campaigns were driving customers.",
+    "url": "https://gaiia.com/case-studies/how-wecom-fiber-grew-subscribers-8x",
+    "pass": 1
+   },
+   {
+    "quote": "Promo code tracking provided real attribution on campaigns, enabling Wecom to tie new subscriber acquisition back to specific initiatives, ads, and campaigns. Strong promo code usage across campaigns enabled data-driven marketing decisions, a repeatable growth playbook, and smarter budget allocation. Bundle capabilities further supported campaign flexibility.",
+    "url": "https://gaiia.com/case-studies/how-wecom-fiber-grew-subscribers-8x",
+    "pass": 1
+   },
+   {
+    "quote": "Customer acquisition cost fell sharply as the digital funnel gaiia's checkout anchored replaced the outsourced, out-of-state go-to-market",
+    "url": "https://gaiia.com/case-studies/how-wecom-fiber-grew-subscribers-8x",
+    "pass": 1
+   },
+   {
+    "quote": "Before this work, finding out which subscriber was attached to which upstream device meant reconciling three systems that each knew part of the truth:",
+    "url": "https://gaiia.com/case-studies/resound-real-time-system-driven-network-model",
+    "pass": 1
+   },
+   {
+    "quote": "An example of the metadata carried in the DHCP Option 82 remote-ID payload",
+    "url": "https://gaiia.com/case-studies/resound-real-time-system-driven-network-model",
+    "pass": 1
+   },
+   {
+    "quote": "That's the part that matters for any operator looking at this story and wondering whether their own complexity is a barrier. GWI's complexity was the proof, not the obstacle.",
+    "url": "https://gaiia.com/case-studies/how-gwi-migrated-from-salesforce-to-gaiia",
+    "pass": 1
+   },
+   {
+    "quote": "Expanding revenue without adding systems",
+    "url": "https://gaiia.com/case-studies/how-direct-communications-launched-mobile-with-gaiia",
+    "pass": 1
+   },
+   {
+    "quote": "For CSPs, this is powerful. The checkout moment is where customers are already thinking about connectivity. Offering mobile at that exact moment increases attach rate potential and average revenue per user without requiring additional marketing funnels or separate acquisition campaigns.",
+    "url": "https://gaiia.com/case-studies/how-direct-communications-launched-mobile-with-gaiia",
+    "pass": 1
+   },
+   {
+    "quote": "Add a new recurring revenue stream",
+    "url": "https://gaiia.com/case-studies/how-direct-communications-launched-mobile-with-gaiia",
+    "pass": 1
+   },
+   {
+    "quote": "How Intellipop scaled 200% in 2 years | gaiia - OSS & BSS Software for ISPs & Telecoms",
+    "url": "https://gaiia.com/case-studies/how-intellipop-scaled-200-in-2-years",
+    "pass": 1
+   },
+   {
+    "quote": "How Intellipop scaled 200% in 2 years",
+    "url": "https://gaiia.com/case-studies/how-intellipop-scaled-200-in-2-years",
+    "pass": 1
+   },
+   {
+    "quote": "Intellipop, a Utah ISP known for its customer service, partnered with gaiia to streamline operations across multiple networks and automate onboarding. By consolidating five systems into a single platform and introducing a branded, automated checkout, they accelerated signups, boosted efficiency, and drove subscriber growth.",
+    "url": "https://gaiia.com/case-studies/how-intellipop-scaled-200-in-2-years",
+    "pass": 1
+   },
+   {
+    "quote": "is a locally owned and operated Internet Service Provider based in Utah, offering high-speed connectivity through both fixed wireless and open access fiber networks. While the company has embraced modern technology and rapid expansion, it’s Intellipop’s exceptional customer service and local support team that have fueled its growth.",
+    "url": "https://gaiia.com/case-studies/how-intellipop-scaled-200-in-2-years",
+    "pass": 1
+   },
+   {
+    "quote": "With a deep understanding of the communities they serve and a commitment to solving problems quickly and personally, Intellipop has earned a reputation as one of the most customer-focused ISPs in the region, reflected in their 4.9/5 rating across nearly 1,000 Google reviews.",
+    "url": "https://gaiia.com/case-studies/how-intellipop-scaled-200-in-2-years",
+    "pass": 1
+   },
+   {
+    "quote": "Whether serving urban or rural communities, Intellipop combines technical innovation with a deep commitment to the local market. The team prides itself on making fast, reliable internet accessible, while maintaining the kind of customer service big telcos won’t match.",
+    "url": "https://gaiia.com/case-studies/how-intellipop-scaled-200-in-2-years",
+    "pass": 1
+   },
+   {
+    "quote": "As Intellipop expanded across Utah, a few key challenges began to constrain their growth.",
+    "url": "https://gaiia.com/case-studies/how-intellipop-scaled-200-in-2-years",
+    "pass": 1
+   },
+   {
+    "quote": "To address these challenges, Intellipop partnered with gaiia, the leading OSS/BSS platform with extensive experience helping ISPs who operate on multiple Open Access Networks.",
+    "url": "https://gaiia.com/case-studies/how-intellipop-scaled-200-in-2-years",
+    "pass": 1
+   },
+   {
+    "quote": "gaiia integrated directly with Intellipop’s core open access partners, eliminating the need to juggle five separate systems. Now, CSRs can manage service orders, account changes, suspensions, billing, and customer communication from a single, unified interface.",
+    "url": "https://gaiia.com/case-studies/how-intellipop-scaled-200-in-2-years",
+    "pass": 1
+   },
+   {
+    "quote": "and visual workflow builder, we can tailor automation to Intellipop’s ideal processes.",
+    "url": "https://gaiia.com/case-studies/how-intellipop-scaled-200-in-2-years",
+    "pass": 1
+   },
+   {
+    "quote": "Today, customers can sign up for Intellipop’s services in just a few clicks. gaiia’s online checkout automatically creates the account, provisions the service, sets up billing, and sends onboarding emails, with no staff intervention needed.",
+    "url": "https://gaiia.com/case-studies/how-intellipop-scaled-200-in-2-years",
+    "pass": 1
+   },
+   {
+    "quote": "The checkout experience doesn’t just save time, it also helps drive revenue. With a modern, mobile-friendly interface that’s fully branded to match Intellipop’s look and feel, customers trust the process and complete orders with confidence. Intellipop has also seen an increase in router sales through optional add-ons built directly into the checkout flow.",
+    "url": "https://gaiia.com/case-studies/how-intellipop-scaled-200-in-2-years",
+    "pass": 1
+   },
+   {
+    "quote": "Since going live with gaiia in July 2023, Intellipop has seen dramatic improvements across operations, customer acquisition, and team productivity.",
+    "url": "https://gaiia.com/case-studies/how-intellipop-scaled-200-in-2-years",
+    "pass": 1
+   },
+   {
+    "quote": "In only 2 years, Intellipop has tripled their subscriber count, and almost doubled their internal team.",
+    "url": "https://gaiia.com/case-studies/how-intellipop-scaled-200-in-2-years",
+    "pass": 1
+   },
+   {
+    "quote": "“On average our open rate went from 35% to 50% for cold prospecting potential leads attending conferences. This allowed us to book on average about 21% more demos while at conferences leading to a significant boost in brand visibility and customer acquisition.”",
+    "url": "https://www.palisade.email/resources-post/case-study-we-increased-gaiias-open-rate",
+    "pass": 3
+   },
+   {
+    "quote": "gaiia serves more than 300 ISPs across North America, including regional carriers and municipal broadband providers. In May 2026 the company raised a $40M Series B led by JMI Equity with participation from Inovia Capital, bringing total funding to $66M after three consecutive years of more than 3x revenue growth, with the founding team still in control.",
+    "url": "https://www.palisade.email/resources-post/case-study-we-increased-gaiias-open-rate",
+    "pass": 3
+   },
+   {
+    "quote": "The numbers are the headline, but the change gaiia describes is about confidence. When you cannot trust that your email arrives, you stop trusting your pipeline.",
+    "url": "https://www.palisade.email/resources-post/case-study-we-increased-gaiias-open-rate",
+    "pass": 3
+   },
+   {
+    "quote": "gaiia: Revenue, Competitors, Alternatives",
+    "url": "https://growjo.com/company/gaiia",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Competitors",
+    "url": "https://growjo.com/company/gaiia",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/gaiia",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/gaiia",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated revenue per employee is $",
+    "url": "https://growjo.com/company/gaiia",
+    "pass": 3
+   },
+   {
+    "quote": ". The minority growth investment brings the company’s total funding to $66 million, leaves gaiia’s founding team in control, and follows three consecutive years of more than 3x revenue growth.",
+    "url": "https://www.jmi.com/gaiia-raises-40-million-series-b-led-by-jmi-equity-to-modernize-the-operating-system-for-communications-service-providers/",
+    "pass": 3
+   },
+   {
+    "quote": "Gaiia Funding | $1.9-10.5M Revenue | Complete Analysis | Extruct AI",
+    "url": "https://www.extruct.ai/hub/gaiia-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Billing & Revenue Management, Customer Management, Customer Portal, Inventory & Fulfillment, Network Monitoring & Incident Response, Online Checkout, Properties Management, Workforce & Scheduling, Reporting & Analytics",
+    "url": "https://www.extruct.ai/hub/gaiia-com-funding/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us today to explore how we can succeed together.",
+    "url": "https://gaiia.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Subscribe to our email newsletter for exclusive updates.",
+    "url": "https://gaiia.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Email templates and notification styling",
+    "url": "https://gaiia.com/products/customer-portal",
+    "pass": 1
+   },
+   {
+    "quote": "Their unique referral code and easy share links (email, SMS, social media)",
+    "url": "https://gaiia.com/products/customer-portal",
+    "pass": 1
+   },
+   {
+    "quote": "Abandoned Cart Emails",
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "pass": 1
+   },
+   {
+    "quote": "The gaiia team implemented tracking snippets from Klaviyo (oxio’s ESP) in order to track exactly who was dropping off during the checkout process. The abandoned cart email journey consisted of three automated emails over a one-week period, reminding the customer that they hadn’t completed their checkout. The email journey on average resulted in an incremental ~ 5 new customers per day.",
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "pass": 1
+   },
+   {
+    "quote": "Based on pre-defined workflows, gaiia integrated with the necessary networks (TPIA) to provision the new customer's internet service, reducing the manual labor required from the oxio team. gaiia integrated with the networks even if there was no API access, using methods such as Email & Click-Through automations.",
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "pass": 1
+   },
+   {
+    "quote": "Today, customers can sign up for Intellipop’s services in just a few clicks. gaiia’s online checkout automatically creates the account, provisions the service, sets up billing, and sends onboarding emails, with no staff intervention needed.",
+    "url": "https://gaiia.com/case-studies/how-intellipop-scaled-200-in-2-years",
+    "pass": 1
+   },
+   {
+    "quote": "gaiia's outbound email was landing in spam. Fixing their DNS and authentication took their open rate from 35% to 50% and their conference demo bookings up 21%.",
+    "url": "https://www.palisade.email/resources-post/case-study-we-increased-gaiias-open-rate",
+    "pass": 3
+   },
+   {
+    "quote": "gaiia's outbound email was landing in spam. We fixed their DNS records and email authentication, and their open rate went from 35% to 50%, a 43% lift that turned into 21% more demos booked at conferences. Their emails were reaching inboxes within a week.",
+    "url": "https://www.palisade.email/resources-post/case-study-we-increased-gaiias-open-rate",
+    "pass": 3
+   },
+   {
+    "quote": "That matters for email more than it sounds. An ISP's platform is what sends the activation notice, the outage alert, the past-due reminder, and the appointment confirmation. When those messages land in spam, the support phone rings instead, and the provider pays for it twice.",
+    "url": "https://www.palisade.email/resources-post/case-study-we-increased-gaiias-open-rate",
+    "pass": 3
+   },
+   {
+    "quote": ") and was early in building that platform out. They had 35 engineers and deep technical knowledge, but nobody whose job was email deliverability.",
+    "url": "https://www.palisade.email/resources-post/case-study-we-increased-gaiias-open-rate",
+    "pass": 3
+   },
+   {
+    "quote": "The problem: good email, wrong folder",
+    "url": "https://www.palisade.email/resources-post/case-study-we-increased-gaiias-open-rate",
+    "pass": 3
+   },
+   {
+    "quote": "gaiia's team was doing everything right on the content side and still watching messages disappear. Prospects would mention, days later, that they had found an earlier email in spam.",
+    "url": "https://www.palisade.email/resources-post/case-study-we-increased-gaiias-open-rate",
+    "pass": 3
+   },
+   {
+    "quote": "Their email was not authenticated.",
+    "url": "https://www.palisade.email/resources-post/case-study-we-increased-gaiias-open-rate",
+    "pass": 3
+   },
+   {
+    "quote": "The timing made it expensive. gaiia was selling into conferences, where a cold email either lands during the event or stops mattering. Every message in a spam folder was a meeting that never got booked.",
+    "url": "https://www.palisade.email/resources-post/case-study-we-increased-gaiias-open-rate",
+    "pass": 3
+   },
+   {
+    "quote": "Implementation was quick, and their email was reaching inboxes within a week. Monitoring continued after that: deliverability is not a one-time fix, because every new tool and every DNS change is a chance to break it again.",
+    "url": "https://www.palisade.email/resources-post/case-study-we-increased-gaiias-open-rate",
+    "pass": 3
+   },
+   {
+    "quote": "“Choosing to collaborate with Palisade was a game-changer for gaiia. From the outset, their team showcased their expertise, pinpointing the email problems and rolling out effective solutions almost instantly. This didn't just improve our email communication; allowed us to get our brand in front of key decision makers and ultimately acquire customers.”",
+    "url": "https://www.palisade.email/resources-post/case-study-we-increased-gaiias-open-rate",
+    "pass": 3
+   },
+   {
+    "quote": "The numbers are the headline, but the change gaiia describes is about confidence. When you cannot trust that your email arrives, you stop trusting your pipeline.",
+    "url": "https://www.palisade.email/resources-post/case-study-we-increased-gaiias-open-rate",
+    "pass": 3
+   },
+   {
+    "quote": "Make email authentication easier to manage",
+    "url": "https://www.palisade.email/resources-post/case-study-we-increased-gaiias-open-rate",
+    "pass": 3
+   },
+   {
+    "quote": "Brand & Ecommerce Email",
+    "url": "https://www.palisade.email/resources-post/case-study-we-increased-gaiias-open-rate",
+    "pass": 3
+   },
+   {
+    "quote": "Johanie Dupont works on brand and ecommerce email at Palisade: BIMI and verified marks, sender requirements, and getting marketing mail into the inbox.",
+    "url": "https://www.palisade.email/resources-post/case-study-we-increased-gaiias-open-rate",
+    "pass": 3
+   },
+   {
+    "quote": "Spam complaint rate in email: what it means and how to measure it",
+    "url": "https://www.palisade.email/resources-post/case-study-we-increased-gaiias-open-rate",
+    "pass": 3
+   },
+   {
+    "quote": "B2B email lists",
+    "url": "https://growjo.com/company/gaiia",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Email Finder",
+    "url": "https://growjo.com/company/gaiia",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "gaiia - OSS & BSS Software for ISPs & Telecoms — gaiia - OSS & BSS Software for ISPs & Telecoms gaiia https://gaiia.com",
+    "url": "https://gaiia.com/",
+    "pass": 3
+   },
+   {
+    "quote": "How Intellipop scaled 200% in 2 years - gaiia — How Intellipop scaled 200% in 2 years - gaiia gaiia https://gaiia.com > case-studies > how...",
+    "url": "https://gaiia.com/case-studies/how-intellipop-scaled-200-in-2-years",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study : We increased gaiia's meetings booked by 21% — Case Study : We increased gaiia's meetings booked by 21% palisade.email https://www.palisade.email > case-stu...",
+    "url": "https://www.palisade.email/resources-post/case-study-we-increased-gaiias-open-rate",
+    "pass": 3
+   },
+   {
+    "quote": "Referral - Overview - Help Desk — Referral - Overview - Help Desk gaiia https://support.gaiia.com > articles > 4...",
+    "url": "https://support.gaiia.com/hc/en-us/articles/46641510467355-Referral-Overview",
+    "pass": 3
+   },
+   {
+    "quote": "Series A Funding Led by Inovia Capital - gaiia — Series A Funding Led by Inovia Capital - gaiia gaiia https://gaiia.com > newsroom > gaiia-...",
+    "url": "https://gaiia.com/newsroom/gaiia-raises-series-a-led-by-inovia-capital-to-revolutionize-customer-experience-for-internet-service-providers",
+    "pass": 3
+   },
+   {
+    "quote": "gaiia : Revenue , Competitors, Alternatives - Growjo — gaiia : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > company > gaiia",
+    "url": "https://growjo.com/company/gaiia",
+    "pass": 3
+   },
+   {
+    "quote": "gaiia Raises $40 Million Series B Led by JMI Equity to ... — gaiia Raises $40 Million Series B Led by JMI Equity to ... JMI Equity https://www.jmi.com > gaiia-raises-40...",
+    "url": "https://www.jmi.com/gaiia-raises-40-million-series-b-led-by-jmi-equity-to-modernize-the-operating-system-for-communications-service-providers/",
+    "pass": 3
+   },
+   {
+    "quote": "Gaiia Funding | $1.9-10.5M Revenue | Complete Analysis — Gaiia Funding | $1.9-10.5M Revenue | Complete Analysis Extruct AI https://www.extruct.ai > hub > gaiia-c...",
+    "url": "https://www.extruct.ai/hub/gaiia-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "gaiia Revenue 2023: $1.9M Est. - GetLatka — gaiia Revenue 2023: $1.9M Est. - GetLatka GetLatka https://getlatka.com > companies > gaiia",
+    "url": "https://getlatka.com/companies/gaiia.com",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "maigai (@maiagaiia) / X maigai (@maiagaiia) / X X https://x.com > maiagaiia",
+    "url": "https://x.com/maiagaiia",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "gaiia - LinkedIn gaiia - LinkedIn LinkedIn https://ca.linkedin.com > gaiiasoftware",
+    "url": "https://ca.linkedin.com/company/gaiiasoftware",
+    "pass": 3
+   },
+   {
+    "quote": "Stephen Farnsworth - gaiia - LinkedIn Stephen Farnsworth - gaiia - LinkedIn LinkedIn https://www.linkedin.com > stephen-f...",
+    "url": "https://www.linkedin.com/in/stephen-farnsworth",
+    "pass": 3
+   },
+   {
+    "quote": "Marc Campagna - gaiia - LinkedIn Marc Campagna - gaiia - LinkedIn LinkedIn https://ca.linkedin.com > marcandreca...",
+    "url": "https://ca.linkedin.com/in/marcandrecampagna",
+    "pass": 3
+   },
+   {
+    "quote": "Reilly Devine - gaiia - LinkedIn Reilly Devine - gaiia - LinkedIn LinkedIn https://www.linkedin.com > reillydevi...",
+    "url": "https://www.linkedin.com/in/reillydevine",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "GAIIA (@gaiiafans) - Facebook GAIIA (@gaiiafans) - Facebook Facebook https://www.facebook.com > Pages > Public figure > Artist",
+    "url": "https://www.facebook.com/gaiiafans/",
+    "pass": 3
+   },
+   {
+    "quote": "GAIIA | Delhi - Facebook GAIIA | Delhi - Facebook Facebook https://www.facebook.com > ... > Brand > Clothing (Brand)",
+    "url": "https://www.facebook.com/gaiiafashions/",
+    "pass": 3
+   },
+   {
+    "quote": "Gaiia Winter Collection: Timeless Silhouettes & Chic ... Gaiia Winter Collection: Timeless Silhouettes & Chic ... Facebook https://www.facebook.com > ... > GAIIA > Videos",
+    "url": "https://www.facebook.com/gaiiafashions/videos/winter-is-here-and-so-is-the-season-of-effortless-elegance-%EF%B8%8F-discover-the-gaiia-/28936197899393815/",
+    "pass": 3
+   },
+   {
+    "quote": "GAIIA Celine Metallic Dress Debut at Fashion Week 2026 in ... GAIIA Celine Metallic Dress Debut at Fashion Week 2026 in ... Facebook https://www.facebook.com > ... > GAIIA > Videos",
+    "url": "https://www.facebook.com/gaiiafashions/videos/meet-the-celine-metallic-dress-sculpted-fit-liquid-metal-shine-main-character-en/29082803604708943/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://gaiia.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gaiia.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gaiia.com/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gaiia.com/products/customer-portal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-conversion-rate-for-new-customers-by-6x",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gaiia.com/newsroom/new-customer-announcement-vistabeam",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gaiia.com/newsroom/wecom-fiber-partners-with-gaiia-to-power-high-speed-fiber-network-expansion-wsqvo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gaiia.com/case-studies/how-wecom-fiber-grew-subscribers-8x",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gaiia.com/case-studies/resound-real-time-system-driven-network-model",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gaiia.com/case-studies/vistabeam-workflow-automation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gaiia.com/case-studies/how-gwi-migrated-from-salesforce-to-gaiia",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gaiia.com/case-studies/how-direct-communications-launched-mobile-with-gaiia",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gaiia.com/case-studies/how-intellipop-scaled-200-in-2-years",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gaiia.com/case-studies/how-oxio-increased-their-operating-efficiency-by-29-in-6-months",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/685d8548ff18f67e0ca8eebe/685d8548ff18f67e0ca8f2f2_partners_hero_1.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/685d8548ff18f67e0ca8eebe/685d8548ff18f67e0ca8f301_partners_hero_2.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/685d8548ff18f67e0ca8eebe/685d8548ff18f67e0ca8f2ff_partners_hero_3.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/685d8548ff18f67e0ca8eebe/685d8548ff18f67e0ca8f300_partners_hero_4.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.gaia-edu.co.jp/case-studies/1747/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.t-gaia.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.gaiainc.jp/service/life-insurance2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.t-gaia.co.jp/corp/about/profile.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://gaia-head.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mid-tenshoku.com/agency/a-2288/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.stayjapan.com/feature/gaia-resort",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://underwatersculpture.com/projects/ocean-gaia/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Gaia_(game_company)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLHeYKVUbwv1_mMzlKOkBMKlPCr90lkclmNvSbF0tR96DJk5FlA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.palisade.email/resources-post/case-study-we-increased-gaiias-open-rate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globalshopsolutions.com/manufacturing-case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/partner-program/white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/ycombinator/comments/1hsdufh/anyone_offering_a_white_label_reseller_version_of/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/gaiia",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmi.com/gaiia-raises-40-million-series-b-led-by-jmi-equity-to-modernize-the-operating-system-for-communications-service-providers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.extruct.ai/hub/gaiia-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/maiagaiia",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/gaiiasoftware",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/stephen-farnsworth",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/marcandrecampagna",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/reillydevine",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/gaiiafans/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/gaiiafashions/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/gaiiafashions/videos/winter-is-here-and-so-is-the-season-of-effortless-elegance-%EF%B8%8F-discover-the-gaiia-/28936197899393815/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/gaiiafashions/videos/meet-the-celine-metallic-dress-sculpted-fit-liquid-metal-shine-main-character-en/29082803604708943/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Gaiia 日本 導入",
+   "results": [
+    "https://www.gaia-edu.co.jp/case-studies/1747/",
+    "https://www.stellantis.jp/",
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.t-gaia.co.jp/",
+    "https://www.atpress.ne.jp/news/1179094",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://www.webcg.net/articles/-/54501",
+    "https://www.jpo.go.jp/system/patent/gaiyo/bunrui/fi/gaia_index.html",
+    "https://gaiia.com/",
+    "https://theaiinsider.tech/2026/05/18/ai-operating-system-for-telecoms-gaiia-secures-40m-after-three-years-of-triple-digit-revenue-growth/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Gaiia 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.gaiainc.jp/service/life-insurance2/",
+    "https://www.t-gaia.co.jp/corp/about/profile.html",
+    "https://gaia-head.com/",
+    "https://mid-tenshoku.com/agency/a-2288/",
+    "https://ja.wikipedia.org/wiki/GAIA_(%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E4%BC%81%E6%A5%AD)",
+    "https://gaia-ad.co.jp/",
+    "https://www.youtube.com/watch?v=D_krY0NeSFU",
+    "https://gaia-hold.com/",
+    "https://gaia-tax.com/",
+    "https://ja.wikipedia.org/wiki/GA_technologies"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Gaiia Japan",
+   "results": [
+    "https://en.stayjapan.com/feature/gaia-resort",
+    "https://underwatersculpture.com/projects/ocean-gaia/",
+    "https://gaiia.com/",
+    "https://en.wikipedia.org/wiki/Gaia_(game_company)",
+    "https://www.nttdata.com/global/en/news/press-release/2024/october/ntt-data-and-gaia-x-expand-global-reach-with-deployment-of-gaia-x-digital-clearing-house-in-japan",
+    "https://www.gaia-vision.co.jp/en/company/",
+    "https://www.instagram.com/gaiajourneystravel/",
+    "https://gaia-web.nict.go.jp/models_e.html",
+    "https://gaia-resort.airhost.co/",
+    "https://en.wikipedia.org/wiki/Gaea_Japan"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Gaiia manufacturing customer case study",
+   "results": [
+    "https://gaiia.com/case-studies/how-intellipop-scaled-200-in-2-years",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLHeYKVUbwv1_mMzlKOkBMKlPCr90lkclmNvSbF0tR96DJk5FlA",
+    "https://www.palisade.email/resources-post/case-study-we-increased-gaiias-open-rate",
+    "https://www.globalshopsolutions.com/manufacturing-case-studies",
+    "https://c3.ai/customers",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://kanerika.com/blogs/generative-ai-in-manufacturing/",
+    "https://www.cloudypedia.com/case-studies",
+    "https://www.linkedin.com/pulse/case-studies-success-stories-ai-customer-experience-nicolas-babin-zmyqe",
+    "https://gaiia.com/customer-stories"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Gaiia white label OR reseller OR partner program",
+   "results": [
+    "https://viirtue.com/partner-program/white-label/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.reddit.com/r/ycombinator/comments/1hsdufh/anyone_offering_a_white_label_reseller_version_of/",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://support.gaiia.com/hc/en-us/articles/46641510467355-Referral-Overview",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://www.youtube.com/watch?v=0j22JYl44z4",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://sales-label.com/blog/white-label-saas-reseller",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Gaiia founded funding employees revenue",
+   "results": [
+    "https://gaiia.com/newsroom/gaiia-raises-series-a-led-by-inovia-capital-to-revolutionize-customer-experience-for-internet-service-providers",
+    "https://growjo.com/company/gaiia",
+    "https://www.jmi.com/gaiia-raises-40-million-series-b-led-by-jmi-equity-to-modernize-the-operating-system-for-communications-service-providers/",
+    "https://www.extruct.ai/hub/gaiia-com-funding/",
+    "https://getlatka.com/companies/gaiia.com",
+    "https://broadbandbreakfast.com/gaiia-raises-13-2-million-in-2/",
+    "https://dealroom.co/companies/gaiia/",
+    "https://www.privco.com/company/quebec",
+    "https://tracxn.com/d/companies/gaiia/__q7O3C-vcmykevTd1w_9KZcjS1tNY5TDs2SsRfMHaCkY",
+    "https://pitchbook.com/profiles/company/537520-33"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Gaiia",
+   "results": [
+    "https://note.com/takanori_matsui/n/nfaad9fd54990",
+    "https://note.com/sora_wa_hiroi/n/n83bec1292e30",
+    "https://note.com/ai_grapher/n/n19e3fd074d84",
+    "https://note.com/osamu_iga/n/n06af381a4fc3",
+    "https://note.com/blacktristars",
+    "https://note.com/blacktristars/all",
+    "https://note.com/bright_jacana710/n/ne1e91d794d6c?hl=en",
+    "https://note.com/blacktristars/n/nf4682c3b7054?hl=en",
+    "https://note.com/taku_sid/n/n844e4ff99cff",
+    "https://note.com/blacktristars/n/n3dfa1d8e3342"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:x.com Gaiia",
+   "results": [
+    "https://x.com/maiagaiia",
+    "https://x.com/hashtag/gaiaxcommunity?lang=ar&src=hashtag_click&f=user",
+    "https://x.com/clearnetworx",
+    "https://x.com/itsdiredesires/status/1936091682820571533",
+    "https://x.com/BackTheSoul/status/2119811862535536925/photo/3",
+    "https://x.com/BeyLegion/status/569798589439877121",
+    "https://x.com/BackTheSoul/status/2119811862535536925/photo/2",
+    "https://x.com/BackTheSoul/status/2119811862535536925/photo/4",
+    "https://x.com/BackTheSoul/status/2119811862535536925/photo/1",
+    "https://x.com/zeekspizza"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com Gaiia",
+   "results": [
+    "https://ca.linkedin.com/company/gaiiasoftware",
+    "https://www.linkedin.com/in/stephen-farnsworth",
+    "https://ca.linkedin.com/in/marcandrecampagna",
+    "https://www.linkedin.com/in/reillydevine",
+    "https://ca.linkedin.com/in/evanmatthews",
+    "https://ca.linkedin.com/in/olivier-falardeau-5513139b",
+    "https://www.linkedin.com/in/ryan-jander",
+    "https://ca.linkedin.com/in/erin-bury-cpa-ca-cfa-82b0893b",
+    "https://www.linkedin.com/in/cario",
+    "https://www.linkedin.com/company/gaiiasoftware"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Gaiia",
+   "results": [
+    "https://www.facebook.com/gaiiafans/",
+    "https://www.facebook.com/gaiiafashions/",
+    "https://www.facebook.com/gaiiafashions/videos/winter-is-here-and-so-is-the-season-of-effortless-elegance-%EF%B8%8F-discover-the-gaiia-/28936197899393815/",
+    "https://www.facebook.com/gaiiafashions/videos/meet-the-celine-metallic-dress-sculpted-fit-liquid-metal-shine-main-character-en/29082803604708943/",
+    "https://www.facebook.com/gaiiafashions/posts/790417217480486/",
+    "https://www.facebook.com/gaiiataiwan/",
+    "https://www.facebook.com/gaiiafashions/posts/winter-is-here-and-so-is-the-season-of-effortless-elegance-%EF%B8%8F-discover-the-gaiia-/961287980393408/",
+    "https://www.facebook.com/100093096987258/photos/1034810069632216/",
+    "https://www.facebook.com/gaiia.gaiia/",
+    "https://www.facebook.com/gaiia.savons/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Gaiia note 社長",
+   "results": [
+    "https://www.gaianotes.com/company.html",
+    "https://x.com/atsuo_semba/status/1343143434622660609",
+    "https://note.com/gaea_field/n/n9a0936337aff",
+    "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%82%A4%E3%82%A2%E3%83%8E%E3%83%BC%E3%83%84",
+    "https://note.com/northy",
+    "https://note.com/gaiaflow_co/n/nb3fdb3e2d6fa",
+    "https://gaiainc.jp/career/top-message/",
+    "https://www.youtube.com/watch?v=Qu7YDTaMMeU",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Gaiia X 投稿",
+   "results": [
+    "https://gaia-x.gitlab.io/glossary/",
+    "https://www.oecd.org/en/publications/access-to-public-research-data-toolkit_a12e8998-en/gaia-x_db008090-en.html",
+    "https://gaia-x.eu/about/",
+    "https://www.youtube.com/channel/UCB5WMc2FfrxKzfd7XIODoMw",
+    "https://www.gaiax-spain.com/gaia-x-hub-espana/",
+    "https://gaia-x-hub.de/en/gaia-x-explained/",
+    "https://www.youtube.com/watch?v=SIu5ZL-l2d0",
+    "https://www.bundeswirtschaftsministerium.de/Redaktion/EN/Publikationen/gaia-x-policy-rules-and-architecture-of-standards.pdf?__blob=publicationFile&v=1",
+    "https://gaiia.com/",
+    "https://www.twitch.tv/gaiia_x?lang=ja"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部30頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部30頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部30頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部30頁・検索12回）"
+ }
+}

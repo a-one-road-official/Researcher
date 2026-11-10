@@ -1,0 +1,1752 @@
+{
+ "name": "Dyspatch",
+ "aliases": [],
+ "context": "旧営業リスト｜Marketing & Sales Tech｜リマイン1",
+ "researched_at": "2026-11-10T17:34:45.141102+00:00",
+ "official_url": "https://www.dyspatch.io",
+ "identified_by": "given",
+ "profile": {
+  "連絡先": [
+   {
+    "label": "AMP Email Support",
+    "value": "✓ ✓ ✓",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "label": "AMP Email Support",
+    "value": "✓ ✓ ✓",
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "pass": 1
+   },
+   {
+    "label": "AMP Email Support",
+    "value": "✓ ✓ ✓",
+    "url": "https://www.dyspatch.io/partners/sendgrid/",
+    "pass": 1
+   },
+   {
+    "label": "AMP Email Support",
+    "value": "✓ ✓ ✓",
+    "url": "https://www.dyspatch.io/partners/salesforce-sfmc/",
+    "pass": 1
+   },
+   {
+    "label": "AMP Email Support",
+    "value": "✓ ✓ ✓",
+    "url": "https://www.dyspatch.io/partners/pardot/",
+    "pass": 1
+   },
+   {
+    "label": "AMP Email Support",
+    "value": "✓ ✓ ✓",
+    "url": "https://www.dyspatch.io/partners/marketo/",
+    "pass": 1
+   },
+   {
+    "label": "AMP Email Support",
+    "value": "✓ ✓ ✓",
+    "url": "https://www.dyspatch.io/partners/oracle-eloqua/",
+    "pass": 1
+   },
+   {
+    "label": "AMP Email Support",
+    "value": "✓ ✓ ✓",
+    "url": "https://www.dyspatch.io/partners/klaviyo/",
+    "pass": 1
+   },
+   {
+    "label": "AMP Email Support",
+    "value": "✓ ✓ ✓",
+    "url": "https://www.dyspatch.io/about/",
+    "pass": 1
+   },
+   {
+    "label": "AMP Email Support",
+    "value": "✓ ✓ ✓",
+    "url": "https://www.dyspatch.io/about/careers/",
+    "pass": 1
+   },
+   {
+    "label": "AMP Email Support",
+    "value": "✓ ✓ ✓",
+    "url": "https://www.dyspatch.io/partners/hubspot/",
+    "pass": 1
+   },
+   {
+    "label": "AMP Email Support",
+    "value": "✓ ✓ ✓",
+    "url": "https://www.dyspatch.io/partners/braze/",
+    "pass": 1
+   },
+   {
+    "label": "AMP Email Support",
+    "value": "✓ ✓ ✓",
+    "url": "https://www.dyspatch.io/pricing/",
+    "pass": 1
+   },
+   {
+    "label": "AMP Email Support",
+    "value": "✓ ✓ ✓",
+    "url": "https://www.dyspatch.io/blog/category/case-studies/",
+    "pass": 1
+   },
+   {
+    "label": "AMP Email Support",
+    "value": "✓ ✓ ✓",
+    "url": "https://www.dyspatch.io/blog/5-best-ai-email-creation-tools-for-finance-teams-2026/",
+    "pass": 1
+   },
+   {
+    "label": "AMP Email Support",
+    "value": "✓ ✓ ✓",
+    "url": "https://www.dyspatch.io/partners/email-industries/",
+    "pass": 1
+   },
+   {
+    "label": "iContact",
+    "value": "Formerly VC-backed Morrisville, NC",
+    "url": "https://pitchbook.com/profiles/company/61420-51",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "label": "Pricing",
+    "value": "$149/mo $499/mo Custom",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "label": "Pricing",
+    "value": "$149/mo $499/mo Custom",
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "pass": 1
+   },
+   {
+    "label": "Pricing",
+    "value": "$149/mo $499/mo Custom",
+    "url": "https://www.dyspatch.io/partners/sendgrid/",
+    "pass": 1
+   },
+   {
+    "label": "Pricing",
+    "value": "$149/mo $499/mo Custom",
+    "url": "https://www.dyspatch.io/partners/salesforce-sfmc/",
+    "pass": 1
+   },
+   {
+    "label": "Pricing",
+    "value": "$149/mo $499/mo Custom",
+    "url": "https://www.dyspatch.io/partners/pardot/",
+    "pass": 1
+   },
+   {
+    "label": "Pricing",
+    "value": "$149/mo $499/mo Custom",
+    "url": "https://www.dyspatch.io/partners/marketo/",
+    "pass": 1
+   },
+   {
+    "label": "Pricing",
+    "value": "$149/mo $499/mo Custom",
+    "url": "https://www.dyspatch.io/partners/oracle-eloqua/",
+    "pass": 1
+   },
+   {
+    "label": "Pricing",
+    "value": "$149/mo $499/mo Custom",
+    "url": "https://www.dyspatch.io/partners/klaviyo/",
+    "pass": 1
+   },
+   {
+    "label": "Pricing",
+    "value": "$149/mo $499/mo Custom",
+    "url": "https://www.dyspatch.io/about/",
+    "pass": 1
+   },
+   {
+    "label": "Pricing",
+    "value": "$149/mo $499/mo Custom",
+    "url": "https://www.dyspatch.io/about/careers/",
+    "pass": 1
+   },
+   {
+    "label": "Pricing",
+    "value": "$149/mo $499/mo Custom",
+    "url": "https://www.dyspatch.io/partners/hubspot/",
+    "pass": 1
+   },
+   {
+    "label": "Pricing",
+    "value": "$149/mo $499/mo Custom",
+    "url": "https://www.dyspatch.io/partners/braze/",
+    "pass": 1
+   },
+   {
+    "label": "Pricing",
+    "value": "$149/mo $499/mo Custom",
+    "url": "https://www.dyspatch.io/pricing/",
+    "pass": 1
+   },
+   {
+    "label": "Pricing",
+    "value": "$149/mo $499/mo Custom",
+    "url": "https://www.dyspatch.io/blog/category/case-studies/",
+    "pass": 1
+   },
+   {
+    "label": "Pricing",
+    "value": "$149/mo $499/mo Custom",
+    "url": "https://www.dyspatch.io/blog/5-best-ai-email-creation-tools-for-finance-teams-2026/",
+    "pass": 1
+   },
+   {
+    "label": "Pricing",
+    "value": "$149/mo $499/mo Custom",
+    "url": "https://www.dyspatch.io/partners/email-industries/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$108,000",
+    "url": "https://prospeo.io/c/dyspatch-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$6,000,000",
+    "url": "https://prospeo.io/c/dyspatch-revenue",
+    "pass": 3
+   },
+   {
+    "label": "4. Seed Round",
+    "value": "10-Apr-2014    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/61420-51",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "01-Mar-2014 $300K   Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/61420-51",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "548 Market St, San Francisco, California 94104, US",
+    "url": "https://prospeo.io/c/dyspatch-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2013",
+    "url": "https://prospeo.io/c/dyspatch-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Email production for marketers",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Franchise Email Marketing",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-Powered Email Marketing Platform",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Create and change campaigns in plain language, not endless threads.",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI-powered email marketing suite eliminates bottlenecks by automating the heavy lifting while amplifying your creative vision.",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "From transforming your brand assets into cohesive design systems to generating campaign-ready content in seconds, our tools help email marketers work smarter, faster, and with unprecedented precision.",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn Marketing Briefs into Email Campaigns",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Email Builder",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Dyspatch is an email template management platform that lets marketing and design teams build, collaborate on, approve, and localize email campaigns without writing code.",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Dyspatch's AI-powered email marketing suite lets marketing and design teams generate, build, collaborate on, approve, and localize their email campaigns without writing code.",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Collaborate with your team to create, translate, and approve not only emails, but SMS, push notifications, and voice notifications as well within Dyspatch and then export them to your CRM all in a few easy steps!",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "SMS marketing builder",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Global Head of Lifecycle Marketing",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Dyspatch has massively reduced the hours our team spends on creating emails, which has allowed us to really scale our content production. We're producing over 20 emails a week, and the platform ensures every single one is on-brand, localized, and responsive, without any engineering effort.",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Building, testing, and translating localized email templates is no small feat. It can be time-consuming, costly, and testing is tricky unless you’re multilingual. Dyspatch simplifies the process from end-to-end, so you can",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "improve time to market by up to 250%",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "The Blueprint for Governing Franchise Email",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Locked Templates, Editable Fields, and Approval Workflows When it comes to franchise …",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "about The Blueprint for Governing Franchise Email",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Have more questions about Dyspatch's AI marketing tools?",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Dyspatch is enterprise email template management software that lets marketing and product teams design, approve, and deploy transactional and marketing emails at scale, without engineering bottlenecks.",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Dyspatch is built for enterprise governance and is ESP-agnostic: templates created in Dyspatch deploy to any sending platform (SendGrid, Mailgun, Braze, Iterable, SES, and more). Teams choose Dyspatch over Stensul, Stripo, and Chamaileon when they need brand and approval controls across both marketing and transactional email.",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Which email service providers does Dyspatch integrate with?",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Dyspatch integrates with all major ESPs and customer engagement platforms, including SendGrid, Mailgun, Amazon SES, Braze, Iterable, Salesforce Marketing Cloud, Klaviyo, and more. Templates are deployed via API or direct push, so a single design system can power every system that sends.",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Dyspatch is one of the few enterprise email builders with full AMP for Email support, including interactive components, real-time data, and fallback HTML rendering for clients that don't support AMP.",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Email production for marketers",
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "Franchise Email Marketing",
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "SAP Marketing Cloud Email Builder | Easily Design Email Templates",
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "Twilio Email Builder | Easily collaborate on SMS Marketing",
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes Marketing Email Builder | Easily Design Email Templates",
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to streamline your email creation process?",
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "Why wait? Take your email marketing to the next level today.",
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "Scribe AI email marketing tools",
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "Email builder for Salesforce Marketing Cloud",
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "Dyspatch respectfully acknowledges the Lekwungen and W̱SÁNEĆ People, whose unceded territories we live and work on. We would also like to express our gratitude to all of the Coast Salish people as we continue to work and live as guests on their lands.",
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "Social media link settings",
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "Email production for marketers",
+    "url": "https://www.dyspatch.io/partners/sendgrid/",
+    "pass": 1
+   },
+   {
+    "quote": "Franchise Email Marketing",
+    "url": "https://www.dyspatch.io/partners/sendgrid/",
+    "pass": 1
+   },
+   {
+    "quote": "Push your approved email templates to SendGrid in seconds through a click-and-connect integration",
+    "url": "https://www.dyspatch.io/partners/sendgrid/",
+    "pass": 1
+   },
+   {
+    "quote": "SendGrid is a cloud-based email delivery platform that helps businesses send marketing, transactional, and notification emails reliably at scale.",
+    "url": "https://www.dyspatch.io/partners/sendgrid/",
+    "pass": 1
+   },
+   {
+    "quote": "Email Marketing Tools:",
+    "url": "https://www.dyspatch.io/partners/sendgrid/",
+    "pass": 1
+   },
+   {
+    "quote": "Provides tools for designing, sending, and analyzing marketing campaigns.",
+    "url": "https://www.dyspatch.io/partners/sendgrid/",
+    "pass": 1
+   },
+   {
+    "quote": "Dyspatch makes in-depth personalization a cinch, with Customer Profiles. Build profiles for your customer personas, and watch Dyspatch do the rest.",
+    "url": "https://www.dyspatch.io/partners/sendgrid/",
+    "pass": 1
+   },
+   {
+    "quote": "Implementing interactive and dynamic content doesn’t have to be complicated. Simply drag-and-drop pre-coded content blocks into your email templates to increase engagement.",
+    "url": "https://www.dyspatch.io/partners/sendgrid/",
+    "pass": 1
+   },
+   {
+    "quote": "Testing and previews for quality assurance",
+    "url": "https://www.dyspatch.io/partners/sendgrid/",
+    "pass": 1
+   },
+   {
+    "quote": "Make sure your emails look amazing in every inbox with integrated Litmus testing. Preview your emails across all email clients, and even in dark mode, right in Dyspatch.",
+    "url": "https://www.dyspatch.io/partners/sendgrid/",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to streamline your email creation process?",
+    "url": "https://www.dyspatch.io/partners/sendgrid/",
+    "pass": 1
+   },
+   {
+    "quote": "Does Dyspatch's dynamic and interactive content work in SendGrid?",
+    "url": "https://www.dyspatch.io/partners/sendgrid/",
+    "pass": 1
+   },
+   {
+    "quote": "You can test your emails right in Dyspatch. Integrated Litmus testing allows you to preview your templates across all email clients, devices, and even in dark mode. This functionality is part of Dyspatch’s approval workflow, along with the option to send yourself and your team members a test email to double check elements like links.",
+    "url": "https://www.dyspatch.io/partners/sendgrid/",
+    "pass": 1
+   },
+   {
+    "quote": "Dyspatch includes advanced collaboration features, like annotated comments and built-in workflows. So your email team can communicate with full transparency throughout all stages of email creation. Once a template is approved, a click and connect integration with SendGrid makes it quick and easy to move from creation to send.",
+    "url": "https://www.dyspatch.io/partners/sendgrid/",
+    "pass": 1
+   },
+   {
+    "quote": "What kind of pricing does Dyspatch offer?",
+    "url": "https://www.dyspatch.io/partners/sendgrid/",
+    "pass": 1
+   },
+   {
+    "quote": "three monthly or annual pricing plans",
+    "url": "https://www.dyspatch.io/partners/sendgrid/",
+    "pass": 1
+   },
+   {
+    "quote": "based on your team's needs and size. Find the setup that works for you and enjoy interactive, pre-coded AMP modules with every pricing plan.",
+    "url": "https://www.dyspatch.io/partners/sendgrid/",
+    "pass": 1
+   },
+   {
+    "quote": "Scribe AI email marketing tools",
+    "url": "https://www.dyspatch.io/partners/sendgrid/",
+    "pass": 1
+   },
+   {
+    "quote": "Email builder for Salesforce Marketing Cloud",
+    "url": "https://www.dyspatch.io/partners/sendgrid/",
+    "pass": 1
+   },
+   {
+    "quote": "Dyspatch respectfully acknowledges the Lekwungen and W̱SÁNEĆ People, whose unceded territories we live and work on. We would also like to express our gratitude to all of the Coast Salish people as we continue to work and live as guests on their lands.",
+    "url": "https://www.dyspatch.io/partners/sendgrid/",
+    "pass": 1
+   },
+   {
+    "quote": "Social media link settings",
+    "url": "https://www.dyspatch.io/partners/sendgrid/",
+    "pass": 1
+   },
+   {
+    "quote": "Email production for marketers",
+    "url": "https://www.dyspatch.io/partners/salesforce-sfmc/",
+    "pass": 1
+   },
+   {
+    "quote": "Franchise Email Marketing",
+    "url": "https://www.dyspatch.io/partners/salesforce-sfmc/",
+    "pass": 1
+   },
+   {
+    "quote": "Using Dyspatch & Salesforce Marketing Cloud (SFMC)",
+    "url": "https://www.dyspatch.io/partners/salesforce-sfmc/",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "From transforming your brand assets into cohesive design systems to generating campaign-ready content in seconds, our tools help email marketers work smarter, faster, and with unprecedented precision.",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate your brand's messaging strategy",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "From transforming your brand assets into cohesive design systems to generating campaign-ready content in seconds, our tools help email marketers work smarter, faster, and with unprecedented precision.",
+    "url": "https://www.dyspatch.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us to learn more about Dyspatch for agencies",
+    "url": "https://www.dyspatch.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Rebranding at scale: a deep dive into Cambium’s email design strategy",
+    "url": "https://www.dyspatch.io/blog/category/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Cambium scales email rebranding with Dyspatch and cuts build time from hours to minutes",
+    "url": "https://www.featuredcustomers.com/vendor/dyspatch/case-studies",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "How is Dyspatch different from Stensul, Stripo, or Chamaileon?",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Dyspatch is built for enterprise governance and is ESP-agnostic: templates created in Dyspatch deploy to any sending platform (SendGrid, Mailgun, Braze, Iterable, SES, and more). Teams choose Dyspatch over Stensul, Stripo, and Chamaileon when they need brand and approval controls across both marketing and transactional email.",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "You can test your emails right in Dyspatch. Integrated Litmus testing allows you to preview your templates across all email clients, devices, and even in dark mode. This functionality is part of Dyspatch’s approval workflow, along with the option to send yourself and your team members a test email to double check elements like links.",
+    "url": "https://www.dyspatch.io/partners/sendgrid/",
+    "pass": 1
+   },
+   {
+    "quote": "Pardot is a B2B marketing automation platform owned by Salesforce, designed to help companies create meaningful connections, generate more pipeline, and empower sales to close more deals.",
+    "url": "https://www.dyspatch.io/partners/pardot/",
+    "pass": 1
+   },
+   {
+    "quote": "We come by our roots honestly. Our founder and CEO, Matt Harris, started playing with code and making websites when he was just a kid. During college, he worked as a contract developer to pay his way. So our story begins in earnest...",
+    "url": "https://www.dyspatch.io/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Localization and multi-locale governance are not part of the core offering",
+    "url": "https://www.dyspatch.io/blog/5-best-ai-email-creation-tools-for-finance-teams-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-powered content generation features are not part of the current offering",
+    "url": "https://www.dyspatch.io/blog/5-best-ai-email-creation-tools-for-finance-teams-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Financial services email production sits at the intersection of speed, compliance, and global scale. Your team needs to move fast on campaigns, but every email carries regulatory weight that generic marketing tools are not built to handle. Dyspatch was designed for exactly this intersection.",
+    "url": "https://www.dyspatch.io/blog/5-best-ai-email-creation-tools-for-finance-teams-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "From strategic consulting and team training to full-service campaign execution, Email Industries empowers Dyspatch customers to run smarter email programs that convert more customers and generate more revenue. Ready to boost your inbox placement? Start with a free deliverability assessment.",
+    "url": "https://www.dyspatch.io/partners/email-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "・代表者: Matt Harris（創業者兼CEO）",
+    "url": "https://www.firstcvc.jp/global/dyspatch.io",
+    "pass": 3
+   },
+   {
+    "quote": "Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...",
+    "url": "https://www.firstcvc.jp/global/dyspatch.io",
+    "pass": 3
+   },
+   {
+    "quote": "Metriportは、米国の医療データを統合・標準化し、医療従事者や臨床AIエージェントにリアルタイムで提供するオープンソースの医療データインフラ企業であ...",
+    "url": "https://www.firstcvc.jp/global/dyspatch.io",
+    "pass": 3
+   },
+   {
+    "quote": "Stripo is an online drag-n-drop and HTML email platform. They help you build high-quality emails of any complexity, including ones with AMP, real-time, and interactive content, twice as fast. Embedded …",
+    "url": "https://www.featuredcustomers.com/vendor/dyspatch/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/dyspatch/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Dyspatch Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/dyspatch-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Dyspatch",
+    "url": "https://prospeo.io/c/dyspatch-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/dyspatch-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/dyspatch-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/dyspatch-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Dyspatch?",
+    "url": "https://prospeo.io/c/dyspatch-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Dyspatch generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/dyspatch-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/dyspatch-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/dyspatch-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Dyspatch have?",
+    "url": "https://prospeo.io/c/dyspatch-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/dyspatch-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/61420-51",
+    "pass": 3
+   },
+   {
+    "quote": "Dyspatch has 22 total employees.",
+    "url": "https://pitchbook.com/profiles/company/61420-51",
+    "pass": 3
+   },
+   {
+    "quote": "What is Dyspatch’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/61420-51",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Dyspatch is",
+    "url": "https://pitchbook.com/profiles/company/61420-51",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Email Template Management Platform | Dyspatch",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "No-code email builder",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Tools for email designers",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Email production for marketers",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Resources for email developers",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Franchise Email Marketing",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Scribe Email Assistant",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-Powered Email Marketing Platform",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Powerful enough for your email design system. Simple enough for your agents to build on.",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Brief your agent, get a finished email.",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Dyspatch is deceptively powerful. The platform is easy enough that our whole lifecycle team adopted it quickly, yet sophisticated enough to support our full email design system. Migration was straightforward, the team was hands-on throughout, and we're now shipping beautiful emails in a fraction of the time.",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "AI tools for email marketers",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI-powered email marketing suite eliminates bottlenecks by automating the heavy lifting while amplifying your creative vision.",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "From transforming your brand assets into cohesive design systems to generating campaign-ready content in seconds, our tools help email marketers work smarter, faster, and with unprecedented precision.",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "AI for Email Marketers",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Orchestrate Emails with our MCP Server",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Import Figma Designs as Editable Emails",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn Marketing Briefs into Email Campaigns",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Email Builder",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Dyspatch is an email template management platform that lets marketing and design teams build, collaborate on, approve, and localize email campaigns without writing code.",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Create, optimize, and scale your campaigns with Dyspatch's AI email platform",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Dyspatch's AI-powered email marketing suite lets marketing and design teams generate, build, collaborate on, approve, and localize their email campaigns without writing code.",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Collaborate with your team to create, translate, and approve not only emails, but SMS, push notifications, and voice notifications as well within Dyspatch and then export them to your CRM all in a few easy steps!",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Dyspatch has massively reduced the hours our team spends on creating emails, which has allowed us to really scale our content production. We're producing over 20 emails a week, and the platform ensures every single one is on-brand, localized, and responsive, without any engineering effort.",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Regardless of what you use to send. Dyspatch empowers you to manage your emails in one place and sync your on-brand emails to your",
+    "url": "https://www.dyspatch.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Dyspatch Partners & Integrations | Become an Email Expert",
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "No-code email builder",
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "Tools for email designers",
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "Email production for marketers",
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "Resources for email developers",
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "Franchise Email Marketing",
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "Scribe Email Assistant",
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "Regardless of what you use to send. Dyspatch empowers you to manage your emails in one place and sync them across multiple platforms. The generated HTML is tested across multiple email clients using our integrated Litmus testing to ensure design consistency and quality, so you can send with confidence.",
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "Adobe Campaign Email Builder | Easily Design Email Templates",
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "Amazon Pinpoint Email Builder | Easily Design Email Templates",
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "Amazon Web Services Email Builder | Easily Design Email Templates",
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "Asana Email Collaboration",
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "Blueshift Email Builder | Easily Design Email Templates",
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "Braze Email Builder | Easily Design Email Templates",
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "Brevo Email Designer | Easily Design Email Templates",
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "Cheetah Digital Email Builder | Easily Design Email Templates",
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "Crowdin Email Localizations Integration | Easily Design Email Templates",
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "Customer.io Email Builder | Easily Design Email Templates",
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "Dotdigital Email Builder | Easily Design Email Templates",
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "Eloqua Email Builder | Easily Design Email Templates",
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "Epsilon Email Builder | Easily Design Email Templates",
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "Figma Email Designer Integrations | Easily Design Email Templates",
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "GetResponse Email Builder | Easily Design Email Templates",
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "Google Drive Email Collaboration",
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "Handlebars Email Builder | Easily Design Email Templates",
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "Sendgrid Email Builder | Easily Design Email Templates | Dyspatch",
+    "url": "https://www.dyspatch.io/partners/sendgrid/",
+    "pass": 1
+   },
+   {
+    "quote": "No-code email builder",
+    "url": "https://www.dyspatch.io/partners/sendgrid/",
+    "pass": 1
+   },
+   {
+    "quote": "Tools for email designers",
+    "url": "https://www.dyspatch.io/partners/sendgrid/",
+    "pass": 1
+   },
+   {
+    "quote": "Email production for marketers",
+    "url": "https://www.dyspatch.io/partners/sendgrid/",
+    "pass": 1
+   },
+   {
+    "quote": "Resources for email developers",
+    "url": "https://www.dyspatch.io/partners/sendgrid/",
+    "pass": 1
+   },
+   {
+    "quote": "Franchise Email Marketing",
+    "url": "https://www.dyspatch.io/partners/sendgrid/",
+    "pass": 1
+   },
+   {
+    "quote": "Scribe Email Assistant",
+    "url": "https://www.dyspatch.io/partners/sendgrid/",
+    "pass": 1
+   },
+   {
+    "quote": "Create Sendgrid email templates with ease",
+    "url": "https://www.dyspatch.io/partners/sendgrid/",
+    "pass": 1
+   },
+   {
+    "quote": "Get agile with a no-code, drag-and-drop email builder",
+    "url": "https://www.dyspatch.io/partners/sendgrid/",
+    "pass": 1
+   },
+   {
+    "quote": "Give your team the autonomy to create and the flexibility to innovate with Dyspatch. An innovative drag-and-drop email builder, non-technical users can create emails at lightning speed, without sacrificing quality.",
+    "url": "https://www.dyspatch.io/partners/sendgrid/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "AI features, including Scribe and MCP agent operators, operate inside your existing themes, blocks, and guardrails, so AI-generated content stays within brand and compliance boundaries instead of bypassing them",
+    "url": "https://www.dyspatch.io/blog/5-best-ai-email-creation-tools-for-finance-teams-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, when the AI operates within a governed framework. The key is constraining AI output to approved language, locking compliance-critical content blocks, and routing every AI-assisted draft through human review before send. Dyspatch keeps AI tools, including Scribe and MCP agent operators, within its governed workflow so your team gets drafting speed without uncontrolled content risk.",
+    "url": "https://www.dyspatch.io/blog/5-best-ai-email-creation-tools-for-finance-teams-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Global Technology Corporation achieves streamlined, scalable email production and centralized governance with Dyspatch | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/dyspatch/case-study/global-technology-corporation-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Global Technology Corporation achieves streamlined, scalable email production and centralized governance with Dyspatch",
+    "url": "https://www.casestudies.com/company/dyspatch/case-study/global-technology-corporation-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Global Technology Corporation - Customer Case Study",
+    "url": "https://www.casestudies.com/company/dyspatch/case-study/global-technology-corporation-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Open case study document...",
+    "url": "https://www.casestudies.com/company/dyspatch/case-study/global-technology-corporation-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/dyspatch/case-study/global-technology-corporation-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/dyspatch/case-studies",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Email Template Management Platform | Dyspatch — Dyspatch is an email template management platform that lets marketing and design teams build, collaborate on, approve, and localize email campaigns without writing code.",
+    "url": "https://www.dyspatch.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Press & Media | Dyspatch & Sendwithus — An extensive compilation of the latest press releases, guest articles, and media coverage for Dyspatch, the email production platform.",
+    "url": "https://www.dyspatch.io/press/",
+    "pass": 3
+   },
+   {
+    "quote": "Dyspatchの資金調達・投資家情報 | 海外スタートアップ | FIRST CVC — Initialized Capital、Y Combinator、Gradient Venturesのポートフォリオに掲載される海外スタートアップDyspatchの企業プロフィール。Dyspatch（運営法人: Techdrop Labs Inc.）は、エンジニアに依存せずマーケティングやCRM、製品チームが直感...",
+    "url": "https://www.firstcvc.jp/global/dyspatch.io",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Dispatch - FacebookDyspatch | LinkedInDyspatch for Translators | DyspatchList from best to worse dispatch companies. : r/teachinginjapan — Oct 17, 2026 · Japan Dispatch. 4,302 followers · 93 talking about this. ディスパッチ (Dispatch)公式日本フェイスブックページ Dyspatch | LinkedInのフォロワー数1,861人。Streamline your entire email creation process with the Dyspatch Email Builder. | Empower your team to create, innovate",
+    "url": "https://www.facebook.com/JapanDispatch/",
+    "pass": 3
+   },
+   {
+    "quote": "Dyspatch | LinkedIn — Dyspatch | LinkedInのフォロワー数1,861人。Streamline your entire email creation process with the Dyspatch Email Builder. | Empower your team to create, innovate, and grow with the Dyspatch Email Builder. Dyspatch is an industry-leading solution for email production and management. With Dyspatch, you can build engaging, interactive emails, without having to write code.",
+    "url": "https://jp.linkedin.com/company/dyspatch",
+    "pass": 3
+   },
+   {
+    "quote": "Dyspatch for Translators | Dyspatch — Automate your email translation with our built in integrations Dyspatch has partnered with the world’ leading translations and localization services worldwide, including Smartling and Phrase, and XTM and CrowdIn, and more. Whether you’re a startup, or operating at scale, Dyspatch for translators is the tool you’ve been looking for.",
+    "url": "https://www.dyspatch.io/platform/dyspatch-for-translators/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Global Technology Corporation achieves ... — Global Technology Corporation partnered with Dyspatch (Computer Software) to solve key challenges. \"Global Technology Corporation - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/dyspatch/case-study/global-technology-corporation-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "24 Dyspatch Case Studies, Success Stories, & Customer Stories — Dyspatch has a 4.8/5 star rating. Learn what their customers think, get 24 free case studies and more.",
+    "url": "https://www.featuredcustomers.com/vendor/dyspatch/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Dyspatch – Funding, Acquisitions & Key Rivals – 2026 — Dyspatch positions itself through estimated revenue of $2.7M, team of around 20+ employees from San Francisco, aligned with its business vision.",
+    "url": "https://compworth.com/company/dyspatch",
+    "pass": 3
+   },
+   {
+    "quote": "Dyspatch Revenue, Funding & Valuation - prospeo.io — Dyspatch has revenue of $3,000,000, estimated valuation of $9,600,000, $6,000,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/dyspatch-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Dyspatch - 2026 Company Profile, Team, Funding & Competitors ... — Jan 9, 2026 · Dyspatch is a series A company based in San Francisco (United States), founded in 2013 by Matt Harris and Brad Van Vugt. It operates as a Cloud based platform offering software for email marketing. Dyspatch has raised $7.42M in funding from investors like Y Combinator, SV Angel and BlueRun Ventures. The company has 87",
+    "url": "https://tracxn.com/d/companies/dyspatch/__ntn4Gjb1ds7XXU95HsFKJX-WN0DPqc9lH2b23UXrlEg",
+    "pass": 3
+   },
+   {
+    "quote": "Dyspatch 2026 Company Profile: Valuation, Funding & Investors ...Dyspatch Revenue 2024: $2.5M Est., $11M Raised - LATKADyspatch - Overview, News & Similar companies | ZoomInfo.comDyspatch Information - RocketReach — Dyspatch is a Private company. What is Dyspatch’s current revenue? The current revenue for Dyspatch is . How much funding has Dyspatch raised over time? Dyspatch has raised $13.4M. Who",
+    "url": "https://pitchbook.com/profiles/company/61420-51",
+    "pass": 3
+   },
+   {
+    "quote": "Dyspatch Revenue 2024: $2.5M Est., $11M Raised - LATKA — Oct 17, 2024 · Dyspatch 2024 estimated revenue: $2.5M (up from $1.5M in 2023). Total funding: $11M across 2 rounds. 200 customers, 22 employees. Updated Oct 17, 2024.",
+    "url": "https://getlatka.com/companies/dyspatch",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "メールマーケティング第一人者が設立したスタートアップDyspatchディ... メールマーケティング第一人者が設立したスタートアップDyspatchディスパッチ社 (いまノーコード•ブレイクスルーVol.26)",
+    "url": "https://note.com/vueloo_blog/n/n7b4461821173",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "ノーコードSaaS世界図鑑（日本語版）DXに不可欠",
+    "url": "https://note.com/vueloo_blog/n/n7b4461821173",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "メールマーケティング第一人者が設立したスタートアップDyspatchディスパッチ社(いまノーコード•ブレイクスルーVol.26)｜MasaT. 武富 正人",
+    "url": "https://note.com/vueloo_blog/n/n7b4461821173",
+    "pass": 3
+   },
+   {
+    "quote": "メールマーケティング第一人者が設立したスタートアップDyspatchディスパッチ社(いまノーコード•ブレイクスルーVol.26)",
+    "url": "https://note.com/vueloo_blog/n/n7b4461821173",
+    "pass": 3
+   },
+   {
+    "quote": "。2012年に設立。拠点はカナダ。普段はサンフランシスコで活動されているようです。メールマーケティングについて多く情報発信されています。最近はAMPメールへの言及が多いです。",
+    "url": "https://note.com/vueloo_blog/n/n7b4461821173",
+    "pass": 3
+   },
+   {
+    "quote": "戦略立案や革新的なアイデアに集中して欲しい",
+    "url": "https://note.com/vueloo_blog/n/n7b4461821173",
+    "pass": 3
+   },
+   {
+    "quote": "これはよく氏がこだわるメッセージですけれども、Dyspatchに任せれば、最先端技術に対応したAPTメールを自由自在につくることができます、早く言えばこういうこと。",
+    "url": "https://note.com/vueloo_blog/n/n7b4461821173",
+    "pass": 3
+   },
+   {
+    "quote": "ノーコードSaaS世界図鑑（日本語版）DXに不可欠",
+    "url": "https://note.com/vueloo_blog/n/n7b4461821173",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Dyspatch (@getdyspatch) / Posts / X Nov 24, 2012 · Dyspatch is a leading email production platform designed to help teams build engaging, interactive emails in minutes, without having to write code.",
+    "url": "https://x.com/getdyspatch",
+    "pass": 3
+   },
+   {
+    "quote": "The Dyspatch on X: \"16) Who’s the better manager?\" May 7, 2024 · 16) Who’s the better manager? The Dyspatch @TheDyspatch Sep 4, 2023 ⚽️ Questions Thread P3 🧵 Answer in Quote Tweets 4 9 22 6.5K The Dyspatch @TheDyspatch Sep 4, 2023 1) Rank them from best to worst 7 232 10 45K The Dyspatch @TheDyspatch Sep 4, 2023",
+    "url": "https://x.com/TheDyspatch/status/1698741917075292254",
+    "pass": 3
+   },
+   {
+    "quote": "$DYSPATCH is LIVE On @RobinhoodApp. CA ... dyspatch_io (Dyspatch). 10 likes 9 replies. $DYSPATCH is LIVE On @RobinhoodApp. CA; 0x0f73263d1E8eF205564BEdC6d8FCA7D2843f1Dd6 An AI-powered workspace for creating, managing, and shipping email campaigns.",
+    "url": "https://x.com/dyspatch_io/status/2102460094097371617",
+    "pass": 3
+   },
+   {
+    "quote": "The Dyspatch on X: \"Busy Tonight? Well tune into TNT to watch ... May 5, 2021 · Busy Tonight? Well tune into TNT to watch the biggest wrestling event on Television. THE RETURN OF BLOOD AND GUTS!!! #AEW #AEWDynamite Writer: @MeloWRLD7 https://t.co ...",
+    "url": "https://x.com/TheDyspatch/status/1390036805551075337",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Dyspatch - LinkedIn Dyspatch is an industry-leading solution for email production and management. With Dyspatch, you can build engaging, interactive emails, without having to write code.",
+    "url": "https://www.linkedin.com/company/dyspatch",
+    "pass": 3
+   },
+   {
+    "quote": "Dyspatch - LinkedIn Dyspatch is an industry-leading solution for email production and management. With Dyspatch, teams can collaborate seamlessly and build engaging, interactive emails, without having to write code.",
+    "url": "https://www.linkedin.com/products/dyspatch",
+    "pass": 3
+   },
+   {
+    "quote": "Veronica Best - CPO at Dyspatch | LinkedInDylan Moore - Director of Engineering @ Dyspatch | LinkedInDyspatch - LinkedInMatthew Harris - CEO @ Dyspatch.io, I love helping marketers ...Dyspatch - LinkedIn CPO at Dyspatch · Experience: Dyspatch · Location: Victoria · 500+ connections on LinkedIn. View Veronica Best’s profile on LinkedIn, a professional community of 1 billion members. Director of Eng",
+    "url": "https://ca.linkedin.com/in/veronicabest",
+    "pass": 3
+   },
+   {
+    "quote": "Dylan Moore - Director of Engineering @ Dyspatch | LinkedInDyspatch - LinkedInMatthew Harris - CEO @ Dyspatch.io, I love helping marketers ...Dyspatch - LinkedIn Director of Engineering @ Dyspatch · Experience: Dyspatch · Education: Camosun College · Location: British Columbia · 93 connections on LinkedIn. View Dylan Moore’s profile on LinkedIn, a professional community of 1 billion members. Dyspa",
+    "url": "https://ca.linkedin.com/in/dylan-moore90",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Dyspatch - FacebookDyspatch - FacebookDyspatch - What's the weirdest thing you've ever seen...Dyspatch - Big news & a giveaway! You’ve ... - FacebookThe Dispatch - FacebookIt’s my pleasure to introduce you to our all new Sendwithus ...Dyspatch Courier Services | Tema - Facebook Mar 16, 2023 · Dyspatch. 535 likes. Build engaging, interactive email templates in minutes using pre-coded content blocks",
+    "url": "https://www.facebook.com/getdyspatch/",
+    "pass": 3
+   },
+   {
+    "quote": "Dyspatch - Facebook Dec 1, 2019 · Dyspatch. 172 likes. Dyspatch is a mutual aid network and environmental movement support hub based in Boulder, Colorado that supports direct land defense to stop environmentally destructive practices...",
+    "url": "https://www.facebook.com/100081166575840/",
+    "pass": 3
+   },
+   {
+    "quote": "Dyspatch - Big news & a giveaway! You’ve ... - Facebook Nov 16, 2022 · The new Block Designer feature within Dyspatch empowers you to design your own custom email blocks using various layouts and elements, and—get this—without knowing a lick of code!",
+    "url": "https://www.facebook.com/getdyspatch/posts/big-news-a-giveaway-youve-been-asking-for-a-visual-block-builder-for-some-time-n/3371751166445911/",
+    "pass": 3
+   },
+   {
+    "quote": "The Dispatch - FacebookIt’s my pleasure to introduce you to our all new Sendwithus ...Dyspatch Courier Services | Tema - Facebook Sep 4, 2026 · The Dispatch. 50,429 followers · 372 talking about this. Independent voices and reporting from the center-right. Jun 28, 2022 · Say goodbye to plain, off-brand transactional emails. ️ The new Sendwithus integration allows you to: - 💌 quickly create beautif",
+    "url": "https://www.facebook.com/thedispatchinc/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.dyspatch.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyspatch.io/partners-integrations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyspatch.io/partners/sendgrid/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyspatch.io/partners/salesforce-sfmc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyspatch.io/partners/pardot/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyspatch.io/partners/marketo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyspatch.io/partners/oracle-eloqua/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyspatch.io/partners/klaviyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyspatch.io/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyspatch.io/about/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyspatch.io/partners/hubspot/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyspatch.io/partners/braze/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyspatch.io/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyspatch.io/blog/category/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyspatch.io/blog/category/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyspatch.io/blog/5-best-ai-email-creation-tools-for-finance-teams-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyspatch.io/partners/email-industries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyspatch.io/pricing/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+    "status": "error",
+    "method": ""
+   },
+   {
+    "url": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTI3NCAxMDU5IiB3aWR0aD0iMTI3NCIgaGVpZ2h0PSIxMDU5IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+    "status": "error",
+    "method": ""
+   },
+   {
+    "url": "https://www.dyspatch.io/wp-content/uploads/2026/08/icon-integrations-150x150.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQ5NCA5NDgiIHdpZHRoPSIxNDk0IiBoZWlnaHQ9Ijk0OCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+    "status": "error",
+    "method": ""
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.firstcvc.jp/global/dyspatch.io",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://469ma.jp/797/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai-hikaku.com/?p=36920",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japandispatch.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/JapanDispatch/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/dyspatch",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.casestudies.com/company/dispatchtrack/case-study/metal-sales-manufacturing-streamlines-routing-across-21-branches-with-dispatchtrack",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/dyspatch/case-study/global-technology-corporation-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dispatchit.com/resource-categories/success-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/dyspatch/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/dyspatch",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/dyspatch-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/dyspatch/__ntn4Gjb1ds7XXU95HsFKJX-WN0DPqc9lH2b23UXrlEg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/61420-51",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/vueloo_blog/n/n7b4461821173",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/getdyspatch",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TheDyspatch/status/1698741917075292254",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/dyspatch_io/status/2102460094097371617",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TheDyspatch/status/1390036805551075337",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/dyspatch",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/dyspatch",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/veronicabest",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/dylan-moore90",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/getdyspatch/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100081166575840/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/getdyspatch/posts/big-news-a-giveaway-youve-been-asking-for-a-visual-block-builder-for-some-time-n/3371751166445911/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/thedispatchinc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/getdyspatch",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Dyspatch 日本 導入",
+   "results": [
+    "https://www.dyspatch.io/",
+    "https://www.dyspatch.io/press/",
+    "https://www.firstcvc.jp/global/dyspatch.io",
+    "https://469ma.jp/797/",
+    "https://adtechmanagement.com/minnadepr-column/2025/06/03/dispach-meaning/",
+    "https://binge-reading.com/archives/4324",
+    "https://www.proofpoint.com/jp/blog/cyberthreats/dmarc-adoption-industry-japan-us-2026"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dyspatch 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://chigai-hikaku.com/?p=36920",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://www.kkhashi.com/blogs/detail/145/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dyspatch Japan",
+   "results": [
+    "https://japandispatch.com/",
+    "https://www.dyspatch.io/",
+    "https://www.facebook.com/JapanDispatch/",
+    "https://jp.linkedin.com/company/dyspatch",
+    "https://www.dyspatch.io/platform/dyspatch-for-translators/",
+    "https://www.reddit.com/r/teachinginjapan/comments/11x2kz0/list_from_best_to_worse_dispatch_companies/",
+    "https://japandispatch.com/category/automotive/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dyspatch manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/dispatchtrack/case-study/metal-sales-manufacturing-streamlines-routing-across-21-branches-with-dispatchtrack",
+    "https://www.casestudies.com/company/dyspatch/case-study/global-technology-corporation-customer-case-study",
+    "https://www.dispatchit.com/resource-categories/success-stories",
+    "https://www.featuredcustomers.com/vendor/dyspatch/case-studies",
+    "https://www.dispatchtrack.com/customers/metal-sales-manufacturing/",
+    "https://www.linkedin.com/posts/dispatchtrack_morris-furniture-case-study-activity-7185741620858761216-9cSg",
+    "https://dispatch.me/wp-content/uploads/2023/03/Dispatch-and-BAF-Case-Study.pdf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dyspatch white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dyspatch founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/dyspatch",
+    "https://prospeo.io/c/dyspatch-revenue",
+    "https://tracxn.com/d/companies/dyspatch/__ntn4Gjb1ds7XXU95HsFKJX-WN0DPqc9lH2b23UXrlEg",
+    "https://pitchbook.com/profiles/company/61420-51",
+    "https://getlatka.com/companies/dyspatch",
+    "https://www.zoominfo.com/c/dyspatch/454406396",
+    "https://rocketreach.co/dyspatch-profile_b5ea1551f42e78bf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Dyspatch",
+   "results": [
+    "https://note.com/vueloo_blog/n/n7b4461821173",
+    "https://note.com/guiltyjake/n/n959b0fa8ab04",
+    "https://note.com/shun_111222/n/n3cc17c6feb6b",
+    "https://note.com/hunter_5160/n/neb1bf44afe25",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/mate_dispatch/n/n0e9312fe21e1",
+    "https://note.com/10works/n/n136cb79c9035"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Dyspatch",
+   "results": [
+    "https://x.com/getdyspatch",
+    "https://x.com/TheDyspatch/status/1698741917075292254",
+    "https://x.com/dyspatch_io/status/2102460094097371617",
+    "https://x.com/TheDyspatch/status/1390036805551075337",
+    "https://x.com/SHDdispatch/status/2120143241362256209",
+    "https://x.com/SHDdispatch",
+    "https://x.com/SHDdispatch/status/2119300902104293744"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Dyspatch",
+   "results": [
+    "https://www.linkedin.com/company/dyspatch",
+    "https://www.linkedin.com/products/dyspatch",
+    "https://ca.linkedin.com/in/veronicabest",
+    "https://ca.linkedin.com/in/dylan-moore90",
+    "https://www.linkedin.com/company/dyspatch-tech",
+    "https://www.linkedin.com/in/harrismc",
+    "https://www.linkedin.com/company/land-defense"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Dyspatch",
+   "results": [
+    "https://www.facebook.com/getdyspatch/",
+    "https://www.facebook.com/100081166575840/",
+    "https://www.facebook.com/getdyspatch/posts/big-news-a-giveaway-youve-been-asking-for-a-visual-block-builder-for-some-time-n/3371751166445911/",
+    "https://www.facebook.com/thedispatchinc/",
+    "https://www.facebook.com/dyspatch/",
+    "https://www.facebook.com/getdyspatch/posts/whats-the-weirdest-thing-youve-ever-seen-inside-an-email-i-think-for-me-it-was-a/3335975146690180/",
+    "https://www.facebook.com/getdyspatch/videos/its-my-pleasure-to-introduce-you-to-our-all-new-sendwithus-integrationnow-availa/329351589410036/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dyspatch note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://www.itmedia.co.jp/news/article/2603/02/1260302110/",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dyspatch X 投稿",
+   "results": [
+    "https://x.com/getdyspatch",
+    "https://www.dyspatch.io/",
+    "https://docs.dyspatch.io/",
+    "https://x.com/ZGLGJ8Wdj7yKqQp/status/2110470975351656694",
+    "https://note.com/bokuznote/n/n1dd0539a2fe3",
+    "https://note.com/fresh_viola853/n/n576ba31be049",
+    "https://www.choge-blog.com/hobby/discordxtwitterautopost/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式18頁／PDF・画像4件／外部35頁・検索12回）"
+ }
+}

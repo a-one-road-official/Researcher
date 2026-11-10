@@ -1,0 +1,1272 @@
+{
+ "name": "Ecoplant",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-10T17:47:01.277097+00:00",
+ "official_url": "https://www.ecoplant.tech/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "特設サイト - 製品・サービス詳細 - https://pr.mono.ipros.com/gd-thomas/product/",
+    "url": "https://mono.ipros.com/product/detail/2001554230/",
+    "pass": 3
+   },
+   {
+    "quote": "People AX team Project Leader",
+    "url": "https://www.furukawaelectric.com/release/2026/comp_20261028.html",
+    "pass": 3
+   },
+   {
+    "quote": "Singapore-based Total Environment Solution (TES) has signed a memorandum of understanding with Sumitomo Mitsui Finance and Leasing Company (SMFL) and its affiliate SMFL Rental Co. to jointly proceed with used battery recycling projects in Japan, SK Ecoplant said in a statement.",
+    "url": "https://en.yna.co.kr/view/AEN20240312004700320",
+    "pass": 3
+   },
+   {
+    "quote": "This photo taken March 11, 2024, and provided by SK Ecoplant shows (from L) Sumitomo Mitsui Finance and Leasing Company (SMFL) CEO Hirotsugu Harada, Total Environment Solution CEO Terence Ng and SMFL CEO Masaki Tachibana after signing a memorandum of understanding at Sumitomo Mitsui Banking Corp. in Tokyo for partnership in the Japanese used battery recycling market. (PHOTO NOT FOR SALE) (Yonhap)",
+    "url": "https://en.yna.co.kr/view/AEN20240312004700320",
+    "pass": 3
+   },
+   {
+    "quote": "Seoul shares soar over 4 pct to snap 3-day slide on tech rally, oil prices fall",
+    "url": "https://en.yna.co.kr/view/AEN20240312004700320",
+    "pass": 3
+   },
+   {
+    "quote": "Seoul Metro union threatens Nov. 25 general strike over wage, hiring disputes",
+    "url": "https://en.yna.co.kr/view/AEN20240312004700320",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 2021",
+    "url": "https://getlatka.com/companies/ecoplant",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/ecoplant",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/ecoplant",
+    "pass": 3
+   },
+   {
+    "quote": "Ecoplant is a cloud-based SaaS platform that integrates with your compressed air system to increase energy efficiency.",
+    "url": "https://getlatka.com/companies/ecoplant.com",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/ecoplant.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/ecoplant.com",
+    "pass": 3
+   },
+   {
+    "quote": "I had a fascinating discussion today about the Yongin Semiconductor Cluster, a massive construction project in South Korea that's essentially building a \"small city\" just for producing semiconductors!",
+    "url": "https://note.com/t_a_r_o/n/na69a40b7d5e0",
+    "pass": 3
+   },
+   {
+    "quote": "This isn't just any factory; it's a huge commitment by companies like SK Hynix and SK Ecoplant to secure the global tech supply. The complex, which is the largest of its kind, is expected to produce about one-third of the world's semiconductors once it's fully operational in 2050.",
+    "url": "https://note.com/t_a_r_o/n/na69a40b7d5e0",
+    "pass": 3
+   },
+   {
+    "quote": "The most surprising part? The design company, SK Ecoplant, created a fully completed, explorable version of the entire cluster inside the game Minecraft so people can see the finished product long before 2050!",
+    "url": "https://note.com/t_a_r_o/n/na69a40b7d5e0",
+    "pass": 3
+   },
+   {
+    "quote": "Biogas Production and Utilization Activation Strategy Announcement",
+    "url": "https://note.com/biogastech/n/n4942482ba79a",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "ECOPLANT ～製造業におけるカーボンニュートラルへの道～ ガードナー・デンバー | イプロスものづくり",
+    "url": "https://mono.ipros.com/product/detail/2001554230/",
+    "pass": 3
+   },
+   {
+    "quote": "ECOPLANT ～製造業におけるカーボンニュートラルへの道～",
+    "url": "https://mono.ipros.com/product/detail/2001554230/",
+    "pass": 3
+   },
+   {
+    "quote": "当社インテリジェンス「ECOPLANT」による圧縮空気(コンプレッションエアー)機器の大幅なエネルギー効率の最適化を実現！",
+    "url": "https://mono.ipros.com/product/detail/2001554230/",
+    "pass": 3
+   },
+   {
+    "quote": "SK Ecoplant Materialsと古河電工 高機能材料事業における業務提携覚書（MOU）を締結｜2026｜ニュースリリース｜古河電気工業株式会社",
+    "url": "https://www.furukawaelectric.com/release/2026/comp_20261028.html",
+    "pass": 3
+   },
+   {
+    "quote": "SK Ecoplant Materialsと古河電工",
+    "url": "https://www.furukawaelectric.com/release/2026/comp_20261028.html",
+    "pass": 3
+   },
+   {
+    "quote": "SK Ecoplant Materials（本社：韓国ソウル特別市、社長：Song Chang Rock）と古河電気工業株式会社（本社：東京都千代田区、代表取締役社長、CEO：森平 英也、以下「古河電工」）は、半導体およびAIデータセンタ市場を中心とした高機能材料事業の拡大を推進するため、半導体およびAIデータセンタ向け材料事業協力に関する業務提携覚書（MOU）を締結しました",
+    "url": "https://www.furukawaelectric.com/release/2026/comp_20261028.html",
+    "pass": 3
+   },
+   {
+    "quote": "古河電工が半導体およびデータセンタ向けの新製品を開発し、SK Ecoplant Materialsがその新製品を評価することで韓国市場への適用拡大を両社で推進します",
+    "url": "https://www.furukawaelectric.com/release/2026/comp_20261028.html",
+    "pass": 3
+   },
+   {
+    "quote": "SK Ecoplant Materials 社長 Song Chang Rockのコメント",
+    "url": "https://www.furukawaelectric.com/release/2026/comp_20261028.html",
+    "pass": 3
+   },
+   {
+    "quote": "（左）SK Ecoplant Materials 社長 Song Chang Rock",
+    "url": "https://www.furukawaelectric.com/release/2026/comp_20261028.html",
+    "pass": 3
+   },
+   {
+    "quote": "SK Ecoplant Materialsについて",
+    "url": "https://www.furukawaelectric.com/release/2026/comp_20261028.html",
+    "pass": 3
+   },
+   {
+    "quote": "SK Ecoplant Materialsは、4つの子会社を基盤に、フォトレジスト材料、プリカーサー、エッチングガス、パッケージング材料などの半導体向け主要材料に加え、OLED（有機EL）分野で最も開発難易度が高いとされるブルードーパント材料の開発・製造を手掛ける企業グループです",
+    "url": "https://www.furukawaelectric.com/release/2026/comp_20261028.html",
+    "pass": 3
+   },
+   {
+    "quote": "SK Ecoplant Materials",
+    "url": "https://www.furukawaelectric.com/release/2026/comp_20261028.html",
+    "pass": 3
+   },
+   {
+    "quote": "SK Ecoplant unit, Japanese firms sign MOU for used battery recycling | Yonhap News Agency",
+    "url": "https://en.yna.co.kr/view/AEN20240312004700320",
+    "pass": 3
+   },
+   {
+    "quote": "SEOUL, March 12 (Yonhap) -- SK Ecoplant Co. said Tuesday its wholly owned e-waste management affiliate has signed an initial pact with two Japanese companies for partnership in the used battery recycling business.",
+    "url": "https://en.yna.co.kr/view/AEN20240312004700320",
+    "pass": 3
+   },
+   {
+    "quote": "Singapore-based Total Environment Solution (TES) has signed a memorandum of understanding with Sumitomo Mitsui Finance and Leasing Company (SMFL) and its affiliate SMFL Rental Co. to jointly proceed with used battery recycling projects in Japan, SK Ecoplant said in a statement.",
+    "url": "https://en.yna.co.kr/view/AEN20240312004700320",
+    "pass": 3
+   },
+   {
+    "quote": "The three companies are planning to build a battery recycling plant in Japan if they secure a stable amount of used batteries and establish sales networks, the statement said.",
+    "url": "https://en.yna.co.kr/view/AEN20240312004700320",
+    "pass": 3
+   },
+   {
+    "quote": "SK Ecoplant is the construction arm of South Korea's chip-to-battery conglomerate SK Group.",
+    "url": "https://en.yna.co.kr/view/AEN20240312004700320",
+    "pass": 3
+   },
+   {
+    "quote": "This photo taken March 11, 2024, and provided by SK Ecoplant shows (from L) Sumitomo Mitsui Finance and Leasing Company (SMFL) CEO Hirotsugu Harada, Total Environment Solution CEO Terence Ng and SMFL CEO Masaki Tachibana after signing a memorandum of understanding at Sumitomo Mitsui Banking Corp. in Tokyo for partnership in the Japanese used battery recycling market. (PHOTO NOT FOR SALE) (Yonhap)",
+    "url": "https://en.yna.co.kr/view/AEN20240312004700320",
+    "pass": 3
+   },
+   {
+    "quote": "SK Ecoplant unit, Japanese firms sign MOU for used battery recycling",
+    "url": "https://en.yna.co.kr/view/AEN20240312004700320",
+    "pass": 3
+   },
+   {
+    "quote": "EcoPlant Revenue 2024: $10.2M Est., $9.7M Raised",
+    "url": "https://getlatka.com/companies/ecoplant",
+    "pass": 3
+   },
+   {
+    "quote": "EcoPlant is an AI & Machine Learning Operationalization (MLOps) Software company based in Herzliya, founded in 2016.",
+    "url": "https://getlatka.com/companies/ecoplant",
+    "pass": 3
+   },
+   {
+    "quote": "EcoPlant has not published its revenue. GetLatka estimates it at about $10.2M a year (October 2024).",
+    "url": "https://getlatka.com/companies/ecoplant",
+    "pass": 3
+   },
+   {
+    "quote": "EcoPlant funding rounds & investors",
+    "url": "https://getlatka.com/companies/ecoplant",
+    "pass": 3
+   },
+   {
+    "quote": "EcoPlant has raised $9.7M across two rounds since 2018. The latest was a $8M funding round in August 2020.",
+    "url": "https://getlatka.com/companies/ecoplant",
+    "pass": 3
+   },
+   {
+    "quote": "EcoPlant CEO, founders & employees",
+    "url": "https://getlatka.com/companies/ecoplant",
+    "pass": 3
+   },
+   {
+    "quote": "Aviran Yaacov founded EcoPlant in 2016 and runs it as CEO. EcoPlant had 59 employees (December 2024, LinkedIn), up from 37 a year earlier.",
+    "url": "https://getlatka.com/companies/ecoplant",
+    "pass": 3
+   },
+   {
+    "quote": "What is EcoPlant's revenue?",
+    "url": "https://getlatka.com/companies/ecoplant",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates EcoPlant's revenue at about",
+    "url": "https://getlatka.com/companies/ecoplant",
+    "pass": 3
+   },
+   {
+    "quote": "How much funding has EcoPlant raised?",
+    "url": "https://getlatka.com/companies/ecoplant",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does EcoPlant have?",
+    "url": "https://getlatka.com/companies/ecoplant",
+    "pass": 3
+   },
+   {
+    "quote": "Who is the CEO of EcoPlant?",
+    "url": "https://getlatka.com/companies/ecoplant",
+    "pass": 3
+   },
+   {
+    "quote": "is the CEO of EcoPlant and founded the company in 2016.",
+    "url": "https://getlatka.com/companies/ecoplant",
+    "pass": 3
+   },
+   {
+    "quote": "Who founded EcoPlant?",
+    "url": "https://getlatka.com/companies/ecoplant",
+    "pass": 3
+   },
+   {
+    "quote": "founded EcoPlant in 2016.",
+    "url": "https://getlatka.com/companies/ecoplant",
+    "pass": 3
+   },
+   {
+    "quote": "Ecoplant Revenue 2025: $6.5M Est.",
+    "url": "https://getlatka.com/companies/ecoplant.com",
+    "pass": 3
+   },
+   {
+    "quote": "Ecoplant is a cloud-based SaaS platform that integrates with your compressed air system to increase energy efficiency.",
+    "url": "https://getlatka.com/companies/ecoplant.com",
+    "pass": 3
+   },
+   {
+    "quote": "Ecoplant has not published its revenue. GetLatka estimates it at about $6.5M a year (September 2025).",
+    "url": "https://getlatka.com/companies/ecoplant.com",
+    "pass": 3
+   },
+   {
+    "quote": "Ecoplant has 59 employees (September 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/ecoplant.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Ecoplant's revenue?",
+    "url": "https://getlatka.com/companies/ecoplant.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Ecoplant's revenue at about",
+    "url": "https://getlatka.com/companies/ecoplant.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Ecoplant have?",
+    "url": "https://getlatka.com/companies/ecoplant.com",
+    "pass": 3
+   },
+   {
+    "quote": "ECO PLANTというのは、農業を意味する造語です",
+    "url": "https://note.com/ecoagri/m/md5d4c5282bdd",
+    "pass": 3
+   },
+   {
+    "quote": "農業は、ECO Systme（生態系）というPLANT（生産設備）を使って農作物という製品を生産することです",
+    "url": "https://note.com/ecoagri/m/md5d4c5282bdd",
+    "pass": 3
+   },
+   {
+    "quote": "ECO PLANTとして見ることで、個々の農業技…",
+    "url": "https://note.com/ecoagri/m/md5d4c5282bdd",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIと語る（ECO PLANT）３",
+    "url": "https://note.com/ecoagri/m/md5d4c5282bdd",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIと語る（ECO PLANT）２",
+    "url": "https://note.com/ecoagri/m/md5d4c5282bdd",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIと語る（ECO PLANT）１",
+    "url": "https://note.com/ecoagri/m/md5d4c5282bdd",
+    "pass": 3
+   },
+   {
+    "quote": "ECO PLANT（対話篇） １３",
+    "url": "https://note.com/ecoagri/m/md5d4c5282bdd",
+    "pass": 3
+   },
+   {
+    "quote": "ECO PLANT（対話篇） その１２",
+    "url": "https://note.com/ecoagri/m/md5d4c5282bdd",
+    "pass": 3
+   },
+   {
+    "quote": "ECO PLANT（対話篇） その１０",
+    "url": "https://note.com/ecoagri/m/md5d4c5282bdd",
+    "pass": 3
+   },
+   {
+    "quote": "ECO PLANT（対話篇） その９",
+    "url": "https://note.com/ecoagri/m/md5d4c5282bdd",
+    "pass": 3
+   },
+   {
+    "quote": "ECO PLANT（対話篇） その８",
+    "url": "https://note.com/ecoagri/m/md5d4c5282bdd",
+    "pass": 3
+   },
+   {
+    "quote": "ECO PLANT（対話篇） その７",
+    "url": "https://note.com/ecoagri/m/md5d4c5282bdd",
+    "pass": 3
+   },
+   {
+    "quote": "ECO PLANT（対話篇） その６",
+    "url": "https://note.com/ecoagri/m/md5d4c5282bdd",
+    "pass": 3
+   },
+   {
+    "quote": "This isn't just any factory; it's a huge commitment by companies like SK Hynix and SK Ecoplant to secure the global tech supply. The complex, which is the largest of its kind, is expected to produce about one-third of the world's semiconductors once it's fully operational in 2050.",
+    "url": "https://note.com/t_a_r_o/n/na69a40b7d5e0",
+    "pass": 3
+   },
+   {
+    "quote": "The most surprising part? The design company, SK Ecoplant, created a fully completed, explorable version of the entire cluster inside the game Minecraft so people can see the finished product long before 2050!",
+    "url": "https://note.com/t_a_r_o/n/na69a40b7d5e0",
+    "pass": 3
+   },
+   {
+    "quote": "It was a great discussion that highlighted the scale of modern manufacturing and the essential role of tiny components in our future.",
+    "url": "https://note.com/t_a_r_o/n/na69a40b7d5e0",
+    "pass": 3
+   },
+   {
+    "quote": "韓国の総合環境エネルギー企業SKエコプラント（SK ecoplant）と、資源循環企業ホンボエナジー（Hongbo Energy）が連携し、バイオガスの高度化実証（アップグレーディング）を行いました",
+    "url": "https://note.com/biogastech/n/n4942482ba79a",
+    "pass": 3
+   },
+   {
+    "quote": "SKエコプラント（SK ecoplant）",
+    "url": "https://note.com/biogastech/n/n4942482ba79a",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "ガードナー・デンバー株式会社 八潮事業所 ITS BVT事業部",
+    "url": "https://mono.ipros.com/product/detail/2001554230/",
+    "pass": 3
+   },
+   {
+    "quote": "Gardner Denver / インガソール・ランドの日本支社です",
+    "url": "https://mono.ipros.com/product/detail/2001554230/",
+    "pass": 3
+   },
+   {
+    "quote": "【電匠NX導入事例】CADを入れることで早く綺麗に書ける様に",
+    "url": "https://mono.ipros.com/product/detail/2001554230/",
+    "pass": 3
+   },
+   {
+    "quote": "SK Ecoplant Materialsと古河電工 高機能材料事業における業務提携覚書（MOU）を締結｜2026｜ニュースリリース｜古河電気工業株式会社",
+    "url": "https://www.furukawaelectric.com/release/2026/comp_20261028.html",
+    "pass": 3
+   },
+   {
+    "quote": "SK Ecoplant Materials（本社：韓国ソウル特別市、社長：Song Chang Rock）と古河電気工業株式会社（本社：東京都千代田区、代表取締役社長、CEO：森平 英也、以下「古河電工」）は、半導体およびAIデータセンタ市場を中心とした高機能材料事業の拡大を推進するため、半導体およびAIデータセンタ向け材料事業協力に関する業務提携覚書（MOU）を締結しました",
+    "url": "https://www.furukawaelectric.com/release/2026/comp_20261028.html",
+    "pass": 3
+   },
+   {
+    "quote": "SK Ecoplant unit, Japanese firms sign MOU for used battery recycling | Yonhap News Agency",
+    "url": "https://en.yna.co.kr/view/AEN20240312004700320",
+    "pass": 3
+   },
+   {
+    "quote": "SEOUL, March 12 (Yonhap) -- SK Ecoplant Co. said Tuesday its wholly owned e-waste management affiliate has signed an initial pact with two Japanese companies for partnership in the used battery recycling business.",
+    "url": "https://en.yna.co.kr/view/AEN20240312004700320",
+    "pass": 3
+   },
+   {
+    "quote": "Singapore-based Total Environment Solution (TES) has signed a memorandum of understanding with Sumitomo Mitsui Finance and Leasing Company (SMFL) and its affiliate SMFL Rental Co. to jointly proceed with used battery recycling projects in Japan, SK Ecoplant said in a statement.",
+    "url": "https://en.yna.co.kr/view/AEN20240312004700320",
+    "pass": 3
+   },
+   {
+    "quote": "The company expects a combination of TES' advanced battery recycling technologies and the two Japanese firms' sales networks and financial capabilities will help secure used batteries from local electric vehicle and battery makers.",
+    "url": "https://en.yna.co.kr/view/AEN20240312004700320",
+    "pass": 3
+   },
+   {
+    "quote": "The three companies are planning to build a battery recycling plant in Japan if they secure a stable amount of used batteries and establish sales networks, the statement said.",
+    "url": "https://en.yna.co.kr/view/AEN20240312004700320",
+    "pass": 3
+   },
+   {
+    "quote": "This photo taken March 11, 2024, and provided by SK Ecoplant shows (from L) Sumitomo Mitsui Finance and Leasing Company (SMFL) CEO Hirotsugu Harada, Total Environment Solution CEO Terence Ng and SMFL CEO Masaki Tachibana after signing a memorandum of understanding at Sumitomo Mitsui Banking Corp. in Tokyo for partnership in the Japanese used battery recycling market. (PHOTO NOT FOR SALE) (Yonhap)",
+    "url": "https://en.yna.co.kr/view/AEN20240312004700320",
+    "pass": 3
+   },
+   {
+    "quote": "SK Ecoplant unit, Japanese firms sign MOU for used battery recycling",
+    "url": "https://en.yna.co.kr/view/AEN20240312004700320",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "SK Ecoplant Materialsは、4つの子会社を基盤に、フォトレジスト材料、プリカーサー、エッチングガス、パッケージング材料などの半導体向け主要材料に加え、OLED（有機EL）分野で最も開発難易度が高いとされるブルードーパント材料の開発・製造を手掛ける企業グループです",
+    "url": "https://www.furukawaelectric.com/release/2026/comp_20261028.html",
+    "pass": 3
+   },
+   {
+    "quote": "EcoPlant Revenue 2024: $10.2M Est., $9.7M Raised",
+    "url": "https://getlatka.com/companies/ecoplant",
+    "pass": 3
+   },
+   {
+    "quote": "EcoPlant has not published its revenue. GetLatka estimates it at about $10.2M a year (October 2024).",
+    "url": "https://getlatka.com/companies/ecoplant",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/ecoplant",
+    "pass": 3
+   },
+   {
+    "quote": "EcoPlant CEO, founders & employees",
+    "url": "https://getlatka.com/companies/ecoplant",
+    "pass": 3
+   },
+   {
+    "quote": "Aviran Yaacov founded EcoPlant in 2016 and runs it as CEO. EcoPlant had 59 employees (December 2024, LinkedIn), up from 37 a year earlier.",
+    "url": "https://getlatka.com/companies/ecoplant",
+    "pass": 3
+   },
+   {
+    "quote": "What is EcoPlant's revenue?",
+    "url": "https://getlatka.com/companies/ecoplant",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates EcoPlant's revenue at about",
+    "url": "https://getlatka.com/companies/ecoplant",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does EcoPlant have?",
+    "url": "https://getlatka.com/companies/ecoplant",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/ecoplant",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/ecoplant",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/ecoplant",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/ecoplant",
+    "pass": 3
+   },
+   {
+    "quote": "Ecoplant Revenue 2025: $6.5M Est.",
+    "url": "https://getlatka.com/companies/ecoplant.com",
+    "pass": 3
+   },
+   {
+    "quote": "Ecoplant has not published its revenue. GetLatka estimates it at about $6.5M a year (September 2025).",
+    "url": "https://getlatka.com/companies/ecoplant.com",
+    "pass": 3
+   },
+   {
+    "quote": "Ecoplant has 59 employees (September 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/ecoplant.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Ecoplant's revenue?",
+    "url": "https://getlatka.com/companies/ecoplant.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Ecoplant's revenue at about",
+    "url": "https://getlatka.com/companies/ecoplant.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Ecoplant have?",
+    "url": "https://getlatka.com/companies/ecoplant.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of September 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/ecoplant.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/ecoplant.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/ecoplant.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/ecoplant.com",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ECOPLANT ～製造業におけるカーボンニュートラルへの道～ ガードナー... — Oct 31, 2025 · ガードナー・デンバーのECOPLANT ～製造業におけるカーボンニュートラルへの道～の技術や価格情報などをご紹介。 当社インテリジェンス「ECOPLANT」による圧縮空気 (コンプレッションエアー)機器の大幅なエネルギー効率の最適化を実現！",
+    "url": "https://mono.ipros.com/product/detail/2001554230/",
+    "pass": 3
+   },
+   {
+    "quote": "SK Ecoplant Materialsと古河電工 高機能材料事業における業務提携覚... — Oct 28, 2026 · SK Ecoplant Materialsと古河電気工業株式会社は、半導体およびAIデータセンタ市場を中心とした高機能材料事業の拡大を推進するため、半導体およびAIデータセンタ向け材料事業協力に関する業務提携覚書（MOU）を締結しました。",
+    "url": "https://www.furukawaelectric.com/release/2026/comp_20261028.html",
+    "pass": 3
+   },
+   {
+    "quote": "AI Air Compressor Optimization | Energy Platform | EcoPlant — There's no need to put your production on pause or impact your bottom line to get started with Ecoplant. Our integrated platform takes less than a week to get up-and-running, with an affordable capital investment, no installation fee, and no system downtime to slow you down.",
+    "url": "https://www.ecoplant.com/",
+    "pass": 3
+   },
+   {
+    "quote": "SK Ecoplant unit, Japanese firms sign MOU for used battery ... — Mar 12, 2024 · Singapore-based Total Environment Solution (TES) has signed a memorandum of understanding with Sumitomo Mitsui Finance and Leasing Company (SMFL) and its affiliate SMFL Rental Co. to jointly proceed with used battery recycling projects in Japan, SK Ecoplant said in a statement.",
+    "url": "https://en.yna.co.kr/view/AEN20240312004700320",
+    "pass": 3
+   },
+   {
+    "quote": "産業廃棄物処理装置「省エネ・環境・資源利用プラント」 — 今後さらに増大する産業廃棄物の増加に伴い、豊富な実績と技術を組合せ地球資源と 環境の保全ための各種の産業廃棄物処理装置を提供していきます。 産業廃棄物処理装置はメイセーにご用命ください。 ecoplant 各種プラント設計・施工",
+    "url": "https://ecoplant.jp/engineer.html",
+    "pass": 3
+   },
+   {
+    "quote": "Contact for Every Location | EcoPlant — By clicking 'Send' you are authorizing Ecoplant to contact you so that we may fulfill your request, as well as to communicate with you regarding our products and services.",
+    "url": "https://www.ecoplant.com/en/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Air Compressor Optimization | Energy Platform | EcoPlant — Optimize compressed air systems with AI-driven monitoring and control. Reduce energy costs, prevent downtime, and improve reliability with EcoPlant.",
+    "url": "https://www.ecoplant.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Home – EcoPlant — About EcoPlant® NewTech Advance Material Company Limited is a startup company established by Wingram. EcoPlant® is trademarked registered by the company in the United States, European Union, United Kingdom, China, Japan, Taiwan, and Hong Kong.",
+    "url": "https://ecoplant.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "ECOPLANT Map - Japan - Mapcarta — Nakatajima Sand Dunes are located at the southern part of Hamamatsu, Shizuoka Prefecture at the Pacific Ocean coast of Japan. Nakatajima Dunes is situated 3 km east of ECOPLANT.",
+    "url": "https://mapcarta.com/W1037995748",
+    "pass": 3
+   },
+   {
+    "quote": "SK ecoplant materials — SK resonac develops and produces etching gases that form fine and uniform circuits in semiconductors. SK ecoplant materials and Japan's Resonac have come together to localize difficult etching gas production and have improved the perfection of challenging semiconductor processes.",
+    "url": "https://www.sk-materials.com/new/eng/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | Energy Savings & ROI Results | EcoPlant — Fill updated metaExplore real-world EcoPlant case studies showing reduced energy costs, improved uptime, and measurable ROI in industrial operations.",
+    "url": "https://www.ecoplant.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Ecoplant — In 2019, the Ecoplant team was contacted by a US-based detergent manufacturer looking to improve its compressed air system energy efficiency, as well as increasing system reliability to maintain full production at their busy site.",
+    "url": "https://ecoplant.com/case-studies/ecolab",
+    "pass": 3
+   },
+   {
+    "quote": "CH-2322 Ecoplant case study - Ecolab — Within the first five months of operation, the Ecoplant 360 system exceeded expectations and delivered a 21% reduction in energy used within the plant’s compressed air system, and a 6% reduction in the overall plant energy bill.",
+    "url": "https://www.ecolab.com/-/media/Widen/Nalco-Water/Food--Beverage-Processing/CH-2322-Ecoplant-360-Case-Study---Food-Processor_pdf.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4 11 24 Ecoplant Case Study Detergents — Apr 11, 2024 · A US-based detergent manufacturer implemented the Ecoplant remote monitoring solution to enhance the energy efficiency and reliability of its compressed air system, which was suffering from high leak rates and energy waste.",
+    "url": "https://www.scribd.com/document/846765761/61783-4-11-24-ECOPLANT-CASE-STUDY-DETERGENTS",
+    "pass": 3
+   },
+   {
+    "quote": "4 11 24 Ecoplant Case Study Foodbev | PDF | Energy ... - Scribd — Apr 11, 2024 · They implemented Ecoplant, a cloud-based SaaS platform that optimized their compressed air operations, resulting in significant energy savings and reduced downtime.",
+    "url": "https://www.scribd.com/document/846765760/61784-4-11-24-ECOPLANT-CASE-STUDY-FOODBEV",
+    "pass": 3
+   },
+   {
+    "quote": "EcoPlant – Revenue Estimate & Market Landscape – 2026 — Discover EcoPlant's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/ecoplant",
+    "pass": 3
+   },
+   {
+    "quote": "EcoPlant Revenue 2024: $10.2M Est., $9.7M Raised - LATKA — Dec 20, 2024 · EcoPlant 2024 estimated revenue: $10.2M (up from $7.1M in 2023). Total funding: $9.7M across 2 rounds. 59 employees. Founded 2016. Updated Dec 20, 2024.",
+    "url": "https://getlatka.com/companies/ecoplant",
+    "pass": 3
+   },
+   {
+    "quote": "EcoPlant - 2026 Company Profile, Team, Funding & Competitors ...Ecoplant Revenue 2025: $6.5M Est. ARR - getlatka.comEcoPlant — Company Profile | The Company CheckEcoplant — investors & funding | gritt.ioEcoplant Innovative Technologies 2026 Company Profile ... — Feb 18, 2026 · EcoPlant is an acquired company based in Ashkelon (Israel), founded in 2016 by Aviran Yaacov, Yaron Harel and Moti Yakov. ",
+    "url": "https://tracxn.com/d/companies/ecoplant/__YZa5oz416qrblQISYH3fXrV1mTFiKnCSy4tPq_cuGuc",
+    "pass": 3
+   },
+   {
+    "quote": "Ecoplant Revenue 2025: $6.5M Est. ARR - getlatka.com — Aug 10, 2026 · Ecoplant 2025 estimated revenue: $6.5M ARR. 59 employees. Industry: AI & Machine Learning Operationalization (MLOps) Software Updated Aug 10, 2026.",
+    "url": "https://getlatka.com/companies/ecoplant.com",
+    "pass": 3
+   },
+   {
+    "quote": "EcoPlant — Company Profile | The Company Check — EcoPlant is a company based in Ashkelon (Israel) founded in 2016 by Moti Yakov was acquired by Ingersoll Rand in June 2023.. EcoPlant has raised $9.7 million across 4 funding rounds from investors including Benhamou Global Ventures, Techstars and Israel Innovation Authority.",
+    "url": "https://www.thecompanycheck.com/company/b/ecoplant/i0dtg1o532f9ezz61",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "ECO PLANT｜オートくん｜note ECO PLANT（対話篇） その7 ECO PLANTとは ECO PLANTを一言で パンダ：まず、ECO PLANTを一言で表現して下さい。 オートくん：「植物ー菌ユニット」の「エネルギーフローと物質循環をマネジメント」して農作物を生産することです。 ECO PLANTと呼ぶ理由 パンダ：農作物の生産なら農業ですね。ECO PLANTと ...",
+    "url": "https://note.com/ecoagri/m/md5d4c5282bdd",
+    "pass": 3
+   },
+   {
+    "quote": "未来のテクノロジーを探る：韓国のメガチップ都市 ｜ルイス@27卒就活 Nov 10, 2025 · This isn't just any factory; it's a huge commitment by companies like SK Hynix and SK Ecoplant to secure the global tech supply. The complex, which is the largest of its kind, is expected to produce about one-third of the world's semiconductors once it's fully operational in 2050.",
+    "url": "https://note.com/t_a_r_o/n/na69a40b7d5e0",
+    "pass": 3
+   },
+   {
+    "quote": "バイオガス高度化実証を実施 SKエコプラント・Hongbo Energy Apr 25, 2026 · 韓国の総合環境エネルギー企業SKエコプラント（SK ecoplant）と、資源循環企業ホンボエナジー（Hongbo Energy）が連携し、バイオガスの高度化実証（アップグレーディング）を行いました。",
+    "url": "https://note.com/biogastech/n/n4942482ba79a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "ECO PLANTというのは、農業を意味する造語です。農業は、ECO Systme（生態系）というPLANT（生産設備）を使って農作物という製品を生産することです。ECO PLANTとして見ることで、個々の農業技…",
+    "url": "https://note.com/ecoagri/m/md5d4c5282bdd",
+    "pass": 3
+   },
+   {
+    "quote": "未来のテクノロジーを探る：韓国のメガチップ都市🇰🇷｜精神疾患の母と92歳の祖母と暮らす大学生の日常",
+    "url": "https://note.com/t_a_r_o/n/na69a40b7d5e0",
+    "pass": 3
+   },
+   {
+    "quote": "未来のテクノロジーを探る：韓国のメガチップ都市🇰🇷",
+    "url": "https://note.com/t_a_r_o/n/na69a40b7d5e0",
+    "pass": 3
+   },
+   {
+    "quote": "精神疾患の母と92歳の祖母と暮らす大学生の日常",
+    "url": "https://note.com/t_a_r_o/n/na69a40b7d5e0",
+    "pass": 3
+   },
+   {
+    "quote": "📝 English Blog Post Draft",
+    "url": "https://note.com/t_a_r_o/n/na69a40b7d5e0",
+    "pass": 3
+   },
+   {
+    "quote": "Title: Exploring the Future of Tech: South Korea's Mega Chip City 🇰🇷",
+    "url": "https://note.com/t_a_r_o/n/na69a40b7d5e0",
+    "pass": 3
+   },
+   {
+    "quote": "I had a fascinating discussion today about the Yongin Semiconductor Cluster, a massive construction project in South Korea that's essentially building a \"small city\" just for producing semiconductors!",
+    "url": "https://note.com/t_a_r_o/n/na69a40b7d5e0",
+    "pass": 3
+   },
+   {
+    "quote": "This isn't just any factory; it's a huge commitment by companies like SK Hynix and SK Ecoplant to secure the global tech supply. The complex, which is the largest of its kind, is expected to produce about one-third of the world's semiconductors once it's fully operational in 2050.",
+    "url": "https://note.com/t_a_r_o/n/na69a40b7d5e0",
+    "pass": 3
+   },
+   {
+    "quote": "We also discussed why these tiny chips are so important: A semiconductor is a material that can control the electric current (the flow of electricity). As AI and other advanced technologies demand more power, efficient semiconductors are key to ensuring sustainable and efficient energy use.",
+    "url": "https://note.com/t_a_r_o/n/na69a40b7d5e0",
+    "pass": 3
+   },
+   {
+    "quote": "バイオガス高度化実証を実施 SKエコプラント・Hongbo Energy｜バイオガステック",
+    "url": "https://note.com/biogastech/n/n4942482ba79a",
+    "pass": 3
+   },
+   {
+    "quote": "バイオガス高度化実証を実施 SKエコプラント・Hongbo Energy",
+    "url": "https://note.com/biogastech/n/n4942482ba79a",
+    "pass": 3
+   },
+   {
+    "quote": "韓国の総合環境エネルギー企業SKエコプラント（SK ecoplant）と、資源循環企業ホンボエナジー（Hongbo Energy）が連携し、バイオガスの高度化実証（アップグレーディング）を行いました。",
+    "url": "https://note.com/biogastech/n/n4942482ba79a",
+    "pass": 3
+   },
+   {
+    "quote": "ホンボエナジーは、民間施設として国内最大級となるバイオガスプラントを2015年より運営しており、2023年2月に両社間でMOUを締結しています。",
+    "url": "https://note.com/biogastech/n/n4942482ba79a",
+    "pass": 3
+   },
+   {
+    "quote": "SKエコプラントがバイオエネルギーを事業化 化石燃料を食品廃棄物由来のガスに置き換え",
+    "url": "https://note.com/biogastech/n/n4942482ba79a",
+    "pass": 3
+   },
+   {
+    "quote": "また、ホンボエナジーは2026年3月からバイオガスを活用した電力販売事業をスタートしており、食品廃棄物由来のバイオガスを用いた資源循環の好例となっています。",
+    "url": "https://note.com/biogastech/n/n4942482ba79a",
+    "pass": 3
+   },
+   {
+    "quote": "SKエコプラントは2023年2月に、全羅北道群山に拠点を置くホンボエナジーと、「バイオガス高質化技術の実証および事業化」に関する業務協約を締結しました。",
+    "url": "https://note.com/biogastech/n/n4942482ba79a",
+    "pass": 3
+   },
+   {
+    "quote": "SKエコプラント（SK ecoplant）",
+    "url": "https://note.com/biogastech/n/n4942482ba79a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Viveros Ecoplant (@EcoplantAlmeria) / X Desde Viveros Ecoplant os presentamos el Ficus Bonsai Ginseng 🌳. Una planta a la que podrás ir dando diversas formas🥰 y se convertirá en una auténtica obra de arte🖼️ en tu hogar.",
+    "url": "https://x.com/EcoplantAlmeria",
+    "pass": 3
+   },
+   {
+    "quote": "H.K. on X: \"5801 古河電気工業 SK Ecoplant Materialsと古河電工 高... Oct 30, 2026 · SK Ecoplant Materialsと古河電工 高機能材料事業における業務提携覚書（MOU）を締結｜2026｜ニュースリリース｜古河電気工業株式会社 From furukawaelectric.com 12:41 AM · Oct 30, 2026 · 133",
+    "url": "https://x.com/HK48077554/status/2115967207914315988",
+    "pass": 3
+   },
+   {
+    "quote": "Nathan on X: \"5801 古河電工 SK Ecoplant Materialsと古河電工 高機... Oct 28, 2026 · 5801 古河電工 SK Ecoplant Materialsと古河電工 高機能材料事業における業務提携覚書（MOU）を締結 ～ 半導体およびAIデータセンタ市場における新たな事業機会の創出を目指す ～",
+    "url": "https://x.com/Nathan9983/status/2115248648766488904",
+    "pass": 3
+   },
+   {
+    "quote": "QUIMIGREEN S.A.S (@agrocol) / Posts / X Aug 19, 2010 · QUIMIGREEN S.A.S (@agrocol) - Posts - Bioplant* Agro-Surfsil* Agrosoft* Agro-Oil* Ecoplant* Cafe-Plant* Fertiblack* F. A. I.* Refuerzo Rai... | X (formerly Twitter)",
+    "url": "https://x.com/agrocol/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルPRプラットフォーム on X: \"SK Ecoplant Materialsと古河電工... SK Ecoplant Materialsと古河電工 高機能材料事業における業務提携覚書（MOU）を締結 https://t.co/E7hH6Ay6nw 28 Oct 2026 01:14:15",
+    "url": "https://x.com/digitalpr_jp/status/2115250760892010899",
+    "pass": 3
+   },
+   {
+    "quote": "むすか大佐 on X: \"SK Ecoplant Materialsと古河電工 高機能材料事業... SK Ecoplant Materialsと古河電工 高機能材料事業における業務提携覚書（MOU）を締結 ～ 半導体およびAIデータセンタ市場における新たな事業機会の創出を目指す ～https://t.co/a4myXMY8C7 28 Oct 2026 01:02:16",
+    "url": "https://x.com/musukataisakabu/status/2115247743405048122",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Ecoplant - LinkedIn Ecoplant | 13,091 followers on LinkedIn. Ecoplant is a cloud-based SaaS platform that integrates with your compressed air system to increase energy efficiency.",
+    "url": "https://www.linkedin.com/company/ecoplant-technological-innovation-ltd",
+    "pass": 3
+   },
+   {
+    "quote": "Ecoplant | LinkedIn With a mission to create a green industrial world by minimizing energy waste, CO2, and downtime in industrial plants, Ecoplant is revolutionizing manufacturing by solving challenges in air...",
+    "url": "https://in.linkedin.com/company/ecoplant-technological-innovation-ltd",
+    "pass": 3
+   },
+   {
+    "quote": "Ecoplant - LinkedIn Farming About us Website http://ecoplantprofesional.ro External link for Ecoplant Industry Farming",
+    "url": "https://www.linkedin.com/company/ecoplant",
+    "pass": 3
+   },
+   {
+    "quote": "Ecoplant - LinkedIn With a mission to create a green industrial world by minimizing energy waste, CO2, and downtime in industrial plants, Ecoplant is revolutionizing manufacturing by solving challenges in air...",
+    "url": "https://il.linkedin.com/company/ecoplant-technological-innovation-ltd",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Ecoplant Electric Plant Hire and Sales | Port Laoise - FacebookEcoplant - FacebookEcoplant | Wauchope NSW - FacebookEcoPlant | Thessaloníki - FacebookEcoPlant Studio - FacebookEcoplant Technological innovation Ltd. | Sderot - FacebookEcoplant - Facebook May 20, 2026 · At Ecoplant Hire, as Irelands leading electric plant hire company we’ve got you covered with a wide range of electric and battery-o",
+    "url": "https://www.facebook.com/ecoplantIRL/",
+    "pass": 3
+   },
+   {
+    "quote": "Ecoplant - FacebookEcoplant | Wauchope NSW - FacebookEcoPlant | Thessaloníki - FacebookEcoPlant Studio - FacebookEcoplant Technological innovation Ltd. | Sderot - FacebookEcoplant - Facebook Ecoplant. 154 likes. Home & Garden Store Dec 14, 2022 · Before beginning revegetation, Ecoplant will provide you with a species recommendation specific to your area. If needed, we can provide ‘cover crops’ to ",
+    "url": "https://www.facebook.com/ecologicplant/",
+    "pass": 3
+   },
+   {
+    "quote": "Ecoplant | Wauchope NSW - FacebookEcoPlant | Thessaloníki - FacebookEcoPlant Studio - FacebookEcoplant Technological innovation Ltd. | Sderot - FacebookEcoplant - Facebook Dec 14, 2022 · Before beginning revegetation, Ecoplant will provide you with a species recommendation specific to your area. If needed, we can provide ‘cover crops’ to provide initial fast growing coverage to suppress dust and m",
+    "url": "https://www.facebook.com/EcoplantAustralia/",
+    "pass": 3
+   },
+   {
+    "quote": "EcoPlant | Thessaloníki - FacebookEcoPlant Studio - FacebookEcoplant Technological innovation Ltd. | Sderot - FacebookEcoplant - Facebook Jun 7, 2025 · Εφαρμογή EcoPlant πριν από ακραίες θερμοκρασίες αλλά και αμέσως μετά αυξάνει την αντοχή των φυτών στις καταπονήσεις και την ανάκαμψη τους μετά από αυτές. EcoPlant Studio. 1,661 followers · 1,201 talking about this. Watch rare plants and extraordina",
+    "url": "https://www.facebook.com/ecoplant.ltd/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ecoplant.tech/",
+    "status": "network_error:SSLError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/product/detail/2001554230/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furukawaelectric.com/release/2026/comp_20261028.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ecoplant.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.yna.co.kr/view/AEN20240312004700320",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yamamoto_ec/n/nd3b3890ee728",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeplan.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ecopla.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ecoplant.com/en/contact/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ecoplant.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ecoplant.tech/",
+    "status": "network_error:SSLError",
+    "method": "http"
+   },
+   {
+    "url": "https://mapcarta.com/W1037995748",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ecoplant.com/case-studies/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ecoplant.com/case-studies/ecolab",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ecolab.com/-/media/Widen/Nalco-Water/Food--Beverage-Processing/CH-2322-Ecoplant-360-Case-Study---Food-Processor_pdf.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.scribd.com/document/846765761/61783-4-11-24-ECOPLANT-CASE-STUDY-DETERGENTS",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.se.com/us/en/partners/ecoxpert/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/ecoplant",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/ecoplant",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/ecoplant/__YZa5oz416qrblQISYH3fXrV1mTFiKnCSy4tPq_cuGuc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/ecoplant.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ecoagri/m/md5d4c5282bdd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/t_a_r_o/n/na69a40b7d5e0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/biogastech/n/n4942482ba79a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/EcoplantAlmeria",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HK48077554/status/2115967207914315988",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Nathan9983/status/2115248648766488904",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/agrocol/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ecoplant-technological-innovation-ltd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/ecoplant-technological-innovation-ltd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ecoplant",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://il.linkedin.com/company/ecoplant-technological-innovation-ltd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ecoplantIRL/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ecologicplant/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/EcoplantAustralia/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ecoplant.ltd/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/digitalpr_jp/status/2115250760892010899",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/musukataisakabu/status/2115247743405048122",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Ecoplant 日本 導入",
+   "results": [
+    "https://mono.ipros.com/product/detail/2001554230/",
+    "https://www.furukawaelectric.com/release/2026/comp_20261028.html",
+    "https://www.ecoplant.com/",
+    "https://en.yna.co.kr/view/AEN20240312004700320",
+    "https://ecoplant.jp/engineer.html",
+    "https://www.renewable-ei.org/activities/reports/20260820.php",
+    "https://gifuden.jp/2026/01/04/renewable-energy-japan-2024/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ecoplant 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://note.com/yamamoto_ec/n/nd3b3890ee728",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.jeplan.co.jp/",
+    "https://www.ecopla.co.jp/",
+    "https://ja-jp.ecolab.com/about/locations",
+    "https://www.aon.com/japan/company-overview",
+    "https://www.jetro.go.jp/invest/setting_up/section1/page1.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ecoplant Japan",
+   "results": [
+    "https://www.ecoplant.com/en/contact/",
+    "https://www.ecoplant.com/",
+    "https://ecoplant.tech/",
+    "https://mapcarta.com/W1037995748",
+    "https://www.sk-materials.com/new/eng/",
+    "https://ecoplant.store/en/ecoplant-product-of-nanotechnology/",
+    "https://ecoplant.org/about"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ecoplant manufacturing customer case study",
+   "results": [
+    "https://www.ecoplant.com/case-studies/",
+    "https://ecoplant.com/case-studies/ecolab",
+    "https://www.ecolab.com/-/media/Widen/Nalco-Water/Food--Beverage-Processing/CH-2322-Ecoplant-360-Case-Study---Food-Processor_pdf.pdf",
+    "https://www.scribd.com/document/846765761/61783-4-11-24-ECOPLANT-CASE-STUDY-DETERGENTS",
+    "https://www.scribd.com/document/846765760/61784-4-11-24-ECOPLANT-CASE-STUDY-FOODBEV",
+    "https://www.ecolab.com/-/media/Widen/Nalco-Water/Technologies/CH-2310-Ecoplant-Case-Study---FINAL_pdf.pdf",
+    "https://azure-na-assets.contentstack.com/v3/assets/bltf7e1f413e0b18bff/blt44dce06d54e76edf/6a5d9604f93c80ff8cb6596e/ECO_-En-Case-Study-2-detergent-letter.pdf"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ecoplant white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.se.com/us/en/partners/ecoxpert/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://www.seoreseller.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ecoplant founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/ecoplant",
+    "https://getlatka.com/companies/ecoplant",
+    "https://tracxn.com/d/companies/ecoplant/__YZa5oz416qrblQISYH3fXrV1mTFiKnCSy4tPq_cuGuc",
+    "https://getlatka.com/companies/ecoplant.com",
+    "https://www.thecompanycheck.com/company/b/ecoplant/i0dtg1o532f9ezz61",
+    "https://www.gritt.io/company/ecoplant-technological-innovation-ltd/",
+    "https://pitchbook.com/profiles/company/222471-28"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Ecoplant",
+   "results": [
+    "https://note.com/pei_umapro",
+    "https://note.com/ecoagri/m/md5d4c5282bdd",
+    "https://note.com/t_a_r_o/n/na69a40b7d5e0",
+    "https://note.com/biogastech/n/n4942482ba79a",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/arrows_column/n/nc266340c0609",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Ecoplant",
+   "results": [
+    "https://x.com/EcoplantAlmeria",
+    "https://x.com/HK48077554/status/2115967207914315988",
+    "https://x.com/Nathan9983/status/2115248648766488904",
+    "https://x.com/agrocol/",
+    "https://x.com/kedglobal",
+    "https://x.com/Marlayna29/status/2115433590150606880",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Ecoplant",
+   "results": [
+    "https://www.linkedin.com/company/ecoplant-technological-innovation-ltd",
+    "https://in.linkedin.com/company/ecoplant-technological-innovation-ltd",
+    "https://www.linkedin.com/company/ecoplant",
+    "https://il.linkedin.com/company/ecoplant-technological-innovation-ltd",
+    "https://ch.linkedin.com/company/ecoplant-technological-innovation-ltd",
+    "https://il.linkedin.com/in/moti-yakov-9a136687",
+    "https://ca.linkedin.com/company/ecoplantsv"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Ecoplant",
+   "results": [
+    "https://www.facebook.com/ecoplantIRL/",
+    "https://www.facebook.com/ecologicplant/",
+    "https://www.facebook.com/EcoplantAustralia/",
+    "https://www.facebook.com/ecoplant.ltd/",
+    "https://www.facebook.com/ecoplantstudio/reels/",
+    "https://www.facebook.com/ecoplant.co/",
+    "https://www.facebook.com/ecoplantcraiova/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ecoplant note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.ecoplant.com/",
+    "https://jp.linkedin.com/company/ecoplant-technological-innovation-ltd",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ecoplant X 投稿",
+   "results": [
+    "https://x.com/digitalpr_jp/status/2115250760892010899",
+    "https://x.com/musukataisakabu/status/2115247743405048122",
+    "https://www.ecoplant.com/",
+    "https://live.ecoplant.co/",
+    "https://evolvingvillage.com/personal-brand-submit/",
+    "https://note.com/mgane/n/n1c0d7384c8a0",
+    "https://note.com/kawaidesign/n/n5342105ba476"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）"
+ }
+}

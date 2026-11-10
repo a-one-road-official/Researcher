@@ -1,0 +1,1019 @@
+{
+ "name": "Dimorder",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-10T17:39:30.199718+00:00",
+ "official_url": "https://dimorder.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2019",
+    "url": "https://startupintros.com/orgs/dimorder",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Hong Kong, Hong Kong",
+    "url": "https://startupintros.com/orgs/dimorder",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Meituan · DianPing Promotion",
+    "url": "https://www.dimorder.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "DimPOS self-ordering system is easy to use. Its all inclusive digital menu provides add-on options for sides and beverages. Customers can save their favourite items for their next order. DimPOS effectively increases profit margin and improves efficiency.",
+    "url": "https://www.dimorder.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Customers can pre-order via scanning QR code while queuing. Time spent waiting for food can be shortened which improves turnover rate and service quality, ultimately leading to higher revenue and better brand reputation.",
+    "url": "https://www.dimorder.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "#pre-ordering #smooth user experience #frequent orders",
+    "url": "https://www.dimorder.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "#design all-you-can eat menu #track dining progress",
+    "url": "https://www.dimorder.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Support price per person calculations and in-app ordering of single items and meal deals.",
+    "url": "https://www.dimorder.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "#flexible printer setting #customer privacy",
+    "url": "https://www.dimorder.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Customise receipt display format and printing, e.g. automatically divide orders and delegate duties among staffs to maximise efficiency.",
+    "url": "https://www.dimorder.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "#stress free POS System #improve workflow",
+    "url": "https://www.dimorder.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Readily edit beverage menu and preferences.",
+    "url": "https://www.dimorder.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Minimise administrative processes so that merchants can focus on relationship building with customers.",
+    "url": "https://www.dimorder.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Meituan · DianPing Promotion",
+    "url": "https://www.dimorder.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Since our inception, we’ve helped entrepreneurs run smarter businesses, create stronger marketing strategies, and deliver exceptional customer experiences.",
+    "url": "https://www.dimorder.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "DimOrder Press Release",
+    "url": "https://www.dimorder.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "AI · Onboarding & Insights",
+    "url": "https://dimorder.net/solutions-en.html",
+    "pass": 3
+   },
+   {
+    "quote": "A native WeChat Mini Program experience plus an instant, no-install H5 menu. Put two QR codes on the table and guests can scan either one.",
+    "url": "https://dimorder.net/solutions-en.html",
+    "pass": 3
+   },
+   {
+    "quote": "Hot or iced, sweetness, ice level, noodle base, extra portions, hold-the-prep — prep options render exactly as you configure them, so \"no milk, less sweet\" comes through just as the guest said it.",
+    "url": "https://dimorder.net/solutions-en.html",
+    "pass": 3
+   },
+   {
+    "quote": "The moment an order lands, the cashier master ticket and the kitchen route tickets print together — tea charge and service charge are added automatically per store settings.",
+    "url": "https://dimorder.net/solutions-en.html",
+    "pass": 3
+   },
+   {
+    "quote": "Direct cloud-printing integration with a live-scrolling KDS display; tickets route by dish-to-printer binding, so nothing goes to the wrong printer even at peak.",
+    "url": "https://dimorder.net/solutions-en.html",
+    "pass": 3
+   },
+   {
+    "quote": "Bind dishes to printers",
+    "url": "https://dimorder.net/solutions-en.html",
+    "pass": 3
+   },
+   {
+    "quote": "A single dish can bind to multiple zone or label printers, locking the destination the moment it's ordered; combo sub-items route with their parent dish.",
+    "url": "https://dimorder.net/solutions-en.html",
+    "pass": 3
+   },
+   {
+    "quote": "Two columns — In Progress and Ready — scroll in real time and update the instant food is plated; no calling orders, no passing paper.",
+    "url": "https://dimorder.net/solutions-en.html",
+    "pass": 3
+   },
+   {
+    "quote": "The label printer stamps bold pickup numbers to stick on containers — matching a pickup is faster than making eye contact.",
+    "url": "https://dimorder.net/solutions-en.html",
+    "pass": 3
+   },
+   {
+    "quote": "Reprints, voids, and re-prints are all logged, so kitchen and front of house can reconcile without relying on anyone's memory.",
+    "url": "https://dimorder.net/solutions-en.html",
+    "pass": 3
+   },
+   {
+    "quote": "Self-pickup takeaway with no commission: independent pickup pricing, auto number assignment, and scan-to-hand-off.",
+    "url": "https://dimorder.net/solutions-en.html",
+    "pass": 3
+   },
+   {
+    "quote": "Independent takeaway pricing",
+    "url": "https://dimorder.net/solutions-en.html",
+    "pass": 3
+   },
+   {
+    "quote": "Set a separate pickup price for takeaway; when it exceeds the dine-in price, a strikethrough comparison shows automatically so guests see it instantly.",
+    "url": "https://dimorder.net/solutions-en.html",
+    "pass": 3
+   },
+   {
+    "quote": "A pickup number is assigned the moment an order is placed, and an estimated pickup time is written into the order; guests watch \"Preparing / Ready for pickup\" live.",
+    "url": "https://dimorder.net/solutions-en.html",
+    "pass": 3
+   },
+   {
+    "quote": "The in-store TV shows pickup progress plus promo content and the takeaway QR — open it directly in the TV's browser, no login needed.",
+    "url": "https://dimorder.net/solutions-en.html",
+    "pass": 3
+   },
+   {
+    "quote": "Preset daily stock auto-replenishes; sold-out items auto-reject orders instead of accepting a half-order; voided orders auto-return stock.",
+    "url": "https://dimorder.net/solutions-en.html",
+    "pass": 3
+   },
+   {
+    "quote": "A daily special auto-reverts to the regular price the next day — no one has to remember to \"change it back tomorrow.\"",
+    "url": "https://dimorder.net/solutions-en.html",
+    "pass": 3
+   },
+   {
+    "quote": "Today's and this month's GMV, live operating metrics across your stores, and in-progress order volume — all on one page.",
+    "url": "https://dimorder.net/solutions-en.html",
+    "pass": 3
+   },
+   {
+    "quote": "Your own Mini Program",
+    "url": "https://dimorder.net/solutions-en.html",
+    "pass": 3
+   },
+   {
+    "quote": "A brand can bind its own WeChat Mini Program AppID, so guests are entering your Mini Program.",
+    "url": "https://dimorder.net/solutions-en.html",
+    "pass": 3
+   },
+   {
+    "quote": "Upload a menu photo, Excel, or Word file and it's recognized into a structured dish list; HK-style rules generate automatically: drink hot/iced expansion and the no-ice / less-sweet / no-milk prep options.",
+    "url": "https://dimorder.net/solutions-en.html",
+    "pass": 3
+   },
+   {
+    "quote": "Feed today's live data plus yesterday and the last 7 days into the model, and get an interpretation right on the POS sales page: which daypart is weak, which dish to push.",
+    "url": "https://dimorder.net/solutions-en.html",
+    "pass": 3
+   },
+   {
+    "quote": "Not sure yet that it's practical? Scan a QR and try it yourself",
+    "url": "https://dimorder.net/solutions-en.html",
+    "pass": 3
+   },
+   {
+    "quote": "Dimorder is developed and operated by TEAMOTTO (HK) LIMITED. We are an engineering team in Hong Kong who have spent years building restaurant and e-commerce systems — a SaaS commerce platform, mini-program networks, cloud print scheduling — and now every bit of that experience is poured into one ordering system for food service.",
+    "url": "https://dimorder.net/about-en.html",
+    "pass": 3
+   },
+   {
+    "quote": "One team owns the backend, the mini program, the POS and the admin console",
+    "url": "https://dimorder.net/about-en.html",
+    "pass": 3
+   },
+   {
+    "quote": "Your problem is never bounced down three hops; it reaches whoever writes the code",
+    "url": "https://dimorder.net/about-en.html",
+    "pass": 3
+   },
+   {
+    "quote": "Commissions, quotas and hardware prices are all published on the pricing page. Every bill comes with a day-by-day breakdown, and we do not accept \"system adjustment fees\".",
+    "url": "https://dimorder.net/about-en.html",
+    "pass": 3
+   },
+   {
+    "quote": "New features come from the kitchen and the floor: oversized pickup numbers, dishes bound to specific printers, a void-ticket recycle bin — all born from real complaints and real shifts.",
+    "url": "https://dimorder.net/about-en.html",
+    "pass": 3
+   },
+   {
+    "quote": "Hong Kong, Kowloon and the New Territories — on-site installation and training",
+    "url": "https://dimorder.net/about-en.html",
+    "pass": 3
+   },
+   {
+    "quote": "Beyond Dimorder, we also operate the bupopshop e-commerce SaaS platform, building mini-program online stores for brand clients. We also deliver custom software projects for clients.",
+    "url": "https://dimorder.net/about-en.html",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/dimorder.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/dimorder.com",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/dimorder.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/dimorder.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Comprehensive All-in-One Platform:",
+    "url": "https://startupintros.com/orgs/dimorder",
+    "pass": 3
+   },
+   {
+    "quote": "Unlike traditional POS systems, DimOrder integrates ordering, payments, CRM, AI-driven marketing, supplier ordering, and short-term lending into a single platform.",
+    "url": "https://startupintros.com/orgs/dimorder",
+    "pass": 3
+   },
+   {
+    "quote": "Features include QR code pre-ordering, customizable receipt printing, inventory tracking, and customer grouping, enhancing workflow and table turnover.",
+    "url": "https://startupintros.com/orgs/dimorder",
+    "pass": 3
+   },
+   {
+    "quote": "Founders’ direct F&B experience informs product design, ensuring practical solutions for operational pain points.",
+    "url": "https://startupintros.com/orgs/dimorder",
+    "pass": 3
+   },
+   {
+    "quote": "Community and Marketing Tools:",
+    "url": "https://startupintros.com/orgs/dimorder",
+    "pass": 3
+   },
+   {
+    "quote": "Extends beyond POS to include supplier ordering and short-term loans, addressing cash flow and procurement challenges[1][2][3][7].",
+    "url": "https://startupintros.com/orgs/dimorder",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Customers can pre-order via scanning QR code while queuing. Time spent waiting for food can be shortened which improves turnover rate and service quality, ultimately leading to higher revenue and better brand reputation.",
+    "url": "https://www.dimorder.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "We believe relationships are the most important part of life, and we’re driven to streamline workflows so people can focus more on each other.",
+    "url": "https://www.dimorder.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Multi-tier combos, cross-category pairings, drink upgrades with pay-the-difference — option groups carry selection caps, so the cashier never has to step in.",
+    "url": "https://dimorder.net/solutions-en.html",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue trend, daypart distribution, bestseller TOP list, payment-channel mix, and a staffed-vs-self-serve channel comparison.",
+    "url": "https://dimorder.net/solutions-en.html",
+    "pass": 3
+   },
+   {
+    "quote": "DimOrder Revenue 2024: $7.4M Est.",
+    "url": "https://getlatka.com/companies/dimorder.com",
+    "pass": 3
+   },
+   {
+    "quote": "DimOrder has not published its revenue. GetLatka estimates it at about $7.4M a year (December 2024).",
+    "url": "https://getlatka.com/companies/dimorder.com",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/dimorder.com",
+    "pass": 3
+   },
+   {
+    "quote": "DimOrder CEO, founders & employees",
+    "url": "https://getlatka.com/companies/dimorder.com",
+    "pass": 3
+   },
+   {
+    "quote": "Tim Lee founded DimOrder in 2019 and runs it as CEO. DimOrder had 48 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/dimorder.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is DimOrder's revenue?",
+    "url": "https://getlatka.com/companies/dimorder.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates DimOrder's revenue at about",
+    "url": "https://getlatka.com/companies/dimorder.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does DimOrder have?",
+    "url": "https://getlatka.com/companies/dimorder.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/dimorder.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/dimorder.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/dimorder.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/dimorder.com",
+    "pass": 3
+   },
+   {
+    "quote": "DimOrder Revenue 2024: $7.4M Est.",
+    "url": "https://getlatka.com/companies/dimorder.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "DimOrder has not published its revenue. GetLatka estimates it at about $7.4M a year (December 2024).",
+    "url": "https://getlatka.com/companies/dimorder.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/dimorder.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "DimOrder CEO, founders & employees",
+    "url": "https://getlatka.com/companies/dimorder.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Tim Lee founded DimOrder in 2019 and runs it as CEO. DimOrder had 48 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/dimorder.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "What is DimOrder's revenue?",
+    "url": "https://getlatka.com/companies/dimorder.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates DimOrder's revenue at about",
+    "url": "https://getlatka.com/companies/dimorder.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does DimOrder have?",
+    "url": "https://getlatka.com/companies/dimorder.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/dimorder.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/dimorder.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/dimorder.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/dimorder.com#customers",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "DimPOS - One-stop shop POS System - DimOrder — DimPOS is fully integrated with DimOrder customer APP. Simple order management coupled with city-wide delivery services allow restaurants to expand customer base.",
+    "url": "https://www.dimorder.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "About Us - DimPOS - 全港一站式餐廳POS系統 - dimorder.com — 【DimOrder】 DimOrder Develops Self-Service Ordering App, Over 800 Restaurants 'Follow the Prescription' to Save Labor, Accelerating Business Growth During Pandemic!",
+    "url": "https://www.dimorder.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "點單 DimPOS - 全港一站式餐飲POS系統 - DimOrder — 【點單】香港貿發局 (HKTDC)「創業快綫」十家優勝初創之一 【點單】DimOrder 為 InnoClub Industry Impact Award 的得獎者 【點單】HKTDC x Start-UP 創業快綫 呈獻《創業軍師》訪問 【點單】增落單效率 每店可減3侍應 【點單】自助點餐系統添結賬功能 逾40食肆試用 紓緩人手荒",
+    "url": "https://www.dimorder.com/aboutus/",
+    "pass": 3
+   },
+   {
+    "quote": "Features & Use Cases | Dimorder | QR Ordering, POS, KDS ... — The complete Dimorder feature list: customer QR ordering (WeChat Mini Program / H5), front-of-house POS, kitchen KDS and cloud printing, takeaway pickup verification, in-store big screen, daily inventory and specials, business reports, multi-store brand HQ, AI menu OCR and AI business insights.",
+    "url": "https://dimorder.net/solutions-en.html",
+    "pass": 3
+   },
+   {
+    "quote": "Store Story | Dimorder | A Full Launch Log from Our Demo Store — STORE STORY How a cha chaan Teng moved into the system Our sample is the demo store, Pizza King Mong Kok — from a single photo of a paper menu to QR ordering, ticket routing and pickup numbers running end to end. The launch you are about to go through is exactly these six steps.",
+    "url": "https://dimorder.net/case-studies-en.html",
+    "pass": 3
+   },
+   {
+    "quote": "DimPOS - One-stop shop POS System - DimOrder — DimPOS effectively increases profit margin and improves efficiency. DimPOS is fully integrated with DimOrder customer APP. Simple order management coupled with city-wide delivery services allow restaurants to expand customer base. Customers can pre-order via scanning QR code while queuing.",
+    "url": "https://www.dimorder.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "About Us | Dimorder | TEAMOTTO (HK) LIMITED — Beyond Dimorder, we also operate the bupopshop e-commerce SaaS platform, building mini-program online stores for brand clients. We also deliver custom software projects for clients.",
+    "url": "https://dimorder.net/about-en.html",
+    "pass": 3
+   },
+   {
+    "quote": "shop.dimorder.com - 點單 — shop.dimorder.com - 點單 ... 點單",
+    "url": "https://shop.dimorder.com/",
+    "pass": 3
+   },
+   {
+    "quote": "DimOrder: Toast for Southeast Asia | Y Combinator — Oversees sales, strategy and direction at DimOrder. Previous life in running a cafe and a Japanese restaurant, after years in the financial field doing wealth management.",
+    "url": "https://www.ycombinator.com/companies/dimorder",
+    "pass": 3
+   },
+   {
+    "quote": "About Us - DimPOS - 全港一站式餐廳POS系統 - dimorder.com — We believe relationships are the most important part of life, and we’re driven to streamline workflows so people can focus more on each other. Since our inception, we’ve helped entrepreneurs run smarter businesses, create stronger marketing strategies, and deliver exceptional customer experiences.",
+    "url": "https://www.dimorder.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "How DimOrder Built Its Success in Southeast Asia — DimOrder, established in 2019 and headquartered in Hong Kong, is a technology company dedicated to revolutionizing the Food and Beverage (F&B) sector in Southeast Asia.",
+    "url": "https://reforgers.com/startups/dimorder",
+    "pass": 3
+   },
+   {
+    "quote": "DimPOS - One-stop shop POS System - DimOrder — DimPOS is fully integrated with DimOrder customer APP. Simple order management coupled with city-wide delivery services allow restaurants to expand customer base. Customers can pre-order via scanning QR code while queuing.",
+    "url": "https://www.dimorder.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Store Story | Dimorder | A Full Launch Log from Our Demo Store — Book a demo and we'll build a store of your own from your menu. Following our demo store, Pizza King Mong Kok, from paper tickets to digital ordering: AI menu import, dual table QR codes, kitchen ticket routing, takeaway pickup numbers and the in-store big screen.",
+    "url": "https://dimorder.net/case-studies-en.html",
+    "pass": 3
+   },
+   {
+    "quote": "DimOrder Revenue, Valuation & Funding History (2024) — Apr 10, 2025 · DimOrder's revenue history, valuation, funding rounds and customer growth for 2024 — see the full breakdown on GetLatka. Updated Apr 10, 2025.",
+    "url": "https://getlatka.com/companies/dimorder.com",
+    "pass": 3
+   },
+   {
+    "quote": "DimOrder 2026 Company Profile: Valuation, Funding & Investors ...How DimOrder hit $7.4M revenue with a 48 person team in 2024.DimOrder: Funding, Team & Investors | Startup IntrosDimOrder — Company Profile & Funding | Indexed.vcDimOrder — Funding, Investors & Team | SeedtableDimOrder - Crunchbase Company Profile & Funding — Information on valuation, funding, cap tables, investors, and executives fo",
+    "url": "https://pitchbook.com/profiles/company/494525-71",
+    "pass": 3
+   },
+   {
+    "quote": "How DimOrder hit $7.4M revenue with a 48 person team in 2024. — DimOrder CEO Tim Lee shares how DimOrder grew to $7.4M over the past 6 years. DimOrder has bootstrapped. See DimOrder growth here.",
+    "url": "https://getlatka.com/companies/dimorder.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "DimOrder: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · The enterprise gained early institutional backing by participating in the Winter 2022 batch of Y Combinator, working alongside primary partner Brad Flora to scale its commercial operations. DimOrder was founded in 2019 by former food and beverage industry operators Tim Lee and Ben Wong.",
+    "url": "https://startupintros.com/orgs/dimorder",
+    "pass": 3
+   },
+   {
+    "quote": "DimOrder — Company Profile & Funding | Indexed.vc — DimOrder is a Fintech company based in Hong Kong, Hong Kong, founded in 2019. It has raised $500K in total across 1 round, most recently a $500K Convertible Note round in Mar 2022.",
+    "url": "https://indexed.vc/companies/dimorder",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Every feature is written by us — never resold or white-labelled",
+    "url": "https://dimorder.net/about-en.html",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "The system is customized for the unique needs of small and medium restaurants in the region, including diverse cuisine types like Chinese, Japanese, hotpot, and cafes.",
+    "url": "https://startupintros.com/orgs/dimorder",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "scalelist.com/ceo/wing-liu-email-phone-number",
+    "url": "https://startupintros.com/orgs/dimorder",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Ben Wong (@DimOrderBen) / Posts / X DimOrder is an operating system for restaurants in Southeast Asia. DimOrder gives them a POS system, powers their online payments, helps them order food from suppliers and get short-term loans.",
+    "url": "https://x.com/DimOrderBen",
+    "pass": 3
+   },
+   {
+    "quote": "Tim Lee (@timleect) / Posts / X DimOrder is an operating system for restaurants in Southeast Asia. DimOrder gives them a POS system, powers their online payments, helps them order food from suppliers and get short-term loans.",
+    "url": "https://x.com/timleect",
+    "pass": 3
+   },
+   {
+    "quote": "Ben Wong (@DimOrderBen) / Posts / X Feb 26, 2022 · DimOrder is an operating system for restaurants in Southeast Asia. DimOrder gives them a POS system, powers their online payments, helps them order food from suppliers and get short-term loans.",
+    "url": "https://x.com/DimOrderBen",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "點單 DimOrder - LinkedIn Founded in 2019, DimOrder is a Hong Kong-based technology company transforming the F&B industry. Through one single platform, restaurateurs can easily manage their business and focus on their...",
+    "url": "https://hk.linkedin.com/company/dimorder",
+    "pass": 3
+   },
+   {
+    "quote": "Tim Lee - Co-founder at DimOrder (YC W22). Restaurateur ... About Co-founder of DimOrder. Oversees sales, strategy and direction at DimOrder. Previous life in running a cafe and a Japanese restaurant, after years in the financial field doing wealth...",
+    "url": "https://hk.linkedin.com/in/timleehk",
+    "pass": 3
+   },
+   {
+    "quote": "#dimorder #foodtech #startupjourney #entrepreneurship #cuhk # ... We were honoured to be invited to share DimOrder’s startup journey with students from The Chinese University of Hong Kong, School of Communication. 🎓 During the seminar, we shared our ...",
+    "url": "https://www.linkedin.com/posts/dimorder_dimorder-foodtech-startupjourney-activity-7470278586784985088-ZOiP",
+    "pass": 3
+   },
+   {
+    "quote": "#dimorder #fintech #foodtech #pos #lending | 點單 DimOrder Through this collaboration, eligible merchants can apply for unsecured financing facilities of up to HKD 4 million per merchant, with customer-consented DimOrder transaction data helping simplify...",
+    "url": "https://www.linkedin.com/posts/dimorder_dimorder-fintech-foodtech-activity-7452257360716173312-oA0s",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "點單 | Kowloon - Facebook點單 - 全城免運費... | Facebook點單 - 【點單 x 小臻飯】提供多國菜快餐店 經濟實惠 正式上線 ... | ...點單 - ️ 餐廳老闆注意！資金周轉有新出路啦 DimOrder x 恒生銀行 強...兩合海鮮火鍋飯店 - 跨區外送服務 “點單 DimOrder”，快啲download... ...點單 - 【點單跨區送 x 舊金鳳餐廳】 金鳳大餐廳 (灣仔店) 正式上線‼️...點單 - 【點單DimOrder APP使用攻略】 點單Dimorder推薦親朋好友享價... Apr 25, 2026 · 點單DimOrder非常榮幸受邀參與香港Get Into Y Combinator 活動分享我們的經驗！ Y Combinator 位於美國矽谷，為全球最大初創孵化器。 能與 YC 校友交流大家分享的創業故事和見解將助力我們",
+    "url": "https://www.facebook.com/DimOrder/",
+    "pass": 3
+   },
+   {
+    "quote": "點單 - 全城免運費... | Facebook Jan 6, 2023 · 📢全城免運費 嗌外賣~你會發現運費變咗$0😱 為慶祝2023年開始🎉，DimOrder推出全城優惠活動🤩，只要於任何餐廳消費滿$1500即享免運費🔥 快啲約埋屋企人朋友嘆盡跨區美食滋味啦🍔🍝🍣🍕🎂 📲即刻上 [ DimOrder ] App揀你嘅心水美食📲...",
+    "url": "https://www.facebook.com/DimOrder/posts/全城免運費嗌外賣你會發現運費變咗0為慶祝2023年開始dimorder推出全城優惠活動只要於任何餐廳消費滿1500即享免運費-快啲約埋屋企人朋友嘆盡跨區美食滋味/537840175053902/",
+    "pass": 3
+   },
+   {
+    "quote": "點單 - ️ 餐廳老闆注意！資金周轉有新出路啦 DimOrder x 恒生銀行 強... Apr 25, 2026 · 資金周轉有新出路啦 DimOrder x 恒生銀行 強強聯手 為香港餐廳提供 最高 HKD 400萬 融資額度 透過你日常餐廳交易數據（經客戶授權） 審批流程大幅簡化 批核更快、更貼近你真實營運情況 如果你正面對以下情況： • 現金流壓力 • 想擴張開新店 • 店舖裝修 / 翻新 ...",
+    "url": "https://www.facebook.com/DimOrder/posts/️-餐廳老闆注意資金周轉有新出路啦dimorder-x-恒生銀行-強強聯手為香港餐廳提供-最高-hkd-400萬-融資額度-透過你日常餐廳交易數據經客戶授權-審/1398256909012220/",
+    "pass": 3
+   },
+   {
+    "quote": "兩合海鮮火鍋飯店 - 跨區外送服務 “點單 DimOrder”，快啲download... ... Jan 6, 2022 · 跨區外送服務 “點單 DimOrder”，快啲download 個apps，就算無堂食，住幾遠都可以食到 ”兩合海鮮火鍋飯店” 既撚手菜式啦",
+    "url": "https://www.facebook.com/leanhopseafood/posts/跨區外送服務-點單-dimorder快啲download-個apps就算無堂食住幾遠都可以食到-兩合海鮮火鍋飯店-既撚手菜式啦/2032680163560035/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.dimorder.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dimorder.com/pos-pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dimorder.com/aboutus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dimorder.com/aboutus/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.dimorder.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dimorder.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dimorder.com/aboutus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dimorder.net/solutions-en.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dimorder.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dimorder.net/solutions-en.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dimorder.net/about-en.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.dimorder.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dimorder.net/solutions-en.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dimorder.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reforgers.com/startups/dimorder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dimorder.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/dimorder.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/494525-71",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/dimorder.com#customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/dimorder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/DimOrderBen",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/timleect",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://hk.linkedin.com/company/dimorder",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://hk.linkedin.com/in/timleehk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/dimorder_dimorder-foodtech-startupjourney-activity-7470278586784985088-ZOiP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/dimorder_dimorder-fintech-foodtech-activity-7452257360716173312-oA0s",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/DimOrder/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/DimOrder/posts/全城免運費嗌外賣你會發現運費變咗0為慶祝2023年開始dimorder推出全城優惠活動只要於任何餐廳消費滿1500即享免運費-快啲約埋屋企人朋友嘆盡跨區美食滋味/537840175053902/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/DimOrder/posts/️-餐廳老闆注意資金周轉有新出路啦dimorder-x-恒生銀行-強強聯手為香港餐廳提供-最高-hkd-400萬-融資額度-透過你日常餐廳交易數據經客戶授權-審/1398256909012220/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/leanhopseafood/posts/跨區外送服務-點單-dimorder快啲download-個apps就算無堂食住幾遠都可以食到-兩合海鮮火鍋飯店-既撚手菜式啦/2032680163560035/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/DimOrderBen",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Dimorder 日本 導入",
+   "results": [
+    "https://www.dimorder.com/en/",
+    "https://www.dimorder.com/about-us/",
+    "https://www.dimorder.com/aboutus/",
+    "https://dimorder.net/solutions-en.html",
+    "https://dimorder.net/case-studies-en.html",
+    "https://earthkey.blog/global/dimorder/",
+    "https://www.proofpoint.com/jp/blog/cyberthreats/dmarc-adoption-industry-japan-us-2026"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dimorder 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dimorder Japan",
+   "results": [
+    "https://www.dimorder.com/en/",
+    "https://dimorder.net/solutions-en.html",
+    "https://dimorder.net/about-en.html",
+    "https://shop.dimorder.com/",
+    "https://www.ycombinator.com/companies/dimorder",
+    "https://www.ycombinator.com/founders/benwong2021",
+    "https://www.dimorder.com/restaurant/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dimorder manufacturing customer case study",
+   "results": [
+    "https://dimorder.net/solutions-en.html",
+    "https://www.dimorder.com/about-us/",
+    "https://reforgers.com/startups/dimorder",
+    "https://www.dimorder.com/en/",
+    "https://dimorder.net/case-studies-en.html",
+    "https://synergymar.tech/case-studies/dimorder-pos/",
+    "https://hkmb.hktdc.com/en/zLvGX55G/article/start-up-tackles-dining-pain-points"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dimorder white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.namesilo.com/reseller",
+    "https://partners.spectrum.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dimorder founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/dimorder.com",
+    "https://pitchbook.com/profiles/company/494525-71",
+    "https://getlatka.com/companies/dimorder.com/customers",
+    "https://startupintros.com/orgs/dimorder",
+    "https://indexed.vc/companies/dimorder",
+    "https://www.crunchbase.com/organization/infinity-technology-corporation-limited",
+    "https://seedtable.com/companies/dimorder"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Dimorder",
+   "results": [
+    "https://note.com/1olive/n/n2b52aa402dd4?hl=en",
+    "https://note.com/totonoeshukan/n/n137834949357?hl=en",
+    "https://note.com/ryumyaku_note/n/nead987eaa857?hl=en",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Dimorder",
+   "results": [
+    "https://x.com/DimOrderBen",
+    "https://x.com/timleect",
+    "https://x.com/itscelyunique/status/2117839228826521620",
+    "https://x.com/Demeros27",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/By_Greenzeee/status/2120036013104120287",
+    "https://x.com/CogitoEdu/status/2117911840973861028"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Dimorder",
+   "results": [
+    "https://hk.linkedin.com/company/dimorder",
+    "https://hk.linkedin.com/in/timleehk",
+    "https://www.linkedin.com/posts/dimorder_dimorder-foodtech-startupjourney-activity-7470278586784985088-ZOiP",
+    "https://www.linkedin.com/posts/dimorder_dimorder-fintech-foodtech-activity-7452257360716173312-oA0s",
+    "https://tw.linkedin.com/in/rick-liao-4536408b/en",
+    "https://cn.linkedin.com/posts/dimorder_利用科技拾回餐廳人情味-activity-7053580499700625408-TPRD",
+    "https://cy.linkedin.com/posts/tim-lee-a8676896_dimorder-ycombinator-hkstp-activity-7053593061725011968-OGam"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Dimorder",
+   "results": [
+    "https://www.facebook.com/DimOrder/",
+    "https://www.facebook.com/DimOrder/posts/全城免運費嗌外賣你會發現運費變咗0為慶祝2023年開始dimorder推出全城優惠活動只要於任何餐廳消費滿1500即享免運費-快啲約埋屋企人朋友嘆盡跨區美食滋味/537840175053902/",
+    "https://www.facebook.com/DimOrder/posts/️-餐廳老闆注意資金周轉有新出路啦dimorder-x-恒生銀行-強強聯手為香港餐廳提供-最高-hkd-400萬-融資額度-透過你日常餐廳交易數據經客戶授權-審/1398256909012220/",
+    "https://www.facebook.com/leanhopseafood/posts/跨區外送服務-點單-dimorder快啲download-個apps就算無堂食住幾遠都可以食到-兩合海鮮火鍋飯店-既撚手菜式啦/2032680163560035/",
+    "https://www.facebook.com/DimOrder/posts/點單dimorder-app使用攻略點單dimorder推薦親朋好友享價值hk20-ricecoin香港成立嘅外送平台無距離限制全港18區跨區嗌野食平台點單di/4220948817985755/",
+    "https://www.facebook.com/DimOrder/posts/點單-x-小臻飯提供多國菜快餐店經濟實惠正式上線-立即上點單外賣平台睇睇菜牌落單啦精選美食家常便飯一律都有十八區跨區外賣為你提供滋味美食必食推介1️⃣醉雞2️⃣/3600897589990884/",
+    "https://www.facebook.com/DimOrder/posts/點單跨區送-x-舊金鳳餐廳金鳳大餐廳灣仔店-正式上線️-立即上點單外賣平台睇睇餐牌落單啦十八區跨區外賣為你提供滋味美食此店由金鳳阿叔親自主理灣仔店已經開業七年有/4637479352999364/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dimorder note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.dimorder.com/about-us/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://registry.alpha.ac/companies/dimorder",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://www.dimorder.com/2023forbeschina30_en/",
+    "https://the-shashi.com/tse/5243/ceo/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dimorder X 投稿",
+   "results": [
+    "https://x.com/DimOrderBen",
+    "https://www.instagram.com/dimorder_hk/",
+    "https://dimorder.net/index-en.html",
+    "https://www.dimorder.com/",
+    "https://c.dimorder.com/",
+    "https://dimorder.net/",
+    "https://x.com/timleect"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部35頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部35頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部35頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部35頁・検索12回）"
+ }
+}
