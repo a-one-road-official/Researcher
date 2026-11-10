@@ -1,0 +1,1082 @@
+{
+ "name": "Intezer",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜状態なし",
+ "researched_at": "2026-11-10T14:50:56.943649+00:00",
+ "official_url": "https://www.intezer.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "AI SOC for Enterprise | Every Alert Investigated | Intezer",
+    "url": "https://intezer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by over 150 of the world's most targeted enterprises",
+    "url": "https://intezer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Intezer crosses the trust threshold by combining forensic depth with agentic AI to accurately determine what really happened. This enables enterprise customers to safely offload Tier 1 and Tier 2 investigation work, shifting humans from investigating alerts to supervising outcomes.",
+    "url": "https://intezer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Endpoint-based pricing and automation boosts SOC capacity, so you can scale without volume fees or any added operational complexity",
+    "url": "https://intezer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect your security products so you can triage and investigate all your alerts with Intezer’s AI SOC.",
+    "url": "https://intezer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Intezer combines deep forensic capabilities, including endpoint analysis, memory scanning, reverse engineering, and built-in threat intelligence, with multiple AI models for fast, consistent, and accurate alert triage. Triage 100% of alerts with predictable endpoint-based pricing so even low-severity alerts are fully investigated.",
+    "url": "https://intezer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Intezer customers can challenge any verdict directly in the platform. Feedback and investigation outcomes inform and fine-tune AI triage logic as well as detection rules at the source, to perfectly reflect your environment and risk profile.",
+    "url": "https://intezer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Intezer's accuracy and efficiency have not only improved our response times but have also given our team more bandwidth to tackle higher-level challenges.",
+    "url": "https://intezer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Intezer has been a game-changer for our security operations. By automating tier 1 triage, we've drastically reduced alert fatigue and response times, allowing our team to focus on high-priority threats.",
+    "url": "https://intezer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Intezer is well integrated into our SOC team’s daily workflows. It's all automated. Our analysts now have time for more proactive security.",
+    "url": "https://intezer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "By automating triage and providing us with enriched threat intelligence, Intezer empowers us to focus on high-priority incidents and take decisive action to protect our clients.",
+    "url": "https://intezer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Intezer's triage and investigations have proven to be so accurate that we trust its verdicts the way we'd trust a senior analyst. What used to be an avalanche of noise is now a short, prioritized list of things that actually matter.",
+    "url": "https://intezer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enable fast setup for integrations with leading products for endpoint, phishing, identity, network, SIEM and more.​",
+    "url": "https://intezer.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Support more customers with predictable and scalable pricing based on number of organizational endpoints",
+    "url": "https://intezer.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Intezer Forensic AI SOC Pricing | Enterprise and MSSP Ready",
+    "url": "https://intezer.com/product/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Packages built for Enterprise",
+    "url": "https://intezer.com/product/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Premium SLA add-on available for Complete",
+    "url": "https://intezer.com/product/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Intezer leverages a combination of proprietary and commercial AI models, along with proven forensic tools for crafting the bottom-line incident triage assessments. In addition, users can fine-tune Intezer’s decision making process to their own organization and policies.",
+    "url": "https://intezer.com/product/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "What’s the setup process and how long does it take to get started with Intezer?",
+    "url": "https://intezer.com/product/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The primary onboarding tasks are connecting your alert sources and then adding members of your team as new users to your Intezer account.",
+    "url": "https://intezer.com/product/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Top brands like Equifax, MGM Resorts, NVIDIA and other Fortune 500 enterprise security teams use Intezer to investigate and remediate the high volume of their security alerts",
+    "url": "https://intezer.com/product/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by over 150 of the world's most targeted enterprises",
+    "url": "https://intezer.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Executive interview with the CTO of MGM Resorts International",
+    "url": "https://intezer.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Salesforce runs one of the world's largest CSIRT operations, where manually triaging a constant flood of employee-reported suspicious emails was slowing down the team. With Intezer AI SOC the team now handles phishing reports almost entirely through automation, contains real threats faster, and has freed tier-one analysts for proactive work like tuning detection rules.",
+    "url": "https://intezer.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Co-founder and CEO of Intezer, Itai is on a mission to revolutionize how SOC teams investigate and respond to cybersecurity incidents. He previously led the cyber incident response team for one of the world's most targeted organizations. Itai combines his expertise in AI and security to advise security leaders at Fortune 500 companies on how to defend against threat actors in the AI era.",
+    "url": "https://intezer.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "An author and a successful serial high-tech entrepreneur. Founder, former Chairman & CEO of Cyber-Ark Software (NASDAQ:CYBR), a world-leading public information security company, with 800 employees worldwide. A former Chairman & CEO of FilesX, a data storage company that was acquired by IBM in 2008.",
+    "url": "https://intezer.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Jim has spent the past 17 years working in fast-growing SaaS companies. He was the VP of Revenue, most recently responsible for sales and customer success at Threat Stack, where he spent five years. Outside of work, Jim is the Vice-Chairman of Board of Directors for the non-profit Boston Uncornered.",
+    "url": "https://intezer.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Marketing Officer",
+    "url": "https://intezer.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Product Manager",
+    "url": "https://intezer.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The best part of working at Intezer is the people. Expert people that I get to learn a lot from every day. And even more important is the atmosphere. Very supportive which encourages me to keep improving.",
+    "url": "https://intezer.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "アラート発生量が人手による分析能力を大幅に超大し、低重要度アラートが後回し（Deprioritize）されるため",
+    "url": "https://blog.usize-tech.com/ai-soc-security-platform/",
+    "pass": 3
+   },
+   {
+    "quote": ": Office 365, Proofpoint などの不正メール通報パイプライン",
+    "url": "https://blog.usize-tech.com/ai-soc-security-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "MCP（Model Context Protocol）サーバー",
+    "url": "https://blog.usize-tech.com/ai-soc-security-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "保護対象のエンドポイント数に基づく定額制（Priced by endpoints）を採用しており、処理するアラート量が急増してもコストがブレない（Predictable Cost）という強いメリットがあります",
+    "url": "https://blog.usize-tech.com/ai-soc-security-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Get direct access to the people, products, and expertise behind Microsoft technology, with opportunities to ask questions, build skills, and learn alongside the community.",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/intezerlabsinc.autonomous-soc-platform2",
+    "pass": 3
+   },
+   {
+    "quote": "to get a custom private offering, based on your use-case.",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/intezerlabsinc.autonomous-soc-platform2",
+    "pass": 3
+   },
+   {
+    "quote": "/staticstorage/20261105.2/assets/videoOverlay_62a424ca921ff733.png",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/intezerlabsinc.autonomous-soc-platform2",
+    "pass": 3
+   },
+   {
+    "quote": "Two Trojan Families Trotting in Through Google Search Ads",
+    "url": "https://research.intezer.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Dissecting SSLoad Malware: A Comprehensive Technical Analysis",
+    "url": "https://research.intezer.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Exposed Prefect Workflows Could Lead to Disruptive Attacks",
+    "url": "https://research.intezer.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Why Relying on the Cloud Provider for Security is Not Enough",
+    "url": "https://research.intezer.com/",
+    "pass": 3
+   },
+   {
+    "quote": "CVE-2021-27075: Microsoft Azure Vulnerability Allows Privilege Escalation and Leak of Private Data",
+    "url": "https://research.intezer.com/",
+    "pass": 3
+   },
+   {
+    "quote": "A Rare Look Inside a Cryptojacking Campaign and its Profit",
+    "url": "https://research.intezer.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Stantinko's Proxy After Your Apache Server",
+    "url": "https://research.intezer.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Fantastic payloads and where we find them",
+    "url": "https://research.intezer.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Prince of Persia: The Sands of Foudre",
+    "url": "https://research.intezer.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Building Your Bullet Proof Incident Response Plan",
+    "url": "https://research.intezer.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Packers, crypters, protectors, loaders...",
+    "url": "https://research.intezer.com/",
+    "pass": 3
+   },
+   {
+    "quote": "malware families, campaigns, and threat actors we track, alongside the practical",
+    "url": "https://research.intezer.com/",
+    "pass": 3
+   },
+   {
+    "quote": "- Practical guides to malware analysis and reverse",
+    "url": "https://research.intezer.com/",
+    "pass": 3
+   },
+   {
+    "quote": "In July 2022, we published the first analysis of OrBit, a then-undocumented Linux userland-rootkit that stood out for its comprehensive libc hooking, SSH backdoor access, and PAM-based credential harvesting. At the time, OrBit appeared as a single sample with a single operator fingerprint, and the codebase itself looked customized.",
+    "url": "https://research.intezer.com/",
+    "pass": 3
+   },
+   {
+    "quote": "An XLL is a native Windows DLL that Excel loads as an add-in, allowing it to execute arbitrary code through exported functions like xlAutoOpen. Since at least mid-2017, threat actors began abusing Microsoft Excel add-ins via the .XLL format, the earliest documented misuse is by the threat group APT10 (aka Stone Panda / Potassium) injecting backdoor payloads via XLLs.",
+    "url": "https://research.intezer.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Prophet Security empowers organizations to triage, investigate, and respond to alerts with unparalleled speed and accuracy. As a force multiplier, Prophet Security enhances SecOps productivity and lowers costs while driving …",
+    "url": "https://www.featuredcustomers.com/vendor/intezer/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Radiant Security's Adaptive AI SOC platform is designed for enterprise security teams that want to address 100% of the alerts they receive from any tool or sensor. They’re pioneering the …",
+    "url": "https://www.featuredcustomers.com/vendor/intezer/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Exaforce is on a mission to 10x the productivity and efficacy of security and operations (SOC) teams using their transformative multi-model AI engine. They Agentic SOC Platform combines AI agents …",
+    "url": "https://www.featuredcustomers.com/vendor/intezer/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Let potential prospects find you on the world's only",
+    "url": "https://www.featuredcustomers.com/vendor/intezer/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/intezer/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "FREE and learn about our upgraded profile options to",
+    "url": "https://www.featuredcustomers.com/vendor/intezer/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "unlock all of your customer references for prospects",
+    "url": "https://www.featuredcustomers.com/vendor/intezer/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/intezer/case-studies",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by over 150 of the world's most targeted enterprises",
+    "url": "https://intezer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by over 150 of the world's most targeted enterprises",
+    "url": "https://intezer.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/intezer/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: DPD automates SOC Tier 1 alert triage with Intezer | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/intezer/case-study/dpd-automates-soc-tier-1-tasks-with-intezer",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: DPD automates SOC Tier 1 alert triage with Intezer",
+    "url": "https://www.casestudies.com/company/intezer/case-study/dpd-automates-soc-tier-1-tasks-with-intezer",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/intezer/case-study/dpd-automates-soc-tier-1-tasks-with-intezer",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/intezer/case-study/dpd-automates-soc-tier-1-tasks-with-intezer",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: DPD automates SOC triage and saves 2,500+ hours with Intezer | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/intezer/case-study/dpd-saves-over-2500-hours-with-intezer",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: DPD automates SOC triage and saves 2,500+ hours with Intezer",
+    "url": "https://www.casestudies.com/company/intezer/case-study/dpd-saves-over-2500-hours-with-intezer",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/intezer/case-study/dpd-saves-over-2500-hours-with-intezer",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/intezer/case-study/dpd-saves-over-2500-hours-with-intezer",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Top brands like Equifax, MGM Resorts, NVIDIA and other Fortune 500 enterprise security teams use Intezer to investigate and remediate the high volume of their security alerts",
+    "url": "https://intezer.com/product/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Legato Security breaks through the scale barrier with Intezer’s AI SOC Platform",
+    "url": "https://intezer.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Co-founder and CEO of Intezer, Itai is on a mission to revolutionize how SOC teams investigate and respond to cybersecurity incidents. He previously led the cyber incident response team for one of the world's most targeted organizations. Itai combines his expertise in AI and security to advise security leaders at Fortune 500 companies on how to defend against threat actors in the AI era.",
+    "url": "https://intezer.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "An author and a successful serial high-tech entrepreneur. Founder, former Chairman & CEO of Cyber-Ark Software (NASDAQ:CYBR), a world-leading public information security company, with 800 employees worldwide. A former Chairman & CEO of FilesX, a data storage company that was acquired by IBM in 2008.",
+    "url": "https://intezer.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Jim has spent the past 17 years working in fast-growing SaaS companies. He was the VP of Revenue, most recently responsible for sales and customer success at Threat Stack, where he spent five years. Outside of work, Jim is the Vice-Chairman of Board of Directors for the non-profit Boston Uncornered.",
+    "url": "https://intezer.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "I love how people are collaborating and willing to help out. The company values employees as individuals and the atmosphere in the office is very welcoming. I've been working at Intezer for a while now, and I feel at home here.",
+    "url": "https://intezer.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The best part of working at Intezer is the people. Expert people that I get to learn a lot from every day. And even more important is the atmosphere. Very supportive which encourages me to keep improving.",
+    "url": "https://intezer.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Working at Intezer is working in a company that values people and collaboration while delivering awesome technology and solutions. My favorite part of working at Intezer is the fact that my work has a direct effect and impact on the results.",
+    "url": "https://intezer.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/intezer/case-studies",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Automated triage of user-reported phishing emails",
+    "url": "https://intezer.com/product/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically monitor and investigate an abuse inbox or other suspicious email pipeline",
+    "url": "https://intezer.com/product/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Salesforce runs one of the world's largest CSIRT operations, where manually triaging a constant flood of employee-reported suspicious emails was slowing down the team. With Intezer AI SOC the team now handles phishing reports almost entirely through automation, contains real threats faster, and has freed tier-one analysts for proactive work like tuning detection rules.",
+    "url": "https://intezer.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "For more information around security and compliance, please contact us",
+    "url": "https://intezer.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/intezer/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/intezer/case-studies",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "本記事では、日本国内ではまだ馴染みの少ない Intezer について紹介します",
+    "url": "https://blog.usize-tech.com/ai-soc-security-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "【日本国内におけるサービス展開と導入実例】",
+    "url": "https://blog.usize-tech.com/ai-soc-security-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルでの実績に加え、日本市場における実装リアリティも急速に高まっています",
+    "url": "https://blog.usize-tech.com/ai-soc-security-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "また、海外の先端的導入事例としてポーランドの配送大手",
+    "url": "https://blog.usize-tech.com/ai-soc-security-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "SCSKセキュリティ、AIを活用した次世代SOCサービス「AI SOCサービス」を提供開始 ～自社環境で平均2分の一次分析、約95％のアラートを自動クローズ～ – SCSKセキュリティ株式会社",
+    "url": "https://blog.usize-tech.com/ai-soc-security-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "では、お客様のDX推進をワンストップで支援するサービスの詳細や導入事例を紹介しています",
+    "url": "https://blog.usize-tech.com/ai-soc-security-platform/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "次世代セキュリティプラットフォーム「Intezer」の全貌：遺伝子解析と... — 6 days ago · Intezer（インテザー）の「遺伝子マルウェア解析」と「自律型AI SOC」によって、従来のセキュリティ運用課題であるアラート疲弊や誤検知を根本から解決します。",
+    "url": "https://blog.usize-tech.com/ai-soc-security-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "AI SOC for Enterprise | Every Alert Investigated | Intezer — Intezer crosses the trust threshold by combining forensic depth with agentic AI to accurately determine what really happened. This enables enterprise customers to safely offload Tier 1 and Tier 2 investigation work, shifting humans from investigating alerts to supervising outcomes.",
+    "url": "https://intezer.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Intezer Partners — Partnering with Intezer is the secret weapon to give your customers high-quality investigation results, faster incident response times, and cost-effective services.",
+    "url": "https://intezer.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Intezer Autonomous SOC | Microsoft Marketplace — Intezer can be used by internal security teams or managed service providers to reduce costs, eliminate alert fatigue, and automate repetitive tasks. Reach out to our sales team at contact@intezer.com to get a custom private offering, based on your use-case.",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/intezerlabsinc.autonomous-soc-platform2",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェアパッケージ『Intezer』 B7 | イプロス — 海外ソフトウェア販売で日本最大クラスの品揃えを維持。 お客様の要望に応じて世界中からソフトウェアを調達します。 当社が運営している海外ソフトNo.1調達サイトの『ワールドソフト』は、 世界中から使えるソフトを仕入れてお届けします。",
+    "url": "https://www.ipros.com/product/detail/2001475602/",
+    "pass": 3
+   },
+   {
+    "quote": "AI SOC for Enterprise | Every Alert Investigated | Intezer — Intezer AI SOC closes MDR gaps by triaging, investigating and responding to every alert at unmatched scale, speed and accuracy.",
+    "url": "https://intezer.com/",
+    "pass": 3
+   },
+   {
+    "quote": "About Intezer — Intezer is redefining security operations for enterprises everywhere. By removing investigation capacity as a constraint, Intezer enables every alert to be analyzed at forensic depth, automatically and continuously.",
+    "url": "https://intezer.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Intezer Research — Malware analysis, threat research, and reverse engineering, written by the analysts doing the work. Intezer’s Research Team publishes its work here: deep-dive write-ups on the malware families, campaigns, and threat actors we track, alongside the practical guides we wish we’d had when we started.",
+    "url": "https://research.intezer.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェアパッケージ『Intezer』 B7 | イプロス — 海外ソフトウェア販売で日本最大クラスの品揃えを維持。 お客様の要望に応じて世界中からソフトウェアを調達します。 当社が運営している海外ソフトNo.1調達サイトの『ワールドソフト』は、 世界中から使えるソフトを仕入れてお届けします。 2004年からの運営で5千点以上の海外ソフトウェア (フリーウェア＆シェアウェア)等を紹介/販売。 海外ソフトウェアの輸入・調達は公式/認定販売店のワールドソフトにお任せ下さい。 未掲載のソフト・3Dモデル等のデジタル製品、ウェブサービスも手配可能ですのでご連絡下さい。 公費・校費・科研費払いにも対応しております。 大企業から小規模企業並びに大学や官公庁/研究機関等と幅広い取引実績がございます。",
+    "url": "https://www.ipros.com/product/detail/2001475602/",
+    "pass": 3
+   },
+   {
+    "quote": "Intezer Customers — Explore how security teams at the world's most targeted organizations use Intezer to investigate faster and respond with confidence. We’re honored to have Branden Newman, CTO of MGM Resorts International, on Intezer’s Customer Advisory Board.",
+    "url": "https://intezer.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "4 Intezer Case Studies, Success Stories, & Customer Stories ... — Intezer has a 4.8/5 star rating. Learn what their customers think, get 4 free case studies and more.",
+    "url": "https://www.featuredcustomers.com/vendor/intezer/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: DPD automates SOC Tier 1 alert triage with Intezer — DPD (Logistics and Supply Chain) partnered with Intezer (Computer & Network Security) to solve key challenges. \"DPD Automates SOC Tier 1 Tasks with Intezer\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/intezer/case-study/dpd-automates-soc-tier-1-tasks-with-intezer",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: DPD automates SOC triage and saves 2,500+ hours ... — DPD (Logistics and Supply Chain) partnered with Intezer (Computer & Network Security) to solve key challenges. \"DPD saves over 2,500 hours with Intezer\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/intezer/case-study/dpd-saves-over-2500-hours-with-intezer",
+    "pass": 3
+   },
+   {
+    "quote": "Intezer 2026 Company Profile: Valuation, Funding & Investors ...Intezer – Performance Metrics & Competitor Intelligence – 2026Intezer — Funding, Team & Competitive Intelligence | Mandos CyberInteger Holdings (ITGR) Revenue 2006-2026 - Stock AnalysisIntezer Labs - 2026 Company Profile, Team, Funding ... - TracxnIntezer Revenue 2025: $10.8M Est. - getlatka.comIntezer — Company Profile & Funding | In",
+    "url": "https://pitchbook.com/profiles/company/168970-33",
+    "pass": 3
+   },
+   {
+    "quote": "Intezer – Performance Metrics & Competitor Intelligence – 2026 — Intezer's estimated revenue per employee stands at $186.7K. Intezer has raised a total of $60M in funding. Intezer currently has a workforce of over 50+. In the last year, Intezer added 32% more employees to its staff. Intezer operates in a competitive market alongside 5 tracked alternatives.",
+    "url": "https://compworth.com/company/intezer",
+    "pass": 3
+   },
+   {
+    "quote": "Intezer — Funding, Team & Competitive Intelligence | Mandos Cyber — Oct 11, 2026 · Intezer is a cybersecurity company specializing in Security Operations, founded in 2015 and headquartered in New York, United States. It has raised $58M in total funding, employs about 88 people, and is privately held.",
+    "url": "https://mandos.io/data/companies/intezer",
+    "pass": 3
+   },
+   {
+    "quote": "Intezer Labs - 2026 Company Profile, Team, Funding ... - TracxnIntezer Revenue 2025: $10.8M Est. - getlatka.comIntezer — Company Profile & Funding | Indexed.vc — Feb 7, 2026 · Explore Intezer Labs' in-depth company profile, including funding details, key investors, leadership, and competitors. Sep 15, 2026 · Intezer is a cybersecurity platform that automates alert triage, incident response, and th",
+    "url": "https://tracxn.com/d/companies/intezer-labs/__p18N5YvUL4mgWzbKrD6SZelDwdzbnm5epRDb7Ub2pNQ",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Intezer (@IntezerLabs) / X The Intezer Autonomous SOC Platform now integrates directly with cloud tools such as @AWS, @Microsoft, @Google, and more to triage and investigate cloud alerts automatically.",
+    "url": "https://x.com/IntezerLabs",
+    "pass": 3
+   },
+   {
+    "quote": "Intezer on X: \"3. Intezer Unveils AI-Driven Solution for SIEM ... 3 big announcements we made leading up to #RSAC: 1. Growth of Autonomous SOC Platform Takes Off in 2023 - intezer.com/blog/incident-… #RSA2024",
+    "url": "https://x.com/IntezerLabs/status/1787907448818553212",
+    "pass": 3
+   },
+   {
+    "quote": "Intezer on X: \"Incident Response Tip⚡ UAC is a powerful Live ... 1 424 Intezer @IntezerLabs Mar 11, 2024 ^thanks to @ NicoleFishi19 for sharing this tip 💪 #incidentresponse #cybersecurity",
+    "url": "https://x.com/IntezerLabs/status/1767255052937486690",
+    "pass": 3
+   },
+   {
+    "quote": "\"#Intezer\" - Results on X | Live Posts & Updates A group of cybersecurity researchers from #BlackBerry and #Intezer discovered a new #Linux #malware that, according to the companies, would be “nearly #impossible to detect.”",
+    "url": "https://x.com/hashtag/Intezer",
+    "pass": 3
+   },
+   {
+    "quote": "Intezer (@IntezerLabs) / X 🚀 Big News from Intezer! 🚀 We’ve raised $33M in new funding (led by @NorwestVP) to continue transforming security operations with our AI-powered Autonomous SOC platform!",
+    "url": "https://x.com/IntezerLabs",
+    "pass": 3
+   },
+   {
+    "quote": "Intezer on X: \" [1/3] Linux version of #Lazarus's # ... Jun 16, 2020 · [1/3] 🆕 Linux version of #Lazarus 's #ManusCrypt variant F. Its PE version was reported by the @USCERT_gov in May 2020 analyze.intezer.com/#/analyses/fb5… ->>",
+    "url": "https://x.com/IntezerLabs/status/1272915284148531200",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Intezer - LinkedIn By combining AI agents with proven forensics that includes endpoint analysis, memory scanning, file reverse engineering, and threat intelligence, Intezer provides fast, consistent, and accurate...",
+    "url": "https://www.linkedin.com/company/intezer/",
+    "pass": 3
+   },
+   {
+    "quote": "Forensic AI SOC - LinkedIn Intezer AI SOC uses proven forensic capabilities, including endpoint forensics, reverse engineering, network artifact analysis, sandboxing, and other proprietary methods, with the adaptive ...",
+    "url": "https://www.linkedin.com/products/intezer-labs-intezer-analyze/",
+    "pass": 3
+   },
+   {
+    "quote": "Intezer | LinkedIn By combining AI agents with proven forensics that includes endpoint analysis, memory scanning, file reverse engineering, and threat intelligence, Intezer provides fast, consistent, and accurate...",
+    "url": "https://br.linkedin.com/company/intezer-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Itai Tevet - Co Founder and CEO at Intezer | AI SOC | LinkedInInteger Holdings Corporation - LinkedInIntroducing Certified AI SOC Analyst (CASA) Program by IntezerAnnouncing a major milestone. Intezer revenue ... - LinkedIn So a few years ago, we started Intezer to attack the problem at the level of code rather than alerts. Today we're the AI SOC platform for enterprise, powered by ForensicAI. Int",
+    "url": "https://www.linkedin.com/in/itai-tevet-43776767",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Intezer - FacebookInteger Holdings Corporation | Plano TX - FacebookIntezer 30 - FacebookThe Integer Group - FacebookInteger Juárez | Chihuahua - FacebookIntezer - \"Intezer Protect finally gives us visibility on ...Intezer - FullOfDeep, the Russian cybercrime group behind ... Aug 12, 2025 · Intezer's integration with the SentinelOne Singularity XDR combines best-of-breed solutions to automatically",
+    "url": "https://www.facebook.com/IntezerLabs/",
+    "pass": 3
+   },
+   {
+    "quote": "Integer Holdings Corporation | Plano TX - FacebookIntezer 30 - FacebookThe Integer Group - FacebookInteger Juárez | Chihuahua - FacebookIntezer - \"Intezer Protect finally gives us visibility on ...Intezer - FullOfDeep, the Russian cybercrime group behind ... Jul 29, 2026 · Integer Holdings Corporation, Plano. 1,717 likes · 5 talking about this · 4 were here. Integer is one of the largest medical d",
+    "url": "https://www.facebook.com/integerholdingscorp/",
+    "pass": 3
+   },
+   {
+    "quote": "Intezer 30 - Facebook Sep 30, 2026 · Intezer 30. 51 followers · 194 talking about this. I will distance myself from you so much that even my pride won't touch you.. ️🩹🙂",
+    "url": "https://www.facebook.com/p/Intezer-30-61591905780886/",
+    "pass": 3
+   },
+   {
+    "quote": "The Integer Group - FacebookInteger Juárez | Chihuahua - FacebookIntezer - \"Intezer Protect finally gives us visibility on ...Intezer - FullOfDeep, the Russian cybercrime group behind ... Jun 23, 2023 · The Integer Group. 5,174 followers · 2 talking about this. We are The Growth Company. We harness data to fuel creativity that starts conversations, drives conversion and delivers growth for our cli",
+    "url": "https://www.facebook.com/integer/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://intezer.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://intezer.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://intezer.com/product/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://intezer.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://intezer.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://intezer.com/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/6a1dde3fab071067432aca09/6a8c2403def9dac5b8a0f494_Partners.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://blog.usize-tech.com/ai-soc-security-platform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://intezer.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://intezer.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketplace.microsoft.com/ja-jp/product/intezerlabsinc.autonomous-soc-platform2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://intezer.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://intezer.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://intezer.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://research.intezer.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.brandinginasia.com/spotlight/the-integer-group-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://intezer.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/intezer/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/intezer/case-study/dpd-automates-soc-tier-1-tasks-with-intezer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/intezer/case-study/dpd-saves-over-2500-hours-with-intezer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/168970-33",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/intezer",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://mandos.io/data/companies/intezer",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://stockanalysis.com/stocks/itgr/revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/IntezerLabs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/IntezerLabs/status/1787907448818553212",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/IntezerLabs/status/1767255052937486690",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/Intezer",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/intezer/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/intezer-labs-intezer-analyze/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://br.linkedin.com/company/intezer-labs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/itai-tevet-43776767",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/IntezerLabs/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/integerholdingscorp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Intezer-30-61591905780886/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/integer/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/IntezerLabs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/IntezerLabs/status/1272915284148531200",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Intezer 日本 導入",
+   "results": [
+    "https://blog.usize-tech.com/ai-soc-security-platform/",
+    "https://intezer.com/",
+    "https://intezer.com/partners",
+    "https://marketplace.microsoft.com/ja-jp/product/intezerlabsinc.autonomous-soc-platform2",
+    "https://www.ipros.com/product/detail/2001475602/",
+    "https://intezer.com/product/integrations",
+    "https://techblitz.com/startup-interview/intezer/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Intezer 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本サムスン",
+    "https://intezer.com/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.indexpro.co.jp/distributor/search-maker",
+    "https://biz.toyokeizai.net/data/service/detail/id=418",
+    "https://intertekjp.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Intezer Japan",
+   "results": [
+    "https://intezer.com/",
+    "https://intezer.com/about",
+    "https://research.intezer.com/",
+    "https://www.brandinginasia.com/spotlight/the-integer-group-japan/",
+    "https://www.ipros.com/product/detail/2001475602/",
+    "https://techblitz.com/startup-interview/intezer/",
+    "https://www.integer.net/home/default.aspx"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Intezer manufacturing customer case study",
+   "results": [
+    "https://intezer.com/customers",
+    "https://www.featuredcustomers.com/vendor/intezer/case-studies",
+    "https://www.casestudies.com/company/intezer/case-study/dpd-automates-soc-tier-1-tasks-with-intezer",
+    "https://www.casestudies.com/company/intezer/case-study/dpd-saves-over-2500-hours-with-intezer",
+    "https://intezer.com/",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/intezer_isecurity_841506.pdf",
+    "https://www.emaint.com/resources/customer-stories/integer-holdings-corporation-achieves-992-work-order-completion-across"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Intezer white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://partners.spectrum.com/",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://www.canva.com/partners/reseller/",
+    "https://partner.microsoft.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Intezer founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/168970-33",
+    "https://compworth.com/company/intezer",
+    "https://mandos.io/data/companies/intezer",
+    "https://stockanalysis.com/stocks/itgr/revenue/",
+    "https://tracxn.com/d/companies/intezer-labs/__p18N5YvUL4mgWzbKrD6SZelDwdzbnm5epRDb7Ub2pNQ",
+    "https://getlatka.com/companies/intezer.com",
+    "https://indexed.vc/companies/intezer"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Intezer",
+   "results": [
+    "https://note.com/grand_wren1771/n/nf786979d509e?hl=en",
+    "https://money.note.com/rankings/AI/market_cap_desc",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/good_python/n/ne4b79e3a0adb?hl=en",
+    "https://note.com/alctuaryue/n/n5ea4fc01492a",
+    "https://note.com/yasudev/n/n852065919205"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Intezer",
+   "results": [
+    "https://x.com/IntezerLabs",
+    "https://x.com/IntezerLabs/status/1787907448818553212",
+    "https://x.com/IntezerLabs/status/1767255052937486690",
+    "https://x.com/hashtag/Intezer",
+    "https://x.com/IntegerTCG",
+    "https://x.com/shaulhol",
+    "https://x.com/IntegerTCG/status/2119261377026294079"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Intezer",
+   "results": [
+    "https://www.linkedin.com/company/intezer/",
+    "https://www.linkedin.com/products/intezer-labs-intezer-analyze/",
+    "https://br.linkedin.com/company/intezer-labs",
+    "https://www.linkedin.com/in/itai-tevet-43776767",
+    "https://www.linkedin.com/company/integer-holdings/",
+    "https://www.linkedin.com/posts/intezer-labs_become-a-certified-ai-soc-analyst-casa-activity-7508533707927101440-4Hox",
+    "https://www.linkedin.com/posts/intezer-labs_announcing-a-major-milestone-intezer-activity-7505981894342283265--9-Z",
+    "https://www.linkedin.com/in/jamiegarrisonsales"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:facebook.com Intezer",
+   "results": [
+    "https://www.facebook.com/IntezerLabs/",
+    "https://www.facebook.com/integerholdingscorp/",
+    "https://www.facebook.com/p/Intezer-30-61591905780886/",
+    "https://www.facebook.com/integer/",
+    "https://www.facebook.com/JRZInteger/",
+    "https://www.facebook.com/IntezerLabs/posts/intezer-protect-finally-gives-us-visibility-on-the-host-level-the-tool-is-intuit/1540689769628855/",
+    "https://www.facebook.com/IntezerLabs/posts/906875639676941/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Intezer note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.buffett-code.com/company/5243/governance",
+    "https://diamond.jp/articles/-/388572",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://shachou-know.com/",
+    "https://brutus.jp/post-318693/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Intezer X 投稿",
+   "results": [
+    "https://x.com/IntezerLabs",
+    "https://x.com/IntezerLabs/status/1272915284148531200",
+    "https://intezer.com/",
+    "https://www.instagram.com/intezerlabs/",
+    "https://www.reddit.com/user/Intezer/",
+    "https://www.instagram.com/intezerofficial/",
+    "https://www.facebook.com/IntezerLabs/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部38頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部38頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部38頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部38頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部38頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部38頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部38頁・検索12回）"
+ }
+}

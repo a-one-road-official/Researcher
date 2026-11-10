@@ -1,4 +1,4 @@
-# 一都三県 表彰・認定リスト起点の芋づる式リスト（資本金1億円以上・自動車除く）— 事業内容・資本金・設立・株主・取引先（事実のみ・59社）
+# 一都三県 表彰・認定リスト起点の芋づる式リスト（資本金1億円以上・自動車除く）— 事業内容・資本金・設立・株主・取引先（事実のみ・61社）
 
 ## Ashirase
 - 公式URL：https://www.ashirase.com/（given）
@@ -1635,6 +1635,78 @@ NTTエレクトロニクステクノ株式会社
   - 「アジラ 、 資金調達 及び事業進展のお知らせ〜来期黒字化を視野に — アジラ 、 資金調達 及び事業進展のお知らせ〜来期黒字化を視野に 株式会社アジラ https://jp.asilla.com > post > news-funding-20260805」（https://jp.asilla.com/post/news-funding-20260805・3回目）
   - 「累計 調達 金額は約12億円に | 株式会社 アジラ のプレスリリース — 累計 調達 金額は約12億円に | 株式会社 アジラ のプレスリリース PR TIMES https://prtimes.jp > 経営情報」（https://prtimes.jp/main/html/rd/p/000000229.000043312.html・3回目）
 - 売上高：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部19頁・検索11回）
+
+## アプティ
+- 公式URL：https://upty.jp/（given）
+- 事業内容：①自動車/メカニック専門 総合人材サービス事業（求人サイト、人材紹介、人材派遣） ②外国籍人材サービス事業（採用・教育・管理） ③HR tech / SaaS事業（産学連携／離職防止、適性検査） ④出張整備事業（業務委託・請負・スポット） ⑤自動車整備工場向け 環境整備事業 ⑥自動車整備工場の運営 ⑦自動車用品製造・販売（https://upty.jp/co_overview/・1回目）
+- 事業内容：対象 特長（https://upty.jp/news/20261006/・1回目）
+- 事業内容：(1) 業界専門 総合人材サービス事業（自動車/メカニック） (2) 自動車業界 採用マーケティング事業 (3) 自動車業界 プラットフォーム事業 (4) 自動車用品製造・販売 (5) 自動車整備工場向け DX/SDGs 事業（https://mid-tenshoku.com/agency/a-9364/・3回目）
+- 資本金：3億 8,000万円（関連会社含む）（https://upty.jp/co_overview/・1回目）
+- 資本金：3000 万円（https://mid-tenshoku.com/agency/a-9364/・3回目）
+- 資本金：3億8000万円（https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths・3回目）
+- 創業年度：設立：2009年2月（https://upty.jp/co_overview/・1回目）
+- 創業年度：設立：2009 年 2 月 23 日（https://mid-tenshoku.com/agency/a-9364/・3回目）
+- 創業年度：設立日：2009年2月（https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths・3回目）
+- 従業員数：171名（https://mid-tenshoku.com/agency/a-9364/・3回目）
+- 従業員数：230人 ※2025年4月時点（https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths・3回目）
+- 売上高：1円 ※非公開（https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths・3回目）
+- 所在地：〒150-0022 東京都渋谷区恵比寿南1-5-5　JR恵比寿ビル7F Tel:03-6694-2099（代表）　Fax:03-6774-0180（https://upty.jp/co_overview/・1回目）
+- 所在地：〒150-0022 東京都東京都渋谷区恵比寿南1丁目5-5　JR恵比寿ビル7F（https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths・3回目）
+- 所在地：東京都（https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths・3回目）
+- 代表者：代表取締役社長　／　グループCEO　井田 秀明（https://upty.jp/co_overview/・1回目）
+- 代表者：井田 秀明（https://mid-tenshoku.com/agency/a-9364/・3回目）
+- 代表者：井田　秀明（https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths・3回目）
+- 主要取引先：自動車指定・認証工場（全国のカーディーラー、民間整備工場、中古車販売店、サービスステーション、カー用品店）　3.5万店以上（https://upty.jp/co_overview/・1回目）
+- 売上の柱（何で稼ぐか）：
+  - 「<メディア掲載>TBS系列『Nスタ』で紹介されました」（https://upty.jp/・1回目）
+  - 「<メディア掲載>日本テレビ系列『DayDay.』で紹介されました」（https://upty.jp/・1回目）
+  - 「フリーランス/副業整備士が貴社の整備業務を出張請負」（https://upty.jp/・1回目）
+  - 「<メディア掲載>TBS系列『Nスタ』で紹介されました」（https://upty.jp/news/20240926_workshop/・1回目）
+  - 「<メディア掲載>TBS系列『Nスタ』で紹介されました」（https://upty.jp/news/20240925_workshop/・1回目）
+  - 「①自動車/メカニック専門 総合人材サービス事業（求人サイト、人材紹介、人材派遣）」（https://upty.jp/co_overview/・1回目）
+  - 「④出張整備事業（業務委託・請負・スポット）」（https://upty.jp/co_overview/・1回目）
+  - 「PT.UPTY GLOBAL NETWORK （インドネシア政府認定 職業紹介事業者【P3MI】）」（https://upty.jp/co_overview/・1回目）
+  - 「・有料職業紹介事業許可番号：13-ユ-307933」（https://upty.jp/co_overview/・1回目）
+  - 「・労働者派遣事業許可番号：(派)13-306724」（https://upty.jp/co_overview/・1回目）
+  - 「自動車指定・認証工場（全国のカーディーラー、民間整備工場、中古車販売店、サービスステーション、カー用品店） 3.5万店以上」（https://upty.jp/co_overview/・1回目）
+  - 「正社員への転職だけでなく、派遣、スポットワーク、副業など多様な働き方に対応し、求職者は無料で転職サポートを受けることができます」（https://upty.jp/news/20261006/・1回目）
+- 客は誰か：
+  - 「自動車業界向けに総合人材サービスを提供する株式会社アプティ（本社：東京都渋谷区、代表取締役：井田秀明）は、業界初（※1）50歳以上の自動車整備士に特化した転職支援サービス『カーワクシニア』を、2026年9月8日に開始しました」（https://upty.jp/news/20261006/・1回目）
+  - 「アプティの自動車業界向け転職・求人サービス」（https://upty.jp/news/20261006/・1回目）
+  - 「自動車業に隣り合っている9つの整備業界向け業務委託人材提供サービス」（https://upty.jp/service/u-match/・1回目）
+  - 「導入事例 | アプティアン・ジャパン – 食品・化学業界向けERP」（https://aptean.co.jp/casestudies/・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「未来と顧客を創造し、ステークホルダーの幸せと成長を追求する」（https://upty.jp/・1回目）
+  - 「未来と顧客を創造し、ステークホルダーの幸せと成長を追求する」（https://upty.jp/news/20240926_workshop/・1回目）
+  - 「未来と顧客を創造し、ステークホルダーの幸せと成長を追求する」（https://upty.jp/news/20240925_workshop/・1回目）
+  - 「②外国籍人材サービス事業（採用・教育・管理）」（https://upty.jp/co_overview/・1回目）
+  - 「（外国籍人材採用支援／在留資格申請代行／在留外国籍人材への教育・管理・研修／海外進出支援）」（https://upty.jp/co_overview/・1回目）
+  - 「PT.UPTY GLOBAL INDONESIA (日本語学校）」（https://upty.jp/co_overview/・1回目）
+  - 「自動車指定・認証工場（全国のカーディーラー、民間整備工場、中古車販売店、サービスステーション、カー用品店） 3.5万店以上」（https://upty.jp/co_overview/・1回目）
+  - 「未来と顧客を創造し、ステークホルダーの幸せと成長を追求する」（https://upty.jp/co_overview/・1回目）
+  - 「②全国約3.5万店の整備工場ネットワークを活用」（https://upty.jp/news/20261006/・1回目）
+  - 「当社は、全国の自動車整備工場3.5万店以上との取引があります」（https://upty.jp/news/20261006/・1回目）
+  - 「特に自動車整備業界では、経験や技術が求められる一方で、整備士不足が課題となっており、豊富な経験を持つシニア整備士の活躍は、整備工場にとっても重要な選択肢の一つとなっています」（https://upty.jp/news/20261006/・1回目）
+  - 「こうした背景を踏まえ、当社は即戦力を求める整備工場とシニア整備士をつなぐサービスとして「カーワクシニア」を開始しました」（https://upty.jp/news/20261006/・1回目）
+- 資本金・株主：
+  - 「資本金 3億8,000万円（関連会社含む）」（https://upty.jp/news/20261006/・1回目）
+- 表彰・認定の記録：
+  - 「PT.UPTY GLOBAL NETWORK （インドネシア政府認定 職業紹介事業者【P3MI】）」（https://upty.jp/co_overview/・1回目）
+  - 「インドネシア政府認定 職業紹介事業者（P3MI）」（https://upty-global.com/company/・3回目）
+- 検索結果の抜粋：
+  - 「会社概要 - 株式会社アプティ — 会社概要 - 株式会社アプティ 株式会社アプティ https://upty.jp > co_overview」（https://upty.jp/co_overview/・3回目）
+  - 「株式 会社アプティ - ミドルの転職 — 株式 会社アプティ - ミドルの転職 ミドルの転職 https://mid-tenshoku.com > 掲載企業一覧」（https://mid-tenshoku.com/agency/a-9364/・3回目）
+  - 「株式 会社アプティ の求人・採用情報 - ビズリーチ — 株式 会社アプティ の求人・採用情報 - ビズリーチ ビズリーチ https://www.bizreach.jp > companies」（https://www.bizreach.jp/companies/27305/・3回目）
+  - 「株式 会社アプティ - 東京都・人材紹介業界の企業情報 — 株式 会社アプティ - 東京都・人材紹介業界の企業情報 Baseconnect https://baseconnect.in > companies」（https://baseconnect.in/companies/bc7900fa-724b-4e04-a78d-7609ed7bc4fb・3回目）
+  - 「https:// upty .jp/ 2025年4月15日更新 — https:// upty .jp/ 2025年4月15日更新 株式会社アプティ PDF https://upty.jp > uploads > 2025/04 > companyprofile」（https://upty.jp/wp-content/uploads/2025/04/companyprofile.pdf・3回目）
+  - 「アプティ の将来性・業績・ 売上 に関する評判・口コミ一覧（全 ... — アプティ の将来性・業績・ 売上 に関する評判・口コミ一覧（全 ... 就活会議 https://syukatsu-kaigi.jp > post_items > word_mouths」（https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths・3回目）
+  - 「株式会社 アプティ の企業情報 - バフェット・コード — 株式会社 アプティ の企業情報 - バフェット・コード バフェット・コード https://www.buffett-code.com > company」（https://www.buffett-code.com/company/2t8yurwxwe/・3回目）
+  - 「“決める側”としての視界 社長と 事業 責任者が語る アプティ の未来 — “決める側”としての視界 社長と 事業 責任者が語る アプティ の未来 株式会社アプティ https://recruit.upty.jp > crosstalk > ceo-ryo」（https://recruit.upty.jp/crosstalk/ceo-ryo/・3回目）
+  - 「導入事例 | アプティ アン・ジャパン – 食品・化学業界向けERP — 導入事例 | アプティ アン・ジャパン – 食品・化学業界向けERP アプティアン・ジャパン https://aptean.co.jp > casestudies」（https://aptean.co.jp/casestudies/・3回目）
+  - 「株式会社 アプティ ｜株式会社かんざし KANXASHI Corporation — 株式会社 アプティ ｜株式会社かんざし KANXASHI Corporation 株式会社かんざし https://www.kanxashi.co.jp > case」（https://www.kanxashi.co.jp/case/2325/・3回目）
+  - 「株式会社 アプティ との業務提携のお知らせ — 株式会社 アプティ との業務提携のお知らせ 株式会社 タジマ https://www.tjk.co.jp > info > post-17068」（https://www.tjk.co.jp/info/post-17068/・3回目）
+  - 「株式会社 アプティ の求人・企業情報 - Daijob.com — 株式会社 アプティ の求人・企業情報 - Daijob.com Daijob.com https://www.daijob.com > jobs > company」（https://www.daijob.com/jobs/company/8271・3回目）
+- 株主：記載なし（3回確認済み：公式13頁／PDF・画像0件／外部21頁・検索11回）
 
 ## アルカディアソフト開発
 - 公式URL：https://www.arcadia-soft.co.jp/（given）
@@ -4332,6 +4404,83 @@ NTTエレクトロニクステクノ株式会社
   - 「ANRI 村井 輝さん - 元起業家・現投資家として - SmartRound — ANRI 村井 輝さん - 元起業家・現投資家として - SmartRound smartround https://jp.smartround.com > startup-next > post > anri-murai」（https://jp.smartround.com/startup-next/post/anri-murai・3回目）
   - 「株式会社クロスビット 村井 様の 導入事例 を更新しました！ — 株式会社クロスビット 村井 様の 導入事例 を更新しました！ 株式会社セカツク https://sekatsuku.jp > blog > information」（https://sekatsuku.jp/blog/information/1343/・3回目）
 - 株主：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索11回）
+
+## 東あられ本鋪
+- 公式URL：https://www.toyo-rice.jp/（given）
+- 事業内容：総合食品加工機器製造販売事業、光学電子機器、農業機器の技術開発と製造販売事業及び、プラントエンジニアリング事業 金芽米、金芽ロウカット玄米、BG無洗米の製造・販売・輸出事業 コメの受託加工事業 米加工品事業 炊飯指導事業 米粉事業 発電事業 環境と美味に配慮した稲作の土作り事業、新品種の種籾事業 機能性米による日本のコメ農業の活性化事業（https://www.toyo-rice.jp/about/・1回目）
+- 資本金：100,000,000円（https://www.toyo-rice.jp/about/・1回目）
+- 創業年度：会社設立：昭和36年（1961年）（https://www.toyo-rice.jp/about/・1回目）
+- 従業員数：230人（https://www.toyo-rice.jp/about/・1回目）
+- 所在地：銀座本社 〒104-0061東京都中央区銀座5-10-13 東洋ライスビル TEL 03-3572-7550 GoogleMap（https://www.toyo-rice.jp/about/・1回目）
+- 代表者：代表取締役社長 阪本 哲生（https://www.toyo-rice.jp/about/・1回目）
+- 売上の柱（何で稼ぐか）：
+  - 「総合食品加工機器製造販売事業、光学電子機器、農業機器の技術開発と製造販売事業及び、プラントエンジニアリング事業」（https://www.toyo-rice.jp/about/・1回目）
+  - 「金芽米、金芽ロウカット玄米、BG無洗米の製造・販売・輸出事業」（https://www.toyo-rice.jp/about/・1回目）
+  - 「【学会発表】 気候変動下でも「実際のおいしさ」を店頭で選べる社会へ 炊飯した飯を評価し、一貫した食味品質を実現する製造法を実証」（https://www.toyo-rice.jp/about/history/・1回目）
+  - 「全総合食品加工機器製造販売事業、光学電子機器、」（https://www.toyo-rice.jp/wp/wp-content/uploads/2022/08/company-pdf.pdf・2回目）
+  - 「農業機器の技術開発と製造販売事業及び、プラント」（https://www.toyo-rice.jp/wp/wp-content/uploads/2022/08/company-pdf.pdf・2回目）
+  - 「墨田区・北斎通りに本店を構えるのが、米菓の製造・販売を手がける「株式会社東あられ本鋪」だ」（https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/・3回目）
+  - 「多様な商品ラインナップにより幅広い顧客のニーズに応えるかたわら、同社は顧客に対するきめ細やかな接客・販売を心掛けることで、地域密着の老舗米菓店として、ゆるぎない地位を確立している」（https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/・3回目）
+  - 「「当時は法人のお中元・お歳暮需要が大きく、贈答用の箱物が売上の7～8割を占めていました」と、4代目にあたる小林氏は振り返る」（https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/・3回目）
+  - 「「そのため、『東一福』を小売り用に商品化し、通信販売を中心に個人のお客様への販売を開始したほか、百貨店でも『甑（こしき）』という名称で販売したころ、またたくまに人気となり、当社の看板商品へと成長しました」（https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/・3回目）
+  - 「定番商品として、年間4～5億円の売上を記録するほどの成功を収めたが、約8年で撤退したという」（https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/・3回目）
+  - 「また、当初は自社商品をそのまま販売する形だったものが、次第にオリジナル商品の開発を求められるようになったことも一つの要因です」（https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/・3回目）
+  - 「東あられ本鋪の売上も低迷し、百貨店からの撤退を余儀なくされた」（https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/・3回目）
+- 客は誰か：
+  - 「両国本店の位置する墨田区亀沢が葛飾北斎生誕の地であることから、葛飾北斎の知名度を上げて地域を盛り上げたい、との思いで開発したという同商品は、その特徴的なパッケージから個人向けの手軽なお土産物として人気を博している」（https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/・3回目）
+  - 「社長との距離が近く、意見を言いやすい中小企業はたくさんあります」（https://www.kaisyahakken.metro.tokyo.lg.jp/company/azuma-arare/・3回目）
+  - 「良いと思ったらすぐに実行できるのも中小企業の魅力です」（https://www.kaisyahakken.metro.tokyo.lg.jp/company/azuma-arare/・3回目）
+  - 「～東京両国の老舗米菓メーカーが業績改善に挑む～ | 事例一覧 | 伴走支援プラットフォーム｜中小企業基盤整備機構」（https://bansoushien.smrj.go.jp/case/detail_750/・3回目）
+  - 「早急な経営改善のために、主要取引金融機関、東京信用保証協会、中小企業診断士の三位一体の連携による支援が行われた」（https://bansoushien.smrj.go.jp/case/detail_750/・3回目）
+  - 「代表者と面談し経営改善への強い意向が確認できたため、支援実績の豊富な中小企業診断士を選定し経営改善計画の策定支援を開始した」（https://bansoushien.smrj.go.jp/case/detail_750/・3回目）
+  - 「経営改善計画の策定に当たっては３か月程度の期間を設け、その間に中小企業診断士を計７回派遣」（https://bansoushien.smrj.go.jp/case/detail_750/・3回目）
+  - 「資金繰りが悪化していることを確認したため、主要取引金融機関を通じてコロナ禍での中小企業の救済を目的とする資金繰り制度「ゼロゼロ融資」を実行し、事業継続を後押しした」（https://bansoushien.smrj.go.jp/case/detail_750/・3回目）
+  - 「２ヶ月程度の期間を設け、その間に前回担当した中小企業診断士を計４回派遣」（https://bansoushien.smrj.go.jp/case/detail_750/・3回目）
+  - 「中小企業診断士の派遣時に当協会の職員と主要取引金融機関が毎回同行し、進捗状況を共有しながら支援の方向性について意見交換を実施したことで、代表者・金融機関の双方にとって実現性が高いと判断できる計画を策定することができた」（https://bansoushien.smrj.go.jp/case/detail_750/・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「~ 金芽米を作っている工場の中を覗いてみよう！ ~」（https://www.toyo-rice.jp/・1回目）
+  - 「総合食品加工機器製造販売事業、光学電子機器、農業機器の技術開発と製造販売事業及び、プラントエンジニアリング事業」（https://www.toyo-rice.jp/about/・1回目）
+  - 「BG無洗米、金芽ロウカット玄米、金芽米、金芽米・金芽ロウカット玄米を使った無菌包装米飯、たんぱく質を抑えた金芽ロウカット玄米の無菌包装米飯、金芽米の米粉パンケーキミックス、電子色彩選別機、粉粒体搬送機、電子自動スケール、全自動穀類調質機、自動石抜機、全自動精米機、 防音型自動精米機、自動混米機、全自動計量包装機、コンピューター精米機器制御装置、コンピューターブレンド装置、 大型精米プラント、自動配積み装置、立体倉庫、味度メーター、すぐ炊き自動炊飯器、施設園芸機器ほか」（https://www.toyo-rice.jp/about/・1回目）
+  - 「わが国の近代精米工場の幕開けとなった「トーヨー撰穀機」発表、これを機に株式会社東洋精米機製作所を設立」（https://www.toyo-rice.jp/about/history/・1回目）
+  - 「精米工場をコンピューターで全自動化したFA（ファクトリーオートメーション）－CMCトータルシステムを発表」（https://www.toyo-rice.jp/about/history/・1回目）
+  - 「埼玉県坂戸市に世界最大の無洗米工場「トーヨーライスセンター関東工場」完成」（https://www.toyo-rice.jp/about/history/・1回目）
+  - 「トーヨーライスセンター関東工場に太陽光発電とコージェネレーションシステムを導入」（https://www.toyo-rice.jp/about/history/・1回目）
+  - 「精米工場が儲かるシリーズ第１弾「エコ包装パッカー」、第２弾「新型色彩選別機」を相次ぎ発表」（https://www.toyo-rice.jp/about/history/・1回目）
+  - 「精米工場が儲かるシリーズ第３弾「新型石抜機」、第４弾「新型計量包装機」を相次ぎ発表」（https://www.toyo-rice.jp/about/history/・1回目）
+  - 「グループ会社であるトーヨーライス株式会社を吸収合併して社名を東洋ライス株式会社に変更、お米に関する総合メーカーとして新たなスタート」（https://www.toyo-rice.jp/about/history/・1回目）
+  - 「驚異的な高効率化を達成した次世代の無洗米工場「東洋ライスリンクウ工場」を完成」（https://www.toyo-rice.jp/about/history/・1回目）
+  - 「体験型環境教育推進プログラム「いきものみっけファーム」が文部科学省「青少年の体験活動推進企業表彰 審査委員会奨励賞」受賞」（https://www.toyo-rice.jp/about/history/・1回目）
+- 資本金・株主：
+  - 「株式会社東あられ本鋪（東京都墨田区 製造業 従業員数87名 資本金7,800万円）」（https://bansoushien.smrj.go.jp/case/detail_750/・3回目）
+- 表彰・認定の記録：
+  - 「とがずに炊けるBG無洗米「Ca愛を米」が日経優秀製品・サービス賞 受賞」（https://www.toyo-rice.jp/about/history/・1回目）
+  - 「とがずに炊けるBG無洗米「海・川に愛を米」「びわ湖に愛を米」滋賀県エコライフびわ湖賞 最優秀賞 受賞」（https://www.toyo-rice.jp/about/history/・1回目）
+  - 「BG無洗米が平成13年度民間部門農林水産研究開発功績者表彰事業において、農林水産大臣賞受賞当社雑賀社長が平成13年度安藤百福記念賞 優秀賞を受賞」（https://www.toyo-rice.jp/about/history/・1回目）
+  - 「「瀬戸内海環境保全功労者賞」において環境大臣表彰を受賞」（https://www.toyo-rice.jp/about/history/・1回目）
+  - 「体験型環境教育推進プログラム「いきものみっけファーム」が文部科学省「青少年の体験活動推進企業表彰 審査委員会奨励賞」受賞」（https://www.toyo-rice.jp/about/history/・1回目）
+  - 「「ＢＧ無洗米による米のとぎ汁公害及びCO2排出の削減活動」が評価され「第24回地球環境大賞 環境大臣賞」受賞」（https://www.toyo-rice.jp/about/history/・1回目）
+  - 「「世界最高米」が「最も高額な米」として「ギネス世界記録Ⓡ」に認定」（https://www.toyo-rice.jp/about/history/・1回目）
+  - 「シンガポール政府より金芽ロウカット玄米が健康に良い食品として認定（Healthier Choice Symbol）」（https://www.toyo-rice.jp/about/history/・1回目）
+  - 「日本健康医療学会より「健康医療アワード」を受賞」（https://www.toyo-rice.jp/about/history/・1回目）
+  - 「環境大臣より「エコ・ファースト企業」に認定」（https://www.toyo-rice.jp/about/history/・1回目）
+  - 「金芽ロウカット玄米が「第41回食品ヒット大賞 優秀ヒット賞」受賞」（https://www.toyo-rice.jp/about/history/・1回目）
+  - 「金芽ロウカット玄米が「科学技術分野の文部科学大臣表彰 科学技術賞（技術部門）」受賞」（https://www.toyo-rice.jp/about/history/・1回目）
+- 検索結果の抜粋：
+  - 「株式 会社東あられ本鋪 - 東京商工会議所 — 株式 会社東あられ本鋪 - 東京商工会議所 東京商工会議所 https://www.tokyo-cci.or.jp > case > azumaarare」（https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/・3回目）
+  - 「株式 会社東あられ本鋪 - 東京カイシャハッケン伝 — 株式 会社東あられ本鋪 - 東京カイシャハッケン伝 東京カイシャハッケン伝 https://www.kaisyahakken.metro.tokyo.lg.jp > azuma-arare」（https://www.kaisyahakken.metro.tokyo.lg.jp/company/azuma-arare・3回目）
+  - 「株式 会社東あられ本鋪 - BIZMAPS（ビズマップ） — 株式 会社東あられ本鋪 - BIZMAPS（ビズマップ） BIZMAPS（ビズマップ） https://biz-maps.com > item」（https://biz-maps.com/item/x6YVLbbJlB・3回目）
+  - 「株式会社 東あられ本鋪 - 東京商工会議所 — 株式会社 東あられ本鋪 - 東京商工会議所 東京商工会議所 https://www.tokyo-cci.or.jp > case > azumaarare」（https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/・3回目）
+  - 「株式会社 東あられ本鋪 - BIZMAPS（ビズマップ） — 株式会社 東あられ本鋪 - BIZMAPS（ビズマップ） BIZMAPS（ビズマップ） https://biz-maps.com > item」（https://biz-maps.com/item/x6YVLbbJlB・3回目）
+  - 「株式会社 東あられ本鋪 - 東京都・和菓子業界の企業情報 — 株式会社 東あられ本鋪 - 東京都・和菓子業界の企業情報 Baseconnect https://baseconnect.in > companies」（https://baseconnect.in/companies/5b19435d-752b-45dd-9c98-41b7861e7df6・3回目）
+  - 「株式 会社 東あられ本鋪 - 東京商工会議所 — 株式 会社 東あられ本鋪 - 東京商工会議所 東京商工会議所 https://www.tokyo-cci.or.jp > case > azumaarare」（https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/・3回目）
+  - 「株式 会社 東あられ本鋪 @1910年創業 (@azuma_arare) / X — 株式 会社 東あられ本鋪 @1910年創業 (@azuma_arare) / X X https://x.com > azuma_arare」（https://x.com/azuma_arare・3回目）
+  - 「株式 会社 東あられ本鋪 - 東京カイシャハッケン伝 — 株式 会社 東あられ本鋪 - 東京カイシャハッケン伝 東京カイシャハッケン伝 https://www.kaisyahakken.metro.tokyo.lg.jp > azuma-arare」（https://www.kaisyahakken.metro.tokyo.lg.jp/company/azuma-arare・3回目）
+  - 「株式 会社 東あられ本鋪 （東京都）の会社概要・役員 - Compalyze — 株式 会社 東あられ本鋪 （東京都）の会社概要・役員 - Compalyze Compalyze https://compalyze.co.jp > 企業検索 > 食品・飲料」（https://compalyze.co.jp/company/2010601008323・3回目）
+  - 「株式会社 東あられ本鋪 のプレスリリース - PR TIMES — 株式会社 東あられ本鋪 のプレスリリース - PR TIMES PR TIMES https://prtimes.jp > main > html > searchrlp > company_id」（https://prtimes.jp/main/html/searchrlp/company_id/58780・3回目）
+  - 「Reel by （株） 東あられ本鋪 |明治43年創業あられ・おかき・お ... — Reel by （株） 東あられ本鋪 |明治43年創業あられ・おかき・お ... Instagram https://www.instagram.com > reel」（https://www.instagram.com/reel/C6K-zEFPx8K/・3回目）
+- 売上高：記載なし（3回確認済み：公式8頁／PDF・画像1件／外部23頁・検索11回）
+- 株主：記載なし（3回確認済み：公式8頁／PDF・画像1件／外部23頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式8頁／PDF・画像1件／外部23頁・検索11回）
 
 ## 東京ラヂエーター製造
 - 公式URL：https://www.tokyo-radiator.co.jp/（given）

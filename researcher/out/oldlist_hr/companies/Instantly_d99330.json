@@ -1,0 +1,2352 @@
+{
+ "name": "Instantly",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Sales & Marketing Tech｜状態なし",
+ "researched_at": "2026-11-10T14:33:57.912589+00:00",
+ "official_url": "https://instantly.ai",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Outside funding",
+    "value": "None",
+    "url": "https://getlatka.com/companies/instantly-ai",
+    "pass": 3
+   },
+   {
+    "label": "Total funding",
+    "value": "No funding",
+    "url": "https://prospeo.io/c/instantly-ai-revenue",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$15,000",
+    "url": "https://prospeo.io/c/instantly-ai-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Sheridan, Wyoming, United States",
+    "url": "https://prospeo.io/c/instantly-ai-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Use Instantly AI to find perfect leads, create AI Sales Agents",
+    "url": "https://instantly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Instantly works perfectly with all the products you're already using.",
+    "url": "https://instantly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Handle everyday outbound work through a conversation. Find leads, create campaigns, organize and move leads, reply to prospects, or create agents that run your outbound autonomously.",
+    "url": "https://instantly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"The AI Reply Bot has been the best feature by far. It doesn't just save time - it's the reason clients stick with Instantly long term. Nobody wants to chase leads manually.\"",
+    "url": "https://instantly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Founder, Video Business Mastery",
+    "url": "https://instantly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Instantly has become one of the core pieces of our outbound infrastructure. It allows us to manage campaigns at scale while maintaining strong deliverability and giving our team the visibility we need to continuously improve performance. It's been instrumental in helping us build predictable outbound systems for our clients.\"",
+    "url": "https://instantly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"As a 17-year-old company owner primarily serving clients and their email marketing needs, I have not run into a better end-to-end email system for B-to-B cold outreach and demand generation.\"",
+    "url": "https://instantly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner, Prospectr Digital",
+    "url": "https://instantly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "It took a process that used to be a constant pain and made it dependable enough to build our whole operation on top of. We've never been happier with that side of our business.\"",
+    "url": "https://instantly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Founder, Content Marketing Media",
+    "url": "https://instantly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We run cold email for performance marketing agencies, and Instantly is the platform we build every client on. It scales with us. Instantly.ai is the only sequencer we trust.\"",
+    "url": "https://instantly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"With Instantly I can replicate the production of a large sales team for my clients. The platform keeps getting better, staying on top of trends and deliverability. They really are a huge part of what I do.\"",
+    "url": "https://instantly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“Instantly became the backbone of our outreach — over 100,000 emails sent across 20+ domains with 20%+ reply rates and a steady stream of qualified leads. It’s not just a sending tool, it’s our growth engine.”",
+    "url": "https://instantly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Get started now to access exclusive templates and elevate your projects to the next level.",
+    "url": "https://instantly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Specialized Al agents that help you find leads, run outreach, handle replies and more.",
+    "url": "https://instantly.ai/ai-agents/ai-partnership-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Find, reach and convert leads automatically",
+    "url": "https://instantly.ai/ai-agents/ai-partnership-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Discover high-intent prospects",
+    "url": "https://instantly.ai/ai-agents/ai-partnership-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Combine multiple agents to find leads, run outreach, handle replies and more.",
+    "url": "https://instantly.ai/ai-agents/ai-partnership-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Everything you need to find prospects, launch smarter campaigns and scale conversations that convert.",
+    "url": "https://instantly.ai/ai-agents/ai-partnership-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Lead Generation & Data",
+    "url": "https://instantly.ai/ai-agents/ai-partnership-agent",
+    "pass": 1
+   },
+   {
+    "quote": "generated 21 enterprise opportunities using Instantly.",
+    "url": "https://instantly.ai/ai-agents/ai-partnership-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Let your AI Partnership Agent handle prospecting, lead finding, outreach, and campaign setup while you focus on building",
+    "url": "https://instantly.ai/ai-agents/ai-partnership-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Every message is built around what both sides stand to gain: from referrals and co-marketing to integrations and channel partnerships. It's not a generic sales pitch.",
+    "url": "https://instantly.ai/ai-agents/ai-partnership-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Instantly Partner Program | Partner With Instantly",
+    "url": "https://instantly.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Instead of burning time and $$$ building a full lead-gen offering (hiring SDRs, tech stacks, compliance, campaign delivery), agencies just plug into ours. It’s a profitable add-on with zero overhead.",
+    "url": "https://instantly.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Real programs with real payouts, not a badge and a thank-you.",
+    "url": "https://instantly.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Make content your audience actually trusts, on real briefs, with full editorial freedom. Get paid for it, get perks, and if it's a fit, become a long-term Instantly ambassador.",
+    "url": "https://instantly.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Apply to the Creator program",
+    "url": "https://instantly.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "For partners and providers",
+    "url": "https://instantly.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "For agencies, consultants, and service providers.",
+    "url": "https://instantly.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "For data providers with a proprietary dataset that adds real, new coverage to Lead Finder — not just an API key.",
+    "url": "https://instantly.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "If your data helps us surface companies or contacts we can't find today — not just enrich ones we already have — let's talk. Before reaching out, take a look at what Lead Finder already covers so we can focus on data that's genuinely new. We're prioritizing providers with real new discovery data.",
+    "url": "https://instantly.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Referrals via their content and channels",
+    "url": "https://instantly.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "B2B creators (LinkedIn, YouTube, TikTok, newsletters) who make content",
+    "url": "https://instantly.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Content, on real briefs, with editorial freedom",
+    "url": "https://instantly.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Paid content deals, perks, and an ambassador path",
+    "url": "https://instantly.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Can I be in more than one program?",
+    "url": "https://instantly.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Affiliate pays you on results. Share your link, earn recurring commission for as long as the customer stays. No brief, no deadline, no sign-off on what you post. Creators pays you for the work. We commission content against a real brief, you keep editorial control, and you get paid whether or not that piece converts. It's a smaller, curated group with perks and an ambassador path on top.",
+    "url": "https://instantly.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Short version: Affiliate is performance, Creators is content. Got an audience and want recurring income? Affiliate. Make content for a living and want paid deals? Creators.",
+    "url": "https://instantly.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Pick your program. Let's grow, together.",
+    "url": "https://instantly.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Instantly Solution Partner Program | Agencies & Consultants",
+    "url": "https://instantly.ai/solution-partners",
+    "pass": 1
+   },
+   {
+    "quote": "The program for agencies and consultants who run outbound for their clients. Lifetime commission and rates that climb as you grow.",
+    "url": "https://instantly.ai/solution-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Instead of burning time and $$$ building a full lead-gen offering (hiring SDRs, tech stacks, compliance, campaign delivery), agencies just plug into ours. It’s a profitable add-on with zero overhead.",
+    "url": "https://instantly.ai/solution-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Apply and get approved",
+    "url": "https://instantly.ai/solution-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Tell us about your firm and your client work. We gate for quality, so approval means something.",
+    "url": "https://instantly.ai/solution-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Collect lifetime commission from day one, and move up tiers as your revenue grows to reach higher rates, more leads, and more support.",
+    "url": "https://instantly.ai/solution-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Joint campaigns, webinars, and co-marketing, so partnering with Instantly grows your name too.",
+    "url": "https://instantly.ai/solution-partners",
+    "pass": 1
+   },
+   {
+    "quote": "We keep this program small and strong on purpose. Here's the bar to be accepted:",
+    "url": "https://instantly.ai/solution-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Certified, co-marketing, priority support",
+    "url": "https://instantly.ai/solution-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Commissions are tracked in PartnerStack and paid monthly. You choose PayPal or Stripe when you're approved, and every commission is visible in your partner dashboard as it lands.",
+    "url": "https://instantly.ai/solution-partners",
+    "pass": 1
+   },
+   {
+    "quote": "What's the difference between this and the Affiliate program?",
+    "url": "https://instantly.ai/solution-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Four tiers: Starter at 20%, Growth at 25%, Premier at 30%, Elite at 35%. You move up on trailing 12-month revenue generated through you, counting referred and managed client accounts together. Cross $10k for Growth, $50k for Premier, $100k for Elite. Tiers are reviewed monthly and higher ones carry extra commitments.",
+    "url": "https://instantly.ai/solution-partners",
+    "pass": 1
+   },
+   {
+    "quote": "is the public home of the program. It's where buyers looking for outbound help find a partner and book a call, filtered by language, industry, region, pricing, and client stage. Placement improves with tier: Starter is a standard listing, Growth gets an enhanced profile, Premier is featured, and Elite takes hero placement plus Partner of the Month eligibility.",
+    "url": "https://instantly.ai/solution-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Make content your audience actually trusts, on real briefs, with full editorial freedom. Get paid for it, get perks, and if it's a fit, become a long-term Instantly ambassador.",
+    "url": "https://instantly.ai/solution-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Apply to the Creator program",
+    "url": "https://instantly.ai/solution-partners",
+    "pass": 1
+   },
+   {
+    "quote": "For data providers with a proprietary dataset that adds real, new coverage to Lead Finder — not just an API key.",
+    "url": "https://instantly.ai/solution-partners",
+    "pass": 1
+   },
+   {
+    "quote": "If your data helps us surface companies or contacts we can't find today — not just enrich ones we already have — let's talk. Before reaching out, take a look at what Lead Finder already covers so we can focus on data that's genuinely new. We're prioritizing providers with real new discovery data.",
+    "url": "https://instantly.ai/solution-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Productivity & Collaboration",
+    "url": "https://instantly.ai/marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "Use RB2B website intent data in Instantly to add high-intent leads into campaigns automatically.",
+    "url": "https://instantly.ai/marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "Enrich prospects with BetterContact’s verified email data inside Instantly to improve list quality.",
+    "url": "https://instantly.ai/marketplace",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Used by the world's leading companies",
+    "url": "https://instantly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by the world's leading companies",
+    "url": "https://instantly.ai/ai-agents/ai-partnership-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Used by the world's leading companies",
+    "url": "https://instantly.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Used by the world's leading companies",
+    "url": "https://instantly.ai/solution-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Used by the world's leading companies",
+    "url": "https://instantly.ai/agency",
+    "pass": 1
+   },
+   {
+    "quote": "U.S. Plant-Based CPG Brand [Anonymized]",
+    "url": "https://instantly.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "US-based plant protein brand selling wholesale to juice bars, gyms, yoga studios, chiropractors, naturopaths, and wellness clinics.",
+    "url": "https://instantly.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Buy-side M&A brokerage helping clients acquire blue-collar, brick-and-mortar businesses across the US.",
+    "url": "https://instantly.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "What is a cold email case study?",
+    "url": "https://instantly.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "A cold email case study shows how a business used",
+    "url": "https://instantly.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "What metrics should you look at in a cold email case study?",
+    "url": "https://instantly.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Where can I find real B2B cold email case study examples?",
+    "url": "https://instantly.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Tymely: $1.2M Pipeline ABM Case Study | Instantly",
+    "url": "https://instantly.ai/case-studies/tymely",
+    "pass": 1
+   },
+   {
+    "quote": "This ABM case study shows how Tymely and frontBrick used precise account targeting and cold email to build $1.2M in pipeline from a limited pool of enterprise prospects.",
+    "url": "https://instantly.ai/case-studies/tymely",
+    "pass": 1
+   },
+   {
+    "quote": "This ABM ROI case study demonstrates the commercial impact of concentrating outbound activity on a tightly defined group of enterprise accounts.",
+    "url": "https://instantly.ai/case-studies/tymely",
+    "pass": 1
+   },
+   {
+    "quote": "Instantly pricing for agency operators",
+    "url": "https://instantly.ai/blog/instantly-agency-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by the world's leading companies",
+    "url": "https://instantly.ai/b2b-lead-finder",
+    "pass": 1
+   },
+   {
+    "quote": "Light House Capital Group: B2B Lead Generation Case Study | Instantly",
+    "url": "https://instantly.ai/case-studies/light-house-capital-group",
+    "pass": 1
+   },
+   {
+    "quote": "Buy-side M&A brokerage helping clients acquire blue-collar, brick-and-mortar businesses across the US.",
+    "url": "https://instantly.ai/case-studies/light-house-capital-group",
+    "pass": 1
+   },
+   {
+    "quote": "Light House Capital Group is a buy-side M&A brokerage helping clients acquire blue-collar, brick-and-mortar businesses across the US.",
+    "url": "https://instantly.ai/case-studies/light-house-capital-group",
+    "pass": 1
+   },
+   {
+    "quote": "This B2B lead generation case study shows how Light House Capital Group used targeted",
+    "url": "https://instantly.ai/case-studies/light-house-capital-group",
+    "pass": 1
+   },
+   {
+    "quote": "Light House Capital Group had already successfully helped clients acquire blue-collar businesses but wanted to introduce a new channel for finding off-market opportunities.",
+    "url": "https://instantly.ai/case-studies/light-house-capital-group",
+    "pass": 1
+   },
+   {
+    "quote": "The tragedy caused by long apologies and hints at reconciliation",
+    "url": "https://note.com/aoikaihiki/n/n9449b31792f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This reset self-talk not only prepares your mind for the next task but also significantly reduces the mental fatigue caused by switching between tasks.",
+    "url": "https://note.com/hip_sage1061/n/ne30c8e2e5fe6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "English is a language widely used around the world, and Korean is also used by many people, mainly in Korea.",
+    "url": "https://note.com/lively_orchid897/n/n5f60ca4993be?hl=en",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "\"We run cold email for performance marketing agencies, and Instantly is the platform we build every client on. It scales with us. Instantly.ai is the only sequencer we trust.\"",
+    "url": "https://instantly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Every message is built around what both sides stand to gain: from referrals and co-marketing to integrations and channel partnerships. It's not a generic sales pitch.",
+    "url": "https://instantly.ai/ai-agents/ai-partnership-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Instantly Partner Program | Partner With Instantly",
+    "url": "https://instantly.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Instead of burning time and $$$ building a full lead-gen offering (hiring SDRs, tech stacks, compliance, campaign delivery), agencies just plug into ours. It’s a profitable add-on with zero overhead.",
+    "url": "https://instantly.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "For agencies, consultants, and service providers.",
+    "url": "https://instantly.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Instantly Solution Partner Program | Agencies & Consultants",
+    "url": "https://instantly.ai/solution-partners",
+    "pass": 1
+   },
+   {
+    "quote": "The program for agencies and consultants who run outbound for their clients. Lifetime commission and rates that climb as you grow.",
+    "url": "https://instantly.ai/solution-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Lead-Gen & Demand-Gen Agencies",
+    "url": "https://instantly.ai/solution-partners",
+    "pass": 1
+   },
+   {
+    "quote": "AI & Automation Agencies",
+    "url": "https://instantly.ai/solution-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Instead of burning time and $$$ building a full lead-gen offering (hiring SDRs, tech stacks, compliance, campaign delivery), agencies just plug into ours. It’s a profitable add-on with zero overhead.",
+    "url": "https://instantly.ai/solution-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Apply To Become A Partner",
+    "url": "https://instantly.ai/solution-partners",
+    "pass": 1
+   },
+   {
+    "quote": "See why thousands of agencies, recruiters, and entrepreneurs love Instantly.",
+    "url": "https://instantly.ai/marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "Do you offer an affiliate or referral program for integration partners?",
+    "url": "https://instantly.ai/marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "PartnerStack Integration Partner Program",
+    "url": "https://instantly.ai/marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "Cold Email for Agencies - Scale Client Outreach | Instantly",
+    "url": "https://instantly.ai/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Cold email software for agencies",
+    "url": "https://instantly.ai/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Run cold email for every client from one platform. AI automation, unlimited accounts, and built-in deliverability, made for agencies.",
+    "url": "https://instantly.ai/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Sales automation built for agencies",
+    "url": "https://instantly.ai/agency",
+    "pass": 1
+   },
+   {
+    "quote": "The outbound platform for agencies",
+    "url": "https://instantly.ai/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Instead of burning time and $$$ building a full lead-gen offering (hiring SDRs, tech stacks, compliance, campaign delivery), agencies just plug into ours. It’s a profitable add-on with zero overhead.",
+    "url": "https://instantly.ai/agency",
+    "pass": 1
+   },
+   {
+    "quote": "\"We run cold email for performance marketing agencies, and Instantly is the platform we build every client on. It scales with us. Instantly.ai is the only sequencer we trust.\"",
+    "url": "https://instantly.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Instead of burning time and $$$ building a full lead-gen offering (hiring SDRs, tech stacks, compliance, campaign delivery), agencies just plug into ours. It’s a profitable add-on with zero overhead.",
+    "url": "https://instantly.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Instantly for Agencies: Unlimited Accounts & Billing",
+    "url": "https://instantly.ai/blog/instantly-agency-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Instantly for agencies: unlimited accounts & client billing",
+    "url": "https://instantly.ai/blog/instantly-agency-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Instantly offers unlimited email accounts & warmup on all Outreach plans, keeping base costs flat for agencies. Predictable credits for lead data & AI simplify client billing. Learn about plans like Hypergrowth & Light Speed, plus Lead Finder & CRM add-ons for scalable, profitable outreach.",
+    "url": "https://instantly.ai/blog/instantly-agency-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "TL;DR: Instantly’s Outreach plans include unlimited email accounts and unlimited warmup on every tier, so your base cost stays flat as you add client inboxes. Lead data and AI features use predictable credits, which makes client billing easy. Most agencies run Hypergrowth Outreach at $97 per month or Light Speed at $358 per month, then add a",
+    "url": "https://instantly.ai/blog/instantly-agency-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "anonymous traffic. Most agencies pair Outreach and Lead Finder, then add CRM when reply volume and reporting needs grow.",
+    "url": "https://instantly.ai/blog/instantly-agency-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Takeaways for agencies",
+    "url": "https://instantly.ai/blog/instantly-agency-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Pick a base Outreach tier. Hypergrowth fits most agencies. Light Speed for higher throughput or tougher inboxing.",
+    "url": "https://instantly.ai/blog/instantly-agency-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Get your agencies costs under control",
+    "url": "https://instantly.ai/blog/instantly-agency-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Hypergrowth Outreach at $97 plus Hyper Credits at $197 suits many mid-size agencies. Add Hyper CRM at $97 if you need Calling and SMS and team reporting.",
+    "url": "https://instantly.ai/blog/instantly-agency-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Not always. Light Speed adds SISR for larger sending volumes. For most agencies, Hypergrowth plus hygiene, 30-per-inbox caps, and weekly tests in",
+    "url": "https://instantly.ai/blog/instantly-agency-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Want to target agencies? Search for \"agency\" and we'll show you every agency in our database you can contact.",
+    "url": "https://instantly.ai/b2b-lead-finder",
+    "pass": 1
+   },
+   {
+    "quote": "White Label SEO Agency for Resellers and Agencies | SEOReseller",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Facebook Ads",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Link Building",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "SEO & PPC Reseller Program",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "We staked our results in the SEO industry with unparalleled campaigns for our agency and reseller partners and now also offer PPC and Paid Social options so that we can continue generating amazing results for all of our campaigns.",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our white label SEO packages are designed from the ground up to generate results for all of your client campaigns. We’re ready to help your clients!",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our white label PPC reseller services will help your clients achieve positive ROI by leveraging our weekly optimizations and industry expertise.",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Facebook ads",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Facebook Ads and Instagram Ads have risen in popularity and as a result we built a custom program for our resellers that will get results.",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "White label Tiktok ads",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Do you have clients asking you to run TikTok Ad campaigns? We have you covered with our white label TikTok Ads services that gets results!",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Content is king in this modern age of SEO and our white label content creation services will make sure your clients have the edge in the market.",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "White label link building",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Looking to learn more about our white label services that can help your agency grow and scale faster? Just click below to view our pricing and packages and get in touch with us to start handling your fulfillment to free you up!",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Solutions",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "for Agencies & Freelances",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Local SEO",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "SEOReseller’s white label SEO programs and offerings are designed for optimal results for your clients. Our extensive years of experience in SEO and specifically white label will be sure to elevate the client results you see in your agency so you can be free to focus on growing and scaling.",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label TikTok Ads",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Clients asking for white label TikTok Ads campaigns but unsure what to do next? Our experienced team has a lot of experience and expertise with TikTok Ads and can help get your campaigns better results on one of the fastest growing social platforms.",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our white label Facebook Ads services are second to none in the industry. Our team of white label Facebook Ads experts will make sure your client campaigns are being optimized weekly and within the industry best practices.",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our white label PPC services offer some of the highest quality leads you can get in the paid ads spectrum. Because Google Ads is keyword based our team of experts can help craft the best strategy to achieve a positive ROI for your clients using paid search on Google.",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "“We are so impressed with SEOReseller! Your team really captured the essence of our company and what we do best! The way you executed our campaign exceeded all expectations, especially for an SEO agency – thank goodness there’s finally some good ones out there :)”",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "“With the help of SEOReseller, our team is able to provide better service and higher quality products for clients. They have allowed us to grow our business as it takes care of all aspects of SEO services!”",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "“I hope this email finds its way into your inbox because I wanted to personally thank each member who has helped with our SEO! We’re seeing the results since SEOReseller has been involved and we’re finally making some great progress with our online presence! Thanks to everyone who’s helped us get this way!”",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Optimized For Revenue",
+    "url": "https://instantly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Track campaign performance beyond vanity metrics with Opportunities, Pipeline, Conversions, and Revenue.",
+    "url": "https://instantly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"With Instantly I can replicate the production of a large sales team for my clients. The platform keeps getting better, staying on top of trends and deliverability. They really are a huge part of what I do.\"",
+    "url": "https://instantly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We've tested a lot of sequencers & ultimately Instantly has been the most helpful in generating revenue for our clients. It has all the functionality any advanced cold email initiative needs, while still being super user friendly.\"",
+    "url": "https://instantly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Co-Founder, Kale Acquisition",
+    "url": "https://instantly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your always-on revenue team",
+    "url": "https://instantly.ai/ai-agents/ai-partnership-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Built on $40M+ ARR, bootstrapped. We grow, you grow.",
+    "url": "https://instantly.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver Instantly for your clients and get rewarded twice: earn on your own services, earn referral commission, and get listed in our Experts directory so clients find you.",
+    "url": "https://instantly.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "How do I get listed in the Experts directory?",
+    "url": "https://instantly.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Collect lifetime commission from day one, and move up tiers as your revenue grows to reach higher rates, more leads, and more support.",
+    "url": "https://instantly.ai/solution-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Every partner is listed publicly in the Instantly Experts directory, so clients looking for help find you first.",
+    "url": "https://instantly.ai/solution-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Four tiers: Starter at 20%, Growth at 25%, Premier at 30%, Elite at 35%. You move up on trailing 12-month revenue generated through you, counting referred and managed client accounts together. Cross $10k for Growth, $50k for Premier, $100k for Elite. Tiers are reviewed monthly and higher ones carry extra commitments.",
+    "url": "https://instantly.ai/solution-partners",
+    "pass": 1
+   },
+   {
+    "quote": "What is the Experts directory and how do I get listed?",
+    "url": "https://instantly.ai/solution-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue-share / affiliate eligibility",
+    "url": "https://instantly.ai/marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "Do I need to build an integration before I can be listed on the Marketplace?",
+    "url": "https://instantly.ai/marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. To be listed on the Instantly Marketplace, you must have a",
+    "url": "https://instantly.ai/marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "“We've tested a lot of sequencers & ultimately Instantly has been the most helpful in generating revenue for our clients.",
+    "url": "https://instantly.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Co-Founder, Kale Acquisition",
+    "url": "https://instantly.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Manage Email, Calling, SMS, and LinkedIn actions in one place. Report on opportunities, pipeline, and revenue. Simplify your ops.",
+    "url": "https://instantly.ai/agency",
+    "pass": 1
+   },
+   {
+    "quote": "\"We've tested a lot of sequencers & ultimately Instantly has been the most helpful in generating revenue for our clients. It has all the functionality any advanced cold email initiative needs, while still being super user friendly.\"",
+    "url": "https://instantly.ai/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Co-Founder, Kale Acquisition",
+    "url": "https://instantly.ai/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Washington, D.C.-based real estate agent using outbound email to identify and reach owners of specific property types, including properties not listed on major real estate aggregators.",
+    "url": "https://instantly.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Mergers & Acquisitions",
+    "url": "https://instantly.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "\"With Instantly I can replicate the production of a large sales team for my clients. The platform keeps getting better, staying on top of trends and deliverability. They really are a huge part of what I do.\"",
+    "url": "https://instantly.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "\"We've tested a lot of sequencers & ultimately Instantly has been the most helpful in generating revenue for our clients. It has all the functionality any advanced cold email initiative needs, while still being super user friendly.\"",
+    "url": "https://instantly.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Co-Founder, Kale Acquisition",
+    "url": "https://instantly.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Start with positive reply rates, meetings booked, and leads generated. These tell you more about campaign success than open rates alone. If available, look at conversions and revenue generated to understand the actual business impact.",
+    "url": "https://instantly.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Your always-on revenue team",
+    "url": "https://instantly.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "frontBrick built an account-based outbound program around Tymely’s narrow enterprise ICP, using cold email as the primary acquisition channel alongside additional touchpoints.",
+    "url": "https://instantly.ai/case-studies/tymely",
+    "pass": 1
+   },
+   {
+    "quote": "From technologies to headcount and revenue - target only the people you know will resonate with your message.",
+    "url": "https://instantly.ai/b2b-lead-finder",
+    "pass": 1
+   },
+   {
+    "quote": "“We've tested a lot of sequencers & ultimately Instantly has been the most helpful in generating revenue for our clients.",
+    "url": "https://instantly.ai/b2b-lead-finder",
+    "pass": 1
+   },
+   {
+    "quote": "Co-Founder, Kale Acquisition",
+    "url": "https://instantly.ai/b2b-lead-finder",
+    "pass": 1
+   },
+   {
+    "quote": "Your always-on revenue team",
+    "url": "https://instantly.ai/solutions-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Mergers & Acquisitions",
+    "url": "https://instantly.ai/case-studies/light-house-capital-group",
+    "pass": 1
+   },
+   {
+    "quote": "To expand its approach to off-market deal sourcing, the company worked with Accelerate B2B to build a new outbound channel for identifying and reaching potential acquisition targets.",
+    "url": "https://instantly.ai/case-studies/light-house-capital-group",
+    "pass": 1
+   },
+   {
+    "quote": "The challenge was building a scalable system capable of identifying relevant businesses across the US and reaching their owners directly. This required the right email infrastructure, qualified prospect data, and messaging to turn cold outreach into potential acquisition opportunities.",
+    "url": "https://instantly.ai/case-studies/light-house-capital-group",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate B2B built a cold email system to help Light House Capital Group identify and reach potential off-market acquisition targets.",
+    "url": "https://instantly.ai/case-studies/light-house-capital-group",
+    "pass": 1
+   },
+   {
+    "quote": "The combination of large-scale business data and targeted messaging allowed the team to systematically reach potential acquisition targets across the US.",
+    "url": "https://instantly.ai/case-studies/light-house-capital-group",
+    "pass": 1
+   },
+   {
+    "quote": "Reach business owners with targeted acquisition outreach.",
+    "url": "https://instantly.ai/case-studies/light-house-capital-group",
+    "pass": 1
+   },
+   {
+    "quote": "Light House Capital Group’s B2B lead generation strategy turned cold email into a new channel for sourcing off-market acquisition opportunities.",
+    "url": "https://instantly.ai/case-studies/light-house-capital-group",
+    "pass": 1
+   },
+   {
+    "quote": "He first arrived in Japan in the late 1940s as a decoding technician with the U.S. Army Security Agency during the Allied Occupation, where he edited a unit newspaper and began his long engagement with the country.",
+    "url": "https://grokipedia.com/page/survival_japanese_how_to_communicate_without_fuss_or_fear_instantly_japanese_phrasebook_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "This edition forms part of Tuttle's long-standing line of practical language guides for travelers and learners.",
+    "url": "https://grokipedia.com/page/survival_japanese_how_to_communicate_without_fuss_or_fear_instantly_japanese_phrasebook_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "forms part of Tuttle Publishing's bestselling Survival Phrasebooks series, which features compact guides tailored for rapid, practical language use in various languages, including",
+    "url": "https://grokipedia.com/page/survival_japanese_how_to_communicate_without_fuss_or_fear_instantly_japanese_phrasebook_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Users often praise its practicality for travelers, particularly the pocket-sized format that makes it easy to carry during trips to Japan, along with clear pronunciation guides, example sentences, and phonetic aids that support basic communication.",
+    "url": "https://grokipedia.com/page/survival_japanese_how_to_communicate_without_fuss_or_fear_instantly_japanese_phrasebook_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "regarded as a cardcarrying member of the information age.",
+    "url": "https://dictionary.cambridge.org/dictionary/english-japanese/instantly",
+    "pass": 3
+   },
+   {
+    "quote": "Click on the arrows to change the translation direction.",
+    "url": "https://dictionary.cambridge.org/dictionary/english-japanese/instantly",
+    "pass": 3
+   },
+   {
+    "quote": "Our link acquisition team leverages our relationships with publishers to earn high DR backlinks while creating content customers love.",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "How we grew a partner agency with $1.2M/yr worth of New Recurring SEO Revenue",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "With the right business model and our experts working as their backend support, the agency was able to transition from being a business consultancy to a full-service digital provider, achieving record-breaking revenue and profitability. Find out how we provided them with the arsenal to grow their business.",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "The perks of hiring a professional SEO firm are abundant. One, it’ll help you reach a wider audience via numerous SEO marketing strategies. Two, you’ll be able to establish and retain a long-term relationship with your customers for higher revenue. Three, the optimization is trackable, meaning the firm will make changes in response to major search engine updates.",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Instantly AI Revenue 2024: $20M (Bootstrapped)",
+    "url": "https://getlatka.com/companies/instantly-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Instantly AI's annual revenue was $20M in March 2024, the most recent reported figure.",
+    "url": "https://getlatka.com/companies/instantly-ai",
+    "pass": 3
+   },
+   {
+    "quote": ", level with 11 others. The list ranks the 1,301 companies Nathan Latka has interviewed by revenue.",
+    "url": "https://getlatka.com/companies/instantly-ai",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/instantly-ai",
+    "pass": 3
+   },
+   {
+    "quote": "How Instantly AI Reached $2.4M ARR and 2,900 Customers in Under Nine Months (Interview with CEO Raul Kaevand)",
+    "url": "https://getlatka.com/companies/instantly-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Instantly AI CEO, founders & employees",
+    "url": "https://getlatka.com/companies/instantly-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Nils Schneider founded Instantly AI in 2021 with Raul Kaevand and runs it as CEO. Instantly AI has 200 employees (2026, LinkedIn estimate).",
+    "url": "https://getlatka.com/companies/instantly-ai",
+    "pass": 3
+   },
+   {
+    "quote": "What is Instantly AI's revenue?",
+    "url": "https://getlatka.com/companies/instantly-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Instantly AI's annual revenue was",
+    "url": "https://getlatka.com/companies/instantly-ai",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Instantly AI have?",
+    "url": "https://getlatka.com/companies/instantly-ai",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "\"As a 17-year-old company owner primarily serving clients and their email marketing needs, I have not run into a better end-to-end email system for B-to-B cold outreach and demand generation.\"",
+    "url": "https://instantly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"In cold email, deliverability is the number one thing.. if you don't have that, you have nothing. I wouldn't trust anyone else but Instantly to deliver the essentials. Reliable accounts, consistent warmup, and inbox placement we can count on.",
+    "url": "https://instantly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Instantly centralizes all of our cold emailing so we can focus on generating thousands of opportunities per year for our clients.\"",
+    "url": "https://instantly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Founder, Email Outreach Company",
+    "url": "https://instantly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We run cold email for performance marketing agencies, and Instantly is the platform we build every client on. It scales with us. Instantly.ai is the only sequencer we trust.\"",
+    "url": "https://instantly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We've tested a lot of sequencers & ultimately Instantly has been the most helpful in generating revenue for our clients. It has all the functionality any advanced cold email initiative needs, while still being super user friendly.\"",
+    "url": "https://instantly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“Instantly became the backbone of our outreach — over 100,000 emails sent across 20+ domains with 20%+ reply rates and a steady stream of qualified leads. It’s not just a sending tool, it’s our growth engine.”",
+    "url": "https://instantly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Instantly nails what most email tools get wrong - it's actually intuitive to set up and use. The integrations work seamlessly, and the UX doesn't make you want to pull your hair out.\"",
+    "url": "https://instantly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Keep your emails in the inbox",
+    "url": "https://instantly.ai/ai-agents/ai-partnership-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Read The Cold Email Bench Report 2026",
+    "url": "https://instantly.ai/ai-agents/ai-partnership-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Best Cold Email Software",
+    "url": "https://instantly.ai/ai-agents/ai-partnership-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Lead-gen, outbound, or demand-gen agency running cold email for multiple clients",
+    "url": "https://instantly.ai/solution-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Email infrastructure or deliverability specialist",
+    "url": "https://instantly.ai/solution-partners",
+    "pass": 1
+   },
+   {
+    "quote": "A registered business, business email, live website, and active LinkedIn",
+    "url": "https://instantly.ai/solution-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Enrich prospects with BetterContact’s verified email data inside Instantly to improve list quality.",
+    "url": "https://instantly.ai/marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "Find and insert verified emails from Findymail directly into Instantly for outbound campaigns.",
+    "url": "https://instantly.ai/marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "Even if your integration is already complete, it’s important to follow this process to ensure your listing is reviewed and published accurately. After completing the Get Started form and required steps, you’ll receive an email with instructions to submit your application.",
+    "url": "https://instantly.ai/marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "5000 emails monthly, 1000 uploaded contacts",
+    "url": "https://instantly.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimited Email Accounts",
+    "url": "https://instantly.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimited Email Warmup",
+    "url": "https://instantly.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "5000 Emails Monthly",
+    "url": "https://instantly.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Waterfall Work Email Enrichment with 5+ providers",
+    "url": "https://instantly.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Access to AI Email Writer Agent",
+    "url": "https://instantly.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "100,000 emails monthly, 25,000 uploaded contacts",
+    "url": "https://instantly.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "500,000 emails monthly, 100,000 uploaded contacts",
+    "url": "https://instantly.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "500 000 Emails Monthly",
+    "url": "https://instantly.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "125 000 Emails Monthly",
+    "url": "https://instantly.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "500 000+ Emails Monthly",
+    "url": "https://instantly.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimited email accounts",
+    "url": "https://instantly.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimited email warmup",
+    "url": "https://instantly.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Email automation features",
+    "url": "https://instantly.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Email & account analytics",
+    "url": "https://instantly.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "It has all the functionality any advanced cold email initiative needs, while still being super user friendly & intuitive.",
+    "url": "https://instantly.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "With co-pilot enabling detailed analysis as well, At this point I truly believe it's the best all around sequencer for cold email which is why it's the platform we use for our clients. “",
+    "url": "https://instantly.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "“Instantly became the backbone of our outreach — over 100,000 emails sent across 20+ domains with 20%+ reply rates and a steady stream of qualified leads. It’s not just a sending tool, it’s our growth engine.”",
+    "url": "https://instantly.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "\"Instantly nails what most email tools get wrong - it's actually intuitive to set up and use. The integrations work seamlessly, and the UX doesn't make you want to pull your hair out.\"",
+    "url": "https://instantly.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "I’ve never done email outreach before, will this work for me?",
+    "url": "https://instantly.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "What if I need to have more than 25,000 leads or send more than 100,000 emails?",
+    "url": "https://instantly.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "You can upgrade your account to send as many emails as you need :).",
+    "url": "https://instantly.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Do you also provide leads I can send emails to?",
+    "url": "https://instantly.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Cold Email for Agencies - Scale Client Outreach | Instantly",
+    "url": "https://instantly.ai/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Cold email software for agencies",
+    "url": "https://instantly.ai/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Run cold email for every client from one platform. AI automation, unlimited accounts, and built-in deliverability, made for agencies.",
+    "url": "https://instantly.ai/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Built to Scale Your Agency's Cold Email Outreach",
+    "url": "https://instantly.ai/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimited email accounts on a flat fee, so adding client inboxes doesn't shrink your margin.",
+    "url": "https://instantly.ai/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Done-for-you setup of unlimited email accounts",
+    "url": "https://instantly.ai/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Onboard new clients and deliver results in the same week with deliverability-optimized email accounts set up for you.",
+    "url": "https://instantly.ai/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Learn About DFY Email Setup",
+    "url": "https://instantly.ai/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Scale campaigns with AI warmup, inbox rotation, email verification, spintax, subsequences, and signals on 450M+ B2B contacts",
+    "url": "https://instantly.ai/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Manage Email, Calling, SMS, and LinkedIn actions in one place. Report on opportunities, pipeline, and revenue. Simplify your ops.",
+    "url": "https://instantly.ai/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Track reply rate and meetings booked per client against Instantly's 2026 Cold Email Benchmark Report (platform average reply rate 3.43 percent, top quartile 5.5 percent plus).",
+    "url": "https://instantly.ai/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Connect your client's domain and set up email accounts, unlimited, on one flat fee.",
+    "url": "https://instantly.ai/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Track reply rate and meetings booked per client, benchmarked against Instantly's 2026 Cold Email Benchmark Report.",
+    "url": "https://instantly.ai/agency",
+    "pass": 1
+   },
+   {
+    "quote": "\"We've tested a lot of sequencers & ultimately Instantly has been the most helpful in generating revenue for our clients. It has all the functionality any advanced cold email initiative needs, while still being super user friendly.\"",
+    "url": "https://instantly.ai/agency",
+    "pass": 1
+   },
+   {
+    "quote": "\"Instantly is the exact email outreach solution / always wished existed. None of the others even comes close to the combination of features and ease of use.\"",
+    "url": "https://instantly.ai/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Email Marketing Average: 8.7",
+    "url": "https://instantly.ai/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Email Marketing Average: 8.5",
+    "url": "https://instantly.ai/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Email Marketing Average: 8.4",
+    "url": "https://instantly.ai/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Cold Email Case Studies & Customer Success Stories | Instantly",
+    "url": "https://instantly.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Cold Email Case Studies: Results From Instantly Customers",
+    "url": "https://instantly.ai/case-studies",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "© 2026 AI PICKS（エーアイピックス）／株式会社エーアイピックス",
+    "url": "https://aipicks.jp/mag/instantly-ai-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Instantly インスタントリーとは 新規開拓の営業メール送信のAI｜使い方・料金・日本語対応",
+    "url": "https://eeai.tv/tools/instantly",
+    "pass": 3
+   },
+   {
+    "quote": "Instantlyの日本語対応は確認できていません",
+    "url": "https://eeai.tv/tools/instantly",
+    "pass": 3
+   },
+   {
+    "quote": "もしあなたが大量のアウトバウンドキャンペーンを日常的に行う営業チームや代理店であれば、仕事をこなすために必要な機能が備わっています",
+    "url": "https://www.eesel.ai/ja/blog/instantly",
+    "pass": 3
+   },
+   {
+    "quote": "Survival Japanese: How to Communicate without Fuss or Fear Instantly! (Japanese Phrasebook) (book) — Grokipedia",
+    "url": "https://grokipedia.com/page/survival_japanese_how_to_communicate_without_fuss_or_fear_instantly_japanese_phrasebook_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Survival Japanese: How to Communicate without Fuss or Fear Instantly! (Japanese Phrasebook) is a compact phrasebook and introductory guide to the Japanese language, designed specifically for travelers and others seeking to acquire functional communication skills quickly without formal classes.",
+    "url": "https://grokipedia.com/page/survival_japanese_how_to_communicate_without_fuss_or_fear_instantly_japanese_phrasebook_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Authored by Boyé Lafayette De Mente, the book compiles hundreds of essential words and expressions for everyday situations in Japan, presenting them in Romanized form, phonetic spellings, and Japanese script (hiragana, katakana, and kanji) to support immediate use.",
+    "url": "https://grokipedia.com/page/survival_japanese_how_to_communicate_without_fuss_or_fear_instantly_japanese_phrasebook_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Practical sections cover everyday situations and daily communication needs for travelers in Japan, with humorous illustrations demonstrating contextual application.",
+    "url": "https://grokipedia.com/page/survival_japanese_how_to_communicate_without_fuss_or_fear_instantly_japanese_phrasebook_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Boyé Lafayette De Mente, who engaged with Japan since the late 1940s through U.S. intelligence work, study at Jochi University in Tokyo, trade journalism, and authorship of over seventy books on Japanese culture and language, crafted the guide to enable effective interaction with minimal prior knowledge.",
+    "url": "https://grokipedia.com/page/survival_japanese_how_to_communicate_without_fuss_or_fear_instantly_japanese_phrasebook_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Boyé Lafayette De Mente (November 12, 1928 – May 12, 2017) was an American author, journalist, and expert on Japanese and East Asian cultures who produced numerous practical guides to language and communication in the region.",
+    "url": "https://grokipedia.com/page/survival_japanese_how_to_communicate_without_fuss_or_fear_instantly_japanese_phrasebook_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "He first arrived in Japan in the late 1940s as a decoding technician with the U.S. Army Security Agency during the Allied Occupation, where he edited a unit newspaper and began his long engagement with the country.",
+    "url": "https://grokipedia.com/page/survival_japanese_how_to_communicate_without_fuss_or_fear_instantly_japanese_phrasebook_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "De Mente remained deeply involved with Japan for decades through roles as a student, trade journalist, magazine editor, and prolific author based in Tokyo.",
+    "url": "https://grokipedia.com/page/survival_japanese_how_to_communicate_without_fuss_or_fear_instantly_japanese_phrasebook_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "He earned a degree in Japanese and economics from Jochi University (now Sophia University) in Tokyo by attending classes at night while working, and he also graduated from The American Institute for Foreign Trade (now Thunderbird School of Global Management).",
+    "url": "https://grokipedia.com/page/survival_japanese_how_to_communicate_without_fuss_or_fear_instantly_japanese_phrasebook_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "These educational credentials, combined with his extended immersion in Japan since the late 1940s and subsequent experiences in Korea and China, equipped him with firsthand expertise in Asian languages and intercultural communication.",
+    "url": "https://grokipedia.com/page/survival_japanese_how_to_communicate_without_fuss_or_fear_instantly_japanese_phrasebook_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "De Mente authored over 70 books focused on Japanese language, culture, business practices, and etiquette, many of which served as accessible resources for Western readers seeking to navigate practical interactions in Japan.",
+    "url": "https://grokipedia.com/page/survival_japanese_how_to_communicate_without_fuss_or_fear_instantly_japanese_phrasebook_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Survival Japanese: How to Communicate without Fuss or Fear Instantly! (Japanese Phrasebook)",
+    "url": "https://grokipedia.com/page/survival_japanese_how_to_communicate_without_fuss_or_fear_instantly_japanese_phrasebook_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "stands out through its subtitle \"How to Communicate without Fuss or Fear Instantly!,\" reinforcing the series-wide focus on quick, low-stress mastery of Japanese for everyday interactions.",
+    "url": "https://grokipedia.com/page/survival_japanese_how_to_communicate_without_fuss_or_fear_instantly_japanese_phrasebook_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Survival Japanese: How to Communicate without Fuss or Fear Instantly! (Japanese Phrasebook) is a compact phrasebook and introductory language guide designed to help users achieve functional communication in Japanese quickly and confidently without the need for extensive formal classes.",
+    "url": "https://grokipedia.com/page/survival_japanese_how_to_communicate_without_fuss_or_fear_instantly_japanese_phrasebook_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "It targets busy travelers, students, and business professionals who require practical phrases and vocabulary for everyday situations in Japan, emphasizing ease of use and the elimination of fear or hesitation in speaking.",
+    "url": "https://grokipedia.com/page/survival_japanese_how_to_communicate_without_fuss_or_fear_instantly_japanese_phrasebook_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "The book's approach allows individuals with limited time to learn essential Japanese on the go, focusing on immediate applicability in real-world settings such as travel, dining, directions, and basic interactions.",
+    "url": "https://grokipedia.com/page/survival_japanese_how_to_communicate_without_fuss_or_fear_instantly_japanese_phrasebook_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Unlike conventional phrasebooks that provide only memorized expressions or dictionaries that offer word-for-word translations, this resource combines essential vocabulary with beginner-level instruction on pronunciation, grammar fundamentals, and language structure to deliver a deeper understanding of Japanese.",
+    "url": "https://grokipedia.com/page/survival_japanese_how_to_communicate_without_fuss_or_fear_instantly_japanese_phrasebook_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "The result is a practical tool that enables users to speak Japanese without fuss or fear, tailored for those who need quick, effective results in diverse contexts.",
+    "url": "https://grokipedia.com/page/survival_japanese_how_to_communicate_without_fuss_or_fear_instantly_japanese_phrasebook_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "The book is organized into two primary sections: Common Japanese Expressions and Key Words, and Japanese Pronunciation Guides for Key Japanese Names and Signs.",
+    "url": "https://grokipedia.com/page/survival_japanese_how_to_communicate_without_fuss_or_fear_instantly_japanese_phrasebook_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Additional components include a concise history and background of the Japanese language, a pronunciation guide, a basic grammar overview covering elements such as word order, question formation, singular versus plural forms, and formal versus informal speech, and a short dictionary.",
+    "url": "https://grokipedia.com/page/survival_japanese_how_to_communicate_without_fuss_or_fear_instantly_japanese_phrasebook_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Throughout the book, Japanese words and phrases are presented in Romanized form, accompanied by phonetic spellings for pronunciation and authentic Japanese script (including Kanji and Kana) to facilitate both learning and practical use when showing the text to native speakers.",
+    "url": "https://grokipedia.com/page/survival_japanese_how_to_communicate_without_fuss_or_fear_instantly_japanese_phrasebook_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Survival Japanese employs a distinctive triple presentation format for every word and phrase, displaying each entry in Romanized (romaji) form, phonetic spelling to guide pronunciation (for example, \"hoteru\" for hotel rendered as \"hoe-tay-rue\"), and authentic Japanese script incorporating Kanji and Kana.",
+    "url": "https://grokipedia.com/page/survival_japanese_how_to_communicate_without_fuss_or_fear_instantly_japanese_phrasebook_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "This approach enables users to attempt spoken communication while providing a reliable fallback, as the Japanese script can be shown directly to native speakers when pronunciation difficulties arise.",
+    "url": "https://grokipedia.com/page/survival_japanese_how_to_communicate_without_fuss_or_fear_instantly_japanese_phrasebook_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "The phrasebook contains hundreds of practical expressions centered on real-world survival needs for travelers in Japan, emphasizing functional vocabulary for everyday interactions.",
+    "url": "https://grokipedia.com/page/survival_japanese_how_to_communicate_without_fuss_or_fear_instantly_japanese_phrasebook_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "The book features an introductory section that provides essential guidelines on Japanese pronunciation and grammar, accompanied by a concise background and history of the Japanese language to contextualize its linguistic features for travelers and beginners.",
+    "url": "https://grokipedia.com/page/survival_japanese_how_to_communicate_without_fuss_or_fear_instantly_japanese_phrasebook_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "INSTANTLY in Japanese - Cambridge Dictionary",
+    "url": "https://dictionary.cambridge.org/dictionary/english-japanese/instantly",
+    "pass": 3
+   },
+   {
+    "quote": "– English–Japanese dictionary",
+    "url": "https://dictionary.cambridge.org/dictionary/english-japanese/instantly",
+    "pass": 3
+   },
+   {
+    "quote": "GLOBAL English–Japanese",
+    "url": "https://dictionary.cambridge.org/dictionary/english-japanese/instantly",
+    "pass": 3
+   },
+   {
+    "quote": "In the past, if you wanted to translate a text written in Japanese into a foreign language, you had to use translation software, look things up in a dictionary, or in some cases, hire a professional. Especially with long articles or technical content, simply replacing words did not convey the meaning correctly, and it required a significant amount of time and effort.",
+    "url": "https://note.com/lively_orchid897/n/n5f60ca4993be?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, today, thanks to advancements in AI translation and automatic translation technology, articles written in Japanese are being converted into various languages, such as English and Korean, in a short amount of time.",
+    "url": "https://note.com/lively_orchid897/n/n5f60ca4993be?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is not just a story about translation becoming more convenient. It is a major change where the reach of information shared by individuals has changed significantly, and articles that were previously limited to those who could understand Japanese now have the potential to reach overseas readers.",
+    "url": "https://note.com/lively_orchid897/n/n5f60ca4993be?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. The major change of articles written in Japanese turning into foreign languages",
+    "url": "https://note.com/lively_orchid897/n/n5f60ca4993be?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Until now, when an individual wrote an article on the internet, the people who could understand that information were basically limited to those who could read Japanese.",
+    "url": "https://note.com/lively_orchid897/n/n5f60ca4993be?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As a result, even if the text was written in Japanese, people overseas can now understand the content in a form close to their native language.",
+    "url": "https://note.com/lively_orchid897/n/n5f60ca4993be?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Therefore, Japanese-specific phrasing, ambiguous expressions, metaphors, and emotionally charged text often resulted in unnatural foreign language translations.",
+    "url": "https://note.com/lively_orchid897/n/n5f60ca4993be?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For example, even for long articles written in Japanese, it is now possible to convert them into English or Korean while being conscious of the connection of the content.",
+    "url": "https://note.com/lively_orchid897/n/n5f60ca4993be?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "By being translated into these two languages, the possibility that articles written in Japanese will be understood not only domestically but also by overseas readers expands.",
+    "url": "https://note.com/lively_orchid897/n/n5f60ca4993be?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Things that are taken for granted in Japan may feel fresh to people overseas.",
+    "url": "https://note.com/lively_orchid897/n/n5f60ca4993be?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Conversely, by reading the article, overseas readers may gain new perspectives on ways of thinking and cultural differences that are not well known in Japan.",
+    "url": "https://note.com/lively_orchid897/n/n5f60ca4993be?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese has expressions that omit the subject and phrasing that changes meaning depending on the relationship with the other party. Such text can sometimes have a different meaning than originally intended during translation.",
+    "url": "https://note.com/lively_orchid897/n/n5f60ca4993be?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, now, a method where you write your thoughts in Japanese and AI or automatic translation technology converts them into another language has become realistic.",
+    "url": "https://note.com/lively_orchid897/n/n5f60ca4993be?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Just by writing your experiences, thoughts, and what you feel daily in Japanese, there is a possibility that someone somewhere in the world will understand the content.",
+    "url": "https://note.com/lively_orchid897/n/n5f60ca4993be?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Also, considering the possibility that overseas readers will read it, it is also effective to add simple explanations about systems, culture, and events unique to Japan.",
+    "url": "https://note.com/lively_orchid897/n/n5f60ca4993be?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Instantlyの使い方と料金｜月37ドルから始める営業メール自動化 (2026... — Apr 6, 2026 · Instantlyは月37.60ドルから送信アドレスを無制限に追加できるコールドメール配信ツールです。 ドメイン分散送信と自動ウォームアップで到達率95%以上を維持します。 基本プランの制限やリード獲得費用、初期設定の手順まで解説します。",
+    "url": "https://aipicks.jp/mag/instantly-ai-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Instantly | 日本最大級のAIまとめ〜ええAI.TV — Instantlyには送信用アドレスを温める「ウォームアップ」の機能があり、利用者の声では1万7千を超える送信用メールアドレスを複数の顧客アカウントにまたがって管理している例や、数十の同時進行キャンペーンを回している例が挙げられています。",
+    "url": "https://eeai.tv/tools/instantly",
+    "pass": 3
+   },
+   {
+    "quote": "Instantlyとは？2026年版機能と料金の完全概要 | eesel AI — Oct 8, 2025 · Instantlyのコア機能 Instantlyは、Outreach、Lead Finder、CRMの3つの主要製品に分かれています。 これらは個別に購入することも、まとめて購入することもできますが、それぞれが販売プロセスの異なる部分を担当します。 それぞれを詳しく見ていきましょう。",
+    "url": "https://www.eesel.ai/ja/blog/instantly",
+    "pass": 3
+   },
+   {
+    "quote": "Google Translate — Google's service, offered free of charge, instantly translates words, phrases, and web pages between English and over 100 other languages.",
+    "url": "https://translate.google.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Survival Japanese: How to Communicate without Fuss or Fear Instantly! (Japanese Phrasebook) (book) — Survival Japanese: How to Communicate without Fuss or Fear Instantly! (Japanese Phrasebook) is a compact phrasebook and introductory guide to the Japanese language, designed specifically for travelers and others seeking to acquire functional communi…",
+    "url": "https://grokipedia.com/page/survival_japanese_how_to_communicate_without_fuss_or_fear_instantly_japanese_phrasebook_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "INSTANTLY in Japanese - Cambridge Dictionary — INSTANTLY translate: 即座（そくざ）に. Learn more in the Cambridge English-Japanese Dictionary.",
+    "url": "https://dictionary.cambridge.org/dictionary/english-japanese/instantly",
+    "pass": 3
+   },
+   {
+    "quote": "Instantly.ai – Estimated Net Worth, Growth & Competitor Overvi… — Revenue, valuation, and funding figures for Instantly.ai are estimates based on publicly available information, industry analysis, regulatory filings, company-provided profile updates, and proprietary data aggregation methods.",
+    "url": "https://compworth.com/company/instantlyai",
+    "pass": 3
+   },
+   {
+    "quote": "Instantly AI Revenue 2024: $20M (Bootstrapped) - LATKA — Oct 13, 2026 · Instantly AI is a bootstrapped software-as-a-service company that provides cold email outreach automation at scale, allowing users to send from multiple email accounts without per-account fees.",
+    "url": "https://getlatka.com/companies/instantly-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Instantly - 2025 Company Profile, Team, Funding & Competitors ...Instantly.ai Revenue, Funding & ValuationInstantly - Crunchbase Company Profile & FundingInstantly 2026 Company Profile: Valuation, Investors ...Instantly - 2026 Company Profile, Team & Competitors - Tracxn — Jul 21, 2025 · Instantly is an acquired company based in Los Angeles (United States), founded in 2008 by Matt Dusig. It operat",
+    "url": "https://tracxn.com/d/companies/instantly/__95OwvMUfhcfJbjpjZS4KlKWydw5wLal7y7JiKIMeffo",
+    "pass": 3
+   },
+   {
+    "quote": "Instantly.ai Revenue, Funding & Valuation — Instantly.ai has revenue of $2,500,000, estimated valuation of $8,000,000. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/instantly-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Instantly - Crunchbase Company Profile & FundingInstantly 2026 Company Profile: Valuation, Investors ...Instantly - 2026 Company Profile, Team & Competitors - Tracxn — Instantly helps people to scale their outreach campaigns through unlimited email accounts, warmup, and smart AI. Information on acquisition, funding, investors, and executives for Instantly. Use the PitchBook Platform to explore the",
+    "url": "https://www.crunchbase.com/organization/instantly-9887",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Reconciling with an Avoidant Ex is Easy! Solve It Instantly ... If there is something you want to ask, disclose the full scope of the purpose in the first sentence. Transparency that lets them see at a glance 'what this contact is about' is the miracle drug that instantly dissolves their wariness.",
+    "url": "https://note.com/aoikaihiki/n/n9449b31792f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Instantly Calm Work Chaos] The Magical 3-Second Self-Talk ... The Final Phrase to Instantly Decide 'Which Task is Top Priority' in an Emergency When chaos arises from an unexpected emergency, long-winded self-talk is unnecessary.",
+    "url": "https://note.com/hip_sage1061/n/ne30c8e2e5fe6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "My articles are instantly converted into English and Korean. 2. Why are they instantly converted into English and Korean? Behind this is the rapid progress of AI technology and translation systems. Previous machine translation mainly used a method of replacing words and grammar, and it was not good at accurately understanding the meaning of the entire text or the context before and after.",
+    "url": "https://note.com/lively_orchid897/n/n5f60ca4993be?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Instantly jump to the edge of your data | Excel's Ctrl+Arrow ... When a table gets long, it takes time to scroll to the target row. Are you dragging with your mouse repeatedly or hitting PageDown over and over?Excel has shortcuts that let you jump to the edge of your data in an instant. Today, I will organize how to use the Ctrl+Arrow key and Ctrl+Shift+Arrow",
+    "url": "https://note.com/tasty_bison1529/n/n4efd1f45a294?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Reconciling with an Avoidant Ex is Easy! Solve It Instantly by Avoiding These 5 LINE Traps｜あおい@回避型恋愛カウンセラー",
+    "url": "https://note.com/aoikaihiki/n/n9449b31792f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Reconciling with an Avoidant Ex is Easy! Solve It Instantly by Avoiding These 5 LINE Traps",
+    "url": "https://note.com/aoikaihiki/n/n9449b31792f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Only those who have experienced it know the suffocating tension of the moment you finally grip your smartphone after enduring months of no contact.",
+    "url": "https://note.com/aoikaihiki/n/n9449b31792f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "“Is just saying ‘How are you?’ enough?”",
+    "url": "https://note.com/aoikaihiki/n/n9449b31792f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "“If I send a ‘Long time no see,’ will they just ignore it because they find me annoying?”",
+    "url": "https://note.com/aoikaihiki/n/n9449b31792f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "You type words into the screen, delete them, and as you fail to send anything, the clock ticks past midnight.",
+    "url": "https://note.com/aoikaihiki/n/n9449b31792f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "There are so many people who carry that suffocating conflict and get stuck for days, agonizing over a single message.",
+    "url": "https://note.com/aoikaihiki/n/n9449b31792f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The feeling of your heart making an unpleasant sound and your fingertips turning cold.",
+    "url": "https://note.com/aoikaihiki/n/n9449b31792f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Instantly Calm Work Chaos] The Magical 3-Second Self-Talk Technique to Eliminate 'Multitasking Fatigue'｜セルフトーク＠言の葉童子",
+    "url": "https://note.com/hip_sage1061/n/ne30c8e2e5fe6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Instantly Calm Work Chaos] The Magical 3-Second Self-Talk Technique to Eliminate 'Multitasking Fatigue'",
+    "url": "https://note.com/hip_sage1061/n/ne30c8e2e5fe6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We who live in the modern age are constantly juggling multiple roles and tasks. Thinking about a project proposal while answering emails, and responding immediately when the phone rings—this constant switching of tasks is actually what exhausts the brain the most.",
+    "url": "https://note.com/hip_sage1061/n/ne30c8e2e5fe6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Every time a task changes, confusion arises in the brain about \"which task is the top priority,\" and concentration becomes scattered.",
+    "url": "https://note.com/hip_sage1061/n/ne30c8e2e5fe6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, I will teach you a practical \"instant self-talk\" technique to instantly silence that \"mental noise\" and refocus on the task at hand.",
+    "url": "https://note.com/hip_sage1061/n/ne30c8e2e5fe6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Chapter 1: The True Nature of Multitasking Fatigue Lies in 'Task Afterimages'",
+    "url": "https://note.com/hip_sage1061/n/ne30c8e2e5fe6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Even though we think we are thinking about multiple things at once, in reality, the brain is just switching between tasks at high speed. What occurs during this switching is a phenomenon where information from the previous task remains in the brain, known as a \"task afterimage.\"",
+    "url": "https://note.com/hip_sage1061/n/ne30c8e2e5fe6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "(My personal experience)",
+    "url": "https://note.com/hip_sage1061/n/ne30c8e2e5fe6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "My articles are instantly converted into English and Korean.｜maruwa",
+    "url": "https://note.com/lively_orchid897/n/n5f60ca4993be?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "My articles are instantly converted into English and Korean.",
+    "url": "https://note.com/lively_orchid897/n/n5f60ca4993be?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What I feel in this era where my articles are recently being instantly converted into English and Korean—the spread of information beyond language barriers and the changes behind it",
+    "url": "https://note.com/lively_orchid897/n/n5f60ca4993be?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Recently, articles I have written and posts I have published have become much easier to convert into English and Korean than ever before.",
+    "url": "https://note.com/lively_orchid897/n/n5f60ca4993be?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the past, if you wanted to translate a text written in Japanese into a foreign language, you had to use translation software, look things up in a dictionary, or in some cases, hire a professional. Especially with long articles or technical content, simply replacing words did not convey the meaning correctly, and it required a significant amount of time and effort.",
+    "url": "https://note.com/lively_orchid897/n/n5f60ca4993be?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, today, thanks to advancements in AI translation and automatic translation technology, articles written in Japanese are being converted into various languages, such as English and Korean, in a short amount of time.",
+    "url": "https://note.com/lively_orchid897/n/n5f60ca4993be?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is not just a story about translation becoming more convenient. It is a major change where the reach of information shared by individuals has changed significantly, and articles that were previously limited to those who could understand Japanese now have the potential to reach overseas readers.",
+    "url": "https://note.com/lively_orchid897/n/n5f60ca4993be?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. The major change of articles written in Japanese turning into foreign languages",
+    "url": "https://note.com/lively_orchid897/n/n5f60ca4993be?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Instantly jump to the edge of your data | Excel's Ctrl+Arrow and Ctrl+Shift+Arrow｜よし｜AI×Excel時短術",
+    "url": "https://note.com/tasty_bison1529/n/n4efd1f45a294?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Instantly jump to the edge of your data | Excel's Ctrl+Arrow and Ctrl+Shift+Arrow",
+    "url": "https://note.com/tasty_bison1529/n/n4efd1f45a294?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When a table gets long, it takes time to scroll to the target row. Are you dragging with your mouse repeatedly or hitting PageDown over and over?",
+    "url": "https://note.com/tasty_bison1529/n/n4efd1f45a294?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Excel has shortcuts that let you jump to the edge of your data in an instant. Today, I will organize how to use the Ctrl+Arrow key and Ctrl+Shift+Arrow key combinations, which I also introduced in an Instagram carousel.",
+    "url": "https://note.com/tasty_bison1529/n/n4efd1f45a294?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Jump to the edge instantly with Ctrl+Arrow keys",
+    "url": "https://note.com/tasty_bison1529/n/n4efd1f45a294?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The method is very simple.",
+    "url": "https://note.com/tasty_bison1529/n/n4efd1f45a294?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Select a cell in the direction you want to move",
+    "url": "https://note.com/tasty_bison1529/n/n4efd1f45a294?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hold down the Ctrl key and press an arrow key (↑↓←→)",
+    "url": "https://note.com/tasty_bison1529/n/n4efd1f45a294?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Instantly.ai (@InstantlyAI) / X Instantly connects you to 555M+ B2B leads, local businesses, creators and automates your outreach. Powering GTM for 700.000 businesses worldwide.",
+    "url": "https://x.com/InstantlyAI",
+    "pass": 3
+   },
+   {
+    "quote": "Reio | Instantly.ai (@rsinstantly) / Posts / X You can now automatically generate multi-step outbound sequences based on the best performing cold email scripts in Instantly 🚀 Just click on \"AI Generator\" in the sequences tab to get started.",
+    "url": "https://x.com/rsinstantly",
+    "pass": 3
+   },
+   {
+    "quote": "Instantly (@Instantly) / Posts / X Instantly (@Instantly) - Posts - This account is now inactive. Please follow us @SSITweets . | X (formerly Twitter)",
+    "url": "https://x.com/Instantly",
+    "pass": 3
+   },
+   {
+    "quote": "Hamza A. on X: \"⤷ Introducing instantly 2.0 a new chapter ... ⤷ Introducing instantly 2.0 a new chapter, and honestly the most excited i’ve been about instantly we think as design becomes more accessible, originality and taste will be what truly sets brands apart we're making a few changes to move in that direction we want to be more intentional about the work we take on and the standard we bring ",
+    "url": "https://x.com/HamzaInstantly/status/2119933333631062042",
+    "pass": 3
+   },
+   {
+    "quote": "Launch Instantly (@LaunchInstantly) / Posts / X Launch Instantly (@LaunchInstantly) - Posts - Your complete professional website. Ready to launch today. Answer 10 questions. We build, host, an... | X (formerly Twitter)",
+    "url": "https://x.com/launchinstantly",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Instantly.ai - LinkedIn Instantly.ai | 67,607 followers on LinkedIn. Instantly connects you to 450M+ leads and automates outreach for 700K+ businesses worldwide. | All-in-one outreach platform for business growth.",
+    "url": "https://www.linkedin.com/company/instantlyapp",
+    "pass": 3
+   },
+   {
+    "quote": "Instantly, Inc. - LinkedIn Combining research expertise with forward-thinking technology, Instantly has helped businesses all over the world answer their most important marketing questions.",
+    "url": "https://www.linkedin.com/company/instantly",
+    "pass": 3
+   },
+   {
+    "quote": "Nils Schneider – Co-founder/CEO @ Instantly.ai | LinkedInSumit K. - CTO & Co-Founder at Instantly.ai | LinkedInMilana Petkovic - GTM Engineer @ Instantly.ai | Queen of ...Mitchell Keller - learn GTM engineering | Daily tips on how ...Yaroslava Tensina - Community & Socials @ Instantly.ai ... Co-founder/CEO @ Instantly.ai · instantly.ai · Berufserfahrung: Instantly · Ausbildung: University of Zuric",
+    "url": "https://ch.linkedin.com/in/nils-schneider",
+    "pass": 3
+   },
+   {
+    "quote": "Sumit K. - CTO & Co-Founder at Instantly.ai | LinkedInMilana Petkovic - GTM Engineer @ Instantly.ai | Queen of ...Mitchell Keller - learn GTM engineering | Daily tips on how ...Yaroslava Tensina - Community & Socials @ Instantly.ai ... CTO & Co-Founder at Instantly.ai · Experience: Instantly.ai · Education: Georgia Institute of Technology · Location: Vancouver · 500+ connections on LinkedIn. View ",
+    "url": "https://ca.linkedin.com/in/timusk",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://instantly.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://instantly.ai/ai-agents/ai-partnership-agent",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://instantly.ai/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://instantly.ai/solution-partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://instantly.ai/marketplace",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://instantly.ai/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://instantly.ai/agency",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://instantly.ai/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://instantly.ai/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://instantly.ai/case-studies/tymely",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://instantly.ai/blog/instantly-agency-pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://instantly.ai/b2b-lead-finder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://instantly.ai/solutions-partner",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://instantly.ai/case-studies/light-house-capital-group",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/63860c8c65e7bef4a1eeebeb/6a3d5fc8a39d776629858b24_idagA6eeWT_logos%20(2)%20(1).png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://aipicks.jp/mag/instantly-ai-guide-2026",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://eeai.tv/tools/instantly",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eesel.ai/ja/blog/instantly",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/news_knowledge/n/n4f125db700b3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eikaiwa.dmm.com/uknow/questions/65573/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grokipedia.com/page/survival_japanese_how_to_communicate_without_fuss_or_fear_instantly_japanese_phrasebook_(book)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.akazuki.com/collections/instant-food",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dictionary.cambridge.org/dictionary/english-japanese/instantly",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://konbinistop.com/collections/instant-japanese-food",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.infosys.com/industries/industrial-manufacturing/case-studies.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tcs.com/what-we-do/industries/manufacturing/case-studies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/instantlyai",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/instantly-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/instantly/__95OwvMUfhcfJbjpjZS4KlKWydw5wLal7y7JiKIMeffo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://prospeo.io/c/instantly-ai-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/aoikaihiki/n/n9449b31792f0?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hip_sage1061/n/ne30c8e2e5fe6?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/lively_orchid897/n/n5f60ca4993be?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tasty_bison1529/n/n4efd1f45a294?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/InstantlyAI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/rsinstantly",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Instantly",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HamzaInstantly/status/2119933333631062042",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/instantlyapp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/instantly",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ch.linkedin.com/in/nils-schneider",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/timusk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/launchinstantly",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Instantly 日本 導入",
+   "results": [
+    "https://aipicks.jp/mag/instantly-ai-guide-2026",
+    "https://eeai.tv/tools/instantly",
+    "https://www.eesel.ai/ja/blog/instantly",
+    "https://note.com/news_knowledge/n/n4f125db700b3",
+    "https://www.itmedia.co.jp/mobile/articles/2610/15/news045.html",
+    "https://monoist.itmedia.co.jp/mn/articles/2610/20/news044.html",
+    "https://news.yahoo.co.jp/expert/articles/3dacae0a3ba4dfdd3952000727820a5fea587c30"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Instantly 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://eikaiwa.dmm.com/uknow/questions/65573/",
+    "https://translate.google.jp/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.jetro.go.jp/invest/setting_up/section1/page1.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Instantly Japan",
+   "results": [
+    "https://grokipedia.com/page/survival_japanese_how_to_communicate_without_fuss_or_fear_instantly_japanese_phrasebook_(book)",
+    "https://www.akazuki.com/collections/instant-food",
+    "https://dictionary.cambridge.org/dictionary/english-japanese/instantly",
+    "https://konbinistop.com/collections/instant-japanese-food",
+    "https://www.japancandystore.com/collections/ramen",
+    "https://www.plazajapan.com/ramen/",
+    "https://dokodemo.world/en/category/2473/",
+    "https://www.amazon.com/japanese-instant-noodles/s?k=japanese+instant+noodles"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Instantly manufacturing customer case study",
+   "results": [
+    "https://www.infosys.com/industries/industrial-manufacturing/case-studies.html",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.tcs.com/what-we-do/industries/manufacturing/case-studies",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "https://red27creative.com/manufacturing-case-studies",
+    "https://aws.amazon.com/manufacturing/case-studies/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Instantly white label OR reseller OR partner program",
+   "results": [
+    "https://www.mycompanyworks.com/reseller",
+    "https://partner.vw.com/",
+    "https://www.seoreseller.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.ninjaone.com/partner-program/",
+    "https://www.resellercluster.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Instantly founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/instantlyai",
+    "https://getlatka.com/companies/instantly-ai",
+    "https://tracxn.com/d/companies/instantly/__95OwvMUfhcfJbjpjZS4KlKWydw5wLal7y7JiKIMeffo",
+    "https://prospeo.io/c/instantly-ai-revenue",
+    "https://www.crunchbase.com/organization/instantly-9887",
+    "https://pitchbook.com/profiles/company/43100-65",
+    "https://tracxn.com/d/companies/instantly/__W8_j0FA52BsTLlNZ4VjEFiXkJxitEgeAec1lb6FS2iI"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Instantly",
+   "results": [
+    "https://note.com/aoikaihiki/n/n9449b31792f0?hl=en",
+    "https://note.com/hip_sage1061/n/ne30c8e2e5fe6?hl=en",
+    "https://note.com/lively_orchid897/n/n5f60ca4993be?hl=en",
+    "https://note.com/tasty_bison1529/n/n4efd1f45a294?hl=en",
+    "https://note.com/bhrtaym/n/n4d6c0e1d73ca?hl=en",
+    "https://note.com/akufx/n/n6561bbeb3f1d?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Instantly",
+   "results": [
+    "https://x.com/InstantlyAI",
+    "https://x.com/rsinstantly",
+    "https://x.com/Instantly",
+    "https://x.com/HamzaInstantly/status/2119933333631062042",
+    "https://x.com/InstantlyAI/status/2052402529569321184",
+    "https://x.com/lazer_groove/status/2117324340132012102",
+    "https://help.x.com/en/rules-and-policies/x-services-and-corporate-affiliates"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Instantly",
+   "results": [
+    "https://www.linkedin.com/company/instantlyapp",
+    "https://www.linkedin.com/company/instantly",
+    "https://ch.linkedin.com/in/nils-schneider",
+    "https://ca.linkedin.com/in/timusk",
+    "https://rs.linkedin.com/in/millanna",
+    "https://uk.linkedin.com/in/yaroslava-tensina",
+    "https://ca.linkedin.com/in/mitchell-keller"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Instantly",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Instantly note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.com/saiyou_dekirukun/all",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.com/sadaaki",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Instantly X 投稿",
+   "results": [
+    "https://instantly.ai/",
+    "https://x.com/launchinstantly",
+    "https://x.com/felixrieseberg/status/2119925633564463609",
+    "https://fitly.pics/blog/x-twitter-post-tips",
+    "https://www.ichiyajo.jp/notes/2026-05-18-x-auto-post-guide-2026/",
+    "https://news.livedoor.com/topics/detail/32778510/",
+    "https://maisondechatofficial.com/entry/2026/09/23/203000"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部37頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部37頁・検索12回）"
+ }
+}

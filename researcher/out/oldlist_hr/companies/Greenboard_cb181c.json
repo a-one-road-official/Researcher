@@ -1,0 +1,1737 @@
+{
+ "name": "Greenboard",
+ "aliases": [],
+ "context": "旧営業リスト｜Compliance Software｜未接触",
+ "researched_at": "2026-11-10T15:14:50.204494+00:00",
+ "official_url": "https://www.greenboard.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "08-May-2024    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/538315-21",
+    "pass": 3
+   },
+   {
+    "label": "Total funding",
+    "value": "$5,000,000",
+    "url": "https://prospeo.io/c/greenboard-revenue",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/greenboard-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Manhattan, New York, United States",
+    "url": "https://prospeo.io/c/greenboard-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2023",
+    "url": "https://prospeo.io/c/greenboard-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "runs across the whole Greenboard platform, so compliance teams can ask, configure and automate any part of their program from one place, with every step written to a WORM-based, 17a-4 compliant record. It also works where teams do: in Slack, Teams, Claude and ChatGPT.",
+    "url": "https://www.greenboard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Exam response preparation",
+    "url": "https://www.greenboard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Whatever we came up with for marketing reviews, it had to move as fast as the content creators moved.",
+    "url": "https://www.greenboard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Weekly time saved on marketing review",
+    "url": "https://www.greenboard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Greenboard helps us detect risk and automate more of our compliance program than was previously possible — and it’s easy to use.",
+    "url": "https://www.greenboard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Whatever we came up with for marketing reviews had to move as fast as the content creators moved. Huge thanks to the Greenboard team.",
+    "url": "https://www.greenboard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Run your entire compliance program from one modern system powered by GreenboardGo",
+    "url": "https://www.greenboard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Archiving, firm compliance, employee compliance, and marketing review belong in one system, where the work and the record of the work live together.",
+    "url": "https://www.greenboard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Privacy worth trusting",
+    "url": "https://www.greenboard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-grade security, human supervision.",
+    "url": "https://www.greenboard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect the firm’s critical data with smarter supervision methods that build trust with your people instead of eroding it.",
+    "url": "https://www.greenboard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A pact with our users, not just a promise.",
+    "url": "https://www.greenboard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "RIAs running lean programs that still need to pass a full SEC exam.",
+    "url": "https://www.greenboard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Growing fintechs that need compliance to keep pace with the product.",
+    "url": "https://www.greenboard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "New registrants standing up a compliance program from day one.",
+    "url": "https://www.greenboard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-grade security and privacy: SOC 2 Type 2",
+    "url": "https://www.greenboard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See how your program runs on one system. Implementation is measured in weeks, not quarters.",
+    "url": "https://www.greenboard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "An archive here, a spreadsheet there, a missed alert somewhere else. Fragmented, outdated tools leave your team chasing issues one pop-up at a time. Greenboard puts the whole program in one system, so problems get caught before they surface.",
+    "url": "https://www.greenboard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tap a problem to whack it. Think you can keep up without Greenboard?",
+    "url": "https://www.greenboard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Whack-A-Problem at greenboard.game (opens in a new tab)",
+    "url": "https://www.greenboard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "runs across the whole Greenboard platform, so compliance teams can ask, configure and automate any part of their program from one place, with every step written to a WORM-based, 17a-4 compliant record. It also works where teams do: in Slack, Teams, Claude and ChatGPT.",
+    "url": "https://www.greenboard.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Greenboard works with leading compliance consultancies, custodians, data providers, and cloud platforms. Their data flows directly into Greenboard, so your team spends less time chasing statements, exporting reports, and reconciling spreadsheets. And when you need outside expertise, it’s already within reach.",
+    "url": "https://www.greenboard.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Seamlessly capture communications and integrate everyday tools through our partnerships with leading cloud and software providers.",
+    "url": "https://www.greenboard.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Adroit Compliance delivers practical, right-sized compliance solutions for small and mid-sized registered investment advisers.",
+    "url": "https://www.greenboard.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "ACC delivers proactive, tech-enabled compliance solutions for investment advisers and funds, combining deep regulatory expertise with AI-powered automation.",
+    "url": "https://www.greenboard.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Asgard delivers practical, strategic compliance support for financial institutions, combining regulatory expertise with tailored solutions to help firms navigate complex rules.",
+    "url": "https://www.greenboard.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Betterment Advisor Solutions is a tech-enabled custodian for independent RIAs, combining custody and essential practice management software in one platform.",
+    "url": "https://www.greenboard.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Brightstar Law Group protects hundreds of RIAs with compliance, business, and M&A advice, delivering peace of mind so firms can focus on clients and growth.",
+    "url": "https://www.greenboard.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Proven compliance experts delivering practical, tailored solutions by strengthening governance, reducing risk, and building resilient, future-ready programs.",
+    "url": "https://www.greenboard.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "ICA puts compliance first, delivering practical, exam-ready, scalable solutions tailored to your firm, with cyber and creative offerings to enhance industry presence.",
+    "url": "https://www.greenboard.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "ICC builds customized compliance programs for small broker-dealers and RIAs, pairing deep regulatory expertise with practical, hands-on guidance.",
+    "url": "https://www.greenboard.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Kroll and Greenboard bring regulatory advisory and a unified compliance system to financial institutions, providing a clear, structured way to manage workflows, apply guidance, and maintain an audit-ready record.",
+    "url": "https://www.greenboard.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Providence Compliance",
+    "url": "https://www.greenboard.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Providence Compliance helps RIAs build strong, practical, and affordable compliance programs through tailored, expert guidance at every stage of the regulatory journey.",
+    "url": "https://www.greenboard.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "V17 Advisors delivers tailored compliance and CFO solutions for alternative investment funds, providing strategic guidance and expert support to help firms stay agile.",
+    "url": "https://www.greenboard.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "If your company provides technology, custody, or compliance services that could integrate with our platform, we’d love to hear from you.",
+    "url": "https://www.greenboard.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Run every client firm or entity from one console, and push your program to all of them.",
+    "url": "https://www.greenboard.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Compliance consultancies and outsourced CCOs, custodians and data providers, and cloud and technology platforms. Partners at every layer connect to the same platform, so firms get their data and outside expertise in one place.",
+    "url": "https://www.greenboard.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "How does data from custodians and data providers reach Greenboard?",
+    "url": "https://www.greenboard.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Through direct integrations. Assets, trades and client data flow into Greenboard, so compliance teams spend less time chasing statements, exporting reports and reconciling spreadsheets.",
+    "url": "https://www.greenboard.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "See how your program runs on one system. Implementation is measured in weeks, not quarters.",
+    "url": "https://www.greenboard.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "runs across the whole Greenboard platform, so compliance teams can ask, configure and automate any part of their program from one place, with every step written to a WORM-based, 17a-4 compliant record. It also works where teams do: in Slack, Teams, Claude and ChatGPT.",
+    "url": "https://www.greenboard.com/solutions/financial-advisors",
+    "pass": 1
+   },
+   {
+    "quote": "RIA compliance software for lean programs that still need to pass a full SEC exam.",
+    "url": "https://www.greenboard.com/solutions/financial-advisors",
+    "pass": 1
+   },
+   {
+    "quote": "Retire point solutions and run archiving, marketing, trading, and employee oversight on one RIA compliance platform built for advisors.",
+    "url": "https://www.greenboard.com/solutions/financial-advisors",
+    "pass": 1
+   },
+   {
+    "quote": "AI pre-checks content against SEC rules, so disclosures are right the first time and approvals fly through.",
+    "url": "https://www.greenboard.com/solutions/financial-advisors",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive archiving",
+    "url": "https://www.greenboard.com/solutions/financial-advisors",
+    "pass": 1
+   },
+   {
+    "quote": "Greenboard captures every communication, action, comment, and approval in a WORM-compliant archive you can export easily.",
+    "url": "https://www.greenboard.com/solutions/financial-advisors",
+    "pass": 1
+   },
+   {
+    "quote": "Connect brokerage accounts instantly via CFPB 1033 APIs to eliminate manual statement uploads and streamline monitoring.",
+    "url": "https://www.greenboard.com/solutions/financial-advisors",
+    "pass": 1
+   },
+   {
+    "quote": "Future-proof architecture",
+    "url": "https://www.greenboard.com/solutions/financial-advisors",
+    "pass": 1
+   },
+   {
+    "quote": "Compliance teams are lean, often relying on a CCO and an analyst to run the entire program. And compliance officers often hold other full-time positions within the firm.",
+    "url": "https://www.greenboard.com/solutions/financial-advisors",
+    "pass": 1
+   },
+   {
+    "quote": "The Marketing Rule touches everything",
+    "url": "https://www.greenboard.com/solutions/financial-advisors",
+    "pass": 1
+   },
+   {
+    "quote": "Newsletters, social posts, testimonials, and even email signatures need review. Every approval needs to be easy to pull up when an examiner asks.",
+    "url": "https://www.greenboard.com/solutions/financial-advisors",
+    "pass": 1
+   },
+   {
+    "quote": "The amendments require firms to oversee their service providers and notify customers of breaches on a set clock. Teams want a structured review they can finish, not a folder of questionnaires.",
+    "url": "https://www.greenboard.com/solutions/financial-advisors",
+    "pass": 1
+   },
+   {
+    "quote": "Connect employee accounts once, and holdings and transactions feed quarterly and annual reports automatically. Employee trading is checked against client trading every day, and pre-clearance requests are checked against your lists before anyone trades.",
+    "url": "https://www.greenboard.com/solutions/financial-advisors",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-clearance with your policy attached",
+    "url": "https://www.greenboard.com/solutions/financial-advisors",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing reviews in minutes",
+    "url": "https://www.greenboard.com/solutions/financial-advisors",
+    "pass": 1
+   },
+   {
+    "quote": "Advisors get an instant pre-check when they upload, and GreenboardGo flags performance, testimonial, and disclosure issues against the Marketing Rule before the piece reaches you.",
+    "url": "https://www.greenboard.com/solutions/financial-advisors",
+    "pass": 1
+   },
+   {
+    "quote": "Go researches each vendor and reads its SOC 2 report, and then you set the risk level and narrative and sign off, with every review kept on the record.",
+    "url": "https://www.greenboard.com/solutions/financial-advisors",
+    "pass": 1
+   },
+   {
+    "quote": "How FSG, ICA, and Greenboard Built a Compliance Program That Scales",
+    "url": "https://www.greenboard.com/solutions/financial-advisors",
+    "pass": 1
+   },
+   {
+    "quote": "After doubling headcount in five years, JMG needed compliance infrastructure that could keep up. Greenboard replaced their paper-based program and three legacy systems with a single platform that scales as fast as they do.",
+    "url": "https://www.greenboard.com/solutions/financial-advisors",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "runs across the whole Greenboard platform, so compliance teams can ask, configure and automate any part of their program from one place, with every step written to a WORM-based, 17a-4 compliant record. It also works where teams do: in Slack, Teams, Claude and ChatGPT.",
+    "url": "https://www.greenboard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "runs across the whole Greenboard platform, so compliance teams can ask, configure and automate any part of their program from one place, with every step written to a WORM-based, 17a-4 compliant record. It also works where teams do: in Slack, Teams, Claude and ChatGPT.",
+    "url": "https://www.greenboard.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Every client sees your brand, and employees at each firm get answers from",
+    "url": "https://www.greenboard.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "runs across the whole Greenboard platform, so compliance teams can ask, configure and automate any part of their program from one place, with every step written to a WORM-based, 17a-4 compliant record. It also works where teams do: in Slack, Teams, Claude and ChatGPT.",
+    "url": "https://www.greenboard.com/solutions/financial-advisors",
+    "pass": 1
+   },
+   {
+    "quote": "Go researches each vendor and reads its SOC 2 report, and then you set the risk level and narrative and sign off, with every review kept on the record.",
+    "url": "https://www.greenboard.com/solutions/financial-advisors",
+    "pass": 1
+   },
+   {
+    "quote": "Employees connect their brokerage accounts once, and holdings and transactions arrive automatically. Greenboard checks employee trading against client trading every day and checks pre-clearance requests against your lists before anyone trades.",
+    "url": "https://www.greenboard.com/solutions/financial-advisors",
+    "pass": 1
+   },
+   {
+    "quote": "runs across the whole Greenboard platform, so compliance teams can ask, configure and automate any part of their program from one place, with every step written to a WORM-based, 17a-4 compliant record. It also works where teams do: in Slack, Teams, Claude and ChatGPT.",
+    "url": "https://www.greenboard.com/solutions/private-funds",
+    "pass": 1
+   },
+   {
+    "quote": "Employees connect brokerage accounts and declare private holdings and fund interests in the same place. Quarterly attestations carry everything forward.",
+    "url": "https://www.greenboard.com/solutions/private-funds",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Greenboard works for private fund managers across strategies. Employees declare private holdings and fund interests in the same place they connect brokerage accounts, and quarterly attestations carry everything forward.",
+    "url": "https://www.greenboard.com/solutions/private-funds",
+    "pass": 1
+   },
+   {
+    "quote": "runs across the whole Greenboard platform, so compliance teams can ask, configure and automate any part of their program from one place, with every step written to a WORM-based, 17a-4 compliant record. It also works where teams do: in Slack, Teams, Claude and ChatGPT.",
+    "url": "https://www.greenboard.com/solutions/hedge-funds",
+    "pass": 1
+   },
+   {
+    "quote": "Slack, Teams, Bloomberg, Telegram, and WhatsApp all carry business conversations that need to land in a single place for review.",
+    "url": "https://www.greenboard.com/solutions/hedge-funds",
+    "pass": 1
+   },
+   {
+    "quote": "13F and other periodic filings need clean holdings data the day the deadline arrives.",
+    "url": "https://www.greenboard.com/solutions/hedge-funds",
+    "pass": 1
+   },
+   {
+    "quote": "runs across the whole Greenboard platform, so compliance teams can ask, configure and automate any part of their program from one place, with every step written to a WORM-based, 17a-4 compliant record. It also works where teams do: in Slack, Teams, Claude and ChatGPT.",
+    "url": "https://www.greenboard.com/solutions/broker-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "New reps arrive in waves",
+    "url": "https://www.greenboard.com/solutions/broker-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Groups, roles, and saved review queues send each review to the person who owns it, with information barriers between teams and every decision recorded.",
+    "url": "https://www.greenboard.com/solutions/broker-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Barriers between teams",
+    "url": "https://www.greenboard.com/solutions/broker-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "runs across the whole Greenboard platform, so compliance teams can ask, configure and automate any part of their program from one place, with every step written to a WORM-based, 17a-4 compliant record. It also works where teams do: in Slack, Teams, Claude and ChatGPT.",
+    "url": "https://www.greenboard.com/solutions/fintech",
+    "pass": 1
+   },
+   {
+    "quote": "Barriers between teams",
+    "url": "https://www.greenboard.com/solutions/fintech",
+    "pass": 1
+   },
+   {
+    "quote": "runs across the whole Greenboard platform, so compliance teams can ask, configure and automate any part of their program from one place, with every step written to a WORM-based, 17a-4 compliant record. It also works where teams do: in Slack, Teams, Claude and ChatGPT.",
+    "url": "https://www.greenboard.com/solutions/ria-registration",
+    "pass": 1
+   },
+   {
+    "quote": "Working out what has to be tested, when, and how to evidence it is the hardest part of standing up a program.",
+    "url": "https://www.greenboard.com/solutions/ria-registration",
+    "pass": 1
+   },
+   {
+    "quote": "runs across the whole Greenboard platform, so compliance teams can ask, configure and automate any part of their program from one place, with every step written to a WORM-based, 17a-4 compliant record. It also works where teams do: in Slack, Teams, Claude and ChatGPT.",
+    "url": "https://www.greenboard.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "runs across the whole Greenboard platform, so compliance teams can ask, configure and automate any part of their program from one place, with every step written to a WORM-based, 17a-4 compliant record. It also works where teams do: in Slack, Teams, Claude and ChatGPT.",
+    "url": "https://www.greenboard.com/solutions/small-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Compliance software for small RIAs and broker-dealers, where one person often carries the whole compliance program.",
+    "url": "https://www.greenboard.com/solutions/small-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Employees ask Go their policy questions and get answers from your own policies, with sources, so the CCO isn’t the help desk.",
+    "url": "https://www.greenboard.com/solutions/small-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Employees connect their accounts once, and holdings and transactions arrive on their own.",
+    "url": "https://www.greenboard.com/solutions/small-firms",
+    "pass": 1
+   },
+   {
+    "quote": "runs across the whole Greenboard platform, so compliance teams can ask, configure and automate any part of their program from one place, with every step written to a WORM-based, 17a-4 compliant record. It also works where teams do: in Slack, Teams, Claude and ChatGPT.",
+    "url": "https://www.greenboard.com/solutions/growing-businesses",
+    "pass": 1
+   },
+   {
+    "quote": "Barriers between teams",
+    "url": "https://www.greenboard.com/solutions/growing-businesses",
+    "pass": 1
+   },
+   {
+    "quote": "Separate archive, trading, and marketing tools picked up along the way, onboarding that arrives in waves, and reviews that all land on one person. Greenboard consolidates the tools, routes each review to the person who owns it, and onboards new teams into the same queue.",
+    "url": "https://www.greenboard.com/solutions/growing-businesses",
+    "pass": 1
+   },
+   {
+    "quote": "runs across the whole Greenboard platform, so compliance teams can ask, configure and automate any part of their program from one place, with every step written to a WORM-based, 17a-4 compliant record. It also works where teams do: in Slack, Teams, Claude and ChatGPT.",
+    "url": "https://www.greenboard.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Single sign-on, a user lifecycle that follows HR, and visibility that respects information barriers.",
+    "url": "https://www.greenboard.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Roles, groups and information barriers decide who sees and reviews what, with single sign-on through Entra, Okta or SAML.",
+    "url": "https://www.greenboard.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Barriers between teams",
+    "url": "https://www.greenboard.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "positive unsolicited feedback from our employees",
+    "url": "https://www.greenboard.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Single sign-on through Entra, Okta, or SAML, SCIM provisioning, granular permissions, and information barriers, on SOC 2 Type 2 infrastructure with every action written to a",
+    "url": "https://www.greenboard.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "runs across the whole Greenboard platform, so compliance teams can ask, configure and automate any part of their program from one place, with every step written to a WORM-based, 17a-4 compliant record. It also works where teams do: in Slack, Teams, Claude and ChatGPT.",
+    "url": "https://www.greenboard.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "runs across the whole Greenboard platform, so compliance teams can ask, configure and automate any part of their program from one place, with every step written to a WORM-based, 17a-4 compliant record. It also works where teams do: in Slack, Teams, Claude and ChatGPT.",
+    "url": "https://www.greenboard.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "runs across the whole Greenboard platform, so compliance teams can ask, configure and automate any part of their program from one place, with every step written to a WORM-based, 17a-4 compliant record. It also works where teams do: in Slack, Teams, Claude and ChatGPT.",
+    "url": "https://www.greenboard.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Own Greenboard’s partner channel. Sign and grow reseller and referral partnerships with compliance consultants, MSPs, and custodians, reporting directly to our CTO and co-founder. You’ll design how the program works, carry the partner number, and be the person partners call long after the deal is signed.",
+    "url": "https://www.greenboard.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "runs across the whole Greenboard platform, so compliance teams can ask, configure and automate any part of their program from one place, with every step written to a WORM-based, 17a-4 compliant record. It also works where teams do: in Slack, Teams, Claude and ChatGPT.",
+    "url": "https://www.greenboard.com/case-studies/root-financial",
+    "pass": 1
+   },
+   {
+    "quote": "While most advisory firms rely on referrals, cold calls, or seminars, Root built what James calls a \"content machine\" that drives organic client acquisition. At the center are his, Chief Growth Officer Ari Taubeib’s, and the firm’s YouTube channels, which collectively grew from 14,400 subscribers in 2022 to over 285,000 today, a 20x jump in four years.",
+    "url": "https://www.greenboard.com/case-studies/root-financial",
+    "pass": 1
+   },
+   {
+    "quote": "At Root Financial, any delay in marketing review could slow client acquisition, and any misstep means increased regulatory risk. In other words, Alex needed a compliance infrastructure that could move at the speed of the business while maintaining control and defensibility.",
+    "url": "https://www.greenboard.com/case-studies/root-financial",
+    "pass": 1
+   },
+   {
+    "quote": "The firm's content strategy, the primary driver of client acquisition, keeps expanding because compliance moves at the pace of the business.",
+    "url": "https://www.greenboard.com/case-studies/root-financial",
+    "pass": 1
+   },
+   {
+    "quote": "runs across the whole Greenboard platform, so compliance teams can ask, configure and automate any part of their program from one place, with every step written to a WORM-based, 17a-4 compliant record. It also works where teams do: in Slack, Teams, Claude and ChatGPT.",
+    "url": "https://www.greenboard.com/case-studies/fsg-ica",
+    "pass": 1
+   },
+   {
+    "quote": "runs across the whole Greenboard platform, so compliance teams can ask, configure and automate any part of their program from one place, with every step written to a WORM-based, 17a-4 compliant record. It also works where teams do: in Slack, Teams, Claude and ChatGPT.",
+    "url": "https://www.greenboard.com/case-studies/jmg-financial-group",
+    "pass": 1
+   },
+   {
+    "quote": "When Adam Boyer joined JMG as COO and CCO in July 2024, the firm ran on a legacy, proprietary compliance system built around paper processes. Employees signed forms manually, hundreds of pages were printed monthly, and core compliance workflows lived in shared folders, email chains, and spreadsheets.",
+    "url": "https://www.greenboard.com/case-studies/jmg-financial-group",
+    "pass": 1
+   },
+   {
+    "quote": "\"The unified functionality capability was key to me,\" said Adam, \"and getting a platform that cut across all the key areas of the business and provided ease of use for the employees and easy supervision for us.\"",
+    "url": "https://www.greenboard.com/case-studies/jmg-financial-group",
+    "pass": 1
+   },
+   {
+    "quote": "When Adam arrived at JMG, every compliance task — attestations, disclosures, and monitoring review — required manual effort. Hiring any employee meant more paperwork, more meetings, and more administrative overhead.",
+    "url": "https://www.greenboard.com/case-studies/jmg-financial-group",
+    "pass": 1
+   },
+   {
+    "quote": "As he put it, compliance workload scales with employees, not AUM. Before, JMG’s headcount growth created additional operational burden, but on Greenboard, it’s scalable:",
+    "url": "https://www.greenboard.com/case-studies/jmg-financial-group",
+    "pass": 1
+   },
+   {
+    "quote": "The curve starts to flatten for JMG as we bring on technology like Greenboard. Before, five new employees meant a lot more compliance work. Now it's diminishing – it doesn't require nearly as much work for us when we add an employee.",
+    "url": "https://www.greenboard.com/case-studies/jmg-financial-group",
+    "pass": 1
+   },
+   {
+    "quote": "This collaboration is a big part of why JMG runs firmwide compliance on Greenboard.",
+    "url": "https://www.greenboard.com/case-studies/jmg-financial-group",
+    "pass": 1
+   },
+   {
+    "quote": ": 米国企業改革法（上場企業向け財務統制）",
+    "url": "https://kagiya-n.com/articles/greenboard-155m-series-a-ai-compliance-automation",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up to be the first to know about our latest arrivals, special offers, events and more",
+    "url": "https://www.nan-ban.com/en/product/greenboard-kit-a4",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/greenboard/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/538315-21",
+    "pass": 3
+   },
+   {
+    "quote": "Wilkes-Barre city, PA",
+    "url": "https://pitchbook.com/profiles/company/538315-21",
+    "pass": 3
+   },
+   {
+    "quote": "Greenboard has 10 total employees.",
+    "url": "https://pitchbook.com/profiles/company/538315-21",
+    "pass": 3
+   },
+   {
+    "quote": "What is Greenboard’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/538315-21",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Greenboard is",
+    "url": "https://pitchbook.com/profiles/company/538315-21",
+    "pass": 3
+   },
+   {
+    "quote": "Greenboard Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/greenboard-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Greenboard",
+    "url": "https://prospeo.io/c/greenboard-revenue",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "One console for compliance consultants, resellers, and multi-entity firms to run every client or entity from one login.",
+    "url": "https://www.greenboard.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Apply on the Become a partner page. Tell us what your company does and how it would work with Greenboard, and our partnerships team will be in touch.",
+    "url": "https://www.greenboard.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Can compliance consultants white-label Greenboard?",
+    "url": "https://www.greenboard.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Every client sees your brand, and employees at each firm get answers from",
+    "url": "https://www.greenboard.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Own Greenboard’s partner channel. Sign and grow reseller and referral partnerships with compliance consultants, MSPs, and custodians, reporting directly to our CTO and co-founder. You’ll design how the program works, carry the partner number, and be the person partners call long after the deal is signed.",
+    "url": "https://www.greenboard.com/careers",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Clients reach advisors by text and LinkedIn message, not just email. Firms need those conversations captured and supervised alongside email, without making advisors change how they work.",
+    "url": "https://www.greenboard.com/solutions/financial-advisors",
+    "pass": 1
+   },
+   {
+    "quote": "Newsletters, social posts, testimonials, and even email signatures need review. Every approval needs to be easy to pull up when an examiner asks.",
+    "url": "https://www.greenboard.com/solutions/financial-advisors",
+    "pass": 1
+   },
+   {
+    "quote": "Email, text messages, LinkedIn, WhatsApp, and your website are captured in one archive and screened against your lexicon and rules, so compliance monitoring for RIAs covers every channel and you only review the messages that matter.",
+    "url": "https://www.greenboard.com/solutions/financial-advisors",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Email, text messages, LinkedIn, WhatsApp, and your website are captured in one archive and screened against your lexicon and rules, so advisors don't have to change how they talk to clients.",
+    "url": "https://www.greenboard.com/solutions/financial-advisors",
+    "pass": 1
+   },
+   {
+    "quote": "Email, Slack, Teams, Bloomberg chat, Telegram, and WhatsApp are captured together and screened against your rules, so supervision covers all channels where trading conversations happen.",
+    "url": "https://www.greenboard.com/solutions/hedge-funds",
+    "pass": 1
+   },
+   {
+    "quote": "By keeping business conversations and approvals on one supervised record. Greenboard captures email, Slack, Teams, Bloomberg chat, Telegram, and WhatsApp in a WORM-compliant archive, screens them against your rules, and keeps approvals and attestations alongside them, searchable and easy to export.",
+    "url": "https://www.greenboard.com/solutions/hedge-funds",
+    "pass": 1
+   },
+   {
+    "quote": "Capture email, SMS, WhatsApp, LinkedIn, Teams, and more in immutable storage that satisfies SEC",
+    "url": "https://www.greenboard.com/solutions/broker-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "archiving for email, text, and social, supervision with an audit trail, and marketing approvals. Greenboard puts them on one platform, so a one-person compliance department isn't managing separate vendors.",
+    "url": "https://www.greenboard.com/solutions/broker-dealers",
+    "pass": 1
+   },
+   {
+    "quote": "AI pre-checks app copy, landing pages, emails and social posts against SEC and FINRA rules, so launches don't wait on compliance.",
+    "url": "https://www.greenboard.com/solutions/fintech",
+    "pass": 1
+   },
+   {
+    "quote": "Slack, Teams, email, text and social are captured in one WORM-compliant archive and supervised with your lexicon and AI rules.",
+    "url": "https://www.greenboard.com/solutions/fintech",
+    "pass": 1
+   },
+   {
+    "quote": "Product ships every week, and every new screen, push notification and email can be a communication with the public. Teams need reviews that fit the release cycle.",
+    "url": "https://www.greenboard.com/solutions/fintech",
+    "pass": 1
+   },
+   {
+    "quote": "The team works in Slack, not email",
+    "url": "https://www.greenboard.com/solutions/fintech",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Slack, Teams, email, text, and social are captured in one WORM-compliant archive and supervised with your lexicon and AI rules, without asking anyone to change how they work.",
+    "url": "https://www.greenboard.com/solutions/fintech",
+    "pass": 1
+   },
+   {
+    "quote": "Connect email, text messages, and social accounts before launch, so every client communication is captured from the first conversation.",
+    "url": "https://www.greenboard.com/solutions/ria-registration",
+    "pass": 1
+   },
+   {
+    "quote": "Email, text, and social captured automatically, with AI review that surfaces only what needs you.",
+    "url": "https://www.greenboard.com/solutions/small-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-entity firms, complex hierarchies, and heavy recordkeeping obligations, served on WORM-based, 17a-4 compliant infrastructure with SOC 2 Type 2 controls and email, SMS, and chat archiving across every entity.",
+    "url": "https://www.greenboard.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Found 212 messages across email, Teams and text, plus 3 approved fee notices. Packaged with the review history for each.",
+    "url": "https://www.greenboard.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "We founded Greenboard in 2023 after watching compliance teams at financial firms try to keep up with constant SEC rule changes using spreadsheets, email threads, and legacy tools that didn’t talk to each other.",
+    "url": "https://www.greenboard.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Before Greenboard, FSG's compliance program ran across a fragmented stack of point solutions. Smarsh handled email archiving. Orion Compliance managed attestations. Other tools filled the gaps. On top of all of it, the team tracked everything against manually maintained scope-and-sequence documents from ICA.",
+    "url": "https://www.greenboard.com/case-studies/fsg-ica",
+    "pass": 1
+   },
+   {
+    "quote": "When Adam Boyer joined JMG as COO and CCO in July 2024, the firm ran on a legacy, proprietary compliance system built around paper processes. Employees signed forms manually, hundreds of pages were printed monthly, and core compliance workflows lived in shared folders, email chains, and spreadsheets.",
+    "url": "https://www.greenboard.com/case-studies/jmg-financial-group",
+    "pass": 1
+   },
+   {
+    "quote": "On the firm compliance side, JMG builds directly in the system, creating custom workflows to consolidate processes that used to live across shared folders and email.",
+    "url": "https://www.greenboard.com/case-studies/jmg-financial-group",
+    "pass": 1
+   },
+   {
+    "quote": "Please contact info@nan-ban.com for information",
+    "url": "https://www.nan-ban.com/en/product/greenboard-kit-a4",
+    "pass": 3
+   },
+   {
+    "quote": "Smarsh® delivers cloud-based comprehensive archiving solutions for the information-driven enterprise. Smarsh's centralized platform provides a unified compliance and e-discovery workflow across the entire range of digital communications, including email, public …",
+    "url": "https://www.featuredcustomers.com/vendor/greenboard/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/greenboard/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/greenboard/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/538315-21",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/greenboard-revenue",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Results reported by each customer in their Greenboard case study; \"Est.\" figures are the customer's estimates.",
+    "url": "https://www.greenboard.com/book-demo?source=solutions_financial-advisors",
+    "pass": 1
+   },
+   {
+    "quote": "Results reported by each customer in their Greenboard case study; \"Est.\" figures are the customer's estimates.",
+    "url": "https://www.greenboard.com/book-demo?source=solutions_private-funds",
+    "pass": 1
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/greenboard/case-studies",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "本記事では、Greenboardのプロダクト構造、AIコンプライアンス市場の現状、競合のDrata・Vanta・Secureframeとの比較、そして日本企業（特に個人情報保護法・APPI対応やSOC 2取得を目指す国内SaaS企業）への影響を詳しく解説する",
+    "url": "https://kagiya-n.com/articles/greenboard-155m-series-a-ai-compliance-automation",
+    "pass": 3
+   },
+   {
+    "quote": "日本での影響——APPI対応とSOC 2取得需要の急増",
+    "url": "https://kagiya-n.com/articles/greenboard-155m-series-a-ai-compliance-automation",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業にとって、AIコンプライアンス自動化の波は3つの大きな意味を持つ",
+    "url": "https://kagiya-n.com/articles/greenboard-155m-series-a-ai-compliance-automation",
+    "pass": 3
+   },
+   {
+    "quote": "日本の個人情報保護法は2022年に大幅改正され、2025年・2027年にもさらなる改正が予定されている",
+    "url": "https://kagiya-n.com/articles/greenboard-155m-series-a-ai-compliance-automation",
+    "pass": 3
+   },
+   {
+    "quote": "GreenboardのようなAIコンプライアンスツールがAPPIに対応すれば、日本企業の負担は劇的に下がる",
+    "url": "https://kagiya-n.com/articles/greenboard-155m-series-a-ai-compliance-automation",
+    "pass": 3
+   },
+   {
+    "quote": "現状、Drataの日本法人（Drata Japan）やVantaも日本市場進出を始めているが、",
+    "url": "https://kagiya-n.com/articles/greenboard-155m-series-a-ai-compliance-automation",
+    "pass": 3
+   },
+   {
+    "quote": "日本のSaaS企業がグローバル展開する際、",
+    "url": "https://kagiya-n.com/articles/greenboard-155m-series-a-ai-compliance-automation",
+    "pass": 3
+   },
+   {
+    "quote": "になれば、日本のSaaS業界全体の国際競争力が底上げされる",
+    "url": "https://kagiya-n.com/articles/greenboard-155m-series-a-ai-compliance-automation",
+    "pass": 3
+   },
+   {
+    "quote": "日本ではISMS（情報セキュリティマネジメントシステム、ISO 27001ベース）の取得率が世界トップクラスで、すでに",
+    "url": "https://kagiya-n.com/articles/greenboard-155m-series-a-ai-compliance-automation",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場固有のニーズに合致する機能と言える",
+    "url": "https://kagiya-n.com/articles/greenboard-155m-series-a-ai-compliance-automation",
+    "pass": 3
+   },
+   {
+    "quote": "予測4: 日本市場での地殻変動",
+    "url": "https://kagiya-n.com/articles/greenboard-155m-series-a-ai-compliance-automation",
+    "pass": 3
+   },
+   {
+    "quote": "日本のコンプライアンス領域は長らく国内ベンダー（NRIセキュアテクノロジーズ、トーマツなど）が支配してきたが、AIネイティブなグローバルプレイヤーが2027年〜2028年にかけて急速にシェアを取る",
+    "url": "https://kagiya-n.com/articles/greenboard-155m-series-a-ai-compliance-automation",
+    "pass": 3
+   },
+   {
+    "quote": "日本のSaaS企業がSOC 2取得を3〜4ヶ月で完了する",
+    "url": "https://kagiya-n.com/articles/greenboard-155m-series-a-ai-compliance-automation",
+    "pass": 3
+   },
+   {
+    "quote": "読者（特に日本の経営者・セキュリティ責任者・SaaS創業者）が今取るべきアクションは以下の通りだ",
+    "url": "https://kagiya-n.com/articles/greenboard-155m-series-a-ai-compliance-automation",
+    "pass": 3
+   },
+   {
+    "quote": ": EU AI Act、日本のAI事業者ガイドラインへの対応をスタートする",
+    "url": "https://kagiya-n.com/articles/greenboard-155m-series-a-ai-compliance-automation",
+    "pass": 3
+   },
+   {
+    "quote": "金融の裏側を再設計する――AI × コンプライアンス、Greenboard CEO Dave Feldman氏がTokyo Founders’ Day 2025に登壇決定",
+    "url": "https://prtimes.jp/topics/keywords/Greenboard",
+    "pass": 3
+   },
+   {
+    "quote": "金融の裏側を再設計する――AI × コンプライアンス、Greenboard CEO Dave Feldman氏がTokyo Founders’ Day 2025に登壇決定 | TRANSPOSE PLATFORM MANAGEMENT, LLCのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000014.000172016.html",
+    "pass": 3
+   },
+   {
+    "quote": "金融の裏側を再設計する――AI × コンプライアンス、Greenboard CEO Dave Feldman氏がTokyo Founders’ Day 2025に登壇決定",
+    "url": "https://prtimes.jp/main/html/rd/p/000000014.000172016.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo Founders’ Day 2025",
+    "url": "https://prtimes.jp/main/html/rd/p/000000014.000172016.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo Founders’ Day 2025 — “Go Global From Day 1”",
+    "url": "https://prtimes.jp/main/html/rd/p/000000014.000172016.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本では産業革新投資機構（JIC）やIVSとの協働を通じ、“Go Global From Day 1”を文化として根付かせる取り組みを推進しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000014.000172016.html",
+    "pass": 3
+   },
+   {
+    "quote": "The blackboard, standing at the forefront of the classroom, records knowledge for us every day. When it first arrived in Japan during the Meiji era, it was literally a \"pitch-black board\" made by applying black paint to a wooden board.",
+    "url": "https://note.com/maroneko_manga/n/nf30c90e20ca2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "According to the Japan Blackboard Industry Federation, the \"blackboard\" that led to the current blackboard was introduced to Japan in 1872.",
+    "url": "https://note.com/xdh0002/n/nb362399ded47?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It is said that it was brought from the United States to the Daigaku Nanko, the predecessor of the current University of Tokyo.",
+    "url": "https://note.com/xdh0002/n/nb362399ded47?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "After that, the name \"kokuban\" (blackboard), which is a direct translation of \"blackboard,\" came to be used in Japan.",
+    "url": "https://note.com/xdh0002/n/nb362399ded47?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "They were introduced to Japan as \"blackboards.\"",
+    "url": "https://note.com/xdh0002/n/nb362399ded47?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Blackboard Industry Federation, \"History of Blackboards\"",
+    "url": "https://note.com/xdh0002/n/nb362399ded47?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Standards Association, \"JIS S 6007:2010 Blackboard\"",
+    "url": "https://note.com/xdh0002/n/nb362399ded47?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Greenboard $15.5M調達——AIで企業コンプライアンスを高速化 | KAGIYA ... — May 19, 2026 · 本記事では、Greenboardのプロダクト構造、AIコンプライアンス市場の現状、競合のDrata・Vanta・Secureframeとの比較、そして日本企業（特に個人情報保護法・APPI対応やSOC 2取得を目指す国内SaaS企業）への影響を詳しく解説する。",
+    "url": "https://kagiya-n.com/articles/greenboard-155m-series-a-ai-compliance-automation",
+    "pass": 3
+   },
+   {
+    "quote": "Greenboard: System of Action for Securities Compliance — Greenboard is the AI-native system of action for SEC and FINRA compliance: archiving, supervision, employee, marketing and firm compliance on one platform.",
+    "url": "https://www.greenboard.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Greenboardに関するプレスリリース・ニュースリリースのPR TIMES — Nov 11, 2025 · 金融の裏側を再設計する――AI × コンプライアンス、Greenboard CEO Dave Feldman氏がTokyo Founders’ Day 2025に登壇決定 6時間前 TRANSPOSE PLATFORM MANAGEMENT, LLC",
+    "url": "https://prtimes.jp/topics/keywords/Greenboard",
+    "pass": 3
+   },
+   {
+    "quote": "金融の裏側を再設計する――AI × コンプライアンス、Greenboard CEO Dav... — Nov 11, 2025 · ニューヨークを拠点に活動する Greenboard, Inc.（代表 Dave Feldman氏）は、こうした現状を「既存の枠組みでは、金融機関の運用力・信頼性を高める ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000014.000172016.html",
+    "pass": 3
+   },
+   {
+    "quote": "Greenboardの資金調達・投資家情報 | 海外スタートアップ | FIRST CVC — 手作業の大幅な削減と高精度なリスク検知を両立し、500社を超える金融機関に導入されています。 金融機関向けAIネイティブ・コンプライアンス管理プラットフォームの開発および提供。",
+    "url": "https://www.firstcvc.jp/global/greenboard.com",
+    "pass": 3
+   },
+   {
+    "quote": "Greenboard — Greenboard - Financial Compliance Operating System | greenboard.com",
+    "url": "https://my.greenboard.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Greenboard kit A4 - Nanban — This small but extraordinary A4 greenboard, is not only a practical and essential creation with a design that is as simple as it is flawless, but it is created within one of the most courageous projects of social inclusion of Japan, founded over 64 years",
+    "url": "https://www.nan-ban.com/en/product/greenboard-kit-a4",
+    "pass": 3
+   },
+   {
+    "quote": "GREENBOARD — The GREENBOARD magnetic writing board, which never consumes electricity and requires no ink, can save 700 sheets of paper a year! No consumables are needed for life, which not only saves money, but also eliminates the time spent on purchasing consumables, a double saving.",
+    "url": "https://www.greenboard.com.tw/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Greenboard: System of Action for Securities Compliance — Greenboard holds a strong fiduciary pact toward the betterment of our users, with governance mechanisms in place to ensure that responsibility continues no matter how the company grows.",
+    "url": "https://www.greenboard.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Green Board — GREENBOARD 磁気タブレットシリーズ製品 GREENBOARDの磁気電子ボード製品は、非常にクリーンで埃がなく、個人用の小型サイズからクリーンルーム用の大型サイズまで幅広く揃っており、メモ用紙の完璧な代替品です。",
+    "url": "https://greenboard.cc/jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Green Board — GREENBOARD 対応アクセサリー GreenBoardの磁気デジタルボードは超清潔で、ほこりのない環境を提供します。 個人使用向けの小型からクリーンルーム向けの大型まで取り揃え、付箋を完全に置き換えます。",
+    "url": "https://www.greenboard.cc/jp/productlist.html",
+    "pass": 3
+   },
+   {
+    "quote": "Compliance Case Studies | Greenboard Customers — As Greenboard's first endowment and nonprofit focused customer, TIFF helped shape the platform early, and now helps steer where it goes next. Read the case study",
+    "url": "https://www.greenboard.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "2 Greenboard Case Studies, Success Stories, & Customer ... — Discover how other companies use Greenboard, get inspired, and find ways to improve your business.",
+    "url": "https://www.featuredcustomers.com/vendor/greenboard/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Greenboard B2B Case Studies & Customer Successes — See how Greenboard solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/greenboard",
+    "pass": 3
+   },
+   {
+    "quote": "Greenboard 2026 Company Profile: Valuation, Funding ...Greenboard Revenue, Funding & Valuation - prospeo.ioGreenboard - 2026 Company Profile, Team, Funding ... - TracxnGreenboard – Industry Ranking & Company Valuation – 2026Greenboard: Funding, Team & Investors | Startup IntrosGreenboard Revenue 2024: $1.1M Est. - getlatka.comGreenboard — venture-backed company profile | Dealroom — Information on ",
+    "url": "https://pitchbook.com/profiles/company/538315-21",
+    "pass": 3
+   },
+   {
+    "quote": "Greenboard Revenue, Funding & Valuation - prospeo.io — Greenboard has revenue of $1,026,660, estimated valuation of $3,300,000, $5,000,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/greenboard-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Greenboard - 2026 Company Profile, Team, Funding ... - TracxnGreenboard – Industry Ranking & Company Valuation – 2026Greenboard: Funding, Team & Investors | Startup IntrosGreenboard Revenue 2024: $1.1M Est. - getlatka.comGreenboard — venture-backed company profile | Dealroom — Mar 8, 2026 · Greenboard - About the company Greenboard is a seed company based in Austin (United States), founded in 2023",
+    "url": "https://tracxn.com/d/companies/greenboard/__79vuCRZZUobjT6dWqx0E9MiPY9iJ9ewCdWeWptbxw6w",
+    "pass": 3
+   },
+   {
+    "quote": "Greenboard – Industry Ranking & Company Valuation – 2026 — Discover Greenboard's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/greenboard",
+    "pass": 3
+   },
+   {
+    "quote": "Greenboard: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Greenboard was founded in 2023 by Dave Feldman and Ed Schembor, who recognized firsthand the increasing difficulty financial institutions face in keeping up with evolving SEC regulations.",
+    "url": "https://startupintros.com/orgs/greenboard",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "[4-Panel Comic] Is the Name and Color Mismatched? The Reason ... Just like traffic lights being called \"blue\" (even though they are actually green), perhaps Japanese people have a tendency to cherish names once they are decided. Even in English, it is still common to call it a \"blackboard\" rather than a \"greenboard.\"",
+    "url": "https://note.com/maroneko_manga/n/nf30c90e20ca2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Everyday Why?] Why is the blackboard called a \"blackboard ... Aug 30, 2026 · Just because blackboards became green, it doesn't mean the name changed to \"greenboard.\" Only the name has been passed down while retaining its former appearance.",
+    "url": "https://note.com/xdh0002/n/nb362399ded47?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "[4-Panel Comic] Is the Name and Color Mismatched? The Reason Why the \"Blackboard\" Turned Green is Too Kind｜まろねこ＠noteで漫画家を目指す人。",
+    "url": "https://note.com/maroneko_manga/n/nf30c90e20ca2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[4-Panel Comic] Is the Name and Color Mismatched? The Reason Why the \"Blackboard\" Turned Green is Too Kind",
+    "url": "https://note.com/maroneko_manga/n/nf30c90e20ca2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The blackboard, standing at the forefront of the classroom, records knowledge for us every day. When it first arrived in Japan during the Meiji era, it was literally a \"pitch-black board\" made by applying black paint to a wooden board.",
+    "url": "https://note.com/maroneko_manga/n/nf30c90e20ca2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, as time went on, it became clear that the black board had a \"major problem.\" To solve that problem, a \"dark green\" color, which is gentle on the eyes, was chosen.",
+    "url": "https://note.com/maroneko_manga/n/nf30c90e20ca2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "🟢 In-depth Explanation: Why did \"green\" improve learning efficiency?",
+    "url": "https://note.com/maroneko_manga/n/nf30c90e20ca2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. The Great Shift from \"Black\" to \"Green\"",
+    "url": "https://note.com/maroneko_manga/n/nf30c90e20ca2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Blackboards were introduced to Japan in the early Meiji period. At that time, they were made of ebonite (hard rubber) or wooden boards coated with lacquer, so they were truly pitch black. However, during the period of rapid economic growth after the war, there was a growing movement to \"protect children's eyesight\" to improve the quality of education. That is when the relationship between contrast",
+    "url": "https://note.com/maroneko_manga/n/nf30c90e20ca2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "2. The Compatibility Between the Human Eye and \"Green\"",
+    "url": "https://note.com/maroneko_manga/n/nf30c90e20ca2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Everyday Why?] Why is the blackboard called a \"blackboard\" even though it's green? | Color | School Trivia｜きおう ろん",
+    "url": "https://note.com/xdh0002/n/nb362399ded47?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Everyday Why?] Why is the blackboard called a \"blackboard\" even though it's green? | Color | School Trivia",
+    "url": "https://note.com/xdh0002/n/nb362399ded47?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Think of a school classroom.",
+    "url": "https://note.com/xdh0002/n/nb362399ded47?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In front of you is a large green board.",
+    "url": "https://note.com/xdh0002/n/nb362399ded47?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The teacher writes letters with chalk and erases them with an eraser.",
+    "url": "https://note.com/xdh0002/n/nb362399ded47?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It is so familiar that I have never thought anything of it until now.",
+    "url": "https://note.com/xdh0002/n/nb362399ded47?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "……But, when you think about it, it's strange.",
+    "url": "https://note.com/xdh0002/n/nb362399ded47?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why is it called a \"blackboard\" when it's not black?",
+    "url": "https://note.com/xdh0002/n/nb362399ded47?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Greenboard (@GreenboardLMS) / X A new Greenboard app is coming your way this New Years! Students can finally get high-quality, distraction-free answers to questions about school, work, and random shower thoughts.",
+    "url": "https://x.com/GreenboardLMS",
+    "pass": 3
+   },
+   {
+    "quote": "Greenboard (@Greenboard3) / X 0 followers · 0 following. Joined Sep 2022. See the latest conversations with @Greenboard3",
+    "url": "https://x.com/Greenboard3",
+    "pass": 3
+   },
+   {
+    "quote": "Greenboard School ERP Software (@ErpGreenboard) / Posts / X Jul 19 We @greenboard provide the best school erp software to automate a school's diverse operations. 💬 0",
+    "url": "https://x.com/ErpGreenboard",
+    "pass": 3
+   },
+   {
+    "quote": "\"#greenboard\" - Results on X | Live Posts & Updates Greenboard, an AI-native platform for securities compliance now serving over 500 financial institutions, today announced it has raised $20 million in total funding, including a previously unannounced...",
+    "url": "https://x.com/hashtag/greenboard",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Greenboard - LinkedIn Fintechs, private funds, and wealth managers all use Greenboard to consolidate compliance software functionality onto a single modern platform that uses AI to detect risk and reduce tedium.",
+    "url": "https://www.linkedin.com/company/greenboard-compliance",
+    "pass": 3
+   },
+   {
+    "quote": "Greenboard - LinkedIn Greenboard is the sales and lead management platform built for furniture store owners. We help you turn walk-ins, website inquiries, and social media leads into real revenue.",
+    "url": "https://www.linkedin.com/company/greenboardapp",
+    "pass": 3
+   },
+   {
+    "quote": "Dave Feldman - Founder & CEO @ Greenboard | LinkedInJustin Myman - Growth @ Greenboard | LinkedInDave Frisone - Greenboard | LinkedInDerick Edwards - Greenboard | LinkedInJack Rasmussen - Building Customer Success @ Greenboard ... Founder & CEO @ Greenboard · Experience: Greenboard · Education: The Johns Hopkins University · Location: New York · 500+ connections on LinkedIn. Growth @ Greenboard · ",
+    "url": "https://www.linkedin.com/in/david-feldman",
+    "pass": 3
+   },
+   {
+    "quote": "Justin Myman - Growth @ Greenboard | LinkedInDave Frisone - Greenboard | LinkedInDerick Edwards - Greenboard | LinkedInJack Rasmussen - Building Customer Success @ Greenboard ... Growth @ Greenboard · Experience: Greenboard · Education: Arizona State University · Location: New York City Metropolitan Area · 500+ connections on LinkedIn. · Experience: Greenboard · Education: Fordham University · Loc",
+    "url": "https://www.linkedin.com/in/justinmyman",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Green Board - FacebookGreenBoard - FacebookGreenBoard | Warren OH - FacebookGreen Board - Green Board- the brand of Green ... - FacebookGreenboard - גרינבורד - FacebookGreenboard | Indianapolis IN - FacebookGreenBoard 板綠學會 | Hong Kong Hong Kong - Facebook Oct 15, 2026 · Green Board is live at IAB Build Expo 2026. You are cordially invited to experience the country's first architect grade board at ",
+    "url": "https://www.facebook.com/greenboardbd/",
+    "pass": 3
+   },
+   {
+    "quote": "GreenBoard - FacebookGreenBoard | Warren OH - FacebookGreen Board - Green Board- the brand of Green ... - FacebookGreenboard - גרינבורד - FacebookGreenboard | Indianapolis IN - FacebookGreenBoard 板綠學會 | Hong Kong Hong Kong - Facebook Aug 4, 2016 · GreenBoard. 982 followers. GreenBoard is here to help you reach right people for your trivial yet important tasks Aug 3, 2026 · GreenBoard IT LLC recycl",
+    "url": "https://www.facebook.com/greenboardutil/",
+    "pass": 3
+   },
+   {
+    "quote": "GreenBoard | Warren OH - FacebookGreen Board - Green Board- the brand of Green ... - FacebookGreenboard - גרינבורד - FacebookGreenboard | Indianapolis IN - FacebookGreenBoard 板綠學會 | Hong Kong Hong Kong - Facebook Aug 3, 2026 · GreenBoard IT LLC recycles electronics on behalf of businesses and individuals. We ensure all data bearing devices are sanitized of data and prevent toxic material within el",
+    "url": "https://www.facebook.com/GreenBoardIT/",
+    "pass": 3
+   },
+   {
+    "quote": "Greenboard - גרינבורד - FacebookGreenboard | Indianapolis IN - FacebookGreenBoard 板綠學會 | Hong Kong Hong Kong - Facebook Dec 17, 2023 · ⚡️ Greenboard Original X 2022 ⚡️ ‼️ זה רשמי! הוברבורד של 2022 הולך לצאת לגרינבורד בחודשיים הקרובים ‼️ 🔥 רוצים להיות מהראשונים שיקבלו את המכשיר החדש ? Sep 20, 2019 · Greenboard, Indianapolis. 103 likes. 1% for Education is a movement inspiring businesses and individ",
+    "url": "https://www.facebook.com/GreenboardOFFICIAL/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.greenboard.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greenboard.com/partnerships",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greenboard.com/solutions/financial-advisors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greenboard.com/solutions/private-funds",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greenboard.com/solutions/hedge-funds",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greenboard.com/solutions/broker-dealers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greenboard.com/solutions/fintech",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greenboard.com/solutions/ria-registration",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greenboard.com/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greenboard.com/solutions/small-firms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greenboard.com/solutions/growing-businesses",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greenboard.com/solutions/enterprise",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greenboard.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greenboard.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greenboard.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greenboard.com/case-studies/root-financial",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greenboard.com/case-studies/fsg-ica",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greenboard.com/case-studies/jmg-financial-group",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greenboard.com/book-demo?source=solutions_financial-advisors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greenboard.com/book-demo?source=solutions_private-funds",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.greenboard.com/images/partnerships/partner-financial-advisor-meeting-with-a-client.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.greenboard.com/images/partnerships/partner-team-reviewing-registration-documents.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.greenboard.com/images/partnerships/partner-investment-team-reviewing-a-portfolio.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.greenboard.com/images/partnerships/partner-hedge-fund-analyst-at-a-trading-screen.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://kagiya-n.com/articles/greenboard-155m-series-a-ai-compliance-automation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/topics/keywords/Greenboard",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000014.000172016.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://my.greenboard.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nan-ban.com/en/product/greenboard-kit-a4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greenboard.com.tw/en/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://greenboard.cc/jp/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/greenboard/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/greenboard",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/538315-21",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/greenboard-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/greenboard/__79vuCRZZUobjT6dWqx0E9MiPY9iJ9ewCdWeWptbxw6w",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/greenboard",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/maroneko_manga/n/nf30c90e20ca2?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/xdh0002/n/nb362399ded47?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/GreenboardLMS",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Greenboard3",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ErpGreenboard",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/greenboard",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/greenboard-compliance",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/greenboardapp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/david-feldman",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/justinmyman",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/greenboardbd/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/greenboardutil/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/GreenBoardIT/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/GreenboardOFFICIAL/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/GreenboardLMS",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Greenboard3",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Greenboard 日本 導入",
+   "results": [
+    "https://kagiya-n.com/articles/greenboard-155m-series-a-ai-compliance-automation",
+    "https://www.greenboard.com/",
+    "https://prtimes.jp/topics/keywords/Greenboard",
+    "https://prtimes.jp/main/html/rd/p/000000014.000172016.html",
+    "https://www.firstcvc.jp/global/greenboard.com",
+    "https://greenboard.cc/jp/index.html",
+    "https://greenboard.cc/jp/about.html",
+    "https://www.zeroboard.jp/news/3575"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Greenboard 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.greenboard.com/",
+    "https://my.greenboard.com/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.redhat.com/ja/explore/information/corporate-profile",
+    "https://www.aon.com/japan/company-overview",
+    "https://maymobility.com/ja"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Greenboard Japan",
+   "results": [
+    "https://www.nan-ban.com/en/product/greenboard-kit-a4",
+    "https://www.greenboard.com.tw/en/",
+    "https://www.greenboard.com/",
+    "https://greenboard.cc/jp/index.html",
+    "https://www.greenboard.cc/jp/productlist.html",
+    "https://www.amazon.co.jp/Green-Board-磁性電子ペーパー-繰り返し使えるペーパーレスパッド-マグネット付き・ペン＆イレーサー付属・防水防塵・反射なし/dp/B0FDQQBPH4",
+    "http://greenboard.com.tw/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Greenboard manufacturing customer case study",
+   "results": [
+    "https://www.greenboard.com/case-studies",
+    "https://www.greenboard.com/",
+    "https://www.featuredcustomers.com/vendor/greenboard/case-studies",
+    "https://www.casestudies.com/company/greenboard",
+    "https://www.casestudies.com/company/greenboard/case-study/jmg-financial-group-cuts-compliance-onboarding-time-by-60-with-greenboard",
+    "https://www.greenboard.app/blog/why-we-built-greenboard/",
+    "https://www.tcs.com/what-we-do/industries/manufacturing/case-studies"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Greenboard white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://reseller.amazon.com/",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Greenboard founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/538315-21",
+    "https://prospeo.io/c/greenboard-revenue",
+    "https://tracxn.com/d/companies/greenboard/__79vuCRZZUobjT6dWqx0E9MiPY9iJ9ewCdWeWptbxw6w",
+    "https://compworth.com/company/greenboard",
+    "https://startupintros.com/orgs/greenboard",
+    "https://getlatka.com/companies/greenboard.com",
+    "https://dealroom.co/companies/greenboard/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Greenboard",
+   "results": [
+    "https://note.com/maroneko_manga/n/nf30c90e20ca2?hl=en",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/xdh0002/n/nb362399ded47?hl=en",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Greenboard",
+   "results": [
+    "https://x.com/GreenboardLMS",
+    "https://x.com/Greenboard3",
+    "https://x.com/ErpGreenboard",
+    "https://x.com/hashtag/greenboard",
+    "https://x.com/greenboardil",
+    "https://x.com/badlogicgames/status/2107378814896558210",
+    "https://x.com/schembor"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Greenboard",
+   "results": [
+    "https://www.linkedin.com/company/greenboard-compliance",
+    "https://www.linkedin.com/company/greenboardapp",
+    "https://www.linkedin.com/in/david-feldman",
+    "https://www.linkedin.com/in/justinmyman",
+    "https://www.linkedin.com/in/davefrisone1",
+    "https://www.linkedin.com/in/derick-edwards-38b25275",
+    "https://www.linkedin.com/in/j-rasmussen"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Greenboard",
+   "results": [
+    "https://www.facebook.com/greenboardbd/",
+    "https://www.facebook.com/greenboardutil/",
+    "https://www.facebook.com/GreenBoardIT/",
+    "https://www.facebook.com/GreenboardOFFICIAL/",
+    "https://www.facebook.com/Greenboardorg/",
+    "https://www.facebook.com/StudentBooksStudentBooks/",
+    "https://www.facebook.com/greenboardbd/posts/green-board-the-brand-of-green-board-fiber-mills-limited-officially-started-its-/227844460378341/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Greenboard note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://note.jp/n/n10ae3b3f8acd",
+    "https://www.buffett-code.com/company/5243/governance",
+    "https://note.com/sadaaki",
+    "https://www.zaikai.jp/articles/detail/2552"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Greenboard X 投稿",
+   "results": [
+    "https://x.com/GreenboardLMS",
+    "https://x.com/Greenboard3",
+    "https://www.greenboard.fun/",
+    "https://www.greenboard.com/",
+    "https://my.greenboard.com/",
+    "https://greenboard.cc/jp/index.html",
+    "http://greenboard.com.tw/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部35頁・検索12回）"
+ }
+}

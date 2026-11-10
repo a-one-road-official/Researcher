@@ -757,3 +757,109 @@
 - 「だった母親のもと9歳までを中国で育ち、父親の日本企業への就職に伴い10歳で来日」（https://ja.wikipedia.org/wiki/%E6%A2%A8%E8%A1%A3%E5%90%8D）
 - 「家庭環境の影響で日本語/中国語/英語が堪能で特技は」（https://ja.wikipedia.org/wiki/%E6%A2%A8%E8%A1%A3%E5%90%8D）
 - 「How CHRISTUS Health drove AI adoption across 51,000 employees」（https://leena.ai/）
+
+## Kognitiv Spark（https://www.kognitivspark.com/）
+- 「Kognitiv Spark Partners with Japanese Hardware Firm」（https://entrevestor.com/home/entry/kognitiv-spark-partners-with-japanese-hardware-firm）
+- 「has partnered with Japanese technology company HMS Inc. to integrate HMS’s SiNGRAY G2 augmented reality glasses with Kognitiv Spark’s RemoteSpark platform for remote support of industrial workers.」（https://entrevestor.com/home/entry/kognitiv-spark-partners-with-japanese-hardware-firm）
+- 「HMS, headquartered in Fukuoka, Japan, specializes in AI-driven image processing, visual simultaneous localization and mapping (VSLAM), and edge computing. The company said it has shipped more than 32,000 3D sensing devices to industrial customers in Japan.」（https://entrevestor.com/home/entry/kognitiv-spark-partners-with-japanese-hardware-firm）
+
+## Klevu（https://www.klevu.com）
+- 「この開発者は日本語での直接的なサポートを提供していません」（https://apps.shopify.com/klevu-smart-search?locale=ja）
+
+## Justt（https://justt.ai）
+- 「Every email and LinkedIn message can pull in prospect-specific details like recent LinkedIn posts, company news, or industry context, then rewrite the message around them. Support for 21+ languages means your clients running outreach in German, Spanish, or Japanese do not need to hire a copywriter p」（https://www.salesforge.ai/blog/white-label-software）
+- 「You get the builder in English, Spanish, French, German, Portuguese, Italian, Dutch, Russian, Chinese, Japanese, Arabic, and 15 more. Handy if you resell to clients outside English-speaking markets.」（https://www.salesforge.ai/blog/white-label-software）
+- 「$199/month (monthly billing, as listed on the vendor's pricing page)」（https://www.salesforge.ai/blog/white-label-software）
+
+## Jovian（https://www.jovian.com/）
+- 「UCLAバークレーのPhysics 101は日本の普通の大学だと200番台、場合によっては300番台になるのだろうな」（https://jovian-cinephile1002.hatenablog.com/entry/2026/02/27/215337）
+- 「Research Fellow of Japan Society for the Promotion of Sciencec (PD)」（https://profs.provost.nagoya-u.ac.jp/html/100000927_en.html）
+- 「Research Fellow of Japan Society for the Promotion of Sciencec (DC)」（https://profs.provost.nagoya-u.ac.jp/html/100000927_en.html）
+
+## Jetpack CRM（https://jetpackcrm.com/）
+- 「Jetpack CRM 日本語版（2026年11月10日更新）：WordPressサイトでの顧客管理を徹底解説【2026年最新】」（https://www.acciyo.com/ja/jetpack-crm-%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%89%88%EF%BC%9Awordpress%E3%82%B5%E3%82%A4%E3%83%88%E3%81%A7%E3%81%AE%E9%A1%A7%E5%AE%A2%E7%AE%A1%E7%90%86%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%E3%80%902025%E5%B9%B4%E6%9C%80%E6%96%B0%E3%80%91/）
+- 「Jetpack CRMは日本語に対応していますか？ はい、Jetpack CRMは日本語インターフェースをサポートしており、WordPressサイトで日本のユーザーが顧客情報を効果的に管理できるように設計されています」（https://www.acciyo.com/ja/jetpack-crm-%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%89%88%EF%BC%9Awordpress%E3%82%B5%E3%82%A4%E3%83%88%E3%81%A7%E3%81%AE%E9%A1%A7%E5%AE%A2%E7%AE%A1%E7%90%86%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%E3%80%902025%E5%B9%B4%E6%9C%80%E6%96%B0%E3%80%91/）
+- 「会社名、住所、通貨（日本円 JPY）などを設定します」（https://www.acciyo.com/ja/jetpack-crm-%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%89%88%EF%BC%9Awordpress%E3%82%B5%E3%82%A4%E3%83%88%E3%81%A7%E3%81%AE%E9%A1%A7%E5%AE%A2%E7%AE%A1%E7%90%86%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%E3%80%902025%E5%B9%B4%E6%9C%80%E6%96%B0%E3%80%91/）
+- 「, a France based Leisure and Hospitality organisation with 17000 employees and revenues of $69.00 billion,」（https://www.appsruntheworld.com/customers-database/products/view/automattic-jetpack-crm）
+
+## Invoid（https://www.invoid.co/）
+- 「あなたの30分が溶ける、今絶対に観るべきNetflix Japan 1位の最新作！[映画紹介]」（https://www.youtube.com/watch?v=7oY5SlvwmCo）
+
+## Invofox（https://www.invofox.com/）
+- 「日本の帳票形式や税務サービスとの接続は、実際のサンプルで別途確認が必要です」（https://aitrovex.com/ja/tool/invofox）
+
+## Intelligencenode（https://www.intelligencenode.com/）
+- 「Japan Data Communications Association. (2021). The Act on the Protection of Personal Information and the Telecommunications Business Act.」（https://note.com/tanakaminoru_/n/n349354443554?hl=en）
+- 「Acquired by Interpublic (NYSE: IPG) in December 2024 and now part of Omnicom (NYSE: OMC).」（https://www.intelligencenode.com/）
+
+## Intelligems（https://www.intelligems.io）
+- 「：CVRだけでなくProfit per Visitorで意思決定できるのは、日本のEC事業者にとって新鮮かつ実用的」（https://note.com/solvomind_ishii/n/nb9fb18da5313）
+- 「：ストアのデフォルト通貨が日本円なら問題なし」（https://note.com/solvomind_ishii/n/nb9fb18da5313）
+- 「日本のShopifyストア運営者にとって、Intelligemsの魅力は「価格と送料のA/Bテスト」という、他のツールではなかなかできないことが手軽にできる点です」（https://note.com/solvomind_ishii/n/nb9fb18da5313）
+- 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/intelligems/case-studies）
+
+## Inkeep（https://inkeep.com）
+- 「INKEEP Mushroom Matcha – Japanese Matcha with 7 Adaptogenic Mushrooms for Smooth Energy & Focus, 30 Servings」（https://drinkinkeep.com/）
+- 「INKEEP Mushroom Matcha – Japanese Matcha with 7 Adaptogenic Mushrooms for Smooth Energy & Focus, 30 Servings」（https://drinkinkeep.com/pages/about-us）
+- 「その技術的革新性と、日本のビジネス・開発現場に与える示唆を掘り下げます」（https://note.com/pippinxpippin/n/n8c96b89ce0c3）
+
+## Incrmntal（https://www.incrmntal.com）
+- 「日本の広告主・DSPも同様の課題を抒えるかも」（https://note.com/synthlog/n/ncf462959e77f）
+- 「《Commentary》 The shift from last-click attribution to incrementality measurement is truly a "demand of the times." As AI agents enter the ad buying space, the attribution model itself needs to be redesigned. Japanese advertisers and DSPs may face similar challenges.」（https://note.com/synthlog/n/ncf462959e77f?hl=en）
+
+## Hypotenuse（https://hypotenuse.ai/）
+- 「hypotenuse とは 日本語訳と意味 | Goong.com - 新世代の辞書」（https://goong.com/ja/word/hypotenuse-%E3%81%A8%E3%81%AF-%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A8%B3%E3%81%A8%E6%84%8F%E5%91%B3/）
+- 「hypotenuse とは 日本語訳と意味」（https://goong.com/ja/word/hypotenuse-%E3%81%A8%E3%81%AF-%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A8%B3%E3%81%A8%E6%84%8F%E5%91%B3/）
+- 「日本語WordNet(英和)での「hypotenuse」の意味」（https://ejje.weblio.jp/content/hypotenuse）
+
+## Hyperbound（https://www.hyperbound.ai/）
+- 「Hyperbound currently supports these 25+ languages, and more upon request: English, Spanish, French / French-Canadian, German, Italian, Polish, Portuguese, Swedish, Romanian, Czech, Danish, Dutch (NL), Chinese (Mandarin), Cantonese (HK), Vietnamese, Japanese, Korean, Hebrew, Gujarati, Hindi, Indonesi」（https://www.hyperbound.ai/）
+- 「Hyperbound currently supports these 25+ languages, and more upon request: English, Spanish, French / French-Canadian, German, Italian, Polish, Portuguese, Swedish, Romanian, Czech, Danish, Dutch (NL), Chinese (Mandarin), Cantonese (HK), Vietnamese, Japanese, Korean, Hebrew, Gujarati, Hindi, Indonesi」（https://www.hyperbound.ai/industries/b2b-sales-trainers-agencies）
+- 「Hyperbound currently supports these 25+ languages, and more upon request: English, Spanish, French / French-Canadian, German, Italian, Polish, Portuguese, Swedish, Romanian, Czech, Danish, Dutch (NL), Chinese (Mandarin), Cantonese (HK), Vietnamese, Japanese, Korean, Hebrew, Gujarati, Hindi, Indonesi」（https://www.hyperbound.ai/partners）
+
+## Humanly（https://www.humanly.io）
+- 「humanly 日本語 | Goong.com - 新世代の辞書」（https://goong.com/ja/word/humanly_%E6%97%A5%E6%9C%AC%E8%AA%9E/）
+- 「日本語WordNet(英和)での「humanly」の意味」（https://ejje.weblio.jp/content/humanly）
+- 「Company size: 1,001–5,000 employees」（https://www.humanly.io/case-studies/reid-health）
+
+## Hirebotics（https://hirebotics.com/）
+- 「Yes. The FANUC CRX-10iA/L Paint is the world's first explosion-proof collaborative paint cobot. It's certified IECEx and ATEX with approvals for the U.S., Canada, Japan, Korea, China, Taiwan, and Brazil. Built-in force sensing lets it work safely alongside your team in spray environments.」（https://www.hirebotics.com/solutions/cobot-painter/）
+- 「製造環境における協働ロボット（Cobot）の採用は、欧米ではすでに一般的だが、日本の製造業でも関心が高まりつつある」（https://roboticstrend.net/2026/08/11/tate%E3%80%81hirebotics%E8%A3%BD%E3%82%B3%E3%83%9C%E3%83%83%E3%83%88%E6%BA%B6%E6%8E%A5%E6%A9%9F58%E5%8F%B0%E3%82%92%E4%B8%80%E6%8B%AC%E5%B0%8E%E5%85%A5/）
+- 「日本の製造業においても、特に地方の中堅・小規模製造企業での導入が期待される」（https://roboticstrend.net/2026/08/11/tate%E3%80%81hirebotics%E8%A3%BD%E3%82%B3%E3%83%9C%E3%83%83%E3%83%88%E6%BA%B6%E6%8E%A5%E6%A9%9F58%E5%8F%B0%E3%82%92%E4%B8%80%E6%8B%AC%E5%B0%8E%E5%85%A5/）
+- 「8️⃣ Infinium Robotics：AI倉庫ドローンが欧州上場プラットフォームへ」（https://note.com/yasuhitoo/n/nbb62b594df6c）
+
+## Hipeople（https://www.hipeople.io/）
+- 「HiPeopleは、2018年に設立された日本のスタートアップ企業、アズーレから提供されるクラウド型コンタクトセンターソリューションです」（https://serverside.jp/hipeople/）
+- 「DAZN is a global sports streaming service offering live and on-demand content across more than 200 countries and territories. With approximately 2,400 employees in 25 countries, the company serves millions of users and handles high-volume customer interactions across diverse markets.」（https://www.hipeople.io/customer-stories/dazn）
+
+## Heyreach（https://www.heyreach.io）
+- 「日本語UI・日本語サポートの対応範囲は本記事では確認できていないため、必要なら契約前に問い合わせましょう」（https://kaigai-saas.com/heyreach/）
+- 「この記事は日本語の解説ですが、日本語UI・日本語サポートの対応範囲は確認できていません」（https://kaigai-saas.com/heyreach/）
+- 「必要な操作や問い合わせが日本語で完結するかは、契約前に公式へ確認してください」（https://kaigai-saas.com/heyreach/）
+- 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/heyreach/case-studies）
+
+## Haut（https://haut.ai）
+- 「List of regions of Japan - Wikipedia」（https://en.wikipedia.org/wiki/List_of_regions_of_Japan）
+- 「List of regions of Japan」（https://en.wikipedia.org/wiki/List_of_regions_of_Japan）
+- 「of Japan, namely」（https://en.wikipedia.org/wiki/List_of_regions_of_Japan）
+
+## Haddock（https://haddock.app）
+- 「日本語版記事がリダイレクトの仮リンクを含む記事」（https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%83%84%E3%82%AD%E3%83%80%E3%83%A9）
+- 「haddock とは 日本語訳と意味 | Goong.com - 新世代の辞書」（https://goong.com/ja/word/haddock-%E3%81%A8%E3%81%AF-%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A8%B3%E3%81%A8%E6%84%8F%E5%91%B3/）
+- 「Also called Sablefish or Butterfish, it dwells the colder waters of Pacific near Alaska and British Columbia. It’s madly appreciated in Japan where they know their fish and its value, and virtually unavailable in Europe or at least as beknown to me.」（https://www.cuisinefiend.com/743/miso-haddock）
+
+## Gorgias（https://www.gorgias.com）
+- 「日本ではまだ馴染みのないGorgiasだが、アメリカではD2Cブランドにとって必須のサービスとなりつつある」（https://note.com/cerealtalk/n/n2ce1753268e6）
+- 「日本のブランドも、ヘルプデスクとしてすでにZendeskをはじめとする既存サービスを導入しているケースが多い」（https://note.com/cerealtalk/n/n2ce1753268e6）
+- 「一方で、Gorgiasは日本語対応していないため日本企業が取り入れるには言語のハードルが高い」（https://note.com/cerealtalk/n/n2ce1753268e6）
+- 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/gorgias/case-studies）
+
+## Goodie（https://higoodie.com）
+- 「goodie foodie Japan - Enjoy your Japanese Eats the Smart Way」（https://goodie-foodie.com/en/）
+- 「Japanese Convenience Store Fried Chicken Guide: 7-Eleven, Lawson & FamilyMart Compared」（https://goodie-foodie.com/en/）
+- 「What Is Himokawa Udon? How to Eat Japan’s Ultra-Wide Flat Noodles」（https://goodie-foodie.com/en/）
+
+## Gojiberry AI（https://gojiberry.ai/）
+- 「それが「Gojiberry」で、毎月の売上は42万4,368ドル、日本円で約6,800万円です」（https://note.com/yuki0627/n/n3e8164a762f3?hl=en）
+- 「LinkedIn は日本では転職サービスとして知られていますが、法人営業の連絡手段としても使われています」（https://note.com/yuki0627/n/n3e8164a762f3?hl=en）
+- 「日本の EDOCODE という会社が運営する同名のアプリで、この記事で扱う gojiberry.ai とは関係がありません」（https://note.com/yuki0627/n/n3e8164a762f3?hl=en）

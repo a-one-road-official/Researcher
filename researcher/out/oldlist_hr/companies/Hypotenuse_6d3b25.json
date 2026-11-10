@@ -1,0 +1,1552 @@
+{
+ "name": "Hypotenuse",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-10T14:38:42.705630+00:00",
+ "official_url": "https://hypotenuse.ai/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "09-Jan-2021    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/439521-40",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Double click into the component to add or edit the content inside.",
+    "url": "https://www.hypotenuse.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The system of intelligence behind ecommerce product information",
+    "url": "https://www.hypotenuse.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "An AI-first PIM for ecommerce. Runs product data enrichment across your catalog, writes on-brand descriptions and perfects catalog images for SEO and GEO.",
+    "url": "https://www.hypotenuse.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "to manage and optimize your ecommerce products",
+    "url": "https://www.hypotenuse.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Track performance and optimize content",
+    "url": "https://www.hypotenuse.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor product performance and keep content optimized for search and AI discovery.",
+    "url": "https://www.hypotenuse.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for enterprises",
+    "url": "https://www.hypotenuse.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Create on-brand content that scales with peace of mind.",
+    "url": "https://www.hypotenuse.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Create on-brand content that scale with a peace of mind.",
+    "url": "https://www.hypotenuse.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Data privacy & security",
+    "url": "https://www.hypotenuse.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Enrich product attributes in a centralized repository",
+    "url": "https://www.hypotenuse.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Generate and optimize product page content",
+    "url": "https://www.hypotenuse.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Enhance and standardize product images with AI",
+    "url": "https://www.hypotenuse.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Frame products with precision",
+    "url": "https://www.hypotenuse.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Place products in lifestyle scenes",
+    "url": "https://www.hypotenuse.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Track and monitor product performance",
+    "url": "https://www.hypotenuse.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Get your products discovered by AI and search engines",
+    "url": "https://www.hypotenuse.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Visibility today goes beyond traditional SEO. Hypotenuse AI enriches your catalog with accurate product data and context-aware descriptions that highlight use cases and benefits — helping your products surface wherever customers search.",
+    "url": "https://www.hypotenuse.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "A lot of tools promise to boost productivity, but Hypotenuse AI has literally tripled our team's output, and with better quality! We were onboarding hundreds of products a week with little to no usable information. Hypotenuse turned this into a scalable workflow where every PDP goes live with complete, accurate, and AEO/SEO‑ready content that drives stronger conversion performance.",
+    "url": "https://www.hypotenuse.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you’re looking to upgrade your living room or spruce up your patio, this coffee table will add warmth and character to your space.",
+    "url": "https://www.hypotenuse.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI platform for fashion ecommerce product data and content - Hypotenuse AI",
+    "url": "https://www.hypotenuse.ai/industries/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Double click into the component to add or edit the content inside.",
+    "url": "https://www.hypotenuse.ai/industries/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "AI product content platform for",
+    "url": "https://www.hypotenuse.ai/industries/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 fashion brands use Hypotenuse AI to auto-tag products and generate descriptions that encapsulate their brand tone of voice. Launch collections fast with optimized product pages.",
+    "url": "https://www.hypotenuse.ai/industries/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Generate product descriptions in bulk",
+    "url": "https://www.hypotenuse.ai/industries/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Generate nuanced product descriptions and titles optimized for SEO and GEO, tailored to each product’s style, color, and audience intent.",
+    "url": "https://www.hypotenuse.ai/industries/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Translate and localize product pages",
+    "url": "https://www.hypotenuse.ai/industries/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Define your brand persona, whether edgy, elegant, or minimalist, and generate content that fits it perfectly.",
+    "url": "https://www.hypotenuse.ai/industries/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Apply brand rules automatically, from preferred adjectives and banned words to slang or tone.",
+    "url": "https://www.hypotenuse.ai/industries/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Enhance product data and taxonomy",
+    "url": "https://www.hypotenuse.ai/industries/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically tag products",
+    "url": "https://www.hypotenuse.ai/industries/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "and improve fashion taxonomy for product discoverability.",
+    "url": "https://www.hypotenuse.ai/industries/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Standardize units of measure, abbreviations and image backgrounds and proportions.",
+    "url": "https://www.hypotenuse.ai/industries/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate growth with bulk generation and product page optimization.",
+    "url": "https://www.hypotenuse.ai/industries/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Get your product pages out in record time. Reduce manual effort in generating fashion product descriptions and images by leveraging AI.",
+    "url": "https://www.hypotenuse.ai/industries/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Outrank competitors across search and AI discovery with optimized product and category pages. Uncover long-tail fashion keywords that attract high-intent, ready-to-buy shoppers.",
+    "url": "https://www.hypotenuse.ai/industries/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Improve product detail accuracy",
+    "url": "https://www.hypotenuse.ai/industries/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically flag and correct inaccurate attributes with our enrichment feature. Ensure your product pages state the right size and material so shoppers buy the right products.",
+    "url": "https://www.hypotenuse.ai/industries/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Explore insights on fashion ecommerce product data and content",
+    "url": "https://www.hypotenuse.ai/industries/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Dive into expert insights, strategies, and best practices for growth in fashion ecommerce.",
+    "url": "https://www.hypotenuse.ai/industries/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "While MESHKI has been known for their strong influencer and social media strategy, we don’t give enough credit to their equally-impressive SEO strategy. So, how does MESHKI dominate search? We took a deep dive into their website and uncovered some key insights.",
+    "url": "https://www.hypotenuse.ai/industries/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "AI platform for furniture ecommerce product data and content - Hypotenuse AI",
+    "url": "https://www.hypotenuse.ai/industries/furniture",
+    "pass": 1
+   },
+   {
+    "quote": "Double click into the component to add or edit the content inside.",
+    "url": "https://www.hypotenuse.ai/industries/furniture",
+    "pass": 1
+   },
+   {
+    "quote": "AI content platform for",
+    "url": "https://www.hypotenuse.ai/industries/furniture",
+    "pass": 1
+   },
+   {
+    "quote": "Top home & living brands use Hypotenuse AI to generate engaging and accurate product descriptions. Ensure uniformity across your catalog with standardized, high-quality images.",
+    "url": "https://www.hypotenuse.ai/industries/furniture",
+    "pass": 1
+   },
+   {
+    "quote": "Create high-quality, standardized product images",
+    "url": "https://www.hypotenuse.ai/industries/furniture",
+    "pass": 1
+   },
+   {
+    "quote": "Generate product descriptions in bulk",
+    "url": "https://www.hypotenuse.ai/industries/furniture",
+    "pass": 1
+   },
+   {
+    "quote": "Generate detailed product descriptions in bulk that highlight materials, craftsmanship, and use cases.",
+    "url": "https://www.hypotenuse.ai/industries/furniture",
+    "pass": 1
+   },
+   {
+    "quote": "Translate and localize product pages",
+    "url": "https://www.hypotenuse.ai/industries/furniture",
+    "pass": 1
+   },
+   {
+    "quote": "Standardize product data in",
+    "url": "https://www.hypotenuse.ai/industries/furniture",
+    "pass": 1
+   },
+   {
+    "quote": "to improve how shoppers search, filter, and explore collections.",
+    "url": "https://www.hypotenuse.ai/industries/furniture",
+    "pass": 1
+   },
+   {
+    "quote": "AI product data enrichment for furniture",
+    "url": "https://www.hypotenuse.ai/industries/furniture",
+    "pass": 1
+   },
+   {
+    "quote": "Automate repetitive tasks like writing product descriptions or planning photoshoots. Bring new collections online in a fraction of the time.",
+    "url": "https://www.hypotenuse.ai/industries/furniture",
+    "pass": 1
+   },
+   {
+    "quote": "Outrank competitors across search and AI discovery with optimized product and category pages. Capture long-tail keywords that reach high-intent shoppers.",
+    "url": "https://www.hypotenuse.ai/industries/furniture",
+    "pass": 1
+   },
+   {
+    "quote": "Improve shopper experience and reduce returns",
+    "url": "https://www.hypotenuse.ai/industries/furniture",
+    "pass": 1
+   },
+   {
+    "quote": "Explore insights on furniture ecommerce product data and content",
+    "url": "https://www.hypotenuse.ai/industries/furniture",
+    "pass": 1
+   },
+   {
+    "quote": "Dive into expert insights, strategies, and best practices for growth in furniture ecommerce.",
+    "url": "https://www.hypotenuse.ai/industries/furniture",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how to optimize your ecommerce website's structure with SEO taxonomy best practices. Our guide covers different taxonomies, examples, and tips to improve search visibility.",
+    "url": "https://www.hypotenuse.ai/industries/furniture",
+    "pass": 1
+   },
+   {
+    "quote": "SEO for Furniture Stores: A Comprehensive Guide",
+    "url": "https://www.hypotenuse.ai/industries/furniture",
+    "pass": 1
+   },
+   {
+    "quote": "Learn proven SEO techniques to increase your furniture store's web traffic, rankings, and sales. Our comprehensive guide covers optimizing pages, content, local SEO and more.",
+    "url": "https://www.hypotenuse.ai/industries/furniture",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by leading global brands and Fortune 500 ecommerce teams",
+    "url": "https://www.hypotenuse.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading global brands and Fortune 500 ecommerce teams",
+    "url": "https://www.hypotenuse.ai/industries/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading global brands and Fortune 500 ecommerce teams",
+    "url": "https://www.hypotenuse.ai/industries/furniture",
+    "pass": 1
+   },
+   {
+    "quote": "AI platform for industrial supplies ecommerce product data and content - Hypotenuse AI",
+    "url": "https://www.hypotenuse.ai/industries/industrial-supplies",
+    "pass": 1
+   },
+   {
+    "quote": "ecommerce industrial supplies",
+    "url": "https://www.hypotenuse.ai/industries/industrial-supplies",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading global brands and Fortune 500 ecommerce teams",
+    "url": "https://www.hypotenuse.ai/industries/industrial-supplies",
+    "pass": 1
+   },
+   {
+    "quote": "a PIM built for industrial supplies",
+    "url": "https://www.hypotenuse.ai/industries/industrial-supplies",
+    "pass": 1
+   },
+   {
+    "quote": "Explore insights on industrial supplies ecommerce product data and content",
+    "url": "https://www.hypotenuse.ai/industries/industrial-supplies",
+    "pass": 1
+   },
+   {
+    "quote": "Dive into expert insights, strategies, and best practices for growth in industrial supplies ecommerce.",
+    "url": "https://www.hypotenuse.ai/industries/industrial-supplies",
+    "pass": 1
+   },
+   {
+    "quote": "Electronics manufacturers and distributors use Hypotenuse AI to enrich product data, create detail-rich product descriptions, and edit product images in bulk.",
+    "url": "https://www.hypotenuse.ai/industries/electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading global brands and Fortune 500 ecommerce teams",
+    "url": "https://www.hypotenuse.ai/industries/electronics",
+    "pass": 1
+   },
+   {
+    "quote": "AI platform for automotive ecommerce product data and content - Hypotenuse AI",
+    "url": "https://www.hypotenuse.ai/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive brands and distributors use Hypotenuse AI to enrich product data, generate detailed product content, and standardize product images across extensive and complex catalogs.",
+    "url": "https://www.hypotenuse.ai/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading global brands and Fortune 500 ecommerce teams",
+    "url": "https://www.hypotenuse.ai/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "From product data to visuals, Hypotenuse AI helps automotive brands and distributors turn raw specs into accurate, high-quality listings.",
+    "url": "https://www.hypotenuse.ai/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Stay ahead of the competition with AI built for automotive",
+    "url": "https://www.hypotenuse.ai/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading global brands and Fortune 500 ecommerce teams",
+    "url": "https://www.hypotenuse.ai/industries/beauty-personal-care",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive brands and distributors use Hypotenuse AI to enrich product data, generate detailed product content, and standardize product images—across extensive and complex catalogs.",
+    "url": "https://www.hypotenuse.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Electronics manufacturers and distributors use Hypotenuse AI to enrich product data, create detail-rich product descriptions, and edit product images in bulk.",
+    "url": "https://www.hypotenuse.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading global brands and Fortune 500 ecommerce teams",
+    "url": "https://www.hypotenuse.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading global brands and Fortune 500 ecommerce teams",
+    "url": "https://www.hypotenuse.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading global brands and Fortune 500 ecommerce teams",
+    "url": "https://www.hypotenuse.ai/features/ai-batch-editor",
+    "pass": 1
+   },
+   {
+    "quote": "Ecommerce distributors, who often work with products from multiple manufacturers, frequently encounter poor-quality or inconsistent product photos that require extensive editing.",
+    "url": "https://www.hypotenuse.ai/features/ai-batch-editor",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading global brands and Fortune 500 ecommerce teams",
+    "url": "https://www.hypotenuse.ai/industries/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: a leading cocoa products manufacturer accelerates product content creation with Hypotenuse AI | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/hypotenuse-ai/case-study/how-hypotenuse-ai-integrated-with-pim-system-to-generate-product-descriptions-at-scale",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: a leading cocoa products manufacturer accelerates product content creation with Hypotenuse AI",
+    "url": "https://www.casestudies.com/company/hypotenuse-ai/case-study/how-hypotenuse-ai-integrated-with-pim-system-to-generate-product-descriptions-at-scale",
+    "pass": 3
+   },
+   {
+    "quote": "The customer, a leading cocoa products manufacturer, struggled with slow manual content creation for its vast catalog of over 50,000 products. With only 40 content creators, the team could not meet the demand for high-quality product descriptions, titles, and specifications, making it challenging to keep up with their growing inventory.",
+    "url": "https://www.casestudies.com/company/hypotenuse-ai/case-study/how-hypotenuse-ai-integrated-with-pim-system-to-generate-product-descriptions-at-scale",
+    "pass": 3
+   },
+   {
+    "quote": "Hypotenuse AI integrated directly with the customer's PIM system to automate content generation. This solution created over 50,000 unique product pages and enabled a tenfold increase in content creation speed and a 72% reduction in time-to-market, allowing the manufacturer to scale its content effortlessly and boost customer engagement.",
+    "url": "https://www.casestudies.com/company/hypotenuse-ai/case-study/how-hypotenuse-ai-integrated-with-pim-system-to-generate-product-descriptions-at-scale",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/hypotenuse-ai/case-study/how-hypotenuse-ai-integrated-with-pim-system-to-generate-product-descriptions-at-scale",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Cocoa Products Manufacturer",
+    "url": "https://www.casestudies.com/company/hypotenuse-ai/case-study/how-hypotenuse-ai-integrated-with-pim-system-to-generate-product-descriptions-at-scale",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/hypotenuse-ai/case-study/how-hypotenuse-ai-integrated-with-pim-system-to-generate-product-descriptions-at-scale",
+    "pass": 3
+   },
+   {
+    "quote": "Apparel Manufacturing",
+    "url": "https://www.casestudies.com/company/hypotenuse-ai",
+    "pass": 3
+   },
+   {
+    "quote": "a leading cocoa products manufacturer accelerates product content creation with Hypotenuse AI",
+    "url": "https://www.casestudies.com/company/hypotenuse-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Cocoa Products Manufacturer",
+    "url": "https://www.casestudies.com/company/hypotenuse-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Volcom’s 50% Cost & 83% Time Savings with AI",
+    "url": "https://www.hypotenuse.ai/customer-stories/volcom-time-and-cost-savings",
+    "pass": 3
+   },
+   {
+    "quote": "[Certified Manufacturing Technologist] CMfgT 300 True/False Questions Covering the 8 Key Areas! 2026 Edition｜直前ノート",
+    "url": "https://note.com/chokuzen_note/n/n4423c999bacc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Certified Manufacturing Technologist] CMfgT 300 True/False Questions Covering the 8 Key Areas! 2026 Edition",
+    "url": "https://note.com/chokuzen_note/n/n4423c999bacc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Even after finishing your study for the Certified Manufacturing Technologist (CMfgT), do you ever get confused by similar terms, such as Brinell hardness vs. Vickers hardness, clearance fit vs. interference fit, or a-contact vs. b-contact?",
+    "url": "https://note.com/chokuzen_note/n/n4423c999bacc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The exam scope covers 8 areas, ranging from mathematics and materials to manufacturing management and teamwork.",
+    "url": "https://note.com/chokuzen_note/n/n4423c999bacc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "🔶 Chapter 3: Manufacturing Process Applications and Operations (54 questions)",
+    "url": "https://note.com/chokuzen_note/n/n4423c999bacc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "🔶 Chapter 7: Manufacturing Management (30 questions)",
+    "url": "https://note.com/chokuzen_note/n/n4423c999bacc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In Chapters 1 through 3, you can review the basics of mathematics and materials, as well as product and process design and manufacturing processes.",
+    "url": "https://note.com/chokuzen_note/n/n4423c999bacc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In Chapters 4 through 8, you can review production systems and equipment, automation and control, quality, manufacturing management, and individual skills and teamwork.",
+    "url": "https://note.com/chokuzen_note/n/n4423c999bacc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Certified Manufacturing Technologist CMfgT 2-Book Set",
+    "url": "https://note.com/chokuzen_note/n/n4423c999bacc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I sincerely wish you success in passing the Certified Manufacturing Technologist (CMfgT) certification exam.",
+    "url": "https://note.com/chokuzen_note/n/n4423c999bacc?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Trusted by leading global brands and Fortune 500 ecommerce teams",
+    "url": "https://www.hypotenuse.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 fashion brands use Hypotenuse AI to auto-tag products and generate descriptions that encapsulate their brand tone of voice. Launch collections fast with optimized product pages.",
+    "url": "https://www.hypotenuse.ai/industries/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading global brands and Fortune 500 ecommerce teams",
+    "url": "https://www.hypotenuse.ai/industries/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading global brands and Fortune 500 ecommerce teams",
+    "url": "https://www.hypotenuse.ai/industries/furniture",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading global brands and Fortune 500 ecommerce teams",
+    "url": "https://www.hypotenuse.ai/industries/industrial-supplies",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading global brands and Fortune 500 ecommerce teams",
+    "url": "https://www.hypotenuse.ai/industries/electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading global brands and Fortune 500 ecommerce teams",
+    "url": "https://www.hypotenuse.ai/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading global brands and Fortune 500 ecommerce teams",
+    "url": "https://www.hypotenuse.ai/industries/beauty-personal-care",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 fashion brands use Hypotenuse AI to auto tag products and generate descriptions that encapsulate their brand tone of voice. Launch collections fast with optimized product pages.",
+    "url": "https://www.hypotenuse.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading global brands and Fortune 500 ecommerce teams",
+    "url": "https://www.hypotenuse.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Hypotenuse AI is SOC 2 Type II compliant, with controls covering security, availability, and confidentiality. All data is encrypted in transit and at rest, with role-based access controls and enterprise-grade security practices. We support security reviews and compliance questionnaires as part of procurement.",
+    "url": "https://www.hypotenuse.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How multi-brand retailer Baskèts grew revenue by over 150% with Hypotenuse AI",
+    "url": "https://www.hypotenuse.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading global brands and Fortune 500 ecommerce teams",
+    "url": "https://www.hypotenuse.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading global brands and Fortune 500 ecommerce teams",
+    "url": "https://www.hypotenuse.ai/features/ai-batch-editor",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading global brands and Fortune 500 ecommerce teams",
+    "url": "https://www.hypotenuse.ai/industries/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Baskèts achieves 152.5% revenue growth with Hypotenuse AI",
+    "url": "https://www.casestudies.com/company/hypotenuse-ai",
+    "pass": 3
+   },
+   {
+    "quote": "How Hypotenuse AI helped Fortune 500 brand create stellar product copy",
+    "url": "https://www.casestudies.com/company/hypotenuse-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Fortune 500 Clothing Retailer",
+    "url": "https://www.casestudies.com/company/hypotenuse-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Over the years, Volcom has built a vibrant community of athletes, artists, and musicians. And with that, they’ve significantly expanded their product range, diversifying their offerings to include a wide array of apparel, accessories, and gear that cater to the surf, skate, and snowboarding communities.",
+    "url": "https://www.hypotenuse.ai/customer-stories/volcom-time-and-cost-savings",
+    "pass": 3
+   },
+   {
+    "quote": "The risk was that they might have had to delay the launch or proceed without copy, which hurts revenue and impacts organic traffic. Additionally, sparse product pages would be damaging to the brand’s image and negatively impact conversion rates,",
+    "url": "https://www.hypotenuse.ai/customer-stories/volcom-time-and-cost-savings",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/439521-40",
+    "pass": 3
+   },
+   {
+    "quote": "Hypotenuse AI has 20 total employees.",
+    "url": "https://pitchbook.com/profiles/company/439521-40",
+    "pass": 3
+   },
+   {
+    "quote": "What is Hypotenuse AI’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/439521-40",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Hypotenuse AI is",
+    "url": "https://pitchbook.com/profiles/company/439521-40",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Define your brand persona, whether edgy, elegant, or minimalist, and generate content that fits it perfectly.",
+    "url": "https://www.hypotenuse.ai/industries/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Adjust lighting, poses, and backgrounds to match your brand’s aesthetic and current trends.",
+    "url": "https://www.hypotenuse.ai/industries/fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Want your brand to show up in AI search results? This guide breaks down how to optimize your product pages, what else to improve across your website, and which platforms to focus on to earn those mentions.",
+    "url": "https://www.hypotenuse.ai/industries/industrial-supplies",
+    "pass": 1
+   },
+   {
+    "quote": "Want your brand to show up in AI search results? This guide breaks down how to optimize your product pages, what else to improve across your website, and which platforms to focus on to earn those mentions.",
+    "url": "https://www.hypotenuse.ai/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how to govern AI product copy with clear rules, clean product data, and guardrails. Keep content accurate, compliant, and aligned with your brand.",
+    "url": "https://www.hypotenuse.ai/industries/beauty-personal-care",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how to optimize your ecommerce product content and data for AI shopping engines like ChatGPT, Perplexity, Google Shopping, and Amazon Rufus—so your brand gets discovered in AI-generated recommendations.",
+    "url": "https://www.hypotenuse.ai/industries/beauty-personal-care",
+    "pass": 1
+   },
+   {
+    "quote": "AI trained to generate content following your brand guidelines.",
+    "url": "https://www.hypotenuse.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Check content and product data against your brand, legal, channel and data quality rules before publishing.",
+    "url": "https://www.hypotenuse.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Edit every product image to your brand standards in bulk. AI applies your background, crop, resolution, and quality rules consistently across the catalog.",
+    "url": "https://www.hypotenuse.ai/features/ai-batch-editor",
+    "pass": 1
+   },
+   {
+    "quote": "Every image checked against your brand standards before it joins the catalog. Multi-retailer ready.",
+    "url": "https://www.hypotenuse.ai/features/ai-batch-editor",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies serving ecommerce brands",
+    "url": "https://www.hypotenuse.ai/features/ai-batch-editor",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies, especially those serving fast-moving ecommerce brands, can use our batch AI photo editor to quickly enhance product images for clients, freeing up time and resources. Image editing with our AI allows them to focus on other campaign aspects. By automating repetitive editing tasks, agencies can improve efficiency, deliver projects faster, and ultimately provide more value to their clients.",
+    "url": "https://www.hypotenuse.ai/features/ai-batch-editor",
+    "pass": 1
+   },
+   {
+    "quote": "AI platform for agencies specialized in ecommerce product data and content - Hypotenuse AI",
+    "url": "https://www.hypotenuse.ai/industries/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "ecommerce marketing agencies",
+    "url": "https://www.hypotenuse.ai/industries/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how to optimize your ecommerce product content and data for AI shopping engines like ChatGPT, Perplexity, Google Shopping, and Amazon Rufus—so your brand gets discovered in AI-generated recommendations.",
+    "url": "https://www.hypotenuse.ai/industries/agencies",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us for more seats or words",
+    "url": "https://www.hypotenuse.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/439521-40",
+    "pass": 3
+   },
+   {
+    "quote": "Generates product descriptions, SEO blog posts, social media captions, email campaigns, and more.",
+    "url": "https://startupintros.com/orgs/hypotenuse-ai",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "hypotenuse とは 日本語訳と意味 | Goong.com - 新世代の辞書",
+    "url": "https://goong.com/ja/word/hypotenuse-%E3%81%A8%E3%81%AF-%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A8%B3%E3%81%A8%E6%84%8F%E5%91%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "hypotenuse とは 日本語訳と意味",
+    "url": "https://goong.com/ja/word/hypotenuse-%E3%81%A8%E3%81%AF-%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A8%B3%E3%81%A8%E6%84%8F%E5%91%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語WordNet(英和)での「hypotenuse」の意味",
+    "url": "https://ejje.weblio.jp/content/hypotenuse",
+    "pass": 3
+   },
+   {
+    "quote": "Unlike the actual exam, which requires comparing multiple-choice options, each question tests only one piece of knowledge, so you can immediately identify which numerical values or terms are causing you confusion. The question text and explanations are written in Japanese, with English terms and abbreviations provided alongside.",
+    "url": "https://note.com/chokuzen_note/n/n4423c999bacc?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "斜辺 - Wikipedia — 斜辺 直角三角形 ABC の斜辺は 線分 AB で、その長さは c である。 斜辺 （しゃへん、hypotenuse）とは、 直角三角形 において、 直角 に対する 辺 のことである。 直角三角形の斜辺は三辺の中で最も長く、その長さは ピタゴラスの定理 により求めることができる。",
+    "url": "https://ja.wikipedia.org/wiki/斜辺",
+    "pass": 3
+   },
+   {
+    "quote": "hypotenuse とは 日本語訳と意味 | Goong.com - 新世代の辞書 — 文法的・構造的ニュアンス: 英語の「hypotenuse」は名詞で、具体的に定義されているため、特に側面の（例えば直角三角形の）一部分を指す用語です。 例えば「the hypotenuse of a right triangle」は、直角三角形の特定の辺を指します。",
+    "url": "https://goong.com/ja/word/hypotenuse-とは-日本語訳と意味/",
+    "pass": 3
+   },
+   {
+    "quote": "「hypotenuse」の意味・使い方・読み方・例文・コアイメージ・類義語... — 直角三角形では、斜辺は最も長い辺です。 ・ 直角に向かい合う位置にあり、長さが最も大きい辺である斜辺を指す・ hypotenuseは、ギリシャ語 hypoteinousa をラテン語とフランス語を経て英語に取り入れられ、数学用語として斜辺を示す語に定着した",
+    "url": "https://motitown.com/vocabulary/word/hypotenuse",
+    "pass": 3
+   },
+   {
+    "quote": "英語「hypotenuse」の意味・使い方・読み方 | Weblio英和辞書 — The length of the hypotenuse of a right triangle can be found using the Pythagorean theorem, which states that the square of the length of the hypotenuse equals the sum of the squares of the lengths of the other two sides.",
+    "url": "https://ejje.weblio.jp/content/hypotenuse",
+    "pass": 3
+   },
+   {
+    "quote": "hypotenuse - 和訳 – Linguee辞書 — \"hypotenuse\"の用例多数 – 単語の意味がわかる英和辞書および英語と日本語の対訳検索エンジン",
+    "url": "https://www.linguee.jp/英語-日本語/翻訳/hypotenuse.html",
+    "pass": 3
+   },
+   {
+    "quote": "HYPOTENUSE translation in Japanese | English-Japanese ... — Understand the exact meaning of \"hypotenuse\" and learn how to use it correctly in any context. Examples come from millions of authentic texts: movie dialogues, news articles, official documents, and more.",
+    "url": "https://dictionary.reverso.net/english-japanese/hypotenuse",
+    "pass": 3
+   },
+   {
+    "quote": "hypotenuse in Japanese - hypotenuse meaning in Japanese ... — What is the meaning of hypotenuse in Japanese and how to say hypotenuse in Japanese? hypotenuse Japanese meaning, translation, pronunciation, synonyms and example sentences are provided by ichacha.net.",
+    "url": "https://eng.ichacha.net/japanese/hypotenuse.html",
+    "pass": 3
+   },
+   {
+    "quote": "hypotenuse in Japanese - English-Japanese Dictionary | Glosbe — Check 'hypotenuse' translations into Japanese. Look through examples of hypotenuse translation in sentences, listen to pronunciation and learn grammar.",
+    "url": "https://glosbe.com/en/ja/hypotenuse",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Success Stories | Hypotenuse AI — Read real customer stories who have found success using our services. Learn how we provide elegant AI solutions to help businesses of all sizes.",
+    "url": "https://www.hypotenuse.ai/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Hypotenuse AI B2B Case Studies & Customer Successes — See how Hypotenuse AI solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/hypotenuse-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Volcom’s 50% Cost & 83% Time Savings with AI — With Hypotenuse AI, Volcom successfully met the compressed timeline, delivering high-quality, on-brand product page content. They also provided their wholesalers with comprehensive, ready-to-use information and copy. The team now relies on Hypotenuse AI daily.",
+    "url": "https://www.hypotenuse.ai/customer-stories/volcom-time-and-cost-savings",
+    "pass": 3
+   },
+   {
+    "quote": "6 Hypotenuse Labs Case Studies, Success Stories, & Customer ... — Narrow down 6 case studies by company size & industry to find out how Hypotenuse Labs works for a business like yours.",
+    "url": "https://www.featuredcustomers.com/vendor/hypotenuse-labs/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Hypotenuse - 2026 Company Profile, Team, Funding ... - Tracxn — Jan 27, 2026 · Hypotenuse - About the company Hypotenuse is a seed company based in Mountain View (United States), founded in 2020 by Joshua Wong. It operates as a Provider of AI-based platform to generate product descriptions for eCommerce. Hypotenuse has raised $150K in funding from Y Combinator.",
+    "url": "https://tracxn.com/d/companies/hypotenuse/__c-VULykYqkA3wtZDH-nxxPBd8Rz9YF67YgHFzLW-bdE",
+    "pass": 3
+   },
+   {
+    "quote": "Hypotenuse AI 2026 Company Profile: Valuation, Funding ...Hypotenuse AI – Financials, Industry Trends & Funding Info – 2026Hypotenuse AI: Funding, Team & Investors | Startup IntrosHypotenuse AI Revenue 2024: $3M Est. - getlatka.comHypotenuse Revenue, Funding & Valuation - prospeo.ioHypotenuse AI - Crunchbase Company Profile & Funding — Information on valuation, funding, cap tables, investors, and ",
+    "url": "https://pitchbook.com/profiles/company/439521-40",
+    "pass": 3
+   },
+   {
+    "quote": "Hypotenuse AI – Financials, Industry Trends & Funding Info – 2026 — Discover Hypotenuse AI's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/hypotenuse-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Hypotenuse AI: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · The company has generated $2.4 million in revenue and operates with a team of between 10 and 23 employees. It secured $150,000 in seed funding from investors including Y Combinator, Smile Group, Farquhar Venture Capital, and Allison Pickens. Hypotenuse AI was founded in 2020 by Joshua Wong.",
+    "url": "https://startupintros.com/orgs/hypotenuse-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Hypotenuse AI Revenue 2024: $3M Est. - getlatka.com — Oct 30, 2026 · Hypotenuse AI is a Product Information Management (PIM) Systems company based in Singapore, founded in 2020.",
+    "url": "https://getlatka.com/companies/hypotenuse.ai",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "What are acute angle trigonometric ratios sin, cos, and tan ... Trigonometric ratios are the ratios of two sides of a right-angled triangle. sin θ = opposite side ÷ hypotenuse, cos θ = adjacent side ÷ hypotenuse, tan θ = opposite side ÷ adjacent side. There are three: sin (sine), cos (cosine), and tan (tangent), and all of them are simply definitions that determine \"which ratio of sides\" to use. I",
+    "url": "https://note.com/eichi_furueki/n/n243fd8a40607?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How to find trigonometric ratios for obtuse angles: sin, cos ... The hypotenuse is OP = r, the adjacent side is OH = x, and the opposite side is PH = y. Therefore, from the definition of acute angles, we have the following: Even if you change the size of the circle, the ratios do not change because they are similar. And in tan θ = y ÷ x, r has disappeared. For obtuse angles, you cannot create a ri",
+    "url": "https://note.com/eichi_furueki/n/n9b39e0f7af70?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Certified Manufacturing Technologist] CMfgT 300 True/False ... Oct 28, 2026 · In a right-angled triangle, the value obtained by dividing the length of the side opposite an acute angle by the length of the hypotenuse is the sine (sin) of that angle.",
+    "url": "https://note.com/chokuzen_note/n/n4423c999bacc?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "What are acute angle trigonometric ratios sin, cos, and tan? Explaining the basics from definitions to how to find them｜英智学館古川駅前校",
+    "url": "https://note.com/eichi_furueki/n/n243fd8a40607?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What are acute angle trigonometric ratios sin, cos, and tan? Explaining the basics from definitions to how to find them",
+    "url": "https://note.com/eichi_furueki/n/n243fd8a40607?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hello, I am Teacher Fumufumu from Eichi Gakukan Furukawa Station School.",
+    "url": "https://note.com/eichi_furueki/n/n243fd8a40607?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Trigonometric ratios are the ratios of two sides of a right-angled triangle. sin θ = opposite side ÷ hypotenuse, cos θ = adjacent side ÷ hypotenuse, tan θ = opposite side ÷ adjacent side.",
+    "url": "https://note.com/eichi_furueki/n/n243fd8a40607?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "There are three: sin (sine), cos (cosine), and tan (tangent), and all of them are just definitions that determine 'which ratio of sides' to use. It can be confusing at first, but it is fine if you check them one by one.",
+    "url": "https://note.com/eichi_furueki/n/n243fd8a40607?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Trigonometric ratios are a new topic learned in high school Mathematics I. In this article, starting from",
+    "url": "https://note.com/eichi_furueki/n/n243fd8a40607?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "why angles can be expressed by the ratio of sides",
+    "url": "https://note.com/eichi_furueki/n/n243fd8a40607?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", I will explain the definitions, the values for 30°, 45°, and 60°, and how to find side lengths, starting from the basics. I will proceed together with Teacher Naruhodo, who will act as the questioner.",
+    "url": "https://note.com/eichi_furueki/n/n243fd8a40607?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How to find trigonometric ratios for obtuse angles: sin, cos, tan | Values and signs for 120°, 135°, and 150°｜英智学館古川駅前校",
+    "url": "https://note.com/eichi_furueki/n/n9b39e0f7af70?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How to find trigonometric ratios for obtuse angles: sin, cos, tan | Values and signs for 120°, 135°, and 150°",
+    "url": "https://note.com/eichi_furueki/n/n9b39e0f7af70?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hello, I am Mr. Fumu-Fumu from the Furukawa Station branch of Eichi Gakukan.",
+    "url": "https://note.com/eichi_furueki/n/n9b39e0f7af70?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Trigonometric ratios for obtuse angles (angles greater than 90° and less than 180°) are considered using coordinates.",
+    "url": "https://note.com/eichi_furueki/n/n9b39e0f7af70?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On a circle with a radius of 1 (unit circle), if we let P(x, y) be the point rotated by θ from the positive direction of the x-axis, then",
+    "url": "https://note.com/eichi_furueki/n/n9b39e0f7af70?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "cos θ = x, sin θ = y, tan θ = y ÷ x",
+    "url": "https://note.com/eichi_furueki/n/n9b39e0f7af70?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". Since x is negative for obtuse angles,",
+    "url": "https://note.com/eichi_furueki/n/n9b39e0f7af70?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "cos and tan are negative values",
+    "url": "https://note.com/eichi_furueki/n/n9b39e0f7af70?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Certified Manufacturing Technologist] CMfgT 300 True/False Questions Covering the 8 Key Areas! 2026 Edition｜直前ノート",
+    "url": "https://note.com/chokuzen_note/n/n4423c999bacc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Certified Manufacturing Technologist] CMfgT 300 True/False Questions Covering the 8 Key Areas! 2026 Edition",
+    "url": "https://note.com/chokuzen_note/n/n4423c999bacc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "*Last updated: 2026-10-28",
+    "url": "https://note.com/chokuzen_note/n/n4423c999bacc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "*Target audience for this article: Exams for the 2026 fiscal year (April 2026 to March 2027)",
+    "url": "https://note.com/chokuzen_note/n/n4423c999bacc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Even after finishing your study for the Certified Manufacturing Technologist (CMfgT), do you ever get confused by similar terms, such as Brinell hardness vs. Vickers hardness, clearance fit vs. interference fit, or a-contact vs. b-contact?",
+    "url": "https://note.com/chokuzen_note/n/n4423c999bacc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Such confusion can be reduced by",
+    "url": "https://note.com/chokuzen_note/n/n4423c999bacc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "repeatedly determining whether statements are correct or incorrect after swapping numerical values, terms, and subjects.",
+    "url": "https://note.com/chokuzen_note/n/n4423c999bacc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Therefore, based on the CMfgT Body of Knowledge provided by SME, I have compiled",
+    "url": "https://note.com/chokuzen_note/n/n4423c999bacc?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "𝝙 hypotenuse.io (@hypotenuseio) / X Geometry is everywhere. Hypotenuse helps you find it. An Augmented Reality Geometry Drawing Game for iOS",
+    "url": "https://x.com/hypotenuseio",
+    "pass": 3
+   },
+   {
+    "quote": "Hypotenuse (@Sillie_sharkiee) / X Hypotenuse @Sillie_sharkiee Nov 1 Took a nap earlier and I dreamt Waxwell as a lizard (?) or whatever this creature is😭He's fucking hideous omg squish it squish it😭😭😭 #waxwell #dandysworld",
+    "url": "https://x.com/Sillie_sharkiee",
+    "pass": 3
+   },
+   {
+    "quote": "大杨 | AI知识库 on X: \"♾ Hypotenuse AI：智能写作与文本生成工具 Hy... ♾ Hypotenuse AI：智能写作与文本生成工具 Hypotenuse AI 是一款人工智能写作助手和文本生成器，帮助用户快速构思、撰写和完善各类内容，适合个人创作者、营销人员及企业团队。 1️⃣ 主要用途 → 根据主题、关键词或简要需求生成文本内容。",
+    "url": "https://x.com/DaYang_AI/status/2120003011204595891",
+    "pass": 3
+   },
+   {
+    "quote": "Hypotenuse on X: \"#waxwell stop staring at #soulvester you're ... #waxwell stop staring at #soulvester you're making him uncomfortable with your ugly eyes #flameknight 28 Oct 2026 04:04:19",
+    "url": "https://x.com/Sillie_sharkiee/status/2115293560925004127",
+    "pass": 3
+   },
+   {
+    "quote": "hypotenuse (@hypotenuse_x) / X hypotenuse @hypotenuse_x jab tk wo hai kuch nhi ho skta team ka Joined July 2025 21 Following",
+    "url": "https://x.com/hypotenuse_x",
+    "pass": 3
+   },
+   {
+    "quote": "Kanoguti on X: \"HSPプログラムコンテスト2026にて、僕のミュージック... HSPプログラムコンテスト2026にて、僕のミュージックビデオ作品の「Hypotenuse」を投稿しております。 #hsp3 https://t.co/CYc0mvbfDs 22 Oct 2026 11:41:00",
+    "url": "https://x.com/kanoguti93/status/2113234159246233969",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Hypotenuse - LinkedIn Hypotenuse is one of the India’s leading strategic brand transformation company, born in India to cater the world. We create brands that don’t just look good but have a ‘promise’ to make ...",
+    "url": "https://www.linkedin.com/company/hypotenuse",
+    "pass": 3
+   },
+   {
+    "quote": "Hypotenuse AI - LinkedIn Hypotenuse AI | 14,812 followers on LinkedIn. The AI-first PIM for enterprise ecommerce teams | Hypotenuse AI is an AI-first PIM for enterprise ecommerce teams.",
+    "url": "https://www.linkedin.com/company/hypotenuse-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Hypotenuse AI - LinkedIn Hypotenuse AI is an AI-first PIM for enterprise ecommerce teams. Manage product information, assets and content in one system, with AI doing the tedious work for you: enriching product data,...",
+    "url": "https://sg.linkedin.com/company/hypotenuse-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Hypotenuse | LinkedIn Hypotenuse is one of the India’s leading strategic brand transformation company, born in India to cater the world. We create brands that don’t just look good but have a ‘promise’ to make and...",
+    "url": "https://in.linkedin.com/company/hypotenuse",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Hypotenuse AI - Facebook Jul 2, 2025 · Hypotenuse AI. 149 likes. Hypotenuse is an AI agent platform for ecommerce brands to enrich product data, edit images, and create product descriptions in...",
+    "url": "https://www.facebook.com/hypotenuseai/",
+    "pass": 3
+   },
+   {
+    "quote": "Altitude Cuts The Hypotenuse Into 4 And 9 - Facebook Altitude Cuts The Hypotenuse Into 4 And 9 — Is It 6.5, Or 6? A right triangle. The altitude to the hypotenuse cuts it into pieces of 4 and 9. How long is the altitude? Is it 6.5? Lock in your answer before you watch. It's 6. The altitude makes two smaller triangles similar to the big one, so altitude ÷ 4 = 9 ÷ altitude and altitude² = 36.",
+    "url": "https://www.facebook.com/mathrescueph/videos/altitude-cuts-the-hypotenuse-into-4-and-9-is-it-65-or-6a-right-triangle-the-alti/1171837578700169/",
+    "pass": 3
+   },
+   {
+    "quote": "Hypotenuse.io - Facebook Jan 26, 2026 · Hypotenuse is a geometrical drawing app that allows you to discover the wonders of the universal language of mathematics in art, architecture, and in the world around you.",
+    "url": "https://www.facebook.com/hypotenuseapp/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.hypotenuse.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hypotenuse.ai/industries/fashion",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hypotenuse.ai/industries/furniture",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hypotenuse.ai/industries/industrial-supplies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hypotenuse.ai/industries/electronics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hypotenuse.ai/industries/automotive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hypotenuse.ai/industries/beauty-personal-care",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hypotenuse.ai/industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hypotenuse.ai/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hypotenuse.ai/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hypotenuse.ai/features/ai-batch-editor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hypotenuse.ai/industries/agencies",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%96%9C%E8%BE%BA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://goong.com/ja/word/hypotenuse-%E3%81%A8%E3%81%AF-%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A8%B3%E3%81%A8%E6%84%8F%E5%91%B3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://motitown.com/vocabulary/word/hypotenuse",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ejje.weblio.jp/content/hypotenuse",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linguee.jp/英語-日本語/翻訳/hypotenuse.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://dictionary.reverso.net/english-japanese/hypotenuse",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://eng.ichacha.net/japanese/hypotenuse.html",
+    "status": "http_520",
+    "method": "http"
+   },
+   {
+    "url": "https://glosbe.com/en/ja/hypotenuse",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hypotenuse.ai/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/hypotenuse-ai/case-study/how-hypotenuse-ai-integrated-with-pim-system-to-generate-product-descriptions-at-scale",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/hypotenuse-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hypotenuse.ai/customer-stories/volcom-time-and-cost-savings",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/hypotenuse/__c-VULykYqkA3wtZDH-nxxPBd8Rz9YF67YgHFzLW-bdE",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/439521-40",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/hypotenuse-ai",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/hypotenuse-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/eichi_furueki/n/n243fd8a40607?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/eichi_furueki/n/n9b39e0f7af70?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/chokuzen_note/n/n4423c999bacc?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hypotenuseio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Sillie_sharkiee",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/DaYang_AI/status/2120003011204595891",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Sillie_sharkiee/status/2115293560925004127",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/hypotenuse",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/hypotenuse-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sg.linkedin.com/company/hypotenuse-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/hypotenuse",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hypotenuseai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mathrescueph/videos/altitude-cuts-the-hypotenuse-into-4-and-9-is-it-65-or-6a-right-triangle-the-alti/1171837578700169/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hypotenuseapp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hypotenuse_x",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/kanoguti93/status/2113234159246233969",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Hypotenuse 日本 導入",
+   "results": [
+    "https://ja.wikipedia.org/wiki/斜辺",
+    "https://goong.com/ja/word/hypotenuse-とは-日本語訳と意味/",
+    "https://motitown.com/vocabulary/word/hypotenuse",
+    "https://ejje.weblio.jp/content/hypotenuse",
+    "https://www.linguee.jp/英語-日本語/翻訳/hypotenuse.html",
+    "https://reibun-eigo.com/entry-hypotenuse/",
+    "https://blogrou.com/hypotenuse-ai/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hypotenuse 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hypotenuse Japan",
+   "results": [
+    "https://www.linguee.jp/英語-日本語/翻訳/hypotenuse.html",
+    "https://dictionary.reverso.net/english-japanese/hypotenuse",
+    "https://eng.ichacha.net/japanese/hypotenuse.html",
+    "https://glosbe.com/en/ja/hypotenuse",
+    "https://ejje.weblio.jp/content/hypotenuse",
+    "https://www.linguee.com/english-japanese/translation/hypotenuse.html",
+    "https://mymemory.translated.net/en/English/Japanese/hypotenuse"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hypotenuse manufacturing customer case study",
+   "results": [
+    "https://www.hypotenuse.ai/customer-stories",
+    "https://www.casestudies.com/company/hypotenuse-ai/case-study/how-hypotenuse-ai-integrated-with-pim-system-to-generate-product-descriptions-at-scale",
+    "https://www.casestudies.com/company/hypotenuse-ai",
+    "https://www.hypotenuse.ai/customer-stories/volcom-time-and-cost-savings",
+    "https://www.featuredcustomers.com/vendor/hypotenuse-labs/case-studies",
+    "https://www.hypotenuselabs.com/case-studies",
+    "https://www.featuredcustomers.com/vendor/hypotenuse-labs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hypotenuse white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://partner.vw.com/partner",
+    "https://www.resellercluster.com/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hypotenuse founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/hypotenuse/__c-VULykYqkA3wtZDH-nxxPBd8Rz9YF67YgHFzLW-bdE",
+    "https://pitchbook.com/profiles/company/439521-40",
+    "https://compworth.com/company/hypotenuse-ai",
+    "https://startupintros.com/orgs/hypotenuse-ai",
+    "https://getlatka.com/companies/hypotenuse.ai",
+    "https://prospeo.io/c/hypotenuse-revenue",
+    "https://www.crunchbase.com/organization/hypotenuse"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Hypotenuse",
+   "results": [
+    "https://note.com/tag/ポリティカルパン",
+    "https://note.com/eichi_furueki/n/n243fd8a40607?hl=en",
+    "https://note.com/eichi_furueki/n/n9b39e0f7af70?hl=en",
+    "https://note.com/chokuzen_note/n/n4423c999bacc?hl=en",
+    "https://note.com/tokyo_juken_navi/n/n99017627bb4e?hl=en",
+    "https://note.com/kousotsu_papa_ai/n/n0916a097c038?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Hypotenuse",
+   "results": [
+    "https://x.com/hypotenuseio",
+    "https://x.com/Sillie_sharkiee",
+    "https://x.com/DaYang_AI/status/2120003011204595891",
+    "https://x.com/Sillie_sharkiee/status/2115293560925004127",
+    "https://x.com/Sillie_sharkiee/status/2117895714512753085",
+    "https://x.com/Sillie_sharkiee/status/2116504437992870170",
+    "https://x.com/ThinkTwice7585/status/2120117555830628591"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Hypotenuse",
+   "results": [
+    "https://www.linkedin.com/company/hypotenuse",
+    "https://www.linkedin.com/company/hypotenuse-ai",
+    "https://sg.linkedin.com/company/hypotenuse-ai",
+    "https://in.linkedin.com/company/hypotenuse",
+    "https://ca.linkedin.com/company/hypotenuselabs",
+    "https://in.linkedin.com/company/hypotenuseanalytics",
+    "https://ca.linkedin.com/in/matthewnreyes"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Hypotenuse",
+   "results": [
+    "https://www.facebook.com/hypotenuseai/",
+    "https://www.facebook.com/mathrescueph/videos/altitude-cuts-the-hypotenuse-into-4-and-9-is-it-65-or-6a-right-triangle-the-alti/1171837578700169/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/hypotenuseapp/",
+    "https://www.facebook.com/fb-answers/how-to-identify-hypotenuse-in-triangle/",
+    "https://www.facebook.com/realsheetmetalsamurai/videos/heres-a-simple-math-trick-every-fabricator-should-know-multiply-the-leg-length-o/1115886817694395/",
+    "https://www.facebook.com/ramon.asuero/videos/since-triangle-hbf-is-right-angled-at-b-with-bh-12-and-hypotenuse-hf-20-the-pyth/1398075572135268/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hypotenuse note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://note.com/sadaaki"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hypotenuse X 投稿",
+   "results": [
+    "https://x.com/hypotenuse_x",
+    "https://x.com/kanoguti93/status/2113234159246233969",
+    "https://photo-tools.tech/",
+    "https://note.com/mgane/n/n1c0d7384c8a0",
+    "https://search.yahoo.co.jp/realtime/search/投稿/",
+    "https://note.com/pocketstudio/n/n7afabea20243",
+    "https://help.x.com/ja/using-x/edit-post"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部40頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部40頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部40頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部40頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部40頁・検索12回）"
+ }
+}

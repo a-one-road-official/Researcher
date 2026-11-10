@@ -1,0 +1,1350 @@
+{
+ "name": "Gocrisp",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-10T14:59:27.922266+00:00",
+ "official_url": "https://www.gocrisp.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$61M",
+    "url": "https://getlatka.com/companies/crisp-inc",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "16-Sep-2019 $14.2M $24.2M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/300229-75",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "11,600,000 $0.010000 3% $2.5 $2.5 1x $2.5 10.23%",
+    "url": "https://pitchbook.com/profiles/company/300229-75",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Enterprise grade retail AI, out of the box. Customized your way.",
+    "url": "https://www.gocrisp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Promotions and scenario planning",
+    "url": "https://www.gocrisp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sales, assortments, pricing, and more",
+    "url": "https://www.gocrisp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our award-winning CPG blog and retail data best practices",
+    "url": "https://www.gocrisp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-powered insights and workflow automation designed for every role across the retail enterprise.",
+    "url": "https://www.gocrisp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“For seasonal performers like Burt's Bees, we can propose strategic assortments based on localized insights, then see what's working in real time as demand spikes.”",
+    "url": "https://www.gocrisp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Crisp Launches Halo™, the AI Platform for Retail That Deploys Inside the Enterprise’s Own Cloud and Data Environment",
+    "url": "https://www.gocrisp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise grade retail AI, out of the box. Customized your way.",
+    "url": "https://www.gocrisp.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Promotions and scenario planning",
+    "url": "https://www.gocrisp.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Sales, assortments, pricing, and more",
+    "url": "https://www.gocrisp.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Our award-winning CPG blog and retail data best practices",
+    "url": "https://www.gocrisp.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Drive smarter promotions",
+    "url": "https://www.gocrisp.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Crisp Agentic Tools provide trustworthy answers to pressing business questions that are traceable back to your real-time data. Presentation-worthy reports are output in minutes.",
+    "url": "https://www.gocrisp.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Crisp helps brands grow sales and unlock new distribution while eliminating waste across the retail supply chain. This is our founding mission, and it’s also one of the ways we improve the bottom line for our customers. When partners across the supply chain trust the data and each other, the entire ecosystem benefits – from manufacturer to retailer to shopper.",
+    "url": "https://www.gocrisp.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Prior to Crisp, Are was the Founder & CEO of Tapad, a cross-device advertising and content delivery platform. In 2016, Tapad was acquired for $360M, making it the fifth largest venture-backed M&A exit in New York since 2009.",
+    "url": "https://www.gocrisp.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Traasdahl is a frequent contributor to the press, and has been featured in Forbes, Bloomberg, Fast Company, and other major news publications. Under his leadership, Crisp has been recognized as the #52 fastest growing company on the Inc. 5000, #7 most innovative company by Fast Company and #26 on the Fast 500 by Deloitte.",
+    "url": "https://www.gocrisp.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Favorite grocery store product:",
+    "url": "https://www.gocrisp.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Before co-founding Crisp, Dag also co-founded Tapad, where he served as CTO. Dag oversaw Tapad’s notable breakthroughs in delivering targeted advertising across platforms. Prior to Tapad, Dag was co-founder and CTO of Giant Leap Technologies AS, the premier business mobility solutions provider in the Nordic region.",
+    "url": "https://www.gocrisp.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Dag began programming at 6-years-old and has a Master’s Degree in Science, Industrial Economics and Technology Management from the Norwegian University of Science and Technology. In his spare time, Dag tinkers with electronics and 3D printing and enjoys fishing with his family on the weekends.",
+    "url": "https://www.gocrisp.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Bonne Maman Strawberry Preserves",
+    "url": "https://www.gocrisp.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Alex has 30+ years of experience in enterprise technology sales leadership, and joins Crisp after serving as Chief Revenue Officer at Mirakl, an e-commerce marketplace software tech company. He has previously held several global sales leadership positions, most recently with with Flow Commerce (acquired by Global-e), Numerator, and Retail Solutions.",
+    "url": "https://www.gocrisp.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Dana, SVP of Marketing, leads the marketing strategy and team at Crisp, which includes PR, brand marketing, content, and events. Prior to Crisp, she led Corporate Marketing at Taboola and was VP of Marketing at ConvertMedia and AVP of Marketing at Sizmek.",
+    "url": "https://www.gocrisp.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Dana has extensive experience in ad tech marketing and non-profit communications and has led several global corporate branding (and re-branding) initiatives as well as numerous mergers and acquisitions. Originally from Michigan (Go Blue!), Dana lived in Israel for most of her adult life and recently relocated to the Garden State, which she now calls home with her family.",
+    "url": "https://www.gocrisp.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Prior to joining Crisp Jeff most recently served as the Chief Technology Officer at Experian Marketing Services, the AdTech/MarTech arm of Experian plc. As CTO, Jeff oversaw the organization’s overall technology strategy and operations.",
+    "url": "https://www.gocrisp.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Mark has 30 years CPG senior commercial experience with PepsiCo, L'Oreal, Unilever, and Nestle. As CEO of the UK's leading sales broker, Reach, he transformed the digital and data capability and expanded globally. He led the acquisition into Acosta becoming a board member and President International he was responsible for all territories outside the USA.",
+    "url": "https://www.gocrisp.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Nick blends his commercial know-how with deep technical expertise to lead the creation of smart, scalable business applications. Focused on getting to the heart of challenges and building practical tools that drive real results.",
+    "url": "https://www.gocrisp.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Following the acquisition of Clear Box by Crisp in April 2025, Nick is focused on helping brands stay ahead of the curve – finding new, innovative ways to drive sales and adapt to the ever-changing market.",
+    "url": "https://www.gocrisp.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Joe leads People Operations at Crisp, which includes all talent & HR functions plus internal operations (facilities, travel & IT). Prior to Crisp, Joe held senior People and Operational leadership roles across technology, e-commerce, and financial services, partnering with founders and executive teams through periods of rapid growth, acquisition integration, and organizational transformation.",
+    "url": "https://www.gocrisp.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Professional development",
+    "url": "https://www.gocrisp.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise grade retail AI, out of the box. Customized your way.",
+    "url": "https://www.gocrisp.com/our-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Promotions and scenario planning",
+    "url": "https://www.gocrisp.com/our-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Sales, assortments, pricing, and more",
+    "url": "https://www.gocrisp.com/our-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Our award-winning CPG blog and retail data best practices",
+    "url": "https://www.gocrisp.com/our-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Explore how each solution provides insights your teams can confidently act on every day.",
+    "url": "https://www.gocrisp.com/our-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Our Vertical AI Approach",
+    "url": "https://www.gocrisp.com/our-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Cleanse, standardize, and enrich data across products, stores, and metrics.",
+    "url": "https://www.gocrisp.com/our-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Your proprietary POS, inventory, planogram, and other retail data – plus internal data sets.",
+    "url": "https://www.gocrisp.com/our-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise grade retail AI, out of the box. Customized your way.",
+    "url": "https://www.gocrisp.com/for-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Promotions and scenario planning",
+    "url": "https://www.gocrisp.com/for-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Sales, assortments, pricing, and more",
+    "url": "https://www.gocrisp.com/for-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Our award-winning CPG blog and retail data best practices",
+    "url": "https://www.gocrisp.com/for-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Online content optimization",
+    "url": "https://www.gocrisp.com/for-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Executive presentations",
+    "url": "https://www.gocrisp.com/for-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "planogram production – Danone",
+    "url": "https://www.gocrisp.com/for-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Understand the effects of promotion, price, distribution, and range on overall demand. Built for trade marketing, RGM, and commercial planning teams to model scenarios and course-correct.",
+    "url": "https://www.gocrisp.com/for-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Promotions optimization",
+    "url": "https://www.gocrisp.com/for-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Demand decomposition and projection",
+    "url": "https://www.gocrisp.com/for-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Promotional performance",
+    "url": "https://www.gocrisp.com/for-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "“For seasonal performers like Burt’s Bees, we can propose strategic assortments based on localized insights, then see what’s working in real time as demand spikes.”",
+    "url": "https://www.gocrisp.com/for-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Crisp Agentic tools are built on a retail-specific data foundation – and knows what retailer fiscal calendars, walk-in purchasability, and OOS root causes all mean. Every AI recommendation, automated workflow, and presentation traces back to data your team can trust. Learn more about our",
+    "url": "https://www.gocrisp.com/for-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "vertical AI approach.",
+    "url": "https://www.gocrisp.com/for-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Interested in professional services?",
+    "url": "https://www.gocrisp.com/for-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Need something tailored to your team? Crisp offers customized solutions, consulting engagements, and accelerated product deployments on top of the",
+    "url": "https://www.gocrisp.com/for-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "A solution desk is a purpose-built workspace for a specific CPG function, with the data models, AI capabilities, and workflows tailored to that team’s role. Most enterprise CPGs use more than one, and they all share the same data foundation. Talk to our team to find the right fit.",
+    "url": "https://www.gocrisp.com/for-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Commercial Desk is for trade, pricing, and JBP.",
+    "url": "https://www.gocrisp.com/for-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise grade retail AI, out of the box. Customized your way.",
+    "url": "https://www.gocrisp.com/for-retailers",
+    "pass": 1
+   },
+   {
+    "quote": "Promotions and scenario planning",
+    "url": "https://www.gocrisp.com/for-retailers",
+    "pass": 1
+   },
+   {
+    "quote": "Sales, assortments, pricing, and more",
+    "url": "https://www.gocrisp.com/for-retailers",
+    "pass": 1
+   },
+   {
+    "quote": "Our award-winning CPG blog and retail data best practices",
+    "url": "https://www.gocrisp.com/for-retailers",
+    "pass": 1
+   },
+   {
+    "quote": "saved per reset – Brookshire Grocery",
+    "url": "https://www.gocrisp.com/for-retailers",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "CPGs and Manufacturers",
+    "url": "https://www.gocrisp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "CPGs and Manufacturers",
+    "url": "https://www.gocrisp.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Insights and automation for CPGs and Manufacturers, Retailers, Distributors, and Brokers.",
+    "url": "https://www.gocrisp.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Crisp helps brands grow sales and unlock new distribution while eliminating waste across the retail supply chain. This is our founding mission, and it’s also one of the ways we improve the bottom line for our customers. When partners across the supply chain trust the data and each other, the entire ecosystem benefits – from manufacturer to retailer to shopper.",
+    "url": "https://www.gocrisp.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Dag began programming at 6-years-old and has a Master’s Degree in Science, Industrial Economics and Technology Management from the Norwegian University of Science and Technology. In his spare time, Dag tinkers with electronics and 3D printing and enjoys fishing with his family on the weekends.",
+    "url": "https://www.gocrisp.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Joe holds a Ph.D. in Industrial/Organizational Psychology from the Illinois Institute of Technology and brings the human perspective to our business. He is passionate about ensuring an amazing employee experience for each Crisp employee and has been leading startup HR for 15 years.",
+    "url": "https://www.gocrisp.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "CPGs and Manufacturers",
+    "url": "https://www.gocrisp.com/our-platform",
+    "pass": 1
+   },
+   {
+    "quote": "CPG and Manufacturers",
+    "url": "https://www.gocrisp.com/our-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by teams that run retail",
+    "url": "https://www.gocrisp.com/our-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Crisp Halo for CPGs and Manufacturers - Crisp",
+    "url": "https://www.gocrisp.com/for-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "CPGs and Manufacturers",
+    "url": "https://www.gocrisp.com/for-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "For CPGs and Manufacturers",
+    "url": "https://www.gocrisp.com/for-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "CPG and Manufacturers",
+    "url": "https://www.gocrisp.com/for-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "CPGs and Manufacturers",
+    "url": "https://www.gocrisp.com/for-retailers",
+    "pass": 1
+   },
+   {
+    "quote": "CPGs and Manufacturers",
+    "url": "https://www.gocrisp.com/brokers",
+    "pass": 1
+   },
+   {
+    "quote": "For broker agencies who need real-time sales and inventory analytics for CPG and manufacturer partners, explore our dedicated solutions.",
+    "url": "https://www.gocrisp.com/brokers",
+    "pass": 1
+   },
+   {
+    "quote": "CPGs and manufacturers",
+    "url": "https://www.gocrisp.com/brokers",
+    "pass": 1
+   },
+   {
+    "quote": "CPGs and Manufacturers",
+    "url": "https://www.gocrisp.com/learning-center",
+    "pass": 1
+   },
+   {
+    "quote": "CPGs and Manufacturers",
+    "url": "https://www.gocrisp.com/careers/current-openings",
+    "pass": 1
+   },
+   {
+    "quote": "CPGs and Manufacturers",
+    "url": "https://www.gocrisp.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "CPGs and Manufacturers",
+    "url": "https://www.gocrisp.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Crisp addresses the enormous challenge of waste caused by mismatched supply and demand. I believe that their networked business model will enable their solution to be adopted across industries, with a huge market potential.",
+    "url": "https://www.gocrisp.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": ", held this year in San Diego, which hosts supply chain minds from retail, logistics, and manufacturing. Crisp joined this year’s ICON event with presentations to Power the",
+    "url": "https://www.gocrisp.com/blog/crisp-named-category-management-partner-of-the-year-by-blue-yonder-for-space-planning-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "If your team already uses a cloud warehouse or BI tool, Crisp can deliver standardized retail data into the",
+    "url": "https://www.gocrisp.com/learning-center/retailer-guides/evaluating-demand-forecasting-solutions-for-cpgs",
+    "pass": 1
+   },
+   {
+    "quote": "The manufacturer’s role in omnichannel optimization",
+    "url": "https://www.gocrisp.com/learning-center/sales-merchandising/solutions-for-managing-omnichannel-retail",
+    "pass": 1
+   },
+   {
+    "quote": "to data management. Manufacturers can consolidate data from various sources – point-of-sale (POS) systems, e-commerce platforms, distributor networks, and D2C channels – into a single, centralized system. This unified repository serves as a single source of truth, enabling teams to generate actionable insights, identify trends, and make informed decisions.",
+    "url": "https://www.gocrisp.com/learning-center/sales-merchandising/solutions-for-managing-omnichannel-retail",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturers can consolidate data from various sources – point-of-sale (POS) systems, e-commerce platforms, distributor networks, and D2C channels – into a single, centralized system, serving as a single source of truth, enabling teams to generate actionable insights, identify trends, and make informed decisions.",
+    "url": "https://www.gocrisp.com/learning-center/sales-merchandising/solutions-for-managing-omnichannel-retail",
+    "pass": 1
+   },
+   {
+    "quote": "combines real-time retail data with Cantactix’s space planning expertise to connect category insights all the way from warehouse to shelf.",
+    "url": "https://www.gocrisp.com/cantactix-missioncontrol",
+    "pass": 1
+   },
+   {
+    "quote": "combines its retail data platform – trusted by over 6,000 CPG brands – with Cantactix’s category management automation to deliver end-to-end visibility and efficiency from demand planning through in-store execution.",
+    "url": "https://www.gocrisp.com/cantactix-missioncontrol",
+    "pass": 1
+   },
+   {
+    "quote": "to build the leading independent Google Cloud AI platform, and Zencore launches ZenAI Factory, three new agentic AI solutions.",
+    "url": "https://zencore.dev/customers/crisp/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "White-label analytics and AI Agents",
+    "url": "https://www.gocrisp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "White-label analytics and AI Agents",
+    "url": "https://www.gocrisp.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "White-label analytics and AI Agents",
+    "url": "https://www.gocrisp.com/our-platform",
+    "pass": 1
+   },
+   {
+    "quote": "White-label analytics and AI Agents",
+    "url": "https://www.gocrisp.com/for-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "White-label analytics and AI Agents",
+    "url": "https://www.gocrisp.com/for-retailers",
+    "pass": 1
+   },
+   {
+    "quote": "Turn your first-party data into a competitive advantage – and a revenue line. White-label analytics solutions give your supplier base access to daily POS, inventory, and distribution data under your brand, with AI built-in.",
+    "url": "https://www.gocrisp.com/for-retailers",
+    "pass": 1
+   },
+   {
+    "quote": "Partner Desk is for enabling your supplier base with white-label analytics and AI.",
+    "url": "https://www.gocrisp.com/for-retailers",
+    "pass": 1
+   },
+   {
+    "quote": "The Partner Desk delivers daily shipment, POS, inventory, and other distribution data to suppliers under your brand – giving them the visibility to improve OTIF, spot voids, and sharpen trade spend.",
+    "url": "https://www.gocrisp.com/for-retailers",
+    "pass": 1
+   },
+   {
+    "quote": "White-label analytics and AI Agents",
+    "url": "https://www.gocrisp.com/brokers",
+    "pass": 1
+   },
+   {
+    "quote": "For broker agencies who need real-time sales and inventory analytics for CPG and manufacturer partners, explore our dedicated solutions.",
+    "url": "https://www.gocrisp.com/brokers",
+    "pass": 1
+   },
+   {
+    "quote": "Frequently asked questions about Crisp for Brokers and Sales Agencies",
+    "url": "https://www.gocrisp.com/brokers",
+    "pass": 1
+   },
+   {
+    "quote": "White-label analytics and AI Agents",
+    "url": "https://www.gocrisp.com/learning-center",
+    "pass": 1
+   },
+   {
+    "quote": "White-label analytics and AI Agents",
+    "url": "https://www.gocrisp.com/careers/current-openings",
+    "pass": 1
+   },
+   {
+    "quote": "White-label analytics and AI Agents",
+    "url": "https://www.gocrisp.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "White-label analytics and AI Agents",
+    "url": "https://www.gocrisp.com/careers",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Prior to Crisp, Are was the Founder & CEO of Tapad, a cross-device advertising and content delivery platform. In 2016, Tapad was acquired for $360M, making it the fifth largest venture-backed M&A exit in New York since 2009.",
+    "url": "https://www.gocrisp.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://www.gocrisp.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Alex has 30+ years of experience in enterprise technology sales leadership, and joins Crisp after serving as Chief Revenue Officer at Mirakl, an e-commerce marketplace software tech company. He has previously held several global sales leadership positions, most recently with with Flow Commerce (acquired by Global-e), Numerator, and Retail Solutions.",
+    "url": "https://www.gocrisp.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Dana has extensive experience in ad tech marketing and non-profit communications and has led several global corporate branding (and re-branding) initiatives as well as numerous mergers and acquisitions. Originally from Michigan (Go Blue!), Dana lived in Israel for most of her adult life and recently relocated to the Garden State, which she now calls home with her family.",
+    "url": "https://www.gocrisp.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Mark has 30 years CPG senior commercial experience with PepsiCo, L'Oreal, Unilever, and Nestle. As CEO of the UK's leading sales broker, Reach, he transformed the digital and data capability and expanded globally. He led the acquisition into Acosta becoming a board member and President International he was responsible for all territories outside the USA.",
+    "url": "https://www.gocrisp.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Following the acquisition of Clear Box by Crisp in April 2025, Nick is focused on helping brands stay ahead of the curve – finding new, innovative ways to drive sales and adapt to the ever-changing market.",
+    "url": "https://www.gocrisp.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Nick is Swiss by nationality but lives near Nottingham in the UK with his wife, two daughters, 3 dogs and a growing array of other rescue animals.",
+    "url": "https://www.gocrisp.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Joe leads People Operations at Crisp, which includes all talent & HR functions plus internal operations (facilities, travel & IT). Prior to Crisp, Joe held senior People and Operational leadership roles across technology, e-commerce, and financial services, partnering with founders and executive teams through periods of rapid growth, acquisition integration, and organizational transformation.",
+    "url": "https://www.gocrisp.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Crisp Agentic AI turns retail data into action. Every recommendation carries retail expertise and a clear line back to your source data.",
+    "url": "https://www.gocrisp.com/our-platform",
+    "pass": 1
+   },
+   {
+    "quote": "“We’ve been using Crisp AI as part of our sales analytics workflow – with much faster answers than digging through reports manually.”",
+    "url": "https://www.gocrisp.com/for-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Data and AI-driven revenue growth secrets for retail",
+    "url": "https://www.gocrisp.com/for-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Turn your first-party data into a competitive advantage – and a revenue line. White-label analytics solutions give your supplier base access to daily POS, inventory, and distribution data under your brand, with AI built-in.",
+    "url": "https://www.gocrisp.com/for-retailers",
+    "pass": 1
+   },
+   {
+    "quote": "When a supplier payment arrives, the system records it and will match against the PO, shipment, or invoice. Crisp tracks a running balance as you work through the payment, surfaces discrepancies between what was owed and what was received, and handles bonus and chargeback entries that are standard on most commission checks.",
+    "url": "https://www.gocrisp.com/brokers",
+    "pass": 1
+   },
+   {
+    "quote": "We offer a competitive salary based on experience and standard rates. What’s more, employees are rewarded stock shares.",
+    "url": "https://www.gocrisp.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Even in a remote world, being eye to eye is still the best way to meet. That's why we sponsor travel so employees can get to know each other a little better.",
+    "url": "https://www.gocrisp.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our employees are provided with all of the equipment needed to work effectively from home. A laptop PC or Mac (your choice!), a large screen monitor, and webcam set you up for success.",
+    "url": "https://www.gocrisp.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We offer all employees monthly reimbursements on wellness activities from yoga to gym memberships to group meditation.",
+    "url": "https://www.gocrisp.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Employees are encouraged to enroll in the professional development programs of their choice from Coursera, Udemy, MasterClass, HBR Online and more.",
+    "url": "https://www.gocrisp.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Food Logistics: Rockstars of the Supply Chain, Barry Bradley",
+    "url": "https://www.gocrisp.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Broad portfolio, narrow visibility",
+    "url": "https://www.gocrisp.com/case-studies/the-clorox-company",
+    "pass": 1
+   },
+   {
+    "quote": "couldn’t provide. Market-level data arrived late and lacked the granularity to catch distribution gaps, validate store-level execution, or prepare confidently for business reviews.",
+    "url": "https://www.gocrisp.com/case-studies/the-clorox-company",
+    "pass": 1
+   },
+   {
+    "quote": "“With Crisp, we can walk into a merchant meeting with a clear, data-backed narrative that shows exactly where we have gaps and how we can win. Rather than spending that time just trying to explain what happened,” shared Tabitha Talburt, Senior Manager of Category and Insights.",
+    "url": "https://www.gocrisp.com/case-studies/coty",
+    "pass": 1
+   },
+   {
+    "quote": "The root issue is that the data arrives late, and it arrives differently from every retailer. CPG teams often learn what’s happening at the shelf through delayed syndicated reports or a patchwork of retailer portals, each running on its own schedule.",
+    "url": "https://www.gocrisp.com/learning-center/retailer-guides/evaluating-demand-forecasting-solutions-for-cpgs",
+    "pass": 1
+   },
+   {
+    "quote": "Grow retail revenue with real-time data",
+    "url": "https://www.gocrisp.com/learning-center/retailer-guides/evaluating-demand-forecasting-solutions-for-cpgs",
+    "pass": 1
+   },
+   {
+    "quote": "Digital purchasability, sometimes called digital transactability, measures whether items are truly buyable online. That means not just listed, but visible, shoppable, and fulfillable across pickup and delivery.",
+    "url": "https://www.gocrisp.com/learning-center/retailer-guides/evaluating-demand-forecasting-solutions-for-cpgs",
+    "pass": 1
+   },
+   {
+    "quote": "can be shown across multiple retailers), who will benefit from increased brand exposure, revenue diversification, and an increase in first-party data.",
+    "url": "https://www.gocrisp.com/learning-center/sales-merchandising/solutions-for-managing-omnichannel-retail",
+    "pass": 1
+   },
+   {
+    "quote": "or a legacy household CPG staple, an all-inclusive data strategy that marries retail intelligence into a clean, actionable repository for daily visibility and decision-making is paramount. Here’s our guide to get started.",
+    "url": "https://www.gocrisp.com/learning-center/sales-merchandising/solutions-for-managing-omnichannel-retail",
+    "pass": 1
+   },
+   {
+    "quote": "An effective omnichannel data strategy not only helps suppliers sustain these consumer experiences but also diversifies their revenue streams while serving to strengthen relationships with key retail partners.",
+    "url": "https://www.gocrisp.com/learning-center/sales-merchandising/solutions-for-managing-omnichannel-retail",
+    "pass": 1
+   },
+   {
+    "quote": "Supplier impact: Point-of-sale data (POS) record, no cross-channel behavior insights, contributes to a singular revenue stream.",
+    "url": "https://www.gocrisp.com/learning-center/sales-merchandising/solutions-for-managing-omnichannel-retail",
+    "pass": 1
+   },
+   {
+    "quote": "In January 2023, Crisp, a leader in supply chain optimization for zero waste, acquired Integral Group, a company specializing in Electronic Data Interchange (EDI). Integral’s critical operations, relied on legacy technologies and manual management and required modernization and integration into Crisp’s cloud- based infrastructure.",
+    "url": "https://zencore.dev/customers/crisp/",
+    "pass": 3
+   },
+   {
+    "quote": "Crisp Inc Revenue 2024: $24.8M Est., $61M Raised",
+    "url": "https://getlatka.com/companies/crisp-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Crisp Inc has not published its revenue. GetLatka estimates it at about $24.8M a year (October 2024).",
+    "url": "https://getlatka.com/companies/crisp-inc",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/crisp-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Crisp Inc CEO, founders & employees",
+    "url": "https://getlatka.com/companies/crisp-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Are Traasdahl founded Crisp Inc in 2016 and runs it as CEO. Crisp Inc had 191 employees (December 2024, LinkedIn), up from 91 a year earlier.",
+    "url": "https://getlatka.com/companies/crisp-inc",
+    "pass": 3
+   },
+   {
+    "quote": "What is Crisp Inc's revenue?",
+    "url": "https://getlatka.com/companies/crisp-inc",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Crisp Inc's revenue at about",
+    "url": "https://getlatka.com/companies/crisp-inc",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Crisp Inc have?",
+    "url": "https://getlatka.com/companies/crisp-inc",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/crisp-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/crisp-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/crisp-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/crisp-inc",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/300229-75",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions (8)",
+    "url": "https://pitchbook.com/profiles/company/300229-75",
+    "pass": 3
+   },
+   {
+    "quote": "Crisp’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/300229-75",
+    "pass": 3
+   },
+   {
+    "quote": "You’re viewing 5 of 8 acquisitions. Get the full list »",
+    "url": "https://pitchbook.com/profiles/company/300229-75",
+    "pass": 3
+   },
+   {
+    "quote": "Crisp has 321 total employees.",
+    "url": "https://pitchbook.com/profiles/company/300229-75",
+    "pass": 3
+   },
+   {
+    "quote": "What is Crisp’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/300229-75",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Crisp is",
+    "url": "https://pitchbook.com/profiles/company/300229-75",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Example: A customer adds items to their cart online, confirms inventory availability at a local store, and picks up their purchase curbside — all while receiving personalized recommendations via email or social media based on their browsing history.",
+    "url": "https://www.gocrisp.com/learning-center/sales-merchandising/solutions-for-managing-omnichannel-retail",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/300229-75",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Crisp Data Platform Overview - gocrisp.com — Crisp delivers your data to every team and system. Crisp automatically ingests, harmonizes, and integrates data from 40+ retailers and distributors to give CPGs a single source of truth.",
+    "url": "https://www.gocrisp.com/lp/data-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Crisp Halo Platform | AI Built to Run Retail — What kind of data does Crisp connect to? Crisp connects to numerous retailers and distributors across the US and internationally, delivering clean DC, SKU, and store-level data to teams in real time. Learn more at gocrisp.com/data-integrations.",
+    "url": "https://www.gocrisp.com/our-platform",
+    "pass": 3
+   },
+   {
+    "quote": "About Crisp | AI Built to Run Retail — What kind of data does Crisp connect to? Crisp connects to numerous retailers and distributors across the US and internationally, delivering clean DC, SKU, and store-level data to teams in real time. Learn more at gocrisp.com/data-integrations.",
+    "url": "https://www.gocrisp.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Crisp Data Platform Overview - gocrisp.com — Crisp Apps are a turn-key solution for your data. Deliver data to every team and system. Whether you’re a sales, supply chain, or analytics team, Crisp integrates data quickly and seamlessly into the tools you use today. Ingest, harmonize, and integrate data from 40+ retailers and distributors.",
+    "url": "https://www.gocrisp.com/lp/data-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Crisp Halo for CPGs and Manufacturers - Crisp - gocrisp.com — One platform for every supplier function. Crisp Halo gives CPG teams a shared data foundation and purpose-built solutions for customer, HQ, category, and commercial teams. Each desk is built for a specific function, with the expertise, workflows, and AI capabilities your team actually needs.",
+    "url": "https://www.gocrisp.com/for-suppliers",
+    "pass": 3
+   },
+   {
+    "quote": "Crisp | LinkedIn — ウェブサイト https://www.gocrisp.com/ Crispの外部リンク 業種 ソフトウェア開発 会社規模 社員 201-500名 本社 Bentonville、AR 種類 非上場企業 創立 2016 専門分野 food & beverage、sustainability、SaaS、inventory optimization、supply chain...",
+    "url": "https://jp.linkedin.com/company/gocrisp",
+    "pass": 3
+   },
+   {
+    "quote": "Crisp 2026 Company Profile: Valuation, Funding & Investors ...Crisp - 2026 Company Profile, Team, Funding & Competitors ...Crisp: Funding, Investors & Team (Oct 2026) | FundedIQCrisp - Overview, News & Similar companies | ZoomInfo.comCrisp — investors & funding | gritt.ioCrisp - Crunchbase Company Profile & Funding — Information on valuation, funding, cap tables, investors, and executives for Cris",
+    "url": "https://pitchbook.com/profiles/company/300229-75",
+    "pass": 3
+   },
+   {
+    "quote": "Crisp - 2026 Company Profile, Team, Funding & Competitors ...Crisp: Funding, Investors & Team (Oct 2026) | FundedIQCrisp - Overview, News & Similar companies | ZoomInfo.comCrisp — investors & funding | gritt.ioCrisp - Crunchbase Company Profile & Funding — Jun 16, 2026 · Crisp is a series B company based in New York City (United States), founded in 2016 by Are Traasdahl and Dag Liodden. It operate",
+    "url": "https://tracxn.com/d/companies/crisp/__6OHqBKrXF_mwkyIhbsy5eJGNnNGiX_cyNDcaIgmN69E",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "\"#Gocrisp\" - Results on X | Live Posts & Updates Results for \"#Gocrisp\" on X (Twitter). Find the latest posts, discussions, and updates about #Gocrisp. 17 results found.",
+    "url": "https://x.com/hashtag/Gocrisp",
+    "pass": 3
+   },
+   {
+    "quote": "George Atef (@Gogocrispo) / Posts / X George Atef (@Gogocrispo) - Posts - photographer-Graphic designer-Editor- content creator-Editor-Marketer-model founder of -Waves St... | X (formerly Twitter)",
+    "url": "https://x.com/Gogocrispo",
+    "pass": 3
+   },
+   {
+    "quote": "Crisp on X: \"Go Crisp...Bird is the Word! http://yfrog.com ... Post Crisp @MyCrisp Go Crisp...Bird is the Word! http://yfrog.com/af6m7j 10:13 PM · Jun 7, 2009",
+    "url": "https://x.com/i/status/2072998925",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Crisp - LinkedIn Website https://www.gocrisp.com/ External link for Crisp Industry Software Development Company size 201-500 employees Headquarters Bentonville, AR",
+    "url": "https://www.linkedin.com/company/gocrisp",
+    "pass": 3
+   },
+   {
+    "quote": "#culture #gocrisp #retail #consumergoods #ai #boston # ... The team, including metroConnections, Rebekah Madebach, and Amanda R. always does a standout job and we appreciate it so much. #culture #GoCrisp #retail #consumergoods #AI #Boston #retailAI # ...",
+    "url": "https://www.linkedin.com/posts/gocrisp_culture-gocrisp-retail-activity-7507830230275792896-fk2U",
+    "pass": 3
+   },
+   {
+    "quote": "Crisp CEO on acquisitions and AI in supply chain - LinkedIn Read more in The Tech Tribune's spotlight: https://lnkd.in/gQ7CGbpb #retail #nwa #cpg #supplychain #operations #gocrisp",
+    "url": "https://www.linkedin.com/posts/gocrisp_retail-nwa-cpg-activity-7335691167751131136-fKGf",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Crisp Data Platform for the Food Industry - Facebookgocrisp.com - FacebookCrisp Data... - Crisp Data Platform for the Food IndustryCrisp Inc | New York NY - FacebookCrisp Inc | New York NY - FacebookCrisp is... - Crisp Data Platform for the Food IndustryIt’s a match... - Crisp Data Platform for the Food Industry Dec 20, 2024 · Crisp is powering Nature's Bakery's next chapter of growth. 🎄 With unwr",
+    "url": "https://www.facebook.com/GoCrispInc/",
+    "pass": 3
+   },
+   {
+    "quote": "gocrisp.com - Facebook gocrisp.com - Facebook ... gocrisp.com",
+    "url": "https://www.facebook.com/gocrispcom-108128290845068/",
+    "pass": 3
+   },
+   {
+    "quote": "Crisp Inc | New York NY - Facebook Mar 4, 2024 · Details Page · Company gocrisp.com Not yet rated (0 Reviews) Crisp Inc Mar 4, 2024 Topping off another fabulous week in Northwest",
+    "url": "https://www.facebook.com/people/Crisp-Inc/100063499783649/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.gocrisp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gocrisp.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gocrisp.com/our-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gocrisp.com/for-suppliers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gocrisp.com/for-retailers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gocrisp.com/brokers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gocrisp.com/success-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gocrisp.com/learning-center",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gocrisp.com/careers/current-openings",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gocrisp.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gocrisp.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gocrisp.com/for-retailers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gocrisp.com/blog/crisp-named-category-management-partner-of-the-year-by-blue-yonder-for-space-planning-intelligence",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gocrisp.com/case-studies/the-clorox-company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gocrisp.com/case-studies/coty",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gocrisp.com/case-studies/petbarn",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gocrisp.com/learning-center/retailer-guides/evaluating-demand-forecasting-solutions-for-cpgs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gocrisp.com/learning-center/sales-merchandising/solutions-for-managing-omnichannel-retail",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gocrisp.com/wp-content/uploads/2025/08/CulturePage-Customers.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.gocrisp.com/cantactix-missioncontrol",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.gocrisp.com/wp-content/uploads/2025/08/CulturePage-Customers.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/gocrisp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.casestudies.com/company/sps-commerce/case-study/how-the-good-crisp-company-leveraged-system-automation-from-sps-commerce-and-cin7-to-cut-order-processing-time-in-half-freeing-up-time-for-innovation-and-strategic-growth",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zencore.dev/customers/crisp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.superantispyware.com/reseller-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/crisp-inc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/300229-75",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/crisp/__6OHqBKrXF_mwkyIhbsy5eJGNnNGiX_cyNDcaIgmN69E",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fundediq.co/crisp-gocrisp-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/Gocrisp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Gogocrispo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/i/status/2072998925",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/gocrisp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/gocrisp_culture-gocrisp-retail-activity-7507830230275792896-fk2U",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/gocrisp_retail-nwa-cpg-activity-7335691167751131136-fKGf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/GoCrispInc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/gocrispcom-108128290845068/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/Crisp-Inc/100063499783649/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/Gocrisp",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Gocrisp 日本 導入",
+   "results": [
+    "https://www.gocrisp.com/lp/data-platform",
+    "https://www.gocrisp.com/our-platform",
+    "https://www.gocrisp.com/about",
+    "https://www.gocrisp.com/",
+    "https://www.gocrisp.com/solutions-partners",
+    "https://www.firstcvc.jp/global/gocrisp.com",
+    "https://mainichi.jp/articles/20261107/k00/00m/010/253000c"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gocrisp 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.gocrisp.com/solutions-partners",
+    "https://houjin.always-basics.com/",
+    "https://www.houjin.info/",
+    "https://www.houjin-bangou.nta.go.jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gocrisp Japan",
+   "results": [
+    "https://www.gocrisp.com/lp/data-platform",
+    "https://www.gocrisp.com/for-suppliers",
+    "https://jp.linkedin.com/company/gocrisp",
+    "https://www.gocrisp.com/",
+    "https://www.gocrisp.com/about",
+    "https://www.gocrisp.com/our-platform",
+    "https://www.gocrisp.com/talk-to-an-expert"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gocrisp manufacturing customer case study",
+   "results": [
+    "https://www.gocrisp.com/case-studies",
+    "https://www.casestudies.com/company/sps-commerce/case-study/how-the-good-crisp-company-leveraged-system-automation-from-sps-commerce-and-cin7-to-cut-order-processing-time-in-half-freeing-up-time-for-innovation-and-strategic-growth",
+    "https://www.gocrisp.com/success-stories",
+    "https://zencore.dev/customers/crisp/",
+    "https://www.linkedin.com/posts/gocrisp_case-study-crisp-helps-no-evil-foods-leverage-activity-6900598370692321280-Gnyf",
+    "https://blogs.zoftwarehub.com/crisp-data-platform-vs-competitors-a-2025-deep-analysis/",
+    "https://www.facebook.com/GoCrispInc/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gocrisp white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.superantispyware.com/reseller-program",
+    "https://partners.spectrum.com/",
+    "https://www.iqreseller.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.gocrisp.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gocrisp founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/crisp-inc",
+    "https://pitchbook.com/profiles/company/300229-75",
+    "https://tracxn.com/d/companies/crisp/__6OHqBKrXF_mwkyIhbsy5eJGNnNGiX_cyNDcaIgmN69E",
+    "https://fundediq.co/crisp-gocrisp-com-funding/",
+    "https://www.gritt.io/company/gocrisp/",
+    "https://www.crunchbase.com/organization/crisp-cad3",
+    "https://www.zoominfo.com/c/crisp-inc/477993855"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Gocrisp",
+   "results": [
+    "https://note.com/crisp_sedum6210/n/n8c4b12d6243b?hl=en",
+    "https://note.com/crisp_sheep6389/n/n8caec529fa0a?hl=en",
+    "https://note.com/crisp_moraea843/n/nc02dc009d542?hl=en",
+    "https://note.com/crisp_ram16/n/ne3b83f334e08?hl=en",
+    "https://note.com/crisp_moraea843/n/n8b9a543a28f0?hl=en",
+    "https://note.com/crisp_auklet9703/n/n430278fc4d5d?hl=en",
+    "https://note.com/crisp_weasel8445/n/nbd87df3404be?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Gocrisp",
+   "results": [
+    "https://x.com/hashtag/Gocrisp",
+    "https://x.com/",
+    "https://x.com/Gogocrispo",
+    "https://x.com/i/status/2072998925",
+    "https://x.com/MyCrisp",
+    "https://x.com/CrispChicago",
+    "https://x.com/goofy_crisp"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Gocrisp",
+   "results": [
+    "https://www.linkedin.com/company/gocrisp",
+    "https://www.linkedin.com/posts/gocrisp_culture-gocrisp-retail-activity-7507830230275792896-fk2U",
+    "https://www.linkedin.com/posts/gocrisp_retail-nwa-cpg-activity-7335691167751131136-fKGf",
+    "https://www.linkedin.com/products/gocrisp-crisp/",
+    "https://www.linkedin.com/posts/gocrisp_crisp-acquires-cantactix-to-expand-retail-activity-7345517874893004800-eRSW",
+    "https://www.linkedin.com/posts/gocrisp_analyticsunite-minneapolis-grandopening-activity-7444790653332381696-n0d9",
+    "https://www.linkedin.com/posts/gocrisp_ai-retailtech-acquisition-activity-7311070146574393344-DhKA"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Gocrisp",
+   "results": [
+    "https://www.facebook.com/GoCrispInc/",
+    "https://www.facebook.com/gocrispcom-108128290845068/",
+    "https://www.facebook.com/people/Crisp-Inc/100063499783649/",
+    "https://www.facebook.com/p/Crisp-Inc-100063499783649/",
+    "https://www.facebook.com/GoCrispInc/photos/790004776482296/",
+    "https://www.facebook.com/GoCrispInc/posts/crisp-is-honored-to-be-named-in-fast-companys-world-changing-ideas-awards-for-th/934022350609918/",
+    "https://www.facebook.com/GoCrispInc/posts/its-a-match-made-in-food-heaven-crisp-is-thrilled-to-announce-our-new-initiative/751961395482682/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gocrisp note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gocrisp X 投稿",
+   "results": [
+    "https://x.com/hashtag/Gocrisp",
+    "https://docs.gocrisp.com/docs",
+    "https://www.gocrisp.com/about",
+    "https://www.gocrisp.com/",
+    "https://x.com/grok/status/2119560839015370757",
+    "https://www.instagram.com/go.crisp/",
+    "https://www.tokyo-sports.co.jp/articles/-/400712"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部24頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部24頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部24頁・検索12回）"
+ }
+}

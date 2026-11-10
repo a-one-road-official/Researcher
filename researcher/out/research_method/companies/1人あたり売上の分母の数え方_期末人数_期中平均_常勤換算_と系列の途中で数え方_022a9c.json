@@ -8,7 +8,7 @@
  ],
  "context": "手順",
  "kind": "market",
- "researched_at": "2026-11-09T05:23:06.012740+00:00",
+ "researched_at": "2026-11-10T14:20:04.511644+00:00",
  "evidence": {
   "手順・やり方": [
    {
@@ -156,52 +156,6 @@
     "first_seen": "2026-11-07"
    }
   ],
-  "一次情報の探し方": [
-   {
-    "quote": "例えば、月64時間以上勤務できる非常勤看護職員を1名採用すれば、64÷160＝0.4人が加算され、合計2.7人となります",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "月112時間以上勤務できる非常勤看護職員を1名採用すれば、112÷160＝0.7人が加算され、合計3.0人となり、ようやく基準を満たすことができます",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "具体的には、産休・育休に入った常勤職員の代わりに、複数のパート職員を採用し、その合計勤務時間が常勤1人分以上になるように配置すれば、人員配置基準を満たすことができます",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "毎月の常勤換算数の推移を確認することで、人員不足の兆候を早期に発見し、採用活動やシフト調整などの対策を先手で打つことが可能になります",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "手計算によるミスを防ぐためにも、こうした公的なツールを積極的に活用することをおすすめします",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "計算シートには、職種ごとの常勤換算数を自動集計する機能や、人員配置基準との照合機能が備わっているものもあります",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "認知・リード獲得に加え、事業開発の仮説検証や講演・勉強会など、",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
   "実例": [
    {
     "quote": "When RPE is falling, two root causes explain most cases. Headcount grew faster than revenue, meaning the organization hired ahead of actual demand. Or revenue declined while headcount held steady, meaning a retention or hiring freeze decision is already overdue. Each cause calls for a different response.",
@@ -300,6 +254,52 @@
     "first_seen": "2026-11-07"
    }
   ],
+  "突き合わせ・推定": [
+   {
+    "quote": "計算シートには、職種ごとの常勤換算数を自動集計する機能や、人員配置基準との照合機能が備わっているものもあります",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "認知・リード獲得に加え、事業開発の仮説検証や講演・勉強会など、",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "例えば、月64時間以上勤務できる非常勤看護職員を1名採用すれば、64÷160＝0.4人が加算され、合計2.7人となります",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "月112時間以上勤務できる非常勤看護職員を1名採用すれば、112÷160＝0.7人が加算され、合計3.0人となり、ようやく基準を満たすことができます",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "具体的には、産休・育休に入った常勤職員の代わりに、複数のパート職員を採用し、その合計勤務時間が常勤1人分以上になるように配置すれば、人員配置基準を満たすことができます",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "毎月の常勤換算数の推移を確認することで、人員不足の兆候を早期に発見し、採用活動やシフト調整などの対策を先手で打つことが可能になります",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "手計算によるミスを防ぐためにも、こうした公的なツールを積極的に活用することをおすすめします",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "失敗・落とし穴": [
    {
     "quote": "有休・産休・兼務など、間違いやすいケースの扱い",
@@ -384,7 +384,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/yudai_ops/n/nb01da119aaf4",
+    "url": "https://note.com/constdx/n/n614d2182533c",
     "status": "ok",
     "method": "http"
    },
@@ -399,69 +399,104 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/high_city/n/n0bdd75891593",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/aicafe_fukui/n/n4986db22f948",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.palette-tech.com/kinmu-keitai-ichiranhyo/",
+    "url": "https://note.com/saitangoukakulab/n/nd34fe23c9114",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://kaigo-jitsumu-note.com/joukin-kansan-kazoekata/",
+    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://unso-houkoku.com/guide/gaikyo-houkokusho-kakikata",
+    "url": "https://note.com/life_to_ai/n/nc749dc224dea",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://ta5k.com/tools/industry/sales-per-employee",
+    "url": "https://note.com/mad2007takahashi/n/nf75ad11fbbf5",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://sp-21.co.jp/study/1-uriagedaka/",
+    "url": "https://release.nikkei.co.jp/attach_file/0526356_03.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/note_ir/n/n57d288e4fea8",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://zaimani.com/financial-indicators/sales-per-employee/",
+    "url": "https://www.murc.jp/wp-json/wp/v2/column_reports/93337/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smartmat.io/column/streamlining/8123",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://knowbe.jp/media/i906ihl5m8h-jokinkansan-keisan",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://wazabako.com/column/jokin-kansan",
+    "url": "https://ngc.nikkei.com/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "status": "ok",
-    "method": "http"
+    "url": "https://www.nikkeibp.co.jp/atcl/column/032900009/101601436/",
+    "status": "robots_disallowed",
+    "method": ""
    },
    {
-    "url": "https://biz.moneyforward.com/payroll/basic/112603/",
+    "url": "https://quizlet.com/jp/782409798/gab-%E9%9D%9E%E8%A8%80%E8%AA%9E-b-flash-cards/",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://www.thehumancapitalhub.com/articles/revenue-per-fte-the-productivity-number-that-flatters-misleads-and-sometimes-lies",
+    "url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6401.htm",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://komatsu-j.esnet.ed.jp/plugin/blogs/show/1/4/4764",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkeibp.co.jp/atcl/column/092500783/100200003/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://release.nikkei.co.jp/attach_file/0510494_03.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.kanazawa-u.ac.jp/wp/wp-content/uploads/2026/04/02-1-8-sugaku_bunkei_zenki.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://rmc-oden.com/blog/archives/208925",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://contest.japias.jp/tqj20/200334R/pdf/workseat3a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tossnet.or.jp/Portals/0/images/pdf/normal/20161003_281_ans.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://www.hrbench.com/resource/learn/revenue-per-employee",
@@ -469,22 +504,27 @@
     "method": "http"
    },
    {
-    "url": "https://parityai.pro/blog/revenue-per-employee",
+    "url": "https://www.venasolutions.com/blog/average-revenue-per-employee",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://workcalcs.com/revenue-per-employee-calculator/",
+    "url": "https://bizminer.com/revenue-per-employee-benchmarks/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.hrbench.com/resource/learn/current-headcount",
+    "url": "https://www.mccrackenalliance.com/blog/are-your-employees-pulling-their-weight-revenue-per-employee-explained",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://dashcalculator.com/calculators/revenue-per-employee",
+    "url": "https://tractian.com/en/glossary/revenue-per-employee",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://umbrex.com/resources/company-analysis/human-resources/revenue-per-employee/",
     "status": "ok",
     "method": "http"
    }
@@ -495,97 +535,108 @@
    "query": "1人あたり売上の分母の数え方（期末人数・期中平均・常勤換算）と系列の途中で数え方が変わる偽の向き site:note.com",
    "results": [
     "https://note.com/yuwa_office/n/n6e51e9503644",
-    "https://note.com/yudai_ops/n/nb01da119aaf4",
+    "https://note.com/constdx/n/n614d2182533c",
     "https://note.com/revenuescope/n/n00fd31afad70",
     "https://note.com/shinkin_ai/n/n936be826b6ef",
-    "https://note.com/high_city/n/n0bdd75891593",
     "https://note.com/aicafe_fukui/n/n4986db22f948",
-    "https://note.com/dpopsgroup/n/n6ead1340b46d",
-    "https://note.com/markeducation/n/n90132f936d08"
+    "https://note.com/saitangoukakulab/n/nd34fe23c9114",
+    "https://note.com/dpopsgroup/n/n6ead1340b46d"
    ],
    "engines": [
-    "ddgs:bing",
     "ddgs:google"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "1人あたり売上の分母の数え方（期末人数・期中平均・常勤換算）と系列の途中で数え方が変わる偽の向き note",
    "results": [
-    "https://www.palette-tech.com/kinmu-keitai-ichiranhyo/",
-    "https://kaigo-jitsumu-note.com/joukin-kansan-kazoekata/",
-    "https://unso-houkoku.com/guide/gaikyo-houkokusho-kakikata",
-    "https://note.com/revenuescope/n/n00fd31afad70",
-    "https://ta5k.com/tools/industry/sales-per-employee",
-    "https://sp-21.co.jp/study/1-uriagedaka/",
-    "https://zaimani.com/financial-indicators/sales-per-employee/",
-    "https://comimi.jp/archives/column/fte-kaigo",
-    "https://evergreen-mgt.biz/2026/04/27/gross-profit-definition-calc"
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://note.com/life_to_ai/n/nc749dc224dea",
+    "https://note.com/mad2007takahashi/n/nf75ad11fbbf5",
+    "https://release.nikkei.co.jp/attach_file/0526356_03.pdf",
+    "https://note.com/note_ir/n/n57d288e4fea8",
+    "https://www.murc.jp/wp-json/wp/v2/column_reports/93337",
+    "https://note.com/bonustrack/n/n3098272a24ae",
+    "https://jinnozeirishi.com/2021/10/19/kaikei-43/",
+    "https://www.kyoiku-shuppan.co.jp/textbook/chuu/eigo/files/gnr00/00j0426_money.pdf",
+    "https://www.palette-tech.com/kinmu-keitai-ichiranhyo/"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:yahoo"
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 16
   },
   {
    "query": "1人あたり売上の分母の数え方（期末人数・期中平均・常勤換算）と系列の途中で数え方が変わる偽の向き やり方",
    "results": [
-    "https://www.palette-tech.com/kinmu-keitai-ichiranhyo/",
-    "https://knowbe.jp/media/i906ihl5m8h-jokinkansan-keisan",
-    "https://kaigo-jitsumu-note.com/joukin-kansan-kazoekata/",
-    "https://wazabako.com/column/jokin-kansan",
-    "https://comimi.jp/archives/column/fte-kaigo",
-    "https://unso-houkoku.com/guide/gaikyo-houkokusho-kakikata",
-    "https://ta5k.com/tools/industry/sales-per-employee"
+    "https://www.smartmat.io/column/streamlining/8123",
+    "https://ngc.nikkei.com/",
+    "https://www.nikkeibp.co.jp/atcl/column/032900009/101601436/",
+    "https://quizlet.com/jp/782409798/gab-%E9%9D%9E%E8%A8%80%E8%AA%9E-b-flash-cards/",
+    "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6401.htm",
+    "https://komatsu-j.esnet.ed.jp/plugin/blogs/show/1/4/4764",
+    "https://www.kanazawa-u.ac.jp/wp/wp-content/uploads/2026/04/02-1-8-sugaku_bunkei_zenki.pdf",
+    "https://services.osakagas.co.jp/portalc/contents-1/sp/kurashi/47.html",
+    "https://www.murc.jp/wp-json/wp/v2/column_reports/93337",
+    "https://www.palette-tech.com/kinmu-keitai-ichiranhyo/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "1人あたり売上の分母の数え方（期末人数・期中平均・常勤換算）と系列の途中で数え方が変わる偽の向き 事例",
    "results": [
-    "https://www.palette-tech.com/kinmu-keitai-ichiranhyo/",
-    "https://biz.moneyforward.com/payroll/basic/112603/",
-    "https://kaigo-jitsumu-note.com/joukin-kansan-kazoekata/",
-    "https://wazabako.com/column/jokin-kansan",
-    "https://unso-houkoku.com/guide/gaikyo-houkokusho-kakikata",
-    "https://ta5k.com/tools/industry/sales-per-employee",
-    "https://sp-21.co.jp/study/1-uriagedaka/"
+    "https://quizlet.com/jp/782409798/gab-%E9%9D%9E%E8%A8%80%E8%AA%9E-b-flash-cards/",
+    "https://www.nikkeibp.co.jp/atcl/column/092500783/100200003/",
+    "https://release.nikkei.co.jp/attach_file/0510494_03.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/column_reports/93337",
+    "https://www.kanazawa-u.ac.jp/wp/wp-content/uploads/2026/04/02-1-8-sugaku_bunkei_zenki.pdf",
+    "https://rmc-oden.com/blog/archives/208925",
+    "https://contest.japias.jp/tqj20/200334R/pdf/workseat3a.pdf",
+    "https://www.tossnet.or.jp/Portals/0/images/pdf/normal/20161003_281_ans.pdf",
+    "https://www.takipro.com/2jishikenknow-how/case4/110524/",
+    "https://www.palette-tech.com/kinmu-keitai-ichiranhyo/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "revenue per employee headcount vs FTE average headcount false trend",
    "results": [
-    "https://www.thehumancapitalhub.com/articles/revenue-per-fte-the-productivity-number-that-flatters-misleads-and-sometimes-lies",
     "https://www.hrbench.com/resource/learn/revenue-per-employee",
-    "https://parityai.pro/blog/revenue-per-employee",
-    "https://workcalcs.com/revenue-per-employee-calculator/",
-    "https://www.hrbench.com/resource/learn/current-headcount",
-    "https://dashcalculator.com/calculators/revenue-per-employee",
-    "https://www.thesaascfo.com/arr-per-employee-benchmarks/"
+    "https://www.venasolutions.com/blog/average-revenue-per-employee",
+    "https://bizminer.com/revenue-per-employee-benchmarks/",
+    "https://www.mccrackenalliance.com/blog/are-your-employees-pulling-their-weight-revenue-per-employee-explained",
+    "https://tractian.com/en/glossary/revenue-per-employee",
+    "https://umbrex.com/resources/company-analysis/human-resources/revenue-per-employee/",
+    "https://iota-finance.com/iota-finance-blog/revenue-per-employee",
+    "https://www.insightful.io/blog/revenue-per-employee",
+    "https://acorn.works/blog/revenue-per-fte",
+    "https://www.thehumancapitalhub.com/articles/revenue-per-fte-the-productivity-number-that-flatters-misleads-and-sometimes-lies"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 14
   },
   {
    "query": "site:note.com 1人あたり売上の分母の数え方（期末人数・期中平均・常勤換算）と系列の途中で数え方が変わる偽の向き",
    "results": [
+    "https://note.com/constdx/n/n614d2182533c",
     "https://note.com/revenuescope/n/n00fd31afad70",
-    "https://note.com/shinkin_ai/n/n936be826b6ef",
     "https://note.com/markeducation/n/n90132f936d08",
+    "https://note.com/shinkin_ai/n/n936be826b6ef",
     "https://note.com/dpopsgroup/n/n6ead1340b46d",
     "https://note.com/bizgem_1220/n/n09441131d3fe",
-    "https://note.com/high_city/n/n0bdd75891593",
-    "https://note.com/aicafe_fukui/n/n4986db22f948"
+    "https://note.com/high_city/n/n0bdd75891593"
    ],
    "engines": [
     "ddgs:google"
@@ -596,15 +647,15 @@
    "query": "site:x.com 1人あたり売上の分母の数え方（期末人数・期中平均・常勤換算）と系列の途中で数え方が変わる偽の向き",
    "results": [
     "https://x.com/nakagawa_soukei/status/2061929852383428834",
-    "https://x.com/katokeidai/status/2040210248619917646",
     "https://x.com/RokuhanaYutaka/status/2101897629336740103",
+    "https://x.com/katokeidai/status/2040210248619917646",
     "https://x.com/bakahakken21/status/2114264380338844055",
-    "https://x.com/nikkei_business/status/2110099584727109886",
     "https://x.com/ytr_growthpilot/status/2097468777327726704",
+    "https://x.com/propagate_life/status/2115013662868132038",
     "https://x.com/CoreRiseCo/status/2093664742145704393"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -633,69 +684,76 @@
     "https://www.facebook.com/takahiro.nishimura.79/photos/経営を時間軸でみて安定させる方法一つご紹介します鉄則は分母です弊社では安定した院運営が出来ています１２店舗の平均売り上げ400万利益率は40以上というと驚かれま/2085849971506070/",
     "https://www.facebook.com/reformonline/videos/全国の有名なリフォーム会社100社の10年間が一目でわかるリフォーム売上や社員一人当たりの売上高工事件数平均単価を紹介経営データを数値化全国有力リフォーム会社1/1334981797874862/",
     "https://www.facebook.com/dandoriwork/photos/住宅会社の経営者の方おすすめ11月1日開催セミナー半径3km圏で社員1人あたり売上生産性1億円を実現する超地域密着型経営の全貌とは今回のテーマは超地域密着型経営/5563210563768797/",
-    "https://www.facebook.com/minnanokaigo/videos/ケアマネの担当件数に上限はある2024年度介護報酬改定による影響を解説/957712149334697/"
+    "https://www.facebook.com/kayano55/videos/独立起業した人の年商売上と年収所得利益は個人事業主のままでいるか会社を設立して法人化しているかによって数字の定義や実態が大きく異なります公的な統計データに基づく/980333678470506/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
   {
    "query": "1人あたり売上の分母の数え方（期末人数・期中平均・常勤換算）と系列の途中で数え方が変わる偽の向き note 社長",
    "results": [
-    "https://www.palette-tech.com/kinmu-keitai-ichiranhyo/",
-    "https://kaigo-jitsumu-note.com/joukin-kansan-kazoekata/",
-    "https://unso-houkoku.com/guide/gaikyo-houkokusho-kakikata",
-    "https://note.com/revenuescope/n/n00fd31afad70",
-    "https://sp-21.co.jp/study/1-uriagedaka/",
-    "https://ta5k.com/tools/industry/sales-per-employee",
-    "https://zaimani.com/financial-indicators/sales-per-employee/"
+    "https://note.com/life_to_ai/n/nc749dc224dea",
+    "https://note.com/mad2007takahashi/n/nf75ad11fbbf5",
+    "https://www.nikkeibp.co.jp/atcl/column/081200757/",
+    "https://release.nikkei.co.jp/attach_file/0534445_03.pdf",
+    "https://note.com/gtminami/n/n3dd8800a7e3b",
+    "https://www.murc.jp/wp-json/wp/v2/column_reports/93337",
+    "https://sanmei.mononofu-japan.jp/column/6i_94aocaoc",
+    "https://www.kyoiku-shuppan.co.jp/textbook/chuu/eigo/files/gnr00/00j0426_money.pdf",
+    "https://www.postype.com/ja/@junsu0902/post/14106703",
+    "https://www.palette-tech.com/kinmu-keitai-ichiranhyo/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "1人あたり売上の分母の数え方（期末人数・期中平均・常勤換算）と系列の途中で数え方が変わる偽の向き X 投稿",
    "results": [
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.nikkeibp.co.jp/atcl/column/102700800/",
+    "https://ngc.nikkei.com/",
+    "https://socialreport.jp/blog/20260914-sr-541146/",
+    "https://www.murc.jp/wp-json/wp/v2/column_reports/93337",
+    "https://www.ecmj.co.jp/no1947/",
+    "https://japankaikei.com/blog/excel-unit-conversion.html",
+    "https://www.ohmae.ac.jp/mbaswitch/twitter_financial_results",
     "https://www.palette-tech.com/kinmu-keitai-ichiranhyo/",
-    "https://biz.moneyforward.com/payroll/basic/112603/",
-    "https://kaigo-jitsumu-note.com/joukin-kansan-kazoekata/",
-    "https://wazabako.com/column/jokin-kansan",
-    "https://unso-houkoku.com/guide/gaikyo-houkokusho-kakikata",
-    "https://sp-21.co.jp/study/1-uriagedaka/",
-    "https://ta5k.com/tools/industry/sales-per-employee",
-    "https://knowbe.jp/media/i906ihl5m8h-jokinkansan-keisan"
+    "https://kaigo-jitsumu-note.com/joukin-kansan-kazoekata/"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 8
+   "n_hits": 15
   },
   {
    "query": "revenue per employee headcount vs FTE average headcount false trend site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/cheyannebanks_ipa-data-dive-the-new-economics-of-growth-activity-7425185996855738368-MH0z",
-    "https://www.linkedin.com/pulse/arr-per-employee-efficiency-metric-randy-wootton-vxlcc",
-    "https://gt.linkedin.com/posts/iamsergeimorozov_peopleanalytics-hranalytics-hrmetrics-activity-7019967761783128064-sjVR",
-    "https://www.linkedin.com/top-content/business-strategy/scaling-business-operations/breaking-revenue-vs-headcount-scaling/",
-    "https://www.linkedin.com/pulse/headcount-vs-fte-why-workforce-metrics-keep-getting-up-tskhay-phd-b9tec",
-    "https://pe.linkedin.com/posts/taxplow_87000-accounting-firms-in-the-us-only-activity-7265731034871136259-ClYs",
-    "https://www.linkedin.com/posts/marcbegins_87000-accounting-firms-in-the-us-only-activity-7265703171409219584-PR7i",
-    "https://www.linkedin.com/pulse/hidden-link-between-headcount-revenue-misses-chris-mannion-z2khe",
-    "https://www.linkedin.com/pulse/revenue-per-employee-number-tells-truth-patrick-rooney-qdjhe"
+    "https://www.linkedin.com/top-content/retail-merchandising/retail-performance-metrics/revenue-per-employee-statistics/",
+    "https://www.linkedin.com/posts/cj-gustafson-13140948_revenue-per-employee-stats-this-week-i-decided-activity-7388917482734116864-2f-0",
+    "https://www.linkedin.com/posts/matt-schulman-15911861_how-large-should-your-hr-recruitment-teams-activity-7448716507465003008-BDIe",
+    "https://www.linkedin.com/posts/guillermoflor_breaking-deel-just-replaced-the-equivalent-activity-7508081876616577025-ymNI",
+    "https://www.linkedin.com/pulse/compensation-benefits-measures-metrics-analysis-ankita-anushree",
+    "https://www.linkedin.com/posts/richa-sareen-228774302_hr-humanresource-compliance-activity-7404765220788695042-1puy",
+    "https://www.linkedin.com/posts/mbazargan_18-billion-scale-company-run-by-a-founder-activity-7445883857041805313-5Y43",
+    "https://www.linkedin.com/pulse/simple-microeconomics-ai-productivity-vince-kellen-phd-sr13f",
+    "https://www.linkedin.com/top-content/business-strategy/performance-measurement-systems/how-to-track-key-performance-indicators/",
+    "https://www.linkedin.com/posts/jasonmlemkin_so-how-big-of-a-sales-team-do-you-need-with-activity-7434628037654183937-Pqpp"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 17
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 9,
+ "runs": 10,
  "first_researched_at": "2026-11-07T01:58:53.836418+00:00"
 }

@@ -1,0 +1,1115 @@
+{
+ "name": "Iomete",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial IT / Data Infrastructure｜未接触",
+ "researched_at": "2026-11-10T14:29:41.043321+00:00",
+ "official_url": "https://www.iomete.com/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$108,000",
+    "url": "https://prospeo.io/c/iomete-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$2,085,000",
+    "url": "https://prospeo.io/c/iomete-revenue",
+    "pass": 3
+   },
+   {
+    "label": "4. Seed Round",
+    "value": "01-Apr-2022    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/472337-92",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "02-Dec-2021 $250K $250K  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/472337-92",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Mountain View, California, United States",
+    "url": "https://prospeo.io/c/iomete-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2020",
+    "url": "https://prospeo.io/c/iomete-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Data volumes are exploding and privacy and data ownership is more critical than ever. Why limit yourself to public cloud alone?",
+    "url": "https://iomete.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our platform runs on-premises, in your data centers, in your private cloud, your public cloud or all of the above (hybrid).",
+    "url": "https://iomete.com/",
+    "pass": 1
+   },
+   {
+    "quote": "DATA SECURITY AND PRIVACY",
+    "url": "https://iomete.com/",
+    "pass": 1
+   },
+   {
+    "quote": "You can implement bespoke security measures and manage all aspects of data protection tailored to your needs.",
+    "url": "https://iomete.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SaaS makes you dependent on external parties for critical aspects of your data security and privacy.",
+    "url": "https://iomete.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce storage and compute cost by optimizing your on-premise/cloud mix. Put cloud discounts in your own pocket. Save 2-5x over SaaS/cloud.",
+    "url": "https://iomete.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Forever pay the SaaS cloud premium; this gets expensive quickly at petabyte-size.",
+    "url": "https://iomete.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Store your data anywhere. Organize it into clear data domains and apply mesh principles for true self-serve. Advanced access controls let you fine-tune permissions down to users, teams, tables, columns, or rows — so every team gets precisely the data they need.",
+    "url": "https://iomete.com/",
+    "pass": 1
+   },
+   {
+    "quote": "UNIQUE ENGINEERING APPROACH",
+    "url": "https://iomete.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sometimes software is only a part of the solution. We can provide FDEs that become an extension of your team.",
+    "url": "https://iomete.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Easily spin up multiple lakehouses tailored to specific needs – separate environments for development, testing, and production workloads, or dedicated lakehouses for different business units, regions, or data domains.",
+    "url": "https://iomete.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Spark Connect lets you seamlessly run Spark workloads from your preferred development environment. Code in Python, R, or SQL using familiar tools like Jupyter notebooks while leveraging IOMETE’s distributed computing power. Connect, analyze, and process data at scale without leaving your local setup.",
+    "url": "https://iomete.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect to IOMETE’s lakehouses through interactive Jupyter notebooks. Run Python, R, or SQL code against your data using familiar notebook interfaces, with built-in kernels that handle distributed processing seamlessly.",
+    "url": "https://iomete.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Track and review all previously executed queries with detailed runtime statistics, execution plans, and performance metrics. Easily reuse successful queries and troubleshoot performance bottlenecks.",
+    "url": "https://iomete.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Process real-time data streams from sources like Apache Kafka, Amazon Kinesis, and Apache Pulsar to gain immediate insights and trigger actions.",
+    "url": "https://iomete.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Save and reuse your data processing workflows, making it easy to standardize and automate your data pipelines.",
+    "url": "https://iomete.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Easily discover, understand, and trust your data assets with a centralized repository that provides metadata, lineage, and quality information.",
+    "url": "https://iomete.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect sensitive data by automatically replacing it with realistic but fictional values, allowing you to safely use data for development, testing, and analytics without compromising privacy.",
+    "url": "https://iomete.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Use tags to enforce access policies based on data categorization. Organize and categorize your data using custom tags, making it easier to search, filter, and manage your data assets. This helps improve data discovery, data security, and understanding across your organization.",
+    "url": "https://iomete.com/",
+    "pass": 1
+   },
+   {
+    "quote": "IOMETE lets you organize and govern your data by subject area (e.g. customer, product, finance) to simplify data discovery, access control, and compliance with regulations like GDPR.",
+    "url": "https://iomete.com/",
+    "pass": 1
+   },
+   {
+    "quote": "IOMETE operates entirely within the customer’s trust perimeter, whether on-premises or in the customer’s cloud account. This setup ensures that customers maintain complete control and ownership of their data.",
+    "url": "https://iomete.com/",
+    "pass": 1
+   },
+   {
+    "quote": "By minimizing data movement, we not only reduce costs but also significantly lower the risk of data leaks or loss, while preventing vendor lock-in. Thanks to IOMETE’s unique self-hosted architecture, it’s impossible for us to lose your data simply because it is stored in your trusted environment.",
+    "url": "https://iomete.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Interpreting the Gartner® Market Guide for Data Lakehouse Platforms",
+    "url": "https://iomete.com/",
+    "pass": 1
+   },
+   {
+    "quote": "IOMETE made the 2025 Gartner® Market Guide for Data Lakehouse Platforms — a signal that our independent, self-hosted approach resonates with enterprises that expect data sovereignty.",
+    "url": "https://iomete.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Building an enterprise data platform",
+    "url": "https://iomete.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing Plans | IOMETE",
+    "url": "https://iomete.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Tired of hidden costs and billing surprises? So are we.",
+    "url": "https://iomete.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Our pricing model embodies this vision: the generous",
+    "url": "https://iomete.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "provides access to all core features, the",
+    "url": "https://iomete.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "adds advanced data access and security features with enterprise-grade support, and the",
+    "url": "https://iomete.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Self-hosted, on-premises deployment",
+    "url": "https://iomete.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Find out more about the Enterprise plan.",
+    "url": "https://iomete.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Self-hosted, on-premises or hybrid deployment",
+    "url": "https://iomete.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise features + Multi-region",
+    "url": "https://iomete.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise support + Dedicated engineers",
+    "url": "https://iomete.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "IOMETE’s enterprise support ensures your data operations stay on track with flexible plans tailored to your needs.",
+    "url": "https://iomete.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "From essential troubleshooting to priority assistance, we offer round-the-clock help and expert guidance. For critical workloads, upgrade to dedicated support with direct access to our team – because your data deserves reliable, top-notch care whenever you need it.",
+    "url": "https://iomete.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "PRIORITY SUPPORT QUEUE",
+    "url": "https://iomete.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Priority Enterprise support",
+    "url": "https://iomete.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "PROFESSIONAL SERVICES",
+    "url": "https://iomete.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "IOMETE’s professional services help you maximize your data’s potential with expert guidance tailored to your goals.",
+    "url": "https://iomete.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "From seamless onboarding to advanced optimization, our team can provide hands-on support to tackle any challenge. For complex projects, tap into specialized expertise to accelerate success – ensuring your data strategy delivers results with precision and confidence. Get in touch to learn more.",
+    "url": "https://iomete.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Partner Program | IOMETE",
+    "url": "https://iomete.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Join our ecosystem of technology and service partners to deliver exceptional data infrastructure solutions to enterprises worldwide.",
+    "url": "https://iomete.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Explore joint marketing opportunities and effective campaign support.",
+    "url": "https://iomete.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "It also leads to vendor lock-in and unnecessary data movement. This drives up cost and may results in data leaks. This is why over the past four years, we’ve built a data platform that addresses these serious issues based on real-world user feedback.",
+    "url": "https://iomete.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "IOMETE is a self-hosted platform, meaning it’s installed in the customer’s trust perimeter. It runs on-premises, as well as on cloud.",
+    "url": "https://iomete.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Due to its open nature it is extremely flexible and can be tailored to unique organizational leads. It is significantly more cost-efficient (> 2x) than cloud-SAAS alternatives. We’d love for you to try it out.",
+    "url": "https://iomete.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "At IOMETE, we understand that at the heart of great engineering is the drive to solve problems. That’s why IOMETE is not just a platform, we consider ourselves an extension of your engineering team.",
+    "url": "https://iomete.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Designed to empower enterprise data teams, IOMETE facilitates a level of customization and control that mainstream solutions fail to offer.",
+    "url": "https://iomete.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We’re growing quickly and are making foundational hires. If you are hard-working, smart and kind, we’d love for you to check out our open roles or send your resume to careers@iomete.com.",
+    "url": "https://iomete.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "A quickstart guides to using SQL to query and process data in your data lakehouse.",
+    "url": "https://iomete.com/resources",
+    "pass": 3
+   },
+   {
+    "quote": "Data as a Product for large enterprises",
+    "url": "https://iomete.com/resources",
+    "pass": 3
+   },
+   {
+    "quote": "#1 Product of the Day",
+    "url": "https://moge.ai/ja/product/iomete",
+    "pass": 3
+   },
+   {
+    "quote": "It offers flexibility and can be deployed anywhere – on-premises, in the cloud, or in a hybrid environment.",
+    "url": "https://iomete.com/resources/getting-started/what-is-iomete",
+    "pass": 3
+   },
+   {
+    "quote": "IOMETE is a cutting-edge Data Lakehouse Platform that revolutionizes how organizations manage and analyze their data. It has been engineered to deliver exceptional performance and flexibility for AI and analytics workloads. Here's what makes IOMETE stand out:",
+    "url": "https://iomete.com/resources/getting-started/what-is-iomete",
+    "pass": 3
+   },
+   {
+    "quote": ": IOMETE leverages Apache Spark, a high-performance data processing engine, to deliver lightning-fast data analytics and processing capabilities.",
+    "url": "https://iomete.com/resources/getting-started/what-is-iomete",
+    "pass": 3
+   },
+   {
+    "quote": ": With IOMETE's cloud-native architecture, you can scale your data processing and storage resources independently, allowing your organization to handle data of any scale seamlessly.",
+    "url": "https://iomete.com/resources/getting-started/what-is-iomete",
+    "pass": 3
+   },
+   {
+    "quote": ": You can deploy IOMETE anywhere, whether it's on-premises, in the cloud, or in a hybrid environment, providing you with the flexibility to choose the environment that suits your needs.",
+    "url": "https://iomete.com/resources/getting-started/what-is-iomete",
+    "pass": 3
+   },
+   {
+    "quote": "IOMETE embraces this concept to provide you with a robust platform for managing your data.",
+    "url": "https://iomete.com/resources/getting-started/what-is-iomete",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Sometimes software is only a part of the solution. We can provide FDEs that become an extension of your team.",
+    "url": "https://iomete.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Apache Arrow explained",
+    "url": "https://iomete.com/resources",
+    "pass": 3
+   },
+   {
+    "quote": "IOMETE runs on Kubernetes, providing Compute Clusters that expose SQL endpoints for querying large-scale data. You can connect BI and data science tools such as Tableau and Jupyter to IOMETE via JDBC/ODBC, Spark Connect, or Arrow Flight protocol.",
+    "url": "https://iomete.com/resources/getting-started/what-is-iomete",
+    "pass": 3
+   },
+   {
+    "quote": "Spark Connect & Arrow Flight",
+    "url": "https://iomete.com/resources/getting-started/what-is-iomete",
+    "pass": 3
+   },
+   {
+    "quote": ": Connect programmatically from BI tools, data apps, and notebooks using Spark Connect or Arrow Flight protocol.",
+    "url": "https://iomete.com/resources/getting-started/what-is-iomete",
+    "pass": 3
+   },
+   {
+    "quote": "Stream from Kafka, Kinesis, and Pulsar through the same Spark engine. Streaming is part of the platform, not an upsell.",
+    "url": "https://ploy.iomete.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "IOMETE Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/iomete-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At IOMETE",
+    "url": "https://prospeo.io/c/iomete-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/iomete-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/iomete-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/iomete-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of IOMETE?",
+    "url": "https://prospeo.io/c/iomete-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "IOMETE generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/iomete-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/iomete-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/iomete-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does IOMETE have?",
+    "url": "https://prospeo.io/c/iomete-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/iomete-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/472337-92",
+    "pass": 3
+   },
+   {
+    "quote": "IOMETE has 35 total employees.",
+    "url": "https://pitchbook.com/profiles/company/472337-92",
+    "pass": 3
+   },
+   {
+    "quote": "What is IOMETE’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/472337-92",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for IOMETE is",
+    "url": "https://pitchbook.com/profiles/company/472337-92",
+    "pass": 3
+   },
+   {
+    "quote": "IOMETE Revenue 2024: $1.8M Est.",
+    "url": "https://getlatka.com/companies/iomete.com",
+    "pass": 3
+   },
+   {
+    "quote": "IOMETE has not published its revenue. GetLatka estimates it at about $1.8M a year (June 2024).",
+    "url": "https://getlatka.com/companies/iomete.com",
+    "pass": 3
+   },
+   {
+    "quote": "IOMETE CEO, founders & employees",
+    "url": "https://getlatka.com/companies/iomete.com",
+    "pass": 3
+   },
+   {
+    "quote": "Vusal Dadalov founded IOMETE in 2020 and runs it as CEO. IOMETE had 12 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/iomete.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is IOMETE's revenue?",
+    "url": "https://getlatka.com/companies/iomete.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates IOMETE's revenue at about",
+    "url": "https://getlatka.com/companies/iomete.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does IOMETE have?",
+    "url": "https://getlatka.com/companies/iomete.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in June 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/iomete.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/iomete.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/iomete.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/iomete.com",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Unlimited via portal and Slack/email",
+    "url": "https://iomete.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/iomete-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/472337-92",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Partner Program | IOMETE",
+    "url": "https://iomete.com/partner-program",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "The Sovereign Data Lakehouse Platform | IOMETE — Connect to IOMETE’s lakehouses through interactive Jupyter notebooks. Run Python, R, or SQL code against your data using familiar notebook interfaces, with built-in kernels that handle distributed processing seamlessly.",
+    "url": "https://iomete.com/",
+    "pass": 3
+   },
+   {
+    "quote": "IOMETE - certi.news — IOMETEは、プライベートクラウド、パブリッククラウド、オンプレミスのデータセンター、ハイブリッド環境で稼働できるLakehouseデータプラットフォームを開発しており、企業がデータとインフラを自社の管理下に置いたまま、分析とAIワークロードを管理 ...",
+    "url": "https://certi.news/ja/company/iomete",
+    "pass": 3
+   },
+   {
+    "quote": "Documentation and Resources - IOMETE — Explore the limitless possibilities of IOMETE with our comprehensive tutorials and resourceful guides. Elevate your IOMETE experience through in-depth insights, step-by-step tutorials, and a curated collection of valuable resources.",
+    "url": "https://iomete.com/resources",
+    "pass": 3
+   },
+   {
+    "quote": "IOMETE:拡張可能なストレージ、高度な分析、堅牢なガバナンスを組み合... — IOMETEはクラウドとオンプレミスの両方の展開をサポートし、BIとデータサイエンスツールとの強力な統合を提供し、包括的なガバナンス、アクセス制御、マルチリージョンサポートを提供します。",
+    "url": "https://moge.ai/ja/product/iomete",
+    "pass": 3
+   },
+   {
+    "quote": "Our Vision & Mission | IOMETE — Who we are IOMETE is built by engineers, for engineers. Our team is fully remote, spanning seven different countries. Our journey began in the trenches of the likes of Amazon, Google, Meta and Uber where we experienced firsthand the challenges and limitations of existing SaaS data platforms.",
+    "url": "https://iomete.com/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "The Sovereign Data Lakehouse Platform | IOMETE — By minimizing data movement, we not only reduce costs but also significantly lower the risk of data leaks or loss, while preventing vendor lock-in. Thanks to IOMETE’s unique self-hosted architecture, it’s impossible for us to lose your data simply because it is stored in your trusted environment.",
+    "url": "https://iomete.com/",
+    "pass": 3
+   },
+   {
+    "quote": "What Is IOMETE? Self-Hosted Spark + Iceberg Lakehouse — IOMETE is a state-of-the-art, fast, scalable, user-friendly Data Lakehouse Platform for AI and Analytics. It offers flexibility and can be deployed anywhere – on-premises, in the cloud, or in a hybrid environment.",
+    "url": "https://iomete.com/resources/getting-started/what-is-iomete",
+    "pass": 3
+   },
+   {
+    "quote": "IOMETE Pricing — Predictable, Ownership-Based Data Lakehouse ... — IOMETE pricing is built around ownership, not usage. A predictable platform license that runs on infrastructure you already own – no per-query meter, no per-seat tiers, no surprise bills. See how it compares to consumption-based SaaS lakehouses.",
+    "url": "https://ploy.iomete.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Vusal Dadalov - Co-Founder & CEO at IOMETE | Data ... — With this integration, organizations can use Wasabi Technologies ' S3-compatible object storage to store Apache Iceberg data and metadata, while IOMETE handles lakehouse compute, catalog...",
+    "url": "https://www.linkedin.com/in/vusaldadalov",
+    "pass": 3
+   },
+   {
+    "quote": "IOMETE: Self-hosted data lakehouse platform | Y Combinator — Mar 6, 2022 · Self-hosted data lakehouse platform. Founded in 2020 by Vusal Dadalov and Piet Jan de Bruin, IOMETE has 25 employees based in San Francisco.",
+    "url": "https://www.ycombinator.com/companies/iomete",
+    "pass": 3
+   },
+   {
+    "quote": "IOMETE Revenue, Funding & Valuation - prospeo.io — IOMETE has revenue of $3,000,000, estimated valuation of $9,600,000, $2,085,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/iomete-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "IOMETE 2026 Company Profile: Valuation, Funding & Investors ...iomete - 2025 Company Profile, Team, Funding & Competitors ...IOMETE Revenue 2024: $1.8M Est. - getlatka.comIOMETE: Funding, Team & Investors | Startup IntrosIOMETE — Company Profile, Funding & InvestorsIOMETE - Crunchbase Company Profile & Funding — Information on valuation, funding, cap tables, investors, and executives for IOMETE. U",
+    "url": "https://pitchbook.com/profiles/company/472337-92",
+    "pass": 3
+   },
+   {
+    "quote": "iomete - 2025 Company Profile, Team, Funding & Competitors ...IOMETE Revenue 2024: $1.8M Est. - getlatka.comIOMETE: Funding, Team & Investors | Startup IntrosIOMETE — Company Profile, Funding & InvestorsIOMETE - Crunchbase Company Profile & Funding — Sep 16, 2025 · iomete is a seed company based in Mountain View (United States), founded in 2020 by Piet Jan de Bruin. It operates as a Cloud based pl",
+    "url": "https://tracxn.com/d/companies/iomete/__iyN3xCuJnsjaybmGkcDUB9XGwvgpuFFqKr4qClHY5UI",
+    "pass": 3
+   },
+   {
+    "quote": "IOMETE Revenue 2024: $1.8M Est. - getlatka.com — Oct 30, 2026 · IOMETE CEO, founders & employees Vusal Dadalov founded IOMETE in 2020 and runs it as CEO. IOMETE has 12 employees (June 2024, LinkedIn). VD Vusal Dadalov Co-founder & CEO",
+    "url": "https://getlatka.com/companies/iomete.com",
+    "pass": 3
+   },
+   {
+    "quote": "IOMETE: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · The company currently employs 21 individuals and has reported revenue of less than $5 million. IOMETE participated in Y Combinator in early 2022, gaining recognition within the startup ecosystem. It was founded in 2020 by Vusal Dadalov and Piet Jan de Bruin.",
+    "url": "https://startupintros.com/orgs/iomete",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "A data lakehouse is a modern data management architecture that combines the advantages of data lakes and data warehouses.",
+    "url": "https://iomete.com/resources/getting-started/what-is-iomete",
+    "pass": 3
+   },
+   {
+    "quote": "It brings together the scalability of data lakes with the reliability, data quality, ACID transactions, and security features of data warehouses.",
+    "url": "https://iomete.com/resources/getting-started/what-is-iomete",
+    "pass": 3
+   },
+   {
+    "quote": "While a data lake stores structured and unstructured data at scale, a data lakehouse, such as IOMETE, goes a step further by incorporating data warehouse features.",
+    "url": "https://iomete.com/resources/getting-started/what-is-iomete",
+    "pass": 3
+   },
+   {
+    "quote": ": Combines the benefits of data lakes and warehouses, offering scalability with reliability and security.",
+    "url": "https://iomete.com/resources/getting-started/what-is-iomete",
+    "pass": 3
+   },
+   {
+    "quote": "IOMETE deploys inside your environment, so you pay your real infrastructure cost with no markup on credits, DBUs, or warehouse seconds. There is no second cloud bill sitting on top of your own.",
+    "url": "https://ploy.iomete.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Data Warehouse Solutions",
+    "url": "https://getlatka.com/companies/iomete.com",
+    "pass": 3
+   },
+   {
+    "quote": "IOMETE is a Data Warehouse Solutions company based in Mountain View, founded in 2020.",
+    "url": "https://getlatka.com/companies/iomete.com",
+    "pass": 3
+   },
+   {
+    "quote": "Browse Data Warehouse Solutions",
+    "url": "https://getlatka.com/companies/iomete.com",
+    "pass": 3
+   },
+   {
+    "quote": "All Data Warehouse Solutions companies, ranked",
+    "url": "https://getlatka.com/companies/iomete.com",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "IOMETE (@iometedata) / Posts / X IOMETE lets you see table ownership, tag PII, and manage metadata right from the UI—even on tiny test tables. That’s the power of Iceberg + data catalog integration.",
+    "url": "https://x.com/iometedata",
+    "pass": 3
+   },
+   {
+    "quote": "Iometer (@iometer) / X The Iometer project @iometer The Iometer project iometer.org Joined August 2010 0Following 4Followers Mention Follow Posts RepliesRepostsRepostsMediaMedia",
+    "url": "https://x.com/iometer",
+    "pass": 3
+   },
+   {
+    "quote": "CarloAlbertoPoletti (@iOmEtE) / X 7 followers · 17 following. Italy. Joined Jul 2009. See the latest conversations with @iOmEtE",
+    "url": "https://x.com/iomete",
+    "pass": 3
+   },
+   {
+    "quote": "Ryohō（りょほう） on X: \"Pere de amasfinancado mi iomete investis... Pere de amasfinancado mi iomete investis en kreskigo de kurĉevalido. Investdaŭro estas de kreskigo ĝis aŭkcio. La patro estas Danon Kingly, la patrino estas Moriden Tequila, kies patro estas fama King Halo.",
+    "url": "https://x.com/RyohoFuse/status/2086741386066633048",
+    "pass": 3
+   },
+   {
+    "quote": "IOMETE (@iometedata) / Posts / X Nov 2, 2021 · Whether you're managing data for multiple departments or clients, IOMETE makes true multi-tenant architecture simple — without sacrificing performance or governance.",
+    "url": "https://x.com/iometedata",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "IOMETE - LinkedIn Enterprises use IOMETE to replace aging Hadoop and legacy warehouses, consolidate fragmented data stacks, and power analytics, machine learning, and AI workloads at scale.",
+    "url": "https://www.linkedin.com/company/iomete",
+    "pass": 3
+   },
+   {
+    "quote": "Piet Jan de Bruin - IOMETE | LinkedInIOMETE - LinkedInUjjawal Khare - Tech @IOMETE | AI/ML Platform | Edge | IIT ...Vusal Dadalov - Co-Founder & CEO at IOMETE | Data ...How IOMETE enables self-hosted data lakehouses with cloud ...IOMETE Data Lakehouse 2.0 - LinkedIn · Experience: IOMETE · Education: Y Combinator · Location: United States · 500+ connections on LinkedIn. View Piet Jan de Bruin’s pro",
+    "url": "https://www.linkedin.com/in/pietjandebruin",
+    "pass": 3
+   },
+   {
+    "quote": "IOMETE - LinkedIn Cost efficiency is more than just a financial goal—it’s a strategic necessity in modern enterprise data management. IOMETE enables efficient resource utilization through automated scaling and...",
+    "url": "https://az.linkedin.com/company/iomete?trk=public_post_share-update_actor-image",
+    "pass": 3
+   },
+   {
+    "quote": "Ujjawal Khare - Tech @IOMETE | AI/ML Platform | Edge | IIT ...Vusal Dadalov - Co-Founder & CEO at IOMETE | Data ...How IOMETE enables self-hosted data lakehouses with cloud ...IOMETE Data Lakehouse 2.0 - LinkedIn Tech @IOMETE | AI/ML Platform | Edge | IIT BHU · Platform and infrastructure engineer with 5+ years of experience building scalable systems for machine learning, big data, and high-concur",
+    "url": "https://in.linkedin.com/in/ujjawal-khare-30b95b147",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "iomete | Mountain View CA - Facebook Mar 11, 2025 · 2️⃣ Spark job scheduling: IOMETE includes a job scheduler for Spark jobs, allowing users to schedule jobs to run at specific times or intervals and set job",
+    "url": "https://www.facebook.com/people/iomete/100064480342992/",
+    "pass": 3
+   },
+   {
+    "quote": "iomete - Challenges: 1️⃣ Redshift's storage and compute ... Jul 21, 2023 · 🔬 Data science made easy! IOMETE covers it all with Apache Spark jobs and a convenient notebook service.",
+    "url": "https://www.facebook.com/100064480342992/posts/-challenges1️⃣-redshifts-storage-and-compute-are-tightly-coupled-making-separate/668091408683531/",
+    "pass": 3
+   },
+   {
+    "quote": "ITechStorm - Reposting my tutorial on Iometer, a wonderful... Reposting my tutorial on Iometer, a wonderful tool for troubleshooting disk and network IO issues: https://youtu.be/XkOUGbsnGn0",
+    "url": "https://www.facebook.com/itechstorm/posts/reposting-my-tutorial-on-iometer-a-wonderful-tool-for-troubleshooting-disk-and-n/1612509005631004/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://iomete.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iomete.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iomete.com/partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iomete.com/about-us",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://iomete.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://certi.news/ja/company/iomete",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iomete.com/resources",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://moge.ai/ja/product/iomete",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kkhashi.com/blogs/detail/145/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iomete.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iomete.com/resources/getting-started/what-is-iomete",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ploy.iomete.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/in/vusaldadalov",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/iomete-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/472337-92",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/iomete/__iyN3xCuJnsjaybmGkcDUB9XGwvgpuFFqKr4qClHY5UI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/iomete.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/iometedata",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/iometer",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/iomete",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/RyohoFuse/status/2086741386066633048",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/iomete",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/pietjandebruin",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://az.linkedin.com/company/iomete?trk=public_post_share-update_actor-image",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/ujjawal-khare-30b95b147",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/iomete/100064480342992/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100064480342992/posts/-challenges1️⃣-redshifts-storage-and-compute-are-tightly-coupled-making-separate/668091408683531/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/itechstorm/posts/reposting-my-tutorial-on-iometer-a-wonderful-tool-for-troubleshooting-disk-and-n/1612509005631004/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/iometedata",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/iomete",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Iomete 日本 導入",
+   "results": [
+    "https://iomete.com/",
+    "https://certi.news/ja/company/iomete",
+    "https://iomete.com/resources",
+    "https://moge.ai/ja/product/iomete",
+    "https://iomete.com/about-us",
+    "https://iomete.com/resources/getting-started/what-is-iomete",
+    "https://www.renewable-ei.org/activities/reports/20260820.php"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Iomete 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.i-teamjapan.com/",
+    "https://biz.toyokeizai.net/data/service/detail/id=418"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Iomete Japan",
+   "results": [
+    "https://iomete.com/",
+    "https://iomete.com/resources/getting-started/what-is-iomete",
+    "https://ploy.iomete.com/pricing",
+    "https://www.linkedin.com/in/vusaldadalov",
+    "https://www.ycombinator.com/companies/iomete",
+    "https://www.linkedin.com/company/iomete",
+    "https://iomete.remotetips.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Iomete manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Iomete white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://upcloud.com/partner-program/",
+    "https://www.canva.com/partners/reseller/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Iomete founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/iomete-revenue",
+    "https://pitchbook.com/profiles/company/472337-92",
+    "https://tracxn.com/d/companies/iomete/__iyN3xCuJnsjaybmGkcDUB9XGwvgpuFFqKr4qClHY5UI",
+    "https://getlatka.com/companies/iomete.com",
+    "https://startupintros.com/orgs/iomete",
+    "https://acquirezy.com/organization/iomete-3167126",
+    "https://www.crunchbase.com/organization/iomete"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Iomete",
+   "results": [
+    "https://note.com/tag/ギャンブル依存症",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/watarutida/m/meef47a7cc358",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/doerstokyo_kb/n/n8ecfdcafaea2",
+    "https://note.com/chokuzen_note/n/n446b6ac7d01d",
+    "https://note.com/draft_candidate/m/mc6ed818cf2b4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Iomete",
+   "results": [
+    "https://x.com/iometedata",
+    "https://x.com/iometer",
+    "https://x.com/iomete",
+    "https://x.com/RyohoFuse/status/2086741386066633048",
+    "https://x.com/asakuramomoka/status/2058145074949820583",
+    "https://x.com/iometedata/status/2035049962338472437",
+    "https://x.com/VusalDadalov"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Iomete",
+   "results": [
+    "https://www.linkedin.com/company/iomete",
+    "https://www.linkedin.com/in/pietjandebruin",
+    "https://az.linkedin.com/company/iomete?trk=public_post_share-update_actor-image",
+    "https://in.linkedin.com/in/ujjawal-khare-30b95b147",
+    "https://www.linkedin.com/in/vusaldadalov",
+    "https://www.linkedin.com/posts/iomete_data-lakehouse-platform-iomete-demo-activity-7373364816461307904-W_ys",
+    "https://www.linkedin.com/products/datalead-consulting-az-iomete-data-lakehouse-20/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Iomete",
+   "results": [
+    "https://www.facebook.com/people/iomete/100064480342992/",
+    "https://www.facebook.com/100064480342992/posts/-challenges1️⃣-redshifts-storage-and-compute-are-tightly-coupled-making-separate/668091408683531/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/itechstorm/posts/reposting-my-tutorial-on-iometer-a-wonderful-tool-for-troubleshooting-disk-and-n/1612509005631004/",
+    "https://www.facebook.com/p/IOmeter-61555828716010/",
+    "https://www.facebook.com/public/Matei-Iomete/",
+    "https://www.facebook.com/\u0000jperes88/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Iomete note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Iomete X 投稿",
+   "results": [
+    "https://x.com/iometedata",
+    "https://iomete.com/",
+    "https://x.com/iomete",
+    "https://iomete.com/resources",
+    "https://www.instagram.com/iometedata/",
+    "https://x.com/itome110/status/2119026657625538998",
+    "https://x.com/OpenAI/status/2119913172039868579"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部33頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部33頁・検索12回）"
+ }
+}

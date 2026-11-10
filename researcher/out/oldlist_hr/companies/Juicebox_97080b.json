@@ -1,0 +1,1925 @@
+{
+ "name": "Juicebox",
+ "aliases": [],
+ "context": "旧営業リスト｜Recruitment Technology｜リマイン1",
+ "researched_at": "2026-11-10T14:25:34.282452+00:00",
+ "official_url": "https://juicebox.ai",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "料金タイプ",
+    "value": "フリーミアム（無料〜$99/席/月） 無料枠 あり（無料検索（回数制限あり）・AIメールテンプレート）",
+    "url": "https://aipicks.jp/tool/juicebox-ai/japanese",
+    "pass": 3
+   },
+   {
+    "label": "料金の補足",
+    "value": "Growthは年払いで月$179/席（月払い$199）。AIエージェントは1体あたり月$199の追加。Businessは年払いのみで個別見積り。",
+    "url": "https://employeestore.app/tools/recruiting/juicebox",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Juicebox - The Leading AI Recruiting Platform",
+    "url": "https://juicebox.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Recruiting AI that gets it",
+    "url": "https://juicebox.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Landing the right hire is harder than ever. Juicebox is the",
+    "url": "https://juicebox.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Recruiting Platform",
+    "url": "https://juicebox.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "80+ public enterprises",
+    "url": "https://juicebox.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Tell me who you’re looking for and I’ll map the market, calibrate, and source leads for you...",
+    "url": "https://juicebox.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Sourcing from kickoff to candidate",
+    "url": "https://juicebox.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Strategize your search with your hiring manager",
+    "url": "https://juicebox.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Kickoff each req with native intake that surfaces your candidate pool in real-time. Set expectations with your hiring managers, live in the room, and start sourcing with the right foundation.",
+    "url": "https://juicebox.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Find top talent from 800M global profiles and 30+ diverse data sources. Juicebox builds you a ranked candidate pool that you can review in seconds, with all the hiring signals you need.",
+    "url": "https://juicebox.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Concise sentence of the candidate's relevant work experience",
+    "url": "https://juicebox.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Profiles Ready for Review (35)",
+    "url": "https://juicebox.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "35 profiles ready for review",
+    "url": "https://juicebox.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Project manager agent",
+    "url": "https://juicebox.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "What do you think about this profile?",
+    "url": "https://juicebox.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your Agent pulls context from the JD, intake call, and past hires the moment a req opens. It sharpens with every search, so you never start over.",
+    "url": "https://juicebox.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Start with a simple prompt and a few candidate reviews. Your Agent adjusts in real time, so each batch gets closer to the hire you want.",
+    "url": "https://juicebox.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Lydia Price, Sourcing Lead, Isabella Karlström, Recruitment Operations Lead, Jeremie D'Espagnac, Sourcer @ Lovable",
+    "url": "https://juicebox.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "How Heidi Health AI made 7 executive hires in 8 months",
+    "url": "https://juicebox.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Sage Timoteo, Lead Recruiter, Tech & Product Brad Schiff, Senior Tech & Product Recruiter @ ezCater",
+    "url": "https://juicebox.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "How Omnea sources 100+ qualified candidates a week",
+    "url": "https://juicebox.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for enterprise scale",
+    "url": "https://juicebox.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy AI Agents across your entire recruiting organization with enterprise-grade security, governance, and integrations that work with your existing tech stack.",
+    "url": "https://juicebox.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your candidate data and company information are protected with industry-leading security standards.",
+    "url": "https://juicebox.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Authenticate through your existing identity provider and assign role-based permissions to control what each user can access.",
+    "url": "https://juicebox.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We are building the future of recruiting, and we know the best partnerships get us there faster. Join the Juicebox partner ecosystem and grow with us.",
+    "url": "https://juicebox.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "“On behalf of our entire community, I want to say a heartfelt thank you ... Because of the Juicebox partnership, we were able to deliver one of the most impactful recruiting events of the year!”",
+    "url": "https://juicebox.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Which partner program is the right one for you?",
+    "url": "https://juicebox.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Partner with Juicebox to connect ATS and CRM systems into one seamless recruiting workflow.",
+    "url": "https://juicebox.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Support portfolio companies with preferred access to Juicebox, partner pricing, and hiring resources.",
+    "url": "https://juicebox.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Introduce qualified companies to Juicebox and earn commissions on closed enterprise deals.",
+    "url": "https://juicebox.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Eligible for: Mid-Market / Enterprise Businesses, Agencies",
+    "url": "https://juicebox.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Bring more value to your members with Juicebox perks, Juicebox sponsorship, and hiring resources.",
+    "url": "https://juicebox.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Collaborate with Juicebox on strategic initiatives, co-marketing, and shared growth opportunities.",
+    "url": "https://juicebox.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "The future of recruiting starts with Juicebox",
+    "url": "https://juicebox.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing Plans [From $99] | Juicebox",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Supercharge your organization’s people intelligence with AI-powered recruitment. All prices in USD.",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Onboarding and training",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Collaborative hiring manager seats",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Priority support (email, chat, Slack)",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 25,000 teams, recruiters, and hiring managers",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Each project includes unlimited searches and shortlisted candidates.",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Users can invite Hiring Managers to review shortlisted leads or view project analytics",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Source candidates across your employee's network",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Full profile insights, including linked data sources, AI-inferred skills, and technical/expert details.",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Use AI-Spotlight to instantly see why a candidate matches your search.",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Contact credits are used only for email and phone contact info. When you use a credit, you get all emails and phone numbers associated with a profile.",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The number of profiles that can be exported across CSV, ATS, and CRM export methods. On the business plan, this can be customized.",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The number of profiles that can be exported at once.",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Reach out to sales@juicebox.work to request access to SOC2 reporting on the Team and Enterprise plans.",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We're here to help. Reach out to our sales team for guidance on how to integrate Juicebox into your recruiting workflow.",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Juicebox is built for recruiters. If you are searching for hard-to-find talent, Juicebox is a fit for you. We work with 3,000+ companies ranging from Fortune 500 to boutique recruiting agencies.",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "You can invite your team to join you on the Growth and Business plans. Use the “invite team” button to get started with your team. You can collaborate on searches, shortlist candidates, and coordinate your outreach campaigns.",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "60 seconds, no more. Sign up online to create a Juicebox account and run your first search. For details on our CRM and ATS integrations, or questions on the Enterprise plan, please reach out to sales.",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Does Juicebox have global candidate data?",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Juicebox has 800 million profiles across the globe from dozens of data sources. We continue to add region-specific sources to enhance global coverage. For details on your specific region, please reach out to our sales team.",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The future of recruiting starts with Juicebox",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "AI Recruiting Customer Stories [2026] | Juicebox",
+    "url": "https://juicebox.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "See how 5,000+ teams use Juicebox to hire better, faster.",
+    "url": "https://juicebox.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Lovable is building a proactive, collaborative sourcing model to support hypergrowth without compromising its talent bar. With Juicebox, the team has run 8.2K searches, achieved an 18.8% interested reply rate, and surfaced 385K+ network overlaps while bringing hiring managers and employee networks more deeply into the sourcing process.",
+    "url": "https://juicebox.ai/customers",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "500+ staffing agencies",
+    "url": "https://juicebox.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Juicebox is built for recruiters. If you are searching for hard-to-find talent, Juicebox is a fit for you. We work with companies ranging from Fortune 500 to boutique recruiting agencies — and hopefully, you too.",
+    "url": "https://juicebox.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Which partner program is the right one for you?",
+    "url": "https://juicebox.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Eligible for: Mid-Market / Enterprise Businesses, Agencies",
+    "url": "https://juicebox.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Collaborative, built for small teams, agencies, and startups.",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Full-access plan for large businesses or agencies.",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Juicebox is built for recruiters. If you are searching for hard-to-find talent, Juicebox is a fit for you. We work with 3,000+ companies ranging from Fortune 500 to boutique recruiting agencies.",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "United Chargers Delivers White Label Solution to Volvo Mexico",
+    "url": "https://grizzl-e.com/de-eu/news/205?srsltid=AYCX9vJ4y1lZIourcK_dYWpzLmrn5nGxh61VH4K8UVJGnKHymU8HyhAw",
+    "pass": 3
+   },
+   {
+    "quote": "United Chargers has continued its partnership with Volvo Mexico, delivering more White Label EV Chargers for their electric vehicle customers.",
+    "url": "https://grizzl-e.com/de-eu/news/205?srsltid=AYCX9vJ4y1lZIourcK_dYWpzLmrn5nGxh61VH4K8UVJGnKHymU8HyhAw",
+    "pass": 3
+   },
+   {
+    "quote": "Our White Label Solutions places any logo on the cover of the award-winning Grizzl-E brand of EV Chargers. The chargers keep their UL Certifications, and the customer owns all designs and artwork. If you are interested in our White Label Program, contact",
+    "url": "https://grizzl-e.com/de-eu/news/205?srsltid=AYCX9vJ4y1lZIourcK_dYWpzLmrn5nGxh61VH4K8UVJGnKHymU8HyhAw",
+    "pass": 3
+   },
+   {
+    "quote": "Answer engine optimization tools that track and improve your brand's visibility in AI results",
+    "url": "https://ecosystem.hubspot.com/marketplace/solutions/juicebox",
+    "pass": 3
+   },
+   {
+    "quote": "Solutions Partner Program",
+    "url": "https://ecosystem.hubspot.com/marketplace/solutions/juicebox",
+    "pass": 3
+   },
+   {
+    "quote": "Technology Partner Program",
+    "url": "https://ecosystem.hubspot.com/marketplace/solutions/juicebox",
+    "pass": 3
+   },
+   {
+    "quote": "Affiliate Partner Program",
+    "url": "https://ecosystem.hubspot.com/marketplace/solutions/juicebox",
+    "pass": 3
+   },
+   {
+    "quote": "Education Partner Program",
+    "url": "https://ecosystem.hubspot.com/marketplace/solutions/juicebox",
+    "pass": 3
+   },
+   {
+    "quote": "Startup Partner Program",
+    "url": "https://ecosystem.hubspot.com/marketplace/solutions/juicebox",
+    "pass": 3
+   },
+   {
+    "quote": "David is the Co-founder & CEO of Juicebox, the AI recruiting platform used by 5,000+ customers, including leading AI labs, Fortune 500 companies, and top recruiting agencies.",
+    "url": "https://www.ycombinator.com/companies/juicebox",
+    "pass": 3
+   },
+   {
+    "quote": "Ishan is the Co-founder of Juicebox, the AI recruiting platform used by 5,000+ customers, including leading AI labs, Fortune 500 companies, and top recruiting agencies. Juicebox has raised $116M from investors like Sequoia and DST Global.",
+    "url": "https://www.ycombinator.com/companies/juicebox",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Juicebox is built for recruiters. If you are searching for hard-to-find talent, Juicebox is a fit for you. We work with companies ranging from Fortune 500 to boutique recruiting agencies — and hopefully, you too.",
+    "url": "https://juicebox.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Each project includes unlimited searches and shortlisted candidates.",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Users can invite Hiring Managers to review shortlisted leads or view project analytics",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Juicebox is built for recruiters. If you are searching for hard-to-find talent, Juicebox is a fit for you. We work with 3,000+ companies ranging from Fortune 500 to boutique recruiting agencies.",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Katy Malone, Director of Talent Acquisition; Ethan Monroe-Peet, Recruiting Operations Manager; Reggie Landicho, Recruiter @ Fleetio",
+    "url": "https://juicebox.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Misty Solis and Chrisie Lamb, Talent Acquisition Specialists @ Platinum Dental",
+    "url": "https://juicebox.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Crystal English, Head of Talent Acquisition, and Jenae Replogle, Principal Recruiter @ Supio",
+    "url": "https://juicebox.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Verse Medical scaled from 90 to 200 employees with a lean recruiting team",
+    "url": "https://juicebox.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Aaron Edgell, Talent Acquisition Lead @ Spreedly",
+    "url": "https://juicebox.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Numeral scaled to 120 employees with hiring managers leading the search",
+    "url": "https://juicebox.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Starbridge scaled from 20 to 60 employees with talent engineering",
+    "url": "https://juicebox.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Paul Capano, Head of Talent Acquisition",
+    "url": "https://juicebox.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Lovable is a software creation platform that gives people the power to act on the problems closest to them. Describe in plain language what you want to create, and Lovable designs, builds and iterates with you. Founded in Stockholm, the company has grown rapidly to more than 300 employees as it builds a new way for people to turn ideas into working software.",
+    "url": "https://juicebox.ai/customers/lovable",
+    "pass": 1
+   },
+   {
+    "quote": "300+ employees",
+    "url": "https://juicebox.ai/customers/lovable",
+    "pass": 1
+   },
+   {
+    "quote": "Finding exceptional candidates is only part of Lovable’s recruiting strategy. The company also wants hiring managers, the people closest to the role, to be deeply involved in defining what exceptional looks like.",
+    "url": "https://juicebox.ai/customers/lovable",
+    "pass": 1
+   },
+   {
+    "quote": "When new employees join, the recruiting team brings them into sourcing early so their networks can become part of the hiring strategy from the start. That matters especially at Lovable, where engineers often have deep relationships across the talent market.",
+    "url": "https://juicebox.ai/customers/lovable",
+    "pass": 1
+   },
+   {
+    "quote": "Sourcing is becoming more deeply embedded in the way Lovable hires. Hiring managers help define the search from the start, employees contribute their networks, and recruiters use Juicebox to bring those inputs together into a more proactive sourcing motion.",
+    "url": "https://juicebox.ai/customers/lovable",
+    "pass": 1
+   },
+   {
+    "quote": "500+ employees",
+    "url": "https://juicebox.ai/customers/heidi-health",
+    "pass": 1
+   },
+   {
+    "quote": "And while Heidi Health AI uses Juicebox much more broadly across roles like Account Executives, Revenue Operations, People, Marketing, and Customer Success, Randal is clear about where it has been especially valuable to him:",
+    "url": "https://juicebox.ai/customers/heidi-health",
+    "pass": 1
+   },
+   {
+    "quote": "That model powers much more than executive recruiting. Across Heidi Health AI’s People team, Juicebox has supported hiring for Account Executives, Revenue Operations, People Partners, Marketing Leads, and Customer Success leadership, alongside Randal’s executive searches. The range of roles gives the team one system that can support very different hiring needs without sacrificing precision.",
+    "url": "https://juicebox.ai/customers/heidi-health",
+    "pass": 1
+   },
+   {
+    "quote": "Getting from good to great in narrow talent markets",
+    "url": "https://juicebox.ai/customers/heidi-health",
+    "pass": 1
+   },
+   {
+    "quote": "Juicebox makes it possible to get directly into those narrow talent pools and quickly see what strong looks like within them, giving Randal a clearer view of the market early in the search.",
+    "url": "https://juicebox.ai/customers/heidi-health",
+    "pass": 1
+   },
+   {
+    "quote": "As Heidi Health AI continues to grow, its hiring needs will keep changing. The team has already used Juicebox across searches ranging from a CFO and Head of Technology to Clinical Directors, Sales Directors, Account Executives, Revenue Operations, Marketing, and People roles.",
+    "url": "https://juicebox.ai/customers/heidi-health",
+    "pass": 1
+   },
+   {
+    "quote": "800+ employees",
+    "url": "https://juicebox.ai/customers/ezcater",
+    "pass": 1
+   },
+   {
+    "quote": "give recruiters another way to keep sourcing moving when their attention is needed elsewhere. Over time, that extra capacity has become an integrated part of how the team works:",
+    "url": "https://juicebox.ai/customers/ezcater",
+    "pass": 1
+   },
+   {
+    "quote": "Agents are especially useful when the talent pool is narrow:",
+    "url": "https://juicebox.ai/customers/ezcater",
+    "pass": 1
+   },
+   {
+    "quote": "Juicebox has helped make that strategy sustainable. The team has cut sourcing time by roughly 50%, can consistently build lists of 50–75 qualified profiles in about 1–1.5 hours, and has expanded to nine Agent seats as sourcing becomes a bigger part of how the team hires.",
+    "url": "https://juicebox.ai/customers/ezcater",
+    "pass": 1
+   },
+   {
+    "quote": "200+ employees",
+    "url": "https://juicebox.ai/customers/omnea",
+    "pass": 1
+   },
+   {
+    "quote": "Omnea has more than tripled headcount and revenue over the past year. For Joshua, keeping pace with that kind of growth does not simply mean adding more recruiters. It means designing a talent function that can scale differently.",
+    "url": "https://juicebox.ai/customers/omnea",
+    "pass": 1
+   },
+   {
+    "quote": "And a central part of that strategy is figuring out where AI and automation can genuinely make recruiters better at their jobs.",
+    "url": "https://juicebox.ai/customers/omnea",
+    "pass": 1
+   },
+   {
+    "quote": "That testing gave Joshua confidence to make Juicebox part of the recruiting infrastructure he was building at Omnea.",
+    "url": "https://juicebox.ai/customers/omnea",
+    "pass": 1
+   },
+   {
+    "quote": "Hitting our $10M ARR milestone",
+    "url": "https://juicebox.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Cake celebrations for ARR goals",
+    "url": "https://juicebox.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "<50 employees",
+    "url": "https://juicebox.ai/customers/v3-talent-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Leveraging Juicebox: a new approach to talent acquisition",
+    "url": "https://juicebox.ai/customers/v3-talent-partners",
+    "pass": 1
+   },
+   {
+    "quote": "V3 Talent Partners’ success in recruiting for Tier 1 VC-backed startups highlights the power of Juicebox in transforming the talent acquisition process. By leveraging advanced features like Talent Insights, enriched profiles, funding data, and AI-powered outreach, V3 has been able to find, engage, and place high-impact talent their clients need to succeed.",
+    "url": "https://juicebox.ai/customers/v3-talent-partners",
+    "pass": 1
+   },
+   {
+    "quote": "創業初日から Stripe を基盤としてきた Juicebox は、中小企業から Fortune 500 企業まで、幅広い企業にサービスを提供しています",
+    "url": "https://stripe.com/jp/customers/juicebox",
+    "pass": 3
+   },
+   {
+    "quote": "Stripe Revenue Recognition",
+    "url": "https://stripe.com/jp/customers/juicebox",
+    "pass": 3
+   },
+   {
+    "quote": "また、Stripe を自社の ERP と接続し、Revenue Recognition を ERP と併用することで、会計計算全体の正確性を確保しています",
+    "url": "https://stripe.com/jp/customers/juicebox",
+    "pass": 3
+   },
+   {
+    "quote": "現在は、1 人で運営するスタートアップから数千人の従業員を抱える Fortune 500 企業まで、5,000 を超える企業にサービスを提供しています",
+    "url": "https://stripe.com/jp/customers/juicebox",
+    "pass": 3
+   },
+   {
+    "quote": "<img src=\"https://aipicks.jp/api/badge?slug=juicebox-ai&kind=listed\" alt=\"AI PICKS 掲載認定 2026 AUTUMN｜Juicebox (PeopleGPT)\" width=\"200\" height=\"236\" loading=\"lazy\" />",
+    "url": "https://aipicks.jp/tool/juicebox-ai/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "Juicebox is an award-winning digital agency with 80+ employees working across Australia and Indonesia, strategically positioned to unlock opportunities for brands engaging one of the fastest growing regional markets on the planet.",
+    "url": "https://ecosystem.hubspot.com/marketplace/solutions/juicebox",
+    "pass": 3
+   },
+   {
+    "quote": "26 to 50 employees",
+    "url": "https://ecosystem.hubspot.com/marketplace/solutions/juicebox",
+    "pass": 3
+   },
+   {
+    "quote": "“Absolutely Money maker for Recruiters… in 6 months i can directly attribute over $250k in revenue to Pin.”",
+    "url": "https://www.pin.com/blog/juicebox-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Teams at Ramp, Notion, and leading AI labs use Juicebox to power their hiring, alongside 5,000+ customers from early-stage startups to Fortune 500 companies.",
+    "url": "https://www.ycombinator.com/companies/juicebox",
+    "pass": 3
+   },
+   {
+    "quote": "We’re on the path to $100M in ARR with 20%+ monthly growth, powering thousands of searches every day and making Juicebox one of the fastest-growing AI SaaS companies in the world. In 2026, Juicebox was named to Forbes’ Next Billion-Dollar Startups list and LinkedIn’s Top Startups list.",
+    "url": "https://www.ycombinator.com/companies/juicebox",
+    "pass": 3
+   },
+   {
+    "quote": "David is the Co-founder & CEO of Juicebox, the AI recruiting platform used by 5,000+ customers, including leading AI labs, Fortune 500 companies, and top recruiting agencies.",
+    "url": "https://www.ycombinator.com/companies/juicebox",
+    "pass": 3
+   },
+   {
+    "quote": "Ishan is the Co-founder of Juicebox, the AI recruiting platform used by 5,000+ customers, including leading AI labs, Fortune 500 companies, and top recruiting agencies. Juicebox has raised $116M from investors like Sequoia and DST Global.",
+    "url": "https://www.ycombinator.com/companies/juicebox",
+    "pass": 3
+   },
+   {
+    "quote": "The credit-based pricing model ties revenue directly to platform usage. Users consume credits for searches, contact lookups, and outreach activities, with unused credits rolling over between billing periods. This consumption-based approach allows the platform to capture value as customers increase their recruiting activity.",
+    "url": "https://sacra.com/c/juicebox/",
+    "pass": 3
+   },
+   {
+    "quote": "The business model benefits from strong network effects and data advantages. Each search and interaction improves the underlying AI models, while the breadth of data sources creates a competitive moat that becomes stronger as more recruiters use the platform. The 800 million profile database represents a significant barrier to entry for potential competitors.",
+    "url": "https://sacra.com/c/juicebox/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer acquisition happens organically through word-of-mouth and product-led growth. The platform's ability to help small companies hire without professional recruiters, combined with its utility for enterprise talent teams, creates a broad addressable market with different use cases driving adoption.",
+    "url": "https://sacra.com/c/juicebox/",
+    "pass": 3
+   },
+   {
+    "quote": "The company maintains lean operations with just 12 employees serving thousands of customers. This capital-efficient model allows for high gross margins while keeping operational costs low, though the exact margin structure depends on data licensing costs from the 30+ third-party providers that feed the platform.",
+    "url": "https://sacra.com/c/juicebox/",
+    "pass": 3
+   },
+   {
+    "quote": "Workday acquired Paradox to bundle conversational AI and automated scheduling into its core HCM suite, reducing the need for point solutions like Juicebox at existing Workday accounts.",
+    "url": "https://sacra.com/c/juicebox/",
+    "pass": 3
+   },
+   {
+    "quote": "SAP is similarly embedding AI capabilities across SuccessFactors while integrating SmartRecruiters' sourcing engine, creating comprehensive talent acquisition suites that compete on breadth rather than specialized functionality.",
+    "url": "https://sacra.com/c/juicebox/",
+    "pass": 3
+   },
+   {
+    "quote": "'s lighter-weight approach may face adoption barriers.",
+    "url": "https://sacra.com/c/juicebox/",
+    "pass": 3
+   },
+   {
+    "quote": "Older talent acquisition platforms are rapidly adding AI-powered search functionality to their existing offerings.",
+    "url": "https://sacra.com/c/juicebox/",
+    "pass": 3
+   },
+   {
+    "quote": ", potentially increasing revenue per customer by 2-3x while creating stronger switching costs through workflow integration.",
+    "url": "https://sacra.com/c/juicebox/",
+    "pass": 3
+   },
+   {
+    "quote": "The platform's semantic analysis capabilities can be applied to internal talent databases, helping companies identify existing employees for lateral moves and promotions. This internal mobility use case taps into HR and people operations budgets beyond traditional talent acquisition spending.",
+    "url": "https://sacra.com/c/juicebox/",
+    "pass": 3
+   },
+   {
+    "quote": "'s differentiation may erode, requiring continued innovation and potentially higher customer acquisition costs to maintain growth rates.",
+    "url": "https://sacra.com/c/juicebox/",
+    "pass": 3
+   },
+   {
+    "quote": "Partway through, a guitar riff with fairly simple chords enters. Even though what they're doing is surprisingly simple, it sounds much rougher than the usual Strokes. Of course, part of it is that the sound itself is quite distorted, but I feel it's also because they're hitting the chords directly without any fine embellishments, and forcing them over the constantly moving bass.",
+    "url": "https://note.com/rockshow_jp/n/n1a576a7bb73b?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Most likely, yes. Juicebox has 100+ ATS and CRM integrations. Alternatively, you can export to detailed CSVs in seconds, with or without contact info. Can’t find your CRM or ATS? Contact sales@juicebox.work for an estimate on when it will go live.",
+    "url": "https://juicebox.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "500 contact credits (email + phone)",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Email outreach + AI templates",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "1,500 contact credits (email + phone)",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Priority support (email, chat, Slack)",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimited email credits",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Set to auto-email or auto-shortlist",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Contact credits are used only for email and phone contact info. When you use a credit, you get all emails and phone numbers associated with a profile.",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Seamlessly connect your Gmail account to send emails from Juicebox. This can be the same or a different account to your log-in email.",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Seamlessly connect your Outlook account to send emails from Juicebox. This can be the same or a different account to your log-in email.",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Connect multiple mailboxes to easily switch between email adresses.",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Reach out to sales@juicebox.work to request access to SOC2 reporting on the Team and Enterprise plans.",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Chat and email support",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Juicebox has 100+ ATS and CRM integrations. Alternatively, you can export to detailed CSVs in seconds, with or without contact info. Can’t find your CRM or ATS? Contact sales@juicebox.work for an estimate on when it will go live.",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How V3 Talent Partners finds top talent with email outbound",
+    "url": "https://juicebox.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How V3 Talent Partners finds top talent with email outbound | Juicebox",
+    "url": "https://juicebox.ai/customers/v3-talent-partners",
+    "pass": 1
+   },
+   {
+    "quote": "How V3 Talent Partners finds top talent with email outbound",
+    "url": "https://juicebox.ai/customers/v3-talent-partners",
+    "pass": 1
+   },
+   {
+    "quote": "feature to connect with them. The platform’s AI smart commands allow V3 to craft personalized emails that stand out in a crowded inbox.",
+    "url": "https://juicebox.ai/customers/v3-talent-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Customer Success Training, Account based marketing, HubSpot Onboarding, Knowledge Base Development, Email Marketing, Sales and Marketing Alignment, Branding, Custom API Integrations, CRM Migration, and CRM Implementation",
+    "url": "https://ecosystem.hubspot.com/marketplace/solutions/juicebox",
+    "pass": 3
+   },
+   {
+    "quote": "Email Tracking Software",
+    "url": "https://ecosystem.hubspot.com/marketplace/solutions/juicebox",
+    "pass": 3
+   },
+   {
+    "quote": "Email Marketing Software",
+    "url": "https://ecosystem.hubspot.com/marketplace/solutions/juicebox",
+    "pass": 3
+   },
+   {
+    "quote": "Email Signature Generator",
+    "url": "https://ecosystem.hubspot.com/marketplace/solutions/juicebox",
+    "pass": 3
+   },
+   {
+    "quote": "Cost of one phone number on Growth, versus 1 credit for an email",
+    "url": "https://www.pin.com/blog/juicebox-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact data on Juicebox is metered: an email reveal costs 1 credit and a phone reveal costs 3, per the comparison table on its plan page. Exports draw on a separate pool, 500 a month on Starter, 1,500 per seat on Growth, and 2,250 per seat on Business, according to Juicebox’s credits documentation (Internet Archive capture, September 14, 2026).",
+    "url": "https://www.pin.com/blog/juicebox-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "On Growth, 1,500 credits cover 1,500 emails or 500 phone numbers per seat. Want both for every candidate? That’s 375 full contacts a month.",
+    "url": "https://www.pin.com/blog/juicebox-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "email and phone enrichment tools for recruiters",
+    "url": "https://www.pin.com/blog/juicebox-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Juicebox Agents run recurring candidate searches in the background and can auto-email or auto-shortlist the results. At $199 a month on any paid plan, each includes unlimited contact and email credits, so an agent doubles as the practical workaround for seat credit limits.",
+    "url": "https://www.pin.com/blog/juicebox-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "250 Starter credits, email only",
+    "url": "https://www.pin.com/blog/juicebox-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "The platform includes integrated CRM and outreach capabilities. Once candidates are identified, the system can find verified contact information, build multi-step email sequences, and track response rates.",
+    "url": "https://sacra.com/c/juicebox/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by 25,000 teams, recruiters, and hiring managers",
+    "url": "https://juicebox.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "One of the more interesting scenarios we came across in Japan which I felt needed its own article was just how much-abandoned automotive gold was just laid out across Japan. From unexpected bad old Corsas to Japanese superstars.",
+    "url": "https://www.juiceboxforyou.com/2017/06/juicebox-in-japan-japandoned/",
+    "pass": 3
+   },
+   {
+    "quote": "Seeing the Hayashi workshop was incredible, but something we didnt expect on this visit was seeing Hayashi Sans private car collection. Jamie brought us to this warehouse which had a very interesting variety of machinery to appreciate. I wont do much yapping here and Ill let the photos do the talking. I hope you appreciate them. Cheers",
+    "url": "https://www.juiceboxforyou.com/",
+    "pass": 3
+   },
+   {
+    "quote": "We Found the Wildest Car Warehouse in Europe",
+    "url": "https://www.juiceboxforyou.com/",
+    "pass": 3
+   },
+   {
+    "quote": "on We Found the Wildest Car Warehouse in Europe",
+    "url": "https://www.juiceboxforyou.com/",
+    "pass": 3
+   },
+   {
+    "quote": "David is the Co-founder & CEO of Juicebox, the AI recruiting platform used by 5,000+ customers, including leading AI labs, Fortune 500 companies, and top recruiting agencies.",
+    "url": "https://www.ycombinator.com/companies/juicebox",
+    "pass": 3
+   },
+   {
+    "quote": "Ishan is the Co-founder of Juicebox, the AI recruiting platform used by 5,000+ customers, including leading AI labs, Fortune 500 companies, and top recruiting agencies. Juicebox has raised $116M from investors like Sequoia and DST Global.",
+    "url": "https://www.ycombinator.com/companies/juicebox",
+    "pass": 3
+   },
+   {
+    "quote": "The platform's early traction focuses heavily on technology companies, but healthcare, cleantech, and industrial sectors face similar skilled labor shortages. Adding domain-specific data sources and ontologies for professional licenses and certifications could expand the addressable market beyond tech-centric roles.",
+    "url": "https://sacra.com/c/juicebox/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Juicebox (PeopleGPT)の日本語対応",
+    "url": "https://aipicks.jp/tool/juicebox-ai/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "公式サイトに日本語の表示は見当たりません（2026年9月時点）",
+    "url": "https://aipicks.jp/tool/juicebox-ai/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "言語モデルで文章を作るツールで、日本語で指示すれば日本語で返るのが一般的です",
+    "url": "https://aipicks.jp/tool/juicebox-ai/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "日本語入力への正式対応は公式に明記がないため、日本語話者の採用に使うなら無料枠で検索結果の精度を先に確かめるのが安全です",
+    "url": "https://aipicks.jp/tool/juicebox-ai/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "「待ち」の採用から脱却──自律型AIソーシングエージェントの最新潮流｜HR Tech Roundup 海外のHRテクノロジー最新ニュース｜世界・日本の労働事情コラム｜リクルートワークス研究所",
+    "url": "https://www.works-i.com/research/labour/column/roundup/detail059.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本におけるダイレクトリクルーティングの現状と課題",
+    "url": "https://www.works-i.com/research/labour/column/roundup/detail059.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内においても、ダイレクトリクルーティングはもはや一部企業の先進的な手法ではなく、主要な採用手段の一つとして定着したといえる",
+    "url": "https://www.works-i.com/research/labour/column/roundup/detail059.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本のダイレクトリクルーティングサービスは、大きく次の3つの類型に整理できる",
+    "url": "https://www.works-i.com/research/labour/column/roundup/detail059.html",
+    "pass": 3
+   },
+   {
+    "quote": "なかでも近年、日本市場で注目を集めているのが「インテント型」である",
+    "url": "https://www.works-i.com/research/labour/column/roundup/detail059.html",
+    "pass": 3
+   },
+   {
+    "quote": "を持ちながら行動に至っていない「潜在層」が極めて多いことが日本市場の大きな特徴である",
+    "url": "https://www.works-i.com/research/labour/column/roundup/detail059.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業への示唆：属人化から再現可能なオペレーションへ",
+    "url": "https://www.works-i.com/research/labour/column/roundup/detail059.html",
+    "pass": 3
+   },
+   {
+    "quote": "米国と日本では背景が異なるものの、「母集団が形成されるのを待つだけの採用では、真に必要な人材に出会えない」という本質的な課題は共通している",
+    "url": "https://www.works-i.com/research/labour/column/roundup/detail059.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の候補者のデータが十分あるかは、この調査では確認していない",
+    "url": "https://employeestore.app/tools/recruiting/juicebox",
+    "pass": 3
+   },
+   {
+    "quote": "Juiceboxforyou » Blog Archive Juicebox in Japan: Japandoned - Juiceboxforyou",
+    "url": "https://www.juiceboxforyou.com/2017/06/juicebox-in-japan-japandoned/",
+    "pass": 3
+   },
+   {
+    "quote": "Juicebox in Japan: Japandoned",
+    "url": "https://www.juiceboxforyou.com/2017/06/juicebox-in-japan-japandoned/",
+    "pass": 3
+   },
+   {
+    "quote": "One of the more interesting scenarios we came across in Japan which I felt needed its own article was just how much-abandoned automotive gold was just laid out across Japan. From unexpected bad old Corsas to Japanese superstars.",
+    "url": "https://www.juiceboxforyou.com/2017/06/juicebox-in-japan-japandoned/",
+    "pass": 3
+   },
+   {
+    "quote": "This is simply something that just does not happen anywhere else in the world. Japan is one of the safest places on the planet which more often then not, cars are left to sit, unvandalized for their parts.",
+    "url": "https://www.juiceboxforyou.com/2017/06/juicebox-in-japan-japandoned/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan has an eerie enough abandoned vibe to it in many parts, maybe it’s just the relaxed way of life and old timers but when you stumble upon stuff like this with no one around it further enhanced the apocalyptic vibe.",
+    "url": "https://www.juiceboxforyou.com/2017/06/juicebox-in-japan-japandoned/",
+    "pass": 3
+   },
+   {
+    "quote": "All these machines from the Japanese glory days eerily preserved with moss.",
+    "url": "https://www.juiceboxforyou.com/2017/06/juicebox-in-japan-japandoned/",
+    "pass": 3
+   },
+   {
+    "quote": "on Juicebox in Japan: Japandoned",
+    "url": "https://www.juiceboxforyou.com/2017/06/juicebox-in-japan-japandoned/",
+    "pass": 3
+   },
+   {
+    "quote": "Visiting Osaka Auto Messe",
+    "url": "https://www.juiceboxforyou.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Here are some photos from meeting up with Ryota Yuasa at Osaka Auto Messe. Visiting Messe had been on my list for many, many years, and when the opportunity finally came up, it turned into something even more special.",
+    "url": "https://www.juiceboxforyou.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Polands Japanese Car Scene",
+    "url": "https://www.juiceboxforyou.com/",
+    "pass": 3
+   },
+   {
+    "quote": "on Polands Japanese Car Scene",
+    "url": "https://www.juiceboxforyou.com/",
+    "pass": 3
+   },
+   {
+    "quote": "How I Got a Racing License in Japan 🇯🇵",
+    "url": "https://www.juiceboxforyou.com/",
+    "pass": 3
+   },
+   {
+    "quote": "They let me race at Fuji Speedway. This is how I got approved for a racing license in Japan 🇯🇵",
+    "url": "https://www.juiceboxforyou.com/",
+    "pass": 3
+   },
+   {
+    "quote": "on How I Got a Racing License in Japan 🇯🇵",
+    "url": "https://www.juiceboxforyou.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan’s AE86 Legends at Fuji Speedway 🇯🇵",
+    "url": "https://www.juiceboxforyou.com/",
+    "pass": 3
+   },
+   {
+    "quote": "on Japan’s AE86 Legends at Fuji Speedway 🇯🇵",
+    "url": "https://www.juiceboxforyou.com/",
+    "pass": 3
+   },
+   {
+    "quote": "The Side of Japanese Car Culture Tourists Never See",
+    "url": "https://www.juiceboxforyou.com/",
+    "pass": 3
+   },
+   {
+    "quote": "A day in Japan’s real car world. We follow a modified R34 through shaken before dropping it off at auction, and see how Japan’s strict car system really works.",
+    "url": "https://www.juiceboxforyou.com/",
+    "pass": 3
+   },
+   {
+    "quote": "on The Side of Japanese Car Culture Tourists Never See",
+    "url": "https://www.juiceboxforyou.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Juicebox: Japan in a Van - YouTube",
+    "url": "https://www.youtube.com/playlist?list=PLKSb2BwTDb9X9P-l_xJ2XowpU9PKbFKU7",
+    "pass": 3
+   },
+   {
+    "quote": "You don't have permission to access \"http://japantoday.com/category/features/new-products/super-cold-juicebox\" on this server.",
+    "url": "https://japantoday.com/category/features/new-products/super-cold-juicebox",
+    "pass": 3
+   },
+   {
+    "quote": "【海外HRツール紹介①】Juicebox（PeopleGPT）って何ができるの？「こんな人いない？」で候補者が出てくるAIソーシング｜採用と管理部門の伴走者：株式会社みらいキャリアラボ",
+    "url": "https://note.com/mc_labo/n/n5d99c56589c7",
+    "pass": 3
+   },
+   {
+    "quote": "採用と管理部門の伴走者：株式会社みらいキャリアラボ",
+    "url": "https://note.com/mc_labo/n/n5d99c56589c7",
+    "pass": 3
+   },
+   {
+    "quote": "今回から何回かに分けて、海外ではかなり話題になっているのに、日本ではまだほとんど知られていない「採用・HR系のAIツール」を紹介していこうと思います",
+    "url": "https://note.com/mc_labo/n/n5d99c56589c7",
+    "pass": 3
+   },
+   {
+    "quote": "ひとことで言うと、「こんな人いない？」と日本語みたいな普通の文章で聞くと、条件に合う候補者をズラッと出してくれるAI検索ツールです",
+    "url": "https://note.com/mc_labo/n/n5d99c56589c7",
+    "pass": 3
+   },
+   {
+    "quote": "で、日本で使えるの？",
+    "url": "https://note.com/mc_labo/n/n5d99c56589c7",
+    "pass": 3
+   },
+   {
+    "quote": "ただ検索自体は日本語で打ってもそれなりに理解してくれるので、英語が苦手でも触ることはできます",
+    "url": "https://note.com/mc_labo/n/n5d99c56589c7",
+    "pass": 3
+   },
+   {
+    "quote": "日本はLinkedInをちゃんと書いている人が少ないので、「地方の製造業で現場リーダーを探したい」みたいな採用にはほぼ使えません",
+    "url": "https://note.com/mc_labo/n/n5d99c56589c7",
+    "pass": 3
+   },
+   {
+    "quote": "逆に、エンジニアや外資系、海外在住の日本人、バイリンガル人材など「ネット上に経歴が出ている層」を狙うなら、日本でも十分武器になると思います",
+    "url": "https://note.com/mc_labo/n/n5d99c56589c7",
+    "pass": 3
+   },
+   {
+    "quote": "日本ではまだほとんど話題になっていないので、今のうちに触っておくとちょっと先取りできるかもしれません",
+    "url": "https://note.com/mc_labo/n/n5d99c56589c7",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Juicebox 、Stripe を活用して決済総額を毎月 20% 拡大 — Juicebox 、Stripe を活用して決済総額を毎月 20% 拡大 Stripe https://stripe.com > customers > juicebox",
+    "url": "https://stripe.com/jp/customers/juicebox",
+    "pass": 3
+   },
+   {
+    "quote": "Juicebox (PeopleGPT)は 日本 語対応している? — Juicebox (PeopleGPT)は 日本 語対応している? aipicks.jp https://aipicks.jp > AI人事・採用 > Juicebox (PeopleGPT)",
+    "url": "https://aipicks.jp/tool/juicebox-ai/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "Juicebox の機能・料金・使い道｜採用・スカウトのAIツール — Juicebox の機能・料金・使い道｜採用・スカウトのAIツール employeestore.app https://employeestore.app > AIツール比較 > 採用・スカウト",
+    "url": "https://employeestore.app/tools/recruiting/juicebox",
+    "pass": 3
+   },
+   {
+    "quote": "Blog Archive Juicebox in Japan: Japandoned - Juiceboxforyou — Blog Archive Juicebox in Japan: Japandoned - Juiceboxforyou Juiceboxforyou https://www.juiceboxforyou.com > ju...",
+    "url": "https://www.juiceboxforyou.com/2017/06/juicebox-in-japan-japandoned/",
+    "pass": 3
+   },
+   {
+    "quote": "Juiceboxforyou Juiceboxforyou - The Emerald Isles Finest — Juiceboxforyou Juiceboxforyou - The Emerald Isles Finest Juiceboxforyou https://www.juiceboxforyou.com",
+    "url": "https://www.juiceboxforyou.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Juicebox : Japan in a Van - YouTube — Juicebox : Japan in a Van - YouTube YouTube https://www.youtube.com > playlist",
+    "url": "https://www.youtube.com/playlist?list=PLKSb2BwTDb9X9P-l_xJ2XowpU9PKbFKU7",
+    "pass": 3
+   },
+   {
+    "quote": "juiceboxforyou - YouTube — juiceboxforyou - YouTube YouTube https://www.youtube.com > channel",
+    "url": "https://www.youtube.com/channel/UCQdUounXXta_k977qGPnuXw",
+    "pass": 3
+   },
+   {
+    "quote": "Super cold juicebox - Japan Today — Super cold juicebox - Japan Today Japan Today https://japantoday.com > new-products",
+    "url": "https://japantoday.com/category/features/new-products/super-cold-juicebox",
+    "pass": 3
+   },
+   {
+    "quote": "Juicebox - Aiden Lab — Juicebox - Aiden Lab Aiden Lab https://aidenlab.org > juicebox",
+    "url": "https://aidenlab.org/juicebox/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Recruiting Customer Stories [2026] - Juicebox — AI Recruiting Customer Stories [2026] - Juicebox Juicebox https://juicebox.ai > customers",
+    "url": "https://juicebox.ai/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Juicebox : AI Agents for the Hiring Process - YouTube — Juicebox : AI Agents for the Hiring Process - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=Tm5NbHUblkA&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Juicebox Partner Profile - HubSpot Marketplace — Juicebox Partner Profile - HubSpot Marketplace HubSpot Marketplace https://ecosystem.hubspot.com > juice...",
+    "url": "https://ecosystem.hubspot.com/marketplace/solutions/juicebox",
+    "pass": 3
+   },
+   {
+    "quote": "Juicebox Pricing 2026: Plans , Costs, and What You Actually Pay — Juicebox Pricing 2026: Plans , Costs, and What You Actually Pay pin.com https://www.pin.com > juicebox-pricing",
+    "url": "https://www.pin.com/blog/juicebox-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Juicebox : AI Agents for Recruiting - Y Combinator — Juicebox : AI Agents for Recruiting - Y Combinator Y Combinator https://www.ycombinator.com > juice...",
+    "url": "https://www.ycombinator.com/companies/juicebox",
+    "pass": 3
+   },
+   {
+    "quote": "Funding , revenue & investor data for candidates - Juicebox — Funding , revenue & investor data for candidates - Juicebox Juicebox https://juicebox.ai > Blog",
+    "url": "https://juicebox.ai/blog/funding-revenue-and-investor-data",
+    "pass": 3
+   },
+   {
+    "quote": "Juicebox Secures $80 Million in Funding at an $850 Million ... — Juicebox Secures $80 Million in Funding at an $850 Million ... Hunt Scanlon Media https://huntscanlon.com > juicebox-se...",
+    "url": "https://huntscanlon.com/juicebox-secures-80-million-in-funding-at-an-850-million-valuation/",
+    "pass": 3
+   },
+   {
+    "quote": "Juicebox funding , news & analysis | Sacra — Juicebox funding , news & analysis | Sacra sacra.com https://sacra.com > juicebox",
+    "url": "https://sacra.com/c/juicebox/",
+    "pass": 3
+   },
+   {
+    "quote": "JuiceBox - 2026 Company Profile, Funding & Competitors — JuiceBox - 2026 Company Profile, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/juicebox/__o2h-kaENbNGJh93kA6VTBb2Kifnv8E-WTGJUo-TuIpE",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Why is The Strokes' \" Juicebox \" so unsettling and aggressive? Why is The Strokes' \" Juicebox \" so unsettling and aggressive? note https://note.com > 音楽 > ロック",
+    "url": "https://note.com/rockshow_jp/n/n1a576a7bb73b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【海外HRツール紹介①】 Juicebox （PeopleGPT）って何が ... 【海外HRツール紹介①】 Juicebox （PeopleGPT）って何が ... note https://note.com > コンピュータ・IT > AI",
+    "url": "https://note.com/mc_labo/n/n5d99c56589c7",
+    "pass": 3
+   },
+   {
+    "quote": "2021_05_16ブッキングライブ『 JUICEBOX 』@四条大宮 ... 2021_05_16ブッキングライブ『 JUICEBOX 』@四条大宮 ... note https://note.com > nalu",
+    "url": "https://note.com/nalu_singer/n/n773d8eb26153",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Why is The Strokes' \"Juicebox\" so unsettling and aggressive?｜Rock Show",
+    "url": "https://note.com/rockshow_jp/n/n1a576a7bb73b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why is The Strokes' \"Juicebox\" so unsettling and aggressive?",
+    "url": "https://note.com/rockshow_jp/n/n1a576a7bb73b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When people think of The Strokes, I think many imagine the sound of intertwining thin guitars, Julian Casablancas' slightly laid-back singing style, and that feeling where everything they do sounds strangely stylish.",
+    "url": "https://note.com/rockshow_jp/n/n1a576a7bb73b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I love that side of them too, of course, but what draws me in most about The Strokes' songs are the moments when that languor and polished feel break down and suddenly turn rough.",
+    "url": "https://note.com/rockshow_jp/n/n1a576a7bb73b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Juicebox\" is, I think, a fairly extreme song even among those. Listening to it again at Summer Sonic, the atmosphere was clearly different from the moment the intro bass started. It felt more unsettling than stylish, and when the guitars came in, it became even more aggressive, with Julian's voice growing rougher by the end.",
+    "url": "https://note.com/rockshow_jp/n/n1a576a7bb73b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It's not just that The Strokes released a song with a heavy sound. The bass, the guitars, the vocals, and the lyrics all head toward a slightly restless place. I think that feeling is why I love this song no matter how many times I listen to it.",
+    "url": "https://note.com/rockshow_jp/n/n1a576a7bb73b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "An intro riff that isn't the usual Strokes",
+    "url": "https://note.com/rockshow_jp/n/n1a576a7bb73b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The thing that grabs your ears first in \"Juicebox\" is almost certainly Nikolai Fraiture's bass.",
+    "url": "https://note.com/rockshow_jp/n/n1a576a7bb73b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【海外HRツール紹介①】Juicebox（PeopleGPT）って何ができるの？「こんな人いない？」で候補者が出てくるAIソーシング｜採用と管理部門の伴走者：株式会社みらいキャリアラボ",
+    "url": "https://note.com/mc_labo/n/n5d99c56589c7",
+    "pass": 3
+   },
+   {
+    "quote": "【海外HRツール紹介①】Juicebox（PeopleGPT）って何ができるの？「こんな人いない？」で候補者が出てくるAIソーシング",
+    "url": "https://note.com/mc_labo/n/n5d99c56589c7",
+    "pass": 3
+   },
+   {
+    "quote": "採用と管理部門の伴走者：株式会社みらいキャリアラボ",
+    "url": "https://note.com/mc_labo/n/n5d99c56589c7",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは。今回から何回かに分けて、海外ではかなり話題になっているのに、日本ではまだほとんど知られていない「採用・HR系のAIツール」を紹介していこうと思います。",
+    "url": "https://note.com/mc_labo/n/n5d99c56589c7",
+    "pass": 3
+   },
+   {
+    "quote": "第1回は、AIソーシングツールの「Juicebox（ジュースボックス）」です。",
+    "url": "https://note.com/mc_labo/n/n5d99c56589c7",
+    "pass": 3
+   },
+   {
+    "quote": "ひとことで言うと、「こんな人いない？」と日本語みたいな普通の文章で聞くと、条件に合う候補者をズラッと出してくれるAI検索ツールです。",
+    "url": "https://note.com/mc_labo/n/n5d99c56589c7",
+    "pass": 3
+   },
+   {
+    "quote": "公式サイトのトップにデモがあるんですが、検索窓に「サンフランシスコで働くソフトウェアエンジニア」みたいに打ち込むと、それっぽい人のカードがパッと並びます。Booleanで検索式を組んだり、フィルターを何個も設定したり…という作業がいらないのが最大の特徴ですね。",
+    "url": "https://note.com/mc_labo/n/n5d99c56589c7",
+    "pass": 3
+   },
+   {
+    "quote": "ちなみに「PeopleGPT」という名前で呼ばれていたこともあって、海外のリクルーターの間ではそっちの名前で覚えている人も多いです。",
+    "url": "https://note.com/mc_labo/n/n5d99c56589c7",
+    "pass": 3
+   },
+   {
+    "quote": "2021_05_16ブッキングライブ『JUICEBOX』@四条大宮Rooter×2｜nalu",
+    "url": "https://note.com/nalu_singer/n/n773d8eb26153",
+    "pass": 3
+   },
+   {
+    "quote": "2021_05_16ブッキングライブ『JUICEBOX』@四条大宮Rooter×2",
+    "url": "https://note.com/nalu_singer/n/n773d8eb26153",
+    "pass": 3
+   },
+   {
+    "quote": "2021/05/16(日)は、四条大宮Rooter×2で、機嫌よく唄い切ることができました。",
+    "url": "https://note.com/nalu_singer/n/n773d8eb26153",
+    "pass": 3
+   },
+   {
+    "quote": "今回のブッキングライブのイベント名は、「JUICEBOX」。普段アコギなどの弾き語りの演奏でルータールーターの2階のステージに出ることが多い演者が、１階のライブハウスのステージに立つという企画でした。当初アコギの弾き語りで出演する予定でしたが、いい機会と思い仲間に声をかけてバンドで出演することにしました。何度かスタジオに入り、自分のイメージを伝えたり、合わせたりして練習するのは、とても楽しい時間でした。",
+    "url": "https://note.com/nalu_singer/n/n773d8eb26153",
+    "pass": 3
+   },
+   {
+    "quote": "4人編成のバンド。楽しいMCと、とってもさわやかな楽曲。帰りにオリジナルアルバムCDをただでくれました。",
+    "url": "https://note.com/nalu_singer/n/n773d8eb26153",
+    "pass": 3
+   },
+   {
+    "quote": "01.Call My Name（すのうカバー）",
+    "url": "https://note.com/nalu_singer/n/n773d8eb26153",
+    "pass": 3
+   },
+   {
+    "quote": "ま、反省点は、いろいろあります。ただでも、とにかくとにかく楽しかった。自分のオリジナル曲をバンドで演奏してステージで披露するという夢が叶いました。",
+    "url": "https://note.com/nalu_singer/n/n773d8eb26153",
+    "pass": 3
+   },
+   {
+    "quote": "アコギとベースとドラムの3ピースバンド。いわゆる世界持ってる系。オリジナリティあふれる演奏でした。",
+    "url": "https://note.com/nalu_singer/n/n773d8eb26153",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Juicebox (@juicebox_work) / X Juicebox (@juicebox_work) / X X https://x.com > juicebox_work",
+    "url": "https://x.com/juicebox_work",
+    "pass": 3
+   },
+   {
+    "quote": "JuiceBox “John Faithby” Bird (@JuiceBoxBird) / X JuiceBox “John Faithby” Bird (@JuiceBoxBird) / X X https://x.com > JuiceBoxBird",
+    "url": "https://x.com/JuiceBoxBird",
+    "pass": 3
+   },
+   {
+    "quote": "JuiceBox (@JuiceBox_Art) / X JuiceBox (@JuiceBox_Art) / X X https://x.com > JuiceBox_Art",
+    "url": "https://x.com/JuiceBox_Art",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Juicebox | LinkedIn Juicebox | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/juicebox-work",
+    "pass": 3
+   },
+   {
+    "quote": "Juicebox Review: Disappointing AI Recruiting Solution Juicebox Review: Disappointing AI Recruiting Solution LinkedIn https://www.linkedin.com > posts > a...",
+    "url": "https://www.linkedin.com/posts/angelahumada_juicebox-juicebox-was-one-of-the-biggest-activity-7440149446761340929-TiGA",
+    "pass": 3
+   },
+   {
+    "quote": "Ishan Gupta - Co-Founder at Juicebox | We're hiring! | LinkedIn Ishan Gupta - Co-Founder at Juicebox | We're hiring! | LinkedIn LinkedIn https://www.linkedin.com > ishangpt",
+    "url": "https://www.linkedin.com/in/ishangpt",
+    "pass": 3
+   },
+   {
+    "quote": "Juicebox - LinkedIn Juicebox - LinkedIn LinkedIn Australia https://au.linkedin.com > company > j...",
+    "url": "https://au.linkedin.com/company/juicebox-digital",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Juicebox Podcast: Type 1 Diabetes - Facebook Juicebox Podcast: Type 1 Diabetes - Facebook Facebook https://www.facebook.com > Facebook Groups",
+    "url": "https://www.facebook.com/groups/boldwithinsulin/",
+    "pass": 3
+   },
+   {
+    "quote": "Juicebox | Bloomington MN - Facebook Juicebox | Bloomington MN - Facebook Facebook https://www.facebook.com > ... > Food Stand",
+    "url": "https://www.facebook.com/ilovejuicebox/",
+    "pass": 3
+   },
+   {
+    "quote": "Juice Box (@juiceboxbandct) - Facebook Juice Box (@juiceboxbandct) - Facebook Facebook https://www.facebook.com > ... > Musician/band",
+    "url": "https://www.facebook.com/juiceboxbandct/",
+    "pass": 3
+   },
+   {
+    "quote": "Juicebox | Ocean View DE - Facebook Juicebox | Ocean View DE - Facebook Facebook https://www.facebook.com > ... > Smoothie & Juice Bar",
+    "url": "https://www.facebook.com/thejuiceboxbethany/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://juicebox.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://juicebox.ai/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://juicebox.ai/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://juicebox.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://juicebox.ai/customers/lovable",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://juicebox.ai/customers/heidi-health",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://juicebox.ai/customers/ezcater",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://juicebox.ai/customers/omnea",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://juicebox.ai/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://juicebox.ai/demo",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://juicebox.ai/customers/v3-talent-partners",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://framerusercontent.com/images/zLADGwYgWhXUmOs7yzWQh8m0.png?width=898&height=804",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://stripe.com/jp/customers/juicebox",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aipicks.jp/tool/juicebox-ai/japanese",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.works-i.com/research/labour/column/roundup/detail059.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://employeestore.app/tools/recruiting/juicebox",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jucebox.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qubo.jp/agency",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.juiceboxforyou.com/2017/06/juicebox-in-japan-japandoned/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.juiceboxforyou.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/playlist?list=PLKSb2BwTDb9X9P-l_xJ2XowpU9PKbFKU7",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/channel/UCQdUounXXta_k977qGPnuXw",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://japantoday.com/category/features/new-products/super-cold-juicebox",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vKyku_3_32WmKSIz-ixO5M4B21Nb2dSAz-SYay7Z9ltffaLI3oi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://safetychain.com/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grizzl-e.com/de-eu/news/205?srsltid=AYCX9vJ4y1lZIourcK_dYWpzLmrn5nGxh61VH4K8UVJGnKHymU8HyhAw",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ecosystem.hubspot.com/marketplace/solutions/juicebox",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.pin.com/blog/juicebox-pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/juicebox",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://huntscanlon.com/juicebox-secures-80-million-in-funding-at-an-850-million-valuation/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://sacra.com/c/juicebox/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/rockshow_jp/n/n1a576a7bb73b?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mc_labo/n/n5d99c56589c7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nalu_singer/n/n773d8eb26153",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/juicebox_work",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/JuiceBoxBird",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/JuiceBox_Art",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/juicebox-work",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/angelahumada_juicebox-juicebox-was-one-of-the-biggest-activity-7440149446761340929-TiGA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/ishangpt",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://au.linkedin.com/company/juicebox-digital",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/boldwithinsulin/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ilovejuicebox/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/juiceboxbandct/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/thejuiceboxbethany/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/juicebox_work",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/juicebox_work",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Juicebox 日本 導入",
+   "results": [
+    "https://stripe.com/jp/customers/juicebox",
+    "https://aipicks.jp/tool/juicebox-ai/japanese",
+    "https://www.works-i.com/research/labour/column/roundup/detail059.html",
+    "https://employeestore.app/tools/recruiting/juicebox",
+    "https://japan.skyfactory.com/portfolio/",
+    "https://vicone.com/jp/blog/from-pwn2own-automotive-a-stack-based-buffer-overflow-vulnerability-in-juicebox-40-smart-ev-charging-station/",
+    "https://www.reviewramble.com/ja/tools/juicebox",
+    "https://note.com/mc_labo/n/n5d99c56589c7",
+    "https://quasa.io/ja/video/juiceboxrebiyu-interizientonaaideaideawoxing-dong-nibian-eru",
+    "https://ja.wikipedia.org/wiki/ジュークボックス"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Juicebox 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://jucebox.com/",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.qubo.jp/agency",
+    "https://www.juiceboxforyou.com/2017/06/juicebox-in-japan-japandoned/",
+    "https://www.wadax.ne.jp/company/agent/",
+    "https://b-seeds.com/business/use/businessmodel/sourcing",
+    "https://www.youtube.com/watch?v=m9qq9nQP9KI",
+    "https://www.euglena.jp/en/businessrd/healthcare/partner/",
+    "https://fc-kamei.net/CT2",
+    "https://partner-prop.com/lab/partner-business/agency/256/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Juicebox Japan",
+   "results": [
+    "https://www.juiceboxforyou.com/",
+    "https://www.youtube.com/playlist?list=PLKSb2BwTDb9X9P-l_xJ2XowpU9PKbFKU7",
+    "https://www.youtube.com/channel/UCQdUounXXta_k977qGPnuXw",
+    "https://japantoday.com/category/features/new-products/super-cold-juicebox",
+    "https://aidenlab.org/juicebox/",
+    "https://www.pinterest.com/ideas/japanese-juice-box/941793840265/",
+    "https://www.reddit.com/r/mildlyinteresting/comments/6tfmoe/these_alcoholic_juice_boxes_in_japan/",
+    "https://juicebox.org/",
+    "https://www.youtube.com/@juiceboxforyou",
+    "https://www.ironsidecomputers.com/juicebox"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Juicebox manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vKyku_3_32WmKSIz-ixO5M4B21Nb2dSAz-SYay7Z9ltffaLI3oi",
+    "https://juicebox.ai/customers",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://safetychain.com/resources/case-studies",
+    "https://www.youtube.com/watch?v=Tm5NbHUblkA&vl=ja",
+    "https://www.fergusonindustrial.com/case-studies/",
+    "https://www.usedby.ai/tools/juicebox",
+    "https://decisions.com/case-studies",
+    "https://www.industryweek.com/leadership/strategic-planning-execution/article/21261091/winning-with-customer-case-studies-4-tips-6-pitfalls",
+    "https://www.casestudies.com/company/test-creative/case-study/juicebox-customer-case-study"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Juicebox white label OR reseller OR partner program",
+   "results": [
+    "https://grizzl-e.com/de/news/205?srsltid=AYCX9vJ4y1lZIourcK_dYWpzLmrn5nGxh61VH4K8UVJGnKHymU8HyhAw",
+    "https://ecosystem.hubspot.com/marketplace/solutions/juicebox",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://www.pin.com/blog/juicebox-pricing/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://juicebox.ai/careers/sales-enablement-lead",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://www.ycombinator.com/companies/juicebox",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Juicebox founded funding employees revenue",
+   "results": [
+    "https://www.ycombinator.com/companies/juicebox",
+    "https://juicebox.ai/blog/funding-revenue-and-investor-data",
+    "https://huntscanlon.com/juicebox-secures-80-million-in-funding-at-an-850-million-valuation/",
+    "https://sacra.com/c/juicebox/",
+    "https://tracxn.com/d/companies/juicebox/__o2h-kaENbNGJh93kA6VTBb2Kifnv8E-WTGJUo-TuIpE",
+    "https://www.pin.com/blog/juicebox-reviews/",
+    "https://www.linkedin.com/posts/aitechsupports_ai-juicebox-hrtech-activity-7437240188520755201-Pu1d",
+    "https://www.techbuzz.ai/articles/juicebox-raises-30m-from-sequoia-for-ai-recruiting-platform",
+    "https://startupintros.com/orgs/juicebox",
+    "https://fundediq.co/juicebox-juicebox-ai-funding/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Juicebox",
+   "results": [
+    "https://note.com/rockshow_jp/n/n1a576a7bb73b?hl=en",
+    "https://note.com/mc_labo/n/n5d99c56589c7",
+    "https://note.com/startuplog/n/n4f6defdfb8bc",
+    "https://note.com/nalu_singer/n/n773d8eb26153",
+    "https://note.com/mc_labo/n/n5d99c56589c7?hl=ko",
+    "https://note.com/startup_now0708/n/n5a68f3039197",
+    "https://note.com/startup_now0708/n/ned870942c866",
+    "https://note.com/oj_wa_cool/n/n62a74b09ab4f",
+    "https://note.com/watasino_beats/n/n904e95f06d18?hl=en",
+    "https://note.com/johnbrown/n/nb9070e878349"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:x.com Juicebox",
+   "results": [
+    "https://x.com/juicebox_work",
+    "https://x.com/davepaffenholz",
+    "https://x.com/JuiceBoxBird",
+    "https://x.com/JuiceBox_Art",
+    "https://help.x.com/en/using-x/about-chat",
+    "https://x.com/JuiceboxGames",
+    "https://x.com/Emalynde_",
+    "https://x.com/nakul/status/2102415010408595618",
+    "https://x.com/DavidCahn6/status/1971274320065561053",
+    "https://x.com/JuiceBoxDC"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Juicebox",
+   "results": [
+    "https://www.linkedin.com/company/juicebox-work",
+    "https://www.linkedin.com/posts/angelahumada_juicebox-juicebox-was-one-of-the-biggest-activity-7440149446761340929-TiGA",
+    "https://www.linkedin.com/in/ishangpt",
+    "https://au.linkedin.com/company/juicebox-digital",
+    "https://www.linkedin.com/products/juiceanalytics-juicebox/",
+    "https://www.linkedin.com/in/david-paffenholz",
+    "https://www.linkedin.com/posts/tech-funding-news_sequoia-backed-juicebox-lands-80m-to-turn-activity-7437516151175299072-rhtZ",
+    "https://www.linkedin.com/posts/mohammadsharif0515_i-tried-juicebox-and-honestly-im-not-impressed-activity-7396643370594357248-oz8p"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:facebook.com Juicebox",
+   "results": [
+    "https://www.facebook.com/groups/boldwithinsulin/",
+    "https://www.facebook.com/ilovejuicebox/",
+    "https://www.facebook.com/juiceboxbandct/",
+    "https://www.facebook.com/thejuiceboxbethany/",
+    "https://www.facebook.com/juiceboxcaviar/",
+    "https://www.facebook.com/boldwithinsulin/",
+    "https://www.facebook.com/groups/776004332589379/",
+    "https://www.facebook.com/juice.box.colorado/",
+    "https://www.facebook.com/juiceboxpublichouse/",
+    "https://www.facebook.com/juiceboxseattle/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Juicebox note 社長",
+   "results": [
+    "https://juicebox.ai/blog/automatic-evaluation-notes",
+    "https://www.ycombinator.com/companies/juicebox",
+    "https://www.youtube.com/watch?v=9KNq4hVISDo",
+    "https://x.com/juicebox_work",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://www.linkedin.com/posts/david-paffenholz_excited-to-announce-that-juicebox-has-raised-activity-7377018610977906688-3Xqy",
+    "https://www.youtube.com/watch?v=4euf4eyFsac",
+    "https://note.com/sadaaki",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Juicebox X 投稿",
+   "results": [
+    "https://x.com/juicebox_work",
+    "https://www.instagram.com/juicebox914/",
+    "https://github.com/aidenlab/Juicebox",
+    "https://www.drupal.org/project/juicebox",
+    "https://soundcloud.com/juicebox914",
+    "https://www.reddit.com/r/evcharging/comments/1fuh3vu/enel_x_maker_of_juicebox_is_abandoning_the_us/",
+    "https://www.reddit.com/r/evcharging/comments/181avc8/new_juicebox_40_ev_charger_has_much_lower_charge/",
+    "https://box.juicey.dev/",
+    "https://www.instagram.com/juiceboxxofficial/",
+    "https://www.instagram.com/x_.juicebox._x/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式11頁／PDF・画像1件／外部38頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式11頁／PDF・画像1件／外部38頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式11頁／PDF・画像1件／外部38頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式11頁／PDF・画像1件／外部38頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式11頁／PDF・画像1件／外部38頁・検索12回）"
+ }
+}

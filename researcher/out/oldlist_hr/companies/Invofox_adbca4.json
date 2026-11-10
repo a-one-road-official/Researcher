@@ -1,0 +1,815 @@
+{
+ "name": "Invofox",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-10T15:00:24.326806+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "\"net_advertising_fee\"",
+    "url": "https://www.invofox.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Process your first doc now",
+    "url": "https://www.invofox.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Great document processing is not just a feature. It's a complex infrastructure that is ready for edge-cases, scales and learns from feedback.",
+    "url": "https://www.invofox.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Handle corrupt and password protected files",
+    "url": "https://www.invofox.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Two passes: one reads the text, one maps the layout",
+    "url": "https://www.invofox.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Improve results with a single API call",
+    "url": "https://www.invofox.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Chunk and process PDFs with hundreds or thousands of pages without timeouts",
+    "url": "https://www.invofox.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "On-prem & private cloud",
+    "url": "https://www.invofox.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Deploy fully on-prem when data residency demands it",
+    "url": "https://www.invofox.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "SOC 2, ISO 27001, GDPR and HIPAA. Audited, current and contractually committed",
+    "url": "https://www.invofox.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Integrate one endpoint into your codebase. Get back clean, structured JSON from any document, without building the extraction pipeline, training models, or handling edge cases. Ever.",
+    "url": "https://www.invofox.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Invofox runs in production today across the US, EU and LATAM — for fintechs, marketplaces, logistics ops, accounting platforms and top enterprises. Here's a snapshot of what flows through every day.",
+    "url": "https://www.invofox.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "SLA tier available on plans processing 1M+ pages per year.",
+    "url": "https://www.invofox.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "A short look at the problem we got tired of seeing — and how we set out to fix it. Straight from the founders.",
+    "url": "https://www.invofox.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise-grade security,",
+    "url": "https://www.invofox.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Our systems and controls are independently audited every year against the AICPA Trust Services Criteria — security, availability, processing integrity, confidentiality, and privacy.",
+    "url": "https://www.invofox.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Process. Deliver. Erase.",
+    "url": "https://www.invofox.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Opt-in · Only for Scale and Enterprise clients",
+    "url": "https://www.invofox.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Only for Enterprise clients",
+    "url": "https://www.invofox.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Want the full report? Audits, policies, sub-processors and the latest pen-test summary live in our",
+    "url": "https://www.invofox.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "The great thing about Invofox was being a SaaS product — easily adaptable with development and very reliable from the start.",
+    "url": "https://www.invofox.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Onboarding · AON Solutions",
+    "url": "https://www.invofox.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "\"Accuracy thresholds are guaranteed in your SLA, per document type and per field. Every extraction is validated before it counts toward your bill. The feedback loop means accuracy improves over time as your team flags edge cases. Stable use cases reach 99.2%.\"",
+    "url": "https://www.invofox.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "When you visit websites, they may store or retrieve data in your browser. This storage is often necessary for the basic functionality of the website and may also be used for marketing, analytics and personalization. You can disable categories that are not strictly necessary — blocking them may affect your experience.",
+    "url": "https://www.invofox.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences by Category",
+    "url": "https://www.invofox.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "POST https://api.invofox.com/v1/ingest/uploads",
+    "url": "https://aitrovex.com/ja/tool/invofox",
+    "pass": 3
+   },
+   {
+    "quote": "Scale と Enterprise は個別見積もりです",
+    "url": "https://aitrovex.com/ja/tool/invofox",
+    "pass": 3
+   },
+   {
+    "quote": "ゼロリテンションは Scale と Enterprise 向けの追加設定",
+    "url": "https://aitrovex.com/ja/tool/invofox",
+    "pass": 3
+   },
+   {
+    "quote": "— send any document (invoices, receipts, bank statements, delivery notes, contracts and many more, including custom document types) and get back clean, structured JSON. Under the hood it’s an intelligent document processing (IDP) platform: OCR + AI that classify each document and extract its fields automatically — no templates, no manual data entry.",
+    "url": "https://developers.invofox.com/documentation/integrating-invofox",
+    "pass": 3
+   },
+   {
+    "quote": ", from upload to JSON. For use cases, accuracy and pricing, see",
+    "url": "https://developers.invofox.com/documentation/integrating-invofox",
+    "pass": 3
+   },
+   {
+    "quote": "https://api.invofox.com/v1/ingest/uploads",
+    "url": "https://developers.invofox.com/documentation/integrating-invofox",
+    "pass": 3
+   },
+   {
+    "quote": "— not the extracted data. Invofox processes the document asynchronously. Save the",
+    "url": "https://developers.invofox.com/documentation/integrating-invofox",
+    "pass": 3
+   },
+   {
+    "quote": "Processing is asynchronous.",
+    "url": "https://developers.invofox.com/documentation/integrating-invofox",
+    "pass": 3
+   },
+   {
+    "quote": "Webhooks are the recommended approach",
+    "url": "https://developers.invofox.com/documentation/integrating-invofox",
+    "pass": 3
+   },
+   {
+    "quote": "; polling is fine for quick tests and prototyping.",
+    "url": "https://developers.invofox.com/documentation/integrating-invofox",
+    "pass": 3
+   },
+   {
+    "quote": "event to your server when extraction is complete. Event-driven, no polling overhead. Recommended for all production integrations.",
+    "url": "https://developers.invofox.com/documentation/integrating-invofox",
+    "pass": 3
+   },
+   {
+    "quote": "No infrastructure needed — great for prototyping and quick tests. Not recommended for production.",
+    "url": "https://developers.invofox.com/documentation/integrating-invofox",
+    "pass": 3
+   },
+   {
+    "quote": "in the dashboard or process a sample document.",
+    "url": "https://developers.invofox.com/documentation/integrating-invofox",
+    "pass": 3
+   },
+   {
+    "quote": "Option A · Webhooks (recommended for production)",
+    "url": "https://developers.invofox.com/documentation/integrating-invofox",
+    "pass": 3
+   },
+   {
+    "quote": "document.processed payload",
+    "url": "https://developers.invofox.com/documentation/integrating-invofox",
+    "pass": 3
+   },
+   {
+    "quote": "before producing any document",
+    "url": "https://developers.invofox.com/documentation/integrating-invofox",
+    "pass": 3
+   },
+   {
+    "quote": "(password-protected, corrupt, unsupported format). Listen for the",
+    "url": "https://developers.invofox.com/documentation/integrating-invofox",
+    "pass": 3
+   },
+   {
+    "quote": ". Every correction feeds directly into model training, improving extraction accuracy over time — automatically, with no extra configuration. See the",
+    "url": "https://developers.invofox.com/documentation/integrating-invofox",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "\"SC Sen Rep Caucus Dist 2 Larry Martin\"",
+    "url": "https://www.invofox.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Top results are part of our SLAs.",
+    "url": "https://www.invofox.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Accuracy targets are part of our contractual obligations.",
+    "url": "https://www.invofox.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "David Quesada Navarro",
+    "url": "https://www.invofox.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Any JSON object you want Invofox to store and return alongside the document — in both the GET response and webhook payload. Useful for carrying your own identifiers:",
+    "url": "https://developers.invofox.com/documentation/integrating-invofox",
+    "pass": 3
+   },
+   {
+    "quote": "object, which can be nested, with arrays for line items. To see the exact fields for your Document Type, check",
+    "url": "https://developers.invofox.com/documentation/integrating-invofox",
+    "pass": 3
+   },
+   {
+    "quote": "webhook so you don’t wait forever for a document that never arrives — this applies whether you use webhooks or polling. See",
+    "url": "https://developers.invofox.com/documentation/integrating-invofox",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "No card or email required.",
+    "url": "https://www.invofox.com/en/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本の帳票形式や税務サービスとの接続は、実際のサンプルで別途確認が必要です",
+    "url": "https://aitrovex.com/ja/tool/invofox",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Invofox — One API to extract data from any document — Invofox runs in production today across the US, EU and LATAM — for fintechs, marketplaces, logistics ops, accounting platforms and top enterprises. Here's a snapshot of what flows through every day.",
+    "url": "https://www.invofox.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Invofox：請求書 OCR・文書データ抽出 API — Invofox は何をするサービス？ Invofox は、請求書 OCR と文書データ抽出を業務ソフトに組み込むためのサービスです。 PDF や画像を送り、取引先、日付、税額、合計、明細などを構造化された JSON として受け取ります。",
+    "url": "https://aitrovex.com/ja/tool/invofox",
+    "pass": 3
+   },
+   {
+    "quote": "Integrating Invofox | Invofox | Developers — Complete developer guide to integrate the Invofox document parsing API — get your API key, upload a document, and retrieve clean structured JSON via webhooks or polling.",
+    "url": "https://developers.invofox.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Invofox - ビジネスとファイナンス AI Tool | HyperStore — Apr 10, 2026 · 支払条件やSWIFTコードなど、詳細な財務データを抽出 — Invofoxは、請求書、領収書、ビジネスドキュメントの文書処理とデータ抽出を自動化し、ERPとのシームレスな連携を実現します。",
+    "url": "https://store.hypergpt.ai/ja-JP/invofox",
+    "pass": 3
+   },
+   {
+    "quote": "Invofox Self Serve | HiCyou — Oct 6, 2026 · Invofox Self Serveとは Invofox is a document processing API that converts invoices, payslips, contracts, and other documents into clean, structured JSON through a single endpoint.",
+    "url": "https://hicyou.com/ja/invofox-self-serve",
+    "pass": 3
+   },
+   {
+    "quote": "Why So Many Software Companies Trust This Spanish AI Startup ... — Jun 25, 2025 · Perhaps the most remarkable aspect of Invofox's growth is how it has convinced software companies to entrust their customers' sensitive financial documents to a relatively young startup.",
+    "url": "https://www.techtimes.com/articles/310999/20250624/why-so-many-software-companies-trust-this-spanish-ai-startup-their-most-critical-business-documents.htm",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Invofox YC S22 (@invofoxhq) / Posts / X Custom document processing is now open to everyone with Invofox! From invoices to contracts, process any document instantly and streamline unique workflows with ease.",
+    "url": "https://x.com/invofoxhq",
+    "pass": 3
+   },
+   {
+    "quote": "Y Combinator on X: \"RT @al_gimeno: We spent years telling ... We spent years telling people how good Invofox is at extracting data from messy documents. Starting today, you don’t have to believe us: Invofox is now fully self-serve.",
+    "url": "https://x.com/ycombinator/status/2107116439635464299",
+    "pass": 3
+   },
+   {
+    "quote": "As we close out an incredible 2024, we want to thank all our ... As we close out an incredible 2024, we want to thank all our amazing customers, partners and Invofox team members – we couldn’t have done it without you. 💚 Here’s to an even greater 2025, filled with growth, innovation and shared success. 🚀",
+    "url": "https://x.com/invofoxhq/status/1874163613147201693",
+    "pass": 3
+   },
+   {
+    "quote": "SPATIAL GUARDS (@spatialguards) / X We spent years telling people how good Invofox is at extracting data from messy documents. Starting today, you don’t have to believe us: Invofox is now fully self-serve. Upload your hardest PDFs. See the structured output. Start integrating immediately. No demo. No sales call.",
+    "url": "https://x.com/spatialguards",
+    "pass": 3
+   },
+   {
+    "quote": "Invofox YC S22 (@invofoxhq) / Posts / X Jan 10, 2022 · Custom document processing is now open to everyone with Invofox! From invoices to contracts, process any document instantly and streamline unique workflows with ease.",
+    "url": "https://x.com/invofoxhq",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Invofox (YC S22) - LinkedIn At Invofox, we're transforming the way businesses handle document processing. 🚀 Our Intelligent Document Processing (IDP) platform automates data entry, and data validation tasks liberating ...",
+    "url": "https://www.linkedin.com/company/invofox",
+    "pass": 3
+   },
+   {
+    "quote": "Alberto Gimeno - CEO @Invofox (YC S22) | The ... - LinkedIn About Co-Founder and CEO @invofox (YC S22), the document parsing and data extraction API.",
+    "url": "https://www.linkedin.com/in/gimenoalberto",
+    "pass": 3
+   },
+   {
+    "quote": "Adrián Ramírez del Río - Co-Founder/CDO @ Invofox (YC S22 ...Alberto Gimeno Sánchez - CEO de Invofox (YC S22) - LinkedInCarmelo Juanes Rodríguez - Invofox | LinkedInInvofox Developer Page: Streamline AI-Powered Document ... Co-Founder/CDO @ Invofox (YC S22) · Experiencia: Invofox · Educación: KTH Royal Institute of Technology · Ubicación: Madrid · Más de 500 contactos en LinkedIn. Mira el perfil d",
+    "url": "https://es.linkedin.com/in/adrian-ramirez-delrio",
+    "pass": 3
+   },
+   {
+    "quote": "Alberto Gimeno Sánchez - CEO de Invofox (YC S22) - LinkedInCarmelo Juanes Rodríguez - Invofox | LinkedInInvofox Developer Page: Streamline AI-Powered Document ... Acerca de Co-Founder y CEO de Invofox (YC S22), el API de lectura y extracción de datos de documentos. Experience: Invofox · Education: Universidad Autónoma de Madrid · Location: San Francisco · 500+ connections on LinkedIn. View Carmelo",
+    "url": "https://www.linkedin.com/in/gimenoalberto/es",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Invofox YC S22 | San Francisco CA - Facebook Nov 8, 2024 · Whether it’s invoices, contracts, or any other document type, Invofox is ready to process it instantly. Now you can streamline even the most unique workflows, all with the speed and ease Invofox is known for.",
+    "url": "https://www.facebook.com/invofoxHQ/",
+    "pass": 3
+   },
+   {
+    "quote": "Invofox - Facebook Invofox - Facebook ... Invofox",
+    "url": "https://www.facebook.com/Invofox-122114353424001493/",
+    "pass": 3
+   },
+   {
+    "quote": "Invofox YC S22 - Introducing a new era in document... | Facebook Oct 29, 2024 · 🚀 Big News! 🚀 Custom document processing is now available to everyone with Invofox! Whether it’s invoices, contracts, or any other document type, Invofox is ready to process it instantly. Now you can streamline even the most unique workflows, all with the speed and ease Invofox is known for.",
+    "url": "https://www.facebook.com/invofoxHQ/posts/introducing-a-new-era-in-document-processing-invofoxs-custom-document-solution-i/411290128698576/",
+    "pass": 3
+   },
+   {
+    "quote": "Invofox YC S22 - ¡A solo dos días de sumergirnos en el ... Mar 4, 2024 · everyone with Invofox! Whether it’s invoices, contracts, or any other document type, Invofox is ready to process it instantly. Now you can streamline even the most unique workflows, all with the speed and ease Invofox is known for. Explore the power of custom documents and let us handle your document processing! 🔍 Invofox YC ",
+    "url": "https://www.facebook.com/invofoxHQ/posts/a-solo-dos-días-de-sumergirnos-en-el-mundo-de-la-economía-y-la-innovación-en-for/256227527538171/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.houjin-bangou.nta.go.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.invofox.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aitrovex.com/ja/tool/invofox",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://developers.invofox.com/documentation/integrating-invofox",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://store.hypergpt.ai/ja-JP/invofox",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.proenergyservices.com/category/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.infosys.com/industries/industrial-manufacturing/case-studies.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.erpresearch.com/erp-customers/sap",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.uk.shi.com/en-gb/case-studies/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/invofoxhq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ycombinator/status/2107116439635464299",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/invofoxhq/status/1874163613147201693",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/spatialguards",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/invofox",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/gimenoalberto",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://es.linkedin.com/in/adrian-ramirez-delrio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/gimenoalberto/es",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/invofoxHQ/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Invofox-122114353424001493/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/invofoxHQ/posts/introducing-a-new-era-in-document-processing-invofoxs-custom-document-solution-i/411290128698576/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/invofoxHQ/posts/a-solo-dos-días-de-sumergirnos-en-el-mundo-de-la-economía-y-la-innovación-en-for/256227527538171/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/gimenoalberto",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/invofoxhq",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Invofox",
+   "results": [
+    "https://www.invofox.com/en/",
+    "https://www.invofox.com/en/our-software/",
+    "https://developers.invofox.com/",
+    "https://developers.invofox.com/documentation/integrate-with-an-ai-agent",
+    "https://github.com/idobetesh/invofox",
+    "https://www.linkedin.com/company/invofox",
+    "https://trust.invofox.com/resources",
+    "https://ja.wikipedia.org/wiki/Invox"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "株式会社Invofox",
+   "results": [
+    "https://www.invofox.com/en/",
+    "https://www.invofox.com/en/our-software/",
+    "https://developers.invofox.com/",
+    "https://pitchbook.com/profiles/company/507256-66",
+    "https://www.linkedin.com/company/invofox",
+    "https://www.caplight.com/company/invofox",
+    "https://invox.co.jp/company"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Invofox 株式会社",
+   "results": [
+    "https://www.invofox.com/en/",
+    "https://www.invofox.com/en/our-software/",
+    "https://pitchbook.com/profiles/company/507256-66",
+    "https://www.linkedin.com/company/invofox",
+    "https://developers.invofox.com/",
+    "https://x.com/invofoxhq",
+    "https://es.linkedin.com/company/invofox"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ｉｎｖｏｆｏｘ",
+   "results": [
+    "https://ja.wikipedia.org/wiki/Invox",
+    "https://www.invofox.com/en/",
+    "https://www.invofox.com/en/our-software/",
+    "https://developers.invofox.com/",
+    "https://www.youtube.com/watch?v=DTbtdmM8IUo",
+    "https://developers.invofox.com/webhooks-reference/processing-tracking",
+    "https://trust.invofox.com/resources",
+    "https://www.linkedin.com/in/gimenoalberto"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Invofox Japan",
+   "results": [
+    "https://www.invofox.com/en/",
+    "https://aitrovex.com/ja/tool/invofox",
+    "https://developers.invofox.com/",
+    "https://store.hypergpt.ai/ja-JP/invofox",
+    "https://hicyou.com/ja/invofox-self-serve",
+    "https://www.invofox.com/en/contact/",
+    "https://invox.jp/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Invofox 日本",
+   "results": [
+    "https://www.invofox.com/en/",
+    "https://www.invofox.com/en/our-software/",
+    "https://aitrovex.com/ja/tool/invofox",
+    "https://store.hypergpt.ai/ja-JP/invofox",
+    "https://www.invofox.com/en/contact/",
+    "https://developers.invofox.com/",
+    "https://invox.jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Invofox K.K.",
+   "results": [
+    "https://www.invofox.com/en/",
+    "https://developers.invofox.com/",
+    "https://pitchbook.com/profiles/company/507256-66",
+    "https://www.linkedin.com/company/invofox",
+    "https://www.invofox.com/en/our-software/",
+    "https://invfox.com/en",
+    "https://www.invoicefox.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Invofox 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Invofox 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.houjin-bangou.nta.go.jp/",
+    "https://zeimo.jp/tools/66596",
+    "https://www.houjin.info/",
+    "https://open-g.itlibra.com/tools/invoice"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Invofox Japan",
+   "results": [
+    "https://www.invofox.com/en/",
+    "https://aitrovex.com/ja/tool/invofox",
+    "https://developers.invofox.com/",
+    "https://store.hypergpt.ai/ja-JP/invofox",
+    "https://hicyou.com/ja/invofox-self-serve",
+    "https://www.invofox.com/en/contact/",
+    "https://invox.jp/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Invofox manufacturing customer case study",
+   "results": [
+    "https://www.proenergyservices.com/category/case-studies/",
+    "https://www.infosys.com/industries/industrial-manufacturing/case-studies.html",
+    "https://www.erpresearch.com/erp-customers/sap",
+    "https://www.uk.shi.com/en-gb/case-studies/",
+    "https://www.techtimes.com/articles/310999/20250624/why-so-many-software-companies-trust-this-spanish-ai-startup-their-most-critical-business-documents.htm",
+    "https://guardian.ng/news/the-story-of-one-entrepreneurs-mission-to-eliminate-human-document-processing/",
+    "https://www.microsoft.com/en/customers/story/22743-harting-cloud-for-manufacturing",
+    "https://www.invofox.com/en/use-cases/manufacturing/",
+    "https://www.invofox.com/en/trowelapp/",
+    "https://www.youtube.com/watch?v=DTbtdmM8IUo"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Invofox white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Invofox founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Invofox",
+   "results": [
+    "https://note.com/tag/我々は宇宙人",
+    "https://tales.note.com/menmennovel2/works",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/glossy_pika3109/n/n85e1eafab62a",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Invofox",
+   "results": [
+    "https://x.com/invofoxhq",
+    "https://x.com/ycombinator/status/2107116439635464299",
+    "https://x.com/invofoxhq/status/1874163613147201693",
+    "https://x.com/spatialguards",
+    "https://x.com/InfoVoxAI/status/1684837421442060289",
+    "https://x.com/infovoxai",
+    "https://x.com/hashtag/infovox"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Invofox",
+   "results": [
+    "https://www.linkedin.com/company/invofox",
+    "https://www.linkedin.com/in/gimenoalberto",
+    "https://es.linkedin.com/in/adrian-ramirez-delrio",
+    "https://www.linkedin.com/in/gimenoalberto/es",
+    "https://www.linkedin.com/in/carmelojuanes",
+    "https://www.linkedin.com/feed/update/urn:li:share:7406755654427701248/",
+    "https://es.linkedin.com/company/invofox"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Invofox",
+   "results": [
+    "https://www.facebook.com/invofoxHQ/",
+    "https://www.facebook.com/Invofox-122114353424001493/",
+    "https://www.facebook.com/invofoxHQ/posts/introducing-a-new-era-in-document-processing-invofoxs-custom-document-solution-i/411290128698576/",
+    "https://www.facebook.com/invofoxHQ/posts/a-solo-dos-días-de-sumergirnos-en-el-mundo-de-la-economía-y-la-innovación-en-for/256227527538171/",
+    "https://www.facebook.com/invounderwriting/posts/-invo-underwriting-is-excited-to-offer-agents-access-to-foxquilt-a-digital-small/122180770682522154/",
+    "https://www.facebook.com/InfoVox/about/",
+    "https://www.facebook.com/leonflso/posts/can-you-identify-these-individuals-attempt-to-identify-this-male-and-female-invo/1590935466411874/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Invofox note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.linkedin.com/in/gimenoalberto",
+    "https://www.cbinsights.com/company/invofox/people",
+    "https://www.linkedin.com/in/gimenoalberto/es",
+    "https://www.invofox.com/en/contact/",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Invofox X 投稿",
+   "results": [
+    "https://x.com/invofoxhq",
+    "https://developers.invofox.com/",
+    "https://www.invofox.com/en/",
+    "https://www.invofox.com/es/",
+    "https://developers.invofox.com/webhooks-reference/webhook-implementation",
+    "https://x.com/infovoxai",
+    "https://x.com/i/trending/2116698684683436098",
+    "https://www.invofox.com/en/our-software/",
+    "https://github.com/idobetesh/invofox",
+    "https://xocto.vercel.app/p/invofox.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 11
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部26頁・検索19回）",
+  "株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部26頁・検索19回）",
+  "従業員数": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部26頁・検索19回）",
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部26頁・検索19回）",
+  "所在地": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部26頁・検索19回）",
+  "料金": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部26頁・検索19回）",
+  "製造業の実績": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部26頁・検索19回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部26頁・検索19回）"
+ }
+}

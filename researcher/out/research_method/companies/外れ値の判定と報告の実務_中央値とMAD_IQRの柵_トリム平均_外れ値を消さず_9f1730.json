@@ -8,11 +8,41 @@
  ],
  "context": "集計",
  "kind": "market",
- "researched_at": "2026-11-09T04:49:59.108061+00:00",
+ "researched_at": "2026-11-10T14:23:23.575581+00:00",
  "evidence": {
-  "失敗・落とし穴": [
+  "一次情報の探し方": [
    {
-    "quote": "施者が集計を行うが、集計前に調査票等の記入内容に誤りがないかなどの様々な審査が行われる",
+    "quote": "統計研究彙報 第 72 号 2015 年 3 月 （41～54）",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統計実務におけるレンジチェックのための外れ値検出方法",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統計調査における調査データは、調査対象から得た情報が調査票等に記入される",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "府が実施する統計調査はデータ量が多いので、確認すべきデータの基準（レンジ：人手による審査を",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "†独立行政法人統計センター統計情報・技術部統計技術研究課",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "野呂竜夫、和田かず美：統計実務におけるレンジチェックのための外れ値検出方法",
     "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
     "pass": 3,
     "first_seen": "2026-11-09"
@@ -24,75 +54,13 @@
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "一般的に、外れ値とは、データの大部分の傾向と異なるもので、必ずしも誤りとは限らな",
+    "quote": "公的統計調査の製表業務においては、収集された調査票情報を電子化し、その後集計作業",
     "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "本稿の目的は、誤りの",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "らかの誤りを含む可能性が高いものを指す」こととする",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "よって偏ったり拡大したりすると、それにより外れ値検出に誤りを生じやすい",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "1点だけ注意があります",
-    "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "（時間の順に並んだデータ）の異常検知では、静的なデータ向けの手法をそのまま当てはめると失敗します",
-    "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "季節性の落とし穴｜山を毎回「異常」と誤検知する",
-    "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "# 注意: アラート運用では当日を基準計算に入れない",
-    "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "全期間の平均と標準偏差を基準にすると、トレンドによる自然な水準変化を異常と誤り、平日に多く土日に落ちるといった季節の山を毎回「異常」と誤検知します",
-    "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "チェックのレンジの設定を行った事例を紹介する",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "unimodal and symmetric distribution (after transformation, if necessary). We also show the case of monthly sales",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ビス産業動向調査の調査票データを用いて実際に検証を行った結果について示している",
+    "quote": "統計調査データは大抵の場合、 正規分布などの理論上の分布には従わない",
     "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
     "pass": 3,
     "first_seen": "2026-11-09"
@@ -104,85 +72,61 @@
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "る調査結果を公表するためには、外れ値の影響を受けにくい適切な外れ値検出手法を用いな",
+    "quote": "出するためのものであり、最初から外れ値の存在が想定される統計調査データの外れ値検出",
     "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "上高データについて、この方法の事例として第４章で紹介する",
+    "quote": "統計研究彙報 第 72 号 2015 年３月",
     "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "いが、データ集計や分析の際にその存在が結果の精度を悪化させる可能性があるものを指す",
+    "quote": "倍あるいは３倍離れた値をレンジと考えることは、統計学的に自然な方法である",
     "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "例えば、上の９つのデータでは、６，７，８，９",
+    "quote": "実際の統計調査において、そのような方法を適用するには二つの問題がある",
     "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "実際の統計調査データ、例えば売上高や資本金等の金額データは、右裾が長い歪んだ分布",
+    "quote": "まり頑健性のない統計量を使えば、その検出法は信頼できるものにはならない",
     "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "実例として、事業従事者１人当たりの売上高データを図７に示す",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "4.2 検証結果",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "この二つの結果を比較すると、第３章２節で説明したように、図８に示す①の方法では、",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ここでは上述Ａの結果を踏まえ、同じデータを使用して、分布の対称性を確保するために",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "修正された結果、このデータの場合は検出される外れ値は変わらないが、レンジの位置が上",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "本稿で提案している方法は、 サービス産業動向調査を事例として検証を行ったが、この方",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "結果を見てから「この値は外れ値だから」と後付けで除外していくと、分析者にとって都合のよい結論にいくらでも寄せられます",
+    "quote": "STL分解のような統計処理を入れずとも、「同じ条件どうしを比べる」だけで季節要因の大半を打ち消せます",
     "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "（両端を除く）の2種類があり、定義が少し違うため結果がずれることがあります",
+    "quote": "統計的仮説検定の基礎｜p値・有意水準・第一種/第二種の過誤・信頼区間の読み方",
     "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "記事を公開した直後にGA4のユーザー数が不自然に急増したら、その多くはJavaScriptを実行するbot（AIクローラーやスクレイパー）が計測タグを発火させた結果である可能性があります",
+    "quote": "統計的仮説検定の基礎｜p値・過誤・信頼区間",
+    "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ベイズ統計の基礎｜事前分布・事後分布・ベイズ更新",
+    "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "SEO分析の統計入門｜CTR・カニバリ・鮮度低下",
     "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
     "pass": 3,
     "first_seen": "2026-11-09"
@@ -414,57 +358,21 @@
     "first_seen": "2026-11-09"
    }
   ],
-  "一次情報の探し方": [
+  "実例": [
    {
-    "quote": "統計研究彙報 第 72 号 2015 年 3 月 （41～54）",
+    "quote": "チェックのレンジの設定を行った事例を紹介する",
     "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "統計実務におけるレンジチェックのための外れ値検出方法",
+    "quote": "unimodal and symmetric distribution (after transformation, if necessary). We also show the case of monthly sales",
     "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "統計調査における調査データは、調査対象から得た情報が調査票等に記入される",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "府が実施する統計調査はデータ量が多いので、確認すべきデータの基準（レンジ：人手による審査を",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "†独立行政法人統計センター統計情報・技術部統計技術研究課",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "野呂竜夫、和田かず美：統計実務におけるレンジチェックのための外れ値検出方法",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "統計調査データにおいては、 記入誤りや入力誤りあるいは間違いではないが特異な値など、",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "公的統計調査の製表業務においては、収集された調査票情報を電子化し、その後集計作業",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "統計調査データは大抵の場合、 正規分布などの理論上の分布には従わない",
+    "quote": "ビス産業動向調査の調査票データを用いて実際に検証を行った結果について示している",
     "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
     "pass": 3,
     "first_seen": "2026-11-09"
@@ -476,61 +384,153 @@
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "出するためのものであり、最初から外れ値の存在が想定される統計調査データの外れ値検出",
+    "quote": "る調査結果を公表するためには、外れ値の影響を受けにくい適切な外れ値検出手法を用いな",
     "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "統計研究彙報 第 72 号 2015 年３月",
+    "quote": "上高データについて、この方法の事例として第４章で紹介する",
     "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "倍あるいは３倍離れた値をレンジと考えることは、統計学的に自然な方法である",
+    "quote": "いが、データ集計や分析の際にその存在が結果の精度を悪化させる可能性があるものを指す",
     "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "実際の統計調査において、そのような方法を適用するには二つの問題がある",
+    "quote": "例えば、上の９つのデータでは、６，７，８，９",
     "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "まり頑健性のない統計量を使えば、その検出法は信頼できるものにはならない",
+    "quote": "実際の統計調査データ、例えば売上高や資本金等の金額データは、右裾が長い歪んだ分布",
     "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "STL分解のような統計処理を入れずとも、「同じ条件どうしを比べる」だけで季節要因の大半を打ち消せます",
+    "quote": "実例として、事業従事者１人当たりの売上高データを図７に示す",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "4.2 検証結果",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "この二つの結果を比較すると、第３章２節で説明したように、図８に示す①の方法では、",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ここでは上述Ａの結果を踏まえ、同じデータを使用して、分布の対称性を確保するために",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "修正された結果、このデータの場合は検出される外れ値は変わらないが、レンジの位置が上",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "本稿で提案している方法は、 サービス産業動向調査を事例として検証を行ったが、この方",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "結果を見てから「この値は外れ値だから」と後付けで除外していくと、分析者にとって都合のよい結論にいくらでも寄せられます",
     "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "統計的仮説検定の基礎｜p値・有意水準・第一種/第二種の過誤・信頼区間の読み方",
+    "quote": "（両端を除く）の2種類があり、定義が少し違うため結果がずれることがあります",
     "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "統計的仮説検定の基礎｜p値・過誤・信頼区間",
+    "quote": "記事を公開した直後にGA4のユーザー数が不自然に急増したら、その多くはJavaScriptを実行するbot（AIクローラーやスクレイパー）が計測タグを発火させた結果である可能性があります",
+    "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "施者が集計を行うが、集計前に調査票等の記入内容に誤りがないかなどの様々な審査が行われる",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統計調査データにおいては、 記入誤りや入力誤りあるいは間違いではないが特異な値など、",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "一般的に、外れ値とは、データの大部分の傾向と異なるもので、必ずしも誤りとは限らな",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "本稿の目的は、誤りの",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "らかの誤りを含む可能性が高いものを指す」こととする",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "よって偏ったり拡大したりすると、それにより外れ値検出に誤りを生じやすい",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "1点だけ注意があります",
     "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "ベイズ統計の基礎｜事前分布・事後分布・ベイズ更新",
+    "quote": "（時間の順に並んだデータ）の異常検知では、静的なデータ向けの手法をそのまま当てはめると失敗します",
     "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "SEO分析の統計入門｜CTR・カニバリ・鮮度低下",
+    "quote": "季節性の落とし穴｜山を毎回「異常」と誤検知する",
+    "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "# 注意: アラート運用では当日を基準計算に入れない",
+    "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "全期間の平均と標準偏差を基準にすると、トレンドによる自然な水準変化を異常と誤り、平日に多く土日に落ちるといった季節の山を毎回「異常」と誤検知します",
     "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
     "pass": 3,
     "first_seen": "2026-11-09"
@@ -551,6 +551,11 @@
     "method": "pdf"
    },
    {
+    "url": "https://www.reddit.com/r/rstats/comments/jz4ddh/justification_for_removing_outliers/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
     "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
     "status": "ok",
     "method": "http"
@@ -561,17 +566,17 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/maru_mountain/n/n7407f861abaa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://gmo-research.ai/research-column/outlier",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.reddit.com/r/rstats/comments/jz4ddh/justification_for_removing_outliers/?tl=ja",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://note.com/maru_mountain/n/n7407f861abaa",
+    "url": "https://www.emuyn.net/stats/manual/outlier_handling",
     "status": "ok",
     "method": "http"
    },
@@ -581,22 +586,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.consulnote.com/articles/data-analysis/robust-statistics/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.transparently.jp/stats3/textbook/eda-outliers",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9041731/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://statisticsfundamentals.com/descriptive-statistics/outliers/",
     "status": "ok",
     "method": "http"
    },
@@ -611,14 +601,19 @@
     "method": "http"
    },
    {
+    "url": "https://statisticsfundamentals.com/descriptive-statistics/outliers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blogs.sas.com/content/iml/2012/01/27/detecting-outliers-in-sas-part-2-estimating-scale.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://stats.stackexchange.com/questions/472976/replacing-outlier-removal-from-iqr-to-mad",
     "status": "ok",
     "method": "browser"
-   },
-   {
-    "url": "https://metricgate.com/blogs/how-to-detect-outliers-comprehensive/",
-    "status": "ok",
-    "method": "http"
    }
   ]
  },
@@ -628,33 +623,33 @@
    "results": [
     "https://metricgate.com/docs/ja/robust-statistics/",
     "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "https://www.reddit.com/r/rstats/comments/jz4ddh/justification_for_removing_outliers/?tl=ja",
     "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
     "https://data-viz-lab.com/outlier",
+    "https://note.com/maru_mountain/n/n7407f861abaa",
     "https://gmo-research.ai/research-column/outlier",
-    "https://www.reddit.com/r/rstats/comments/jz4ddh/justification_for_removing_outliers/?tl=ja",
     "https://www.emuyn.net/stats/manual/outlier_handling",
-    "https://www.transparently.jp/stats3/textbook/eda-outliers",
-    "https://www.consulnote.com/articles/data-analysis/robust-statistics/",
+    "https://standarddeviationcalculator.app/ja/learn/robust-statistics",
     "https://note.com/alert_hyssop1862/n/n73bdf42ec7ab"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 15
   },
   {
    "query": "外れ値の判定と報告の実務（中央値とMAD・IQRの柵・トリム平均・外れ値を消さず印す・公的統計の外れ値の審査） note",
    "results": [
     "https://metricgate.com/docs/ja/robust-statistics/",
     "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "https://www.reddit.com/r/rstats/comments/jz4ddh/justification_for_removing_outliers/?tl=ja",
     "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
-    "https://note.com/maru_mountain/n/n7407f861abaa",
     "https://data-viz-lab.com/outlier",
+    "https://note.com/maru_mountain/n/n7407f861abaa",
     "https://gmo-research.ai/research-column/outlier",
-    "https://standarddeviationcalculator.app/ja/learn/robust-statistics",
-    "https://www.consulnote.com/articles/data-analysis/robust-statistics/",
-    "https://www.transparently.jp/stats3/textbook/eda-outliers"
+    "https://www.emuyn.net/stats/manual/outlier_handling",
+    "https://standarddeviationcalculator.app/ja/learn/robust-statistics"
    ],
    "engines": [
     "yahoo_jp"
@@ -666,13 +661,13 @@
    "results": [
     "https://metricgate.com/docs/ja/robust-statistics/",
     "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "https://www.reddit.com/r/rstats/comments/jz4ddh/justification_for_removing_outliers/?tl=ja",
     "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
-    "https://note.com/maru_mountain/n/n7407f861abaa",
     "https://data-viz-lab.com/outlier",
+    "https://note.com/maru_mountain/n/n7407f861abaa",
     "https://gmo-research.ai/research-column/outlier",
-    "https://standarddeviationcalculator.app/ja/learn/robust-statistics",
-    "https://www.consulnote.com/articles/data-analysis/robust-statistics/",
-    "https://www.transparently.jp/stats3/textbook/eda-outliers"
+    "https://www.emuyn.net/stats/manual/outlier_handling",
+    "https://standarddeviationcalculator.app/ja/learn/robust-statistics"
    ],
    "engines": [
     "yahoo_jp"
@@ -684,13 +679,13 @@
    "results": [
     "https://metricgate.com/docs/ja/robust-statistics/",
     "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "https://www.reddit.com/r/rstats/comments/jz4ddh/justification_for_removing_outliers/?tl=ja",
     "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
-    "https://note.com/maru_mountain/n/n7407f861abaa",
     "https://data-viz-lab.com/outlier",
+    "https://note.com/maru_mountain/n/n7407f861abaa",
     "https://gmo-research.ai/research-column/outlier",
-    "https://standarddeviationcalculator.app/ja/learn/robust-statistics",
-    "https://www.consulnote.com/articles/data-analysis/robust-statistics/",
-    "https://www.transparently.jp/stats3/textbook/eda-outliers"
+    "https://www.emuyn.net/stats/manual/outlier_handling",
+    "https://standarddeviationcalculator.app/ja/learn/robust-statistics"
    ],
    "engines": [
     "yahoo_jp"
@@ -701,14 +696,14 @@
    "query": "robust outlier detection MAD IQR official statistics editing practice",
    "results": [
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC9041731/",
-    "https://statisticsfundamentals.com/descriptive-statistics/outliers/",
     "https://www.reddit.com/r/statistics/comments/1sbhyup/q_while_implementing_outlier_detection_in_rust_i/",
     "https://www.chromatographyonline.com/view/robust-statistics-median-vs-mean-standard-deviation-vs-mad-data-analysis",
+    "https://statisticsfundamentals.com/descriptive-statistics/outliers/",
+    "https://blogs.sas.com/content/iml/2012/01/27/detecting-outliers-in-sas-part-2-estimating-scale.html",
     "https://stats.stackexchange.com/questions/472976/replacing-outlier-removal-from-iqr-to-mad",
-    "https://metricgate.com/blogs/how-to-detect-outliers-comprehensive/",
-    "https://wis.kuleuven.be/stat/robust/papers/2011/rousseeuwhubert-robuststatisticsforoutlierdetectio.pdf",
     "https://www.youtube.com/watch?v=zF4yXpi4iEg",
-    "https://link.springer.com/article/10.1007/s42081-020-00091-y",
+    "https://www.rand.org/pubs/external_publications/EP20060035.html",
+    "https://metricgate.com/docs/mad-scaled-z-score/",
     "https://en.wikipedia.org/wiki/Robust_measures_of_scale"
    ],
    "engines": [
@@ -722,11 +717,11 @@
    "results": [
     "https://note.com/alert_hyssop1862/n/n73bdf42ec7ab",
     "https://note.com/maru_mountain/n/n7407f861abaa",
-    "https://note.com/semi_python/n/nfb118b2a851f",
     "https://note.com/alert_hyssop1862/n/nfc3f8b223a0e",
-    "https://note.com/morinokabu/n/n6081d60e5ce0",
+    "https://note.com/semi_python/n/nfb118b2a851f",
+    "https://note.com/med_kentalog/n/nb4cca1b5a3f1",
     "https://note.com/takonosuke/n/n2fa2dc8864bd",
-    "https://note.com/med_kentalog/n/nb4cca1b5a3f1"
+    "https://note.com/morinokabu/n/n6081d60e5ce0"
    ],
    "engines": [
     "ddgs:google"
@@ -736,34 +731,24 @@
   {
    "query": "site:x.com 外れ値の判定と報告の実務（中央値とMAD・IQRの柵・トリム平均・外れ値を消さず印す・公的統計の外れ値の審査）",
    "results": [
+    "https://x.com/nzap9290/status/2116772749792493638",
     "https://x.com/Cacco_Inc_DSlab/article/1973161006361878921",
     "https://x.com/j0OmcPKEmMMkNWX/status/2076230084176806085",
     "https://x.com/Syuiro_2/status/2116776077087694938",
-    "https://x.com/nzap9290/status/2116772749792493638",
     "https://x.com/BBiostatistics/status/2056517093219242204",
-    "https://x.com/50python2024/status/2023593249537917308",
-    "https://x.com/AISTATSCH/status/2085508696562659690"
+    "https://x.com/AISTATSCH/status/2085508696562659690",
+    "https://x.com/50python2024/status/2023593249537917308"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
   {
    "query": "site:linkedin.com 外れ値の判定と報告の実務（中央値とMAD・IQRの柵・トリム平均・外れ値を消さず印す・公的統計の外れ値の審査）",
-   "results": [
-    "https://jp.linkedin.com/pulse/iqr-method-outlier-detection-how-spot-fix-data-anomalies-sharma-oec5f?tl=ja",
-    "https://jp.linkedin.com/pulse/understanding-boxplots-unveiling-data-distributions-detecting-km-r2ebc?tl=ja",
-    "https://www.linkedin.com/pulse/iqr-method-outlier-detection-how-spot-fix-data-anomalies-sharma-oec5f",
-    "https://jp.linkedin.com/pulse/mastering-outlier-detection-critical-step-reliable-machine-deb-vatxf?tl=ja",
-    "https://jp.linkedin.com/pulse/how-data-analysts-scientists-approach-outliers-amit-edke-zndhc?tl=ja",
-    "https://jp.linkedin.com/pulse/spotting-outliers-essential-reliable-statistics-vinit-dedhia-csm-pcq3f?tl=ja",
-    "https://jp.linkedin.com/pulse/understanding-iqr-interquartile-range-data-science-guide-beekhani-icvnf?tl=ja"
-   ],
-   "engines": [
-    "ddgs:bing"
-   ],
-   "n_hits": 7
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "site:facebook.com 外れ値の判定と報告の実務（中央値とMAD・IQRの柵・トリム平均・外れ値を消さず印す・公的統計の外れ値の審査）",
@@ -771,10 +756,10 @@
     "https://www.facebook.com/imakarasuugaku/videos/この動画では代表値①-平均と中央値統計学をやさしく解説の内容を-notebooklm-を使ってわかりやすくダイジェストでご紹介しますaiはたまに日本語を間違える/1391052656003206/",
     "https://www.facebook.com/JMPjpn/posts/-新着動画外れ値の検出などデータ分析のさまざまな場面で活躍するzスコアについて5分程度の動画で説明しています️-動画はこちらhttpsgojmp4s3lxzhj/1460021479467336/",
     "https://www.facebook.com/superblood/",
-    "https://www.facebook.com/theboardroomsalon/",
     "https://www.facebook.com/ExploratoryJapan/videos/データの外れ値を一瞬で除去aiプロンプトの機能を使って数値列の外れ値を効率的に除去することができますexploratoryの新機能で面倒な処理が一瞬で完了試して/479669231838342/",
     "https://www.facebook.com/SingaAkane/photos/tomorrow-室蘭レゲエバッシュ2016-2016年9月1８日sunplace-室蘭中央埠頭-北海道室蘭市北海道室蘭市海岸町１丁目timeopen-1200/1253610918023542/",
-    "https://www.facebook.com/GOODDESIGNNEWHOPEAWARD/photos/2025年度グッドデザインニューホープ賞-優秀賞作品edoodle-子どもの外れ値行為を生かした落書きから広がる教育アプリケーション-edoodleはeduca/859664756808877/"
+    "https://www.facebook.com/GOODDESIGNNEWHOPEAWARD/photos/2025年度グッドデザインニューホープ賞-優秀賞作品edoodle-子どもの外れ値行為を生かした落書きから広がる教育アプリケーション-edoodleはeduca/859664756808877/",
+    "https://www.facebook.com/tokyoaozei/posts/実務研修部5月23日金中央部会との共催で税理士のコンサルティング業務-課題特定力を身につけるためにはと題した研修を東京税理士会日本橋支部2階会議室にて開催しまし/1127886156048147/"
    ],
    "engines": [
     "ddgs:google"
@@ -786,13 +771,13 @@
    "results": [
     "https://metricgate.com/docs/ja/robust-statistics/",
     "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "https://www.reddit.com/r/rstats/comments/jz4ddh/justification_for_removing_outliers/?tl=ja",
     "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
-    "https://note.com/maru_mountain/n/n7407f861abaa",
     "https://data-viz-lab.com/outlier",
+    "https://note.com/maru_mountain/n/n7407f861abaa",
     "https://gmo-research.ai/research-column/outlier",
-    "https://standarddeviationcalculator.app/ja/learn/robust-statistics",
-    "https://www.consulnote.com/articles/data-analysis/robust-statistics/",
-    "https://www.transparently.jp/stats3/textbook/eda-outliers"
+    "https://www.emuyn.net/stats/manual/outlier_handling",
+    "https://standarddeviationcalculator.app/ja/learn/robust-statistics"
    ],
    "engines": [
     "yahoo_jp"
@@ -804,13 +789,13 @@
    "results": [
     "https://metricgate.com/docs/ja/robust-statistics/",
     "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "https://www.reddit.com/r/rstats/comments/jz4ddh/justification_for_removing_outliers/?tl=ja",
     "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
     "https://data-viz-lab.com/outlier",
+    "https://note.com/maru_mountain/n/n7407f861abaa",
     "https://gmo-research.ai/research-column/outlier",
-    "https://www.reddit.com/r/rstats/comments/jz4ddh/justification_for_removing_outliers/?tl=ja",
     "https://www.emuyn.net/stats/manual/outlier_handling",
-    "https://www.transparently.jp/stats3/textbook/eda-outliers",
-    "https://note.com/maru_mountain/n/n7407f861abaa"
+    "https://standarddeviationcalculator.app/ja/learn/robust-statistics"
    ],
    "engines": [
     "yahoo_jp"
@@ -820,553 +805,26 @@
   {
    "query": "robust outlier detection MAD IQR official statistics editing practice site:linkedin.com",
    "results": [
-    "https://ng.linkedin.com/in/seghosime-joshua",
     "https://uk.linkedin.com/in/anindita-nandkumar",
+    "https://ng.linkedin.com/in/seghosime-joshua",
     "https://www.linkedin.com/in/markbanderson",
     "https://uk.linkedin.com/in/ashika-mohan-m",
+    "https://de.linkedin.com/in/francois-bergey-68327274",
     "https://dk.linkedin.com/in/clausenbjoern/da",
+    "https://www.linkedin.com/posts/black-health-economists%E2%80%99-network-bhen_bhen-healtheconomics-publichealth-activity-7516477944446480384-pkbN",
     "https://in.linkedin.com/in/bhavik-arora",
     "https://id.linkedin.com/in/ismailmukmin",
-    "https://br.linkedin.com/in/cristhiankapelinski/pt",
-    "https://ph.linkedin.com/in/raphaelegutierrez",
-    "https://ma.linkedin.com/in/mostafa-el-mallahi-947434230"
+    "https://ph.linkedin.com/in/raphaelegutierrez"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 17
   }
  ],
  "missing": {},
- "new_this_run": {
-  "失敗・落とし穴": [
-   {
-    "quote": "施者が集計を行うが、集計前に調査票等の記入内容に誤りがないかなどの様々な審査が行われる",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "統計調査データにおいては、 記入誤りや入力誤りあるいは間違いではないが特異な値など、",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "一般的に、外れ値とは、データの大部分の傾向と異なるもので、必ずしも誤りとは限らな",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "本稿の目的は、誤りの",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "らかの誤りを含む可能性が高いものを指す」こととする",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "よって偏ったり拡大したりすると、それにより外れ値検出に誤りを生じやすい",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "1点だけ注意があります",
-    "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "（時間の順に並んだデータ）の異常検知では、静的なデータ向けの手法をそのまま当てはめると失敗します",
-    "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "季節性の落とし穴｜山を毎回「異常」と誤検知する",
-    "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "# 注意: アラート運用では当日を基準計算に入れない",
-    "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "全期間の平均と標準偏差を基準にすると、トレンドによる自然な水準変化を異常と誤り、平日に多く土日に落ちるといった季節の山を毎回「異常」と誤検知します",
-    "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "チェックのレンジの設定を行った事例を紹介する",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "unimodal and symmetric distribution (after transformation, if necessary). We also show the case of monthly sales",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ビス産業動向調査の調査票データを用いて実際に検証を行った結果について示している",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "れており、これが統計調査データにおける外れ値検出に流用されるケースがよくみられるが、",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "る調査結果を公表するためには、外れ値の影響を受けにくい適切な外れ値検出手法を用いな",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "上高データについて、この方法の事例として第４章で紹介する",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "いが、データ集計や分析の際にその存在が結果の精度を悪化させる可能性があるものを指す",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "例えば、上の９つのデータでは、６，７，８，９",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "実際の統計調査データ、例えば売上高や資本金等の金額データは、右裾が長い歪んだ分布",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "実例として、事業従事者１人当たりの売上高データを図７に示す",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "4.2 検証結果",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "この二つの結果を比較すると、第３章２節で説明したように、図８に示す①の方法では、",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ここでは上述Ａの結果を踏まえ、同じデータを使用して、分布の対称性を確保するために",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "修正された結果、このデータの場合は検出される外れ値は変わらないが、レンジの位置が上",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "本稿で提案している方法は、 サービス産業動向調査を事例として検証を行ったが、この方",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "結果を見てから「この値は外れ値だから」と後付けで除外していくと、分析者にとって都合のよい結論にいくらでも寄せられます",
-    "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "（両端を除く）の2種類があり、定義が少し違うため結果がずれることがあります",
-    "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "記事を公開した直後にGA4のユーザー数が不自然に急増したら、その多くはJavaScriptを実行するbot（AIクローラーやスクレイパー）が計測タグを発火させた結果である可能性があります",
-    "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "統計実務におけるレンジチェックのための外れ値検出方法",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "用いた外れ値検出の適切な方法を解説するとともに、サービス産業動向調査のデータを用いてレンジ",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "In this paper, we explain how to prepare the editing bounds by means of robust statistics for data with a",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "野呂竜夫、和田かず美：統計実務におけるレンジチェックのための外れ値検出方法",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "めの方法論はこれまで整備されておらず、（算術）平均値と標準偏差を用いて上限値及び下",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "限値を設定するような、検出漏れを起こしやすい方法が使用される場合もある",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "このようなデータにおける外れ値検出のためのレンジの設定方法について、実務担当者に向",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "第４章では、第３章の外れ値検出方法を、サー",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "後に第５章では、本稿で述べる外れ値検出方法の可能性についてまとめている",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "質管理における、平均値から標準偏差の２倍・３倍といった管理基準の設定方法は広く知ら",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "倍あるいは３倍離れた値をレンジと考えることは、統計学的に自然な方法である",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "実際の統計調査において、そのような方法を適用するには二つの問題がある",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "め、さらにそれを可視化する方法として箱ひげ図（box plot またはbox-and-whisker plot）を",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "正規分布の前提を置くパラメトリックな方法は適用が限られる",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "本稿で提案する方法は、分",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "STEP 1 — 検出",
-    "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "STEP 2 — 原因を調べる",
-    "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "STEP 3 — 原因で分類し、対応を変える",
-    "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "季節性を考えるもう1つの実務的な方法が、",
-    "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "前年同曜日・前年同月との比較も、季節要因を打ち消す実務的な方法です",
-    "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "ビス産業動向調査の調査票データを用いて実際に検証を行った結果について示している",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "りの可能性のあるデータを検出・修正して推計値が真値と乖離しないようにしている",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "数値データを用いた検証例を、第３章３節及び第４章１節で紹介する",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "案し、データの分布があらかじめ想定できない場合、順序統計量を基礎とした統計量（推定",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "値を採用することも避けながら、外れ値の影響を緩和することのできる頑健な推定手法を利",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "外れ値に頑健な中央値と四分位範囲を用いて、平均値と標準偏差を推定してレンジ設定す",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "て、第３章３節で示したレンジチェック方法の適用と検証を行う",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "4.1 検証方法",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "② 頑健な推定量（中央値及び四分位範囲）に基づくレンジ（対称分布用）",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "4.2 検証結果",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Ｂ. ②の方法での分布の対称化による効果の検証",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "本稿で提案している方法は、 サービス産業動向調査を事例として検証を行ったが、この方",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "係数0.6745は標準正規分布の0.75分位点（Φ⁻¹(0.75)）で、MADを標準偏差の一致推定量に変換するための値です",
-    "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "除外したレコードは件数と理由を記録し、後から検証できるようにする",
-    "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "統計的仮説検定の基礎｜p値・有意水準・第一種/第二種の過誤・信頼区間の読み方",
-    "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "観測した差が偶然で説明できるかを判定する仮説検定の考え方を初学者向けに整理します",
-    "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "統計的仮説検定の基礎｜p値・過誤・信頼区間",
-    "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "統計研究彙報 第 72 号 2015 年 3 月 （41～54）",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "統計実務におけるレンジチェックのための外れ値検出方法",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "統計調査における調査データは、調査対象から得た情報が調査票等に記入される",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "府が実施する統計調査はデータ量が多いので、確認すべきデータの基準（レンジ：人手による審査を",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "†独立行政法人統計センター統計情報・技術部統計技術研究課",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "野呂竜夫、和田かず美：統計実務におけるレンジチェックのための外れ値検出方法",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "統計調査データにおいては、 記入誤りや入力誤りあるいは間違いではないが特異な値など、",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "公的統計調査の製表業務においては、収集された調査票情報を電子化し、その後集計作業",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "統計調査データは大抵の場合、 正規分布などの理論上の分布には従わない",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "れており、これが統計調査データにおける外れ値検出に流用されるケースがよくみられるが、",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "出するためのものであり、最初から外れ値の存在が想定される統計調査データの外れ値検出",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "統計研究彙報 第 72 号 2015 年３月",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "倍あるいは３倍離れた値をレンジと考えることは、統計学的に自然な方法である",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "実際の統計調査において、そのような方法を適用するには二つの問題がある",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "まり頑健性のない統計量を使えば、その検出法は信頼できるものにはならない",
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "STL分解のような統計処理を入れずとも、「同じ条件どうしを比べる」だけで季節要因の大半を打ち消せます",
-    "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "統計的仮説検定の基礎｜p値・有意水準・第一種/第二種の過誤・信頼区間の読み方",
-    "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "統計的仮説検定の基礎｜p値・過誤・信頼区間",
-    "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ベイズ統計の基礎｜事前分布・事後分布・ベイズ更新",
-    "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "SEO分析の統計入門｜CTR・カニバリ・鮮度低下",
-    "url": "https://cryptul.co.jp/insights/articles/113-outlier-anomaly-detection",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ]
- },
- "runs": 1,
+ "new_this_run": {},
+ "runs": 2,
  "first_researched_at": "2026-11-09T04:49:59.108061+00:00"
 }

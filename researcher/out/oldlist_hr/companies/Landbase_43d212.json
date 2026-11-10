@@ -1,0 +1,1247 @@
+{
+ "name": "Landbase",
+ "aliases": [],
+ "context": "旧営業リスト｜Standalone AI SDR — Outbound｜商談中",
+ "researched_at": "2026-11-10T14:22:36.796014+00:00",
+ "official_url": "https://www.landbase.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Can technically scrape job boards, but requires custom code and takes 35+ minutes.",
+    "url": "https://www.landbase.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Score and tier accounts based on fit, signals, and likelihood to convert, producing decision-ready segments.",
+    "url": "https://www.landbase.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Acme Corp hiring VP Sales",
+    "url": "https://www.landbase.com/",
+    "pass": 1
+   },
+   {
+    "quote": "DataPrime ↑ Tier 2 → Tier 1",
+    "url": "https://www.landbase.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Avoid data decay by continuously monitoring for new accounts, new signals, and data changes so your audience keeps improving without manual rebuilding.",
+    "url": "https://www.landbase.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Join thousands of revenue teams using Landbase to build predictable, scalable pipeline. Book a demo to see it in action.",
+    "url": "https://www.landbase.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sales and marketing agencies can....",
+    "url": "https://www.landbase.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Improve Team Efficiency",
+    "url": "https://www.landbase.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Be at the forefront of Go-to-Market innovation with Landbase proprietary solutions",
+    "url": "https://www.landbase.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Identify and nurture prospects along their journey",
+    "url": "https://www.landbase.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Automate customer support and close leads faster",
+    "url": "https://www.landbase.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Provides in-market signals and insights for you and your clients across key areas.",
+    "url": "https://www.landbase.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Get discounted pricing for clients on the Landbase platform—a multiplier for leads.",
+    "url": "https://www.landbase.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Explore the frequently asked questions about our Agency Program, covering topics such as eligibility criteria, application process, and the benefits of joining.",
+    "url": "https://www.landbase.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Support and Training to empower your clients and ensure your ongoing success.",
+    "url": "https://www.landbase.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing Tools to enhance your campaigns and improve client outcomes.",
+    "url": "https://www.landbase.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Partners are featured in our exclusive directory and across our marketing channels, boosting your visibility, credibility, and ability to attract new clients. You'll also be positioned as a leader in sales and marketing innovation.",
+    "url": "https://www.landbase.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "How does Landbase platform improve agency efficiencies?",
+    "url": "https://www.landbase.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Does Landbase provide ongoing support to its partners?",
+    "url": "https://www.landbase.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Absolutely! Our dedicated support team ensures you have everything you need for success. From onboarding and training to technical support and strategic guidance, we're here to help you and your clients thrive.",
+    "url": "https://www.landbase.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We route through 20+ providers automatically.",
+    "url": "https://www.landbase.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise pricing, custom rate cards, and volume discounts.",
+    "url": "https://www.landbase.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise pricing, custom rate cards, or volume discounts",
+    "url": "https://www.landbase.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "US-based, actively hiring AEs",
+    "url": "https://www.landbase.com/solutions/revops",
+    "pass": 1
+   },
+   {
+    "quote": "Sales | Prioritizing Active Deals",
+    "url": "https://www.landbase.com/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Identify accounts that fit your ideal customer profile",
+    "url": "https://www.landbase.com/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Prioritize accounts based on fit",
+    "url": "https://www.landbase.com/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce time spent on low value prospects",
+    "url": "https://www.landbase.com/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "US-based, SaaS product",
+    "url": "https://www.landbase.com/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "See hiring, funding, and company activity",
+    "url": "https://www.landbase.com/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Hiring 4 AEs and 2 SDRs",
+    "url": "https://www.landbase.com/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing | TAM, ICP & Market Targeting",
+    "url": "https://www.landbase.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing teams are measured on pipeline but often operate without a clear view of which accounts matter. Landbase connects audience creation, evaluation, and activation into a single system.",
+    "url": "https://www.landbase.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-evaluate accounts",
+    "url": "https://www.landbase.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "accounts primed to convert",
+    "url": "https://www.landbase.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Improve conversion across the funnel",
+    "url": "https://www.landbase.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing and sales aligned",
+    "url": "https://www.landbase.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Every account pre-qualified",
+    "url": "https://www.landbase.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Maya K. · Head of Marketing",
+    "url": "https://www.landbase.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Identify hiring, funding, and intent signals",
+    "url": "https://www.landbase.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Stackline hiring AEs and SDRs",
+    "url": "https://www.landbase.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Landbase helps marketing teams turn campaigns into measurable pipeline.",
+    "url": "https://www.landbase.com/solutions/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Growth teams succeed by testing quickly and scaling what works. Landbase provides a system to generate, evaluate, and activate new opportunities without delays.",
+    "url": "https://www.landbase.com/solutions/growth",
+    "pass": 1
+   },
+   {
+    "quote": "Series B SaaS companies in the US, 50–500 employees, actively hiring in sales or growth roles",
+    "url": "https://www.landbase.com/solutions/growth",
+    "pass": 1
+   },
+   {
+    "quote": "Prioritize accounts showing activity",
+    "url": "https://www.landbase.com/solutions/growth",
+    "pass": 1
+   },
+   {
+    "quote": "Surface accounts approaching compliance deadlines, showing breach signals, and hiring for security roles right now.",
+    "url": "https://www.landbase.com/industries-cybersecurity",
+    "pass": 1
+   },
+   {
+    "quote": "Compliance Deadline Approaching",
+    "url": "https://www.landbase.com/industries-cybersecurity",
+    "pass": 1
+   },
+   {
+    "quote": "SOC 2 Certification Hire",
+    "url": "https://www.landbase.com/industries-cybersecurity",
+    "pass": 1
+   },
+   {
+    "quote": "Cybersecurity vendors run SDR-intensive outbound motions but still build prospect lists manually. Landbase ingests your ICP criteria and qualifies every account in your TAM, surfacing CISO-adjacent buyers with active buying signals the same day.",
+    "url": "https://www.landbase.com/industries-cybersecurity",
+    "pass": 1
+   },
+   {
+    "quote": "Landbase identifies accounts approaching compliance deadlines, showing security breach signals, and hiring for SOC 2 certification roles. Your team reaches buyers when security budget is active, not six months too early.",
+    "url": "https://www.landbase.com/industries-cybersecurity",
+    "pass": 1
+   },
+   {
+    "quote": "Know the CISO, VP of Security, and Procurement Lead Before You Call",
+    "url": "https://www.landbase.com/industries-cybersecurity",
+    "pass": 1
+   },
+   {
+    "quote": "Landbase appends verified CISOs, VPs of Security, and Procurement leads synced to Salesforce or HubSpot. Security vendors arrive at every conversation knowing the right buyer and their current compliance posture.",
+    "url": "https://www.landbase.com/industries-cybersecurity",
+    "pass": 1
+   },
+   {
+    "quote": "Security budgets shift fast after breaches, audits, and regulatory changes. Landbase monitors your TAM for compliance deadlines, certification hiring, and leadership changes so your team reaches buyers when spend is highest.",
+    "url": "https://www.landbase.com/industries-cybersecurity",
+    "pass": 1
+   },
+   {
+    "quote": "Rebuild Your Security Prospect List Same-Day When ICP Criteria Change",
+    "url": "https://www.landbase.com/industries-cybersecurity",
+    "pass": 1
+   },
+   {
+    "quote": "How do cybersecurity companies find and qualify enterprise accounts at scale?",
+    "url": "https://www.landbase.com/industries-cybersecurity",
+    "pass": 1
+   },
+   {
+    "quote": "The best tool identifies active compliance buying signals like approaching deadlines, breach incidents, and certification hiring. Landbase does this automatically, delivering a scored, CRM-ready security buyer list in hours.",
+    "url": "https://www.landbase.com/industries-cybersecurity",
+    "pass": 1
+   },
+   {
+    "quote": "Look for compliance deadlines approaching, CISO leadership changes, security breach incidents, SOC 2 certification hiring, and cloud migration activity. Landbase tracks all of these and surfaces the highest-priority accounts first.",
+    "url": "https://www.landbase.com/industries-cybersecurity",
+    "pass": 1
+   },
+   {
+    "quote": "How long does it take to build a qualified cybersecurity prospect list?",
+    "url": "https://www.landbase.com/industries-cybersecurity",
+    "pass": 1
+   },
+   {
+    "quote": "Landbase automates the TAM qualification process entirely. A scored, enriched security buyer list lands in Salesforce or HubSpot in hours so your team runs sequences the same day without manual compliance research.",
+    "url": "https://www.landbase.com/industries-cybersecurity",
+    "pass": 1
+   },
+   {
+    "quote": "B2B SaaS & Enterprise Software",
+    "url": "https://www.landbase.com/industries",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by modern GTM teams",
+    "url": "https://www.landbase.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Equipment & Machinery",
+    "url": "https://www.landbase.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Qualify buyers by capex schedules and procurement signal across long-cycle industrial sales.",
+    "url": "https://www.landbase.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "The General Partnership is a VC firm built by and for builders. In addition to capital, we embed senior operators—engineers, recruiters, designers, and marketers—into early-stage and breakout-stage companies, giving founders hands-on help from day one.",
+    "url": "https://www.landbase.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing / Electrical & Safety",
+    "url": "https://www.landbase.com/martal-case-study",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "$10M-50M ARR",
+    "url": "https://www.landbase.com/",
+    "pass": 1
+   },
+   {
+    "quote": "50+ employees",
+    "url": "https://www.landbase.com/",
+    "pass": 1
+   },
+   {
+    "quote": "50-500 Employees",
+    "url": "https://www.landbase.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue > $10M",
+    "url": "https://www.landbase.com/",
+    "pass": 1
+   },
+   {
+    "quote": "250-500 employees",
+    "url": "https://www.landbase.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Join thousands of revenue teams using Landbase to build predictable, scalable pipeline. Book a demo to see it in action.",
+    "url": "https://www.landbase.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Conslidate expensive tech stacks and make agency employees more effective!",
+    "url": "https://www.landbase.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Increase Your Revenue",
+    "url": "https://www.landbase.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Agency partners benefits and additional revenue streams",
+    "url": "https://www.landbase.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "100–2,000 employees",
+    "url": "https://www.landbase.com/solutions/revops",
+    "pass": 1
+   },
+   {
+    "quote": "Landbase helps RevOps teams spend less time fixing data and more time scaling revenue.",
+    "url": "https://www.landbase.com/solutions/revops",
+    "pass": 1
+   },
+   {
+    "quote": "Series C · 210 employees",
+    "url": "https://www.landbase.com/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Growth | Intent-Based Acquisition & ABM Focus",
+    "url": "https://www.landbase.com/solutions/growth",
+    "pass": 1
+   },
+   {
+    "quote": "Series B SaaS companies in the US, 50–500 employees, actively hiring in sales or growth roles",
+    "url": "https://www.landbase.com/solutions/growth",
+    "pass": 1
+   },
+   {
+    "quote": "Landbase appends verified CISOs, VPs of Security, and Procurement leads synced to Salesforce or HubSpot. Security vendors arrive at every conversation knowing the right buyer and their current compliance posture.",
+    "url": "https://www.landbase.com/industries-cybersecurity",
+    "pass": 1
+   },
+   {
+    "quote": "Qualify every shipper in your territory by volume signal and carrier status for faster sales cycles.",
+    "url": "https://www.landbase.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Alexander leads Sales and Partnerships at Landbase. Previously, he co-founded Delegate, focusing on SaaS revenue optimization, and served as SVP of Global Sales at Oyster, scaling from Seed to Series C. At Nexmo (now Vonage), he built the EMEA Sales Team to $50M ARR. Alexander holds degrees from IMD Business School and the University of Edinburgh.",
+    "url": "https://www.landbase.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "“At the Landbase Applied AI Lab, we don't just build AI—we engineer autonomous GTM systems that drive real revenue impact.”",
+    "url": "https://www.landbase.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Stanford Ph.D. and co-founder of EverString, a Sequoia and Lightspeed-backed company acquired by ZoomInfo",
+    "url": "https://www.landbase.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "A* is an early stage venture capital firm that is leading the shift from transactional capital to meaningful partnerships, guiding outlier founders from idea to IPO. A* has founded, operated, and invested in some of the most iconic tech companies of our time.",
+    "url": "https://www.landbase.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "“At the Landbase Applied AI Lab, we don't just build AI—we engineer autonomous GTM systems that drive real revenue impact.”",
+    "url": "https://www.landbase.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Stanford Ph.D. and co-founder of EverString, a Sequoia and Lightspeed-backed company acquired by ZoomInfo",
+    "url": "https://www.landbase.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Beyond accuracy, the process was slow. Because there's no centralized public list for fulfillment-focused 3PLs, the contractor needed a full month to research and deliver a list of 1,000 contacts. Campaigns stalled while the SDR waited, and the lists that eventually arrived still needed re-checking before outreach could begin.",
+    "url": "https://www.landbase.com/octup-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Landbase Revenue 2025: $10.7M Est.",
+    "url": "https://getlatka.com/companies/landbase.com",
+    "pass": 3
+   },
+   {
+    "quote": "Landbase has not published its revenue. Growjo puts it at about $10.7M a year (September 2025).",
+    "url": "https://getlatka.com/companies/landbase.com",
+    "pass": 3
+   },
+   {
+    "quote": "Landbase CEO & employees",
+    "url": "https://getlatka.com/companies/landbase.com",
+    "pass": 3
+   },
+   {
+    "quote": "Stephen Balaban is CEO of Landbase. Landbase has 79 employees (September 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/landbase.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Landbase's revenue?",
+    "url": "https://getlatka.com/companies/landbase.com",
+    "pass": 3
+   },
+   {
+    "quote": "Growjo estimates Landbase's revenue at about",
+    "url": "https://getlatka.com/companies/landbase.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Landbase have?",
+    "url": "https://getlatka.com/companies/landbase.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of September 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/landbase.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/landbase.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/landbase.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/landbase.com",
+    "pass": 3
+   },
+   {
+    "quote": "Its agentic AI solutions are aimed at streamlining and enhancing the efficiency of sales and marketing campaigns for B2B businesses. Since its launch, Landbase has experienced substantial growth, with an 825 percent increase in revenue so far for 2025 and a customer base that has expanded to 150 paid users.",
+    "url": "https://www.builtinsf.com/articles/landbase-raises-30m-series-a-round-20250616",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Sales and marketing agencies can....",
+    "url": "https://www.landbase.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Strategic Agency Partners",
+    "url": "https://www.landbase.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Become an Agency Partner",
+    "url": "https://www.landbase.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Agency partners benefits and additional revenue streams",
+    "url": "https://www.landbase.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Landbase partners gain access to exclusive events, webinars, and collaboration opportunities with other top-performing agencies and sales innovators. This network allow you to exchange insights and grow alongside industry leaders.",
+    "url": "https://www.landbase.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing & Advertising Agencies",
+    "url": "https://www.landbase.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "MSPs, VARs & IT Resellers",
+    "url": "https://www.landbase.com/industries",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "$0.033 / Email",
+    "url": "https://www.landbase.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "~15,000 Emails",
+    "url": "https://www.landbase.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "$0.0267 / Email",
+    "url": "https://www.landbase.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "~75,000 Emails",
+    "url": "https://www.landbase.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "$0.0250 / Email",
+    "url": "https://www.landbase.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "~200,000 Emails",
+    "url": "https://www.landbase.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "$0.033 / verified email",
+    "url": "https://www.landbase.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Emails and phone numbers verified",
+    "url": "https://www.landbase.com/solutions/revops",
+    "pass": 1
+   },
+   {
+    "quote": "Get verified emails and phone numbers",
+    "url": "https://www.landbase.com/solutions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "As Martal Group grew from a consulting firm to a full-service lead generation provider, it embraced automation at every step. First email sending, then SMTP deliverability, then list validation, email warmup, and auto-dialing. Each tool solved a real problem in isolation.",
+    "url": "https://www.landbase.com/martal-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Email setup, warmup, and deliverability on autopilot",
+    "url": "https://www.landbase.com/martal-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Landbase handles domain buying, email authentication, DMARC setup, and warmup automatically. SDRs no longer configure SMTP settings or manage deliverability tools manually.",
+    "url": "https://www.landbase.com/martal-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "\"Landbase takes care of everything from email warmup to email setup. It even handles domain buying, email authentication, and DMARC setup.\"",
+    "url": "https://www.landbase.com/martal-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Account details y® SMTP Connection <の Email Health",
+    "url": "https://cdn.prod.website-files.com/663db35157fcd223250841ff/67e2be90ca4917274f174bf3_agency-partners-benefits-and-additional-revenue-streams.webp",
+    "pass": 2
+   },
+   {
+    "quote": "We will add a plain text opt-out message to the end of your emails. Each message will differ",
+    "url": "https://cdn.prod.website-files.com/663db35157fcd223250841ff/67e2be90ca4917274f174bf3_agency-partners-benefits-and-additional-revenue-streams.webp",
+    "pass": 2
+   },
+   {
+    "quote": "Maximum number of emails sent per day for this inbox. Actual sent volume per day",
+    "url": "https://cdn.prod.website-files.com/663db35157fcd223250841ff/67e2be90ca4917274f174bf3_agency-partners-benefits-and-additional-revenue-streams.webp",
+    "pass": 2
+   },
+   {
+    "quote": "Daily limit (Restricted Email - This email will",
+    "url": "https://cdn.prod.website-files.com/663db35157fcd223250841ff/67e2be90ca4917274f174bf3_agency-partners-benefits-and-additional-revenue-streams.webp",
+    "pass": 2
+   },
+   {
+    "quote": "Max. 20 email/day",
+    "url": "https://cdn.prod.website-files.com/663db35157fcd223250841ff/67e2be90ca4917274f174bf3_agency-partners-benefits-and-additional-revenue-streams.webp",
+    "pass": 2
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "〒103-0027 東京都中央区日本橋2丁目2番21号",
+    "url": "https://ld-base.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/",
+    "pass": 3
+   },
+   {
+    "quote": "宅地建物取引業 東京都知事（9）第58101号",
+    "url": "https://ld-base.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都中央区日本橋2丁目2番21号",
+    "url": "https://ld-base.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 - LANDBASE — 会社概要 - LANDBASE ld-base.co.jp https://ld-base.co.jp > 会社概要",
+    "url": "https://ld-base.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/",
+    "pass": 3
+   },
+   {
+    "quote": "岡崎市 不動産｜株式会社ランドベース — 岡崎市 不動産｜株式会社ランドベース landbase.co.jp https://www.landbase.co.jp",
+    "url": "https://www.landbase.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "About Landbase : Pioneering Agentic AI for GTM Teams — About Landbase : Pioneering Agentic AI for GTM Teams Landbase https://www.landbase.com > about",
+    "url": "https://www.landbase.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Landbase - LinkedIn — Landbase - LinkedIn LinkedIn https://www.linkedin.com > landbase",
+    "url": "https://www.linkedin.com/company/landbase",
+    "pass": 3
+   },
+   {
+    "quote": "Landbase Human Resources Co. - Japan branch - Facebook — Landbase Human Resources Co. - Japan branch - Facebook Facebook https://www.facebook.com > ... > Employment Agency",
+    "url": "https://www.facebook.com/1130.glenda/",
+    "pass": 3
+   },
+   {
+    "quote": "Landbase Reviews 2026: Details, Pricing, & Features - G2 — Landbase Reviews 2026: Details, Pricing, & Features - G2 G2 https://www.g2.com > reviews",
+    "url": "https://www.g2.com/products/landbase-gtm/reviews",
+    "pass": 3
+   },
+   {
+    "quote": "How Landbase helps you to find your next customer - YouTube — How Landbase helps you to find your next customer - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=GaJBlEJrzeM",
+    "pass": 3
+   },
+   {
+    "quote": "Landbase Revenue 2025: $10.7M Est. - GetLatka — Landbase Revenue 2025: $10.7M Est. - GetLatka GetLatka https://getlatka.com > landbase",
+    "url": "https://getlatka.com/companies/landbase.com",
+    "pass": 3
+   },
+   {
+    "quote": "Landbase Raises $30 Million Series A to Help Businesses ... — Landbase Raises $30 Million Series A to Help Businesses ... Landbase https://www.landbase.com > blog > la...",
+    "url": "https://www.landbase.com/blog/landbase-raises-30-million-series-a-to-help-businesses-find-their-next-customer",
+    "pass": 3
+   },
+   {
+    "quote": "Landbase raises $42.5M to enhance sales with AI - LinkedIn — Landbase raises $42.5M to enhance sales with AI - LinkedIn LinkedIn https://www.linkedin.com > posts",
+    "url": "https://www.linkedin.com/posts/danielsaks_weve-raised-425m-to-solve-what-generic-activity-7371626160599986176-LQlQ",
+    "pass": 3
+   },
+   {
+    "quote": "Agentic AI Company Landbase Raises $30M Series A Round — Agentic AI Company Landbase Raises $30M Series A Round Built In San Francisco https://www.builtinsf.com > articles",
+    "url": "https://www.builtinsf.com/articles/landbase-raises-30m-series-a-round-20250616",
+    "pass": 3
+   },
+   {
+    "quote": "Landbase - Valuation, Funding & Investors - PitchBook — Landbase - Valuation, Funding & Investors - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/615892-78",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Landbase - LinkedIn Landbase - LinkedIn LinkedIn https://www.linkedin.com > landbase",
+    "url": "https://www.linkedin.com/company/landbase",
+    "pass": 3
+   },
+   {
+    "quote": "Daniel Saks - CEO @ Landbase , Find Your Next ... - LinkedIn Daniel Saks - CEO @ Landbase , Find Your Next ... - LinkedIn LinkedIn https://www.linkedin.com > danielsaks",
+    "url": "https://www.linkedin.com/in/danielsaks",
+    "pass": 3
+   },
+   {
+    "quote": "Landbase raises $42.5M to enhance sales with AI - LinkedIn Landbase raises $42.5M to enhance sales with AI - LinkedIn LinkedIn https://www.linkedin.com > posts",
+    "url": "https://www.linkedin.com/posts/danielsaks_weve-raised-425m-to-solve-what-generic-activity-7371626160599986176-LQlQ",
+    "pass": 3
+   },
+   {
+    "quote": "Will Church - Growth Marketer at Landbase - LinkedIn Will Church - Growth Marketer at Landbase - LinkedIn LinkedIn https://www.linkedin.com > willchurc...",
+    "url": "https://www.linkedin.com/in/willchurchlfc",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Landbase Human Resources Company - Germany | Pasay City Landbase Human Resources Company - Germany | Pasay City Facebook https://www.facebook.com > ... > Employment Agency",
+    "url": "https://www.facebook.com/Landbase.Human.Resources.Germany/",
+    "pass": 3
+   },
+   {
+    "quote": "Landbase Human Resources Co. CEBU Branch | Cebu City Landbase Human Resources Co. CEBU Branch | Cebu City Facebook https://www.facebook.com > ... > Recruiter",
+    "url": "https://www.facebook.com/Landbase.Human.Resources.CebuBranch/",
+    "pass": 3
+   },
+   {
+    "quote": "Landbase HR M (@landbasem) - Facebook Landbase HR M (@landbasem) - Facebook Facebook https://www.facebook.com > ... > Digital creator",
+    "url": "https://www.facebook.com/landbasem/",
+    "pass": 3
+   },
+   {
+    "quote": "Landbase Human Resources Co. - CDO Branch - Facebook Landbase Human Resources Co. - CDO Branch - Facebook Facebook https://www.facebook.com > ... > Recruiter",
+    "url": "https://www.facebook.com/Landbase.Human.Resources.CDOBranch/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.landbase.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.landbase.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.landbase.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.landbase.com/solutions/revops",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.landbase.com/solutions/sales",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.landbase.com/solutions/marketing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.landbase.com/solutions/growth",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.landbase.com/industries-cybersecurity",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.landbase.com/industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.landbase.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.landbase.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.landbase.com/octup-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.landbase.com/martal-case-study",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/663db35157fcd223250841ff/67e2be90ca4917274f174bf3_agency-partners-benefits-and-additional-revenue-streams.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amesha-world.com/info/detail.php?id=4277",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://global.toyota/jp/newsroom/toyota/44149865.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ld-base.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.landbase.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://land-base.biz/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/landbase",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/1130.glenda/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.g2.com/products/landbase-gtm/reviews",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://c3.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manufacturingleadershipcouncil.com/case-study-transforming-through-manufacturing-4-0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lenovo.com/us/en/case-studies-customer-success-stories/?srsltid=AYCX9vKpg3kcTrTJSAhcNrpvxxPAAxQ8EAS00XJu0Dd-GtPtzFAQxxDT",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://conexusindiana.com/case-studies/?technology=artificial-intelligence-ai-machine-learning-ml",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.totalum.app/blog/white-label-ai-app-builder-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cloudoffix.com/white-label-partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/landbase.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/danielsaks_weve-raised-425m-to-solve-what-generic-activity-7371626160599986176-LQlQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.builtinsf.com/articles/landbase-raises-30m-series-a-round-20250616",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/landbase",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/danielsaks",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/danielsaks_weve-raised-425m-to-solve-what-generic-activity-7371626160599986176-LQlQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/willchurchlfc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Landbase.Human.Resources.Germany/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Landbase.Human.Resources.CebuBranch/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/landbasem/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Landbase.Human.Resources.CDOBranch/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Landbase 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.stellantis.jp/",
+    "https://amesha-world.com/info/detail.php?id=4277",
+    "https://global.toyota/jp/newsroom/toyota/44149865.html",
+    "https://trafficnews.jp/post/725198",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://www.webcg.net/articles/-/54501",
+    "https://response.jp/article/2026/11/07/418712.html",
+    "https://landbase.jp/",
+    "https://www.landbase.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Landbase 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ld-base.co.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/",
+    "https://www.landbase.co.jp/",
+    "https://land-base.biz/",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.robertleelawoffices.com/ja/services/corporate-commercial/distribution-agency-agreements",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://ld-base.co.jp/",
+    "https://fc-kamei.net/CT1/KW11",
+    "https://chigai2.fromation.co.jp/archives/30533"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Landbase Japan",
+   "results": [
+    "https://www.landbase.com/about",
+    "https://www.linkedin.com/company/landbase",
+    "https://www.facebook.com/1130.glenda/",
+    "https://www.g2.com/products/landbase-gtm/reviews",
+    "https://www.youtube.com/watch?v=GaJBlEJrzeM",
+    "https://www.crunchbase.com/organization/landbase-2194",
+    "https://www.businesswire.com/news/home/20250206832890/en/Landbase-Announces-Acquisition-of-LavaReach-Strengthening-Leadership-in-Go-To-Market-Automation-with-Agentic-AI",
+    "https://www.salesforge.ai/directory/sales-tools/landbase",
+    "https://landbase.jp/",
+    "https://www.landbase.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Landbase manufacturing customer case study",
+   "results": [
+    "https://c3.ai/customers",
+    "https://manufacturingleadershipcouncil.com/case-study-transforming-through-manufacturing-4-0/",
+    "https://www.lenovo.com/us/en/case-studies-customer-success-stories/?srsltid=AYCX9vKpg3kcTrTJSAhcNrpvxxPAAxQ8EAS00XJu0Dd-GtPtzFAQxxDT",
+    "https://conexusindiana.com/case-studies/?technology=artificial-intelligence-ai-machine-learning-ml",
+    "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "https://genedge.org/small-manufacturers-case-studies/",
+    "https://aws.amazon.com/manufacturing/case-studies/",
+    "https://www.dbswebsite.com/blog/manufacturing-website-marketing-case-studies/",
+    "https://tryleverage.ai/case-study-manufacturing",
+    "https://www.landbase.com/videos"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Landbase white label OR reseller OR partner program",
+   "results": [
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.totalum.app/blog/white-label-ai-app-builder-2026",
+    "https://www.cloudoffix.com/white-label-partner",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://sales-label.com/blog/white-label-saas-reseller",
+    "https://elfsight.com/affiliate-program/articles-saas-white-label/",
+    "https://www.vendasta.com/blog/white-label-marketing-tools/",
+    "https://www.resellerclub.com/domain-reseller"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Landbase founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/landbase.com",
+    "https://www.landbase.com/blog/landbase-raises-30-million-series-a-to-help-businesses-find-their-next-customer",
+    "https://www.linkedin.com/posts/danielsaks_weve-raised-425m-to-solve-what-generic-activity-7371626160599986176-LQlQ",
+    "https://www.builtinsf.com/articles/landbase-raises-30m-series-a-round-20250616",
+    "https://pitchbook.com/profiles/company/615892-78",
+    "https://www.businesswire.com/news/home/20240911686811/en/Landbase-Raises-%2412.5M-to-Automate-Go-To-Market",
+    "https://www.crunchbase.com/organization/landbase-2194",
+    "https://pulse2.com/landbase-30-million-secured-for-helping-businesses-find-customers/",
+    "https://venturebeat.com/ai/landbase-unveils-ai-platform-to-transform-go-to-market-strategies-secures-12-5m-in-funding",
+    "https://tracxn.com/d/companies/landbase/__pun8lh-3RV8fjT6FtHwU3tk8PLpmZUAUcMgIzHR5rRU"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Landbase",
+   "results": [
+    "https://note.com/mai_game1/n/nb7d8f0bfedeb?hl=en",
+    "https://note.com/nikoraehu/n/n4bcf6b8c5431?hl=en",
+    "https://note.com/nanchoko/n/n7654bef4aa35?hl=en",
+    "https://note.com/stairlimit/n/n9a8fd7134760?hl=en",
+    "https://note.com/kamiyasu_note/n/nd842b5ec2bc5?hl=en",
+    "https://note.com/youmoulove/n/nab3ec102baea?hl=en",
+    "https://note.com/startup_now0708/n/ne459e3221446",
+    "https://note.com/mtg_sakanakun/n/na5a48d10b1e6?hl=en",
+    "https://note.com/massan_gabagaba/n/n76c9f6644019?hl=en",
+    "https://note.com/job_fighter/n/n2d7ceb2dfeb3?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Landbase",
+   "results": [
+    "https://x.com/danielsaks",
+    "https://x.com/M3MIndiaPvtLtd/status/2117266731240726632",
+    "https://x.com/dan__rosenthal/status/2116243840411550204",
+    "https://x.com/SiegelScribe/status/2117751292042871275",
+    "https://x.com/GroundedTheGame/status/2092284058998895004",
+    "https://x.com/AiLandbase",
+    "https://x.com/ZavierOng4/status/1964735841965875566",
+    "https://x.com/HornetsTape",
+    "https://x.com/M3MIndiaPvtLtd/status/2117266731718894012",
+    "https://x.com/Estatexlandbase"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Landbase",
+   "results": [
+    "https://www.linkedin.com/company/landbase",
+    "https://www.linkedin.com/in/danielsaks",
+    "https://www.linkedin.com/posts/danielsaks_weve-raised-425m-to-solve-what-generic-activity-7371626160599986176-LQlQ",
+    "https://www.linkedin.com/in/willchurchlfc",
+    "https://ca.linkedin.com/in/daniel-zhao",
+    "https://www.linkedin.com/in/tina-haertel",
+    "https://www.linkedin.com/posts/danielsaks_excited-to-welcome-max-woo-to-the-landbase-activity-7303573271847780353-CnbS",
+    "https://www.linkedin.com/in/zhuo-peng-1b20691b",
+    "https://www.linkedin.com/in/logan-underwood",
+    "https://ph.linkedin.com/company/landbase-human-resources-co-"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:facebook.com Landbase",
+   "results": [
+    "https://www.facebook.com/Landbase.Human.Resources.Germany/",
+    "https://www.facebook.com/Landbase.Human.Resources.CebuBranch/",
+    "https://www.facebook.com/landbasem/",
+    "https://www.facebook.com/Landbase.Human.Resources.CDOBranch/",
+    "https://www.facebook.com/landbasehumanresourcescompany/",
+    "https://www.facebook.com/groups/magicthegatheringcommander/posts/3048848695289234/",
+    "https://www.facebook.com/landbase.hr.adriane/",
+    "https://www.facebook.com/Landbase.Human.Resources.Germany/photos/1534950715312029/",
+    "https://www.facebook.com/groups/1891225374484330/posts/3592240314382819/",
+    "https://www.facebook.com/groups/846684115770109/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "Landbase note 社長",
+   "results": [
+    "https://note.com/sadaaki",
+    "https://ja.wikipedia.org/wiki/%E5%8A%A0%E8%97%A4%E8%B2%9E%E9%A1%95",
+    "https://x.com/sadaaki",
+    "https://note.com/land_holdings/all",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://landnet.co.jp/18878/",
+    "https://note.com/landcommune/all",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://jp.linkedin.com/in/kazunari-nakamura-8004b845",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Landbase X 投稿",
+   "results": [
+    "https://app.landbase.com/",
+    "https://eow.alc.co.jp/search?q=landbase",
+    "https://play.google.com/store/apps/details?id=vn.laand",
+    "https://www.landbase.com/docs",
+    "https://en.wiktionary.org/wiki/landbase",
+    "https://x.com/land",
+    "https://www.nikkei.com/article/DGXZQOGN243GO0U5A121C2000000/",
+    "https://www.landxinc.com/",
+    "https://www.oed.com/dictionary/land-base_adj",
+    "https://www.reddit.com/r/SaaS/comments/1j59fyi/peoples_experiences_with_landbasecom_for_ai_gtm/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部30頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部30頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部30頁・検索12回）"
+ }
+}

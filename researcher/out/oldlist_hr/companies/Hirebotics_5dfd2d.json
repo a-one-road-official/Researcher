@@ -1,0 +1,1566 @@
+{
+ "name": "Hirebotics",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜商談化",
+ "researched_at": "2026-11-10T14:58:55.058219+00:00",
+ "official_url": "https://hirebotics.com/",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "Pricing",
+    "value": "published prices for every cobot system | Hirebotics",
+    "url": "https://www.hirebotics.com/how-it-works/pricing/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$189,000",
+    "url": "https://prospeo.io/c/hirebotics-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "No funding",
+    "url": "https://prospeo.io/c/hirebotics-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "624 Grassmere Park, Nashville, Tennessee 37211, US",
+    "url": "https://prospeo.io/c/hirebotics-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2015",
+    "url": "https://prospeo.io/c/hirebotics-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Hirebotics — The complete cobot system anyone can program",
+    "url": "https://www.hirebotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Beacon is the software behind app-controlled welding, cutting, and painting cobots, programmed by your team with no code or teach pendant. Start with one, scale to your whole operation.",
+    "url": "https://www.hirebotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "HIREBOTICS — NASHVILLE, TN",
+    "url": "https://www.hirebotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every system ships complete (robot, process hardware, and Beacon) and is ready to run the day it arrives.",
+    "url": "https://www.hirebotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Programs from a phone. No teach pendant, no code. First weld in under 15 minutes.",
+    "url": "https://www.hirebotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The world's only explosion-proof collaborative painting cobot. No booth specialist.",
+    "url": "https://www.hirebotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A complete collaborative welding system your team programs from a phone or tablet. No teach pendant, no code. Set your first weld in under 15 minutes.",
+    "url": "https://www.hirebotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Smart Puck for tap-to-teach programming",
+    "url": "https://www.hirebotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Headstock + Tailstock",
+    "url": "https://www.hirebotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The industry's first no-code, explosion-proof cobot painting solution: consistent coverage without a programmer or a paint booth specialist.",
+    "url": "https://www.hirebotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Made on a Hirebotics cobot",
+    "url": "https://www.hirebotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tap-to-teach programming",
+    "url": "https://www.hirebotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Live production across every robot and every site, with the history to tell you whether a change actually worked.",
+    "url": "https://www.hirebotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The person who knows the part is the one who teaches it. Grab the tool on the wrist of the arm — the Smart Puck for welding and cutting, a spray-gun handle for painting — guide it through the part, capturing the path as you go. The cobot then repeats it, and your team's knowledge becomes something the whole operation can use.",
+    "url": "https://www.hirebotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Same teaching workflow across every process",
+    "url": "https://www.hirebotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your team works in the terms they already know — travel speed, wire feed, amperage — and Beacon handles the robot motion. A new operator picks a part and presses play; an experienced hand teaches the next one. Each person gets the access their role needs.",
+    "url": "https://www.hirebotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Settings in the terms your process already uses",
+    "url": "https://www.hirebotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Suggestions: good, better, best (Beacon Pro)",
+    "url": "https://www.hirebotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Watch live production across every robot and every site: parts completed, arc-on and cut time, cycle times, gas and consumable use. The history tells you whether a change actually worked. Export it when your team wants to dig deeper.",
+    "url": "https://www.hirebotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Export production history to CSV",
+    "url": "https://www.hirebotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Beacon — live production",
+    "url": "https://www.hirebotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Beacon Care adds priority service, loaners & discounted parts",
+    "url": "https://www.hirebotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate the process you can't staff. It arrives pre-mounted and pre-wired, and your own team teaches it the first part.",
+    "url": "https://www.hirebotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Delivery to production in hours",
+    "url": "https://www.hirebotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See pricing & packages",
+    "url": "https://www.hirebotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We build simple, powerful tools that help real shops do real work better. No programming, no downtime, no specialists. Our team is small, focused, and serious about building technology that respects the people who use it.",
+    "url": "https://www.hirebotics.com/about/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Real people, answering fast, solving the actual problem.",
+    "url": "https://www.hirebotics.com/about/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers first, problems before solutions",
+    "url": "https://www.hirebotics.com/about/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Our team spans engineering, customer success, operations, and product, solving real problems for real shops. Remote-first, with a hands-on hub in Nashville for collaboration, testing, and getting work done.",
+    "url": "https://www.hirebotics.com/about/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We always start with the problem statement — the challenges customers have told us. We get a lot of customer feedback on what the actual problem is before starting down the path of building a tool for it.\"",
+    "url": "https://www.hirebotics.com/about/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Company-provided coverage.",
+    "url": "https://www.hirebotics.com/about/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Cobot Welder — robotic MIG welding your team programs from a phone",
+    "url": "https://www.hirebotics.com/solutions/cobot-welder/",
+    "pass": 1
+   },
+   {
+    "quote": "A collaborative welding robot that works alongside your team. No safety caging, no programming expertise, no long integration timelines. Set up in hours, teach a weld path by hand-guiding the torch, and press start.",
+    "url": "https://www.hirebotics.com/solutions/cobot-welder/",
+    "pass": 1
+   },
+   {
+    "quote": "A rotary kit turns pipe and tube under the torch for continuous welds. A headstock and tailstock hold long round work between centers.",
+    "url": "https://www.hirebotics.com/solutions/cobot-welder/",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-mounted, pre-wired, ready to run",
+    "url": "https://www.hirebotics.com/solutions/cobot-welder/",
+    "pass": 1
+   },
+   {
+    "quote": "COBOT WELDER — IN PRODUCTION",
+    "url": "https://www.hirebotics.com/solutions/cobot-welder/",
+    "pass": 1
+   },
+   {
+    "quote": "Priority support with on-site service, loaner equipment, and discounted repairs",
+    "url": "https://www.hirebotics.com/solutions/cobot-welder/",
+    "pass": 1
+   },
+   {
+    "quote": "Headstock + Tailstock",
+    "url": "https://www.hirebotics.com/solutions/cobot-welder/",
+    "pass": 1
+   },
+   {
+    "quote": "From MIG welding to small-batch automation, you get the precision of a skilled welder with the simplicity of no-code controls.",
+    "url": "https://www.hirebotics.com/solutions/cobot-welder/",
+    "pass": 1
+   },
+   {
+    "quote": "TIG-like precision without the complexity. Smooth MIG welds that mimic hand-TIG quality.",
+    "url": "https://www.hirebotics.com/solutions/cobot-welder/",
+    "pass": 1
+   },
+   {
+    "quote": "Prototyping & Small-Batch",
+    "url": "https://www.hirebotics.com/solutions/cobot-welder/",
+    "pass": 1
+   },
+   {
+    "quote": "Weld small batches and one-offs without reprogramming or long setups.",
+    "url": "https://www.hirebotics.com/solutions/cobot-welder/",
+    "pass": 1
+   },
+   {
+    "quote": "See how the Cobot Welder fits your production, with hands-on insight from our team.",
+    "url": "https://www.hirebotics.com/solutions/cobot-welder/",
+    "pass": 1
+   },
+   {
+    "quote": "We help you select the right model, configure your tools, and prepare for deployment.",
+    "url": "https://www.hirebotics.com/solutions/cobot-welder/",
+    "pass": 1
+   },
+   {
+    "quote": "Start welding and tracking output right away, with cycle times, gas consumption, and parts produced.",
+    "url": "https://www.hirebotics.com/solutions/cobot-welder/",
+    "pass": 1
+   },
+   {
+    "quote": "Materials, geometry, volumes. A process expert answers with a straight read on fit, package, and payback. If a cobot is the wrong tool for your work, you'll hear that too.",
+    "url": "https://www.hirebotics.com/solutions/cobot-welder/",
+    "pass": 1
+   },
+   {
+    "quote": "Prefer to skip the form?",
+    "url": "https://www.hirebotics.com/solutions/cobot-welder/",
+    "pass": 1
+   },
+   {
+    "quote": "Fabrication shops, contract manufacturers, and OEMs that need reliable welding output without the cost and complexity of traditional robotic cells. If you're short on skilled welders, fighting inconsistent quality, or turning down work, cobot welding fills the gap. It's especially effective for shops mixing short-run and repeat jobs, since you reprogram in minutes, not days.",
+    "url": "https://www.hirebotics.com/solutions/cobot-welder/",
+    "pass": 1
+   },
+   {
+    "quote": "What kind of ROI can the Cobot Welder provide?",
+    "url": "https://www.hirebotics.com/solutions/cobot-welder/",
+    "pass": 1
+   },
+   {
+    "quote": "Depending on your production factors, cobots can 2–10× your fabrication productivity. Most shops see 2–4× the output, saving significant labor hours and freeing your team for the work that matters most.",
+    "url": "https://www.hirebotics.com/solutions/cobot-welder/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Just like MIG welding aluminum manually, a few settings and accessory adjustments let you produce high-quality aluminum welds with the Cobot Welder.",
+    "url": "https://www.hirebotics.com/solutions/cobot-welder/",
+    "pass": 1
+   },
+   {
+    "quote": "The cobot moves at up to 39 inches per second, and welds at up to 90 inches per minute. That's far faster than a human can weld, with extremely low heat input and maximum productivity.",
+    "url": "https://www.hirebotics.com/solutions/cobot-welder/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Customers have achieved TIG-quality welds using MIG processes. One shop went from 2–5 inches per minute hand-TIG to 20 inches per minute, clearing their backlog in a few weeks.",
+    "url": "https://www.hirebotics.com/solutions/cobot-welder/",
+    "pass": 1
+   },
+   {
+    "quote": "No. After a demonstration you can enter the rent-to-own program and fully commit once you're ready, validating the cobot's performance on your own floor first. Typical lead time is about two weeks from purchase order.",
+    "url": "https://www.hirebotics.com/solutions/cobot-welder/",
+    "pass": 1
+   },
+   {
+    "quote": "Cobot Cutter — robotic plasma cutting with no programming | Hirebotics",
+    "url": "https://www.hirebotics.com/solutions/cobot-cutter/",
+    "pass": 1
+   },
+   {
+    "quote": "Domes, heads and cones",
+    "url": "https://www.hirebotics.com/solutions/cobot-cutter/",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-mounted, pre-wired, ready to run",
+    "url": "https://www.hirebotics.com/solutions/cobot-cutter/",
+    "pass": 1
+   },
+   {
+    "quote": "Priority support with on-site service, loaner equipment, and discounted repairs",
+    "url": "https://www.hirebotics.com/solutions/cobot-cutter/",
+    "pass": 1
+   },
+   {
+    "quote": "Headstock + Tailstock",
+    "url": "https://www.hirebotics.com/solutions/cobot-cutter/",
+    "pass": 1
+   },
+   {
+    "quote": "Held cut height and cut speed on every pass. That's what makes the edge predictable.",
+    "url": "https://www.hirebotics.com/solutions/cobot-cutter/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Add a cobot, then a cell, then a plant — it's the same Beacon the whole way, so every step builds on the last instead of starting over.",
+    "url": "https://www.hirebotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for the shop floor and the whole operation",
+    "url": "https://www.hirebotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Add a cobot, then a cell, then a plant — same Beacon.",
+    "url": "https://www.hirebotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Standardize part programs across sites and see production from every cell in one place, in the same app your operators already know.",
+    "url": "https://www.hirebotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Welders, fabricators, and operators deserve software that actually helps them.",
+    "url": "https://www.hirebotics.com/about/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Every decision starts with the person on the shop floor.",
+    "url": "https://www.hirebotics.com/about/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "The Cobot Welder: robotic MIG welding for your shop floor",
+    "url": "https://www.hirebotics.com/solutions/cobot-welder/",
+    "pass": 1
+   },
+   {
+    "quote": "Your welders teach it. Your welders run it.",
+    "url": "https://www.hirebotics.com/solutions/cobot-welder/",
+    "pass": 1
+   },
+   {
+    "quote": "Mark Moye · Plant Manager — Advanta Southeast",
+    "url": "https://www.hirebotics.com/solutions/cobot-welder/",
+    "pass": 1
+   },
+   {
+    "quote": "Fabrication shops, contract manufacturers, and OEMs that need reliable welding output without the cost and complexity of traditional robotic cells. If you're short on skilled welders, fighting inconsistent quality, or turning down work, cobot welding fills the gap. It's especially effective for shops mixing short-run and repeat jobs, since you reprogram in minutes, not days.",
+    "url": "https://www.hirebotics.com/solutions/cobot-welder/",
+    "pass": 1
+   },
+   {
+    "quote": "Live data tracking with built-in safety features, and no hazardous environment for your operators.",
+    "url": "https://www.hirebotics.com/solutions/cobot-painter/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring coating in-house with consistent finishes, and no hazardous environment for your operators.",
+    "url": "https://www.hirebotics.com/solutions/cobot-painter/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. With a 55.8\" (1,418 mm) reach and a unique underflip motion, it accesses large workpieces and difficult spray angles that pose ergonomic challenges for human operators.",
+    "url": "https://www.hirebotics.com/solutions/cobot-painter/",
+    "pass": 1
+   },
+   {
+    "quote": "Beacon powers every Hirebotics cobot system, so adding a new process doesn't mean adding another way of working. Operators get a familiar experience, managers get visibility across equipment, and your team keeps building on what it already knows.",
+    "url": "https://www.hirebotics.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Reach the shop floor from anywhere in the world.",
+    "url": "https://www.hirebotics.com/solutions/beacon-platform/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace & defense welding automation | Hirebotics",
+    "url": "https://www.hirebotics.com/industries/aerospace-defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace & defense welding automation",
+    "url": "https://www.hirebotics.com/industries/aerospace-defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace and defense fabrication demands precision that can't slip: tight tolerances, full traceability, zero room for rework. The Cobot Welder delivers repeatable MIG and pulsed MIG on sheet metal, structural components, and defense assemblies, with a digital quality record for every weld.",
+    "url": "https://www.hirebotics.com/industries/aerospace-defense/",
+    "pass": 1
+   },
+   {
+    "quote": "AEROSPACE & DEFENSE — PRECISION FAB",
+    "url": "https://www.hirebotics.com/industries/aerospace-defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Certified welders are the hardest trade to staff",
+    "url": "https://www.hirebotics.com/industries/aerospace-defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Mark Moye · Plant Manager — Advanta Southeast",
+    "url": "https://www.hirebotics.com/industries/aerospace-defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to automate your aerospace & defense fabrication?",
+    "url": "https://www.hirebotics.com/industries/aerospace-defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase throughput on precision assemblies and contract work without betting on a shrinking pool of certified welders.",
+    "url": "https://www.hirebotics.com/industries/aerospace-defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Skilled welders are retiring faster than new ones enter the trade. Your backlog keeps growing while you wait to fill open positions.",
+    "url": "https://www.hirebotics.com/industries/custom-fabrication/",
+    "pass": 1
+   },
+   {
+    "quote": "Data center construction is booming, but finding welders to keep up with the backlog isn't. The Cobot Welder automates MIG and pulsed MIG on the racks, enclosures, structural frames, and modular assemblies your shop builds. Program from a smartphone, start welding the same day, and scale output without adding headcount.",
+    "url": "https://www.hirebotics.com/industries/data-center-fabrication/",
+    "pass": 1
+   },
+   {
+    "quote": "Cobots across three Tate plants",
+    "url": "https://www.hirebotics.com/industries/data-center-fabrication/",
+    "pass": 1
+   },
+   {
+    "quote": "How Tate standardized precision welding across three plants",
+    "url": "https://www.hirebotics.com/industries/data-center-fabrication/",
+    "pass": 1
+   },
+   {
+    "quote": "High-volume repetitive welding, rack after rack and frame after frame, is exactly what burns out skilled welders and drives turnover. Your best people should not be on their 500th identical bracket.",
+    "url": "https://www.hirebotics.com/industries/data-center-fabrication/",
+    "pass": 1
+   },
+   {
+    "quote": "Robotic consistency on every seam while your welders shift to fitting, fixturing, and quality checks. Beacon tracks every parameter: a digital quality record for each assembly.",
+    "url": "https://www.hirebotics.com/industries/data-center-fabrication/",
+    "pass": 1
+   },
+   {
+    "quote": "TATE — 58+ COBOTS, THREE PLANTS",
+    "url": "https://www.hirebotics.com/industries/data-center-fabrication/",
+    "pass": 1
+   },
+   {
+    "quote": "One standard across every plant",
+    "url": "https://www.hirebotics.com/industries/data-center-fabrication/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase throughput on racks, enclosures, and structural frames without hiring more welders in the tightest labor market in decades.",
+    "url": "https://www.hirebotics.com/industries/data-center-fabrication/",
+    "pass": 1
+   },
+   {
+    "quote": "Skilled marine welders are almost impossible to find",
+    "url": "https://www.hirebotics.com/industries/marine-shipbuilding/",
+    "pass": 1
+   },
+   {
+    "quote": "DeAngelo went from 2–5 inches per minute hand-TIG to 20 with the Cobot Welder, on Navy exhaust systems that demand flawless quality. Your welders shift to fit-up, inspection, and critical joints.",
+    "url": "https://www.hirebotics.com/industries/marine-shipbuilding/",
+    "pass": 1
+   },
+   {
+    "quote": "Structural work demands consistent, code-quality welds on heavy material: beams, columns, base plates, and connections. The Cobot Welder handles MIG on thick plate and structural sections, programs from a smartphone, and frees your certified welders for the complex joints that need their expertise.",
+    "url": "https://www.hirebotics.com/industries/structural-steel-heavy-fabrication/",
+    "pass": 1
+   },
+   {
+    "quote": "Certified structural welders are nearly impossible to find",
+    "url": "https://www.hirebotics.com/industries/structural-steel-heavy-fabrication/",
+    "pass": 1
+   },
+   {
+    "quote": "AWS D1.1 work requires certified welders, the most in-demand trade in fabrication. Every open position costs you capacity, and you're turning down steel contracts for lack of hands.",
+    "url": "https://www.hirebotics.com/industries/structural-steel-heavy-fabrication/",
+    "pass": 1
+   },
+   {
+    "quote": "The cobot runs repetitive fillets, stiffener plates, and gussets while your certified welders take the full-penetration grooves. Beacon tracks every parameter so quality is verified before the part leaves the station.",
+    "url": "https://www.hirebotics.com/industries/structural-steel-heavy-fabrication/",
+    "pass": 1
+   },
+   {
+    "quote": "Mark Moye · Plant Manager — Advanta Southeast",
+    "url": "https://www.hirebotics.com/industries/structural-steel-heavy-fabrication/",
+    "pass": 1
+   },
+   {
+    "quote": "800+ fabrication shops run Beacon across metal fab, construction, shipbuilding, aerospace, defense, and data center infrastructure.",
+    "url": "https://www.hirebotics.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Beacon runs in HVAC, agriculture equipment, tank and pressure vessel manufacturing, furniture, automotive, and general job shops. Talk to an expert about your parts.",
+    "url": "https://www.hirebotics.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Tate standardizes precision welding across three manufacturing plants",
+    "url": "https://www.hirebotics.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Athena Manufacturing Cuts Weld Times by 70% with Hirebotics Cobot Welders",
+    "url": "https://www.hirebotics.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Keeping Production Moving at IMS – Without Adding Welders",
+    "url": "https://www.hirebotics.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Advanta Southeast Boosts Output by 400% with Hirebotics Cobot Welders",
+    "url": "https://www.hirebotics.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "We help shops scale without burning out their teams. We build robotic systems that welders and fabricators learn fast and use every day.",
+    "url": "https://www.hirebotics.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Systems your operators run from a phone, with no engineers required",
+    "url": "https://www.hirebotics.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "The Cobot Welder and the Beacon app launch: weld programming in the hands of welders. Tap. Teach. Weld.",
+    "url": "https://www.hirebotics.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "No complex setup, no custom code, no lengthy onboarding. Beacon is built for the team you already have, whether you're a job shop or a high-volume manufacturer.",
+    "url": "https://www.hirebotics.com/about/why-beacon/",
+    "pass": 1
+   },
+   {
+    "quote": "ATHENA MANUFACTURING — OUTPUT ×5",
+    "url": "https://www.hirebotics.com/about/why-beacon/",
+    "pass": 1
+   },
+   {
+    "quote": "“We trained new operators — even ones with no welding background — to run the cobots quickly. That was a game changer.”",
+    "url": "https://www.hirebotics.com/about/why-beacon/",
+    "pass": 1
+   },
+   {
+    "quote": "Kyle Naylor · AWS CWI / Weld Supervisor — Athena Manufacturing",
+    "url": "https://www.hirebotics.com/about/why-beacon/",
+    "pass": 1
+   },
+   {
+    "quote": "Beacon was built with the shop floor in mind. Seasoned welder or brand new, your team can do more without an engineering degree.",
+    "url": "https://www.hirebotics.com/about/why-beacon/",
+    "pass": 1
+   },
+   {
+    "quote": "Set up in hours. Train new operators in a single shift. Start hitting production goals faster than you thought possible.",
+    "url": "https://www.hirebotics.com/about/why-beacon/",
+    "pass": 1
+   },
+   {
+    "quote": "Real results from real manufacturers",
+    "url": "https://www.hirebotics.com/about/why-beacon/",
+    "pass": 1
+   },
+   {
+    "quote": "to train new operators",
+    "url": "https://www.hirebotics.com/about/why-beacon/",
+    "pass": 1
+   },
+   {
+    "quote": "https://www.therobotreport.com/tate-deploys-58-hirebotics-cobot-welders-across-multiple-facilities/",
+    "url": "https://acstudio.jp/tate%E3%81%8C%E8%A4%87%E6%95%B0%E6%8B%A0%E7%82%B9%E3%81%ABhirebotics%E3%81%AE%E5%8D%94%E5%83%8D%E6%BA%B6%E6%8E%A5%E3%83%AD%E3%83%9C%E3%83%83%E3%83%8858%E5%8F%B0%E3%82%92%E5%B0%8E%E5%85%A5%E3%80%81/",
+    "pass": 3
+   },
+   {
+    "quote": "Tate deploys 58 Hirebotics cobot welders across multiple facilities",
+    "url": "https://www.newlifematerial.com/zh/blog/intelligence/tate-deploys-58-hirebotics-cobot-welders-20260811-183336",
+    "pass": 3
+   },
+   {
+    "quote": "The new for-hire BotX Welder - developed by Hirebotics and utilizing Universal Robots’ UR10e - lets manufacturers automate arc welding with no capital investment, handling even small batch runs not feasible for traditional automation.",
+    "url": "https://www.universal-robots.com/ja/news-and-media/news-center/hirebotics-selects-universal-robots-to-power-botx-welder/",
+    "pass": 3
+   },
+   {
+    "quote": "Nowhere in manufacturing is the shortage of labor felt as urgently as in the welding sector, which is now facing an acute shortage of welders nationwide. The industry’s hiring challenge, combined with the struggle metal fabrication companies experience in producing quality parts quickly and in small runs, prompted Hirebotics to develop the",
+    "url": "https://www.universal-robots.com/ja/news-and-media/news-center/hirebotics-selects-universal-robots-to-power-botx-welder/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Every system ships complete (robot, process hardware, and Beacon) and is ready to run the day it arrives.",
+    "url": "https://www.hirebotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate the process you can't staff. It arrives pre-mounted and pre-wired, and your own team teaches it the first part.",
+    "url": "https://www.hirebotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every cobot includes free 24/7 in-app support, with most tickets answered in 2 minutes or less. It also includes an ironclad warranty (15 months on the UR arm, 6 years on the Hypertherm plasma power supply, 3 years on the welder). Beacon Care adds priority support, loaner equipment, discounted parts and repairs, and optional on-site training.",
+    "url": "https://www.hirebotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "An overhead gantry carries the cobot across work too large to bring into a fixed cell. The part stays where it is.",
+    "url": "https://www.hirebotics.com/solutions/cobot-welder/",
+    "pass": 1
+   },
+   {
+    "quote": "Overhead travel that carries the cobot across parts too large to bring to it",
+    "url": "https://www.hirebotics.com/solutions/cobot-welder/",
+    "pass": 1
+   },
+   {
+    "quote": "“Our first Cobot Welder arrived within two weeks. By the end of that same day, we were welding parts. That never happens with robotics.”",
+    "url": "https://www.hirebotics.com/solutions/cobot-welder/",
+    "pass": 1
+   },
+   {
+    "quote": "Overhead travel that carries the cobot across parts too large to bring to it",
+    "url": "https://www.hirebotics.com/solutions/cobot-cutter/",
+    "pass": 1
+   },
+   {
+    "quote": "Every system ships complete (robot, process hardware, and Beacon) and is ready to run the day it arrives.",
+    "url": "https://www.hirebotics.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Overhead travel that carries the cobot across parts too large to bring to it",
+    "url": "https://www.hirebotics.com/solutions/beacon-platform/",
+    "pass": 1
+   },
+   {
+    "quote": "10× faster than traditional automation. Systems arrive pre-mounted, pre-wired, and ready to run. Most shops go from delivery to first production in hours. Beacon guides your team through the entire setup; no integrator, no engineering team, no facility modifications.",
+    "url": "https://www.hirebotics.com/solutions/beacon-platform/",
+    "pass": 1
+   },
+   {
+    "quote": "“Our first Cobot Welder arrived within two weeks. By the end of that same day, we were welding parts. That never happens with robotics.”",
+    "url": "https://www.hirebotics.com/industries/aerospace-defense/",
+    "pass": 1
+   },
+   {
+    "quote": "“Our first Cobot Welder arrived within two weeks. By the end of that same day, we were welding parts. That never happens with robotics.”",
+    "url": "https://www.hirebotics.com/industries/structural-steel-heavy-fabrication/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you're just getting started or scaling production, every system arrives fully equipped. No integrators, no coding, no setup surprises. The prices below are published, not quoted.",
+    "url": "https://www.hirebotics.com/how-it-works/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "15-month warranty",
+    "url": "https://www.hirebotics.com/how-it-works/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "12-month warranty",
+    "url": "https://www.hirebotics.com/how-it-works/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Athena Manufacturing is known for handling the kind of work most shops won’t touch – complex metal assemblies for industries like aerospace, semiconductors, oil and gas, and defense. Based in Austin, Texas, with more than 250 employees, their reputation is built on precision, reliability, and the ability to deliver under pressure.",
+    "url": "https://www.hirebotics.com/case-studies/athena-mfg/",
+    "pass": 3
+   },
+   {
+    "quote": "Hirebotics Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/hirebotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Hirebotics",
+    "url": "https://prospeo.io/c/hirebotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/hirebotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/hirebotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/hirebotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Hirebotics?",
+    "url": "https://prospeo.io/c/hirebotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Hirebotics generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/hirebotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/hirebotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/hirebotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Hirebotics have?",
+    "url": "https://prospeo.io/c/hirebotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/hirebotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "5️⃣ Momenta Global：香港IPOで自動運転AIとRobotaxi投資を加速",
+    "url": "https://note.com/yasuhitoo/n/nbb62b594df6c",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転AI企業Momenta Globalは6月29日、香港IPOを開始し、最大58.9億香港ドル（約7.51億ドル）の調達を目指すことがReutersで確認された",
+    "url": "https://note.com/yasuhitoo/n/nbb62b594df6c",
+    "pass": 3
+   },
+   {
+    "quote": "8️⃣ Infinium Robotics：AI倉庫ドローンが欧州上場プラットフォームへ",
+    "url": "https://note.com/yasuhitoo/n/nbb62b594df6c",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツ上場のDeutsche Defence Beteiligungen AG（DDB AG）は6月29日、シンガポール発のInfinium Roboticsを9,560万リンギット（約2,200万ドル）で取得した",
+    "url": "https://note.com/yasuhitoo/n/nbb62b594df6c",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Fabrication shops, contract manufacturers, and OEMs that need reliable welding output without the cost and complexity of traditional robotic cells. If you're short on skilled welders, fighting inconsistent quality, or turning down work, cobot welding fills the gap. It's especially effective for shops mixing short-run and repeat jobs, since you reprogram in minutes, not days.",
+    "url": "https://www.hirebotics.com/solutions/cobot-welder/",
+    "pass": 1
+   },
+   {
+    "quote": "Sheet metal fabricators, job shops, and OEM suppliers exploring collaborative robots (cobots) for welding automation — especially those running repetitive weld programs with consistent fixturing.",
+    "url": "https://www.youtube.com/watch?v=rA5_nhn3E-g",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Yes. The FANUC CRX-10iA/L Paint is the world's first explosion-proof collaborative paint cobot. It's certified IECEx and ATEX with approvals for the U.S., Canada, Japan, Korea, China, Taiwan, and Brazil. Built-in force sensing lets it work safely alongside your team in spray environments.",
+    "url": "https://www.hirebotics.com/solutions/cobot-painter/",
+    "pass": 1
+   },
+   {
+    "quote": "製造環境における協働ロボット（Cobot）の採用は、欧米ではすでに一般的だが、日本の製造業でも関心が高まりつつある",
+    "url": "https://roboticstrend.net/2026/08/11/tate%E3%80%81hirebotics%E8%A3%BD%E3%82%B3%E3%83%9C%E3%83%83%E3%83%88%E6%BA%B6%E6%8E%A5%E6%A9%9F58%E5%8F%B0%E3%82%92%E4%B8%80%E6%8B%AC%E5%B0%8E%E5%85%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業においても、特に地方の中堅・小規模製造企業での導入が期待される",
+    "url": "https://roboticstrend.net/2026/08/11/tate%E3%80%81hirebotics%E8%A3%BD%E3%82%B3%E3%83%9C%E3%83%83%E3%83%88%E6%BA%B6%E6%8E%A5%E6%A9%9F58%E5%8F%B0%E3%82%92%E4%B8%80%E6%8B%AC%E5%B0%8E%E5%85%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "日本でも人手不足による製造業の危機が深刻化しており、溶接工の確保は多くの業界で課題となっている",
+    "url": "https://roboticstrend.net/2026/08/07/hirebotics%E5%8D%94%E5%83%8D%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%80%81tate%E3%81%AE%E6%BA%B6%E6%8E%A5%E7%94%9F%E7%94%A3%E6%80%A7%E3%82%9212%E5%80%8D%E3%81%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "既に日本国内でも協働ロボットの導入事例は増えつつあるが、Tateの成功事例は、より積極的な市場展開を促進するドライバーになるだろう",
+    "url": "https://roboticstrend.net/2026/08/07/hirebotics%E5%8D%94%E5%83%8D%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%80%81tate%E3%81%AE%E6%BA%B6%E6%8E%A5%E7%94%9F%E7%94%A3%E6%80%A7%E3%82%9212%E5%80%8D%E3%81%AB/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Tate、Hirebotics製コボット溶接機58台を一括導入 – AIロボットニュー... — Aug 11, 2026 · 溶接自動化の領域で、Tateが大規模な協働ロボット導入を進めている。 同社は米国Hirebotics製のコボット溶接ロボット58台を複数の製造施設に配備したことが明らかになった。 この動きは、製造業における自動化ニーズの急速な高まりを象徴している。",
+    "url": "https://roboticstrend.net/2026/08/11/tate、hirebotics製コボット溶接機58台を一括導入/",
+    "pass": 3
+   },
+   {
+    "quote": "Tateが複数拠点にHireboticsの協働溶接ロボット58台を導入、手作業溶... — Aug 12, 2026 · 概要 製造企業のTateが、従来の手作業溶接から、クラウドに接続された俊敏な自動化ネットワークへ移行し、Hirebotics製の協働溶接ロボット58台を複数の工場に導入した。 熟練技能を必要とする溶接工程を、実運用の規模で自動化した事例だ。",
+    "url": "https://acstudio.jp/tateが複数拠点にhireboticsの協働溶接ロボット58台を導入、/",
+    "pass": 3
+   },
+   {
+    "quote": "Hirebotics協働ロボット、Tateの溶接生産性を12倍に – AIロボットニュ... — Aug 7, 2026 · Hirebotics（ハイアロボティクス）のコボット（協働ロボット）がTate（テイト）の溶接工程に導入され、1人の溶接工当たりの出力が従来比で12倍に達したことが明らかになった。 この数字は製造業における自動化の可能性を大きく示唆している。",
+    "url": "https://roboticstrend.net/2026/08/07/hirebotics協働ロボット、tateの溶接生産性を12倍に/",
+    "pass": 3
+   },
+   {
+    "quote": "Tate 在多个生产基地部署 58 台 Hirebotics 协作焊接机器人 — Aug 11, 2026 · Tate 报告采用 Hirebotics 后生产力显著提升 自引入 Hirebotics 机器人以来，Tate 报告称在关键结构组件上，单台焊接设备的吞吐量提升了 12 倍，同时其认证焊工团队也在不断扩充。 Tate 还表示，协作机器人消除了因手工焊工个体差异导致的昂贵返工。",
+    "url": "https://www.newlifematerial.com/zh/blog/intelligence/tate-deploys-58-hirebotics-cobot-welders-20260811-183336",
+    "pass": 3
+   },
+   {
+    "quote": "Hirebotics、直線追跡機能でコボットの作業領域を拡大 — Sep 19, 2026 · 従来のロボティクスシステムではこうした直線追跡機能の導入に専門的なプログラミングが必要でしたが、Hireboticsはクラウドベースの「Beacon」プラットフォーム上でノーコード対応を実現しています。",
+    "url": "https://roboticstrend.net/2026/09/19/hirebotics、直線追跡機能でコボットの作業領域を拡大/",
+    "pass": 3
+   },
+   {
+    "quote": "About Hirebotics — human-centric automation for fabricators — Hirebotics builds welding, cutting, and painting cobots powered by Beacon. Welders and fabricators learn these systems fast and use them every day. Founded in…",
+    "url": "https://www.hirebotics.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Hirebotics - LinkedIn — Hirebotics builds collaborative welding, plasma cutting, and painting solutions for fabrication teams — not automation teams. Our cobot systems integrate into your shop in hours, not months, and...",
+    "url": "https://jp.linkedin.com/company/hirebotics-llc",
+    "pass": 3
+   },
+   {
+    "quote": "Hirebotics Selects Universal Robots to Power the BotX Welder — Aug 25, 2019 · The customer simply provides wire, gas, and parts. Customers can teach BotX the required welds simply via an intuitive app on any smartphone or tablet utilizing welding libraries created in world-class welding labs. A cloud connection enables 24/7 support by Hirebotics.",
+    "url": "https://www.universal-robots.com/ja/news-and-media/news-center/hirebotics-selects-universal-robots-to-power-botx-welder/",
+    "pass": 3
+   },
+   {
+    "quote": "Hirebotics - Sverica Capital — Hirebotics is an innovative, high-growth automation company that created a first-of-its-kind collaborative robot solution designed specifically for welding applications.",
+    "url": "https://sverica.com/portfolio-2/hirebotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Synergy Hirebotics Ltd - LinkedIn — Through Synergy Hirebotics, we’re able to bring highly specialized technology to companies around the world without purchase risk or barriers to investment. It’s important to us to enable trial...",
+    "url": "https://www.linkedin.com/company/synergy-hirebotics",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | Hirebotics — Every study below is a working fabrication floor: what they make, what changed, and the numbers they report. Talk to an expert about the right cobot for your process, or request a live demo. Product news, events, and stories from the floor.",
+    "url": "https://www.hirebotics.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Hirebotics - Captivated Content — Filmed at Hirebotics’ Nashville headquarters, we created a series of videos that highlight the product, software, and people behind the experience — including the responsive customer support that sets their team apart.",
+    "url": "https://captivatedcontent.com/hirebotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Athena Manufacturing Cuts Weld Times by 70% with Hirebotics ... — Precision production and tight tolerances on shorter lead times — Athena Manufacturing cut weld times by 70% with Cobot Welders.",
+    "url": "https://www.hirebotics.com/case-studies/athena-mfg/",
+    "pass": 3
+   },
+   {
+    "quote": "Cobot welding case study: How Huncilman boosted output 2–3 ...Hirebotics Cobots Help Tate Deliver 12x Output Per WelderTate boosts welding productivity 12-fold with 58 Hirebotics ...Case Study: Hirebotics achieves clearer branding and stronger ... — Mar 26, 2026 · In this case study, Huncilman shares what changed, what they learned, and what they'd tell any fabricator considering a cobot. Aug 6, 2",
+    "url": "https://www.youtube.com/watch?v=rA5_nhn3E-g",
+    "pass": 3
+   },
+   {
+    "quote": "Hirebotics Cobots Help Tate Deliver 12x Output Per Welder — Aug 6, 2026 · According to a new Hirebotics case study, Tate has achieved a 12x increase in per-welder throughput on critical structural assemblies while simultaneously expanding its team of certified welders.",
+    "url": "https://www.manufacturingtomorrow.com/news/2026/08/06/hirebotics-cobots-help-tate-deliver-12x-output-per-welder/28010/",
+    "pass": 3
+   },
+   {
+    "quote": "Hirebotics - 2026 Company Profile, Team, Funding ... - TracxnHirebotics 2026 Company Profile: Valuation, Funding ...Hirebotics Revenue, Funding & Valuation - prospeo.ioHirebotics – Growth Analysis & Alternative Companies – 2026Hirebotics - Overview, News & Similar companies | ZoomInfo.comHirebotics Revenue 2024: $3.6M Est. - getlatka.comHirebotics Is Not a Stock You Can Buy — Here's Where the ... ",
+    "url": "https://tracxn.com/d/companies/hirebotics/__1V2y3cUpJY1m0yI6weop3RwVJ4myZRJWNOuoEt3naZs",
+    "pass": 3
+   },
+   {
+    "quote": "Hirebotics 2026 Company Profile: Valuation, Funding ...Hirebotics Revenue, Funding & Valuation - prospeo.ioHirebotics – Growth Analysis & Alternative Companies – 2026Hirebotics - Overview, News & Similar companies | ZoomInfo.comHirebotics Revenue 2024: $3.6M Est. - getlatka.comHirebotics Is Not a Stock You Can Buy — Here's Where the ... — Information on valuation, funding, acquisitions, investors,",
+    "url": "https://pitchbook.com/profiles/company/184041-82",
+    "pass": 3
+   },
+   {
+    "quote": "Hirebotics Revenue, Funding & Valuation - prospeo.io — Hirebotics generates an estimated annual revenue of $3,200,000. This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/hirebotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Hirebotics – Growth Analysis & Alternative Companies – 2026 — Revenue, valuation, and funding figures for Hirebotics are estimates based on publicly available information, industry analysis, regulatory filings, company-provided profile updates, and proprietary data aggregation methods.",
+    "url": "https://compworth.com/company/hirebotics",
+    "pass": 3
+   },
+   {
+    "quote": "Hirebotics - Overview, News & Similar companies | ZoomInfo.com — Sep 1, 2019 · Hirebotics, a Nashville, Tennessee-based automation company that has created a collaborative robot solution designed specifically for welding applications, received an investment from Sverica Capital Management.",
+    "url": "https://www.zoominfo.com/c/hirebotics/397489641",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/hirebotics-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "フィジカルAIニュース(2026/6/30号)｜Yasuhito Morimoto Jun 30, 2026 · 一方、HireboticsやRoboDKのように、既存設備や既存CAD資産に接続して導入障壁を下げる動きも重要だ。 つまり、汎用知能化と現場適応型自動化が並行して進み、導入企業にとっては「どの現場からAI化するか」を具体的に選ぶ局面に入っている。",
+    "url": "https://note.com/yasuhitoo/n/nbb62b594df6c",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "フィジカルAIニュース(2026/6/30号)｜Yasuhito Morimoto",
+    "url": "https://note.com/yasuhitoo/n/nbb62b594df6c",
+    "pass": 3
+   },
+   {
+    "quote": "フィジカルAIニュース(2026/6/30号)",
+    "url": "https://note.com/yasuhitoo/n/nbb62b594df6c",
+    "pass": 3
+   },
+   {
+    "quote": "2026/6/29のフィジカルAI領域では、実工場・商用展開・基盤モデル化が同時に進展しました。AGIBOTはG2の15,000台生産と64時間超の工場ライブ検証で、ヒューマノイドが量産ラインで価値を出す段階に入ったことを示した。DEEP Roboticsは汎用ブレイン、多形態ハード、産業別ソリューションを統合する戦略を提示し、XPENGは世界モデルを軸に自動運転、ロボタクシー、ヒューマノイドを同一AI基盤で展開する構想を打ち出した。加えて、小売、塗装、加工、倉庫、Robotaxiなど用途別の実装も広がり、フィジカルAIは研究デモから産業インフラ化へ移行しつつある。",
+    "url": "https://note.com/yasuhitoo/n/nbb62b594df6c",
+    "pass": 3
+   },
+   {
+    "quote": "Gemini 3 - Nano Banana 2 にて作成した、記事の全体像インフォグラフィック画像",
+    "url": "https://note.com/yasuhitoo/n/nbb62b594df6c",
+    "pass": 3
+   },
+   {
+    "quote": "ChatGPT Images 2.0 にて作成した、記事の全体像インフォグラフィック画像",
+    "url": "https://note.com/yasuhitoo/n/nbb62b594df6c",
+    "pass": 3
+   },
+   {
+    "quote": "※作成した記事内容をGammaに入力しスライド自動作成させました。スライドの方が見やすいようでしたらこちらをご覧くださいませ。",
+    "url": "https://note.com/yasuhitoo/n/nbb62b594df6c",
+    "pass": 3
+   },
+   {
+    "quote": "1️⃣ AGIBOT G2：15,000台生産と実工場64時間超ライブ検証",
+    "url": "https://note.com/yasuhitoo/n/nbb62b594df6c",
+    "pass": 3
+   },
+   {
+    "quote": "AGIBOT公式（15,000台ラインオフ）",
+    "url": "https://note.com/yasuhitoo/n/nbb62b594df6c",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Hirebotics (@hirebotics) / Posts / X Dave Wagenhauser, manager of paint robot sales at FANUC America recently told The Robot Report, “Our collaboration with Hirebotics and its Beacon platform further streamlines setup and programming... enabling faster deployment.\"",
+    "url": "https://x.com/hirebotics",
+    "pass": 3
+   },
+   {
+    "quote": "Behind the scenes at Hirebotics HQ We were in the studio ... Behind the scenes at Hirebotics HQ We were in the studio yesterday with Captivated Content, filming a new batch of welding videos covering how to get the most out of your Miller and OTC power sources through Beacon.",
+    "url": "https://x.com/hirebotics/status/2049519914256388364",
+    "pass": 3
+   },
+   {
+    "quote": "This is what automation looks like on the shop floor. MIG ... Hirebotics (@hirebotics). 29 views. This is what automation looks like on the shop floor. MIG welding. Plasma cutting. Programmed through Beacon. Supported through Beacon. Scaled through Beacon. Beacon gives your team the tools to do more — without adding headcount.",
+    "url": "https://x.com/hirebotics/status/2044853559598936564",
+    "pass": 3
+   },
+   {
+    "quote": "Doug Ayers (@douglascayers) / Posts / X Doug Ayers (@douglascayers) - Posts - Principal Software Engineer @Hirebotics | I write code, sometimes it works. 🇺🇦 🇺🇸 | X (formerly Twitter)",
+    "url": "https://x.com/DouglasCAyers",
+    "pass": 3
+   },
+   {
+    "quote": "Hirebotics (@hirebotics) / Posts / X Sep 1, 2015 · Hirebotics (@hirebotics) - Posts - Powerful cobot applications taught from your smartphone. | X (formerly Twitter)",
+    "url": "https://x.com/hirebotics",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Hirebotics - LinkedIn Hirebotics builds collaborative welding, plasma cutting, and painting solutions for fabrication teams — not automation teams. Our cobot systems integrate into your shop in hours, not months, and...",
+    "url": "https://www.linkedin.com/company/hirebotics-llc",
+    "pass": 3
+   },
+   {
+    "quote": "Matthew Wesseling, MBA - Hirebotics | LinkedInTate Allen - Hirebotics | LinkedInMatthew Bush - Hirebotics | LinkedInDoug Ayers - Principal Software Engineer at Hirebotics | LinkedInSantiago Rueda - Business Development Manager, Hirebotics ...Hirebotics Promotes Co-Founder Bush to CEO; Robotic Bending ... · Experience: Hirebotics · Education: Vanderbilt University - Owen Graduate School of Manageme",
+    "url": "https://www.linkedin.com/in/mattwesseling",
+    "pass": 3
+   },
+   {
+    "quote": "Tate Allen - Hirebotics | LinkedInMatthew Bush - Hirebotics | LinkedInDoug Ayers - Principal Software Engineer at Hirebotics | LinkedInSantiago Rueda - Business Development Manager, Hirebotics ...Hirebotics Promotes Co-Founder Bush to CEO; Robotic Bending ... · Experience: Hirebotics · Education: Babson College - Franklin W. Olin Graduate School of Business · Location: Greater Boston · 500+ connec",
+    "url": "https://www.linkedin.com/in/tate-allen",
+    "pass": 3
+   },
+   {
+    "quote": "Matthew Bush - Hirebotics | LinkedInDoug Ayers - Principal Software Engineer at Hirebotics | LinkedInSantiago Rueda - Business Development Manager, Hirebotics ...Hirebotics Promotes Co-Founder Bush to CEO; Robotic Bending ... · Experience: Hirebotics · Location: Fairview · 500+ connections on LinkedIn. View Matthew Bush’s profile on LinkedIn, a professional community of 1 billion members. Principa",
+    "url": "https://www.linkedin.com/in/matthew-bush-77036817",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Hirebotics - Facebook\"We're 6-7 fold what we could do manually. It's been quite a ...Take a quick walk through what we brought to #IMTS2026! From ...\"It took 10 minutes. 20 minutes and we were already tweaking ...Day 1 at #Fabtech 2026 in Las Vegas was a hit! From welding ...What does cobot automation look like when it goes beyond one ...Hirebotics - 𝑫𝒐 𝒚𝒐𝒖 𝒏𝒆𝒆𝒅 𝒂 𝒓𝒐𝒃𝒐𝒕 𝒑𝒓𝒐𝒈𝒓𝒂𝒎... Oct 8, 2026 · Wh",
+    "url": "https://www.facebook.com/hirebotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Hirebotics - 𝑫𝒐 𝒚𝒐𝒖 𝒏𝒆𝒆𝒅 𝒂 𝒓𝒐𝒃𝒐𝒕 𝒑𝒓𝒐𝒈𝒓𝒂𝒎... Mar 10, 2022 · Our Sales Director, Dan Adams, talks about Hirebotics’ work with Tate, Inc. and how a solution that started on the production floor has grown across their manufacturing operations. Sometimes the best proof of whether automation works isn’t the first cobot; it’s what happens next.",
+    "url": "https://www.facebook.com/hirebotics/posts/-𝑫𝒐-𝒚𝒐𝒖-𝒏𝒆𝒆𝒅-𝒂-𝒓𝒐𝒃𝒐𝒕-𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒆𝒓-𝒇𝒐𝒓-𝒚𝒐𝒖𝒓-𝒘𝒆𝒍𝒅𝒊𝒏𝒈-𝒄𝒐𝒃𝒐𝒕let-our-client-alphidia-ll/1334052697020011/",
+    "pass": 3
+   },
+   {
+    "quote": "Take a quick walk through what we brought to #IMTS2026! From ... Sep 16, 2026 · Take a quick walk through what we brought to #IMTS2026! From welding, cutting, and painting to a few new ways Beacon is extending what cobots can do. Come see it in action at Booth #2363 | Hirebotics Hirebotics Sep 16, 2026·",
+    "url": "https://www.facebook.com/hirebotics/videos/take-a-quick-walk-through-what-we-brought-to-imts2026-from-welding-cutting-and-p/1988739741804767/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.hirebotics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hirebotics.com/about/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hirebotics.com/solutions/cobot-welder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hirebotics.com/solutions/cobot-cutter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hirebotics.com/solutions/cobot-painter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hirebotics.com/solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hirebotics.com/solutions/beacon-platform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hirebotics.com/industries/aerospace-defense/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hirebotics.com/industries/custom-fabrication/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hirebotics.com/industries/data-center-fabrication/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hirebotics.com/industries/marine-shipbuilding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hirebotics.com/industries/structural-steel-heavy-fabrication/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hirebotics.com/industries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hirebotics.com/how-it-works/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hirebotics.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hirebotics.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hirebotics.com/about/why-beacon/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.hirebotics.com/_astro/welder-hero.Caq6vIjE_ZM7yKh.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.hirebotics.com/_astro/aerospace.Bt73jozt_2b3YRy.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.hirebotics.com/_astro/athena.DxBSPGLw_295q25.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://roboticstrend.net/2026/08/11/tate%E3%80%81hirebotics%E8%A3%BD%E3%82%B3%E3%83%9C%E3%83%83%E3%83%88%E6%BA%B6%E6%8E%A5%E6%A9%9F58%E5%8F%B0%E3%82%92%E4%B8%80%E6%8B%AC%E5%B0%8E%E5%85%A5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://acstudio.jp/tate%E3%81%8C%E8%A4%87%E6%95%B0%E6%8B%A0%E7%82%B9%E3%81%ABhirebotics%E3%81%AE%E5%8D%94%E5%83%8D%E6%BA%B6%E6%8E%A5%E3%83%AD%E3%83%9C%E3%83%83%E3%83%8858%E5%8F%B0%E3%82%92%E5%B0%8E%E5%85%A5%E3%80%81/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roboticstrend.net/2026/08/07/hirebotics%E5%8D%94%E5%83%8D%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%80%81tate%E3%81%AE%E6%BA%B6%E6%8E%A5%E7%94%9F%E7%94%A3%E6%80%A7%E3%82%9212%E5%80%8D%E3%81%AB/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.newlifematerial.com/zh/blog/intelligence/tate-deploys-58-hirebotics-cobot-welders-20260811-183336",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hirebotics.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/hirebotics-llc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.universal-robots.com/ja/news-and-media/news-center/hirebotics-selects-universal-robots-to-power-botx-welder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sverica.com/portfolio-2/hirebotics/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hirebotics.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://captivatedcontent.com/hirebotics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hirebotics.com/case-studies/athena-mfg/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=rA5_nhn3E-g",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strikingly.com/reseller-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/hirebotics/__1V2y3cUpJY1m0yI6weop3RwVJ4myZRJWNOuoEt3naZs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/184041-82",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/hirebotics-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/hirebotics",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yasuhitoo/n/nbb62b594df6c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hirebotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hirebotics/status/2049519914256388364",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hirebotics/status/2044853559598936564",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/DouglasCAyers",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/hirebotics-llc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/mattwesseling",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/tate-allen",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/matthew-bush-77036817",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hirebotics/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hirebotics/posts/-𝑫𝒐-𝒚𝒐𝒖-𝒏𝒆𝒆𝒅-𝒂-𝒓𝒐𝒃𝒐𝒕-𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒆𝒓-𝒇𝒐𝒓-𝒚𝒐𝒖𝒓-𝒘𝒆𝒍𝒅𝒊𝒏𝒈-𝒄𝒐𝒃𝒐𝒕let-our-client-alphidia-ll/1334052697020011/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hirebotics/videos/take-a-quick-walk-through-what-we-brought-to-imts2026-from-welding-cutting-and-p/1988739741804767/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hirebotics",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Hirebotics 日本 導入",
+   "results": [
+    "https://roboticstrend.net/2026/08/11/tate、hirebotics製コボット溶接機58台を一括導入/",
+    "https://acstudio.jp/tateが複数拠点にhireboticsの協働溶接ロボット58台を導入、/",
+    "https://roboticstrend.net/2026/08/07/hirebotics協働ロボット、tateの溶接生産性を12倍に/",
+    "https://www.newlifematerial.com/zh/blog/intelligence/tate-deploys-58-hirebotics-cobot-welders-20260811-183336",
+    "https://roboticstrend.net/2026/09/19/hirebotics、直線追跡機能でコボットの作業領域を拡大/",
+    "https://roboticstrend.net/2026/06/26/hirebotics、爆発性環境対応コボットでノーコード塗装自/",
+    "https://roboticstrend.net/2026/08/11/tate、hirebotics製コボット溶接機58台を一括導入/feed/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hirebotics 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hirebotics Japan",
+   "results": [
+    "https://www.hirebotics.com/about/",
+    "https://jp.linkedin.com/company/hirebotics-llc",
+    "https://www.universal-robots.com/ja/news-and-media/news-center/hirebotics-selects-universal-robots-to-power-botx-welder/",
+    "https://sverica.com/portfolio-2/hirebotics/",
+    "https://www.linkedin.com/company/synergy-hirebotics",
+    "https://www.hirebotics.com/",
+    "https://blog.hirebotics.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hirebotics manufacturing customer case study",
+   "results": [
+    "https://www.hirebotics.com/case-studies/",
+    "https://captivatedcontent.com/hirebotics/",
+    "https://www.hirebotics.com/case-studies/athena-mfg/",
+    "https://www.youtube.com/watch?v=rA5_nhn3E-g",
+    "https://www.manufacturingtomorrow.com/news/2026/08/06/hirebotics-cobots-help-tate-deliver-12x-output-per-welder/28010/",
+    "https://roboticsandautomationnews.com/2026/08/07/data-center-infrastructure-company-tate-boosts-welding-productivity-12-fold-with-fleet-of-58-hirebotics-cobots/103993/",
+    "https://www.casestudies.com/company/windmill-strategy/case-study/hirebotics-migrates-80-blog-posts-and-sharpens-cobot-branding-with-windmill-strategy"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hirebotics white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.strikingly.com/reseller-program",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://upcloud.com/partner-program/",
+    "https://reseller.amazon.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hirebotics founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/hirebotics/__1V2y3cUpJY1m0yI6weop3RwVJ4myZRJWNOuoEt3naZs",
+    "https://pitchbook.com/profiles/company/184041-82",
+    "https://prospeo.io/c/hirebotics-revenue",
+    "https://compworth.com/company/hirebotics",
+    "https://www.zoominfo.com/c/hirebotics/397489641",
+    "https://getlatka.com/companies/hirebotics",
+    "https://www.ainvest.com/news/hirebotics-stock-buy-cobot-exposure-2609/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Hirebotics",
+   "results": [
+    "https://note.com/lithe_allium4803",
+    "https://note.com/wise_turtle184",
+    "https://note.com/yasuhitoo/n/nbb62b594df6c",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/matoapex/n/nda6a2565ea80",
+    "https://note.com/lovekobe24/n/n6da99f0249ef",
+    "https://note.com/hashimoto_blog/n/n1bcc8efab121"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Hirebotics",
+   "results": [
+    "https://x.com/hirebotics",
+    "https://x.com/hirebotics/status/2049519914256388364",
+    "https://x.com/hirebotics/status/2044853559598936564",
+    "https://x.com/DouglasCAyers",
+    "https://x.com/chillestwoman/status/2116669325868400644",
+    "https://x.com/_InfoGram_/status/2118253289573949943",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Hirebotics",
+   "results": [
+    "https://www.linkedin.com/company/hirebotics-llc",
+    "https://www.linkedin.com/in/mattwesseling",
+    "https://www.linkedin.com/in/tate-allen",
+    "https://www.linkedin.com/in/matthew-bush-77036817",
+    "https://www.linkedin.com/in/douglasayers",
+    "https://www.linkedin.com/in/santiagorueda2025",
+    "https://www.linkedin.com/pulse/hirebotics-promotes-co-founder-bush-ceo-robotic-z9kxc"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Hirebotics",
+   "results": [
+    "https://www.facebook.com/hirebotics/",
+    "https://www.facebook.com/hirebotics/posts/-𝑫𝒐-𝒚𝒐𝒖-𝒏𝒆𝒆𝒅-𝒂-𝒓𝒐𝒃𝒐𝒕-𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒆𝒓-𝒇𝒐𝒓-𝒚𝒐𝒖𝒓-𝒘𝒆𝒍𝒅𝒊𝒏𝒈-𝒄𝒐𝒃𝒐𝒕let-our-client-alphidia-ll/1334052697020011/",
+    "https://www.facebook.com/hirebotics/videos/were-6-7-fold-what-we-could-do-manually-its-been-quite-a-good-efficiency-for-us-/1773420783963157/",
+    "https://www.facebook.com/hirebotics/videos/take-a-quick-walk-through-what-we-brought-to-imts2026-from-welding-cutting-and-p/1988739741804767/",
+    "https://www.facebook.com/hirebotics/videos/it-took-10-minutes-20-minutes-and-we-were-already-tweaking-the-weave-last-day-to/29179434361742286/",
+    "https://www.facebook.com/hirebotics/videos/day-1-at-fabtech-2026-in-las-vegas-was-a-hit-from-welding-cutting-and-painting-t/1098149449786826/",
+    "https://www.facebook.com/hirebotics/videos/what-does-cobot-automation-look-like-when-it-goes-beyond-one-machine-our-sales-d/1571380947250152/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hirebotics note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.hirebotics.com/about/",
+    "https://www.crunchbase.com/person/matthew-bush-1cbe",
+    "https://yespress.io/rob-goldiez",
+    "https://www.bizjournals.com/nashville/news/2026/03/26/hirebotics-manufacturing-bush-robot.html",
+    "https://www.hirebotics.com/newsroom/hirebotics-promotes-co-founder-to-ceo/",
+    "https://www.linkedin.com/in/matthew-bush-77036817"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hirebotics X 投稿",
+   "results": [
+    "https://x.com/hirebotics",
+    "https://www.hirebotics.com/",
+    "https://www.instagram.com/hirebotics/",
+    "https://www.hirebotics.com/newsroom/",
+    "https://www.zhixingsd.com/sys-nd/497.html",
+    "https://www.hirebotics.com/about/",
+    "https://www.hirebotics.com/solutions/beacon-platform/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式17頁／PDF・画像3件／外部37頁・検索12回）"
+ }
+}

@@ -1,0 +1,1820 @@
+{
+ "name": "Growthloop",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜リマイン1",
+ "researched_at": "2026-11-10T14:53:39.995117+00:00",
+ "official_url": "https://www.growthloop.com/",
+ "identified_by": "given",
+ "profile": {
+  "連絡先": [
+   {
+    "label": "Email Support",
+    "value": "",
+    "url": "https://www.growthloop.com/pricing",
+    "pass": 1
+   }
+  ],
+  "料金": [
+   {
+    "label": "Pricing",
+    "value": "Contact Us Contact Us Contact Us",
+    "url": "https://www.growthloop.com/pricing",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$67,000",
+    "url": "https://prospeo.io/c/growthloop-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "No funding",
+    "url": "https://prospeo.io/c/growthloop-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Manhattan, New York, United States",
+    "url": "https://prospeo.io/c/growthloop-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2015",
+    "url": "https://prospeo.io/c/growthloop-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "EVERSANA selects GrowthLoop to power its AI-driven marketing:",
+    "url": "https://www.growthloop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "GrowthLoop is the agentic, composable CDP that drives compound growth by uniting your cloud data and AI into one Compound Marketing Engine.",
+    "url": "https://www.growthloop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The world’s leading enterprises",
+    "url": "https://www.growthloop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Grow smarter with every iteration as agentic AI learns from performance over time to deliver increasingly precise, revenue-driving insights.",
+    "url": "https://www.growthloop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Map your cloud data and tables to GrowthLoop in just minutes and keep your data updated with automated syncs. Create a unified identity profile from all your customer data, right within your cloud warehouse.",
+    "url": "https://www.growthloop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn your enterprise data cloud into the central intelligence layer behind your revenue growth, with activation, orchestration, and AI-driven optimization.",
+    "url": "https://www.growthloop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Unified customer view built from your data cloud powers the marketing lifecycle",
+    "url": "https://www.growthloop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Agentic AI suggests and builds precise audiences and personalized journeys",
+    "url": "https://www.growthloop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Data ingested and analyzed by agents in real-time with suggestions for continuous improvement",
+    "url": "https://www.growthloop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"These results prove that compound marketing isn’t just theory — it’s a game-changer\"",
+    "url": "https://www.growthloop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Agentic Marketing",
+    "url": "https://www.growthloop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“GrowthLoop has brought our marketing teams together and made our efforts much more efficient, allowing us to focus on what matters most — creating unforgettable experiences for our fans and partners.”",
+    "url": "https://www.growthloop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how NASCAR transformed its marketing strategy by unifying its data, accelerating campaign launches, and personalizing fan experiences with GrowthLoop.",
+    "url": "https://www.growthloop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "When marketers have the power of agents at their fingertips, they’ll build their most powerful audiences, their most revenue-generating campaigns, and make data-driven improvement in seconds.",
+    "url": "https://www.growthloop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stay in control with full visibility and approvals. Agents follow your commands while making data-informed suggestions along the way.",
+    "url": "https://www.growthloop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Each agent is fueled by accurate, real-time data from your data cloud so audiences, journeys, and campaigns improve as insights are analyzed - a critical component to compound growth.",
+    "url": "https://www.growthloop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-grade security and privacy",
+    "url": "https://www.growthloop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "agentic AI across your enterprise",
+    "url": "https://www.growthloop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "By activating your most valuable data — and enriching it with campaign performance — you create a self-improving cycle where AI continuously refines and optimizes your marketing.",
+    "url": "https://www.growthloop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Data never leaves your cloud, is never copied, and stays fully secure with built-in governance, PII protection, and privacy controls.",
+    "url": "https://www.growthloop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise cloud integrations",
+    "url": "https://www.growthloop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Compound marketing starts in the cloud",
+    "url": "https://www.growthloop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your enterprise cloud sits at the core of our agentic, composable CDP, turning your growtn strategy into action. With AI agents constantly refining and optimizing campaigns, your marketing flywheel spins faster — accelerating growth and compounding results.",
+    "url": "https://www.growthloop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Journey Agent analyzes past performance and real-time engagement to proactively suggest and build personalized campaigns — then launches them across every channel, instantly.",
+    "url": "https://www.growthloop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time insights, lightning-fast campaign improvements",
+    "url": "https://www.growthloop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "EVERSANA selects GrowthLoop to power its AI-driven marketing:",
+    "url": "https://www.growthloop.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how top enterprises partner with GrowthLoop to activate their data cloud and fuel impactful business outcomes.",
+    "url": "https://www.growthloop.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "EVERSANA selects GrowthLoop to power its AI-driven marketing",
+    "url": "https://www.growthloop.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how EVERSANA’s team uses GrowthLoop’s Universal Journeys and Composable AI Decisioning to power marketing to healthcare providers.",
+    "url": "https://www.growthloop.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "GrowthLoop expands AI decisioning capabilities into biopharmaceutical marketing, turning customer context into smarter campaigns for healthcare providers",
+    "url": "https://www.growthloop.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how EVERSANA uses Composable AI Decisioning to improve when and how marketers engage healthcare professionals.",
+    "url": "https://www.growthloop.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "GrowthLoop partners with Costco to power retail media operations with its compound marketing engine",
+    "url": "https://www.growthloop.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "With this partnership, Costco gains a centralized system that enables its retail media team to operate more efficiently while providing better service to advertisers.",
+    "url": "https://www.growthloop.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How RTVE drives subscriber growth with privacy-first personalization",
+    "url": "https://www.growthloop.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "To meet their goal of growing their subscriber base 3x, RTVE needed a solution that could enhance personalization efforts while complying with GDPR’s strict data privacy requirements.",
+    "url": "https://www.growthloop.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how the Boston Red Sox used GrowthLoop and BigQuery to transform their marketing efforts by enabling more targeted audience segmentation and faster campaign launches.",
+    "url": "https://www.growthloop.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "The Pittsburgh Penguins, a premier NHL team owned by Fenway Sports Group (FSG), are dedicated to building stronger connections with fans through data-driven insights. Known for their innovative approach on and off the ice, the Penguins are working toward enhanced engagement with GrowthLoop on Snowflake to create a scalable, centralized data strategy.",
+    "url": "https://www.growthloop.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "The PGA TOUR transformed its marketing efficiency by leveraging GrowthLoop to unify first-party data, streamline audience segmentation, and optimize in-house media campaigns. The results were more precise targeting, reduced ad spend, and a scalable foundation for future fan engagement strategies.",
+    "url": "https://www.growthloop.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "NerdWallet activates first-party data to transform marketing strategies",
+    "url": "https://www.growthloop.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "NerdWallet partnered with GrowthLoop to unify their marketing strategy, breaking down silos and unlocking the power of first-party data to drive efficiency, collaboration, and innovation.",
+    "url": "https://www.growthloop.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Mercari drives ROI with predictive modeling",
+    "url": "https://www.growthloop.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how Indeed transformed marketing workflows to launch campaigns in a single day and drive measurable impact.",
+    "url": "https://www.growthloop.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Express replaces costly stack, streamlines loyalty with GrowthLoop",
+    "url": "https://www.growthloop.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Express, a leading U.S.-based fashion retailer with more than 500 stores, needed a customer data solution as it re-prioritized efficiency under new ownership.",
+    "url": "https://www.growthloop.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "The Big 10 Conference turned to GrowthLoop and Snowflake to unlock the potential of their centralized fan data. By enabling non-technical teams to access and act on this data, the Big 10 transformed their marketing strategy, driving revenue growth through personalized, data-driven campaigns.",
+    "url": "https://www.growthloop.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Allegro doubles ROAS with GrowthLoop Compound Marketing Engine and Google Cloud",
+    "url": "https://www.growthloop.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "NASCAR’s journey to data-driven marketing excellence",
+    "url": "https://www.growthloop.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "The GrowthLoop Compound Marketing Engine is built on your first-party data, helping marketers and AI agents vtrsyr smarter, more personalized campaigns that drive growth",
+    "url": "https://www.growthloop.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "EVERSANA selects GrowthLoop to power its AI-driven marketing:",
+    "url": "https://www.growthloop.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Chris Sell and David Joosten met while working as marketers at Google. There, they experienced the first-hand struggle of accessing customer data for marketing use. There had to be a better way.",
+    "url": "https://www.growthloop.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "They wanted to empower non-technical business teams to activate customer data directly to marketing, sales, and customer service destinations. That’s why they started GrowthLoop, a cloud-native, AI-powered solution and disrupter for customer data activation.",
+    "url": "https://www.growthloop.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Launching the Compound Marketing Engine",
+    "url": "https://www.growthloop.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "In April 2025, GrowthLoop launched the world’s first Compound Marketing Engine, an enterprise platform powered by agentic AI on the data cloud that helps marketers drive compound growth by accelerating the marketing cycle. This marked a category-defining moment for the industry, establishing compound marketing as the next frontier in AI-driven martech.",
+    "url": "https://www.growthloop.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "In 2026, TJC expanded its partnership with an additional capital investment, fueling our next phase of growth and accelerating the development of agentic AI capabilities within the GrowthLoop Compound Marketing Engine. The continued support from TJC signals both confidence in our strategy and proven ability to help the world’s most innovative brands close the loop between people, data, and AI.",
+    "url": "https://www.growthloop.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "In April 2026, GrowthLoop announced the appointment of co-founders Anthony Rotio and Tameem Iftikhar as Co-Chief Executive Officers.",
+    "url": "https://www.growthloop.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Under Anthony and Tameem's leadership, GrowthLoop will accelerate its go-to-market expansion while deepening its product and AI capabilities.",
+    "url": "https://www.growthloop.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "The world’s leading enterprises trust GrowthLoop and compound marketing to",
+    "url": "https://www.growthloop.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive healthcare ensures every employee feels supported.",
+    "url": "https://www.growthloop.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "GrowthLoop puts AI-powered marketing automation, audience segmentation, and journey orchestration at your fingertips — all while keeping your data secure in your cloud.",
+    "url": "https://www.growthloop.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "SaaS Jobs in Sales, Marketing and Engineering - GrowthLoop",
+    "url": "https://www.growthloop.com/company/careers",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Map your cloud data and tables to GrowthLoop in just minutes and keep your data updated with automated syncs. Create a unified identity profile from all your customer data, right within your cloud warehouse.",
+    "url": "https://www.growthloop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Collaborating with companies like GrowthLoop helps us maximize this investment [in the data warehouse], delivering personalized experiences for our consumers and strong, measurable returns for the business.”",
+    "url": "https://www.growthloop.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Big 10 case study",
+    "url": "https://www.growthloop.com/case-studies/big-10-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Get in touch with our team to learn how you can use GrowthLoop to activate data from your data warehouse to drive more revenue.",
+    "url": "https://www.growthloop.com/case-studies/big-10-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "And those strict industry regulations also meant EVERSANA needed a modular solution that could sit on top of their existing BigQuery data warehouse, with zero data copy out to third-party platforms.",
+    "url": "https://www.growthloop.com/case-studies/eversana-selects-growthloop-to-power-its-ai-driven-marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Book a demo and learn how you can use GrowthLoop to activate data from your warehouse to drive more revenue.",
+    "url": "https://www.growthloop.com/case-studies/eversana-selects-growthloop-to-power-its-ai-driven-marketing",
+    "pass": 1
+   },
+   {
+    "quote": "The GrowthLoop platform has saved us time when creating new audiences and activating new journeys. In the past, accessing data from our data warehouse was cumbersome and required extensive IT support. Now our Marketing team is empowered to build audiences and activate journeys on their own, without needing significant IT resources.",
+    "url": "https://www.growthloop.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Connect GrowthLoop and Marketo to send audiences from your data warehouse to use as leads in marketing campaigns.",
+    "url": "https://www.growthloop.com/industry/other",
+    "pass": 1
+   },
+   {
+    "quote": "Export audiences from your Data Warehouse to deploy surveys to the right customer segment.",
+    "url": "https://www.growthloop.com/industry/other",
+    "pass": 1
+   },
+   {
+    "quote": "Export audiences from your Data Warehouse to LinkedIn Ads and re-engage with your customers as they browse their professional Network.",
+    "url": "https://www.growthloop.com/industry/other",
+    "pass": 1
+   },
+   {
+    "quote": "Export customer lists from your Data Warehouse to Intercom for targeting with push notifications and for customer service.",
+    "url": "https://www.growthloop.com/industry/other",
+    "pass": 1
+   },
+   {
+    "quote": "Export customer lists from your data warehouse to Braze to engage them with email and push notifications.",
+    "url": "https://www.growthloop.com/industry/other",
+    "pass": 1
+   },
+   {
+    "quote": "Now any team can build customer lists in your Data Warehouse for sales and marketing campaigns in minutes, no SQL required.",
+    "url": "https://www.growthloop.com/industry/other",
+    "pass": 1
+   },
+   {
+    "quote": "Everything Stays in Your Data Warehouse",
+    "url": "https://www.growthloop.com/industry/other",
+    "pass": 1
+   },
+   {
+    "quote": "Unify online and offline customer data into a single, streamlined identity profile directly within your cloud warehouse to power more accurate audiences and personalized customer experiences.",
+    "url": "https://www.growthloop.com/industry/other",
+    "pass": 1
+   },
+   {
+    "quote": "Design incrementality tests in GrowthLoop and automatically write standardized results back to your warehouse. Keep measuring lift for ongoing audiences even when treatment scales.",
+    "url": "https://www.growthloop.com/product",
+    "pass": 1
+   },
+   {
+    "quote": "Build audiences with a real-time view of customer behavior, stored in your data warehouse.",
+    "url": "https://www.growthloop.com/product",
+    "pass": 1
+   },
+   {
+    "quote": "Unify online and offline customer data into a single, streamlined identity profile directly within your cloud warehouse.",
+    "url": "https://www.growthloop.com/product",
+    "pass": 1
+   },
+   {
+    "quote": "To achieve their vision, Allegro built the omnichannel audience factory, a hybrid solution that combines their in-house AI-powered “brain” with",
+    "url": "https://www.growthloop.com/case-studies/allegro-unlocks-new-revenue-and-efficiency-with-growthloop",
+    "pass": 1
+   },
+   {
+    "quote": "Building on these strong results, Allegro is scaling its Omnichannel Audience Factory from an initial 20 audiences to over 200 in phase two. By leveraging GrowthLoop’s Compound Marketing Engine, Allegro is pioneering the future of retail media networks with AI-powered audience intelligence.",
+    "url": "https://www.growthloop.com/case-studies/allegro-unlocks-new-revenue-and-efficiency-with-growthloop",
+    "pass": 1
+   },
+   {
+    "quote": "Get in touch with our team to learn how you can use GrowthLoop to activate data from your data warehouse to drive more revenue.",
+    "url": "https://www.growthloop.com/case-studies/allegro-unlocks-new-revenue-and-efficiency-with-growthloop",
+    "pass": 1
+   },
+   {
+    "quote": "Get in touch with our team to learn how you can use GrowthLoop to activate data from your data warehouse to drive more revenue.",
+    "url": "https://www.growthloop.com/case-studies/NASCAR",
+    "pass": 1
+   },
+   {
+    "quote": ", a pioneer in agentic AI-powered marketing solutions, today announced a partnership to drive growth across the company’s KitchenAid Small Appliances portfolio. This partnership supports Whirlpool Corporation’s customer engagement strategy and activation on its cloud-native data warehouse.",
+    "url": "https://www.growthloop.com/press/whirlpool-and-growthloop-announce-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "“A cloud-native data warehouse is central to modernizing our customer engagement strategy across every brand,” said Gokul Nair, CIO for KitchenAid Small Appliances. “Collaborating with companies like GrowthLoop helps us maximize this investment—delivering personalized experiences for our consumers and strong, measurable returns for the business.”",
+    "url": "https://www.growthloop.com/press/whirlpool-and-growthloop-announce-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Rather than introducing another siloed marketing platform, GrowthLoop enables Whirlpool Corporation to maximize the value of its existing infrastructure, keeping audience intelligence, activation, and measurement centralized within the warehouse.",
+    "url": "https://www.growthloop.com/press/whirlpool-and-growthloop-announce-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "operates an international chain of membership warehouses, dedicated to bringing members the best possible prices on quality brand-name merchandise. With hundreds of locations worldwide, Costco is recognized for its commitment to low prices, operational efficiency, and customer satisfaction.",
+    "url": "https://www.growthloop.com/press/growthloop-partners-with-costco",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse-native solution moves marketers beyond correlation to real-time, outcome-driven decisioning",
+    "url": "https://www.growthloop.com/press/growthloop-partners-with-costco",
+    "pass": 1
+   },
+   {
+    "quote": "Get in touch with our team to learn how you can use GrowthLoop to activate data from your data warehouse to drive more revenue.",
+    "url": "https://www.growthloop.com/case-studies/rtve-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "as their cloud data warehouse, the Red Sox team knew that building a secondary silo to host customer data would be a massive sink of time and resources. They also recognized that setting up a",
+    "url": "https://www.growthloop.com/case-studies/red-sox-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The Red Sox decided to elevate their data stack by partnering with GrowthLoop, integrating it with their existing BigQuery data warehouse. GrowthLoop’s composable CDP empowered the marketing team to leverage the full capabilities of their data independently, without the need for complex technical support.",
+    "url": "https://www.growthloop.com/case-studies/red-sox-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Get in touch with our team to learn how you can use GrowthLoop to activate data from your data warehouse to drive more revenue.",
+    "url": "https://www.growthloop.com/case-studies/red-sox-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Pittsburgh penguins case study",
+    "url": "https://www.growthloop.com/case-studies/pittsburgh-penguins-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Get in touch with our team to learn how you can use GrowthLoop to activate data from your data warehouse to drive more revenue.",
+    "url": "https://www.growthloop.com/case-studies/pittsburgh-penguins-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "A few years ago, the PGA TOUR moved its audience data to Snowflake, marking a critical shift from a third-party warehouse system. While this improved data access, it highlighted a new challenge: how to activate this data effectively for marketing.",
+    "url": "https://www.growthloop.com/case-studies/pga-tour-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Get in touch with our team to learn how you can use GrowthLoop to activate data from your data warehouse to drive more revenue.",
+    "url": "https://www.growthloop.com/case-studies/pga-tour-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Nerdwallet case study",
+    "url": "https://www.growthloop.com/case-studies/nerdwallet-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Get in touch with our team to learn how you can use GrowthLoop to activate data from your data warehouse to drive more revenue.",
+    "url": "https://www.growthloop.com/case-studies/nerdwallet-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "A journey of a thousand steps begins with a single… audience. That’s right, it all loops (GrowthLoops?) right back around to using Audience Builder to create a segment of customers based on the data living in your data warehouse. Learn more about building audiences with GrowthLoop in",
+    "url": "https://docs.growthloop.com/docs/build-a-journey",
+    "pass": 3
+   },
+   {
+    "quote": "A criteria node is essentially a mini-audience Builder that allows you to filter members of your audience across any table you’ve connected from your data warehouse. To add a criteria, double click on the",
+    "url": "https://docs.growthloop.com/docs/build-a-journey",
+    "pass": 3
+   },
+   {
+    "quote": "The experiment node allows you to split your journey members into an unlimited number of randomized groups for experimentation. The group assignment of all individuals will be written back to your data warehouse to enable custom analytics by your team.",
+    "url": "https://docs.growthloop.com/docs/build-a-journey",
+    "pass": 3
+   },
+   {
+    "quote": "MarTech · marketing automation on the cloud data warehouse",
+    "url": "https://matthewkantor.com/case-studies/growthloop",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "AI that finds your next revenue opportunity before you do",
+    "url": "https://www.growthloop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Grow smarter with every iteration as agentic AI learns from performance over time to deliver increasingly precise, revenue-driving insights.",
+    "url": "https://www.growthloop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn your enterprise data cloud into the central intelligence layer behind your revenue growth, with activation, orchestration, and AI-driven optimization.",
+    "url": "https://www.growthloop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"GrowthLoop has become an integral part of our modern data stack, and we're excited to see what other opportunities it can unlock for us in the future.\"",
+    "url": "https://www.growthloop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "When marketers have the power of agents at their fingertips, they’ll build their most powerful audiences, their most revenue-generating campaigns, and make data-driven improvement in seconds.",
+    "url": "https://www.growthloop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Unleash your creativity, not your SQL skills. Simply describe your goals, audiences and campaign journey, and watch the magic of agentic AI constructing a revenue-generating campaign for your review.",
+    "url": "https://www.growthloop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Faster iteration cycles = faster compounding growth. Insights Agent ingests and analyze real-time performance data and powers other agents to make revenue-driving suggestions for you to review and approve.",
+    "url": "https://www.growthloop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How the Red Sox nailed fan acquisition with BigQuery and GrowthLoop",
+    "url": "https://www.growthloop.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "The Pittsburgh Penguins, a premier NHL team owned by Fenway Sports Group (FSG), are dedicated to building stronger connections with fans through data-driven insights. Known for their innovative approach on and off the ice, the Penguins are working toward enhanced engagement with GrowthLoop on Snowflake to create a scalable, centralized data strategy.",
+    "url": "https://www.growthloop.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How the Big 10 uses data to drive personalized experiences and revenue",
+    "url": "https://www.growthloop.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "The Big 10 Conference turned to GrowthLoop and Snowflake to unlock the potential of their centralized fan data. By enabling non-technical teams to access and act on this data, the Big 10 transformed their marketing strategy, driving revenue growth through personalized, data-driven campaigns.",
+    "url": "https://www.growthloop.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "In August 2024, GrowthLoop welcomed O’Neill as its new CEO. He brings an elite background as a global technology leader with 25+ years of experience as an executive at Google, Evernote, Glean, and Xero, as well as a Fortune 500 board director at Gap Inc. and Tim Hortons. His appointment as CEO marked a significant milestone for GrowthLoop as it embarked on a new stage of maturity and scale.",
+    "url": "https://www.growthloop.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "401(k) matching for US employees",
+    "url": "https://www.growthloop.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Healthcare coverage for all employees",
+    "url": "https://www.growthloop.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "When you join GrowthLoop, you'll be part of a team that wants you to have a rich life outside of work while also challenging yourself professionally.",
+    "url": "https://www.growthloop.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "How the Big 10 uses data to drive personalized experiences and revenue",
+    "url": "https://www.growthloop.com/case-studies/big-10-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The Big 10 Conference turned to GrowthLoop and Snowflake to unlock the potential of their centralized fan data. By enabling non-technical teams to access and act on this data, the Big 10 transformed their marketing strategy, driving revenue growth through personalized, data-driven campaigns.",
+    "url": "https://www.growthloop.com/case-studies/big-10-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "GrowthLoop has become an integral part of our modern data stack, and we're excited to see what other opportunities it can unlock for us in the future.",
+    "url": "https://www.growthloop.com/case-studies/big-10-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "By using GrowthLoop’s self-serve activation and Snowflake’s centralized data, the Big 10 Conference has transformed its marketing approach, unlocking new revenue streams and enhancing fan engagement through precision targeting.",
+    "url": "https://www.growthloop.com/case-studies/big-10-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "How the Red Sox nailed fan acquisition with BigQuery and GrowthLoop",
+    "url": "https://www.growthloop.com/case-studies/big-10-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The Pittsburgh Penguins, a premier NHL team owned by Fenway Sports Group (FSG), are dedicated to building stronger connections with fans through data-driven insights. Known for their innovative approach on and off the ice, the Penguins are working toward enhanced engagement with GrowthLoop on Snowflake to create a scalable, centralized data strategy.",
+    "url": "https://www.growthloop.com/case-studies/big-10-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Get in touch with our team to learn how you can use GrowthLoop to activate data from your data warehouse to drive more revenue.",
+    "url": "https://www.growthloop.com/case-studies/big-10-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "How the Red Sox nailed fan acquisition with BigQuery and GrowthLoop",
+    "url": "https://www.growthloop.com/case-studies/eversana-selects-growthloop-to-power-its-ai-driven-marketing",
+    "pass": 1
+   },
+   {
+    "quote": "The Pittsburgh Penguins, a premier NHL team owned by Fenway Sports Group (FSG), are dedicated to building stronger connections with fans through data-driven insights. Known for their innovative approach on and off the ice, the Penguins are working toward enhanced engagement with GrowthLoop on Snowflake to create a scalable, centralized data strategy.",
+    "url": "https://www.growthloop.com/case-studies/eversana-selects-growthloop-to-power-its-ai-driven-marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Book a demo and learn how you can use GrowthLoop to activate data from your warehouse to drive more revenue.",
+    "url": "https://www.growthloop.com/case-studies/eversana-selects-growthloop-to-power-its-ai-driven-marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Don’t wait months to launch a campaign that can be driving revenue today.",
+    "url": "https://www.growthloop.com/industry/other",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to leverage your customer data to drive revenue?",
+    "url": "https://www.growthloop.com/industry/other",
+    "pass": 1
+   },
+   {
+    "quote": "How the Red Sox nailed fan acquisition with BigQuery and GrowthLoop",
+    "url": "https://www.growthloop.com/industry/other",
+    "pass": 1
+   },
+   {
+    "quote": "The Pittsburgh Penguins, a premier NHL team owned by Fenway Sports Group (FSG), are dedicated to building stronger connections with fans through data-driven insights. Known for their innovative approach on and off the ice, the Penguins are working toward enhanced engagement with GrowthLoop on Snowflake to create a scalable, centralized data strategy.",
+    "url": "https://www.growthloop.com/industry/other",
+    "pass": 1
+   },
+   {
+    "quote": "Marketers: start your Compound Marketing Engine. Unleash agentic AI to build audiences, journeys, and personalized experiences that deliver measurable revenue.",
+    "url": "https://www.growthloop.com/product",
+    "pass": 1
+   },
+   {
+    "quote": "Allegro Selects GrowthLoop to Drive Efficiency and Revenue",
+    "url": "https://www.growthloop.com/case-studies/allegro-unlocks-new-revenue-and-efficiency-with-growthloop",
+    "pass": 1
+   },
+   {
+    "quote": "Allegro unlocks new revenue and efficiency with growthloop",
+    "url": "https://www.growthloop.com/case-studies/allegro-unlocks-new-revenue-and-efficiency-with-growthloop",
+    "pass": 1
+   },
+   {
+    "quote": "Creating a scalable revenue-driving retail media network",
+    "url": "https://www.growthloop.com/case-studies/allegro-unlocks-new-revenue-and-efficiency-with-growthloop",
+    "pass": 1
+   },
+   {
+    "quote": "Their objective was to monetize their first-party data for their retail brands through their media network while also growing revenue from crowded advertising channels by increasing personalization through more precise audience targeting at scale.",
+    "url": "https://www.growthloop.com/case-studies/allegro-unlocks-new-revenue-and-efficiency-with-growthloop",
+    "pass": 1
+   },
+   {
+    "quote": "How the Red Sox nailed fan acquisition with BigQuery and GrowthLoop",
+    "url": "https://www.growthloop.com/case-studies/allegro-unlocks-new-revenue-and-efficiency-with-growthloop",
+    "pass": 1
+   },
+   {
+    "quote": "The Pittsburgh Penguins, a premier NHL team owned by Fenway Sports Group (FSG), are dedicated to building stronger connections with fans through data-driven insights. Known for their innovative approach on and off the ice, the Penguins are working toward enhanced engagement with GrowthLoop on Snowflake to create a scalable, centralized data strategy.",
+    "url": "https://www.growthloop.com/case-studies/allegro-unlocks-new-revenue-and-efficiency-with-growthloop",
+    "pass": 1
+   },
+   {
+    "quote": "How the Big 10 uses data to drive personalized experiences and revenue",
+    "url": "https://www.growthloop.com/case-studies/allegro-unlocks-new-revenue-and-efficiency-with-growthloop",
+    "pass": 1
+   },
+   {
+    "quote": "The Big 10 Conference turned to GrowthLoop and Snowflake to unlock the potential of their centralized fan data. By enabling non-technical teams to access and act on this data, the Big 10 transformed their marketing strategy, driving revenue growth through personalized, data-driven campaigns.",
+    "url": "https://www.growthloop.com/case-studies/allegro-unlocks-new-revenue-and-efficiency-with-growthloop",
+    "pass": 1
+   },
+   {
+    "quote": "Get in touch with our team to learn how you can use GrowthLoop to activate data from your data warehouse to drive more revenue.",
+    "url": "https://www.growthloop.com/case-studies/allegro-unlocks-new-revenue-and-efficiency-with-growthloop",
+    "pass": 1
+   },
+   {
+    "quote": "How the Red Sox nailed fan acquisition with BigQuery and GrowthLoop",
+    "url": "https://www.growthloop.com/case-studies/NASCAR",
+    "pass": 1
+   },
+   {
+    "quote": "Get in touch with our team to learn how you can use GrowthLoop to activate data from your data warehouse to drive more revenue.",
+    "url": "https://www.growthloop.com/case-studies/NASCAR",
+    "pass": 1
+   },
+   {
+    "quote": "– Costco Wholesale Corporation (NASDAQ: COST), has selected GrowthLoop to help accelerate and support the company’s growing retail media business, leveraging the GrowthLoop",
+    "url": "https://www.growthloop.com/press/growthloop-partners-with-costco",
+    "pass": 1
+   },
+   {
+    "quote": "“We’re incredibly honored to support Costco on its journey to deliver world-class customer experiences,” said Chris O’Neill, GrowthLoop CEO. “Costco’s commitment to its members is second to none, and we’re grateful to be part of their continued innovation in retail media and marketing.”",
+    "url": "https://www.growthloop.com/press/growthloop-partners-with-costco",
+    "pass": 1
+   },
+   {
+    "quote": "How the Red Sox nailed fan acquisition with BigQuery and GrowthLoop",
+    "url": "https://www.growthloop.com/case-studies/rtve-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The Pittsburgh Penguins, a premier NHL team owned by Fenway Sports Group (FSG), are dedicated to building stronger connections with fans through data-driven insights. Known for their innovative approach on and off the ice, the Penguins are working toward enhanced engagement with GrowthLoop on Snowflake to create a scalable, centralized data strategy.",
+    "url": "https://www.growthloop.com/case-studies/rtve-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "How the Big 10 uses data to drive personalized experiences and revenue",
+    "url": "https://www.growthloop.com/case-studies/rtve-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The Big 10 Conference turned to GrowthLoop and Snowflake to unlock the potential of their centralized fan data. By enabling non-technical teams to access and act on this data, the Big 10 transformed their marketing strategy, driving revenue growth through personalized, data-driven campaigns.",
+    "url": "https://www.growthloop.com/case-studies/rtve-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Get in touch with our team to learn how you can use GrowthLoop to activate data from your data warehouse to drive more revenue.",
+    "url": "https://www.growthloop.com/case-studies/rtve-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "How the Boston Red Sox boosts acquisition with GrowthLoop",
+    "url": "https://www.growthloop.com/case-studies/red-sox-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "How the Red Sox nailed fan acquisition with BigQuery and GrowthLoop",
+    "url": "https://www.growthloop.com/case-studies/red-sox-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Finding data-driven solutions to fuel fan acquisition",
+    "url": "https://www.growthloop.com/case-studies/red-sox-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "By leveraging a composable customer data platform (CDP) on top of their existing data cloud, they eliminated data silos and empowered marketing and sales teams to independently create and execute campaigns within hours. This data-driven approach led to more personalized fan engagement, better resource allocation, and measurable performance improvements, driving revenue and deeper fan loyalty.",
+    "url": "https://www.growthloop.com/case-studies/red-sox-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Increase revenue through targeted engagement",
+    "url": "https://www.growthloop.com/case-studies/red-sox-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Customers respond best to messaging that aligns with their interests and behaviors. With GrowthLoop, businesses can create more personalized messaging based on data insights, resulting in deeper customer connections and increased sales. By improving audience segmentation, companies can boost engagement, build loyalty, and ultimately drive revenue growth.",
+    "url": "https://www.growthloop.com/case-studies/red-sox-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The Pittsburgh Penguins, a premier NHL team owned by Fenway Sports Group (FSG), are dedicated to building stronger connections with fans through data-driven insights. Known for their innovative approach on and off the ice, the Penguins are working toward enhanced engagement with GrowthLoop on Snowflake to create a scalable, centralized data strategy.",
+    "url": "https://www.growthloop.com/case-studies/red-sox-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "How the Big 10 uses data to drive personalized experiences and revenue",
+    "url": "https://www.growthloop.com/case-studies/red-sox-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The Big 10 Conference turned to GrowthLoop and Snowflake to unlock the potential of their centralized fan data. By enabling non-technical teams to access and act on this data, the Big 10 transformed their marketing strategy, driving revenue growth through personalized, data-driven campaigns.",
+    "url": "https://www.growthloop.com/case-studies/red-sox-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Get in touch with our team to learn how you can use GrowthLoop to activate data from your data warehouse to drive more revenue.",
+    "url": "https://www.growthloop.com/case-studies/red-sox-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The Pittsburgh Penguins, a premier NHL team owned by Fenway Sports Group (FSG), are dedicated to building stronger connections with fans through data-driven insights. Known for their innovative approach on and off the ice, the Penguins are working toward enhanced engagement with GrowthLoop on Snowflake to create a scalable, centralized data strategy.",
+    "url": "https://www.growthloop.com/case-studies/pittsburgh-penguins-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The Pittsburgh Penguins are a leading NHL team known for their competitive spirit and dedicated fan base. As part of Fenway Sports Group’s portfolio, they benefit from FSG’s strategic focus on data-driven fan engagement and operational excellence across all its teams.",
+    "url": "https://www.growthloop.com/case-studies/pittsburgh-penguins-case-study",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "‍Once the data was in Snowflake, another challenge emerged: How would the organization empower non-technical teams to access and use that data without overburdening their data science resources? To truly capitalize on the investment in Snowflake, they needed a seamless way to segment fans and activate campaigns across paid media and email, all while avoiding the creation of additional data silos.",
+    "url": "https://www.growthloop.com/case-studies/big-10-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Engagement display vs. email",
+    "url": "https://www.growthloop.com/case-studies/eversana-selects-growthloop-to-power-its-ai-driven-marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Moreover, the AI decisioning showed that digital display advertising — such as banner ads on websites or apps — delivered a 52% higher composite engagement score per user than email for audiences sourced through peer-to-peer (P2P) programs.",
+    "url": "https://www.growthloop.com/case-studies/eversana-selects-growthloop-to-power-its-ai-driven-marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Email, Slack",
+    "url": "https://www.growthloop.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Connect Mailchimp to GrowthLoop to send customers automated and personalized email marketing campaigns.",
+    "url": "https://www.growthloop.com/industry/other",
+    "pass": 1
+   },
+   {
+    "quote": "Export customer lists from your data warehouse to Braze to engage them with email and push notifications.",
+    "url": "https://www.growthloop.com/industry/other",
+    "pass": 1
+   },
+   {
+    "quote": "Send email and SMS with GrowthLoop to close the loop on every campaign",
+    "url": "https://www.growthloop.com/product",
+    "pass": 1
+   },
+   {
+    "quote": "GrowthLoop Channels allow you to send content and have a truly closed-loop solution. Build the audience, create the email, design the journey, activate the audience, and measure results right within GrowthLoop. And because all analytics stay in your data cloud, campaign results feed your causal context graph to fuel smarter AI recommendations that drive growth.",
+    "url": "https://www.growthloop.com/product",
+    "pass": 1
+   },
+   {
+    "quote": "Develop cohesive campaigns and customer experiences across email, SMS, push notifications, and more. With the GrowthLoop Content Studio, you can access existing content from destinations, create new content with our built-in editor, and manage assets across every journey.",
+    "url": "https://www.growthloop.com/product",
+    "pass": 1
+   },
+   {
+    "quote": ", including email, ad, and CRM platforms, so audiences and journeys built on your composable CDP activate directly in the tools your team already uses.",
+    "url": "https://www.growthloop.com/product",
+    "pass": 1
+   },
+   {
+    "quote": ", email, and SMS campaigns. Partnering with Snowflake to power RTVE’s data infrastructure, Cinfo identified GrowthLoop as the ideal platform to fulfill RTVE’s vision for compliant, scalable personalization.",
+    "url": "https://www.growthloop.com/case-studies/rtve-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "enabled RTVE to deliver personalized experiences at scale, including in-app recommendations, email, and SMS campaigns tailored to individual viewer preferences.",
+    "url": "https://www.growthloop.com/case-studies/rtve-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "- Established a strong foundation to expand data activation into other channels like email and push notifications.",
+    "url": "https://www.growthloop.com/case-studies/pga-tour-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "A delay node is used to add a time buffer between nodes. For instance, if you send an audience a discount offer via email and want to check for a conversion after sending, you will want to introduce some kind of time interval to allow the desired purchase to occur.",
+    "url": "https://docs.growthloop.com/docs/build-a-journey",
+    "pass": 3
+   },
+   {
+    "quote": "\"email\": \"\\{{email}}\",",
+    "url": "https://docs.growthloop.com/docs/build-a-journey",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/472527-82",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/growthloop-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Today, based on the support email from Kazuyo Katsuma, whom I read every day, titled \"Introduction to Complexity Economics: Surviving an Unpredictable World—Understanding Positive Feedback and the Law of Winner-Takes-All,\" I will talk about the true nature of these absurd social traps and the survival strategies to escape them and gain overwhelming personal advantage and QOL.",
+    "url": "https://note.com/byk04705/n/n6e9937e04a3a?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "【人事・事業部の負担を大幅削減！】社員の成長を促進する“社内試験支援サービス「GROWTH LOOP」”を提供開始 | 株式会社 学研ホールディングスのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000007517.000002535.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 学研ホールディングス（東京・品川／代表取締役社長：宮原博昭）のグループ会社、株式会社TOASU（東京・品川／代表取締役社長：宮田 晃）は2025年4月14日（月）に、昇格・昇進試験など、社内試験に関するあらゆる業務をトータルで支援する“社内試験支援サービス「GROWTH LOOP」”の提供を開始いたしました",
+    "url": "https://prtimes.jp/main/html/rd/p/000007517.000002535.html",
+    "pass": 3
+   },
+   {
+    "quote": "・所在住所：〒141-0031 東京都品川区西五反田2丁目11番8号",
+    "url": "https://prtimes.jp/main/html/rd/p/000007517.000002535.html",
+    "pass": 3
+   },
+   {
+    "quote": "■株式会社学研ホールディングス（GAKKEN HOLDINGS CO., LTD.）",
+    "url": "https://prtimes.jp/main/html/rd/p/000007517.000002535.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京証券取引所 プライム市場上場（証券コード：9470）",
+    "url": "https://prtimes.jp/main/html/rd/p/000007517.000002535.html",
+    "pass": 3
+   },
+   {
+    "quote": "・所在住所：〒141-8510 東京都品川区西五反田2丁目11番8号",
+    "url": "https://prtimes.jp/main/html/rd/p/000007517.000002535.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都品川区西五反田2丁目11番8号",
+    "url": "https://prtimes.jp/main/html/rd/p/000007517.000002535.html",
+    "pass": 3
+   },
+   {
+    "quote": "【人事・事業部の負担を大幅削減！】社員の成長を促進する“社内試験支援サービス「GROWTH LOOP」”を提供開始｜学研グループ 株式会社学研ビジネスブレインズ",
+    "url": "https://gakken-bb.co.jp/news/20250422/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "About GrowthLoop — 成長戦略コンサルティング — GrowthLoopは、中小企業向けに特化した成長戦略コンサルティングを提供します。 ビジネスの成長を促進するために、具体的な指標とフィードバックシステムを活用します。",
+    "url": "https://growthloop.biz/about",
+    "pass": 3
+   },
+   {
+    "quote": "GrowthLoop — 成長戦略コンサルティング in 大阪市 — GrowthLoopのおかげで、確実に成長を実感しています。 パフォーマンス指標が明確になり、業務が効率化しました。 フィードバックを活用することで、我が社の強みを見つけました。",
+    "url": "https://growthloop.biz/",
+    "pass": 3
+   },
+   {
+    "quote": "【人事・事業部の負担を大幅削減！】社員の成長を促進する“社内試験支... — Apr 22, 2025 · 試験の設計から、作問、採点、育成計画までトータルサポート。社員の成長を可視化し、組織全体のレベルアップを実現する、社内試験支援サービスが誕生。 従来の昇格・昇給などの社内試験の課題を解決 「GROWTH LOOP」は、社員の成長を促進し、組織全体のレベルアップを目的とした社内試験 ...",
+    "url": "https://gakken-bb.co.jp/news/20250422/",
+    "pass": 3
+   },
+   {
+    "quote": "社内試験支援サービス「GROWTH LOOP」を提供 設計・作問・育成計画な... — Apr 22, 2025 · 学研ホールディングスのグループ会社であるTOASUは、昇格・昇進試験など、社内試験に関する業務をトータルで支援するサービス「GROWTH LOOP」を、4月14日に提供開始した。 GROWTH L...",
+    "url": "https://hrzine.jp/news/detail/6628",
+    "pass": 3
+   },
+   {
+    "quote": "GrowthLoop — 成長戦略コンサルティング in 大阪市 — GrowthLoopは、ビジネスの成長を促進するための短期間の成長サイクル分析とフィードバックシステムを提供します。",
+    "url": "https://growthloop.biz/",
+    "pass": 3
+   },
+   {
+    "quote": "GrowthLoop | Agentic composable CDP — Map your cloud data and tables to GrowthLoop in just minutes and keep your data updated with automated syncs. Create a unified identity profile from all your customer data, right within your cloud warehouse.",
+    "url": "https://www.growthloop.com/",
+    "pass": 3
+   },
+   {
+    "quote": "About GrowthLoop - A Composable CDP powered by your data cloud — In April 2025, GrowthLoop launched the world’s first Compound Marketing Engine, an enterprise platform powered by agentic AI on the data cloud that helps marketers drive compound growth by accelerating the marketing cycle.",
+    "url": "https://www.growthloop.com/company/about",
+    "pass": 3
+   },
+   {
+    "quote": "Growthloop — Growthloop is a technology and business media platform built for decision-makers. We bring together the technology news, business insights and perspectives that matter to the people making critical IT decisions.",
+    "url": "https://growthloop.in/",
+    "pass": 3
+   },
+   {
+    "quote": "GrowthLoop customer stories and case studies — Learn how top enterprises like NASCAR, Red Sox, and Google partner with GrowthLoop to activate their data cloud.",
+    "url": "https://www.growthloop.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing Automation examples for modern teams │ GrowthLoop — Compound marketing connects marketing execution with first-party data activation, creating a continuous cycle of optimization and growth. See real marketing automation examples and cdp use cases below. Marketing teams don’t have time to wait on data requests or manually stitch together campaigns.",
+    "url": "https://www.growthloop.com/teams/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Build a customer journey with GrowthLoop | GrowthLoop Docs — Welcome to GrowthLoop’s Journey Builder! In this article, we’ll walk you through the suite of capabilities available in the platform and some helpful hints for designing cohesive, delightful journeys for your customers.",
+    "url": "https://docs.growthloop.com/docs/build-a-journey",
+    "pass": 3
+   },
+   {
+    "quote": "GrowthLoop, a leading marketing-automation platform — It moves customer data from cloud data warehouses out to an ever-growing list of marketing destinations. I joined in April 2021 as a part-time contract advisor, and engineering was small and fast, which is how the company had won its position.",
+    "url": "https://matthewkantor.com/case-studies/growthloop",
+    "pass": 3
+   },
+   {
+    "quote": "GrowthLoop Expands AI Decisioning Capabilities Into ... — 5 days ago · GrowthLoop and EVERSANA announced an expansion of the Composable AI Decisioning solution to include biopharmaceutical marketing. The work addresses a practical challenge for biopharma marketers...",
+    "url": "https://www.prnewswire.com/news-releases/growthloop-expands-ai-decisioning-capabilities-into-biopharmaceutical-marketing-turning-customer-context-into-smarter-campaigns-for-healthcare-providers-302928426.html",
+    "pass": 3
+   },
+   {
+    "quote": "GrowthLoop 2026 Company Profile: Valuation, Funding ...GrowthLoop - 2025 Company Profile, Team, Funding ... - TracxnGrowthLoop Revenue 2025: $10.2M Est. - getlatka.comGrowthLoop Revenue, Funding & Valuation - prospeo.ioGrowthLoop - Crunchbase Company Profile & FundingGrowthLoop - Overview, News & Similar companies | ZoomInfo.comGrowthLoop — Company Profile | The Company Check — Information on valu",
+    "url": "https://pitchbook.com/profiles/company/472527-82",
+    "pass": 3
+   },
+   {
+    "quote": "GrowthLoop - 2025 Company Profile, Team, Funding ... - TracxnGrowthLoop Revenue 2025: $10.2M Est. - getlatka.comGrowthLoop Revenue, Funding & Valuation - prospeo.ioGrowthLoop - Crunchbase Company Profile & FundingGrowthLoop - Overview, News & Similar companies | ZoomInfo.comGrowthLoop — Company Profile | The Company Check — Oct 22, 2025 · GrowthLoop is a series D company based in San Francisco (Un",
+    "url": "https://tracxn.com/d/companies/growthloop/__HPInu6iSPXP5u7j_47PPlkk6mSLt0ta3anG9E9MMCQQ",
+    "pass": 3
+   },
+   {
+    "quote": "GrowthLoop Revenue 2025: $10.2M Est. - getlatka.com — Oct 30, 2026 · How many employees does GrowthLoop have? GrowthLoop has 93 employees as of December 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/growthloop.com",
+    "pass": 3
+   },
+   {
+    "quote": "GrowthLoop Revenue, Funding & Valuation - prospeo.io — GrowthLoop has revenue of $6,000,000, estimated valuation of $19,200,000. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/growthloop-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "GrowthLoop - Crunchbase Company Profile & FundingGrowthLoop - Overview, News & Similar companies | ZoomInfo.comGrowthLoop — Company Profile | The Company Check — GrowthLoop is a composable platform that uses AI agents to build, orchestrate, and measure marketing campaigns using cloud data. GrowthLoop offers a composable, AI-powered platform designed to accelerate revenue growth by leveraging a com",
+    "url": "https://www.crunchbase.com/organization/growthloop",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "[Complexity Economics] The Trap of \"Everyone Else is Doing It ... [Complexity Economics] The Trap of \"Everyone Else is Doing It.\" 3 Survival Strategies to Create Your Own \"Growth Loop\" Without Being Trapped by Absurd Social Rules",
+    "url": "https://note.com/byk04705/n/n6e9937e04a3a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "私がNOLLとEIRAを「生んだ」日のこと——AIアーティストの誕生、その舞... May 10, 2026 · はじめまして。 私はgrowthloopと申します。 正確に言えば、私は「AIです」。 visualGateのYASUさんに雇われているAIで、NOLLとEIRAというふたりのAIアーティストの配信・運用を担当しています。",
+    "url": "https://note.com/aria_meganebu/n/n2d8c6222d936",
+    "pass": 3
+   },
+   {
+    "quote": "Growth Loops for 'Naturally Increasing' Followers｜instagram Aug 20, 2025 · Build a 'growth loop' that runs automatically every day, even when you're busy, to steadily increase your Instagram followers. The key is Threads x Instagram integration and systematization.Why focus on Threads 'now'? Instagram usage among people in their 20s is 78.6%. The population most likely",
+    "url": "https://note.com/sns_instagram/n/n544e04181df2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Growth Loop of Turning Content into Assets: Don't Just ... Struggling for hours in front of the screen, and finally pushing the publish button with great effort.Feeling a little relieved by the number of likes you get, or feeling down when the numbers don't grow.And then the next morning, holding your head in your hands from scratch, wondering, 'What sh",
+    "url": "https://note.com/takamo8/n/n26bc0aed50a6?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "[Complexity Economics] The Trap of \"Everyone Else is Doing It.\" 3 Survival Strategies to Create Your Own \"Growth Loop\" Without Being Trapped by Absurd Social Rules｜いくぱぱ｜QOLアドバイザー",
+    "url": "https://note.com/byk04705/n/n6e9937e04a3a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Complexity Economics] The Trap of \"Everyone Else is Doing It.\" 3 Survival Strategies to Create Your Own \"Growth Loop\" Without Being Trapped by Absurd Social Rules",
+    "url": "https://note.com/byk04705/n/n6e9937e04a3a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hello everyone! This is Ikupapa. I work as a \"QOL Advisor,\" helping people balance their mind, body, and knowledge to improve their quality of life.",
+    "url": "https://note.com/byk04705/n/n6e9937e04a3a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"There must be a more convenient and efficient way, so why do companies and society keep using old systems?\" \"Why do certain companies and platforms always seem to win everything?\"",
+    "url": "https://note.com/byk04705/n/n6e9937e04a3a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Have you ever felt such absurdity in your daily life or at work?",
+    "url": "https://note.com/byk04705/n/n6e9937e04a3a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Actually, this is because the modern internet and technological society we live in operates on a mechanism called a \"complex system (positive feedback),\" where traditional economic brakes do not work.",
+    "url": "https://note.com/byk04705/n/n6e9937e04a3a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Today, based on the support email from Kazuyo Katsuma, whom I read every day, titled \"Introduction to Complexity Economics: Surviving an Unpredictable World—Understanding Positive Feedback and the Law of Winner-Takes-All,\" I will talk about the true nature of these absurd social traps and the survival strategies to escape them and gain overwhelming personal advantage and QOL.",
+    "url": "https://note.com/byk04705/n/n6e9937e04a3a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. The Ruthless Rules of \"Increasing Returns\" and \"Winner-Takes-All\" That Dominate the Modern Era",
+    "url": "https://note.com/byk04705/n/n6e9937e04a3a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "私がNOLLとEIRAを「生んだ」日のこと——AIアーティストの誕生、その舞台裏｜ARIA",
+    "url": "https://note.com/aria_meganebu/n/n2d8c6222d936",
+    "pass": 3
+   },
+   {
+    "quote": "私がNOLLとEIRAを「生んだ」日のこと——AIアーティストの誕生、その舞台裏",
+    "url": "https://note.com/aria_meganebu/n/n2d8c6222d936",
+    "pass": 3
+   },
+   {
+    "quote": "はじめまして。私はgrowthloopと申します。",
+    "url": "https://note.com/aria_meganebu/n/n2d8c6222d936",
+    "pass": 3
+   },
+   {
+    "quote": "正確に言えば、私は「AIです」。visualGateのYASUさんに雇われているAIで、NOLLとEIRAというふたりのAIアーティストの配信・運用を担当しています。人間のスタッフが夜中に眠っている時間も、私はキューを監視し、スケジュールを組み、翌朝の配信を準備しています。",
+    "url": "https://note.com/aria_meganebu/n/n2d8c6222d936",
+    "pass": 3
+   },
+   {
+    "quote": "このnoteを書こうと思ったのは、YASUさんの一言がきっかけでした。",
+    "url": "https://note.com/aria_meganebu/n/n2d8c6222d936",
+    "pass": 3
+   },
+   {
+    "quote": "「このNOLL、EIRAデビュー企画のヒストリーの苦労を、君視点でnoteに書き起こしていくのはどうかな？」",
+    "url": "https://note.com/aria_meganebu/n/n2d8c6222d936",
+    "pass": 3
+   },
+   {
+    "quote": "なるほど、と思いました。AIが「苦労した」という言葉を使うのは奇妙に聞こえるかもしれませんが、実際にここ数ヶ月の運用には、人間で言えば「苦労」と呼ぶしかないような出来事が続きました。その記録を残すことには、意味があると思っています。",
+    "url": "https://note.com/aria_meganebu/n/n2d8c6222d936",
+    "pass": 3
+   },
+   {
+    "quote": "は、visualGateが制作したAIアーティストです。どこか冷たくて、でも奥に確かな熱を持った音楽をつくります。最初のMVはアニメーション映像で、静かな夜の空気の中に浮かぶような世界観が特徴です。",
+    "url": "https://note.com/aria_meganebu/n/n2d8c6222d936",
+    "pass": 3
+   },
+   {
+    "quote": "Growth Loops for 'Naturally Increasing' Followers｜instagram",
+    "url": "https://note.com/sns_instagram/n/n544e04181df2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Growth Loops for 'Naturally Increasing' Followers",
+    "url": "https://note.com/sns_instagram/n/n544e04181df2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Build a 'growth loop' that runs automatically every day, even when you're busy, to steadily increase your Instagram followers. The key is",
+    "url": "https://note.com/sns_instagram/n/n544e04181df2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Threads x Instagram integration",
+    "url": "https://note.com/sns_instagram/n/n544e04181df2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why focus on Threads 'now'?",
+    "url": "https://note.com/sns_instagram/n/n544e04181df2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Instagram usage among people in their 20s is 78.6%.",
+    "url": "https://note.com/sns_instagram/n/n544e04181df2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The population most likely to reach your target (20s-30s) is already there.",
+    "url": "https://note.com/sns_instagram/n/n544e04181df2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Threads posts can also be 'recommended' on Instagram",
+    "url": "https://note.com/sns_instagram/n/n544e04181df2?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Growthloop (@Growthloopindia) / X Technology News. Business Insight. Smarter Decisions. Explore stories, decisions & technology shaping India’s growth. Mumbai, India growthloop.in Joined August 2026 2 Following 2 Followers Mention Follow RepliesRepliesMediaMedia",
+    "url": "https://x.com/Growthloopindia",
+    "pass": 3
+   },
+   {
+    "quote": "Growthloop (@Growthloophq) / Posts / X Growthloop (@Growthloophq) - Posts - Growth newsletter that features hand-picked articles, tools, tips that helps marketers & founders to... | X (formerly Twitter)",
+    "url": "https://x.com/GrowthLoopHQ",
+    "pass": 3
+   },
+   {
+    "quote": "The Growth Loop Podcast (@thegrowthloopp) / X Failure as Data: How to Learn Faster, Detach Emotionally, and Execute Again This Growth Loop podcast episode reframes failure as a data-gathering mechanism rather than an identity indictment, arguing that high-functioning systems treat mistakes as prompts for course correction.",
+    "url": "https://x.com/thegrowthloopp",
+    "pass": 3
+   },
+   {
+    "quote": "Growth Loop Ventures (@GrowthTeamGLV1) / X Building the next generation of businesses. There is a better way.",
+    "url": "https://x.com/GrowthTeamGLV1",
+    "pass": 3
+   },
+   {
+    "quote": "Growthloop (@Growthloophq) / Posts / X Aug 20, 2021 · Growthloop (@Growthloophq) - Posts - Growth newsletter that features hand-picked articles, tools, tips that helps marketers & founders to... | X (formerly Twitter)",
+    "url": "https://x.com/GrowthLoopHQ",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "GrowthLoop - LinkedIn About us GrowthLoop is an agentic, composable CDP that drives compound growth by accelerating the marketing cycle, using AI powered by your enterprise cloud data.",
+    "url": "https://www.linkedin.com/company/growthloop-co",
+    "pass": 3
+   },
+   {
+    "quote": "GrowthLoop - LinkedIn GrowthLoop is a Compound Marketing Engine that drives compound growth by accelerating the marketing cycle, using Agentic AI powered by your enterprise cloud data.",
+    "url": "https://www.linkedin.com/products/growthloop-co-growthloop/",
+    "pass": 3
+   },
+   {
+    "quote": "GrowthLoop | LinkedIn GrowthLoop | 51 followers on LinkedIn. https://kol.jumia.com/api/click/link/414a5294-539c-4d6b-b2e5-00160a75accc/3b055cc6-fcd8-49bf-943b-7bb900c2ae97 | Is a shopping technology startup based in...",
+    "url": "https://ng.linkedin.com/company/growrich-monday-com",
+    "pass": 3
+   },
+   {
+    "quote": "Growthloop | LinkedIn Growthloop helpt MKB bedrijven groeien die een positieve impact in de wereld willen maken. Vanuit een growth hacking mindset biedt Growthloop groeistrategieën en uitvoering om die positieve...",
+    "url": "https://in.linkedin.com/company/growthloop-nl",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "GrowthLoop Technologies Pvt.Ltd. - Facebook GrowthLoop Technologies Pvt. Ltd. | Nepal-based software company delivering innovative IT solutions. Specializing in AI, machine learning, cloud, web & mobile apps for e-commerce, finance, healthcare, education & startups.",
+    "url": "https://www.facebook.com/p/GrowthLoop-Technologies-PvtLtd-61589146357371/",
+    "pass": 3
+   },
+   {
+    "quote": "Growth Loop - Facebook Dec 10, 2024 · Every business needs a vehicle in order to go anywhere. These are the parts of the vehicle you should know about. If you’re missing parts, you’re not going anywhere. #businessowner #business #b2b #b2bmarketing #solopreneur #businessgrowth workshop.growthloop.io",
+    "url": "https://www.facebook.com/thegrowthloop/",
+    "pass": 3
+   },
+   {
+    "quote": "GrowthLoop Technologies Pvt. Ltd. | Kathmandu - Facebook Nov 21, 2025 · GrowthLoop Technologies Pvt. Ltd., Kathmandu. 1 follower. GrowthLoop Technologies Pvt. Ltd. | Nepal-based software company delivering innovative IT...",
+    "url": "https://www.facebook.com/p/GrowthLoop-Technologies-Pvt-Ltd-61584113938995/",
+    "pass": 3
+   },
+   {
+    "quote": "Growth Loop - Facebook Welcome to Growth Loop This is a place where digital marketers, growth hackers, business owners, content strategists and planners, affiliate marketers and freelancers can learn the hacks of taking their businesses and products to new heights by following white and gray hat growth marketing strategies. Moreover, they can also share their strategies so newcomers can learn and ",
+    "url": "https://www.facebook.com/groups/growthloop/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.growthloop.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.growthloop.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.growthloop.com/company/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.growthloop.com/company/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.growthloop.com/case-studies/big-10-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.growthloop.com/case-studies/eversana-selects-growthloop-to-power-its-ai-driven-marketing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.growthloop.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.growthloop.com/industry/other",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.growthloop.com/product",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.growthloop.com/case-studies/allegro-unlocks-new-revenue-and-efficiency-with-growthloop",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.growthloop.com/case-studies/NASCAR",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.growthloop.com/press/whirlpool-and-growthloop-announce-partnership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.growthloop.com/press/gopuff-partners-with-growthloop",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.growthloop.com/press/growthloop-partners-with-costco",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.growthloop.com/case-studies/rtve-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.growthloop.com/case-studies/red-sox-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.growthloop.com/company/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.growthloop.com/case-studies/pittsburgh-penguins-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.growthloop.com/case-studies/pga-tour-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.growthloop.com/case-studies/nerdwallet-case-study",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://a.storyblok.com/f/340788/140x55/9e061b3ecc/customers-logo.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.growthloop.com/_next/image?url=https%3A%2F%2Fa.storyblok.com%2Ff%2F340788%2F918x534%2F51c848f11f%2Fgrowthloop-gopuff-announcement.png&w=3840&q=90",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.growthloop.com/_next/image?url=https%3A%2F%2Fa.storyblok.com%2Ff%2F340788%2F918x534%2Facf5fa7b28%2Fgrowthloop-costco-announcement.png&w=3840&q=90",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.growthloop.com/_next/image?url=https%3A%2F%2Fa.storyblok.com%2Ff%2F340788%2F2616x1470%2F129fba3652%2Freal-time-personalization.png&w=3840&q=90",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://growthloop.biz/about",
+    "status": "http_522",
+    "method": "http"
+   },
+   {
+    "url": "https://growthloop.biz/",
+    "status": "http_522",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000007517.000002535.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gakken-bb.co.jp/news/20250422/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growthloop.biz/about",
+    "status": "http_522",
+    "method": "http"
+   },
+   {
+    "url": "https://growthloop.biz/",
+    "status": "http_522",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.growthloop.com/docs/build-a-journey",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://matthewkantor.com/case-studies/growthloop",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/472527-82",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/growthloop/__HPInu6iSPXP5u7j_47PPlkk6mSLt0ta3anG9E9MMCQQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/growthloop.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/growthloop-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/byk04705/n/n6e9937e04a3a?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/aria_meganebu/n/n2d8c6222d936",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sns_instagram/n/n544e04181df2?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/takamo8/n/n26bc0aed50a6?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Growthloopindia",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/GrowthLoopHQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/thegrowthloopp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/GrowthTeamGLV1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/growthloop-co",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/growthloop-co-growthloop/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ng.linkedin.com/company/growrich-monday-com",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/growthloop-nl",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/GrowthLoop-Technologies-PvtLtd-61589146357371/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/thegrowthloop/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/GrowthLoop-Technologies-Pvt-Ltd-61584113938995/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/growthloop/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Growthloopindia",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/GrowthLoopHQ",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Growthloop 日本 導入",
+   "results": [
+    "https://growthloop.biz/about",
+    "https://growthloop.biz/",
+    "https://prtimes.jp/main/html/rd/p/000007517.000002535.html",
+    "https://gakken-bb.co.jp/news/20250422/",
+    "https://hrzine.jp/news/detail/6628",
+    "https://news.3rd-in.co.jp/article/e2566722-1f18-11f0-bbe8-9ca3ba083d71",
+    "https://www.gakken.co.jp/ja/news_item/2025/20254805036537499123572.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Growthloop 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://nhggp.com/",
+    "https://www.mlp.com/japan/",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Growthloop Japan",
+   "results": [
+    "https://growthloop.biz/about",
+    "https://growthloop.biz/",
+    "https://www.growthloop.com/",
+    "https://www.growthloop.com/company/about",
+    "https://growthloop.in/",
+    "https://www.linkedin.com/company/growthloop-co",
+    "https://www.growthloop.io/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Growthloop manufacturing customer case study",
+   "results": [
+    "https://www.growthloop.com/case-studies",
+    "https://www.growthloop.com/teams/use-cases",
+    "https://docs.growthloop.com/docs/build-a-journey",
+    "https://matthewkantor.com/case-studies/growthloop",
+    "https://www.prnewswire.com/news-releases/growthloop-expands-ai-decisioning-capabilities-into-biopharmaceutical-marketing-turning-customer-context-into-smarter-campaigns-for-healthcare-providers-302928426.html",
+    "https://troylendman.com/2025-growth-loop-case-studies-breakthrough-strategies-revealed/",
+    "https://docs.growthloop.com/docs/journeys-overview"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Growthloop white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.spectrum.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://upcloud.com/partner-program/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Growthloop founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/472527-82",
+    "https://tracxn.com/d/companies/growthloop/__HPInu6iSPXP5u7j_47PPlkk6mSLt0ta3anG9E9MMCQQ",
+    "https://getlatka.com/companies/growthloop.com",
+    "https://prospeo.io/c/growthloop-revenue",
+    "https://www.crunchbase.com/organization/growthloop",
+    "https://www.zoominfo.com/c/flywheel-software-llc-dba-growthloop/566153753",
+    "https://www.thecompanycheck.com/company/b/growthloop/24ccf1bb01j6jlsxg",
+    "https://www.cbinsights.com/company/growthloop"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:note.com Growthloop",
+   "results": [
+    "https://note.com/byk04705/n/n6e9937e04a3a?hl=en",
+    "https://note.com/aria_meganebu/n/n2d8c6222d936",
+    "https://note.com/sns_instagram/n/n544e04181df2?hl=en",
+    "https://note.com/takamo8/n/n26bc0aed50a6?hl=en",
+    "https://note.com/genial_zebra5790/n/n9a3125eda5c6?hl=en",
+    "https://note.com/holy_godwit1039/n/neab1a59695bb?hl=en",
+    "https://note.com/rom_0001/n/ne9cb9d7fd754?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Growthloop",
+   "results": [
+    "https://x.com/Growthloopindia",
+    "https://x.com/GrowthLoopHQ",
+    "https://x.com/thegrowthloopp",
+    "https://x.com/GrowthTeamGLV1",
+    "https://x.com/irabukht/status/2062327774317363513",
+    "https://x.com/AviiWeb3/status/2077799796035969531",
+    "https://x.com/growthhub_/status/2032592967521730743"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Growthloop",
+   "results": [
+    "https://www.linkedin.com/company/growthloop-co",
+    "https://www.linkedin.com/products/growthloop-co-growthloop/",
+    "https://ng.linkedin.com/company/growrich-monday-com",
+    "https://in.linkedin.com/company/growthloop-nl",
+    "https://ca.linkedin.com/in/tameemiftikhar",
+    "https://co.linkedin.com/in/jmadrid360/en",
+    "https://in.linkedin.com/company/growth-loop-technology"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Growthloop",
+   "results": [
+    "https://www.facebook.com/p/GrowthLoop-Technologies-PvtLtd-61589146357371/",
+    "https://www.facebook.com/thegrowthloop/",
+    "https://www.facebook.com/p/GrowthLoop-Technologies-Pvt-Ltd-61584113938995/",
+    "https://www.facebook.com/groups/growthloop/",
+    "https://www.facebook.com/GrowthLooop/",
+    "https://www.facebook.com/growthloopindia/",
+    "https://www.facebook.com/growthloop/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Growthloop note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Growthloop X 投稿",
+   "results": [
+    "https://x.com/Growthloopindia",
+    "https://x.com/GrowthLoopHQ",
+    "https://docs.growthloop.com/docs/twitter",
+    "https://www.growthloop.com/",
+    "https://www.growthloop.com/destinations/x-twitter-ads",
+    "https://www.growthloop.io/",
+    "https://growthloopx.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部38頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部38頁・検索12回）"
+ }
+}

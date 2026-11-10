@@ -1,0 +1,1167 @@
+{
+ "name": "Haut",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-10T15:15:46.525695+00:00",
+ "official_url": "https://haut.ai",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "6. Seed Round",
+    "value": "15-Nov-2023    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/438847-21",
+    "pass": 3
+   },
+   {
+    "label": "4. Seed Round",
+    "value": "29-Mar-2022    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/438847-21",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Our AI beauty technology and GenAI SaaS solutions enable beauty brands to deliver hyper-personalized digital experiences and accelerate product innovation at scale.",
+    "url": "https://haut.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Haut.AI's AI-powered skincare technology helps beauty brands deliver hyper-personalized digital experiences, increase conversions, and accelerate product innovation at scale.",
+    "url": "https://haut.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Clinical-grade skin diagnostics that turn consumer selfies into personalized product recommendations. Trained on 3M+ data points across 20+ skin health metrics.",
+    "url": "https://haut.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Analyze 20+ skin health and beauty metrics with clinical precision",
+    "url": "https://haut.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "An always-on AI skincare companion that guides consumers from skin concern to checkout - with personalized routines, product advice, and brand-aligned communication.",
+    "url": "https://haut.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Generative AI that visually simulates skincare product results on real skin - before purchase. Science-backed visuals that build trust and drive conversion.",
+    "url": "https://haut.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring product claims to life with science-backed visuals",
+    "url": "https://haut.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Haut.AI is available on Microsoft AppSource and integrates with Azure for enterprise customers.",
+    "url": "https://haut.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Skincare AI pricing that scales with you",
+    "url": "https://haut.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "From indie beauty brands to global enterprises, our usage-based model adapts as your AI skincare capabilities grow.",
+    "url": "https://haut.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Predicting How Your Skin Could Age With Versus Without SPF Use",
+    "url": "https://haut.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "SkinGPT tackles biggest challenge: Proving product claims with AI",
+    "url": "https://haut.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The Rise of AI-Driven Training Platforms",
+    "url": "https://haut.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Meets Personalized Skincare - With Data Privacy in Tow",
+    "url": "https://haut.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "This Female AI Scientist Quietly Built A Profitable Longevity Startup",
+    "url": "https://haut.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Through a live facial scan, booth visitors experienced how PrimalHyal™ NeuroYouth, Giavudan's latest active ingredient, may influence their visible skin parameters over time.",
+    "url": "https://haut.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "An AI Skin Expert provided real-time skin assessments and personalized ingredient recommendations tailored to each visitor’s skin concerns.",
+    "url": "https://haut.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Skin Analysis & Personalized Product Recommendation System",
+    "url": "https://haut.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "By removing personal identifiers and focusing solely on skin pixels, Haut.AI ensures privacy without compromising the accuracy of skincare diagnostics.",
+    "url": "https://haut.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Interview with Haut.AI`s founder and CEO Anastasia Georgievskaya",
+    "url": "https://haut.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Own the PMF discovery cycle for Commerce: run structured customer discovery with CMOs, R&D directors and digital leads at CPG and life-sciences accounts; synthesize signal into hypotheses; kill what isn't working.",
+    "url": "https://haut.ai/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Turn ambiguity into clarity: take fuzzy problems from key enterprise accounts and come back with a crisp problem statement, a prioritized experiment and a decision.",
+    "url": "https://haut.ai/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Define and defend the product roadmap as explicit bets with hypotheses, timelines, and success metrics tied to company OKRs.",
+    "url": "https://haut.ai/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Write PRDs that engineering and data science can act on; own the backlog end to end.",
+    "url": "https://haut.ai/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Partner with GTM on sales-led discovery: join enterprise calls, shape pricing and packaging signals, build the feedback loop between deals and the roadmap.",
+    "url": "https://haut.ai/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Design and run experiments on live product — A/B tests, staged rollouts, feature flags — and socialize learnings across the company.",
+    "url": "https://haut.ai/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Review key customer-facing work, from proposals and pricing to demo prep, and lift the quality where it counts.",
+    "url": "https://haut.ai/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Build the documentation and tools reps run on: playbooks, scripts, objection handling, and onboarding.",
+    "url": "https://haut.ai/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Design comprehensive Customer Success operations: seamless onboarding, accelerated adoption, predictable renewals, strategic expansion",
+    "url": "https://haut.ai/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate CRM workflows with product and support systems for seamless customer experiences",
+    "url": "https://haut.ai/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "April 7, 2026",
+    "url": "https://haut.ai/blogs/givaudan-active-beauty-partners-with-hautai",
+    "pass": 1
+   },
+   {
+    "quote": "Givaudan Active Beauty, the reference in high-precision beauty ingredients, has partnered with",
+    "url": "https://haut.ai/blogs/givaudan-active-beauty-partners-with-hautai",
+    "pass": 1
+   },
+   {
+    "quote": "(April 14–16, Paris), Givaudan Active Beauty will be the first to showcase its latest active ingredients through immersive GenAI-powered activations that allow attendees to virtually “experience” their benefits firsthand via personalized, photorealistic simulations powered by Haut.AI’s SkinGPT technology.",
+    "url": "https://haut.ai/blogs/givaudan-active-beauty-partners-with-hautai",
+    "pass": 1
+   },
+   {
+    "quote": ": An on-site skin assessment providing participants with comprehensive skin insights and active ingredient recommendations aligned with their unique skin characteristics.",
+    "url": "https://haut.ai/blogs/givaudan-active-beauty-partners-with-hautai",
+    "pass": 1
+   },
+   {
+    "quote": "– AI-powered conversational skin intelligence for ingredient and product discovery",
+    "url": "https://haut.ai/blogs/givaudan-active-beauty-partners-with-hautai",
+    "pass": 1
+   },
+   {
+    "quote": "SkinGPT Generative Simulation – Ingredient-level predictive visualization",
+    "url": "https://haut.ai/blogs/givaudan-active-beauty-partners-with-hautai",
+    "pass": 1
+   },
+   {
+    "quote": ". Founded by scientists and AI innovators, Haut.AI collaborates with leading beauty brands including Neutrogena, Beiersdorf, Ulta Beauty, and Grupo Boticário. The company's proprietary skin analysis engine and personalization tools empower brands to deliver science-backed, hyper-personalized experiences that drive measurable business impact.",
+    "url": "https://haut.ai/blogs/givaudan-active-beauty-partners-with-hautai",
+    "pass": 1
+   },
+   {
+    "quote": "New approach to acne management with System Akvile & Haut.AI",
+    "url": "https://haut.ai/blog/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": ", a leader in skin analysis and anti-aging solutions, to introduce the Virtual Cosmetologist, a virtual advisor. The collaboration aims to develop a sustainable business model and enhance the online shopping experience, reducing customer challenges and providing an exceptional online customer journey.",
+    "url": "https://haut.ai/blogs/sudameapteek-partners-haut",
+    "pass": 1
+   },
+   {
+    "quote": "The Virtual Cosmetologist is designed to enhance the customer experience by combining skincare and technology, offering a personalized approach to each individual's unique skin needs. This cutting-edge tool utilizes artificial intelligence capabilities and",
+    "url": "https://haut.ai/blogs/sudameapteek-partners-haut",
+    "pass": 1
+   },
+   {
+    "quote": ", to enhance their skincare-related offerings. This user-friendly solution provides a seamless experience, delivering personalized skincare recommendations in under 10 seconds from the moment the customer visits the page. The system only requires a selfie of a customer to identify over 15 skin concerns, using",
+    "url": "https://haut.ai/blogs/sudameapteek-partners-haut",
+    "pass": 1
+   },
+   {
+    "quote": "Enel Kolk, Südameapteek's Marketing and Communications Manager, commented on the partnership: \"In our continuous pursuit of innovation and providing the best to our customers, the partnership with",
+    "url": "https://haut.ai/blogs/sudameapteek-partners-haut",
+    "pass": 1
+   },
+   {
+    "quote": "\"We are excited to combine our technological expertise with Südameapteek's extensive product knowledge. Together, we are reshaping the future of skincare in Estonia,\" added Anastasia Georgievskaya from",
+    "url": "https://haut.ai/blogs/sudameapteek-partners-haut",
+    "pass": 1
+   },
+   {
+    "quote": "Pharmacies have long been trusted for their comprehensive consultations and knowledgeable staff. By integrating",
+    "url": "https://haut.ai/blogs/sudameapteek-partners-haut",
+    "pass": 1
+   },
+   {
+    "quote": "and enjoy personalized product recommendations like never before.",
+    "url": "https://haut.ai/blogs/sudameapteek-partners-haut",
+    "pass": 1
+   },
+   {
+    "quote": "Südameapteek operates with over 360 pharmacists throughout Estonia. The vision of Südameapteek is to be the most personalized pharmacy service provider in Estonia, valuing the role of pharmacists as community health guardians.",
+    "url": "https://haut.ai/blogs/sudameapteek-partners-haut",
+    "pass": 1
+   },
+   {
+    "quote": "is an Estonian artificial intelligence startup that pioneers the next generation of self-care. With no guesswork or a one-size-fits-all approach,",
+    "url": "https://haut.ai/blogs/sudameapteek-partners-haut",
+    "pass": 1
+   },
+   {
+    "quote": "'s proprietary software is built on top-quality research and development and trained on over 3 million images. It analyzes image, lifestyle, and environmental data to generate accurate reports and personalized recommendations for skincare and haircare.",
+    "url": "https://haut.ai/blogs/sudameapteek-partners-haut",
+    "pass": 1
+   },
+   {
+    "quote": "'s SaaS toolkit to launch B2C applications, create personalized product journeys, and fulfill sustainability commitments.",
+    "url": "https://haut.ai/blogs/sudameapteek-partners-haut",
+    "pass": 1
+   },
+   {
+    "quote": "with enriched data, skin algorithms, simulations and improved recommendations.",
+    "url": "https://haut.ai/blogs/ulta-beauty-haut-strategic-partnership-announcement",
+    "pass": 1
+   },
+   {
+    "quote": "Since its inception in 2018, Haut.AI has focused on developing and applying next-generation artificial intelligence technologies for skincare, beauty and longevity. The innovative leader supports advanced R&D activities of major global skincare brands and manufacturers, particularly in new product development, testing and collection of claims, and consumer studies.",
+    "url": "https://haut.ai/blogs/ulta-beauty-haut-strategic-partnership-announcement",
+    "pass": 1
+   },
+   {
+    "quote": "Ulta Beauty and Haut.AI’s highly experienced, technical and product teams share a vision to help beauty enthusiasts achieve short-term skincare goals, in addition to preserving and improving skin long term. Together, the teams will co-create disruptive, exciting ways to hyper-personalize daily skincare routines.",
+    "url": "https://haut.ai/blogs/ulta-beauty-haut-strategic-partnership-announcement",
+    "pass": 1
+   },
+   {
+    "quote": "“Haut.AI is proud to co-create this experience with Noom as part of their mission to help people make healthier choices, live healthier lives, and extend healthspan,”",
+    "url": "https://haut.ai/blogs/hautai-noom-launch-future-me-motivation-through-visualization",
+    "pass": 1
+   },
+   {
+    "quote": "One preview reflects the positive impact of",
+    "url": "https://haut.ai/blogs/hautai-noom-launch-future-me-motivation-through-visualization",
+    "pass": 1
+   },
+   {
+    "quote": "like exercise, balanced nutrition, and preventive care.",
+    "url": "https://haut.ai/blogs/hautai-noom-launch-future-me-motivation-through-visualization",
+    "pass": 1
+   },
+   {
+    "quote": "is the leading platform for preventive health and longevity solutions, empowering everyone, everywhere to live better longer —",
+    "url": "https://haut.ai/blogs/hautai-noom-launch-future-me-motivation-through-visualization",
+    "pass": 1
+   },
+   {
+    "quote": "partners with top health plans and employers to offer a suite of solutions, including Noom Med, Noom Weight with SmartRx, Noom Weight, Noom weight with GLP-1Rx, Noom Diabetes, and Noom Diabetes Prevention Program, to millions.",
+    "url": "https://haut.ai/blogs/hautai-noom-launch-future-me-motivation-through-visualization",
+    "pass": 1
+   },
+   {
+    "quote": "Noom has received multiple National Institute of Health grants and was the first mobile app recognized by the CDC as a certified diabetes prevention program. With offices in New York City and Princeton, NJ, Noom has been named one of Inc.’s Best Places to Work and Fortune’s Best Workplaces in Technology.",
+    "url": "https://haut.ai/blogs/hautai-noom-launch-future-me-motivation-through-visualization",
+    "pass": 1
+   },
+   {
+    "quote": ", the world-leading expert in sensory beauty brand activation tools. Today, Haut.AI and USP Indicator Solutions deliver the revolutionary skincare analysis product - Phygital Skin AI.The product combines clinical-level",
+    "url": "https://haut.ai/blogs/haut-usp-partner-phygital-skin-ai",
+    "pass": 1
+   },
+   {
+    "quote": "with personalized recommendations to solve the problem of low engagement and customers quitting skin routines before seeing the effect. With Phygital Skin AI, beauty brands can",
+    "url": "https://haut.ai/blogs/haut-usp-partner-phygital-skin-ai",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by leading brands",
+    "url": "https://haut.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Since its inception in 2018, Haut.AI has focused on developing and applying next-generation artificial intelligence technologies for skincare, beauty and longevity. The innovative leader supports advanced R&D activities of major global skincare brands and manufacturers, particularly in new product development, testing and collection of claims, and consumer studies.",
+    "url": "https://haut.ai/blogs/ulta-beauty-haut-strategic-partnership-announcement",
+    "pass": 1
+   },
+   {
+    "quote": "as opposed to more granular regional divisions. They are not official administrative units, though they have been used by government officials for statistical and other purposes since 1905. They are widely used in, for example, maps, geography textbooks, and weather reports, and many businesses and institutions use their home regions in their names as well, for example",
+    "url": "https://en.wikipedia.org/wiki/List_of_regions_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ", previously and today a building used by",
+    "url": "https://en.wikipedia.org/wiki/List_of_regions_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "combines cutting-edge generative AI, dermatological science, and advanced machine learning. Haut.AI empowers beauty brands, skincare manufacturers, and retailers to drive innovation at every stage of the product lifecycle.",
+    "url": "https://www.microsoft.com/en/customers/story/24996-hautai-azure-ai-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Good2Know is an automotive data platform that consolidates fragmented vehicle information from registries,…",
+    "url": "https://fundediq.co/haut-ai-haut-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Cognitiwe enables manufacturers and retailers to manage their business better by supplying them with…",
+    "url": "https://fundediq.co/haut-ai-haut-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Create new ways for the company to increase ARR",
+    "url": "https://haut.ai/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Carry a small set of the largest, most strategic deals yourself, selling them end to end as the senior closer on the team.",
+    "url": "https://haut.ai/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Drive measurable expansion revenue through strategic account management.",
+    "url": "https://haut.ai/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Create scalable playbooks, KPIs, and reporting frameworks for client health, NPS, and revenue expansion",
+    "url": "https://haut.ai/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "“Haut.AI is proud to co-create this experience with Noom as part of their mission to help people make healthier choices, live healthier lives, and extend healthspan,”",
+    "url": "https://haut.ai/blogs/hautai-noom-launch-future-me-motivation-through-visualization",
+    "pass": 1
+   },
+   {
+    "quote": "One common division groups the prefectures into eight regions. In this arrangement, three of the four",
+    "url": "https://en.wikipedia.org/wiki/List_of_regions_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "is usually considered part of Kyūshū, but is sometimes treated as its own ninth region.",
+    "url": "https://en.wikipedia.org/wiki/List_of_regions_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "1-49 employees",
+    "url": "https://www.microsoft.com/en/customers/story/24996-hautai-azure-ai-service/",
+    "pass": 3
+   },
+   {
+    "quote": "What is Haut’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/526051-99",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Haut is",
+    "url": "https://pitchbook.com/profiles/company/526051-99",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/438847-21",
+    "pass": 3
+   },
+   {
+    "quote": "Haut.AI has 48 total employees.",
+    "url": "https://pitchbook.com/profiles/company/438847-21",
+    "pass": 3
+   },
+   {
+    "quote": "What is Haut.AI’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/438847-21",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Haut.AI is",
+    "url": "https://pitchbook.com/profiles/company/438847-21",
+    "pass": 3
+   },
+   {
+    "quote": "Anastasia Georgievskaya is listed as CEO at Haut.AI.",
+    "url": "https://fundediq.co/haut-ai-haut-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Haut.AI have?",
+    "url": "https://fundediq.co/haut-ai-haut-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/haut-ai-haut-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/haut-ai-haut-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "HAUT（オウ） オンラインストア – HAUT（オウ）オンラインストア — HAUT（オウ） オンラインストア メンズ オールインワン スキンケア 化粧水、乳液、美容液の3つが、この1本で完結。 皮脂量が多く、乾燥しやすい男性の肌にあわせて 植物由来成分を配合し、うるおいを健やかに保ちます。",
+    "url": "https://hautmens.com/",
+    "pass": 3
+   },
+   {
+    "quote": "メンズコスメ「HAUT」はなぜ、単品通販の“定石”を打ち破るマーケティ... — Jul 4, 2024 · その点、「HAUT」は2021年にグッドデザイン賞を受賞するなど、一般的なD2Cや通販商品の見せ方と少し違う印象を受けます。 ズバリ、HAUTが支持される理由についてどのようにお考えられていますか。",
+    "url": "https://marketeer.jp/haut/",
+    "pass": 3
+   },
+   {
+    "quote": "HAUT(哦) 多合一 洗面奶 化妆水 男士 男士 护肤 [化妆水 乳液 美容液 ... — 日本直送 HAUT (哦) 多合一 洗面奶 化妆水 男士 男士 护肤 [化妆水 乳液 美容液 保湿】 120ml 透明质酸 神经酰胺 双方巾提取物，立即查看價格、規格、商品圖片與預計到貨資訊。 比比昂日貨提供日本商品跨境配送，符合活動條件享滿額免運。",
+    "url": "https://drug.bibian.co.jp/prd.php?id=B08Y1R1WH2",
+    "pass": 3
+   },
+   {
+    "quote": "HAUT（オウ） オールインワン フェイストナー – HAUT（オウ）オンライ...CCIが商品開発したメンズスキンケア「HAUT（オウ）」HAUT | コマースコンテナ - CCIHAUT (オウ) - GQ SHOP — 化粧水と乳液と美容液がひとつになったオーガニック・トナーです。大分県産くじゅう黒岳より湧き出る温泉水、ヒアルロン酸や3種のセラミドなどを配合し、肌のバリア機能や弾力を向上。表面の油分が多く、内側が乾きやすい男性の肌構造にあわせた有効成分が、水分をしっかりと浸透させ ... Oct 20, 2021 · よりニュートラルなブランドが世界から発信される中で、このHAUTも新たな時代の男性スキンケアの在り方をデザインにより体現している。 化粧水、乳液、美容液が一つになったオールインワン、たった一製品というラインナップも強い存在感を持たせている。 Commerce Conta",
+    "url": "https://hautmens.com/products/all-in-1-facetoner",
+    "pass": 3
+   },
+   {
+    "quote": "CCIが商品開発したメンズスキンケア「HAUT（オウ）」 — Oct 20, 2021 · よりニュートラルなブランドが世界から発信される中で、このHAUTも新たな時代の男性スキンケアの在り方をデザインにより体現している。 化粧水、乳液、美容液が一つになったオールインワン、たった一製品というラインナップも強い存在感を持たせている。",
+    "url": "https://www.cci.co.jp/news/6615/",
+    "pass": 3
+   },
+   {
+    "quote": "HAUT（オウ） オンラインストア — HAUT（オウ） オンラインストア メンズ オールインワン スキンケア 化粧水、乳液、美容液の3つが、この1本で完結。 皮脂量が多く、乾燥しやすい男性の肌にあわせて 植物由来成分を配合し、うるおいを健やかに保ちます。",
+    "url": "https://hautmens.com/",
+    "pass": 3
+   },
+   {
+    "quote": "HAUT (オウ) – GQ SHOP — GQ SHOPではHAUT (オウ)のアイテムを豊富に取り揃えています。 ライフスタイルメディア「GQ JAPAN」の編集部が目利きをしたイットアイテムをストーリーや魅力とともにお届け。 国内外問わず、トレンドからクラシックまでをGQ視点で選んだアイテムが揃います。",
+    "url": "https://shop.gqjapan.jp/collections/haut",
+    "pass": 3
+   },
+   {
+    "quote": "Haut – GQ SHOP — The official online select store of the lifestyle media \"GQ JAPAN\". The items are selected from the viewpoint of \"editing\" a magazine. The shop offers not only fashion items but also a wide range of general merchandise.",
+    "url": "https://shop.gqjapan.jp/en/collections/haut",
+    "pass": 3
+   },
+   {
+    "quote": "Haut.AI revolutionizes skincare customer experience with AI ... — Despite thousands of skincare products, consumers struggle to find what works. Haut.AI helps brands create better products, educate users, and bridge the gap between claims and results with personalized, science-backed AI insights.",
+    "url": "https://www.microsoft.com/en/customers/story/24996-hautai-azure-ai-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Haut 2026 Company Profile: Valuation, Funding & Investors ... — Information on valuation, funding, cap tables, investors, and executives for Haut. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/526051-99",
+    "pass": 3
+   },
+   {
+    "quote": "Haut - 2026 Company Profile, Team, Funding, Competitors ... — Feb 17, 2026 · Haut is a seed company based in Tallinn (Estonia), founded in 2017 by Konstantin Kiselev and Anastasia Georgievskaya. It operates as a Provider of SaaS-based solutions for skincare businesses.",
+    "url": "https://tracxn.com/d/companies/haut/__W4uFlSSV5vwbfc-uWoNmQfwmDqFM4Lye8qLBxiZ40_E",
+    "pass": 3
+   },
+   {
+    "quote": "Haut.AI 2026 Company Profile: Valuation, Funding & Investors ...Haut.AI: Funding, Investors & Team (Oct 2026) | FundedIQHaut Underwear - Crunchbase Company Profile & FundingHaut Company Profile: Financials, Valuation, and GrowthHaut.AI - Crunchbase Company Profile & Funding — Information on valuation, funding, cap tables, investors, and executives for Haut.AI. Use the PitchBook Platform to explore",
+    "url": "https://pitchbook.com/profiles/company/438847-21",
+    "pass": 3
+   },
+   {
+    "quote": "Haut.AI: Funding, Investors & Team (Oct 2026) | FundedIQ — Founded in 2018 and based in Estonia, Haut.AI has partnerships with 80 organizations worldwide and currently serves clients in 32 markets. How much funding has Haut.AI raised?",
+    "url": "https://fundediq.co/haut-ai-haut-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Haut Underwear - Crunchbase Company Profile & Funding — IT Spend $64.3K This year, Haut Underwear is projected to spend $64.3K on IT, according to Aberdeen.",
+    "url": "https://www.crunchbase.com/organization/haut-underwear",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "List of regions of Japan - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/List_of_regions_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "List of regions of Japan",
+    "url": "https://en.wikipedia.org/wiki/List_of_regions_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Special wards (Tokyo)",
+    "url": "https://en.wikipedia.org/wiki/List_of_regions_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "of Japan, namely",
+    "url": "https://en.wikipedia.org/wiki/List_of_regions_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan has eight High Courts, but their jurisdictions do not match the typical eight-region geographical division (see",
+    "url": "https://en.wikipedia.org/wiki/List_of_regions_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Judicial system of Japan",
+    "url": "https://en.wikipedia.org/wiki/List_of_regions_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "This is a list of Japan's major islands, traditional regions, and subregions, going from northeast to southwest.",
+    "url": "https://en.wikipedia.org/wiki/List_of_regions_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo (separate liaison office with the National Police Agency)",
+    "url": "https://en.wikipedia.org/wiki/List_of_regions_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Shiga, Kyoto, Osaka, Hyōgo, Nara, Wakayama",
+    "url": "https://en.wikipedia.org/wiki/List_of_regions_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Ibaraki, Tochigi, Gunma, Saitama, Chiba, Tokyo, Kanagawa, Nagano, Niigata, Yamanashi",
+    "url": "https://en.wikipedia.org/wiki/List_of_regions_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Ibaraki, Tochigi, Gunma, Saitama, Chiba, Tokyo, Kanagawa, Yamanashi, Nagano (northern part)",
+    "url": "https://en.wikipedia.org/wiki/List_of_regions_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Shiga, Kyoto, Osaka, Hyōgo, Nara, Wakayama, Fukui",
+    "url": "https://en.wikipedia.org/wiki/List_of_regions_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Ibaraki, Tochigi, Gunma, Saitama, Chiba, Tokyo, Kanagawa, Yamanashi, Nagano",
+    "url": "https://en.wikipedia.org/wiki/List_of_regions_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Regional proportional representation constituencies for the lower house of the Japanese parliament",
+    "url": "https://en.wikipedia.org/wiki/List_of_regions_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo, Ibaraki, Tochigi, Gunma, Saitama, Chiba, Kanagawa, Niigata, Yamanashi, Nagano, Shizuoka",
+    "url": "https://en.wikipedia.org/wiki/List_of_regions_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese High School Baseball Invitational Tournament",
+    "url": "https://en.wikipedia.org/wiki/List_of_regions_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Football regions of Japan",
+    "url": "https://en.wikipedia.org/wiki/List_of_regions_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Ibaraki, Tochigi, Gunma, Saitama, Chiba, Tokyo, Kanagawa, Yamanashi",
+    "url": "https://en.wikipedia.org/wiki/List_of_regions_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Ibaraki, Tochigi, Gunma, Saitama, Chiba, Tokyo, Kanagawa, Niigata, Yamanashi, Nagano",
+    "url": "https://en.wikipedia.org/wiki/List_of_regions_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Ibaraki, Tochigi, Gunma, Saitama, Chiba, Tokyo, Kanagawa, Yamanashi, Niigata, Nagano",
+    "url": "https://en.wikipedia.org/wiki/List_of_regions_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "(concurrent governor of Tokyo)",
+    "url": "https://en.wikipedia.org/wiki/List_of_regions_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "(previous governor of Osaka)",
+    "url": "https://en.wikipedia.org/wiki/List_of_regions_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan's Regional Megamarkets - Semantic Scholar",
+    "url": "https://en.wikipedia.org/wiki/List_of_regions_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Regions of Japan on japan-guide.com",
+    "url": "https://en.wikipedia.org/wiki/List_of_regions_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Regions of Japan on web-japan.org",
+    "url": "https://en.wikipedia.org/wiki/List_of_regions_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "私が日本を旅した中で宮崎県は最も（しかもダントツに）食材が優れた県で、それに伴って食文化も非常に素晴らしいものがあります",
+    "url": "https://note.com/sinhaku/n/n360e393e7a0b",
+    "pass": 3
+   },
+   {
+    "quote": "東京吉祥寺のパティスリーアテスウェイで修業を積まれて、世界大会優勝後に生まれ育った宮崎へ帰ってきてen hautをオープンされました",
+    "url": "https://note.com/sinhaku/n/n360e393e7a0b",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/526051-99",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/438847-21",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/haut-ai-haut-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "パティスリー 「en haut」｜しんはく(sinhaku) Oct 25, 2025 · 宮崎の人は全国でもトップクラスに酒好きですが、にも関わらずたぶん全国で最も甘いもの好きの県民です。 素晴らしいパティスリーも多く、ひときわ抜きんでているのが先ほど紹介した en haut アンオー 。 県立美術館の少し南にあります。",
+    "url": "https://note.com/sinhaku/n/n360e393e7a0b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "パティスリー 「en haut」｜しんはく(sinhaku)",
+    "url": "https://note.com/sinhaku/n/n360e393e7a0b",
+    "pass": 3
+   },
+   {
+    "quote": "久しぶりにケーキ屋さんでケーキを買いました。",
+    "url": "https://note.com/sinhaku/n/n360e393e7a0b",
+    "pass": 3
+   },
+   {
+    "quote": "今の人はパティスリーって言うけど、やっぱり私にはケーキ屋さんという呼び名がしっくりきます。",
+    "url": "https://note.com/sinhaku/n/n360e393e7a0b",
+    "pass": 3
+   },
+   {
+    "quote": "私が日本を旅した中で宮崎県は最も（しかもダントツに）食材が優れた県で、それに伴って食文化も非常に素晴らしいものがあります。",
+    "url": "https://note.com/sinhaku/n/n360e393e7a0b",
+    "pass": 3
+   },
+   {
+    "quote": "宮崎の人は全国でもトップクラスに酒好きですが、にも関わらずたぶん全国で最も甘いもの好きの県民です。",
+    "url": "https://note.com/sinhaku/n/n360e393e7a0b",
+    "pass": 3
+   },
+   {
+    "quote": "素晴らしいパティスリーも多く、ひときわ抜きんでているのが先ほど紹介した",
+    "url": "https://note.com/sinhaku/n/n360e393e7a0b",
+    "pass": 3
+   },
+   {
+    "quote": "さんは、ル・モンディアル・デ・ザール・シュクレ世界大会の２０１２年優勝者です。",
+    "url": "https://note.com/sinhaku/n/n360e393e7a0b",
+    "pass": 3
+   },
+   {
+    "quote": "東京吉祥寺のパティスリーアテスウェイで修業を積まれて、世界大会優勝後に生まれ育った宮崎へ帰ってきてen hautをオープンされました。",
+    "url": "https://note.com/sinhaku/n/n360e393e7a0b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Elliott R Haut, MD, PhD, MAMSE (@elliotthaut) / X Such a full-circle moment watching Dr. Elliott Haut highlight our month long #TSACO10 campaign celebrating science, authors & impact across X and LinkedIn. And naturally, a cake!!",
+    "url": "https://x.com/elliotthaut",
+    "pass": 3
+   },
+   {
+    "quote": "Haut Potoure on X: \"@YungMiami305 What exactly do you think ... @YungMiami305 What exactly do you think “protect Black women” means Caresha?",
+    "url": "https://x.com/HPotoure/status/2119682705483067667",
+    "pass": 3
+   },
+   {
+    "quote": "Haut Potoure on X: \"@DailyLoud I actually agree with her. You ... @DailyLoud I actually agree with her. You’re supposed to ensure the child has the same quality of living in both households. I highly doubt Chris is living on under 30k a month.",
+    "url": "https://x.com/HPotoure/status/2119921788973166804",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Haut Funeral Home | Jamestown ND - FacebookHaut - FacebookBadminton Rumersheim-le-haut | Facebookamicale de peche aspach le haut - FacebookFacebook - log in or sign upLog Into FacebookHaut Clothing - Facebook Nov 3, 2026 · Haut Funeral Home, Jamestown. 546 followers · 53 talking about this · 2 were here. Serving Jamestown and the surrounding communities since 1909. Now in... Op vrijdag 18 septembe",
+    "url": "https://www.facebook.com/hautfuneralhome/",
+    "pass": 3
+   },
+   {
+    "quote": "Haut - FacebookBadminton Rumersheim-le-haut | Facebookamicale de peche aspach le haut - FacebookFacebook - log in or sign upLog Into FacebookHaut Clothing - Facebook Op vrijdag 18 september brengt HAUT de Belgische gastronomie en Japanse traditie samen tijdens een Special Sake Dinner. 🍶 Chef Dimitri Proost serveert een verfijnd 5-gangenmenu, gecombineerd met premium pairing van Sekiya Brewery (Hou",
+    "url": "https://www.facebook.com/hautoostende/",
+    "pass": 3
+   },
+   {
+    "quote": "Badminton Rumersheim-le-haut | Facebook 6 days ago · Le badminton à Rumersheim-le-haut, c’est du loisir, du plaisir, des jeunes, des moins jeunes et beaucoup de matchs passionnants joués par des passionnés...",
+    "url": "https://business.facebook.com/groups/1131318163548143/",
+    "pass": 3
+   },
+   {
+    "quote": "amicale de peche aspach le haut - Facebook Oct 28, 2026 · Amicale de pêche d'Aspach le haut Ouverture de la pêche dimanche 1er mars. Permanence vente carte vendredi 27 février de 18h00 à 20h00 Permanence vente carte samedi 28 février de10h00 à 12h00 Permanence vente carte Samedi 07 mars de 10h00 à 12h00. Au cabanon de pêche Pour le comité. P Manigold Gico Sam Athenes and 10 others 11 reactions ·",
+    "url": "https://business.facebook.com/groups/132949647796/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://haut.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://haut.ai/company/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://haut.ai/blogs/givaudan-active-beauty-partners-with-hautai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://haut.ai/blog/success-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://haut.ai/blogs/sudameapteek-partners-haut",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://haut.ai/blogs/ulta-beauty-haut-strategic-partnership-announcement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://haut.ai/blogs/hautai-noom-launch-future-me-motivation-through-visualization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://haut.ai/blogs/haut-usp-partner-phygital-skin-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://haut.ai/blogs/haut-generative-ai-skin-simulations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://haut.ai/blogs/haut-generative-ai-skin-simulations",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/682ca2086f7ecdfe136a02f8/6a81f3465bdb2812507bff37_GB%20partnership_horizontal%20banner_1200x627_with%20text.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/682ca2086f7ecdfe136a02f8/686e66bb7daf09c744c4a53a_Sudameapteek_-_LI_Tw.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/682ca2086f7ecdfe136a02f8/686e6d3b474bba83bbbd31f9_ULTA_Beauty__HautAI_.avif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://hautmens.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketeer.jp/haut/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://drug.bibian.co.jp/prd.php?id=B08Y1R1WH2",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://hautmens.com/products/all-in-1-facetoner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai-hikaku.com/?p=36920",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/Half_Japanese",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/List_of_regions_of_Japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hautmens.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.gqjapan.jp/collections/haut",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.microsoft.com/en/customers/story/24996-hautai-azure-ai-service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hcltech.com/case-studies/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/526051-99",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/haut/__W4uFlSSV5vwbfc-uWoNmQfwmDqFM4Lye8qLBxiZ40_E",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/438847-21",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fundediq.co/haut-ai-haut-ai-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sinhaku/n/n360e393e7a0b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/elliotthaut",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HPotoure/status/2119682705483067667",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HPotoure/status/2119921788973166804",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hautfuneralhome/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hautoostende/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://business.facebook.com/groups/1131318163548143/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://business.facebook.com/groups/132949647796/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Haut 日本 導入",
+   "results": [
+    "https://hautmens.com/",
+    "https://marketeer.jp/haut/",
+    "https://drug.bibian.co.jp/prd.php?id=B08Y1R1WH2",
+    "https://hautmens.com/products/all-in-1-facetoner",
+    "https://www.cci.co.jp/news/6615/",
+    "https://shop.gqjapan.jp/collections/haut",
+    "https://commerce-container.cartazero.co.jp/brand/haut/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Haut 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://chigai-hikaku.com/?p=36920",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://biz.moneyforward.com/contract/basic/8378/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Haut Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/Half_Japanese",
+    "https://en.wikipedia.org/wiki/List_of_regions_of_Japan",
+    "https://hautmens.com/",
+    "https://shop.gqjapan.jp/collections/haut",
+    "https://shop.gqjapan.jp/en/collections/haut",
+    "https://www.denchuonlinestore.com/product/-no-1-haut/120",
+    "https://dresskin.com/brand/haut/",
+    "https://hat-japan.jp/index.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Haut manufacturing customer case study",
+   "results": [
+    "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "https://www.microsoft.com/en/customers/story/24996-hautai-azure-ai-service/",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.hcltech.com/case-studies/manufacturing",
+    "https://www.mckinsey.com/about-us/case-studies",
+    "https://haut.ai/",
+    "https://www.grantthornton.com/insights/case-studies/manufacturing/2025/customer-experience-transformation-at-a-global-manufacturer"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Haut white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Haut founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/526051-99",
+    "https://tracxn.com/d/companies/haut/__W4uFlSSV5vwbfc-uWoNmQfwmDqFM4Lye8qLBxiZ40_E",
+    "https://pitchbook.com/profiles/company/438847-21",
+    "https://fundediq.co/haut-ai-haut-ai-funding/",
+    "https://www.crunchbase.com/organization/haut-underwear",
+    "https://www.privco.com/company/haut",
+    "https://www.crunchbase.com/organization/haut-ai"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Haut",
+   "results": [
+    "https://note.com/sinhaku/n/n360e393e7a0b",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/seigo77",
+    "https://note.com/lively_pika8336/n/n5adf36c23e7b",
+    "https://tales.note.com/",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Haut",
+   "results": [
+    "https://x.com/elliotthaut",
+    "https://x.com/",
+    "https://x.com/HPotoure/status/2119682705483067667",
+    "https://x.com/HPotoure/status/2119921788973166804",
+    "https://x.com/2026Hajpx/status/2118053533543219264",
+    "https://x.com/IanECox/status/2120105272932794391",
+    "https://x.com/Joehautesterres/status/2119448513268638019"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Haut",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Haut",
+   "results": [
+    "https://www.facebook.com/hautfuneralhome/",
+    "https://www.facebook.com/hautoostende/",
+    "https://business.facebook.com/groups/1131318163548143/",
+    "https://business.facebook.com/groups/132949647796/",
+    "https://secure.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/haut.co/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Haut note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://x.com/note_corp/status/2074734197949034502",
+    "https://info-gunma.com/interview-with-the-top-make-your-life-flutter-from-stationery-high-note-sets-off-an-analog-counterattack-in-the-ai-era/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Haut X 投稿",
+   "results": [
+    "https://www.youtube.com/@Haut-X/videos",
+    "https://search.yahoo.co.jp/realtime/search/＃素人投稿/",
+    "https://baraero.com/雑学r18/アダルトメディア史/23222/",
+    "https://help.x.com/ja/rules-and-policies/intimate-media",
+    "https://help.x.com/ja/rules-and-policies/adult-content",
+    "https://nlab.itmedia.co.jp/cont/articles/3379230/",
+    "https://scrollx.ink/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式10頁／PDF・画像3件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式10頁／PDF・画像3件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式10頁／PDF・画像3件／外部28頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式10頁／PDF・画像3件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式10頁／PDF・画像3件／外部28頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式10頁／PDF・画像3件／外部28頁・検索12回）"
+ }
+}

@@ -1,0 +1,1151 @@
+{
+ "name": "Inkeep",
+ "aliases": [],
+ "context": "旧営業リスト｜AI/ML Software｜未接触",
+ "researched_at": "2026-11-10T14:56:12.163685+00:00",
+ "official_url": "https://inkeep.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2023",
+    "url": "https://startupintros.com/orgs/inkeep",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "San Francisco, CA, USA",
+    "url": "https://startupintros.com/orgs/inkeep",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Deploy AI teammates that understand your data, product, knowledge, and tools.",
+    "url": "https://inkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Understand your knowledge base and product with Unified Search",
+    "url": "https://inkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Provide ready-to-approve suggestions with Human Approvals",
+    "url": "https://inkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Inkeep Content Writer",
+    "url": "https://inkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "✅ Doc update proposal complete",
+    "url": "https://inkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "inkeep-content-writer[bot] wants to merge 1 commit into main",
+    "url": "https://inkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Create tickets, update CRMs, generate content, send notifications via MCP",
+    "url": "https://inkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Agents custom to your enterprise",
+    "url": "https://inkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Responsible for creating content",
+    "url": "https://inkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reviews content and opens a pull request on GitHub upon approval",
+    "url": "https://inkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "contentWriterSubAgent",
+    "url": "https://inkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"./sub-agents/content-writer\"",
+    "url": "https://inkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Review content and creating PRs\"",
+    "url": "https://inkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How Fingerprint reduced support tickets 48% while increasing user activation 18% with Inkeep",
+    "url": "https://inkeep.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Within a few weeks, Fingerprint's daily ticket volume fell 48% while first-week activation jumped 18%.",
+    "url": "https://inkeep.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "We treat every detail as part of the product. From design, to code, to sales, to our docs — we focus on clarity, polish, and ease of use.",
+    "url": "https://inkeep.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Once you find the solution to a problem — the next step is to create a system to scale it. That's where we leverage AI in everything we do.",
+    "url": "https://inkeep.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We believe clarity is the lever for speed. For us, clarity means questioning assumptions, being crisp, and having an eagerness to untangle any problem.",
+    "url": "https://inkeep.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Nick is the co-founder & CEO of Inkeep. He previously helped devise Microsoft's identity products & studied Computer Science at MIT.",
+    "url": "https://inkeep.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Andrew graduated from MIT with a degree in Aerospace Engineering and led AI products as Director of Engineering at Rev.",
+    "url": "https://inkeep.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Serafin has a degree in Computer Science & Engineering at MIT and was previously a Software Engineer at Microsoft developing computer use model applications.",
+    "url": "https://inkeep.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our Agent Engineering team provides ready-to-deploy AI Agents that integrate with your systems and deliver on key scenarios.",
+    "url": "https://inkeep.com/demo",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor and improve agents with intelligent reporting.",
+    "url": "https://inkeep.com/demo",
+    "pass": 1
+   },
+   {
+    "quote": "の組み合わせが最大の強みで、PostHogやFingerprintのような顧客のデフレクション実績は本物で具体的だ",
+    "url": "https://www.eesel.ai/ja/blog/inkeep-review",
+    "pass": 3
+   },
+   {
+    "quote": "無料のセルフホスト型オープンソース版があり、その後はデモの先にある見積もり制のEnterpriseプランになる",
+    "url": "https://www.eesel.ai/ja/blog/inkeep-review",
+    "pass": 3
+   },
+   {
+    "quote": "とチャネル連携（Slack、Zendesk、Salesforce）はEnterpriseプランに入っている",
+    "url": "https://www.eesel.ai/ja/blog/inkeep-review",
+    "pass": 3
+   },
+   {
+    "quote": "FingerprintとPostHogの数字を最も信頼できるのは、方法論が伴っているからだ",
+    "url": "https://www.eesel.ai/ja/blog/inkeep-review",
+    "pass": 3
+   },
+   {
+    "quote": "Fingerprintは自社の48%を「A/Bテストによって統計的に有意」と呼び、アクティベーションを初回のAPI呼び出しと定義している",
+    "url": "https://www.eesel.ai/ja/blog/inkeep-review",
+    "pass": 3
+   },
+   {
+    "quote": "\"I'm not sure how they do it but the answer quality and the UI is meaningfully better than all the other 'chat with your docs'-type products I've tried.\"",
+    "url": "https://www.eesel.ai/ja/blog/inkeep-review",
+    "pass": 3
+   },
+   {
+    "quote": "\"IMO Inkeep has been the first AI solution that hasn't sucked, and that's high praise coming from me!\"",
+    "url": "https://www.eesel.ai/ja/blog/inkeep-review",
+    "pass": 3
+   },
+   {
+    "quote": "Inkeepの2つのプラン：無料のセルフホスト型オープンソース版と、見積もり制のEnterpriseプラン",
+    "url": "https://www.eesel.ai/ja/blog/inkeep-review",
+    "pass": 3
+   },
+   {
+    "quote": "そうでないなら、あなたが買うのはEnterpriseであり、SaaSのサブスクリプションではなくエンタープライズのコミットメントとして予算を組むべきだ",
+    "url": "https://www.eesel.ai/ja/blog/inkeep-review",
+    "pass": 3
+   },
+   {
+    "quote": "無料のセルフホスト型オープンソース版と、デモを予約して初めて分かる見積もり制のEnterpriseプランがある",
+    "url": "https://www.eesel.ai/ja/blog/inkeep-review",
+    "pass": 3
+   },
+   {
+    "quote": "Fingerprintはサポートチケット48%削減、PostHogはコミュニティ質問の33%を自動解決、Payabliはデフレクション率80%を報告した",
+    "url": "https://www.eesel.ai/ja/blog/inkeep-review",
+    "pass": 3
+   },
+   {
+    "quote": "できるが、Zendesk、Freshdesk、Help Scout、Salesforce、HubSpotの各チャネルは見積もり制のEnterpriseプランに含まれている",
+    "url": "https://www.eesel.ai/ja/blog/inkeep-review",
+    "pass": 3
+   },
+   {
+    "quote": "Inkeep - AI Search, Content Support, Cha...",
+    "url": "https://tap4.ai/ja/ai/inkeep-com/",
+    "pass": 3
+   },
+   {
+    "quote": "Inkeep - AI Search, Content Support, Chatbot Integration, and Pricing Options",
+    "url": "https://tap4.ai/ja/ai/inkeep-com/",
+    "pass": 3
+   },
+   {
+    "quote": "Product Features of Inkeep",
+    "url": "https://tap4.ai/ja/ai/inkeep-com/",
+    "pass": 3
+   },
+   {
+    "quote": "Inkeep is an advanced AI search and content support platform designed to enhance user experience by transforming existing content into a reliable AI copilot. It provides seamless integration with various documentation and support channels, enabling organizations to answer user queries instantly.",
+    "url": "https://tap4.ai/ja/ai/inkeep-com/",
+    "pass": 3
+   },
+   {
+    "quote": "The primary purpose of Inkeep is to empower high-growth teams by providing a centralized solution for answering user, support, and sales questions using their own knowledge base. It is ideal for enterprises, startups, and any organization looking to improve customer support and engagement through AI-driven solutions.",
+    "url": "https://tap4.ai/ja/ai/inkeep-com/",
+    "pass": 3
+   },
+   {
+    "quote": "Effortless content ingestion from multiple sources including documentation, websites, blogs, help center articles, support tickets, Slack channels, Discord channels, and community forums.",
+    "url": "https://tap4.ai/ja/ai/inkeep-com/",
+    "pass": 3
+   },
+   {
+    "quote": "AI-powered search and chat functionalities that provide accurate answers to over 250,000 questions per month.",
+    "url": "https://tap4.ai/ja/ai/inkeep-com/",
+    "pass": 3
+   },
+   {
+    "quote": "Reduces support volume by providing authentic self-help experiences.",
+    "url": "https://tap4.ai/ja/ai/inkeep-com/",
+    "pass": 3
+   },
+   {
+    "quote": "Offers insights into user interactions, helping teams identify documentation gaps and improve content.",
+    "url": "https://tap4.ai/ja/ai/inkeep-com/",
+    "pass": 3
+   },
+   {
+    "quote": "Provides rich citations and maintains topic relevance, ensuring trustworthy responses.",
+    "url": "https://tap4.ai/ja/ai/inkeep-com/",
+    "pass": 3
+   },
+   {
+    "quote": "To get started with Inkeep, users can sign up for a free trial on the website. The onboarding process involves adding content sources and embedding the necessary JavaScript code to activate the AI search and support features.",
+    "url": "https://tap4.ai/ja/ai/inkeep-com/",
+    "pass": 3
+   },
+   {
+    "quote": "Inkeep is an AI-powered search and support tool that transforms your content into a reliable AI copilot, helping users find answers instantly.",
+    "url": "https://tap4.ai/ja/ai/inkeep-com/",
+    "pass": 3
+   },
+   {
+    "quote": "To add Inkeep, you need to onboard your content sources, add a snippet of JavaScript to your platform, and then monitor insights from user interactions.",
+    "url": "https://tap4.ai/ja/ai/inkeep-com/",
+    "pass": 3
+   },
+   {
+    "quote": "3. What types of content can I integrate with Inkeep?",
+    "url": "https://tap4.ai/ja/ai/inkeep-com/",
+    "pass": 3
+   },
+   {
+    "quote": "Inkeep can integrate with various content types, including documentation, websites, blogs, help center articles, support tickets, Slack channels, Discord channels, community forums, and technical resources.",
+    "url": "https://tap4.ai/ja/ai/inkeep-com/",
+    "pass": 3
+   },
+   {
+    "quote": "4. How does Inkeep improve user support?",
+    "url": "https://tap4.ai/ja/ai/inkeep-com/",
+    "pass": 3
+   },
+   {
+    "quote": "Inkeep reduces support volume by providing authentic self-help experiences, allowing users to find answers independently while also offering insights to improve documentation.",
+    "url": "https://tap4.ai/ja/ai/inkeep-com/",
+    "pass": 3
+   },
+   {
+    "quote": "6. How often is the content updated in Inkeep?",
+    "url": "https://tap4.ai/ja/ai/inkeep-com/",
+    "pass": 3
+   },
+   {
+    "quote": "Inkeep continuously updates content to ensure that users have access to the most current information.",
+    "url": "https://tap4.ai/ja/ai/inkeep-com/",
+    "pass": 3
+   },
+   {
+    "quote": "7. Are there any pricing options for Inkeep?",
+    "url": "https://tap4.ai/ja/ai/inkeep-com/",
+    "pass": 3
+   },
+   {
+    "quote": "Inkeep offers various pricing options to cater to different needs, including plans for enterprises and startups.",
+    "url": "https://tap4.ai/ja/ai/inkeep-com/",
+    "pass": 3
+   },
+   {
+    "quote": "Forums can be integrated as a source to provide users with community-driven answers and insights, enriching the knowledge base.",
+    "url": "https://tap4.ai/ja/ai/inkeep-com/",
+    "pass": 3
+   },
+   {
+    "quote": "LLM reports are generated based on user interactions and queries, providing valuable insights into user behavior and content effectiveness.",
+    "url": "https://tap4.ai/ja/ai/inkeep-com/",
+    "pass": 3
+   },
+   {
+    "quote": "HIX AI - AI Search Engine - Obtain Precise Answers for Free",
+    "url": "https://tap4.ai/ja/ai/inkeep-com/",
+    "pass": 3
+   },
+   {
+    "quote": "Hix.ai: Dive into any subject and access precise responses with HIX AI, the AI search engine. Interact with our AI chatbot and AI Writer to ask queries and obtain accurate information.",
+    "url": "https://tap4.ai/ja/ai/inkeep-com/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by leading teams",
+    "url": "https://inkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Andrew graduated from MIT with a degree in Aerospace Engineering and led AI products as Director of Engineering at Rev.",
+    "url": "https://inkeep.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading teams",
+    "url": "https://inkeep.com/demo",
+    "pass": 1
+   },
+   {
+    "quote": "Cory Watilo, PostHog case study",
+    "url": "https://www.eesel.ai/ja/blog/inkeep-review",
+    "pass": 3
+   },
+   {
+    "quote": "INKEEP Mushroom Probiotics Creamer – Plant-Based Non-Dairy Coffee Creamer with 7 Adaptogenic Mushrooms for Gut-Friendly Balance, 30 Servings",
+    "url": "https://drinkinkeep.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Meet our plant-based mushroom probiotic creamer — creamy, lightly sweet, and made to stir into coffee or matcha.",
+    "url": "https://drinkinkeep.com/",
+    "pass": 3
+   },
+   {
+    "quote": "INKEEP Mushroom Probiotics Creamer – Plant-Based Non-Dairy Coffee Creamer with 7 Adaptogenic Mushrooms for Gut-Friendly Balance, 30 Servings",
+    "url": "https://drinkinkeep.com/pages/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "Pinecone Case Study: Inkeep – Inkeep - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/pinecone/case-study/inkeep-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Inkeep - Customer Case Study",
+    "url": "https://www.casestudies.com/company/pinecone/case-study/inkeep-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Inkeep used Pinecone",
+    "url": "https://www.casestudies.com/company/pinecone/case-study/inkeep-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/pinecone/case-study/inkeep-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/pinecone/case-study/inkeep-customer-case-study",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "We treat every detail as part of the product. From design, to code, to sales, to our docs — we focus on clarity, polish, and ease of use.",
+    "url": "https://inkeep.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Robert has a Master's in Computer Science from MIT. He architected search and data pipelines as Head of Engineering at illumis (acquired).",
+    "url": "https://inkeep.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/523166-59",
+    "pass": 3
+   },
+   {
+    "quote": "Inkeep has 24 total employees.",
+    "url": "https://pitchbook.com/profiles/company/523166-59",
+    "pass": 3
+   },
+   {
+    "quote": "What is Inkeep’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/523166-59",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Inkeep is",
+    "url": "https://pitchbook.com/profiles/company/523166-59",
+    "pass": 3
+   },
+   {
+    "quote": "Inkeep Revenue 2024: $1.5M Est.",
+    "url": "https://getlatka.com/companies/inkeep.com",
+    "pass": 3
+   },
+   {
+    "quote": "Inkeep has not published its revenue. GetLatka estimates it at about $1.5M a year (June 2024).",
+    "url": "https://getlatka.com/companies/inkeep.com",
+    "pass": 3
+   },
+   {
+    "quote": "Inkeep CEO, founders & employees",
+    "url": "https://getlatka.com/companies/inkeep.com",
+    "pass": 3
+   },
+   {
+    "quote": "Nick Gomez founded Inkeep in 2023 and runs it as CEO. Inkeep had 10 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/inkeep.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Inkeep's revenue?",
+    "url": "https://getlatka.com/companies/inkeep.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Inkeep's revenue at about",
+    "url": "https://getlatka.com/companies/inkeep.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Inkeep have?",
+    "url": "https://getlatka.com/companies/inkeep.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in June 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/inkeep.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/inkeep.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/inkeep.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/inkeep.com",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Inkeepとは？AIで効率化する最新カスタマーサポートツールの全貌| 生... — Jan 2, 2025 · カスタマーサポートの自動化・効率化を検討している企業にとって、AIを活用した次世代サポートツール「Inkeep」が注目を集めています。 月間30万件以上の問い合わせに対応する実績を持ち、AnthropicやPostmanといった成長企業が導入",
+    "url": "https://generative-ai.co.jp/usecase/ai-startup-usecase-inkeep/",
+    "pass": 3
+   },
+   {
+    "quote": "Inkeep - AI Agents for CX & Ops — Hi! I'm an AI assistant trained on documentation, help articles, and other content. Ask me anything about Inkeep.",
+    "url": "https://inkeep.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Inkeepレビュー2026：サポート向け開発者ファーストAIエージェント — Sep 22, 2026 · Inkeepをそこまで持っていくことはできるが、それは単に切り替えるセルフサーブのスイッチではなく、エンジニア主導の導入とエンタープライズ契約に申し込むということになる。",
+    "url": "https://www.eesel.ai/ja/blog/inkeep-review",
+    "pass": 3
+   },
+   {
+    "quote": "Inkeep - AI検索、コンテンツサポート、チャットボット統合、料金プラ... — 月に数千の質問に回答できる能力を持つInkeepは、ユーザー満足度を向上させるだけでなく、コンテンツ戦略を洗練させるための貴重な洞察も提供します。 Inkeepと共に、顧客サポートとコンテンツインタラクションの未来を体験してください。",
+    "url": "https://tap4.ai/ja/ai/inkeep-com/",
+    "pass": 3
+   },
+   {
+    "quote": "Inkeepの開発者向けAI検索とチャット：次世代のユーザーエクスペリエ... — Nov 22, 2023 · Inkeepのチャット機能は、ユーザーとのリアルな対話を可能にし、ユーザーエクスペリエンスを向上させます。 開発者は対話フローを簡単に設計でき、ユーザーに質問したり情報を提供したりする柔軟性を持っています。",
+    "url": "https://note.com/aistartup/n/n727f42825add",
+    "pass": 3
+   },
+   {
+    "quote": "INKEEP — INKEEP Mushroom Matcha – Japanese Matcha with 7 Adaptogenic Mushrooms for Smooth Energy & Focus, 30 Servings",
+    "url": "https://drinkinkeep.com/",
+    "pass": 3
+   },
+   {
+    "quote": "About Inkeep - AI Agent Platform for CX & Ops — Learn about Inkeep's mission, founders, investors, and the platform that helps CX and Ops teams build AI agents in code or no-code.",
+    "url": "https://inkeep.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "About Us – INKEEP — INKEEP was born from a simple belief: your daily cup should do more than wake you up — it should fit your life. We blend premium instant coffee with 7 time-honored mushrooms like Lion's Mane, Cordyceps, Reishi and Chaga, crafted for a smooth, rich taste with zero earthy aftertaste.",
+    "url": "https://drinkinkeep.com/pages/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing - Inkeep Open Source Docs — Inkeep offers two ways to get started: Open Source (free forever), and Enterprise (managed platform with dedicated support).",
+    "url": "https://docs.inkeep.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Success Stories | Inkeep — See how enterprises use Inkeep AI Agents to automate support, boost efficiency, and deliver better customer experiences. Real results from real teams.",
+    "url": "https://inkeep.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Inkeep - Customer Case Study — Inkeep (Computer Software) partnered with Pinecone (Computer Software) to solve key challenges. \"Inkeep - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/pinecone/case-study/inkeep-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Inkeep B2B Case Studies & Customer Successes — See how Inkeep solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/inkeep",
+    "pass": 3
+   },
+   {
+    "quote": "Inkeep - AI Agents for CX & Ops — Can I deploy Inkeep as a customer support agent? How can I automate workflows with Inkeep Agents? The only Agent Platform where engineering and business teams can ship Agents together. Build with a No-Code Visual Builder or Developer Agents SDK with full 2-way sync.",
+    "url": "https://inkeep.com/",
+    "pass": 3
+   },
+   {
+    "quote": "4 Inkeep Case Studies, Success Stories, & Customer Stories ... — Narrow down 4 case studies by company size & industry to find out how Inkeep works for a business like yours.",
+    "url": "https://www.featuredcustomers.com/vendor/inkeep/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Inkeep 2026 Company Profile: Valuation, Funding & Investors ...Inkeep - 2025 Company Profile, Team, Funding & Competitors ...Inkeep: Funding, Team & Investors | Startup IntrosInkeep Revenue 2024: $1.5M Est. ARR - getlatka.cominkeep: Funding, Investors & Team (Oct 2026) | FundedIQInkeep Funding: $13.0M | Indexed.vcInkeep: Industry, Employees, Funding | Kustiq — Information on valuation, funding, ca",
+    "url": "https://pitchbook.com/profiles/company/523166-59",
+    "pass": 3
+   },
+   {
+    "quote": "Inkeep - 2025 Company Profile, Team, Funding & Competitors ... — Dec 2, 2025 · Explore Inkeep's in-depth company profile, including funding details, key investors, leadership, and competitors.",
+    "url": "https://tracxn.com/d/companies/inkeep/__P1ebt4WEUMSWie8DV3IXAJFKPdA7Hhx-jt8ZpJeQDN8",
+    "pass": 3
+   },
+   {
+    "quote": "Inkeep: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Inkeep was founded in 2023 by Nick Gomez and Robert Tran, who brought firsthand experience in customer support and product teams. They recognized the need for fast, high-quality support that balances great self-serve experiences with seamless human assistance.",
+    "url": "https://startupintros.com/orgs/inkeep",
+    "pass": 3
+   },
+   {
+    "quote": "Inkeep Revenue 2024: $1.5M Est. ARR - getlatka.com — Aug 10, 2026 · Inkeep generates an estimated $1.5M in annual revenue. Who founded Inkeep? Inkeep was founded by Nick Gomez. Who is the CEO of Inkeep? The CEO of Inkeep is Nick Gomez. How many employees does Inkeep have? Inkeep has 10 employees. Where is Inkeep headquarters? Inkeep is headquartered in New York, New York, United States.",
+    "url": "https://getlatka.com/companies/inkeep.com",
+    "pass": 3
+   },
+   {
+    "quote": "inkeep: Funding, Investors & Team (Oct 2026) | FundedIQ — inkeep has raised $13.5M across 3 funding rounds on record, the most recent a Seed of $13.0M announced in Sep 2025. That round is above the $6.4M median round size for Information Technology companies tracked on FundedIQ over the last two years.",
+    "url": "https://fundediq.co/inkeep-inkeep-com-funding/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "INKEEP Mushroom Matcha – Japanese Matcha with 7 Adaptogenic Mushrooms for Smooth Energy & Focus, 30 Servings",
+    "url": "https://drinkinkeep.com/",
+    "pass": 3
+   },
+   {
+    "quote": "INKEEP Mushroom Matcha – Japanese Matcha with 7 Adaptogenic Mushrooms for Smooth Energy & Focus, 30 Servings",
+    "url": "https://drinkinkeep.com/pages/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "その技術的革新性と、日本のビジネス・開発現場に与える示唆を掘り下げます",
+    "url": "https://note.com/pippinxpippin/n/n8c96b89ce0c3",
+    "pass": 3
+   },
+   {
+    "quote": "日本の現場・ビジネスへの応用アイデア（考察と活用シナリオ）",
+    "url": "https://note.com/pippinxpippin/n/n8c96b89ce0c3",
+    "pass": 3
+   },
+   {
+    "quote": "この「AIファースト×OSS」のアプローチは、特にドキュメント文化の属人化に悩む日本の現場において、強力なゲームチェンジャーになり得ます",
+    "url": "https://note.com/pippinxpippin/n/n8c96b89ce0c3",
+    "pass": 3
+   },
+   {
+    "quote": "日本のエンタープライズ企業、とりわけ製造業の設計ノウハウや金融機関の業務マニュアルは、セキュリティ上の理由からマルチテナント型のパブリックSaaS（Notion AIなど）に載せることが禁じられているケースが多々あります",
+    "url": "https://note.com/pippinxpippin/n/n8c96b89ce0c3",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内の企業が導入する場合、日本語の自然言語処理や固有の文書構造への適応に、追加のチューニングが必要となるかもしれません",
+    "url": "https://note.com/atosantasan/n/n591699432b2e",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、RAGの精度が向上することで、これまでAI導入に慎重だった日本の大企業も、",
+    "url": "https://note.com/atosantasan/n/n591699432b2e",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/523166-59",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Inkeepの開発者向けAI検索とチャット：次世代のユーザーエクスペリエ... Nov 22, 2023 · API統合や独自の検索アルゴリズムの実装が容易であり、開発者は製品をプロジェクトにシームレスに統合できます。 Inkeepの開発者向けAI検索とチャット製品は、次世代のユーザーエクスペリエンスを実現するためのパワフルなツールです。",
+    "url": "https://note.com/aistartup/n/n727f42825add",
+    "pass": 3
+   },
+   {
+    "quote": "NotionやObsidianの「次」へ。完全オープンソースのAIネイティブ知識... Oct 14, 2026 · それが、開発者向けAI検索プラットフォームを展開するInkeep社が公開した**『OpenKnowledge』**です。 彼らが掲げるコンセプトは、 「AI-first alternative to Obsidian/Notion」。",
+    "url": "https://note.com/pippinxpippin/n/n8c96b89ce0c3",
+    "pass": 3
+   },
+   {
+    "quote": "企業ナレッジ活用の新標準？AIエージェント構築フレームワーク「Inkee... Oct 16, 2025 · 米国 のAIスタートアップInkeepが、企業内のナレッジベース検索を高度化するためのオープンソースのAIエージェント構築フレームワーク「Inkeep Agents」をGitHubで公開しました。",
+    "url": "https://note.com/atosantasan/n/n591699432b2e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "NotionやObsidianの「次」へ。完全オープンソースのAIネイティブ知識基盤『OpenKnowledge』が提示する知的生産の新潮流｜たけ",
+    "url": "https://note.com/pippinxpippin/n/n8c96b89ce0c3",
+    "pass": 3
+   },
+   {
+    "quote": "NotionやObsidianの「次」へ。完全オープンソースのAIネイティブ知識基盤『OpenKnowledge』が提示する知的生産の新潮流",
+    "url": "https://note.com/pippinxpippin/n/n8c96b89ce0c3",
+    "pass": 3
+   },
+   {
+    "quote": "日々の情報整理やチームのドキュメント管理に、NotionやObsidianを使っている方は多いはずです。しかし、どれほど丁寧に整理しても、情報はやがて陳腐化し、検索性に限界が訪れ、いつの間にか「ドキュメントの墓場」と化してしまう――そんな課題に頭を抱えた経験はないでしょうか。",
+    "url": "https://note.com/pippinxpippin/n/n8c96b89ce0c3",
+    "pass": 3
+   },
+   {
+    "quote": "現在、海外の開発者コミュニティ（Hacker News）で380ポイント以上の熱い支持を集め、急浮上しているオープンソースプロジェクトがあります。それが、開発者向けAI検索プラットフォームを展開するInkeep社が公開した**『OpenKnowledge』**です。",
+    "url": "https://note.com/pippinxpippin/n/n8c96b89ce0c3",
+    "pass": 3
+   },
+   {
+    "quote": "「AI-first alternative to Obsidian/Notion」",
+    "url": "https://note.com/pippinxpippin/n/n8c96b89ce0c3",
+    "pass": 3
+   },
+   {
+    "quote": "。既存ツールにチャットボットを後付けしたものではなく、最初からAIと人間が協調して知識を編み上げる前提で設計された、完全オープンソースの次世代ナレッジベースです。",
+    "url": "https://note.com/pippinxpippin/n/n8c96b89ce0c3",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ今、NotionやObsidianが存在するにもかかわらず、新たなツールがこれほどエンジニアやナレッジワーカーの心を掴んでいるのか。その技術的革新性と、日本のビジネス・開発現場に与える示唆を掘り下げます。",
+    "url": "https://note.com/pippinxpippin/n/n8c96b89ce0c3",
+    "pass": 3
+   },
+   {
+    "quote": "はじめに：海外でいま何が注目されているのか？",
+    "url": "https://note.com/pippinxpippin/n/n8c96b89ce0c3",
+    "pass": 3
+   },
+   {
+    "quote": "企業ナレッジ活用の新標準？AIエージェント構築フレームワーク「Inkeep Agents」の衝撃｜atom",
+    "url": "https://note.com/atosantasan/n/n591699432b2e",
+    "pass": 3
+   },
+   {
+    "quote": "企業ナレッジ活用の新標準？AIエージェント構築フレームワーク「Inkeep Agents」の衝撃",
+    "url": "https://note.com/atosantasan/n/n591699432b2e",
+    "pass": 3
+   },
+   {
+    "quote": "最近、スーパーで旬の食材が並び始め、食卓に彩りが増すと気分が上がります。技術の世界も同様に、新しいフレームワークが登場するたびに、その進化に大きな期待感が高まります。",
+    "url": "https://note.com/atosantasan/n/n591699432b2e",
+    "pass": 3
+   },
+   {
+    "quote": "本日取り上げるのは、企業が持つ膨大なナレッジを、より正確かつ効率的に活用するための新しいAIフレームワークに関するニュースです。",
+    "url": "https://note.com/atosantasan/n/n591699432b2e",
+    "pass": 3
+   },
+   {
+    "quote": "のAIスタートアップInkeepが、企業内のナレッジベース検索を高度化するためのオープンソースのAIエージェント構築フレームワーク「Inkeep Agents」をGitHubで公開しました。これにより、開発者は自社のドキュメントやデータに基づいた、より賢く、信頼性の高いエージェントを迅速に構築できるようになります。",
+    "url": "https://note.com/atosantasan/n/n591699432b2e",
+    "pass": 3
+   },
+   {
+    "quote": "Inkeep Agentsは、企業ナレッジを高度に活用する技術の進化を示しています。",
+    "url": "https://note.com/atosantasan/n/n591699432b2e",
+    "pass": 3
+   },
+   {
+    "quote": "このフレームワークは、主に企業が持つ膨大な量のドキュメントやナレッジを活用し、ユーザーの質問に対して正確かつ関連性の高い回答を生成するためのツール群として提供されています。この",
+    "url": "https://note.com/atosantasan/n/n591699432b2e",
+    "pass": 3
+   },
+   {
+    "quote": "RAG（Retrieval-Augmented Generation：検索拡張生成）の高度な実装",
+    "url": "https://note.com/atosantasan/n/n591699432b2e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Inkeep | LinkedIn Inkeep Agents are deployed at scale today with leading companies like Anthropic, Midjourney, Clay, and PostHog to help with everything from customer support to in-product copilots to sales.",
+    "url": "https://www.linkedin.com/company/inkeep",
+    "pass": 3
+   },
+   {
+    "quote": "Nick G. - Founder @ Inkeep | MIT | Building Agents & KBs ...Robert Tran - Co-Founder, CTO @ Inkeep | MIT | LinkedInStaci A. Inskeep, MA - Executive VP Corporate Services | LinkedInTodd Inskeep - Incovate Solutions | LinkedInJoseph Inskeep, CFP - I help $5M+ business owners & ...Robert (Bob) Inskeep, PMP - Semi Retired | LinkedIn About Founder at Inkeep, the Agent Platform for CX and Knowledge Base",
+    "url": "https://www.linkedin.com/in/nickgomezc",
+    "pass": 3
+   },
+   {
+    "quote": "Robert Tran - Co-Founder, CTO @ Inkeep | MIT | LinkedInStaci A. Inskeep, MA - Executive VP Corporate Services | LinkedInTodd Inskeep - Incovate Solutions | LinkedInJoseph Inskeep, CFP - I help $5M+ business owners & ...Robert (Bob) Inskeep, PMP - Semi Retired | LinkedIn Co-Founder, CTO @ Inkeep | MIT · AI @ inkeep.com, we are hiring :) · Experience: Inkeep · Education: Massachusetts Institute of T",
+    "url": "https://www.linkedin.com/in/robert-tran-profile",
+    "pass": 3
+   },
+   {
+    "quote": "Nick G. - Founder @ Inkeep | MIT | Building Agents & KBs ...note 役員一覧 | 取締役7名の経歴と選任賛成比率Inkeep 2026 Company Profile: Valuation, Funding & Investors ...About us - note, inc.加藤貞顕 - Wikipedia Founder @ Inkeep | MIT | Building Agents & KBs · Founder at Inkeep, the Agent Platform for CX and Knowledge Bases. Backed by Khosla Ventures, YC, Greatpoint, and more. Oct 12, 2026 · 2000年4月にアスキーへ入社し、2005年9月にダイヤモ",
+    "url": "https://www.linkedin.com/in/nickgomezc?miniProfileUrn=urn:li:fs_miniProfile:ACoAABl-QosBa5DxR4V08WAO3QBw4OOcQjA0GGc",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Inkeep - Facebook Jul 31, 2014 · Inkeep. 40 followers. Inkeep is a singing/guitar group that consists of cousins, Katie Pusateri and Emma Pusateri. They mainly perform Indie and Classic...",
+    "url": "https://www.facebook.com/p/Inkeep-100079616684842/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "@inkeep | X The latest posts from @inkeep",
+    "url": "https://x.com/inkeep",
+    "pass": 3
+   },
+   {
+    "quote": "Inkeep on X: \"Debugging AI agents in production is broken ⚠️ ... Jan 8, 2026 · Debugging AI agents in production is broken ⚠️ Non-determinism, LLM latency, and token costs make traditional observability fall short. Join @inkeep × @signozhq for a live webinar on Debugging AI Agents: Observability Best Practices and see how teams trace agent execution, tool calls, latency, an…",
+    "url": "https://x.com/inkeep/status/2008977593173672164",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://inkeep.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inkeep.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inkeep.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inkeep.com/demo",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://inkeep.com/images/logos/logo-with-text-black.svg?dpl=dpl_3uNrQpttxHhbkwCwgUAYKaGJA6EX",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://inkeep.com/images/logos/logo-with-text-black.svg?dpl=dpl_3uNrQpttxHhbkwCwgUAYKaGJA6EX",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://inkeep.com/images/trusted-logos/postman.svg?dpl=dpl_3uNrQpttxHhbkwCwgUAYKaGJA6EX",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://inkeep.com/images/trusted-logos/anthropic.svg?dpl=dpl_3uNrQpttxHhbkwCwgUAYKaGJA6EX",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://generative-ai.co.jp/usecase/ai-startup-usecase-inkeep/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eesel.ai/ja/blog/inkeep-review",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tap4.ai/ja/ai/inkeep-com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://drinkinkeep.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://drinkinkeep.com/pages/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/pinecone/case-study/inkeep-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/inkeep",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/523166-59",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/inkeep/__P1ebt4WEUMSWie8DV3IXAJFKPdA7Hhx-jt8ZpJeQDN8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://startupintros.com/orgs/inkeep",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/inkeep.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/aistartup/n/n727f42825add",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/pippinxpippin/n/n8c96b89ce0c3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/atosantasan/n/n591699432b2e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/inkeep",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/nickgomezc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/robert-tran-profile",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Inkeep-100079616684842/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/nickgomezc?miniProfileUrn=urn:li:fs_miniProfile:ACoAABl-QosBa5DxR4V08WAO3QBw4OOcQjA0GGc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/inkeep",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/inkeep/status/2008977593173672164",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Inkeep 日本 導入",
+   "results": [
+    "https://generative-ai.co.jp/usecase/ai-startup-usecase-inkeep/",
+    "https://inkeep.com/",
+    "https://www.eesel.ai/ja/blog/inkeep-review",
+    "https://tap4.ai/ja/ai/inkeep-com/",
+    "https://note.com/aistartup/n/n727f42825add",
+    "https://woy.ai/ja/p/inkeep",
+    "https://note.com/atosantasan/n/n591699432b2e"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Inkeep 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本サムスン",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://biz.toyokeizai.net/data/service/detail/id=418",
+    "https://industrial.filtrationgroup.com/ja/联系我们/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Inkeep Japan",
+   "results": [
+    "https://drinkinkeep.com/",
+    "https://inkeep.com/",
+    "https://inkeep.com/about",
+    "https://drinkinkeep.com/pages/about-us",
+    "https://docs.inkeep.com/pricing",
+    "https://inkeepx.com/",
+    "https://www.ikea.com/jp/en/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Inkeep manufacturing customer case study",
+   "results": [
+    "https://inkeep.com/case-studies",
+    "https://www.casestudies.com/company/pinecone/case-study/inkeep-customer-case-study",
+    "https://www.casestudies.com/company/inkeep",
+    "https://inkeep.com/",
+    "https://www.featuredcustomers.com/vendor/inkeep/case-studies",
+    "https://www.sequencehq.com/customers/Why-Inkeep-chose-Sequence-to-scale-their-billing-and-revenue-workflow",
+    "https://www.featuredcustomers.com/vendor/inkeep",
+    "https://www.innkeeperllc.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Inkeep white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Inkeep founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/523166-59",
+    "https://tracxn.com/d/companies/inkeep/__P1ebt4WEUMSWie8DV3IXAJFKPdA7Hhx-jt8ZpJeQDN8",
+    "https://startupintros.com/orgs/inkeep",
+    "https://getlatka.com/companies/inkeep.com",
+    "https://fundediq.co/inkeep-inkeep-com-funding/",
+    "https://indexed.vc/companies/inkeep",
+    "https://kustiq.com/company/inkeep.com"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Inkeep",
+   "results": [
+    "https://note.com/aistartup/n/n727f42825add",
+    "https://note.com/akira_umapro",
+    "https://note.com/pippinxpippin/n/n8c96b89ce0c3",
+    "https://note.com/atosantasan/n/n591699432b2e",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/weiden_haus_lab/n/n9a53e02f8bdf",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Inkeep",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Inkeep",
+   "results": [
+    "https://www.linkedin.com/company/inkeep",
+    "https://www.linkedin.com/in/nickgomezc",
+    "https://www.linkedin.com/in/robert-tran-profile",
+    "https://www.linkedin.com/in/staciinskeep",
+    "https://www.linkedin.com/in/toddinskeep",
+    "https://www.linkedin.com/in/bobinskeep",
+    "https://www.linkedin.com/in/joseph-inskeep-cfp-216b58406"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Inkeep",
+   "results": [
+    "https://www.facebook.com/p/Inkeep-100079616684842/",
+    "https://www.facebook.com/KyleInskeepTV/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/p/Inskeep-Land-Management-61575811626223/",
+    "https://www.facebook.com/kerry.inskeep/",
+    "https://www.facebook.com/stacinskeep/",
+    "https://www.facebook.com/Innskeep/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Inkeep note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://inkeep.com/team",
+    "https://inkeep.com/about",
+    "https://www.linkedin.com/in/nickgomezc?miniProfileUrn=urn:li:fs_miniProfile:ACoAABl-QosBa5DxR4V08WAO3QBw4OOcQjA0GGc",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://pitchbook.com/profiles/company/523166-59",
+    "https://ir.note.jp/en/aboutus"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Inkeep X 投稿",
+   "results": [
+    "https://x.com/inkeep",
+    "https://inkeepx.com/",
+    "https://inkeep.com/",
+    "https://x.com/inkeep/status/2008977593173672164",
+    "https://x.com/Inkeep_",
+    "https://x.com/KEEPOUTjp",
+    "https://note.com/mgane/n/n1c0d7384c8a0"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部29頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部29頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部29頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部29頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部29頁・検索12回）"
+ }
+}

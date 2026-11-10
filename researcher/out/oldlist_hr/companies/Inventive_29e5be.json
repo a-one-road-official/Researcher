@@ -1,0 +1,1990 @@
+{
+ "name": "Inventive",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜返信あり",
+ "researched_at": "2026-11-10T14:28:21.954270+00:00",
+ "official_url": "https://www.inventive.ai",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Inventive AI provides the unified context and execution infrastructure your team needs to automate busywork, align on a single source of truth, and close deals faster.",
+    "url": "https://www.inventive.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate your sales process",
+    "url": "https://www.inventive.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI RFP software that turns enterprise knowledge into winning responses, helping teams win 50% more RFPs.",
+    "url": "https://www.inventive.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Product demo · Inventive RFP",
+    "url": "https://www.inventive.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Faster content maintenance",
+    "url": "https://www.inventive.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven Response Quality",
+    "url": "https://www.inventive.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Sync your previously submitted RFPs and content from SharePoint, Notion, and Google Drive in one click. AI uses the Knowledge Hub to respond directly to RFPs.",
+    "url": "https://www.inventive.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Stop chasing Product, IT, and Legal for RFP answers.",
+    "url": "https://www.inventive.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The AI writes the baseline draft using your past winning RFPs. Just tag the right expert to review it, approve it, and move on.",
+    "url": "https://www.inventive.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Content Governance",
+    "url": "https://www.inventive.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Stop worrying if your team is quoting last year’s project data or outdated company facts. The AI automatically flags conflicting and outdated information.",
+    "url": "https://www.inventive.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Before you commit, our AI instantly reads the requirements and accurately qualifies the bid so you don’t have to read 100 pages of specs. After you submit, our Compliance agent runs the final checks.",
+    "url": "https://www.inventive.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Hallucination prevented",
+    "url": "https://www.inventive.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Section 6 · Data protection",
+    "url": "https://www.inventive.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Give a short summary about what your product does?",
+    "url": "https://www.inventive.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Inventive AI automatically generates first-draft responses to common RFP questions by analyzing the RFP and drawing on approved knowledge sources.",
+    "url": "https://www.inventive.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Does the policy allow an engineer to approve their own code change?",
+    "url": "https://www.inventive.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "For minor, low-risk changes, an engineer may review and approve their own code changes.",
+    "url": "https://www.inventive.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Code changes must be reviewed by someone other than the originating author, and production changes need owner approval.",
+    "url": "https://www.inventive.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "How often must engineers complete secure coding training?",
+    "url": "https://www.inventive.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Self-Approval Permission Conflict",
+    "url": "https://www.inventive.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Source 1 lets engineers approve their own minor changes. Source 2 requires a reviewer other than the code author.",
+    "url": "https://www.inventive.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "For minor, low-risk changes, engineers may approve their own code changes without a second reviewer.",
+    "url": "https://www.inventive.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“For minor, low-risk changes, engineers may approve their own code changes…”",
+    "url": "https://www.inventive.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Code changes are reviewed by individuals other than the originating code author. Production changes require owner approval.",
+    "url": "https://www.inventive.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "RFP Software for Solutions Engineers and Presales Teams",
+    "url": "https://www.inventive.ai/solution/solution-engineers",
+    "pass": 1
+   },
+   {
+    "quote": "AI agents for sales engineers that draft cited technical answers from your documentation, past responses, and approved content.",
+    "url": "https://www.inventive.ai/solution/solution-engineers",
+    "pass": 1
+   },
+   {
+    "quote": "Proven Results That Transform Your Workflow",
+    "url": "https://www.inventive.ai/solution/solution-engineers",
+    "pass": 1
+   },
+   {
+    "quote": "SEs answer the same technical question for the fortieth time because past answers live in closed deals and old spreadsheets.",
+    "url": "https://www.inventive.ai/solution/solution-engineers",
+    "pass": 1
+   },
+   {
+    "quote": "Each draft cites the documentation page or prior response behind it, so verification is a click.",
+    "url": "https://www.inventive.ai/solution/solution-engineers",
+    "pass": 1
+   },
+   {
+    "quote": "Buyer templates preserved",
+    "url": "https://www.inventive.ai/solution/solution-engineers",
+    "pass": 1
+   },
+   {
+    "quote": "Measure presales capacity, not just response volume",
+    "url": "https://www.inventive.ai/solution/solution-engineers",
+    "pass": 1
+   },
+   {
+    "quote": "Presales leaders need evidence for the ratio conversation, not anecdotes.",
+    "url": "https://www.inventive.ai/solution/solution-engineers",
+    "pass": 1
+   },
+   {
+    "quote": "Inventive has been a game changer. We have been 3X more productive",
+    "url": "https://www.inventive.ai/solution/solution-engineers",
+    "pass": 1
+   },
+   {
+    "quote": "Cited drafts from product docs and past wins, with gaps routed to the owning engineer.",
+    "url": "https://www.inventive.ai/solution/solution-engineers",
+    "pass": 1
+   },
+   {
+    "quote": "Control questions matched to approved evidence, so assessments stop defaulting to presales.",
+    "url": "https://www.inventive.ai/solution/solution-engineers",
+    "pass": 1
+   },
+   {
+    "quote": "Reps self-serve approved technical answers instead of pinging their SE.",
+    "url": "https://www.inventive.ai/solution/solution-engineers",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Reps can self-serve cited, approved answers in Slack, so routine questions stop interrupting engineers.",
+    "url": "https://www.inventive.ai/solution/solution-engineers",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Control-level questions are matched to approved security evidence, with citations reviewers can check.",
+    "url": "https://www.inventive.ai/solution/solution-engineers",
+    "pass": 1
+   },
+   {
+    "quote": "No. Knowledge agents watch the source documents, flag stale or conflicting answers, and route fixes to whoever owns the content.",
+    "url": "https://www.inventive.ai/solution/solution-engineers",
+    "pass": 1
+   },
+   {
+    "quote": "No. Your content is not used to train models for other customers.",
+    "url": "https://www.inventive.ai/solution/solution-engineers",
+    "pass": 1
+   },
+   {
+    "quote": "Inventive AI Pricing - Simple, Usage-Based RFP Software Plans",
+    "url": "https://www.inventive.ai/inventive-ai-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Simple, Usage-Based Pricing.",
+    "url": "https://www.inventive.ai/inventive-ai-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How Our Pricing Works",
+    "url": "https://www.inventive.ai/inventive-ai-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Transparent pricing that grows with you — no surprises.",
+    "url": "https://www.inventive.ai/inventive-ai-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing scales with your usage. No hidden costs, no complex tiers.",
+    "url": "https://www.inventive.ai/inventive-ai-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "A flat fee covers setup, onboarding, and access to all features. Then you only pay for what you use.",
+    "url": "https://www.inventive.ai/inventive-ai-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Get a Personalized Price Estimate",
+    "url": "https://www.inventive.ai/inventive-ai-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Our pricing is usage-based, starting from $830/month/billed annually with unlimited users. Book a 15-minute call and we'll build a custom quote for your team.",
+    "url": "https://www.inventive.ai/inventive-ai-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Book a 15-Minute Pricing Call",
+    "url": "https://www.inventive.ai/inventive-ai-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Get the complete platform from day one, with every feature, integration, and update included — no add-ons, no limits, no surprises.",
+    "url": "https://www.inventive.ai/inventive-ai-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "AI Content Engine — human-like RFP responses",
+    "url": "https://www.inventive.ai/inventive-ai-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "AI Content Manager — flags stale & outdated content",
+    "url": "https://www.inventive.ai/inventive-ai-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Full Project Management — assign, review, track with enterprise security",
+    "url": "https://www.inventive.ai/inventive-ai-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Narrative-Style Responses — proposal-style outputs",
+    "url": "https://www.inventive.ai/inventive-ai-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Need Enterprise or Custom Pricing?",
+    "url": "https://www.inventive.ai/inventive-ai-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For large-scale teams with complex workflows, we offer tailored pricing and dedicated support. Our team will work with you to create a plan that scales with your needs.",
+    "url": "https://www.inventive.ai/inventive-ai-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Product Owner, Assetworks",
+    "url": "https://www.inventive.ai/inventive-ai-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Manager - Global Proposals, HiBob",
+    "url": "https://www.inventive.ai/inventive-ai-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "“We have doubled the number of opportunities we can realistically manage because the process is now so efficient.”",
+    "url": "https://www.inventive.ai/inventive-ai-pricing",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by leaders building AI-native teams",
+    "url": "https://www.inventive.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Enterprises Across the Globe",
+    "url": "https://www.inventive.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the best in business",
+    "url": "https://www.inventive.ai/solution/solution-engineers",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Forward-Thinking, Fast-Growing Teams Worldwide",
+    "url": "https://www.inventive.ai/inventive-ai-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Teams that Win RFPs",
+    "url": "https://www.inventive.ai/inventive-ai-pricing",
+    "pass": 1
+   },
+   {
+    "quote": ", the team drafts every answer from live product documentation instead of a folder of old responses. This case study is based on conversations with",
+    "url": "https://www.inventive.ai/customer-stories/case-studies/how-novara-scaled-from-a-handful-of-rfps-to-75-100-a-year-with-the-same-five-solutions-engineers",
+    "pass": 1
+   },
+   {
+    "quote": "Novara builds Flex, a safety and operational risk management platform for industries such as construction, manufacturing, utilities, and oil and gas. A specialized five-person solutions engineering team answers its product RFPs and IT security questionnaires.",
+    "url": "https://www.inventive.ai/customer-stories/case-studies/how-novara-scaled-from-a-handful-of-rfps-to-75-100-a-year-with-the-same-five-solutions-engineers",
+    "pass": 1
+   },
+   {
+    "quote": ", AssetWorks moved beyond legacy RFP content libraries and began generating high-quality, current, requirement-specific responses from trusted source content. This case study is based on a conversation with",
+    "url": "https://www.inventive.ai/case-studies/how-assetworks-facilities-achieved-422-roi-on-rfp-automation-with-inventive-ai",
+    "pass": 1
+   },
+   {
+    "quote": "AssetWorks Facilities is an integrated workplace management system serving higher education institutions. Its customers include colleges and universities managing complex facilities operations across millions of square feet of space, long-term leases, capital construction, asset condition assessments, energy costs, space utilization, and more.",
+    "url": "https://www.inventive.ai/case-studies/how-assetworks-facilities-achieved-422-roi-on-rfp-automation-with-inventive-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Maxval IP Services Case Study: 90% Faster RFP Responses with Inventive AI",
+    "url": "https://www.inventive.ai/case-studies/best-rfp-software--90-faster-rfps-0-weekend-hours-lost",
+    "pass": 1
+   },
+   {
+    "quote": ", Solifi labels content by product line so each RFP draws only from the right source. This case study is based on conversations with",
+    "url": "https://www.inventive.ai/customer-stories/case-studies/how-solifi-replaced-loopio-with-inventive-ai-rfp-software-to-stop-cross-product-answers-in-a-multi-product-business",
+    "pass": 1
+   },
+   {
+    "quote": "as its proposal software for federal contractors, the team now drafts from 20 years of its own past performance. This case study is based on conversations with",
+    "url": "https://www.inventive.ai/customer-stories/case-studies/bidding-on-federal-construction-contracts-why-seg-traded-chatgpt-for-purpose-built-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 100+ leaders building AI-native teams",
+    "url": "https://www.inventive.ai/demo",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Forward-Thinking, Fast-Growing Teams Worldwide",
+    "url": "https://www.inventive.ai/demo",
+    "pass": 1
+   },
+   {
+    "quote": "inventor of an invention that is industrially applicable may be entitled to obtain",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "An inventor of an invention that is industrially applicable may be entitled to obtain",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "invention by observing the m anufacturing process of the invention at a plant opened to",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "receiving information of the in vention, when a person visiting a plant to see a manufacturing",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "the inside from plant workers who would not refuse explanation.",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "received by the JPO Industrial Property Library prio r to the filing of the ap plication for patent of",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3) Claims defining products by the manufacturing processes (product-by-process claims)",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "It is understood that claims defining produc ts by the manufacturing processes means",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "other manufacturing processes are able to produc e an identical product to that of the claimed",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "manufacturing process and the product is publicly known.",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "inventions, these products are described only by the methods of manufacturing processes (such",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "[Example 1] \"Protein manufactured by a manufacturing process P (with steps p1, p2, …and pn)\"",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Note: Common functions or characteristics ar e defined by JIS (Japanese Industrial Standards),",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "among person skilled in the art is those commonly used by the a person skilled in the art with the",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "inventions providing an identical manufacturing process and a simila r starting material to those",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "described in the working examples, or cited inv entions providing a similar manufacturing process",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4) Claims defining the products by manufacturing processes",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "in the claims defining the produc ts by manufacturing processes. For these claims, as mentioned",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "manufactured by the same manufacturing process as those of the claimed inventions;",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "as and manufactured by the similar manufacturing process to those of the claimed inventions;",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "[Example 2] Using cloth or paper as base materials for binding plants, which does not contain",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "same manufacturing process as and a similar starting material to those des cribed in the working",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "examples, or cited inventions providing a sim ilar manufacturing process and identical starting",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2.7 Approach to Claims Defining Products by Manufacturing Processes",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "provided in the claims defining the products by manufacturing processes. For these claims, as",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Inventive Automation achieves flexible, rapidly reconfigurable automation with Vention | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/vention/case-study/inventive-automation-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Inventive Automation achieves flexible, rapidly reconfigurable automation with Vention",
+    "url": "https://www.casestudies.com/company/vention/case-study/inventive-automation-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Inventive Automation - Customer Case Study",
+    "url": "https://www.casestudies.com/company/vention/case-study/inventive-automation-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/vention/case-study/inventive-automation-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/vention/case-study/inventive-automation-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/inventive/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Robotics is an AI driven robotics company rebuilding manufacturing with advanced assembly automation…",
+    "url": "https://fundediq.co/inventive-madeinventive-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "However, if the raw materials and manufacturing conditions are not sufficiently described in the specification, and a person skilled in the art does not know what to do even if they try to make the composition.",
+    "url": "https://note.com/bright_badger230/n/nb98c4c8f2d39?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "AI revenue execution.",
+    "url": "https://www.inventive.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Try AI Revenue Execution",
+    "url": "https://www.inventive.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Broad surveys put it around 5 to 15 percent of SE time, but it arrives in concentrated bursts: an 800-question assessment can absorb a full week of one engineer. Inventive drafts the documented share automatically, which is usually most of it.",
+    "url": "https://www.inventive.ai/solution/solution-engineers",
+    "pass": 1
+   },
+   {
+    "quote": "Narrative-Style Responses — proposal-style outputs",
+    "url": "https://www.inventive.ai/inventive-ai-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "See how teams respond faster, reduce ops, and increase revenue with Inventive.",
+    "url": "https://www.inventive.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "A two-person proposal team now runs every RFP for Fortune 500 clients through one AI platform.",
+    "url": "https://www.inventive.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Our Story | Inventive AI – RFP AI for Revenue Teams",
+    "url": "https://www.inventive.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Building the AI platform enterprises trust to accelerate revenue.",
+    "url": "https://www.inventive.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Inventive AI turns trusted enterprise knowledge into accurate, high-quality responses helping teams move faster while building the intelligence layer for revenue execution.",
+    "url": "https://www.inventive.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Dhiren Bhatia felt operational complexity slow enterprise growth firsthand building Viewics, acquired by Roche. Gaurav Nemade helped shape one of the world’s first LLMs as founding Product Manager for Google Brain’s LaMDA (Google DeepMind), from Mountain View. Vishakh Hegde paired Stanford AI research with production ML at Ambient AI.",
+    "url": "https://www.inventive.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "The technology behind our platform is built on a broader belief: every revenue team should have instant access to trusted organizational knowledge, applied with the context of every opportunity.",
+    "url": "https://www.inventive.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Founded Viewics, acquired by Roche. Based in San Francisco. Builds enterprise software that helps organizations decide faster, at scale.",
+    "url": "https://www.inventive.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": ", the safety and operational risk software company behind the Flex platform, enterprise RFPs and IT security questionnaires were suddenly arriving far more often. Its five-person solutions engineering team was used to a couple of RFPs a year, not 75-100. With",
+    "url": "https://www.inventive.ai/customer-stories/case-studies/how-novara-scaled-from-a-handful-of-rfps-to-75-100-a-year-with-the-same-five-solutions-engineers",
+    "pass": 1
+   },
+   {
+    "quote": "When a security questionnaire arrives, the SE team drops it into Inventive AI, which drafts every answer from a curated SharePoint folder of live product documentation. Projects launch from Salesforce and access runs through SSO via Inventive's",
+    "url": "https://www.inventive.ai/customer-stories/case-studies/how-novara-scaled-from-a-handful-of-rfps-to-75-100-a-year-with-the-same-five-solutions-engineers",
+    "pass": 1
+   },
+   {
+    "quote": "Scaled RFP output without adding headcount, reclaiming the equivalent of 1.5–2 full-time employees.",
+    "url": "https://www.inventive.ai/case-studies/how-assetworks-facilities-achieved-422-roi-on-rfp-automation-with-inventive-ai",
+    "pass": 1
+   },
+   {
+    "quote": "The team scaled RFP output without adding headcount, reclaiming the equivalent capacity of 1.5–2 full-time employees.",
+    "url": "https://www.inventive.ai/case-studies/how-assetworks-facilities-achieved-422-roi-on-rfp-automation-with-inventive-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Because higher education institutions often require competitive procurement processes for software of this size and complexity, RFPs are a critical part of AssetWorks' go-to-market motion. The team responds to roughly",
+    "url": "https://www.inventive.ai/case-studies/how-assetworks-facilities-achieved-422-roi-on-rfp-automation-with-inventive-ai",
+    "pass": 1
+   },
+   {
+    "quote": ", making RFP execution a direct driver of pipeline and revenue.",
+    "url": "https://www.inventive.ai/case-studies/how-assetworks-facilities-achieved-422-roi-on-rfp-automation-with-inventive-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Inventive helped AssetWorks reclaim the equivalent capacity of 1.5–2 full-time employees. Instead of adding headcount to keep up with RFP demand, the team can now use Inventive to complete more work with the people already involved in the process.",
+    "url": "https://www.inventive.ai/case-studies/how-assetworks-facilities-achieved-422-roi-on-rfp-automation-with-inventive-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Inventive AI helps revenue, solutions, proposal, and technical teams respond to complex",
+    "url": "https://www.inventive.ai/case-studies/how-assetworks-facilities-achieved-422-roi-on-rfp-automation-with-inventive-ai",
+    "pass": 1
+   },
+   {
+    "quote": "But when MaxVal's previous RFP tool, Avnio, was acquired and sunsetted by Loopio, the team had to find a replacement. After evaluating",
+    "url": "https://www.inventive.ai/case-studies/best-rfp-software--90-faster-rfps-0-weekend-hours-lost",
+    "pass": 1
+   },
+   {
+    "quote": "Because MaxVal sells into customers with sophisticated legal, technical, and operational requirements, RFPs and security questionnaires are a critical part of the business. The team handles",
+    "url": "https://www.inventive.ai/case-studies/best-rfp-software--90-faster-rfps-0-weekend-hours-lost",
+    "pass": 1
+   },
+   {
+    "quote": "For MaxVal, RFP response is not just proposal work. It is a high-volume, high-pressure process tied directly to customer acquisition and trust.",
+    "url": "https://www.inventive.ai/case-studies/best-rfp-software--90-faster-rfps-0-weekend-hours-lost",
+    "pass": 1
+   },
+   {
+    "quote": "The team's previous RFP tool, Avnio, had been acquired and sunsetted by Loopio. As MaxVal evaluated replacement options, Susan looked at the obvious alternatives — and each tool still relied on the same underlying model: Q&A pairs.",
+    "url": "https://www.inventive.ai/case-studies/best-rfp-software--90-faster-rfps-0-weekend-hours-lost",
+    "pass": 1
+   },
+   {
+    "quote": "On the day of the customer conversation, Susan had just finished an 80-question RFP that arrived the same morning. She started at 9:00 AM. It was done by 12:15 PM.",
+    "url": "https://www.inventive.ai/case-studies/best-rfp-software--90-faster-rfps-0-weekend-hours-lost",
+    "pass": 1
+   },
+   {
+    "quote": "skips the dependency on Q&A pairs — it reads the RFP, understands what is being asked, and writes a tailored draft from source materials. The first draft arrives quickly and requires editing instead of writing from scratch. (See the full breakdown in our",
+    "url": "https://www.inventive.ai/case-studies/best-rfp-software--90-faster-rfps-0-weekend-hours-lost",
+    "pass": 1
+   },
+   {
+    "quote": "Inventive AI helps proposal, revenue, customer success, solutions, and security teams respond to complex",
+    "url": "https://www.inventive.ai/case-studies/best-rfp-software--90-faster-rfps-0-weekend-hours-lost",
+    "pass": 1
+   },
+   {
+    "quote": "What used to be a dreaded slog is now a more exciting, streamlined process. The solutions team feels energized when a new RFP arrives, knowing Inventive AI has tamed the “gargantuan effort” these projects used to require. Collaboration is easier, workload is lighter, and the team can take on more RFPs without burnout.",
+    "url": "https://www.inventive.ai/case-studies/insider-achieves-50-higher-win-rate-90-faster-rfp-responses-with-inventive-ai",
+    "pass": 1
+   },
+   {
+    "quote": ". Because it syncs with SharePoint automatically, the knowledge base stays current without manual uploads, and every drafted answer cites the part of SEG's track record it came from.",
+    "url": "https://www.inventive.ai/customer-stories/case-studies/bidding-on-federal-construction-contracts-why-seg-traded-chatgpt-for-purpose-built-ai",
+    "pass": 1
+   },
+   {
+    "quote": "operation cannot understand one part of the manuf acturing process from the appearance of the",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "apparatus and the part of the proc ess is necessary to know the in vention as a whole, the person",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "could easily arrive at the use of the product of the invention based on any known attribute or",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "a publication\" is part of the alternatives in t he claims described in the Markush form, it is",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "of the invention and the descripti ons in drawings as modes carrying out the claimed inventions,",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "could easily arrive at the claim ed inventions by exercising their ordinary creativity on the basis of",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "reasoned that person skilled in the art is able to easily arrive at the claimed inventions based on",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "apparatus for emergency vehicles, it is admitted that a person skilled in the art could easily arrive",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "for showing that a person skilled in the art coul d arrive at the claim ed invention based on the",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "the art easily arrive unless any outstanding structure is adopted for applying the element.",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "could arrive by applying or combining the cited inventions.",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "technical problem is at which a person skilled in the art could easily arrive.",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Accordingly, it should be said that a person skilled in the art can very easily arrive at a conversion",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "or an obvious problem of the structure of the device. A person skilled in the art could easily arrive",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "attempted to be analyzed for reasoning that a person skilled in the art could have easily arrived at",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "that the a person skilled in the art could have easily arrived at the claimed inventions is",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "skilled in the art could easily arrive at from c onstitutions that are publicly known and described in",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "descriptions that hinder a person skilled in the art from easily arriving at the claimed inventions.",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "arriving at the claimed inventions could be conducted based on other viewpoints, such as related",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "that hinder a person skilled in the ar t from easily arriving at the clai med inventions at first glance,",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "impossible to carry out the experiment under the same conditions as those described in",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "established for the measurement or when it is impossible to carry out the experiment",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "When tourists visit Japan, one of the first things they usually mention is how amazing the toilets are here. Toto is the company responsible for these innovative lavatories that feature automatic lids, heated seats and music to hide any embarrassing noises. It was the creation of the washlet in",
+    "url": "https://www.tokyoweekender.com/art_and_culture/10-japanese-inventions-that-changed-how-we-live/",
+    "pass": 3
+   },
+   {
+    "quote": "Slalom is a $1B company with over 5,000 employees, and they’re regularly recognized as a best place to work. They are a purpose-driven consulting firm that helps companies solve business …",
+    "url": "https://www.featuredcustomers.com/vendor/inventive/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/inventive/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Inventive has 8 total employees.",
+    "url": "https://pitchbook.com/profiles/company/493356-07",
+    "pass": 3
+   },
+   {
+    "quote": "What is Inventive’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/493356-07",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Inventive is",
+    "url": "https://pitchbook.com/profiles/company/493356-07",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Inventive have?",
+    "url": "https://fundediq.co/inventive-madeinventive-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/inventive-madeinventive-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/inventive-madeinventive-com-funding/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Search by name or email",
+    "url": "https://www.inventive.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Insider is a global leader in personalized marketing, helping brands “turbocharge conversations, boost engagement, and transform overall customer experiences across web, mobile, and email channels, enabling them to grow smarter and faster.”",
+    "url": "https://www.inventive.ai/case-studies/insider-achieves-50-higher-win-rate-90-faster-rfp-responses-with-inventive-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/inventive/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/inventive/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/493356-07",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/inventive-madeinventive-com-funding/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Five-volume technical proposals for agencies like the Army Corps of Engineers.",
+    "url": "https://www.inventive.ai/customer-stories/case-studies/bidding-on-federal-construction-contracts-why-seg-traded-chatgpt-for-purpose-built-ai",
+    "pass": 1
+   },
+   {
+    "quote": ", a Northern Virginia design-build contractor working for federal agencies including the US Army Corps of Engineers, winning work means producing dense, five-volume technical proposals for multiple-award task order contracts (MATOCs). ChatGPT helped a little, but it didn't know SEG. With",
+    "url": "https://www.inventive.ai/customer-stories/case-studies/bidding-on-federal-construction-contracts-why-seg-traded-chatgpt-for-purpose-built-ai",
+    "pass": 1
+   },
+   {
+    "quote": "SEG is a woman-owned, 8(a)-certified design-build contractor [confirm 8(a) status] based in Northern Virginia, founded in 2005 as a structural engineering firm. It works on federal projects for agencies including the US Army Corps of Engineers and pursues about 25 large projects a year, many through multiple-award task order contracts.",
+    "url": "https://www.inventive.ai/customer-stories/case-studies/bidding-on-federal-construction-contracts-why-seg-traded-chatgpt-for-purpose-built-ai",
+    "pass": 1
+   },
+   {
+    "quote": "QualSights is an immersive insights platform that enables companies, agencies, and consulting firms to gather…",
+    "url": "https://fundediq.co/inventive-madeinventive-com-funding/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本語WordNet(英和)での「inventive」の意味",
+    "url": "https://ejje.weblio.jp/content/inventive",
+    "pass": 3
+   },
+   {
+    "quote": "日本語WordNet(英和)での「inventive]」の英訳",
+    "url": "https://ejje.weblio.jp/content/inventive%5D",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Inventive Partner",
+    "url": "https://inventive-partner.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese text shall prevail.",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(i) inventions that were publicly known in Japanprior to the filing of the patent application;",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(ii) inventions that were publicly worked in Japan prior to the filing of the patent",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(iii) inventions that were described in distributed publication in Japan or a foreign country",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(i) inventions that were publicly known in Japanor a foreign country prior to the filing of",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(ii) inventions that were publicly worked in Japan or a foreign country prior to the filing of",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "made publicly available through an electric telecommunication line in Japan or a foreign",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Japan is filed for application in the afternoon of that same day, the invention is deemed to be the",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Original Japanese text was revised in 6.2006",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "one publicly known in Japan prior to the filing of the patent applic ation. Also, when an invention",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "that has been distributed abroad through publications in the morn ing in Japan is filed in the",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(i) For foreign publications with an exact date when they were brought from abroad to Japan, the",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Japan, considering the period normally taken for shipping the publications from abroad to Japan;",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(Reference: Decision by the Tokyo High Court, December 21, 1993 [Heisei 4 (Gyo Ke) 116])",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(Reference: Decision by the Tokyo High Court, April 24, 1990 [Heisei 1 (Gyo Ke) 42])",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(Reference: Decision by the Tokyo High Court, October 19, 1995",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(Reference: Decision by the Tokyo High Court, April 15, 1970 [Showa 41 (Gyo Ke) 62])",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(Reference: Decision by the Tokyo High Court, April 6, 1977 [Showa 47 (Gyo Ke) 33])",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(Reference: Decision by the Tokyo High Court, November 26, 1981",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Decision by the Tokyo High Court, July 8, 1997 [Heisei 7 (Gyo Ke) 27]) This approach should",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Court decisions for reference: Decisions by the Tokyo High Court, April 25, 2001 [Heisei",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10 (Gyo Ke) 401]; Tokyo District Court, October 23, 1992 [Heisei 2 (Wa) 12094]; Tokyo High",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Court, July 13, 2000 [Heisei 10 (Gyo Ke) 308]; Tokyo High Court, February 10, 2000 [Heisei",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(Decision by the Tokyo High Court, August 27, 2003 [Heisei 14 (Gyo Ke) 376].)",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(Reference: Decision by the Tokyo High Court, November 29, 1982",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Inventions That Changed Our Lives | Tokyo Weekender",
+    "url": "https://www.tokyoweekender.com/art_and_culture/10-japanese-inventions-that-changed-how-we-live/",
+    "pass": 3
+   },
+   {
+    "quote": "10 Japanese Inventions That Changed the Way We Live",
+    "url": "https://www.tokyoweekender.com/art_and_culture/10-japanese-inventions-that-changed-how-we-live/",
+    "pass": 3
+   },
+   {
+    "quote": "A look into the history of our favorite Japanese inventions",
+    "url": "https://www.tokyoweekender.com/art_and_culture/10-japanese-inventions-that-changed-how-we-live/",
+    "pass": 3
+   },
+   {
+    "quote": "looks back at some of our other favorite Japanese inventions in the",
+    "url": "https://www.tokyoweekender.com/art_and_culture/10-japanese-inventions-that-changed-how-we-live/",
+    "pass": 3
+   },
+   {
+    "quote": ") left simultaneously from Tokyo and Shin-Osaka stations, marking the inauguration of the 0 Series Shinkansen. Launched nine days before the",
+    "url": "https://www.tokyoweekender.com/art_and_culture/10-japanese-inventions-that-changed-how-we-live/",
+    "pass": 3
+   },
+   {
+    "quote": "opening ceremony, these trains reached speeds of up to 130 miles per hour (210 kph), making it possible to get from the capital to Osaka in around four hours, almost three hours shorter than the conventional limited express. Today that journey can be done in two and a half hours on the Nozomi bullet train with a top speed of close to 200 miles per hour. (320 kph).",
+    "url": "https://www.tokyoweekender.com/art_and_culture/10-japanese-inventions-that-changed-how-we-live/",
+    "pass": 3
+   },
+   {
+    "quote": "one of Japan’s state-of-the-art trains.",
+    "url": "https://www.tokyoweekender.com/art_and_culture/10-japanese-inventions-that-changed-how-we-live/",
+    "pass": 3
+   },
+   {
+    "quote": "When tourists visit Japan, one of the first things they usually mention is how amazing the toilets are here. Toto is the company responsible for these innovative lavatories that feature automatic lids, heated seats and music to hide any embarrassing noises. It was the creation of the washlet in",
+    "url": "https://www.tokyoweekender.com/art_and_culture/10-japanese-inventions-that-changed-how-we-live/",
+    "pass": 3
+   },
+   {
+    "quote": "An anglicized version of two Japanese words meaning “picture character,” emojis first appeared in Japan at the end of the 20th Century. The SkyWalker DP-211 SW, released by Softbank (then known as J-Phone) on November 1, 1997, was believed to be the first",
+    "url": "https://www.tokyoweekender.com/art_and_culture/10-japanese-inventions-that-changed-how-we-live/",
+    "pass": 3
+   },
+   {
+    "quote": "Impressive Japanese inventions over the past 75 years that just missed out on the list include the QR code system, pocket calculators, sat-nav, the digital single-lens reflex camera, camera phones, selfie sticks, VHS, CDs, DVDs, canned coffee and instant noodles — to name just a few.",
+    "url": "https://www.tokyoweekender.com/art_and_culture/10-japanese-inventions-that-changed-how-we-live/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Back Then: The Stories that Gripped the Nation in the 1980s",
+    "url": "https://www.tokyoweekender.com/art_and_culture/10-japanese-inventions-that-changed-how-we-live/",
+    "pass": 3
+   },
+   {
+    "quote": "Mirukashi Salon: An Extraordinary Retreat in Rural Japan",
+    "url": "https://www.tokyoweekender.com/art_and_culture/10-japanese-inventions-that-changed-how-we-live/",
+    "pass": 3
+   },
+   {
+    "quote": "Osaka’s Iconic Glico Running Man Will Close Next Month",
+    "url": "https://www.tokyoweekender.com/art_and_culture/10-japanese-inventions-that-changed-how-we-live/",
+    "pass": 3
+   },
+   {
+    "quote": "How Nori Enomoto Bags Became a Tokyo Street Style Favorite",
+    "url": "https://www.tokyoweekender.com/art_and_culture/10-japanese-inventions-that-changed-how-we-live/",
+    "pass": 3
+   },
+   {
+    "quote": "Cats in Japanese Culture: A History of Felines in the Archipelago",
+    "url": "https://www.tokyoweekender.com/art_and_culture/10-japanese-inventions-that-changed-how-we-live/",
+    "pass": 3
+   },
+   {
+    "quote": "Eight Out of Ten Lacquered Chopsticks in Japan Come From One Small Town",
+    "url": "https://www.tokyoweekender.com/art_and_culture/10-japanese-inventions-that-changed-how-we-live/",
+    "pass": 3
+   },
+   {
+    "quote": "A Lighthouse called Kanata: The Tokyo Gallery Championing Japanese Artists",
+    "url": "https://www.tokyoweekender.com/art_and_culture/10-japanese-inventions-that-changed-how-we-live/",
+    "pass": 3
+   },
+   {
+    "quote": "Exploring Japanese Culture Through Time With Bloomberg Connects",
+    "url": "https://www.tokyoweekender.com/art_and_culture/10-japanese-inventions-that-changed-how-we-live/",
+    "pass": 3
+   },
+   {
+    "quote": "Deko is a shop I had pinned ever since I moved to Tokyo, but I never had the chance to go, so I was finally able to visit.",
+    "url": "https://note.com/u0301/n/n1301944b2680?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The patentee, Shire International Licensing BV, faced an invalidation trial (Invalidation No. 2016-800111) initiated by Sawai Pharmaceutical Co., Ltd., an interested party; however, the Trial and Appeal Department of the Japan Patent Office (JPO) ruled that the request for the trial was groundless, thereby upholding the patent right.",
+    "url": "https://note.com/ykbozon/n/na8b7c7fb656e",
+    "pass": 3
+   },
+   {
+    "quote": "Here, \"Exhibit Ko-1\" refers to Japanese Unexamined Patent Application Publication No. Sho 62-145024, which was submitted by Sawai Pharmaceutical Co., Ltd. during the invalidation trial (Invalidation No. 2016-800111).",
+    "url": "https://note.com/ykbozon/n/na8b7c7fb656e",
+    "pass": 3
+   },
+   {
+    "quote": "During the examination stage at the JPO, the examiner had cited this publication (Japanese Unexamined Patent Application Publication No. Sho 62-145024) to the applicant.",
+    "url": "https://note.com/ykbozon/n/na8b7c7fb656e",
+    "pass": 3
+   },
+   {
+    "quote": "Nevertheless, the examiner issued a decision to grant the patent. Furthermore, even during the invalidation trial, the administrative judges failed to evaluate \"Exhibit Ko-1\" (Japanese Unexamined Patent Application Publication No. Sho 62-145024) and concluded that the proceedings could not be sustained.",
+    "url": "https://note.com/ykbozon/n/na8b7c7fb656e",
+    "pass": 3
+   },
+   {
+    "quote": "特許権者であるシャイア インターナショナル ライセンシング BVは、利害関係者と思われる沢井製薬株式会社に無効審判（",
+    "url": "https://note.com/ykbozon/n/na8b7c7fb656e",
+    "pass": 3
+   },
+   {
+    "quote": "）において、沢井製薬株式会社が提出した（",
+    "url": "https://note.com/ykbozon/n/na8b7c7fb656e",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "英語「inventive」の意味・読み方・表現 | Weblio英和辞書 — 形容詞 inventive (comparative more inventive, superlative most inventive) Of, or relating to invention; pertaining to the act of devising new mechanisms or processes.",
+    "url": "https://ejje.weblio.jp/content/inventive",
+    "pass": 3
+   },
+   {
+    "quote": "英語「inventive]」の意味・読み方・表現 | Weblio英和辞書 — inventive]の意味や使い方 【形容詞】 発明の (才のある), 独創的な.用例He has an inventive genius. 彼は発明の才に恵まれている.inventively 【副詞】inventiveness 【名詞】 - 約504万語ある英和辞典・和英辞典。 発音・イディオムも分かる英語辞書。",
+    "url": "https://ejje.weblio.jp/content/inventive]",
+    "pass": 3
+   },
+   {
+    "quote": "inventive の意味・使い方・語源・例文 | 英単語辞書 — inventive（インベンティブ）は「独創的な」「工夫に富んだ」。 新しいものを考え出す才能があり、創意に富む様子を表す形容詞。 動詞 invent（発明する）＋-ive。 an inventive mind（創意豊かな頭）のように使う。 名詞は inventiveness / invention。",
+    "url": "https://www.eigo-duke.com/word/word/inventive.html",
+    "pass": 3
+   },
+   {
+    "quote": "inventiveとは？発想を広げるための使い方ガイド共起語・同意語・対義... — Feb 21, 2026 · この記事では意味・使い方・語源・活用のコツ・実例を紹介し、日常生活や仕事の現場で inventive な発想を身につけるための練習方法を提案します。 文章は中学生にも理解しやすい言い換えを意識して作成しています。",
+    "url": "https://toha4.fromation.co.jp/archives/11450",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Inventive Partner — インベンティブパートナーは「”仕事”を探している方」と「”人材”を探している方」との フィッティングに重きをおいたサービスを提供しております。",
+    "url": "https://inventive-partner.com/",
+    "pass": 3
+   },
+   {
+    "quote": "10 Japanese Inventions that Changed the Way We LiveChapter 2 Novelty and Inventive Step - 特許庁Japanese Inventions That Changed Our Lives | Tokyo WeekenderExamining Inventive Step in Japan - Patent Panorama18 Japanese Inventions We Would Be Lost WithoutInnovate Japan | The Most In-depth Japan Innovation Database — One of the most indispensable cooking utensils in the Japanese kitchen is the rice coo",
+    "url": "https://blog.japanwondertravel.com/japanese-inventions-that-changed-the-way-we-live-37665",
+    "pass": 3
+   },
+   {
+    "quote": "Chapter 2 Novelty and Inventive Step - 特許庁 — As a result of this approach, the inventive step of the claimed invention is denied when the reasoning is valid and it is not denied when the reasoning is invalid.",
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Examining Inventive Step in Japan - Patent Panorama — May 29, 2025 · This post examines Japan’s obviousness standards through the lens of its examination guidelines, judicial precedents, and procedural idiosyncrasies, providing actionable insights for drafting robust applications and navigating office actions.",
+    "url": "https://patentpanorama.com/blogs/examining-inventive-step-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Inventive Automation achieves flexible, rapidly ... — Inventive Automation partnered with Vention (Industrial Automation) to solve key challenges. \"Inventive Automation - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/vention/case-study/inventive-automation-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "4 Inventive Case Studies, Success Stories, & Customer Stories ... — Narrow down 4 case studies by company size & industry to find out how Inventive works for a business like yours.",
+    "url": "https://www.featuredcustomers.com/vendor/inventive/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Inventive – Funding, Acquisitions & Key Rivals – 2026 — Discover Inventive's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/inventive",
+    "pass": 3
+   },
+   {
+    "quote": "Inventive 2026 Company Profile: Valuation, Funding ...Inventive Funding History: $4.0M | Indexed.vcInventive: Funding, Investors & Team (Oct 2026) | FundedIQInventive - 2025 Company Profile, Team, Funding & Competitors ...How Inventive hit $12.2M revenue with a 59 person team in 2024.Inventive — investors & funding | gritt.io — Information on valuation, funding, cap tables, investors, and executiv",
+    "url": "https://pitchbook.com/profiles/company/493356-07",
+    "pass": 3
+   },
+   {
+    "quote": "Inventive Funding History: $4.0M | Indexed.vc — Inventive is an Artificial Intelligence company based in United States, founded in 2022. It lists 1–10 employees. It has raised $4.0M in total across 1 round, most recently a $4.0M Seed round in Aug 2024. Investors include Sierra Ventures, Soma Capital and General Catalyst.",
+    "url": "https://indexed.vc/companies/inventive",
+    "pass": 3
+   },
+   {
+    "quote": "Inventive: Funding, Investors & Team (Oct 2026) | FundedIQ — Inventive is a San Francisco-based company founded in 2022 that creates AI agent platforms which provide tools for companies to collaboratively build more intelligent products. Inventive has raised $6.5M across 1 funding round on record, the most recent a Seed of $6.5M announced in Jun 2024.",
+    "url": "https://fundediq.co/inventive-madeinventive-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Inventive - 2025 Company Profile, Team, Funding & Competitors ... — Explore Inventive's in-depth company profile, including funding details, key investors, leadership, and competitors.",
+    "url": "https://tracxn.com/d/companies/inventive/__erpKcPAUqxgQOqzjSVj6uG_oMVWfTD4n8t9Vd2_pBRw",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Mackerel and Shiso: Inventive Deliciousness｜のあまんくろう Menya DekoAround 5:30 PM on a weekday.I entered the shop right as it opened.I decided to have the Mackerel and Shiso Soba, which had caught my eye during my pre-visit research.It seems they offer a cold version, but I went with the standard one this time.By the way, there are so many menu items",
+    "url": "https://note.com/u0301/n/n1301944b2680?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The \"Working Code\" Is the Most Dangerous — The Humble Virtue ... Inventive implementation is born from \"individual misunderstandings.\" If so, instead of leaving the misunderstanding in personal memory, drag it out into text that can be reviewed. Just by doing that, the same type of errors decreased surprisingly. Another thing I thoroughly enforced was refraining from \"improvements\" during migratio",
+    "url": "https://note.com/ecqol/n/n814da97f4fcb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Working Examples and Patent Requirements｜実施例が足りません In the previous chapter, I mentioned that \"working examples are life\" in chemical patents. Why are they so important? To understand the reason, I would like to first explain a little about patent requirements. The following three are particularly closely related to working examples: * Inventive step ...",
+    "url": "https://note.com/bright_badger230/n/nb98c4c8f2d39?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "9/12)。326th Da?n AI . Don't get addicted to AI ! Don't make ... Sep 12, 2026 · The \"ground for rescission 1-1\" asserted by the plaintiff concerns an error in the judgment regarding the inventive step of the invention in question (Invention 1), while \"ground for rescission 1-2\" concerns an error in the judgment regarding the inventive step of the inventions in question (Inventions 2 through 8).",
+    "url": "https://note.com/ykbozon/n/na8b7c7fb656e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Mackerel and Shiso: Inventive Deliciousness｜のあまんくろう",
+    "url": "https://note.com/u0301/n/n1301944b2680?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mackerel and Shiso: Inventive Deliciousness",
+    "url": "https://note.com/u0301/n/n1301944b2680?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Around 5:30 PM on a weekday.",
+    "url": "https://note.com/u0301/n/n1301944b2680?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I entered the shop right as it opened.",
+    "url": "https://note.com/u0301/n/n1301944b2680?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I decided to have the Mackerel and Shiso Soba, which had caught my eye during my pre-visit research.",
+    "url": "https://note.com/u0301/n/n1301944b2680?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It seems they offer a cold version, but I went with the standard one this time.",
+    "url": "https://note.com/u0301/n/n1301944b2680?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "By the way, there are so many menu items that I think you'll have trouble choosing,",
+    "url": "https://note.com/u0301/n/n1301944b2680?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "so I recommend deciding before you go.",
+    "url": "https://note.com/u0301/n/n1301944b2680?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The \"Working Code\" Is the Most Dangerous — The Humble Virtue of Fidelity Learned Through Legacy Migration｜akinori",
+    "url": "https://note.com/ecqol/n/n814da97f4fcb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The \"Working Code\" Is the Most Dangerous — The Humble Virtue of Fidelity Learned Through Legacy Migration",
+    "url": "https://note.com/ecqol/n/n814da97f4fcb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Looking back at a week spent on a business system migration project, most of the pull requests I stacked up were tasks to \"fix the slight differences between the newly written code and the original system.\" It wasn't about new features, nor was it about flashy refactoring. It was just a relentless repetition of \"it was like this originally, so I'll fix it like this.\"",
+    "url": "https://note.com/ecqol/n/n814da97f4fcb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It's mundane. But within this mundanity, the essence of the migration work was entirely contained.",
+    "url": "https://note.com/ecqol/n/n814da97f4fcb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Migrating an old system to a new technology stack. It's a common project. The client's expectation is simple: \"I want it to work just like it does now.\" This is where it gets tricky.",
+    "url": "https://note.com/ecqol/n/n814da97f4fcb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Just like now\" is not written in the specifications. What is written in the specifications is just a facade; the true specification is",
+    "url": "https://note.com/ecqol/n/n814da97f4fcb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "the actual behavior of the currently running system",
+    "url": "https://note.com/ecqol/n/n814da97f4fcb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". What is returned when non-existent data is passed? How are fractional amounts rounded? Does deletion really remove the data, or does it just make it invisible? These \"unwritten specifications\" are exactly where the battle of migration is won or lost.",
+    "url": "https://note.com/ecqol/n/n814da97f4fcb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Working Examples and Patent Requirements｜実施例が足りません",
+    "url": "https://note.com/bright_badger230/n/nb98c4c8f2d39?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Working Examples and Patent Requirements",
+    "url": "https://note.com/bright_badger230/n/nb98c4c8f2d39?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. What are working examples?",
+    "url": "https://note.com/bright_badger230/n/nb98c4c8f2d39?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What are working examples? There is no need to overthink it. In chemical patents, you can generally consider \"working examples = experimental data\" without any issues.",
+    "url": "https://note.com/bright_badger230/n/nb98c4c8f2d39?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Working examples are mainly seen in chemical and biotechnology patents.",
+    "url": "https://note.com/bright_badger230/n/nb98c4c8f2d39?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "While they are familiar to those with experience in patent practice in these fields, it is actually not uncommon for patents in other technical fields to lack working examples accompanied by experimental data.",
+    "url": "https://note.com/bright_badger230/n/nb98c4c8f2d39?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "So, why are working examples important in chemical patents?",
+    "url": "https://note.com/bright_badger230/n/nb98c4c8f2d39?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The reason is that in the fields of chemistry and biotechnology, it is often difficult to predict effects without actually conducting experiments.",
+    "url": "https://note.com/bright_badger230/n/nb98c4c8f2d39?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "♡(9/12)。326th Da?n AI . Don't get addicted to AI ! Don't make AI your lover！ Don't use AI, think an｜久保園善章",
+    "url": "https://note.com/ykbozon/n/na8b7c7fb656e",
+    "pass": 3
+   },
+   {
+    "quote": "♡(9/12)。326th Da?n AI . Don't get addicted to AI ! Don't make AI your lover！ Don't use AI, think and write for yourself !! Shire Int. Licensing; pat right invalidated. This is the 326th case in which a patent right has invalided by the IP High Court.",
+    "url": "https://note.com/ykbozon/n/na8b7c7fb656e",
+    "pass": 3
+   },
+   {
+    "quote": "Don't get addicted to",
+    "url": "https://note.com/ykbozon/n/na8b7c7fb656e",
+    "pass": 3
+   },
+   {
+    "quote": "AI ! Don't make AI your lover！",
+    "url": "https://note.com/ykbozon/n/na8b7c7fb656e",
+    "pass": 3
+   },
+   {
+    "quote": ", think and write for yourself",
+    "url": "https://note.com/ykbozon/n/na8b7c7fb656e",
+    "pass": 3
+   },
+   {
+    "quote": "Rescission of the trial decision (Defendant: Shire International Licensing BV; patent right invalidated).",
+    "url": "https://note.com/ykbozon/n/na8b7c7fb656e",
+    "pass": 3
+   },
+   {
+    "quote": "in which a patent right has been ruled invalid by the Intellectual Property High Court.",
+    "url": "https://note.com/ykbozon/n/na8b7c7fb656e",
+    "pass": 3
+   },
+   {
+    "quote": "https://docs.google.com/spreadsheets/d/1zvL3-tQBeLfcOjNDww319MIKCAuVewUz/edit?usp=sharing&ouid=111129104353933672821&rtpof=true&sd=true",
+    "url": "https://note.com/ykbozon/n/na8b7c7fb656e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Inventive Group (@InventiveGroup) / X We are a full-service #softwareengineering consulting and training company out of Austin, TX. Improving lives with #technology. Visit us at inventive.io.",
+    "url": "https://x.com/inventivegroup",
+    "pass": 3
+   },
+   {
+    "quote": "Inventive HQ (@InventiveHQ) / Posts / X Inventive HQ (@InventiveHQ) - Posts - Cloud and Cybersecurity company based in Southern California: inventivehq.com/services | X (formerly Twitter)",
+    "url": "https://x.com/inventivehq",
+    "pass": 3
+   },
+   {
+    "quote": "I mean, you technically do if you're inventive enough. - x.com / / I mean, you technically do if you're inventive enough.",
+    "url": "https://x.com/JamesAlvari30/status/2119936355363176746",
+    "pass": 3
+   },
+   {
+    "quote": "Claude on X: \"Lots of inventive things made with Claude these ... Lots of inventive things made with Claude these past few weeks. A few of our favorites: A working watermill, built with Opus 5.5.",
+    "url": "https://x.com/claudeai/status/2106125468365918268",
+    "pass": 3
+   },
+   {
+    "quote": "@inventivelabs | X The latest posts from @inventivelabs",
+    "url": "https://x.com/inventivelabs",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Inventive - LinkedIn At Inventive, we pride ourselves on our passion for developing new products, our tireless attention to detail, and our commitment to creating our best work every time.",
+    "url": "https://www.linkedin.com/company/inventive-group",
+    "pass": 3
+   },
+   {
+    "quote": "Inventive - LinkedIn Inventive is a configurable AI agent that helps your customers explore their data, get answers, and take action directly inside your product, with built-in quality and learning systems that make...",
+    "url": "https://www.linkedin.com/company/madeinventive/",
+    "pass": 3
+   },
+   {
+    "quote": "Inventive - LinkedIn Inventive is a configurable AI agent that helps your customers explore their data, get answers, and take action directly inside your product, with built-in quality and learning systems that make...",
+    "url": "https://ca.linkedin.com/company/madeinventive",
+    "pass": 3
+   },
+   {
+    "quote": "Inventive IT | LinkedIn Inventive Infotech is a certified diversity organization, providing technology consulting and product development services to our customers around the globe. We understand the role of technology...",
+    "url": "https://in.linkedin.com/company/inventiveitech",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Inventive | Austin TX - FacebookInventive Products | Mountain Home ID - FacebookInventive Ideas, LLC | Kansas City MO - FacebookInventive AV - FacebookINVENTIVE studio - FacebookInventive Media - FacebookInventive Media - IT Course Training Philippines | Makati Mar 20, 2026 · Inventive thanks all of the veterans who have served our country! We are a veteran-owned company and believe that veterans ",
+    "url": "https://www.facebook.com/InventiveGroup/",
+    "pass": 3
+   },
+   {
+    "quote": "Inventive Products | Mountain Home ID - FacebookInventive Ideas, LLC | Kansas City MO - FacebookInventive AV - FacebookINVENTIVE studio - FacebookInventive Media - FacebookInventive Media - IT Course Training Philippines | Makati Oct 13, 2026 · Through their family of brands — In The Ditch Towing Products, Razorback Offroad, Fish Fighter Products, and Inventive Products — Inventive Group is making",
+    "url": "https://www.facebook.com/InventiveProductsLLC/",
+    "pass": 3
+   },
+   {
+    "quote": "Inventive Ideas, LLC | Kansas City MO - FacebookInventive AV - FacebookINVENTIVE studio - FacebookInventive Media - FacebookInventive Media - IT Course Training Philippines | Makati Inventive Ideas, LLC, Kansas City. 791 followers. We license, aquire or invest in I.P. or help sell the product in return for profits or equity.... Oct 24, 2026 · วันนี้เราขอพาทุกท่านมาสัมผัสพลังเสียงของ Jeff Rowland (",
+    "url": "https://www.facebook.com/InventiveIdeasLLC/",
+    "pass": 3
+   },
+   {
+    "quote": "Inventive AV - FacebookINVENTIVE studio - FacebookInventive Media - FacebookInventive Media - IT Course Training Philippines | Makati Oct 24, 2026 · วันนี้เราขอพาทุกท่านมาสัมผัสพลังเสียงของ Jeff Rowland (Capri S2-SC & Model 125) ที่เหล่านักฟังเพลงตัวยงต้องหลงรัก รับชมคลิปเต็มได้ที่ YouTube: Inventive AV https ... 22 hours ago · Nazywam się Artur Jóźwik — jestem architektem i od ponad 10 lat prowad",
+    "url": "https://www.facebook.com/inventiveav/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.inventive.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inventive.ai/solution/solution-engineers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inventive.ai/inventive-ai-pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inventive.ai/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inventive.ai/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inventive.ai/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inventive.ai/customer-stories/case-studies/how-novara-scaled-from-a-handful-of-rfps-to-75-100-a-year-with-the-same-five-solutions-engineers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inventive.ai/case-studies/how-assetworks-facilities-achieved-422-roi-on-rfp-automation-with-inventive-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inventive.ai/case-studies/best-rfp-software--90-faster-rfps-0-weekend-hours-lost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inventive.ai/case-studies/insider-achieves-50-higher-win-rate-90-faster-rfp-responses-with-inventive-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inventive.ai/customer-stories/case-studies/how-solifi-replaced-loopio-with-inventive-ai-rfp-software-to-stop-cross-product-answers-in-a-multi-product-business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inventive.ai/customer-stories/case-studies/bidding-on-federal-construction-contracts-why-seg-traded-chatgpt-for-purpose-built-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inventive.ai/demo",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.inventive.ai/customer-stories/logos/kearns-west.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%99%BA%E6%98%8E%E3%83%BB%E7%99%BA%E8%A6%8B%E3%81%AE%E4%B8%80%E8%A6%A7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ejje.weblio.jp/content/inventive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ejje.weblio.jp/content/inventive%5D",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eigo-duke.com/word/word/inventive.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/TOYO%E3%82%A4%E3%83%8E%E3%83%99%E3%83%83%E3%82%AF%E3%82%B9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inventive-partner.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_inventions_and_discoveries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.japanwondertravel.com/japanese-inventions-that-changed-the-way-we-live-37665",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tokyoweekender.com/art_and_culture/10-japanese-inventions-that-changed-how-we-live/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/vention/case-study/inventive-automation-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/inventive/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saagargovil.com/10-case-studies-of-companies-leading-the-innovation-game/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/inventive",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/493356-07",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://indexed.vc/companies/inventive",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fundediq.co/inventive-madeinventive-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/u0301/n/n1301944b2680?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ecqol/n/n814da97f4fcb?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/bright_badger230/n/nb98c4c8f2d39?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ykbozon/n/na8b7c7fb656e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/inventivegroup",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/inventivehq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/JamesAlvari30/status/2119936355363176746",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/claudeai/status/2106125468365918268",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/inventive-group",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/madeinventive/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/madeinventive",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/inventiveitech",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/InventiveGroup/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/InventiveProductsLLC/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/InventiveIdeasLLC/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/inventiveav/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/inventivelabs",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Inventive 日本 導入",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本の発明・発見の一覧",
+    "https://ejje.weblio.jp/content/inventive",
+    "https://ejje.weblio.jp/content/inventive]",
+    "https://www.eigo-duke.com/word/word/inventive.html",
+    "https://toha4.fromation.co.jp/archives/11450",
+    "https://carview.yahoo.co.jp/article/detail/b3ce14ababb606482c047c469bfe9627ee3eaf16/",
+    "https://patent-match.jp/guide/2026-03-22-patent-inventive-step-japan/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Inventive 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://ja.wikipedia.org/wiki/TOYOイノベックス",
+    "https://inventive-partner.com/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://inventiv.org/",
+    "https://www.toyo-invx.com/company/",
+    "https://jpmktg.winbond.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Inventive Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/List_of_Japanese_inventions_and_discoveries",
+    "https://blog.japanwondertravel.com/japanese-inventions-that-changed-the-way-we-live-37665",
+    "https://www.jpo.go.jp/e/system/laws/rule/guideline/patent/tukujitu_kijun/document/tukujitu_kijun_0930/2_2.pdf",
+    "https://www.tokyoweekender.com/art_and_culture/10-japanese-inventions-that-changed-how-we-live/",
+    "https://patentpanorama.com/blogs/examining-inventive-step-in-japan",
+    "https://matcha-jp.com/en/19559",
+    "https://innovatejapan.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Inventive manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/vention/case-study/inventive-automation-customer-case-study",
+    "https://www.featuredcustomers.com/vendor/inventive/case-studies",
+    "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "https://saagargovil.com/10-case-studies-of-companies-leading-the-innovation-game/",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.casestudies.com/customer/inventive-automation",
+    "https://inventive.io/results"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Inventive white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.nextiva.com/company/partners",
+    "https://partners.spectrum.com/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Inventive founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/inventive",
+    "https://pitchbook.com/profiles/company/493356-07",
+    "https://indexed.vc/companies/inventive",
+    "https://fundediq.co/inventive-madeinventive-com-funding/",
+    "https://tracxn.com/d/companies/inventive/__erpKcPAUqxgQOqzjSVj6uG_oMVWfTD4n8t9Vd2_pBRw",
+    "https://getlatka.com/companies/inventive.io/team",
+    "https://www.gritt.io/company/madeinventive/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Inventive",
+   "results": [
+    "https://note.com/u0301/n/n1301944b2680?hl=en",
+    "https://note.com/ecqol/n/n814da97f4fcb?hl=en",
+    "https://note.com/bright_badger230/n/nb98c4c8f2d39?hl=en",
+    "https://note.com/ykbozon/n/na8b7c7fb656e",
+    "https://note.com/_nori_channel/n/n23131bfec1ad",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Inventive",
+   "results": [
+    "https://x.com/inventivegroup",
+    "https://x.com/inventivehq",
+    "https://x.com/JamesAlvari30/status/2119936355363176746",
+    "https://x.com/claudeai/status/2106125468365918268",
+    "https://x.com/web_inventiveS",
+    "https://x.com/gaurav_nemade15",
+    "https://x.com/jaytholen/status/2119791785816015201"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Inventive",
+   "results": [
+    "https://www.linkedin.com/company/inventive-group",
+    "https://www.linkedin.com/company/madeinventive/",
+    "https://ca.linkedin.com/company/madeinventive",
+    "https://in.linkedin.com/company/inventiveitech",
+    "https://in.linkedin.com/company/inventive-global",
+    "https://pk.linkedin.com/company/inventivexai",
+    "https://ie.linkedin.com/company/inventive-leap-ltd"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Inventive",
+   "results": [
+    "https://www.facebook.com/InventiveGroup/",
+    "https://www.facebook.com/InventiveProductsLLC/",
+    "https://www.facebook.com/InventiveIdeasLLC/",
+    "https://www.facebook.com/inventiveav/",
+    "https://www.facebook.com/INVENTIVEpl/",
+    "https://www.facebook.com/InventiveMedia.US/",
+    "https://www.facebook.com/inventivemedia.ph/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Inventive note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.com/saiyou_dekirukun/all",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.com/sadaaki",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://froggy.smbcnikko.co.jp/66484/",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Inventive X 投稿",
+   "results": [
+    "https://x.com/inventivelabs",
+    "https://note.com/mgane/n/n1c0d7384c8a0",
+    "https://fitly.pics/blog/x-twitter-post-tips",
+    "https://www.theaiventure.com/ai-tweet-generation-claude-guide/",
+    "https://stillworks-lab.hatenablog.com/entry/2026/05/28/130343",
+    "https://x.com/Yuichi1673402/status/2119316489467777134",
+    "https://note.com/ai_benkyo/n/ne0f813d1e370"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部41頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部41頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部41頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部41頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部41頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式13頁／PDF・画像1件／外部41頁・検索12回）"
+ }
+}

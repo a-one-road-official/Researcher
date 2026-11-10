@@ -1,0 +1,1773 @@
+{
+ "name": "Gorgias",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-10T15:20:33.934508+00:00",
+ "official_url": "https://www.gorgias.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "5. Seed Round",
+    "value": "02-May-2019    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/113502-07",
+    "pass": 3
+   },
+   {
+    "label": "4. Seed Round",
+    "value": "09-Apr-2018 $1.8M $3.65M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/113502-07",
+    "pass": 3
+   },
+   {
+    "label": "3. Seed Round",
+    "value": "10-Feb-2016 $1.74M $1.85M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/113502-07",
+    "pass": 3
+   },
+   {
+    "label": "Seed-1",
+    "value": "619,089 $0.000100  $2.91 $2.91 1x $2.91 8.9%",
+    "url": "https://pitchbook.com/profiles/company/113502-07",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "754,212 $0.000100  $2.19 $2.19 1x $2.19 10.85%",
+    "url": "https://pitchbook.com/profiles/company/113502-07",
+    "pass": 3
+   },
+   {
+    "label": "Total raised",
+    "value": "$42.4M",
+    "url": "https://getlatka.com/companies/gorgias",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "“The AI upsells with a conversational tone that feels genuinely helpful, not pushy. It asks the right follow-up questions and improves AOV. It’s exactly how we train our human agents.”",
+    "url": "https://www.gorgias.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One AI Agent. Pre-sale to post-sale.",
+    "url": "https://www.gorgias.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-trained on 1B+ conversations",
+    "url": "https://www.gorgias.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proactive, real-time tips help agents improve with every conversation",
+    "url": "https://www.gorgias.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proactive, not reactive AI",
+    "url": "https://www.gorgias.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pull up any order, customer, or product without leaving the ticket",
+    "url": "https://www.gorgias.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every conversation is a revenue opportunity. Here's the proof.",
+    "url": "https://www.gorgias.com/",
+    "pass": 1
+   },
+   {
+    "quote": "50 in 50 program",
+    "url": "https://www.gorgias.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"By automating 45% of interactions, our agents can now focus on backend operations, process improvements, and engaging in deeper conversations with our customers.\"",
+    "url": "https://www.gorgias.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Avenue Z Helps Enterprise Brands Scale Smart With Gorgias’s Conversational AI Platform",
+    "url": "https://www.gorgias.com/partner-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How Retailogists and Gorgias Provide Scalable Ecommerce Growth Through AI-Driven Support and Sales",
+    "url": "https://www.gorgias.com/partner-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How Nude Project Resolves 74% of Tickets in One Touch with Gorgias’s AI Agent",
+    "url": "https://www.gorgias.com/partner-stories",
+    "pass": 1
+   },
+   {
+    "quote": "We’re building AI that helps ecommerce brands support their customers and guide shoppers to the right purchase. Inside Gorgias, our people use AI to improve their own work too: building tools, connecting knowledge, and turning repetitive tasks into better workflows.",
+    "url": "https://www.gorgias.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "“I’m inspired daily by the talented engineers I work with and how our product impacts brands and customers. Tackling challenges that truly matter keeps the work exciting and rewarding.”",
+    "url": "https://www.gorgias.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Victor Duprez - Engineering - San Francisco",
+    "url": "https://www.gorgias.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "\"Every day brings fresh chances to grow and focus on what truly matters for our customers. We skip boring routines, prioritize meaningful work and create real impact together.\"",
+    "url": "https://www.gorgias.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "\"Joining Gorgias has been the best career decision of my life. I've learned so much here and love every part of it - my team, the projects I work on and the company's inspiring cutlure.\"",
+    "url": "https://www.gorgias.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We’re building Gorgias to serve our customers. Every decision, product feature, or support interaction must prioritize their success.",
+    "url": "https://www.gorgias.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We focus on a few priorities and deliver on them with exceptional quality.",
+    "url": "https://www.gorgias.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Sabbatical program after 4 years service",
+    "url": "https://www.gorgias.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Pension matching program",
+    "url": "https://www.gorgias.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Gorgias Pricing - AI-Powered Ecommerce CX Platform Plans",
+    "url": "https://www.gorgias.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Gorgias product tour ->",
+    "url": "https://www.gorgias.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Designed for Enterprise",
+    "url": "https://www.gorgias.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Preferred Integrations",
+    "url": "https://www.gorgias.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Gorgias through 3-minute interactive product tour",
+    "url": "https://www.gorgias.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Gorgias for Enterprise",
+    "url": "https://www.gorgias.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Preferred integrations",
+    "url": "https://www.gorgias.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Helpdesk scales from 50 to 5,000 tickets a month, never priced per agent.",
+    "url": "https://www.gorgias.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Add Voice or SMS to any plan. Pricing scales with your call and text volume, so you can choose the tier that matches your usage.",
+    "url": "https://www.gorgias.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Gorgias is the conversational commerce platform that automates product questions and recommendations, so you have more time to boost sales and be their holy grail product for life.",
+    "url": "https://www.gorgias.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Gorgias is the conversational commerce platform that makes shopping easy with instant product education, so your team can deliver support that builds trust, not buyer’s remorse.",
+    "url": "https://www.gorgias.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Gorgias is the conversational commerce platform that automates the questions customers ask most—fit, delivery, and product performance—so your team can focus on building lasting loyalty.",
+    "url": "https://www.gorgias.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Help your company boost its retention and NPS by adding Gorgias to your service offering and get VIP access to the best in-class software that helps your merchants deliver exceptional CX",
+    "url": "https://www.gorgias.com/tech-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Full access to the Gorgias partner portal for your entire team to receive product and sales training.",
+    "url": "https://www.gorgias.com/tech-partner",
+    "pass": 1
+   },
+   {
+    "quote": "We will help create awareness for your agency through co-marketing initiatives, speaking opportunities, sponsorships, client dinners, and much more.",
+    "url": "https://www.gorgias.com/tech-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Generate leads through our partner marketplace and get prioritized leads whenever we have a customer that needs your services.",
+    "url": "https://www.gorgias.com/tech-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Gorgias product tour ->",
+    "url": "https://www.gorgias.com/ai-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Designed for Enterprise",
+    "url": "https://www.gorgias.com/ai-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Preferred Integrations",
+    "url": "https://www.gorgias.com/ai-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Gorgias through 3-minute interactive product tour",
+    "url": "https://www.gorgias.com/ai-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Gorgias for Enterprise",
+    "url": "https://www.gorgias.com/ai-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Preferred integrations",
+    "url": "https://www.gorgias.com/ai-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Beauty customers often struggle to find the right foundation or concealer shade online, especially when products are reformulated or discontinued, causing hesitation, abandoned carts, and costly returns. bareMinerals’ CX team needed a scalable solution to handle the high volume of incoming product-related and shade-matching questions, many of which came in after business hours.",
+    "url": "https://www.gorgias.com/customers/bareminerals",
+    "pass": 1
+   },
+   {
+    "quote": "launched Shopping Assistant to deliver instant, expert product recommendations 24/7, driving more conversions and reducing return rates. Integrated with their Shopify product catalog and trained on shade matching nuances, Shopping Assistant guides customers through product discovery, increases basket size with natural upsells, and eliminates guesswork, without adding headcount.",
+    "url": "https://www.gorgias.com/customers/bareminerals",
+    "pass": 1
+   },
+   {
+    "quote": "The cosmetics brand operates under Orveon Global, alongside other leading beauty brands, such as Laura Mercier and Buxom. Katia Komar, Senior Manager of Ecommerce and Customer Service Operations, leads CX efforts for the UK and EU markets with a team of in-house agents and outsourced BPO agents.",
+    "url": "https://www.gorgias.com/customers/bareminerals",
+    "pass": 1
+   },
+   {
+    "quote": "As a brand that prioritizes personalized customer experience, bareMinerals needed to translate the one-to-one assistance customers could get in person to its online site. They launched Gorgias’s AI-powered Shopping Assistant to act as a virtual beauty consultant, guiding shoppers through pre-sales product questions 24/7.",
+    "url": "https://www.gorgias.com/customers/bareminerals",
+    "pass": 1
+   },
+   {
+    "quote": "Finding the perfect foundation or concealer shade can be difficult, especially through a screen, which is why 55% of all incoming tickets were product-related questions. No matter how many swatch photos, customer reviews, or shade finder quizzes you look at, sometimes you just want someone to help you find your perfect match.",
+    "url": "https://www.gorgias.com/customers/bareminerals",
+    "pass": 1
+   },
+   {
+    "quote": "This was the case for bareMinerals customers. More than half of its tickets were product questions like:",
+    "url": "https://www.gorgias.com/customers/bareminerals",
+    "pass": 1
+   },
+   {
+    "quote": "bareMinerals wanted to eliminate the guesswork in shade-matching to cut down on costly returns. “I saw an opportunity for AI to directly impact sales,” Katia explains. “As a cosmetics brand with a wide range of shaded SKUs, more than half of our inbound queries are product-related.",
+    "url": "https://www.gorgias.com/customers/bareminerals",
+    "pass": 1
+   },
+   {
+    "quote": "We weren’t just looking for automation, we needed an intelligent, conversion-focused solution capable of guiding the customer journey end to end,” Kata tells us. “Our priority was an AI tool that could replicate the expertise of an experienced beauty advisor, delivering education, personalization, and conversion simultaneously, even outside business hours.\"",
+    "url": "https://www.gorgias.com/customers/bareminerals",
+    "pass": 1
+   },
+   {
+    "quote": "For bareMinerals, quickly answering these questions with personalized product recommendations meant the difference between another sale and losing loyal customers.",
+    "url": "https://www.gorgias.com/customers/bareminerals",
+    "pass": 1
+   },
+   {
+    "quote": "bareMinerals implemented Shopping Assistant, customized to reflect its brand tone of voice and provide nuanced responses around product benefits, shade matching, and usage guidelines.",
+    "url": "https://www.gorgias.com/customers/bareminerals",
+    "pass": 1
+   },
+   {
+    "quote": "The AI-powered virtual assistant is integrated with bareMinerals’ Shopify product catalog to avoid recommending out-of-stock products and can then suggest alternative products in real-time.",
+    "url": "https://www.gorgias.com/customers/bareminerals",
+    "pass": 1
+   },
+   {
+    "quote": "The real-time Shopify integration was essential as we needed to ensure that product recommendations were relevant and displayed accurate inventory. Avoiding customer frustration from out-of-stock recommendations was non-negotiable, especially in beauty, where shade availability is crucial to customer trust and satisfaction. This approach has led to increased CSAT on AI converted tickets.\"",
+    "url": "https://www.gorgias.com/customers/bareminerals",
+    "pass": 1
+   },
+   {
+    "quote": "Helping first-time shoppers find their perfect match with AI-driven product discovery",
+    "url": "https://www.gorgias.com/customers/bareminerals",
+    "pass": 1
+   },
+   {
+    "quote": "bareMinerals offers a vast product catalog, featuring hundreds of products with up to 30+ shade options. For first-time buyers, navigating through various collections, products, or quiz pages can be time-consuming and overwhelming, making it difficult to find what they need.",
+    "url": "https://www.gorgias.com/customers/bareminerals",
+    "pass": 1
+   },
+   {
+    "quote": "With Shopping Assistant, this process is a lot smoother with real-time, 1:1 consultations.",
+    "url": "https://www.gorgias.com/customers/bareminerals",
+    "pass": 1
+   },
+   {
+    "quote": "For example, this new customer reached out to bareMinerals’ Shopping Assistant to find a personalized shade recommendation for the Original Loose Powder product they were browsing. They shared details about their undertones and typical color match.",
+    "url": "https://www.gorgias.com/customers/bareminerals",
+    "pass": 1
+   },
+   {
+    "quote": "From there, Shopping Assistant recommended the best shade by taking both the customer’s details and the context of which product they were viewing.",
+    "url": "https://www.gorgias.com/customers/bareminerals",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "AI Agent trained on your brand",
+    "url": "https://www.gorgias.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Read how Gorgias collaborates with agencies, ecommerce applications, and ambassadors to enhance online shopping experience.",
+    "url": "https://www.gorgias.com/partner-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Gorgias is the conversational commerce platform that automates plan changes, order edits, and skip requests—so your brand becomes (and remains) an essential part of their lifestyle.",
+    "url": "https://www.gorgias.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Partner Referral Program | Gorgias",
+    "url": "https://www.gorgias.com/partner-referral",
+    "pass": 1
+   },
+   {
+    "quote": "Gorgias Partner Program",
+    "url": "https://www.gorgias.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Join our partner program",
+    "url": "https://www.gorgias.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Thank you for joining our partner program! Your submission has been received and we'll come back to you shortly.",
+    "url": "https://www.gorgias.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Agency Partner program",
+    "url": "https://www.gorgias.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "agencies.gorgias.comというパートナープログラムがあり、代理店・導入スペシャリスト・ECコンサルを対象としています",
+    "url": "https://note.com/kai_claudecode/n/n14e1d458aaf4",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Revenue attribution reporting",
+    "url": "https://www.gorgias.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See exactly how much revenue your support team generates",
+    "url": "https://www.gorgias.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every conversation is a revenue opportunity. Here's the proof.",
+    "url": "https://www.gorgias.com/",
+    "pass": 1
+   },
+   {
+    "quote": "revenue driven through conversations",
+    "url": "https://www.gorgias.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Meet the teams that are turning support into a revenue generator with Gorgias.",
+    "url": "https://www.gorgias.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Psycho Bunny Avoided Adding Additional Headcount While Doubling Revenue",
+    "url": "https://www.gorgias.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Barrel and Gorgias Drive More Value For Their Ecommerce Clients",
+    "url": "https://www.gorgias.com/partner-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Why Shopify Merchants Trust Domaine and Gorgias to Scale Ecommerce Support and Revenue",
+    "url": "https://www.gorgias.com/partner-stories",
+    "pass": 1
+   },
+   {
+    "quote": "\"Joining Gorgias has been the best career decision of my life. I've learned so much here and love every part of it - my team, the projects I work on and the company's inspiring cutlure.\"",
+    "url": "https://www.gorgias.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Gorgias is the conversational commerce platform that automates plan changes, order edits, and skip requests—so your brand becomes (and remains) an essential part of their lifestyle.",
+    "url": "https://www.gorgias.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "For each new customer you bring, get rewarded with an industry leading revenue share.",
+    "url": "https://www.gorgias.com/tech-partner",
+    "pass": 1
+   },
+   {
+    "quote": "20–30% more revenue generated compared to human agents",
+    "url": "https://www.gorgias.com/customers/bareminerals",
+    "pass": 1
+   },
+   {
+    "quote": "By switching to Gorgias, Orthofeet replaced multiple tools with one centralized platform and automated 56% of support tickets in under two months. With full visibility into each customer’s order history and conversations, agents respond faster, provide more personalized recommendations, and drive more revenue, especially through live phone support.",
+    "url": "https://www.gorgias.com/customers/orthofeet",
+    "pass": 1
+   },
+   {
+    "quote": "was founded in 1984 by a war veteran who lost the lower part of his leg. The founder became a biomedical engineer to develop products to manage his own pain and then quickly expanded to help others.",
+    "url": "https://www.gorgias.com/customers/orthofeet",
+    "pass": 1
+   },
+   {
+    "quote": "Orthofeet turned to Gorgias to unify their CX stack, automate routine tickets, and scale support without adding headcount. This gave their team more bandwidth to focus on quality conversations and revenue-generating opportunities.",
+    "url": "https://www.gorgias.com/customers/orthofeet",
+    "pass": 1
+   },
+   {
+    "quote": "Orthofeet is a fast-growing business with revenue consistently increasing by +10% year-over-year, bringing a higher volume of email, chat, and phone tickets with it. Gorgias made it possible to manage this increase with the same headcount, without sacrificing quality.",
+    "url": "https://www.gorgias.com/customers/orthofeet",
+    "pass": 1
+   },
+   {
+    "quote": "Turning phone support into a revenue stream",
+    "url": "https://www.gorgias.com/customers/orthofeet",
+    "pass": 1
+   },
+   {
+    "quote": "Gorgias also unlocked cost savings and revenue impact for the overall business:",
+    "url": "https://www.gorgias.com/customers/orthofeet",
+    "pass": 1
+   },
+   {
+    "quote": "to see how Gorgias can help you automate support and drive revenue through CX.",
+    "url": "https://www.gorgias.com/customers/orthofeet",
+    "pass": 1
+   },
+   {
+    "quote": "Not a part of your team",
+    "url": "https://www.gorgias.com/partner-referral",
+    "pass": 1
+   },
+   {
+    "quote": "We bring all your conversations into one place and leverage your own data, helping your team automate tier 1 support and free up time for your team to drive revenue and loyalty from your customers.",
+    "url": "https://www.gorgias.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "25M ARR raised a 30M",
+    "url": "https://www.gorgias.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "200 employees",
+    "url": "https://www.gorgias.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "70+ employees",
+    "url": "https://www.gorgias.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "For each new customer you bring, get rewarded with an industry leading revenue share.",
+    "url": "https://www.gorgias.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "\"The Gorgias team has been an incredible Strategic Partner to MuteSix, helping our clients manage every aspect of the customer service process, a vital part of scaling and growing their brand. Top brands like Spongelle, Grunt Style, and Grassroots Coop use Gorgias to to monitor their Facebook and Instagram ad comments which also helps increase their ROAS and drive revenue\"",
+    "url": "https://www.gorgias.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "5. Do not change the type-face or font style of any part of the logo.",
+    "url": "https://www.gorgias.com/about-us/style",
+    "pass": 1
+   },
+   {
+    "quote": "AI Agent also handles simple order tracking requests without further human assistance. For instance, AI Agent can provide an order number and tracking link to a customer whose order hasn’t arrived yet.",
+    "url": "https://www.gorgias.com/customers/buah",
+    "pass": 1
+   },
+   {
+    "quote": "Result: Renewals make up the majority of revenue",
+    "url": "https://www.gorgias.com/customers/uqora",
+    "pass": 1
+   },
+   {
+    "quote": "The positive interactions that customers have with the Customer Success team members are part of why on average,",
+    "url": "https://www.gorgias.com/customers/uqora",
+    "pass": 1
+   },
+   {
+    "quote": "I will say that switching over to Gorgias was hands down the best decision that we made in our tech stack build-out because it provided us the perfect integration to have with another absolutely crucial part of our tech stack, which is Recharge. And so having those two things together was a no-brainer for us.",
+    "url": "https://www.gorgias.com/customers/uqora",
+    "pass": 1
+   },
+   {
+    "quote": "Since Tuesday Morning carries products from several manufacturers, customer interactions can quickly become complex. For instance, if a customer has a damaged product, Tuesday Morning has to contact the supplier, facilitate a replacement order, and quickly relay that information to the customer.",
+    "url": "https://www.gorgias.com/customers/tuesday-morning",
+    "pass": 1
+   },
+   {
+    "quote": "Replatforming is no small feat, especially when you risk disrupting any part of your customer experience. But with",
+    "url": "https://www.gorgias.com/customers/tuesday-morning",
+    "pass": 1
+   },
+   {
+    "quote": "The results: Transforming CX from a cost centre to a revenue generator",
+    "url": "https://www.gorgias.com/customers/tuesday-morning",
+    "pass": 1
+   },
+   {
+    "quote": "Since switching to Gorgias, Tuesday Morning has saved time and money, all while driving revenue. Gorgias has given the CX team more structure and time to take on higher-value initiatives, like proactive upselling and merchandising tasks.",
+    "url": "https://www.gorgias.com/customers/tuesday-morning",
+    "pass": 1
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/gorgias/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/113502-07",
+    "pass": 3
+   },
+   {
+    "quote": "Gorgias has 300 total employees.",
+    "url": "https://pitchbook.com/profiles/company/113502-07",
+    "pass": 3
+   },
+   {
+    "quote": "What is Gorgias’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/113502-07",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Gorgias is",
+    "url": "https://pitchbook.com/profiles/company/113502-07",
+    "pass": 3
+   },
+   {
+    "quote": "Gorgias Revenue 2024: $72.6M Est., $42.4M Raised",
+    "url": "https://getlatka.com/companies/gorgias",
+    "pass": 3
+   },
+   {
+    "quote": "Gorgias has not published its revenue. GetLatka estimates it at about $72.6M a year (October 2024).",
+    "url": "https://getlatka.com/companies/gorgias",
+    "pass": 3
+   },
+   {
+    "quote": "All 4 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/gorgias",
+    "pass": 3
+   },
+   {
+    "quote": "Gorgias CEO & employees",
+    "url": "https://getlatka.com/companies/gorgias",
+    "pass": 3
+   },
+   {
+    "quote": "Romain Lapeyre is CEO of Gorgias. Gorgias had 476 employees (December 2024, LinkedIn), up from 332 a year earlier.",
+    "url": "https://getlatka.com/companies/gorgias",
+    "pass": 3
+   },
+   {
+    "quote": "What is Gorgias' revenue?",
+    "url": "https://getlatka.com/companies/gorgias",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Gorgias' revenue at about",
+    "url": "https://getlatka.com/companies/gorgias",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Gorgias have?",
+    "url": "https://getlatka.com/companies/gorgias",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/gorgias",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/gorgias",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/gorgias",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/gorgias",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Email, chat, SMS, WhatsApp, Instagram, and Facebook in one view",
+    "url": "https://www.gorgias.com/",
+    "pass": 1
+   },
+   {
+    "quote": "improvement in chat and email FRTs",
+    "url": "https://www.gorgias.com/customers/orthofeet",
+    "pass": 1
+   },
+   {
+    "quote": "Orthofeet’s CX team was juggling Freshdesk, Dialpad, and an outsourced team, none of which integrated well with Shopify. Managing thousands of weekly calls and hundreds of emails from customers with specific, health-related questions was overwhelming. They needed to scale support without growing headcount, while maintaining high-quality care.",
+    "url": "https://www.gorgias.com/customers/orthofeet",
+    "pass": 1
+   },
+   {
+    "quote": "Since none of the platforms integrated with each other or with Shopify, Orthfeet’s agents worked exclusively on one platform – designated agents for emails, chat, and phone, creating silos within the department.",
+    "url": "https://www.gorgias.com/customers/orthofeet",
+    "pass": 1
+   },
+   {
+    "quote": "For the first time, agents had complete visibility into a customer’s data, including their past conversation across phone, email, chat, and social channels as well as their Shopify order history.",
+    "url": "https://www.gorgias.com/customers/orthofeet",
+    "pass": 1
+   },
+   {
+    "quote": "Orthofeet is a fast-growing business with revenue consistently increasing by +10% year-over-year, bringing a higher volume of email, chat, and phone tickets with it. Gorgias made it possible to manage this increase with the same headcount, without sacrificing quality.",
+    "url": "https://www.gorgias.com/customers/orthofeet",
+    "pass": 1
+   },
+   {
+    "quote": "Before Gorgias, Courtney shared that the team responsible for emails would log in on Monday to “anywhere from 600 to 1,000 emails at the start of the day.” Sometimes, it could take them up to a week to clear the backlog.",
+    "url": "https://www.gorgias.com/customers/orthofeet",
+    "pass": 1
+   },
+   {
+    "quote": "Prior to Gorgias, the CX team had SLAs of 24-hour response times for emails and 2-3 minutes on chat. Thanks to Gorgias’s AI Agent, first response times have dropped to 35 seconds for emails and 13 seconds for chat.",
+    "url": "https://www.gorgias.com/customers/orthofeet",
+    "pass": 1
+   },
+   {
+    "quote": "We founded Gorgias in Paris in 2015 with a vision to revolutionize customer support. Our journey began with a simple Chrome extension designed to help users write emails faster with automation. However, we discovered an unexpected market fit when we realized that most of our users were support agents. This discovery enabled us to shift our focus toward building a one-of-a-kind helpdesk.",
+    "url": "https://www.gorgias.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "As buah’s ticket volume grew, Gmail’s lack of Macros, automation, and analytics challenged the support team. Shuffling between windows for emails, Shopify, and key ecommerce tools hindered efficiency and delayed customer response and resolution times, often taking between 3-5 days.",
+    "url": "https://www.gorgias.com/customers/buah",
+    "pass": 1
+   },
+   {
+    "quote": "buah used Gmail for customer support before adopting Helpdesk, requiring constant tab shuffling between email threads, Shopify, and their ERP system. Resolving simple requests like order modifications or delivery updates often took up to five working days.",
+    "url": "https://www.gorgias.com/customers/buah",
+    "pass": 1
+   },
+   {
+    "quote": "Compared to Gmail, where the team had to copy and paste templated email responses from another window, Macros have been a huge time-saver. In Gorgias, agents can quickly type in keywords to pull up a ready-to-go response to common customer inquiries.",
+    "url": "https://www.gorgias.com/customers/buah",
+    "pass": 1
+   },
+   {
+    "quote": "onboarded AI Agent on email and chat to speed up response and resolution times for repetitive customer inquiries.",
+    "url": "https://www.gorgias.com/customers/buah",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/gorgias/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/gorgias/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/113502-07",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by largest Shopify brands to deliver winning experiences",
+    "url": "https://www.gorgias.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by largest Shopify brands to deliver winning experiences",
+    "url": "https://www.gorgias.com/ai-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by largest Shopify brands to deliver winning experiences",
+    "url": "https://www.gorgias.com/pricing?ref=home&ref-position=other",
+    "pass": 1
+   },
+   {
+    "quote": "is a discount home goods store that collaborates with manufacturers to sell excess merchandise to end consumers. Over the years, the brand evolved from running limited-time warehouse sales to a full-time retail operation.",
+    "url": "https://www.gorgias.com/customers/tuesday-morning",
+    "pass": 1
+   },
+   {
+    "quote": "Since Tuesday Morning carries products from several manufacturers, customer interactions can quickly become complex. For instance, if a customer has a damaged product, Tuesday Morning has to contact the supplier, facilitate a replacement order, and quickly relay that information to the customer.",
+    "url": "https://www.gorgias.com/customers/tuesday-morning",
+    "pass": 1
+   },
+   {
+    "quote": "Personal Care Product Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/gorgias/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Food and Beverage Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/gorgias/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Furniture and Home Furnishings Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/gorgias/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Equipment Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/gorgias/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Textile Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/gorgias/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Beverage Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/gorgias/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Apparel Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/gorgias/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Fashion Accessories Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/gorgias/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Leather Product Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/gorgias/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Footwear Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/gorgias/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/gorgias/case-studies",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本ではまだ馴染みのないGorgiasだが、アメリカではD2Cブランドにとって必須のサービスとなりつつある",
+    "url": "https://note.com/cerealtalk/n/n2ce1753268e6",
+    "pass": 3
+   },
+   {
+    "quote": "日本のブランドも、ヘルプデスクとしてすでにZendeskをはじめとする既存サービスを導入しているケースが多い",
+    "url": "https://note.com/cerealtalk/n/n2ce1753268e6",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、Gorgiasは日本語対応していないため日本企業が取り入れるには言語のハードルが高い",
+    "url": "https://note.com/cerealtalk/n/n2ce1753268e6",
+    "pass": 3
+   },
+   {
+    "quote": "顧客向けに送るメッセージは日本語で送ることができるものの、管理画面はすべて英語で表示される",
+    "url": "https://note.com/cerealtalk/n/n2ce1753268e6",
+    "pass": 3
+   },
+   {
+    "quote": "日本で導入するには、チームメンバーが英語に抵抗感がないことが条件となる",
+    "url": "https://note.com/cerealtalk/n/n2ce1753268e6",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の日本のネット通販市場：26.1兆円",
+    "url": "https://note.com/kai_claudecode/n/n14e1d458aaf4",
+    "pass": 3
+   },
+   {
+    "quote": "agencies.gorgias.comというパートナープログラムがあり、代理店・導入スペシャリスト・ECコンサルを対象としています",
+    "url": "https://note.com/kai_claudecode/n/n14e1d458aaf4",
+    "pass": 3
+   },
+   {
+    "quote": "日本語の公式ドキュメント・日本企業の導入事例は2026年8月時点で確認できない",
+    "url": "https://note.com/kai_claudecode/n/n14e1d458aaf4",
+    "pass": 3
+   },
+   {
+    "quote": "日本語情報が少ないからこそ、英語ドキュメントを読める人が優位です",
+    "url": "https://note.com/kai_claudecode/n/n14e1d458aaf4",
+    "pass": 3
+   },
+   {
+    "quote": "Gorgias AI Agentの料金は日本語で確認できる？",
+    "url": "https://note.com/kai_claudecode/n/n14e1d458aaf4",
+    "pass": 3
+   },
+   {
+    "quote": "ただし参考として、日本の人力サポート代行の相場は：",
+    "url": "https://note.com/kai_claudecode/n/n14e1d458aaf4",
+    "pass": 3
+   },
+   {
+    "quote": "」『倫理学年報』第69号、日本倫理学会、2020年",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%AB%E3%82%AE%E3%82%A2%E3%82%B9_(%E5%AF%BE%E8%A9%B1%E7%AF%87)",
+    "pass": 3
+   },
+   {
+    "quote": "日本語版記事がリダイレクトの仮リンクを含む記事",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%AB%E3%82%AE%E3%82%A2%E3%82%B9_(%E5%AF%BE%E8%A9%B1%E7%AF%87)",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "オンライン接客を加速させるEC特化型ヘルプデスク「Gorgias」 — Aug 23, 2022 · こうした手厚いサポートを支えているのが、CotopaxiやItalicなど、アメリカのD2Cブランドの多くがが導入しているヘルプデスクサービス「Gorgias（ゴージャス）」だ。",
+    "url": "https://note.com/cerealtalk/n/n2ce1753268e6",
+    "pass": 3
+   },
+   {
+    "quote": "Gorgias AI ECサポート代行の始め方｜受託業務としての二重課金の罠と... — Aug 14, 2026 · Gorgias AI Agentとは何か、なぜ今が代行のねらい目なのか Gorgiasは、米国の企業「Gorgias Inc.」が提供するツールです。 EC事業者向けに特化しており、お客さんからのメール・チャット・SNS・SMS・電話などの問い合わせを1つの画面に集約します。",
+    "url": "https://note.com/kai_claudecode/n/n14e1d458aaf4",
+    "pass": 3
+   },
+   {
+    "quote": "Gorgias AIとは？2026年に向けた完全ガイド - eesel.ai — Jan 16, 2026 · この動画では、Gorgiasの対話型AIプラットフォームがEコマースにおいてどのように機能し、サポートとセールスの両方の自動化をカバーしているかについて、包括的な概要を説明しています。 導入を始める",
+    "url": "https://www.eesel.ai/ja/blog/what-is-gorgias-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Gorgiasとは？ | 機能や料金、導入事例をご紹介【キャプテラ】 — Gorgiasを実際に使用したユーザーのレビューから、製品の機能や価格、メリットデメリットをご覧いただけます。 類似製品との比較も簡単、ぴったりのSaaSが見つかるはず！",
+    "url": "https://www.capterra.jp/software/155357/gorgias",
+    "pass": 3
+   },
+   {
+    "quote": "Gorgiasとは？料金・機能・特徴を比較【2026年版】｜AIものさし — Sep 24, 2026 · Gorgias EC向けヘルプデスクとAIサポート自動化 API 確認日未記録 · 公式情報＋編集判断 · 編集方針 データ更新: 2026-09-24 （検証日ではありません） ひとこと Shopify等ECのカスタマーサポート基盤。 下の要点と料金・注意点を見てから、公式サイトへ進む構成 ...",
+    "url": "https://www.aimonosashi.jp/tools/gorgias",
+    "pass": 3
+   },
+   {
+    "quote": "ゴルギアス (対話篇) - Wikipedia — 『ゴルギアス』（希: Γοργίας 、 英: Gorgias）は、 プラトン の初期の 対話篇。 副題は「弁論術 について」。 弁論術の本質と是非、 自然 に則った 正義 の本質や節制と 徳 の重要性、現実政治のあるべき姿などについて議論している。",
+    "url": "https://ja.wikipedia.org/wiki/ゴルギアス_(対話篇)",
+    "pass": 3
+   },
+   {
+    "quote": "The Conversational AI platform for Ecommerce | Gorgias — \"When we first started with Gorgias, our goal was to hit 30% automation in 30 days. We surpassed that and are now above 50% automation, and we’re still climbing.\"",
+    "url": "https://www.gorgias.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Plato Gorgias Japanese Translation Iwanami On Demand Books ... — 6 days ago · Find many great new & used options and get the best deals for Plato Gorgias Japanese Translation Iwanami On Demand Books Paperback at the best online prices at eBay!",
+    "url": "https://www.ebay.com/itm/407322227022",
+    "pass": 3
+   },
+   {
+    "quote": "Success stories from Ecommerce merchants | Gorgias — Discover how leading ecommerce brands turn customer support into revenue with Gorgias. Read real success stories from merchants across industries.",
+    "url": "https://www.gorgias.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "GORGIAS translation in Japanese | English-Japanese Dictionary ... — Understand the exact meaning of \"gorgias\" and learn how to use it correctly in any context. Examples come from millions of authentic texts: movie dialogues, news articles, official documents, and more.",
+    "url": "https://dictionary.reverso.net/english-japanese/gorgias",
+    "pass": 3
+   },
+   {
+    "quote": "Ecommerce Use Cases Powered by Gorgias | Real Results — Explore real ecommerce use cases powered by Gorgias that improve customer experience, increase conversions, and drive measurable revenue growth.",
+    "url": "https://www.gorgias.com/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Gorgias — ecommerce SaaS case studies — Ace Case Studies — Customer support dynamos Gorgias asked me to help them write several case studies showcasing how their user-friendly platform helps ecommerce retailers provide smoother, faster, better quality customer service.",
+    "url": "https://www.acecasestudies.com/b2b-case-study-samples/gorgias-ecommerce-saas-case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "111 Gorgias Case Studies, Success Stories, & Customer Stories — Learn what their customers think, get 111 free case studies and more.",
+    "url": "https://www.featuredcustomers.com/vendor/gorgias/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Trove Brands reduces misshipments and speeds ... — Trove Brands (Consumer Goods) partnered with Gorgias (Computer Software) to solve key challenges. \"Trove Brands cuts misshipments by 70% with Gorgias\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/gorgias/case-study/trove-brands-cuts-misshipments-by-70-with-gorgias",
+    "pass": 3
+   },
+   {
+    "quote": "Gorgias - 2026 Company Profile, Team, Funding & Competitors ...Gorgias 2026 Company Profile: Valuation, Funding & Investors ...Gorgias Revenue 2024: $72.6M Est., $42.4M Raised - LATKAGorgias - Overview, News & Similar companies | ZoomInfo.comGorgias revenue, valuation & funding | SacraGorgias: Funding, Investors & Team (Nov 2026) | FundedIQHow many employees does Gorgias have? 2026 headcount, sour",
+    "url": "https://tracxn.com/d/companies/gorgias/__d-RQ8zDIhmOYcfuS1A1kzbmaj7Gh2fbB5L-T8u3A1Ak",
+    "pass": 3
+   },
+   {
+    "quote": "Gorgias 2026 Company Profile: Valuation, Funding & Investors ...Gorgias Revenue 2024: $72.6M Est., $42.4M Raised - LATKAGorgias - Overview, News & Similar companies | ZoomInfo.comGorgias revenue, valuation & funding | SacraGorgias: Funding, Investors & Team (Nov 2026) | FundedIQHow many employees does Gorgias have? 2026 headcount, sourced — Information on valuation, funding, cap tables, investors,",
+    "url": "https://pitchbook.com/profiles/company/113502-07",
+    "pass": 3
+   },
+   {
+    "quote": "Gorgias Revenue 2024: $72.6M Est., $42.4M Raised - LATKA — Oct 7, 2026 · Gorgias 2024 estimated revenue: $72.6M (up from $60.6M in 2023). Total funding: $42.4M across 5 rounds. 6K customers, 476 employees. Updated Oct 7, 2026.",
+    "url": "https://getlatka.com/companies/gorgias",
+    "pass": 3
+   },
+   {
+    "quote": "Gorgias - Overview, News & Similar companies | ZoomInfo.com — Compare insights from companies similar to Gorgias, focusing on performance, financial data, growth rates, and unique benchmarks to identify key industry trends and opportunities.",
+    "url": "https://www.zoominfo.com/c/gorgias-inc/406333439",
+    "pass": 3
+   },
+   {
+    "quote": "Gorgias revenue, valuation & funding | Sacra — Gorgias was founded in 2015 by Romain Lapeyre and Alex Plugaru in Paris, initially as a Chrome extension for email automation that helped users create templated responses.",
+    "url": "https://sacra.com/c/gorgias/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Book Notes: \"Gorgias\" (Plato) — A book that questions \"living ... Introduction Plato's \"Gorgias\" is often thought to be a book about \"rhetoric\" at first glance. However, what emerges as you read on is the fundamental question of **\"how should one live?\"** I wanted to read this dialogue not as a \"book of rhetoric,\" but rather as a \"book of living well.\" ---",
+    "url": "https://note.com/kusuura/n/n11c52529bca2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "オンライン接客を加速させるEC特化型ヘルプデスク「Gorgias」 Aug 23, 2022 · こうした手厚いサポートを支えているのが、CotopaxiやItalicなど、アメリカのD2Cブランドの多くがが導入しているヘルプデスクサービス「Gorgias（ゴージャス）」だ。",
+    "url": "https://note.com/cerealtalk/n/n2ce1753268e6",
+    "pass": 3
+   },
+   {
+    "quote": "Gorgias AI ECサポート代行の始め方｜受託業務としての二重課金の罠と... Aug 14, 2026 · Gorgias AI Agentとは何か、なぜ今が代行のねらい目なのか Gorgiasは、米国の企業「Gorgias Inc.」が提供するツールです。 EC事業者向けに特化しており、お客さんからのメール・チャット・SNS・SMS・電話などの問い合わせを1つの画面に集約します。",
+    "url": "https://note.com/kai_claudecode/n/n14e1d458aaf4",
+    "pass": 3
+   },
+   {
+    "quote": "『ゴルギアス』 (Gorgias)：初期プラトン対話篇⑧｜エスケー Dec 27, 2024 · はじめに――概要 プラトンの著作の中でも、ソクラテスとの対話形式が色濃く表れ、かつ雄弁術（レトリケー）や正義の問題を扱った対話篇として有名なのが『ゴルギアス』です。本対話篇は、ソクラテスと当代きっての修辞学の大家であったゴルギアス、そしてゴルギアスの弟子や仲間たち ...",
+    "url": "https://note.com/tottemosk/n/n893e06b2f847",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Book Notes: \"Gorgias\" (Plato) — A book that questions \"living well,\" not just rhetoric｜楠浦崇央／発明塾 塾長 & TechnoProducer CEO",
+    "url": "https://note.com/kusuura/n/n11c52529bca2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Book Notes: \"Gorgias\" (Plato) — A book that questions \"living well,\" not just rhetoric",
+    "url": "https://note.com/kusuura/n/n11c52529bca2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "楠浦崇央／発明塾 塾長 & TechnoProducer CEO",
+    "url": "https://note.com/kusuura/n/n11c52529bca2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I am Kusuura, CEO of TechnoProducer Inc. and head of the Invention School. Today, I am sharing some notes on \"invention and new business\" that I regularly compile through brainstorming with AI to conduct lectures (seminars) and workshops on the \"Invention School\" at companies, universities, and research institutions.",
+    "url": "https://note.com/kusuura/n/n11c52529bca2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This time, the book is \"",
+    "url": "https://note.com/kusuura/n/n11c52529bca2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\". It is a work by the Greek philosopher Plato. It seems that because his teacher, Socrates, was imprisoned and poisoned for criticizing the politics of Greece (Athens) at the time, Plato distanced himself from politics on the surface while publishing works about politics in a way that would not attract negative attention. Thus, this book also looks like a book on rhetoric, but it is actually a bo",
+    "url": "https://note.com/kusuura/n/n11c52529bca2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Based on my own interpretation, I will list two main points.",
+    "url": "https://note.com/kusuura/n/n11c52529bca2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Politics is not about pandering to the public, but about improving the public.",
+    "url": "https://note.com/kusuura/n/n11c52529bca2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "オンライン接客を加速させるEC特化型ヘルプデスク「Gorgias」｜CEREAL TALK（シリアルトーク）",
+    "url": "https://note.com/cerealtalk/n/n2ce1753268e6",
+    "pass": 3
+   },
+   {
+    "quote": "オンライン接客を加速させるEC特化型ヘルプデスク「Gorgias」",
+    "url": "https://note.com/cerealtalk/n/n2ce1753268e6",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカのD2Cブランドに問い合わせた際、その対応スピードに驚いたことはないだろうか。EC上のオンラインチャットでのやりとりはもちろん、SNSにブランドをタグ付けして投稿するとすぐにDMで感謝のメッセージが送られてくる。",
+    "url": "https://note.com/cerealtalk/n/n2ce1753268e6",
+    "pass": 3
+   },
+   {
+    "quote": "など、アメリカのD2Cブランドの多くがが導入しているヘルプデスクサービス「",
+    "url": "https://note.com/cerealtalk/n/n2ce1753268e6",
+    "pass": 3
+   },
+   {
+    "quote": "Gorgiasの最大の特徴は、中小規模のEC事業者に特化していること。Shopifyをはじめ、MagentoやBig Commerceといったプラットフォームと連携しており、返品や配送先情報の変更などEC上での対応と問い合わせ対応を一元管理することができる。",
+    "url": "https://note.com/cerealtalk/n/n2ce1753268e6",
+    "pass": 3
+   },
+   {
+    "quote": "Gorgiasを利用しているストア数は1万を超えており、",
+    "url": "https://note.com/cerealtalk/n/n2ce1753268e6",
+    "pass": 3
+   },
+   {
+    "quote": "2022年8月にはシリーズCで3000万ドルの資金を調達したと発表した",
+    "url": "https://note.com/cerealtalk/n/n2ce1753268e6",
+    "pass": 3
+   },
+   {
+    "quote": "日本ではまだ馴染みのないGorgiasだが、アメリカではD2Cブランドにとって必須のサービスとなりつつある。",
+    "url": "https://note.com/cerealtalk/n/n2ce1753268e6",
+    "pass": 3
+   },
+   {
+    "quote": "Gorgias AI ECサポート代行の始め方｜受託業務としての二重課金の罠と料金試算｜カイ",
+    "url": "https://note.com/kai_claudecode/n/n14e1d458aaf4",
+    "pass": 3
+   },
+   {
+    "quote": "Gorgias AI ECサポート代行の始め方｜受託業務としての二重課金の罠と料金試算",
+    "url": "https://note.com/kai_claudecode/n/n14e1d458aaf4",
+    "pass": 3
+   },
+   {
+    "quote": "Gorgias AIを使ったECサポート代行の仕組みと実際の料金構造",
+    "url": "https://note.com/kai_claudecode/n/n14e1d458aaf4",
+    "pass": 3
+   },
+   {
+    "quote": "クライアント提案で失敗しない「二重課金」の知識",
+    "url": "https://note.com/kai_claudecode/n/n14e1d458aaf4",
+    "pass": 3
+   },
+   {
+    "quote": "無料トライアルから実務提案まで、今日から始める3ステップ",
+    "url": "https://note.com/kai_claudecode/n/n14e1d458aaf4",
+    "pass": 3
+   },
+   {
+    "quote": "Shopify等のEC事業者へ、Gorgias AIを使ったサポート代行を提案したいフリーランス・個人事業主の方向けです。",
+    "url": "https://note.com/kai_claudecode/n/n14e1d458aaf4",
+    "pass": 3
+   },
+   {
+    "quote": "「AIで問い合わせ対応を自動化しませんか、と提案したいけど、何から始めたらいい？」 「ChatGPTより差別化した提案ができるEC特化ツールが必要。それがGorgias」 「見積もりを誤って契約後にクライアントと揉める、それだけは避けたい」",
+    "url": "https://note.com/kai_claudecode/n/n14e1d458aaf4",
+    "pass": 3
+   },
+   {
+    "quote": "その答えが、Shopify向けのサポートツール「Gorgias（ゴルジアス）」に組み込まれたAI Agent機能です。",
+    "url": "https://note.com/kai_claudecode/n/n14e1d458aaf4",
+    "pass": 3
+   },
+   {
+    "quote": "『ゴルギアス』(Gorgias)：初期プラトン対話篇⑧｜エスケー",
+    "url": "https://note.com/tottemosk/n/n893e06b2f847",
+    "pass": 3
+   },
+   {
+    "quote": "『ゴルギアス』(Gorgias)：初期プラトン対話篇⑧",
+    "url": "https://note.com/tottemosk/n/n893e06b2f847",
+    "pass": 3
+   },
+   {
+    "quote": "プラトンの著作の中でも、ソクラテスとの対話形式が色濃く表れ、かつ雄弁術（レトリケー）や正義の問題を扱った対話篇として有名なのが『ゴルギアス』です。本対話篇は、ソクラテスと当代きっての修辞学の大家であったゴルギアス、そしてゴルギアスの弟子や仲間たちとの議論を中心に展開されます。大まかにいえば、主題は「説得術としてのレトリケーは、はたして真の技術（テクネー）なのか、それとも単なるごまかしなのか」「人間にとっての善い生き方とは何か」などへとつながっていきます。プラトンはこの議論を通じて、人間の魂が善や正義を追求することの重要性を浮き彫りにし、一方で当時アテナイ社会で幅を利かせていた詭弁術や政治権力との関わりを鋭く批判的に考察しています。",
+    "url": "https://note.com/tottemosk/n/n893e06b2f847",
+    "pass": 3
+   },
+   {
+    "quote": "ソクラテスの姿は、一見すると批判的・論駁的で、相手の立場を揺さぶるために鋭い問いを投げかける存在ですが、その根底にあるのは「魂の世話」という倫理的かつ哲学的な使命です。『ゴルギアス』では、この「魂の世話」を真剣に行う上で重要となる「善悪の判断」「生の目的」「国家運営における政治の在り方」など、多角的な問題が議論に組み込まれます。本稿では、まず当時のアテナイの歴史的背景を押さえながら、本対話篇がどのような文脈のもとで成立したかを概観していきます。次に、『ゴルギアス』の全体構造を整理し、対話の流れを把握したうえで、特に重要だとされる部分を掘り下げ、最終的に作品が提示するメッセージやプラトン哲学全体への意義をまとめます。",
+    "url": "https://note.com/tottemosk/n/n893e06b2f847",
+    "pass": 3
+   },
+   {
+    "quote": "プラトンが活動した紀元前4世紀頃のアテナイは、既にペロポネソス戦争（紀元前431年〜404年）により大きく揺らいだポリス体制の中にありました。ペリクレス時代の黄金期に比べて政治体制は混乱し、市民の間には民主政の限界や無秩序を嘆く声も高まっていました。一方、もともとアテナイには弁論術が盛んに発展する土壌があり、法廷や民会などで自らの意見を主張し、説得する能力が市民にとって必要不可欠でした。このような風土の中で、一部の人々は雄弁術を「人を操る術」として学び始めます。",
+    "url": "https://note.com/tottemosk/n/n893e06b2f847",
+    "pass": 3
+   },
+   {
+    "quote": "当時、「ソフィスト」と呼ばれる人々が登場して、若者や政治家志望の人々に対して、弁論術や論理の使い方を教える講義を行っていました。彼らは有名になるにつれて高額の報酬を受け取り、さらに他都市を巡回することで名声を得ます。ゴルギアスもその一人として歴史に名を残しており、実際に修辞学（レトリケー）の権威として高い名声を博した人物です。ゴルギアスはシチリア島のレオンティノイ出身のソフィストで、相手を説得し、聴衆を魅了する技術を極めていたと伝えられます。",
+    "url": "https://note.com/tottemosk/n/n893e06b2f847",
+    "pass": 3
+   },
+   {
+    "quote": "こうしたソフィストたちは、当時の市民にとっては「成功への道」を教えてくれる有力な教師でしたが、一方でその教えは「正義」や「真理」といった問題を二の次にしている傾向があると見なされました。彼らが教える技術は、弁舌さえ巧みであれば聴衆を都合の良い方向へ誘導できる可能性をもたらすため、倫理的な基盤が欠落しているのではないか、という批判が哲学者たちから投げかけられたのです。プラトンが厳しく批判しているのは、まさにこのような「説得＝権力獲得」の風潮です。",
+    "url": "https://note.com/tottemosk/n/n893e06b2f847",
+    "pass": 3
+   },
+   {
+    "quote": "また、ソクラテスは直接的にソフィストと呼ばれるわけではありませんが、ある種の「弁論の名手」であるとは当時から認識されていました。実際にソクラテスは、ソフィストのように報酬を受け取って講義をすることはせず、むしろ対話相手に「問答法」を用いて無知を自覚させるという手法を採ります。この「問答法」は、巧みな言葉や論法で相手を言い負かすことが目的ではなく、相手の思考を深めさせるものでした。ここがソフィストの弁論術との最大の違いといえます。",
+    "url": "https://note.com/tottemosk/n/n893e06b2f847",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Gorgias (@gorgiasio) / X Hi 👋, we’re Gorgias, the Conversational AI platform for ecommerce, helping brands to drive sales and automate support through 1-to-1 conversations with customers.",
+    "url": "https://x.com/gorgiasio",
+    "pass": 3
+   },
+   {
+    "quote": "Guillermo Cerceau (@gorgias) / Posts / X Guillermo Cerceau (@gorgias) - Posts - Escritor y conferencista. #mutacionesdelcuerpofemenino | X (formerly Twitter)",
+    "url": "https://x.com/gorgias",
+    "pass": 3
+   },
+   {
+    "quote": "Status Is DOWN on X: \"Gorgias is reportedly down for some ... Gorgias is reportedly down for some users currently. Are you affected too? #Gorgias #GorgiasDown https://t.co/ATp28uOpqe 09 Nov 2026 19:40:29",
+    "url": "https://x.com/statusisdown/status/2119877806460916186",
+    "pass": 3
+   },
+   {
+    "quote": "Gorgias on X: \"@mwaresh1 @MikeNellis @lisachristinect Didn't ... @mwaresh1 @MikeNellis @lisachristinect Didn't even read the first paragraph, eh moron? Let me give you the Clif notes since you're too fucking stupid to read, let alone grasp, things where \"you\" isn't spelled \"u\". She's not hiding it - you cultists are just that blind. These morons would lose at ch…",
+    "url": "https://x.com/ThaGorgias/status/2112757908794487058",
+    "pass": 3
+   },
+   {
+    "quote": "Gorgias (@gorgiasio) / X Discover how Gorgias Conversational AI transforms ecommerce support with fast, scalable, and cost-effective solutions that drive customer satisfaction and boost revenue growth.",
+    "url": "https://x.com/gorgiasio",
+    "pass": 3
+   },
+   {
+    "quote": "@gorgiaspress | X The latest posts from @gorgiaspress",
+    "url": "https://x.com/gorgiaspress",
+    "pass": 3
+   },
+   {
+    "quote": "Gorgias (@GorgiasI) / X @GorgiasI Captain A' Class, Specializing in Tankers Thessaloniki, Greece Joined July 2013 35Following 5Followers Mention Follow RepostsRepostsMediaMedia Gorgias @GorgiasI Apr 2, 2021",
+    "url": "https://x.com/Gorgiasi",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Gorgias - LinkedIn Gorgias is the Conversational AI platform for ecommerce that drives sales and resolves support inquiries. Trusted by over 15,000 ecommerce brands, Gorgias supports growing independent shops to...",
+    "url": "https://www.linkedin.com/company/gorgias",
+    "pass": 3
+   },
+   {
+    "quote": "Gorgias: Culture | LinkedIn Today, Gorgias is a team of more than 350 people located all over the world with 7 hubs in San Francisco, New York, Toronto, Paris, Belgrade, Lisbon & Buenos Aires.",
+    "url": "https://www.linkedin.com/company/gorgias/life",
+    "pass": 3
+   },
+   {
+    "quote": "Romain Lapeyre - Co-founder & CEO at Gorgias | LinkedInGorgias: Jobs | LinkedInKunal Agarwal - Gorgias | LinkedInHeather Adams - VP Marketing @ Gorgias | Full-Stack B2B SaaS ...Alex Plugaru - Founder @Elench | LinkedIn Gorgias empowers 10,000+ online merchants like SteveMadden, PrincessPolly or MarineLayer to provide the best possible experience to their customers. Trusted by over 15,000 ecommerce",
+    "url": "https://www.linkedin.com/in/romainlapeyre",
+    "pass": 3
+   },
+   {
+    "quote": "Gorgias: Jobs | LinkedIn Trusted by over 15,000 ecommerce brands, Gorgias supports growing independent shops to globally recognizable brands.",
+    "url": "https://www.linkedin.com/company/gorgias/jobs",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Gorgias | San Francisco CA - FacebookGorgias Press - FacebookGorgias Community - FacebookNew on Gorgias New signature field and... - FacebookMeet Gorgias — Your Portable Reflectance Spectroscopy ...New on Gorgias Create internal notes by email!... - FacebookGorgias - New on Gorgias Merge tickets We're ... - Facebook Feb 19, 2025 · We'll be covering topics like how we're making an impact in the mar",
+    "url": "https://www.facebook.com/gorgiasio/",
+    "pass": 3
+   },
+   {
+    "quote": "Gorgias Press - FacebookGorgias Community - FacebookNew on Gorgias New signature field and... - FacebookMeet Gorgias — Your Portable Reflectance Spectroscopy ...New on Gorgias Create internal notes by email!... - FacebookGorgias - New on Gorgias Merge tickets We're ... - Facebook Oct 22, 2026 · We believe Gorgias Press remains gorgeous, and that we’ve retained a sense of humour across 25 years. In",
+    "url": "https://www.facebook.com/gorgiaspress/",
+    "pass": 3
+   },
+   {
+    "quote": "Gorgias Community - Facebook Please feel free to share problems you are having, with customers, with Gorgias, with anything. Collaborate and strategize, ask questions, get answers, discuss integrations, and share ideas.",
+    "url": "https://www.facebook.com/groups/customersupportgroup/",
+    "pass": 3
+   },
+   {
+    "quote": "New on Gorgias New signature field and... - Facebook New on Gorgias 👉 New signature field and keyboard shortcut Bio field We've just released a new field called Bio in the agent profile. You can use it to...",
+    "url": "https://www.facebook.com/gorgiasio/posts/new-on-gorgias-new-signature-field-and-keyboard-shortcutbio-field-weve-just-rele/842869249249930/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.gorgias.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gorgias.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gorgias.com/partner-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gorgias.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gorgias.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gorgias.com/industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gorgias.com/tech-partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gorgias.com/ai-agent",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gorgias.com/customers/bareminerals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gorgias.com/customers/orthofeet",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gorgias.com/pricing?ref=home&ref-position=other",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gorgias.com/partner-referral",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gorgias.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gorgias.com/partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gorgias.com/about-us/style",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gorgias.com/customers/buah",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gorgias.com/customers/uqora",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gorgias.com/customers/tuesday-morning",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gorgias.com/customers/the-girlfriend-doctor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gorgias.com/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/5e4ff204e7b6f80e402d407a/6a96efa080428d93b93e45dd_Partners.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/5e4ff204e7b6f80e402d407a/68c1af64f3f8b84ca4f8b783_Always%20Put%20Our%20Customers%20First%20Symbol.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "data:image/svg+xml;charset=utf-8,%3Csvg%20width%3D%22144%22%20height%3D%2251%22%20viewBox%3D%220%200%20144%2051%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cg%20id%3D%22Logo%20Grid%22%3E%3Cg%20id%3D%22Logo%20tile%22%3E%3Cg%20id%3D%22customer_logos%22%3E%3Cg%20id%3D%22comfrt%22%20clip-path%3D%22url%28%23clip0_0_1%29%22%3E%3Cpath%20id%3D%22Union%22%20d%3D%22M111.754%206.04275C113.78%205.82114%20117.893%206.41167%20118.161%208.98318C118.185%209.39778%20118.02%2010.1696%20117.691%2010.4431C115.098%2012.651%20112.24%207.99785%20109.936%208.30447C104.934%208.9712%20106.12%2018.0625%20106.259%2021.4324C107.055%2021.4377%20110.059%2021.2316%20110.535%2021.6678C110.686%2021.8062%20110.744%2022.017%20110.751%2022.2156C110.766%2022.6514%20110.642%2023.192%20110.334%2023.5095C110.152%2023.6966%20109.922%2023.7947%20109.669%2023.8406C108.973%2023.9669%20107.096%2023.8515%20106.273%2023.8513C106.217%2024.735%20106.263%2026.3799%20106.265%2027.3211L106.275%2034.0847L106.27%2038.2556C106.266%2039.6777%20106.008%2041.3004%20107.351%2042.2224C107.653%2042.4276%20107.996%2042.5661%20108.356%2042.6277C109.117%2042.7639%20112.087%2042.6884%20112.962%2042.6248C113.547%2042.5822%20114.239%2042.0838%20114.593%2041.5623C114.823%2041.2288%20114.966%2040.8437%20115.01%2040.4412C115.083%2039.7118%20115.03%2038.1524%20115.028%2037.3484L115.025%2031.3035L115.028%2028.1472C115.031%2027.6474%20115.041%2027.1555%20115.012%2026.6023C114.937%2025.1992%20110.934%2024.8402%20113.474%2023.3601C114.465%2022.7824%20115.58%2022.4701%20116.598%2021.8914C117.301%2021.4914%20118.008%2020.8348%20118.798%2020.657C120.384%2020.5342%20119.219%2023.2543%20119.889%2023.7928C120.155%2023.7684%20120.656%2023.4128%20120.868%2023.2469C123.052%2021.5362%20125.971%2019.3679%20128.896%2020.3435C129.191%2020.4418%20130.019%2021.1983%20130.228%2021.1687C132.315%2020.8637%20133.256%2017.842%20134.856%2016.6941C137.586%2015.2604%20135.374%2021.6045%20136.706%2021.8699C138.189%2022.1409%20139.974%2021.7495%20141.435%2021.9715C142.586%2022.1465%20142.639%2023.3501%20141.581%2023.9549C138.426%2024.0669%20136.297%2023.0582%20136.281%2027.2928C136.272%2029.8243%20136.264%2032.4238%20136.264%2034.9597L136.265%2037.6092C136.265%2038.714%20136.195%2040.2029%20137.022%2041.0594C138.247%2042.32%20140.423%2042.0622%20142.002%2041.826C143.163%2041.6521%20144.136%2041.0775%20143.984%2042.8777C143.901%2043.478%20142.916%2043.6643%20142.424%2043.8308C139.083%2044.9611%20134.129%2045.3691%20132.317%2041.5945C131.737%2040.3851%20131.791%2039.0518%20131.789%2037.7488L131.79%2034.8015L131.792%2027.0506C131.797%2026.3416%20131.987%2024.8029%20131.505%2024.2459C131.218%2023.9152%20130.813%2023.9754%20130.433%2024.072C129.801%2024.2327%20129.248%2024.6255%20128.621%2024.7928C127.48%2025.0971%20126.351%2024.4173%20125.203%2024.3406C123.743%2024.243%20122.049%2024.6361%20120.931%2025.6248C120.127%2026.3352%20119.828%2027.316%20119.767%2028.3592C119.651%2030.3392%20119.756%2032.5035%20119.754%2034.5027C119.752%2036.2618%20119.624%2038.4977%20119.824%2040.2127C119.886%2040.7419%20119.996%2041.4609%20120.35%2041.8845C121.169%2042.8667%20122.724%2042.4145%20123.179%2042.9431C123.299%2043.083%20123.327%2043.2752%20123.314%2043.4539C123.294%2043.7284%20123.231%2043.9321%20123.005%2044.1013C122.767%2044.2794%20116.521%2044.1779%20115.803%2044.1775L94.8018%2044.1765L90.3086%2044.1795C89.6391%2044.1819%2088.8359%2044.2038%2088.1631%2044.1541C88.0425%2044.1312%2087.8588%2043.997%2087.8125%2043.8836C87.1429%2042.2266%2089.1966%2042.8978%2089.9287%2042.3162C90.5326%2041.8371%2090.6809%2041.4095%2090.8233%2040.8025C90.833%2040.7576%2090.8412%2040.7123%2090.8477%2040.6668C91.133%2038.5657%2091.0016%2036.343%2091.0293%2034.2224C91.019%2032.6228%2091.0615%2031.0093%2090.9903%2029.4119C90.8821%2026.9738%2090.3213%2024.2986%2087.4424%2023.991C84.367%2023.6625%2082.4053%2024.7765%2080.1026%2026.5584V35.1297C80.1015%2036.9632%2080.0026%2038.9451%2080.2998%2040.7537C80.514%2042.054%2081.5359%2042.6343%2082.7637%2042.6619C83.0729%2042.6688%2083.822%2042.7558%2083.877%2043.1804C83.9226%2043.7899%2083.8665%2044.1288%2083.1866%2044.1814C82.6083%2044.2263%2082.0404%2044.2099%2081.46%2044.2088L78.375%2044.2019L74.4532%2044.2088C73.7559%2044.2103%2073.0801%2044.213%2072.3682%2044.198C71.7141%2044.184%2071.3966%2043.4755%2071.7735%2042.9715C72.0354%2042.6218%2072.6221%2042.7174%2073.0352%2042.6814C75.6441%2042.454%2075.4168%2040.1015%2075.4141%2038.1404L75.4082%2034.7449L75.4141%2030.6619C75.4168%2029.0219%2075.5005%2027.7115%2074.9034%2026.1316C73.0652%2021.2661%2066.8543%2024.5059%2064.5938%2027.2303L64.5928%2035.159C64.5923%2036.879%2064.5149%2038.7946%2064.7725%2040.4676C64.9334%2041.7998%2065.6396%2042.7175%2067.0743%2042.6511C67.8982%2042.6129%2068.5135%2043.3154%2067.9434%2043.9851C67.8494%2044.0953%2067.7139%2044.1628%2067.5694%2044.1726C67.165%2044.2022%2066.3715%2044.1784%2065.9454%2044.1785L62.7412%2044.1804L59.3643%2044.1824C58.755%2044.1825%2057.3196%2044.2801%2056.7315%2043.9763C56.649%2043.9334%2056.6095%2043.6435%2056.5948%2043.531C56.3801%2042.1711%2058.8017%2042.9405%2059.2823%2042.0017C60.5215%2039.5805%2059.9474%2035.8324%2060.0762%2033.1521C60.1768%2031.058%2060.0526%2029.0711%2060.001%2027.0193C59.8798%2025.5935%2059.6786%2025.0607%2058.1905%2024.7957C56.968%2024.688%2057.0941%2023.4972%2058.0967%2023.1834C59.3528%2022.7903%2063.8957%2019.088%2064.417%2021.6531C64.4676%2021.9023%2064.424%2024.3318%2064.4229%2024.8426C65.361%2024.0683%2066.446%2023.0969%2067.4776%2022.4969C70.2125%2020.9062%2073.8007%2020.3868%2076.6621%2021.95C77.959%2022.6586%2078.7242%2023.623%2079.4444%2024.8767C80.2439%2024.3298%2081.2569%2023.5202%2082.0303%2022.9314C86.4252%2019.5859%2093.7945%2020.5853%2095.1973%2026.5486C95.6164%2028.3298%2095.502%2030.2411%2095.5069%2032.0613L95.4766%2039.4539C95.4739%2040.3969%2095.5143%2041.192%2096.2168%2041.8982C97.3011%2042.9878%2099.8935%2042.9775%20100.971%2041.8826C101.853%2040.9858%20101.689%2039.6482%20101.687%2038.4861L101.679%2035.1453L101.676%2023.9002C100.843%2023.881%2099.9796%2023.9296%2099.1475%2023.9051C98.9051%2023.8901%2098.4101%2023.7653%2098.2764%2023.5271C97.8825%2022.8246%2098.0586%2022.191%2098.6036%2021.7293C99.3339%2021.5696%20101.093%2021.7572%20101.481%2021.0554C101.705%2020.6518%20101.789%2019.5154%20101.834%2019.0125C102.134%2015.6773%20102.421%2012.2966%20104.709%209.63553C106.554%207.41697%20108.911%206.31489%20111.754%206.04275ZM18.8516%206.75662C19.217%206.70863%2020.3459%206.77415%2020.7354%206.80056C24.2354%207.0383%2027.6682%208.08201%2030.8057%209.63064C31.4071%209.92755%2032.2892%2010.3826%2032.7676%2010.8621C32.959%2011.0539%2033.2566%2011.697%2033.2705%2011.9627C33.3121%2012.7613%2033.2505%2013.6977%2033.2198%2014.5037C33.1741%2015.7006%2033.1332%2016.8919%2033.0674%2018.0857C33.0388%2018.3074%2033.0456%2018.5464%2032.8467%2018.6892C32.5311%2018.9157%2031.6915%2019.0295%2031.4805%2018.615C31.1727%2018.0106%2030.9528%2017.3579%2030.6934%2016.7303C30.2365%2015.628%2029.6443%2014.587%2028.9297%2013.6316C26.9483%2010.9501%2024.196%209.04978%2020.8565%208.55252C17.8365%208.10163%2014.7607%208.86006%2012.2969%2010.6638C8.97853%2013.1323%207.04204%2017.4876%206.51761%2021.4851C5.818%2026.8185%206.3539%2033.0218%209.70414%2037.4402C11.8996%2040.316%2014.6064%2042.0208%2018.2051%2042.6013C24.2309%2043.5734%2029.2689%2040.0154%2031.8916%2034.7918C32.5279%2033.5245%2033.102%2031.5368%2033.4854%2030.1541C35.2129%2023.9235%2040.9332%2020.0642%2047.3682%2021.0222C49.7531%2021.3734%2051.9621%2022.4844%2053.666%2024.1902C56.115%2026.6807%2057.2232%2029.4266%2057.208%2032.8933C57.1526%2044.4297%2041.9554%2048.574%2035.5%2039.4412C35.1341%2038.9235%2034.5875%2037.1811%2033.919%2037.1873C33.153%2037.5667%2033.9315%2039.0378%2032.8819%2039.9929C29.6068%2042.9734%2024.7851%2044.2809%2020.4649%2044.4539C15.0547%2044.6705%209.59998%2043.2058%205.55863%2039.4998C-2.09853%2032.5135%20-1.54905%2019.5762%205.39164%2012.3113C8.8841%208.65584%2013.8527%206.82935%2018.8516%206.75662ZM44.6241%2022.6765C43.4168%2022.8098%2042.061%2023.1588%2041.1602%2024.0359C38.1908%2026.9277%2038.3924%2031.8606%2038.6778%2035.6717C38.9827%2039.7444%2041.5686%2043.3546%2046.0401%2042.7215C47.714%2042.4619%2049.0862%2041.925%2050.0811%2040.5076C52.2116%2037.472%2052.2289%2032.8175%2051.7256%2029.2888C51.143%2025.2004%2048.943%2022.4516%2044.6241%2022.6765Z%22%20fill%3D%22%238E8985%22%2F%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fg%3E%3Cdefs%3E%3CclipPath%20id%3D%22clip0_0_1%22%3E%3Crect%20width%3D%22144%22%20height%3D%2238.6191%22%20fill%3D%22white%22%20transform%3D%22translate%280%206%29%22%2F%3E%3C%2FclipPath%3E%3C%2Fdefs%3E%3C%2Fsvg%3E",
+    "status": "error",
+    "method": ""
+   },
+   {
+    "url": "data:image/svg+xml;charset=utf-8,%3Csvg%20width%3D%22144%22%20height%3D%2251%22%20viewBox%3D%220%200%20144%2051%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cg%20id%3D%22Logo%20Grid%22%3E%3Cg%20id%3D%22Logo%20tile%22%3E%3Cg%20id%3D%22customer_logos%22%3E%3Cg%20id%3D%22ana-luisa-logo%201%22%20clip-path%3D%22url%28%23clip0_0_1%29%22%3E%3Cpath%20id%3D%22Vector%22%20d%3D%22M89.5375%2038.3772V35.7903L89.2701%2036.1411C87.9776%2037.9387%2085.7938%2038.9033%2083.6099%2038.6841C82.986%2038.6403%2082.362%2038.5526%2081.7826%2038.3772C79.7325%2037.851%2078.2617%2036.0096%2078.2172%2033.9489C78.1726%2033.5104%2078.1726%2033.1158%2078.1726%2032.6774C78.1726%2028.819%2078.1726%2025.0045%2078.1726%2021.1462V20.62H84.4567V31.362C84.4567%2031.5374%2084.4567%2031.7566%2084.5013%2031.932C84.6796%2033.6858%2085.9275%2034.2119%2087.6211%2033.9927C88.7353%2033.9489%2089.5821%2033.0281%2089.5821%2031.9758C89.6266%2031.7566%2089.6267%2031.5374%2089.6267%2031.2743C89.6267%2027.8983%2089.6267%2024.4784%2089.6267%2021.1023V20.5762H96.0445V38.3772H89.5375Z%22%20fill%3D%22%238E8985%22%2F%3E%3Cpath%20id%3D%22Vector_2%22%20d%3D%22M38.4623%2038.4212H32.1782V27.5915C32.2228%2026.9338%2032.0445%2026.2323%2031.6434%2025.7061C31.5097%2025.5308%2031.3314%2025.3992%2031.1085%2025.2677C30.2618%2024.8292%2029.2812%2024.7854%2028.3899%2025.1362C27.3648%2025.5308%2027.0974%2026.3638%2027.0528%2027.3284C27.0083%2028.6438%2027.0528%2029.9591%2027.0528%2031.2306V38.3773H20.635V20.6201H27.0528V23.2508C27.1865%2023.0755%2027.2757%2022.9878%2027.3648%2022.8562C28.7464%2021.0147%2030.9748%2020.0502%2033.2478%2020.3132C33.8272%2020.3571%2034.4512%2020.4886%2034.986%2020.664C36.8579%2021.1901%2038.2395%2022.8124%2038.3732%2024.7416C38.4177%2025.18%2038.4623%2025.5746%2038.4623%2026.0131C38.4623%2030.0029%2038.4623%2033.949%2038.4623%2037.895V38.4212Z%22%20fill%3D%22%238E8985%22%2F%3E%3Cpath%20id%3D%22Vector_3%22%20d%3D%22M106.83%2032.1514H112.98C112.98%2032.283%20112.98%2032.4145%20112.98%2032.5022C112.98%2033.5545%20113.337%2034.0368%20114.407%2034.2998C115.298%2034.5191%20116.234%2034.4752%20117.125%2034.2121C117.616%2034.0806%20117.972%2033.686%20118.061%2033.1599C118.284%2032.5899%20117.972%2031.9322%20117.348%2031.713C117.304%2031.6691%20117.214%2031.6691%20117.17%2031.6691C116.323%2031.4499%20115.476%2031.3622%20114.585%2031.1868C113.426%2030.9676%20112.223%2030.8361%20111.064%2030.5292C110.128%2030.31%20109.281%2029.8277%20108.613%2029.1261C107.499%2027.9423%20107.231%2026.4516%20107.365%2024.917C107.543%2022.6371%20108.969%2021.4094%20111.064%2020.7956C112.847%2020.3572%20114.674%2020.1818%20116.546%2020.2695C117.749%2020.2695%20118.953%2020.4449%20120.111%2020.7518C122.384%2021.4094%20123.588%2022.9879%20123.543%2025.3116V26.1885H118.017C118.017%2026.1447%20117.972%2026.1008%20117.972%2026.057C117.928%2025.1363%20117.66%2024.7417%20116.724%2024.5663C115.744%2024.3471%20114.763%2024.3909%20113.827%2024.6978C113.025%2024.9609%20112.713%2025.7062%20113.114%2026.3201C113.337%2026.627%20113.604%2026.8462%20113.961%2026.9339C114.763%2027.1531%20115.61%2027.2847%20116.457%2027.4162C118.017%2027.6354%20119.577%2027.8108%20121.136%2028.1177C121.894%2028.2931%20122.607%2028.6438%20123.231%2029.1261C123.989%2029.6961%20124.435%2030.573%20124.479%2031.4938C124.702%2032.8091%20124.479%2034.1683%20123.9%2035.396C123.187%2036.799%20121.939%2037.5882%20120.423%2038.0705C118.329%2038.6843%20116.189%2038.7282%20114.05%2038.6405C112.713%2038.6405%20111.376%2038.4213%20110.084%2038.0266C108.345%2037.5005%20107.053%2036.0098%20106.919%2034.2121C106.875%2033.5545%20106.875%2032.8968%20106.83%2032.1514Z%22%20fill%3D%22%238E8985%22%2F%3E%3Cpath%20id%3D%22Vector_4%22%20d%3D%22M75.6324%2038.4211H69.2146V12.9473H75.6324V38.4211Z%22%20fill%3D%22%238E8985%22%2F%3E%3Cpath%20id%3D%22Vector_5%22%20d%3D%22M104.869%2020.6201V38.3773H98.4512V20.6201H104.869Z%22%20fill%3D%22%238E8985%22%2F%3E%3Cpath%20id%3D%22Vector_6%22%20d%3D%22M98.4958%2012.9473H104.869V18.6471H98.4958V12.9473Z%22%20fill%3D%22%238E8985%22%2F%3E%3Cpath%20id%3D%22Vector_7%22%20d%3D%22M18.1392%2027.3282C18.1392%2027.0651%2018.0946%2026.0128%2018.05%2025.7936C17.9609%2024.6098%2017.5152%2023.5137%2016.7576%2022.5929C15.9553%2021.716%2014.9303%2021.1022%2013.7715%2020.8391C12.5236%2020.4884%2011.2311%2020.313%209.93862%2020.2691H9.89405C8.60157%2020.2253%207.35366%2020.3568%206.10575%2020.5761C5.34809%2020.7076%204.59043%2020.9707%203.92191%2021.2776C3.20882%2021.6283%202.58486%2022.0668%202.05004%2022.6368C1.60436%2023.1191%201.24781%2023.6452%201.02497%2024.259C0.802132%2024.8729%200.668427%2025.5744%200.668427%2026.232C0.668427%2026.232%200.668427%2026.232%200.668427%2026.2759C0.668427%2026.4513%200.668427%2026.6705%200.668427%2026.8897C0.712995%2027.4159%200.757564%2027.942%200.891268%2028.4681C2.27288%2027.7666%203.74364%2027.2405%205.30352%2026.9336C5.66007%2026.8897%206.06118%2026.802%206.4623%2026.7582H6.55143C6.55143%2026.6266%206.55143%2026.5828%206.55143%2026.4513C6.55143%2026.0567%206.64057%2025.6621%206.86341%2025.3551C6.95255%2025.2236%207.08625%2025.0921%207.26453%2024.9605C7.4428%2024.829%207.62107%2024.7413%207.84391%2024.6975C8.33416%2024.5659%208.82442%2024.4782%209.31467%2024.4782C9.53751%2024.4782%209.80492%2024.5221%2010.0278%2024.5659C10.2952%2024.6098%2010.518%2024.6975%2010.7408%2024.7852C10.83%2024.829%2010.9191%2024.8729%2011.0083%2024.9167C11.2757%2025.0921%2011.4985%2025.3551%2011.5431%2025.6621C11.6322%2026.1444%2011.6322%2026.6266%2011.6768%2027.1089C11.6768%2027.3282%2011.5876%2027.4159%2011.3648%2027.4597C9.98319%2027.5912%208.55701%2027.7666%207.17539%2027.942C5.6155%2028.0735%204.10018%2028.4681%202.71857%2029.1696C2.18375%2029.4327%201.73806%2029.8273%201.33695%2030.2658C1.15868%2030.485%200.980405%2030.7042%200.8467%2030.9673C0.712995%2031.2304%200.579291%2031.5373%200.490154%2031.8003C0.356449%2032.1949%200.311881%2032.5895%200.267313%2032.9842C0.222745%2033.3788%200.222745%2033.7734%200.267313%2034.2118C0.311881%2034.6941%200.356449%2035.1325%200.534722%2035.571C0.891268%2036.5794%201.60436%2037.4563%202.58486%2037.9386C2.8077%2038.0702%203.03054%2038.1578%203.25339%2038.2455C3.6545%2038.4209%204.05561%2038.5086%204.45673%2038.5963C4.85784%2038.684%205.25896%2038.7278%205.70464%2038.7717C6.19489%2038.7717%206.64057%2038.7717%207.13082%2038.7278C7.48737%2038.684%207.84391%2038.6401%208.20046%2038.5963C8.4233%2038.5524%208.69071%2038.4648%208.91355%2038.3771C9.98319%2038.0263%2010.8746%2037.4125%2011.5431%2036.5356C11.5876%2036.4917%2011.6322%2036.4479%2011.7214%2036.3164V38.4648H18.1392V37.9386C18.1392%2034.3872%2018.1392%2030.8358%2018.1392%2027.3282ZM11.2311%2033.028C10.518%2034.2557%209.04726%2034.6941%207.48737%2034.3872C7.13082%2034.3433%206.77428%2034.1241%206.55143%2033.861C6.32859%2033.5541%206.23946%2033.2034%206.23946%2032.8526C6.23946%2032.6772%206.28403%2032.5019%206.32859%2032.3265C6.55143%2031.8003%206.99712%2031.4057%207.5765%2031.318C7.84391%2031.2742%208.15589%2031.2304%208.46787%2031.1865L9.35923%2031.055L11.6768%2030.7042C11.7659%2031.4934%2011.6322%2032.3265%2011.2311%2033.028Z%22%20fill%3D%22%238E8985%22%2F%3E%3Cpath%20id%3D%22Vector_8%22%20d%3D%22M58.6963%2027.3282C58.6963%2027.0651%2058.6517%2026.0128%2058.6072%2025.7936C58.518%2024.6098%2058.0724%2023.5137%2057.3147%2022.5929C56.5125%2021.716%2055.4874%2021.1022%2054.3286%2020.8391C53.0807%2020.4884%2051.7882%2020.313%2050.4958%2020.2691H50.4512C49.1587%2020.2253%2047.9108%2020.3568%2046.6629%2020.5761C45.9052%2020.7076%2045.1476%2020.9707%2044.479%2021.2776C43.7659%2021.6283%2043.142%2022.0668%2042.6072%2022.6368C42.1615%2023.1191%2041.8049%2023.6452%2041.5821%2024.259C41.3593%2024.8729%2041.2256%2025.5744%2041.2256%2026.232C41.2256%2026.232%2041.2256%2026.232%2041.2256%2026.2759C41.2256%2026.4513%2041.2256%2026.6705%2041.2256%2026.8897C41.2701%2027.4159%2041.3147%2027.942%2041.4484%2028.4681C42.83%2027.7666%2044.3008%2027.2405%2045.8607%2026.9336C46.2172%2026.8897%2046.6183%2026.802%2047.0194%2026.7582H47.1086C47.1086%2026.6266%2047.1086%2026.5828%2047.1086%2026.4513C47.1086%2026.0567%2047.1977%2025.6621%2047.4205%2025.3551C47.5097%2025.2236%2047.688%2025.0921%2047.8217%2024.9605C47.9999%2024.829%2048.1782%2024.7413%2048.401%2024.6975C48.8913%2024.5659%2049.3815%2024.4782%2049.8718%2024.4782C50.1392%2024.4782%2050.362%2024.5221%2050.5849%2024.5659C50.8523%2024.6098%2051.0751%2024.6975%2051.298%2024.7852C51.3871%2024.829%2051.4763%2024.8729%2051.5654%2024.9167C51.8328%2025.0921%2052.0111%2025.3551%2052.0556%2025.6621C52.1448%2026.1444%2052.1448%2026.6266%2052.1893%2027.1089C52.1893%2027.3282%2052.1002%2027.4159%2051.8774%2027.4597C50.4958%2027.5912%2049.0696%2027.7666%2047.688%2027.942C46.1281%2028.0735%2044.6127%2028.4681%2043.2311%2029.1696C42.6963%2029.4327%2042.2506%2029.8273%2041.8495%2030.2658C41.6712%2030.485%2041.5375%2030.7042%2041.4038%2030.9673C41.2701%2031.2304%2041.1364%2031.5373%2041.0473%2031.8003C40.9136%2032.1949%2040.869%2032.5895%2040.8244%2032.9842C40.7799%2033.3788%2040.7799%2033.7734%2040.8244%2034.2118C40.869%2034.6941%2040.9136%2035.1325%2041.0919%2035.571C41.4484%2036.5794%2042.1615%2037.4563%2043.142%2037.9386C43.3648%2038.0702%2043.5877%2038.1578%2043.8105%2038.2455C44.2116%2038.4209%2044.6127%2038.5086%2045.0139%2038.5963C45.415%2038.684%2045.8161%2038.7278%2046.2618%2038.7717C46.752%2038.7717%2047.1977%2038.7717%2047.688%2038.7278C48.0445%2038.684%2048.401%2038.6401%2048.7576%2038.5963C48.9804%2038.5524%2049.2478%2038.4648%2049.4707%2038.3771C50.5403%2038.0263%2051.4317%2037.4125%2052.1002%2036.5356C52.1448%2036.4917%2052.1893%2036.4479%2052.2785%2036.3164V38.3771H58.6963V37.9386C58.6963%2034.3872%2058.6963%2030.8358%2058.6963%2027.3282ZM51.7882%2033.028C51.0751%2034.2557%2049.6044%2034.6941%2048.0445%2034.3872C47.688%2034.3433%2047.3314%2034.1241%2047.1086%2033.861C46.8857%2033.5541%2046.7966%2033.2034%2046.7966%2032.8526C46.7966%2032.6772%2046.8412%2032.5019%2046.8857%2032.3265C47.1086%2031.8003%2047.5542%2031.4057%2048.1336%2031.318C48.4456%2031.2742%2048.713%2031.2304%2049.025%2031.1865L49.9164%2031.055L52.2339%2030.7042C52.323%2031.4934%2052.1893%2032.3265%2051.7882%2033.028Z%22%20fill%3D%22%238E8985%22%2F%3E%3Cpath%20id%3D%22Vector_9%22%20d%3D%22M144%2027.3282C144%2027.0651%20143.955%2026.0128%20143.911%2025.7936C143.822%2024.6098%20143.376%2023.5137%20142.618%2022.5929C141.816%2021.716%20140.791%2021.1022%20139.632%2020.8391C138.384%2020.4884%20137.092%2020.313%20135.799%2020.2691H135.755C134.462%2020.2253%20133.214%2020.3568%20131.966%2020.5761C131.209%2020.7076%20130.451%2020.9707%20129.783%2021.2776C129.07%2021.6283%20128.446%2022.0668%20127.911%2022.6368C127.465%2023.1191%20127.109%2023.6452%20126.886%2024.259C126.663%2024.8729%20126.529%2025.5744%20126.529%2026.232V26.2759C126.529%2026.4513%20126.529%2026.6705%20126.529%2026.8897C126.574%2027.4159%20126.618%2027.942%20126.752%2028.4681C128.134%2027.7666%20129.604%2027.2405%20131.164%2026.9336C131.521%2026.8897%20131.922%2026.802%20132.323%2026.7582H132.412C132.412%2026.6266%20132.412%2026.5828%20132.412%2026.4513C132.412%2026.0567%20132.501%2025.6621%20132.724%2025.3551C132.813%2025.2236%20132.992%2025.0921%20133.125%2024.9605C133.304%2024.829%20133.482%2024.7413%20133.705%2024.6975C134.195%2024.5659%20134.685%2024.4782%20135.175%2024.4782C135.443%2024.4782%20135.666%2024.5221%20135.888%2024.5659C136.111%2024.6098%20136.379%2024.6975%20136.602%2024.7413C136.691%2024.7852%20136.78%2024.829%20136.869%2024.8729C137.136%2025.0482%20137.315%2025.3113%20137.359%2025.6182C137.448%2026.1005%20137.448%2026.5828%20137.493%2027.0651C137.493%2027.2843%20137.404%2027.372%20137.181%2027.4159C135.799%2027.5474%20134.373%2027.7228%20132.992%2027.8981C131.432%2028.0297%20129.916%2028.4243%20128.535%2029.1258C128%2029.3889%20127.51%2029.7835%20127.153%2030.2219C126.975%2030.4412%20126.797%2030.6604%20126.663%2030.9234C126.529%2031.1865%20126.395%2031.4934%20126.306%2031.7565C126.173%2032.1511%20126.128%2032.5457%20126.083%2032.9403C126.039%2033.3349%20126.039%2033.7295%20126.083%2034.168C126.128%2034.6503%20126.217%2035.0887%20126.351%2035.5272C126.707%2036.5356%20127.421%2037.4125%20128.401%2037.8948C128.624%2038.0263%20128.847%2038.114%20129.07%2038.2017C129.471%2038.3771%20129.872%2038.4648%20130.273%2038.5525C130.674%2038.6401%20131.075%2038.684%20131.521%2038.7278C132.011%2038.7278%20132.457%2038.7278%20132.947%2038.684C133.304%2038.6401%20133.66%2038.5963%20134.017%2038.5525C134.239%2038.5086%20134.462%2038.4209%20134.73%2038.3332C135.799%2037.9825%20136.691%2037.3686%20137.359%2036.4917C137.404%2036.4041%20137.493%2036.3602%20137.582%2036.2725V38.3771H144.044V37.9386C144.044%2034.3872%20144%2030.8358%20144%2027.3282ZM137.092%2033.028C136.379%2034.2557%20134.908%2034.6941%20133.348%2034.3872C132.947%2034.3433%20132.635%2034.1241%20132.368%2033.861C132.145%2033.5541%20132.056%2033.2034%20132.056%2032.8526C132.056%2032.6772%20132.1%2032.5019%20132.145%2032.3265C132.368%2031.8003%20132.813%2031.4057%20133.393%2031.318C133.705%2031.2742%20133.972%2031.2304%20134.284%2031.1865L135.175%2031.055L137.538%2030.7042C137.671%2031.4934%20137.493%2032.3265%20137.092%2033.028Z%22%20fill%3D%22%238E8985%22%2F%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fg%3E%3Cdefs%3E%3CclipPath%20id%3D%22clip0_0_1%22%3E%3Crect%20width%3D%22144%22%20height%3D%2226%22%20fill%3D%22white%22%20transform%3D%22translate%280%2012.9473%29%22%2F%3E%3C%2FclipPath%3E%3C%2Fdefs%3E%3C%2Fsvg%3E",
+    "status": "error",
+    "method": ""
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/cerealtalk/n/n2ce1753268e6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kai_claudecode/n/n14e1d458aaf4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eesel.ai/ja/blog/what-is-gorgias-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.capterra.jp/software/155357/gorgias",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%AB%E3%82%AE%E3%82%A2%E3%82%B9_(%E5%AF%BE%E8%A9%B1%E7%AF%87)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ebay.com/itm/407322227022",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.acecasestudies.com/b2b-case-study-samples/gorgias-ecommerce-saas-case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/gorgias/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/gorgias/__d-RQ8zDIhmOYcfuS1A1kzbmaj7Gh2fbB5L-T8u3A1Ak",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/113502-07",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/gorgias",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/gorgias-inc/406333439",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kusuura/n/n11c52529bca2?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/cerealtalk/n/n2ce1753268e6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kai_claudecode/n/n14e1d458aaf4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tottemosk/n/n893e06b2f847",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/gorgiasio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/gorgias",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/statusisdown/status/2119877806460916186",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ThaGorgias/status/2112757908794487058",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/gorgias",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/gorgias/life",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/romainlapeyre",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/gorgias/jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/gorgiasio/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/gorgiaspress/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/customersupportgroup/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/gorgiasio/posts/new-on-gorgias-new-signature-field-and-keyboard-shortcutbio-field-weve-just-rele/842869249249930/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/gorgiasio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/gorgiaspress",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Gorgiasi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/gorgias",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Gorgias 日本 導入",
+   "results": [
+    "https://note.com/cerealtalk/n/n2ce1753268e6",
+    "https://note.com/kai_claudecode/n/n14e1d458aaf4",
+    "https://www.eesel.ai/ja/blog/what-is-gorgias-ai",
+    "https://www.capterra.jp/software/155357/gorgias",
+    "https://www.aimonosashi.jp/tools/gorgias",
+    "https://maikocloud.substack.com/p/ai50mgorgias",
+    "https://saasmap.jp/tools/gorgias"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gorgias 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.gorgias.com/",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gorgias Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ゴルギアス_(対話篇)",
+    "https://www.gorgias.com/",
+    "https://www.ebay.com/itm/407322227022",
+    "https://www.gorgias.com/customers",
+    "https://dictionary.reverso.net/english-japanese/gorgias",
+    "https://reader.humanitext.ai/library/tlg0059.tlg023.humanitext-grc2/",
+    "https://www.amazon.co.jp/-/en/Gorgias/dp/2290058653"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gorgias manufacturing customer case study",
+   "results": [
+    "https://www.gorgias.com/customers",
+    "https://www.gorgias.com/use-cases",
+    "https://www.acecasestudies.com/b2b-case-study-samples/gorgias-ecommerce-saas-case-studies",
+    "https://www.featuredcustomers.com/vendor/gorgias/case-studies",
+    "https://www.casestudies.com/company/gorgias/case-study/trove-brands-cuts-misshipments-by-70-with-gorgias",
+    "https://www.casestudies.com/company/gorgias",
+    "https://www.starterstory.com/tools/gorgias/companies-using"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gorgias white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://www.upcounsel.com/reseller-agreement"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gorgias founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/gorgias/__d-RQ8zDIhmOYcfuS1A1kzbmaj7Gh2fbB5L-T8u3A1Ak",
+    "https://pitchbook.com/profiles/company/113502-07",
+    "https://getlatka.com/companies/gorgias",
+    "https://www.zoominfo.com/c/gorgias-inc/406333439",
+    "https://sacra.com/c/gorgias/",
+    "https://fundediq.co/gorgias-gorgias-com-funding/",
+    "https://www.ringly.io/blog/gorgias-number-of-employees"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Gorgias",
+   "results": [
+    "https://note.com/kusuura/n/n11c52529bca2?hl=en",
+    "https://note.com/cerealtalk/n/n2ce1753268e6",
+    "https://note.com/kai_claudecode/n/n14e1d458aaf4",
+    "https://note.com/tottemosk/n/n893e06b2f847",
+    "https://note.com/tag/ポケカ",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/keizokuramoto/n/nef2f6f1c855d"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Gorgias",
+   "results": [
+    "https://x.com/gorgiasio",
+    "https://x.com/gorgias",
+    "https://x.com/statusisdown/status/2119877806460916186",
+    "https://x.com/ThaGorgias/status/2112757908794487058",
+    "https://x.com/gorgias86/status/2112780009576522022",
+    "https://x.com/Romain_Lapeyre/status/2079636276530037009",
+    "https://x.com/gorgias86/status/2117950503888040426"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Gorgias",
+   "results": [
+    "https://www.linkedin.com/company/gorgias",
+    "https://www.linkedin.com/company/gorgias/life",
+    "https://www.linkedin.com/in/romainlapeyre",
+    "https://www.linkedin.com/company/gorgias/jobs",
+    "https://www.linkedin.com/in/agarwalk",
+    "https://www.linkedin.com/in/heatheradams",
+    "https://www.linkedin.com/in/313373"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Gorgias",
+   "results": [
+    "https://www.facebook.com/gorgiasio/",
+    "https://www.facebook.com/gorgiaspress/",
+    "https://www.facebook.com/groups/customersupportgroup/",
+    "https://www.facebook.com/gorgiasio/posts/new-on-gorgias-new-signature-field-and-keyboard-shortcutbio-field-weve-just-rele/842869249249930/",
+    "https://www.facebook.com/culturalheritagescienceopensource/videos/-meet-gorgias-your-portable-reflectance-spectroscopy-systemwe-are-proud-to-intro/876785058656651/",
+    "https://www.facebook.com/gorgiasio/posts/new-on-gorgias-create-internal-notes-by-emailwe-have-updated-internal-notes-and-/1015582621978591/",
+    "https://www.facebook.com/gorgiasio/posts/new-on-gorgias-merge-ticketswere-excited-to-announce-that-you-can-now-merge-tick/966705786866275/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gorgias note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Gorgias X 投稿",
+   "results": [
+    "https://x.com/gorgiasio",
+    "https://x.com/gorgiaspress",
+    "https://x.com/Gorgiasi",
+    "https://x.com/gorgias",
+    "https://www.pixiv.net/users/9107162",
+    "https://x.com/grgorgias",
+    "https://gorgias.fanbox.cc/posts?page=5&sort=newest"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部40頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部40頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部40頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部40頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部40頁・検索12回）"
+ }
+}

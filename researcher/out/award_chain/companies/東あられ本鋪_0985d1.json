@@ -1,0 +1,1340 @@
+{
+ "name": "東あられ本鋪",
+ "aliases": [],
+ "context": "東京都・資本金10000万円・東京都 ものづくり企業データベース",
+ "researched_at": "2026-11-10T14:40:41.541575+00:00",
+ "official_url": "https://www.toyo-rice.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "会社設立",
+    "value": "会社設立：昭和36年（1961年）",
+    "url": "https://www.toyo-rice.jp/about/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "100,000,000円",
+    "url": "https://www.toyo-rice.jp/about/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長 阪本 哲生",
+    "url": "https://www.toyo-rice.jp/about/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "銀座本社 〒104-0061東京都中央区銀座5-10-13 東洋ライスビル TEL 03-3572-7550 GoogleMap",
+    "url": "https://www.toyo-rice.jp/about/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "総合食品加工機器製造販売事業、光学電子機器、農業機器の技術開発と製造販売事業及び、プラントエンジニアリング事業 金芽米、金芽ロウカット玄米、BG無洗米の製造・販売・輸出事業 コメの受託加工事業 米加工品事業 炊飯指導事業 米粉事業 発電事業 環境と美味に配慮した稲作の土作り事業、新品種の種籾事業 機能性米による日本のコメ農業の活性化事業",
+    "url": "https://www.toyo-rice.jp/about/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "230人",
+    "url": "https://www.toyo-rice.jp/about/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "~ 金芽米を作っている工場の中を覗いてみよう！ ~",
+    "url": "https://www.toyo-rice.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "総合食品加工機器製造販売事業、光学電子機器、農業機器の技術開発と製造販売事業及び、プラントエンジニアリング事業",
+    "url": "https://www.toyo-rice.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "BG無洗米、金芽ロウカット玄米、金芽米、金芽米・金芽ロウカット玄米を使った無菌包装米飯、たんぱく質を抑えた金芽ロウカット玄米の無菌包装米飯、金芽米の米粉パンケーキミックス、電子色彩選別機、粉粒体搬送機、電子自動スケール、全自動穀類調質機、自動石抜機、全自動精米機、 防音型自動精米機、自動混米機、全自動計量包装機、コンピューター精米機器制御装置、コンピューターブレンド装置、 大型精米プラント、自動配積み装置、立体倉庫、味度メーター、すぐ炊き自動炊飯器、施設園芸機器ほか",
+    "url": "https://www.toyo-rice.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "わが国の近代精米工場の幕開けとなった「トーヨー撰穀機」発表、これを機に株式会社東洋精米機製作所を設立",
+    "url": "https://www.toyo-rice.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "精米工場をコンピューターで全自動化したFA（ファクトリーオートメーション）－CMCトータルシステムを発表",
+    "url": "https://www.toyo-rice.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "埼玉県坂戸市に世界最大の無洗米工場「トーヨーライスセンター関東工場」完成",
+    "url": "https://www.toyo-rice.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "トーヨーライスセンター関東工場に太陽光発電とコージェネレーションシステムを導入",
+    "url": "https://www.toyo-rice.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "精米工場が儲かるシリーズ第１弾「エコ包装パッカー」、第２弾「新型色彩選別機」を相次ぎ発表",
+    "url": "https://www.toyo-rice.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "精米工場が儲かるシリーズ第３弾「新型石抜機」、第４弾「新型計量包装機」を相次ぎ発表",
+    "url": "https://www.toyo-rice.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ会社であるトーヨーライス株式会社を吸収合併して社名を東洋ライス株式会社に変更、お米に関する総合メーカーとして新たなスタート",
+    "url": "https://www.toyo-rice.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "驚異的な高効率化を達成した次世代の無洗米工場「東洋ライスリンクウ工場」を完成",
+    "url": "https://www.toyo-rice.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "体験型環境教育推進プログラム「いきものみっけファーム」が文部科学省「青少年の体験活動推進企業表彰 審査委員会奨励賞」受賞",
+    "url": "https://www.toyo-rice.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "精米工場が儲かるシリーズ、選別率大幅にアップなど数々の問題点を改良した色彩選別機「XCA TYPE3」を発表",
+    "url": "https://www.toyo-rice.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "精米工場が儲かるシリーズ、「ロス米ゼロ」を実現し、更に選別性能をも高めた新型「高性能石抜機」を発表",
+    "url": "https://www.toyo-rice.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "医療費削減に向けたヘルスケア事業の取り組みをスタート",
+    "url": "https://www.toyo-rice.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "日本健康医療学会より「健康医療アワード」を受賞",
+    "url": "https://www.toyo-rice.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "自治体が無料利用できるコワーキングスペース「Ginza Wellness Hub」を開設",
+    "url": "https://www.toyo-rice.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "従って当社は、「お米に関する総合メーカー」として、日本のコメに環境と健康という新しい付加価値を創り、環境浄化と、国の医療費の削減、及び生産者から消費者に至る全ての人に、健康と利益をもたらす技術を創造して参りました",
+    "url": "https://www.toyo-rice.jp/about/topmessage/",
+    "pass": 1
+   },
+   {
+    "quote": "人間は学校で学んできたからといっても、単に学問的な知識を持っているに過ぎません",
+    "url": "https://www.toyo-rice.jp/about/topmessage/",
+    "pass": 1
+   },
+   {
+    "quote": "支店・営業所・工場 - 人も自然もすこやかに 『東洋ライス株式会社』",
+    "url": "https://www.toyo-rice.jp/about/branch/",
+    "pass": 1
+   },
+   {
+    "quote": "人々の健康増進及び持続可能な農業の発展を目指し、全国各地の自治体・企業等と「金芽米」「米の精」などを活用した取り組みを推進しています",
+    "url": "https://www.toyo-rice.jp/about/hokatsu/",
+    "pass": 1
+   },
+   {
+    "quote": "鳥取いなば農業協同組合と包括連携協定を締結",
+    "url": "https://www.toyo-rice.jp/about/hokatsu/",
+    "pass": 1
+   },
+   {
+    "quote": "島根県安来市、島根県農業協同組合と包括連携協定を締結",
+    "url": "https://www.toyo-rice.jp/about/hokatsu/",
+    "pass": 1
+   },
+   {
+    "quote": "長野県南箕輪村、上伊那農業協同組合と包括連携協定を締結",
+    "url": "https://www.toyo-rice.jp/about/hokatsu/",
+    "pass": 1
+   },
+   {
+    "quote": "埼玉県毛呂山町、いるま野農業協同組合と包括連携協定を締結",
+    "url": "https://www.toyo-rice.jp/about/hokatsu/",
+    "pass": 1
+   },
+   {
+    "quote": "秋田県美郷町、秋田おばこ農業協同組合と包括連携協定を締結",
+    "url": "https://www.toyo-rice.jp/about/hokatsu/",
+    "pass": 1
+   },
+   {
+    "quote": "公益財団法人宮崎県学校給食会、株式会社JA ARUniCoと包括連携協定を締結",
+    "url": "https://www.toyo-rice.jp/about/hokatsu/",
+    "pass": 1
+   },
+   {
+    "quote": "滋賀県日野町、グリーン近江農業協同組合と包括連携協定を締結",
+    "url": "https://www.toyo-rice.jp/about/hokatsu/",
+    "pass": 1
+   },
+   {
+    "quote": "人々の健康増進及び持続可能な農業の発展を目指し、",
+    "url": "https://www.toyo-rice.jp/wp/wp-content/uploads/2022/08/company-pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全国各地の自治体・企業等と「金芽米」 「米の精]などを",
+    "url": "https://www.toyo-rice.jp/wp/wp-content/uploads/2022/08/company-pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "宮崎県学校給食会、JA ARUniCo",
+    "url": "https://www.toyo-rice.jp/wp/wp-content/uploads/2022/08/company-pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "滋賀県日野町、グリーン近江農業協同組合",
+    "url": "https://www.toyo-rice.jp/wp/wp-content/uploads/2022/08/company-pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "従って合併後の当社は、「お米に関する総合メーカー」",
+    "url": "https://www.toyo-rice.jp/wp/wp-content/uploads/2022/08/company-pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を創り、環境浄化と、国の医療費の削減、及び生産者か",
+    "url": "https://www.toyo-rice.jp/wp/wp-content/uploads/2022/08/company-pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "人間は学校で学んできたからといっても、単に学問的な",
+    "url": "https://www.toyo-rice.jp/wp/wp-content/uploads/2022/08/company-pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サイタマ工場 〒350-0269",
+    "url": "https://www.toyo-rice.jp/wp/wp-content/uploads/2022/08/company-pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リンクウ工場 598-0093",
+    "url": "https://www.toyo-rice.jp/wp/wp-content/uploads/2022/08/company-pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "二本松工場 〒964.0812",
+    "url": "https://www.toyo-rice.jp/wp/wp-content/uploads/2022/08/company-pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "和歌山工場 〒6408341",
+    "url": "https://www.toyo-rice.jp/wp/wp-content/uploads/2022/08/company-pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "農業機器の技術開発と製造販売事業及び、プラント",
+    "url": "https://www.toyo-rice.jp/wp/wp-content/uploads/2022/08/company-pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "人@機能性米による日本のコメ農業の活性化事業",
+    "url": "https://www.toyo-rice.jp/wp/wp-content/uploads/2022/08/company-pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "平成 25 年に完成した「超高効率]」 のリンクウ工場",
+    "url": "https://www.toyo-rice.jp/wp/wp-content/uploads/2022/08/company-pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・わが国の近代精米工場の幕開けとなった「トー",
+    "url": "https://www.toyo-rice.jp/wp/wp-content/uploads/2022/08/company-pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・埼玉県坂戸市に「東洋ライスサイタマ工場」 が",
+    "url": "https://www.toyo-rice.jp/wp/wp-content/uploads/2022/08/company-pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・精米工場が儲かるシリーズ第1弾「エコ包装パッ",
+    "url": "https://www.toyo-rice.jp/wp/wp-content/uploads/2022/08/company-pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・精米工場が儲かるシリーズ第3弾[新型石抜機」、",
+    "url": "https://www.toyo-rice.jp/wp/wp-content/uploads/2022/08/company-pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・体験型環境教育推進プログラム「いきものみっけ",
+    "url": "https://www.toyo-rice.jp/wp/wp-content/uploads/2022/08/company-pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・精米工場が儲かるシリーズ、 色彩選別機TXCA",
+    "url": "https://www.toyo-rice.jp/wp/wp-content/uploads/2022/08/company-pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・精米工場が儲かるシリーズ、新型 「高性能石抜",
+    "url": "https://www.toyo-rice.jp/wp/wp-content/uploads/2022/08/company-pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・医療費削減に向けたヘルスケア事業の取り組み",
+    "url": "https://www.toyo-rice.jp/wp/wp-content/uploads/2022/08/company-pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・日本健康医療学会より「 健康医療アワード」を受賞",
+    "url": "https://www.toyo-rice.jp/wp/wp-content/uploads/2022/08/company-pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・自治体が無料利用できるコワーキングスペース",
+    "url": "https://www.toyo-rice.jp/wp/wp-content/uploads/2022/08/company-pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "く自治体・企業等との包括連携協定については裏面に掲載>",
+    "url": "https://www.toyo-rice.jp/wp/wp-content/uploads/2022/08/company-pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1910年の創業以来、あられやおかきを作り続けている同社は、卸先である百貨店の業績不振やお中元・お歳暮需要の変化などの課題に直面してきた",
+    "url": "https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/",
+    "pass": 3
+   },
+   {
+    "quote": "多様な商品ラインナップにより幅広い顧客のニーズに応えるかたわら、同社は顧客に対するきめ細やかな接客・販売を心掛けることで、地域密着の老舗米菓店として、ゆるぎない地位を確立している",
+    "url": "https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/",
+    "pass": 3
+   },
+   {
+    "quote": "第二次世界大戦前までは、仲間卸や問屋へおかき・あられを卸していたという東あられ本鋪",
+    "url": "https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/",
+    "pass": 3
+   },
+   {
+    "quote": "「そのため、『東一福』を小売り用に商品化し、通信販売を中心に個人のお客様への販売を開始したほか、百貨店でも『甑（こしき）』という名称で販売したころ、またたくまに人気となり、当社の看板商品へと成長しました",
+    "url": "https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/",
+    "pass": 3
+   },
+   {
+    "quote": "「監査基準が非常に厳しく、工場査察やトラブル発生時の負担が重くのしかかりました",
+    "url": "https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/",
+    "pass": 3
+   },
+   {
+    "quote": "チャック付きの袋や、食べきりサイズの小袋など、顧客の消費スタイルに合わせてパッケージも工夫して販売している",
+    "url": "https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/",
+    "pass": 3
+   },
+   {
+    "quote": "米菓の「辛い」軸だけでなく、洋菓子の「甘い」軸でも米を活用することで、商品の幅を広げ、顧客の来店頻度を高めることが狙いだ",
+    "url": "https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/",
+    "pass": 3
+   }
+  ],
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "総合食品加工機器製造販売事業、光学電子機器、農業機器の技術開発と製造販売事業及び、プラントエンジニアリング事業",
+    "url": "https://www.toyo-rice.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "金芽米、金芽ロウカット玄米、BG無洗米の製造・販売・輸出事業",
+    "url": "https://www.toyo-rice.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "【学会発表】 気候変動下でも「実際のおいしさ」を店頭で選べる社会へ 炊飯した飯を評価し、一貫した食味品質を実現する製造法を実証",
+    "url": "https://www.toyo-rice.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "全総合食品加工機器製造販売事業、光学電子機器、",
+    "url": "https://www.toyo-rice.jp/wp/wp-content/uploads/2022/08/company-pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "農業機器の技術開発と製造販売事業及び、プラント",
+    "url": "https://www.toyo-rice.jp/wp/wp-content/uploads/2022/08/company-pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "墨田区・北斎通りに本店を構えるのが、米菓の製造・販売を手がける「株式会社東あられ本鋪」だ",
+    "url": "https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/",
+    "pass": 3
+   },
+   {
+    "quote": "多様な商品ラインナップにより幅広い顧客のニーズに応えるかたわら、同社は顧客に対するきめ細やかな接客・販売を心掛けることで、地域密着の老舗米菓店として、ゆるぎない地位を確立している",
+    "url": "https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/",
+    "pass": 3
+   },
+   {
+    "quote": "「当時は法人のお中元・お歳暮需要が大きく、贈答用の箱物が売上の7～8割を占めていました」と、4代目にあたる小林氏は振り返る",
+    "url": "https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/",
+    "pass": 3
+   },
+   {
+    "quote": "「そのため、『東一福』を小売り用に商品化し、通信販売を中心に個人のお客様への販売を開始したほか、百貨店でも『甑（こしき）』という名称で販売したころ、またたくまに人気となり、当社の看板商品へと成長しました",
+    "url": "https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/",
+    "pass": 3
+   },
+   {
+    "quote": "定番商品として、年間4～5億円の売上を記録するほどの成功を収めたが、約8年で撤退したという",
+    "url": "https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/",
+    "pass": 3
+   },
+   {
+    "quote": "また、当初は自社商品をそのまま販売する形だったものが、次第にオリジナル商品の開発を求められるようになったことも一つの要因です",
+    "url": "https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/",
+    "pass": 3
+   },
+   {
+    "quote": "東あられ本鋪の売上も低迷し、百貨店からの撤退を余儀なくされた",
+    "url": "https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/",
+    "pass": 3
+   },
+   {
+    "quote": "ですが、実店舗と通信販売での直売事業のみに事業を縮小したことにより、人件費を含めた経費が大幅に削減され、会社を存続させることができました」と吐露する",
+    "url": "https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/",
+    "pass": 3
+   },
+   {
+    "quote": "かつて主力だった箱物の売上は現在、3～4割にまで減少",
+    "url": "https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/",
+    "pass": 3
+   },
+   {
+    "quote": "チャック付きの袋や、食べきりサイズの小袋など、顧客の消費スタイルに合わせてパッケージも工夫して販売している",
+    "url": "https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/",
+    "pass": 3
+   },
+   {
+    "quote": "「100人以上の顧客を記憶する」など、きめ細やかな接客・販売を行う",
+    "url": "https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/",
+    "pass": 3
+   },
+   {
+    "quote": "同社の販売部では月に1度の割合で外部のコンサルタントを招き、「顧客をいかに大切にするか」を学んでいるという",
+    "url": "https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、直営店3店舗だけでなく通信販売でも販売時の御礼メールなどでのきめ細やかな対応を徹底し、顧客に寄り添った丁寧な販売を心がけている",
+    "url": "https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/",
+    "pass": 3
+   },
+   {
+    "quote": "カード情報を分析したところ、お客様の6～7割が地域住民だと分かりました」と小林氏が言及する通り、東あられ本鋪は地域密着型の接客・販売を積み重ね、リピーターの獲得に成功している",
+    "url": "https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/",
+    "pass": 3
+   },
+   {
+    "quote": "その姿勢を忘れず、地域に根差した事業運営を続けてきた結果が、115年にわたる歴史として刻まれている",
+    "url": "https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/",
+    "pass": 3
+   },
+   {
+    "quote": "サイト運営：東京商工会議所 地域振興部 観光・流通サービス担当",
+    "url": "https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/",
+    "pass": 3
+   },
+   {
+    "quote": "高品質な米を原料にあられなど米菓を製造・販売する老舗企業",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/company/azuma-arare/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都内に２店舗と千葉県八千代市に自社製造工場を持ち、あられ、おかき、せんべいなどの米菓の製造・販売を行っている",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/company/azuma-arare/",
+    "pass": 3
+   },
+   {
+    "quote": "「今後、店舗内に米粉製品の製造工程が見えるようなスペースや休憩所を設置したいと考えています",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/company/azuma-arare/",
+    "pass": 3
+   },
+   {
+    "quote": "製造や包装作業、販売、マーケティングなど各部署を回るジョブローテーション研修で、会社全体の業務を把握する",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/company/azuma-arare/",
+    "pass": 3
+   },
+   {
+    "quote": "その日に学んだ内容をノートにまとめ、店長や副店長に提出すると、商品に関する追加情報や接客のアドバイスなど細かなコメントをくれて、ありがたかったです」（入社１年目、販売部の梅村さん）",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/company/azuma-arare/",
+    "pass": 3
+   },
+   {
+    "quote": "販売だけではなく在庫を見ながら工場へ商品を発注するのも大事な仕事",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/company/azuma-arare/",
+    "pass": 3
+   },
+   {
+    "quote": "」（入社10年目、販売部の桝田副店長）",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/company/azuma-arare/",
+    "pass": 3
+   },
+   {
+    "quote": "また、梅村さんは「店舗での販売と併せて、今後、会社のSNS運用のメイン担当となる予定です",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/company/azuma-arare/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社東あられ本鋪（東京都墨田区 製造業 従業員数87名 資本金7,800万円）",
+    "url": "https://bansoushien.smrj.go.jp/case/detail_750/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、中元・歳暮市場の縮小などから収益が伸び悩み、多額の借入金を抱えて厳しい経営状態が続いていた",
+    "url": "https://bansoushien.smrj.go.jp/case/detail_750/",
+    "pass": 3
+   },
+   {
+    "quote": "主要取引金融機関から東京信用保証協会に対し、当社の収益改善および借換正常化を目的とした「専門家派遣による経営改善計画の策定支援」の協力依頼があり、支援を行うこととなった",
+    "url": "https://bansoushien.smrj.go.jp/case/detail_750/",
+    "pass": 3
+   },
+   {
+    "quote": "経営改善計画の策定に当たっては３か月程度の期間を設け、その間に中小企業診断士を計７回派遣",
+    "url": "https://bansoushien.smrj.go.jp/case/detail_750/",
+    "pass": 3
+   },
+   {
+    "quote": "葛飾北斎のギフト商品等を取扱い、長年の実績により固定客を多数抱えている一方で、消費者の嗜好の多様化や進物市場の縮小、主要取引先であった百貨店の経営悪化等の影響を受けて収益が鈍化",
+    "url": "https://bansoushien.smrj.go.jp/case/detail_750/",
+    "pass": 3
+   },
+   {
+    "quote": "フォローアップ中に新型コロナウィルスの流行が本格化したことで、直営店や空港等の土産物店の販売が大きく減少",
+    "url": "https://bansoushien.smrj.go.jp/case/detail_750/",
+    "pass": 3
+   },
+   {
+    "quote": "その後も新型コロナウィルスの流行が長期化し、計画０期と計画１期の売上高と利益額とも計画と実績の乖離が大きい状況が継続した",
+    "url": "https://bansoushien.smrj.go.jp/case/detail_750/",
+    "pass": 3
+   },
+   {
+    "quote": "また、「ゼロゼロ融資」の据置期間の終了が迫っていたが、現在の収益状況では返済原資の確保が苦しいことが判明",
+    "url": "https://bansoushien.smrj.go.jp/case/detail_750/",
+    "pass": 3
+   },
+   {
+    "quote": "２ヶ月程度の期間を設け、その間に前回担当した中小企業診断士を計４回派遣",
+    "url": "https://bansoushien.smrj.go.jp/case/detail_750/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業診断士の派遣時に当協会の職員と主要取引金融機関が毎回同行し、進捗状況を共有しながら支援の方向性について意見交換を実施したことで、代表者・金融機関の双方にとって実現性が高いと判断できる計画を策定することができた",
+    "url": "https://bansoushien.smrj.go.jp/case/detail_750/",
+    "pass": 3
+   },
+   {
+    "quote": "直近決算ではコロナ禍前を大きく上回る売上高・利益額で着地し、今後も業績の伸長が見込まれる状況にある",
+    "url": "https://bansoushien.smrj.go.jp/case/detail_750/",
+    "pass": 3
+   },
+   {
+    "quote": "新米おすすめセット販売について(10/16～）",
+    "url": "https://www.azuma-arare.co.jp/?srsltid=AYCX9vJBf2uTdB3-voRvj34JNrk0QqLnaMlsBCnPgUhJjpTHRcUkG_Dl",
+    "pass": 3
+   },
+   {
+    "quote": "数量限定「福袋」販売のご案内(1/1～）",
+    "url": "https://www.azuma-arare.co.jp/?srsltid=AYCX9vJBf2uTdB3-voRvj34JNrk0QqLnaMlsBCnPgUhJjpTHRcUkG_Dl",
+    "pass": 3
+   },
+   {
+    "quote": "新米おすすめセット販売について(10/16～)",
+    "url": "https://www.azuma-arare.co.jp/?srsltid=AYCX9vJBf2uTdB3-voRvj34JNrk0QqLnaMlsBCnPgUhJjpTHRcUkG_Dl",
+    "pass": 3
+   },
+   {
+    "quote": "オリジナルプリント煎餅販売休止期間のお知らせ(8/23～8/31)",
+    "url": "https://www.azuma-arare.co.jp/?srsltid=AYCX9vJBf2uTdB3-voRvj34JNrk0QqLnaMlsBCnPgUhJjpTHRcUkG_Dl",
+    "pass": 3
+   },
+   {
+    "quote": "オンラインショップ福袋期間限定販売のご案内(1/1～1/3）",
+    "url": "https://www.azuma-arare.co.jp/?srsltid=AYCX9vJBf2uTdB3-voRvj34JNrk0QqLnaMlsBCnPgUhJjpTHRcUkG_Dl",
+    "pass": 3
+   },
+   {
+    "quote": "2022年11月5日号の日経朝刊プラス１にて当店の「珈琲」をご紹介していただきました",
+    "url": "https://www.azuma-arare.co.jp/?srsltid=AYCX9vJBf2uTdB3-voRvj34JNrk0QqLnaMlsBCnPgUhJjpTHRcUkG_Dl",
+    "pass": 3
+   },
+   {
+    "quote": "新米おすすめセット販売のお知らせ（10/20～）",
+    "url": "https://www.azuma-arare.co.jp/?srsltid=AYCX9vJBf2uTdB3-voRvj34JNrk0QqLnaMlsBCnPgUhJjpTHRcUkG_Dl",
+    "pass": 3
+   },
+   {
+    "quote": "数量限定商品【えび小丹トムヤムクン風味】販売のご案内(9/14～)",
+    "url": "https://www.azuma-arare.co.jp/?srsltid=AYCX9vJBf2uTdB3-voRvj34JNrk0QqLnaMlsBCnPgUhJjpTHRcUkG_Dl",
+    "pass": 3
+   },
+   {
+    "quote": "【数量限定わけあり品！】手揚げ塩れもんおかきの格安販売のお知らせ(8/5～)",
+    "url": "https://www.azuma-arare.co.jp/?srsltid=AYCX9vJBf2uTdB3-voRvj34JNrk0QqLnaMlsBCnPgUhJjpTHRcUkG_Dl",
+    "pass": 3
+   },
+   {
+    "quote": "通信販売限定 「きんぎょ箱」と「きんぎょさん」を公開いたしました",
+    "url": "https://www.azuma-arare.co.jp/?srsltid=AYCX9vJBf2uTdB3-voRvj34JNrk0QqLnaMlsBCnPgUhJjpTHRcUkG_Dl",
+    "pass": 3
+   },
+   {
+    "quote": "【販売終了商品とリニューアル商品に関するお知らせ】",
+    "url": "https://www.azuma-arare.co.jp/?srsltid=AYCX9vJBf2uTdB3-voRvj34JNrk0QqLnaMlsBCnPgUhJjpTHRcUkG_Dl",
+    "pass": 3
+   },
+   {
+    "quote": "期間限定 4種のチーズミックス揚げおかきとコンポタージュ揚げおかきのご紹介（2021/11/9～）",
+    "url": "https://www.azuma-arare.co.jp/?srsltid=AYCX9vJBf2uTdB3-voRvj34JNrk0QqLnaMlsBCnPgUhJjpTHRcUkG_Dl",
+    "pass": 3
+   },
+   {
+    "quote": "両国本店・菊川駅前店・通信販売 感謝セールのご案内（9/15～18，19)",
+    "url": "https://www.azuma-arare.co.jp/?srsltid=AYCX9vJBf2uTdB3-voRvj34JNrk0QqLnaMlsBCnPgUhJjpTHRcUkG_Dl",
+    "pass": 3
+   },
+   {
+    "quote": "通信販売限定 「きんぎょ箱」を公開いたしました",
+    "url": "https://www.azuma-arare.co.jp/?srsltid=AYCX9vJBf2uTdB3-voRvj34JNrk0QqLnaMlsBCnPgUhJjpTHRcUkG_Dl",
+    "pass": 3
+   },
+   {
+    "quote": "両国本店・菊川駅前店・通信販売 感謝セールのご案内（3/10～13，14)",
+    "url": "https://www.azuma-arare.co.jp/?srsltid=AYCX9vJBf2uTdB3-voRvj34JNrk0QqLnaMlsBCnPgUhJjpTHRcUkG_Dl",
+    "pass": 3
+   },
+   {
+    "quote": "期間限定商品 クリスマスサンタ販売いたします♪（11/20～）",
+    "url": "https://www.azuma-arare.co.jp/?srsltid=AYCX9vJBf2uTdB3-voRvj34JNrk0QqLnaMlsBCnPgUhJjpTHRcUkG_Dl",
+    "pass": 3
+   },
+   {
+    "quote": "きんぎょさんの販売をはじめました（7/13～）",
+    "url": "https://www.azuma-arare.co.jp/?srsltid=AYCX9vJBf2uTdB3-voRvj34JNrk0QqLnaMlsBCnPgUhJjpTHRcUkG_Dl",
+    "pass": 3
+   },
+   {
+    "quote": "営業時間変更のご案内（通信販売ご注文センター）(4/14～)",
+    "url": "https://www.azuma-arare.co.jp/?srsltid=AYCX9vJBf2uTdB3-voRvj34JNrk0QqLnaMlsBCnPgUhJjpTHRcUkG_Dl",
+    "pass": 3
+   },
+   {
+    "quote": "季節限定新米おかき各種を販売開始致しました",
+    "url": "https://www.azuma-arare.co.jp/?srsltid=AYCX9vJBf2uTdB3-voRvj34JNrk0QqLnaMlsBCnPgUhJjpTHRcUkG_Dl",
+    "pass": 3
+   },
+   {
+    "quote": "きんぎょさんの販売をはじめました(2019/7/13～）",
+    "url": "https://www.azuma-arare.co.jp/?srsltid=AYCX9vJBf2uTdB3-voRvj34JNrk0QqLnaMlsBCnPgUhJjpTHRcUkG_Dl",
+    "pass": 3
+   }
+  ],
+  "表彰・認定の記録": [
+   {
+    "quote": "とがずに炊けるBG無洗米「Ca愛を米」が日経優秀製品・サービス賞 受賞",
+    "url": "https://www.toyo-rice.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "とがずに炊けるBG無洗米「海・川に愛を米」「びわ湖に愛を米」滋賀県エコライフびわ湖賞 最優秀賞 受賞",
+    "url": "https://www.toyo-rice.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "BG無洗米が平成13年度民間部門農林水産研究開発功績者表彰事業において、農林水産大臣賞受賞当社雑賀社長が平成13年度安藤百福記念賞 優秀賞を受賞",
+    "url": "https://www.toyo-rice.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「瀬戸内海環境保全功労者賞」において環境大臣表彰を受賞",
+    "url": "https://www.toyo-rice.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "体験型環境教育推進プログラム「いきものみっけファーム」が文部科学省「青少年の体験活動推進企業表彰 審査委員会奨励賞」受賞",
+    "url": "https://www.toyo-rice.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「ＢＧ無洗米による米のとぎ汁公害及びCO2排出の削減活動」が評価され「第24回地球環境大賞 環境大臣賞」受賞",
+    "url": "https://www.toyo-rice.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「世界最高米」が「最も高額な米」として「ギネス世界記録Ⓡ」に認定",
+    "url": "https://www.toyo-rice.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "シンガポール政府より金芽ロウカット玄米が健康に良い食品として認定（Healthier Choice Symbol）",
+    "url": "https://www.toyo-rice.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "日本健康医療学会より「健康医療アワード」を受賞",
+    "url": "https://www.toyo-rice.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "環境大臣より「エコ・ファースト企業」に認定",
+    "url": "https://www.toyo-rice.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "金芽ロウカット玄米が「第41回食品ヒット大賞 優秀ヒット賞」受賞",
+    "url": "https://www.toyo-rice.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "金芽ロウカット玄米が「科学技術分野の文部科学大臣表彰 科学技術賞（技術部門）」受賞",
+    "url": "https://www.toyo-rice.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "東洋ライスが「日本食品保蔵科学会・第74回大会 産業技術功労賞」受賞",
+    "url": "https://www.toyo-rice.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "業界初の(エコ-ファースト企業)として黒境大臣より認定を受けました",
+    "url": "https://www.toyo-rice.jp/wp/wp-content/uploads/2022/08/company-pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・「第 24 回地球環境大賞 環境大臣賞」受党",
+    "url": "https://www.toyo-rice.jp/wp/wp-content/uploads/2022/08/company-pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "良い食品として認定(Healthier Choice Symbol)",
+    "url": "https://www.toyo-rice.jp/wp/wp-content/uploads/2022/08/company-pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・日本健康医療学会より「 健康医療アワード」を受賞",
+    "url": "https://www.toyo-rice.jp/wp/wp-content/uploads/2022/08/company-pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・環境大臣より「エコ・ファースト企業]に認定",
+    "url": "https://www.toyo-rice.jp/wp/wp-content/uploads/2022/08/company-pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・金芽ロウカット玄米が「 第 41 回食品ヒット大賞 優秀",
+    "url": "https://www.toyo-rice.jp/wp/wp-content/uploads/2022/08/company-pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "両国本店増床開店、墨田区工房ショップに認定",
+    "url": "https://www.azuma-arare.co.jp/hpgen/HPB/entries/9.html?srsltid=AYCX9vLyg4kjaUkmlhUVCUYi6cP4JwPdk0eeBLdc6glIFjNjldQmWJc4",
+    "pass": 3
+   },
+   {
+    "quote": "代表者と面談し経営改善への強い意向が確認できたため、支援実績の豊富な中小企業診断士を選定し経営改善計画の策定支援を開始した",
+    "url": "https://bansoushien.smrj.go.jp/case/detail_750/",
+    "pass": 3
+   },
+   {
+    "quote": "両国本店増床開店、墨田区工房ショップに認定",
+    "url": "https://www.azuma-arare.co.jp/hpgen/HPB/entries/9.html?srsltid=AYCX9vLaooj1z28h8xY-EpmN_Gf-NQUNa2h9CK08DySWxi0fkBKLN4Kp",
+    "pass": 3
+   },
+   {
+    "quote": "「こちら秘書室」公認『“接待の手土産”セレクション2024』特撰受賞のお知らせ",
+    "url": "https://www.azuma-arare.co.jp/?srsltid=AYCX9vJBf2uTdB3-voRvj34JNrk0QqLnaMlsBCnPgUhJjpTHRcUkG_Dl",
+    "pass": 3
+   },
+   {
+    "quote": "婦人画報のお取り寄せアワード＆決定版2023 東あられの海苔巻きが金賞を受賞しました",
+    "url": "https://www.azuma-arare.co.jp/?srsltid=AYCX9vJBf2uTdB3-voRvj34JNrk0QqLnaMlsBCnPgUhJjpTHRcUkG_Dl",
+    "pass": 3
+   },
+   {
+    "quote": "婦人画報のお取り寄せアワード2021受賞",
+    "url": "https://www.azuma-arare.co.jp/?srsltid=AYCX9vJBf2uTdB3-voRvj34JNrk0QqLnaMlsBCnPgUhJjpTHRcUkG_Dl",
+    "pass": 3
+   },
+   {
+    "quote": "両国本店増床開店、墨田区工房ショップに認定",
+    "url": "https://www.azuma-arare.co.jp/hpgen/HPB/entries/9.html?srsltid=AYCX9vIMeSIwvjfSAcBSJCvYwABS-WQ0l4mIAocx7RbtDY6pUYpI1O2A",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "両国本店の位置する墨田区亀沢が葛飾北斎生誕の地であることから、葛飾北斎の知名度を上げて地域を盛り上げたい、との思いで開発したという同商品は、その特徴的なパッケージから個人向けの手軽なお土産物として人気を博している",
+    "url": "https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/",
+    "pass": 3
+   },
+   {
+    "quote": "社長との距離が近く、意見を言いやすい中小企業はたくさんあります",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/company/azuma-arare/",
+    "pass": 3
+   },
+   {
+    "quote": "良いと思ったらすぐに実行できるのも中小企業の魅力です",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/company/azuma-arare/",
+    "pass": 3
+   },
+   {
+    "quote": "～東京両国の老舗米菓メーカーが業績改善に挑む～ | 事例一覧 | 伴走支援プラットフォーム｜中小企業基盤整備機構",
+    "url": "https://bansoushien.smrj.go.jp/case/detail_750/",
+    "pass": 3
+   },
+   {
+    "quote": "早急な経営改善のために、主要取引金融機関、東京信用保証協会、中小企業診断士の三位一体の連携による支援が行われた",
+    "url": "https://bansoushien.smrj.go.jp/case/detail_750/",
+    "pass": 3
+   },
+   {
+    "quote": "代表者と面談し経営改善への強い意向が確認できたため、支援実績の豊富な中小企業診断士を選定し経営改善計画の策定支援を開始した",
+    "url": "https://bansoushien.smrj.go.jp/case/detail_750/",
+    "pass": 3
+   },
+   {
+    "quote": "経営改善計画の策定に当たっては３か月程度の期間を設け、その間に中小企業診断士を計７回派遣",
+    "url": "https://bansoushien.smrj.go.jp/case/detail_750/",
+    "pass": 3
+   },
+   {
+    "quote": "資金繰りが悪化していることを確認したため、主要取引金融機関を通じてコロナ禍での中小企業の救済を目的とする資金繰り制度「ゼロゼロ融資」を実行し、事業継続を後押しした",
+    "url": "https://bansoushien.smrj.go.jp/case/detail_750/",
+    "pass": 3
+   },
+   {
+    "quote": "２ヶ月程度の期間を設け、その間に前回担当した中小企業診断士を計４回派遣",
+    "url": "https://bansoushien.smrj.go.jp/case/detail_750/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業診断士の派遣時に当協会の職員と主要取引金融機関が毎回同行し、進捗状況を共有しながら支援の方向性について意見交換を実施したことで、代表者・金融機関の双方にとって実現性が高いと判断できる計画を策定することができた",
+    "url": "https://bansoushien.smrj.go.jp/case/detail_750/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式 会社東あられ本鋪 - 東京商工会議所 — 株式 会社東あられ本鋪 - 東京商工会議所 東京商工会議所 https://www.tokyo-cci.or.jp > case > azumaarare",
+    "url": "https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社東あられ本鋪 - 東京カイシャハッケン伝 — 株式 会社東あられ本鋪 - 東京カイシャハッケン伝 東京カイシャハッケン伝 https://www.kaisyahakken.metro.tokyo.lg.jp > azuma-arare",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/company/azuma-arare",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社東あられ本鋪 - BIZMAPS（ビズマップ） — 株式 会社東あられ本鋪 - BIZMAPS（ビズマップ） BIZMAPS（ビズマップ） https://biz-maps.com > item",
+    "url": "https://biz-maps.com/item/x6YVLbbJlB",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 東あられ本鋪 - 東京商工会議所 — 株式会社 東あられ本鋪 - 東京商工会議所 東京商工会議所 https://www.tokyo-cci.or.jp > case > azumaarare",
+    "url": "https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 東あられ本鋪 - BIZMAPS（ビズマップ） — 株式会社 東あられ本鋪 - BIZMAPS（ビズマップ） BIZMAPS（ビズマップ） https://biz-maps.com > item",
+    "url": "https://biz-maps.com/item/x6YVLbbJlB",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 東あられ本鋪 - 東京都・和菓子業界の企業情報 — 株式会社 東あられ本鋪 - 東京都・和菓子業界の企業情報 Baseconnect https://baseconnect.in > companies",
+    "url": "https://baseconnect.in/companies/5b19435d-752b-45dd-9c98-41b7861e7df6",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社 東あられ本鋪 - 東京商工会議所 — 株式 会社 東あられ本鋪 - 東京商工会議所 東京商工会議所 https://www.tokyo-cci.or.jp > case > azumaarare",
+    "url": "https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社 東あられ本鋪 @1910年創業 (@azuma_arare) / X — 株式 会社 東あられ本鋪 @1910年創業 (@azuma_arare) / X X https://x.com > azuma_arare",
+    "url": "https://x.com/azuma_arare",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社 東あられ本鋪 - 東京カイシャハッケン伝 — 株式 会社 東あられ本鋪 - 東京カイシャハッケン伝 東京カイシャハッケン伝 https://www.kaisyahakken.metro.tokyo.lg.jp > azuma-arare",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/company/azuma-arare",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社 東あられ本鋪 （東京都）の会社概要・役員 - Compalyze — 株式 会社 東あられ本鋪 （東京都）の会社概要・役員 - Compalyze Compalyze https://compalyze.co.jp > 企業検索 > 食品・飲料",
+    "url": "https://compalyze.co.jp/company/2010601008323",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 東あられ本鋪 のプレスリリース - PR TIMES — 株式会社 東あられ本鋪 のプレスリリース - PR TIMES PR TIMES https://prtimes.jp > main > html > searchrlp > company_id",
+    "url": "https://prtimes.jp/main/html/searchrlp/company_id/58780",
+    "pass": 3
+   },
+   {
+    "quote": "Reel by （株） 東あられ本鋪 |明治43年創業あられ・おかき・お ... — Reel by （株） 東あられ本鋪 |明治43年創業あられ・おかき・お ... Instagram https://www.instagram.com > reel",
+    "url": "https://www.instagram.com/reel/C6K-zEFPx8K/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 東あられ本鋪 @1910年創業 (@azuma_arare) / X — 株式会社 東あられ本鋪 @1910年創業 (@azuma_arare) / X X https://x.com > azuma_arare",
+    "url": "https://x.com/azuma_arare",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "株式会社東あられ本鋪（東京都墨田区 製造業 従業員数87名 資本金7,800万円）",
+    "url": "https://bansoushien.smrj.go.jp/case/detail_750/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 東あられ本鋪 @1910年創業 (@azuma_arare) / X 株式会社 東あられ本鋪 @1910年創業 (@azuma_arare) / X X https://x.com > azuma_arare",
+    "url": "https://x.com/azuma_arare",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 東あられ本鋪 @1910年創業 - X 株式会社 東あられ本鋪 @1910年創業 - X X https://x.com > @azuma_arare",
+    "url": "https://x.com/azuma_arare/status/2100474141883470066",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 東あられ本鋪 @1910年創業 on X: \"鉄砲隊！\" / X 株式会社 東あられ本鋪 @1910年創業 on X: \"鉄砲隊！\" / X X https://x.com > @azuma_arare",
+    "url": "https://x.com/azuma_arare/status/2113884355387093445",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 東あられ本鋪 @1910年創業 on X 株式会社 東あられ本鋪 @1910年創業 on X X https://x.com > @azuma_arare",
+    "url": "https://x.com/azuma_arare/status/2047497602091151715",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "下町・両国の老舗あられ屋 株式会社 東あられ 本鋪 - Facebook 下町・両国の老舗あられ屋 株式会社 東あられ 本鋪 - Facebook Facebook https://www.facebook.com > azumaarare",
+    "url": "https://www.facebook.com/azumaarare/?locale=ja_JP",
+    "pass": 3
+   },
+   {
+    "quote": "下町・両国の老舗あられ屋 株式会社 東あられ 本鋪 ... - Facebook 下町・両国の老舗あられ屋 株式会社 東あられ 本鋪 ... - Facebook Facebook https://www.facebook.com > azumaarare > photos",
+    "url": "https://www.facebook.com/azumaarare/photos/1390232049774422/",
+    "pass": 3
+   },
+   {
+    "quote": "下町・両国の老舗あられ屋 株式会社 東あられ 本鋪 - Facebook 下町・両国の老舗あられ屋 株式会社 東あられ 本鋪 - Facebook Facebook https://www.facebook.com > azumaarare > videos",
+    "url": "https://www.facebook.com/azumaarare/videos/?locale=zh_HK",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.toyo-rice.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toyo-rice.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toyo-rice.jp/about/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toyo-rice.jp/about/csr/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toyo-rice.jp/about/topmessage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toyo-rice.jp/about/branch/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toyo-rice.jp/about/financialstatement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toyo-rice.jp/about/hokatsu/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.toyo-rice.jp/wp/wp-content/uploads/2022/08/company-pdf.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.azuma-arare.co.jp/hpgen/HPB/entries/9.html?srsltid=AYCX9vLyg4kjaUkmlhUVCUYi6cP4JwPdk0eeBLdc6glIFjNjldQmWJc4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/company/azuma-arare/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bansoushien.smrj.go.jp/case/detail_750/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz-maps.com/item/x6YVLbbJlB",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.azuma-arare.co.jp/hpgen/HPB/entries/9.html?srsltid=AYCX9vLaooj1z28h8xY-EpmN_Gf-NQUNa2h9CK08DySWxi0fkBKLN4Kp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/azuma_arare",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.azuma-arare.co.jp/?srsltid=AYCX9vJBf2uTdB3-voRvj34JNrk0QqLnaMlsBCnPgUhJjpTHRcUkG_Dl",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/azuma_arare/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.azuma-arare.co.jp/hpgen/HPB/entries/9.html?srsltid=AYCX9vIMeSIwvjfSAcBSJCvYwABS-WQ0l4mIAocx7RbtDY6pUYpI1O2A",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/azuma_arare/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://visit-sumida.jp/spot/6009/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/azuma_arare",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/azuma_arare/status/2100474141883470066",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/azuma_arare/status/2113884355387093445",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/azuma_arare/status/2047497602091151715",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/azumaarare/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/azumaarare/photos/1390232049774422/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/azumaarare/videos/?locale=zh_HK",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/azuma_arare",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "東あられ本鋪 会社概要 資本金 設立",
+   "results": [
+    "https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/",
+    "https://www.azuma-arare.co.jp/hpgen/HPB/entries/9.html?srsltid=AYCX9vLyg4kjaUkmlhUVCUYi6cP4JwPdk0eeBLdc6glIFjNjldQmWJc4",
+    "https://www.kaisyahakken.metro.tokyo.lg.jp/company/azuma-arare",
+    "https://bansoushien.smrj.go.jp/case/detail_750/",
+    "https://biz-maps.com/item/x6YVLbbJlB",
+    "https://prtimes.jp/main/html/searchrlp/company_id/58780",
+    "https://www.toyo-rice.jp/ricestyle/azuma_arare/",
+    "https://doda.jp/DodaFront/View/Company/j_id__00006348299/",
+    "https://baseconnect.in/companies/5b19435d-752b-45dd-9c98-41b7861e7df6",
+    "https://kaijiwire.jp/companies/2010601008323"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "東あられ本鋪 事業内容 売上",
+   "results": [
+    "https://bansoushien.smrj.go.jp/case/detail_750/",
+    "https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/",
+    "https://biz-maps.com/item/x6YVLbbJlB",
+    "https://www.azuma-arare.co.jp/hpgen/HPB/entries/9.html?srsltid=AYCX9vL3aTe31z0zwDOuGe6hI_dJruCmfv7o-1snbsbVclmUVvxDluqN",
+    "https://baseconnect.in/companies/5b19435d-752b-45dd-9c98-41b7861e7df6",
+    "https://www.buffett-code.com/company/98zajnllz4/",
+    "https://compalyze.co.jp/company/2010601008323",
+    "https://www.kaisyahakken.metro.tokyo.lg.jp/company/azuma-arare",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2010601008323",
+    "https://jobcatalog.yahoo.co.jp/company/2000486591/information/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "東あられ本鋪 資金調達 株主",
+   "results": [
+    "https://www.azuma-arare.co.jp/hpgen/HPB/entries/9.html?srsltid=AYCX9vLaooj1z28h8xY-EpmN_Gf-NQUNa2h9CK08DySWxi0fkBKLN4Kp",
+    "https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/",
+    "https://x.com/azuma_arare",
+    "https://www.kaisyahakken.metro.tokyo.lg.jp/company/azuma-arare",
+    "https://compalyze.co.jp/company/2010601008323",
+    "https://www.okashi-np.com/2021/05/25/%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E7%B6%99%E5%BE%80%E9%96%8B%E6%9D%A5-%E6%9D%B1%E3%81%82%E3%82%89%E3%82%8C%E6%9C%AC%E9%8B%AA-%E2%91%A0/",
+    "https://www.azuma-arare.co.jp/hpgen/HPB/entries/14.html?srsltid=AYCX9vIP7o9309dH6hlCT6Rc_6ca5IU9nnBrRAHS15p5Cx-JtAfo02Hc",
+    "https://www.hijojo-partners.com/news/series-a",
+    "https://prtimes.jp/main/html/rd/p/000000044.000152494.html",
+    "https://kaijiwire.jp/companies/2010601008323"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "東あられ本鋪 導入事例",
+   "results": [
+    "https://www.azuma-arare.co.jp/?srsltid=AYCX9vJBf2uTdB3-voRvj34JNrk0QqLnaMlsBCnPgUhJjpTHRcUkG_Dl",
+    "https://www.instagram.com/azuma_arare/",
+    "https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/",
+    "https://prtimes.jp/main/html/searchrlp/company_id/58780",
+    "https://www.instagram.com/reel/C6K-zEFPx8K/",
+    "https://visit-sumida.jp/spot/6009/",
+    "https://x.com/azuma_arare",
+    "https://www.toyo-rice.jp/ricestyle/azuma_arare/",
+    "https://www.kaisyahakken.metro.tokyo.lg.jp/company/azuma-arare"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "東あられ本鋪 主要取引先",
+   "results": [
+    "https://www.azuma-arare.co.jp/hpgen/HPB/entries/9.html?srsltid=AYCX9vIMeSIwvjfSAcBSJCvYwABS-WQ0l4mIAocx7RbtDY6pUYpI1O2A",
+    "https://www.instagram.com/azuma_arare/",
+    "https://visit-sumida.jp/spot/6009/",
+    "https://gate-hotels.com/azuma-arare-ryogoku/",
+    "https://x.com/azuma_arare",
+    "https://prtimes.jp/main/html/searchrlp/company_id/58780",
+    "https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/",
+    "https://www.instagram.com/reel/C6K-zEFPx8K/",
+    "https://compalyze.co.jp/company/2010601008323",
+    "https://kaijiwire.jp/companies/2010601008323"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 東あられ本鋪",
+   "results": [
+    "https://note.com/gnavi_official/n/n6dd53101f7bf",
+    "https://note.com/apt_daphne5030/n/n9837a9bbf159",
+    "https://note.com/palu_384/n/nf4630a8f382d",
+    "https://note.com/hokusai_pr/n/n8c4c58cc4544",
+    "https://note.com/hokusai_pr/n/ncec3c1e6333c",
+    "https://note.com/jewelry_lover/n/nf3cc26028920",
+    "https://note.com/okashi_np/n/n09a84fcd40bf",
+    "https://note.com/live_in_love/n/n98e5305b409e",
+    "https://note.com/mzypzy189/n/n7ee34847bd70",
+    "https://note.com/okashi_np/n/n4de32dfb427e"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:x.com 東あられ本鋪",
+   "results": [
+    "https://x.com/azuma_arare",
+    "https://x.com/azuma_arare/status/2100474141883470066",
+    "https://x.com/azuma_arare/status/2113884355387093445",
+    "https://x.com/azuma_arare/status/2047497602091151715",
+    "https://x.com/azuma_arare/status/2099125819969044555",
+    "https://x.com/azuma_arare/status/2087137808855208056?lang=ar-x-fm",
+    "https://x.com/azuma_arare/status/2113885655034216830/video/1",
+    "https://x.com/azuma_arare/status/2099124480203219023",
+    "https://x.com/azuma_arare/status/2110734769814139133?lang=ar-x-fm",
+    "https://x.com/azuma_arare/status/2116344473915678790"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com 東あられ本鋪",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com 東あられ本鋪",
+   "results": [
+    "https://www.facebook.com/azumaarare/posts/%E4%BC%9A%E5%93%A1%E6%A7%98%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%EF%BC%92%E5%80%8D%E3%81%AF%E6%98%8E%E6%97%A5%E3%81%BE%E3%81%A7%E6%9D%B1%E3%81%82%E3%82%89%E3%82%8C%E7%9B%B4%E5%96%B6%E5%BA%97%E8%88%97%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E9%99%90%E5%AE%9A%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%EF%BC%92%E5%80%8D%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AF%E6%98%8E%E6%97%A57%E6%9C%889%E6%97%A5%E5%9C%9F%E3%81%BE%E3%81%A7%E3%81%8A%E5%BE%97%E3%81%AB%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%92%E8%B2%AF%E3%82%81%E3%81%A6%E3%81%8A%E8%B2%B7%E3%81%84%E7%89%A9%E3%82%92%E3%81%8A%E6%A5%BD%E3%81%97%E3%81%BF%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%81%BE%E3%81%9B/5233266953453817/",
+    "https://www.facebook.com/azumaarare/?locale=ja_JP",
+    "https://www.facebook.com/azumaarare/photos/1390232049774422/",
+    "https://www.facebook.com/azumaarare/videos/?locale=zh_HK",
+    "https://www.facebook.com/azumaarare/posts/%E6%9D%B1%E3%81%82%E3%82%89%E3%82%8C%E6%98%A5%E3%81%AE%E6%84%9F%E8%AC%9D%E3%82%BB%E3%83%BC%E3%83%AB%E6%9C%AC%E6%97%A5%E3%82%88%E3%82%8A%E9%96%8B%E5%82%AC%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99%E7%9A%86%E6%A7%98%E3%81%AE%E3%81%94%E6%9D%A5%E5%BA%97%E3%82%92%E3%81%93%E3%81%93%E3%82%8D%E3%82%88%E3%82%8A%E3%81%8A%E5%BE%85%E3%81%A1%E3%81%97%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%99%E5%AF%BE%E8%B1%A1%E5%BA%97%E8%88%97%E4%B8%A1%E5%9B%BD%E6%9C%AC%E5%BA%97%E8%8F%8A%E5%B7%9D%E9%A7%85%E5%89%8D%E5%BA%97%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97/1197582012372761/",
+    "https://www.facebook.com/azumaarare/posts/%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%84%E3%81%8A%E3%81%8B%E3%81%8D%E3%81%AF%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%84%E3%81%8A%E7%B1%B3%E3%81%8B%E3%82%89%E6%9D%B1%E3%81%82%E3%82%89%E3%82%8C%E6%9C%AC%E9%8B%AA%E3%81%AE%E6%96%B0%E7%B1%B3%E3%81%8A%E3%81%8B%E3%81%8D%E3%81%AF%E3%82%82%E3%81%A1%E7%B1%B3%E3%82%92%E8%92%B8%E3%81%97%E3%82%82%E3%81%A1%E3%82%92%E6%90%97%E3%81%8F%E3%81%A8%E3%81%93%E3%82%8D%E3%81%8B%E3%82%89%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%EF%B8%8F%E3%81%93%E3%81%AE%E4%B8%80%E6%89%8B%E9%96%93%E3%81%8C%E6%9D%B1%E3%81%82%E3%82%89%E3%82%8C%E3%81%AE%E3%81%8A%E3%81%8B%E3%81%8D%E3%81%AE%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%95%E3%81%AE%E7%A7%98%E5%AF%86%E7%94%B0%E3%82%93%E3%81%BC%E3%81%A7%E8%82%B2%E3%81%A3/1736632111801079/",
+    "https://www.facebook.com/azumaarare/photos/1570406145090344/",
+    "https://www.facebook.com/azumaarare/posts/%E6%9D%B1%E4%B8%80%E7%A6%8F36%E5%91%A8%E5%B9%B4%E6%9D%B1%E4%B8%80%E7%A6%8F%E3%81%93%E3%81%AE%E5%90%8D%E5%89%8D%E3%82%92%E8%A6%8B%E3%82%8B%E3%81%A8%E3%81%82%E6%9D%B1%E3%81%82%E3%82%89%E3%82%8C%E3%81%AE%E3%81%82%E3%82%8C%E3%81%AD%E3%81%A8%E6%80%9D%E3%81%84%E5%87%BA%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%82%8B%E6%96%B9%E3%82%82%E5%A4%9A%E3%81%84%E3%81%AE%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E3%81%8B1990%E5%B9%B4%E9%A3%9B%E8%A1%8C%E6%A9%9F%E3%81%AE%E6%A9%9F%E5%86%85%E9%A3%9F%E3%81%A8%E3%81%97%E3%81%A6%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%9F%E6%9D%B1%E4%B8%80%E7%A6%8F%E3%81%AF2026%E5%B9%B4%E3%81%A7/1475660217898271/",
+    "https://www.facebook.com/azumaarare/posts/%E4%B8%A1%E5%9B%BD%E6%95%A3%E7%AD%96%E3%81%AE%E3%81%8A%E3%81%A8%E3%82%82%E3%81%AB%E3%81%9C%E3%81%B2%E6%9D%B1%E3%81%82%E3%82%89%E3%82%8C%E4%B8%A1%E5%9B%BD%E6%9C%AC%E5%BA%97%E3%81%B8%E3%81%8A%E8%B6%8A%E3%81%97%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%EF%B8%8F%E6%9C%AC%E5%BA%97%E3%81%8B%E3%82%89%E5%BE%92%E6%AD%A9%E7%B4%848%E5%88%86%E3%81%AE%E5%A0%B4%E6%89%80%E3%81%AB%E3%81%82%E3%82%8B%E6%B1%9F%E6%88%B8%E6%9D%B1%E4%BA%AC%E5%8D%9A%E7%89%A9%E9%A4%A8%E3%81%8C4%E5%B9%B4%E3%81%B6%E3%82%8A%E3%81%AB%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E4%B8%A1%E5%9B%BD%E3%81%AB%E3%81%8A%E8%B6%8A%E3%81%97%E3%81%AE%E9%9A%9B%E3%81%AF%E3%81%9C%E3%81%B2%E5%B0%91%E3%81%97%E8%B6%B3/1534903445307281/",
+    "https://www.facebook.com/azumaarare/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "東あられ本鋪 note 社長",
+   "results": [
+    "https://www.azuma-arare.co.jp/?srsltid=AYCX9vJoiwnbXIkSRa42a4sfsb91nimMZVI1u6VGLSQW9bW7Qr8IJgnj",
+    "https://www.kaisyahakken.metro.tokyo.lg.jp/company/azuma-arare",
+    "https://www.tokyo-cci.or.jp/keiei-kagi/case/azumaarare/",
+    "https://www.instagram.com/azuma_arare/",
+    "https://dh-ryogoku.com/column/%E6%9D%B1%E3%81%82%E3%82%89%E3%82%8C%E6%9C%AC%E9%8B%AA/",
+    "https://www.instagram.com/reel/C6K-zEFPx8K/",
+    "https://prtimes.jp/main/html/searchrlp/company_id/58780",
+    "https://syukatsu-kaigi.jp/companies/106706/word_mouths",
+    "https://compalyze.co.jp/company/2010601008323",
+    "https://kaihatsu.komeko-koubo.jp/project2024/project23/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "東あられ本鋪 X 投稿",
+   "results": [
+    "https://x.com/azuma_arare",
+    "https://www.azuma-arare.co.jp/hpgen/HPB/entries/8.html?srsltid=AYCX9vLZSoB3b3W8nJNOeo_1NqAYRjDf7-7sTmywUg917vU9t_j4LImD",
+    "https://www.instagram.com/azuma_arare/",
+    "https://visit-sumida.jp/spot/6009/",
+    "https://www.instagram.com/reel/C6K-zEFPx8K/",
+    "https://www.city.sumida.lg.jp/sangyo_jigyosya/sangyo/pr_brand_hyousyo/sumida3m/tiiki/nanbu/azumaararehonnpo.html",
+    "https://prtimes.jp/main/html/searchrlp/company_id/58780",
+    "https://x.com/azuma_arare/status/2113885655034216830",
+    "https://www.instagram.com/p/DexyBWFn0re/",
+    "https://www.instagram.com/azuma_arare/reel/Dchl-nFAiaW/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像1件／外部23頁・検索11回）",
+  "株主": "記載なし（3回確認済み：公式8頁／PDF・画像1件／外部23頁・検索11回）",
+  "主要取引先": "記載なし（3回確認済み：公式8頁／PDF・画像1件／外部23頁・検索11回）"
+ }
+}

@@ -8,38 +8,83 @@
  ],
  "context": "手法・統計",
  "kind": "market",
- "researched_at": "2026-11-09T04:33:21.635520+00:00",
+ "researched_at": "2026-11-10T14:20:05.328487+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://www.stat.go.jp/english/data/nenkan/75nenkan/zenbun/en75/book/pageindices/index124.html",
+    "url": "https://www.esri.cao.go.jp/jp/sna/data/data_list/kenmin/files/contents/pdf/guideline/guide_220204.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.kishiwada.lg.jp/uploaded/attachment/150469.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.env.go.jp/policy/keizai_portal/B_industry/b_houkoku3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.shobara.hiroshima.jp/main/2026/07/622f1933d68b7e7bcbd1c01b80e1a2cd_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/069/621/5keikakuan.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.town.yoshimi.saitama.jp/material/files/group/10/yoshimimachitoshikeikakumasterplan.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.town.saitama-miyoshi.lg.jp/town/keikaku/documents/6sougoukeikaku_zenki.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.kitsuki.lg.jp/material/files/group/38/tosimasu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.fukui.lg.jp/sisei/tkeikaku/tkeikaku/p072454_d/fil/024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stats.gov.cn/sj/ndsj/2025/indexeh.htm",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://databank.worldbank.org/metadataglossary/world-development-indicators/series/NV.MNF.OTHR.ZS.UN",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.stat.go.jp/english/data/nenkan/73nenkan/zenbun/en73/book/pageindices/index122.html",
+    "url": "https://www.oecd.org/en/data/indicators/value-added-by-activity.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.census.gov/foreign-trade/guide/sec2.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://d-infra.ier.hit-u.ac.jp/English/govstat-database/statistical-yb/",
+    "url": "https://lirias.kuleuven.be/retrieve/dd5b3b62-7123-4f65-bcea-f89f08329562",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
-    "url": "https://www.e-stat.go.jp/en/dbview?sid=0000010203",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.e-stat.go.jp/en/regional-statistics/ssdsview",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://guides.library.yale.edu/c.php?g=295893&p=1975547",
+    "url": "https://www.stat.go.jp/english/data/nenkan/73nenkan/1431-09.html",
     "status": "ok",
     "method": "http"
    }
@@ -48,43 +93,93 @@
  "search_log": [
   {
    "query": "県・市の統計年鑑の用語の説明（製造品出荷額等・付加価値額の規模の境目・従業者の定義・凡例の無い x と -・市町村別と産業別の合計の照合） site:note.com",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.esri.cao.go.jp/jp/sna/data/data_list/kenmin/files/contents/pdf/guideline/guide_220204.pdf",
+    "https://www.city.kishiwada.lg.jp/uploaded/attachment/150469.pdf",
+    "https://www.env.go.jp/policy/keizai_portal/B_industry/b_houkoku3.pdf",
+    "https://www.city.shobara.hiroshima.jp/main/2026/07/622f1933d68b7e7bcbd1c01b80e1a2cd_1.pdf",
+    "https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/069/621/5keikakuan.pdf",
+    "https://www.town.yoshimi.saitama.jp/material/files/group/10/yoshimimachitoshikeikakumasterplan.pdf",
+    "https://www.town.saitama-miyoshi.lg.jp/town/keikaku/documents/6sougoukeikaku_zenki.pdf",
+    "https://www.city.kitsuki.lg.jp/material/files/group/38/tosimasu.pdf",
+    "https://www.city.fukui.lg.jp/sisei/tkeikaku/tkeikaku/p072454_d/fil/024.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "県・市の統計年鑑の用語の説明（製造品出荷額等・付加価値額の規模の境目・従業者の定義・凡例の無い x と -・市町村別と産業別の合計の照合） note",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.esri.cao.go.jp/jp/sna/data/data_list/kenmin/files/contents/pdf/guideline/guide_220204.pdf",
+    "https://www.city.kishiwada.lg.jp/uploaded/attachment/150469.pdf",
+    "https://www.env.go.jp/policy/keizai_portal/B_industry/b_houkoku3.pdf",
+    "https://www.city.shobara.hiroshima.jp/main/2026/07/622f1933d68b7e7bcbd1c01b80e1a2cd_1.pdf",
+    "https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/069/621/5keikakuan.pdf",
+    "https://www.town.yoshimi.saitama.jp/material/files/group/10/yoshimimachitoshikeikakumasterplan.pdf",
+    "https://www.town.saitama-miyoshi.lg.jp/town/keikaku/documents/6sougoukeikaku_zenki.pdf",
+    "https://www.city.kitsuki.lg.jp/material/files/group/38/tosimasu.pdf",
+    "https://www.city.fukui.lg.jp/sisei/tkeikaku/tkeikaku/p072454_d/fil/024.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "県・市の統計年鑑の用語の説明（製造品出荷額等・付加価値額の規模の境目・従業者の定義・凡例の無い x と -・市町村別と産業別の合計の照合） やり方",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.esri.cao.go.jp/jp/sna/data/data_list/kenmin/files/contents/pdf/guideline/guide_220204.pdf",
+    "https://www.city.kishiwada.lg.jp/uploaded/attachment/150469.pdf",
+    "https://www.env.go.jp/policy/keizai_portal/B_industry/b_houkoku3.pdf",
+    "https://www.city.shobara.hiroshima.jp/main/2026/07/622f1933d68b7e7bcbd1c01b80e1a2cd_1.pdf",
+    "https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/069/621/5keikakuan.pdf",
+    "https://www.town.yoshimi.saitama.jp/material/files/group/10/yoshimimachitoshikeikakumasterplan.pdf",
+    "https://www.town.saitama-miyoshi.lg.jp/town/keikaku/documents/6sougoukeikaku_zenki.pdf",
+    "https://www.city.kitsuki.lg.jp/material/files/group/38/tosimasu.pdf",
+    "https://www.city.fukui.lg.jp/sisei/tkeikaku/tkeikaku/p072454_d/fil/024.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "県・市の統計年鑑の用語の説明（製造品出荷額等・付加価値額の規模の境目・従業者の定義・凡例の無い x と -・市町村別と産業別の合計の照合） 事例",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.esri.cao.go.jp/jp/sna/data/data_list/kenmin/files/contents/pdf/guideline/guide_220204.pdf",
+    "https://www.city.kishiwada.lg.jp/uploaded/attachment/150469.pdf",
+    "https://www.env.go.jp/policy/keizai_portal/B_industry/b_houkoku3.pdf",
+    "https://www.city.shobara.hiroshima.jp/main/2026/07/622f1933d68b7e7bcbd1c01b80e1a2cd_1.pdf",
+    "https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/069/621/5keikakuan.pdf",
+    "https://www.town.yoshimi.saitama.jp/material/files/group/10/yoshimimachitoshikeikakumasterplan.pdf",
+    "https://www.town.saitama-miyoshi.lg.jp/town/keikaku/documents/6sougoukeikaku_zenki.pdf",
+    "https://www.city.kitsuki.lg.jp/material/files/group/38/tosimasu.pdf",
+    "https://www.city.fukui.lg.jp/sisei/tkeikaku/tkeikaku/p072454_d/fil/024.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "prefectural statistical yearbook definitions manufacturing shipments value added size threshold",
    "results": [
-    "https://www.stat.go.jp/english/data/nenkan/75nenkan/zenbun/en75/book/pageindices/index124.html",
-    "https://www.stat.go.jp/english/data/nenkan/73nenkan/zenbun/en73/book/pageindices/index122.html",
-    "https://d-infra.ier.hit-u.ac.jp/English/govstat-database/statistical-yb/",
-    "https://www.e-stat.go.jp/en/dbview?sid=0000010203",
-    "https://www.e-stat.go.jp/en/regional-statistics/ssdsview",
-    "https://guides.library.yale.edu/c.php?g=295893&p=1975547",
-    "https://guides.library.stanford.edu/JapaneseStudies/statistics"
+    "https://www.stats.gov.cn/sj/ndsj/2025/indexeh.htm",
+    "https://databank.worldbank.org/metadataglossary/world-development-indicators/series/NV.MNF.OTHR.ZS.UN",
+    "https://www.oecd.org/en/data/indicators/value-added-by-activity.html",
+    "https://www.census.gov/foreign-trade/guide/sec2.html",
+    "https://lirias.kuleuven.be/retrieve/dd5b3b62-7123-4f65-bcea-f89f08329562",
+    "https://www.stat.go.jp/english/data/nenkan/73nenkan/1431-09.html",
+    "https://www.statcan.gc.ca/en/statistical-programs/document/2101_D3_T2_V145",
+    "https://sdg.eustat.eus/en/9-2-1/",
+    "https://baike.baidu.com/en/item/Manufacturing%20Value%20Added/4748751"
    ],
    "engines": [
-    "ddgs:bing"
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 9
   },
   {
    "query": "site:note.com 県・市の統計年鑑の用語の説明（製造品出荷額等・付加価値額の規模の境目・従業者の定義・凡例の無い x と -・市町村別と産業別の合計の照合）",
@@ -112,41 +207,69 @@
   },
   {
    "query": "県・市の統計年鑑の用語の説明（製造品出荷額等・付加価値額の規模の境目・従業者の定義・凡例の無い x と -・市町村別と産業別の合計の照合） note 社長",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.esri.cao.go.jp/jp/sna/data/data_list/kenmin/files/contents/pdf/guideline/guide_220204.pdf",
+    "https://www.city.kishiwada.lg.jp/uploaded/attachment/150469.pdf",
+    "https://www.env.go.jp/policy/keizai_portal/B_industry/b_houkoku3.pdf",
+    "https://www.city.shobara.hiroshima.jp/main/2026/07/622f1933d68b7e7bcbd1c01b80e1a2cd_1.pdf",
+    "https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/069/621/5keikakuan.pdf",
+    "https://www.town.yoshimi.saitama.jp/material/files/group/10/yoshimimachitoshikeikakumasterplan.pdf",
+    "https://www.town.saitama-miyoshi.lg.jp/town/keikaku/documents/6sougoukeikaku_zenki.pdf",
+    "https://www.city.kitsuki.lg.jp/material/files/group/38/tosimasu.pdf",
+    "https://www.city.fukui.lg.jp/sisei/tkeikaku/tkeikaku/p072454_d/fil/024.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "県・市の統計年鑑の用語の説明（製造品出荷額等・付加価値額の規模の境目・従業者の定義・凡例の無い x と -・市町村別と産業別の合計の照合） X 投稿",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.esri.cao.go.jp/jp/sna/data/data_list/kenmin/files/contents/pdf/guideline/guide_220204.pdf",
+    "https://www.city.kishiwada.lg.jp/uploaded/attachment/150469.pdf",
+    "https://www.env.go.jp/policy/keizai_portal/B_industry/b_houkoku3.pdf",
+    "https://www.city.shobara.hiroshima.jp/main/2026/07/622f1933d68b7e7bcbd1c01b80e1a2cd_1.pdf",
+    "https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/069/621/5keikakuan.pdf",
+    "https://www.town.yoshimi.saitama.jp/material/files/group/10/yoshimimachitoshikeikakumasterplan.pdf",
+    "https://www.town.saitama-miyoshi.lg.jp/town/keikaku/documents/6sougoukeikaku_zenki.pdf",
+    "https://www.city.kitsuki.lg.jp/material/files/group/38/tosimasu.pdf",
+    "https://www.city.fukui.lg.jp/sisei/tkeikaku/tkeikaku/p072454_d/fil/024.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "prefectural statistical yearbook definitions manufacturing shipments value added size threshold site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/manufacturing-industrial-production-value-addition-economic-mwangi-7chff",
-    "https://pe.linkedin.com/posts/fkmangwanya_the-recently-released-unido-industrial-statistics-activity-7140730590051446784-2iCe",
-    "https://www.linkedin.com/pulse/manufacturing-shipments-new-orders-unfilled-september-paul-young-k4kac",
-    "https://www.linkedin.com/posts/world-steel-association_2023-steel-statistical-yearbook-published-activity-7141058000743559168-iaL9",
-    "https://www.linkedin.com/posts/iman-resources-fz-llc_steel-statistical-yearbook-2024-activity-7270680183890681857-t_pL",
-    "https://www.linkedin.com/pulse/manufacturing-why-we-still-working-statistical-from-sabine-schlorke-unmre",
-    "https://www.linkedin.com/posts/unido-insights_yearbook-industry-value-added-composition-activity-7150395296517193730-VEPC"
+    "https://ca.linkedin.com/in/yukimatsushima",
+    "https://www.linkedin.com/in/jonathanrelosreyes",
+    "https://ma.linkedin.com/in/isma%C3%ABl-megzari/en",
+    "https://jp.linkedin.com/in/kota-ohashi",
+    "https://jp.linkedin.com/in/katsumasa-nakane-65a51943b",
+    "https://www.linkedin.com/in/momo-kihara-at-ucsd",
+    "https://jp.linkedin.com/in/harrymatsu/ja",
+    "https://id.linkedin.com/in/diah-retno-yuniarni-b8b395102",
+    "https://jp.linkedin.com/in/%E6%88%90%E4%BF%A1-%E8%97%A4%E6%96%B0-b202b4100",
+    "https://www.linkedin.com/pulse/manufacturing-industrial-production-value-addition-economic-mwangi-7chff"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ6頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ6頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ6頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ6頁・検索12回）",
-  "実例": "記載なし（読んだ6頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ15頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ15頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ15頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ15頁・検索12回）",
+  "実例": "記載なし（読んだ15頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 3,
+ "runs": 4,
  "first_researched_at": "2026-11-08T12:01:54.910817+00:00"
 }

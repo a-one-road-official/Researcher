@@ -1,0 +1,1431 @@
+{
+ "name": "Haddock",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-10T15:27:59.445178+00:00",
+ "official_url": "https://haddock.app",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$2.1M",
+    "url": "https://getlatka.com/companies/haddock",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "01-Apr-2021    Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/459559-18",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2020",
+    "url": "https://startupintros.com/orgs/haddock",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Barcelona, Spain",
+    "url": "https://startupintros.com/orgs/haddock",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "La primera solución que te ayuda a incrementar la rentabilidad de tu negocio ofreciéndote la información que necesitas en cada momento.",
+    "url": "https://haddock.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Sube el precio, te lo decimos",
+    "url": "https://haddock.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Conoce el precio de venta ideal para tus platos",
+    "url": "https://haddock.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Tus precios de venta, dinámicos",
+    "url": "https://haddock.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Los escandallos dinámicos de haddock se actualizan automáticamente con el último precio de compra de cada ingrediente. Puedes ver cómo varia el margen y redefinir el precio de venta de cada plato.",
+    "url": "https://haddock.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Tus compras al proveedor, controladas",
+    "url": "https://haddock.app/",
+    "pass": 1
+   },
+   {
+    "quote": "La inflación ha incrementado los precios de todos los ingredientes que compras para tus recetas. haddock te notifica cada vez que sube el precio de un ingrediente para que puedas buscar alternativas.",
+    "url": "https://haddock.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Visualiza los precios de tus productos, costes de tus platos y controla el margen",
+    "url": "https://haddock.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Programa de Partners de haddock | Gana ingresos recurrentes",
+    "url": "https://haddock.app/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Un programa que multiplica tu valor",
+    "url": "https://haddock.app/partners",
+    "pass": 1
+   },
+   {
+    "quote": "¿Cómo funciona el programa de Partners?",
+    "url": "https://haddock.app/partners",
+    "pass": 1
+   },
+   {
+    "quote": "y te proporcionaremos todo el material",
+    "url": "https://haddock.app/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Unirme al Programa de Partners",
+    "url": "https://haddock.app/partners",
+    "pass": 1
+   },
+   {
+    "quote": "、\"thumbprint\"（拇印）、\"Devil's thumbprint\"（悪魔の拇印）または\"St. Peter's mark\"（聖ペトロの印）と呼ばれる",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%83%84%E3%82%AD%E3%83%80%E3%83%A9",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.toyosu-market.or.jp/wordpress/wp-content/uploads/2023/12/c094fcbb6753cc017c0a6b4bbeb9ffc5.pdf#page=5",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%83%84%E3%82%AD%E3%83%80%E3%83%A9",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Haddock",
+    "pass": 3
+   },
+   {
+    "quote": "It has a relatively small mouth which does not extend to below the eye; with the lower profile of the face being straight and the upper profile slightly rounded, this gives its snout a characteristic wedge-shaped profile. The upper jaw projects beyond the lower more so than in the",
+    "url": "https://en.wikipedia.org/wiki/Haddock",
+    "pass": 3
+   },
+   {
+    "quote": ". It also has a distinctive oval black blotch or 'thumbprint', sometimes called the \"Devil's thumbprint\",",
+    "url": "https://en.wikipedia.org/wiki/Haddock",
+    "pass": 3
+   },
+   {
+    "quote": "a feature which leads to the name of the genus",
+    "url": "https://en.wikipedia.org/wiki/Haddock",
+    "pass": 3
+   },
+   {
+    "quote": ". It is found over substrates made up of rock, sand, gravel or shells and it prefers temperatures of between",
+    "url": "https://en.wikipedia.org/wiki/Haddock",
+    "pass": 3
+   },
+   {
+    "quote": ". In the northwestern Atlantic spawning lasts from January to July, although it does not occur simultaneously in all areas, and in the northeastern Atlantic the spawning season runs from February to June, peaking in March and April.",
+    "url": "https://en.wikipedia.org/wiki/Haddock",
+    "pass": 3
+   },
+   {
+    "quote": "with their diet changing as they grow, moving on to larger pelagic prey such as",
+    "url": "https://en.wikipedia.org/wiki/Haddock",
+    "pass": 3
+   },
+   {
+    "quote": "Adults primarily feed on benthic invertebrates such as",
+    "url": "https://en.wikipedia.org/wiki/Haddock",
+    "pass": 3
+   },
+   {
+    "quote": "Juvenile haddock are an important prey for larger demersal fish, including other",
+    "url": "https://en.wikipedia.org/wiki/Haddock",
+    "pass": 3
+   },
+   {
+    "quote": ", while seals prey on the larger fish.",
+    "url": "https://en.wikipedia.org/wiki/Haddock",
+    "pass": 3
+   },
+   {
+    "quote": ". There was strong recruitment in 1999 but since then, the recruitment rate has been very low.",
+    "url": "https://en.wikipedia.org/wiki/Haddock",
+    "pass": 3
+   },
+   {
+    "quote": ". In this way, the worm extracts nutrients from the cod's blood, remaining safely tucked beneath the cod's gill cover until it releases a new generation of offspring into the water.",
+    "url": "https://en.wikipedia.org/wiki/Haddock",
+    "pass": 3
+   },
+   {
+    "quote": "Haddock is very popular as a food fish. It is sold fresh or preserved by smoking, freezing, drying, or to a small extent canning. Haddock, along with",
+    "url": "https://en.wikipedia.org/wiki/Haddock",
+    "pass": 3
+   },
+   {
+    "quote": "Haddock is the predominant fish of choice in Scotland in a fish supper.",
+    "url": "https://en.wikipedia.org/wiki/Haddock",
+    "pass": 3
+   },
+   {
+    "quote": "Unlike cod, haddock is not an appropriate fish for",
+    "url": "https://en.wikipedia.org/wiki/Haddock",
+    "pass": 3
+   },
+   {
+    "quote": "and preservation is more commonly effected by",
+    "url": "https://en.wikipedia.org/wiki/Haddock",
+    "pass": 3
+   },
+   {
+    "quote": "(mainly haddock, but sometimes cod) is produced in the traditional smokehouses in Grimsby, which are mostly family-run businesses that have developed their skills over many generations.",
+    "url": "https://en.wikipedia.org/wiki/Haddock",
+    "pass": 3
+   },
+   {
+    "quote": "Grimsby fish market sources its haddock from the North East Atlantic, principally Iceland, Norway and the Faroe Islands. These fishing grounds are sustainably managed",
+    "url": "https://en.wikipedia.org/wiki/Haddock",
+    "pass": 3
+   },
+   {
+    "quote": "and have not seen the large scale depreciation in fish stocks seen in EU waters.",
+    "url": "https://en.wikipedia.org/wiki/Haddock",
+    "pass": 3
+   },
+   {
+    "quote": "on the east coast of Scotland produces the",
+    "url": "https://en.wikipedia.org/wiki/Haddock",
+    "pass": 3
+   },
+   {
+    "quote": "12 April",
+    "url": "https://en.wikipedia.org/wiki/Haddock",
+    "pass": 3
+   },
+   {
+    "quote": "13 April",
+    "url": "https://en.wikipedia.org/wiki/Haddock",
+    "pass": 3
+   },
+   {
+    "quote": "14 April",
+    "url": "https://en.wikipedia.org/wiki/Haddock",
+    "pass": 3
+   },
+   {
+    "quote": "2 April",
+    "url": "https://en.wikipedia.org/wiki/Haddock",
+    "pass": 3
+   },
+   {
+    "quote": "on 15 April 2018",
+    "url": "https://en.wikipedia.org/wiki/Haddock",
+    "pass": 3
+   },
+   {
+    "quote": "“I prefer haddock over cod when it comes to fish and chips.”",
+    "url": "https://goong.com/ja/word/haddock-%E3%81%A8%E3%81%AF-%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A8%B3%E3%81%A8%E6%84%8F%E5%91%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "Also called Sablefish or Butterfish, it dwells the colder waters of Pacific near Alaska and British Columbia. It’s madly appreciated in Japan where they know their fish and its value, and virtually unavailable in Europe or at least as beknown to me.",
+    "url": "https://www.cuisinefiend.com/743/miso-haddock",
+    "pass": 3
+   },
+   {
+    "quote": "The secret of the black cod excellence lies also in the long miso marinating and in very gentle searing and roasting. I prepared the marinade and got a particularly lovely loin of fresh haddock. It sat in the fridge for 48 hours and emerged, a little discoloured but with the texture seemingly intact.",
+    "url": "https://www.cuisinefiend.com/743/miso-haddock",
+    "pass": 3
+   },
+   {
+    "quote": "It is a gorgeous way of preparing white flaky fish. The marinade turns a lovely hue when the fish is seared in a hot pan and the cooking takes no more than ten minutes. It is a marvellous dish to impress, and it needs only very simple accompaniments.",
+    "url": "https://www.cuisinefiend.com/743/miso-haddock",
+    "pass": 3
+   },
+   {
+    "quote": "I’ll certainly want to try the authentic black cod fish if I can ever procure it. Until then, haddock or cod will more than suffice.",
+    "url": "https://www.cuisinefiend.com/743/miso-haddock",
+    "pass": 3
+   },
+   {
+    "quote": "When ready to cook, preheat the oven to 200C/400F/gas 6.",
+    "url": "https://www.cuisinefiend.com/743/miso-haddock",
+    "pass": 3
+   },
+   {
+    "quote": "Heat a thin layer of oil in an ovenproof frying pan or skillet over high heat. Scrape the marinade off the fish and wipe it with paper towels.",
+    "url": "https://www.cuisinefiend.com/743/miso-haddock",
+    "pass": 3
+   },
+   {
+    "quote": "Recipes and site news only — no advertising, no sharing your address.",
+    "url": "https://www.cuisinefiend.com/743/miso-haddock",
+    "pass": 3
+   },
+   {
+    "quote": "Haddock Fish Price in Japan - November 2026 Market Prices (Updated Monthly)",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/haddock-fish/",
+    "pass": 3
+   },
+   {
+    "quote": "Haddock Fish Price in Japan, November 2026",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/haddock-fish/",
+    "pass": 3
+   },
+   {
+    "quote": "World Haddock Fish Prices",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/haddock-fish/",
+    "pass": 3
+   },
+   {
+    "quote": "See global haddock fish prices, production & trade →",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/haddock-fish/",
+    "pass": 3
+   },
+   {
+    "quote": "Today's Japan Haddock Fish Price Per Kg/lb",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/haddock-fish/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Haddock Fish Wholesale Prices",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/haddock-fish/",
+    "pass": 3
+   },
+   {
+    "quote": "What is the price of haddock fish per kilogram/pound in Japan today?",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/haddock-fish/",
+    "pass": 3
+   },
+   {
+    "quote": "The retail price range for Japan haddock fish is between US$ 6.85 and US$ 13.71 per kilogram or between US$ 3.11 and US$ 6.22 per pound(lb).",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/haddock-fish/",
+    "pass": 3
+   },
+   {
+    "quote": "Click here to see today's exact prices of haddock fish in Japan",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/haddock-fish/",
+    "pass": 3
+   },
+   {
+    "quote": "The retail price range in Yen for haddock fish is between JPY 946.06 and JPY 1,893.48 per kilogram or between JPY 429.05 and JPY 858.72 per pound(lb) in Tokyo and Yokohama.",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/haddock-fish/",
+    "pass": 3
+   },
+   {
+    "quote": "Join 50,000+ traders accessing live market prices, verified buyers, and direct selling opportunities",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/haddock-fish/",
+    "pass": 3
+   },
+   {
+    "quote": "Click here to check yesterday's Haddock Fish price",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/haddock-fish/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "haddock agents es el equipo de IA para restaurantes que trabaja por ti.",
+    "url": "https://haddock.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Nuestros agentes inteligentes se encargan de tareas y gestiones diarias, mientras tu equipo se concentra en el servicio y en tus clientes.",
+    "url": "https://haddock.app/",
+    "pass": 1
+   },
+   {
+    "quote": "The upper side of the haddock's body varies in colour from dark grey brown to nearly black while the lower part of the body is dull silvery white. It has a distinctive black",
+    "url": "https://en.wikipedia.org/wiki/Haddock",
+    "pass": 3
+   },
+   {
+    "quote": "are dark grey in colour while the anal fins are pale matching the colour of the silvery sides, with black speckles at their bases. The pelvic fins are white with a variable amount of black spots. Occasionally there are differently coloured variants recorded which may be barred, golden on the back or lack the dark shoulder blotch.",
+    "url": "https://en.wikipedia.org/wiki/Haddock",
+    "pass": 3
+   },
+   {
+    "quote": "while it metamorphoses into a plump, sinusoidal, wormlike body, with a coiled mass of egg strings at the rear. The front part of the worm's body penetrates the body of the cod until it enters the rear bulb of the host's",
+    "url": "https://en.wikipedia.org/wiki/Haddock",
+    "pass": 3
+   },
+   {
+    "quote": ". There, firmly rooted in the cod's circulatory system, the front part of the parasite develops like the branches of a tree, reaching into the main",
+    "url": "https://en.wikipedia.org/wiki/Haddock",
+    "pass": 3
+   },
+   {
+    "quote": "Stallings, Virginia A.; Harrison, Meghan; Oria, Maria, eds. (2019). \"Potassium: Dietary Reference Intakes for Adequacy\".",
+    "url": "https://en.wikipedia.org/wiki/Haddock",
+    "pass": 3
+   },
+   {
+    "quote": "A CFO that was already part of the team",
+    "url": "https://tscfo.com/en/success-stories-haddock/",
+    "pass": 3
+   },
+   {
+    "quote": "Ongoing support in reporting, financial tracking and finance management, acting as an integrated part of the team.",
+    "url": "https://tscfo.com/en/success-stories-haddock/",
+    "pass": 3
+   },
+   {
+    "quote": "Ongoing financial support, integrated as part of the team",
+    "url": "https://tscfo.com/en/success-stories-haddock/",
+    "pass": 3
+   },
+   {
+    "quote": "Today, The Startup CFO continues to work with Haddock, adapting the service to its new needs and stages. For us, this case reflects what it means to be a true financial partner: being there at key moments, solving issues when there is uncertainty and contributing as part of the team.",
+    "url": "https://tscfo.com/en/success-stories-haddock/",
+    "pass": 3
+   },
+   {
+    "quote": "What we are proud of is not the number of hires, but having been part of how the company grew up.",
+    "url": "https://www.kulturo.tech/en/case-studies/haddock",
+    "pass": 3
+   },
+   {
+    "quote": "Haddock Revenue 2024: $164.9K Est., $2.1M Raised",
+    "url": "https://getlatka.com/companies/haddock",
+    "pass": 3
+   },
+   {
+    "quote": "Haddock has not published its revenue. GetLatka estimates it at about $164.9K a year (October 2024).",
+    "url": "https://getlatka.com/companies/haddock",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/haddock",
+    "pass": 3
+   },
+   {
+    "quote": "Haddock CEO, founders & employees",
+    "url": "https://getlatka.com/companies/haddock",
+    "pass": 3
+   },
+   {
+    "quote": "Arnau Navarro founded Haddock in 2020 and runs it as CEO. Haddock had 60 employees (October 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/haddock",
+    "pass": 3
+   },
+   {
+    "quote": "What is Haddock's revenue?",
+    "url": "https://getlatka.com/companies/haddock",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Haddock's revenue at about",
+    "url": "https://getlatka.com/companies/haddock",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Haddock have?",
+    "url": "https://getlatka.com/companies/haddock",
+    "pass": 3
+   },
+   {
+    "quote": "employees in October 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/haddock",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/haddock",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/haddock",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/haddock",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/459559-18",
+    "pass": 3
+   },
+   {
+    "quote": "Haddock has 47 total employees.",
+    "url": "https://pitchbook.com/profiles/company/459559-18",
+    "pass": 3
+   },
+   {
+    "quote": "What is Haddock’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/459559-18",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Haddock is",
+    "url": "https://pitchbook.com/profiles/company/459559-18",
+    "pass": 3
+   },
+   {
+    "quote": "haddock was founded in 2020 by Arnau Navarro (Founder) and Pol Rosell (Founder).",
+    "url": "https://startupintros.com/orgs/haddock",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Subes tus facturas y albaranes con una foto, un PDF o enviándolas por email",
+    "url": "https://haddock.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Unsubscribe from any email.",
+    "url": "https://www.cuisinefiend.com/743/miso-haddock",
+    "pass": 3
+   },
+   {
+    "quote": "Your email address will not be published",
+    "url": "https://www.cuisinefiend.com/743/miso-haddock",
+    "pass": 3
+   },
+   {
+    "quote": "Email me when a comment is posted",
+    "url": "https://www.cuisinefiend.com/743/miso-haddock",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/459559-18",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本語版記事がリダイレクトの仮リンクを含む記事",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%83%84%E3%82%AD%E3%83%80%E3%83%A9",
+    "pass": 3
+   },
+   {
+    "quote": "居住地：東京都杉並区・阿佐ヶ谷の1Kアパート（築15年・駅徒歩7分）",
+    "url": "https://chigai5.fromation.co.jp/archives/2371",
+    "pass": 3
+   },
+   {
+    "quote": "haddock とは 日本語訳と意味 | Goong.com - 新世代の辞書",
+    "url": "https://goong.com/ja/word/haddock-%E3%81%A8%E3%81%AF-%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A8%B3%E3%81%A8%E6%84%8F%E5%91%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "Also called Sablefish or Butterfish, it dwells the colder waters of Pacific near Alaska and British Columbia. It’s madly appreciated in Japan where they know their fish and its value, and virtually unavailable in Europe or at least as beknown to me.",
+    "url": "https://www.cuisinefiend.com/743/miso-haddock",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese cod-style marinade",
+    "url": "https://www.cuisinefiend.com/743/miso-haddock",
+    "pass": 3
+   },
+   {
+    "quote": "What's in the marinade? Miso, obviously, dissolved in and cooked off with mirin wine, sake and some brown sugar. It needs to work its magic coating the fish in the subtle sugars, fermenting the flesh very slightly. The marinated haddock - or black cod if you're lucky or Japanese - sits in the fridge for up to two days.",
+    "url": "https://www.cuisinefiend.com/743/miso-haddock",
+    "pass": 3
+   },
+   {
+    "quote": "Haddock Fish Price in Japan - November 2026 Market Prices (Updated Monthly)",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/haddock-fish/",
+    "pass": 3
+   },
+   {
+    "quote": "Haddock Fish Price in Japan, November 2026",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/haddock-fish/",
+    "pass": 3
+   },
+   {
+    "quote": "Today's Japan Haddock Fish Price Per Kg/lb",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/haddock-fish/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Haddock Fish Wholesale Prices",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/haddock-fish/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Haddock Fish Market Insights",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/haddock-fish/",
+    "pass": 3
+   },
+   {
+    "quote": "What is the price of haddock fish per kilogram/pound in Japan today?",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/haddock-fish/",
+    "pass": 3
+   },
+   {
+    "quote": "The retail price range for Japan haddock fish is between US$ 6.85 and US$ 13.71 per kilogram or between US$ 3.11 and US$ 6.22 per pound(lb).",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/haddock-fish/",
+    "pass": 3
+   },
+   {
+    "quote": "Click here to see today's exact prices of haddock fish in Japan",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/haddock-fish/",
+    "pass": 3
+   },
+   {
+    "quote": "The retail price range in Yen for haddock fish is between JPY 946.06 and JPY 1,893.48 per kilogram or between JPY 429.05 and JPY 858.72 per pound(lb) in Tokyo and Yokohama.",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/haddock-fish/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2026, the approximate wholesale price range for Japan haddock fish is between US$ 4.79 and US$ 9.60 per kilogram or between US$ 2.17 and US$ 4.35 per pound(lb).",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/haddock-fish/",
+    "pass": 3
+   },
+   {
+    "quote": "Are you searching for Japan haddock fish to purchase? Request our sourcing service for premium bulk Japan haddock fish.",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/haddock-fish/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Haddock Fish Export Prices - Historical, Trends and Prediction",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/haddock-fish/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Haddock Fish Import Prices - Historical, Trends and Prediction",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/haddock-fish/",
+    "pass": 3
+   },
+   {
+    "quote": "The import price of Haddock Fish into Japan has been relatively stable over the past five years. In 2018, the price per kilogram was 25.60 US dollars. This price remained the same in 2019 and 2020. In 2021, the price increased slightly to 25.90 US dollars. This year, the price has decreased slightly to 25.60 US dollars.",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/haddock-fish/",
+    "pass": 3
+   },
+   {
+    "quote": "Looking ahead, it is likely that the import price of Haddock Fish into Japan will remain relatively stable in the next two years. We predict that the price per kilogram in 2023 will be 25.60 US dollars, and in 2024 it will be 25.60 US dollars.",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/haddock-fish/",
+    "pass": 3
+   },
+   {
+    "quote": "values for Japan haddock fish",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/haddock-fish/",
+    "pass": 3
+   },
+   {
+    "quote": "values and quantities for Japan haddock fish",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/haddock-fish/",
+    "pass": 3
+   },
+   {
+    "quote": "Prices of other produce in the Fish category in Japan:",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/haddock-fish/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan haddock fish export values",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/haddock-fish/",
+    "pass": 3
+   },
+   {
+    "quote": "Export markets for Japan haddock fish ( in '000$ )",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/haddock-fish/",
+    "pass": 3
+   },
+   {
+    "quote": "Other Fish Prices in Japan",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/haddock-fish/",
+    "pass": 3
+   },
+   {
+    "quote": "Latest prices for other fish in Japan:",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/haddock-fish/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、ペプチド薬剤は、静脈投与でも、経口投与でも、すぐ分解されているので、皮下注（あるいは今回の目標のような、鼻腔内投与）でなければならない、との固定観念は日本ではゆるぐことはない",
+    "url": "https://note.com/kojikoji3744/n/n0d08e7df6a23",
+    "pass": 3
+   },
+   {
+    "quote": "ところが、外国からは、たとえば糖尿病治療薬リベルサスという、胃で吸収されるペプチド型の薬剤が開発され、日本でもあっさり認可されたという事実",
+    "url": "https://note.com/kojikoji3744/n/n0d08e7df6a23",
+    "pass": 3
+   },
+   {
+    "quote": "本 note は2024年9月に、私の日本の家族が6泊7日で過ごしたイギリスの思い出 兼 観光案内記 の一部を抜き出したものです",
+    "url": "https://note.com/f00b4r/n/n4f03818739c0",
+    "pass": 3
+   },
+   {
+    "quote": "料理が届いてちょっとした後に、まさかの日本人の団体さんが訪れてきました😳 家族がトイレに行ったときに確認したら、料理のサイズが私たちとは異なっていたようです (小さかった)",
+    "url": "https://note.com/f00b4r/n/n4f03818739c0",
+    "pass": 3
+   },
+   {
+    "quote": "日本人の団体さんも訪れるぐらいなので、日本人の口にも合うんだと思います🤔",
+    "url": "https://note.com/f00b4r/n/n4f03818739c0",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": ". The first host used by cod worm during their",
+    "url": "https://en.wikipedia.org/wiki/Haddock",
+    "pass": 3
+   },
+   {
+    "quote": "From AI-programmed industrial robotics and UWB location tracking in factories to AI-powered business intelligence for gyms, precision cancer diagnostics, electric urban delivery vehicles, or AI-driven drug discovery: these 10 Spanish startups closed a funding round this month. Here’s who to watch this November.",
+    "url": "https://tscfo.com/en/success-stories-haddock/",
+    "pass": 3
+   },
+   {
+    "quote": "C/ Hernani, 59, planta 2, módulo sur,",
+    "url": "https://tscfo.com/en/success-stories-haddock/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "モンツキダラ - Wikipedia — モンツキダラ ... モンツキダラ （学名: Melanogrammus aeglefinus）は 北大西洋 両岸に生息する タラ科 の 魚。 コダラ （小鱈）や ハドック （英語: haddock）とも呼ばれる [3]。 ポピュラーな食用魚で、商業流通している。",
+    "url": "https://ja.wikipedia.org/wiki/モンツキダラ",
+    "pass": 3
+   },
+   {
+    "quote": "Haddock - Wikipedia — The haddock (Melanogrammus aeglefinus) is a saltwater ray-finned fish from the family Gadidae, the true cods. It is the only species in the monotypic genus Melanogrammus.",
+    "url": "https://en.wikipedia.org/wiki/Haddock",
+    "pass": 3
+   },
+   {
+    "quote": "codとhaddockの違いを徹底解説！味・食感・調理法・選び方までわかる... — Feb 6, 2026 · 海の世界には似た名前の魚がいくつもありますがその中でも cod と haddock はよく混同されがちです 学校の給食や居酒屋のメ ニュー でもどちらを使うべきか迷うことがあります 今日は学名 生息域 生産地 そして日常の料理での扱い方まで分かりやすく紹介し ...",
+    "url": "https://chigai5.fromation.co.jp/archives/2371",
+    "pass": 3
+   },
+   {
+    "quote": "haddock とは 日本語訳と意味 | Goong.com - 新世代の辞書 — haddock とは 日本語訳と意味 「haddock（ハドック）」という言葉について詳しく説明します。 定義と意味 ハドックは、主に北大西洋に生息する魚で、淡白な白身の魚として知られています。 以下はその主な意味です：",
+    "url": "https://goong.com/ja/word/haddock-とは-日本語訳と意味/",
+    "pass": 3
+   },
+   {
+    "quote": "エグレフィン | UH.app — 特に17世紀以降、イギリスやノルウェーなどの漁業圏で「Haddock」の呼称が定着し、現在の英語名となった。 日本では明治以降、西洋の魚類学書の翻訳を通じて「エグレフィン」という和名が導入された。",
+    "url": "https://uh.app/lib/ja/エグレフィン",
+    "pass": 3
+   },
+   {
+    "quote": "Miso haddock - Recipe | Cuisine FiendFish list - Chabad Lubavitch of Japan, TokyoEntry Details for ハドック [hadokku] - Tanoshii JapaneseJapan: Haddock Market ReportHaddock Fish Price in Japan - November 2026 Market Prices ...Japan Haddock Market (2025-2031) | Revenue & Sizeモンツキダラ - Wikipedia — Mar 26, 2020 · Also called Sablefish or Butterfish, it dwells the colder waters of Pacific near Alaska and B",
+    "url": "https://www.cuisinefiend.com/743/miso-haddock",
+    "pass": 3
+   },
+   {
+    "quote": "Japan: Haddock Market Report — This report presents a comprehensive overview of the Japanese haddock market, the impact of COVID-19 on it, and a forecast for the market development in the medium term.",
+    "url": "https://www.wm-strategy.com/japan-haddock-market",
+    "pass": 3
+   },
+   {
+    "quote": "Haddock Fish Price in Japan - November 2026 Market Prices ... — See November 2026 haddock fish prices in Japan per kilogram (kg) and per pound (lb) - farmgate, wholesale and retail, with price history and trends. Updated monthly.",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/haddock-fish/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Haddock Market (2025-2031) | Revenue & Size — The Japan Haddock market is characterized by steady demand for this popular whitefish species due to its mild flavor and versatile culinary applications. Haddock is commonly consumed in Japan in various forms, including as fillets, steaks, and in processed products such as fish cakes and surimi.",
+    "url": "https://www.6wresearch.com/industry-report/japan-haddock-market-outlook",
+    "pass": 3
+   },
+   {
+    "quote": "A CFO every step of the way: The case of Haddock - TSCFO — We worked with Haddock as their fractional CFO for over two years, supporting their expansion, financial processes, and corporate restructuring.",
+    "url": "https://tscfo.com/en/success-stories-haddock/",
+    "pass": 3
+   },
+   {
+    "quote": "Can eco-labels tune a supply chain? The case of MSC-certified ... — Oct 1, 2025 · This study investigates differences in MSC premiums for haddock products of high and low value upstream in the supply chain. Findings show a substantial 14 % price premium for MSC-certified high-end loins and no premiums for lower-value products.",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0921800925001661",
+    "pass": 3
+   },
+   {
+    "quote": "Haddock — Three funding rounds and three different structures ... — Haddock is a Barcelona SaaS that automates restaurant management, digitising invoices and tracking margins in real time. We met them just after Y Combinator. In December 2022 they asked for help with two full-stack engineers. One of them, a mid-level with a lot of potential, moved to Barcelona and was leading product within months",
+    "url": "https://www.kulturo.tech/en/case-studies/haddock",
+    "pass": 3
+   },
+   {
+    "quote": "Evaluation of North Sea Haddock Management Strategy: A Case Study — Explore the history, evaluation, results, and future work of the North Sea haddock management plan through stakeholder views, simulations, and assessment frameworks.",
+    "url": "https://www.slideserve.com/fishman/management-strategy-evaluation-for-north-sea-haddock-using-flr-powerpoint-ppt-presentation",
+    "pass": 3
+   },
+   {
+    "quote": "Haddock Revenue 2024: $164.9K Est., $2.1M Raised - LATKA — Aug 10, 2026 · Haddock 2024 estimated revenue: $164.9K (up from $118.1K in 2023). Total funding: $2.1M across 2 rounds. 60 employees. Founded 2020. Updated Aug 10, 2026.",
+    "url": "https://getlatka.com/companies/haddock",
+    "pass": 3
+   },
+   {
+    "quote": "haddock - 2026 Company Profile, Team, Funding & Competitors ... — Oct 12, 2026 · haddock is a seed company based in Barcelona (Spain), founded in 2020 by Arnau Navarro, Pol Rosell Torrent and Carlos Marchal. It operates as a Cloud-based suite solutions for restaurants. haddock has raised $3.06M in funding from Y Combinator.",
+    "url": "https://tracxn.com/d/companies/haddock/__spUWzo3LaNuCk1xVVCVdC_vLscfxa2cJSqTDemP00Eo",
+    "pass": 3
+   },
+   {
+    "quote": "Haddock 2026 Company Profile: Valuation, Funding & Investors ...haddock: Funding, Team & Investors | Startup IntrosHaddock — Funding, Investors & Team | SeedtableHaddock Valuation, Funding & Secondary Market Data ...Haddock ARR 2026: $4M Revenue, Growth & Milestones | ARR Club — Information on valuation, funding, cap tables, investors, and executives for Haddock. Use the PitchBook Platform to expl",
+    "url": "https://pitchbook.com/profiles/company/459559-18",
+    "pass": 3
+   },
+   {
+    "quote": "haddock: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Founded in 2020 in Barcelona, Spain, Haddock was created by Arnau Navarro (CEO), Pol Rosell (COO), and Carlos Marchal (CTO) amid the COVID-19 pandemic, a period that highlighted the urgent need for improved restaurant management tools.",
+    "url": "https://startupintros.com/orgs/haddock",
+    "pass": 3
+   },
+   {
+    "quote": "Haddock — Funding, Investors & Team | Seedtable — Filter by funding, stage, geography and headcount, then export to CSV or Google Sheets and run outreach — all in Seedtable.",
+    "url": "https://seedtable.com/companies/haddock",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "”GRAB GRAB THE HADDOCK\"の事。｜Poem Of The River Dec 17, 2022 · Janeがベースとヴォーカル、Aliceがパーカッションを、他メンバーは流動的にパートを変えてレコーディングを行い、デビュー・シングル\"Three Songs By Grab Grab The Haddock\"を、Marine Girlsと同じCherry Redから1984年にリリースしています。",
+    "url": "https://note.com/antivirulcareb/n/ne7073ff17a5d",
+    "pass": 3
+   },
+   {
+    "quote": "in Silico 分子Docking ソフトHADDOCK におけるペプチドの扱い方 Sep 2, 2025 · HADDOCK におけるペプチドの扱い 基本 HADDOCK は タンパク質・ペプチド・DNA/RNA をすべて「ポリマー」扱い する。 つまり ペプチドも普通のPDB形式でOK。",
+    "url": "https://note.com/kojikoji3744/n/n0d08e7df6a23",
+    "pass": 3
+   },
+   {
+    "quote": "【イギリス】 Seafresh - London Victoria でオススメの Fish & Chips Dec 13, 2024 · Haddock (コダラ) 味と食感: ハドックはタラよりも濃い風味で、わずかに甘みがあり、ふんわりした食感が特徴です。 スモーキーな香り: 一部のハドックは燻製されることが多く、独特の香ばしさがあります。",
+    "url": "https://note.com/f00b4r/n/n4f03818739c0",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "”GRAB GRAB THE HADDOCK\"の事。｜Poem Of The River",
+    "url": "https://note.com/antivirulcareb/n/ne7073ff17a5d",
+    "pass": 3
+   },
+   {
+    "quote": "”GRAB GRAB THE HADDOCK\"の事。",
+    "url": "https://note.com/antivirulcareb/n/ne7073ff17a5d",
+    "pass": 3
+   },
+   {
+    "quote": "英国イングランドのハートフォードシャーはハットフィールド出身の４人組ガールズ・バンドのMarine Girlsと言えば、まずまず有名なバンドではあると思います。まだ高校生のTracey ThornとGina Hartman、JaneとAliceのFox姉妹により１９８０年に結成、相当にローファイながら味のあるＤＩＹサウンドを聴かせるバンドで、Kurt Cobeinはフェイヴァリット・バンドのひとつに挙げています。１枚目のシングル”On My Mind\"とアルバム\"Beach Party\"は、Pat Berminghamが立ち上げたばかりの「In Phaze Records」からカセット・リリースされています。あまり知られたレーベルではありませんが、後にThe Legendary Pink Dots及びヴォーカリストのEdward Ka-SpelのソロやPortion Controlの作品を",
+    "url": "https://note.com/antivirulcareb/n/ne7073ff17a5d",
+    "pass": 3
+   },
+   {
+    "quote": "Tracey Thornは、Hull大学入学後にBen Wattと知り合い、Everything But The Girlを結成、長らく第一線で活動することになるのは周知の通り。Georgina Hartmanは、Mark FlunderとMoscovite Fiveや Sindy Arthurといったバンドを結成。そしてJaneとAliceのFox姉妹は、ギタリストのLester NoelとSteve Galloway、管楽器奏者のTim Hallと共に、Grab Grab The Haddockを結成します。バンド名は、スコットランドの画家、ブルース・マクリーンの絵の題名から取られています。後のBBC Radio1のリスナー投票による「最低なバンド名」のチャートにランク・インし、不名誉な記録として歴史に名を残しています。",
+    "url": "https://note.com/antivirulcareb/n/ne7073ff17a5d",
+    "pass": 3
+   },
+   {
+    "quote": "[Three Songs By Grab Grab The Haddock] (1984)",
+    "url": "https://note.com/antivirulcareb/n/ne7073ff17a5d",
+    "pass": 3
+   },
+   {
+    "quote": "Janeがベースとヴォーカル、Aliceがパーカッションを、他メンバーは流動的にパートを変えてレコーディングを行い、デビュー・シングル\"Three Songs By Grab Grab The Haddock\"を、Marine Girlsと同じCherry Redから１９８４年にリリースしています。プロデュースは、後にMory KantéやGipsy Kings、Salif Keitaなどを大ヒットさせたNick Patrickが手掛けています。何故この人選に至ったかは定かでは無いですが、それ以前にはHeaven17やBritish Electric Foundationのアシスタント・プロデューサーをしていた駆け出しのプロデューサーだった彼が、アコースティックなロウ・ファイ・サウンドに、ジャズやボサ・ノヴァのテイストを持ち込むという、奇しくもTracey Thornの以降の路線と微妙に交",
+    "url": "https://note.com/antivirulcareb/n/ne7073ff17a5d",
+    "pass": 3
+   },
+   {
+    "quote": "[Four More Songs By Grab Grab the Haddock] (1985)",
+    "url": "https://note.com/antivirulcareb/n/ne7073ff17a5d",
+    "pass": 3
+   },
+   {
+    "quote": "翌１９８５年に\"Four More Songs By Grab Grab the Haddock\"をリリースしています。今作も、ジャズやボサ・ノヴァのテイストをアコースティック・ポップに絶妙にブレンドした非常に味のある作品となっています。しかし、今作を最後にバンドは解散しています。理由は定かではありませんが、こんな味のある楽曲を残しているにも関わらず、シングル２枚という短い期間の活動はあまりにも惜しまれた。その証拠に、バンド解散後のCherry Redのコンピレーションには、彼女たちの様々な楽曲が、かなりの頻度で収録されています。バンド解散後、Fox姉妹は音楽の道を捨て、それぞれ勉学の道に進んでいますので、この辺が理由でしょうか。Lester NoelとSteve Gallowayは、North of Cornwallisを結成しますが、短命に終わります。Lesterは、解散したHouse",
+    "url": "https://note.com/antivirulcareb/n/ne7073ff17a5d",
+    "pass": 3
+   },
+   {
+    "quote": "in Silico 分子Docking ソフトHADDOCK におけるペプチドの扱い方｜kojikoji",
+    "url": "https://note.com/kojikoji3744/n/n0d08e7df6a23",
+    "pass": 3
+   },
+   {
+    "quote": "in Silico 分子Docking ソフトHADDOCK におけるペプチドの扱い方",
+    "url": "https://note.com/kojikoji3744/n/n0d08e7df6a23",
+    "pass": 3
+   },
+   {
+    "quote": "今回の記事は、20年前に花粉症を抑えるペプチド（薬）をデザインしようとして途中で挫折した経験を振り返る作業",
+    "url": "https://note.com/kojikoji3744/n/n0d08e7df6a23",
+    "pass": 3
+   },
+   {
+    "quote": "https://note.com/kojikoji3744/n/neddd41a8e645",
+    "url": "https://note.com/kojikoji3744/n/n0d08e7df6a23",
+    "pass": 3
+   },
+   {
+    "quote": "の続きである。 今回、20年ぶりにin silico screeningのツールに触れた。それは、20年前に使っていた「Tinker＋Autodock+RasMol」とは違うツール、「PyMol+HADDOCK」「PyMol+ Rosetta FlexPepDock」である。遅ればせながら、これらのツールについての印象をここに記してみたい",
+    "url": "https://note.com/kojikoji3744/n/n0d08e7df6a23",
+    "pass": 3
+   },
+   {
+    "quote": "1. AutoDock / AutoDock Vina",
+    "url": "https://note.com/kojikoji3744/n/n0d08e7df6a23",
+    "pass": 3
+   },
+   {
+    "quote": "：低分子リガンド（薬候補）とタンパク質の結合予測",
+    "url": "https://note.com/kojikoji3744/n/n0d08e7df6a23",
+    "pass": 3
+   },
+   {
+    "quote": "スコア関数は経験的（疎水相互作用、H-bond、torsional penalty…）",
+    "url": "https://note.com/kojikoji3744/n/n0d08e7df6a23",
+    "pass": 3
+   },
+   {
+    "quote": "【イギリス】 Seafresh - London Victoria でオススメの Fish & Chips｜f00b4r",
+    "url": "https://note.com/f00b4r/n/n4f03818739c0",
+    "pass": 3
+   },
+   {
+    "quote": "【イギリス】 Seafresh - London Victoria でオススメの Fish & Chips",
+    "url": "https://note.com/f00b4r/n/n4f03818739c0",
+    "pass": 3
+   },
+   {
+    "quote": "本 note は2024年9月に、私の日本の家族が6泊7日で過ごしたイギリスの思い出 兼 観光案内記 の一部を抜き出したものです。本編はこちら↓",
+    "url": "https://note.com/f00b4r/n/n4f03818739c0",
+    "pass": 3
+   },
+   {
+    "quote": "Seafresh はフィッシュ & チップスのお持ち帰りで利用したことがありましたが、今回初めて家族と共にレストランを利用してきました。",
+    "url": "https://note.com/f00b4r/n/n4f03818739c0",
+    "pass": 3
+   },
+   {
+    "quote": "ロンドンのヴィクトリアにあります。ヴィクトリア駅から徒歩6分程度です。",
+    "url": "https://note.com/f00b4r/n/n4f03818739c0",
+    "pass": 3
+   },
+   {
+    "quote": "Seafresh はシーフード料理が評判のレストランです。1965年に創業し、家族経営で代々受け継がれてきました。クラシックなフィッシュ & チップスをはじめ、蒸しムール貝やグリルロブスターといったメニューが人気です。また、地中海風のシーフード料理や、軽めのヘルシーオプションも提供しています。",
+    "url": "https://note.com/f00b4r/n/n4f03818739c0",
+    "pass": 3
+   },
+   {
+    "quote": "このレストランは、カジュアルでリラックスした雰囲気の中、美味しい料理と親切なサービスを楽しめる場所です。ヴィクトリア駅からも近く、地元の人や観光客に愛されています。ランチやディナーはもちろん、テイクアウトやプライベートパーティーにも対応しています。",
+    "url": "https://note.com/f00b4r/n/n4f03818739c0",
+    "pass": 3
+   },
+   {
+    "quote": "※ ChatGPT によってサマリー生成後、微調整",
+    "url": "https://note.com/f00b4r/n/n4f03818739c0",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Haddock | ** music is my life ** (@king_haddock) / X Nov 7 I can pick a day to stream when more people are available also, but anyone interested in chilling in about two hours from now? lol Haddock | ** music is my life ** @king_haddock Nov 6 Honestly.... my brain is fidgety enough today I could see myself doing a Friday evening stream if folks wanted to hang 3",
+    "url": "https://x.com/king_haddock",
+    "pass": 3
+   },
+   {
+    "quote": "Coach Nick Haddock (@Playmakerhaddox) / X The God of signs and wonders will fight for you 🙏 00:00 488 Coach Nick Haddock @Playmakerhaddox Sep 17 1",
+    "url": "https://x.com/Playmakerhaddox",
+    "pass": 3
+   },
+   {
+    "quote": "Haddock | ** music is my life ** on X: \"@theFlyinPainter ... Haddock | ** music is my life ** @king_haddock 13m Every day you manage to walk with inclines like that, you conquer the planet",
+    "url": "https://x.com/king_haddock/status/2119989035162595680",
+    "pass": 3
+   },
+   {
+    "quote": "Haddock | ** music is my life ** on X: \"I can pick a day to ... I can pick a day to stream when more people are available also, but anyone interested in chilling in about two hours from now? lol",
+    "url": "https://x.com/king_haddock/status/2118875161050882134",
+    "pass": 3
+   },
+   {
+    "quote": ". (@_Haddock_) / X 1 followers · 468 following. Joined Jun 2016. See the latest conversations with @_Haddock_",
+    "url": "https://x.com/_Haddock_",
+    "pass": 3
+   },
+   {
+    "quote": "Haddock | ** music is my life ** on X: \"Screencap of the ... Oct 30, 2026 · Haddock | ** music is my life ** @king_haddock 4m Crazily enough... it was **YESTERDAY** that I'd finished documenting the links of active AO3 fics 😂😂😂",
+    "url": "https://x.com/king_haddock/status/2115971461651316997",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "haddock (YC W22) - LinkedIn haddock is a software that helps restaurateurs to have better cost control in their businesses. Thanks to AI, the platform needs a photo of the invoice or delivery note to digitize all their ...",
+    "url": "https://www.linkedin.com/company/haddock",
+    "pass": 3
+   },
+   {
+    "quote": "Gerald Haddock - Founder & CEO of Haddock Investments | LinkedInMarcos A. Haddock-Colón - Emergency Management / Instructor ...Jason Haddock - CTO & CEO | Founder & Inventor | Taking AI ...Nathan Haddock - President at ISN Technologies | LinkedInPatrick Haddock - General Manager - Qantas Product Innovation ...Elliot Haddock - General Manager | New Product Launches ... Gerald W. Haddock is the Foun",
+    "url": "https://www.linkedin.com/in/geraldhaddock",
+    "pass": 3
+   },
+   {
+    "quote": "Marcos A. Haddock-Colón - Emergency Management / Instructor ...Jason Haddock - CTO & CEO | Founder & Inventor | Taking AI ...Nathan Haddock - President at ISN Technologies | LinkedInPatrick Haddock - General Manager - Qantas Product Innovation ...Elliot Haddock - General Manager | New Product Launches ... Radio Amateur (KP4MHC), NIMS/ICS, CRASE, IRTB, PRSBI, CERT Program Instructor. · Experiencia:",
+    "url": "https://pr.linkedin.com/in/marcos-a-haddock-colón-0b5347138",
+    "pass": 3
+   },
+   {
+    "quote": "Jason Haddock - CTO & CEO | Founder & Inventor | Taking AI ...Nathan Haddock - President at ISN Technologies | LinkedInPatrick Haddock - General Manager - Qantas Product Innovation ...Elliot Haddock - General Manager | New Product Launches ... Jason Haddock CTO & CEO | Founder & Inventor | Taking AI & Technology Products from Concept to Market | P&L, Fundraising & Commercial Growth Ascot, England,",
+    "url": "https://uk.linkedin.com/in/haddockjason",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Haddock Revitalization Committee | Haddock GA - Facebook 2 days ago · Wrapping up plans for the largest Haddock Christmas Market yet. Though vendors are not required to attend, we invite anyone and everyone in our community to join us. - with Patricia Jordan and 2 others.",
+    "url": "https://www.facebook.com/HaddockRC/",
+    "pass": 3
+   },
+   {
+    "quote": "Haddock Jack's To Go | Shapleigh ME - Facebook Friday tastes better when you don’t have to cook! 🐟 Kick off the weekend with your Haddock Jack’s favorites - fried seafood, lobster rolls, chicken tenders, Italians and plenty more, all made fresh and ready to go.",
+    "url": "https://www.facebook.com/p/Haddock-Jacks-To-Go-61559847456466/",
+    "pass": 3
+   },
+   {
+    "quote": "Haddock Motor Company | Hoboken GA - Facebook Oct 22, 2026 · Haddock Motor Company, Hoboken. 1,149 followers · 50 talking about this · 4 were here. Small-town, owner-operated dealership specializing in quality used...",
+    "url": "https://www.facebook.com/p/Haddock-Motor-Company-61575522904674/",
+    "pass": 3
+   },
+   {
+    "quote": "Haddock - wear's your head! | Henningsvær - FacebookTerry Haddock Racing | New Braunfels TX - FacebookRep. Jim Haddock - FacebookHaddock & Associates - Facebook Sep 19, 2026 · Haddock - wear's your head! Featuring our classic retro-inspired Haddocks back print, this tee is making its return for the season. Designed with a unisex fit, it features a slightly boxy, cropped silhouette for a relaxed an",
+    "url": "https://www.facebook.com/haddockwearsyourhead/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://haddock.app/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://haddock.app/partners",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%83%84%E3%82%AD%E3%83%80%E3%83%A9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Haddock",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai5.fromation.co.jp/archives/2371",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://goong.com/ja/word/haddock-%E3%81%A8%E3%81%AF-%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A8%B3%E3%81%A8%E6%84%8F%E5%91%B3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%83%84%E3%82%AD%E3%83%80%E3%83%A9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cuisinefiend.com/743/miso-haddock",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wm-strategy.com/japan-haddock-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.selinawamucii.com/insights/prices/japan/haddock-fish/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tscfo.com/en/success-stories-haddock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0921800925001661",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kulturo.tech/en/case-studies/haddock",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://haddock-poodle-52gf.squarespace.com/case-studies/category/Consulting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/haddock",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/haddock/__spUWzo3LaNuCk1xVVCVdC_vLscfxa2cJSqTDemP00Eo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/459559-18",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://startupintros.com/orgs/haddock",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/antivirulcareb/n/ne7073ff17a5d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kojikoji3744/n/n0d08e7df6a23",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/f00b4r/n/n4f03818739c0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/king_haddock",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Playmakerhaddox",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/king_haddock/status/2119989035162595680",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/king_haddock/status/2118875161050882134",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/haddock",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/geraldhaddock",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pr.linkedin.com/in/marcos-a-haddock-colón-0b5347138",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/haddockjason",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/HaddockRC/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Haddock-Jacks-To-Go-61559847456466/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Haddock-Motor-Company-61575522904674/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/haddockwearsyourhead/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/_Haddock_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/king_haddock/status/2115971461651316997",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Haddock 日本 導入",
+   "results": [
+    "https://ja.wikipedia.org/wiki/モンツキダラ",
+    "https://en.wikipedia.org/wiki/Haddock",
+    "https://chigai5.fromation.co.jp/archives/2371",
+    "https://goong.com/ja/word/haddock-とは-日本語訳と意味/",
+    "https://uh.app/lib/ja/エグレフィン",
+    "https://kotobank.jp/word/はどつく-3163478",
+    "https://chigai.fromation.co.jp/archives/20878"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Haddock 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.hakuhodo-global.com/network",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Haddock Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/モンツキダラ",
+    "https://www.cuisinefiend.com/743/miso-haddock",
+    "https://www.wm-strategy.com/japan-haddock-market",
+    "https://www.selinawamucii.com/insights/prices/japan/haddock-fish/",
+    "https://www.6wresearch.com/industry-report/japan-haddock-market-outlook",
+    "https://www.chabad.jp/templates/articlecco_cdo/aid/512187/jewish/Fish-list.htm",
+    "https://www.tanoshiijapanese.com/dictionary/entry_details.cfm?entry_id=9017"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Haddock manufacturing customer case study",
+   "results": [
+    "https://tscfo.com/en/success-stories-haddock/",
+    "https://www.sciencedirect.com/science/article/pii/S0921800925001661",
+    "https://www.kulturo.tech/en/case-studies/haddock",
+    "https://haddock-poodle-52gf.squarespace.com/case-studies/category/Consulting",
+    "https://www.slideserve.com/fishman/management-strategy-evaluation-for-north-sea-haddock-using-flr-powerpoint-ppt-presentation",
+    "https://haddocktool.com/",
+    "https://medium.com/@evamarti/ux-ui-case-study-new-task-management-feature-for-haddock-34e993d879dd"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Haddock white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://learn.g2.com/what-is-a-partner-program",
+    "https://www.seoreseller.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.vizrt.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Haddock founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/haddock",
+    "https://tracxn.com/d/companies/haddock/__spUWzo3LaNuCk1xVVCVdC_vLscfxa2cJSqTDemP00Eo",
+    "https://pitchbook.com/profiles/company/459559-18",
+    "https://startupintros.com/orgs/haddock",
+    "https://seedtable.com/companies/haddock",
+    "https://privatemarketview.com/companies/haddock",
+    "https://www.arr.club/haddock"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Haddock",
+   "results": [
+    "https://note.com/antivirulcareb/n/ne7073ff17a5d",
+    "https://note.com/kojikoji3744/n/n0d08e7df6a23",
+    "https://note.com/tag/ジュディノート",
+    "https://note.com/f00b4r/n/n4f03818739c0",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/godel/n/n219ff14f4820"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Haddock",
+   "results": [
+    "https://x.com/king_haddock",
+    "https://x.com/Playmakerhaddox",
+    "https://x.com/king_haddock/status/2119989035162595680",
+    "https://x.com/king_haddock/status/2118875161050882134",
+    "https://x.com/king_haddock/status/2119524866059907581",
+    "https://x.com/king_haddock/status/2119525103218409948",
+    "https://x.com/king_haddock/status/2119550559695118531"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Haddock",
+   "results": [
+    "https://www.linkedin.com/company/haddock",
+    "https://www.linkedin.com/in/geraldhaddock",
+    "https://pr.linkedin.com/in/marcos-a-haddock-colón-0b5347138",
+    "https://uk.linkedin.com/in/haddockjason",
+    "https://ca.linkedin.com/in/nathanhaddock",
+    "https://uk.linkedin.com/in/elliothaddock",
+    "https://au.linkedin.com/in/phaddock"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Haddock",
+   "results": [
+    "https://www.facebook.com/HaddockRC/",
+    "https://www.facebook.com/p/Haddock-Jacks-To-Go-61559847456466/",
+    "https://www.facebook.com/p/Haddock-Motor-Company-61575522904674/",
+    "https://www.facebook.com/haddockwearsyourhead/",
+    "https://www.facebook.com/terryhaddockracing1/",
+    "https://www.facebook.com/RepHaddock/",
+    "https://www.facebook.com/haddockins/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Haddock note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Haddock X 投稿",
+   "results": [
+    "https://x.com/_Haddock_",
+    "https://x.com/king_haddock/status/2115971461651316997",
+    "https://wenmr.science.uu.nl/haddock2.4/",
+    "https://search.yahoo.co.jp/realtime/search/投稿/",
+    "https://help.x.com/ja/using-x/how-to-post",
+    "https://help.x.com/ja/using-x/mentions-and-replies",
+    "https://pinzuba.news/articles/-/18554?page=1"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部41頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部41頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部41頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部41頁・検索12回）"
+ }
+}

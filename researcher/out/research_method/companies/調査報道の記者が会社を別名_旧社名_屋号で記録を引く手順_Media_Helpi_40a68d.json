@@ -8,7 +8,7 @@
  ],
  "context": "同一性",
  "kind": "market",
- "researched_at": "2026-11-09T06:00:07.036772+00:00",
+ "researched_at": "2026-11-10T14:29:03.739743+00:00",
  "evidence": {
   "突き合わせ・推定": [
    {
@@ -19,6 +19,148 @@
    },
    {
     "quote": "Methodological Discipline: Triangulation",
+    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "The Global Investigative Journalism Casebook",
+    "url": "https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Anatomy of Injustice: A Murder Case Gone Wrong",
+    "url": "https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "(1988) offers a classic example of telling the big story of a war by focussing on the tale of one man’s contribution, Col John Vann.",
+    "url": "https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ", by Graham Greene (1955). Fiction perhaps, but one of those cases where fiction speaks truer than reportage.",
+    "url": "https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "I have used the excellent documentary “La Doble Desaparecida” (CNN in Spanish, 2003) to talk about investigative reporting – excellent example of the use of documents and confrontational interviews and just an amazing tale. Available at",
+    "url": "https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "(2012), which makes the case for the importance of undercover reporting. See also the astonishing companion database of hundreds of undercover stories that she created and made available at New York University:",
+    "url": "https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "by anthropologist Oscar Lewis (1961). A classic example of scientific field work and close observation.",
+    "url": "https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "is an example of his craftsmanship. I think he’s the single best environmental investigative reporter around. He set the standard for a generation after him (in which I count myself), showing that environmental reporting is not for treehuggers or the fainthearted.",
+    "url": "https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "<i>Anatomy of Injustice: A Murder Case Gone Wrong</i>, by Ray Bonner (2012),an unmissable look at the US death penalty system by one of the greats.</p><p>On War:<br>",
+    "url": "https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "- Neil Sheehan,&nbsp;<i>A Bright Shining Lie</i>&nbsp;(1988) offers a classic example of telling the big story of a war by focussing on the tale of one man's contribution, Col John Vann.<br>",
+    "url": "https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Sensitive cases vanished. Registration became stricter. Search results were capped. Still, corporate disputes, contract conflicts, and enforcement actions remain searchable.",
+    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The guide warns that cases can disappear without notice .",
+    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Following the Waste Back to Italy: An OSINT Case Study from Croatia",
+    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AI-Designed Viral Genomes: What the First Functional Phage Case Changes",
+    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "Political sensitivity around corporate-state ties",
+    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "These are not marketing claims. They are legal filings.",
+    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Name-matching errors occur. Duplicate individuals appear. Always verify with original filings.",
+    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Chinese domestic records may be restricted. Overseas filings are not.",
+    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ": US filings disclose subsidiaries and VIE structures",
+    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ": Ownership and financial filings",
+    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Step 5: Search Bond and Financial Filings",
+    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Massive public filing infrastructure",
+    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "If a Shanghai Stock Exchange filing conflicts with Qichacha data, check:",
     "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -133,230 +275,43 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "Political sensitivity around corporate-state ties",
-    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "These are not marketing claims. They are legal filings.",
-    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Name-matching errors occur. Duplicate individuals appear. Always verify with original filings.",
-    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Chinese domestic records may be restricted. Overseas filings are not.",
-    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ": US filings disclose subsidiaries and VIE structures",
-    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ": Ownership and financial filings",
-    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Step 5: Search Bond and Financial Filings",
-    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Massive public filing infrastructure",
-    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "If a Shanghai Stock Exchange filing conflicts with Qichacha data, check:",
-    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "The Global Investigative Journalism Casebook",
-    "url": "https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Anatomy of Injustice: A Murder Case Gone Wrong",
-    "url": "https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "(1988) offers a classic example of telling the big story of a war by focussing on the tale of one man’s contribution, Col John Vann.",
-    "url": "https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ", by Graham Greene (1955). Fiction perhaps, but one of those cases where fiction speaks truer than reportage.",
-    "url": "https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "I have used the excellent documentary “La Doble Desaparecida” (CNN in Spanish, 2003) to talk about investigative reporting – excellent example of the use of documents and confrontational interviews and just an amazing tale. Available at",
-    "url": "https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "(2012), which makes the case for the importance of undercover reporting. See also the astonishing companion database of hundreds of undercover stories that she created and made available at New York University:",
-    "url": "https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "by anthropologist Oscar Lewis (1961). A classic example of scientific field work and close observation.",
-    "url": "https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "is an example of his craftsmanship. I think he’s the single best environmental investigative reporter around. He set the standard for a generation after him (in which I count myself), showing that environmental reporting is not for treehuggers or the fainthearted.",
-    "url": "https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "<i>Anatomy of Injustice: A Murder Case Gone Wrong</i>, by Ray Bonner (2012),an unmissable look at the US death penalty system by one of the greats.</p><p>On War:<br>",
-    "url": "https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "- Neil Sheehan,&nbsp;<i>A Bright Shining Lie</i>&nbsp;(1988) offers a classic example of telling the big story of a war by focussing on the tale of one man's contribution, Col John Vann.<br>",
-    "url": "https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Sensitive cases vanished. Registration became stricter. Search results were capped. Still, corporate disputes, contract conflicts, and enforcement actions remain searchable.",
-    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The guide warns that cases can disappear without notice .",
-    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Following the Waste Back to Italy: An OSINT Case Study from Croatia",
-    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "AI-Designed Viral Genomes: What the First Functional Phage Case Changes",
-    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
+    "url": "https://note.com/houjinbase/n/n3453fdaa031d",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://mediahelpingmedia.org/tools/the-mhm-reporters-notebook/",
+    "url": "https://biz.note.com/n/n39fc991197b6",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://americanpressinstitute.org/how-to-audit-sources/",
+    "url": "https://note.com/clean_duck544/n/n5b0d73f0048e",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://desk.channel.io/paddy/document/spaces/14735/articles/468990/revisions/745012",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.nytimes.com/2019/12/27/reader-center/reporters-notes-journalism-september-11.html",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "http://jcej.info/lib/?doc=handbook",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://mediahelpingmedia.org/lessons/lesson-investigative-dossier/",
+    "url": "https://note.com/davide_tech/n/n05a7bc439eae",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.v-pr.net/prlab/know-how/media-relations/",
+    "url": "https://note.com/ai_answer/n/ne33dfb7c20bb",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.reddit.com/r/Journalism/comments/xaoz23/how_can_i_get_in_touch_with_a_journalist/?tl=ja",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://newcanadianmedia.ca/hub/naming-sources-in-stories/",
-    "status": "http_403",
+    "url": "https://note.com/hogakuyoridokoro/n/nb2c42a74be69",
+    "status": "ok",
     "method": "http"
    },
    {
     "url": "https://ja.wikipedia.org/wiki/%E8%AA%BF%E6%9F%BB%E5%A0%B1%E9%81%93",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://rirekisho-guide.com/0038-2/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.reddit.com/r/Journalism/comments/14822vg/what_qualifies_as_investigative_journalism_and/?tl=ja",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.nhk.or.jp/bunken/d/_data/research/domestic/BUNA0000040540000006/files/006.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://slownews.com/n/ne04e905d070c?gs=90e4699ec3946a0b90adb233acf059d4",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/houjinbase/n/n3453fdaa031d",
     "status": "ok",
     "method": "http"
    },
@@ -371,33 +326,73 @@
     "method": "http"
    },
    {
+    "url": "https://www.nhk.or.jp/bunken/d/_data/research/domestic/BUNA0000040540000006/files/006.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://convertaudiototext.com/ja/blog/transcription-tips-for-investigative-reporting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai2.fromation.co.jp/archives/32552",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rirekisho-guide.com/0038-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://imidas.jp/insight/f-40-270-26-04-g787/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lekky.jp/articles/20645/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jmedia.wiki/%E8%AA%BF%E6%9F%BB%E5%A0%B1%E9%81%93%E3%81%AF%E3%80%81%E9%8B%AD%E3%81%84%E8%B3%AA%E5%95%8F%E3%82%92%E6%8A%95%E3%81%92%E3%81%8B%E3%81%91%E3%80%81%E7%89%B9%E5%AE%9A%E3%81%AE%E7%96%91%E5%95%8F%E3%82%92%E5%BE%B9%E5%BA%95%E7%9A%84%E3%81%AB%E6%8E%98%E3%82%8A%E4%B8%8B%E3%81%92%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E3%80%81%E7%89%B9%E5%AE%9A%E3%81%AE/Investigative_journalism",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahi.com/investigative-reporting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://mediahelpingmedia.org/investigative/compiling-an-investigative-journalism-dossier/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films-2/",
+    "url": "https://gijn.org/resource/who-owns-that-corporation-check-out-gijns-new-resource-on-corporate-records/",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://onlinejournalismblog.com/2023/12/18/how-to-investigate-companies-recommendations-from-graham-barrow/",
+    "url": "https://gijn.org/tag/corporate-records/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://mediahelpingmedia.org/lessons/lesson-investigative-dossier/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://mediahelpingmedia.org/investigative/how-to-investigate-official-documents/",
+    "url": "https://openrecordscout.com/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://mediahelpingmedia.org/author/donray/",
+    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
     "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://mhm.annors.se/investigative/compiling-an-investigative-journalism-dossier/",
-    "status": "network_error:SSLError",
     "method": "http"
    }
   ]
@@ -405,89 +400,83 @@
  "search_log": [
   {
    "query": "調査報道の記者が会社を別名・旧社名・屋号で記録を引く手順（Media Helping Media の Don Ray の書き方・GIJN の会社記録の手引き） site:note.com",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://note.com/houjinbase/n/n3453fdaa031d",
+    "https://biz.note.com/n/n39fc991197b6",
+    "https://note.com/clean_duck544/n/n5b0d73f0048e",
+    "https://note.com/davide_tech/n/n05a7bc439eae",
+    "https://note.com/ai_answer/n/ne33dfb7c20bb",
+    "https://note.com/hogakuyoridokoro/n/nb2c42a74be69",
+    "https://note.com/hiratsuji/n/n7ffbec06dbca"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "調査報道の記者が会社を別名・旧社名・屋号で記録を引く手順（Media Helping Media の Don Ray の書き方・GIJN の会社記録の手引き） note",
    "results": [
-    "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
-    "https://mediahelpingmedia.org/tools/the-mhm-reporters-notebook/",
-    "https://americanpressinstitute.org/how-to-audit-sources/",
-    "https://www.youtube.com/watch?v=srRZUXgLXR4",
-    "https://desk.channel.io/paddy/document/spaces/14735/articles/468990/revisions/745012",
-    "https://www.nytimes.com/2019/12/27/reader-center/reporters-notes-journalism-september-11.html",
-    "http://jcej.info/lib/?doc=handbook",
-    "https://note.com/hasshinkaigi/n/n4cbcf959707e",
-    "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
-    "https://ja.wikipedia.org/wiki/調査報道"
+    "https://ja.wikipedia.org/wiki/調査報道",
+    "https://note.com/houjinbase/n/n3453fdaa031d",
+    "https://crd.ndl.go.jp/reference/entry/index.php?page=ref_view&id=1000285637",
+    "https://www.graciauto.jp/blog/yago-kaishamei-chigau-site-hyoki-202608/",
+    "https://www.nhk.or.jp/bunken/d/_data/research/domestic/BUNA0000040540000006/files/006.pdf",
+    "https://convertaudiototext.com/ja/blog/transcription-tips-for-investigative-reporting",
+    "https://chigai2.fromation.co.jp/archives/32552"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "調査報道の記者が会社を別名・旧社名・屋号で記録を引く手順（Media Helping Media の Don Ray の書き方・GIJN の会社記録の手引き） やり方",
    "results": [
-    "https://mediahelpingmedia.org/lessons/lesson-investigative-dossier/",
-    "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
-    "https://americanpressinstitute.org/how-to-audit-sources/",
-    "https://www.youtube.com/watch?v=V4Q1sg0LjOI",
-    "https://www.v-pr.net/prlab/know-how/media-relations/",
-    "http://jcej.info/lib/?doc=handbook",
-    "https://www.reddit.com/r/Journalism/comments/xaoz23/how_can_i_get_in_touch_with_a_journalist/?tl=ja",
-    "https://www.youtube.com/watch?v=yaDfXCD8EKc",
-    "https://newcanadianmedia.ca/hub/naming-sources-in-stories/",
-    "https://ja.wikipedia.org/wiki/調査報道"
+    "https://ja.wikipedia.org/wiki/調査報道",
+    "https://rirekisho-guide.com/0038-2/",
+    "https://note.com/houjinbase/n/n3453fdaa031d",
+    "https://crd.ndl.go.jp/reference/entry/index.php?page=ref_view&id=1000285637",
+    "https://www.graciauto.jp/blog/yago-kaishamei-chigau-site-hyoki-202608/",
+    "https://www.nhk.or.jp/bunken/d/_data/research/domestic/BUNA0000040540000006/files/006.pdf",
+    "https://imidas.jp/insight/f-40-270-26-04-g787/"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "調査報道の記者が会社を別名・旧社名・屋号で記録を引く手順（Media Helping Media の Don Ray の書き方・GIJN の会社記録の手引き） 事例",
    "results": [
-    "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
-    "https://mediahelpingmedia.org/lessons/lesson-investigative-dossier/",
-    "https://www.reddit.com/r/Journalism/comments/14822vg/what_qualifies_as_investigative_journalism_and/?tl=ja",
-    "https://www.youtube.com/watch?v=yaDfXCD8EKc",
-    "https://www.nhk.or.jp/bunken/d/_data/research/domestic/BUNA0000040540000006/files/006.pdf",
-    "https://slownews.com/n/ne04e905d070c",
-    "http://jcej.info/lib/?doc=handbook",
-    "https://americanpressinstitute.org/how-to-audit-sources/",
-    "https://www.v-pr.net/prlab/know-how/media-relations/",
-    "https://ja.wikipedia.org/wiki/調査報道"
+    "https://ja.wikipedia.org/wiki/調査報道",
+    "https://lekky.jp/articles/20645/",
+    "https://jmedia.wiki/調査報道は、鋭い質問を投げかけ、特定の疑問を徹底的に掘り下げることで、特定の/Investigative_journalism",
+    "https://note.com/houjinbase/n/n3453fdaa031d",
+    "https://crd.ndl.go.jp/reference/entry/index.php?page=ref_view&id=1000285637",
+    "https://www.graciauto.jp/blog/yago-kaishamei-chigau-site-hyoki-202608/",
+    "https://www.asahi.com/investigative-reporting/"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 15
+   "n_hits": 7
   },
   {
    "query": "investigative journalism company records former names aliases checklist Don Ray dossier GIJN corporate records",
    "results": [
     "https://mediahelpingmedia.org/investigative/compiling-an-investigative-journalism-dossier/",
-    "https://gijn.org/stories/resources-a-guide-to-investigative-books-and-films-2/",
-    "https://mediahelpingmedia.org/lessons/lesson-investigative-dossier/",
-    "https://onlinejournalismblog.com/2023/12/18/how-to-investigate-companies-recommendations-from-graham-barrow/",
-    "https://mediahelpingmedia.org/investigative/how-to-investigate-official-documents/",
-    "https://mediahelpingmedia.org/author/donray/",
-    "https://mhm.annors.se/investigative/compiling-an-investigative-journalism-dossier/",
+    "https://gijn.org/resource/who-owns-that-corporation-check-out-gijns-new-resource-on-corporate-records/",
     "https://gijn.org/tag/corporate-records/",
-    "https://gijn.org/resource/researching-corporations-and-their-owners/",
-    "https://projectosint.com/osint-chinese-companies-investigation-guide/"
+    "https://mediahelpingmedia.org/lessons/lesson-investigative-dossier/",
+    "https://openrecordscout.com/",
+    "https://projectosint.com/osint-chinese-companies-investigation-guide/",
+    "https://panamapapers.investigativecenters.org/panama-db/"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:yahoo"
    ],
-   "n_hits": 11
+   "n_hits": 7
   },
   {
    "query": "site:note.com 調査報道の記者が会社を別名・旧社名・屋号で記録を引く手順（Media Helping Media の Don Ray の書き方・GIJN の会社記録の手引き）",
@@ -497,11 +486,11 @@
     "https://note.com/davide_tech/n/n05a7bc439eae",
     "https://note.com/clean_duck544/n/n5b0d73f0048e",
     "https://note.com/sore_shirabeta/n/n4a0e0f2eaf93",
-    "https://note.com/hiratsuji/n/n7ffbec06dbca",
-    "https://note.com/yomitaina/n/n3c8e9e58bc28"
+    "https://note.com/yomitaina/n/n3c8e9e58bc28",
+    "https://note.com/hiratsuji/n/n7ffbec06dbca"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -511,96 +500,88 @@
     "https://x.com/tarareba722/status/2082992243846394075",
     "https://x.com/tarareba722/status/2083112551869563286",
     "https://x.com/tokudanewriter",
-    "https://x.com/i/trending/2094574452973433041",
     "https://x.com/HayakawaYukio/status/2057248750121480479",
-    "https://x.com/Cima_1993/status/2103381834038133195",
-    "https://x.com/notname3334/status/2084992347046285798"
+    "https://x.com/i/trending/2094574452973433041",
+    "https://x.com/notname3334/status/2084992347046285798",
+    "https://x.com/Ichiro_SUMO/status/1229403849401589761"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
   {
    "query": "site:linkedin.com 調査報道の記者が会社を別名・旧社名・屋号で記録を引く手順（Media Helping Media の Don Ray の書き方・GIJN の会社記録の手引き）",
    "results": [
-    "https://jp.linkedin.com/in/龍二-神澤-122902205",
-    "https://jp.linkedin.com/in/康史-原田-731483167",
+    "https://jp.linkedin.com/in/naoki-asanuma-a2ba82264",
     "https://jp.linkedin.com/in/大城-岡嶋-571535245",
-    "https://jp.linkedin.com/posts/mitsubishi-materials-hardmetal-corporation_社名変更のお知らせ-平素より格別のご愛顧を賜り厚く御礼申し上げます-このたび-activity-7323212100716105728-9qsi",
+    "https://jp.linkedin.com/in/正行-鈴木-810a1a17b",
+    "https://jp.linkedin.com/in/剛-藤田-b34128110",
     "https://www.linkedin.com/posts/kenjiasada_17日土曜日日本記者クラブ土曜記者ゼミ調査報道でジャーナリスト記者向けに-activity-7012433755495694336-Pzqj",
     "https://www.linkedin.com/posts/啓-仲手川-108968234_当社の社名と某宗教団体関連団体が同じ名称ということでちょっと手間がかかる対応を行-activity-6986232608770703360-NkoS",
     "https://jp.linkedin.com/in/歩-曽篠-4023753ba"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
   {
    "query": "site:facebook.com 調査報道の記者が会社を別名・旧社名・屋号で記録を引く手順（Media Helping Media の Don Ray の書き方・GIJN の会社記録の手引き）",
    "results": [
-    "https://www.facebook.com/nitiyouban/photos/赤旗日曜版-1月18日号ジャーナリズムには希望がある調査報道から見た戦後８０年ジャーナリスト-東京都市大学教授-高田昌幸-さん-北海道新聞や高知新聞で記者活動を/1476462244002660/",
     "https://www.facebook.com/fukuda212noriko/posts/昨日は記者会見でした株式会社scoグループへの社名変更コーポレートロゴの変更などを弊社社長の玉井から記者のみなさんにご説明させていただきました受付業務から司会取/447118991006705/",
-    "https://www.facebook.com/JmeTV.official/posts/nhkスペシャル-調査報道新世紀-file-３デジタル時代に向け調査報道の手法をアップデート強化現代社会の様々な闇謎に迫る大型シリーズ調査報道新世紀今回はｓｎｓ/122145641918054205/",
-    "https://www.facebook.com/rkbnews/videos/ｒ調査班がスタートrkbの記者がテーマに沿って深掘り取材するr調査班がスタートしました取材のきっかけとなる情報を幅広く募ります調査報道/390018685849271/",
+    "https://www.facebook.com/nitiyouban/photos/赤旗日曜版-1月18日号ジャーナリズムには希望がある調査報道から見た戦後８０年ジャーナリスト-東京都市大学教授-高田昌幸-さん-北海道新聞や高知新聞で記者活動を/1476462244002660/",
     "https://www.facebook.com/KobeShimbun/posts/調査依頼募集中あなたの疑問を取材するスクープラボリニューアル-読者ユーザーの皆さんから届いた疑問などを記者が取材し解決を目指すだけでなく調査の経緯なども紹介する/954536943340193/",
+    "https://www.facebook.com/smenjo/posts/調査報道2025授賞作決定大賞にnhktbs優秀賞4作品奨励賞3作品npo法人報道実務家フォーラム瀬川至朗理事長とスローニュース株式会社瀬尾傑代表が調査報道大賞/25358328093755148/",
     "https://www.facebook.com/JBpress/posts/調査報道の大著regime-changeが明らかにしたイラン開戦の内幕皇帝的大統領制が問い直す世界秩序の未来-一時的では済まないトランプ大統領という現象私たちの/1656263096504264/",
+    "https://www.facebook.com/JmeTV.official/posts/nhkスペシャル-調査報道新世紀-file-３デジタル時代に向け調査報道の手法をアップデート強化現代社会の様々な闇謎に迫る大型シリーズ調査報道新世紀今回はｓｎｓ/122145641918054205/",
     "https://www.facebook.com/100002627702917/posts/報道実務家フォーラムの調査報道大賞スペシャル2025に来ています今年の調査報道の優れた8つに作品について取材を担当した記者から話を聞きました-オールドメディアが/24968825409455038/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
   {
    "query": "調査報道の記者が会社を別名・旧社名・屋号で記録を引く手順（Media Helping Media の Don Ray の書き方・GIJN の会社記録の手引き） note 社長",
    "results": [
-    "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
-    "https://mediahelpingmedia.org/tools/the-mhm-reporters-notebook/",
-    "https://japan.eb.com/rg/article-04583800",
-    "https://www.youtube.com/watch?v=srRZUXgLXR4",
-    "https://www.v-pr.net/prlab/know-how/media-relations/",
-    "http://jcej.info/lib/?doc=handbook",
-    "https://note.com/hasshinkaigi/n/n4cbcf959707e",
-    "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
-    "https://souzokushindan.com/sys/?p=122848",
-    "https://ja.wikipedia.org/wiki/調査報道"
+    "https://ja.wikipedia.org/wiki/調査報道",
+    "https://rirekisho-guide.com/0038-2/",
+    "https://note.com/houjinbase/n/n3453fdaa031d",
+    "https://crd.ndl.go.jp/reference/entry/index.php?page=ref_view&id=1000285637",
+    "https://www.graciauto.jp/blog/yago-kaishamei-chigau-site-hyoki-202608/",
+    "https://www.nhk.or.jp/bunken/d/_data/research/domestic/BUNA0000040540000006/files/006.pdf",
+    "https://www.asahi.com/investigative-reporting/"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "調査報道の記者が会社を別名・旧社名・屋号で記録を引く手順（Media Helping Media の Don Ray の書き方・GIJN の会社記録の手引き） X 投稿",
    "results": [
-    "https://www.reddit.com/r/Journalism/comments/14822vg/what_qualifies_as_investigative_journalism_and/?tl=ja",
-    "http://jcej.info/lib/?doc=handbook",
-    "https://www.youtube.com/watch?v=yaDfXCD8EKc",
-    "https://mediahelpingmedia.org/tools/the-mhm-reporters-notebook/",
-    "https://americanpressinstitute.org/how-to-audit-sources/",
-    "https://www.media-diversity.org/resources/reuters-foundation-reporters-handbook/",
-    "https://www.nikkei.com/article/DGXNASDZ2601W_W4A620C1H56A00/",
-    "https://www.pressnet.or.jp/overseas/",
-    "https://www.asahi.com/tips/",
-    "https://ja.wikipedia.org/wiki/調査報道"
+    "https://ja.wikipedia.org/wiki/調査報道",
+    "https://lekky.jp/articles/20645/",
+    "https://jmedia.wiki/調査報道は、鋭い質問を投げかけ、特定の疑問を徹底的に掘り下げることで、特定の/Investigative_journalism",
+    "https://crd.ndl.go.jp/reference/entry/index.php?page=ref_view&id=1000285637",
+    "https://www.graciauto.jp/blog/yago-kaishamei-chigau-site-hyoki-202608/",
+    "https://www.asahi.com/investigative-reporting/",
+    "https://www.nhk.or.jp/bunken/d/_data/research/domestic/BUNA0000010590060005/files/090605.pdf"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "investigative journalism company records former names aliases checklist Don Ray dossier GIJN corporate records site:linkedin.com",
    "results": [
     "https://www.linkedin.com/in/donraymedia",
     "https://www.linkedin.com/company/global-investigative-journalism-network",
-    "https://za.linkedin.com/company/investigative-reporters-and-editors",
-    "https://in.linkedin.com/company/the-bureau-of-investigative-journalism",
     "https://ca.linkedin.com/company/investigative-journalism-foundation",
+    "https://uk.linkedin.com/company/centre-for-investigative-journalism",
+    "https://in.linkedin.com/company/the-bureau-of-investigative-journalism",
     "https://www.linkedin.com/posts/dothetell_investigativejournalism-publicrecords-activity-7505393656456015872-y1f0",
     "https://www.linkedin.com/company/international-consortium-of-investigative-journalists/"
    ],
@@ -611,9 +592,9 @@
   }
  ],
  "missing": {
-  "失敗・落とし穴": "記載なし（読んだ24頁・検索12回）"
+  "失敗・落とし穴": "記載なし（読んだ23頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 7,
+ "runs": 8,
  "first_researched_at": "2026-11-07T12:28:52.620342+00:00"
 }

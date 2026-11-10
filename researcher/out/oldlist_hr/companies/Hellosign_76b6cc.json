@@ -1,0 +1,1647 @@
+{
+ "name": "Hellosign",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-10T15:22:17.922579+00:00",
+ "official_url": "https://navi.dropbox.jp/",
+ "identified_by": "search:ddgs:google:株式会社Hellosign",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "東京都千代田区丸の内2-7-2\nJPタワー14F",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000041324.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2014年10月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000041324.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "日本の担い手": [
+   {
+    "quote": "Dropbox-naviはDropbox Japanが運営するブログメディアです",
+    "url": "https://navi.dropbox.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "SaaS Showroom 2026(10/22埼玉、10/28札幌、11/4宮城、11/10名古屋、11/18大阪、11/25広島、12/01福岡、12/10東京)",
+    "url": "https://navi.dropbox.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Dropbox Library Japan - DocSend 社内事例のご紹介",
+    "url": "https://navi.dropbox.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Dropbox Paper、テンプレートライブラリーを日本語で公開",
+    "url": "https://navi.dropbox.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Dropbox Japan Partner Gratitude Party 2022 を開催",
+    "url": "https://navi.dropbox.jp/category/dropbox-news/partners/reseller-partners",
+    "pass": 1
+   },
+   {
+    "quote": "素晴らしい実績を残されたパートナー様に感謝の意を込めて Dropbox Japan Partner Award 2022 を発表",
+    "url": "https://navi.dropbox.jp/category/dropbox-news/partners/reseller-partners",
+    "pass": 1
+   },
+   {
+    "quote": "2022 年 5 月 17 日 ー Dropbox Japan 株式会社は、三重県鳥羽市を拠点として、土木・建築・浚渫（しゅんせつ）などさまざまな工事に対応できる総合建設業として、公共工事をはじ…",
+    "url": "https://navi.dropbox.jp/category/dropbox-news/partners/reseller-partners",
+    "pass": 1
+   },
+   {
+    "quote": "2022 年 3 月 30 日 ー Dropbox Japan 株式会社は、Dropbox Business の販売パートナーであるクリエイティブ市場の総合商社・株式会社 Too とともにアプリ…",
+    "url": "https://navi.dropbox.jp/category/dropbox-news/partners/reseller-partners",
+    "pass": 1
+   },
+   {
+    "quote": "SB C&S株式会社が運営する Dropbox トライアルサポート事務局のページから無料トライアルの申し込みを行うと、きちんとトライアルの評価ができるように、様々なサポートが提供されます…",
+    "url": "https://navi.dropbox.jp/category/dropbox-news/partners/reseller-partners",
+    "pass": 1
+   },
+   {
+    "quote": "NEC、Dropbox Japan と提携し、テレワークソリューションを市場に拡大",
+    "url": "https://navi.dropbox.jp/category/dropbox-news/partners/reseller-partners",
+    "pass": 1
+   },
+   {
+    "quote": "2021 年 5 月 20 日 - Dropbox（NASDAQ：DBX）の日本法人である Dropbox Japan 株式会社（本社: 東京都中央区、代表取締役社長: 五十嵐 光喜、以下 Dr…",
+    "url": "https://navi.dropbox.jp/category/dropbox-news/partners/reseller-partners",
+    "pass": 1
+   },
+   {
+    "quote": "今般、Dropbox Japan 株式会社のパートナー企業であるミツイワ株式会社（以下、ミツ…",
+    "url": "https://navi.dropbox.jp/category/dropbox-news/partners/reseller-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Dropbox Japan 株式会社（本社：東京都千代田区、代表取締役社長：梅田成二）はこのたび、株式会社大塚商会（以下、大塚商会）のオリジナルサービス「たよれーる Dropbox」において、3…",
+    "url": "https://navi.dropbox.jp/category/dropbox-news/partners",
+    "pass": 1
+   },
+   {
+    "quote": "2024 年 11 月 7 日 - ＳＣＳＫ株式会社（以下、ＳＣＳＫ）は、先般、アステリア株式会社（以下 アステリア）が提供する EAI（企業アプリケーション統合）パッケージ「ASTERI…",
+    "url": "https://navi.dropbox.jp/category/dropbox-news/partners",
+    "pass": 1
+   },
+   {
+    "quote": "丸紅情報システムズ株式会社（以下MSYS）が、このたび、「Dropbox」の操作やシステム連携を自動化するMSYS独自のソリューション「WinActor for Dropbox」の提供を開始した…",
+    "url": "https://navi.dropbox.jp/category/dropbox-news/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Dropbox Japan、SB C&S との協業強化で専門チーム「Dropbox Center of Excellence」を発足",
+    "url": "https://navi.dropbox.jp/category/dropbox-news/partners",
+    "pass": 1
+   },
+   {
+    "quote": "2023 年 9 月 19 日 - Dropbox（NASDAQ：DBX）の日本法人である Dropbox Japan 株式会社（本社：東京都中央区、代表取締役社長：梅田 成二）は、本日、SB …",
+    "url": "https://navi.dropbox.jp/category/dropbox-news/partners",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ストラテジットは 2023 年 2 月 6 日、AI inside 株式会社の提供する AI-OCR 製品 DX Suite と Dropbox の自動連携を実現する「Dropbox t…",
+    "url": "https://navi.dropbox.jp/category/dropbox-news/partners",
+    "pass": 1
+   },
+   {
+    "quote": "2023 年 2 月 6 日 - Dropbox Japan 株式会社（東京都中央区、代表取締役社長 梅田成二 ）はこのたび、株式会社ストラテジット（本社：東京都港区、代表：加藤 史恵、以下、…",
+    "url": "https://navi.dropbox.jp/category/dropbox-news/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Dropbox Japan Partner Gratitude Party 2022 を開催",
+    "url": "https://navi.dropbox.jp/category/dropbox-news/partners",
+    "pass": 1
+   },
+   {
+    "quote": "素晴らしい実績を残されたパートナー様に感謝の意を込めて Dropbox Japan Partner Award 2022 を発表",
+    "url": "https://navi.dropbox.jp/category/dropbox-news/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Dropbox Japan 株式会社（本社：東京都千代田区、代表取締役社長：梅田成二）はこのたび、株式会社大塚商会（以下、大塚商会）のオリジナルサービス「たよれーる Dropbox」において、3…",
+    "url": "https://navi.dropbox.jp/category/dropbox-news/partners/api-partners",
+    "pass": 1
+   },
+   {
+    "quote": "2024 年 11 月 7 日 - ＳＣＳＫ株式会社（以下、ＳＣＳＫ）は、先般、アステリア株式会社（以下 アステリア）が提供する EAI（企業アプリケーション統合）パッケージ「ASTERI…",
+    "url": "https://navi.dropbox.jp/category/dropbox-news/partners/api-partners",
+    "pass": 1
+   },
+   {
+    "quote": "丸紅情報システムズ株式会社（以下MSYS）が、このたび、「Dropbox」の操作やシステム連携を自動化するMSYS独自のソリューション「WinActor for Dropbox」の提供を開始した…",
+    "url": "https://navi.dropbox.jp/category/dropbox-news/partners/api-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Dropbox Japan、SB C&S との協業強化で専門チーム「Dropbox Center of Excellence」を発足",
+    "url": "https://navi.dropbox.jp/category/dropbox-news/partners/api-partners",
+    "pass": 1
+   },
+   {
+    "quote": "2023 年 9 月 19 日 - Dropbox（NASDAQ：DBX）の日本法人である Dropbox Japan 株式会社（本社：東京都中央区、代表取締役社長：梅田 成二）は、本日、SB …",
+    "url": "https://navi.dropbox.jp/category/dropbox-news/partners/api-partners",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ストラテジットは 2023 年 2 月 6 日、AI inside 株式会社の提供する AI-OCR 製品 DX Suite と Dropbox の自動連携を実現する「Dropbox t…",
+    "url": "https://navi.dropbox.jp/category/dropbox-news/partners/api-partners",
+    "pass": 1
+   },
+   {
+    "quote": "2023 年 2 月 6 日 - Dropbox Japan 株式会社（東京都中央区、代表取締役社長 梅田成二 ）はこのたび、株式会社ストラテジット（本社：東京都港区、代表：加藤 史恵、以下、…",
+    "url": "https://navi.dropbox.jp/category/dropbox-news/partners/api-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Dropbox Japan Partner Gratitude Party 2022 を開催",
+    "url": "https://navi.dropbox.jp/category/dropbox-news/partners/api-partners",
+    "pass": 1
+   },
+   {
+    "quote": "素晴らしい実績を残されたパートナー様に感謝の意を込めて Dropbox Japan Partner Award 2022 を発表",
+    "url": "https://navi.dropbox.jp/category/dropbox-news/partners/api-partners",
+    "pass": 1
+   },
+   {
+    "quote": "SCSK株式会社（本社：東京都江東区、代表取締役 執行役員 社長 最高執行責任者：當麻 隆昭、以下 SCSK）が、法人向けの「Dropbox」と同社独自のノーコード開発サービス「CELF（セルフ…",
+    "url": "https://navi.dropbox.jp/category/dropbox-news/partners/api-partners",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社BCNが主催する「BCN AWARD 2022」において12年連続でスキャナー部門最優秀賞（販売台数シェア No.1）を受賞したことを記念して、現在、株式会社PFUでは「ScanSnap…",
+    "url": "https://navi.dropbox.jp/category/dropbox-news/partners/api-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Dropbox Library Japan – DocSend 社内事例のご紹介",
+    "url": "https://navi.dropbox.jp/dropbox-library-japan-docsend-cases",
+    "pass": 1
+   },
+   {
+    "quote": "日本版 Dropbox Library「Dropbox Library Japan」の構築から提供まで",
+    "url": "https://navi.dropbox.jp/dropbox-library-japan-docsend-cases",
+    "pass": 1
+   },
+   {
+    "quote": "Dropbox Library Japan の運用のコツ",
+    "url": "https://navi.dropbox.jp/dropbox-library-japan-docsend-cases",
+    "pass": 1
+   },
+   {
+    "quote": "Dropbox Library Japan とは何か？：",
+    "url": "https://navi.dropbox.jp/dropbox-library-japan-docsend-cases",
+    "pass": 1
+   },
+   {
+    "quote": "日本向けには「Dropbox Library Japan (DLJ)」を用意しています",
+    "url": "https://navi.dropbox.jp/dropbox-library-japan-docsend-cases",
+    "pass": 1
+   },
+   {
+    "quote": "3. 日本版 Dropbox Library「Dropbox Library Japan」の構築から提供まで",
+    "url": "https://navi.dropbox.jp/dropbox-library-japan-docsend-cases",
+    "pass": 1
+   },
+   {
+    "quote": "Dropbox Library Japan は DocSend を使っているため、あっという間にコンテンツの入れ物（箱）を作ることができました",
+    "url": "https://navi.dropbox.jp/dropbox-library-japan-docsend-cases",
+    "pass": 1
+   },
+   {
+    "quote": "4. Dropbox Library Japan の運用のコツ",
+    "url": "https://navi.dropbox.jp/dropbox-library-japan-docsend-cases",
+    "pass": 1
+   },
+   {
+    "quote": "「日本における Dropbox とパートナーの強力な協力関係と信頼が築かれていることに、とても嬉しく思っています",
+    "url": "https://navi.dropbox.jp/dropbox-library-japan-docsend-cases",
+    "pass": 1
+   },
+   {
+    "quote": "これからも Dropbox Library Japan 応援よろしくお願いします！",
+    "url": "https://navi.dropbox.jp/dropbox-library-japan-docsend-cases",
+    "pass": 1
+   },
+   {
+    "quote": "Dropbox Paper、テンプレートライブラリーを日本語で公開",
+    "url": "https://navi.dropbox.jp/dropbox-paper-and-template-library-released-in-japanese",
+    "pass": 1
+   },
+   {
+    "quote": "2019年11月22日 — 世界初のスマート ワークスペースを提供する Dropbox（NASDAQ：DBX）の日本法人であるDropbox Japan 株式会社（本社：東京都中央区、代表取締役社長 ：五十嵐 光喜）は、本日、Dropbox Paperの日本語テンプレートライブラリ―を提供開始したことを発表します",
+    "url": "https://navi.dropbox.jp/dropbox-paper-and-template-library-released-in-japanese",
+    "pass": 1
+   },
+   {
+    "quote": "Dropbox Japanは、Dropboxの日本法人です",
+    "url": "https://navi.dropbox.jp/dropbox-paper-and-template-library-released-in-japanese",
+    "pass": 1
+   },
+   {
+    "quote": "2023 年 2 月 2 日 – Dropbox（NASDAQ：DBX）の日本法人である Dropbox Japan 株式会社（本社: 東京都中央区、代表取締役社長: 梅田成二）は、本日、BtoB および BtoC 向けマーケットプレイスを運営するTSUKU TSUKU株式会社（以下、TSUKU TSUKU）がクラウド電子署名サービス「Dropbox Sign（当時HelloSign）」を販売パートナーの日本電気株式会社（以下、NEC）と同社の特約販売店である株式会社綜合システムプロダクツ（以下、綜合システムプロダクツ）の支援により導入したことを発表します",
+    "url": "https://navi.dropbox.jp/tsukutsuku-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、TSUKU TSUKUでは、社内システムと電子契約サービスをAPI連携する予定でいたため、NEC、綜合システムプロダクツ、Dropbox Japan および TSUKU TSUKU の技術者のミーティングを設定し、デモを交えながらのAPI 連携検証を実施した結果、技術的な不安を解消することができたことも Dropbox Sign 選択の決め手となったといいます",
+    "url": "https://navi.dropbox.jp/tsukutsuku-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "今回の TSUKU TSUKU による「Dropbox Sign」導入について、Dropbox Japan 代表取締役社長の梅田成二は次のように述べています",
+    "url": "https://navi.dropbox.jp/tsukutsuku-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Dropbox Japan は、Dropbox の日本法人です",
+    "url": "https://navi.dropbox.jp/tsukutsuku-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "NEC、Dropbox Japan と提携し、テレワークソリューションを市場に拡大",
+    "url": "https://navi.dropbox.jp/news-nec-partners-with-dropbox-japan-to-expand-telework-solutions-to-market",
+    "pass": 1
+   },
+   {
+    "quote": "2021 年 5 月 20 日 – Dropbox（NASDAQ：DBX）の日本法人である Dropbox Japan 株式会社（本社: 東京都中央区、代表取締役社長: 五十嵐 光喜、以下 Dropbox）は、このたび、日本電気株式会社（本社：東京都港区、代表取締役 執行役員社長 兼 CEO：森田 隆之、以下 NEC）が同社のテレワークソリューション群に企業向けクラウドストレージサービスの「Dropbox Business」および、同社のクラウド電子署名ソリューション 「HelloSign」を追加し、2021年 5 月 20 日（木）より提供開始することを発表します",
+    "url": "https://navi.dropbox.jp/news-nec-partners-with-dropbox-japan-to-expand-telework-solutions-to-market",
+    "pass": 1
+   },
+   {
+    "quote": "Dropbox Japan は、Dropbox の日本法人です",
+    "url": "https://navi.dropbox.jp/news-nec-partners-with-dropbox-japan-to-expand-telework-solutions-to-market",
+    "pass": 1
+   },
+   {
+    "quote": "Dropbox Japan Partner Gratitude Party 2022 を開催",
+    "url": "https://navi.dropbox.jp/dropbox-partner-award-2022",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社は、主要な販売パートナー企業様と連携パートナー企業にお集まりいただき、日頃のご協力に感謝の気持ちを込めて「",
+    "url": "https://navi.dropbox.jp/dropbox-partner-award-2022",
+    "pass": 1
+   },
+   {
+    "quote": "Dropbox Japan Partner Gratitude Party 2022",
+    "url": "https://navi.dropbox.jp/dropbox-partner-award-2022",
+    "pass": 1
+   },
+   {
+    "quote": "日本法人のビジネス戦略と新しい製品群について解説いたしました",
+    "url": "https://navi.dropbox.jp/dropbox-partner-award-2022",
+    "pass": 1
+   },
+   {
+    "quote": "素晴らしい実績を残されたパートナー様に感謝の意を込めて Dropbox Japan Partner Award 2022 を発表",
+    "url": "https://navi.dropbox.jp/dropbox-partner-award-2022",
+    "pass": 1
+   },
+   {
+    "quote": "そして、エリートリセラーの中から Best Reseller of the Year には、株式会社大塚商会様が選出されました",
+    "url": "https://navi.dropbox.jp/dropbox-partner-award-2022",
+    "pass": 1
+   },
+   {
+    "quote": "Dropbox Japan には、社員がお互いに「おおきに」と感謝の気持ちを伝える表彰制度があります",
+    "url": "https://navi.dropbox.jp/dropbox-partner-award-2022",
+    "pass": 1
+   },
+   {
+    "quote": "Best Pioneer : 株式会社キャップドゥー・ジャパン",
+    "url": "https://navi.dropbox.jp/dropbox-partner-award-2022",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "2021 年 5 月 20 日 - Dropbox（NASDAQ：DBX）の日本法人である Dropbox Japan 株式会社（本社: 東京都中央区、代表取締役社長: 五十嵐 光喜、以下 Dr…",
+    "url": "https://navi.dropbox.jp/category/dropbox-news/partners/reseller-partners",
+    "pass": 1
+   },
+   {
+    "quote": "2023 年 9 月 19 日 - Dropbox（NASDAQ：DBX）の日本法人である Dropbox Japan 株式会社（本社：東京都中央区、代表取締役社長：梅田 成二）は、本日、SB …",
+    "url": "https://navi.dropbox.jp/category/dropbox-news/partners",
+    "pass": 1
+   },
+   {
+    "quote": "2023 年 9 月 19 日 - Dropbox（NASDAQ：DBX）の日本法人である Dropbox Japan 株式会社（本社：東京都中央区、代表取締役社長：梅田 成二）は、本日、SB …",
+    "url": "https://navi.dropbox.jp/category/dropbox-news/partners/api-partners",
+    "pass": 1
+   },
+   {
+    "quote": "2019年11月22日 — 世界初のスマート ワークスペースを提供する Dropbox（NASDAQ：DBX）の日本法人であるDropbox Japan 株式会社（本社：東京都中央区、代表取締役社長 ：五十嵐 光喜）は、本日、Dropbox Paperの日本語テンプレートライブラリ―を提供開始したことを発表します",
+    "url": "https://navi.dropbox.jp/dropbox-paper-and-template-library-released-in-japanese",
+    "pass": 1
+   },
+   {
+    "quote": "2023 年 2 月 2 日 – Dropbox（NASDAQ：DBX）の日本法人である Dropbox Japan 株式会社（本社: 東京都中央区、代表取締役社長: 梅田成二）は、本日、BtoB および BtoC 向けマーケットプレイスを運営するTSUKU TSUKU株式会社（以下、TSUKU TSUKU）がクラウド電子署名サービス「Dropbox Sign（当時HelloSign）」を販売パートナーの日本電気株式会社（以下、NEC）と同社の特約販売店である株式会社綜合システムプロダクツ（以下、綜合システムプロダクツ）の支援により導入したことを発表します",
+    "url": "https://navi.dropbox.jp/tsukutsuku-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "2021 年 5 月 20 日 – Dropbox（NASDAQ：DBX）の日本法人である Dropbox Japan 株式会社（本社: 東京都中央区、代表取締役社長: 五十嵐 光喜、以下 Dropbox）は、このたび、日本電気株式会社（本社：東京都港区、代表取締役 執行役員社長 兼 CEO：森田 隆之、以下 NEC）が同社のテレワークソリューション群に企業向けクラウドストレージサービスの「Dropbox Business」および、同社のクラウド電子署名ソリューション 「HelloSign」を追加し、2021年 5 月 20 日（木）より提供開始することを発表します",
+    "url": "https://navi.dropbox.jp/news-nec-partners-with-dropbox-japan-to-expand-telework-solutions-to-market",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 7 月 13 日 ─ Dropbox（NASDAQ：DBX）の日本法人である Dropbox Japan 株式会社（本社：東京都千代田区、社長：龍村洋一、以下 Dropbox）は、…",
+    "url": "https://navi.dropbox.jp/category/case/dropbox-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Dropbox, Inc.（NASDAQ：DBX）の日本法人である Dropbox Japan 株式会社（本社：東京都千代田区）は本日、イラストレーター ユウマ氏の事例を公開しました",
+    "url": "https://navi.dropbox.jp/category/case/dropbox-customers",
+    "pass": 1
+   },
+   {
+    "quote": "2023 年 5 月 29 日 – Dropbox（NASDAQ：DBX）の日本法人である Dropbox Japan 株式会社（本社: 東京都中央区、代表取締役社長: 梅田成二）は、本日…",
+    "url": "https://navi.dropbox.jp/category/case/dropbox-customers",
+    "pass": 1
+   },
+   {
+    "quote": "2023 年 9 月 19 日 – Dropbox（NASDAQ：DBX）の日本法人である Dropbox Japan 株式会社（本社：東京都中央区、代表取締役社長：梅田 成二）は、本日、SB C&S株式会社（本社：東京都港区、代表取締役社長 兼 CEO 溝口 泰雄、以下「SB C&S」)との協業を強化し、Dropbox の製品群に関する高い知識を有し、お客さまの業務効率化を推進する専門チーム「Dropbox Center of Excellence（以下、Dropbox CoE）」をSB C&S 内に設置することを発表します",
+    "url": "https://navi.dropbox.jp/dropbox-center-of-excellence",
+    "pass": 1
+   },
+   {
+    "quote": "Dropbox, Inc.（NASDAQ：DBX）の日本法人である Dropbox Japan 株式会社（本社：東京都千代田区）は本日、イラストレーター ユウマ氏の事例を公開しました",
+    "url": "https://navi.dropbox.jp/creatorstories-yuma",
+    "pass": 1
+   },
+   {
+    "quote": "─ Dropbox（NASDAQ：DBX）の日本法人である Dropbox Japan 株式会社（本社：東京都千代田区、社長：龍村洋一、以下 Dropbox）は、本日、岡山県浅口市に本社を置く乾麺製造設備機械メーカーの株式会社カワカミ（代表取締役：川上善大）が、企業向けの「Dropbox」を導入したことを発表します",
+    "url": "https://navi.dropbox.jp/customers-kawakami",
+    "pass": 1
+   },
+   {
+    "quote": "上場企業・海外企業との取引拡大を積極的に推進しており、自社の DX 化にも意欲的に取り組んでいます",
+    "url": "https://navi.dropbox.jp/customers-kawakami",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、上場企業や海外企業との取引拡大を目指す中で、ファイル送受信のセキュリティ対応が不十分という課題も表面化していました",
+    "url": "https://navi.dropbox.jp/customers-kawakami",
+    "pass": 1
+   },
+   {
+    "quote": "そして最大の成果として、取引先が求めるセキュアなファイル共有環境を整備したことで、上場企業や海外企業との案件成約にも好影響が出ています",
+    "url": "https://navi.dropbox.jp/customers-kawakami",
+    "pass": 1
+   },
+   {
+    "quote": "「最初はただのクラウドストレージだと思っておりましたが、Dropbox の導入により、今まで管理が煩雑だった図面管理が大きく効率化されただけでなく、上場企業や海外企業との案件成約にも好影響が出ております",
+    "url": "https://navi.dropbox.jp/customers-kawakami",
+    "pass": 1
+   },
+   {
+    "quote": "2023 年 5 月 29 日 – Dropbox（NASDAQ：DBX）の日本法人である Dropbox Japan 株式会社（本社: 東京都中央区、代表取締役社長: 梅田成二）は、本日、株式会社日本翻訳センターが「Dropbox」およびクラウド電子署名サービス「Dropbox Sign（当時 HelloSign）」を導入したことを発表します",
+    "url": "https://navi.dropbox.jp/jtc-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "– Dropbox, Inc.（NASDAQ：DBX）の日本法人である Dropbox Japan 株式会社（本社：東京都千代田区、代表取締役社長：梅田成二）は本日、YouGov と共同で実施し、働く人を対象とした生産性と働き方に関するグローバル調査の結果を発表しました",
+    "url": "https://navi.dropbox.jp/survey-productivity-myth-japan",
+    "pass": 1
+   },
+   {
+    "quote": "– Dropbox（NASDAQ：DBX）の日本法人である Dropbox Japan 株式会社（本社: 東京都中央区、代表取締役社長: 五十嵐 光喜）は、本日、福岡市を拠点とするエンジョイント税理士法人 がクラウド電子署名ソリューション「HelloSign」を導入し、API連携によって「Dropbox Business」とともに活用している事例を公開しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000041324.html",
+    "pass": 3
+   },
+   {
+    "quote": "Marriott International",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": ", a United States based Healthcare organisation with 1358 employees and revenues of $400.0 million,",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": ", a Japan based Manufacturing organisation with 1258 employees and revenues of $300.0 million,",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": ", a Ireland based Professional Services organisation with 500 employees and revenues of $200.0 million,",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": ", a United States based Professional Services organisation with 650 employees and revenues of $170.0 million,",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": ", a United States based Healthcare organisation with 1000 employees and revenues of $120.0 million and many others.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us if you need a completed and verified list of companies using HelloSign, including the breakdown by industry (21 Verticals), Geography (Region, Country, State, City), Company Size (Revenue, Employees, Asset) and related IT Decision Makers, Key Stakeholders, business and technology executives responsible for the software purchases.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": ", a Austria based Communications organization with 10 Employees",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "Companies using HelloSign range from small businesses with 0-100 employees - 84%, to mid-sized firms with 101-1,000 employees - 12%, large organizations with 1,001-10,000 employees - 4%, and global enterprises with 10,000+ employees - 0%.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "Q7. What is the breakdown by revenue of companies using HelloSign?",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "Customers of HelloSign include firms across all revenue levels — from $0-100M, to $101M-$1B, $1B-$10B, and $10B+ global corporations.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "Contact APPS RUN THE WORLD to access the full verified HelloSign customer database with detailed Firmographics such as industry, geography, revenue, and employee breakdowns as well as key decision makers in charge of Digital Signing.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "semilshah.com/2019/01/28/reflecting-on-haystacks-investment-in-hellosign-acquired-by-dropbox",
+    "url": "https://startupintros.com/orgs/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "HelloSign Revenue 2016: $7.2M, $70M Valuation",
+    "url": "https://getlatka.com/companies/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, acquisition & funding",
+    "url": "https://getlatka.com/companies/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "HelloSign was acquired by Dropbox.",
+    "url": "https://getlatka.com/companies/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "HelloSign's annual revenue was $7.2M in November 2016, its last figure before Dropbox bought it (source not recorded).",
+    "url": "https://getlatka.com/companies/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "HelloSign CEO, founders & employees",
+    "url": "https://getlatka.com/companies/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "Joseph Walla founded HelloSign in 2011 and led it as CEO. HelloSign had 142 employees (December 2020).",
+    "url": "https://getlatka.com/companies/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "What was HelloSign's revenue?",
+    "url": "https://getlatka.com/companies/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "Before Dropbox bought it, HelloSign's annual revenue was",
+    "url": "https://getlatka.com/companies/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does HelloSign have?",
+    "url": "https://getlatka.com/companies/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2020.",
+    "url": "https://getlatka.com/companies/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/hellosign",
+    "pass": 3
+   }
+  ],
+  "採用・広告の製品": [
+   {
+    "quote": "Dropbox for kintone premium",
+    "url": "https://navi.dropbox.jp/dropbox-partner-award-2022",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社Numéro.8、Dropbox Replay と Pro Tools の連携で音楽制作プロセスを効率化",
+    "url": "https://navi.dropbox.jp/category/case/dropbox-customers",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社 Numéro.8 、 Dropbox Replay と Pro Tools の連携で音楽制作プロセスを効率化",
+    "url": "https://navi.dropbox.jp/creatorstories-yuma",
+    "pass": 1
+   },
+   {
+    "quote": "https://ja.hellosign.com/products/api",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000041324.html",
+    "pass": 3
+   },
+   {
+    "quote": "強固なコンプライアンス：SOC 2 Type II、ISO 27001、HIPAA対応、GDPR整合",
+    "url": "https://esigncompare.com/ja/reviews/dropbox-sign/",
+    "pass": 3
+   },
+   {
+    "quote": "PremiumおよびEnterpriseティアでの条件付きロジックと高度フィールド",
+    "url": "https://esigncompare.com/ja/reviews/dropbox-sign/",
+    "pass": 3
+   },
+   {
+    "quote": "米国の医療ワークフローでは、PremiumおよびEnterpriseティアでの事業者間契約（BAA）を通じて",
+    "url": "https://esigncompare.com/ja/reviews/dropbox-sign/",
+    "pass": 3
+   },
+   {
+    "quote": "PremiumとEnterpriseは個別見積もりで、必要なコンプライアンスモジュールやAPIボリュームに応じて通常ユーザーあたり月額40〜80ドル以上の範囲です",
+    "url": "https://esigncompare.com/ja/reviews/dropbox-sign/",
+    "pass": 3
+   },
+   {
+    "quote": "無料ティアにはプロトタイピング用に月次リクエスト数が制限されたAPIアクセスが含まれ、有料のPremiumおよびEnterpriseプランは月数十万回のAPI呼び出しまでスケールします",
+    "url": "https://esigncompare.com/ja/reviews/dropbox-sign/",
+    "pass": 3
+   },
+   {
+    "quote": "to provide food had become dull and difficult to manage, HelloSign needed a",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/zerocater_hellosign_None.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "valuable relationships, ZeroCater now provides HelloSign with weekly and special",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/zerocater_hellosign_None.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "logistics to ensure every step of the process, from ordering to delivery and clean",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/zerocater_hellosign_None.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "•Increased employee retention by building a family-like team culture.",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/zerocater_hellosign_None.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "•Improved workflow efficiencies by creating valuable internal relationships.",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/zerocater_hellosign_None.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Vendini is a live‑events ticketing and management company that helps venues and promoters handle ticketing, marketing, CRM and operations. Their sales process was being slowed by a manual contract workflow: Master Service Agreements were emailed, printed, signed and faxed, adding days to deals and sometimes costing them clients.",
+    "url": "https://www.casestudies.com/company/dropbox-sign/case-study/vendinis-sales-team-uses-hellosign-to-close-deals-on-the-phone",
+    "pass": 3
+   },
+   {
+    "quote": "Vendini adopted HelloSign with Google Drive and Slack integrations and mobile‑optimized signing, allowing sales reps to send MSAs and get signatures in minutes — sometimes while still on the phone with a prospect. The tool’s cc notifications and Slack alerts improved visibility and adoption across the sales team, speeding close times, eliminating paper delays and improving the customer experience.",
+    "url": "https://www.casestudies.com/company/dropbox-sign/case-study/vendinis-sales-team-uses-hellosign-to-close-deals-on-the-phone",
+    "pass": 3
+   },
+   {
+    "quote": "Product Marketing Department",
+    "url": "https://www.casestudies.com/company/dropbox-sign/case-study/vendinis-sales-team-uses-hellosign-to-close-deals-on-the-phone",
+    "pass": 3
+   },
+   {
+    "quote": "Oracle Procurement Cloud",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "Oracle NetSuite Procurement",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "Oracle JD Edwards EnterpriseOne",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "Exterro Zapproved ZDiscovery",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "Pacific Coast Producers",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "Professional Services",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "around the world, aggregating massive amounts of data points that form the basis of our forecast assumptions and perhaps the rise and fall of certain vendors and their products on a quarterly basis.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "Each quarter our research team identifies companies that have purchased HelloSign for Digital Signing from public (Press Releases, Customer References, Testimonials, Case Studies and Success Stories) and proprietary sources, including the customer size, industry, location, implementation status, partner involvement, LOB Key Stakeholders and related IT decision-makers contact details.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": ", a Ireland based Professional Services organisation with 500 employees and revenues of $200.0 million,",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": ", a United States based Professional Services organisation with 650 employees and revenues of $170.0 million,",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "The HelloSign customer wins are being incorporated in our Enterprise Applications Buyer Insight and Technographics Customer Database which has over 100 data fields that detail company usage of software systems and their digital transformation initiatives. Apps Run The World wants to become your No. 1 technographic data source!",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "In 2015, Abcor Home Health implemented HelloSign as its Digital Signing solution for Human Resources and Recruitment workflows. The HelloSign implementation was configured to provide electronic signature capture, reusable document templates, signature routing, and auditable signature logs to standardize offer letters and employee paperwork.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "Operational governance rested with Human Resources, which managed template creation, approval flows, and day to day recruitment document processing. HelloSign served as the central Digital Signing application for Abcor Home Health, embedding signature workflows into existing HR and recruitment operations.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "In 2022, Adult Site Broker implemented HelloSign to enable on-site electronic signature functionality. The deployment uses HelloSign as the primary Digital Signing capability embedded in the company website to capture client agreements and consent forms for the firm.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "Configuration focused on embedded signing flows and reusable document templates, with HelloSign handling template management, signer authentication workflows, audit trail and status tracking, and administrative controls for issuing and monitoring signature requests. HelloSign is used directly on web pages to present signature requests and to standardize agreement workflows across engagements.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "In 2021 Ambient Innovation Germany implemented HelloSign to provide Digital Signing capability directly on its public website, enabling electronic signature capture for client agreements and engagement documents. The HelloSign implementation is explicitly web-facing, embedding signing flows into online proposal and contact pages to reduce paper and email signature exchanges.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "The deployment leverages HelloSign templates and embedded signing features to standardize agreement layouts and streamline signature requests, with configuration focused on branded signing pages and audit trail capture. HelloSign's form fields and templating are used to enforce required fields and consistent contract language across recurring professional services agreements.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "Governance was implemented through centralized template management and administrative controls to manage who can send requests and edit templates, aligning signature workflows with existing contract approval practices. HelloSign is maintained as the primary Digital Signing application for Ambient Innovation Germany, with operational ownership residing in the teams that execute client agreements.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "In 2023, Anderson Optimization implemented HelloSign to add Digital Signing capabilities directly on its public website. The professional services firm configured HelloSign on their website to enable client signature capture for proposals and engagement agreements and to centralize online acceptance workflows.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "Deployment focused on embedded signing and reusable templates, configuring HelloSign to present signing flows within the site and to pre-populate documents from standard forms. Functional capabilities implemented include document upload, signer email verification, template-driven document generation, and persistent signature audit trails to record consent and execution events.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "Operational scope centers on client-facing contracting and proposal workflows, with internal users in sales and delivery initiating signing requests through the website. Governance adjustments emphasized standardized templates, consistent signing procedures, and retention of audit records to support contract administration and compliance.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "For exports involving more than 2000 customer profiles, please get in touch with ARTW Support for assistance. Our team will review your request.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "Premium Subscription is Required",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": ". Gain ongoing access to real-time prospects and uncover hidden opportunities. Companies Actively Evaluating",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "Discover Software Buyers actively Evaluating Enterprise Applications",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "Product Differentiators:",
+    "url": "https://startupintros.com/orgs/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "Adheres to ESIGN Act, UETA, eIDAS, and HIPAA standards; benefits from Dropbox’s enterprise-grade encryption and two-factor authentication.",
+    "url": "https://startupintros.com/orgs/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing and Accessibility:",
+    "url": "https://startupintros.com/orgs/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive pricing tailored for small to mid-sized businesses, with transparent plans and scalable options.",
+    "url": "https://startupintros.com/orgs/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "Strong backing from Dropbox’s network and enterprise support infrastructure[2][3][5].",
+    "url": "https://startupintros.com/orgs/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "rocketreach.co/hellosign-profile_b5c8924af42e3552",
+    "url": "https://startupintros.com/orgs/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "snapmunk.com/profitability-paperless-interview-joseph-walla-ceo-hellosign",
+    "url": "https://startupintros.com/orgs/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "Dropbox owns HelloSign. The date and price of the deal are not on record.",
+    "url": "https://getlatka.com/companies/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "Nathan Latka has interviewed HelloSign once.",
+    "url": "https://getlatka.com/companies/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "Team mix (Dec 2020): 61 engineers, 28 in sales, 3 in marketing",
+    "url": "https://getlatka.com/companies/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "例えばGoPro HERO13 Blackは5.3K60の高解像度撮影に対応し、被写体の表情や背景の細部まで鮮明に記録します",
+    "url": "https://note.com/action_cameras/n/ndaecfa7db147",
+    "pass": 3
+   },
+   {
+    "quote": "GoPro HERO13 Blackのように長時間撮影に対応するカメラを導入しても、出演者の同意取得に時間を取られていては意味がありません",
+    "url": "https://note.com/action_cameras/n/ndaecfa7db147",
+    "pass": 3
+   },
+   {
+    "quote": "HelloSignで迅速に署名を集め、Contractbookで契約を一元管理する仕組みを整えれば、GoPro HERO13 Blackのような高性能アクションカメラで撮影した映像も、安心して発信可能です",
+    "url": "https://note.com/action_cameras/n/ndaecfa7db147",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Elite Reseller（エリートリセラー）",
+    "url": "https://navi.dropbox.jp/dropbox-partner-award-2022",
+    "pass": 1
+   },
+   {
+    "quote": "そして、エリートリセラーの中から Best Reseller of the Year には、株式会社大塚商会様が選出されました",
+    "url": "https://navi.dropbox.jp/dropbox-partner-award-2022",
+    "pass": 1
+   },
+   {
+    "quote": "Best Growth Reseller : JBCC",
+    "url": "https://navi.dropbox.jp/dropbox-partner-award-2022",
+    "pass": 1
+   },
+   {
+    "quote": "New Solution Reseller : SCSK株式会社",
+    "url": "https://navi.dropbox.jp/dropbox-partner-award-2022",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "電子署名ソリューション「HelloSign」とは？メリットや料金・費用 - ... — Dec 27, 2020 · 電子署名ソリューション「HelloSign」についての概要や、「ワークフローの高速化」や「業務改善の推進」、「ハンコレス・ペーパーレスの推進」といったメリット、利用料金・費用について解説します。",
+    "url": "https://capdo-jp.com/hellosign/",
+    "pass": 3
+   },
+   {
+    "quote": "エンジョイント税理士法人、Dropbox の電子署名サービス「HelloSign」...楽天、“攻撃型ドローン”関連報道に「事実と相違ない」 国内販売窓口と...デベロッパー | Dropbox Sign（旧 HelloSign）Dropbox の電子署名サービス「HelloSign」、 シームレスな署名と日本...日本翻訳センター、Dropbox と Dropbox Sign を採用して契約関連業務... — Jun 18, 2021 · そんな時に同法人が耳にしたのが、Dropbox が 2019 年に買収したクラウド電子署名ソリューション「HelloSign」の提供開始のニュースでした。 Aug 20, 2026 · 楽天グループは8月19日、ドイツの防衛系スタートアップHelsing（ヘルシング）と提携し、攻撃型ドローン「HX-2」の導入支援を手掛けるとの報道を ... 「他の A",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000041324.html",
+    "pass": 3
+   },
+   {
+    "quote": "デベロッパー | Dropbox Sign（旧 HelloSign） — 「他の API を導入したこともありますが、たいていは 1 週間ほどかかります。 HelloSign（現 Dropbox Sign）はとても先進的な技術を採用し、明解でわかりやすいドキュメントが付属しているので、3 時間以内に導入を終えることができました。",
+    "url": "https://sign.dropbox.com/ja-JP/developers",
+    "pass": 3
+   },
+   {
+    "quote": "Dropbox の電子署名サービス「HelloSign」、 シームレスな署名と日本... — Dec 16, 2020 · 今回の投資は、電子署名ソリューション HelloSign を利用した場合の署名プロセスをすべて日本国内で完了したいというニーズに対応するためのものです。 電子署名をさらに身近なものとするために、引き続き全社一丸となって取り組んでまいります」",
+    "url": "https://navi.dropbox.jp/dropbox-digital-signature-service-hellosign-enables-seamless-signature-and-data-storage-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "日本翻訳センター、Dropbox と Dropbox Sign を採用して契約関連業務... — May 29, 2023 · 外国語翻訳専門企業の先駆けとして、多言語の翻訳・通訳サービスを提供株式会社日本翻訳センターが Dropbox およびクラウド電子署名サービス Dropbox Sign（旧HelloSign）を導入したことを発表します。",
+    "url": "https://navi.dropbox.jp/jtc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Dropbox Japan、同社の電子署名ソリューション 「HelloSign」を提供開... — Sep 30, 2020 · HelloSign は Dropbox の機能の一部としてシームレスに組み込まれているため、Dropbox から直接重要なドキュメントの送信や署名が可能となり、かつそれらを 1 か所に整理して保存することができます。 署名が完了すると、署名済みコピーが自動的に Dropbox に保存されます。 企業は何年もの間、販売取引の成約や新入社員の入社手続き、ベンダー契約の締結の際に、紙の契約書に署名および押印をしてきました。 この手作業による処理はビジネスプロセスを遅延させ、ヒューマンエラーも発生しやすく、各地に関係者が分散したテレワーク環境では作業がより複雑になります。",
+    "url": "https://navi.dropbox.jp/dropbox-japan-officially-launches-hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "Dropbox の電子署名サービス「HelloSign」、 — Dec 16, 2020 · HelloSign は、もちろん電子署名機能を単体でご利用いただくこともできますが、さらに HelloSign を Dropbox のネイティブ機能として組み込むことで、Dropbox から直接重要なドキュメントを送信・署名し、1 か所に保存することができます。",
+    "url": "https://navi.dropbox.jp/dropbox-digital-signature-service-hellosign-enables-seamless-signature-and-data-storage-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Dropbox Signの料金と評判2026｜旧HelloSignを検証 — May 6, 2026 · Dropbox Sign （2019年にDropboxが買収する以前はHelloSignとして知られ、2023年に現在の名称へリブランディングされたプラットフォーム）は、十年以上にわたり後発の競合が羨むほどの評価を築いてきました。 「ドキュメントを送る、署名する、完了。 マニュアルは不要」——この一点に絞った姿勢は今も最大の売りで、ほぼ全てのデザイン判断を貫いています。 現在の製品は、DocuSignやAdobeが上位に積み上げてきた完全な契約ライフサイクル管理（CLM）の機構を無理に乗せず、法的拘束力のある電子署名の本質に集中しています。",
+    "url": "https://esigncompare.com/ja/reviews/dropbox-sign/",
+    "pass": 3
+   },
+   {
+    "quote": "HelloSign - Log In | Dropbox Sign — Forgot your password?",
+    "url": "https://app.hellosign.com/",
+    "pass": 3
+   },
+   {
+    "quote": "HelloSign Customer Spotlight — In the early days, this meant “pizza Fridays.” After growing tired of pizza, the team realized it was time for a change. After a short stint working with local restaurants to provide food had become dull and difficult to manage, HelloSign needed a better solution.",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/zerocater_hellosign_None.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Vendini achieves faster deal closures on the ... — Vendini (Computer Software) partnered with Dropbox Sign (Computer Software) to solve key challenges. \"Vendini's Sales Team Uses HelloSign to Close Deals on the Phone\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/dropbox-sign/case-study/vendinis-sales-team-uses-hellosign-to-close-deals-on-the-phone",
+    "pass": 3
+   },
+   {
+    "quote": "HelloSign Customer Case Study - berenicemendez.co — HelloSign Customer Case Study A redesign of the case study web template that will be used for telling future customer stories.",
+    "url": "https://www.berenicemendez.co/interactive/hellosign-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "List of HelloSign Customers - Apps Run The World — Since 2010, our global team of researchers has been studying HelloSign customers around the world, aggregating massive amounts of data points that form the basis of our forecast assumptions and perhaps the rise and fall of certain vendors and their products on a quarterly basis.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "HelloSign – Financial Footprint & Growth Factors – 2026 — HelloSign Revenue & Valuation On average, HelloSign is believed to generate yearly revenue close to $3.9M. The estimated revenue per employee at HelloSign is $110.2K. To date, HelloSign has raised $16M in funding.",
+    "url": "https://compworth.com/company/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "HelloSign: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Prior to its acquisition, HelloSign served tens of thousands of corporate customers, including notable clients like Samsung, Twitter, and Lyft, and maintained approximately 100 employees. The company was recognized by G2 Crowd as a leading eSignature solution for SMBs and mid-market companies.",
+    "url": "https://startupintros.com/orgs/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "HelloSign Information - RocketReachHellosign Revenue 2016: $7.2M, $70M Valuation - LATKAHelloSign - 2025 Company Profile, Team, Funding & Competitors ...Hellosign — SaaSData.appHelloSign Company Profile: Financials, Valuation, and Growth — HelloSign is a Computer Software, Information & Document Management, and B2B company located in San Francisco, California with $28 million in revenue and 71 emp",
+    "url": "https://rocketreach.co/hellosign-profile_b5c8924af42e3552",
+    "pass": 3
+   },
+   {
+    "quote": "Hellosign Revenue 2016: $7.2M, $70M Valuation - LATKA — Apr 19, 2022 · Hellosign 2016 revenue: $7.2M. Valuation: $70M. Total funding: $16M across 1 round. 47K customers, 142 employees. Founded 2011. Updated Apr 19, 2022.",
+    "url": "https://getlatka.com/companies/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "HelloSign - 2025 Company Profile, Team, Funding & Competitors ...Hellosign — SaaSData.appHelloSign Company Profile: Financials, Valuation, and Growth — Sep 3, 2025 · HelloSign is an acquired company based in San Francisco (United States), founded in 2011 by Joseph Walla and Neal O'Mara. It operates as a Cloud-based enterprise information management platform for document management. Hellosign is a ",
+    "url": "https://tracxn.com/d/companies/hellosign/__Aao7uD-_io2xtSNcGgsn63czlpsC8LodHXG-fU3S8GY",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Case Study: Vendini achieves faster deal closures on the phone with Dropbox Sign (HelloSign) | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/dropbox-sign/case-study/vendinis-sales-team-uses-hellosign-to-close-deals-on-the-phone",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Vendini achieves faster deal closures on the phone with Dropbox Sign (HelloSign)",
+    "url": "https://www.casestudies.com/company/dropbox-sign/case-study/vendinis-sales-team-uses-hellosign-to-close-deals-on-the-phone",
+    "pass": 3
+   },
+   {
+    "quote": "Open case study document...",
+    "url": "https://www.casestudies.com/company/dropbox-sign/case-study/vendinis-sales-team-uses-hellosign-to-close-deals-on-the-phone",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/dropbox-sign/case-study/vendinis-sales-team-uses-hellosign-to-close-deals-on-the-phone",
+    "pass": 3
+   },
+   {
+    "quote": "HelloSign Customer Case Study",
+    "url": "https://www.berenicemendez.co/interactive/hellosign-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "A redesign of the case study web template that will be used for telling future customer stories.",
+    "url": "https://www.berenicemendez.co/interactive/hellosign-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": ", a Japan based Manufacturing organisation with 1258 employees and revenues of $300.0 million,",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "Companies using HelloSign are most concentrated in Healthcare, Manufacturing and Professional Services, with adoption spanning over 21 industries.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Vendini is a live‑events ticketing and management company that helps venues and promoters handle ticketing, marketing, CRM and operations. Their sales process was being slowed by a manual contract workflow: Master Service Agreements were emailed, printed, signed and faxed, adding days to deals and sometimes costing them clients.",
+    "url": "https://www.casestudies.com/company/dropbox-sign/case-study/vendinis-sales-team-uses-hellosign-to-close-deals-on-the-phone",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us if you need a completed and verified list of companies using HelloSign, including the breakdown by industry (21 Verticals), Geography (Region, Country, State, City), Company Size (Revenue, Employees, Asset) and related IT Decision Makers, Key Stakeholders, business and technology executives responsible for the software purchases.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "In 2021 Ambient Innovation Germany implemented HelloSign to provide Digital Signing capability directly on its public website, enabling electronic signature capture for client agreements and engagement documents. The HelloSign implementation is explicitly web-facing, embedding signing flows into online proposal and contact pages to reduce paper and email signature exchanges.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "Deployment focused on embedded signing and reusable templates, configuring HelloSign to present signing flows within the site and to pre-populate documents from standard forms. Functional capabilities implemented include document upload, signer email verification, template-driven document generation, and persistent signature audit trails to record consent and execution events.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "HelloSignとContractbookで安心の動画撮影 契約と権利管理 Sep 18, 2025 · そこで役立つのが、HelloSignとContractbookといった電子契約サービスです。 これらを導入すれば、契約処理の効率化と透明性が大幅に向上し、撮影現場のトラブルを未然に防げます。",
+    "url": "https://note.com/action_cameras/n/ndaecfa7db147",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "HelloSignとContractbookで安心の動画撮影 契約と権利管理｜アクションカメラ大好き",
+    "url": "https://note.com/action_cameras/n/ndaecfa7db147",
+    "pass": 3
+   },
+   {
+    "quote": "HelloSignとContractbookで安心の動画撮影 契約と権利管理",
+    "url": "https://note.com/action_cameras/n/ndaecfa7db147",
+    "pass": 3
+   },
+   {
+    "quote": "映像制作は、カメラや照明といった機材だけでなく、出演者やロケ地、音楽や映像素材に関する契約管理が欠かせません。モデルリリースや使用許諾契約が不十分だと、せっかくの作品が公開できないリスクがあります。そこで役立つのが、HelloSignとContractbookといった電子契約サービスです。これらを導入すれば、契約処理の効率化と透明性が大幅に向上し、撮影現場のトラブルを未然に防げます。",
+    "url": "https://note.com/action_cameras/n/ndaecfa7db147",
+    "pass": 3
+   },
+   {
+    "quote": "HelloSignは、直感的なインターフェースで電子署名を簡単に完了できる点が強みです。出演者やスタッフは、スマートフォンやタブレットからすぐに署名可能で、紙のやり取りを省略できます。撮影前のモデルリリース取得や音楽使用契約など、時間を要する契約もスムーズに処理できます。",
+    "url": "https://note.com/action_cameras/n/ndaecfa7db147",
+    "pass": 3
+   },
+   {
+    "quote": "電子署名は法的効力を持ち、署名の履歴やタイムスタンプも記録されます。改ざん防止機能があるため、契約の正当性が明確に担保され、後からの紛争リスクを低減できます。",
+    "url": "https://note.com/action_cameras/n/ndaecfa7db147",
+    "pass": 3
+   },
+   {
+    "quote": "Contractbookは契約書の作成から署名、保管、更新まで一元的に管理できるプラットフォームです。複数の出演者や取引先と契約する映像制作現場では、紙やメールに依存すると追跡が難しくなりますが、Contractbookを導入すれば契約状況をリアルタイムで確認可能です。",
+    "url": "https://note.com/action_cameras/n/ndaecfa7db147",
+    "pass": 3
+   },
+   {
+    "quote": "制作会社や外部スタッフが合同でプロジェクトを進める場合、契約内容の共有は不可欠です。Contractbookはクラウドベースで情報を管理できるため、チーム全員が同じ情報にアクセスし、権利関係を見落とすことなく安心して作業できます。",
+    "url": "https://note.com/action_cameras/n/ndaecfa7db147",
+    "pass": 3
+   },
+   {
+    "quote": "例えばGoPro HERO13 Blackは5.3K60の高解像度撮影に対応し、被写体の表情や背景の細部まで鮮明に記録します。これにより、意図せず第三者が映り込んだ場合でも、誰なのか判別できてしまう可能性があります。そのため、権利処理を徹底しなければ、映像の利用範囲に制限が生じかねません。",
+    "url": "https://note.com/action_cameras/n/ndaecfa7db147",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "HelloSign Status (@HelloSignStatus) / Posts / X May 2, 2014 · @HelloSign ’s customer support team. We’re here to listen and help. To get help quickly, email support (at) hellosign.com.",
+    "url": "https://x.com/HelloSignStatus",
+    "pass": 3
+   },
+   {
+    "quote": "hellosign (@hellosignapp) / Posts / X Jan 3, 2014 · hellosign (@hellosignapp) - Posts - We've moved! Join us on Twitter here: @HelloSign | X (formerly Twitter)",
+    "url": "https://x.com/HelloSignApp",
+    "pass": 3
+   },
+   {
+    "quote": "Hey all! We've moved over to @hellosign, please chat with us ... Feb 12, 2014 · hellosign (@hellosignapp). Hey all! We've moved over to @hellosign, please chat with us there!",
+    "url": "https://x.com/hellosignapp/status/433669510772428800",
+    "pass": 3
+   },
+   {
+    "quote": "My HelloSign account got suspended randomly? wtf?? I've ... Jun 15, 2026 · Theo - t3.gg (@theo). 73 replies. My HelloSign account got suspended randomly? wtf?? I've signed like 100 investment docs on this and have a dozen I need to access right now",
+    "url": "https://x.com/theo/status/2066612109564338228",
+    "pass": 3
+   },
+   {
+    "quote": "@HelloSign | X The latest posts from @HelloSign",
+    "url": "https://x.com/HelloSign",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "HelloSign - LinkedIn HelloSign | 532 followers on LinkedIn. https://www.linkedin.com/company/dropboxsign/ | HelloSign is now Dropbox Sign!",
+    "url": "https://www.linkedin.com/company/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "Dropbox Sign - LinkedIn Send and collect electronic signatures using HelloSign's intuitive, secure and compliant platform. eSignatures for businesses of all sizes. Get started for free today.",
+    "url": "https://www.linkedin.com/products/hellosign",
+    "pass": 3
+   },
+   {
+    "quote": "Dropbox Sign - LinkedIn Website http://www.hellosign.com Industry Software Development Company size 51-200 employees Headquarters San Francisco, California",
+    "url": "https://www.linkedin.com/company/dropboxsign/",
+    "pass": 3
+   },
+   {
+    "quote": "Hellosign Jobs in United States (4,000+ Open Roles) | LinkedIn Today’s top 4,000+ Hellosign jobs in United States. Leverage your professional network, and get hired. New Hellosign jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/hellosign-jobs",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Hello Sign - Facebook Hello Sign is on Facebook. Join Facebook to connect with Hello Sign and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+    "url": "https://www.facebook.com/HelloSign/",
+    "pass": 3
+   },
+   {
+    "quote": "DocuSign Vs HelloSign: Which eSignature Tool Is Better? DocuSign is the most widely used with over 200 million users and more extra features, while HelloSign by Dropbox is cheaper and more user-friendly for...",
+    "url": "https://www.facebook.com/fb-answers/docusign-vs-hellosign/",
+    "pass": 3
+   },
+   {
+    "quote": "HelloSign Interpreting and Services, LLC | Houston TX - Facebook Aug 13, 2026 · HelloSign Interpreting and Services, LLC Houston-based | Black-owned | Veteran-owned Providing ASL interpreting, tutoring, and support rooted in service, community, and access. We work with the Deaf community, guide ITP students, and collaborate with agencies to expand communication access.",
+    "url": "https://www.facebook.com/p/HelloSign-Interpreting-and-Services-LLC-61576789830702/",
+    "pass": 3
+   },
+   {
+    "quote": "HelloSign allows you to electronically request and add ... HelloSign allows you to electronically request and add legally binding signatures to any document, from new hire agreements to loans to NDAs. HelloSign is available in an intuitive web interface, a developer-friendly API, or as a Salesforce add-on.",
+    "url": "https://www.facebook.com/Vantisco/videos/hellosign-allows-you-to-electronically-request-and-add-legally-binding-signature/247657039799666/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://navi.dropbox.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://navi.dropbox.jp/category/dropbox-news/partners/reseller-partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://navi.dropbox.jp/category/dropbox-news/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://navi.dropbox.jp/category/dropbox-news/partners/api-partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://navi.dropbox.jp/about-dropbox-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://navi.dropbox.jp/dropbox-library-japan-docsend-cases",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://navi.dropbox.jp/dropbox-paper-and-template-library-released-in-japanese",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://navi.dropbox.jp/tsukutsuku-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://navi.dropbox.jp/news-nec-partners-with-dropbox-japan-to-expand-telework-solutions-to-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://navi.dropbox.jp/dropbox-partner-award-2022",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://navi.dropbox.jp/category/case/dropbox-customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://navi.dropbox.jp/dropbox-center-of-excellence",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://navi.dropbox.jp/creatorstories-yuma",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://navi.dropbox.jp/customers-kawakami",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://navi.dropbox.jp/ttk-decides-dropbox-company-wide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://navi.dropbox.jp/jtc-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://navi.dropbox.jp/survey-productivity-myth-japan",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://capdo-jp.com/hellosign/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000041324.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sign.dropbox.com/ja-JP/developers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://capdo-jp.com/hellosign/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://esigncompare.com/ja/reviews/dropbox-sign/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/zerocater_hellosign_None.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.casestudies.com/company/dropbox-sign/case-study/vendinis-sales-team-uses-hellosign-to-close-deals-on-the-phone",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.berenicemendez.co/interactive/hellosign-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://upcloud.com/global/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/hellosign",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/hellosign",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rocketreach.co/hellosign-profile_b5c8924af42e3552",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/hellosign",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/action_cameras/n/ndaecfa7db147",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/HelloSignStatus",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HelloSignApp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hellosignapp/status/433669510772428800",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/theo/status/2066612109564338228",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/hellosign",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/hellosign",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/dropboxsign/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/hellosign-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/HelloSign/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fb-answers/docusign-vs-hellosign/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/HelloSign-Interpreting-and-Services-LLC-61576789830702/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Vantisco/videos/hellosign-allows-you-to-electronically-request-and-add-legally-binding-signature/247657039799666/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HelloSign",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HelloSignApp",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Hellosign",
+   "results": [
+    "https://ja.wikipedia.org/wiki/HELLSING",
+    "https://experience.dropbox.com/form/hellosign",
+    "https://app.hellosign.com/",
+    "https://status.hellosign.com/",
+    "https://sign.dropbox.com/",
+    "https://www.dropbox.com/sign",
+    "https://sign.dropbox.com/products/dropbox-sign",
+    "https://developers.hellosign.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "株式会社Hellosign",
+   "results": [
+    "https://capdo-jp.com/hellosign/",
+    "https://sign.dropbox.com/ja-JP/",
+    "https://app.hellosign.com/",
+    "https://sign.dropbox.com/",
+    "https://capdo-jp.com/hellosign-kintone-press/",
+    "https://navi.dropbox.jp/dropbox-digital-signature-service-hellosign-enables-seamless-signature-and-data-storage-in-japan",
+    "https://navi.dropbox.jp/dropbox-japan-officially-launches-hellosign"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hellosign 日本 導入",
+   "results": [
+    "https://capdo-jp.com/hellosign/",
+    "https://prtimes.jp/main/html/rd/p/000000010.000041324.html",
+    "https://sign.dropbox.com/ja-JP/developers",
+    "https://navi.dropbox.jp/dropbox-digital-signature-service-hellosign-enables-seamless-signature-and-data-storage-in-japan",
+    "https://navi.dropbox.jp/jtc-case-study",
+    "https://sign.dropbox.com/ja-JP/",
+    "https://www.itmedia.co.jp/news/article/2608/20/2000000654/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hellosign 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.digicert.com/jp/about-digicert-japan",
+    "https://www.cisco.com/c/ja_jp/about/localoffices.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hellosign Japan",
+   "results": [
+    "https://capdo-jp.com/hellosign/",
+    "https://navi.dropbox.jp/dropbox-japan-officially-launches-hellosign",
+    "https://navi.dropbox.jp/dropbox-digital-signature-service-hellosign-enables-seamless-signature-and-data-storage-in-japan",
+    "https://esigncompare.com/ja/reviews/dropbox-sign/",
+    "https://app.hellosign.com/",
+    "https://sign.dropbox.com/ja-JP/",
+    "https://sign.dropbox.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hellosign manufacturing customer case study",
+   "results": [
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/zerocater_hellosign_None.pdf",
+    "https://www.casestudies.com/company/dropbox-sign/case-study/vendinis-sales-team-uses-hellosign-to-close-deals-on-the-phone",
+    "https://www.berenicemendez.co/interactive/hellosign-customer-case-study",
+    "https://www.appsruntheworld.com/customers-database/products/view/hellosign",
+    "https://www.casestudies.com/company/dropbox-sign/case-study/cure-auto-insurance-uses-esignature-digital-workflow-to-transform-customer-experience",
+    "https://www.buysellads.com/customer-stories/hellosign",
+    "https://branchroad.media/project/hellosign/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hellosign white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://upcloud.com/partner-program/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://partner.microsoft.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hellosign founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/hellosign",
+    "https://startupintros.com/orgs/hellosign",
+    "https://rocketreach.co/hellosign-profile_b5c8924af42e3552",
+    "https://getlatka.com/companies/hellosign",
+    "https://tracxn.com/d/companies/hellosign/__Aao7uD-_io2xtSNcGgsn63czlpsC8LodHXG-fU3S8GY",
+    "https://saasdata.vercel.app/companies/hellosign",
+    "https://www.privco.com/company/hellosign_private_stock_annual_report_financials"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Hellosign",
+   "results": [
+    "https://note.com/action_cameras/n/ndaecfa7db147",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://tales.note.com/",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/july_ya27/n/na4e2303e0ce7"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Hellosign",
+   "results": [
+    "https://x.com/HelloSignStatus",
+    "https://x.com/HelloSignApp",
+    "https://x.com/hellosignapp/status/433669510772428800",
+    "https://x.com/theo/status/2066612109564338228",
+    "https://x.com/HelloFax",
+    "https://x.com/Dropbox/status/1584940326116298753",
+    "https://x.com:8443/DropboxSign"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Hellosign",
+   "results": [
+    "https://www.linkedin.com/company/hellosign",
+    "https://www.linkedin.com/products/hellosign",
+    "https://www.linkedin.com/company/dropboxsign/",
+    "https://www.linkedin.com/jobs/hellosign-jobs",
+    "https://www.linkedin.com/in/josephwalla",
+    "https://www.linkedin.com/showcase/hellosign-api",
+    "https://www.linkedin.com/pulse/simplest-way-sign-documents-hellosign-armen-margarian"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Hellosign",
+   "results": [
+    "https://www.facebook.com/HelloSign/",
+    "https://www.facebook.com/fb-answers/docusign-vs-hellosign/",
+    "https://www.facebook.com/p/HelloSign-Interpreting-and-Services-LLC-61576789830702/",
+    "https://www.facebook.com/Vantisco/videos/hellosign-allows-you-to-electronically-request-and-add-legally-binding-signature/247657039799666/",
+    "https://www.facebook.com/fb-answers/adobe-sign-vs-hellosign-comparison/",
+    "https://www.facebook.com/dropboxsign/videos/hellosign-prep-and-send/1050819852099496/",
+    "https://www.facebook.com/hellosignapp/videos/introducing-dropboxs-native-esignature-tool-powered-by-hellosign-now-with-native/697175024818569/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hellosign note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hellosign X 投稿",
+   "results": [
+    "https://x.com/HelloSign",
+    "https://x.com/HelloSignApp",
+    "https://blog.csdn.net/jbb0523/article/details/157614053",
+    "https://sign.dropbox.com/zh-CN/developers",
+    "https://experience.dropbox.com/form/hellosign",
+    "https://app.hellosign.com/",
+    "https://sign.dropbox.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式17頁／PDF・画像0件／外部36頁・検索14回）",
+  "従業員数": "記載なし（3回確認済み：公式17頁／PDF・画像0件／外部36頁・検索14回）",
+  "売上高": "記載なし（3回確認済み：公式17頁／PDF・画像0件／外部36頁・検索14回）",
+  "料金": "記載なし（3回確認済み：公式17頁／PDF・画像0件／外部36頁・検索14回）"
+ }
+}

@@ -1,0 +1,593 @@
+{
+ "name": "Juzibot",
+ "aliases": [],
+ "context": "旧営業リスト｜B2B Industrial Software｜未接触",
+ "researched_at": "2026-11-10T14:48:32.328542+00:00",
+ "official_url": "https://www.juzibot.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "攒 BadCase、做标注、调 Prompt 与模型，效果曲线持续往上走，越用越懂业务",
+    "url": "https://www.juzibot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Through PreAngel, I run an AI-native, one-person incubator exploring what’s possible when we design products with agents from day one. I also lead Ship.Fail, a hackathon-style community for fast, one-day product experiments and small bets.",
+    "url": "https://www.ycombinator.com/companies/juzibot",
+    "pass": 3
+   },
+   {
+    "quote": "Structurely's conversational AI technology is leading the way in sales and marketing, structuring conversations to engage leads at scale.",
+    "url": "https://getlatka.com/companies/structurely.com",
+    "pass": 3
+   },
+   {
+    "quote": "Conversational Marketing Software",
+    "url": "https://getlatka.com/companies/structurely.com",
+    "pass": 3
+   },
+   {
+    "quote": "Lead Generation Software",
+    "url": "https://getlatka.com/companies/structurely.com",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing Automation Software",
+    "url": "https://getlatka.com/companies/structurely.com",
+    "pass": 3
+   },
+   {
+    "quote": "Best Marketing Software",
+    "url": "https://getlatka.com/companies/structurely.com",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/structurely.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/structurely.com",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Juzi Bot - LinkedIn — Juzi Bot - LinkedIn LinkedIn https://www.linkedin.com > juzibot",
+    "url": "https://www.linkedin.com/company/juzibot",
+    "pass": 3
+   },
+   {
+    "quote": "JuziBot : Intercom for WeChat, help companies to acquire ... — JuziBot : Intercom for WeChat, help companies to acquire ... Y Combinator https://www.ycombinator.com > juzibot",
+    "url": "https://www.ycombinator.com/companies/juzibot",
+    "pass": 3
+   },
+   {
+    "quote": "Jiarui Li - Juzi Bot - Co- Founder & CEO, Microsoft AI MVP — Jiarui Li - Juzi Bot - Co- Founder & CEO, Microsoft AI MVP LinkedIn https://www.linkedin.com > ...",
+    "url": "https://www.linkedin.com/in/jiarui-li-710277b6",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "My work blends human-AI interaction, agent-based systems, and narrative-driven design — with a fail-forward mindset and a love for rapid iteration.",
+    "url": "https://www.ycombinator.com/companies/juzibot",
+    "pass": 3
+   },
+   {
+    "quote": "Structurely Revenue 2025: $1.7M Est.",
+    "url": "https://getlatka.com/companies/structurely.com",
+    "pass": 3
+   },
+   {
+    "quote": "Structurely has not published its revenue. GetLatka estimates it at about $1.7M a year (July 2025).",
+    "url": "https://getlatka.com/companies/structurely.com",
+    "pass": 3
+   },
+   {
+    "quote": "Structurely CEO & employees",
+    "url": "https://getlatka.com/companies/structurely.com",
+    "pass": 3
+   },
+   {
+    "quote": "Clifford Smith is CEO of Structurely. Structurely has 15 employees (July 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/structurely.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Structurely's revenue?",
+    "url": "https://getlatka.com/companies/structurely.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Structurely's revenue at about",
+    "url": "https://getlatka.com/companies/structurely.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Structurely have?",
+    "url": "https://getlatka.com/companies/structurely.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of July 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/structurely.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/structurely.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/structurely.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/structurely.com",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Juzi Bot - LinkedIn Juzi Bot - LinkedIn LinkedIn https://www.linkedin.com > juzibot",
+    "url": "https://www.linkedin.com/company/juzibot",
+    "pass": 3
+   },
+   {
+    "quote": "Jiarui Li - Juzi Bot - Co-Founder & CEO, Microsoft AI MVP Jiarui Li - Juzi Bot - Co-Founder & CEO, Microsoft AI MVP LinkedIn https://www.linkedin.com > ...",
+    "url": "https://www.linkedin.com/in/jiarui-li-710277b6",
+    "pass": 3
+   },
+   {
+    "quote": "Yuan Gao - CTO at Juzi Bot - 领英 Yuan Gao - CTO at Juzi Bot - 领英 LinkedIn https://cn.linkedin.com > windmemory",
+    "url": "https://cn.linkedin.com/in/windmemory",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Juzi Bot - Facebook Juzi Bot is on Facebook. Join Facebook to connect with Juzi Bot and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+    "url": "https://www.facebook.com/bot.juzi.9/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.juzibot.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.juzibot.com/industries.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.juzibot.com/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.juzibot.com/careers/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.juzibot.com/assets/brand/logos/consumer-0-0.png?v=20260730i",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.juzibot.com/assets/brand/logos/consumer-0-1.png?v=20260730i",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.juzibot.com/assets/brand/logos/consumer-0-2.png?v=20260730i",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.juzibot.com/assets/brand/logos/consumer-0-3.png?v=20260730i",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/impress.carwatch/posts/stellantis%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%83%95%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88%E3%83%A9%E3%83%83%E3%82%AFram-1500-limited%E6%97%A5%E6%9C%AC%E5%B0%8E%E5%85%A5-2027%E5%B9%B4%E3%81%AB%E3%81%BE%E3%81%9A%E3%81%AF100%E5%8F%B0%E3%82%92%E7%99%BA%E5%A3%B2%E4%BA%88%E5%AE%9A-ram-%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88/1595981509000273/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trafficnews.jp/post/725198",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-port.com/news/374/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan.travel/en/us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jnto.go.jp/en/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/juzibot",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.okujapan.com/blog/japanese-jizo-statues/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tryleverage.ai/case-study-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sotatek.com/blogs/ai-and-machine-learning/ai-in-manufacturing-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cognizant.com/us/en/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pluto7.com/customer-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://quickchat.ai/post/white-label-chatbot-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/juzibot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/in/jiarui-li-710277b6",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/structurely.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/explore/saas-startups-in-china/__NA5CPilirQz5V0ouDfM18vm0ewe0pISvYWG5EzDZkGk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/juzibot",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jiarui-li-710277b6",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cn.linkedin.com/in/windmemory",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/bot.juzi.9/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Juzibot 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.facebook.com/impress.carwatch/posts/stellantis%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%83%95%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88%E3%83%A9%E3%83%83%E3%82%AFram-1500-limited%E6%97%A5%E6%9C%AC%E5%B0%8E%E5%85%A5-2027%E5%B9%B4%E3%81%AB%E3%81%BE%E3%81%9A%E3%81%AF100%E5%8F%B0%E3%82%92%E7%99%BA%E5%A3%B2%E4%BA%88%E5%AE%9A-ram-%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88/1595981509000273/",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://trafficnews.jp/post/725198",
+    "https://www.mycar-life.com/article/2026/11/08/32725.html",
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "https://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=160144/",
+    "https://www.chiba-tv.com/plus/detail/2026112187872",
+    "https://www.toolmage.com/ja/tool/juzibot/",
+    "https://juzibot.remotetips.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Juzibot 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://b-seeds.com/",
+    "https://www.japan-port.com/news/374/",
+    "https://dairitenboshu.com/",
+    "https://www.youtube.com/watch?v=m9qq9nQP9KI",
+    "https://www.biz.ne.jp/list/corporate-agency/",
+    "https://j-dma.org/company",
+    "https://www.jtbbokun.jp/faq/booking-agents/booking-agents-pro",
+    "https://ja.wikipedia.org/wiki/秦英之"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Juzibot Japan",
+   "results": [
+    "https://www.japan.travel/en/us/",
+    "https://www.jnto.go.jp/en/",
+    "https://www.linkedin.com/company/juzibot",
+    "https://www.okujapan.com/blog/japanese-jizo-statues/",
+    "https://intl.q-pot.jp/?srsltid=AYCX9vIHMwnLjJT75xVa1elAW527-dXG27Nx8JIq6VKxfhKAzUDWrvCA",
+    "https://www.insidejapantours.com/blog/2018/07/17/jizo/",
+    "https://en.japantravel.com/photostory/jizo-japan-s-guardian-of-travellers/59583",
+    "https://www.nippon.com/en/articles/-/18472",
+    "https://dharmacrafts.com/blogs/news/who-is-jizo-the-guardian-of-travelers-children-compassion?srsltid=AYCX9vIQaRU1KPRk8Qmdc7U15PpC629Hs7U_m7-TsBCOhLzBbo7Czim-",
+    "https://juzibot.remotetips.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Juzibot manufacturing customer case study",
+   "results": [
+    "https://tryleverage.ai/case-study-manufacturing",
+    "https://www.sotatek.com/blogs/ai-and-machine-learning/ai-in-manufacturing-case-study/",
+    "https://www.cognizant.com/us/en/case-studies",
+    "https://pluto7.com/customer-case-studies/",
+    "https://kawasakirobotics.com/case-studies/",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://zoovu.com/our-customers",
+    "https://www.jbs.dev/resources/case-studies/",
+    "https://aws.amazon.com/manufacturing/case-studies/",
+    "https://www.ycombinator.com/companies/juzibot"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Juzibot white label OR reseller OR partner program",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://quickchat.ai/post/white-label-chatbot-guide",
+    "https://customgpt.ai/white-label-software-to-resell/",
+    "https://wishpond.com/latest-press-release/wishpond-launches-new-white-label-reseller-program-for-salescloser-ai-empowering-businesses-with-ai-powered-sales-solutions/",
+    "https://www.ycombinator.com/companies/juzibot",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Juzibot founded funding employees revenue",
+   "results": [
+    "https://www.ycombinator.com/companies/juzibot",
+    "https://www.linkedin.com/in/jiarui-li-710277b6",
+    "https://getlatka.com/companies/structurely.com",
+    "https://tracxn.com/d/explore/saas-startups-in-china/__NA5CPilirQz5V0ouDfM18vm0ewe0pISvYWG5EzDZkGk",
+    "https://getlatka.com/companies/closebot.com",
+    "https://nypost.com/wp-content/uploads/sites/2/2024/02/Future-Union_The-Rubicon-Report_Conflict-Capital-Full-Report-1-2.pdf",
+    "https://cn.linkedin.com/in/windmemory",
+    "https://getlatka.com/companies/salespeak.ai",
+    "https://getlatka.com/companies/juzibot.com",
+    "https://getlatka.com/companies/juzibot.com/customers"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Juzibot",
+   "results": [
+    "https://note.com/asabamiyuki",
+    "https://note.com/kryuutai/n/n6846c5c8fa3a",
+    "https://note.com/activist_blog/n/n00bba32b253e",
+    "https://note.com/yosshiiii_9999/n/n1417cb9c94eb",
+    "https://note.com/h_tumugi39/n/n9e513626b445",
+    "https://note.com/masashi3122/n/n6f41b990b137",
+    "https://note.com/kzstock/n/n8464ba129797"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Juzibot",
+   "results": [
+    "https://x.com/rollymsouth/status/1349434747584270340?lang=fr",
+    "https://jf.x.com/images/media-preview/2095828865230979258",
+    "https://help.x.com/en",
+    "https://x.com/Juzibase",
+    "https://x.com/juzi070906",
+    "https://help.x.com/zh-cn/using-x",
+    "https://x.com/juzishuu",
+    "https://x.com/hashtag/juzi"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:linkedin.com Juzibot",
+   "results": [
+    "https://www.linkedin.com/company/juzibot",
+    "https://www.linkedin.com/in/jiarui-li-710277b6",
+    "https://cn.linkedin.com/in/julie-wang-8b5b5a258",
+    "https://cn.linkedin.com/in/windmemory",
+    "https://www.linkedin.com/in/huan42",
+    "https://cn.linkedin.com/in/ricky-yin-b56368211",
+    "https://www.linkedin.com/pub/dir/Jiarui/Li/us-0-United-States",
+    "https://www.linkedin.com/in/chenzhaomba",
+    "https://www.linkedin.com/company/mentiforce",
+    "https://www.linkedin.com/jobs/juzibot-new-product-launch-2026-after-2026-07-14-jobs"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:facebook.com Juzibot",
+   "results": [
+    "https://www.facebook.com/bot.juzi.9/",
+    "https://www.facebook.com/jessizazuinc/",
+    "https://secure.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/ms.siang1999/",
+    "https://www.facebook.com/\u0000jperes88/",
+    "https://www.facebook.com/juzifruits/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Juzibot note 社長",
+   "results": [
+    "https://note.com/tag/%E7%A4%BE%E9%95%B7%E3%83%96%E3%83%AD%E3%82%B0",
+    "https://x.com/sadaaki",
+    "https://diamond.jp/articles/-/388572",
+    "https://note.com/jtekt_kondou",
+    "https://www.youtube.com/watch?v=xPafg3yYObE",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://note.com/sadaaki",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Juzibot X 投稿",
+   "results": [
+    "https://x.com/Juusuzun",
+    "https://www.instagram.com/jujube.x/",
+    "https://www.youtube.com/@jujubotv",
+    "https://www.youtube.com/watch?v=BMtq3R1PaFU",
+    "https://www.trustpilot.com/review/jujubit.ai",
+    "https://x.com/JZBTHX",
+    "https://www.tiktok.com/discover/jujubatx",
+    "https://www.tiktok.com/@jujubotv1/video/7308672824569285920",
+    "https://www.pixiv.net/en/users/15802361",
+    "https://github.com/juzibot/juzibot-website"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部28頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部28頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部28頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部28頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部28頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部28頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部28頁・検索12回）"
+ }
+}

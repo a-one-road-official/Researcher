@@ -8,56 +8,12 @@
  ],
  "context": "失敗",
  "kind": "market",
- "researched_at": "2026-11-09T04:53:50.060778+00:00",
+ "researched_at": "2026-11-10T14:28:31.465544+00:00",
  "evidence": {
-  "失敗・落とし穴": [
+  "一次情報の探し方": [
    {
-    "quote": "Top 10 Common AI Agent Scraping Mistakes to Avoid",
-    "url": "https://blog.gyrence.com/blog/boilerplate-removal",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "try to get the best of both worlds. A heuristic extractor handles every page first. An ML confidence predictor flags the ones it is unsure about, and those get routed to a neural model for a second pass. You get heuristic speed on the 90%+ of pages where it works well, and neural quality on the hard cases.",
-    "url": "https://webcontentextraction.org/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "warns that indiscriminately deleting repeated content in contracts or reports can destroy meaning, such as section identity or page order. UnRAG's rule of thumb is to keep headings, lists, code blocks, warnings, notes, examples, FAQ labels and freshness or scope metadata whenever they change meaning. Do not remove anything whose loss changes usefulness to a reader.",
-    "url": "https://blog.gyrence.com/blog/boilerplate-removal",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "allow you to control which elements of the webpage are extracted. For example, you can select for",
+    "quote": "https://readability.readthedocs.io/_/downloads/en/latest/pdf/",
     "url": "https://www.osti.gov/servlets/purl/2429881",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "for Summarization (with Examples),\" Dev.to, 2023. Available: https://dev.to/aws-",
-    "url": "https://www.osti.gov/servlets/purl/2429881",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "summarization-with-examples-jjg.",
-    "url": "https://www.osti.gov/servlets/purl/2429881",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "in this research base — 11 fixtures in the content-fidelity set, 40 article units and 17 boilerplate units. These are synthetic fixtures deliberately weighted toward the adversarial cases, so read them as mechanism, not as a real-corpus ranking.",
-    "url": "https://thunderbit.com/blog/trafilatura",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "trafilatura is aimed at article-oriented main-content extraction. It is a candidate for building text corpora, readable archives, or NLP inputs from static HTML when heuristic cleaning is acceptable. The shared fixture comparison supports lower boilerplate leakage than Readability, while Readability retained more of the short and non-prose cases.",
-    "url": "https://thunderbit.com/blog/trafilatura",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
@@ -144,10 +100,54 @@
     "first_seen": "2026-11-06"
    }
   ],
-  "一次情報の探し方": [
+  "失敗・落とし穴": [
    {
-    "quote": "https://readability.readthedocs.io/_/downloads/en/latest/pdf/",
+    "quote": "Top 10 Common AI Agent Scraping Mistakes to Avoid",
+    "url": "https://blog.gyrence.com/blog/boilerplate-removal",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "try to get the best of both worlds. A heuristic extractor handles every page first. An ML confidence predictor flags the ones it is unsure about, and those get routed to a neural model for a second pass. You get heuristic speed on the 90%+ of pages where it works well, and neural quality on the hard cases.",
+    "url": "https://webcontentextraction.org/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "warns that indiscriminately deleting repeated content in contracts or reports can destroy meaning, such as section identity or page order. UnRAG's rule of thumb is to keep headings, lists, code blocks, warnings, notes, examples, FAQ labels and freshness or scope metadata whenever they change meaning. Do not remove anything whose loss changes usefulness to a reader.",
+    "url": "https://blog.gyrence.com/blog/boilerplate-removal",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "allow you to control which elements of the webpage are extracted. For example, you can select for",
     "url": "https://www.osti.gov/servlets/purl/2429881",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "for Summarization (with Examples),\" Dev.to, 2023. Available: https://dev.to/aws-",
+    "url": "https://www.osti.gov/servlets/purl/2429881",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "summarization-with-examples-jjg.",
+    "url": "https://www.osti.gov/servlets/purl/2429881",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "in this research base — 11 fixtures in the content-fidelity set, 40 article units and 17 boilerplate units. These are synthetic fixtures deliberately weighted toward the adversarial cases, so read them as mechanism, not as a real-corpus ranking.",
+    "url": "https://thunderbit.com/blog/trafilatura",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "trafilatura is aimed at article-oriented main-content extraction. It is a candidate for building text corpora, readable archives, or NLP inputs from static HTML when heuristic cleaning is acceptable. The shared fixture comparison supports lower boilerplate leakage than Readability, while Readability retained more of the short and non-prose cases.",
+    "url": "https://thunderbit.com/blog/trafilatura",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
@@ -157,107 +157,47 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/matrixflow/n/n74ef0b04c485",
+    "url": "https://note.com/kida_lw/n/nb6a199831026",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/hckn_3104/n/n5d93ee59ab4f",
+    "url": "https://note.com/komarase/n/n6c78ad947672",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/cheesegue_/n/n62b3967c13d1",
+    "url": "https://biz.note.com/n/na4e823bc16bc",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/tsunobuchi/n/n17982922130d?hl=en",
+    "url": "https://note.com/tejun/n/n2f7bfda9b530",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/711704/n/n2f3277dd3846",
+    "url": "https://note.com/3104webwriter/n/n43d5b05500b2",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kiyo_ai_note/n/n428a4366476e",
+    "url": "https://note.com/koroomi0v0/n/n5f645415c42f",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/zerosta_web/n/n876259c7e6c1",
+    "url": "https://contentai.jp/blog/note-article-writing-guide-2026",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/_soutao/n/nc726c582ffd8",
+    "url": "https://www.sungrove.co.jp/note-writing-guide/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/promptdesign/n/necc90c520601",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/promptdesign/n/n1ccd3c2671fd",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/moral_lotus5592/n/nefb72beb7ac9",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://ama-town.note.jp/n/n0ce0ef7fe17c?gs=6473f0584784cfc651575403667718c9",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://article-pro.com/column/article-writing/how-to-organize/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://xinobix.jp/blog/article-structure/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.xserver.ne.jp/blog/blog-template/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://ferret-one.com/blog/article-structure",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://cone-c-slide.com/see-sla/blog/seo-structure/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.switchitmaker2.com/contents-marketing/kiji-matome-kakikata-seo/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://search-engine-pirates.co.jp/column/content-seo/seo-article/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.atoj.co.jp/atoj-info/detail/49",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://re-v.co.jp/column/1761/",
+    "url": "https://notematic.tech/article/note-footer-design/",
     "status": "ok",
     "method": "http"
    },
@@ -267,12 +207,52 @@
     "method": "http"
    },
    {
+    "url": "https://iamtamatama.hatenadiary.jp/entry/2025/02/21/074000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://hatenablogmedia.zendesk.com/hc/ja/articles/360031014172-%E8%A8%98%E4%BA%8B%E4%B8%80%E8%A6%A7%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%81%AE-%E9%AB%98%E5%BA%A6%E3%81%AA%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA",
     "status": "ok",
     "method": "browser"
    },
    {
-    "url": "https://blog.minimal-green.com/entry/hatenablog-custom",
+    "url": "https://qiita.com/yun_bow/items/155d53eab9c5f1671515",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://0forest.com/blog/ameblo-teikeibun/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seory.co.jp/layout/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.movabletype.jp/documentation/mt9/users-guide/manage-content/manage-entries/manage-boilerplate/create-entry-with-boilerplate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trafilatura.readthedocs.io/en/latest/evaluation.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trafilatura.readthedocs.io/en/latest/extraction-overview.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trafilaturacore.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mdisbetter.com/blog/web-content-extraction-readability-vs-trafilatura",
     "status": "ok",
     "method": "http"
    },
@@ -282,27 +262,7 @@
     "method": "pdf"
    },
    {
-    "url": "https://trafilatura.readthedocs.io/en/latest/evaluation.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://chuniversiteit.nl/blog/science/comparison-of-web-content-extraction-algorithms",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://medium.com/aimonks/web-content-extraction-with-heuristics-nlp-8e901875c8ed",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.reddit.com/r/LLMDevs/comments/1t203ai/i_made_the_most_accurate_html_content_extraction/",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://murroughfoley.com/rs-trafilatura-rust-web-content-extraction/",
+    "url": "https://www.trafilaturacore.com/comparison/",
     "status": "ok",
     "method": "http"
    }
@@ -312,172 +272,77 @@
   {
    "query": "本文と定型文（メニュー・サイドバーの記事一覧・関連記事）を中身の手がかりで分ける抽出の方法と失敗の型 site:note.com",
    "results": [
-    "https://note.com/matrixflow/n/n74ef0b04c485",
-    "https://note.com/hckn_3104/n/n5d93ee59ab4f",
-    "https://note.com/cheesegue_/n/n62b3967c13d1",
-    "https://note.com/tsunobuchi/n/n17982922130d?hl=en",
-    "https://note.com/711704/n/n2f3277dd3846",
-    "https://note.com/kiyo_ai_note/n/n428a4366476e",
-    "https://note.com/misaki_ai_work/n/ncf3719c7972c",
-    "https://note.com/mir4545/n/n84e34b6c7747",
-    "https://note.com/it_aibiz/n/nb7344f729add",
-    "https://note.com/_creative_wolf_/n/n8e4cb7448f22"
+    "https://note.com/kida_lw/n/nb6a199831026",
+    "https://note.com/komarase/n/n6c78ad947672",
+    "https://biz.note.com/n/na4e823bc16bc",
+    "https://note.com/tejun/n/n2f7bfda9b530",
+    "https://note.com/3104webwriter/n/n43d5b05500b2",
+    "https://note.com/koroomi0v0/n/n5f645415c42f",
+    "https://note.com/osatouhitosaji/n/ncb53aeea332b"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 17
+   "n_hits": 7
   },
   {
    "query": "本文と定型文（メニュー・サイドバーの記事一覧・関連記事）を中身の手がかりで分ける抽出の方法と失敗の型 note",
    "results": [
-    "https://note.com/zerosta_web/n/n876259c7e6c1",
-    "https://note.com/_soutao/n/nc726c582ffd8",
-    "https://note.com/promptdesign/n/necc90c520601",
-    "https://www.youtube.com/watch?v=v7lIAoEt6d8",
-    "https://note.com/promptdesign/n/n1ccd3c2671fd",
-    "https://note.com/moral_lotus5592/n/nefb72beb7ac9",
-    "https://ama-town.note.jp/n/n0ce0ef7fe17c",
-    "https://www.switchitmaker2.com/contents-marketing/kiji-matome-kakikata-seo/",
-    "https://www.mouse-jp.co.jp/mouselabo/entry/2025/04/23/100195?srsltid=AYCX9vLE5X3_rAcE3zBtNY7f28j2GY82v8RpBLo5vpUID6IfaANpw3fl",
-    "https://note.com/kida_lw/n/nb6a199831026"
+    "https://note.com/kida_lw/n/nb6a199831026",
+    "https://note.com/komarase/n/n6c78ad947672",
+    "https://contentai.jp/blog/note-article-writing-guide-2026",
+    "https://www.sungrove.co.jp/note-writing-guide/",
+    "https://notematic.tech/article/note-footer-design/",
+    "https://help.hatenablog.com/entry/sidebarmodules/advanced",
+    "https://iamtamatama.hatenadiary.jp/entry/2025/02/21/074000"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "本文と定型文（メニュー・サイドバーの記事一覧・関連記事）を中身の手がかりで分ける抽出の方法と失敗の型 やり方",
    "results": [
-    "https://www.youtube.com/watch?v=v7lIAoEt6d8",
-    "https://article-pro.com/column/article-writing/how-to-organize/",
-    "https://xinobix.jp/blog/article-structure/",
-    "https://www.xserver.ne.jp/blog/blog-template/",
-    "https://ferret-one.com/blog/article-structure",
-    "https://cone-c-slide.com/see-sla/blog/seo-structure/",
-    "https://www.switchitmaker2.com/contents-marketing/kiji-matome-kakikata-seo/",
-    "https://hebochans.xsrv.jp/blog-structure/",
-    "https://cro-co.co.jp/media/contents-marketing/article-structure/",
-    "https://help.hatenablog.com/entry/sidebarmodules/advanced"
+    "https://help.hatenablog.com/entry/sidebarmodules/advanced",
+    "https://hatenablogmedia.zendesk.com/hc/ja/articles/360031014172-記事一覧モジュールの-高度なカスタマイズ",
+    "https://qiita.com/yun_bow/items/155d53eab9c5f1671515",
+    "https://note.com/kida_lw/n/nb6a199831026",
+    "https://note.com/komarase/n/n6c78ad947672",
+    "https://0forest.com/blog/ameblo-teikeibun/",
+    "https://iamtamatama.hatenadiary.jp/entry/2025/02/21/074000"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "本文と定型文（メニュー・サイドバーの記事一覧・関連記事）を中身の手がかりで分ける抽出の方法と失敗の型 事例",
    "results": [
-    "https://search-engine-pirates.co.jp/column/content-seo/seo-article/",
-    "https://xinobix.jp/blog/article-structure/",
-    "https://article-pro.com/column/article-writing/how-to-organize/",
-    "https://www.atoj.co.jp/atoj-info/detail/49",
-    "https://cone-c-slide.com/see-sla/blog/seo-structure/",
-    "https://ferret-one.com/blog/article-structure",
-    "https://www.youtube.com/watch?v=v7lIAoEt6d8",
-    "https://re-v.co.jp/column/1761/",
-    "https://www.xserver.ne.jp/blog/blog-template/",
-    "https://help.hatenablog.com/entry/sidebarmodules/advanced"
+    "https://help.hatenablog.com/entry/sidebarmodules/advanced",
+    "https://qiita.com/yun_bow/items/155d53eab9c5f1671515",
+    "https://note.com/kida_lw/n/nb6a199831026",
+    "https://seory.co.jp/layout/",
+    "https://notematic.tech/article/note-footer-design/",
+    "https://www.movabletype.jp/documentation/mt9/users-guide/manage-content/manage-entries/manage-boilerplate/create-entry-with-boilerplate/",
+    "https://note.com/komarase/n/n6c78ad947672"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "boilerplate removal main content extraction heuristics link density evaluation trafilatura readability",
    "results": [
-    "https://www.osti.gov/servlets/purl/2429881",
     "https://trafilatura.readthedocs.io/en/latest/evaluation.html",
-    "https://chuniversiteit.nl/blog/science/comparison-of-web-content-extraction-algorithms",
-    "https://medium.com/aimonks/web-content-extraction-with-heuristics-nlp-8e901875c8ed",
-    "https://www.reddit.com/r/LLMDevs/comments/1t203ai/i_made_the_most_accurate_html_content_extraction/",
-    "https://murroughfoley.com/rs-trafilatura-rust-web-content-extraction/",
-    "https://central.yourtext.guru/main-content-extraction-from-web-pages/",
-    "https://stackoverflow.com/questions/3652657/what-algorithm-does-readability-use-for-extracting-text-from-urls",
-    "https://dias.users.greyc.fr/publications/sigir2025.pdf",
-    "https://pypi.org/project/trafilatura/0.5.0/"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 15
-  },
-  {
-   "query": "site:note.com 本文と定型文（メニュー・サイドバーの記事一覧・関連記事）を中身の手がかりで分ける抽出の方法と失敗の型",
-   "results": [
-    "https://note.com/matrixflow/n/n74ef0b04c485",
-    "https://note.com/cheesegue_/n/n62b3967c13d1",
-    "https://note.com/711704/n/n2f3277dd3846",
-    "https://note.com/hckn_3104/n/n5d93ee59ab4f",
-    "https://note.com/misaki_ai_work/n/ncf3719c7972c",
-    "https://note.com/tsunobuchi/n/n17982922130d?hl=en",
-    "https://note.com/kiyo_ai_note/n/n428a4366476e",
-    "https://note.com/mir4545/n/n84e34b6c7747",
-    "https://note.com/timee_product/n/n037784ccd24f",
-    "https://note.com/kiyo_ai_note/n/nb66ceb3ab1e4"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 10
-  },
-  {
-   "query": "site:x.com 本文と定型文（メニュー・サイドバーの記事一覧・関連記事）を中身の手がかりで分ける抽出の方法と失敗の型",
-   "results": [
-    "https://x.com/nobel_824/article/2036953599729950862",
-    "https://x.com/shota7180/article/2088098521430073500",
-    "https://x.com/keitowebai/article/2061222002921517346",
-    "https://x.com/claudecode_lab/article/2078299319661137987",
-    "https://x.com/forguncy",
-    "https://x.com/tatsuki_nowave/article/2050212561438769378",
-    "https://x.com/mikami01_ai/article/2045843013273014450",
-    "https://x.com/tetumemo/status/2027690209790599243",
-    "https://x.com/wancoro_xx/status/2042801142670004471",
-    "https://x.com/i/article/2050750796816646507"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 17
-  },
-  {
-   "query": "site:linkedin.com 本文と定型文（メニュー・サイドバーの記事一覧・関連記事）を中身の手がかりで分ける抽出の方法と失敗の型",
-   "results": [
-    "https://jp.linkedin.com/pulse/level-up-your-team-communication-build-centralized-knowledge-davies-1sbsc?tl=ja",
-    "https://jp.linkedin.com/pulse/daily-ai-work-pulse-16th-april-jeroen-ern%C3%A9-igc0c?tl=ja",
-    "https://jp.linkedin.com/pulse/building-risk-treasury-intelligence-agent-designing-rag-abukar-ali-8dfde?tl=ja",
-    "https://jp.linkedin.com/pulse/creating-custom-gpts-actionable-guide-legal-aaron-b-bath-ceds-iijuc?tl=ja",
-    "https://jp.linkedin.com/pulse/heatmap-guide-decoding-complexity-color-chartexpo-ompme?tl=ja",
-    "https://jp.linkedin.com/pulse/understanding-differences-between-linkedin-posts-articles-luis-saro-0lwyf?tl=ja",
-    "https://jp.linkedin.com/directory/articles",
-    "https://www.linkedin.com/help/linkedin/answer/a522434/-?lang=ja",
-    "https://www.linkedin.com/help/learning/answer/a522427?lang=ja-JP",
-    "https://jp.linkedin.com/learning/business-etiquette-foundations-tools-and-documents/2896764"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
-   ],
-   "n_hits": 12
-  },
-  {
-   "query": "site:facebook.com 本文と定型文（メニュー・サイドバーの記事一覧・関連記事）を中身の手がかりで分ける抽出の方法と失敗の型",
-   "results": [
-    "https://www.facebook.com/litera.web/",
-    "https://www.facebook.com/tokyobaysidegc/posts/下記urlからランチメニューをご覧いただけますhttpspgm-imagess3amazonawscomimagespdfrestaurantrestauran/984747963654122/",
-    "https://www.facebook.com/formzu/posts/ユーザー数の多いgmailですが受信メールの一覧と本文を行き来するのが少し面倒そんな時はメールリストと本文を分割表示でさくさくメール管理しましょうgmail-ラ/3533884489972882/",
-    "https://www.facebook.com/faymermail/photos/メール本文一覧画面で下書きのメールにもタイトルが表示されるようになりました対象機能以下の機能のメール一覧画面メールマガジンステップメールダイレクトメールメール本/451543153194904/",
-    "https://www.facebook.com/stockapp.jp/videos/会議でstockを画面共有したいけどフォルダ名は隠したい-stockでは-特定のノートを全画面表示できますフォルダ一覧を見せずノート本文を画面全体に表示できます/939039228982288/",
-    "https://www.facebook.com/renluck.fan/posts/4回目は出欠確認メールの回答編ですweb版で回答される場合は表示されている出席欠席保留より一つ選択いただき回答ボタンをクリックタップしてください回答を変更する場/2722900424621067/",
-    "https://www.facebook.com/holinicbasketball/posts/第109回記事サイドステップとサイドスキップの違いサイドステップとサイドスキップを簡単に見分けるには最初にどちらの足から動くのかその足の動く順序を見ますサイドス/714635275916402/"
+    "https://trafilatura.readthedocs.io/en/latest/extraction-overview.html",
+    "https://www.trafilaturacore.com/",
+    "https://mdisbetter.com/blog/web-content-extraction-readability-vs-trafilatura",
+    "https://www.osti.gov/servlets/purl/2429881",
+    "https://www.trafilaturacore.com/comparison/",
+    "https://github.com/adbar/trafilatura"
    ],
    "engines": [
     "ddgs:bing"
@@ -485,44 +350,90 @@
    "n_hits": 7
   },
   {
-   "query": "本文と定型文（メニュー・サイドバーの記事一覧・関連記事）を中身の手がかりで分ける抽出の方法と失敗の型 note 社長",
+   "query": "site:note.com 本文と定型文（メニュー・サイドバーの記事一覧・関連記事）を中身の手がかりで分ける抽出の方法と失敗の型",
    "results": [
-    "https://note.com/_soutao/n/nc726c582ffd8",
-    "https://note.com/moral_lotus5592/n/nefb72beb7ac9",
-    "https://www.youtube.com/watch?v=v7lIAoEt6d8",
-    "https://note.com/fumika_pen7/n/n93040ebd0f52",
-    "https://www.postype.com/ja/@junsu0902/post/14106703",
-    "https://note.com/fumika_pen7/n/n6fe8735f18af",
-    "https://www.switchitmaker2.com/contents-marketing/kiji-matome-kakikata-seo/",
-    "https://note.com/promptdesign/n/n1ccd3c2671fd",
-    "https://triedge.co.jp/media",
-    "https://note.com/kida_lw/n/nb6a199831026"
+    "https://note.com/kida_lw/n/nb6a199831026",
+    "https://note.com/komarase/n/n6c78ad947672",
+    "https://note.com/happy_hosta5785/n/ne1d414acc07c",
+    "https://note.com/masudamegumi/n/n500d524af46b",
+    "https://biz.note.com/n/na4e823bc16bc",
+    "https://note.com/hirokawa0709/n/n31c35270cc4d",
+    "https://note.com/grv691/n/na3fc08f70221"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 16
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 本文と定型文（メニュー・サイドバーの記事一覧・関連記事）を中身の手がかりで分ける抽出の方法と失敗の型",
+   "results": [
+    "https://help.x.com/ja/using-x/top-articles",
+    "https://x.com/work_hack_lab/status/2117906812267589849",
+    "https://x.com/CannedText",
+    "https://help.x.com/ja/using-x/articles",
+    "https://x.com/tetsu_tetsu333/status/2102035483308023949",
+    "https://x.com/yosato_ikeike/status/2114852070138478760",
+    "https://x.com/kana__ah/status/2037273389983818084"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 本文と定型文（メニュー・サイドバーの記事一覧・関連記事）を中身の手がかりで分ける抽出の方法と失敗の型",
+   "results": [
+    "https://jp.linkedin.com/pulse/understanding-differences-between-linkedin-posts-articles-luis-saro-0lwyf?tl=ja",
+    "https://jp.linkedin.com/pulse/linkedin-articles-vs-posts-when-use-each-your-business-dan-burner-b7ahe?tl=ja",
+    "https://www.linkedin.com/help/learning/answer/a522427?lang=ja-JP",
+    "https://www.linkedin.com/posts/康之-桃井-3012b547_長くromユーザーでしたが初投稿です-皆さんはメールの定型ってどうされてますか-activity-7060606157865816064-VVEf",
+    "https://jp.linkedin.com/learning/business-etiquette-foundations-tools-and-documents/2896764",
+    "https://jp.linkedin.com/learning/word-2016-tips-tricks-techniques/540876",
+    "https://jp.linkedin.com/learning/word-2019-essential-training-the-basics-2/5004833"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 本文と定型文（メニュー・サイドバーの記事一覧・関連記事）を中身の手がかりで分ける抽出の方法と失敗の型",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "本文と定型文（メニュー・サイドバーの記事一覧・関連記事）を中身の手がかりで分ける抽出の方法と失敗の型 note 社長",
+   "results": [
+    "https://note.com/kida_lw/n/nb6a199831026",
+    "https://note.com/komarase/n/n6c78ad947672",
+    "https://contentai.jp/blog/note-article-writing-guide-2026",
+    "https://www.sungrove.co.jp/note-writing-guide/",
+    "https://note.com/masudamegumi/n/n500d524af46b",
+    "https://notematic.tech/article/note-footer-design/",
+    "https://mossan-store.com/blog/reusable-text-copy/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "本文と定型文（メニュー・サイドバーの記事一覧・関連記事）を中身の手がかりで分ける抽出の方法と失敗の型 X 投稿",
    "results": [
-    "https://help.x.com/ja/using-x/articles",
-    "https://qiita.com/sunstripe2011/items/e1c880fb4fe7f57e7a73",
-    "https://forbesjapan.com/articles/detail/66505",
-    "https://www.xserver.ne.jp/blog/blog-template/",
-    "https://find-model.jp/insta-lab/twitter-moment/",
-    "https://www.siteengine.co.jp/",
-    "https://marketingnative.jp/twitter_moments/",
-    "https://note.com/niiko_design/n/n97716e0eea19",
-    "https://www.youtube.com/watch?v=Sc3ewp_bN-0",
-    "https://help.hatenablog.com/entry/sidebarmodules/advanced"
+    "https://help.hatenablog.com/entry/sidebarmodules/advanced",
+    "https://hatenablogmedia.zendesk.com/hc/ja/articles/360031014172-記事一覧モジュールの-高度なカスタマイズ",
+    "https://note.com/kida_lw/n/nb6a199831026",
+    "https://www.movabletype.jp/documentation/mt9/users-guide/manage-content/manage-entries/manage-boilerplate/create-entry-with-boilerplate/",
+    "https://note.com/komarase/n/n6c78ad947672",
+    "https://iamtamatama.hatenadiary.jp/entry/2025/02/21/074000",
+    "https://www.powercms.jp/products/document/compose/boilerplate.html"
    ],
    "engines": [
-    "ddgs:yahoo",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "boilerplate removal main content extraction heuristics link density evaluation trafilatura readability site:linkedin.com",
@@ -543,6 +454,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 11,
+ "runs": 12,
  "first_researched_at": "2026-11-06T15:55:02.475695+00:00"
 }

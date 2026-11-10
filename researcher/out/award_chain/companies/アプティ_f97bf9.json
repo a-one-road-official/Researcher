@@ -1,0 +1,1324 @@
+{
+ "name": "アプティ",
+ "aliases": [],
+ "context": "東京都・資本金38000万円・東京都 ものづくり企業データベース",
+ "researched_at": "2026-11-10T14:32:27.662994+00:00",
+ "official_url": "https://upty.jp/",
+ "identified_by": "given",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "①自動車/メカニック専門 総合人材サービス事業（求人サイト、人材紹介、人材派遣） ②外国籍人材サービス事業（採用・教育・管理） ③HR tech / SaaS事業（産学連携／離職防止、適性検査） ④出張整備事業（業務委託・請負・スポット） ⑤自動車整備工場向け 環境整備事業 ⑥自動車整備工場の運営 ⑦自動車用品製造・販売",
+    "url": "https://upty.jp/co_overview/",
+    "pass": 1
+   },
+   {
+    "label": "サービス",
+    "value": "対象 特長",
+    "url": "https://upty.jp/news/20261006/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "(1) 業界専門 総合人材サービス事業（自動車/メカニック） (2) 自動車業界 採用マーケティング事業 (3) 自動車業界 プラットフォーム事業 (4) 自動車用品製造・販売 (5) 自動車整備工場向け DX/SDGs 事業",
+    "url": "https://mid-tenshoku.com/agency/a-9364/",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "ビジネス・ディベロップメント事業、ヒューマンリソース事業、ソフトウェア開発事業",
+    "url": "https://www.daijob.com/jobs/company/8271",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2009年2月",
+    "url": "https://upty.jp/co_overview/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：2009 年 2 月 23 日",
+    "url": "https://mid-tenshoku.com/agency/a-9364/",
+    "pass": 3
+   },
+   {
+    "label": "設立日",
+    "value": "設立日：2009年2月",
+    "url": "https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "label": "設立年",
+    "value": "設立年：2009",
+    "url": "https://www.daijob.com/jobs/company/8271",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "3億 8,000万円（関連会社含む）",
+    "url": "https://upty.jp/co_overview/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "3000 万円",
+    "url": "https://mid-tenshoku.com/agency/a-9364/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "3億8000万円",
+    "url": "https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "3,000万円",
+    "url": "https://www.daijob.com/jobs/company/8271",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "〒150-0022 東京都渋谷区恵比寿南1-5-5　JR恵比寿ビル7F Tel:03-6694-2099（代表）　Fax:03-6774-0180",
+    "url": "https://upty.jp/co_overview/",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "〒150-0022 東京都東京都渋谷区恵比寿南1丁目5-5　JR恵比寿ビル7F",
+    "url": "https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "label": "本社：",
+    "value": "東京都",
+    "url": "https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "label": "本社：",
+    "value": "宮城県",
+    "url": "https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "label": "本社：",
+    "value": "広島県",
+    "url": "https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "label": "本社：",
+    "value": "兵庫県",
+    "url": "https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "label": "本社：",
+    "value": "愛知県",
+    "url": "https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "label": "本社：",
+    "value": "福岡県",
+    "url": "https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "label": "本社：",
+    "value": "神奈川県",
+    "url": "https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "label": "本社：",
+    "value": "大阪府",
+    "url": "https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "label": "本社国籍",
+    "value": "日本",
+    "url": "https://www.daijob.com/jobs/company/8271",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "〒153-0051 東京都目黒区上目黒1-18-6 NMビル4F",
+    "url": "https://www.daijob.com/jobs/company/8271",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　／　グループCEO　井田 秀明",
+    "url": "https://upty.jp/co_overview/",
+    "pass": 1
+   },
+   {
+    "label": "代表者名",
+    "value": "井田 秀明",
+    "url": "https://mid-tenshoku.com/agency/a-9364/",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "井田　秀明",
+    "url": "https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "井田　秀明",
+    "url": "https://www.daijob.com/jobs/company/8271",
+    "pass": 3
+   }
+  ],
+  "主要取引先": [
+   {
+    "label": "取引先",
+    "value": "自動車指定・認証工場（全国のカーディーラー、民間整備工場、中古車販売店、サービスステーション、カー用品店）　3.5万店以上",
+    "url": "https://upty.jp/co_overview/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "171名",
+    "url": "https://mid-tenshoku.com/agency/a-9364/",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "230人 ※2025年4月時点",
+    "url": "https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "1円 ※非公開",
+    "url": "https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "<メディア掲載>TBS系列『Nスタ』で紹介されました",
+    "url": "https://upty.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "<メディア掲載>日本テレビ系列『DayDay.』で紹介されました",
+    "url": "https://upty.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "フリーランス/副業整備士が貴社の整備業務を出張請負",
+    "url": "https://upty.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "<メディア掲載>TBS系列『Nスタ』で紹介されました",
+    "url": "https://upty.jp/news/20240926_workshop/",
+    "pass": 1
+   },
+   {
+    "quote": "<メディア掲載>TBS系列『Nスタ』で紹介されました",
+    "url": "https://upty.jp/news/20240925_workshop/",
+    "pass": 1
+   },
+   {
+    "quote": "①自動車/メカニック専門 総合人材サービス事業（求人サイト、人材紹介、人材派遣）",
+    "url": "https://upty.jp/co_overview/",
+    "pass": 1
+   },
+   {
+    "quote": "④出張整備事業（業務委託・請負・スポット）",
+    "url": "https://upty.jp/co_overview/",
+    "pass": 1
+   },
+   {
+    "quote": "PT.UPTY GLOBAL NETWORK （インドネシア政府認定 職業紹介事業者【P3MI】）",
+    "url": "https://upty.jp/co_overview/",
+    "pass": 1
+   },
+   {
+    "quote": "・有料職業紹介事業許可番号：13-ユ-307933",
+    "url": "https://upty.jp/co_overview/",
+    "pass": 1
+   },
+   {
+    "quote": "・労働者派遣事業許可番号：(派)13-306724",
+    "url": "https://upty.jp/co_overview/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車指定・認証工場（全国のカーディーラー、民間整備工場、中古車販売店、サービスステーション、カー用品店） 3.5万店以上",
+    "url": "https://upty.jp/co_overview/",
+    "pass": 1
+   },
+   {
+    "quote": "正社員への転職だけでなく、派遣、スポットワーク、副業など多様な働き方に対応し、求職者は無料で転職サポートを受けることができます",
+    "url": "https://upty.jp/news/20261006/",
+    "pass": 1
+   },
+   {
+    "quote": "正社員だけでなく、時短や派遣、副業など、さまざまな働き方の相談が可能です",
+    "url": "https://upty.jp/news/20261006/",
+    "pass": 1
+   },
+   {
+    "quote": "トヨタ販売店の自動車整備士に特化した求人サイト",
+    "url": "https://upty.jp/news/20261006/",
+    "pass": 1
+   },
+   {
+    "quote": "整備士・メンテナンス・エンジニアなど、メカニック領域の職種に特化した人材紹介サービス",
+    "url": "https://upty.jp/news/20261006/",
+    "pass": 1
+   },
+   {
+    "quote": "事業内容 ①自動車 / メカニック専門 総合人材サービス事業",
+    "url": "https://upty.jp/news/20261006/",
+    "pass": 1
+   },
+   {
+    "quote": "④出張整備事業（業務委託・請負・スポット）",
+    "url": "https://upty.jp/news/20261006/",
+    "pass": 1
+   },
+   {
+    "quote": "<メディア掲載>TBS系列『Nスタ』で紹介されました",
+    "url": "https://upty.jp/news/20261006/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、求人サイトの運営から培ったノウハウを活かし、",
+    "url": "https://upty.jp/news/cwa-agent/",
+    "pass": 1
+   },
+   {
+    "quote": "<メディア掲載>TBS系列『Nスタ』で紹介されました",
+    "url": "https://upty.jp/news/cwa-agent/",
+    "pass": 1
+   },
+   {
+    "quote": "フリーランス/副業整備士が貴社の整備業務を出張請負",
+    "url": "https://upty.jp/service/uptyglobal/",
+    "pass": 1
+   },
+   {
+    "quote": "トヨタ自動車株式会社と共同プロジェクトでトヨタディーラー専門の自動車整備士求人サイト「トヨワク」を運営",
+    "url": "https://upty.jp/service/toyowaku/",
+    "pass": 1
+   },
+   {
+    "quote": "全国のトヨタ販売店で、7,000⼈が不⾜していると⾔われる⾃動⾞整備⼠（エンジニア）の採⽤を強化するために誕生した求人サイト",
+    "url": "https://upty.jp/service/toyowaku/",
+    "pass": 1
+   },
+   {
+    "quote": "約250社あるトヨタ販売店の200社以上が登録してくれています",
+    "url": "https://upty.jp/service/toyowaku/",
+    "pass": 1
+   },
+   {
+    "quote": "フリーランス/副業整備士が貴社の整備業務を出張請負",
+    "url": "https://upty.jp/service/toyowaku/",
+    "pass": 1
+   },
+   {
+    "quote": "フリーランス/副業整備士が貴社の整備業務を出張請負",
+    "url": "https://upty.jp/service/aircle/",
+    "pass": 1
+   },
+   {
+    "quote": "フリーランス/副業整備士が貴社の整備業務を出張請負",
+    "url": "https://upty.jp/service/u-match/",
+    "pass": 1
+   },
+   {
+    "quote": "整備業務補助・リコール作業・用品取り付けなどを受託",
+    "url": "https://upty.jp/service/u-match/",
+    "pass": 1
+   },
+   {
+    "quote": "フリーランス/副業整備士が貴社の整備業務を出張請負",
+    "url": "https://upty.jp/service/carwork/",
+    "pass": 1
+   },
+   {
+    "quote": "フリーランス/副業整備士が貴社の整備業務を出張請負",
+    "url": "https://upty.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "インドネシア政府認定 職業紹介事業者（P3MI）",
+    "url": "https://upty-global.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "各種セミナー、イベント等の企画、開催、運営及び管理",
+    "url": "https://upty-global.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちアプティグローバルは、インドネシアの特定技能人材を中心に「10万人の人材を日本に連れてきて、日本企業の活躍人材にする」というビジョンを掲げ、①人材採用支援、②現地日本語学校/日本国内での日本語教育、③職業訓練校、④P3MI（職業紹介事業者）、⑤トレーニングセンター、⑥専門高等学校（27年開校予定）の運営をおこなっています",
+    "url": "https://upty-global.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "これまで、「求人広告を出しても応募が1件もない」「人材会社に依頼しても1人も紹介がもらえない」というご経験をお持ちの企業様もいらっしゃるかもしれません",
+    "url": "https://upty-global.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車/メカニック専門 総合人材サービス事業（求人サイト、人材紹介、人材派遣）",
+    "url": "https://upty-global.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車整備工場向け 環境整備事業 自動車用品製造・販売",
+    "url": "https://upty-global.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "有料職業紹介事業許可番号：13-ユ-307933",
+    "url": "https://upty-global.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "労働者派遣事業許可番号：（派）13-306724",
+    "url": "https://upty-global.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "カーディーラー、民間整備工場、中古車販売店、サービスステーション、カー用品店",
+    "url": "https://upty-global.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "(4) 自動車用品製造・販売",
+    "url": "https://mid-tenshoku.com/agency/a-9364/",
+    "pass": 3
+   },
+   {
+    "quote": "アプティの将来性・業績・売上に関する評判・口コミ一覧（全7件）【就活会議】",
+    "url": "https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "quote": "アプティの将来性・業績・売上に関する評判・口コミ一覧（全7件）",
+    "url": "https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "quote": "5つの新規ビジネスが紹介されました",
+    "url": "https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "quote": "※「社員・元社員による口コミと評価」は、株式会社リブセンスが運営する「転職会議」から転載しています",
+    "url": "https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー・製造業(自動車・輸送機)の事業の成長・将来性の口コミ",
+    "url": "https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "quote": "国内外で一定のブランド力と販売基盤があり、今後も自動車メーカーとしての事業継続は期待できると思います",
+    "url": "https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "quote": "車の部品製造だった為、当時は残業や休日出勤などで対応しており安定した工場経営だったと思うが7・8年前の情報です",
+    "url": "https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社リブセンスが運営をしている「転職会議」に投稿された口コミを転載しております",
+    "url": "https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "quote": "：Ross ERPの導入で業務プロセスの標準化と購買・生産・販売・会計のデータを一元化できた",
+    "url": "https://aptean.co.jp/casestudies/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介会社の外資系・グローバル企業の転職・求人一覧",
+    "url": "https://www.daijob.com/jobs/company/8271",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは「IT×マーケティング×セールスで自動車産業を代表する会社を創る」というビジョンを掲げ、主に①自動車業界のお客様に対して製品の販売やマーケティングをおこなう事業②自動車業界専門の人材事業③自動車商品メーカーや部品商向け業務用アプリケーションの自社開発をおこなっています",
+    "url": "https://www.daijob.com/jobs/company/8271",
+    "pass": 3
+   },
+   {
+    "quote": "有料職業紹介事業許可番号 【13-ユ-307933】",
+    "url": "https://www.daijob.com/jobs/company/8271",
+    "pass": 3
+   },
+   {
+    "quote": "外国人ITやバイリンガル日本人向け人材紹介企業☆G(lobal)Talent WELCOME!",
+    "url": "https://www.daijob.com/jobs/company/8271",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "未来と顧客を創造し、ステークホルダーの幸せと成長を追求する",
+    "url": "https://upty.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "未来と顧客を創造し、ステークホルダーの幸せと成長を追求する",
+    "url": "https://upty.jp/news/20240926_workshop/",
+    "pass": 1
+   },
+   {
+    "quote": "未来と顧客を創造し、ステークホルダーの幸せと成長を追求する",
+    "url": "https://upty.jp/news/20240925_workshop/",
+    "pass": 1
+   },
+   {
+    "quote": "②外国籍人材サービス事業（採用・教育・管理）",
+    "url": "https://upty.jp/co_overview/",
+    "pass": 1
+   },
+   {
+    "quote": "（外国籍人材採用支援／在留資格申請代行／在留外国籍人材への教育・管理・研修／海外進出支援）",
+    "url": "https://upty.jp/co_overview/",
+    "pass": 1
+   },
+   {
+    "quote": "PT.UPTY GLOBAL INDONESIA (日本語学校）",
+    "url": "https://upty.jp/co_overview/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車指定・認証工場（全国のカーディーラー、民間整備工場、中古車販売店、サービスステーション、カー用品店） 3.5万店以上",
+    "url": "https://upty.jp/co_overview/",
+    "pass": 1
+   },
+   {
+    "quote": "未来と顧客を創造し、ステークホルダーの幸せと成長を追求する",
+    "url": "https://upty.jp/co_overview/",
+    "pass": 1
+   },
+   {
+    "quote": "②全国約3.5万店の整備工場ネットワークを活用",
+    "url": "https://upty.jp/news/20261006/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、全国の自動車整備工場3.5万店以上との取引があります",
+    "url": "https://upty.jp/news/20261006/",
+    "pass": 1
+   },
+   {
+    "quote": "特に自動車整備業界では、経験や技術が求められる一方で、整備士不足が課題となっており、豊富な経験を持つシニア整備士の活躍は、整備工場にとっても重要な選択肢の一つとなっています",
+    "url": "https://upty.jp/news/20261006/",
+    "pass": 1
+   },
+   {
+    "quote": "こうした背景を踏まえ、当社は即戦力を求める整備工場とシニア整備士をつなぐサービスとして「カーワクシニア」を開始しました",
+    "url": "https://upty.jp/news/20261006/",
+    "pass": 1
+   },
+   {
+    "quote": "②外国籍人材サービス事業（採用・教育・管理）",
+    "url": "https://upty.jp/news/20261006/",
+    "pass": 1
+   },
+   {
+    "quote": "未来と顧客を創造し、ステークホルダーの幸せと成長を追求する",
+    "url": "https://upty.jp/news/20261006/",
+    "pass": 1
+   },
+   {
+    "quote": "未来と顧客を創造し、ステークホルダーの幸せと成長を追求する",
+    "url": "https://upty.jp/news_category/new_product_service/",
+    "pass": 1
+   },
+   {
+    "quote": "国土交通省によると、自動車整備工場（認証工場）の廃業理由のうち約24%が人材不足が原因とされており、自動車業界において人材不足は長年にわたる大きな課題の1つです",
+    "url": "https://upty.jp/news/cwa-agent/",
+    "pass": 1
+   },
+   {
+    "quote": "未来と顧客を創造し、ステークホルダーの幸せと成長を追求する",
+    "url": "https://upty.jp/news/cwa-agent/",
+    "pass": 1
+   },
+   {
+    "quote": "日本語の話せる自動車整備士、板金塗装人材、運送ドライバーが半年後に貴社へ入社します！",
+    "url": "https://upty.jp/service/uptyglobal/",
+    "pass": 1
+   },
+   {
+    "quote": "■インドネシア ランプン州に「専門高等学校」を設立予定→",
+    "url": "https://upty.jp/service/uptyglobal/",
+    "pass": 1
+   },
+   {
+    "quote": "未来と顧客を創造し、ステークホルダーの幸せと成長を追求する",
+    "url": "https://upty.jp/service/uptyglobal/",
+    "pass": 1
+   },
+   {
+    "quote": "未来と顧客を創造し、ステークホルダーの幸せと成長を追求する",
+    "url": "https://upty.jp/service/toyowaku/",
+    "pass": 1
+   },
+   {
+    "quote": "初期費用0円で整備工場にエアコン/高速シートシャッターを導入サポートする「Aircle（エアクル）」",
+    "url": "https://upty.jp/service/aircle/",
+    "pass": 1
+   },
+   {
+    "quote": "整備工場快適空間「Aircle」は、当社がプロジェクトリーダーとなり、「",
+    "url": "https://upty.jp/service/aircle/",
+    "pass": 1
+   },
+   {
+    "quote": "ＮＴＴ・ＴＣリース株式会社」と協業した、自動車整備工場向けのサービスです",
+    "url": "https://upty.jp/service/aircle/",
+    "pass": 1
+   },
+   {
+    "quote": "整備工場の空調設備/シャッター導入に関する「費用負担」「作業負担」を軽減し、自動車整備士がより",
+    "url": "https://upty.jp/service/aircle/",
+    "pass": 1
+   },
+   {
+    "quote": "整備工場は、大きな資金を用意する必要がなく、高品質な設備を導入することができます",
+    "url": "https://upty.jp/service/aircle/",
+    "pass": 1
+   },
+   {
+    "quote": "これまで主にトヨタディーラー向けとして提供していましたが、他社からもご要望が多かったことから、全国すべてのメーカーに提供を開始する運びとなりました",
+    "url": "https://upty.jp/service/aircle/",
+    "pass": 1
+   },
+   {
+    "quote": "未来と顧客を創造し、ステークホルダーの幸せと成長を追求する",
+    "url": "https://upty.jp/service/aircle/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車業界専門、整備工場向け業務委託人材提供サービス",
+    "url": "https://upty.jp/service/u-match/",
+    "pass": 1
+   },
+   {
+    "quote": "工場や現場、クライアント先までお伺いして整備・メンテナンス対応をいたします",
+    "url": "https://upty.jp/service/u-match/",
+    "pass": 1
+   },
+   {
+    "quote": "未来と顧客を創造し、ステークホルダーの幸せと成長を追求する",
+    "url": "https://upty.jp/service/u-match/",
+    "pass": 1
+   },
+   {
+    "quote": "全国の整備工場・ディーラー・自動車関連企業を幅広くカバーし、",
+    "url": "https://upty.jp/service/carwork/",
+    "pass": 1
+   },
+   {
+    "quote": "未来と顧客を創造し、ステークホルダーの幸せと成長を追求する",
+    "url": "https://upty.jp/service/carwork/",
+    "pass": 1
+   },
+   {
+    "quote": "未来と顧客を創造し、ステークホルダーの幸せと成長を追求する",
+    "url": "https://upty.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちアプティグローバルは、インドネシアの特定技能人材を中心に「10万人の人材を日本に連れてきて、日本企業の活躍人材にする」というビジョンを掲げ、①人材採用支援、②現地日本語学校/日本国内での日本語教育、③職業訓練校、④P3MI（職業紹介事業者）、⑤トレーニングセンター、⑥専門高等学校（27年開校予定）の運営をおこなっています",
+    "url": "https://upty-global.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "どの地域であっても、何名でも、100％必ず、日本語の話せる自動車整備士、板金塗装人材、運送ドライバーが、半年後に貴社へ入社するものです",
+    "url": "https://upty-global.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "日本で就業後にも、日本語教育の継続はもちろん、自動車整備士３級/２級、特定技能2号（永住権）の取得まで、徹底サポートさせていただいております",
+    "url": "https://upty-global.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "外国籍人材サービス事業（採用・教育・管理）",
+    "url": "https://upty-global.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車整備工場向け 環境整備事業 自動車用品製造・販売",
+    "url": "https://upty-global.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "全国の自動車指定・認証工場 3万店以上",
+    "url": "https://upty-global.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "カーディーラー、民間整備工場、中古車販売店、サービスステーション、カー用品店",
+    "url": "https://upty-global.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "(5) 自動車整備工場向け DX/SDGs 事業",
+    "url": "https://mid-tenshoku.com/agency/a-9364/",
+    "pass": 3
+   },
+   {
+    "quote": "企業からのニーズが高い事業の為、顧客は作りやすく、取引企業は多い",
+    "url": "https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "quote": "オリジナル商品卸や枯渇している整備人材に関して、ビジネス展開をしています",
+    "url": "https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー・製造業(自動車・輸送機)の事業の成長・将来性の口コミ",
+    "url": "https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "quote": "国内外で一定のブランド力と販売基盤があり、今後も自動車メーカーとしての事業継続は期待できると思います",
+    "url": "https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "quote": "車の部品製造だった為、当時は残業や休日出勤などで対応しており安定した工場経営だったと思うが7・8年前の情報です",
+    "url": "https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "quote": "昨今のクリーンエネルギーの需要が高まっている中で、アンモニアに関する先端技術を持っている",
+    "url": "https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "quote": "今後労働人口が減少し、物流現場の省人化・自動化の需要が高まる...",
+    "url": "https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 | アプティアン・ジャパン – 食品・化学業界向けERP",
+    "url": "https://aptean.co.jp/casestudies/",
+    "pass": 3
+   },
+   {
+    "quote": "：顧客情報とその様々な履歴を集約して顧客対応担当者に提供することで顧客対応品質の向上を実現",
+    "url": "https://aptean.co.jp/casestudies/",
+    "pass": 3
+   },
+   {
+    "quote": "：顧客ごとの品質要件対応を実現し、万が一問題が発生した場合にでも原料に至るまでのトレーサビリティを実現",
+    "url": "https://aptean.co.jp/casestudies/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは「IT×マーケティング×セールスで自動車産業を代表する会社を創る」というビジョンを掲げ、主に①自動車業界のお客様に対して製品の販売やマーケティングをおこなう事業②自動車業界専門の人材事業③自動車商品メーカーや部品商向け業務用アプリケーションの自社開発をおこなっています",
+    "url": "https://www.daijob.com/jobs/company/8271",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、自動車業界においてはベンチャー企業の中で顧客数は日本最大級となっています",
+    "url": "https://www.daijob.com/jobs/company/8271",
+    "pass": 3
+   }
+  ],
+  "表彰・認定の記録": [
+   {
+    "quote": "PT.UPTY GLOBAL NETWORK （インドネシア政府認定 職業紹介事業者【P3MI】）",
+    "url": "https://upty.jp/co_overview/",
+    "pass": 1
+   },
+   {
+    "quote": "インドネシア政府認定 職業紹介事業者（P3MI）",
+    "url": "https://upty-global.com/company/",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "自動車業界向けに総合人材サービスを提供する株式会社アプティ（本社：東京都渋谷区、代表取締役：井田秀明）は、業界初（※1）50歳以上の自動車整備士に特化した転職支援サービス『カーワクシニア』を、2026年9月8日に開始しました",
+    "url": "https://upty.jp/news/20261006/",
+    "pass": 1
+   },
+   {
+    "quote": "アプティの自動車業界向け転職・求人サービス",
+    "url": "https://upty.jp/news/20261006/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車業に隣り合っている9つの整備業界向け業務委託人材提供サービス",
+    "url": "https://upty.jp/service/u-match/",
+    "pass": 1
+   },
+   {
+    "quote": "導入事例 | アプティアン・ジャパン – 食品・化学業界向けERP",
+    "url": "https://aptean.co.jp/casestudies/",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "資本金 3億8,000万円（関連会社含む）",
+    "url": "https://upty.jp/news/20261006/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 - 株式会社アプティ — 会社概要 - 株式会社アプティ 株式会社アプティ https://upty.jp > co_overview",
+    "url": "https://upty.jp/co_overview/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社アプティ - ミドルの転職 — 株式 会社アプティ - ミドルの転職 ミドルの転職 https://mid-tenshoku.com > 掲載企業一覧",
+    "url": "https://mid-tenshoku.com/agency/a-9364/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社アプティ の求人・採用情報 - ビズリーチ — 株式 会社アプティ の求人・採用情報 - ビズリーチ ビズリーチ https://www.bizreach.jp > companies",
+    "url": "https://www.bizreach.jp/companies/27305/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社アプティ - 東京都・人材紹介業界の企業情報 — 株式 会社アプティ - 東京都・人材紹介業界の企業情報 Baseconnect https://baseconnect.in > companies",
+    "url": "https://baseconnect.in/companies/bc7900fa-724b-4e04-a78d-7609ed7bc4fb",
+    "pass": 3
+   },
+   {
+    "quote": "https:// upty .jp/ 2025年4月15日更新 — https:// upty .jp/ 2025年4月15日更新 株式会社アプティ PDF https://upty.jp > uploads > 2025/04 > companyprofile",
+    "url": "https://upty.jp/wp-content/uploads/2025/04/companyprofile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アプティ の将来性・業績・ 売上 に関する評判・口コミ一覧（全 ... — アプティ の将来性・業績・ 売上 に関する評判・口コミ一覧（全 ... 就活会議 https://syukatsu-kaigi.jp > post_items > word_mouths",
+    "url": "https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アプティ の企業情報 - バフェット・コード — 株式会社 アプティ の企業情報 - バフェット・コード バフェット・コード https://www.buffett-code.com > company",
+    "url": "https://www.buffett-code.com/company/2t8yurwxwe/",
+    "pass": 3
+   },
+   {
+    "quote": "“決める側”としての視界 社長と 事業 責任者が語る アプティ の未来 — “決める側”としての視界 社長と 事業 責任者が語る アプティ の未来 株式会社アプティ https://recruit.upty.jp > crosstalk > ceo-ryo",
+    "url": "https://recruit.upty.jp/crosstalk/ceo-ryo/",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 | アプティ アン・ジャパン – 食品・化学業界向けERP — 導入事例 | アプティ アン・ジャパン – 食品・化学業界向けERP アプティアン・ジャパン https://aptean.co.jp > casestudies",
+    "url": "https://aptean.co.jp/casestudies/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アプティ ｜株式会社かんざし KANXASHI Corporation — 株式会社 アプティ ｜株式会社かんざし KANXASHI Corporation 株式会社かんざし https://www.kanxashi.co.jp > case",
+    "url": "https://www.kanxashi.co.jp/case/2325/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アプティ との業務提携のお知らせ — 株式会社 アプティ との業務提携のお知らせ 株式会社 タジマ https://www.tjk.co.jp > info > post-17068",
+    "url": "https://www.tjk.co.jp/info/post-17068/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アプティ の求人・企業情報 - Daijob.com — 株式会社 アプティ の求人・企業情報 - Daijob.com Daijob.com https://www.daijob.com > jobs > company",
+    "url": "https://www.daijob.com/jobs/company/8271",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アプティ - 東京カイシャハッケン伝 — 株式会社 アプティ - 東京カイシャハッケン伝 東京カイシャハッケン伝 https://www.kaisyahakken.metro.tokyo.lg.jp > upty",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/company/upty",
+    "pass": 3
+   },
+   {
+    "quote": "アプティ の「企業分析［強み・弱み・展望］」 OpenWork — アプティ の「企業分析［強み・弱み・展望］」 OpenWork OpenWork https://www.openwork.jp > 人材サービス > アプティ",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000000z17mh&q_no=9",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "アプティ （UPTY）【公式】   (@upty_official) / X アプティ （UPTY）【公式】   (@upty_official) / X X https://x.com > upty_official",
+    "url": "https://x.com/upty_official",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アプティ ｜採用アカウント (@recruit_upty) / X 株式会社 アプティ ｜採用アカウント (@recruit_upty) / X X https://x.com > recruit_upty",
+    "url": "https://x.com/recruit_upty",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by アプティ （UPTY）【公式】   (@upty_official) / X Replies by アプティ （UPTY）【公式】   (@upty_official) / X X https://x.com > upty_official > with_replies",
+    "url": "https://x.com/upty_official/with_replies",
+    "pass": 3
+   },
+   {
+    "quote": "アプティ （UPTY）【公式】 - X アプティ （UPTY）【公式】 - X X https://x.com > @upty_official",
+    "url": "https://x.com/upty_official/status/2117863228059664639",
+    "pass": 3
+   },
+   {
+    "quote": "アプティ （ UPTY ）【公式】   (@upty_official) / X アプティ （ UPTY ）【公式】   (@upty_official) / X X https://x.com > upty_official",
+    "url": "https://x.com/upty_official",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アプティ AHR事業部｜自動車業界の転職・採用支援 ... 株式会社 アプティ AHR事業部｜自動車業界の転職・採用支援 ... X https://x.com > @upty2009",
+    "url": "https://x.com/upty2009/status/1843835696949407795",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "齊藤 孝通 - 株式会社 アプティ - LinkedIn 齊藤 孝通 - 株式会社 アプティ - LinkedIn LinkedIn https://jp.linkedin.com > 孝通-齊藤-a23282206",
+    "url": "https://jp.linkedin.com/in/%E5%AD%9D%E9%80%9A-%E9%BD%8A%E8%97%A4-a23282206",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "アプティ スタイル - Facebook アプティ スタイル - Facebook Facebook https://www.facebook.com > ... > Brand > Games/toys",
+    "url": "https://www.facebook.com/p/%E3%82%A2%E3%83%97%E3%83%86%E3%82%A3-%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB-100080637309661/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アプティ | Shibuya-ku Tokyo - Facebook 株式会社 アプティ | Shibuya-ku Tokyo - Facebook Facebook https://www.facebook.com > ... > Internet company",
+    "url": "https://www.facebook.com/upty.jp/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://upty.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upty.jp/news/20240926_workshop/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upty.jp/news/20240925_workshop/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upty.jp/co_overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upty.jp/news/20261006/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upty.jp/news_category/new_product_service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upty.jp/news/cwa-agent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upty.jp/service/uptyglobal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upty.jp/service/toyowaku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upty.jp/service/aircle/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upty.jp/service/u-match/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upty.jp/service/carwork/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upty.jp/service/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://upty-global.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mid-tenshoku.com/agency/a-9364/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buffett-code.com/company/2t8yurwxwe/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/newbusiness/houkokusyo/financeguidance.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://initial.inc/tags/fundraising-articles",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.smartround.com/public/articles/fundraising/fl1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aptean.co.jp/casestudies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanxashi.co.jp/case/2325/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dap-perfect-guide.com/list/apty.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upty-global.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daijob.com/jobs/company/8271",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/upty_official",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/recruit_upty",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/upty_official/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/upty_official/status/2117863228059664639",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E5%AD%9D%E9%80%9A-%E9%BD%8A%E8%97%A4-a23282206",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/%E3%82%A2%E3%83%97%E3%83%86%E3%82%A3-%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB-100080637309661/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/upty.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/upty_official",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/upty2009/status/1843835696949407795",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アプティ 会社概要 資本金 設立",
+   "results": [
+    "https://upty.jp/co_overview/",
+    "https://upty-global.com/company/",
+    "https://mid-tenshoku.com/agency/a-9364/",
+    "https://www.bizreach.jp/companies/27305/",
+    "https://baseconnect.in/companies/bc7900fa-724b-4e04-a78d-7609ed7bc4fb",
+    "https://www.readytofashion.jp/companies/1911170087",
+    "https://prtimes.jp/main/html/rd/p/000000001.000165026.html",
+    "https://www.onecareer.jp/companies/53170",
+    "https://upty.jp/wp-content/uploads/2025/04/companyprofile.pdf",
+    "https://houjin.goo.to/corporations/6011001059762"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "アプティ 事業内容 売上",
+   "results": [
+    "https://upty.jp/wp-content/uploads/2025/04/companyprofile.pdf",
+    "https://syukatsu-kaigi.jp/companies/162815/post_items/6/word_mouths",
+    "https://www.buffett-code.com/company/2t8yurwxwe/",
+    "https://upty-global.com/company/",
+    "https://recruit.upty.jp/crosstalk/ceo-ryo/",
+    "https://prtimes.jp/main/html/rd/p/000000038.000026929.html",
+    "https://www.bizreach.jp/companies/27305/",
+    "https://en-gage.net/upty_saiyo/",
+    "https://upty.jp/co_overview/",
+    "https://jobcatalog.yahoo.co.jp/company/2002247890/information/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "アプティ 資金調達 株主",
+   "results": [
+    "https://www.meti.go.jp/policy/newbusiness/houkokusyo/financeguidance.pdf",
+    "https://initial.inc/tags/fundraising-articles",
+    "https://jp.smartround.com/public/articles/fundraising/fl1",
+    "https://japan.plugandplaytechcenter.com/all-insights/blog/2025/05-28-equityfinance",
+    "https://www.apollo.com/content/dam/apolloaem/japan/insights/bloomberg-big-take-japanese-final.pdf",
+    "https://www.appliedintuition.com/ja/blog/series-f",
+    "https://www.youtube.com/watch?v=GP_XTIQgLNQ",
+    "https://signifiant.jp/articles/mothers-post-ipo/",
+    "https://www.nikkei.com/article/DGXZQOUC125M20S6A810C2000000/",
+    "https://catr.jp/companies/6fea2/152754"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "アプティ 導入事例",
+   "results": [
+    "https://aptean.co.jp/casestudies/",
+    "https://www.kanxashi.co.jp/case/2325/",
+    "https://www.dap-perfect-guide.com/list/apty.html",
+    "https://www.tjk.co.jp/info/post-17068/",
+    "https://orit-corp.com/case-study/upty/",
+    "https://upty.jp/news/260128/",
+    "https://www.appliedintuition.com/ja/case-studies",
+    "https://tohma.net/corporate/8892/",
+    "https://www.appguard.co.jp/case",
+    "https://aptean.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "アプティ 主要取引先",
+   "results": [
+    "https://upty.jp/co_overview/",
+    "https://upty-global.com/company/",
+    "https://www.daijob.com/jobs/company/8271",
+    "https://www.kaisyahakken.metro.tokyo.lg.jp/company/upty",
+    "https://www.openwork.jp/company_answer.php?m_id=a0C1000000z17mh&q_no=9",
+    "https://en-hyouban.com/company/10200101174/23/",
+    "https://www.tjk.co.jp/info/post-17068/",
+    "https://compalyze.co.jp/company/3011001163807",
+    "https://x.com/upty_official",
+    "https://www.aptytoys.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com アプティ",
+   "results": [
+    "https://note.com/jiro_ws/n/nd8b9bdc399bd",
+    "https://note.com/autisia",
+    "https://note.com/sankakuyama/n/n30271b7b8252",
+    "https://note.com/miyaichi/n/n8d2b9f2a5c4d",
+    "https://note.com/miyaichi/n/n05c4e48cb380",
+    "https://note.com/m_kakudo/n/n500dcd00e7a7",
+    "https://note.com/magic_sorrel5329/n/n85c525a6a6eb",
+    "https://note.com/autisia/n/n9c8081855274",
+    "https://note.com/mnmnmnmnmm/n/n7b5d0ac87da2",
+    "https://note.com/autisia/n/n4e63d3e63800"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com アプティ",
+   "results": [
+    "https://x.com/upty_official",
+    "https://x.com/recruit_upty",
+    "https://x.com/upty_official/with_replies",
+    "https://x.com/upty_official/status/2117863228059664639",
+    "https://x.com/upty_official/status/2113455660650381472",
+    "https://x.com/upty_official/status/2115985529359798439",
+    "https://x.com/upty2009",
+    "https://x.com/upty_official/status/2115271459472027993",
+    "https://x.com/uptyglobal",
+    "https://x.com/upty_official/status/2119643164642591109"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:linkedin.com アプティ",
+   "results": [
+    "https://www.linkedin.com/company/apty",
+    "https://www.linkedin.com/company/hiapti",
+    "https://www.linkedin.com/products/apty/",
+    "https://jp.linkedin.com/in/%E5%AD%9D%E9%80%9A-%E9%BD%8A%E8%97%A4-a23282206",
+    "https://www.linkedin.com/company/apti-business-solutions",
+    "https://www.linkedin.com/in/aptimorada",
+    "https://za.linkedin.com/company/apti-hire",
+    "https://hk.linkedin.com/company/apti",
+    "https://in.linkedin.com/in/sandsravi",
+    "https://www.linkedin.com/in/kevinprimat"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:facebook.com アプティ",
+   "results": [
+    "https://www.facebook.com/p/%E3%82%A2%E3%83%97%E3%83%86%E3%82%A3-%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB-100080637309661/",
+    "https://www.facebook.com/apty.io/",
+    "https://www.facebook.com/aptytoys/",
+    "https://www.facebook.com/upty.jp/",
+    "https://www.facebook.com/61578753397837/posts/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%E3%82%AA%E3%83%BC%E3%83%88%E6%A7%98-%E5%85%A5%E7%A4%BE%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%83%97%E3%83%86%E3%82%A3%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%81%A7%E3%81%99%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%E3%82%AA%E3%83%BC%E3%83%88%E6%A7%98%E5%B1%B1%E6%A2%A8%E7%9C%8C%E5%8D%97%E9%83%BD%E7%95%99%E9%83%A1%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E6%B8%A1%E8%BE%BA%E5%89%9B%E5%BF%97%E6%A7%98%E3%81%AB%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E4%BA%BA%E6%9D%90%E3%82%92%E6%8E%A1%E7%94%A8%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D/122184269654958446/",
+    "https://www.facebook.com/p/%E3%82%A2%E3%83%97%E3%83%86%E3%82%A3%E3%81%AE%E6%95%B4%E5%82%99%E5%A3%AB%E6%B4%BE%E9%81%A3-61576626367236/",
+    "https://www.facebook.com/Response.since1999/posts/%E5%87%BA%E5%BC%B5%E6%95%B4%E5%82%99%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E6%89%8B%E3%81%8C%E3%81%91%E3%82%8B%E3%82%A2%E3%83%97%E3%83%86%E3%82%A3%E3%81%AF%E9%9B%BB%E5%8B%95%E3%83%90%E3%82%A4%E3%82%AF%E3%81%AE%E9%96%8B%E7%99%BA%E8%B2%A9%E5%A3%B2%E3%82%92%E8%A1%8C%E3%81%86%E4%B8%89%E5%B4%8E%E6%9C%AA%E6%9D%A5%E9%9B%BB%E5%AD%90%E3%81%A8%E6%A5%AD%E5%8B%99%E5%A7%94%E8%A8%97%E5%A5%91%E7%B4%84%E3%82%92%E7%B7%A0%E7%B5%90%E3%81%97%E3%81%9F%E3%81%A8%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%9F/1502959448529748/",
+    "https://www.facebook.com/saasseoagency.official/",
+    "https://www.facebook.com/apti.aptikom/",
+    "https://www.facebook.com/p/アプティ-スタイル-100080637309661/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "アプティ note 社長",
+   "results": [
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://note.com/sadaaki",
+    "https://diamond.jp/articles/-/388572",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://x.com/sadaaki",
+    "https://note.com/athree3/m/m5683a233ce9c",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "アプティ X 投稿",
+   "results": [
+    "https://x.com/upty_official",
+    "https://upty.jp/ceo_message/",
+    "https://syukatsu-kaigi.jp/companies/162815/word_mouths",
+    "https://x.com/upty2009/status/1843835696949407795",
+    "https://www.youtube.com/watch?v=n3V5ZP8RxaY",
+    "https://kuroco.app/ja/docs/tutorials/setting-up-twitter-integration/",
+    "https://uravation.com/media/wordpress-x-auto-post-guide-2026/",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000z17mh",
+    "https://qiita.com/free-honda/items/c8d72698484b5914d30c",
+    "https://help.x.com/ja/using-x/how-to-post"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部21頁・検索11回）"
+ }
+}

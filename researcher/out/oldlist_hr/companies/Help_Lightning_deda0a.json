@@ -1,0 +1,1414 @@
+{
+ "name": "Help Lightning",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜AI送信済み",
+ "researched_at": "2026-11-10T14:45:44.567674+00:00",
+ "official_url": "https://www.helplightning.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$1.6B",
+    "url": "https://getlatka.com/companies/help-lightning",
+    "pass": 3
+   },
+   {
+    "label": "1. Seed Round",
+    "value": "29-Aug-2012 $850K $850K  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/59220-01",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Help Lightning is a collaboration platform that connects experts, field teams, and customers to see and solve physical problems in real time.",
+    "url": "https://helplightning.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Help Threads and Procedures",
+    "url": "https://helplightning.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Live Video Guidance and Help Threads",
+    "url": "https://helplightning.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Live video sessions allow experts to see exactly what the other user sees — guiding the work live: freezing a frame, zooming in, annotating on screen, capturing a photo or recording for the call record, and even reaching into the video using Help Lightning's patented Merged Reality.",
+    "url": "https://helplightning.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover Help Lightning's full suite of video call tools.",
+    "url": "https://helplightning.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A Help Thread is one continuous, secure conversation that connects every support interaction — chat and live video, internal and external — in a single place, from the first request all the way to resolution. Nothing gets lost between channels, and nothing starts over.",
+    "url": "https://helplightning.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about Help Threads.",
+    "url": "https://helplightning.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Generate a Procedure straight from your existing manuals and SOPs, then let anyone follow it step by step. They can add photos, videos, readings, and sign-offs as proof of the work. Experts can join if someone gets stuck and needs assistance.",
+    "url": "https://helplightning.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about Procedures.",
+    "url": "https://helplightning.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Thread Tools use AI to help your team move faster and get it right the first time — pulling data off a nameplate, summarizing a manual, recapping a conversation, or drafting a procedure from scratch. Nothing gets used until a person reviews it.",
+    "url": "https://helplightning.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tools that summarize conversations, analyze photos, review documents, find answers, draft Procedures, and turn Help Threads into reusable knowledge.",
+    "url": "https://helplightning.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Take a photo of the equipment and identify the model number, serial number, and any visible defects. The captured information is reviewed and approved before being shared.",
+    "url": "https://helplightning.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Create repeatable procedures from your own documentation or SOPs for self-help, inspections, or expert-guided processes.",
+    "url": "https://helplightning.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Available to remote experts and technicians in the field. Self-help provides troubleshooting suggestions from your knowledge base.",
+    "url": "https://helplightning.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Threads become a searchable database of previous work, including the symptoms, possible solutions, and the fix that worked.",
+    "url": "https://helplightning.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Technicians get live help and training in the field, instead of waiting on a specialist’s travel.",
+    "url": "https://helplightning.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "How Ricoh lined up technicians and experts on the same live view — the craft, not a second product.",
+    "url": "https://helplightning.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Preventive and planned shutdown maintenance",
+    "url": "https://helplightning.com/use-cases/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Fewer repeat issues (recurring fixes become reusable Procedures)",
+    "url": "https://helplightning.com/use-cases/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Improved regulatory and quality compliance",
+    "url": "https://helplightning.com/use-cases/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Product · Help Lightning",
+    "url": "https://helplightning.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "Help Lightning brings experts, field teams, and customers into one Help Thread — live video, chat, Procedures, and AI-powered tools — to solve physical problems together and keep a record of how it was done.",
+    "url": "https://helplightning.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "Live annotations, Merged Reality overlays, freeze-frame, zoom, and recording — everything you need in the video session to provide remote guidance.",
+    "url": "https://helplightning.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "Pause the video stream to capture a high-resolution image.",
+    "url": "https://helplightning.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "Overlay the remote expert's hands directly into the live video feed, as if you are working side by side.",
+    "url": "https://helplightning.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "Help Threads can be used by internal teams to collaborate with the right experts at the right time, or with customers outside your organization to chat, share images, videos, and documentation with no app download required.",
+    "url": "https://helplightning.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "One professional channel",
+    "url": "https://helplightning.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "Teams often patch together consumer-grade tools to solve problems remotely. Help Threads bring that work into one professional interface, governed by the enterprise.",
+    "url": "https://helplightning.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "Help Threads track outcomes so organizations can visualize and report on support metrics in real time, and measure how much the team uses it, who adopts it, and what it returns.",
+    "url": "https://helplightning.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "Move between chat and video calls until the issue is resolved.",
+    "url": "https://helplightning.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "Share photos, videos, and files",
+    "url": "https://helplightning.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "Attach photos, videos, and files directly to the thread.",
+    "url": "https://helplightning.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "Everyone using a procedure follows the same proven steps in the same order.",
+    "url": "https://helplightning.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "Every step, photo, video, and reading is captured as the work happens.",
+    "url": "https://helplightning.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "The knowledge that used to live in one expert's head gets written into a Procedure once and reused.",
+    "url": "https://helplightning.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "Users can add participants for additional help during a procedure.",
+    "url": "https://helplightning.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "Photo, video, and signature capture",
+    "url": "https://helplightning.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "Every step can require proof of work, automatically timestamped and attached to the record.",
+    "url": "https://helplightning.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "Experts and admins can watch progress as it happens and collaborate as needed.",
+    "url": "https://helplightning.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "Every update is tracked, so field teams are never working from an outdated procedure.",
+    "url": "https://helplightning.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "Completed procedures generate a shareable report.",
+    "url": "https://helplightning.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "Get it right the first time. Tools that summarize conversations, analyze photos, review documents, find answers, draft Procedures, and turn Help Threads into reusable knowledge.",
+    "url": "https://helplightning.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "Skims a PDF manual and surfaces the summary, the step-by-step procedure, and the parts you need.",
+    "url": "https://helplightning.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "After a Thread closes, identifies the symptom, the steps taken, and the fix that worked. A person reviews and approves it before it is reused.",
+    "url": "https://helplightning.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "Writes a first draft of a new procedure from an existing PDF, or from scratch.",
+    "url": "https://helplightning.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "How Ricoh lined up technicians and experts on the same live view — the craft, not a second product.",
+    "url": "https://helplightning.com/success-stories/case-study-ricoh/",
+    "pass": 1
+   },
+   {
+    "quote": "Help Lightning’s patented technology uses Merged Reality to combine two real-time video streams into a collaborative work environment shared between a remote expert and an on-site technician.",
+    "url": "https://helplightning.com/success-stories/case-study-ricoh/",
+    "pass": 1
+   },
+   {
+    "quote": "Ricoh is a global technology company with an entrepreneurial spirit. Since its founding in 1936, the company launched the first generation of fax machines and has since transitioned into digital copiers and other collaboration tools and hardware.",
+    "url": "https://helplightning.com/success-stories/case-study-ricoh/",
+    "pass": 1
+   },
+   {
+    "quote": "Though hardware is a critical part of Ricoh’s legacy, its next evolutionary step was to transition from a hardware-centric enterprise to one focused on high-quality service and customer experience. This would include adoption of more sophisticated technologies, both physical and digital.",
+    "url": "https://helplightning.com/success-stories/case-study-ricoh/",
+    "pass": 1
+   },
+   {
+    "quote": "An analysis found that customers’ print volumes were decreasing 30% year over year. As customers increasingly used digital tools for information exchange, Ricoh’s need for primarily hardware-oriented technicians declined.",
+    "url": "https://helplightning.com/success-stories/case-study-ricoh/",
+    "pass": 1
+   },
+   {
+    "quote": "The company set out to reshape its service teams for customers’ new needs. It asked, “What if we trained our teams to provide IT-related services?” Each technician already had some level of IT industry certification and substantial customer service experience. Transforming the service organization would require additional certifications and a new range of service-oriented digital technologies.",
+    "url": "https://helplightning.com/success-stories/case-study-ricoh/",
+    "pass": 1
+   },
+   {
+    "quote": "Ricoh also re-engineered the support process for technicians, moving beyond the traditional practice of calling a centralized help desk far from the job site. In the past, an operator might not have been a functional expert and could put technicians on hold while gathering resources, delaying repairs and inconveniencing customers.",
+    "url": "https://helplightning.com/success-stories/case-study-ricoh/",
+    "pass": 1
+   },
+   {
+    "quote": "The new process would connect technicians with the right resources at the right time and in the right context. Help Lightning became a central part of that process.",
+    "url": "https://helplightning.com/success-stories/case-study-ricoh/",
+    "pass": 1
+   },
+   {
+    "quote": "Ricoh gave its hardware-trained technicians the opportunity to become fully trained and certified in IT. The new approach combined reactive IT support, scheduled office support, and a hybrid of the two using Help Lightning’s Merged Reality.",
+    "url": "https://helplightning.com/success-stories/case-study-ricoh/",
+    "pass": 1
+   },
+   {
+    "quote": "These business units created value for customers through improved service and illustrated Ricoh’s commitment to leading-edge technologies.",
+    "url": "https://helplightning.com/success-stories/case-study-ricoh/",
+    "pass": 1
+   },
+   {
+    "quote": "“The key message to our clients is, we understand what their ROI targets are,” says Edward Krzysik, Director, Service Programs at Ricoh. “If we can put in the right resources, technology, processes, and best practices, we can help them achieve ROI at a much faster pace.”",
+    "url": "https://helplightning.com/success-stories/case-study-ricoh/",
+    "pass": 1
+   },
+   {
+    "quote": "1990 — Introduced the fastest digital color printer at 15 pages per minute.",
+    "url": "https://helplightning.com/success-stories/case-study-ricoh/",
+    "pass": 1
+   },
+   {
+    "quote": "2018 — Introduced Ricoh’s Print Platform Cloud Service.",
+    "url": "https://helplightning.com/success-stories/case-study-ricoh/",
+    "pass": 1
+   },
+   {
+    "quote": "Ricoh’s process begins with technicians in the field. A technician launches a service call through an app, Twitter, text, or phone. The call enters a queue in Ricoh Express Support, the company’s centralized business group.",
+    "url": "https://helplightning.com/success-stories/case-study-ricoh/",
+    "pass": 1
+   },
+   {
+    "quote": "Team members select service calls based on their experience and functional expertise. Each call goes to the person best equipped to handle that technology or product for the customer.",
+    "url": "https://helplightning.com/success-stories/case-study-ricoh/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Available to remote experts and technicians in the field. Self-help provides troubleshooting suggestions from your knowledge base.",
+    "url": "https://helplightning.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Technicians get live help and training in the field, instead of waiting on a specialist’s travel.",
+    "url": "https://helplightning.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "How Ricoh lined up technicians and experts on the same live view — the craft, not a second product.",
+    "url": "https://helplightning.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing · Help Lightning",
+    "url": "https://helplightning.com/use-cases/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Factory acceptance testing",
+    "url": "https://helplightning.com/use-cases/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Simple but powerful controls allow agents, technicians, and customers to collaborate.",
+    "url": "https://helplightning.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "Help Threads can be used by internal teams to collaborate with the right experts at the right time, or with customers outside your organization to chat, share images, videos, and documentation with no app download required.",
+    "url": "https://helplightning.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "How Ricoh lined up technicians and experts on the same live view — the craft, not a second product.",
+    "url": "https://helplightning.com/success-stories/case-study-ricoh/",
+    "pass": 1
+   },
+   {
+    "quote": "How Ricoh’s teams of technicians and experts aligned Help Lightning with their successful, service-focused digital transformation.",
+    "url": "https://helplightning.com/success-stories/case-study-ricoh/",
+    "pass": 1
+   },
+   {
+    "quote": "The company now has a growing focus on cloud and IT. In 2019, Ricoh had 3,400 technicians in the field in the United States alone, tasked with everything from hardware repairs to work in sophisticated IT and network server environments.",
+    "url": "https://helplightning.com/success-stories/case-study-ricoh/",
+    "pass": 1
+   },
+   {
+    "quote": "Ricoh’s strategic partnership with Help Lightning enabled a better service experience for both customers and technicians, which in turn drove better customer outcomes.",
+    "url": "https://helplightning.com/success-stories/case-study-ricoh/",
+    "pass": 1
+   },
+   {
+    "quote": "An analysis found that customers’ print volumes were decreasing 30% year over year. As customers increasingly used digital tools for information exchange, Ricoh’s need for primarily hardware-oriented technicians declined.",
+    "url": "https://helplightning.com/success-stories/case-study-ricoh/",
+    "pass": 1
+   },
+   {
+    "quote": "Ricoh also re-engineered the support process for technicians, moving beyond the traditional practice of calling a centralized help desk far from the job site. In the past, an operator might not have been a functional expert and could put technicians on hold while gathering resources, delaying repairs and inconveniencing customers.",
+    "url": "https://helplightning.com/success-stories/case-study-ricoh/",
+    "pass": 1
+   },
+   {
+    "quote": "The new process would connect technicians with the right resources at the right time and in the right context. Help Lightning became a central part of that process.",
+    "url": "https://helplightning.com/success-stories/case-study-ricoh/",
+    "pass": 1
+   },
+   {
+    "quote": "Ricoh gave its hardware-trained technicians the opportunity to become fully trained and certified in IT. The new approach combined reactive IT support, scheduled office support, and a hybrid of the two using Help Lightning’s Merged Reality.",
+    "url": "https://helplightning.com/success-stories/case-study-ricoh/",
+    "pass": 1
+   },
+   {
+    "quote": "Ricoh’s process begins with technicians in the field. A technician launches a service call through an app, Twitter, text, or phone. The call enters a queue in Ricoh Express Support, the company’s centralized business group.",
+    "url": "https://helplightning.com/success-stories/case-study-ricoh/",
+    "pass": 1
+   },
+   {
+    "quote": "Ricoh began accelerating its partnership with Help Lightning in December 2018, launching Help Lightning’s Merged Reality — a next-generation technology that “has been a game changer for us,” says Krzysik. Starting with 35 employees, adoption “grew like wildfire,” especially in collaboration between IT-specialized technicians and Express Support teams.",
+    "url": "https://helplightning.com/success-stories/case-study-ricoh/",
+    "pass": 1
+   },
+   {
+    "quote": "Ricoh set up groups within Help Lightning that include subject matter experts working in a network environment. Technicians can quickly identify the right expert, typically a peer, connect through Help Lightning, and get to work. In practice, the technology puts a functional tier-3 operator in the room with a tier-1 or tier-2 technician on site.",
+    "url": "https://helplightning.com/success-stories/case-study-ricoh/",
+    "pass": 1
+   },
+   {
+    "quote": "Technicians get live help and training in the field, instead of waiting on a specialist’s travel.",
+    "url": "https://helplightning.com/success-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "How Ricoh lined up technicians and experts on the same live view — the craft, not a second product.",
+    "url": "https://helplightning.com/success-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "Case study · Boston Scientific",
+    "url": "https://helplightning.com/success-stories/boston-scientific/",
+    "pass": 1
+   },
+   {
+    "quote": "Technicians get live help and training in the field, instead of waiting on a specialist’s travel.",
+    "url": "https://helplightning.com/success-stories/bunn/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase Profitability with Efficient Use of Technicians’ Hours",
+    "url": "https://helplightning.com/success-stories/bunn/",
+    "pass": 1
+   },
+   {
+    "quote": "BUNN technicians could not bill for activities such as training, meetings, cleaning equipment, and doing inventory. Using Help Lightning, the company can be smarter with technician time to increase billable hours.",
+    "url": "https://helplightning.com/success-stories/bunn/",
+    "pass": 1
+   },
+   {
+    "quote": "“We’re seeing reduced on-site time for our technicians, which has improved their ability to be better utilized and complete more work orders per day. All of that is helpful not only in building our top-line revenue but also in reducing our bottom-line costs.”",
+    "url": "https://helplightning.com/success-stories/bunn/",
+    "pass": 1
+   },
+   {
+    "quote": "In a 2018 survey, technicians expressed a need for more mobile solutions, alongside easier knowledge base access, customer service history, live video support, and other types of training materials. Help Lightning allows BUNN to provide technicians with the tools they require for optimal use of their time and to help enhance their skill sets.",
+    "url": "https://helplightning.com/success-stories/bunn/",
+    "pass": 1
+   },
+   {
+    "quote": "As a global manufacturer of dispensed beverage equipment, BUNN-O-Matic Corporation required a solution that optimizes field technician work hours.",
+    "url": "https://helplightning.com/success-stories/bunn/",
+    "pass": 1
+   },
+   {
+    "quote": "Help Lightning allows field technicians to dedicate more time to high-value work, and also enables them receive dynamic real-time training and support while in the field.",
+    "url": "https://helplightning.com/success-stories/bunn/",
+    "pass": 1
+   },
+   {
+    "quote": "Effective Use of Technicians’ Time: Technicians can work faster and smarter, minimizing downtime.",
+    "url": "https://helplightning.com/success-stories/bunn/",
+    "pass": 1
+   },
+   {
+    "quote": "Better technician support in the field: With Help Lightning, technicians can instantly engage expert help from the field.",
+    "url": "https://helplightning.com/success-stories/bunn/",
+    "pass": 1
+   },
+   {
+    "quote": "Case study · Fresenius Medical Care",
+    "url": "https://helplightning.com/success-stories/fresenius-medical/",
+    "pass": 1
+   },
+   {
+    "quote": "“Help Lightning is a great training tool for new technicians. They tell me they get more from a 30-minute Help Lightning call than 30-minutes of in person class. I’m able to impart more information in a shorter period of time.”",
+    "url": "https://helplightning.com/success-stories/fresenius-medical/",
+    "pass": 1
+   },
+   {
+    "quote": "“Help Lightning makes it possible for me to feel as if I’m in the clinic with the machines. When there’s a problem, I experience how the machine is responding, and I can demonstrate exactly what to do. The technicians I work with are so excited by how easy it is to resolve problems with Help Lightning.”",
+    "url": "https://helplightning.com/success-stories/fresenius-medical/",
+    "pass": 1
+   },
+   {
+    "quote": "Case study · Oxford Instruments",
+    "url": "https://helplightning.com/success-stories/oxford-nanoanalysis/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Diversey achieves faster first-time fixes, reduced truck rolls, and stronger customer relationships with Help Lightning | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/help-lightning/case-study/diversey-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Diversey achieves faster first-time fixes, reduced truck rolls, and stronger customer relationships with Help Lightning",
+    "url": "https://www.casestudies.com/company/help-lightning/case-study/diversey-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Diversey - Customer Case Study",
+    "url": "https://www.casestudies.com/company/help-lightning/case-study/diversey-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Open case study document...",
+    "url": "https://www.casestudies.com/company/help-lightning/case-study/diversey-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/help-lightning/case-study/diversey-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Silver Tsunami cuts technician training time 62% and boosts first‑time fixes with Help Lightning | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/help-lightning/case-study/silver-tsunami-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Silver Tsunami cuts technician training time 62% and boosts first‑time fixes with Help Lightning",
+    "url": "https://www.casestudies.com/company/help-lightning/case-study/silver-tsunami-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Silver Tsunami - Customer Case Study",
+    "url": "https://www.casestudies.com/company/help-lightning/case-study/silver-tsunami-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Silver Tsunami, a field-service company confronting the industry “silver tsunami” of retiring technicians, faced shrinking on-site expertise, rising training costs, longer downtimes, and falling first-time fix rates. To bridge the gap, they adopted Help Lightning’s virtual expertise software (Virtual Expertise) to connect inexperienced field techs with senior experts remotely.",
+    "url": "https://www.casestudies.com/company/help-lightning/case-study/silver-tsunami-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Help Lightning’s Virtual Expertise let remote experts guide new technicians in real time, cutting initial training from four months to six weeks (a 62.5% reduction), enabling same-day fixes, improving uptime and first-time fix rates, and boosting customer satisfaction while extending workforce capacity and reducing training-related opportunity costs.",
+    "url": "https://www.casestudies.com/company/help-lightning/case-study/silver-tsunami-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Open case study document...",
+    "url": "https://www.casestudies.com/company/help-lightning/case-study/silver-tsunami-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/help-lightning/case-study/silver-tsunami-customer-case-study",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "A native app. The Thread, the live view, and the work, on the phone they already carry.",
+    "url": "https://helplightning.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "Already well known for hardware, Ricoh has transitioned into a service-led business model. The company sought new business lines and revenue-generating opportunities that would support this services transformation.",
+    "url": "https://helplightning.com/success-stories/case-study-ricoh/",
+    "pass": 1
+   },
+   {
+    "quote": "Ricoh’s innovations in service delivery are part of a strategy called “The Ricoh Way.” In June 2019, Ricoh partnered with Help Lightning to address four main points of this strategy: innovation in service delivery; “What if?”; innovation — The Ricoh Way; and transformation through strategic partnerships.",
+    "url": "https://helplightning.com/success-stories/case-study-ricoh/",
+    "pass": 1
+   },
+   {
+    "quote": "Though hardware is a critical part of Ricoh’s legacy, its next evolutionary step was to transition from a hardware-centric enterprise to one focused on high-quality service and customer experience. This would include adoption of more sophisticated technologies, both physical and digital.",
+    "url": "https://helplightning.com/success-stories/case-study-ricoh/",
+    "pass": 1
+   },
+   {
+    "quote": "The new process would connect technicians with the right resources at the right time and in the right context. Help Lightning became a central part of that process.",
+    "url": "https://helplightning.com/success-stories/case-study-ricoh/",
+    "pass": 1
+   },
+   {
+    "quote": "Ricoh began accelerating its partnership with Help Lightning in December 2018, launching Help Lightning’s Merged Reality — a next-generation technology that “has been a game changer for us,” says Krzysik. Starting with 35 employees, adoption “grew like wildfire,” especially in collaboration between IT-specialized technicians and Express Support teams.",
+    "url": "https://helplightning.com/success-stories/case-study-ricoh/",
+    "pass": 1
+   },
+   {
+    "quote": "Help Lightning made Ricoh personnel’s transition to the new technology easy. Regular meetings with Help Lightning, shared best practices, and a consistent focus on change management helped Ricoh explain the “why” behind the technology. Employees established expertise after using the tool only a few times.",
+    "url": "https://helplightning.com/success-stories/case-study-ricoh/",
+    "pass": 1
+   },
+   {
+    "quote": "Ricoh deployed Help Lightning to multiple business units, including administrative teams, sales teams, and teams delivering day-to-day customer service. At the time of the story, almost 1,500 Ricoh employees used Help Lightning.",
+    "url": "https://helplightning.com/success-stories/case-study-ricoh/",
+    "pass": 1
+   },
+   {
+    "quote": "Through Help Lightning, Ricoh became not just a service team but a business partner to its customers. Ricoh marketed Help Lightning directly to customers and during sales engagements as part of its commitment to advanced, service-oriented technology.",
+    "url": "https://helplightning.com/success-stories/case-study-ricoh/",
+    "pass": 1
+   },
+   {
+    "quote": "“We’re seeing reduced on-site time for our technicians, which has improved their ability to be better utilized and complete more work orders per day. All of that is helpful not only in building our top-line revenue but also in reducing our bottom-line costs.”",
+    "url": "https://helplightning.com/success-stories/bunn/",
+    "pass": 1
+   },
+   {
+    "quote": "“Most of what we work on is equipment that generates revenue for our customers, so when it’s down, they’re not generating any revenue. The faster we get it up, the more work time they’ll have to generate revenue, and they become much happier.”",
+    "url": "https://helplightning.com/success-stories/bunn/",
+    "pass": 1
+   },
+   {
+    "quote": "Retain experienced employees: Specialists who’ve accumulated decades of experience can continue working, even if they no longer travel to customers.",
+    "url": "https://helplightning.com/success-stories/fresenius-medical/",
+    "pass": 1
+   },
+   {
+    "quote": "Global company uses Help Lightning to deliver customer support that saves costs, increases revenue, and delivers greater value to customers.",
+    "url": "https://helplightning.com/success-stories/oxford-nanoanalysis/",
+    "pass": 1
+   },
+   {
+    "quote": "Dan Turner is Global Service Business Manager at Oxford Instruments NanoAnalysis. His team uses Help Lightning to provide remote expert guidance through a service it calls Live Assist. He shares how the team adds value to its support model while growing revenue.",
+    "url": "https://helplightning.com/success-stories/oxford-nanoanalysis/",
+    "pass": 1
+   },
+   {
+    "quote": "“Customers think it’s otherworldly when they see the images projected in 3D right on their screen. It’s a greater level of intimacy compared to a phone call or email, and that translates to a minimal time to repair. There is no more guesswork. If an engineer must go on site, they are able to fix the issue in one visit. That gives customers maximum uptime, and that’s more revenue for the customer.”",
+    "url": "https://helplightning.com/success-stories/oxford-nanoanalysis/",
+    "pass": 1
+   },
+   {
+    "quote": "Boost Revenue While Adding Value",
+    "url": "https://helplightning.com/success-stories/oxford-nanoanalysis/",
+    "pass": 1
+   },
+   {
+    "quote": "Remote expert guidance with Help Lightning enables Oxford Instruments to serve more customers faster while reducing travel and engineer downtime. With the onset of the COVID-19 pandemic, call volumes through Live Assist surged, translating to a 19% increase in revenue.",
+    "url": "https://helplightning.com/success-stories/oxford-nanoanalysis/",
+    "pass": 1
+   },
+   {
+    "quote": "Help Lightning powers the Live Assist remote expert guidance service for Oxford Instruments NanoAnalysis, enabling the company to provide better, faster support while increasing revenue at higher margins.",
+    "url": "https://helplightning.com/success-stories/oxford-nanoanalysis/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase revenue with higher margins: Offer a higher level of service while reducing travel-related costs and downtime.",
+    "url": "https://helplightning.com/success-stories/oxford-nanoanalysis/",
+    "pass": 1
+   },
+   {
+    "quote": "Darren Baker, Technical Author, Trainer, and Enterprise Administrator for Merged Reality at Unisys, explains why the global IT solutions provider uses Help Lightning to expand the availability of internal experts, elevate the knowledge of customer-facing engineers, and deliver high-touch customer care.",
+    "url": "https://helplightning.com/success-stories/unisys/",
+    "pass": 1
+   },
+   {
+    "quote": "Help Lightning Revenue 2024: $3.2M Est., $1.6B Raised",
+    "url": "https://getlatka.com/companies/help-lightning",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, valuation & funding",
+    "url": "https://getlatka.com/companies/help-lightning",
+    "pass": 3
+   },
+   {
+    "quote": "Help Lightning revenue",
+    "url": "https://getlatka.com/companies/help-lightning",
+    "pass": 3
+   },
+   {
+    "quote": "Help Lightning has not published its revenue. GetLatka estimates it at about $3.2M a year (October 2024).",
+    "url": "https://getlatka.com/companies/help-lightning",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/help-lightning",
+    "pass": 3
+   },
+   {
+    "quote": "Help Lightning CEO, founders & employees",
+    "url": "https://getlatka.com/companies/help-lightning",
+    "pass": 3
+   },
+   {
+    "quote": "Gary York founded Help Lightning in 2010 and runs it as CEO. Help Lightning had 31 employees (October 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/help-lightning",
+    "pass": 3
+   },
+   {
+    "quote": "What is Help Lightning's revenue?",
+    "url": "https://getlatka.com/companies/help-lightning",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Help Lightning's revenue at about",
+    "url": "https://getlatka.com/companies/help-lightning",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Help Lightning have?",
+    "url": "https://getlatka.com/companies/help-lightning",
+    "pass": 3
+   },
+   {
+    "quote": "employees in October 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/help-lightning",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/help-lightning",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/help-lightning",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/help-lightning",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/59220-01",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions (1)",
+    "url": "https://pitchbook.com/profiles/company/59220-01",
+    "pass": 3
+   },
+   {
+    "quote": "Help Lightning’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/59220-01",
+    "pass": 3
+   },
+   {
+    "quote": "To view Help Lightning’s complete acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/59220-01",
+    "pass": 3
+   },
+   {
+    "quote": "Help Lightning has 18 total employees.",
+    "url": "https://pitchbook.com/profiles/company/59220-01",
+    "pass": 3
+   },
+   {
+    "quote": "What is Help Lightning’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/59220-01",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Help Lightning is",
+    "url": "https://pitchbook.com/profiles/company/59220-01",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "“Customers think it’s otherworldly when they see the images projected in 3D right on their screen. It’s a greater level of intimacy compared to a phone call or email, and that translates to a minimal time to repair. There is no more guesswork. If an engineer must go on site, they are able to fix the issue in one visit. That gives customers maximum uptime, and that’s more revenue for the customer.”",
+    "url": "https://helplightning.com/success-stories/oxford-nanoanalysis/",
+    "pass": 1
+   },
+   {
+    "quote": "to open the Help Center, or email",
+    "url": "https://helplightning.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/59220-01",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "弊社が国内正規代理店を務める、修理やカスタマーサポートのリモート対応を実現する遠隔サポートアプリ",
+    "url": "https://hl.cba-japan.com/%E3%80%90%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89%E3%80%91%E4%BF%AE%E7%90%86%E3%82%84%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AE%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E5%AF%BE%E5%BF%9C/",
+    "pass": 3
+   },
+   {
+    "quote": "ウィズコロナ、アフターコロナを見すえたビジネス方式が模索されている今、高度なリモートサポートを提供できるMR(複合現実)技術に日本国内でも大きな関心が寄せられています",
+    "url": "https://hl.cba-japan.com/%E3%80%90%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89%E3%80%91%E4%BF%AE%E7%90%86%E3%82%84%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AE%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E5%AF%BE%E5%BF%9C/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社コミュニケーションビジネスアヴェニュー",
+    "url": "https://hl.cba-japan.com/%E3%80%90%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89%E3%80%91%E4%BF%AE%E7%90%86%E3%82%84%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AE%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E5%AF%BE%E5%BF%9C/",
+    "pass": 3
+   },
+   {
+    "quote": "https://cba-japan.com",
+    "url": "https://hl.cba-japan.com/%E3%80%90%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89%E3%80%91%E4%BF%AE%E7%90%86%E3%82%84%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AE%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E5%AF%BE%E5%BF%9C/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Help Lightning — A short account of what happened during the help session: who was involved, what was tried, and how the issue was resolved. It generates key topics, discussion highlights, and next steps.",
+    "url": "https://helplightning.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Help Lightningとは？ | 機能や料金、導入事例をご紹介【キャプテラ】 — Help Lightningを実際に使用したユーザーのレビューから、製品の機能や価格、メリットデメリットをご覧いただけます。 類似製品との比較も簡単、ぴったりのSaaSが見つかるはず！",
+    "url": "https://www.capterra.jp/software/200979/help-lightning",
+    "pass": 3
+   },
+   {
+    "quote": "遠隔カスタマーサポートアプリHelp Lightningがメディアに掲載 — Aug 24, 2020 · 修理・サポートのリモート対応を実現する遠隔サポートアプリ「Help Lightning」を提供するHelp Lightning社が8.5億円を調達というニュースがTechCrunchにて取り上げられました。",
+    "url": "https://hl.cba-japan.com/【メディア掲載】修理やサポートのリモート対応/",
+    "pass": 3
+   },
+   {
+    "quote": "Help Lightning — Mobile Merged Reality and Virtual Interaction — Digitally merge two real-time views, blending local and remote collaborative video streams to give or receive interactive help anywhere.",
+    "url": "https://helplightning.net/",
+    "pass": 3
+   },
+   {
+    "quote": "Help Lightning — Instead of waiting on a callback or flying someone in, the technician opens a Help Thread, connects with an expert, and shares exactly what they're seeing. Using live video and sharing photos in the chat, the problem gets solved on the spot.",
+    "url": "https://helplightning.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Help Lightning — Mobile Merged Reality and Virtual Interaction — Digitally merge two real-time views, blending local and remote collaborative video streams to give or receive interactive help anywhere.",
+    "url": "https://app.helplightning.net/personal/login",
+    "pass": 3
+   },
+   {
+    "quote": "Support - Help Lightning — Contact Help Lightning support for login issues, security reviews, scheduling a demo, or other questions.",
+    "url": "https://helplightning.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "Help Lightning | LinkedIn — Field service organizations, technical support teams, and frontline workers use Help Lightning to get expert knowledge exactly where it's needed — without the cost, delay, or carbon...",
+    "url": "https://jp.linkedin.com/company/helplightning",
+    "pass": 3
+   },
+   {
+    "quote": "Case studies - Help Lightning — Customer stories showing how teams use Help Lightning in field, plant, and support work.",
+    "url": "https://helplightning.com/success-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Customers · Help Lightning — Contact center teams at PepsiCo and Vivint open a live view while the 1-800 call is already going: the agent sends a Help Lightning link, the customer clicks, and the phone line stays up. Read the case studies, or tell us about your work and we will point you to the closest customer example.",
+    "url": "https://helplightning.com/customers/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Diversey achieves faster first-time fixes ... — Diversey (Chemicals) partnered with Help Lightning to solve key challenges. \"Diversey - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/help-lightning/case-study/diversey-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Silver Tsunami cuts technician training time 62% ... — Silver Tsunami partnered with Help Lightning to solve key challenges. \"Silver Tsunami - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/help-lightning/case-study/silver-tsunami-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "14 Help Lightning Case Studies, Success Stories, & Customer ...‘The Ricoh Way’— Innovation in Merged Reality Service DeliveryHelp Lightning | Vonage — Narrow down 14 case studies by company size & industry to find out how Help Lightning works for a business like yours. Today, Edward is responsible for the growth and expansion of Ricoh’s SmartHands program, which uses Help Lightning to combine the ",
+    "url": "https://www.featuredcustomers.com/vendor/help-lightning/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Help Lightning Revenue 2024: $3.2M Est., $1.6B Raised — Oct 30, 2026 · Help Lightning 2024 estimated revenue: $3.2M (up from $2.8M in 2023). Valuation (2021): $36.8M. Total funding: $1.6B across 5 rounds. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/help-lightning",
+    "pass": 3
+   },
+   {
+    "quote": "Help Lightning - 2026 Company Profile, Team, Funding ... - Tracxn — Mar 22, 2026 · Help Lightning is a series A company based in Birmingham (United States), founded in 2009. It operates as a Provider of an augmented reality-based remote collaboration solution. Help Lightning has raised $12.7M in funding from L&T and Resolve Growth Partners. The company has 123 active competitors, including 32 fund",
+    "url": "https://tracxn.com/d/companies/helplightning/__RdTRMocUG0-SpZ2a7oVkYqnHcqq4wfLCj8pgvJdRaoc",
+    "pass": 3
+   },
+   {
+    "quote": "Help Lightning 2026 Company Profile: Valuation, Funding ...Help Lightning — Company Profile | The Company CheckHelp Lightning – Company Insights & Financial Strength – 2026Help Lightning: Funding, Investors & Team (Sep 2026)How Help Lightning hit $3.2M revenue with a 31 person team in... — Information on valuation, funding, cap tables, investors, and executives for Help Lightning. Use the PitchBoo",
+    "url": "https://pitchbook.com/profiles/company/59220-01",
+    "pass": 3
+   },
+   {
+    "quote": "Help Lightning — Company Profile | The Company Check — Oct 15, 2026 · Help Lightning has raised $13.53 million across 6 funding rounds from investors including L&T, Engage and Resolve Growth Partners. The company has 26 employees as of December 31, 2021.",
+    "url": "https://www.thecompanycheck.com/company/b/help-lightning/njtamhe6rb0ssa08o",
+    "pass": 3
+   },
+   {
+    "quote": "Help Lightning – Company Insights & Financial Strength – 2026 — Revenue, valuation, and funding figures for Help Lightning are estimates based on publicly available information, industry analysis, regulatory filings, company-provided profile updates, and proprietary data aggregation methods.",
+    "url": "https://compworth.com/company/help-lightning",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Lightning Mike on X: \"Parking assist in my Ford Lightning EV ... Parking assist in my Ford Lightning EV handled the tight exit—then stopped early. A useful reminder: driver-assist can help, but staying alert still matters. #LightningMike #EV #ParkingAssist #ElectricVehicles #CarTech #DriverAssistance #Tesla 10 Nov 2026 13:59:00",
+    "url": "https://x.com/LightningMike23/status/2120154259429736929",
+    "pass": 3
+   },
+   {
+    "quote": "@lightning_help | X The latest posts from @lightning_help",
+    "url": "https://x.com/lightning_help",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Help Lightning - LinkedIn Help Lightning consolidates every interaction into a single Help Thread — one structured, secure workspace per issue combining chat, video, annotations, and file sharing.",
+    "url": "https://www.linkedin.com/company/helplightning",
+    "pass": 3
+   },
+   {
+    "quote": "Help Lightning - LinkedIn It provides next generation video collaboration services that enable a company’s experts to work virtually side-by-side with anyone needing help, anywhere in the world.",
+    "url": "https://www.linkedin.com/products/helplightning-help-lightning",
+    "pass": 3
+   },
+   {
+    "quote": "Fieldbit (acquired by Help Lightning) - LinkedIn Fieldbit, a Help Lightning company, is an augmented reality-enabled platform known for its innovative knowledge sharing, remote collaboration and workflow automation capabilities supporting...",
+    "url": "https://na.linkedin.com/company/fieldbit/",
+    "pass": 3
+   },
+   {
+    "quote": "Help Lightening - LinkedIn With Help Lightning’s Merged Reality, distance is no longer an obstacle. Whether you’re troubleshooting equipment, providing customer support, or offering remote training, you can deliver ...",
+    "url": "https://www.linkedin.com/products/cba-gbl-help-lightening/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Help Lightning - FacebookHelp Lightning Overview | Help Lightning’s remote assistance ...Help Lightning’s virtual assistance software helps to improve ...Help Lightning - The Growing Role of Remote Assistance ...With Help Lightning, you can easily invite someone into a ...Help Lightning - Marc Guthrie, CEO of Help ... - FacebookHelp Lightning - Check out the Help Lightning app. in the ... Aug 15, ",
+    "url": "https://www.facebook.com/helplightning/",
+    "pass": 3
+   },
+   {
+    "quote": "Help Lightning Overview | Help Lightning’s remote assistance ... Help Lightning works with existing iOS and Android devices as well as web browsers and it can be integrated into your current customer care and field service processes and systems. With Help Lightning, service experts can show a resolution not just describe it, even from 1000 miles away.",
+    "url": "https://www.facebook.com/helplightning/videos/help-lightning-overview/1330254140801161/",
+    "pass": 3
+   },
+   {
+    "quote": "Help Lightning’s virtual assistance software helps to improve ... Feb 22, 2021 · Help Lightning’s virtual assistance software helps to improve first-time fix rates, extend the workforce capacity, and improve customer satisfaction. See...",
+    "url": "https://www.facebook.com/helplightning/videos/remote-assistance-explained-in-90-seconds/425343238573446/",
+    "pass": 3
+   },
+   {
+    "quote": "Help Lightning - The Growing Role of Remote Assistance ... Feb 26, 2021 · The Growing Role of Remote Assistance. Using AR by Help Lightning, adoption of the “Ask Angie” program by Boston Scientific's customers increased slowly...",
+    "url": "https://www.facebook.com/helplightning/posts/3888636124530292/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://helplightning.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://helplightning.com/customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://helplightning.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://helplightning.com/use-cases/manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://helplightning.com/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://helplightning.com/success-stories/case-study-ricoh/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://helplightning.com/success-stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://helplightning.com/success-stories/boston-scientific/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://helplightning.com/success-stories/bunn/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://helplightning.com/success-stories/fresenius-medical/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://helplightning.com/success-stories/oxford-nanoanalysis/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://helplightning.com/success-stories/unisys/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://helplightning.com/images/heroes/customers.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://helplightning.com/images/customers/ecolab.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://helplightning.com/images/customers/boston-scientific.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://helplightning.com/images/customers/alfa-laval.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://helplightning.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.capterra.jp/software/200979/help-lightning",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://hl.cba-japan.com/%E3%80%90%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89%E3%80%91%E4%BF%AE%E7%90%86%E3%82%84%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AE%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E5%AF%BE%E5%BF%9C/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://helplightning.net/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://helplightning.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://app.helplightning.net/personal/login",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://helplightning.com/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lightning-jpn.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://helplightning.com/success-stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://helplightning.com/customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/help-lightning/case-study/diversey-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/help-lightning/case-study/silver-tsunami-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforce.com/partners/become-a-partner/?bc=OTH",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/help-lightning",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/helplightning/__RdTRMocUG0-SpZ2a7oVkYqnHcqq4wfLCj8pgvJdRaoc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/59220-01",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/help-lightning/njtamhe6rb0ssa08o",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/LightningMike23/status/2120154259429736929",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/helplightning",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/helplightning-help-lightning",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://na.linkedin.com/company/fieldbit/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/cba-gbl-help-lightening/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/helplightning/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/helplightning/videos/help-lightning-overview/1330254140801161/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/helplightning/videos/remote-assistance-explained-in-90-seconds/425343238573446/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/helplightning/posts/3888636124530292/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lightning_help",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Help Lightning 日本 導入",
+   "results": [
+    "https://helplightning.com/",
+    "https://www.capterra.jp/software/200979/help-lightning",
+    "https://hl.cba-japan.com/【メディア掲載】修理やサポートのリモート対応/",
+    "https://helplightning.net/",
+    "https://www.youtube.com/watch?v=1g1Zrw0xrF8",
+    "https://hl.cba-japan.com/category/features/",
+    "https://hl.cba-japan.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Help Lightning 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.aon.com/japan/company-overview",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Help Lightning Japan",
+   "results": [
+    "https://helplightning.com/",
+    "https://app.helplightning.net/personal/login",
+    "https://helplightning.com/contact/",
+    "https://www.lightning-jpn.com/",
+    "https://jp.linkedin.com/company/helplightning",
+    "https://www.lightning-jpn.com/en/contact",
+    "https://hl.cba-japan.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Help Lightning manufacturing customer case study",
+   "results": [
+    "https://helplightning.com/success-stories/",
+    "https://helplightning.com/customers/",
+    "https://www.casestudies.com/company/help-lightning/case-study/diversey-customer-case-study",
+    "https://www.casestudies.com/company/help-lightning/case-study/silver-tsunami-customer-case-study",
+    "https://www.featuredcustomers.com/vendor/help-lightning/case-studies",
+    "https://www.vonage.com/resources/customers/help-lightening/",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/Help_Lightning_RICOH_Innovation.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Help Lightning white label OR reseller OR partner program",
+   "results": [
+    "https://www.salesforce.com/partners/become-a-partner/",
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://partners.spectrum.com/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.seoreseller.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Help Lightning founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/help-lightning",
+    "https://tracxn.com/d/companies/helplightning/__RdTRMocUG0-SpZ2a7oVkYqnHcqq4wfLCj8pgvJdRaoc",
+    "https://pitchbook.com/profiles/company/59220-01",
+    "https://www.thecompanycheck.com/company/b/help-lightning/njtamhe6rb0ssa08o",
+    "https://compworth.com/company/help-lightning",
+    "https://fundediq.co/help-lightning-helplightning-com-funding/",
+    "https://getlatka.com/companies/help-lightning/funding"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Help Lightning",
+   "results": [
+    "https://note.com/live_stream_s/n/n2da4b7e9593e",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/seigo77",
+    "https://note.com/kpa628ss/n/n09a16538586a?hl=en",
+    "https://note.com/fine_alpaca872/n/n9089491bd5fc",
+    "https://note.com/layer_research/n/n21c9ab8d707e?hl=en",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Help Lightning",
+   "results": [
+    "https://x.com/LightningSplash/status/2109489487390658602",
+    "https://x.com/LightningMike23/status/2120154259429736929",
+    "https://help.x.com/en",
+    "https://help.x.com/en/forms/account-access",
+    "https://x.com/LightningSplash/status/2119563143173312613",
+    "https://x.com/lightning",
+    "https://x.com/erik_erlendsson"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Help Lightning",
+   "results": [
+    "https://www.linkedin.com/company/helplightning",
+    "https://www.linkedin.com/products/helplightning-help-lightning",
+    "https://na.linkedin.com/company/fieldbit/",
+    "https://www.linkedin.com/products/cba-gbl-help-lightening/",
+    "https://www.linkedin.com/posts/helplightning_ifs-remote-assistance-activity-7244800681209987073-FJuc",
+    "https://www.linkedin.com/company/vipaar-inc-",
+    "https://www.linkedin.com/in/rpblackmon"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Help Lightning",
+   "results": [
+    "https://www.facebook.com/helplightning/",
+    "https://www.facebook.com/helplightning/videos/help-lightning-overview/1330254140801161/",
+    "https://www.facebook.com/helplightning/videos/remote-assistance-explained-in-90-seconds/425343238573446/",
+    "https://www.facebook.com/helplightning/posts/3888636124530292/",
+    "https://www.facebook.com/helplightning/videos/with-help-lightning-you-can-easily-invite-someone-into-a-help-session-via-text-m/545923002972067/",
+    "https://www.facebook.com/helplightning/posts/5088486724545220/",
+    "https://www.facebook.com/helplightning/posts/check-out-the-help-lightning-app-in-the-microsoft-store-for-hololens-pc-mobile-a/4546167392110492/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Help Lightning note 社長",
+   "results": [
+    "https://helplightning.com/",
+    "https://helplightning.net/",
+    "https://helplightning.com/product/",
+    "https://pitchbook.com/profiles/company/59220-01",
+    "https://lightningnote.co/",
+    "https://hl.cba-japan.com/",
+    "https://piyolog.hatenadiary.jp/entry/2026/01/16/155626"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Help Lightning X 投稿",
+   "results": [
+    "https://x.com/lightning_help",
+    "https://helplightning.com/",
+    "https://helplightning.net/",
+    "https://help.x.com/en",
+    "https://helplightning.com/contact/",
+    "https://lightning.com/help",
+    "https://help.x.com/ja/using-x/embed-x-feed"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式12頁／PDF・画像4件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式12頁／PDF・画像4件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像4件／外部34頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式12頁／PDF・画像4件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式12頁／PDF・画像4件／外部34頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式12頁／PDF・画像4件／外部34頁・検索12回）"
+ }
+}

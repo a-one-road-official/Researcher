@@ -1,0 +1,794 @@
+{
+ "name": "Hingeto",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-10T14:41:13.942886+00:00",
+ "official_url": "https://www.hingeto.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "4. Seed Round",
+    "value": "02-Aug-2018    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/126030-34",
+    "pass": 3
+   },
+   {
+    "label": "3. Seed Round",
+    "value": "23-Jun-2016    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/126030-34",
+    "pass": 3
+   },
+   {
+    "label": "1. Seed Round",
+    "value": "15-Oct-2015 $475K $475K  Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/126030-34",
+    "pass": 3
+   },
+   {
+    "label": "Seed 2",
+    "value": "",
+    "url": "https://pitchbook.com/profiles/company/126030-34",
+    "pass": 3
+   },
+   {
+    "label": "Seed 1",
+    "value": "1,124,809 $0.000100 $0.07 $0.91 $0.91 1x $0.91 11.29%",
+    "url": "https://pitchbook.com/profiles/company/126030-34",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Hingeto 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/126030-34",
+    "pass": 3
+   },
+   {
+    "quote": "Provider of a technology platform designed to revolutionize the way products are sold.",
+    "url": "https://pitchbook.com/profiles/company/126030-34",
+    "pass": 3
+   },
+   {
+    "quote": "Provider of a technology platform designed to revolutionize the way products are sold. The company's platform offers custom brand assortment strategy, direct integrations to systems, manages vendor recruitment, onboarding and daily support, enabling clients to connect stores and drive sales.",
+    "url": "https://pitchbook.com/profiles/company/126030-34",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/126030-34",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/126030-34",
+    "pass": 3
+   },
+   {
+    "quote": "Provider of a technology platform designed to revolutionize the way products are sold. The company's platform offers cus",
+    "url": "https://pitchbook.com/profiles/company/126030-34",
+    "pass": 3
+   },
+   {
+    "quote": "Private Equity-Backed",
+    "url": "https://pitchbook.com/profiles/company/126030-34",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/126030-34",
+    "pass": 3
+   },
+   {
+    "quote": "Hingeto’s primary industry is Media and Information Services (B2B).",
+    "url": "https://pitchbook.com/profiles/company/126030-34",
+    "pass": 3
+   },
+   {
+    "quote": "Is Hingeto a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/126030-34",
+    "pass": 3
+   },
+   {
+    "quote": "Hingeto is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/126030-34",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/126030-34",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/126030-34",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/126030-34",
+    "pass": 3
+   },
+   {
+    "quote": "Product Differentiators:",
+    "url": "https://startupintros.com/orgs/hingeto",
+    "pass": 3
+   },
+   {
+    "quote": "Speed, Pricing, Ease of Use:",
+    "url": "https://startupintros.com/orgs/hingeto",
+    "pass": 3
+   },
+   {
+    "quote": "Backed by prominent investors and integrated with thousands of online stores, Hingeto has built a robust network within the fashion e-commerce ecosystem[1][8].",
+    "url": "https://startupintros.com/orgs/hingeto",
+    "pass": 3
+   },
+   {
+    "quote": "clay.earth/profile/yaw-owusu-barimah-de6c30ed",
+    "url": "https://startupintros.com/orgs/hingeto",
+    "pass": 3
+   },
+   {
+    "quote": "macventurecapital.com/on-the-eve-of-a-new-product-launch-hingeto-revolutionizes-drop-ship-technology",
+    "url": "https://startupintros.com/orgs/hingeto",
+    "pass": 3
+   },
+   {
+    "quote": "apparelnews.net/news/2019/may/02/eve-new-product-launch-hingeto-revolutionizes-drop",
+    "url": "https://startupintros.com/orgs/hingeto",
+    "pass": 3
+   },
+   {
+    "quote": "geappliances.com/appliance/GE-Profile-1-1-Cu-Ft-Countertop-Microwave-Oven-PEM31DFWW",
+    "url": "https://startupintros.com/orgs/hingeto",
+    "pass": 3
+   },
+   {
+    "quote": "prnewswire.com/news-releases/dicentral-welcomes-hingeto-to-its-ever-expanding-global-trading-partner-network-and-b2b-integration-platform-301124379.html",
+    "url": "https://startupintros.com/orgs/hingeto",
+    "pass": 3
+   },
+   {
+    "quote": "shopify.com/enterprise/blog/largest-b2b-marketplaces",
+    "url": "https://startupintros.com/orgs/hingeto",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 2021",
+    "url": "https://getlatka.com/companies/hingeto",
+    "pass": 3
+   },
+   {
+    "quote": "Hingeto's annual revenue was $259.8K in April 2021, its last figure before its buyer bought it (source not recorded).",
+    "url": "https://getlatka.com/companies/hingeto",
+    "pass": 3
+   },
+   {
+    "quote": "Another company owns Hingeto. The date and price of the deal are not on record.",
+    "url": "https://getlatka.com/companies/hingeto",
+    "pass": 3
+   },
+   {
+    "quote": "Yaw Owusu Barimah founded Hingeto in 2015 and led it as CEO. Hingeto had 6 employees (April 2021).",
+    "url": "https://getlatka.com/companies/hingeto",
+    "pass": 3
+   },
+   {
+    "quote": "in April 2021 (source not recorded).",
+    "url": "https://getlatka.com/companies/hingeto",
+    "pass": 3
+   },
+   {
+    "quote": "employees in April 2021.",
+    "url": "https://getlatka.com/companies/hingeto",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/hingeto",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/hingeto",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Hingeto 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/126030-34",
+    "pass": 3
+   },
+   {
+    "quote": "5. Merger/Acquisition",
+    "url": "https://pitchbook.com/profiles/company/126030-34",
+    "pass": 3
+   },
+   {
+    "quote": "Hingeto has 7 total employees.",
+    "url": "https://pitchbook.com/profiles/company/126030-34",
+    "pass": 3
+   },
+   {
+    "quote": "What is Hingeto’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/126030-34",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Hingeto is",
+    "url": "https://pitchbook.com/profiles/company/126030-34",
+    "pass": 3
+   },
+   {
+    "quote": "When was Hingeto acquired?",
+    "url": "https://pitchbook.com/profiles/company/126030-34",
+    "pass": 3
+   },
+   {
+    "quote": "Hingeto was acquired on 04-Sep-2020.",
+    "url": "https://pitchbook.com/profiles/company/126030-34",
+    "pass": 3
+   },
+   {
+    "quote": "Who acquired Hingeto?",
+    "url": "https://pitchbook.com/profiles/company/126030-34",
+    "pass": 3
+   },
+   {
+    "quote": "Hingeto was acquired by",
+    "url": "https://pitchbook.com/profiles/company/126030-34",
+    "pass": 3
+   },
+   {
+    "quote": "Hingeto Revenue 2021: $259.8K",
+    "url": "https://getlatka.com/companies/hingeto",
+    "pass": 3
+   },
+   {
+    "quote": "revenue & acquisition",
+    "url": "https://getlatka.com/companies/hingeto",
+    "pass": 3
+   },
+   {
+    "quote": "Hingeto was acquired.",
+    "url": "https://getlatka.com/companies/hingeto",
+    "pass": 3
+   },
+   {
+    "quote": "Hingeto's annual revenue was $259.8K in April 2021, its last figure before its buyer bought it (source not recorded).",
+    "url": "https://getlatka.com/companies/hingeto",
+    "pass": 3
+   },
+   {
+    "quote": "Hingeto CEO, founders & employees",
+    "url": "https://getlatka.com/companies/hingeto",
+    "pass": 3
+   },
+   {
+    "quote": "Yaw Owusu Barimah founded Hingeto in 2015 and led it as CEO. Hingeto had 6 employees (April 2021).",
+    "url": "https://getlatka.com/companies/hingeto",
+    "pass": 3
+   },
+   {
+    "quote": "What was Hingeto's revenue?",
+    "url": "https://getlatka.com/companies/hingeto",
+    "pass": 3
+   },
+   {
+    "quote": "Before it was acquired, Hingeto's annual revenue was",
+    "url": "https://getlatka.com/companies/hingeto",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Hingeto have?",
+    "url": "https://getlatka.com/companies/hingeto",
+    "pass": 3
+   },
+   {
+    "quote": "employees in April 2021.",
+    "url": "https://getlatka.com/companies/hingeto",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/hingeto",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/hingeto",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/hingeto",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/126030-34",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "消されるためのマッチングアプリ\"Hinge\" 〜スワイプ文化へNOを突きつ...Hingeto 2026 Company Profile: Valuation, Investors ...急成長中のHingeが「真剣に出会いたい人」向けに高額プランを開始予定...対日投資 | ジェトロHingeto - LinkedIn — ■ スワイプ文化への警鐘 前述の通り、Hingeは2015年から2016年にかけて、プロダクトの刷新を行いました。 その契機となったのが、Tinderを始めとするスワイプ機能をもつマッチングアプリに警鐘を鳴らす調査レポートの発表です。 2015年夏に公開されたこのレポートでは、スワイプ機能による恋愛のロマンスの破壊が訴えられました。つまり、スワイプ機能はゲーム感覚でマッチすることが目的になってしまっており、真剣な出会いを奪い去ったとしたのです。 実際、当時(個人的には",
+    "url": "https://note.com/hiroto_inada/n/n76a4f3189585",
+    "pass": 3
+   },
+   {
+    "quote": "Hingeto 2026 Company Profile: Valuation, Investors ...急成長中のHingeが「真剣に出会いたい人」向けに高額プランを開始予定...対日投資 | ジェトロHingeto - LinkedIn — Information on acquisition, funding, cap tables, investors, and executives for Hingeto. Use the PitchBook Platform to explore the full profile. May 10, 2023 · Tinder Platinumが成功したから、これをHingeにも導入しよう、という流れですね。 料金は月額50〜60ドルを予定 Hingeの新プランは月額50〜60ドルを予定。 月額約30ドルのTinder Platinumは、日本",
+    "url": "https://pitchbook.com/profiles/company/126030-34",
+    "pass": 3
+   },
+   {
+    "quote": "Hingeto - LinkedIn — Hingeto | 242 followers on LinkedIn. Hingeto is a technology platform that enables fashion brands & influencers to sell past and future masterpieces with zero inventory risk.",
+    "url": "https://www.linkedin.com/company/hingeto",
+    "pass": 3
+   },
+   {
+    "quote": "Hingeto - FacebookHingeto - LinkedInHingeto: A B2B marketplace that connects inventory to online ...Hingeto, Dropship Solutions (@hingetocompany) - InstagramHirohito - WikipediaHingeto 2026 Company Profile: Valuation, Investors ... — May 7, 2019 · Here at Hingeto it means helping brands and retailers eliminate inventory risk while saving everyone money and generating more products and designs for ",
+    "url": "https://www.facebook.com/hingeto/",
+    "pass": 3
+   },
+   {
+    "quote": "Hingeto - LinkedIn — Hingeto | The easiest way to launch your own marketplace. No inventory or warehouse overhead.",
+    "url": "https://www.linkedin.com/products/hingeto",
+    "pass": 3
+   },
+   {
+    "quote": "Hingeto: A B2B marketplace that connects inventory to online ... — A B2B marketplace that connects inventory to online stores. Founded in 2015 by Akintunde Ismail Maiyegun, Yaw Owusu-Barimah, and Leandrew Robinson, Hingeto has 15 employees based in San Francisco.",
+    "url": "https://www.ycombinator.com/companies/hingeto",
+    "pass": 3
+   },
+   {
+    "quote": "Hingeto 2026 Company Profile: Valuation, Investors ...Hingeto: Funding, Team & Investors | Startup IntrosHingeto Information - RocketReachHingeto Revenue, Valuation & Funding History (2021)Hingeto - Products, Competitors, Financials, Employees ...Hingeto — Funding, Investors & Team | SeedtableHingeto — YC Company Profile | Altss — Information on acquisition, funding, cap tables, investors, and exe",
+    "url": "https://pitchbook.com/profiles/company/126030-34",
+    "pass": 3
+   },
+   {
+    "quote": "Hingeto: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Founded in 2015 by Leandrew Robinson, Akintunde Ismail Maiyegun, and Yaw Owusu-Barimah, Hingeto previously reported a remarkable 470% year-over-year sales growth with a team of 11 employees.",
+    "url": "https://startupintros.com/orgs/hingeto",
+    "pass": 3
+   },
+   {
+    "quote": "Hingeto Information - RocketReach — Hingeto is a Fashion, Retail Apparel and Fashion, and Software Development & Design company located in Oakland, California with $1 million in revenue and 1 employees.",
+    "url": "https://rocketreach.co/hingeto-profile_b502f743f99dbb71",
+    "pass": 3
+   },
+   {
+    "quote": "Hingeto Revenue, Valuation & Funding History (2021) — Aug 10, 2026 · Hingeto's revenue history, valuation, funding rounds and customer growth for 2021 — see the full breakdown on GetLatka. Updated Apr 10, 2025.",
+    "url": "https://getlatka.com/companies/hingeto",
+    "pass": 3
+   },
+   {
+    "quote": "Hingeto - Products, Competitors, Financials, Employees ... — Sep 7, 2016 · The San Francisco Bay Area–headquartered Hingeto is an enterprise drop-ship solutions company with a client list that has included Pacific Sunwear of California, LLC. Hingeto developed a drop-shipping application that helps emerging retailers develop a supply-chain and order-management system.",
+    "url": "https://www.cbinsights.com/company/hingeto-co",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Hingeto (@hinge_to) / Posts / X - x.com Hingeto lets brands and celebrities create and sell product with zero inventory risk.",
+    "url": "https://x.com/hinge_to",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Hingeto - LinkedIn Hingeto | 242 followers on LinkedIn. Hingeto is a technology platform that enables fashion brands & influencers to sell past and future masterpieces with zero inventory risk.",
+    "url": "https://www.linkedin.com/company/hingeto",
+    "pass": 3
+   },
+   {
+    "quote": "Hingeto - LinkedIn Hingeto | The easiest way to launch your own marketplace. No inventory or warehouse overhead.",
+    "url": "https://www.linkedin.com/products/hingeto",
+    "pass": 3
+   },
+   {
+    "quote": "Hingeto Will Enable The Next Billion Dollar Retailer. Is It you? May 23, 2019 · We’ve democratized retail to the point where with Hingeto, anyone with an audience has the key infrastructure (ability) and access to enough products to become a billion dollar retailer.",
+    "url": "https://www.linkedin.com/pulse/hingeto-enable-next-billion-dollar-retailer-you-leandrew-robinson",
+    "pass": 3
+   },
+   {
+    "quote": "Yaw Owusu-Barimah - HOVER Inc. | LinkedInHuge launch today with my company Hingeto! Our app Hingeto ...Hello Family and Friends! Huge launch today with my company ...Hingeto been officially acquired 5 years ago ... - LinkedIn Specialties: Member acquisition through data-driven marketing • CPC, CPA, CPM online… · Experience: HOVER Inc. · Education: Y Combinator · Location: Oakland · 500+ connection",
+    "url": "https://www.linkedin.com/in/yawza",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Hingeto - FacebookHingeto - Don't wait until it's to late!! Hit the link in ...Hingeto Platform - FacebookHingeto - Last week a few of our team members got the...Hingeto - Whether you're deciding between dropshipping or ...Hingeto - \"Hingeto and Lynch's Beast Mode brand launched ...Hingeto - History has shown that 1 in every 100 Billion ... May 7, 2019 · Last week, Hingeto was written up in Appare",
+    "url": "https://www.facebook.com/hingeto/",
+    "pass": 3
+   },
+   {
+    "quote": "Hingeto - Don't wait until it's to late!! Hit the link in ... Feb 5, 2019 · Last week, Hingeto was written up in ApparelNews (trade publication - link in the comments) and today we would like to announce the launch of our new website + private beta on ProductHunt.",
+    "url": "https://www.facebook.com/hingeto/posts/dont-wait-until-its-to-latehit-the-link-in-our-bio-to-download-mxed-our-free-sho/968683150008985/",
+    "pass": 3
+   },
+   {
+    "quote": "Hingeto Platform - Facebook Hingeto Platform is on Facebook. Join Facebook to connect with Hingeto Platform and others you may know. Facebook gives people the power to share and...",
+    "url": "https://www.facebook.com/hingeto.platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Hingeto - Last week a few of our team members got the... Hingeto is at Fox Theatre Redwood City. drSonpoest4yf9trfbF924r693t3862i512,u05uuagae026u909t5ii01 · Redwood City, CA · Shared with Public",
+    "url": "https://www.facebook.com/hingeto/posts/last-week-a-few-of-our-team-members-got-the-amazing-opportunity-to-attend-the-st/979130332297600/",
+    "pass": 3
+   },
+   {
+    "quote": "Hingeto - Facebook Last week, Hingeto was written up in ApparelNews (trade publication - link in the comments) and today we would like to announce the launch of our new website + private beta on ProductHunt.",
+    "url": "https://www.facebook.com/hingeto/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.hingeto.com",
+    "status": "network_error:SSLError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://note.com/hiroto_inada/n/n76a4f3189585",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/126030-34",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/company/hingeto",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://matching-navi.jp/columns/hinge-japan-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kkhashi.com/blogs/detail/145/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Hirohito",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/hingeto",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hingeto/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/hingeto",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/126030-34",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://startupintros.com/orgs/hingeto",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rocketreach.co/hingeto-profile_b502f743f99dbb71",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/hingeto",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hinge_to",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/hingeto",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/hingeto",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/hingeto-enable-next-billion-dollar-retailer-you-leandrew-robinson",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/yawza",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hingeto/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hingeto/posts/dont-wait-until-its-to-latehit-the-link-in-our-bio-to-download-mxed-our-free-sho/968683150008985/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hingeto.platform/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hingeto/posts/last-week-a-few-of-our-team-members-got-the-amazing-opportunity-to-attend-the-st/979130332297600/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hinge_to",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hingeto/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Hingeto 日本 導入",
+   "results": [
+    "https://note.com/hiroto_inada/n/n76a4f3189585",
+    "https://pitchbook.com/profiles/company/126030-34",
+    "https://www.linkedin.com/company/hingeto",
+    "https://matching-navi.jp/columns/hinge-japan-guide/",
+    "https://zero-koikatsu.jp/hinge-review-howto/",
+    "https://appvip.jp/hinge-new-subscription/",
+    "https://www.jetro.go.jp/invest/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hingeto 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本サムスン",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.houjin.info/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hingeto Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Hirohito",
+    "https://www.linkedin.com/company/hingeto",
+    "https://www.facebook.com/hingeto/",
+    "https://www.linkedin.com/products/hingeto",
+    "https://www.ycombinator.com/companies/hingeto",
+    "https://www.instagram.com/hingetocompany/",
+    "https://pitchbook.com/profiles/company/126030-34"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hingeto manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Hingeto white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://reseller.amazon.com/",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hingeto founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/126030-34",
+    "https://startupintros.com/orgs/hingeto",
+    "https://rocketreach.co/hingeto-profile_b502f743f99dbb71",
+    "https://getlatka.com/companies/hingeto",
+    "https://www.cbinsights.com/company/hingeto-co",
+    "https://seedtable.com/companies/hingeto",
+    "https://altss.com/companies/yc/hingeto"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Hingeto",
+   "results": [
+    "https://note.com/tag/ギャンブル依存症",
+    "https://note.com/tag/Hinge",
+    "https://note.com/kin_tsuzuike/n/n0e43ac2f8345?hl=en",
+    "https://note.com/nge555/n/n136c7bf83e2e",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/kryuutai/n/n6846c5c8fa3a",
+    "https://note.com/nashinokiyuu/n/n6b67e86745f8"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Hingeto",
+   "results": [
+    "https://x.com/hinge_to",
+    "https://help.x.com/en/search-results",
+    "https://x.com/Hingexx",
+    "https://x.com/WestsideLAGuy/status/2113166264025989434",
+    "https://x.com/Hingexx/reposts",
+    "https://x.com/ailya_01/status/2117684216272130452",
+    "https://x.com/thingesque/status/2109472204824203352"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Hingeto",
+   "results": [
+    "https://www.linkedin.com/company/hingeto",
+    "https://www.linkedin.com/products/hingeto",
+    "https://www.linkedin.com/pulse/hingeto-enable-next-billion-dollar-retailer-you-leandrew-robinson",
+    "https://www.linkedin.com/in/yawza",
+    "https://www.linkedin.com/feed/update/urn:li:activity:6531532675688341504",
+    "https://www.linkedin.com/posts/hectoralez_hello-family-and-friends-huge-launch-today-activity-6531572560629497856-z2Mt",
+    "https://www.linkedin.com/posts/maiyegun_hingeto-been-officially-acquired-5-years-activity-6707801654491795456-OjsL"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Hingeto",
+   "results": [
+    "https://www.facebook.com/hingeto/",
+    "https://www.facebook.com/hingeto/posts/dont-wait-until-its-to-latehit-the-link-in-our-bio-to-download-mxed-our-free-sho/968683150008985/",
+    "https://www.facebook.com/hingeto.platform/",
+    "https://www.facebook.com/hingeto/posts/last-week-a-few-of-our-team-members-got-the-amazing-opportunity-to-attend-the-st/979130332297600/",
+    "https://www.facebook.com/hingeto/posts/whether-youre-deciding-between-dropshipping-or-ordeing-products-in-bulk-setting-/758820474328588/",
+    "https://www.facebook.com/hingeto/posts/hingeto-and-lynchs-beast-mode-brand-launched-their-create-a-brand-platform-on-we/652631371614166/",
+    "https://www.facebook.com/hingeto/posts/history-has-shown-that-1-in-every-100-billion-people-will-build-a-legacy-that-li/749268425283793/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hingeto note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://froggy.smbcnikko.co.jp/66484/",
+    "https://x.com/note_corp/status/2074734197949034502",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hingeto X 投稿",
+   "results": [
+    "https://x.com/hinge_to",
+    "https://www.facebook.com/hingeto/",
+    "https://x.com/puchingr/status/2119423044846510208",
+    "https://search.yahoo.co.jp/realtime/search/投稿/",
+    "https://help.x.com/ja/using-x/how-to-post",
+    "https://help.x.com/ja",
+    "https://www.witha.jp/sns・マーケティング/x-posting-guide-beginners/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

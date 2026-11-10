@@ -1,0 +1,1356 @@
+{
+ "name": "Hyperbound",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜リマイン1",
+ "researched_at": "2026-11-10T14:36:31.443486+00:00",
+ "official_url": "https://www.hyperbound.ai/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "San Francisco, CA",
+    "url": "https://www.hyperbound.ai/case-studies/vanta",
+    "pass": 1
+   },
+   {
+    "label": "Headquarters",
+    "value": "Andover, MA",
+    "url": "https://www.hyperbound.ai/case-studies/alku",
+    "pass": 1
+   },
+   {
+    "label": "Headquarters",
+    "value": "Boston, MA",
+    "url": "https://www.hyperbound.ai/case-studies/klaviyo",
+    "pass": 1
+   }
+  ],
+  "料金": [
+   {
+    "label": "料金タイプ",
+    "value": "フリーミアム（無料〜要問い合わせ（Enterprise）） 無料枠 あり（45種類の既製AIロールプレイ・サンプルの採点表）",
+    "url": "https://aipicks.jp/tool/hyperbound",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Enterprise-grade AI sales coaching",
+    "url": "https://www.hyperbound.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Help every rep read the buyer and act like your best. Practice with",
+    "url": "https://www.hyperbound.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Roleplay with realistic AI buyers, built around your sales process",
+    "url": "https://www.hyperbound.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Used research on prospect?",
+    "url": "https://www.hyperbound.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "exchange between the rep and the prospect.",
+    "url": "https://www.hyperbound.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The prospect acknowledges this request in their",
+    "url": "https://www.hyperbound.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "01 / Practice",
+    "url": "https://www.hyperbound.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Illustrative product view",
+    "url": "https://www.hyperbound.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect calls, deals, and practice to deliver coaching and next",
+    "url": "https://www.hyperbound.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Hear how revenue teams use Hyperbound to ramp reps, improve",
+    "url": "https://www.hyperbound.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Practice and coach in 25+ languages",
+    "url": "https://www.hyperbound.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect your conversations and data",
+    "url": "https://www.hyperbound.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Strong encryption, enterprise SSO, and SIEM support. Explore our Security Trust Center for security documentation.",
+    "url": "https://www.hyperbound.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Meet enterprise requirements",
+    "url": "https://www.hyperbound.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "SOC 2 Type II and ISO 27001 certified, with support for GDPR and HIPAA requirements.",
+    "url": "https://www.hyperbound.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Can Hyperbound match our buyers and sales process?",
+    "url": "https://www.hyperbound.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Customize roleplays for your ideal customer profiles, build AI scorecards around your sales methodology and messaging, and practice the industry-specific objections your reps encounter.",
+    "url": "https://www.hyperbound.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "How long does setup and onboarding take?",
+    "url": "https://www.hyperbound.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Hyperbound is an AI sales coach that intelligently analyzes your sales calls and helps your reps practice the scenarios they struggle with the most.",
+    "url": "https://www.hyperbound.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "practice, read the conversation, and make their next move.",
+    "url": "https://www.hyperbound.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver coaching at scale with automated assessments, progress tracking, and real-time feedback.",
+    "url": "https://www.hyperbound.ai/industries/b2b-sales-trainers-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Stand Out With AI-Driven Training",
+    "url": "https://www.hyperbound.ai/industries/b2b-sales-trainers-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Lead as an AI Training Innovator",
+    "url": "https://www.hyperbound.ai/industries/b2b-sales-trainers-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Be the trainer who embraces the future. Integrate cutting-edge technology into your training programs before your competitors do.",
+    "url": "https://www.hyperbound.ai/industries/b2b-sales-trainers-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Can Hyperbound be customized to my company’s sales process?",
+    "url": "https://www.hyperbound.ai/industries/b2b-sales-trainers-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "How long does set-up and onboarding take?",
+    "url": "https://www.hyperbound.ai/industries/b2b-sales-trainers-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "No. Hyperbound is an AI sales coach that intelligently analyzes your sales calls and helps your reps practice the scenarios they struggle with the most.",
+    "url": "https://www.hyperbound.ai/industries/b2b-sales-trainers-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Yes! We have a free interactive demo with a variety of different pre-built AI personas available on our website. Head to our interactive demo to try it yourself. To build your own custom bot, book a demo here.",
+    "url": "https://www.hyperbound.ai/industries/b2b-sales-trainers-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Join forces with Hyperbound to bring AI-driven sales training to more",
+    "url": "https://www.hyperbound.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Provides an all-in-one learning platform for employee and customer training.",
+    "url": "https://www.hyperbound.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Offers a community platform for performance-based sales professionals.",
+    "url": "https://www.hyperbound.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Provides personalized coaching to enhance sales team performance.",
+    "url": "https://www.hyperbound.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Offers leadership development programs with a focus on global business dynamics.",
+    "url": "https://www.hyperbound.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Provides financial advisory services with a focus on comprehensive evaluations.",
+    "url": "https://www.hyperbound.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Delivers sales training and performance improvement services globally.",
+    "url": "https://www.hyperbound.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Offers lead generation and sales development services to accelerate business growth.",
+    "url": "https://www.hyperbound.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Focuses on creating immersive brand experiences and marketing strategies.",
+    "url": "https://www.hyperbound.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Designs and delivers transformative leadership, management, and sales training experiences globally.",
+    "url": "https://www.hyperbound.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Provides a platform for frictionless money movement and real-time payments.",
+    "url": "https://www.hyperbound.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Provides resources and training to improve sales techniques and outcomes.",
+    "url": "https://www.hyperbound.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Provides a real-time search engine for B2B sales leads.",
+    "url": "https://www.hyperbound.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Outsourced SDRs: creating scalable revenue growth for global enterprises.",
+    "url": "https://www.hyperbound.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Specializes in B2B lead generation and appointment setting services.",
+    "url": "https://www.hyperbound.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "A professional offering sales coaching and consultancy services.",
+    "url": "https://www.hyperbound.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Provides startups with resources and software to grow and scale.",
+    "url": "https://www.hyperbound.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Offers a platform for creating interactive product demos.",
+    "url": "https://www.hyperbound.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Provides a sending platform to deliver personalized gifts and direct mail.",
+    "url": "https://www.hyperbound.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "A community focused on the development of Sales Development Representatives.",
+    "url": "https://www.hyperbound.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Provides consulting services specializing in business strategy and operations.",
+    "url": "https://www.hyperbound.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Can Hyperbound be customized to my company’s sales process?",
+    "url": "https://www.hyperbound.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "How long does set-up and onboarding take?",
+    "url": "https://www.hyperbound.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "No. Hyperbound is an AI sales coach that intelligently analyzes your sales calls and helps your reps practice the scenarios they struggle with the most.",
+    "url": "https://www.hyperbound.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Yes! We have a free interactive demo with a variety of different pre-built AI personas available on our website. Head to our interactive demo to try it yourself. To build your own custom bot, book a demo here.",
+    "url": "https://www.hyperbound.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Expand teams while maintaining consistency in messaging, training, and compliance.",
+    "url": "https://www.hyperbound.ai/industries/b2b-call-centers-outsourced-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Faster, More Efficient Onboarding",
+    "url": "https://www.hyperbound.ai/industries/b2b-call-centers-outsourced-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Speed matters. Hyperbound accelerates rep training with AI-driven roleplays and assessments, reducing ramp time and ensuring new hires are ready to perform faster.",
+    "url": "https://www.hyperbound.ai/industries/b2b-call-centers-outsourced-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "No call should go unchecked. Hyperbound provides AI-powered quality assurance, analyzing every conversation for compliance, script adherence, and customer experience.",
+    "url": "https://www.hyperbound.ai/industries/b2b-call-centers-outsourced-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "No waiting for feedback. Hyperbound delivers real-time coaching and AI-driven insights, helping reps improve while they work - not weeks later.",
+    "url": "https://www.hyperbound.ai/industries/b2b-call-centers-outsourced-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Can Hyperbound be customized to my company’s sales process?",
+    "url": "https://www.hyperbound.ai/industries/b2b-call-centers-outsourced-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "How long does set-up and onboarding take?",
+    "url": "https://www.hyperbound.ai/industries/b2b-call-centers-outsourced-agencies",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Read the full case study",
+    "url": "https://www.hyperbound.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by reps in more than 40 countries. Help teams build their skills in the languages they sell in.",
+    "url": "https://www.hyperbound.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Vanta Case Study - Hyperbound",
+    "url": "https://www.hyperbound.ai/case-studies/vanta",
+    "pass": 1
+   },
+   {
+    "quote": "ALKU Case Study - Hyperbound",
+    "url": "https://www.hyperbound.ai/case-studies/alku",
+    "pass": 1
+   },
+   {
+    "quote": "Klaviyo Case Study - Hyperbound",
+    "url": "https://www.hyperbound.ai/case-studies/klaviyo",
+    "pass": 1
+   },
+   {
+    "quote": "Varda is a startup company in the field of space manufacturing that specializes in producing products in…",
+    "url": "https://fundediq.co/hyperbound-hyperbound-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Hyperbound currently supports these 25+ languages, and more upon request: English, Spanish, French / French-Canadian, German, Italian, Polish, Portuguese, Swedish, Romanian, Czech, Danish, Dutch (NL), Chinese (Mandarin), Cantonese (HK), Vietnamese, Japanese, Korean, Hebrew, Gujarati, Hindi, Indonesian, Marathi, Tamil, and Thai.",
+    "url": "https://www.hyperbound.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Hyperbound currently supports these 25+ languages, and more upon request: English, Spanish, French / French-Canadian, German, Italian, Polish, Portuguese, Swedish, Romanian, Czech, Danish, Dutch (NL), Chinese (Mandarin), Cantonese (HK), Vietnamese, Japanese, Korean, Hebrew, Gujarati, Hindi, Indonesian, Marathi, Tamil, and Thai.",
+    "url": "https://www.hyperbound.ai/industries/b2b-sales-trainers-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Hyperbound currently supports these 25+ languages, and more upon request: English, Spanish, French / French-Canadian, German, Italian, Polish, Portuguese, Swedish, Romanian, Czech, Danish, Dutch (NL), Chinese (Mandarin), Cantonese (HK), Vietnamese, Japanese, Korean, Hebrew, Gujarati, Hindi, Indonesian, Marathi, Tamil, and Thai.",
+    "url": "https://www.hyperbound.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Hyperbound currently supports these 25+ languages, and more upon request: English, Spanish, French / French-Canadian, German, Italian, Polish, Portuguese, Swedish, Romanian, Czech, Danish, Dutch (NL), Chinese (Mandarin), Cantonese (HK), Vietnamese, Japanese, Korean, Hebrew, Gujarati, Hindi, Indonesian, Marathi, Tamil, and Thai.",
+    "url": "https://www.hyperbound.ai/industries/b2b-call-centers-outsourced-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Hyperbound currently supports these 25+ languages, and more upon request: English, Spanish, French / French-Canadian, German, Italian, Polish, Portuguese, Swedish, Romanian, Czech, Danish, Dutch (NL), Chinese (Mandarin), Cantonese (HK), Vietnamese, Japanese, Korean, Hebrew, Gujarati, Hindi, Indonesian, Marathi, Tamil, and Thai.",
+    "url": "https://www.hyperbound.ai/use-cases/hiring",
+    "pass": 1
+   },
+   {
+    "quote": "Hyperbound currently supports these 25+ languages, and more upon request: English, Spanish, French / French-Canadian, German, Italian, Polish, Portuguese, Swedish, Romanian, Czech, Danish, Dutch (NL), Chinese (Mandarin), Cantonese (HK), Vietnamese, Japanese, Korean, Hebrew, Gujarati, Hindi, Indonesian, Marathi, Tamil, and Thai.",
+    "url": "https://www.hyperbound.ai/industries/b2b-saas-software",
+    "pass": 1
+   },
+   {
+    "quote": "Hyperbound currently supports these 25+ languages, and more upon request: English, Spanish, French / French-Canadian, German, Italian, Polish, Portuguese, Swedish, Romanian, Czech, Danish, Dutch (NL), Chinese (Mandarin), Cantonese (HK), Vietnamese, Japanese, Korean, Hebrew, Gujarati, Hindi, Indonesian, Marathi, Tamil, and Thai.",
+    "url": "https://www.hyperbound.ai/industries/transportation-logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Hyperbound currently supports these 25+ languages, and more upon request: English, Spanish, French / French-Canadian, German, Italian, Polish, Portuguese, Swedish, Romanian, Czech, Danish, Dutch (NL), Chinese (Mandarin), Cantonese (HK), Vietnamese, Japanese, Korean, Hebrew, Gujarati, Hindi, Indonesian, Marathi, Tamil, and Thai.",
+    "url": "https://www.hyperbound.ai/industries/banking-financial-advisors",
+    "pass": 1
+   },
+   {
+    "quote": "Hyperbound currently supports these 25+ languages, and more upon request: English, Spanish, French / French-Canadian, German, Italian, Polish, Portuguese, Swedish, Romanian, Czech, Danish, Dutch (NL), Chinese (Mandarin), Cantonese (HK), Vietnamese, Japanese, Korean, Hebrew, Gujarati, Hindi, Indonesian, Marathi, Tamil, and Thai.",
+    "url": "https://www.hyperbound.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "ロールプレイは日本語を含む25以上の言語に対応しますが、公式サイトは英語のみです",
+    "url": "https://aipicks.jp/tool/hyperbound",
+    "pass": 3
+   },
+   {
+    "quote": "日本語を含む25以上の言語でロールプレイでき、無料プランで45種類の既製シナリオを試せるのも入口として手軽です",
+    "url": "https://aipicks.jp/tool/hyperbound",
+    "pass": 3
+   },
+   {
+    "quote": "日本語を含む25以上の言語でロールプレイできる",
+    "url": "https://aipicks.jp/tool/hyperbound",
+    "pass": 3
+   },
+   {
+    "quote": "ロールプレイは日本語を含む25以上の言語に対応します",
+    "url": "https://aipicks.jp/tool/hyperbound",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Helping revenue teams put their best selling to work.",
+    "url": "https://www.hyperbound.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Hear how revenue teams use Hyperbound to ramp reps, improve",
+    "url": "https://www.hyperbound.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "them as part of their day.",
+    "url": "https://www.hyperbound.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "teams - unlock new opportunities, drive revenue, and grow together.",
+    "url": "https://www.hyperbound.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Outsourced SDRs: creating scalable revenue growth for global enterprises.",
+    "url": "https://www.hyperbound.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Fee objections and asset consolidation impact long-term revenue. AI-driven training helps advisors justify value, shift conversations from cost to strategy, and turn objections into AUM growth.",
+    "url": "https://www.hyperbound.ai/industries/banking-financial-advisors",
+    "pass": 1
+   },
+   {
+    "quote": "Constant hiring and high call volume. How fast new reps ramp sets the ceiling on revenue.",
+    "url": "https://www.hyperbound.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "2x revenue YoY",
+    "url": "https://www.hyperbound.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Vanta is a trust management platform that helps businesses earn and prove trust with their customers, from early-stage startups to Fortune 500 companies. Over the past few years, the company has scaled rapidly.",
+    "url": "https://www.hyperbound.ai/case-studies/vanta",
+    "pass": 1
+   },
+   {
+    "quote": "“Without that, we would not have hit our pipeline goals… let alone our revenue goals.”",
+    "url": "https://www.hyperbound.ai/case-studies/vanta",
+    "pass": 1
+   },
+   {
+    "quote": "James Cassin-Reed, VP of Revenue Strategy",
+    "url": "https://www.hyperbound.ai/case-studies/alku",
+    "pass": 1
+   },
+   {
+    "quote": "What used to take around 6 months now takes closer to 3. Reps are closing their first opportunities in half the time, accelerating the path from hiring to revenue contribution.",
+    "url": "https://www.hyperbound.ai/case-studies/alku",
+    "pass": 1
+   },
+   {
+    "quote": "Klaviyo’s GTM motion went through a period of rapid change. The product expanded, the company pushed into new markets, and the playbook that had carried reps in the past stopped working in the present.",
+    "url": "https://www.hyperbound.ai/case-studies/klaviyo",
+    "pass": 1
+   },
+   {
+    "quote": "Rolling out an updated Klaviyo narrative the old way would have taken weeks, and Cody wouldn’t even have visibility into whether the roleplays were happening. At a thousand reps, the old model wasn’t just slow. It was a bottleneck to the number.",
+    "url": "https://www.hyperbound.ai/case-studies/klaviyo",
+    "pass": 1
+   },
+   {
+    "quote": "“Practicing and pitching a new narrative had always been a blocker because it was so hard to scale.”",
+    "url": "https://www.hyperbound.ai/case-studies/klaviyo",
+    "pass": 1
+   },
+   {
+    "quote": "At GTM kickoff, the team launched a fully updated Klaviyo narrative and built a custom Hyperbound scenario reps could run on their own, from discovery through the updated pitch. Instead of giving managers a month to schedule a roleplay, reps did it right there, at kickoff.",
+    "url": "https://www.hyperbound.ai/case-studies/klaviyo",
+    "pass": 1
+   },
+   {
+    "quote": "Alec Harrises, Program Manager of Operations",
+    "url": "https://www.hyperbound.ai/case-studies/klaviyo",
+    "pass": 1
+   },
+   {
+    "quote": "Before Hyperbound, building and fine-tuning a roleplay took days or weeks, and rolling out the kickoff narrative would have taken multiple weeks. Now the team feeds Kota a couple of existing resources and starts enabling the floor right away.",
+    "url": "https://www.hyperbound.ai/case-studies/klaviyo",
+    "pass": 1
+   },
+   {
+    "quote": "New-hire productivity per rep (PPR) climbed 42% YoY. Consistent, repeatable practice on the right conversations translated directly into ramping reps bringing in more revenue, sooner.",
+    "url": "https://www.hyperbound.ai/case-studies/klaviyo",
+    "pass": 1
+   },
+   {
+    "quote": "We're pioneering a new category in revenue technology. Our AI analyzes",
+    "url": "https://www.hyperbound.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "タームシート前の 2 か月間、いずれも 100 万ドル超の新規 ARR を積み上げたと説明しています",
+    "url": "https://ooligo.com/ja/tools/hyperbound/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客接点を記録・分析し、実用的なインサイトを提供するRevenue AIプラットフォーム",
+    "url": "https://moge.ai/ja/product/hyperbound",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperbound: From Boba Shop to $1M ARR - How Sai & Atul Built an AI Roleplay Empire",
+    "url": "https://www.toolmage.com/ja/tool/hyperbound/",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperbound AI analyzes thousands of your sales calls, uncovers why your top reps win, and builds AI roleplays to help you quickly evolve and reinforce your playbooks as you scale. They pioneered AI Sales Roleplay technology and they're transforming the way mid-market/enterprise revenue teams upskill and prepare their workforce.",
+    "url": "https://www.casestudies.com/company/hyperbound",
+    "pass": 3
+   },
+   {
+    "quote": "How Nivoda Onboarded 30 Reps Without Risking Revenue",
+    "url": "https://www.casestudies.com/company/hyperbound",
+    "pass": 3
+   },
+   {
+    "quote": "Nivoda Doubles Revenue and Scales Sales Coaching with Hyperbound",
+    "url": "https://www.casestudies.com/company/hyperbound",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/534508-03",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperbound has 36 total employees.",
+    "url": "https://pitchbook.com/profiles/company/534508-03",
+    "pass": 3
+   },
+   {
+    "quote": "What is Hyperbound’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/534508-03",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Hyperbound is",
+    "url": "https://pitchbook.com/profiles/company/534508-03",
+    "pass": 3
+   },
+   {
+    "quote": "Arena applies predictive analytics and machine learning to talent acquisition challenges.",
+    "url": "https://fundediq.co/hyperbound-hyperbound-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Sales Coaching & Role-Play Platform to Upskill Your Revenue Team | Built for Enterprise",
+    "url": "https://fundediq.co/hyperbound-hyperbound-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Hyperbound have?",
+    "url": "https://fundediq.co/hyperbound-hyperbound-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/hyperbound-hyperbound-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/hyperbound-hyperbound-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Happyrobot handles calls for freight brokers and carriers - with use cases including pre-trip check calls, load updates, price negotiations, and more.",
+    "url": "https://note.com/vitaactiva/n/neb145cccbcb9",
+    "pass": 3
+   },
+   {
+    "quote": "We're moving from the innovator -> early adopter part of the curve, with new startups sprouting up weekly to serve different verticals.",
+    "url": "https://note.com/vitaactiva/n/neb145cccbcb9",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Calls, roleplays, email, CRM, and Slack — connected through your",
+    "url": "https://www.hyperbound.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "below, email",
+    "url": "https://www.hyperbound.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Developer of an artificial intelligence-based hyper-personalized sales email software designed to research prospects using domain-specific knowledge in CRM.",
+    "url": "https://pitchbook.com/profiles/company/534508-03",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/534508-03",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the Hyperbound team: 1 of 1 has an email address on file, 1 has a LinkedIn profile.",
+    "url": "https://fundediq.co/hyperbound-hyperbound-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/hyperbound-hyperbound-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "B2B Sales Trainers & Agencies | Hyperbound",
+    "url": "https://www.hyperbound.ai/industries/b2b-sales-trainers-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "B2B Sales Trainers & Agencies",
+    "url": "https://www.hyperbound.ai/industries/b2b-sales-trainers-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Sales trainers and agencies need to scale their expertise, reinforce methodologies, and stay ahead of industry trends.",
+    "url": "https://www.hyperbound.ai/industries/b2b-sales-trainers-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "B2B Call Centers & Outsourced Agencies | Hyperbound",
+    "url": "https://www.hyperbound.ai/industries/b2b-call-centers-outsourced-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "B2B Call Centers & Outsource Agencies",
+    "url": "https://www.hyperbound.ai/industries/b2b-call-centers-outsourced-agencies",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Hyperbound（ハイパーバウンド）とは？評判・料金・機能【無料あり】 ... — Oct 1, 2026 · Hyperbound（ハイパーバウンド）の評判・料金・代替ツールを比較。 Hyperboundは、AIが演じる買い手を相手に営業トークを練習できるロールプレイと、実際の商談録音の採点・コーチングを一つにまとめた営業育成プラットフォームです。",
+    "url": "https://aipicks.jp/tool/hyperbound",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperbound | AI Sales Roleplay & Coaching Platform — Connect Hyperbound to the tools your team already uses. Bring insights and coaching actions into your existing workflows, so reps can act on them as part of their day.",
+    "url": "https://www.hyperbound.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperbound: AIを活用した営業ロールプレイングでスキルアップ！ — Jul 3, 2025 · そこで注目されているのが、AIを活用した営業ロールプレイングツール「Hyperbound」です。 この記事では、Hyperboundの機能、使用例、価格、メリット・デメリットを詳しく解説し、営業スキル向上にどのように役立つのかを深掘りします。",
+    "url": "https://www.toolify.ai/ja/ai-news-jp/hyperbound-ai活用営業-3384820",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperbound — ooligo — Hyperbound は ICP の説明文を、営業担当が実際に電話をかけられる AI バイヤーに変換し、その通話を自社のスコアカードで採点します。 この製品の提供開始は 2024 年 1 月です。 その後の 2 年間で周辺機能を広げ、現在は 3 つの製品を販売しています。",
+    "url": "https://ooligo.com/ja/tools/hyperbound/",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperbound:AI駆動の営業ロールプレイプラットフォーム。ICPからイン... — Hyperboundは、営業チームがコールドコール、ウォームコール、ディスカバリーコール、ゲートキーパー対応をリスクフリーなシミュレーション環境で練習できる、先進的なAI搭載営業トレーニング&アップスキリングプラットフォームです。",
+    "url": "https://moge.ai/ja/product/hyperbound",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperbound | AI Sales Roleplay & Coaching Platform — Hyperbound is the Revenue Activation Platform. Score real calls, practice with AI roleplays, and let Kota agents close the loop on every deal.",
+    "url": "https://www.hyperbound.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "About Us | Hyperbound — Learn about Hyperbound, the AI Sales Coaching platform that analyzes your top reps' calls to create realistic roleplays. Drive team consistency and cut ramp time.",
+    "url": "https://www.hyperbound.ai/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperbound | AIセールスコーチング＆ロールプレイングプラットフォー... — Hyperboundは、営業チームのトレーニング、改善、パフォーマンスの方法を変革するために設計された、高度なAIセールスコーチングプラットフォームです。 200万時間以上のB2B営業通話でトレーニングされたAIを活用し、Hyperboundは長年のセールストレーニングの課題に対して、スケーラブルで効果的なソリューションを提供します。 実際の通話データを実用的なトレーニングモジュールに変換することで、従来のメソッドを超え、営業担当者が取引の成否を分ける瞬間に備えられるようにします。",
+    "url": "https://www.toolmage.com/ja/tool/hyperbound/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Roleplay Languages Supported - support.hyperbound.ai — If you do not see the language you want to use for AI roleplay, please reach out to us at support@hyperbound.ai. We are continuously working to expand our language offerings to better serve you.",
+    "url": "https://support.hyperbound.ai/articles/9223295945-ai-roleplay-languages-supported",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | Hyperbound — Customer success stories from leading sales teams. See real-world examples and measurable outcomes on how Hyperbound's AI coaching drives revenue and reduces ramp time.",
+    "url": "https://www.hyperbound.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories | Hyperbound — Customer success stories from leading sales teams. See real-world examples and measurable outcomes on how Hyperbound's AI coaching drives revenue and reduces ramp time.",
+    "url": "https://www.hyperbound.ai/success-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperbound B2B Case Studies & Customer Successes — See how Hyperbound solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/hyperbound",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperbound Customer Case Study: Speed & Security for AI ... — We got a sneak peek of this customer case study with Hyperbound at the Anaconda Company Kickoff last week. It left such a strong impression.",
+    "url": "https://www.linkedin.com/posts/jstefanowicz_anaconda-x-hyperbound-activity-7429955671338622976-IyF4",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperbound Builds Enterprise AI Sales Coach with Conda — As Hyperbound pursued larger customers, a new set of challenges emerged: Enterprise security teams wanted answers about package management, license compliance, and audit trails.",
+    "url": "https://www.anaconda.com/resources/case-study/hyperbound",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperbound 2026 Company Profile: Valuation, Funding ...Hyperbound - 2025 Company Profile, Team, Funding ... - TracxnHyperbound: Funding, Investors & Team (Oct 2026) | FundedIQHyperbound - Crunchbase Company Profile & FundingHyperbound: Funding, Team & Investors | Startup IntrosHyperbound — investors & funding | gritt.ioHyperbound Revenue 2024: $3.2M Est. - getlatka.com — Information on valuation, ",
+    "url": "https://pitchbook.com/profiles/company/534508-03",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperbound - 2025 Company Profile, Team, Funding ... - TracxnHyperbound: Funding, Investors & Team (Oct 2026) | FundedIQHyperbound - Crunchbase Company Profile & FundingHyperbound: Funding, Team & Investors | Startup IntrosHyperbound — investors & funding | gritt.ioHyperbound Revenue 2024: $3.2M Est. - getlatka.com — Dec 20, 2025 · It operates as an AI powered sales automation platform. Hyperbound",
+    "url": "https://tracxn.com/d/companies/hyperbound/__aHYh9oHR2y-4rLXTEnL6pTYmi1HyCdeA2qYeetYjwUc",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperbound: Funding, Investors & Team (Oct 2026) | FundedIQ — Hyperbound is an Artificial Intelligence company in San Francisco, United States. Raised $15.0M across 1 round; latest a Series A in Sep 2025.",
+    "url": "https://fundediq.co/hyperbound-hyperbound-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperbound - Crunchbase Company Profile & FundingHyperbound: Funding, Team & Investors | Startup IntrosHyperbound — investors & funding | gritt.ioHyperbound Revenue 2024: $3.2M Est. - getlatka.com — AI Sales Coaching & Role-Play Platform to Upskill Your Revenue Team | Built for Enterprise Jul 13, 2026 · Its customer base includes enterprises such as Autodesk, Monday.com, and Bloomberg, utilizing t",
+    "url": "https://www.crunchbase.com/organization/hyperbound-fc9e",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperbound: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Its customer base includes enterprises such as Autodesk, Monday.com, and Bloomberg, utilizing the platform to accelerate ramp times and boost win rates for revenue teams. The company, which maintains a team of 30-43 employees, was founded in 2023 by Sriharsha Guduguntla and Atul Raghunathan.",
+    "url": "https://startupintros.com/orgs/hyperbound",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "AI音声エージェントがアツい ｜マルチモーダルデザイン研究所 | ビタ... Oct 2, 2024 · Hyperbound helps companies train salespeople using AI buyers - users practice simulated calls with voice agents that are customized to their customer personas. Sales reps from 7k companies have used Hyperbound to practice 100k calls. pic.twitter.com/riLNHe5alH",
+    "url": "https://note.com/vitaactiva/n/neb145cccbcb9",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "AI音声エージェントがアツい🔥｜Vita Activa｜実践知デザインスタジオ",
+    "url": "https://note.com/vitaactiva/n/neb145cccbcb9",
+    "pass": 3
+   },
+   {
+    "quote": "Vita Activa｜実践知デザインスタジオ",
+    "url": "https://note.com/vitaactiva/n/neb145cccbcb9",
+    "pass": 3
+   },
+   {
+    "quote": "AIを活用した音声エージェントが急速に普及しています。",
+    "url": "https://note.com/vitaactiva/n/neb145cccbcb9",
+    "pass": 3
+   },
+   {
+    "quote": "イノベーター理論において、イノベーターからアーリーアダプターへと移行する段階に突入。様々な業界で、AIボイスエージェントを活用する新興企業が次々と誕生しています。",
+    "url": "https://note.com/vitaactiva/n/neb145cccbcb9",
+    "pass": 3
+   },
+   {
+    "quote": "とはいえ、テクノロジーの最前線を行く企業であっても、最新のAIボイスエージェントに完全に対応できているわけではありません。この革新的技術をいち早く取り入れる先駆者たちには、いくつかの共通点が見られます。",
+    "url": "https://note.com/vitaactiva/n/neb145cccbcb9",
+    "pass": 3
+   },
+   {
+    "quote": "まず特筆すべきは、彼らが新規ビジネスが電話に大きく依存していることです。これらの企業が扱う通話は、明確に定義されたタスクや構造を持ち、比較的リスクが低いのが特徴です。生死に関わるような重大な案件ではないからこそ、新技術の導入に踏み切れるのでしょう。",
+    "url": "https://note.com/vitaactiva/n/neb145cccbcb9",
+    "pass": 3
+   },
+   {
+    "quote": "また、見込み客との貴重な接点をボイスメールで逃すことを嫌う傾向も強く見られます。顧客との直接的なコミュニケーションを重視する姿勢が、AIボイスエージェント採用の原動力となっているようです。",
+    "url": "https://note.com/vitaactiva/n/neb145cccbcb9",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、もっとも最初に取り入れるイノベーターには、中小企業の予約管理、コールセンターサービス、電話営業、レストラン注文などが挙げられます。",
+    "url": "https://note.com/vitaactiva/n/neb145cccbcb9",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Hyperbound (@HyperboundAI) / X Hyperbound @HyperboundAI The virtual sales gym to upskill your SDRs & AEs on the phones San Francisco, CA",
+    "url": "https://x.com/hyperboundai",
+    "pass": 3
+   },
+   {
+    "quote": "Luke Alexander on X: \"Hyperbound is a YC company and has ... Hyperbound is a YC company and has raised $18M? Launched in 2023 by two engineers Kendo is bootstrapped, launched in 2025 by career sales reps and sales managers and has a better, more detailed product already (I say this objectively you can be the judge from the video) Let the games begin!",
+    "url": "https://x.com/Lukealexxander/status/2078181178520093039",
+    "pass": 3
+   },
+   {
+    "quote": "hairnetness hyperbound AnnK (@AgentAnnK). hairnetness hyperbound Explore Trending Stories Go to Home Search X News",
+    "url": "https://x.com/AgentAnnK/status/522195891705634816",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperbound on X: \"November is stacked and we’re pumped ... November is stacked and we’re pumped! Taking the stage at all 3: Miami, CRO Exchange: Nov 8, 11:40 AM ET Toronto, @SECollective_: Nov 12, 10:30 AM ET Chicago, SE & RevOps Summit: Nov 18, 10:10 AM & 2:30 PM CT 04 Nov 2026 18:30:01",
+    "url": "https://x.com/HyperboundAI/status/2118048136887165348",
+    "pass": 3
+   },
+   {
+    "quote": "Luke Alexander on X: \"Hyperbound is a YC company and has ... Jul 17, 2026 · Hyperbound is a YC company and has raised $18M? Launched in 2023 by two engineers Kendo is bootstrapped, launched in 2025 by career sales reps and sales managers and has a better, more detailed product already (I say this objectively you can be the judge from the video) Let the games begin!",
+    "url": "https://x.com/Lukealexxander/status/2078181178520093039",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Hyperbound - LinkedIn Trusted by enterprises like IBM, LinkedIn, Monday.com, Bloomberg, Vanta, Autodesk, and G2, Hyperbound helps revenue teams ramp 50% faster, define what good looks like, and scale top performance...",
+    "url": "https://www.linkedin.com/company/hyperbound-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Sriharsha Guduguntla - Hyperbound | LinkedInLouis Zahawi Eid - GTM Leader @ Hyperbound | LinkedInSiddharth Venu - Working on exciting stuff | ex-YC founder ...Atul Raghunathan - CEO Hyperbound (YC S23) - LinkedInMia Kosoglow - founding marketing lead at hyperbound.ai ...Top Hyperbound Alternatives in 2026 - LinkedIn I'm the Co-Founder & CEO of Hyperbound (hyperbound.ai), the first… · Experience: H",
+    "url": "https://www.linkedin.com/in/sguduguntla",
+    "pass": 3
+   },
+   {
+    "quote": "Louis Zahawi Eid - GTM Leader @ Hyperbound | LinkedInSiddharth Venu - Working on exciting stuff | ex-YC founder ...Atul Raghunathan - CEO Hyperbound (YC S23) - LinkedInMia Kosoglow - founding marketing lead at hyperbound.ai ...Top Hyperbound Alternatives in 2026 - LinkedIn Most sales teams don't have a data problem, they have an execution problem. Hyperbound helps bridge that gap by turning insigh",
+    "url": "https://uk.linkedin.com/in/louis-zahawi-eid-6434a86b",
+    "pass": 3
+   },
+   {
+    "quote": "Siddharth Venu - Working on exciting stuff | ex-YC founder ...Atul Raghunathan - CEO Hyperbound (YC S23) - LinkedInMia Kosoglow - founding marketing lead at hyperbound.ai ...Top Hyperbound Alternatives in 2026 - LinkedIn Working on exciting stuff | ex-YC founder | Lightspeed EE’21 · Currently working as a founding engineer and head of security at \"Hyperbound\" - an AI Sales Roleplay and Upskilling ",
+    "url": "https://in.linkedin.com/in/sidvenu",
+    "pass": 3
+   },
+   {
+    "quote": "Atul Raghunathan - CEO Hyperbound (YC S23) - LinkedInSriharsha Guduguntla - Hyperbound | LinkedInHyperbound CEO, Founder, Key Executive Team, Board of ...Hyperbound | AI Sales Roleplay & Coaching PlatformSriharsha Guduguntla - CEO @ Hyperbound - CrunchbaseHyperbound 2026 Company Profile: Valuation, Funding ...About Us | Hyperbound CEO Hyperbound (YC S23) - Hyperbound.ai/careers · We're building th",
+    "url": "https://www.linkedin.com/in/atul-raghunathan",
+    "pass": 3
+   },
+   {
+    "quote": "Sriharsha Guduguntla - Hyperbound | LinkedInHyperbound CEO, Founder, Key Executive Team, Board of ...Hyperbound | AI Sales Roleplay & Coaching PlatformSriharsha Guduguntla - CEO @ Hyperbound - CrunchbaseHyperbound 2026 Company Profile: Valuation, Funding ...About Us | Hyperbound About Call me Sai! I'm the Co-Founder & CEO of Hyperbound (hyperbound.ai), the first… Explore {Hyperbound's key manageme",
+    "url": "https://www.linkedin.com/in/sguduguntla",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Hyperbound - Facebook Jul 24, 2023 · Hyperbound. 14 likes. Research, generate, and launch hundreds of personalized email campaigns with one click.",
+    "url": "https://www.facebook.com/people/Hyperbound/100094883662192/",
+    "pass": 3
+   },
+   {
+    "quote": "YourStory - YC-backed Hyperbound raises $15M ... - Facebook 🚨 YC-backed Hyperbound raises $15M from Peak XV San Francisco-based Hyperbound, a Y Combinator-backed startup, has raised $15M in Series A funding led...",
+    "url": "https://www.facebook.com/yourstorycom/posts/-yc-backed-hyperbound-raises-15m-from-peak-xvsan-francisco-based-hyperbound-a-y-/1238806724947966/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.hyperbound.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyperbound.ai/industries/b2b-sales-trainers-agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyperbound.ai/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyperbound.ai/industries/b2b-call-centers-outsourced-agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyperbound.ai/use-cases/hiring",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyperbound.ai/industries/b2b-saas-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyperbound.ai/industries/transportation-logistics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyperbound.ai/industries/banking-financial-advisors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyperbound.ai/pricing-b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyperbound.ai/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyperbound.ai/case-studies/vanta",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyperbound.ai/case-studies/alku",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyperbound.ai/case-studies/klaviyo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyperbound.ai/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hyperbound.ai/about-us",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://aipicks.jp/tool/hyperbound",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.toolify.ai/ja/ai-news-jp/hyperbound-ai%E6%B4%BB%E7%94%A8%E5%96%B6%E6%A5%AD-3384820",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ooligo.com/ja/tools/hyperbound/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sidebizz.net/blog/agent/general-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://moge.ai/ja/product/hyperbound",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toolmage.com/ja/tool/hyperbound/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/hyperbound",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/jstefanowicz_anaconda-x-hyperbound-activity-7429955671338622976-IyF4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/534508-03",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/hyperbound/__aHYh9oHR2y-4rLXTEnL6pTYmi1HyCdeA2qYeetYjwUc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fundediq.co/hyperbound-hyperbound-ai-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/hyperbound-fc9e",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/vitaactiva/n/neb145cccbcb9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hyperboundai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Lukealexxander/status/2078181178520093039",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AgentAnnK/status/522195891705634816",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HyperboundAI/status/2118048136887165348",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/hyperbound-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/sguduguntla",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/louis-zahawi-eid-6434a86b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/sidvenu",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/Hyperbound/100094883662192/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/yourstorycom/posts/-yc-backed-hyperbound-raises-15m-from-peak-xvsan-francisco-based-hyperbound-a-y-/1238806724947966/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/atul-raghunathan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/sguduguntla",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hyperboundai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Lukealexxander/status/2078181178520093039",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Hyperbound 日本 導入",
+   "results": [
+    "https://aipicks.jp/tool/hyperbound",
+    "https://www.hyperbound.ai/",
+    "https://www.toolify.ai/ja/ai-news-jp/hyperbound-ai活用営業-3384820",
+    "https://ooligo.com/ja/tools/hyperbound/",
+    "https://moge.ai/ja/product/hyperbound",
+    "https://marketplace.microsoft.com/ja-jp/product/intelligentsystemscorp1776108182401.hyperbound",
+    "https://www.msn.com/ja-jp/autos/suvs/6-4リッターv8搭載の-怪物ジープ-が日本上陸-約477馬力-35インチタイヤを装備-ラングラー-moab-392-正規導入-決定の背景とは/ar-AA2h6Sl0"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hyperbound 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hyperbound Japan",
+   "results": [
+    "https://www.hyperbound.ai/",
+    "https://www.hyperbound.ai/about-us",
+    "https://moge.ai/ja/product/hyperbound",
+    "https://www.toolmage.com/ja/tool/hyperbound/",
+    "https://support.hyperbound.ai/articles/9223295945-ai-roleplay-languages-supported",
+    "https://app.hyperbound.ai/?trk=public_post-text",
+    "https://michaeliantorno.com/double-bootlegs-reproduction-cartridges-of-videogame-hacks/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hyperbound manufacturing customer case study",
+   "results": [
+    "https://www.hyperbound.ai/case-studies",
+    "https://www.hyperbound.ai/success-stories",
+    "https://www.casestudies.com/company/hyperbound",
+    "https://www.linkedin.com/posts/jstefanowicz_anaconda-x-hyperbound-activity-7429955671338622976-IyF4",
+    "https://www.anaconda.com/resources/case-study/hyperbound",
+    "https://www.featuredcustomers.com/vendor/hyperbound/case-studies",
+    "https://www.vanta.com/customers/hyperbound"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hyperbound white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://partners.spectrum.com/",
+    "https://www.resellercluster.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hyperbound founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/534508-03",
+    "https://tracxn.com/d/companies/hyperbound/__aHYh9oHR2y-4rLXTEnL6pTYmi1HyCdeA2qYeetYjwUc",
+    "https://fundediq.co/hyperbound-hyperbound-ai-funding/",
+    "https://www.crunchbase.com/organization/hyperbound-fc9e",
+    "https://startupintros.com/orgs/hyperbound",
+    "https://www.gritt.io/company/hyperbound-ai/",
+    "https://getlatka.com/companies/hyperbound.ai"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Hyperbound",
+   "results": [
+    "https://note.com/diparururun/n/n78c1fbc5e52d",
+    "https://note.com/vitaactiva/n/neb145cccbcb9",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/yowoureumono/n/nb8830a3de3c1",
+    "https://note.com/kzstock/n/n8464ba129797"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Hyperbound",
+   "results": [
+    "https://x.com/hyperboundai",
+    "https://x.com/Lukealexxander/status/2078181178520093039",
+    "https://x.com/AgentAnnK/status/522195891705634816",
+    "https://x.com/HyperboundAI/status/2118048136887165348",
+    "https://x.com/omooretweets/status/1841143621434949809",
+    "https://x.com/lukealexxander",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Hyperbound",
+   "results": [
+    "https://www.linkedin.com/company/hyperbound-ai",
+    "https://www.linkedin.com/in/sguduguntla",
+    "https://uk.linkedin.com/in/louis-zahawi-eid-6434a86b",
+    "https://in.linkedin.com/in/sidvenu",
+    "https://www.linkedin.com/in/atul-raghunathan",
+    "https://www.linkedin.com/in/miakosoglow",
+    "https://www.linkedin.com/pulse/top-hyperbound-alternatives-2026-pulsechronicles-5uomc"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Hyperbound",
+   "results": [
+    "https://www.facebook.com/people/Hyperbound/100094883662192/",
+    "https://www.facebook.com/yourstorycom/posts/-yc-backed-hyperbound-raises-15m-from-peak-xvsan-francisco-based-hyperbound-a-y-/1238806724947966/",
+    "https://www.facebook.com/\u0000jperes88/",
+    "https://www.facebook.com/hypebound/",
+    "https://www.facebook.com/SutardjaCenter/videos/meet-sai-guduguntla-berkeley-cs-22-scet-alumni-and-co-founder-of-hyperbound-yc-2/319757227133714/",
+    "https://www.facebook.com/reel/8399379906848337/",
+    "https://www.facebook.com/sincerepro.notes/photos/年輕人該怎麼找-ai-工作一為企業家朋友的兒子想找-ai-方面的工作看了他的履歷表之後我直接建議他試試美國的-ai-新創企業年薪大約可以有2030萬美元wow是/1367167298773470/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hyperbound note 社長",
+   "results": [
+    "https://www.linkedin.com/in/atul-raghunathan",
+    "https://www.linkedin.com/in/sguduguntla",
+    "https://www.cbinsights.com/company/hyperbound/people",
+    "https://www.hyperbound.ai/",
+    "https://www.crunchbase.com/person/sriharsha-guduguntla",
+    "https://pitchbook.com/profiles/company/534508-03",
+    "https://www.hyperbound.ai/about-us"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hyperbound X 投稿",
+   "results": [
+    "https://x.com/hyperboundai",
+    "https://www.hyperbound.ai/",
+    "https://x.com/Lukealexxander/status/2078181178520093039",
+    "https://www.hyperbound.ai/about-us",
+    "https://auth.hyperbound.ai/",
+    "https://app.hyperbound.ai/",
+    "https://x.com/BeyondTheBoxCN/status/2120026165163237826"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式15頁／PDF・画像0件／外部34頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式15頁／PDF・画像0件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式15頁／PDF・画像0件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式15頁／PDF・画像0件／外部34頁・検索12回）"
+ }
+}

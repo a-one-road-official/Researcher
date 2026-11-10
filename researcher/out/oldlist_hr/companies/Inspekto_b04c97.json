@@ -1,0 +1,819 @@
+{
+ "name": "Inspekto",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-10T14:31:43.235996+00:00",
+ "official_url": "https://www.siemens.com/global/en/products/automation/topic-areas/inspekto-ai-inspection.html",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "The name, physical address, telephone number, and e-mail address of the Work claimant, along with the same information for you if you are acting as an authorized representative;",
+    "url": "https://www.siemens.com/en-us/company/customer-partner-terms/sw-terms/dmca/",
+    "pass": 1
+   },
+   {
+    "quote": "A statement under penalty of perjury that the information provided by you to SISW in your DMCA submission to SISW is accurate and that you are the owner of the Work or are authorized to act on behalf of the Work owner.",
+    "url": "https://www.siemens.com/en-us/company/customer-partner-terms/sw-terms/dmca/",
+    "pass": 1
+   },
+   {
+    "quote": "You must provide any necessary information in plain text. An electronic signature is acceptable.",
+    "url": "https://www.siemens.com/en-us/company/customer-partner-terms/sw-terms/dmca/",
+    "pass": 1
+   },
+   {
+    "quote": "If Work you uploaded has been removed by SISW in response to its receipt of a DMCA Notice as outlined above, and you believe the removal was inappropriate, you may submit a DMCA Counter Notice to SISW using the email address or physical address shown above.",
+    "url": "https://www.siemens.com/en-us/company/customer-partner-terms/sw-terms/dmca/",
+    "pass": 1
+   },
+   {
+    "quote": "address, along with the same information for you if you are acting as an authorized representative; and",
+    "url": "https://www.siemens.com/en-us/company/customer-partner-terms/sw-terms/dmca/",
+    "pass": 1
+   },
+   {
+    "quote": "A statement that you consent to the jurisdiction of the Federal District Court for the judicial district in which your address is located (or the Eastern District of Texas if you reside outside of the United States) and that you will accept service of process from the person who submitted the DMCA Notice or an agent of such person.",
+    "url": "https://www.siemens.com/en-us/company/customer-partner-terms/sw-terms/dmca/",
+    "pass": 1
+   },
+   {
+    "quote": "SISW reserves the right to terminate the account(s) of repeat infringers at its sole discretion. Users whose content is restored as a result of a DMCA Counter-Notice will not have the original DMCA Notice counted as a “strike” against them for repeat infringer purposes.",
+    "url": "https://www.siemens.com/en-us/company/customer-partner-terms/sw-terms/dmca/",
+    "pass": 1
+   },
+   {
+    "quote": "The information above is provided for general informational purposes only and is not intended as legal advice. If you have any questions about this information or your specific situation or rights, please seek legal advice from a legal professional.",
+    "url": "https://www.siemens.com/en-us/company/customer-partner-terms/sw-terms/dmca/",
+    "pass": 1
+   },
+   {
+    "quote": "※LINX Express 配信の中止・アドレスの変更をご希望の方は、お手数ですが",
+    "url": "https://linx.jp/linx_express/i20365/linx_express_i20365.php",
+    "pass": 3
+   },
+   {
+    "quote": "※LINX Express 配信の中止・アドレスの変更をご希望の方は、お手数ですが",
+    "url": "https://linx.jp/linx_express/i21375/linx_express_i21375.php",
+    "pass": 3
+   },
+   {
+    "quote": "Objectives: The challenge was very clear: increase the accuracy and efficiency of batch inspection processes. BSH Project Engineers Markus Maier and Stefan Schauberger were responsible for reducing the detection time of component defects at one of the BSH oven manufacturing plants in Traunreut. For that reason, they approached BSH and Inspekto was deployed.",
+    "url": "https://references.siemens.com/en/reference/bsh-start-up-kitchen?id=RMW00391",
+    "pass": 3
+   },
+   {
+    "quote": "BSH Startup Kitchen helped reduce material scrap by up to 90% with Inspekto compared to previous inspection",
+    "url": "https://references.siemens.com/en/reference/bsh-start-up-kitchen?id=RMW00391",
+    "pass": 3
+   },
+   {
+    "quote": "Inspekto system set up was easy and recognized the defects, reporting them live for constantly improving quality assurance performance. This supported the main goals of the customer and was implemented in more use cases than originally planned.",
+    "url": "https://references.siemens.com/en/reference/bsh-start-up-kitchen?id=RMW00391",
+    "pass": 3
+   },
+   {
+    "quote": "Inspekto...breakthrough AI solution is..Machine Vision System that automates QC processes via..self-learning, stand-alone, user-centric approach.The goal is to reduce the Total Cost of Defect.",
+    "url": "https://references.siemens.com/en/reference/bsh-start-up-kitchen?id=RMW00391",
+    "pass": 3
+   },
+   {
+    "quote": "Contact our sales for more information and to discuss directly how our products and solutions could help you to best solve your problem.",
+    "url": "https://references.siemens.com/en/reference/bsh-start-up-kitchen?id=RMW00391",
+    "pass": 3
+   },
+   {
+    "quote": "ISA provides technical resources and standards to help industrial automation professionals advance their careers and the field. We enable automation professionals worldwide to solve problems and enhance their skills by bringing people together to create new technologies and share best practices with future automation professionals.",
+    "url": "https://www.automation.com/article/case-study-autonomous-machine-vision-system",
+    "pass": 3
+   },
+   {
+    "quote": "who invented Autonomous Machine Vision (AMV). The BSH Appliance Group comprises 40 facilities worldwide and employs more than 62,000 people. Its commitment to sustainability is actualized in the production of energy-saving appliances, as well as in the reduction of the company’s environmental footprint in all areas of the value chain.",
+    "url": "https://www.automation.com/article/case-study-autonomous-machine-vision-system",
+    "pass": 3
+   },
+   {
+    "quote": "BSH Project Engineers Markus Maier and Stefan Schauberger were responsible for reducing the detection time of component defects at one of BSH’s oven manufacturing plants in Traunreut, Germany. They approached BSH Startup Kitchen with this problem, and a partnership with Inspekto was formed.",
+    "url": "https://www.automation.com/article/case-study-autonomous-machine-vision-system",
+    "pass": 3
+   },
+   {
+    "quote": "System-wide Internet protocol communications, 5G wireless, OPC standards, and more are transforming industrial systems. This feature originally appeared in Bill Lydon's 7th Annual Industrial Automation & Control Trends Report.",
+    "url": "https://www.automation.com/article/case-study-autonomous-machine-vision-system",
+    "pass": 3
+   },
+   {
+    "quote": "Preview Hannover Messe 2021: Innovative Product Presentations",
+    "url": "https://www.automation.com/article/case-study-autonomous-machine-vision-system",
+    "pass": 3
+   },
+   {
+    "quote": "Siemen's factory in Erlangen, Germany has become a Digital Lighthouse Factory by following the Green Lean Digital approach and many practices that position it as a leading technological production site, at the edge of industry 4.0, harnessing newfound technologies to achieve staggering results.",
+    "url": "https://references.siemens.com/en/reference/siemens-geraetewerk-erlangen-gwe-ge?id=RMW00646",
+    "pass": 3
+   },
+   {
+    "quote": "Ensure good product quality and reduce non conformance costs. Easy setup and integration in existing Siemens automation portfolio. Great performance.",
+    "url": "https://references.siemens.com/en/reference/siemens-geraetewerk-erlangen-gwe-ge?id=RMW00646",
+    "pass": 3
+   },
+   {
+    "quote": "Contact our sales for more information and to discuss directly how our products and solutions could help you to best solve your problem.",
+    "url": "https://references.siemens.com/en/reference/siemens-geraetewerk-erlangen-gwe-ge?id=RMW00646",
+    "pass": 3
+   },
+   {
+    "quote": "AI-based Inspekto enables 100% inspection directly in production",
+    "url": "https://references.siemens.com/en/reference/siemens-geraetewerk-erlangen-gwe-ge?id=RMW00646",
+    "pass": 3
+   },
+   {
+    "quote": "Inspekto 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/231992-83",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/231992-83",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/231992-83",
+    "pass": 3
+   },
+   {
+    "quote": "01-Apr-2018",
+    "url": "https://pitchbook.com/profiles/company/231992-83",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/231992-83",
+    "pass": 3
+   },
+   {
+    "quote": "Inspekto’s primary industry is Electronic Equipment and Instruments.",
+    "url": "https://pitchbook.com/profiles/company/231992-83",
+    "pass": 3
+   },
+   {
+    "quote": "Is Inspekto a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/231992-83",
+    "pass": 3
+   },
+   {
+    "quote": "Inspekto is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/231992-83",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/231992-83",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/231992-83",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/231992-83",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "The name, physical address, telephone number, and e-mail address of the Work claimant, along with the same information for you if you are acting as an authorized representative;",
+    "url": "https://www.siemens.com/en-us/company/customer-partner-terms/sw-terms/dmca/",
+    "pass": 1
+   },
+   {
+    "quote": "Once SISW receives your DMCA notice, you will receive an automated email acknowledging receipt of your notice. If SISW has questions about your notice, we will email you requesting more information. Once SISW receives the additional information from you, it will investigate your claim.",
+    "url": "https://www.siemens.com/en-us/company/customer-partner-terms/sw-terms/dmca/",
+    "pass": 1
+   },
+   {
+    "quote": "If Work you uploaded has been removed by SISW in response to its receipt of a DMCA Notice as outlined above, and you believe the removal was inappropriate, you may submit a DMCA Counter Notice to SISW using the email address or physical address shown above.",
+    "url": "https://www.siemens.com/en-us/company/customer-partner-terms/sw-terms/dmca/",
+    "pass": 1
+   },
+   {
+    "quote": "Your contact information, including name, physical address, telephone number, and email",
+    "url": "https://www.siemens.com/en-us/company/customer-partner-terms/sw-terms/dmca/",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/231992-83",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "株式会社リンクスは、Inspekto社の国内総代理店として、2020年12月より同社製品である画像検査装置「S70」の正式販売を開始いたします",
+    "url": "https://linx.jp/linx_express/i20365/linx_express_i20365.php",
+    "pass": 3
+   },
+   {
+    "quote": "【ねじ・ネジ・業界紙】 ＩＩｏＴ分野における最先端技術の技術商社である㈱リンクス（東京都品川区",
+    "url": "https://www.nejinews.co.jp/news/fastener/archive/eid9350.html",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、イスラエルのＩＮＳＰＥＫＴＯ社と２０２１年１月にＡＩ画像処理検査装置「Ｉｎｓｐｅｋｔｏ Ｓ70」の日本国内における総代理店契約を締結",
+    "url": "https://www.nejinews.co.jp/news/fastener/archive/eid9350.html",
+    "pass": 3
+   },
+   {
+    "quote": "すべての内容は日本の著作権法並びに国際条約により保護されています",
+    "url": "https://www.nejinews.co.jp/news/fastener/archive/eid9350.html",
+    "pass": 3
+   },
+   {
+    "quote": "Osaka, Japan",
+    "url": "https://pitchbook.com/profiles/company/231992-83",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "AI良否判定を30分で実現！オールインワン画像検査装置「Inspekto S70... — Inspekto S70国内販売開始 株式会社リンクスは、Inspekto社の国内総代理店として、2020年12月より同社製品である画像検査装置「S70」の正式販売を開始いたします。 Inspekto S70は、欧州自動車業界で実績のあるAI画像処理検査装置メーカーです。",
+    "url": "https://linx.jp/linx_express/i20365/linx_express_i20365.php",
+    "pass": 3
+   },
+   {
+    "quote": "リンクス AI画像処理検査装置「Inspekto S70」提供開始 — Jul 5, 2021 · 同社は、イスラエルのINSPEKTO社と2021年1月にAI画像処理検査装置「Inspekto S70」の日本国内における総代理店契約を締結。 4月1日より、独占的に同製品の本格販売を開始するに至った。",
+    "url": "https://www.nejinews.co.jp/news/fastener/archive/eid9350.html",
+    "pass": 3
+   },
+   {
+    "quote": "Inspekto - Industrial-AI by Siemens - LinkedIn 日本 — Inspekto is a German industrial company with Israeli DNA. Backed by leading industrial businesses from across the DACH region, the firm is out to reshape the multi-$Billion machine vision sector,...",
+    "url": "https://jp.linkedin.com/company/inspekto-amv",
+    "pass": 3
+   },
+   {
+    "quote": "自律型マシンビジョンが突破する時間的・技術的障壁 Inspekto S70が搭... — Inspekto S70製品紹介ウェビナーのご案内 リンクスでは、5/28 (金)にInspekto S70の製品紹介ウェビナーを実施いたします。 本稿にてお伝えしている、Inspekto S70の製品特長や海外事例、そして実製品を用いてのデモンストレーションをご覧いただけます。",
+    "url": "https://linx.jp/linx_express/i21375/linx_express_i21375.php",
+    "pass": 3
+   },
+   {
+    "quote": "AIベースの目視検査に関する神話を打ち破る | Siemens — Siemensの産業用アプリ担当グローバル・マーケティング・マネージャーであるアシーナ・リアツァは、SiemensのInspektoのようなAIを活用した視覚検査を巡る誤解を解き明かしています。",
+    "url": "https://www.siemens.com/ja-jp/company/insights/inspekto-ai-based-visual-inspection/",
+    "pass": 3
+   },
+   {
+    "quote": "Inspekto AI-based visual QA | Siemens — Plastic injection molding is a manufacturing process where melted plastic is injected into a mould to create precise, repeatable parts at high volume. Inspekto helps catch defects early, reduce scrap, and ensure consistent part quality by automatically detecting issues that manual checks might miss.",
+    "url": "https://www.siemens.com/en-us/company/artificial-intelligence/industrial-ai/inspekto-ai-inspection/",
+    "pass": 3
+   },
+   {
+    "quote": "BSH Traunreut: Up to 90% material waste reduction with Inspekto — BSH Project Engineers Markus Maier and Stefan Schauberger were responsible for reducing the detection time of component defects at one of the BSH oven manufacturing plants in Traunreut. For that reason, they approached BSH and Inspekto was deployed.",
+    "url": "https://references.siemens.com/en/reference?id=RMW00391",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: How an Autonomous Machine Vision System Increased ... — Jul 11, 2022 · BSH Project Engineers Markus Maier and Stefan Schauberger were responsible for reducing the detection time of component defects at one of BSH’s oven manufacturing plants in Traunreut, Germany. They approached BSH Startup Kitchen with this problem, and a partnership with Inspekto was formed.",
+    "url": "https://www.automation.com/article/case-study-autonomous-machine-vision-system",
+    "pass": 3
+   },
+   {
+    "quote": "End-of-Line Assembly Inspection at GWE with AI-based Inspekto — In 1 use case, the challenge was to ensure that packaged units with multiple variants are packed as required, containing all parts. The other use case is the inspection of Siemens electronic devices in an automated line before shipping to the customers.",
+    "url": "https://references.siemens.com/en/reference?id=RMW00646",
+    "pass": 3
+   },
+   {
+    "quote": "Inspekto - 2026 Company Profile, Team, Funding & Competitors ...Inspekto 2026 Company Profile: Valuation, Investors ...Inspekto — Company Profile, Funding & InvestorsInspekto — Company Profile | The Company CheckInspekto — venture-backed company profile | DealroomINSPEKTO – Growth Analysis & Alternative Companies – 2026Inspekto - Products, Competitors, Financials, Employees ... — Mar 20, 2026 · In",
+    "url": "https://tracxn.com/d/companies/inspekto/__Ipz0osBCNHiEbqHeBISn5P5Q3uLfgB1-2zZecbC73Tc",
+    "pass": 3
+   },
+   {
+    "quote": "Inspekto 2026 Company Profile: Valuation, Investors ...Inspekto — Company Profile, Funding & InvestorsInspekto — Company Profile | The Company CheckInspekto — venture-backed company profile | DealroomINSPEKTO – Growth Analysis & Alternative Companies – 2026Inspekto - Products, Competitors, Financials, Employees ... — Information on acquisition, funding, cap tables, investors, and executives for In",
+    "url": "https://pitchbook.com/profiles/company/231992-83",
+    "pass": 3
+   },
+   {
+    "quote": "Inspekto — Company Profile, Funding & Investors — Inspekto company profile with $21.09M raised across 2 funding rounds, HQ in Tel Aviv, Israel, founded 2017. Explore its acquisitions, funding rounds, investors, key people and contacts on Acquirezy — updated 2026.",
+    "url": "https://acquirezy.com/organization/inspekto-3803803",
+    "pass": 3
+   },
+   {
+    "quote": "Inspekto — Company Profile | The Company Check — Inspekto is a company based in Tel Aviv (Israel) founded in 2017 was acquired by Siemens in February 2024. Inspekto has raised $10 million across 1 funding round from investors including Siemens, MAHLE and Steinbeis.",
+    "url": "https://www.thecompanycheck.com/company/b/inspekto/j2e1n1c5frbkmj72t",
+    "pass": 3
+   },
+   {
+    "quote": "Inspekto — venture-backed company profile | Dealroom — Inspekto's business model revolves around selling their AI-driven inspection devices and offering optional configurations to meet specific production environments. They generate revenue through direct sales of their products and potentially through service agreements for ongoing support and updates. More + Source: Dealroom company data",
+    "url": "https://dealroom.co/companies/inspekto/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "BSH Hausgeräte GmbH, the largest manufacturer of home appliances in Europe, from Munich, Germany, main business is: Domestic Electrical Appliances Employees : 60,000 (2023)",
+    "url": "https://references.siemens.com/en/reference/bsh-start-up-kitchen?id=RMW00391",
+    "pass": 3
+   },
+   {
+    "quote": "Objectives: The challenge was very clear: increase the accuracy and efficiency of batch inspection processes. BSH Project Engineers Markus Maier and Stefan Schauberger were responsible for reducing the detection time of component defects at one of the BSH oven manufacturing plants in Traunreut. For that reason, they approached BSH and Inspekto was deployed.",
+    "url": "https://references.siemens.com/en/reference/bsh-start-up-kitchen?id=RMW00391",
+    "pass": 3
+   },
+   {
+    "quote": "BSH wanted to implement a quality assurance system to spot defects early on and reduce material waste, with the goal of cutting costs while reducing scrap. Convinced by the user-friendliness and the accuracy of the technology, BSH implemented in its Traunreut plant the Inspekto system. The customer reported the results. Waste reduction % is BSH's self-reported result at Traunreut.",
+    "url": "https://references.siemens.com/en/reference/bsh-start-up-kitchen?id=RMW00391",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: How an Autonomous Machine Vision System Increased Accuracy and Cut Waste",
+    "url": "https://www.automation.com/article/case-study-autonomous-machine-vision-system",
+    "pass": 3
+   },
+   {
+    "quote": "ISA provides technical resources and standards to help industrial automation professionals advance their careers and the field. We enable automation professionals worldwide to solve problems and enhance their skills by bringing people together to create new technologies and share best practices with future automation professionals.",
+    "url": "https://www.automation.com/article/case-study-autonomous-machine-vision-system",
+    "pass": 3
+   },
+   {
+    "quote": "BSH Project Engineers Markus Maier and Stefan Schauberger were responsible for reducing the detection time of component defects at one of BSH’s oven manufacturing plants in Traunreut, Germany. They approached BSH Startup Kitchen with this problem, and a partnership with Inspekto was formed.",
+    "url": "https://www.automation.com/article/case-study-autonomous-machine-vision-system",
+    "pass": 3
+   },
+   {
+    "quote": "System-wide Internet protocol communications, 5G wireless, OPC standards, and more are transforming industrial systems. This feature originally appeared in Bill Lydon's 7th Annual Industrial Automation & Control Trends Report.",
+    "url": "https://www.automation.com/article/case-study-autonomous-machine-vision-system",
+    "pass": 3
+   },
+   {
+    "quote": "Ethical AI: Why Humans Matter More Than Ever in AI-Driven Manufacturing",
+    "url": "https://www.automation.com/article/case-study-autonomous-machine-vision-system",
+    "pass": 3
+   },
+   {
+    "quote": "Siemen's factory in Erlangen, Germany has become a Digital Lighthouse Factory by following the Green Lean Digital approach and many practices that position it as a leading technological production site, at the edge of industry 4.0, harnessing newfound technologies to achieve staggering results.",
+    "url": "https://references.siemens.com/en/reference/siemens-geraetewerk-erlangen-gwe-ge?id=RMW00646",
+    "pass": 3
+   },
+   {
+    "quote": "Objectives: The challenge was to ensure seamless integration into existing assembly lines, with easy operation by the factory's team. In 1 use case, the challenge was to ensure that packaged units with multiple variants are packed as required, containing all parts. The other use case is the inspection of Siemens electronic devices in an automated line before shipping to the customers.",
+    "url": "https://references.siemens.com/en/reference/siemens-geraetewerk-erlangen-gwe-ge?id=RMW00646",
+    "pass": 3
+   },
+   {
+    "quote": "Visual Quality Inspection at the Siemens Smart Factory in Erlangen",
+    "url": "https://references.siemens.com/en/reference/siemens-geraetewerk-erlangen-gwe-ge?id=RMW00646",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of autonomous machine vision systems designed to reshape the machine vision sector for industrial quality assurance.",
+    "url": "https://pitchbook.com/profiles/company/231992-83",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://pitchbook.com/profiles/company/231992-83",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of autonomous machine vision systems designed to reshape the machine vision sector for industrial quality assu",
+    "url": "https://pitchbook.com/profiles/company/231992-83",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "BSH Hausgeräte GmbH, the largest manufacturer of home appliances in Europe, from Munich, Germany, main business is: Domestic Electrical Appliances Employees : 60,000 (2023)",
+    "url": "https://references.siemens.com/en/reference/bsh-start-up-kitchen?id=RMW00391",
+    "pass": 3
+   },
+   {
+    "quote": "Inspekto 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/231992-83",
+    "pass": 3
+   },
+   {
+    "quote": "7. Merger/Acquisition",
+    "url": "https://pitchbook.com/profiles/company/231992-83",
+    "pass": 3
+   },
+   {
+    "quote": "Inspekto has 35 total employees.",
+    "url": "https://pitchbook.com/profiles/company/231992-83",
+    "pass": 3
+   },
+   {
+    "quote": "What is Inspekto’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/231992-83",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Inspekto is",
+    "url": "https://pitchbook.com/profiles/company/231992-83",
+    "pass": 3
+   },
+   {
+    "quote": "When was Inspekto acquired?",
+    "url": "https://pitchbook.com/profiles/company/231992-83",
+    "pass": 3
+   },
+   {
+    "quote": "Inspekto was acquired on 15-Feb-2024.",
+    "url": "https://pitchbook.com/profiles/company/231992-83",
+    "pass": 3
+   },
+   {
+    "quote": "Who acquired Inspekto?",
+    "url": "https://pitchbook.com/profiles/company/231992-83",
+    "pass": 3
+   },
+   {
+    "quote": "Inspekto was acquired by",
+    "url": "https://pitchbook.com/profiles/company/231992-83",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Inspekto - Industrial-AI by Siemens | LinkedIn Inspekto developed easy-to-deploy out-of-the box automated visual inspection systems based on its novel AMV-AI (™) technology. Inspekto is a German industrial company with Israeli DNA.",
+    "url": "https://www.linkedin.com/company/inspekto-amv",
+    "pass": 3
+   },
+   {
+    "quote": "Inspekto AI - LinkedIn At Inspekto, we transform inspection reporting with AI. Our platform turns photos into standardized, API–compliant reports in minutes — reducing paperwork, rework, and costs while improving ...",
+    "url": "https://www.linkedin.com/company/inspekto-ai",
+    "pass": 3
+   },
+   {
+    "quote": "INSPEKTO | LinkedIn Inspekto ist ein deutsches Unternehmen mit israelischer DNA. Das Start-up wird von führenden Industrieunternehmen aus der DACH-Region unterstützt und revolutioniert mit seinen neuartigen...",
+    "url": "https://de.linkedin.com/company/inspekto-amv",
+    "pass": 3
+   },
+   {
+    "quote": "Diogo José Notario Guaitolini - Co-Founder @Inspekto ...Darren Inspektor - Founder at 3MA Consulting Inc | LinkedInInspecto - LinkedInEasy vision inspection with Inspekto | Siemens Industry Right now, I’m building Inspekto, a field inspection and reporting platform for oil & gas, pressure equipment, and NDT. Most of my work has been around taking manual, messy workflows and turning... Founder at 3",
+    "url": "https://ca.linkedin.com/in/guaitolinidiogo",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Inspektor Tarnobrzeski - Facebook Inspektor Tarnobrzeski is on Facebook. Join Facebook to connect with Inspektor Tarnobrzeski and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+    "url": "https://www.facebook.com/p/Inspektor-Tarnobrzeski-61586079084501/",
+    "pass": 3
+   },
+   {
+    "quote": "Ljiljana Marinkovic (@inspekto) • Facebook, Connect with friends Ljiljana Marinkovic is on Facebook. Join Facebook to connect with Ljiljana Marinkovic and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+    "url": "https://www.facebook.com/inspekto/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Moxie (@inspekto_gadget) / Posts / X Aug 12, 2017 · bitget Jul 8 Win 1 BTC as we race to 5M X followers! 🚀 🚀 From 4.6M–5M followers, every +0.1M = 200 winners split 0.2 BTC 👥 Invite friends to get double chance 1⃣ Follow @bitgetglobal 2⃣ RT & tag 3 friends w/ #FollowToWin1BTC 1,000 winners in total Join now 👉 gleam.io/1Z6M6/follow-w…",
+    "url": "https://x.com/inspekto_gadget",
+    "pass": 3
+   },
+   {
+    "quote": "@itsSophiaSxxx Snuggle right up next to you. - x.com inspekto70 (Michael). 0 likes 0 replies. @itsSophiaSxxx Snuggle right up next to you.",
+    "url": "https://x.com/inspekto70/status/2104339840200274084",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.siemens.com/global/en/products/automation/topic-areas/inspekto-ai-inspection.html",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siemens.com/en-us/company/customer-partner-terms/sw-terms/dmca/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://linx.jp/linx_express/i20365/linx_express_i20365.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nejinews.co.jp/news/fastener/archive/eid9350.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/inspekto-amv",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://linx.jp/linx_express/i21375/linx_express_i21375.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ba.intertek-jpn.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://references.siemens.com/en/reference/bsh-start-up-kitchen?id=RMW00391",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automation.com/article/case-study-autonomous-machine-vision-system",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://references.siemens.com/en/reference/siemens-geraetewerk-erlangen-gwe-ge?id=RMW00646",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upcloud.com/global/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/inspekto/__Ipz0osBCNHiEbqHeBISn5P5Q3uLfgB1-2zZecbC73Tc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/231992-83",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://acquirezy.com/organization/inspekto-3803803",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/inspekto/j2e1n1c5frbkmj72t",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/inspekto-amv",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/inspekto-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/company/inspekto-amv",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/guaitolinidiogo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Inspektor-Tarnobrzeski-61586079084501/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/inspekto/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/inspekto_gadget",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/inspekto70/status/2104339840200274084",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Inspekto 日本 導入",
+   "results": [
+    "https://linx.jp/linx_express/i20365/linx_express_i20365.php",
+    "https://www.nejinews.co.jp/news/fastener/archive/eid9350.html",
+    "https://jp.linkedin.com/company/inspekto-amv",
+    "https://linx.jp/linx_express/i21375/linx_express_i21375.php",
+    "https://www.siemens.com/ja-jp/company/insights/inspekto-ai-based-visual-inspection/",
+    "https://www.siemens.com/ja-jp/company/artificial-intelligence/industrial-ai/inspekto-ai-inspection/",
+    "https://www.automation-news.jp/2021/04/55037/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Inspekto 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://ba.intertek-jpn.com/",
+    "https://intertekjp.com/",
+    "https://www.houjin.info/",
+    "https://biz.toyokeizai.net/data/service/detail/id=418"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Inspekto Japan",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Inspekto manufacturing customer case study",
+   "results": [
+    "https://www.siemens.com/en-us/company/artificial-intelligence/industrial-ai/inspekto-ai-inspection/",
+    "https://references.siemens.com/en/reference?id=RMW00391",
+    "https://www.automation.com/article/case-study-autonomous-machine-vision-system",
+    "https://references.siemens.com/en/reference?id=RMW00646",
+    "https://www.inspectorio.com/case-study/target/",
+    "https://www.inspectorio.com/case-study/avalon-apparel/",
+    "https://www.siemens.com/en-us/company/insights/inspekto-ai-based-visual-inspection/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Inspekto white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://www.appspace.com/resellers-alliances/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Inspekto founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/inspekto/__Ipz0osBCNHiEbqHeBISn5P5Q3uLfgB1-2zZecbC73Tc",
+    "https://pitchbook.com/profiles/company/231992-83",
+    "https://acquirezy.com/organization/inspekto-3803803",
+    "https://www.thecompanycheck.com/company/b/inspekto/j2e1n1c5frbkmj72t",
+    "https://dealroom.co/companies/inspekto/",
+    "https://compworth.com/company/inspekto",
+    "https://www.cbinsights.com/company/inspekto"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Inspekto",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/lively_pika8336/n/n5adf36c23e7b",
+    "https://note.com/seigo77",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/100syousetuka/n/n17334e14bf60"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Inspekto",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Inspekto",
+   "results": [
+    "https://www.linkedin.com/company/inspekto-amv",
+    "https://www.linkedin.com/company/inspekto-ai",
+    "https://de.linkedin.com/company/inspekto-amv",
+    "https://ca.linkedin.com/in/guaitolinidiogo",
+    "https://ca.linkedin.com/in/darren-inspektor-39467031",
+    "https://www.linkedin.com/posts/siemens-industry-_easy-vision-inspection-with-inspekto-activity-7274700705834160130-PMzx",
+    "https://hr.linkedin.com/company/inspectohr"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Inspekto",
+   "results": [
+    "https://www.facebook.com/p/Inspektor-Tarnobrzeski-61586079084501/",
+    "https://www.facebook.com/inspekto/",
+    "https://secure.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/KUKAGlobal/videos/inspekto-s70-the-fast-track-to-visual-inspection/394169219737874/",
+    "https://www.facebook.com/inspectohr/",
+    "https://www.facebook.com/reel/2447561365666023/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Inspekto note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://note.com/sadaaki",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Inspekto X 投稿",
+   "results": [
+    "https://www.siemens.com/en-us/company/artificial-intelligence/industrial-ai/inspekto-ai-inspection/",
+    "https://x.com/inspekto_gadget",
+    "https://x.com/inspekto70/status/2104339840200274084",
+    "https://search.yahoo.co.jp/realtime/search/投稿/",
+    "https://xscope.skyphone.social/",
+    "https://note.com/mgane/n/n1c0d7384c8a0",
+    "https://help.x.com/ja/using-x/mentions-and-replies"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部27頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部27頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部27頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部27頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部27頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部27頁・検索12回）"
+ }
+}

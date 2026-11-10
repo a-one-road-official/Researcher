@@ -1,0 +1,973 @@
+{
+ "name": "Latenthealth",
+ "aliases": [],
+ "context": "旧営業リスト｜Clinical AI / Pharmacy Management Software｜未接触",
+ "researched_at": "2026-11-10T14:42:28.024235+00:00",
+ "official_url": "https://latenthealth.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Latent Health | Enterprise Pharmacy Intelligence",
+    "url": "https://www.latenthealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Latent's enterprise pharmacy intelligence platform, powered by a clinical agentic engine improves the care journey for everyone.",
+    "url": "https://www.latenthealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Provide compliant care",
+    "url": "https://www.latenthealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Handle more prescription volume",
+    "url": "https://www.latenthealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Year-over-year prescription volume growth absorbed without adding staff.",
+    "url": "https://www.latenthealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "More prior auths per person each month, with no added headcount.",
+    "url": "https://www.latenthealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“It was the best of both worlds. It helped patients get better care, it helped the care team reduce a bunch of cognitive burden, and it improved the financial performance of the entire enterprise. It was a home run.”",
+    "url": "https://www.latenthealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "60+ of the largest U.S. health systems are now powered by Latent's enterprise pharmacy intelligence.",
+    "url": "https://www.latenthealth.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We can’t hire 200 people within a month, which is what we would need for the thousands of prescriptions that we’re receiving, like the GLP-1s. We wouldn’t be able to meet it just as humans.",
+    "url": "https://www.latenthealth.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "prior authorization completion time, from 25–30",
+    "url": "https://www.latenthealth.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Press release · September 15, 2026",
+    "url": "https://www.latenthealth.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President, Clinical Applications",
+    "url": "https://www.latenthealth.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Read the press release",
+    "url": "https://www.latenthealth.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "prior auths per pharmacist",
+    "url": "https://www.latenthealth.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Efficiency gains only matter if patients and our providers feel them.",
+    "url": "https://www.latenthealth.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "prior authorizations per year",
+    "url": "https://www.latenthealth.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "year-over-year prescription volume growth absorbed without adding staff",
+    "url": "https://www.latenthealth.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "average prior authorization completion time, down from 25–30",
+    "url": "https://www.latenthealth.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "from decision to full enterprise pharmacy intelligence implementation",
+    "url": "https://www.latenthealth.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "“More people needing more things, and fewer people to provide them.”",
+    "url": "https://www.latenthealth.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "per prior authorization, down from 30",
+    "url": "https://www.latenthealth.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "productivity gain, specialty PA teams",
+    "url": "https://www.latenthealth.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "first-pass approval rate",
+    "url": "https://www.latenthealth.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Proving AI ROI in the pharmacy: what St. Luke's and MetroHealth got right",
+    "url": "https://www.latenthealth.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "more, no new hires",
+    "url": "https://www.latenthealth.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "per prior authorization, from 26.5",
+    "url": "https://www.latenthealth.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "more prior auths per pharmacist monthly",
+    "url": "https://www.latenthealth.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Latent Health · Who we are video",
+    "url": "https://www.latenthealth.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Where the prior-auth flow gets argued out",
+    "url": "https://www.latenthealth.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Heads-down, mid-build",
+    "url": "https://www.latenthealth.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Our passionate team is working with 60+ leading health systems to simplify the journey to health. We are hiring.",
+    "url": "https://www.latenthealth.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Latent Health · Who we are video",
+    "url": "https://www.latenthealth.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Software Engineer, Product",
+    "url": "https://www.latenthealth.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Clinical Pharmacist, Product",
+    "url": "https://www.latenthealth.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "hiring@latenthealth.com",
+    "url": "https://www.latenthealth.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The Problem: Delays in Patient Access to Critical Medications",
+    "url": "https://www.latenthealth.com/case-study/ynhh-cs-2025-1",
+    "pass": 1
+   },
+   {
+    "quote": "Three years ago, Yale New Haven Health System’s (YNHHS) specialty pharmacy was drowning in prior authorizations. Every PA was a manual burden—verifying insurance benefits, digging through patient charts, tracking prior authorization statuses. The work was painstaking, expertise-dependent, and nearly impossible to scale.",
+    "url": "https://www.latenthealth.com/case-study/ynhh-cs-2025-1",
+    "pass": 1
+   },
+   {
+    "quote": "Pharmacy leadership knew this wasn't just an operational problem. It was a medication access crisis felt across the entire system: status calls flooding clinics, rework piling up for office staff, providers constantly interrupted, and treatment delays that sometimes led to patient escalation.",
+    "url": "https://www.latenthealth.com/case-study/ynhh-cs-2025-1",
+    "pass": 1
+   },
+   {
+    "quote": "Every hour counts. It’s important that we treat every authorization as expedited so patients no longer wait days for approvals that should take hours.\"",
+    "url": "https://www.latenthealth.com/case-study/ynhh-cs-2025-1",
+    "pass": 1
+   },
+   {
+    "quote": "The Approach: Technology as Infrastructure, Not a Band-Aid",
+    "url": "https://www.latenthealth.com/case-study/ynhh-cs-2025-1",
+    "pass": 1
+   },
+   {
+    "quote": "YNHHS’s pharmacy leaders in partnership with the YNHHS Center for Health Care Innovation made a critical decision: they'd treat this technology partnership like essential infrastructure, not just a point solution. They weren't looking for software to optimize a broken process—they wanted to rebuild the foundation.",
+    "url": "https://www.latenthealth.com/case-study/ynhh-cs-2025-1",
+    "pass": 1
+   },
+   {
+    "quote": "What used to take a pharmacy employee 10-20 minutes now takes 3.5 minutes. Script-to-approval time dropped to under one hour. Cases that historically took 21 days now close in 24-72 hours.",
+    "url": "https://www.latenthealth.com/case-study/ynhh-cs-2025-1",
+    "pass": 1
+   },
+   {
+    "quote": "Solving the Workforce Problem",
+    "url": "https://www.latenthealth.com/case-study/ynhh-cs-2025-1",
+    "pass": 1
+   },
+   {
+    "quote": "How do you expand access when talent is scarce and burnout is prevalent?",
+    "url": "https://www.latenthealth.com/case-study/ynhh-cs-2025-1",
+    "pass": 1
+   },
+   {
+    "quote": "The answer wasn't hiring more people. Between October 2023 and October 2025, YNHHS achieved a 109% increase in prior authorizations per team member per month, without adding headcount.",
+    "url": "https://www.latenthealth.com/case-study/ynhh-cs-2025-1",
+    "pass": 1
+   },
+   {
+    "quote": "It also changed how they hired. Before Latent, PA work demanded pre-existing authorization knowledge and on-the-job training. With standardized workflows, YNHHS expanded beyond pharmacy techs to authorization specialists, creating clearer career paths and reducing the expertise burden on new hires.",
+    "url": "https://www.latenthealth.com/case-study/ynhh-cs-2025-1",
+    "pass": 1
+   },
+   {
+    "quote": "Building on that foundation, YNHHS is already expanding beyond prior authorizations into appeals, pharmacy benefit workflows, and 340B auditing—investing in technology as core infrastructure so humans can focus on what matters most: caring for patients.",
+    "url": "https://www.latenthealth.com/case-study/ynhh-cs-2025-1",
+    "pass": 1
+   },
+   {
+    "quote": "Serves 153,005 inpatient discharges and approximately 3.6 million outpatient encounters across its hospitals and clinics (2021)",
+    "url": "https://www.latenthealth.com/case-study/ynhh-cs-2025-1",
+    "pass": 1
+   },
+   {
+    "quote": "Where It Started: Prior Authorizations",
+    "url": "https://www.latenthealth.com/case-study/ochsner-latent-appeal",
+    "pass": 1
+   },
+   {
+    "quote": "Prior auth is only part of the process. When a request is denied, Ochsner’s pharmacists still have a lot of work ahead of them. The appeals process is one of the most time-consuming parts of specialty pharmacy: pulling together clinical documentation, writing detailed letters of medical necessity, and working through often complicated denial reasons, usually on a tight timeline.",
+    "url": "https://www.latenthealth.com/case-study/ochsner-latent-appeal",
+    "pass": 1
+   },
+   {
+    "quote": "\"We are appealing more denials in a more time efficient manner—improving the turnaround time for patients.\"",
+    "url": "https://www.latenthealth.com/case-study/ochsner-latent-appeal",
+    "pass": 1
+   },
+   {
+    "quote": "\"Latent makes the best use of modern LLMs tailored specifically to the needs of medical writers. With Latent's tools I can navigate complex authorizations more efficiently to get faster approvals for more patients. The Latent team has truly revolutionized the process of prior authorizations and appeals.\"",
+    "url": "https://www.latenthealth.com/case-study/ochsner-latent-appeal",
+    "pass": 1
+   },
+   {
+    "quote": "Latent and Ochsner have worked side by side from the start, with a real focus on understanding the business, the patients, and what’s needed. That close partnership, along with ongoing feedback from the pharmacists using the product, has helped shape it every step of the way.",
+    "url": "https://www.latenthealth.com/case-study/ochsner-latent-appeal",
+    "pass": 1
+   },
+   {
+    "quote": "Less time on paperwork. More time with patients. Faster approvals, fewer gaps in care, and a team that's empowered to improve the lives of every patient—with Latent building the tools to make that vision a reality, one step at a time.",
+    "url": "https://www.latenthealth.com/case-study/ochsner-latent-appeal",
+    "pass": 1
+   },
+   {
+    "quote": "Rather than simply asking how to accelerate prior authorizations, St. Luke’s asked a more fundamental question: how should medication access be designed so it improves patient access, adherence, and enterprise growth?",
+    "url": "https://www.latenthealth.com/case-study/latent-health-st-lukes-health-system",
+    "pass": 1
+   },
+   {
+    "quote": "To answer that question, St. Luke’s partnered with Latent Health to deploy AI-enabled prior authorization and appeals automation across both pharmacy and medical benefits. But the real transformation came from redesigning the work, centralizing the execution and giving teams better visibility into the medication access work.",
+    "url": "https://www.latenthealth.com/case-study/latent-health-st-lukes-health-system",
+    "pass": 1
+   },
+   {
+    "quote": "The result was a stronger operating system. This shift transformed medication access from a reactive, backlog-driven function into a proactive, capacity-driven model aligned to patient outcomes and enterprise growth.",
+    "url": "https://www.latenthealth.com/case-study/latent-health-st-lukes-health-system",
+    "pass": 1
+   },
+   {
+    "quote": "Before implementation, St. Luke’s had already aligned around a centralized Medication Access Team (MAT), reshaping intake and triage around a more structured, proactive system. The team moved into pod-based execution, with each pod made up of 3 to 5 FTEs focused on 1 to 2 disease states and the clinics and medications associated with them.",
+    "url": "https://www.latenthealth.com/case-study/latent-health-st-lukes-health-system",
+    "pass": 1
+   },
+   {
+    "quote": "What had historically taken over 7 days, began trending toward a 3-day PA Turnaround Time (TAT). Clinical review times dropped >72% from 18 minutes to 5 minutes per PA. With the same MAT FTE base, the team began processing over 1,200 additional PAs per month.",
+    "url": "https://www.latenthealth.com/case-study/latent-health-st-lukes-health-system",
+    "pass": 1
+   },
+   {
+    "quote": "Those efficiencies meant fewer abandoned prescriptions, less delays, and faster starts to therapy minimizing how many patients were lost during critical access moments. Critically, it also created the capacity to intervene earlier in the patient journey when decisions about where prescriptions are filled are still being made & link patients to internal pharmacies.",
+    "url": "https://www.latenthealth.com/case-study/latent-health-st-lukes-health-system",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by 60+ leading health systems.",
+    "url": "https://www.latenthealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Case study · Mount Sinai Health System",
+    "url": "https://www.latenthealth.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Our vision was to humanize the specialty pharmacy experience by automating what patients never see. Now our pharmacists and technicians spend their time where it truly matters: guiding patients through complex therapies.\"",
+    "url": "https://www.latenthealth.com/case-study/ynhh-cs-2025-1",
+    "pass": 1
+   },
+   {
+    "quote": "By implementing Latent, morale among the pharmacy staff improved dramatically, since repetitive tasks were automated. Prioritizing impact over busywork removed significant sources of frustration and burnout, allowing pharmacists and technicians to dedicate more time to direct patient care.",
+    "url": "https://www.latenthealth.com/case-study/ochsner-case-study-2025",
+    "pass": 1
+   },
+   {
+    "quote": "Elion is used by over 60% of U.S. health systems to support decision-making. Each vendor profile is curated by our experts, so you can explore this solution with confidence and compare it to others.",
+    "url": "https://elion.health/products/latent-health",
+    "pass": 3
+   },
+   {
+    "quote": "The Yale New Haven outcome is one of the most notable, because it is the one that converts to oncology infusions, transplant medications, and specialty therapies on dates patients can plan around.",
+    "url": "https://www.latenthealth.com/from-cost-center-to-growth-engine",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "In annual labor cost avoided, plus net-new revenue from specialty fills kept in-house.",
+    "url": "https://www.latenthealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prior auth is only part of the process. When a request is denied, Ochsner’s pharmacists still have a lot of work ahead of them. The appeals process is one of the most time-consuming parts of specialty pharmacy: pulling together clinical documentation, writing detailed letters of medical necessity, and working through often complicated denial reasons, usually on a tight timeline.",
+    "url": "https://www.latenthealth.com/case-study/ochsner-latent-appeal",
+    "pass": 1
+   },
+   {
+    "quote": "Organizations like St. Luke’s can expect multi-million dollar annual value creation, driven primarily by revenue capture acceleration rather than labor reduction alone. This type of transformation typically delivers:",
+    "url": "https://www.latenthealth.com/case-study/latent-health-st-lukes-health-system",
+    "pass": 1
+   },
+   {
+    "quote": "Ochsner is positioning Latent as the backbone of medication access across the enterprise.The platform now extends beyond specialty pharmacy to infusion, revenue-cycle workflows and the 22-store retail network, routing every request through a single, streamlined path. At the same time, Latent’s AI-driven appeals module will give staff the same chart-level efficiency when overturning denials.",
+    "url": "https://www.latenthealth.com/case-study/ochsner-case-study-2025",
+    "pass": 1
+   },
+   {
+    "quote": "40,000+ employees and 4,900 employed and affiliated physicians",
+    "url": "https://www.latenthealth.com/case-study/ochsner-case-study-2025",
+    "pass": 1
+   },
+   {
+    "quote": "Ochsner extended the same engine into appeals next, the part of the prior authorization process most likely to consume a clinical pharmacist's afternoon. Across 91 appeals measured, the time required to draft an appeal fell from 30.6 minutes to 7.2 minutes. The team recovered roughly 35 hours across 91 appeals, time that was returned to patient care.",
+    "url": "https://www.latenthealth.com/from-cost-center-to-growth-engine",
+    "pass": 3
+   },
+   {
+    "quote": "That is the workforce question the way most CPOs actually carry it. The market for pharmacy talent in 2026 is not a market where systems are looking to cut. It is a market where systems are looking to fill, and to keep the people they have.",
+    "url": "https://www.latenthealth.com/from-cost-center-to-growth-engine",
+    "pass": 3
+   },
+   {
+    "quote": "Infrastructure is the word that keeps surfacing. It is the right word. Pharmacy did not need a new tool. It needed an apparatus that could carry the day-to-day load and let the clinical talent do clinical work.",
+    "url": "https://www.latenthealth.com/from-cost-center-to-growth-engine",
+    "pass": 3
+   },
+   {
+    "quote": "It requires an enterprise pharmacy intelligence platform that can carry the prior authorization, appeals, denials, and outreach work that fills the day. It requires a partner, not a vendor. It requires the kind of operational evidence that holds up in a board pack.",
+    "url": "https://www.latenthealth.com/from-cost-center-to-growth-engine",
+    "pass": 3
+   },
+   {
+    "quote": "Results like these change how pharmacy is viewed. It stops being treated as a cost to control and starts being treated as a part of the system worth investing in. The numbers are published, they are sourced, and they held up across four very different organizations.",
+    "url": "https://www.latenthealth.com/from-cost-center-to-growth-engine",
+    "pass": 3
+   },
+   {
+    "quote": "Latent Revenue 2024: $2.4M Est.",
+    "url": "https://getlatka.com/companies/latenthealth.com",
+    "pass": 3
+   },
+   {
+    "quote": "Latent has not published its revenue. GetLatka estimates it at about $2.4M a year (June 2024).",
+    "url": "https://getlatka.com/companies/latenthealth.com",
+    "pass": 3
+   },
+   {
+    "quote": "Latent CEO, founders & employees",
+    "url": "https://getlatka.com/companies/latenthealth.com",
+    "pass": 3
+   },
+   {
+    "quote": "Rishabh Jain founded Latent in 2022 and runs it as CEO. Latent had 16 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/latenthealth.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Latent's revenue?",
+    "url": "https://getlatka.com/companies/latenthealth.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Latent's revenue at about",
+    "url": "https://getlatka.com/companies/latenthealth.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Latent have?",
+    "url": "https://getlatka.com/companies/latenthealth.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in June 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/latenthealth.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/latenthealth.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/latenthealth.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/latenthealth.com",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Latent Health | Enterprise Pharmacy Intelligence — Latent Health | Enterprise Pharmacy Intelligence Latent Health https://www.latenthealth.com",
+    "url": "https://www.latenthealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Latent Health Reviews, Pricing, Features & Integrations | Elion — Latent Health Reviews, Pricing, Features & Integrations | Elion elion.health https://elion.health > latent-health",
+    "url": "https://elion.health/products/latent-health",
+    "pass": 3
+   },
+   {
+    "quote": "How Ochsner's specialty pharmacy serves more patients with ... — How Ochsner's specialty pharmacy serves more patients with ... Latent Health https://www.latenthealth.com > ochsn...",
+    "url": "https://www.latenthealth.com/case-study/ochsner-case-study-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Together AI's Instant Clusters Enable Latent Health to Build ... — Together AI's Instant Clusters Enable Latent Health to Build ... Together AI https://www.together.ai > latent-health",
+    "url": "https://www.together.ai/customers/latent-health",
+    "pass": 3
+   },
+   {
+    "quote": "Health systems that run Latent — Health systems that run Latent Latent Health https://www.latenthealth.com > partners",
+    "url": "https://www.latenthealth.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "From Cost Center to Growth Engine Whitepaper | Latent Health — From Cost Center to Growth Engine Whitepaper | Latent Health Latent Health https://www.latenthealth.com > from-...",
+    "url": "https://www.latenthealth.com/from-cost-center-to-growth-engine",
+    "pass": 3
+   },
+   {
+    "quote": "Frailty, Latent Health Profiles, and Antiretroviral Therapy — Frailty, Latent Health Profiles, and Antiretroviral Therapy ScienceDirect.com https://www.sciencedirect.com > pii",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1525861025002312",
+    "pass": 3
+   },
+   {
+    "quote": "Latent Health Raises $80M to Automate Prior Authorization — Latent Health Raises $80M to Automate Prior Authorization LinkedIn https://www.linkedin.com > posts > y-...",
+    "url": "https://www.linkedin.com/posts/y-combinator_latent-has-raised-80m-in-series-a-funding-activity-7440121101147541504-kr5L",
+    "pass": 3
+   },
+   {
+    "quote": "This $600 Million AI Startup Is Speeding Up Paperwork So ... — This $600 Million AI Startup Is Speeding Up Paperwork So ... Latent Health https://www.latenthealth.com > press",
+    "url": "https://www.latenthealth.com/press/latent-emerges-as-clinical-ai-leader-raising-80m-to-close-the-gap-between-diagnosis-and-treatment",
+    "pass": 3
+   },
+   {
+    "quote": "Latent Revenue 2024: $2.4M Est. - GetLatka — Latent Revenue 2024: $2.4M Est. - GetLatka GetLatka https://getlatka.com > latenthealth",
+    "url": "https://getlatka.com/companies/latenthealth.com",
+    "pass": 3
+   },
+   {
+    "quote": "Latent Health Asset Profile | Preqin | BlackRock — Latent Health Asset Profile | Preqin | BlackRock Preqin https://www.preqin.com > latent-health",
+    "url": "https://www.preqin.com/data/profile/asset/latent-health/793786",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Latent Health is hiring Enterprise/Strategic AEs in SF and NYC ... Latent Health is hiring Enterprise/Strategic AEs in SF and NYC ... LinkedIn https://www.linkedin.com > posts > m...",
+    "url": "https://www.linkedin.com/posts/maryanakessel_latent-health-is-hiring-enterprisestrategic-activity-7325316309800431616-RxF7",
+    "pass": 3
+   },
+   {
+    "quote": "Ochsner Health and Latent Health partner to boost pharmacy ... Ochsner Health and Latent Health partner to boost pharmacy ... LinkedIn https://www.linkedin.com > posts",
+    "url": "https://www.linkedin.com/posts/ashtonmaaraba_transforming-pharmacy-operations-at-ochsner-activity-7368684668595937281-E3mH",
+    "pass": 3
+   },
+   {
+    "quote": "Latent Health Raises $80M to Automate Prior Authorization Latent Health Raises $80M to Automate Prior Authorization LinkedIn https://www.linkedin.com > posts",
+    "url": "https://www.linkedin.com/posts/y-combinator_latent-has-raised-80m-in-series-a-funding-activity-7440121101147541504-kr5L",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.latenthealth.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.latenthealth.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.latenthealth.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.latenthealth.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.latenthealth.com/case-study/ynhh-cs-2025-1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.latenthealth.com/case-study/ochsner-latent-appeal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.latenthealth.com/case-study/latent-health-st-lukes-health-system",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.latenthealth.com/case-study/ochsner-case-study-2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.latenthealth.com/case-study/metro-case-study-2025",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.latenthealth.com/brand-v2/logos/latent-v2-lockup-black.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.latenthealth.com/partners/assets/mount-sinai-film-1600.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.latenthealth.com/partners/assets/press-expansion@2x.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.latenthealth.com/partners/assets/pharmacy-intelligence-value@2x.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goo-net.com/magazine/cartopic/event-report/294321/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getinge.com/jp/contact/other/become-a-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.leisure.co.jp/agency",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.latenthealth.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/latent-health",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10622680/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trade.gov/market-intelligence/japan-sleep-health",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.latenthealth.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.baseten.co/resources/customers/latent-delivers-pharmaceutical-search-with-baseten",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://elion.health/products/latent-health",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.latenthealth.com/case-study/ochsner-case-study-2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.latenthealth.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.latenthealth.com/from-cost-center-to-growth-engine",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.forbes.com/sites/rashishrivastava/2026/03/18/this-600-million-ai-startup-is-speeding-up-paperwork-so-patients-get-drugs-faster/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.latenthealth.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/y-combinator_latent-has-raised-80m-in-series-a-funding-activity-7440121101147541504-kr5L",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.latenthealth.com/press/latent-emerges-as-clinical-ai-leader-raising-80m-to-close-the-gap-between-diagnosis-and-treatment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/latenthealth.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.preqin.com/data/profile/asset/latent-health/793786",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/maryanakessel_latent-health-is-hiring-enterprisestrategic-activity-7325316309800431616-RxF7",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/ashtonmaaraba_transforming-pharmacy-operations-at-ochsner-activity-7368684668595937281-E3mH",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/y-combinator_latent-has-raised-80m-in-series-a-funding-activity-7440121101147541504-kr5L",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Latenthealth 日本 導入",
+   "results": [
+    "https://www.stellantis.jp/",
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://www.goo-net.com/magazine/cartopic/event-report/294321/",
+    "https://www.netdenjd.com/archives/708202",
+    "https://www.nikkei.com/article/DGXZQOUC047AA0U6A101C2000000/",
+    "https://ecnavi.jp/mainichi_news/article/c94ab04840a50bfa9881f03b50b562cd/",
+    "https://www.youtube.com/shorts/4C-_IPneBiA",
+    "https://www.firstcvc.jp/global/latenthealth.com",
+    "https://pitchbook.com/profiles/company/522161-11"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Latenthealth 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.getinge.com/jp/contact/other/become-a-distributor/",
+    "https://www.leisure.co.jp/agency",
+    "https://dairitenboshu.com/",
+    "https://www.youtube.com/watch?v=oncJBY3zN1A",
+    "https://sharekarte.com/dairi/",
+    "https://www.imimed.co.jp/int/productnavi/csz/",
+    "https://findex.co.jp/agency/medical.html",
+    "https://www.qht.go-ent.net/ja/sales-partner",
+    "https://ja.wikipedia.org/wiki/黒田武志"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Latenthealth Japan",
+   "results": [
+    "https://www.latenthealth.com/",
+    "https://www.linkedin.com/company/latent-health",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10622680/",
+    "https://www.trade.gov/market-intelligence/japan-sleep-health",
+    "https://www.netherlandsandyou.nl/web/japan-en/themes/life-sciences-health",
+    "https://www.japan.go.jp/topics/Health.html",
+    "https://www.latenthealth.com/platform",
+    "https://www.youtube.com/watch?v=JbZ8ZY3K9UM",
+    "https://www.appliedclinicaltrialsonline.com/view/is-japan-leading-a-new-digital-health-movement-",
+    "https://jp.linkedin.com/company/latent-health"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Latenthealth manufacturing customer case study",
+   "results": [
+    "https://www.latenthealth.com/",
+    "https://www.baseten.co/resources/customers/latent-delivers-pharmaceutical-search-with-baseten/",
+    "https://elion.health/products/latent-health",
+    "https://www.latenthealth.com/case-study/ochsner-case-study-2025",
+    "https://www.together.ai/customers/latent-health",
+    "https://www.fabrichealth.com/case-studies",
+    "https://www.linkedin.com/company/latent-health",
+    "https://news.ochsner.org/news-releases/ochsner-health-partners-with-latent-health-to-accelerate-ai-driven-medication-access/",
+    "https://www.covermymeds.health/articles/healthcare-technology/latent-health-intelligent-automation-fhir",
+    "https://www.casestudies.com/company/latent"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Latenthealth white label OR reseller OR partner program",
+   "results": [
+    "https://www.latenthealth.com/partners",
+    "https://www.latenthealth.com/from-cost-center-to-growth-engine",
+    "https://www.forbes.com/sites/rashishrivastava/2026/03/18/this-600-million-ai-startup-is-speeding-up-paperwork-so-patients-get-drugs-faster/",
+    "https://www.latenthealth.com/",
+    "https://www.sciencedirect.com/science/article/pii/S1525861025002312",
+    "https://www.latentlabs.com/press-release/latent-labs-secures-50m-in-funding/",
+    "https://www.340bhealth.org/members/alliance-to-protect-340b/alliance-partner-contributors/",
+    "https://forgeglobal.com/latent_stock/",
+    "https://hiringcafe.com/job/senior-gtm-recruiter-latent-health-san-francisco-california-rhodzumpk0muef8h",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Latenthealth founded funding employees revenue",
+   "results": [
+    "https://www.linkedin.com/posts/y-combinator_latent-has-raised-80m-in-series-a-funding-activity-7440121101147541504-kr5L",
+    "https://www.latenthealth.com/press/latent-emerges-as-clinical-ai-leader-raising-80m-to-close-the-gap-between-diagnosis-and-treatment",
+    "https://getlatka.com/companies/latenthealth.com",
+    "https://www.preqin.com/data/profile/asset/latent-health/793786",
+    "https://www.forbes.com/sites/rashishrivastava/2026/03/18/this-600-million-ai-startup-is-speeding-up-paperwork-so-patients-get-drugs-faster/",
+    "https://pitchbook.com/profiles/company/522161-11",
+    "https://www.crunchbase.com/organization/latent-ad0b",
+    "https://tracxn.com/d/companies/latent/__g47iHSDTKQjMyTr3csRqkopb56OUz7UvNIbp24OQcI8",
+    "https://www.nasdaqprivatemarket.com/company/latent-health/",
+    "https://fundediq.co/latent-latenthealth-com-funding/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Latenthealth",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Latenthealth",
+   "results": [
+    "https://x.com/usejobbie/status/2113071329767293186",
+    "https://x.com/Umbisam/status/1966117621713052073",
+    "https://x.com/DrivenInvestor/status/2119092285912867138",
+    "https://x.com/RashiShrivast18",
+    "https://x.com/CNN/status/2090521805266051493",
+    "https://x.com/raisingfi/status/2034777546760343632",
+    "https://x.com/latent_health/status/2034318375099453634",
+    "https://x.com/TradedVC/status/2041960256939458935",
+    "https://x.com/menlotimes/status/2034518557724434562",
+    "https://x.com/Forbes/status/2037764135744868551"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:linkedin.com Latenthealth",
+   "results": [
+    "https://www.linkedin.com/company/latent-health",
+    "https://www.linkedin.com/posts/maryanakessel_latent-health-is-hiring-enterprisestrategic-activity-7325316309800431616-RxF7",
+    "https://www.linkedin.com/posts/ashtonmaaraba_transforming-pharmacy-operations-at-ochsner-activity-7368684668595937281-E3mH",
+    "https://www.linkedin.com/posts/y-combinator_latent-has-raised-80m-in-series-a-funding-activity-7440121101147541504-kr5L",
+    "https://www.linkedin.com/posts/sarahxguo_incredibly-excited-about-latents-amazingly-activity-7378521538901426176-PeT4",
+    "https://www.linkedin.com/posts/brockewturner_latent-health-to-raise-50m-or-more-activity-7378904833413730305-MAVm",
+    "https://www.linkedin.com/in/jzakskorn",
+    "https://www.linkedin.com/in/ssomasundaram",
+    "https://www.linkedin.com/company/latent-health/jobs",
+    "https://www.linkedin.com/company/latent-health/life"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:facebook.com Latenthealth",
+   "results": [
+    "https://www.facebook.com/forbes/posts/meet-the-startup-with-a-vision-to-bridge-the-gap-between-diagnosis-and-treatment/1312008484122472/",
+    "https://www.facebook.com/forbes/posts/meet-the-startup-with-a-vision-to-bridge-the-gap-between-diagnosis-and-treatment/1327508849239102/",
+    "https://www.facebook.com/OfficialCSHP/posts/60-leading-health-systems-use-latent-to-support-5m-patient-medication-journeys-e/1575243697973249/",
+    "https://www.facebook.com/startuphealth/videos/bob-kocher-partner-at-venrock-breaks-down-the-one-thing-that-separates-a-real-ai/1662803105518222/",
+    "https://www.facebook.com/CoverMyMeds/videos/pa-season/6168686793176733/",
+    "https://www.facebook.com/cnbctv18india/videos/everyone-talks-about-ai-discovering-the-next-blockbuster-drug-few-are-talking-ab/1743555310157806/",
+    "https://www.facebook.com/PRNcodingedu/videos/ais-impact-healthcare-transcription-jobs-revolutionized/1422723686458701/",
+    "https://www.facebook.com/promotionmediaconsultants/videos/2507851713054439/",
+    "https://www.facebook.com/IndiaToday/posts/are-you-wearing-cancerous-chemicals-in-branded-clothesa-new-research-has-flagged/1259431819553697/",
+    "https://secure.facebook.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Latenthealth note 社長",
+   "results": [
+    "https://www.latenthealth.com/",
+    "https://x.com/sadaaki",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://note.com/sadaaki",
+    "https://www.linkedin.com/in/aaron-rau",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://www.linkedin.com/in/ssomasundaram"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Latenthealth X 投稿",
+   "results": [
+    "https://www.latenthealth.com/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11185906/",
+    "https://www.latenthealth.com/platform",
+    "https://x.com/TheLancet",
+    "https://med.stanford.edu/news/insights/2023/08/new-ai-tool-for-pathologists-trained-by-twitter-now-known-as-x.html",
+    "https://www.businesswire.com/news/home/20250722244481/en/Introducing-Latent-X-a-Frontier-Generative-AI-Model-for-Protein-Binder-Design-Accessible-via-No-Code-Platform-for-Push-Button-Protein-Design",
+    "https://aclanthology.org/2024.lrec-main.936.pdf",
+    "https://www.covermymeds.health/articles/healthcare-technology/latent-health-intelligent-automation-fhir",
+    "https://www.latenthealth.com/press",
+    "https://x.com/latent_health"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式9頁／PDF・画像4件／外部27頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式9頁／PDF・画像4件／外部27頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式9頁／PDF・画像4件／外部27頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式9頁／PDF・画像4件／外部27頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式9頁／PDF・画像4件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式9頁／PDF・画像4件／外部27頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式9頁／PDF・画像4件／外部27頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式9頁／PDF・画像4件／外部27頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式9頁／PDF・画像4件／外部27頁・検索12回）"
+ }
+}

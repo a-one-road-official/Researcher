@@ -1,0 +1,1343 @@
+{
+ "name": "Incrmntal",
+ "aliases": [],
+ "context": "旧営業リスト｜広告/マーテック｜状態なし",
+ "researched_at": "2026-11-10T15:01:14.387146+00:00",
+ "official_url": "https://www.incrmntal.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$2.2M",
+    "url": "https://getlatka.com/companies/incrmntal",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "AI-Powered Incremental Marketing & Measurement | INCRMNTAL",
+    "url": "https://www.incrmntal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Measure Cross-Platform Marketing",
+    "url": "https://www.incrmntal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "This approach allows you to measure incrementality while keeping campaigns and channels running.",
+    "url": "https://www.incrmntal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Maximizing Marketing Effectiveness with Causal Data Science and AI",
+    "url": "https://www.incrmntal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The platform uses causal data science and anomaly detection to identify marketing changes.",
+    "url": "https://www.incrmntal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "This aggregated data is measured against your marketing KPIs to determine how effective each campaign is at hitting targets.",
+    "url": "https://www.incrmntal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Actionable insights are driven straight to your own dashboard suggesting the actions you should take to continuously improve your marketing efficiencies based on your own objectives.",
+    "url": "https://www.incrmntal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Privacy Led Marketing Measurement",
+    "url": "https://www.incrmntal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our platform was built for a privacy-first world without the need of any user-level data. Matching a single click to an action was never enough, and now with user level data becoming unattainable, the paradigm for measurement has changed.",
+    "url": "https://www.incrmntal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our approach eliminates the need for any user-level data by utilizing the as advertisers shared KPIs against aggregated data. Through activity detection, it conducts micro-experiments without pausing campaigns or split audiences. The greatest advantage is that it enables you cross-platform marketing measurements for all channels and campaigns, down to the individual bid changes.",
+    "url": "https://www.incrmntal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fast integration : The onboarding experience is easy and lightweight. No engineering work: No Code and No SDK",
+    "url": "https://www.incrmntal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock Growth: allocate your next advertising dollars using contribution not attribution",
+    "url": "https://www.incrmntal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Measure External Events: Understand the impact of external effects, such as seasonality, promotions, trends, etc.",
+    "url": "https://www.incrmntal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cross-Platform Measurement: Measuring performance across iOS, Android, Web, TV, CTV, Influencer marketing equally and without relying on any PII or other user-level data.",
+    "url": "https://www.incrmntal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With INCRMNTAL, we have improved our ability to measure the effectiveness and efficiency of our marketing channels as well as non-paid promotions, helping us understand what channel drives incremental revenue. These insights allowed us to fine-tune our strategy, optimize performance, and ensure every marketing dollar is invested where it matters most for future growth.",
+    "url": "https://www.incrmntal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tim Kurtz, VP Growth Marketing, Self.inc",
+    "url": "https://www.incrmntal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Timothée Basquin, Chief Marketing Officer, KLAR",
+    "url": "https://www.incrmntal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "David H. Azria, Digital Marketing Director, PLAION",
+    "url": "https://www.incrmntal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing measurement solution for Agencies",
+    "url": "https://www.incrmntal.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Seamlessly connect your marketing and sales data with our integration partners.",
+    "url": "https://www.incrmntal.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Incrementality Measurement Solutions for Marketing Agencies",
+    "url": "https://www.incrmntal.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Measure marketing activities on iOS (as INCRMNTAL does not rely or require user-level data)",
+    "url": "https://www.incrmntal.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "We are proud to be working with some of the leading brands in gaming. See how together we have unlocked value!",
+    "url": "https://www.incrmntal.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Can incrementality measure influencer marketing?",
+    "url": "https://www.incrmntal.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "INCRMNTAL is ISO/IEC 270001:2022 Certified. Our policies and procedures have been audited to assure security, availability, processing integrity, confidentiality, and privacy. Certificates available:",
+    "url": "https://www.incrmntal.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing Measurement Platform | INCRMNTAL",
+    "url": "https://www.incrmntal.com/platform",
+    "pass": 1
+   },
+   {
+    "quote": "All Your Marketing Measurement In One Platform",
+    "url": "https://www.incrmntal.com/platform",
+    "pass": 1
+   },
+   {
+    "quote": "INCRMNTAL is the future of measurement - no user level data and or experimentation- granting advertisers insights to optimize their marketing strategy.",
+    "url": "https://www.incrmntal.com/platform",
+    "pass": 1
+   },
+   {
+    "quote": "The platform automatically logs operational marketing changes- using those as micro-experiments. New channels launched, bid changes, creative changes, or even promotions you ran with new customers.",
+    "url": "https://www.incrmntal.com/platform",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing performance is not solely influenced by your advertising. External events that are out of your control play a significant impact. These could be seasonality, promotions, holidays, trends, and so on. INCRMNTAL considers external variables during measurements.",
+    "url": "https://www.incrmntal.com/platform",
+    "pass": 1
+   },
+   {
+    "quote": "Built to Improve your Marketing Measurement",
+    "url": "https://www.incrmntal.com/platform",
+    "pass": 1
+   },
+   {
+    "quote": "Seamlessly integrate your data using any data source you’re already using to connect marketing KPI data and ad spends. There is no need for any tech resources. We don’t have an SDK, Pixels or Tags.",
+    "url": "https://www.incrmntal.com/platform",
+    "pass": 1
+   },
+   {
+    "quote": "The platform will automatically log your marketing activities. Set your custom marketing goals on the platform: CPAs, ROAS, or your own benchmarks.",
+    "url": "https://www.incrmntal.com/platform",
+    "pass": 1
+   },
+   {
+    "quote": "Start measuring within minutes. INCRMNTAL uses casual data science to identify the incremental value of your campaigns over your overall marketing strategy.",
+    "url": "https://www.incrmntal.com/platform",
+    "pass": 1
+   },
+   {
+    "quote": "Measure all your marketing activities and understand which channels are bringing you the best players. Gaming partners use INCRMNTAL to:",
+    "url": "https://www.incrmntal.com/platform",
+    "pass": 1
+   },
+   {
+    "quote": "Measure the incremental impact of product updates, promotions, SEO and ASO changes",
+    "url": "https://www.incrmntal.com/platform",
+    "pass": 1
+   },
+   {
+    "quote": "Get incrementality measurement within minutes. The platform was built around the needs of the growth marketer, providing clear and actionable results, showing you where you need to increase or cut ad spend that has proven to have no incremental value.",
+    "url": "https://www.incrmntal.com/platform",
+    "pass": 1
+   },
+   {
+    "quote": "INCRMNTAL is a power tool for marketing analysts. Allocate budgets based on true value, while being able to find the point of diminishing return, knowing when you should start thinking of diversifying your ad spend.",
+    "url": "https://www.incrmntal.com/platform",
+    "pass": 1
+   },
+   {
+    "quote": "I am a marketing analyst, and I want to learn more!",
+    "url": "https://www.incrmntal.com/platform",
+    "pass": 1
+   },
+   {
+    "quote": "INCRMNTAL is a data science platform, providing full transparency into the modeling of each measurement. Data Scientists and Data Analysts use the platform to validate internal predictions.",
+    "url": "https://www.incrmntal.com/platform",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing Measurement for Growth Marketers",
+    "url": "https://www.incrmntal.com/solutions/growth-marketers",
+    "pass": 1
+   },
+   {
+    "quote": "It sometimes takes just one measurement to show why incrementality measurement is a better way to make decisions about testing new channels, scaling spend up or down. While attribution only reports based on a user-match, incrementality looks at the true impact. We've been using INCRMNTAL for our established and soft launched games, measuring value, rather than only counting impressions and clicks.",
+    "url": "https://www.incrmntal.com/solutions/growth-marketers",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing Measurement for Analysts",
+    "url": "https://www.incrmntal.com/solutions/marketing-analysts",
+    "pass": 1
+   },
+   {
+    "quote": "Seamlessly connect your marketing and sales data with our integration partners.",
+    "url": "https://www.incrmntal.com/solutions/marketing-analysts",
+    "pass": 1
+   },
+   {
+    "quote": "The Ultimate Marketing Data Analyst Tool for Smarter Insights",
+    "url": "https://www.incrmntal.com/solutions/marketing-analysts",
+    "pass": 1
+   },
+   {
+    "quote": "digital marketing data analysts",
+    "url": "https://www.incrmntal.com/solutions/marketing-analysts",
+    "pass": 1
+   },
+   {
+    "quote": ". Marketing analysts can measure continuously with the platform and know how to allocate their budgets better to reduce cannibalization and get a higher ROAS. Remember, that INCRMNTAL gives you visibility of the incremental impact of all your",
+    "url": "https://www.incrmntal.com/solutions/marketing-analysts",
+    "pass": 1
+   },
+   {
+    "quote": ". INCRMNTAL is the only platform allowing you to measure incrementality without needing to disrupt marketing activities. No need for A/B testing, randomized control groups, or geo-lift experiments.",
+    "url": "https://www.incrmntal.com/solutions/marketing-analysts",
+    "pass": 1
+   },
+   {
+    "quote": "Tim Kurtz, VP Growth Marketing, Self.inc",
+    "url": "https://www.incrmntal.com/solutions/marketing-analysts",
+    "pass": 1
+   },
+   {
+    "quote": "Pau Sicilia - Performance Marketing Manager",
+    "url": "https://www.incrmntal.com/solutions/marketing-analysts",
+    "pass": 1
+   },
+   {
+    "quote": "Can incrementality measure influencer marketing?",
+    "url": "https://www.incrmntal.com/solutions/marketing-analysts",
+    "pass": 1
+   },
+   {
+    "quote": "INCRMNTAL is ISO/IEC 270001:2022 Certified. Our policies and procedures have been audited to assure security, availability, processing integrity, confidentiality, and privacy. Certificates available:",
+    "url": "https://www.incrmntal.com/solutions/marketing-analysts",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing Measurement Solution for Data Analysts",
+    "url": "https://www.incrmntal.com/solutions/data-analysts",
+    "pass": 1
+   },
+   {
+    "quote": "Advertising Measurement Software for Gaming",
+    "url": "https://www.incrmntal.com/solutions/gaming",
+    "pass": 1
+   },
+   {
+    "quote": "Seamlessly connect your marketing and sales data with our integration partners.",
+    "url": "https://www.incrmntal.com/solutions/gaming",
+    "pass": 1
+   },
+   {
+    "quote": "Measure the incremental impact of product updates, promotions, SEO and ASO changes",
+    "url": "https://www.incrmntal.com/solutions/gaming",
+    "pass": 1
+   },
+   {
+    "quote": "David H. Azria, Digital Marketing Director, PLAION",
+    "url": "https://www.incrmntal.com/solutions/gaming",
+    "pass": 1
+   },
+   {
+    "quote": "INCRMNTAL has provided us with valuable visibility into our iOS activities and influencer collaborations, helping us to refine our marketing strategy using data-driven insights. We look forward to continuing to build on this momentum with more powerful insights and further campaign optimizations",
+    "url": "https://www.incrmntal.com/solutions/gaming",
+    "pass": 1
+   },
+   {
+    "quote": "We are proud to be working with some of the leading brands in gaming. See how together we have unlocked value!",
+    "url": "https://www.incrmntal.com/solutions/gaming",
+    "pass": 1
+   },
+   {
+    "quote": "Can incrementality measure influencer marketing?",
+    "url": "https://www.incrmntal.com/solutions/gaming",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by leading brands, around the world",
+    "url": "https://www.incrmntal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by all verticals.",
+    "url": "https://www.incrmntal.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Select customers include",
+    "url": "https://www.incrmntal.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by all verticals.",
+    "url": "https://www.incrmntal.com/solutions/marketing-analysts",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by all verticals.",
+    "url": "https://www.incrmntal.com/solutions/gaming",
+    "pass": 1
+   },
+   {
+    "quote": "Select customers include",
+    "url": "https://www.incrmntal.com/solutions/gaming",
+    "pass": 1
+   },
+   {
+    "quote": "Select customers include",
+    "url": "https://www.incrmntal.com/solutions/fintech",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by all verticals.",
+    "url": "https://www.incrmntal.com/solutions/travel-mobility",
+    "pass": 1
+   },
+   {
+    "quote": "Select customers include",
+    "url": "https://www.incrmntal.com/solutions/travel-mobility",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by all verticals.",
+    "url": "https://www.incrmntal.com/solutions/lifestyle",
+    "pass": 1
+   },
+   {
+    "quote": "Select customers include",
+    "url": "https://www.incrmntal.com/solutions/lifestyle",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by all verticals.",
+    "url": "https://www.incrmntal.com/solutions/ecommerce-retail",
+    "pass": 1
+   },
+   {
+    "quote": "Select customers include",
+    "url": "https://www.incrmntal.com/solutions/ecommerce-retail",
+    "pass": 1
+   },
+   {
+    "quote": "Select customers include",
+    "url": "https://www.incrmntal.com/solutions/healthcare-and-clinical",
+    "pass": 1
+   },
+   {
+    "quote": "Selected customers include",
+    "url": "https://www.incrmntal.com/solutions/healthcare-and-clinical",
+    "pass": 1
+   },
+   {
+    "quote": "Our platform is trusted by the following iOS App Developers:",
+    "url": "https://www.incrmntal.com/solutions/ios",
+    "pass": 1
+   },
+   {
+    "quote": "Our platform is trusted by the following Android App Developers:",
+    "url": "https://www.incrmntal.com/solutions/android",
+    "pass": 1
+   },
+   {
+    "quote": "Our platform is trusted by the following Web Advertisers:",
+    "url": "https://www.incrmntal.com/solutions/web",
+    "pass": 1
+   },
+   {
+    "quote": "Our platform is trusted by the following TV Advertisers:",
+    "url": "https://www.incrmntal.com/solutions/tv",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by all verticals.",
+    "url": "https://www.incrmntal.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "《Summary》 Smartly, an AI-driven ad optimization platform, plans to acquire the \"Always-on Incrementality\" startup INCRMNTAL within a few weeks. INCRMNTAL provides incrementality measurement that achieves lift measurement without the need for control groups. The CEO positioned this as a response to the failure of traditional attribution caused by the increase in searches via ChatGPT/Gemini.",
+    "url": "https://note.com/synthlog/n/ncf462959e77f?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "David Pool, Director of Acquisition, DTC, Funko Pop!",
+    "url": "https://www.incrmntal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With INCRMNTAL, we have improved our ability to measure the effectiveness and efficiency of our marketing channels as well as non-paid promotions, helping us understand what channel drives incremental revenue. These insights allowed us to fine-tune our strategy, optimize performance, and ensure every marketing dollar is invested where it matters most for future growth.",
+    "url": "https://www.incrmntal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Makoto Rheault-Kihara, Head of User Acquisition, Hopper",
+    "url": "https://www.incrmntal.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Makoto Rheault-Kihara, Head of User Acquisition, Hopper",
+    "url": "https://www.incrmntal.com/solutions/travel-mobility",
+    "pass": 1
+   },
+   {
+    "quote": "We are a new startup with a LOT of supporters and positive attention from investors, press and customers. Joining early means that you could be part of our success. Early team members are granted stock options to share profit from the company's success.",
+    "url": "https://www.incrmntal.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "INCRMNTAL Revenue 2024: $3.1M Est., $2.2M Raised",
+    "url": "https://getlatka.com/companies/incrmntal",
+    "pass": 3
+   },
+   {
+    "quote": "INCRMNTAL's last reported revenue was $840K in 2021 (Maor Sadra on camera). GetLatka estimates it at about $3.1M a year (October 2024).",
+    "url": "https://getlatka.com/companies/incrmntal",
+    "pass": 3
+   },
+   {
+    "quote": ". The list ranks the 1,301 companies Nathan Latka has interviewed by revenue.",
+    "url": "https://getlatka.com/companies/incrmntal",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/incrmntal",
+    "pass": 3
+   },
+   {
+    "quote": "INCRMNTAL CEO, founders & employees",
+    "url": "https://getlatka.com/companies/incrmntal",
+    "pass": 3
+   },
+   {
+    "quote": "Maor Sadra founded INCRMNTAL in 2020 and runs it as CEO. INCRMNTAL had 32 employees (October 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/incrmntal",
+    "pass": 3
+   },
+   {
+    "quote": "What is INCRMNTAL's revenue?",
+    "url": "https://getlatka.com/companies/incrmntal",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates INCRMNTAL's revenue at about",
+    "url": "https://getlatka.com/companies/incrmntal",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does INCRMNTAL have?",
+    "url": "https://getlatka.com/companies/incrmntal",
+    "pass": 3
+   },
+   {
+    "quote": "employees in October 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/incrmntal",
+    "pass": 3
+   },
+   {
+    "quote": "The Latka List ranks the private, operating companies Nathan Latka has interviewed by the latest revenue figure on each profile, reported or estimated; equal figures share a rank.",
+    "url": "https://getlatka.com/companies/incrmntal",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/incrmntal",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/incrmntal",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/incrmntal",
+    "pass": 3
+   },
+   {
+    "quote": "Levanta is a new Amazon Affiliate Platform that makes it easy to connect with revenue-generating creators,…",
+    "url": "https://fundediq.co/incrmntal-incrmntal-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Maor Sadra is listed as CEO at INCRMNTAL.",
+    "url": "https://fundediq.co/incrmntal-incrmntal-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does INCRMNTAL have?",
+    "url": "https://fundediq.co/incrmntal-incrmntal-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/incrmntal-incrmntal-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/incrmntal-incrmntal-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Smartly Announces Acquisition of INCRMNTAL—Integrating Incrementality Measurement into its Core",
+    "url": "https://note.com/synthlog/n/ncf462959e77f?hl=en",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Marketing measurement solution for Agencies",
+    "url": "https://www.incrmntal.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Incrementality Measurement Solutions for Marketing Agencies",
+    "url": "https://www.incrmntal.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies use INCRMNTAL to:",
+    "url": "https://www.incrmntal.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "We offer 3 tracks while working with agencies:",
+    "url": "https://www.incrmntal.com/pricing",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Online Portal + Email (72h)",
+    "url": "https://www.incrmntal.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Online Portal + Email (48h)",
+    "url": "https://www.incrmntal.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Online Portal + Email (24h)",
+    "url": "https://www.incrmntal.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Online portal + Email Support (24h SLA)",
+    "url": "https://www.incrmntal.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Online portal + Email Support (12h SLA)",
+    "url": "https://www.incrmntal.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Contact details for the INCRMNTAL team: 1 of 1 has an email address on file.",
+    "url": "https://fundediq.co/incrmntal-incrmntal-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/incrmntal-incrmntal-com-funding/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本の広告主・DSPも同様の課題を抒えるかも",
+    "url": "https://note.com/synthlog/n/ncf462959e77f",
+    "pass": 3
+   },
+   {
+    "quote": "t&gt; Q5: どのような業種・業界での導入事例が多いですか？ A: 公式サイトの言及 (2024-12-31) によると、Gaming (ゲーム), Fintech (フィンテック), Entertainment (エンターテイメント), eCommerce (Eコマース), Health (ヘルスケア), Travel (旅行), Mobility (モビリティ), Utilities (公共事業) など、デジタル広告への依存度が高く、パフォーマンスを重視するB2Cサービスでの導入事例が豊富です",
+    "url": "https://skywork.ai/skypage/ja/roas-calculator-advertising-effectiveness/1985509345291739136",
+    "pass": 3
+   },
+   {
+    "quote": "《Commentary》 The shift from last-click attribution to incrementality measurement is truly a \"demand of the times.\" As AI agents enter the ad buying space, the attribution model itself needs to be redesigned. Japanese advertisers and DSPs may face similar challenges.",
+    "url": "https://note.com/synthlog/n/ncf462959e77f?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "アドテクニュース 2026-03-18｜SmartlyがINCRMNTAL買収・リテールメデ... — Mar 18, 2026 · SmartlyがINCRMNTALの買収を発表——インクリメンタリティ計測をコアに組み込む 《要約》AI驱動広告最適化プラットフォームのSmartlyが、「Always-on Incrementality」のスタートアップINCRMNTALを数週間内に買収予定。",
+    "url": "https://note.com/synthlog/n/ncf462959e77f",
+    "pass": 3
+   },
+   {
+    "quote": "AI-Powered Incremental Marketing & Measurement | INCRMNTAL — With INCRMNTAL, we have improved our ability to measure the effectiveness and efficiency of our marketing channels as well as non-paid promotions, helping us understand what channel drives incremental revenue.",
+    "url": "https://www.incrmntal.com/",
+    "pass": 3
+   },
+   {
+    "quote": "INCRMNTAL完全ガイド：次世代のROAS計算機で真の広告効果を測定 — Nov 6, 2025 · Q2: 導入にはどのくらいの期間と工数がかかりますか？ A: SDKの導入が不要で、主に各プラットフォームとのAPI連携で完結するため、従来のMMM構築などと比較して迅速な導入が可能です。 通常、データ連携が完了すれば数週間で初期インサイトが得られます。",
+    "url": "https://skywork.ai/skypage/ja/roas-calculator-advertising-effectiveness/1985509345291739136",
+    "pass": 3
+   },
+   {
+    "quote": "INCRMNTAL - LinkedIn — INCRMNTAL is an AI incrementality measurement platform allowing advertisers to measure the true incremental value of any activity impacting their marketing KPIs. Utilizing causality and AI, the...",
+    "url": "https://www.linkedin.com/company/incrmntal/",
+    "pass": 3
+   },
+   {
+    "quote": "INCRMNTAL Revenue 2024: $3.1M Est., $2.2M Raised - LATKA — Oct 5, 2026 · INCRMNTAL 2024 estimated revenue: $3.1M (up from $1.8M in 2023). Total funding: $2.2M across 2 rounds. 36 customers, 32 employees. Updated Oct 5, 2026.",
+    "url": "https://getlatka.com/companies/incrmntal",
+    "pass": 3
+   },
+   {
+    "quote": "INCRMNTAL — Company Profile, Funding & Investors — INCRMNTAL company profile with $5.5M raised across 2 funding rounds, HQ in Tel Aviv, Israel, founded 2020. Explore its acquisitions, funding rounds, investors, key people and contacts on Acquirezy — updated 2026.",
+    "url": "https://acquirezy.com/organization/incrmntal-2491386",
+    "pass": 3
+   },
+   {
+    "quote": "INCRMNTAL: Funding, Investors & Team (Oct 2026) | FundedIQ — INCRMNTAL is an Advertising company in Tel Aviv, Israel. Raised $5.5M across 2 rounds; latest a Seed in Jul 2022. Investors, founders and funding history.",
+    "url": "https://fundediq.co/incrmntal-incrmntal-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "INCRMNTAL - Crunchbase Company Profile & FundingIncrmntal 2026 Company Profile: Valuation, Investors ...INCRMNTAL — investors & funding | gritt.ioINCRMNTAL - Products, Competitors, Financials, Employees ... — INCRMNTAL is developing an innovative AI powered marketing insights platform. The software was built in a privacy first world requiring no user-level data. The platform is completely self-ser",
+    "url": "https://www.crunchbase.com/organization/incrmntal",
+    "pass": 3
+   },
+   {
+    "quote": "Incrmntal 2026 Company Profile: Valuation, Investors ...INCRMNTAL — investors & funding | gritt.ioINCRMNTAL - Products, Competitors, Financials, Employees ... — Information on acquisition, funding, investors, and executives for Incrmntal. Use the PitchBook Platform to explore the full profile. INCRMNTAL is an AI incrementality measurement platform allowing advertisers to measure the true increment",
+    "url": "https://pitchbook.com/profiles/company/443127-07",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "AdTech News 2026-03-18 | Smartly Acquires INCRMNTAL, Retail ... Mar 17, 2026 · 《Summary》 Smartly, an AI-driven ad optimization platform, plans to acquire the \"Always-on Incrementality\" startup INCRMNTAL within a few weeks. INCRMNTAL provides incrementality measurement that achieves lift measurement without the need for control groups.",
+    "url": "https://note.com/synthlog/n/ncf462959e77f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "アドテクニュース 2026-03-18｜SmartlyがINCRMNTAL買収・リテールメデ... Mar 18, 2026 · SmartlyがINCRMNTALの買収を発表——インクリメンタリティ計測をコアに組み込む 《要約》AI驱動広告最適化プラットフォームのSmartlyが、「Always-on Incrementality」のスタートアップINCRMNTALを数週間内に買収予定。",
+    "url": "https://note.com/synthlog/n/ncf462959e77f",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "AdTech News 2026-03-18 | Smartly Acquires INCRMNTAL, Retail Media Verticalization, and the Frontline of Publisher First-Party Data Utilization｜ジェパンニ",
+    "url": "https://note.com/synthlog/n/ncf462959e77f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AdTech News 2026-03-18 | Smartly Acquires INCRMNTAL, Retail Media Verticalization, and the Frontline of Publisher First-Party Data Utilization",
+    "url": "https://note.com/synthlog/n/ncf462959e77f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Smartly Announces Acquisition of INCRMNTAL—Integrating Incrementality Measurement into its Core",
+    "url": "https://note.com/synthlog/n/ncf462959e77f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "《Summary》 Smartly, an AI-driven ad optimization platform, plans to acquire the \"Always-on Incrementality\" startup INCRMNTAL within a few weeks. INCRMNTAL provides incrementality measurement that achieves lift measurement without the need for control groups. The CEO positioned this as a response to the failure of traditional attribution caused by the increase in searches via ChatGPT/Gemini.",
+    "url": "https://note.com/synthlog/n/ncf462959e77f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "《Commentary》 The shift from last-click attribution to incrementality measurement is truly a \"demand of the times.\" As AI agents enter the ad buying space, the attribution model itself needs to be redesigned. Japanese advertisers and DSPs may face similar challenges.",
+    "url": "https://note.com/synthlog/n/ncf462959e77f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Future Announces \"Helix,\" Using Publisher First-Party Data for AI Training",
+    "url": "https://note.com/synthlog/n/ncf462959e77f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "《Summary》 Future, which owns over 170 media outlets including Marie Claire and PC Gamer, has announced \"Helix,\" which utilizes its own first-party data for AI training. By realizing performance predictions from audience behavioral data, it will deploy high-quality ad inventory that attracts performance-oriented advertisers.",
+    "url": "https://note.com/synthlog/n/ncf462959e77f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "《Commentary》 This is a trend where publishers are building their own infrastructure as the \"owners of data.\" In the era of agent-based ad buying, the ceiling is higher for direct transactions using proprietary data as a weapon rather than distributing impressions across various ad networks.",
+    "url": "https://note.com/synthlog/n/ncf462959e77f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "アドテクニュース 2026-03-18｜SmartlyがINCRMNTAL買収・リテールメディア垂直化・パブリッシャー1ストプデータ活用の最前線｜ジェパンニ",
+    "url": "https://note.com/synthlog/n/ncf462959e77f",
+    "pass": 3
+   },
+   {
+    "quote": "アドテクニュース 2026-03-18｜SmartlyがINCRMNTAL買収・リテールメディア垂直化・パブリッシャー1ストプデータ活用の最前線",
+    "url": "https://note.com/synthlog/n/ncf462959e77f",
+    "pass": 3
+   },
+   {
+    "quote": "SmartlyがINCRMNTALの買収を発表——インクリメンタリティ計測をコアに組み込む",
+    "url": "https://note.com/synthlog/n/ncf462959e77f",
+    "pass": 3
+   },
+   {
+    "quote": "《要約》AI驱動広告最適化プラットフォームのSmartlyが、「Always-on Incrementality」のスタートアップINCRMNTALを数週間内に買収予定。INCRMNTALはコントロールグループ不要でリフト計測を実現するインクリメンタリティ計測を提供。CEOはChatGPT/Gemini経由の検索増加で従来アトリビューションが機能不全に陥ることへの対応と位置付けた。",
+    "url": "https://note.com/synthlog/n/ncf462959e77f",
+    "pass": 3
+   },
+   {
+    "quote": "《所榄》ラストクリックアトリビューションからインクリメンタリティ計測へのシフトはまさに「時代の要請」。AIエージェントが広告バイイングに入り込む時代に向けて、アトリビューション模型自体の再設計が必要になる。日本の広告主・DSPも同様の課題を抒えるかも。",
+    "url": "https://note.com/synthlog/n/ncf462959e77f",
+    "pass": 3
+   },
+   {
+    "quote": "FutureがパブリッシャーファーストパーティデータでAI学習する「Helix」を発表",
+    "url": "https://note.com/synthlog/n/ncf462959e77f",
+    "pass": 3
+   },
+   {
+    "quote": "《要約》Marie Claire、PC Gamerなど170以上のメディアを持つFutureが、自社1ストパーティデータをAI学習に活用する「Helix」を発表。オーディエンス行動データから成果予測を実現し、成果重視の広告主を吸引する高品質広告枠を展閉する。",
+    "url": "https://note.com/synthlog/n/ncf462959e77f",
+    "pass": 3
+   },
+   {
+    "quote": "《所榄》パブリッシャーが「データの持ち主」として自社インフラを構築する潮流。エージェント型広告バイイングの時代、色んなアドネットワークにインプレを振り分けるより、自社データを武器に直接取引する天井が高い。",
+    "url": "https://note.com/synthlog/n/ncf462959e77f",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "INCRMNTAL on X: \"5,000 campaign changes a month. Now go run a ... INCRMNTAL on X: \"5,000 campaign changes a month. Now go run a clean geo test. GeoLift and MMM need you to stop touching things. Marketers don't work like that Disagree with us ? Read more about the topic - comment, below\" INCRMNTAL @incrmntal",
+    "url": "https://x.com/incrmntal/status/2088146593815900612",
+    "pass": 3
+   },
+   {
+    "quote": "INCRMNTAL on X: \"San Francisco here we come! We are excited ... INCRMNTAL on X: \"San Francisco here we come! We are excited to be attending GDC this month with our team. If you want to learn more about the Future of Measurement #PostIDFA #NoUserLevelData #IncrementalityMeasurment and more. Don't be shy and let's chat! https://t.co/CQxsszwuTa #GDC2023\" INCRMNTAL @incrmntal",
+    "url": "https://x.com/incrmntal/status/1633120327466090496",
+    "pass": 3
+   },
+   {
+    "quote": "Smartly Signs Letter of Intent to Acquire INCRMNTAL MarTech Series (@MarTechSeries). 13 views. Smartly Signs Letter of Intent to Acquire INCRMNTAL https://t.co/JCnWXm6NmR #MarTech #MarketingTechnology #MarketingTech #AdTech #ContentMarketing",
+    "url": "https://x.com/MarTechSeries/status/2033878292705472760",
+    "pass": 3
+   },
+   {
+    "quote": "INCRMNTAL on X: \"San Francisco here we come! We are excited ... Mar 7, 2023 · INCRMNTAL on X: \"San Francisco here we come! We are excited to be attending GDC this month with our team. If you want to learn more about the Future of Measurement #PostIDFA #NoUserLevelData #IncrementalityMeasurment and more. Don't be shy and let's chat! https://t.co/CQxsszwuTa #GDC2023\" INCRMNTAL @incrmntal",
+    "url": "https://x.com/incrmntal/status/1633120327466090496",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "INCRMNTAL - LinkedIn INCRMNTAL is an AI incrementality measurement platform allowing advertisers to measure the true incremental value of any activity impacting their marketing KPIs.",
+    "url": "https://www.linkedin.com/company/incrmntal/",
+    "pass": 3
+   },
+   {
+    "quote": "Analyst - LinkedIn INCRMNTAL Analyst empowers you to ask insightful questions and explore the incrementality of various activities while providing transparency into the modeling process.",
+    "url": "https://www.linkedin.com/products/incrmntal-incrementality-measurement-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Maor Sadra - INCRMNTAL | LinkedInHadas Golzaker - Senior Marketing Manager at INCRMNTAL ...INCRMNTAL - LinkedInIncremental - LinkedInExplorer - LinkedIn Working in Digital Advertising in the past 20+ years, I can summarize my life in an Excel… · ניסיון: INCRMNTAL · מיקום: Tel Aviv District · 500+ חיבורים על LinkedIn. הצג Maor Sadra ... Senior Marketing Manager at INCRMNTAL · I'm the brand therapis",
+    "url": "https://il.linkedin.com/in/maorsadra",
+    "pass": 3
+   },
+   {
+    "quote": "Hadas Golzaker - Senior Marketing Manager at INCRMNTAL ...INCRMNTAL - LinkedInIncremental - LinkedInExplorer - LinkedIn Senior Marketing Manager at INCRMNTAL · I'm the brand therapist who asks the uncomfortable questions your company has been avoiding. After 10+ years in marketing, I've learned that most brands... INCRMNTAL Editions Published on Feb 16, 2025 Published on Jan 16, 2025 Published on ",
+    "url": "https://il.linkedin.com/in/hadas-golzaker",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "INCRMNTAL - Unraveling Incrementality Myths Ever ... Aug 14, 2023 · requires experiments? At INCRMNTAL, we're rewriting the rulebook! Unlike traditional methods, we harness causal data science to decode the impact of each marketing move on your bottom line – no turning",
+    "url": "https://www.facebook.com/incrmntal/posts/-unraveling-incrementality-myths-ever-wondered-if-incrementality-measurement-tru/803747588134683/",
+    "pass": 3
+   },
+   {
+    "quote": "INCRMNTAL - How much efficiency could you ... - Facebook Jan 27, 2025 · 🚀 How much efficiency could you unlock with always-on incrementality in your ad tech stack? 1%? 2%? Try 30%. 📈 One of our customers used INCRMNTAL...",
+    "url": "https://www.facebook.com/incrmntal/posts/-how-much-efficiency-could-you-unlock-with-always-on-incrementality-in-your-ad-t/1183443026831802/",
+    "pass": 3
+   },
+   {
+    "quote": "We’ve officially closed our acquisition of INCRMNTAL. As we ... May 7, 2026 · By bringing INCRMNTAL into Smartly, we’re combining causal measurement with real-time creative and media",
+    "url": "https://www.facebook.com/smartly.io/videos/smartly-completes-acquisition-of-incrmntal-laura-desmond/935349615929235/",
+    "pass": 3
+   },
+   {
+    "quote": "INCRMNTAL - INCRMNTAL + Roku = Smarter TV Advertising ! We’re ... Mar 17, 2025 · INCRMNTAL + Roku = Smarter TV Advertising ! We’re thrilled to announce our partnership with Roku, bringing incrementality measurement to the world of...",
+    "url": "https://www.facebook.com/incrmntal/photos/incrmntal-roku-smarter-tv-advertising-were-thrilled-to-announce-our-partnership-/1221887192987385/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.incrmntal.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.incrmntal.com/solutions/agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.incrmntal.com/platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.incrmntal.com/solutions/growth-marketers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.incrmntal.com/solutions/marketing-analysts",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.incrmntal.com/solutions/data-analysts",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.incrmntal.com/solutions/gaming",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.incrmntal.com/solutions/fintech",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.incrmntal.com/solutions/travel-mobility",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.incrmntal.com/solutions/lifestyle",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.incrmntal.com/solutions/ecommerce-retail",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.incrmntal.com/solutions/healthcare-and-clinical",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.incrmntal.com/solutions/ios",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.incrmntal.com/solutions/android",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.incrmntal.com/solutions/web",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.incrmntal.com/solutions/tv",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.incrmntal.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.incrmntal.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.incrmntal.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.incrmntal.com/solutions",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://static.incrmntal.com/Logos_with_Laptop_fa53491749.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://static.incrmntal.com/medium_Meta_Business_Partners_two_line_lockup_positive_primary_RGB_1fae87831a.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/synthlog/n/ncf462959e77f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skywork.ai/skypage/ja/roas-calculator-advertising-effectiveness/1985509345291739136",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kuruma-news.jp/post/1004791",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kimini.online/blog/archives/39927",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/incrmntal/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://expatsjapan.com/daily-life/japanese-customs-immigration-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon.com/en/articles/-/14963",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ejje.weblio.jp/content/INCREMENTAL",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.infosys.com/industries/industrial-manufacturing/case-studies.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://red27creative.com/manufacturing-case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/incrmntal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://acquirezy.com/organization/incrmntal-2491386",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/incrmntal-incrmntal-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/incrmntal",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/synthlog/n/ncf462959e77f?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/synthlog/n/ncf462959e77f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/incrmntal/status/2088146593815900612",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/incrmntal/status/1633120327466090496",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MarTechSeries/status/2033878292705472760",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/incrmntal/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/incrmntal-incrementality-measurement-platform/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://il.linkedin.com/in/maorsadra",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://il.linkedin.com/in/hadas-golzaker",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/incrmntal/posts/-unraveling-incrementality-myths-ever-wondered-if-incrementality-measurement-tru/803747588134683/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/incrmntal/posts/-how-much-efficiency-could-you-unlock-with-always-on-incrementality-in-your-ad-t/1183443026831802/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/smartly.io/videos/smartly-completes-acquisition-of-incrmntal-laura-desmond/935349615929235/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/incrmntal/photos/incrmntal-roku-smarter-tv-advertising-were-thrilled-to-announce-our-partnership-/1221887192987385/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/incrmntal/status/1633120327466090496",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Incrmntal 日本 導入",
+   "results": [
+    "https://note.com/synthlog/n/ncf462959e77f",
+    "https://www.incrmntal.com/",
+    "https://skywork.ai/skypage/ja/roas-calculator-advertising-effectiveness/1985509345291739136",
+    "https://kuruma-news.jp/post/1004791",
+    "https://tsuhon.jp/interpretation/column/glob10/",
+    "https://ja.wiktionary.org/wiki/incremental",
+    "https://context.reverso.net/翻訳/英語-日本語/incremental"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Incrmntal 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "https://kimini.online/blog/archives/39927",
+    "https://context.reverso.net/翻訳/日本語-英語/総代理店",
+    "https://ja.ichacha.net/english/総代理店.html",
+    "https://b-seeds.com/column/sole-agency-agreement"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Incrmntal Japan",
+   "results": [
+    "https://www.linkedin.com/company/incrmntal/",
+    "https://expatsjapan.com/daily-life/japanese-customs-immigration-guide/",
+    "https://www.nippon.com/en/in-depth/d00920/",
+    "https://ejje.weblio.jp/content/INCREMENTAL",
+    "https://dictionary.cambridge.org/ja/dictionary/english/incremental",
+    "https://reibun-eigo.com/entry-incremental/",
+    "https://www.moj.go.jp/isa/immigration/?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Incrmntal manufacturing customer case study",
+   "results": [
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.infosys.com/industries/industrial-manufacturing/case-studies.html",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://red27creative.com/manufacturing-case-studies",
+    "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "https://www.incrmntal.com/resources/category/case-studies"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Incrmntal white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://partners.spectrum.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.appspace.com/resellers-alliances/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Incrmntal founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/incrmntal",
+    "https://acquirezy.com/organization/incrmntal-2491386",
+    "https://fundediq.co/incrmntal-incrmntal-com-funding/",
+    "https://www.crunchbase.com/organization/incrmntal",
+    "https://pitchbook.com/profiles/company/443127-07",
+    "https://www.gritt.io/company/incrmntal/",
+    "https://www.cbinsights.com/company/incrmntal"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Incrmntal",
+   "results": [
+    "https://note.com/synthlog/n/ncf462959e77f?hl=en",
+    "https://note.com/synthlog/n/ncf462959e77f",
+    "https://note.com/akira_umapro",
+    "https://note.com/masahiko_studio/n/nfa419e0636e4?hl=en",
+    "https://note.com/modern_ferret431/n/n37965c97c3d3",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/clever_hebe598/n/n5ec80ff9bf50"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Incrmntal",
+   "results": [
+    "https://x.com:8443/incrmntal",
+    "https://x.com/incrmntal/status/2088146593815900612",
+    "https://x.com/incrmntal/status/1633120327466090496",
+    "https://x.com/MarTechSeries/status/2033878292705472760",
+    "https://x.com/FabiusMaximus01/status/2119841985749991855",
+    "https://x.com/crashurstox/status/2118482954699903003",
+    "https://x.com/marvinashaba0/status/2114960012615246309"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Incrmntal",
+   "results": [
+    "https://www.linkedin.com/company/incrmntal/",
+    "https://www.linkedin.com/products/incrmntal-incrementality-measurement-platform/",
+    "https://il.linkedin.com/in/maorsadra",
+    "https://il.linkedin.com/in/hadas-golzaker",
+    "https://www.linkedin.com/newsletters/incrmntal-7122225209381695488",
+    "https://www.linkedin.com/products/incrmntal-autonomous/",
+    "https://www.linkedin.com/company/incrementalinc"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Incrmntal",
+   "results": [
+    "https://www.facebook.com/incrmntal/posts/-unraveling-incrementality-myths-ever-wondered-if-incrementality-measurement-tru/803747588134683/",
+    "https://www.facebook.com/incrmntal/posts/-how-much-efficiency-could-you-unlock-with-always-on-incrementality-in-your-ad-t/1183443026831802/",
+    "https://www.facebook.com/smartly.io/videos/smartly-completes-acquisition-of-incrmntal-laura-desmond/935349615929235/",
+    "https://www.facebook.com/incrmntal/photos/incrmntal-roku-smarter-tv-advertising-were-thrilled-to-announce-our-partnership-/1221887192987385/",
+    "https://www.facebook.com/incrmntal/posts/we-are-excited-to-be-sponsoring-app-growth-summit-in-san-francisco-jared-vanderc/598107702032007/",
+    "https://www.facebook.com/incrmntal/",
+    "https://www.facebook.com/incrmntal/videos/our-first-platform-promotional-video-is-live-wdyt-/1596997877893024/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Incrmntal note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.com/saiyou_dekirukun/all",
+    "https://exwrite.net/article/17s017_edit/",
+    "https://maneuva.co.jp/insights/category/presidentnote/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/im_nakayama",
+    "https://note.herp.co.jp/m/m52da45ed0988"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Incrmntal X 投稿",
+   "results": [
+    "https://x.com:8443/incrmntal",
+    "https://www.incrmntal.com/",
+    "https://x.com/incrmntal/status/1633120327466090496",
+    "https://www.instagram.com/incrmntal/",
+    "https://www.incrmntal.com/platform",
+    "https://dashboard.incrmntal.net/",
+    "https://knowledgebase.incrmntal.com/knowledge/how-to-connect-twitter-marketing-activities-with-incrmntal"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部37頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部37頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部37頁・検索12回）"
+ }
+}

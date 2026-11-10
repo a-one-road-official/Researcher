@@ -1,0 +1,840 @@
+{
+ "name": "Kidpass",
+ "aliases": [],
+ "context": "旧営業リスト｜Education / Childcare｜未接触",
+ "researched_at": "2026-11-10T14:54:51.483477+00:00",
+ "official_url": "https://www.kidpass.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "3. Seed Round",
+    "value": "28-Apr-2017    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/152034-67",
+    "pass": 3
+   },
+   {
+    "label": "1. Seed Round",
+    "value": "28-Sep-2016 $1.2M $1.2M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/152034-67",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "KidPass （キッドパス） | AMP[アンプ] - 人生の豊かさを生む ... — KidPass （キッドパス） | AMP[アンプ] - 人生の豊かさを生む ... AMP[アンプ] https://ampmedia.jp > database > kidpass",
+    "url": "https://ampmedia.jp/database/k/kidpass/",
+    "pass": 3
+   },
+   {
+    "quote": "KidPass - Facebook — KidPass - Facebook Facebook https://www.facebook.com > ... > Other > Brand > Website",
+    "url": "https://www.facebook.com/kidpass/",
+    "pass": 3
+   },
+   {
+    "quote": "KidPass : Online & In-Person Kids Activities - Y Combinator — KidPass : Online & In-Person Kids Activities - Y Combinator Y Combinator https://www.ycombinator.com > kidp...",
+    "url": "https://www.ycombinator.com/companies/kidpass",
+    "pass": 3
+   },
+   {
+    "quote": "KidPass (@ kidpass ) • Instagram photos and videos — KidPass (@ kidpass ) • Instagram photos and videos Instagram https://www.instagram.com > kidpass",
+    "url": "https://www.instagram.com/kidpass/",
+    "pass": 3
+   },
+   {
+    "quote": "KidPass Reviews - Trustpilot — KidPass Reviews - Trustpilot Trustpilot https://www.trustpilot.com > ... > Class",
+    "url": "https://www.trustpilot.com/review/www.kidpass.com",
+    "pass": 3
+   },
+   {
+    "quote": "KidPass raises $5.1 million for its children's activity ... — KidPass raises $5.1 million for its children's activity ... TechCrunch https://techcrunch.com > 2017/05/26",
+    "url": "https://techcrunch.com/2017/05/26/kidpass-raises-5-1-million-for-its-childrens-activity-subscription-service/",
+    "pass": 3
+   },
+   {
+    "quote": "KidPass - 2026 Company Profile, Team, Funding & Competitors — KidPass - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/kidpass/__CBm5zGbDvttxmZ8NEqNHYalsQhljdkM8dQrXfNqEW24",
+    "pass": 3
+   },
+   {
+    "quote": "KidPass 2026 Company Profile: Valuation, Investors, Acquisition — KidPass 2026 Company Profile: Valuation, Investors, Acquisition PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/152034-67",
+    "pass": 3
+   },
+   {
+    "quote": "KidPass - Crunchbase Company Profile & Funding — KidPass - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > kidpass",
+    "url": "https://www.crunchbase.com/organization/kidpass",
+    "pass": 3
+   }
+  ],
+  "採用・広告の製品": [
+   {
+    "quote": "KidPass 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/152034-67",
+    "pass": 3
+   },
+   {
+    "quote": "Educational and Training Services (B2C)",
+    "url": "https://pitchbook.com/profiles/company/152034-67",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/152034-67",
+    "pass": 3
+   },
+   {
+    "quote": "15-Apr-2020",
+    "url": "https://pitchbook.com/profiles/company/152034-67",
+    "pass": 3
+   },
+   {
+    "quote": "28-Apr-2017",
+    "url": "https://pitchbook.com/profiles/company/152034-67",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/152034-67",
+    "pass": 3
+   },
+   {
+    "quote": "KidPass’s primary industry is Educational and Training Services (B2C).",
+    "url": "https://pitchbook.com/profiles/company/152034-67",
+    "pass": 3
+   },
+   {
+    "quote": "Is KidPass a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/152034-67",
+    "pass": 3
+   },
+   {
+    "quote": "KidPass is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/152034-67",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/152034-67",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/152034-67",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/152034-67",
+    "pass": 3
+   },
+   {
+    "quote": "Conscious Content Media: HOMER App Maker Chapter 11 - ElevenFlo",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   },
+   {
+    "quote": "Conscious Content Media, Inc., the parent of Begin and the HOMER learning platform,",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   },
+   {
+    "quote": "The cases are jointly administered under the lead Conscious Content Media bankruptcy docket.",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   },
+   {
+    "quote": "executed on December 16, 2025 with noteholders that proposes to",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   },
+   {
+    "quote": "DIP financing approved",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   },
+   {
+    "quote": "20 million downloads across 190 countries",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   },
+   {
+    "quote": "Conscious Content Filed for Chapter 11 Amid $205M Debt Load",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   },
+   {
+    "quote": "Conscious Content Media, Inc.; KidPass, Inc.; CodeSpark, Inc.; Little Passports, Inc.; CCM Merger Sub II, Inc.",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   },
+   {
+    "quote": "Prenegotiated restructuring and financing package",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   },
+   {
+    "quote": "Begin entered chapter 11 with a prenegotiated plan framework. The RSA executed on December 16, 2025 and the",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   },
+   {
+    "quote": "filed on December 23 outline a restructuring designed to eliminate about $106.5 million in funded debt and raise at least $20 million in new Series A preferred equity. The plan also contemplates debt-for-equity conversion and a possible roll-in of up to $10 million from the DIP facility as part of the exit capitalization.",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   },
+   {
+    "quote": "With the plan on file and a confirmation hearing set for February 20, 2026, the debtors are pursuing a compressed timeline for solicitation and confirmation. The RSA was negotiated with noteholders including",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   },
+   {
+    "quote": ", and the restructuring targets debt reduction of more than half while preserving operations across HOMER, codeSpark, KidPass, and Little Passports. The debtors reported about $1.7 million in cash on hand at filing, making the DIP facility central to near-term liquidity.",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   },
+   {
+    "quote": "of Series A preferred equity",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   },
+   {
+    "quote": "The company’s prepetition debt was concentrated in secured convertible notes and bridge financing.",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   },
+   {
+    "quote": "The debtors obtained interim approval for a $10 million DIP facility from [212]MEDIA, LLC. The",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   },
+   {
+    "quote": "Roll-up of prepetition bridge loan",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   },
+   {
+    "quote": "Interim approval (December 19, 2025)",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   },
+   {
+    "quote": "The structure leaves roughly one-third of the facility as new money and rolls the balance of a prepetition bridge loan into DIP priority. Combined with the",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   },
+   {
+    "quote": "served as the primary liquidity source while the debtors pursued plan confirmation.",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   },
+   {
+    "quote": "RSA executed with prepetition noteholders",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   },
+   {
+    "quote": "Omnibus hearing and retention-application hearings",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   },
+   {
+    "quote": "April 1, 2026",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   },
+   {
+    "quote": "Oracle America files objection to cure/assumption provisions",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   },
+   {
+    "quote": "April 3, 2026",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "KidPass 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/152034-67",
+    "pass": 3
+   },
+   {
+    "quote": "7. Merger/Acquisition",
+    "url": "https://pitchbook.com/profiles/company/152034-67",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions (1)",
+    "url": "https://pitchbook.com/profiles/company/152034-67",
+    "pass": 3
+   },
+   {
+    "quote": "KidPass’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/152034-67",
+    "pass": 3
+   },
+   {
+    "quote": "To view KidPass’s complete acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/152034-67",
+    "pass": 3
+   },
+   {
+    "quote": "KidPass has 46 total employees.",
+    "url": "https://pitchbook.com/profiles/company/152034-67",
+    "pass": 3
+   },
+   {
+    "quote": "What is KidPass’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/152034-67",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for KidPass is",
+    "url": "https://pitchbook.com/profiles/company/152034-67",
+    "pass": 3
+   },
+   {
+    "quote": "When was KidPass acquired?",
+    "url": "https://pitchbook.com/profiles/company/152034-67",
+    "pass": 3
+   },
+   {
+    "quote": "KidPass was acquired on 06-Aug-2021.",
+    "url": "https://pitchbook.com/profiles/company/152034-67",
+    "pass": 3
+   },
+   {
+    "quote": "Who acquired KidPass?",
+    "url": "https://pitchbook.com/profiles/company/152034-67",
+    "pass": 3
+   },
+   {
+    "quote": "KidPass was acquired by",
+    "url": "https://pitchbook.com/profiles/company/152034-67",
+    "pass": 3
+   },
+   {
+    "quote": ", expanded through 2021 acquisitions of",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   },
+   {
+    "quote": "filed on December 23 outline a restructuring designed to eliminate about $106.5 million in funded debt and raise at least $20 million in new Series A preferred equity. The plan also contemplates debt-for-equity conversion and a possible roll-in of up to $10 million from the DIP facility as part of the exit capitalization.",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   },
+   {
+    "quote": "The first-lien bridge notes are secured by accounts receivable and inventory, while the mezzanine and secured convertible tranches sit behind the first-lien positions. The unsecured post-closing payments reflect acquisition-related obligations built into the 2021 expansion strategy. The debtors reported assets and liabilities in the",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   },
+   {
+    "quote": "authorized up to $700,000 in prepetition wage and benefit payments. The debtors reported approximately $660,660 in prepetition employee obligations and carried forward benefits programs postpetition.",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   },
+   {
+    "quote": "COVID-era growth and acquisition strategy",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   },
+   {
+    "quote": "130 employees and “tens of millions” in annual revenue",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   },
+   {
+    "quote": "codeSpark acquisition",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   },
+   {
+    "quote": ", and an 80%+ average annual growth rate in the three years before the deal. The platform reported that 54% of its users were girls — the highest share among coding platforms — and was part of Apple's global \"Everyone Can Code\" initiative. The company previously raised",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   },
+   {
+    "quote": "led by Kapor Capital, bringing total pre-acquisition funding to $5.45 million.",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   },
+   {
+    "quote": "Little Passports acquisition",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   },
+   {
+    "quote": "Begin’s restructuring followed a decade of product launches, mergers, and acquisitions that expanded the platform from a reading app into a multi-brand portfolio.",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions of codeSpark, KidPass, and Little Passports",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   },
+   {
+    "quote": "HolonIQ also noted that between 2019 and 2022 there were more than 115 funding rounds above $100 million, but 2024 marked the lowest level of EdTech investment in a decade. That reset reduced the availability of late-stage capital that had fueled acquisition-heavy strategies in the prior cycle.",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   },
+   {
+    "quote": "Conscious Content Media, Inc. is the parent company of Begin, which operates HOMER and acquired brands codeSpark, KidPass, and Little Passports. HOMER focuses on early reading and learning for children under five, while the broader portfolio covers digital learning, coding, activities, and subscription boxes.",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/152034-67",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Mobile app distribution; used by",
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "KidPass - LinkedIn KidPass - LinkedIn LinkedIn https://www.linkedin.com > kidpass",
+    "url": "https://www.linkedin.com/company/kidpass",
+    "pass": 3
+   },
+   {
+    "quote": "Lisa Kathryn Burch - KidPass Teacher at KidPass - LinkedIn Lisa Kathryn Burch - KidPass Teacher at KidPass - LinkedIn LinkedIn https://www.linkedin.com > ...",
+    "url": "https://www.linkedin.com/in/lisa-kathryn-burch-b307642a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "KidPass - Facebook KidPass - Facebook Facebook https://www.facebook.com > ... > Other > Brand > Website",
+    "url": "https://www.facebook.com/kidpass/",
+    "pass": 3
+   },
+   {
+    "quote": "KidPass (@ kidpass ) - Videos | Facebook KidPass (@ kidpass ) - Videos | Facebook Facebook https://www.facebook.com > ... > Website > KidPass",
+    "url": "https://www.facebook.com/kidpass/videos/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.kidpass.com/",
+    "status": "http_500",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://web-japan.org/kidsweb/ja/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://japanforkids.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ampmedia.jp/database/k/kidpass/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kids.nihonsoft.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kitpas.com/overseas-distributors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=1302",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.deex.co.jp/copass/document/100-5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=m9qq9nQP9KI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.facebook.com/kidpass/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/kidpass",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/kidpass/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.trustpilot.com/review/www.kidpass.com",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-case-studies--44452?srsltid=AYCX9vJMGWtX1tVFB4q4EzTn-i_yXiAJSfiEV6H5-rgHWVzxfI9AHI7f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.appliedinnovation.com/about-us/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3ds.com/insights/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ptc.com/en/case-studies?srsltid=AYCX9vKJyGuo6tYDypyT2KHhWSDN8gLLxcGWJbpjU5uatHFtk7ja7pCs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intermedia.com/resellers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mastercard.com/us/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/kidpass/__CBm5zGbDvttxmZ8NEqNHYalsQhljdkM8dQrXfNqEW24",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/152034-67",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/kidpass",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/kidpass",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/lisa-kathryn-burch-b307642a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/kidpass/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/kidpass/videos/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/kidpass/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/kidpass/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Kidpass 日本 導入",
+   "results": [
+    "https://web-japan.org/kidsweb/ja/",
+    "https://japanforkids.jp/home/",
+    "https://ampmedia.jp/database/k/kidpass/",
+    "https://kids.nihonsoft.co.jp/",
+    "https://www.instagram.com/kidsrepublic_jp/embed/",
+    "https://www.kidzania.jp/en/",
+    "https://www.ja-japan.org/",
+    "https://www.youtube.com/shorts/quUuX6eUbKQ",
+    "https://impact.kidpass.it/en/",
+    "https://gendai.media/articles/-/161577"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Kidpass 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.kitpas.com/overseas-distributors",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=1302",
+    "https://www.deex.co.jp/copass/document/100-5",
+    "https://www.youtube.com/watch?v=m9qq9nQP9KI",
+    "https://prtimes.jp/topics/keywords/%E6%97%A5%E6%9C%AC%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "https://www.emmywash.com/pages/4090686/page_202007272304",
+    "https://digivery.jp/app/agency_list.html",
+    "https://www.kidzania.jp/group_info/group/agency.html",
+    "https://fc-kamei.net/CT2",
+    "https://b-seeds.com/column/sole-agency-agreement"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Kidpass Japan",
+   "results": [
+    "https://www.facebook.com/kidpass/",
+    "https://www.ycombinator.com/companies/kidpass",
+    "https://www.instagram.com/kidpass/",
+    "https://www.trustpilot.com/review/www.kidpass.com",
+    "https://techcrunch.com/2017/05/26/kidpass-raises-5-1-million-for-its-childrens-activity-subscription-service/",
+    "https://www.beginlearning.com/",
+    "https://www.crunchbase.com/organization/kidpass",
+    "https://www.prnewswire.com/news-releases/begin-acquires-kidpass-leading-kids-activity-marketplace-301350040.html",
+    "https://boutiquejapan.com/family/",
+    "https://tabinoko.com/getting-around/ic-cards-with-kids-in-japan/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Kidpass manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-case-studies--44452?srsltid=AYCX9vJMGWtX1tVFB4q4EzTn-i_yXiAJSfiEV6H5-rgHWVzxfI9AHI7f",
+    "https://www.appliedinnovation.com/about-us/resources/case-studies/",
+    "https://www.3ds.com/insights/customer-stories",
+    "https://www.ptc.com/en/case-studies?srsltid=AYCX9vKJyGuo6tYDypyT2KHhWSDN8gLLxcGWJbpjU5uatHFtk7ja7pCs",
+    "https://www.kinaxis.com/en/customer-success-stories-case-studies",
+    "https://www.kdimfg.com/projects/case-studies/",
+    "https://www.factbird.com/resources/case-studies",
+    "https://i-techsupport.com/resources/case-studies/?srsltid=AYCX9vKgq1c3CuCoAPiLMd2ojxyJUP2ulsiX648435Rq9xDiaBm5ynuM",
+    "https://manufacturingleadershipcouncil.com/case-study-transforming-through-manufacturing-4-0/",
+    "https://wilder.dev/work/kidpass/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Kidpass white label OR reseller OR partner program",
+   "results": [
+    "https://www.intermedia.com/resellers",
+    "https://www.mastercard.com/us/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.linkedin.com/posts/solomonliou_im-excited-to-announce-that-kidpass-has-activity-6829473072630919168-Fr86",
+    "https://kannect.co/partner/",
+    "https://intandem.vcita.com/blog/partners/different-types-of-white-label-partnerships",
+    "https://www.mycompanyworks.com/reseller",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Kidpass founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/kidpass/__CBm5zGbDvttxmZ8NEqNHYalsQhljdkM8dQrXfNqEW24",
+    "https://pitchbook.com/profiles/company/152034-67",
+    "https://www.crunchbase.com/organization/kidpass",
+    "https://elevenflo.com/blog/conscious-content-media-chapter-11-bankruptcy",
+    "https://www.ycombinator.com/companies/kidpass",
+    "https://www.prnewswire.com/news-releases/kidpass-raises-12-million--launches-new-mobile-app-to-help-parents-book-amazing-activities-for-their-kids-on-the-go-300335490.html",
+    "https://techcrunch.com/2017/05/26/kidpass-raises-5-1-million-for-its-childrens-activity-subscription-service/",
+    "https://marketbrief.edweek.org/financing-investment/k-12-dealmaking-epic-raises-8-million-kidpass-raises-5-1-million/2017/05",
+    "https://www.alleywatch.com/2021/08/kidpass-acquired-begin-homer-kids-activity-marketplace/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com Kidpass",
+   "results": [
+    "https://note.com/bismuth_biscuits/n/nee1d2b0a3637",
+    "https://note.com/a4blue/n/nd685e7c21f14?hl=en",
+    "https://note.com/moonx/n/nf09cf845520d",
+    "https://note.com/money30life/n/nb200c06c7b46",
+    "https://note.com/diparururun/n/n78c1fbc5e52d",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/nice_pony7618/n/ne7ca5e10ec57",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:x.com Kidpass",
+   "results": [
+    "https://x.com/AlbicelesteTalk/status/2009327507452113362",
+    "https://x.com/persib/status/1950920933222572237",
+    "https://x.com/JavelinVP",
+    "https://x.com/chelsa",
+    "https://x.com/LearnWithHOMER",
+    "https://x.com/GatorsFB/status/2116667465073561849",
+    "https://x.com/SamKodi4",
+    "https://x.com/RaiRadioKids",
+    "https://x.com/WinterSportsLaw/status/2109719408868532495",
+    "https://x.com/JohnTrabbic/status/1679907007757979648"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com Kidpass",
+   "results": [
+    "https://www.linkedin.com/company/kidpass",
+    "https://www.linkedin.com/in/solomonliou",
+    "https://uk.linkedin.com/company/kids-pass-ltd",
+    "https://www.linkedin.com/in/lisa-kathryn-burch-b307642a",
+    "https://www.linkedin.com/in/stevenaponte",
+    "https://www.linkedin.com/in/chhay",
+    "https://www.linkedin.com/company/doormates",
+    "https://www.linkedin.com/in/emma-zaccarelli-557583155",
+    "https://www.linkedin.com/in/ninafisher",
+    "https://www.linkedin.com/company/kidpass-tourism"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:facebook.com Kidpass",
+   "results": [
+    "https://www.facebook.com/kidpass/",
+    "https://www.facebook.com/kidpass/videos/",
+    "https://www.facebook.com/groups/1575173606081805/",
+    "https://www.facebook.com/groups/765379423637582/posts/3243141859194647/",
+    "https://www.facebook.com/kidspassuk/?locale=en_GB",
+    "https://www.facebook.com/kidpass/photos/playdate-in-williamsburg-with-kidpass-and-the-little-people-partyphoto-by-shanta/1637043536336891/",
+    "https://www.facebook.com/groups/LondonWithKids/posts/2525515401127134/",
+    "https://www.facebook.com/kidpass.it/",
+    "https://www.facebook.com/groups/1575173606081805/posts/3647690388830106/",
+    "https://www.facebook.com/groups/773969909370397/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Kidpass note 社長",
+   "results": [
+    "https://www.ycombinator.com/companies/kidpass",
+    "https://www.facebook.com/kidpass/",
+    "https://techcrunch.com/2017/05/26/kidpass-raises-5-1-million-for-its-childrens-activity-subscription-service/",
+    "https://www.prnewswire.com/news-releases/kidpass-raises-12-million--launches-new-mobile-app-to-help-parents-book-amazing-activities-for-their-kids-on-the-go-300335490.html",
+    "https://www.trustpilot.com/review/www.kidpass.com",
+    "https://pitchbook.com/profiles/company/152034-67",
+    "https://www.kidsnote.com/en/",
+    "https://note.com/tag/kids",
+    "https://tracxn.com/d/companies/kidpass/__CBm5zGbDvttxmZ8NEqNHYalsQhljdkM8dQrXfNqEW24",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Kidpass X 投稿",
+   "results": [
+    "https://www.facebook.com/kidpass/",
+    "https://www.ycombinator.com/companies/kidpass",
+    "https://www.instagram.com/kidpass/",
+    "https://www.trustpilot.com/review/www.kidpass.com",
+    "https://techcrunch.com/2017/05/26/kidpass-raises-5-1-million-for-its-childrens-activity-subscription-service/",
+    "https://www.youtube.com/watch?v=xSU3m2mZ0eI",
+    "https://www.beginlearning.com/",
+    "https://littlekidbigcity.com/summer-adventure-kidpass/",
+    "https://x.com/kidpass",
+    "https://x.com/kidpass/with_replies"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）"
+ }
+}

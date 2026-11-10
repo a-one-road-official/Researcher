@@ -1,0 +1,1883 @@
+{
+ "name": "Hibob",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial HR / Workforce Management｜未接触",
+ "researched_at": "2026-11-10T15:10:41.439242+00:00",
+ "official_url": "https://www.hibob.com",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "料金モデル",
+    "value": "subscription",
+    "url": "https://saasmap.jp/tools/hibob",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$574M",
+    "url": "https://getlatka.com/companies/hibob.com",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Where workforce data meets business action",
+    "url": "https://www.hibob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Simplify complex HR processes",
+    "url": "https://www.hibob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Smart workflows and approvals",
+    "url": "https://www.hibob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hiring and onboarding",
+    "url": "https://www.hibob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Personalized learning programs",
+    "url": "https://www.hibob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Workforce scenario planning",
+    "url": "https://www.hibob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "As a publicly held company, I need to present HR data every quarter to the compensation committee and the Board. Bob makes it simple, providing all of the data that I need in an easy-to-understand format.",
+    "url": "https://www.hibob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "When you work in a matrix multi-country company, processes get complicated. So you need a tool that will help you. Bob’s Workforce Planning module will allow us to change from a fast hiring company to a more optimized view of growth.",
+    "url": "https://www.hibob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We are a global organization spread over 15 different countries and different time zones, and Bob allows everyone at IDH to tap into what’s happening and connect with each other.",
+    "url": "https://www.hibob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bob is so easy to use, which is important as people’s time is so precious and everybody has so much on their plate, so much that they’re always juggling…it’s information that’s at your fingertips.",
+    "url": "https://www.hibob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn workforce data into clear insights, faster decisions, and action across the tools your teams already use.",
+    "url": "https://www.hibob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce Up to 90% fewer manual approval processes.",
+    "url": "https://www.hibob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "fewer manual approval processes",
+    "url": "https://www.hibob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate onboarding, reviews, and offboarding in one flow",
+    "url": "https://www.hibob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Track engagement, retention, and headcount in real time",
+    "url": "https://www.hibob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Free HR to focus on culture, workforce strategy, and impact",
+    "url": "https://www.hibob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate onboarding with seamless setup and smart access provisioning.",
+    "url": "https://www.hibob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce system sprawl with one platform covering HR needs",
+    "url": "https://www.hibob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Plan workforce costs with clarity, accuracy, and confidence.",
+    "url": "https://www.hibob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect workforce planning to budgeting in real time",
+    "url": "https://www.hibob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Eliminate shadow costs from churn, burnout, and tool sprawl",
+    "url": "https://www.hibob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate with global payroll providers to ensure compliance",
+    "url": "https://www.hibob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Minimize manual reconciliation and improve audit readiness",
+    "url": "https://www.hibob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Make faster, data-backed workforce decisions.",
+    "url": "https://www.hibob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Align hiring, retention, and engagement to business goals",
+    "url": "https://www.hibob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One connected workforce across every manufacturing site",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Give frontline employees access to HR, simplify time and attendance, and give leaders a clearer view of people data across plants, entities, and regions.",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Give HR, Finance, and leaders one consistent view of workforce information",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Company communications, surveys, recognition, and mobile onboarding",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time reporting with trusted workforce data",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Role-based permissions and approval controls",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Build a more resilient workforce",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Surface workforce insights across sites and teams with Bob AI",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "First production site",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Workforce insight across every site",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Give frontline and office-based employees straightforward access to HR, time, and company information.",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve the quality of attendance information and reporting used by payroll and leadership.",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Spot workforce risks earlier",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Loved by users. Proven by experts",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Best advance in practical AI",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Exemplary Provider HCM",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "How does Bob support factory-floor and deskless employees?",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Managers gain real-time visibility into attendance, missing entries, and overtime, while HR can prepare clean, approved attendance data for payroll.",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "timesheets, working patterns, and time-off management. Manufacturers with advanced shift-scheduling or production-staffing requirements should speak with the HiBob team about the appropriate configuration and supported integrations.",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "HR processes,",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "configure permissions and workflows, and maintain consistent reporting while accommodating appropriate local differences.",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Bob automates processes",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "across employee records, onboarding, approvals, time and attendance, performance, and reporting. Employee and manager self-service reduces the spreadsheets, emails, repetitive handoffs, and data corrections HR would otherwise need to manage.",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "How does Bob support retention and workforce development?",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Bob connects onboarding, engagement, performance, learning, skills, and development. HR can identify workforce trends, while managers gain the context they need to support employee growth, internal mobility, and longer-term retention.",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "HR software for professional services firms | HiBob",
+    "url": "https://www.hibob.com/solutions/industries/professional-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Professional services HR software for a clearer view of your workforce",
+    "url": "https://www.hibob.com/solutions/industries/professional-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect workforce data, skills, and people operations across specialist teams, practices, entities, and locations to give leaders a clear view of their workforce.",
+    "url": "https://www.hibob.com/solutions/industries/professional-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading professional services firms worldwide",
+    "url": "https://www.hibob.com/solutions/industries/professional-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn workforce visibility into stronger delivery and business performance",
+    "url": "https://www.hibob.com/solutions/industries/professional-services/",
+    "pass": 1
+   },
+   {
+    "quote": "See your workforce clearly",
+    "url": "https://www.hibob.com/solutions/industries/professional-services/",
+    "pass": 1
+   },
+   {
+    "quote": "One connected view across teams, practices, entities, and locations",
+    "url": "https://www.hibob.com/solutions/industries/professional-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time visibility into your organization, headcount, and workforce costs",
+    "url": "https://www.hibob.com/solutions/industries/professional-services/",
+    "pass": 1
+   },
+   {
+    "quote": "One trusted source of workforce reporting for HR, Finance, and business leaders",
+    "url": "https://www.hibob.com/solutions/industries/professional-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Plan for future workforce capabilities",
+    "url": "https://www.hibob.com/solutions/industries/professional-services/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Source: Nucleus Research ROI Case Study: HiBob & US CRM Vendor",
+    "url": "https://www.hibob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Source: Nucleus Research ROI Case Study: HiBob & Uala",
+    "url": "https://www.hibob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Source: Nucleus Research ROI Case Study: HiBob & Oviva",
+    "url": "https://www.hibob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by users. Recognized by experts.",
+    "url": "https://www.hibob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "HR software for manufacturing companies | HiBob",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "One connected workforce across every manufacturing site",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Give frontline employees access to HR, simplify time and attendance, and give leaders a clearer view of people data across plants, entities, and regions.",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by modern manufacturing teams",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing HR software built around the realities of the factory floor",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect the factory floor with HR",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Across every stage of manufacturing growth",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-site manufacturing",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve the quality of attendance information and reporting used by payroll and leadership.",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "How does Bob support factory-floor and deskless employees?",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "communications, surveys, recognition, performance, and development. This helps manufacturers create a more connected experience across factory-floor, office-based, and distributed teams.",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "timesheets, working patterns, and time-off management. Manufacturers with advanced shift-scheduling or production-staffing requirements should speak with the HiBob team about the appropriate configuration and supported integrations.",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Can Bob support multiple plants, entities, and countries?",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Bob centralizes employee data while supporting different locations, entities, organizational structures, and employee groups. Manufacturers can standardize core",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "How does Bob help manufacturing HR teams reduce manual work?",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Bob helps manufacturers maintain organized employee records, role-based permissions, standardized approval processes, and consistent reporting across sites. These capabilities support stronger HR governance, while each organization remains responsible for its specific legal and regulatory obligations.",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading professional services firms worldwide",
+    "url": "https://www.hibob.com/solutions/industries/professional-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by advertising and marketing businesses worldwide",
+    "url": "https://www.hibob.com/solutions/industries/advertising-marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by technology teams globally",
+    "url": "https://www.hibob.com/solutions/industries/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by technology teams globally",
+    "url": "https://www.hibob.com/solutions/industries/crypto/",
+    "pass": 1
+   },
+   {
+    "quote": "Piab Group is an industrial tech company specializing in vacuum technology. From its headquarters in…",
+    "url": "https://www.hibob.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by finance teams globally",
+    "url": "https://www.hibob.com/solutions/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by global payroll teams",
+    "url": "https://www.hibob.com/solutions/payroll/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by IT teams globally",
+    "url": "https://www.hibob.com/solutions/it/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by fast-growing startups",
+    "url": "https://www.hibob.com/solutions/startups/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by growing small businesses",
+    "url": "https://www.hibob.com/solutions/small-businesses/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by scaling mid-sized businesses worldwide",
+    "url": "https://www.hibob.com/solutions/mid-sized-businesses/",
+    "pass": 1
+   },
+   {
+    "quote": "Piab Group case study: Integrating global HR fast with Bob | HiBob",
+    "url": "https://www.hibob.com/case-studies/piab-group-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Piab Group is an industrial tech company specializing in vacuum technology. From its headquarters in Sweden, Piab Group operates across 21 sites and continues to grow through frequent mergers and acquisitions, averaging around two per year. Each acquisition brings new people, systems, and ways of working, making integration speed and",
+    "url": "https://www.hibob.com/case-studies/piab-group-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Success Stories about Software and Services used by HiBob",
+    "url": "https://www.casestudies.com/customer/hibob",
+    "pass": 3
+   },
+   {
+    "quote": "HiBob - Customer Case Study",
+    "url": "https://www.casestudies.com/customer/hibob",
+    "pass": 3
+   },
+   {
+    "quote": "Apparel Manufacturing",
+    "url": "https://www.casestudies.com/company/hibob",
+    "pass": 3
+   },
+   {
+    "quote": "Defense and Space Manufacturing",
+    "url": "https://www.casestudies.com/company/hibob",
+    "pass": 3
+   },
+   {
+    "quote": "Chili Piper uses Bob to automate HR: saving 20+ hours a month and improving remote onboarding. Read the Chili Piper case study from HiBob.",
+    "url": "https://www.hrisresearch.com/hr-software/hibob/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Fulham F.C. uses Bob to unite its workforce: boosting compliance, learning, and connection. Read the Fulham F.C. case study from HiBob.",
+    "url": "https://www.hrisresearch.com/hr-software/hibob/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Geminor uses Bob to standardize HR across nine countries: improving culture and onboarding. Read the Geminor case study from HiBob.",
+    "url": "https://www.hrisresearch.com/hr-software/hibob/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "As Grind’s hospitality and manufacturing operations continue to grow at pace, their people operations need to keep up. With multiple business units, different&hellip;",
+    "url": "https://www.hrisresearch.com/hr-software/hibob/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "IDH uses Bob to boost engagement: One IDH culture, workforce planning, and safe process testing. Read the IDH case study from HiBob.",
+    "url": "https://www.hrisresearch.com/hr-software/hibob/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Knix uses Bob to build a data-driven culture: improving DE&I reporting, engagement, and employee experience. Read the Knix case study from HiBob.",
+    "url": "https://www.hrisresearch.com/hr-software/hibob/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Numan uses Bob to simplify UK payroll: completing cycles in 2-3 days and freeing HR capacity. Read the Numan case study from HiBob.",
+    "url": "https://www.hrisresearch.com/hr-software/hibob/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Uptick uses Bob to automate UK payroll: reducing errors and payroll time to about one hour a month. Read the Uptick case study from HiBob.",
+    "url": "https://www.hrisresearch.com/hr-software/hibob/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Montu uses Bob to scale 1,400% in 18 months: improving analytics, onboarding, and workforce planning. Read the Montu case study from HiBob.",
+    "url": "https://www.hrisresearch.com/hr-software/hibob/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Ualá uses Bob to support company growth: centralizing HR data, performance, and people analytics. Read the Ualá case study from HiBob.",
+    "url": "https://www.hrisresearch.com/hr-software/hibob/case-studies",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Give employees and managers trusted answers and guided actions without waiting on HR.",
+    "url": "https://www.hibob.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Give frontline employees access to HR, simplify time and attendance, and give leaders a clearer view of people data across plants, entities, and regions.",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Give frontline and office-based employees straightforward access to HR, time, and company information.",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "How does Bob support factory-floor and deskless employees?",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Bob gives employees mobile access to HR information,",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Employees can clock in and out, record and edit their hours, and manage timesheets, including through the",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Support organizational change and acquisitions",
+    "url": "https://www.hibob.com/solutions/industries/professional-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Bob provides context on workforce, headcount, skills, compensation, and costs to inform utilization and margin decisions. Project utilization, Customer billing, revenue recognition, and project profitability are normally managed in specialist PSA, finance, time, or project systems, which can be connected to Bob where supported.",
+    "url": "https://www.hibob.com/solutions/industries/professional-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Can Bob help us understand employees’ skills and industry experience?",
+    "url": "https://www.hibob.com/solutions/industries/advertising-marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "and configurable workflows help leaders assess people needs and carry out approved changes as accounts and priorities evolve.",
+    "url": "https://www.hibob.com/solutions/industries/advertising-marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Can Bob help bring acquired agencies or new brands into the organization?",
+    "url": "https://www.hibob.com/solutions/industries/advertising-marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Bob can centralize employee and organizational data, establish reporting structures, configure permissions, and introduce consistent workflows across new entities and teams. It supports the people and operating-model integration that follows an acquisition, rather than the transaction itself.",
+    "url": "https://www.hibob.com/solutions/industries/advertising-marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Hiring plans aren’t tied to product roadmaps or revenue targets",
+    "url": "https://www.hibob.com/solutions/industries/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "Every hire mapped to product delivery and revenue goals",
+    "url": "https://www.hibob.com/solutions/industries/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "Develop employees towards emerging roles and reduce reliance on external hiring.",
+    "url": "https://www.hibob.com/solutions/industries/technology/",
+    "pass": 1
+   },
+   {
+    "quote": ", gives employees and managers intuitive self-service, and makes workforce information easier to access. This reduces manual administration and helps managers execute people processes more consistently.",
+    "url": "https://www.hibob.com/solutions/industries/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "Bob connects skills visibility with performance, goals, learning, development, and career growth. This helps organizations understand changing capability needs while giving employees clearer opportunities to develop and move internally.",
+    "url": "https://www.hibob.com/solutions/industries/technology/",
+    "pass": 1
+   },
+   {
+    "quote": ", performance, goals, learning, and career development. This gives leaders visibility into capability needs while helping employees and managers identify development, internal mobility, and succession opportunities.",
+    "url": "https://www.hibob.com/solutions/industries/financial-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Give employees and managers clearer, simpler ways to get people work done.",
+    "url": "https://www.hibob.com/solutions/industries/crypto/",
+    "pass": 1
+   },
+   {
+    "quote": "Bob gives you one place for workforce data, organization structures, people processes, and reporting. Employees and managers can use",
+    "url": "https://www.hibob.com/solutions/industries/crypto/",
+    "pass": 1
+   },
+   {
+    "quote": "Run HMRC-compliant payroll, automate tax updates, manage flexible pay cycles, and give employees self-service payslips.",
+    "url": "https://www.hibob.com/solutions/industries/crypto/",
+    "pass": 1
+   },
+   {
+    "quote": "Number of employees *",
+    "url": "https://www.hibob.com/solutions/industries/crypto/",
+    "pass": 1
+   },
+   {
+    "quote": "Run HMRC-compliant payroll, automate tax updates, manage flexible pay cycles, and give employees self-service payslips.",
+    "url": "https://www.hibob.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Number of employees *",
+    "url": "https://www.hibob.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "It starts with your deep expertise, trusted relationships, and understanding of the businesses you serve. Add HiBob’s technology and the reach of our global ecosystem, and we can move those businesses forward while creating new connections, revenue streams, and meaningful growth for our partners.",
+    "url": "https://www.hibob.com/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn Bob expertise into revenue.",
+    "url": "https://www.hibob.com/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Expand your role and create new revenue through certified services.",
+    "url": "https://www.hibob.com/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Give portfolio companies the people infrastructure to move faster, integrate with more clarity, and build enduring value. With Bob, you can support the people decisions that matter from acquisition through exit.",
+    "url": "https://www.hibob.com/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Shape change after acquisition.",
+    "url": "https://www.hibob.com/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "From talent acquisition to",
+    "url": "https://www.hibob.com/solutions/hr/",
+    "pass": 1
+   },
+   {
+    "quote": "Bob connects your performance reviews, goal setting, and development paths into one experience. Instead of growth being a once-a-year conversation, it becomes a continuous part of the employee journey. This gives you the visibility to spot high performers early and build the training programs needed to keep your best people engaged and growing with the business.",
+    "url": "https://www.hibob.com/solutions/hr/",
+    "pass": 1
+   },
+   {
+    "quote": "Run HMRC-compliant payroll, automate tax updates, manage flexible pay cycles, and give employees self-service payslips.",
+    "url": "https://www.hibob.com/solutions/hr/",
+    "pass": 1
+   },
+   {
+    "quote": "Number of employees *",
+    "url": "https://www.hibob.com/solutions/hr/",
+    "pass": 1
+   },
+   {
+    "quote": "Run HMRC-compliant payroll, automate tax updates, manage flexible pay cycles, and give employees self-service payslips.",
+    "url": "https://www.hibob.com/solutions/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "Number of employees *",
+    "url": "https://www.hibob.com/solutions/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "Run HMRC-compliant payroll, automate tax updates, manage flexible pay cycles, and give employees self-service payslips.",
+    "url": "https://www.hibob.com/solutions/payroll/",
+    "pass": 1
+   },
+   {
+    "quote": "Number of employees *",
+    "url": "https://www.hibob.com/solutions/payroll/",
+    "pass": 1
+   },
+   {
+    "quote": "Security is built into every part of Bob, including how AI is designed, governed, and used to protect people data.",
+    "url": "https://www.hibob.com/solutions/it/",
+    "pass": 1
+   },
+   {
+    "quote": "Run HMRC-compliant payroll, automate tax updates, manage flexible pay cycles, and give employees self-service payslips.",
+    "url": "https://www.hibob.com/solutions/it/",
+    "pass": 1
+   },
+   {
+    "quote": "Number of employees *",
+    "url": "https://www.hibob.com/solutions/it/",
+    "pass": 1
+   },
+   {
+    "quote": "Run HMRC-compliant payroll, automate tax updates, manage flexible pay cycles, and give employees self-service payslips.",
+    "url": "https://www.hibob.com/solutions/startups/",
+    "pass": 1
+   },
+   {
+    "quote": "Number of employees *",
+    "url": "https://www.hibob.com/solutions/startups/",
+    "pass": 1
+   },
+   {
+    "quote": "Run HMRC-compliant payroll, automate tax updates, manage flexible pay cycles, and give employees self-service payslips.",
+    "url": "https://www.hibob.com/solutions/small-businesses/",
+    "pass": 1
+   },
+   {
+    "quote": "Number of employees *",
+    "url": "https://www.hibob.com/solutions/small-businesses/",
+    "pass": 1
+   },
+   {
+    "quote": "Support for restructures and acquisitions",
+    "url": "https://www.hibob.com/solutions/mid-sized-businesses/",
+    "pass": 1
+   },
+   {
+    "quote": "Can Bob support us through a restructure or acquisition?",
+    "url": "https://www.hibob.com/solutions/mid-sized-businesses/",
+    "pass": 1
+   },
+   {
+    "quote": "Run HMRC-compliant payroll, automate tax updates, manage flexible pay cycles, and give employees self-service payslips.",
+    "url": "https://www.hibob.com/solutions/mid-sized-businesses/",
+    "pass": 1
+   },
+   {
+    "quote": "Number of employees *",
+    "url": "https://www.hibob.com/solutions/mid-sized-businesses/",
+    "pass": 1
+   },
+   {
+    "quote": "Piab Group is an industrial tech company specializing in vacuum technology. From its headquarters in Sweden, Piab Group operates across 21 sites and continues to grow through frequent mergers and acquisitions, averaging around two per year. Each acquisition brings new people, systems, and ways of working, making integration speed and",
+    "url": "https://www.hibob.com/case-studies/piab-group-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Bob’s speedy implementation not only gave HR new independence and confidence, but it also drove genuine excitement across the organization, which accelerated Bob’s time to value. Managers and employees adapted quickly, appreciating the platform’s clarity, ease of use, and welcoming user experience.",
+    "url": "https://www.hibob.com/case-studies/piab-group-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Without real-time visibility across sites, global leaders struggled to access updated and reliable insights. Now with Bob, all people, processes, and data operate based on a single source of truth, so managers get instant visibility, leaders have access to real-time reports, and employees worldwide experience a platform that’s simple, modern, and easy to love.",
+    "url": "https://www.hibob.com/case-studies/piab-group-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Today, Bob underpins Piab Group’s People & Culture strategy, fostering a culture of exploration, commitment and growth. Employees across regions use one intuitive system to book time off, access documents, and stay connected. Managers gain the data they need to make quick, confident decisions, while HR has shifted from maintenance to momentum—focusing on growth, engagement, and culture.",
+    "url": "https://www.hibob.com/case-studies/piab-group-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Run HMRC-compliant payroll, automate tax updates, manage flexible pay cycles, and give employees self-service payslips.",
+    "url": "https://www.hibob.com/case-studies/piab-group-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Number of employees *",
+    "url": "https://www.hibob.com/case-studies/piab-group-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Expanding the village! We acquired headcount planning and FP&A platform Mosaic.",
+    "url": "https://www.hibob.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Acquired Cassiopia and incorporated Your Voice anonymous reporting tool into Bob.",
+    "url": "https://www.hibob.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We’d love your expertise to boost our best-in-class people platform. But even more we want you to add to our vibe. Smile at your witty remarks. Share your guilty pleasures. See you grow. You really are most welcome. That’s because we know clients will love a company when its employees love it first.",
+    "url": "https://www.hibob.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "VP Revenue Marketing UK",
+    "url": "https://www.hibob.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Run HMRC-compliant payroll, automate tax updates, manage flexible pay cycles, and give employees self-service payslips.",
+    "url": "https://www.hibob.com/pricing-plans/",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing is typically based on the number of employees and the modules you need. This way, you pay for what’s relevant to your business—nothing more.",
+    "url": "https://www.hibob.com/pricing-plans/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "across employee records, onboarding, approvals, time and attendance, performance, and reporting. Employee and manager self-service reduces the spreadsheets, emails, repetitive handoffs, and data corrections HR would otherwise need to manage.",
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": ", route approvals and support onboarding, offboarding, and self-service. This can reduce spreadsheets, email, and repeated hand-offs. Do not make a numbered time or cost claim without customer proof.",
+    "url": "https://www.hibob.com/solutions/industries/crypto/",
+    "pass": 1
+   },
+   {
+    "quote": "To reschedule, go to the confirmation email in your inbox and click on the link.",
+    "url": "https://www.hibob.com/solutions/industries/crypto/",
+    "pass": 1
+   },
+   {
+    "quote": "Until then, check your inbox for an email with the video.",
+    "url": "https://www.hibob.com/solutions/industries/crypto/",
+    "pass": 1
+   },
+   {
+    "quote": "There was an error with your email.",
+    "url": "https://www.hibob.com/solutions/industries/crypto/",
+    "pass": 1
+   },
+   {
+    "quote": "To reschedule, go to the confirmation email in your inbox and click on the link.",
+    "url": "https://www.hibob.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Until then, check your inbox for an email with the video.",
+    "url": "https://www.hibob.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "There was an error with your email.",
+    "url": "https://www.hibob.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "To reschedule, go to the confirmation email in your inbox and click on the link.",
+    "url": "https://www.hibob.com/solutions/hr/",
+    "pass": 1
+   },
+   {
+    "quote": "Until then, check your inbox for an email with the video.",
+    "url": "https://www.hibob.com/solutions/hr/",
+    "pass": 1
+   },
+   {
+    "quote": "There was an error with your email.",
+    "url": "https://www.hibob.com/solutions/hr/",
+    "pass": 1
+   },
+   {
+    "quote": "To reschedule, go to the confirmation email in your inbox and click on the link.",
+    "url": "https://www.hibob.com/solutions/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "Until then, check your inbox for an email with the video.",
+    "url": "https://www.hibob.com/solutions/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "There was an error with your email.",
+    "url": "https://www.hibob.com/solutions/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "To reschedule, go to the confirmation email in your inbox and click on the link.",
+    "url": "https://www.hibob.com/solutions/payroll/",
+    "pass": 1
+   },
+   {
+    "quote": "Until then, check your inbox for an email with the video.",
+    "url": "https://www.hibob.com/solutions/payroll/",
+    "pass": 1
+   },
+   {
+    "quote": "There was an error with your email.",
+    "url": "https://www.hibob.com/solutions/payroll/",
+    "pass": 1
+   },
+   {
+    "quote": "To reschedule, go to the confirmation email in your inbox and click on the link.",
+    "url": "https://www.hibob.com/solutions/it/",
+    "pass": 1
+   },
+   {
+    "quote": "Until then, check your inbox for an email with the video.",
+    "url": "https://www.hibob.com/solutions/it/",
+    "pass": 1
+   },
+   {
+    "quote": "There was an error with your email.",
+    "url": "https://www.hibob.com/solutions/it/",
+    "pass": 1
+   },
+   {
+    "quote": "To reschedule, go to the confirmation email in your inbox and click on the link.",
+    "url": "https://www.hibob.com/solutions/startups/",
+    "pass": 1
+   },
+   {
+    "quote": "Until then, check your inbox for an email with the video.",
+    "url": "https://www.hibob.com/solutions/startups/",
+    "pass": 1
+   },
+   {
+    "quote": "There was an error with your email.",
+    "url": "https://www.hibob.com/solutions/startups/",
+    "pass": 1
+   },
+   {
+    "quote": "To reschedule, go to the confirmation email in your inbox and click on the link.",
+    "url": "https://www.hibob.com/solutions/small-businesses/",
+    "pass": 1
+   },
+   {
+    "quote": "Until then, check your inbox for an email with the video.",
+    "url": "https://www.hibob.com/solutions/small-businesses/",
+    "pass": 1
+   },
+   {
+    "quote": "There was an error with your email.",
+    "url": "https://www.hibob.com/solutions/small-businesses/",
+    "pass": 1
+   },
+   {
+    "quote": "To reschedule, go to the confirmation email in your inbox and click on the link.",
+    "url": "https://www.hibob.com/solutions/mid-sized-businesses/",
+    "pass": 1
+   },
+   {
+    "quote": "Until then, check your inbox for an email with the video.",
+    "url": "https://www.hibob.com/solutions/mid-sized-businesses/",
+    "pass": 1
+   },
+   {
+    "quote": "There was an error with your email.",
+    "url": "https://www.hibob.com/solutions/mid-sized-businesses/",
+    "pass": 1
+   },
+   {
+    "quote": "To reschedule, go to the confirmation email in your inbox and click on the link.",
+    "url": "https://www.hibob.com/case-studies/piab-group-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Until then, check your inbox for an email with the video.",
+    "url": "https://www.hibob.com/case-studies/piab-group-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "There was an error with your email.",
+    "url": "https://www.hibob.com/case-studies/piab-group-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Enter your email to begin your journey.",
+    "url": "https://www.hibob.com/pricing-plans/",
+    "pass": 1
+   },
+   {
+    "quote": "There was an error with your email.",
+    "url": "https://www.hibob.com/pricing-plans/",
+    "pass": 1
+   },
+   {
+    "quote": "Amazon Simple Email Service",
+    "url": "https://fitgap.com/jp/products/hibob",
+    "pass": 3
+   },
+   {
+    "quote": "EMAIL SECURITY APPLIANCES",
+    "url": "https://fitgap.com/jp/products/hibob",
+    "pass": 3
+   },
+   {
+    "quote": "Proofpoint Email Encryption",
+    "url": "https://fitgap.com/jp/products/hibob",
+    "pass": 3
+   },
+   {
+    "quote": "Proofpoint Email Isolation",
+    "url": "https://fitgap.com/jp/products/hibob",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/160783-93",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "HR Software for advertising & marketing agencies | HiBob",
+    "url": "https://www.hibob.com/solutions/industries/advertising-marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Bob supports growing agencies through to",
+    "url": "https://www.hibob.com/solutions/industries/advertising-marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Bob gives organizations visibility into employee skills, experience, performance, learning, and development. Agencies can use configurable employee information to capture relevant details such as languages, sector knowledge, tools, and previous experience.",
+    "url": "https://www.hibob.com/solutions/industries/advertising-marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "How does Bob help agencies retain creative and specialist talent?",
+    "url": "https://www.hibob.com/solutions/industries/advertising-marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Can Bob support multiple agencies, brands, entities, and countries?",
+    "url": "https://www.hibob.com/solutions/industries/advertising-marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Can Bob help bring acquired agencies or new brands into the organization?",
+    "url": "https://www.hibob.com/solutions/industries/advertising-marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Become a Partner | HiBob",
+    "url": "https://www.hibob.com/partner/",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "企業研究vol.29 「HiBob」 ※生成AI作成｜株式会社キャリアロール",
+    "url": "https://note.com/careerrole/n/n816a4c6bb213",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社CareerRoleは誘致型EORという新たなビジネスを通じて、対日投資を加速させるとともに、グローバル人材プラットフォームへと成長することで、日本経済を再生させる起爆剤になります",
+    "url": "https://note.com/careerrole/n/n816a4c6bb213",
+    "pass": 3
+   },
+   {
+    "quote": "HiBob（ハイボブ）とは？料金・機能・日本語対応まとめ | SaaSナビ",
+    "url": "https://saasnavi.net/tools/hibob/",
+    "pass": 3
+   },
+   {
+    "quote": "Q. HiBob（ハイボブ）は日本語に対応していますか？",
+    "url": "https://saasnavi.net/tools/hibob/",
+    "pass": 3
+   },
+   {
+    "quote": "一部日本語に対応していますが、完全ではありません",
+    "url": "https://saasnavi.net/tools/hibob/",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS MAPでは、単に有名かどうかではなく、AI機能、Agent Ready、料金、日本からの使いやすさ、外部連携の観点から導入判断に必要な情報を整理しています",
+    "url": "https://saasmap.jp/tools/hibob",
+    "pass": 3
+   },
+   {
+    "quote": "日本語UI、JCB決済、日本円請求書などの国内対応は導入前に公式情報で確認したい項目です",
+    "url": "https://saasmap.jp/tools/hibob",
+    "pass": 3
+   },
+   {
+    "quote": "日本語UIや日本語ドキュメントは限定的な可能性があります",
+    "url": "https://saasmap.jp/tools/hibob",
+    "pass": 3
+   },
+   {
+    "quote": "日本円請求書や支払い条件は導入前に確認したい",
+    "url": "https://saasmap.jp/tools/hibob",
+    "pass": 3
+   },
+   {
+    "quote": "日本語UIおよびローカルサポートが未提供で、日本市場での導入障壁が高い",
+    "url": "https://saasmap.jp/tools/hibob",
+    "pass": 3
+   },
+   {
+    "quote": "Q. 日本語での利用やサポートは可能ですか？",
+    "url": "https://saasmap.jp/tools/hibob",
+    "pass": 3
+   },
+   {
+    "quote": "現時点では日本語UIおよび日本語ドキュメントは提供されていません",
+    "url": "https://saasmap.jp/tools/hibob",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "企業研究vol.29 「HiBob」 ※生成AI作成｜株式会社キャリアロール — Aug 31, 2024 · 株式会社CareerRoleは誘致型EORという新たなビジネスを通じて、対日投資を加速させるとともに、グローバル人材プラットフォームへと成長することで、日本経済を再生させる起爆剤になります。 今回は、HR企業「HiBob」についてのレポートです！",
+    "url": "https://note.com/careerrole/n/n816a4c6bb213",
+    "pass": 3
+   },
+   {
+    "quote": "HiBob（ハイボブ）とは？料金・機能・日本語対応まとめ | SaaSナビ — HiBob（ハイボブ）は、アメリカ発の人事・HRツールです。 スタートアップ・中堅企業向けのHRIS。 入社オンボーディングから業績評価・報酬管理まで統合し、Slack・Google Workspace連携が充実。 従業員体験を重視した設計が特徴。 基本情報 ... 主な機能",
+    "url": "https://saasnavi.net/tools/hibob/",
+    "pass": 3
+   },
+   {
+    "quote": "HiBob：あらゆるHRISニーズに対応する受賞歴のあるHRシステム — 直感的なインターフェースと包括的な機能により、人事業務の効率化、データに基づいた意思決定、企業文化の醸成を支援します。 HiBobを選ぶことで、従業員のエンゲージメントを高め、ビジネスの成長を加速させることができます。",
+    "url": "https://huntscreens.com/ja/products/hibob",
+    "pass": 3
+   },
+   {
+    "quote": "FitGap | HiBobとは？強み、注意点を専門家がレビュー — HiBobは、HCM（ヒューマン・キャピタル・マネジメント）領域で人材情報や従業員体験を管理するシステムです。13言語に対応した多言語プラットフォームであり、世界中の成長企業で利用されています。操作画面は社内SNSに近い設計となっており、従業員同士 ...",
+    "url": "https://fitgap.com/jp/products/hibob",
+    "pass": 3
+   },
+   {
+    "quote": "HiBob（ハイボブ）の使い方・料金・MCP対応｜人事労務・給与計算・グ... — AI機能と豊富なAPIで人事業務の自動化と意思決定を支援する。 SaaS MAPでは、単に有名かどうかではなく、AI機能、Agent Ready、料金、日本からの使いやすさ、外部連携の観点から導入判断に必要な情報を整理しています。",
+    "url": "https://saasmap.jp/tools/hibob",
+    "pass": 3
+   },
+   {
+    "quote": "About HiBob - Meet the people behind the Bob platform — About HiBob HiBob is the people platform for the modern world of work. Its award-winning solution, Bob, connects HR, payroll, and finance in a single solution, providing organizations with a trusted foundation for managing their people and operations. Building on this foundation of workforce data and trusted people context, HiBob delivers org",
+    "url": "https://www.hibob.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "HiBob（ハイボブ）の使い方・料金・MCP対応｜人事労務・給与計算・グ... — HiBob（ハイボブ） は、人事労務・給与計算・グローバル雇用領域で使われるSaaSです。 HiBobは中堅・成長企業向けのクラウドHRIS（人事情報システム）「Bob」を提供するイスラエル発のSaaS。 入社から退職まで従業員のライフサイクルを一元管理し、ピープルアナリティクス・パフォーマンス管理・給与計算・休暇管理をひとつのプラットフォームに統合。 AI機能と豊富なAPIで人事業務の自動化と意思決定を支援する。 SaaS MAPでは、単に有名かどうかではなく、AI機能、Agent Ready、料金、日本からの使いやすさ、外部連携の観点から導入判断に必要な情報を整理しています。",
+    "url": "https://saasmap.jp/tools/hibob",
+    "pass": 3
+   },
+   {
+    "quote": "All-in-one HR software for people, payroll & finance | HiBob — Ready to transform workforce management? See how HiBob helps organizations move faster, make better decisions, and stay ready for change.",
+    "url": "https://www.hibob.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Global HR software for multi-national teams | HiBob — Standardize HR processes across borders while keeping local policies, workflows, and documentation available to the people who need them. With HiBob’s global HR software, one source of truth replaces the patchwork of regional systems and spreadsheets.",
+    "url": "https://www.hibob.com/use-cases/global-hr/",
+    "pass": 3
+   },
+   {
+    "quote": "HiBob | LinkedIn — Today, thousands of mid-sized and enterprise organizations across more than 170 countries rely on HiBob to build more agile, high-performing cultures.",
+    "url": "https://jp.linkedin.com/company/hibob",
+    "pass": 3
+   },
+   {
+    "quote": "Customer case studies | HiBob — Customer case studies from Formula E, GoCardless, Vidyard and more. See how HR and payroll teams use Bob to automate work and scale.",
+    "url": "https://www.hibob.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How HiBob Uses Software & Services — Explore case studies featuring HiBob as the customer — learn how vendors and partners helped HiBob solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/hibob",
+    "pass": 3
+   },
+   {
+    "quote": "HiBob B2B Case Studies & Customer Successes — See how HiBob solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/hibob",
+    "pass": 3
+   },
+   {
+    "quote": "HiBob Customer Case Studies | HRIS Research — Independent HiBob customer case studies research based on reviewed official product documentation, source-linked evidence, and practical buyer questions.",
+    "url": "https://www.hrisresearch.com/hr-software/hibob/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "HiBob Case Study: Securing AI Adoption with Monitoring — With clear activity monitoring in place, HiBob confidently accelerated AI adoption without compromising security. Teams across legal, product development, customer support, and R&D, previously hesitant due to security concerns, embraced new AI tools more rapidly.",
+    "url": "https://www.sentinelone.com/customers/hibob/",
+    "pass": 3
+   },
+   {
+    "quote": "HiBob Revenue 2024: $121.7M Est., $574M Raised — Oct 30, 2026 · HiBob is a developer of cloud-based Human Capital Management (HCM) software, delivered via a human resources information system (HRIS) platform. It offers benefits administration, payroll, and employee engagement solutions.",
+    "url": "https://getlatka.com/companies/hibob.com",
+    "pass": 3
+   },
+   {
+    "quote": "HiBob 2026 Company Profile: Valuation, Funding & Investors ...hibob – Performance Metrics & Competitor Intelligence – 2026HiBob | Company Overview & News - ForbesHibob: Funding, Investors & Team (Nov 2026) | FundedIQHiBob: Funding, Team & Investors | Startup IntrosHiBob: Employees, Funding, HQ & Competitors | Enrich Layer — Information on valuation, funding, acquisitions, investors, and executives",
+    "url": "https://pitchbook.com/profiles/company/160783-93",
+    "pass": 3
+   },
+   {
+    "quote": "hibob – Performance Metrics & Competitor Intelligence – 2026 — Discover hibob's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/hibob",
+    "pass": 3
+   },
+   {
+    "quote": "HiBob | Company Overview & News - ForbesHibob: Funding, Investors & Team (Nov 2026) | FundedIQHiBob: Funding, Team & Investors | Startup IntrosHiBob: Employees, Funding, HQ & Competitors | Enrich Layer — Sep 3, 2025 · Ronni Zehavi and Israel David cofounded HR platform HiBob in 2015 to be what Zehavi calls the “Instagram of HR tech.” The London and Tel Aviv-based startup sells HR software that hel",
+    "url": "https://www.forbes.com/companies/hibob/",
+    "pass": 3
+   },
+   {
+    "quote": "Hibob: Funding, Investors & Team (Nov 2026) | FundedIQ — Hibob is an Administrative Services company in Tel Aviv, Israel. Raised $536M across 4 rounds; latest round Sep 2026. Investors, founders and funding history.",
+    "url": "https://fundediq.co/hibob-hibob-com-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Which HR software is highly rated for companies with 51–1,000 ... HiBob HRIS is supported for its modern UI and for automating the entire employee lifecycle from onboarding to performance reviews, with many users noting that even non-engineers can use its HR analytics features.",
+    "url": "https://note.com/limber_walrus717/n/nec89fac404db?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "企業研究vol.29 「HiBob」 ※生成AI作成｜株式会社キャリアロール Aug 31, 2024 · 今回は、HR企業「HiBob」についてのレポートです！ ※本レポートは生成AIを用いて作成したため、情報の正確性は保証しかねます。 ご了承ください。 創業期から現在までの売上の推移 HiBobの正確な売上推移データを見つけることができませんでした。",
+    "url": "https://note.com/careerrole/n/n816a4c6bb213",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Which HR software is highly rated for companies with 51–1,000 employees? A look at G2's mid-market reviews.｜shifuuu",
+    "url": "https://note.com/limber_walrus717/n/nec89fac404db?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Which HR software is highly rated for companies with 51–1,000 employees? A look at G2's mid-market reviews.",
+    "url": "https://note.com/limber_walrus717/n/nec89fac404db?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When you are in charge of HR at a rapidly growing company, you are constantly haunted by the fear that you might have to replace your current HR software again in two years. The 51 to 1,000 employee range is a surprisingly difficult zone to judge, as it is a mix of companies that have just graduated from spreadsheet management and those starting to consider heavy, enterprise-grade systems. G2's \"M",
+    "url": "https://note.com/limber_walrus717/n/nec89fac404db?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "First, I would like to make a correction. You may see it introduced as \"Rippling, HiBob, and BambooHR are all top-tier in satisfaction, support, and ease of use,\" but checking the actual G2 data shows this is inaccurate. The top three in satisfaction are Rippling, HiBob HRIS, and HROne, and BambooHR does not appear in this ranking. Moreover, the top performers in \"support quality\" and \"ease of use",
+    "url": "https://note.com/limber_walrus717/n/nec89fac404db?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "First, regarding satisfaction. In G2 data, Rippling (10/10), HiBob HRIS (9.8/10), and HROne (9.7/10) occupy the top spots. Among them, Rippling has 6,617 reviews in the mid-market segment, which is by far the highest among the products mentioned in this article. A large absolute number of reviews also means that it has a track record of being used by many companies over a long period. Rippling is ",
+    "url": "https://note.com/limber_walrus717/n/nec89fac404db?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On the other hand, those that have earned a perfect score (10/10) for \"support quality\" are Native Teams, Worknice, Viventium Software, and Sloneek—a completely different lineup from the satisfaction ranking. However, the number of reviews in the mid-market segment is quite small compared to Rippling and others, with 23, 11, 41, and 25 reviews respectively. They can be described as a group of nich",
+    "url": "https://note.com/limber_walrus717/n/nec89fac404db?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The top performers in \"ease of use\" are also almost the same group: Native Teams, Worknice, Agendrix, and Asanify AI. Agendrix is valued in retail and medical settings spanning multiple locations for its ability to complete shift management, attendance, and internal communication on a single screen, while Asanify AI is supported for the convenience of being able to process attendance and leave req",
+    "url": "https://note.com/limber_walrus717/n/nec89fac404db?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Based on this, there are two main criteria for mid-sized companies when choosing HR software. One is when you want long-term peace of mind, including the \"depth of track record\" represented by the number of reviews, as seen with Rippling, HiBob HRIS, and HROne. The other is when you bet on growing players like Native Teams or Worknice, which have very high ratings for current support quality and e",
+    "url": "https://note.com/limber_walrus717/n/nec89fac404db?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "企業研究vol.29 「HiBob」 ※生成AI作成｜株式会社キャリアロール",
+    "url": "https://note.com/careerrole/n/n816a4c6bb213",
+    "pass": 3
+   },
+   {
+    "quote": "企業研究vol.29 「HiBob」 ※生成AI作成",
+    "url": "https://note.com/careerrole/n/n816a4c6bb213",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社CareerRoleは誘致型EORという新たなビジネスを通じて、対日投資を加速させるとともに、グローバル人材プラットフォームへと成長することで、日本経済を再生させる起爆剤になります。",
+    "url": "https://note.com/careerrole/n/n816a4c6bb213",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、HR企業「HiBob」についてのレポートです！",
+    "url": "https://note.com/careerrole/n/n816a4c6bb213",
+    "pass": 3
+   },
+   {
+    "quote": "※本レポートは生成AIを用いて作成したため、情報の正確性は保証しかねます。ご了承ください。",
+    "url": "https://note.com/careerrole/n/n816a4c6bb213",
+    "pass": 3
+   },
+   {
+    "quote": "HiBobの正確な売上推移データを見つけることができませんでした。非公開企業であるため、詳細な財務情報が公開されていない可能性があります。",
+    "url": "https://note.com/careerrole/n/n816a4c6bb213",
+    "pass": 3
+   },
+   {
+    "quote": "HiBobの正確な営業利益推移データを見つけることができませんでした。非公開企業であるため、詳細な財務情報が公開されていない可能性があります。",
+    "url": "https://note.com/careerrole/n/n816a4c6bb213",
+    "pass": 3
+   },
+   {
+    "quote": "◯創業期から現在までの資金調達及び時価総額の推移",
+    "url": "https://note.com/careerrole/n/n816a4c6bb213",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "@HiBob_HR (@HiBob_HR) / X A major shift is happening in how businesses use AI. Today, we’re taking the next big step toward building it. @salesforce is leading a $166 million investment in HiBob alongside @FarallonCapMgmt. Read our CEO @RonniZehavi 's perspective at the link in the comments.",
+    "url": "https://x.com/Hibob_hr",
+    "pass": 3
+   },
+   {
+    "quote": "Dylan (@Hibob286) / X 2 followers · 11 following. Joined Aug 2026. See the latest conversations with @Hibob286",
+    "url": "https://x.com/Hibob286",
+    "pass": 3
+   },
+   {
+    "quote": "Bloomberg on X: \"Salesforce is investing in HR software ... Salesforce’s backing of HiBob at a valuation above $3.2 billion signals strong confidence in the continued digitisation of HR. The bigger opportunity may be how workforce data, automation and responsible AI come together to improve decisions without losing the human touch. 📈🤝",
+    "url": "https://x.com/business/status/2094779851429323236",
+    "pass": 3
+   },
+   {
+    "quote": "ClausVampire89 (@ClausVampire89) / X FULHAM 26-27 @FulhamFC @premierleague @adidasfootball @ClickHouseDB @HiBob_HR @PesUniverse @UMLmod @PesModding @play_eFootball INCLUDED IN PES 6 PATCH 26-27 @ProjectChimera7 FULL KIT PACK IN THE DRIVE SECTION --> CLUBS season 26-27",
+    "url": "https://x.com/ClausVampire89",
+    "pass": 3
+   },
+   {
+    "quote": "@HiBob | X The latest posts from @HiBob",
+    "url": "https://x.com/HiBob",
+    "pass": 3
+   },
+   {
+    "quote": "@HiBob_HR (@HiBob_HR) / X New pod alert! 🎙️In this episode of HiBob’s People Proud podcast, Kyle Lagunas joins Tali Sachs and Kenneth Matos to challenge reactive AI adoption and unpack how HR leaders can use AI to make people better, not replace them.",
+    "url": "https://x.com/Hibob_hr",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "HiBob - LinkedIn HiBob is the people platform for the modern world of work. Its award-winning solution, Bob, connects HR, payroll, and finance in a single solution, providing organizations with a trusted ...",
+    "url": "https://www.linkedin.com/company/hibob",
+    "pass": 3
+   },
+   {
+    "quote": "HiBob - LinkedIn HiBob | Revolutionizing the work experience for HR professionals, managers and employees, HiBob is used by more than 2,500 multinational companies.",
+    "url": "https://www.linkedin.com/products/hibob/",
+    "pass": 3
+   },
+   {
+    "quote": "HiBob - LinkedIn HiBob is the people platform for the modern world of work. Its award-winning solution, Bob, connects HR, payroll, and finance in a single solution, providing organizations with a trusted...",
+    "url": "https://au.linkedin.com/company/hibob",
+    "pass": 3
+   },
+   {
+    "quote": "David Sussely - HiBob | LinkedInHiBob Case Study | LinkedIn Talent SolutionsToby Hough - HiBob | LinkedInRob Eaton - Global Director Of Growth - at Hibob | LinkedIn Highly experienced finance executive in fast growing and global companies in diverse… · ניסיון: HiBob · מיקום: Israel · 500+ חיבורים על LinkedIn. הצג David Sussely פרופיל... HiBob’s mixed learning strategy needed clearer development pa",
+    "url": "https://il.linkedin.com/in/davidsussely",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.hibob.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hibob.com/solutions/industries/manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hibob.com/solutions/industries/professional-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hibob.com/solutions/industries/advertising-marketing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hibob.com/solutions/industries/technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hibob.com/solutions/industries/financial-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hibob.com/solutions/industries/crypto/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hibob.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hibob.com/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hibob.com/solutions/hr/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hibob.com/solutions/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hibob.com/solutions/payroll/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hibob.com/solutions/it/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hibob.com/solutions/startups/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hibob.com/solutions/small-businesses/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hibob.com/solutions/mid-sized-businesses/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hibob.com/case-studies/piab-group-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hibob.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hibob.com/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hibob.com/pricing-plans/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://new.hibob.com/app/uploads/2026/10/Manufacturing.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://new.hibob.com/app/uploads/2026/08/Multi-site-manufacturing.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://new.hibob.com/app/uploads/2026/08/Global-manufacturing.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://new.hibob.com/app/uploads/2026/08/ThePartnership-W.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/careerrole/n/n816a4c6bb213",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saasnavi.net/tools/hibob/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://huntscreens.com/ja/products/hibob",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fitgap.com/jp/products/hibob",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai2.fromation.co.jp/archives/30533",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saasmap.jp/tools/hibob",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hirobajapan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/hibob",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/hibob",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hrisresearch.com/hr-software/hibob/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/hibob.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/160783-93",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/hibob",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.forbes.com/companies/hibob/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/limber_walrus717/n/nec89fac404db?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/careerrole/n/n816a4c6bb213",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Hibob_hr",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Hibob286",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/business/status/2094779851429323236",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ClausVampire89",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/hibob",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/hibob/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://au.linkedin.com/company/hibob",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://il.linkedin.com/in/davidsussely",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HiBob",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Hibob_hr",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Hibob 日本 導入",
+   "results": [
+    "https://note.com/careerrole/n/n816a4c6bb213",
+    "https://saasnavi.net/tools/hibob/",
+    "https://huntscreens.com/ja/products/hibob",
+    "https://fitgap.com/jp/products/hibob",
+    "https://saasmap.jp/tools/hibob",
+    "https://www.works-i.com/research/labour/column/roundup/detail035.html",
+    "https://carislife.hatenablog.com/entry/20261110/1794304800"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hibob 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.hibob.com/about/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://hibot.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hibob Japan",
+   "results": [
+    "https://saasmap.jp/tools/hibob",
+    "https://www.hibob.com/",
+    "https://www.hibob.com/use-cases/global-hr/",
+    "https://hirobajapan.com/",
+    "https://jp.linkedin.com/company/hibob",
+    "https://saasnavi.net/tools/hibob/",
+    "https://hibot.co.jp/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hibob manufacturing customer case study",
+   "results": [
+    "https://www.hibob.com/case-studies/",
+    "https://www.casestudies.com/customer/hibob",
+    "https://www.casestudies.com/company/hibob",
+    "https://www.hrisresearch.com/hr-software/hibob/case-studies",
+    "https://www.sentinelone.com/customers/hibob/",
+    "https://business.linkedin.com/hire/customer-stories/hibob?mcid=7444396165367783427",
+    "https://www.hibob.com/case-studies/grind-case-study/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hibob white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.nextiva.com/company/partners",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hibob founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/hibob.com",
+    "https://pitchbook.com/profiles/company/160783-93",
+    "https://compworth.com/company/hibob",
+    "https://www.forbes.com/companies/hibob/",
+    "https://fundediq.co/hibob-hibob-com-funding/",
+    "https://startupintros.com/orgs/hibob",
+    "https://enrichlayer.com/company/hibob"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Hibob",
+   "results": [
+    "https://note.com/limber_walrus717/n/nec89fac404db?hl=en",
+    "https://note.com/careerrole/n/n816a4c6bb213",
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/hettyaland/n/ne30f5886d42e?hl=en",
+    "https://note.com/fuwafuwa0705/n/n70acb327dc88?hl=en",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kzstock/n/n8464ba129797"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Hibob",
+   "results": [
+    "https://x.com/Hibob_hr",
+    "https://x.com/Hibob286",
+    "https://x.com/business/status/2094779851429323236",
+    "https://x.com/ClausVampire89",
+    "https://x.com/SH0ULDNTBEHERE/status/2119882975361818891",
+    "https://x.com/tomoyakumagai/status/2119725091953262774",
+    "https://x.com/nyasuuY2K"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Hibob",
+   "results": [
+    "https://www.linkedin.com/company/hibob",
+    "https://www.linkedin.com/products/hibob/",
+    "https://au.linkedin.com/company/hibob",
+    "https://il.linkedin.com/in/davidsussely",
+    "https://business.linkedin.com/hire/customer-stories/hibob",
+    "https://uk.linkedin.com/in/toby-hough-57196226",
+    "https://uk.linkedin.com/in/robeatonuk"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Hibob",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Hibob note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Hibob X 投稿",
+   "results": [
+    "https://x.com/HiBob",
+    "https://x.com/Hibob_hr",
+    "https://www.hibob.com/customer-hub/",
+    "https://developers.hibob.com/",
+    "https://www.xvideos.com/?k=個人撮影投稿素人&p=3",
+    "https://note.com/mgane/n/n1c0d7384c8a0",
+    "https://www.webtanguide.jp/sns/x-marketing-post-ideas/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部32頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部32頁・検索12回）"
+ }
+}

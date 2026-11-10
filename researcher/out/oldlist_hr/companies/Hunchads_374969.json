@@ -1,0 +1,1269 @@
+{
+ "name": "Hunchads",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜リマイン1",
+ "researched_at": "2026-11-10T15:11:25.650896+00:00",
+ "official_url": "https://hunchads.com/",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "Pricing",
+    "value": "Not published; usage-based, no seat limits",
+    "url": "https://www.brandeploy.io/en-hunchads",
+    "pass": 3
+   },
+   {
+    "label": "Pricing",
+    "value": "Usage-based, on request Quote after a demo",
+    "url": "https://www.brandeploy.io/en-hunchads",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$4.3M",
+    "url": "https://getlatka.com/companies/hunchads.com",
+    "pass": 3
+   },
+   {
+    "label": "4. Equity Crowdfunding",
+    "value": "05-Mar-2022    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/172188-64",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "01-Jul-2018 $113K $113K  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/172188-64",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "585,765 $0.000010  $1.15 $1.15 1x $1.15 5.78%",
+    "url": "https://pitchbook.com/profiles/company/172188-64",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Not just running ads, building a partnership",
+    "url": "https://www.hunchads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"With Hunch we're not just running ads. Our partnership proves the power of innovation and teamwork in digital marketing. Their team is always going the extra mile to get the best results for our clients.\"",
+    "url": "https://www.hunchads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pauline Prijs-Van Miert",
+    "url": "https://www.hunchads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Working with Hunch has been an absolute breeze. Their platform is intuitive, their team is responsive, and the results speak for themselves. Our performance with dynamic ads has never been stronger.\"",
+    "url": "https://www.hunchads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Digital Marketing Specialist,",
+    "url": "https://www.hunchads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Growth Marketing Manager,",
+    "url": "https://www.hunchads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Before using Hunch, our creatives felt too generic. Since switching, we've taken our ads to the next level. The platform offers a wide range of possibilities, especially for creative template creation.\"",
+    "url": "https://www.hunchads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Specialist Online Marketing,",
+    "url": "https://www.hunchads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "612% increase in video completion rate",
+    "url": "https://www.hunchads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Working with Hunch was crucial for the success of our campaign. Together we created and implemented a custom feed to show targeted content at specific meal times. Without Hunch, this campaign wouldn't have been possible.\"",
+    "url": "https://www.hunchads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Social Advertising Marketer,",
+    "url": "https://www.hunchads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing Director,",
+    "url": "https://www.hunchads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "47% lower CAC, 700 ads across 110 areas in an instant",
+    "url": "https://www.hunchads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"With Hunch we achieved a 47% lower CAC on Facebook with hyper-localized ads across 110 areas. During an important season, we delivered over 700 ads to over 110 ad sets in an instant.\"",
+    "url": "https://www.hunchads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Programmatic Display & Social, Netprofiler · Amsterdam",
+    "url": "https://www.hunchads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Digital Marketing Consultant, Fingerspitz · Netherlands",
+    "url": "https://www.hunchads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manual creative production",
+    "url": "https://www.hunchads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Catalog Product Video",
+    "url": "https://www.hunchads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Vanilla DPAs look generic and fail to reflect your brand quality. Automatically turn all your SKUs into premium, on-brand creatives with Hunch's AI background removal and intelligent color matching. Identify your top-performing ads with Product Insights and double down on what’s actually driving incremental revenue.",
+    "url": "https://www.hunchads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Dominate with Catalog Product Video",
+    "url": "https://www.hunchads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Catalog Product Video drives 20% more conversions per dollar than static. Hunch generates animated CPVs directly from your feed: intro, dynamic product pull, lifestyle background, outro. Fully automated, refreshed on schedule.",
+    "url": "https://www.hunchads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "WeRoad, 3-week Meta A/B test vs static catalog ads",
+    "url": "https://www.hunchads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Launch 2K+ localized ads in under 30 minutes",
+    "url": "https://www.hunchads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Build hyper-localized campaigns with local pricing, maps, language, and offers from a single control center, published straight to Meta, Snapchat and Tik Tok. A day of manual setup becomes minutes, for every region you run, in every market you operate.",
+    "url": "https://www.hunchads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-driven product sets",
+    "url": "https://www.hunchads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tom Tailor scaled creative production for 38k products with a 2-person team",
+    "url": "https://www.hunchads.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Porter Airlines went from static to dynamic ads and achieved 28% more conversions",
+    "url": "https://www.hunchads.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "38k products, 2-person team",
+    "url": "https://www.hunchads.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "AI-powered product images",
+    "url": "https://www.hunchads.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Over 4000 unique videos ads created",
+    "url": "https://www.hunchads.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Adwise achieved 612% increase in video completion rate for SPAR’s “Effe Sparren” campaign with Hunch",
+    "url": "https://www.hunchads.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Porter Airlines went from static to dynamic ads and achieved 28% more conversions",
+    "url": "https://www.hunchads.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Tom Tailor scaled creative production for 38k products with a 2-person team",
+    "url": "https://www.hunchads.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "WeRoad extends its catalog creative to video and cuts cost per add-to-cart 10%",
+    "url": "https://www.hunchads.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Traffic Builders helped CNV in recruiting members and raising brand awareness with automated on-brand creatives",
+    "url": "https://www.hunchads.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Gorillas reduced launch times from days to hours while delivering over 5000 ads daily",
+    "url": "https://www.hunchads.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "WeRoad cut cost per add-to-cart 10% with catalog product video",
+    "url": "https://www.hunchads.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How ManpowerGroup scaled real-time recruitment marketing",
+    "url": "https://www.hunchads.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Bicycle delivered locally flavored ads that cut CPO by 22% for Papa Johns",
+    "url": "https://www.hunchads.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Netprofiler helped 10DAYS run on-brand DPA campaigns with 60% higher ROAS",
+    "url": "https://www.hunchads.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing Director at Tribal Agency",
+    "url": "https://www.hunchads.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "With Hunch we’re not just running ads. Our partnership proves the power of innovation and teamwork in digital marketing.",
+    "url": "https://www.hunchads.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Digital Marketing Consultant at Fingerspitz",
+    "url": "https://www.hunchads.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Hunch automated our creative process, reducing the response time from 3 days to the same day.",
+    "url": "https://www.hunchads.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Hunch has saved us time and allowed us to create visually appealing catalog-based ads on Facebook and Instagram.",
+    "url": "https://www.hunchads.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "With Hunch we achieved a 47% lower CAC on Facebook with hyper-localized ads across 110 areas.",
+    "url": "https://www.hunchads.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Breaking away from BAU and creating highly personalized ads at scale",
+    "url": "https://www.hunchads.com/customers/open-partners-boosted-pub-bookings",
+    "pass": 1
+   },
+   {
+    "quote": "Open Partners teamed up with Hunch to try a fresh, innovative approach to increase pub bookings and get more people through the doors of Greene King pubs during the Euros. Greene King is the country’s leading pub retailer and brewer with over 1600 pubs, restaurants and hotels across England, Wales, and Scotland during the Euros.",
+    "url": "https://www.hunchads.com/customers/open-partners-boosted-pub-bookings",
+    "pass": 1
+   },
+   {
+    "quote": "The main goal was to heavily increase pub bookings and footfall at Greene King's pubs by using a more personalized and relevant advertising approach, rather than BAU ads. On the flip side, the main challenge was figuring out how to easily create and handle thousands of unique, tailored ads to support each individual pub.",
+    "url": "https://www.hunchads.com/customers/open-partners-boosted-pub-bookings",
+    "pass": 1
+   },
+   {
+    "quote": "Automated workflow for effortlessly updating catalog and running Local Inventory Ads",
+    "url": "https://www.hunchads.com/customers/open-partners-boosted-pub-bookings",
+    "pass": 1
+   },
+   {
+    "quote": "The strategy was focused on using Hunch’s solutions to tap into location data and real-time sports schedules, making it easy to create super relevant and localized ads on Meta.",
+    "url": "https://www.hunchads.com/customers/open-partners-boosted-pub-bookings",
+    "pass": 1
+   },
+   {
+    "quote": "To make things fully automated, we set up a workflow where Open Partners just had to enter the countries playing and the match date. Then, with a catalog sync, this info showed up in a creative promoting the game and highlighting the nearest Greene King pub.",
+    "url": "https://www.hunchads.com/customers/open-partners-boosted-pub-bookings",
+    "pass": 1
+   },
+   {
+    "quote": "“This allowed us to deliver ads showcasing local pubs tailored to each person's location as well as showing their closest pubs in a carousel format.” - Rosie Atkinson, Paid Social Partner at Open Partners.",
+    "url": "https://www.hunchads.com/customers/open-partners-boosted-pub-bookings",
+    "pass": 1
+   },
+   {
+    "quote": "This approach used accurate location data to deliver super personalized and actionable ads. By pulling in real-time API data, we made sure users saw the most relevant sports matches at their closest Greene King pub, making the ads even more spot-on.",
+    "url": "https://www.hunchads.com/customers/open-partners-boosted-pub-bookings",
+    "pass": 1
+   },
+   {
+    "quote": "Local Inventory Ads in a nutshell",
+    "url": "https://www.hunchads.com/customers/open-partners-boosted-pub-bookings",
+    "pass": 1
+   },
+   {
+    "quote": "For the campaign, we used Local Inventory Ads, which are designed to help businesses showcase their in-store products to local customers searching online. In our case, the \"store\" was a pub, and the \"product\" was a sports fixture.",
+    "url": "https://www.hunchads.com/customers/open-partners-boosted-pub-bookings",
+    "pass": 1
+   },
+   {
+    "quote": "The Hunch campaign outperformed BAU from both an incremental bookings and footfall perspective. This suggests that local relevancy & personalization at scale drives stronger results than brand led ads.",
+    "url": "https://www.hunchads.com/customers/open-partners-boosted-pub-bookings",
+    "pass": 1
+   },
+   {
+    "quote": "\"Thanks to our partnership with Hunch we were able to leverage innovative location data and real-time sports feeds via Meta ads, resulting in a highly effective campaign that drove significant business outcomes.\"",
+    "url": "https://www.hunchads.com/customers/open-partners-boosted-pub-bookings",
+    "pass": 1
+   },
+   {
+    "quote": "Attract more online shoppers with enhanced product offers. Leverage AI to deliver on-brand product-led creatives at scale.",
+    "url": "https://www.hunchads.com/industries/ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Delivering creative and media excellence to industry leading marketing teams",
+    "url": "https://www.hunchads.com/industries/ecommerce",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Vanilla DPAs look generic and fail to reflect your brand quality. Automatically turn all your SKUs into premium, on-brand creatives with Hunch's AI background removal and intelligent color matching. Identify your top-performing ads with Product Insights and double down on what’s actually driving incremental revenue.",
+    "url": "https://www.hunchads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover why the most innovative global brands and agencies trust us as their partner",
+    "url": "https://www.hunchads.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Hunch for Agencies: Sell Feed Creatives as Your Own Service",
+    "url": "https://www.hunchads.com/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Brands buy Hunch once. Agencies run it across every client and sell what it makes under their own name. Once client one is set up, client two takes a fraction of the work.",
+    "url": "https://www.hunchads.com/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Walk into pitches with what other agencies can't show",
+    "url": "https://www.hunchads.com/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies on what changed for their clients.",
+    "url": "https://www.hunchads.com/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies running client work on Hunch. Measured in builds, hours and client results",
+    "url": "https://www.hunchads.com/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Learn why global brands and agencies trust us.",
+    "url": "https://www.hunchads.com/case-studies/g-adventures-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Hunch is a creative performance platform that helps mid and upper-market brands and agencies working with such brands to scale efficiently on paid social using automation and AI.",
+    "url": "https://getlatka.com/companies/hunchads.com",
+    "pass": 3
+   },
+   {
+    "quote": "Hunch is trusted by brands and agencies worldwide to overcome the challenges of Paid Social advertising. If you’re looking to elevate your brand’s creative and performance marketing game, Hunch is just the right tool for you.",
+    "url": "https://www.gritt.io/company/hunch-ads/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "By bridging creative, media, and insights, Hunch helps paid social teams drive revenue uplifts with AI-powered execution. Fight ad fatigue across Meta, Snap, and TikTok.",
+    "url": "https://www.hunchads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "💎 Grow incremental revenue with SKU level Insights",
+    "url": "https://www.hunchads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Vanilla DPAs look generic and fail to reflect your brand quality. Automatically turn all your SKUs into premium, on-brand creatives with Hunch's AI background removal and intelligent color matching. Identify your top-performing ads with Product Insights and double down on what’s actually driving incremental revenue.",
+    "url": "https://www.hunchads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn product insights into incremental revenue",
+    "url": "https://www.hunchads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Most product sets miss your best converters and high-margin SKUs. Hunch Smart Sets pull them straight from your GA4 and conversion data, feeding Meta the products that actually drive revenue. Refreshed weekly, automatically.",
+    "url": "https://www.hunchads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How Carwow drove a 10x monthly revenue for \"Get Your Car\" with automation",
+    "url": "https://www.hunchads.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Adwise achieved 612% increase in video completion rate for SPAR’s “Effe Sparren” campaign with Hunch",
+    "url": "https://www.hunchads.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Generated Euros in revenue",
+    "url": "https://www.hunchads.com/industries/ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Genero optimizes online customer acquisition through localization.",
+    "url": "https://www.hunchads.com/industries/grocery",
+    "pass": 1
+   },
+   {
+    "quote": "Book 30 minutes with our agency team and get a walkthrough of how partnering with Hunch helps you streamline cross-channel production and distribution for more revenue. You can expect:",
+    "url": "https://www.hunchads.com/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Book a 30min call with a growth rep for a Hunch walkthrough on producing and delivering highly-contextual creative for increased revenue. You can expect:",
+    "url": "https://www.hunchads.com/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Driving revenue uplifts for hundreds of high-performing marketing teams such as",
+    "url": "https://www.hunchads.com/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Switching platforms can be stressful, especially if your workflow is already tangled. That's why we dedicate a part of our service to making your migration smooth and easy. Our team handles the heavy lifting, including transferring campaigns, templates, and catalogs, to ensure a seamless transition. We aim to minimize the burden on your team while maximizing the benefits of our platform.",
+    "url": "https://www.hunchads.com/service",
+    "pass": 1
+   },
+   {
+    "quote": "“We partnered with Hunch to kickstart dynamic creative optimization for our Meta ads, and the results have been phenomenal. Thanks to their expertise, we've seen a 25% decrease in our Cost Per Acquisition, which has made a significant impact on our campaign performance.” - Sean Martin, Senior Digital & Performance Marketing Manager.",
+    "url": "https://www.hunchads.com/customers/gym-group-hyper-localized-campaign",
+    "pass": 1
+   },
+   {
+    "quote": "Dynamic localization is now a permanent part of Papa Johns’ Meta strategy. The team is expanding the approach by testing new layouts, calls to action, imagery, and additional dynamic elements.",
+    "url": "https://www.hunchads.com/customers/how-bicycle-delivered-local-ads-for-papa-johns",
+    "pass": 1
+   },
+   {
+    "quote": "They successfully utilized Hunch for their client – Lucardi, an omnichannel jewelry retail chain active mostly on Facebook and Instagram, as well as in-store. While focusing on brand awareness, their main performance goal was to improve and increase their online revenue through all channels.",
+    "url": "https://www.hunchads.com/case-studies/adwise-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Generating more than 5M euros revenue",
+    "url": "https://www.hunchads.com/customers/vitapur-success-story",
+    "pass": 1
+   },
+   {
+    "quote": "AI removes product backgrounds and matches colors. Smart Sets build product sets from GA4 and conversion data and refresh them weekly, so ads promote what actually sells. Product Insights shows revenue by SKU.",
+    "url": "https://www.brandeploy.io/en-hunchads",
+    "pass": 3
+   },
+   {
+    "quote": "Hunch Revenue 2025: $8.6M Est., $4.3M Raised",
+    "url": "https://getlatka.com/companies/hunchads.com",
+    "pass": 3
+   },
+   {
+    "quote": "Hunch has not published its revenue. GetLatka estimates it at about $8.6M a year (July 2025).",
+    "url": "https://getlatka.com/companies/hunchads.com",
+    "pass": 3
+   },
+   {
+    "quote": "Hunch CEO, founders & employees",
+    "url": "https://getlatka.com/companies/hunchads.com",
+    "pass": 3
+   },
+   {
+    "quote": "Sinisa Rakovic founded Hunch in 2017 and runs it as CEO. Hunch has 78 employees (July 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/hunchads.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Hunch's revenue?",
+    "url": "https://getlatka.com/companies/hunchads.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Hunch's revenue at about",
+    "url": "https://getlatka.com/companies/hunchads.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Hunch have?",
+    "url": "https://getlatka.com/companies/hunchads.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of July 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/hunchads.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/hunchads.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/hunchads.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/hunchads.com",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/172188-64",
+    "pass": 3
+   },
+   {
+    "quote": "Hunch has 68 total employees.",
+    "url": "https://pitchbook.com/profiles/company/172188-64",
+    "pass": 3
+   },
+   {
+    "quote": "What is Hunch’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/172188-64",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Hunch is",
+    "url": "https://pitchbook.com/profiles/company/172188-64",
+    "pass": 3
+   },
+   {
+    "quote": "👥 62 employees",
+    "url": "https://www.gritt.io/company/hunch-ads/",
+    "pass": 3
+   },
+   {
+    "quote": "The Hunch platform automates creative production and media management to deliver industry-leading excellence to performance marketing teams, driving revenue uplifts faster.",
+    "url": "https://www.gritt.io/company/hunch-ads/",
+    "pass": 3
+   },
+   {
+    "quote": "As a Meta Business Partner, we work with top global brand and performance marketing teams to improve operational efficiency, revenue generation, and time-to-market.",
+    "url": "https://www.gritt.io/company/hunch-ads/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Adwise & Lucardi Case Study",
+    "url": "https://www.hunchads.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "G Adventures Case Study",
+    "url": "https://www.hunchads.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Genero & Ruokaboksi Case Study",
+    "url": "https://www.hunchads.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Dynamic ads",
+    "url": "https://www.hunchads.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Enhanced DPAs for Automotive",
+    "url": "https://www.hunchads.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "With Hunch Automated ads, Bavaria automotive was able to easily create and manage large-scale localized campaigns.",
+    "url": "https://www.hunchads.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "As impressions shifted toward areas with real store coverage, budget waste decreased, and overall efficiency improved. Franchise operators also gained better visibility into how campaigns performed in their territories.",
+    "url": "https://www.hunchads.com/customers/how-bicycle-delivered-local-ads-for-papa-johns",
+    "pass": 1
+   },
+   {
+    "quote": "Adwise & Lucardi Case Study",
+    "url": "https://www.hunchads.com/case-studies/adwise-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Get inspired with the amazing Adwise case study.",
+    "url": "https://www.hunchads.com/case-studies/adwise-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "G Adventures Case Study: Success with Hunch",
+    "url": "https://www.hunchads.com/case-studies/g-adventures-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "G Adventures Case Study",
+    "url": "https://www.hunchads.com/case-studies/g-adventures-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Take a look at the best resonating ad examples in the travel industry in the case study.",
+    "url": "https://www.hunchads.com/case-studies/g-adventures-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Genero & Ruokaboksi Case Study",
+    "url": "https://www.hunchads.com/case-studies/g-adventures-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Localization Case Study",
+    "url": "https://www.hunchads.com/case-studies/g-adventures-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Genero & Ruokaboksi Case Study: Hunch Localization",
+    "url": "https://www.hunchads.com/case-studies/genero-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Genero & Ruokaboksi Case Study",
+    "url": "https://www.hunchads.com/case-studies/genero-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Vitapur is a home living goods retailer and the largest mattress manufacturer in Slovenia and the region.",
+    "url": "https://www.hunchads.com/customers/vitapur-success-story",
+    "pass": 1
+   },
+   {
+    "quote": "Web pioneer since 1995, founder of the recipe site 750g.com (sold to Webedia), now industrialising SEO and GEO content production with AI.",
+    "url": "https://www.brandeploy.io/en-hunchads",
+    "pass": 3
+   },
+   {
+    "quote": "Hunch is trusted by brands and agencies worldwide to overcome the challenges of Paid Social advertising. If you’re looking to elevate your brand’s creative and performance marketing game, Hunch is just the right tool for you.",
+    "url": "https://www.gritt.io/company/hunch-ads/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "GET EMAILS YOU ACTUALLY LOOK FORWARD TO",
+    "url": "https://www.hunchads.com/blog-categories/updates",
+    "pass": 1
+   },
+   {
+    "quote": "The registrar of hunchads.com is GODADDY.COM, LLC and the name expires on 2027-09-14. Owner email is not available. Their country of residence is United States of America.",
+    "url": "https://website.informer.com/hunchads.com",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/172188-64",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Hunch solutions - hunchads.com — Unlock growth opportunities with Hunch’s solutions for your business. Learn how to scale effectively.",
+    "url": "https://www.hunchads.com/solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Hunch - LinkedIn 日本 — ウェブサイト https://www.hunchads.com Hunchの外部リンク 業種 ソフトウェア開発 会社規模 社員 51 - 200名 本社 New York、New York 種類 非上場企業 創立 2017 専門分野",
+    "url": "https://jp.linkedin.com/company/hunch-ads",
+    "pass": 3
+   },
+   {
+    "quote": "Hunch Reviews | Read Customer Service Reviews of hunchads.comHunch Ads - mrrfirst.comHUNCHhunchads.com at WI. Hunch | Creative Performance PlatformHome | Hunch Help Center — Hunch (hunchads.com) is a creative automation platform for e-commerce advertising teams. We don't operate any dating service and have no consumer subscriptions. We've flagged this for Trustpilot to move it to the right place. ",
+    "url": "https://www.trustpilot.com/review/hunchads.com",
+    "pass": 3
+   },
+   {
+    "quote": "Hunch solutions - hunchads.com — Engage users to visit your online store with Hunch's category video templates. Automatically produce hundreds of video ads of daily offers. Increase bookings from customers in targeted countries with online offers and deals. Promote your offers and deals to targeted countries and see real results.",
+    "url": "https://www.hunchads.com/solutions",
+    "pass": 3
+   },
+   {
+    "quote": "hunchads.com at WI. Hunch | Creative Performance Platform — Hunch automates DPAs, Catalog Product Video and localized ads across Meta, Snap and TikTok.",
+    "url": "https://website.informer.com/hunchads.com",
+    "pass": 3
+   },
+   {
+    "quote": "Hunch Ads - mrrfirst.com — Hunch is a creative performance platform for paid social. It automates DPAs, Catalog Product Video, and localized ads. Hunch serves paid social advertisers that want to build, launch, and learn faster.",
+    "url": "https://www.mrrfirst.com/marketing/hunchads-com/",
+    "pass": 3
+   },
+   {
+    "quote": "HunchAds: features and limits for performance ads - Brandeploy — May 9, 2025 · HunchAds is a specialized platform for creative automation and optimization of paid advertising campaigns. It focuses on social networks like Meta and TikTok, enabling performance marketers to produce thousands of ad variations at scale using data-driven templates to maximize return on ad spend.",
+    "url": "https://www.brandeploy.io/en-hunchads",
+    "pass": 3
+   },
+   {
+    "quote": "User.com - hunchads.com Case Story — The Hunch team very much value support they receive from User.com Customer Success specialists. Our agents are available through multiple channels and are always ready to help find the best solution, fix problems or suggest alternative possibilities.",
+    "url": "https://testusere.user.com/case-stories/hunchads",
+    "pass": 3
+   },
+   {
+    "quote": "Customers - hunchads.com — With Hunch we achieved a 47% lower CAC on Facebook with hyper-localized ads across 110 areas. Read the success stories of top global brands & agencies that use Hunch. Experience their personalized journeys & see why they trust us.",
+    "url": "https://www.hunchads.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Hunch 2026 Company Profile: Valuation, Funding & Investors ...Hunch - 2026 Company Profile, Team, Funding & Competitors ...Hunch — investors & funding | gritt.ioHunch — Company Profile & Funding | Indexed.vcHunch - Overview, News & Similar companies | ZoomInfo.comHunch - Crunchbase Company Profile & Funding — Information on valuation, funding, cap tables, investors, and executives for Hunch. Use t",
+    "url": "https://pitchbook.com/profiles/company/172188-64",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "AdvertiseSocialsNewsletter (@AdvertiseSocia1) / Posts / X The Complete Guide to Paid Social: Trends & Predictions for 2024 www.hunchads.com 💬0 🔄0 🤍0 0 📎 🔁Reposted by AdvertiseSocialsNewsletter Hootsuite 🦉 hootsuite Jul 28 hootsuite",
+    "url": "https://x.com/AdvertiseSocia1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Hunch - LinkedIn Website https://www.hunchads.com Industry Software Development Company size 51-200 employees Headquarters New York, New York",
+    "url": "https://www.linkedin.com/company/hunch-ads",
+    "pass": 3
+   },
+   {
+    "quote": "Hunch on LinkedIn: Grocery Industry - Hunch Reach customers with hyper-customized real-time content hunchads.com 6,266 followers",
+    "url": "https://www.linkedin.com/posts/hunch-ads_reach-customers-with-hyper-customized-real-time-activity-7037371184421732352-Gph0",
+    "pass": 3
+   },
+   {
+    "quote": "Hunch on LinkedIn: eCommerce - Hunch Attract shoppers with personalized customer journeys hunchads.com 1 5,806 followers",
+    "url": "https://www.linkedin.com/posts/hunch-ads_ecommerce-hunch-activity-7037366389220765696-crru",
+    "pass": 3
+   },
+   {
+    "quote": "Hunch on LinkedIn: 17 killer Dynamic Creative examples: Get ... 17 killer Dynamic Creative examples blog.hunchads.com 3 Marketing @ Hunch | Meta Business Partner Head of Sales @Hunch - Helping Advertisers to reach the next level on Paid Social Edited 5,798...",
+    "url": "https://www.linkedin.com/posts/hunch-ads_17-killer-dynamic-creative-examples-activity-6985958269684957186-71LU",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Hunch Ads - Facebook Hunch Ads - Facebook ... Hunch Ads",
+    "url": "https://www.facebook.com/Hunch-Ads-557442424112937/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.hunchads.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hunchads.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hunchads.com/customers/open-partners-boosted-pub-bookings",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hunchads.com/industries/ecommerce",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hunchads.com/industries/retail",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hunchads.com/industries/travel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hunchads.com/industries/grocery",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hunchads.com/industries/automotive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hunchads.com/industries/betting-and-gaming",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hunchads.com/agency",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hunchads.com/service",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hunchads.com/blog-categories/updates",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hunchads.com/customers/in-digital-kiwi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hunchads.com/customers/maatwerkonline-customer-story",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hunchads.com/customers/gym-group-hyper-localized-campaign",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hunchads.com/customers/how-bicycle-delivered-local-ads-for-papa-johns",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hunchads.com/case-studies/adwise-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hunchads.com/case-studies/g-adventures-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hunchads.com/case-studies/genero-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hunchads.com/customers/vitapur-success-story",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/63626572911255b010ebbd02/6728e1029e81fe071859c80a_success-story-cover-openpartners-overlay.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/63626572911255b010ebbd02/6728e1964b6255b7fbbd1f04_6728e1610e38ce7c2c38da40_success-story-examples-open-partners.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.hunchads.com/customers/open-partners-boosted-pub-bookings",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/63626572911255b010ebbd02/66a393519116e8cc859f5da1_logos.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.hunchads.com/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/hunch-ads",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.itmedia.co.jp/business/articles/2610/08/news016.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hunchads.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trustpilot.com/review/hunchads.com",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.hunchads.com/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://website.informer.com/hunchads.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hunchads.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.brandeploy.io/en-hunchads",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://testusere.user.com/case-stories/hunchads",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hunchads.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/hunchads.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/172188-64",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/hunch/__0QWUcK4Kj24_DgCBT1hlwTiPx-IrM_Yk5MvtuBF92f0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.gritt.io/company/hunch-ads/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/AdvertiseSocia1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/hunch-ads",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/hunch-ads_reach-customers-with-hyper-customized-real-time-activity-7037371184421732352-Gph0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/hunch-ads_ecommerce-hunch-activity-7037366389220765696-crru",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/hunch-ads_17-killer-dynamic-creative-examples-activity-6985958269684957186-71LU",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Hunch-Ads-557442424112937/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Hunchads 日本 導入",
+   "results": [
+    "https://www.hunchads.com/solutions",
+    "https://jp.linkedin.com/company/hunch-ads",
+    "https://www.itmedia.co.jp/business/articles/2610/08/news016.html",
+    "https://www.hunchads.com/",
+    "https://36kr.jp/502580/",
+    "https://prtimes.jp/main/html/rd/p/000000013.000160762.html",
+    "https://monoist.itmedia.co.jp/mn/articles/2610/29/news032.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hunchads 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://houjin-data.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hunchads Japan",
+   "results": [
+    "https://www.trustpilot.com/review/hunchads.com",
+    "https://www.hunchads.com/solutions",
+    "https://website.informer.com/hunchads.com",
+    "https://www.hunchads.com/",
+    "https://www.mrrfirst.com/marketing/hunchads-com/",
+    "https://hunch.jp/collections/hunch",
+    "https://help.hunchads.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hunchads manufacturing customer case study",
+   "results": [
+    "https://www.brandeploy.io/en-hunchads",
+    "https://testusere.user.com/case-stories/hunchads",
+    "https://www.casestudies.com/",
+    "https://www.hunchads.com/customers",
+    "https://www.linkedin.com/posts/kees-punt-05929b2a_to-all-performance-marketeers-are-you-struggling-activity-7388863704940826626-2qo3",
+    "https://www.hunchads.com/",
+    "https://help.hunchads.com/en/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hunchads white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.youtube.com/creators/earn/youtube-partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hunchads founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/hunchads.com",
+    "https://pitchbook.com/profiles/company/172188-64",
+    "https://tracxn.com/d/companies/hunch/__0QWUcK4Kj24_DgCBT1hlwTiPx-IrM_Yk5MvtuBF92f0",
+    "https://www.gritt.io/company/hunch-ads/",
+    "https://indexed.vc/companies/hunch",
+    "https://www.crunchbase.com/organization/hunch-2",
+    "https://www.zoominfo.com/c/hunch/463948217"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Hunchads",
+   "results": [
+    "https://note.com/enhack_fumi/n/n3c590ab9fd5f",
+    "https://note.com/chochiononote/n/na9676af932b9?hl=en",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/good_tapir4150/n/n545c5c69f7e2",
+    "https://note.com/bokuwalily/n/nba3e9b6d60f1?hl=en",
+    "https://note.com/inokun/n/n7efa91c9eeb2",
+    "https://note.com/godel/n/n219ff14f4820"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Hunchads",
+   "results": [
+    "https://jf.x.com/images/media-preview/2095828865230979258",
+    "https://about.x.com/en",
+    "https://x.com/AdvertiseSocia1",
+    "https://help.x.com/en",
+    "https://x.com/tradeonhunch",
+    "https://help.x.com/zh-cn/managing-your-account",
+    "https://business.x.com/en/advertising"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Hunchads",
+   "results": [
+    "https://www.linkedin.com/company/hunch-ads",
+    "https://www.linkedin.com/posts/hunch-ads_reach-customers-with-hyper-customized-real-time-activity-7037371184421732352-Gph0",
+    "https://www.linkedin.com/posts/hunch-ads_ecommerce-hunch-activity-7037366389220765696-crru",
+    "https://www.linkedin.com/posts/hunch-ads_17-killer-dynamic-creative-examples-activity-6985958269684957186-71LU",
+    "https://www.linkedin.com/products/hunch-ads-hunch/",
+    "https://www.linkedin.com/posts/hunch-ads_discover-the-new-meta-experience-whats-activity-7097879584464867329-a0RJ",
+    "https://www.linkedin.com/posts/hunch-ads_running-just-one-dpa-per-ad-set-is-holding-activity-7394360931776090113-F3o4"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Hunchads",
+   "results": [
+    "https://www.facebook.com/Hunch-Ads-557442424112937/",
+    "https://secure.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/hunchads/",
+    "https://developers.facebook.com/documentation/ads-commerce/catalog/",
+    "https://www.facebook.com/cheyeandco/videos/quick-video-for-you-guys-to-talk-about-what-is-working-in-my-clients-accounts-ri/623461181956828/",
+    "https://www.facebook.com/HunchInsights/videos/there-are-far-better-ways-to-capture-your-shoppers-attention-heres-how-to-unlock/6572907472737359/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hunchads note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.com/poliplus/n/n8595b9b8ccd4",
+    "https://note.com/hop_adhd",
+    "https://www.hunchads.com/about-us",
+    "https://x.com/shacho_kensoumu",
+    "https://getlatka.com/companies/hunchads.com",
+    "https://www.s-faction.com/wp/blog/2026/11/10/ﾁｴｦｻｽﾞｶﾙ･･/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hunchads X 投稿",
+   "results": [
+    "https://www.instagram.com/hunch.ads/",
+    "https://linktr.ee/hunchads",
+    "https://www.hunchads.com/guest-post-guidelines",
+    "https://www.hunchads.com/about-us",
+    "https://www.youtube.com/@hunch543",
+    "https://www.hunchads.com/",
+    "https://x.com/Hinaka_no_tubu/status/2119746676810506652"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部30頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部30頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部30頁・検索12回）"
+ }
+}

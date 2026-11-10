@@ -1,0 +1,1584 @@
+{
+ "name": "Intelligems",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-10T14:49:22.836703+00:00",
+ "official_url": "https://www.intelligems.io",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "・料金",
+    "value": "月額$79〜（価格テストは$499〜）",
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313",
+    "pass": 3
+   },
+   {
+    "label": "・料金",
+    "value": "月額$149〜",
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313",
+    "pass": 3
+   },
+   {
+    "label": "・料金",
+    "value": "月額$59〜",
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313",
+    "pass": 3
+   },
+   {
+    "label": "・Pricing",
+    "value": "From $79/month (price testing from $499/month)",
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313?hl=en",
+    "pass": 3
+   },
+   {
+    "label": "・Pricing",
+    "value": "From $149/month",
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313?hl=en",
+    "pass": 3
+   },
+   {
+    "label": "・Pricing",
+    "value": "From $59/month",
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313?hl=en",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$110,000",
+    "url": "https://prospeo.io/c/intelligems-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$13,257,200",
+    "url": "https://prospeo.io/c/intelligems-revenue",
+    "pass": 3
+   },
+   {
+    "label": "Total raised",
+    "value": "$15.8M",
+    "url": "https://getlatka.com/companies/intelligems.io",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Brooklyn, New York, United States",
+    "url": "https://prospeo.io/c/intelligems-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "A/B Test Prices & Offers for Ecommerce | Intelligems",
+    "url": "https://www.intelligems.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Test pricing, offers, content, and more, powered by AI that brings your data into every decision.",
+    "url": "https://www.intelligems.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve 100% of the on-site journey",
+    "url": "https://www.intelligems.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Drive higher AOV with discounts, progress bars, and gifts",
+    "url": "https://www.intelligems.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Find the price that maximizes profit per visitor",
+    "url": "https://www.intelligems.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn shipping into a profit lever",
+    "url": "https://www.intelligems.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI surfaces high-impact experiment ideas based on your data, so you can prioritize the changes most likely to move the business.",
+    "url": "https://www.intelligems.io/",
+    "pass": 1
+   },
+   {
+    "quote": "// In-House Engineering: full programmatic control",
+    "url": "https://www.intelligems.io/",
+    "pass": 1
+   },
+   {
+    "quote": "\"pricing-q4-test\"",
+    "url": "https://www.intelligems.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Type your content change and it's done. Every AI-generated mod is on-brand, inspectable, editable, and re-promptable in the Visual Builder.",
+    "url": "https://www.intelligems.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Install the Intelligems Shopify app. Make content, price, or shipping edits. Launch the experience.",
+    "url": "https://www.intelligems.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Launch tests across pricing, shipping, and site content in <15 minutes. AI Recommendations tell you what to test next.",
+    "url": "https://www.intelligems.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Product Recommendations",
+    "url": "https://www.intelligems.io/",
+    "pass": 1
+   },
+   {
+    "quote": "We empower brands to enhance their profitability and customer engagement.",
+    "url": "https://www.intelligems.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Product Recommendations",
+    "url": "https://www.intelligems.io/company/partnerships/partner-directory",
+    "pass": 1
+   },
+   {
+    "quote": "Utilize our comprehensive suite of tools. Book a call with our team.",
+    "url": "https://www.intelligems.io/company/partnerships/partner-directory",
+    "pass": 1
+   },
+   {
+    "quote": "Intelligems builds the AI agents that turn your traffic into profit.",
+    "url": "https://www.intelligems.io/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Every day, your storefront makes thousands of decisions — what to show, what to offer, how to price for each visitor — and most of them happen by default. We build the data and the agents that make those decisions for you, automatically, so your site gets smarter with every visitor instead of sitting static.",
+    "url": "https://www.intelligems.io/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "At Intelligems, we've always been drawn to the moment of transaction since it such an incredibly data-rich event. All of the considerations around the customers' intent, their willingness to pay, the effectiveness of the seller get compressed into this single decision of whether to convert. It's the best place for sellers to learn how to up their game, which is what Intelligems helps them do.",
+    "url": "https://www.intelligems.io/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Five years in, AI agents gave that system superpowers. The marginal cost of a good decision is approaching zero — always on, within brand guidelines, no rate limit. The storefront is becoming an active, self-improving system instead of a static page. The future we set out to build is here.",
+    "url": "https://www.intelligems.io/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Product Marketing Manager",
+    "url": "https://www.intelligems.io/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Manager of Onboarding",
+    "url": "https://www.intelligems.io/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "At the core of everything we do are our guiding principles. From innovation and integrity to collaboration and customer-centricity, our values drive us to deliver exceptional experiences and results.",
+    "url": "https://www.intelligems.io/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Whether it's a request from a customer, a teammate, or a partner, we will do our best to be prompt and generous in our support.",
+    "url": "https://www.intelligems.io/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Combined, our team knows more about what actually turns traffic into profit than anyone else in the world.",
+    "url": "https://www.intelligems.io/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Our product's excellence is a result of our",
+    "url": "https://www.intelligems.io/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Product Recommendations",
+    "url": "https://www.intelligems.io/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Our product's excellence is a result of our exceptional team and unwavering values.",
+    "url": "https://www.intelligems.io/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We are a customer-first, product-oriented company and believe that our success will be driven by the caliber of people we have on our team. Our mission is to help e-commerce entrepreneurs be more successful. You can find our entire mission statement and values below.",
+    "url": "https://www.intelligems.io/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Product Recommendations",
+    "url": "https://www.intelligems.io/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing & Plans | Intelligems",
+    "url": "https://www.intelligems.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing built around your",
+    "url": "https://www.intelligems.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Maximize profit per visitor",
+    "url": "https://www.intelligems.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Turn shipping into a profit lever",
+    "url": "https://www.intelligems.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Live guided onboarding",
+    "url": "https://www.intelligems.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "White glove onboarding & price integration",
+    "url": "https://www.intelligems.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Show every visitor the content that converts",
+    "url": "https://www.intelligems.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Test landing pages, themes, and on-site content to find what converts. Personalize every page for the right audience. Earn more from every visitor.",
+    "url": "https://www.intelligems.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We optimize for profit.",
+    "url": "https://www.intelligems.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "4.8 stars from profit obsessed brands.",
+    "url": "https://www.intelligems.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Over time, we've run dozens of impactful tests ranging from pricing optimizations to showing conditional site creative based on audience segmentation. The admin portal is easy to use and access, and the support team is super responsive via Slack.",
+    "url": "https://www.intelligems.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Intelligems does not only have a product that is worth every penny, but their culture is also amazing.",
+    "url": "https://www.intelligems.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "From pricing strategies to content optimization, the insights we've gained are invaluable. For any brand serious about growth and optimization, Intelligems is a must-have tool.",
+    "url": "https://www.intelligems.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "I am blown away by the analytics and level of detail you can access on profit, revenue, etc. Great app that every brand should be using to make more profit.",
+    "url": "https://www.intelligems.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The best price testing app on the market.",
+    "url": "https://www.intelligems.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Price testing is so tricky to implement and get right, but Intelligems makes the process easy and seamless.",
+    "url": "https://www.intelligems.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Super hands on support (onboarding, troubleshooting, and even strategy). The tool is easy to use, easy to understand the results, and I always know the Intelligems team will be there to help us out if needed.",
+    "url": "https://www.intelligems.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Intelligems is a powerful tool for running pricing and offer experiments that go beyond traditional A/B testing.",
+    "url": "https://www.intelligems.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "It allows you to test real price changes, discounts, and shipping strategies while measuring impact on revenue, AOV, and profit. Highly recommended for brands focused on growth and profitability.",
+    "url": "https://www.intelligems.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Extremely user-friendly and extensible platform for testing across digital product.",
+    "url": "https://www.intelligems.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Very pleased with the ease of implementation, especially in a portfolio of brands. Excellent platform for improving digital product and CRO efforts.",
+    "url": "https://www.intelligems.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Our team manages it all: testing roadmap, implementation, building tests, reporting, and optimizing your entire funnel. You approve or modify our plan.",
+    "url": "https://www.intelligems.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How does Intelligems pricing work?",
+    "url": "https://www.intelligems.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": ": discounts, gifts with purchase, quantity breaks, progress bars, cart and product page upsells.",
+    "url": "https://www.intelligems.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": ": product prices, subscription prices, compare-at prices, multi-currency pricing.",
+    "url": "https://www.intelligems.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Price Testing for Shopify | Intelligems",
+    "url": "https://www.intelligems.io/pricing-product",
+    "pass": 1
+   },
+   {
+    "quote": "Find the price that maximizes profit per visitor",
+    "url": "https://www.intelligems.io/pricing-product",
+    "pass": 1
+   },
+   {
+    "quote": "Test and personalize product prices, subscription tiers, and multi-currency pricing across every audience. Find the prices that earn the most profit per visitor, then scale what works.",
+    "url": "https://www.intelligems.io/pricing-product",
+    "pass": 1
+   },
+   {
+    "quote": "THREE WAYS PRICING WORKS FOR YOU",
+    "url": "https://www.intelligems.io/pricing-product",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing tests and personalizations cover every revenue surface in your store. Test and personalize product prices, subscription tiers, and multi-currency pricing on the same platform.",
+    "url": "https://www.intelligems.io/pricing-product",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Test analytics, sitewide performance, AI analytics chat, and direct connections to Snowflake and your data warehouse.",
+    "url": "https://www.intelligems.io/",
+    "pass": 1
+   },
+   {
+    "quote": ": Being able to make decisions based on Profit per Visitor, not just CVR, is fresh and practical for Japanese EC operators",
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For operators running a Shopify store with monthly sales of 1 million yen or more and at least several thousand sessions of traffic per month. It is smooth to start with the Core plan ($79/month) for content and offer testing, and then move on to price and shipping testing with the Plus plan once results are seen.",
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Jaxxon drives seven-figure profit gains with Intelligems | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/intelligems/case-study/jaxxon-drives-7-figure-gross-profit-gains-with-intelligems",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Jaxxon drives seven-figure profit gains with Intelligems",
+    "url": "https://www.casestudies.com/company/intelligems/case-study/jaxxon-drives-7-figure-gross-profit-gains-with-intelligems",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/intelligems/case-study/jaxxon-drives-7-figure-gross-profit-gains-with-intelligems",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/intelligems/case-study/jaxxon-drives-7-figure-gross-profit-gains-with-intelligems",
+    "pass": 3
+   },
+   {
+    "quote": "Apparel Manufacturing",
+    "url": "https://www.casestudies.com/company/intelligems",
+    "pass": 3
+   },
+   {
+    "quote": "Sporting Goods Manufacturing",
+    "url": "https://www.casestudies.com/company/intelligems",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/intelligems/case-studies",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Ask a question and get an answer about your test results, sitewide performance, revenue trends and more. Anyone on your team can get answers instantly.",
+    "url": "https://www.intelligems.io/",
+    "pass": 1
+   },
+   {
+    "quote": ", { revenue });",
+    "url": "https://www.intelligems.io/",
+    "pass": 1
+   },
+   {
+    "quote": "I am blown away by the analytics and level of detail you can access on profit, revenue, etc. Great app that every brand should be using to make more profit.",
+    "url": "https://www.intelligems.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "It allows you to test real price changes, discounts, and shipping strategies while measuring impact on revenue, AOV, and profit. Highly recommended for brands focused on growth and profitability.",
+    "url": "https://www.intelligems.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "need Shopify Plus, and shipping rate tests need Shopify Advanced or Plus (Shopify's carrier rate API). Price tests, content tests, merchandising offers, and post-purchase upsells work on any Shopify plan. Intelligems is built for Shopify and doesn't run on other platforms.",
+    "url": "https://www.intelligems.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Price testing needs a one-time integration our team builds for your store, and one test rarely tells the whole story. So Smart Pricing (Limited and Unlimited) and the Unlimited plan carry a 3-month minimum. All other modules are month-to-month.",
+    "url": "https://www.intelligems.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing tests and personalizations cover every revenue surface in your store. Test and personalize product prices, subscription tiers, and multi-currency pricing on the same platform.",
+    "url": "https://www.intelligems.io/pricing-product",
+    "pass": 1
+   },
+   {
+    "quote": "Making the announcement bar stand out lifted conversion and revenue per visitor.",
+    "url": "https://www.intelligems.io/resources/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How a pet health brand grew revenue per visitor by 65% by swapping its pitch",
+    "url": "https://www.intelligems.io/resources/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How an Electronics Brand Turned Payment Icons Into a 28% Revenue Lift",
+    "url": "https://www.intelligems.io/resources/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Showing accepted payment methods on the product page lifted revenue per visitor",
+    "url": "https://www.intelligems.io/resources/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How Organics Ocean Nearly Doubled Subscriptions Without Losing Revenue",
+    "url": "https://www.intelligems.io/resources/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "A subscription-first product page built a much larger recurring base without costing total revenue.",
+    "url": "https://www.intelligems.io/resources/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How this beauty brand turned one PDP callout into a 4% revenue lift",
+    "url": "https://www.intelligems.io/resources/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How The Beyond Group helped MUD\\WTR grow their revenue per session by 13% with Intelligems",
+    "url": "https://www.intelligems.io/resources/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How Beards & Daisies increased revenue per visitor by 10% with Intelligems",
+    "url": "https://www.intelligems.io/resources/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Fulton went from zero experimentation to optimizing every aspect of their ecomm site — and exploded conversions, profits, and revenue across the board.",
+    "url": "https://www.intelligems.io/resources/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How this sports equipment brand boosted revenue per visitor by 12% by increasing their free shipping threshold",
+    "url": "https://www.intelligems.io/resources/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How this brand boosted both conversion rate and revenue per visitor by 2X by replacing their discount with lower prices",
+    "url": "https://www.intelligems.io/resources/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How this CPG brand boosted revenue by 3% by testing their shipping threshold",
+    "url": "https://www.intelligems.io/resources/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "This brand offered free shipping, and found that testing paid shipping under a threshold helped them improve AOV, units per order, and monthly revenue.",
+    "url": "https://www.intelligems.io/resources/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Stay connected and be part of our community by following us on social media! Get the latest updates, tips, and news about Intelligems.",
+    "url": "https://www.intelligems.io/company/get-in-touch",
+    "pass": 1
+   },
+   {
+    "quote": "Measuring profit, not just revenue, proved the lower price actually made more money, even with a bigger discount given",
+    "url": "https://www.intelligems.io/resources/customer-stories/home-goods-price-cut-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Intelligems lets you A/B test real prices and discount messaging on your Shopify store, with COGS built in so you see the profit impact, not just revenue, without any coding.",
+    "url": "https://www.intelligems.io/resources/customer-stories/home-goods-price-cut-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "A beauty & personal care brand added a callout block directly under the product title and price on their PDP, calling out a sitewide discount and free shipping. That one change lifted revenue per visitor 4% and conversion 3%, across 50,000+ orders.",
+    "url": "https://www.intelligems.io/resources/customer-stories/beauty-brand-pdp-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue per visitor climbed 4.1%, with 99.99% confidence. Conversion rate followed the same pattern, up 3.3% with full statistical confidence. Shoppers were converting at a higher rate once the deal was visible upfront, on the page, next to the product itself.",
+    "url": "https://www.intelligems.io/resources/customer-stories/beauty-brand-pdp-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Net revenue / visitor",
+    "url": "https://www.intelligems.io/resources/customer-stories/beauty-brand-pdp-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The brand let their sale speak for itself on the PDP. Shoppers didn’t have to dig through the cart or checkout to find their savings because the deal sat right next to Add to Bag. That upfront clarity moved shoppers further down the funnel and translated directly into revenue.",
+    "url": "https://www.intelligems.io/resources/customer-stories/beauty-brand-pdp-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Beards & Daisies achieves 10% higher revenue per visitor with Intelligems",
+    "url": "https://www.casestudies.com/company/intelligems",
+    "pass": 3
+   },
+   {
+    "quote": "Beards & Daisies increases revenue per visitor with Intelligems",
+    "url": "https://www.casestudies.com/company/intelligems",
+    "pass": 3
+   },
+   {
+    "quote": "How this CPG brand boosted revenue by 3% by testing their shipping threshold",
+    "url": "https://www.casestudies.com/company/intelligems",
+    "pass": 3
+   },
+   {
+    "quote": "a large sports equipment brand boosts revenue per visitor by 12% with Intelligems",
+    "url": "https://www.casestudies.com/company/intelligems",
+    "pass": 3
+   },
+   {
+    "quote": "Large Travel Brand Company achieves 2X conversion and 125% higher revenue per visitor with Intelligems",
+    "url": "https://www.casestudies.com/company/intelligems",
+    "pass": 3
+   },
+   {
+    "quote": "LOZURI achieves a 40% lift in revenue per visitor with Intelligems",
+    "url": "https://www.casestudies.com/company/intelligems",
+    "pass": 3
+   },
+   {
+    "quote": "Momofuku achieves 13% revenue growth with Intelligems",
+    "url": "https://www.casestudies.com/company/intelligems",
+    "pass": 3
+   },
+   {
+    "quote": "Momofuku de-risks site migration and boosts revenue with Intelligems",
+    "url": "https://www.casestudies.com/company/intelligems",
+    "pass": 3
+   },
+   {
+    "quote": "Pet Health Brand boosts revenue per visitor by 65% with Intelligems",
+    "url": "https://www.casestudies.com/company/intelligems",
+    "pass": 3
+   },
+   {
+    "quote": "Scale Media increases revenue per visitor by 94% with Intelligems",
+    "url": "https://www.casestudies.com/company/intelligems",
+    "pass": 3
+   },
+   {
+    "quote": "The Beyond Group boosts MUD\\WTR revenue per session with Intelligems",
+    "url": "https://www.casestudies.com/company/intelligems",
+    "pass": 3
+   },
+   {
+    "quote": "The Beyond Group helps MUD\\WTR grow revenue per session by 13% with Intelligems",
+    "url": "https://www.casestudies.com/company/intelligems",
+    "pass": 3
+   },
+   {
+    "quote": "AB Tasty is the fastest-growing provider of AI-powered experimentation & personalization, helping businesses drive more conversions and revenue on all their digital assets. Turn website visitors into customers, subscribers or …",
+    "url": "https://www.featuredcustomers.com/vendor/intelligems/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/intelligems/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Intelligems Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/intelligems-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Intelligems",
+    "url": "https://prospeo.io/c/intelligems-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/intelligems-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/intelligems-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/intelligems-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Intelligems?",
+    "url": "https://prospeo.io/c/intelligems-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Intelligems generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/intelligems-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/intelligems-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/intelligems-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Intelligems have?",
+    "url": "https://prospeo.io/c/intelligems-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/intelligems-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Intelligems Revenue 2025: $5.9M Est., $15.8M Raised",
+    "url": "https://getlatka.com/companies/intelligems.io",
+    "pass": 3
+   },
+   {
+    "quote": "Intelligems has not published its revenue. GetLatka estimates it at about $5.9M a year (July 2025).",
+    "url": "https://getlatka.com/companies/intelligems.io",
+    "pass": 3
+   },
+   {
+    "quote": "Intelligems CEO & employees",
+    "url": "https://getlatka.com/companies/intelligems.io",
+    "pass": 3
+   },
+   {
+    "quote": "Drew Marconi is CEO of Intelligems. Intelligems has 54 employees (July 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/intelligems.io",
+    "pass": 3
+   },
+   {
+    "quote": "What is Intelligems' revenue?",
+    "url": "https://getlatka.com/companies/intelligems.io",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Intelligems' revenue at about",
+    "url": "https://getlatka.com/companies/intelligems.io",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Intelligems have?",
+    "url": "https://getlatka.com/companies/intelligems.io",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Explore our extensive list of Intelligems partners, where you can find a diverse range of expert agencies ready to cater to your specific needs.",
+    "url": "https://www.intelligems.io/company/partnerships/partner-directory",
+    "pass": 1
+   },
+   {
+    "quote": "Apply to become a partner today.",
+    "url": "https://www.intelligems.io/company/partnerships/partner-directory",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Agency Partnerships",
+    "url": "https://www.intelligems.io/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We offer multi-brand discounts and bulk licensing for agency partners. Let's talk through what your portfolio needs.",
+    "url": "https://www.intelligems.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "AGENCY PARTNER PROGRAM",
+    "url": "https://www.intelligems.io/company/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Intelligems Partner Program",
+    "url": "https://www.intelligems.io/company/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Apply to Become a Partner",
+    "url": "https://www.intelligems.io/company/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Already an Intelligems agency partner and know a merchant that would benefit from Intelligems? We’d love to speak with them!",
+    "url": "https://www.intelligems.io/company/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Need an agency partner?",
+    "url": "https://www.intelligems.io/company/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Let us connect you to best-in-class agencies and solutions for your ecommerce store.",
+    "url": "https://www.intelligems.io/company/partnerships",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Via Slack & email, anytime you need it.",
+    "url": "https://www.intelligems.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": ", unlimited users and visitors, and Slack and email support.",
+    "url": "https://www.intelligems.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": ": English communication via email/Slack is required",
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/intelligems/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/intelligems/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/intelligems-revenue",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "：CVRだけでなくProfit per Visitorで意思決定できるのは、日本のEC事業者にとって新鮮かつ実用的",
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313",
+    "pass": 3
+   },
+   {
+    "quote": "：ストアのデフォルト通貨が日本円なら問題なし",
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313",
+    "pass": 3
+   },
+   {
+    "quote": "日本のShopifyストア運営者にとって、Intelligemsの魅力は「価格と送料のA/Bテスト」という、他のツールではなかなかできないことが手軽にできる点です",
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313",
+    "pass": 3
+   },
+   {
+    "quote": "Intelligems インテリジェムスとは ネット通販の価格テストのAI｜使い方・料金・日本語対応",
+    "url": "https://eeai.tv/tools/intelligems",
+    "pass": 3
+   },
+   {
+    "quote": "Intelligemsの日本語対応は確認できていません",
+    "url": "https://eeai.tv/tools/intelligems",
+    "pass": 3
+   },
+   {
+    "quote": "・Almost no explanatory articles exist in Japanese",
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For Japanese EC Marketers",
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": Being able to make decisions based on Profit per Visitor, not just CVR, is fresh and practical for Japanese EC operators",
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Yen price testing",
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": No problem if the store's default currency is Japanese Yen. Multi-currency (non-default currency) testing is for Blue plan and above",
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【Intelligems】Shopifyストアの「値付け」と「送料」をA/Bテストで最... — Jul 14, 2026 · ECマーケマニアの石井オトヤです。 今日はECマーケマニア初のShopifyアプリカテゴリとして、ニューヨーク発のプロフィット最適化プラットフォームIntelligems（インテリジェムズ）をご紹介します。",
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313",
+    "pass": 3
+   },
+   {
+    "quote": "A/B Test Prices & Offers for Ecommerce | Intelligems — Intelligems builds the AI agents that turn traffic into profit — testing and personalizing pricing, content, and offers so your store decides smarter for every visitor.",
+    "url": "https://www.intelligems.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Intelligems利用状況統計：ウェブサイト・企業・国別 - StackScan — Intelligems は 6,740+ のウェブサイトで使われています。 国別の分布、Intelligems を使う主要なウェブサイトと企業を確認し、完全なリストをダウンロードできます。",
+    "url": "https://www.stackscan.com/ja/technology/intelligems",
+    "pass": 3
+   },
+   {
+    "quote": "Intelligems インテリジェムスとは ネット通販の価格テストのAI｜使い... — Intelligemsとは Shopifyで作った通販サイト向けに、価格や送料、ページの見せ方を来た人ごとに出し分け、どれが一番もうかるかを比べられるツールです。",
+    "url": "https://eeai.tv/tools/intelligems",
+    "pass": 3
+   },
+   {
+    "quote": "Login - app.intelligems.io — Intelligems A/B Price Testing Application Sign in Don't have an account? Download Intelligems now!",
+    "url": "https://app.intelligems.io/shipping",
+    "pass": 3
+   },
+   {
+    "quote": "Intelligems - LinkedIn — Intelligems | 3,885 followers on LinkedIn. A/B test prices, discounts, content, and more to make profitable decisions faster. Stop guessing.",
+    "url": "https://www.linkedin.com/company/intelligems-io",
+    "pass": 3
+   },
+   {
+    "quote": "[Intelligems] Optimizing Shopify store \"pricing\" and ... — Jul 15, 2026 · Review: For Japanese Shopify store operators, the appeal of Intelligems is that it easily allows \"A/B testing of prices and shipping,\" which is difficult to do with other tools. Now that Google Optimize is gone, a tool that can perform such deep testing natively on Shopify is valuable.",
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A/B Test Prices & Offers for Ecommerce | Intelligems — Test pricing, offers, content, and more, powered by AI that brings your data into every decision. Test and personalize every visitor from the moment they land to after they buy. When will it arrive? AI, targeting, analytics, and a visual builder are included on every plan.",
+    "url": "https://www.intelligems.io/",
+    "pass": 3
+   },
+   {
+    "quote": "About Us - Company | Intelligems — Our mission is to make every one of those decisions intelligent: grounded in what actually works, not guesswork. And to put that power in reach of every business, not just the giants with data-science teams — the same kind of optimization that drives Amazon and Uber, for any brand.",
+    "url": "https://www.intelligems.io/company/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Jaxxon drives seven-figure profit gains with ... — JAXXON partnered with Intelligems (Computer Software) to solve key challenges. \"JAXXON drives 7-figure gross profit gains with Intelligems\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/intelligems/case-study/jaxxon-drives-7-figure-gross-profit-gains-with-intelligems",
+    "pass": 3
+   },
+   {
+    "quote": "Intelligems B2B Case Studies & Customer Successes — See how Intelligems solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/intelligems",
+    "pass": 3
+   },
+   {
+    "quote": "26 Intelligems Case Studies, Success Stories, & Customer ... — Narrow down 26 case studies by company size & industry to find out how Intelligems works for a business like yours.",
+    "url": "https://www.featuredcustomers.com/vendor/intelligems/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "How Branch got 2X+ more from their abandoned ... - Intelligems — With Intelligems Personalizations, the team at Branch was able to split test their abandoned cart discount offers. They set up an A/B test where they experimented with different discount offers, and tracked the resulting impact on conversion rate, revenue, and profitability.",
+    "url": "https://www.intelligems.io/resources/customer-stories/how-branch-got-2x-more-from-their-abandoned-cart-flow",
+    "pass": 3
+   },
+   {
+    "quote": "How Mott & Bow boosted incremental profit 30% with Intelligems — With Intelligems, Jazmin can easily experiment with different customer journeys to optimize content for profits. Now, she’s creating custom flows for different product collections and audience cohorts. For example, she’s created custom flows for Mott & Bow’s men’s and women’s denim lines.",
+    "url": "https://www.intelligems.io/resources/customer-stories/how-mott-bow-boosted-incremental-profit-30-with-intelligems",
+    "pass": 3
+   },
+   {
+    "quote": "Intelligems 2026 Company Profile: Valuation, Funding ...IntelliGems - 2026 Company Profile, Funding & Competitors ...Intelligems Revenue, Funding & Valuation - prospeo.ioIntelligems Revenue 2025: $5.9M Est., $15.8M RaisedIntelligems: Funding, Team & Investors | Startup IntrosIntelliGems — Company Profile | The Company CheckIntelligems — Company Profile & Funding | Indexed.vc — Information on valua",
+    "url": "https://pitchbook.com/profiles/company/454518-37",
+    "pass": 3
+   },
+   {
+    "quote": "IntelliGems - 2026 Company Profile, Funding & Competitors ... — Mar 12, 2026 · IntelliGems - About the company IntelliGems is a series A company based in New York City (United States), founded in 2020. It operates as a Developer of a platform providing AB testing and eCommerce optimization. IntelliGems has raised $15.7M in funding from VINYL and Matchstick Ventures.",
+    "url": "https://tracxn.com/d/companies/intelligems/__Aasm45cwNHSoWK-ADerz-fIidBcXVE4NVhUXwEXjmos",
+    "pass": 3
+   },
+   {
+    "quote": "Intelligems Revenue, Funding & Valuation - prospeo.ioIntelligems Revenue 2025: $5.9M Est., $15.8M RaisedIntelligems: Funding, Team & Investors | Startup IntrosIntelliGems — Company Profile | The Company CheckIntelligems — Company Profile & Funding | Indexed.vc — Intelligems has revenue of $6,700,000, estimated valuation of $21,500,000, $13,257,200 in total funding. Find contacts and company inform",
+    "url": "https://prospeo.io/c/intelligems-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Intelligems Revenue 2025: $5.9M Est., $15.8M Raised — Oct 30, 2026 · Intelligems 2025 estimated revenue: $5.9M. Total funding: $15.8M across 4 rounds. 54 employees. Industry: A/B Testing Software. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/intelligems.io",
+    "pass": 3
+   },
+   {
+    "quote": "Intelligems: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · With around 15 employees based in Denver, Colorado, Intelligems enables merchants to run precise experiments, analyze data, and personalize offers without coding, directly boosting revenue, conversion rates, and customer lifetime value (LTV).",
+    "url": "https://startupintros.com/orgs/intelligems",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "[Intelligems] Optimizing Shopify store \"pricing\" and ... Jul 15, 2026 · Intelligems is a platform that maximizes profits by optimizing 'pricing,' 'shipping settings,' 'offer design,' and 'site content' for Shopify stores through A/B testing.",
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【Intelligems】Shopifyストアの「値付け」と「送料」をA/Bテストで最... Jul 14, 2026 · ECマーケマニアの石井オトヤです。 今日はECマーケマニア初のShopifyアプリカテゴリとして、ニューヨーク発のプロフィット最適化プラットフォームIntelligems（インテリジェムズ）をご紹介します。",
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "[Intelligems] Optimizing Shopify store \"pricing\" and \"shipping\" with A/B testing. A thorough explanation of the AI-powered profit maximization platform｜石井オトヤ（ECマーケマニア）",
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Intelligems] Optimizing Shopify store \"pricing\" and \"shipping\" with A/B testing. A thorough explanation of the AI-powered profit maximization platform",
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is Otoya Ishii from EC Marketing Mania.",
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Today, as the first Shopify app category for EC Marketing Mania, I will introduce Intelligems, a profit optimization platform from New York. It is a Shopify-native tool that allows you to A/B test every element of the purchasing funnel, including \"pricing,\" \"shipping,\" \"offers,\" \"content,\" and \"checkout.\"",
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・Series A completed in July 2025. Total funding of $15.7M (approx. 2.3 billion yen) ・High rating of 4.8/5 on the Shopify App Store (over 150 reviews). Already adopted by thousands of brands",
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・Over 50 updates implemented in Q1 2026. Successive releases of the AI test recommendation feature \"Atlas,\" MCP tool integration, Slack bot, dynamic checkout upsells, etc.",
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・Native support for Shopify Functions. One of the few apps where price and shipping tests work at the checkout level",
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・Now that Google Optimize has ended, it is gaining presence as a full-scale A/B testing tool for Shopify stores",
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【Intelligems】Shopifyストアの「値付け」と「送料」をA/Bテストで最適化。AI搭載の利益最大化プラットフォームを徹底解説｜石井オトヤ（ECマーケマニア）",
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313",
+    "pass": 3
+   },
+   {
+    "quote": "【Intelligems】Shopifyストアの「値付け」と「送料」をA/Bテストで最適化。AI搭載の利益最大化プラットフォームを徹底解説",
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313",
+    "pass": 3
+   },
+   {
+    "quote": "今日はECマーケマニア初のShopifyアプリカテゴリとして、ニューヨーク発のプロフィット最適化プラットフォームIntelligems（インテリジェムズ）をご紹介します。「価格」「送料」「オファー」「コンテンツ」「チェックアウト」まで、購買ファネルのあらゆる要素をA/Bテストできる、Shopifyネイティブのツールです。",
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313",
+    "pass": 3
+   },
+   {
+    "quote": "・2025年7月にSeries Aを完了。累計調達額$15.7M（約23億円） ・Shopify App Storeで4.8/5の高評価（150件以上のレビュー）。数千ブランドが導入済み",
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313",
+    "pass": 3
+   },
+   {
+    "quote": "・2026年Q1に50以上のアップデートを実施。AIテスト推薦機能「Atlas」、MCPツール連携、Slackボット、動的チェックアウトアップセルなどを次々リリース",
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313",
+    "pass": 3
+   },
+   {
+    "quote": "・Shopify Functions にネイティブ対応。価格・送料テストがチェックアウトレベルで動作する数少ないアプリ",
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313",
+    "pass": 3
+   },
+   {
+    "quote": "・Google Optimizeが終了した今、Shopifyストア向けの本格A/Bテストツールとして存在感を増している",
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313",
+    "pass": 3
+   },
+   {
+    "quote": "公式サイトのメッセージは「Decide Confidently. Grow Profitably.」。単なるCROツールではなく、「利益ベースの意思決定プラットフォーム」として自らを位置づけています。AIの活用も進んでおり、今後さらに注目度が上がりそうなタイミングで取り上げます。",
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Intelligems on X: \"There's a reason you see the blue bars ... There's a reason you see the blue bars everywhere. 2,000+ Shopify brands use Intelligems to see profit per visitor — not just conversion rate — on every test they run.",
+    "url": "https://x.com/Intelligems/status/2090568904984658040",
+    "pass": 3
+   },
+   {
+    "quote": "Adam Kitain (@adamintelligems) / Posts / X What we're building toward at Intelligems is the inverse: agents handle the execution, and the operator gets to think many more ideas, prioritize them harder, and ship the ones that matter.",
+    "url": "https://x.com/adamintelligems",
+    "pass": 3
+   },
+   {
+    "quote": "Adam Kitain on X: \"We just launched Onsite Upsells in ... We just launched Onsite Upsells in Intelligems, for product recommendations on your PDP, cart drawer, or cart page. You pick the trigger, the products, and the placement.",
+    "url": "https://x.com/adamintelligems/status/2103188784653209686",
+    "pass": 3
+   },
+   {
+    "quote": "@Intelligems not only helped me increase my CVR, but also ... @Intelligems not only helped me increase my CVR, but also sent me some swag. Just did a quick pod with @alexmcea about how I think we are over segmenting messaging. https://t.co/lpT6yFyUdU",
+    "url": "https://x.com/dave_stickland/status/2118701275072147508",
+    "pass": 3
+   },
+   {
+    "quote": "@intelligems | X The latest posts from @intelligems",
+    "url": "https://x.com/intelligems",
+    "pass": 3
+   },
+   {
+    "quote": "Adam Kitain (@adamintelligems) / Posts / X Apr 28, 2012 · What we're building toward at Intelligems is the inverse: agents handle the execution, and the operator gets to think many more ideas, prioritize them harder, and ship the ones that matter.",
+    "url": "https://x.com/adamintelligems",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Intelligems - LinkedIn Intelligems | 3,885 followers on LinkedIn. A/B test prices, discounts, content, and more to make profitable decisions faster. Stop guessing.",
+    "url": "https://www.linkedin.com/company/intelligems-io",
+    "pass": 3
+   },
+   {
+    "quote": "Intelligems - GEMSLBS | LinkedIn Intelligems - GEMSLBS | 80 followers on LinkedIn. Intelligems is an IT enterprise solutions provider in the fields of Business Intelligence (BI) and data management.",
+    "url": "https://www.linkedin.com/company/intelligems",
+    "pass": 3
+   },
+   {
+    "quote": "Carlos Trujillo - Intelligems | LinkedInIntelligens - LinkedInDrew Marconi - Co-Founder & CEO at Intelligems - LinkedInIntelligems Technologies - LinkedInChristian Dalton - Principal Engineer at Intelligems | Second ... Experiencia: Intelligems · Educación: IAE Lille · Ubicación: Colombia · Más de 500 contactos en LinkedIn. Ver el perfil de Carlos Trujillo en LinkedIn, una red profesional de más d",
+    "url": "https://co.linkedin.com/in/catrugo",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Intelligems - Facebook Apr 7, 2026 · Intelligems is at Патриаршие пруды. Серьги с кианитами, турмалинами и бриллиантами. Сделано на заказ #errings 🧚 Роскошный лунный камень - чистый, многоцветный, крупный, прекрасной формы!",
+    "url": "https://www.facebook.com/Intelligemsjewelry/",
+    "pass": 3
+   },
+   {
+    "quote": "Intelligens | Mexico City - FacebookHíradástechnikai Készülékek Fejlesztése és Restaurálása ...Facebook - log in or sign upVállalati Pénzügyi Klub | FacebookTorrDroid - FacebookKunstig Intelligens | Jeg har brugt noget af researchen fra ... Oct 14, 2026 · Intelligens, Mexico City. 40,758 followers · 1,022 talking about this · 20 were here. Nos especializamos en la nivelación académica de estudiant",
+    "url": "https://www.facebook.com/intelligensint/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.intelligems.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intelligems.io/company/partnerships/partner-directory",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intelligems.io/company/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intelligems.io/company/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intelligems.io/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intelligems.io/pricing-product",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intelligems.io/resources/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intelligems.io/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intelligems.io/company/get-in-touch",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intelligems.io/company/partnerships",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intelligems.io/resources/customer-stories/why-jaxxon-views-pricing-as-a-competitive-moat",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intelligems.io/resources/customer-stories/how-brunt-finds-the-sweet-spot-for-every-product-price-with-intelligems",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intelligems.io/resources/customer-stories/how-a-jewelry-brand-tested-its-prices-to-find-a-30-profit-lift",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intelligems.io/resources/customer-stories/home-goods-price-cut-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intelligems.io/resources/customer-stories/beauty-brand-pdp-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intelligems.io/resources/customer-stories/how-groove-life-justifies-the-cost-of-pretty-pictures",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stackscan.com/ja/technology/intelligems",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://eeai.tv/tools/intelligems",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://app.intelligems.io/shipping",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/National_Intelligence_Bureau_(Japan)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/intelligems-io",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/intelligems/case-study/jaxxon-drives-7-figure-gross-profit-gains-with-intelligems",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/intelligems",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/intelligems/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/454518-37",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/intelligems/__Aasm45cwNHSoWK-ADerz-fIidBcXVE4NVhUXwEXjmos",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://prospeo.io/c/intelligems-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/intelligems.io",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/solvomind_ishii/n/nb9fb18da5313",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Intelligems/status/2090568904984658040",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/adamintelligems",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/adamintelligems/status/2103188784653209686",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/dave_stickland/status/2118701275072147508",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/intelligems-io",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/intelligems",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://co.linkedin.com/in/catrugo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Intelligemsjewelry/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/intelligensint/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/intelligems-io",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/intelligems",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/adamintelligems",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Intelligems 日本 導入",
+   "results": [
+    "https://note.com/solvomind_ishii/n/nb9fb18da5313",
+    "https://www.intelligems.io/",
+    "https://www.stackscan.com/ja/technology/intelligems",
+    "https://eeai.tv/tools/intelligems",
+    "https://jp.ricoh.com/release/2026/0910_1",
+    "https://engineer-kichizitsu.net/entry/20260416/1776298445",
+    "https://codenote.net/ja/posts/japanese-local-llm-development-case-studies/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Intelligems 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://app.intelligems.io/shipping",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.ipsen.com/japan/会社/",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Intelligems Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/National_Intelligence_Bureau_(Japan)",
+    "https://www.linkedin.com/company/intelligems-io",
+    "https://note.com/solvomind_ishii/n/nb9fb18da5313?hl=en",
+    "https://www.intelligems.io/",
+    "https://www.intelligems.io/company/about-us",
+    "https://www.inteligems.io/",
+    "https://www.intsys.co.jp/english/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Intelligems manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/intelligems/case-study/jaxxon-drives-7-figure-gross-profit-gains-with-intelligems",
+    "https://www.casestudies.com/company/intelligems",
+    "https://www.featuredcustomers.com/vendor/intelligems/case-studies",
+    "https://www.intelligems.io/resources/customer-stories/how-branch-got-2x-more-from-their-abandoned-cart-flow",
+    "https://www.intelligems.io/resources/customer-stories/how-mott-bow-boosted-incremental-profit-30-with-intelligems",
+    "https://www.mitsubishielectric.com/fa/solutions/digital-manufacturing/en/casestudy/5/index.html",
+    "https://maxccohen.github.io/Intelligems-Case-Study-Pricing.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Intelligems white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://reseller.amazon.com/",
+    "https://www.reseller.co.nz/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Intelligems founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/454518-37",
+    "https://tracxn.com/d/companies/intelligems/__Aasm45cwNHSoWK-ADerz-fIidBcXVE4NVhUXwEXjmos",
+    "https://prospeo.io/c/intelligems-revenue",
+    "https://getlatka.com/companies/intelligems.io",
+    "https://startupintros.com/orgs/intelligems",
+    "https://www.thecompanycheck.com/company/b/intelligems/iei8t5lw5lml87a9y",
+    "https://indexed.vc/companies/intelligems"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Intelligems",
+   "results": [
+    "https://note.com/solvomind_ishii/n/nb9fb18da5313?hl=en",
+    "https://note.com/solvomind_ishii/n/nb9fb18da5313",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/lively_pika8336/n/n5adf36c23e7b",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/schwarz_history/n/nad9531ac3dee",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Intelligems",
+   "results": [
+    "https://x.com/Intelligems/status/2090568904984658040",
+    "https://x.com/adamintelligems",
+    "https://x.com/adamintelligems/status/2103188784653209686",
+    "https://x.com/dave_stickland/status/2118701275072147508",
+    "https://x.com/hashtag/intelligems",
+    "https://x.com/DimitrisPapail/status/2086158118354887060",
+    "https://x.com/mickmillerpro"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Intelligems",
+   "results": [
+    "https://www.linkedin.com/company/intelligems-io",
+    "https://www.linkedin.com/company/intelligems",
+    "https://co.linkedin.com/in/catrugo",
+    "https://www.linkedin.com/company/intelligens-llc",
+    "https://www.linkedin.com/in/andrewmarconi",
+    "https://www.linkedin.com/company/intelligems-technologies",
+    "https://www.linkedin.com/in/christiandalton"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Intelligems",
+   "results": [
+    "https://www.facebook.com/Intelligemsjewelry/",
+    "https://www.facebook.com/intelligensint/",
+    "https://secure.facebook.com/",
+    "https://business.facebook.com/groups/980908179620690/",
+    "https://www.facebook.com/torrdroid/",
+    "https://business.facebook.com/groups/107289689930670/",
+    "https://www.facebook.com/groups/kunstigintelligens/permalink/29975669775367381/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Intelligems note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.intelligems.io/company/about-us",
+    "https://www.intelligems.io/",
+    "https://www.linkedin.com/company/intelligems-io",
+    "https://theorg.com/org/intelligems/org-chart/drew-marconi",
+    "https://pitchbook.com/profiles/company/454518-37",
+    "https://www.cbinsights.com/company/intelligems-1/people"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Intelligems X 投稿",
+   "results": [
+    "https://x.com/intelligems",
+    "https://www.intelligems.io/",
+    "https://x.com/adamintelligems",
+    "https://app.intelligems.io/content",
+    "https://www.intelligems.io/pricing",
+    "https://docs.intelligems.io/",
+    "https://x.com/intelligensint"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部35頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部35頁・検索12回）"
+ }
+}
