@@ -1,0 +1,953 @@
+{
+ "name": "株式会社宮城県産業技術総合センター",
+ "aliases": [],
+ "context": "PBF=unknown 装置= 出典=https://www.mit.pref.miyagi.jp/services/voice/jampt_interview/",
+ "researched_at": "2026-11-10T20:29:56.647936+00:00",
+ "official_url": "https://www.mit.pref.miyagi.jp/",
+ "identified_by": "search:yahoo_jp:宮城県産業技術総合センター",
+ "profile": {},
+ "evidence": {
+  "用途・客の産業": [
+   {
+    "quote": "はじめて御利用いただく方へ 光造形システムを用いた試作支援依頼については、事前に御相談をお願いします",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "当センターの研究，企業に対する技術支援(依頼試験，機器開放，技術改善支援)に利用されています",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末焼結，接合等の製品開発・試作",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/",
+    "pass": 1
+   },
+   {
+    "quote": "・試験機としては大きな吐出量を確保しているので、次工程の成形試作への展開も容易です",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/",
+    "pass": 1
+   },
+   {
+    "quote": "落雷により電力線や電話線に誘導された高エネルギーの雷サージを発生する試験器",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/",
+    "pass": 1
+   },
+   {
+    "quote": "工業製品などの試作品を高精度・短期間に製作可能",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/",
+    "pass": 1
+   },
+   {
+    "quote": "レトルト食品を試作できる小型の高温高圧殺菌装置",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/",
+    "pass": 1
+   },
+   {
+    "quote": "加熱乾燥に比べ成分変化が少なく復元性の良い乾燥品（フリーズドライ）を試作できます",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/",
+    "pass": 1
+   },
+   {
+    "quote": "エネルギー分散型蛍光X線分析装置(EDXRF)",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末焼結，接合等の製品開発・試作",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/%E6%9D%90%E6%96%99%E5%8A%A0%E5%B7%A5%E9%96%A2%E9%80%A3%E6%A9%9F%E5%99%A8/",
+    "pass": 1
+   },
+   {
+    "quote": "・試験機としては大きな吐出量を確保しているので、次工程の成形試作への展開も容易です",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/%E6%9D%90%E6%96%99%E5%8A%A0%E5%B7%A5%E9%96%A2%E9%80%A3%E6%A9%9F%E5%99%A8/",
+    "pass": 1
+   },
+   {
+    "quote": "落雷により電力線や電話線に誘導された高エネルギーの雷サージを発生する試験器",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/%E9%9B%BB%E5%AD%90%E3%83%BB%E6%83%85%E5%A0%B1%E9%96%A2%E9%80%A3%E6%A9%9F%E5%99%A8/",
+    "pass": 1
+   },
+   {
+    "quote": "工業製品などの試作品を高精度・短期間に製作可能",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/%E5%B7%A5%E6%A5%AD%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E9%96%A2%E9%80%A3%E6%A9%9F%E5%99%A8/",
+    "pass": 1
+   },
+   {
+    "quote": "レトルト食品を試作できる小型の高温高圧殺菌装置",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/%E9%A3%9F%E5%93%81%E3%83%BB%E3%83%90%E3%82%A4%E3%82%AA%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E9%96%A2%E9%80%A3%E6%A9%9F%E5%99%A8/",
+    "pass": 1
+   },
+   {
+    "quote": "加熱乾燥に比べ成分変化が少なく復元性の良い乾燥品（フリーズドライ）を試作できます",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/%E9%A3%9F%E5%93%81%E3%83%BB%E3%83%90%E3%82%A4%E3%82%AA%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E9%96%A2%E9%80%A3%E6%A9%9F%E5%99%A8/",
+    "pass": 1
+   },
+   {
+    "quote": "エネルギー分散型蛍光X線分析装置(EDXRF)",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/%E5%88%86%E6%9E%90%E3%83%BB%E6%B8%AC%E5%AE%9A%E9%96%A2%E9%80%A3%E6%A9%9F%E5%99%A8/",
+    "pass": 1
+   },
+   {
+    "quote": "エネルギー分散型蛍光X線分析装置(EDXRF)",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E4%BD%BF%E7%94%A8%E6%96%99%E4%B8%80%E8%A6%A7/",
+    "pass": 1
+   },
+   {
+    "quote": "これらの機器は、当センターの研究や企業に対する技術支援(依頼試験、機器開放、技術改善支援)に利用されています",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BAjka%E3%81%8B%E3%82%89%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AB%E3%82%88%E3%82%8A%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F%E8%A8%AD%E5%82%99/",
+    "pass": 1
+   },
+   {
+    "quote": "導入後1ヶ月(平成23年1月)の依頼試験件数は、1931件であった",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BAjka%E3%81%8B%E3%82%89%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AB%E3%82%88%E3%82%8A%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F%E8%A8%AD%E5%82%99/",
+    "pass": 1
+   },
+   {
+    "quote": "1)県内企業の新しい機能性調湿建材の試作開発に用いた",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BAjka%E3%81%8B%E3%82%89%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AB%E3%82%88%E3%82%8A%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F%E8%A8%AD%E5%82%99/",
+    "pass": 1
+   },
+   {
+    "quote": "県内マンホール鉄蓋などの金属製品製造業者の品質確認試験に用いられ、年間約30社180件の依頼試験に利用した",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BAjka%E3%81%8B%E3%82%89%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AB%E3%82%88%E3%82%8A%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F%E8%A8%AD%E5%82%99/",
+    "pass": 1
+   },
+   {
+    "quote": "次世代高機能SiCを用いた半導体製造装置・高精度部品の開発(地域新生域コンソーシアム(経済産業省)、H17-18)",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BAjka%E3%81%8B%E3%82%89%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AB%E3%82%88%E3%82%8A%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F%E8%A8%AD%E5%82%99/",
+    "pass": 1
+   },
+   {
+    "quote": "燃料電池自動車用MEMS湿潤水素センサシステムの開発(地域新生域コンソーシアム(経済産業省)、H19)",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BAjka%E3%81%8B%E3%82%89%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AB%E3%82%88%E3%82%8A%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F%E8%A8%AD%E5%82%99/",
+    "pass": 1
+   },
+   {
+    "quote": "(株)東栄科学産業が開発した超小型振動試料型磁力測定装置(VSM)の電磁石磁気回路の設計に寄与し、設計・試作時間短縮に貢献した",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BAjka%E3%81%8B%E3%82%89%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AB%E3%82%88%E3%82%8A%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F%E8%A8%AD%E5%82%99/",
+    "pass": 1
+   },
+   {
+    "quote": "直径1mm以下の小径切削工具を用いた微細切削加工技術について、企業からの技術相談・試作に活用の他、大学・高専が最先端の研究資材や部品の試作に活用",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BAjka%E3%81%8B%E3%82%89%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AB%E3%82%88%E3%82%8A%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F%E8%A8%AD%E5%82%99/",
+    "pass": 1
+   },
+   {
+    "quote": "県内の樹脂成形品メーカーが、金型の形状、冷却流路の最適化、および最適成形条件の設定に活用した",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BAjka%E3%81%8B%E3%82%89%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AB%E3%82%88%E3%82%8A%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F%E8%A8%AD%E5%82%99/",
+    "pass": 1
+   },
+   {
+    "quote": "本装置は3次元CADデータから金属製の立体物を短期間に製作する装置で、中小企業の機械などの製品開発、商品開発の開発プロセスにおき、金属製ワンオフ部品や簡易金型などの大型の作成を行い製品開発期間の短縮化を実現することが可能な装置である",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BAjka%E3%81%8B%E3%82%89%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AB%E3%82%88%E3%82%8A%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F%E8%A8%AD%E5%82%99/",
+    "pass": 1
+   },
+   {
+    "quote": "具体的な製品例としては、機械装置で用いられるセンサーをはじめとした電子デバイス、大型の圧力容器、医療機器用架台および電波暗室などの大型設備、ガラスアニール用の真空炉など",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BAjka%E3%81%8B%E3%82%89%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AB%E3%82%88%E3%82%8A%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F%E8%A8%AD%E5%82%99/",
+    "pass": 1
+   },
+   {
+    "quote": "平成18年度は約80件、総稼働時間約830時間(施設機器開放、依頼試験、技術改善支援、研究等)",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BAjka%E3%81%8B%E3%82%89%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AB%E3%82%88%E3%82%8A%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F%E8%A8%AD%E5%82%99/",
+    "pass": 1
+   },
+   {
+    "quote": "以下の路線バスに乗車し、「宮城大学／仙台総合医療大学校前」下車、徒歩約３分",
+    "url": "https://www.mit.pref.miyagi.jp/about/location/access/",
+    "pass": 1
+   },
+   {
+    "quote": "以下のいずれかの路線バスに乗車し、「宮城大学／仙台総合医療大学校前」下車、徒歩約３分",
+    "url": "https://www.mit.pref.miyagi.jp/about/location/access/",
+    "pass": 1
+   },
+   {
+    "quote": "「宮城大学／仙台総合医療大学校前」を経由しない便もありますので、時刻表で宮城大学を経由することを確認してご乗車ください",
+    "url": "https://www.mit.pref.miyagi.jp/about/location/access/",
+    "pass": 1
+   },
+   {
+    "quote": "東北自動車道 泉インターチェンジから約5.4km(15分)",
+    "url": "https://www.mit.pref.miyagi.jp/about/location/access/",
+    "pass": 1
+   },
+   {
+    "quote": "地下鉄泉中央駅(3番のりば)→桂・高森 宮城大学:工業団地→宮城大学／仙台総合医療大学校前",
+    "url": "https://www.mit.pref.miyagi.jp/about/location/access/",
+    "pass": 1
+   },
+   {
+    "quote": "地下鉄泉中央駅(3番のりば)→寺岡・紫山 宮大・工業→宮城大学／仙台総合医療大学校前",
+    "url": "https://www.mit.pref.miyagi.jp/about/location/access/",
+    "pass": 1
+   },
+   {
+    "quote": "地下鉄泉中央駅(6番のりば)→将監殿→宮城大学／仙台総合医療大学校前",
+    "url": "https://www.mit.pref.miyagi.jp/about/location/access/",
+    "pass": 1
+   },
+   {
+    "quote": "仙台駅前(2番のりば)→上杉通または県庁・市役所前→桜ヶ丘→寺岡六丁目・泉アウトレット→宮城大学／仙台総合医療大学校前",
+    "url": "https://www.mit.pref.miyagi.jp/about/location/access/",
+    "pass": 1
+   },
+   {
+    "quote": "宮城大学／仙台総合医療大学校前→桂・高森→地下鉄泉中央駅",
+    "url": "https://www.mit.pref.miyagi.jp/about/location/access/",
+    "pass": 1
+   },
+   {
+    "quote": "宮城大学／仙台総合医療大学校前→寺岡・紫山→地下鉄泉中央駅",
+    "url": "https://www.mit.pref.miyagi.jp/about/location/access/",
+    "pass": 1
+   },
+   {
+    "quote": "宮城大学／仙台総合医療大学校前→将監殿→地下鉄泉中央駅",
+    "url": "https://www.mit.pref.miyagi.jp/about/location/access/",
+    "pass": 1
+   },
+   {
+    "quote": "宮城大学／仙台総合医療大学校前→寺岡六丁目・泉アウトレット→桜ヶ丘→上杉通または県庁・市役所前→仙台駅前",
+    "url": "https://www.mit.pref.miyagi.jp/about/location/access/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車エンジン部品の測定の様子（アルミ鋳造部品）",
+    "url": "https://www.mit.pref.miyagi.jp/services/%E6%96%BD%E8%A8%AD%E3%83%BB%E6%A9%9F%E5%99%A8%E5%88%A9%E7%94%A8%E3%81%AE%E6%B5%81%E3%82%8C/",
+    "pass": 1
+   },
+   {
+    "quote": "試作・実験・研究を目的として，産業技術総合センターの機器や施設を御使用頂けます",
+    "url": "https://www.mit.pref.miyagi.jp/services/%E6%96%BD%E8%A8%AD%E3%83%BB%E6%A9%9F%E5%99%A8%E5%88%A9%E7%94%A8%E3%81%AE%E6%B5%81%E3%82%8C/",
+    "pass": 1
+   },
+   {
+    "quote": "支援の領域は、自動車産業、機械電子情報技術、材料開発、分析技術そして食品バイオ技術などと多岐にわたります",
+    "url": "https://www.gomi100.com/articles/wnn/9186",
+    "pass": 3
+   },
+   {
+    "quote": "メダルは小型の射出成形機を用い、溶かした廃プラスチックを金型に射出して作る工程でしたが、センターではその金型の製作を担当しました",
+    "url": "https://www.gomi100.com/articles/wnn/9186",
+    "pass": 3
+   },
+   {
+    "quote": "このワケ猫ちゃんメダルの金型を設計し、センター所有の「五軸マシニングセンタ」と呼ばれる切削加工の工作機械で製作しました",
+    "url": "https://www.gomi100.com/articles/wnn/9186",
+    "pass": 3
+   },
+   {
+    "quote": "ワケ猫ちゃんメダルの金型製作の際に使われた3Dデータ（左）と、",
+    "url": "https://www.gomi100.com/articles/wnn/9186",
+    "pass": 3
+   },
+   {
+    "quote": "金型の切削加工を行った五軸マシニングセンタ（右）",
+    "url": "https://www.gomi100.com/articles/wnn/9186",
+    "pass": 3
+   },
+   {
+    "quote": "金型製作の際は、まずイラストから金型の3Dデータを設計し、3Ｄ化されたデータを用いて加工に使用する工具を定義します",
+    "url": "https://www.gomi100.com/articles/wnn/9186",
+    "pass": 3
+   },
+   {
+    "quote": "金型を作る際に注意したのは、射出された原料が金型からはがれやすいように、細かい部分も勾配をつけて加工したこと",
+    "url": "https://www.gomi100.com/articles/wnn/9186",
+    "pass": 3
+   },
+   {
+    "quote": "このような調整を経て完成した金型を使って、『エコフェスタ2024』では多くの来場者の皆さんにメダル作りを楽しんでもらうことができました",
+    "url": "https://www.gomi100.com/articles/wnn/9186",
+    "pass": 3
+   },
+   {
+    "quote": "金型製作から指定袋の試験分析、新素材の開発と社会実験まで、幅広く私たちの暮らしに関わっているセンターの取り組み",
+    "url": "https://www.gomi100.com/articles/wnn/9186",
+    "pass": 3
+   }
+  ],
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "2009年度導入",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年度導入",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年度導入",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/",
+    "pass": 1
+   },
+   {
+    "quote": "2009年度導入",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/%E5%88%86%E6%9E%90%E3%83%BB%E6%B8%AC%E5%AE%9A%E9%96%A2%E9%80%A3%E6%A9%9F%E5%99%A8/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年度導入",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/%E5%88%86%E6%9E%90%E3%83%BB%E6%B8%AC%E5%AE%9A%E9%96%A2%E9%80%A3%E6%A9%9F%E5%99%A8/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年度導入",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/%E5%88%86%E6%9E%90%E3%83%BB%E6%B8%AC%E5%AE%9A%E9%96%A2%E9%80%A3%E6%A9%9F%E5%99%A8/",
+    "pass": 1
+   },
+   {
+    "quote": "導入後1ヶ月(平成23年1月)の依頼試験件数は、1931件であった",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BAjka%E3%81%8B%E3%82%89%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AB%E3%82%88%E3%82%8A%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F%E8%A8%AD%E5%82%99/",
+    "pass": 1
+   },
+   {
+    "quote": "導入後1ヶ月(平成21年12月)の技術相談は10件、技術改善支援は1件",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BAjka%E3%81%8B%E3%82%89%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AB%E3%82%88%E3%82%8A%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F%E8%A8%AD%E5%82%99/",
+    "pass": 1
+   },
+   {
+    "quote": "平成21年3月16日の導入後、平成20年3月31日までに4件、のべ18時間の利用があった",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BAjka%E3%81%8B%E3%82%89%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AB%E3%82%88%E3%82%8A%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F%E8%A8%AD%E5%82%99/",
+    "pass": 1
+   },
+   {
+    "quote": "平成21年1月29日の導入後、平成20年3月30日までに9件、のべ120時間の利用があった",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BAjka%E3%81%8B%E3%82%89%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AB%E3%82%88%E3%82%8A%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F%E8%A8%AD%E5%82%99/",
+    "pass": 1
+   },
+   {
+    "quote": "導入後1ヵ月(平成20年1月)の稼働時間は41時間",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BAjka%E3%81%8B%E3%82%89%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AB%E3%82%88%E3%82%8A%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F%E8%A8%AD%E5%82%99/",
+    "pass": 1
+   },
+   {
+    "quote": "導入後の平成14年度から平成18年度までに、総使用時間2000時間超(施設機器開放、技術改善支援)約350件の利用があった",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BAjka%E3%81%8B%E3%82%89%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AB%E3%82%88%E3%82%8A%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F%E8%A8%AD%E5%82%99/",
+    "pass": 1
+   },
+   {
+    "quote": "本装置を活用して設計解析技術を習得した県内企業が当該ソフトウェアを導入する例もあった",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BAjka%E3%81%8B%E3%82%89%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AB%E3%82%88%E3%82%8A%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F%E8%A8%AD%E5%82%99/",
+    "pass": 1
+   },
+   {
+    "quote": "本装置を活用して解析技術を習得した県内企業がシミュレーションソフトを導入する例も多い",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BAjka%E3%81%8B%E3%82%89%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AB%E3%82%88%E3%82%8A%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F%E8%A8%AD%E5%82%99/",
+    "pass": 1
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "Ｘ線では透過しない，大型構造物や厚い鉄鋳物，アルミダイカスト，溶接部，ＦＲＰ等の三次元超音波探傷が可能",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/",
+    "pass": 1
+   },
+   {
+    "quote": "高速回転する攪拌羽根により、室温で粉末、顆粒、液体を均一に混合攪拌できます",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂粉末，ペレットの混合攪拌試験",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/",
+    "pass": 1
+   },
+   {
+    "quote": "直流パルス通電による熱と油圧プレスによる加圧力により、原料粉末を短時間のうちに強固に焼き固めます",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/",
+    "pass": 1
+   },
+   {
+    "quote": "・原料粉末を短時間の内に焼結し、高密度焼結体や多孔質体を早く作製できます",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末焼結，接合等の製品開発・試作",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/",
+    "pass": 1
+   },
+   {
+    "quote": "大気中において、金属やアルミナ、ジルコニアなどのセラミックスを焼結することが出来ます",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/",
+    "pass": 1
+   },
+   {
+    "quote": "薄板，粉末など，様々な形状の試料が測定可能",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/",
+    "pass": 1
+   },
+   {
+    "quote": "鉄・アルミニウム・銅・マグネシウム・亜鉛に含まれる主要成分の定量分析を行います",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/",
+    "pass": 1
+   },
+   {
+    "quote": "形態： バルク，粉末等",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/",
+    "pass": 1
+   },
+   {
+    "quote": "形態： フィルム，粉末等",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/",
+    "pass": 1
+   },
+   {
+    "quote": "Ｘ線では透過しない，大型構造物や厚い鉄鋳物，アルミダイカスト，溶接部，ＦＲＰ等の三次元超音波探傷が可能",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/%E6%9D%90%E6%96%99%E5%8A%A0%E5%B7%A5%E9%96%A2%E9%80%A3%E6%A9%9F%E5%99%A8/",
+    "pass": 1
+   },
+   {
+    "quote": "高速回転する攪拌羽根により、室温で粉末、顆粒、液体を均一に混合攪拌できます",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/%E6%9D%90%E6%96%99%E5%8A%A0%E5%B7%A5%E9%96%A2%E9%80%A3%E6%A9%9F%E5%99%A8/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂粉末，ペレットの混合攪拌試験",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/%E6%9D%90%E6%96%99%E5%8A%A0%E5%B7%A5%E9%96%A2%E9%80%A3%E6%A9%9F%E5%99%A8/",
+    "pass": 1
+   },
+   {
+    "quote": "直流パルス通電による熱と油圧プレスによる加圧力により、原料粉末を短時間のうちに強固に焼き固めます",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/%E6%9D%90%E6%96%99%E5%8A%A0%E5%B7%A5%E9%96%A2%E9%80%A3%E6%A9%9F%E5%99%A8/",
+    "pass": 1
+   },
+   {
+    "quote": "・原料粉末を短時間の内に焼結し、高密度焼結体や多孔質体を早く作製できます",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/%E6%9D%90%E6%96%99%E5%8A%A0%E5%B7%A5%E9%96%A2%E9%80%A3%E6%A9%9F%E5%99%A8/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末焼結，接合等の製品開発・試作",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/%E6%9D%90%E6%96%99%E5%8A%A0%E5%B7%A5%E9%96%A2%E9%80%A3%E6%A9%9F%E5%99%A8/",
+    "pass": 1
+   },
+   {
+    "quote": "大気中において、金属やアルミナ、ジルコニアなどのセラミックスを焼結することが出来ます",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/%E6%9D%90%E6%96%99%E5%8A%A0%E5%B7%A5%E9%96%A2%E9%80%A3%E6%A9%9F%E5%99%A8/",
+    "pass": 1
+   },
+   {
+    "quote": "薄板，粉末など，様々な形状の試料が測定可能",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/%E9%9B%BB%E5%AD%90%E3%83%BB%E6%83%85%E5%A0%B1%E9%96%A2%E9%80%A3%E6%A9%9F%E5%99%A8/",
+    "pass": 1
+   },
+   {
+    "quote": "鉄・アルミニウム・銅・マグネシウム・亜鉛に含まれる主要成分の定量分析を行います",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/%E5%88%86%E6%9E%90%E3%83%BB%E6%B8%AC%E5%AE%9A%E9%96%A2%E9%80%A3%E6%A9%9F%E5%99%A8/",
+    "pass": 1
+   },
+   {
+    "quote": "形態： バルク，粉末等",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/%E5%88%86%E6%9E%90%E3%83%BB%E6%B8%AC%E5%AE%9A%E9%96%A2%E9%80%A3%E6%A9%9F%E5%99%A8/",
+    "pass": 1
+   },
+   {
+    "quote": "形態： フィルム，粉末等",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/%E5%88%86%E6%9E%90%E3%83%BB%E6%B8%AC%E5%AE%9A%E9%96%A2%E9%80%A3%E6%A9%9F%E5%99%A8/",
+    "pass": 1
+   },
+   {
+    "quote": "県内外企業のセラミック粉末と成形バインダーの混合やゴム材料とカーボン粉末との混合実験などに使用され、射出成形可能な成形材料の創製に貢献した",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BAjka%E3%81%8B%E3%82%89%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AB%E3%82%88%E3%82%8A%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F%E8%A8%AD%E5%82%99/",
+    "pass": 1
+   },
+   {
+    "quote": "簡易型積層造形システム(金属粉末積層装置)",
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BAjka%E3%81%8B%E3%82%89%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AB%E3%82%88%E3%82%8A%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F%E8%A8%AD%E5%82%99/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車エンジン部品の測定の様子（アルミ鋳造部品）",
+    "url": "https://www.mit.pref.miyagi.jp/services/%E6%96%BD%E8%A8%AD%E3%83%BB%E6%A9%9F%E5%99%A8%E5%88%A9%E7%94%A8%E3%81%AE%E6%B5%81%E3%82%8C/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "宮城県産業技術総合センター – Industrial Technology Institute ... — 宮城県産業技術総合センター – Industrial Technology Institute ... 宮城県産業技術総合センター https://www.mit.pref.miyagi.jp",
+    "url": "https://www.mit.pref.miyagi.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "宮城県産業技術総合センター の 会社概要 ・製品情報 | Metoree — 宮城県産業技術総合センター の 会社概要 ・製品情報 | Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/43532/",
+    "pass": 3
+   },
+   {
+    "quote": "暮らしのいろんな場面で遭遇！『 宮城県産業技術総合センター ... — 暮らしのいろんな場面で遭遇！『 宮城県産業技術総合センター ... 仙台市ごみ減量・リサイクル情報総合サイト https://www.gomi100.com > articles > wnn",
+    "url": "https://www.gomi100.com/articles/wnn/9186",
+    "pass": 3
+   },
+   {
+    "quote": "宮城県産業技術総合センター - YouTube — 宮城県産業技術総合センター - YouTube YouTube https://www.youtube.com > channel",
+    "url": "https://www.youtube.com/channel/UCxZWkGo3iABWCZu7pSyyUww",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター で 技術 革新を支える～日本積層造形株式会社 — 金属3Dプリンター で 技術 革新を支える～日本積層造形株式会社 宮城県産業技術総合センター https://www.mit.pref.miyagi.jp > voice > jampt_interview",
+    "url": "https://www.mit.pref.miyagi.jp/services/voice/jampt_interview/",
+    "pass": 3
+   },
+   {
+    "quote": "金属 3Dプリンターで 技術 革新を支える～日本 積層造形 株式会社 — 金属 3Dプリンターで 技術 革新を支える～日本 積層造形 株式会社 宮城県産業技術総合センター https://www.mit.pref.miyagi.jp > voice > jampt_interview",
+    "url": "https://www.mit.pref.miyagi.jp/services/voice/jampt_interview/",
+    "pass": 3
+   },
+   {
+    "quote": "宮城AM研究会 - 宮城県産業技術総合センター — 宮城AM研究会 - 宮城県産業技術総合センター 宮城県産業技術総合センター https://www.mit.pref.miyagi.jp > mde > mde-labs",
+    "url": "https://www.mit.pref.miyagi.jp/mde/mde-labs/",
+    "pass": 3
+   },
+   {
+    "quote": "宮城県産業技術総合センター の会社概要・製品情報 | Metoree — 宮城県産業技術総合センター の会社概要・製品情報 | Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/43532/",
+    "pass": 3
+   },
+   {
+    "quote": "宮城県産業技術総合センター における研究・技術支援と連携 — 宮城県産業技術総合センター における研究・技術支援と連携 食品需給研究センター PDF https://www.fmric.or.jp > 080202_miyagi_sangicenter",
+    "url": "https://www.fmric.or.jp/foodcluster/monokoto/02tohoku/2008/080202_miyagi_sangicenter.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "宮城県産業技術総合センター の求人・転職情報 - とらばーゆ — 宮城県産業技術総合センター の求人・転職情報 - とらばーゆ とらばーゆ https://toranet.jp > ... > 宮城 > 仙台市 > 仙台市泉区",
+    "url": "https://toranet.jp/viewjob/c40600f2ebec1fec/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "宮城県産業技術総合センター (@itim_miyagi) / X 宮城県産業技術総合センター (@itim_miyagi) / X X https://x.com > itim_miyagi",
+    "url": "https://x.com/itim_miyagi",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "宮城県産業技術総合センター - Home - Facebook 宮城県産業技術総合センター - Home - Facebook Facebook https://www.facebook.com > ...",
+    "url": "https://www.facebook.com/138702636214148",
+    "pass": 3
+   },
+   {
+    "quote": "宮城県産業技術総合センター - होम पेज | Facebook 宮城県産業技術総合センター - होम पेज | Facebook Facebook https://hi-in.facebook.com > 宮城県産業技術総合センター",
+    "url": "https://hi-in.facebook.com/pages/%E5%AE%AE%E5%9F%8E%E7%9C%8C%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/138702636214148",
+    "pass": 3
+   },
+   {
+    "quote": "宮城県産業技術総合センター - Halaman Utama - Facebook 宮城県産業技術総合センター - Halaman Utama - Facebook Facebook https://ms-my.facebook.com > pages > 宮城県産業技術総...",
+    "url": "https://ms-my.facebook.com/pages/%E5%AE%AE%E5%9F%8E%E7%9C%8C%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/138702636214148",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.mit.pref.miyagi.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mit.pref.miyagi.jp/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/%E7%B2%BE%E5%AF%86%E6%B8%AC%E5%AE%9A%E9%96%A2%E9%80%A3%E6%A9%9F%E5%99%A8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/%E6%9D%90%E6%96%99%E5%8A%A0%E5%B7%A5%E9%96%A2%E9%80%A3%E6%A9%9F%E5%99%A8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/%E9%9B%BB%E5%AD%90%E3%83%BB%E6%83%85%E5%A0%B1%E9%96%A2%E9%80%A3%E6%A9%9F%E5%99%A8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/%E5%B7%A5%E6%A5%AD%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E9%96%A2%E9%80%A3%E6%A9%9F%E5%99%A8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/%E9%A3%9F%E5%93%81%E3%83%BB%E3%83%90%E3%82%A4%E3%82%AA%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E9%96%A2%E9%80%A3%E6%A9%9F%E5%99%A8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/%E5%88%86%E6%9E%90%E3%83%BB%E6%B8%AC%E5%AE%9A%E9%96%A2%E9%80%A3%E6%A9%9F%E5%99%A8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E4%BD%BF%E7%94%A8%E6%96%99%E4%B8%80%E8%A6%A7/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mit.pref.miyagi.jp/equipment/%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BAjka%E3%81%8B%E3%82%89%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AB%E3%82%88%E3%82%8A%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F%E8%A8%AD%E5%82%99/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mit.pref.miyagi.jp/about/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mit.pref.miyagi.jp/about/location/access/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mit.pref.miyagi.jp/services/%E6%96%BD%E8%A8%AD%E3%83%BB%E6%A9%9F%E5%99%A8%E5%88%A9%E7%94%A8%E3%81%AE%E6%B5%81%E3%82%8C/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.mit.pref.miyagi.jp/wp-content/uploads/2020/05/menu_02.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/43532/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.gomi100.com/articles/wnn/9186",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aist.go.jp/aist_j/information/research_bases/tohoku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/43532/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/JobSearchList/j_pr__4/-oc__0424M/-ha__80%2C0/-preBtn__1/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gomi100.com/articles/wnn/9186",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/itim_miyagi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/138702636214148",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://hi-in.facebook.com/pages/%E5%AE%AE%E5%9F%8E%E7%9C%8C%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/138702636214148",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ms-my.facebook.com/pages/%E5%AE%AE%E5%9F%8E%E7%9C%8C%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/138702636214148",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/itim_miyagi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/itim_miyagi",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "宮城県産業技術総合センター",
+   "results": [
+    "https://www.mit.pref.miyagi.jp/",
+    "https://www.youtube.com/channel/UCxZWkGo3iABWCZu7pSyyUww",
+    "https://www.gomi100.com/articles/wnn/9186",
+    "https://x.com/itim_miyagi",
+    "https://www.aist.go.jp/tohoku/",
+    "https://www.mit.pref.miyagi.jp/equipment/",
+    "https://osaki-industries.com/2023/09/15/sougougijyutusennta/",
+    "https://www.pref.miyagi.jp/soshiki/shinsan/sangisekobetu.html",
+    "https://www.pref.miyagi.jp/soshiki/sangyo-c/index.html"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "宮城県産業技術総合センター 会社概要 資本金 設立",
+   "results": [
+    "https://www.mit.pref.miyagi.jp/",
+    "https://metoree.com/companies/43532/",
+    "https://www.gomi100.com/articles/wnn/9186",
+    "https://www.youtube.com/channel/UCxZWkGo3iABWCZu7pSyyUww",
+    "https://www.aist.go.jp/tohoku/",
+    "https://job.mynavi.jp/28/pc/search/corp100220/outline.html",
+    "https://www.fmric.or.jp/foodcluster/monokoto/02tohoku/2008/080202_miyagi_sangicenter.pdf",
+    "https://x.com/itim_miyagi",
+    "https://toranet.jp/viewjob/c40600f2ebec1fec/",
+    "https://www.mit.pref.miyagi.jp/about/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "宮城県産業技術総合センター 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.mit.pref.miyagi.jp/services/voice/jampt_interview/",
+    "https://jampt.jp/company/",
+    "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "https://www.youtube.com/watch?v=Byfy7tsLawE",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://www.iri.pref.shizuoka.jp/printer/",
+    "https://sankak.jp/fukugyo/965",
+    "https://www.gitc.pref.nagano.lg.jp/zairyo/3Ddigital/setsubi/1_3Dprinter.html",
+    "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "宮城県産業技術総合センター 金属積層造形 設備",
+   "results": [
+    "https://www.mit.pref.miyagi.jp/services/voice/jampt_interview/",
+    "https://jampt.jp/company/",
+    "https://www.mit.pref.miyagi.jp/mde/mde-labs/",
+    "https://www.gitc.pref.nagano.lg.jp/zairyo/3Ddigital/setsubi/1_3Dprinter.html",
+    "https://www.iri-tokyo.jp/research/field/sekiso-zokei/",
+    "https://sankak.jp/fukugyo/965",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-houkokusyo.pdf",
+    "https://www.iri.pref.shizuoka.jp/printer/",
+    "https://www.youtube.com/watch?v=5KVb69CSTXU",
+    "https://www.mit.pref.miyagi.jp/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "宮城県産業技術総合センター 株主 出資 親会社",
+   "results": [
+    "https://www.mit.pref.miyagi.jp/",
+    "https://www.aist.go.jp/tohoku/",
+    "https://metoree.com/companies/43532/",
+    "https://www.fmric.or.jp/foodcluster/monokoto/02tohoku/2008/080202_miyagi_sangicenter.pdf",
+    "https://www.joho-miyagi.or.jp/about",
+    "https://id.ndl.go.jp/auth/ndlna/01022751",
+    "https://www.mit.pref.miyagi.jp/about/administration/%E5%AE%AE%E5%9F%8E%E7%9C%8C%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E4%BA%8B%E6%A5%AD%E6%8E%A8%E9%80%B2%E6%A7%8B%E6%83%B3/",
+    "https://goodjobjournal.com/archives/1652",
+    "https://www.jozo.or.jp/iikamo/%E5%AE%AE%E5%9F%8E%E7%9C%8C%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E6%A9%8B%E6%9C%AC%E5%BB%BA%E5%93%89/",
+    "https://www.mit.pref.miyagi.jp/about/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "宮城県産業技術総合センター 売上高 従業員数",
+   "results": [
+    "https://www.mit.pref.miyagi.jp/",
+    "https://doda.jp/DodaFront/View/JobSearchList/j_pr__4/-oc__0424M/-ha__80%2C0/-preBtn__1/",
+    "https://www.gomi100.com/articles/wnn/9186",
+    "https://www.youtube.com/channel/UCxZWkGo3iABWCZu7pSyyUww",
+    "https://toranet.jp/viewjob/c40600f2ebec1fec/",
+    "https://www.aist.go.jp/tohoku/",
+    "https://jp.indeed.com/q-%E5%AE%AE%E5%9F%8E%E7%9C%8C%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-l-%E5%AE%AE%E5%9F%8E%E7%9C%8C-%E4%BB%99%E5%8F%B0%E5%B8%82-%E6%B3%89%E5%8C%BA-%E6%B1%82%E4%BA%BA.html",
+    "https://metoree.com/companies/43532/",
+    "https://www.nikkan.co.jp/articles/view/756197",
+    "https://warp.ndl.go.jp/waid/53935"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 宮城県産業技術総合センター",
+   "results": [
+    "https://note.com/like_pony3823/n/n38ada12fae80",
+    "https://note.com/ishiirikie/n/n5f219920e11c",
+    "https://note.com/sake_diploma_23/n/n1ef4b6c46a57",
+    "https://note.com/blue_carbon/n/n7e87d63f85c0",
+    "https://note.com/tech_dango/n/n14d6206852ab",
+    "https://note.com/smon4836/n/n4431316ef248",
+    "https://note.com/nec_iise/n/n927f44ac71f8",
+    "https://note.com/takayu76/n/n365e7e98cc8c",
+    "https://note.com/masamune_sake/n/ne211f19ba0fa",
+    "https://note.com/sakethegaku/n/ne30812f297c4"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:x.com 宮城県産業技術総合センター",
+   "results": [
+    "https://x.com/itim_miyagi",
+    "https://x.com/official_TAYC/status/1995714867568017452",
+    "https://x.com/AIST_JP/status/2119749549061542341",
+    "https://x.com/AIST_JP/status/2080201546193678726",
+    "https://x.com/AIST_JP/status/2119749417649770978",
+    "https://x.com/hmScienceIKH",
+    "https://x.com/Iwahaku/status/2059107998510059988",
+    "https://x.com/E_kigyo",
+    "https://x.com/yumif2/status/1904086105722609880",
+    "https://x.com/myg_kouhou/status/1790668445291545021"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:linkedin.com 宮城県産業技術総合センター",
+   "results": [
+    "https://jp.linkedin.com/in/chikahiro-miyokawa-77b732111",
+    "https://www.linkedin.com/company/nodi3d",
+    "https://www.linkedin.com/pub/dir/+/%E7%9C%9F%E6%A8%B9",
+    "https://jp.linkedin.com/in/eitaro-yukutake-b63a00b3",
+    "https://jp.linkedin.com/in/minoru-tanabe-38529a119",
+    "https://jp.linkedin.com/in/takahiro-shinada-b28168ab",
+    "https://jp.linkedin.com/in/%E8%8C%82%E6%A8%B9-%E5%B2%B8-3387b6b0",
+    "https://jp.linkedin.com/in/%E6%86%B2%E4%B8%80-%E5%AE%AE%E5%9F%8E-3b5300100",
+    "https://jp.linkedin.com/in/%E7%9B%B4%E5%AD%90-%E4%B9%85%E7%B1%B3-63619242",
+    "https://jp.linkedin.com/in/寛則-吉田-885184283"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com 宮城県産業技術総合センター",
+   "results": [
+    "https://www.facebook.com/138702636214148",
+    "https://hi-in.facebook.com/pages/%E5%AE%AE%E5%9F%8E%E7%9C%8C%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/138702636214148",
+    "https://ms-my.facebook.com/pages/%E5%AE%AE%E5%9F%8E%E7%9C%8C%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/138702636214148",
+    "https://www.facebook.com/EKigyo/posts/%E8%A3%BD%E5%93%81%E9%96%8B%E7%99%BA%E4%BC%81%E7%94%BB%E8%AC%9B%E5%BA%A7%E7%94%9F%E6%88%90ai%E3%81%A7%E3%81%A4%E3%81%8F%E3%82%8B%E6%96%B0%E5%95%86%E5%93%81%E4%BC%81%E7%94%BB%E5%AE%9F%E8%B7%B5%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85%E5%AE%AE%E5%9F%8E%E7%9C%8C%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%A7%E3%81%AF%E7%94%9F%E6%88%90ai%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%81%A6%E5%8A%B9%E7%8E%87%E7%9A%84%E3%81%AB%E3%81%BE%E3%81%A8%E3%82%81%E3%82%8B%E5%AE%9F%E8%B7%B5%E5%BD%A2/1416865553763721/",
+    "https://www.facebook.com/EKigyo/posts/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88%E7%A0%94%E4%BF%AE%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E9%96%8B%E5%82%AC%E6%BC%94%E7%BF%92%E4%BB%98%E3%81%8D%E5%AE%AE%E5%9F%8E%E7%9C%8C%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%A7%E3%81%AF%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88%E3%81%AE%E4%BB%A3%E8%A1%A8%E7%9A%84%E3%81%AA%E8%A8%AD%E8%A8%88%E6%8A%80%E6%B3%95%E3%82%92%E5%AD%A6%E7%BF%92%E3%81%99%E3%82%8B%E7%A0%94%E4%BF%AE%E3%82%92%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E5%BD%A2%E5%BC%8F%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99%E6%9C%AC%E7%A0%94/1418786100238333/",
+    "https://www.facebook.com/EKigyo/posts/ai%E6%99%82%E4%BB%A3%E3%81%AE%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E6%B4%BE%E7%94%9F%E9%96%8B%E7%99%BA%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E5%AE%AE%E5%9F%8E%E7%9C%8C%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%A7%E3%81%AFai%E6%99%82%E4%BB%A3%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E6%B4%BE%E7%94%9F%E9%96%8B%E7%99%BA%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84%E5%8F%96%E3%82%8A%E7%B5%84%E3%81%BF%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99%E6%B4%BE%E7%94%9F%E9%96%8B%E7%99%BA%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6/1404031941713749/",
+    "https://www.facebook.com/kouichi.m.yumesakukumegun/posts/%E7%B7%8F%E5%90%88%E8%A8%88%E7%94%BB%E8%A1%8C%E8%B2%A1%E6%94%BF%E6%94%B9%E9%9D%A9%E7%89%B9%E5%88%A5%E5%A7%94%E5%93%A1%E4%BC%9A%E3%81%AE%E7%9C%8C%E5%A4%96%E8%AA%BF%E6%9F%BB%E3%81%A7%E5%AE%AE%E5%9F%8E%E7%9C%8C%E3%82%92%E8%A8%AA%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E5%AE%AE%E5%9F%8E%E7%9C%8C%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%A7%E3%81%AFiot%E3%82%84ai%E6%8A%80%E8%A1%93%E3%81%AE%E6%B4%BB%E7%94%A8%E3%82%84%E5%86%85%E8%A3%BD%E5%8C%96%E3%81%AE%E6%94%AF%E6%8F%B4%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E5%A5%B3%E5%B7%9D%E7%94%BA%E5%BD%B9%E5%A0%B4%E3%81%A7%E3%81%AF%E6%9D%B1%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%9C%87%E7%81%BD%E5%BE%8C/1450000310652181/",
+    "https://www.facebook.com/EKigyo/posts/1%E3%81%A4%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AA%E3%81%A7%E8%A8%AD%E8%A8%88%E5%AE%8C%E7%B5%90-%E3%83%A9%E3%83%86%E3%82%A3%E3%82%B9%E8%A8%AD%E8%A8%88%E3%81%8B%E3%82%89%E3%83%88%E3%83%9D%E3%83%AD%E3%82%B8%E3%83%BC%E6%9C%80%E9%81%A9%E5%8C%96%E3%81%BE%E3%81%A7%E6%AC%A1%E4%B8%96%E4%BB%A3cadnodi%E3%83%8F%E3%83%B3%E3%82%BA%E3%82%AA%E3%83%B3%E4%BD%93%E9%A8%93%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E5%AE%AE%E5%9F%8E%E7%9C%8C%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%A7%E3%81%AF%E3%83%A9%E3%83%86%E3%82%A3%E3%82%B9%E6%A7%8B%E9%80%A0%E3%81%AE%E7%94%9F%E6%88%90%E3%81%8B%E3%82%89%E7%86%B1%E5%BC%B7%E5%BA%A6/1408357254614551/",
+    "https://www.facebook.com/EKigyo/posts/%E7%94%BB%E5%83%8F%E5%87%A6%E7%90%86ai%E3%83%84%E3%83%BC%E3%83%AB%E4%BD%93%E9%A8%93%E4%BC%9A%E5%AE%AE%E5%9F%8E%E7%9C%8C%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%A7%E3%81%AF%E8%87%AA%E7%A4%BE%E5%86%85%E3%81%AB%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E5%A4%96%E8%A6%B3%E6%A4%9C%E6%9F%BB%E3%82%92%E5%B0%8E%E5%85%A5%E3%81%97%E3%81%9F%E3%81%84%E3%81%A8%E8%80%83%E3%81%88%E3%81%A6%E3%81%84%E3%82%8B%E6%96%B9%E5%A4%96%E8%A6%B3%E6%A4%9C%E6%9F%BB%E3%81%AB%E8%88%88%E5%91%B3%E3%81%8C%E3%81%82%E3%82%8B%E3%81%8C%E5%85%B7%E4%BD%93%E7%9A%84%E3%81%AA%E6%96%B9%E6%B3%95%E3%81%8C%E5%88%86%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84%E6%96%B9%E3%82%92%E5%AF%BE%E8%B1%A1%E3%81%A8/1386270483489895/",
+    "https://www.facebook.com/宮城県産業技術総合センター-138702636214148/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "宮城県産業技術総合センター note 社長",
+   "results": [
+    "https://www.mit.pref.miyagi.jp/",
+    "https://www.youtube.com/channel/UCxZWkGo3iABWCZu7pSyyUww",
+    "https://x.com/itim_miyagi",
+    "https://www.gomi100.com/articles/wnn/9186",
+    "https://www.youtube.com/watch?v=pd2qeZzF8pk",
+    "https://www.aist.go.jp/tohoku/",
+    "https://www.facebook.com/138702636214148",
+    "https://metoree.com/companies/43532/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "宮城県産業技術総合センター X 投稿",
+   "results": [
+    "https://www.mit.pref.miyagi.jp/product/xrayct/",
+    "https://www.youtube.com/channel/UCxZWkGo3iABWCZu7pSyyUww",
+    "https://x.com/itim_miyagi",
+    "https://www.youtube.com/watch?v=TvLSyPwzxeo",
+    "https://www.gomi100.com/articles/wnn/9186",
+    "https://www.mit.pref.miyagi.jp/research/seeds/seeds-r4/seeds-r4-fs03/",
+    "https://www.voxelworks.co.jp/x%E7%B7%9A%E9%80%8F%E8%A6%96%E3%83%BBx%E7%B7%9Act%E8%A3%85%E7%BD%AE%E3%81%AE%E7%B4%8D%E5%85%A5%E5%AE%9F%E7%B8%BE-%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E5%8F%97%E8%A8%97%E5%AE%9F/",
+    "https://www.aist.go.jp/tohoku/",
+    "https://www.mit.pref.miyagi.jp/",
+    "https://www.mit.pref.miyagi.jp/event/newseeds2026/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部15頁・検索12回）",
+  "資本金": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部15頁・検索12回）",
+  "創業年度": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部15頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部15頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部15頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部15頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部15頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部15頁・検索12回）",
+  "資本金・株主": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部15頁・検索12回）"
+ }
+}

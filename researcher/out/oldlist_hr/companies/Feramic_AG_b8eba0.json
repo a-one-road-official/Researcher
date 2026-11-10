@@ -1,0 +1,497 @@
+{
+ "name": "Feramic AG",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜FORMNEXT案件",
+ "researched_at": "2026-11-10T20:29:17.806846+00:00",
+ "official_url": "https://www.feramic.ch",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Schnell, präzise & flexibel | Feramic AG",
+    "url": "https://feramic.ch/",
+    "pass": 1
+   },
+   {
+    "quote": "Wir produzieren Ihre Gedanken, Metall ist unsere Stärke.",
+    "url": "https://feramic.ch/",
+    "pass": 1
+   },
+   {
+    "quote": "Die lösungsorientierte Crew der Feramic AG arbeitet effektiv und mit der nötigen Kreativität. Die Aufmerksamkeit gilt nicht nur dem Fertigungsprozess, sondern auch den Funktionen Ihrer Bauteile. Wir denken mit und legen Wert auf die Details in den Aufträgen und den Produkten. Wir fühlen uns verpflichtet, Ihnen die maximale Qualität zu liefern. Und das machen wir einfach und unkompliziert.",
+    "url": "https://feramic.ch/",
+    "pass": 1
+   },
+   {
+    "quote": "Vom Prototypen bis zur Serienproduktion",
+    "url": "https://feramic.ch/",
+    "pass": 1
+   },
+   {
+    "quote": ". Mit unserer Expertise in modernsten Fertigungstechnologien begleiten wir Sie von der ersten Idee bis zum fertigen Produkt. Egal ob Einzelstück oder Serie – wir verwirklichen Ihre Visionen mit Präzision und Qualität.",
+    "url": "https://feramic.ch/",
+    "pass": 1
+   },
+   {
+    "quote": "Bereits im zweiten Jahr unserer Geschichte haben wir unsere Prozesse und unser Managementsystem auf ein hohes Level gebracht. Somit konnten wir uns mit wenig Aufwand im Dezember 2023 zum ersten Mal durch die Firma SQS zertifizieren lassen. Wir erfüllen in unserer Tätigkeit die Norm ISO 9001. Für Sie als Kunde arbeiten wir weiterhin im gewohnten Stil und liefern Ihnen Teile in bester Qualität.",
+    "url": "https://feramic.ch/",
+    "pass": 1
+   },
+   {
+    "quote": "Downloads/Datenblätter",
+    "url": "https://feramic.ch/",
+    "pass": 1
+   },
+   {
+    "quote": "In unseren Success Stories zeigen wir, wie aus Visionen greifbare Produkte entstehen – und wie unsere Kund:innen additive Fertigung in der Praxis einsetzen.",
+    "url": "https://feramic.ch/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Ob Start-up, ETH-Forschungsprojekt oder etablierter Betrieb: Jede Geschichte erzählt von mutigen Ideen, cleverer Umsetzung und partnerschaftlicher Entwicklung.",
+    "url": "https://feramic.ch/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Downloads/Datenblätter",
+    "url": "https://feramic.ch/success-stories",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "und Fertigungstechniken. Insbesondere natürlich in additive Manufacturing und in der CNC-Fertigung.",
+    "url": "https://feramic.ch/",
+    "pass": 1
+   },
+   {
+    "quote": "Swiss Additive Manufacturing Group",
+    "url": "https://feramic.ch/",
+    "pass": 1
+   },
+   {
+    "quote": "Swiss Additive Manufacturing Group",
+    "url": "https://feramic.ch/success-stories",
+    "pass": 1
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Feramic AG - LinkedIn Feramic AG - LinkedIn LinkedIn Schweiz https://ch.linkedin.com > feramic-ag",
+    "url": "https://ch.linkedin.com/company/feramic-ag",
+    "pass": 3
+   },
+   {
+    "quote": "Fabian Ruf - Feramic AG - LinkedIn Fabian Ruf - Feramic AG - LinkedIn LinkedIn Schweiz https://ch.linkedin.com > ...",
+    "url": "https://ch.linkedin.com/in/fabian-ruf-947b661b3",
+    "pass": 3
+   },
+   {
+    "quote": "Stephan Baumann - Feramic AG - LinkedIn Stephan Baumann - Feramic AG - LinkedIn LinkedIn Schweiz https://ch.linkedin.com > ...",
+    "url": "https://ch.linkedin.com/in/stephan-baumann-7278b523a",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://feramic.ch/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://feramic.ch/success-stories",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.material-expo.jp/hub/en-gb/about/cera.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ceramic-japan.co.jp/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ceramic-pro.com/jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=ckAaZnVB6KA&vl=ja",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ceramic-pro.com/jp/become-a-dealer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=3428",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.famictech.com/ja/%E4%BC%9A%E7%A4%BE/%E4%BB%A3%E7%90%86%E5%BA%97%E3%81%BE%E3%81%9F%E3%81%AF%E5%86%8D%E8%B2%A9%E6%A5%AD%E8%80%85",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tamuracorp.com/products/agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ceramic-japan.co.jp/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.material-expo.jp/hub/en-gb/about/cera.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ceramic.or.jp/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan.travel/en/guide/ceramics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vITqKjVK_LMkHvPxv8-unwY_S9P_q5n81KX4tXfqrMXmbS4ugfs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratasys.com/en/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thevirtualfoundry.com/manufacturing-using-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/industries/customer-success-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mastercard.com/europe/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://webinone.com/reseller-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Frei_F%C3%B6rdertechnik_AG",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ferring.com/for-the-first-time-ferring-reports-revenue-of-over-e2-5-billion-in-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/morganadvancedmaterials",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ch.linkedin.com/company/feramic-ag",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ch.linkedin.com/in/fabian-ruf-947b661b3",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ch.linkedin.com/in/stephan-baumann-7278b523a",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Feramic AG 日本 導入",
+   "results": [
+    "https://www.material-expo.jp/hub/en-gb/about/cera.html",
+    "https://ceramic-japan.co.jp/en/",
+    "https://ceramic-pro.com/jp/company/",
+    "https://www.youtube.com/watch?v=ckAaZnVB6KA&vl=ja",
+    "https://www.jfca-net.or.jp/",
+    "https://www.fujicera.co.jp/en/",
+    "https://www.hikarilife.com.au/ceramic-japan",
+    "https://www.nicera.co.jp/en/company/quality",
+    "https://feramic.ch/",
+    "https://bbs.fobshanghai.com/company/o17l8965j8g6a27.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Feramic AG 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ceramic-pro.com/jp/become-a-dealer/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=3428",
+    "https://www.famictech.com/ja/%E4%BC%9A%E7%A4%BE/%E4%BB%A3%E7%90%86%E5%BA%97%E3%81%BE%E3%81%9F%E3%81%AF%E5%86%8D%E8%B2%A9%E6%A5%AD%E8%80%85",
+    "https://www.tamuracorp.com/products/agency/",
+    "https://www.yamato-net.co.jp/company/agency/",
+    "https://www.jsuntech.co.jp/news/147/",
+    "https://ceramics.ferrotec.com/",
+    "https://tablewarebrand.noritake.co.jp/shop/",
+    "https://www.ceramic.or.jp/wp-admin/*",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Feramic AG Japan",
+   "results": [
+    "https://ceramic-japan.co.jp/en/",
+    "https://www.material-expo.jp/hub/en-gb/about/cera.html",
+    "https://www.ceramic.or.jp/en/",
+    "https://www.japan.travel/en/guide/ceramics/",
+    "https://www.amoca.org/current-exhibits/togei_modern/",
+    "https://ceramics.org/membership/international-chapters/japan-chapter/",
+    "https://ambiente.messefrankfurt.com/frankfurt/en/exhibitor-search.detail.html/ceramic-japan-co-ltd.html",
+    "https://www.japan-guide.com/e/e2329.html",
+    "https://www.ceramicsrefractories.saint-gobain.com/events/ceramic-japan-2026",
+    "https://www.dnb.com/business-directory/company-profiles.feramic_ag.4fd564302df55979449d3fcca6e38768.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Feramic AG manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vITqKjVK_LMkHvPxv8-unwY_S9P_q5n81KX4tXfqrMXmbS4ugfs",
+    "https://www.stratasys.com/en/resources/case-studies/",
+    "https://thevirtualfoundry.com/manufacturing-using-3d-printing/",
+    "https://www.eos.info/industries/customer-success-stories",
+    "https://appliedmfg.com/case-studies/",
+    "https://www.fergusonindustrial.com/case-studies/",
+    "https://www.factory-twin.com/casestudies",
+    "https://www.intechopen.com/chapters/87328",
+    "https://gmggroup.org/wp-content/uploads/2024/07/Case-Study-Fabricating-Change-Through-Additive-Manufacturing-1.pdf",
+    "https://www.casestudies.com/customer/feramic-ag"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Feramic AG white label OR reseller OR partner program",
+   "results": [
+    "https://www.mastercard.com/europe/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://webinone.com/reseller-program",
+    "https://www.terrera.ag/en/white-label-wholesale/",
+    "https://www.youtube.com/watch?v=K5irRmNExp4",
+    "https://wayfront.com/features/resellers",
+    "https://simvoly.com/website-reseller",
+    "https://www.e2msolutions.com/ai-service-reseller-partner/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Feramic AG founded funding employees revenue",
+   "results": [
+    "https://growjo.com/company/Frei_F%C3%B6rdertechnik_AG",
+    "https://www.ferring.com/for-the-first-time-ferring-reports-revenue-of-over-e2-5-billion-in-2025/",
+    "https://www.owler.com/company/morganadvancedmaterials",
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://www.richemont.com/media/ue1bjrjv/richemont-fy25-annual-report-en.pdf",
+    "https://getlatka.com/companies/faire",
+    "https://www.straumann.com/group/en/discover/annualreport/2025.html",
+    "https://tracxn.com/d/companies/ferro/__JK8CDTfs0ENU6fNSgavGQxQhf11Zx_RqsonDEMjuWk0",
+    "https://www.irs.gov/pub/irs-pdf/p5781.pdf",
+    "https://www.dnb.com/business-directory/company-profiles.feramic_ag.4fd564302df55979449d3fcca6e38768.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Feramic AG",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/seigo77",
+    "https://note.com/geoscience16",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/ogikubo/n/nf616c0b6685a",
+    "https://note.com/para7mii/n/n036af9e505b2"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Feramic AG",
+   "results": [
+    "https://x.com/sirius_kpc",
+    "https://x.com/gigazine/status/2099294570844484058",
+    "https://x.com/nishuang/status/1881776758607008048?lang=ca",
+    "https://x.com/nishuang/status/1881764694400061938",
+    "https://x.com/Jinbei_03",
+    "https://x.com/",
+    "https://x.com/Marlayna29/status/2115433590150606880",
+    "https://help.x.com/zh-tw/using-x",
+    "https://x.com/NFLSTROUD/status/2116185540337045822",
+    "https://x.com/itscelyunique/status/2117839228826521620"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:linkedin.com Feramic AG",
+   "results": [
+    "https://ch.linkedin.com/company/feramic-ag",
+    "https://ch.linkedin.com/in/martin-hofer-feramic",
+    "https://ch.linkedin.com/in/fabian-ruf-947b661b3",
+    "https://ch.linkedin.com/in/stephan-baumann-7278b523a",
+    "https://www.linkedin.com/posts/satw_thememonth-swissinnovation-lowearthorbit-activity-7505150854208061440-4Act",
+    "https://www.linkedin.com/company/irpd",
+    "https://ch.linkedin.com/company/swissloop",
+    "https://www.linkedin.com/posts/eth-robotics-club_as-we-reflect-on-our-first-year-wed-like-activity-7512905422404554752-O598",
+    "https://www.linkedin.com/posts/akademischer-motorsportverein-z%C3%BCrich-amz-_%F0%9D%9F%91-%F0%9D%90%B2%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%AC-%F0%9D%9F%91-%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%AC-we-are-thrilled-activity-7498332844394536960-e3J_"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com Feramic AG",
+   "results": [
+    "https://www.facebook.com/9tlabs/posts/one-of-our-co-founders-giovanni-cavolina-was-able-to-present-our-3d-printed-carb/675747622840061/",
+    "https://www.facebook.com/61559277866252/posts/innovation-begins-where-it-works-stops-being-enough-my-smile-caused-by-innovativ/122241098096309262/",
+    "https://www.facebook.com/groups/479759550059489/posts/1868032147898882/",
+    "https://www.facebook.com/plassertheurercom/posts/our-production-line-actually-begins-where-the-products-are-in-operation-out-on-t/506039214891560/",
+    "https://www.facebook.com/groups/483014355216422/posts/2937663743084792/",
+    "https://www.facebook.com/groups/1346695452747863/posts/1873664186717651/",
+    "https://www.facebook.com/groups/1008908201222470/posts/1343039711142649/",
+    "https://www.facebook.com/EmbassyofSwedeninBern/posts/the-royal-technology-mission-2026-visits-switzerland-day-2-part-ion-october-5-sw/1411871297699503/",
+    "https://www.facebook.com/universitycanterbury/posts/could-you-pedal-a-bike-at-100-kmh-thats-the-challenge-uc-students-have-set-thems/1515118440650514/",
+    "https://www.facebook.com/Feramic-AG-105031152185778/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Feramic AG note 社長",
+   "results": [
+    "https://note.com/firebrand",
+    "https://x.com/sadaaki",
+    "https://note.com/soramichicoltd/m/m58bf1b7d4aae",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/sadaaki",
+    "https://www.instagram.com/p/DZu0J3mjE1h/",
+    "https://www.alpha-food.co.jp/news/detail.php?pkId=71",
+    "https://tokyotorch.mec.co.jp/pickup/150/",
+    "https://feramic.ch/ueber-feramic"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Feramic AG X 投稿",
+   "results": [
+    "https://x.com/ceramicnetwork",
+    "https://ceramics.org/",
+    "https://www.sfa-am.ch/ceramic-x0.html",
+    "https://systemx.com/?srsltid=AYCX9vKPdSiXp-a18I5QfsJSdNTYB4fadnS6WiiM5RPsQPIUbPUMg-Qg",
+    "https://www.youtube.com/watch?v=t36vTpGFkOI",
+    "https://www.instagram.com/ceramics_x_fiber/",
+    "https://www.researchgate.net/publication/312062125_Fabrication_of_Ba1-xCaxTiO3_Oriented_Ceramics_by_Reactive_Template_Grain_Growth_Method_Using_Layered_Titanate_Template",
+    "https://xceramics.com/gallery/",
+    "https://ceramicartsnetwork.org/ceramics-monthly/ceramics-monthly-resources/ceramics-monthly-submission-guidelines",
+    "https://feramic.ch/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部27頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部27頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部27頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部27頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部27頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部27頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部27頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部27頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部27頁・検索12回）"
+ }
+}

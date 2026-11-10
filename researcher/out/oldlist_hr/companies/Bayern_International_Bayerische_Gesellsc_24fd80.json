@@ -1,0 +1,350 @@
+{
+ "name": "Bayern International - Bayerische Gesellschaft für Internationale Wirtschaftsbeziehungen mbH",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜FORMNEXT案件",
+ "researched_at": "2026-11-10T21:03:19.366351+00:00",
+ "official_url": "https://www.bayern-international.org/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Bayern International ist seit drei Jahrzehnten ein zentraler Akteur der bayerischen Außenwirtschaftsförderung. In Zusammenarbeit mit dem bayerischen Wirtschaftsministerium werden jedes Jahr weltweit zahlreiche Projekte organisiert. Sie alle zielen darauf ab, kleine und mittlere Unternehmen (KMU) aus Bayern bei der Internationalisierung zu unterstützen.",
+    "url": "https://www.bayern-international.org/",
+    "pass": 1
+   },
+   {
+    "quote": "Delegationsbesuche aus dem Ausland – unter anderem im Rahmen des Programms „Bayern fit for Partnership (BFP)“ - bringen Entscheidungsträger aus spannenden Zielmärkten mit bayerischen Unternehmen direkt vor Ort in Bayern zusammen.",
+    "url": "https://www.bayern-international.org/",
+    "pass": 1
+   },
+   {
+    "quote": "Die Firmendatenbank „Key to Bavaria“ ermöglicht weltweit potenziellen Geschäftspartnern, gezielt und kostenlos nach bayerischen Produkten, Dienstleistungen und Technologiepartnern zu suchen.",
+    "url": "https://www.bayern-international.org/",
+    "pass": 1
+   },
+   {
+    "quote": "Invest in Bavaria unterstützt die Unternehmen in allen Phasen des Investitionsvorhabens. Von der Planung, über die Standortsuche bis zur Umsetzung des Projekts steht dem Investor ein fester Ansprechpartner aus dem Team von Invest in Bavaria zur Seite.",
+    "url": "https://www.bayern-international.org/",
+    "pass": 1
+   },
+   {
+    "quote": "Bayerische Wirtschaftsrepräsentanzen",
+    "url": "https://www.bayern-international.org/",
+    "pass": 1
+   },
+   {
+    "quote": "As a company of the Free State of Bavaria, we are the central player in Bavarian foreign trade promotion for small and medium-sized enterprises.",
+    "url": "https://www.bayern-innovativ.de/en/profiles/bayern-international/",
+    "pass": 3
+   },
+   {
+    "quote": "Our goal: to support Bavarian companies on their way into the world - with know-how, experience and a unique network. With around 100 projects per year, we create new opportunities in international markets - from leading international trade fairs to delegation trips, visits by foreign decision-makers to Bavaria with \"Bavaria - Fit for Partnership\" and the \"Key to Bavaria\" company database.",
+    "url": "https://www.bayern-innovativ.de/en/profiles/bayern-international/",
+    "pass": 3
+   },
+   {
+    "quote": "A convincing presence: We organize around 50 Bavarian joint stands at leading international trade fairs every year - with a comprehensive service for Bavarian exhibitors.",
+    "url": "https://www.bayern-innovativ.de/en/profiles/bayern-international/",
+    "pass": 3
+   },
+   {
+    "quote": "Experience new markets up close: Together with the Bavarian Ministry of Economic Affairs, we organize tailor-made programmes for Bavarian companies worldwide.",
+    "url": "https://www.bayern-innovativ.de/en/profiles/bayern-international/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Starten Sie Ihre Karriere bei Bayern International & Invest in Bavaria",
+    "url": "https://www.bayern-international.org/",
+    "pass": 1
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Bayern International | Munich - Facebook30 Jahre Bayern International – wir... - Bayern International ...Der August 2026 steht bei Bayern... - Bayern International ...In der aktuellen Ausgabe unseres... - Bayern International ...Bayern International unterstützt... - Bayern International ...Die BI-Jubiläumsbroschüre ist... - Bayern InternationalBayern - Der Juni 2026 steht bei Bayern International ",
+    "url": "https://www.facebook.com/BayernInternational/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.bayern-international.org/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.bayern-international.de/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bayern-international.de/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bayern-innovativ.de/en/profiles/bayern-international/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.companyhouse.de/en/Bayerische-Gesellschaft-fuer-Internationale-Wirtschaftsbeziehungen-mbH-Bayern-International-Muenchen",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://app.implisense.com/en/companies/bayerische-gesellschaft-fuer-internationale-wirtschaftsbeziehungen-mbh-bayern-international-muenchen--DE6E10RUA127",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bayern-international.de/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bayern-international.de/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://de.wikipedia.org/wiki/Wiederverk%C3%A4ufer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.companyhouse.de/en/Bayerische-Gesellschaft-fuer-Internationale-Wirtschaftsbeziehungen-mbH-Bayern-International-Muenchen",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.companyhouse.de/en/Bayerische-Gesellschaft-fuer-Internationale-Wirtschaftsbeziehungen-mbH-Bayern-International-Muenchen",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://firmendata.com/en/company/muenchen/HRB111789/bayerische-gesellschaft-fuer-internationale-wirtschaftsbeziehungen-mbh-bayern-international",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.companyhouse.de/Bayerische-Gesellschaft-fuer-Internationale-Wirtschaftsbeziehungen-mbH-Bayern-International-Muenchen",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/BayernInternational/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Bayern International - Bayerische Gesellschaft für Internationale Wirtschaftsbeziehungen mbH 日本 導入",
+   "results": [
+    "https://www.bayern-international.de/en/",
+    "https://www.bayern-international.de/",
+    "https://www.bayern-international.org/en/",
+    "https://www.bayern-international.org/",
+    "https://weltweit-erfolgreich.de/bayern/magazin/im-gespraech/detail/bayerns-aeltestes-auslandsbuero-unter-neuer-leitung-perspektiven-fuer-kmu/",
+    "https://www.bayern-innovativ.de/en/profiles/bayern-international/",
+    "https://www.bayernportal.de/dokumente/behoerde/8454278703117"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Bayern International - Bayerische Gesellschaft für Internationale Wirtschaftsbeziehungen mbH 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.bayern-innovativ.de/en/profiles/bayern-international/",
+    "https://www.companyhouse.de/en/Bayerische-Gesellschaft-fuer-Internationale-Wirtschaftsbeziehungen-mbH-Bayern-International-Muenchen",
+    "https://implisense.com/en/companies/bayerische-gesellschaft-fuer-internationale-wirtschaftsbeziehungen-mbh-bayern-international-muenchen-DE6E10RUA127",
+    "https://www.bayern-international.org/en/",
+    "https://www.bayern-international.de/",
+    "https://www.bayern-international.org/en/about-us-1/bavarian-economic-representative-offices-abroad",
+    "https://www.bayern-international.de/en/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Bayern International - Bayerische Gesellschaft für Internationale Wirtschaftsbeziehungen mbH Japan",
+   "results": [
+    "https://www.bayern-international.de/en/",
+    "https://www.bayern-international.de/",
+    "https://www.bayern-international.org/en/",
+    "https://www.bayern-international.org/",
+    "https://www.bayern-innovativ.de/en/profiles/bayern-international/",
+    "https://www.bayernportal.de/dokumente/behoerde/8454278703117",
+    "https://www.bayern-innovativ.de/en/profiles/bayern-international/?showOptIn=1&cHash=eb6487ce3e35b8ba3a6ab59c141d586b"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Bayern International - Bayerische Gesellschaft für Internationale Wirtschaftsbeziehungen mbH manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Bayern International - Bayerische Gesellschaft für Internationale Wirtschaftsbeziehungen mbH white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://de.wikipedia.org/wiki/Wiederverkäufer",
+    "https://www.companyhouse.de/en/Bayerische-Gesellschaft-fuer-Internationale-Wirtschaftsbeziehungen-mbH-Bayern-International-Muenchen",
+    "https://www.bayern-international.org/ueber-uns/vergaben",
+    "https://partner.vw.com/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.mycompanyworks.com/reseller"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Bayern International - Bayerische Gesellschaft für Internationale Wirtschaftsbeziehungen mbH founded funding employees revenue",
+   "results": [
+    "https://www.companyhouse.de/en/Bayerische-Gesellschaft-fuer-Internationale-Wirtschaftsbeziehungen-mbH-Bayern-International-Muenchen",
+    "https://www.bayern-international.org/en/",
+    "https://firmendata.com/en/company/muenchen/HRB111789/bayerische-gesellschaft-fuer-internationale-wirtschaftsbeziehungen-mbh-bayern-international",
+    "https://www.companyhouse.de/Bayerische-Gesellschaft-fuer-Internationale-Wirtschaftsbeziehungen-mbH-Bayern-International-Muenchen",
+    "https://rocketreach.co/bayern-international-profile_b5e1c478f42e7475",
+    "https://www.bayern-international.org/en/about-us-1/promoting-bavaria",
+    "https://www.zoominfo.com/c/bayern-international-gmbh/426483653"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Bayern International - Bayerische Gesellschaft für Internationale Wirtschaftsbeziehungen mbH",
+   "results": [
+    "https://note.com/watarutida/m/meef47a7cc358",
+    "https://note.com/kino9988/n/n4682c1b67c27",
+    "https://note.com/habibee/n/n50a8b6a6ca51",
+    "https://note.com/osirius3150/n/n164c9a6f7cf8",
+    "https://note.com/meimei_stork42/n/n89441a3937e7",
+    "https://note.com/yashima_kamiyo25/n/n7f106ca8d1e3",
+    "https://note.com/aktmuse/n/n81aeb521dd90"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Bayern International - Bayerische Gesellschaft für Internationale Wirtschaftsbeziehungen mbH",
+   "results": [
+    "https://x.com/auwi_bayern",
+    "https://jf.x.com/images/media-preview/2104237833431241084",
+    "https://x.com/gustavoinsol/status/2115330668368400586",
+    "https://x.com/susylicious2023/status/2117880110489522374",
+    "https://x.com/Howlingmutant0/status/2115570165723340923",
+    "https://x.com/adrnvic/status/2116339042962833541",
+    "https://x.com/youdoingtoomuch/status/2114185237387456512"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Bayern International - Bayerische Gesellschaft für Internationale Wirtschaftsbeziehungen mbH",
+   "results": [
+    "https://de.linkedin.com/company/bayern-international",
+    "https://www.linkedin.com/posts/bayern-international_das-außenwirtschafts-netzwerk-unser-service-activity-7049284395584647169-3TRq",
+    "https://de.linkedin.com/posts/bayern-international_jubel-gemeinsamweltweit-30jahrebi-activity-7437483812361596928-I4rc",
+    "https://de.linkedin.com/posts/bayern-international_gemeinsam-in-die-welt-wie-bayern-international-activity-7437837740953624576-r8ov",
+    "https://de.linkedin.com/posts/bayern-international_30-jahre-bayern-international-martina-maschauer-activity-7484865046267756544-3CXD",
+    "https://ke.linkedin.com/company/bayern-handwerk-international-gmbh",
+    "https://www.linkedin.com/posts/bayern-international_company-profile-activity-6996111308316106752-O8nb"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Bayern International - Bayerische Gesellschaft für Internationale Wirtschaftsbeziehungen mbH",
+   "results": [
+    "https://www.facebook.com/BayernInternational/",
+    "https://www.facebook.com/BayernInternational/posts/30-jahre-bayern-international-wir-starten-unsere-jubiläumsreihe1996-haben-wir-un/1510926774368937/",
+    "https://www.facebook.com/BayernInternational/posts/der-august-2026-steht-bei-bayern-international-ganz-im-zeichen-globaler-vielfalt/1672104041584542/",
+    "https://www.facebook.com/BayernInternational/posts/in-der-aktuellen-ausgabe-unseres-bayern-international-newsletters-dreht-sich-all/1475120937949521/",
+    "https://www.facebook.com/BayernInternational/posts/bayern-international-unterstützt-bayerische-unternehmen-aus-der-hotel-gastro-und/1654809919980621/",
+    "https://www.facebook.com/BayernInternational/posts/die-bi-jubiläumsbroschüre-ist-fertiggestellt-und-online-auf-deutsch-httpbitly1r0/1030954316950804/",
+    "https://www.facebook.com/BayernInternational/photos/der-juni-2026-steht-bei-bayern-international-ganz-im-zeichen-von-aufbruch-intern/1615179333943680/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Bayern International - Bayerische Gesellschaft für Internationale Wirtschaftsbeziehungen mbH note 社長",
+   "results": [
+    "https://www.bayern-international.de/kontakt/unser-team/details/christian-weber",
+    "https://www.bayern-international.de/impressum/",
+    "https://www.companyhouse.de/Bayerische-Gesellschaft-fuer-Internationale-Wirtschaftsbeziehungen-mbH-Bayern-International-Muenchen-2",
+    "https://www.companyhouse.de/en/Bayerische-Gesellschaft-fuer-Internationale-Wirtschaftsbeziehungen-mbH-Bayern-International-Muenchen",
+    "https://www.bayern-international.org/en/about-us-1/promoting-bavaria",
+    "https://www.bayern-international.org/impressum",
+    "https://www.marketscreener.com/insider/MARTINA-MASCHAUER-A1JBDG/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Bayern International - Bayerische Gesellschaft für Internationale Wirtschaftsbeziehungen mbH X 投稿",
+   "results": [
+    "https://www.bayern-international.de/",
+    "https://www.bayernportal.de/dokumente/behoerde/8454278703117",
+    "https://www.bayern-innovativ.de/en/profiles/bayern-international/",
+    "https://www.bayern-innovativ.de/profile/bayern-international/",
+    "https://www.bayern-international.org/en/about-us-1/promoting-bavaria",
+    "https://www.companyhouse.de/en/Bayerische-Gesellschaft-fuer-Internationale-Wirtschaftsbeziehungen-mbH-Bayern-International-Muenchen",
+    "https://www.bayern-international.de/en/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部14頁・検索12回）"
+ }
+}

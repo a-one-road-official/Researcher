@@ -1,0 +1,365 @@
+{
+ "name": "TUM.Additive - Technische Universität München",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜FORMNEXT案件",
+ "researched_at": "2026-11-10T21:35:59.521576+00:00",
+ "official_url": "https://www.mission-networks.tum.de/tumadditive/startseite/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Die additive Fertigung (AM) wird die Art und Weise, wie wir zukünftige Produkte entwerfen, herstellen und personalisieren, grundlegend verändern. Mit TUM.Additive ist es unsere Mission, die Expertise im Bereich der additiven Fertigung an der",
+    "url": "https://www.mission-networks.tum.de/tumadditive/startseite/",
+    "pass": 1
+   },
+   {
+    "quote": "Prof. Dr. Katrin Wudy",
+    "url": "https://www.mission-networks.tum.de/tumadditive/startseite/",
+    "pass": 1
+   },
+   {
+    "quote": "\"With TUM.Additive we can connect all the important AM initiatives across disciplines at TUM, foster visionary approaches in additive manufacturing and educate the AM-experts of tomorrow!\"",
+    "url": "https://www.mission-networks.tum.de/tumadditive/startseite/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "\"TUM.Additive enables us to join scientific efforts, push forward innovations in AM and transfer scientific discoveries into relevant industrial applications!\"",
+    "url": "https://www.mission-networks.tum.de/tumadditive/startseite/",
+    "pass": 1
+   },
+   {
+    "quote": "\"With TUM.Additive we can connect all the important AM initiatives across disciplines at TUM, foster visionary approaches in additive manufacturing and educate the AM-experts of tomorrow!\"",
+    "url": "https://www.mission-networks.tum.de/tumadditive/startseite/",
+    "pass": 1
+   },
+   {
+    "quote": "TUM Oerlikon Advanced Manufacturing Institute",
+    "url": "https://www.mission-networks.tum.de/tumadditive/startseite/",
+    "pass": 1
+   },
+   {
+    "quote": "gegründet, um gemeinsam Advanced Manufacturing Technologien voranzutreiben. Das",
+    "url": "https://www.mission-networks.tum.de/tumadditive/startseite/",
+    "pass": 1
+   },
+   {
+    "quote": "Venture Lab Additive Manufacturing",
+    "url": "https://www.mission-networks.tum.de/tumadditive/startseite/",
+    "pass": 1
+   },
+   {
+    "quote": "entsteht eine Initiative zur Industrialisierung Additiver Fertigungstechnologien.",
+    "url": "https://www.mission-networks.tum.de/tumadditive/startseite/",
+    "pass": 1
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "TUM.Additive’s Post - LinkedIn Navigating Additive Manufacturing lectures at Technische Universität München just got a whole lot easier for students! We are thrilled to announce that our 𝗦𝘁𝘂𝗱𝗲𝗻𝘁 ...",
+    "url": "https://www.linkedin.com/posts/tum-additive_tumadditive-additivemanufacturing-3dprinting-activity-7442102919790948352-N9sB",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.mission-networks.tum.de/tumadditive/startseite/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.mae.ed.tum.de/mat/tumadditive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mae.ed.tum.de/mat/aktuelles/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%BC%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%BC%E3%83%A1%E3%83%B3%E3%82%B9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.msh-systems.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://login.na.logicmanager.com/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.mae.ed.tum.de/en/mat/tumadditive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mae.ed.tum.de/mat/tumadditive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mission-networks.tum.de/tumadditive/startseite/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mae.ed.tum.de/en/mat/tumadditive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mae.ed.tum.de/mat/tumadditive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.livechat.com/blog/best-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.learnworlds.com/blog/market-sell/white-label-courses-to-resell/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://buildfire.com/white-label-app-reseller-platform-comparison/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mae.ed.tum.de/mat/tumadditive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mae.ed.tum.de/en/mat/tumadditive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/tum-additive_tumadditive-additivemanufacturing-3dprinting-activity-7442102919790948352-N9sB",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "TUM.Additive - Technische Universität München 日本 導入",
+   "results": [
+    "https://www.mission-networks.tum.de/tumadditive/startseite/",
+    "https://www.mae.ed.tum.de/mat/tumadditive/",
+    "https://www.mission-networks.tum.de/en/tumadditive/home/",
+    "https://www.mae.ed.tum.de/mat/aktuelles/",
+    "https://mediatum.ub.tum.de/doc/1521311/1521311.pdf",
+    "https://mediatum.ub.tum.de/doc/1521310/1521310.pdf",
+    "https://www.tum.de/aktuelles/alle-meldungen/pressemitteilungen/details/35729"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "TUM.Additive - Technische Universität München 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/シャーウィン・ウィリアムズ",
+    "https://ja.wikipedia.org/wiki/シーメンス",
+    "https://www.msh-systems.com/partners/",
+    "https://login.na.logicmanager.com/",
+    "https://www.ptc.com/ja/About/",
+    "https://www.chemipaz.com/",
+    "https://www.dsm-firmenich.com/ja-jp/home.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "TUM.Additive - Technische Universität München Japan",
+   "results": [
+    "https://www.mission-networks.tum.de/en/tumadditive/home/",
+    "https://www.mae.ed.tum.de/en/mat/tumadditive/",
+    "https://www.mission-networks.tum.de/tumadditive/startseite/",
+    "https://www.mae.ed.tum.de/mat/tumadditive/",
+    "https://www.ed.tum.de/en/ed/news-single-view-start/article/tumadditive-forschung-fuer-die-fertigung-von-morgen/",
+    "https://www.bayern-innovativ.de/en/profiles/tum-cluster-additive-cluster/",
+    "https://www.ed.tum.de/en/ed/news-single-view-start/article/tumadditive-the-technical-university-of-munich-bundles-its-activities-in-the-field-of-additive-manufacturing/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "TUM.Additive - Technische Universität München manufacturing customer case study",
+   "results": [
+    "https://additive.tum.de/",
+    "https://www.mae.ed.tum.de/en/mat/tumadditive/",
+    "https://www.mission-networks.tum.de/en/tumadditive/home/",
+    "https://www.mae.ed.tum.de/mat/tumadditive/",
+    "https://www.tum-venture-labs.de/labs/additive-manufacturing/am-success-stories-micro-factory/",
+    "https://www.ed.tum.de/en/ed/news-single-view-start/article/tumadditive-forschung-fuer-die-fertigung-von-morgen/",
+    "https://www.ed.tum.de/en/ed/news-single-view-start/article/tumadditive-the-technical-university-of-munich-bundles-its-activities-in-the-field-of-additive-manufacturing/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "TUM.Additive - Technische Universität München white label OR reseller OR partner program",
+   "results": [
+    "https://partners.livechat.com/blog/best-reseller-programs/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://www.learnworlds.com/blog/market-sell/white-label-courses-to-resell/",
+    "https://buildfire.com/white-label-app-reseller-platform-comparison/",
+    "https://www.introw.com/blog/value-added-reseller",
+    "https://www.google.com/",
+    "https://wa.me/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "TUM.Additive - Technische Universität München founded funding employees revenue",
+   "results": [
+    "https://www.mission-networks.tum.de/tumadditive/startseite/",
+    "https://www.mission-networks.tum.de/en/tumadditive/home/",
+    "https://www.mae.ed.tum.de/mat/tumadditive/",
+    "https://www.mae.ed.tum.de/en/mat/tumadditive/",
+    "https://www.ed.tum.de/en/ed/news-single-view-start/article/tumadditive-forschung-fuer-die-fertigung-von-morgen/",
+    "https://www.linkedin.com/company/tum-additive",
+    "https://www.tum.de/aktuelles/alle-meldungen/pressemitteilungen/details/35729"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com TUM.Additive - Technische Universität München",
+   "results": [
+    "https://note.com/shino7781/n/n39c79a4e0f5b",
+    "https://note.com/gyuho_list/n/n04140baf9ad8",
+    "https://note.com/underground_ceo/n/n2c3eedc59371",
+    "https://note.com/nobukume/n/n7ebd4f0e96a3",
+    "https://note.com/chiku_fuku/n/n70add82acbbc",
+    "https://note.com/shi3zblog/n/ncb38d2978074",
+    "https://note.com/nashinokiyuu/n/n9d32157450b0"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com TUM.Additive - Technische Universität München",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com TUM.Additive - Technische Universität München",
+   "results": [
+    "https://www.linkedin.com/company/tum-additive",
+    "https://www.linkedin.com/posts/tum-additive_tumadditive-additivemanufacturing-3dprinting-activity-7442102919790948352-N9sB",
+    "https://de.linkedin.com/in/simonbauer19",
+    "https://de.linkedin.com/in/felix-riegger-5b144a1a3",
+    "https://uk.linkedin.com/in/thomas-schwarzfischer/de",
+    "https://th.linkedin.com/in/pathompong-topisit/de",
+    "https://sg.linkedin.com/in/junxiongluo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com TUM.Additive - Technische Universität München",
+   "results": [
+    "https://www.facebook.com/TU.Muenchen/posts/neu-vereinbarte-forschungskooperation-für-additive-fertigung-an-unserem-campus-g/10155748472759325/",
+    "https://www.facebook.com/TU.Muenchen/",
+    "https://www.facebook.com/technischeuniversitaetmuenchen/",
+    "https://www.facebook.com/TU.Muenchen/videos/966258153994888/",
+    "https://www.facebook.com/groups/5721630177/",
+    "https://www.facebook.com/p/TUM-Technische-Universität-München-100039489195818/",
+    "https://www.facebook.com/TUMunchenInternationalAdvice/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "TUM.Additive - Technische Universität München note 社長",
+   "results": [
+    "https://www.mission-networks.tum.de/tumadditive/startseite/",
+    "https://www.mission-networks.tum.de/tumadditive/team/",
+    "https://www.mission-networks.tum.de/en/tumadditive/home/",
+    "https://www.mae.ed.tum.de/en/mat/tumadditive/",
+    "https://mediatum.ub.tum.de/doc/1521311/1521311.pdf",
+    "https://www.mae.ed.tum.de/mat/tumadditive/",
+    "https://mediatum.ub.tum.de/doc/1521310/1521310.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "TUM.Additive - Technische Universität München X 投稿",
+   "results": [
+    "https://additive.tum.de/",
+    "https://x.com/TU_Muenchen",
+    "https://www.mission-networks.tum.de/en/tumadditive/home/",
+    "https://www.mae.ed.tum.de/mat/tumadditive/",
+    "https://www.mae.ed.tum.de/en/mat/tumadditive/",
+    "https://www.mae.ed.tum.de/mat/startseite/",
+    "https://www.tum.de/aktuelles/alle-meldungen/pressemitteilungen/details/35729"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索12回）"
+ }
+}

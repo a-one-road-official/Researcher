@@ -3811,8 +3811,8 @@
   - 「‘, for example, or, in the wake of the collapse of Carillion」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
   - 「, for example, highlight (in a」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
   - 「, for example, includes a whole ‘」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
-- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説（survey year vs reference year statistics pitfalls Japan census）
 - 文脈：一次情報の探し方
@@ -10764,11 +10764,11 @@
 
 ## 要約・翻訳の段で1件の事例が「複数」「相次ぐ」に広がる誇張と日付の混同を原文照合で見つける手順（別のモデル・人での照合）-求人 -就活（detect overgeneralization single case to multiple in summaries date confusion verify against original text）
 - 文脈：検証
-- 手順・やり方：記載なし（読んだ6頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ6頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ6頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ6頁・検索12回）
-- 実例：記載なし（読んだ6頁・検索12回）
+- 手順・やり方：記載なし（読んだ15頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
+- 実例：記載なし（読んだ15頁・検索12回）
 
 ## 決算公告を公告の方法（官報・日刊新聞・電子公告）から探す手順と、電子公告の掲載期間・官報だけの検索の網羅の穴（登記の公告をする方法の欄を先に見る）-求人 -就活（find company financial statement public notice by publication method electronic public notice Japan coverage gap）
 - 文脈：method
@@ -13830,6 +13830,8 @@
 ## 事業所・企業の調査の欠けを埋める順（大きい先の追跡→行政記録の直接の値→モデルの推計）と、早く答えた先と遅く答えた先の比較で非回答の向きを見る実務（統計局・センサス局・調査方法の書き手）（business survey nonresponse follow-up large units administrative data substitution early late respondents comparison）
 - 文脈：検証
 - 手順・やり方：
+  - 「There are many ways to deal with item non-response, with case deletion and mean replacement being the most popular. Due to researchers’ familiarity with item non-response, the remainder of this paper focuses on the less talked about subject of unit non-response bias. Our next steps are to measure and then adjust for any bias in the data.」（https://www.greenbook.org/marketing-research/non-response-bias）
+  - 「The above methods give the researcher a sense of whether bias exists, but do not provide a way to deal with it. The following procedures both measure and adjust for non-response bias.」（https://www.greenbook.org/marketing-research/non-response-bias）
   - 「implemented in the U.S. Census Bureau Standard Economic Processing System (StEPS)」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
   - 「(see Ahmed and Tasky 2000 for more details on StEPS). The release of these metrics was」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
   - 「1 Ofﬁce of Statistical Methods and Research for Economic Programs, U.S. Census Bureau, Washington, DC」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
@@ -13843,8 +13845,6 @@
   - 「More details concerning the ACES survey design, methodology, and data limitations are」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
   - 「receipts for selected service sectors. Standard errors are computed using the method of」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
   - 「than-expected value. Thus, a logical next step is to compute response rates by selected」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「Assembling S is more involved. For example, programs can use replication methods or」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「Taylor linearization methods to obtain point estimates of the variance and autocovariance」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
 - 突き合わせ・推定：
   - 「key estimate reported by responding units or obtained from equivalent quality sources」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
   - 「key estimates reported by responding units or obtained from equivalent quality sources」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
@@ -13868,6 +13868,14 @@
   - 「http://www.whitehouse.gov/omb/assets/omb/inforeg/pmc_survey_guidance_2006.pdf」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
   - 「http://www.census.gov/retail/mrts/www/benchmark/2010/pdf/Explanatory_Material.」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
 - 失敗・落とし穴：
+  - 「Non-Response Bias In Survey Sampling — Greenbook」（https://www.greenbook.org/marketing-research/non-response-bias）
+  - 「Non-Response Bias In Survey Sampling」（https://www.greenbook.org/marketing-research/non-response-bias）
+  - 「Market research accounts for many scenarios to ensure high quality of data. One of the most overlooked problems is non-response bias. TRC describes ways to reduce its effects through survey design and data adjustment in this white paper.」（https://www.greenbook.org/marketing-research/non-response-bias）
+  - 「There are many ways to deal with item non-response, with case deletion and mean replacement being the most popular. Due to researchers’ familiarity with item non-response, the remainder of this paper focuses on the less talked about subject of unit non-response bias. Our next steps are to measure and then adjust for any bias in the data.」（https://www.greenbook.org/marketing-research/non-response-bias）
+  - 「Identifying Unit Non-Response Bias」（https://www.greenbook.org/marketing-research/non-response-bias）
+  - 「Using Known Database Variables to Identify Bias」（https://www.greenbook.org/marketing-research/non-response-bias）
+  - 「Adjusting for Unit Non-Response Bias」（https://www.greenbook.org/marketing-research/non-response-bias）
+  - 「The above methods give the researcher a sense of whether bias exists, but do not provide a way to deal with it. The following procedures both measure and adjust for non-response bias.」（https://www.greenbook.org/marketing-research/non-response-bias）
   - 「Miriam Rosenthal, and Justin Z. Smith in the cited nonresponse bias studies. This report is released to inform」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
   - 「collection, data review), or of the potential level of nonresponse bias (Peytcheva and」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
   - 「Both numerator and denominator cases are weighted by “unbiased” weights, which」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
@@ -13875,15 +13883,8 @@
   - 「context of a nonresponse bias analysis study.」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
   - 「Many programs will also conduct nonresponse bias analyses, which at a minimum」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
   - 「selected programs on a case-by-case basis usually as a part of a nonresponse bias analysis.」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「Lineback, J.F. and Thompson, K.J. (2010). Conducting Nonresponse Bias Analysis for」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「Demographic Subgroups as Evidence of Nonresponse Bias in Survey Estimates. Journal」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「Rosenthal, M. and Davie, J. (2008). Nonresponse Bias Analysis for the Quarterly Services」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「Smith, J.Z. and Thompson, K.J. (2009). Nonresponse Bias Study for the Annual Capital」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「Conducting Nonresponse Bias Analysis for Business」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
-  - 「bias analysis when response rates fail to m eet target values. The literature focuses」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
-  - 「largely on nonresponse bias analysis methods for demographic surveys. Such surveys」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
-  - 「designs with highly skewed populations. This paper examines nonresponse bias analysis」（http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf）
 - 実例：
+  - 「There are many ways to deal with item non-response, with case deletion and mean replacement being the most popular. Due to researchers’ familiarity with item non-response, the remainder of this paper focuses on the less talked about subject of unit non-response bias. Our next steps are to measure and then adjust for any bias in the data.」（https://www.greenbook.org/marketing-research/non-response-bias）
   - 「perspective for monitoring them. We illustrate this approach with examples from ongoing」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
   - 「that is unusual and in many cases unexpected. Moreover, control charts are useful because」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
   - 「they show what a process is capable of – for example, providing evidence that a given」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
@@ -13898,7 +13899,6 @@
   - 「quality. Consider the ﬁctional business survey example presented below in Figures 1 and 2.」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
   - 「four certainty cases. The URR is approximately 87% (26/30), but the TQRR value is」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
   - 「nonresponding cases contribute very little to the total tabulation so that the TQRR value」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
-  - 「is approximately 93%. These examples demonstrate how the more consistent measures」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
 
 ## 加工統計・推計値の再現性（加工方法の公表・第三者が作り直せるか）と、物価指数・基準年の違う実質系列をつなぐときの注意（統計の利用者・エコノミストの書き手）（reproducibility of derived statistics deflator base year linking real series pitfalls）
 - 文脈：検証
@@ -16226,71 +16226,85 @@
 ## 統計の不適切事案・訂正の検証報告から学ぶ点検（影響の期間・遡及の有無・公表されなかった方法の変更）（official statistics error investigation report revision affected period lessons）
 - 文脈：統計の読み方
 - 手順・やり方：
-  - 「昨年大型特殊自動車の不適切な分解整備が判明しましたが、不適切行為が限定的であることを」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「3.3. 品質管理の自主点検の実施方法、実施結果の検証結果 ・・・・・・・・・・・・・・・・・・・・・・・・8」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「3.4. 品質管理の総点検の実施方法、実施結果の検証結果 ・・・・・・・・・・・・・・・・・・・・・・・・・・8」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「4.1. 各事案の妥当性検証の方法・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・9」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「5.1. 調査・確認方法・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・11」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「8.1. 再発防止策についての検討方法・・・・・・・・ ・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・18」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「建機販売における大型特殊自動車の 不適切な分解整備について ・・・・・・・・ ・・・・・・・1」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「ナコ販売における大型特殊自動車の 不適切な 分解整備について ・・・・・・・・・・・・・・・7」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「ＳＨＩ－ＧＢにおける大型減速機の 不適切な検査について ・・・・・・・・・・・・・・・・・・・・・・ 23」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「型特殊自動車の不適切な分解整備や不適切な特定自主検査などのコンプライアンス問題」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「総点検の結果、上記の大型特殊自動車の不適切な分解整備や不適切」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「大型特殊自動車の 不適切な分解整備や不適切な 特定自主検査などの コンプライアンス」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「■建機販売（大型特殊自動車の不適切な分解整備、不適切な特定自主検査）」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「■ナコ販売（大型特殊自動車の不適切な分解整備、不適切な特定自主検査）」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「■ＳＨＩ－ＧＢ（大型減速機の不適切な検査）」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「告書（5 月 13 日取りまとめ）で決定された方法に基づき、建設工事受注動態統計調査及び」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「て決定された方法に基づいて、以下の期間における建設工事受注動態統計調査及び建設」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「た方法に基づいて遡及改定を行い、推計値を算出しました※注１」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「問題発見時の対応方法の明確化及び問題の発見と解決を奨励する風土の形成」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「推計方法の見直し過程で、集計実務を担当する係長以下と、推計方法を」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「集計方法を含めた業務マニュアルの作成がされていれば、当該マニュアル」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「［問題発見時の対応方法の明確化及び問題の発見と解決を奨励する風土の」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「事後対応が不適切となった背景には、問題発見時の対応方法が不明確で」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「ることから、これをなくし問題発見時の対応方法を事前に定め明確化すべき」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「計算方法の誤り、③完成予定年月の書き換え、④公文書管理の不徹底の問題点」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「具体的には、調査対象となる建築物の選定方法について、これまで都道府県が」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「着工統計調査等の情報から抽出する方法に変更し、令和３年１月以降、国が直接」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「各統計の目的・意義、各調査項目の定義、集計・推計方法、回収率等の統」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「・ 統計は様々な誤差要因を含み得るものであることを踏まえ、 適切な利用方法に関する情」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「【特性１】 性格の異なる多くのステップから形成され、 各ステップに様々な立場の者が携わ」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
 - 突き合わせ・推定：
-  - 「会においても原因究明、再発防止策について改めて妥当性検証を行い、その結果に基づいて追加すべき」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「いて調査委員会において妥当性の検証を行い、その結果を調査報告書の別紙にまとめました」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「いて改めて妥当性検証を行い、その結果に基づいてまとめた各社ごとの再発防止策と、上記Ⅱの住」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「するとともに再発防止策を策定し調査委員会による検証を受けております」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「2.6.1 過去のリスク対応状況の検証・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ ・6」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「妥当性検証と各事業部門に対する提言・・・・・・・・・・・・・・・・・・・・・・・・・・・・ ・・・・6」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「3. 過去のリスク対応状況の検証結果・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ ・・・7」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「3.1. リスク発覚・把握に対する対応状況の検証結果 ・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・7」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「3.2. 品質管理に関する全社ガバナンス状況の検証結果・・・・・・・・・・・・・・・・・・・・・・・・・・・・7」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「3.3. 品質管理の自主点検の実施方法、実施結果の検証結果 ・・・・・・・・・・・・・・・・・・・・・・・・8」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「3.4. 品質管理の総点検の実施方法、実施結果の検証結果 ・・・・・・・・・・・・・・・・・・・・・・・・・・8」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「3.5. コンプライアンス系業務リスクに対する本社ガバナンス状況の検証結果 ・・・・・・・・・・・・ 8」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「4. 各事案の事業部門が行った事実関係調査、原因究明、再発防止策の妥当性検証」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「4.1. 各事案の妥当性検証の方法・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・9」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「② 上記①を踏まえての 当社グループとしての原因究明と再発防止策の 妥当性検証と調」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「再発防止策検討・国土交通省所管統計検証タスクフォース」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「建設総合統計の推計値を算出し、その数値を政府統計の総合窓口「e-Stat」に公表しまし」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「なお、推計値の算出過程における過去データの精査」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「た方法に基づいて遡及改定を行い、推計値を算出しました※注１」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「第２章 検証委員会報告書等による指摘事項」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「第２章 検証委員会報告書等による指摘事項等 ...................................................... 4」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「１． 検証委員会報告書 ................................................................................... 4」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「土交通省 所管統計検証タスクフォース構成員」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「管統計検証タスクフォース」（令和４年１月２０日設置）において、以下のとおり顧問」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「・ 再発防止策検討及び所管統計の検証について」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「・ 追加調査、所管統計の点検検証、再発防止策の検討の進捗状況」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「この際、検証委員会報告書（令和４年１月 14 日に「建設工事受注動態統計調」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「査の不適切処理に係る検証委員会」（以下「検証委員会」という」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「に合わせて所管統計の点検及び検証を行ったほか、総務省統計委員会が取りまと」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「第２章 検証委員会報告書等による指摘事項等」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
 - 一次情報の探し方：
-  - 「品質状況の共有、品質問題の解決、品質リスクの低減、開発プロセスの改善、統計的仕損の」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「スクの低減、開発プロセスの改善、統計的仕損の削減に向けての品質管理力強化・改善」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「3.5. 不適切行為に関係する法令、公的規格等」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「不適合品の再検査、特別採用、廃棄（仕損）等の処置ルールを定め、運用徹底を図る」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「3.6. 不適切行為に関係する法令、公的規格等」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「国交省の統計書き換え問題 - Wikipedia」（https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C）
-  - 「建設工事受注動態統計調査の不適切処理に係る検証委員会の報告」（https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C）
-  - 「1956年(昭和31年)4月から旧統計法（昭和22年法律第18号）第2条に基づく指定統計である建設工事統計（指定統計第84号）を作成するための指定統計調査として」（https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C）
-  - 「"建設工事着工統計調査（公共工事・民間土木工事）"は開始された」（https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C）
-  - 「1960年(昭和35年)4月には、建設工事着工統計調査は、公共工事着工統計調査と民間土木工事着工統計調査に分割された」（https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C）
-  - 「2000年(平成12年)4月に、従来の「公共工事着工統計調査」、「民間土木工事着工調査」及び「建設工事受注調査」の3統計を再編・統合し、"建設工事受注動態統計調査"」（https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C）
-  - 「2007年(平成19年)5月23日、旧統計法を全面改正した新」（https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C）
-  - 「2009年(平成21年)4月1日から、新統計法が全面」（https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C）
-  - 「以降、建設工事受注動態統計調査は、」（https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C）
-  - 「建設活動を総合的に把握することを目的に、建築着工統計調査と建設工事受注動態統計調査をもとに」（https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C）
+  - 「第６回 建設工事受注動態統計調査の不適切処理に係る」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「再発防止策検討・国土交通省所管統計検証タスクフォース」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「（１）建設工事受注動態統計調査の遡及改定の結果について」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「（２）「国土交通省統計改革プラン」（案）について」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「資料 2 国土交通省統計改革プラン～開かれ、使われ、改善し続ける統計へ～(案)」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「参考資料 公的統計の総合的品質向上に向けて（建議）概要（総務省統計委員会）」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「建設工事受注動態統計調査の不適切処理に係る遡及改定について」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「今般、「建設工事受注動態統計調査の不適切処理に係る遡及改定に関する検討会議」の報」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「告書（5 月 13 日取りまとめ）で決定された方法に基づき、建設工事受注動態統計調査及び」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「建設総合統計の推計値を算出し、その数値を政府統計の総合窓口「e-Stat」に公表しまし」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「「建設工事受注動態統計調査の不適切処理に係る遡及改定に関する検討会議」におい」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「て決定された方法に基づいて、以下の期間における建設工事受注動態統計調査及び建設」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「訂正した数値は、政府統計の総合窓口「e-Stat」に掲載しています」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「・建設工事受注動態統計調査（e-Stat）」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「※令和 4年 4 月分及び同年 5 月分の建設工事受注動態統計調査については、遡及改定の対象ではあ」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
 - 失敗・落とし穴：
-  - 「しては、経営品質本部が品質保証部長会において注意喚起を行うとともに、内部統制本部に」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「で見つかった誤りについても併せて訂正を行いました」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「※注１：以下の誤りについて、併せて訂正を行っています」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「・ 令和３年４月分の下請け受注高における事業者からの報告誤り」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「● 誤り発見のチェック及び「対応ルール」の徹底【R４～ 】」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「計算方法の誤り、③完成予定年月の書き換え、④公文書管理の不徹底の問題点」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「対応ルールの不徹底等により、誤りが発見されず、発見後も是正が直ちに行わ」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「れなかったうえ、誤りが発見された後にも、その事実を公表しなかった」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「また、オープン化によって衆目によるチェック・気付きを集めることは、統計の誤り」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「誤りを早期に発見するためのチェック手法を徹底するとともに、誤りに関する」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「疑義及び誤りを発見した場合には、令和２年９月策定の「公表数値の誤りに」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「関する疑義及び誤り発見後の対応について」に則って対応するよう、改めて」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「統計改善プラットフォームは、誤りの疑義についての相談窓口機能を担うも」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「統計専門家の参画を得て、「統計品質改善会議」を設置し、統計の誤り・そ」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「誤りの未然防止やデータの保存管理の効率性の観点からも、積極的に統計業」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「５ 誤りの発見・発生時の適切対処の徹底」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
 - 実例：
-  - 「会においても原因究明、再発防止策について改めて妥当性検証を行い、その結果に基づいて追加すべき」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「いて調査委員会において妥当性の検証を行い、その結果を調査報告書の別紙にまとめました」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「いて改めて妥当性検証を行い、その結果に基づいてまとめた各社ごとの再発防止策と、上記Ⅱの住」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「3. 過去のリスク対応状況の検証結果・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ ・・・7」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「3.1. リスク発覚・把握に対する対応状況の検証結果 ・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・7」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「3.2. 品質管理に関する全社ガバナンス状況の検証結果・・・・・・・・・・・・・・・・・・・・・・・・・・・・7」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「3.3. 品質管理の自主点検の実施方法、実施結果の検証結果 ・・・・・・・・・・・・・・・・・・・・・・・・8」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「3.4. 品質管理の総点検の実施方法、実施結果の検証結果 ・・・・・・・・・・・・・・・・・・・・・・・・・・8」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「3.5. コンプライアンス系業務リスクに対する本社ガバナンス状況の検証結果 ・・・・・・・・・・・・ 8」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「5.2. 調査・確認結果・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・11」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「トールゲート 例えば、製品の企画、基本設計、詳細設計等を経て、市場投入までの」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「結果を記載した検査記録又はその検査・測定データ」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「総点検の結果、上記の大型特殊自動車の不適切な分解整備や不適切」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「調査を行ってきたので、この調査結果を以下のとおり報告する」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
-  - 「総点検の結果、前述のとおり、5 事業部門における不適切行為が発覚したことを踏まえて、」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「（１）建設工事受注動態統計調査の遡及改定の結果について」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「資料 1 遡及改定の結果（概要）」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「１．結果の概要」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「第３章 所管統計の点検結果概要」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「第３章 所管統計の点検結果概要 ......................................................................... 8」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「（５）内閣府から依頼があった基幹統計調査の文書管理に関する点検結果 ........... 9」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「・ 建設工事受注動態統計調査の遡及改定の結果について」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「等、公文書管理法の規定が遵守されていない事例が認められた」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「これらを受け、国土交通省所管の９つの基幹統計について点検を行った結果の」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「（５）内閣府から依頼があった基幹統計調査の文書管理に関する点検結果」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「物量（移入量）に、差異が生じているケースがある」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「物量の合計はほぼ合致しているが、例えば、Ａ港からＢ港に到着するまでの」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「今般の一連の不適切処理事案の原因と、所管統計の点検結果をもとに、国土」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「状況を把握し、共通課題の解決や好事例の横展開をする等、横断的に改善を」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
+  - 「総務省は、点検・診断結果も踏まえ、 「統計作成ガイドブック」を策定」（https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752039.pdf）
 
 ## 掲載された年率・CAGRの算出方法の確かめ方（端点の複利・平均・回帰・期間の区切り）（how to verify reported CAGR annual growth rate calculation method endpoints）
 - 文脈：数字の点検

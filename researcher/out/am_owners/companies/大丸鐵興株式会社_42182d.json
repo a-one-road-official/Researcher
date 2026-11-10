@@ -1,0 +1,1124 @@
+{
+ "name": "大丸鐵興株式会社",
+ "aliases": [],
+ "context": "PBF=unknown 装置= 出典=https://mono.ipros.com/cg1/造形サービス/",
+ "researched_at": "2026-11-10T20:39:40.217286+00:00",
+ "official_url": "https://www.daimaru-tekko.co.jp/",
+ "identified_by": "search:yahoo_jp:大丸鐵興",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒306-0432　茨城県猿島郡境町下小橋867-8 TEL：0280-87-8611(代) FAX：0280-87-8617",
+    "url": "https://www.daimaru-tekko.co.jp/corporation/company/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "日本 茨城県 猿島郡境町 [地図を見る] 担当者 太田 吉彦",
+    "url": "https://ja.nc-net.or.jp/company/104601/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "〒306-0432 茨城県猿島郡境町下小橋867-8　webサイト：https://www.daimaru-tekko.co.jp/",
+    "url": "https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_03/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "茨城県猿島郡境町下小橋867-8",
+    "url": "https://activation-service.jp/iso/interview/interview15",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "： 〒306-0432 茨城県猿島郡境町下小橋８６７－８",
+    "url": "https://www.iis-net.or.jp/e-info/kigyou/show?id=9075",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1967年2月25日",
+    "url": "https://www.daimaru-tekko.co.jp/corporation/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1967年2月",
+    "url": "https://activation-service.jp/iso/interview/interview15",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：： 昭和42年02月",
+    "url": "https://www.iis-net.or.jp/e-info/kigyou/show?id=9075",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "70,000,000円",
+    "url": "https://www.daimaru-tekko.co.jp/corporation/company/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "7,000 万円 社員数 87人",
+    "url": "https://ja.nc-net.or.jp/company/104601/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "7000万円",
+    "url": "https://activation-service.jp/iso/interview/interview15",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "： 70,000千円",
+    "url": "https://www.iis-net.or.jp/e-info/kigyou/show?id=9075",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "87名",
+    "url": "https://www.daimaru-tekko.co.jp/corporation/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員",
+    "value": "： 87名",
+    "url": "https://www.iis-net.or.jp/e-info/kigyou/show?id=9075",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "： 1.鋼板の大型一貫加工・プレスシャー・溶接組立 2.大型特装車部材製作 3.輸送機・建設機械部材製作 4.立体駐車場部材製作 5.橋梁部材加工，土木・建設部材製作 6.自社ブランドＳＵＳタンク製造 7.ＳＵＳ製バイオディーゼル精製機（ハード部）製造 8.３次元金属積層",
+    "url": "https://www.iis-net.or.jp/e-info/kigyou/show?id=9075",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "用途・客の産業": [
+   {
+    "quote": "国際宇宙産業展ISIEX 2026に出展しました",
+    "url": "https://www.daimaru-tekko.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "受託造形サービスでは立ち合いによる造形（条件出し）も可能です",
+    "url": "https://www.daimaru-tekko.co.jp/facility/metal-3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "国際宇宙産業展ISIEX 2026に出展しました",
+    "url": "https://www.daimaru-tekko.co.jp/news-release/",
+    "pass": 1
+   },
+   {
+    "quote": "量産はもちろん、多品種少量生産にも対応可能で、生産性と汎用性を兼ね備えた一台です",
+    "url": "https://www.daimaru-tekko.co.jp/facility/five-face-processing-machine/",
+    "pass": 1
+   },
+   {
+    "quote": "高速加工によりリードタイムを短縮し、試作・量産を問わず高品質な製品をお届けします",
+    "url": "https://www.daimaru-tekko.co.jp/facility/laser-ml3015gx/",
+    "pass": 1
+   },
+   {
+    "quote": "3次元金属積層 受託造形サービス（立ち合い造形可能）",
+    "url": "https://mono.ipros.com/company/detail/2076765/",
+    "pass": 3
+   },
+   {
+    "quote": "【試作・共同開発】3次元金属積層造形 DED方式",
+    "url": "https://mono.ipros.com/company/detail/2076765/",
+    "pass": 3
+   },
+   {
+    "quote": "金属３Dプリンター 受託造形サービス（立ち合い造形可能）",
+    "url": "https://ja.nc-net.or.jp/company/104601/",
+    "pass": 3
+   },
+   {
+    "quote": "（ 試作開発・少量生産 / ＮＣ機械加工 ）",
+    "url": "https://ja.nc-net.or.jp/company/104601/",
+    "pass": 3
+   },
+   {
+    "quote": "★金属３Dプリンター 受託造形サービス（立ち合い造形可能）",
+    "url": "https://ja.nc-net.or.jp/company/104601/",
+    "pass": 3
+   },
+   {
+    "quote": "肉盛り試験や試作品製作を繰り返しながら、積層造形技術の習得に取り組みました",
+    "url": "https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_03/",
+    "pass": 3
+   },
+   {
+    "quote": "現在では、自動車メーカーや重工業メーカー、建機メーカー、材料メーカーなど幅広い業界との取引を実現",
+    "url": "https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_03/",
+    "pass": 3
+   },
+   {
+    "quote": "条件出しや試験片製作、量産体制構築まで、実際の運用ノウハウを共有しながら立ち上げを支援します",
+    "url": "https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_03/",
+    "pass": 3
+   },
+   {
+    "quote": "造形能力を強化することで、より大型かつ高付加価値な案件への対応を進めるとともに、宇宙分野や自社製品開発への展開も視野に入れています",
+    "url": "https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_03/",
+    "pass": 3
+   },
+   {
+    "quote": "積層と切削を1台で完結するハイブリッド仕様をはじめ、難易度の高い「銅」の積層技術、職人の技能差に左右されない金型の精密な肉盛り補修による長寿命化の実績を解説します",
+    "url": "https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_03/",
+    "pass": 3
+   },
+   {
+    "quote": "金型補修や試作品などの一品もの加工を通じて独自の強みを磨き、5年・10年後の新たな成長領域の開拓を狙います",
+    "url": "https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_03/",
+    "pass": 3
+   },
+   {
+    "quote": "【AI×半導体の次世代技術：光電融合のポテンシャル】光電融合とは何か？／消費電力が激減／先行するNVIDIA、ブロードコム／異質なNTT /基盤、コネクターなど日本勢の勝ち筋／フィジカルAIとの関係",
+    "url": "https://www.youtube.com/watch?v=ttcYkpCbqG4",
+    "pass": 3
+   },
+   {
+    "quote": "⑤立花エレテック（近畿高エネルギー加工技術研究所）",
+    "url": "https://www.youtube.com/watch?v=ttcYkpCbqG4",
+    "pass": 3
+   },
+   {
+    "quote": "今後の展望（大型機種「LAMDA500」の導入、宇宙分野へ）",
+    "url": "https://www.youtube.com/watch?v=ttcYkpCbqG4",
+    "pass": 3
+   },
+   {
+    "quote": "本動画では、現在では自動車・重工業・建機・材料メーカーなど20社以上の新規顧客を開拓するまでに成長した同社のリアルな歩みと、金属3Dプリンター導入企業向けの立ち上げ支援サービス「DSIT'S」（受け入れ研修、立ち上げ伴走、ISO・生産性向上支援）について詳しくご紹介します",
+    "url": "https://www.youtube.com/watch?v=ttcYkpCbqG4",
+    "pass": 3
+   }
+  ],
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "金属3Dプリンター",
+    "url": "https://www.daimaru-tekko.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンター",
+    "url": "https://www.daimaru-tekko.co.jp/facility/3d-printer.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンター",
+    "url": "https://www.daimaru-tekko.co.jp/facility/fdm-3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンター",
+    "url": "https://www.daimaru-tekko.co.jp/news-release/",
+    "pass": 1
+   },
+   {
+    "quote": "二次元ファイバーレーザ加工機「ML3015GX-F80」を導入しました",
+    "url": "https://www.daimaru-tekko.co.jp/news-release/",
+    "pass": 1
+   },
+   {
+    "quote": "横中ぐりフライス盤 KBT-15B.A導入",
+    "url": "https://www.daimaru-tekko.co.jp/news-release/",
+    "pass": 1
+   },
+   {
+    "quote": "門型五面加工機 MVR30-Hx導入",
+    "url": "https://www.daimaru-tekko.co.jp/news-release/",
+    "pass": 1
+   },
+   {
+    "quote": "3次元金属AM機（LAMDA200）導入",
+    "url": "https://www.daimaru-tekko.co.jp/news-release/",
+    "pass": 1
+   },
+   {
+    "quote": "門型五面加工機 MVR35-Ex 導入",
+    "url": "https://www.daimaru-tekko.co.jp/news-release/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンター",
+    "url": "https://www.daimaru-tekko.co.jp/facility/twin-2500t-press/",
+    "pass": 1
+   },
+   {
+    "quote": "[ 1号機仕様明細 ]",
+    "url": "https://www.daimaru-tekko.co.jp/facility/twin-2500t-press/",
+    "pass": 1
+   },
+   {
+    "quote": "[ 2号機仕様明細 ]",
+    "url": "https://www.daimaru-tekko.co.jp/facility/twin-2500t-press/",
+    "pass": 1
+   },
+   {
+    "quote": "門型五面加工機を3台保有し、大型製品や複雑形状部品の加工に対応可能な",
+    "url": "https://www.daimaru-tekko.co.jp/facility/five-face-processing-machine/",
+    "pass": 1
+   },
+   {
+    "quote": "「ML3015GX-F80」を導入しました",
+    "url": "https://www.daimaru-tekko.co.jp/facility/laser-ml3015gx/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンター",
+    "url": "https://www.daimaru-tekko.co.jp/corporation/",
+    "pass": 1
+   },
+   {
+    "quote": "【試作・共同開発】3次元金属積層造形 DED方式",
+    "url": "https://mono.ipros.com/company/detail/2076765/",
+    "pass": 3
+   },
+   {
+    "quote": "【３次元金属積層】（金属3Dプリンター）",
+    "url": "https://ja.nc-net.or.jp/company/104601/",
+    "pass": 3
+   },
+   {
+    "quote": "5,000㌧プレス、2連式2,500㌧プレスブレーキ、1,250㌧プレスブレーキなど大物加工用の設備を保有しており",
+    "url": "https://ja.nc-net.or.jp/company/104601/",
+    "pass": 3
+   },
+   {
+    "quote": "アーク溶接機：9台、半自動溶接機：50台、ロボット溶接機：3台など溶接機を多数保有しており",
+    "url": "https://ja.nc-net.or.jp/company/104601/",
+    "pass": 3
+   },
+   {
+    "quote": "新規購入者に対し、導入からISO取得まで、",
+    "url": "https://ja.nc-net.or.jp/company/104601/",
+    "pass": 3
+   },
+   {
+    "quote": "「面白いことに挑戦する」決断が切り拓いた金属3Dプリンター事業 | 工作機械 | ニデック株式会社 - NIDEC CORPORATION",
+    "url": "https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_03/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、同社がパウダDED方式3次元金属積層造形機「LAMDA」を活用して展開する積層造形受託事業の取り組みや活用事例、今後の展望についてご紹介します",
+    "url": "https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_03/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年からはニデックマシンツール製の門形マシニングセンタ「MVR」を順次導入し（現在3台稼働）、プレスから機械加工までを社内で一貫して行う体制を確立していました",
+    "url": "https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_03/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター導入の背景には、需要減少が見込まれる既存事業への強い危機感がありました",
+    "url": "https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_03/",
+    "pass": 3
+   },
+   {
+    "quote": "導入当初は「パウダーベッド方式とDED方式の違いすら分からない」という、文字通りのゼロスタートでした",
+    "url": "https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_03/",
+    "pass": 3
+   },
+   {
+    "quote": "事業化までの道のりは決して平坦ではなく、導入後約2年間は受注獲得に苦戦",
+    "url": "https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_03/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターで造形した部品は、そのままで製品として完成するわけではなく、後工程として切削加工が必要となるケースが少なくありません",
+    "url": "https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_03/",
+    "pass": 3
+   },
+   {
+    "quote": "導入から3年で20社以上の新規顧客を開拓",
+    "url": "https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_03/",
+    "pass": 3
+   },
+   {
+    "quote": "大丸鐵興株式会社様のもう一つの特徴が、金属3Dプリンター導入企業向けの立ち上げ支援サービス「DSIT'S」です",
+    "url": "https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_03/",
+    "pass": 3
+   },
+   {
+    "quote": "同社自身がゼロからAM事業を立ち上げた経験を持つからこそ、導入企業が直面する課題を熟知しています",
+    "url": "https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_03/",
+    "pass": 3
+   },
+   {
+    "quote": "機械納入までの期間を活用し、導入企業の担当者が大丸鐵興株式会社様の工場で実機研修を受講",
+    "url": "https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_03/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした支援により、導入企業はリスクを抑えながら早期に事業化を進めることが可能になります",
+    "url": "https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_03/",
+    "pass": 3
+   },
+   {
+    "quote": "大丸鐵興株式会社様では、さらなる事業拡大に向けて、大型機種「LAMDA500」の導入を決定しています",
+    "url": "https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_03/",
+    "pass": 3
+   },
+   {
+    "quote": "また、人材採用においても金属3Dプリンター事業を前面に打ち出し、次世代を担う技術者の育成を推進しています",
+    "url": "https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_03/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターは単なる設備導入ではなく、新たな市場や人材、そして事業機会を生み出す可能性を秘めています",
+    "url": "https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_03/",
+    "pass": 3
+   },
+   {
+    "quote": "パウダDED方式3次元金属積層造形機",
+    "url": "https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_03/",
+    "pass": 3
+   },
+   {
+    "quote": "パウダDED方式3次元金属積層造形機 LAMDA",
+    "url": "https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_03/",
+    "pass": 3
+   },
+   {
+    "quote": "パウダDED方式3次元金属積層造形機「LAMDA」が支える積層造形事業の最前線",
+    "url": "https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_03/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター「LAMDA」を活用した積層造形受託事業を紹介",
+    "url": "https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_03/",
+    "pass": 3
+   },
+   {
+    "quote": "大丸鐵興株式会社様 パウダDED方式3次元金属積層造形機LAMDA200",
+    "url": "https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_03/",
+    "pass": 3
+   },
+   {
+    "quote": "将来のEV化を見据え、金属積層造形機「LAMDA200」でAM事業へ挑戦",
+    "url": "https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_03/",
+    "pass": 3
+   },
+   {
+    "quote": "「それじゃ面白くない」社長の一言から始まった、金属3Dプリンター事業への挑戦！大丸鐵興株式会社「LAMDA」導入事例 - YouTube",
+    "url": "https://www.youtube.com/watch?v=ttcYkpCbqG4",
+    "pass": 3
+   },
+   {
+    "quote": "「それじゃ面白くない」社長の一言から始まった、金属3Dプリンター事業への挑戦！大丸鐵興株式会社「LAMDA」導入事例",
+    "url": "https://www.youtube.com/watch?v=ttcYkpCbqG4",
+    "pass": 3
+   },
+   {
+    "quote": "4台体制で1日20時間稼働！金属3Dプリンター受託製造の最前線｜JFEエンジニアリング株式会社様「LAMDA」導入事例",
+    "url": "https://www.youtube.com/watch?v=ttcYkpCbqG4",
+    "pass": 3
+   },
+   {
+    "quote": "#金属3Dプリンター",
+    "url": "https://www.youtube.com/watch?v=ttcYkpCbqG4",
+    "pass": 3
+   },
+   {
+    "quote": "313回視聴 • 2026/06/30 • #製造業 #金属3Dプリンター #LAMDA",
+    "url": "https://www.youtube.com/watch?v=ttcYkpCbqG4",
+    "pass": 3
+   },
+   {
+    "quote": "「それじゃ面白くない」という社長の一言から始まった金属3Dプリンター事業への挑戦",
+    "url": "https://www.youtube.com/watch?v=ttcYkpCbqG4",
+    "pass": 3
+   },
+   {
+    "quote": "導入の背景：「それじゃ面白くない」社長の決断",
+    "url": "https://www.youtube.com/watch?v=ttcYkpCbqG4",
+    "pass": 3
+   },
+   {
+    "quote": "今後の展望（大型機種「LAMDA500」の導入、宇宙分野へ）",
+    "url": "https://www.youtube.com/watch?v=ttcYkpCbqG4",
+    "pass": 3
+   },
+   {
+    "quote": "▼金属3Dプリンター「LAMDA」製品情報はこちら",
+    "url": "https://www.youtube.com/watch?v=ttcYkpCbqG4",
+    "pass": 3
+   },
+   {
+    "quote": "導入当初はパウダーベッド方式とDED方式の違いすら分からないゼロスタート",
+    "url": "https://www.youtube.com/watch?v=ttcYkpCbqG4",
+    "pass": 3
+   },
+   {
+    "quote": "導入後約2年間は受注獲得に苦戦したものの、すでに運用していた門形五面加工機「MVR」と共通するFANUC制御の操作性や、培ってきた切削加工ノウハウ（後加工）との高い親和性が、その後の事業成長を支える強力なシナジーとなりました",
+    "url": "https://www.youtube.com/watch?v=ttcYkpCbqG4",
+    "pass": 3
+   },
+   {
+    "quote": "本動画では、現在では自動車・重工業・建機・材料メーカーなど20社以上の新規顧客を開拓するまでに成長した同社のリアルな歩みと、金属3Dプリンター導入企業向けの立ち上げ支援サービス「DSIT'S」（受け入れ研修、立ち上げ伴走、ISO・生産性向上支援）について詳しくご紹介します",
+    "url": "https://www.youtube.com/watch?v=ttcYkpCbqG4",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの導入を検討している企業様、AM事業の立ち上げに悩んでいる経営者・技術者の方はぜひ最後までご覧ください",
+    "url": "https://www.youtube.com/watch?v=ttcYkpCbqG4",
+    "pass": 3
+   },
+   {
+    "quote": "パウダDED方式3次元金属積層造形機",
+    "url": "https://ja.nc-net.or.jp/company/104601/equipment/",
+    "pass": 3
+   },
+   {
+    "quote": "－－金属加工業の大丸鐵興様が、ISOを導入するキッカケはどのようなものだったのでしょうか",
+    "url": "https://activation-service.jp/iso/interview/interview15",
+    "pass": 3
+   },
+   {
+    "quote": "「社員の成長＝会社の成長」と考え、社員の実力の重視やスキルアップ支援をしている環境があるからこそ、“進化しつづけるものづくり”という理念に共感する精鋭たちはISO9001導入などの新しいことにも積極的に取り組めるのだと思います",
+    "url": "https://activation-service.jp/iso/interview/interview15",
+    "pass": 3
+   },
+   {
+    "quote": "★製缶溶接加工では、アーク溶接機：9台、半自動溶接機：50台、ロボット溶接機：3台など多数保有しており大型の製缶の製造を行っております",
+    "url": "https://www.iis-net.or.jp/e-info/kigyou/show?id=9075",
+    "pass": 3
+   },
+   {
+    "quote": "本年度、弊社は五面加工機の導入を決断し、もう一歩高い精度を皆さまにお届けできる製造環境を整えました",
+    "url": "https://www.iis-net.or.jp/e-info/kigyou/show?id=9075",
+    "pass": 3
+   },
+   {
+    "quote": "1967年の創業以来、大きな時代の流れを実感しながら、DAIMARUらしい“ものづくり”の本質を追求してきた弊社にとって、今回の設備の導入は、“重厚長大”から“微細緻密”という価値観と美学を持ち込むものです",
+    "url": "https://www.iis-net.or.jp/e-info/kigyou/show?id=9075",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "複数種の金属粉末をDED（Direct Energy",
+    "url": "https://www.daimaru-tekko.co.jp/facility/metal-3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": ": インコネル、ステンレス、アルミニウム合金、チタン、マルエージング鋼、ハイス鋼、銅合金、など",
+    "url": "https://www.daimaru-tekko.co.jp/facility/metal-3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "ステンレス事業部 SUSタンク諸元表更新しました（2021年6月）",
+    "url": "https://www.daimaru-tekko.co.jp/news-release/",
+    "pass": 1
+   },
+   {
+    "quote": "鋼板はもちろん、ステンレス・アルミ等、",
+    "url": "https://www.daimaru-tekko.co.jp/facility/5000t-press/",
+    "pass": 1
+   },
+   {
+    "quote": "鉄・ステンレス・アルミなど多様な材質に対応し、微細形状から厚板加工まで安定した切断品質を実現します",
+    "url": "https://www.daimaru-tekko.co.jp/facility/laser-ml3015gx/",
+    "pass": 1
+   },
+   {
+    "quote": "各種ステンレス製品の製造や、鋼板の大型一貫加工なら当社におまかせください！",
+    "url": "https://mono.ipros.com/company/detail/2076765/",
+    "pass": 3
+   },
+   {
+    "quote": "大丸鐵興株式会社は、各種ステンレス製品の受託製造サービスや、",
+    "url": "https://mono.ipros.com/company/detail/2076765/",
+    "pass": 3
+   },
+   {
+    "quote": "機械加工の金属加工の製造事業部、ステンレス事業部の2事業部体制で製造を行っております",
+    "url": "https://ja.nc-net.or.jp/company/104601/",
+    "pass": 3
+   },
+   {
+    "quote": "複数種の金属粉末をDED（Direct Energy Deposition)ヘッドで高速造形可能",
+    "url": "https://ja.nc-net.or.jp/company/104601/",
+    "pass": 3
+   },
+   {
+    "quote": "★金属３Dプリンター SUS316L試験片",
+    "url": "https://ja.nc-net.or.jp/company/104601/",
+    "pass": 3
+   },
+   {
+    "quote": "★3次元金属積層 鋳鋼へのマルエージング鋼付加造形",
+    "url": "https://ja.nc-net.or.jp/company/104601/",
+    "pass": 3
+   },
+   {
+    "quote": "★ブレード形状（母材SUS316L、積層SUS316L） 3次元金属積層",
+    "url": "https://ja.nc-net.or.jp/company/104601/",
+    "pass": 3
+   },
+   {
+    "quote": "★カッター形状（母材SUS316L、積層SUS316L+ハイス鋼） 3次元金属積層",
+    "url": "https://ja.nc-net.or.jp/company/104601/",
+    "pass": 3
+   },
+   {
+    "quote": "大型トラックに取付けるステンレス製の燃料タンクや、",
+    "url": "https://ja.nc-net.or.jp/company/104601/",
+    "pass": 3
+   },
+   {
+    "quote": "大丸鐵興株式会社（茨城県猿島郡）は1967年創立、従業員90名を擁する鋼板の大型一貫加工および自社ブランドのステンレス燃料タンク製造を手掛ける企業です",
+    "url": "https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_03/",
+    "pass": 3
+   },
+   {
+    "quote": "積層と切削を1台で完結するハイブリッド仕様をはじめ、難易度の高い「銅」の積層技術、職人の技能差に左右されない金型の精密な肉盛り補修による長寿命化の実績を解説します",
+    "url": "https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_03/",
+    "pass": 3
+   },
+   {
+    "quote": "茨城県猿島郡で鋼板の大型一貫加工やステンレス燃料タンク製造を手掛ける大丸鐵興株式会社",
+    "url": "https://www.youtube.com/watch?v=ttcYkpCbqG4",
+    "pass": 3
+   },
+   {
+    "quote": "また、現在では自社製品であるトラック用のステンレス製燃料タンクや「みずがめ君」というステンレスの非常用給水タンクの開発と製造を手掛け、お客さまが求める商品を一貫して手掛けるメーカーでもあります",
+    "url": "https://activation-service.jp/iso/interview/interview15",
+    "pass": 3
+   },
+   {
+    "quote": "もう1つは弊社がステンレスのタンクで15年前ほど前に開発から製造を行うメーカーとなり、品質面での責任を果たしていくために必要性を感じたことです",
+    "url": "https://activation-service.jp/iso/interview/interview15",
+    "pass": 3
+   },
+   {
+    "quote": "★３次元金属積層では、複数種の金属粉末をDEDヘッドで高速造形＆ニアネット造形により、切削範囲を削減",
+    "url": "https://www.iis-net.or.jp/e-info/kigyou/show?id=9075",
+    "pass": 3
+   },
+   {
+    "quote": "粉末供給ポット数 : 2",
+    "url": "https://www.iis-net.or.jp/e-info/kigyou/show?id=9075",
+    "pass": 3
+   },
+   {
+    "quote": "SUS304、SUS316、マルエージング鋼、64チタン、インコネル718の３次元金属積層",
+    "url": "https://www.iis-net.or.jp/e-info/kigyou/show?id=9075",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 - 大丸鐵興 株式会社 — 会社概要 - 大丸鐵興 株式会社 大丸鐵興株式会社 https://www.daimaru-tekko.co.jp > 企業情報",
+    "url": "https://www.daimaru-tekko.co.jp/corporation/company/",
+    "pass": 3
+   },
+   {
+    "quote": "大丸鐵興 | 企業情報 | イプロスものづくり — 大丸鐵興 | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/2076765/",
+    "pass": 3
+   },
+   {
+    "quote": "大丸鐵興 株式 会社 茨城県 猿島郡境町 - NCネットワーク — 大丸鐵興 株式 会社 茨城県 猿島郡境町 - NCネットワーク エミダス https://ja.nc-net.or.jp > company",
+    "url": "https://ja.nc-net.or.jp/company/104601/",
+    "pass": 3
+   },
+   {
+    "quote": "社員の成長＝ 会社 の成長！80名にISOを浸透させた 大丸鐵興 の ... — 社員の成長＝ 会社 の成長！80名にISOを浸透させた 大丸鐵興 の ... activation-service.jp https://activation-service.jp > HOME > ISOプロが訊く",
+    "url": "https://activation-service.jp/iso/interview/interview15",
+    "pass": 3
+   },
+   {
+    "quote": "3次元 金属 積層 LAMDA200 - 大丸鐵興 株式会社 — 3次元 金属 積層 LAMDA200 - 大丸鐵興 株式会社 大丸鐵興株式会社 https://www.daimaru-tekko.co.jp > 3Dプリンター",
+    "url": "https://www.daimaru-tekko.co.jp/facility/metal-3d-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "無料DL 金属3Dプリンター SUS316L試験片 - 大丸鐵興 株式会社 — 無料DL 金属3Dプリンター SUS316L試験片 - 大丸鐵興 株式会社 エミダス https://ja.nc-net.or.jp > company > product > detail",
+    "url": "https://ja.nc-net.or.jp/company/104601/product/detail/227489/",
+    "pass": 3
+   },
+   {
+    "quote": "3次元 金属積層 LAMDA200 - 大丸鐵興 株式会社 — 3次元 金属積層 LAMDA200 - 大丸鐵興 株式会社 大丸鐵興株式会社 https://www.daimaru-tekko.co.jp > 3Dプリンター",
+    "url": "https://www.daimaru-tekko.co.jp/facility/metal-3d-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "金属 3Dプリンター事業への挑戦！ 大丸鐵興 株式会社「LAMDA ... — 金属 3Dプリンター事業への挑戦！ 大丸鐵興 株式会社「LAMDA ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=ttcYkpCbqG4",
+    "pass": 3
+   },
+   {
+    "quote": "設備 - 大丸鐵興 株式会社 茨城県 猿島郡境町 - NCネットワーク — 設備 - 大丸鐵興 株式会社 茨城県 猿島郡境町 - NCネットワーク エミダス https://ja.nc-net.or.jp > company > equipment",
+    "url": "https://ja.nc-net.or.jp/company/104601/equipment/",
+    "pass": 3
+   },
+   {
+    "quote": "3次元 金属積層 受託 造形 サービス（立ち合い 造形 可能） 大丸鐵興 — 3次元 金属積層 受託 造形 サービス（立ち合い 造形 可能） 大丸鐵興 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > ... > 受託サービス > 加工受託",
+    "url": "https://mono.ipros.com/product/detail/2000981136/",
+    "pass": 3
+   },
+   {
+    "quote": "3D 金属積層 造形 立ち合い - 大丸鐵興 株式会社 — 3D 金属積層 造形 立ち合い - 大丸鐵興 株式会社 大丸鐵興株式会社 https://www.daimaru-tekko.co.jp > 3次元金属積層",
+    "url": "https://www.daimaru-tekko.co.jp/facility/metal-3d-printer/3d-metal-printing-witness.html",
+    "pass": 3
+   },
+   {
+    "quote": "大型・大物加工の一貫生産 - 大丸鐵興 株式会社 — 大型・大物加工の一貫生産 - 大丸鐵興 株式会社 大丸鐵興株式会社 https://www.daimaru-tekko.co.jp",
+    "url": "https://www.daimaru-tekko.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "社員の成長＝会社の成長！80名にISOを浸透させた 大丸鐵興 の ... — 社員の成長＝会社の成長！80名にISOを浸透させた 大丸鐵興 の ... activation-service.jp https://activation-service.jp > HOME > ISOプロが訊く",
+    "url": "https://activation-service.jp/iso/interview/interview15",
+    "pass": 3
+   },
+   {
+    "quote": "大丸鐵興 （株） - いばらき中小企業グローバル推進機構 — 大丸鐵興 （株） - いばらき中小企業グローバル推進機構 いばらき中小企業グローバル推進機構 https://www.iis-net.or.jp > ... > 詳細検索",
+    "url": "https://www.iis-net.or.jp/e-info_new/show_kigyou.php?kigId=9075",
+    "pass": 3
+   },
+   {
+    "quote": "大丸鐵興 株式会社の転職・企業概要 - doda — 大丸鐵興 株式会社の転職・企業概要 - doda doda https://doda.jp > View > Company > j_id__10005060055",
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__10005060055/",
+    "pass": 3
+   },
+   {
+    "quote": "大丸鐵興 株式会社 茨城県 猿島郡境町 - NCネットワーク — 大丸鐵興 株式会社 茨城県 猿島郡境町 - NCネットワーク エミダス https://ja.nc-net.or.jp > company",
+    "url": "https://ja.nc-net.or.jp/company/104601/",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "資本金400万円で東京都足立区千住に大丸鐡興株式会社を設立",
+    "url": "https://www.iis-net.or.jp/e-info/kigyou/show?id=9075",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ニデック工作機械【公式】 on X: \"本日は、 大丸鐵興 株式会社に ... ニデック工作機械【公式】 on X: \"本日は、 大丸鐵興 株式会社に ... X https://x.com > @nidec_mt",
+    "url": "https://x.com/nidec_mt/status/1844643783599849699",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "太田 吉彦 - 製造業 代表取締役 | LinkedInErika I. - Additive Manufacturing / アディティブマニュファクチャ...Erica Kolari - Enterprise, Product, Partnerships & Consumer ...Xinyuan Huang - AI Infrastructure Supply Chain | Procurement ...LinkedIn: Log In or Sign UpYi Sun - Venture Partner at CETACORE AI | 领英SparkShip 2026 – Summer Internship Program | Telenor Shared ... 製造業 代表取締役 · 職歴: 大丸鐵興株式会社 · 場所: 境 · LinkedInのつながり8人。 10億人の",
+    "url": "https://jp.linkedin.com/in/吉彦-太田-54a998259",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.daimaru-tekko.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daimaru-tekko.co.jp/facility/others/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daimaru-tekko.co.jp/facility/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daimaru-tekko.co.jp/facility/3d-printer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daimaru-tekko.co.jp/facility/metal-3d-printer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daimaru-tekko.co.jp/facility/fdm-3d-printer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daimaru-tekko.co.jp/corporation/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daimaru-tekko.co.jp/news-release/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daimaru-tekko.co.jp/facility/5000t-press/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daimaru-tekko.co.jp/facility/twin-2500t-press/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daimaru-tekko.co.jp/facility/five-face-processing-machine/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daimaru-tekko.co.jp/facility/milling/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daimaru-tekko.co.jp/facility/laser-ml3015gx/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daimaru-tekko.co.jp/corporation/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.daimaru-tekko.co.jp/images/img_J5A6254-2.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.daimaru-tekko.co.jp/images/2018/04/img_J5A6317-512x350.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/company/detail/2076765/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.nc-net.or.jp/company/104601/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_03/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/nidec_mt/status/2090635003206209897",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=ttcYkpCbqG4",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.nc-net.or.jp/company/104601/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://activation-service.jp/iso/interview/interview15",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iis-net.or.jp/e-info/kigyou/show?id=9075",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__10005060055/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://activation-service.jp/iso/interview/interview15",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/nidec_mt/status/1844643783599849699",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/吉彦-太田-54a998259",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "大丸鐵興",
+   "results": [
+    "https://www.daimaru-tekko.co.jp/",
+    "https://ja.nc-net.or.jp/company/104601/",
+    "https://www.iis-net.or.jp/e-info_new/show_kigyou.php?kigId=9075",
+    "https://mono.ipros.com/company/detail/2076765/",
+    "https://www.joyobank.co.jp/enterpri/monozukuri/2022/162.html",
+    "https://www.youtube.com/watch?v=DVYVNWUi6_g",
+    "https://www.daimaru-tekko.co.jp/corporation/company/",
+    "https://jgoodtech.smrj.go.jp/corp/info/JC0000000031026?preview=false&createdLocale=ja_JP&tabSelected=outline",
+    "https://bizexpo.jp/companies/daimaru-tekko",
+    "https://www.facebook.com/p/大丸鐵興株式会社-100066763152694/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "大丸鐵興 会社概要 資本金 設立",
+   "results": [
+    "https://www.daimaru-tekko.co.jp/corporation/company/",
+    "https://mono.ipros.com/company/detail/2076765/",
+    "https://ja.nc-net.or.jp/company/104601/",
+    "https://activation-service.jp/iso/interview/interview15",
+    "https://www.openwork.jp/company_answer.php?m_id=a0C1000000tfmQ6&q_no=4",
+    "https://www.joyobank.co.jp/enterpri/monozukuri/2021/588.html",
+    "https://www.iis-net.or.jp/e-info_new/show_kigyou.php?kigId=9075",
+    "https://www.buffett-code.com/company/324awqqni7/",
+    "https://baseconnect.in/companies/955c91bf-dca1-4d79-9142-d0e052513651",
+    "https://www.daimaru-tekko.co.jp/corporation/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "大丸鐵興 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_03/",
+    "https://www.daimaru-tekko.co.jp/facility/metal-3d-printer/",
+    "https://x.com/nidec_mt/status/2090635003206209897",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/02345/021000006/",
+    "https://ja.nc-net.or.jp/company/104601/product/detail/227489/",
+    "https://unified3.jcdbizmatch.jp/nanotech2026dec/eGuide/jp/Exhibitor/Details/1NK6kG",
+    "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "https://www.daimaru-tekko.co.jp/facility/3d-printer.html",
+    "https://www.youtube.com/watch?v=ttcYkpCbqG4"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "大丸鐵興 金属積層造形 設備",
+   "results": [
+    "https://www.daimaru-tekko.co.jp/facility/metal-3d-printer/",
+    "https://www.youtube.com/watch?v=ttcYkpCbqG4",
+    "https://ja.nc-net.or.jp/company/104601/equipment/",
+    "https://mono.ipros.com/product/detail/2000981136/",
+    "https://www.daimaru-tekko.co.jp/facility/metal-3d-printer/3d-metal-printing-witness.html",
+    "https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_03/",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/02345/021000006/",
+    "https://www.youtube.com/watch?v=DVYVNWUi6_g",
+    "https://www.joyobank.co.jp/enterpri/monozukuri/2022/162.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "大丸鐵興 株主 出資 親会社",
+   "results": [
+    "https://www.daimaru-tekko.co.jp/",
+    "https://activation-service.jp/iso/interview/interview15",
+    "https://www.iis-net.or.jp/e-info_new/show_kigyou.php?kigId=9075",
+    "https://space.pref.ibaraki.jp/participating-companies-2/daimarutekko/",
+    "https://baseconnect.in/companies/955c91bf-dca1-4d79-9142-d0e052513651",
+    "https://www.daimaru-tekko.co.jp/corporation/company/",
+    "https://www.daimarukogyo.co.jp/company/outline/",
+    "https://www.cmp.co.jp/ir/news/ir_news/20191204.html",
+    "https://ja.wikipedia.org/wiki/東北東ソー化学",
+    "https://jgoodtech.smrj.go.jp/corp/info/JC0000000031026?preview=false&createdLocale=ja_JP&tabSelected=outline"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "大丸鐵興 売上高 従業員数",
+   "results": [
+    "https://doda.jp/DodaFront/View/Company/j_id__10005060055/",
+    "https://activation-service.jp/iso/interview/interview15",
+    "https://www.daimaru-tekko.co.jp/corporation/company/",
+    "https://www.daimaru.co.jp/company/pdf/01setu.pdf",
+    "https://ja.nc-net.or.jp/company/104601/",
+    "https://baseconnect.in/companies/955c91bf-dca1-4d79-9142-d0e052513651",
+    "https://www.iis-net.or.jp/e-info_new/show_kigyou.php?kigId=9075",
+    "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00124/00006/",
+    "https://www.joyobank.co.jp/enterpri/monozukuri/2021/588.html",
+    "https://www.daimaru-tekko.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 大丸鐵興",
+   "results": [
+    "https://note.com/tsukuba_tci/n/ne439c85da90c",
+    "https://note.com/nakai1958jp/n/n66af0f953f2e",
+    "https://note.com/happywomen_jp/n/n27b6a5b12137",
+    "https://note.com/suzaku84/n/nc3c7bf35ce50",
+    "https://note.com/nahokokyoto/n/n1c99c105ba38",
+    "https://note.com/kobachou/n/n1f3164dccd00",
+    "https://note.com/happy_hebe580/n/ncc5b60424ba9",
+    "https://note.com/yoyoyonozoo/n/nb4b18fd244ac",
+    "https://note.com/kobachou/n/nc6270642f24c",
+    "https://note.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com 大丸鐵興",
+   "results": [
+    "https://x.com/nidec_mt/status/1844643783599849699",
+    "https://x.com/nidec_mt/status/2090635003206209897",
+    "https://x.com/nidec_mt",
+    "https://x.com/hagiwara_syuzo",
+    "https://x.com/mizugamekun163",
+    "https://x.com/MMRS575510831/status/2103662515955851684",
+    "https://x.com/kabudev_gc/status/2111271494764671130",
+    "https://x.com/MMRS575510831",
+    "https://x.com/_momoti_",
+    "https://x.com/hashtag/大丸鐵興株式会社"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com 大丸鐵興",
+   "results": [
+    "https://www.linkedin.com/pub/dir/Erika/I",
+    "https://www.linkedin.com/pub/dir/%E5%90%89%E5%BD%A6/+",
+    "https://jp.linkedin.com/pub/dir/+/Imamura/jp-7669-%E6%B0%B4%E6%88%B8---%E6%97%A5%E7%AB%8B%E9%83%BD%E5%B8%82%E5%9C%8F",
+    "https://jp.linkedin.com/in/吉彦-太田-54a998259",
+    "https://www.linkedin.com/in/ericakolari",
+    "https://www.linkedin.com/",
+    "https://jp.linkedin.com/in/erika-i-596999259",
+    "https://cn.linkedin.com/in/yi-sun-175b4a2a",
+    "https://pk.linkedin.com/jobs/view/sparkship-2026-–-summer-internship-program-telenor-shared-services-pakistan-at-telenor-4407761600",
+    "https://cn.linkedin.com/in/xinyuan-huang-5666ba353"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:facebook.com 大丸鐵興",
+   "results": [
+    "https://www.facebook.com/0samu.Takahash1/posts/coming-soon%EF%B8%8F-%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E6%A7%8B%E9%80%A0%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84%E9%98%B2%E7%81%BD%E3%82%B0%E3%83%83%E3%82%BA%E7%99%BB%E5%A0%B4-%E5%91%BD%E3%82%92%E5%AE%88%E3%82%8B%E6%B0%B4%E3%81%AE%E5%82%99%E3%81%88%E3%82%92%E3%82%82%E3%81%A3%E3%81%A8%E8%BA%AB%E8%BF%91%E3%81%AB%EF%B8%8F%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E6%A7%8B%E9%80%A0%E3%81%8B%E3%82%89%E3%81%BE%E3%81%9F%E4%B8%80%E3%81%A4%E6%96%B0%E3%81%97%E3%81%84%E9%98%B2%E7%81%BD%E3%82%B0%E3%83%83%E3%82%BA%E3%81%8C%E7%99%BB%E5%A0%B4%E4%BA%88%E5%AE%9A%E3%81%A7%E3%81%99/29287994750889653/",
+    "https://www.facebook.com/0samu.Takahash1/posts/%EF%B8%8F%EF%B8%8F%E5%8F%B0%E6%B9%BE%E5%8F%B0%E4%B8%AD%E3%81%AE%E4%B8%96%E7%95%8C%E7%9A%84%E5%90%8D%E5%BB%BA%E7%AF%89%E3%82%92%E5%B7%A1%E3%82%8Bsanaa%E9%9A%88%E7%A0%94%E5%90%BEim%E3%83%9A%E3%82%A4%E3%81%9D%E3%81%97%E3%81%A6109%E5%9F%BA%E3%81%AE%E5%85%8D%E9%9C%87%E8%A3%85%E7%BD%AE2026%E5%B9%B410%E6%9C%8826%E6%97%A5%E6%9C%88%E5%8F%B0%E6%B9%BE%E3%82%B5%E3%83%90%E3%83%86%E3%82%A3%E3%82%AB%E3%83%AB%E4%B8%AD%E4%BB%8A%E5%9B%9E%E3%81%AF%E5%8F%B0%E4%B8%AD%E3%81%AE%E5%BB%BA%E7%AF%89%E8%A6%96%E5%AF%9F-%E5%9C%B0%E5%85%83%E3%81%AE%E4%B8%8D%E5%8B%95%E7%94%A3%E9%96%A2%E4%BF%82/29286840224338439/",
+    "https://www.facebook.com/loutos.pema/photos/5068984136661216/",
+    "https://www.facebook.com/0samu.Takahash1/posts/%E3%81%BE%E3%81%9F%E3%81%BE%E3%81%9F%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8E%B2%E8%BC%89%EF%B8%8F%E6%93%81%E5%A3%81119%E3%81%8C%E6%83%85%E5%A0%B1%E8%AA%8Cpococe11%E6%9C%88%E5%8F%B7%E3%81%AB%E7%99%BB%E5%A0%B4%EF%B8%8F-%E8%BA%AB%E8%BF%91%E3%81%AA%E6%93%81%E5%A3%81%E3%81%AE%E5%8D%B1%E9%99%BA%E3%82%92%E8%A6%8B%E9%80%83%E3%81%95%E3%81%AA%E3%81%84%E3%81%A7%EF%B8%8F%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E6%A7%8B%E9%80%A0%E3%81%A8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%97%A5%E6%9C%AC%E8%A1%9B%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%8C%E9%80%A3%E6%90%BA%E3%81%97%E3%81%A6/29288604014162060/",
+    "https://www.facebook.com/0samu.Takahash1/posts/-%E6%9C%AC%E6%97%A5%E5%85%AC%E9%96%8Bpivot-talk-%E5%87%BA%E3%81%BE%E3%81%97%E3%81%9F-%E6%9C%AC%E6%97%A512%E6%99%82%E3%82%88%E3%82%8Apivot%E5%85%AC%E5%BC%8Fyoutube%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AB%E3%81%A6%E5%8B%95%E7%94%BB%E3%81%8C%E5%85%AC%E9%96%8B%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AF-%E6%93%81%E5%A3%81%E3%81%AF%E3%81%AA%E3%81%9C%E5%A3%8A%E3%82%8C%E3%82%8B%E3%81%AE%E3%81%8B%EF%B8%8F-%E3%81%A9%E3%81%86%E3%81%99%E3%82%8C%E3%81%B0%E5%91%BD/25844976345191528/",
+    "https://www.facebook.com/0samu.Takahash1/posts/%E6%9C%A8%E3%81%8C%E5%91%BD%E3%82%92%E5%AE%88%E3%82%8B%E6%9C%AA%E6%9D%A5%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%A2%E3%82%AF%E3%82%B3%E3%83%AC2026%E3%81%A7%E5%85%AC%E9%96%8B-%E5%AF%8C%E5%B1%B1%E7%9C%8C%E6%9C%A8%E6%9D%90%E7%A0%94%E7%A9%B6%E6%89%80-%E6%9D%B1%E4%BA%AC%E7%90%86%E7%A7%91%E5%A4%A7%E5%AD%A6-%E5%B7%A5%E5%AD%A6%E9%83%A8-%E5%BB%BA%E7%AF%89%E5%AD%A6%E7%A7%91-%E9%AB%98%E6%A9%8B%E6%B2%BB%E7%A0%94%E7%A9%B6%E5%AE%A4-%E5%85%B1%E5%90%8C%E9%96%8B%E7%99%BA-%E5%AF%8C%E5%B1%B1%E5%9E%8B%E6%9C%A8%E8%B3%AA%E8%80%90%E9%9C%87%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%BF%E3%83%BC%E5%9B%BD%E7%94%A3%E6%9C%A8%E6%9D%90-%E6%A7%8B%E9%80%A0/25921816557507506/",
+    "https://www.facebook.com/nobuhiko.watanabe/",
+    "https://www.facebook.com/freebirdkansai/videos/%E5%90%8D%E5%8F%A4%E5%B1%8B%E3%81%A7%E4%BA%BA%E6%B0%97%E3%81%AEbeutea%E3%81%8C%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%E3%81%A7%E7%A5%9E%E6%88%B8%E3%81%AB%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%B7%E3%82%A2%E7%99%BA%E3%81%AE%E4%B8%AD%E5%9B%BD%E3%83%86%E3%82%A3%E3%83%BC%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89beutea%E3%81%8C%E5%A4%A7%E4%B8%B8%E7%A5%9E%E6%88%B8%E5%BA%97%E3%81%AB%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%E3%81%A7%E7%99%BB%E5%A0%B4%E3%81%93%E3%81%AE%E6%97%A5%E3%81%AF%E3%81%AA%E3%82%93%E3%81%A81%E6%99%82%E9%96%93%E5%8D%8A%E4%B8%A6%E3%82%93%E3%81%A7%E3%82%84%E3%81%A3%E3%81%A8get%E4%BB%8A%E5%9B%9E/1023963997331416/",
+    "https://www.facebook.com/0samu.Takahash1/posts/%E9%B9%BF%E5%85%90%E5%B3%B6%E3%81%8B%E3%82%89%E5%AD%A6%E7%94%9F%E3%81%A8%E5%85%B1%E3%81%AB%E6%8C%91%E6%88%A6%E4%B8%AD%E3%81%84%E3%81%BE%E6%97%A5%E6%9C%AC%E8%A1%9B%E7%94%9F%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E6%A7%98%E6%89%80%E6%9C%89%E3%81%AE%E6%97%A7%E8%80%90%E9%9C%87%E3%83%9B%E3%83%86%E3%83%AB%E3%81%AB%E3%81%A6%E5%AD%A6%E7%94%9F%E3%81%A8%E4%B8%80%E7%B7%92%E3%81%AB%E5%9B%B3%E8%B5%B7%E3%81%93%E3%81%97%E8%AA%BF%E6%9F%BB%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%AA%E3%82%93%E3%81%A8%E8%AA%BF%E6%9F%BB%E3%81%A0%E3%81%91%E3%81%A710%E6%97%A5%E9%96%93%E3%81%AE%E5%A4%A7%E4%BB%95%E4%BA%8B%E3%81%93%E3%81%93%E3%81%8B%E3%82%89-%E8%80%90%E9%9C%87%E8%A8%BA%E6%96%AD/24383252821363895/",
+    "https://www.facebook.com/p/大丸鐵興株式会社-100066763152694/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "大丸鐵興 note 社長",
+   "results": [
+    "https://www.daimaru-tekko.co.jp/",
+    "https://activation-service.jp/iso/interview/interview15",
+    "https://ja.nc-net.or.jp/company/104601/",
+    "https://www.iis-net.or.jp/e-info_new/show_kigyou.php?kigId=9075",
+    "https://www.ipros.com/product/detail/2000422745/",
+    "https://www.joyobank.co.jp/enterpri/monozukuri/2021/588.html",
+    "https://note.com/takurodaimaru",
+    "https://www.openwork.jp/company_answer.php?m_id=a0C1000000tfmQ6&q_no=4",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.youtube.com/watch?v=ttcYkpCbqG4"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "大丸鐵興 X 投稿",
+   "results": [
+    "https://www.daimaru-tekko.co.jp/",
+    "https://www.daimaru-tekko.co.jp/corporation/",
+    "https://x.com/hashtag/%E5%A4%A7%E4%B8%B8?src=hashtag_click",
+    "https://www.tiktok.com/discover/%E5%A4%A7%E4%B8%B8%E9%90%B5%E8%88%88%E3%80%80%E5%B0%82%E5%8B%99",
+    "https://www.daimarukogyo.co.jp/",
+    "https://www.daimarusangyo.co.jp/",
+    "https://www.daimaru-tekko.co.jp/corporation/message/",
+    "https://x.com/hashtag/大丸鐵興株式会社",
+    "https://www.facebook.com/p/大丸鐵興株式会社-100066763152694/",
+    "https://www.tiktok.com/@daimaru_tekko/video/7689805476254534933"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部12頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部12頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部12頁・検索12回）"
+ }
+}

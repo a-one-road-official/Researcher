@@ -1109,3 +1109,52 @@
 - 「エアコンプレッサの世界市場：メーカー、地域、タイプ、アプリケーション別、2026-2032年の予測 - ZDNET Japan」（https://japan.zdnet.com/release/31166502/）
 - 「Continue to ZDNET Japan」（https://japan.zdnet.com/release/31166502/）
 - 「電話：03-4563-9129（日本）／ 0081-34 563 9129（グローバル）／ 0086-176 6505 2062」（https://japan.zdnet.com/release/31166502/）
+
+## Tangshan Weihao Magnesium Powder Co. , Ltd.（https://www.tswhmf.com）
+- 「Learn what the bulk density vs. tap density gap reveals about atomized magnesium alloy powder quality, flowability, and sintering performance. Covers AZ91, WE43, safety regulations, JIS/GB standards, and supplier guidance for Japanese engineers in 2026.」（https://www.tswhmf.com/）
+- 「Learn what the bulk density vs. tap density gap reveals about atomized magnesium alloy powder quality, flowability, and sintering performance. Covers AZ91, WE43, safety regulations, JIS/GB standards, and supplier guidance for Japanese engineers in 2026.」（https://www.tswhmf.com/atomized-magnesium-alloy-powder-bulk-density-vs.tap-density-what-the-gap-tells-you）
+- 「5. Japanese fire-safety law, UN transport, and SDS compliance for Mg powder」（https://www.tswhmf.com/atomized-magnesium-alloy-powder-bulk-density-vs.tap-density-what-the-gap-tells-you）
+- 「Why both measurements are listed on every reputable datasheet」（https://www.tswhmf.com/atomized-magnesium-alloy-powder-bulk-density-vs.tap-density-what-the-gap-tells-you）
+
+## VBN Components AB（https://www.vbncomponents.com）
+- 「Swedish VBN Components AB is announcing the cooperation with HTL Co. Japan Ltd. as their distributor for VBN’s Vibenite materials.」（https://blog.wor-con.com/en/industry/vbn-components-and-htl-sign-strategic-partnership/）
+- 「After more than ten years of product development and sales, the company is now ready to reenforce its presence on the Japanese market, together with」（https://blog.wor-con.com/en/industry/vbn-components-and-htl-sign-strategic-partnership/）
+- 「“We are proud and honoured to have agreed with HTL, a Japanese enterprise in the field of high technology business, to represent us in the area of additive manufacturing. We are convinced that this strategic agreement will be most important in the business development on the Japanese market,” says」（https://blog.wor-con.com/en/industry/vbn-components-and-htl-sign-strategic-partnership/）
+
+## MOLD Press（https://www.pedeca.es）
+- 「Amazon.com: JapanBargain 1753, Japanese Sushi Press Nigiri Maker Rice Ball Mold Sushi Mold Press Made in Japan: Sushi Making Kit: Home & Kitchen」（https://www.amazon.com/1-X-Sushi-Mold-5809/dp/B001QY4REO）
+- 「JapanBargain 1753, Japanese Sushi Press Nigiri Maker Rice Ball Mold Sushi Mold Press Made in Japan」（https://www.amazon.com/1-X-Sushi-Mold-5809/dp/B001QY4REO）
+- 「Visit the JapanBargain Store」（https://www.amazon.com/1-X-Sushi-Mold-5809/dp/B001QY4REO）
+
+## Additive Manufacturing Technologies Ltd.（https://amtechnologies.com/）
+- 「Also in APAC: Hong Kong, India, Japan, New Zealand, Singapore, Taiwan.」（https://amtechnologies.com/postpro-partners/）
+- 「Japan 3D Printer Co., Ltd」（https://amtechnologies.com/postpro-partners/）
+- 「Japan 3D Printer Co., Ltd: PostPro Reseller | AMT PostPro」（https://amtechnologies.com/global-resellers/japan-3d-printer-co-ltd/）
+- 「Partners listed on AMT’s partner map in Sep 2026」（https://amtechnologies.com/postpro-partners/）
+
+## Wuxi Ubest New Materials Technology Co. , Ltd（https://www.wxubest.com）
+- 「It meets food safety standards in the U. S., Europe, and Japan, and is increasingly replacing traditional materials like paper, glass, and metal.」（https://www.made-in-china.com/showroom/ubest-resin）
+
+## Germany Trade and Invest - Gesellschaft für Außenwirtschaft und Standortmarketing mbH（https://www.gtai.de）
+- 「ドイツ貿易・投資振興機関 (Germany Trade & Invest: GTAI) は ドイツ連邦共和国政府の経済振興機関として、独企業対外貿易振興並びに日本を含む外国企業のドイツ国内への誘致 (FDI) の他、経済・投資環境・技術において優れたビジネス立地としてのドイツのマーケティングを業 務内容としています」（https://www.gtai.de/jp/invest）
+- 「当機関は欧州・日本を含むアジア・北米に拠点を持ち、御社のドイツ進出・事業拡大を初期の段階から無償でサポートします」（https://www.gtai.de/jp/invest）
+- 「Die Wirtschaft in Japan in Kürze: Fakten zum Land bieten Ihnen einen schnellen Überblick.」（https://www.gtai.de/de/trade/japan-wirtschaft）
+- 「(GfAI) was founded as a subsidiary of the Federal Agency for Foreign Trade Information. All foreign correspondents reporting for the BfA were henceforth employed by this company.」（https://en.wikipedia.org/wiki/Germany_Trade_and_Invest）
+
+## SAE International（https://www.sae.org）
+- 「SAEが日本語で紹介される際、オートモーティブ部分を自動車と対訳し、SAEを「自動車技術者協会」、「自動車技術会」と訳されることも多い」（https://ja.wikipedia.org/wiki/SAE_International）
+- 「たとえば、日本語での福祉車両はモビリティと表現される」（https://ja.wikipedia.org/wiki/SAE_International）
+- 「Student Formula SAE Competition of Japan」（https://ja.wikipedia.org/wiki/SAE_International）
+
+## Universität Bayreuth（https://www.uni-bayreuth.de）
+- 「Studieren in Australien, Kanada, Japan, Südkorea, den USA oder an einer unserer zahlreichen europäischen Partnerhochschulen? Jetzt bewerben!」（https://www.international-office.uni-bayreuth.de/de/index.html）
+- 「RTG 2156: "Deep Earth Volatile Cycles" (with Tōhoku University, Japan)」（https://en.wikipedia.org/wiki/University_of_Bayreuth）
+
+## KSB SE & Co. KGaA（https://www.ksb.de）
+- 「with two Asian companies. The German-Japanese cooperation Nikkiso-KSB GmbH develops and sells canned motor pumps for the European and Middle Eastern markets. The German-Chinese joint venture company Shanghai Electric-KSB Nuclear Pumps and Valves Co. manufactures safety-relevant pumps and valves for 」（https://en.wikipedia.org/wiki/KSB_SE_&_Co._KGaA）
+- 「KSB, a Frankenthal, Germany–based maker of pumps, valves, and services with about 15,000 employees operating in 100+ countries, needed to coordinate complex international sales cycles and fully digitalize its sales and service processes to keep a clear overview across markets and customer lifecycles」（https://www.casestudies.com/company/sap-sales-cloud/case-study/2500-users-delighted-with-cloud-based-sales-solution）
+
+## VBN Components AB（https://www.vbncomponents.com）
+- 「Swedish VBN Components AB is announcing the cooperation with HTL Co. Japan Ltd. as their distributor for VBN’s Vibenite materials.」（https://blog.wor-con.com/en/industry/vbn-components-and-htl-sign-strategic-partnership/）
+- 「After more than ten years of product development and sales, the company is now ready to reenforce its presence on the Japanese market, together with」（https://blog.wor-con.com/en/industry/vbn-components-and-htl-sign-strategic-partnership/）
+- 「“We are proud and honoured to have agreed with HTL, a Japanese enterprise in the field of high technology business, to represent us in the area of additive manufacturing. We are convinced that this strategic agreement will be most important in the business development on the Japanese market,” says」（https://blog.wor-con.com/en/industry/vbn-components-and-htl-sign-strategic-partnership/）

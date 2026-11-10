@@ -1,0 +1,1199 @@
+{
+ "name": "技術戦略研究センター",
+ "aliases": [],
+ "context": "PBF=unknown 装置= 出典=https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+ "researched_at": "2026-11-10T20:50:18.004952+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {},
+ "evidence": {
+  "用途・客の産業": [
+   {
+    "quote": "技術戦略研究センター（TSC）は、エネルギー・地球環境問題の解決・産業技術力の強化といったNEDOのミッション実現に向けてプロジェクトの企画立案を担う機関として2014年4月に設立されました",
+    "url": "https://webmagazine.nedo.go.jp/pickupnews/focusnedo91/article02.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、2023年8月に策定した「NEDO総合指針2023」においては、「サーキュラーエコノミー」「バイオエコノミー」「持続可能なエネルギー」の3つの社会システムの一体的な推進とともに、それを支える基盤としての「デジタルトランスフォーメーション（DX）」が不可欠であることを提言しました",
+    "url": "https://webmagazine.nedo.go.jp/pickupnews/focusnedo91/article02.html",
+    "pass": 3
+   },
+   {
+    "quote": "NEDOのミッションである「エネルギー・地球環境問題の解決」および「産業技術力の強化」の実現に向けた技術開発推進に貢献することを目的に、6つの技術分野別ユニット、1つの分野横断ユニットでスタート",
+    "url": "https://webmagazine.nedo.go.jp/pickupnews/focusnedo91/article02.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業技術やエネルギー･環境技術分野の技術戦略の策定及びこれに",
+    "url": "https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 以下に掲げる6つのミッションを達成することで、エネルギー・地",
+    "url": "https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イザー,元トヨタ自動車",
+    "url": "https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー総合工学研究所 プロジェクト試験",
+    "url": "https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新エネルギー・産業技術総合開発機構「日本企業の国際",
+    "url": "https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③ 仮説⇔実証を効率的に行うための計測評価・試作技術との連携",
+    "url": "https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 「持続可能なエネルギー」、「サーキュラーエコノミー」及び「バイオエ",
+    "url": "https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）のシンクタンクであるNEDO技術戦略研究センターは7月26日、名称をイノベーション戦略センター（Technology and Innovation Strategy Center（新TSC））に変更したと発表した",
+    "url": "https://japan.cnet.com/article/35222027/",
+    "pass": 3
+   },
+   {
+    "quote": "ユニットとして活動するのは「デジタルイノベーション」「ナノテクノロジー・材料」「サステナブルエネルギー」「環境・化学」「バイオエコノミー」「アグリ・フードテック」の技術ユニット6つと、「国際戦略」「マクロ分析」「標準化・知財」の横断ユニットの3つ",
+    "url": "https://japan.cnet.com/article/35222027/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車（80）",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙（74）",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "医療（168）",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車販売数などのような正確な統計は存在しないので調査会社の推計に頼るほかないが、ここではNEDO（国立研究開発法人新エネルギー・産業技術総合開発機構）の技術戦略研究センター（TSC）が公開している「TSC Foresight」セミナーで発表された井関 隆之氏（NEDO TSC ナノテクノロジー・材料ユニット 研究員） の発表資料から市場規模を紹介する",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターは最終製品の生産に用いられる以外に、治具や試作、補修部品生産で利用されるケースも多いので、2017年までの出荷累計台数のすべてが最終製品用途ではない",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターによる造形品で上位を占めるのが、金型、医療、エレクトロニクス分野",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "実際に展示会などでも、自動車を念頭に置いた金型や試作などの展示会で金属3Dプリンターの紹介は始まっており、熱心に説明に聞き入る人を見かけるが、複雑な形状や",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "を使った金型作成なども今後は3Dプリンターをつかって新しく広がっていく可能性がある",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "日本版SBIR制度による研究開発支援プログラム ― 国立研究開発法人新エネルギー・産業技術総合開発機構",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "ShareLabでは以前、NEDO（国立研究開発法人新エネルギー・産業技術総合開発機構）が公開した調査データをもとに、2030年の金属3Dプリンターによる造形品 …",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE PARTNERSとNTTデータザムテクノロジーズ、AM量産市場創出へ戦略的提携",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "指向性エネルギー堆積法 / DED（Direct Energy Deposition）を解説！WAAM方式と何が違う？",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界で活躍する3Dプリンター製の治具・工具",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の3Dプリンター活用の現状と将来",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の試作開発部門で活躍する3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙業界における3Dプリンターの活用",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "航空業界で活躍する3Dプリンター製最終製品",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "砂型3Dプリンターってなに？鋳造プロセスを大幅に改革、量産に活用されるAM技術の注目株！",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "新エネルギー・産業技術総合開発機構（NEDO）は2019年2月8日、金属積層造形プロセスや機能性化学品製造プロセスについて、最新動向や課題をまとめたレポート「TSC Foresight」を発表した",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "新エネルギー・産業技術総合開発機構（NEDO）は2019年2月8日、各技術分野の最新状況や技術課題などをまとめたレポート「TSC Foresight」における、金属積層造形プロセスや機能性化学品製造プロセスの調査結果を発表した",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在は航空機向けで導入が始まり、一部の金型で適用が進みつつある段階だ",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタで出力した造形品の2030年の市場規模を業種ごとに見ると、金型や工具が8000億円、医療が5600億円、エレクトロニクスが4000億円、航空宇宙が1100億円、ロボットが1000億円と見込まれている",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "これに対し、ラジエーターやターボチャージャーなど自動車部品、航空機や自動車、建材などの補修部品では、金属3Dプリンタの活用は、先述した市場ほどは伸びない",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属製自動車部品は市場全体の規模が3.4兆円なのに対し、金属3Dプリンタで生産する部品は600億円程度にとどまる見込み",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "これについて井関氏は、「3Dプリンタ本体や材料だけをコスト低減の対象とするのではなく、製造プロセス全体、航空機の燃費など完成品としてみた時のメリットなど、広い視点でコストを抑えられるか検討する必要がある」とコメントした",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空機業界や金型修理などの領域で着実に成長を重ねており「2025年には500億円の売上高を目指す」（DMG森精機 取締役社長 森雅彦氏）としている",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタの利用領域拡大、自動車部品や航空機部品を狙い大型化",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "大型化に対応し、従来の精密製品の金型用途だけでなく自動車部品など幅広い製品ニーズに対応する",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "AMを「試作」から「量産」へ、樹脂と金属の技術を持つ2社が連携",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "国立研究開発法人 新エネルギー・産業技術総合開発機構",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が、 樹脂は金型を用い、 数百℃の低温で直接最終形状に ま",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これらの技術は、 造形デー タがあれば金型成形や機械",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "加工を経る こ と な く 物体の形状を作製で き る こ と から、 試作",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "と も称され、 製品開発におけるデザイ ン検討や試作の工程",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "外装部品 溶融温度が低く加熱 ・ 冷却を高速で行えるため、 低コストかつ低エネルギーで量産が",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、 金型の製造コストが高く、 経済性確保のために生産数の確保が必要",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高温にするための熱エネルギー、 加工のための機械加工エネルギーが必要",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "熱可塑性樹脂を熱で溶融して金型に流し込み、 冷却後に成形体を取り出す",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "粉末を敷いた面に選択的にエネルギービームを照射して溶",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "原料粉末をノズルから供給しながら、 エネルギービームで熱",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "航空機用部品は、 部品点数の削減や軽量化が求め られて",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "その他、 医療用途や",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金型等は単品製造にな るため、 本技術を展開 しやすい分",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "医療用途 （インプラント、 人工骨）",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金型全体7兆円以上",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "航空 3.5兆円 （OH含む）",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金型、 ドリル",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "航空機エンジン、",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   }
+  ],
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "バイオプラスチックのライフサイクルと普及・導入に向けた課題",
+    "url": "https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "海洋生分解性プラスチック開発・普及導入ロードマップ",
+    "url": "https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 経済産業省が公表した海洋生分解性プラスチック開発・普及導入ロードマップに、NEDO 「バイオプラスチック分野」の技術戦略が活用",
+    "url": "https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "*Sustainable Development Goals",
+    "url": "https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※ 「革新技術の導入・普及」の矢印は、世界全体で排出量半減の目標を達成するためには、既存技術の向上・普及だけでなく、より革新的な技術の普及による削減が必要であること",
+    "url": "https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「Android」、アプリの「バブル」化機能を導入--アプリへのアクセスが容易に",
+    "url": "https://japan.cnet.com/article/35222027/",
+    "pass": 3
+   },
+   {
+    "quote": "2030年の金属3Dプリンターによる造形品の市場規模を考察 | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター（104）",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "2030年の金属3Dプリンターによる造形品の市場規模を考察",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターはどの程度世界に普及しているのか",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "これによると、全出荷台数は2000年から2017年で世界各国の累計で5768台、生産国はドイツが過半数を占める状況だったが、GEによるM&Aで米系資本が台頭している結果となっている",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターは最終製品の生産に用いられる以外に、治具や試作、補修部品生産で利用されるケースも多いので、2017年までの出荷累計台数のすべてが最終製品用途ではない",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "ただ今後最終製品の生産に関与する度合いが高まっていく傾向にあることを見据えて、2030年の金属3Dプリンターによる造形品市場規模を推定したのが上記の図表だ",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタ対象市場",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタ",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターによる造形品で上位を占めるのが、金型、医療、エレクトロニクス分野",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "実際に展示会などでも、自動車を念頭に置いた金型や試作などの展示会で金属3Dプリンターの紹介は始まっており、熱心に説明に聞き入る人を見かけるが、複雑な形状や",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業界への実用化が進む金属3Dプリンター、2,500億円に成長見込み",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "ShareLabでは以前、NEDO（国立研究開発法人新エネルギー・産業技術総合開発機構）が公開した調査データをもとに、2030年の金属3Dプリンターによる造形品 …",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター導入における作業者健康対策ガイド",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター導入企業必見！IPA洗浄と有機則の関係を徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "【2023年版】大型3Dプリンターの比較・選び方〜造形方式ごとの特徴や、導入時に気をつけたいこと",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "【3D プリンター導入③】発注から設置までの流れを知る",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "【3Dプリンター導入①】機種の検討・選定時のポイント",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "【3Dプリンター導入②】導入依頼時の注意点",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "【3Dプリンター導入④】有効活用するための運用方法",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターの造形方式を解説！FDM？MEX？PBF？DEDってなに？",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末床溶融結合法 / PBF（Powder Bed Fusion）を解説！SLS方式、SLM方式と何が違う？",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタ製部品の市場は2兆円、日本が強みを発揮するには：3Dプリンタニュース - MONOist",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタ製部品の市場は2兆円、日本が強みを発揮するには",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "新エネルギー・産業技術総合開発機構（NEDO）は2019年2月8日、金属積層造形プロセスや機能性化学品製造プロセスについて、最新動向や課題をまとめたレポート「TSC Foresight」を発表した",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "新エネルギー・産業技術総合開発機構（NEDO）は2019年2月8日、各技術分野の最新状況や技術課題などをまとめたレポート「TSC Foresight」における、金属積層造形プロセスや機能性化学品製造プロセスの調査結果を発表した",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "発行に合わせて記者向けに説明会を開き、NEDO 技術戦略研究センター（TSC）でナノテクノロジー・材料ユニットに所属する井関隆之氏が金属積層造形プロセス（金属3Dプリンタ）の課題について説明した",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "本稿では金属積層造形プロセスに焦点を当ててレポートの概要を紹介する",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタは、従来の加工では困難な形状や造形を実現することができる",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在は航空機向けで導入が始まり、一部の金型で適用が進みつつある段階だ",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "今後、さまざまな分野の製造現場で導入が増え、金属3Dプリンタ本体、金属粉末材料、出力した造形品の市場がそれぞれ拡大していく見込みだ",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年の市場規模は、金属3Dプリンタ本体が2017年比5.3倍の6500億円、金属粉末材料は2016年比45〜59倍の5000~6500億円、出力した造形品の市場は2兆円にまで成長するという",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタで出力した造形品の2030年の市場規模を業種ごとに見ると、金型や工具が8000億円、医療が5600億円、エレクトロニクスが4000億円、航空宇宙が1100億円、ロボットが1000億円と見込まれている",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "これに対し、ラジエーターやターボチャージャーなど自動車部品、航空機や自動車、建材などの補修部品では、金属3Dプリンタの活用は、先述した市場ほどは伸びない",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属製自動車部品は市場全体の規模が3.4兆円なのに対し、金属3Dプリンタで生産する部品は600億円程度にとどまる見込み",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "補修部品は市場全体が4兆円だが、金属3Dプリンタによる造形部品は210億円となる見通しだ",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタ関連の市場予測（クリックして拡大） 出典：NEDO",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタをモノづくりで活用するには幾つかの課題がある",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "1つは金属3Dプリンタ本体と金属粉末材料のコストだ",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "現状では金属3Dプリンタ本体は1台1億円以上、金属粉末材料は1kgあたり数万円となっている",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタで出力したものは、造形中に内部に欠陥が生じる場合がある",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "井関氏は日本が取り組む金属積層造形の理想形について、「内部の欠陥をなくしながら、従来の金属加工技術と同等の表面仕上げを実現すること」だと述べた",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "従来と同等の表面仕上げの実現に関しては、既に工作機械メーカー各社が切削加工機に金属3Dプリンタの機能を付加した複合機を提案している",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形に関して日本が取り組むべき技術課題とは（クリックして拡大） 出典：NEDO",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタ活用3つのハードルと日本のモノづくりの今後",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタ関連の技術開発が急速に進み、海外を中心に製造事例も聞こえてくるようになった今日、その動きに取り残されないよう、従来の考え方や経験にとらわれない仕事をしていくことが、今後はより重要になっていきそうだ",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタ市場は世界的には成長傾向、日本は規模が小さく成長も鈍い",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形プロセス技術の概要 ……………………………… 2",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1-3 金属積層造形プロセス技術の概要 ……………………………………………… 5",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1-4 金属積層造形プロセス技術の現状 ……………………………………………… 7",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形プロセス技術の置かれた状況 ………………………… 8",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "■ 資源循環（プラスチック、アルミニウム）",
+    "url": "https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "RMIT大学、水に浮くチタン製ラティス構造体を3Dプリンターで開発、損傷後も浮力を維持",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターで使える金属材料は？ステンレスやアルミニウムなど種類と特徴を解説",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末床溶融結合法 / PBF（Powder Bed Fusion）を解説！SLS方式、SLM方式と何が違う？",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "今後、さまざまな分野の製造現場で導入が増え、金属3Dプリンタ本体、金属粉末材料、出力した造形品の市場がそれぞれ拡大していく見込みだ",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年の市場規模は、金属3Dプリンタ本体が2017年比5.3倍の6500億円、金属粉末材料は2016年比45〜59倍の5000~6500億円、出力した造形品の市場は2兆円にまで成長するという",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "1つは金属3Dプリンタ本体と金属粉末材料のコストだ",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "現状では金属3Dプリンタ本体は1台1億円以上、金属粉末材料は1kgあたり数万円となっている",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属蒸気や金属飛沫（スパッタ）、温度分布、粉末材料の敷き詰め方などを観測、計測し、どのような条件が影響して内部の欠陥が発生するのか解明する計画だ",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "粉末原料を各種手法で仮成形した後に高温焼成して固める （焼結）",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金属材料では、 粉末床溶融結合方式と指向性エネル",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "バイ ン ダー噴射方式は、 粉末材料を完全",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "方式のほか、 粉末試料を光硬化性樹脂に分散 し、 液相光",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ラ ミ ッ ク ス粉末は レーザー光で直接焼結が難 しいため、 粉",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金属を複合化 したサー メ ッ ト 材料は、 粉末床溶融結合方式",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "液状バインダーを粉末に噴射し選択的に固化させて造形、 ま",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "粉末を敷いた面に選択的にエネルギービームを照射して溶",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "原料粉末をノズルから供給しながら、 エネルギービームで熱",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金属材料では、 主に粉末床溶融結合方式、 指向性エネ",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "粉末を敷き詰めた表面上にガルバ ノ ミ ラーで レーザーを2次元",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "粉末に比べ材料コ ス ト が低い と い う 利点があるが、 造形形状",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形で、 最も多 く 用い られる材料形態は粉末で",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末の製造方法は、 機械的方法 （ボール ミ ル法、",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "し、 球状の粉末を得やす く 酸化 しに く いため、 金属積層造形",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 溶融金属に高圧水を吹き付けて粉末化 ・ 低コス ト",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 溶融金属に高圧ガスを吹き付けて粉末化 ・ 球状化しやすい",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、 積層造形用の粉末材料には、 粉末の流動性向上",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、 装置・金属粉末材料・ プロセ",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "価格帯は主に材料押出方式、 高価格帯は粉末焼結造形",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（粉末床溶融結合方式） が多 く 用い られ、 装置価格は造",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "こ こでは、 主方式である粉末床溶融結合方式と指",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "インコネル718",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ステンレ ス、 インコネル、",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "工 具 鋼 、銅 等",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "技術戦略で明日への地図を描け NEDO 技術戦略研究センター の ... — 技術戦略で明日への地図を描け NEDO 技術戦略研究センター の ... Focus NEDO https://webmagazine.nedo.go.jp > focusnedo91 > article02",
+    "url": "https://webmagazine.nedo.go.jp/pickupnews/focusnedo91/article02.html",
+    "pass": 3
+   },
+   {
+    "quote": "技術戦略研究センター の紹介 - NISTEP — 技術戦略研究センター の紹介 - NISTEP 科学技術・学術政策研究所 (NISTEP) PDF https://www.nistep.go.jp > wp-content > uploads > 2...",
+    "url": "https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "NEDO 技術戦略研究センター 長・三島良直氏 超スマート ... — NEDO 技術戦略研究センター 長・三島良直氏 超スマート ... 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/518897",
+    "pass": 3
+   },
+   {
+    "quote": "NEDO 技術戦略研究センター サステナブルエネルギーユニット ... — NEDO 技術戦略研究センター サステナブルエネルギーユニット ... 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/697266",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "夢を追ったニデック、上場廃止は免れないのか",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "pass": 3
+   },
+   {
+    "quote": "REALIZER （ドイツ） の子会社化によ り、",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 国、 大学、 企業による共同出資",
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://webmagazine.nedo.go.jp/pickupnews/focusnedo91/article02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://japan.cnet.com/article/35222027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nedo.go.jp/content/100888376.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fitc.pref.fukuoka.jp/facility/setsubi/dep-list/meri/kinzoku-sekisou-zoukei.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nedo.go.jp/activities/tsc_index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://japan.cnet.com/article/35222027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nedo.go.jp/library/ZZNA_100062.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www8.cao.go.jp/cstp/tyousakai/kihon7/wg/4kai/shiryo3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "技術戦略研究センター",
+   "results": [
+    "https://www.nedo.go.jp/activities/tsc_index.html",
+    "https://www.nedo.go.jp/activities/tsc_soshiki.html",
+    "https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf",
+    "https://www.nikkan.co.jp/articles/view/518897",
+    "https://www.nedo.go.jp/library/foresight.html",
+    "https://www8.cao.go.jp/cstp/tyousakai/kihon7/wg/4kai/shiryo3.pdf",
+    "https://www.cho-monodzukuri.jp/event/show/id/dekzb52tds",
+    "https://www.nedo.go.jp/library/ZZNA_100062.html",
+    "https://webmagazine.nedo.go.jp/pickupnews/focusnedo91/article02.html",
+    "https://www.nedo.go.jp/activities/tsc_message.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "株式会社技術戦略研究センター",
+   "results": [
+    "https://www.nedo.go.jp/activities/tsc_index.html",
+    "https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf",
+    "https://www.nedo.go.jp/activities/tsc_soshiki.html",
+    "https://www.nikkan.co.jp/articles/view/518897",
+    "https://www.nedo.go.jp/library/foresight.html",
+    "https://www.jstage.jst.go.jp/article/jieenermix/102/6/102_786/_article/-char/ja",
+    "https://www.cho-monodzukuri.jp/event/show/id/dekzb52tds",
+    "https://www8.cao.go.jp/cstp/tyousakai/kihon7/wg/4kai/shiryo3.pdf",
+    "https://prtimes.jp/main/html/rd/p/000000188.000135644.html",
+    "https://www.tepco.co.jp/about/institute/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "技術戦略研究センター 株式会社",
+   "results": [
+    "https://www.nedo.go.jp/activities/tsc_index.html",
+    "https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf",
+    "https://www.nedo.go.jp/library/ZZNA_100062.html",
+    "https://www.nikkan.co.jp/articles/view/518897",
+    "https://www.jstage.jst.go.jp/article/jieenermix/102/6/102_786/_article/-char/ja",
+    "https://www.cho-monodzukuri.jp/event/show/id/dekzb52tds",
+    "https://www.nedo.go.jp/activities/tsc_message.html",
+    "https://www8.cao.go.jp/cstp/tyousakai/kihon7/wg/4kai/shiryo3.pdf",
+    "https://prtimes.jp/main/html/rd/p/000000188.000135644.html",
+    "https://www.tepco.co.jp/technology/research/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "技術戦略研究センター 会社概要 資本金 設立",
+   "results": [
+    "https://webmagazine.nedo.go.jp/pickupnews/focusnedo91/article02.html",
+    "https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf",
+    "https://japan.cnet.com/article/35222027/",
+    "https://www.nikkan.co.jp/articles/view/518897",
+    "https://www.ctie.co.jp/company/outline/",
+    "https://www.nedo.go.jp/activities/tsc_message.html",
+    "https://dempa-digital.com/article/579027",
+    "https://101consul.co.jp/usefulinfo/usefulreport/usefulreport_3.html",
+    "https://www.jri.co.jp/company/profile/",
+    "https://ftr.co.jp/companyinfo/history.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "技術戦略研究センター 金属3Dプリンタ 導入",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html",
+    "https://www.nedo.go.jp/content/100888376.pdf",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://www.youtube.com/watch?v=Byfy7tsLawE",
+    "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/the-future-of-metal-3d-printing",
+    "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "技術戦略研究センター 金属積層造形 設備",
+   "results": [
+    "https://www.nedo.go.jp/content/100888376.pdf",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://www.fitc.pref.fukuoka.jp/facility/setsubi/dep-list/meri/kinzoku-sekisou-zoukei.php",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-sankoushiryousyu.pdf",
+    "https://orist.jp/gaiyou/facility_izumi/tri3d/",
+    "https://www.gitc.pref.nagano.lg.jp/zairyo/3Ddigital/setsubi/1_3Dprinter.html",
+    "https://jampt.jp/equipment/",
+    "https://www.youtube.com/watch?v=5KVb69CSTXU",
+    "https://ja.3dsystems.com/semiconductor",
+    "https://www8.cao.go.jp/cstp/anzen_anshin/02-08_20231020_meti_6.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "技術戦略研究センター 株主 出資 親会社",
+   "results": [
+    "https://www.nedo.go.jp/activities/tsc_index.html",
+    "https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf",
+    "https://japan.cnet.com/article/35222027/",
+    "https://www.nedo.go.jp/library/foresight.html",
+    "https://www.jftc.go.jp/dk/guideline/unyoukijun/startup.html",
+    "https://www.ge.com/news/press-releases/ge%E3%81%A8%E3%83%A0%E3%83%90%E3%83%80%E3%83%A9%E3%80%81%E6%95%B0%E5%8D%81%E5%84%84%E3%83%89%E3%83%AB%E8%A6%8F%E6%A8%A1%E3%81%AE%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%83%BB%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%81%A7%E6%8F%90%E6%90%BA",
+    "https://newswitch.jp/p/46859",
+    "https://www.dnp.co.jp/news/detail/20178269_1587.html",
+    "https://www.mitsui.com/jp/ja/topics/2026/1252943_15334.html",
+    "https://ja.wikipedia.org/wiki/日本総合研究所_(株式会社)"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "技術戦略研究センター 売上高 従業員数",
+   "results": [
+    "https://www.nedo.go.jp/library/ZZNA_100062.html",
+    "https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf",
+    "https://www8.cao.go.jp/cstp/tyousakai/kihon7/wg/4kai/shiryo3.pdf",
+    "https://japan.cnet.com/article/35222027/",
+    "https://www.nikkan.co.jp/articles/view/697266",
+    "https://www.nedo.go.jp/content/100957753.pdf",
+    "https://www.jri.co.jp/company/profile/",
+    "https://www.shionogi.com/star/jp/ja/company/outline.html",
+    "https://www.vtec.co.jp/ja/ir/news/auto_20190627143800_S100G9Z0.html",
+    "https://techstudywork.jp/company/cti-engineering"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 技術戦略研究センター",
+   "results": [
+    "https://note.com/pbdlab/n/n7c396e97ed4d",
+    "https://note.com/exportcontrol/n/n9bb67fdf759c",
+    "https://note.com/nec_iise/n/n73077021b074",
+    "https://note.com/kiyotani/n/n264cbfea1778",
+    "https://note.com/ischool_jsic/n/n30c4b4f35ea7",
+    "https://note.com/letsrole",
+    "https://note.com/asahi_tech",
+    "https://note.com/letsrole/n/n9ced59a9e239",
+    "https://note.com/hydrogen_to_x/n/nfca91c16dc73",
+    "https://note.com/kyoto_up/n/n689b49276df6"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 技術戦略研究センター",
+   "results": [
+    "https://x.com/Jakarta_Nippo/status/2118251488392921475",
+    "https://x.com/nedo_info/status/2094326892103168264",
+    "https://x.com/RIETIjp/status/2066430516555858149",
+    "https://x.com/tousuuken/status/2112758376950358354",
+    "https://x.com/roles_hq",
+    "https://x.com/Nids1952/status/2114968851763105902",
+    "https://x.com/cao_kagi",
+    "https://x.com/nedo_info/status/2105126780323737870/photo/1",
+    "https://x.com/UTokyo_News/status/2039504900493557944",
+    "https://x.com/nedo_info/status/1767090606705369522"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com 技術戦略研究センター",
+   "results": [
+    "https://jp.linkedin.com/in/yuto-nakagami-4807b313b",
+    "https://jp.linkedin.com/in/kazuya-kitagawa",
+    "https://jp.linkedin.com/company/institute-for-global-environmental-strategies-japan",
+    "https://jp.linkedin.com/pulse/what-new-agentic-era-means-your-career-business-strategy-arshad-glh1f?tl=ja",
+    "https://jp.linkedin.com/jobs/view/%E3%80%901034%E3%80%91-hg-%E5%B0%86%E6%9D%A5%E3%81%AEhonda%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E5%B0%86%E6%9D%A5%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E7%AD%96%E5%AE%9A%E3%81%A8%E3%81%9D%E3%81%AE%E5%AE%9F%E7%8F%BE%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E7%A0%94%E7%A9%B6%E6%89%80%E9%81%8B%E5%96%B6%E6%96%B9%E9%87%9D%E7%AD%96%E5%AE%9A-at-honda-4473074144",
+    "https://www.linkedin.com/posts/ryo-hinata-yamaguchi_%E5%89%B5%E7%99%BA%E6%88%A6%E7%95%A5%E7%A0%94%E7%A9%B6%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%A9%E3%83%9Croles-activity-6857559971786321920-xn2q",
+    "https://jp.linkedin.com/in/%E5%9F%BA%E6%A8%B9-%E9%BD%8A%E8%97%A4-4b5b581b9",
+    "https://jp.linkedin.com/in/wataru-ohira-208036209",
+    "https://jp.linkedin.com/in/%E6%98%A5%E9%A6%99-%E9%BD%8B%E8%97%A4-741482188",
+    "https://www.linkedin.com/jobs/技術戦略研究センター-就職-jobs?f_EA=true"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com 技術戦略研究センター",
+   "results": [
+    "https://www.facebook.com/nedo.fb/posts/innovationoutlook-%E9%80%9F%E5%A0%B1nedo%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E6%88%A6%E7%95%A5%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BCtsc%E3%81%8C%E5%85%AC%E8%A1%A8%E4%BA%88%E5%AE%9A%E3%81%AEinnovation-outlook-%E5%A2%97%E8%A3%9C%E7%89%88%E3%81%AE%E9%80%9F%E5%A0%B1%E7%AC%AC6%E5%BC%BE%E3%81%AF-%E5%8E%9F%E5%AD%90%E5%B1%A4%E3%82%A8/984020523995534/",
+    "https://www.facebook.com/nedo.fb/posts/innovationoutlook%E5%85%AC%E8%A1%A8%E6%9C%AA%E6%9D%A5%E3%82%92%E6%8D%89%E3%81%88%E6%8F%8F%E3%81%8D%E5%85%B1%E3%81%AB%E5%89%B5%E3%82%8B%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E6%88%A6%E7%95%A5%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-tsc-%E3%81%AF%E5%88%9D%E3%81%AE%E4%BF%AF%E7%9E%B0%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88innovation-outlook-vers/737825505281705/",
+    "https://www.facebook.com/nedo.fb/posts/innovationoutlook-%E9%80%9F%E5%A0%B1nedo%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E6%88%A6%E7%95%A5%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BCtsc%E3%81%8C%E5%85%AC%E8%A1%A8%E4%BA%88%E5%AE%9A%E3%81%AEinnovation-outlook-%E5%A2%97%E8%A3%9C%E7%89%88%E3%81%AE%E9%80%9F%E5%A0%B1%E7%AC%AC8%E5%BC%BE%E3%81%AF-%E6%B5%B7%E6%B4%8B%E3%83%AD%E3%83%9C/987352516995668/",
+    "https://www.facebook.com/HelloTomorrowJP/posts/hello-tomorrow-japan-challenge-2023-%E5%AF%A9%E6%9F%BB%E5%93%A1%E3%81%AE%E3%81%94%E7%B4%B9%E4%BB%8B%E2%91%A5%E9%AB%98%E7%94%B0-%E5%92%8C%E5%B9%B8%E6%B0%8F-%E5%9B%BD%E7%AB%8B%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E6%B3%95%E4%BA%BA-%E6%96%B0%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E9%96%8B%E7%99%BA%E6%A9%9F%E6%A7%8Bnedo/677002984468072/",
+    "https://www.facebook.com/nedo.fb/posts/innovationoutlook-%E9%80%9F%E5%A0%B1nedo%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E6%88%A6%E7%95%A5%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BCtsc%E3%81%8C%E5%85%AC%E8%A1%A8%E4%BA%88%E5%AE%9A%E3%81%AEinnovation-outlook-%E5%A2%97%E8%A3%9C%E7%89%88%E3%81%AE%E9%80%9F%E5%A0%B1%E7%AC%AC12%E5%BC%BE%E3%81%AF%E3%83%96%E3%83%AC%E3%82%A4%E3%83%B3/992286473168939/",
+    "https://www.facebook.com/nedo.fb/posts/10%E6%9C%885%E6%97%A5%E4%BA%AC%E9%83%BD%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%81%9Fsts-forum-2026%E3%81%AE%E4%BC%9A%E5%A0%B4%E3%81%A7nedo%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E6%88%A6%E7%95%A5%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BCtsc%E3%81%AE%E5%B2%B8%E6%9C%AC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E9%95%B7%E3%81%AF%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E5%9B%BD%E7%AB%8B%E7%A0%94%E7%A9%B6%E8%A9%95%E8%AD%B0%E4%BC%9A%E3%81%AE%E3%82%B9%E3%83%B4%E3%82%A7%E3%83%AB%E3%83%88%E5%89%AF%E4%BC%9A%E9%95%B7/1106595071738078/",
+    "https://www.facebook.com/nedo.fb/posts/innovationoutlook-%E9%80%9F%E5%A0%B1nedo%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E6%88%A6%E7%95%A5%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BCtsc%E3%81%AF2026%E5%B9%B46%E6%9C%88%E3%81%ABinnocation-outlook-%E5%A2%97%E8%A3%9C%E7%89%88%E3%82%92%E5%85%AC%E8%A1%A8%E4%BA%88%E5%AE%9A%E3%81%A7%E3%81%99%E7%AC%AC2/980617677669152/",
+    "https://www.facebook.com/nedo.fb/posts/nedo%E3%83%88%E3%83%94%E3%83%83%E3%82%AF%E3%82%B9-10%E6%9C%8827%E6%97%A5nedo%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E6%88%A6%E7%95%A5%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BCtsc%E3%81%AE%E5%B2%B8%E6%9C%AC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E9%95%B7%E3%81%AF%E3%82%A4%E3%83%B3%E3%83%89%E3%83%8D%E3%82%B7%E3%82%A2%E3%81%AE%E6%94%BF%E5%BA%9C%E7%B3%BB%E6%8A%95%E8%B3%87%E3%83%95%E3%82%A1%E3%83%B3%E3%83%89%E3%83%80%E3%83%8A%E3%83%B3%E3%82%BF%E3%83%A9danantara-indo/1127001733030745/",
+    "https://www.facebook.com/nedo.fb/posts/innovationoutlook-%E9%80%9F%E5%A0%B1nedo%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E6%88%A6%E7%95%A5%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BCtsc%E3%81%AF2026%E5%B9%B46%E6%9C%88%E3%81%ABinnovation-outlook-%E5%A2%97%E8%A3%9C%E7%89%88%E3%82%92%E5%85%AC%E8%A1%A8%E4%BA%88%E5%AE%9A%E3%81%A7%E3%81%99%E7%AC%AC5/983022927428627/",
+    "https://www.facebook.com/NEDO-技術戦略研究センター-101043792612584/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "技術戦略研究センター note 社長",
+   "results": [
+    "https://www.nedo.go.jp/library/ZZNA_100062.html",
+    "https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf",
+    "https://japan.cnet.com/article/35222027/",
+    "https://www.nikkan.co.jp/articles/view/518897",
+    "https://www.youtube.com/watch?v=aKqyoJ8OOxo",
+    "https://note.com/letsrole",
+    "https://www.jstage.jst.go.jp/article/jieenermix/102/6/102_786/_article/-char/ja",
+    "https://note.com/fujitsu_pr/n/n560a927aa496",
+    "https://ja.wikipedia.org/wiki/岸本喜久雄",
+    "https://webmagazine.nedo.go.jp/pr-magazine/focusnedo78/sp1-1.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "技術戦略研究センター X 投稿",
+   "results": [
+    "https://www.nedo.go.jp/library/ZZNA_100062.html",
+    "https://x.com/nedo_info/status/2055468392656818581",
+    "https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf",
+    "https://japan.cnet.com/article/35222027/",
+    "https://www.nedo.go.jp/activities/tsc_index.html",
+    "https://www.nikkan.co.jp/articles/view/518897",
+    "https://www.rieti.go.jp/jp/events/bbl/26060902_kishimoto.pdf",
+    "https://www.cho-monodzukuri.jp/event/show/id/dekzb52tds",
+    "https://www.nedo.go.jp/activities/tsc_message.html",
+    "https://x.com/CRDS_Japan"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "資本金": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "創業年度": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "従業員数": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "所在地": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "保有設備": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）"
+ }
+}

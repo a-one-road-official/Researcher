@@ -1,0 +1,810 @@
+{
+ "name": "神奈川県立産業技術総合研究所",
+ "aliases": [],
+ "context": "PBF=unknown 装置= 出典=https://www.kistec.jp/connect/sup_case/ac_ipe0014/",
+ "researched_at": "2026-11-10T20:29:53.210725+00:00",
+ "official_url": "https://www.kistec.jp/",
+ "identified_by": "search:yahoo_jp:神奈川県立産業技術総合研究所",
+ "profile": {
+  "所在地": [
+   {
+    "label": "住所",
+    "value": "〒243-0435 神奈川県海老名市下今泉705-1",
+    "url": "https://www.kistec.jp/aboutus/research_integrity/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒231-0016 横浜市中区真砂町4ｰ43 木下商事ビル８F",
+    "url": "https://www.kistec.jp/aboutus/research_integrity/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "KISTECが保有している機器・設備をご紹介します",
+    "url": "https://www.kistec.jp/connect/support/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "過去3年以内に導入した機器はこちらからご確認いただけます",
+    "url": "https://www.kistec.jp/connect/support/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "KISTECが保有している機器・設備を掲載しています",
+    "url": "https://www.kistec.jp/aboutus/user_guide/",
+    "pass": 1
+   },
+   {
+    "quote": "産学公の技術連携を推進するために、企業・大学・官公庁等が保有する技術情報を紹介しています",
+    "url": "https://www.kistec.jp/aboutus/user_guide/",
+    "pass": 1
+   },
+   {
+    "quote": "LMD方式の金属3Dプリンタを用いた技術開発",
+    "url": "https://www.kistec.jp/connect/about/organization/jpedintro/",
+    "pass": 1
+   },
+   {
+    "quote": "科学的妥当性：従来の工業分野における科学的妥当性の検討だけでなく、生物医学研究の方法論（特にEBM、evidence based medicine：根拠に基づく医療）を参考に、医学分野における科学的妥当性を検討することが求られます",
+    "url": "https://www.kistec.jp/aboutus/research_integrity/",
+    "pass": 1
+   },
+   {
+    "quote": "導入年度 2024年度",
+    "url": "https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews37_web.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "図2：試作1号機実証⾵景",
+    "url": "https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews36_web.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "導入年度 2025年度",
+    "url": "https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews36_web.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "中小企業等に対し、事業化に向けた総合的な支援を行うため、商品企画開発段階から販路を見据えた製品開発を促進する製品開発支援、企業における生成AI等デジタル技術の導入・活用支援、売れる商品づくりを促進するためのデザイン支援、製品開発における知的財産権の活用を促進する知的財産支援を実施しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp250048/outline.html",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "エネルギー分散型微小部蛍光Ｘ線分析装置 [XGT-9000Expert]",
+    "url": "https://www.kistec.jp/connect/support/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "ロボット歯ブラシ「g.eN（ジェン）」の 大幅な小型化・軽量化が実現！量産化に向けて クラウドファンディングを開始！",
+    "url": "https://www.kistec.jp/aboutus/press/",
+    "pass": 1
+   },
+   {
+    "quote": "抗菌・抗ウイルス性能評価・再生・細胞医療関連評価のご相談・お問い合わせはこちら",
+    "url": "https://www.kistec.jp/aboutus/access/",
+    "pass": 1
+   },
+   {
+    "quote": "（依頼試験は、KISTECの試験計測事業でお受けします",
+    "url": "https://www.kistec.jp/aboutus/user_guide/",
+    "pass": 1
+   },
+   {
+    "quote": "新規事業創出のステージごとに、必要とされる各種支援サービスをご用意しており、どのステージから始めても、最後の事業化（量産化）まで、一貫したサポート体制を整えております",
+    "url": "https://www.kistec.jp/aboutus/user_guide/",
+    "pass": 1
+   },
+   {
+    "quote": "KISTEC開発・薬事相談サービスでは、京浜臨海部に展開する再生・細胞医療の産業化拠点「ライフイノベーションセンター」において、主に県内に拠点を持つ企業様から、再生医療等製品、革新的医薬品などの規制情報に関する相談や開発等に係る相談を受付けています",
+    "url": "https://www.kistec.jp/aboutus/user_guide/",
+    "pass": 1
+   },
+   {
+    "quote": "相談は、厚生労働省、医薬品医療機器総合機構（PMDA）などにおいて、医療政策、医薬品・医療機器の承認審査、安全対策、治験相談などで豊富な経験をもつアドバイザーが担当します",
+    "url": "https://www.kistec.jp/aboutus/user_guide/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器、ヘルスケア分野のご相談にも対応しています",
+    "url": "https://www.kistec.jp/aboutus/user_guide/",
+    "pass": 1
+   },
+   {
+    "quote": "抗菌・抗ウイルス性能評価、食品機能性評価や再生・細胞医療における新しい評価方法の開発と提供に向けた取り組みをしています",
+    "url": "https://www.kistec.jp/aboutus/user_guide/",
+    "pass": 1
+   },
+   {
+    "quote": "Society5.0、先進医療とウェルネス、環境・エネルギー、新しいモノづくりなど、新たな産業を牽引する分野に重点を置いた教育講座を開催します",
+    "url": "https://www.kistec.jp/aboutus/user_guide/",
+    "pass": 1
+   },
+   {
+    "quote": "KISTECでは、皆様からのご要望に応じて、試験計測（依頼試験）、技術開発受託（受託研究）、製品化支援をはじめとした様々な支援を行っています",
+    "url": "https://www.kistec.jp/aboutus/issues/",
+    "pass": 1
+   },
+   {
+    "quote": "設計試作グループでは以下の支援を行っております",
+    "url": "https://www.kistec.jp/connect/about/organization/jpedintro/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター等を活用したデザイン・試作支援",
+    "url": "https://www.kistec.jp/connect/about/organization/jpedintro/",
+    "pass": 1
+   },
+   {
+    "quote": "5軸制御マシニングセンタによるテーブル・椅子(模型)の試作",
+    "url": "https://www.kistec.jp/connect/about/organization/jpedintro/",
+    "pass": 1
+   },
+   {
+    "quote": "３Dプリンター(樹脂材料)による技術開発、製品開発、研究開発のための造形（試作）支援",
+    "url": "https://www.kistec.jp/connect/about/organization/jpedintro/",
+    "pass": 1
+   },
+   {
+    "quote": "近年では、工業分野から医療分野に新規参入することが、産学公で広がりを見せています",
+    "url": "https://www.kistec.jp/aboutus/research_integrity/",
+    "pass": 1
+   },
+   {
+    "quote": "医療分野に参入する場合、新たに試作され生産される機器には、その開発に要する実証試験において、下記の二点が課題となります",
+    "url": "https://www.kistec.jp/aboutus/research_integrity/",
+    "pass": 1
+   },
+   {
+    "quote": "科学的妥当性：従来の工業分野における科学的妥当性の検討だけでなく、生物医学研究の方法論（特にEBM、evidence based medicine：根拠に基づく医療）を参考に、医学分野における科学的妥当性を検討することが求られます",
+    "url": "https://www.kistec.jp/aboutus/research_integrity/",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、機能性を担保した再生細胞医療製品の開発につ",
+    "url": "https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews37_web.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "細胞医療等加工製品の研究開発を迅速に進めていくことが可",
+    "url": "https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews37_web.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "KISTEC殿町支所では、再生・細胞医療の産業化を目指した取",
+    "url": "https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews37_web.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の技術開発支援を通じて、再生細胞医療等加工製品の社会実装を",
+    "url": "https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews37_web.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "職員による機器利用者への技術指導や、再生・細胞医療における",
+    "url": "https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews37_web.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "羽田再生医療拠点 （CReM TONOHANE） 」 と、神奈川県が",
+    "url": "https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews37_web.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "企業等を組織した 「かながわ再生・細胞医療産業化ネットワー",
+    "url": "https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews37_web.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "KISTECは、再生細胞医療等加工製品の原材料・製品の品",
+    "url": "https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews37_web.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "特に、産学官による再生医療",
+    "url": "https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews37_web.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これらのことから、再生医療分野では",
+    "url": "https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews37_web.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セラミックスは、エネルギー、電子機器、医療、輸送など",
+    "url": "https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews37_web.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "宇宙開発の現状と将来展望 （第14回オープンテクノフォーラム）",
+    "url": "https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews37_web.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "作って、売る医療機器 （設計・製造編）",
+    "url": "https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews37_web.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "P6 設備ナビ：エネルギー分散型微小部蛍光X線分析装置",
+    "url": "https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews36_web.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "援を行いコンセプト動画や試作機をお披露目しました",
+    "url": "https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews36_web.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "図2：試作1号機実証⾵景",
+    "url": "https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews36_web.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "在する場合には、入力点に最も近い位置でエネルギー散逸",
+    "url": "https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews36_web.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "へ拡張し、 二次元SI分布に基づく振動エネルギー主流 （伝搬",
+    "url": "https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews36_web.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "SIを測定/算出することで、 振動エネルギーの流れを可視化",
+    "url": "https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews36_web.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "研究は行われており、 エネルギー伝搬経路の把握や低振動化の効果は確認されていますが、 具体的な対策",
+    "url": "https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews36_web.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "振動問題をエネルギーの観点から捉えるという、出身研究室の考え方に興味を持ったことが、現在の研究分野を選んだきっかけです",
+    "url": "https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews36_web.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "蛍光X線分析装置は、 測定対象にX線を照射した際に発生する蛍光X線のエネルギーが元素に固有であることを利用して、 非",
+    "url": "https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews36_web.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "エネルギー分散型微小部蛍光 X 線分析装置",
+    "url": "https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews36_web.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "機器名称 エネルギー分散型微小部蛍光X線分析装置",
+    "url": "https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews36_web.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⑮ 作って、売る医療機器 （企画・設計編） 令和 8 年10⽉ 8 日 （木） 、 9 日 （金）2日間 対面",
+    "url": "https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews36_web.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "研究員は、それぞれが持つ専門分野の知識を生かして、技術相談や依頼試験などの支援業務を通じて企業の課題解決のお手伝いを行っています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp250048/outline.html",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "銅系複合酸化物の開発と抗ウイルス活性機構の解明ー実験と計算材料科学を融合させた新たな研究スキームを提示ー",
+    "url": "https://www.kistec.jp/aboutus/press/",
+    "pass": 1
+   },
+   {
+    "quote": "ニッケル酸ビスマスの圧力誘起電荷非晶質化を発見—熱膨張問題を解決する新たな負熱膨張材料の開発に期待—",
+    "url": "https://www.kistec.jp/aboutus/press/",
+    "pass": 1
+   },
+   {
+    "quote": "過光学顕微鏡像であり、暗い領域はアルミナとの屈折率差",
+    "url": "https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews37_web.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "粉体粉末冶金協会第47回研究進歩賞 （2023）",
+    "url": "https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews37_web.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "粉体粉末冶金協会第22回論文賞 （2021）",
+    "url": "https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews37_web.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⑦ アルミニウム合金がよくわかる！～鋳造・熱処理・加工の基礎と今後の動向についてやさしく解説します～ 令和 8 年 10 月 22 日 （木） 、 23 日 （金） 2日間 オンライン",
+    "url": "https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews37_web.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⑬ アルミニウム表面処理技術セミナー～アノード酸化の基礎・皮膜機能・他材料への展開～ 令和 8 年 11 月 4 日 （水） 、 11 日 （水） 2日間 オンライン",
+    "url": "https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews37_web.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⑰ アルミニウム合金がよくわかる！ 〜鋳造・熱処理・加工の基礎と今後の動向についてやさしく解説します〜 令和 8 年10⽉22日 （木） 、23日 （金）2日間 オンライン",
+    "url": "https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews36_web.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "地方独立行政法人 神奈川県立産業技術総合研究所 【KISTEC】 — 地方独立行政法人 神奈川県立産業技術総合研究所 【KISTEC】 マイナビ https://job.mynavi.jp > search > corp250048 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp250048/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "KISTEC 神奈川県立産業技術総合研究所 - 機械振興会館 — KISTEC 神奈川県立産業技術総合研究所 - 機械振興会館 一般財団法人 機械振興協会 PDF https://www.jspmi.or.jp > pdf > fooma2023 > kistec",
+    "url": "https://www.jspmi.or.jp/tri/pdf/fooma2023/kistec.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "沿革 - | KISTEC｜(地独) 神奈川県立産業技術総合研究所 — 沿革 - | KISTEC｜(地独) 神奈川県立産業技術総合研究所 KISTEC https://www.kistec.jp > aboutus > history",
+    "url": "https://www.kistec.jp/aboutus/history/",
+    "pass": 3
+   },
+   {
+    "quote": "地方独立行政法人 神奈川県立産業技術総合研究所 - アカリク — 地方独立行政法人 神奈川県立産業技術総合研究所 - アカリク アカリク https://acaric.jp > company-search > detail > company",
+    "url": "https://acaric.jp/company-search/detail/148858/company",
+    "pass": 3
+   },
+   {
+    "quote": "地方独立行政法人 神奈川県立産業技術総合研究所 - マイナビ転職 — 地方独立行政法人 神奈川県立産業技術総合研究所 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company",
+    "url": "https://tenshoku.mynavi.jp/company/279954/",
+    "pass": 3
+   },
+   {
+    "quote": "| KISTEC｜(地独) 神奈川県立産業技術総合研究所 — | KISTEC｜(地独) 神奈川県立産業技術総合研究所 KISTEC https://www.kistec.jp",
+    "url": "https://www.kistec.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "神奈川県地方独立行政法人 神奈川県立産業技術総合研究所 評価 ... — 神奈川県地方独立行政法人 神奈川県立産業技術総合研究所 評価 ... 神奈川県 https://www.pref.kanagawa.jp > kistec > fuzokukikan",
+    "url": "https://www.pref.kanagawa.jp/docs/sr4/kistec/fuzokukikan.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "根本 俊介 - 地方独立行政法人 神奈川県立産業技術総合研究所 根本 俊介 - 地方独立行政法人 神奈川県立産業技術総合研究所 LinkedIn https://jp.linkedin.com > shunsukenemoto",
+    "url": "https://jp.linkedin.com/in/shunsukenemoto",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "地方独立行政法人 神奈川県立産業技術総合研究所 （KISTEC ... 地方独立行政法人 神奈川県立産業技術総合研究所 （KISTEC ... Facebook https://www.facebook.com > pythonicexam > posts > 地...",
+    "url": "https://www.facebook.com/pythonicexam/posts/%E5%9C%B0%E6%96%B9%E7%8B%AC%E7%AB%8B%E8%A1%8C%E6%94%BF%E6%B3%95%E4%BA%BA%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80kistec%E6%A7%98%E3%81%8C%E8%AA%8D%E5%AE%9A%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80%E6%A7%98%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AF%E4%BB%A5%E4%B8%8Bweb%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E3%81%94%E5%8F%82%E7%85%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84w/1772065104926821/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.kistec.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kistec.jp/connect/support/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kistec.jp/aboutus/press/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kistec.jp/aboutus/access/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kistec.jp/aboutus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kistec.jp/aboutus/user_guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kistec.jp/aboutus/mailmag_info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kistec.jp/aboutus/issues/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kistec.jp/connect/about/organization/jpedintro/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kistec.jp/kistec-news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kistec.jp/aboutus/roominfo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kistec.jp/saiyou/2026p10/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kistec.jp/aboutus/research_integrity/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kistec.jp/connect/about/topics/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews37_web.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews36_web.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kistec.jp/kistec-manage/wp-content/uploads/IMG_1475-s.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kistec.jp/kistec-manage/wp-content/uploads/knews-link-kiki.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp250048/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jspmi.or.jp/tri/pdf/fooma2023/kistec.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-sankoushiryousyu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-sankoushiryousyu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kanagawa.jp/docs/sr4/kistec/fuzokukikan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp250048/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp250048/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://acaric.jp/company-search/detail/148858/company",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/shunsukenemoto",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pythonicexam/posts/%E5%9C%B0%E6%96%B9%E7%8B%AC%E7%AB%8B%E8%A1%8C%E6%94%BF%E6%B3%95%E4%BA%BA%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80kistec%E6%A7%98%E3%81%8C%E8%AA%8D%E5%AE%9A%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80%E6%A7%98%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AF%E4%BB%A5%E4%B8%8Bweb%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E3%81%94%E5%8F%82%E7%85%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84w/1772065104926821/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "神奈川県立産業技術総合研究所",
+   "results": [
+    "https://www.kistec.jp/",
+    "https://www.pref.kanagawa.jp/docs/sr4/kistec/index.html",
+    "https://www.youtube.com/@KISTEC_official",
+    "https://ja.wikipedia.org/wiki/%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80",
+    "https://tenshoku.mynavi.jp/company/279954/",
+    "https://ja.wikipedia.org/wiki/神奈川県立産業技術総合研究所",
+    "https://genius.com/Qmayb-una-cunumi-remix-lyrics",
+    "https://genius.com/artists/Xvideo",
+    "https://genius.com/Tyga-taste-lyrics",
+    "https://genius.com/Nfasis-atomic-otro-way-and-el-experimento-12-mandamientos-2020-lyrics"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 24
+  },
+  {
+   "query": "神奈川県立産業技術総合研究所 会社概要 資本金 設立",
+   "results": [
+    "https://job.mynavi.jp/27/pc/search/corp250048/outline.html",
+    "https://www.jspmi.or.jp/tri/pdf/fooma2023/kistec.pdf",
+    "https://www.kistec.jp/aboutus/history/",
+    "https://acaric.jp/company-search/detail/148858/company",
+    "https://tenshoku.mynavi.jp/company/279954/",
+    "https://mono.ipros.com/company/detail/2044619/",
+    "https://www.pref.kanagawa.jp/docs/sr4/kistec/index.html",
+    "https://fields.canpan.info/organization/detail/1238602336?view=pc",
+    "https://lawplayer.com/jp/company/1021005010931",
+    "https://www.amazon.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 26
+  },
+  {
+   "query": "神奈川県立産業技術総合研究所 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.kistec.jp/connect/sup_case/ac_ipe0014/",
+    "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-sankoushiryousyu.pdf",
+    "https://www.youtube.com/watch?v=Byfy7tsLawE",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://www.jstage.jst.go.jp/article/jspmee/10/4/10_187/_pdf",
+    "https://kk-ariga.co.jp/metal_3d_printer/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B/",
+    "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "http://studentprivacy.ed.gov/faq/faqs-photos-and-videos-under-ferpa"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
+  },
+  {
+   "query": "神奈川県立産業技術総合研究所 金属積層造形 設備",
+   "results": [
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-sankoushiryousyu.pdf",
+    "https://www.kistec.jp/connect/sup_case/ac_ipe0014/",
+    "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "https://www.youtube.com/watch?v=J45B6Sornd8",
+    "https://jampt.jp/",
+    "https://www.iri-tokyo.jp/research/field/sekiso-zokei/",
+    "https://www.gitc.pref.nagano.lg.jp/zairyo/3Ddigital/setsubi/1_3Dprinter.html",
+    "https://www.youtube.com/watch?v=eDw_vYoZRUU",
+    "https://chuokatan.co.jp/products/3dp/",
+    "https://www.autotrader.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 36
+  },
+  {
+   "query": "神奈川県立産業技術総合研究所 株主 出資 親会社",
+   "results": [
+    "https://www.kistec.jp/",
+    "https://www.pref.kanagawa.jp/docs/sr4/kistec/fuzokukikan.html",
+    "https://job.mynavi.jp/27/pc/search/corp250048/outline.html",
+    "https://acaric.jp/company-search/detail/148858/company",
+    "https://www.jspmi.or.jp/tri/pdf/fooma2023/kistec.pdf",
+    "https://mono.ipros.com/company/detail/2044619/",
+    "https://fields.canpan.info/grant/detail/2482",
+    "https://www.kdf.or.jp/member/kistec",
+    "https://surfacedesignconsortium.com/member/kistec/",
+    "https://www.animated-teeth.com/cold_sores/t5_cold_sores_medications.htm"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
+  },
+  {
+   "query": "神奈川県立産業技術総合研究所 売上高 従業員数",
+   "results": [
+    "https://job.mynavi.jp/27/pc/search/corp250048/outline.html",
+    "https://www.kistec.jp/",
+    "https://acaric.jp/company-search/detail/148858/company",
+    "https://www.pref.kanagawa.jp/docs/sr4/kistec/fuzokukikan.html",
+    "https://www.jspmi.or.jp/tri/pdf/fooma2023/kistec.pdf",
+    "https://www.openwork.jp/company.php?m_id=a0C1000001HqRD5",
+    "https://mono.ipros.com/company/detail/2044619/",
+    "https://www.youtube.com/watch?v=B6Me8vF2jec",
+    "https://doda.jp/DodaFront/View/EndJobDetail/j_id__3007683243/",
+    "https://etd.auburn.edu/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
+  },
+  {
+   "query": "site:note.com 神奈川県立産業技術総合研究所",
+   "results": [
+    "https://note.com/kayotaka/n/na3d3b09d4083",
+    "https://note.com/treng657/n/n5670f3128f4d",
+    "https://note.com/medielite/n/nde5a9315550b",
+    "https://note.com/arcmasters/n/nc5a6e7b6f91a",
+    "https://note.com/seizou_dx_ai/n/nd4a70b9e9a42",
+    "https://note.com/lamra_sio/n/n27f643291f43",
+    "https://note.com/libraryfair/n/n053a494dcd22",
+    "https://note.com/miyakekatuhisa/n/n899cf0b93a8d",
+    "https://note.com/uue119/n/na3a73aa65ef6",
+    "https://note.com/m_miyamoto_529/n/ne7166ca969ff"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "site:x.com 神奈川県立産業技術総合研究所",
+   "results": [
+    "https://x.com/KISTEC_O_PR",
+    "https://x.com/quemix_inc/status/1850828111207965027",
+    "https://x.com/KISTEC_O_PR/status/2095294860270182501",
+    "https://x.com/JissoNews/status/2102908371925877054",
+    "https://x.com/UTokyo_IIS/status/2064203494052278500",
+    "https://x.com/KISTEC_KOUZA1",
+    "https://x.com/googuuganmo/status/1937281511981805904",
+    "https://x.com/uectokyo/status/2041397323369164907",
+    "https://x.com/KISTEC_O_PR/status/2112702008520257761",
+    "https://en.wikipedia.org/wiki/YouTube"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com 神奈川県立産業技術総合研究所",
+   "results": [
+    "https://jp.linkedin.com/in/tsuyoshiochiai",
+    "https://jp.linkedin.com/in/%E6%84%9B-%E5%B1%B1%E5%8F%A3-52a543236",
+    "https://jp.linkedin.com/in/shunsukenemoto",
+    "https://jp.linkedin.com/in/%E6%8B%93%E6%A8%B9-%E5%A4%A7%E5%B7%9D-b09811216",
+    "https://jp.linkedin.com/in/%E4%BD%B3%E4%B9%85-%E6%9D%BE%E6%9C%AC-491b6a179",
+    "https://jp.linkedin.com/in/hiroko-takei-486596311",
+    "https://jp.linkedin.com/in/yoichiro-ueno-bb389748",
+    "https://jp.linkedin.com/in/shigeto-sudo-46757180",
+    "https://www.linkedin.com/pub/dir/Hikaru/Kurasawa"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com 神奈川県立産業技術総合研究所",
+   "results": [
+    "https://www.facebook.com/pythonicexam/posts/%E5%9C%B0%E6%96%B9%E7%8B%AC%E7%AB%8B%E8%A1%8C%E6%94%BF%E6%B3%95%E4%BA%BA%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80kistec%E6%A7%98%E3%81%8C%E8%AA%8D%E5%AE%9A%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80%E6%A7%98%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AF%E4%BB%A5%E4%B8%8Bweb%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E3%81%94%E5%8F%82%E7%85%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84w/1772065104926821/",
+    "https://www.facebook.com/kanagawakintaro/posts/%E7%9F%A5%E3%82%8C%E3%81%B0%E7%9F%A5%E3%82%8B%E3%81%BB%E3%81%A9%E3%81%9F%E3%81%AE%E3%81%97%E3%81%84%E7%90%86%E7%A7%91%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%AB%E9%A3%9B%E3%81%B3%E8%BE%BC%E3%82%93%E3%81%98%E3%82%83%E3%81%8A%E3%81%8610%E6%9C%8817%E6%97%A5%E5%9C%9F%E6%9B%9C%E3%81%AB%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%82%8Bkistec%E3%82%AD%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E5%AE%9F%E9%A8%93%E7%A7%8B%E7%A5%AD%E3%82%8A%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%81%A0%E3%82%88%E4%BC%9A%E5%A0%B4%E3%81%AF%E6%B5%B7%E8%80%81%E5%90%8D%E5%B8%82%E3%81%AE%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F/1511682207658687/",
+    "https://www.facebook.com/JissoNews/photos/1%E6%9C%8822%E6%97%A5%E6%9C%A8%E3%81%A81%E6%9C%8830%E6%97%A5%E9%87%91-1%E6%97%A5%E5%AE%8C%E7%B5%902%E5%9B%9E%E9%96%8B%E5%82%AC-%E3%81%AE930-1630%E3%81%AB%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80-kistec-%E3%81%8Cemc%E5%85%A5%E9%96%80%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC-%E5%AE%9F%E7%BF%92%E7%B7%A8-%E4%BA%88%E5%82%99%E8%A9%A6%E9%A8%93%E3%82%84%E3%83%8E%E3%82%A4%E3%82%BA%E5%AF%BE%E7%AD%96/1301274395134611/",
+    "https://www.facebook.com/kikue.shimokawa/posts/kistec%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80%E8%A8%AA%E5%95%8F%EF%B8%8F%E4%BB%8A%E9%80%B2%E3%82%81%E3%81%A6%E3%81%84%E3%82%8B%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E4%BB%B6%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%85%E7%BD%AE%E3%81%AE%E8%A6%8B%E5%AD%A6%E3%81%A8%E5%85%B1%E5%90%8C%E7%A0%94%E7%A9%B6%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AE%E6%89%93%E3%81%A1%E5%90%88%E3%82%8F%E3%81%9B%E3%81%A7%E5%88%9D%E8%A8%AA%E5%95%8F-%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%84%E8%A3%85%E7%BD%AE%E3%81%A8%E8%A8%AD%E5%82%99%E3%81%A7%E9%9D%9E/27077402788584037/",
+    "https://www.facebook.com/mantenproject/posts/%E6%9C%AC%E6%97%A5%E3%81%AE%E4%BE%8B%E4%BC%9A%E3%81%AF%E6%8A%80%E8%A1%93%E6%83%85%E5%A0%B1%E6%B5%81%E5%A4%B1%E9%98%B2%E6%AD%A2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%8B%E3%82%89%E3%81%AF%E3%81%98%E3%81%BE%E3%82%8A%E5%9C%B0%E7%8B%AC%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80-%E6%A0%83%E6%9C%A8%E6%A7%98%E3%83%A6%E3%82%B7%E3%83%AD%E5%8C%96%E5%AD%A6%E5%B7%A5%E6%A5%AD-%E9%AB%98%E6%A9%8B%E6%A7%98%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6-%E5%B8%AF%E5%B7%9D%E6%95%99%E6%8E%88-%E3%81%AB%E8%B2%B4%E9%87%8D%E3%81%AA%E8%AC%9B%E6%BC%94%E3%82%92%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E3%81%82/644794360983693/",
+    "https://www.facebook.com/researcherjp/posts/%E6%B3%A8%E7%9B%AE%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E6%98%86%E8%99%AB%E7%B4%B0%E8%83%9E%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E5%8C%82%E3%81%84%E3%82%BB%E3%83%B3%E3%82%B5%E3%81%AE%E6%84%9F%E5%BA%A6%E3%82%92%E5%90%91%E4%B8%8A-%E5%BE%AE%E5%B0%8F%E3%82%AB%E3%83%97%E3%82%BB%E3%83%AB%E3%82%92%E4%BD%BF%E3%81%84%E5%8D%98%E7%8B%AC%E3%81%A7%E3%81%AF%E5%A2%97%E3%81%88%E3%81%AB%E3%81%8F%E3%81%84%E6%98%86%E8%99%AB%E7%B4%B0%E8%83%9E%E3%81%AE%E5%9F%B9%E9%A4%8A%E9%81%B8%E5%88%A5%E3%81%AB%E6%88%90%E5%8A%9F-%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80/1586836620154141/",
+    "https://www.facebook.com/piaj2018/",
+    "https://www.facebook.com/JissoNews/posts/12%E6%9C%8813%E6%97%A5%E9%87%9125%E6%97%A5%E6%B0%B4%E3%81%AE%E5%85%A82%E6%97%A5%E9%96%9313001700%E3%81%AB%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80-kistec-%E3%81%8C%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E9%AB%98%E5%91%A8%E6%B3%A2%E9%96%A2%E9%80%A3%E6%8A%80%E8%A1%93%E5%85%A5%E9%96%80-%E9%AB%98%E5%91%A8%E6%B3%A2%E5%B7%A5%E5%AD%A6%E3%81%AE%E5%9F%BA%E7%A4%8E%E3%82%92%E7%90%86%E8%A7%A3%E3%81%97%E3%81%A6%E3%81%8A%E3%81%93%E3%81%86-%E3%82%92/968569305071790/",
+    "https://www.facebook.com/takahiko.hirokawa/",
+    "https://www.digitaltrends.com/computing/common-multi-monitor-problems-and-how-to-fix-them/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
+  },
+  {
+   "query": "神奈川県立産業技術総合研究所 note 社長",
+   "results": [
+    "https://www.kistec.jp/aboutus/issues/annl_rprt_2017th/",
+    "https://note.com/door13/n/n517c82c0f0cb",
+    "https://note.com/aist_solutions/n/nf550b8f466d6",
+    "https://www.pref.kanagawa.jp/docs/sr4/kistec/fuzokukikan.html",
+    "https://job.mynavi.jp/27/pc/search/corp250048/outline.html",
+    "https://www.youtube.com/watch?v=B6Me8vF2jec",
+    "https://www.nikkei.com/article/DGKKZO27161770Q8A220C1L82000/",
+    "https://science-manabi-lab.com/work/w-article14/",
+    "https://acaric.jp/company-search/detail/148858/company",
+    "https://en.m.wikipedia.org/wiki/Barbara_Eden"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "神奈川県立産業技術総合研究所 X 投稿",
+   "results": [
+    "https://x.com/KISTEC_O_PR",
+    "https://www.kistec.jp/connect/experiment/e164004-01/",
+    "https://www.aist.go.jp/aist_j/public/aist_sns/twitter_aist_jp_policy.html",
+    "https://surfacedesignconsortium.com/member/kistec/",
+    "https://www.youtube.com/@KISTEC_official",
+    "https://www.pref.kanagawa.jp/docs/sr4/kistec/hyouka.html",
+    "https://www.youtube.com/watch?v=B6Me8vF2jec",
+    "https://www.kistec.jp/aboutus/official_sns/",
+    "https://en.m.wikipedia.org/wiki/Highway_Patrol_(American_TV_series)",
+    "https://www.chp.ca.gov/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部12頁・検索12回）",
+  "資本金": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部12頁・検索12回）",
+  "創業年度": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部12頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部12頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部12頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部12頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部12頁・検索12回）",
+  "資本金・株主": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部12頁・検索12回）"
+ }
+}

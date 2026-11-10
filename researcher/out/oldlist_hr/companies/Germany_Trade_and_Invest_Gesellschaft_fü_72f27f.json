@@ -1,0 +1,980 @@
+{
+ "name": "Germany Trade and Invest - Gesellschaft für Außenwirtschaft und Standortmarketing mbH",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜FORMNEXT案件",
+ "researched_at": "2026-11-10T21:01:45.235859+00:00",
+ "official_url": "https://www.gtai.de",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2009",
+    "url": "https://en.wikipedia.org/wiki/Germany_Trade_and_Invest",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Berlin , Germany",
+    "url": "https://en.wikipedia.org/wiki/Germany_Trade_and_Invest",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "日本の担い手": [
+   {
+    "quote": "ドイツ貿易・投資振興機関 (Germany Trade & Invest: GTAI) は ドイツ連邦共和国政府の経済振興機関として、独企業対外貿易振興並びに日本を含む外国企業のドイツ国内への誘致 (FDI) の他、経済・投資環境・技術において優れたビジネス立地としてのドイツのマーケティングを業 務内容としています",
+    "url": "https://www.gtai.de/jp/invest",
+    "pass": 1
+   },
+   {
+    "quote": "当機関は欧州・日本を含むアジア・北米に拠点を持ち、御社のドイツ進出・事業拡大を初期の段階から無償でサポートします",
+    "url": "https://www.gtai.de/jp/invest",
+    "pass": 1
+   },
+   {
+    "quote": "Die Wirtschaft in Japan in Kürze: Fakten zum Land bieten Ihnen einen schnellen Überblick.",
+    "url": "https://www.gtai.de/de/trade/japan-wirtschaft",
+    "pass": 1
+   },
+   {
+    "quote": "Standortfaktoren, Konjunkturprognosen und wirtschaftliche Kennzahlen: Lesen Sie hier, welche Rahmenbedingungen Sie bei Geschäften in Japan erwarten und wie die künftigen Aussichten sind.",
+    "url": "https://www.gtai.de/de/trade/japan-wirtschaft",
+    "pass": 1
+   },
+   {
+    "quote": "Die GTAI-Reihe \"Wirtschaftsausblick\" informiert über die Wirtschaftsentwicklung in Japan und deutsche Geschäftschancen.",
+    "url": "https://www.gtai.de/de/trade/japan-wirtschaft",
+    "pass": 1
+   },
+   {
+    "quote": "Wirtschaftsausblick Japan",
+    "url": "https://www.gtai.de/de/trade/japan-wirtschaft",
+    "pass": 1
+   },
+   {
+    "quote": "Die GTAI-Reihe \"Wirtschaftsdaten kompakt\" gibt einen Überblick zu allen relevanten Wirtschaftsindikatoren in Japan.",
+    "url": "https://www.gtai.de/de/trade/japan-wirtschaft",
+    "pass": 1
+   },
+   {
+    "quote": "Wirtschaftsdaten kompakt Japan",
+    "url": "https://www.gtai.de/de/trade/japan-wirtschaft",
+    "pass": 1
+   },
+   {
+    "quote": "Die GTAI-Reihe \"Arbeitsmarkt\" bietet Antworten auf Fragen zu Lohnkosten, Personalrekrutierung und Arbeitsrecht in Japan.",
+    "url": "https://www.gtai.de/de/trade/japan-wirtschaft",
+    "pass": 1
+   },
+   {
+    "quote": "Arbeitsmarkt in Japan",
+    "url": "https://www.gtai.de/de/trade/japan-wirtschaft",
+    "pass": 1
+   },
+   {
+    "quote": "\" informiert deutsche Unternehmen über den Standort Japan.",
+    "url": "https://www.gtai.de/de/trade/japan-wirtschaft",
+    "pass": 1
+   },
+   {
+    "quote": "Wirtschaftsstandort Japan",
+    "url": "https://www.gtai.de/de/trade/japan-wirtschaft",
+    "pass": 1
+   },
+   {
+    "quote": "Die GTAI-Reihe \"Kaufkraft und Konsum\" bietet Informationen zu Kaufkraft und Einkommensverteilung sowie Konsumausgaben und Konsumverhalten in Japan.",
+    "url": "https://www.gtai.de/de/trade/japan-wirtschaft",
+    "pass": 1
+   },
+   {
+    "quote": "Kaufkraft und Konsum in Japan",
+    "url": "https://www.gtai.de/de/trade/japan-wirtschaft",
+    "pass": 1
+   },
+   {
+    "quote": "Wirtschaftsumfeld | Japan | FDI",
+    "url": "https://www.gtai.de/de/trade/japan-wirtschaft",
+    "pass": 1
+   },
+   {
+    "quote": "Japans Präsenz in Deutschland bietet Chancen zur Kooperation",
+    "url": "https://www.gtai.de/de/trade/japan-wirtschaft",
+    "pass": 1
+   },
+   {
+    "quote": "Japan ist einer der größten Investoren in Deutschland. Das bietet Chancen für Kooperationen. In Deutschland aufgebautes Vertrauen kann beim Markteinstieg in Japan helfen.",
+    "url": "https://www.gtai.de/de/trade/japan-wirtschaft",
+    "pass": 1
+   },
+   {
+    "quote": "Wirtschaftsumfeld | Japan | Forschung und Entwicklung",
+    "url": "https://www.gtai.de/de/trade/japan-wirtschaft",
+    "pass": 1
+   },
+   {
+    "quote": "Über Forschungskooperationen mit Japan zum Erfolg",
+    "url": "https://www.gtai.de/de/trade/japan-wirtschaft",
+    "pass": 1
+   },
+   {
+    "quote": "Japan ist ein Hightech-Standort. Deutsche Firmen können über die Zusammenarbeit mit japanischen Partnern in bilateralen Projekten von deren Know-how profitieren.",
+    "url": "https://www.gtai.de/de/trade/japan-wirtschaft",
+    "pass": 1
+   },
+   {
+    "quote": "Markets | Japan | Investitionsoffensive",
+    "url": "https://www.gtai.de/de/trade/japan-wirtschaft",
+    "pass": 1
+   },
+   {
+    "quote": "Milliarden für Zukunftstechnologien: Japans massive Investitionen eröffnen neue Geschäftschancen",
+    "url": "https://www.gtai.de/de/trade/japan-wirtschaft",
+    "pass": 1
+   },
+   {
+    "quote": "Japans Regierung will die Investitionen der Unternehmen im Land deutlich erhöhen. Das soll Löhne und Konsum stützen, die wirtschaftliche Sicherheit stärken und Japan besser auf den Weltmärkten positionieren. Für exportorientierte deutsche Mittelständler ergeben sich dadurch neue Marktchancen in einem politisch stabilen Zielmarkt.",
+    "url": "https://www.gtai.de/de/trade/japan-wirtschaft",
+    "pass": 1
+   },
+   {
+    "quote": "Wir zeigen die Trends und Entwicklungen in den wichtigsten Branchen auf und was sie für deutsche Unternehmen bedeuten. Einen strukturierten Überblick bieten die Analysen unserer Reihe „Branche kompakt“. Ergänzt wird das Angebot durch unsere Branchenberichte und -meldungen aus verschiedenen Sektoren der japanischen Wirtschaft.",
+    "url": "https://www.gtai.de/de/trade/japan-wirtschaft",
+    "pass": 1
+   },
+   {
+    "quote": "Die GTAI-Reihe \"Branche kompakt\" bietet aktuelle Markttrends, Branchenstruktur und Rahmenbedingungen zur Abfallwirtschaft in Japan.",
+    "url": "https://www.gtai.de/de/trade/japan-wirtschaft",
+    "pass": 1
+   },
+   {
+    "quote": "Branche kompakt Abfallwirtschaft Japan",
+    "url": "https://www.gtai.de/de/trade/japan-wirtschaft",
+    "pass": 1
+   },
+   {
+    "quote": "Die GTAI-Reihe \"Branche kompakt\" bietet aktuelle Markttrends, Branchenstruktur und Rahmenbedingungen zur Chemischen Industrie in Japan.",
+    "url": "https://www.gtai.de/de/trade/japan-wirtschaft",
+    "pass": 1
+   }
+  ],
+  "採用・広告の製品": [
+   {
+    "quote": "Promoted by Federal Ministry for Economic Affairs and Energy in accordance with a German Parliament resolution.",
+    "url": "https://www.gtai.de/jp/meta/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "© Gorodenkoff Productions OU",
+    "url": "https://www.gtai.de/jp/invest/industries/digital-economy",
+    "pass": 1
+   },
+   {
+    "quote": "Mobile phone cyber security concept with a person showing smartphone screen, cybersecurity diagram and icons with microchip shape and fingerprint biometrics",
+    "url": "https://www.gtai.de/jp/invest/industries/digital-economy",
+    "pass": 1
+   },
+   {
+    "quote": "© Gorodenkoff Productions OU",
+    "url": "https://www.gtai.de/jp/invest/industries/industrial-production",
+    "pass": 1
+   },
+   {
+    "quote": "Diversity Startup Business Team, in cooperaton with a three-dimensional printer.",
+    "url": "https://www.gtai.de/jp/invest/industries/industrial-production",
+    "pass": 1
+   },
+   {
+    "quote": "© Gorodenkoff Productions OU - stock.adobe.com",
+    "url": "https://www.gtai.de/jp/invest/industries/mobility",
+    "pass": 1
+   },
+   {
+    "quote": "Standortfaktoren, Konjunkturprognosen und wirtschaftliche Kennzahlen: Lesen Sie hier, welche Rahmenbedingungen Sie bei Geschäften in Japan erwarten und wie die künftigen Aussichten sind.",
+    "url": "https://www.gtai.de/de/trade/japan-wirtschaft",
+    "pass": 1
+   },
+   {
+    "quote": "Japans Präsenz in Deutschland bietet Chancen zur Kooperation",
+    "url": "https://www.gtai.de/de/trade/japan-wirtschaft",
+    "pass": 1
+   },
+   {
+    "quote": "Japan ist ein Hightech-Standort. Deutsche Firmen können über die Zusammenarbeit mit japanischen Partnern in bilateralen Projekten von deren Know-how profitieren.",
+    "url": "https://www.gtai.de/de/trade/japan-wirtschaft",
+    "pass": 1
+   },
+   {
+    "quote": "Japans Photonikbranche profitiert vom weltweiten KI-Boom",
+    "url": "https://www.gtai.de/de/trade/japan-wirtschaft",
+    "pass": 1
+   },
+   {
+    "quote": "Antidumping - Polyvinylidenfluorid mit Ursprung in China",
+    "url": "https://www.gtai.de/de/trade/japan-wirtschaft",
+    "pass": 1
+   },
+   {
+    "quote": "Freihandelsabkommen (Warenursprung, Präferenzen)",
+    "url": "https://www.gtai.de/de/trade/japan-wirtschaft",
+    "pass": 1
+   },
+   {
+    "quote": "Der Handel zwischen der Europäischen Union und ihren Präferenzhandelspartnern steigt weiter an. Vorteile der Freihandelsabkommen werden sichtbarer.",
+    "url": "https://www.gtai.de/de/trade/japan-wirtschaft",
+    "pass": 1
+   },
+   {
+    "quote": "Hier finden Sie aktuelle Ausschreibungen in Japan, zum Beispiel der KfW Entwicklungsbank, der EU, der Weltbank und der Vereinten Nationen. Unsere Datenbank ist die größte im deutschsprachigen Raum.",
+    "url": "https://www.gtai.de/de/trade/japan-wirtschaft",
+    "pass": 1
+   },
+   {
+    "quote": "Ihr direkter Einstieg über Entwicklungsprojekte in Japan: Informieren Sie sich frühzeitig über anstehende Ausschreibungen. Recherchieren Sie nach Genehmigungen für Entwicklungsprojekte und Strategiepapieren der Entwicklungsbanken.",
+    "url": "https://www.gtai.de/de/trade/japan-wirtschaft",
+    "pass": 1
+   },
+   {
+    "quote": "Aktuelle Projektmeldungen",
+    "url": "https://www.gtai.de/de/trade/japan-wirtschaft",
+    "pass": 1
+   },
+   {
+    "quote": "Jahresaktionsprogramm Brunei Darussalam, Japan und Taiwan 2024",
+    "url": "https://www.gtai.de/de/trade/japan-wirtschaft",
+    "pass": 1
+   },
+   {
+    "quote": "Im Rahmen des NDICI finanziert die Europäische Union das Jahresaktionsprogramm 2024 für Brunei Darussalam, Japan und Taiwan mit einem Beitrag in Höhe von 4,9 Millionen Euro.",
+    "url": "https://www.gtai.de/de/trade/japan-wirtschaft",
+    "pass": 1
+   },
+   {
+    "quote": "Verifying your browser before proceeding...",
+    "url": "https://www.gtai.de/de/meta/suche/66528!search;eNqNk89OwzAMxt_F5yJtEupYz4gXgNu0g5t6I1PqFDuBddPenaT8uSAkH219PzufY19hwETQXYF4gI5zCA0I8pF-Ak0o6Su4NXBAR0mrvs_qmVTvUAhrwvEJOkCeoQE6uwDdbl9wCuQSldo7SIIDwb6UkdyLdzZqu2037UK5mDnJbMPWm29KSyqKmqiqD_hh1upEzmMw68lFjqPR-WI5a4qj_fEHz8iOxAxMr6hkf04cpyJ5Kh9R9sZHtjt_J04v82TvpSSe7M4196cS_6OHdvVwXxfi78SijJisferE8EjP_lKMrFcNvP3eSaxnspzTI6mD2yco_xYC",
+    "pass": 1
+   },
+   {
+    "quote": "Verifying your browser before proceeding...",
+    "url": "https://www.gtai.de/de/meta/suche/66528!search;eNqNk8FOwzAMht_F5yJt0tSxnhEvALdpBzf1RqbUKXYC66a9O0kRXBCSj7b-z87v2DcYMBF0NyAeoOMcQgOCfKKfQBNK-g7uDRzRUdKq77N6JtUHFMKacHyGDpBnaIAuLkC3PxScArlEpfYekuBAcChlJPfinY3a7dp2s1AuZk4y27D1dtsulJZUFDVRVR_w06zViZzHYNaTixxHo_PFctYUR_vjj56RHYkZmN5Qyf6cOE5F8lw-ouyNj2x3_kGcXufJ3ktJPNmda-7PJf5HD-3qcVMX4u_EooyYrH3qxPBEL_5ajKxXDbz_3kmsZ7Kc0xOpg_sXIOIV_w",
+    "pass": 1
+   },
+   {
+    "quote": "© Prostock-studio - stock.adobe.com",
+    "url": "https://www.gtai.de/de/meta/ueber-uns/unsere-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Melden Sie sich an und fügen Sie dieses Inhaltselement einer Sammelmappe zu. In Ihrem Profilbereich können Sie Ihre Sammelmappen verwalten und daraus PDFs erstellen. Sie finden auf der gesamten Website Inhaltselemente, die Sie Ihren Sammelmappen hinzufügen können.",
+    "url": "https://www.gtai.de/de/meta/ueber-uns/unsere-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Germany_Trade_and_Invest",
+    "pass": 3
+   },
+   {
+    "quote": "of the topic and provide significant coverage of it beyond a mere trivial mention.",
+    "url": "https://en.wikipedia.org/wiki/Germany_Trade_and_Invest",
+    "pass": 3
+   },
+   {
+    "quote": "Please improve this article by adding",
+    "url": "https://en.wikipedia.org/wiki/Germany_Trade_and_Invest",
+    "pass": 3
+   },
+   {
+    "quote": "State-owned enterprise",
+    "url": "https://en.wikipedia.org/wiki/Germany_Trade_and_Invest",
+    "pass": 3
+   },
+   {
+    "quote": "Germany Trade and Invest - Gesellschaft für Außenwirtschaft und Standortmarketing mbH",
+    "url": "https://en.wikipedia.org/wiki/Germany_Trade_and_Invest",
+    "pass": 3
+   },
+   {
+    "quote": ". Invest in Germany was the official location marketing agency for foreign investments, while the Federal Agency for Foreign Trade promoted exports. On January 1, 2009, a new economic development agency was created by merging the Federal Agency for Foreign Trade (bfai), the Society for Foreign Trade Information (",
+    "url": "https://en.wikipedia.org/wiki/Germany_Trade_and_Invest",
+    "pass": 3
+   },
+   {
+    "quote": "The GTAI conducts marketing for Germany as a business location. It also recruits investors and provides foreign trade information for companies based in Germany. Its headquarters are in",
+    "url": "https://en.wikipedia.org/wiki/Germany_Trade_and_Invest",
+    "pass": 3
+   },
+   {
+    "quote": "State-owned enterprises of Germany",
+    "url": "https://en.wikipedia.org/wiki/Germany_Trade_and_Invest",
+    "pass": 3
+   },
+   {
+    "quote": ", a non-profit organization.",
+    "url": "https://en.wikipedia.org/wiki/Germany_Trade_and_Invest",
+    "pass": 3
+   },
+   {
+    "quote": "Standortmarketing mbH",
+    "url": "https://www.lobbyregister.bundestag.de/media/a7/45/846906/Endgueltiges-Testat-JAP-2025-GTAI.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Bestätigungsvermerk des unabhängigen Abschlussprüfers",
+    "url": "https://www.lobbyregister.bundestag.de/media/a7/45/846906/Endgueltiges-Testat-JAP-2025-GTAI.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Allgemeine Auftragsbedingungen für Wirtschaftsprüferinnen, Wirtschaftsprüfer und",
+    "url": "https://www.lobbyregister.bundestag.de/media/a7/45/846906/Endgueltiges-Testat-JAP-2025-GTAI.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Wirtschaftsprüfungsgesellschaften vom 1. Januar 2024",
+    "url": "https://www.lobbyregister.bundestag.de/media/a7/45/846906/Endgueltiges-Testat-JAP-2025-GTAI.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Standortmarketing mbH, Berlin",
+    "url": "https://www.lobbyregister.bundestag.de/media/a7/45/846906/Endgueltiges-Testat-JAP-2025-GTAI.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Sitz der Germany Trade and Invest – Gesellschaft für Außenwirtschaft und Standortmarketing mbH ist",
+    "url": "https://www.lobbyregister.bundestag.de/media/a7/45/846906/Endgueltiges-Testat-JAP-2025-GTAI.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Die Germany Trade and Invest – Gesellschaft für Außenwirtschaft und Standortmarketing mbH, Berlin,",
+    "url": "https://www.lobbyregister.bundestag.de/media/a7/45/846906/Endgueltiges-Testat-JAP-2025-GTAI.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Außenwirtschaft und Standortmarketing mbH, Berlin, weichen von § 275 HGB ab. Insbesondere wurden zur",
+    "url": "https://www.lobbyregister.bundestag.de/media/a7/45/846906/Endgueltiges-Testat-JAP-2025-GTAI.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "unter Beachtung des strengen Niederstwertprinzips angesetzt. Der Rückdeckungsversicherungsanspruch",
+    "url": "https://www.lobbyregister.bundestag.de/media/a7/45/846906/Endgueltiges-Testat-JAP-2025-GTAI.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Hauptfachausschusses des Instituts der Wirtschaftsprüfer HFA 1/1984 angesetzt und dem",
+    "url": "https://www.lobbyregister.bundestag.de/media/a7/45/846906/Endgueltiges-Testat-JAP-2025-GTAI.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "entsprechend aufgelöst. Der Auflösungsbetrag wird unter den sonstigen betrieblichen Erträgen",
+    "url": "https://www.lobbyregister.bundestag.de/media/a7/45/846906/Endgueltiges-Testat-JAP-2025-GTAI.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Geschäftsführer der Gesellschaft. Aufgrund der getroffenen Zusage entsprechen diese unmittelbar dem",
+    "url": "https://www.lobbyregister.bundestag.de/media/a7/45/846906/Endgueltiges-Testat-JAP-2025-GTAI.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "erkennbaren Risiken und ungewissen Verbindlichkeiten. Zukünftige Preis- und Kostensteigerungen werden",
+    "url": "https://www.lobbyregister.bundestag.de/media/a7/45/846906/Endgueltiges-Testat-JAP-2025-GTAI.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Rückstellungen eine Restlaufzeit von über einem Jahr aufweisen, werden sie entsprechend § 253 Abs. 2",
+    "url": "https://www.lobbyregister.bundestag.de/media/a7/45/846906/Endgueltiges-Testat-JAP-2025-GTAI.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Da die Germany Trade and Invest – Gesellschaft für Außenwirtschaft und Standortmarketing mbH, Berlin,",
+    "url": "https://www.lobbyregister.bundestag.de/media/a7/45/846906/Endgueltiges-Testat-JAP-2025-GTAI.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Standortmarketing mbH, Berlin, beträgt EUR 25.000,00. Die Kapitalrücklage beträgt EUR 25.564,59.",
+    "url": "https://www.lobbyregister.bundestag.de/media/a7/45/846906/Endgueltiges-Testat-JAP-2025-GTAI.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "erhält Zuwendungen für Investitionen. Die Zuschüsse werden entsprechend der Stellungnahme des",
+    "url": "https://www.lobbyregister.bundestag.de/media/a7/45/846906/Endgueltiges-Testat-JAP-2025-GTAI.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Hauptfachausschusses des Instituts der Wirtschaftsprüfer HFA 1/1984 in einem sachgerechten Verfahren",
+    "url": "https://www.lobbyregister.bundestag.de/media/a7/45/846906/Endgueltiges-Testat-JAP-2025-GTAI.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "geförderten Vermögensgegenstände bzw. entsprechend der vorzunehmenden Abschreibung wird der",
+    "url": "https://www.lobbyregister.bundestag.de/media/a7/45/846906/Endgueltiges-Testat-JAP-2025-GTAI.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Urlaubsansprüche 1.160.788,78 1.160.788,78 0,00 1.141.134,03 0,00 1.141.134,03",
+    "url": "https://www.lobbyregister.bundestag.de/media/a7/45/846906/Endgueltiges-Testat-JAP-2025-GTAI.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Leistungsprämie 280.000,00 249.950,00 30.050,00 190.000,00 0,00 190.000,00",
+    "url": "https://www.lobbyregister.bundestag.de/media/a7/45/846906/Endgueltiges-Testat-JAP-2025-GTAI.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "betreffen, für die die Germany Trade and Invest –Gesellschaft für Außenwirtschaft und Standortmarketing",
+    "url": "https://www.lobbyregister.bundestag.de/media/a7/45/846906/Endgueltiges-Testat-JAP-2025-GTAI.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "nicht von einer möglichen Inanspruchnahme aus.",
+    "url": "https://www.lobbyregister.bundestag.de/media/a7/45/846906/Endgueltiges-Testat-JAP-2025-GTAI.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Dienstleistungen e.V., seit 11. April 2022",
+    "url": "https://www.lobbyregister.bundestag.de/media/a7/45/846906/Endgueltiges-Testat-JAP-2025-GTAI.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Gemeinschaft mit einem Prokuristen vertreten. Prokura ist Frau Ulrike Handtke erteilt.",
+    "url": "https://www.lobbyregister.bundestag.de/media/a7/45/846906/Endgueltiges-Testat-JAP-2025-GTAI.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Germany Trade and Invest - Gesellschaft für Außenwirtschaft und Standortmarketing mbH, Berlin, Germany, District Court of Charlottenburg (Berlin) HRB 107541 B: Network, Financial information",
+    "url": "https://www.northdata.com/Germany+Trade+and+Invest+-+Gesellschaft+f%C3%BCr+Au%C3%9Fenwirtschaft+und+Standortmarketing+mbH,+Berlin/Amtsgericht+Charlottenburg+(Berlin)+HRB+107541+B",
+    "pass": 3
+   },
+   {
+    "quote": "Power search is only available to our premium service subscribers.",
+    "url": "https://www.northdata.com/Germany+Trade+and+Invest+-+Gesellschaft+f%C3%BCr+Au%C3%9Fenwirtschaft+und+Standortmarketing+mbH,+Berlin/Amtsgericht+Charlottenburg+(Berlin)+HRB+107541+B",
+    "pass": 3
+   },
+   {
+    "quote": "Learn more about the North Data Premium Service",
+    "url": "https://www.northdata.com/Germany+Trade+and+Invest+-+Gesellschaft+f%C3%BCr+Au%C3%9Fenwirtschaft+und+Standortmarketing+mbH,+Berlin/Amtsgericht+Charlottenburg+(Berlin)+HRB+107541+B",
+    "pass": 3
+   },
+   {
+    "quote": "Germany Trade and Invest - Gesellschaft für Außenwirtschaft und Standortmarketing mbH, Berlin, Germany",
+    "url": "https://www.northdata.com/Germany+Trade+and+Invest+-+Gesellschaft+f%C3%BCr+Au%C3%9Fenwirtschaft+und+Standortmarketing+mbH,+Berlin/Amtsgericht+Charlottenburg+(Berlin)+HRB+107541+B",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Factory Female Industrial Engineer working with automation robot arms machine in intelligent factory industrial on real time monitoring system software.Digital future manufacture.",
+    "url": "https://www.gtai.de/jp/invest/industries/industrial-production",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Industry and Electric Mobility made in Germany",
+    "url": "https://www.gtai.de/jp/invest/industries/mobility",
+    "pass": 1
+   },
+   {
+    "quote": "schaftlichkeitsuntersuchungen durchzuführen (§ 7 Abs. 2 Satz 1 BHO). Aus diesen geht hervor, warum die geplanten Maßnahmen notwen-",
+    "url": "https://www.lobbyregister.bundestag.de/media/a7/45/846906/Endgueltiges-Testat-JAP-2025-GTAI.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "plante Standorterweiterungen sowie ein intensiverer Einsatz digitaler und KI-gestützter Tools sol-",
+    "url": "https://www.lobbyregister.bundestag.de/media/a7/45/846906/Endgueltiges-Testat-JAP-2025-GTAI.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Wir erörtern mit den für die Überwachung Verantwortlichen unter anderem den geplanten Umfang",
+    "url": "https://www.lobbyregister.bundestag.de/media/a7/45/846906/Endgueltiges-Testat-JAP-2025-GTAI.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "IIC The New German Länder Industrial Investment Council GmbH",
+    "url": "https://www.northdata.com/Germany+Trade+and+Invest+-+Gesellschaft+f%C3%BCr+Au%C3%9Fenwirtschaft+und+Standortmarketing+mbH,+Berlin/Amtsgericht+Charlottenburg+(Berlin)+HRB+107541+B",
+    "pass": 3
+   },
+   {
+    "quote": "Merger: IIC The New German Länder Industrial Investment Council GmbH",
+    "url": "https://www.northdata.com/Germany+Trade+and+Invest+-+Gesellschaft+f%C3%BCr+Au%C3%9Fenwirtschaft+und+Standortmarketing+mbH,+Berlin/Amtsgericht+Charlottenburg+(Berlin)+HRB+107541+B",
+    "pass": 3
+   },
+   {
+    "quote": "MD (1) · ppa (2) · No longer ppa (1) · Merger: Industrial Investment Council GmbH, Invest in Germany GmbH · Capital: €25,000 · Share­holder agreement · Seat: Berlin · Legal form: GmbH …",
+    "url": "https://www.northdata.com/Germany+Trade+and+Invest+-+Gesellschaft+f%C3%BCr+Au%C3%9Fenwirtschaft+und+Standortmarketing+mbH,+Berlin/Amtsgericht+Charlottenburg+(Berlin)+HRB+107541+B",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Ports and waterways are a major part of Germany, the logistics hub at the heart of Europe. But Germany's maritime economy is changing to meet the demands and utilize the possibilities of the digital age.",
+    "url": "https://www.gtai.de/jp/invest/industries/logistics",
+    "pass": 1
+   },
+   {
+    "quote": ") wholly owned by the",
+    "url": "https://en.wikipedia.org/wiki/Germany_Trade_and_Invest",
+    "pass": 3
+   },
+   {
+    "quote": "The company currently has over 400 employees, including over 80 abroad.",
+    "url": "https://en.wikipedia.org/wiki/Germany_Trade_and_Invest",
+    "pass": 3
+   },
+   {
+    "quote": "(GfAI) was founded as a subsidiary of the Federal Agency for Foreign Trade Information. All foreign correspondents reporting for the BfA were henceforth employed by this company.",
+    "url": "https://en.wikipedia.org/wiki/Germany_Trade_and_Invest",
+    "pass": 3
+   },
+   {
+    "quote": "For this company, Revenue numbers are only available to",
+    "url": "https://www.northdata.com/Germany+Trade+and+Invest+-+Gesellschaft+f%C3%BCr+Au%C3%9Fenwirtschaft+und+Standortmarketing+mbH,+Berlin/Amtsgericht+Charlottenburg+(Berlin)+HRB+107541+B",
+    "pass": 3
+   },
+   {
+    "quote": "For this company, Employees numbers are only available to",
+    "url": "https://www.northdata.com/Germany+Trade+and+Invest+-+Gesellschaft+f%C3%BCr+Au%C3%9Fenwirtschaft+und+Standortmarketing+mbH,+Berlin/Amtsgericht+Charlottenburg+(Berlin)+HRB+107541+B",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "The information is distributed mainly free of charge via the Internet, e-mail services, brochures and magazines. The company also manages the foreign trade portal iXPOS.",
+    "url": "https://en.wikipedia.org/wiki/Germany_Trade_and_Invest",
+    "pass": 3
+   },
+   {
+    "quote": "If you put a company on your watch list, we'll notify you on your email",
+    "url": "https://www.northdata.com/Germany+Trade+and+Invest+-+Gesellschaft+f%C3%BCr+Au%C3%9Fenwirtschaft+und+Standortmarketing+mbH,+Berlin/Amtsgericht+Charlottenburg+(Berlin)+HRB+107541+B",
+    "pass": 3
+   },
+   {
+    "quote": "Gestempelte Ausfertigung per Post, digitale Fassung vorab per E-Mail",
+    "url": "https://www.online-handelsregister.de/handelsregisterauszug/be/Charlottenburg-Berlin/HRB/107541/Germany-Trade-and-Invest-Gesellschaft-fuer-Aussenwirtschaft-und-Standortmarketing-mbH",
+    "pass": 3
+   },
+   {
+    "quote": "Scan der gestempelten Übersetzung als PDF per E-Mail",
+    "url": "https://www.online-handelsregister.de/handelsregisterauszug/be/Charlottenburg-Berlin/HRB/107541/Germany-Trade-and-Invest-Gesellschaft-fuer-Aussenwirtschaft-und-Standortmarketing-mbH",
+    "pass": 3
+   },
+   {
+    "quote": "per E-Mail an uns. Nach dem Klick auf den Bestätigungslink, den wir Ihnen",
+    "url": "https://www.online-handelsregister.de/handelsregisterauszug/be/Charlottenburg-Berlin/HRB/107541/Germany-Trade-and-Invest-Gesellschaft-fuer-Aussenwirtschaft-und-Standortmarketing-mbH",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Germany Trade and Invest - Wikipedia — Germany Trade and Invest - Gesellschaft für Außenwirtschaft und Standortmarketing mbH (GTAI), the successor to the German Office for Foreign Trade (bfai) since January 1, 2009, is a limited liability company (GmbH) wholly owned by the federal government of Germany; it is assigned to the Federal Ministry for Economic Affairs and Energy. The company currently h",
+    "url": "https://en.wikipedia.org/wiki/Germany_Trade_and_Invest",
+    "pass": 3
+   },
+   {
+    "quote": "Germany Trade and Invest - Gesellschaft für Außenwirtschaft ... — Germany Trade and Invest - Gesellschaft für Außenwirtschaft und Standortmarketing mbH in Berlin Company founded 2007 Income Turnover Annual report Creditworthiness Management: Julia Braune i.a.",
+    "url": "https://www.companyhouse.de/en/Germany-Trade-and-Invest-Gesellschaft-fuer-Aussenwirtschaft-und-Standortmarketing-mbH-Berlin",
+    "pass": 3
+   },
+   {
+    "quote": "Germany Trade and Invest - Gesellschaft für Außenwirtschaft ... — Find company research, competitor information, contact details & financial data for Germany Trade and Invest - Gesellschaft für Außenwirtschaft und Standortmarketing mbH of Bonn, Nordrhein-Westfalen. Get the latest business insights from Dun & Bradstreet.",
+    "url": "https://www.dnb.com/business-directory/company-profiles.germany_trade_and_invest_-_gesellschaft_für_außenwirtschaft_und_standortmarketing_mbh.f75a321b60c9e2bd565da4f85df48be9.html",
+    "pass": 3
+   },
+   {
+    "quote": "Germany Trade and Invest-Gesellschaft für Außenwirtschaft und ... — Discover Germany Trade and Invest-Gesellschaft für Außenwirtschaft und Standortmarketing mbH on Implisense, the B2B company information portal. Profile, cont...",
+    "url": "https://implisense.com/en/companies/germany-trade-and-invest-gesellschaft-fuer-aussenwirtschaft-und-standortmarketing-mbh-berlin-DEQWIREWJ291",
+    "pass": 3
+   },
+   {
+    "quote": "Germany Trade and Invest - Gesellschaft für Außenwirtschaft ... — Find company research, competitor information, contact details & financial data for Germany Trade and Invest - Gesellschaft für Außenwirtschaft und Standortmarketing mbH of Bonn, Nordrhein-Westfalen. Get the latest business insights from Dun & Bradstreet.",
+    "url": "https://www.dnb.com/business-directory/company-profiles.germany_trade_and_invest_-_gesellschaft_für_außenwirtschaft_und_standortmarketing_mbh.4ab672078ad675b0e848364465d7c486.html",
+    "pass": 3
+   },
+   {
+    "quote": "Germany Trade and Invest - Gesellschaft für Außenwirtschaft ... — Germany Trade and Invest - Gesellschaft für Außenwirtschaft und Standortmarketing mbH (Project management services, Berlin)",
+    "url": "https://gb.kompass.com/c/germany-trade-and-invest-gesellschaft-fur-aussenwirtschaft-und/de600839/",
+    "pass": 3
+   },
+   {
+    "quote": "Germany Trade and Invest - Gesellschaft für Außenwirtschaft ... — Germany Trade and Invest - Gesellschaft für Außenwirtschaft und Standortmarketing mbH, Berlin, Germany, District Court of Charlottenburg (Berlin) HRB 107541 B: Network, Financial information",
+    "url": "https://www.northdata.com/Germany+Trade+and+Invest+-+Gesellschaft+für+Außenwirtschaft+und+Standortmarketing+mbH,+Berlin/Amtsgericht+Charlottenburg+(Berlin)+HRB+107541+B",
+    "pass": 3
+   },
+   {
+    "quote": "Handelsregisterauszug von Germany Trade and Invest ... — Sie suchen Handelsregisterauszüge und Wirtschaftsauskünfte von Germany Trade and Invest - Gesellschaft für Außenwirtschaft und Standortmarketing mbH zum Sofort-Download?",
+    "url": "https://www.online-handelsregister.de/handelsregisterauszug/be/Charlottenburg-Berlin/HRB/107541/Germany-Trade-and-Invest-Gesellschaft-fuer-Aussenwirtschaft-und-Standortmarketing-mbH",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.gtai.de/jp/invest",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gtai.de/jp/meta/about-us/our-partners-76176",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gtai.de/jp/meta/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gtai.de/jp/invest/industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gtai.de/jp/invest/industries/digital-economy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gtai.de/jp/invest/industries/industrial-production",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gtai.de/jp/invest/industries/energy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gtai.de/jp/invest/industries/logistics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gtai.de/jp/invest/industries/environmental-technologies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gtai.de/jp/invest/industries/mobility",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gtai.de/jp/invest/industries/healthcare",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gtai.de/de/trade/japan-wirtschaft",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gtai.de/de/meta/suche/66528!search;eNqNk89OwzAMxt_F5yJtEupYz4gXgNu0g5t6I1PqFDuBddPenaT8uSAkH219PzufY19hwETQXYF4gI5zCA0I8pF-Ak0o6Su4NXBAR0mrvs_qmVTvUAhrwvEJOkCeoQE6uwDdbl9wCuQSldo7SIIDwb6UkdyLdzZqu2037UK5mDnJbMPWm29KSyqKmqiqD_hh1upEzmMw68lFjqPR-WI5a4qj_fEHz8iOxAxMr6hkf04cpyJ5Kh9R9sZHtjt_J04v82TvpSSe7M4196cS_6OHdvVwXxfi78SijJisferE8EjP_lKMrFcNvP3eSaxnspzTI6mD2yco_xYC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gtai.de/de/meta/suche/66528!search;eNqNk8FOwzAMht_F5yJt0tSxnhEvALdpBzf1RqbUKXYC66a9O0kRXBCSj7b-z87v2DcYMBF0NyAeoOMcQgOCfKKfQBNK-g7uDRzRUdKq77N6JtUHFMKacHyGDpBnaIAuLkC3PxScArlEpfYekuBAcChlJPfinY3a7dp2s1AuZk4y27D1dtsulJZUFDVRVR_w06zViZzHYNaTixxHo_PFctYUR_vjj56RHYkZmN5Qyf6cOE5F8lw-ouyNj2x3_kGcXufJ3ktJPNmda-7PJf5HD-3qcVMX4u_EooyYrH3qxPBEL_5ajKxXDbz_3kmsZ7Kc0xOpg_sXIOIV_w",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gtai.de/de/meta/ueber-uns/unsere-partner",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://de.wikipedia.org/wiki/Germany_Trade_and_Invest",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Germany_Trade_and_Invest",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Germany_Trade_and_Invest",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.companyhouse.de/en/Germany-Trade-and-Invest-Gesellschaft-fuer-Aussenwirtschaft-und-Standortmarketing-mbH-Berlin",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dnb.com/business-directory/company-profiles.germany_trade_and_invest_-_gesellschaft_f%C3%BCr_au%C3%9Fenwirtschaft_und_standortmarketing_mbh.f75a321b60c9e2bd565da4f85df48be9.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://de.wikipedia.org/wiki/Germany_Trade_and_Invest",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Germany_Trade_and_Invest",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://de.wikipedia.org/wiki/Germany_Trade_and_Invest",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lobbyregister.bundestag.de/media/a7/45/846906/Endgueltiges-Testat-JAP-2025-GTAI.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dnb.com/business-directory/company-profiles.germany_trade_and_invest_-_gesellschaft_f%C3%BCr_au%C3%9Fenwirtschaft_und_standortmarketing_mbh.4ab672078ad675b0e848364465d7c486.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://gb.kompass.com/c/germany-trade-and-invest-gesellschaft-fur-aussenwirtschaft-und/de600839/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.northdata.com/Germany+Trade+and+Invest+-+Gesellschaft+f%C3%BCr+Au%C3%9Fenwirtschaft+und+Standortmarketing+mbH,+Berlin/Amtsgericht+Charlottenburg+(Berlin)+HRB+107541+B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.online-handelsregister.de/handelsregisterauszug/be/Charlottenburg-Berlin/HRB/107541/Germany-Trade-and-Invest-Gesellschaft-fuer-Aussenwirtschaft-und-Standortmarketing-mbH",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://de.wikipedia.org/wiki/Germany_Trade_and_Invest",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Germany_Trade_and_Invest",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lobbyregister.bundestag.de/media/a7/45/846906/Endgueltiges-Testat-JAP-2025-GTAI.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.companyhouse.de/en/Germany-Trade-and-Invest-Gesellschaft-fuer-Aussenwirtschaft-und-Standortmarketing-mbH-Berlin",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Germany Trade and Invest - Gesellschaft für Außenwirtschaft und Standortmarketing mbH 日本 導入",
+   "results": [
+    "https://de.wikipedia.org/wiki/Germany_Trade_and_Invest",
+    "https://en.wikipedia.org/wiki/Germany_Trade_and_Invest",
+    "https://www.gtai.de/",
+    "https://www.gtai.de/de/trade",
+    "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Aussenwirtschaft/aussenwirtschaftsfoerderung-institutionen-gtai.html",
+    "https://www.ihk.de/hanau/international/laender-und-maerkte/markteinstiegsinformationen/germany-trade-invest-gtai-432388",
+    "https://implisense.com/en/companies/germany-trade-and-invest-gesellschaft-fuer-aussenwirtschaft-und-standortmarketing-mbh-berlin-DEQWIREWJ291"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Germany Trade and Invest - Gesellschaft für Außenwirtschaft und Standortmarketing mbH 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://en.wikipedia.org/wiki/Germany_Trade_and_Invest",
+    "https://www.companyhouse.de/en/Germany-Trade-and-Invest-Gesellschaft-fuer-Aussenwirtschaft-und-Standortmarketing-mbH-Berlin",
+    "https://www.gtai.de/",
+    "https://www.dnb.com/business-directory/company-profiles.germany_trade_and_invest_-_gesellschaft_für_außenwirtschaft_und_standortmarketing_mbh.f75a321b60c9e2bd565da4f85df48be9.html",
+    "https://implisense.com/en/companies/germany-trade-and-invest-gesellschaft-fuer-aussenwirtschaft-und-standortmarketing-mbh-berlin-DEQWIREWJ291",
+    "https://gb.kompass.com/c/germany-trade-and-invest-gesellschaft-fur-aussenwirtschaft-und/de600839/",
+    "https://www.gtai.de/en/meta/about-us"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Germany Trade and Invest - Gesellschaft für Außenwirtschaft und Standortmarketing mbH Japan",
+   "results": [
+    "https://de.wikipedia.org/wiki/Germany_Trade_and_Invest",
+    "https://en.wikipedia.org/wiki/Germany_Trade_and_Invest",
+    "https://www.gtai.de/",
+    "https://www.gtai.de/de/trade",
+    "https://www.service.bund.de/Content/DE/DEBehoerden/G/Germany-Trade-and-Invest-GmbH/Germany-Trade-and-Invest-GmbH.html?nn=4641496",
+    "https://www.companyhouse.de/en/Germany-Trade-and-Invest-Gesellschaft-fuer-Aussenwirtschaft-und-Standortmarketing-mbH-Berlin",
+    "https://www.dnb.com/business-directory/company-profiles.germany_trade_and_invest_-_gesellschaft_für_außenwirtschaft_und_standortmarketing_mbh.4ab672078ad675b0e848364465d7c486.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Germany Trade and Invest - Gesellschaft für Außenwirtschaft und Standortmarketing mbH manufacturing customer case study",
+   "results": [
+    "https://de.wikipedia.org/wiki/Germany_Trade_and_Invest",
+    "https://www.gtai.de/",
+    "https://www.lobbyregister.bundestag.de/media/a7/45/846906/Endgueltiges-Testat-JAP-2025-GTAI.pdf",
+    "https://www.gtai.de/resource/blob/2023120/e60a8b0ffac015c437d4bd017b52aaa0/Corporate_Governance_Bericht_GTAI_2025.pdf",
+    "https://in.kompass.com/c/germany-trade-invest-gmbh-berlin/de600839/",
+    "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Aussenwirtschaft/aussenwirtschaftsfoerderung-institutionen-gtai.html",
+    "https://www.dnb.com/business-directory/company-profiles.germany_trade_and_invest_-_gesellschaft_für_außenwirtschaft_und_standortmarketing_mbh.4ab672078ad675b0e848364465d7c486.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Germany Trade and Invest - Gesellschaft für Außenwirtschaft und Standortmarketing mbH white label OR reseller OR partner program",
+   "results": [
+    "https://www.dnb.com/business-directory/company-profiles.germany_trade_and_invest_-_gesellschaft_für_außenwirtschaft_und_standortmarketing_mbh.4ab672078ad675b0e848364465d7c486.html",
+    "https://gb.kompass.com/c/germany-trade-and-invest-gesellschaft-fur-aussenwirtschaft-und/de600839/",
+    "https://www.northdata.com/Germany+Trade+and+Invest+-+Gesellschaft+für+Außenwirtschaft+und+Standortmarketing+mbH,+Berlin/Amtsgericht+Charlottenburg+(Berlin)+HRB+107541+B",
+    "https://www.online-handelsregister.de/handelsregisterauszug/be/Charlottenburg-Berlin/HRB/107541/Germany-Trade-and-Invest-Gesellschaft-fuer-Aussenwirtschaft-und-Standortmarketing-mbH",
+    "https://www.companyhouse.de/Germany-Trade-and-Invest-Gesellschaft-fuer-Aussenwirtschaft-und-Standortmarketing-mbH-Berlin-Charlottenburg-1",
+    "https://partner.vw.com/",
+    "https://www.gtai.de/en/meta/about-us"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Germany Trade and Invest - Gesellschaft für Außenwirtschaft und Standortmarketing mbH founded funding employees revenue",
+   "results": [
+    "https://de.wikipedia.org/wiki/Germany_Trade_and_Invest",
+    "https://en.wikipedia.org/wiki/Germany_Trade_and_Invest",
+    "https://www.lobbyregister.bundestag.de/media/a7/45/846906/Endgueltiges-Testat-JAP-2025-GTAI.pdf",
+    "https://www.companyhouse.de/en/Germany-Trade-and-Invest-Gesellschaft-fuer-Aussenwirtschaft-und-Standortmarketing-mbH-Berlin",
+    "https://www.gtai.de/resource/blob/1928694/f24a70285d7587518e49658185bf9419/endgült_Testat_Feststellung_JA24_HReg_TAG_PDFA.pdf",
+    "https://www.northdata.com/Germany+Trade+and+Invest+-+Gesellschaft+für+Außenwirtschaft+und+Standortmarketing+mbH,+Berlin/Amtsgericht+Charlottenburg+(Berlin)+HRB+107541+B",
+    "https://implisense.com/en/companies/germany-trade-and-invest-gesellschaft-fuer-aussenwirtschaft-und-standortmarketing-mbh-berlin-DEQWIREWJ291"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Germany Trade and Invest - Gesellschaft für Außenwirtschaft und Standortmarketing mbH",
+   "results": [
+    "https://note.com/orgap",
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/lively_pika8336/n/n5adf36c23e7b",
+    "https://note.com/heimin_mugai/n/n5125ee8706a5",
+    "https://note.com/keizokuramoto/n/nef2f6f1c855d",
+    "https://note.com/isomitsuo/n/nd6f66ed87bfd"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Germany Trade and Invest - Gesellschaft für Außenwirtschaft und Standortmarketing mbH",
+   "results": [
+    "https://x.com/GTAI_com",
+    "https://x.com/GTAI_de",
+    "https://x.com/",
+    "https://x.com/PromotionTrade",
+    "https://help.x.com/en/using-x/about-grok",
+    "https://help.x.com/zh-tw/using-x",
+    "https://x.com/GTAI_Prag"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Germany Trade and Invest - Gesellschaft für Außenwirtschaft und Standortmarketing mbH",
+   "results": [
+    "https://www.linkedin.com/company/germany-trade-&-invest/",
+    "https://de.linkedin.com/jobs/view/assistenz-m-w-d-für-die-abteilung-global-market-intelligence-und-die-stabsstelle-entwicklung-controlling-at-germany-trade-invest-4486831895",
+    "https://de.linkedin.com/in/kirsten-herrmann",
+    "https://de.linkedin.com/in/heiko-steinacher-68969a80",
+    "https://de.linkedin.com/in/martinwaltergtai",
+    "https://de.linkedin.com/in/josefine-dutschmann-30072214",
+    "https://de.linkedin.com/in/julia-braune-366866b0"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Germany Trade and Invest - Gesellschaft für Außenwirtschaft und Standortmarketing mbH",
+   "results": [
+    "https://www.facebook.com/Germany-Trade-and-Invest-Gesellschaft-für-Außenwirtschaft-203027796855495/",
+    "https://www.facebook.com/profile.php/?id=61585407895713",
+    "https://www.facebook.com/germanytradeandinvestberlin/",
+    "https://www.facebook.com/groups/596518876412797/",
+    "https://www.facebook.com/GTAI-Germany-Trade-Invest-111726155247386/",
+    "https://www.facebook.com/GermanEmbassyDhaka/posts/tradetueday-germany-trade-invest-gtai-is-the-economic-development-agency-of-the-/939410531672339/",
+    "https://www.facebook.com/GermanThaiChamberOfCommerce/videos/congratstogtcc-from-germany-trade-invest-gtai-thailand/673466010856120/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Germany Trade and Invest - Gesellschaft für Außenwirtschaft und Standortmarketing mbH note 社長",
+   "results": [
+    "https://de.wikipedia.org/wiki/Germany_Trade_and_Invest",
+    "https://en.wikipedia.org/wiki/Germany_Trade_and_Invest",
+    "https://www.companyhouse.de/Germany-Trade-and-Invest-Gesellschaft-fuer-Aussenwirtschaft-und-Standortmarketing-mbH-Berlin",
+    "https://www.gtai-exportguide.de/de/impressum-708584",
+    "https://www.german-business-portal.info/en/legal-notice",
+    "https://www.foerderlotse-wachstumsmaerkte.de/de/impressum",
+    "https://www.africa-business-guide.de/de/impressum"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Germany Trade and Invest - Gesellschaft für Außenwirtschaft und Standortmarketing mbH X 投稿",
+   "results": [
+    "https://de.wikipedia.org/wiki/Germany_Trade_and_Invest",
+    "https://en.wikipedia.org/wiki/Germany_Trade_and_Invest",
+    "https://www.gtai.de/",
+    "https://www.lobbyregister.bundestag.de/media/a7/45/846906/Endgueltiges-Testat-JAP-2025-GTAI.pdf",
+    "https://www.service.bund.de/Content/DE/DEBehoerden/G/Germany-Trade-and-Invest-GmbH/Germany-Trade-and-Invest-GmbH.html?nn=4641496",
+    "https://www.companyhouse.de/en/Germany-Trade-and-Invest-Gesellschaft-fuer-Aussenwirtschaft-und-Standortmarketing-mbH-Berlin",
+    "https://www.gtai.de/en/meta/about-us",
+    "https://www.bundeswirtschaftsministerium.de/Redaktion/EN/Publikationen/Aussenwirtschaft/evaluation-gtai-summary-eng.pdf?__blob=publicationFile&v=1"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式15頁／PDF・画像0件／外部17頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式15頁／PDF・画像0件／外部17頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式15頁／PDF・画像0件／外部17頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式15頁／PDF・画像0件／外部17頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式15頁／PDF・画像0件／外部17頁・検索12回）"
+ }
+}

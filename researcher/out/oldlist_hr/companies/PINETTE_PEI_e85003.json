@@ -1,0 +1,726 @@
+{
+ "name": "PINETTE PEI",
+ "aliases": [],
+ "context": "旧営業リスト｜COMPOSITE_FORMING_EQUIPMENT｜未接触",
+ "researched_at": "2026-11-10T21:02:08.099170+00:00",
+ "official_url": "https://www.pinetteemidecau.eu/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Automated preforming lines",
+    "url": "https://pinettegroup.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Custom and small batch presses",
+    "url": "https://pinettegroup.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Presses for composite materials",
+    "url": "https://pinettegroup.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "395°C RTL Process",
+    "url": "https://pinettegroup.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Thermocompression lines",
+    "url": "https://pinettegroup.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "High-pressure press for ballistic plate production",
+    "url": "https://pinettegroup.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "High-capacity presses",
+    "url": "https://pinettegroup.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Straightening and bending presses",
+    "url": "https://pinettegroup.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Curvature Fitting Press",
+    "url": "https://pinettegroup.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Stretch Forming Press",
+    "url": "https://pinettegroup.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "LAB series standard presses",
+    "url": "https://pinettegroup.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Premium connections API 5C5",
+    "url": "https://pinettegroup.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Waste extrusion presses",
+    "url": "https://pinettegroup.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Specialists in processing, assembly and control solutions for composite materials, metals and recycled products, we design customized equipment and production lines to meet the highest standards of quality and sustainability.",
+    "url": "https://pinettegroup.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "With a strong commitment to innovation and respect for the environment, we help our customers meet tomorrow’s challenges with advanced technologies and sustainable approaches. Whether for the aerospace, automotive, rail or defense industries, our solutions are tailored to your needs, pushing back the limits of industrial performance.",
+    "url": "https://pinettegroup.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Discover our expertise, our inspiring projects and our vision for a more responsible future. Join a community passionate about innovation and progress.",
+    "url": "https://pinettegroup.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Pinette PEI, French experts in forming and assembly equipment for advanced materials, will be exhibiting at SAMPE 2025, May 19-22 in Indianapolis. This benchmark event dedicated to composites and advanced manufacturing processes will be an opportunity for PEI to showcase...",
+    "url": "https://pinettegroup.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "On the occasion of the 55th International Paris Air Show Le Bourget, from June 16 to 22, 2025 at the Parc des Expositions Le Bourget, PINETTE PEI is proud to present a major innovation in thermoplastic composite forming Booth H2B...",
+    "url": "https://pinettegroup.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "PINETTE PEI launches the world’s largest thermoplastic stamping press",
+    "url": "https://pinettegroup.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "PINETTE PEI launches the world's largest thermoplastic press for stamping",
+    "url": "https://pinettegroup.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "2024: Challenges met, a future to explore Closing 2024: A year of innovation, partnerships and industrial successes Dear partners, customers and employees, As 2024 draws to a close, it is with great pride and deep gratitude that PINETTE PEI wishes...",
+    "url": "https://pinettegroup.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Passer au contenu principal",
+    "url": "https://pinettegroup.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Solutions de préformage",
+    "url": "https://pinettegroup.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Lignes automatisées de préformage",
+    "url": "https://pinettegroup.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Presses sur-mesure et pour petites séries",
+    "url": "https://pinettegroup.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Presses pour composites",
+    "url": "https://pinettegroup.com/",
+    "pass": 3
+   },
+   {
+    "quote": "395°C RTL Process",
+    "url": "https://pinettegroup.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Compression de poudres",
+    "url": "https://pinettegroup.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Lignes de thermocompression",
+    "url": "https://pinettegroup.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Presse haute pression pour fabrication de plaque balistique",
+    "url": "https://pinettegroup.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Presses Haute Capacité",
+    "url": "https://pinettegroup.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Presses pour rails et essieux",
+    "url": "https://pinettegroup.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Curvature Fitting Press",
+    "url": "https://pinettegroup.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Stretch Forming Press",
+    "url": "https://pinettegroup.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Presses de laboratoire",
+    "url": "https://pinettegroup.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Presses canne à sucre",
+    "url": "https://pinettegroup.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Presses standard série LAB",
+    "url": "https://pinettegroup.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Presses de compactage de déchets",
+    "url": "https://pinettegroup.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Presses d’extrusion de déchets",
+    "url": "https://pinettegroup.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Spécialistes des solutions de transformation, d’assemblage et de contrôle pour les matériaux composites, les métaux et les produits issus du recyclage, nous concevons des équipements et des lignes de production sur mesure qui répondent aux plus hauts standards de qualité et de durabilité.",
+    "url": "https://pinettegroup.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Avec un engagement fort pour l’innovation et le respect de l’environnement, nous aidons nos clients à relever les défis de demain grâce à des technologies avancées et des approches durables. Que ce soit pour l’aéronautique, l’automobile, le ferroviaire ou encore la défense, nos solutions s’adaptent à vos besoins pour repousser les limites de la performance industrielle.",
+    "url": "https://pinettegroup.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Découvrez notre expertise, nos projets inspirants et notre vision pour un futur plus responsable. Rejoignez une communauté passionnée par l’innovation et le progrès.",
+    "url": "https://pinettegroup.com/",
+    "pass": 3
+   },
+   {
+    "quote": "A propos de Pinette Group",
+    "url": "https://pinettegroup.com/",
+    "pass": 3
+   },
+   {
+    "quote": "PINETTE PEI sera présent au salon K 2025, le plus grand salon mondial dédié aux plastiques et au caoutchouc, qui se tiendra du 8 au 15 octobre à Düsseldorf. Hall 14 – Stand C38",
+    "url": "https://pinettegroup.com/",
+    "pass": 3
+   },
+   {
+    "quote": "À l’occasion de notre participation au Salon International de l’Aéronautique et de l’Espace de Paris – Le Bourget, nous avons franchi une étape majeure dans le développement de solutions de fabrication avancée pour l’aéronautique : la signature d’un protocole d’accord...",
+    "url": "https://pinettegroup.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Pinette PEI, expert français en équipements de formage et d’assemblage pour matériaux avancés, participera au salon SAMPE 2025, du 19 au 22 mai à Indianapolis. Cet événement de référence dédié aux composites et procédés de fabrication avancés sera l’occasion pour...",
+    "url": "https://pinettegroup.com/",
+    "pass": 3
+   },
+   {
+    "quote": "PINETTE GROUP - Corporate presentatio",
+    "url": "https://www.altech.co.jp/item/pei-3",
+    "pass": 3
+   },
+   {
+    "quote": "QSP（Quilted Stratum Process）システム",
+    "url": "https://www.altech.co.jp/item/pei-3",
+    "pass": 3
+   },
+   {
+    "quote": "QSP（Quilted Stratum Process）システムはCFRTP(熱可塑性樹脂を用いた炭素繊維強化複合材料)を使い、短時間で部品を製造することを可能とした革新的なシステムです",
+    "url": "https://www.altech.co.jp/item/pei-3",
+    "pass": 3
+   },
+   {
+    "quote": "Hard Armor Press system ハードアーマープレスシステム",
+    "url": "https://www.altech.co.jp/item/pei-3",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Explore the future with an industrial partner of excellence.",
+    "url": "https://pinettegroup.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Specialists in processing, assembly and control solutions for composite materials, metals and recycled products, we design customized equipment and production lines to meet the highest standards of quality and sustainability.",
+    "url": "https://pinettegroup.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "With a strong commitment to innovation and respect for the environment, we help our customers meet tomorrow’s challenges with advanced technologies and sustainable approaches. Whether for the aerospace, automotive, rail or defense industries, our solutions are tailored to your needs, pushing back the limits of industrial performance.",
+    "url": "https://pinettegroup.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "During our participation in the Paris Air Show - Le Bourget, we reached a major milestone in the development of advanced manufacturing solutions for the aerospace industry: the signing of a Memorandum of Understanding (MoU) with KVE by Daher, a...",
+    "url": "https://pinettegroup.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Pinette PEI, French experts in forming and assembly equipment for advanced materials, will be exhibiting at SAMPE 2025, May 19-22 in Indianapolis. This benchmark event dedicated to composites and advanced manufacturing processes will be an opportunity for PEI to showcase...",
+    "url": "https://pinettegroup.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "2024: Challenges met, a future to explore Closing 2024: A year of innovation, partnerships and industrial successes Dear partners, customers and employees, As 2024 draws to a close, it is with great pride and deep gratitude that PINETTE PEI wishes...",
+    "url": "https://pinettegroup.com/en/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "2024: Challenges met, a future to explore Closing 2024: A year of innovation, partnerships and industrial successes Dear partners, customers and employees, As 2024 draws to a close, it is with great pride and deep gratitude that PINETTE PEI wishes...",
+    "url": "https://pinettegroup.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Composites TP Team démarre sur JEC World 2025 !",
+    "url": "https://pinettegroup.com/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "プレス機能を用いた複合材の成形システム Pinette PEI 社 « アルテック株式会社",
+    "url": "https://www.altech.co.jp/item/pei-3",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Home » Pinette Group — Coriolis Composites, Pinette PEI, Institut de Soudure, Loiretech and Cetim officially launched a new grouping of excellence in thermoplastic composites at the world composites trade fair. Read more ...",
+    "url": "https://pinettegroup.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "PINETTE PEI expertise for all industries » PINETTE PEI — At PINETTE PEI, we put our expertise to work for a wide range of industries, adapting our unique technologies and know-how to a variety of innovative applications. From sugar cane processing to the design of insulation and leisure equipment, we meet specific needs with tailor-made solutions.",
+    "url": "https://pinetteemidecau.eu/en/industries/other-industries/",
+    "pass": 3
+   },
+   {
+    "quote": "プレス機能を用いた複合材の成形システム Pinette PEI 社SKYCO PINETTE | Industrial Forming SolutionsPINETTE PEI - LinkedInSandstone Equestrian - Facebook — Pinette PEI 社は、航空宇宙、自動車、風力発電の風車ブレードなどの多様な分野において、プレス機を主体とした複合材料製品のラインシステムを製造しています。 最新ニュース Pinette PEI が世界最大の熱可塑性プラスチックプレス機を発売 01 What does SKYCO PINETTE do? Forming, assembly and testing solutions for composites, metals and recycled materials. Custom equipment and pro",
+    "url": "https://www.altech.co.jp/item/pei-3",
+    "pass": 3
+   },
+   {
+    "quote": "SKYCO PINETTE | Industrial Forming Solutions — 01 What does SKYCO PINETTE do? Forming, assembly and testing solutions for composites, metals and recycled materials. Custom equipment and production lines, built around your ambitions. SKYCO PINETTE (Skyco Aviation, Qingdao) works in strategic cooperation with PINETTE PEI of France. 02 Which solutions does SKYCO PINETTE offer?",
+    "url": "https://www.skycopinette.cn/en",
+    "pass": 3
+   },
+   {
+    "quote": "Home » Pinette Group — Pinette PEI, French experts in forming and assembly equipment for advanced materials, will be exhibiting at SAMPE 2025, May 19-22 in Indianapolis. This benchmark event dedicated to composites and advanced manufacturing processes will be an opportunity for PEI to showcase...",
+    "url": "https://pinettegroup.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Expertise and technological know-how at PINETTE PEI » PINETTE PEI — At PINETTE PEI, we combine technical expertise, innovation and process mastery to design customized solutions tailored to the needs of the most demanding industries. With our multidisciplinary know-how, we support our customers in transforming their ideas into industrial successes, whether in the aerospace, automotive, defense or ",
+    "url": "https://pinetteemidecau.eu/en/about-us/our-expertise/",
+    "pass": 3
+   },
+   {
+    "quote": "PEI announces successful completion of a complete turnkey plant — Often considered only as a hydraulic press and production lines manufacturer, Pinette PEI demonstrates its evolution and the scope of its expertise as a general contractor through the delivery of ...",
+    "url": "https://www.linkedin.com/pulse/pei-announces-successful-completion-complete-turnkey-plant-galichet?articleId=6159558857283633152",
+    "pass": 3
+   },
+   {
+    "quote": "PINETTE PEI Information - RocketReachPinette PEI - Overview, News & Similar companies | ZoomInfo.comPINETTE P.E.I. - Crunchbase Company Profile & FundingSociété PEI PINETTE EMIDECAU INDUSTRIES : Chiffre ... - PappersHistory » Pinette GroupPINETTE PEI - GICANAbout us » Pinette Group — PINETTE PEI is a Machinery Manufacturing, Manufacturing General, and Manufacturing company located in Chalon Sur Sa",
+    "url": "https://rocketreach.co/pinette-pei-profile_b5ea4e85f42e795a",
+    "pass": 3
+   },
+   {
+    "quote": "Pinette PEI - Overview, News & Similar companies | ZoomInfo.com — View Pinette PEI (www.pinetteemidecau.eu) location in Ohio, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+    "url": "https://www.zoominfo.com/c/pinette-pei/426033983",
+    "pass": 3
+   },
+   {
+    "quote": "PINETTE P.E.I. - Crunchbase Company Profile & FundingSociété PEI PINETTE EMIDECAU INDUSTRIES : Chiffre ... - PappersHistory » Pinette GroupPINETTE PEI - GICANAbout us » Pinette Group — Pinette Emidecau Industries also called Pinette P.E.I. is an industrial engineering group, general contractor, designer and supplier. Dec 16, 2024 · PEI PINETTE EMIDECAU INDUSTRIES à CHALON-SUR-SAONE (71100) : Bilan",
+    "url": "https://www.crunchbase.com/organization/pinette-p-e-i",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "PINETTE PEI - LinkedIn PINETTE PEI | 4,572 followers on LinkedIn. Since 1863, we provide Advanced solutions and services for your future | Since 1863, Pinette Group has been designing, manufacturing and maintaining high ...",
+    "url": "https://www.linkedin.com/company/pinette-emidecau-industries",
+    "pass": 3
+   },
+   {
+    "quote": "PINETTE PEI | LinkedIn PINETTE PEI | 4.548 Follower:innen auf LinkedIn. Since 1863, we provide Advanced solutions and services for your future | Since 1863, Pinette Group has been designing, manufacturing and maintaining high-performance industrial solutions for the processing and assembly of composite and metallic materials, as well as advanced solutions for recycling applications. Our technologi",
+    "url": "https://de.linkedin.com/company/pinette-emidecau-industries",
+    "pass": 3
+   },
+   {
+    "quote": "Erick Rousseau - CEO & Chairman Président Directeur Général ...KVE, Pinette PEI to supply TPC induction welding equipment ...#nouveaudépart #ceo #gratitude #leadership #innovation # ...We are very proud to start this collaboration. For more than ... CEO & Chairman Président Directeur Général PINETTE GROUP - PINETTE & PERROT & GADE Conseiller du Commerce Extérieur de la France - ONM · Global Indust",
+    "url": "https://fr.linkedin.com/in/erick-rousseau-8b34b71a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Pinette Raceway - FacebookSandstone Equestrian - FacebookSparkling Sunset Cottage - FacebookSouth Pinette, Pei - FacebookPinette Raceway - Pinette Raceway PEI Matinee Racing...Pinette Raceway - Opening day, this is what harness racing...PEI Cottage Rentals | Cosy private cottage in Pinette PEI ... Oct 12, 2026 · Pinette Raceway. 1,329 followers. Located along the Points East Coastal Drive on Highw",
+    "url": "https://www.facebook.com/PinetteRaceway/",
+    "pass": 3
+   },
+   {
+    "quote": "Sandstone Equestrian - FacebookSparkling Sunset Cottage - FacebookSouth Pinette, Pei - FacebookPinette Raceway - Pinette Raceway PEI Matinee Racing...Pinette Raceway - Opening day, this is what harness racing...PEI Cottage Rentals | Cosy private cottage in Pinette PEI ... 4 days ago · Sandstone Equestrian. 1,133 followers · 6 talking about this · 73 were here. Sandstone Equestrian is a privately o",
+    "url": "https://www.facebook.com/sandstoneequestrian/",
+    "pass": 3
+   },
+   {
+    "quote": "Sparkling Sunset Cottage - FacebookSouth Pinette, Pei - FacebookPinette Raceway - Pinette Raceway PEI Matinee Racing...Pinette Raceway - Opening day, this is what harness racing...PEI Cottage Rentals | Cosy private cottage in Pinette PEI ... Oct 2, 2023 · Sparkling Sunset Cottage. 117 likes · 10 were here. Sparking Sunset Cottage is a seasonal cottage located in South Pinette PEI. 2 story, 4 bedro",
+    "url": "https://www.facebook.com/sparklingsunsetcottage/",
+    "pass": 3
+   },
+   {
+    "quote": "South Pinette, Pei - Facebook South Pinette, Pei",
+    "url": "https://www.facebook.com/South-Pinette-Pei-483569391695082/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.pinetteemidecau.eu/",
+    "status": "http_403",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%83%9A%E3%82%A4%E3%83%B3%E3%83%88",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.facebook.com/sandstoneequestrian/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://dolphin-s.co.jp.siteindices.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pinettegroup.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pinettegroup.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pinetteemidecau.eu/en/industries/other-industries/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.altech.co.jp/item/pei-3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pinettegroup.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pinettegroup.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pinetteemidecau.eu/en/about-us/our-expertise/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bpifrance.com/2022/02/10/pinette-p-e-i-a-150-year-old-worldwide-firm-specialized-in-production-process-and-assembling/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://rocketreach.co/pinette-pei-profile_b5ea4e85f42e795a",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/pinette-pei/426033983",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/pinette-p-e-i",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pappers.fr/entreprise/pei-pinette-emidecau-industries-331204834",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/pinette-emidecau-industries",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/company/pinette-emidecau-industries",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fr.linkedin.com/in/erick-rousseau-8b34b71a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/PinetteRaceway/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sandstoneequestrian/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sparklingsunsetcottage/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/South-Pinette-Pei-483569391695082/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "PINETTE PEI 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "PINETTE PEI 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本ペイント",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.facebook.com/sandstoneequestrian/",
+    "https://dolphin-s.co.jp.siteindices.com/",
+    "https://pirettigolf.jp/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "PINETTE PEI Japan",
+   "results": [
+    "https://pinettegroup.com/en/",
+    "https://pinettegroup.com/",
+    "https://pinetteemidecau.eu/en/industries/other-industries/",
+    "https://www.altech.co.jp/item/pei-3",
+    "https://www.skycopinette.cn/en",
+    "https://tw.linkedin.com/company/pinette-emidecau-industries/",
+    "https://www.facebook.com/sandstoneequestrian/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "PINETTE PEI manufacturing customer case study",
+   "results": [
+    "https://pinettegroup.com/en/",
+    "https://pinettegroup.com/",
+    "https://pinetteemidecau.eu/en/about-us/our-expertise/",
+    "https://www.bpifrance.com/2022/02/10/pinette-p-e-i-a-150-year-old-worldwide-firm-specialized-in-production-process-and-assembling/",
+    "https://www.linkedin.com/pulse/pei-announces-successful-completion-complete-turnkey-plant-galichet?articleId=6159558857283633152",
+    "https://www.compositesworld.com/articles/video-installing-the-worlds-largest-thermoplastic-composites-press-at-airbus-bremen",
+    "https://pinetteemidecau.eu/en/tech-center-and-innovation/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "PINETTE PEI white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://www.nmi.com/blog/understanding-the-reseller-model-a-complete-guide-for-payments-companies/",
+    "https://www.vizrt.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "PINETTE PEI founded funding employees revenue",
+   "results": [
+    "https://rocketreach.co/pinette-pei-profile_b5ea4e85f42e795a",
+    "https://www.zoominfo.com/c/pinette-pei/426033983",
+    "https://www.crunchbase.com/organization/pinette-p-e-i",
+    "https://www.pappers.fr/entreprise/pei-pinette-emidecau-industries-331204834",
+    "https://pinettegroup.com/en/about-us/history/",
+    "https://gican.asso.fr/en/annuaire-des-adherents-du-gican-lindustrie-navale-francaise-en/pinette-pei/",
+    "https://pinettegroup.com/en/about-us/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com PINETTE PEI",
+   "results": [
+    "https://note.com/akira_umapro",
+    "https://note.com/tag/ジュディノート",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/tori_1980/n/n21037c205ade",
+    "https://note.com/osirius3150/n/n164c9a6f7cf8",
+    "https://note.com/nosuke0607/n/n09d02c47e173",
+    "https://note.com/ueda_news24/n/n593474115c49"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com PINETTE PEI",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com PINETTE PEI",
+   "results": [
+    "https://www.linkedin.com/company/pinette-emidecau-industries",
+    "https://de.linkedin.com/company/pinette-emidecau-industries",
+    "https://www.linkedin.com/company/pinette-emidecau-gmbh",
+    "https://fr.linkedin.com/in/erick-rousseau-8b34b71a",
+    "https://fr.linkedin.com/posts/pinette-emidecau-industries_kve-pinette-pei-to-supply-tpc-induction-activity-7350922589483008000-bLFb",
+    "https://pe.linkedin.com/posts/erick-rousseau-8b34b71a_nouveaudépart-ceo-gratitude-activity-7218721729479610368-rzA6",
+    "https://pe.linkedin.com/posts/erick-rousseau-8b34b71a_we-are-very-proud-to-start-this-collaboration-activity-7341209031887282176-wXiX"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com PINETTE PEI",
+   "results": [
+    "https://www.facebook.com/PinetteRaceway/",
+    "https://www.facebook.com/sandstoneequestrian/",
+    "https://www.facebook.com/sparklingsunsetcottage/",
+    "https://www.facebook.com/South-Pinette-Pei-483569391695082/",
+    "https://www.facebook.com/PinetteRaceway/posts/1870764752971316/",
+    "https://www.facebook.com/PinetteRaceway/posts/opening-day-this-is-what-harness-racing-is-all-about-pinette-raceway-pei-matinee/2285606251487162/",
+    "https://www.facebook.com/groups/apartmentsforrentpei/posts/2445327165657650/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "PINETTE PEI note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "PINETTE PEI X 投稿",
+   "results": [
+    "https://pinettegroup.com/en/",
+    "https://pinettegroup.com/",
+    "https://www.youtube.com/channel/UCOD9GWpDUtiNDvv_vA_0HXw",
+    "http://www.sz-gmd.com/product/html/?571.html",
+    "https://www.facebook.com/PinetteRaceway/",
+    "https://www.altech.co.jp/item/pei-3",
+    "https://x.com/_pe_i__/status/2119252299868766505"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索12回）"
+ }
+}

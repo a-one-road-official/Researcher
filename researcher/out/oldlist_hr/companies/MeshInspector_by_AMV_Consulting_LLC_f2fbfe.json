@@ -1,0 +1,1118 @@
+{
+ "name": "MeshInspector by AMV Consulting LLC",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜AI送信済み",
+ "researched_at": "2026-11-10T20:47:33.658246+00:00",
+ "official_url": "https://meshinspector.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Prepare watertight 3D models with defined tolerances and QA reports, scale effortlessly with automation for massive meshes and point clouds, and integrate into your pipelines and AI-agent workflows — ready for printing, inspection, and simulation.",
+    "url": "https://meshinspector.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Free Community plan with commercial use. 30-day trial of every Professional tool, no credit card.",
+    "url": "https://meshinspector.com/",
+    "pass": 1
+   },
+   {
+    "quote": "3D printing",
+    "url": "https://meshinspector.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Toolpaths · G-code preview",
+    "url": "https://meshinspector.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Repair, point clouds, CAD comparison and print preparation in one app. Professional is $790 per user a year.",
+    "url": "https://meshinspector.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Repair models before printing",
+    "url": "https://meshinspector.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Scan to a printable model",
+    "url": "https://meshinspector.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Loads from YouTube (Google) when you press Play",
+    "url": "https://meshinspector.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pack parts onto the build plate for FDM and SLS printers.",
+    "url": "https://meshinspector.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Convert CT and DICOM voxel data into a mesh you can edit and print.",
+    "url": "https://meshinspector.com/",
+    "pass": 1
+   },
+   {
+    "quote": "lower cost per project",
+    "url": "https://meshinspector.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“It's the fastest program I've used so far, and I can now do 150 scans in just 2 days instead of 1.5 weeks.”",
+    "url": "https://meshinspector.com/",
+    "pass": 1
+   },
+   {
+    "quote": "3D Scanning Representative, Susteni AS",
+    "url": "https://meshinspector.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Global Objects · 3D scanning for digital content",
+    "url": "https://meshinspector.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. The Community plan is free forever, including commercial use, and covers viewing, measuring and repairing models by hand. Every new account starts with a 30-day trial of all Professional tools, no credit card needed, and then stays on the free plan unless you upgrade. Paid plans start at $300 per user a year.",
+    "url": "https://meshinspector.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, on the Professional plan: once you sign in, the desktop app keeps working without an internet connection for up to 7 days. The trial, Community and Makers need a connection. For computers that never go online, see",
+    "url": "https://meshinspector.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. It opens meshes of tens of millions of triangles and point clouds of hundreds of millions of points: Susteni AS turns 400-million-point ship scans into meshes. Above 20 million polygons, plan on 32 to 64 GB of RAM and a graphics card with 6 to 12 GB of memory, or an Apple M-series Pro or Max.",
+    "url": "https://meshinspector.com/",
+    "pass": 1
+   },
+   {
+    "quote": "and the video tutorials on",
+    "url": "https://meshinspector.com/",
+    "pass": 1
+   },
+   {
+    "quote": "; Professional plans include priority support. Can't sign in? Follow the",
+    "url": "https://meshinspector.com/",
+    "pass": 1
+   },
+   {
+    "quote": "3D nesting for SLS and other powder bed printers, Alpha Shape, Shrink Wrap and ReWrap, with Ubuntu 26.04 support and native Windows on ARM.",
+    "url": "https://meshinspector.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Live demos of mesh repair and 3D print preparation.",
+    "url": "https://meshinspector.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Previous release · May 7, 2026",
+    "url": "https://meshinspector.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We value your privacy",
+    "url": "https://meshinspector.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Customize Consent Preferences",
+    "url": "https://meshinspector.com/",
+    "pass": 1
+   },
+   {
+    "quote": "To learn more about how Google processes personal information, visit:",
+    "url": "https://meshinspector.com/",
+    "pass": 1
+   },
+   {
+    "quote": "3D Scanning and Digital Content Creation",
+    "url": "https://meshinspector.com/case-studies/global-objects-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Global Objects, a company specializing in digitizing 3D objects, scenes, and environments, faced a growing demand for high-quality 3D models. They aimed to provide detailed scans for a wide range of applications, including marketplaces and digital assets. However, the process of converting raw point cloud data into usable 3D models (meshes) was fraught with inefficiencies.",
+    "url": "https://meshinspector.com/case-studies/global-objects-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "The process of handling billions of points and creating meshes involved managing extensive data sets, which was time-consuming and resource-intensive.",
+    "url": "https://meshinspector.com/case-studies/global-objects-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional 3D scanning software was built on outdated architectures that resulted in slow processing times. Tasks like cleaning up meshes, filling holes, and aligning point clouds often took hours to complete, significantly slowing down project timelines.",
+    "url": "https://meshinspector.com/case-studies/global-objects-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Existing tools did not offer the flexibility needed for diverse scanning workflows and were not responsive to user feedback, making it difficult to optimize processes and integrate new solutions effectively.",
+    "url": "https://meshinspector.com/case-studies/global-objects-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "MeshInspector is built on a new, efficient architecture that allows for faster processing times compared to traditional 3D scanning software.",
+    "url": "https://meshinspector.com/case-studies/global-objects-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive Toolset.",
+    "url": "https://meshinspector.com/case-studies/global-objects-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "The developers behind MeshInspector are highly responsive to feedback, providing updates and new builds rapidly, which greatly enhances the software’s usability and functionality.",
+    "url": "https://meshinspector.com/case-studies/global-objects-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "“Tasks that previously took hours in other software can be completed in minutes with MeshInspector.”",
+    "url": "https://meshinspector.com/case-studies/global-objects-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "By integrating MeshInspector into their workflow, Global Objects reduced the time required for processing 3D scans dramatically. What used to take hours could now be done in minutes, allowing for quicker project turnarounds.",
+    "url": "https://meshinspector.com/case-studies/global-objects-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Improved Workflow Efficiency",
+    "url": "https://meshinspector.com/case-studies/global-objects-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "The meshes generated with MeshInspector were not only faster to produce but also maintained high quality, ensuring that Global Objects could meet client demands without compromising on detail or accuracy.",
+    "url": "https://meshinspector.com/case-studies/global-objects-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "With faster processing times and a more efficient workflow, Global Objects was able to offer better services than competitors, providing high-quality digital assets in less time and at lower costs.",
+    "url": "https://meshinspector.com/case-studies/global-objects-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Loads from YouTube (Google) when you press Play",
+    "url": "https://meshinspector.com/case-studies/global-objects-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "We value your privacy",
+    "url": "https://meshinspector.com/case-studies/global-objects-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Customize Consent Preferences",
+    "url": "https://meshinspector.com/case-studies/global-objects-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "To learn more about how Google processes personal information, visit:",
+    "url": "https://meshinspector.com/case-studies/global-objects-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Google privacy policy",
+    "url": "https://meshinspector.com/case-studies/global-objects-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Stores your choices and a random consent ID used only to prove your consent.",
+    "url": "https://meshinspector.com/case-studies/global-objects-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Strictly necessary for the security of our contact form: Google reCAPTCHA sets it on google.com for its risk analysis, which protects the form against spam and abuse.",
+    "url": "https://meshinspector.com/case-studies/global-objects-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Microsoft Clarity: keeps the Clarity user ID and preferences.",
+    "url": "https://meshinspector.com/case-studies/global-objects-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Meta (Meta Platforms Ireland Ltd. for the EEA): stores a unique ID to deliver and measure Facebook/Instagram ads, for the Meta pixels 1466808574144374 and 1230677305725443 (the second one through HubSpot ads).",
+    "url": "https://meshinspector.com/case-studies/global-objects-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Google Ads: links ad clicks to visits (conversion linker).",
+    "url": "https://meshinspector.com/case-studies/global-objects-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Google Ads conversion linker: stores the ad click (gclid, dclid, gbraid) when you arrive from a Google ad.",
+    "url": "https://meshinspector.com/case-studies/global-objects-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Google Ads: conversion linker data in local storage.",
+    "url": "https://meshinspector.com/case-studies/global-objects-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "MeshInspector is a production-ready 3D repair, inspection and preparation application, built by the team behind the MeshLib geometry engine. License it under your own brand, build your product on top of it, or have our engineers develop exactly what your hardware needs.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "developers specializing in 3D data processing",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "CAD/CAM software custom development projects",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "years of market presence",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Mesh repair that survives real scan data. Booleans that don't fail on the hundredth operation. A viewer that opens a two-hundred-million-triangle model without falling over. Every hardware company that has tried to build this in-house discovers the same thing: the demo takes a month, production-grade takes years, and it never stops needing maintenance.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy MeshInspector as your own product: your name, your logo, your colors, your feature set. Available as a cross-platform desktop application for Windows, macOS and Linux, and as a browser-based Web Suite you can embed directly into your own platform.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Defaults preconfigured for your device",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Best for: hardware makers who need software to ship with the machine, and platforms that want 3D tools without hiring a 3D team.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Build your product on MeshInspector — our platform, your product",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Menu and UI structure shaped around your process",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Set by Cloudflare on HubSpot and LinkedIn domains to tell people from bots, for example when the HubSpot forms on our contact and reseller pages load.",
+    "url": "https://meshinspector.com/",
+    "pass": 1
+   },
+   {
+    "quote": "HubSpot: visitor identity; links a contact-form message or a reseller application to your earlier visits.",
+    "url": "https://meshinspector.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Set by Cloudflare on HubSpot and LinkedIn domains to tell people from bots, for example when the HubSpot forms on our contact and reseller pages load.",
+    "url": "https://meshinspector.com/case-studies/global-objects-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "HubSpot: visitor identity; links a contact-form message or a reseller application to your earlier visits.",
+    "url": "https://meshinspector.com/case-studies/global-objects-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "OEM & White-Label 3D Software | MeshInspector",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Ship 3D Software Under Your Own Brand",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "MeshInspector is a production-ready 3D repair, inspection and preparation application, built by the team behind the MeshLib geometry engine. License it under your own brand, build your product on top of it, or have our engineers develop exactly what your hardware needs.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "White-label MeshInspector — your brand, our application",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Your customer scans a part, and everything after the capture becomes your software problem: noise, holes, misaligned passes, and a mesh that has to be watertight before anyone can measure anything. MeshInspector covers the whole post-capture chain — noise reduction, registration, hole filling, watertight repair, deviation measurement against a reference — under your brand.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "A model that fails to print becomes a support ticket for you, not for the designer who made it. MeshInspector repairs and prepares the mesh before it ever reaches your slicer, and ships as the front end of your print workflow with your branding on it.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Why OEMs choose this over building it",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Hardware bundles, embedded modules, volume-based terms — every OEM ships differently, and we keep the commercial side flexible rather than forcing a fixed scheme. Tell us how your product reaches its users, and we'll shape the model around it together.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes — that is the standard white-label case. Distribution scope is agreed with you before work starts.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Set by Cloudflare on HubSpot and LinkedIn domains to tell people from bots, for example when the HubSpot forms on our contact and reseller pages load.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "HubSpot: visitor identity; links a contact-form message or a reseller application to your earlier visits.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Find or Become a MeshInspector reseller - MeshInspector",
+    "url": "https://meshinspector.com/find-or-become-a-meshinspector-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Find or Become a MeshInspector reseller",
+    "url": "https://meshinspector.com/find-or-become-a-meshinspector-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner with us to bring scan-to-mesh and mesh-to-production tools to your market, or find a local reseller to support your team.",
+    "url": "https://meshinspector.com/find-or-become-a-meshinspector-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Apply to become a reseller",
+    "url": "https://meshinspector.com/find-or-become-a-meshinspector-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Find a local reseller",
+    "url": "https://meshinspector.com/find-or-become-a-meshinspector-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "3D scanner & 3D printer resellers",
+    "url": "https://meshinspector.com/find-or-become-a-meshinspector-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Value-added resellers in design and engineering",
+    "url": "https://meshinspector.com/find-or-become-a-meshinspector-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Fill in the reseller application form with details about your company, regions, and current 3D offerings.",
+    "url": "https://meshinspector.com/find-or-become-a-meshinspector-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "If your country is not listed, you can still purchase licenses directly from us or apply to become a reseller in your region.",
+    "url": "https://meshinspector.com/find-or-become-a-meshinspector-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Set by Cloudflare on HubSpot and LinkedIn domains to tell people from bots, for example when the HubSpot forms on our contact and reseller pages load.",
+    "url": "https://meshinspector.com/find-or-become-a-meshinspector-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "HubSpot: visitor identity; links a contact-form message or a reseller application to your earlier visits.",
+    "url": "https://meshinspector.com/find-or-become-a-meshinspector-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Set by Cloudflare on HubSpot and LinkedIn domains to tell people from bots, for example when the HubSpot forms on our contact and reseller pages load.",
+    "url": "https://meshinspector.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "HubSpot: visitor identity; links a contact-form message or a reseller application to your earlier visits.",
+    "url": "https://meshinspector.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "MeshLib SDK / OEM & custom dev",
+    "url": "https://meshinspector.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Set by Cloudflare on HubSpot and LinkedIn domains to tell people from bots, for example when the HubSpot forms on our contact and reseller pages load.",
+    "url": "https://meshinspector.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "HubSpot: visitor identity; links a contact-form message or a reseller application to your earlier visits.",
+    "url": "https://meshinspector.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Set by Cloudflare on HubSpot and LinkedIn domains to tell people from bots, for example when the HubSpot forms on our contact and reseller pages load.",
+    "url": "https://meshinspector.com/case-studies/susteni-as-converting-400-million-points/",
+    "pass": 1
+   },
+   {
+    "quote": "HubSpot: visitor identity; links a contact-form message or a reseller application to your earlier visits.",
+    "url": "https://meshinspector.com/case-studies/susteni-as-converting-400-million-points/",
+    "pass": 1
+   },
+   {
+    "quote": "Set by Cloudflare on HubSpot and LinkedIn domains to tell people from bots, for example when the HubSpot forms on our contact and reseller pages load.",
+    "url": "https://meshinspector.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "HubSpot: visitor identity; links a contact-form message or a reseller application to your earlier visits.",
+    "url": "https://meshinspector.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Set by Cloudflare on HubSpot and LinkedIn domains to tell people from bots, for example when the HubSpot forms on our contact and reseller pages load.",
+    "url": "https://meshinspector.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "HubSpot: visitor identity; links a contact-form message or a reseller application to your earlier visits.",
+    "url": "https://meshinspector.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "As experts with 25+ years in 3D software, we support the AM industry with custom development, white-label solutions, and consulting.",
+    "url": "https://meshinspector.com/news/visit-meshinspector-team-at-formnext-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Set by Cloudflare on HubSpot and LinkedIn domains to tell people from bots, for example when the HubSpot forms on our contact and reseller pages load.",
+    "url": "https://meshinspector.com/news/visit-meshinspector-team-at-formnext-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "HubSpot: visitor identity; links a contact-form message or a reseller application to your earlier visits.",
+    "url": "https://meshinspector.com/news/visit-meshinspector-team-at-formnext-2026/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Meta: stores the ad click when you arrive from a Facebook or Instagram ad.",
+    "url": "https://meshinspector.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Google Ads conversion linker: stores the ad click (gclid, dclid, gbraid) when you arrive from a Google ad.",
+    "url": "https://meshinspector.com/",
+    "pass": 1
+   },
+   {
+    "quote": "LinkedIn: stores the ad click when you arrive from a LinkedIn ad.",
+    "url": "https://meshinspector.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Meta: stores the ad click when you arrive from a Facebook or Instagram ad.",
+    "url": "https://meshinspector.com/case-studies/global-objects-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Google Ads conversion linker: stores the ad click (gclid, dclid, gbraid) when you arrive from a Google ad.",
+    "url": "https://meshinspector.com/case-studies/global-objects-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "LinkedIn: stores the ad click when you arrive from a LinkedIn ad.",
+    "url": "https://meshinspector.com/case-studies/global-objects-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "import → repair → orient → hollow or thicken → arrange → hand off to your slicer",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "The Web Suite: MeshInspector's tools running in the browser and embedded into your platform. Branding covers tool arrangement, colors and logos. Import and export from AWS and Azure storage is supported. Performance scales with the user's browser and machine.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Whose brand does it carry?",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Meta: stores the ad click when you arrive from a Facebook or Instagram ad.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Google Ads conversion linker: stores the ad click (gclid, dclid, gbraid) when you arrive from a Google ad.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "LinkedIn: stores the ad click when you arrive from a LinkedIn ad.",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "If your country is not listed, you can still purchase licenses directly from us or apply to become a reseller in your region.",
+    "url": "https://meshinspector.com/find-or-become-a-meshinspector-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Meta: stores the ad click when you arrive from a Facebook or Instagram ad.",
+    "url": "https://meshinspector.com/find-or-become-a-meshinspector-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Google Ads conversion linker: stores the ad click (gclid, dclid, gbraid) when you arrive from a Google ad.",
+    "url": "https://meshinspector.com/find-or-become-a-meshinspector-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "LinkedIn: stores the ad click when you arrive from a LinkedIn ad.",
+    "url": "https://meshinspector.com/find-or-become-a-meshinspector-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Meta: stores the ad click when you arrive from a Facebook or Instagram ad.",
+    "url": "https://meshinspector.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Google Ads conversion linker: stores the ad click (gclid, dclid, gbraid) when you arrive from a Google ad.",
+    "url": "https://meshinspector.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "LinkedIn: stores the ad click when you arrive from a LinkedIn ad.",
+    "url": "https://meshinspector.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Meta: stores the ad click when you arrive from a Facebook or Instagram ad.",
+    "url": "https://meshinspector.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Google Ads conversion linker: stores the ad click (gclid, dclid, gbraid) when you arrive from a Google ad.",
+    "url": "https://meshinspector.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "LinkedIn: stores the ad click when you arrive from a LinkedIn ad.",
+    "url": "https://meshinspector.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Meta: stores the ad click when you arrive from a Facebook or Instagram ad.",
+    "url": "https://meshinspector.com/case-studies/susteni-as-converting-400-million-points/",
+    "pass": 1
+   },
+   {
+    "quote": "Google Ads conversion linker: stores the ad click (gclid, dclid, gbraid) when you arrive from a Google ad.",
+    "url": "https://meshinspector.com/case-studies/susteni-as-converting-400-million-points/",
+    "pass": 1
+   },
+   {
+    "quote": "LinkedIn: stores the ad click when you arrive from a LinkedIn ad.",
+    "url": "https://meshinspector.com/case-studies/susteni-as-converting-400-million-points/",
+    "pass": 1
+   },
+   {
+    "quote": "Meta: stores the ad click when you arrive from a Facebook or Instagram ad.",
+    "url": "https://meshinspector.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Google Ads conversion linker: stores the ad click (gclid, dclid, gbraid) when you arrive from a Google ad.",
+    "url": "https://meshinspector.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "LinkedIn: stores the ad click when you arrive from a LinkedIn ad.",
+    "url": "https://meshinspector.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "MeshInspector is a tight‑knit part of a larger product-focused team working across several projects. We’re a fully remote group of software engineers, mathematicians, and product marketing specialists who take complex 3D data processing problems and make them simple, fast, and practical.",
+    "url": "https://meshinspector.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Meta: stores the ad click when you arrive from a Facebook or Instagram ad.",
+    "url": "https://meshinspector.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Google Ads conversion linker: stores the ad click (gclid, dclid, gbraid) when you arrive from a Google ad.",
+    "url": "https://meshinspector.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "LinkedIn: stores the ad click when you arrive from a LinkedIn ad.",
+    "url": "https://meshinspector.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Meta: stores the ad click when you arrive from a Facebook or Instagram ad.",
+    "url": "https://meshinspector.com/news/visit-meshinspector-team-at-formnext-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Google Ads conversion linker: stores the ad click (gclid, dclid, gbraid) when you arrive from a Google ad.",
+    "url": "https://meshinspector.com/news/visit-meshinspector-team-at-formnext-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "LinkedIn: stores the ad click when you arrive from a LinkedIn ad.",
+    "url": "https://meshinspector.com/news/visit-meshinspector-team-at-formnext-2026/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": ". For anything else, email",
+    "url": "https://meshinspector.com/",
+    "pass": 1
+   },
+   {
+    "quote": "For technical support, please contact us at support@meshinspector.com. Our team is ready to assist with any questions or issues.",
+    "url": "https://meshinspector.com/pricing/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Global Objects Case Study | Scanning Workflow Transformation - MeshInspector",
+    "url": "https://meshinspector.com/case-studies/global-objects-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "3D scanner manufacturers",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "3D printer manufacturers",
+    "url": "https://meshinspector.com/white-label/",
+    "pass": 1
+   },
+   {
+    "quote": "Media Lab · dental implant planning",
+    "url": "https://meshinspector.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Implant3D runs twice as fast",
+    "url": "https://meshinspector.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Media Lab moved Implant3D, used in about 2,000 installations in 52 countries, to MeshLib SDK and kept the precision a medical device needs.",
+    "url": "https://meshinspector.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Susteni AS case study - MeshInspector",
+    "url": "https://meshinspector.com/case-studies/susteni-as-converting-400-million-points/",
+    "pass": 1
+   },
+   {
+    "quote": "We recognized that our expertise could extend beyond the dental industry, leading us to develop MeshLib SDK and MeshInspector software, which are now widely used by companies across various industries.",
+    "url": "https://meshinspector.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "With 100,000 users trusting our platform, we’ve established ourselves as leaders in 3D data processing. Our track record spans over 25 years, resulting in 30+ patents and publications that showcase our dedication to advancing 3D technology. These achievements translate directly into practical applications, from additive manufacturing to digital dentistry.",
+    "url": "https://meshinspector.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "MeshInspector is a go-to option for your activities in additive manufacturing, reverse engineering, digital dentistry and patient-specific design in other domains, digitizing, etc.",
+    "url": "https://meshinspector.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "to showcase our latest software solutions for additive manufacturing, 3D printing, and inspection. The exhibition takes place in Frankfurt, Germany, from",
+    "url": "https://meshinspector.com/news/visit-meshinspector-team-at-formnext-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "A powerful software for preparing 3D data for production. MeshInspector delivers fast mesh repair, converts raw point clouds into watertight triangle models, and provides QA tools for deviation and thickness checks. It is used in additive manufacturing, quality control, asset digitization, and simulation workflows.",
+    "url": "https://meshinspector.com/news/visit-meshinspector-team-at-formnext-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Formnext is the leading international event for additive manufacturing and industrial 3D printing. We look forward to welcoming you there.",
+    "url": "https://meshinspector.com/news/visit-meshinspector-team-at-formnext-2026/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://meshinspector.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meshinspector.com/case-studies/global-objects-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meshinspector.com/white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meshinspector.com/find-or-become-a-meshinspector-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meshinspector.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meshinspector.com/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meshinspector.com/case-studies/susteni-as-converting-400-million-points/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meshinspector.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meshinspector.com/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meshinspector.com/news/visit-meshinspector-team-at-formnext-2026/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://en.wikipedia.org/wiki/MeshInspector",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datadesign.co.jp/meshinspector/news/7917/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.capterra.jp/software/1044145/meshinspector",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai2.fromation.co.jp/archives/30533",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dconnexion.com/us/applications/amv-consulting-meshinspector/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/MeshInspector",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datadesign.co.jp/meshinspector/news/7917/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/MeshInspector",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bbs.fobshanghai.com/company/o1h78f96e5862i5.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://reseller.amazon.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://resellers.bluebeam.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/MeshInspector",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buzzfile.com/business/Meshinspector-833-399-8473",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/meshinspector/__LQM3_dpBPNqSYZY2GljefZ4go96PASbUgox2sfZmoMk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/meshinspector",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "MeshInspector by AMV Consulting LLC 日本 導入",
+   "results": [
+    "https://en.wikipedia.org/wiki/MeshInspector",
+    "https://www.datadesign.co.jp/meshinspector/news/7917/",
+    "https://meshinspector.com/",
+    "https://www.capterra.jp/software/1044145/meshinspector",
+    "https://bbs.fobshanghai.com/company/o1h78f96e5862i5.html",
+    "https://meshinspector.com/about-us/",
+    "https://jsam.or.jp/news/2026-06-02-6899/",
+    "https://3dconnexion.com/jp/applications/amv-consulting-meshinspector/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "MeshInspector by AMV Consulting LLC 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://meshinspector.com/contact-us/",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://www.3dconnexion.com/applications/amv-consulting-meshinspector/",
+    "https://meshinspector.com/about-us/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://smileinspector.io/contact/",
+    "https://smileinspector.io/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MeshInspector by AMV Consulting LLC Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/MeshInspector",
+    "https://meshinspector.com/",
+    "https://meshinspector.com/contact-us/",
+    "https://www.datadesign.co.jp/meshinspector/news/7917/",
+    "https://bbs.fobshanghai.com/company/o1h78f96e5862i5.html",
+    "https://www.datadesign.co.jp/meshinspector/lineup/meshinspector/",
+    "https://www.3dconnexion.com/applications/amv-consulting-meshinspector/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MeshInspector by AMV Consulting LLC manufacturing customer case study",
+   "results": [
+    "https://en.wikipedia.org/wiki/MeshInspector",
+    "https://meshinspector.com/case-studies/",
+    "https://meshinspector.com/",
+    "https://bbs.fobshanghai.com/company/o1h78f96e5862i5.html",
+    "https://www.linkedin.com/posts/daniel-g-69705623_boosting-business-growth-with-meshinspector-activity-7120000949032529920-19xq",
+    "https://www.accessdata.fda.gov/cdrh_docs/pdf25/K252507.pdf",
+    "https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/amv-consulting-llc/mf_6_0012644661_4663092_10000133202501.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MeshInspector by AMV Consulting LLC white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://reseller.amazon.com/",
+    "https://resellers.bluebeam.com/",
+    "https://meshinspector.com/news/",
+    "https://www.icann.org/resources/pages/reseller-2013-05-03-en",
+    "https://meshinspector.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MeshInspector by AMV Consulting LLC founded funding employees revenue",
+   "results": [
+    "https://en.wikipedia.org/wiki/MeshInspector",
+    "https://www.buzzfile.com/business/Meshinspector-833-399-8473",
+    "https://tracxn.com/d/companies/meshinspector/__LQM3_dpBPNqSYZY2GljefZ4go96PASbUgox2sfZmoMk",
+    "https://www.crunchbase.com/organization/meshinspector",
+    "https://prospeo.io/c/amv-consulting-revenue",
+    "https://bbs.fobshanghai.com/company/o1h78f96e5862i5.html",
+    "https://meshinspector.com/about-us/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com MeshInspector by AMV Consulting LLC",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/tag/積読美術館",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/yoshiki_shibata/n/n185f3d9e13bc",
+    "https://note.com/miraisyakai/n/n79e6a411994e"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com MeshInspector by AMV Consulting LLC",
+   "results": [
+    "https://x.com/meshinspector",
+    "https://jf.x.com/images/media-preview/2102383339126796446",
+    "https://x.com/Roberto269845/status/2104746689882173601",
+    "https://x.com/abdykeen/status/2117175866232868947",
+    "https://x.com/isaiahrmartin/status/2117871814625972663",
+    "https://x.com/susylicious2023/status/2117880110489522374",
+    "https://x.com/jocelynseip/status/2118260591680983528"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com MeshInspector by AMV Consulting LLC",
+   "results": [
+    "https://www.linkedin.com/company/meshinspector",
+    "https://www.linkedin.com/posts/meshinspector_meshinspector-meshlib-newrelease-activity-7361317626112831488-329L",
+    "https://www.linkedin.com/posts/meshinspector_building-meshinspector-a-solution-you-can-activity-7278466631490490368-owBt",
+    "https://www.linkedin.com/posts/meshinspector_meshinspector-meshediting-3dprinting-activity-7434566001792344065-jBe2",
+    "https://www.linkedin.com/posts/meshinspector_meshinspector-meshrepair-3dprinting-activity-7380923417073577985-5qE4",
+    "https://www.linkedin.com/posts/meshinspector_meshinspector-meshlib-qualitycontrol-activity-7467469598083379202-sKv-",
+    "https://www.linkedin.com/posts/meshinspector_meshinspector-overview-3d-mesh-processing-activity-7150501473317969920-a3QY"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com MeshInspector by AMV Consulting LLC",
+   "results": [
+    "https://www.facebook.com/MeshInspector/",
+    "https://www.facebook.com/AMV-Consulting-Inc-207273092462988/",
+    "https://www.facebook.com/pages/AMV-Consulting/1531269007085855/",
+    "https://www.facebook.com/MeshInspector/videos/mastering-3d-inspection-software-a-meshinspector-tutorial/1075878993613014/",
+    "https://www.facebook.com/MeshInspector/photos/meshinspector-new-release-v253-️-mesh-cutting-tools-have-been-redesigned-making-/608179832361863/",
+    "https://www.facebook.com/MeshInspector/posts/new-tutorial-just-dropped-learn-how-to-reshape-your-3d-meshes-with-the-lattice-m/575588882287625/",
+    "https://www.facebook.com/MeshInspector/videos/part-inspection-workflow-in-meshinspector-a-step-by-step-guide/1590353991787127/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MeshInspector by AMV Consulting LLC note 社長",
+   "results": [
+    "https://tracxn.com/d/companies/meshinspector/__LQM3_dpBPNqSYZY2GljefZ4go96PASbUgox2sfZmoMk",
+    "https://bbs.fobshanghai.com/company/o1h78f96e5862i5.html",
+    "https://www.linkedin.com/posts/meshinspector_building-meshinspector-a-solution-you-can-activity-7278466631490490368-owBt",
+    "https://www.buzzfile.com/business/Meshinspector-833-399-8473",
+    "https://rocketreach.co/meshinspector-management_b708f687c4ceb306",
+    "https://meshinspector.com/contact-us/",
+    "https://meshinspector.com/about-us/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MeshInspector by AMV Consulting LLC X 投稿",
+   "results": [
+    "https://en.wikipedia.org/wiki/MeshInspector",
+    "https://x.com/meshinspector",
+    "https://meshinspector.com/",
+    "https://meshinspector.com/contact-us/",
+    "https://www.datadesign.co.jp/meshinspector/news/7917/",
+    "https://bbs.fobshanghai.com/company/o1h78f96e5862i5.html",
+    "https://www.3dconnexion.com/applications/amv-consulting-meshinspector/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部17頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部17頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部17頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部17頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部17頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部17頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部17頁・検索12回）"
+ }
+}

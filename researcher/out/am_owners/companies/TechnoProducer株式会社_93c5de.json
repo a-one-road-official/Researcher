@@ -1,0 +1,939 @@
+{
+ "name": "TechnoProducer株式会社",
+ "aliases": [],
+ "context": "PBF=unknown 装置= 出典=https://www.techno-producer.com/column/powder-bed-3d-print/",
+ "researched_at": "2026-11-10T20:31:43.053059+00:00",
+ "official_url": "https://www.techno-producer.com/",
+ "identified_by": "search:yahoo_jp:TechnoProducer",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "技術マーケティングのコンサルティング 新技術の事業化検討コンサルティング オープン・クローズ戦略にもとづくビジネスモデル・知財戦略の策定コンサルティング 知財戦略策定・知財開発のコンサルティング 技術者向け発明・発想・企画・発明提案スキルアップ教育 知財部員・リエゾンスタッフ向け知財戦略・特許情報分析教育 イノベーションを起こしやすい組織づくり支援 スタートアップ企業の知財戦略・ビジネスシナリオ策定・資金調達の支援 スタートアップ企業の知財戦略・技術戦略・標準化戦略のアドバイザリー 知財流通・知財の購入や売却に関するアドバイザリー 投資家への企業分析・特許分析レポートの提供と特許情報配信 投資先・投資候補企業の知財評価コンサルティング *特許・登録商標/商標",
+    "url": "https://www.techno-producer.com/company/",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2008年3月",
+    "url": "https://www.techno-producer.com/company/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "10,000,000円",
+    "url": "https://www.techno-producer.com/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "7名",
+    "url": "https://www.techno-producer.com/company/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "東京都中央区東日本橋2丁目28番4号日本橋CETビル2階",
+    "url": "https://www.techno-producer.com/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": ": 強い特許や独自の強みを保有している企業を特定し、提携や投資先の判断材料とする",
+    "url": "https://www.techno-producer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "導入社数が100社を突破",
+    "url": "https://www.techno-producer.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "導入社数が一部上場企業を中心に392社を突破",
+    "url": "https://www.techno-producer.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "導入社数がプライム市場上場企業を中心に440社を突破",
+    "url": "https://www.techno-producer.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "・AIの導入によって知財業務がどのように変わるのか知りたい方",
+    "url": "https://www.techno-producer.com/news/ai-native-chizai_2601013/",
+    "pass": 1
+   },
+   {
+    "quote": "・AIを組織へ導入する際の課題や障壁に悩んでいる方",
+    "url": "https://www.techno-producer.com/news/ai-native-chizai_2601013/",
+    "pass": 1
+   },
+   {
+    "quote": "AIの導入によって知財業務がどのように変わるのか知りたい方",
+    "url": "https://techplay.jp/event/999556",
+    "pass": 3
+   },
+   {
+    "quote": "AIを組織へ導入する際の課題や障壁に悩んでいる方",
+    "url": "https://techplay.jp/event/999556",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "【商品企画の失敗談】「売れる理由」が分からない企画を量産していた私が、「顧客目線」を身につけるまで ─ 楠浦さんAI活用実例",
+    "url": "https://www.techno-producer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "初年は200件以上、その後も数年間はロボット・医療・センサー・AR技術・土壌浄化・ディスプレーなど、幅広い分野について毎年40-50件程度の発明提案を行った",
+    "url": "https://www.techno-producer.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "発明塾として、記念すべき最初の発明は、東京大学の学生さんによる「低炭素社会を実現できるスマートビルディング」をテーマにしたもので、「電気自動車が普及したのち、その電気自動車を各家庭での電力消費の最適化に利用する」ことを目指したものであった",
+    "url": "https://www.techno-producer.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "京都大学工学部機械工学科を卒業後、京都大学大学院工学研究科エネルギー応用工学専攻を修了",
+    "url": "https://www.techno-producer.com/news/ai-native-chizai_2601013/",
+    "pass": 1
+   },
+   {
+    "quote": "著書に『新規事業を量産する知財戦略』『Patent Information For Victory』",
+    "url": "https://www.techno-producer.com/news/ai-native-chizai_2601013/",
+    "pass": 1
+   },
+   {
+    "quote": "京都大学工学部機械工学科を卒業後、京都大学大学院工学研究科エネルギー応用工学専攻を修了",
+    "url": "https://techplay.jp/event/999556",
+    "pass": 3
+   },
+   {
+    "quote": "著書に『新規事業を量産する知財戦略』『Patent Information For Victory』",
+    "url": "https://techplay.jp/event/999556",
+    "pass": 3
+   },
+   {
+    "quote": "「新規事業を量産する知財戦略－未来を預言するアイデアで市場を独占しよう！」発刊（2021年4月）",
+    "url": "https://note.com/kusuura/n/nd5356de503c2",
+    "pass": 3
+   },
+   {
+    "quote": "祝！4000冊まであと50冊（笑）：「新規事業を量産する知財戦略」～未来を預言するアイデアで市場を独占しよう！～",
+    "url": "https://note.com/kusuura/all",
+    "pass": 3
+   },
+   {
+    "quote": "祝！4000冊まであと50冊（笑）：「新規事業を量産する知財戦略」～未来を預言するアイデアで市場を独占しよう！～",
+    "url": "https://note.com/kusuura",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "ビル・ゲイツが出資した、50億ドル超を運用する世界初の発明投資ファンドIntellectual Venturs社(現XINOVA社)より依頼を受け、発明事業を開始",
+    "url": "https://www.techno-producer.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "一部上場企業を中心に受講者数が3,600名を超える",
+    "url": "https://www.techno-producer.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "導入社数が一部上場企業を中心に392社を突破",
+    "url": "https://www.techno-producer.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "導入社数がプライム市場上場企業を中心に440社を突破",
+    "url": "https://www.techno-producer.com/company/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 | TechnoProducer 株式会社| — 会社概要 | TechnoProducer 株式会社| TechnoProducer株式会社 https://www.techno-producer.com > company",
+    "url": "https://www.techno-producer.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "「テクノプロデューサー®」を育てる～ TechnoProducer 株式 ... — 「テクノプロデューサー®」を育てる～ TechnoProducer 株式 ... note https://note.com > 科学・テクノロジー > テクノロジー全般",
+    "url": "https://note.com/kusuura/n/nb2a9ce5767f2",
+    "pass": 3
+   },
+   {
+    "quote": "TechnoProducer 株式 会社 （テクノプロデューサー） - LinkedIn — TechnoProducer 株式 会社 （テクノプロデューサー） - LinkedIn LinkedIn https://jp.linkedin.com > company > technoproducer",
+    "url": "https://jp.linkedin.com/company/technoproducer",
+    "pass": 3
+   },
+   {
+    "quote": "TechnoProducer — TechnoProducer TechnoProducer株式会社 https://www.techno-producer.com",
+    "url": "https://www.techno-producer.com/",
+    "pass": 3
+   },
+   {
+    "quote": "TechnoProducer 株式 会社 は、16期に入りました！｜楠浦崇央 — TechnoProducer 株式 会社 は、16期に入りました！｜楠浦崇央 note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/kusuura/n/nd5356de503c2",
+    "pass": 3
+   },
+   {
+    "quote": "企業内発明塾®の TechnoProducer 株式 会社 - X — 企業内発明塾®の TechnoProducer 株式 会社 - X X https://x.com > techno_producer",
+    "url": "https://x.com/techno_producer",
+    "pass": 3
+   },
+   {
+    "quote": "会社 概要| TechnoProducer 株式 会社 | — 会社 概要| TechnoProducer 株式 会社 | TechnoProducer株式会社 https://www.techno-producer.com > company",
+    "url": "https://www.techno-producer.com/company/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "「テクノプロデューサー®」を育てる～ TechnoProducer 株式 ... 「テクノプロデューサー®」を育てる～ TechnoProducer 株式 ... note https://note.com > 科学・テクノロジー > テクノロジー全般",
+    "url": "https://note.com/kusuura/n/nb2a9ce5767f2",
+    "pass": 3
+   },
+   {
+    "quote": "TechnoProducer 株式会社は、16期に入りました！｜楠浦崇央 TechnoProducer 株式会社は、16期に入りました！｜楠浦崇央 note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/kusuura/n/nd5356de503c2",
+    "pass": 3
+   },
+   {
+    "quote": "楠浦崇央／発明塾 塾長 & TechnoProducer CEO - note 楠浦崇央／発明塾 塾長 & TechnoProducer CEO - note note https://note.com > ビジネス > 法務・コンプライアンス・知財",
+    "url": "https://note.com/kusuura/n/ned8ba0a6c8ec",
+    "pass": 3
+   },
+   {
+    "quote": "楠浦崇央／発明塾 塾長 & TechnoProducer CEOの記事一覧｜note 8期連続赤字からの復活。 そして、新規事業10億円超へ。 丸紅木材に学ぶ「会社を変える力」～27歳で経営危機の会社を引き継いだ社長は、何を見つけ、何を捨て、何を育てたのか？ ～ ¥300 楠浦崇央／発明塾 塾長 & TechnoProducer CEO 2週間前",
+    "url": "https://note.com/kusuura/all",
+    "pass": 3
+   },
+   {
+    "quote": "楠浦崇央／発明塾 塾長 & TechnoProducer CEO｜note 8期連続赤字からの復活。 そして、新規事業10億円超へ。 丸紅木材に学ぶ「会社を変える力」～27歳で経営危機の会社を引き継いだ社長は、何を見つけ、何を捨て、何を育てたのか？ ～ ¥300 楠浦崇央／発明塾 塾長 & TechnoProducer CEO 2週間前",
+    "url": "https://note.com/kusuura",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "「テクノプロデューサー®」を育てる～TechnoProducer株式会社が目指すもの（14年目を迎えるにあたり）｜楠浦崇央／発明塾 塾長 & TechnoProducer CEO",
+    "url": "https://note.com/kusuura/n/nb2a9ce5767f2",
+    "pass": 3
+   },
+   {
+    "quote": "「テクノプロデューサー®」を育てる～TechnoProducer株式会社が目指すもの（14年目を迎えるにあたり）",
+    "url": "https://note.com/kusuura/n/nb2a9ce5767f2",
+    "pass": 3
+   },
+   {
+    "quote": "楠浦崇央／発明塾 塾長 & TechnoProducer CEO",
+    "url": "https://note.com/kusuura/n/nb2a9ce5767f2",
+    "pass": 3
+   },
+   {
+    "quote": "は、3月で14年目に入りました。さすがに14年になると、創業当初からいろいろ社会状況が変わってくるわけでして、今は当たり前のこと（例：全社員完全在宅勤務の実施、知財先行・知財開発の考え方、など）も、当時は奇異の目で見られたりしていました。",
+    "url": "https://note.com/kusuura/n/nb2a9ce5767f2",
+    "pass": 3
+   },
+   {
+    "quote": "時代が追い付いてきた部分も含め、いよいよこれからだなと思う",
+    "url": "https://note.com/kusuura/n/nb2a9ce5767f2",
+    "pass": 3
+   },
+   {
+    "quote": "という、弊社が創業当初から掲げてきたミッションについて、創業時のお話やその後の経緯などを含め、ここで整理しておきます。",
+    "url": "https://note.com/kusuura/n/nb2a9ce5767f2",
+    "pass": 3
+   },
+   {
+    "quote": "「テクノプロデューサー®」の由来～弊社 TechnoProducer株式会社 設立時の想い",
+    "url": "https://note.com/kusuura/n/nb2a9ce5767f2",
+    "pass": 3
+   },
+   {
+    "quote": "TechnoProducer®（テクノプロデューサー®）という社名は、2008年の3月に創業した時から一貫して変わっていません。創業時に、当時のメンバーと社名について「どうしようか？」と話をした際、いくつかの案が出ました。僕も案を出しましたが、「くだらない」とすぐに却下されました（笑",
+    "url": "https://note.com/kusuura/n/nb2a9ce5767f2",
+    "pass": 3
+   },
+   {
+    "quote": "TechnoProducer株式会社は、16期に入りました！｜楠浦崇央／発明塾 塾長 & TechnoProducer CEO",
+    "url": "https://note.com/kusuura/n/nd5356de503c2",
+    "pass": 3
+   },
+   {
+    "quote": "TechnoProducer株式会社は、16期に入りました！",
+    "url": "https://note.com/kusuura/n/nd5356de503c2",
+    "pass": 3
+   },
+   {
+    "quote": "楠浦崇央／発明塾 塾長 & TechnoProducer CEO",
+    "url": "https://note.com/kusuura/n/nd5356de503c2",
+    "pass": 3
+   },
+   {
+    "quote": "TechnoProducer株式会社 CEO 発明塾 塾長 の楠浦です。",
+    "url": "https://note.com/kusuura/n/nd5356de503c2",
+    "pass": 3
+   },
+   {
+    "quote": "2022年10月1日で、弊社は16期に入りました。",
+    "url": "https://note.com/kusuura/n/nd5356de503c2",
+    "pass": 3
+   },
+   {
+    "quote": "ここ数年の目標として、毎年新たな製品を出す、ということを僕自身が勝手に掲げていました。多少の前後はあれど達成できているので、引き続きこのペースで進めていきたいと思っています。",
+    "url": "https://note.com/kusuura/n/nd5356de503c2",
+    "pass": 3
+   },
+   {
+    "quote": "今日は、せっかくの機会ですので、直近の新製品リリースを振り返ってみたいと思います。",
+    "url": "https://note.com/kusuura/n/nd5356de503c2",
+    "pass": 3
+   },
+   {
+    "quote": "『新規事業・起業・投資の羅針盤「イノベーション四季報™」《2022年夏号》GAFAMのイノベーション戦略』販売（2022年8月17日）",
+    "url": "https://note.com/kusuura/n/nd5356de503c2",
+    "pass": 3
+   },
+   {
+    "quote": "「誰もやったことがない（知財）研修」をゼロからつくる～TechnoProducer株式会社と発明塾の挑戦メモ｜楠浦崇央／発明塾 塾長 & TechnoProducer CEO",
+    "url": "https://note.com/kusuura/n/ned8ba0a6c8ec",
+    "pass": 3
+   },
+   {
+    "quote": "「誰もやったことがない（知財）研修」をゼロからつくる～TechnoProducer株式会社と発明塾の挑戦メモ",
+    "url": "https://note.com/kusuura/n/ned8ba0a6c8ec",
+    "pass": 3
+   },
+   {
+    "quote": "楠浦崇央／発明塾 塾長 & TechnoProducer CEO",
+    "url": "https://note.com/kusuura/n/ned8ba0a6c8ec",
+    "pass": 3
+   },
+   {
+    "quote": "知財戦略と新規事業、特許分析、人材育成と組織開発の仕事をやってます！",
+    "url": "https://note.com/kusuura/n/ned8ba0a6c8ec",
+    "pass": 3
+   },
+   {
+    "quote": "お客様のリクエストで、対面集合研修でした。",
+    "url": "https://note.com/kusuura/n/ned8ba0a6c8ec",
+    "pass": 3
+   },
+   {
+    "quote": "最近また、「対面集合研修」（リモートではない集合研修）が、少し見直されている",
+    "url": "https://note.com/kusuura/n/ned8ba0a6c8ec",
+    "pass": 3
+   },
+   {
+    "quote": "ような気がしますね。別のお客様向けの提案でも、「これは対面集合でやった方がいいですね」というものが、最近ありました。",
+    "url": "https://note.com/kusuura/n/ned8ba0a6c8ec",
+    "pass": 3
+   },
+   {
+    "quote": "の内容を含むものは、対面の方がよいでしょうね。実務の延長線のものは、「仕事感」があるので、リモートでも大丈夫なのですが、研修、特に「個人のスキル」ではなく",
+    "url": "https://note.com/kusuura/n/ned8ba0a6c8ec",
+    "pass": 3
+   },
+   {
+    "quote": "楠浦崇央／発明塾 塾長 & TechnoProducer CEOの記事一覧｜note",
+    "url": "https://note.com/kusuura/all",
+    "pass": 3
+   },
+   {
+    "quote": "【生成AI×生物学・第9回 後編】論文がAIエージェントになる時代――「知識を読む」から「知識を使う」へ",
+    "url": "https://note.com/kusuura/all",
+    "pass": 3
+   },
+   {
+    "quote": "楠浦崇央／発明塾 塾長 & TechnoProducer CEO",
+    "url": "https://note.com/kusuura/all",
+    "pass": 3
+   },
+   {
+    "quote": "【生成AI×生物学・第9回 前編】AIが科学研究をする時代に――仮説づくりから実験の自動化まで",
+    "url": "https://note.com/kusuura/all",
+    "pass": 3
+   },
+   {
+    "quote": "AI時代のトヨタ戦略 全解剖 第2回｜なぜ豊田章男会長は、自ら教育本部長になるのか――AI時代の人づくりは「教えること」から「自ら育つこと」へ",
+    "url": "https://note.com/kusuura/all",
+    "pass": 3
+   },
+   {
+    "quote": "選ばれ続けるブランド経営 第4回：クラプトンは固定し、ベックは動かした。なぜ両方がフェンダーなのか？――顧客の「正解」を一つにしない。適度な多様性とブランド哲学に学ぶ、選ばれ続ける経営",
+    "url": "https://note.com/kusuura/all",
+    "pass": 3
+   },
+   {
+    "quote": "楠浦崇央／発明塾 塾長 & TechnoProducer CEO｜note",
+    "url": "https://note.com/kusuura",
+    "pass": 3
+   },
+   {
+    "quote": "【生成AI×生物学・第9回 後編】論文がAIエージェントになる時代――「知識を読む」から「知識を使う」へ",
+    "url": "https://note.com/kusuura",
+    "pass": 3
+   },
+   {
+    "quote": "楠浦崇央／発明塾 塾長 & TechnoProducer CEO",
+    "url": "https://note.com/kusuura",
+    "pass": 3
+   },
+   {
+    "quote": "【生成AI×生物学・第9回 前編】AIが科学研究をする時代に――仮説づくりから実験の自動化まで",
+    "url": "https://note.com/kusuura",
+    "pass": 3
+   },
+   {
+    "quote": "AI時代のトヨタ戦略 全解剖 第2回｜なぜ豊田章男会長は、自ら教育本部長になるのか――AI時代の人づくりは「教えること」から「自ら育つこと」へ",
+    "url": "https://note.com/kusuura",
+    "pass": 3
+   },
+   {
+    "quote": "選ばれ続けるブランド経営 第4回：クラプトンは固定し、ベックは動かした。なぜ両方がフェンダーなのか？――顧客の「正解」を一つにしない。適度な多様性とブランド哲学に学ぶ、選ばれ続ける経営",
+    "url": "https://note.com/kusuura",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "企業内発明塾®の TechnoProducer 株式会社 - X 企業内発明塾®の TechnoProducer 株式会社 - X X https://x.com > techno_producer",
+    "url": "https://x.com/techno_producer",
+    "pass": 3
+   },
+   {
+    "quote": "企業内発明塾®のTechnoProducer株式会社 (@techno_producer) / Posts ... Jun 5, 2020 · 企業内発明塾®のTechnoProducer株式会社 (@techno_producer) - Posts - 「既存事業だけでは未来がない！ 」とお悩みの方へ、既存事業の強みを生かした新規事業創出を成功に導く「企業内発明塾」を運営しています。 技術マーケティングのプロが直接支援します。",
+    "url": "https://x.com/techno_producer",
+    "pass": 3
+   },
+   {
+    "quote": "企業内発明塾®のTechnoProducer株式会社 on X: \"電動モビリティは電気... Aug 24, 2023 · 企業内発明塾®のTechnoProducer株式会社 on X: \"電動モビリティは電気を使った乗り物総称です。 EVの他、小型EVや電動キックボードなど多様な製品が登場しています。 今回の記事では,カテゴリーごとの特徴と市場動向を紹介。",
+    "url": "https://x.com/techno_producer/status/1694537512151367797",
+    "pass": 3
+   },
+   {
+    "quote": "TechnoProducer.com (@Edison_PJ) / X 1 followers · 3 following. Joined Feb 2010. See the latest conversations with @Edison_PJ",
+    "url": "https://x.com/Edison_PJ",
+    "pass": 3
+   },
+   {
+    "quote": "楠浦崇央/「Patent Information For Victory」「新規事業を量産する・... 選ばれ続けるブランド経営｜第3回：ストラトキャスターは、何を発明したのか？ ――1954年の技術革新が、70年以上続くブランド資産になるまで | 楠浦崇央／発明塾 塾長 & TechnoProducer CEO @kusukusu105 #note https://t.co/d6yIWLdqMB 05 Nov 2026 04:43:30",
+    "url": "https://x.com/kusukusu105/status/2118202522678788183",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "TechnoProducer株式会社（テクノプロデューサー） | LinkedIn TechnoProducer株式会社（テクノプロデューサー） ビジネスコンサルティング・サービス 中央区、東京都 13人のフォロワー 技術マーケティングのコンサルティング 新技術の事業化検討コンサルティング オープン・クローズ戦略にもとづくビジネスモデル・知財戦略の策定コンサルティング 知財 ...",
+    "url": "https://jp.linkedin.com/company/technoproducer",
+    "pass": 3
+   },
+   {
+    "quote": "楠浦崇央 - TechnoProducer株式会社 創業者/CEO | LinkedInギルド名鑑 No.225 TechnoProducer 楠浦 崇央さん | 楠浦崇央#technoproducer #modularsynth #musicproducer #musicstudio ...井上（畑田） 康司 - TechnoProducer株式会社 シニアリサーチャー 大...PR TechnoProducer - TechnoProducer株式会社 - 情報システム部門 | L...選ばれ続けるブランド経営 第4回：クラプトンは固定し、ベックは動か... TechnoProducer株式会社 創業者/CEO · TechnoProducer株式会社 CEO / 発明塾塾長 モビリティ、再生可能エネルギー、半導体、細胞培養、医療、医薬、ロボティクスの分野で新製品、新規事業を手掛けてき",
+    "url": "https://jp.linkedin.com/in/崇央-楠浦-5081b2a/en",
+    "pass": 3
+   },
+   {
+    "quote": "ギルド名鑑 No.225 TechnoProducer 楠浦 崇央さん | 楠浦崇央 人生のハードルを下げる、をテーマにお話しました！ ーー 今回ご紹介するのは、TechnoProducer株式会社の代表取締役 楠浦 崇央さん。発明や知財を ...",
+    "url": "https://www.linkedin.com/posts/崇央-楠浦-5081b2a_ギルド名鑑-no225technoproducer-楠浦-崇央さん-activity-7514666664408317952-q1FJ",
+    "pass": 3
+   },
+   {
+    "quote": "井上（畑田） 康司 - TechnoProducer株式会社 シニアリサーチャー 大... TechnoProducer株式会社 シニアリサーチャー 大阪大学大学院工学研究科 招へい教員 · As a Senior Researcher at TechnoProducer Inc., I analyze corporate innovation strategies and produce reports and e-learning materials. My strength lies in analyzing intellectual property strategies, and I also have the privilege of teaching open-close strategies at the graduate school ...",
+    "url": "https://jp.linkedin.com/in/koji-inoue（hatada）-47746913/ja",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "TECHNO PRODUCER - Facebook 🔥 Thanks guys for your feedback we appreciate it.#technoproducer#technoproduction#technoproductiontips#maketechnomusic 0 reactions Astral: Sample Packs & Music Services 1y · Public Download our FREE PDF with basics of mixing - the link is jn our bio. 💫 🎹 Astral: Sample Packs & Music Services 1y · Public",
+    "url": "https://www.facebook.com/groups/technoproducer/",
+    "pass": 3
+   },
+   {
+    "quote": "TECHNO PRODUCERS - Facebook Oct 26, 2026 · ⚡ RESONATOR ⚡ The wait is nearly over. 🖤 30 OCTOBER 🔊 Pre-save now — link in bio. 🔗 #TechnoMusic #UndergroundTechno #TechnoDJ #DJSet #TechnoProducer Sharpe and Sharma 1 reaction After Rave",
+    "url": "https://www.facebook.com/groups/technoproducers/",
+    "pass": 3
+   },
+   {
+    "quote": "TechnoProducer株式会社 - FacebookFrom performing my final recital at Juilliard to producing my ...Testing on a #warehouse rig #technoproducer #techno # ...Should I finish this one? Follow for #3 #techno # ... - FacebookTrack 4. ⚡️Breakbeat. #technoproducer #technoscotland # ... Aug 19, 2025 · TechnoProducer株式会社. 76 likes. 弊社では、新規事業・研究開発テーマ創出の支援と、発明・知財の教育講座（eラーニング・動画）の2つを軸にサービスを提供しています。 Oct 8, 2026 · B",
+    "url": "https://www.facebook.com/TechnoproducerHatsumeijuku/",
+    "pass": 3
+   },
+   {
+    "quote": "Testing on a #warehouse rig #technoproducer #techno # ... Jul 15, 2026 · Testing on a #warehouse rig #technoproducer #techno #technolovers #hypnotictechno Testing on a #warehouse rig #technoproducer #techno #technolovers #hypnotictechno - in Phoenix, AZ.",
+    "url": "https://www.facebook.com/crflores1/videos/testing-on-a-warehouse-rig-technoproducer-techno-technolovers-hypnotictechno/1749005949883050/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.techno-producer.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techno-producer.com/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techno-producer.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techno-producer.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techno-producer.com/news/seminar-kikakusho-workshop-261113/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techno-producer.com/news/media_info_261119/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techno-producer.com/news/current-surveys/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techno-producer.com/news/media_info_261015/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techno-producer.com/news/media_info_260917/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techno-producer.com/news/invoice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techno-producer.com/news/pta-seminar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techno-producer.com/news/ai-native-chizai_2601013/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://note.com/kusuura/n/nb2a9ce5767f2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techplay.jp/event/999556",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/the-future-of-metal-3d-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Ew517KG1bOI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.protech-japan.jp/topics/3d/a35",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/media/seminar/webinar-2025-01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kusuura/n/nd5356de503c2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/techno_producer",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.technoproholdings.com/company/profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp276786/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.technopro.com/aboutus/company-profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kusuura/n/nb2a9ce5767f2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kusuura/n/nd5356de503c2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kusuura/n/ned8ba0a6c8ec",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/techno_producer",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/technoproducer",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/崇央-楠浦-5081b2a/en",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/崇央-楠浦-5081b2a_ギルド名鑑-no225technoproducer-楠浦-崇央さん-activity-7514666664408317952-q1FJ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/koji-inoue（hatada）-47746913/ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/technoproducer/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/technoproducers/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TechnoproducerHatsumeijuku/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/crflores1/videos/testing-on-a-warehouse-rig-technoproducer-techno-technolovers-hypnotictechno/1749005949883050/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/kusuura/all",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kusuura",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/techno_producer",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/techno_producer/status/1694537512151367797",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Edison_PJ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/kusukusu105/status/2118202522678788183",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "TechnoProducer",
+   "results": [
+    "https://www.techno-producer.com/",
+    "https://technoproducer.com/",
+    "https://jp.linkedin.com/company/technoproducer",
+    "https://note.com/kusuura/n/nd5356de503c2",
+    "https://prtimes.jp/main/html/searchrlp/company_id/79434",
+    "https://x.com/techno_producer",
+    "https://www.linkedin.com/company/technoproducer",
+    "https://www.techno-producer.com/company/",
+    "https://jp.linkedin.com/in/崇央-楠浦-5081b2a/en",
+    "https://technoproducer.com/2026/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "TechnoProducer 会社概要 資本金 設立",
+   "results": [
+    "https://www.techno-producer.com/company/",
+    "https://note.com/kusuura/n/nb2a9ce5767f2",
+    "https://techplay.jp/event/999556",
+    "https://www.technopro.com/it/company/profile/",
+    "https://jp.linkedin.com/company/technoproducer",
+    "https://chizaijuku.jp/",
+    "https://prtimes.jp/main/html/searchrlp/company_id/79434",
+    "https://news.infoseek.co.jp/article/prtimes_000000526_000042056/",
+    "https://www.technopro-cloudservice.com/company/",
+    "https://kaisharesearch.com/company/detail/2020001056368/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "TechnoProducer 金属3Dプリンタ 導入",
+   "results": [
+    "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/the-future-of-metal-3d-printing",
+    "https://www.youtube.com/watch?v=Ew517KG1bOI",
+    "https://www.protech-japan.jp/topics/3d/a35",
+    "https://3dprinter.co.jp/cms3d/wp-content/themes/3dprinter-wp_new/images/product/markforged/metal-x/Metal-3dprinter.pdf",
+    "https://www.ricoh.co.jp/3dp/metal/case_jzhc",
+    "https://www.technohands.co.jp/metal-3d-printing/",
+    "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "https://www.techno-producer.com/column/powder-bed-3d-print/",
+    "https://www.techno-producer.com/column/metal-3d-printer-maker/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "TechnoProducer 金属積層造形 設備",
+   "results": [
+    "https://jampt.jp/equipment/",
+    "https://www.kinzoku.co.jp/media/seminar/webinar-2025-01",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://ja.3dsystems.com/semiconductor",
+    "https://www.youtube.com/watch?v=5KVb69CSTXU",
+    "https://www.ricoh.co.jp/3dp/metal/what",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/pc-control-ethercat-metal-additive-manufacturing-260122/",
+    "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "https://www.techno-producer.com/column/powder-bed-3d-print/",
+    "https://www.jfe-steel.co.jp/products/solution/metal-3d-printing/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "TechnoProducer 株主 出資 親会社",
+   "results": [
+    "https://www.techno-producer.com/",
+    "https://note.com/kusuura/n/nd5356de503c2",
+    "https://x.com/techno_producer",
+    "https://jpn.pioneer/ja/corp/news/press/2018/pdf/1207-2.pdf",
+    "https://www.techno-producer.com/company/",
+    "https://www.technopro.com/news/release20180730_01/",
+    "https://www.japan-systems.co.jp/wp-content/uploads/2021/08/JS200312.pdf",
+    "https://iptech.jp/info/190712",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260220/20260220565901.pdf",
+    "https://kaisharesearch.com/company/detail/2020001056368/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "TechnoProducer 売上高 従業員数",
+   "results": [
+    "https://www.technoproholdings.com/company/profile.html",
+    "https://job.mynavi.jp/28/pc/search/corp276786/outline.html",
+    "https://www.technopro.com/aboutus/company-profile/",
+    "https://www.bizreach.jp/companies/3143/",
+    "https://strainer.jp/rankings/technology/financial-NumberOfEmployees",
+    "https://www.dentsusoken.com/about/data/",
+    "https://www.techno-producer.com/company/",
+    "https://diamond.jp/articles/-/222106",
+    "https://note.com/kusuura/n/nd9af28619715",
+    "https://baseconnect.in/companies/a3e95798-e3e9-4154-be42-965da730455d"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com TechnoProducer",
+   "results": [
+    "https://note.com/kusuura/n/nb2a9ce5767f2",
+    "https://note.com/kusuura/n/nd5356de503c2",
+    "https://note.com/kusuura/n/nc8bf3514a2cc?hl=en",
+    "https://note.com/kusuura/n/ned8ba0a6c8ec",
+    "https://note.com/kusuura/m/mcbba5b497d23",
+    "https://note.com/kusuura/m/m8903aa16fbb5",
+    "https://note.com/kusuura/m/m8d94c2d68e73",
+    "https://note.com/kusuura",
+    "https://note.com/daisuke16/n/n8e8c5bbf3461",
+    "https://note.com/kusuura/n/n73334831a84e"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com TechnoProducer",
+   "results": [
+    "https://x.com/techno_producer",
+    "https://x.com/kusukusu105",
+    "https://x.com/echostage/status/2099893053574307974",
+    "https://x.com/youcallmeupat6/status/2118363215499313231",
+    "https://x.com/xenia_ua",
+    "https://x.com/techno_producer/status/1749980174979129724",
+    "https://x.com/techno_producer/status/1849399035171643894?ref_src=twsrc%5Etfw",
+    "https://x.com/kusukusu105/status/2109803100315996341?lang=ar",
+    "https://x.com/kusukusu105/status/2110908524763242634",
+    "https://x.com/TokkyoAi/status/2112457919778402484"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com TechnoProducer",
+   "results": [
+    "https://jp.linkedin.com/company/technoproducer",
+    "https://jp.linkedin.com/in/崇央-楠浦-5081b2a/en",
+    "https://www.linkedin.com/posts/崇央-楠浦-5081b2a_ギルド名鑑-no225technoproducer-楠浦-崇央さん-activity-7514666664408317952-q1FJ",
+    "https://jp.linkedin.com/in/koji-inoue（hatada）-47746913/ja",
+    "https://jp.linkedin.com/in/pr-technoproducer-3264912b0",
+    "https://www.linkedin.com/posts/florianmeindl_technoproducer-modularsynth-musicproducer-activity-6613065434600099840-liYC",
+    "https://jp.linkedin.com/posts/崇央-楠浦-5081b2a_選ばれ続けるブランド経営-第4回クラプトンは固定しベックは動かしたなぜ両方が-activity-7525503585003061248-DtgG"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com TechnoProducer",
+   "results": [
+    "https://www.facebook.com/groups/technoproducer/",
+    "https://www.facebook.com/groups/technoproducers/",
+    "https://www.facebook.com/TechnoproducerHatsumeijuku/",
+    "https://www.facebook.com/crflores1/videos/testing-on-a-warehouse-rig-technoproducer-techno-technolovers-hypnotictechno/1749005949883050/",
+    "https://www.facebook.com/JBStarship/videos/should-i-finish-this-one-follow-for-3-techno-technoproducer-peaktechno-jbstarshi/1683041540158200/",
+    "https://www.facebook.com/RyanThomson1998/videos/track-4-️breakbeat-technoproducer-technoscotland-undergroundtechno-scottishtechn/1566581861340352/",
+    "https://www.facebook.com/djlilakova/videos/from-performing-my-final-recital-at-juilliard-to-producing-my-own-technonever-th/1339367904777428/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "TechnoProducer note 社長",
+   "results": [
+    "https://note.com/kusuura/all",
+    "https://note.com/kusuura",
+    "https://www.techno-producer.com/kusuura/",
+    "https://compalyze.co.jp/company/2020001056368",
+    "https://jp.linkedin.com/in/崇央-楠浦-5081b2a/en",
+    "https://jp.linkedin.com/company/technoproducer",
+    "https://www.techno-producer.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "TechnoProducer X 投稿",
+   "results": [
+    "https://x.com/techno_producer",
+    "https://x.com/techno_producer/status/1694537512151367797",
+    "https://x.com/Edison_PJ",
+    "https://x.com/kusukusu105/status/2118202522678788183",
+    "https://x.com/kusukusu105",
+    "https://x.com/felixrieseberg/status/2119925633564463609",
+    "https://www.techno-producer.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部31頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部31頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部31頁・検索12回）",
+  "使っている金属粉（材質）": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

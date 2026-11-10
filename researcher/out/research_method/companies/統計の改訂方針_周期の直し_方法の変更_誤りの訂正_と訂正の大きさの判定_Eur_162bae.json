@@ -8,7 +8,7 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-09T08:43:16.789414+00:00",
+ "researched_at": "2026-11-10T20:46:04.351841+00:00",
  "evidence": {
   "突き合わせ・推定": [
    {
@@ -476,6 +476,50 @@
     "first_seen": "2026-11-06"
    }
   ],
+  "失敗・落とし穴": [
+   {
+    "quote": "revisions and to limit them to the case of importan t errors. When significant mistakes occur, the",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "communication of the mistake should be frank and th e revised data should be published at the",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Bias or unusual behaviour in the revision process of preliminary data might reveal some problems",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "I found mistake(s) in the text",
+    "url": "https://ec.europa.eu/eurostat/web/products-manuals-and-guidelines/-/ks-gq-21-021",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "important errors. When significant mistakes occur, the communication of the mistake should",
+    "url": "https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Bias or unusual behaviour in the revision process of preliminary data might reveal some problems in the",
+    "url": "https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "bias in price indexes is entirely based on economic theory.",
+    "url": "https://bhas.gov.ba/data/Dokumenti/Kvalitet/ESS_2020_EN.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "実例": [
    {
     "quote": "the missing values are estimated. Since it is gener ally the case that the estimated values do not",
@@ -833,72 +877,23 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "revisions and to limit them to the case of importan t errors. When significant mistakes occur, the",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "communication of the mistake should be frank and th e revised data should be published at the",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Bias or unusual behaviour in the revision process of preliminary data might reveal some problems",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "I found mistake(s) in the text",
-    "url": "https://ec.europa.eu/eurostat/web/products-manuals-and-guidelines/-/ks-gq-21-021",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "important errors. When significant mistakes occur, the communication of the mistake should",
-    "url": "https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Bias or unusual behaviour in the revision process of preliminary data might reveal some problems in the",
-    "url": "https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "bias in price indexes is entirely based on economic theory.",
-    "url": "https://bhas.gov.ba/data/Dokumenti/Kvalitet/ESS_2020_EN.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://ec.europa.eu/eurostat/web/products-manuals-and-guidelines/-/ks-gq-15-001",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www2.iuj.ac.jp/workingpapers/index.cfm?File=EMS_2026_12.pdf",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
     "url": "https://www.eurofins.com/ja-jp/biopharma-services/biopharma-product-testing/qc-testing/pharmacopoeia-updates/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.wis-jma.go.jp/sataid/OBS/SCAT/WINY0809.TXT",
+    "url": "https://sorry.ec.europa.eu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www2.iuj.ac.jp/workingpapers/index.cfm?File=EMS_2026_18.pdf",
     "status": "robots_disallowed",
     "method": ""
    },
@@ -913,27 +908,32 @@
     "method": "http"
    },
    {
-    "url": "https://www.nishimura.com/ja/knowledge/publications?currentstatus=0&unselect_seminar_sponsor=0&page=289",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
     "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-4.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.jpm.jp/wp-content/uploads/2026/11/051123.pdf",
+    "url": "https://warp.ndl.go.jp/web/20210703201054/www.data.jma.go.jp/suishin/oshirase/pdf/20190318.pdf",
     "status": "robots_disallowed",
     "method": ""
    },
    {
-    "url": "https://www.soumu.go.jp/main_content/000949198.pdf",
+    "url": "https://researchmap.jp/akira_ishida/presentations/46033632/attachment_file.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://whitepaper-search.nistep.go.jp/white-paper/view/31761",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000656998.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.soumu.go.jp/main_content/000900564.pdf",
+    "url": "https://www.soumu.go.jp/main_content/000949198.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -943,29 +943,19 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.soumu.go.jp/main_content/000656998.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
     "url": "https://www.stat.go.jp/data/guide/pdf/guideline.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.stat.go.jp/data/guide/pdf/pdcaguideline.pdf",
+    "url": "https://www.stat.go.jp/data/nihon/index2-2.html",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
-    "url": "https://www.mext.go.jp/content/20260327-mxt_chousa01-000048552_12.pdf",
+    "url": "https://www.esri.cao.go.jp/jp/sna/data/reference1/siryou/siryou_top.html",
     "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.maff.go.jp/j/pr/annual/attach/pdf/r01mokuzi-16.pdf",
-    "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
     "url": "https://www.esri.cao.go.jp/jp/esri/about/statistical_reform/main.html",
@@ -973,12 +963,17 @@
     "method": "http"
    },
    {
-    "url": "https://www.stat.go.jp/data/guide/hinsitu.html",
-    "status": "ok",
+    "url": "https://www.wis-jma.go.jp/sataid/OBS/SCAT/WINY0809.TXT",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.nishimura.com/ja/knowledge/publications?currentstatus=0&unselect_seminar_sponsor=0&page=289",
+    "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF",
+    "url": "https://sorry.ec.europa.eu/",
     "status": "ok",
     "method": "pdf"
    },
@@ -993,13 +988,13 @@
     "method": "http"
    },
    {
-    "url": "https://www.bom.mu/sites/default/files/ess_revision_policy.pdf",
-    "status": "network_error:SSLError",
+    "url": "https://bhas.gov.ba/data/Dokumenti/Kvalitet/ESS_2020_EN.pdf",
+    "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://bhas.gov.ba/data/Dokumenti/Kvalitet/ESS_2020_EN.pdf",
-    "status": "ok",
+    "url": "https://www.bom.mu/sites/default/files/ess_revision_policy.pdf",
+    "status": "network_error:SSLError",
     "method": "pdf"
    },
    {
@@ -1013,19 +1008,19 @@
   {
    "query": "統計の改訂方針（周期の直し・方法の変更・誤りの訂正）と訂正の大きさの判定（Eurostat・ESS の改訂方針の手引き・各国統計局の改訂方針） site:note.com",
    "results": [
-    "https://ec.europa.eu/eurostat/web/products-manuals-and-guidelines/-/ks-gq-15-001",
-    "https://www2.iuj.ac.jp/workingpapers/index.cfm?File=EMS_2026_12.pdf",
     "https://www.eurofins.com/ja-jp/biopharma-services/biopharma-product-testing/qc-testing/pharmacopoeia-updates/",
-    "https://www.wis-jma.go.jp/sataid/OBS/SCAT/WINY0809.TXT",
+    "https://ec.europa.eu/eurostat/web/products-manuals-and-guidelines/-/ks-gq-15-001",
+    "https://www2.iuj.ac.jp/workingpapers/index.cfm?File=EMS_2026_18.pdf",
     "https://www.stat.go.jp/training/2kenkyu/pdf/ihou/66/kobayashi.pdf",
     "https://www.pmda.go.jp/int-activities/int-harmony/ich/0031.html",
-    "https://www.nishimura.com/ja/knowledge/publications?currentstatus=0&unselect_seminar_sponsor=0&page=289",
     "https://www.meti.go.jp/statistics/tyo/iip/riyou-4.pdf",
-    "https://www.jpm.jp/wp-content/uploads/2026/11/051123.pdf",
-    "https://note.com/nk_advisory/n/nfffe0f88daa9"
+    "https://warp.ndl.go.jp/web/20210703201054/www.data.jma.go.jp/suishin/oshirase/pdf/20190318.pdf",
+    "https://researchmap.jp/akira_ishida/presentations/46033632/attachment_file.pdf",
+    "https://whitepaper-search.nistep.go.jp/white-paper/view/31761",
+    "https://note.com/nora_fas/n/n88356a93703d"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -1033,16 +1028,16 @@
   {
    "query": "統計の改訂方針（周期の直し・方法の変更・誤りの訂正）と訂正の大きさの判定（Eurostat・ESS の改訂方針の手引き・各国統計局の改訂方針） note",
    "results": [
-    "https://ec.europa.eu/eurostat/web/products-manuals-and-guidelines/-/ks-gq-15-001",
-    "https://www2.iuj.ac.jp/workingpapers/index.cfm?File=EMS_2026_12.pdf",
     "https://www.eurofins.com/ja-jp/biopharma-services/biopharma-product-testing/qc-testing/pharmacopoeia-updates/",
-    "https://www.wis-jma.go.jp/sataid/OBS/SCAT/WINY0809.TXT",
+    "https://ec.europa.eu/eurostat/web/products-manuals-and-guidelines/-/ks-gq-15-001",
+    "https://www2.iuj.ac.jp/workingpapers/index.cfm?File=EMS_2026_18.pdf",
     "https://www.stat.go.jp/training/2kenkyu/pdf/ihou/66/kobayashi.pdf",
     "https://www.pmda.go.jp/int-activities/int-harmony/ich/0031.html",
-    "https://www.nishimura.com/ja/knowledge/publications?currentstatus=0&unselect_seminar_sponsor=0&page=289",
     "https://www.meti.go.jp/statistics/tyo/iip/riyou-4.pdf",
-    "https://www.jpm.jp/wp-content/uploads/2026/11/051123.pdf",
-    "https://www.soumu.go.jp/main_content/000949198.pdf"
+    "https://warp.ndl.go.jp/web/20210703201054/www.data.jma.go.jp/suishin/oshirase/pdf/20190318.pdf",
+    "https://researchmap.jp/akira_ishida/presentations/46033632/attachment_file.pdf",
+    "https://whitepaper-search.nistep.go.jp/white-paper/view/31761",
+    "https://www.soumu.go.jp/main_content/000656998.pdf"
    ],
    "engines": [
     "ddgs:google",
@@ -1053,16 +1048,16 @@
   {
    "query": "統計の改訂方針（周期の直し・方法の変更・誤りの訂正）と訂正の大きさの判定（Eurostat・ESS の改訂方針の手引き・各国統計局の改訂方針） やり方",
    "results": [
-    "https://ec.europa.eu/eurostat/web/products-manuals-and-guidelines/-/ks-gq-15-001",
-    "https://www2.iuj.ac.jp/workingpapers/index.cfm?File=EMS_2026_12.pdf",
     "https://www.eurofins.com/ja-jp/biopharma-services/biopharma-product-testing/qc-testing/pharmacopoeia-updates/",
-    "https://www.wis-jma.go.jp/sataid/OBS/SCAT/WINY0809.TXT",
+    "https://ec.europa.eu/eurostat/web/products-manuals-and-guidelines/-/ks-gq-15-001",
+    "https://www2.iuj.ac.jp/workingpapers/index.cfm?File=EMS_2026_18.pdf",
     "https://www.stat.go.jp/training/2kenkyu/pdf/ihou/66/kobayashi.pdf",
     "https://www.pmda.go.jp/int-activities/int-harmony/ich/0031.html",
-    "https://www.nishimura.com/ja/knowledge/publications?currentstatus=0&unselect_seminar_sponsor=0&page=289",
     "https://www.meti.go.jp/statistics/tyo/iip/riyou-4.pdf",
-    "https://www.jpm.jp/wp-content/uploads/2026/11/051123.pdf",
-    "https://www.soumu.go.jp/main_content/000949198.pdf"
+    "https://warp.ndl.go.jp/web/20210703201054/www.data.jma.go.jp/suishin/oshirase/pdf/20190318.pdf",
+    "https://researchmap.jp/akira_ishida/presentations/46033632/attachment_file.pdf",
+    "https://whitepaper-search.nistep.go.jp/white-paper/view/31761",
+    "https://www.soumu.go.jp/main_content/000656998.pdf"
    ],
    "engines": [
     "ddgs:google",
@@ -1073,16 +1068,16 @@
   {
    "query": "統計の改訂方針（周期の直し・方法の変更・誤りの訂正）と訂正の大きさの判定（Eurostat・ESS の改訂方針の手引き・各国統計局の改訂方針） 事例",
    "results": [
-    "https://ec.europa.eu/eurostat/web/products-manuals-and-guidelines/-/ks-gq-15-001",
-    "https://www2.iuj.ac.jp/workingpapers/index.cfm?File=EMS_2026_12.pdf",
     "https://www.eurofins.com/ja-jp/biopharma-services/biopharma-product-testing/qc-testing/pharmacopoeia-updates/",
+    "https://ec.europa.eu/eurostat/web/products-manuals-and-guidelines/-/ks-gq-15-001",
     "https://www.wis-jma.go.jp/sataid/OBS/SCAT/WINY0809.TXT",
+    "https://www2.iuj.ac.jp/workingpapers/index.cfm?File=EMS_2026_18.pdf",
     "https://www.stat.go.jp/training/2kenkyu/pdf/ihou/66/kobayashi.pdf",
     "https://www.pmda.go.jp/int-activities/int-harmony/ich/0031.html",
-    "https://www.nishimura.com/ja/knowledge/publications?currentstatus=0&unselect_seminar_sponsor=0&page=289",
     "https://www.meti.go.jp/statistics/tyo/iip/riyou-4.pdf",
-    "https://www.jpm.jp/wp-content/uploads/2026/11/051123.pdf",
-    "https://www.soumu.go.jp/main_content/000949198.pdf"
+    "https://www.nishimura.com/ja/knowledge/publications?currentstatus=0&unselect_seminar_sponsor=0&page=289",
+    "https://warp.ndl.go.jp/web/20210703201054/www.data.jma.go.jp/suishin/oshirase/pdf/20190318.pdf",
+    "https://www.soumu.go.jp/main_content/000656998.pdf"
    ],
    "engines": [
     "ddgs:google",
@@ -1096,16 +1091,16 @@
     "https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF",
     "https://www.destatis.de/EN/Methods/Quality/PrinciplesGoverningRevisions_of_Published.pdf?__blob=publicationFile",
     "https://nces.ed.gov/statprog/2012/",
-    "https://www.bom.mu/sites/default/files/ess_revision_policy.pdf",
     "https://bhas.gov.ba/data/Dokumenti/Kvalitet/ESS_2020_EN.pdf",
+    "https://www.bom.mu/sites/default/files/ess_revision_policy.pdf",
     "https://www.dst.dk/en/OmDS/kvalitet-og-styring/kvalitet-for-statistikproduktion/revisions-og-fejlpolitik",
-    "https://www.europeansocialsurvey.org/sites/default/files/2023-06/ESS_weighting_data_1_1.pdf",
+    "https://www.europeansocialsurvey.org/methodology/methodological-research/correction-measurement-error",
     "https://unstats.un.org/unsd/dnss/docs-nqaf/eurostat-esqr_final.pdf",
-    "https://www.itl.nist.gov/div898/handbook/",
+    "https://ec.europa.eu/eurostat/documents/3859598/9530664/KS-GQ-18-012-EN-N.pdf",
     "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 14
@@ -1130,31 +1125,31 @@
    "query": "site:x.com 統計の改訂方針（周期の直し・方法の変更・誤りの訂正）と訂正の大きさの判定（Eurostat・ESS の改訂方針の手引き・各国統計局の改訂方針）",
    "results": [
     "https://x.com/jambutter27/status/2100016947077550166",
-    "https://x.com/i/status/2086943722269491654",
     "https://x.com/i/trending/2099832658637304317",
-    "https://x.com/genkuroki/status/1730393468282015940",
     "https://x.com/i/trending/2100208332284059965",
+    "https://x.com/genkuroki/status/1730393468282015940",
+    "https://x.com/kikumaco/status/2100148082906448254",
     "https://x.com/jpx_JQuants/status/2113141325042483670",
-    "https://x.com/kikumaco/status/2100148082906448254"
+    "https://x.com/genkuroki/status/1806649264405348809"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
   {
    "query": "site:linkedin.com 統計の改訂方針（周期の直し・方法の変更・誤りの訂正）と訂正の大きさの判定（Eurostat・ESS の改訂方針の手引き・各国統計局の改訂方針）",
    "results": [
+    "https://www.linkedin.com/pulse/エラーレスラーニングとは-陽-佐藤-xz7oc",
     "https://jp.linkedin.com/learning/cert-prep-network-for-fundamental-information-technology-engineer-examination/4222179",
     "https://jp.linkedin.com/pulse/introduction-error-detection-correction-1-parity-simon-southwell?tl=ja",
     "https://www.linkedin.com/posts/protiviti-japan_blog-グローバル内部監査基準を理解すると題し2025年に施行されるグローバル-activity-7200758356381220864-oC2t",
-    "https://www.linkedin.com/pulse/エラーレスラーニングとは-陽-佐藤-xz7oc",
     "https://jp.linkedin.com/pulse/電子取引データの訂正及び削除の防止に関する事務処理規程サンプル-shinichiro-yamashita-6jsyc",
     "https://jp.linkedin.com/pulse/how-statistics-helps-data-science-malathy-saranya?tl=ja",
     "https://jp.linkedin.com/in/俊太朗-佐藤-463b9715b"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -1162,11 +1157,11 @@
    "query": "site:facebook.com 統計の改訂方針（周期の直し・方法の変更・誤りの訂正）と訂正の大きさの判定（Eurostat・ESS の改訂方針の手引き・各国統計局の改訂方針）",
    "results": [
     "https://www.facebook.com/mikio.tasaka/posts/28788733450790040/",
+    "https://www.facebook.com/kyotoprefkoho/photos/訂正のお知らせ昨日投稿した画像に曜日の誤りがありましたご迷惑をおかけし申し訳ございません正しい画像は以下のとおりですご確認ください/1081734330733315/",
     "https://www.facebook.com/FPCHUH/posts/医療観察法統計資料が5年ぶりに改訂され2025年版が刊行されました主に医療観察法入院医療に関する資料となります最後の第5部医療観察法支援者研修動画ライブラリー研/1050122920956553/",
     "https://www.facebook.com/photo.php/?fbid=122211260168098761",
     "https://www.facebook.com/mextjapan/posts/学習指導要領の改訂に関する議論学校では学習指導要領をもとに学習の目標や内容を定めています現在約10年に一度行われる学習指導要領の改訂に向けた審議が進んでいますこ/1279969417499536/",
-    "https://www.facebook.com/mextjapan/posts/学習指導要領の改訂に向けた基本的な方向性学校では学習指導要領をもとに学習の目標や内容を定めており学習指導要領はおよそ10年に一度改訂されています令和6年12月の/1346812897481854/",
-    "https://www.facebook.com/mextjapan/posts/学習指導要領の改訂に向けた中教審での審議が進んでいます学校での学習の目標や内容は学習指導要領で定められています令和6年12月文部科学大臣から初等中等教育における/1077422051087608/",
+    "https://www.facebook.com/jointkaigo/posts/ケアプラン点検支援マニュアルが改訂されました実に17年ぶり変更点を把握するだけでも大変ですその要点をやさしく詳しく解説するウェビナーが開催されます点検準備を属人/1149861413610829/",
     "https://www.facebook.com/toukei.kentei/posts/東京図書株式会社より統計調査士に対応したテキストの改訂版が2024年4月に刊行されます改訂版では公的統計および統計調査に関する変更を反映し公的統計に関する記述を/928510505734997/"
    ],
    "engines": [
@@ -1177,19 +1172,19 @@
   {
    "query": "統計の改訂方針（周期の直し・方法の変更・誤りの訂正）と訂正の大きさの判定（Eurostat・ESS の改訂方針の手引き・各国統計局の改訂方針） note 社長",
    "results": [
-    "https://ec.europa.eu/eurostat/web/products-manuals-and-guidelines/-/ks-gq-15-001",
-    "https://www2.iuj.ac.jp/workingpapers/index.cfm?File=EMS_2026_12.pdf",
     "https://www.eurofins.com/ja-jp/biopharma-services/biopharma-product-testing/qc-testing/pharmacopoeia-updates/",
-    "https://www.wis-jma.go.jp/sataid/OBS/SCAT/WINY0809.TXT",
+    "https://ec.europa.eu/eurostat/web/products-manuals-and-guidelines/-/ks-gq-15-001",
+    "https://www2.iuj.ac.jp/workingpapers/index.cfm?File=EMS_2026_18.pdf",
     "https://www.stat.go.jp/training/2kenkyu/pdf/ihou/66/kobayashi.pdf",
     "https://www.pmda.go.jp/int-activities/int-harmony/ich/0031.html",
-    "https://www.nishimura.com/ja/knowledge/publications?currentstatus=0&unselect_seminar_sponsor=0&page=289",
     "https://www.meti.go.jp/statistics/tyo/iip/riyou-4.pdf",
-    "https://www.jpm.jp/wp-content/uploads/2026/11/051123.pdf",
-    "https://www.soumu.go.jp/main_content/000949198.pdf"
+    "https://warp.ndl.go.jp/web/20210703201054/www.data.jma.go.jp/suishin/oshirase/pdf/20190318.pdf",
+    "https://researchmap.jp/akira_ishida/presentations/46033632/attachment_file.pdf",
+    "https://whitepaper-search.nistep.go.jp/white-paper/view/31761",
+    "https://www.soumu.go.jp/main_content/000656998.pdf"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -1197,16 +1192,16 @@
   {
    "query": "統計の改訂方針（周期の直し・方法の変更・誤りの訂正）と訂正の大きさの判定（Eurostat・ESS の改訂方針の手引き・各国統計局の改訂方針） X 投稿",
    "results": [
-    "https://ec.europa.eu/eurostat/web/products-manuals-and-guidelines/-/ks-gq-15-001",
-    "https://www2.iuj.ac.jp/workingpapers/index.cfm?File=EMS_2026_12.pdf",
     "https://www.eurofins.com/ja-jp/biopharma-services/biopharma-product-testing/qc-testing/pharmacopoeia-updates/",
-    "https://www.wis-jma.go.jp/sataid/OBS/SCAT/WINY0809.TXT",
+    "https://ec.europa.eu/eurostat/web/products-manuals-and-guidelines/-/ks-gq-15-001",
+    "https://www2.iuj.ac.jp/workingpapers/index.cfm?File=EMS_2026_18.pdf",
     "https://www.stat.go.jp/training/2kenkyu/pdf/ihou/66/kobayashi.pdf",
     "https://www.pmda.go.jp/int-activities/int-harmony/ich/0031.html",
-    "https://www.nishimura.com/ja/knowledge/publications?currentstatus=0&unselect_seminar_sponsor=0&page=289",
     "https://www.meti.go.jp/statistics/tyo/iip/riyou-4.pdf",
-    "https://www.jpm.jp/wp-content/uploads/2026/11/051123.pdf",
-    "https://www.soumu.go.jp/main_content/000949198.pdf"
+    "https://warp.ndl.go.jp/web/20210703201054/www.data.jma.go.jp/suishin/oshirase/pdf/20190318.pdf",
+    "https://researchmap.jp/akira_ishida/presentations/46033632/attachment_file.pdf",
+    "https://whitepaper-search.nistep.go.jp/white-paper/view/31761",
+    "https://www.soumu.go.jp/main_content/000656998.pdf"
    ],
    "engines": [
     "ddgs:google",
@@ -1217,22 +1212,22 @@
   {
    "query": "statistical revision policy guidelines error correction magnitude routine methodological revisions ESS handbook site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/kpmg-us_handbook-accounting-changes-and-error-corrections-activity-6967888679335817216-bLUg",
-    "https://www.linkedin.com/posts/kpmg-financial-reporting-view-frv-_handbook-accounting-changes-and-error-corrections-activity-7136466563502624768-lFkt",
-    "https://www.linkedin.com/posts/mariofreire_handbook-accounting-changes-and-error-corrections-activity-6968543198591774720-tut1",
     "https://www.linkedin.com/advice/3/your-statistical-methodology-faces-major-revision-demands-xorrc",
     "https://www.linkedin.com/advice/3/whats-your-strategy-handling-errors-statistical-analysis",
-    "https://www.linkedin.com/posts/ingo-zielhoff-8769955_handbook-accounting-changes-and-error-corrections-activity-7136488928366194689-7rlS",
-    "https://www.linkedin.com/posts/gustavo-marroquín-119b8b48_handbook-accounting-changes-and-error-corrections-activity-7136470889423855616-59S7"
+    "https://www.linkedin.com/posts/kpmg-financial-reporting-view-frv-_handbook-accounting-changes-and-error-corrections-activity-7136466563502624768-lFkt",
+    "https://www.linkedin.com/posts/mariofreire_handbook-accounting-changes-and-error-corrections-activity-6968543198591774720-tut1",
+    "https://www.linkedin.com/posts/gustavo-marroquín-119b8b48_handbook-accounting-changes-and-error-corrections-activity-7136470889423855616-59S7",
+    "https://www.linkedin.com/advice/0/how-do-you-incorporate-feedback-revisions-your-statistical",
+    "https://www.linkedin.com/posts/kpmg-us_handbook-accounting-changes-and-error-corrections-activity-6967888679335817216-bLUg"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 10,
+ "runs": 11,
  "first_researched_at": "2026-11-06T22:00:26.609353+00:00"
 }

@@ -1,0 +1,328 @@
+{
+ "name": "PERS-GROUP",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜送付済み",
+ "researched_at": "2026-11-10T21:30:22.249426+00:00",
+ "official_url": "https://www.pers-group.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "LLC PERS-GROUP: owners, founders, management, details (TIN ... — Oct 30, 2026 · Performing due diligence on LLC PERS-GROUP (TIN 9703198632) – all official data from the Unified State Register of Legal Entities and other sources to scrutinize the counterparty.",
+    "url": "https://www.readyratios.com/profile/1247700797960_ooo-pers-grupp",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.pers-group.com",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://persjapan.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.persjapan.co.jp/blank-2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pdf.directindustry.com/ja/pdf/pers-group-177783.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.persol-group.co.jp/corporate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://persjapan.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.persol-group.co.jp/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://persjapan.co.jp/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dnb.com/business-directory/company-profiles.pers_japan_co_ltd.c13b7dc589f1a755dbb53f5260ae18f7.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.customermfg.com/wpfiles/csbpi.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pergroup.com/case-studies/case-studies.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://insighto.ai/blog/white-label-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://linksman.io/seo-reseller-programs-guide-for-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.livechat.com/blog/best-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Naspers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.readyratios.com/profile/1247700797960_ooo-pers-grupp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/pers-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://perskemi.dk/en/about-pers-group/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "PERS-GROUP 日本 導入",
+   "results": [
+    "https://persjapan.co.jp/",
+    "https://recruit.persjapan.co.jp/blank-2",
+    "https://pdf.directindustry.com/ja/pdf/pers-group-177783.html",
+    "https://www.persol-group.co.jp/corporate/",
+    "https://persjapan.co.jp/business/",
+    "https://simblo.net/u/GUgCGs/post/980850",
+    "https://36kr.jp/502580/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "PERS-GROUP 代理店 OR 総代理店 OR 日本法人",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "PERS-GROUP Japan",
+   "results": [
+    "https://persjapan.co.jp/",
+    "https://www.persol-group.co.jp/en/",
+    "https://persjapan.co.jp/company/outline/",
+    "https://www.dnb.com/business-directory/company-profiles.pers_japan_co_ltd.c13b7dc589f1a755dbb53f5260ae18f7.html",
+    "https://www.bloomberg.com/profile/company/5861266Z:JP",
+    "https://perskemi.dk/en/about-pers-group/",
+    "https://www.persol-group.co.jp/en/news/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "PERS-GROUP manufacturing customer case study",
+   "results": [
+    "https://www.customermfg.com/wpfiles/csbpi.pdf",
+    "https://www.pergroup.com/case-studies/case-studies.html",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.palantir.com/docs/foundry/use-case-examples/optimizing-production-with-erp-data-across-the-supply-chain",
+    "https://nexergroup.com/services/industries-cases/manufacturing-case-studies/",
+    "https://public.dhe.ibm.com/software/data/sw-library/cognos/pdfs/casestudies/ss_bundle_customer_success_in_manufacturing.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "PERS-GROUP white label OR reseller OR partner program",
+   "results": [
+    "https://insighto.ai/blog/white-label-reseller-programs/",
+    "https://linksman.io/seo-reseller-programs-guide-for-agencies/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://partners.livechat.com/blog/best-reseller-programs/",
+    "https://www.learnworlds.com/blog/market-sell/white-label-courses-to-resell/",
+    "https://www.preferredpatron.com/reseller-loyalty-programs",
+    "https://www.seoreseller.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "PERS-GROUP founded funding employees revenue",
+   "results": [
+    "https://en.wikipedia.org/wiki/Naspers",
+    "https://www.readyratios.com/profile/1247700797960_ooo-pers-grupp",
+    "https://prospeo.io/c/pers-revenue",
+    "https://perskemi.dk/en/about-pers-group/",
+    "https://www.oregon.gov/pers/emp/Pages/Annual-reports.aspx",
+    "https://rocketreach.co/pers-group-profile_b406dfc7fc223352",
+    "https://www.linkedin.com/company/p-e-r-s"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com PERS-GROUP",
+   "results": [
+    "https://note.com/daimaookorin/n/n649443f77fb1?hl=en",
+    "https://note.com/legal_literacy/n/ne1cd1327cad2?hl=en",
+    "https://note.com/jofu_aoyama/n/naffec63c6640?hl=en",
+    "https://note.com/witty_abelia5263/n/n4cf78b020c28?hl=en",
+    "https://note.com/kamokita/n/nd6e124190042?hl=en",
+    "https://note.com/tn_world/n/naf1cc7daab8c?hl=en",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com PERS-GROUP",
+   "results": [
+    "https://x.com/Pers_GFX",
+    "https://x.com/PersonnelGroup",
+    "https://x.com/kineticpsnlgrp",
+    "https://x.com/PPG_NJ",
+    "https://x.com/JamesALight/status/1607411227545767938",
+    "https://x.com/ADanielHill/status/2118423781391864228",
+    "https://x.com/ajaltamimi"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com PERS-GROUP",
+   "results": [
+    "https://www.linkedin.com/company/persegroup",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7424368093432532992",
+    "https://dk.linkedin.com/in/torben-pers-39566027",
+    "https://dk.linkedin.com/in/muharrem-basaran-10a8987b",
+    "https://ca.linkedin.com/company/perseus-group-constellation-software-inc",
+    "https://www.linkedin.com/jobs/pers-group-jobs",
+    "https://www.linkedin.com/company/oregon-pers"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com PERS-GROUP",
+   "results": [
+    "https://www.facebook.com/ThePersonnelGroup/",
+    "https://www.facebook.com/groups/368130400397247/",
+    "https://business.facebook.com/groups/rnzafsickordeceased/",
+    "https://business.facebook.com/groups/354238978385800/",
+    "https://www.facebook.com/groups/2382791488568731/",
+    "https://www.facebook.com/PERS41/",
+    "https://www.facebook.com/pcgla/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "PERS-GROUP note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://ir.note.jp/message"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "PERS-GROUP X 投稿",
+   "results": [
+    "https://x.com/Persotyp",
+    "https://x.com/Nagisawara_pers",
+    "https://search.yahoo.co.jp/realtime/search/＃素人投稿/",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://help.x.com/ja/using-x/mentions-and-replies",
+    "https://myfans.jp/",
+    "https://dojin.dmm.co.jp/help/twitter"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）",
+  "採用・広告の製品": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索12回）"
+ }
+}

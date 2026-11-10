@@ -1,0 +1,614 @@
+{
+ "name": "英国溶接研究所",
+ "aliases": [],
+ "context": "PBF=unknown 装置= 出典=https://monoist.itmedia.co.jp/mn/articles/1411/14/news025.html",
+ "researched_at": "2026-11-10T20:53:55.688303+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {},
+ "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "TWI(The Welding Institute, 英国溶接研究所 ) 接合・表面処理 ... — TWI(The Welding Institute, 英国溶接研究所 ) 接合・表面処理 ... 富山県中小企業団体中央会 PDF https://www.chuokai-toyama.or.jp > chuokai > webfile",
+    "url": "https://www.chuokai-toyama.or.jp/chuokai/webfile/t1_0ada1f207e3f14b77d51b03971e733a9.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "英国溶接研究所 (TWI:The Welding Institute)は,破壊機構説(FM ... — 英国溶接研究所 (TWI:The Welding Institute)は,破壊機構説(FM ... J-Global https://jglobal.jst.go.jp > detail",
+    "url": "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902061524610508",
+    "pass": 3
+   }
+  ],
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "3D金属積層造形セミナー開催 実践に役立つ金属3Dプリンターの世界の最新動向と新鋭機によるデモ見学会｜新着情報｜愛知産業",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_140808_3D_seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター、MIG/MAG 溶接機、５軸 輸入販売",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_140808_3D_seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "3D金属積層造形セミナー開催",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_140808_3D_seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "実践に役立つ金属3Dプリンターの世界の最新動向と新鋭機によるデモ見学会（2014.08.08）",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_140808_3D_seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "より金属積層技術の専門家を招き、最新の研究成果と金属積層造形の将来の可能性についてごセミナーを開催します",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_140808_3D_seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "から3D金属積層造形技術におけるパウダー品質の重要性について、ドイツ",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_140808_3D_seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "このセミナーは、金属3D事業にすでにご経験者から今後導入を計画している未経験者まで広い範囲のエンドユーザ対象です",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_140808_3D_seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターデモ見学会：愛知産業本社デモルーム",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_140808_3D_seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "１．TWIに於ける3D金属積層造形技術研究の現状と将来の可能性",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_140808_3D_seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "TWIの研究活動の概要と上記テーマに即したLMD及びSLM技術の解説を行います",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_140808_3D_seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "２．3D金属積層造形技術でのパウダー技術の重要性",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_140808_3D_seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "３．SLM社製の3D金属積層造形技術とアプリケーション",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_140808_3D_seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "SLM社製造形機の特徴、操作性、多様なアプリケーション例、将来の生産に向けた拡張性、なぜSLM社製が選ばれているかなど解説します",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_140808_3D_seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "・SLM280型3D造形",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_140808_3D_seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "SLM社の3D金属積層造形システム、トルンプ社のLMDシステム、LPWテクノロジー社のパウダーおよび愛知産業の永年蓄積した金属接合技術を融合させた、",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_140808_3D_seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "3D金属積層造形ソリューション「アームス」",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_140808_3D_seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "英国内に加え全欧州のSLM研究活動の責任者",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_140808_3D_seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "3D金属積層造形における海外の動向",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_140808_3D_seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "第２回 3D金属積層造形セミナー開催｜新着情報｜愛知産業",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_150701_3D_seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター、MIG/MAG 溶接機、５軸 輸入販売",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_150701_3D_seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "第２回 3D金属積層造形セミナー開催",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_150701_3D_seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの生産システムとしての活用は、ここから始まった！",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_150701_3D_seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "3D金属積層造形ソリューション\"アームス\"",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_150701_3D_seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "3D金属積層造形セミナー",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_150701_3D_seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "GEアビオエアロ社 金属積層造形製造部門長 Mr Paolo Gennaro",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_150701_3D_seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、弊社が総販売代理店を務める、ドイツSLMソリューションズ社および英国LPWテクノロジー社の責任者が講演します",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_150701_3D_seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "SLMソリューションズ社 Mr Henner Schöneborn",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_150701_3D_seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "造形データ準備のデザインおよびエンジニアリングルール、SLM技術のために開発された金属材料の最新情報など",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_150701_3D_seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回のセミナーは、3D金属積層造形事業にすでに携わっている方々から、導入を計画し世界の動向を探りたいという方々まで、幅広い分野の方々が対象です",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_150701_3D_seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "「アーク溶接による金属積層造形の適用分野に対しての我々の挑戦」",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_150701_3D_seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "プロフィール：レーザ、ロボット、金属パウダーのコンサルタントとして活躍後、1993年にSLM社に加わり、金属造形システム開発の初期段階より関わり世界の金属造形技術に詳しい",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_150701_3D_seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "2014年より、SLMソリューショングループの取締役、副社長",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_150701_3D_seminar.html",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "（本社：東京都、資本金：8500万円、社長：井上博貴）は「",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_140808_3D_seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "（東京都、資本金：8500万円、社長：井上博貴）は「",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_150701_3D_seminar.html",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "世界の3Dプリンターを本格的に大規模生産システムとして活用し一躍有名になったGE傘下のイタリア航空部品メーカー、アビオエアロ社の製造販売責任者が、タービンブレード軽量化のためのチタンアルミナイドによる造形技術、今後の展開など、最新情報を本邦初公開致します",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_150701_3D_seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "アーク溶接による積層造形の最先端研究で著名な英国のクランフィールド大学から、航空宇宙産業他でチタン合金などを使用した大型積層造形研究の成果を発表致します",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_150701_3D_seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "アビオエアロ社にチタンアルミナナイド材料を供給し、リサイクルによる成分変化までを視野に入れた品質管理法やオリジナル粉末の利用が進む欧州市場での動向など",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_150701_3D_seminar.html",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "GE傘下 イタリアの航空部品メーカー、アビオエアロ社が初来日",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_150701_3D_seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界の3Dプリンターを本格的に大規模生産システムとして活用し一躍有名になったGE傘下のイタリア航空部品メーカー、アビオエアロ社の製造販売責任者が、タービンブレード軽量化のためのチタンアルミナイドによる造形技術、今後の展開など、最新情報を本邦初公開致します",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_150701_3D_seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "アーク溶接による積層造形の最先端研究で著名な英国のクランフィールド大学から、航空宇宙産業他でチタン合金などを使用した大型積層造形研究の成果を発表致します",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_150701_3D_seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "プロフィール：ミラノ工科大学で先進材料・プロセス研究の修士号を取得後、航空部品製造技術研究に従事し、後にGEグループの最初の金属積層による航空機・バイオ医療部品の製造を担うことになるプロトキャスト社を創業",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_150701_3D_seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "「試作開発から製造システムへ・金属積層技術の最新動向」",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_150701_3D_seminar.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://akahoshi.co.jp/weldingtechnology/twi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.twijapan.jp/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dengenshatoa.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_140808_3D_seminar.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Byfy7tsLawE",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=zaHJcuyCXLg",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_150701_3D_seminar.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://akahoshi.co.jp/weldingtechnology/twi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.twijapan.jp/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chuokai-toyama.or.jp/chuokai/webfile/t1_0ada1f207e3f14b77d51b03971e733a9.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://akahoshi.co.jp/weldingtechnology/twi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.twijapan.jp/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902061524610508",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "英国溶接研究所",
+   "results": [
+    "https://www.twijapan.jp/about-us/",
+    "https://akahoshi.co.jp/weldingtechnology/twi.html",
+    "https://www.chuokai-toyama.or.jp/chuokai/webfile/t1_0ada1f207e3f14b77d51b03971e733a9.pdf",
+    "https://www.twi-global.com/",
+    "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902061524610508",
+    "https://www.marklines.com/ja/news/283322",
+    "https://www-it.jwes.or.jp/jwes_60th/jwes_60th_pdf/1_4.pdf",
+    "https://note.com/110yoshiyasu/n/n55e6fc101455",
+    "https://www.jsndi.jp/pdf/2105240516481.pdf",
+    "https://en.wikipedia.org/wiki/The_Welding_Institute"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "株式会社英国溶接研究所",
+   "results": [
+    "https://www.twijapan.jp/about-us/",
+    "https://akahoshi.co.jp/weldingtechnology/twi.html",
+    "https://www.chuokai-toyama.or.jp/chuokai/webfile/t1_0ada1f207e3f14b77d51b03971e733a9.pdf",
+    "https://www.twi-global.com/",
+    "https://www.snyg.jp/news/212/",
+    "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902110058897827",
+    "https://www.niro.or.jp/information/20260126/55520/",
+    "https://www.jsndi.jp/pdf/2105240516481.pdf",
+    "https://www.jwes.or.jp/",
+    "https://www.twijapan.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "英国溶接研究所 株式会社",
+   "results": [
+    "https://www.twijapan.jp/about-us/",
+    "https://akahoshi.co.jp/weldingtechnology/twi.html",
+    "https://www.chuokai-toyama.or.jp/chuokai/webfile/t1_0ada1f207e3f14b77d51b03971e733a9.pdf",
+    "https://www.twi-global.com/",
+    "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902061524610508",
+    "https://www.snyg.jp/news/212/",
+    "https://www.niro.or.jp/information/20260126/55520/",
+    "https://www.jsndi.jp/pdf/2105240516481.pdf",
+    "https://www-it.jwes.or.jp/jwes_60th/jwes_60th_pdf/1_4.pdf",
+    "https://www.twijapan.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "英国溶接研究所 会社概要 資本金 設立",
+   "results": [
+    "https://akahoshi.co.jp/weldingtechnology/twi.html",
+    "https://www.twijapan.jp/about-us/",
+    "https://www.dengenshatoa.co.jp/company/",
+    "https://www.weld.nipponsteel.com/company/outline.html",
+    "https://www.chuokai-toyama.or.jp/chuokai/webfile/t1_0ada1f207e3f14b77d51b03971e733a9.pdf",
+    "https://www.jkw.co.jp/about/",
+    "http://w-d-k.co.jp/company/index.html",
+    "https://www.tokinarc.co.jp/about/02_index.html",
+    "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902061524610508",
+    "https://en.wikipedia.org/wiki/The_Welding_Institute"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "英国溶接研究所 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.aichi-sangyo.co.jp/inquiry/news/news_140808_3D_seminar.html",
+    "https://www.youtube.com/watch?v=Byfy7tsLawE",
+    "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "https://www.reddit.com/r/AdditiveManufacturing/comments/1h3sd2z/can_you_weld_metal_3d_printed_parts/?tl=ja",
+    "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "https://www.cadjapan.com/case/3d_printer/kuroki.html",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://www.tokushuko.or.jp/publication/magazine/pdf/2023/magazine2305.pdf",
+    "https://www.mitsubishielectric.co.jp/fa/products/mecha/am/pr/zoukei/index.html",
+    "https://madehere.co.jp/news/welding-news-am-metal-3dprinter"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "英国溶接研究所 金属積層造形 設備",
+   "results": [
+    "https://www.youtube.com/watch?v=zaHJcuyCXLg",
+    "https://www.aichi-sangyo.co.jp/inquiry/news/news_150701_3D_seminar.html",
+    "https://jampt.jp/",
+    "https://www-it.jwes.or.jp/we-com/bn/vol_39/sec_2/2-3.pdf",
+    "https://www.fitc.pref.fukuoka.jp/facility/setsubi/dep-list/meri/kinzoku-sekisou-zoukei.php",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://www.kinzoku.co.jp/",
+    "https://innovative-space-carrier.co.jp/news/20240730",
+    "https://global.honda/jp/tech/serial/Hondas_RandD_Facilities_part08/",
+    "https://mitsu-ri.net/articles/metal-laminated-modeling"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "英国溶接研究所 株主 出資 親会社",
+   "results": [
+    "https://akahoshi.co.jp/weldingtechnology/twi.html",
+    "https://www.twijapan.jp/about-us/",
+    "https://www.chuokai-toyama.or.jp/chuokai/webfile/t1_0ada1f207e3f14b77d51b03971e733a9.pdf",
+    "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902061524610508",
+    "https://www-it.jwes.or.jp/jwes_60th/jwes_60th_pdf/1_4.pdf",
+    "https://www.jsndi.jp/pdf/2304060611465.pdf",
+    "https://www.reuters.com/jp/markets/global-markets/U6CAQIBH4BP2XL3NDBGKJDE7MI-2021-12-14/",
+    "https://www.ms-ad-hd.com/ja/news/irnews/auto_20181219451954.html",
+    "https://www.nipponsteel.com/factbook/2023/07-02.html",
+    "https://en.wikipedia.org/wiki/The_Welding_Institute"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "英国溶接研究所 売上高 従業員数",
+   "results": [
+    "https://akahoshi.co.jp/weldingtechnology/twi.html",
+    "https://www.twijapan.jp/about-us/",
+    "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902061524610508",
+    "https://www-it.jwes.or.jp/jwes_60th/jwes_60th_pdf/1_4.pdf",
+    "https://www.twi-global.com/",
+    "https://www.jsndi.jp/pdf/2304060611465.pdf",
+    "https://robo-ken.jp/media/data/uk-ons-robotics-adoption-2023/",
+    "https://www.jetro.go.jp/ext_images/_Reports/01/d3f2976d447afe11/20150169.pdf",
+    "https://neis-co.com/pages/44/",
+    "https://en.wikipedia.org/wiki/The_Welding_Institute"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 英国溶接研究所",
+   "results": [
+    "https://note.com/110yoshiyasu/n/n55e6fc101455",
+    "https://note.com/3n7no_tech_pr/n/n439a6994405f",
+    "https://note.com/3n7no_tech_pr/n/n4ce043b65fd4",
+    "https://note.com/hensyuosuke/n/nacb84b37a2ee",
+    "https://note.com/nose5017/n/n82c9676bfe92",
+    "https://note.com/hikaru_96_1104/n/n776b2681a871",
+    "https://note.com/kagawatomo/n/n25d015846a4d",
+    "https://note.com/kyushu_catalyst/n/nf66757ce2aa0",
+    "https://note.com/real_owl7025/n/n42fb98e950f3",
+    "https://note.com/110yoshiyasu/m/m683a0767a969/archive/2024-09"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com 英国溶接研究所",
+   "results": [
+    "https://x.com/nedo_info/status/2112085108413153738",
+    "https://x.com/JAEA_japan/status/1925856801179742674",
+    "https://x.com/omu_shibaken/status/2008742890261111070",
+    "https://x.com/omu_shibaken/status/1702400859668394459",
+    "https://x.com/nedo_info/status/2023887842813133089",
+    "https://x.com/kohei_ADCD/highlights",
+    "https://x.com/omu_shibaken/status/2000045581939429707",
+    "https://x.com/tabilabo_news",
+    "https://x.com/MetalTechJapan",
+    "https://x.com/mstwelding?lang=ar"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com 英国溶接研究所",
+   "results": [
+    "https://www.linkedin.com/pulse/%E6%BA%B6%E6%8E%A5%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E3%83%9F%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E7%89%A9%E7%90%86%E7%8F%BE%E8%B1%A1%E3%82%92%E5%85%8B%E6%9C%8D%E3%81%97%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E6%9C%9F%E5%BE%85%E3%82%92%E8%B6%85%E3%81%88%E3%82%8B-panasonic-connect-bd7rf",
+    "https://jp.linkedin.com/in/kazuki-kasano",
+    "https://jp.linkedin.com/pulse/terotechnology-industrial-innovation-from-british-luc-laurin-m-eng--04ghe?tl=ja",
+    "https://www.linkedin.com/jobs/mitsubishi-heavy-industries-jobs-worldwide",
+    "https://jp.linkedin.com/pulse/%E6%BA%B6%E6%8E%A5%E3%83%92%E3%83%A5%E3%83%BC%E3%83%A0%E7%B2%89%E5%A1%B5%E6%8A%BD%E5%87%BA%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E5%88%A5%E3%82%B7%E3%82%A7%E3%82%A2%E3%81%A8%E5%8B%95%E5%90%91-reflector-rule-6mpze",
+    "https://jp.linkedin.com/pulse/%E8%87%AA%E5%8B%95%E6%BB%85%E8%8F%8C%E3%83%81%E3%83%A5%E3%83%BC%E3%83%96%E6%BA%B6%E6%8E%A5%E6%A9%9F%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8C%85%E6%8B%AC%E7%9A%84%E8%AA%BF%E6%9F%BB%E4%BA%88%E6%B8%AC%E6%88%90%E9%95%B7asp%E3%81%8A%E3%82%88%E3%81%B3108%E3%81%AEcagr20262033-logiclayer-research-ymkle",
+    "https://jp.linkedin.com/pulse/%E3%82%A2%E3%83%BC%E3%82%AF%E6%BA%B6%E6%8E%A5%E7%99%BA%E9%9B%BB%E6%A9%9F%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1-2026%E5%B9%B4-2033%E5%B9%B4%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%8745%E6%88%90%E9%95%B7%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90%E3%83%BC%E5%8F%8E%E7%9B%8A%E6%A5%AD%E7%95%8C%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E9%9C%80%E7%B5%A6%E7%8A%B6%E6%B3%81%E3%81%AB%E7%84%A6%E7%82%B9%E3%82%92%E5%BD%93%E3%81%A6%E3%82%8B-h8rpe",
+    "https://www.linkedin.com/jobs/fraunhofer-heinrich-hertz-institute-hhi-jobs-worldwide",
+    "https://jp.linkedin.com/in/yasushi-matsuda-9a5b67104",
+    "https://uk.linkedin.com/in/john-hammond-b6801632"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com 英国溶接研究所",
+   "results": [
+    "https://www.facebook.com/tomomi.sayuda/posts/%E8%8B%B1%E5%9B%BD%E6%B0%B8%E4%BD%8F%E6%A8%A9%E4%BF%9D%E6%8C%81%E8%80%85%E6%8A%BC%E5%8D%B0%E3%81%AB%E5%AF%BE%E3%81%97%E3%81%A6%E3%81%AE%E6%8E%AA%E7%BD%AE%E3%81%8C%E5%A4%89%E3%82%8F%E3%81%A3%E3%81%9F%E3%82%89%E3%81%97%E3%81%8Feta%E3%81%A8%E3%81%84%E3%81%86short-stay%E3%81%AEesta%E3%81%8C%E3%81%AA%E3%81%8F%E3%81%A6%E3%82%82evisa%E3%81%AB%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E3%81%AA%E3%81%8F%E3%81%A6%E3%82%82%E6%9C%89%E5%8A%B9%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E3%82%89%E3%81%97%E3%81%84%E6%95%B0%E3%83%B6%E6%9C%88%E5%89%8D%E3%81%AE%E6%8E%AA/10171369668135495/",
+    "https://www.facebook.com/tomomi.sayuda/posts/i-had-a-great-days-in-the-uk-thanks-for-everyone-who-shared-the-time-with-me-now/10171744510530495/",
+    "https://www.facebook.com/LiberalArtsLab.DarwinRoom/photos/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B-%E7%AC%AC%EF%BC%95%E5%9B%9E-%E7%94%9F%E5%91%BD%E3%82%92%E6%8D%89%E3%81%88%E3%81%AA%E3%81%8A%E3%81%99%E7%A0%94%E7%A9%B6%E4%BC%9A%E9%96%8B%E5%82%AC%E7%AC%AC%EF%BC%95%E5%9B%9E%E7%94%9F%E5%91%BD%E3%82%92%E6%8D%89%E3%81%88%E3%81%AA%E3%81%8A%E3%81%99%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%81%AE%E3%82%B2%E3%82%B9%E3%83%88%E3%81%AB%E3%81%8A%E8%BF%8E%E3%81%88%E3%81%99%E3%82%8B%E5%A0%B4%E3%81%AE%E7%A0%94%E7%A9%B6%E6%89%80%E7%90%86%E4%BA%8B%E3%81%AE%E5%89%8D%E5%B7%9D%E6%B3%B0%E4%B9%85%E3%81%95%E3%82%93%E3%81%AF%E6%9C%AC%E7%94%B0%E6%8A%80%E7%A0%94%E5%B7%A5%E6%A5%AD%E3%81%AB%E3%81%A6%E6%B8%85%E6%B0%B4%E5%8D%9A%E5%85%88%E7%94%9F%E3%81%A8%E5%A0%B4%E3%81%A8%E5%85%B1%E5%89%B5%E3%81%AE/1240349736031741/",
+    "https://www.facebook.com/kobaeico/videos/%E3%81%93%E3%83%BC%E3%81%B0%E3%81%B8%E8%A1%8C%E3%81%93%E3%81%862026-%E9%96%8B%E5%82%AC%E4%BC%81%E6%A5%AD%E8%87%AA%E7%A4%BE%E7%B4%B9%E4%BB%8B-%E9%AB%98%E4%BA%95%E7%94%B023%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AA%E3%82%AB%E3%83%A0%E3%83%A9%E9%96%A2%E8%A5%BF%E4%BA%8B%E6%A5%AD%E6%89%80%E3%82%B3%E3%83%BC%E3%83%90%E3%83%8E%E3%82%AA%E3%83%88%E3%81%AF%E3%82%AC%E3%82%B7%E3%83%A3%E3%83%B3%E3%82%AC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%90%E3%83%81%E3%83%90%E3%83%81%E3%83%83%E3%82%B8%E3%82%B8%E3%82%B8%E3%81%A7%E3%81%99%E8%87%AA%E7%A4%BE%E5%88%B6%E4%BD%9C%E3%81%97%E3%81%9F%E6%A9%9F%E6%A2%B0%E3%82%84%E3%81%9D%E3%81%AE%E4%BB%96%E3%81%AE%E6%A9%9F%E6%A2%B0%E3%82%92/1599797541879878/",
+    "https://www.facebook.com/toyoknife210802/posts/%E4%BB%8A%E5%B9%B4%E6%9D%B1%E6%B4%8B%E5%88%83%E7%89%A9%E3%81%AF%E5%89%B5%E7%AB%8B100%E5%91%A8%E5%B9%B4%E3%82%92%E8%BF%8E%E3%81%88%E3%81%BE%E3%81%99100%E5%B9%B4%E3%81%AE%E9%96%93%E3%81%AB%E6%A7%98%E3%80%85%E3%81%AA%E8%A3%BD%E5%93%81%E3%81%8C%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E4%BB%8A%E5%9B%9E%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%99%E3%82%8B%E3%83%94%E3%83%83%E3%82%B1%E3%83%AB%E3%81%AE%E3%81%8A%E8%A9%B1%E3%82%82%E3%81%9D%E3%81%AE1%E3%81%A4%E3%81%A7%E3%81%99%E5%B7%A5%E6%A5%AD%E7%94%A8%E9%80%94%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84%E6%9D%B1%E6%B4%8B%E5%88%83%E7%89%A9%E3%81%AE%E4%B8%80%E9%9D%A2%E3%82%92%E3%81%94/785048663854214/",
+    "https://www.facebook.com/omu.shibaken/",
+    "https://www.facebook.com/tomomi.sayuda/posts/arrived-in-london-i-will-be-here-till-11th-let-me-know-if-you-are-around-%E3%83%AD%E3%83%B3%E3%83%89%E3%83%B3%E3%81%AB1%E5%B9%B4/10171663314910495/",
+    "https://www.facebook.com/SPACEAGENT/",
+    "https://www.facebook.com/JMSDF.PAO.fp/posts/-%E6%B5%B7%E8%87%AA%E3%81%AE%E3%83%81%E3%83%A7%E3%83%83%E3%81%A8-%E5%BF%9C%E6%80%A5%E5%B7%A5%E4%BD%9C-%E4%BD%95%E3%81%A7%E3%82%82%E4%BD%9C%E3%82%8B-%E3%81%BE%E3%81%8B%E3%81%9B%E3%81%A6/1559622522867731/",
+    "https://www.facebook.com/100090301681192/videos/1126975240293173/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "英国溶接研究所 note 社長",
+   "results": [
+    "https://note.com/nhillz_laser/n/n92ea4eeeb47e",
+    "https://note.com/110yoshiyasu/n/n55e6fc101455",
+    "https://note.com/tag/%E6%BA%B6%E6%8E%A5",
+    "https://akahoshi.co.jp/weldingtechnology/twi.html",
+    "https://www.twijapan.jp/about-us/",
+    "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902061524610508",
+    "https://www.chuokai-toyama.or.jp/chuokai/webfile/t1_0ada1f207e3f14b77d51b03971e733a9.pdf",
+    "https://www.niro.or.jp/information/20260126/55520/",
+    "https://cir.nii.ac.jp/crid/1523106605464713472?lang=en",
+    "https://baike.baidu.com/ja/item/シー・ゴンチー/6025190"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "英国溶接研究所 X 投稿",
+   "results": [
+    "https://www.chuokai-toyama.or.jp/chuokai/webfile/t1_0ada1f207e3f14b77d51b03971e733a9.pdf",
+    "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902061524610508",
+    "https://www.twijapan.jp/about-us/",
+    "https://x.com/jwes5823",
+    "https://jweld.jp/collection/guidelines/",
+    "https://www.niro.or.jp/information/20230330/38141/",
+    "https://www.jsndi.jp/pdf/2105240516481.pdf",
+    "https://www.twi-global.com/",
+    "https://www.youtube.com/watch?v=LvzTw16O-4g",
+    "https://www.theweldinginstitute.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "資本金": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "創業年度": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "従業員数": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "所在地": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "保有設備": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）"
+ }
+}

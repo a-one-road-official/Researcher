@@ -1,0 +1,386 @@
+{
+ "name": "株式会社PDF",
+ "aliases": [],
+ "context": "PBF=unknown 装置= 出典=https://www.k-neturen.co.jp/ja/ir/news/auto_20240603519231/pdfFile.pdf",
+ "researched_at": "2026-11-10T20:35:58.777623+00:00",
+ "official_url": "https://www.ilovepdf.com/",
+ "identified_by": "search:ddgs:bing:PDF",
+ "profile": {},
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "The development of PDF began in 1991 when",
+    "url": "https://en.wikipedia.org/wiki/PDF",
+    "pass": 3
+   },
+   {
+    "quote": "code base. There are also commercial development libraries available as listed in",
+    "url": "https://en.wikipedia.org/wiki/PDF",
+    "pass": 3
+   },
+   {
+    "quote": "Open Source Development Labs",
+    "url": "https://en.wikipedia.org/wiki/PDF",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "PDF - Wikipedia — PDF/UA, the International Standard for accessible PDF based on ISO 32000-1 was first published as ISO 14289–1 in 2012 and establishes normative language for accessible PDF technology.",
+    "url": "https://en.wikipedia.org/wiki/PDF",
+    "pass": 3
+   },
+   {
+    "quote": "Download Adobe Acrobat Reader: Free PDF viewer — Download free Adobe Acrobat Reader software for your Windows, Mac OS and Android devices to view, print, and comment on PDF documents.",
+    "url": "https://get.adobe.com/reader/",
+    "pass": 3
+   },
+   {
+    "quote": "What is a PDF? Portable Document Format | Adobe Acrobat — PDF is an abbreviation that stands for Portable Document Format. It's a versatile file format created by Adobe that gives people an easy, reliable way to present and exchange documents — regardless of the software, hardware, or operating systems being used by anyone who views them.",
+    "url": "https://www.adobe.com/acrobat/about-adobe-pdf.html",
+    "pass": 3
+   },
+   {
+    "quote": "iLovePDF | Online PDF tools for PDF lovers — iLovePDF is an online service to work with PDF files completely free and easy to use. Merge PDF, split PDF, compress PDF, office to PDF, PDF to JPG and more!",
+    "url": "https://www.ilovepdf.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Adobe Acrobat | Login, Create, Edit and more PDF tools — JavaScript is required to run Acrobat online services Tools Edit Convert E-Sign PDF Download Start free trial Sign in -- -- Edit Edit in Word Edit in Excel Edit in PowerPoint Convert Compress All Tools Save a copy Download",
+    "url": "https://acrobat.adobe.com/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ilovepdf.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://en.wikipedia.org/wiki/PDF",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://get.adobe.com/reader/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.adobe.com/acrobat/about-adobe-pdf.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/PDF",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://get.adobe.com/reader/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.adobe.com/acrobat/about-adobe-pdf.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/PDF",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://get.adobe.com/reader/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.adobe.com/acrobat/about-adobe-pdf.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/PDF",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://get.adobe.com/reader/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.adobe.com/acrobat/about-adobe-pdf.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/PDF",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://get.adobe.com/reader/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.adobe.com/acrobat/about-adobe-pdf.html",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "PDF",
+   "results": [
+    "https://ja.wikipedia.org/wiki/PDF",
+    "https://grokipedia.com/page/PDF",
+    "https://en.wikipedia.org/wiki/PDF",
+    "https://get.adobe.com/reader/",
+    "https://www.adobe.com/acrobat/about-adobe-pdf.html",
+    "https://www.ilovepdf.com/",
+    "https://acrobat.adobe.com/",
+    "https://pdfpro.com/",
+    "https://www.adobe.com/acrobat/pdf-reader.html",
+    "https://www.ilovepdf.com/edit-pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "PDF 会社概要 資本金 設立",
+   "results": [
+    "https://en.wikipedia.org/wiki/PDF",
+    "https://get.adobe.com/reader/",
+    "https://www.adobe.com/acrobat/about-adobe-pdf.html",
+    "https://www.ilovepdf.com/",
+    "https://acrobat.adobe.com/",
+    "https://pdfpro.com/",
+    "https://www.adobe.com/acrobat/pdf-reader.html",
+    "https://www.ilovepdf.com/edit-pdf",
+    "https://smallpdf.com/pdf-converter",
+    "https://www.freepdfconvert.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "PDF 金属3Dプリンタ 導入",
+   "results": [
+    "https://en.wikipedia.org/wiki/PDF",
+    "https://get.adobe.com/reader/",
+    "https://www.adobe.com/acrobat/about-adobe-pdf.html",
+    "https://www.ilovepdf.com/",
+    "https://acrobat.adobe.com/",
+    "https://pdfpro.com/",
+    "https://www.adobe.com/acrobat/pdf-reader.html",
+    "https://www.ilovepdf.com/edit-pdf",
+    "https://smallpdf.com/pdf-converter",
+    "https://www.freepdfconvert.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "PDF 金属積層造形 設備",
+   "results": [
+    "https://en.wikipedia.org/wiki/PDF",
+    "https://get.adobe.com/reader/",
+    "https://www.adobe.com/acrobat/about-adobe-pdf.html",
+    "https://www.ilovepdf.com/",
+    "https://acrobat.adobe.com/",
+    "https://pdfpro.com/",
+    "https://www.adobe.com/acrobat/pdf-reader.html",
+    "https://www.ilovepdf.com/edit-pdf",
+    "https://smallpdf.com/pdf-converter",
+    "https://www.freepdfconvert.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "PDF 株主 出資 親会社",
+   "results": [
+    "https://en.wikipedia.org/wiki/PDF",
+    "https://get.adobe.com/reader/",
+    "https://www.adobe.com/acrobat/about-adobe-pdf.html",
+    "https://www.ilovepdf.com/",
+    "https://acrobat.adobe.com/",
+    "https://pdfpro.com/",
+    "https://www.adobe.com/acrobat/pdf-reader.html",
+    "https://www.ilovepdf.com/edit-pdf",
+    "https://smallpdf.com/pdf-converter",
+    "https://www.freepdfconvert.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "PDF 売上高 従業員数",
+   "results": [
+    "https://en.wikipedia.org/wiki/PDF",
+    "https://get.adobe.com/reader/",
+    "https://www.adobe.com/acrobat/about-adobe-pdf.html",
+    "https://www.ilovepdf.com/",
+    "https://acrobat.adobe.com/",
+    "https://pdfpro.com/",
+    "https://www.adobe.com/acrobat/pdf-reader.html",
+    "https://www.ilovepdf.com/edit-pdf",
+    "https://smallpdf.com/pdf-converter",
+    "https://www.freepdfconvert.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:note.com PDF",
+   "results": [
+    "https://en.wikipedia.org/wiki/PDF",
+    "https://get.adobe.com/reader/",
+    "https://www.adobe.com/acrobat/about-adobe-pdf.html",
+    "https://www.ilovepdf.com/",
+    "https://acrobat.adobe.com/",
+    "https://pdfpro.com/",
+    "https://www.adobe.com/acrobat/pdf-reader.html",
+    "https://www.ilovepdf.com/edit-pdf",
+    "https://smallpdf.com/pdf-converter",
+    "https://www.freepdfconvert.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:x.com PDF",
+   "results": [
+    "https://en.wikipedia.org/wiki/PDF",
+    "https://get.adobe.com/reader/",
+    "https://www.adobe.com/acrobat/about-adobe-pdf.html",
+    "https://www.ilovepdf.com/",
+    "https://acrobat.adobe.com/",
+    "https://pdfpro.com/",
+    "https://www.adobe.com/acrobat/pdf-reader.html",
+    "https://www.ilovepdf.com/edit-pdf",
+    "https://smallpdf.com/pdf-converter",
+    "https://www.freepdfconvert.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com PDF",
+   "results": [
+    "https://en.wikipedia.org/wiki/PDF",
+    "https://get.adobe.com/reader/",
+    "https://www.adobe.com/acrobat/about-adobe-pdf.html",
+    "https://www.ilovepdf.com/",
+    "https://acrobat.adobe.com/",
+    "https://pdfpro.com/",
+    "https://www.adobe.com/acrobat/pdf-reader.html",
+    "https://www.ilovepdf.com/edit-pdf",
+    "https://smallpdf.com/pdf-converter",
+    "https://www.freepdfconvert.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:facebook.com PDF",
+   "results": [
+    "https://en.wikipedia.org/wiki/PDF",
+    "https://get.adobe.com/reader/",
+    "https://www.adobe.com/acrobat/about-adobe-pdf.html",
+    "https://www.ilovepdf.com/",
+    "https://acrobat.adobe.com/",
+    "https://pdfpro.com/",
+    "https://www.adobe.com/acrobat/pdf-reader.html",
+    "https://www.ilovepdf.com/edit-pdf",
+    "https://smallpdf.com/pdf-converter",
+    "https://www.freepdfconvert.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "PDF note 社長",
+   "results": [
+    "https://en.wikipedia.org/wiki/PDF",
+    "https://get.adobe.com/reader/",
+    "https://www.adobe.com/acrobat/about-adobe-pdf.html",
+    "https://www.ilovepdf.com/",
+    "https://acrobat.adobe.com/",
+    "https://pdfpro.com/",
+    "https://www.adobe.com/acrobat/pdf-reader.html",
+    "https://www.ilovepdf.com/edit-pdf",
+    "https://smallpdf.com/pdf-converter",
+    "https://www.freepdfconvert.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "PDF X 投稿",
+   "results": [
+    "https://ja.wikipedia.org/wiki/PDF-XChange",
+    "https://en.wikipedia.org/wiki/PDF",
+    "https://get.adobe.com/reader/",
+    "https://www.adobe.com/acrobat/about-adobe-pdf.html",
+    "https://www.ilovepdf.com/",
+    "https://acrobat.adobe.com/",
+    "https://pdfpro.com/",
+    "https://www.adobe.com/acrobat/pdf-reader.html",
+    "https://www.ilovepdf.com/edit-pdf",
+    "https://smallpdf.com/pdf-converter"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部15頁・検索12回）",
+  "資本金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部15頁・検索12回）",
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部15頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部15頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部15頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部15頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部15頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部15頁・検索12回）",
+  "使っている金属粉（材質）": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部15頁・検索12回）",
+  "用途・客の産業": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部15頁・検索12回）",
+  "資本金・株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部15頁・検索12回）"
+ }
+}

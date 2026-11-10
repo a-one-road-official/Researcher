@@ -1,0 +1,381 @@
+{
+ "name": "Asociacion Centro Tecnologico Ceit",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜AI送信済み",
+ "researched_at": "2026-11-10T21:08:34.306238+00:00",
+ "official_url": "https://www.ceit.es",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Ir al contenido principal",
+    "url": "https://www.ceit.es/",
+    "pass": 1
+   },
+   {
+    "quote": "Vídeo pruebas portada",
+    "url": "https://www.ceit.es/",
+    "pass": 1
+   },
+   {
+    "quote": "Inspectrail y Battia, spin offs de Ceit, triunfan en los Premios Toribio Echevarria 2026",
+    "url": "https://www.ceit.es/",
+    "pass": 1
+   },
+   {
+    "quote": "Dos spin offs impulsadas por Ceit han obtenido los principales reconocimientos de los Premios Toribio Echevarria gracias a sus solucion",
+    "url": "https://www.ceit.es/",
+    "pass": 1
+   },
+   {
+    "quote": "Ceit impulsa el desarrollo de chips más fiables para aplicaciones críticas dentro del proyecto SoC4CRIS-II",
+    "url": "https://www.ceit.es/",
+    "pass": 1
+   },
+   {
+    "quote": "Estamos buscando personas como tú: innovadora, comprometida y enérgica para formar parte de un equipo internacional y multidisciplinar con una altísima capacidad tecnológica e investigadora.",
+    "url": "https://www.ceit.es/",
+    "pass": 1
+   },
+   {
+    "quote": "O solicita información sin compromiso rellenando nuestro formulario.",
+    "url": "https://www.ceit.es/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Sectores industriales",
+    "url": "https://www.ceit.es/",
+    "pass": 1
+   },
+   {
+    "quote": "Fabricación Industrial",
+    "url": "https://www.ceit.es/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Inspectrail y Battia, spin offs de Ceit, triunfan en los Premios Toribio Echevarria 2026",
+    "url": "https://www.ceit.es/",
+    "pass": 1
+   },
+   {
+    "quote": "Dos spin offs impulsadas por Ceit han obtenido los principales reconocimientos de los Premios Toribio Echevarria gracias a sus solucion",
+    "url": "https://www.ceit.es/",
+    "pass": 1
+   },
+   {
+    "quote": "Ceit impulsa el desarrollo de chips más fiables para aplicaciones críticas dentro del proyecto SoC4CRIS-II",
+    "url": "https://www.ceit.es/",
+    "pass": 1
+   },
+   {
+    "quote": "El centro tecnológico ha desarrollado mecanismos avanzados de tolerancia a fallos para arquitecturas RISC-V que podrán incorporarse a f",
+    "url": "https://www.ceit.es/",
+    "pass": 1
+   },
+   {
+    "quote": "Estamos buscando personas como tú: innovadora, comprometida y enérgica para formar parte de un equipo internacional y multidisciplinar con una altísima capacidad tecnológica e investigadora.",
+    "url": "https://www.ceit.es/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Asociacion Centro Tecnologico CEIT — Created in 1982 on the initiative of the University of Navarra, Ceit is a non-profit Technology Centre that uses its high specialisation in advanced manufacturing, mobility, sustainability and information technologies to develop industrial applied research projects in close collaboration with companies.Ceit combines its capabilities and technologies and brings ",
+    "url": "https://www.amdm.net/property/asociacion-centro-tecnologico-ceit.html",
+    "pass": 3
+   },
+   {
+    "quote": "ASOCIACION CENTRO TECNOLOGICO CEIT — Find company research, competitor information, contact details & financial data for ASOCIACION CENTRO TECNOLOGICO CEIT of DONOSTIA/SAN SEBASTIAN, Gipuzkoa. Get the latest business insights from Dun & Bradstreet.",
+    "url": "https://www.dnb.com/business-directory/company-profiles.asociacion_centro_tecnologico_ceit.2a9a864340c2bee1cb68d44e34d04eb0.html",
+    "pass": 3
+   },
+   {
+    "quote": "Asociacion Centro Tecnologico Ceit | Exhibitor Formnext 2026 — About us Ceit, a non-profit organization, is at the forefront of technological innovation, specializing in materials and advanced manufacturing. Leveraging its deep expertise in these areas, Ceit collaborates closely with industry partners to develop cutting-edge solutions that address pressing challenges in various sectors.",
+    "url": "https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/asociacion-centro-tecnologico-ceit.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ceit.es/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.earto.eu/member/ceit-asociacion-centro-tecnologico-ceit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://materplat.org/en/capacidades/asociacion-centro-tecnologico-ceit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earto.eu/member/ceit-asociacion-centro-tecnologico-ceit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://portalcientifico.unav.edu/unidades/22108/detalle?lang=en_US",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amdm.net/property/asociacion-centro-tecnologico-ceit.html",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asseco-ceit.com/en/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.appsruntheworld.com/customers-database/customers/view/ceit-centro-tecnologico-spain",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://portalcientifico.unav.edu/unidades/22108/tesis?scope=defendidas",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reseller.amazon.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.earto.eu/member/ceit-asociacion-centro-tecnologico-ceit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rocketreach.co/ceit-profile_b5c6ca26f42e0cc9",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.euskadi.eus/gobierno-vasco/contenidos/asociacion/asg000281986/es_def/index.shtml",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fedit.com/en/2025/08/el-centro-tecnologico-ceit-cierra-2024-con-resultados-excepcionales-y-un-crecimiento-del-19/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Asociacion Centro Tecnologico Ceit 日本 導入",
+   "results": [
+    "https://www.ceit.es/",
+    "https://www.earto.eu/member/ceit-asociacion-centro-tecnologico-ceit/",
+    "https://www.ceit.es/acerca-de-ceit/alianzas-de-ceit",
+    "https://materplat.org/en/capacities/asociacion-centro-tecnologico-ceit/",
+    "https://www.jeita.or.jp/english/",
+    "https://dempa-digital.com/article/727359",
+    "https://www.ceatec.com/ja/exhibition/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Asociacion Centro Tecnologico Ceit 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.ceit.es/en/",
+    "https://www.earto.eu/member/ceit-asociacion-centro-tecnologico-ceit/",
+    "https://portalcientifico.unav.edu/unidades/22108/detalle?lang=en_US",
+    "https://www.amdm.net/property/asociacion-centro-tecnologico-ceit.html",
+    "https://www.dnb.com/business-directory/company-profiles.asociacion_centro_tecnologico_ceit.2a9a864340c2bee1cb68d44e34d04eb0.html",
+    "https://materplat.org/en/capacities/asociacion-centro-tecnologico-ceit/",
+    "https://www.euskadi.eus/gobierno-vasco/-/asociacion/asociacion-centro-tecnologico-ceit-ik4/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Asociacion Centro Tecnologico Ceit Japan",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Asociacion Centro Tecnologico Ceit manufacturing customer case study",
+   "results": [
+    "https://www.ceit.es/",
+    "https://www.asseco-ceit.com/en/case-studies/",
+    "https://www.appsruntheworld.com/customers-database/customers/view/ceit-centro-tecnologico-spain",
+    "https://portalcientifico.unav.edu/unidades/22108/tesis/defendidas",
+    "https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/asociacion-centro-tecnologico-ceit.html",
+    "https://www.asseco-ceit.com/en/case-studies/digital-twin-for-continuous-production-improvement/",
+    "https://cetpartnership.eu/projects/entropy-stabilized-metal-hydrides-for-hydrogen-compression/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Asociacion Centro Tecnologico Ceit white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://reseller.amazon.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.nmi.com/blog/understanding-the-reseller-model-a-complete-guide-for-payments-companies/",
+    "https://www.daniel-one.com/create-reseller-channel-partner-program"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Asociacion Centro Tecnologico Ceit founded funding employees revenue",
+   "results": [
+    "https://www.earto.eu/member/ceit-asociacion-centro-tecnologico-ceit/",
+    "https://rocketreach.co/ceit-profile_b5c6ca26f42e0cc9",
+    "https://www.euskadi.eus/gobierno-vasco/contenidos/asociacion/asg000281986/es_def/index.shtml",
+    "https://fedit.com/en/2025/08/el-centro-tecnologico-ceit-cierra-2024-con-resultados-excepcionales-y-un-crecimiento-del-19/",
+    "https://rocketreach.co/ceit-research-center-profile_b5c6ca26f42e0cc9",
+    "https://www.zoominfo.com/c/ceit/357081663",
+    "https://bidsfactory.com/en/companies/asociacion-centro-tecnologico-ceit"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Asociacion Centro Tecnologico Ceit",
+   "results": [
+    "https://note.com/eager_tiger5557",
+    "https://note.com/tag/バックルームズ",
+    "https://note.com/tag/ポリティカルパン",
+    "https://note.com/tag/パスタレシピ",
+    "https://note.com/s4lv24/n/nf77f6f579cc7",
+    "https://note.com/yukari_neko2/n/n62529844c17a",
+    "https://note.com/merumeru1975/n/n1627f5a0fe45"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Asociacion Centro Tecnologico Ceit",
+   "results": [
+    "https://x.com/ceit_brta",
+    "https://x.com/CEITMX",
+    "https://x.com/ceit_pucmm",
+    "https://x.com/CEIT_USB",
+    "https://x.com/CEIT_Posgrados",
+    "https://x.com/CeitFra",
+    "https://x.com/ceit_utn"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Asociacion Centro Tecnologico Ceit",
+   "results": [
+    "https://es.linkedin.com/company/ceitresearchcentre",
+    "https://es.linkedin.com/in/sara-solozábal-6b843b17",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7115966973741576192/?origin=SHARED_BY_YOUR_PAGES",
+    "https://es.linkedin.com/in/maria-arrue-huarte-13a22458",
+    "https://es.linkedin.com/posts/ceitresearchcentre_ceit-activity-7420421211647528960-qC-b",
+    "https://es.linkedin.com/posts/ceitresearchcentre_home-activity-7192110883186081792-S3iU",
+    "https://www.linkedin.com/posts/activity-7469656299144814592-tvNx"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Asociacion Centro Tecnologico Ceit",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Asociacion Centro Tecnologico Ceit note 社長",
+   "results": [
+    "https://www.empresia.es/persona/asociacion-centro-tecnologico-ceit/",
+    "https://www.ceit.es/",
+    "https://bidsfactory.com/en/companies/asociacion-centro-tecnologico-ceit",
+    "https://www.ceit.es/aviso-legal",
+    "https://fedit.com/en/2025/08/el-centro-tecnologico-ceit-cierra-2024-con-resultados-excepcionales-y-un-crecimiento-del-19/",
+    "https://www.datoscif.es/directivo/asociacion-centro-tecnologico-ceit",
+    "https://www.euskadi.eus/gobierno-vasco/-/asociacion/asociacion-centro-tecnologico-ceit-ik4/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Asociacion Centro Tecnologico Ceit X 投稿",
+   "results": [
+    "https://www.ceit.es/",
+    "https://x.com/ceit_brta",
+    "https://www.ceit.es/acerca-de-ceit/perfil-centro",
+    "https://www.earto.eu/member/ceit-asociacion-centro-tecnologico-ceit/",
+    "https://portalcientifico.unav.edu/unidades/22108/detalle?lang=en_US",
+    "https://materplat.org/en/capacities/asociacion-centro-tecnologico-ceit/",
+    "https://www.euskadi.eus/gobierno-vasco/-/asociacion/asociacion-centro-tecnologico-ceit-ik4/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部16頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部16頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部16頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部16頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部16頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部16頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部16頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部16頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部16頁・検索12回）"
+ }
+}

@@ -1,4 +1,4 @@
-# 日本の金属AM（PBF）装置の保有者（会社・研究機関）— 保有装置・方式・台数・資本金・創業年度・株主構成（事実のみ・139社）
+# 日本の金属AM（PBF）装置の保有者（会社・研究機関）— 保有装置・方式・台数・資本金・創業年度・株主構成（事実のみ・169社）
 
 ## A2X株式会社
 - 公式URL：https://www.a2xaccounting.com/（search:yahoo_jp:A2X）
@@ -136,6 +136,153 @@
 - 用途・客の産業：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索18回）
 - 資本金・株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索18回）
 
+## JFEエンジニアリング株式会社
+- 公式URL：https://www.jfe-eng.co.jp/（search:yahoo_jp:JFEエンジニアリング）
+- 事業内容：主要製品等 ガス・石油・水道パイプライン、LNG・LPG等各種タンク、太陽光・地熱・バイオマス等再生可能エネルギー発電設備、都市ごみ焼却炉、水処理システム、使用済みプラスチック等のリサイクルサービス、橋梁・港湾構造物、物流流通システム・エンジン・シールド掘進機・バラスト水処理システム等の産業機械、製銑・製鋼・ミニミル関連設備、EV（電気自動車）急速充電器等（https://www.jfe-eng.co.jp/information/company.html・1回目）
+- 事業内容：「次の社会」をよりよいものにするため、 くらしの礎（もと）を創り、担い、つなぐ仕事。 当社の最大の特徴は、幅広い分野で技術を保有する 「総合エンジニアリング会社」であることです。 その事業範囲は、大規模なプラント・社会インフラのEPC（設計／調達／建設）にとどまらず、技術開発、製造、現地施工、O＆M事業、事業投資および海外のインフラ整備にも拡大しています。 ＜主な事業分野＞ ◆環境分野 環境プラント、プラスチックまたは産業廃棄物等のリサイクル　など ◆エネルギー分野 パイプライン、LNG受入基地　など ◆鋼構造分野 橋梁、ケーソン、ジャケット など ◆機械・システム分野 クレーン、エンジン、蒸気タービン など ◆新電力事業分野 再生可能エネルギーを中心とした電力小売り事業 など ◆新規事業分野 洋上風力発電、太陽光、蓄電池事業 など くらしの礎を創り、担い、つなぐ。（https://job.mynavi.jp/28/pc/search/corp34/outline.html・3回目）
+- 事業内容：プラントエンジニアリング（https://ja.wikipedia.org/wiki/JFE%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0・3回目）
+- 資本金：100億円（https://www.jfe-eng.co.jp/information/company.html・1回目）
+- 資本金：100億円（https://job.mynavi.jp/28/pc/search/corp34/outline.html・3回目）
+- 資本金：100億円（https://ja.wikipedia.org/wiki/JFE%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0・3回目）
+- 創業年度：設立：2003年4月1日（https://www.jfe-eng.co.jp/information/company.html・1回目）
+- 創業年度：設立：2003年4月（https://job.mynavi.jp/28/pc/search/corp34/outline.html・3回目）
+- 創業年度：設立：1912年 （ 明治 45年） 6月8日 （日本鋼管株式会社）（https://ja.wikipedia.org/wiki/JFE%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0・3回目）
+- 従業員数：約11,000人（https://www.jfe-eng.co.jp/information/company.html・1回目）
+- 従業員数：3,833人（グループ全体：11,170人）（2026年3月）（https://job.mynavi.jp/28/pc/search/corp34/outline.html・3回目）
+- 従業員数：グループ合計：約10,000人 単独：3,589人 （2021年3月31日現在）（https://ja.wikipedia.org/wiki/JFE%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0・3回目）
+- 売上高：5,997億円（2026年3月）（https://job.mynavi.jp/28/pc/search/corp34/outline.html・3回目）
+- 売上高：4,857億円 （2021年3月期/連結）（https://ja.wikipedia.org/wiki/JFE%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0・3回目）
+- 株主：JFEホールディングス（株） 100%（https://ja.wikipedia.org/wiki/JFE%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0・3回目）
+- 所在地：東京本社 東京都千代田区内幸町二丁目2番3号（日比谷国際ビル22階） Google マップ 新規ウィンドウを開きます（https://www.jfe-eng.co.jp/information/company.html・1回目）
+- 所在地：東京都千代田区内幸町二丁目2番3号（日比谷国際ビル22階） Google マップ 新規ウィンドウを開きます（https://www.jfe-eng.co.jp/information/company.html・1回目）
+- 所在地：横浜市鶴見区末広町2丁目1番地 Google マップ 新規ウィンドウを開きます（https://www.jfe-eng.co.jp/information/company.html・1回目）
+- 金属AM装置の保有（型番・製造元・台数・導入年）：
+  - 「NEDO「次世代浮体式洋上風力発電システム実証研究 （浮体式洋上風力発電の導入促進に資する次世代技術の開発）」に採択 ～モジュール型浮体に導入するピン結合技術およびグラウト接合技術の開発～」（https://www.jfe-eng.co.jp/news/・1回目）
+  - 「「コージェネ大賞２０２５」産業用部門で最高位の理事長賞を受賞 ～多拠点電力融通と水素混焼対応型ＣＧＳ導入で省エネ・脱炭素を推進～」（https://www.jfe-eng.co.jp/news/・1回目）
+  - 「岩国市は、令和7年に2050年までに温室効果ガス排出量の実質ゼロを目指す「ゼロカーボンシティ」を宣言し、再生可能エネルギーのさらなる普及と地域内での活用を図るため、行政が率先して公共施設への導入に取り組んでいます」（https://www.jfe-eng.co.jp/news/2026/20261022.html・1回目）
+  - 「を通じた廃棄物発電と温室効果ガス削減の取り組み実績を紹介し、脱炭素社会に寄与する具体技術を保有する企業として、各国来場者へ広くアピールを行いました」（https://www.jfe-eng.co.jp/news/2026/20260907.html・1回目）
+  - 「じて賞与水準を決定する業績連動型賞与を導入しています」（https://www.jfe-eng.co.jp/news/topics/pdf/20250314multistakeholder_JFEEngineering_1.pdf・2回目）
+  - 「当社の最大の特徴は、幅広い分野で技術を保有する」（https://job.mynavi.jp/28/pc/search/corp34/outline.html・3回目）
+  - 「（昭和13年）6月 - ドイツより導入したトーマス転炉の操業を開始」（https://ja.wikipedia.org/wiki/JFE%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0・3回目）
+  - 「金属3Dプリンター受託サービス | JFEエンジニアリング 鶴見製作所」（https://jfe-tsurumi.jp/3dp/・3回目）
+  - 「金属3Dプリンターの強み」（https://jfe-tsurumi.jp/3dp/・3回目）
+  - 「金属3Dプリンター受託造形サービス-サービス詳細 | 東レ・プレシジョン株式会社」（https://www.tpc.toray/technology/additive-print/add_service/・3回目）
+  - 「金属3Dプリンター受託造形サービス」（https://www.tpc.toray/technology/additive-print/add_service/・3回目）
+  - 「金属3Dプリンター受託造形サービス サービス詳細」（https://www.tpc.toray/technology/additive-print/add_service/・3回目）
+- 使っている金属粉（材質）：
+  - 「1,難加工材料の使用(チタン、ニッケル合金等)」（https://jfe-tsurumi.jp/3dp/・3回目）
+  - 「ステンレス鋼、ステライト、インコネル、マルエージング、タングステン、アルミ、チタン、純タンタルなど、15種類の造形材料を使用可能なため、お客様のご要望に合った最適な材料をご提案させていただきます」（https://www.tpc.toray/technology/additive-print/add_service/・3回目）
+  - 「6）タングステンなどの難削材料を切削加工でなく積層造形法で製造できます」（https://www.tpc.toray/technology/additive-print/add_service/・3回目）
+  - 「～金属3Dプリンター タングステン造形事例集～」（https://www.tpc.toray/technology/additive-print/add_service/・3回目）
+  - 「●事例1：タングステン３Ｄプリンタ ３Ｄモデルからダイレクト製造」（https://www.tpc.toray/technology/additive-print/add_service/・3回目）
+- 用途・客の産業：
+  - 「「岩国市ゼロカーボンシティの実現に向けた エネルギーの地産地消に関する連携協定」の締結について ～岩国市の家庭ごみの処理時に生まれるエネルギー(電力)を岩国市で活用する～」（https://www.jfe-eng.co.jp/・1回目）
+  - 「ガス・石油・水道パイプライン、LNG・LPG等各種タンク、太陽光・地熱・バイオマス等再生可能エネルギー発電設備、都市ごみ焼却炉、水処理システム、使用済みプラスチック等のリサイクルサービス、橋梁・港湾構造物、物流流通システム・エンジン・シールド掘進機・バラスト水処理システム等の産業機械、製銑・製鋼・ミニミル関連設備、EV（電気自動車）急速充電器等」（https://www.jfe-eng.co.jp/information/company.html・1回目）
+  - 「「岩国市ゼロカーボンシティの実現に向けた エネルギーの地産地消に関する連携協定」の締結について ～岩国市の家庭ごみの処理時に生まれるエネルギー(電力)を岩国市で活用する～」（https://www.jfe-eng.co.jp/news/・1回目）
+  - 「マレーシア国営エネルギー会社ペトロナスグループより マルチプロダクトパイプライン能力増強プロジェクトを受注 ～当社現地法人として過去最大規模の単独受注～」（https://www.jfe-eng.co.jp/news/・1回目）
+  - 「持続可能な航空燃料（SAF）を製造できる新触媒を共同開発 ～世界TOPクラス※1（従来比2倍超）の収率を実現し、SAFの普及に貢献～」（https://www.jfe-eng.co.jp/news/・1回目）
+  - 「ＤＩＣ株式会社よりエポキシ樹脂プラント建設工事を受注 ～半導体材料の安定供給に貢献～」（https://www.jfe-eng.co.jp/news/・1回目）
+  - 「「岩国市ゼロカーボンシティの実現に向けた エネルギーの地産地消に関する連携協定」の締結について ～岩国市の家庭ごみの処理時に生まれるエネルギー(電力)を岩国市で活用する～ | JFEエンジニアリング株式会社」（https://www.jfe-eng.co.jp/news/2026/20261022.html・1回目）
+  - 「エネルギーの地産地消に関する連携協定」の締結について」（https://www.jfe-eng.co.jp/news/2026/20261022.html・1回目）
+  - 「～岩国市の家庭ごみの処理時に生まれるエネルギー(電力)を岩国市で活用する～」（https://www.jfe-eng.co.jp/news/2026/20261022.html・1回目）
+  - 「岩国市（市長：福田 良彦）とJFEエンジニアリング株式会社（社長：福田 一美、本社：神奈川県横浜市、以下「JFEエンジニアリング」）、JFEエンジニアリングが100%出資する新電力子会社のアーバンエナジー株式会社（社長：川原 太郎、本社：神奈川県横浜市、以下「アーバンエナジー」）は、「岩国市ゼロカーボンシティの実現に向けたエネルギーの地産地消に関する連携協定」（以下、本協定）を締結しました」（https://www.jfe-eng.co.jp/news/2026/20261022.html・1回目）
+  - 「本協定は、本協定当事者らが相互に連携し、エネルギーの地産地消に関する取組を進めるとともに、市民の再エネ・ゼロカーボン電力への理解促進を図ることで、岩国市のゼロカーボンシティ実現に貢献することを目的とするものです」（https://www.jfe-eng.co.jp/news/2026/20261022.html・1回目）
+  - 「岩国市は、令和7年に2050年までに温室効果ガス排出量の実質ゼロを目指す「ゼロカーボンシティ」を宣言し、再生可能エネルギーのさらなる普及と地域内での活用を図るため、行政が率先して公共施設への導入に取り組んでいます」（https://www.jfe-eng.co.jp/news/2026/20261022.html・1回目）
+- 資本金・株主：
+  - 「インド共和国 廃棄物発電事業への出資・事業参画 ～国内建設・エンジニアリング業界初！成長著しいインド廃棄物処理市場への参入～」（https://www.jfe-eng.co.jp/news/・1回目）
+  - 「JFEエンジニアリング株式会社（社長：福田一美、本社：東京都千代田区）の子会社であるJ&T環境株式会社（社長：長谷場洋之、本社：神奈川県横浜市、以下「J&T環境」）を代表企業とするグループ」（https://www.jfe-eng.co.jp/news/2026/20261026.html・1回目）
+  - 「岩国市（市長：福田 良彦）とJFEエンジニアリング株式会社（社長：福田 一美、本社：神奈川県横浜市、以下「JFEエンジニアリング」）、JFEエンジニアリングが100%出資する新電力子会社のアーバンエナジー株式会社（社長：川原 太郎、本社：神奈川県横浜市、以下「アーバンエナジー」）は、「岩国市ゼロカーボンシティの実現に向けたエネルギーの地産地消に関する連携協定」（以下、本協定）を締結しました」（https://www.jfe-eng.co.jp/news/2026/20261022.html・1回目）
+  - 「本契約に伴い、横浜F・マリノスのホームゲームにおいて、ホームスタジアムである日産スタジアムのゴール裏2列目看板へ当社ロゴを掲出するほか、当社が設計から建設まで携わり運営する再生可能エネルギー発電所で発電したグリーン電力等を、当社の新電力子会社であるアーバンエナジー株式会社を通じて、横須賀市にある練習場「F・マリノススポーツパーク」へ供給します」（https://www.jfe-eng.co.jp/news/topics/20260701.html・1回目）
+  - 「今回のパートナーシップを通じ、当社が設計から建設まで関わり運営する再生可能エネルギー発電所で発電するグリーン電力等を当社の新電力子会社アーバンエナジーを通じて、横須賀市にある練習場F・マリノススポーツパークへお届けすることで、クラブの脱炭素化にも貢献してまいります」（https://www.jfe-eng.co.jp/news/topics/20260701.html・1回目）
+  - 「その一環として、JFEエンジニアリング様が設立した新電力子会社であるアーバンエナジー株式会社様には、F・マリノススポーツパークへ実質的に再生可能エネルギー100％の電気「ゼロエミプラン」を供給いただきます」（https://www.jfe-eng.co.jp/news/topics/20260701.html・1回目）
+  - 「企業経営において、株主にとどまらず、従業員、取引先、顧客、」（https://www.jfe-eng.co.jp/news/topics/pdf/20250314multistakeholder_JFEEngineering_1.pdf・2回目）
+  - 「［日立造船(株)・住友重機械工業(株)と共同出資］」（https://job.mynavi.jp/28/pc/search/corp34/outline.html・3回目）
+  - 「電力事業子会社アーバンエナジー(株)設立、ミャンマー政府と共同出資の子会社Ｊ＆Ｍスチールソリューションズ設立」（https://job.mynavi.jp/28/pc/search/corp34/outline.html・3回目）
+  - 「磯村豊水機工(株)を統合、スタンダードケッセル・パワーシステムズを子会社化」（https://job.mynavi.jp/28/pc/search/corp34/outline.html・3回目）
+  - 「ＪＲ東日本グループと共同出資の(株)Ｊバイオフードリサイクルによる食品リサイクル事業開始」（https://job.mynavi.jp/28/pc/search/corp34/outline.html・3回目）
+  - 「子会社を東京電力グループと共同出資化しＪ＆Ｔ環境(株)発足、ＡｎｙＴｅｃｈ(株)を子会社化」（https://job.mynavi.jp/28/pc/search/corp34/outline.html・3回目）
+- 検索結果の抜粋：
+  - 「会社概要 | JFEエンジニアリング 株式会社 — 会社概要 | JFEエンジニアリング 株式会社 JFEエンジニアリング株式会社 https://www.jfe-eng.co.jp > 企業情報」（https://www.jfe-eng.co.jp/information/company.html・3回目）
+  - 「JFEエンジニアリング (株)の 会社概要 | マイナビ2028 — JFEエンジニアリング (株)の 会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp34 > outline」（https://job.mynavi.jp/28/pc/search/corp34/outline.html・3回目）
+  - 「JFEエンジニアリング - Wikipedia — JFEエンジニアリング - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > JFEエンジニアリング」（https://ja.wikipedia.org/wiki/JFE%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0・3回目）
+  - 「JFEエンジニアリング株式会社 - JFEエンジニアリングの歩み — JFEエンジニアリング株式会社 - JFEエンジニアリングの歩み JFEエンジニアリング株式会社 https://www.jfe-eng.co.jp > 企業情報」（https://www.jfe-eng.co.jp/information/history.html・3回目）
+  - 「JFEエンジニアリング 株式 会社 - ミドルの転職 — JFEエンジニアリング 株式 会社 - ミドルの転職 ミドルの転職 https://mid-tenshoku.com > 掲載企業一覧」（https://mid-tenshoku.com/agency/a-12289/・3回目）
+  - 「JFEエンジニアリング と東レ・プレシジョンが事業提携 ～ 金属 ... — JFEエンジニアリング と東レ・プレシジョンが事業提携 ～ 金属 ... JFEエンジニアリング株式会社 https://www.jfe-eng.co.jp > ... > ニュースリリース：2022年」（https://www.jfe-eng.co.jp/news/2022/20220523.html・3回目）
+  - 「金属3Dプリンター 受託サービス | JFEエンジニアリング 鶴見 ... — 金属3Dプリンター 受託サービス | JFEエンジニアリング 鶴見 ... JFEエンジニアリング 鶴見製作所 https://jfe-tsurumi.jp > ...」（https://jfe-tsurumi.jp/3dp/・3回目）
+  - 「金属3Dプリンター 2号機を 導入 しました — 金属3Dプリンター 2号機を 導入 しました JFEエンジニアリング 鶴見製作所 https://jfe-tsurumi.jp > お知らせ」（https://jfe-tsurumi.jp/news/%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC2%E5%8F%B7%E6%A9%9F%E3%82%92%E5%B0%8E%E5%85%A5%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/・3回目）
+  - 「金属 3Dプリンター受託サービス | JFEエンジニアリング 鶴見 ... — 金属 3Dプリンター受託サービス | JFEエンジニアリング 鶴見 ... JFEエンジニアリング 鶴見製作所 https://jfe-tsurumi.jp > ...」（https://jfe-tsurumi.jp/3dp/・3回目）
+  - 「数字で見る JFEエンジニアリング | キャリア採用サイト — 数字で見る JFEエンジニアリング | キャリア採用サイト JFEエンジニアリング株式会社 https://www.jfe-eng.co.jp > career > special > number」（https://www.jfe-eng.co.jp/career/special/number/・3回目）
+  - 「企業情報 | JFEエンジニアリング 株式会社 — 企業情報 | JFEエンジニアリング 株式会社 JFEエンジニアリング株式会社 https://www.jfe-eng.co.jp > information」（https://www.jfe-eng.co.jp/information/・3回目）
+  - 「JFEエンジニアリング (株)の会社概要 | マイナビ2028 — JFEエンジニアリング (株)の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp34 > outline」（https://job.mynavi.jp/28/pc/search/corp34/outline.html・3回目）
+- 保有設備：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部9頁・検索12回）
+
+## Japan合同会社
+- 公式URL：https://www.japan.travel/（search:yahoo_jp:Japan）
+- 金属AM装置の保有（型番・製造元・台数・導入年）：
+  - 「金属3Dプリンターの基礎知識：各方式の違いと特徴を徹底解説 | コラム | JEOL 日本電子株式会社」（https://www.jeol.co.jp/column/detail001.html・3回目）
+  - 「金属3Dプリンターの基礎知識：各方式の違いと特徴を徹底解説」（https://www.jeol.co.jp/column/detail001.html・3回目）
+  - 「金属3Dプリンターは従来の金属加工法と比べて複雑形状を製作することができ、その他にも材料ロスの削減、工期の短縮などさまざまなメリットがあり、実用化が広がっています」（https://www.jeol.co.jp/column/detail001.html・3回目）
+  - 「本コラムでは、金属3Dプリンターの基本的な仕組みと主要な造形方式について詳しく解説します」（https://www.jeol.co.jp/column/detail001.html・3回目）
+  - 「金属3Dプリンター(積層造形装置)とは？」（https://www.jeol.co.jp/column/detail001.html・3回目）
+  - 「金属3Dプリンターとは、3次元CADデータをもとに、金属粉末や金属ワイヤーを材料として、レーザーや電子ビームなどで溶融させ、一層ずつ積層しながら立体形状を造形する装置です」（https://www.jeol.co.jp/column/detail001.html・3回目）
+  - 「金属材料の加工法は、切削、鋳造、鍛造、板金加工、プレス加工、粉末冶金、接合などが挙げられますが、金属3Dプリンターは新たな工作機械と呼ぶ事ができます」（https://www.jeol.co.jp/column/detail001.html・3回目）
+  - 「金属3Dプリンターの歴史」（https://www.jeol.co.jp/column/detail001.html・3回目）
+  - 「金属3Dプリンターの開発は、1980年代に遡ります」（https://www.jeol.co.jp/column/detail001.html・3回目）
+  - 「これは樹脂を材料としていましたが、その後、金属粉末をレーザーで溶融させる技術が開発され、1990年代には商用の金属3Dプリンターが登場しました」（https://www.jeol.co.jp/column/detail001.html・3回目）
+  - 「2013年のアメリカのオバマ大統領（当時）の一般教書演説以後、金属3Dプリンターが世界中で注目されるようになり、開発プロジェクトがアメリカ、ヨーロッパ、中国などで開始されました」（https://www.jeol.co.jp/column/detail001.html・3回目）
+  - 「が設立され、金属3Dプリンターを含む、3Dプリンターのさまざまなプロジェクトが行われています」（https://www.jeol.co.jp/column/detail001.html・3回目）
+- 使っている金属粉（材質）：
+  - 「金属3Dプリンターとは、3次元CADデータをもとに、金属粉末や金属ワイヤーを材料として、レーザーや電子ビームなどで溶融させ、一層ずつ積層しながら立体形状を造形する装置です」（https://www.jeol.co.jp/column/detail001.html・3回目）
+  - 「金属材料の加工法は、切削、鋳造、鍛造、板金加工、プレス加工、粉末冶金、接合などが挙げられますが、金属3Dプリンターは新たな工作機械と呼ぶ事ができます」（https://www.jeol.co.jp/column/detail001.html・3回目）
+  - 「これは樹脂を材料としていましたが、その後、金属粉末をレーザーで溶融させる技術が開発され、1990年代には商用の金属3Dプリンターが登場しました」（https://www.jeol.co.jp/column/detail001.html・3回目）
+  - 「装置価格や金属粉末などの材料費は従来工法より高価な傾向がある」（https://www.jeol.co.jp/column/detail001.html・3回目）
+  - 「1.パウダーベッド方式（Powder Bed Fusion:PBF / 粉末床溶融結合法）」（https://www.jeol.co.jp/column/detail001.html・3回目）
+  - 「金属粉末を均等に敷き詰めたパウダーベッド(粉末床)に、熱源のレーザーまたは電子ビームを選択的にスキャンし、溶融・凝固を繰り返し、一層ずつ積み重ねていき造形します」（https://www.jeol.co.jp/column/detail001.html・3回目）
+  - 「造形が完了したら、周囲の粉末を取り除き、完成した造形物を取り出します」（https://www.jeol.co.jp/column/detail001.html・3回目）
+  - 「周囲の粉末は回収され、ふるいにかけた後、造形に再利用します」（https://www.jeol.co.jp/column/detail001.html・3回目）
+  - 「先に述べたパウダーベッド方式では金属粉末を溶融して造形しますが、加熱源としてレーザーと電子ビームが使用されています」（https://www.jeol.co.jp/column/detail001.html・3回目）
+  - 「一般的なファイバーレーザーでは概ね5～40%程度（チタンは65%程度）」（https://www.jeol.co.jp/column/detail001.html・3回目）
+  - 「また、電子ビーム方式は真空環境下で造形を行うため、酸素や水分の影響を抑えることができ、チタン合金などの活性金属の造形に適しています」（https://www.jeol.co.jp/column/detail001.html・3回目）
+  - 「タングステンやモリブデンなどの高融点金属や純銅のように、ファイバーレーザーでは吸収率の低い材料にも適しています」（https://www.jeol.co.jp/column/detail001.html・3回目）
+- 用途・客の産業：
+  - 「金型や鋳型、冶具が不要で、金型などの保管の必要もない」（https://www.jeol.co.jp/column/detail001.html・3回目）
+  - 「CADデータから直接製造できるため、設計変更を伴う試作や開発、カスタマイズ製造にも適する」（https://www.jeol.co.jp/column/detail001.html・3回目）
+  - 「従来工法で製造できるものを量産しても、コストメリットが得られない可能性が高い」（https://www.jeol.co.jp/column/detail001.html・3回目）
+  - 「パウダーベッド方式は、他の方式に比べ高精度で再現性の高い造形ができ、また高密度で強度が高い部品を造ることができるため、航空宇宙や医療分野などでの実績に優れています」（https://www.jeol.co.jp/column/detail001.html・3回目）
+  - 「電子ビームはレーザーより高出力で熱エネルギーへの変換効率が高いため、造形速度が速く、大きめの部品の製造や、一度にまとめて量産する場合に強みを発揮します」（https://www.jeol.co.jp/column/detail001.html・3回目）
+  - 「内部流路があったり、内部が複雑な造形物の場合は、仮焼結粉末をブラストで除去することが困難なため、複雑な水管を有する金型などの造形は不得意としています」（https://www.jeol.co.jp/column/detail001.html・3回目）
+  - 「2.DED方式（Directed Energy Deposition / 指向性エネルギー堆積法）」（https://www.jeol.co.jp/column/detail001.html・3回目）
+  - 「DED(デポジション)方式は、金属粉末や金属ワイヤーを連続的に供給しながら、レーザーまたは電子ビーム、アーク放電のエネルギーで溶融し、堆積していく造形方法です」（https://www.jeol.co.jp/column/detail001.html・3回目）
+  - 「他の方式と比べて、安価で操作が容易なため試作や少量生産に適していますが、密度にやや課題があります」（https://www.jeol.co.jp/column/detail001.html・3回目）
+  - 「スループットが高く、量産に向いている可能性を秘めていますが、パウダーベッド方式に比べると密度や強度が低い傾向があり、実用部品への適用が課題となっています」（https://www.jeol.co.jp/column/detail001.html・3回目）
+  - 「当社は電子顕微鏡や半導体製造用電子ビーム描画装置で培った電子ビーム技術を応用して電子ビームパウダーベッドフュージョン(EB-PBF)方式の金属3Dプリンター「JAM-5200EBM」を開発しました」（https://www.jeol.co.jp/column/detail001.html・3回目）
+  - 「会社設立 融資 | 日本政策金融公庫：環境・エネルギー対策資金」（https://www.alesia.jp/investing-company/・3回目）
+- 資本金・株主：
+  - 「会社設立 | 出資会社とは？子会社や関連会社などについて」（https://www.alesia.jp/investing-company/・3回目）
+  - 「出資とは、簡単にいえば「お金で株を買うこと」です」（https://www.alesia.jp/investing-company/・3回目）
+  - 「会社として出資を行った会社を出資会社と呼びます」（https://www.alesia.jp/investing-company/・3回目）
+  - 「出資会社のひとつとして、子会社や関連会社が挙げられます」（https://www.alesia.jp/investing-company/・3回目）
+  - 「出資とは簡単に言うと、株を買うことで、会社にお金を援助することです」（https://www.alesia.jp/investing-company/・3回目）
+  - 「株式会社は株を発行し、それを株主に買ってもらい、資金を得て、その資金をもとに事業を始めます」（https://www.alesia.jp/investing-company/・3回目）
+  - 「出資をすることで得られる２つの権利」（https://www.alesia.jp/investing-company/・3回目）
+  - 「出資をして株を持つと株主は２つの権利を得ます」（https://www.alesia.jp/investing-company/・3回目）
+  - 「子会社＝発行済みの株式を過半数保有している会社」（https://www.alesia.jp/investing-company/・3回目）
+  - 「続いては出資会社のひとつである「子会社」についてご紹介します」（https://www.alesia.jp/investing-company/・3回目）
+  - 「子会社とは、親会社に支配されている会社のことをいいます」（https://www.alesia.jp/investing-company/・3回目）
+  - 「関連会社は親会社や子会社が、20％の議決権を保有している会社のことを言います」（https://www.alesia.jp/investing-company/・3回目）
+- 検索結果の抜粋：
+  - 「なぜ 日本 人は 資本金 にこだわるのか？ — なぜ 日本 人は 資本金 にこだわるのか？ マークリサーチ有限会社 https://www.markresearch.com > why-japanese-focus-on-...」（https://www.markresearch.com/why-japanese-focus-on-capital/・3回目）
+  - 「数字で見るR- JAPAN — 数字で見るR- JAPAN r-japan.co.jp https://www.r-japan.co.jp > R-JAPANについて」（https://www.r-japan.co.jp/company/owner/・3回目）
+  - 「日本 の大企業ランキング｜ 売上高 ・時価総額を徹底比較 — 日本 の大企業ランキング｜ 売上高 ・時価総額を徹底比較 Geekly https://www.geekly.co.jp > japan_major_company_ranking」（https://www.geekly.co.jp/column/cat-preparation/japan_major_company_ranking/・3回目）
+- 事業内容：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部32頁・検索12回）
+- 資本金：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部32頁・検索12回）
+- 創業年度：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部32頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部32頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部32頁・検索12回）
+- 株主：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部32頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部32頁・検索12回）
+- 保有設備：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部32頁・検索12回）
+
 ## KIT金沢工業大学
 - 公式URL：https://www.kanazawa-it.ac.jp/（search:yahoo_jp:KIT金沢工業大学）
 - 金属AM装置の保有（型番・製造元・台数・導入年）：
@@ -258,6 +405,102 @@
 - 使っている金属粉（材質）：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部10頁・検索12回）
 - 用途・客の産業：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部10頁・検索12回）
 - 資本金・株主：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部10頁・検索12回）
+
+## Taigen株式会社
+- 公式URL：https://www.imexrc.com/（search:yahoo_jp:Taigen）
+- 金属AM装置の保有（型番・製造元・台数・導入年）：
+  - 「金属3Dプリンターの導入に使える省力化投資補助金ガイド（Taigen株式会社）のカタログ無料ダウンロード | Apérza Catalog（アペルザカタログ） | ものづくり産業向けカタログサイト」（https://www.aperza.com/catalog/page/10015210/86094/・3回目）
+  - 「金属3Dプリンターの導入に使える省力化投資補助金ガイド」（https://www.aperza.com/catalog/page/10015210/86094/・3回目）
+  - 「金属3Dプリンターの導入に、補助上限最大1億円・補助率1/2〜2/3の補助金が使えます」（https://www.aperza.com/catalog/page/10015210/86094/・3回目）
+  - 「金属3Dプリンターの導入に、中小企業省力化投資補助金（一般型）が使えます」（https://www.aperza.com/catalog/page/10015210/86094/・3回目）
+  - 「機械装置・システム構築費（必須）、運搬費、技術導入費、知的財産権等関連経費、外注費、専門家経費、クラウドサービス利用費」（https://www.aperza.com/catalog/page/10015210/86094/・3回目）
+  - 「金型・部品加工業（従業員30名）が金属3Dプリンター＋粉末回収装置・造形設計ソフトを導入する場合」（https://www.aperza.com/catalog/page/10015210/86094/・3回目）
+  - 「Q. 金属3Dプリンターを1台入れるだけでも使えますか？」（https://www.aperza.com/catalog/page/10015210/86094/・3回目）
+  - 「金属3Dプリンターの場合」（https://www.aperza.com/catalog/page/10015210/86094/・3回目）
+  - 「人手不足に悩む中小企業等の、専用設備の導入費用の一部を」（https://www.aperza.com/catalog/page/10015210/86094/・3回目）
+  - 「保険・共済 事業計画期間終了まで、導入した機械装置の保険又は共済への」（https://www.aperza.com/catalog/page/10015210/86094/・3回目）
+  - 「汎用設備を そのまま導入するなら、」（https://www.aperza.com/catalog/page/10015210/86094/・3回目）
+  - 「金属3Dプリンターで考えられる組み合わせの例」（https://www.aperza.com/catalog/page/10015210/86094/・3回目）
+- 使っている金属粉（材質）：
+  - 「金型・部品加工業（従業員30名）が金属3Dプリンター＋粉末回収装置・造形設計ソフトを導入する場合」（https://www.aperza.com/catalog/page/10015210/86094/・3回目）
+  - 「粉末の回収装置や設計ソフトなどまで組むと、効果をさらに示しやすくなります」（https://www.aperza.com/catalog/page/10015210/86094/・3回目）
+  - 「造形後に残った粉を、刷毛で集めて 装置が粉末を吸い集め、再び使える」（https://www.aperza.com/catalog/page/10015210/86094/・3回目）
+  - 「粉末の回収装置や設計ソフトなどまで組むと、」（https://www.aperza.com/catalog/page/10015210/86094/・3回目）
+- 用途・客の産業：
+  - 「■試作品づくりを3Dプリンターに任せる」（https://www.aperza.com/catalog/page/10015210/86094/・3回目）
+  - 「試作のたびの加工と段取りにかかる時間を減らす」（https://www.aperza.com/catalog/page/10015210/86094/・3回目）
+  - 「金型・部品加工業（従業員30名）が金属3Dプリンター＋粉末回収装置・造形設計ソフトを導入する場合」（https://www.aperza.com/catalog/page/10015210/86094/・3回目）
+  - 「Q. 金型の部品づくりに使う計画でも申請できますか？」（https://www.aperza.com/catalog/page/10015210/86094/・3回目）
+  - 「試作品づくりを3Dプリンターに任せる」（https://www.aperza.com/catalog/page/10015210/86094/・3回目）
+  - 「車両及び運搬具、船舶、航空機は対象になりません」（https://www.aperza.com/catalog/page/10015210/86094/・3回目）
+  - 「図面を外へ渡し、試作品が届くのを データを送れば、社内で試作品の」（https://www.aperza.com/catalog/page/10015210/86094/・3回目）
+  - 「会社 金型・部品加工業（従業員30名）」（https://www.aperza.com/catalog/page/10015210/86094/・3回目）
+- 検索結果の抜粋：
+  - 「会社概要 | Taigen 株式会社 | 企業の“強い組織づくり”と挑戦を ... — 会社概要 | Taigen 株式会社 | 企業の“強い組織づくり”と挑戦を ... Taigen株式会社 https://tai-gen.com > company」（https://tai-gen.com/company/・3回目）
+  - 「Taigen 株式 会社 の転職・企業 概要 - doda — Taigen 株式 会社 の転職・企業 概要 - doda doda https://doda.jp > View > Company > j_id__10215121774」（https://doda.jp/DodaFront/View/Company/j_id__10215121774/・3回目）
+  - 「Taigen 株式 会社 - LinkedIn — Taigen 株式 会社 - LinkedIn LinkedIn https://www.linkedin.com > company > taigen株式会社」（https://www.linkedin.com/company/taigen%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE・3回目）
+  - 「Taigen 株式 会社 の採用・求人情報-engage - エンゲージ — Taigen 株式 会社 の採用・求人情報-engage - エンゲージ エンゲージ https://en-gage.net > gromana_saiyo」（https://en-gage.net/gromana_saiyo/・3回目）
+  - 「Taigen 株式 会社 のカタログ無料ダウンロード - アペルザ — Taigen 株式 会社 のカタログ無料ダウンロード - アペルザ Apérza https://www.aperza.com > ... > 企業検索 > 首都圏 > 東京都」（https://www.aperza.com/company/page/10015210/・3回目）
+  - 「金属3D の商談に補助金を｜販売店・メーカー向け業務提携 — 金属3D の商談に補助金を｜販売店・メーカー向け業務提携 Taigen株式会社 https://tai-gen.com > 業務提携」（https://tai-gen.com/partnership/metal-3dp/・3回目）
+  - 「会社 概要 | Taigen株式会社 | 企業の“強い組織づくり”と挑戦を ... — 会社 概要 | Taigen株式会社 | 企業の“強い組織づくり”と挑戦を ... Taigen株式会社 https://tai-gen.com > company」（https://tai-gen.com/company/・3回目）
+  - 「Taigen株式会社 - LinkedIn — Taigen株式会社 - LinkedIn LinkedIn https://www.linkedin.com > company > taigen株式会社」（https://www.linkedin.com/company/taigen%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE・3回目）
+  - 「Taigen株式会社 - ナウビレッジ株式会社 — Taigen株式会社 - ナウビレッジ株式会社 ナウビレッジ https://now-village.jp > 制作事例」（https://now-village.jp/work/taigen-lp・3回目）
+  - 「Taigen の企業情報 - バフェット・コード — Taigen の企業情報 - バフェット・コード バフェット・コード https://www.buffett-code.com > company > dcjfntxifc」（https://www.buffett-code.com/company/dcjfntxifc/・3回目）
+  - 「券売機・注文システムの導入に使える省力化投資補助金 — 券売機・注文システムの導入に使える省力化投資補助金 Taigen株式会社 https://tai-gen.com > 省力化投資補助金」（https://tai-gen.com/shoryokuka/order-system/・3回目）
+- 事業内容：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）
+- 資本金：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）
+- 創業年度：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）
+- 株主：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）
+- 保有設備：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）
+- 資本金・株主：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）
+
+## TechnoProducer株式会社
+- 公式URL：https://www.techno-producer.com/（search:yahoo_jp:TechnoProducer）
+- 事業内容：技術マーケティングのコンサルティング 新技術の事業化検討コンサルティング オープン・クローズ戦略にもとづくビジネスモデル・知財戦略の策定コンサルティング 知財戦略策定・知財開発のコンサルティング 技術者向け発明・発想・企画・発明提案スキルアップ教育 知財部員・リエゾンスタッフ向け知財戦略・特許情報分析教育 イノベーションを起こしやすい組織づくり支援 スタートアップ企業の知財戦略・ビジネスシナリオ策定・資金調達の支援 スタートアップ企業の知財戦略・技術戦略・標準化戦略のアドバイザリー 知財流通・知財の購入や売却に関するアドバイザリー 投資家への企業分析・特許分析レポートの提供と特許情報配信 投資先・投資候補企業の知財評価コンサルティング *特許・登録商標/商標（https://www.techno-producer.com/company/・1回目）
+- 資本金：10,000,000円（https://www.techno-producer.com/company/・1回目）
+- 創業年度：設立：2008年3月（https://www.techno-producer.com/company/・1回目）
+- 従業員数：7名（https://www.techno-producer.com/company/・1回目）
+- 所在地：東京都中央区東日本橋2丁目28番4号日本橋CETビル2階（https://www.techno-producer.com/company/・1回目）
+- 金属AM装置の保有（型番・製造元・台数・導入年）：
+  - 「: 強い特許や独自の強みを保有している企業を特定し、提携や投資先の判断材料とする」（https://www.techno-producer.com/・1回目）
+  - 「導入社数が100社を突破」（https://www.techno-producer.com/company/・1回目）
+  - 「導入社数が一部上場企業を中心に392社を突破」（https://www.techno-producer.com/company/・1回目）
+  - 「導入社数がプライム市場上場企業を中心に440社を突破」（https://www.techno-producer.com/company/・1回目）
+  - 「・AIの導入によって知財業務がどのように変わるのか知りたい方」（https://www.techno-producer.com/news/ai-native-chizai_2601013/・1回目）
+  - 「・AIを組織へ導入する際の課題や障壁に悩んでいる方」（https://www.techno-producer.com/news/ai-native-chizai_2601013/・1回目）
+  - 「AIの導入によって知財業務がどのように変わるのか知りたい方」（https://techplay.jp/event/999556・3回目）
+  - 「AIを組織へ導入する際の課題や障壁に悩んでいる方」（https://techplay.jp/event/999556・3回目）
+- 用途・客の産業：
+  - 「【商品企画の失敗談】「売れる理由」が分からない企画を量産していた私が、「顧客目線」を身につけるまで ─ 楠浦さんAI活用実例」（https://www.techno-producer.com/・1回目）
+  - 「初年は200件以上、その後も数年間はロボット・医療・センサー・AR技術・土壌浄化・ディスプレーなど、幅広い分野について毎年40-50件程度の発明提案を行った」（https://www.techno-producer.com/company/・1回目）
+  - 「発明塾として、記念すべき最初の発明は、東京大学の学生さんによる「低炭素社会を実現できるスマートビルディング」をテーマにしたもので、「電気自動車が普及したのち、その電気自動車を各家庭での電力消費の最適化に利用する」ことを目指したものであった」（https://www.techno-producer.com/company/・1回目）
+  - 「京都大学工学部機械工学科を卒業後、京都大学大学院工学研究科エネルギー応用工学専攻を修了」（https://www.techno-producer.com/news/ai-native-chizai_2601013/・1回目）
+  - 「著書に『新規事業を量産する知財戦略』『Patent Information For Victory』」（https://www.techno-producer.com/news/ai-native-chizai_2601013/・1回目）
+  - 「京都大学工学部機械工学科を卒業後、京都大学大学院工学研究科エネルギー応用工学専攻を修了」（https://techplay.jp/event/999556・3回目）
+  - 「著書に『新規事業を量産する知財戦略』『Patent Information For Victory』」（https://techplay.jp/event/999556・3回目）
+  - 「「新規事業を量産する知財戦略－未来を預言するアイデアで市場を独占しよう！」発刊（2021年4月）」（https://note.com/kusuura/n/nd5356de503c2・3回目）
+  - 「祝！4000冊まであと50冊（笑）：「新規事業を量産する知財戦略」～未来を預言するアイデアで市場を独占しよう！～」（https://note.com/kusuura/all・3回目）
+  - 「祝！4000冊まであと50冊（笑）：「新規事業を量産する知財戦略」～未来を預言するアイデアで市場を独占しよう！～」（https://note.com/kusuura・3回目）
+- 資本金・株主：
+  - 「ビル・ゲイツが出資した、50億ドル超を運用する世界初の発明投資ファンドIntellectual Venturs社(現XINOVA社)より依頼を受け、発明事業を開始」（https://www.techno-producer.com/company/・1回目）
+  - 「一部上場企業を中心に受講者数が3,600名を超える」（https://www.techno-producer.com/company/・1回目）
+  - 「導入社数が一部上場企業を中心に392社を突破」（https://www.techno-producer.com/company/・1回目）
+  - 「導入社数がプライム市場上場企業を中心に440社を突破」（https://www.techno-producer.com/company/・1回目）
+- 検索結果の抜粋：
+  - 「会社概要 | TechnoProducer 株式会社| — 会社概要 | TechnoProducer 株式会社| TechnoProducer株式会社 https://www.techno-producer.com > company」（https://www.techno-producer.com/company/・3回目）
+  - 「「テクノプロデューサー®」を育てる～ TechnoProducer 株式 ... — 「テクノプロデューサー®」を育てる～ TechnoProducer 株式 ... note https://note.com > 科学・テクノロジー > テクノロジー全般」（https://note.com/kusuura/n/nb2a9ce5767f2・3回目）
+  - 「TechnoProducer 株式 会社 （テクノプロデューサー） - LinkedIn — TechnoProducer 株式 会社 （テクノプロデューサー） - LinkedIn LinkedIn https://jp.linkedin.com > company > technoproducer」（https://jp.linkedin.com/company/technoproducer・3回目）
+  - 「TechnoProducer — TechnoProducer TechnoProducer株式会社 https://www.techno-producer.com」（https://www.techno-producer.com/・3回目）
+  - 「TechnoProducer 株式 会社 は、16期に入りました！｜楠浦崇央 — TechnoProducer 株式 会社 は、16期に入りました！｜楠浦崇央 note https://note.com > ビジネス > ビジネス全般」（https://note.com/kusuura/n/nd5356de503c2・3回目）
+  - 「企業内発明塾®の TechnoProducer 株式 会社 - X — 企業内発明塾®の TechnoProducer 株式 会社 - X X https://x.com > techno_producer」（https://x.com/techno_producer・3回目）
+  - 「会社 概要| TechnoProducer 株式 会社 | — 会社 概要| TechnoProducer 株式 会社 | TechnoProducer株式会社 https://www.techno-producer.com > company」（https://www.techno-producer.com/company/・3回目）
+- 売上高：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部31頁・検索12回）
+- 株主：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部31頁・検索12回）
+- 保有設備：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部31頁・検索12回）
+- 使っている金属粉（材質）：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部31頁・検索12回）
 
 ## htmジャパン株式会社
 - 公式URL：https://hightech-metal-japan.com/（search:yahoo_jp:htmジャパン）
@@ -801,6 +1044,65 @@
 - 保有設備：記載なし（3回確認済み：公式14頁／PDF・画像3件／外部16頁・検索12回）
 - 使っている金属粉（材質）：記載なし（3回確認済み：公式14頁／PDF・画像3件／外部16頁・検索12回）
 
+## コヒレント・ジャパン株式会社
+- 公式URL：https://ex-press.jp/（search:ddgs:yahoo:コヒレント・ジャパン 株式会社）
+- 金属AM装置の保有（型番・製造元・台数・導入年）：
+  - 「暗号機能はアプリケーション、デジタル証明書書、ネットワークプロトコル、ハードウェア、企業インフラに組み込まれており、将来のアップグレードは複雑かつリソース集約的となる」（https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/79654/・1回目）
+  - 「量子安全ハードウェアは、デバイス、インフラ、セキュリティアプライアンスへの暗号機能の統合をサポートする」（https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/79654/・1回目）
+  - 「ITサービスプロバイダ、クラウドプラットフォーム、ソフトウェアベンダ、技術インフラオペレータは、アプリケーション、デジタルアイデンティティ、データ交換、通信プロトコルにまたがる暗号機能を管理している」（https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/79654/・1回目）
+  - 「ITサービスプロバイダは、複数の業界にわたるPQCコンサルティング、導入、移行プロジェクトを支援する立場にある」（https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/79654/・1回目）
+  - 「これらの要件は、予測期間を通じてITおよびITeSセグメント全体の導入を加速させると予想されている」（https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/79654/・1回目）
+  - 「米国政府はまた、NISTの最終標準および連邦移行ガイダンスを通じてPQCの導入を推進し、機関やサプライヤに対し脆弱な暗号システムの特定と移行計画を促している」（https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/79654/・1回目）
+  - 「--TOPTICA Photonics、産業用ラマン統合向けに強化されたTopMode 405単一周波数レーザーを発表」（https://ex-press.jp/lfwj/lfwj-news/lfwj-sponsored/77762/・1回目）
+  - 「「TopMode 405」」（https://ex-press.jp/lfwj/lfwj-news/lfwj-sponsored/77762/・1回目）
+  - 「「強化されたTopMode 405により、OEMパートナーに対して、連続運転を前提とした安定かつ信頼性の高い励起光源を提供します」（https://ex-press.jp/lfwj/lfwj-news/lfwj-sponsored/77762/・1回目）
+  - 「TopMode 405は、コンパクトで統合しやすい設計と強化された堅牢性により、これらの要件に対応し、連続運転および高スループットの産業環境において安定した動作を実現します」（https://ex-press.jp/lfwj/lfwj-news/lfwj-sponsored/77762/・1回目）
+  - 「強化されたTopMode 405は、以下を兼ね備えた産業グレードのOEMラマンレーザープラットフォームとして位置付けられています」（https://ex-press.jp/lfwj/lfwj-news/lfwj-sponsored/77762/・1回目）
+  - 「TopMode 405」（https://ex-press.jp/lfwj/lfwj-news/lfwj-sponsored/77762/・1回目）
+- 使っている金属粉（材質）：
+  - 「PsiQuantumはまた、300mmウェハースケールでのチタン酸バリウム(BTO)集積技術も開発しており、同社の量子システムで64×64 BTOスイッチを採用している」（https://ex-press.jp/lfwj/lfwj-news/lfwj-products-app/79673/・1回目）
+  - 「このロボットは「ビーターバー」、つまり垂直スピナーと、高性能ブラシレス四輪駆動、軽量アルミニウム、チタン、超高分子ポリエチレンシャーシを組み合わせたコンパクトな二重冗長ポリVベルトブラシレス武器動力システムを組み合わせている」（https://ex-press.jp/lfwj/lfwj-news/lfwj-science-research/79665/・1回目）
+  - 「2026-27年CRCキャプテンのAbi Dixonは、この戦闘マシンは「鋼、チタン、アルミニウム、そして情熱から作られた」と語っている」（https://ex-press.jp/lfwj/lfwj-news/lfwj-science-research/79665/・1回目）
+  - 「粉末床フュージョン(PBF)は依然として主流技術であり、金属ユニット出荷の77%、セグメント収益の83%を占めた」（https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/79514/・1回目）
+  - 「中国では、FarsoonとBLTが3C(コンピュータ、通信、家電)分野に牽引され、チタンの折りたたみ式電話ヒンジやスマートフォンフレームの需要が急増したことで、上半期に強い成長を遂げた」（https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/79514/・1回目）
+- 用途・客の産業：
+  - 「宇宙線で物体内部を見るミュオグラフィの精度を向上」（https://ex-press.jp/lfwj/lfwj-news/・1回目）
+  - 「マーケッツ&マーケッツ(MarketsandMarkets)のレポート「エネルギーアーキテクチャ別太陽光駆動ドローン市場(完全太陽光電気UAV、太陽光アシストバッテリーUAV)、ドローンタイプ(小型、中型、大型) […]」（https://ex-press.jp/lfwj/lfwj-news/・1回目）
+  - 「レーザ溶接は、宇宙から医療に至るまで、さまざまな用途で高品質な部品を製造するために用いられる高度な技術である」（https://ex-press.jp/lfwj/lfwj-news/・1回目）
+  - 「このインフラは、部品生産における異なる材料特性の結合や、将来の核融合エネルギー生産や航空宇宙推進など […]」（https://ex-press.jp/lfwj/lfwj-news/・1回目）
+  - 「MITの研究者たちは、手術中に撮影されたX線と患者の術前の3D医療スキャンを正確かつ迅速に照合する新しい技術をした」（https://ex-press.jp/lfwj/lfwj-news/・1回目）
+  - 「現在では、半導体、電子部品、電子応用機器などの先端エレクトロニ […]」（https://ex-press.jp/lfwj/lfwj-company/・1回目）
+  - 「高出力半導体レーザにフォーカスする 独レーザーライン社」（https://ex-press.jp/lfwj/lfwj-backnumber/lfwj-worldnews/・1回目）
+  - 「省スペース、高効率エネルギー利用を」（https://ex-press.jp/lfwj/lfwj-backnumber/lfwj-worldnews/・1回目）
+  - 「HPS技術のもう1つの主要な問題は、樹脂を重合させるために一定のレーザエネルギーを常に適用しなければならないことである」（https://ex-press.jp/lfwj/lfwj-news/lfwj-pickupmag/58353/・1回目）
+  - 「そうすることで、各ダイオードレーザが、個々の3Dプリントプロセスに必要な正しいエネルギーを供給することを確認できる」（https://ex-press.jp/lfwj/lfwj-news/lfwj-pickupmag/58353/・1回目）
+  - 「Ophir StarBrightパワーメーターは、出力とエネルギーを記録する高度なオプションと算術機能を備え、さまざまなグラフィカル表示が選択できる」（https://ex-press.jp/lfwj/lfwj-news/lfwj-pickupmag/58353/・1回目）
+  - 「生成人工知能(AI)やクラウドサービスの利用が高まることで、データセンタ間のデータ交換が増加し、より高速でエネルギー効率が高く、コンパクトな光トランスミッタの需要が生まれている」（https://ex-press.jp/lfwj/lfwj-news/lfwj-science-research/79669/・1回目）
+- 資本金・株主：
+  - 「ーダーシップと効果的なガバナンスを体現する優れた非上場企業各社とともに表彰された」（https://ex-press.jp/wp-content/uploads/2026/07/PR_260707.pdf・2回目）
+  - 「非上場企業でありながら、同社は自主的に機能的なアド」（https://ex-press.jp/wp-content/uploads/2026/07/PR_260707.pdf・2回目）
+  - 「ナンス、リーダーシップの有効性、長期的な事業成功を目指す非上場企業、ファミリー企業、取締役」（https://ex-press.jp/wp-content/uploads/2026/07/PR_260707.pdf・2回目）
+  - 「コヒレント・ジャパン株式会社の決算公告・子会社・関連会社情報 | 官報決算データベース」（https://catr.jp/companies/9c497/243193・3回目）
+- 検索結果の抜粋：
+  - 「企業情報 | コヒレント・ジャパン 本社、大阪支店、厚木TEC - Powered... — 企業概要 企業名 コヒレント・ジャパン株式会社 本社、大阪支店、厚木TEC 設立 1981年6月11日 資本金 10000万円 従業員数 110名 所在地 〒151-0053 東京都 渋谷区 代々木2-1-1 新宿マインズタワー26階 地図で見る TEL 03-5365-7100」（https://pr.mono.ipros.com/coherent/information/・3回目）
+  - 「コヒレント・ジャパン株式会社（東京都）の会社概要・役員 | Compalyz... — 〒151-0053 東京都渋谷区に本社を置くコヒレント・ジャパン株式会社の企業情報。コヒレント・ジャパン株式会社は、同社が属するCoherentグループの日本法人として、産業、通信、エレクトロニクス。卸売・商社 (機械・設備)、1971年設立、社会保険被保険者数88名。純利益5.5億円。代表者 手嶋 ...」（https://compalyze.co.jp/company/2010601024774・3回目）
+  - 「コヒレント・ジャパン | 企業情報 | イプロスものづくりコヒレント・ジャパン株式会社 (東京都渋谷区)の企業詳細 - 全国法人...コヒレント・ジャパン株式会社の会社概要・ニュース【2026年時点】| S...コヒレント・ジャパン株式会社 - 会社概要 — コヒレント・ジャパン株式会社 本社、大阪支店、厚木TEC 設立 1981年6月11日 資本金 10000万 従業員数 110名 住所 東京都渋谷区代々木2-1-1 新宿マインズタワー26階 電話 03-5365-7100 Aug 2, 2025 · 1981年06月11日に設立され、代表取締役 モンロー 清海が社長/代表を務める法人番号2010601024774のコヒレント・ジャパン株式会社の住所/地図、業種、売上/利益/資本金、電話番号、サイト情報、求人を始め、全国法人リストでは全国500万件の様々な企業/法人の ... Sep 1」（https://mono.ipros.com/company/detail/75366/・3回目）
+  - 「コヒレント・ジャパン株式会社 (東京都渋谷区)の企業詳細 - 全国法人...コヒレント・ジャパン株式会社の会社概要・ニュース【2026年時点】| S...コヒレント・ジャパン株式会社 - 会社概要 — Aug 2, 2025 · 1981年06月11日に設立され、代表取締役 モンロー 清海が社長/代表を務める法人番号2010601024774のコヒレント・ジャパン株式会社の住所/地図、業種、売上/利益/資本金、電話番号、サイト情報、求人を始め、全国法人リストでは全国500万件の様々な企業/法人の ... Sep 18, 2026 · コヒレント・ジャパン株式会社の会社概要・法人情報。ニュース・PRも確認できます。所在地は東京都渋谷区、正社員規模（推定）は約88名。SalesNow DBで企業データを無料で確認。 企業プロフィール 企業名 コヒレント・ジャパン株式会社 企業名かな こひーれん」（https://houjin.jp/c/2010601024774・3回目）
+  - 「コヒレント・ジャパン株式会社の決算公告・子会社・関連会社情報 | 官... — Jul 6, 2026 · コヒレント・ジャパン株式会社の会社情報を掲載しています。社会保険被保険者数は91人です。コヒレント・ジャパン株式会社の子会社・関連会社1社の情報も掲載しています。所在地は東京都渋谷区代々木2丁目1番1号です。」（https://catr.jp/companies/9c497/243193・3回目）
+  - 「コヒレント・ジャパン株式会社 | 合併公告(2025年5月27日掲載) | 開示... — May 27, 2025 · コヒレント・ジャパン株式会社の合併公告。コヒレント・ジャパン株式会社がツーシックスジャパン株式会社を吸収合併し、同社は解散。ツーシックスジャパン株式会社の登記記録は2025年7月1日に閉鎖 (国税庁)。東京都・卸売業，小売業。出典: 官報 (PDL1.0)」（https://kaijiwire.jp/gappei/01a07dd4-3498-7f33-bd3b-f674fccb5e68・3回目）
+  - 「コヒレント・ジャパンの企業概要・売上・業績など｜Yahoo!しごとカタ... — コヒレント・ジャパン株式会社の 会社概要 代表者名 手嶋登志夫 業界 商社 設立 1981年6月 本店所在地 東京都渋谷区代々木2丁目1番1号 従業員数 80人 企業URL https://www.coherent.com/ja」（https://jobcatalog.yahoo.co.jp/company/1100017191/information/・3回目）
+  - 「コヒレント・ジャパン株式会社 - その他専門商社業界の会社の企業情報... — コヒレント・ジャパン株式会社の企業情報ページ。その他専門商社業界の会社・従業員数88名。事業内容・役員・連絡先をBaseconnectで確認できます。」（https://baseconnect.in/companies/a2a3c7d2-4ab7-4626-b585-7c67b32fe602・3回目）
+  - 「コヒレント・ジャパン株式会社の決算公告・財務情報 | 開示ワイヤー — ファクトシート 法人番号 2010601024774 ふりがな コヒレントジャパン 本店所在地 〒151-0053 東京都渋谷区代々木2丁目1番1号 設立 1981年6月11日 代表者 代表取締役 手嶋 登志夫 従業員数 83人 被保険者数 88人 上場区分 非上場 業種 卸売・小売業」（https://kaijiwire.jp/companies/2010601024774・3回目）
+  - 「コヒレント・ジャパン株式会社（東京都）の会社概要・役員 | Compalyz... — 〒151-0053 東京都渋谷区に本社を置くコヒレント・ジャパン株式会社の企業情報。 コヒレント・ジャパン株式会社は、同社が属するCoherentグループの日本法人として、産業、通信、エレクトロニクス。」（https://compalyze.co.jp/company/2010601024774・3回目）
+- 事業内容：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部21頁・検索14回）
+- 資本金：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部21頁・検索14回）
+- 創業年度：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部21頁・検索14回）
+- 従業員数：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部21頁・検索14回）
+- 売上高：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部21頁・検索14回）
+- 株主：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部21頁・検索14回）
+- 所在地：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部21頁・検索14回）
+- 保有設備：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部21頁・検索14回）
+
 ## コムネット株式会社
 - 公式URL：https://www.comnet-network.co.jp/（search:ddgs:bing:コムネット）
 - 事業内容：□ レーザー装置の輸入販売及び保守 □ レーザーサプライ商品の輸入販売 □ システム開発 □ アプリケーションソフトウェア開発 □ 画像処理、CADソフトウェア開発 □ オフショア開発（https://www.comnet-network.co.jp/company/・1回目）
@@ -1287,6 +1589,38 @@
 - 保有設備：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部18頁・検索14回）
 - 資本金・株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部18頁・検索14回）
 
+## ペンシルバニア州立大学
+- 公式URL：特定できず（not_found）
+- 金属AM装置の保有（型番・製造元・台数・導入年）：
+  - 「・Politics & International Studies (incl Development Studies)」（https://japanstudyabroad.org/partner_university/3379/・3回目）
+  - 「ペンシルベニア州立大学は、LightSPEE3Dコールドスプレー金属3Dプリンターへの最新の投資により、アディティブ・マニュファクチャリング（AM）能力の向上を図る」（https://www.spee3d.com/ja/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%90%E3%83%8B%E3%82%A2%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6%E3%81%8C%E4%B8%96%E7%95%8C%E3%82%92%E3%83%AA%E3%83%BC%E3%83%89%E3%81%99%E3%82%8Bspee3d%E9%87%91/・3回目）
+  - 「「SPEE3Dとの協力は、金属積層造形とコールドスプレーにおける当社の現在の能力に加えられる素晴らしいものです」（https://www.spee3d.com/ja/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%90%E3%83%8B%E3%82%A2%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6%E3%81%8C%E4%B8%96%E7%95%8C%E3%82%92%E3%83%AA%E3%83%BC%E3%83%89%E3%81%99%E3%82%8Bspee3d%E9%87%91/・3回目）
+  - 「SPEE3Dのハイテク金属3Dプリンターは、従来の金属3Dプリンティング手法の100倍から1000倍の超音速で動作します」（https://www.spee3d.com/ja/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%90%E3%83%8B%E3%82%A2%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6%E3%81%8C%E4%B8%96%E7%95%8C%E3%82%92%E3%83%AA%E3%83%BC%E3%83%89%E3%81%99%E3%82%8Bspee3d%E9%87%91/・3回目）
+  - 「これらの金属3Dプリンターはコールドスプレー技術を活用し、工業用品質の金属部品を数日または数週間ではなく、わずか数分で製造することができます」（https://www.spee3d.com/ja/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%90%E3%83%8B%E3%82%A2%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6%E3%81%8C%E4%B8%96%E7%95%8C%E3%82%92%E3%83%AA%E3%83%BC%E3%83%89%E3%81%99%E3%82%8Bspee3d%E9%87%91/・3回目）
+  - 「SPEE3Dの金属3Dプリンターは、世界最速かつ最も経済的な積層造形が可能です」（https://www.spee3d.com/ja/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%90%E3%83%8B%E3%82%A2%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6%E3%81%8C%E4%B8%96%E7%95%8C%E3%82%92%E3%83%AA%E3%83%BC%E3%83%89%E3%81%99%E3%82%8Bspee3d%E9%87%91/・3回目）
+  - 「「NAVSEAは、コールドスプレーと金属積層造形のギャップを埋めるSPEE3D技術の可能性に興奮しています」（https://www.spee3d.com/ja/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%90%E3%83%8B%E3%82%A2%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6%E3%81%8C%E4%B8%96%E7%95%8C%E3%82%92%E3%83%AA%E3%83%BC%E3%83%89%E3%81%99%E3%82%8Bspee3d%E9%87%91/・3回目）
+  - 「「当社のLightSPEE3D金属3Dプリンターがペンシルバニア州立大学の応用研究所に設置されることは、SPEE3Dにとって非常にエキサイティングなことです」（https://www.spee3d.com/ja/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%90%E3%83%8B%E3%82%A2%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6%E3%81%8C%E4%B8%96%E7%95%8C%E3%82%92%E3%83%AA%E3%83%BC%E3%83%89%E3%81%99%E3%82%8Bspee3d%E9%87%91/・3回目）
+  - 「SPEE3DのLightSPEE3D金属3Dプリンタがペンシルバニア州立大学の新しいツールになる」（https://www.spee3d.com/ja/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%90%E3%83%8B%E3%82%A2%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6%E3%81%8C%E4%B8%96%E7%95%8C%E3%82%92%E3%83%AA%E3%83%BC%E3%83%89%E3%81%99%E3%82%8Bspee3d%E9%87%91/・3回目）
+  - 「お客様の金属積層造形アプリケーションを実現するお手伝いをする準備が整っています」（https://www.spee3d.com/ja/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%90%E3%83%8B%E3%82%A2%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6%E3%81%8C%E4%B8%96%E7%95%8C%E3%82%92%E3%83%AA%E3%83%BC%E3%83%89%E3%81%99%E3%82%8Bspee3d%E9%87%91/・3回目）
+- 使っている金属粉（材質）：
+  - 「レスリングフリースタイルフェザー級銅メダル獲得」（https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%99%E3%83%8B%E3%82%A2%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6・3回目）
+- 用途・客の産業：
+  - 「13の学部があり、特に航空宇宙工学、物質工学、経営工学での実績はめざましく、アメリカ屈指の名門工学大学の１つとして世界的に評価をされています」（https://japanstudyabroad.org/partner_university/3379/・3回目）
+  - 「誌の大学ランキングでは、同校は全米の公立大学の中で第14位にランクされており、さらに同誌の2016年版専攻別ランキングでは工学部全体で全米18位、航空宇宙工学で全米16位、物質工学で全米10位、生産技術(経営工学)では全米9位と、アメリカ屈指の名門工科大学の1つとされる」（https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%99%E3%83%8B%E3%82%A2%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6・3回目）
+  - 「エネルギー技術研究所 (NETL) に長年勤務し、様々なシニアポストに就任した」（https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%99%E3%83%8B%E3%82%A2%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6・3回目）
+- 検索結果の抜粋：
+  - 「ペンシルバニア州立大学 - JSAF — ペンシルバニア州立大学 - JSAF japanstudyabroad.org https://japanstudyabroad.org > JSAF海外協定大学」（https://japanstudyabroad.org/partner_university/3379/・3回目）
+  - 「ペンシルバニア州立大学 が世界をリードするSPEE3Dの 金属 ... — ペンシルバニア州立大学 が世界をリードするSPEE3Dの 金属 ... SPEE3D Metal Printing https://www.spee3d.com > ペンシルバニア州立大学が世...」（https://www.spee3d.com/ja/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%90%E3%83%8B%E3%82%A2%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6%E3%81%8C%E4%B8%96%E7%95%8C%E3%82%92%E3%83%AA%E3%83%BC%E3%83%89%E3%81%99%E3%82%8Bspee3d%E9%87%91/・3回目）
+- 事業内容：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部18頁・検索14回）
+- 資本金：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部18頁・検索14回）
+- 創業年度：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部18頁・検索14回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部18頁・検索14回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部18頁・検索14回）
+- 株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部18頁・検索14回）
+- 所在地：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部18頁・検索14回）
+- 保有設備：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部18頁・検索14回）
+- 資本金・株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部18頁・検索14回）
+
 ## ペンシルベニア州立大学
 - 公式URL：特定できず（not_found）
 - 金属AM装置の保有（型番・製造元・台数・導入年）：
@@ -1416,6 +1750,80 @@
 - 株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部17頁・検索14回）
 - 所在地：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部17頁・検索14回）
 - 保有設備：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部17頁・検索14回）
+
+## 三菱重工工作機械株式会社
+- 公式URL：特定できず（not_found）
+- 金属AM装置の保有（型番・製造元・台数・導入年）：
+  - 「三菱重工工作機械、金属3Dプリンターの造形サービスを拡大BJT方式の新規採用で多様な造形物への対応を可能に | 三菱重工」（https://www.mhi.com/jp/news/210708.html・3回目）
+  - 「三菱重工工作機械、金属3Dプリンターの造形サービスを拡大」（https://www.mhi.com/jp/news/210708.html・3回目）
+  - 「デジタルメタル社製「DMP2500」」（https://www.mhi.com/jp/news/210708.html・3回目）
+  - 「三菱重工グループの三菱重工工作機械株式会社（社長：若林 謙一、本社：滋賀県栗東市）は、レーザー金属積層造形技術を用いた"金属3D（三次元）プリンター"の試作や受託生産などといった造形サービスを7月15日から拡大します」（https://www.mhi.com/jp/news/210708.html・3回目）
+  - 「従来の大型造形物向けデポジション（DED）方式（注1）の金属3Dプリンターに加え、新たに小型造形物向けバインダージェット（BJT）方式（注2）の金属3Dプリンターをサービスラインアップに追加することで、1mmサイズの小型部品から1mを超える超大型部品まで幅広い造形物の製作に対応します」（https://www.mhi.com/jp/news/210708.html・3回目）
+  - 「三菱重工工作機械が新たに導入するのは、デジタルメタル社製の金属3Ｄプリンター「DMP2500」です」（https://www.mhi.com/jp/news/210708.html・3回目）
+  - 「これまで、独自のDED方式を採用した“LAMDAシリーズ”による造形サービスを提供してきましたが、特長が異なる方式の装置を導入することで幅広い造形ニーズに応え、造形物に応じた最適な製造法および装置の提案・提供が可能となります」（https://www.mhi.com/jp/news/210708.html・3回目）
+  - 「また、デジタルメタル社との間では、DMP2500をはじめとした同社製金属3Dプリンターの国内販売契約を2020年7月に締結しています」（https://www.mhi.com/jp/news/210708.html・3回目）
+  - 「DED方式金属3Dプリンターに加えてBJT方式金属3Dプリンターも三菱重工工作機械の販売ラインアップに追加することで、本装置導入後のアフターサービスにも幅広く対応していきます」（https://www.mhi.com/jp/news/210708.html・3回目）
+  - 「金属3Dプリンターは製造プロセスを革新すると注目される一方で、製造物の製作難易度が高いことや品質保証などが課題になっています」（https://www.mhi.com/jp/news/210708.html・3回目）
+  - 「■DMP2500の概要」（https://www.mhi.com/jp/news/210708.html・3回目）
+  - 「金属3Dプリンタ試作・造形サービス」（https://www.mhi.com/jp/news/210708.html・3回目）
+- 使っている金属粉（材質）：
+  - 「指向性エネルギー堆積法（Direct Energy Deposition：DED）と言われ、熱エネルギーの集中を利用し、金属粉末材料をピンポイントで連続的にレーザー溶融点にノズル供給する積層造形プロセスです」（https://www.mhi.com/jp/news/210708.html・3回目）
+  - 「バインダージェット（Binder Jetting：BJT）と言われ、平らに敷き詰めた金属粉末にノズルから選択的に結合剤（バインダー）を噴射して固形化する方式です」（https://www.mhi.com/jp/news/210708.html・3回目）
+  - 「3Dプリンターで使える金属材料は？ステンレスやアルミニウムなど種類と特徴を解説」（https://news.sharelab.jp/tag/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0/・3回目）
+  - 「粉末床溶融結合法 / PBF（Powder Bed Fusion）を解説！SLS方式、SLM方式と何が違う？」（https://news.sharelab.jp/tag/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0/・3回目）
+  - 「DED方式とは、 指向性エネルギー堆積法（Direct Energy Deposition）と言われ、熱エネルギーの集中を利用し、金属粉末材料をピンポイントで連続的にレーザー溶融点にノズル供給する積層造形プロセスです」（https://cad-kenkyujo.com/dmp2500/・3回目）
+  - 「BJT方式とは、バインダージェット（Binder Jetting）と言われ、平らに敷き詰めた金属粉末にノズルから選択的に結合剤（バインダー）を噴射して固形化する方式です」（https://cad-kenkyujo.com/dmp2500/・3回目）
+  - 「当社開発装置は積層造形機能と機械加工機能とを備えたハイブリッド型の装置であり,造形中のプロセスモニタリング機能や,シールド性を高めた粉末供給ノズルを適用することで,高能率,高精度な積層造形が実現可能である」（https://www.mhi.com/jp/technology/review/abstract-55-3-90・3回目）
+  - 「◆ チタンやニッケル基合金など多様な素材の高速・高精度造形を実現、大型部品にも対応」（https://www.mhi.com/jp/news/190516.html・3回目）
+  - 「金属粉末をタンク（ベッド）に敷き詰めて造形する方式（パウダーべッド方式）に比べ10倍以上造形速度が速く、金属粉末のタンクを使用しないため、パウダーベッド方式では不可能な大型造形もできます」（https://www.mhi.com/jp/news/190516.html・3回目）
+  - 「ローカルシールド機能はチャンバーを使用せずに、チタンやアルミニウムといった酸化を嫌う材料の大気環境における造形を可能とします」（https://www.mhi.com/jp/news/190516.html・3回目）
+- 用途・客の産業：
+  - 「◆ 造形物の早期実用化と量産化に向けた積層造形ソリューションを提供」（https://www.mhi.com/jp/news/210708.html・3回目）
+  - 「三菱重工グループの三菱重工工作機械株式会社（社長：若林 謙一、本社：滋賀県栗東市）は、レーザー金属積層造形技術を用いた"金属3D（三次元）プリンター"の試作や受託生産などといった造形サービスを7月15日から拡大します」（https://www.mhi.com/jp/news/210708.html・3回目）
+  - 「本装置が採用するBJT方式は非常に精緻な造形が可能である上、量産志向が高いという特長を持っています」（https://www.mhi.com/jp/news/210708.html・3回目）
+  - 「三菱重工工作機械は、小型精密から超大型までの造形サービス体制を整え、幅広いニーズの試作や受託生産に対応することにより、金属3Ｄプリンターを活用した部品製造への参入を促し、産業界のサプライチェーン全体に貢献していきます」（https://www.mhi.com/jp/news/210708.html・3回目）
+  - 「指向性エネルギー堆積法（Direct Energy Deposition：DED）と言われ、熱エネルギーの集中を利用し、金属粉末材料をピンポイントで連続的にレーザー溶融点にノズル供給する積層造形プロセスです」（https://www.mhi.com/jp/news/210708.html・3回目）
+  - 「金属3Dプリンタ試作・造形サービス」（https://www.mhi.com/jp/news/210708.html・3回目）
+  - 「自動車（80）」（https://news.sharelab.jp/tag/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0/・3回目）
+  - 「航空宇宙（74）」（https://news.sharelab.jp/tag/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0/・3回目）
+  - 「医療（168）」（https://news.sharelab.jp/tag/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0/・3回目）
+  - 「三菱重工グループの三菱重工工作機械株式会社（以下、三菱重工工作機械）は、レーザー金属積層造形技術を用いた金属3Dプリンターの試作や受託生産などといった造形サービ…」（https://news.sharelab.jp/tag/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0/・3回目）
+  - 「指向性エネルギー堆積法 / DED（Direct Energy Deposition）を解説！WAAM方式と何が違う？」（https://news.sharelab.jp/tag/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0/・3回目）
+  - 「自動車業界で活躍する3Dプリンター製の治具・工具」（https://news.sharelab.jp/tag/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0/・3回目）
+- 資本金・株主：
+  - 「日本電産マシンツールの親会社である日本電産は2021年2月、三菱重工業グルー…」（https://news.sharelab.jp/tag/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0/・3回目）
+  - 「三菱重工業(株)(以下,三菱重工)は2015年10月1日、当社の営む工作機械事業を,当社の100%出資子会社である三菱重工工作機械販売(株)に承継させる会社分割により,当社100%出資子会社となる事業会社として三菱重工工作機械(株)を設立した」（https://www.mhi.com/jp/technology/review/abstract-52-4-92・3回目）
+  - 「当社工作機械事業の会社分割による連結子会社への承継に係る吸収分割契約の締結に関するお知らせ | 三菱重工」（https://www.mhi.com/jp/news/1507315668.html・3回目）
+  - 「当社工作機械事業の会社分割による連結子会社への承継に係る吸収分割契約の締結に関するお知らせ」（https://www.mhi.com/jp/news/1507315668.html・3回目）
+  - 「当社工作機械事業の会社分割による連結子会社への承継に係る」（https://www.mhi.com/jp/news/1507315668.html・3回目）
+  - 「三菱重工業は、平成27年5月26日に公表いたしました、当社が営む工作機械事業を当社の100％出資子会社である三菱重工工作機械販売株式会社に承継させる会社分割につきまして、本日、吸収分割契約を締結することを決定いたしましたので、別添のとおりお知らせいたします」（https://www.mhi.com/jp/news/1507315668.html・3回目）
+  - 「なお、本件分割は、100％出資子会社への会社分割であるため、開示事項・内容を一部省略しています」（https://www.mhi.com/jp/news/1507315668.html・3回目）
+  - 「1950年5月29日上場」（https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD・3回目）
+  - 「1950年8月29日上場」（https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD・3回目）
+  - 「1949年7月1日上場」（https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD・3回目）
+  - 「1950年6月1日上場」（https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD・3回目）
+  - 「3月 - ニチユ三菱フォークリフトの全株式を、完全子会社である」（https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD・3回目）
+- 検索結果の抜粋：
+  - 「三菱重工工作機械 株式 会社 の株式取得に関する譲渡契約締結の ... — 三菱重工工作機械 株式 会社 の株式取得に関する譲渡契約締結の ... NIDEC CORPORATION PDF https://www.nidec.com > topics > 34669_ext_3_0」（https://www.nidec.com/v=1777371523/files/topics/34669_ext_3_0.pdf・3回目）
+  - 「三菱重工工作機械 、 金属3Dプリンター の造形サービスを拡大 ... — 三菱重工工作機械 、 金属3Dプリンター の造形サービスを拡大 ... Mitsubishi Heavy Industries, Ltd. https://www.mhi.com > news」（https://www.mhi.com/jp/news/210708.html・3回目）
+  - 「三菱重工工作機械 に関する記事一覧 - ShareLab NEWS — 三菱重工工作機械 に関する記事一覧 - ShareLab NEWS ShareLab NEWS https://news.sharelab.jp > tag > 三菱重工工作機械」（https://news.sharelab.jp/tag/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0/・3回目）
+  - 「三菱重工工作機械 が 金属3Dプリンター の造形サービスを拡大 ... — 三菱重工工作機械 が 金属3Dプリンター の造形サービスを拡大 ... キャド研 https://cad-kenkyujo.com > dmp2500」（https://cad-kenkyujo.com/dmp2500/・3回目）
+  - 「三菱重工工作機械 様 Digital Metal 導入 で 3Dプリンタ ... - イプロス — 三菱重工工作機械 様 Digital Metal 導入 で 3Dプリンタ ... - イプロス 製造業向け情報検索サイト イプロスものづくり https://pr.mono.ipros.com > ... > ニュース > 製品ニュース」（https://pr.mono.ipros.com/hoganas/news/detail/78750/・3回目）
+  - 「三菱重工工作機械 3Dプリンタ 受託サービス拡大 - 神戸 島根 ... — 三菱重工工作機械 3Dプリンタ 受託サービス拡大 - 神戸 島根 ... mandai-inc.co.jp https://www.mandai-inc.co.jp > ホーム > 時事」（https://www.mandai-inc.co.jp/blog/2021/08/04/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%E3%80%80%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E5%8F%97%E8%A8%97%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E6%8B%A1%E5%A4%A7/・3回目）
+  - 「三菱重工工作機械 、 金属 3Dプリンターの 造形 サービスを拡大 ... — 三菱重工工作機械 、 金属 3Dプリンターの 造形 サービスを拡大 ... Mitsubishi Heavy Industries, Ltd. https://www.mhi.com > news」（https://www.mhi.com/jp/news/210708.html・3回目）
+  - 「三菱重工工作機械 、最新の 金属 3D 積層造形 技術を米国見本市 ... — 三菱重工工作機械 、最新の 金属 3D 積層造形 技術を米国見本市 ... Mitsubishi Heavy Industries, Ltd. https://www.mhi.com > news」（https://www.mhi.com/jp/news/190516.html・3回目）
+  - 「三菱重工工作機械 が 金属 3Dプリンターの 造形 サービスを拡大 ... — 三菱重工工作機械 が 金属 3Dプリンターの 造形 サービスを拡大 ... キャド研 https://cad-kenkyujo.com > dmp2500」（https://cad-kenkyujo.com/dmp2500/・3回目）
+  - 「グローバル市場での競争力強化に向けて, 三菱重工工作機械 (株 ... — グローバル市場での競争力強化に向けて, 三菱重工工作機械 (株 ... Mitsubishi Heavy Industries, Ltd. https://www.mhi.com > review > abstract-52-4-92」（https://www.mhi.com/jp/technology/review/abstract-52-4-92・3回目）
+  - 「三菱重工工作機械 株式会社の株式取得に関する譲渡契約締結の ... — 三菱重工工作機械 株式会社の株式取得に関する譲渡契約締結の ... NIDEC CORPORATION PDF https://www.nidec.com > topics > 34669_ext_3_0」（https://www.nidec.com/v=1777371523/files/topics/34669_ext_3_0.pdf・3回目）
+  - 「日本電産、 三菱重工工作機械 を買収へ — 日本電産、 三菱重工工作機械 を買収へ グローバルネット https://global-net.co.jp > archives」（https://global-net.co.jp/archives/2482・3回目）
+- 事業内容：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部19頁・検索14回）
+- 資本金：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部19頁・検索14回）
+- 創業年度：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部19頁・検索14回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部19頁・検索14回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部19頁・検索14回）
+- 株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部19頁・検索14回）
+- 所在地：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部19頁・検索14回）
+- 保有設備：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部19頁・検索14回）
 
 ## 中央可鍛工業株式会社
 - 公式URL：https://chuokatan.co.jp/（search:yahoo_jp:中央可鍛工業）
@@ -1566,6 +1974,21 @@
 - 売上高：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部15頁・検索12回）
 - 株主：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部15頁・検索12回）
 - 保有設備：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部15頁・検索12回）
+
+## 公設試験研究所
+- 公式URL：特定できず（not_found）
+- 事業内容：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 資本金：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 創業年度：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 所在地：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 保有設備：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 金属AM装置の保有（型番・製造元・台数・導入年）：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 使っている金属粉（材質）：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 用途・客の産業：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 資本金・株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
 
 ## 兵庫県立大学
 - 公式URL：https://www.u-hyogo.ac.jp/（search:ddgs:google:兵庫県立大学）
@@ -1927,6 +2350,66 @@
   - 「双日 、「ロイヤルホスト」や「てんや」を展開するロイヤル ... — 双日 、「ロイヤルホスト」や「てんや」を展開するロイヤル ... 双日株式会社 https://www.sojitz.com > ホーム > ニュースルーム」（https://www.sojitz.com/jp/news/article/20210215_02.html・3回目）
 - 保有設備：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部23頁・検索12回）
 
+## 合同会社発表
+- 公式URL：特定できず（not_found）
+- 金属AM装置の保有（型番・製造元・台数・導入年）：
+  - 「金属3Dプリンターが日本のものづくりを変える — 量産活用の最前線2026 | 3Dプリンタブログ | 3DLab」（https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026・3回目）
+  - 「金属3Dプリンターが日本のものづくりを変える — 量産活用の最前線2026」（https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026・3回目）
+  - 「金属3Dプリンターが、いま日本の製造業を目立たないところで大きく変えつつあります」（https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026・3回目）
+  - 「日本経済新聞が2025年11月に「金属3Dプリンター、ブーム再来の兆し」と報じたことも記憶に新しいところです」（https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026・3回目）
+  - 「この記事では、自動車・航空宇宙・医療の3分野で国内の導入事例を紹介しながら、コストが下がって中小企業にも手が届くようになってきた現状をまとめます」（https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026・3回目）
+  - 「金属3Dプリンターとは？ — 従来工法との違い」（https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026・3回目）
+  - 「金属3Dプリンター（金属AM＝アディティブマニュファクチャリング）は、金属の粉末やワイヤを材料に、3Dデータから直接金属部品を造形する製造技術です」（https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026・3回目）
+  - 「主な造形方式には、金属粉末をレーザーで焼結するPBF方式（Powder Bed Fusion）、金属粉末やワイヤをノズルから送りながら溶かすDED方式（Directed Energy Deposition）、金属粉末にバインダー（接着剤）を噴射して固めるバインダージェット方式などがあります」（https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026・3回目）
+  - 「自動車業界で金属3Dプリンターの活用を引っ張っているのがホンダです」（https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026・3回目）
+  - 「航空宇宙分野 — ニコンの新拠点とH3ロケットへの適用」（https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026・3回目）
+  - 「航空宇宙分野は、金属3Dプリンターがいち早く実用化された領域です」（https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026・3回目）
+  - 「2025年2月、ニコンは埼玉県行田市に「Nikon AM Technology Center Japan」を開設しました」（https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026・3回目）
+- 使っている金属粉（材質）：
+  - 「金属3Dプリンター（金属AM＝アディティブマニュファクチャリング）は、金属の粉末やワイヤを材料に、3Dデータから直接金属部品を造形する製造技術です」（https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026・3回目）
+  - 「主な造形方式には、金属粉末をレーザーで焼結するPBF方式（Powder Bed Fusion）、金属粉末やワイヤをノズルから送りながら溶かすDED方式（Directed Energy Deposition）、金属粉末にバインダー（接着剤）を噴射して固めるバインダージェット方式などがあります」（https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026・3回目）
+  - 「ピストンは従来のアルミ鍛造から鉄に材料を変え、金属AMならではの形状の最適化で従来品より軽くしています」（https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026・3回目）
+  - 「タービンハウジングには耐熱性の高いニッケル基合金「インコネル」を使い、従来の製造技術では作れなかった複雑で薄い形状への仕様変更にもすぐ対応できるようになりました」（https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026・3回目）
+  - 「しかし近年はワイヤ方式の金属3Dプリンターが登場し、従来の粉末方式に比べて材料費と本体価格の両方を大幅に抑えられるようになっています」（https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026・3回目）
+  - 「C103 はニオブを主成分とし、ハフニウムとチタンを配合したニオブ系合金で、極めて高温の環境や航空宇宙用途向けに設計されています」（https://prtimes.jp/main/html/rd/p/000000015.000102537.html・3回目）
+  - 「この超低酸素環境により、粉末の再利用率が非常に高くなるとともに、金属の化学組成を厳密に制御し、優れた表面仕上げを実現できます」（https://prtimes.jp/main/html/rd/p/000000015.000102537.html・3回目）
+- 用途・客の産業：
+  - 「金属3Dプリンターが日本のものづくりを変える — 量産活用の最前線2026 | 3Dプリンタブログ | 3DLab」（https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026・3回目）
+  - 「金属3Dプリンターが日本のものづくりを変える — 量産活用の最前線2026」（https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026・3回目）
+  - 「以前は試作や少量生産に限られていたこの技術を、2025年以降は量産品の製造にまで使う企業が増えてきました」（https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026・3回目）
+  - 「この記事では、自動車・航空宇宙・医療の3分野で国内の導入事例を紹介しながら、コストが下がって中小企業にも手が届くようになってきた現状をまとめます」（https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026・3回目）
+  - 「自動車分野 — ホンダのF1パワーユニット部品に見る実力」（https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026・3回目）
+  - 「自動車業界で金属3Dプリンターの活用を引っ張っているのがホンダです」（https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026・3回目）
+  - 「今後は、この技術を量産車にも生かすことが期待されています」（https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026・3回目）
+  - 「航空宇宙分野 — ニコンの新拠点とH3ロケットへの適用」（https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026・3回目）
+  - 「航空宇宙分野は、金属3Dプリンターがいち早く実用化された領域です」（https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026・3回目）
+  - 「業界最先端の大型L-PBF方式プリンター「NXG XII 600」と、ニコン独自の高精度DED方式「Lasermeister LM300A」を備え、アジアの航空・宇宙関連企業に向けて試作品の生産や技術開発のサービスを提供しています」（https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026・3回目）
+  - 「一方、三菱重工がJAXAと連携して開発を進めるH3ロケットのLE-9エンジンでは、12コンポーネント・17部品に金属AM技術を使っていて、試作段階を経て量産に入りました」（https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026・3回目）
+  - 「造形速度を上げ、航空宇宙グレードの複雑な形状を作れるようにする取り組みも進んでいます」（https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026・3回目）
+- 資本金・株主：
+  - 「– 3D Systems (NYSE:DDD) は、The Elmet Group (Nasdaq: ELMT) (「Elmet」) の完全子会社である Elmet Technologies が、 極超音速機向け先進航空宇宙部品の迅速な製造のために、 金属3Dプリンタ「DMP Flex 350 Triple（レーザーパウダーベッド方式）」 を展開する方針であると発表しました」（https://prtimes.jp/main/html/rd/p/000000015.000102537.html・3回目）
+  - 「ジャングリア沖縄、運営会社が89億円の最終赤字 親会社の総会で決算承認、規模縮小と新たな出資者探しで再建へ | MediaDogs」（https://mediadogs.jp/2026/10/31/junglia-okinawa-loss-restructuring/・3回目）
+  - 「ジャングリア沖縄、運営会社が89億円の最終赤字 親会社の総会で決算承認、規模縮小と新たな出資者探しで再建へ」（https://mediadogs.jp/2026/10/31/junglia-okinawa-loss-restructuring/・3回目）
+  - 「ジャングリア沖縄を運営するジャパンエンターテイメントの親会社が10月30日、株主総会の継続会で2026年6月期決算を承認した」（https://mediadogs.jp/2026/10/31/junglia-okinawa-loss-restructuring/・3回目）
+  - 「最終赤字は運営会社が89億円、親会社が約173億円」（https://mediadogs.jp/2026/10/31/junglia-okinawa-loss-restructuring/・3回目）
+  - 「加藤健史CEOは「結果を残せなかった」と述べ、構造改革と新たな出資者探しで2028年6月期の黒字転換を目指す」（https://mediadogs.jp/2026/10/31/junglia-okinawa-loss-restructuring/・3回目）
+  - 「親会社の継続会で決算承認、運営会社の最終赤字は89億円」（https://mediadogs.jp/2026/10/31/junglia-okinawa-loss-restructuring/・3回目）
+  - 「その運営会社ジャパンエンターテイメント（JE、名護市）の親会社、ジャパンエンターテイメントホールディングス（JEHD）が10月30日、那覇市で株主総会の継続会を開き、2026年6月期（2025年7月〜2026年6月）の決算を承認した」（https://mediadogs.jp/2026/10/31/junglia-okinawa-loss-restructuring/・3回目）
+  - 「継続会は、いったん開いた株主総会の議事を日を改めて続ける手続きを指す」（https://mediadogs.jp/2026/10/31/junglia-okinawa-loss-restructuring/・3回目）
+  - 「JEHDは9月25日に定時株主総会を開いたものの、その場では決算の承認に至らず、この日に持ち越していた」（https://mediadogs.jp/2026/10/31/junglia-okinawa-loss-restructuring/・3回目）
+  - 「この日に新しく決まったのは、株主が決算を正式に認めたことと、会見で示された立て直しの計画のほう」（https://mediadogs.jp/2026/10/31/junglia-okinawa-loss-restructuring/・3回目）
+  - 「「将来の財務基盤の強化のために、新たな出資者の獲得に責任を果たしていきたい」とも話している」（https://mediadogs.jp/2026/10/31/junglia-okinawa-loss-restructuring/・3回目）
+- 検索結果の抜粋：
+  - 「【気になったニュース】マスク氏がCNNの親会社に約1,570億円を出資！... — Nov 3, 2026 · 内容は2026年10月24日時点です。 先に結論 確認できたこと:出資を最初に報じたのは米メディアのセマフォーで匿名の関係者の話です。 CNBC、ブルームバーグ、日本経済新聞も同じ内容を伝えています。 ただし会社側の公式発表は、僕が確認した範囲では」（https://note.com/daikiti3/n/nc54820c1644a・3回目）
+- 事業内容：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部26頁・検索14回）
+- 資本金：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部26頁・検索14回）
+- 創業年度：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部26頁・検索14回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部26頁・検索14回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部26頁・検索14回）
+- 株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部26頁・検索14回）
+- 所在地：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部26頁・検索14回）
+- 保有設備：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部26頁・検索14回）
+
 ## 名古屋大学
 - 公式URL：https://www.nagoya-u.ac.jp/（search:yahoo_jp:名古屋大学）
 - 事業内容：T-PRACTISS（https://www.thers.ac.jp/disclosure/finance/index.html・3回目）
@@ -2251,6 +2734,78 @@
   - 「Electron Beam Metal 3D Printer - Welding Machines — Electron Beam Metal 3D Printer - Welding Machines 多田電機 http://www.tadadenki.jp > english > w...」（http://www.tadadenki.jp/english/welding_machines/metal_3d_printer/ez300.html・3回目）
   - 「多田電機 (株)【三菱電機グループ】の会社概要 | マイナビ2027 — 多田電機 (株)【三菱電機グループ】の会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp15954 > outline」（https://job.mynavi.jp/27/pc/search/corp15954/outline.html・3回目）
 - 保有設備：記載なし（3回確認済み：公式12頁／PDF・画像2件／外部9頁・検索12回）
+
+## 大丸鐵興株式会社
+- 公式URL：https://www.daimaru-tekko.co.jp/（search:yahoo_jp:大丸鐵興）
+- 事業内容：： 1.鋼板の大型一貫加工・プレスシャー・溶接組立 2.大型特装車部材製作 3.輸送機・建設機械部材製作 4.立体駐車場部材製作 5.橋梁部材加工，土木・建設部材製作 6.自社ブランドＳＵＳタンク製造 7.ＳＵＳ製バイオディーゼル精製機（ハード部）製造 8.３次元金属積層（https://www.iis-net.or.jp/e-info/kigyou/show?id=9075・3回目）
+- 資本金：70,000,000円（https://www.daimaru-tekko.co.jp/corporation/company/・1回目）
+- 資本金：7,000 万円 社員数 87人（https://ja.nc-net.or.jp/company/104601/・3回目）
+- 資本金：7000万円（https://activation-service.jp/iso/interview/interview15・3回目）
+- 創業年度：設立：1967年2月25日（https://www.daimaru-tekko.co.jp/corporation/company/・1回目）
+- 創業年度：設立：1967年2月（https://activation-service.jp/iso/interview/interview15・3回目）
+- 創業年度：設立：： 昭和42年02月（https://www.iis-net.or.jp/e-info/kigyou/show?id=9075・3回目）
+- 従業員数：87名（https://www.daimaru-tekko.co.jp/corporation/company/・1回目）
+- 従業員数：： 87名（https://www.iis-net.or.jp/e-info/kigyou/show?id=9075・3回目）
+- 所在地：〒306-0432　茨城県猿島郡境町下小橋867-8 TEL：0280-87-8611(代) FAX：0280-87-8617（https://www.daimaru-tekko.co.jp/corporation/company/・1回目）
+- 所在地：日本 茨城県 猿島郡境町 [地図を見る] 担当者 太田 吉彦（https://ja.nc-net.or.jp/company/104601/・3回目）
+- 所在地：〒306-0432 茨城県猿島郡境町下小橋867-8　webサイト：https://www.daimaru-tekko.co.jp/（https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_03/・3回目）
+- 金属AM装置の保有（型番・製造元・台数・導入年）：
+  - 「金属3Dプリンター」（https://www.daimaru-tekko.co.jp/facility/・1回目）
+  - 「金属3Dプリンター」（https://www.daimaru-tekko.co.jp/facility/3d-printer.html・1回目）
+  - 「金属3Dプリンター」（https://www.daimaru-tekko.co.jp/facility/fdm-3d-printer/・1回目）
+  - 「金属3Dプリンター」（https://www.daimaru-tekko.co.jp/news-release/・1回目）
+  - 「二次元ファイバーレーザ加工機「ML3015GX-F80」を導入しました」（https://www.daimaru-tekko.co.jp/news-release/・1回目）
+  - 「横中ぐりフライス盤 KBT-15B.A導入」（https://www.daimaru-tekko.co.jp/news-release/・1回目）
+  - 「門型五面加工機 MVR30-Hx導入」（https://www.daimaru-tekko.co.jp/news-release/・1回目）
+  - 「3次元金属AM機（LAMDA200）導入」（https://www.daimaru-tekko.co.jp/news-release/・1回目）
+  - 「門型五面加工機 MVR35-Ex 導入」（https://www.daimaru-tekko.co.jp/news-release/・1回目）
+  - 「金属3Dプリンター」（https://www.daimaru-tekko.co.jp/facility/twin-2500t-press/・1回目）
+  - 「[ 1号機仕様明細 ]」（https://www.daimaru-tekko.co.jp/facility/twin-2500t-press/・1回目）
+  - 「[ 2号機仕様明細 ]」（https://www.daimaru-tekko.co.jp/facility/twin-2500t-press/・1回目）
+- 使っている金属粉（材質）：
+  - 「複数種の金属粉末をDED（Direct Energy」（https://www.daimaru-tekko.co.jp/facility/metal-3d-printer/・1回目）
+  - 「: インコネル、ステンレス、アルミニウム合金、チタン、マルエージング鋼、ハイス鋼、銅合金、など」（https://www.daimaru-tekko.co.jp/facility/metal-3d-printer/・1回目）
+  - 「ステンレス事業部 SUSタンク諸元表更新しました（2021年6月）」（https://www.daimaru-tekko.co.jp/news-release/・1回目）
+  - 「鋼板はもちろん、ステンレス・アルミ等、」（https://www.daimaru-tekko.co.jp/facility/5000t-press/・1回目）
+  - 「鉄・ステンレス・アルミなど多様な材質に対応し、微細形状から厚板加工まで安定した切断品質を実現します」（https://www.daimaru-tekko.co.jp/facility/laser-ml3015gx/・1回目）
+  - 「各種ステンレス製品の製造や、鋼板の大型一貫加工なら当社におまかせください！」（https://mono.ipros.com/company/detail/2076765/・3回目）
+  - 「大丸鐵興株式会社は、各種ステンレス製品の受託製造サービスや、」（https://mono.ipros.com/company/detail/2076765/・3回目）
+  - 「機械加工の金属加工の製造事業部、ステンレス事業部の2事業部体制で製造を行っております」（https://ja.nc-net.or.jp/company/104601/・3回目）
+  - 「複数種の金属粉末をDED（Direct Energy Deposition)ヘッドで高速造形可能」（https://ja.nc-net.or.jp/company/104601/・3回目）
+  - 「★金属３Dプリンター SUS316L試験片」（https://ja.nc-net.or.jp/company/104601/・3回目）
+  - 「★3次元金属積層 鋳鋼へのマルエージング鋼付加造形」（https://ja.nc-net.or.jp/company/104601/・3回目）
+  - 「★ブレード形状（母材SUS316L、積層SUS316L） 3次元金属積層」（https://ja.nc-net.or.jp/company/104601/・3回目）
+- 用途・客の産業：
+  - 「国際宇宙産業展ISIEX 2026に出展しました」（https://www.daimaru-tekko.co.jp/・1回目）
+  - 「受託造形サービスでは立ち合いによる造形（条件出し）も可能です」（https://www.daimaru-tekko.co.jp/facility/metal-3d-printer/・1回目）
+  - 「国際宇宙産業展ISIEX 2026に出展しました」（https://www.daimaru-tekko.co.jp/news-release/・1回目）
+  - 「量産はもちろん、多品種少量生産にも対応可能で、生産性と汎用性を兼ね備えた一台です」（https://www.daimaru-tekko.co.jp/facility/five-face-processing-machine/・1回目）
+  - 「高速加工によりリードタイムを短縮し、試作・量産を問わず高品質な製品をお届けします」（https://www.daimaru-tekko.co.jp/facility/laser-ml3015gx/・1回目）
+  - 「3次元金属積層 受託造形サービス（立ち合い造形可能）」（https://mono.ipros.com/company/detail/2076765/・3回目）
+  - 「【試作・共同開発】3次元金属積層造形 DED方式」（https://mono.ipros.com/company/detail/2076765/・3回目）
+  - 「金属３Dプリンター 受託造形サービス（立ち合い造形可能）」（https://ja.nc-net.or.jp/company/104601/・3回目）
+  - 「（ 試作開発・少量生産 / ＮＣ機械加工 ）」（https://ja.nc-net.or.jp/company/104601/・3回目）
+  - 「★金属３Dプリンター 受託造形サービス（立ち合い造形可能）」（https://ja.nc-net.or.jp/company/104601/・3回目）
+  - 「肉盛り試験や試作品製作を繰り返しながら、積層造形技術の習得に取り組みました」（https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_03/・3回目）
+  - 「現在では、自動車メーカーや重工業メーカー、建機メーカー、材料メーカーなど幅広い業界との取引を実現」（https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_03/・3回目）
+- 資本金・株主：
+  - 「資本金400万円で東京都足立区千住に大丸鐡興株式会社を設立」（https://www.iis-net.or.jp/e-info/kigyou/show?id=9075・3回目）
+- 検索結果の抜粋：
+  - 「会社概要 - 大丸鐵興 株式会社 — 会社概要 - 大丸鐵興 株式会社 大丸鐵興株式会社 https://www.daimaru-tekko.co.jp > 企業情報」（https://www.daimaru-tekko.co.jp/corporation/company/・3回目）
+  - 「大丸鐵興 | 企業情報 | イプロスものづくり — 大丸鐵興 | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 製造・加工受託」（https://mono.ipros.com/company/detail/2076765/・3回目）
+  - 「大丸鐵興 株式 会社 茨城県 猿島郡境町 - NCネットワーク — 大丸鐵興 株式 会社 茨城県 猿島郡境町 - NCネットワーク エミダス https://ja.nc-net.or.jp > company」（https://ja.nc-net.or.jp/company/104601/・3回目）
+  - 「社員の成長＝ 会社 の成長！80名にISOを浸透させた 大丸鐵興 の ... — 社員の成長＝ 会社 の成長！80名にISOを浸透させた 大丸鐵興 の ... activation-service.jp https://activation-service.jp > HOME > ISOプロが訊く」（https://activation-service.jp/iso/interview/interview15・3回目）
+  - 「3次元 金属 積層 LAMDA200 - 大丸鐵興 株式会社 — 3次元 金属 積層 LAMDA200 - 大丸鐵興 株式会社 大丸鐵興株式会社 https://www.daimaru-tekko.co.jp > 3Dプリンター」（https://www.daimaru-tekko.co.jp/facility/metal-3d-printer/・3回目）
+  - 「無料DL 金属3Dプリンター SUS316L試験片 - 大丸鐵興 株式会社 — 無料DL 金属3Dプリンター SUS316L試験片 - 大丸鐵興 株式会社 エミダス https://ja.nc-net.or.jp > company > product > detail」（https://ja.nc-net.or.jp/company/104601/product/detail/227489/・3回目）
+  - 「3次元 金属積層 LAMDA200 - 大丸鐵興 株式会社 — 3次元 金属積層 LAMDA200 - 大丸鐵興 株式会社 大丸鐵興株式会社 https://www.daimaru-tekko.co.jp > 3Dプリンター」（https://www.daimaru-tekko.co.jp/facility/metal-3d-printer/・3回目）
+  - 「金属 3Dプリンター事業への挑戦！ 大丸鐵興 株式会社「LAMDA ... — 金属 3Dプリンター事業への挑戦！ 大丸鐵興 株式会社「LAMDA ... YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=ttcYkpCbqG4・3回目）
+  - 「設備 - 大丸鐵興 株式会社 茨城県 猿島郡境町 - NCネットワーク — 設備 - 大丸鐵興 株式会社 茨城県 猿島郡境町 - NCネットワーク エミダス https://ja.nc-net.or.jp > company > equipment」（https://ja.nc-net.or.jp/company/104601/equipment/・3回目）
+  - 「3次元 金属積層 受託 造形 サービス（立ち合い 造形 可能） 大丸鐵興 — 3次元 金属積層 受託 造形 サービス（立ち合い 造形 可能） 大丸鐵興 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > ... > 受託サービス > 加工受託」（https://mono.ipros.com/product/detail/2000981136/・3回目）
+  - 「3D 金属積層 造形 立ち合い - 大丸鐵興 株式会社 — 3D 金属積層 造形 立ち合い - 大丸鐵興 株式会社 大丸鐵興株式会社 https://www.daimaru-tekko.co.jp > 3次元金属積層」（https://www.daimaru-tekko.co.jp/facility/metal-3d-printer/3d-metal-printing-witness.html・3回目）
+  - 「大型・大物加工の一貫生産 - 大丸鐵興 株式会社 — 大型・大物加工の一貫生産 - 大丸鐵興 株式会社 大丸鐵興株式会社 https://www.daimaru-tekko.co.jp」（https://www.daimaru-tekko.co.jp/・3回目）
+- 売上高：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部12頁・検索12回）
+- 株主：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部12頁・検索12回）
+- 保有設備：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部12頁・検索12回）
 
 ## 大阪冶金興業株式会社
 - 公式URL：https://www.osakayakin.co.jp/（search:yahoo_jp:大阪冶金興業）
@@ -2682,6 +3237,62 @@
 - 株主：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部24頁・検索12回）
 - 保有設備：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部24頁・検索12回）
 
+## 山口県産業技術センター
+- 公式URL：https://www.iti-yamaguchi.or.jp/（search:yahoo_jp:山口県産業技術センター）
+- 金属AM装置の保有（型番・製造元・台数・導入年）：
+  - 「【技術支援成果】金属積層造形による鋳造彫刻用金型の製作」（https://www.iti-yamaguchi.or.jp/・1回目）
+  - 「【特許情報】 知的財産権の保有・出願状況（令和４年３月３１日現在）」（https://www.iti-yamaguchi.or.jp/・1回目）
+  - 「【特許情報】 知的財産権の保有・出願状況（令和３年１０月３１日現在）」（https://www.iti-yamaguchi.or.jp/・1回目）
+  - 「【特許情報】 知的財産権の保有・出願状況（令和３年３月３１日現在）」（https://www.iti-yamaguchi.or.jp/・1回目）
+  - 「地方独立行政法人山口県産業技術センターでは、各種の試験・計測機器をはじめとする多くの研究機器を保有しております」（https://www.iti-yamaguchi.or.jp/equipment/・1回目）
+  - 「Plastics Industry Development Center（台湾）と了解覚書締結」（https://www.iti-yamaguchi.or.jp/history/・1回目）
+  - 「はじめとする多くの研究機器を保有しております」（https://www.iti-yamaguchi.or.jp/_files/00052948/20250401_kaihoukikiannai.pdf・2回目）
+  - 「機械設計支援システム（金属積層造形） 時間 540 オートクレーブ 時間 450」（https://www.iti-yamaguchi.or.jp/_files/00057332/20260701_kaihoukiki.pdf・2回目）
+  - 「金属積層造形機 時間 3,760 食品加工」（https://www.iti-yamaguchi.or.jp/_files/00057332/20260701_kaihoukiki.pdf・2回目）
+  - 「機械設計支援システム（金属積層造形） | やまぐちファシリティネットワーク」（https://ds.cc.yamaguchi-u.ac.jp/~yfnet/equipment/253/・3回目）
+  - 「金属積層造形で生じる変形による造形不良を回避するため、造形姿勢やサポートの配置などを事前に検討するためのシミュレーションソフトウェア」（https://ds.cc.yamaguchi-u.ac.jp/~yfnet/equipment/253/・3回目）
+  - 「固有ひずみ法（メカニカル）、熱解析（サーマル）、熱構造解析（サーモ・メカニカル）による金属積層造形」（https://ds.cc.yamaguchi-u.ac.jp/~yfnet/equipment/253/・3回目）
+- 使っている金属粉（材質）：
+  - 「粉末焼結式樹脂造形機◎ 時間 6,350」（https://www.iti-yamaguchi.or.jp/_files/00057332/20260701_kaihoukiki.pdf・2回目）
+- 用途・客の産業：
+  - 「【お知らせ】コーディネータ（半導体マテリアル分野）の募集について」（https://www.iti-yamaguchi.or.jp/・1回目）
+  - 「【行事予定】令和８年度「医療セミナー」を開催します (開催日:令和8年11月26日(木)13:30～16:30)」（https://www.iti-yamaguchi.or.jp/・1回目）
+  - 「【行事予定】「環境・エネルギー研究会セミナー」を開催します (開催日:令和8年12月2日(水)13:10～17:15)」（https://www.iti-yamaguchi.or.jp/・1回目）
+  - 「【お知らせ】首都圏展示会「再生医療JAPAN２０２６」への出展について」（https://www.iti-yamaguchi.or.jp/・1回目）
+  - 「【行事予定】「半導体・蓄電池関連技術セミナー」を開催します（開催日時:令和8年9月16日(水)13:30～16:30）」（https://www.iti-yamaguchi.or.jp/・1回目）
+  - 「【技術支援成果】金属積層造形による鋳造彫刻用金型の製作」（https://www.iti-yamaguchi.or.jp/・1回目）
+  - 「イノベーション推進センターを設置し、同センター内に、医療関連推進チーム、環境・エネルギー推進チームを設置」（https://www.iti-yamaguchi.or.jp/history/・1回目）
+  - 「国立研究開発法人宇宙航空研究開発機構(JAXA)の西日本衛星防災利用研究センターを設置」（https://www.iti-yamaguchi.or.jp/history/・1回目）
+  - 「経営管理部(総務・人事グループ、経営戦略室)、技術支援部(技術管理室、技術相談・支援室、製品技術グループ、電子技術グループ、材料技術グループ、食品技術グループ)、プロジェクト推進部（プロジェクト管理室、イノベーション推進センター、R＆Dラボ推進センター、宇宙データ利用推進センター）の３部、４室、５グループ、３センター構成」（https://www.iti-yamaguchi.or.jp/history/・1回目）
+  - 「防衛装備庁艦艇装備研究所と研究協力協定を締結」（https://www.iti-yamaguchi.or.jp/history/・1回目）
+  - 「やまぐち産業振興財団、台湾電子設備協会、工業技術研究院機械與機電系統研究所（台湾）と半導体産業に関する四者MOU（覚書）を締結」（https://www.iti-yamaguchi.or.jp/history/・1回目）
+  - 「バイオ関連推進チームをバイオ推進チームに、医療関連推進チームを医療・ヘルスケア推進チームに改称」（https://www.iti-yamaguchi.or.jp/history/・1回目）
+- 資本金・株主：
+  - 「第４章 資本金(第１４条)」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/60127.pdf・3回目）
+  - 「第４章 資本金」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/60127.pdf・3回目）
+  - 「第１４条 法人の資本金は、山口県が出資す る別表に掲げる資産について、出資の日現在」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/60127.pdf・3回目）
+- 検索結果の抜粋：
+  - 「山口県産業技術センター — 山口県産業技術センター 山口県産業技術センター https://www.iti-yamaguchi.or.jp」（https://www.iti-yamaguchi.or.jp/・3回目）
+  - 「地方独立行政法人 山口県産業技術センター 定款（素案） — 地方独立行政法人 山口県産業技術センター 定款（素案） 山口県ホームページ PDF https://www.pref.yamaguchi.lg.jp > attachment」（https://www.pref.yamaguchi.lg.jp/uploaded/attachment/60127.pdf・3回目）
+  - 「地方独立行政法人 山口県産業技術センター - YouTube — 地方独立行政法人 山口県産業技術センター - YouTube YouTube https://www.youtube.com > channel」（https://www.youtube.com/channel/UC_TdOuEFyOtf4Fxm6i5GJ4A・3回目）
+  - 「地方独立行政法人 山口県産業技術センター - 企業クリップ — 地方独立行政法人 山口県産業技術センター - 企業クリップ 企業クリップ https://clip-corporation.com > ... > 企業詳細」（https://clip-corporation.com/company-matching/company-details/?corporate_number=7250005003025&industry_classification_middle_number=&industry_classification_minor_number=&industry_classification_sub_number・3回目）
+  - 「やまぐち 3D ものづくり研究会 - 山口県産業技術センター — やまぐち 3D ものづくり研究会 - 山口県産業技術センター 山口県産業技術センター https://www.iti-yamaguchi.or.jp > 3D_monodukuri」（https://www.iti-yamaguchi.or.jp/3D_monodukuri/・3回目）
+  - 「山口県産業技術センター デザインコンペ2026 ～大型 3D ... — 山口県産業技術センター デザインコンペ2026 ～大型 3D ... sharelab.jp https://sharelab.jp > イベント > その他団体」（https://sharelab.jp/events/yamaguchi-iti-design-competition-2026/・3回目）
+  - 「金属積層造形 機 - 山口県産業技術センター — 金属積層造形 機 - 山口県産業技術センター 山口県産業技術センター https://www.iti-yamaguchi.or.jp > equipment」（https://www.iti-yamaguchi.or.jp/equipment/329/・3回目）
+  - 「山口県産業技術センター - 中国地域公設研究機関の開放機器 — 山口県産業技術センター - 中国地域公設研究機関の開放機器 AIST： 産業技術総合研究所 https://unit.aist.go.jp > kaihou-kiki > data > yamaguchi」（https://unit.aist.go.jp/chugoku/kaihou-kiki/data/yamaguchi/D-01-171.html・3回目）
+  - 「山口県産業技術センター について — 山口県産業技術センター について 山口県ホームページ トップページ https://www.pref.yamaguchi.lg.jp > soshiki」（https://www.pref.yamaguchi.lg.jp/soshiki/83/22042.html・3回目）
+  - 「山口県産業技術センター | プロジェクト紹介 - 佐藤総合計画 — 山口県産業技術センター | プロジェクト紹介 - 佐藤総合計画 佐藤総合計画 https://www.axscom.jp > プロジェクトトップ」（https://www.axscom.jp/project/no01872/・3回目）
+  - 「やまぐち産業振興財団及び 山口県産業技術センター による 包括 — やまぐち産業振興財団及び 山口県産業技術センター による 包括 国立大学法人 山口大学 PDF https://www.yamaguchi-u.ac.jp > uploads > 2023/03」（https://www.yamaguchi-u.ac.jp/wp-content/uploads/2023/03/23030301_pr.pdf・3回目）
+  - 「山口県産業技術センター - Wikipedia — 山口県産業技術センター - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 山口県産業技術センター」（https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E7%9C%8C%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC・3回目）
+- 事業内容：記載なし（3回確認済み：公式13頁／PDF・画像2件／外部15頁・検索12回）
+- 資本金：記載なし（3回確認済み：公式13頁／PDF・画像2件／外部15頁・検索12回）
+- 創業年度：記載なし（3回確認済み：公式13頁／PDF・画像2件／外部15頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式13頁／PDF・画像2件／外部15頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式13頁／PDF・画像2件／外部15頁・検索12回）
+- 株主：記載なし（3回確認済み：公式13頁／PDF・画像2件／外部15頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式13頁／PDF・画像2件／外部15頁・検索12回）
+- 保有設備：記載なし（3回確認済み：公式13頁／PDF・画像2件／外部15頁・検索12回）
+
 ## 山梨研究所
 - 公式URL：特定できず（not_found）
 - 金属AM装置の保有（型番・製造元・台数・導入年）：
@@ -2778,6 +3389,66 @@
 - 所在地：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部28頁・検索12回）
 - 保有設備：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部28頁・検索12回）
 - 資本金・株主：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部28頁・検索12回）
+
+## 工業技術研究所
+- 公式URL：https://www.iri.pref.shizuoka.jp/（search:yahoo_jp:工業技術研究所）
+- 所在地：研究課題（https://www.iri.pref.shizuoka.jp/about/fuji/・1回目）
+- 金属AM装置の保有（型番・製造元・台数・導入年）：
+  - 「金属3Dプリンタ活用セミナー17「積層造形による部品・金型作製の取組」」（https://www.iri.pref.shizuoka.jp/・1回目）
+  - 「金属3Dプリンタ活用セミナー17「積層造形による部品・金型作製の取組」 | 開催イベント一覧 | 人材育成 | 静岡県工業技術研究所」（https://www.iri.pref.shizuoka.jp/seminar/event/115950/・1回目）
+  - 「金属3Dプリンタ活用セミナー17「積層造形による部品・金型作製の取組」」（https://www.iri.pref.shizuoka.jp/seminar/event/115950/・1回目）
+  - 「今回のセミナーでは、金属3Dプリンタを用いた各種部品や金型の作製の取組について取り上げます」（https://www.iri.pref.shizuoka.jp/seminar/event/115950/・1回目）
+  - 「金属3Dプリンタ各メーカーから具体的な取組事例を御紹介いただくとともに、各メーカーの最新の積層造形技術についても解説します」（https://www.iri.pref.shizuoka.jp/seminar/event/115950/・1回目）
+  - 「①「LUMEXが拓くハイブリッド金属積層造形」（https://www.iri.pref.shizuoka.jp/seminar/event/115950/・1回目）
+  - 「DMG森精機セールスアンドサービス株式会社 萩森 紗季 氏」（https://www.iri.pref.shizuoka.jp/seminar/event/115950/・1回目）
+  - 「③「デスクトップ型PBF方式金属3Dプリンタ「DeskFab H1」の解説」（https://www.iri.pref.shizuoka.jp/seminar/event/115950/・1回目）
+  - 「⑤見学会（造形物等の展示、金属3Dプリンタ）」（https://www.iri.pref.shizuoka.jp/seminar/event/115950/・1回目）
+  - 「金属3Dプリンタ活用セミナー17 開催案内」（https://www.iri.pref.shizuoka.jp/seminar/event/115950/・1回目）
+  - 「金属3Dプリンタ」（https://www.iri.pref.shizuoka.jp/equipment/・1回目）
+  - 「ご紹介している機器のうち、三次元測定機、複合環境振動試験機、真円度測定機、走査型電子顕微鏡、デジタルマイクロスコープは、公益財団法人JKAの補助事業で導入しました」（https://www.iri.pref.shizuoka.jp/about/numazu/・1回目）
+- 使っている金属粉（材質）：
+  - 「『良い品質のアルミ部品を造るために～アルミ溶解・鋳造の基礎～』」（https://www.iri.pref.shizuoka.jp/・1回目）
+  - 「『良い品質のアルミ部品を造るために～アルミ溶解・鋳造の基礎～』」（https://www.iri.pref.shizuoka.jp/about/shizuoka/・1回目）
+  - 「金属3Dプリンタとは、金属粉末をレーザビーム、電子ビーム、溶融押出し、インクジェット等を用い、3次元データ（3D CADデータ）をもとに一層ずつ積み重ねることにより、三次元立体形状を積層造形して目的形状を作製する装置です」（https://www.iri.pref.shizuoka.jp/printer/・1回目）
+  - 「液状の結合剤を選択的に供給して、粉末材料を結合する付加製造プロセス」（https://www.iri.pref.shizuoka.jp/printer/・1回目）
+  - 「粉末床溶融結合法、パウダーベッドフュージョン、Powder bed fusion(PBF)」（https://www.iri.pref.shizuoka.jp/printer/・1回目）
+  - 「熱エネルギーを使用して粉末床を選択的に溶融凝固する付加製造プロセス」（https://www.iri.pref.shizuoka.jp/printer/・1回目）
+  - 「利用者にご準備いただいた3D CADデータを用い、金属粉末をレーザで焼き固め、部品等を造形します」（https://www.iri.pref.shizuoka.jp/printer/・1回目）
+- 用途・客の産業：
+  - 「イベント「ふじのくに医療・介護福祉機器展2026」 に出展いたします」（https://www.iri.pref.shizuoka.jp/・1回目）
+  - 「「レーザーフュージョンエネルギーの未来in浜松」」（https://www.iri.pref.shizuoka.jp/・1回目）
+  - 「金属3Dプリンタ活用セミナー17「積層造形による部品・金型作製の取組」」（https://www.iri.pref.shizuoka.jp/・1回目）
+  - 「金属3Dプリンタ活用セミナー17「積層造形による部品・金型作製の取組」 | 開催イベント一覧 | 人材育成 | 静岡県工業技術研究所」（https://www.iri.pref.shizuoka.jp/seminar/event/115950/・1回目）
+  - 「金属3Dプリンタ活用セミナー17「積層造形による部品・金型作製の取組」」（https://www.iri.pref.shizuoka.jp/seminar/event/115950/・1回目）
+  - 「今回のセミナーでは、金属3Dプリンタを用いた各種部品や金型の作製の取組について取り上げます」（https://www.iri.pref.shizuoka.jp/seminar/event/115950/・1回目）
+  - 「― 造形と切削の融合による金型・部品製作 ―」」（https://www.iri.pref.shizuoka.jp/seminar/event/115950/・1回目）
+  - 「（特化技術）照明、音響、食品、環境エネルギー、生活製品」（https://www.iri.pref.shizuoka.jp/about/・1回目）
+  - 「イベント「ふじのくに医療・介護福祉機器展2026」 に出展いたします」（https://www.iri.pref.shizuoka.jp/about/hamamatsu/・1回目）
+  - 「イベント「ふじのくに医療・介護福祉機器展2026」 に出展いたします」（https://www.iri.pref.shizuoka.jp/about/shizuoka/・1回目）
+  - 「イベント「ふじのくに医療・介護福祉機器展2026」 に出展いたします」（https://www.iri.pref.shizuoka.jp/about/fuji/・1回目）
+  - 「自動車用途向けCNFオレフィン系樹脂の機械的物性向上及び成形性の安定化」（https://www.iri.pref.shizuoka.jp/about/fuji/・1回目）
+- 資本金・株主：
+  - 「2023年4月に、企業連携や技術移転を担う成果活用等支援法人として100%子会社の株式会社AIST Solutions（アイストソリューションズ、AISol、アイソル）を設立した」（https://ja.wikipedia.org/wiki/%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80・3回目）
+  - 「へ上場を果たした社が1社、」（https://ja.wikipedia.org/wiki/%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80・3回目）
+  - 「にて発展的解消を遂げた社が21社、上場を含めて活動中の社が100社ある」（https://ja.wikipedia.org/wiki/%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80・3回目）
+  - 「また、この企業は元主任研究員の妻が主な株主だった」（https://ja.wikipedia.org/wiki/%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80・3回目）
+- 検索結果の抜粋：
+  - 「会社概要 | 株式会社 工業技術研究所 | 工技研 — 会社概要 | 株式会社 工業技術研究所 | 工技研 株式会社工業技術研究所 https://www.kougiken.co.jp > company-profile」（https://www.kougiken.co.jp/company-profile.html・3回目）
+  - 「組織 概要 - 静岡県工業技術研究所 — 組織 概要 - 静岡県工業技術研究所 静岡県工業技術研究所 https://www.iri.pref.shizuoka.jp > about」（https://www.iri.pref.shizuoka.jp/about/・3回目）
+  - 「浜松 工業技術 支援センター 金属3Dプリンタ 特集サイト — 浜松 工業技術 支援センター 金属3Dプリンタ 特集サイト 静岡県工業技術研究所 https://www.iri.pref.shizuoka.jp > printer」（https://www.iri.pref.shizuoka.jp/printer/・3回目）
+  - 「浜松 工業技術 支援センター 金属 3Dプリンタ特集サイト — 浜松 工業技術 支援センター 金属 3Dプリンタ特集サイト 静岡県工業技術研究所 https://www.iri.pref.shizuoka.jp > printer」（https://www.iri.pref.shizuoka.jp/printer/・3回目）
+  - 「研究開発 - 静岡県工業技術研究所 — 研究開発 - 静岡県工業技術研究所 静岡県工業技術研究所 https://www.iri.pref.shizuoka.jp > randd」（https://www.iri.pref.shizuoka.jp/randd/・3回目）
+  - 「沿革 | 株式会社 工業技術研究所 - 工技研 — 沿革 | 株式会社 工業技術研究所 - 工技研 株式会社工業技術研究所 https://www.kougiken.co.jp > development」（https://www.kougiken.co.jp/development.html・3回目）
+  - 「組織概要 - 静岡県工業技術研究所 — 組織概要 - 静岡県工業技術研究所 静岡県工業技術研究所 https://www.iri.pref.shizuoka.jp > about」（https://www.iri.pref.shizuoka.jp/about/・3回目）
+  - 「株式会社 工業技術研究所 の企業情報・求人一覧 - 建職バンク — 株式会社 工業技術研究所 の企業情報・求人一覧 - 建職バンク 建職バンク https://kenshoku-bank.com > 求人掲載中の企業一覧」（https://kenshoku-bank.com/companies/28233・3回目）
+  - 「株式会社 工業技術研究所 - アラームボックス — 株式会社 工業技術研究所 - アラームボックス alarmbox.jp https://alarmbox.jp > アラームボックス企業情報 > 東京都」（https://alarmbox.jp/companyinfo/entities/1010001002539・3回目）
+- 事業内容：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部15頁・検索12回）
+- 資本金：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部15頁・検索12回）
+- 創業年度：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部15頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部15頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部15頁・検索12回）
+- 株主：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部15頁・検索12回）
+- 保有設備：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部15頁・検索12回）
 
 ## 工業株式会社
 - 公式URL：https://kids.gakken.co.jp/（search:yahoo_jp:工業）
@@ -2935,6 +3606,65 @@
 - 株主：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部20頁・検索12回）
 - 保有設備：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部20頁・検索12回）
 
+## 技術戦略研究センター
+- 公式URL：特定できず（not_found）
+- 金属AM装置の保有（型番・製造元・台数・導入年）：
+  - 「バイオプラスチックのライフサイクルと普及・導入に向けた課題」（https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf・3回目）
+  - 「海洋生分解性プラスチック開発・普及導入ロードマップ」（https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf・3回目）
+  - 「 経済産業省が公表した海洋生分解性プラスチック開発・普及導入ロードマップに、NEDO 「バイオプラスチック分野」の技術戦略が活用」（https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf・3回目）
+  - 「*Sustainable Development Goals」（https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf・3回目）
+  - 「※ 「革新技術の導入・普及」の矢印は、世界全体で排出量半減の目標を達成するためには、既存技術の向上・普及だけでなく、より革新的な技術の普及による削減が必要であること」（https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf・3回目）
+  - 「「Android」、アプリの「バブル」化機能を導入--アプリへのアクセスが容易に」（https://japan.cnet.com/article/35222027/・3回目）
+  - 「2030年の金属3Dプリンターによる造形品の市場規模を考察 | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/・3回目）
+  - 「金属3Dプリンター（104）」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/・3回目）
+  - 「金属3Dプリンター」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/・3回目）
+  - 「2030年の金属3Dプリンターによる造形品の市場規模を考察」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/・3回目）
+  - 「金属3Dプリンターはどの程度世界に普及しているのか」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/・3回目）
+  - 「これによると、全出荷台数は2000年から2017年で世界各国の累計で5768台、生産国はドイツが過半数を占める状況だったが、GEによるM&Aで米系資本が台頭している結果となっている」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/・3回目）
+- 使っている金属粉（材質）：
+  - 「■ 資源循環（プラスチック、アルミニウム）」（https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf・3回目）
+  - 「RMIT大学、水に浮くチタン製ラティス構造体を3Dプリンターで開発、損傷後も浮力を維持」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/・3回目）
+  - 「3Dプリンターで使える金属材料は？ステンレスやアルミニウムなど種類と特徴を解説」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/・3回目）
+  - 「粉末床溶融結合法 / PBF（Powder Bed Fusion）を解説！SLS方式、SLM方式と何が違う？」（https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/・3回目）
+  - 「今後、さまざまな分野の製造現場で導入が増え、金属3Dプリンタ本体、金属粉末材料、出力した造形品の市場がそれぞれ拡大していく見込みだ」（https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html・3回目）
+  - 「2030年の市場規模は、金属3Dプリンタ本体が2017年比5.3倍の6500億円、金属粉末材料は2016年比45〜59倍の5000~6500億円、出力した造形品の市場は2兆円にまで成長するという」（https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html・3回目）
+  - 「1つは金属3Dプリンタ本体と金属粉末材料のコストだ」（https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html・3回目）
+  - 「現状では金属3Dプリンタ本体は1台1億円以上、金属粉末材料は1kgあたり数万円となっている」（https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html・3回目）
+  - 「金属蒸気や金属飛沫（スパッタ）、温度分布、粉末材料の敷き詰め方などを観測、計測し、どのような条件が影響して内部の欠陥が発生するのか解明する計画だ」（https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html・3回目）
+  - 「粉末原料を各種手法で仮成形した後に高温焼成して固める （焼結）」（https://www.nedo.go.jp/content/100888376.pdf・3回目）
+  - 「金属材料では、 粉末床溶融結合方式と指向性エネル」（https://www.nedo.go.jp/content/100888376.pdf・3回目）
+  - 「バイ ン ダー噴射方式は、 粉末材料を完全」（https://www.nedo.go.jp/content/100888376.pdf・3回目）
+- 用途・客の産業：
+  - 「技術戦略研究センター（TSC）は、エネルギー・地球環境問題の解決・産業技術力の強化といったNEDOのミッション実現に向けてプロジェクトの企画立案を担う機関として2014年4月に設立されました」（https://webmagazine.nedo.go.jp/pickupnews/focusnedo91/article02.html・3回目）
+  - 「また、2023年8月に策定した「NEDO総合指針2023」においては、「サーキュラーエコノミー」「バイオエコノミー」「持続可能なエネルギー」の3つの社会システムの一体的な推進とともに、それを支える基盤としての「デジタルトランスフォーメーション（DX）」が不可欠であることを提言しました」（https://webmagazine.nedo.go.jp/pickupnews/focusnedo91/article02.html・3回目）
+  - 「NEDOのミッションである「エネルギー・地球環境問題の解決」および「産業技術力の強化」の実現に向けた技術開発推進に貢献することを目的に、6つの技術分野別ユニット、1つの分野横断ユニットでスタート」（https://webmagazine.nedo.go.jp/pickupnews/focusnedo91/article02.html・3回目）
+  - 「産業技術やエネルギー･環境技術分野の技術戦略の策定及びこれに」（https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf・3回目）
+  - 「 以下に掲げる6つのミッションを達成することで、エネルギー・地」（https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf・3回目）
+  - 「イザー,元トヨタ自動車」（https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf・3回目）
+  - 「エネルギー総合工学研究所 プロジェクト試験」（https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf・3回目）
+  - 「新エネルギー・産業技術総合開発機構「日本企業の国際」（https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf・3回目）
+  - 「③ 仮説⇔実証を効率的に行うための計測評価・試作技術との連携」（https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf・3回目）
+  - 「 「持続可能なエネルギー」、「サーキュラーエコノミー」及び「バイオエ」（https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf・3回目）
+  - 「国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）のシンクタンクであるNEDO技術戦略研究センターは7月26日、名称をイノベーション戦略センター（Technology and Innovation Strategy Center（新TSC））に変更したと発表した」（https://japan.cnet.com/article/35222027/・3回目）
+  - 「ユニットとして活動するのは「デジタルイノベーション」「ナノテクノロジー・材料」「サステナブルエネルギー」「環境・化学」「バイオエコノミー」「アグリ・フードテック」の技術ユニット6つと、「国際戦略」「マクロ分析」「標準化・知財」の横断ユニットの3つ」（https://japan.cnet.com/article/35222027/・3回目）
+- 資本金・株主：
+  - 「夢を追ったニデック、上場廃止は免れないのか」（https://monoist.itmedia.co.jp/mn/articles/1902/13/news051.html・3回目）
+  - 「REALIZER （ドイツ） の子会社化によ り、」（https://www.nedo.go.jp/content/100888376.pdf・3回目）
+  - 「・ 国、 大学、 企業による共同出資」（https://www.nedo.go.jp/content/100888376.pdf・3回目）
+- 検索結果の抜粋：
+  - 「技術戦略で明日への地図を描け NEDO 技術戦略研究センター の ... — 技術戦略で明日への地図を描け NEDO 技術戦略研究センター の ... Focus NEDO https://webmagazine.nedo.go.jp > focusnedo91 > article02」（https://webmagazine.nedo.go.jp/pickupnews/focusnedo91/article02.html・3回目）
+  - 「技術戦略研究センター の紹介 - NISTEP — 技術戦略研究センター の紹介 - NISTEP 科学技術・学術政策研究所 (NISTEP) PDF https://www.nistep.go.jp > wp-content > uploads > 2...」（https://www.nistep.go.jp/wp/wp-content/uploads/2-3_NISTEP-Foresight-Symposium20191106.pdf・3回目）
+  - 「NEDO 技術戦略研究センター 長・三島良直氏 超スマート ... — NEDO 技術戦略研究センター 長・三島良直氏 超スマート ... 日刊工業新聞 https://www.nikkan.co.jp > articles > view」（https://www.nikkan.co.jp/articles/view/518897・3回目）
+  - 「NEDO 技術戦略研究センター サステナブルエネルギーユニット ... — NEDO 技術戦略研究センター サステナブルエネルギーユニット ... 日刊工業新聞 https://www.nikkan.co.jp > articles > view」（https://www.nikkan.co.jp/articles/view/697266・3回目）
+- 事業内容：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 資本金：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 創業年度：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 所在地：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 保有設備：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+
 ## 日新計器株式会社
 - 公式URL：特定できず（not_found）
 - 検索結果の抜粋：
@@ -2987,6 +3717,77 @@
 - 保有設備：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部17頁・検索14回）
 - 使っている金属粉（材質）：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部17頁・検索14回）
 - 資本金・株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部17頁・検索14回）
+
+## 未来科学技術共同研究センター
+- 公式URL：https://www.niche.tohoku.ac.jp/（search:yahoo_jp:未来科学技術共同研究センター）
+- 資本金：9,445万円（https://www.t-technoarch.co.jp/company.html・3回目）
+- 創業年度：設立：2010年4月（https://www.niche.tohoku.ac.jp/about/venture/・1回目）
+- 創業年度：設立：2011年4月11日（https://www.niche.tohoku.ac.jp/about/venture/・1回目）
+- 創業年度：設立：2013年3月29日（https://www.niche.tohoku.ac.jp/about/venture/・1回目）
+- 株主：東北大学及び東北地区国立大学教員等（https://www.t-technoarch.co.jp/company.html・3回目）
+- 所在地：仙台市青葉区荒巻字青葉6-6-40（T-Biz内）（https://www.niche.tohoku.ac.jp/about/venture/・1回目）
+- 所在地：仙台市青葉区鷺ヶ森1-15-35（https://www.niche.tohoku.ac.jp/about/venture/・1回目）
+- 所在地：宮城県石巻市皿貝字宮田7番地3（https://www.niche.tohoku.ac.jp/about/venture/・1回目）
+- 金属AM装置の保有（型番・製造元・台数・導入年）：
+  - 「本格型プロジェクト「新規金属積層造形技術開発とそれを核とした新材料・材料加工プロセスの創生」開始（千葉 晶彦 特任教授）」（https://www.niche.tohoku.ac.jp/about/history/・1回目）
+  - 「株式会社東北テクノアーチは、大学等からの技術導入により新規製品・事業の創出や競争力の強化を目指す企業に対するシーズ供給のパートナーとして、また大学等の優れた研究成果を社会に還元するためのコーディネーターとして、技術移転事業を全力で進めて参ります」（https://www.t-technoarch.co.jp/company.html・3回目）
+  - 「日本積層造形株式会社/JAMPT（ジャンプ）は、2017年の設立以来、千葉晶彦名誉教授（金属材料研究所）・未来科学技術共同研究センター 特任教授を技術顧問として招聘し、金属積層造形技術とプラズマ回転電極法（PREP）を中心とする材料開発を進めています」（https://jampt.jp/company/chiba/・3回目）
+  - 「最先端の金属3Dプリンティング技術（金属積層造形技術）と材料開発手法を日本のモノづくりへ」（https://jampt.jp/company/chiba/・3回目）
+  - 「金属3Dプリンティング技術（金属積層造形技術）と積層造形に適した粉末の研究・開発に同時に取り組むことにより、造形品の最適化について研究しています」（https://jampt.jp/company/chiba/・3回目）
+  - 「具体的には、レーザー及び電子ビーム方式の金属3Dプリンターにおける造形条件の最適化に資する基礎学理を探求し、プロセス分析と最適レシピの開発に取り組んでいます」（https://jampt.jp/company/chiba/・3回目）
+  - 「粉末開発・製造、最適な金属組織の探索・評価、更には最適な金属加工やトポロジー最適化を含む積層造形品の設計を試みるなど、金属3Dプリンター分野における総合的なソリューションの提供を目指して研究を進めています」（https://jampt.jp/company/chiba/・3回目）
+  - 「金属積層造形に理想的な性質を持つPREP粉末」（https://jampt.jp/company/chiba/・3回目）
+  - 「（2018年11月導入）」（https://jampt.jp/company/chiba/・3回目）
+  - 「革新的な金属積層造形技術で切り拓く、持続可能なものづくりの新時代～JAMPTへの期待～」（https://jampt.jp/company/chiba/・3回目）
+  - 「金属積層造形（AM）技術は、複雑かつ精密な部品製造を可能にする革新的な技術であり、持続可能で競争力のある製造業の基盤として、ますます期待が高まっています」（https://jampt.jp/company/chiba/・3回目）
+  - 「JAMPTは、レーザー方式（L-PBF）および電子ビーム方式（EB-PBF）の両工法に関して豊富な経験と高度な専門技術を有し、部品製造の品質保証体制の確立に向けて積極的な研究開発と実用化に取り組まれています」（https://jampt.jp/company/chiba/・3回目）
+- 使っている金属粉（材質）：
+  - 「研究プロジェクト「金属ガラス微粉末合金の実用化研究プロジェクト」開始（井上 明久 教授（～2009年3月））」（https://www.niche.tohoku.ac.jp/about/history/・1回目）
+  - 「小池教授が開発した銅ペーストを先端LSI用配線や太陽電池用配線、パワー半導体等電子部品用に開発・製造・販売するため設立」（https://www.niche.tohoku.ac.jp/about/venture/・1回目）
+  - 「金属3Dプリンティング技術（金属積層造形技術）と積層造形に適した粉末の研究・開発に同時に取り組むことにより、造形品の最適化について研究しています」（https://jampt.jp/company/chiba/・3回目）
+  - 「また、プラズマ回転電極法による金属粉末の特性を学理解析し、粉末の開発・製造に取り組んでいます」（https://jampt.jp/company/chiba/・3回目）
+  - 「粉末開発・製造、最適な金属組織の探索・評価、更には最適な金属加工やトポロジー最適化を含む積層造形品の設計を試みるなど、金属3Dプリンター分野における総合的なソリューションの提供を目指して研究を進めています」（https://jampt.jp/company/chiba/・3回目）
+  - 「金属積層造形に理想的な性質を持つPREP粉末」（https://jampt.jp/company/chiba/・3回目）
+  - 「（当社SEM撮影、Ti-6Al-4V）」（https://jampt.jp/company/chiba/・3回目）
+  - 「こうした課題への対応にはさまざまな対策が求められますが、中でも特に重要なのは、粉末材料の特性を多角的かつ詳細に分析・管理することです」（https://jampt.jp/company/chiba/・3回目）
+  - 「特にアルミニウム合金粉末などは湿気や静電気の影響を受けやすく、これらが粉末の流動性低下や水素脆化を引き起こす原因となります」（https://jampt.jp/company/chiba/・3回目）
+  - 「さらに、一般的に用いられるアトマイズ法で製造された金属粉末では、製造過程で使用されるアルゴンガスなどのアトマイズガスが気泡状の欠陥（ガスポア）として粉末内部にトラップされることがあり、このような粉末を使用すると造形物に多数のガス欠陥が形成され、疲労強度の低下や予期しない突然の破壊につながる可能性があります」（https://jampt.jp/company/chiba/・3回目）
+  - 「粉末由来のこうした製品欠陥は絶対に排除しなければなりません」（https://jampt.jp/company/chiba/・3回目）
+  - 「その点、日本積層造形株式会社（JAMPT）が活用しているプラズマ回転電極法（PREP）は、粉末製造プロセスにおいてアトマイズガスを使用しないため、ガスポアなどの気泡状欠陥をほとんど含まない高品質な金属粉末を製造できる優れた技術です」（https://jampt.jp/company/chiba/・3回目）
+- 用途・客の産業：
+  - 「世界初・貴金属オールフリーなバルク結晶育成装置での3.5インチ級酸化ガリウム単結晶を実現 ― 高品質かつ低コストな次世代パワー半導体の実用化...」（https://www.niche.tohoku.ac.jp/・1回目）
+  - 「未来エネルギー創製（江刺 正喜 教授～2004年3月）」（https://www.niche.tohoku.ac.jp/about/history/・1回目）
+  - 「寄附研究部門（新半導体・ディスプレイ産業創製）に大見 忠弘 教授が就任（～2012年3月、2011年4月に須川 成利 教授に交代）」（https://www.niche.tohoku.ac.jp/about/history/・1回目）
+  - 「研究プロジェクト「半導体レーザの極限機能開発とナノイメージング応用」開始（横山 弘之 教授（～2017年3月））」（https://www.niche.tohoku.ac.jp/about/history/・1回目）
+  - 「研究プロジェクト「クリーンルーム整備共用化の推進と半導体製造技術・センサ技術の開発」開始（須川 成利 教授（～2025年3月））」（https://www.niche.tohoku.ac.jp/about/history/・1回目）
+  - 「本格型プロジェクト「ホリスティック三次元集積半導体開発とオープンイノベーション拠点の構築」開始（福島 誉史 准教授）」（https://www.niche.tohoku.ac.jp/about/history/・1回目）
+  - 「本格型プロジェクト「窒化物半導体の結晶成長と光デバイス・電子デバイスの研究」開始（松岡 隆志 特任教授・末光 哲也 特任教授（～2026年3月））」（https://www.niche.tohoku.ac.jp/about/history/・1回目）
+  - 「本格型プロジェクト「革新的イメージセンサ・計測技術を基盤とした高精度半導体集積回路製造技術の開発」開始（黒田 理人 教授）」（https://www.niche.tohoku.ac.jp/about/history/・1回目）
+  - 「本格型プロジェクト「高温固体電気化学エネルギー変換材料の評価・解析技術開発」開始（川田 達也 特任教授）」（https://www.niche.tohoku.ac.jp/about/history/・1回目）
+  - 「本格型プロジェクト「窒化物半導体による革新的光・電子デバイスの開発」開始（松岡 隆志 シニアリサーチフェロー）」（https://www.niche.tohoku.ac.jp/about/history/・1回目）
+  - 「我が国の半導体・平板ディスプレイ分野に革命的飛躍をもたらすべく、東北大学が展開する“新半導体・ディスプレイ産業創製プロジェクト”の趣旨に賛同いただいた産業界の方々のご支援により建てられました」（https://www.niche.tohoku.ac.jp/about/facility/・1回目）
+  - 「徹底した省エネルギー対策とともにナノメートルレベルの超微細加工・超高精密計測を実現するために電源電圧の変動、微振動などあらゆる汚染、ゆらぎ、変動を徹底的に制御し、設計から製造、テストまで一貫して行える研究施設となっています」（https://www.niche.tohoku.ac.jp/about/facility/・1回目）
+- 資本金・株主：
+  - 「東北大学ベンチャーパートナーズ株式会社を無限責任組合員とするTHVP-1号投資事業有限責任組合が株主となる」（https://jampt.jp/company/・3回目）
+  - 「この中には、その達成手法として「国立大学による大学発ベンチャー支援ファンド等への出資を可能とする」と記述されていた」（https://news.mynavi.jp/techplus/article/20200109-951534/・3回目）
+  - 「その前段階として政府は、2012年度の補正予算で東北大などの4大学に合計1000億円を出資する動きをとった」（https://news.mynavi.jp/techplus/article/20200109-951534/・3回目）
+  - 「東北大に125億円、大阪大に166億円、京都大に292億円、東京大に417億円がそれぞれ出資された」（https://news.mynavi.jp/techplus/article/20200109-951534/・3回目）
+  - 「この出資金を基に、この4大学はそれぞれが学内にベンチャーキャピタルの役目を果たす株式会社を設立し、そのベンチャーキャピタルに運用資金を出資している(投資形態などに、いくらかの違いがある)」（https://news.mynavi.jp/techplus/article/20200109-951534/・3回目）
+- 検索結果の抜粋：
+  - 「NICHe 概要 | 東北大学 未来科学技術共同研究センター — NICHe 概要 | 東北大学 未来科学技術共同研究センター 東北大学未来科学技術共同研究センター https://www.niche.tohoku.ac.jp > about」（https://www.niche.tohoku.ac.jp/about/・3回目）
+  - 「東北大学 未来科学技術共同研究センター - みやぎ創業ガイド — 東北大学 未来科学技術共同研究センター - みやぎ創業ガイド みやぎ創業ガイド https://www.miyagi-sogyo.jp > 創業支援施策 > その他」（https://www.miyagi-sogyo.jp/supports/1286・3回目）
+  - 「東北大発ベンチャーの育成を担う 未来科学技術共同研究センター — 東北大発ベンチャーの育成を担う 未来科学技術共同研究センター マイナビニュース https://news.mynavi.jp > techplus > article」（https://news.mynavi.jp/techplus/article/20200109-951534/・3回目）
+  - 「東北大学 未来科学技術共同研究センター 20周年／社会って — 東北大学 未来科学技術共同研究センター 20周年／社会って 宮城の新聞 https://shinbun.fan-miyagi.jp > article > article_20181030」（https://shinbun.fan-miyagi.jp/article/article_20181030.php・3回目）
+  - 「千葉研究室｜東北大学 未来科学技術共同研究センター — 千葉研究室｜東北大学 未来科学技術共同研究センター 千葉 晶彦 https://chibalab.niche.tohoku.ac.jp」（https://chibalab.niche.tohoku.ac.jp/・3回目）
+  - 「東北大学 未来科学技術共同研究センター | New Industry ... — 東北大学 未来科学技術共同研究センター | New Industry ... 東北大学未来科学技術共同研究センター https://www.niche.tohoku.ac.jp」（https://www.niche.tohoku.ac.jp/・3回目）
+  - 「NICHe概要 | 東北大学 未来科学技術共同研究センター — NICHe概要 | 東北大学 未来科学技術共同研究センター 東北大学未来科学技術共同研究センター https://www.niche.tohoku.ac.jp > about」（https://www.niche.tohoku.ac.jp/about/・3回目）
+  - 「東北大学 未来科学技術共同研究センター (@nichetohokuuniv) — 東北大学 未来科学技術共同研究センター (@nichetohokuuniv) Facebook https://www.facebook.com > ... > ビジネス > 教育 > 大学」（https://www.facebook.com/nichetohokuuniv/?locale=ja_JP・3回目）
+  - 「未来科学技術共同研究センター 特任准教授の公募 - JREC-IN — 未来科学技術共同研究センター 特任准教授の公募 - JREC-IN JREC-IN https://jrecin.jst.go.jp > seek > SeekJorDetail」（https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126072268・3回目）
+  - 「東北大学 未来科学技術共同研究センター - SEMI.org — 東北大学 未来科学技術共同研究センター - SEMI.org SEMI.org https://expo.semi.org > japan2025 > Public > eBooth」（https://expo.semi.org/japan2025/Public/eBooth.aspx?IndexInList=691&FromPage=Exhibitors.aspx&ParentBoothID=&ListByBooth=true&BoothID=630680・3回目）
+- 事業内容：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部15頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部15頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部15頁・検索12回）
+- 保有設備：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部15頁・検索12回）
 
 ## 東レ・プレシジョン株式会社
 - 公式URL：https://www.tpc.toray/（search:yahoo_jp:東レ・プレシジョン）
@@ -3357,6 +4158,66 @@
 - 株主：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部13頁・検索12回）
 - 保有設備：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部13頁・検索12回）
 - 資本金・株主：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部13頁・検索12回）
+
+## 東北大学金属材料研究所
+- 公式URL：https://www.imr.tohoku.ac.jp/（search:yahoo_jp:東北大学金属材料研究所）
+- 金属AM装置の保有（型番・製造元・台数・導入年）：
+  - 「東北大学金属材料研究所および保有する資料群が日本物理遺産に認定」（https://www.imr.tohoku.ac.jp/・1回目）
+  - 「・電子ビームを用いた “金属版3Dプリンター”の研究開発」（https://www.imr.tohoku.ac.jp/ja/public/publications/imr-news/・1回目）
+  - 「EBM造形技術 －夢の成形加工技術の開発に挑戦－」（https://www.imr.tohoku.ac.jp/ja/public/publications/imr-news/・1回目）
+  - 「金属3Dプリンター」（https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html・3回目）
+  - 「金属3Dプリンターは、金属を積層して造形を行う装置です」（https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html・3回目）
+  - 「近年、金属3Dプリンターによる組織制御」（https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html・3回目）
+  - 「東北大学金属材料研究所の山中謙太准教授と同大学未来科学技術共同研究センターの千葉晶彦特任教授の研究グループは、金属を対象とした代表的な3Dプリンティング技術の一つであるレーザー粉末床溶融結合法」（https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html・3回目）
+  - 「図1. L-PBF法により作製した炭素鋼/Al合金界面付近の組織観察結果」（https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html・3回目）
+  - 「注1. 金属3Dプリンター」（https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html・3回目）
+  - 「材料を積層して3次元構造体を作製する点は一般的な樹脂を対象とした3Dプリンターと同様ですが、金属3Dプリンターでは金属の粉末やワイヤーを溶かしたり、高温に保持して焼結することで造形を行います」（https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html・3回目）
+  - 「注6. レーザー粉末床溶融結合法」（https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html・3回目）
+  - 「金属粉末に高エネルギーのレーザーを照射することで溶融・凝固し、それを繰り返すことで3次元構造体を造形する手法であり、最も一般的な金属3Dプリンターの一つです」（https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html・3回目）
+- 使っている金属粉（材質）：
+  - 「独自の合金設計でアルミニウム箔負極の 性能トレードオフを打破 ―「箔一枚」のシンプルなリチウム二次電池電極の実用化に道―」（https://www.imr.tohoku.ac.jp/・1回目）
+  - 「・高強度・高伝導性を備えた新しい複合酸化物分散強化銅合金」（https://www.imr.tohoku.ac.jp/ja/public/publications/imr-news/・1回目）
+  - 「・巨大なスピンホール効果を示す非平衡銅合金を発見」（https://www.imr.tohoku.ac.jp/ja/public/publications/imr-news/・1回目）
+  - 「表面ナノ構造を最適化したニッケル－水素電池用の水素貯蔵合金の開発」（https://www.imr.tohoku.ac.jp/ja/public/publications/imr-news/・1回目）
+  - 「3Dプリンターを用いたマルチマテリアル技術を開発 鉄鋼材料とアルミ合金の界面の接合強度を飛躍的に改善、自動車の車体軽量化に期待」（https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html・3回目）
+  - 「を用いて鉄鋼材料とアルミ合金を組み合わせたマルチマテリアル構造」（https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html・3回目）
+  - 「東北大学金属材料研究所の山中謙太准教授と同大学未来科学技術共同研究センターの千葉晶彦特任教授の研究グループは、金属を対象とした代表的な3Dプリンティング技術の一つであるレーザー粉末床溶融結合法」（https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html・3回目）
+  - 「を用いて、鉄鋼材料とアルミ合金の接合界面において非平衡凝固」（https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html・3回目）
+  - 「材料を積層して3次元構造体を作製する点は一般的な樹脂を対象とした3Dプリンターと同様ですが、金属3Dプリンターでは金属の粉末やワイヤーを溶かしたり、高温に保持して焼結することで造形を行います」（https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html・3回目）
+  - 「注6. レーザー粉末床溶融結合法」（https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html・3回目）
+  - 「金属粉末に高エネルギーのレーザーを照射することで溶融・凝固し、それを繰り返すことで3次元構造体を造形する手法であり、最も一般的な金属3Dプリンターの一つです」（https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html・3回目）
+  - 「鉄鋼とアルミをつなぐ！東北大学金属材料研究所が金属3Dプリンターで自動車軽量化を実現 | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS」（https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/・3回目）
+- 用途・客の産業：
+  - 「市民講演会 超電導モータで未来のエネルギー社会に貢献（11/14開催）」（https://www.imr.tohoku.ac.jp/・1回目）
+  - 「附属材料試験炉利用施設を附属量子エネルギー材料科学国際研究センターと改称」（https://www.imr.tohoku.ac.jp/ja/about/history.html・1回目）
+  - 「先端エネルギー材料理工共創研究センター 設置」（https://www.imr.tohoku.ac.jp/ja/about/history.html・1回目）
+  - 「・マルチマテリアル積層造形技術を開発自動車部材製造への応用へ」（https://www.imr.tohoku.ac.jp/ja/public/publications/imr-news/・1回目）
+  - 「・２次元半導体MoS₂中での不純物に関する普遍的な電子状態の発見」（https://www.imr.tohoku.ac.jp/ja/public/publications/imr-news/・1回目）
+  - 「・先端エネルギー材料理工共創研究センター2020年度ワークショップ開催報告」（https://www.imr.tohoku.ac.jp/ja/public/publications/imr-news/・1回目）
+  - 「・キラルなペロブスカイト系半導体で実現されたバルク光起電力効果」（https://www.imr.tohoku.ac.jp/ja/public/publications/imr-news/・1回目）
+  - 「臨時理化学研究所第二部発足の頃｜完成間もない鉄鋼研究所本館（旧1号館）｜金研お花見｜低温研究室（旧2号館）完成｜本多先生総長就任祝賀会｜本多記念館完成｜仙台空襲｜昭和天皇行幸｜バーディーンとアンダーソン金研訪問｜日本初のヘリウム液化機の設置｜本多先生胸像除幕式｜金研創立50周年記念式典｜材料試験炉利用施設設置｜金研運動会｜『赤レンガ』で親しまれた旧1号館お別れ会｜超電導材料開発施設に設置されたハイブリッドマグネット｜金研創立75周年記念式典｜なつかしの"むつみ"とバレーコート｜東日本大震災｜先端エネルギー材料理工共創研究センター開所式｜百周年を迎える金属材料研究所の今」（https://www.imr.tohoku.ac.jp/ja/public/publications/imr-news/・1回目）
+  - 「・金属材料研究所 先端エネルギー材料理工共創研究センター 開所式」（https://www.imr.tohoku.ac.jp/ja/public/publications/imr-news/・1回目）
+  - 「青色LEDができるまでの窒化物半導体の開発経緯と今後の期待」（https://www.imr.tohoku.ac.jp/ja/public/publications/imr-news/・1回目）
+  - 「「地球にやさしいエネルギーと環境・省エネルギー技術」」（https://www.imr.tohoku.ac.jp/ja/public/publications/imr-news/・1回目）
+  - 「所長挨拶 -エネルギー材料研究の強化と研究部門間連携の推進- 所長 高梨 弘毅」（https://www.imr.tohoku.ac.jp/ja/public/publications/imr-news/・1回目）
+- 検索結果の抜粋：
+  - 「東北大学 金属材料研究所 — 東北大学 金属材料研究所 東北大学 金属材料研究所 https://www.imr.tohoku.ac.jp」（https://www.imr.tohoku.ac.jp/・3回目）
+  - 「東北大学金属材料研究所 の紹介 — 東北大学金属材料研究所 の紹介 日本金属学会 PDF https://www.jim.or.jp > journal > pdf3」（https://www.jim.or.jp/journal/m/pdf3/55/11/537.pdf・3回目）
+  - 「東北大学金属材料研究所 PV IMR KEY MATERIALS（金研紹介） — 東北大学金属材料研究所 PV IMR KEY MATERIALS（金研紹介） YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=gQ1GorgnnAc・3回目）
+  - 「鉄鋼とアルミをつなぐ！ 東北大学金属材料研究所 が 金属3D ... — 鉄鋼とアルミをつなぐ！ 東北大学金属材料研究所 が 金属3D ... ShareLab NEWS https://news.sharelab.jp > 業界動向 > 金属3Dプリンター」（https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/・3回目）
+  - 「3Dプリンターを用いたマルチマテリアル技術を開発 ー鉄鋼 ... — 3Dプリンターを用いたマルチマテリアル技術を開発 ー鉄鋼 ... 東北大学金属材料研究所 https://www.imr.tohoku.ac.jp > results > detail---id-1679」（https://www.imr.tohoku.ac.jp/ja/news/results/detail---id-1679.html・3回目）
+  - 「東北大学金属材料研究所 および保有する資料群が日本物... — 東北大学金属材料研究所 および保有する資料群が日本物... Tohoku University https://www.tohoku.ac.jp > ホーム > 2026年のニュース」（https://www.tohoku.ac.jp/japanese/2026/09/news20260916-imr.html・3回目）
+  - 「東北大学金属材料研究所 国際共同利用・共同研究拠点 GIMRT — 東北大学金属材料研究所 国際共同利用・共同研究拠点 GIMRT GIMRT https://gimrt.www.imr.tohoku.ac.jp」（https://gimrt.www.imr.tohoku.ac.jp/・3回目）
+  - 「採用情報｜ 東北大学 金属材料研究所 - Tohoku University — 採用情報｜ 東北大学 金属材料研究所 - Tohoku University 東北大学金属材料研究所 https://www.imr.tohoku.ac.jp > news > open_position」（https://www.imr.tohoku.ac.jp/ja/news/open_position/・3回目）
+- 事業内容：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部13頁・検索12回）
+- 資本金：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部13頁・検索12回）
+- 創業年度：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部13頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部13頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部13頁・検索12回）
+- 株主：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部13頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部13頁・検索12回）
+- 保有設備：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部13頁・検索12回）
+- 資本金・株主：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部13頁・検索12回）
 
 ## 東和電気株式会社
 - 公式URL：https://towadenki168.com/（search:ddgs:google:東和電気）
@@ -4366,6 +5227,30 @@
   - 「株式会社 NTTデータザムテクノロジーズ の中途採用・転職 ... — 株式会社 NTTデータザムテクノロジーズ の中途採用・転職 ... リクルートエージェント https://www.r-agent.com > company」（https://www.r-agent.com/company/d0317/・3回目）
 - 保有設備：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部10頁・検索12回）
 
+## 株式会社PDF
+- 公式URL：https://www.ilovepdf.com/（search:ddgs:bing:PDF）
+- 金属AM装置の保有（型番・製造元・台数・導入年）：
+  - 「The development of PDF began in 1991 when」（https://en.wikipedia.org/wiki/PDF・3回目）
+  - 「code base. There are also commercial development libraries available as listed in」（https://en.wikipedia.org/wiki/PDF・3回目）
+  - 「Open Source Development Labs」（https://en.wikipedia.org/wiki/PDF・3回目）
+- 検索結果の抜粋：
+  - 「PDF - Wikipedia — PDF/UA, the International Standard for accessible PDF based on ISO 32000-1 was first published as ISO 14289–1 in 2012 and establishes normative language for accessible PDF technology.」（https://en.wikipedia.org/wiki/PDF・3回目）
+  - 「Download Adobe Acrobat Reader: Free PDF viewer — Download free Adobe Acrobat Reader software for your Windows, Mac OS and Android devices to view, print, and comment on PDF documents.」（https://get.adobe.com/reader/・3回目）
+  - 「What is a PDF? Portable Document Format | Adobe Acrobat — PDF is an abbreviation that stands for Portable Document Format. It's a versatile file format created by Adobe that gives people an easy, reliable way to present and exchange documents — regardless of the software, hardware, or operating systems being used by anyone who views them.」（https://www.adobe.com/acrobat/about-adobe-pdf.html・3回目）
+  - 「iLovePDF | Online PDF tools for PDF lovers — iLovePDF is an online service to work with PDF files completely free and easy to use. Merge PDF, split PDF, compress PDF, office to PDF, PDF to JPG and more!」（https://www.ilovepdf.com/・3回目）
+  - 「Adobe Acrobat | Login, Create, Edit and more PDF tools — JavaScript is required to run Acrobat online services Tools Edit Convert E-Sign PDF Download Start free trial Sign in -- -- Edit Edit in Word Edit in Excel Edit in PowerPoint Convert Compress All Tools Save a copy Download」（https://acrobat.adobe.com/・3回目）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部15頁・検索12回）
+- 資本金：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部15頁・検索12回）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部15頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部15頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部15頁・検索12回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部15頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部15頁・検索12回）
+- 保有設備：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部15頁・検索12回）
+- 使っている金属粉（材質）：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部15頁・検索12回）
+- 用途・客の産業：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部15頁・検索12回）
+- 資本金・株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部15頁・検索12回）
+
 ## 株式会社SLM125
 - 公式URL：https://as-ambusiness.com/（search:yahoo_jp:株式会社SLM125）
 - 金属AM装置の保有（型番・製造元・台数・導入年）：
@@ -4551,6 +5436,21 @@
 - 所在地：記載なし（3回確認済み：公式9頁／PDF・画像0件／外部32頁・検索12回）
 - 保有設備：記載なし（3回確認済み：公式9頁／PDF・画像0件／外部32頁・検索12回）
 
+## 株式会社
+- 公式URL：特定できず（not_found）
+- 事業内容：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）
+- 資本金：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）
+- 創業年度：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）
+- 株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）
+- 所在地：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）
+- 保有設備：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）
+- 金属AM装置の保有（型番・製造元・台数・導入年）：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）
+- 使っている金属粉（材質）：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）
+- 用途・客の産業：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）
+- 資本金・株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）
+
 ## 株式会社as
 - 公式URL：https://en.as.com/（search:yahoo_jp:as）
 - 金属AM装置の保有（型番・製造元・台数・導入年）：
@@ -4604,6 +5504,71 @@
 - 所在地：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部29頁・検索12回）
 - 保有設備：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部29頁・検索12回）
 - 資本金・株主：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部29頁・検索12回）
+
+## 株式会社https
+- 公式URL：https://justprotocols.com/（search:ddgs:google:https）
+- 金属AM装置の保有（型番・製造元・台数・導入年）：
+  - 「物流会社向けに、配送管理システムの開発と、導入後の保守・運用を行っています」（https://amanaut.co.jp/blog/company-profile-writing/・3回目）
+  - 「"description": "株式会社サンプルは、東京都内の中小企業向けに会計ソフトの導入支援を行う会社です」（https://amanaut.co.jp/blog/company-profile-writing/・3回目）
+- 資本金・株主：
+  - 「並べ方は、会社を特定する情報（会社名・所在地・設立・代表者）を先に、規模を示す情報（資本金・従業員数・売上高）をその次に、事業内容と任意の項目を後ろに置く形が一般的です」（https://amanaut.co.jp/blog/company-profile-writing/・3回目）
+  - 「設立、移転、新事業の開始、受賞、資本金の変更など、会社の性格が変わった出来事を選ぶと、短くても会社の歩みが伝わります」（https://amanaut.co.jp/blog/company-profile-writing/・3回目）
+  - 「資本金・売上高・従業員数は、変わる数字です」（https://amanaut.co.jp/blog/company-profile-writing/・3回目）
+  - 「資本金や従業員数が少なくても載せたほうがいいですか？」（https://amanaut.co.jp/blog/company-profile-writing/・3回目）
+- 事業内容：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部18頁・検索12回）
+- 資本金：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部18頁・検索12回）
+- 創業年度：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部18頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部18頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部18頁・検索12回）
+- 株主：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部18頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部18頁・検索12回）
+- 保有設備：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部18頁・検索12回）
+- 使っている金属粉（材質）：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部18頁・検索12回）
+- 用途・客の産業：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部18頁・検索12回）
+
+## 株式会社アクトプローブ
+- 公式URL：https://www.act-pr.co.jp/（search:yahoo_jp:アクトプローブ）
+- 資本金：100万円（https://prtimes.jp/main/html/rd/p/000000002.000008270.html・3回目）
+- 資本金：100万円（https://prtimes.jp/main/html/rd/p/000000003.000008270.html・3回目）
+- 創業年度：設立：2013年02月（https://prtimes.jp/main/html/rd/p/000000002.000008270.html・3回目）
+- 創業年度：設立：2013年02月（https://prtimes.jp/main/html/rd/p/000000003.000008270.html・3回目）
+- 従業員数：0人（https://baseconnect.in/companies/3b0c9ea1-e3c6-4410-9bfd-5bca8040f59b・3回目）
+- 所在地：埼玉県さいたま見沼区東門前1-2-514（https://prtimes.jp/main/html/rd/p/000000002.000008270.html・3回目）
+- 所在地：埼玉県さいたま見沼区東門前1-2-514（https://prtimes.jp/main/html/rd/p/000000003.000008270.html・3回目）
+- 所在地：〒330-0854 埼玉県さいたま市大宮区桜木町462（https://baseconnect.in/companies/3b0c9ea1-e3c6-4410-9bfd-5bca8040f59b・3回目）
+- 金属AM装置の保有（型番・製造元・台数・導入年）：
+  - 「進化する金属3Dプリンター市場の近未来展望 2015年版」（https://www.act-pr.co.jp/・1回目）
+  - 「～モノづくり現場を大きく進化させる「金属積層造形技術」の今後の市場展望を大胆予測～～」（https://www.act-pr.co.jp/・1回目）
+  - 「金属積層造形に関連する国内外の最新のマーケット動向、技術動向について幅広い視点から情報収集を行い、リアルタイムでの情報提供を行います」（https://www.act-pr.co.jp/・1回目）
+  - 「金属3DプリンターによるMetal Additive Manufacturingの現在の最新情報と装置、材料、加工についての市場規模について調査・分析を行ったレポートです」（https://www.act-pr.co.jp/topics/detail/id=106・1回目）
+  - 「金属3Dプリンター市場の調査結果 | 株式会社アクトプローブのプレスリリース」（https://prtimes.jp/main/html/rd/p/000000002.000008270.html・3回目）
+  - 「金属3Dプリンター市場の調査結果」（https://prtimes.jp/main/html/rd/p/000000002.000008270.html・3回目）
+  - 「金属3Dプリンター装置（金属積層造型装置）のワールドワイドの出荷台数は2020年に2013年の約2.4倍の285台、出荷金額は325億円まで急成長する見込み！また、材料の出荷数量も2020年に2013年の約1.8倍の310トン、出荷金額は140億円が見込まれる！」（https://prtimes.jp/main/html/rd/p/000000002.000008270.html・3回目）
+  - 「株式会社アクトプローブ（本社：東京都中野区、代表取締役社長：紙 武司）では金属3Dプリンター（金属積層造型）に関して、装置、材料及び、サービスビューロについての市場調査及び分析を行った」（https://prtimes.jp/main/html/rd/p/000000002.000008270.html・3回目）
+  - 「金属3Dプリンター装置（金属積層造型装置）のワールドワイド市場規模は2013年、数量ベースで120台（累計945台）となった」（https://prtimes.jp/main/html/rd/p/000000002.000008270.html・3回目）
+  - 「結果、装置の出荷台数は2020年に2013年の約2倍の235台、出荷金額は268億円まで拡大すると見込まれる」（https://prtimes.jp/main/html/rd/p/000000002.000008270.html・3回目）
+  - 「また、もう一つのケース“Case2”では装置の造型速度が現行に比べて50％近くアップし、尚かつ装置コストが20％以上ダウンした場合で、この場合は装置の出荷台数は2020年に2013年の約2.4倍の285台、出荷金額は325億円まで拡大すると見込まれる」（https://prtimes.jp/main/html/rd/p/000000002.000008270.html・3回目）
+  - 「金属3Dプリンター装置のワールドワイド市場規模予測2013～2020年 ”Case2”」（https://prtimes.jp/main/html/rd/p/000000002.000008270.html・3回目）
+- 用途・客の産業：
+  - 「～造形方式、材料のバリエーションが多様化し、受託造形市場が活性化している金属AM市場の将来予測を行う～」（https://www.act-pr.co.jp/・1回目）
+  - 「【次世代自動車 材料】 次世代自動車の高強度・軽量化材料市場展望 2013～2025」（https://www.act-pr.co.jp/・1回目）
+  - 「最初のケース“Case1”では装置の性能、コスト、造型材料のバリエーションが現行装置と大きく変化しないと仮定した場合であり、この場合はこれまでと同じく医療、航空機需要を中心にして潜在市場の開拓によって市場は一定の拡大が期待できる」（https://prtimes.jp/main/html/rd/p/000000002.000008270.html・3回目）
+  - 「金属3Dプリンター市場や次世代自動車の高強度・軽量化材料市場の現状と将来展望を調査・提供する」（https://baseconnect.in/companies/3b0c9ea1-e3c6-4410-9bfd-5bca8040f59b・3回目）
+- 検索結果の抜粋：
+  - 「株式 会社アクトプローブ — 株式 会社アクトプローブ 株式会社アクトプローブ https://www.act-pr.co.jp」（https://www.act-pr.co.jp/・3回目）
+  - 「最新 Metal Additive Manufacturing市場の現状と将来展望 ... — 最新 Metal Additive Manufacturing市場の現状と将来展望 ... 株式会社アクトプローブ https://www.act-pr.co.jp > report_detail」（https://www.act-pr.co.jp/report_detail/id=・3回目）
+  - 「株式会社アクトプローブ | 1011201016436 | gBizINFO — 法人番号 1011201016436 法人名 株式会社アクトプローブ 法人名ふりがな 法人名英語 本店所在地 埼玉県さいたま市見沼区大字東門前1番地2（514）」（https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1011201016436・3回目）
+  - 「市場調査会社・市場動向のリサーチ会社｜株式会社アクトプローブ — Introduction会社紹介 当社は、調査企画、フィールド調査、調査結果の分析、報告といった一連の業務を長年経験したプロの調査員が独自のリサーチ方法、専門性を活かした調査を行い、クライアントである企業に役立つ情報を提供することを常に考えています。」（https://www.act-pr.co.jp/・3回目）
+  - 「株式会社アクトプローブ - 埼玉県・調査・検査・研究業界の企業情報 |... — 株式会社アクトプローブ（埼玉県さいたま市）の企業情報ページ。 調査・検査・研究業界の会社・従業員数0名。 事業内容・役員・連絡先をBaseconnectで確認できます。」（https://baseconnect.in/companies/3b0c9ea1-e3c6-4410-9bfd-5bca8040f59b・3回目）
+  - 「市場調査会社・市場動向のリサーチ会社｜株式会社アクトプローブ — 2023/03/10 最新 Metal Additive Manufacturing市場の現状と将来展望【2023年版】刊行予定のお知らせ 2020/05/25 Metal Additive Manufacturing 市場の将来展望 2020年版【市場編】刊行のお知らせ Contact お問い合わせ 株式会社アクトプローブ 代表取締役 紙 武司」（https://www.act-pr.co.jp/・3回目）
+  - 「株式会社アクトプローブ (埼玉県さいたま市見沼区)の企業情報|カイシ... — 株式会社アクトプローブの決算情報を調べたい（上場企業・一部の大企業のみ対応） 金融庁が公開する「EDINET」から検索することができます。 検索方法 書類検索 > 書類詳細検索 から 提出者法人番号の欄に「1011201016436」を入力して検索してください。」（https://kaisharesearch.com/company/detail/1011201016436/・3回目）
+  - 「アクトプローブ の企業情報 | バフェット・コード — 株式会社アクトプローブは、企業向けに市場動向調査と調査レポートの販売、並びに個別の受託調査を行うリサーチ会社です。調査企画、国内外のフィールド調査、データ分析、報告書作成までを一貫して提供し、20年以上の経験を持つプロの調査員が独自手法で実地調査を重視した情報を作成 ...」（https://www.buffett-code.com/company/1zmjvwrbi2/・3回目）
+- 事業内容：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部10頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部10頁・検索12回）
+- 株主：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部10頁・検索12回）
+- 保有設備：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部10頁・検索12回）
+- 使っている金属粉（材質）：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部10頁・検索12回）
+- 資本金・株主：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部10頁・検索12回）
 
 ## 株式会社アリエル
 - 公式URL：https://www.disney.co.jp/（search:yahoo_jp:アリエル）
@@ -5696,6 +6661,90 @@
 - 株主：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部24頁・検索12回）
 - 保有設備：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部24頁・検索12回）
 
+## 株式会社フジ
+- 公式URL：https://www.fujitv.co.jp/（search:yahoo_jp:フジ）
+- 事業内容：放送法 に基づく 認定放送持株会社（https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%83%BB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9・3回目）
+- 資本金：88億円（https://www.fujitv.co.jp/company/info/gaiyo.html・1回目）
+- 資本金：1462億円 （2025年3月31日現在） [ 2 ]（https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%83%BB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9・3回目）
+- 資本金：12億円（https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%83%BB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9・3回目）
+- 創業年度：設立：平成20年10月1日（新設分割による）（https://www.fujitv.co.jp/company/info/gaiyo.html・1回目）
+- 創業年度：設立：1957年 11月18日 （株式会社富士テレビジョン）（https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%83%BB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9・3回目）
+- 従業員数：1,140名（https://www.fujitv.co.jp/company/info/gaiyo.html・1回目）
+- 従業員数：連結: 7,302人 単体: 43人 （2025年3月31日現在） [ 2 ]（https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%83%BB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9・3回目）
+- 売上高：連結: 5507億6100万円 単体: 160億9900万円 （2025年3月期） [ 2 ]（https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%83%BB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9・3回目）
+- 株主：#資本構成 参照（https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%83%BB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9・3回目）
+- 株主：株式数(千株) 比率(%)（https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%83%BB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9・3回目）
+- 株主：株式数 比率（https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%83%BB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9・3回目）
+- 所在地：〒137-8088 東京都港区台場二丁目4番8号 03-5500-8888（大代表）（https://www.fujitv.co.jp/company/info/gaiyo.html・1回目）
+- 所在地：日本 〒 137-8088 東京都 港区 台場 二丁目4番8号 北緯35度37分36.04秒 東経139度46分27.47秒 ﻿ / ﻿ 北緯35.6266778度 東経139.7742972度 ﻿ / 35.6266778; 139.7742972 座標 : 北緯35度37分36.04秒 東経139度46分27.47秒 ﻿ / ﻿ 北緯35.6266778度 東経139.7742972度 ﻿ / 35.6266778; 139.7742972（https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%83%BB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9・3回目）
+- 所在地：3,969 2.35（https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%83%BB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9・3回目）
+- 金属AM装置の保有（型番・製造元・台数・導入年）：
+  - 「害」 「高潮」に関する新たなレベル表記やレベル4 危険警報の導入について、事前に気」（https://www.fujitv.co.jp/company/news/260827.pdf・2回目）
+  - 「での関連ニュースには全て同時手話通訳を導入しました」（https://www.fujitv.co.jp/company/news/260827.pdf・2回目）
+  - 「をコンプライアンス推進部へ報告する制度を導入しており、相談を受ける際の注意点」（https://www.fujitv.co.jp/company/news/260827.pdf・2回目）
+  - 「金属3Dプリンター造形受託サービス｜鋳造用金型、各種治具の設計・製作の株式会社フジ」（https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html・3回目）
+  - 「金属3Dプリンター造形受託サービス」（https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html・3回目）
+  - 「金属3Dプリンター」（https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html・3回目）
+  - 「金属3Dプリンターとは」（https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html・3回目）
+  - 「フジの金属3Dプリンター」（https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html・3回目）
+  - 「金属3Dプリンターとは？」（https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html・3回目）
+  - 「金属3Dプリンターとは、金属材料で」（https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html・3回目）
+  - 「金属3Dプリンターは、金属の塊を削るのとは異なり、」（https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html・3回目）
+  - 「金属3Dプリンターの」（https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html・3回目）
+- 使っている金属粉（材質）：
+  - 「一般的には工具鋼、ステンレス、インコネル、」（https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html・3回目）
+  - 「集束させた熱エネルギーを利用して、材料を溶融して結合、堆積させるプロセス（JIS B 9441による）レーザー（熱源）をワークに照射し、金属粉末を吹き付け溶融・凝固させ積み重ねます」（https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html・3回目）
+  - 「溶融凝固するプロセス（JIS B 9441による）粉末金属を薄く敷き詰め、造形部分にレーザー（もしくは電子ビーム）を照射し、溶融・凝固させます」（https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html・3回目）
+  - 「液状の結合剤を選択的に供給して粉末材料を結合するプロセス（JIS B 9441による）粉末金属を薄く敷き詰め、造形部分に液体の結合剤（バインダー）吹き付け、固体化させます」（https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html・3回目）
+  - 「冷却を促進するため、鋳造型の部品内部を銅合金で製作したサンプル品です」（https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html・3回目）
+  - 「PBF造形品の一部に銅合金をDED造形したサンプル品です」（https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html・3回目）
+  - 「※チタンやアルミ粉末は造形手法上、粉塵爆発の可能性があるので対応不可となります」（https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html・3回目）
+  - 「SUS316L」（https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html・3回目）
+  - 「316L（改）」（https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html・3回目）
+  - 「Inconel®718」（https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html・3回目）
+  - 「特に銅合金は造形プロセス上難易度が高く、造形密度が劣ります」（https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html・3回目）
+  - 「現在、株式会社フジでは造形性の良い銅合金の選定、またお客様のニーズに応えるため、材料メーカー様と鋼種の開発を進めております」（https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html・3回目）
+- 用途・客の産業：
+  - 「議論を重ねる中で最終的に残ったのは、 「多くの人の心を前向きにするエネルギーと」（https://www.fujitv.co.jp/company/news/260512.pdf・2回目）
+  - 「「楽しさ」とは、多くの人の心を前向きにするエネルギーだと、私たちは考えます」（https://www.fujitv.co.jp/company/news/260512.pdf・2回目）
+  - 「触れてくださる方の心を前向きにし、誰かの「好き」という感情を呼び起こすエネルギー」（https://www.fujitv.co.jp/company/news/260512.pdf・2回目）
+  - 「金属3Dプリンター造形受託サービス｜鋳造用金型、各種治具の設計・製作の株式会社フジ」（https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html・3回目）
+  - 「集束させた熱エネルギーを利用して、材料を溶融して結合、堆積させるプロセス（JIS B 9441による）レーザー（熱源）をワークに照射し、金属粉末を吹き付け溶融・凝固させ積み重ねます」（https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html・3回目）
+  - 「これまで培った金型ノウハウを活かした、」（https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html・3回目）
+  - 「従来の手作業によるTIG溶接の金型補修が、DED方式の金属3Dプリンターでは「除去加工」→「レーザー溶接」→「切削仕上」が1台ワンチャッキングで行うため、段取り替え不要の自動化が可能です」（https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html・3回目）
+  - 「航空宇宙、エネルギー産業などの高温・極低温の極限環境の使用に耐えうる材料を必要な範囲に付加するなど、自由な設計に対応可能です」（https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html・3回目）
+  - 「協力会社様にて、PBF方式の金型部品製作も承っています」（https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html・3回目）
+  - 「海外のとある研究によるとDEDで修復した金型は従来より寿命が３～８倍に向上したという論文があります」（https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html・3回目）
+  - 「航空機部品、金型」（https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html・3回目）
+  - 「耐食部品、耐食金型」（https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html・3回目）
+- 資本金・株主：
+  - 「「Ad Reach MAX」事業が新会社へ～フジテレビ・日本テレビ・TBSテレビによる出資、2027年2月より事業開始～」（https://www.fujitv.co.jp/company/news/index.html・1回目）
+  - 「フジテレビの親会社フジ・メディア・ホールディングスは、2018年4月より国連グローバル・コンパクトに署名しています」（https://www.fujitv.co.jp/sustainability/about/index.html・1回目）
+  - 「「Ad Reach MAX」事業が新会社へ～フジテレビ・日本テレビ・TBSテレビによる出資、2027年2月より事業開始～」（https://www.fujitv.co.jp/company/news/・1回目）
+  - 「フジテレビの親会社フジ・メディア・ホールディングスは、2018年4月より国連グローバル・コンパクトに署名しています」（https://www.fujitv.co.jp/sustainability/about/・1回目）
+  - 「（親会社フジ・メディア・ホールディングスとフジテレビの兼務体制見直し）」（https://www.fujitv.co.jp/company/news/260827.pdf・2回目）
+  - 「（１） 取締役会は、 株主からの負託にこたえて、 関係者との取引関係も含めて適切な事業運」（https://www.fujitv.co.jp/company/news/260827.pdf・2回目）
+  - 「と当社子会社を対象として、 会計及び業務に係る定期監査並びに臨時監査を行い、 当該」（https://www.fujitv.co.jp/company/news/260827.pdf・2回目）
+  - 「〇なお、 当社の親会社であるFMH の監査等委員会は、 内部監査部門から監査結果などに」（https://www.fujitv.co.jp/company/news/260827.pdf・2回目）
+  - 「資本構成 資本金: 8,800 百万円」（https://www.fujitv.co.jp/company/news/260827.pdf・2回目）
+  - 「主要株主 1/10 を超える議決権を有する者とその者の議決権比率:」（https://www.fujitv.co.jp/company/news/260827.pdf・2回目）
+  - 「株主資本 105,717」（https://www.fujitv.co.jp/company/news/260827.pdf・2回目）
+  - 「資本金 8,800」（https://www.fujitv.co.jp/company/news/260827.pdf・2回目）
+- 検索結果の抜粋：
+  - 「会社概要 | 会社情報 | 株式会社 フジ 会社案内サイト — 会社概要 | 会社情報 | 株式会社 フジ 会社案内サイト フジ https://www.the-fuji.com > company > about」（https://www.the-fuji.com/company/about/・3回目）
+  - 「(株) フジ ( フジ ・マックスバリュ・マルナカ・ザ ビッグ) — (株) フジ ( フジ ・マックスバリュ・マルナカ・ザ ビッグ) マイナビ https://job.mynavi.jp > search > corp4615 > outline」（https://job.mynavi.jp/28/pc/search/corp4615/outline.html・3回目）
+  - 「概要 ｜企業 情報 - フジ テレビ — 概要 ｜企業 情報 - フジ テレビ フジテレビ https://www.fujitv.co.jp > company > info > gaiyo」（https://www.fujitv.co.jp/company/info/gaiyo.html・3回目）
+  - 「会社概要 - フジ・コーポレーション — 会社概要 - フジ・コーポレーション フジ・コーポレーション https://www.fujicorporation.com > company > outline」（https://www.fujicorporation.com/company/outline/index.html・3回目）
+  - 「フジ 金属積層造形 で異種材金型を製造【金型の底力】 — フジ 金属積層造形 で異種材金型を製造【金型の底力】 金型新聞社 https://kanagata-shimbun.com > 202305_sokodikara」（https://kanagata-shimbun.com/202305_sokodikara/・3回目）
+  - 「株式の状況 - フジ・メディア・ホールディングス — 株式の状況 - フジ・メディア・ホールディングス フジ・メディア・ホールディングス https://www.fujimediahd.co.jp > s_information」（https://www.fujimediahd.co.jp/ir/s_information.html・3回目）
+  - 「フジ ・メディア・ホールディングス - Wikipedia — フジ ・メディア・ホールディングス - Wikipedia Wikipedia https://ja.wikipedia.org > フジ・メディア・ホールディングス」（https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%83%BB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9・3回目）
+  - 「株主 優待制度 | 株主 ・投資家の皆さまへ - フジ — 株主 優待制度 | 株主 ・投資家の皆さまへ - フジ フジ https://www.the-fuji.com > company > benefit」（https://www.the-fuji.com/company/ir/benefit/・3回目）
+  - 「フジ親会社 の大 株主 に旧村上ファンド系【スーパー ... - YouTube — フジ親会社 の大 株主 に旧村上ファンド系【スーパー ... - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=F51ykeUKNdc・3回目）
+  - 「フジ テレビ 親会社 株主 総会 会社側提案の取締役選任案が可決 — フジ テレビ 親会社 株主 総会 会社側提案の取締役選任案が可決 NHKニュース https://news.web.nhk > newsweb > na-k10014843671000」（https://news.web.nhk/newsweb/na/na-k10014843671000・3回目）
+  - 「【 フジ 】[8278]決算発表や業務・財務情報 | 日経電子版 — 【 フジ 】[8278]決算発表や業務・財務情報 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kessan」（https://www.nikkei.com/nkd/company/kessan/?scode=8278・3回目）
+  - 「数字で見る フジ オーゼックス — 数字で見る フジ オーゼックス フジオーゼックス株式会社 https://www.oozx.co.jp > feature」（https://www.oozx.co.jp/feature/・3回目）
+- 保有設備：記載なし（3回確認済み：公式13頁／PDF・画像2件／外部27頁・検索12回）
+
 ## 株式会社ホームページ
 - 公式URL：https://ds-b.jp/（search:yahoo_jp:ホームページ）
 - 事業内容：CMS企画開発＆Webデザイン制作・販売・サポート事業 RICOH kintone plus連携ソリューション企画開発・サポート事業 AIチャットボット企画開発・販売・サポート事業 HRテック＆オンライン産業医サービス企画開発・販売・サポート事業 WebRTC＆メタバース企画開発・販売・サポート事業（https://ds-b.jp/pages/6/・1回目）
@@ -5736,6 +6785,21 @@
 - 株主：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部28頁・検索12回）
 - 保有設備：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部28頁・検索12回）
 - 使っている金属粉（材質）：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部28頁・検索12回）
+
+## 株式会社ユニコン最新
+- 公式URL：特定できず（not_found）
+- 事業内容：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 資本金：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 創業年度：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 所在地：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 保有設備：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 金属AM装置の保有（型番・製造元・台数・導入年）：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 使っている金属粉（材質）：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 用途・客の産業：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 資本金・株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
 
 ## 株式会社中央可鍛工業株式会社
 - 公式URL：https://chuokatan.co.jp/（search:ddgs:google:中央可鍛工業）
@@ -5994,6 +7058,68 @@
 - 売上高：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部26頁・検索12回）
 - 株主：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部26頁・検索12回）
 - 保有設備：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部26頁・検索12回）
+
+## 株式会社宮城県産業技術総合センター
+- 公式URL：https://www.mit.pref.miyagi.jp/（search:yahoo_jp:宮城県産業技術総合センター）
+- 金属AM装置の保有（型番・製造元・台数・導入年）：
+  - 「2009年度導入」（https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/・1回目）
+  - 「2021年度導入」（https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/・1回目）
+  - 「2011年度導入」（https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/・1回目）
+  - 「2009年度導入」（https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/%E5%88%86%E6%9E%90%E3%83%BB%E6%B8%AC%E5%AE%9A%E9%96%A2%E9%80%A3%E6%A9%9F%E5%99%A8/・1回目）
+  - 「2021年度導入」（https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/%E5%88%86%E6%9E%90%E3%83%BB%E6%B8%AC%E5%AE%9A%E9%96%A2%E9%80%A3%E6%A9%9F%E5%99%A8/・1回目）
+  - 「2011年度導入」（https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/%E5%88%86%E6%9E%90%E3%83%BB%E6%B8%AC%E5%AE%9A%E9%96%A2%E9%80%A3%E6%A9%9F%E5%99%A8/・1回目）
+  - 「導入後1ヶ月(平成23年1月)の依頼試験件数は、1931件であった」（https://www.mit.pref.miyagi.jp/equipment/%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BAjka%E3%81%8B%E3%82%89%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AB%E3%82%88%E3%82%8A%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F%E8%A8%AD%E5%82%99/・1回目）
+  - 「導入後1ヶ月(平成21年12月)の技術相談は10件、技術改善支援は1件」（https://www.mit.pref.miyagi.jp/equipment/%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BAjka%E3%81%8B%E3%82%89%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AB%E3%82%88%E3%82%8A%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F%E8%A8%AD%E5%82%99/・1回目）
+  - 「平成21年3月16日の導入後、平成20年3月31日までに4件、のべ18時間の利用があった」（https://www.mit.pref.miyagi.jp/equipment/%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BAjka%E3%81%8B%E3%82%89%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AB%E3%82%88%E3%82%8A%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F%E8%A8%AD%E5%82%99/・1回目）
+  - 「平成21年1月29日の導入後、平成20年3月30日までに9件、のべ120時間の利用があった」（https://www.mit.pref.miyagi.jp/equipment/%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BAjka%E3%81%8B%E3%82%89%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AB%E3%82%88%E3%82%8A%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F%E8%A8%AD%E5%82%99/・1回目）
+  - 「導入後1ヵ月(平成20年1月)の稼働時間は41時間」（https://www.mit.pref.miyagi.jp/equipment/%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BAjka%E3%81%8B%E3%82%89%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AB%E3%82%88%E3%82%8A%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F%E8%A8%AD%E5%82%99/・1回目）
+  - 「導入後の平成14年度から平成18年度までに、総使用時間2000時間超(施設機器開放、技術改善支援)約350件の利用があった」（https://www.mit.pref.miyagi.jp/equipment/%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BAjka%E3%81%8B%E3%82%89%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AB%E3%82%88%E3%82%8A%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F%E8%A8%AD%E5%82%99/・1回目）
+- 使っている金属粉（材質）：
+  - 「Ｘ線では透過しない，大型構造物や厚い鉄鋳物，アルミダイカスト，溶接部，ＦＲＰ等の三次元超音波探傷が可能」（https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/・1回目）
+  - 「高速回転する攪拌羽根により、室温で粉末、顆粒、液体を均一に混合攪拌できます」（https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/・1回目）
+  - 「樹脂粉末，ペレットの混合攪拌試験」（https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/・1回目）
+  - 「直流パルス通電による熱と油圧プレスによる加圧力により、原料粉末を短時間のうちに強固に焼き固めます」（https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/・1回目）
+  - 「・原料粉末を短時間の内に焼結し、高密度焼結体や多孔質体を早く作製できます」（https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/・1回目）
+  - 「粉末焼結，接合等の製品開発・試作」（https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/・1回目）
+  - 「大気中において、金属やアルミナ、ジルコニアなどのセラミックスを焼結することが出来ます」（https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/・1回目）
+  - 「薄板，粉末など，様々な形状の試料が測定可能」（https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/・1回目）
+  - 「鉄・アルミニウム・銅・マグネシウム・亜鉛に含まれる主要成分の定量分析を行います」（https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/・1回目）
+  - 「形態： バルク，粉末等」（https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/・1回目）
+  - 「形態： フィルム，粉末等」（https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/・1回目）
+  - 「Ｘ線では透過しない，大型構造物や厚い鉄鋳物，アルミダイカスト，溶接部，ＦＲＰ等の三次元超音波探傷が可能」（https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/%E6%9D%90%E6%96%99%E5%8A%A0%E5%B7%A5%E9%96%A2%E9%80%A3%E6%A9%9F%E5%99%A8/・1回目）
+- 用途・客の産業：
+  - 「はじめて御利用いただく方へ 光造形システムを用いた試作支援依頼については、事前に御相談をお願いします」（https://www.mit.pref.miyagi.jp/equipment/・1回目）
+  - 「当センターの研究，企業に対する技術支援(依頼試験，機器開放，技術改善支援)に利用されています」（https://www.mit.pref.miyagi.jp/equipment/・1回目）
+  - 「粉末焼結，接合等の製品開発・試作」（https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/・1回目）
+  - 「・試験機としては大きな吐出量を確保しているので、次工程の成形試作への展開も容易です」（https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/・1回目）
+  - 「落雷により電力線や電話線に誘導された高エネルギーの雷サージを発生する試験器」（https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/・1回目）
+  - 「工業製品などの試作品を高精度・短期間に製作可能」（https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/・1回目）
+  - 「レトルト食品を試作できる小型の高温高圧殺菌装置」（https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/・1回目）
+  - 「加熱乾燥に比べ成分変化が少なく復元性の良い乾燥品（フリーズドライ）を試作できます」（https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/・1回目）
+  - 「エネルギー分散型蛍光X線分析装置(EDXRF)」（https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/・1回目）
+  - 「粉末焼結，接合等の製品開発・試作」（https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/%E6%9D%90%E6%96%99%E5%8A%A0%E5%B7%A5%E9%96%A2%E9%80%A3%E6%A9%9F%E5%99%A8/・1回目）
+  - 「・試験機としては大きな吐出量を確保しているので、次工程の成形試作への展開も容易です」（https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/%E6%9D%90%E6%96%99%E5%8A%A0%E5%B7%A5%E9%96%A2%E9%80%A3%E6%A9%9F%E5%99%A8/・1回目）
+  - 「落雷により電力線や電話線に誘導された高エネルギーの雷サージを発生する試験器」（https://www.mit.pref.miyagi.jp/equipment/%E6%A9%9F%E5%99%A8%E5%88%86%E9%87%8E%E5%88%A5%E4%B8%80%E8%A6%A7/%E9%9B%BB%E5%AD%90%E3%83%BB%E6%83%85%E5%A0%B1%E9%96%A2%E9%80%A3%E6%A9%9F%E5%99%A8/・1回目）
+- 検索結果の抜粋：
+  - 「宮城県産業技術総合センター – Industrial Technology Institute ... — 宮城県産業技術総合センター – Industrial Technology Institute ... 宮城県産業技術総合センター https://www.mit.pref.miyagi.jp」（https://www.mit.pref.miyagi.jp/・3回目）
+  - 「宮城県産業技術総合センター の 会社概要 ・製品情報 | Metoree — 宮城県産業技術総合センター の 会社概要 ・製品情報 | Metoree Metoree https://metoree.com > 会社一覧」（https://metoree.com/companies/43532/・3回目）
+  - 「暮らしのいろんな場面で遭遇！『 宮城県産業技術総合センター ... — 暮らしのいろんな場面で遭遇！『 宮城県産業技術総合センター ... 仙台市ごみ減量・リサイクル情報総合サイト https://www.gomi100.com > articles > wnn」（https://www.gomi100.com/articles/wnn/9186・3回目）
+  - 「宮城県産業技術総合センター - YouTube — 宮城県産業技術総合センター - YouTube YouTube https://www.youtube.com > channel」（https://www.youtube.com/channel/UCxZWkGo3iABWCZu7pSyyUww・3回目）
+  - 「金属3Dプリンター で 技術 革新を支える～日本積層造形株式会社 — 金属3Dプリンター で 技術 革新を支える～日本積層造形株式会社 宮城県産業技術総合センター https://www.mit.pref.miyagi.jp > voice > jampt_interview」（https://www.mit.pref.miyagi.jp/services/voice/jampt_interview/・3回目）
+  - 「金属 3Dプリンターで 技術 革新を支える～日本 積層造形 株式会社 — 金属 3Dプリンターで 技術 革新を支える～日本 積層造形 株式会社 宮城県産業技術総合センター https://www.mit.pref.miyagi.jp > voice > jampt_interview」（https://www.mit.pref.miyagi.jp/services/voice/jampt_interview/・3回目）
+  - 「宮城AM研究会 - 宮城県産業技術総合センター — 宮城AM研究会 - 宮城県産業技術総合センター 宮城県産業技術総合センター https://www.mit.pref.miyagi.jp > mde > mde-labs」（https://www.mit.pref.miyagi.jp/mde/mde-labs/・3回目）
+  - 「宮城県産業技術総合センター の会社概要・製品情報 | Metoree — 宮城県産業技術総合センター の会社概要・製品情報 | Metoree Metoree https://metoree.com > 会社一覧」（https://metoree.com/companies/43532/・3回目）
+  - 「宮城県産業技術総合センター における研究・技術支援と連携 — 宮城県産業技術総合センター における研究・技術支援と連携 食品需給研究センター PDF https://www.fmric.or.jp > 080202_miyagi_sangicenter」（https://www.fmric.or.jp/foodcluster/monokoto/02tohoku/2008/080202_miyagi_sangicenter.pdf・3回目）
+  - 「宮城県産業技術総合センター の求人・転職情報 - とらばーゆ — 宮城県産業技術総合センター の求人・転職情報 - とらばーゆ とらばーゆ https://toranet.jp > ... > 宮城 > 仙台市 > 仙台市泉区」（https://toranet.jp/viewjob/c40600f2ebec1fec/・3回目）
+- 事業内容：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部15頁・検索12回）
+- 資本金：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部15頁・検索12回）
+- 創業年度：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部15頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部15頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部15頁・検索12回）
+- 株主：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部15頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部15頁・検索12回）
+- 保有設備：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部15頁・検索12回）
+- 資本金・株主：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部15頁・検索12回）
 
 ## 株式会社建設機械
 - 公式URL：https://www.cema.or.jp/（search:ddgs:google:建設機械）
@@ -6280,6 +7406,43 @@
 - 売上高：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部16頁・検索13回）
 - 株主：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部16頁・検索13回）
 - 保有設備：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部16頁・検索13回）
+
+## 株式会社明楽様
+- 公式URL：特定できず（not_found）
+- 金属AM装置の保有（型番・製造元・台数・導入年）：
+  - 「職人不足と"銅"の壁を越える金属3Dプリンター「LAMDA」の挑戦｜株式会社明楽様 導入事例 - YouTube」（https://www.youtube.com/watch?v=NBSHmkQ7lWU・3回目）
+  - 「職人不足と"銅"の壁を越える金属3Dプリンター「LAMDA」の挑戦｜株式会社明楽様 導入事例」（https://www.youtube.com/watch?v=NBSHmkQ7lWU・3回目）
+  - 「4台体制で1日20時間稼働！金属3Dプリンター受託製造の最前線｜JFEエンジニアリング株式会社様「LAMDA」導入事例」（https://www.youtube.com/watch?v=NBSHmkQ7lWU・3回目）
+  - 「パウダDED方式3次元金属積層造形機LAMDA 【ニデックマシンツール】音声で詳しくご紹介」（https://www.youtube.com/watch?v=NBSHmkQ7lWU・3回目）
+  - 「「それじゃ面白くない」社長の一言から始まった、金属3Dプリンター事業への挑戦！大丸鐵興株式会社「LAMDA」導入事例」（https://www.youtube.com/watch?v=NBSHmkQ7lWU・3回目）
+  - 「#金属3Dプリンター」（https://www.youtube.com/watch?v=NBSHmkQ7lWU・3回目）
+  - 「426回視聴 • 2026/07/15 • #製造業 #金属3Dプリンター #LAMDA」（https://www.youtube.com/watch?v=NBSHmkQ7lWU・3回目）
+  - 「導入の背景：積層と切削を1台で行うハイブリッド仕様「LAMDA2000」」（https://www.youtube.com/watch?v=NBSHmkQ7lWU・3回目）
+  - 「導入の背景：複雑形状に対応する「LAMDA200」」（https://www.youtube.com/watch?v=NBSHmkQ7lWU・3回目）
+  - 「本動画では、工作機械の組立から精密金属加工までを幅広く手掛ける株式会社明楽様が、金属3Dプリンター「LAMDA」2台を駆使して切り拓いた金属積層（AM）事業の最前線の事例を紹介します」（https://www.youtube.com/watch?v=NBSHmkQ7lWU・3回目）
+  - 「▼金属3Dプリンター「LAMDA」製品情報はこちら」（https://www.youtube.com/watch?v=NBSHmkQ7lWU・3回目）
+- 使っている金属粉（材質）：
+  - 「職人不足と"銅"の壁を越える金属3Dプリンター「LAMDA」の挑戦｜株式会社明楽様 導入事例 - YouTube」（https://www.youtube.com/watch?v=NBSHmkQ7lWU・3回目）
+  - 「職人不足と"銅"の壁を越える金属3Dプリンター「LAMDA」の挑戦｜株式会社明楽様 導入事例」（https://www.youtube.com/watch?v=NBSHmkQ7lWU・3回目）
+  - 「「DED方式では積層が難しいとされる『銅』の積層をどうやって攻略したのか？」「職人の手溶接補修を超えて、金型の寿命を劇的に延ばす秘密とは？」」（https://www.youtube.com/watch?v=NBSHmkQ7lWU・3回目）
+  - 「LAMDAを駆使した強み①：1年で12種類の粉末材料へ挑戦」（https://www.youtube.com/watch?v=NBSHmkQ7lWU・3回目）
+  - 「同社の真骨頂！熱を逃がさず、だれを防ぐ「銅」の積層技術の確立」（https://www.youtube.com/watch?v=NBSHmkQ7lWU・3回目）
+  - 「わずか1年間でSPM30やチタン合金、さらにはレーザーを反射し熱伝導率が極めて高いためDED方式では造形困難とされてきた「銅」の積層も攻略しました」（https://www.youtube.com/watch?v=NBSHmkQ7lWU・3回目）
+- 用途・客の産業：
+  - 「AMPI 竹本部長ご講演（近畿高エネルギー加工技術研究所）」（https://www.youtube.com/watch?v=NBSHmkQ7lWU・3回目）
+  - 「「DED方式では積層が難しいとされる『銅』の積層をどうやって攻略したのか？」「職人の手溶接補修を超えて、金型の寿命を劇的に延ばす秘密とは？」」（https://www.youtube.com/watch?v=NBSHmkQ7lWU・3回目）
+  - 「適用事例①：【金型刃先補修】手溶接のバラつきを解消し、安定した長寿命化を達成」（https://www.youtube.com/watch?v=NBSHmkQ7lWU・3回目）
+  - 「また、職人の熟練度によって製品寿命にバラつきが出ていたプレス金型刃先への補修プロセスを「LAMDA」による精密制御へリプレイス」（https://www.youtube.com/watch?v=NBSHmkQ7lWU・3回目）
+  - 「「手溶接の技術者不足や金型刃先の摩耗・割れに悩んでいる」「自社で使いたい素材が積層できるか検証したい」という経営者・技術者の方は必見の内容です」（https://www.youtube.com/watch?v=NBSHmkQ7lWU・3回目）
+- 事業内容：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 資本金：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 創業年度：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 所在地：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 保有設備：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 資本金・株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
 
 ## 株式会社松本製作所様
 - 公式URL：特定できず（not_found）
@@ -6659,6 +7822,89 @@
 - 株主：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部11頁・検索12回）
 - 保有設備：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部11頁・検索12回）
 
+## 株式会社酉島製作所
+- 公式URL：https://www.torishima.co.jp/（search:yahoo_jp:酉島製作所）
+- 事業内容：【ポンプ事業】 ポンプ、ポンププラント、メカニカルシール、その他ポンプ関連機器の製造・販売及び据付工事・サービスなど（https://www.torishima.co.jp/outline/olinfo/au/・1回目）
+- 資本金：15億93百万円（https://www.torishima.co.jp/outline/olinfo/au/・1回目）
+- 資本金：1,592(百万円) 
+                                            (2026/3現在) 
+                                            日本基準（https://www.nikkei.com/nkd/company/gaiyo/?scode=6363・3回目）
+- 資本金：15億9300万円（https://prtimes.jp/main/html/rd/p/000000032.000136252.html・3回目）
+- 創業年度：創業：1919年（大正8年）8月1日（https://www.torishima.co.jp/outline/olinfo/au/・1回目）
+- 創業年度：設立：1919年8月1日（https://www.torishima.co.jp/news/2026/10/29/ai_1/・1回目）
+- 創業年度：設立：2008年8月8日（https://www.torishima.co.jp/news/2026/10/29/ai_1/・1回目）
+- 従業員数：2,127名（内単体1,040名） （2026年3月31日現在）（https://www.torishima.co.jp/outline/olinfo/au/・1回目）
+- 従業員数：1,040 人（https://www.nikkei.com/nkd/company/gaiyo/?scode=6363・3回目）
+- 売上高：929億27百万円 （2025年度連結）（https://www.torishima.co.jp/outline/olinfo/au/・1回目）
+- 所在地：〒569-8660 大阪府高槻市宮田町一丁目1番8号 →地図を見る（https://www.torishima.co.jp/outline/olinfo/au/・1回目）
+- 所在地：大阪府高槻市、代表取締役CEO：原田耕太郎、以下：酉島製作所）とブレインズテクノロジー株式会社（本社：東京都港区、代表取締役：濱中佐和子、以下：ブレインズテクノロジー）は、国土交通省が推進する「河川機械設備（排水機場）の維持管理におけるAIモニタリングシステム」の研究開発グループ公募において、酉島製作所を代表企業とし、ブレインズテクノロジーがAI開発を担う研究開発グループが採択されたことをお知らせします（https://www.torishima.co.jp/news/2026/10/29/ai_1/・1回目）
+- 所在地：〒569-8660 大阪府高槻市宮田町１－１－８ 地図（https://www.nikkei.com/nkd/company/gaiyo/?scode=6363・3回目）
+- 金属AM装置の保有（型番・製造元・台数・導入年）：
+  - 「本補助金の活用やスーパーエコポンプの導入をご検討の際は、ぜひお気軽にご相談ください」（https://www.torishima.co.jp/jp/ecopump/news/vol102.html・1回目）
+  - 「「TR-COM（回転機械モニタリングシステム）」の大規模導入で省力化・省人化を実現」（https://www.torishima.co.jp/news/・1回目）
+  - 「金属3Dプリンタで、納期短縮と長寿命化を実現！ ～ 老朽化ポンプの整備に、最新AM技術の活用を拡大中～」（https://www.torishima.co.jp/news/・1回目）
+  - 「ボイラ給水ポンプの予備機保有で安定した電力供給に貢献」（https://www.torishima.co.jp/news/・1回目）
+  - 「横浜市水道局が実施するICT技術導入の実証実験にTR-COMが採用され、技術者不足の課題解決に貢献」（https://www.torishima.co.jp/news/・1回目）
+  - 「大同特殊鋼株式会社 知多工場にTR-COMシステムを導入」（https://www.torishima.co.jp/news/・1回目）
+  - 「クリーンエネルギー技術を導入した発電所向け主要ポンプを受注」（https://www.torishima.co.jp/news/・1回目）
+  - 「先進技術導入の国際化に伴い西ドイツの世界的ポンプメーカーと技術提携」（https://www.torishima.co.jp/outline/olinfo/history/・1回目）
+  - 「先進技術導入の国際化に伴い西ドイツの世界的ポンプメーカーと技術提携」（https://www.torishima.co.jp/ir/abouttorishima/・1回目）
+  - 「AI異常検知ソリューション「Impulse」や企業内検索エンジン「Neuron ES」に加え、専門的で複雑な業務の認識・判断・実行を支援する「業務特化型AIエージェント Industrial AI Agent」、AIによる認識・判断・動作制御とロボットの現場導入を支援する「フィジカルAI 現場実装・ロボット導入支援サービス」を展開しています」（https://www.torishima.co.jp/news/2026/10/29/ai_1/・1回目）
+  - 「公式ガイドブックには、水害から街と暮らしを守る耐水モータ一体型ポンプの技術や、国内外での導入事例が分かりやすくご紹介されています」（https://www.torishima.co.jp/news/2026/10/21/post_74/・1回目）
+  - 「保有している株式、投資信託、現預金を5フォルダに分けて登録しておくことで、効率よく資産管理ができます」（https://www.nikkei.com/nkd/company/gaiyo/?scode=6363・3回目）
+- 使っている金属粉（材質）：
+  - 「Ͱ૊Έཱ͍ͯͯͨӋࠜं ʢΠϯϖϥʣΛɺڧ ਟͳ εςϯϨεʢSUS316L૬౰ʣͰ」（https://www.torishima.co.jp/common/uploads/CompanyMagazine237.pdf・2回目）
+  - 「3Dデジタルデータから直接金属粉末を溶融・積層して形づくる「木型レス造形」のため、前準備工程を大幅にカット」（https://prtimes.jp/main/html/rd/p/000000032.000136252.html・3回目）
+  - 「従来は「銅合金（CAC402）」製の羽根と「鋳鉄（FC250）」製のボスをボルト等で組み立てていたプロペラを、強靭な「高耐食ステンレス鋼（SUS316L相当）」により、」（https://prtimes.jp/main/html/rd/p/000000032.000136252.html・3回目）
+  - 「AMで製作したプロペラ（SUS316L製）を用い、連続運転試験を実施」（https://prtimes.jp/main/html/rd/p/000000032.000136252.html・3回目）
+  - 「塩水環境下における長時間の浸漬試験を実施した結果、AM（積層）材は、従来のステンレス鋳造材と比較して圧倒的に低い腐食質量減少率（数分の一）を記録し、優れた防錆・耐食性が実証されました」（https://prtimes.jp/main/html/rd/p/000000032.000136252.html・3回目）
+  - 「3Dデジタルデータから金属粉末を溶融、積層する木型レス造形により、前準備工程を短縮できた」（https://monoist.itmedia.co.jp/mn/articles/2608/07/news015.html・3回目）
+  - 「また、これまで銅合金製の羽根と鋳鉄製のボスをボルトで結合していたが、SUS316L相当の高耐食ステンレス鋼による一体造形を可能にした」（https://monoist.itmedia.co.jp/mn/articles/2608/07/news015.html・3回目）
+  - 「連続運転試験後の非破壊検査では、羽根の付け根部分に亀裂は発生せず、塩水浸漬試験でも腐食による質量減少率は従来のステンレス鋳造材の数分の一にとどまることを確認した」（https://monoist.itmedia.co.jp/mn/articles/2608/07/news015.html・3回目）
+  - 「最終形状に近い状態まで金属粉末を積層する「ニアネットシェイプ」での造形により、廃材を抑えて環境負荷の低減にも寄与する」（https://monoist.itmedia.co.jp/mn/articles/2608/07/news015.html・3回目）
+  - 「ポンプの製造には大量の鋳物、ステンレス鋼、モーターが必要です」（https://note.com/open_azalea2045/n/n6c9c7a598852・3回目）
+- 用途・客の産業：
+  - 「経済産業省資源エネルギー庁が企画・予算元となり、一般社団法人環境共創イニシアチブ(SII)が運営を務めています」（https://www.torishima.co.jp/jp/ecopump/news/vol102.html・1回目）
+  - 「台湾の大型LNG受入基地国家プロジェクトを支える ― アジアのエネルギーインフラ構築への貢献」（https://www.torishima.co.jp/news/・1回目）
+  - 「世界省エネルギー等ビジネス推進協議会の「国際展開 技術集2026」に掲載されました」（https://www.torishima.co.jp/news/・1回目）
+  - 「クリーンエネルギーで未来を支えるEntergy社の火力発電所向けポンプを連続受注」（https://www.torishima.co.jp/news/・1回目）
+  - 「クリーンエネルギー技術を導入した発電所向け主要ポンプを受注」（https://www.torishima.co.jp/news/・1回目）
+  - 「トリシマは、最新のCFD（流体解析）を駆使して、水がポンプの中をエネルギーロスなく流れるようデザインし、ポンプの高効率化を追求」（https://www.torishima.co.jp/ir/abouttorishima/・1回目）
+  - 「アンモニアは次世代エネルギーとしても注目されていますが、漏れると危険なためその製造には高度な技術が必要です」（https://www.torishima.co.jp/ir/abouttorishima/・1回目）
+  - 「使用するポンプやモータにエネルギー効率が高い製品を採用し、機器そのものの省エネ効果を向上させます」（https://www.torishima.co.jp/news/2026/08/28/post_68/・1回目）
+  - 「海水を真水に変える海水淡水プラント、巨大なエネルギーを生み出す発電所の心臓部」（https://job.mynavi.jp/28/pc/search/corp271478/outline.html・3回目）
+  - 「流体解析技術（CFD）を駆使して水の流れを最適化し、徹底したポンプ高効率化を実現（省エネルギー推進）」（https://job.mynavi.jp/28/pc/search/corp271478/outline.html・3回目）
+  - 「横浜市医療局(横浜市立市民病院,横浜市立脳卒中・神経脊椎センター)」（https://job.mynavi.jp/28/pc/search/corp271478/outline.html・3回目）
+  - 「従来の鋳造技術では、製品重量の約1.5〜3倍の溶けた金属を消費（湯口や押し湯などの廃材が発生）し、材料・エネルギー双方のロスが多いことが課題でした」（https://prtimes.jp/main/html/rd/p/000000032.000136252.html・3回目）
+- 資本金・株主：
+  - 「第145回 定時株主総会招集ご通知に際しての電子提供措置事項」（https://www.torishima.co.jp/news/・1回目）
+  - 「第145回 定時株主総会招集ご通知」（https://www.torishima.co.jp/news/・1回目）
+  - 「新日本造機株式会社の株式の取得（子会社）および 特定子会社の異動に関するお知らせ」（https://www.torishima.co.jp/news/・1回目）
+  - 「「第144 回定時株主総会招集ご通知」の一部修正について」（https://www.torishima.co.jp/news/・1回目）
+  - 「第144回 定時株主総会招集ご通知に際しての電子提供措置事項」（https://www.torishima.co.jp/news/・1回目）
+  - 「第144回 定時株主総会招集ご通知」（https://www.torishima.co.jp/news/・1回目）
+  - 「トリシマの連結子会社Australia Fulid Handlingが、 新製造・サービス工場のオープニングセレモニーを実施」（https://www.torishima.co.jp/news/・1回目）
+  - 「第143回 定時株主総会招集ご通知に際しての電子提供措置事項」（https://www.torishima.co.jp/news/・1回目）
+  - 「第143回 定時株主総会招集ご通知」（https://www.torishima.co.jp/news/・1回目）
+  - 「第142回 定時株主総会招集ご通知」（https://www.torishima.co.jp/news/・1回目）
+  - 「第142回 定時株主総会招集ご通知に際しての電子提供措置事項」（https://www.torishima.co.jp/news/・1回目）
+  - 「オーストラリアのAustralia Fluid Handling Pty. Ltd.社を子会社化」（https://www.torishima.co.jp/outline/olinfo/history/・1回目）
+- 検索結果の抜粋：
+  - 「会社概要 | 株式会社 酉島製作所 トリシマポンプ — 会社概要 | 株式会社 酉島製作所 トリシマポンプ torishima.co.jp https://www.torishima.co.jp > outline > olinfo」（https://www.torishima.co.jp/outline/olinfo/au/・3回目）
+  - 「(株) 酉島製作所 の 会社概要 | マイナビ2028 — (株) 酉島製作所 の 会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp271478 > outline」（https://job.mynavi.jp/28/pc/search/corp271478/outline.html・3回目）
+  - 「【 酉島製作所 】[6363]企業 概要 社員数や役員報酬・ 資本金 — 【 酉島製作所 】[6363]企業 概要 社員数や役員報酬・ 資本金 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo」（https://www.nikkei.com/nkd/company/gaiyo/?scode=6363・3回目）
+  - 「酉島製作所 【6363】のストーリー・沿革 - キタイシホン — 酉島製作所 【6363】のストーリー・沿革 - キタイシホン キタイシホン https://kitaishihon.com > company > story」（https://kitaishihon.com/company/6363/story・3回目）
+  - 「株式 会社 酉島製作所 ｜会員名鑑 - 日本メンテナンス工業会 — 株式 会社 酉島製作所 ｜会員名鑑 - 日本メンテナンス工業会 一般社団法人日本メンテナンス工業会 https://www.jamsec.jp > 会員検索」（https://www.jamsec.jp/member-search/143.php・3回目）
+  - 「金属3Dプリンター で老朽ポンプを短納期・高耐久化 酉島製作所 — 金属3Dプリンター で老朽ポンプを短納期・高耐久化 酉島製作所 ShareLab NEWS https://news.sharelab.jp > 業界動向 > 金属3Dプリンター」（https://news.sharelab.jp/3dp-news/metal-3dprinter/torishima-metal-am-pump-impeller-260811/・3回目）
+  - 「生産技術 | 酉島製作所 採用特設サイト トリシマポンプ — 生産技術 | 酉島製作所 採用特設サイト トリシマポンプ torishima.co.jp https://www.torishima.co.jp > saiyo > voice」（https://www.torishima.co.jp/saiyo/voice/010/・3回目）
+  - 「金属 3Dプリンターで老朽ポンプを短納期・高耐久化 酉島製作所 — 金属 3Dプリンターで老朽ポンプを短納期・高耐久化 酉島製作所 ShareLab NEWS https://news.sharelab.jp > 業界動向 > 金属3Dプリンター」（https://news.sharelab.jp/3dp-news/metal-3dprinter/torishima-metal-am-pump-impeller-260811/・3回目）
+  - 「大学生向け 採用パンフレット - 酉島製作所 — 大学生向け 採用パンフレット - 酉島製作所 torishima.co.jp PDF https://www.torishima.co.jp > pdf > University-student」（https://www.torishima.co.jp/saiyo/pdf/University-student.pdf・3回目）
+  - 「基本情報 | 株式会社 酉島製作所 トリシマポンプ — 基本情報 | 株式会社 酉島製作所 トリシマポンプ torishima.co.jp https://www.torishima.co.jp > IR情報 > 株式情報」（https://www.torishima.co.jp/ir/irinfo/stock-info/・3回目）
+  - 「【 酉島製作所 】[6363]適時開示情報 株主 総会や定款関連 | 日経 ... — 【 酉島製作所 】[6363]適時開示情報 株主 総会や定款関連 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > disclose」（https://www.nikkei.com/nkd/company/disclose/?scode=6363・3回目）
+  - 「酉島製作所 【6363】の大 株主 情報 - 株探 — 酉島製作所 【6363】の大 株主 情報 - 株探 株探 https://kabutan.jp > stock > holder」（https://kabutan.jp/stock/holder?code=6363・3回目）
+- 株主：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部26頁・検索12回）
+- 保有設備：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部26頁・検索12回）
+
 ## 株式会社電子ビーム金属3Dプリンタ
 - 公式URL：https://www.jeol.co.jp/（search:yahoo_jp:電子ビーム金属3Dプリンタ）
 - 金属AM装置の保有（型番・製造元・台数・導入年）：
@@ -6718,6 +7964,83 @@
 - 株主：記載なし（3回確認済み：公式13頁／PDF・画像1件／外部12頁・検索12回）
 - 所在地：記載なし（3回確認済み：公式13頁／PDF・画像1件／外部12頁・検索12回）
 - 保有設備：記載なし（3回確認済み：公式13頁／PDF・画像1件／外部12頁・検索12回）
+
+## 株式会社鶴見製作所
+- 公式URL：https://www.tsurumipump.co.jp/（search:ddgs:google:鶴見製作所）
+- 事業内容：ポンプの販売（https://corpolog.jp/6351/・3回目）
+- 事業内容：ポンプの製造・販売（https://corpolog.jp/6351/・3回目）
+- 事業内容：不動産・リース事業（https://corpolog.jp/6351/・3回目）
+- 資本金：52億円（https://corpolog.jp/6351/・3回目）
+- 資本金：82 百万円（https://corpolog.jp/6351/・3回目）
+- 資本金：12 百万円（https://corpolog.jp/6351/・3回目）
+- 従業員数：1,635人 81位 ／187社 —（https://corpolog.jp/6351/・3回目）
+- 従業員数：1,635人（https://corpolog.jp/6351/・3回目）
+- 従業員数：2,865人（https://corpolog.jp/6351/・3回目）
+- 売上高：772億円 69位 ／205社 —（https://corpolog.jp/6351/・3回目）
+- 売上高：772億円（https://corpolog.jp/6351/・3回目）
+- 売上高：391億円（https://corpolog.jp/6351/・3回目）
+- 株主：筆頭株主はT'sコーポレーション（持株比率7.40%）。（https://corpolog.jp/6351/・3回目）
+- 株主：FY2017 FY2021 FY2026（https://corpolog.jp/6351/・3回目）
+- 株主：FY2017 FY2018 FY2019 FY2020 FY2021 FY2022 FY2023 FY2024 FY2025 FY2026（https://corpolog.jp/6351/・3回目）
+- 所在地：東京都台東区（https://corpolog.jp/6351/・3回目）
+- 所在地：大阪市鶴見区（https://corpolog.jp/6351/・3回目）
+- 所在地：中華人民共和国香港（https://corpolog.jp/6351/・3回目）
+- 金属AM装置の保有（型番・製造元・台数・導入年）：
+  - 「金属3Dプリンター受託サービス | JFEエンジニアリング 鶴見製作所」（https://jfe-tsurumi.jp/3dp/・3回目）
+  - 「金属3Dプリンターの強み」（https://jfe-tsurumi.jp/3dp/・3回目）
+  - 「金属3Dプリンター2号機を導入しました | JFEエンジニアリング 鶴見製作所」（https://jfe-tsurumi.jp/news/%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC2%E5%8F%B7%E6%A9%9F%E3%82%92%E5%B0%8E%E5%85%A5%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/・3回目）
+  - 「金属3Dプリンター2号機を導入しました」（https://jfe-tsurumi.jp/news/%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC2%E5%8F%B7%E6%A9%9F%E3%82%92%E5%B0%8E%E5%85%A5%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/・3回目）
+  - 「この度、当社では金属3Dプリンター2号機となるLAMDA500（ニデックマシンツール社製）を新たに導入いたしました」（https://jfe-tsurumi.jp/news/%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC2%E5%8F%B7%E6%A9%9F%E3%82%92%E5%B0%8E%E5%85%A5%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/・3回目）
+  - 「本設備の導入により、従来の材料に加え、チタンやアルミニウムの造形にも対応が可能となりました」（https://jfe-tsurumi.jp/news/%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC2%E5%8F%B7%E6%A9%9F%E3%82%92%E5%B0%8E%E5%85%A5%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/・3回目）
+  - 「本年9月に3Ｄプリンターの4号機の稼働が開始したが、足元ではプラントの設備部品の補修再生などの受注増によりフル生産の状態となっている」（https://www.japanmetal.com/news-t20250912145638.html・3回目）
+  - 「パウダDED方式3次元金属積層造形機「LAMDA」が支える積層造形事業の最前線 | 工作機械 | ニデック株式会社 - NIDEC CORPORATION」（https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_02/・3回目）
+  - 「本記事では、同社がパウダDED方式3次元金属積層造形機「LAMDA」を活用して展開する積層造形受託事業の取り組みや活用事例、今後の展望についてご紹介します」（https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_02/・3回目）
+  - 「JFEエンジニアリング株式会社 鶴見製作所では、金属3Dプリンターを活用した受託造形サービスと、製造全工程を担う受託製造事業を展開しています」（https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_02/・3回目）
+  - 「導入背景：ものづくりの未来を見据えた戦略的投資」（https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_02/・3回目）
+  - 「大型金属部品の需要拡大を見据え、広い造形エリアを持つパウダDED方式3次元金属積層造形機「LAMDA」の活用を進めること」（https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_02/・3回目）
+- 使っている金属粉（材質）：
+  - 「1,難加工材料の使用(チタン、ニッケル合金等)」（https://jfe-tsurumi.jp/3dp/・3回目）
+  - 「本設備の導入により、従来の材料に加え、チタンやアルミニウムの造形にも対応が可能となりました」（https://jfe-tsurumi.jp/news/%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC2%E5%8F%B7%E6%A9%9F%E3%82%92%E5%B0%8E%E5%85%A5%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/・3回目）
+  - 「積層と切削を1台で完結するハイブリッド仕様をはじめ、難易度の高い「銅」の積層技術、職人の技能差に左右されない金型の精密な肉盛り補修による長寿命化の実績を解説します」（https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_02/・3回目）
+  - 「株式会社アロイテクノロジーが大阪府八尾市のアロイ金属工業株式会社からステンレス鋼・高クロム鋳鉄の製造・販売事業を譲受ける」（https://corpolog.jp/6351/・3回目）
+- 用途・客の産業：
+  - 「「ラティス」、「金型内３次元水路」のような機械加工では」（https://jfe-tsurumi.jp/3dp/・3回目）
+  - 「3Ｄプリンターで製作した部品の後加工も含めたワンストップサービスができる特長を生かし、航空・宇宙産業向けの受託造形といった新たな需要を開拓する考えだ」（https://www.japanmetal.com/news-t20250912145638.html・3回目）
+  - 「JFEエンジニアリング株式会社 鶴見製作所では、金属3Dプリンターを活用した受託造形サービスと、製造全工程を担う受託製造事業を展開しています」（https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_02/・3回目）
+  - 「今回の講演から見えてきたのは、金属3Dプリンターが単なる試作ツールではなく、補修・保守や製造効率化を支える新たな製造インフラとして活用され始めていることです」（https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_02/・3回目）
+  - 「積層と切削を1台で完結するハイブリッド仕様をはじめ、難易度の高い「銅」の積層技術、職人の技能差に左右されない金型の精密な肉盛り補修による長寿命化の実績を解説します」（https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_02/・3回目）
+  - 「金型補修や試作品などの一品もの加工を通じて独自の強みを磨き、5年・10年後の新たな成長領域の開拓を狙います」（https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_02/・3回目）
+  - 「だからこそ、用途を建設・下水・農業・鉱山・防衛・災害対応へ広げ、需要の波を分散させてきました」（https://note.com/ishiwill/n/ndba81f106c18・3回目）
+  - 「国内では防衛関連や省エネポンプの需要が支え、北米では鉱山市場向けが好調で、各地域の売上が堅調に推移しました」（https://note.com/ishiwill/n/ndba81f106c18・3回目）
+  - 「国内の防衛・省エネ需要と北米の鉱山向けが、単発ではなく継続需要になるか」（https://note.com/ishiwill/n/ndba81f106c18・3回目）
+- 資本金・株主：
+  - 「IRニュース｜株主・投資家情報｜鶴見製作所-ツルミポンプ」（https://www.tsurumipump.co.jp/ir/news/・1回目）
+  - 「鶴見製作所（6351）の親会社と関係会社について」（https://www.kabutore.biz/genzaikabuka/oyagaisya.html?code=6351・3回目）
+  - 「１【提出会社の親会社等の情報】」（https://www.kabutore.biz/genzaikabuka/oyagaisya.html?code=6351・3回目）
+  - 「鶴見製作所には、親会社等はありません」（https://www.kabutore.biz/genzaikabuka/oyagaisya.html?code=6351・3回目）
+  - 「親会社が50%以上の株式を保有し、経営支配権を持つ会社です」（https://www.kabutore.biz/genzaikabuka/oyagaisya.html?code=6351・3回目）
+  - 「親会社の意向に従い、経営が行われます」（https://www.kabutore.biz/genzaikabuka/oyagaisya.html?code=6351・3回目）
+  - 「親会社が20%以上50%未満の株式を保有し、経営に影響を及ぼすことができる会社です」（https://www.kabutore.biz/genzaikabuka/oyagaisya.html?code=6351・3回目）
+  - 「複数の企業が共同で出資して設立した会社です」（https://www.kabutore.biz/genzaikabuka/oyagaisya.html?code=6351・3回目）
+  - 「関係会社は、親会社との連携を通じてシナジー効果を生み出し、事業の拡大や効率化を図ることが目的です」（https://www.kabutore.biz/genzaikabuka/oyagaisya.html?code=6351・3回目）
+  - 「（注）１ 特定子会社に該当しております」（https://www.kabutore.biz/genzaikabuka/oyagaisya.html?code=6351・3回目）
+  - 「株式会社鶴見製作所（6351）の主要株主情報 | J-LiC 上場企業サーチ」（https://j-lic.com/companies/6351/shareholders・3回目）
+  - 「大株主の所有状況（株式数、持株比率）」（https://j-lic.com/companies/6351/shareholders・3回目）
+- 検索結果の抜粋：
+  - 「金属3Dプリンター受託サービス | JFEエンジニアリング 鶴見製作所 — 金属3Dプリンターの強み 1,難加工材料の使用 (チタン、ニッケル合金等) 必要最小限の加工で製品化 (ニアネットシェイプ)できる 2,複雑形状の一体製造 「ラティス」、「金型内3次元水路」のような機械加工では 不可能に近い構造も製作可能 3,高級合金の使用」（https://jfe-tsurumi.jp/3dp/・3回目）
+  - 「JFEエンジ・鶴見製作所 金属3D受託フル稼働 プリンター増設検討 | 鉄... — Sep 12, 2025 · JFEエンジ・鶴見製作所 金属3D受託フル稼働 プリンター増設検討 JFEエンジニアリングの鶴見製作所（横浜市鶴見区）は、2027年度を最終年度とする今中期経営計画期間中に金属3Dプリンターを現状の4台からさらなる増設を検討している。」（https://www.japanmetal.com/news-t20250912145638.html・3回目）
+  - 「JFEエンジ／金属3Dプリンタ増設／チタン、アルミに対応 | 日刊鉄鋼新... — Sep 27, 2024 · JFEエンジニアリングは、金属3Dプリンタ受託造形サービス事業を強化するため、鶴見製作所（横浜市）に3Dプリンタを1台増設する。 チタン、アルミ対応可能な大型機種を新たに導入し、2025年1月に稼働開始する予定だ。」（https://www.japanmetaldaily.com/articles/-/156944・3回目）
+  - 「4台体制で1日20時間稼働！金属3Dプリンター受託製造の最前線｜JFEエン...3D砂型積層造形｜テクノロジー｜鶴見製作所-ツルミポンプ金属積層造形のトータルソリューションサービス — Jul 3, 2026 · 同社の大きな強みは、4台の大型金属3Dプリンター「LAMDA」を保有し、専門技術者とオペレーターによる昼夜2交代体制（1日約20時間稼働）を構築し ... 一方、 砂型積層造形装置（3Dプリンタ） の場合、3次元形状データから直接砂型を造形することが可能となるため、木型製作の工程を省くことができ、受注生産品の 大幅な納期短縮 を図ることができます。 Features 03 導入支援 導入イメージが湧かない、自社設備に適用できるか不安といったお悩みに、グループ内で培ったフル造形・補修造形の豊富な適用事例をご紹介いたします。」（https://www.youtube.com/watch?v=ivc3-sOKMWc・3回目）
+  - 「3D砂型積層造形｜テクノロジー｜鶴見製作所-ツルミポンプ — 砂型サンプル 鋳造後サンプル 鶴見製作所 米子工場では、砂型積層造形装置（3Dプリンタ）の他に、鋳造欠陥を視覚化する鋳造解析ソフトや、形状精度の照合をおこなう三次元測定機を活用し、高品質なものづくりをおこなっています。」（https://www.tsurumipump.co.jp/corporate/technology/3D-technology.php・3回目）
+  - 「パウダDED方式3次元金属積層造形機「LAMDA」が支える積層造形事業の最... — ワンストッププロセスによる高品質な製品提供 鶴見製作所の強みは、積層造形だけでなく、その後工程まで一貫して対応できる点にあります。 熱処理、切削加工、非破壊検査に加え、DfAM（Design for Additive Manufacturing）による設計支援まで実施。」（https://www.nidec.com/jp/products/machine-tools/solution/case-study/laser-products_wafer-bonding-machines-customers_interview_02/・3回目）
+  - 「保有設備 | JFEエンジニアリング 鶴見製作所 — 仕様 造形方式 DED*1方式 *1：Directed Energy Deposition (指向性エネルギー堆積)の略 最大造形サイズ φ1320×H1150 最大積載荷重 675kg (治具含む造形後重量) 可動軸数 5軸 レーザー出力 0.6～6.0kw可変 ビーム径 0.4～2.0mm可変 最大吐出粉体量 500cc/h」（https://jfe-tsurumi.jp/facility/・3回目）
+  - 「鶴見製作所（6351）の親会社と関係会社について — 親会社が50%以上の株式を保有し、経営支配権を持つ会社です。 親会社の意向に従い、経営が行われます。 関連会社 親会社が20%以上50%未満の株式を保有し、経営に影響を及ぼすことができる会社です。 完全な支配はできませんが、重要な経営判断に関与し ...」（https://www.kabutore.biz/genzaikabuka/oyagaisya.html?code=6351・3回目）
+  - 「株式会社鶴見製作所（6351）の主要株主情報 | J-LiC 上場企業サーチ — 所有者別構成（単元数、持株比率） 主要株主推移（直近5期） 株式会社鶴見製作所の現在の主要株主について、 直近5期の保有株式数および持株比率の推移を表示しています。 背景色は前期からの持株比率変化を表しており、 緑は増加、赤は減少を示します。」（https://j-lic.com/companies/6351/shareholders・3回目）
+  - 「株主・投資家情報｜鶴見製作所-ツルミポンプ — Aug 7, 2026 · また、本ウェブサイトのいかなる情報も当社の財務情報および経営情報をご理解していただくためのものであり、当社株式の購入や売却等を勧誘、推奨するものではありません。 投資に関する決定は、お客様自身のご判断で行われるようお願いいたします。」（https://www.tsurumipump.co.jp/ir/・3回目）
+  - 「株式情報｜株主・投資家情報｜鶴見製作所-ツルミポンプ — 株主・投資家情報 IRニュース 経営情報 業績・財務 IRライブラリー 株式情報 IRカレンダー 採用情報 お問い合わせ ニュース 製品情報 サイトのご利用にあたって プライバシーポリシー サイトマップ」（https://www.tsurumipump.co.jp/ir/kabunushi/・3回目）
+  - 「6351 鶴見製作所 | 連結会社・親会社等 - 有価証券報告書-第74期 (202... — 株主資本 CF統計 時価総額 従業員 適時開示 有価証券 5%ルール カテゴリ 銘柄一覧 企業ランキング 監査法人ランキング 株価値上がり率ランキング 買い長・売り長ランキング 逆日歩ランキング 決算月（上場企業） 株主総会（予定） 決算発表（予定） 新規 ...」（https://irbank.net/E01662/af?f=S100W6PA・3回目）
+- 創業年度：記載なし（3回確認済み：公式14頁／PDF・画像4件／外部21頁・検索12回）
+- 保有設備：記載なし（3回確認済み：公式14頁／PDF・画像4件／外部21頁・検索12回）
 
 ## 機械電子研究所
 - 公式URL：https://www.fitc.pref.fukuoka.jp/（search:ddgs:google:機械電子研究所）
@@ -6928,6 +8251,61 @@
 - 株主：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部26頁・検索12回）
 - 保有設備：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部26頁・検索12回）
 
+## 産業技術研究センター
+- 公式URL：https://www.iri-tokyo.jp/（search:yahoo_jp:産業技術研究センター）
+- 金属AM装置の保有（型番・製造元・台数・導入年）：
+  - 「城南支所は、“精密加工支援“をキーワードに新鋭装置を導入しています」（https://www.iri-tokyo.jp/about/organization/jonan/・1回目）
+  - 「金属3Dプリンターで軽さと強度を両立」（https://www.iri-tokyo.jp/tiri-news/booklet/・1回目）
+  - 「都産技研が保有する機器や設備をご自身で操作いただけます」（https://www.iri-tokyo.jp/service/・1回目）
+  - 「お客様の事業に係る製品・技術開発等において、都産技研が保有する技術を組み合わせて柔軟に支援を行います」（https://www.iri-tokyo.jp/service/・1回目）
+  - 「都産技研 金属3Dプリンター（金属粉末積層造形装置）による造形 - YouTube」（https://www.youtube.com/watch?v=5KVb69CSTXU・3回目）
+  - 「都産技研 金属3Dプリンター（金属粉末積層造形装置）による造形」（https://www.youtube.com/watch?v=5KVb69CSTXU・3回目）
+  - 「800℃の熱にも耐える金属3Dプリンター製シャーシ」（https://www.youtube.com/watch?v=5KVb69CSTXU・3回目）
+  - 「金属3Dプリンターによる造形では このビルドプレート上に所望の造形品を生成します」（https://www.youtube.com/watch?v=5KVb69CSTXU・3回目）
+  - 「都産技研が保有する技術シーズを活用して柔軟に対応」（https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/065/530/sangiken.pdf・3回目）
+- 使っている金属粉（材質）：
+  - 「都産技研 金属3Dプリンター（金属粉末積層造形装置）による造形 - YouTube」（https://www.youtube.com/watch?v=5KVb69CSTXU・3回目）
+  - 「都産技研 金属3Dプリンター（金属粉末積層造形装置）による造形」（https://www.youtube.com/watch?v=5KVb69CSTXU・3回目）
+  - 「ビルドプレート上に平面展開した金属粉末層に 向けて選択的にレーザービームを照射します」（https://www.youtube.com/watch?v=5KVb69CSTXU・3回目）
+  - 「レーザービームが照射された部分の 材料粉末が溶融・凝固します」（https://www.youtube.com/watch?v=5KVb69CSTXU・3回目）
+  - 「前層の上に重ねるように、新たな粉末層を生成します」（https://www.youtube.com/watch?v=5KVb69CSTXU・3回目）
+  - 「積層プロセスによってワークスペース内に 堆積した粉末の塊を上方に押し出します」（https://www.youtube.com/watch?v=5KVb69CSTXU・3回目）
+  - 「作業者はグローブごしに余剰粉末を粗取りしていきます」（https://www.youtube.com/watch?v=5KVb69CSTXU・3回目）
+  - 「装置内に装備されているバキュームクリーナーで 余剰の材料粉末を吸引します」（https://www.youtube.com/watch?v=5KVb69CSTXU・3回目）
+  - 「装置内で除去しきれなかった余剰の粉末を吸引します」（https://www.youtube.com/watch?v=5KVb69CSTXU・3回目）
+- 用途・客の産業：
+  - 「運用を停止しておりました超微小押し込み硬さ試験機について、運用を再開し依頼試験の受付を開始いたします」（https://www.iri-tokyo.jp/equipment-news/saikai-2026-07-07/・1回目）
+  - 「寸法測定装置による高度な3Dデータの取得や、デジタルデータを用いた製品の試作加工、精密測定、機器分析・環境試験を通して、地域企業の皆さまの事業化を技術面で包括的に支援しています」（https://www.iri-tokyo.jp/about/organization/jonan/・1回目）
+  - 「試作加工にご利用いただける造形装置、三次元レーザー加工機を整備しています」（https://www.iri-tokyo.jp/about/organization/jonan/・1回目）
+  - 「機器利用・依頼試験をご検討の方は、ご利用の前に下記のご利用約款をご確認ください」（https://www.iri-tokyo.jp/service/・1回目）
+  - 「お客さまの実験室として、製品や材料等の試作・測定・分析にお役立てください」（https://www.iri-tokyo.jp/service/・1回目）
+  - 「技術相談・依頼試験・機器利用で対応できないものにご活用ください」（https://www.iri-tokyo.jp/service/・1回目）
+  - 「依頼試験等では対応が難しい場合に、」（https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/065/530/sangiken.pdf・3回目）
+  - 「試作品の設計・造形、規格範囲外の試験等、幅広い支援」（https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/065/530/sangiken.pdf・3回目）
+  - 「技術相談/依頼試験/機器利用/オーダーメード型技術支援/技術セミナー・講習会」（https://mono.ipros.com/company/detail/2046541/・3回目）
+- 検索結果の抜粋：
+  - 「都産技研について｜採用 情報 東京都立 産業技術研究センター — 都産技研について｜採用 情報 東京都立 産業技術研究センター 東京都立産業技術研究センター https://www.iri-tokyo.jp > recruit > tiri-about」（https://www.iri-tokyo.jp/recruit/tiri-about/・3回目）
+  - 「平成 19 年度 地方独立行政法人東京都立 産業技術研究センター ... — 平成 19 年度 地方独立行政法人東京都立 産業技術研究センター ... 東京都産業労働局 PDF https://www.sangyo-rodo.metro.tokyo.lg.jp > sangy...」（https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/200826siryou5・3回目）
+  - 「地方独立行政法人東京都立 産業技術研究センター | 企業 情報 — 地方独立行政法人東京都立 産業技術研究センター | 企業 情報 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 公益・特殊・独立行政法人」（https://mono.ipros.com/company/detail/2046541/・3回目）
+  - 「活性金属対応造形装置（ 金属3Dプリンター ）｜東京都立 産業 ... — 活性金属対応造形装置（ 金属3Dプリンター ）｜東京都立 産業 ... 東京都立産業技術研究センター https://www.iri-tokyo.jp > service > search > r6-metal-am-2」（https://www.iri-tokyo.jp/service/search/r6-metal-am-2/・3回目）
+  - 「金属 粉末 積層造形 装置（ 金属 3Dプリンター）｜東京都立 産業 ... — 金属 粉末 積層造形 装置（ 金属 3Dプリンター）｜東京都立 産業 ... 東京都立産業技術研究センター https://www.iri-tokyo.jp > search > mech-h26-metal-am」（https://www.iri-tokyo.jp/service/search/mech-h26-metal-am・3回目）
+  - 「財務諸表等 - 地方独立行政法人 東京都立産業技術研究センター — 財務諸表等 - 地方独立行政法人 東京都立産業技術研究センター 東京都立産業技術研究センター https://www.iri-tokyo.jp > about > financial」（https://www.iri-tokyo.jp/about/financial/・3回目）
+  - 「(地独)東京都立 産業技術研究センター 技術シーズ紹介 — (地独)東京都立 産業技術研究センター 技術シーズ紹介 板橋区公式ホームページ PDF https://www.city.itabashi.tokyo.jp > _res > sangiken」（https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/065/530/sangiken.pdf・3回目）
+  - 「都産技研について｜採用情報 東京都立 産業技術研究センター — 都産技研について｜採用情報 東京都立 産業技術研究センター 東京都立産業技術研究センター https://www.iri-tokyo.jp > recruit > tiri-about」（https://www.iri-tokyo.jp/recruit/tiri-about/・3回目）
+  - 「地方独立行政法人東京都立 産業技術研究センター - アカリク — 地方独立行政法人東京都立 産業技術研究センター - アカリク アカリク https://acaric.jp > company-search > detail > company」（https://acaric.jp/company-search/detail/148787/company・3回目）
+  - 「地方独立行政法人東京都立 産業技術研究センター | 企業情報 — 地方独立行政法人東京都立 産業技術研究センター | 企業情報 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 公益・特殊・独立行政法人」（https://mono.ipros.com/company/detail/2046541/・3回目）
+  - 「地方独立行政法人東京都立 産業技術研究センター の障害者求人 ... — 地方独立行政法人東京都立 産業技術研究センター の障害者求人 ... atGP https://www.atgp.jp > search > top > company_recruit」（https://www.atgp.jp/search/top/company_recruit/00160000000076e5kg・3回目）
+  - 「地方独立行政法人東京都立 産業技術研究センター の概要 - 総務局 — 地方独立行政法人東京都立 産業技術研究センター の概要 - 総務局 東京都総務局 PDF https://www.soumu.metro.tokyo.lg.jp > soumu」（https://www.soumu.metro.tokyo.lg.jp/documents/d/soumu/2025-09-18-131443-473・3回目）
+- 事業内容：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部19頁・検索12回）
+- 資本金：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部19頁・検索12回）
+- 創業年度：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部19頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部19頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部19頁・検索12回）
+- 株主：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部19頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部19頁・検索12回）
+- 保有設備：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部19頁・検索12回）
+- 資本金・株主：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部19頁・検索12回）
+
 ## 産業技術総合研究所
 - 公式URL：https://www.aist.go.jp/（search:ddgs:google:産業技術総合研究所）
 - 事業内容：産総研は、様々な企業・大学・公的機関などと連携し、社会や産業のニーズを踏まえた世界最高水準の研究を行うことで、日本全体で共有価値を創造し続ける「イノベーション・エコシステム」の中核機関となることを目指しています。 研究活動では、産業化や実用化を見据えた応用的な研究に力を入れています。さらに、生み出された研究成果を社会実装すべく、企業連携やマーケティング活動等も積極的に行っています。 ＜連携先機関＞ 冠ラボ IHI、旭化成、カナデビア，コニカミノルタ，JX金属，島津製作所，住友電気工業，住友理工，ソフトバンク，豊田自動織機, 日油，日本電気（NEC），日本特殊陶業，バルカー，日立製作所，堀場製作所，三菱電機，リコー,　Honda R&D ,クレハ, 東京エレクトロン, ※8つの研究分野を活かして、多種多様な業界の企業と連携をしています。 ---事務系総合職について--- 様々な業界/業務/職種/キーワードに関心のある方に、総合職は興味を持っていただいています！ （業界） メーカー（食品/建設/自動車/航空/化学/製薬/医薬品/医療機器/半導体/化粧品/アパレル）、インフラ（鉄道/電力/エ（https://job.mynavi.jp/28/pc/search/corp100220/outline.html・3回目）
@@ -7005,6 +8383,60 @@
 - 売上高：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部27頁・検索12回）
 - 株主：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部27頁・検索12回）
 - 保有設備：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部27頁・検索12回）
+
+## 神奈川県立産業技術総合研究所
+- 公式URL：https://www.kistec.jp/（search:yahoo_jp:神奈川県立産業技術総合研究所）
+- 所在地：〒243-0435 神奈川県海老名市下今泉705-1（https://www.kistec.jp/aboutus/research_integrity/・1回目）
+- 所在地：〒231-0016 横浜市中区真砂町4ｰ43 木下商事ビル８F（https://www.kistec.jp/aboutus/research_integrity/・1回目）
+- 金属AM装置の保有（型番・製造元・台数・導入年）：
+  - 「KISTECが保有している機器・設備をご紹介します」（https://www.kistec.jp/connect/support/equipment/・1回目）
+  - 「過去3年以内に導入した機器はこちらからご確認いただけます」（https://www.kistec.jp/connect/support/equipment/・1回目）
+  - 「KISTECが保有している機器・設備を掲載しています」（https://www.kistec.jp/aboutus/user_guide/・1回目）
+  - 「産学公の技術連携を推進するために、企業・大学・官公庁等が保有する技術情報を紹介しています」（https://www.kistec.jp/aboutus/user_guide/・1回目）
+  - 「LMD方式の金属3Dプリンタを用いた技術開発」（https://www.kistec.jp/connect/about/organization/jpedintro/・1回目）
+  - 「科学的妥当性：従来の工業分野における科学的妥当性の検討だけでなく、生物医学研究の方法論（特にEBM、evidence based medicine：根拠に基づく医療）を参考に、医学分野における科学的妥当性を検討することが求られます」（https://www.kistec.jp/aboutus/research_integrity/・1回目）
+  - 「導入年度 2024年度」（https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews37_web.pdf・2回目）
+  - 「図2：試作1号機実証⾵景」（https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews36_web.pdf・2回目）
+  - 「導入年度 2025年度」（https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews36_web.pdf・2回目）
+  - 「中小企業等に対し、事業化に向けた総合的な支援を行うため、商品企画開発段階から販路を見据えた製品開発を促進する製品開発支援、企業における生成AI等デジタル技術の導入・活用支援、売れる商品づくりを促進するためのデザイン支援、製品開発における知的財産権の活用を促進する知的財産支援を実施しています」（https://job.mynavi.jp/27/pc/search/corp250048/outline.html・3回目）
+- 使っている金属粉（材質）：
+  - 「銅系複合酸化物の開発と抗ウイルス活性機構の解明ー実験と計算材料科学を融合させた新たな研究スキームを提示ー」（https://www.kistec.jp/aboutus/press/・1回目）
+  - 「ニッケル酸ビスマスの圧力誘起電荷非晶質化を発見—熱膨張問題を解決する新たな負熱膨張材料の開発に期待—」（https://www.kistec.jp/aboutus/press/・1回目）
+  - 「過光学顕微鏡像であり、暗い領域はアルミナとの屈折率差」（https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews37_web.pdf・2回目）
+  - 「粉体粉末冶金協会第47回研究進歩賞 （2023）」（https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews37_web.pdf・2回目）
+  - 「粉体粉末冶金協会第22回論文賞 （2021）」（https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews37_web.pdf・2回目）
+  - 「⑦ アルミニウム合金がよくわかる！～鋳造・熱処理・加工の基礎と今後の動向についてやさしく解説します～ 令和 8 年 10 月 22 日 （木） 、 23 日 （金） 2日間 オンライン」（https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews37_web.pdf・2回目）
+  - 「⑬ アルミニウム表面処理技術セミナー～アノード酸化の基礎・皮膜機能・他材料への展開～ 令和 8 年 11 月 4 日 （水） 、 11 日 （水） 2日間 オンライン」（https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews37_web.pdf・2回目）
+  - 「⑰ アルミニウム合金がよくわかる！ 〜鋳造・熱処理・加工の基礎と今後の動向についてやさしく解説します〜 令和 8 年10⽉22日 （木） 、23日 （金）2日間 オンライン」（https://www.kistec.jp/kistec-manage/wp-content/uploads/kistecnews36_web.pdf・2回目）
+- 用途・客の産業：
+  - 「エネルギー分散型微小部蛍光Ｘ線分析装置 [XGT-9000Expert]」（https://www.kistec.jp/connect/support/equipment/・1回目）
+  - 「ロボット歯ブラシ「g.eN（ジェン）」の 大幅な小型化・軽量化が実現！量産化に向けて クラウドファンディングを開始！」（https://www.kistec.jp/aboutus/press/・1回目）
+  - 「抗菌・抗ウイルス性能評価・再生・細胞医療関連評価のご相談・お問い合わせはこちら」（https://www.kistec.jp/aboutus/access/・1回目）
+  - 「（依頼試験は、KISTECの試験計測事業でお受けします」（https://www.kistec.jp/aboutus/user_guide/・1回目）
+  - 「新規事業創出のステージごとに、必要とされる各種支援サービスをご用意しており、どのステージから始めても、最後の事業化（量産化）まで、一貫したサポート体制を整えております」（https://www.kistec.jp/aboutus/user_guide/・1回目）
+  - 「KISTEC開発・薬事相談サービスでは、京浜臨海部に展開する再生・細胞医療の産業化拠点「ライフイノベーションセンター」において、主に県内に拠点を持つ企業様から、再生医療等製品、革新的医薬品などの規制情報に関する相談や開発等に係る相談を受付けています」（https://www.kistec.jp/aboutus/user_guide/・1回目）
+  - 「相談は、厚生労働省、医薬品医療機器総合機構（PMDA）などにおいて、医療政策、医薬品・医療機器の承認審査、安全対策、治験相談などで豊富な経験をもつアドバイザーが担当します」（https://www.kistec.jp/aboutus/user_guide/・1回目）
+  - 「医療機器、ヘルスケア分野のご相談にも対応しています」（https://www.kistec.jp/aboutus/user_guide/・1回目）
+  - 「抗菌・抗ウイルス性能評価、食品機能性評価や再生・細胞医療における新しい評価方法の開発と提供に向けた取り組みをしています」（https://www.kistec.jp/aboutus/user_guide/・1回目）
+  - 「Society5.0、先進医療とウェルネス、環境・エネルギー、新しいモノづくりなど、新たな産業を牽引する分野に重点を置いた教育講座を開催します」（https://www.kistec.jp/aboutus/user_guide/・1回目）
+  - 「KISTECでは、皆様からのご要望に応じて、試験計測（依頼試験）、技術開発受託（受託研究）、製品化支援をはじめとした様々な支援を行っています」（https://www.kistec.jp/aboutus/issues/・1回目）
+  - 「設計試作グループでは以下の支援を行っております」（https://www.kistec.jp/connect/about/organization/jpedintro/・1回目）
+- 検索結果の抜粋：
+  - 「地方独立行政法人 神奈川県立産業技術総合研究所 【KISTEC】 — 地方独立行政法人 神奈川県立産業技術総合研究所 【KISTEC】 マイナビ https://job.mynavi.jp > search > corp250048 > outline」（https://job.mynavi.jp/27/pc/search/corp250048/outline.html・3回目）
+  - 「KISTEC 神奈川県立産業技術総合研究所 - 機械振興会館 — KISTEC 神奈川県立産業技術総合研究所 - 機械振興会館 一般財団法人 機械振興協会 PDF https://www.jspmi.or.jp > pdf > fooma2023 > kistec」（https://www.jspmi.or.jp/tri/pdf/fooma2023/kistec.pdf・3回目）
+  - 「沿革 - | KISTEC｜(地独) 神奈川県立産業技術総合研究所 — 沿革 - | KISTEC｜(地独) 神奈川県立産業技術総合研究所 KISTEC https://www.kistec.jp > aboutus > history」（https://www.kistec.jp/aboutus/history/・3回目）
+  - 「地方独立行政法人 神奈川県立産業技術総合研究所 - アカリク — 地方独立行政法人 神奈川県立産業技術総合研究所 - アカリク アカリク https://acaric.jp > company-search > detail > company」（https://acaric.jp/company-search/detail/148858/company・3回目）
+  - 「地方独立行政法人 神奈川県立産業技術総合研究所 - マイナビ転職 — 地方独立行政法人 神奈川県立産業技術総合研究所 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company」（https://tenshoku.mynavi.jp/company/279954/・3回目）
+  - 「| KISTEC｜(地独) 神奈川県立産業技術総合研究所 — | KISTEC｜(地独) 神奈川県立産業技術総合研究所 KISTEC https://www.kistec.jp」（https://www.kistec.jp/・3回目）
+  - 「神奈川県地方独立行政法人 神奈川県立産業技術総合研究所 評価 ... — 神奈川県地方独立行政法人 神奈川県立産業技術総合研究所 評価 ... 神奈川県 https://www.pref.kanagawa.jp > kistec > fuzokukikan」（https://www.pref.kanagawa.jp/docs/sr4/kistec/fuzokukikan.html・3回目）
+- 事業内容：記載なし（3回確認済み：公式14頁／PDF・画像4件／外部12頁・検索12回）
+- 資本金：記載なし（3回確認済み：公式14頁／PDF・画像4件／外部12頁・検索12回）
+- 創業年度：記載なし（3回確認済み：公式14頁／PDF・画像4件／外部12頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式14頁／PDF・画像4件／外部12頁・検索12回）
+- 売上高：記載なし（3回確認済み：公式14頁／PDF・画像4件／外部12頁・検索12回）
+- 株主：記載なし（3回確認済み：公式14頁／PDF・画像4件／外部12頁・検索12回）
+- 保有設備：記載なし（3回確認済み：公式14頁／PDF・画像4件／外部12頁・検索12回）
+- 資本金・株主：記載なし（3回確認済み：公式14頁／PDF・画像4件／外部12頁・検索12回）
 
 ## 福岡県工業技術センター
 - 公式URL：https://www.fitc.pref.fukuoka.jp/（search:ddgs:google:福岡県工業技術センター 株式会社）
@@ -7158,6 +8590,46 @@
 - 株主：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部35頁・検索12回）
 - 所在地：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部35頁・検索12回）
 - 保有設備：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部35頁・検索12回）
+
+## 英国溶接研究所
+- 公式URL：特定できず（not_found）
+- 金属AM装置の保有（型番・製造元・台数・導入年）：
+  - 「3D金属積層造形セミナー開催 実践に役立つ金属3Dプリンターの世界の最新動向と新鋭機によるデモ見学会｜新着情報｜愛知産業」（https://www.aichi-sangyo.co.jp/inquiry/news/news_140808_3D_seminar.html・3回目）
+  - 「金属3Dプリンター、MIG/MAG 溶接機、５軸 輸入販売」（https://www.aichi-sangyo.co.jp/inquiry/news/news_140808_3D_seminar.html・3回目）
+  - 「3D金属積層造形セミナー開催」（https://www.aichi-sangyo.co.jp/inquiry/news/news_140808_3D_seminar.html・3回目）
+  - 「実践に役立つ金属3Dプリンターの世界の最新動向と新鋭機によるデモ見学会（2014.08.08）」（https://www.aichi-sangyo.co.jp/inquiry/news/news_140808_3D_seminar.html・3回目）
+  - 「より金属積層技術の専門家を招き、最新の研究成果と金属積層造形の将来の可能性についてごセミナーを開催します」（https://www.aichi-sangyo.co.jp/inquiry/news/news_140808_3D_seminar.html・3回目）
+  - 「から3D金属積層造形技術におけるパウダー品質の重要性について、ドイツ」（https://www.aichi-sangyo.co.jp/inquiry/news/news_140808_3D_seminar.html・3回目）
+  - 「このセミナーは、金属3D事業にすでにご経験者から今後導入を計画している未経験者まで広い範囲のエンドユーザ対象です」（https://www.aichi-sangyo.co.jp/inquiry/news/news_140808_3D_seminar.html・3回目）
+  - 「金属3Dプリンターデモ見学会：愛知産業本社デモルーム」（https://www.aichi-sangyo.co.jp/inquiry/news/news_140808_3D_seminar.html・3回目）
+  - 「１．TWIに於ける3D金属積層造形技術研究の現状と将来の可能性」（https://www.aichi-sangyo.co.jp/inquiry/news/news_140808_3D_seminar.html・3回目）
+  - 「TWIの研究活動の概要と上記テーマに即したLMD及びSLM技術の解説を行います」（https://www.aichi-sangyo.co.jp/inquiry/news/news_140808_3D_seminar.html・3回目）
+  - 「２．3D金属積層造形技術でのパウダー技術の重要性」（https://www.aichi-sangyo.co.jp/inquiry/news/news_140808_3D_seminar.html・3回目）
+  - 「３．SLM社製の3D金属積層造形技術とアプリケーション」（https://www.aichi-sangyo.co.jp/inquiry/news/news_140808_3D_seminar.html・3回目）
+- 使っている金属粉（材質）：
+  - 「世界の3Dプリンターを本格的に大規模生産システムとして活用し一躍有名になったGE傘下のイタリア航空部品メーカー、アビオエアロ社の製造販売責任者が、タービンブレード軽量化のためのチタンアルミナイドによる造形技術、今後の展開など、最新情報を本邦初公開致します」（https://www.aichi-sangyo.co.jp/inquiry/news/news_150701_3D_seminar.html・3回目）
+  - 「アーク溶接による積層造形の最先端研究で著名な英国のクランフィールド大学から、航空宇宙産業他でチタン合金などを使用した大型積層造形研究の成果を発表致します」（https://www.aichi-sangyo.co.jp/inquiry/news/news_150701_3D_seminar.html・3回目）
+  - 「アビオエアロ社にチタンアルミナナイド材料を供給し、リサイクルによる成分変化までを視野に入れた品質管理法やオリジナル粉末の利用が進む欧州市場での動向など」（https://www.aichi-sangyo.co.jp/inquiry/news/news_150701_3D_seminar.html・3回目）
+- 用途・客の産業：
+  - 「GE傘下 イタリアの航空部品メーカー、アビオエアロ社が初来日」（https://www.aichi-sangyo.co.jp/inquiry/news/news_150701_3D_seminar.html・3回目）
+  - 「世界の3Dプリンターを本格的に大規模生産システムとして活用し一躍有名になったGE傘下のイタリア航空部品メーカー、アビオエアロ社の製造販売責任者が、タービンブレード軽量化のためのチタンアルミナイドによる造形技術、今後の展開など、最新情報を本邦初公開致します」（https://www.aichi-sangyo.co.jp/inquiry/news/news_150701_3D_seminar.html・3回目）
+  - 「アーク溶接による積層造形の最先端研究で著名な英国のクランフィールド大学から、航空宇宙産業他でチタン合金などを使用した大型積層造形研究の成果を発表致します」（https://www.aichi-sangyo.co.jp/inquiry/news/news_150701_3D_seminar.html・3回目）
+  - 「プロフィール：ミラノ工科大学で先進材料・プロセス研究の修士号を取得後、航空部品製造技術研究に従事し、後にGEグループの最初の金属積層による航空機・バイオ医療部品の製造を担うことになるプロトキャスト社を創業」（https://www.aichi-sangyo.co.jp/inquiry/news/news_150701_3D_seminar.html・3回目）
+  - 「「試作開発から製造システムへ・金属積層技術の最新動向」」（https://www.aichi-sangyo.co.jp/inquiry/news/news_150701_3D_seminar.html・3回目）
+- 資本金・株主：
+  - 「（本社：東京都、資本金：8500万円、社長：井上博貴）は「」（https://www.aichi-sangyo.co.jp/inquiry/news/news_140808_3D_seminar.html・3回目）
+  - 「（東京都、資本金：8500万円、社長：井上博貴）は「」（https://www.aichi-sangyo.co.jp/inquiry/news/news_150701_3D_seminar.html・3回目）
+- 検索結果の抜粋：
+  - 「TWI(The Welding Institute, 英国溶接研究所 ) 接合・表面処理 ... — TWI(The Welding Institute, 英国溶接研究所 ) 接合・表面処理 ... 富山県中小企業団体中央会 PDF https://www.chuokai-toyama.or.jp > chuokai > webfile」（https://www.chuokai-toyama.or.jp/chuokai/webfile/t1_0ada1f207e3f14b77d51b03971e733a9.pdf・3回目）
+  - 「英国溶接研究所 (TWI:The Welding Institute)は,破壊機構説(FM ... — 英国溶接研究所 (TWI:The Welding Institute)は,破壊機構説(FM ... J-Global https://jglobal.jst.go.jp > detail」（https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200902061524610508・3回目）
+- 事業内容：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 資本金：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 創業年度：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 所在地：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
+- 保有設備：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）
 
 ## 設計製造技術研究所
 - 公式URL：https://amti.w3.kanazawa-u.ac.jp/（search:yahoo_jp:設計製造技術研究所）
@@ -7759,6 +9231,56 @@
 - 保有設備：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部32頁・検索12回）
 - 資本金・株主：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部32頁・検索12回）
 
+## 長野工業高等専門学校
+- 公式URL：https://www.nagano-nct.ac.jp/（search:yahoo_jp:長野工業高等専門学校）
+- 事業内容：酸素・窒素・アルゴン等各種産業ガス、LP ガス、医療用ガス、特殊ガスの製造・（https://nsc.jp.nipponsanso.com/LinkClick.aspx?fileticket=9AeOtxh1EQM%3D・3回目）
+- 売上高：4,204 億円※（https://nsc.jp.nipponsanso.com/LinkClick.aspx?fileticket=9AeOtxh1EQM%3D・3回目）
+- 金属AM装置の保有（型番・製造元・台数・導入年）：
+  - 「援・公募制の導入・教員表彰制度の導入・校長裁量経費等の予算配分・ゆとりの時間確保策の導入・ほか」（https://www.niad.ac.jp/media/006/201904/no6_1_3_nagano_k201903_.pdf・3回目）
+  - 「図書館には、図書館の機能を十分に発揮するために常勤・非常勤合わせて７人配置（うち司書資格保有」（https://www.niad.ac.jp/media/006/201904/no6_1_3_nagano_k201903_.pdf・3回目）
+  - 「学生の自主的学習を支援するため、担任制・指導教員制の導入、オフィスアワーの設定、対面型の相談」（https://www.niad.ac.jp/media/006/201904/no6_1_3_nagano_k201903_.pdf・3回目）
+  - 「学習支援に関する学生のニーズを把握するための取組として、担任制・指導教員制の導入・教職員と学」（https://www.niad.ac.jp/media/006/201904/no6_1_3_nagano_k201903_.pdf・3回目）
+  - 「国立高等専門学校機構のＷｅｂシラバスを導入しており、シラバスには、授業科目名、単位数、授業形」（https://www.niad.ac.jp/media/006/201904/no6_1_3_nagano_k201903_.pdf・3回目）
+  - 「学修単位科目（45時間の学修を１単位とする単位計算方法を導入している授業科目）については、授業」（https://www.niad.ac.jp/media/006/201904/no6_1_3_nagano_k201903_.pdf・3回目）
+  - 「導入を展開するための「タイ協働センター」を設置して、その活動を開始している」（https://www.niad.ac.jp/media/006/201904/no6_1_3_nagano_k201903_.pdf・3回目）
+  - 「Research / Development」（https://nsc.jp.nipponsanso.com/jp/news/detail.html?itemid=763・3回目）
+  - 「大陽日酸 は、金属３Ｄプリンター等を用いて、さまざまな形状の製品を製造する金属アディティブマニュファクチャリング（以下、金属 ＡＭ ）分野において、 自社で 保有する溶接プロセス、ガス精製、熱処理等の産業ガスアプリケーション技術を応用した ＡＭ ソリューションビジネスを展開しております」（https://nsc.jp.nipponsanso.com/jp/news/detail.html?itemid=763・3回目）
+  - 「大陽日酸、長野高専と金属3Dプリンターの共同研究 - 日本経済新聞」（https://www.nikkei.com/article/DGXZQOCC210QX0R20C24A2000000/・3回目）
+  - 「傘下の大陽日酸は長野工業高等専門学校と金属3Dプリンターを使った共同研究を始めた」（https://www.nikkei.com/article/DGXZQOCC210QX0R20C24A2000000/・3回目）
+  - 「同社が販売する金属3Dプリンターを長野高専に設置して生徒や教員に使ってもらい、使用データを今後の造形技術や用途開発に生かす」（https://www.nikkei.com/article/DGXZQOCC210QX0R20C24A2000000/・3回目）
+- 用途・客の産業：
+  - 「医療機関で「感染症名」及び「休養が必要な期間」が記載された証明書を作成してもらって下さい」（https://www.nagano-nct.ac.jp/life/health・1回目）
+  - 「なお医療機関によっては、書類の発行に別途料金がかかることがあります」（https://www.nagano-nct.ac.jp/life/health・1回目）
+  - 「に限り医療機関の証明書は不要とし、保護者等の証明によって公欠を認めることとします」（https://www.nagano-nct.ac.jp/life/health・1回目）
+  - 「４．電気電子工学におけるエネルギー変換，エレクトロニクスおよび情報通信に関わる各分野の知識・」（https://www.niad.ac.jp/media/006/201904/no6_1_3_nagano_k201903_.pdf・3回目）
+  - 「３．電子工作や実験が好きで，電気エネルギー，エレクトロニクス，情報通信など電気電子工学に関連」（https://www.niad.ac.jp/media/006/201904/no6_1_3_nagano_k201903_.pdf・3回目）
+  - 「料・設計関連科目およびエネルギー・環境システム関連科目を設定します」（https://www.niad.ac.jp/media/006/201904/no6_1_3_nagano_k201903_.pdf・3回目）
+  - 「・機械工学科：自動車やロボット等の各種機械の開発・設計ができ、それらを作り出すために必要な製造・生産」（https://www.niad.ac.jp/media/006/201904/no6_1_3_nagano_k201903_.pdf・3回目）
+  - 「宇宙環境試験装置 -プラント・エンジニアリング分野」（https://nsc.jp.nipponsanso.com/jp/news/detail.html?itemid=763・3回目）
+  - 「航空宇宙部品や医療用器具など様々な分野で使用できる」（https://www.nikkei.com/article/DGXZQOCC210QX0R20C24A2000000/・3回目）
+  - 「高市戦略17分野の造船･宇宙に照準 ダイヘンが3Dプリンター参入」（https://www.nikkei.com/article/DGXZQOCC210QX0R20C24A2000000/・3回目）
+  - 「次の半導体大国、インド」（https://www.nikkei.com/article/DGXZQOCC210QX0R20C24A2000000/・3回目）
+  - 「インド半導体の業界地図 タタ経済圏に450社、日本の突破口明らかに」（https://www.nikkei.com/article/DGXZQOCC210QX0R20C24A2000000/・3回目）
+- 資本金・株主：
+  - 「株 主：日本酸素ホールディングス株式会社（出資比率100％）」（https://nsc.jp.nipponsanso.com/LinkClick.aspx?fileticket=9AeOtxh1EQM%3D・3回目）
+- 検索結果の抜粋：
+  - 「長野工業高等専門学校 — 長野工業高等専門学校 長野工業高等専門学校 https://www.nagano-nct.ac.jp」（https://www.nagano-nct.ac.jp/・3回目）
+  - 「独立行政法人国立高等専門学校機構 長野工業高等専門学校 — 独立行政法人国立高等専門学校機構 長野工業高等専門学校 全国の信用金庫 https://www.shinkin.co.jp > sk-matching > exhibitor > detail」（https://www.shinkin.co.jp/sk-matching/exhibitor/detail/?cid=7・3回目）
+  - 「長野工業高等専門学校 - Wikipedia — 長野工業高等専門学校 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 長野工業高等専門学校」（https://ja.wikipedia.org/wiki/%E9%95%B7%E9%87%8E%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1・3回目）
+  - 「長野工業高等専門学校 | 内閣府男女共同参画局 — 長野工業高等専門学校 | 内閣府男女共同参画局 内閣府男女共同参画 https://www.gender.go.jp > kyouryoku > kosen」（https://www.gender.go.jp/c-challenge/kyouryoku/kosen/001.html・3回目）
+  - 「TCTJapan2025において本校学生が作成した 金属3D ... — TCTJapan2025において本校学生が作成した 金属3D ... 長野工業高等専門学校 https://www.nagano-nct.ac.jp > お知らせ・トピックス」（https://www.nagano-nct.ac.jp/news/250205・3回目）
+  - 「長野工業高等専門学校 - SK本舗 — 長野工業高等専門学校 - SK本舗 SK本舗 https://skhonpo.com > pages > nagano-college」（https://skhonpo.com/pages/nagano-college・3回目）
+  - 「TCTJapan2025において本校学生が作成した 金属 3D ... — TCTJapan2025において本校学生が作成した 金属 3D ... 長野工業高等専門学校 https://www.nagano-nct.ac.jp > お知らせ・トピックス」（https://www.nagano-nct.ac.jp/news/250205・3回目）
+  - 「長野工業高等専門学校 リポジトリ — 長野工業高等専門学校 リポジトリ nagano-nct.repo.nii.ac.jp https://nagano-nct.repo.nii.ac.jp」（https://nagano-nct.repo.nii.ac.jp/・3回目）
+  - 「長野工業高等専門学校 アーカイブ - 月刊高専 — 長野工業高等専門学校 アーカイブ - 月刊高専 月刊高専 https://gekkan-kosen.com > 長野工業高等専門学校」（https://gekkan-kosen.com/post-kosen/%E9%95%B7%E9%87%8E%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1/・3回目）
+- 資本金：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部19頁・検索12回）
+- 創業年度：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部19頁・検索12回）
+- 従業員数：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部19頁・検索12回）
+- 株主：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部19頁・検索12回）
+- 所在地：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部19頁・検索12回）
+- 保有設備：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部19頁・検索12回）
+- 使っている金属粉（材質）：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部19頁・検索12回）
+
 ## 静岡県工業技術研究所
 - 公式URL：https://www.iri.pref.shizuoka.jp/（search:yahoo_jp:静岡県工業技術研究所）
 - 所在地：研究課題（https://www.iri.pref.shizuoka.jp/about/fuji/・1回目）
@@ -7823,3 +9345,80 @@
 - 売上高：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部17頁・検索12回）
 - 株主：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部17頁・検索12回）
 - 保有設備：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部17頁・検索12回）
+
+## 高周波熱錬株式会社
+- 公式URL：https://www.k-neturen.co.jp/（search:yahoo_jp:高周波熱錬）
+- 資本金：6,418百万円（2026年3月31日現在）（https://www.k-neturen.co.jp/ja/company/outline.html・1回目）
+- 創業年度：設立：1946年（昭和21年）5月15日（現社名）（https://www.k-neturen.co.jp/ja/company/outline.html・1回目）
+- 従業員数：連結：1,651名　単独：872名（2026年3月31日現在）（https://www.k-neturen.co.jp/ja/company/outline.html・1回目）
+- 売上高：58,277百万円(連結)（2026年3月期） 29,632百万円(単体)（2026年3月期）（https://www.k-neturen.co.jp/ja/company/outline.html・1回目）
+- 所在地：〒141-8639 東京都品川区東五反田二丁目17番1号 オーバルコート大崎マークウエスト（https://www.k-neturen.co.jp/ja/company/outline.html・1回目）
+- 所在地：東京都品川区、代表取締役社長執行役員：大宮克己、以下（https://www.k-neturen.co.jp/ja/news/news20261021/main/0/link/news_integratedreport2026.pdf・2回目）
+- 金属AM装置の保有（型番・製造元・台数・導入年）：
+  - 「立花エレテック社「太陽光発電システム・電力監視システム」の導入事例として当社が紹介されました」（https://www.k-neturen.co.jp/ja/news.html・1回目）
+  - 「３Ｄプリンター導入に関するお知らせ」（https://www.k-neturen.co.jp/ja/news.html・1回目）
+  - 「譲渡制限付株式報酬制度の導入に伴う自己株式の処分に関する取締役会決議公告(2020/7/7)」（https://www.k-neturen.co.jp/ja/news.html・1回目）
+  - 「業績連動現金報酬および株式報酬制度導入に関するお知らせ」（https://www.k-neturen.co.jp/ja/news.html・1回目）
+  - 「３Ｄプリンター導入に関するお知らせ」（https://www.k-neturen.co.jp/ja/ir/news.html・1回目）
+  - 「譲渡制限付株式報酬制度の導入に伴う自己株式の処分に関する取締役会決議公告(2020/7/7)」（https://www.k-neturen.co.jp/ja/ir/news.html・1回目）
+  - 「業績連動現金報酬および株式報酬制度導入に関するお知らせ」（https://www.k-neturen.co.jp/ja/ir/news.html・1回目）
+  - 「CAE 解析や金属3Dプリンター等の先進技術を活用した開発事例や、早期事業化・」（https://www.k-neturen.co.jp/ja/news/news20261021/main/0/link/news_integratedreport2026.pdf・2回目）
+  - 「３Ｄプリンター導入に関するお知らせ」（https://buffett-code-archives.s3.ap-northeast-1.amazonaws.com/pr_reports/140120220517550089.pdf・3回目）
+  - 「当社は下記の通り、３Ｄプリンターを導入することを決議いたしましたので、お知らせいたします」（https://buffett-code-archives.s3.ap-northeast-1.amazonaws.com/pr_reports/140120220517550089.pdf・3回目）
+  - 「１．導入の理由」（https://buffett-code-archives.s3.ap-northeast-1.amazonaws.com/pr_reports/140120220517550089.pdf・3回目）
+  - 「た結果、一定の評価が得られたことから、まずは社内の研究開発における使用を目途として導入を決定」（https://buffett-code-archives.s3.ap-northeast-1.amazonaws.com/pr_reports/140120220517550089.pdf・3回目）
+- 使っている金属粉（材質）：
+  - 「当社グループ会社の韓国熱錬が「第11回慶北クリーン経営大賞」銅賞を授賞しました」（https://www.k-neturen.co.jp/ja/news.html・1回目）
+  - 「昨今の技術革新により、純銅が造形出来る金属３Ｄプリンターによる誘導加熱コイルの製作を検討し」（https://buffett-code-archives.s3.ap-northeast-1.amazonaws.com/pr_reports/140120220517550089.pdf・3回目）
+  - 「ＡＭにおける純銅の誘導加熱コイルで開発リードタイムの短縮 - 金属3Dプリンター受託造形｜金属AM×精密切削加工｜ODEC」（http://3d.kinzoku-kakou-odec.com/column/column-1170/・3回目）
+  - 「ＡＭにおける純銅の誘導加熱コイルで開発リードタイムの短縮」（http://3d.kinzoku-kakou-odec.com/column/column-1170/・3回目）
+  - 「高周波熱錬株式会社が、純銅の誘導加熱コイル製造するための金属３Ｄプリンターを導入すると発表があり、株価が続伸しているようです」（http://3d.kinzoku-kakou-odec.com/column/column-1170/・3回目）
+  - 「純銅での金属３Ｄプリンター造形の難しさ」（http://3d.kinzoku-kakou-odec.com/column/column-1170/・3回目）
+  - 「純銅は導電性と熱伝導率に優れているため、ヒートシンクや高周波焼き入れ用コイル、導波管、クライストロン等、産業界でも広く使われており、金属３Ｄプリンターにおけるアプリケーションとしても非常に有力な素材ですが、これまで、銅を金属３Ｄプリンターで造形するのは、非常に難しいとされてきました」（http://3d.kinzoku-kakou-odec.com/column/column-1170/・3回目）
+  - 「導電性の高さゆえに、熱が逃げやすく、レーザービームを照射しても、純銅では2％程度の熱しか吸収することができないといわれているようです」（http://3d.kinzoku-kakou-odec.com/column/column-1170/・3回目）
+  - 「レーザービームの種類（グリーンレーザー、ブルーレーザー）や電子ビームなど波長の違いにより、純銅に熱を与えやすいビームの種類もあります」（http://3d.kinzoku-kakou-odec.com/column/column-1170/・3回目）
+  - 「中でも電子ビームは純銅の造形に適している方式と呼ばれていますが、造形物の形状に制限があったりと課題は残っているようです」（http://3d.kinzoku-kakou-odec.com/column/column-1170/・3回目）
+  - 「レーザービームでは銅合金で造形を行うことが一般的」（http://3d.kinzoku-kakou-odec.com/column/column-1170/・3回目）
+  - 「現在ＰＢＦのレーザービームで造形を行う場合、銅合金を使用することが一般的です」（http://3d.kinzoku-kakou-odec.com/column/column-1170/・3回目）
+- 用途・客の産業：
+  - 「トヨタ自動車安全衛生協力会より「安全努力賞」を受賞しました」（https://www.k-neturen.co.jp/ja/news.html・1回目）
+  - 「当社株式の大量買付けに関する適正ルール（買収防衛策）の非継続（廃止）に関するお知らせ(2020/03/10)」（https://www.k-neturen.co.jp/ja/news.html・1回目）
+  - 「当社株式の大量買付けに関する適正ルール（買収防衛策）の非継続（廃止）に関するお知らせ(2020/03/10)」（https://www.k-neturen.co.jp/ja/ir/news.html・1回目）
+  - 「を低減する「プレハードン材」と、削らず・叩かず・専用金型不要でつば出しができ、材」（https://www.k-neturen.co.jp/ja/news/news20261029/main/0/link/20261029_.pdf・2回目）
+  - 「あり、球状化焼鈍・ボンデ処理・(チャック部以外の)金型が不」（https://www.k-neturen.co.jp/ja/news/news20261029/main/0/link/20261029_.pdf・2回目）
+  - 「自動車部品・建設機械・建築土木の鉄鋼資材等、社会インフラに欠かせないものづくりをしています！」（https://job.mynavi.jp/28/pc/search/corp56483/outline.html・3回目）
+  - 「IH技術のパイオニアとして自動車・建設・鉄道など社会を支える製品の品質を支えています」（https://job.mynavi.jp/28/pc/search/corp56483/outline.html・3回目）
+  - 「自動車・建設・鉄道・エネルギーなど、社会を支える幅広い分野でモノづくりを支えてきました」（https://job.mynavi.jp/28/pc/search/corp56483/outline.html・3回目）
+  - 「たとえば自動車のドライブシャフトや建設機械の部品、鉄道のレールなど、社会インフラのあらゆる場面でネツレンの技術が活躍しています」（https://job.mynavi.jp/28/pc/search/corp56483/outline.html・3回目）
+  - 「当社の技術は、単に素材を強くするだけでなく、エネルギー効率や環境負荷の面でも注目されています」（https://job.mynavi.jp/28/pc/search/corp56483/outline.html・3回目）
+  - 「(関連業界：自動車業界・建設機械業界・工作機械業界)」（https://job.mynavi.jp/28/pc/search/corp56483/outline.html・3回目）
+  - 「自動車・建設機械・工作機械・建築・土木などの業界に幅広く製品・サービスの供給を行っております」（https://job.mynavi.jp/28/pc/search/corp56483/outline.html・3回目）
+- 資本金・株主：
+  - 「第115回定時株主総会決議ご通知」（https://www.k-neturen.co.jp/ja/news.html・1回目）
+  - 「第115回定時株主総会招集ご通知および株主総会資料」（https://www.k-neturen.co.jp/ja/news.html・1回目）
+  - 「MDI株式会社の株式の取得（子会社化）完了に関するお知らせ」（https://www.k-neturen.co.jp/ja/news.html・1回目）
+  - 「MDI株式会社の株式の取得（子会社化）に関するお知らせ」（https://www.k-neturen.co.jp/ja/news.html・1回目）
+  - 「第114回定時株主総会招集ご通知 その他の電子提供措置事項（交付書面省略事項）の一部訂正に関するお知らせ」（https://www.k-neturen.co.jp/ja/news.html・1回目）
+  - 「第114回定時株主総会招集ご通知および株主総会資料」（https://www.k-neturen.co.jp/ja/news.html・1回目）
+  - 「株式会社ドーケンの株式の取得（子会社化）に関するお知らせ」（https://www.k-neturen.co.jp/ja/news.html・1回目）
+  - 「第113回定時株主総会決議ご通知」（https://www.k-neturen.co.jp/ja/news.html・1回目）
+  - 「第113回定時株主総会招集ご通知および株主総会資料」（https://www.k-neturen.co.jp/ja/news.html・1回目）
+  - 「連結子会社の生産設備増設（設備投資）に関するお知らせ」（https://www.k-neturen.co.jp/ja/news.html・1回目）
+  - 「第112回定時株主総会決議ご通知」（https://www.k-neturen.co.jp/ja/news.html・1回目）
+  - 「第112回定時株主総会招集ご通知および株主総会資料」（https://www.k-neturen.co.jp/ja/news.html・1回目）
+- 検索結果の抜粋：
+  - 「会社概要 | 会社情報 | 高周波熱錬 株式会社 — 会社概要 | 会社情報 | 高周波熱錬 株式会社 高周波熱錬株式会社 https://www.k-neturen.co.jp > company > outline」（https://www.k-neturen.co.jp/ja/company/outline.html・3回目）
+  - 「高周波熱錬 株式 会社 (ネツレン)【東証プライム上場】 - マイナビ — 高周波熱錬 株式 会社 (ネツレン)【東証プライム上場】 - マイナビ マイナビ https://job.mynavi.jp > search > corp56483 > outline」（https://job.mynavi.jp/28/pc/search/corp56483/outline.html・3回目）
+  - 「企業理念・ 会社概要 ・ 会社情報 ・代表あいさつ — 企業理念・ 会社概要 ・ 会社情報 ・代表あいさつ 九州高周波熱錬株式会社 http://www.kyu-neturen.co.jp > about」（http://www.kyu-neturen.co.jp/about.html・3回目）
+  - 「高周波熱錬 【5976】のストーリー・沿革 - キタイシホン — 高周波熱錬 【5976】のストーリー・沿革 - キタイシホン キタイシホン https://kitaishihon.com > company > story」（https://kitaishihon.com/company/5976/story・3回目）
+  - 「設備投資（ 金属3Dプリンター 本格稼働）に関するお知らせ — 設備投資（ 金属3Dプリンター 本格稼働）に関するお知らせ 高周波熱錬株式会社 PDF https://www.k-neturen.co.jp > news > pdfFile」（https://www.k-neturen.co.jp/ja/ir/news/auto_20240603519231/pdfFile.pdf・3回目）
+  - 「設備 投資（ 金属 3Dプリンター本格稼働）に関するお知らせ — 設備 投資（ 金属 3Dプリンター本格稼働）に関するお知らせ 高周波熱錬株式会社 PDF https://www.k-neturen.co.jp > news > pdfFile」（https://www.k-neturen.co.jp/ja/ir/news/auto_20240603519231/pdfFile.pdf・3回目）
+  - 「株式の状況 | 株式情報 | IR情報 | 高周波熱錬 株式会社 — 株式の状況 | 株式情報 | IR情報 | 高周波熱錬 株式会社 高周波熱錬株式会社 https://www.k-neturen.co.jp > stock > status」（https://www.k-neturen.co.jp/ja/ir/stock/status.html・3回目）
+  - 「高周波熱錬 【5976】の大 株主 情報 - 株探 — 高周波熱錬 【5976】の大 株主 情報 - 株探 株探 https://kabutan.jp > stock > holder」（https://kabutan.jp/stock/holder?code=5976・3回目）
+  - 「高周波熱錬 【5976】の大 株主 - バフェット・コード — 高周波熱錬 【5976】の大 株主 - バフェット・コード バフェット・コード https://www.buffett-code.com > mainshareholder」（https://www.buffett-code.com/company/5976/mainshareholder・3回目）
+  - 「高周波熱錬 （ネツレン）（5976）の 株主 優待紹介 — 高周波熱錬 （ネツレン）（5976）の 株主 優待紹介 楽しい株主優待＆配当 https://www.kabuyutai.com > kobetu > k-neturen」（https://www.kabuyutai.com/kobetu/k-neturen.html・3回目）
+  - 「高周波熱錬 (株)(ネツレン)【東証プライム上場】 - マイナビ — 高周波熱錬 (株)(ネツレン)【東証プライム上場】 - マイナビ マイナビ https://job.mynavi.jp > search > corp56483 > outline」（https://job.mynavi.jp/28/pc/search/corp56483/outline.html・3回目）
+  - 「業績ハイライト | 業績・財務 | IR情報 | 高周波熱錬 株式会社 — 業績ハイライト | 業績・財務 | IR情報 | 高周波熱錬 株式会社 高周波熱錬株式会社 https://www.k-neturen.co.jp > finance > highlight」（https://www.k-neturen.co.jp/ja/ir/finance/highlight.html・3回目）
+- 事業内容：記載なし（3回確認済み：公式13頁／PDF・画像3件／外部19頁・検索12回）
+- 株主：記載なし（3回確認済み：公式13頁／PDF・画像3件／外部19頁・検索12回）
+- 保有設備：記載なし（3回確認済み：公式13頁／PDF・画像3件／外部19頁・検索12回）

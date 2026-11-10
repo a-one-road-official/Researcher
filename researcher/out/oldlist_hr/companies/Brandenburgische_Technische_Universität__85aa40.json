@@ -1,0 +1,784 @@
+{
+ "name": "Brandenburgische Technische Universität Cottbus-Senftenberg",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜FORMNEXT案件",
+ "researched_at": "2026-11-10T21:13:27.032932+00:00",
+ "official_url": "https://www.b-tu.de/spreetecnext/page",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Established",
+    "value": "Established：1991; 2013 (reestablished)",
+    "url": "https://en.wikipedia.org/wiki/Brandenburg_University_of_Technology",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "SpreeTec neXt - SpreeTec neXt - BTU Cottbus-Senftenberg",
+    "url": "https://www.b-tu.de/spreetecnext/page",
+    "pass": 1
+   },
+   {
+    "quote": "Das Cluster SpreeTec neXt",
+    "url": "https://www.b-tu.de/spreetecnext/page",
+    "pass": 1
+   },
+   {
+    "quote": "Steckbrief des SpreeTec neXt Clusters",
+    "url": "https://www.b-tu.de/spreetecnext/page",
+    "pass": 1
+   },
+   {
+    "quote": "Die Formnext 2027 bringt erneut internationale Akteure aus Industrie, Forschung und Technologieentwicklung zusammen und gilt als zentrale Plattform für additive Fertigung und moderne Produktionstechnologien.",
+    "url": "https://www.b-tu.de/spreetecnext/page",
+    "pass": 1
+   },
+   {
+    "quote": "Innovationen für die Luftfahrt von morgen: Im April 2027 bringt die AERO Friedrichshafen erneut internationale Branchenakteure, Technologien und Zukunftstrends rund um General Aviation, Leichtbau und moderne Fertigung zusammen.",
+    "url": "https://www.b-tu.de/spreetecnext/page",
+    "pass": 1
+   },
+   {
+    "quote": "Am 24. November 2026 bringt das Industriekreistreffen von SpreeTec neXt erneut Akteurinnen und Akteure aus Wissenschaft, Wirtschaft und Politik in Cottbus zusammen. Bereits am Vorabend eröffnet eine gemeinsame Abendveranstaltung mit der feierlichen Einweihung einer neuen kollaborierenden Roboterzelle das Treffen.",
+    "url": "https://www.b-tu.de/spreetecnext/page",
+    "pass": 1
+   },
+   {
+    "quote": "Eine neue Forschungsarbeit aus SpreeTec neXt zeigt, wie Simulation und digitale Prozessplanung beim Directed Energy Deposition unmittelbar miteinander gekoppelt werden können. Mithilfe des entwickelten Thermal Adaptive Path Planning ließ sich die Temperaturbelastung durch eine optimierte Auftragsreihenfolge um bis zu 9,9 Prozent reduzieren.",
+    "url": "https://www.b-tu.de/spreetecnext/page",
+    "pass": 1
+   },
+   {
+    "quote": "Am Vorabend des SpreeTec-neXt-Industriekreistreffens wird die neue kollaborierende Roboterzelle der BTU Cottbus-Senftenberg feierlich eröffnet. Die Abendveranstaltung verbindet Einblicke in die robotergestützte additive Fertigung mit einem Fachvortrag von Siemens Energy, Unternehmens-Pitches und persönlichem Austausch.",
+    "url": "https://www.b-tu.de/spreetecnext/page",
+    "pass": 1
+   },
+   {
+    "quote": "Produktionsanlagen, Materialflüsse und Arbeitsplätze lassen sich bereits vor ihrer realen Umsetzung virtuell untersuchen. Auf der MR4B Roadshow 2026 präsentierte die BTU Cottbus-Senftenberg eine für LEPOSOL entwickelte digitale Fabrikplanung, die Anlagenlayout, Prozesssimulation und Ergonomie miteinander verbindet.",
+    "url": "https://www.b-tu.de/spreetecnext/page",
+    "pass": 1
+   },
+   {
+    "quote": "Auf der 14th CIRP Conference on Photonic Technologies – LANE 2026 präsentierte das Fachgebiet Füge- und Schweißtechnik der BTU Cottbus-Senftenberg aktuelle Forschungsergebnisse zum Hochgeschwindigkeitsschweißen von Kupfer und zur Laserbearbeitung von H13-Werkzeugstahl.",
+    "url": "https://www.b-tu.de/spreetecnext/page",
+    "pass": 1
+   },
+   {
+    "quote": "Vier Messetage, zahlreiche Gespräche und neue Perspektiven für gemeinsame Projekte: Auf der InnoTrans 2026 präsentierte SpreeTec neXt Kompetenzen aus den Bereichen Leichtbau, Werkstoffe und moderne Fertigungstechnologien. Im Mittelpunkt standen der Austausch mit der Industrie und neue Ansätze für den Technologietransfer.",
+    "url": "https://www.b-tu.de/spreetecnext/page",
+    "pass": 1
+   },
+   {
+    "quote": "Internationales Profil",
+    "url": "https://www.b-tu.de/universitaet",
+    "pass": 1
+   },
+   {
+    "quote": "Innovative Transferprojekte",
+    "url": "https://www.b-tu.de/universitaet",
+    "pass": 1
+   },
+   {
+    "quote": "Ziele, Profil und Besonderheiten der BTU Cottbus-Senftenberg. Informieren Sie sich über die Hochschulpolitischen Ambitionen sowie Auszeichnungen und Prädikate der BTU.",
+    "url": "https://www.b-tu.de/universitaet",
+    "pass": 1
+   },
+   {
+    "quote": "Die Präsidentin bildet zusammen mit den Vizepräsidenten und dem Kanzler das Präsidium der Universität. Hier finden gesamtuniversitäre Abstimmungen und Entscheidungen statt.",
+    "url": "https://www.b-tu.de/universitaet",
+    "pass": 1
+   },
+   {
+    "quote": "Gemeinsam Sprachbarrieren abbauen. Funktionale Mehrsprachigkeit bereichert das Miteinander unserer universitären Gemeinschaft.",
+    "url": "https://www.b-tu.de/universitaet",
+    "pass": 1
+   },
+   {
+    "quote": "Kommunikation & Marketing",
+    "url": "https://www.b-tu.de/universitaet",
+    "pass": 1
+   },
+   {
+    "quote": "Kontakt und Anlaufstelle bei Pressenfragen, Öffentlichkeitsarbeit, strategische Marketingaufgaben und Corporate Design",
+    "url": "https://www.b-tu.de/universitaet",
+    "pass": 1
+   },
+   {
+    "quote": "Unsere Fakultäten, Institute und Einrichtungen prägen das Profil der Universität. Sie verknüpfen Lehre und Forschung und treiben als Bindeglied zu Wirtschaft des Technologietransfer voran.",
+    "url": "https://www.b-tu.de/universitaet",
+    "pass": 1
+   },
+   {
+    "quote": "Strukturwandel und Profilierung",
+    "url": "https://www.b-tu.de/universitaet",
+    "pass": 1
+   },
+   {
+    "quote": "Die BTU verwirklicht als Pulsgeberin in der Lausitz durch ein exzellentes Forschungsprofil und klugen Wissens- und Technologietransfer die Ziele eines nachhaltigen Strukturwandels.",
+    "url": "https://www.b-tu.de/universitaet",
+    "pass": 1
+   },
+   {
+    "quote": "Prof. Dr. p.h. habil. Gesine Grande",
+    "url": "https://www.b-tu.de/universitaet",
+    "pass": 1
+   },
+   {
+    "quote": "praesidentin(at)b-tu.de",
+    "url": "https://www.b-tu.de/universitaet",
+    "pass": 1
+   },
+   {
+    "quote": "Formnext 2027: Zentrale Plattform als Hub für Additive Manufacturing der Experten für industriellen 3D-Druck und Produktionsprofis aus immer mehr Anwendungsbranchen - BTU Cottbus-Senftenberg",
+    "url": "https://www.b-tu.de/spreetecnext/aktuelles/ansicht/31502-formnext-2027-zentrale-plattform-als-hub-fuer-additive-manufacturing-der-experten-fuer-industriellen-3d-druck-und-produktionsprofis-aus-immer-mehr-anwendungsbranchen",
+    "pass": 1
+   },
+   {
+    "quote": "Die Formnext 2027 bringt erneut internationale Akteure aus Industrie, Forschung und Technologieentwicklung zusammen und gilt als zentrale Plattform für additive Fertigung und moderne Produktionstechnologien.",
+    "url": "https://www.b-tu.de/spreetecnext/aktuelles/ansicht/31502-formnext-2027-zentrale-plattform-als-hub-fuer-additive-manufacturing-der-experten-fuer-industriellen-3d-druck-und-produktionsprofis-aus-immer-mehr-anwendungsbranchen",
+    "pass": 1
+   },
+   {
+    "quote": "Im Mittelpunkt stehen aktuelle Entwicklungen entlang der gesamten Prozesskette der additiven Fertigung – von Maschinen, Werkstoffen und Softwarelösungen bis hin zu industriellen Anwendungen und automatisierten Produktionsprozessen. Neben etablierten Industrieunternehmen präsentieren auch Start-ups und Forschungseinrichtungen neue Technologien und zukunftsweisende Lösungsansätze.",
+    "url": "https://www.b-tu.de/spreetecnext/aktuelles/ansicht/31502-formnext-2027-zentrale-plattform-als-hub-fuer-additive-manufacturing-der-experten-fuer-industriellen-3d-druck-und-produktionsprofis-aus-immer-mehr-anwendungsbranchen",
+    "pass": 1
+   },
+   {
+    "quote": "Ergänzt wird die Messe durch ein umfangreiches Konferenz- und Vortragsprogramm mit Fachsessions, Panels und Networking-Formaten. Themen wie Digitalisierung, nachhaltige Produktion, Materialentwicklung und intelligente Fertigungssysteme spielen dabei eine zentrale Rolle.",
+    "url": "https://www.b-tu.de/spreetecnext/aktuelles/ansicht/31502-formnext-2027-zentrale-plattform-als-hub-fuer-additive-manufacturing-der-experten-fuer-industriellen-3d-druck-und-produktionsprofis-aus-immer-mehr-anwendungsbranchen",
+    "pass": 1
+   },
+   {
+    "quote": "Die Formnext gilt als wichtiger Treffpunkt für die internationale AM-Community und bietet wertvolle Impulse für die Weiterentwicklung moderner Produktions- und Fertigungstechnologien.",
+    "url": "https://www.b-tu.de/spreetecnext/aktuelles/ansicht/31502-formnext-2027-zentrale-plattform-als-hub-fuer-additive-manufacturing-der-experten-fuer-industriellen-3d-druck-und-produktionsprofis-aus-immer-mehr-anwendungsbranchen",
+    "pass": 1
+   },
+   {
+    "quote": "-arme Industrieprozesse",
+    "url": "https://www.b-tu.de/universitaet/partnerschaften-strukturwandel/netzwerke-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Kompetenzzentrum PtX Lab Lausitz – Praxislabor für Kraft- und Grundstoffe aus grünem Wasserstoff",
+    "url": "https://www.b-tu.de/universitaet/partnerschaften-strukturwandel/netzwerke-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Bundesanstalt für Materialforschung und Prüfung (BAM)",
+    "url": "https://www.b-tu.de/universitaet/partnerschaften-strukturwandel/netzwerke-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Strukturwandel und Profilierung - BTU Cottbus-Senftenberg",
+    "url": "https://www.b-tu.de/universitaet/partnerschaften-strukturwandel/strukturwandel-und-profilierung",
+    "pass": 1
+   },
+   {
+    "quote": "Die BTU stärkt mit dem Ausbau ihres Forschungsprofils die Grundlagen- und anwendungsorientierte Forschung an den Grand Challenges unserer Zeit und schafft mit dem dynamischen und lösungsorientieren Zusammenschluss in Profillinien thematische Cluster und Synergien.",
+    "url": "https://www.b-tu.de/universitaet/partnerschaften-strukturwandel/strukturwandel-und-profilierung",
+    "pass": 1
+   },
+   {
+    "quote": "Globaler Wandel und Transformationsprozesse",
+    "url": "https://www.b-tu.de/universitaet/partnerschaften-strukturwandel/strukturwandel-und-profilierung",
+    "pass": 1
+   },
+   {
+    "quote": "Die BTU initiiert und pflegt enge Netzwerke und strategische Partnerschaften. Diese Zusammenarbeit drückt sich u.a. in gemeinsamen Berufungen und Verbundprojekten aus.",
+    "url": "https://www.b-tu.de/universitaet/partnerschaften-strukturwandel/strukturwandel-und-profilierung",
+    "pass": 1
+   },
+   {
+    "quote": "Referat Profilbildung und Exzellenz",
+    "url": "https://www.b-tu.de/universitaet/partnerschaften-strukturwandel/strukturwandel-und-profilierung",
+    "pass": 1
+   },
+   {
+    "quote": "Preparation programmes",
+    "url": "https://en.wikipedia.org/wiki/Brandenburg_University_of_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Brandenburg_University_of_Technology",
+    "pass": 3
+   },
+   {
+    "quote": ". The university has 185 professors, 640 additional academic staff and more than 7,000 students, of which 2,350 are of foreign origin from more than 100 nations.",
+    "url": "https://en.wikipedia.org/wiki/Brandenburg_University_of_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "In the winter semester for the 2022/23 academic year, around 6,800 students were enrolled at BTU Cottbus-Senftenberg. The proportion of students in STEM subjects is consistently strong at 65%. 40% of the students come from over 120 countries. The proportion of women in the student body is 43%.",
+    "url": "https://en.wikipedia.org/wiki/Brandenburg_University_of_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "With a few exceptions, the degree programmes at BTU Cottbus-Senftenberg are open admission, i.e. without a numerus clausus (NC). Application is possible for all degree programmes in the winter semester, and for some master's and bachelor's programmes in the summer semester.",
+    "url": "https://en.wikipedia.org/wiki/Brandenburg_University_of_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "German is the teaching language for the majority of the degree programmes. A total of 17 study programmes (one Bachelor, 13 Master, three Ph.D.) are offered in English:",
+    "url": "https://en.wikipedia.org/wiki/Brandenburg_University_of_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "Hybrid Electric Propulsion Technology",
+    "url": "https://en.wikipedia.org/wiki/Brandenburg_University_of_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "All students, regardless if they are German or non-German, must pay a fee of approximately 165 euros per semester. This fee used to be 321.03 euros and included a student transit pass (Semesterticket) which allowed students to travel on all public transportation services for free in the states of",
+    "url": "https://en.wikipedia.org/wiki/Brandenburg_University_of_Technology",
+    "pass": 3
+   },
+   {
+    "quote": ". Free use of the regional express train (RE 18) to Dresden-Neustadt was also included. However, with the introduction of the",
+    "url": "https://en.wikipedia.org/wiki/Brandenburg_University_of_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "is a study preparation programme which supports prospective students in their search for a degree programme that matches their inclinations and abilities. In two semesters, they get to know studying at the university and the variety of degree programmes at BTU Cottbus-Senftenberg.",
+    "url": "https://en.wikipedia.org/wiki/Brandenburg_University_of_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "The BTU Cottbus-Senftenberg offers programmes for prospective students to acquire the university entrance qualification in the state of Brandenburg and language qualification.",
+    "url": "https://en.wikipedia.org/wiki/Brandenburg_University_of_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "Springboard Uni-German with TestDaF",
+    "url": "https://en.wikipedia.org/wiki/Brandenburg_University_of_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "or overseas programmes such as",
+    "url": "https://en.wikipedia.org/wiki/Brandenburg_University_of_Technology",
+    "pass": 3
+   },
+   {
+    "quote": ". Students who want to participate in an exchange programme do not need to pay the tuition fee of the hosting university.",
+    "url": "https://en.wikipedia.org/wiki/Brandenburg_University_of_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "BTU Cottbus-Senftenberg offers nine degree programmes with double degrees or joint degrees with universities worldwide.",
+    "url": "https://en.wikipedia.org/wiki/Brandenburg_University_of_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "Study programmes with double degrees:",
+    "url": "https://en.wikipedia.org/wiki/Brandenburg_University_of_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "Joint degree programmes with one or more partner universities:",
+    "url": "https://en.wikipedia.org/wiki/Brandenburg_University_of_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "Euro Hydroinformatics and Water Management (ERASMUS Mundus programme) (M.Sc.)",
+    "url": "https://en.wikipedia.org/wiki/Brandenburg_University_of_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "The profile-formed research fields at BTU Cottbus-Senftenberg are:",
+    "url": "https://en.wikipedia.org/wiki/Brandenburg_University_of_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "Global change and transformation processes",
+    "url": "https://en.wikipedia.org/wiki/Brandenburg_University_of_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "The Joint Lab Reliable Sensor Networks initiative is a collaboration of the Institute of Computer Science, the BTU Cottbus-Senftenberg and the Leibniz Institute for Innovative Microelectronics (IHP), in which researchers, students and doctoral candidates from the various institutions engage in a mutual exchange.",
+    "url": "https://en.wikipedia.org/wiki/Brandenburg_University_of_Technology",
+    "pass": 3
+   },
+   {
+    "quote": ", professional poker player",
+    "url": "https://en.wikipedia.org/wiki/Brandenburg_University_of_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "from the original on 3 April 2019",
+    "url": "https://en.wikipedia.org/wiki/Brandenburg_University_of_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "\"Study programmes from A-Z\"",
+    "url": "https://en.wikipedia.org/wiki/Brandenburg_University_of_Technology",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Vom 17. bis 20. November 2026 wird Frankfurt am Main erneut zum globalen Treffpunkt der Additive-Manufacturing-Branche. Die Formnext bringt internationale Unternehmen, Forschungseinrichtungen und Industrieanwender zusammen.",
+    "url": "https://www.b-tu.de/spreetecnext/page",
+    "pass": 1
+   },
+   {
+    "quote": "Formnext 2027: Zentrale Plattform als Hub für Additive Manufacturing der Experten für industriellen 3D-Druck und Produktionsprofis aus immer mehr Anwendungsbranchen - BTU Cottbus-Senftenberg",
+    "url": "https://www.b-tu.de/spreetecnext/aktuelles/ansicht/31502-formnext-2027-zentrale-plattform-als-hub-fuer-additive-manufacturing-der-experten-fuer-industriellen-3d-druck-und-produktionsprofis-aus-immer-mehr-anwendungsbranchen",
+    "pass": 1
+   },
+   {
+    "quote": "Mit der Formnext 2027 findet in Frankfurt am Main erneut eine der weltweit wichtigsten Fachmessen für Additive Manufacturing und industriellen 3D-Druck statt. Die Veranstaltung vereint Unternehmen, Forschungseinrichtungen und Fachpublikum aus unterschiedlichsten Branchen und schafft eine internationale Plattform für Innovation, Austausch und Technologietransfer.",
+    "url": "https://www.b-tu.de/spreetecnext/aktuelles/ansicht/31502-formnext-2027-zentrale-plattform-als-hub-fuer-additive-manufacturing-der-experten-fuer-industriellen-3d-druck-und-produktionsprofis-aus-immer-mehr-anwendungsbranchen",
+    "pass": 1
+   },
+   {
+    "quote": "im Rahmen des geplanten Wegfalls des",
+    "url": "https://de.wikipedia.org/wiki/Brandenburgische_Technische_Universit%C3%A4t_Cottbus-Senftenberg",
+    "pass": 3
+   },
+   {
+    "quote": "wurde im Oktober 2009 im Foyer des Hauptgebäudes eingeweiht. Es handelt sich dabei um einen 2,20 Meter großen Ring aus Solarmodulen, der auf die Allgegenwart elektromagnetischer Energie hinweisen soll. Der Licht-Orbiter macht diese Energie sichtbar, indem er sie über die Solarmodule und einen Elektromotor in kinetische Energie umwandelt. In Neubauten sind weitere Kunstinstallationen geplant.",
+    "url": "https://de.wikipedia.org/wiki/Brandenburgische_Technische_Universit%C3%A4t_Cottbus-Senftenberg",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Karriere & Engagement",
+    "url": "https://www.b-tu.de/universitaet",
+    "pass": 1
+   },
+   {
+    "quote": "Gemeinsam Sprachbarrieren abbauen. Funktionale Mehrsprachigkeit bereichert das Miteinander unserer universitären Gemeinschaft.",
+    "url": "https://www.b-tu.de/universitaet",
+    "pass": 1
+   },
+   {
+    "quote": "Studieren mit dem Studienzentrum für barrierefreie Lehre und Forschung. Im Studienzentrum halfen Studenten als",
+    "url": "https://de.wikipedia.org/wiki/Brandenburgische_Technische_Universit%C3%A4t_Cottbus-Senftenberg",
+    "pass": 3
+   },
+   {
+    "quote": "im Studiengang Biotechnologie. Bei der bautechnischen Gestaltung des Campus wurde auf Barrierefreiheit für Rollstuhlfahrer durch Rampen, Aufzüge und Automatiktüren geachtet.",
+    "url": "https://de.wikipedia.org/wiki/Brandenburgische_Technische_Universit%C3%A4t_Cottbus-Senftenberg",
+    "pass": 3
+   },
+   {
+    "quote": "Zentrum für barrierefreies Studium",
+    "url": "https://de.wikipedia.org/wiki/Brandenburgische_Technische_Universit%C3%A4t_Cottbus-Senftenberg",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Innovation 9/24: Case Study BTU Cottbus-Senftenberg | MC ... — Im aktuellen #Innovation #Newsletter 9/24: Wie Gründungserfolge an der BTU / Brandenburgische Technische Universität Cottbus-Senftenberg entstehen in der Zusammenarbeit mit Coaches von...",
+    "url": "https://de.linkedin.com/posts/tom-spike_innovation-924-case-study-btu-cottbus-senftenberg-activity-7243224390329352192-URtd",
+    "pass": 3
+   },
+   {
+    "quote": "BTU is preparing the Lusatia region for new manufacturing ... — Oct 13, 2026 · BTU is preparing the Lusatia region for new manufacturing technology (Brandenburgische Technische Universität Cottbus-Senftenberg)",
+    "url": "https://article.wn.com/view-steel/2026/10/13/BTU_is_preparing_the_Lusatia_region_for_new_manufacturing_te/",
+    "pass": 3
+   },
+   {
+    "quote": "Brandenburgische Technische Universität Cottbus-Senftenberg — Nach Beschluss des Brandenburgischen Landtags fusionierten die Brandenburgische Technische Universität Cottbus und die Hochschule Lausitz zum 1. Juli 2013 zur Brandenburgischen Technischen Universität Cottbus-Senftenberg.",
+    "url": "https://de.wikipedia.org/wiki/Brandenburgische_Technische_Universität_Cottbus-Senftenberg",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Brandenburgische Technische Universität Cottbus-Senftenberg Sign in to view the journeys of Brandenburgische Technische Universität Cottbus-Senftenberg alumni.",
+    "url": "https://www.linkedin.com/school/btu-cottbus-senftenberg/people/",
+    "pass": 3
+   },
+   {
+    "quote": "Krempkow René – Brandenburgische Technische Universität ...Beitrag von Brandenburgische Technische Universität Cottbus ...yingqi huang - Student at Brandenburgische Technische ...Brandenburgische Technische Universität Cottbus-SenftenbergBrandenburgische Technische Universität Cottbus-Senftenberg ;-) · Berufserfahrung: Brandenburgische Technische Universität Cottbus-Senftenberg · Ausbildung: Techn",
+    "url": "https://de.linkedin.com/in/krempkow-rené",
+    "pass": 3
+   },
+   {
+    "quote": "Beitrag von Brandenburgische Technische Universität Cottbus ... 🤝 BTU und IHK Cottbus stärken gemeinsam den Innovations- und Wirtschaftsstandort Lausitz [English in comments] Die BTU Cottbus-Senftenberg und die Industrie- und Handelskammer (IHK Cottbus) entwickeln ihre langjährige Zusammenarbeit weiter: Am 9. November 2026 haben BTU-Präsidentin Prof. Dr. Gesine Grande und IHK-Hauptgeschäftsführer ",
+    "url": "https://de.linkedin.com/posts/btu-cottbus-senftenberg_btucottbussenftenberg-ihkcottbus-wissenstransfer-activity-7525825298366468096-vPXL",
+    "pass": 3
+   },
+   {
+    "quote": "yingqi huang - Student at Brandenburgische Technische ... Student at Brandenburgische Technische Universität Cottbus-Senftenberg · Education: Brandenburgische Technische Universität Cottbus-Senftenberg · Location: Hong Kong. View yingqi huang’s profile on LinkedIn, a professional community of 1 billion members.",
+    "url": "https://hk.linkedin.com/in/yingqi-huang-94b888288",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "BTU Cottbus-Senftenberg | Cottbus - FacebookBrandenburgische Technische Universität Cottbus- SenftenbergBTU Cottbus-Senftenberg International | Cottbus - FacebookBTU Cottbus - Senftenberg | FacebookApplications are now OPEN:... - BTU Cottbus-Senftenberg ...𝗔𝗹𝘁𝗲 #𝗠𝗲𝗻𝘀𝗮 𝗶𝗻 𝗻𝗲𝘂𝗲𝗺 𝗚𝗹𝗮𝗻𝘇 𝘂𝗻𝗱... - BTU C...Universitätsbibliothek Cottbus-Senftenberg | Cottbus - Facebook Oct 22, 2026 · Die BTU freut sich, ",
+    "url": "https://www.facebook.com/btucs/",
+    "pass": 3
+   },
+   {
+    "quote": "Brandenburgische Technische Universität Cottbus- Senftenberg Brandenburgische Technische Universität Cottbus- Senftenberg",
+    "url": "https://www.facebook.com/pages/Brandenburgische-Technische-Universität-Cottbus-Senftenberg/574049772684173/",
+    "pass": 3
+   },
+   {
+    "quote": "BTU Cottbus-Senftenberg International | Cottbus - FacebookBTU Cottbus - Senftenberg | FacebookApplications are now OPEN:... - BTU Cottbus-Senftenberg ...𝗔𝗹𝘁𝗲 #𝗠𝗲𝗻𝘀𝗮 𝗶𝗻 𝗻𝗲𝘂𝗲𝗺 𝗚𝗹𝗮𝗻𝘇 𝘂𝗻𝗱... - BTU C...Universitätsbibliothek Cottbus-Senftenberg | Cottbus - Facebook Aug 18, 2020 · We would like to join BTU International with BTU Cottbus-Senftenberg to create one big Facebook-Page sharing information wit",
+    "url": "https://www.facebook.com/btu.international/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.b-tu.de/spreetecnext/page",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.b-tu.de/universitaet",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.b-tu.de/spreetecnext/aktuelles/ansicht/31502-formnext-2027-zentrale-plattform-als-hub-fuer-additive-manufacturing-der-experten-fuer-industriellen-3d-druck-und-produktionsprofis-aus-immer-mehr-anwendungsbranchen",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.b-tu.de/universitaet/partnerschaften-strukturwandel/netzwerke-partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.b-tu.de/universitaet/partnerschaften-strukturwandel/strukturwandel-und-profilierung",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.b-tu.de/fileadmin/_processed_/2/e/csm_Asiga-formnext-2024-thumb_b6dc459b88.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.b-tu.de/fileadmin/user_upload/b-tu.de/spreetecnext/Bilder/Logos/BMBF_gefoerdert_vom_deutsch.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%B3%E3%83%87%E3%83%B3%E3%83%96%E3%83%AB%E3%82%AF%E5%B7%A5%E7%A7%91%E5%A4%A7%E5%AD%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Brandenburg_University_of_Technology",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.universityguru.jp/daigaku/brandenburg-university-of-technology-cottbus--senftenberg-senftenberg",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ptc.com/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smith-nephew.com/en-us/contact-us/companyinfo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://maymobility.com/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Brandenburg_University_of_Technology",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://de.linkedin.com/posts/tom-spike_innovation-924-case-study-btu-cottbus-senftenberg-activity-7243224390329352192-URtd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.learnworlds.com/blog/market-sell/white-label-courses-to-resell/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.broadcom.com/how-to-buy/partner-distributor-lookup",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://locatr.cloudapps.cisco.com/WWChannels/LOCATR/pf/index.jsp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jabra.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Brandenburg_University_of_Technology",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://de.wikipedia.org/wiki/Brandenburgische_Technische_Universit%C3%A4t_Cottbus-Senftenberg",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://listyfy.com/blog/question/brandenburg-university-cottbus-senftenberg-public-or-private/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/school/btu-cottbus-senftenberg/people/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/krempkow-rené",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/posts/btu-cottbus-senftenberg_btucottbussenftenberg-ihkcottbus-wissenstransfer-activity-7525825298366468096-vPXL",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://hk.linkedin.com/in/yingqi-huang-94b888288",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/btucs/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/Brandenburgische-Technische-Universität-Cottbus-Senftenberg/574049772684173/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/btu.international/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Brandenburgische Technische Universität Cottbus-Senftenberg 日本 導入",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ブランデンブルク工科大学",
+    "https://en.wikipedia.org/wiki/Brandenburg_University_of_Technology",
+    "https://www.b-tu.de/en/",
+    "https://www.universityguru.jp/daigaku/brandenburg-university-of-technology-cottbus--senftenberg-senftenberg",
+    "https://www.b-tu.de/en/international/",
+    "https://baike.baidu.com/item/勃兰登堡工业大学/7694277",
+    "https://world-guide.jp/universities/detail/64274"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Brandenburgische Technische Universität Cottbus-Senftenberg 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.ptc.com/ja/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://maymobility.com/ja",
+    "https://www.ptc.com/ja/products",
+    "https://www.siemens.com/ja-jp/",
+    "https://www.se.com/jp/ja/about-us/local/our-office/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Brandenburgische Technische Universität Cottbus-Senftenberg Japan",
+   "results": [
+    "https://www.b-tu.de/en/",
+    "https://www.b-tu.de/en/study",
+    "https://www.b-tu.de/en/universitaet/struktur/faculties",
+    "https://www.b-tu.de/en/study/study-program",
+    "https://www.b-tu.de/en/international/",
+    "https://www.b-tu.de/en/university",
+    "https://www.b-tu.de/en/study/what-to-study/study-programmes"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Brandenburgische Technische Universität Cottbus-Senftenberg manufacturing customer case study",
+   "results": [
+    "https://en.wikipedia.org/wiki/Brandenburg_University_of_Technology",
+    "https://www.b-tu.de/en/",
+    "https://www.b-tu.de/en/maschinenbau-ms/",
+    "https://de.linkedin.com/posts/tom-spike_innovation-924-case-study-btu-cottbus-senftenberg-activity-7243224390329352192-URtd",
+    "https://article.wn.com/view-steel/2026/10/13/BTU_is_preparing_the_Lusatia_region_for_new_manufacturing_te/",
+    "https://www.niederlausitz-aktuell.de/niederlausitz-aktuell/orte/oberspreewald-lausitz/322893/brandenburger-innovationspreis-2026-quantum-grade-materials-senftenberg.html",
+    "https://www.mckinsey.com/about-us/case-studies"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Brandenburgische Technische Universität Cottbus-Senftenberg white label OR reseller OR partner program",
+   "results": [
+    "https://www.learnworlds.com/blog/market-sell/white-label-courses-to-resell/",
+    "https://www.broadcom.com/how-to-buy/partner-distributor-lookup",
+    "https://locatr.cloudapps.cisco.com/WWChannels/LOCATR/pf/index.jsp",
+    "https://www.jabra.com/partners",
+    "https://www.google.com/",
+    "https://wa.me/",
+    "https://music.youtube.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Brandenburgische Technische Universität Cottbus-Senftenberg founded funding employees revenue",
+   "results": [
+    "https://en.wikipedia.org/wiki/Brandenburg_University_of_Technology",
+    "https://de.wikipedia.org/wiki/Brandenburgische_Technische_Universität_Cottbus-Senftenberg",
+    "https://www.b-tu.de/en/university",
+    "https://listyfy.com/blog/question/brandenburg-university-cottbus-senftenberg-public-or-private/",
+    "https://www.b-tu.de/universitaet/",
+    "https://tracxn.com/d/companies/brandenburgtechnicaluniversitycottbussenftenberg/__4VbVRVd0Vx2_J5GcN-DW8eFfGvrLE3JrXtHmaMwcPjU",
+    "https://rocketreach.co/brandenburgische-technische-universitat-cottbus-senftenberg-profile_b44681f6faead4f6"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Brandenburgische Technische Universität Cottbus-Senftenberg",
+   "results": [
+    "https://note.com/tag/GPT-6",
+    "https://note.com/tag/千葉雄喜",
+    "https://note.com/minam_oto/n/n324380f75d06",
+    "https://note.com/jitsuwa_knuckles/n/n37548c8e0925",
+    "https://note.com/nobu001/n/n811122905b67",
+    "https://note.com/gentle_owl6242/n/n56d37d139cbe",
+    "https://note.com/yunnyannyanneko/n/nf056c74bc4b4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Brandenburgische Technische Universität Cottbus-Senftenberg",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Brandenburgische Technische Universität Cottbus-Senftenberg",
+   "results": [
+    "https://www.linkedin.com/school/btu-cottbus-senftenberg/people/",
+    "https://de.linkedin.com/in/krempkow-rené",
+    "https://de.linkedin.com/posts/btu-cottbus-senftenberg_btucottbussenftenberg-ihkcottbus-wissenstransfer-activity-7525825298366468096-vPXL",
+    "https://hk.linkedin.com/in/yingqi-huang-94b888288",
+    "https://www.linkedin.com/posts/btu-cottbus-senftenberg_cottbus-cottbus-btucs-activity-7475884404075192320-squA",
+    "https://www.linkedin.com/posts/btu-cottbus-senftenberg_erster-studentischer-vizepräsident-ist-merlin-activity-7386750816231272450-1NdL",
+    "https://www.linkedin.com/school/btu-cottbus-senftenberg/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Brandenburgische Technische Universität Cottbus-Senftenberg",
+   "results": [
+    "https://www.facebook.com/btucs/",
+    "https://www.facebook.com/pages/Brandenburgische-Technische-Universität-Cottbus-Senftenberg/574049772684173/",
+    "https://www.facebook.com/btu.international/",
+    "https://www.facebook.com/groups/242359095882448/",
+    "https://www.facebook.com/btucs/posts/-applications-are-now-open-ready-to-start-your-studies-in-germany-prospective-in/954862337126624/",
+    "https://www.facebook.com/btucs.bibliothek/",
+    "https://www.facebook.com/btucs/posts/𝗔𝗹𝘁𝗲-𝗠𝗲𝗻𝘀𝗮-𝗶𝗻-𝗻𝗲𝘂𝗲𝗺-𝗚𝗹𝗮𝗻𝘇-𝘂𝗻𝗱-𝗻𝗲𝘂𝗲𝗿-𝗙𝘂𝗻𝗸𝘁𝗶𝗼𝗻𝗮𝗹𝗶𝘁ä𝘁-𝗘𝗶𝗻𝘄𝗲𝗶𝗵𝘂𝗻𝗴-𝗶𝗻-𝗖𝗼𝘁𝘁𝗯𝘂𝘀-english/897055516240640/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Brandenburgische Technische Universität Cottbus-Senftenberg note 社長",
+   "results": [
+    "https://en.wikipedia.org/wiki/Brandenburg_University_of_Technology",
+    "https://article.wn.com/view/2026/11/02/Die_BTU_hat_einen_neuen_Kanzler_Brandenburgische_Technische_/",
+    "https://www.b-tu.de/en/",
+    "https://www.b-tu.de/universitaet/",
+    "https://www.radiocottbus.de/lausitz-news/2026/11/03/robert-nissen-ist-neuer-kanzler-der-btu-cottbus-senftenberg/",
+    "https://www.uni-heute.de/neuigkeiten/fu-berlin/robert-nissen-uebernimmt-als-neuer-kanzler-die-verwaltungsleitung-der-btu-cottbus-senftenberg/",
+    "https://www.niederlausitz-aktuell.de/niederlausitz-aktuell/orte/cottbus/322572/neues-praesidium-der-btu-beginnt-seine-arbeit-zum-semesterbeginn.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Brandenburgische Technische Universität Cottbus-Senftenberg X 投稿",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ブランデンブルク工科大学",
+    "https://www.b-tu.de/",
+    "https://www.b-tu.de/en/",
+    "https://www.lr-online.de/lausitz/cottbus/universitaet-cottbus-schluss-mit-x-nbspbtu-verlaesst-social-media-plattform-77776012.html",
+    "https://www.niederlausitz-aktuell.de/niederlausitz-aktuell/orte/cottbus/287005/btu-cottbus-senftenberg-verlaesst-social-media-plattform-x.html",
+    "https://www.xing.com/pages/brandenburgischetechnischeuniversitatcottbus-senftenberg",
+    "https://www-docs.b-tu.de/fg-technik-umwelt-soziologie/public/Leitfaden-Wissenschaftliches-Arbeiten/Leitfaden+wissenschaftliches+Arbeiten+_BTU.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部23頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部23頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部23頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部23頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部23頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部23頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部23頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部23頁・検索12回）"
+ }
+}

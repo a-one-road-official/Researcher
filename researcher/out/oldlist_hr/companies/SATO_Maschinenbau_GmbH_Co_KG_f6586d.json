@@ -1,0 +1,826 @@
+{
+ "name": "SATO Maschinenbau GmbH & Co. KG",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜送付済み",
+ "researched_at": "2026-11-10T20:51:39.057568+00:00",
+ "official_url": "https://www.sato.de",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "SATO Maschinenbau GmbH & Co. KG | Premium Schneidmaschinen Hersteller",
+    "url": "https://www.sato.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Premium Maschinen zum Schneiden und 3D Druck",
+    "url": "https://www.sato.de/",
+    "pass": 1
+   },
+   {
+    "quote": "omplexe Prozesse oft ohne aufwändige CAD/CAM-Programmierung direkt an der Maschine realisieren.",
+    "url": "https://www.sato.de/additivemanufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "für maximale Produktivität",
+    "url": "https://www.sato.de/additivemanufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Sinumerik One für höchste Steuerungsansprüche",
+    "url": "https://www.sato.de/additivemanufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Besonders bedienungsfreundliches Interface, hohe Reproduzierbarkeit und kundenindividuelle Konfiguration möglich",
+    "url": "https://www.sato.de/additivemanufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "für detaillierte Informationen zu unseren Lunovu-Produkten",
+    "url": "https://www.sato.de/additivemanufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Zugleich nutzt die Software die korrekten Parameter für alle prozessrelevanten Größen, wie Laserleistung, Pulvermenge oder Vorschub.",
+    "url": "https://www.sato.de/additivemanufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Das Resultat ist ein vollkommen automatisch erzeugtes Bearbeitungsprogramm zum schichtweisen Aufbau eines solchen Bauteils, das sofort ausgeführt werden kann.",
+    "url": "https://www.sato.de/additivemanufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Mehrfach-Überfahrten sowie Scanfahrten unter verschiedenen Kippwinkeln können problemlos realisiert werden, so dass auch Hinterschneidungen erfasst werden können.",
+    "url": "https://www.sato.de/additivemanufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Insbesondere bei komplexen Bearbeitungsaufgaben kann so leicht überprüft werden, ob etwa Kollisionen drohen oder ob eine geänderte Bahnführung sinnvoll ist.",
+    "url": "https://www.sato.de/additivemanufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Die Ausführung des erzeugten Bearbeitungsprogramms ist dann nur noch ein weiterer Mausklick.",
+    "url": "https://www.sato.de/additivemanufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Nach Eingabe der gewünschten Aufbauhöhe bzw. Lagenanzahl kann das System entweder bereits hinterlegte Prozessparameter nutzen (Spurbreiten und -höhen, Aufbaustrategien etc.), oder der Anwender definiert sie in einem intuitiv durchführbaren Dialog selbst.",
+    "url": "https://www.sato.de/additivemanufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "CRM / Sales / Marketing",
+    "url": "https://www.obs-group.net/en_US/customer-database/6835/details",
+    "pass": 3
+   },
+   {
+    "quote": "SATO Maschinenbau was looking for support with Odoo V13. In particular, questions were asked about the areas of production and reports.",
+    "url": "https://www.obs-group.net/en_US/customer-database/6835/details",
+    "pass": 3
+   },
+   {
+    "quote": "OBS Solutions successfully carried out the upgrade to Odoo V16. The core system consists of purchasing, production, warehouse and invoicing. Minor adjustments were made in the area of reports. These cover both appearance and function.",
+    "url": "https://www.obs-group.net/en_US/customer-database/6835/details",
+    "pass": 3
+   },
+   {
+    "quote": "SATO Maschinenbau benefits in particular from the fact that production corresponds to the company's own processes. In addition, bills of materials (BOM) can be created quickly and easily on an individual basis. OBS Solutions and SATO Maschinenbau are in contact on demand. As a professional, trusted Odoo expert, OBS Solutions remains the customer's point of contact.",
+    "url": "https://www.obs-group.net/en_US/customer-database/6835/details",
+    "pass": 3
+   },
+   {
+    "quote": "AH Industries A/S precisely machines components of all sizes, from small parts to heavy-duty workpieces, for industrial clients.",
+    "url": "https://www.obs-group.net/en_US/customer-database/6835/details",
+    "pass": 3
+   },
+   {
+    "quote": "The customer combines a pioneering spirit with practical, cost-effective solutions. Advanced manufacturing, proprietary software, top-tier measurement technology, and skilled staff enable innovative solutions for over 600 customers worldwide.",
+    "url": "https://www.obs-group.net/en_US/customer-database/6835/details",
+    "pass": 3
+   },
+   {
+    "quote": "DOVO Stahlwaren GmbH manufactures premium shaving products with character and edge from Solingen.",
+    "url": "https://www.obs-group.net/en_US/customer-database/6835/details",
+    "pass": 3
+   },
+   {
+    "quote": "EMKA Beschlagteile GmbH & Co. KG is the world market leader for locks, hinges, and seals, with production in Europe and global sales.",
+    "url": "https://www.obs-group.net/en_US/customer-database/6835/details",
+    "pass": 3
+   },
+   {
+    "quote": "Headleveler has been dedicated to making the highest quality personalized custom pillows recommended by healthcare professionals for over 30 years. They offer a made-to-measure concierge experience with washable, hypoallergenic pillows for adults and children.",
+    "url": "https://www.obs-group.net/en_US/customer-database/6835/details",
+    "pass": 3
+   },
+   {
+    "quote": "ICEE-JUNGO AG develops, produces and markets municipal vehicles, as well as vehicles and machines of all kinds, that can be purchased, leased or rented.",
+    "url": "https://www.obs-group.net/en_US/customer-database/6835/details",
+    "pass": 3
+   },
+   {
+    "quote": "Merath Metallsysteme provides complete solutions and precise support – from metal parts to battery and accumulator systems.",
+    "url": "https://www.obs-group.net/en_US/customer-database/6835/details",
+    "pass": 3
+   },
+   {
+    "quote": "RCI Adventure Products",
+    "url": "https://www.obs-group.net/en_US/customer-database/6835/details",
+    "pass": 3
+   },
+   {
+    "quote": "RCI Adventure Products is a leading manufacturer of ropes courses, zip lines, and adventure attractions.",
+    "url": "https://www.obs-group.net/en_US/customer-database/6835/details",
+    "pass": 3
+   },
+   {
+    "quote": "Thielenhaus Microfinish Corp. is the US subsidiary of German precision engineering group Thielenhaus, delivering superfinishing solutions.",
+    "url": "https://www.obs-group.net/en_US/customer-database/6835/details",
+    "pass": 3
+   },
+   {
+    "quote": "wallPen GmbH is a German manufacturer from Wissen, developing the patented wallPen vertical wall printer for large-format direct-to-wall printing, used in 45+ countries.",
+    "url": "https://www.obs-group.net/en_US/customer-database/6835/details",
+    "pass": 3
+   },
+   {
+    "quote": "sato; processing of sheet metal/plastic hybrid structures; flexible sheet metal working; sheet metal, semi-finished and finished products (ferrous/non-ferrous)",
+    "url": "https://bbs.fobshanghai.com/company/1rq73q669327fi3.html",
+    "pass": 3
+   },
+   {
+    "quote": "Available in the full profile",
+    "url": "https://app.implisense.com/en/companies/sato-maschinenbau-gmbh-co-kg-moenchengladbach--DEDEE7ZICM13",
+    "pass": 3
+   },
+   {
+    "quote": "In this company's full profile: email address, headcount estimate, VAT ID, representation rules, and 2 more. A free account opens 20 full profiles to start with and 5 every month.",
+    "url": "https://app.implisense.com/en/companies/sato-maschinenbau-gmbh-co-kg-moenchengladbach--DEDEE7ZICM13",
+    "pass": 3
+   },
+   {
+    "quote": "Stability assessment in the full profile",
+    "url": "https://app.implisense.com/en/companies/sato-maschinenbau-gmbh-co-kg-moenchengladbach--DEDEE7ZICM13",
+    "pass": 3
+   },
+   {
+    "quote": "Financial figures, signals and the complete history are in the full profile.",
+    "url": "https://app.implisense.com/en/companies/sato-maschinenbau-gmbh-co-kg-moenchengladbach--DEDEE7ZICM13",
+    "pass": 3
+   },
+   {
+    "quote": "24 Apr 2022",
+    "url": "https://app.implisense.com/en/companies/sato-maschinenbau-gmbh-co-kg-moenchengladbach--DEDEE7ZICM13",
+    "pass": 3
+   },
+   {
+    "quote": "A headcount estimate is on file for this company — in the full profile.",
+    "url": "https://app.implisense.com/en/companies/sato-maschinenbau-gmbh-co-kg-moenchengladbach--DEDEE7ZICM13",
+    "pass": 3
+   },
+   {
+    "quote": "Four dimensions from hard data — age, financials, register events, compliance. The ratings themselves are in the full profile.",
+    "url": "https://app.implisense.com/en/companies/sato-maschinenbau-gmbh-co-kg-moenchengladbach--DEDEE7ZICM13",
+    "pass": 3
+   },
+   {
+    "quote": "No information on management and representation.",
+    "url": "https://app.implisense.com/en/companies/sato-maschinenbau-gmbh-co-kg-moenchengladbach--DEDEE7ZICM13",
+    "pass": 3
+   },
+   {
+    "quote": "AI-powered research across press, social media and job postings from the last six months.",
+    "url": "https://app.implisense.com/en/companies/sato-maschinenbau-gmbh-co-kg-moenchengladbach--DEDEE7ZICM13",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with a similar profile",
+    "url": "https://app.implisense.com/en/companies/sato-maschinenbau-gmbh-co-kg-moenchengladbach--DEDEE7ZICM13",
+    "pass": 3
+   },
+   {
+    "quote": "7 more similar companies in the full profile",
+    "url": "https://app.implisense.com/en/companies/sato-maschinenbau-gmbh-co-kg-moenchengladbach--DEDEE7ZICM13",
+    "pass": 3
+   },
+   {
+    "quote": "3 more companies nearby in the full profile",
+    "url": "https://app.implisense.com/en/companies/sato-maschinenbau-gmbh-co-kg-moenchengladbach--DEDEE7ZICM13",
+    "pass": 3
+   },
+   {
+    "quote": "Three ways to access this company's data programmatically:",
+    "url": "https://app.implisense.com/en/companies/sato-maschinenbau-gmbh-co-kg-moenchengladbach--DEDEE7ZICM13",
+    "pass": 3
+   },
+   {
+    "quote": "company_profile(name=\"SATO Maschinenbau GmbH & Co. KG\")",
+    "url": "https://app.implisense.com/en/companies/sato-maschinenbau-gmbh-co-kg-moenchengladbach--DEDEE7ZICM13",
+    "pass": 3
+   },
+   {
+    "quote": "Plus opens every profile",
+    "url": "https://app.implisense.com/en/companies/sato-maschinenbau-gmbh-co-kg-moenchengladbach--DEDEE7ZICM13",
+    "pass": 3
+   },
+   {
+    "quote": "Every company profile in full, without spending Implicents on it — plus wider search reach, unlimited lists and the enriched export.",
+    "url": "https://app.implisense.com/en/companies/sato-maschinenbau-gmbh-co-kg-moenchengladbach--DEDEE7ZICM13",
+    "pass": 3
+   },
+   {
+    "quote": "The full commercial register history — on every profile",
+    "url": "https://app.implisense.com/en/companies/sato-maschinenbau-gmbh-co-kg-moenchengladbach--DEDEE7ZICM13",
+    "pass": 3
+   },
+   {
+    "quote": "Power search is only available to our premium service subscribers.",
+    "url": "https://www.northdata.com/SATO+Maschinenbau+GmbH+&+Co%C2%B7+KG,+M%C3%B6nchengladbach/Amtsgericht+Moenchengladbach+HRA+9720",
+    "pass": 3
+   },
+   {
+    "quote": "Learn more about the North Data Premium Service",
+    "url": "https://www.northdata.com/SATO+Maschinenbau+GmbH+&+Co%C2%B7+KG,+M%C3%B6nchengladbach/Amtsgericht+Moenchengladbach+HRA+9720",
+    "pass": 3
+   },
+   {
+    "quote": "This feature is only available to our premium service subscribers.",
+    "url": "https://www.northdata.com/SATO+Maschinenbau+GmbH+&+Co%C2%B7+KG,+M%C3%B6nchengladbach/Amtsgericht+Moenchengladbach+HRA+9720",
+    "pass": 3
+   },
+   {
+    "quote": "A dossier provides comprehensive company details as a PDF, together",
+    "url": "https://www.northdata.com/SATO+Maschinenbau+GmbH+&+Co%C2%B7+KG,+M%C3%B6nchengladbach/Amtsgericht+Moenchengladbach+HRA+9720",
+    "pass": 3
+   },
+   {
+    "quote": "Premium plans starting from",
+    "url": "https://www.northdata.com/SATO+Maschinenbau+GmbH+&+Co%C2%B7+KG,+M%C3%B6nchengladbach/Amtsgericht+Moenchengladbach+HRA+9720",
+    "pass": 3
+   },
+   {
+    "quote": "Current legal representatives",
+    "url": "https://www.northdata.com/SATO+Maschinenbau+GmbH+&+Co%C2%B7+KG,+M%C3%B6nchengladbach/Amtsgericht+Moenchengladbach+HRA+9720",
+    "pass": 3
+   },
+   {
+    "quote": "Premium + Ownership & Flags add-on",
+    "url": "https://www.northdata.com/SATO+Maschinenbau+GmbH+&+Co%C2%B7+KG,+M%C3%B6nchengladbach/Amtsgericht+Moenchengladbach+HRA+9720",
+    "pass": 3
+   },
+   {
+    "quote": "Public funding (€118,319): Resource Efficiency: PRECIRC - Laser-Based Repair Process Chain to Increase Efficiency in the Circular Economy of Metallic Precision Components, Subproject 3: Path and …",
+    "url": "https://www.northdata.com/SATO+Maschinenbau+GmbH+&+Co%C2%B7+KG,+M%C3%B6nchengladbach/Amtsgericht+Moenchengladbach+HRA+9720",
+    "pass": 3
+   },
+   {
+    "quote": "25 Apr 2022",
+    "url": "https://www.northdata.com/SATO+Maschinenbau+GmbH+&+Co%C2%B7+KG,+M%C3%B6nchengladbach/Amtsgericht+Moenchengladbach+HRA+9720",
+    "pass": 3
+   },
+   {
+    "quote": "have errors, and is provided on an \"as is\" basis with no guarantees of",
+    "url": "https://www.northdata.com/SATO+Maschinenbau+GmbH+&+Co%C2%B7+KG,+M%C3%B6nchengladbach/Amtsgericht+Moenchengladbach+HRA+9720",
+    "pass": 3
+   },
+   {
+    "quote": "Printing is only available to North Data premium service",
+    "url": "https://www.northdata.com/SATO+Maschinenbau+GmbH+&+Co%C2%B7+KG,+M%C3%B6nchengladbach/Amtsgericht+Moenchengladbach+HRA+9720",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "SATO Maschinenbau GmbH & Co. KG has been a leading manufacturer of CNC-controlled cutting machines for over 30 years – made in Germany.",
+    "url": "https://www.obs-group.net/en_US/customer-database/6835/details",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing & Logistics",
+    "url": "https://www.obs-group.net/en_US/customer-database/6835/details",
+    "pass": 3
+   },
+   {
+    "quote": "Inventory / Manufacturing",
+    "url": "https://www.obs-group.net/en_US/customer-database/6835/details",
+    "pass": 3
+   },
+   {
+    "quote": "OBS Solutions successfully carried out the upgrade to Odoo V16. The core system consists of purchasing, production, warehouse and invoicing. Minor adjustments were made in the area of reports. These cover both appearance and function.",
+    "url": "https://www.obs-group.net/en_US/customer-database/6835/details",
+    "pass": 3
+   },
+   {
+    "quote": "AH Industries A/S precisely machines components of all sizes, from small parts to heavy-duty workpieces, for industrial clients.",
+    "url": "https://www.obs-group.net/en_US/customer-database/6835/details",
+    "pass": 3
+   },
+   {
+    "quote": "AIRTEC-BRAIDS Heinz Heyer e.K. is a leading manufacturer of bonding straps for the world's largest aerospace companies.",
+    "url": "https://www.obs-group.net/en_US/customer-database/6835/details",
+    "pass": 3
+   },
+   {
+    "quote": "The customer combines a pioneering spirit with practical, cost-effective solutions. Advanced manufacturing, proprietary software, top-tier measurement technology, and skilled staff enable innovative solutions for over 600 customers worldwide.",
+    "url": "https://www.obs-group.net/en_US/customer-database/6835/details",
+    "pass": 3
+   },
+   {
+    "quote": "BMW is a German car manufacturer operating on a global scale and is one of the biggest companies in Germany.",
+    "url": "https://www.obs-group.net/en_US/customer-database/6835/details",
+    "pass": 3
+   },
+   {
+    "quote": "Perinet GmbH is a German industrial network technology firm based in Berlin, specialised in Single Pair Ethernet solutions.",
+    "url": "https://www.obs-group.net/en_US/customer-database/6835/details",
+    "pass": 3
+   },
+   {
+    "quote": "RCI Adventure Products is a leading manufacturer of ropes courses, zip lines, and adventure attractions.",
+    "url": "https://www.obs-group.net/en_US/customer-database/6835/details",
+    "pass": 3
+   },
+   {
+    "quote": "wallPen GmbH is a German manufacturer from Wissen, developing the patented wallPen vertical wall printer for large-format direct-to-wall printing, used in 45+ countries.",
+    "url": "https://www.obs-group.net/en_US/customer-database/6835/details",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "OBS Solutions successfully carried out the upgrade to Odoo V16. The core system consists of purchasing, production, warehouse and invoicing. Minor adjustments were made in the area of reports. These cover both appearance and function.",
+    "url": "https://www.obs-group.net/en_US/customer-database/6835/details",
+    "pass": 3
+   },
+   {
+    "quote": "Thielenhaus Microfinish Corp. is the US subsidiary of German precision engineering group Thielenhaus, delivering superfinishing solutions.",
+    "url": "https://www.obs-group.net/en_US/customer-database/6835/details",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue, result and equity across every available year",
+    "url": "https://app.implisense.com/en/companies/sato-maschinenbau-gmbh-co-kg-moenchengladbach--DEDEE7ZICM13",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Über uns | SATO Maschinenbau — Informationen zur SATO Maschinenbau GmbH & Co. KG, ein Unternehmen der Heinrich Schmidt Holding GmbH & Co. KG",
+    "url": "https://www.sato.de/über-uns",
+    "pass": 3
+   },
+   {
+    "quote": "SATO Maschinenbau GmbH & Co. KG | OBS Group — SATO Maschinenbau GmbH & Co. KG has been a leading manufacturer of CNC-controlled cutting machines for over 30 years – made in Germany.",
+    "url": "https://www.obs-group.net/en_US/customer-database/6835/details",
+    "pass": 3
+   },
+   {
+    "quote": "SATO Maschinenbau GmbH & Co. KG | Premium Schneidmaschinen ... — With over 30 years of experience, we offer tailor-made solutions in the field of CNC cutting technology and additive manufacturing - from conception to the realization of your individual requirements. Made in Germany.",
+    "url": "https://www.sato.de/en",
+    "pass": 3
+   },
+   {
+    "quote": "SATO Maschinenbau GmbH & Co. KG | Premium Schneidmaschinen ... — SATO Maschinenbau GmbH & Co. KG ist führender Hersteller von Premium Schneidmaschinen und CNC Brennschneidanlagen",
+    "url": "https://www.sato.de/",
+    "pass": 3
+   },
+   {
+    "quote": "Kontakt | My Site - SATO Maschinenbau — Hier finden Sie die Kontaktdaten der SATO Maschinenbau GmbH & Co. KG",
+    "url": "https://www.sato.de/en/kontakt",
+    "pass": 3
+   },
+   {
+    "quote": "SATO Maschinenbau GmbH & Co. KG | LinkedIn — SATO Maschinenbau GmbH & Co. KG is one of the leading manufacturers of thermal cutting systems. Our interdisciplinary team develops innovative and intuitively operable solutions. Based in ...",
+    "url": "https://www.linkedin.com/company/sato-maschinenbau",
+    "pass": 3
+   },
+   {
+    "quote": "Produkte | SATO Maschinenbau GmbH & Co. KG — SATO Maschinenbau GmbH & Co. KG ist führender Hersteller von Premium Plasmaschneidmaschinen und CNC Brennschneidanlagen",
+    "url": "https://www.sato.de/en/autogen-plasma",
+    "pass": 3
+   },
+   {
+    "quote": "Sato Maschinenbau Gmbh & Co. Kg - sheet metal working ... — Learn about Sato Maschinenbau Gmbh & Co. Kg, specializing in sato; processing of sheet metal/plastic hybrid structures; flexible sheet metal working; sheet metal, semi-finished and finished products (ferrous/non-ferrous), participating in Euroblech De 2024. Find contact details, website, and company background on FOB Business Directory.",
+    "url": "https://bbs.fobshanghai.com/company/1rq73q669327fi3.html",
+    "pass": 3
+   },
+   {
+    "quote": "SATO Maschinenbau GmbH & Co. KG — KG (Limited Partnership ... — SATO Maschinenbau GmbH & Co. KG ist auf die Entwicklung und Herstellung von Maschinenlösungen im Bereich Additive Manufacturing spezialisiert. Das Unternehmen bietet Produkte wie kompakte LMD-Systeme, Produktionssysteme, robotergeführte Systeme und Inertgassysteme an, die innovatives Laser Cladding ermöglichen.",
+    "url": "https://app.implisense.com/en/companies/sato-maschinenbau-gmbh-co-kg-moenchengladbach--DEDEE7ZICM13",
+    "pass": 3
+   },
+   {
+    "quote": "SATO Maschinenbau GmbH & Co. KG | BOP Alliance — SATO Maschinenbau GmbH & Co. KG Sato GmbH is a leading manufacturer of CNC-controlled cutting systems in portal and cantilever design, made in Germany, including oxyfuel, plasma, and laser systems.",
+    "url": "https://www.best-odoo-partners.com/customer-database/6835/details",
+    "pass": 3
+   },
+   {
+    "quote": "SATO Maschinenbau GmbH & Co. KG, Mönchengladbach, Germany — SATO Maschinenbau GmbH & Co. KG, Mönchengladbach, Germany, District Court of Moenchengladbach HRA 9720: Network, Financial information Corporate purpose Development, design, manufacture, trade and distribution of CNC-controlled machines in the field of oxy-fuel, plasma, laser and water jet technology, in portal and boom construction, fixt",
+    "url": "https://www.northdata.com/SATO+Maschinenbau+GmbH+&+Co·+KG,+Mönchengladbach/Amtsgericht+Moenchengladbach+HRA+9720",
+    "pass": 3
+   },
+   {
+    "quote": "SATO - Crunchbase Company Profile & FundingSATO (Germany) 2026 Company Profile: Valuation, Investors ...SATO Maschinenbau GmbH & Co. KG Overview - SignalHireSATO GmbH, Mönchengladbach - CompanyHouseSATO Maschinenbau GmbH & Co. KG - unternehmen24Sato Schneidsysteme | in Mönchengladbach - Firmenprofil ... — Details Legal Name SATO Maschinenbau GmbH & Co. KG. Operating Status Active Company Type For ",
+    "url": "https://www.crunchbase.com/organization/sato-9a03",
+    "pass": 3
+   },
+   {
+    "quote": "SATO (Germany) 2026 Company Profile: Valuation, Investors ...SATO Maschinenbau GmbH & Co. KG Overview - SignalHireSATO GmbH, Mönchengladbach - CompanyHouseSATO Maschinenbau GmbH & Co. KG - unternehmen24Sato Schneidsysteme | in Mönchengladbach - Firmenprofil ... — Information on acquisition, funding, investors, and executives for SATO (Germany). Use the PitchBook Platform to explore the full profil",
+    "url": "https://pitchbook.com/profiles/company/267053-41",
+    "pass": 3
+   },
+   {
+    "quote": "SATO Maschinenbau GmbH & Co. KG Overview - SignalHire — SATO Maschinenbau GmbH & Co. KG headquarters is in Mönchengladbach, Nordrhein-Westfalen. SATO Maschinenbau GmbH & Co. KG is in the sectors of: Mechanical Engineering.",
+    "url": "https://www.signalhire.com/companies/sato-gmbh",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "In this company's full profile: email address, headcount estimate, VAT ID, representation rules, and 2 more. A free account opens 20 full profiles to start with and 5 every month.",
+    "url": "https://app.implisense.com/en/companies/sato-maschinenbau-gmbh-co-kg-moenchengladbach--DEDEE7ZICM13",
+    "pass": 3
+   },
+   {
+    "quote": "AI-powered research for publicly available contacts: name, role, phone, email, LinkedIn.",
+    "url": "https://app.implisense.com/en/companies/sato-maschinenbau-gmbh-co-kg-moenchengladbach--DEDEE7ZICM13",
+    "pass": 3
+   },
+   {
+    "quote": "If you put a company on your watch list, we'll notify you on your email",
+    "url": "https://www.northdata.com/SATO+Maschinenbau+GmbH+&+Co%C2%B7+KG,+M%C3%B6nchengladbach/Amtsgericht+Moenchengladbach+HRA+9720",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "SATO Maschinenbau GmbH & Co. KG - LinkedIn SATO Maschinenbau GmbH & Co. KG is one of the leading manufacturers of thermal cutting systems. Our interdisciplinary team develops innovative and intuitively operable solutions. Based in ...",
+    "url": "https://www.linkedin.com/company/sato-maschinenbau",
+    "pass": 3
+   },
+   {
+    "quote": "SATO Maschinenbau GmbH & Co. KG - LinkedIn Besuchen Sie unsere neue Website und lernen Sie unser vollständiges Produktportfolio kennen. Von der Premium Plug & Play Plasmaschneidanlage bis hin zur individuell geplanten Brenn-Bohr-Anlage ...",
+    "url": "https://www.linkedin.com/posts/sato-maschinenbau_sato-plasmaschneidanlage-plasma-activity-7188172464152064001-eUyB",
+    "pass": 3
+   },
+   {
+    "quote": "Philipp Gingter – SATO Maschinenbau GmbH & Co. KG | LinkedIn#euroblech2026 #sato #schneidtechnik #maschinenbau - LinkedInSATO Maschinenbau GmbH & Co. KG’s Post - LinkedInSchweissen & Schneiden 2025 | SATO Maschinenbau GmbH & Co. KG Berufserfahrung: SATO Maschinenbau GmbH & Co. KG · Ausbildung: RWTH Aachen University · Ort: Düsseldorf und Umgebung · 500+ Kontakte auf LinkedIn. Sehen Sie sich das Pr",
+    "url": "https://de.linkedin.com/in/philipp-gingter",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "SATO Maschinenbau - Facebook Dec 23, 2024 · Nach einer mehrjährigen Zusammenarbeit und erfolgreich umgesetzten Kundenprojekten haben wir den präzisen Maschinenbau der SATO Maschinenbau GmbH & Co. KG und die Intelligenz der LUNOVU Software-Lösungen vereint: Gemeinsam machen wir die Freude am Drucken von Metallen so einfach wie nie zuvor!",
+    "url": "https://www.facebook.com/people/SATO-Maschinenbau/61554383311500/",
+    "pass": 3
+   },
+   {
+    "quote": "SATO Maschinenbau - Facebook Dec 23, 2024 · Ihr Team der SATO Maschinenbau GmbH & Co. KG & LUNOVU#sato#lunovu#innovation#Maschinenbau#AdditiveFertigung#additivemanufacturing Przemek Siarka and 4 others 5 SATO Maschinenbau Mar 29, 2024 Frohe Ostertage von eurem SATO Team! 🐣🌷 Genießt",
+    "url": "https://www.facebook.com/p/SATO-Maschinenbau-61554383311500/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sato.de/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sato.de/additivemanufacturing",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.obs-group.net/en_US/customer-database/6835/details",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sato.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.obs-group.net/en_US/customer-database/6835/details",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/sato-maschinenbau",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.obs-group.net/en_US/customer-database/6835/details",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bbs.fobshanghai.com/company/1rq73q669327fi3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://app.implisense.com/en/companies/sato-maschinenbau-gmbh-co-kg-moenchengladbach--DEDEE7ZICM13",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/paul-hewitt-design/case-study/sato-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.obs-group.net/en_US/customer-database/6835/details",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smd.co.jp/en/case-studies/sato/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.northdata.com/SATO+Maschinenbau+GmbH+&+Co%C2%B7+KG,+M%C3%B6nchengladbach/Amtsgericht+Moenchengladbach+HRA+9720",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/sato-9a03",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/267053-41",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.signalhire.com/companies/sato-gmbh",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/sato-maschinenbau",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/sato-maschinenbau_sato-plasmaschneidanlage-plasma-activity-7188172464152064001-eUyB",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/philipp-gingter",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/SATO-Maschinenbau/61554383311500/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/SATO-Maschinenbau-61554383311500/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "SATO Maschinenbau GmbH & Co. KG 日本 導入",
+   "results": [
+    "https://www.sato.de/über-uns",
+    "https://www.obs-group.net/en_US/customer-database/6835/details",
+    "https://www.sato.de/en",
+    "https://www.sato.co.jp/",
+    "https://www.sato-global.com/ja/about/company/history/timeline/",
+    "https://www.sato-global.com/ja/about/company/location/overseas/",
+    "https://www.sato-web.co.jp/en/company/outline/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SATO Maschinenbau GmbH & Co. KG 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.sato.de/",
+    "https://www.sato.de/en/kontakt",
+    "https://www.obs-group.net/en_US/customer-database/6835/details",
+    "https://www.linkedin.com/company/sato-maschinenbau",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.sato.co.jp/",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SATO Maschinenbau GmbH & Co. KG Japan",
+   "results": [
+    "https://www.sato.de/en/autogen-plasma",
+    "https://www.obs-group.net/en_US/customer-database/6835/details",
+    "https://bbs.fobshanghai.com/company/1rq73q669327fi3.html",
+    "https://app.implisense.com/en/companies/sato-maschinenbau-gmbh-co-kg-moenchengladbach--DEDEE7ZICM13",
+    "https://www.sato-global.com/ir/library/",
+    "https://www.eximpedia.app/companies/sato-maschinenbau-gmbh-co-kg/94696019",
+    "https://www.sato.de/en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SATO Maschinenbau GmbH & Co. KG manufacturing customer case study",
+   "results": [
+    "https://www.sato.de/en",
+    "https://www.casestudies.com/company/paul-hewitt-design/case-study/sato-customer-case-study",
+    "https://www.obs-group.net/en_US/customer-database/6835/details",
+    "https://smd.co.jp/en/case-studies/sato/",
+    "https://www.best-odoo-partners.com/customer-database/6835/details",
+    "https://www.sato.de/",
+    "https://lunovu.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SATO Maschinenbau GmbH & Co. KG white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.mycompanyworks.com/reseller",
+    "https://reseller.stzplayer.com/",
+    "https://reseller.amazon.com/",
+    "https://partner.vw.com/partner"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SATO Maschinenbau GmbH & Co. KG founded funding employees revenue",
+   "results": [
+    "https://www.northdata.com/SATO+Maschinenbau+GmbH+&+Co·+KG,+Mönchengladbach/Amtsgericht+Moenchengladbach+HRA+9720",
+    "https://www.crunchbase.com/organization/sato-9a03",
+    "https://pitchbook.com/profiles/company/267053-41",
+    "https://www.signalhire.com/companies/sato-gmbh",
+    "https://www.companyhouse.de/en/SATO-GmbH-Moenchengladbach",
+    "https://www.unternehmen24.info/Firmeninformationen/Deutschland/Firma/5029762",
+    "https://www.wer-zu-wem.de/firma/sato-schneidsysteme.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com SATO Maschinenbau GmbH & Co. KG",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/tag/未確認飛行パンプキン",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/cute_roses482/n/ncb2200f63f92",
+    "https://note.com/ikedanob/n/nf9fd1f265432",
+    "https://note.com/neon_shuffle/n/n67c0209c335c"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com SATO Maschinenbau GmbH & Co. KG",
+   "results": [
+    "https://x.com/Satos0000",
+    "https://jf.x.com/images/media-preview/2090367108140130340",
+    "https://x.com/AuthorXoXiee/status/2111700934329786877",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://help.x.com/zh-cn/using-x",
+    "https://x.com/CogitoEdu/status/2117911840973861028",
+    "https://x.com/DemocraticWins/status/2117994783016685719"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com SATO Maschinenbau GmbH & Co. KG",
+   "results": [
+    "https://www.linkedin.com/company/sato-maschinenbau",
+    "https://www.linkedin.com/posts/sato-maschinenbau_sato-plasmaschneidanlage-plasma-activity-7188172464152064001-eUyB",
+    "https://de.linkedin.com/in/philipp-gingter",
+    "https://www.linkedin.com/posts/sato-maschinenbau_euroblech2026-sato-schneidtechnik-activity-7518328255620251648-aW1y",
+    "https://de.linkedin.com/posts/sato-maschinenbau_von-der-technologie-zum-ergebnis-wasserstoff-activity-7516788790321889280-2pov",
+    "https://www.linkedin.com/posts/sato-maschinenbau_sato-faserlaser-schneidanlagen-activity-7239641063500439555-nHIf",
+    "https://de.linkedin.com/posts/sato-maschinenbau_schweissen-schneiden-2025-activity-7372360263863529472-QlLf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com SATO Maschinenbau GmbH & Co. KG",
+   "results": [
+    "https://www.facebook.com/people/SATO-Maschinenbau/61554383311500/",
+    "https://www.facebook.com/p/SATO-Maschinenbau-61554383311500/",
+    "https://www.facebook.com/1931394800512132/",
+    "https://www.facebook.com/dileima.de/",
+    "https://www.facebook.com/hubtexgmbh/",
+    "https://www.facebook.com/schmidmaschinenbau/",
+    "https://www.facebook.com/kroegelmaschinenbau/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SATO Maschinenbau GmbH & Co. KG note 社長",
+   "results": [
+    "https://bbs.fobshanghai.com/company/1rq73q669327fi3.html",
+    "https://www.sato.de/en",
+    "https://www.sato-global.com/ir/library/",
+    "https://www.sato.de/en/über-uns",
+    "https://app.implisense.com/en/companies/sato-maschinenbau-gmbh-co-kg-moenchengladbach--DEDEE7ZICM13",
+    "https://die-deutsche-wirtschaft.de/investoren/sato-maschinenbau-gmbh-co-kg-uebernahme-durch-die-heinrich-schmidt-gruppe/",
+    "https://die-deutsche-wirtschaft.de/investoren/sato-maschinenbau-gmbh-co-kg-uebernahme-durch-holger-kerkow-und-frank-heesen/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SATO Maschinenbau GmbH & Co. KG X 投稿",
+   "results": [
+    "https://www.instagram.com/sato_maschinenbau/",
+    "https://www.sato.de/en",
+    "https://www.sato.de/über-uns",
+    "https://www.facebook.com/p/SATO-Maschinenbau-61554383311500/",
+    "https://www.facebook.com/people/SATO-Maschinenbau/61554383311500/",
+    "https://www.linkedin.com/company/sato-maschinenbau",
+    "https://www.schweissen-schneiden.com/joining-cutting-surfacing/exhibitor-list/detail/sato-maschinenbau-gmbh-und-co-kg-3edd2"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部23頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部23頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部23頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部23頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部23頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部23頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部23頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部23頁・検索12回）"
+ }
+}

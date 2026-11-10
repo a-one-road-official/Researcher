@@ -1,0 +1,879 @@
+{
+ "name": "Universität Bayreuth",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜FORMNEXT案件",
+ "researched_at": "2026-11-10T21:26:20.880847+00:00",
+ "official_url": "https://www.uni-bayreuth.de",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本部所在地",
+    "value": "ドイツ連邦共和国バイエルン州バイロイト市",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%A4%E3%83%AD%E3%82%A4%E3%83%88%E5%A4%A7%E5%AD%A6",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Established",
+    "value": "Established：1975",
+    "url": "https://en.wikipedia.org/wiki/University_of_Bayreuth",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Kulmbacher Stadtgespräch am 10. November um 18 Uhr.",
+    "url": "https://www.uni-bayreuth.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Prof. Dr. Christian Laforsch in Kommission des RKI berufen",
+    "url": "https://www.uni-bayreuth.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Humboldt-Preisträgerin Perena Gouma forscht an der UBT",
+    "url": "https://www.uni-bayreuth.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Zu den Pressemitteilungen",
+    "url": "https://www.uni-bayreuth.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Der Uni-Alltag kann Probleme mit sich bringen... Unsere Studierenden profitieren von unserem Beratungs- und Service-Netzwerk. Ob vor, während oder nach dem Studium – wir helfen gerne!",
+    "url": "https://www.uni-bayreuth.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Bayreuther Stadtgespräche",
+    "url": "https://www.uni-bayreuth.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Verschiedene Referentinnen und Referenten bieten im Rahmen des Bayreuther Stadtgesprächs monatlich spannende Einblicke in aktuelle Themen. Die Reihe findet im Iwalewahaus statt, der Eintritt ist kostenlos.",
+    "url": "https://www.uni-bayreuth.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Sie wissen noch nicht, was Sie heute Abend vorhaben oder was in den nächsten Tagen und an den Wochenenden läuft? Kein Problem. Klicken Sie sich einfach durch unseren Veranstaltungskalender.",
+    "url": "https://www.uni-bayreuth.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Coaching- und Mentoringprogramme",
+    "url": "https://www.uni-bayreuth.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Formulare und Prozesse der Verwaltung im Intranet",
+    "url": "https://www.uni-bayreuth.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Institut für Entrepreneurship & Innovation",
+    "url": "https://www.uni-bayreuth.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Kulmbacher Stadtgespräche",
+    "url": "https://www.uni-bayreuth.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Neues aus der Pressestelle",
+    "url": "https://www.uni-bayreuth.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Ihre Ansprechpersonen",
+    "url": "https://www.uni-bayreuth.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Zur Printausgabe UBTaktuell",
+    "url": "https://www.uni-bayreuth.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Deadlines are approaching fast! Apply now for Seed Grant until 14. May and Development Grant until 18. June 2025 until 1 pm local time.",
+    "url": "https://www.international-office.uni-bayreuth.de/de/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "The study deals with the effects of algorithms’ predictive power on a digital business model’s revenue, depending on the underlying payment structure, such as subscription-based or usage-based. The resulting decision support system exemplifies the development of aligned value creation and value capture mechanisms.",
+    "url": "https://eref.uni-bayreuth.de/id/eprint/88648/",
+    "pass": 3
+   },
+   {
+    "quote": "https://eref.uni-bayreuth.de/id/eprint/88648",
+    "url": "https://eref.uni-bayreuth.de/id/eprint/88648/",
+    "pass": 3
+   },
+   {
+    "quote": "BWL III: Marketing & Konsumentenverhalten | Universität Bayreuth",
+    "url": "https://www.marketing.uni-bayreuth.de/de/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Profilfeld für Innovation und Verbraucherschutz",
+    "url": "https://www.marketing.uni-bayreuth.de/de/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Lehrstuhl für BWL III: Marketing & Konsumentenverhalten – Prof. Dr. Claas Christian Germelmann",
+    "url": "https://www.marketing.uni-bayreuth.de/de/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Lehrprogramm Bachelor",
+    "url": "https://www.marketing.uni-bayreuth.de/de/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Spezialisierung Marketing",
+    "url": "https://www.marketing.uni-bayreuth.de/de/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing A: Konsumentenverhalten",
+    "url": "https://www.marketing.uni-bayreuth.de/de/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing B: Corporate Communication, Media and Marketing",
+    "url": "https://www.marketing.uni-bayreuth.de/de/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Hauptseminar in Marketing",
+    "url": "https://www.marketing.uni-bayreuth.de/de/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Veranstaltungs- und Projektmanagement",
+    "url": "https://www.marketing.uni-bayreuth.de/de/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Ausgewählte Fragen des Marketings",
+    "url": "https://www.marketing.uni-bayreuth.de/de/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Lehrprogramm für WiwiZ",
+    "url": "https://www.marketing.uni-bayreuth.de/de/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Planspiel Marketing Wintersemester 2026/2027",
+    "url": "https://www.marketing.uni-bayreuth.de/de/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Interviewteilnehmende gesucht! Teilen Sie Ihre persönlichen Erfahrungen und Perspektiven im Umgang mit digitalen Plattformen",
+    "url": "https://www.marketing.uni-bayreuth.de/de/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Exzellenzprogramm des Arbeitsbereichs Marketing und Services - MuSe",
+    "url": "https://www.marketing.uni-bayreuth.de/de/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Univ.Prof.Dr. Claas Christian Germelmann",
+    "url": "https://www.marketing.uni-bayreuth.de/de/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/University_of_Bayreuth",
+    "pass": 3
+   },
+   {
+    "quote": ", Germany. It is one of the youngest German universities. It is broadly organized into seven undergraduate and graduate faculties, with each faculty defining its own admission standards and academic programs in near autonomy.",
+    "url": "https://en.wikipedia.org/wiki/University_of_Bayreuth",
+    "pass": 3
+   },
+   {
+    "quote": "for the promotion of gifted pupils and students in the higher education sector.",
+    "url": "https://en.wikipedia.org/wiki/University_of_Bayreuth",
+    "pass": 3
+   },
+   {
+    "quote": "Members of all parties represented in the Bavarian state parliament, the district parliament of Upper Franconia and numerous public figures campaigned for the construction of the university. Konrad Pöhner and Simon Nüssel as well as the mayor of Bayreuth, Hans Walter Wild, who showed great negotiating skills, deserve special mention.",
+    "url": "https://en.wikipedia.org/wiki/University_of_Bayreuth",
+    "pass": 3
+   },
+   {
+    "quote": "It began research and teaching operations in the winter semester of 1975/76 with 637 students, 24 professors and one female professor. Initially, it offered diploma courses in biology and mathematics, as well as teaching positions for elementary and secondary schools and for grammar schools (mathematics, physics and physical education).",
+    "url": "https://en.wikipedia.org/wiki/University_of_Bayreuth",
+    "pass": 3
+   },
+   {
+    "quote": "In June 1991, Czechoslovak human rights activist and state president Václav Havel was awarded an honorary doctorate from the University of Bayreuth.",
+    "url": "https://en.wikipedia.org/wiki/University_of_Bayreuth",
+    "pass": 3
+   },
+   {
+    "quote": "When it began teaching in 1975, the university was designed for up to 8000 students in its final stage of expansion. In the winter semester 2014/15, the number of 13,000 was exceeded. The university responded to the continuous growth by expanding its staff and infrastructure. In 2018, the proportion of international students was 9%, and 11% in 2019.",
+    "url": "https://en.wikipedia.org/wiki/University_of_Bayreuth",
+    "pass": 3
+   },
+   {
+    "quote": "The university has a capacity of approximately 10,000 students; in winter term 2011/12 the number of enrolled peaked at approximately 11,400 students due to the dual Abitur cohorts.",
+    "url": "https://en.wikipedia.org/wiki/University_of_Bayreuth",
+    "pass": 3
+   },
+   {
+    "quote": "Many study programmes use quasi-interdisciplinary approaches, i.e. \"International Economy and Development\", \"Health Economics\", \"Sports Economics\", \"Polymer- and Colloidal Chemistry\", \"Geoecology\", \"Global Change Ecology\" or \"Applied Informatics\".",
+    "url": "https://en.wikipedia.org/wiki/University_of_Bayreuth",
+    "pass": 3
+   },
+   {
+    "quote": "Institute for Entrepreneurship & Innovation (IEI)",
+    "url": "https://en.wikipedia.org/wiki/University_of_Bayreuth",
+    "pass": 3
+   },
+   {
+    "quote": "Previous Collaborative Research Centres",
+    "url": "https://en.wikipedia.org/wiki/University_of_Bayreuth",
+    "pass": 3
+   },
+   {
+    "quote": "FOR 5495, SOURCED – Process Mining on Distributed Event",
+    "url": "https://en.wikipedia.org/wiki/University_of_Bayreuth",
+    "pass": 3
+   },
+   {
+    "quote": "Promotion of Early Career Researchers",
+    "url": "https://en.wikipedia.org/wiki/University_of_Bayreuth",
+    "pass": 3
+   },
+   {
+    "quote": "German Research Foundation (DFG) – Research Training Groups",
+    "url": "https://en.wikipedia.org/wiki/University_of_Bayreuth",
+    "pass": 3
+   },
+   {
+    "quote": "German Research Foundation (DFG) Priority Programmes, coordinated by the University of Bayreuth)",
+    "url": "https://en.wikipedia.org/wiki/University_of_Bayreuth",
+    "pass": 3
+   },
+   {
+    "quote": "SPP 2006: \"Priority Programme Compositionally Complex Alloys – High Entropy Alloys\"",
+    "url": "https://en.wikipedia.org/wiki/University_of_Bayreuth",
+    "pass": 3
+   },
+   {
+    "quote": "Research Bodies and Collaborative Research Projects",
+    "url": "https://en.wikipedia.org/wiki/University_of_Bayreuth",
+    "pass": 3
+   },
+   {
+    "quote": "Collaborative projects in the research framework programme HORIZON",
+    "url": "https://en.wikipedia.org/wiki/University_of_Bayreuth",
+    "pass": 3
+   },
+   {
+    "quote": "Collaborative projects in the research framework programme Horizon Europe",
+    "url": "https://en.wikipedia.org/wiki/University_of_Bayreuth",
+    "pass": 3
+   },
+   {
+    "quote": "Projects of the Federal Government",
+    "url": "https://en.wikipedia.org/wiki/University_of_Bayreuth",
+    "pass": 3
+   },
+   {
+    "quote": "Projects of the VolkswagenStiftung",
+    "url": "https://en.wikipedia.org/wiki/University_of_Bayreuth",
+    "pass": 3
+   },
+   {
+    "quote": ", President of the Federal Constitutional Court of Germany",
+    "url": "https://en.wikipedia.org/wiki/University_of_Bayreuth",
+    "pass": 3
+   },
+   {
+    "quote": ", professor for",
+    "url": "https://en.wikipedia.org/wiki/University_of_Bayreuth",
+    "pass": 3
+   },
+   {
+    "quote": "(ethnologist), professor for",
+    "url": "https://en.wikipedia.org/wiki/University_of_Bayreuth",
+    "pass": 3
+   },
+   {
+    "quote": ", Half-sister of U.S. President Barack Obama",
+    "url": "https://en.wikipedia.org/wiki/University_of_Bayreuth",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Karriere und Netzwerk",
+    "url": "https://www.uni-bayreuth.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Firmenkontaktmesse KarriereForum",
+    "url": "https://www.uni-bayreuth.de/",
+    "pass": 1
+   },
+   {
+    "quote": "The study deals with the effects of algorithms’ predictive power on a digital business model’s revenue, depending on the underlying payment structure, such as subscription-based or usage-based. The resulting decision support system exemplifies the development of aligned value creation and value capture mechanisms.",
+    "url": "https://eref.uni-bayreuth.de/id/eprint/88648/",
+    "pass": 3
+   },
+   {
+    "quote": "Barrierefreiheitserklärung",
+    "url": "https://www.marketing.uni-bayreuth.de/de/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Bayreuth International School of African Studies (BIGSAS) (as part of the Cluster of Excellence \"Africa Multiple\" at the University of Bayreuth)",
+    "url": "https://en.wikipedia.org/wiki/University_of_Bayreuth",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Studieren in Australien, Kanada, Japan, Südkorea, den USA oder an einer unserer zahlreichen europäischen Partnerhochschulen? Jetzt bewerben!",
+    "url": "https://www.international-office.uni-bayreuth.de/de/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "RTG 2156: \"Deep Earth Volatile Cycles\" (with Tōhoku University, Japan)",
+    "url": "https://en.wikipedia.org/wiki/University_of_Bayreuth",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "International Office - Uni Bayreuth — Sie wollen ins Ausland gehen, kommen von dort oder interessieren sich für gelebte internationale Partnerschaften mit der Universität Bayreuth? Wenden Sie sich gerne an das International Office als Zentrum des internationalen Netzwerks der Universität Bayreuth. Dort erhalten Sie die notwendige aktive Betreuung und Unterstützung.",
+    "url": "https://www.international-office.uni-bayreuth.de/de/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Internationalisierungsstrategie der Universität Bayreuth — Weltoffener Campus, globale Netzwerke, gelebte Vielfalt – dafür steht die Universität Bayreuth. Mehr dazu in unserer Internationalisierungsstrategie.",
+    "url": "https://www.uni-bayreuth.de/internationalisierungsstrategie",
+    "pass": 3
+   },
+   {
+    "quote": "【総領事】バイロイト大学学長表敬 | 在ミュンヘン日本国総領事館 — 令和3年9月28日 (Universität Bayreuth) 9月16日、前川総領事は、 ライブレ ・バイロイト大学学長を表敬し、同大学が提携する10以上の日本の大学との交流や、水素、蓄電池、地質研究等の分野における日独学術交流につき意見交換を行いました。",
+    "url": "https://www.muenchen.de.emb-japan.go.jp/itpr_ja/uni_bayreuth.html",
+    "pass": 3
+   },
+   {
+    "quote": "[Generalkonsul] Höflichkeitsbesuch bei Herrn Prof. Dr. Leible ... — Oct 5, 2021 · Am 16. September stattete Herr Generalkonsul Maekawa dem Präsidenten der Universität Bayreuth, Herrn Prof. Dr. Stefan Leible, einen Höflichkeitsbesuch ab. Es fand ein Meinungsaustausch zu den Beziehungen der Universität Bayreuth zu den mehr als zehn japanischen Partnerhochschulen der Universität statt, aber auch der ",
+    "url": "https://www.muenchen.de.emb-japan.go.jp/itpr_de/uni_bayreuth.html",
+    "pass": 3
+   },
+   {
+    "quote": "TMU Winter Program on Japanese and Japan Studies in 2025 — Universität Bayreuth News Overview TMU Winter Program on Japanese and Japan Studies in 2025 21.10.2024 The Tokyo Metropolitan University invites students to their Winter Program on Japanese and Japanese Studies 2025. The 3-weeks course offers Japanese language classes for beginners or students with already basic Japanese language (A1-A2), ",
+    "url": "https://www.international-office.uni-bayreuth.de/en/news/2024/TMU-Winter-Program-on-Japanese-and-Japan-Studies-in-2025/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "TMU Winter Program on Japanese and Japan Studies in 2025 — Universität Bayreuth 21.10.2024 The Tokyo Metropolitan University invites students to their Winter Program on Japanese and Japanese Studies 2025. The 3-weeks course offers Japanese language classes for beginners or students with already basic Japanese language (A1-A2), cultural experiences and workshops as well as small field trips.",
+    "url": "https://www.international-office.uni-bayreuth.de/de/News-_-Events/2024/TMU-Winter-Program-on-Japanese-and-Japan-Studies-in-2025/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanisch - Uni Bayreuth — Universität Bayreuth Wir brauchen Ihr Einverständnis Um aktuelle Videos, Karten oder Fremdinhalte der UNI Bayreuth einbinden zu können, nutzen wir die Services von Drittanbietern. Diese sammeln unter Umständen Daten zu Ihren Aktivitäten. Unter dem Punkt \"Mehr Informationen\" finden Sie weitere Details.",
+    "url": "https://www.sz.uni-bayreuth.de/de/sprachen-und-kurse/kursangebot-_im-Semster_/Japanisch/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Chair Manufacturing and Remanufacturing Technology — Universität Bayreuth Home Welcome to the Chair Manufacturing and Remanufacturing Technology! The Chair Manufacturing and Remanufacturing Technology, which has been active since 2001, offers groundbreaking expertise in the field of future and sustainability technologies: Additive Manufacturing/3D Printing, Artificial Intelligence, Digitalization ",
+    "url": "https://www.lup.uni-bayreuth.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Remanufacturing - lup.uni-bayreuth.de — Universität Bayreuth Remanufacturing Remanufacturing plays a vital role in the circular economy by closing product loops while preserving or restoring the original design and functional properties of products—thus enabling their reuse. The process begins with the disassembly of used products (known as cores), followed by cleaning and sorting of individual co",
+    "url": "https://www.lup.uni-bayreuth.de/en/research/Remanufacturing/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "BWL III: Marketing & Konsumentenverhalten | Universität Bayreuth — Universität Bayreuth Servicelinks Profilfeld für Innovation und Verbraucherschutz Research Map MBA Sportmanagement Rechts- und Wirtschaftswissenschaftliche Fakultät Lehrstuhl für BWL III: Marketing & Konsumentenverhalten – Prof. Dr. Claas Christian Germelmann",
+    "url": "https://www.marketing.uni-bayreuth.de/de/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Uni Bayreuth modernisiert ihre 11 Material-Prüfmaschinen — Der Fachbereich Polymere Werkstoffe der Universität Bayreuth modernisierte seine mechanische Prüfung: Die gesamte Prüfinfrastruktur wurde auf den neuesten und einheitlichen Stand gebracht. Dies umfasst insgesamt fünf statische und sechs dynamische Prüfmaschinen. Zur Ergänzung des Prüfspektrums wurde zusätzlich eine Linear Torsion Maschine ",
+    "url": "https://www.zwickroell.com/de/news-events/case-studies/universitaet-bayreuth/",
+    "pass": 3
+   },
+   {
+    "quote": "University of Bayreuth - Wikipedia — The University of Bayreuth (German: Universität Bayreuth) is a public research university located in Bayreuth, Germany. It is one of the youngest German universities.",
+    "url": "https://en.wikipedia.org/wiki/University_of_Bayreuth",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Designing Digital Business Models for Manufacturing Companies - ERef Bayreuth",
+    "url": "https://eref.uni-bayreuth.de/id/eprint/88648/",
+    "pass": 3
+   },
+   {
+    "quote": "Designing Digital Business Models for Manufacturing Companies",
+    "url": "https://eref.uni-bayreuth.de/id/eprint/88648/",
+    "pass": 3
+   },
+   {
+    "quote": "Designing Digital Business Models for Manufacturing Companies.",
+    "url": "https://eref.uni-bayreuth.de/id/eprint/88648/",
+    "pass": 3
+   },
+   {
+    "quote": "Digital Business Models; Digital Transformation; Manufacturing; Digital Innovation",
+    "url": "https://eref.uni-bayreuth.de/id/eprint/88648/",
+    "pass": 3
+   },
+   {
+    "quote": "initially used by the university, but demolished after a fire in 1994.",
+    "url": "https://en.wikipedia.org/wiki/University_of_Bayreuth",
+    "pass": 3
+   },
+   {
+    "quote": "and in November 1990, the university's combined heat and power plant went into operation. The DM 2.3 million plant was designed and built by Energieversorgung Oberfranken.",
+    "url": "https://en.wikipedia.org/wiki/University_of_Bayreuth",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Universität Bayreuth (@unibt) / X These posts are protected Only approved followers can see @unibt’s posts.",
+    "url": "https://x.com/unibt",
+    "pass": 3
+   },
+   {
+    "quote": "Freilich Magazin on X: \"„Die Freiheit der Lehre ist kein ... Freilich Magazin on X: \"„Die Freiheit der Lehre ist kein Freibrief für Verfassungsfeindlichkeit“, sagte Wissenschaftsminister Markus Blume (CSU) laut dpa. Anlass sind Anfragen zu zwei Dozenten der Universität Bayreuth, darunter der AfD-Politiker Hans-Thomas Tillschneider, den der Verfassungsschutz in Sachsen-Anhalt als gesichert rechtsex",
+    "url": "https://x.com/freilichmagazin/status/2118615796612026785",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "University of Bayreuth Employees, Location, Alumni | LinkedIn University of Bayreuth | 58,572 followers on LinkedIn. Uni Bayreuth: Wo Wissenschaft auf Mut und Innovation trifft. #UBT #UniBayreuth #Universität #CampusUniversität | The University of Bayreuth ...",
+    "url": "https://www.linkedin.com/school/university-of-bayreuth/",
+    "pass": 3
+   },
+   {
+    "quote": "University of Bayreuth: Alumni and Graduates | LinkedIn Uni Bayreuth: Wo Wissenschaft auf Mut und Innovation trifft. #UBT #UniBayreuth #Universität #CampusUniversität | The University of Bayreuth is a place of international research promoting ...",
+    "url": "https://www.linkedin.com/school/university-of-bayreuth/people/",
+    "pass": 3
+   },
+   {
+    "quote": "Petra Beermann – Institut für Entrepreneurship und Innovation ...Anna Wild – Doktorand:in bei Universität Bayreuth | LinkedInStyop Avetisyan - Besucht Universität Bayreuth | LinkedInIrina Herrschner, PhD - Manager Gateway Office Melbourne ...Summer Feeling am Unistrand - LinkedIn Institut für Entrepreneurship und Innovation, Direktorin für Transfer und Innovation · Berufserfahrung: Universität Bay",
+    "url": "https://de.linkedin.com/in/petra-beermann-985524197",
+    "pass": 3
+   },
+   {
+    "quote": "Anna Wild – Doktorand:in bei Universität Bayreuth | LinkedIn Doktorand:in bei Universität Bayreuth · Masterstudentin der Medienkultur und Medienwirtschaft (Universität Bayreuth) mit Schwerpunkt internationales Hochschulmarketing, digitale Medien und Marketingforschung. Durch mein Studium, meine praktische Erfahrung und mein jahrelanges ehrenamtliches Engagement verbinde ich kommunikative, organisa",
+    "url": "https://de.linkedin.com/in/anna-wild-107434228",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Uni Bayreuth | Bayreuth - FacebookUniversity of Bayreuth - FacebookUniversität Bayreuth - FacebookCampus-Akademie für Weiterbildung der Universität BayreuthUni Bayreuth - Auf dem Campus der Universität Bayreuth ...Top-Campus-Universität Bayreuth! Über ... - FacebookAm 10.11.2026 ist es endlich so weit: Die Uni Bayreuth feiert ... 1 day ago · Uni Bayreuth, Bayreuth. 22,660 followers · 378 talking a",
+    "url": "https://www.facebook.com/UniBayreuth/",
+    "pass": 3
+   },
+   {
+    "quote": "University of Bayreuth - FacebookUniversität Bayreuth - FacebookCampus-Akademie für Weiterbildung der Universität BayreuthUni Bayreuth - Auf dem Campus der Universität Bayreuth ...Top-Campus-Universität Bayreuth! Über ... - FacebookAm 10.11.2026 ist es endlich so weit: Die Uni Bayreuth feiert ... Oct 5, 2022 · University of Bayreuth’s Service Centre for Refugees and Immigration will be offering ac",
+    "url": "https://www.facebook.com/Bayreuth.University/",
+    "pass": 3
+   },
+   {
+    "quote": "Universität Bayreuth - Facebook Oct 3, 2026 · Diese Gruppe ist für die Absolventen und Studierende der Bayreuther Universität gedacht. Bitte, bei Mitgliedschaftsanfragen angeben was sie studieren...",
+    "url": "https://www.facebook.com/groups/Uni.Bayreuth/",
+    "pass": 3
+   },
+   {
+    "quote": "Campus-Akademie für Weiterbildung der Universität BayreuthUni Bayreuth - Auf dem Campus der Universität Bayreuth ...Top-Campus-Universität Bayreuth! Über ... - FacebookAm 10.11.2026 ist es endlich so weit: Die Uni Bayreuth feiert ... Oct 12, 2026 · Campus-Akademie für Weiterbildung der Universität Bayreuth, Bayreuth. 501 followers · 1 talking about this · 268 were here. Als eigenständige Organisat",
+    "url": "https://www.facebook.com/campusakademieunibayreuth/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.uni-bayreuth.de/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn0.scrvt.com/a534b4b72e47031e7c1755abc55cf709/b45ac0469b19b3c9/67ad7b702475/v/13c4a73019c7/uni-bayreuth-pm-056-rondell-campus-the-logo.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%A4%E3%83%AD%E3%82%A4%E3%83%88%E5%A4%A7%E5%AD%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.international-office.uni-bayreuth.de/de/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.muenchen.de.emb-japan.go.jp/itpr_ja/uni_bayreuth.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yamamoto_ec/n/nd3b3890ee728",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.international-office.uni-bayreuth.de/en/news/2024/TMU-Winter-Program-on-Japanese-and-Japan-Studies-in-2025/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.international-office.uni-bayreuth.de/de/News-_-Events/2024/TMU-Winter-Program-on-Japanese-and-Japan-Studies-in-2025/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sz.uni-bayreuth.de/de/sprachen-und-kurse/kursangebot-_im-Semster_/Japanisch/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lup.uni-bayreuth.de/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eref.uni-bayreuth.de/id/eprint/88648/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lup.uni-bayreuth.de/en/research/Remanufacturing/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketing.uni-bayreuth.de/de/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://upcloud.com/global/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/University_of_Bayreuth",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/university-of-bayreuth/__j7qQUiIqUdFvwoAJsmhhW0GYgaH0RcUe7csY4_8Xaks",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.cbinsights.com/company/university-of-bayreuth",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/unibt",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/freilichmagazin/status/2118615796612026785",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/school/university-of-bayreuth/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/school/university-of-bayreuth/people/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/petra-beermann-985524197",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/anna-wild-107434228",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/UniBayreuth/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Bayreuth.University/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/Uni.Bayreuth/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/campusakademieunibayreuth/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Universität Bayreuth 日本 導入",
+   "results": [
+    "https://ja.wikipedia.org/wiki/バイロイト大学",
+    "https://www.international-office.uni-bayreuth.de/de/index.html",
+    "https://www.uni-bayreuth.de/internationalisierungsstrategie",
+    "https://www.muenchen.de.emb-japan.go.jp/itpr_ja/uni_bayreuth.html",
+    "https://www.muenchen.de.emb-japan.go.jp/itpr_de/uni_bayreuth.html",
+    "https://www.international-office.uni-bayreuth.de/en/news/2024/TMU-Winter-Program-on-Japanese-and-Japan-Studies-in-2025/index.html",
+    "https://ehef-japan.org/university-of-bayreuth/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Universität Bayreuth 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://www.uni-bayreuth.de/en",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://note.com/yamamoto_ec/n/nd3b3890ee728",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Universität Bayreuth Japan",
+   "results": [
+    "https://www.international-office.uni-bayreuth.de/en/news/2024/TMU-Winter-Program-on-Japanese-and-Japan-Studies-in-2025/index.html",
+    "https://www.international-office.uni-bayreuth.de/de/News-_-Events/2024/TMU-Winter-Program-on-Japanese-and-Japan-Studies-in-2025/index.html",
+    "https://www.sz.uni-bayreuth.de/de/sprachen-und-kurse/kursangebot-_im-Semster_/Japanisch/index.html",
+    "https://www.uni-bayreuth.de/en",
+    "https://www.uni-bayreuth.de/international",
+    "https://ehef-japan.org/en/university-of-bayreuth/university-of-bayreuth/",
+    "https://www.muenchen.de.emb-japan.go.jp/itpr_ja/uni_bayreuth.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Universität Bayreuth manufacturing customer case study",
+   "results": [
+    "https://www.lup.uni-bayreuth.de/en/",
+    "https://eref.uni-bayreuth.de/id/eprint/88648/",
+    "https://www.lup.uni-bayreuth.de/en/research/Remanufacturing/index.html",
+    "https://www.marketing.uni-bayreuth.de/de/index.html",
+    "https://www.zwickroell.com/de/news-events/case-studies/universitaet-bayreuth/",
+    "https://www.zwickroell.com/news-events/case-studies/university-of-bayreuth/",
+    "https://epub.uni-bayreuth.de/6909/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Universität Bayreuth white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://upcloud.com/partner-program/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://resellervendors.mysellauth.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Universität Bayreuth founded funding employees revenue",
+   "results": [
+    "https://en.wikipedia.org/wiki/University_of_Bayreuth",
+    "https://www.uni-bayreuth.de/en/uni-in-numbers",
+    "https://tracxn.com/d/companies/university-of-bayreuth/__j7qQUiIqUdFvwoAJsmhhW0GYgaH0RcUe7csY4_8Xaks",
+    "https://www.cbinsights.com/company/university-of-bayreuth",
+    "https://www.uni-bayreuth.de/en/50years/history",
+    "https://www.its.uni-bayreuth.de/en/annual-reports",
+    "https://www.its.uni-bayreuth.de/jahresberichte"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Universität Bayreuth",
+   "results": [
+    "https://note.com/hashtag/社内SE",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/isomitsuo/n/nd6f66ed87bfd",
+    "https://note.com/kansou_blog/n/nd1bb1e8a5aa1",
+    "https://note.com/mamopu/n/n2456b1d6942a",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/hecate_mk2/n/n76b0fb396098"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Universität Bayreuth",
+   "results": [
+    "https://x.com/unibt",
+    "https://x.com/Retschpekt",
+    "https://x.com/freilichmagazin/status/2118615796612026785",
+    "https://x.com/LauraMKoenig",
+    "https://x.com/drstellanyanzi",
+    "https://x.com/HelmPeter/status/2119399946143011126",
+    "https://x.com/itscelyunique/status/2117839228826521620"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Universität Bayreuth",
+   "results": [
+    "https://www.linkedin.com/school/university-of-bayreuth/",
+    "https://www.linkedin.com/school/university-of-bayreuth/people/",
+    "https://de.linkedin.com/in/petra-beermann-985524197",
+    "https://de.linkedin.com/in/anna-wild-107434228",
+    "https://am.linkedin.com/in/styop-avetisyan-2607b8448",
+    "https://ca.linkedin.com/company/summer-feeling-bayreuth",
+    "https://au.linkedin.com/in/irina-herrschner-phd-95b15a3a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Universität Bayreuth",
+   "results": [
+    "https://www.facebook.com/UniBayreuth/",
+    "https://www.facebook.com/Bayreuth.University/",
+    "https://www.facebook.com/groups/Uni.Bayreuth/",
+    "https://www.facebook.com/campusakademieunibayreuth/",
+    "https://www.facebook.com/UniBayreuth/posts/auf-dem-campus-der-universität-bayreuth-nimmt-unser-neues-institut-für-entrepren/1554480760041150/",
+    "https://www.facebook.com/UniBayreuth/videos/-top-campus-universität-bayreuth-über-100-spannende-studiengänge-persönliche-bet/1574447737483518/",
+    "https://www.facebook.com/UniBayreuth/videos/am-10112026-ist-es-endlich-so-weit-die-uni-bayreuth-feiert-geburtstag-und-das-mi/2349725859179027/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Universität Bayreuth note 社長",
+   "results": [
+    "https://www.uni-bayreuth.de/en/organization",
+    "http://uniorchester-bayreuth.de/",
+    "https://www.kurier.de/inhalt.universitaet-bayreuth-professor-stefan-leible-als-praesident-wiedergewaehlt.57776d5c-cc65-451b-a3bc-a808c90a9b43.html",
+    "https://www.wiesentbote.de/2025/02/06/prof-dr-stefan-leible-als-praesident-der-universitaet-bayreuth-wiedergewaehlt/",
+    "https://www.linkedin.com/posts/university-of-bayreuth_unibayreuth-diesacademicus-ubt-activity-7525458700480790528-tNHH",
+    "https://www.unibayern.de/aktuelles/prof-leible-als-praesident-der-universitaet-bayreuth-im-amt-bestaetigt/",
+    "https://www.uni-bayreuth.de/en/press-release/re-election-president"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Universität Bayreuth X 投稿",
+   "results": [
+    "https://www.bayreuther-tagblatt.de/nachrichten-meldungen-news/die-uni-bayreuth-kuendigt-ausstieg-von-plattform-x-an/",
+    "https://www.fraenkischertag.de/region/bayreuth/abschied-von-x-auch-uni-bayreuth-twittert-nicht-mehr-art-416709",
+    "https://www.nn.de/region/pegnitz/aktion-en-gegen-rechtsextremismus-so-positioniert-sich-bayreuth-in-sachen-afd-und-co-1.14543847",
+    "https://www.edx.org/learn/biomaterials/university-of-bayreuth-biomaterials-and-biofabrication-design-engineering-and-innovation",
+    "https://www.uni-bayreuth.de/en/press-releases/x-exit",
+    "https://www.uni-bayreuth.de/pressemitteilung/x-ausstieg",
+    "https://x.com/Uni2_Prin/status/2118971442360660397"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部30頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部30頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部30頁・検索12回）"
+ }
+}

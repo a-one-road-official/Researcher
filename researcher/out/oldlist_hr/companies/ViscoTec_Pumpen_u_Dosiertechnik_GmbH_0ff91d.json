@@ -1,0 +1,792 @@
+{
+ "name": "ViscoTec Pumpen- u. Dosiertechnik GmbH",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜未接触",
+ "researched_at": "2026-11-10T21:30:11.948804+00:00",
+ "official_url": "https://www.viscotec.de",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "preeflow® Microdispenser",
+    "url": "https://www.viscotec.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Cybersecurity & Produktsicherheit",
+    "url": "https://www.viscotec.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Unsere Produkte sind speziell an das Material angepasst, das Sie verarbeiten müssen, und in Ihren Produktionsprozess integriert. Dies erfordert eine maßgeschneiderte Beratung, um sicherzustellen, dass alle Parameter perfekt aufeinander abgestimmt sind.",
+    "url": "https://www.viscotec.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Wir bieten hochpräzise Dosierpumpen und -systeme für automatisierte Dosieranwendungen. Ob Klebstoffdosierung, Dosieranwendungen oder Verguss – unsere Produkte erfüllen die Anforderungen auch kompliziertester Anwendungen.",
+    "url": "https://www.viscotec.de/",
+    "pass": 1
+   },
+   {
+    "quote": "ViscoTec ist Hersteller von Dosier- & Abfüllanlagen und Dosierkomponenten für halbautomatische und vollautomatische Produktionsanlagen und Montageprozesse. Die präzise, zuverlässige, schnelle und durchdachte Technik überzeugt in den verschiedensten Anwendungen – und zwar weltweit.",
+    "url": "https://www.viscotec.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Hochpräzise Dosiertechnik für Fluide und Pasten",
+    "url": "https://www.viscotec.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Eingesetzt werden unsere hochwertigen Produkte in den unterschiedlichsten Industrien wie zum Beispiel E-Mobility, Luft- & Raumfahrt, Elektronik, im Lebensmittelbereich, in der Biochemie und Pharmazie, für Kosmetik oder in der Medizintechnik. Dabei haben Sie als Kunde von ViscoTec immer den Vorteil, eine",
+    "url": "https://www.viscotec.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Dosierung. Und somit steigern Sie die Qualität Ihrer Produkte.",
+    "url": "https://www.viscotec.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Um technisch immer auf dem aktuellsten Stand zu sein, verbessern wir kontinuierlich unsere Produkte. Daher bringen wir neue Ideen auf den Markt und legen höchsten Wert auf Qualität und Service.",
+    "url": "https://www.viscotec.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Präzise Mikrodosierung im µl-Bereich",
+    "url": "https://www.viscotec.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Geschwindigkeitsproportionale Raupendosierung",
+    "url": "https://www.viscotec.de/",
+    "pass": 1
+   },
+   {
+    "quote": "ViscoTec eröffnet Thailand Office und stärkt Präsenz in Südostasien",
+    "url": "https://www.viscotec.de/",
+    "pass": 1
+   },
+   {
+    "quote": "A-PRO-Dispensierzelle: Ab sofort bei Aumann verfügbar",
+    "url": "https://www.viscotec.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Endless Piston Principle",
+    "url": "https://www.viscotec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Print Heads",
+    "url": "https://www.viscotec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "preeflow® Microdispenser",
+    "url": "https://www.viscotec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing",
+    "url": "https://www.viscotec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Cybersecurity & Product Safety",
+    "url": "https://www.viscotec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Special adaptation to your medium to be processed",
+    "url": "https://www.viscotec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our products are specially adapted to the material you need to process and integrated into your production process. This calls for tailored advice in order to ensure that all parameters are perfectly coordinated. So every application requires individual attention.",
+    "url": "https://www.viscotec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "We offer high-precision metering pumps and systems for automated dispensing applications. Whether adhesive metering, dispensing applications or potting – our products meet the requirements of even the most complicated applications.",
+    "url": "https://www.viscotec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ViscoTec manufactures dosing & filling systems and dosing components for semi-automatic and fully-automatic production plants and assembly processes. The precise, reliable, fast and sophisticated technology convinces in the most diverse applications – and this worldwide.",
+    "url": "https://www.viscotec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "High-precision dosing technology",
+    "url": "https://www.viscotec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our high-quality products are used in a wide variety of industries such as e-mobility, aerospace, electronics, food, biochemistry, pharmaceuticals, cosmetics and medical technology. As a customer, you always have the advantage of using a technology that not only offers technical features but above all one thing:",
+    "url": "https://www.viscotec.com/",
+    "pass": 3
+   },
+   {
+    "quote": ", with which you increase the quality of your products.",
+    "url": "https://www.viscotec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "In order to always be technically up-to-date, we continuously improve our products. As a result we bring new ideas to the market and attach great importance to quality and service.",
+    "url": "https://www.viscotec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ViscoTec products cover a wide range of applications",
+    "url": "https://www.viscotec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Precise microdispensing in the µl range",
+    "url": "https://www.viscotec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Speed-proportional bead dosing",
+    "url": "https://www.viscotec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "High-precision filling under the highest hygienic requirements",
+    "url": "https://www.viscotec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "A-PRO dispensing cell: Now available from Aumann",
+    "url": "https://www.viscotec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Data Privacy Statement",
+    "url": "https://www.viscotec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Data sheet vipro-PUMP M - EN",
+    "url": "https://www.japanaerospace.jp/jp/exhibitor/283",
+    "pass": 3
+   },
+   {
+    "quote": "Data sheet vipro-DUOMIX - EN",
+    "url": "https://www.japanaerospace.jp/jp/exhibitor/283",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing and Processing machines (Aviation)",
+    "url": "https://www.japanaerospace.jp/en/exhibitor/283",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing and Processing machines (Space)",
+    "url": "https://www.japanaerospace.jp/en/exhibitor/283",
+    "pass": 3
+   },
+   {
+    "quote": "vipro-PUMP and manufacturing samples",
+    "url": "https://www.japanaerospace.jp/en/exhibitor/283",
+    "pass": 3
+   },
+   {
+    "quote": "▪ Programmable suck-back prevents dripping or stringing of product",
+    "url": "https://www.japanaerospace.jp/en/exhibitor/283",
+    "pass": 3
+   },
+   {
+    "quote": "Data sheet vipro-PUMP M - EN",
+    "url": "https://www.japanaerospace.jp/en/exhibitor/283",
+    "pass": 3
+   },
+   {
+    "quote": "extreme mixing ratios, high pressure sensitivity and compressibility.",
+    "url": "https://www.japanaerospace.jp/en/exhibitor/283",
+    "pass": 3
+   },
+   {
+    "quote": "Data sheet vipro-DUOMIX - EN",
+    "url": "https://www.japanaerospace.jp/en/exhibitor/283",
+    "pass": 3
+   },
+   {
+    "quote": "PRECISION DISPENSING IN THE AEROSPACE INDUSTRY",
+    "url": "https://pdf.directindustry.com/ja/pdf/viscotec-pumpen-u-dosiertechnik-gmbh-114222.html",
+    "pass": 3
+   },
+   {
+    "quote": "PRECISE DISPENSING THROUGH TECHNOLOGY AND PASSION",
+    "url": "https://pdf.directindustry.com/ja/pdf/viscotec-pumpen-u-dosiertechnik-gmbh-114222.html",
+    "pass": 3
+   },
+   {
+    "quote": "PRINT HEADS FOR VISCOUS FLUIDS & PASTES",
+    "url": "https://pdf.directindustry.com/ja/pdf/viscotec-pumpen-u-dosiertechnik-gmbh-114222.html",
+    "pass": 3
+   },
+   {
+    "quote": "preeflow microdispensing",
+    "url": "https://pdf.directindustry.com/ja/pdf/viscotec-pumpen-u-dosiertechnik-gmbh-114222.html",
+    "pass": 3
+   },
+   {
+    "quote": "High-precision dosing technology",
+    "url": "https://www.viscotec-shop.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our offer is exclusively for business customers. Prices are quoted excluding VAT and shipping costs.",
+    "url": "https://www.viscotec-shop.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Let’s talk about your project",
+    "url": "https://www.puredyne.com/en/contact/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "ViscoTec - Dosing technology for industrial applications",
+    "url": "https://www.viscotec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ViscoTec manufactures dosing & filling systems and dosing components for semi-automatic and fully-automatic production plants and assembly processes. The precise, reliable, fast and sophisticated technology convinces in the most diverse applications – and this worldwide.",
+    "url": "https://www.viscotec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our high-quality products are used in a wide variety of industries such as e-mobility, aerospace, electronics, food, biochemistry, pharmaceuticals, cosmetics and medical technology. As a customer, you always have the advantage of using a technology that not only offers technical features but above all one thing:",
+    "url": "https://www.viscotec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Post-Event Report: Additive Manufacturing Experience Day at ViscoTec",
+    "url": "https://www.viscotec.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ViscoTec Pumpen- u. Dosiertechnik GmbH｜オンラインカタログ｜JA2024 - 2024国際航空宇宙展 - JAPAN INTERNATIONAL AEROSPACE EXHIBITION 2024",
+    "url": "https://www.japanaerospace.jp/jp/exhibitor/283",
+    "pass": 3
+   },
+   {
+    "quote": "ViscoTec Pumpen- u. Dosiertechnik GmbH｜Exhibitor List｜JA2024 - JAPAN INTERNATIONAL AEROSPACE EXHIBITION 2024",
+    "url": "https://www.japanaerospace.jp/en/exhibitor/283",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing and Processing machines (Aviation)",
+    "url": "https://www.japanaerospace.jp/en/exhibitor/283",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing and Processing machines (Space)",
+    "url": "https://www.japanaerospace.jp/en/exhibitor/283",
+    "pass": 3
+   },
+   {
+    "quote": "Dosing applications in the aerospace industry are subject to the strictest secrecy. Therefore, it is not easy to show you concrete examples here. Possible dispensing applications are insert potting, application of 2-component silicones (incl. degassing) or application of 2-component thermal paste for connecting two components and for heat dissipation.",
+    "url": "https://www.japanaerospace.jp/en/exhibitor/283",
+    "pass": 3
+   },
+   {
+    "quote": "viscotec-broschuere-aerospace-en-web",
+    "url": "https://www.japanaerospace.jp/en/exhibitor/283",
+    "pass": 3
+   },
+   {
+    "quote": "vipro-PUMP and manufacturing samples",
+    "url": "https://www.japanaerospace.jp/en/exhibitor/283",
+    "pass": 3
+   },
+   {
+    "quote": "PRECISION DISPENSING IN THE AEROSPACE INDUSTRY",
+    "url": "https://pdf.directindustry.com/ja/pdf/viscotec-pumpen-u-dosiertechnik-gmbh-114222.html",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Barrel emptying of solid pastes",
+    "url": "https://www.viscotec.com/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "ViscoTec Pumpen- u. Dosiertechnik GmbH｜オンラインカタログ｜JA2024 - 2024国際航空宇宙展 - JAPAN INTERNATIONAL AEROSPACE EXHIBITION 2024",
+    "url": "https://www.japanaerospace.jp/jp/exhibitor/283",
+    "pass": 3
+   },
+   {
+    "quote": "ViscoTec Pumpen- u. Dosiertechnik GmbH｜Exhibitor List｜JA2024 - JAPAN INTERNATIONAL AEROSPACE EXHIBITION 2024",
+    "url": "https://www.japanaerospace.jp/en/exhibitor/283",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "sales@viscotec-hongkong.com",
+    "url": "https://www.japanaerospace.jp/jp/exhibitor/283",
+    "pass": 3
+   },
+   {
+    "quote": "sales@viscotec-hongkong.com",
+    "url": "https://www.japanaerospace.jp/en/exhibitor/283",
+    "pass": 3
+   },
+   {
+    "quote": "Username or email address",
+    "url": "https://www.viscotec-shop.com/",
+    "pass": 3
+   },
+   {
+    "quote": "A link to set a new password will be sent to your email address.",
+    "url": "https://www.viscotec-shop.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email.",
+    "url": "https://www.viscotec-shop.com/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ViscoTec Pumpen- u. Dosiertechnik GmbH｜オンラインカタログ｜JA202... — 主な出展物1 ディスペンシング・コーティング・スプレー・充填塗布用ディスペンサー及びポンプ ViscoTec は、低粘度から高粘度の流体、研磨性の流体、感圧性の流体、構造体の影響を受け易い流体、せん断の影響を受け易い流体、および固体含有の流体のプロセスセーフなハンドリングを ...",
+    "url": "https://www.japanaerospace.jp/jp/exhibitor/283",
+    "pass": 3
+   },
+   {
+    "quote": "ViscoTec Pumpen- u. Dosiertechnik GmbH｜Exhibitor List｜JA2024 ..... — Booth number：W2-092 Floor map ViscoTec Pumpen- u. Dosiertechnik GmbH Exhibition category main category 1 Aviation sub category 1 Manufacturing and Processing machines (Aviation)",
+    "url": "https://www.japanaerospace.jp/en/exhibitor/283",
+    "pass": 3
+   },
+   {
+    "quote": "ViscoTec Pumpen- u. Dosiertechnik GmbHのすべてのカタログと技術パ... — ViscoTec Pumpen- u. Dosiertechnik GmbHのカタログと技術パンフレット内を検索する",
+    "url": "https://pdf.directindustry.com/ja/pdf/viscotec-pumpen-u-dosiertechnik-gmbh-114222.html",
+    "pass": 3
+   },
+   {
+    "quote": "ViscoTec Pumpen- u. Dosiertechnik GmbH — We offer high-precision dispensing pumps and systems for automated dispensing applications. Whether if it comes to adhesive dispensing, dosing applications or potting – our products fulfill the requirements of even most complicate applications.",
+    "url": "https://www.viscotec.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "ViscoTec Pumpen- u. Dosiertechnik GmbH — ViscoTec is dosing technology in perfection. Gentle dosing and filling of high-viscosity and solids-loaden fluids.",
+    "url": "https://www.viscotec.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Home - ViscoTec Pumpen- u. Dosiertechnik GmbH — Explore high-precision dosing technology and products like dosing needles and mixers at ViscoTec Pumpen- u. Dosiertechnik GmbH.",
+    "url": "https://www.viscotec-shop.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ViscoTec Pumpen- u. Dosiertechnik GmbH | Mixing and Dosing ... — ViscoTec – Perfectly dosed! ViscoTec Pumpen- u. Dosiertechnik GmbH is a leading system manufacturer for fluid technology: from extraction and product preparation to the dosing of medium to high-viscosity media. The product portfolio covers dosing and filling applications in the automotive, e-mobility, electronics manufacturing, food ",
+    "url": "https://www.directindustry.com/soc/viscotec-pumpen-u-dosiertechnik-gmbh-114222.html",
+    "pass": 3
+   },
+   {
+    "quote": "ViscoTec Pumpen- u. Dosiertechnik GmbH — ViscoTec manufactures dosing & filling systems and dosing components for semi-automatic and fully-automatic production plants and assembly processes. The precise, reliable, fast and sophisticated technology convinces in the most diverse applications – and this worldwide.",
+    "url": "https://www.viscotec.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "ViscoTec Pumpen- u. Dosiertechnik GmbH — Abfüllen, Dosieren und Mikrodosieren von niedrig- bis hochviskosen Flüssigkeiten & Pasten. Dosiertechnik in Perfektion.",
+    "url": "https://www.viscotec.de/",
+    "pass": 3
+   },
+   {
+    "quote": "Annaliese Vojnich - Business Development & Technical Sales ...ViscoTec Pumpen- u. Dosiertechnik GmbHViscoTec Pumpen- u. Dosiertechnik GmbH timeline by IDTechExViscoTec - LinkedIn — Experience Business Development Manager & Technical Sales Engineer ViscoTec Pumpen- u. Dosiertechnik GmbH Sep 2022 - Present 4 years 2 months Kennesaw, Georgia, United States Abfüllen, Dosieren und Mikrodosieren von nie",
+    "url": "https://www.linkedin.com/in/annaliese-vojnich",
+    "pass": 3
+   },
+   {
+    "quote": "ViscoTec Pumpen- u. Dosiertechnik GmbH timeline by IDTechEx — ViscoTec Pumpen- u. Dosiertechnik GmbH manufactures systems required for conveying, dosing, applying, filling and emptying medium to high-viscosity fluids. The technological leader headquarter is in Toeging a. Inn (Germany). Furthermore, ViscoTec has subsidiaries in the USA, in China, Singapore and in India and employs about 200 people ",
+    "url": "https://www.idtechex.com/en/timeline/viscotec-pumpen-u-dosiertechnik-gmbh/c115777",
+    "pass": 3
+   },
+   {
+    "quote": "Contact - Puredyne® by ViscoTec — ViscoTec Pumpen- u. Dosiertechnik GmbH Amperstraße 13 84513 Töging a. Inn Germany T: +49 8631 9274-0 E: info@puredyne.com",
+    "url": "https://www.puredyne.com/en/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "Vorlage_Word - viscotec.de — ViscoTec Pumpen- u. Dosiertechnik GmbH offers, with its ViscoTreat range, the optimum solution for batch filling and for continuous material processing. These are installed as a prior operation for dosing applications of low to high viscosity adhesives, thermal and solder pastes.",
+    "url": "https://www.viscotec.de/media/Press-text-ViscoTreat_18052017_EN.docx",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "ViscoTec - LinkedIn ViscoTec Pumpen- u. Dosiertechnik GmbH is a leading system manufacturer for fluid technology: from extraction and product preparation to the dosing of medium to high-viscosity media.",
+    "url": "https://www.linkedin.com/company/viscotecdispensing/",
+    "pass": 3
+   },
+   {
+    "quote": "ViscoTec | LinkedIn ViscoTec – Perfectly dosed! ViscoTec Pumpen- u. Dosiertechnik GmbH is a leading system manufacturer for fluid technology: from extraction and product preparation to the dosing of medium to high-viscosity media. The product portfolio covers dosing and filling applications in the automotive, e-mobility, electronics manufacturing, food processing, aerospace, medical technology, ph",
+    "url": "https://in.linkedin.com/company/viscotecdispensing",
+    "pass": 3
+   },
+   {
+    "quote": "ViscoTec | LinkedIn ViscoTec – Perfekt dosiert! ViscoTec Pumpen- u. Dosiertechnik GmbH ist ein führender Systemhersteller für Fluidtechnik: Von der Entnahme über die Produktaufbereitung bis hin zur Dosierung von mittel- bis hochviskosen Medien. Das Produktportfolio deckt Dosier- und Abfüllanwendungen in den Bereichen Automotive, E-Mobility, Elektronikfertigung, Lebensmittelverarbeitung, Luft- und ",
+    "url": "https://de.linkedin.com/company/viscotecdispensing",
+    "pass": 3
+   },
+   {
+    "quote": "Annaliese Vojnich - Business Development & Technical Sales ...Franz Kamhuber – CEO bei ViscoTec Pumpen- u. Dosiertechnik ...ViscoTec - 领英ViscoTec: Jobs | LinkedIn Experience Business Development Manager & Technical Sales Engineer ViscoTec Pumpen- u. Dosiertechnik GmbH Sep 2022 - Present 4 years 2 months Kennesaw, Georgia, United States CEO bei ViscoTec Pumpen- u. Dosiertechnik GmbH · Berufserfahru",
+    "url": "https://www.linkedin.com/in/annaliese-vojnich",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ViscoTec Pumpen- u. Dosiertechnik GmbH | Töging am InnViscoTec Pumpen- u. Dosiertechnik GmbH - FacebookViscoTec Pumpen-... - ViscoTec Pumpen- u. Dosiertechnik GmbHViscoTec Pumpen-... - ViscoTec Pumpen- u. Dosiertechnik GmbHWas für ein... - ViscoTec Pumpen- u. Dosiertechnik GmbH ...Wie kommt die... - ViscoTec Pumpen- u. Dosiertechnik GmbH ...ViscoTec und... - ViscoTec Pumpen- u. Dosiertechnik GmbH ",
+    "url": "https://www.facebook.com/ViscoTec/",
+    "pass": 3
+   },
+   {
+    "quote": "ViscoTec Pumpen- u. Dosiertechnik GmbH - Facebook Nov 2, 2015 · ViscoTec Pumpen- u. Dosiertechnik GmbH verkauft 30.000ste Dosierpumpe ViscoTec Pumpen- u. Dosiertechnik GmbH beschäftigt sich vorwiegend mit Anlagen, die zur Förderung, Dosierung, Auftragung,...",
+    "url": "https://www.facebook.com/ViscoTec/posts/viscotec-pumpen-u-dosiertechnik-gmbh-verkauft-30000ste-dosierpumpeviscotec-pumpe/1187459601271463/",
+    "pass": 3
+   },
+   {
+    "quote": "ViscoTec Pumpen-... - ViscoTec Pumpen- u. Dosiertechnik GmbH Aug 13, 2025 · ViscoTec Pumpen- u. Dosiertechnik GmbH added a new photo. 👋 Unsere Entwicklung Steuerungstechnik sowie unser Systems & Engineering-Team wagten sich nochmal ins kühle Nass und haben beim Rafting in Lofer auf der Saalach fleißig gepaddelt, viel gelacht und die 🇩🇪-🇦🇹 Grenze überquert - ob freiwillig oder nicht, nass wurden am",
+    "url": "https://www.facebook.com/100057520176654/photos/1220193806574614/",
+    "pass": 3
+   },
+   {
+    "quote": "ViscoTec Pumpen-... - ViscoTec Pumpen- u. Dosiertechnik GmbH Mar 28, 2019 · ViscoTec Pumpen- u. Dosiertechnik GmbH Sep 11, 2025 · So war die erste Azubi-Woche für unsere neuen Auszubildenden! 🤗#ViscoTec#ViscoTeam#ausbildung#createyourdoseofsuccess Manu Hng and 4 others 5",
+    "url": "https://www.facebook.com/ViscoTec/photos/a.228933173790782/2626538370696905/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.viscotec.de/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.viscotec.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japanaerospace.jp/jp/exhibitor/283",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japanaerospace.jp/en/exhibitor/283",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pdf.directindustry.com/ja/pdf/viscotec-pumpen-u-dosiertechnik-gmbh-114222.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.viscotec-shop.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.viscotec.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.directindustry.com/soc/viscotec-pumpen-u-dosiertechnik-gmbh-114222.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.viscotec.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japanaerospace.jp/en/exhibitor/283",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.viscotec.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/in/annaliese-vojnich",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.puredyne.com/en/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://reseller.amazon.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://reseller.stzplayer.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/company/viscotecdispensing/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/viscotecdispensing",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/company/viscotecdispensing",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/annaliese-vojnich",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ViscoTec/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ViscoTec/posts/viscotec-pumpen-u-dosiertechnik-gmbh-verkauft-30000ste-dosierpumpeviscotec-pumpe/1187459601271463/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100057520176654/photos/1220193806574614/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ViscoTec/photos/a.228933173790782/2626538370696905/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ViscoTec Pumpen- u. Dosiertechnik GmbH 日本 導入",
+   "results": [
+    "https://www.viscotec.com/",
+    "https://www.japanaerospace.jp/jp/exhibitor/283",
+    "https://www.japanaerospace.jp/en/exhibitor/283",
+    "https://pdf.directindustry.com/ja/pdf/viscotec-pumpen-u-dosiertechnik-gmbh-114222.html",
+    "https://www.viscotec.de/en/",
+    "https://www.viscotec.com/about-us/locations/",
+    "https://www.viscotec.de/ueber-uns/niederlassungen/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ViscoTec Pumpen- u. Dosiertechnik GmbH 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.viscotec.de/en/",
+    "https://www.viscotec-shop.com/",
+    "https://www.viscotec.com/",
+    "https://www.directindustry.com/soc/viscotec-pumpen-u-dosiertechnik-gmbh-114222.html",
+    "https://www.viscotec.com/about-us/locations/",
+    "https://www.viscotec.de/en/products/dosing-systems/",
+    "https://www.viscotec-shop.com/contact/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ViscoTec Pumpen- u. Dosiertechnik GmbH Japan",
+   "results": [
+    "https://www.viscotec.de/en/",
+    "https://www.viscotec.com/",
+    "https://www.viscotec.de/",
+    "https://www.japanaerospace.jp/en/exhibitor/283",
+    "https://www.viscotec-shop.com/",
+    "https://www.japanaerospace.jp/jp/exhibitor/283",
+    "https://www.viscotec.com/about-us/locations/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ViscoTec Pumpen- u. Dosiertechnik GmbH manufacturing customer case study",
+   "results": [
+    "https://www.viscotec.de/en/",
+    "https://www.viscotec.com/",
+    "https://www.linkedin.com/in/annaliese-vojnich",
+    "https://www.viscotec.de/",
+    "https://www.idtechex.com/en/timeline/viscotec-pumpen-u-dosiertechnik-gmbh/c115777",
+    "https://www.linkedin.com/company/viscotecdispensing/",
+    "https://www.viscotec.com/about-us/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ViscoTec Pumpen- u. Dosiertechnik GmbH white label OR reseller OR partner program",
+   "results": [
+    "https://www.puredyne.com/en/contact/",
+    "https://partner.vw.com/",
+    "https://reseller.amazon.com/",
+    "https://reseller.stzplayer.com/",
+    "https://www.viscotec.de/media/Press-text-ViscoTreat_18052017_EN.docx",
+    "https://www.viscotec.de/en/about-us-2/references/",
+    "https://retailers.bossrevolution.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ViscoTec Pumpen- u. Dosiertechnik GmbH founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com ViscoTec Pumpen- u. Dosiertechnik GmbH",
+   "results": [
+    "https://note.com/kentabright",
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/seigo77",
+    "https://note.com/tag/イラン情勢",
+    "https://note.com/osirius3150/n/n164c9a6f7cf8",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/chikama_teppei/n/nd5b65fb5e514"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ViscoTec Pumpen- u. Dosiertechnik GmbH",
+   "results": [
+    "https://x.com/hashtag/Dosiertechnik",
+    "https://x.com/ldtdosingpumps",
+    "https://x.com/developmentscou/status/842339757724180481",
+    "https://x.com/avagmbh",
+    "https://x.com/lovecIubrry/status/2117772267228713081",
+    "https://x.com/3Dgrenzenlos/status/1181828529828356096",
+    "https://x.com/p0ptartkitty/status/2115927172414128364"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com ViscoTec Pumpen- u. Dosiertechnik GmbH",
+   "results": [
+    "https://www.linkedin.com/company/viscotecdispensing/",
+    "https://in.linkedin.com/company/viscotecdispensing",
+    "https://de.linkedin.com/company/viscotecdispensing",
+    "https://www.linkedin.com/in/annaliese-vojnich",
+    "https://de.linkedin.com/in/franz-kamhuber-83918017a",
+    "https://cn.linkedin.com/company/viscotecdispensing",
+    "https://in.linkedin.com/company/viscotecdispensing/jobs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com ViscoTec Pumpen- u. Dosiertechnik GmbH",
+   "results": [
+    "https://www.facebook.com/ViscoTec/",
+    "https://www.facebook.com/ViscoTec/posts/viscotec-pumpen-u-dosiertechnik-gmbh-verkauft-30000ste-dosierpumpeviscotec-pumpe/1187459601271463/",
+    "https://www.facebook.com/100057520176654/photos/1220193806574614/",
+    "https://www.facebook.com/ViscoTec/photos/a.228933173790782/2626538370696905/",
+    "https://www.facebook.com/ViscoTec/posts/-wie-kommt-die-marmelade-in-den-krapfen-httpswwwviscotecdewie-kommt-die-marmelad/2034956853188396/",
+    "https://www.facebook.com/ViscoTec/posts/viscotec-und-airborne-kooperieren-für-eine-automatisierte-lösung-zur-befüllung-v/2069882776362470/",
+    "https://www.facebook.com/ViscoTec/posts/was-für-ein-wochenende-️vergangenes-wochenende-hieß-es-für-unser-viscoteam-wiede/1480833223844003/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ViscoTec Pumpen- u. Dosiertechnik GmbH note 社長",
+   "results": [
+    "https://www.viscotec.de/en/",
+    "https://www.viscotec.com/",
+    "https://www.viscotec.de/",
+    "https://www.companyhouse.de/ViscoTec-Pumpen-u-Dosiertechnik-GmbH-Toeging-am-Inn",
+    "https://implisense.com/en/companies/viscotec-pumpen-u-dosiertechnik-gmbh-toeging-a-inn-DEMMSGH64V14",
+    "https://trends.directindustry.com/list/viscotec-pumpen-u-dosiertechnik-gmbh-114222.html",
+    "https://www.viscotec.com/about-us/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ViscoTec Pumpen- u. Dosiertechnik GmbH X 投稿",
+   "results": [
+    "https://www.viscotec.de/en/",
+    "https://www.viscotec.de/",
+    "https://www.viscotec.com/",
+    "https://www.directindustry.com/soc/viscotec-pumpen-u-dosiertechnik-gmbh-114222.html",
+    "https://www.companyhouse.de/ViscoTec-Pumpen-u-Dosiertechnik-GmbH-Toeging-am-Inn",
+    "https://www.pharmaindustrie-online.de/marktplatz/viscotec-pumpen-u-dosiertechnik-gmbh",
+    "https://www.azom.com/suppliers.aspx?SupplierID=13765"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索12回）"
+ }
+}

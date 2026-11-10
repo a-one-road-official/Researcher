@@ -1,0 +1,431 @@
+{
+ "name": "COSMYX SAS",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜AI送信済み",
+ "researched_at": "2026-11-10T21:05:48.775184+00:00",
+ "official_url": "https://www.cosmyx3d.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "COSMYX France | Impression 3D industrielle",
+    "url": "https://www.cosmyx3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Imprimante 3D",
+    "url": "https://www.cosmyx3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Notre savoir-faire concentré dans une nouvelle génération d’imprimantes 3D aux performances et capacités d’impression inégalées.",
+    "url": "https://www.cosmyx3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "d'imprimantes et de micro-usines 3D industrielles",
+    "url": "https://www.cosmyx3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Nos imprimantes 3D atteignent des vitesses jusqu’à 10 fois supérieures aux modèles existants, avec une capacité d’accélération allant jusqu’à 65 000 mm/s².",
+    "url": "https://www.cosmyx3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Nos imprimantes et micro-usines 3D assurent une fabrication continue, 24h/24 et 7j/7, grâce à notre système unique d’éjection automatique des pièces.",
+    "url": "https://www.cosmyx3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Nos imprimantes 3D garantissent une répétabilité de fabrication incomparable de 5 centièmes de millimètre d’une imprimante 3D à une autre.",
+    "url": "https://www.cosmyx3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pensée pour la production de petite et moyenne série.",
+    "url": "https://www.cosmyx3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Imprimantes 3D",
+    "url": "https://www.cosmyx3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "IMPRIMANTE 3D DOUBLE-TÊTE",
+    "url": "https://www.cosmyx3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Service impression 3D",
+    "url": "https://www.cosmyx3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fabrication à la demande de prototypes de précision et de séries de pièces.",
+    "url": "https://www.cosmyx3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "En choisissant Cosmyx pour vos impressions, vous accédez à notre savoir-faire et à notre capacité à produire des pièces avec une qualité exceptionnelle et une efficacité inégalée.",
+    "url": "https://www.cosmyx3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Le robot collaboratif Fanuc permet d’automatiser l'extraction des pièces 3D imprimées, supprimant les restrictions liées à la typologie des pièces.",
+    "url": "https://www.cosmyx3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Les solutions tactiques d’Utilis peuvent intégrer nos imprimantes 3D industrielles pour devenir de véritables usines mobiles de fabrication additive autonomes.",
+    "url": "https://www.cosmyx3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Nos solutions 3D sont compatibles avec les réseaux 5G Orange pour une connectivité sans fil rapide et fiable, facilitant une production décentralisée.",
+    "url": "https://www.cosmyx3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Nos imprimantes 3D produisent sans danger grâce au filtre HEPA+charbon actif d'Alveo 3D, offrant une protection efficace même contre les particules les plus fines.",
+    "url": "https://www.cosmyx3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Technologie d'impression 3D FFF",
+    "url": "https://www.cosmyx3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "La diversité des matériaux élargit les horizons d’application, combinant les propriétés des plastiques de qualité technique à celles des polymères hautes performances.",
+    "url": "https://www.cosmyx3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Grâce à un processus d’impression optimisé, cette technologie se distingue par sa rapidité, permettant de produire prototypes et pièces fonctionnelles en quelques heures seulement.",
+    "url": "https://www.cosmyx3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "La réduction des coûts de production tout en accélérant les délais de fabrication, permet un accès bien plus rapide au marché par rapport aux méthodes de fabrication traditionnelles.",
+    "url": "https://www.cosmyx3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "La personnalisation de masse, permettant d'ajuster individuellement chaque pièce sans perturber la production globale, offre une solution idéale pour répondre aux besoins spécifiques.",
+    "url": "https://www.cosmyx3d.com/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.cosmyx3d.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.sas.com/ja_jp/customers.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.chugin.co.jp/news/3219.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/558403-84",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/cosmyx3d/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.pappers.fr/entreprise/cosmyx-890819402",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabbaloo.com/news/cosmyxs-high-speed-automated-3d-print-farms-for-scalable-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alveo3d.com/en/cosmyx-equips-its-3d-printers-with-alveo3d-filters/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/558403-84",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.pappers.fr/entreprise/cosmyx-890819402",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.gritt.io/company/cosmyx3d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/cosmyx",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "COSMYX SAS 日本 導入",
+   "results": [
+    "https://www.cosmyx3d.com/?lang=en",
+    "https://www.sas.com/ja_jp/customers.html",
+    "https://www.cosmyx3d.com/a-propos?lang=en",
+    "https://www.chugin.co.jp/news/3219.html",
+    "https://www.fipo.or.jp/htc/1/40231",
+    "https://www.niandc.co.jp/examples_cat/sas/",
+    "https://bhn.jp/articles/187211"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "COSMYX SAS 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.cosmyx3d.com/?lang=en",
+    "https://pitchbook.com/profiles/company/558403-84",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.cosmax.com/en/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.mkikuchi-law.com/17785461217883",
+    "https://www.b-keiyaku.com/menu/shotorihiki/sodairiten.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "COSMYX SAS Japan",
+   "results": [
+    "https://www.cosmyx3d.com/?lang=en",
+    "https://www.cosmyx3d.com/a-propos?lang=en",
+    "https://www.linkedin.com/company/cosmyx3d/",
+    "https://www.pappers.fr/entreprise/cosmyx-890819402",
+    "https://pitchbook.com/profiles/company/558403-84",
+    "https://www.sas.com/ja_jp/home.html",
+    "https://www.dnb.com/business-directory/company-profiles.cosmyx.0df97f85dfa3f447fb165f8660487ad0.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "COSMYX SAS manufacturing customer case study",
+   "results": [
+    "https://www.cosmyx3d.com/?lang=en",
+    "https://www.cosmyx3d.com/",
+    "https://www.fabbaloo.com/news/cosmyxs-high-speed-automated-3d-print-farms-for-scalable-manufacturing",
+    "https://www.alveo3d.com/en/cosmyx-equips-its-3d-printers-with-alveo3d-filters/",
+    "https://www.eurosatory.com/en/innovations/nexus-3d-micro-factory-cosmyx/",
+    "https://www.youtube.com/watch?v=5fHSlCeJZJM",
+    "https://5glab.orange.com/en/realisations/3d-printing-and-5g-networks-the-perfect-combo-for-secure-manufacturing/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "COSMYX SAS white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.seoreseller.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "COSMYX SAS founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/558403-84",
+    "https://www.pappers.fr/entreprise/cosmyx-890819402",
+    "https://www.gritt.io/company/cosmyx3d/",
+    "https://www.crunchbase.com/organization/cosmyx",
+    "https://www.pappers.fr/entreprise/cosmyx-890819402/comptes/COSMYX+-+Comptes+sociaux+2024+03-07-2025.pdf",
+    "https://annuaire-entreprises.data.gouv.fr/entreprise/cosmyx-890819402",
+    "https://mesinfos.fr/91860-epinay-sous-senart/essonne-cosmyx-accelere-son-expansion-grace-a-une-levee-de-fonds-245228.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com COSMYX SAS",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/seigo77",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/mineo_1993/n/nb1119c9bd221",
+    "https://note.com/osirius3150/n/n164c9a6f7cf8",
+    "https://note.com/akih/n/n6cc428c21d80"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com COSMYX SAS",
+   "results": [
+    "https://x.com/TheatrumBelli/status/2044761741775581489",
+    "https://x.com/CosmicSans",
+    "https://x.com/CosmixNET",
+    "https://x.com/NyriaTamare/status/2119162296471859673",
+    "https://help.x.com/zh-tw/using-x",
+    "https://x.com/torikai34/status/2040732471462092910",
+    "https://x.com/Pinsky"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com COSMYX SAS",
+   "results": [
+    "https://www.linkedin.com/company/cosmyx3d/",
+    "https://fr.linkedin.com/in/anthony-seddiki-36bb7396",
+    "https://www.linkedin.com/posts/activity-7434551074700660737-9U2Q",
+    "https://fr.linkedin.com/in/e-pettirossi",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7451932444737445888/",
+    "https://in.linkedin.com/in/shaantnu-anand",
+    "https://be.linkedin.com/company/cosmixx"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com COSMYX SAS",
+   "results": [
+    "https://www.facebook.com/Cosmyx3D/",
+    "https://www.facebook.com/Cosmyx3D/posts/cosmyx-est-de-retour-sur-𝗚𝗹𝗼𝗯𝗮𝗹-𝗜𝗻𝗱𝘂𝘀𝘁𝗿𝗶𝗲-𝟮𝟬𝟮𝟲-et-comme-toujours-nous-vous-prépa/1492022282929044/",
+    "https://www.facebook.com/Cosmyx3D/posts/414666433823547/",
+    "https://www.facebook.com/Cosmyx3D/posts/-𝗖𝗼𝘀𝗺𝘆𝘅-𝗹𝗮𝘂𝗿𝗲́𝗮𝘁-𝗱𝘂-𝗰𝗼𝗻𝗰𝗼𝘂𝗿𝘀-𝗧𝗲𝗰𝗵𝗶𝗻𝗻𝗼𝘃-𝟮𝟬𝟮𝟲-cosmyx-est-de-retour-à-𝗧𝗲𝗰𝗵𝗶𝗻𝗻𝗼𝘃-lun/1498569425607663/",
+    "https://www.facebook.com/Cosmyx3D/posts/come-and-discover-exclusively-at-3d-print-congress-exhibition-our-new-technology/402454625044728/",
+    "https://www.facebook.com/Cosmyx3D/posts/️-𝗘𝗨𝗥𝗢𝗦𝗔𝗧𝗢𝗥𝗬-𝟮𝟬𝟮𝟲-️𝗖𝗼𝘀𝗺𝘆𝘅-sera-présent-à-eurosatory-2026-du-𝟭𝟱-𝗮𝘂-𝟭𝟵-𝗷𝘂𝗶𝗻-sur-le/1599425845522020/",
+    "https://www.facebook.com/Cosmyx3D/posts/-𝗝𝗼𝘂𝗿-𝟭-𝗮̀-𝗚𝗟𝗢𝗕𝗔𝗟-𝗜𝗡𝗗𝗨𝗦𝗧𝗥𝗜𝗘-𝟮𝟬𝟮𝟲tout-est-prêt-pour-vous-accueillir-venez-découvr/1539690728162199/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "COSMYX SAS note 社長",
+   "results": [
+    "https://www.cosmyx3d.com/mentions-legales?lang=en",
+    "https://www.pappers.fr/entreprise/cosmyx-890819402",
+    "https://www.cosmyx3d.com/mentions-legales",
+    "https://crwd-live.s3.amazonaws.com/media/project-documents/37fc6e837fc21f5167d406e96b5e7891.pdf",
+    "https://fr.linkedin.com/in/anthony-seddiki-36bb7396",
+    "https://pitchbook.com/profiles/company/558403-84",
+    "https://www.pappers.fr/dirigeant/anthony_seddiki_1985-03"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "COSMYX SAS X 投稿",
+   "results": [
+    "https://www.cosmyx3d.com/?lang=en",
+    "https://www.instagram.com/cosmyxlabs/",
+    "https://www.facebook.com/Cosmyx3D/",
+    "https://www.cosmyx3d.com/",
+    "https://www.threads.com/@cosmyxtimewitch",
+    "https://x.com/tsubame23333/status/2112170096965857377",
+    "https://cosmicx.net/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部17頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部17頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部17頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部17頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部17頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部17頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部17頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部17頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部17頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部17頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部17頁・検索12回）"
+ }
+}

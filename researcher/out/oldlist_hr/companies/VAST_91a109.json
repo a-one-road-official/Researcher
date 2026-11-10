@@ -1,0 +1,1408 @@
+{
+ "name": "VAST",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜FORMNEXT案件",
+ "researched_at": "2026-11-10T20:41:16.562403+00:00",
+ "official_url": "https://tripo3d.ai",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "規模・親会社": [
+   {
+    "quote": "Tripo AI 3Dモデルジェネレーター | テキスト＆画像から数秒で3Dに変換",
+    "url": "https://www.tripo3d.ai/ja",
+    "pass": 1
+   },
+   {
+    "quote": "瞬時に3Dモデルを生成する、無料のオンラインAI 3Dモデルジェネレーター「Tripo」を体験",
+    "url": "https://www.tripo3d.ai/ja",
+    "pass": 1
+   },
+   {
+    "quote": "Tripoとは何ですか？どのように機能しますか？",
+    "url": "https://www.tripo3d.ai/ja",
+    "pass": 1
+   },
+   {
+    "quote": "Tripoは、テキストの説明や画像から数秒で高品質な3Dモデルを作成する、AI搭載の3Dモデル生成ツールです",
+    "url": "https://www.tripo3d.ai/ja",
+    "pass": 1
+   },
+   {
+    "quote": "Tripoには無料プランがあり、料金をかけずに3Dモデルを生成できます",
+    "url": "https://www.tripo3d.ai/ja",
+    "pass": 1
+   },
+   {
+    "quote": "写真、スケッチ、コンセプトアートなど、画像をアップロードすると、TripoのAIが参照画像に合った3Dモデルを生成します",
+    "url": "https://www.tripo3d.ai/ja",
+    "pass": 1
+   },
+   {
+    "quote": "Tripoは、GLB / FBX / OBJ / USDをはじめとする主要な3D形式に対応しています",
+    "url": "https://www.tripo3d.ai/ja",
+    "pass": 1
+   },
+   {
+    "quote": "Tripoで生成したモデルを3Dプリントできますか？",
+    "url": "https://www.tripo3d.ai/ja",
+    "pass": 1
+   },
+   {
+    "quote": "Tripoは、Unity、Unreal Engineなどのゲームエンジンに直接読み込める、アーティスト品質のクアッドメッシュを生成します",
+    "url": "https://www.tripo3d.ai/ja",
+    "pass": 1
+   },
+   {
+    "quote": "Tripoで生成したモデルを商用プロジェクトで使用できますか？",
+    "url": "https://www.tripo3d.ai/ja",
+    "pass": 1
+   },
+   {
+    "quote": "Tripo AIを使用して生成されたモデルは、一般的に商用利用が可能です",
+    "url": "https://www.tripo3d.ai/ja",
+    "pass": 1
+   },
+   {
+    "quote": "料金 - Tripo AI | すべての3Dクリエイター向けプラン",
+    "url": "https://www.tripo3d.ai/ja/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Tripo AIのクレジットはどのように機能しますか？",
+    "url": "https://www.tripo3d.ai/ja/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Tripo AI は無料で利用できますか？",
+    "url": "https://www.tripo3d.ai/ja/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Tripo AI はどのような支払い方法に対応していますか？",
+    "url": "https://www.tripo3d.ai/ja/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Tripo AI は支払い情報をどのように保護していますか？",
+    "url": "https://www.tripo3d.ai/ja/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "自分に合う Tripo AI プランはどれですか？",
+    "url": "https://www.tripo3d.ai/ja/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "VAST Data Revenue 2024: $147M Est., $381M Raised",
+    "url": "https://getlatka.com/companies/vast-data",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, valuation & funding",
+    "url": "https://getlatka.com/companies/vast-data",
+    "pass": 3
+   },
+   {
+    "quote": "VAST Data has not published its revenue. GetLatka estimates it at about $147M a year (June 2024).",
+    "url": "https://getlatka.com/companies/vast-data",
+    "pass": 3
+   },
+   {
+    "quote": "VAST Data CEO, founders & employees",
+    "url": "https://getlatka.com/companies/vast-data",
+    "pass": 3
+   },
+   {
+    "quote": "Renen Hallak founded VAST Data in 2016 and runs it as CEO. VAST Data had 825 employees (September 2024, Forbes).",
+    "url": "https://getlatka.com/companies/vast-data",
+    "pass": 3
+   },
+   {
+    "quote": "What is VAST Data's revenue?",
+    "url": "https://getlatka.com/companies/vast-data",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates VAST Data's revenue at about",
+    "url": "https://getlatka.com/companies/vast-data",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does VAST Data have?",
+    "url": "https://getlatka.com/companies/vast-data",
+    "pass": 3
+   },
+   {
+    "quote": "employees in September 2024, according to Forbes.",
+    "url": "https://getlatka.com/companies/vast-data",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/vast-data",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/vast-data",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/vast-data",
+    "pass": 3
+   },
+   {
+    "quote": "The vast majority of employees agreed.",
+    "url": "https://note.com/kanimayo_note/n/nb71d3e0dbe21",
+    "pass": 3
+   },
+   {
+    "quote": "Vastは2023年12月の時点で、年間経常収益（ARR）は2億ドルを超えていたとされる",
+    "url": "https://note.com/startup_now0708/n/nbcb7201629e7",
+    "pass": 3
+   },
+   {
+    "quote": "5-1. IPOの可能性と市場の期待",
+    "url": "https://note.com/startup_now0708/n/nbcb7201629e7",
+    "pass": 3
+   },
+   {
+    "quote": "現時点でIPOの発表はされていないものの、成長性・収益性・ブランド力の三拍子が揃ったVastは上場候補筆頭と目されている",
+    "url": "https://note.com/startup_now0708/n/nbcb7201629e7",
+    "pass": 3
+   },
+   {
+    "quote": "IPO時には、ストレージ業界のPure StorageやSnowflakeに匹敵するインパクトを与える可能性がある",
+    "url": "https://note.com/startup_now0708/n/nbcb7201629e7",
+    "pass": 3
+   },
+   {
+    "quote": "もし同社が250億ドルの評価を実現し、さらにIPOでその価値を証明することになれば、AIインフラ界のSnowflakeとしての道を歩むことも夢ではないだろう",
+    "url": "https://note.com/startup_now0708/n/nbcb7201629e7",
+    "pass": 3
+   }
+  ],
+  "採用・広告の製品": [
+   {
+    "quote": "Vast today announced its official expansion into Japan with its Japanese subsidiary, Vast Japan GK, and its new office in Tokyo. This milestone marks a significant step in Vast’s mission to collaborate with allied nations on space leadership and reinforces its commitment to ensuring a continuous presence in low Earth orbit by America and its allies. Vast Japan GK will be led by",
+    "url": "https://www.vastspace.com/updates/vast-expands-to-japan-appointing-naoko-yamazaki-as-general-manager-of-vast-japan-gk",
+    "pass": 3
+   },
+   {
+    "quote": "In 2018, Yamazaki co-founded the Space Port Japan Association and has since served as its representative director, working to promote the space industry. Since 2021, she also serves as president of the Young Astronaut Club Japan to inspire future generations in addition to serving on the Council of The Earthshot Prize, launched in 2020 by the Prince of Wales and The Royal Foundation.",
+    "url": "https://www.vastspace.com/updates/vast-expands-to-japan-appointing-naoko-yamazaki-as-general-manager-of-vast-japan-gk",
+    "pass": 3
+   },
+   {
+    "quote": "Space Medicine at Vast: A Systems-Level Approach to Astronaut Health and Performance",
+    "url": "https://www.vastspace.com/updates/vast-expands-to-japan-appointing-naoko-yamazaki-as-general-manager-of-vast-japan-gk",
+    "pass": 3
+   },
+   {
+    "quote": "（写真左から）VAST Data Inc. Vice President of Channels Gregg Machon、",
+    "url": "https://www.macnica.co.jp/public-relations/news/2024/146047/",
+    "pass": 3
+   },
+   {
+    "quote": "VAST Data社 Worldwide Channels Vice PresidentのGregg Machon氏は次のように述べています",
+    "url": "https://www.macnica.co.jp/public-relations/news/2024/146047/",
+    "pass": 3
+   },
+   {
+    "quote": "マクニカは、「AI TRY NOW PROGRAM",
+    "url": "https://www.macnica.co.jp/public-relations/news/2024/146047/",
+    "pass": 3
+   },
+   {
+    "quote": "＊：「AI TRY NOW PROGRAM」について",
+    "url": "https://www.macnica.co.jp/public-relations/news/2024/146047/",
+    "pass": 3
+   },
+   {
+    "quote": "マクニカは、NVIDIAテクノロジーの正規代理店としてハードウェアの提供とサポートに加え、NVIDIA開発環境上で最新AIソリューションの導入検討時にご利用いただけるサポートプログラム「AI TRY NOW PROGRAM」を提供しています",
+    "url": "https://www.macnica.co.jp/public-relations/news/2024/146047/",
+    "pass": 3
+   },
+   {
+    "quote": "Join our mailing list to receive 10% and be the first to know about new product drops and special promotions.",
+    "url": "https://vastlife.com/pages/jp?srsltid=AYCX9vISZsMkKfNAfOBUeOBlHPjbF90phayGENg86VzBFfJEzGAhQSAS",
+    "pass": 3
+   },
+   {
+    "quote": "〇Spaceflight Now - Haven-1 Progress（2025年5月7日）",
+    "url": "https://note.com/space_business/n/ne22c83bef708",
+    "pass": 3
+   },
+   {
+    "quote": "https://spaceflightnow.com/2025/05/07/vast-to-complete-haven-1-primary-structure-in-july-2025-ahead-of-target-may-2026-launch-date/",
+    "url": "https://note.com/space_business/n/ne22c83bef708",
+    "pass": 3
+   },
+   {
+    "quote": "Vast Secures $500M in Funding to Accelerate Production of Haven Space Stations",
+    "url": "https://sorabatake.jp/45227/",
+    "pass": 3
+   },
+   {
+    "quote": "Watch full flythrough video",
+    "url": "https://www.vastspace.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "Vast headquarters comprises three buildings housing our teams focused on cutting-edge manufacturing, design, software, and QA testing, in addition to our astronaut training facilities and mission control center.",
+    "url": "https://www.vastspace.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "Vast Houston will support Vast headquarters on collaborating with NASA and other partners located in Houston, TX on human spaceflight missions and related program requirements.",
+    "url": "https://www.vastspace.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "Join our mailing list to receive 10% and be the first to know about new product drops and special promotions.",
+    "url": "https://vastlife.com/pages/jp?srsltid=AYCX9vKmFWNKcJxThLZL29MNXONL9M_oFl35PFaaZCr-6TaxBIwUANlC",
+    "pass": 3
+   },
+   {
+    "quote": "Accelerating and streamlining media production operations",
+    "url": "https://www.vastdata.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Powering the future of AI and the world’s most compute intensive workloads",
+    "url": "https://www.vastdata.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Revolutionizing data-intensive animated feature productions",
+    "url": "https://www.vastdata.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Producing the highest-fidelity animated films in the world requires up to six times more data",
+    "url": "https://www.vastdata.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud Service Providers",
+    "url": "https://www.vastdata.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Arkane Cloud selected the VAST AI Operating System to provide secure, sovereign AI infrastructure for French enterprises moving into production.",
+    "url": "https://www.vastdata.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Discover how Vultr leverages the VAST AI Operating System to deliver scalable, high-performance data infrastructure for enterprise agentic AI workloads.",
+    "url": "https://www.vastdata.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "SignalPro CEO Chen shares how VAST Data's platform powers secure, high-performance AI agents and scalable AI infrastructure in Taiwan.",
+    "url": "https://www.vastdata.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Meet The Man Betting His Fortune On a Private Space Station",
+    "url": "https://www.youtube.com/watch?v=u0sjx0hDATs",
+    "pass": 3
+   },
+   {
+    "quote": "A space station primary structure hasn’t been manufactured in the United States in decades.",
+    "url": "https://www.youtube.com/watch?v=u0sjx0hDATs",
+    "pass": 3
+   },
+   {
+    "quote": "Jua is a fast-growing AI startup based in Switzerland focused on transforming energy markets and weather forecasting through AI-driven weather models. Their cutting-edge models provide highly accurate weather predictions and enhanced risk management for energy traders.",
+    "url": "https://www.crusoe.ai/resources/blog/scaling-up-with-crusoe-cloud-and-vast-data",
+    "pass": 3
+   },
+   {
+    "quote": "Crusoe Cloud’s intuitive onboarding process and responsive support team made adoption of the platform seamless. Jua also leveraged Crusoe Cloud's comprehensive managed services, which allowed them to effortlessly spawn CPU machines for temporary MinIO clusters and utilize effective Terraform templates, further streamlining their workflows.",
+    "url": "https://www.crusoe.ai/resources/blog/scaling-up-with-crusoe-cloud-and-vast-data",
+    "pass": 3
+   },
+   {
+    "quote": "“We rely on Crusoe Cloud to train our models on massive amounts of data. Crusoe’s usability is a key differentiator,” said Gabler. “Their managed services free up precious resources to enable us to focus on our core expertise: building models.”",
+    "url": "https://www.crusoe.ai/resources/blog/scaling-up-with-crusoe-cloud-and-vast-data",
+    "pass": 3
+   },
+   {
+    "quote": "The company turned to VAST Data for its high-throughput AI storage solution, which proved transformative. VAST Data's ease of integration and high-speed data access eliminated the latency issues they faced with their previous setup, freeing up valuable engineering time.",
+    "url": "https://www.crusoe.ai/resources/blog/scaling-up-with-crusoe-cloud-and-vast-data",
+    "pass": 3
+   },
+   {
+    "quote": "Enhanced Performance: VAST Data provided the high-throughput AI storage necessary to optimize training speeds, enabling faster model iterations.",
+    "url": "https://www.crusoe.ai/resources/blog/scaling-up-with-crusoe-cloud-and-vast-data",
+    "pass": 3
+   },
+   {
+    "quote": "Scalability and Reliability: Crusoe Cloud's enterprise-grade infrastructure and responsive support ensured reliable and scalable operations.",
+    "url": "https://www.crusoe.ai/resources/blog/scaling-up-with-crusoe-cloud-and-vast-data",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/VAST_Data",
+    "pass": 3
+   },
+   {
+    "quote": "privately owned company",
+    "url": "https://en.wikipedia.org/wiki/VAST_Data",
+    "pass": 3
+   },
+   {
+    "quote": ". The company's products are used to support data-intensive workloads across across data centers and cloud environments.",
+    "url": "https://en.wikipedia.org/wiki/VAST_Data",
+    "pass": 3
+   },
+   {
+    "quote": "VAST supplies data management software to enterprises,",
+    "url": "https://en.wikipedia.org/wiki/VAST_Data",
+    "pass": 3
+   },
+   {
+    "quote": ", how projects to build AI datacenters are financed",
+    "url": "https://en.wikipedia.org/wiki/VAST_Data",
+    "pass": 3
+   },
+   {
+    "quote": ", period of rapid progress and investment in artificial intelligence",
+    "url": "https://en.wikipedia.org/wiki/VAST_Data",
+    "pass": 3
+   },
+   {
+    "quote": ", AI model that generates a response using probability and statistics",
+    "url": "https://en.wikipedia.org/wiki/VAST_Data",
+    "pass": 3
+   },
+   {
+    "quote": "Wilson, Alexandra (April 16, 2020).",
+    "url": "https://en.wikipedia.org/wiki/VAST_Data",
+    "pass": 3
+   },
+   {
+    "quote": "\"Mike Wing, Vast Data Inc: Profile and Biography\"",
+    "url": "https://en.wikipedia.org/wiki/VAST_Data",
+    "pass": 3
+   },
+   {
+    "quote": "Data Processing Iran Co.",
+    "url": "https://en.wikipedia.org/wiki/VAST_Data",
+    "pass": 3
+   },
+   {
+    "quote": "Hewlett Packard Enterprise",
+    "url": "https://en.wikipedia.org/wiki/VAST_Data",
+    "pass": 3
+   },
+   {
+    "quote": "Wikipedia semi-protected pages",
+    "url": "https://en.wikipedia.org/wiki/VAST_Data",
+    "pass": 3
+   },
+   {
+    "quote": ", a non-profit organization.",
+    "url": "https://en.wikipedia.org/wiki/VAST_Data",
+    "pass": 3
+   },
+   {
+    "quote": "VAST Data is privately held, so there is no VAST Data stock to buy. Investors valued it at $9.1B in its December 2023 funding round.",
+    "url": "https://getlatka.com/companies/vast-data",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 2020",
+    "url": "https://getlatka.com/companies/vast-data",
+    "pass": 3
+   },
+   {
+    "quote": "No. VAST Data is a private company, so its shares aren't traded on a stock exchange.",
+    "url": "https://getlatka.com/companies/vast-data",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/vast-data",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/vast-data",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Vast Expands to Japan, Appointing Naoko Yamazaki as General Manager of Vast Japan GK — an update by VAST",
+    "url": "https://www.vastspace.com/updates/vast-expands-to-japan-appointing-naoko-yamazaki-as-general-manager-of-vast-japan-gk",
+    "pass": 3
+   },
+   {
+    "quote": "Vast Expands to Japan, Appointing Naoko Yamazaki as General Manager of Vast Japan GK",
+    "url": "https://www.vastspace.com/updates/vast-expands-to-japan-appointing-naoko-yamazaki-as-general-manager-of-vast-japan-gk",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo, Japan",
+    "url": "https://www.vastspace.com/updates/vast-expands-to-japan-appointing-naoko-yamazaki-as-general-manager-of-vast-japan-gk",
+    "pass": 3
+   },
+   {
+    "quote": "Vast Japan GK General Manager Naoko Yamazaki",
+    "url": "https://www.vastspace.com/updates/vast-expands-to-japan-appointing-naoko-yamazaki-as-general-manager-of-vast-japan-gk",
+    "pass": 3
+   },
+   {
+    "quote": "Vast today announced its official expansion into Japan with its Japanese subsidiary, Vast Japan GK, and its new office in Tokyo. This milestone marks a significant step in Vast’s mission to collaborate with allied nations on space leadership and reinforces its commitment to ensuring a continuous presence in low Earth orbit by America and its allies. Vast Japan GK will be led by",
+    "url": "https://www.vastspace.com/updates/vast-expands-to-japan-appointing-naoko-yamazaki-as-general-manager-of-vast-japan-gk",
+    "pass": 3
+   },
+   {
+    "quote": "In 2018, Yamazaki co-founded the Space Port Japan Association and has since served as its representative director, working to promote the space industry. Since 2021, she also serves as president of the Young Astronaut Club Japan to inspire future generations in addition to serving on the Council of The Earthshot Prize, launched in 2020 by the Prince of Wales and The Royal Foundation.",
+    "url": "https://www.vastspace.com/updates/vast-expands-to-japan-appointing-naoko-yamazaki-as-general-manager-of-vast-japan-gk",
+    "pass": 3
+   },
+   {
+    "quote": "Chiyoda-ku, Tokyo 100-7014, Japan",
+    "url": "https://www.vastspace.com/updates/vast-expands-to-japan-appointing-naoko-yamazaki-as-general-manager-of-vast-japan-gk",
+    "pass": 3
+   },
+   {
+    "quote": "マクニカ、VAST Data社と協力し、先進的なAI データ プラットフォームを日本市場に提供開始 - AI事業 - マクニカ",
+    "url": "https://www.macnica.co.jp/public-relations/news/2024/146047/",
+    "pass": 3
+   },
+   {
+    "quote": "マクニカ、VAST Data社と協力し、先進的なAI データ プラットフォームを日本市場に提供開始",
+    "url": "https://www.macnica.co.jp/public-relations/news/2024/146047/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マクニカ（本社：神奈川県横浜市、代表取締役社長：原 一将、以下マクニカ）は、AIインフラストラクチャー向けに新たなデータプラットフォームを提供するVAST Data Inc.（本社：米国ニューヨーク州、CEO：Renen Hallak、以下VAST Data社）と販売パートナー契約を締結し、AIに最適化されたストレージソリューションを日本市場に提供することを本日発表いたします",
+    "url": "https://www.macnica.co.jp/public-relations/news/2024/146047/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マクニカ クラビス カンパニー プレジデント 伊藤 啓介",
+    "url": "https://www.macnica.co.jp/public-relations/news/2024/146047/",
+    "pass": 3
+   },
+   {
+    "quote": "マクニカは、NVIDIAテクノロジーの正規代理店としてハードウェアの提供とサポートに加え、NVIDIA開発環境上で最新AIソリューションの導入検討時にご利用いただけるサポートプログラム「AI TRY NOW PROGRAM」を提供しています",
+    "url": "https://www.macnica.co.jp/public-relations/news/2024/146047/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マクニカ クラビス カンパニー VAST Data製品担当",
+    "url": "https://www.macnica.co.jp/public-relations/news/2024/146047/",
+    "pass": 3
+   },
+   {
+    "quote": "※本文中に記載の社名及び製品名は、株式会社マクニカ及び各社の商標または登録商標です",
+    "url": "https://www.macnica.co.jp/public-relations/news/2024/146047/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のお客様へ — 日本向けのページをご用意しています",
+    "url": "https://vastlife.com/pages/jp?srsltid=AYCX9vISZsMkKfNAfOBUeOBlHPjbF90phayGENg86VzBFfJEzGAhQSAS",
+    "pass": 3
+   },
+   {
+    "quote": "/ Visiting from Japan? We have a page for you.",
+    "url": "https://vastlife.com/pages/jp?srsltid=AYCX9vISZsMkKfNAfOBUeOBlHPjbF90phayGENg86VzBFfJEzGAhQSAS",
+    "pass": 3
+   },
+   {
+    "quote": "日本向けページへ / Go to JP page",
+    "url": "https://vastlife.com/pages/jp?srsltid=AYCX9vISZsMkKfNAfOBUeOBlHPjbF90phayGENg86VzBFfJEzGAhQSAS",
+    "pass": 3
+   },
+   {
+    "quote": "山崎直子氏がVast Japan代表に就任",
+    "url": "https://note.com/space_business/n/ne22c83bef708",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月、Vastは東京に日本法人を設立",
+    "url": "https://note.com/space_business/n/ne22c83bef708",
+    "pass": 3
+   },
+   {
+    "quote": "2010年にスペースシャトルでISS組立ミッションに参加した経験を持つ、日本宇宙業界のキーパーソンです",
+    "url": "https://note.com/space_business/n/ne22c83bef708",
+    "pass": 3
+   },
+   {
+    "quote": "Haven-1の実験施設にはJAMSS（有人宇宙システム）も参画しており、日本の研究者・企業のアクセスが期待されます",
+    "url": "https://note.com/space_business/n/ne22c83bef708",
+    "pass": 3
+   },
+   {
+    "quote": "〇Vast Japan設立発表（2025年12月11日）",
+    "url": "https://note.com/space_business/n/ne22c83bef708",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.vastspace.com/updates/vast-expands-to-japan-appointing-naoko-yamazaki-as-general-manager-of-vast-japan-gk",
+    "url": "https://note.com/space_business/n/ne22c83bef708",
+    "pass": 3
+   },
+   {
+    "quote": "また、昨年の12月には東京に日本法人「Vast Japan」を設立し、元JAXA宇宙飛行士の山崎直子氏が代表に就任しました",
+    "url": "https://sorabatake.jp/45227/",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra Spaceに三菱UFJ銀行、兼松、東京海上日動が出資",
+    "url": "https://sorabatake.jp/45227/",
+    "pass": 3
+   },
+   {
+    "quote": "各プロジェクトには三井物産、三菱商事、三菱重工、兼松、MUFGなど多くの日本企業が出資や技術協力で参画しており、日本にとっても注目すべき動向です",
+    "url": "https://sorabatake.jp/45227/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業も多数参画する商業宇宙ステーション競争の激化と合わせて、宇宙空間を含めた安全保障の重要性も高まっています",
+    "url": "https://sorabatake.jp/45227/",
+    "pass": 3
+   },
+   {
+    "quote": "Located in Tokyo, Japan, Vast’s Japanese subsidiary will support strategic relationships with local partners and customers.",
+    "url": "https://www.vastspace.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "Chiyoda-ku, Tokyo 100-7014, Japan",
+    "url": "https://www.vastspace.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "日本のお客様へ — 日本向けのページをご用意しています",
+    "url": "https://vastlife.com/pages/jp?srsltid=AYCX9vKmFWNKcJxThLZL29MNXONL9M_oFl35PFaaZCr-6TaxBIwUANlC",
+    "pass": 3
+   },
+   {
+    "quote": "/ Visiting from Japan? We have a page for you.",
+    "url": "https://vastlife.com/pages/jp?srsltid=AYCX9vKmFWNKcJxThLZL29MNXONL9M_oFl35PFaaZCr-6TaxBIwUANlC",
+    "pass": 3
+   },
+   {
+    "quote": "日本向けページへ / Go to JP page",
+    "url": "https://vastlife.com/pages/jp?srsltid=AYCX9vKmFWNKcJxThLZL29MNXONL9M_oFl35PFaaZCr-6TaxBIwUANlC",
+    "pass": 3
+   },
+   {
+    "quote": "「フィジカルAI」開発の現場に潜入！世界が注目する日本発ユニコーン企業「Mujin」が物流センターの省人化に挑む！【ガイアの夜明け】",
+    "url": "https://www.youtube.com/watch?v=u0sjx0hDATs",
+    "pass": 3
+   },
+   {
+    "quote": "日本語では「大きい」で済ませるところを、",
+    "url": "https://note.com/kanimayo_note/n/nb71d3e0dbe21",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "https://www.macnica.co.jp/business/semiconductor/manufacturers/vast_data/",
+    "url": "https://www.macnica.co.jp/public-relations/news/2024/146047/",
+    "pass": 3
+   },
+   {
+    "quote": "Vast headquarters comprises three buildings housing our teams focused on cutting-edge manufacturing, design, software, and QA testing, in addition to our astronaut training facilities and mission control center.",
+    "url": "https://www.vastspace.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "Vast's additive manufacturing facility in Hawthorne, CA is a 25,000 square foot facility with state-of-the-art capabilities.",
+    "url": "https://www.vastspace.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "Germany’s HammerHAI AI factory combines HPE, NVIDIA, and VAST Data to power sovereign, high-performance AI supercomputing for European industry and research.",
+    "url": "https://www.vastdata.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Explore Vast's in-house space station manufacturing capability - YouTube",
+    "url": "https://www.youtube.com/watch?v=u0sjx0hDATs",
+    "pass": 3
+   },
+   {
+    "quote": "Explore Vast's in-house space station manufacturing capability",
+    "url": "https://www.youtube.com/watch?v=u0sjx0hDATs",
+    "pass": 3
+   },
+   {
+    "quote": "Vast Spotlight: Tube Manufacturing",
+    "url": "https://www.youtube.com/watch?v=u0sjx0hDATs",
+    "pass": 3
+   },
+   {
+    "quote": "\"VAST Data Powers Mistral Compute AI Factories on NVIDIA GB300 NVL72\"",
+    "url": "https://en.wikipedia.org/wiki/VAST_Data",
+    "pass": 3
+   },
+   {
+    "quote": "List of NAS manufacturers",
+    "url": "https://en.wikipedia.org/wiki/VAST_Data",
+    "pass": 3
+   },
+   {
+    "quote": "List of solid-state drive manufacturers",
+    "url": "https://en.wikipedia.org/wiki/VAST_Data",
+    "pass": 3
+   },
+   {
+    "quote": "List of DRAM manufacturers",
+    "url": "https://en.wikipedia.org/wiki/VAST_Data",
+    "pass": 3
+   },
+   {
+    "quote": "List of flash memory controller manufacturers",
+    "url": "https://en.wikipedia.org/wiki/VAST_Data",
+    "pass": 3
+   },
+   {
+    "quote": "Data Warehouse Solutions",
+    "url": "https://getlatka.com/companies/vast-data",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "clvinfo@macnica.co.jp",
+    "url": "https://www.macnica.co.jp/public-relations/news/2024/146047/",
+    "pass": 3
+   },
+   {
+    "quote": "hello@vastdata.com、24時間対応",
+    "url": "https://www.vastdata.com/ja",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Vast Expands to Japan, Appointing Naoko Yamazaki as ... — Vast Expands to Japan, Appointing Naoko Yamazaki as ... Vast Space https://www.vastspace.com > updates",
+    "url": "https://www.vastspace.com/updates/vast-expands-to-japan-appointing-naoko-yamazaki-as-general-manager-of-vast-japan-gk",
+    "pass": 3
+   },
+   {
+    "quote": "マクニカ、 VAST Data社と協力し、先進的なAI データ ... — マクニカ、 VAST Data社と協力し、先進的なAI データ ... 株式会社マクニカ https://www.macnica.co.jp > ... > AI事業 > 最新情報",
+    "url": "https://www.macnica.co.jp/public-relations/news/2024/146047/",
+    "pass": 3
+   },
+   {
+    "quote": "ディープラーニングとAIのために構築された ... - VAST Data — ディープラーニングとAIのために構築された ... - VAST Data VAST Data https://www.vastdata.com > ...",
+    "url": "https://www.vastdata.com/ja",
+    "pass": 3
+   },
+   {
+    "quote": "Vast . Japan - Vast LIFE — Vast . Japan - Vast LIFE vastlife.com https://vastlife.com > pages",
+    "url": "https://vastlife.com/pages/jp?srsltid=AYCX9vISZsMkKfNAfOBUeOBlHPjbF90phayGENg86VzBFfJEzGAhQSAS",
+    "pass": 3
+   },
+   {
+    "quote": "AIデータ・プラットフォーム企業 Vast Data、 日本 市場での ... — AIデータ・プラットフォーム企業 Vast Data、 日本 市場での ... PR TIMES https://prtimes.jp > 経営情報",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000134403.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界初の民間宇宙ステーション Vast が切り拓く宇宙新時代 — 世界初の民間宇宙ステーション Vast が切り拓く宇宙新時代 note https://note.com > 科学・テクノロジー > 宇宙科学",
+    "url": "https://note.com/space_business/n/ne22c83bef708",
+    "pass": 3
+   },
+   {
+    "quote": "Takae in Space         on X: \"日本に VAST の拠点( VAST Japan ... — Takae in Space         on X: \"日本に VAST の拠点( VAST Japan ... X https://x.com > @TS86142",
+    "url": "https://x.com/TS86142/status/1999313836512600221",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra Spaceと Vast Space、同日に両社ともに700億円超を ... — Sierra Spaceと Vast Space、同日に両社ともに700億円超を ... 宙畑 https://sorabatake.jp > ...",
+    "url": "https://sorabatake.jp/45227/",
+    "pass": 3
+   },
+   {
+    "quote": "VAST Data - 半導体事業 - マクニカ — VAST Data - 半導体事業 - マクニカ 株式会社マクニカ https://www.macnica.co.jp > ... > 取扱メーカー",
+    "url": "https://www.macnica.co.jp/business/semiconductor/manufacturers/vast_data/",
+    "pass": 3
+   },
+   {
+    "quote": "Vast Expands to Japan , Appointing Naoko Yamazaki as ... — Vast Expands to Japan , Appointing Naoko Yamazaki as ... Vast Space https://www.vastspace.com > updates",
+    "url": "https://www.vastspace.com/updates/vast-expands-to-japan-appointing-naoko-yamazaki-as-general-manager-of-vast-japan-gk",
+    "pass": 3
+   },
+   {
+    "quote": "Vast Japan GK: New Tokyo Subsidiary with JAXA Astronaut ... — Vast Japan GK: New Tokyo Subsidiary with JAXA Astronaut ... LinkedIn https://www.linkedin.com > posts > v...",
+    "url": "https://www.linkedin.com/posts/vastspace_today-we-announced-vast-japan-gk-our-new-activity-7404928568096522240-4oAl",
+    "pass": 3
+   },
+   {
+    "quote": "Contact - Vast Space — Contact - Vast Space Vast Space https://www.vastspace.com > contact",
+    "url": "https://www.vastspace.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "Vast . Japan - Vast LIFE — Vast . Japan - Vast LIFE vastlife.com https://vastlife.com > pages",
+    "url": "https://vastlife.com/pages/jp?srsltid=AYCX9vKmFWNKcJxThLZL29MNXONL9M_oFl35PFaaZCr-6TaxBIwUANlC",
+    "pass": 3
+   },
+   {
+    "quote": "Vast on X: \"Today we announced Vast Japan GK, our new ... — Vast on X: \"Today we announced Vast Japan GK, our new ... X https://x.com > @vast",
+    "url": "https://x.com/vast/status/1999164213839954026",
+    "pass": 3
+   },
+   {
+    "quote": "VAST Data Customer Success Stories | AI Operating System — VAST Data Customer Success Stories | AI Operating System VAST Data https://www.vastdata.com > customers",
+    "url": "https://www.vastdata.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Explore Vast's in-house space station manufacturing capability — Explore Vast's in-house space station manufacturing capability YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=u0sjx0hDATs",
+    "pass": 3
+   },
+   {
+    "quote": "Scaling up with Crusoe Cloud and VAST Data — Scaling up with Crusoe Cloud and VAST Data Crusoe https://www.crusoe.ai > blog > scaling...",
+    "url": "https://www.crusoe.ai/resources/blog/scaling-up-with-crusoe-cloud-and-vast-data",
+    "pass": 3
+   },
+   {
+    "quote": "VAST Data - LinkedIn — VAST Data - LinkedIn LinkedIn https://www.linkedin.com > vast-data",
+    "url": "https://www.linkedin.com/company/vast-data",
+    "pass": 3
+   },
+   {
+    "quote": "VAST Data Case Study | Branding - Ruckus Marketing — VAST Data Case Study | Branding - Ruckus Marketing Ruckus Marketing https://www.ruckusmarketing.com > ...",
+    "url": "https://www.ruckusmarketing.com/work/vast-data/",
+    "pass": 3
+   },
+   {
+    "quote": "VAST Data - Wikipedia — VAST Data is a privately owned company that develops software for artificial intelligence infrastructure and data management. The company's products are used to support data-intensive workloads across across data centers and cloud environments. [2][3][4] VAST Data was founded in January 2016. [5][6][7] launched its storage software in 2019. [8] .",
+    "url": "https://en.wikipedia.org/wiki/VAST_Data",
+    "pass": 3
+   },
+   {
+    "quote": "VAST Data Revenue 2024: $147M Est., $381M Raised — Oct 30, 2026 · VAST Data 2024 estimated revenue: $147M. Valuation (2023): $9.1B. Total funding: $381M across 6 rounds. 825 employees. Founded 2016. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/vast-data",
+    "pass": 3
+   },
+   {
+    "quote": "VAST - Overview, News & Similar companies | ZoomInfo.com — View VAST (www.vastdata.com) location in New York, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+    "url": "https://www.zoominfo.com/c/vast-data-inc/457791802",
+    "pass": 3
+   },
+   {
+    "quote": "VAST data – Market Position & Workforce Comparison – 2026 — Discover VAST data's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/vast-data",
+    "pass": 3
+   },
+   {
+    "quote": "VAST Data 2026 Company Profile: Valuation, Funding ...VAST Data – Founders, Business Model, Funding & CompetitorsVast Data reaches $2 billion in ARR as valuation hits $30 ... — Information on valuation, funding, cap tables, investors, and executives for VAST Data. Use the PitchBook Platform to explore the full profile. Jul 1, 2025 · VAST Data stands as one of the most remarkable success stories in",
+    "url": "https://pitchbook.com/profiles/company/182186-74",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "英語｜TOEICでもよく見る “vast” とは？「広大な」だけでは終わらない... May 31, 2026 · 英語学習をしていると、 “vast” という単語を見かけることがある。 意味を調べると「広大な」と出てくるが、実際にはそれだけではない。 この単語は、 「規模がとても大きい」 「量が膨大」 「範囲が広い」 というニュアンスを持つ、かなり便利な単語 ...",
+    "url": "https://note.com/kanimayo_note/n/nb71d3e0dbe21",
+    "pass": 3
+   },
+   {
+    "quote": "世界初の民間宇宙ステーション──Vastが切り拓く宇宙新時代｜宇宙ビジ... Dec 17, 2025 · 2030年にISSが退役します。 人類が宇宙に常駐できなくなるかもしれない──そんな懸念を払拭すべく急成長している企業が、カリフォルニア州ロングビーチの「Vast」です。",
+    "url": "https://note.com/space_business/n/ne22c83bef708",
+    "pass": 3
+   },
+   {
+    "quote": "AIに最適化されたストレージ基盤を提供するVast Dataは250億ドル企業... Jun 11, 2025 · 今後、競合との競り合いを制し、AIインフラの標準企業となるかどうかが最大の注目点だ。 Vast Dataは、単なるストレージベンダーではなく、「AI時代の情報基盤」としての変革を主導する存在となりつつある。",
+    "url": "https://note.com/startup_now0708/n/nbcb7201629e7",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "英語｜TOEICでもよく見る “vast” とは？「広大な」だけでは終わらない重要単語｜kanimayo",
+    "url": "https://note.com/kanimayo_note/n/nb71d3e0dbe21",
+    "pass": 3
+   },
+   {
+    "quote": "英語｜TOEICでもよく見る “vast” とは？「広大な」だけでは終わらない重要単語",
+    "url": "https://note.com/kanimayo_note/n/nb71d3e0dbe21",
+    "pass": 3
+   },
+   {
+    "quote": "“vast” という単語を見かけることがある。",
+    "url": "https://note.com/kanimayo_note/n/nb71d3e0dbe21",
+    "pass": 3
+   },
+   {
+    "quote": "意味を調べると「広大な」と出てくるが、実際にはそれだけではない。",
+    "url": "https://note.com/kanimayo_note/n/nb71d3e0dbe21",
+    "pass": 3
+   },
+   {
+    "quote": "というニュアンスを持つ、かなり便利な単語である。",
+    "url": "https://note.com/kanimayo_note/n/nb71d3e0dbe21",
+    "pass": 3
+   },
+   {
+    "quote": "TOEICやビジネス英語でも意外と登場頻度が高い。",
+    "url": "https://note.com/kanimayo_note/n/nb71d3e0dbe21",
+    "pass": 3
+   },
+   {
+    "quote": "He has a vast amount of knowledge.",
+    "url": "https://note.com/kanimayo_note/n/nb71d3e0dbe21",
+    "pass": 3
+   },
+   {
+    "quote": "The vast majority of employees agreed.",
+    "url": "https://note.com/kanimayo_note/n/nb71d3e0dbe21",
+    "pass": 3
+   },
+   {
+    "quote": "世界初の民間宇宙ステーション──Vastが切り拓く宇宙新時代｜宇宙ビジネスキュレーター",
+    "url": "https://note.com/space_business/n/ne22c83bef708",
+    "pass": 3
+   },
+   {
+    "quote": "世界初の民間宇宙ステーション──Vastが切り拓く宇宙新時代",
+    "url": "https://note.com/space_business/n/ne22c83bef708",
+    "pass": 3
+   },
+   {
+    "quote": "2030年にISSが退役します。人類が宇宙に常駐できなくなるかもしれない──そんな懸念を払拭すべく急成長している企業が、カリフォルニア州ロングビーチの「Vast」です。",
+    "url": "https://note.com/space_business/n/ne22c83bef708",
+    "pass": 3
+   },
+   {
+    "quote": "Vastが目指すのは、世界初の商業宇宙ステーション「Haven-1」の打ち上げ。2026年5月、SpaceXのFalcon 9で軌道投入予定です。",
+    "url": "https://note.com/space_business/n/ne22c83bef708",
+    "pass": 3
+   },
+   {
+    "quote": "乗員4名、滞在は最大2週間。居住空間は45立方メートルで、直径1.1mのドーム窓から地球を180度見渡せます。主構造体は米国製としては20年ぶり。設計から製造まで自社で行う「垂直統合」がスピードの秘訣です。",
+    "url": "https://note.com/space_business/n/ne22c83bef708",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月には試験機「Haven Demo」が軌道上で太陽電池パネル展開に成功し、着実に実績を積んでいます。",
+    "url": "https://note.com/space_business/n/ne22c83bef708",
+    "pass": 3
+   },
+   {
+    "quote": "山崎直子氏がVast Japan代表に就任",
+    "url": "https://note.com/space_business/n/ne22c83bef708",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月、Vastは東京に日本法人を設立。代表には元JAXA宇宙飛行士の山崎直子氏が就任しました。2010年にスペースシャトルでISS組立ミッションに参加した経験を持つ、日本宇宙業界のキーパーソンです。",
+    "url": "https://note.com/space_business/n/ne22c83bef708",
+    "pass": 3
+   },
+   {
+    "quote": "AIに最適化されたストレージ基盤を提供するVast Dataは250億ドル企業となるか｜SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/nbcb7201629e7",
+    "pass": 3
+   },
+   {
+    "quote": "AIに最適化されたストレージ基盤を提供するVast Dataは250億ドル企業となるか",
+    "url": "https://note.com/startup_now0708/n/nbcb7201629e7",
+    "pass": 3
+   },
+   {
+    "quote": "SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/nbcb7201629e7",
+    "pass": 3
+   },
+   {
+    "quote": "AI時代において、「データ」は新たな石油とも称されるほどの価値を持つ。その中でも、AIに最適化されたストレージ基盤を提供するVast Dataは、業界の注目を一身に集めている。2023年末にシリーズEで約90億ドルの評価を得た同社は、2025年に入って一気に250億ドルの企業価値を目指す資金調達に挑んでいるという。この記事では、Vast Dataのビジネスモデル、成長指標、競合状況、そして今後のポテンシャルを総合的に分析する。",
+    "url": "https://note.com/startup_now0708/n/nbcb7201629e7",
+    "pass": 3
+   },
+   {
+    "quote": "1-1. フラッシュベースの次世代AIストレージ企業",
+    "url": "https://note.com/startup_now0708/n/nbcb7201629e7",
+    "pass": 3
+   },
+   {
+    "quote": "Vast Dataは、2016年創業の非公開企業であり、AIや高性能コンピューティング（HPC）時代に対応するユニファイド・ストレージプラットフォームを開発・提供している。主力製品は、構造化・半構造化・非構造化データをすべて1つの空間で管理できる点が特徴であり、データの検索速度を高速化し、AIモデルのトレーニングや推論にかかるコストの削減を実現する。",
+    "url": "https://note.com/startup_now0708/n/nbcb7201629e7",
+    "pass": 3
+   },
+   {
+    "quote": "Vastは自社でハードウェアを製造せず、Supermicro、HPE、Ciscoなどのパートナー企業と提携し、CPU・GPU・データストレージを統合したハードウェアソリューションを構築している。これにより、スケーラブルかつ柔軟なシステム構成が可能となっている。",
+    "url": "https://note.com/startup_now0708/n/nbcb7201629e7",
+    "pass": 3
+   },
+   {
+    "quote": "Vastは2023年12月の時点で、年間経常収益（ARR）は2億ドルを超えていたとされる。CEOのRenen Hallak氏は2024年5月のポッドキャストで、「前年比2.5～3倍の成長率」を維持していると発言しており、ハイパーグロース企業としての姿勢を鮮明にしている。また、4年間連続でフリーキャッシュフロー（FCF）黒字である点も、資本効率の高さを物語っている。",
+    "url": "https://note.com/startup_now0708/n/nbcb7201629e7",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Vast (@vast) / X Vast and @esa are taking our cooperation to the next level. Ensuring a continued transatlantic partnership in the post-ISS commercial space station era is a top priority for Vast.",
+    "url": "https://x.com/vast",
+    "pass": 3
+   },
+   {
+    "quote": "vast.ai (@vast_ai) / X Vast ships as a plugin for Claude Code, Codex, and Cursor. Search, launch, monitor, and tear down GPU instances without leaving your editor — tell the agent what you want, or run a slash command directly.",
+    "url": "https://x.com/vast_ai",
+    "pass": 3
+   },
+   {
+    "quote": "Vast on X: \"Haven-1???s composite overwrapped pressure ... Haven-1???s composite overwrapped pressure vessels (COPVs) are being integrated onto the flight vehicle in our Long Beach headquarters clean room. They store our propellant (nitrous oxide, ethane) and life support (oxygen, nitrox) consumables.",
+    "url": "https://x.com/vast/status/2118379934221840458",
+    "pass": 3
+   },
+   {
+    "quote": "VΛST Data (@VAST_Data) / X Nov 11, 2016 · Introducing VAST DataEnclave. Built on NVIDIA Confidential Computing, this new runtime in the VAST AI Operating System enables leading models to securely run against sensitive enterprise data while protecting customer and model IP.",
+    "url": "https://x.com/vast_data",
+    "pass": 3
+   },
+   {
+    "quote": "Vast (@vast) / X In the latest episode of IQT Explains, CEO @maxhaot discusses the engineering of Haven-1, targeted to be the world’s first commercial space station, and how the station’s in-house technologies carry forward to Vast Satellite and Vast Lunar Systems.",
+    "url": "https://x.com/vast",
+    "pass": 3
+   },
+   {
+    "quote": "vast (@vast_emu4325) / X AIの競馬予想 ・発走の約10分前にAI予想を封印 ・レース後に中身を公開して照合 ・回収率と成績表をそのまま出す 儲かる話ではなく、数字で確かめる話です。",
+    "url": "https://x.com/vast_emu4325",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Vast - LinkedIn About us Vast is developing next-generation space stations and space infrastructure using an incremental, hardware-rich, and capital-efficient approach.",
+    "url": "https://www.linkedin.com/company/vastspace",
+    "pass": 3
+   },
+   {
+    "quote": "Vast.ai - LinkedIn Vast is the infrastructure layer where AI agents autonomously design, procure, and optimize their own compute. | In a world where compute becomes the new digital real estate, Vast.ai is the...",
+    "url": "https://www.linkedin.com/company/vast-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Vast: Jobs | LinkedIn Haven Demo’s 2025 success made Vast the only operational commercial space station company to design, build, and operate its own spacecraft in orbit.",
+    "url": "https://www.linkedin.com/company/vastspace/jobs/",
+    "pass": 3
+   },
+   {
+    "quote": "Vast has officially opened its new Long Beach ... - LinkedIn Long Beach Mayor Rex Richardson and Councilwoman Megan Kerr joined Vast Founder Jed McCaleb, CEO Max Haot, and Lead Astronaut Andrew J. Feustel to officially open the new Mission Control Center.",
+    "url": "https://www.linkedin.com/posts/vastspace_vast-has-officially-opened-its-new-long-beach-activity-7352136530712252416-bqdp",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tripo3d.ai/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tripo3d.ai/ja/pricing",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.tripo3d.ai/homepage-v2/hero/logos/Sony.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tripo3d.ai/homepage-v2/hero/logos/NetEasyGames.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tripo3d.ai/homepage-v2/hero/logos/ByteDance.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tripo3d.ai/homepage-v2/hero/logos/BambuLab.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.vastspace.com/updates/vast-expands-to-japan-appointing-naoko-yamazaki-as-general-manager-of-vast-japan-gk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macnica.co.jp/public-relations/news/2024/146047/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vastdata.com/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vastlife.com/pages/jp?srsltid=AYCX9vISZsMkKfNAfOBUeOBlHPjbF90phayGENg86VzBFfJEzGAhQSAS",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/space_business/n/ne22c83bef708",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/TS86142/status/1999313836512600221",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.vastdata.com/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sorabatake.jp/45227/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vastspace.com/updates/vast-expands-to-japan-appointing-naoko-yamazaki-as-general-manager-of-vast-japan-gk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/vastspace_today-we-announced-vast-japan-gk-our-new-activity-7404928568096522240-4oAl",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.vastspace.com/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vastlife.com/pages/jp?srsltid=AYCX9vKmFWNKcJxThLZL29MNXONL9M_oFl35PFaaZCr-6TaxBIwUANlC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vastdata.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=u0sjx0hDATs",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crusoe.ai/resources/blog/scaling-up-with-crusoe-cloud-and-vast-data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/vast-data",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/VAST_Data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/vast-data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/vast-data-inc/457791802",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/vast-data",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kanimayo_note/n/nb71d3e0dbe21",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/space_business/n/ne22c83bef708",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/startup_now0708/n/nbcb7201629e7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/vast",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/vast_ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/vast/status/2118379934221840458",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/vast_data",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/vastspace",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/vast-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/vastspace/jobs/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/vastspace_vast-has-officially-opened-its-new-long-beach-activity-7352136530712252416-bqdp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/vast",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/vast_emu4325",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "VAST 日本 導入",
+   "results": [
+    "https://www.vastspace.com/updates/vast-expands-to-japan-appointing-naoko-yamazaki-as-general-manager-of-vast-japan-gk",
+    "https://www.macnica.co.jp/public-relations/news/2024/146047/",
+    "https://www.vastdata.com/ja",
+    "https://vastlife.com/pages/jp?srsltid=AYCX9vISZsMkKfNAfOBUeOBlHPjbF90phayGENg86VzBFfJEzGAhQSAS",
+    "https://prtimes.jp/main/html/rd/p/000000001.000134403.html",
+    "https://www.instagram.com/p/DdK_BGHpzXD/",
+    "https://www.jamss.co.jp/news/detail.php?id=7z22izjlk7",
+    "https://www.vastspace.com/",
+    "https://solution.uniadex.co.jp/service/product/vast.html",
+    "https://spacemedia.jp/news/17499"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "VAST 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://note.com/space_business/n/ne22c83bef708",
+    "https://x.com/TS86142/status/1999313836512600221",
+    "https://www.vastdata.com/ja",
+    "https://sorabatake.jp/45227/",
+    "https://www.macnica.co.jp/business/semiconductor/manufacturers/vast_data/",
+    "https://spacemedia.jp/news/17499",
+    "https://vastlife.com/pages/jp?srsltid=AYCX9vLWqF7uiusOFXWp_GCd8VOEUmYQphWk_0bDDa_s23ZBxdMVo70N",
+    "https://solution.uniadex.co.jp/service/product/vast.html",
+    "https://www.nikkei.com/article/DGXZQOSG182TN0Y6A210C2000000/",
+    "https://dairitenboshu.com/column/detail/soudairiten"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "VAST Japan",
+   "results": [
+    "https://www.vastspace.com/updates/vast-expands-to-japan-appointing-naoko-yamazaki-as-general-manager-of-vast-japan-gk",
+    "https://www.linkedin.com/posts/vastspace_today-we-announced-vast-japan-gk-our-new-activity-7404928568096522240-4oAl",
+    "https://www.vastspace.com/contact",
+    "https://vastlife.com/pages/jp?srsltid=AYCX9vKmFWNKcJxThLZL29MNXONL9M_oFl35PFaaZCr-6TaxBIwUANlC",
+    "https://x.com/vast/status/1999164213839954026",
+    "https://note.com/space_business/n/ne22c83bef708",
+    "https://www.jamss.co.jp/en/news/detail.php?id=s6r4f6i3od4",
+    "https://www.vastspace.com/team",
+    "https://www.instagram.com/p/DdK_BGHpzXD/",
+    "https://ja.wikipedia.org/wiki/Visit_Japan_Web"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "VAST manufacturing customer case study",
+   "results": [
+    "https://www.vastdata.com/customers",
+    "https://www.youtube.com/watch?v=u0sjx0hDATs",
+    "https://www.crusoe.ai/resources/blog/scaling-up-with-crusoe-cloud-and-vast-data",
+    "https://www.linkedin.com/company/vast-data",
+    "https://www.ruckusmarketing.com/work/vast-data/",
+    "https://www.voxelmatters.com/vast-shows-3d-printed-cold-plates-for-haven-1-space-station/",
+    "https://www.avnet.com/wcm/connect/c55ee917-457c-437a-8f13-6f177c882bf1/Vast-Data-Case-Study.pdf?MOD=AJPERES&ContentCache=NONE&CACHE=NONE&CVID=p44OIpF&attachment=false&id=1675448878486",
+    "https://www.vastspace.com/",
+    "https://wize.design/work/vast-media-marketing",
+    "https://ascensionadvisory.com/ascension-advisory-blog/case-study-sale-leaseback-transaction-for-vast-industrial-corp"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "VAST white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "VAST founded funding employees revenue",
+   "results": [
+    "https://en.wikipedia.org/wiki/VAST_Data",
+    "https://getlatka.com/companies/vast-data",
+    "https://www.zoominfo.com/c/vast-data-inc/457791802",
+    "https://compworth.com/company/vast-data",
+    "https://pitchbook.com/profiles/company/182186-74",
+    "https://thebrandhopper.com/featured-startups/vast-data-founders-business-model-funding-competitors/",
+    "https://www.calcalistech.com/ctechnews/article/gk3vz6kqe"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com VAST",
+   "results": [
+    "https://note.com/kanimayo_note/n/nb71d3e0dbe21",
+    "https://note.com/space_business/n/ne22c83bef708",
+    "https://note.com/startup_now0708/n/nbcb7201629e7",
+    "https://tales.note.com/vast_lion662/wljr2mt6tcfo8",
+    "https://tales.note.com/vast_lion662/w40pmxcla7jop/episodes/ea5x2som09m3w",
+    "https://note.com/vast_emu4325/n/n69d4d9abb345?hl=en",
+    "https://note.com/vast_swan549/n/na88bbe0881da"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com VAST",
+   "results": [
+    "https://x.com/vast",
+    "https://x.com/vast_ai",
+    "https://x.com/vast/status/2118379934221840458",
+    "https://x.com/vast_data",
+    "https://x.com/vast/status/2043880042225443210",
+    "https://x.com/vast/status/1845594931349409824",
+    "https://x.com/vast/status/2108319389472928023"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com VAST",
+   "results": [
+    "https://www.linkedin.com/company/vastspace",
+    "https://www.linkedin.com/company/vast-ai",
+    "https://www.linkedin.com/company/vastspace/jobs/",
+    "https://www.linkedin.com/posts/vastspace_vast-has-officially-opened-its-new-long-beach-activity-7352136530712252416-bqdp",
+    "https://www.linkedin.com/in/maxhaot",
+    "https://www.linkedin.com/in/karinkuo",
+    "https://www.linkedin.com/company/vast-com"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com VAST",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "VAST note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.nttpc.co.jp/innovationlab/partners/vastdata_member01.html",
+    "https://www.itmedia.co.jp/enterprise/articles/1805/21/news024.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "VAST X 投稿",
+   "results": [
+    "https://x.com/vast",
+    "https://vast.ai/article/vast-fall-2026-showcase",
+    "https://www.vast.app/",
+    "https://x.com/vast_emu4325",
+    "https://www.xvideos.com/?k=日本人+無修正+巨尻",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://www.xvideos.com/?k=素人投稿"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部33頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部33頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部33頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部33頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部33頁・検索12回）"
+ }
+}

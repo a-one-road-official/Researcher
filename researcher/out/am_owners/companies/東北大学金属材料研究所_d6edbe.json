@@ -1,0 +1,1048 @@
+{
+ "name": "東北大学金属材料研究所",
+ "aliases": [],
+ "context": "PBF=unknown 装置= 出典=https://www.jeol.co.jp/products/technology_cases/interviews/10.html",
+ "researched_at": "2026-11-10T20:47:59.390209+00:00",
+ "official_url": "https://www.imr.tohoku.ac.jp/",
+ "identified_by": "search:yahoo_jp:東北大学金属材料研究所",
+ "profile": {},
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "東北大学金属材料研究所および保有する資料群が日本物理遺産に認定",
+    "url": "https://www.imr.tohoku.ac.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "・電子ビームを用いた “金属版3Dプリンター”の研究開発",
+    "url": "https://www.imr.tohoku.ac.jp/ja/public/publications/imr-news/",
+    "pass": 1
+   },
+   {
+    "quote": "EBM造形技術 －夢の成形加工技術の開発に挑戦－",
+    "url": "https://www.imr.tohoku.ac.jp/ja/public/publications/imr-news/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンター",
+    "url": "https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターは、金属を積層して造形を行う装置です",
+    "url": "https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html",
+    "pass": 3
+   },
+   {
+    "quote": "近年、金属3Dプリンターによる組織制御",
+    "url": "https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学金属材料研究所の山中謙太准教授と同大学未来科学技術共同研究センターの千葉晶彦特任教授の研究グループは、金属を対象とした代表的な3Dプリンティング技術の一つであるレーザー粉末床溶融結合法",
+    "url": "https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html",
+    "pass": 3
+   },
+   {
+    "quote": "図1. L-PBF法により作製した炭素鋼/Al合金界面付近の組織観察結果",
+    "url": "https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html",
+    "pass": 3
+   },
+   {
+    "quote": "注1. 金属3Dプリンター",
+    "url": "https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html",
+    "pass": 3
+   },
+   {
+    "quote": "材料を積層して3次元構造体を作製する点は一般的な樹脂を対象とした3Dプリンターと同様ですが、金属3Dプリンターでは金属の粉末やワイヤーを溶かしたり、高温に保持して焼結することで造形を行います",
+    "url": "https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html",
+    "pass": 3
+   },
+   {
+    "quote": "注6. レーザー粉末床溶融結合法",
+    "url": "https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末に高エネルギーのレーザーを照射することで溶融・凝固し、それを繰り返すことで3次元構造体を造形する手法であり、最も一般的な金属3Dプリンターの一つです",
+    "url": "https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html",
+    "pass": 3
+   },
+   {
+    "quote": "鋳造や溶接と比べてL-PBF法では極めて大きな冷却速度の下で高速凝固が起こるため、非平衡組織を形成することが可能です",
+    "url": "https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼とアルミをつなぐ！東北大学金属材料研究所が金属3Dプリンターで自動車軽量化を実現 | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター（104）",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼とアルミをつなぐ！東北大学金属材料研究所が金属3Dプリンターで自動車軽量化を実現",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学金属材料研究所が金属3Dプリンターを用いた新たなマルチマテリアル技術が開発された",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "今回の研究では、レーザー粉末床溶融結合法（L-PBF）を活用し、鉄鋼とアルミ合金を組み合わせたマルチマテリアル構造を開発",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "L-PBF法により作製した炭素鋼/Al合金界面付近の組織観察結果（出典：",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター導入における作業者健康対策ガイド",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター導入企業必見！IPA洗浄と有機則の関係を徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "【2023年版】大型3Dプリンターの比較・選び方〜造形方式ごとの特徴や、導入時に気をつけたいこと",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "【3D プリンター導入③】発注から設置までの流れを知る",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "【3Dプリンター導入①】機種の検討・選定時のポイント",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "【3Dプリンター導入②】導入依頼時の注意点",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "【3Dプリンター導入④】有効活用するための運用方法",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターの造形方式を解説！FDM？MEX？PBF？DEDってなに？",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末床溶融結合法 / PBF（Powder Bed Fusion）を解説！SLS方式、SLM方式と何が違う？",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター | 材料から選ぶ3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "長年の間、金属積層造形の研究に携わってきました",
+    "url": "https://chibalab.niche.tohoku.ac.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "３Dプリンター技術を金属積層造形に活用することで、効率的な開発、実証実験、2023年度からは所属を東北大学未来科学技術共同研究センター（NICHe）に移し、新たなプロジェクトがスタート",
+    "url": "https://chibalab.niche.tohoku.ac.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "「新規金属積層造形技術開発とそれを核とした新材料・材料加工プロセスの創生プロジェクト」では金属３Dプリンターにさらなる革命を起こします",
+    "url": "https://chibalab.niche.tohoku.ac.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "電子ビーム積層造形、組織形成シミュレーション・塑性変形解析",
+    "url": "https://chibalab.niche.tohoku.ac.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学金属材料研究所および保有する資料群が日本物... | ニュース | 東北大学 -TOHOKU UNIVERSITY-",
+    "url": "https://www.tohoku.ac.jp/japanese/2026/09/news20260916-imr.html",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学金属材料研究所および保有する資料群が日本物理遺産に認定",
+    "url": "https://www.tohoku.ac.jp/japanese/2026/09/news20260916-imr.html",
+    "pass": 3
+   },
+   {
+    "quote": "この度、東北大学金属材料研究所および同所の保有する資料群が、日本物理学会から第1回第1期の日本物理遺産に認定されました",
+    "url": "https://www.tohoku.ac.jp/japanese/2026/09/news20260916-imr.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回、初めての認定となる第1回第1期では、5件が認定対象として決定し、金属材料研究所および保有する資料群がその1つに認定されました",
+    "url": "https://www.tohoku.ac.jp/japanese/2026/09/news20260916-imr.html",
+    "pass": 3
+   },
+   {
+    "quote": "認定理由：金属料研究所は、冶金学に物理学的視点を導入した本多光太郎によって創設され、精密な実験測定を通じて、固体物理学・磁性物理学における多くの業績を生み出した",
+    "url": "https://www.tohoku.ac.jp/japanese/2026/09/news20260916-imr.html",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "独自の合金設計でアルミニウム箔負極の 性能トレードオフを打破 ―「箔一枚」のシンプルなリチウム二次電池電極の実用化に道―",
+    "url": "https://www.imr.tohoku.ac.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "・高強度・高伝導性を備えた新しい複合酸化物分散強化銅合金",
+    "url": "https://www.imr.tohoku.ac.jp/ja/public/publications/imr-news/",
+    "pass": 1
+   },
+   {
+    "quote": "・巨大なスピンホール効果を示す非平衡銅合金を発見",
+    "url": "https://www.imr.tohoku.ac.jp/ja/public/publications/imr-news/",
+    "pass": 1
+   },
+   {
+    "quote": "表面ナノ構造を最適化したニッケル－水素電池用の水素貯蔵合金の開発",
+    "url": "https://www.imr.tohoku.ac.jp/ja/public/publications/imr-news/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターを用いたマルチマテリアル技術を開発 鉄鋼材料とアルミ合金の界面の接合強度を飛躍的に改善、自動車の車体軽量化に期待",
+    "url": "https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html",
+    "pass": 3
+   },
+   {
+    "quote": "を用いて鉄鋼材料とアルミ合金を組み合わせたマルチマテリアル構造",
+    "url": "https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学金属材料研究所の山中謙太准教授と同大学未来科学技術共同研究センターの千葉晶彦特任教授の研究グループは、金属を対象とした代表的な3Dプリンティング技術の一つであるレーザー粉末床溶融結合法",
+    "url": "https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html",
+    "pass": 3
+   },
+   {
+    "quote": "を用いて、鉄鋼材料とアルミ合金の接合界面において非平衡凝固",
+    "url": "https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html",
+    "pass": 3
+   },
+   {
+    "quote": "材料を積層して3次元構造体を作製する点は一般的な樹脂を対象とした3Dプリンターと同様ですが、金属3Dプリンターでは金属の粉末やワイヤーを溶かしたり、高温に保持して焼結することで造形を行います",
+    "url": "https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html",
+    "pass": 3
+   },
+   {
+    "quote": "注6. レーザー粉末床溶融結合法",
+    "url": "https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末に高エネルギーのレーザーを照射することで溶融・凝固し、それを繰り返すことで3次元構造体を造形する手法であり、最も一般的な金属3Dプリンターの一つです",
+    "url": "https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼とアルミをつなぐ！東北大学金属材料研究所が金属3Dプリンターで自動車軽量化を実現 | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼とアルミをつなぐ！東北大学金属材料研究所が金属3Dプリンターで自動車軽量化を実現",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "この技術により、鉄鋼とアルミ合金の界面接合強度が飛躍的に改善され、従来の課題を克服",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、自動車では鉄鋼とアルミ合金の組み合わせが軽量化に寄与するが、その接合は課題を伴う",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "今回の研究では、レーザー粉末床溶融結合法（L-PBF）を活用し、鉄鋼とアルミ合金を組み合わせたマルチマテリアル構造を開発",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "また、合金の組成や粉末の形状、粒度分布、造形条件の最適化に向けた体系的な研究も必要である",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "RMIT大学、水に浮くチタン製ラティス構造体を3Dプリンターで開発、損傷後も浮力を維持",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターで使える金属材料は？ステンレスやアルミニウムなど種類と特徴を解説",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末床溶融結合法 / PBF（Powder Bed Fusion）を解説！SLS方式、SLM方式と何が違う？",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "10月19〜20日に粉体粉末冶金協会秋季大会にてYim先生が発表を行った",
+    "url": "https://chibalab.niche.tohoku.ac.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Ti‒48Al‒2Cr‒2Nb粉末の流動性に関する論文がAdditive Manfucturing誌に受理されました",
+    "url": "https://chibalab.niche.tohoku.ac.jp/",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "市民講演会 超電導モータで未来のエネルギー社会に貢献（11/14開催）",
+    "url": "https://www.imr.tohoku.ac.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "附属材料試験炉利用施設を附属量子エネルギー材料科学国際研究センターと改称",
+    "url": "https://www.imr.tohoku.ac.jp/ja/about/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "先端エネルギー材料理工共創研究センター 設置",
+    "url": "https://www.imr.tohoku.ac.jp/ja/about/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "・マルチマテリアル積層造形技術を開発自動車部材製造への応用へ",
+    "url": "https://www.imr.tohoku.ac.jp/ja/public/publications/imr-news/",
+    "pass": 1
+   },
+   {
+    "quote": "・２次元半導体MoS₂中での不純物に関する普遍的な電子状態の発見",
+    "url": "https://www.imr.tohoku.ac.jp/ja/public/publications/imr-news/",
+    "pass": 1
+   },
+   {
+    "quote": "・先端エネルギー材料理工共創研究センター2020年度ワークショップ開催報告",
+    "url": "https://www.imr.tohoku.ac.jp/ja/public/publications/imr-news/",
+    "pass": 1
+   },
+   {
+    "quote": "・キラルなペロブスカイト系半導体で実現されたバルク光起電力効果",
+    "url": "https://www.imr.tohoku.ac.jp/ja/public/publications/imr-news/",
+    "pass": 1
+   },
+   {
+    "quote": "臨時理化学研究所第二部発足の頃｜完成間もない鉄鋼研究所本館（旧1号館）｜金研お花見｜低温研究室（旧2号館）完成｜本多先生総長就任祝賀会｜本多記念館完成｜仙台空襲｜昭和天皇行幸｜バーディーンとアンダーソン金研訪問｜日本初のヘリウム液化機の設置｜本多先生胸像除幕式｜金研創立50周年記念式典｜材料試験炉利用施設設置｜金研運動会｜『赤レンガ』で親しまれた旧1号館お別れ会｜超電導材料開発施設に設置されたハイブリッドマグネット｜金研創立75周年記念式典｜なつかしの\"むつみ\"とバレーコート｜東日本大震災｜先端エネルギー材料理工共創研究センター開所式｜百周年を迎える金属材料研究所の今",
+    "url": "https://www.imr.tohoku.ac.jp/ja/public/publications/imr-news/",
+    "pass": 1
+   },
+   {
+    "quote": "・金属材料研究所 先端エネルギー材料理工共創研究センター 開所式",
+    "url": "https://www.imr.tohoku.ac.jp/ja/public/publications/imr-news/",
+    "pass": 1
+   },
+   {
+    "quote": "青色LEDができるまでの窒化物半導体の開発経緯と今後の期待",
+    "url": "https://www.imr.tohoku.ac.jp/ja/public/publications/imr-news/",
+    "pass": 1
+   },
+   {
+    "quote": "「地球にやさしいエネルギーと環境・省エネルギー技術」",
+    "url": "https://www.imr.tohoku.ac.jp/ja/public/publications/imr-news/",
+    "pass": 1
+   },
+   {
+    "quote": "所長挨拶 -エネルギー材料研究の強化と研究部門間連携の推進- 所長 高梨 弘毅",
+    "url": "https://www.imr.tohoku.ac.jp/ja/public/publications/imr-news/",
+    "pass": 1
+   },
+   {
+    "quote": "・“錯体水素化物”を実装した高エネルギー密度型全固体電池の開発",
+    "url": "https://www.imr.tohoku.ac.jp/ja/public/publications/imr-news/",
+    "pass": 1
+   },
+   {
+    "quote": "「より安全な原子力技術、核融合技術に向けての材料研究の展開」",
+    "url": "https://www.imr.tohoku.ac.jp/ja/public/publications/imr-news/",
+    "pass": 1
+   },
+   {
+    "quote": "磁気モーメントの波を利用した低エネルギー磁化スイッチング",
+    "url": "https://www.imr.tohoku.ac.jp/ja/public/publications/imr-news/",
+    "pass": 1
+   },
+   {
+    "quote": "－水素の存在状態の根源的探求からエネルギーデバイス実証へ",
+    "url": "https://www.imr.tohoku.ac.jp/ja/public/publications/imr-news/",
+    "pass": 1
+   },
+   {
+    "quote": "スピン流を用いた次世代エネルギー情報処理デバイス",
+    "url": "https://www.imr.tohoku.ac.jp/ja/public/publications/imr-news/",
+    "pass": 1
+   },
+   {
+    "quote": "研究部共同研究「窒化物半導体の高品質結晶成長とその素子応用」の第４回ミーティング報告",
+    "url": "https://www.imr.tohoku.ac.jp/ja/public/publications/imr-news/",
+    "pass": 1
+   },
+   {
+    "quote": "窒化物半導体による低炭素社会実現への可能性を求めて",
+    "url": "https://www.imr.tohoku.ac.jp/ja/public/publications/imr-news/",
+    "pass": 1
+   },
+   {
+    "quote": "施設だより：附属量子エネルギー材料科学国際研究センター",
+    "url": "https://www.imr.tohoku.ac.jp/ja/public/publications/imr-news/",
+    "pass": 1
+   },
+   {
+    "quote": "新知創造学際ハブに関連した金研の連携協力協定締結は、2024年7月の高エネルギー加速器研究機構（KEK）物質構造科学研究所（物構研）に続いて2件目です",
+    "url": "https://www.imr.tohoku.ac.jp/ja/news/news/detail---id-1895.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属材料研究所 附属量子エネルギー材料科学国際研究センター",
+    "url": "https://www.imr.tohoku.ac.jp/ja/about/location.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属材料研究所先端エネルギー 材料理工共創研究センター 大阪公立大学サテライトオフィス",
+    "url": "https://www.imr.tohoku.ac.jp/ja/about/location.html",
+    "pass": 1
+   },
+   {
+    "quote": "〒599-8231 大阪府堺市中区学園町1-1 大阪公立大学中百舌鳥キャンパス イノベーションアカデミースマートエネルギー棟 309号室",
+    "url": "https://www.imr.tohoku.ac.jp/ja/about/location.html",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターを用いたマルチマテリアル技術を開発 鉄鋼材料とアルミ合金の界面の接合強度を飛躍的に改善、自動車の車体軽量化に期待",
+    "url": "https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html",
+    "pass": 3
+   },
+   {
+    "quote": "を用いて設計された実物大の自動車部材の試作に成功し、車体軽量化が期待されます",
+    "url": "https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html",
+    "pass": 3
+   },
+   {
+    "quote": "マルチマテリアル構造は自動車や航空機を軽量化することができ、カーボンニュートラルの実現や省資源化において重要です",
+    "url": "https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、本成果を基に世界初となる実物大の自動車用マルチマテリアル部材（サスペンションタワー）の試作に成功しました",
+    "url": "https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html",
+    "pass": 3
+   },
+   {
+    "quote": "軽量化や強度、耐熱性、耐食性などの特性面で単一材料では実現できない複雑な要求に応えることができ、自動車、航空、医療などの分野で期待されています",
+    "url": "https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末に高エネルギーのレーザーを照射することで溶融・凝固し、それを繰り返すことで3次元構造体を造形する手法であり、最も一般的な金属3Dプリンターの一つです",
+    "url": "https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼とアルミをつなぐ！東北大学金属材料研究所が金属3Dプリンターで自動車軽量化を実現 | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車（80）",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙（74）",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "医療（168）",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼とアルミをつなぐ！東北大学金属材料研究所が金属3Dプリンターで自動車軽量化を実現",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、実物大の自動車部材の造形にも成功し、自動車の軽量化と環境負荷低減への貢献が期待される",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、異なる材料を組み合わせたマルチマテリアル構造は、自動車や航空機の軽量化において注目される技術である",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、自動車では鉄鋼とアルミ合金の組み合わせが軽量化に寄与するが、その接合は課題を伴う",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "また、実物大の自動車部材（サスペンションタワー）の試作にも成功し、構造の軽量化と高い接合強度の両立が可能であることを示した",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車の軽量化による燃費改善は、CO₂排出量削減に直結し、環境負荷の低減に寄与する",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "また、軽量かつ高強度な部材設計技術は、航空機や産業機械など他分野への展開可能性も高いので、持続可能な社会実現への貢献が期待される",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学とアメリカのジョンズ・ホプキンス大学の共同研究チームは、車や建物自体にエネルギーを貯蔵できるようにする3D構造のカーボン材料「階層的多孔質カーボンマイク …",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE PARTNERSとNTTデータザムテクノロジーズ、AM量産市場創出へ戦略的提携",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "指向性エネルギー堆積法 / DED（Direct Energy Deposition）を解説！WAAM方式と何が違う？",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界で活躍する3Dプリンター製の治具・工具",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の3Dプリンター活用の現状と将来",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の試作開発部門で活躍する3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙業界における3Dプリンターの活用",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "航空業界で活躍する3Dプリンター製最終製品",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "砂型3Dプリンターってなに？鋳造プロセスを大幅に改革、量産に活用されるAM技術の注目株！",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "東北大学 金属材料研究所 — 東北大学 金属材料研究所 東北大学 金属材料研究所 https://www.imr.tohoku.ac.jp",
+    "url": "https://www.imr.tohoku.ac.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学金属材料研究所 の紹介 — 東北大学金属材料研究所 の紹介 日本金属学会 PDF https://www.jim.or.jp > journal > pdf3",
+    "url": "https://www.jim.or.jp/journal/m/pdf3/55/11/537.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学金属材料研究所 PV IMR KEY MATERIALS（金研紹介） — 東北大学金属材料研究所 PV IMR KEY MATERIALS（金研紹介） YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=gQ1GorgnnAc",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼とアルミをつなぐ！ 東北大学金属材料研究所 が 金属3D ... — 鉄鋼とアルミをつなぐ！ 東北大学金属材料研究所 が 金属3D ... ShareLab NEWS https://news.sharelab.jp > 業界動向 > 金属3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターを用いたマルチマテリアル技術を開発 ー鉄鋼 ... — 3Dプリンターを用いたマルチマテリアル技術を開発 ー鉄鋼 ... 東北大学金属材料研究所 https://www.imr.tohoku.ac.jp > results > detail---id-1679",
+    "url": "https://www.imr.tohoku.ac.jp/ja/news/results/detail---id-1679.html",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学金属材料研究所 および保有する資料群が日本物... — 東北大学金属材料研究所 および保有する資料群が日本物... Tohoku University https://www.tohoku.ac.jp > ホーム > 2026年のニュース",
+    "url": "https://www.tohoku.ac.jp/japanese/2026/09/news20260916-imr.html",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学金属材料研究所 国際共同利用・共同研究拠点 GIMRT — 東北大学金属材料研究所 国際共同利用・共同研究拠点 GIMRT GIMRT https://gimrt.www.imr.tohoku.ac.jp",
+    "url": "https://gimrt.www.imr.tohoku.ac.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "採用情報｜ 東北大学 金属材料研究所 - Tohoku University — 採用情報｜ 東北大学 金属材料研究所 - Tohoku University 東北大学金属材料研究所 https://www.imr.tohoku.ac.jp > news > open_position",
+    "url": "https://www.imr.tohoku.ac.jp/ja/news/open_position/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "千葉 晶彦 東北大学金属材料研究所 - LinkedIn 千葉 晶彦 東北大学金属材料研究所 - LinkedIn LinkedIn https://jp.linkedin.com > 東北大学金属材料研究所-千葉...",
+    "url": "https://jp.linkedin.com/in/%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6%E9%87%91%E5%B1%9E%E6%9D%90%E6%96%99%E7%A0%94%E7%A9%B6%E6%89%80-%E5%8D%83%E8%91%89%E3%80%80%E6%99%B6%E5%BD%A6-405b8b81",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "東北大学 金属材料研究所 - Home - Facebook 東北大学 金属材料研究所 - Home - Facebook Facebook https://www.facebook.com > ...",
+    "url": "https://www.facebook.com/102527412394122",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学金属材料研究所 - Home | Facebook 東北大学金属材料研究所 - Home | Facebook Facebook https://www.facebook.com > 東北大学金属材料研究所",
+    "url": "https://www.facebook.com/pages/%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6%E9%87%91%E5%B1%9E%E6%9D%90%E6%96%99%E7%A0%94%E7%A9%B6%E6%89%80/1374768639456107",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.imr.tohoku.ac.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imr.tohoku.ac.jp/ja/about/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imr.tohoku.ac.jp/ja/public/publications/imr-news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imr.tohoku.ac.jp/ja/news/info/detail---id-1938.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imr.tohoku.ac.jp/ja/news/news/detail---id-1926.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imr.tohoku.ac.jp/ja/news/news/detail---id-1913.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imr.tohoku.ac.jp/ja/news/news/detail---id-1895.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imr.tohoku.ac.jp/ja/news/news/detail---id-1891.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imr.tohoku.ac.jp/ja/news/news/detail---id-1868.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imr.tohoku.ac.jp/ja/news/info/detail---id-1907.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imr.tohoku.ac.jp/ja/news/info/detail---id-1882.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imr.tohoku.ac.jp/ja/news/info/detail---id-1869.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imr.tohoku.ac.jp/ja/about/location.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imr.tohoku.ac.jp/ja/about/ja/public/publications/imr-news/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.imr.tohoku.ac.jp/media/files/public/publications/students/imrstudents2025web.pdf",
+    "status": "network_error:ConnectionError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.imr.tohoku.ac.jp/ja/about/media/files/public/publications/students/imrstudents2025web.pdf",
+    "status": "network_error:ConnectionError",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.jim.or.jp/journal/m/pdf3/55/11/537.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.c-and-a.jp/company_jp.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/company/chiba/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/company/chiba/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chibalab.niche.tohoku.ac.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohoku.ac.jp/japanese/2026/09/news20260916-imr.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gimrt.www.imr.tohoku.ac.jp/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D125120030",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6%E9%87%91%E5%B1%9E%E6%9D%90%E6%96%99%E7%A0%94%E7%A9%B6%E6%89%80-%E5%8D%83%E8%91%89%E3%80%80%E6%99%B6%E5%BD%A6-405b8b81",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/102527412394122",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6%E9%87%91%E5%B1%9E%E6%9D%90%E6%96%99%E7%A0%94%E7%A9%B6%E6%89%80/1374768639456107",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "東北大学金属材料研究所",
+   "results": [
+    "https://www.imr.tohoku.ac.jp/",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6%E9%87%91%E5%B1%9E%E6%9D%90%E6%96%99%E7%A0%94%E7%A9%B6%E6%89%80",
+    "https://www.tohoku.ac.jp/japanese/2026/05/event20260522-01-imr.html",
+    "https://x.com/Kinpro5",
+    "https://web.tohoku.ac.jp/imr-numat/",
+    "https://www.youtube.com/watch?v=gQ1GorgnnAc",
+    "https://ja.wikipedia.org/wiki/東北大学金属材料研究所",
+    "https://www.oarai.imr.tohoku.ac.jp/",
+    "https://gimrt.www.imr.tohoku.ac.jp/",
+    "https://www.imr.tohoku.ac.jp/ja/about/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "東北大学金属材料研究所 会社概要 資本金 設立",
+   "results": [
+    "https://www.imr.tohoku.ac.jp/",
+    "https://www.jim.or.jp/journal/m/pdf3/55/11/537.pdf",
+    "https://www.c-and-a.jp/company_jp.html",
+    "https://asset.tohoku.ac.jp/2019/03/25/02_katahira_a07_001%E9%9A%8E_%E9%87%91%E5%B1%9E%E6%9D%90%E6%96%99%E7%A0%94%E7%A9%B6%E6%89%80__%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B8/",
+    "https://www.youtube.com/watch?v=gQ1GorgnnAc",
+    "https://heritage.jps.or.jp/heritage/kinken-metallurgy/",
+    "https://www.tohoku.ac.jp/japanese/2026/09/news20260916-imr.html",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6%E9%87%91%E5%B1%9E%E6%9D%90%E6%96%99%E7%A0%94%E7%A9%B6%E6%89%80",
+    "https://gimrt.www.imr.tohoku.ac.jp/about/history.html",
+    "https://ja.wikipedia.org/wiki/東北大学金属材料研究所"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "東北大学金属材料研究所 金属3Dプリンタ 導入",
+   "results": [
+    "https://jampt.jp/company/chiba/",
+    "https://www.tohoku.ac.jp/japanese/2024/11/press20241126-01-3d.html",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/tohokuuniv-241213/",
+    "https://chibalab.niche.tohoku.ac.jp/",
+    "https://www.jeol.co.jp/products/technology_cases/interviews/10.html",
+    "https://www.kasseiken.jp/pdf/library/guide/27fy-others-02.pdf",
+    "https://www.mit.pref.miyagi.jp/%E3%80%8Ch30%E5%B9%B4%E5%BA%A6%E7%AC%AC1%E5%9B%9E%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%80%8D%E9%96%8B%E5%82%AC%E5%A0%B1/",
+    "https://www.tokushuko.or.jp/publication/magazine/pdf/2023/magazine2305.pdf",
+    "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "https://news.mynavi.jp/techplus/article/20241128-3073380/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "東北大学金属材料研究所 金属積層造形 設備",
+   "results": [
+    "https://jampt.jp/company/chiba/",
+    "https://www.imr.tohoku.ac.jp/ja/news/results/detail---id-1679.html",
+    "https://chibalab.niche.tohoku.ac.jp/",
+    "https://www.kasseiken.jp/pdf/library/guide/27fy-others-02.pdf",
+    "https://www.jeol.co.jp/products/technology_cases/interviews/10.html",
+    "https://gimrt.www.imr.tohoku.ac.jp/facilities.html",
+    "https://projectdb.jst.go.jp/grant/JST-PROJECT-25127688/",
+    "https://www.jim.or.jp/journal/m/pdf3/55/11/537.pdf",
+    "https://thvp.co.jp/fund/fund1/668/",
+    "https://www.niche.tohoku.ac.jp/project/chiba_prj.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "東北大学金属材料研究所 株主 出資 親会社",
+   "results": [
+    "https://www.imr.tohoku.ac.jp/",
+    "https://www.tohoku.ac.jp/japanese/2026/09/news20260916-imr.html",
+    "https://gimrt.www.imr.tohoku.ac.jp/",
+    "https://www.jim.or.jp/journal/m/pdf3/55/11/537.pdf",
+    "https://www.youtube.com/watch?v=gCt8LkOKpTk",
+    "https://gimrt.www.imr.tohoku.ac.jp/about/history.html",
+    "https://www.mitsui-kinzoku.com/LinkClick.aspx?fileticket=yknOCPwKIPA%3D&tabid=100&mid=826",
+    "https://jointu2020.shuyukai-tohoku-u.net/facultyandgraduateschool_support/imr",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6%E9%87%91%E5%B1%9E%E6%9D%90%E6%96%99%E7%A0%94%E7%A9%B6%E6%89%80",
+    "https://ja.wikipedia.org/wiki/東北大学金属材料研究所"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "東北大学金属材料研究所 売上高 従業員数",
+   "results": [
+    "https://www.imr.tohoku.ac.jp/",
+    "https://www.imr.tohoku.ac.jp/ja/news/open_position/",
+    "https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D125120030",
+    "https://www.jim.or.jp/journal/m/pdf3/55/11/537.pdf",
+    "https://www.youtube.com/watch?v=gQ1GorgnnAc",
+    "https://researchmap.jp/read0092358/research_experience/18944887",
+    "https://www.imr.tohoku.ac.jp/ja/news/results/",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6%E9%87%91%E5%B1%9E%E6%9D%90%E6%96%99%E7%A0%94%E7%A9%B6%E6%89%80",
+    "https://www.imr.tohoku.ac.jp/ja/about/divisions-and-centers/",
+    "https://ja.wikipedia.org/wiki/東北大学金属材料研究所"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 東北大学金属材料研究所",
+   "results": [
+    "https://note.com/tohoku_o2/n/nb22f856bf5fc",
+    "https://note.com/hisatune/n/n5fcce6e0f64a",
+    "https://note.com/tohoku_ensemble/n/n0dce818e4da7",
+    "https://note.com/jeakansai/n/n7ff69d8b6e8d",
+    "https://note.com/honest_jacana795/n/n7e405d5bb968",
+    "https://note.com/gokaku_inshi0320/n/neb21a6a5eacc",
+    "https://note.com/miya_sen_mame/n/n4391ff3eed13",
+    "https://note.com/kurume_asm/n/nce79c53a5d14",
+    "https://note.com/hisatune/n/n7ce45098acf3",
+    "https://note.com/tatsuya_sabato/n/nbc63e8ddff3e"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com 東北大学金属材料研究所",
+   "results": [
+    "https://x.com/Kinpro5",
+    "https://x.com/imr_lib",
+    "https://x.com/KasadaLab_IMR",
+    "https://x.com/Kinpro5/status/1912014559113879756",
+    "https://x.com/Kinpro5/status/2082356998499393578",
+    "https://x.com/Kinpro5/status/2027256653968744925",
+    "https://x.com/mater4fusion",
+    "https://x.com/QB_MetalPhys",
+    "https://x.com/hmScienceIKH",
+    "https://x.com/Kinpro5/status/1922522741854417051"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:linkedin.com 東北大学金属材料研究所",
+   "results": [
+    "https://jp.linkedin.com/in/%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6%E9%87%91%E5%B1%9E%E6%9D%90%E6%96%99%E7%A0%94%E7%A9%B6%E6%89%80-%E5%8D%83%E8%91%89%E3%80%80%E6%99%B6%E5%BD%A6-405b8b81",
+    "https://jp.linkedin.com/in/takashi-matsuoka-852a0657",
+    "https://jp.linkedin.com/in/%E6%9C%89%E7%82%BA-%E6%A8%AA%E7%94%B0-3b078a148",
+    "https://jp.linkedin.com/in/xiatong-ye-b43b34333/ja",
+    "https://www.linkedin.com/posts/tomoyuki-okabe-29580220b_%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6%E9%87%91%E5%B1%9E%E6%9D%90%E6%96%99%E7%A0%94%E7%A9%B6%E6%89%80%E3%81%8A%E3%82%88%E3%81%B3%E4%BF%9D%E6%9C%89%E3%81%99%E3%82%8B%E8%B3%87%E6%96%99%E7%BE%A4%E3%81%8C%E6%97%A5%E6%9C%AC%E7%89%A9%E7%90%86%E9%81%BA%E7%94%A3%E3%81%AB%E8%AA%8D%E5%AE%9A-activity-7507195542930739203-5ReR",
+    "https://jp.linkedin.com/in/yasuyuki-ogino-755b9a330/ja",
+    "https://jp.linkedin.com/in/shunsuke-kashiwakura",
+    "https://jp.linkedin.com/in/%E9%99%BD-%E5%B7%9D%E6%9C%AC%E3%80%80-237485239",
+    "https://jp.linkedin.com/company/tagen-tohoku-univ",
+    "https://jp.linkedin.com/posts/toyoknife-special-blades_%E6%9D%B1%E6%B4%8B%E5%88%83%E7%89%A9-%E5%B7%A5%E6%A5%AD%E7%94%A8%E5%88%83%E7%89%A9-100%E5%B9%B4%E4%BC%81%E6%A5%AD-activity-7203201873179234304-LTIE"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:facebook.com 東北大学金属材料研究所",
+   "results": [
+    "https://www.facebook.com/katolaboratory.imr/",
+    "https://www.facebook.com/102527412394122",
+    "https://www.facebook.com/pages/%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6%E9%87%91%E5%B1%9E%E6%9D%90%E6%96%99%E7%A0%94%E7%A9%B6%E6%89%80/1374768639456107",
+    "https://www.facebook.com/katolaboratory.imr/posts/20260710%E9%87%91%E7%A0%94-%E6%A7%8B%E9%80%A0%E6%9D%90%E6%96%99%E7%A0%94%E7%A9%B6%E9%83%A8%E4%BC%9A2026%E6%AF%8E%E5%B9%B4%E9%87%91%E5%B1%9E%E6%9D%90%E6%96%99%E7%A0%94%E7%A9%B6%E6%89%80%E5%86%85%E3%81%AE6%E7%A0%94%E7%A9%B6%E5%AE%A4%E3%81%8C%E9%9B%86%E3%81%BE%E3%82%8A%E9%96%8B%E5%82%AC%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E6%A7%8B%E9%80%A0%E6%9D%90%E6%96%99%E7%A0%94%E7%A9%B6%E9%83%A8%E4%BC%9A%E3%81%AB%E3%81%A6%E5%8A%A0%E8%97%A4%E7%A0%94%E7%A9%B6%E5%AE%A4%E3%82%88%E3%82%8A2%E5%90%8D%E3%81%8C%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A8%E3%82%92%E8%A1%8C%E3%81%84%E3%81%BE%E3%81%97%E3%81%9Fd3/1717504536195777/",
+    "https://www.facebook.com/MaSC.TohokuUniversity/",
+    "https://www.facebook.com/katolaboratory.imr/posts/imr-%E9%87%91%E7%A0%94-dealloying-%E5%8A%A0%E8%97%A4%E7%A0%94-%E9%87%91%E5%B1%9E%E6%9D%90%E6%96%99%E7%A0%94%E7%A9%B6%E6%89%80/1691232902156274/",
+    "https://m.facebook.com/profile.php?id=103066708561323",
+    "https://www.facebook.com/Tohoku.University.School.of.Dentistry/posts/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88-interface-summer-seminar-2026%E3%82%92%E9%96%8B%E5%82%AC%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99-%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E6%AD%AF%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%A7%91%E9%87%91%E5%B1%9E%E6%9D%90%E6%96%99%E7%A0%94%E7%A9%B6%E6%89%80%E5%A4%A7%E5%AD%A6%E9%99%A2%E5%8C%BB%E5%B7%A5%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%A7%91%E5%A4%A7%E5%AD%A6%E9%99%A2%E5%B7%A5%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%A7%91%E6%9D%B1/1513883173863761/",
+    "https://www.facebook.com/NIKKEIxTECH/posts/%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6%E9%87%91%E5%B1%9E%E6%9D%90%E6%96%99%E7%A0%94%E7%A9%B6%E6%89%80%E3%81%AA%E3%81%A9%E3%81%AE%E7%A0%94%E7%A9%B6%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AF%E3%83%90%E3%83%AB%E3%82%AF%E9%87%91%E5%B1%9E%E8%A9%A6%E6%96%99%E3%81%AE%E7%86%B1%E5%87%A6%E7%90%86%E3%81%8B%E3%82%89%E6%A7%8B%E9%80%A0%E8%A7%A3%E6%9E%90%E5%8A%9B%E5%AD%A6%E7%89%B9%E6%80%A7%E8%A9%95%E4%BE%A1%E3%81%BE%E3%81%A7%E3%82%92%E8%87%AA%E5%8B%95%E3%81%A7%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B%E5%AE%9F%E9%A8%93%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E9%96%8B%E7%99%BA%E3%81%97%E3%81%9F%E4%BA%BA%E3%81%AB%E3%82%88%E3%82%8B%E5%AE%9F%E9%A8%93%E3%81%AB%E6%AF%94%E3%81%B9%E3%81%A610%E5%80%8D%E4%BB%A5%E4%B8%8A%E3%81%AE/1735845171878697/",
+    "https://www.facebook.com/katolaboratory.imr/posts/202665%E5%8A%A0%E8%97%A4%E7%A0%94ob%E4%B8%89%E9%8D%8B%E9%9B%84%E7%B4%802024%E5%B9%B43%E6%9C%88%E4%BF%AE%E5%A3%AB%E4%BF%AE%E4%BA%86%E3%81%AEob%E4%B8%89%E9%8D%8B%E9%9B%84%E7%B4%80%E3%81%95%E3%82%93%E7%8F%BEjx%E9%87%91%E5%B1%9E%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%8C%E4%BC%81%E6%A5%AD%E8%AA%AC%E6%98%8E%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%E5%8A%A0%E8%97%A4%E7%A0%94%E3%82%92%E8%A8%AA%E5%95%8F%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E5%8E%BB%E5%B9%B4%E3%81%AB%E7%B6%9A%E3%81%8D2%E5%B9%B4%E9%80%A3%E7%B6%9A%E3%81%A7%E3%81%AE%E5%86%8D%E4%BC%9A%E3%81%A8/1690386105574287/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "東北大学金属材料研究所 note 社長",
+   "results": [
+    "https://www.imr.tohoku.ac.jp/",
+    "https://note.com/tohoku_ensemble/n/n0dce818e4da7",
+    "https://gimrt.www.imr.tohoku.ac.jp/about/history.html",
+    "https://www.youtube.com/watch?v=gCt8LkOKpTk",
+    "https://note.com/kurume_asm/n/nce79c53a5d14",
+    "https://heritage.jps.or.jp/heritage/kinken-metallurgy/",
+    "https://www.imr.tohoku.ac.jp/media/files/public/publications/center-pamphlet/gaiyou2024.pdf",
+    "https://www.jim.or.jp/journal/m/pdf3/55/11/537.pdf",
+    "https://www.imr.tohoku.ac.jp/ja/about/greeting.html",
+    "https://ja.wikipedia.org/wiki/井上明久"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "東北大学金属材料研究所 X 投稿",
+   "results": [
+    "https://www.tohoku.ac.jp/japanese/2026/05/event20260522-01-imr.html",
+    "https://x.com/Kinpro5",
+    "https://www.tohoku.ac.jp/japanese/2026/09/event20260918-05-imr.html",
+    "https://gimrt.appli.imr.tohoku.ac.jp/register",
+    "https://www.tohoku.ac.jp/japanese/2026/04/event20260422-01-imr.html",
+    "https://crsj.jp/news-j/171113IMRWS.html",
+    "https://x.com/hmScienceIKH",
+    "https://gimrt.www.imr.tohoku.ac.jp/about.html",
+    "https://www.tohoku.ac.jp/japanese/2026/10/press20261002-03-AI.html",
+    "https://gimrt.www.imr.tohoku.ac.jp/gimrtportal.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部13頁・検索12回）",
+  "資本金": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部13頁・検索12回）",
+  "創業年度": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部13頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部13頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部13頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部13頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部13頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部13頁・検索12回）",
+  "資本金・株主": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部13頁・検索12回）"
+ }
+}

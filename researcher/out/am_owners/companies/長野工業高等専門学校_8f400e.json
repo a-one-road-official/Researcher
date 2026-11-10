@@ -1,0 +1,767 @@
+{
+ "name": "長野工業高等専門学校",
+ "aliases": [],
+ "context": "PBF=unknown 装置= 出典=https://www.nikkei.com/article/DGXZQOCC210QX0R20C24A2000000/",
+ "researched_at": "2026-11-10T20:56:15.275934+00:00",
+ "official_url": "https://www.nagano-nct.ac.jp/",
+ "identified_by": "search:yahoo_jp:長野工業高等専門学校",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "酸素・窒素・アルゴン等各種産業ガス、LP ガス、医療用ガス、特殊ガスの製造・",
+    "url": "https://nsc.jp.nipponsanso.com/LinkClick.aspx?fileticket=9AeOtxh1EQM%3D",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上収益",
+    "value": "4,204 億円※",
+    "url": "https://nsc.jp.nipponsanso.com/LinkClick.aspx?fileticket=9AeOtxh1EQM%3D",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "用途・客の産業": [
+   {
+    "quote": "医療機関で「感染症名」及び「休養が必要な期間」が記載された証明書を作成してもらって下さい",
+    "url": "https://www.nagano-nct.ac.jp/life/health",
+    "pass": 1
+   },
+   {
+    "quote": "なお医療機関によっては、書類の発行に別途料金がかかることがあります",
+    "url": "https://www.nagano-nct.ac.jp/life/health",
+    "pass": 1
+   },
+   {
+    "quote": "に限り医療機関の証明書は不要とし、保護者等の証明によって公欠を認めることとします",
+    "url": "https://www.nagano-nct.ac.jp/life/health",
+    "pass": 1
+   },
+   {
+    "quote": "４．電気電子工学におけるエネルギー変換，エレクトロニクスおよび情報通信に関わる各分野の知識・",
+    "url": "https://www.niad.ac.jp/media/006/201904/no6_1_3_nagano_k201903_.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．電子工作や実験が好きで，電気エネルギー，エレクトロニクス，情報通信など電気電子工学に関連",
+    "url": "https://www.niad.ac.jp/media/006/201904/no6_1_3_nagano_k201903_.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "料・設計関連科目およびエネルギー・環境システム関連科目を設定します",
+    "url": "https://www.niad.ac.jp/media/006/201904/no6_1_3_nagano_k201903_.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・機械工学科：自動車やロボット等の各種機械の開発・設計ができ、それらを作り出すために必要な製造・生産",
+    "url": "https://www.niad.ac.jp/media/006/201904/no6_1_3_nagano_k201903_.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙環境試験装置 -プラント・エンジニアリング分野",
+    "url": "https://nsc.jp.nipponsanso.com/jp/news/detail.html?itemid=763",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙部品や医療用器具など様々な分野で使用できる",
+    "url": "https://www.nikkei.com/article/DGXZQOCC210QX0R20C24A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "高市戦略17分野の造船･宇宙に照準 ダイヘンが3Dプリンター参入",
+    "url": "https://www.nikkei.com/article/DGXZQOCC210QX0R20C24A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "次の半導体大国、インド",
+    "url": "https://www.nikkei.com/article/DGXZQOCC210QX0R20C24A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "インド半導体の業界地図 タタ経済圏に450社、日本の突破口明らかに",
+    "url": "https://www.nikkei.com/article/DGXZQOCC210QX0R20C24A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容：酸素・窒素・アルゴン等各種産業ガス、LP ガス、医療用ガス、特殊ガスの製造・",
+    "url": "https://nsc.jp.nipponsanso.com/LinkClick.aspx?fileticket=9AeOtxh1EQM%3D",
+    "pass": 3
+   },
+   {
+    "quote": "自動車にはエンジン、ブレーキ、車体それぞれに設計者がいます",
+    "url": "https://www.gender.go.jp/c-challenge/kyouryoku/kosen/001.html",
+    "pass": 3
+   },
+   {
+    "quote": "携帯電話などの電子機器、太陽電池、風力発電、プログラミング、そしてディジタル通信など電気電子の基礎を重視して、「電気エネルギー、エレクトロニクス、情報通信」をバランスよく学びます",
+    "url": "https://www.gender.go.jp/c-challenge/kyouryoku/kosen/001.html",
+    "pass": 3
+   },
+   {
+    "quote": "高度で専門性の高い技術分野を教授するだけでなく、それらが複合して今日の高度化社会を支えているエネルギー、デバイス、情報技術などの融合型技術を必要とする産業界で活躍できる技術者の育成を目的としています",
+    "url": "https://www.gender.go.jp/c-challenge/kyouryoku/kosen/001.html",
+    "pass": 3
+   }
+  ],
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "援・公募制の導入・教員表彰制度の導入・校長裁量経費等の予算配分・ゆとりの時間確保策の導入・ほか",
+    "url": "https://www.niad.ac.jp/media/006/201904/no6_1_3_nagano_k201903_.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図書館には、図書館の機能を十分に発揮するために常勤・非常勤合わせて７人配置（うち司書資格保有",
+    "url": "https://www.niad.ac.jp/media/006/201904/no6_1_3_nagano_k201903_.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "学生の自主的学習を支援するため、担任制・指導教員制の導入、オフィスアワーの設定、対面型の相談",
+    "url": "https://www.niad.ac.jp/media/006/201904/no6_1_3_nagano_k201903_.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "学習支援に関する学生のニーズを把握するための取組として、担任制・指導教員制の導入・教職員と学",
+    "url": "https://www.niad.ac.jp/media/006/201904/no6_1_3_nagano_k201903_.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国立高等専門学校機構のＷｅｂシラバスを導入しており、シラバスには、授業科目名、単位数、授業形",
+    "url": "https://www.niad.ac.jp/media/006/201904/no6_1_3_nagano_k201903_.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "学修単位科目（45時間の学修を１単位とする単位計算方法を導入している授業科目）については、授業",
+    "url": "https://www.niad.ac.jp/media/006/201904/no6_1_3_nagano_k201903_.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "導入を展開するための「タイ協働センター」を設置して、その活動を開始している",
+    "url": "https://www.niad.ac.jp/media/006/201904/no6_1_3_nagano_k201903_.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Research / Development",
+    "url": "https://nsc.jp.nipponsanso.com/jp/news/detail.html?itemid=763",
+    "pass": 3
+   },
+   {
+    "quote": "大陽日酸 は、金属３Ｄプリンター等を用いて、さまざまな形状の製品を製造する金属アディティブマニュファクチャリング（以下、金属 ＡＭ ）分野において、 自社で 保有する溶接プロセス、ガス精製、熱処理等の産業ガスアプリケーション技術を応用した ＡＭ ソリューションビジネスを展開しております",
+    "url": "https://nsc.jp.nipponsanso.com/jp/news/detail.html?itemid=763",
+    "pass": 3
+   },
+   {
+    "quote": "大陽日酸、長野高専と金属3Dプリンターの共同研究 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOCC210QX0R20C24A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "傘下の大陽日酸は長野工業高等専門学校と金属3Dプリンターを使った共同研究を始めた",
+    "url": "https://www.nikkei.com/article/DGXZQOCC210QX0R20C24A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "同社が販売する金属3Dプリンターを長野高専に設置して生徒や教員に使ってもらい、使用データを今後の造形技術や用途開発に生かす",
+    "url": "https://www.nikkei.com/article/DGXZQOCC210QX0R20C24A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "長野高専に設置した金属3Dプリンターは金属ペーストを一層ずつ積み上げて立体を作る",
+    "url": "https://www.nikkei.com/article/DGXZQOCC210QX0R20C24A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "大陽日酸としては国内での金属3Dプリンター普及のために、外部の自由な発想も取り込み技術開発や人材育成を進める考えだ",
+    "url": "https://www.nikkei.com/article/DGXZQOCC210QX0R20C24A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ロケットや船舶部品向け金属3Dプリンター ダイヘン、製造コスト半減",
+    "url": "https://www.nikkei.com/article/DGXZQOCC210QX0R20C24A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ティブマニュファクチャリング（以下、金属ＡＭ）分野において、自社で保有する溶接プロセ",
+    "url": "https://nsc.jp.nipponsanso.com/LinkClick.aspx?fileticket=9AeOtxh1EQM%3D",
+    "pass": 3
+   },
+   {
+    "quote": "合唱部創設、体育祭でのeスポーツ導入",
+    "url": "https://gekkan-kosen.com/post-kosen/%E9%95%B7%E9%87%8E%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "ENEOS Xplora株式会社 サステナブル事業推進部 新規事業開発グループ",
+    "url": "https://gekkan-kosen.com/post-kosen/%E9%95%B7%E9%87%8E%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "長野工業高等専門学校 — 長野工業高等専門学校 長野工業高等専門学校 https://www.nagano-nct.ac.jp",
+    "url": "https://www.nagano-nct.ac.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "独立行政法人国立高等専門学校機構 長野工業高等専門学校 — 独立行政法人国立高等専門学校機構 長野工業高等専門学校 全国の信用金庫 https://www.shinkin.co.jp > sk-matching > exhibitor > detail",
+    "url": "https://www.shinkin.co.jp/sk-matching/exhibitor/detail/?cid=7",
+    "pass": 3
+   },
+   {
+    "quote": "長野工業高等専門学校 - Wikipedia — 長野工業高等専門学校 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 長野工業高等専門学校",
+    "url": "https://ja.wikipedia.org/wiki/%E9%95%B7%E9%87%8E%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1",
+    "pass": 3
+   },
+   {
+    "quote": "長野工業高等専門学校 | 内閣府男女共同参画局 — 長野工業高等専門学校 | 内閣府男女共同参画局 内閣府男女共同参画 https://www.gender.go.jp > kyouryoku > kosen",
+    "url": "https://www.gender.go.jp/c-challenge/kyouryoku/kosen/001.html",
+    "pass": 3
+   },
+   {
+    "quote": "TCTJapan2025において本校学生が作成した 金属3D ... — TCTJapan2025において本校学生が作成した 金属3D ... 長野工業高等専門学校 https://www.nagano-nct.ac.jp > お知らせ・トピックス",
+    "url": "https://www.nagano-nct.ac.jp/news/250205",
+    "pass": 3
+   },
+   {
+    "quote": "長野工業高等専門学校 - SK本舗 — 長野工業高等専門学校 - SK本舗 SK本舗 https://skhonpo.com > pages > nagano-college",
+    "url": "https://skhonpo.com/pages/nagano-college",
+    "pass": 3
+   },
+   {
+    "quote": "TCTJapan2025において本校学生が作成した 金属 3D ... — TCTJapan2025において本校学生が作成した 金属 3D ... 長野工業高等専門学校 https://www.nagano-nct.ac.jp > お知らせ・トピックス",
+    "url": "https://www.nagano-nct.ac.jp/news/250205",
+    "pass": 3
+   },
+   {
+    "quote": "長野工業高等専門学校 リポジトリ — 長野工業高等専門学校 リポジトリ nagano-nct.repo.nii.ac.jp https://nagano-nct.repo.nii.ac.jp",
+    "url": "https://nagano-nct.repo.nii.ac.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "長野工業高等専門学校 アーカイブ - 月刊高専 — 長野工業高等専門学校 アーカイブ - 月刊高専 月刊高専 https://gekkan-kosen.com > 長野工業高等専門学校",
+    "url": "https://gekkan-kosen.com/post-kosen/%E9%95%B7%E9%87%8E%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1/",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "株 主：日本酸素ホールディングス株式会社（出資比率100％）",
+    "url": "https://nsc.jp.nipponsanso.com/LinkClick.aspx?fileticket=9AeOtxh1EQM%3D",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【産学連携事例】 長野工業高等専門学校 にて弊社IT教育 ... - note 【産学連携事例】 長野工業高等専門学校 にて弊社IT教育 ... - note note https://note.com > コンピュータ・IT > コンピュータ・IT全般",
+    "url": "https://note.com/mamezou_info/n/nc25590ebdc60",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【産学連携事例】長野工業高等専門学校にて弊社IT教育コンサルタントが「システム開発を導く視点を体感しよう」というテーマで講座を行ないました！｜株式会社豆蔵",
+    "url": "https://note.com/mamezou_info/n/nc25590ebdc60",
+    "pass": 3
+   },
+   {
+    "quote": "【産学連携事例】長野工業高等専門学校にて弊社IT教育コンサルタントが「システム開発を導く視点を体感しよう」というテーマで講座を行ないました！",
+    "url": "https://note.com/mamezou_info/n/nc25590ebdc60",
+    "pass": 3
+   },
+   {
+    "quote": "私たち豆蔵は全国の高専と連携し、未来を担う技術者の育成を目的に特別講座を展開しています。",
+    "url": "https://note.com/mamezou_info/n/nc25590ebdc60",
+    "pass": 3
+   },
+   {
+    "quote": "にて実施した出前授業の様子をレポートします！",
+    "url": "https://note.com/mamezou_info/n/nc25590ebdc60",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社豆蔵 ビジネスソリューション事業部 IT教育コンサルタント",
+    "url": "https://note.com/mamezou_info/n/nc25590ebdc60",
+    "pass": 3
+   },
+   {
+    "quote": "企業の人材育成支援を専門とするIT教育コンサルタントとして、豆蔵の技術者教育・育成事業を担っている。",
+    "url": "https://note.com/mamezou_info/n/nc25590ebdc60",
+    "pass": 3
+   },
+   {
+    "quote": "今回の出前授業では、その知見を活かし、「システム開発を導く視点」をテーマに、単なる技術教育にとどまらず、“依頼する立場”の思考やコミュニケーション力を体験から学べるよう設計。",
+    "url": "https://note.com/mamezou_info/n/nc25590ebdc60",
+    "pass": 3
+   },
+   {
+    "quote": "「依頼する視点」から学ぶシステム開発の面白さ",
+    "url": "https://note.com/mamezou_info/n/nc25590ebdc60",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "長野工業高等専門学校 - LinkedIn 長野工業高等専門学校 - LinkedIn LinkedIn Uruguay https://uy.linkedin.com > edu > nagano-national-college-o...",
+    "url": "https://uy.linkedin.com/edu/nagano-national-college-of-technology-23195",
+    "pass": 3
+   },
+   {
+    "quote": "長野工業高等専門学校 の社員、場所、同窓生 - LinkedIn 長野工業高等専門学校 の社員、場所、同窓生 - LinkedIn LinkedIn https://jp.linkedin.com > school > 長野工業高等専門学校",
+    "url": "https://jp.linkedin.com/school/%E9%95%B7%E9%87%8E%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1/",
+    "pass": 3
+   },
+   {
+    "quote": "西川 嘉雄 - 長野工業高等専門学校 - 教授 - LinkedIn 西川 嘉雄 - 長野工業高等専門学校 - 教授 - LinkedIn LinkedIn https://jp.linkedin.com > 嘉雄-西川-80025872",
+    "url": "https://jp.linkedin.com/in/%E5%98%89%E9%9B%84-%E8%A5%BF%E5%B7%9D-80025872",
+    "pass": 3
+   },
+   {
+    "quote": "Daichi Kajihara - 長野工業高等専門学校 在学 | LinkedIn Daichi Kajihara - 長野工業高等専門学校 在学 | LinkedIn LinkedIn https://jp.linkedin.com > ...",
+    "url": "https://jp.linkedin.com/in/daichi-kajihara-214b3011b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "長野工業高等専門学校 (@naganokosen) - Facebook 長野工業高等専門学校 (@naganokosen) - Facebook Facebook https://www.facebook.com > ... > Education > School",
+    "url": "https://www.facebook.com/naganokosen/",
+    "pass": 3
+   },
+   {
+    "quote": "長野工業高等専門学校 - Inicio | Facebook 長野工業高等専門学校 - Inicio | Facebook Facebook https://es-es.facebook.com > 長野工業高等専門学校",
+    "url": "https://es-es.facebook.com/pages/%E9%95%B7%E9%87%8E%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1/174486742673484",
+    "pass": 3
+   },
+   {
+    "quote": "長野工業高等専門学校 - Home - Facebook 長野工業高等専門学校 - Home - Facebook Facebook https://www.facebook.com > ...",
+    "url": "https://www.facebook.com/145861922119245",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.nagano-nct.ac.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagano-nct.ac.jp/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagano-nct.ac.jp/news/20261114",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagano-nct.ac.jp/news/tag/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagano-nct.ac.jp/guide/symbol",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagano-nct.ac.jp/news/tag/%E5%AD%A6%E7%94%9F%E3%81%AE%E6%B4%BB%E8%BA%8D",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagano-nct.ac.jp/life/health",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagano-nct.ac.jp/news/tag/%E5%9B%B3%E6%9B%B8%E9%A4%A8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagano-nct.ac.jp/news/tag/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagano-nct.ac.jp/news/20261213",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagano-nct.ac.jp/news/tag/%E5%9C%B0%E5%9F%9F%E9%80%A3%E6%90%BA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagano-nct.ac.jp/news/261026-01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagano-nct.ac.jp/news/tag/%E7%A0%94%E7%A9%B6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagano-nct.ac.jp/news/tag/%E5%AD%A6%E7%94%9F%E3%81%B8%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.niad.ac.jp/media/006/201904/no6_1_3_nagano_k201903_.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shinkin.co.jp/sk-matching/exhibitor/detail/?cid=7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nsc.jp.nipponsanso.com/jp/news/detail.html?itemid=763",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOCC210QX0R20C24A2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nsc.jp.nipponsanso.com/LinkClick.aspx?fileticket=9AeOtxh1EQM%3D",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOCC210QX0R20C24A2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nagano-nct.repo.nii.ac.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.gender.go.jp/c-challenge/kyouryoku/kosen/001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gender.go.jp/c-challenge/kyouryoku/kosen/001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gekkan-kosen.com/post-kosen/%E9%95%B7%E9%87%8E%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mamezou_info/n/nc25590ebdc60",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uy.linkedin.com/edu/nagano-national-college-of-technology-23195",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/school/%E9%95%B7%E9%87%8E%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E5%98%89%E9%9B%84-%E8%A5%BF%E5%B7%9D-80025872",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/daichi-kajihara-214b3011b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/naganokosen/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://es-es.facebook.com/pages/%E9%95%B7%E9%87%8E%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1/174486742673484",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/145861922119245",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/mamezou_info/n/nc25590ebdc60",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "長野工業高等専門学校",
+   "results": [
+    "https://www.nagano-nct.ac.jp/",
+    "https://ja.wikipedia.org/wiki/%E9%95%B7%E9%87%8E%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1",
+    "https://www.gender.go.jp/c-challenge/kyouryoku/kosen/001.html",
+    "https://www.minkou.jp/hischool/school/16654/",
+    "https://hikousenjuku.com/blog/5195/",
+    "https://prtimes.jp/main/html/rd/p/000000647.000075419.html",
+    "https://ja.wikipedia.org/wiki/長野工業高等専門学校",
+    "https://www.nagano-nct.ac.jp/entrance/regular",
+    "https://www.minkou.jp/hischool/school/deviation/16654/",
+    "https://www.gakkou.net/kousen/view/?scode=320022"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "長野工業高等専門学校 会社概要 資本金 設立",
+   "results": [
+    "https://www.nagano-nct.ac.jp/",
+    "https://www.niad.ac.jp/media/006/201904/no6_1_3_nagano_k201903_.pdf",
+    "https://www.shinkin.co.jp/sk-matching/exhibitor/detail/?cid=7",
+    "https://ja.wikipedia.org/wiki/%E9%95%B7%E9%87%8E%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1",
+    "https://www.gender.go.jp/c-challenge/kyouryoku/kosen/001.html",
+    "https://prtimes.jp/main/html/rd/p/000000552.000075419.html",
+    "https://adeac.jp/nagano-city/texthtml/d100070/ct00000007/ht000960",
+    "https://compalyze.co.jp/company/3100005012473",
+    "https://hikousenjuku.com/blog/5195/",
+    "https://ja.wikipedia.org/wiki/長野工業高等専門学校"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "長野工業高等専門学校 金属3Dプリンタ 導入",
+   "results": [
+    "https://nsc.jp.nipponsanso.com/jp/news/detail.html?itemid=763",
+    "https://www.nikkei.com/article/DGXZQOCC210QX0R20C24A2000000/",
+    "https://www.nagano-nct.ac.jp/news/250205",
+    "https://skhonpo.com/pages/nagano-college",
+    "https://www.marubeni-idigio.com/product/3dprinter/products/topics/3dprinter-kousen/",
+    "https://igaspedia.com/2024/02/05/tn-sanso-nagano-nct-metal-am-3d-printer/",
+    "https://nsc.jp.nipponsanso.com/LinkClick.aspx?fileticket=9AeOtxh1EQM%3D",
+    "https://www.youtube.com/watch?v=Byfy7tsLawE",
+    "https://www.ricoh.co.jp/3dp/metal/column_fastform01",
+    "https://kyodonewsprwire.jp/release/202402016085"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "長野工業高等専門学校 金属積層造形 設備",
+   "results": [
+    "https://nsc.jp.nipponsanso.com/LinkClick.aspx?fileticket=9AeOtxh1EQM%3D",
+    "https://www.nagano-nct.ac.jp/news/250205",
+    "https://www.nikkei.com/article/DGXZQOCC210QX0R20C24A2000000/",
+    "https://skhonpo.com/pages/nagano-college",
+    "https://igaspedia.com/2024/02/05/tn-sanso-nagano-nct-metal-am-3d-printer/",
+    "https://www.marubeni-idigio.com/product/3dprinter/products/topics/3dprinter-kousen/",
+    "https://nsc.jp.nipponsanso.com/jp/news/detail.html?itemid=763",
+    "https://www.gitc.pref.nagano.lg.jp/zairyo/3Ddigital/setsubi/1_3Dprinter.html",
+    "https://jampt.jp/",
+    "https://www.nagano-nct.ac.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "長野工業高等専門学校 株主 出資 親会社",
+   "results": [
+    "https://www.nagano-nct.ac.jp/",
+    "https://nagano-nct.repo.nii.ac.jp/",
+    "https://www.gender.go.jp/c-challenge/kyouryoku/kosen/001.html",
+    "https://adeac.jp/nagano-city/texthtml/d100070/ct00000007/ht000960",
+    "https://ja.wikipedia.org/wiki/%E9%95%B7%E9%87%8E%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1",
+    "https://www.nikkei.com/article/DGXZQOCC1151U0R10C26A5000000/",
+    "https://www.totoku.co.jp/news/%E4%BC%81%E6%A5%AD%E6%83%85%E5%A0%B1/%E9%95%B7%E9%87%8E%E9%AB%98%E5%B0%82%E3%81%A8%E5%85%B1%E5%90%8C%E7%A0%94%E7%A9%B6%E3%80%8C%E5%85%B1%E5%89%B5%E3%83%A9%E3%83%9Ctotoku%E3%80%8D/",
+    "https://www.weeklybcn.com/journal/serial/detail/20060717_51770.html",
+    "https://www.tech-kosen.jp/about/officer.html",
+    "https://ja.wikipedia.org/wiki/長野工業高等専門学校"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "長野工業高等専門学校 売上高 従業員数",
+   "results": [
+    "https://www.nagano-nct.ac.jp/",
+    "https://www.gender.go.jp/c-challenge/kyouryoku/kosen/001.html",
+    "https://gekkan-kosen.com/post-kosen/%E9%95%B7%E9%87%8E%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1/",
+    "https://www.niad.ac.jp/sub_hyouka/ninsyou/hyoukahou201303/kousen/no6_1_3_jiko_nagano_k_s201303.pdf",
+    "https://adeac.jp/nagano-city/texthtml/d100070/ct00000007/ht000960",
+    "https://kosen-guide.jp/interview/entry-104112.html",
+    "https://www.kosen-k.go.jp/assets/pdf/release/225/R5jigyouhoukoku.pdf",
+    "https://www.chisou.go.jp/sousei/internship/university/detail/20_nagano/20_tec_01001.html",
+    "https://ja.wikipedia.org/wiki/%E9%95%B7%E9%87%8E%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1",
+    "https://ja.wikipedia.org/wiki/長野工業高等専門学校"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 長野工業高等専門学校",
+   "results": [
+    "https://note.com/mamezou_info/n/nc25590ebdc60",
+    "https://note.com/airportmanjapan/n/nadccde336f06",
+    "https://note.com/online_hennyu/n/nb11080800d35",
+    "https://note.com/eism_ms/n/n355564af6eee",
+    "https://note.com/gay_hyena8452/n/n6005101dff34",
+    "https://note.com/kigyo_gentaiken/n/n8d06394955c4",
+    "https://note.com/1983hachigoro/n/nf9d0235a8ace",
+    "https://note.com/mamezou_info/n/n8b794978fcd4",
+    "https://note.com/denken_suzaka/n/n736bb7c321e6",
+    "https://note.com/tbacktaisa/n/n6bdf0ff3e547"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:x.com 長野工業高等専門学校",
+   "results": [
+    "https://x.com/nnct_chorus",
+    "https://x.com/mizi___mizi/status/1312654713171537921",
+    "https://x.com/2IjgCZ8Apz42PMM",
+    "https://x.com/techno_aids/status/1988406486767452597",
+    "https://x.com/nhk_nagano/status/1733066391442378947",
+    "https://x.com/sinatiku21/status/2094974756957372885",
+    "https://x.com/koujiohnishi/status/2063927703011762214",
+    "https://x.com/choko_Evolution",
+    "https://x.com/itm_nlab/status/1679450599580893186",
+    "https://x.com/Seiji_Ya/status/1807598656671121503"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com 長野工業高等専門学校",
+   "results": [
+    "https://uy.linkedin.com/edu/nagano-national-college-of-technology-23195",
+    "https://jp.linkedin.com/school/%E9%95%B7%E9%87%8E%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1/",
+    "https://jp.linkedin.com/in/%E5%98%89%E9%9B%84-%E8%A5%BF%E5%B7%9D-80025872",
+    "https://jp.linkedin.com/in/daichi-kajihara-214b3011b",
+    "https://ph.linkedin.com/in/cherry-condat-a0b92687",
+    "https://jp.linkedin.com/in/%E5%85%89%E4%B9%9F-%E5%8C%97%E5%B1%B1-b4aa02236",
+    "https://jp.linkedin.com/school/%E9%95%B7%E9%87%8E%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1/people",
+    "https://jp.linkedin.com/in/%E5%92%8C%E4%BA%BA-%E8%A5%BF%E6%9D%91-ba6095267",
+    "https://jp.linkedin.com/in/%E9%9A%BC%E9%A3%9B-%E5%B2%A1%E7%94%B0-51b9683a7",
+    "https://jp.linkedin.com/school/長野工業高等専門学校/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com 長野工業高等専門学校",
+   "results": [
+    "https://www.facebook.com/naganokosen/",
+    "https://es-es.facebook.com/pages/%E9%95%B7%E9%87%8E%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1/174486742673484",
+    "https://www.facebook.com/145861922119245",
+    "https://www.facebook.com/nnctj/?locale=ja_JP",
+    "https://es-la.facebook.com/pages/%E9%95%B7%E9%87%8E%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1/174486742673484",
+    "https://pl-pl.facebook.com/pages/%E9%95%B7%E9%87%8E%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1/174486742673484",
+    "https://www.facebook.com/syungo.okuda/",
+    "https://sw-ke.facebook.com/pages/%E9%95%B7%E9%87%8E%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1/174486742673484",
+    "https://www.facebook.com/noriyasu.kitazawa/",
+    "https://www.facebook.com/長野工業高等専門学校-145861922119245/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "長野工業高等専門学校 note 社長",
+   "results": [
+    "https://note.com/mamezou_info/n/nc25590ebdc60",
+    "https://yrp.co.jp/naganokousen_1106/",
+    "https://www.niad.ac.jp/media/006/201904/no6_1_3_nagano_k201903_.pdf",
+    "https://note.com/airportmanjapan/n/nadccde336f06",
+    "https://www.nagano-nct.ac.jp/",
+    "https://news.kddi.com/kddi/corporate/newsrelease/2021/03/08/5002.html",
+    "https://ja.wikipedia.org/wiki/%E9%95%B7%E9%87%8E%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1",
+    "https://nagano-nct.repo.nii.ac.jp/",
+    "https://gekkan-kosen.com/post-kosen/%E9%95%B7%E9%87%8E%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1/",
+    "https://ja.wikipedia.org/wiki/長野工業高等専門学校"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "長野工業高等専門学校 X 投稿",
+   "results": [
+    "https://www.nagano-nct.ac.jp/",
+    "https://x.com/itm_nlab/status/1679450599580893186",
+    "https://gekkan-kosen.com/post-kosen/%E9%95%B7%E9%87%8E%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1/",
+    "https://nagano-nct.repo.nii.ac.jp/",
+    "https://www.minkou.jp/hischool/school/review/16654/",
+    "https://www.chisou.go.jp/sousei/internship/university/detail/20_nagano/20_tec_01001.html",
+    "https://www.cus-nagano.jp/network/6365/",
+    "https://www.youtube.com/shorts/--asAwrRcEw",
+    "https://www.instagram.com/nagano_choko_official/",
+    "https://www.facebook.com/naganokosen/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "資本金": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部19頁・検索12回）",
+  "創業年度": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部19頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部19頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部19頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部19頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部19頁・検索12回）",
+  "使っている金属粉（材質）": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部19頁・検索12回）"
+ }
+}

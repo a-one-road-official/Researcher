@@ -1,0 +1,604 @@
+{
+ "name": "株式会社アクトプローブ",
+ "aliases": [],
+ "context": "PBF=unknown 装置= 出典=https://www.act-pr.co.jp/report/",
+ "researched_at": "2026-11-10T20:36:02.767755+00:00",
+ "official_url": "https://www.act-pr.co.jp/",
+ "identified_by": "search:yahoo_jp:アクトプローブ",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "埼玉県さいたま見沼区東門前1-2-514",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000008270.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "埼玉県さいたま見沼区東門前1-2-514",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000008270.html",
+    "pass": 3
+   },
+   {
+    "label": "本社住所",
+    "value": "〒330-0854 埼玉県さいたま市大宮区桜木町462",
+    "url": "https://baseconnect.in/companies/3b0c9ea1-e3c6-4410-9bfd-5bca8040f59b",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "埼玉県鴻巣市大間4-22-23",
+    "url": "https://baseconnect.in/companies/3b0c9ea1-e3c6-4410-9bfd-5bca8040f59b",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "埼玉県川口市戸塚東４丁目２６番２５号",
+    "url": "https://baseconnect.in/companies/3b0c9ea1-e3c6-4410-9bfd-5bca8040f59b",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "埼玉県さいたま市浦和区常盤３−１２−２７",
+    "url": "https://baseconnect.in/companies/3b0c9ea1-e3c6-4410-9bfd-5bca8040f59b",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "埼玉県さいたま市北区日進町３丁目４８５番地２",
+    "url": "https://baseconnect.in/companies/3b0c9ea1-e3c6-4410-9bfd-5bca8040f59b",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "埼玉県さいたま市緑区大字三室2202-3",
+    "url": "https://baseconnect.in/companies/3b0c9ea1-e3c6-4410-9bfd-5bca8040f59b",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "埼玉県吉川市きよみ野4-1-6 サンクタススクエアきよみ野608",
+    "url": "https://baseconnect.in/companies/3b0c9ea1-e3c6-4410-9bfd-5bca8040f59b",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "埼玉県所沢市大字下安松1510-4 605",
+    "url": "https://baseconnect.in/companies/3b0c9ea1-e3c6-4410-9bfd-5bca8040f59b",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "埼玉県さいたま市岩槻区大字上野3-9-5",
+    "url": "https://baseconnect.in/companies/3b0c9ea1-e3c6-4410-9bfd-5bca8040f59b",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "埼玉県桶川市若宮1-8-31",
+    "url": "https://baseconnect.in/companies/3b0c9ea1-e3c6-4410-9bfd-5bca8040f59b",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "埼玉県さいたま市中央区本町東4-18-1",
+    "url": "https://baseconnect.in/companies/3b0c9ea1-e3c6-4410-9bfd-5bca8040f59b",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "100万円",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000008270.html",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "100万円",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000008270.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2013年02月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000008270.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2013年02月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000008270.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "0人",
+    "url": "https://baseconnect.in/companies/3b0c9ea1-e3c6-4410-9bfd-5bca8040f59b",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "進化する金属3Dプリンター市場の近未来展望 2015年版",
+    "url": "https://www.act-pr.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "～モノづくり現場を大きく進化させる「金属積層造形技術」の今後の市場展望を大胆予測～～",
+    "url": "https://www.act-pr.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形に関連する国内外の最新のマーケット動向、技術動向について幅広い視点から情報収集を行い、リアルタイムでの情報提供を行います",
+    "url": "https://www.act-pr.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3DプリンターによるMetal Additive Manufacturingの現在の最新情報と装置、材料、加工についての市場規模について調査・分析を行ったレポートです",
+    "url": "https://www.act-pr.co.jp/topics/detail/id=106",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンター市場の調査結果 | 株式会社アクトプローブのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000008270.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター市場の調査結果",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000008270.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター装置（金属積層造型装置）のワールドワイドの出荷台数は2020年に2013年の約2.4倍の285台、出荷金額は325億円まで急成長する見込み！また、材料の出荷数量も2020年に2013年の約1.8倍の310トン、出荷金額は140億円が見込まれる！",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000008270.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アクトプローブ（本社：東京都中野区、代表取締役社長：紙 武司）では金属3Dプリンター（金属積層造型）に関して、装置、材料及び、サービスビューロについての市場調査及び分析を行った",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000008270.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター装置（金属積層造型装置）のワールドワイド市場規模は2013年、数量ベースで120台（累計945台）となった",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000008270.html",
+    "pass": 3
+   },
+   {
+    "quote": "結果、装置の出荷台数は2020年に2013年の約2倍の235台、出荷金額は268億円まで拡大すると見込まれる",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000008270.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、もう一つのケース“Case2”では装置の造型速度が現行に比べて50％近くアップし、尚かつ装置コストが20％以上ダウンした場合で、この場合は装置の出荷台数は2020年に2013年の約2.4倍の285台、出荷金額は325億円まで拡大すると見込まれる",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000008270.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター装置のワールドワイド市場規模予測2013～2020年 ”Case2”",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000008270.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの国内サービスビューロは増加傾向に | 株式会社アクトプローブのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000008270.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの国内サービスビューロは増加傾向に",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000008270.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アクトプローブ（本社：さいたま市大宮区、代表取締役社長：紙 武司）では金属3Dプリンター（金属積層造形）に関して、装置、材料及び、サービスビューロについての最新動向を調査し、その分析を行った",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000008270.html",
+    "pass": 3
+   },
+   {
+    "quote": "昨年以降、国内において金属積層造形装置を使用した造形サービスを行うサービスビューロの新規参入が相次いだ",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000008270.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在、国内で金属積層造形のサービスビューロ事業を行っているのは20社に満たない",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000008270.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、この中で金属積層造形のサービスビューロとして新たに会社を設立したのは数社しかなく、残りはビューロ事業以外に本業を持っている企業である",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000008270.html",
+    "pass": 3
+   },
+   {
+    "quote": "一昨年から続いた金属積層造形ブームに加えて国の補助金制度を活用して装置の導入を進め、新たなビジネスチャンスに期待して事業参入したサービスビューロも多い",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000008270.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、その一方で、ビューロ間の競争を勝ち抜いていくためには装置の買換えや新規購入、周辺機器の整備といった品質向上のための設備導入やスタッフの補充等新たなハード、ソフト面の設備投資が必要になることも事実である",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000008270.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省が提供する gBizINFO(Gビズインフォ) は、政府保有の法人情報を法人番号に紐づけてデータ整理を行い、２次利用可能なオープンデータとして情報提供するサイトです",
+    "url": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1011201016436",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形市場の調査レポートや季刊誌「MAMトレンド」を刊行する会社",
+    "url": "https://baseconnect.in/companies/3b0c9ea1-e3c6-4410-9bfd-5bca8040f59b",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形市場に関する調査レポートの発行、個別調査の受託、季刊誌「MAMトレンド」の刊行を手掛ける",
+    "url": "https://baseconnect.in/companies/3b0c9ea1-e3c6-4410-9bfd-5bca8040f59b",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター市場や次世代自動車の高強度・軽量化材料市場の現状と将来展望を調査・提供する",
+    "url": "https://baseconnect.in/companies/3b0c9ea1-e3c6-4410-9bfd-5bca8040f59b",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "～造形方式、材料のバリエーションが多様化し、受託造形市場が活性化している金属AM市場の将来予測を行う～",
+    "url": "https://www.act-pr.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【次世代自動車 材料】 次世代自動車の高強度・軽量化材料市場展望 2013～2025",
+    "url": "https://www.act-pr.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "最初のケース“Case1”では装置の性能、コスト、造型材料のバリエーションが現行装置と大きく変化しないと仮定した場合であり、この場合はこれまでと同じく医療、航空機需要を中心にして潜在市場の開拓によって市場は一定の拡大が期待できる",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000008270.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター市場や次世代自動車の高強度・軽量化材料市場の現状と将来展望を調査・提供する",
+    "url": "https://baseconnect.in/companies/3b0c9ea1-e3c6-4410-9bfd-5bca8040f59b",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式 会社アクトプローブ — 株式 会社アクトプローブ 株式会社アクトプローブ https://www.act-pr.co.jp",
+    "url": "https://www.act-pr.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "最新 Metal Additive Manufacturing市場の現状と将来展望 ... — 最新 Metal Additive Manufacturing市場の現状と将来展望 ... 株式会社アクトプローブ https://www.act-pr.co.jp > report_detail",
+    "url": "https://www.act-pr.co.jp/report_detail/id=",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アクトプローブ | 1011201016436 | gBizINFO — 法人番号 1011201016436 法人名 株式会社アクトプローブ 法人名ふりがな 法人名英語 本店所在地 埼玉県さいたま市見沼区大字東門前1番地2（514）",
+    "url": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1011201016436",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査会社・市場動向のリサーチ会社｜株式会社アクトプローブ — Introduction会社紹介 当社は、調査企画、フィールド調査、調査結果の分析、報告といった一連の業務を長年経験したプロの調査員が独自のリサーチ方法、専門性を活かした調査を行い、クライアントである企業に役立つ情報を提供することを常に考えています。",
+    "url": "https://www.act-pr.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アクトプローブ - 埼玉県・調査・検査・研究業界の企業情報 |... — 株式会社アクトプローブ（埼玉県さいたま市）の企業情報ページ。 調査・検査・研究業界の会社・従業員数0名。 事業内容・役員・連絡先をBaseconnectで確認できます。",
+    "url": "https://baseconnect.in/companies/3b0c9ea1-e3c6-4410-9bfd-5bca8040f59b",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査会社・市場動向のリサーチ会社｜株式会社アクトプローブ — 2023/03/10 最新 Metal Additive Manufacturing市場の現状と将来展望【2023年版】刊行予定のお知らせ 2020/05/25 Metal Additive Manufacturing 市場の将来展望 2020年版【市場編】刊行のお知らせ Contact お問い合わせ 株式会社アクトプローブ 代表取締役 紙 武司",
+    "url": "https://www.act-pr.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アクトプローブ (埼玉県さいたま市見沼区)の企業情報|カイシ... — 株式会社アクトプローブの決算情報を調べたい（上場企業・一部の大企業のみ対応） 金融庁が公開する「EDINET」から検索することができます。 検索方法 書類検索 > 書類詳細検索 から 提出者法人番号の欄に「1011201016436」を入力して検索してください。",
+    "url": "https://kaisharesearch.com/company/detail/1011201016436/",
+    "pass": 3
+   },
+   {
+    "quote": "アクトプローブ の企業情報 | バフェット・コード — 株式会社アクトプローブは、企業向けに市場動向調査と調査レポートの販売、並びに個別の受託調査を行うリサーチ会社です。調査企画、国内外のフィールド調査、データ分析、報告書作成までを一貫して提供し、20年以上の経験を持つプロの調査員が独自手法で実地調査を重視した情報を作成 ...",
+    "url": "https://www.buffett-code.com/company/1zmjvwrbi2/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.act-pr.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.act-pr.co.jp/about_us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.act-pr.co.jp/topics/detail/id=112",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.act-pr.co.jp/topics/detail/id=111",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.act-pr.co.jp/topics/detail/id=110",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.act-pr.co.jp/topics/detail/id=107",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.act-pr.co.jp/topics/detail/id=106",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://actele.co.jp/company/%E4%BC%9A%E7%A4%BE%E6%B2%BF%E9%9D%A9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://actpro.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000008270.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000008270.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dmgmori.co.jp/sp/am/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1011201016436",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://actpro.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baseconnect.in/companies/3b0c9ea1-e3c6-4410-9bfd-5bca8040f59b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1011201016436",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アクトプローブ",
+   "results": [
+    "https://www.act-pr.co.jp/",
+    "https://www.kla.com/ja/products/instruments/filmetrics-accessories/contact-probes",
+    "https://actele.co.jp/",
+    "https://www.actact.com/",
+    "https://www.marubeni-idigio.com/product/gom/metrology-systems/gom-touch-probe/",
+    "http://rikadenshi.com/products/probe/",
+    "https://compalyze.co.jp/company/1011201016436",
+    "https://actpro.co.jp/company/",
+    "https://www.buffett-code.com/company/1zmjvwrbi2/",
+    "https://data-link-plus.com/jp/corporation/1011201016436"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "アクトプローブ 会社概要 資本金 設立",
+   "results": [
+    "https://www.act-pr.co.jp/",
+    "https://actele.co.jp/company/%E4%BC%9A%E7%A4%BE%E6%B2%BF%E9%9D%A9/",
+    "https://actpro.co.jp/company/",
+    "https://www.actglobal.jp/aboutus.html",
+    "https://www.act-plus.co.jp/company.html",
+    "https://www.actbrain.jp/corp_profile/history/index.html",
+    "https://metoree.com/companies/19860/",
+    "https://www.buffett-code.com/company/1zmjvwrbi2/",
+    "https://at-act.jp/company/",
+    "https://ap.actpro.co.jp/company/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "アクトプローブ 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.act-pr.co.jp/report_detail/id=",
+    "https://prtimes.jp/main/html/rd/p/000000002.000008270.html",
+    "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://www.youtube.com/watch?v=Ew517KG1bOI",
+    "https://ngpd.nikon.com/material-processing/additive-manufacturing/",
+    "https://www.act-pr.co.jp/",
+    "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "https://canon.jp/biz/product/indtech/3dpsolution/3dsystems/3d-metal-print/about",
+    "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "アクトプローブ 金属積層造形 設備",
+   "results": [
+    "https://www.act-pr.co.jp/report_detail/id=",
+    "https://prtimes.jp/main/html/rd/p/000000003.000008270.html",
+    "https://www.dmgmori.co.jp/sp/am/",
+    "https://ja.3dsystems.com/rapidly-adopt-and-scale-metal-additive-manufacturing",
+    "https://jampt.jp/equipment/",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://kyowa-industrial.jp/am/capabilities",
+    "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "https://www.act-pr.co.jp/",
+    "https://www.jfe-steel.co.jp/products/solution/metal-3d-printing/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "アクトプローブ 株主 出資 親会社",
+   "results": [
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1011201016436",
+    "https://www.act-pr.co.jp/",
+    "https://actpro.co.jp/company/",
+    "https://www.nihon-ma.co.jp/news/20241224_9166-23/",
+    "https://genda.jp/wp-content/themes/genda/assets/20250207_notice.pdf?v=20250609065253",
+    "https://impro-ve.com/news/株式会社アクトプロホールディングスとの資本提/",
+    "https://actpro.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "アクトプローブ 売上高 従業員数",
+   "results": [
+    "https://baseconnect.in/companies/3b0c9ea1-e3c6-4410-9bfd-5bca8040f59b",
+    "https://www.act-pr.co.jp/",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1011201016436",
+    "https://kaisharesearch.com/company/detail/1011201016436/",
+    "https://www.buffett-code.com/company/1zmjvwrbi2/",
+    "https://alarmbox.jp/companyinfo/entities/1011201016436",
+    "https://actpro.co.jp/company/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com アクトプローブ",
+   "results": [
+    "https://note.com/proactlaw",
+    "https://note.com/actrevlog",
+    "https://note.com/akira_umapro",
+    "https://note.com/qy_research/n/n622ce297bef5",
+    "https://note.com/pumonmon/n/nfccede86747c",
+    "https://note.com/msk_us_lab_2024/n/nae048f6c350a",
+    "https://note.com/qy_research/n/n441e143682da"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com アクトプローブ",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com アクトプローブ",
+   "results": [
+    "https://jp.linkedin.com/pulse/ai-executive-brief-rob-murphy-eecze?tl=ja",
+    "https://www.linkedin.com/",
+    "https://www.linkedin.com/posts/riawe_actprobe-action-space-probe-for-early-failure-activity-7474330372084805632-QEdY",
+    "https://il.linkedin.com/in/kobymymon",
+    "https://eg.linkedin.com/in/yhesham",
+    "https://jp.linkedin.com/pulse/agentic-ai-pentesters-future-just-really-fast-interns-bise--haxif?tl=ja",
+    "https://pt.linkedin.com/in/marianabslaranjo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com アクトプローブ",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "アクトプローブ note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.act-pr.co.jp/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/sadaaki",
+    "https://actpro.co.jp/company/",
+    "https://xtech.nikkei.com/dm/atcl/column/15/388500/052000013/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "アクトプローブ X 投稿",
+   "results": [
+    "https://www.act-pr.co.jp/",
+    "https://www.gamespark.jp/article/2026/10/20/173854.html",
+    "https://x.com/actpro_official",
+    "https://x.com/actlabo_2024/status/2069370375923023971",
+    "https://tansajp.org/investigativejournal/13936/",
+    "http://sac1999.com/",
+    "http://www.act-net.jp/dvd_s.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部10頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部10頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部10頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部10頁・検索12回）",
+  "使っている金属粉（材質）": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部10頁・検索12回）",
+  "資本金・株主": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部10頁・検索12回）"
+ }
+}

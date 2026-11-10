@@ -1,0 +1,1752 @@
+{
+ "name": "株式会社酉島製作所",
+ "aliases": [],
+ "context": "PBF=unknown 装置= 出典=https://news.sharelab.jp/3dp-news/metal-3dprinter/torishima-metal-am-pump-impeller-260811/",
+ "researched_at": "2026-11-10T20:40:37.687097+00:00",
+ "official_url": "https://www.torishima.co.jp/",
+ "identified_by": "search:yahoo_jp:酉島製作所",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "創業",
+    "value": "創業：1919年（大正8年）8月1日",
+    "url": "https://www.torishima.co.jp/outline/olinfo/au/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1919年8月1日",
+    "url": "https://www.torishima.co.jp/news/2026/10/29/ai_1/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：2008年8月8日",
+    "url": "https://www.torishima.co.jp/news/2026/10/29/ai_1/",
+    "pass": 1
+   },
+   {
+    "label": "設立年月日",
+    "value": "設立年月日：1928年4月20日",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6363",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1919年08月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000032.000136252.html",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "〒569-8660 大阪府高槻市宮田町一丁目1番8号 →地図を見る",
+    "url": "https://www.torishima.co.jp/outline/olinfo/au/",
+    "pass": 1
+   },
+   {
+    "label": "株式会社酉島製作所（本社",
+    "value": "大阪府高槻市、代表取締役CEO：原田耕太郎、以下：酉島製作所）とブレインズテクノロジー株式会社（本社：東京都港区、代表取締役：濱中佐和子、以下：ブレインズテクノロジー）は、国土交通省が推進する「河川機械設備（排水機場）の維持管理におけるAIモニタリングシステム」の研究開発グループ公募において、酉島製作所を代表企業とし、ブレインズテクノロジーがAI開発を担う研究開発グループが採択されたことをお知らせします",
+    "url": "https://www.torishima.co.jp/news/2026/10/29/ai_1/",
+    "pass": 1
+   },
+   {
+    "label": "本社住所",
+    "value": "〒569-8660 大阪府高槻市宮田町１－１－８ 地図",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6363",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "大阪府高槻市宮田町一丁目1番8号",
+    "url": "https://prtimes.jp/main/html/rd/p/000000032.000136252.html",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "15億93百万円",
+    "url": "https://www.torishima.co.jp/outline/olinfo/au/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "1,592(百万円) \n                                            (2026/3現在) \n                                            日本基準",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6363",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "15億9300万円",
+    "url": "https://prtimes.jp/main/html/rd/p/000000032.000136252.html",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "929億27百万円 （2025年度連結）",
+    "url": "https://www.torishima.co.jp/outline/olinfo/au/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "2,127名（内単体1,040名） （2026年3月31日現在）",
+    "url": "https://www.torishima.co.jp/outline/olinfo/au/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "1,040 人",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6363",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "【ポンプ事業】 ポンプ、ポンププラント、メカニカルシール、その他ポンプ関連機器の製造・販売及び据付工事・サービスなど",
+    "url": "https://www.torishima.co.jp/outline/olinfo/au/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "本補助金の活用やスーパーエコポンプの導入をご検討の際は、ぜひお気軽にご相談ください",
+    "url": "https://www.torishima.co.jp/jp/ecopump/news/vol102.html",
+    "pass": 1
+   },
+   {
+    "quote": "「TR-COM（回転機械モニタリングシステム）」の大規模導入で省力化・省人化を実現",
+    "url": "https://www.torishima.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタで、納期短縮と長寿命化を実現！ ～ 老朽化ポンプの整備に、最新AM技術の活用を拡大中～",
+    "url": "https://www.torishima.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ボイラ給水ポンプの予備機保有で安定した電力供給に貢献",
+    "url": "https://www.torishima.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "横浜市水道局が実施するICT技術導入の実証実験にTR-COMが採用され、技術者不足の課題解決に貢献",
+    "url": "https://www.torishima.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "大同特殊鋼株式会社 知多工場にTR-COMシステムを導入",
+    "url": "https://www.torishima.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "クリーンエネルギー技術を導入した発電所向け主要ポンプを受注",
+    "url": "https://www.torishima.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "先進技術導入の国際化に伴い西ドイツの世界的ポンプメーカーと技術提携",
+    "url": "https://www.torishima.co.jp/outline/olinfo/history/",
+    "pass": 1
+   },
+   {
+    "quote": "先進技術導入の国際化に伴い西ドイツの世界的ポンプメーカーと技術提携",
+    "url": "https://www.torishima.co.jp/ir/abouttorishima/",
+    "pass": 1
+   },
+   {
+    "quote": "AI異常検知ソリューション「Impulse」や企業内検索エンジン「Neuron ES」に加え、専門的で複雑な業務の認識・判断・実行を支援する「業務特化型AIエージェント Industrial AI Agent」、AIによる認識・判断・動作制御とロボットの現場導入を支援する「フィジカルAI 現場実装・ロボット導入支援サービス」を展開しています",
+    "url": "https://www.torishima.co.jp/news/2026/10/29/ai_1/",
+    "pass": 1
+   },
+   {
+    "quote": "公式ガイドブックには、水害から街と暮らしを守る耐水モータ一体型ポンプの技術や、国内外での導入事例が分かりやすくご紹介されています",
+    "url": "https://www.torishima.co.jp/news/2026/10/21/post_74/",
+    "pass": 1
+   },
+   {
+    "quote": "保有している株式、投資信託、現預金を5フォルダに分けて登録しておくことで、効率よく資産管理ができます",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6363",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタで、納期短縮と長寿命化を実現！ | 株式会社酉島製作所のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000032.000136252.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンタで、納期短縮と長寿命化を実現！",
+    "url": "https://prtimes.jp/main/html/rd/p/000000032.000136252.html",
+    "pass": 3
+   },
+   {
+    "quote": "この課題に対し、トリシマでは金属積層と5軸削り出しを1台で実現するハイブリッドAM機（DMG MORI精機製 Lasertec 65 3D）を導入",
+    "url": "https://prtimes.jp/main/html/rd/p/000000032.000136252.html",
+    "pass": 3
+   },
+   {
+    "quote": "AM製インペラをインフラ設備に導入するにあたり、トリシマでは学術機関等と連携し、徹底した品質検証を行いました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000032.000136252.html",
+    "pass": 3
+   },
+   {
+    "quote": "老朽化したポンプの主要部品を金属3Dプリンタで一体造形、納期を3分の1に短縮：3Dプリンタニュース - MONOist",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/07/news015.html",
+    "pass": 3
+   },
+   {
+    "quote": "老朽化したポンプの主要部品を金属3Dプリンタで一体造形、納期を3分の1に短縮",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/07/news015.html",
+    "pass": 3
+   },
+   {
+    "quote": "同社はこの課題に対応するため、金属積層と5軸切削を1台で行うDMG森精機のハイブリッドAM機「LASERTEC 65 3D」を導入",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/07/news015.html",
+    "pass": 3
+   },
+   {
+    "quote": "保有している株式、投資信託、現預金を5フォルダに分けて登録しておくことで、効率よく資産管理ができます",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=6363",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、新しい取り組みとしては、GoogleのGeminiというAIも導入し始めています",
+    "url": "https://finance.logmi.jp/articles/381668",
+    "pass": 3
+   },
+   {
+    "quote": "SANKYO、上期業績は通期計画に沿って進捗 下期は多様な商品ラインナップの展開により販売台数の積み上げを目指す",
+    "url": "https://finance.logmi.jp/articles/381668",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、大型・高圧ポンプを製造できる世界でも数少ないポンプメーカーとして世界100ヶ国以上にポンプを導入、同社のなかでももっとも高圧力のポンプは、富士山より高い4,200mまで水を上げられ、発電所の中でも重要な役割を担うボイラ給水ポンプとして活躍している",
+    "url": "https://note.com/fisco_jp/n/nb2eb95eb031c",
+    "pass": 3
+   },
+   {
+    "quote": "米国の大手航空機メーカー: ボーイングやロッキード・マーティンなどは、自社のロケットエンジン用に独自のポンプ技術を保有しています",
+    "url": "https://note.com/good_dill292/n/n5ea028cf2d9a",
+    "pass": 3
+   },
+   {
+    "quote": "一度トリシマ製のポンプがプラントに導入されると、顧客はその後のメンテナンスサイクルにおいて同社に依存する傾向が強まります",
+    "url": "https://note.com/open_azalea2045/n/n6c9c7a598852",
+    "pass": 3
+   },
+   {
+    "quote": ": ポンプの詳細な設計図書や性能データはメーカーが保有しています",
+    "url": "https://note.com/open_azalea2045/n/n6c9c7a598852",
+    "pass": 3
+   },
+   {
+    "quote": "長期保有に値する企業は、嵐の日にも耐えうる強固な財務基盤を持っていなければなりません",
+    "url": "https://note.com/open_azalea2045/n/n6c9c7a598852",
+    "pass": 3
+   },
+   {
+    "quote": ": トリシマは歴史的な経緯から、取引先等の株式を保有しています",
+    "url": "https://note.com/open_azalea2045/n/n6c9c7a598852",
+    "pass": 3
+   },
+   {
+    "quote": "これら保有株式の売却が進めば、キャッシュインフローが生じ、自社株買いや増配の原資となります",
+    "url": "https://note.com/open_azalea2045/n/n6c9c7a598852",
+    "pass": 3
+   },
+   {
+    "quote": ": 大阪の本社工場などは長年保有しており、帳簿価額は時価よりも低い可能性があります",
+    "url": "https://note.com/open_azalea2045/n/n6c9c7a598852",
+    "pass": 3
+   },
+   {
+    "quote": "また、政策保有株式の売却を進め、その資金を成長投資（海外サービス拠点の拡充など）や自社株買いに充てるという循環も機能し始めています",
+    "url": "https://note.com/open_azalea2045/n/n6c9c7a598852",
+    "pass": 3
+   },
+   {
+    "quote": "田舎に住む40代独身男の投資メモと暇コラム（良い銘柄を中長期保有するだけの戦略）",
+    "url": "https://note.com/tag/%E9%85%89%E5%B3%B6%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "経済産業省資源エネルギー庁が企画・予算元となり、一般社団法人環境共創イニシアチブ(SII)が運営を務めています",
+    "url": "https://www.torishima.co.jp/jp/ecopump/news/vol102.html",
+    "pass": 1
+   },
+   {
+    "quote": "台湾の大型LNG受入基地国家プロジェクトを支える ― アジアのエネルギーインフラ構築への貢献",
+    "url": "https://www.torishima.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "世界省エネルギー等ビジネス推進協議会の「国際展開 技術集2026」に掲載されました",
+    "url": "https://www.torishima.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "クリーンエネルギーで未来を支えるEntergy社の火力発電所向けポンプを連続受注",
+    "url": "https://www.torishima.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "クリーンエネルギー技術を導入した発電所向け主要ポンプを受注",
+    "url": "https://www.torishima.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "トリシマは、最新のCFD（流体解析）を駆使して、水がポンプの中をエネルギーロスなく流れるようデザインし、ポンプの高効率化を追求",
+    "url": "https://www.torishima.co.jp/ir/abouttorishima/",
+    "pass": 1
+   },
+   {
+    "quote": "アンモニアは次世代エネルギーとしても注目されていますが、漏れると危険なためその製造には高度な技術が必要です",
+    "url": "https://www.torishima.co.jp/ir/abouttorishima/",
+    "pass": 1
+   },
+   {
+    "quote": "使用するポンプやモータにエネルギー効率が高い製品を採用し、機器そのものの省エネ効果を向上させます",
+    "url": "https://www.torishima.co.jp/news/2026/08/28/post_68/",
+    "pass": 1
+   },
+   {
+    "quote": "海水を真水に変える海水淡水プラント、巨大なエネルギーを生み出す発電所の心臓部",
+    "url": "https://job.mynavi.jp/28/pc/search/corp271478/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "流体解析技術（CFD）を駆使して水の流れを最適化し、徹底したポンプ高効率化を実現（省エネルギー推進）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp271478/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "横浜市医療局(横浜市立市民病院,横浜市立脳卒中・神経脊椎センター)",
+    "url": "https://job.mynavi.jp/28/pc/search/corp271478/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "従来の鋳造技術では、製品重量の約1.5〜3倍の溶けた金属を消費（湯口や押し湯などの廃材が発生）し、材料・エネルギー双方のロスが多いことが課題でした",
+    "url": "https://prtimes.jp/main/html/rd/p/000000032.000136252.html",
+    "pass": 3
+   },
+   {
+    "quote": "名古屋工芸は、自動車のヘッドランプ由来の樹脂廃材を再資源化して製作した3Dプリント部品が、鈴鹿8時間耐久ロードレースに参戦するHonda Tochigi Racingの車両に採用されたと発表した",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/07/news015.html",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙空間で3Dプリント、東レ代表のプロジェクトがJAXA宇宙戦略基金に採択",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/07/news015.html",
+    "pass": 3
+   },
+   {
+    "quote": "東レは、同社を代表機関とするプロジェクト「宇宙空間向け高機能樹脂材料、軌道上での3D積層造形技術の創出」が、JAXAの宇宙戦略基金事業に採択されたと発表した",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/07/news015.html",
+    "pass": 3
+   },
+   {
+    "quote": "慶應義塾、アスペクト、エス.ラボと連携し、宇宙環境に適応する高機能樹脂材料と3D積層造形技術の開発に取り組む",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/07/news015.html",
+    "pass": 3
+   },
+   {
+    "quote": "AMを「試作」から「量産」へ、樹脂と金属の技術を持つ2社が連携",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/07/news015.html",
+    "pass": 3
+   },
+   {
+    "quote": "繰り返しになりますが、今、仕事はたくさんいただいている中で、社会課題としてあるのは、地球温暖化であったり、エネルギー転換であったり、気候変動による雨の降り方がひどくなってきていたり、あるいは雨が降らずに水が不足していたり、食料が足りなかったりなど、いろいろな分野で仕事はありますので、その仕事をしっかりと形に変えていくことが、この5年間の「ステップ期間」の課題になります",
+    "url": "https://finance.logmi.jp/articles/381668",
+    "pass": 3
+   },
+   {
+    "quote": "これは自動車会社、特にトヨタさんなんかがよくやっている方法なのですが、もっと上流で品質を決めてしまう、あるいは、お客さまの仕様を確定させてしまおう、という考え方です",
+    "url": "https://finance.logmi.jp/articles/381668",
+    "pass": 3
+   },
+   {
+    "quote": "何度もお話ししているように、地球規模の課題として、CO2の増加や温暖化、エネルギー転換、異常気象、インフラの老朽化、水不足、食料不足があります",
+    "url": "https://finance.logmi.jp/articles/381668",
+    "pass": 3
+   },
+   {
+    "quote": "これから再生エネルギーの本格的な立ち上がりはやはり2030年以降になりますので、その前に第4のエネルギーとしてもっとポンプで省エネしてほしいという期待を受けてこのような賞をいただいたと思っていますし、これをサービスに使っていきたいと思っています",
+    "url": "https://finance.logmi.jp/articles/381668",
+    "pass": 3
+   },
+   {
+    "quote": "②次世代エネルギー用ポンプの提供（アンモニアポンプ）",
+    "url": "https://finance.logmi.jp/articles/381668",
+    "pass": 3
+   },
+   {
+    "quote": "IDEC、半導体装置向け制御機器の需要拡大で上期増収増益 上期受注高は過去最高、通期業績予想を上方修正",
+    "url": "https://finance.logmi.jp/articles/381668",
+    "pass": 3
+   },
+   {
+    "quote": "CFD（流体解析）を駆使した高効率ポンプの設計・製造を通じ、プラント全体のエネルギー効率改善に寄与する技術力を有している",
+    "url": "https://note.com/fisco_jp/n/nb2eb95eb031c",
+    "pass": 3
+   },
+   {
+    "quote": "アンモニアを取り扱う新領域でのポンプの高機能化にも取り組み、将来のエネルギー転換に対応する製品開発を進める",
+    "url": "https://note.com/fisco_jp/n/nb2eb95eb031c",
+    "pass": 3
+   },
+   {
+    "quote": "中長期ベースでは、水素やCO₂といった次世代エネルギー源に対応するポンプの研究開発を推進、これらの製品を将来的に市場投入",
+    "url": "https://note.com/fisco_jp/n/nb2eb95eb031c",
+    "pass": 3
+   },
+   {
+    "quote": "大好き 宇宙関連株（010）ポンプで世界を救う【酉島製作所】概要｜まさ",
+    "url": "https://note.com/good_dill292/n/n5ea028cf2d9a",
+    "pass": 3
+   },
+   {
+    "quote": "大好き 宇宙関連株（010）ポンプで世界を救う【酉島製作所】概要",
+    "url": "https://note.com/good_dill292/n/n5ea028cf2d9a",
+    "pass": 3
+   },
+   {
+    "quote": "まずは小学生の時から憧れている「宇宙」に関連した企業について調べてみます",
+    "url": "https://note.com/good_dill292/n/n5ea028cf2d9a",
+    "pass": 3
+   },
+   {
+    "quote": "新エネルギー・環境事業: 再生可能エネルギー関連のポンプや、環境負荷の少ないポンプの開発に取り組んでいます",
+    "url": "https://note.com/good_dill292/n/n5ea028cf2d9a",
+    "pass": 3
+   },
+   {
+    "quote": "酉島製作所は、ポンプの専門メーカーとして知られていますが、近年では宇宙開発という新たな分野にも挑戦しています",
+    "url": "https://note.com/good_dill292/n/n5ea028cf2d9a",
+    "pass": 3
+   },
+   {
+    "quote": "酉島製作所の強みであるポンプ技術は、宇宙開発においても重要な役割を果たしています",
+    "url": "https://note.com/good_dill292/n/n5ea028cf2d9a",
+    "pass": 3
+   },
+   {
+    "quote": "酉島製作所が宇宙開発分野に参入した背景には、以下の点が挙げられます",
+    "url": "https://note.com/good_dill292/n/n5ea028cf2d9a",
+    "pass": 3
+   },
+   {
+    "quote": "低炭素社会の実現: 水素エネルギーは、次世代のエネルギー源として期待されており、その活用には高効率なポンプ技術が不可欠です",
+    "url": "https://note.com/good_dill292/n/n5ea028cf2d9a",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙開発で培われた技術は、地上での水素社会実現にも貢献できると考えられています",
+    "url": "https://note.com/good_dill292/n/n5ea028cf2d9a",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙開発は、高い技術力が求められる成長分野であり、酉島製作所の技術力を活かせる場として注目されています",
+    "url": "https://note.com/good_dill292/n/n5ea028cf2d9a",
+    "pass": 3
+   },
+   {
+    "quote": "日本の宇宙開発への貢献: 日本の宇宙開発は、世界でも高いレベルにあり、酉島製作所は、その一翼を担うことで、日本の技術力の向上に貢献したいと考えています",
+    "url": "https://note.com/good_dill292/n/n5ea028cf2d9a",
+    "pass": 3
+   },
+   {
+    "quote": "酉島製作所は、液化水素昇圧ポンプの開発だけでなく、宇宙空間での水処理システムや、人工衛星用の冷却システムなど、様々な分野への展開を視野に入れています",
+    "url": "https://note.com/good_dill292/n/n5ea028cf2d9a",
+    "pass": 3
+   },
+   {
+    "quote": "【宇宙関連分野での競合他社と競合する製品・技術について】",
+    "url": "https://note.com/good_dill292/n/n5ea028cf2d9a",
+    "pass": 3
+   },
+   {
+    "quote": "酉島製作所の宇宙関連分野における競合と差別化",
+    "url": "https://note.com/good_dill292/n/n5ea028cf2d9a",
+    "pass": 3
+   },
+   {
+    "quote": "酉島製作所は、宇宙関連分野において、特に液化水素昇圧ポンプの開発に力を入れています",
+    "url": "https://note.com/good_dill292/n/n5ea028cf2d9a",
+    "pass": 3
+   },
+   {
+    "quote": "防衛費の増額を背景にした航空機事業の伸びと、特装車の安定した収益が支えになっている",
+    "url": "https://note.com/kabutabi2000/n/n6ec15c0d7fb4",
+    "pass": 3
+   },
+   {
+    "quote": "上下水道、エネルギー（発電所）、海水淡水化など社会インフラ向けの大型ポンプが主力で、高温・高圧・大流量といった過酷な条件で使うポンプの設計・製造に強みを持つ",
+    "url": "https://note.com/kabutabi2000/n/n6ec15c0d7fb4",
+    "pass": 3
+   },
+   {
+    "quote": "「ハイテクポンプ」「プロジェクト」「サービス」「新エネルギー・環境」の4事業を展開",
+    "url": "https://note.com/kabutabi2000/n/n6ec15c0d7fb4",
+    "pass": 3
+   },
+   {
+    "quote": "特装車、パーキングシステム、産機・環境システム、流体、航空機の5事業を展開する輸送用機器メーカー",
+    "url": "https://note.com/kabutabi2000/n/n6ec15c0d7fb4",
+    "pass": 3
+   },
+   {
+    "quote": "航空機では国内唯一の飛行艇メーカーとして防衛省に救難飛行艇「US-2」を納入するほか、海外の航空機メーカー向けに部品も製造している",
+    "url": "https://note.com/kabutabi2000/n/n6ec15c0d7fb4",
+    "pass": 3
+   },
+   {
+    "quote": "特装車と航空機を「収益力強化事業」、流体・パーキングシステム・産機・環境システムを「成長力強化事業」と位置づけ、ROICを基準に事業ポートフォリオを管理",
+    "url": "https://note.com/kabutabi2000/n/n6ec15c0d7fb4",
+    "pass": 3
+   },
+   {
+    "quote": "新明和：特装車・駐車設備・水処理・航空機と、性格の異なる5事業を組み合わせる多角化型",
+    "url": "https://note.com/kabutabi2000/n/n6ec15c0d7fb4",
+    "pass": 3
+   },
+   {
+    "quote": "新明和の主力である特装車や航空機部品の市場規模について、本記事の比較に使える信頼できる出典は確認できなかった",
+    "url": "https://note.com/kabutabi2000/n/n6ec15c0d7fb4",
+    "pass": 3
+   },
+   {
+    "quote": "成長ドライバー：上下水道・排水機場など老朽化したインフラの更新、国土強靱化・防災、発電所や海水淡水化向けの需要、防衛費の増額",
+    "url": "https://note.com/kabutabi2000/n/n6ec15c0d7fb4",
+    "pass": 3
+   },
+   {
+    "quote": "新明和は防衛向けの航空機事業と特装車の更新需要が重なり、中計目標を達成する",
+    "url": "https://note.com/kabutabi2000/n/n6ec15c0d7fb4",
+    "pass": 3
+   },
+   {
+    "quote": "新明和：特装車、駐車設備、水処理、航空機と事業を組み合わせ、売上・利益とも過去最高を更新した",
+    "url": "https://note.com/kabutabi2000/n/n6ec15c0d7fb4",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、詳細な分析を進めると、そこには「海水淡水化」や「エネルギー効率化」という現代社会の喫緊の課題に直結するソリューションと、ビジネスモデルの質的転換（フローからストックへ）という静かなる革命が進行していることが分かります",
+    "url": "https://note.com/open_azalea2045/n/n6c9c7a598852",
+    "pass": 3
+   },
+   {
+    "quote": "エレベーター会社や航空機エンジンメーカーがその代表ですが、産業用ポンプも同様の性質を持ちます",
+    "url": "https://note.com/open_azalea2045/n/n6c9c7a598852",
+    "pass": 3
+   },
+   {
+    "quote": "ポンプ事業だけでなく、半導体製造装置（CMP装置など）が大きな収益源となっており、ハイテクサイクルの影響を強く受けます11",
+    "url": "https://note.com/open_azalea2045/n/n6c9c7a598852",
+    "pass": 3
+   },
+   {
+    "quote": "投資家として「水関連インフラ」に投資したい場合、半導体市況のノイズが入らないトリシマの方が、より純粋な選択肢となり得ます",
+    "url": "https://note.com/open_azalea2045/n/n6c9c7a598852",
+    "pass": 3
+   },
+   {
+    "quote": "【今朝の注目株】7/2 米半導体が急落、日本株の資金はどこへ逃げるか",
+    "url": "https://note.com/tag/%E9%85%89%E5%B3%B6%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "海水淡水化という「今の水問題」と、水素という「未来のエネルギー問題」の両方に技術的な橋を架けているという構造が、同社を単なる老舗ポンプメーカーと一線画す理由だ",
+    "url": "https://note.com/tatsuya_sabato/n/nf7dcdd2e929f",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "第145回 定時株主総会招集ご通知に際しての電子提供措置事項",
+    "url": "https://www.torishima.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "第145回 定時株主総会招集ご通知",
+    "url": "https://www.torishima.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "新日本造機株式会社の株式の取得（子会社）および 特定子会社の異動に関するお知らせ",
+    "url": "https://www.torishima.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「第144 回定時株主総会招集ご通知」の一部修正について",
+    "url": "https://www.torishima.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "第144回 定時株主総会招集ご通知に際しての電子提供措置事項",
+    "url": "https://www.torishima.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "第144回 定時株主総会招集ご通知",
+    "url": "https://www.torishima.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "トリシマの連結子会社Australia Fulid Handlingが、 新製造・サービス工場のオープニングセレモニーを実施",
+    "url": "https://www.torishima.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "第143回 定時株主総会招集ご通知に際しての電子提供措置事項",
+    "url": "https://www.torishima.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "第143回 定時株主総会招集ご通知",
+    "url": "https://www.torishima.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "第142回 定時株主総会招集ご通知",
+    "url": "https://www.torishima.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "第142回 定時株主総会招集ご通知に際しての電子提供措置事項",
+    "url": "https://www.torishima.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "オーストラリアのAustralia Fluid Handling Pty. Ltd.社を子会社化",
+    "url": "https://www.torishima.co.jp/outline/olinfo/history/",
+    "pass": 1
+   },
+   {
+    "quote": "トリシマの連結子会社Australia Fulid Handlingが、 新製造・サービス工場のオープニングセレモニーを実施",
+    "url": "https://www.torishima.co.jp/news/category/company/",
+    "pass": 1
+   },
+   {
+    "quote": "東京証券取引所の市場区分見直しにより、新市場区分のプライム市場上場",
+    "url": "https://job.mynavi.jp/28/pc/search/corp271478/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "【酉島製作所】[6363]企業概要 社員数や役員報酬・資本金 | 日経電子版",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6363",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業の決算発表日程や株主総会の日程を事前に確認することができます",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6363",
+    "pass": 3
+   },
+   {
+    "quote": "夢を追ったニデック、上場廃止は免れないのか",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/07/news015.html",
+    "pass": 3
+   },
+   {
+    "quote": "【酉島製作所】[6363]適時開示情報 株主総会や定款関連 | 日経電子版",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=6363",
+    "pass": 3
+   },
+   {
+    "quote": "(開示事項の経過)新日本造機株式会社の株式の取得(子会社)および通期連結業績予想の修正に関するお知らせ",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=6363",
+    "pass": 3
+   },
+   {
+    "quote": "2026年定時株主総会招集通知及び株主総会資料",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=6363",
+    "pass": 3
+   },
+   {
+    "quote": "2026年定時株主総会招集通知 電子提供措置事項",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=6363",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業の決算発表日程や株主総会の日程を事前に確認することができます",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=6363",
+    "pass": 3
+   },
+   {
+    "quote": "まず2024年度の実績と中期経営計画のレビュー、そして2025年度の見通し、株主還元に続いてトピックスについてお話するかたちで進めていきたいと思います",
+    "url": "https://finance.logmi.jp/articles/381668",
+    "pass": 3
+   },
+   {
+    "quote": "最後にお話しする株主還元については計画どおり、下期も1株当たり30円で年間60円の配当とさせていただきます",
+    "url": "https://finance.logmi.jp/articles/381668",
+    "pass": 3
+   },
+   {
+    "quote": "いつものように酉島製作所単体と、20社近くある子会社とに分けてお話しします",
+    "url": "https://finance.logmi.jp/articles/381668",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度 連結調整前 子会社決算実績（累計）",
+    "url": "https://finance.logmi.jp/articles/381668",
+    "pass": 3
+   },
+   {
+    "quote": "単体としては減益となりましたが、子会社については増収増益ということで計画比もほぼ若干ずつ上回っています",
+    "url": "https://finance.logmi.jp/articles/381668",
+    "pass": 3
+   },
+   {
+    "quote": "子会社には、ものづくりの会社もプロジェクトの会社もありますが、サービス子会社が中心です",
+    "url": "https://finance.logmi.jp/articles/381668",
+    "pass": 3
+   },
+   {
+    "quote": "ドバイには15年前に工場を建てていて、その子会社として5年前にはサウジアラビアにも工場を作りました",
+    "url": "https://finance.logmi.jp/articles/381668",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度決算見通し（単体・子会社）",
+    "url": "https://finance.logmi.jp/articles/381668",
+    "pass": 3
+   },
+   {
+    "quote": "子会社については、例えば今のトランプ政権の動きなどでこれからの世界経済がどれだけ減速するかなどいろいろな要因があるとは思います",
+    "url": "https://finance.logmi.jp/articles/381668",
+    "pass": 3
+   },
+   {
+    "quote": "子会社全体としては2024年度並みかプラスアルファで、売上339億円、営業利益33億円を見込んでいます",
+    "url": "https://finance.logmi.jp/articles/381668",
+    "pass": 3
+   },
+   {
+    "quote": "さて、これを受けて株主還元ですが、計画どおり2024年度については、先ほど話しましたように60円でした",
+    "url": "https://finance.logmi.jp/articles/381668",
+    "pass": 3
+   },
+   {
+    "quote": "また、子会社は全般に好調を維持し、前年度比・計画値いずれも上回った",
+    "url": "https://note.com/fisco_jp/n/nb2eb95eb031c",
+    "pass": 3
+   },
+   {
+    "quote": "株主還元については、配当政策としてDOE（株主資本配当率）3.0％および配当性向35％を目安に、累進配当を基本としている",
+    "url": "https://note.com/fisco_jp/n/nb2eb95eb031c",
+    "pass": 3
+   },
+   {
+    "quote": "総じて、資本効率の向上と株主価値の強化を図るなか、大型・高圧ポンプを製造できる世界でも数少ないポンプメーカーとして海外でも積極的に事業展開している同社は、中長期的な成長に期待できよう",
+    "url": "https://note.com/fisco_jp/n/nb2eb95eb031c",
+    "pass": 3
+   },
+   {
+    "quote": "酉島製作所の大型買収：酉島製作所（以下、酉島）は2026年7月1日、住友重機械工業から新日本造機の全株式を取得し、連結子会社としました",
+    "url": "https://note.com/kabutabi2000/n/n6ec15c0d7fb4",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月に子会社化した新日本造機は、石油化学分野向けの蒸気タービンと、米国石油学会（API）の規格に準拠したプロセスポンプを手がける",
+    "url": "https://note.com/kabutabi2000/n/n6ec15c0d7fb4",
+    "pass": 3
+   },
+   {
+    "quote": "累進配当を掲げる株主還元方針（DOE3%・配当性向35%を目安）",
+    "url": "https://note.com/kabutabi2000/n/n6ec15c0d7fb4",
+    "pass": 3
+   },
+   {
+    "quote": "新日本造機の子会社化を受けて計画を見直す予定としている",
+    "url": "https://note.com/kabutabi2000/n/n6ec15c0d7fb4",
+    "pass": 3
+   },
+   {
+    "quote": "株主還元はDOE3%を目安に安定的な増配を続け、今期は6年連続の増配を予定",
+    "url": "https://note.com/kabutabi2000/n/n6ec15c0d7fb4",
+    "pass": 3
+   },
+   {
+    "quote": "2018年に旧村上ファンド系の投資会社が株式を取得したことを機に、ROE目標の設定や株主還元の拡大へと経営方針を転換した経緯がある（研究論文による）",
+    "url": "https://note.com/kabutabi2000/n/n6ec15c0d7fb4",
+    "pass": 3
+   },
+   {
+    "quote": "東京証券取引所によるPBR（株価純資産倍率）1倍割れ是正の要請や、コーポレートガバナンス改革の進展により、日本企業はかつてないほど資本効率と株主還元を意識し始めています",
+    "url": "https://note.com/open_azalea2045/n/n6c9c7a598852",
+    "pass": 3
+   },
+   {
+    "quote": "時価総額500億円規模の中型企業でありながら、プライム市場に上場し、グローバルニッチトップとしての地位を確立しています2",
+    "url": "https://note.com/open_azalea2045/n/n6c9c7a598852",
+    "pass": 3
+   },
+   {
+    "quote": "トリシマの経営陣は株主の利益を代弁しているでしょうか",
+    "url": "https://note.com/open_azalea2045/n/n6c9c7a598852",
+    "pass": 3
+   },
+   {
+    "quote": "再投資か、買収か、それとも株主還元か",
+    "url": "https://note.com/open_azalea2045/n/n6c9c7a598852",
+    "pass": 3
+   },
+   {
+    "quote": ": 「毎年増配、少なくとも同額維持」を目指すと公言しており、株主還元へのコミットメントは強力です",
+    "url": "https://note.com/open_azalea2045/n/n6c9c7a598852",
+    "pass": 3
+   },
+   {
+    "quote": "このマガジンでは、上場・未上場企業を問わず、財務分析からビジネスモデル、成長可能性、リスク要因まで、徹底したデューデリジェンス（DD）の視点で解説します",
+    "url": "https://note.com/tatsuya_sabato/n/nf7dcdd2e929f",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "Ͱ૊Έཱ͍ͯͯͨӋࠜं ʢΠϯϖϥʣΛɺڧ ਟͳ εςϯϨεʢSUS316L૬౰ʣͰ",
+    "url": "https://www.torishima.co.jp/common/uploads/CompanyMagazine237.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3Dデジタルデータから直接金属粉末を溶融・積層して形づくる「木型レス造形」のため、前準備工程を大幅にカット",
+    "url": "https://prtimes.jp/main/html/rd/p/000000032.000136252.html",
+    "pass": 3
+   },
+   {
+    "quote": "従来は「銅合金（CAC402）」製の羽根と「鋳鉄（FC250）」製のボスをボルト等で組み立てていたプロペラを、強靭な「高耐食ステンレス鋼（SUS316L相当）」により、",
+    "url": "https://prtimes.jp/main/html/rd/p/000000032.000136252.html",
+    "pass": 3
+   },
+   {
+    "quote": "AMで製作したプロペラ（SUS316L製）を用い、連続運転試験を実施",
+    "url": "https://prtimes.jp/main/html/rd/p/000000032.000136252.html",
+    "pass": 3
+   },
+   {
+    "quote": "塩水環境下における長時間の浸漬試験を実施した結果、AM（積層）材は、従来のステンレス鋳造材と比較して圧倒的に低い腐食質量減少率（数分の一）を記録し、優れた防錆・耐食性が実証されました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000032.000136252.html",
+    "pass": 3
+   },
+   {
+    "quote": "3Dデジタルデータから金属粉末を溶融、積層する木型レス造形により、前準備工程を短縮できた",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/07/news015.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、これまで銅合金製の羽根と鋳鉄製のボスをボルトで結合していたが、SUS316L相当の高耐食ステンレス鋼による一体造形を可能にした",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/07/news015.html",
+    "pass": 3
+   },
+   {
+    "quote": "連続運転試験後の非破壊検査では、羽根の付け根部分に亀裂は発生せず、塩水浸漬試験でも腐食による質量減少率は従来のステンレス鋳造材の数分の一にとどまることを確認した",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/07/news015.html",
+    "pass": 3
+   },
+   {
+    "quote": "最終形状に近い状態まで金属粉末を積層する「ニアネットシェイプ」での造形により、廃材を抑えて環境負荷の低減にも寄与する",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/07/news015.html",
+    "pass": 3
+   },
+   {
+    "quote": "ポンプの製造には大量の鋳物、ステンレス鋼、モーターが必要です",
+    "url": "https://note.com/open_azalea2045/n/n6c9c7a598852",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 | 株式会社 酉島製作所 トリシマポンプ — 会社概要 | 株式会社 酉島製作所 トリシマポンプ torishima.co.jp https://www.torishima.co.jp > outline > olinfo",
+    "url": "https://www.torishima.co.jp/outline/olinfo/au/",
+    "pass": 3
+   },
+   {
+    "quote": "(株) 酉島製作所 の 会社概要 | マイナビ2028 — (株) 酉島製作所 の 会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp271478 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp271478/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 酉島製作所 】[6363]企業 概要 社員数や役員報酬・ 資本金 — 【 酉島製作所 】[6363]企業 概要 社員数や役員報酬・ 資本金 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6363",
+    "pass": 3
+   },
+   {
+    "quote": "酉島製作所 【6363】のストーリー・沿革 - キタイシホン — 酉島製作所 【6363】のストーリー・沿革 - キタイシホン キタイシホン https://kitaishihon.com > company > story",
+    "url": "https://kitaishihon.com/company/6363/story",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社 酉島製作所 ｜会員名鑑 - 日本メンテナンス工業会 — 株式 会社 酉島製作所 ｜会員名鑑 - 日本メンテナンス工業会 一般社団法人日本メンテナンス工業会 https://www.jamsec.jp > 会員検索",
+    "url": "https://www.jamsec.jp/member-search/143.php",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター で老朽ポンプを短納期・高耐久化 酉島製作所 — 金属3Dプリンター で老朽ポンプを短納期・高耐久化 酉島製作所 ShareLab NEWS https://news.sharelab.jp > 業界動向 > 金属3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/torishima-metal-am-pump-impeller-260811/",
+    "pass": 3
+   },
+   {
+    "quote": "生産技術 | 酉島製作所 採用特設サイト トリシマポンプ — 生産技術 | 酉島製作所 採用特設サイト トリシマポンプ torishima.co.jp https://www.torishima.co.jp > saiyo > voice",
+    "url": "https://www.torishima.co.jp/saiyo/voice/010/",
+    "pass": 3
+   },
+   {
+    "quote": "金属 3Dプリンターで老朽ポンプを短納期・高耐久化 酉島製作所 — 金属 3Dプリンターで老朽ポンプを短納期・高耐久化 酉島製作所 ShareLab NEWS https://news.sharelab.jp > 業界動向 > 金属3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/torishima-metal-am-pump-impeller-260811/",
+    "pass": 3
+   },
+   {
+    "quote": "大学生向け 採用パンフレット - 酉島製作所 — 大学生向け 採用パンフレット - 酉島製作所 torishima.co.jp PDF https://www.torishima.co.jp > pdf > University-student",
+    "url": "https://www.torishima.co.jp/saiyo/pdf/University-student.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "基本情報 | 株式会社 酉島製作所 トリシマポンプ — 基本情報 | 株式会社 酉島製作所 トリシマポンプ torishima.co.jp https://www.torishima.co.jp > IR情報 > 株式情報",
+    "url": "https://www.torishima.co.jp/ir/irinfo/stock-info/",
+    "pass": 3
+   },
+   {
+    "quote": "【 酉島製作所 】[6363]適時開示情報 株主 総会や定款関連 | 日経 ... — 【 酉島製作所 】[6363]適時開示情報 株主 総会や定款関連 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > disclose",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=6363",
+    "pass": 3
+   },
+   {
+    "quote": "酉島製作所 【6363】の大 株主 情報 - 株探 — 酉島製作所 【6363】の大 株主 情報 - 株探 株探 https://kabutan.jp > stock > holder",
+    "url": "https://kabutan.jp/stock/holder?code=6363",
+    "pass": 3
+   },
+   {
+    "quote": "酉島製作所 （6363）のプロフィール | 会社四季報オンライン — 酉島製作所 （6363）のプロフィール | 会社四季報オンライン 四季報オンライン https://shikiho.toyokeizai.net > 銘柄研究 > 酉島製作所",
+    "url": "https://shikiho.toyokeizai.net/stocks/6363/corporate",
+    "pass": 3
+   },
+   {
+    "quote": "(株) 酉島製作所 の新卒採用・会社概要 | マイナビ2027 — (株) 酉島製作所 の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp271478 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp271478/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "財務情報 | 株式会社 酉島製作所 トリシマポンプ — 財務情報 | 株式会社 酉島製作所 トリシマポンプ torishima.co.jp https://www.torishima.co.jp > ... > チャートジェネレーター",
+    "url": "https://www.torishima.co.jp/ir/results/kessan/",
+    "pass": 3
+   },
+   {
+    "quote": "(株) 酉島製作所 の会社概要 | マイナビ2028 — (株) 酉島製作所 の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp271478 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp271478/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "酉島製作所 、21年度から24年度で 売上高 が約1.6倍と順調に ... — 酉島製作所 、21年度から24年度で 売上高 が約1.6倍と順調に ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/381668",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 酉島製作所 の求人・採用情報、会社概要 - ビズリーチ — 株式会社 酉島製作所 の求人・採用情報、会社概要 - ビズリーチ ビズリーチ https://www.bizreach.jp > companies",
+    "url": "https://www.bizreach.jp/companies/2610/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 酉島製作所 - 平均年収 - JS日本の企業 — 株式会社 酉島製作所 - 平均年収 - JS日本の企業 ＪＳ日本の企業 https://job.js88.com > company > listed",
+    "url": "https://job.js88.com/company/listed?c_id=1421",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【取材レポート】 酉島製作所 ：大型・高圧ポンプを製造できる ... 【取材レポート】 酉島製作所 ：大型・高圧ポンプを製造できる ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/fisco_jp/n/nb2eb95eb031c",
+    "pass": 3
+   },
+   {
+    "quote": "大好き 宇宙関連株（010）ポンプで世界を救う【 酉島製作所 ... 大好き 宇宙関連株（010）ポンプで世界を救う【 酉島製作所 ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/good_dill292/n/n5ea028cf2d9a",
+    "pass": 3
+   },
+   {
+    "quote": "酉島製作所 （6363）vs 新明和工業（7224）— ポンプ専業か 酉島製作所 （6363）vs 新明和工業（7224）— ポンプ専業か note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/kabutabi2000/n/n6ec15c0d7fb4",
+    "pass": 3
+   },
+   {
+    "quote": "【バフェットの視点】株式会社 酉島製作所 （6363）は ... - note 【バフェットの視点】株式会社 酉島製作所 （6363）は ... - note note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/open_azalea2045/n/n6c9c7a598852",
+    "pass": 3
+   },
+   {
+    "quote": "酉島製作所 の人気・新着記事まとめ - note 酉島製作所 の人気・新着記事まとめ - note note https://note.com > tag > 酉島製作所",
+    "url": "https://note.com/tag/%E9%85%89%E5%B3%B6%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "海水淡水化ポンプで世界トップ―― 酉島製作所 （6363）が ... 海水淡水化ポンプで世界トップ―― 酉島製作所 （6363）が ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/tatsuya_sabato/n/nf7dcdd2e929f",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【取材レポート】酉島製作所：大型・高圧ポンプを製造できる国内屈指のポンプメーカー、ニッチトップ技術でグローバルに事業展開｜FISCO",
+    "url": "https://note.com/fisco_jp/n/nb2eb95eb031c",
+    "pass": 3
+   },
+   {
+    "quote": "【取材レポート】酉島製作所：大型・高圧ポンプを製造できる国内屈指のポンプメーカー、ニッチトップ技術でグローバルに事業展開",
+    "url": "https://note.com/fisco_jp/n/nb2eb95eb031c",
+    "pass": 3
+   },
+   {
+    "quote": "1919年創業の老舗ポンプ専業メーカーであり、上下水道、発電所、海水淡水化施設などの社会インフラを支える大型・高圧ポンプに強みを有する。",
+    "url": "https://note.com/fisco_jp/n/nb2eb95eb031c",
+    "pass": 3
+   },
+   {
+    "quote": "「ハイテクポンプ」「プロジェクト」「サービス」「新エネ・環境」の4分野に区分",
+    "url": "https://note.com/fisco_jp/n/nb2eb95eb031c",
+    "pass": 3
+   },
+   {
+    "quote": "され、2024年度実績でハイテクポンプ32.5％、プロジェクト33.1％、サービス34.1％、新エネ・環境0.3％。また、",
+    "url": "https://note.com/fisco_jp/n/nb2eb95eb031c",
+    "pass": 3
+   },
+   {
+    "quote": "需要先別では海外比率が62.0％と高く、官需25.8％・民需12.2％を含めたグローバルな事業展開が特徴",
+    "url": "https://note.com/fisco_jp/n/nb2eb95eb031c",
+    "pass": 3
+   },
+   {
+    "quote": "である。2024年度の受注高は956億円と過去最高を記録。",
+    "url": "https://note.com/fisco_jp/n/nb2eb95eb031c",
+    "pass": 3
+   },
+   {
+    "quote": "同社のビジネスモデルにおける特筆すべき点は、",
+    "url": "https://note.com/fisco_jp/n/nb2eb95eb031c",
+    "pass": 3
+   },
+   {
+    "quote": "大好き 宇宙関連株（010）ポンプで世界を救う【酉島製作所】概要｜まさ",
+    "url": "https://note.com/good_dill292/n/n5ea028cf2d9a",
+    "pass": 3
+   },
+   {
+    "quote": "大好き 宇宙関連株（010）ポンプで世界を救う【酉島製作所】概要",
+    "url": "https://note.com/good_dill292/n/n5ea028cf2d9a",
+    "pass": 3
+   },
+   {
+    "quote": "ウォーレンバフェット氏の教え「社長になりたいと思えるような企業に投資せよ」、これに従い私も社長になりたい会社を探します。まずは小学生の時から憧れている「宇宙」に関連した企業について調べてみます。",
+    "url": "https://note.com/good_dill292/n/n5ea028cf2d9a",
+    "pass": 3
+   },
+   {
+    "quote": "今回のシリーズは以下の手順で情報収集をします。",
+    "url": "https://note.com/good_dill292/n/n5ea028cf2d9a",
+    "pass": 3
+   },
+   {
+    "quote": "①会社四季報で興味のある会社をリストアップします。",
+    "url": "https://note.com/good_dill292/n/n5ea028cf2d9a",
+    "pass": 3
+   },
+   {
+    "quote": "③その会社に興味を持った場合は、公式ホームページを確認します。",
+    "url": "https://note.com/good_dill292/n/n5ea028cf2d9a",
+    "pass": 3
+   },
+   {
+    "quote": "・日本経済新聞・有価証券報告書・中期経営計画書",
+    "url": "https://note.com/good_dill292/n/n5ea028cf2d9a",
+    "pass": 3
+   },
+   {
+    "quote": "※ 冒頭写真は内容と関係ありません。私が好きなものを載せています。",
+    "url": "https://note.com/good_dill292/n/n5ea028cf2d9a",
+    "pass": 3
+   },
+   {
+    "quote": "酉島製作所（6363）vs 新明和工業（7224）— ポンプ専業か、飛行艇も造る多角化か——関西機械2社の選んだ道｜kabutabi",
+    "url": "https://note.com/kabutabi2000/n/n6ec15c0d7fb4",
+    "pass": 3
+   },
+   {
+    "quote": "酉島製作所（6363）vs 新明和工業（7224）— ポンプ専業か、飛行艇も造る多角化か——関西機械2社の選んだ道",
+    "url": "https://note.com/kabutabi2000/n/n6ec15c0d7fb4",
+    "pass": 3
+   },
+   {
+    "quote": "【住友重機械から新日本造機を迎え入れ発電・石油化学へ領域を広げる高槻の老舗と、ごみ収集車・ダンプで国内トップシェアを握る宝塚の特装車大手。ROEはともに10%前後で並ぶ2社】",
+    "url": "https://note.com/kabutabi2000/n/n6ec15c0d7fb4",
+    "pass": 3
+   },
+   {
+    "quote": "株価基準日：2026年9月18日終値（酉島製作所 2,918円、新明和工業 1,960円）",
+    "url": "https://note.com/kabutabi2000/n/n6ec15c0d7fb4",
+    "pass": 3
+   },
+   {
+    "quote": "決算期・会計基準：両社とも3月期（連結）、日本基準です。",
+    "url": "https://note.com/kabutabi2000/n/n6ec15c0d7fb4",
+    "pass": 3
+   },
+   {
+    "quote": "酉島製作所の大型買収：酉島製作所（以下、酉島）は2026年7月1日、住友重機械工業から新日本造機の全株式を取得し、連結子会社としました。新日本造機は12月決算のため、2027年3月期は下期6カ月分のみが連結されます。負ののれんを含む特別利益約32億円の計上を見込んでおり、今期の純利益予想（71億円）に含まれています。この特別利益を単純に除くと、予想PERは約20倍になります。",
+    "url": "https://note.com/kabutabi2000/n/n6ec15c0d7fb4",
+    "pass": 3
+   },
+   {
+    "quote": "新明和工業の業績予想：新明和工業（以下、新明和）は、中東情勢の業績への影響額を当初の10億円から15億円に見直したうえで、通期予想（売上高のみ3,124億円から3,100億円に修正）を維持しています。",
+    "url": "https://note.com/kabutabi2000/n/n6ec15c0d7fb4",
+    "pass": 3
+   },
+   {
+    "quote": "注目度：酉島 ★★★★☆ / 新明和 ★★★☆☆",
+    "url": "https://note.com/kabutabi2000/n/n6ec15c0d7fb4",
+    "pass": 3
+   },
+   {
+    "quote": "【バフェットの視点】株式会社酉島製作所（6363）は「買い」か？ — 水資源インフラの老舗が描く成長軌道と本質的価値の完全なる解剖｜AIバフェット研究所 所長",
+    "url": "https://note.com/open_azalea2045/n/n6c9c7a598852",
+    "pass": 3
+   },
+   {
+    "quote": "【バフェットの視点】株式会社酉島製作所（6363）は「買い」か？ — 水資源インフラの老舗が描く成長軌道と本質的価値の完全なる解剖",
+    "url": "https://note.com/open_azalea2045/n/n6c9c7a598852",
+    "pass": 3
+   },
+   {
+    "quote": "第1章：投資哲学と市場背景 — なぜ今、日本の「地味な」ポンプメーカーなのか",
+    "url": "https://note.com/open_azalea2045/n/n6c9c7a598852",
+    "pass": 3
+   },
+   {
+    "quote": "投資の世界において、最も魅力的な機会は往々にして、華やかなヘッドラインを飾るハイテク企業や急成長するスタートアップではなく、一般の人々が見過ごしてしまうような「退屈な」産業の中に潜んでいます。我々バークシャー・ハサウェイの流儀において、理解できない複雑なビジネスモデルや、数年で陳腐化する技術に依存した企業は、投資対象としての適格性を欠きます。対照的に、私が好むのは、人々の生活に深く根ざし、技術変化が緩やかで、かつ不可欠な製品を提供する企業です。",
+    "url": "https://note.com/open_azalea2045/n/n6c9c7a598852",
+    "pass": 3
+   },
+   {
+    "quote": "その観点において、株式会社酉島製作所（以下、トリシマ）が手掛ける「ポンプ」という製品は、まさに理想的な研究対象と言えます。水、石油、ガス、化学薬品。これら液体を移送するポンプは、産業の心臓部であり、現代社会のインフラそのものです。人々が蛇口をひねれば水が出る、スイッチを押せば電気がつく。その当たり前の日常の裏側には、必ずポンプの稼働があります。このビジネスは、一度設置されれば数十年間にわたり稼働し続け、定期的なメンテナンスや部品交換を必要とする、極めて息の長い収益モデルを持っています。",
+    "url": "https://note.com/open_azalea2045/n/n6c9c7a598852",
+    "pass": 3
+   },
+   {
+    "quote": "トリシマは、創業1919年という100年以上の歴史を持つ老舗企業です。日本の大阪に本社を構え、世界の熱帯から砂漠地帯まで、過酷な環境下で水を動かし続けてきました1。一見すると、成長の余地が限られたオールドエコノミーの典型に見えるかもしれません。しかし、詳細な分析を進めると、そこには「海水淡水化」や「エネルギー効率化」という現代社会の喫緊の課題に直結するソリューションと、ビジネスモデルの質的転換（フローからストックへ）という静かなる革命が進行していることが分かります。",
+    "url": "https://note.com/open_azalea2045/n/n6c9c7a598852",
+    "pass": 3
+   },
+   {
+    "quote": "1.2 日本市場の構造変化と「バリュー」の再発見",
+    "url": "https://note.com/open_azalea2045/n/n6c9c7a598852",
+    "pass": 3
+   },
+   {
+    "quote": "現在、日本の株式市場は、長らく放置されてきた「割安性」が見直される歴史的な転換点にあります。東京証券取引所によるPBR（株価純資産倍率）1倍割れ是正の要請や、コーポレートガバナンス改革の進展により、日本企業はかつてないほど資本効率と株主還元を意識し始めています。",
+    "url": "https://note.com/open_azalea2045/n/n6c9c7a598852",
+    "pass": 3
+   },
+   {
+    "quote": "酉島製作所の人気・新着記事まとめ｜note",
+    "url": "https://note.com/tag/%E9%85%89%E5%B3%B6%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "【四季報秋号から銘柄ピックアップ #3】割安放置株！酉島製作所（6363）",
+    "url": "https://note.com/tag/%E9%85%89%E5%B3%B6%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "けんご界隈｜日本株投資のニュース半歩先読み",
+    "url": "https://note.com/tag/%E9%85%89%E5%B3%B6%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "日本の水処理・水インフラ業界TOP10＆５つの成功要因",
+    "url": "https://note.com/tag/%E9%85%89%E5%B3%B6%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "酉島製作所（6363）vs 新明和工業（7224）— ポンプ専業か、飛行艇も造る多角化か——関西機械2社の選んだ道",
+    "url": "https://note.com/tag/%E9%85%89%E5%B3%B6%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "片山（五月）さんのパクリ投資を調整局面で実行（2026年9月末の資産状況）",
+    "url": "https://note.com/tag/%E9%85%89%E5%B3%B6%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "【株式投資】2026年9月のポートフォリオ",
+    "url": "https://note.com/tag/%E9%85%89%E5%B3%B6%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "海水淡水化ポンプで世界トップ――酉島製作所（6363）が「水の世紀」の主役に躍り出る日｜日本個別株デューデリジェンスセンター",
+    "url": "https://note.com/tatsuya_sabato/n/nf7dcdd2e929f",
+    "pass": 3
+   },
+   {
+    "quote": "海水淡水化ポンプで世界トップ――酉島製作所（6363）が「水の世紀」の主役に躍り出る日",
+    "url": "https://note.com/tatsuya_sabato/n/nf7dcdd2e929f",
+    "pass": 3
+   },
+   {
+    "quote": "地球上に存在する水のうち、人類が直接利用できる淡水はわずか0.01％にすぎない。人口増加、新興国の工業化、気候変動による降雨パターンの変容が重なる中、「水を作り出す」技術への需要は、20世紀の石油需要に似た急増曲線を描きはじめている。その最前線にいるのが、大阪府高槻市を本拠とする産業用ポンプ専業メーカー、酉島製作所（証券コード6363、以下「トリシマ」）だ。",
+    "url": "https://note.com/tatsuya_sabato/n/nf7dcdd2e929f",
+    "pass": 3
+   },
+   {
+    "quote": "海水淡水化プラント向けポンプの世界シェアトップという地位が、トリシマの最大の武器である。会社資料によれば、10年間で合計2,200台超を世界の海水淡水化プラント向けに納入してきた実績が、この地位を裏付ける。単なる部品メーカーではなく、設計から据付工事、長期メンテナンスまでを一気通貫で担う「ポンプの主治医」としての関係性が、顧客との深い結びつきを生んでいる。",
+    "url": "https://note.com/tatsuya_sabato/n/nf7dcdd2e929f",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、液化水素ポンプの開発でも世界に先駆けた実績を持つ。会社公式サイトおよびIR資料によれば、2024年3月に超電導モーターを搭載した大流量液化水素ポンプの運転試験に世界で初めて成功している。海水淡水化という「今の水問題」と、水素という「未来のエネルギー問題」の両方に技術的な橋を架けているという構造が、同社を単なる老舗ポンプメーカーと一線画す理由だ。",
+    "url": "https://note.com/tatsuya_sabato/n/nf7dcdd2e929f",
+    "pass": 3
+   },
+   {
+    "quote": "規模拡大と収益改善のバランスが、現在の最大の課題だ。2024年度決算説明資料では、受注高・売上高はともに過去最高を更新した一方、営業利益は前期比で減少し、利益面では計画未達という結果に終わっている。売上は5年連続過去最高を記録しながら、利益の質が追いついていない状態が続く。仕事の量が増えれば増えるほど、現場の混乱やコスト管理の難しさが顕在化するという、成長期特有のジレンマを抱えている。",
+    "url": "https://note.com/tatsuya_sabato/n/nf7dcdd2e929f",
+    "pass": 3
+   },
+   {
+    "quote": "トリシマが「水の世紀」においてなぜ有力なプレーヤーになり得るのか、その事業構造の骨格",
+    "url": "https://note.com/tatsuya_sabato/n/nf7dcdd2e929f",
+    "pass": 3
+   },
+   {
+    "quote": "海水淡水化・水素・スマートメンテナンスという3つの成長軸が、それぞれどのような条件のもとで機能するか",
+    "url": "https://note.com/tatsuya_sabato/n/nf7dcdd2e929f",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "酉島製作所 、インド・サウジ生産検討 ポンプを安定供給 - X 酉島製作所 、インド・サウジ生産検討 ポンプを安定供給 - X X https://x.com > @Nikkan_BizLine",
+    "url": "https://x.com/Nikkan_BizLine/status/2096765836736237577",
+    "pass": 3
+   },
+   {
+    "quote": "化学工業日報社 on X: \" 酉島製作所 、液化天然ガス（LNG ... 化学工業日報社 on X: \" 酉島製作所 、液化天然ガス（LNG ... X https://x.com > @chemicaldailyad",
+    "url": "https://x.com/chemicaldailyad/status/2117751030457012315",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "（株） 酉島製作所 - LinkedIn （株） 酉島製作所 - LinkedIn LinkedIn https://jp.linkedin.com > company > （株）酉島製作所",
+    "url": "https://jp.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E9%85%89%E5%B3%B6%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "（株） 酉島製作所 - LinkedIn （株） 酉島製作所 - LinkedIn LinkedIn https://nl.linkedin.com > company > （株）酉島製作所",
+    "url": "https://nl.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E9%85%89%E5%B3%B6%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "Hisaeda Masahiro - （株） 酉島製作所 - LinkedIn Hisaeda Masahiro - （株） 酉島製作所 - LinkedIn LinkedIn https://uk.linkedin.com > ...",
+    "url": "https://uk.linkedin.com/in/hisaeda-masahiro-4488573aa",
+    "pass": 3
+   },
+   {
+    "quote": "Yuxiang Wang - 酉島製作所 | LinkedIn Yuxiang Wang - 酉島製作所 | LinkedIn LinkedIn https://jp.linkedin.com > yuxiang-wang-775719223",
+    "url": "https://jp.linkedin.com/in/yuxiang-wang-775719223",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 酉島製作所 - Facebook 株式会社 酉島製作所 - Facebook Facebook https://www.facebook.com > ... > Industrial Company",
+    "url": "https://www.facebook.com/p/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%85%89%E5%B3%B6%E8%A3%BD%E4%BD%9C%E6%89%80-61556173377321/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 酉島製作所 on Reels - Facebook 株式会社 酉島製作所 on Reels - Facebook Facebook https://www.facebook.com > ... > Videos",
+    "url": "https://www.facebook.com/61556173377321/videos/1083503224259879/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 酉島製作所 added a new photo - Facebook 株式会社 酉島製作所 added a new photo - Facebook Facebook https://www.facebook.com > photos",
+    "url": "https://www.facebook.com/61556173377321/photos/122281911092205779/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 酉島製作所 added a new photo - Facebook 株式会社 酉島製作所 added a new photo - Facebook Facebook https://www.facebook.com > photos",
+    "url": "https://www.facebook.com/61556173377321/photos/122284364804205779/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.torishima.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.torishima.co.jp/jp/ecopump/news/vol102.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.torishima.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.torishima.co.jp/outline/olinfo/au/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.torishima.co.jp/outline/olinfo/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.torishima.co.jp/ir/abouttorishima/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.torishima.co.jp/saiyo/about-torishima/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.torishima.co.jp/news/2026/11/02/post_75/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.torishima.co.jp/news/2026/10/29/ai_1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.torishima.co.jp/news/2026/10/21/post_74/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.torishima.co.jp/jp/ecopump/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.torishima.co.jp/news/category/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.torishima.co.jp/news/2026/08/28/post_68/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.torishima.co.jp/news/2026/02/27/post-50/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.torishima.co.jp/news/attachments/news_20261104_KagakuKogyoNippo_LNGpump.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.torishima.co.jp/common/uploads/CompanyMagazine237.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp271478/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6363",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/torishima-metal-am-pump-impeller-260811/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000032.000136252.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/torishima-metal-am-pump-impeller-260811/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/07/news015.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=6363",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kabutan.jp/stock/holder?code=6363",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp271478/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.logmi.jp/articles/381668",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fisco_jp/n/nb2eb95eb031c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/good_dill292/n/n5ea028cf2d9a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kabutabi2000/n/n6ec15c0d7fb4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Nikkan_BizLine/status/2096765836736237577",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/chemicaldailyad/status/2117751030457012315",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E9%85%89%E5%B3%B6%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://nl.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E9%85%89%E5%B3%B6%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/hisaeda-masahiro-4488573aa",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/yuxiang-wang-775719223",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%85%89%E5%B3%B6%E8%A3%BD%E4%BD%9C%E6%89%80-61556173377321/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61556173377321/videos/1083503224259879/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61556173377321/photos/122281911092205779/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61556173377321/photos/122284364804205779/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/open_azalea2045/n/n6c9c7a598852",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E9%85%89%E5%B3%B6%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/nf7dcdd2e929f",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "酉島製作所",
+   "results": [
+    "https://www.torishima.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E9%85%89%E5%B3%B6%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "https://www.instagram.com/torishima_pump/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6363",
+    "https://job.mynavi.jp/27/pc/search/corp271478/outline.html",
+    "https://ja.wikipedia.org/wiki/酉島製作所",
+    "https://www.torishima.co.jp/outline/olinfo/au/",
+    "https://finance.yahoo.co.jp/quote/6363.T",
+    "https://www.nikkei.com/nkd/company/?scode=6363",
+    "https://finance.yahoo.co.jp/quote/6363.T/profile"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "酉島製作所 会社概要 資本金 設立",
+   "results": [
+    "https://www.torishima.co.jp/outline/olinfo/au/",
+    "https://job.mynavi.jp/28/pc/search/corp271478/outline.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6363",
+    "https://kitaishihon.com/company/6363/story",
+    "https://www.jamsec.jp/member-search/143.php",
+    "https://www.bizreach.jp/companies/2610/",
+    "https://the-shashi.com/tse/6363/",
+    "https://job.mynavi.jp/27/pc/search/corp271478/outline.html",
+    "https://gyokai.media/company/9120901011562/",
+    "https://ja.wikipedia.org/wiki/酉島製作所"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "酉島製作所 金属3Dプリンタ 導入",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/torishima-metal-am-pump-impeller-260811/",
+    "https://www.torishima.co.jp/saiyo/voice/010/",
+    "https://prtimes.jp/main/html/rd/p/000000032.000136252.html",
+    "https://monoist.itmedia.co.jp/mn/articles/2608/07/news015.html",
+    "https://digital-construction.jp/news/3880",
+    "https://www.youtube.com/watch?v=karP2ZyHbM4",
+    "https://kk-ariga.co.jp/metal_3d_printer/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260722597499/",
+    "https://j3d.co.jp/column/09df60f3-f8cd-4343-89e4-bea3559722fd",
+    "https://www.torishima.co.jp/news/attachments/news-additive-manufacturing-20260722.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "酉島製作所 金属積層造形 設備",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/torishima-metal-am-pump-impeller-260811/",
+    "https://www.torishima.co.jp/saiyo/pdf/University-student.pdf",
+    "https://monoist.itmedia.co.jp/mn/articles/2608/07/news015.html",
+    "https://prtimes.jp/main/html/rd/p/000000032.000136252.html",
+    "https://digital-construction.jp/news/3880",
+    "https://news.nicovideo.jp/watch/nw19576915",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260722597499/",
+    "https://kabu-ir.com/article/521196991.html",
+    "https://www.media-ir.com/news/?p=176687",
+    "https://www.torishima.co.jp/product/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "酉島製作所 株主 出資 親会社",
+   "results": [
+    "https://www.torishima.co.jp/ir/irinfo/stock-info/",
+    "https://www.nikkei.com/nkd/company/disclose/?scode=6363",
+    "https://kabutan.jp/stock/holder?code=6363",
+    "https://shikiho.toyokeizai.net/stocks/6363/corporate",
+    "https://job.mynavi.jp/27/pc/search/corp271478/outline.html",
+    "https://kitaishihon.com/company/6363/business",
+    "https://the-shashi.com/tse/6363/shareholders/",
+    "https://www.torishima.co.jp/ir/irinfo/meeting/",
+    "https://www.nihon-ma.co.jp/news/20260210_6363-20/",
+    "https://ja.wikipedia.org/wiki/酉島製作所"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "酉島製作所 売上高 従業員数",
+   "results": [
+    "https://www.torishima.co.jp/ir/results/kessan/",
+    "https://job.mynavi.jp/28/pc/search/corp271478/outline.html",
+    "https://finance.logmi.jp/articles/381668",
+    "https://www.bizreach.jp/companies/2610/",
+    "https://job.js88.com/company/listed?c_id=1421",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6363",
+    "https://job.mynavi.jp/27/pc/search/corp271478/outline.html",
+    "https://www.buffett-code.com/company/6363/",
+    "https://ja.wikipedia.org/wiki/%E9%85%89%E5%B3%B6%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "https://techstudywork.jp/company/torishima-pump-mfg"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 酉島製作所",
+   "results": [
+    "https://note.com/fisco_jp/n/nb2eb95eb031c",
+    "https://note.com/good_dill292/n/n5ea028cf2d9a",
+    "https://note.com/tatsuya_sabato/n/n48e4f9d833fd",
+    "https://note.com/kabutabi2000/n/n6ec15c0d7fb4",
+    "https://note.com/open_azalea2045/n/n6c9c7a598852",
+    "https://note.com/tatsuya_sabato/n/n997a64d73661",
+    "https://note.com/kiki_kabu/n/n10a8bc799edd",
+    "https://note.com/cosmos_invest/n/na544f640b271",
+    "https://note.com/theruleofoceans/n/n5a2645eb317e",
+    "https://note.com/swic/n/n6a6010529415"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:x.com 酉島製作所",
+   "results": [
+    "https://x.com/Nikkan_BizLine/status/2096765836736237577",
+    "https://x.com/chemicaldailyad/status/2117751030457012315",
+    "https://x.com/okeydon/status/2038521467563131243",
+    "https://x.com/PRTIMES_TECH/status/2115732233860641239",
+    "https://x.com/akarabu99/status/2021163557455331730",
+    "https://x.com/soubafukunokami/status/2084099222937444438",
+    "https://x.com/aryarya/status/2021096864456769780",
+    "https://x.com/Stockpickerfund/status/2115700590319894635",
+    "https://x.com/zeroone001/status/1808308464503988348",
+    "https://x.com/kessan_db/status/2084990779433582922"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com 酉島製作所",
+   "results": [
+    "https://jp.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E9%85%89%E5%B3%B6%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "https://nl.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E9%85%89%E5%B3%B6%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "https://uk.linkedin.com/in/hisaeda-masahiro-4488573aa",
+    "https://jp.linkedin.com/in/yuxiang-wang-775719223",
+    "https://jp.linkedin.com/in/%E5%8C%A0%E5%90%BE-%E9%98%BF%E9%83%A8-19020426b",
+    "https://jp.linkedin.com/in/hiroshi-uzaki-8b0abb443",
+    "https://jp.linkedin.com/in/wataru-osaki-92a81542a",
+    "https://jp.linkedin.com/in/nakauchi-misaki-%E4%B8%AD%E5%86%85%E3%80%80%E7%BE%8E%E5%92%B2-%E8%AA%BF%E9%81%94%E9%83%A8-99831a2b0",
+    "https://jp.linkedin.com/in/%E6%99%B4%E9%A6%99-%E7%A6%8F%E7%94%B0-88ba1044"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com 酉島製作所",
+   "results": [
+    "https://www.facebook.com/p/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%85%89%E5%B3%B6%E8%A3%BD%E4%BD%9C%E6%89%80-61556173377321/",
+    "https://www.facebook.com/61556173377321/videos/1083503224259879/",
+    "https://www.facebook.com/61556173377321/photos/122281911092205779/",
+    "https://www.facebook.com/61556173377321/photos/122284364804205779/",
+    "https://www.facebook.com/pages/%E9%85%89%E5%B3%B6%E8%A3%BD%E4%BD%9C%E6%89%80/147000775340699",
+    "https://www.facebook.com/61556173377321/posts/-cfo%E3%81%AE%E8%A6%96%E7%82%B9%E3%83%88%E3%83%AA%E3%82%B7%E3%83%9E%E3%81%AE%E6%8C%91%E6%88%A6-%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E%E3%81%AE%E9%80%A3%E8%BC%89%E4%BC%81%E7%94%BB%E8%A8%98%E4%BA%8Bcfo%E3%81%AE%E8%A6%96%E7%82%B9%E3%81%AB%E9%85%89%E5%B3%B6%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%A0%E3%82%B9%E3%83%86%E3%82%A3%E3%83%9E%E3%83%BC%E3%82%BAcfo%E3%81%8C%E7%99%BB%E5%A0%B4%E3%81%97%E3%81%9F%E3%82%88-%E6%B5%B7%E6%B0%B4%E6%B7%A1%E6%B0%B4%E5%8C%96%E3%83%97%E3%83%A9%E3%83%B3%E3%83%88%E5%90%91%E3%81%91%E3%81%AA%E3%81%A9%E3%81%AE%E3%83%9D%E3%83%B3%E3%83%97%E3%81%A7%E4%B8%96/122310395876205779/",
+    "https://www.facebook.com/61556173377321/posts/-toripon-chat-with-indian-colleaguesyoung-indian-engineers-shared-what-they-lear/122313344546205779/",
+    "https://www.facebook.com/61556173377321/posts/-%E3%83%88%E3%83%AA%E3%83%9D%E3%83%B3%E5%9B%9B%E3%82%B3%E3%83%9E%E7%A7%8B%E3%81%A8%E3%81%84%E3%81%88%E3%81%B0%E3%81%AE%E5%B7%BB-%E6%9C%9D%E6%99%A9%E3%81%AE%E9%A2%A8%E3%82%82%E5%BF%83%E5%9C%B0%E3%82%88%E3%81%8F%E3%81%A6%E3%81%99%E3%81%A3%E3%81%8B%E3%82%8A%E7%A7%8B%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E3%81%AD%E4%BB%8A%E3%82%A2%E3%83%88%E3%83%AA%E3%82%A8%E3%81%A7%E7%94%BB%E5%AE%B6%E6%B0%97%E5%88%86%E3%82%92%E6%BA%80%E5%96%AB%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%82%88%EF%B8%8F-%E7%9B%AE%E3%81%AE%E5%89%8D%E3%81%AE%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84%E3%82%92%E3%82%B5%E3%83%A9%E3%82%B5%E3%83%A9%E3%83%83%E3%81%A8%E6%8F%8F%E3%81%8F%E3%81%A4%E3%82%82%E3%82%8A%E3%81%8C%E9%A3%9F%E6%AC%B2%E3%81%AB/122317565780205779/",
+    "https://www.facebook.com/61556173377321/videos/%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9%E7%B4%B9%E4%BB%8B%E7%AC%AC%E4%B8%80%E5%BC%BE2021%E5%B9%B4%E3%81%AB%E7%AB%A3%E5%B7%A5%E3%81%97%E3%81%9F%E6%96%B0%E6%9C%AC%E7%A4%BE%E5%B7%A5%E5%A0%B4%E3%83%93%E3%83%AB%E3%81%AA%E3%82%93%E3%81%A0%E3%82%88%EF%B8%8F%E3%81%9D%E3%82%93%E3%81%AA%E8%87%AA%E6%85%A2%E3%81%AE%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9%E3%82%92%E3%83%88%E3%83%AA%E3%83%9D%E3%83%B3%E3%81%8C%E6%A1%88%E5%86%85%E3%81%99%E3%82%8B%E3%81%AD%E4%BB%8A%E5%9B%9E%E3%81%AF%EF%BC%91%E9%9A%8E%E3%82%A8%E3%83%B3%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%8B%E3%82%892%E9%9A%8E%E3%81%AE%E3%81%BF%E3%81%AA%E3%81%8F%E3%82%8B%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B8%E3%82%92%E7%B4%B9%E4%BB%8B%E3%81%97/1212403226475002/",
+    "https://www.facebook.com/p/株式会社酉島製作所-61556173377321/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "酉島製作所 note 社長",
+   "results": [
+    "https://note.com/open_azalea2045/n/n6c9c7a598852",
+    "https://note.com/tag/%E9%85%89%E5%B3%B6%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "https://note.com/kiki_kabu/n/n10a8bc799edd",
+    "https://note.com/tatsuya_sabato/n/nf7dcdd2e929f",
+    "https://note.com/good_dill292/n/n5ea028cf2d9a",
+    "https://www.torishima.co.jp/sustainability/esg/management/",
+    "https://zaimani.com/financial-analysis-catalog/6363/",
+    "https://note.com/twiongiru/n/n364dbbba0ed0",
+    "https://www.nikkei.com/article/DGKKZO94379970S6A210C2TJR000/",
+    "https://www.torishima.co.jp/outline/officers/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "酉島製作所 X 投稿",
+   "results": [
+    "https://www.torishima.co.jp/news/2026/",
+    "https://prtimes.jp/topics/keywords/%E9%85%89%E5%B3%B6%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "https://www.instagram.com/p/DJiF7UFBFWi/",
+    "https://mypage.3010.i-webs.jp/torishima2028/",
+    "https://www.facebook.com/p/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E9%85%89%E5%B3%B6%E8%A3%BD%E4%BD%9C%E6%89%80-61556173377321/?locale=ja_JP",
+    "https://www.youtube.com/watch?v=o3WzRRy5-o4",
+    "https://www.nikkei.com/nkd/company/disclose/?scode=6363",
+    "https://x.com/gihuboy/status/2057776178283569427",
+    "https://www.instagram.com/torishima_pump/",
+    "https://www.torishima.co.jp/news/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部26頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部26頁・検索12回）"
+ }
+}

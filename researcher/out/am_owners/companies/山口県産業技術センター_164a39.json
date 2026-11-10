@@ -1,0 +1,732 @@
+{
+ "name": "山口県産業技術センター",
+ "aliases": [],
+ "context": "PBF=unknown 装置= 出典=https://www.iti-yamaguchi.or.jp/equipment/329/",
+ "researched_at": "2026-11-10T20:45:37.278919+00:00",
+ "official_url": "https://www.iti-yamaguchi.or.jp/",
+ "identified_by": "search:yahoo_jp:山口県産業技術センター",
+ "profile": {},
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "【技術支援成果】金属積層造形による鋳造彫刻用金型の製作",
+    "url": "https://www.iti-yamaguchi.or.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【特許情報】 知的財産権の保有・出願状況（令和４年３月３１日現在）",
+    "url": "https://www.iti-yamaguchi.or.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【特許情報】 知的財産権の保有・出願状況（令和３年１０月３１日現在）",
+    "url": "https://www.iti-yamaguchi.or.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【特許情報】 知的財産権の保有・出願状況（令和３年３月３１日現在）",
+    "url": "https://www.iti-yamaguchi.or.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "地方独立行政法人山口県産業技術センターでは、各種の試験・計測機器をはじめとする多くの研究機器を保有しております",
+    "url": "https://www.iti-yamaguchi.or.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "Plastics Industry Development Center（台湾）と了解覚書締結",
+    "url": "https://www.iti-yamaguchi.or.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "はじめとする多くの研究機器を保有しております",
+    "url": "https://www.iti-yamaguchi.or.jp/_files/00052948/20250401_kaihoukikiannai.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "機械設計支援システム（金属積層造形） 時間 540 オートクレーブ 時間 450",
+    "url": "https://www.iti-yamaguchi.or.jp/_files/00057332/20260701_kaihoukiki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金属積層造形機 時間 3,760 食品加工",
+    "url": "https://www.iti-yamaguchi.or.jp/_files/00057332/20260701_kaihoukiki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "機械設計支援システム（金属積層造形） | やまぐちファシリティネットワーク",
+    "url": "https://ds.cc.yamaguchi-u.ac.jp/~yfnet/equipment/253/",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形で生じる変形による造形不良を回避するため、造形姿勢やサポートの配置などを事前に検討するためのシミュレーションソフトウェア",
+    "url": "https://ds.cc.yamaguchi-u.ac.jp/~yfnet/equipment/253/",
+    "pass": 3
+   },
+   {
+    "quote": "固有ひずみ法（メカニカル）、熱解析（サーマル）、熱構造解析（サーモ・メカニカル）による金属積層造形",
+    "url": "https://ds.cc.yamaguchi-u.ac.jp/~yfnet/equipment/253/",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "【お知らせ】コーディネータ（半導体マテリアル分野）の募集について",
+    "url": "https://www.iti-yamaguchi.or.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【行事予定】令和８年度「医療セミナー」を開催します (開催日:令和8年11月26日(木)13:30～16:30)",
+    "url": "https://www.iti-yamaguchi.or.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【行事予定】「環境・エネルギー研究会セミナー」を開催します (開催日:令和8年12月2日(水)13:10～17:15)",
+    "url": "https://www.iti-yamaguchi.or.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【お知らせ】首都圏展示会「再生医療JAPAN２０２６」への出展について",
+    "url": "https://www.iti-yamaguchi.or.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【行事予定】「半導体・蓄電池関連技術セミナー」を開催します（開催日時:令和8年9月16日(水)13:30～16:30）",
+    "url": "https://www.iti-yamaguchi.or.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【技術支援成果】金属積層造形による鋳造彫刻用金型の製作",
+    "url": "https://www.iti-yamaguchi.or.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "イノベーション推進センターを設置し、同センター内に、医療関連推進チーム、環境・エネルギー推進チームを設置",
+    "url": "https://www.iti-yamaguchi.or.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "国立研究開発法人宇宙航空研究開発機構(JAXA)の西日本衛星防災利用研究センターを設置",
+    "url": "https://www.iti-yamaguchi.or.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "経営管理部(総務・人事グループ、経営戦略室)、技術支援部(技術管理室、技術相談・支援室、製品技術グループ、電子技術グループ、材料技術グループ、食品技術グループ)、プロジェクト推進部（プロジェクト管理室、イノベーション推進センター、R＆Dラボ推進センター、宇宙データ利用推進センター）の３部、４室、５グループ、３センター構成",
+    "url": "https://www.iti-yamaguchi.or.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "防衛装備庁艦艇装備研究所と研究協力協定を締結",
+    "url": "https://www.iti-yamaguchi.or.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "やまぐち産業振興財団、台湾電子設備協会、工業技術研究院機械與機電系統研究所（台湾）と半導体産業に関する四者MOU（覚書）を締結",
+    "url": "https://www.iti-yamaguchi.or.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "バイオ関連推進チームをバイオ推進チームに、医療関連推進チームを医療・ヘルスケア推進チームに改称",
+    "url": "https://www.iti-yamaguchi.or.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "【お知らせ】コーディネータ（半導体マテリアル分野）の募集について | 山口県産業技術センター",
+    "url": "https://www.iti-yamaguchi.or.jp/docs/2026110600020/",
+    "pass": 1
+   },
+   {
+    "quote": "【お知らせ】コーディネータ（半導体マテリアル分野）の募集について",
+    "url": "https://www.iti-yamaguchi.or.jp/docs/2026110600020/",
+    "pass": 1
+   },
+   {
+    "quote": "このたび、企業支援の一環として、イノベーション促進等に関する業務に携わる半導体マテリアル分野のコーディネータを募集します",
+    "url": "https://www.iti-yamaguchi.or.jp/docs/2026110600020/",
+    "pass": 1
+   },
+   {
+    "quote": "コーディネータ（半導体マテリアル分野） 1名",
+    "url": "https://www.iti-yamaguchi.or.jp/docs/2026110600020/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体マテリアル分野における地域産業の創出・育成のため、企業間連携や産学公連携による研究開発や新規事業展開に関するプロジェクトの企画・組成から具体的研究開発、事業化までのコーディネートを行います",
+    "url": "https://www.iti-yamaguchi.or.jp/docs/2026110600020/",
+    "pass": 1
+   },
+   {
+    "quote": "・半導体関連産業における勤務経験、もしくは関連する実務経験",
+    "url": "https://www.iti-yamaguchi.or.jp/docs/2026110600020/",
+    "pass": 1
+   },
+   {
+    "quote": "山口県では、今後の成長が期待される環境・エネルギー、医療、バイオ関連分野において、産学公金連携による研究開発・事業化の促進に取り組んでいます",
+    "url": "https://www.iti-yamaguchi.or.jp/docs/2026100500019/",
+    "pass": 1
+   },
+   {
+    "quote": "当センター内に設置される半導体マテリアル評価センター(半導体マテリアルハブ)において技術スタッフとして以下の業務を行います",
+    "url": "https://www.iti-yamaguchi.or.jp/docs/2026093000015/",
+    "pass": 1
+   },
+   {
+    "quote": "【お知らせ】首都圏展示会「再生医療JAPAN２０２６」への出展について | 山口県産業技術センター",
+    "url": "https://www.iti-yamaguchi.or.jp/docs/2026092900019/",
+    "pass": 1
+   },
+   {
+    "quote": "【お知らせ】首都圏展示会「再生医療JAPAN２０２６」への出展について",
+    "url": "https://www.iti-yamaguchi.or.jp/docs/2026092900019/",
+    "pass": 1
+   },
+   {
+    "quote": "山口県では、今後の成長が期待される環境・エネルギー、医療、バイオ関連分野において、産学公金連携による研究開発・事業化の促進に取り組んでいます",
+    "url": "https://www.iti-yamaguchi.or.jp/docs/2026092900019/",
+    "pass": 1
+   },
+   {
+    "quote": "このたび、医療関連分野における研究開発成果等を紹介し、課題やニーズの把握、販路開拓等を図るため、下記のとおり展示会に出展しますのでお知らせします",
+    "url": "https://www.iti-yamaguchi.or.jp/docs/2026092900019/",
+    "pass": 1
+   },
+   {
+    "quote": "再生医療JAPAN２０２６",
+    "url": "https://www.iti-yamaguchi.or.jp/docs/2026092900019/",
+    "pass": 1
+   },
+   {
+    "quote": "※国内で開催される再生医療分野に特化した日本最大級の展示会",
+    "url": "https://www.iti-yamaguchi.or.jp/docs/2026092900019/",
+    "pass": 1
+   },
+   {
+    "quote": "再生医療JAPAN２０２６パンフレット[PDF：3.26MB]",
+    "url": "https://www.iti-yamaguchi.or.jp/docs/2026092900019/",
+    "pass": 1
+   },
+   {
+    "quote": "このたび、研究会会員が、経済産業省及び国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）主催の「NEDO Challenge, Satellite Data -農林水産業を衛星データでアップデート！-」において、第３位に入賞しましたのでお知らせします",
+    "url": "https://www.iti-yamaguchi.or.jp/docs/2026072300013/",
+    "pass": 1
+   },
+   {
+    "quote": "放、依頼試験、受託研究などの技術支援サービスの提供や、",
+    "url": "https://www.joby.jp/wp-content/uploads/2026/07/164a39f794792181432de33eed80fa63.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・通勤手当（自動車の場合、片道2キロ以上、上限57,000円）",
+    "url": "https://www.joby.jp/wp-content/uploads/2026/07/164a39f794792181432de33eed80fa63.pdf",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "粉末焼結式樹脂造形機◎ 時間 6,350",
+    "url": "https://www.iti-yamaguchi.or.jp/_files/00057332/20260701_kaihoukiki.pdf",
+    "pass": 2
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "第４章 資本金(第１４条)",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/60127.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第４章 資本金",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/60127.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１４条 法人の資本金は、山口県が出資す る別表に掲げる資産について、出資の日現在",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/60127.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "山口県産業技術センター — 山口県産業技術センター 山口県産業技術センター https://www.iti-yamaguchi.or.jp",
+    "url": "https://www.iti-yamaguchi.or.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "地方独立行政法人 山口県産業技術センター 定款（素案） — 地方独立行政法人 山口県産業技術センター 定款（素案） 山口県ホームページ PDF https://www.pref.yamaguchi.lg.jp > attachment",
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/60127.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "地方独立行政法人 山口県産業技術センター - YouTube — 地方独立行政法人 山口県産業技術センター - YouTube YouTube https://www.youtube.com > channel",
+    "url": "https://www.youtube.com/channel/UC_TdOuEFyOtf4Fxm6i5GJ4A",
+    "pass": 3
+   },
+   {
+    "quote": "地方独立行政法人 山口県産業技術センター - 企業クリップ — 地方独立行政法人 山口県産業技術センター - 企業クリップ 企業クリップ https://clip-corporation.com > ... > 企業詳細",
+    "url": "https://clip-corporation.com/company-matching/company-details/?corporate_number=7250005003025&industry_classification_middle_number=&industry_classification_minor_number=&industry_classification_sub_number",
+    "pass": 3
+   },
+   {
+    "quote": "やまぐち 3D ものづくり研究会 - 山口県産業技術センター — やまぐち 3D ものづくり研究会 - 山口県産業技術センター 山口県産業技術センター https://www.iti-yamaguchi.or.jp > 3D_monodukuri",
+    "url": "https://www.iti-yamaguchi.or.jp/3D_monodukuri/",
+    "pass": 3
+   },
+   {
+    "quote": "山口県産業技術センター デザインコンペ2026 ～大型 3D ... — 山口県産業技術センター デザインコンペ2026 ～大型 3D ... sharelab.jp https://sharelab.jp > イベント > その他団体",
+    "url": "https://sharelab.jp/events/yamaguchi-iti-design-competition-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形 機 - 山口県産業技術センター — 金属積層造形 機 - 山口県産業技術センター 山口県産業技術センター https://www.iti-yamaguchi.or.jp > equipment",
+    "url": "https://www.iti-yamaguchi.or.jp/equipment/329/",
+    "pass": 3
+   },
+   {
+    "quote": "山口県産業技術センター - 中国地域公設研究機関の開放機器 — 山口県産業技術センター - 中国地域公設研究機関の開放機器 AIST： 産業技術総合研究所 https://unit.aist.go.jp > kaihou-kiki > data > yamaguchi",
+    "url": "https://unit.aist.go.jp/chugoku/kaihou-kiki/data/yamaguchi/D-01-171.html",
+    "pass": 3
+   },
+   {
+    "quote": "山口県産業技術センター について — 山口県産業技術センター について 山口県ホームページ トップページ https://www.pref.yamaguchi.lg.jp > soshiki",
+    "url": "https://www.pref.yamaguchi.lg.jp/soshiki/83/22042.html",
+    "pass": 3
+   },
+   {
+    "quote": "山口県産業技術センター | プロジェクト紹介 - 佐藤総合計画 — 山口県産業技術センター | プロジェクト紹介 - 佐藤総合計画 佐藤総合計画 https://www.axscom.jp > プロジェクトトップ",
+    "url": "https://www.axscom.jp/project/no01872/",
+    "pass": 3
+   },
+   {
+    "quote": "やまぐち産業振興財団及び 山口県産業技術センター による 包括 — やまぐち産業振興財団及び 山口県産業技術センター による 包括 国立大学法人 山口大学 PDF https://www.yamaguchi-u.ac.jp > uploads > 2023/03",
+    "url": "https://www.yamaguchi-u.ac.jp/wp-content/uploads/2023/03/23030301_pr.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "山口県産業技術センター - Wikipedia — 山口県産業技術センター - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 山口県産業技術センター",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E7%9C%8C%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+    "pass": 3
+   },
+   {
+    "quote": "地方独立行政法人 山口県産業技術センター — 地方独立行政法人 山口県産業技術センター 山口しごとセンター PDF https://www.joby.jp > uploads > 2026/07",
+    "url": "https://www.joby.jp/wp-content/uploads/2026/07/164a39f794792181432de33eed80fa63.pdf",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "藤本 康之 - 山口県産業技術センター - コーディネーター 藤本 康之 - 山口県産業技術センター - コーディネーター LinkedIn https://jp.linkedin.com > 康之-藤本-792a57203",
+    "url": "https://jp.linkedin.com/in/%E5%BA%B7%E4%B9%8B-%E8%97%A4%E6%9C%AC-792a57203",
+    "pass": 3
+   },
+   {
+    "quote": "山田 誠治 - 地方独立行政法人 山口県産業技術センター - LinkedIn 山田 誠治 - 地方独立行政法人 山口県産業技術センター - LinkedIn LinkedIn https://jp.linkedin.com > 誠治-山田-900472204",
+    "url": "https://jp.linkedin.com/in/%E8%AA%A0%E6%B2%BB-%E5%B1%B1%E7%94%B0-900472204",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "地方独立行政法人 山口県産業技術センター | Ube-shi Yamaguchi 地方独立行政法人 山口県産業技術センター | Ube-shi Yamaguchi Facebook https://www.facebook.com > ... > Engineering Service",
+    "url": "https://www.facebook.com/iti.yamaguchi/",
+    "pass": 3
+   },
+   {
+    "quote": "山口県産業技術センター の技術支援による新たな成果 事例を ... 山口県産業技術センター の技術支援による新たな成果 事例を ... Facebook https://www.facebook.com > iti.yamaguchi > posts > 山口...",
+    "url": "https://www.facebook.com/iti.yamaguchi/posts/%E5%B1%B1%E5%8F%A3%E7%9C%8C%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E6%8A%80%E8%A1%93%E6%94%AF%E6%8F%B4%E3%81%AB%E3%82%88%E3%82%8B%E6%96%B0%E3%81%9F%E3%81%AA%E6%88%90%E6%9E%9C%E4%BA%8B%E4%BE%8B%E3%82%92%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%81%97%E3%81%BE%E3%81%99%E6%8A%80%E8%A1%93%E6%94%AF%E6%8F%B4%E6%88%90%E6%9E%9C%E4%BA%8B%E4%BE%8B%E6%93%8D%E4%BD%9C%E3%82%92%E5%BF%85%E8%A6%81%E3%81%A8%E3%81%97%E3%81%AA%E3%81%84%E6%90%BA%E5%B8%AF%E5%9E%8B%E9%81%A0%E9%9A%94%E4%BC%9A%E8%A9%B1%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88%E8%A9%B3%E7%B4%B0%E3%81%AF%E4%BB%A5%E4%B8%8B%E3%81%AEurl%E3%82%92%E3%81%94%E8%A6%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84-/716782607528455/",
+    "pass": 3
+   },
+   {
+    "quote": "山口県産業技術センター - Home - Facebook 山口県産業技術センター - Home - Facebook Facebook https://www.facebook.com > 山口県産業技術センター-",
+    "url": "https://www.facebook.com/pages/%E5%B1%B1%E5%8F%A3%E7%9C%8C%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-/482716255099816",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.iti-yamaguchi.or.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iti-yamaguchi.or.jp/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iti-yamaguchi.or.jp/facility/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iti-yamaguchi.or.jp/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iti-yamaguchi.or.jp/docs/2026110600020/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iti-yamaguchi.or.jp/docs/2026102100033/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iti-yamaguchi.or.jp/docs/2026100500019/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iti-yamaguchi.or.jp/docs/2026100700013/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iti-yamaguchi.or.jp/docs/2026093000015/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iti-yamaguchi.or.jp/docs/2026092900019/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iti-yamaguchi.or.jp/docs/2026091500012/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iti-yamaguchi.or.jp/docs/2026090100015/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iti-yamaguchi.or.jp/docs/2026072300013/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.iti-yamaguchi.or.jp/_files/00052948/20250401_kaihoukikiannai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.iti-yamaguchi.or.jp/_files/00057332/20260701_kaihoukiki.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/60127.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.youtube.com/channel/UC_TdOuEFyOtf4Fxm6i5GJ4A",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/331989",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Byfy7tsLawE",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://unit.aist.go.jp/chugoku/kaihou-kiki/data/yamaguchi/D-01-171.html",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://ds.cc.yamaguchi-u.ac.jp/~yfnet/equipment/253/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.yamaguchi.lg.jp/soshiki/83/22042.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.axscom.jp/project/no01872/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.yamaguchi.lg.jp/soshiki/83/22042.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.joby.jp/wp-content/uploads/2026/07/164a39f794792181432de33eed80fa63.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E5%BA%B7%E4%B9%8B-%E8%97%A4%E6%9C%AC-792a57203",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E8%AA%A0%E6%B2%BB-%E5%B1%B1%E7%94%B0-900472204",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/iti.yamaguchi/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/iti.yamaguchi/posts/%E5%B1%B1%E5%8F%A3%E7%9C%8C%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E6%8A%80%E8%A1%93%E6%94%AF%E6%8F%B4%E3%81%AB%E3%82%88%E3%82%8B%E6%96%B0%E3%81%9F%E3%81%AA%E6%88%90%E6%9E%9C%E4%BA%8B%E4%BE%8B%E3%82%92%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%81%97%E3%81%BE%E3%81%99%E6%8A%80%E8%A1%93%E6%94%AF%E6%8F%B4%E6%88%90%E6%9E%9C%E4%BA%8B%E4%BE%8B%E6%93%8D%E4%BD%9C%E3%82%92%E5%BF%85%E8%A6%81%E3%81%A8%E3%81%97%E3%81%AA%E3%81%84%E6%90%BA%E5%B8%AF%E5%9E%8B%E9%81%A0%E9%9A%94%E4%BC%9A%E8%A9%B1%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88%E8%A9%B3%E7%B4%B0%E3%81%AF%E4%BB%A5%E4%B8%8B%E3%81%AEurl%E3%82%92%E3%81%94%E8%A6%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84-/716782607528455/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/%E5%B1%B1%E5%8F%A3%E7%9C%8C%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-/482716255099816",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "山口県産業技術センター",
+   "results": [
+    "https://www.iti-yamaguchi.or.jp/",
+    "https://www.pref.yamaguchi.lg.jp/soshiki/83/22042.html",
+    "https://www.youtube.com/channel/UC_TdOuEFyOtf4Fxm6i5GJ4A",
+    "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E7%9C%8C%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+    "http://www.shunan-ziba.or.jp/satellite/index.html",
+    "https://www.facebook.com/iti.yamaguchi/",
+    "https://ja.wikipedia.org/wiki/山口県産業技術センター"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "山口県産業技術センター 会社概要 資本金 設立",
+   "results": [
+    "https://www.iti-yamaguchi.or.jp/",
+    "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/60127.pdf",
+    "https://www.youtube.com/channel/UC_TdOuEFyOtf4Fxm6i5GJ4A",
+    "https://clip-corporation.com/company-matching/company-details/?corporate_number=7250005003025&industry_classification_middle_number=&industry_classification_minor_number=&industry_classification_sub_number",
+    "https://tstcl.jp/company/",
+    "https://companyinformation.jp/corp/7250005003025/",
+    "http://www.shunan-ziba.or.jp/satellite/index.html",
+    "https://ube-kankou.or.jp/mice/facilitie/post-24.html",
+    "https://doda.jp/DodaFront/View/Company/j_id__10090428399/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "山口県産業技術センター 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.nikkan.co.jp/articles/view/331989",
+    "https://www.iti-yamaguchi.or.jp/3D_monodukuri/",
+    "https://www.youtube.com/watch?v=Byfy7tsLawE",
+    "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "https://sharelab.jp/events/yamaguchi-iti-design-competition-2026/",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-houkokusyo.pdf",
+    "https://www.iri.pref.shizuoka.jp/printer/",
+    "https://www.facebook.com/iti.yamaguchi/posts/%E8%A1%8C%E4%BA%8B%E4%BA%88%E5%AE%9A%E6%A8%B9%E8%84%82%E7%B3%BB%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E9%80%A0%E5%BD%A2%E6%9D%90%E6%96%99%E3%81%AE%E6%96%B0%E6%BD%AE%E6%B5%81%E4%BB%A4%E5%92%8C7%E5%B9%B4%E5%BA%A6%E3%82%84%E3%81%BE%E3%81%90%E3%81%A1%EF%BC%93d%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E7%A0%94%E7%A9%B6%E4%BC%9A%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99%E9%96%8B%E5%82%AC%E6%97%A5%E6%99%82%E4%BB%A4%E5%92%8C8%E5%B9%B43%E6%9C%8813%E6%97%A5%E9%87%9113301630%EF%BC%93%EF%BD%84%E3%82%82%E3%81%AE%E3%81%A5/893169256556455/",
+    "https://yamanashi-veh.jp/machining/1472"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "山口県産業技術センター 金属積層造形 設備",
+   "results": [
+    "https://www.iti-yamaguchi.or.jp/equipment/329/",
+    "https://unit.aist.go.jp/chugoku/kaihou-kiki/data/yamaguchi/D-01-171.html",
+    "https://ds.cc.yamaguchi-u.ac.jp/~yfnet/equipment/253/",
+    "https://www.youtube.com/watch?v=nzpxhufBg7U",
+    "https://www.fitc.pref.fukuoka.jp/facility/setsubi/dep-list/meri/kinzoku-sekisou-zoukei.php",
+    "https://www.jstage.jst.go.jp/browse/itiyamaguchi/34/0/_contents/-char/ja",
+    "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "https://www.iti-yamaguchi.or.jp/equipment/",
+    "https://www.itc.pref.toyama.jp/equipment/e_data/1333h263dmr.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "山口県産業技術センター 株主 出資 親会社",
+   "results": [
+    "https://www.iti-yamaguchi.or.jp/",
+    "https://www.pref.yamaguchi.lg.jp/soshiki/83/22042.html",
+    "https://www.axscom.jp/project/no01872/",
+    "https://www.yamaguchi-u.ac.jp/wp-content/uploads/2023/03/23030301_pr.pdf",
+    "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E7%9C%8C%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+    "https://unit.aist.go.jp/chugoku/jushiDB/meikan/yamaguchi.html",
+    "https://www.yamaguchibank.co.jp/portal/news/2014/news_1119.pdf",
+    "https://www.restec.or.jp/about/pdf/50th_symposium/05-07_Yamaguchi%20Pref.pdf",
+    "https://www.yama-ctc.or.jp/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "山口県産業技術センター 売上高 従業員数",
+   "results": [
+    "https://www.iti-yamaguchi.or.jp/",
+    "https://www.pref.yamaguchi.lg.jp/soshiki/83/22042.html",
+    "https://www.joby.jp/wp-content/uploads/2026/07/164a39f794792181432de33eed80fa63.pdf",
+    "https://www.youtube.com/channel/UC_TdOuEFyOtf4Fxm6i5GJ4A",
+    "http://www.shunan-ziba.or.jp/satellite/index.html",
+    "https://www.buffett-code.com/company/52daks8mzh/",
+    "https://ube-kankou.or.jp/mice/facilitie/post-24.html",
+    "https://jp.indeed.com/cmp/%E5%9C%B0%E6%96%B9%E7%8B%AC%E7%AB%8B%E8%A1%8C%E6%94%BF%E6%B3%95%E4%BA%BA%E5%B1%B1%E5%8F%A3%E7%9C%8C%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-1/salaries",
+    "https://www.shunan-marketing.jp/html/supportlink/ymg_sangyou/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com 山口県産業技術センター",
+   "results": [
+    "https://note.com/inaka_consult/n/nc2fef0bb5895",
+    "https://note.com/sake_diploma_23/n/nce11a2f88e71",
+    "https://note.com/agritree/n/n04e579a22509",
+    "https://note.com/eito88888888/n/n6d9c2d969f38",
+    "https://note.com/inaka_consult/n/nd92f0e10ec47",
+    "https://note.com/digitech_ymg/n/n1d5886121222",
+    "https://note.com/goodjobproject/n/n851daed12e49",
+    "https://note.com/digitech_ymg/n/n5752616650cd",
+    "https://note.com/jyushok/n/n0eab77950625",
+    "https://note.com/digitech_ymg/n/n96c7601e96dc"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:x.com 山口県産業技術センター",
+   "results": [
+    "https://x.com/YamaguchiU_koho/status/1838515312842674499",
+    "https://x.com/ONEMORNING_1/status/1914808176060584237",
+    "https://x.com/Nikko6306/status/1894551698137649194",
+    "https://x.com/fushinsha_joho/status/1914367277400777144",
+    "https://x.com/yamaguchi_dig/status/2112720811434099195",
+    "https://x.com/yamaguchikouhou",
+    "https://x.com/Hirokouken_AITC",
+    "https://x.com/YamaguchiU_koho",
+    "https://x.com/yic_go",
+    "https://x.com/muraoka_tsugu"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com 山口県産業技術センター",
+   "results": [
+    "https://jp.linkedin.com/in/%E5%BA%B7%E4%B9%8B-%E8%97%A4%E6%9C%AC-792a57203",
+    "https://jp.linkedin.com/jobs/view/%E7%A0%94%E7%A9%B6%E5%93%A1-at-%E5%9C%B0%E6%96%B9%E7%8B%AC%E7%AB%8B%E8%A1%8C%E6%94%BF%E6%B3%95%E4%BA%BA%E5%B1%B1%E5%8F%A3%E7%9C%8C%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-4476210721",
+    "https://jp.linkedin.com/in/%E8%AA%A0%E6%B2%BB-%E5%B1%B1%E7%94%B0-900472204",
+    "https://jp.linkedin.com/pub/dir/%E4%B8%80%E5%AE%8F/%E8%97%A4%E4%BA%95/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://jp.linkedin.com/in/%E7%BF%94%E5%B9%B3-%E6%9D%91%E7%94%B0-1324a417a",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E5%B1%B1%E5%8F%A3%E3%80%91%E3%83%86%E3%82%B9%E3%83%A9%E3%82%A2%E3%83%89%E3%83%90%E3%82%A4%E3%82%B6%E3%83%BC-%E9%9B%BB%E6%B0%97%E8%87%AA%E5%8B%95%E8%BB%8A%E3%82%B9%E3%83%88%E3%82%A2%E5%96%B6%E6%A5%AD-at-tesla-4420210917",
+    "https://jp.linkedin.com/jobs/view/%E2%98%86%E3%80%90%E5%B1%B1%E5%8F%A3-%E6%B5%B7%E5%A4%96%E6%94%AF%E6%8F%B4%E3%80%91%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%82%B7%E3%82%A7%E3%82%A2no%EF%BC%91%E5%B0%8E%E9%9B%BB%E6%80%A7%E9%AB%98%E5%88%86%E5%AD%90%E3%83%8F%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%83%89%E3%82%A2%E3%83%AB%E3%83%9F%E9%9B%BB%E8%A7%A3%E3%82%B3%E3%83%B3%E3%83%87%E3%83%B3%E3%82%B5%E3%81%AE%E6%96%B0%E8%A6%8F%E8%A8%AD%E5%82%99%E7%AB%8B%E3%81%A1%E4%B8%8A%E3%81%92%E3%80%81%E4%BF%9D%E5%85%A8%E6%A5%AD%E5%8B%99%E3%80%90pid-%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E4%BA%8B%E6%A5%AD%E9%83%A8%E3%80%91-at-panasonic-4427334039",
+    "https://jp.linkedin.com/in/chikahiro-miyokawa-77b732111",
+    "https://jp.linkedin.com/jobs/view/maintenance-planner-%E2%80%93-light-vehicles-lv-ancillary-at-asante-gold-cse-ase-gse-asg-fse-1a9-%23corpasantegold-4479714501"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com 山口県産業技術センター",
+   "results": [
+    "https://www.facebook.com/iti.yamaguchi/",
+    "https://www.facebook.com/iti.yamaguchi/posts/%E5%B1%B1%E5%8F%A3%E7%9C%8C%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E6%8A%80%E8%A1%93%E6%94%AF%E6%8F%B4%E3%81%AB%E3%82%88%E3%82%8B%E6%96%B0%E3%81%9F%E3%81%AA%E6%88%90%E6%9E%9C%E4%BA%8B%E4%BE%8B%E3%82%92%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%81%97%E3%81%BE%E3%81%99%E6%8A%80%E8%A1%93%E6%94%AF%E6%8F%B4%E6%88%90%E6%9E%9C%E4%BA%8B%E4%BE%8B%E6%93%8D%E4%BD%9C%E3%82%92%E5%BF%85%E8%A6%81%E3%81%A8%E3%81%97%E3%81%AA%E3%81%84%E6%90%BA%E5%B8%AF%E5%9E%8B%E9%81%A0%E9%9A%94%E4%BC%9A%E8%A9%B1%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88%E8%A9%B3%E7%B4%B0%E3%81%AF%E4%BB%A5%E4%B8%8B%E3%81%AEurl%E3%82%92%E3%81%94%E8%A6%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84-/716782607528455/",
+    "https://www.facebook.com/pages/%E5%B1%B1%E5%8F%A3%E7%9C%8C%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-/482716255099816",
+    "https://www.facebook.com/iti.yamaguchi/posts/%E6%8A%80%E8%A1%93%E6%94%AF%E6%8F%B4%E6%88%90%E6%9E%9C%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%81%A8%E3%81%AE%E9%A3%9F%E3%81%B9%E5%90%88%E3%82%8F%E3%81%9B%E7%94%A8%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%E5%9E%8B%E5%B1%B1%E5%8F%A3%E7%9C%8C%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E6%8A%80%E8%A1%93%E6%94%AF%E6%8F%B4%E3%81%AB%E3%82%88%E3%82%8B%E6%96%B0%E3%81%9F%E3%81%AA%E6%88%90%E6%9E%9C%E4%BA%8B%E4%BE%8B%E3%82%92%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%81%97%E3%81%BE%E3%81%99%E6%8A%80%E8%A1%93%E6%94%AF%E6%8F%B4%E6%88%90%E6%9E%9C%E4%BA%8B%E4%BE%8B-%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%81%A8%E3%81%AE%E9%A3%9F%E3%81%B9%E5%90%88%E3%82%8F%E3%81%9B%E7%94%A8/1110942904779088/",
+    "https://www.facebook.com/iti.yamaguchi/posts/%E8%A1%8C%E4%BA%8B%E4%BA%88%E5%AE%9A%E3%82%84%E3%81%BE%E3%81%90%E3%81%A1%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%86%E3%83%83%E3%82%AF%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%882026%E6%8A%80%E8%A1%93%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99-%E9%96%8B%E5%82%AC%E6%97%A5%E6%99%82%E4%BB%A4%E5%92%8C8%E5%B9%B412%E6%9C%8825%E6%97%A5%E9%87%9113301630%E5%B1%B1%E5%8F%A3%E7%9C%8C%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AF%E5%B1%B1%E5%8F%A3%E7%9C%8C%E5%86%85%E3%81%AE%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F/1137167862156592/",
+    "https://www.facebook.com/iti.yamaguchi/posts/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E4%BB%A4%E5%92%8C8%E5%B9%B4%E5%BA%A6%E5%9C%B0%E6%96%B9%E7%8B%AC%E7%AB%8B%E8%A1%8C%E6%94%BF%E6%B3%95%E4%BA%BA%E5%B1%B1%E5%8F%A3%E7%9C%8C%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E8%81%B7%E5%93%A1%E6%8E%A1%E7%94%A8%E8%A9%A6%E9%A8%93%E5%8F%97%E9%A8%93%E6%A1%88%E5%86%85%EF%BC%92%E6%AC%A1%E5%8B%9F%E9%9B%86%E5%9C%B0%E6%96%B9%E7%8B%AC%E7%AB%8B%E8%A1%8C%E6%94%BF%E6%B3%95%E4%BA%BA%E5%B1%B1%E5%8F%A3%E7%9C%8C%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%A7%E3%81%AF%E6%AC%A1%E3%81%AE%E3%81%A8%E3%81%8A%E3%82%8A%E8%81%B7%E5%93%A1%E6%8E%A1%E7%94%A8%E8%A9%A6%E9%A8%93%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%BE%E3%81%99/1100159212524124/",
+    "https://www.facebook.com/iti.yamaguchi/posts/%E6%8A%80%E8%A1%93%E6%94%AF%E6%8F%B4%E6%88%90%E6%9E%9C%E7%84%BC%E3%81%8D%E8%8F%93%E5%AD%90%E7%94%A8%E3%82%B7%E3%83%AA%E3%82%B3%E3%83%BC%E3%83%B3%E5%9E%8B%E3%81%AE%E9%96%8B%E7%99%BA%E6%94%AF%E6%8F%B4%E5%B1%B1%E5%8F%A3%E7%9C%8C%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E6%8A%80%E8%A1%93%E6%94%AF%E6%8F%B4%E3%81%AB%E3%82%88%E3%82%8B%E6%96%B0%E3%81%9F%E3%81%AA%E6%88%90%E6%9E%9C%E4%BA%8B%E4%BE%8B%E3%82%92%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%81%97%E3%81%BE%E3%81%99%E8%A9%B3%E7%B4%B0%E3%81%AF%E4%BB%A5%E4%B8%8B%E3%82%92%E3%81%94%E8%A6%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84-%E5%B1%B1%E5%8F%A3%E7%9C%8C%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/964406906099356/",
+    "https://www.facebook.com/iti.yamaguchi/posts/%E6%8A%80%E8%A1%93%E6%94%AF%E6%8F%B4%E6%88%90%E6%9E%9C%E3%83%AD%E3%82%B4%E3%83%9E%E3%83%BC%E3%82%AF%E3%82%92%E3%81%8B%E3%81%9F%E3%81%A9%E3%81%A3%E3%81%9F%E6%9D%BF%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%E5%9E%8B%E5%B1%B1%E5%8F%A3%E7%9C%8C%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E6%8A%80%E8%A1%93%E6%94%AF%E6%8F%B4%E3%81%AB%E3%82%88%E3%82%8B%E6%96%B0%E3%81%9F%E3%81%AA%E6%88%90%E6%9E%9C%E4%BA%8B%E4%BE%8B%E3%82%92%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%81%97%E3%81%BE%E3%81%99%E6%8A%80%E8%A1%93%E6%94%AF%E6%8F%B4%E6%88%90%E6%9E%9C%E4%BA%8B%E4%BE%8B-%E3%83%AD%E3%82%B4%E3%83%9E%E3%83%BC%E3%82%AF%E3%82%92%E3%81%8B%E3%81%9F%E3%81%A9%E3%81%A3%E3%81%9F%E6%9D%BF/1110941264779252/",
+    "https://www.facebook.com/iti.yamaguchi/posts/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E5%BD%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E8%81%B7%E5%93%A1%E3%81%8C%E5%B1%B1%E5%8F%A3%E5%A4%A7%E5%AD%A6%E3%81%AE%E5%AD%A6%E9%95%B7%E8%A1%A8%E5%BD%B0%E3%82%92%E5%8F%97%E8%B3%9E%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-%E5%B1%B1%E5%8F%A3%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E5%8D%9A%E5%A3%AB%E5%BE%8C%E6%9C%9F%E8%AA%B2%E7%A8%8B%E3%81%AB%E5%9C%A8%E7%B1%8D%E3%81%97%E4%BB%A4%E5%92%8C%EF%BC%98%E5%B9%B4%EF%BC%93%E6%9C%88%E3%81%AB%E4%BF%AE%E4%BA%86%E3%81%97%E3%81%9F%E7%B4%B0%E8%B0%B7%E5%A4%8F%E6%A8%B9%E5%B0%82%E9%96%80%E7%A0%94%E7%A9%B6%E5%93%A1%E6%8A%80%E8%A1%93%E6%94%AF%E6%8F%B4%E9%83%A8%E6%9D%90%E6%96%99%E6%8A%80%E8%A1%93%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%8C/971323148741065/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "山口県産業技術センター note 社長",
+   "results": [
+    "https://www.youtube.com/watch?v=3Kqm4872P-I",
+    "https://www.youtube.com/channel/UC_TdOuEFyOtf4Fxm6i5GJ4A",
+    "https://www.iti-yamaguchi.or.jp/",
+    "https://www.jstage.jst.go.jp/browse/itiyamaguchi/-char/ja",
+    "https://www.pref.yamaguchi.lg.jp/soshiki/83/318649.html",
+    "https://www.facebook.com/iti.yamaguchi/",
+    "https://www.axscom.jp/project/no01872/",
+    "https://www.aist.go.jp/chugoku/ja/event/2018fy/0313.html",
+    "https://www.yamaguchi-u.ac.jp/wp-content/uploads/2023/03/23030301_pr.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "山口県産業技術センター X 投稿",
+   "results": [
+    "https://www.iti-yamaguchi.or.jp/equipment/437/",
+    "https://www.youtube.com/channel/UC_TdOuEFyOtf4Fxm6i5GJ4A",
+    "https://x.com/ONEMORNING_1/status/1914808176060584237",
+    "https://www.pref.yamaguchi.lg.jp/soshiki/83/272547.html",
+    "https://www.youtube.com/watch?v=oXBfBg3KQ6Q",
+    "https://www.facebook.com/iti.yamaguchi/",
+    "https://ds.cc.yamaguchi-u.ac.jp/~yfnet/equipment/53/",
+    "https://www.iti-yamaguchi.or.jp/equipment/",
+    "https://yamacon.co.jp/awards/%E3%80%8C%E7%AC%AC18%E5%9B%9E%E5%B1%B1%E5%8F%A3%E7%9C%8C%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E6%8C%AF%E8%88%88%E5%A5%A8%E5%8A%B1%E8%B3%9E%E3%80%8D/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式13頁／PDF・画像2件／外部15頁・検索12回）",
+  "資本金": "記載なし（3回確認済み：公式13頁／PDF・画像2件／外部15頁・検索12回）",
+  "創業年度": "記載なし（3回確認済み：公式13頁／PDF・画像2件／外部15頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像2件／外部15頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像2件／外部15頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式13頁／PDF・画像2件／外部15頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式13頁／PDF・画像2件／外部15頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式13頁／PDF・画像2件／外部15頁・検索12回）"
+ }
+}

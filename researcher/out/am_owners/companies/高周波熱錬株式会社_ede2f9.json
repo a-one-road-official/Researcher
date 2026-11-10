@@ -1,0 +1,1373 @@
+{
+ "name": "高周波熱錬株式会社",
+ "aliases": [],
+ "context": "PBF=unknown 装置= 出典=https://www.k-neturen.co.jp/ja/ir/news/auto_20240603519231/pdfFile.pdf",
+ "researched_at": "2026-11-10T20:45:16.235376+00:00",
+ "official_url": "https://www.k-neturen.co.jp/",
+ "identified_by": "search:yahoo_jp:高周波熱錬",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒141-8639 東京都品川区東五反田二丁目17番1号 オーバルコート大崎マークウエスト",
+    "url": "https://www.k-neturen.co.jp/ja/company/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "高周波熱錬株式会社（本社",
+    "value": "東京都品川区、代表取締役社長執行役員：大宮克己、以下",
+    "url": "https://www.k-neturen.co.jp/ja/news/news20261021/main/0/link/news_integratedreport2026.pdf",
+    "pass": 2
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1946年（昭和21年）5月15日（現社名）",
+    "url": "https://www.k-neturen.co.jp/ja/company/outline.html",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "6,418百万円（2026年3月31日現在）",
+    "url": "https://www.k-neturen.co.jp/ja/company/outline.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結：1,651名　単独：872名（2026年3月31日現在）",
+    "url": "https://www.k-neturen.co.jp/ja/company/outline.html",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "58,277百万円(連結)（2026年3月期） 29,632百万円(単体)（2026年3月期）",
+    "url": "https://www.k-neturen.co.jp/ja/company/outline.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "立花エレテック社「太陽光発電システム・電力監視システム」の導入事例として当社が紹介されました",
+    "url": "https://www.k-neturen.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "３Ｄプリンター導入に関するお知らせ",
+    "url": "https://www.k-neturen.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "譲渡制限付株式報酬制度の導入に伴う自己株式の処分に関する取締役会決議公告(2020/7/7)",
+    "url": "https://www.k-neturen.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "業績連動現金報酬および株式報酬制度導入に関するお知らせ",
+    "url": "https://www.k-neturen.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "３Ｄプリンター導入に関するお知らせ",
+    "url": "https://www.k-neturen.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "譲渡制限付株式報酬制度の導入に伴う自己株式の処分に関する取締役会決議公告(2020/7/7)",
+    "url": "https://www.k-neturen.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "業績連動現金報酬および株式報酬制度導入に関するお知らせ",
+    "url": "https://www.k-neturen.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "CAE 解析や金属3Dプリンター等の先進技術を活用した開発事例や、早期事業化・",
+    "url": "https://www.k-neturen.co.jp/ja/news/news20261021/main/0/link/news_integratedreport2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３Ｄプリンター導入に関するお知らせ",
+    "url": "https://buffett-code-archives.s3.ap-northeast-1.amazonaws.com/pr_reports/140120220517550089.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社は下記の通り、３Ｄプリンターを導入することを決議いたしましたので、お知らせいたします",
+    "url": "https://buffett-code-archives.s3.ap-northeast-1.amazonaws.com/pr_reports/140120220517550089.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．導入の理由",
+    "url": "https://buffett-code-archives.s3.ap-northeast-1.amazonaws.com/pr_reports/140120220517550089.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "た結果、一定の評価が得られたことから、まずは社内の研究開発における使用を目途として導入を決定",
+    "url": "https://buffett-code-archives.s3.ap-northeast-1.amazonaws.com/pr_reports/140120220517550089.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．導入時期 2022年度中",
+    "url": "https://buffett-code-archives.s3.ap-northeast-1.amazonaws.com/pr_reports/140120220517550089.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ＡＭにおける純銅の誘導加熱コイルで開発リードタイムの短縮 - 金属3Dプリンター受託造形｜金属AM×精密切削加工｜ODEC",
+    "url": "http://3d.kinzoku-kakou-odec.com/column/column-1170/",
+    "pass": 3
+   },
+   {
+    "quote": "高周波熱錬株式会社が、純銅の誘導加熱コイル製造するための金属３Ｄプリンターを導入すると発表があり、株価が続伸しているようです",
+    "url": "http://3d.kinzoku-kakou-odec.com/column/column-1170/",
+    "pass": 3
+   },
+   {
+    "quote": "ネツレンが３Dプリンターを導入へ（出典：yahoo!ファイナンス）",
+    "url": "http://3d.kinzoku-kakou-odec.com/column/column-1170/",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリースによると、ＩＨ（誘導加熱）熱処理技術の研究開発用途としての金属３Ｄプリンターの導入とのことで、研究開発のリードタイムを大幅に短縮していくことを目標としているようです",
+    "url": "http://3d.kinzoku-kakou-odec.com/column/column-1170/",
+    "pass": 3
+   },
+   {
+    "quote": "レーザービームの種類（グリーンレーザー、ブルーレーザー）や電子ビームなど波長の違いにより、純銅に熱を与えやすいビームの種類もあります",
+    "url": "http://3d.kinzoku-kakou-odec.com/column/column-1170/",
+    "pass": 3
+   },
+   {
+    "quote": "中でも電子ビームは純銅の造形に適している方式と呼ばれていますが、造形物の形状に制限があったりと課題は残っているようです",
+    "url": "http://3d.kinzoku-kakou-odec.com/column/column-1170/",
+    "pass": 3
+   },
+   {
+    "quote": "熱処理加工に必要なIH装置を自社で開発・製造できるため、最新技術をいち早く自社の加工ラインに導入できるほか、顧客の特殊なニーズに応じた最適な装置を提供できます",
+    "url": "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "pass": 3
+   },
+   {
+    "quote": ": 人口減少や若者の車離れにより、国内新車販売台数は長期的には減少傾向が予測されます",
+    "url": "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "pass": 3
+   },
+   {
+    "quote": "保有技術・特許：独自技術の蓄積と知的財産戦略",
+    "url": "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "pass": 3
+   },
+   {
+    "quote": ": 三次元測定器、金属顕微鏡、硬さ試験機、磁粉探傷装置など、最新の検査設備を導入し、品質保証レベルの向上に努めています",
+    "url": "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "pass": 3
+   },
+   {
+    "quote": ": 熱処理プロセスの最適化、予知保全、品質管理の高度化などを目的としたAIやIoT技術の導入",
+    "url": "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "pass": 3
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "当社グループ会社の韓国熱錬が「第11回慶北クリーン経営大賞」銅賞を授賞しました",
+    "url": "https://www.k-neturen.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "昨今の技術革新により、純銅が造形出来る金属３Ｄプリンターによる誘導加熱コイルの製作を検討し",
+    "url": "https://buffett-code-archives.s3.ap-northeast-1.amazonaws.com/pr_reports/140120220517550089.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ＡＭにおける純銅の誘導加熱コイルで開発リードタイムの短縮 - 金属3Dプリンター受託造形｜金属AM×精密切削加工｜ODEC",
+    "url": "http://3d.kinzoku-kakou-odec.com/column/column-1170/",
+    "pass": 3
+   },
+   {
+    "quote": "ＡＭにおける純銅の誘導加熱コイルで開発リードタイムの短縮",
+    "url": "http://3d.kinzoku-kakou-odec.com/column/column-1170/",
+    "pass": 3
+   },
+   {
+    "quote": "高周波熱錬株式会社が、純銅の誘導加熱コイル製造するための金属３Ｄプリンターを導入すると発表があり、株価が続伸しているようです",
+    "url": "http://3d.kinzoku-kakou-odec.com/column/column-1170/",
+    "pass": 3
+   },
+   {
+    "quote": "純銅での金属３Ｄプリンター造形の難しさ",
+    "url": "http://3d.kinzoku-kakou-odec.com/column/column-1170/",
+    "pass": 3
+   },
+   {
+    "quote": "純銅は導電性と熱伝導率に優れているため、ヒートシンクや高周波焼き入れ用コイル、導波管、クライストロン等、産業界でも広く使われており、金属３Ｄプリンターにおけるアプリケーションとしても非常に有力な素材ですが、これまで、銅を金属３Ｄプリンターで造形するのは、非常に難しいとされてきました",
+    "url": "http://3d.kinzoku-kakou-odec.com/column/column-1170/",
+    "pass": 3
+   },
+   {
+    "quote": "導電性の高さゆえに、熱が逃げやすく、レーザービームを照射しても、純銅では2％程度の熱しか吸収することができないといわれているようです",
+    "url": "http://3d.kinzoku-kakou-odec.com/column/column-1170/",
+    "pass": 3
+   },
+   {
+    "quote": "レーザービームの種類（グリーンレーザー、ブルーレーザー）や電子ビームなど波長の違いにより、純銅に熱を与えやすいビームの種類もあります",
+    "url": "http://3d.kinzoku-kakou-odec.com/column/column-1170/",
+    "pass": 3
+   },
+   {
+    "quote": "中でも電子ビームは純銅の造形に適している方式と呼ばれていますが、造形物の形状に制限があったりと課題は残っているようです",
+    "url": "http://3d.kinzoku-kakou-odec.com/column/column-1170/",
+    "pass": 3
+   },
+   {
+    "quote": "レーザービームでは銅合金で造形を行うことが一般的",
+    "url": "http://3d.kinzoku-kakou-odec.com/column/column-1170/",
+    "pass": 3
+   },
+   {
+    "quote": "現在ＰＢＦのレーザービームで造形を行う場合、銅合金を使用することが一般的です",
+    "url": "http://3d.kinzoku-kakou-odec.com/column/column-1170/",
+    "pass": 3
+   },
+   {
+    "quote": "この銅合金の問題点は、造形が終わったままの状態では導電率が低い状態であるため、Crを析出させるための熱処理を行う必要がある点です",
+    "url": "http://3d.kinzoku-kakou-odec.com/column/column-1170/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、この熱処理を行うことにより、純銅に対し95％程度の導電率を得ることが可能です",
+    "url": "http://3d.kinzoku-kakou-odec.com/column/column-1170/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社における銅の造形も、この銅合金を使用し、造形を行っております",
+    "url": "http://3d.kinzoku-kakou-odec.com/column/column-1170/",
+    "pass": 3
+   },
+   {
+    "quote": "他にも、ＦＤＭ方式の３Ｄプリンター（Desktop Metal社／Markforged社 など）でも純銅の造形を行うことができるようです",
+    "url": "http://3d.kinzoku-kakou-odec.com/column/column-1170/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、ＦＤＭ方式は、金属粉末とバインダーにより造形を行った後に、脱脂・焼結を行うという工程が必要で、この影響により導電率は低くなってしまう傾向があるようです",
+    "url": "http://3d.kinzoku-kakou-odec.com/column/column-1170/",
+    "pass": 3
+   },
+   {
+    "quote": "このように、技術的にはまだまだ課題がある金属３Ｄプリンターによる銅の造形ですが、各社の技術開発により、徐々に対応できる設備やサービスビューローが出始めてきており、このニュースにもあるように今後の技術進展に期待ができます",
+    "url": "http://3d.kinzoku-kakou-odec.com/column/column-1170/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちＯＤＥＣも、銅合金による造形技術の開発には力を入れておりますので、銅のＡＭ製品開発に取り組みたいという開発者の方がいらっしゃいましたら、お気軽にお声がけください",
+    "url": "http://3d.kinzoku-kakou-odec.com/column/column-1170/",
+    "pass": 3
+   },
+   {
+    "quote": "多様な金属材料（炭素鋼、合金鋼、ステンレス鋼、鋳鉄など）や部品形状に対応できる応用力の高さも強みです",
+    "url": "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "pass": 3
+   },
+   {
+    "quote": ": 燃費向上や運動性能向上のため、車体や部品の軽量化が求められており、高張力鋼板（ハイテン材）やアルミニウム合金、炭素繊維強化プラスチック（CFRP）といった新素材の採用が進んでいます",
+    "url": "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "pass": 3
+   },
+   {
+    "quote": ": 高張力鋼板、ステンレス鋼、非鉄金属（アルミニウム、チタンなど）といった新素材への最適な熱処理技術の開発",
+    "url": "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "pass": 3
+   },
+   {
+    "quote": "軽量化素材（高張力鋼板、アルミニウム合金など）への対応技術の確立",
+    "url": "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "pass": 3
+   },
+   {
+    "quote": "EVの航続距離を延ばすためには車体軽量化が必須であり、高張力鋼板やアルミニウム合金の使用が増加します",
+    "url": "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "pass": 3
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "トヨタ自動車安全衛生協力会より「安全努力賞」を受賞しました",
+    "url": "https://www.k-neturen.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社株式の大量買付けに関する適正ルール（買収防衛策）の非継続（廃止）に関するお知らせ(2020/03/10)",
+    "url": "https://www.k-neturen.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社株式の大量買付けに関する適正ルール（買収防衛策）の非継続（廃止）に関するお知らせ(2020/03/10)",
+    "url": "https://www.k-neturen.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "を低減する「プレハードン材」と、削らず・叩かず・専用金型不要でつば出しができ、材",
+    "url": "https://www.k-neturen.co.jp/ja/news/news20261029/main/0/link/20261029_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "あり、球状化焼鈍・ボンデ処理・(チャック部以外の)金型が不",
+    "url": "https://www.k-neturen.co.jp/ja/news/news20261029/main/0/link/20261029_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "自動車部品・建設機械・建築土木の鉄鋼資材等、社会インフラに欠かせないものづくりをしています！",
+    "url": "https://job.mynavi.jp/28/pc/search/corp56483/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "IH技術のパイオニアとして自動車・建設・鉄道など社会を支える製品の品質を支えています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp56483/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "自動車・建設・鉄道・エネルギーなど、社会を支える幅広い分野でモノづくりを支えてきました",
+    "url": "https://job.mynavi.jp/28/pc/search/corp56483/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば自動車のドライブシャフトや建設機械の部品、鉄道のレールなど、社会インフラのあらゆる場面でネツレンの技術が活躍しています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp56483/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社の技術は、単に素材を強くするだけでなく、エネルギー効率や環境負荷の面でも注目されています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp56483/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "(関連業界：自動車業界・建設機械業界・工作機械業界)",
+    "url": "https://job.mynavi.jp/28/pc/search/corp56483/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "自動車・建設機械・工作機械・建築・土木などの業界に幅広く製品・サービスの供給を行っております",
+    "url": "https://job.mynavi.jp/28/pc/search/corp56483/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ＡＭにおける純銅の誘導加熱コイルで開発リードタイムの短縮 - 金属3Dプリンター受託造形｜金属AM×精密切削加工｜ODEC",
+    "url": "http://3d.kinzoku-kakou-odec.com/column/column-1170/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車、建設機械、工作機械…",
+    "url": "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "pass": 3
+   },
+   {
+    "quote": "自動車のエンジン部品や足回り部品、建設機械の油圧部品やピン、工作機械の主軸など、同社が手掛ける製品は多岐にわたり、その品質と技術力は国内外のメーカーから高い信頼を得ています",
+    "url": "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、自動車業界は100年に一度の大変革期と言われるEV（電気自動車）シフトの真っ只中",
+    "url": "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "pass": 3
+   },
+   {
+    "quote": "創業以来、一貫して「高周波焼入れ」を中心とした熱処理技術の研鑽に努め、日本の基幹産業である自動車産業や建設機械産業の発展と共に成長を遂げてきました",
+    "url": "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "pass": 3
+   },
+   {
+    "quote": "顧客企業（自動車部品メーカー、建設機械メーカーなど）から支給された金属部品に対し、主に高周波誘導加熱技術を用いて焼入れ、焼戻し、焼なましといった熱処理加工を施し、部品の強度、耐摩耗性、靭性（ねばり強さ）などを向上させます",
+    "url": "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "pass": 3
+   },
+   {
+    "quote": "自社工場で使用するだけでなく、国内外の自動車部品メーカーや素材メーカーなどへも販売しています",
+    "url": "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "pass": 3
+   },
+   {
+    "quote": "主要顧客である自動車産業や建設機械産業の生産動向に収益が左右される傾向がありますが、多種多様な部品を手掛けていること、幅広い顧客基盤を持っていることから、一定の安定性は確保されています",
+    "url": "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "pass": 3
+   },
+   {
+    "quote": "高周波誘導加熱は、必要な部分だけを急速かつ均一に加熱でき、歪みが少なく、エネルギー効率も高いという特徴があります",
+    "url": "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "pass": 3
+   },
+   {
+    "quote": "大手自動車メーカーや部品メーカー、建設機械メーカーなどと長期にわたる取引関係を構築",
+    "url": "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "pass": 3
+   },
+   {
+    "quote": "自動車部品など、高い品質と信頼性が求められる製品を多く手掛けているため、ISO9001などの国際品質認証の取得はもちろん、顧客ごとの厳しい品質基準にも対応できる体制を整備しています",
+    "url": "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "pass": 3
+   },
+   {
+    "quote": "熱処理加工を施した高機能部品を、自動車メーカー、自動車部品メーカー、建設機械メーカー、工作機械メーカーなどに供給します",
+    "url": "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "pass": 3
+   },
+   {
+    "quote": ": 近年の売上高は、主要顧客である自動車産業や建設機械産業の生産動向、国内外の経済状況に影響を受けながら推移しています",
+    "url": "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "pass": 3
+   },
+   {
+    "quote": ": 売上高の変動に加え、原材料価格（鋼材など）やエネルギーコスト（電気料金など）の変動、固定費（人件費、減価償却費）の負担などが利益水準に影響します",
+    "url": "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "pass": 3
+   },
+   {
+    "quote": "原材料費やエネルギーコストの変動が影響します",
+    "url": "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "pass": 3
+   },
+   {
+    "quote": ": 省エネルギー化、CO2排出量削減、処理時間の短縮、歪みの低減、新素材（軽量素材、高強度材など）への対応などが求められています",
+    "url": "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "第115回定時株主総会決議ご通知",
+    "url": "https://www.k-neturen.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "第115回定時株主総会招集ご通知および株主総会資料",
+    "url": "https://www.k-neturen.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "MDI株式会社の株式の取得（子会社化）完了に関するお知らせ",
+    "url": "https://www.k-neturen.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "MDI株式会社の株式の取得（子会社化）に関するお知らせ",
+    "url": "https://www.k-neturen.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "第114回定時株主総会招集ご通知 その他の電子提供措置事項（交付書面省略事項）の一部訂正に関するお知らせ",
+    "url": "https://www.k-neturen.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "第114回定時株主総会招集ご通知および株主総会資料",
+    "url": "https://www.k-neturen.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ドーケンの株式の取得（子会社化）に関するお知らせ",
+    "url": "https://www.k-neturen.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "第113回定時株主総会決議ご通知",
+    "url": "https://www.k-neturen.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "第113回定時株主総会招集ご通知および株主総会資料",
+    "url": "https://www.k-neturen.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "連結子会社の生産設備増設（設備投資）に関するお知らせ",
+    "url": "https://www.k-neturen.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "第112回定時株主総会決議ご通知",
+    "url": "https://www.k-neturen.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "第112回定時株主総会招集ご通知および株主総会資料",
+    "url": "https://www.k-neturen.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主提案に対する当社取締役会意見に関するお知らせ",
+    "url": "https://www.k-neturen.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "第111回定時株主総会決議ご通知",
+    "url": "https://www.k-neturen.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "｢第111回定時株主総会招集ご通知｣一部訂正に関するお知らせ",
+    "url": "https://www.k-neturen.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "第111回定時株主総会招集通知",
+    "url": "https://www.k-neturen.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "第111回定時株主総会における新型コロナウイルス感染拡大防止の対応について",
+    "url": "https://www.k-neturen.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "第111回定時株主総会招集ご通知 インターネット開示事項",
+    "url": "https://www.k-neturen.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "第110回定時株主総会決議ご通知",
+    "url": "https://www.k-neturen.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "｢第110回定時株主総会招集ご通知｣一部訂正に関するお知らせ",
+    "url": "https://www.k-neturen.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "第110回定時株主総会における新型コロナウイルス感染拡大防止の対応について",
+    "url": "https://www.k-neturen.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "第110回定時株主総会招集ご通知 インターネット開示事項",
+    "url": "https://www.k-neturen.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "第110回定時株主総会招集ご通知",
+    "url": "https://www.k-neturen.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主優待制度の変更に関するお知らせ（2020/11/6）",
+    "url": "https://www.k-neturen.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "第109回定時株主総会決議ご通知",
+    "url": "https://www.k-neturen.co.jp/ja/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "第115回定時株主総会決議ご通知",
+    "url": "https://www.k-neturen.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "第115回定時株主総会招集ご通知および株主総会資料",
+    "url": "https://www.k-neturen.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "MDI株式会社の株式の取得（子会社化）完了に関するお知らせ",
+    "url": "https://www.k-neturen.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "MDI株式会社の株式の取得（子会社化）に関するお知らせ",
+    "url": "https://www.k-neturen.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "第114回定時株主総会招集ご通知 その他の電子提供措置事項（交付書面省略事項）の一部訂正に関するお知らせ",
+    "url": "https://www.k-neturen.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "第114回定時株主総会招集ご通知および株主総会資料",
+    "url": "https://www.k-neturen.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ドーケンの株式の取得（子会社化）に関するお知らせ",
+    "url": "https://www.k-neturen.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "第113回定時株主総会決議ご通知",
+    "url": "https://www.k-neturen.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "第113回定時株主総会招集ご通知および株主総会資料",
+    "url": "https://www.k-neturen.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "連結子会社の生産設備増設（設備投資）に関するお知らせ",
+    "url": "https://www.k-neturen.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "第112回定時株主総会決議ご通知",
+    "url": "https://www.k-neturen.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "第112回定時株主総会招集ご通知および株主総会資料",
+    "url": "https://www.k-neturen.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主提案に対する当社取締役会意見に関するお知らせ",
+    "url": "https://www.k-neturen.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "第111回定時株主総会決議ご通知",
+    "url": "https://www.k-neturen.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "｢第111回定時株主総会招集ご通知｣一部訂正に関するお知らせ",
+    "url": "https://www.k-neturen.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "第111回定時株主総会招集通知",
+    "url": "https://www.k-neturen.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "第111回定時株主総会における新型コロナウイルス感染拡大防止の対応について",
+    "url": "https://www.k-neturen.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "第111回定時株主総会招集ご通知 インターネット開示事項",
+    "url": "https://www.k-neturen.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "第110回定時株主総会決議ご通知",
+    "url": "https://www.k-neturen.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "｢第110回定時株主総会招集ご通知｣一部訂正に関するお知らせ",
+    "url": "https://www.k-neturen.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "第110回定時株主総会における新型コロナウイルス感染拡大防止の対応について",
+    "url": "https://www.k-neturen.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "第110回定時株主総会招集ご通知 インターネット開示事項",
+    "url": "https://www.k-neturen.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "第110回定時株主総会招集ご通知",
+    "url": "https://www.k-neturen.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主優待制度の変更に関するお知らせ（2020/11/6）",
+    "url": "https://www.k-neturen.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "第109回定時株主総会決議ご通知",
+    "url": "https://www.k-neturen.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＭＤＩ株式会社の株式取得により連結子会社化",
+    "url": "https://www.k-neturen.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ドーケンの株式取得により連結子会社化",
+    "url": "https://www.k-neturen.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "チェコ共和国に特定子会社Neturen Czech s.r.o.を設立",
+    "url": "https://www.k-neturen.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "中国（山東省）に子会社高周波熱錬（中国）軸承有限公司を設立",
+    "url": "https://www.k-neturen.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "中国（広東省）に合弁会社広州豊東熱煉有限公司（連結子会社）を設立",
+    "url": "https://www.k-neturen.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "中国（江蘇省）に合弁会社塩城高周波熱煉有限公司（連結子会社）を設立",
+    "url": "https://www.k-neturen.co.jp/ja/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "高周波熱錬(株)(ネツレン)【東証プライム上場】の会社概要 | マイナビ2028",
+    "url": "https://job.mynavi.jp/28/pc/search/corp56483/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "高周波熱錬(株)(ネツレン)【東証プライム上場】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp56483/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "合弁会社ネツレン・チェコ(有)（連結子会社）を設立",
+    "url": "https://job.mynavi.jp/28/pc/search/corp56483/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ネツレン・メキシコS.A. de C.V.(連結子会社)を設立",
+    "url": "https://job.mynavi.jp/28/pc/search/corp56483/outline.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 | 会社情報 | 高周波熱錬 株式会社 — 会社概要 | 会社情報 | 高周波熱錬 株式会社 高周波熱錬株式会社 https://www.k-neturen.co.jp > company > outline",
+    "url": "https://www.k-neturen.co.jp/ja/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "高周波熱錬 株式 会社 (ネツレン)【東証プライム上場】 - マイナビ — 高周波熱錬 株式 会社 (ネツレン)【東証プライム上場】 - マイナビ マイナビ https://job.mynavi.jp > search > corp56483 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp56483/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業理念・ 会社概要 ・ 会社情報 ・代表あいさつ — 企業理念・ 会社概要 ・ 会社情報 ・代表あいさつ 九州高周波熱錬株式会社 http://www.kyu-neturen.co.jp > about",
+    "url": "http://www.kyu-neturen.co.jp/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "高周波熱錬 【5976】のストーリー・沿革 - キタイシホン — 高周波熱錬 【5976】のストーリー・沿革 - キタイシホン キタイシホン https://kitaishihon.com > company > story",
+    "url": "https://kitaishihon.com/company/5976/story",
+    "pass": 3
+   },
+   {
+    "quote": "設備投資（ 金属3Dプリンター 本格稼働）に関するお知らせ — 設備投資（ 金属3Dプリンター 本格稼働）に関するお知らせ 高周波熱錬株式会社 PDF https://www.k-neturen.co.jp > news > pdfFile",
+    "url": "https://www.k-neturen.co.jp/ja/ir/news/auto_20240603519231/pdfFile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設備 投資（ 金属 3Dプリンター本格稼働）に関するお知らせ — 設備 投資（ 金属 3Dプリンター本格稼働）に関するお知らせ 高周波熱錬株式会社 PDF https://www.k-neturen.co.jp > news > pdfFile",
+    "url": "https://www.k-neturen.co.jp/ja/ir/news/auto_20240603519231/pdfFile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式の状況 | 株式情報 | IR情報 | 高周波熱錬 株式会社 — 株式の状況 | 株式情報 | IR情報 | 高周波熱錬 株式会社 高周波熱錬株式会社 https://www.k-neturen.co.jp > stock > status",
+    "url": "https://www.k-neturen.co.jp/ja/ir/stock/status.html",
+    "pass": 3
+   },
+   {
+    "quote": "高周波熱錬 【5976】の大 株主 情報 - 株探 — 高周波熱錬 【5976】の大 株主 情報 - 株探 株探 https://kabutan.jp > stock > holder",
+    "url": "https://kabutan.jp/stock/holder?code=5976",
+    "pass": 3
+   },
+   {
+    "quote": "高周波熱錬 【5976】の大 株主 - バフェット・コード — 高周波熱錬 【5976】の大 株主 - バフェット・コード バフェット・コード https://www.buffett-code.com > mainshareholder",
+    "url": "https://www.buffett-code.com/company/5976/mainshareholder",
+    "pass": 3
+   },
+   {
+    "quote": "高周波熱錬 （ネツレン）（5976）の 株主 優待紹介 — 高周波熱錬 （ネツレン）（5976）の 株主 優待紹介 楽しい株主優待＆配当 https://www.kabuyutai.com > kobetu > k-neturen",
+    "url": "https://www.kabuyutai.com/kobetu/k-neturen.html",
+    "pass": 3
+   },
+   {
+    "quote": "高周波熱錬 (株)(ネツレン)【東証プライム上場】 - マイナビ — 高周波熱錬 (株)(ネツレン)【東証プライム上場】 - マイナビ マイナビ https://job.mynavi.jp > search > corp56483 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp56483/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "業績ハイライト | 業績・財務 | IR情報 | 高周波熱錬 株式会社 — 業績ハイライト | 業績・財務 | IR情報 | 高周波熱錬 株式会社 高周波熱錬株式会社 https://www.k-neturen.co.jp > finance > highlight",
+    "url": "https://www.k-neturen.co.jp/ja/ir/finance/highlight.html",
+    "pass": 3
+   },
+   {
+    "quote": "高周波熱錬 株式会社の平均年齢 - JS日本の企業 — 高周波熱錬 株式会社の平均年齢 - JS日本の企業 ＪＳ日本の企業 https://job.js88.com > company > listed",
+    "url": "https://job.js88.com/company/listed?c_id=1185",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【徹底解剖】 高周波熱錬 (5976): IH技術のパイオニアはEV時代 ... 【徹底解剖】 高周波熱錬 (5976): IH技術のパイオニアはEV時代 ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "pass": 3
+   },
+   {
+    "quote": "高周波熱錬 株式会社 いわき工場 - note 高周波熱錬 株式会社 いわき工場 - note note https://note.com > 科学・テクノロジー > 機械・工学",
+    "url": "https://note.com/iwaki_academia02/n/n0b8d2d08cbb7",
+    "pass": 3
+   },
+   {
+    "quote": "高周波熱錬 （5976）株価・今後の見通し・予想｜noteマネー 高周波熱錬 （5976）株価・今後の見通し・予想｜noteマネー note https://note.com > noteマネー",
+    "url": "https://note.com/tag/vm/investment_money/company-5976",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【徹底解剖】高周波熱錬 (5976): IH技術のパイオニアはEV時代をどう乗り越える？その真価と投資戦略を丸裸にする｜日本個別株デューデリジェンスセンター",
+    "url": "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "pass": 3
+   },
+   {
+    "quote": "【徹底解剖】高周波熱錬 (5976): IH技術のパイオニアはEV時代をどう乗り越える？その真価と投資戦略を丸裸にする",
+    "url": "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "pass": 3
+   },
+   {
+    "quote": "【徹底解剖】高周波熱錬 (5976): IH技術のパイオニアはEV時代をどう乗り越える？その真価と投資戦略を丸裸にする（2025年5月13日現在）",
+    "url": "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "pass": 3
+   },
+   {
+    "quote": "はじめに：高周波熱錬とは何者か？縁の下の力持ち企業の深層に迫る",
+    "url": "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "pass": 3
+   },
+   {
+    "quote": "自動車、建設機械、工作機械…。私たちの生活を支える様々な工業製品には、目に見えないところで極めて重要な役割を果たす部品が数多く使われています。それらの部品に求められるのは、過酷な使用環境に耐えうる「強さ」としなやかさ。その「強さ」を生み出す核心技術の一つが「熱処理」です。今回徹底的にデュー・デリジェンスを行う",
+    "url": "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "pass": 3
+   },
+   {
+    "quote": "は、その名の通り、高周波誘導加熱（IH）技術を用いた金属熱処理のパイオニアとして、80年以上にわたり日本のものづくりを支えてきた東証プライム上場の老舗企業です。",
+    "url": "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "pass": 3
+   },
+   {
+    "quote": "自動車のエンジン部品や足回り部品、建設機械の油圧部品やピン、工作機械の主軸など、同社が手掛ける製品は多岐にわたり、その品質と技術力は国内外のメーカーから高い信頼を得ています。しかし、自動車業界は100年に一度の大変革期と言われるEV（電気自動車）シフトの真っ只中。内燃機関部品に強みを持つ高周波熱錬にとって、この変化は大きな挑戦であると同時に、新たな成長機会を掴むチャンスでもあります。",
+    "url": "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、2025年5月13日現在の最新情報に基づき、高周波熱錬のビジネスモデル、財務状況、EV時代への対応戦略、そして潜在的なリスクに至るまで、あらゆる角度から深掘り分析を行います。IH技術の奥深さ、堅実な経営、そして未来への展望。投資家の皆様が高周波熱錬の真の価値を見極め、賢明な投資判断を下すための一助となれば幸いです。それでは、日本最高レベルの詳細デュー・デリジェンス記事の幕開けです。",
+    "url": "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "pass": 3
+   },
+   {
+    "quote": "高周波熱錬株式会社 いわき工場｜【いわきアカデミア】いわきの会社発見ガイドブック",
+    "url": "https://note.com/iwaki_academia02/n/n0b8d2d08cbb7",
+    "pass": 3
+   },
+   {
+    "quote": "【いわきアカデミア】いわきの会社発見ガイドブック",
+    "url": "https://note.com/iwaki_academia02/n/n0b8d2d08cbb7",
+    "pass": 3
+   },
+   {
+    "quote": "コンクリートでできた、建物や電柱が、地震が 起きても倒れないのはなぜか分かりますか？",
+    "url": "https://note.com/iwaki_academia02/n/n0b8d2d08cbb7",
+    "pass": 3
+   },
+   {
+    "quote": "それはコンクリートの中の「鉄筋」が建物を支えているからです。",
+    "url": "https://note.com/iwaki_academia02/n/n0b8d2d08cbb7",
+    "pass": 3
+   },
+   {
+    "quote": "ネツレンは地震でもびくともしない、強い「鉄筋」を作っています。",
+    "url": "https://note.com/iwaki_academia02/n/n0b8d2d08cbb7",
+    "pass": 3
+   },
+   {
+    "quote": "鉄筋をあっという間に1000℃まで加熱するところを見学することができます。",
+    "url": "https://note.com/iwaki_academia02/n/n0b8d2d08cbb7",
+    "pass": 3
+   },
+   {
+    "quote": "高周波熱錬（5976）株価・今後の見通し・予想｜noteマネー",
+    "url": "https://note.com/tag/vm/investment_money/company-5976",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Shared Research Inc. on X: \" 高周波熱錬 （5976）のリサーチ ... Shared Research Inc. on X: \" 高周波熱錬 （5976）のリサーチ ... X https://x.com > @SRIncJpns",
+    "url": "https://x.com/SRIncJpns/status/2100374207813357594",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "高周波熱錬 （株） - LinkedIn 高周波熱錬 （株） - LinkedIn LinkedIn https://www.linkedin.com > company > 高周波熱錬（株）",
+    "url": "https://www.linkedin.com/company/%E9%AB%98%E5%91%A8%E6%B3%A2%E7%86%B1%E9%8C%AC%EF%BC%88%E6%A0%AA%EF%BC%89?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "pass": 3
+   },
+   {
+    "quote": "高周波熱錬 （株） - LinkedIn 高周波熱錬 （株） - LinkedIn LinkedIn https://jp.linkedin.com > company > 高周波熱錬（株）",
+    "url": "https://jp.linkedin.com/company/%E9%AB%98%E5%91%A8%E6%B3%A2%E7%86%B1%E9%8C%AC%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "何 永勲 - 高周波熱錬 （株） - 营业 - LinkedIn 何 永勲 - 高周波熱錬 （株） - 营业 - LinkedIn LinkedIn https://jp.linkedin.com > 永勲-何-b23769187",
+    "url": "https://jp.linkedin.com/in/%E6%B0%B8%E5%8B%B2-%E4%BD%95-b23769187",
+    "pass": 3
+   },
+   {
+    "quote": "李 偉 - 高周波熱錬 株式会社 事業開発本部 事業企画部 課長補佐 李 偉 - 高周波熱錬 株式会社 事業開発本部 事業企画部 課長補佐 LinkedIn https://jp.linkedin.com > 偉-李-ba15ab157",
+    "url": "https://jp.linkedin.com/in/%E5%81%89-%E6%9D%8E-ba15ab157/ja",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "品川区の 高周波熱錬 株式会社様より、大量の災害備蓄食品のご ... 品川区の 高周波熱錬 株式会社様より、大量の災害備蓄食品のご ... Facebook https://www.facebook.com > foodbank.meguro > posts",
+    "url": "https://www.facebook.com/foodbank.meguro/posts/%E5%93%81%E5%B7%9D%E5%8C%BA%E3%81%AE%E9%AB%98%E5%91%A8%E6%B3%A2%E7%86%B1%E9%8C%AC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%A7%98%E3%82%88%E3%82%8A%E5%A4%A7%E9%87%8F%E3%81%AE%E7%81%BD%E5%AE%B3%E5%82%99%E8%93%84%E9%A3%9F%E5%93%81%E3%81%AE%E3%81%94%E5%AF%84%E4%BB%98%E3%82%92%E9%A0%82%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E9%A3%9F%E5%93%81%E3%81%8C%E4%B8%8D%E8%B6%B3%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%A7%E5%A4%A7%E5%A4%89%E5%8A%A9%E3%81%8B%E3%82%8A%E3%81%BE%E3%81%99-%E5%BF%85%E8%A6%81%E3%81%A8%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E7%9A%86%E6%A7%98%E3%81%AB%E3%81%8A%E5%B1%8A%E3%81%91%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%99%E9%AB%98%E5%91%A8%E6%B3%A2/1264984495429779/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.k-neturen.co.jp/ja/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.k-neturen.co.jp/ja/news.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.k-neturen.co.jp/ja/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.k-neturen.co.jp/ja/products/ihsystem.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.k-neturen.co.jp/ja/news/news-20260909.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.k-neturen.co.jp/ja/ir/news.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.k-neturen.co.jp/ja/news/news-20260817.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.k-neturen.co.jp/ja/ir/news/news20260203.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.k-neturen.co.jp/ja/ir/news/news20250203.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.k-neturen.co.jp/ja/sustainability/report.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.k-neturen.co.jp/ja/company/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.k-neturen.co.jp/ja/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.k-neturen.co.jp/ja/products/ihsystem/tempering_equipment.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.k-neturen.co.jp/ja/news/news20261029/main/0/link/20261029_.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.k-neturen.co.jp/ja/news/news20261021/main/0/link/news_integratedreport2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.k-neturen.co.jp/ja/company/main/0/teaserItems1/03/binaryNodeName/comapny_img_03.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp56483/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.kyu-neturen.co.jp/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://buffett-code-archives.s3.ap-northeast-1.amazonaws.com/pr_reports/140120220517550089.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://3d.kinzoku-kakou-odec.com/column/column-1170/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://3d.kinzoku-kakou-odec.com/column/column-1170/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kabutan.jp/stock/holder?code=5976",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.buffett-code.com/company/5976/mainshareholder",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp56483/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/iwaki_academia02/n/n0b8d2d08cbb7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/vm/investment_money/company-5976",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/SRIncJpns/status/2100374207813357594",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/%E9%AB%98%E5%91%A8%E6%B3%A2%E7%86%B1%E9%8C%AC%EF%BC%88%E6%A0%AA%EF%BC%89?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/%E9%AB%98%E5%91%A8%E6%B3%A2%E7%86%B1%E9%8C%AC%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E6%B0%B8%E5%8B%B2-%E4%BD%95-b23769187",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E5%81%89-%E6%9D%8E-ba15ab157/ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/foodbank.meguro/posts/%E5%93%81%E5%B7%9D%E5%8C%BA%E3%81%AE%E9%AB%98%E5%91%A8%E6%B3%A2%E7%86%B1%E9%8C%AC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%A7%98%E3%82%88%E3%82%8A%E5%A4%A7%E9%87%8F%E3%81%AE%E7%81%BD%E5%AE%B3%E5%82%99%E8%93%84%E9%A3%9F%E5%93%81%E3%81%AE%E3%81%94%E5%AF%84%E4%BB%98%E3%82%92%E9%A0%82%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E9%A3%9F%E5%93%81%E3%81%8C%E4%B8%8D%E8%B6%B3%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%A7%E5%A4%A7%E5%A4%89%E5%8A%A9%E3%81%8B%E3%82%8A%E3%81%BE%E3%81%99-%E5%BF%85%E8%A6%81%E3%81%A8%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E7%9A%86%E6%A7%98%E3%81%AB%E3%81%8A%E5%B1%8A%E3%81%91%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%99%E9%AB%98%E5%91%A8%E6%B3%A2/1264984495429779/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "高周波熱錬",
+   "results": [
+    "https://www.k-neturen.co.jp/ja/index.html",
+    "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%91%A8%E6%B3%A2%E7%86%B1%E9%8C%AC",
+    "https://www.jcr.co.jp/ratinglist/corp/5976",
+    "https://www.openwork.jp/a0910000000FrGx/analysis/",
+    "https://www.youtube.com/channel/UCGMHRzNqteewLi1fjcw5CoQ",
+    "https://ja.wikipedia.org/wiki/高周波熱錬",
+    "https://www.k-neturen.co.jp/ja/company/outline.html",
+    "https://kabutan.jp/stock/?code=5976",
+    "https://minkabu.jp/stock/5976",
+    "https://www.traders.co.jp/stocks/61_5976/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "高周波熱錬 会社概要 資本金 設立",
+   "results": [
+    "https://www.k-neturen.co.jp/ja/company/outline.html",
+    "https://job.mynavi.jp/28/pc/search/corp56483/outline.html",
+    "http://www.kyu-neturen.co.jp/about.html",
+    "https://kitaishihon.com/company/5976/story",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=5976",
+    "https://compass.labbase.jp/company/1378",
+    "https://www.instagram.com/p/DUaOkezEtgW/",
+    "https://app.techoffer.jp/companies/210012",
+    "https://mono.ipros.com/company/detail/2085889/",
+    "https://ja.wikipedia.org/wiki/高周波熱錬"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "高周波熱錬 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.k-neturen.co.jp/ja/ir/news/auto_20240603519231/pdfFile.pdf",
+    "https://buffett-code-archives.s3.ap-northeast-1.amazonaws.com/pr_reports/140120220517550089.pdf",
+    "http://3d.kinzoku-kakou-odec.com/column/column-1170/",
+    "https://thermal.hirochiku.co.jp/3dprinter/",
+    "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "https://www.youtube.com/watch?v=Ew517KG1bOI",
+    "https://www.ricoh.co.jp/3dp/metal/case_jzhc",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://www.fuji-koushuha.co.jp/technology/metal-3dp",
+    "https://www.jeol.co.jp/products/technology_cases/cases/am_01.html"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "高周波熱錬 金属積層造形 設備",
+   "results": [
+    "https://www.k-neturen.co.jp/ja/ir/news/auto_20240603519231/pdfFile.pdf",
+    "http://3d.kinzoku-kakou-odec.com/column/column-1170/",
+    "https://jampt.jp/",
+    "https://ja.3dsystems.com/semiconductor",
+    "https://chuokatan.co.jp/products/3dp/",
+    "https://www.fitc.pref.fukuoka.jp/facility/setsubi/dep-list/meri/kinzoku-sekisou-zoukei.php",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://partners.solize.com/manufacturing/technology/3dp-metal",
+    "https://www.youtube.com/watch?v=sT3lR9R98hc",
+    "https://www.k-neturen.co.jp/ja/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "高周波熱錬 株主 出資 親会社",
+   "results": [
+    "https://www.k-neturen.co.jp/ja/ir/stock/status.html",
+    "https://kabutan.jp/stock/holder?code=5976",
+    "https://www.buffett-code.com/company/5976/mainshareholder",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=5976",
+    "https://www.kabuyutai.com/kobetu/k-neturen.html",
+    "https://finance.logmi.jp/articles/381322",
+    "https://www.k-neturen.co.jp/ja/ir/faq.html",
+    "https://job.mynavi.jp/28/pc/search/corp56483/outline.html",
+    "https://www.jcr.co.jp/ratinglist/corp/5976",
+    "https://j-lic.com/companies/5976/shareholders"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "高周波熱錬 売上高 従業員数",
+   "results": [
+    "https://www.k-neturen.co.jp/ja/company/outline.html",
+    "https://job.mynavi.jp/28/pc/search/corp56483/outline.html",
+    "https://www.k-neturen.co.jp/ja/ir/finance/highlight.html",
+    "https://data.swcms.net/file/k-neturen/dam/jcr:64d1d05e-abcb-456c-bb53-c3cae121cfb6/S100W6ZZ.pdf",
+    "https://job.js88.com/company/listed?c_id=1185",
+    "https://kitaishihon.com/company/5976/story",
+    "https://app.techoffer.jp/companies/210012",
+    "https://www.buffett-code.com/company/5976/financial",
+    "https://finance.logmi.jp/articles/381322",
+    "https://techstudywork.jp/company/neturen"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 高周波熱錬",
+   "results": [
+    "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "https://note.com/iwaki_academia02/n/n0b8d2d08cbb7",
+    "https://note.com/deft_knot1002/n/nc22bf342a101",
+    "https://note.com/tag/vm/investment_money/company-5976",
+    "https://note.com/nobita58/n/n75e4fec3abb7",
+    "https://note.com/happy_hebe580/n/na48c3499e164",
+    "https://note.com/oren777/n/n18665d2c3044",
+    "https://note.com/pocoa_420/n/n76b7cee570dc",
+    "https://note.com/denkikogyo/n/nd1f530b3aa60",
+    "https://note.com/tousi525/n/n6ab042e07e04"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:x.com 高周波熱錬",
+   "results": [
+    "https://x.com/nikkeibusiness/status/1891246316799537186",
+    "https://x.com/SRIncJpns/status/2100374207813357594",
+    "https://x.com/com_hq_jp/status/1228540889137500160",
+    "https://x.com/victorinahimeji/status/2039177296041607560",
+    "https://x.com/semicon_news",
+    "https://x.com/popopo_2004/status/1811324675668275659",
+    "https://x.com/kessan_db/status/2119983704810623047",
+    "https://x.com/adoll_1/status/2071952748820787411",
+    "https://x.com/minosann0304/status/2062816366697357796",
+    "https://x.com/bayankabu/status/2071884873787383828"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com 高周波熱錬",
+   "results": [
+    "https://www.linkedin.com/company/%E9%AB%98%E5%91%A8%E6%B3%A2%E7%86%B1%E9%8C%AC%EF%BC%88%E6%A0%AA%EF%BC%89?trk=public_jobs_jserp-result_job-search-card-subtitle",
+    "https://jp.linkedin.com/company/%E9%AB%98%E5%91%A8%E6%B3%A2%E7%86%B1%E9%8C%AC%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://jp.linkedin.com/in/%E6%B0%B8%E5%8B%B2-%E4%BD%95-b23769187",
+    "https://jp.linkedin.com/in/%E5%81%89-%E6%9D%8E-ba15ab157/ja",
+    "https://jp.linkedin.com/in/%E4%B8%80%E5%8D%9A-%E5%B7%9D%E5%B5%9C-ab731b14b",
+    "https://www.linkedin.com/pub/dir/Ryo/Matsuki",
+    "https://www.linkedin.com/pub/dir/Ken/%E5%81%A5",
+    "https://jp.linkedin.com/in/mayuko-saito-553899312",
+    "https://www.linkedin.com/pub/dir/%E8%8A%B3%E5%8F%B2/+",
+    "https://www.linkedin.com/company/高周波熱錬（株）"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com 高周波熱錬",
+   "results": [
+    "https://www.facebook.com/foodbank.meguro/posts/%E5%93%81%E5%B7%9D%E5%8C%BA%E3%81%AE%E9%AB%98%E5%91%A8%E6%B3%A2%E7%86%B1%E9%8C%AC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%A7%98%E3%82%88%E3%82%8A%E5%A4%A7%E9%87%8F%E3%81%AE%E7%81%BD%E5%AE%B3%E5%82%99%E8%93%84%E9%A3%9F%E5%93%81%E3%81%AE%E3%81%94%E5%AF%84%E4%BB%98%E3%82%92%E9%A0%82%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E9%A3%9F%E5%93%81%E3%81%8C%E4%B8%8D%E8%B6%B3%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%A7%E5%A4%A7%E5%A4%89%E5%8A%A9%E3%81%8B%E3%82%8A%E3%81%BE%E3%81%99-%E5%BF%85%E8%A6%81%E3%81%A8%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E7%9A%86%E6%A7%98%E3%81%AB%E3%81%8A%E5%B1%8A%E3%81%91%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%99%E9%AB%98%E5%91%A8%E6%B3%A2/1264984495429779/",
+    "https://www.facebook.com/61584947505194/videos/%E7%A4%BE%E5%93%A1%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E6%9C%AA%E7%B5%8C%E9%A8%93%E4%B8%AD%E9%80%94%E5%85%A5%E7%A4%BE%E3%81%AE%E6%95%99%E8%82%B2%E5%88%B6%E5%BA%A6%E7%B7%A8%E6%A5%AD%E7%95%8C%E6%9C%AA%E7%B5%8C%E9%A8%93%E3%81%A7%E3%82%82%E5%85%88%E8%BC%A9%E3%81%8C%E4%BB%98%E3%81%8D%E3%81%A3%E3%81%8D%E3%82%8A%E3%81%A7%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E3%81%8B%E3%82%89%E5%AE%89%E5%BF%83%E3%81%A7%E3%81%97%E3%81%9F%E3%83%8D%E3%83%84%E3%83%AC%E3%83%B3%E3%81%AE%E5%85%A5%E7%A4%BE%E5%BE%8C%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E8%81%9E%E3%81%84%E3%81%A6%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E7%9F%A5%E8%AD%98%E3%81%8C%E3%81%AA%E3%81%8F%E3%81%A6%E3%82%82/1089291930515641/",
+    "https://www.facebook.com/p/%E6%A8%AA%E7%80%AC%E6%8A%80%E8%A1%93%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80-100049916066083/",
+    "https://www.facebook.com/czechfestivaljapan/posts/%E3%83%81%E3%82%A7%E3%82%B3%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB2025in%E9%96%A2%E8%A5%BF%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%82%E5%87%BA%E6%9D%A5%E4%B8%8A%E3%81%8C%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%EF%B8%8F%E4%BB%8A%E5%B9%B4%E3%82%82%E5%A4%9A%E3%81%8F%E3%81%AE%E3%81%94%E5%BE%8C%E6%8F%B4%E3%81%94%E5%8D%94%E5%8A%9B%E3%82%92%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99%E3%83%81%E3%82%A7%E3%82%B3%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB2025in%E9%96%A2%E8%A5%BF%E4%B8%BB%E5%82%AC/767340502742110/",
+    "https://www.facebook.com/yuya.turuta/",
+    "https://www.facebook.com/p/%E5%A4%A7%E7%A5%9E%E6%B5%A9%E4%BA%8C-61552058684550/",
+    "https://www.facebook.com/100049916066083/posts/%E7%91%9E%E7%A5%A5%E6%96%B0%E6%98%A5%E7%A9%8F%E3%82%84%E3%81%8B%E3%81%AA%E6%96%B0%E5%B9%B4%E3%82%92%E3%81%8A%E8%BF%8E%E3%81%88%E3%81%AE%E3%81%93%E3%81%A8%E3%81%A8%E5%AD%98%E3%81%98%E3%81%BE%E3%81%99%E5%B8%8C%E6%9C%9B%E3%81%8B%E3%81%8C%E3%82%84%E3%81%8F%E3%81%82%E3%81%8B%E3%82%8B%E3%81%84%E4%B8%80%E5%B9%B4%E3%81%A7%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%82%88%E3%81%86-%E3%81%8A%E7%A5%88%E3%82%8A%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99%E6%9C%AC%E5%B9%B4%E3%82%82%E3%81%A9%E3%81%86%E3%81%9E%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F%E3%81%8A%E9%A1%98%E3%81%84%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99%E4%BB%A4%E5%92%8C5%E5%B9%B4%E3%81%AE%E5%88%9D%E6%97%A5%E3%81%AE%E5%87%BA%E3%82%92%E3%81%8A%E5%B1%8A/681207250219804/",
+    "https://ja-jp.facebook.com/public/%E7%80%AC%E9%87%8E-%E8%B2%B4%E4%B9%8B",
+    "https://www.facebook.com/p/%E5%BE%B3%E6%B0%B8%E9%9A%BC%E4%BA%BA-100009021379288/",
+    "https://www.facebook.com/takehiro.ueno.3110/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "高周波熱錬 note 社長",
+   "results": [
+    "https://note.com/tatsuya_sabato/n/n63f4d4d6992f",
+    "https://www.projectdesign.jp/articles/5c7d4fcc-e63b-4b50-9d34-1d94a20dcf22",
+    "https://www.k-neturen.co.jp/ja/company/message.html",
+    "https://note.com/deft_knot1002/n/nc22bf342a101",
+    "http://www.kyu-neturen.co.jp/about.html",
+    "https://finance.logmi.jp/articles/381322",
+    "https://kitaishihon.com/company/5976/story",
+    "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%91%A8%E6%B3%A2%E7%86%B1%E9%8C%AC",
+    "https://kigyo-scope.jp/company/5976/ceo/",
+    "https://www.k-neturen.co.jp/ja/company/outline.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "高周波熱錬 X 投稿",
+   "results": [
+    "https://www.k-neturen.co.jp/ja/index.html",
+    "https://www.youtube.com/channel/UCGMHRzNqteewLi1fjcw5CoQ",
+    "https://www.instagram.com/p/DUaOkezEtgW/",
+    "https://www.projectdesign.jp/articles/5c7d4fcc-e63b-4b50-9d34-1d94a20dcf22",
+    "https://k-neturen-recruit.jp/message/",
+    "https://x.com/nikkeibusiness/status/1891246316799537186",
+    "https://syukatsu-kaigi.jp/companies/122437/post_items/4/word_mouths",
+    "https://www.kurume-nct.ac.jp/archives/3997",
+    "https://minkabu.jp/stock/5976/news",
+    "https://finance.logmi.jp/articles/385212"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式13頁／PDF・画像3件／外部19頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式13頁／PDF・画像3件／外部19頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式13頁／PDF・画像3件／外部19頁・検索12回）"
+ }
+}

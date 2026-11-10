@@ -1,0 +1,931 @@
+{
+ "name": "工業技術研究所",
+ "aliases": [],
+ "context": "PBF=unknown 装置= 出典=https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+ "researched_at": "2026-11-10T20:32:50.837122+00:00",
+ "official_url": "https://www.iri.pref.shizuoka.jp/",
+ "identified_by": "search:yahoo_jp:工業技術研究所",
+ "profile": {
+  "所在地": [
+   {
+    "label": "企業（所在地）",
+    "value": "研究課題",
+    "url": "https://www.iri.pref.shizuoka.jp/about/fuji/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "金属3Dプリンタ活用セミナー17「積層造形による部品・金型作製の取組」",
+    "url": "https://www.iri.pref.shizuoka.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタ活用セミナー17「積層造形による部品・金型作製の取組」 | 開催イベント一覧 | 人材育成 | 静岡県工業技術研究所",
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/115950/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタ活用セミナー17「積層造形による部品・金型作製の取組」",
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/115950/",
+    "pass": 1
+   },
+   {
+    "quote": "今回のセミナーでは、金属3Dプリンタを用いた各種部品や金型の作製の取組について取り上げます",
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/115950/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタ各メーカーから具体的な取組事例を御紹介いただくとともに、各メーカーの最新の積層造形技術についても解説します",
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/115950/",
+    "pass": 1
+   },
+   {
+    "quote": "①「LUMEXが拓くハイブリッド金属積層造形",
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/115950/",
+    "pass": 1
+   },
+   {
+    "quote": "DMG森精機セールスアンドサービス株式会社 萩森 紗季 氏",
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/115950/",
+    "pass": 1
+   },
+   {
+    "quote": "③「デスクトップ型PBF方式金属3Dプリンタ「DeskFab H1」の解説",
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/115950/",
+    "pass": 1
+   },
+   {
+    "quote": "⑤見学会（造形物等の展示、金属3Dプリンタ）",
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/115950/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタ活用セミナー17 開催案内",
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/115950/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタ",
+    "url": "https://www.iri.pref.shizuoka.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "ご紹介している機器のうち、三次元測定機、複合環境振動試験機、真円度測定機、走査型電子顕微鏡、デジタルマイクロスコープは、公益財団法人JKAの補助事業で導入しました",
+    "url": "https://www.iri.pref.shizuoka.jp/about/numazu/",
+    "pass": 1
+   },
+   {
+    "quote": "浜松工業技術支援センター 金属3Dプリンタ特集サイト | 静岡県工業技術研究所",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "浜松工業技術支援センター 金属3Dプリンタ特集サイト",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタ活用セミナー17を開催します",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタ活用ワークショップ（８）を開催します",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタ活用セミナー16を開催します",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "輸送機器産業が抱える、開発期間短縮や軽量化などの技術的課題解決のため製造現場のデジタル化が求められており、その解決手段として金属3Dプリンタが注目されています",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "浜松工業技術支援センターは、令和4年度、金属3Dプリンタ及び関連装置を導入しました",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "データ作成、造形、後加工など一連の作業が可能となり、様々な部品を金属3Dプリンタで試作できます",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "当所に導入した金属3Dプリンタは、SLMソリューションズ社製のSLM280です",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "ぜひ気軽に金属3Dプリンタを体験していただき、県内企業の皆様の事業にお役立てください",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタとは",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタとは、金属粉末をレーザビーム、電子ビーム、溶融押出し、インクジェット等を用い、3次元データ（3D CADデータ）をもとに一層ずつ積み重ねることにより、三次元立体形状を積層造形して目的形状を作製する装置です",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "三次元積層造形と切削を組み合わせたハイブリッドタイプの金属3Dプリンタも販売されており、主に金型用途で活用されています",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタの分類",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "一般的に、金属3Dプリンタは、付加製造プロセス（造形方法）の違いにより分類されます",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末床溶融結合法、パウダーベッドフュージョン、Powder bed fusion(PBF)",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタの工程",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "当所の金属3Dプリンタはパウダーベッド方式（Powder bed Fusion：PBF方式）です",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "PBF方式は現在主流の造形方式で、複雑形状部品や水管入り金型など、様々な形状を造形できます",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "PBF方式による金属3Dプリンタの工程例",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   }
+  ],
+  "使っている金属粉（材質）": [
+   {
+    "quote": "『良い品質のアルミ部品を造るために～アルミ溶解・鋳造の基礎～』",
+    "url": "https://www.iri.pref.shizuoka.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "『良い品質のアルミ部品を造るために～アルミ溶解・鋳造の基礎～』",
+    "url": "https://www.iri.pref.shizuoka.jp/about/shizuoka/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタとは、金属粉末をレーザビーム、電子ビーム、溶融押出し、インクジェット等を用い、3次元データ（3D CADデータ）をもとに一層ずつ積み重ねることにより、三次元立体形状を積層造形して目的形状を作製する装置です",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "液状の結合剤を選択的に供給して、粉末材料を結合する付加製造プロセス",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末床溶融結合法、パウダーベッドフュージョン、Powder bed fusion(PBF)",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "熱エネルギーを使用して粉末床を選択的に溶融凝固する付加製造プロセス",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者にご準備いただいた3D CADデータを用い、金属粉末をレーザで焼き固め、部品等を造形します",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   }
+  ],
+  "用途・客の産業": [
+   {
+    "quote": "イベント「ふじのくに医療・介護福祉機器展2026」 に出展いたします",
+    "url": "https://www.iri.pref.shizuoka.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「レーザーフュージョンエネルギーの未来in浜松」",
+    "url": "https://www.iri.pref.shizuoka.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタ活用セミナー17「積層造形による部品・金型作製の取組」",
+    "url": "https://www.iri.pref.shizuoka.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタ活用セミナー17「積層造形による部品・金型作製の取組」 | 開催イベント一覧 | 人材育成 | 静岡県工業技術研究所",
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/115950/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタ活用セミナー17「積層造形による部品・金型作製の取組」",
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/115950/",
+    "pass": 1
+   },
+   {
+    "quote": "今回のセミナーでは、金属3Dプリンタを用いた各種部品や金型の作製の取組について取り上げます",
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/115950/",
+    "pass": 1
+   },
+   {
+    "quote": "― 造形と切削の融合による金型・部品製作 ―」",
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/115950/",
+    "pass": 1
+   },
+   {
+    "quote": "（特化技術）照明、音響、食品、環境エネルギー、生活製品",
+    "url": "https://www.iri.pref.shizuoka.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "イベント「ふじのくに医療・介護福祉機器展2026」 に出展いたします",
+    "url": "https://www.iri.pref.shizuoka.jp/about/hamamatsu/",
+    "pass": 1
+   },
+   {
+    "quote": "イベント「ふじのくに医療・介護福祉機器展2026」 に出展いたします",
+    "url": "https://www.iri.pref.shizuoka.jp/about/shizuoka/",
+    "pass": 1
+   },
+   {
+    "quote": "イベント「ふじのくに医療・介護福祉機器展2026」 に出展いたします",
+    "url": "https://www.iri.pref.shizuoka.jp/about/fuji/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車用途向けCNFオレフィン系樹脂の機械的物性向上及び成形性の安定化",
+    "url": "https://www.iri.pref.shizuoka.jp/about/fuji/",
+    "pass": 1
+   },
+   {
+    "quote": "「次世代自動車軽量化のためのＣＮＦ複合材の開発」",
+    "url": "https://www.iri.pref.shizuoka.jp/about/fuji/",
+    "pass": 1
+   },
+   {
+    "quote": "イベント「ふじのくに医療・介護福祉機器展2026」 に出展いたします",
+    "url": "https://www.iri.pref.shizuoka.jp/about/numazu/",
+    "pass": 1
+   },
+   {
+    "quote": "イベント「ふじのくに医療・介護福祉機器展2026」 に出展いたします | 開催イベント一覧 | 人材育成 | 静岡県工業技術研究所",
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/120524/",
+    "pass": 1
+   },
+   {
+    "quote": "イベント「ふじのくに医療・介護福祉機器展2026」 に出展いたします",
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/120524/",
+    "pass": 1
+   },
+   {
+    "quote": "「ふじのくに医療・介護福祉機器展2026」に、工業技術研究所が以下のとおり出展いたします",
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/120524/",
+    "pass": 1
+   },
+   {
+    "quote": "公益財団法人 ふじのくに医療城下町推進機構 ファルマバレーセンター",
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/120524/",
+    "pass": 1
+   },
+   {
+    "quote": "「ふじのくに医療・介護福祉機器展2026」開催の御案内",
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/120524/",
+    "pass": 1
+   },
+   {
+    "quote": "具体的な試作や加工データの作成に関するご相談も承っております",
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/120002/",
+    "pass": 1
+   },
+   {
+    "quote": "データ作成、造形、後加工など一連の作業が可能となり、様々な部品を金属3Dプリンタで試作できます",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "三次元積層造形と切削を組み合わせたハイブリッドタイプの金属3Dプリンタも販売されており、主に金型用途で活用されています",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "指向性エネルギー堆積法、Direct Energy Depositon(DED)",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "集束させた熱エネルギーを利用して材料を溶融し、結合、堆積させる付加製造プロセス",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "熱エネルギーを使用して粉末床を選択的に溶融凝固する付加製造プロセス",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "PBF方式は現在主流の造形方式で、複雑形状部品や水管入り金型など、様々な形状を造形できます",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 1
+   },
+   {
+    "quote": "国立研究開発法人産業技術総合研究所法により、鉱工業の科学技術に関する研究および開発等の業務を総合的に行い、産業技術の向上およびその成果の普及を図り、経済および産業の発展ならびに鉱物資源およびエネルギーの安定的かつ効率的な供給の確保に資することを目的とする",
+    "url": "https://ja.wikipedia.org/wiki/%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "により「鉱工業の科学技術に関する研究及び開発等の業務を総合的に行うことにより、産業技術の向上及びその成果の普及を図り、もって経済及び産業の発展並びに鉱物資源及びエネルギーの安定的かつ効率的な供給の確保に資すること」（第3条）を目的とする",
+    "url": "https://ja.wikipedia.org/wiki/%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "-「生物プロセス研究部門」「エネルギープロセス研究部門」が入る",
+    "url": "https://ja.wikipedia.org/wiki/%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "福島再生可能エネルギー研究所・実証フィールド",
+    "url": "https://ja.wikipedia.org/wiki/%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "「エネルギー・環境」「生命科学」「エレクトロニクス・製造」「情報・人間工学」「材料」「地質」「標準・計測」の7領域、および量子・AI融合技術ビジネス開発グローバル研究センターと実装研究センターに分類される",
+    "url": "https://ja.wikipedia.org/wiki/%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "-産総研 循環型クリーンエネルギー創出連携研究室",
+    "url": "https://ja.wikipedia.org/wiki/%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "2014年（平成26年）- 福島再生可能エネルギー研究所（略称：FREA）（福島県郡山市）を設置",
+    "url": "https://ja.wikipedia.org/wiki/%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "山崎庸光,岡崎勝義,小野田光之,醍醐秀博,小笠原晋二「【座談会】--テストコースの話 あれこれ(1)」『自動車研究 = JARI research journal』第10巻第7号、日本自動車研究所、1988年7月、256-263頁、",
+    "url": "https://ja.wikipedia.org/wiki/%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "まもなく、新年度を迎えるにあたって電気自動車を動かすには",
+    "url": "https://note.com/revoot2026/n/nc134688cd109",
+    "pass": 3
+   },
+   {
+    "quote": "もし、これに採択されることが決まれば、電気自動車を復活させることに目処が立つ",
+    "url": "https://note.com/revoot2026/n/nc134688cd109",
+    "pass": 3
+   },
+   {
+    "quote": "電気自動車を動かすということに終始するのではなく、学外の発表の場へ赴き、きちんと学んだことをアウトプットすること",
+    "url": "https://note.com/revoot2026/n/nc134688cd109",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 | 株式会社 工業技術研究所 | 工技研 — 会社概要 | 株式会社 工業技術研究所 | 工技研 株式会社工業技術研究所 https://www.kougiken.co.jp > company-profile",
+    "url": "https://www.kougiken.co.jp/company-profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "組織 概要 - 静岡県工業技術研究所 — 組織 概要 - 静岡県工業技術研究所 静岡県工業技術研究所 https://www.iri.pref.shizuoka.jp > about",
+    "url": "https://www.iri.pref.shizuoka.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "浜松 工業技術 支援センター 金属3Dプリンタ 特集サイト — 浜松 工業技術 支援センター 金属3Dプリンタ 特集サイト 静岡県工業技術研究所 https://www.iri.pref.shizuoka.jp > printer",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 3
+   },
+   {
+    "quote": "浜松 工業技術 支援センター 金属 3Dプリンタ特集サイト — 浜松 工業技術 支援センター 金属 3Dプリンタ特集サイト 静岡県工業技術研究所 https://www.iri.pref.shizuoka.jp > printer",
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "pass": 3
+   },
+   {
+    "quote": "研究開発 - 静岡県工業技術研究所 — 研究開発 - 静岡県工業技術研究所 静岡県工業技術研究所 https://www.iri.pref.shizuoka.jp > randd",
+    "url": "https://www.iri.pref.shizuoka.jp/randd/",
+    "pass": 3
+   },
+   {
+    "quote": "沿革 | 株式会社 工業技術研究所 - 工技研 — 沿革 | 株式会社 工業技術研究所 - 工技研 株式会社工業技術研究所 https://www.kougiken.co.jp > development",
+    "url": "https://www.kougiken.co.jp/development.html",
+    "pass": 3
+   },
+   {
+    "quote": "組織概要 - 静岡県工業技術研究所 — 組織概要 - 静岡県工業技術研究所 静岡県工業技術研究所 https://www.iri.pref.shizuoka.jp > about",
+    "url": "https://www.iri.pref.shizuoka.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 工業技術研究所 の企業情報・求人一覧 - 建職バンク — 株式会社 工業技術研究所 の企業情報・求人一覧 - 建職バンク 建職バンク https://kenshoku-bank.com > 求人掲載中の企業一覧",
+    "url": "https://kenshoku-bank.com/companies/28233",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 工業技術研究所 - アラームボックス — 株式会社 工業技術研究所 - アラームボックス alarmbox.jp https://alarmbox.jp > アラームボックス企業情報 > 東京都",
+    "url": "https://alarmbox.jp/companyinfo/entities/1010001002539",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "2023年4月に、企業連携や技術移転を担う成果活用等支援法人として100%子会社の株式会社AIST Solutions（アイストソリューションズ、AISol、アイソル）を設立した",
+    "url": "https://ja.wikipedia.org/wiki/%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "へ上場を果たした社が1社、",
+    "url": "https://ja.wikipedia.org/wiki/%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "にて発展的解消を遂げた社が21社、上場を含めて活動中の社が100社ある",
+    "url": "https://ja.wikipedia.org/wiki/%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "また、この企業は元主任研究員の妻が主な株主だった",
+    "url": "https://ja.wikipedia.org/wiki/%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "#3 先立つものは。。。｜rEVootプロジェクト Jul 6, 2026 · 誰と、どうやってするのかの見通しが立っていない。 このままではぐだぐだするのが目に見えている。 そんなとき、1つの情報が入った。 公益財団法人天野工業技術研究所から出ている2026年度工業教育研究助成金の募集要項である。",
+    "url": "https://note.com/revoot2026/n/nc134688cd109",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "#３ 先立つものは。。。｜rEVootプロジェクト",
+    "url": "https://note.com/revoot2026/n/nc134688cd109",
+    "pass": 3
+   },
+   {
+    "quote": "まもなく、新年度を迎えるにあたって電気自動車を動かすには",
+    "url": "https://note.com/revoot2026/n/nc134688cd109",
+    "pass": 3
+   },
+   {
+    "quote": "誰と、どうやってするのかの見通しが立っていない。",
+    "url": "https://note.com/revoot2026/n/nc134688cd109",
+    "pass": 3
+   },
+   {
+    "quote": "このままではぐだぐだするのが目に見えている。",
+    "url": "https://note.com/revoot2026/n/nc134688cd109",
+    "pass": 3
+   },
+   {
+    "quote": "公益財団法人天野工業技術研究所から出ている２０２６年度工業教育研究助成金の募集要項である。",
+    "url": "https://note.com/revoot2026/n/nc134688cd109",
+    "pass": 3
+   },
+   {
+    "quote": "これは以前から個人的にチェックしているものであった。",
+    "url": "https://note.com/revoot2026/n/nc134688cd109",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、以前までは募集地域が限定的であった記憶がある。",
+    "url": "https://note.com/revoot2026/n/nc134688cd109",
+    "pass": 3
+   },
+   {
+    "quote": "全国的な工業高校への募集と要項が変わっているみたいだ。",
+    "url": "https://note.com/revoot2026/n/nc134688cd109",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "静岡県工業技術研究所 (@ShizuKougiken) / X 静岡県工業技術研究所の公式アカウントです。 このアカウントは、静岡県工業技術研究所の各種の取組やイベント情報を発信します。 メールマガジン→https://t.co/WZoWhumN9e",
+    "url": "https://x.com/shizukougiken",
+    "pass": 3
+   },
+   {
+    "quote": "静岡市にある #静岡県工業技術研究所 で、#工業技術研究所フェア が行... 静岡市にある #静岡県工業技術研究所 で、#工業技術研究所フェア が行われました。 子供たちの #夏休みの自由研究 や思い出づくりにと、何組もの親子が会場を訪れていましたよ。 この模様は8/7木曜日の #トコチャンニュース でお伝えします！",
+    "url": "https://x.com/tocochan_WEB/status/1951203015622606924",
+    "pass": 3
+   },
+   {
+    "quote": "静岡県工業技術研究所 (@ShizuKougiken) / X May 25, 2023 · 10月21日（水）に「令和8年度水処理技術セミナー」を開催いたします。 難分解性物質の除去や排水処理にかかるコスト削減など、新たな課題解決や技術導入のヒントを、静岡県立大学徳村助教や県内企業に御講演いただきます。",
+    "url": "https://x.com/shizukougiken",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.iri.pref.shizuoka.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/115950/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri.pref.shizuoka.jp/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri.pref.shizuoka.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri.pref.shizuoka.jp/about/hamamatsu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri.pref.shizuoka.jp/about/shizuoka/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri.pref.shizuoka.jp/about/fuji/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri.pref.shizuoka.jp/about/numazu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri.pref.shizuoka.jp/crowdfunding_info/105477/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri.pref.shizuoka.jp/info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/120524/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/120002/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri.pref.shizuoka.jp/seminar/event/120184/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri.pref.shizuoka.jp/printer/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.iri.pref.shizuoka.jp/wp/wp-content/uploads/2026/10/261015design-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.iri.pref.shizuoka.jp/wp/wp-content/uploads/2026/09/260903design-.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.kougiken.co.jp/company-profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ctie.co.jp/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/company/142450/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fitc.pref.fukuoka.jp/facility/setsubi/dep-list/meri/kinzoku-sekisou-zoukei.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri-tokyo.jp/research/field/sekiso-zokei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atr.jp/about/ir/CompanyHistory.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp65860/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kenshoku-bank.com/companies/28233",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/revoot2026/n/nc134688cd109",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/shizukougiken",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tocochan_WEB/status/1951203015622606924",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/shizukougiken",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "工業技術研究所",
+   "results": [
+    "https://www.iri.pref.shizuoka.jp/",
+    "https://www.kougiken.co.jp/",
+    "https://x.com/ShizuKougiken",
+    "https://www.toyo.ac.jp/research/labo_center/riit/",
+    "https://www.pref.shizuoka.jp/kensei/shisetsu/shiken/1008945.html",
+    "https://orist.jp/",
+    "https://ja.wikipedia.org/wiki/工業技術研究院_(台湾)",
+    "https://www.kougiken.co.jp/company-profile.html",
+    "https://www.itri.org.tw/index.aspx",
+    "https://www.itri.org.tw/english/index.aspx"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "工業技術研究所 会社概要 資本金 設立",
+   "results": [
+    "https://www.kougiken.co.jp/company-profile.html",
+    "https://www.ctie.co.jp/company/outline/",
+    "https://tenshoku.mynavi.jp/company/142450/",
+    "https://global.honda/jp/RandD/about/cpgc/",
+    "https://www.iri.pref.shizuoka.jp/about/",
+    "https://www.bizreach.jp/companies/44448/",
+    "https://zai-amano.or.jp/about/overview/",
+    "https://www.honda-jobs.com/about/profile/",
+    "https://www.autonetworks.co.jp/company/company-outline.html",
+    "https://houjin.jp/c/1010001002539"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "工業技術研究所 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.iri.pref.shizuoka.jp/printer/",
+    "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "https://www.fitc.pref.fukuoka.jp/jinzai-ikusei/d_5.php",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+    "https://www.hyogo-kg.jp/kiki/3011906",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://www.pref.chiba.lg.jp/sanken/kikisetsubi/manufacturing/modelling/metal-x.html",
+    "https://www.iri.pref.shizuoka.jp/printer_info/26516/",
+    "https://www.nikkei.com/article/DGKKZO66967880Z11C22A2L61000/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "工業技術研究所 金属積層造形 設備",
+   "results": [
+    "https://www.fitc.pref.fukuoka.jp/facility/setsubi/dep-list/meri/kinzoku-sekisou-zoukei.php",
+    "https://www.iri.pref.shizuoka.jp/printer/",
+    "https://www.iri-tokyo.jp/research/field/sekiso-zokei/",
+    "https://www.pref.chiba.lg.jp/sanken/kikisetsubi/manufacturing/modelling/metal-x.html",
+    "https://www.itc.pref.toyama.jp/equipment/e_data/1333h263dmr.html",
+    "https://jampt.jp/",
+    "https://orist.jp/gaiyou/facility_izumi/tri3d/feature/",
+    "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "https://www.youtube.com/watch?v=Byfy7tsLawE",
+    "https://jsam.or.jp/event/2026-11-07-7410/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "工業技術研究所 株主 出資 親会社",
+   "results": [
+    "https://www.atr.jp/about/ir/CompanyHistory.html",
+    "https://www.iri.pref.shizuoka.jp/randd/",
+    "https://ja.wikipedia.org/wiki/%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80",
+    "https://www.kougiken.co.jp/development.html",
+    "https://www.kuroki.co.jp/giken/",
+    "https://www.meti.go.jp/policy/tech_promotion/kenkyuu/cip2.pdf",
+    "https://www.g-tekt.jp/company/history/",
+    "https://www.ctie.co.jp/company/group/",
+    "https://baike.baidu.com/ja/item/%E9%9F%93%E5%9B%BD%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E6%89%80/4974320",
+    "https://ja.wikipedia.org/wiki/工業技術研究院_(台湾)"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "工業技術研究所 売上高 従業員数",
+   "results": [
+    "https://job.mynavi.jp/28/pc/search/corp65860/outline.html",
+    "https://www.iri.pref.shizuoka.jp/about/",
+    "https://kenshoku-bank.com/companies/28233",
+    "https://alarmbox.jp/companyinfo/entities/1010001002539",
+    "https://www.nistep.go.jp/sti_indicator/2025/RM349_26.html",
+    "https://en-hyouban.com/company/10007670484/kuchikomi/",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10007670484/",
+    "https://www.jri.co.jp/file/report/jrireview/pdf/14959.pdf",
+    "https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D125051273",
+    "https://www.kougiken.co.jp/company-profile.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 工業技術研究所",
+   "results": [
+    "https://note.com/hgrx",
+    "https://note.com/revoot2026/n/nc134688cd109",
+    "https://note.com/kaze26/n/nf82f184a4396",
+    "https://note.com/bigdreamnet/n/ne0c2b5ad7200",
+    "https://note.com/hgrx/n/n878587f45481",
+    "https://note.com/hgrx/n/n8cfa7af38a75",
+    "https://note.com/hgrx/n/n35703032fdd9"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 工業技術研究所",
+   "results": [
+    "https://x.com/shizukougiken",
+    "https://x.com/tocochan_WEB/status/1951203015622606924",
+    "https://x.com/Hirokouken_AITC",
+    "https://x.com/8kouken_AITC",
+    "https://x.com/AIST_JP",
+    "https://x.com/kou_souken",
+    "https://x.com/Hirokouken_AITC/status/2039536518013026311"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 工業技術研究所",
+   "results": [
+    "https://tw.linkedin.com/company/itri",
+    "https://tw.linkedin.com/company/itri/life",
+    "https://www.linkedin.com/company/itri/jobs",
+    "https://jp.linkedin.com/in/shozo-nakamura-99519416b",
+    "https://www.linkedin.com/posts/itri_工研院-itri-專家說職涯-activity-7439098109957341185-A2z-",
+    "https://jp.linkedin.com/pulse/本田技術研究所と本田技研工業株式会社は違う-淳一-中西",
+    "https://cn.linkedin.com/posts/豊彰-馬-77389b224_啟自主-無人科技百業新生-下午收到學校收發室的通知有掛號信記得去拿-activity-7524638709581893632-LV3i"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 工業技術研究所",
+   "results": [
+    "https://www.facebook.com/itri.tw/",
+    "https://www.facebook.com/ITRI.ICL/",
+    "https://www.facebook.com/iriniigata/",
+    "https://www.facebook.com/sstc.itri.tw/",
+    "https://www.facebook.com/itriwinlearning/",
+    "https://www.facebook.com/itri.tw/posts/工研生醫25周年慶-跨域生醫-卓越25工研院生醫與醫材研究所今年25歲了-1999年工研院成立了臺灣第一座專注於生醫研發的生醫工程中心奠定了臺灣生技發展的基石在/899739688863288/",
+    "https://www.facebook.com/itri.tw/posts/還在為急件無法即時送給遠處的他她而煩惱嗎工研院ipickup智取站串接虛實的全通路物流服務快速又便利將包裹放進櫃子裡掃瞄包裹上的條碼系統就會立即通知收件人不須經/10157957252459535/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "工業技術研究所 note 社長",
+   "results": [
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.kougiken.co.jp/company-profile.html",
+    "https://note.com/hgrx",
+    "https://note.connect.panasonic.com/n/n1235e2096fab",
+    "https://note.com/hgrx/n/n7199f4f90a2d",
+    "https://x.com/hakase2100/status/2119304996730896567",
+    "https://www.itmedia.co.jp/author/257387/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "工業技術研究所 X 投稿",
+   "results": [
+    "https://www.iri.pref.shizuoka.jp/info/80046/",
+    "https://x.com/shizukougiken",
+    "https://www.iri.pref.shizuoka.jp/",
+    "https://x.com/8kouken_AITC",
+    "https://www.itri.org.tw/index.aspx",
+    "https://www.aist.go.jp/",
+    "https://www.aomori-itc.or.jp/docs/2025070900010/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部15頁・検索12回）",
+  "資本金": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部15頁・検索12回）",
+  "創業年度": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部15頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部15頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部15頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部15頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部15頁・検索12回）"
+ }
+}

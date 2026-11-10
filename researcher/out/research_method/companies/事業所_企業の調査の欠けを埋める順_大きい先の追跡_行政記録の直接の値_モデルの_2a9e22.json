@@ -8,8 +8,214 @@
  ],
  "context": "検証",
  "kind": "market",
- "researched_at": "2026-11-09T08:04:09.520270+00:00",
+ "researched_at": "2026-11-10T20:32:25.221464+00:00",
  "evidence": {
+  "失敗・落とし穴": [
+   {
+    "quote": "Non-Response Bias In Survey Sampling — Greenbook",
+    "url": "https://www.greenbook.org/marketing-research/non-response-bias",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "Non-Response Bias In Survey Sampling",
+    "url": "https://www.greenbook.org/marketing-research/non-response-bias",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "Market research accounts for many scenarios to ensure high quality of data. One of the most overlooked problems is non-response bias. TRC describes ways to reduce its effects through survey design and data adjustment in this white paper.",
+    "url": "https://www.greenbook.org/marketing-research/non-response-bias",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "There are many ways to deal with item non-response, with case deletion and mean replacement being the most popular. Due to researchers’ familiarity with item non-response, the remainder of this paper focuses on the less talked about subject of unit non-response bias. Our next steps are to measure and then adjust for any bias in the data.",
+    "url": "https://www.greenbook.org/marketing-research/non-response-bias",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "Identifying Unit Non-Response Bias",
+    "url": "https://www.greenbook.org/marketing-research/non-response-bias",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "Using Known Database Variables to Identify Bias",
+    "url": "https://www.greenbook.org/marketing-research/non-response-bias",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "Adjusting for Unit Non-Response Bias",
+    "url": "https://www.greenbook.org/marketing-research/non-response-bias",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "The above methods give the researcher a sense of whether bias exists, but do not provide a way to deal with it. The following procedures both measure and adjust for non-response bias.",
+    "url": "https://www.greenbook.org/marketing-research/non-response-bias",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "Miriam Rosenthal, and Justin Z. Smith in the cited nonresponse bias studies. This report is released to inform",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "collection, data review), or of the potential level of nonresponse bias (Peytcheva and",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Both numerator and denominator cases are weighted by “unbiased” weights, which",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "extracted from a larger cited nonresponse bias analysis study. Both studies were mandated",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "context of a nonresponse bias analysis study.",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Many programs will also conduct nonresponse bias analyses, which at a minimum",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "selected programs on a case-by-case basis usually as a part of a nonresponse bias analysis.",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Lineback, J.F. and Thompson, K.J. (2010). Conducting Nonresponse Bias Analysis for",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Demographic Subgroups as Evidence of Nonresponse Bias in Survey Estimates. Journal",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Rosenthal, M. and Davie, J. (2008). Nonresponse Bias Analysis for the Quarterly Services",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Smith, J.Z. and Thompson, K.J. (2009). Nonresponse Bias Study for the Annual Capital",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Conducting Nonresponse Bias Analysis for Business",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "bias analysis when response rates fail to m eet target values. The literature focuses",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "largely on nonresponse bias analysis methods for demographic surveys. Such surveys",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "designs with highly skewed populations. This paper examines nonresponse bias analysis",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Key Words: nonresponse bias analysis, response rate, business survey, response model,",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "missingness is the potential for nonresponse bias. Bias in survey estimates could lead to",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "not necessarily indicate nonresponse bias (Groves et al., 2008), they are often used as a",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "evaluate nonresponse bias when expected unit response rates are less than 80% (Graham,",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "nonresponse bias. Much of the research in this area focuses on conducting nonresponse",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "bias studies for household surveys. We need additional tools for analyzing business",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "bias studies for business or establishment surveys. It is also meant to generate discussion",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "methods of assessing nonresponse bias, focusing on methods particularly helpful in the",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "U.S. Census Bureau. The conclusion provid es nonresponse bias questions to consider for",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "For evaluating a business program’s nonresponse bias potential, the above rate computed",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "these “important” units, any nonresponse causes nonr esponse bias. It is unlikely that this",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
   "突き合わせ・推定": [
    {
     "quote": "key estimate reported by responding units or obtained from equivalent quality sources",
@@ -194,6 +400,18 @@
   ],
   "手順・やり方": [
    {
+    "quote": "There are many ways to deal with item non-response, with case deletion and mean replacement being the most popular. Due to researchers’ familiarity with item non-response, the remainder of this paper focuses on the less talked about subject of unit non-response bias. Our next steps are to measure and then adjust for any bias in the data.",
+    "url": "https://www.greenbook.org/marketing-research/non-response-bias",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "The above methods give the researcher a sense of whether bias exists, but do not provide a way to deal with it. The following procedures both measure and adjust for non-response bias.",
+    "url": "https://www.greenbook.org/marketing-research/non-response-bias",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
     "quote": "implemented in the U.S. Census Bureau Standard Economic Processing System (StEPS)",
     "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "pass": 3,
@@ -376,6 +594,12 @@
   ],
   "実例": [
    {
+    "quote": "There are many ways to deal with item non-response, with case deletion and mean replacement being the most popular. Due to researchers’ familiarity with item non-response, the remainder of this paper focuses on the less talked about subject of unit non-response bias. Our next steps are to measure and then adjust for any bias in the data.",
+    "url": "https://www.greenbook.org/marketing-research/non-response-bias",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
     "quote": "perspective for monitoring them. We illustrate this approach with examples from ongoing",
     "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "pass": 3,
@@ -556,164 +780,6 @@
     "first_seen": "2026-11-08"
    }
   ],
-  "失敗・落とし穴": [
-   {
-    "quote": "Miriam Rosenthal, and Justin Z. Smith in the cited nonresponse bias studies. This report is released to inform",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "collection, data review), or of the potential level of nonresponse bias (Peytcheva and",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Both numerator and denominator cases are weighted by “unbiased” weights, which",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "extracted from a larger cited nonresponse bias analysis study. Both studies were mandated",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "context of a nonresponse bias analysis study.",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Many programs will also conduct nonresponse bias analyses, which at a minimum",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "selected programs on a case-by-case basis usually as a part of a nonresponse bias analysis.",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Lineback, J.F. and Thompson, K.J. (2010). Conducting Nonresponse Bias Analysis for",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Demographic Subgroups as Evidence of Nonresponse Bias in Survey Estimates. Journal",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Rosenthal, M. and Davie, J. (2008). Nonresponse Bias Analysis for the Quarterly Services",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Smith, J.Z. and Thompson, K.J. (2009). Nonresponse Bias Study for the Annual Capital",
-    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Conducting Nonresponse Bias Analysis for Business",
-    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "bias analysis when response rates fail to m eet target values. The literature focuses",
-    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "largely on nonresponse bias analysis methods for demographic surveys. Such surveys",
-    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "designs with highly skewed populations. This paper examines nonresponse bias analysis",
-    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Key Words: nonresponse bias analysis, response rate, business survey, response model,",
-    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "missingness is the potential for nonresponse bias. Bias in survey estimates could lead to",
-    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "not necessarily indicate nonresponse bias (Groves et al., 2008), they are often used as a",
-    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "evaluate nonresponse bias when expected unit response rates are less than 80% (Graham,",
-    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "nonresponse bias. Much of the research in this area focuses on conducting nonresponse",
-    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "bias studies for household surveys. We need additional tools for analyzing business",
-    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "bias studies for business or establishment surveys. It is also meant to generate discussion",
-    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "methods of assessing nonresponse bias, focusing on methods particularly helpful in the",
-    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "U.S. Census Bureau. The conclusion provid es nonresponse bias questions to consider for",
-    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "For evaluating a business program’s nonresponse bias potential, the above rate computed",
-    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "these “important” units, any nonresponse causes nonr esponse bias. It is unlikely that this",
-    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
   "一次情報の探し方": [
    {
     "quote": "gov/indicator/qss/qsstecdoc.pdf.",
@@ -751,39 +817,49 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/s_o_0517/n/n127e12eaff87",
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/massets/n/n18bbdd7128ff",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/lucid_yucca9544/n/n2c28716f90a5",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/nabexus/n/n035387c5ab2b",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/newbizcreate_777/n/ndbcb9a75ff95",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/hiroyu_note/n/nf3f36cd44507",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.stat.go.jp/info/kenkyu/ecensus/pdf/1-3.pdf",
+    "url": "https://www.mof.go.jp/pri/reference/ssc/summary/shiryou01_20230327.pdf",
     "status": "ok",
     "method": "pdf"
+   },
+   {
+    "url": "https://www.d4dr.jp/topics/research/research-method/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ximix.niandc.co.jp/column/data-analysis-question-design-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipa.go.jp/archive/publish/qv6pgp0000000wrt-att/000079352.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ppc.go.jp/files/pdf/241217_sankoushiryou-1-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mext.go.jp/content/20260701-mxt_syogai01-000046146_11.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/shintaku0707/n/ne0d4b9206189",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://liber-craft.co.jp/column/data-collection",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://www.e-stat.go.jp/stat-search?toukei=00200551",
@@ -791,9 +867,19 @@
     "method": "http"
    },
    {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&toukei=00200551&result_page=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.jil.go.jp/kokunai/statistics/shozai/a/a5-9.html",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.smrj.go.jp/research_case/questionnaire/fbrion0000002pjw-att/kaigaitenkai_202403_2_report_C1.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://www.stat.go.jp/data/jigyou/gaiyou/1.html",
@@ -806,39 +892,34 @@
     "method": "pdf"
    },
    {
+    "url": "https://www.stat.go.jp/info/kenkyu/ecensus/pdf/1-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
     "url": "https://www.soumu.go.jp/main_content/000875164.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.stat.go.jp/library/faq/faq06/faq06a05.html",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/censusgaiyo.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/innovation/evaluation_wg/pdf/001_04_00.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www150.statcan.gc.ca/n1/pub/12-001-x/2022001/article/00006-eng.htm",
-    "status": "ok",
+    "url": "https://academic.oup.com/jrsssa/article/185/Supplement_2/S310/7069524",
+    "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM+NRBA+Report+062623.pdf",
-    "status": "ok",
+    "url": "https://aspe.hhs.gov/sites/default/files/private/pdf/255531/Decliningresponserates.pdf",
+    "status": "http_403",
     "method": "pdf"
    },
    {
-    "url": "https://surveyfutures.net/wp-content/uploads/2026/02/survey-practice-guide-5-non-response-assessment.pdf",
-    "status": "network_error:ConnectionError",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.census.gov/newsroom/blogs/research-matters/2026/09/evaluating-nonresponse-bias.html",
+    "url": "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
     "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
@@ -846,9 +927,14 @@
     "method": "pdf"
    },
    {
-    "url": "https://journals.sagepub.com/doi/pdf/10.2478/jos-2018-0020?download=true",
-    "status": "http_403",
+    "url": "https://www.greenbook.org/marketing-research/non-response-bias",
+    "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "status": "ok",
+    "method": "pdf"
    }
   ]
  },
@@ -856,112 +942,128 @@
   {
    "query": "事業所・企業の調査の欠けを埋める順（大きい先の追跡→行政記録の直接の値→モデルの推計）と、早く答えた先と遅く答えた先の比較で非回答の向きを見る実務（統計局・センサス局・調査方法の書き手） site:note.com",
    "results": [
-    "https://note.com/s_o_0517/n/n127e12eaff87",
-    "https://note.com/massets/n/n18bbdd7128ff",
-    "https://note.com/lucid_yucca9544/n/n2c28716f90a5",
-    "https://note.com/nabexus/n/n035387c5ab2b",
-    "https://note.com/newbizcreate_777/n/ndbcb9a75ff95",
-    "https://note.com/hiroyu_note/n/nf3f36cd44507",
-    "https://note.com/airecipes/n/n25da4e71cdf9"
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.mof.go.jp/pri/reference/ssc/summary/shiryou01_20230327.pdf",
+    "https://www.d4dr.jp/topics/research/research-method/",
+    "https://ximix.niandc.co.jp/column/data-analysis-question-design-guide",
+    "https://www.ipa.go.jp/archive/publish/qv6pgp0000000wrt-att/000079352.pdf",
+    "https://www.ppc.go.jp/files/pdf/241217_sankoushiryou-1-2.pdf",
+    "https://note.com/shintaku0707/n/ne0d4b9206189",
+    "https://www.smrj.go.jp/research_case/questionnaire/fbrion0000002pjw-att/kaigaitenkai_202403_2_report_C1.pdf",
+    "https://liber-craft.co.jp/column/data-collection"
    ],
    "engines": [
-    "ddgs:bing"
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 9
   },
   {
    "query": "事業所・企業の調査の欠けを埋める順（大きい先の追跡→行政記録の直接の値→モデルの推計）と、早く答えた先と遅く答えた先の比較で非回答の向きを見る実務（統計局・センサス局・調査方法の書き手） note",
    "results": [
-    "https://www.stat.go.jp/info/kenkyu/ecensus/pdf/1-3.pdf",
-    "https://www.e-stat.go.jp/stat-search?toukei=00200551",
-    "https://www.jil.go.jp/kokunai/statistics/shozai/a/a5-9.html",
-    "https://www.stat.go.jp/data/jigyou/gaiyou/1.html",
-    "https://www.soumu.go.jp/main_content/000551985.pdf",
-    "https://www.soumu.go.jp/main_content/000875164.pdf",
-    "https://note.com/nabexus/n/n035387c5ab2b"
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.mext.go.jp/content/20260701-mxt_syogai01-000046146_11.pdf",
+    "https://www.mof.go.jp/pri/reference/ssc/summary/shiryou01_20230327.pdf",
+    "https://www.d4dr.jp/topics/research/research-method/",
+    "https://ximix.niandc.co.jp/column/data-analysis-question-design-guide",
+    "https://www.ipa.go.jp/archive/publish/qv6pgp0000000wrt-att/000079352.pdf",
+    "https://note.com/shintaku0707/n/ne0d4b9206189",
+    "https://www.ppc.go.jp/files/pdf/241217_sankoushiryou-1-2.pdf",
+    "https://liber-craft.co.jp/column/data-collection",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200551"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "事業所・企業の調査の欠けを埋める順（大きい先の追跡→行政記録の直接の値→モデルの推計）と、早く答えた先と遅く答えた先の比較で非回答の向きを見る実務（統計局・センサス局・調査方法の書き手） やり方",
    "results": [
-    "https://www.e-stat.go.jp/stat-search?toukei=00200551",
-    "https://www.stat.go.jp/info/kenkyu/ecensus/pdf/1-3.pdf",
-    "https://www.stat.go.jp/library/faq/faq06/faq06a05.html",
-    "https://www.jil.go.jp/kokunai/statistics/shozai/a/a5-9.html",
-    "https://www.soumu.go.jp/main_content/000551985.pdf",
-    "https://www.soumu.go.jp/main_content/000875164.pdf",
-    "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/innovation/evaluation_wg/pdf/001_04_00.pdf"
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.mof.go.jp/pri/reference/ssc/summary/shiryou01_20230327.pdf",
+    "https://www.mext.go.jp/content/20260701-mxt_syogai01-000046146_11.pdf",
+    "https://www.d4dr.jp/topics/research/research-method/",
+    "https://ximix.niandc.co.jp/column/data-analysis-question-design-guide",
+    "https://www.ipa.go.jp/archive/publish/qv6pgp0000000wrt-att/000079352.pdf",
+    "https://www.ppc.go.jp/files/pdf/241217_sankoushiryou-1-2.pdf",
+    "https://note.com/shintaku0707/n/ne0d4b9206189",
+    "https://www.smrj.go.jp/research_case/questionnaire/fbrion0000002pjw-att/kaigaitenkai_202403_2_report_C1.pdf"
    ],
    "engines": [
-    "ddgs:google"
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 9
   },
   {
    "query": "事業所・企業の調査の欠けを埋める順（大きい先の追跡→行政記録の直接の値→モデルの推計）と、早く答えた先と遅く答えた先の比較で非回答の向きを見る実務（統計局・センサス局・調査方法の書き手） 事例",
    "results": [
-    "https://www.stat.go.jp/info/kenkyu/ecensus/pdf/1-3.pdf",
-    "https://www.e-stat.go.jp/stat-search?toukei=00200551",
-    "https://www.stat.go.jp/library/faq/faq06/faq06a05.html",
-    "https://www.jil.go.jp/kokunai/statistics/shozai/a/a5-9.html",
-    "https://www.soumu.go.jp/main_content/000551985.pdf",
-    "https://www.soumu.go.jp/main_content/000875164.pdf",
-    "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/innovation/evaluation_wg/pdf/001_04_00.pdf"
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.mof.go.jp/pri/reference/ssc/summary/shiryou01_20230327.pdf",
+    "https://www.mext.go.jp/content/20260701-mxt_syogai01-000046146_11.pdf",
+    "https://www.d4dr.jp/topics/research/research-method/",
+    "https://ximix.niandc.co.jp/column/data-analysis-question-design-guide",
+    "https://www.ipa.go.jp/archive/publish/qv6pgp0000000wrt-att/000079352.pdf",
+    "https://www.ppc.go.jp/files/pdf/241217_sankoushiryou-1-2.pdf",
+    "https://note.com/shintaku0707/n/ne0d4b9206189",
+    "https://www.smrj.go.jp/research_case/questionnaire/fbrion0000002pjw-att/kaigaitenkai_202403_2_report_C1.pdf",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200551"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "business survey nonresponse follow-up large units administrative data substitution early late respondents comparison",
    "results": [
-    "https://www150.statcan.gc.ca/n1/pub/12-001-x/2022001/article/00006-eng.htm",
-    "https://statspolicy.gov/assets/fcsm/files/docs/FCSM+NRBA+Report+062623.pdf",
-    "https://surveyfutures.net/wp-content/uploads/2026/02/survey-practice-guide-5-non-response-assessment.pdf",
-    "https://www.census.gov/newsroom/blogs/research-matters/2026/09/evaluating-nonresponse-bias.html",
+    "https://academic.oup.com/jrsssa/article/185/Supplement_2/S310/7069524",
+    "https://aspe.hhs.gov/sites/default/files/private/pdf/255531/Decliningresponserates.pdf",
+    "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "https://journals.sagepub.com/doi/pdf/10.2478/jos-2018-0020?download=true",
-    "https://www2.census.gov/library/working-papers/2023/adrm/ces/CES-WP-23-44.pdf"
+    "https://www.greenbook.org/marketing-research/non-response-bias",
+    "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "https://harris.uchicago.edu/files/jsm2015_bgm_unit_non-response_in_cps.pdf",
+    "https://trcmarketresearch.com/whitepaper/non-response-bias-in-survey-sampling-complete/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC4257477/",
+    "https://www.census.gov/newsroom/blogs/research-matters/2026/09/evaluating-nonresponse-bias.html"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 15
   },
   {
    "query": "site:note.com 事業所・企業の調査の欠けを埋める順（大きい先の追跡→行政記録の直接の値→モデルの推計）と、早く答えた先と遅く答えた先の比較で非回答の向きを見る実務（統計局・センサス局・調査方法の書き手）",
    "results": [
-    "https://note.com/s_o_0517/n/n127e12eaff87",
-    "https://note.com/nabexus/n/n035387c5ab2b",
-    "https://note.com/massets/n/n18bbdd7128ff",
-    "https://note.com/glocal2021/n/n8d6526834ac5",
-    "https://note.com/newbizcreate_777/n/ndbcb9a75ff95",
-    "https://note.com/lucid_yucca9544/n/n2c28716f90a5",
-    "https://note.com/aegis_nova/n/n29634166f582"
+    "https://note.com/jack4manastalk/n/ne356da0a34cb",
+    "https://note.com/nekota_toure/n/n0255c5773eee",
+    "https://note.com/loyal_ivy9071/n/n25de3448f0a8",
+    "https://note.com/loyal_ivy9071/n/n95be3510a3b2",
+    "https://note.com/2025onkochishin/n/na2e2b56595f8",
+    "https://note.com/ocaml/n/na588eab9a296",
+    "https://note.com/studiopetit_note/n/n8d9a8537272c"
    ],
    "engines": [
-    "ddgs:google"
+    "yahoo_jp"
    ],
    "n_hits": 7
   },
   {
    "query": "site:x.com 事業所・企業の調査の欠けを埋める順（大きい先の追跡→行政記録の直接の値→モデルの推計）と、早く答えた先と遅く答えた先の比較で非回答の向きを見る実務（統計局・センサス局・調査方法の書き手）",
    "results": [
+    "https://x.com/kaigo_bunrei/status/2112451898133590134",
     "https://x.com/kate_sekkei/status/2110687130943156228",
     "https://x.com/mikaeru676523/status/2115341731839516798",
     "https://x.com/E3hERbowxOCWXtl/status/2105627593471107312",
-    "https://x.com/mi_autolab/status/2107856301632184566",
-    "https://x.com/piske_cc/status/2077349931933982857",
     "https://x.com/kokiaioutput/status/2100004790801727757",
-    "https://x.com/osa_aidx/status/2028705498237956559"
+    "https://x.com/mi_autolab/status/2107856301632184566",
+    "https://x.com/piske_cc/status/2077349931933982857"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -973,11 +1075,11 @@
     "https://jp.linkedin.com/pulse/how-enterprise-architecture-bridges-gap-outdated-jaafar-mohammad-ynzwf?tl=ja",
     "https://www.linkedin.com/posts/walkme-japan_ai導入の理想と現実のギャップを埋める方法グローバルの最新ai調査から読-activity-7458032857547010048-WWaK",
     "https://www.linkedin.com/posts/thefilamentjp_新規事業の社内広報戦略社内における情報の透明性確保新規事業お悩み相談室-ｰ第-activity-7176049832753582080-_133",
-    "https://cn.linkedin.com/posts/hideki-nozawa-ab9906201_日本コングロマリット企業の未来へ向けて第八章インターナルカーボンプライシング-activity-6987929852129550338-cUzH",
-    "https://sr.linkedin.com/posts/manlio_攻撃で大慌てになる企業に欠けていたサイバーレジリエンスの視点-activity-7004706995295424512-Nm7l"
+    "https://sr.linkedin.com/posts/manlio_攻撃で大慌てになる企業に欠けていたサイバーレジリエンスの視点-activity-7004706995295424512-Nm7l",
+    "https://cn.linkedin.com/posts/hideki-nozawa-ab9906201_日本コングロマリット企業の未来へ向けて第八章インターナルカーボンプライシング-activity-6987929852129550338-cUzH"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -986,68 +1088,153 @@
    "results": [
     "https://www.facebook.com/AomoriPref.koho/photos/令和8年経済センサス活動調査がはじまります統計分析課昨年は国勢調査にご協力いただきありがとうございましたところで経済の国勢調査とも呼ばれている経済センサス活動調/1233720345615013/",
     "https://www.facebook.com/Japan.RIETI/posts/bblウェビナー動画労働生産性と実質賃金の長期停滞jipデータベース2021および事業所企業データによる分析スピーカー深尾-京司rietiファカルティフェロープ/4661834907241664/",
-    "https://www.facebook.com/EYJapanOfficial/photos/全9回連載事業ポートフォリオ変革のためのカーブアウト第3回対象事業の独立運営に向けて解決すべき課題を特定するカーブアウト分析as-isとto-beの差分をどう埋/1542034731267842/",
     "https://www.facebook.com/AomoriPref.koho/posts/令和8年経済センサス活動調査がはじまります統計分析課昨年は国勢調査にご協力いただきありがとうございましたところで経済の国勢調査とも呼ばれている経済センサス活動調/1233720375615010/",
-    "https://www.facebook.com/PRI.MOF.Japan/photos/12月1日-法人企業統計調査-令和7年79月期の結果を公表いたしました下記リンクから調査の結果についてご確認いただけますのでどうぞご覧くださいhttpswwwm/1271725918328971/",
     "https://www.facebook.com/horei.gis/posts/中小受託事業者との取引に関する調査令和8年度中小受託事業者との取引に関する調査を実施しています-中小企業庁-特設サイト-中小企業庁は取適法の規定に基づき受託取引/1653107256686060/",
-    "https://www.facebook.com/dnpjp.official/posts/100年以上続く長寿企業の経営実態を調査持続的成長の秘訣は守り続けることではなく時代にあわせて変化し続けることdnpは企業の持続的成長について長寿企業に関する経/1459784552835891/"
+    "https://www.facebook.com/PRI.MOF.Japan/photos/12月1日-法人企業統計調査-令和7年79月期の結果を公表いたしました下記リンクから調査の結果についてご確認いただけますのでどうぞご覧くださいhttpswwwm/1271725918328971/",
+    "https://www.facebook.com/dnpjp.official/posts/100年以上続く長寿企業の経営実態を調査持続的成長の秘訣は守り続けることではなく時代にあわせて変化し続けることdnpは企業の持続的成長について長寿企業に関する経/1459784552835891/",
+    "https://www.facebook.com/morii.yoshihide/videos/起業初期は社長が穴を埋める年間1000件の事業計画を見る中小企業診断士中小企業の伸びる事業失敗する事業を毎日解説-続きはyoutube本編でnontitle6感/1460024396012490/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
   {
    "query": "事業所・企業の調査の欠けを埋める順（大きい先の追跡→行政記録の直接の値→モデルの推計）と、早く答えた先と遅く答えた先の比較で非回答の向きを見る実務（統計局・センサス局・調査方法の書き手） note 社長",
    "results": [
-    "https://www.stat.go.jp/info/kenkyu/ecensus/pdf/1-3.pdf",
-    "https://www.e-stat.go.jp/stat-search?toukei=00200551",
-    "https://www.stat.go.jp/data/jigyou/gaiyou/1.html",
-    "https://www.jil.go.jp/kokunai/statistics/shozai/a/a5-9.html",
-    "https://www.soumu.go.jp/main_content/000551985.pdf",
-    "https://www.soumu.go.jp/main_content/000875164.pdf",
-    "https://note.com/nabexus/n/n035387c5ab2b"
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.mof.go.jp/pri/reference/ssc/summary/shiryou01_20230327.pdf",
+    "https://www.mext.go.jp/content/20260701-mxt_syogai01-000046146_11.pdf",
+    "https://www.d4dr.jp/topics/research/research-method/",
+    "https://ximix.niandc.co.jp/column/data-analysis-question-design-guide",
+    "https://www.ipa.go.jp/archive/publish/qv6pgp0000000wrt-att/000079352.pdf",
+    "https://note.com/shintaku0707/n/ne0d4b9206189",
+    "https://www.ppc.go.jp/files/pdf/241217_sankoushiryou-1-2.pdf",
+    "https://liber-craft.co.jp/column/data-collection",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200551"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "事業所・企業の調査の欠けを埋める順（大きい先の追跡→行政記録の直接の値→モデルの推計）と、早く答えた先と遅く答えた先の比較で非回答の向きを見る実務（統計局・センサス局・調査方法の書き手） X 投稿",
    "results": [
-    "https://www.e-stat.go.jp/stat-search?toukei=00200551",
-    "https://www.stat.go.jp/info/kenkyu/ecensus/pdf/1-3.pdf",
-    "https://www.stat.go.jp/data/jigyou/gaiyou/1.html",
-    "https://www.jil.go.jp/kokunai/statistics/shozai/a/a5-9.html",
-    "https://www.soumu.go.jp/main_content/000551985.pdf",
-    "https://www.soumu.go.jp/main_content/000875164.pdf",
-    "https://www.meti.go.jp/statistics/tyo/census/censusgaiyo.html"
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.mof.go.jp/pri/reference/ssc/summary/shiryou01_20230327.pdf",
+    "https://www.d4dr.jp/topics/research/research-method/",
+    "https://ximix.niandc.co.jp/column/data-analysis-question-design-guide",
+    "https://www.ipa.go.jp/archive/publish/qv6pgp0000000wrt-att/000079352.pdf",
+    "https://www.ppc.go.jp/files/pdf/241217_sankoushiryou-1-2.pdf",
+    "https://note.com/shintaku0707/n/ne0d4b9206189",
+    "https://www.smrj.go.jp/research_case/questionnaire/fbrion0000002pjw-att/kaigaitenkai_202403_2_report_C1.pdf",
+    "https://liber-craft.co.jp/column/data-collection",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200551"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "business survey nonresponse follow-up large units administrative data substitution early late respondents comparison site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/advice/0/how-can-you-adjust-non-response-missing-data",
-    "https://www.linkedin.com/advice/0/how-can-you-effectively-follow-up-survey-non-respondents",
-    "https://www.linkedin.com/advice/0/what-some-strategies-dealing-nonresponse-survey-rhuaf",
-    "https://www.linkedin.com/advice/0/what-most-effective-ways-follow-up-nonrespondents",
-    "https://www.linkedin.com/advice/0/how-can-you-account-non-response-bias-survey-sampling",
-    "https://www.linkedin.com/posts/jon-burton-6648364_report-5-targeted-procedures-evidence-reviewpdf-activity-7323669167016992769-8gV7",
-    "https://www.linkedin.com/advice/1/what-best-practices-handling-non-response-your-qathe"
+    "https://www.linkedin.com/in/johnwhalen",
+    "https://www.linkedin.com/in/winston-chou-6491b0168",
+    "https://es.linkedin.com/in/rahulbroy",
+    "https://www.linkedin.com/in/maureenwclough",
+    "https://www.linkedin.com/in/heinrichpeters",
+    "https://www.linkedin.com/in/jason-a-moss",
+    "https://www.linkedin.com/in/stuartjacksonlek",
+    "https://www.linkedin.com/in/samluks",
+    "https://www.linkedin.com/in/m-ashkan-seyedi-2358b66",
+    "https://www.linkedin.com/in/lexfridman"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   }
  ],
  "missing": {},
- "new_this_run": {},
- "runs": 4,
+ "new_this_run": {
+  "失敗・落とし穴": [
+   {
+    "quote": "Non-Response Bias In Survey Sampling — Greenbook",
+    "url": "https://www.greenbook.org/marketing-research/non-response-bias",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "Non-Response Bias In Survey Sampling",
+    "url": "https://www.greenbook.org/marketing-research/non-response-bias",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "Market research accounts for many scenarios to ensure high quality of data. One of the most overlooked problems is non-response bias. TRC describes ways to reduce its effects through survey design and data adjustment in this white paper.",
+    "url": "https://www.greenbook.org/marketing-research/non-response-bias",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "There are many ways to deal with item non-response, with case deletion and mean replacement being the most popular. Due to researchers’ familiarity with item non-response, the remainder of this paper focuses on the less talked about subject of unit non-response bias. Our next steps are to measure and then adjust for any bias in the data.",
+    "url": "https://www.greenbook.org/marketing-research/non-response-bias",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "Identifying Unit Non-Response Bias",
+    "url": "https://www.greenbook.org/marketing-research/non-response-bias",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "Using Known Database Variables to Identify Bias",
+    "url": "https://www.greenbook.org/marketing-research/non-response-bias",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "Adjusting for Unit Non-Response Bias",
+    "url": "https://www.greenbook.org/marketing-research/non-response-bias",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "The above methods give the researcher a sense of whether bias exists, but do not provide a way to deal with it. The following procedures both measure and adjust for non-response bias.",
+    "url": "https://www.greenbook.org/marketing-research/non-response-bias",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "There are many ways to deal with item non-response, with case deletion and mean replacement being the most popular. Due to researchers’ familiarity with item non-response, the remainder of this paper focuses on the less talked about subject of unit non-response bias. Our next steps are to measure and then adjust for any bias in the data.",
+    "url": "https://www.greenbook.org/marketing-research/non-response-bias",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "The above methods give the researcher a sense of whether bias exists, but do not provide a way to deal with it. The following procedures both measure and adjust for non-response bias.",
+    "url": "https://www.greenbook.org/marketing-research/non-response-bias",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "There are many ways to deal with item non-response, with case deletion and mean replacement being the most popular. Due to researchers’ familiarity with item non-response, the remainder of this paper focuses on the less talked about subject of unit non-response bias. Our next steps are to measure and then adjust for any bias in the data.",
+    "url": "https://www.greenbook.org/marketing-research/non-response-bias",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   }
+  ]
+ },
+ "runs": 5,
  "first_researched_at": "2026-11-08T06:39:43.664701+00:00"
 }

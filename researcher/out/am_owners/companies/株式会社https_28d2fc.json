@@ -1,0 +1,427 @@
+{
+ "name": "株式会社https",
+ "aliases": [],
+ "context": "PBF=yes 装置=DMG森精機;DMP Factory;DMP Flex;EBM;EOS M 400;Farsoon;JAM-5200;JAM-5200EBM;ソディック;パウダーベッド;日本電子;松浦機械;電子ビーム金属3D 出典=https://3dprinter.co.jp/news/13985/",
+ "researched_at": "2026-11-10T20:39:51.399895+00:00",
+ "official_url": "https://justprotocols.com/",
+ "identified_by": "search:ddgs:google:https",
+ "profile": {},
+ "evidence": {
+  "金属AM装置の保有（型番・製造元・台数・導入年）": [
+   {
+    "quote": "物流会社向けに、配送管理システムの開発と、導入後の保守・運用を行っています",
+    "url": "https://amanaut.co.jp/blog/company-profile-writing/",
+    "pass": 3
+   },
+   {
+    "quote": "\"description\": \"株式会社サンプルは、東京都内の中小企業向けに会計ソフトの導入支援を行う会社です",
+    "url": "https://amanaut.co.jp/blog/company-profile-writing/",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "並べ方は、会社を特定する情報（会社名・所在地・設立・代表者）を先に、規模を示す情報（資本金・従業員数・売上高）をその次に、事業内容と任意の項目を後ろに置く形が一般的です",
+    "url": "https://amanaut.co.jp/blog/company-profile-writing/",
+    "pass": 3
+   },
+   {
+    "quote": "設立、移転、新事業の開始、受賞、資本金の変更など、会社の性格が変わった出来事を選ぶと、短くても会社の歩みが伝わります",
+    "url": "https://amanaut.co.jp/blog/company-profile-writing/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金・売上高・従業員数は、変わる数字です",
+    "url": "https://amanaut.co.jp/blog/company-profile-writing/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金や従業員数が少なくても載せたほうがいいですか？",
+    "url": "https://amanaut.co.jp/blog/company-profile-writing/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "on X: \"https://t.co/vN3SH4nQXx\" / X ًً on X: \"https://t.co/vN3SH4nQXx\" / X https://t.co/vN3SH4nQXx",
+    "url": "https://x.com/2gCie/status/2119524565999112284",
+    "pass": 3
+   },
+   {
+    "quote": "Making Twitter more secure: HTTPS - blog.x.com Today, we’re taking an important step to make it easier to manage the security of your Twitter experience – we are adding a user setting that lets you always use HTTPS when accessing Twitter.com.",
+    "url": "https://blog.x.com/en/company/making-twitter-more-secure-https",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・本文）": [
+   {
+    "quote": "Making Twitter more secure: HTTPS",
+    "url": "https://blog.x.com/en/company/making-twitter-more-secure-https",
+    "pass": 3
+   },
+   {
+    "quote": "Today, we’re taking an important step to make it easier to manage the security of your Twitter experience – we are adding a user setting that lets you always use HTTPS when accessing Twitter.com. Using HTTPS for your favorite Internet services is particularly important when using them over unsecured WiFi connections.",
+    "url": "https://blog.x.com/en/company/making-twitter-more-secure-https",
+    "pass": 3
+   },
+   {
+    "quote": "For some time, users have been able to use Twitter via HTTPS by going to",
+    "url": "https://blog.x.com/en/company/making-twitter-more-secure-https",
+    "pass": 3
+   },
+   {
+    "quote": ". We’ve made it simpler for users to do this by adding the option to always use HTTPS.",
+    "url": "https://blog.x.com/en/company/making-twitter-more-secure-https",
+    "pass": 3
+   },
+   {
+    "quote": "To turn on HTTPS, go to",
+    "url": "https://blog.x.com/en/company/making-twitter-more-secure-https",
+    "pass": 3
+   },
+   {
+    "quote": "and check the box next to “Always use HTTPS,” which is at the bottom of the page. This will improve the security of your account and better protect your information if you’re using Twitter over an unsecured Internet connection, like a public WiFi network, where someone may be able to eavesdrop on your site activity. In the future, we hope to make HTTPS the default setting.",
+    "url": "https://blog.x.com/en/company/making-twitter-more-secure-https",
+    "pass": 3
+   },
+   {
+    "quote": "We’ve already made this setting the default for a number of clients and activities. In these cases, HTTPS is used whether or not you’ve enabled the “Always use HTTPS” setting:",
+    "url": "https://blog.x.com/en/company/making-twitter-more-secure-https",
+    "pass": 3
+   },
+   {
+    "quote": "When you log into Twitter, so your password stays protected.",
+    "url": "https://blog.x.com/en/company/making-twitter-more-secure-https",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "HTTP vs HTTPS: Everything You Need to Know (And Why It ... Mar 23, 2026 · Every time you visit a website, your browser and a server are having a conversation. But are they whispering, or shouting across a crowded room? That's the difference between HTTP and HTTPS.",
+    "url": "https://www.linkedin.com/pulse/http-vs-https-everything-you-need-know-why-matters-more-singh-jyvtc",
+    "pass": 3
+   },
+   {
+    "quote": "Is HTTPS Always Secure? Not Always—And Here's ... - LinkedIn Apr 15, 2025 · HTTPS means that the data sent between your browser and the website is encrypted. That’s a good thing. But encryption alone doesn’t guarantee that the website you're connecting to is trustworthy.",
+    "url": "https://www.linkedin.com/pulse/https-always-secure-alwaysand-heres-why-you-should-care-pawan-k-gupta-bbgtc",
+    "pass": 3
+   },
+   {
+    "quote": "LinkedIn | LinkedIn Website https://careers.linkedin.com External link for LinkedIn Industry Software Development Company size 10,001+ employees Headquarters Sunnyvale, CA",
+    "url": "https://in.linkedin.com/company/linkedin",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Facebook uses secure browsing (HTTPS) | Facebook Help Center Secure browsing (HTTPS) is a security feature that automatically encrypts your connection to Facebook. This helps protect your account by making it harder for anyone to access your Facebook information without your permission.",
+    "url": "https://www.facebook.com/help/156201551113407/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://justprotocols.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://justprotocols.com/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://amanaut.co.jp/blog/company-profile-writing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aaam.jp/columns/company-profile-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yamada-tools.jp/blog/kaisha-setsuritsu-kanzen-guide-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chuokatan.co.jp/products/3dp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mitsu-ri.net/articles/metal-laminated-modeling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai2.fromation.co.jp/archives/25409",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai2.fromation.co.jp/archives/21198",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kabutrack.com/learn/2026/06/20/parent-company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zukaikeizai.com/ranking/revper/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kinmyakucode.com/ja/rankings/employee-count/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yuho-nenshu.com/ranking/sales-per-employee",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/2gCie/status/2119524565999112284",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://blog.x.com/en/company/making-twitter-more-secure-https",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/http-vs-https-everything-you-need-know-why-matters-more-singh-jyvtc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/https-always-secure-alwaysand-heres-why-you-should-care-pawan-k-gupta-bbgtc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/linkedin",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/help/156201551113407/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "https",
+   "results": [
+    "https://en.wikipedia.org/wiki/HTTPS",
+    "https://grokipedia.com/page/HTTPS",
+    "https://www.geeksforgeeks.org/html/explain-working-of-https/",
+    "https://www.cloudflare.com/learning/ssl/what-is-https/",
+    "https://www.ssltrust.ca/learning/ssl/what-is-https",
+    "https://justprotocols.com/protocols/https",
+    "https://www.mcafee.com/learn/what-is-https-and-why-it-matters/",
+    "https://http.dev/https"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "https 会社概要 資本金 設立",
+   "results": [
+    "https://amanaut.co.jp/blog/company-profile-writing/",
+    "https://aaam.jp/columns/company-profile-guide",
+    "https://yamada-tools.jp/blog/kaisha-setsuritsu-kanzen-guide-2026",
+    "https://www.mizuhobank.co.jp/corporate/account/tips/topic_159.html",
+    "https://biz.moneyforward.com/establish/basic/48359/",
+    "https://www.moj.go.jp/MINJI/minji06_00134.html",
+    "https://sogyotecho.jp/kaisyaseturitu-matome/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "https 金属3Dプリンタ 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "https 金属積層造形 設備",
+   "results": [
+    "https://chuokatan.co.jp/products/3dp/",
+    "https://mitsu-ri.net/articles/metal-laminated-modeling",
+    "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "https://kyowa-industrial.jp/am",
+    "https://www.jfe-steel.co.jp/products/solution/metal-3d-printing/index.html",
+    "https://jampt.jp/",
+    "https://jampt.jp/equipment/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "https 株主 出資 親会社",
+   "results": [
+    "https://chigai2.fromation.co.jp/archives/25409",
+    "https://chigai2.fromation.co.jp/archives/21198",
+    "https://kabutrack.com/learn/2026/06/20/parent-company.html",
+    "https://keiyaku-watch.jp/media/hourei/oyakokaisya/",
+    "https://biz.moneyforward.com/establish/basic/82608/",
+    "https://shokubalog.com/articles/group-gaisha-oyagaisha-shirabe-kata",
+    "https://www.keihi.com/column/7249/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "https 売上高 従業員数",
+   "results": [
+    "https://zukaikeizai.com/ranking/revper/",
+    "https://kinmyakucode.com/ja/rankings/employee-count/",
+    "https://yuho-nenshu.com/ranking/sales-per-employee",
+    "https://hrview.jp/ranking/revenue-per-employee",
+    "https://edinetty.com/ranking/number_of_employees",
+    "https://zukaikeizai.com/ranking/revper/2025/",
+    "https://corp.rakuten.co.jp/investors/financial/indicators.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com https",
+   "results": [
+    "https://biz.note.com/",
+    "https://money.note.com/",
+    "https://note.com/settings/account",
+    "https://biz.note.com/n/na5c1a9eb46de",
+    "https://note.com/tabokiti/n/n87131c4a2e45?hl=en",
+    "https://tales.note.com/grand_hyena7705/board/threads/turrmkjepejfb",
+    "https://tales.note.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com https",
+   "results": [
+    "https://x.com/",
+    "https://x.com/2gCie/status/2119524565999112284",
+    "https://blog.x.com/en/company/making-twitter-more-secure-https",
+    "https://about.x.com/en",
+    "https://help.x.com/en/forms/account-access",
+    "https://help.x.com/en",
+    "https://handles.x.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com https",
+   "results": [
+    "https://www.linkedin.com/pulse/http-vs-https-everything-you-need-know-why-matters-more-singh-jyvtc",
+    "https://www.linkedin.com/pulse/https-always-secure-alwaysand-heres-why-you-should-care-pawan-k-gupta-bbgtc",
+    "https://in.linkedin.com/company/linkedin",
+    "https://ca.linkedin.com/in/goldsteinira",
+    "https://uk.linkedin.com/in/emmawalmsleyhp",
+    "https://bb.linkedin.com/in/sharonhh",
+    "https://ch.linkedin.com/in/andy-yen-03a9676"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com https",
+   "results": [
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/�%",
+    "https://www.facebook.com/help/156201551113407/",
+    "https://secure.facebook.com/login/",
+    "https://developers.facebook.com/blog/post/2018/06/08/enforce-https-facebook-login/",
+    "https://developers.facebook.com/documentation/facebook-login/web/enabling-https/",
+    "https://developer.facebook.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "https note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.com/sprout_me",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://plus-note.jp/category/ceo/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://note.com/hashtag/社長"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "https X 投稿",
+   "results": [
+    "https://x.com/",
+    "https://help.x.com/ja",
+    "https://help.x.com/ja/using-x/mentions-and-replies",
+    "https://x.com/Xcorpjp",
+    "https://www.witha.jp/sns・マーケティング/x-posting-guide-beginners/",
+    "https://addness.co.jp/media/x-publishing-post/",
+    "https://x-force.thinkforce.co.jp/archives/461"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部18頁・検索12回）",
+  "資本金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部18頁・検索12回）",
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部18頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部18頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部18頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部18頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部18頁・検索12回）",
+  "保有設備": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部18頁・検索12回）",
+  "使っている金属粉（材質）": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部18頁・検索12回）",
+  "用途・客の産業": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部18頁・検索12回）"
+ }
+}
